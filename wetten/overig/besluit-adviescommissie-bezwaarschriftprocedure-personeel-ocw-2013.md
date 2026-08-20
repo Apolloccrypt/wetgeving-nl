@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 december 2013, nr. DPO/576040, houdende regels met betrekking tot de adviescommissie ten behoeve van de beslissing op bezwaarschriften van personeel van het ministerie van Onderwijs, Cultuur en Wetenschap (Besluit Adviescommissie Bezwaarschriftprocedure Personeel OCW 2013)"
+citeertitel: "Besluit Adviescommissie Bezwaarschriftprocedure Personeel OCW 2013"
 identifier: "BWBR0034415"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034415"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "12487543"
-version_id: "20998252"
-internal_id: "C30163281"
-label_id: "12458334"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034415/2014-01-01/0"
-intitule_bron: "Stcrt.2013-35271"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-06"
-intitule_published: "2013-12-18"
-intitule_in_force: "2013-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35271"
-original_signed_date: "2013-12-06"
-original_published_date: "2013-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35271"
-entry_into_force_date: "2013-12-19"
-jci_1_3: "jci1.3:c:BWBR0034415&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034415&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Adviescommissie Bezwaarschriftprocedure Personeel OCW 2013"
-signed_date: "2013-12-06"
-entry_into_force: "2013-12-19"
+publicatiedatum: 2013-12-19
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034415"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 december 2013, nr. DPO/576040, houdende regels met betrekking tot de adviescommissie ten behoeve van de beslissing op bezwaarschriften van personeel van het ministerie van Onderwijs, Cultuur en Wetenschap (Besluit Adviescommissie Bezwaarschriftprocedure Personeel OCW 2013)
-
-Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) en [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -46,23 +20,23 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **het ministerie:** het Ministerie van Onderwijs, Cultuur en Wetenschap;
+- b. *het ministerie:* het Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- c. **de Wet:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- c. *de Wet:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- d. **besluit:** een besluit, als bedoeld in de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), van of namens de minister waarbij een ambtenaar als zodanig belanghebbende is;
+- d. *besluit:* een besluit, als bedoeld in de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), van of namens de minister waarbij een ambtenaar als zodanig belanghebbende is;
 
-- e. **commissie:** de adviescommissie, als bedoeld in [artikel 7:13 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13), die is ingesteld op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=2&z=2014-01-01&g=2014-01-01);
+- e. *commissie:* de adviescommissie, als bedoeld in [artikel 7:13 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13), die is ingesteld op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=2&z=2014-01-01&g=2014-01-01);
 
-- f. **EC O&P:** het Expertisecentrum Organisatie en Personeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- f. *EC O&P:* het Expertisecentrum Organisatie en Personeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- g. **secretaris:** de secretaris van de commissie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01);
+- g. *secretaris:* de secretaris van de commissie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034415&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01);
 
-- h. **medewerker:** het personeelslid en gewezen personeelslid van het ministerie, aangesteld krachtens het Algemeen Rijksambtenarenreglement;
+- h. *medewerker:* het personeelslid en gewezen personeelslid van het ministerie, aangesteld krachtens het Algemeen Rijksambtenarenreglement;
 
-- i. **bezwaarde:** de ambtenaar daaronder begrepen zijn nagelaten betrekkingen of rechtverkrijgenden die als zodanig een bezwaarschrift tegen een besluit indient dan wel indienen.
+- i. *bezwaarde:* de ambtenaar daaronder begrepen zijn nagelaten betrekkingen of rechtverkrijgenden die als zodanig een bezwaarschrift tegen een besluit indient dan wel indienen.
 
 #### Paragraaf 2. De commissie
 
@@ -160,9 +134,9 @@ Het is de leden en de secretaris van de commissie niet toegestaan:
 
 - c. over een aan hen voorgelegde zaak of over een zaak die, naar zij weten of kunnen vermoeden, aan hen zal worden voorgelegd zich uit te laten in enig onderhoud of gesprek met:
 
-- 1°. de bezwaarde, zijn raadsman of gemachtigde;
+   - 1°. de bezwaarde, zijn raadsman of gemachtigde;
 
-- 2°. degene die het betrokken besluit heeft genomen of de door deze aangewezen vertegenwoordiger;
+   - 2°. degene die het betrokken besluit heeft genomen of de door deze aangewezen vertegenwoordiger;
 
 - d. enige schriftelijke informatie in ontvangst te nemen van de in onderdeel c bedoelde personen of dezen in de gelegenheid te stellen anderszins hierover mededelingen aan hen te doen, met uitzondering van informatie of mededelingen aan de secretaris in het kader van de normale secretariaatswerkzaamheden.
 
@@ -185,5 +159,3 @@ Het [Besluit Adviescommissie Bezwaarschriftprocedure Personeel OCW 2006](https:/
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit Adviescommissie Bezwaarschriftprocedure Personeel OCW 2013.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

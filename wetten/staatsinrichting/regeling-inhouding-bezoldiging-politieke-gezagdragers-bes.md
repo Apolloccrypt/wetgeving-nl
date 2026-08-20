@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 september 2013, nr. 2013-0000547251, houdende regels voor inhouding op de bezoldiging van politieke gezagdragers ten behoeve van hun pensioen (Regeling inhouding bezoldiging politieke gezagdragers BES)"
+citeertitel: "Regeling inhouding bezoldiging politieke gezagdragers BES"
 identifier: "BWBR0033934"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033934"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "12372093"
-version_id: "20765152"
-internal_id: "C29828391"
-label_id: "12343084"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033934/2014-01-01/0"
-intitule_bron: "Stcrt.2013-26902"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-09-20"
-intitule_published: "2013-09-30"
-intitule_in_force: "2013-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-26902"
-original_signed_date: "2013-09-20"
-original_published_date: "2013-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-26902"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0033934&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0033934&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling inhouding bezoldiging politieke gezagdragers BES"
-signed_date: "2013-09-20"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0033934"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 september 2013, nr. 2013-0000547251, houdende regels voor inhouding op de bezoldiging van politieke gezagdragers ten behoeve van hun pensioen (Regeling inhouding bezoldiging politieke gezagdragers BES)
-
-Gelet op [artikel 31 van het Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=31);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **politieke gezagdrager:** de gezaghebber, de eilandgedeputeerde en het lid van de eilandsraad van een openbaar lichaam, met uitzondering van het lid van de eilandsraad als bedoeld in [artikel 1a van het Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=1a);
+- a. *politieke gezagdrager:* de gezaghebber, de eilandgedeputeerde en het lid van de eilandsraad van een openbaar lichaam, met uitzondering van het lid van de eilandsraad als bedoeld in [artikel 1a van het Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=1a);
 
-- b. **bezoldiging:** de vaste inkomensbestanddelen waarop de politieke gezagdrager aanspraak heeft;
+- b. *bezoldiging:* de vaste inkomensbestanddelen waarop de politieke gezagdrager aanspraak heeft;
 
-- c. **uitkering:** de uitkering en de voortgezette uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=2) onderscheidenlijk [artikel 5 van het Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=5);
+- c. *uitkering:* de uitkering en de voortgezette uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=2) onderscheidenlijk [artikel 5 van het Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=5);
 
 ##### Artikel 2
 
@@ -71,5 +45,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2014.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling inhouding bezoldiging politieke gezagdragers BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

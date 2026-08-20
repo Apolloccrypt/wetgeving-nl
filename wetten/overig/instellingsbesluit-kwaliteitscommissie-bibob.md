@@ -1,60 +1,35 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie van 10 december 2013, nr. 462409, houdende instelling van de kwaliteitscommissie Bibob (Instellingsbesluit kwaliteitscommissie Bibob)"
+citeertitel: "Instellingsbesluit kwaliteitscommissie Bibob"
 identifier: "BWBR0034492"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034492"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12504373"
-version_id: "21047832"
-internal_id: "C30226921"
-label_id: "12475034"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034492/2014-01-01/0"
-intitule_bron: "Stcrt.2013-35904"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-10"
-intitule_published: "2013-12-23"
-intitule_in_force: "2013-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35904"
-original_signed_date: "2013-12-10"
-original_published_date: "2013-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35904"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034492&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034492&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit kwaliteitscommissie Bibob"
-signed_date: "2013-12-10"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034492"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Minister van Veiligheid en Justitie van 10 december 2013, nr. 462409, houdende instelling van de kwaliteitscommissie Bibob (Instellingsbesluit kwaliteitscommissie Bibob)
-
-Overwegende dat het wenselijk is een externe kwaliteitscommissie Bibob in te stellen om de kwaliteit van de adviezen van het Bureau Bibob, alsmede de zorgvuldigheid waarmee deze tot stand komen, periodiek te toetsen;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** de Minister van Veiligheid en Justitie;
+- a. *Onze Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **Wet Bibob:** [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
+- b. *Wet Bibob:*
+ [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
 
-- c. **De directeur:** de directeur van de Dienst Justis, tevens directeur van het Bureau Bibob;
+- c. *De directeur:* de directeur van de Dienst Justis, tevens directeur van het Bureau Bibob;
 
-- d. **Het Bureau:** het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, zoals bedoeld in [artikel 8 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8);
+- d. *Het Bureau:* het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, zoals bedoeld in [artikel 8 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8);
 
-- e. **Adviezen:** de adviezen van het Bureau zoals bedoeld in [artikel 9 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9);
+- e. *Adviezen:* de adviezen van het Bureau zoals bedoeld in [artikel 9 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9);
 
-- f. **De kwaliteitscommissie:** de kwaliteitscommissie Bibob.
+- f. *De kwaliteitscommissie:* de kwaliteitscommissie Bibob.
 
 ##### Artikel 2. Instelling
 
@@ -125,5 +100,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2014.
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit kwaliteitscommissie Bibob.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

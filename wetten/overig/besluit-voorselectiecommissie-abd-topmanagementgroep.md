@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister voor Wonen en Rijksdienst van 28 mei 2013, nr. 2013-0000314852, houdende de instelling en werkwijze van de Voorselectiecommissie ABD-topmanagementgroep (Besluit Voorselectiecommissie ABD-topmanagementgroep)"
+citeertitel: "Besluit Voorselectiecommissie ABD-topmanagementgroep"
 identifier: "BWBR0033652"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-06-23"
-last_updated: "2016-06-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033652"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12311043"
-version_id: "20635142"
-internal_id: "C29535681"
-label_id: "12282234"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033652/2016-06-23/0"
-intitule_bron: "Stcrt.2013-19176"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-05-28"
-intitule_published: "2013-07-11"
-intitule_in_force: "2013-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-19176"
-original_signed_date: "2013-05-28"
-original_published_date: "2013-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-19176"
-entry_into_force_date: "2013-07-13"
-jci_1_3: "jci1.3:c:BWBR0033652&z=2016-06-23&g=2016-06-23"
-jci_1_0: "1.0:c:BWBR0033652&g=2016-06-23"
-citeertitel_status: "redactioneel"
-short_title: "Besluit Voorselectiecommissie ABD-topmanagementgroep"
-signed_date: "2013-05-28"
-entry_into_force: "2013-07-13"
+publicatiedatum: 2013-07-13
+laatste_update: 2016-06-23
+status: geldig
+toestand: 2016-06-23
+bron: "https://wetten.overheid.nl/BWBR0033652"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Minister voor Wonen en Rijksdienst van 28 mei 2013, nr. 2013-0000314852, houdende de instelling en werkwijze van de Voorselectiecommissie ABD-topmanagementgroep (Besluit Voorselectiecommissie ABD-topmanagementgroep)
-
-Overwegende dat het wenselijk is ten behoeve van selectie van kandidaten voor functies als bedoeld in [artikel 7, vierde lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=7), een commissie voor de voorselectie van deze kandidaten in te stellen;
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 augustus 2013, 2013-0000110985, tot cofinanciering van sectorplannen (Regeling cofinanciering sectorplannen)"
+citeertitel: "Regeling cofinanciering sectorplannen"
 identifier: "BWBR0033761"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-14"
-last_updated: "2018-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033761"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12335423"
-version_id: "20695582"
-internal_id: "C29710871"
-label_id: "12306804"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033761/2018-11-14/0"
-intitule_bron: "Stcrt.2013-22962"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-08-12"
-intitule_published: "2013-08-14"
-intitule_in_force: "2013-08-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-22962"
-original_signed_date: "2013-08-12"
-original_published_date: "2013-08-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-22962"
-entry_into_force_date: "2013-08-15"
-jci_1_3: "jci1.3:c:BWBR0033761&z=2018-11-14&g=2018-11-14"
-jci_1_0: "1.0:c:BWBR0033761&g=2018-11-14"
-citeertitel_status: "officieel"
-short_title: "Regeling cofinanciering sectorplannen"
-signed_date: "2013-08-12"
-entry_into_force: "2013-08-15"
+publicatiedatum: 2013-08-15
+laatste_update: 2018-11-14
+status: geldig
+toestand: 2018-11-14
+bron: "https://wetten.overheid.nl/BWBR0033761"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 augustus 2013, 2013-0000110985, tot cofinanciering van sectorplannen (Regeling cofinanciering sectorplannen)
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3) en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,75 +20,75 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **aantal arbeidsjaareenheden:** het aantal bij de organisatie gedurende een jaar voltijds werkende werknemers op grond van een arbeidsovereenkomst of een aanstelling in openbare dienst, waarbij deeltijdarbeid in fracties van arbeidsjaareenheden wordt uitgedrukt, en dienstverbanden op grond van een BBL niet worden meegerekend;
+- – *aantal arbeidsjaareenheden:* het aantal bij de organisatie gedurende een jaar voltijds werkende werknemers op grond van een arbeidsovereenkomst of een aanstelling in openbare dienst, waarbij deeltijdarbeid in fracties van arbeidsjaareenheden wordt uitgedrukt, en dienstverbanden op grond van een BBL niet worden meegerekend;
 
-- –. **aanvraagtijdvak:** een door de minister vastgesteld tijdvak waarin aanvragen tot cofinanciering van sectorplannen kunnen worden ingediend;
+- – *aanvraagtijdvak:* een door de minister vastgesteld tijdvak waarin aanvragen tot cofinanciering van sectorplannen kunnen worden ingediend;
 
-- –. **algemene opleiding:** een interne of externe opleiding, niet zijnde bedrijfsspecifieke training, teneinde de leerling vakspecifieke beroepsvaardigheden aan te leren;
+- – *algemene opleiding:* een interne of externe opleiding, niet zijnde bedrijfsspecifieke training, teneinde de leerling vakspecifieke beroepsvaardigheden aan te leren;
 
-- –. **arbeidsmarktregio:** een arbeidsmarktregio die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=1&z=2018-11-14&g=2018-11-14) bij deze regeling;
+- – *arbeidsmarktregio:* een arbeidsmarktregio die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=1&z=2018-11-14&g=2018-11-14) bij deze regeling;
 
-- –. **arbeidsorganisatie:** iedere eenheid, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;
+- – *arbeidsorganisatie:* iedere eenheid, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;
 
-- –. **BBL:** beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
+- – *BBL:* beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
-- –. **branche:** een tak van een handel of nijverheid binnen een sector;
+- – *branche:* een tak van een handel of nijverheid binnen een sector;
 
-- –. **CAO:** een collectieve arbeidsovereenkomst als bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1);
+- – *CAO:* een collectieve arbeidsovereenkomst als bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1);
 
-- –. **centrale werkgeversorganisatie:** een organisatie van werkgevers die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=2&z=2018-11-14&g=2018-11-14) bij deze regeling;
+- – *centrale werkgeversorganisatie:* een organisatie van werkgevers die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=2&z=2018-11-14&g=2018-11-14) bij deze regeling;
 
-- –. **cofinanciering:** het percentage van de kosten in de begroting van het sectorplan dat op grond van deze regeling wordt gesubsidieerd;
+- – *cofinanciering:* het percentage van de kosten in de begroting van het sectorplan dat op grond van deze regeling wordt gesubsidieerd;
 
-- –. **hoofdaanvrager:** de rechtspersoon die namens een samenwerkingsverband een sectorplan indient en de subsidie aanvraagt op grond van deze regeling;
+- – *hoofdaanvrager:* de rechtspersoon die namens een samenwerkingsverband een sectorplan indient en de subsidie aanvraagt op grond van deze regeling;
 
-- –. **kenniscentrum beroepsonderwijs bedrijfsleven:** een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1);
+- – *kenniscentrum beroepsonderwijs bedrijfsleven:* een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1);
 
-- –. **kwetsbare werknemer:** een persoon die ouder is dan 55 jaar, of in de voorafgaande zes maanden geen reguliere betaalde betrekking heeft gevonden, of niet in het bezit is van een startkwalificatie;
+- – *kwetsbare werknemer:* een persoon die ouder is dan 55 jaar, of in de voorafgaande zes maanden geen reguliere betaalde betrekking heeft gevonden, of niet in het bezit is van een startkwalificatie;
 
-- –. **loonkosten:** het brutoloon van de werknemer vermeerderd met een percentage van 32% van dit brutoloon;
+- – *loonkosten:* het brutoloon van de werknemer vermeerderd met een percentage van 32% van dit brutoloon;
 
-- –. **maatregelen:** alle activiteiten die tot realisatie van de doelen van het sectorplan leiden;
+- – *maatregelen:* alle activiteiten die tot realisatie van de doelen van het sectorplan leiden;
 
-- –. **de minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- – *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **langdurig werkloze jongere:** een persoon die op het moment waarop een aanvang wordt gemaakt met de inzet van een maatregel ten diens behoeven jonger is dan 27 jaar en die geen reguliere betaalde betrekking heeft gehad in de voorafgaande zes maanden;
+- – *langdurig werkloze jongere:* een persoon die op het moment waarop een aanvang wordt gemaakt met de inzet van een maatregel ten diens behoeven jonger is dan 27 jaar en die geen reguliere betaalde betrekking heeft gehad in de voorafgaande zes maanden;
 
-- –. **MKB-bedrijf:** een onderneming waar op 31 december 2012 minder dan 250 personen werkzaam zijn en waarvan de meest recente jaaromzet 50 miljoen EUR of het jaarlijkse balanstotaal 43 miljoen EUR niet overschrijdt;
+- – *MKB-bedrijf:* een onderneming waar op 31 december 2012 minder dan 250 personen werkzaam zijn en waarvan de meest recente jaaromzet 50 miljoen EUR of het jaarlijkse balanstotaal 43 miljoen EUR niet overschrijdt;
 
-- –. **O&O-fonds:** een Opleidings- en Ontwikkelingsfonds, opgericht bij een bij de minister aangemelde collectieve arbeidsovereenkomst;
+- – *O&O-fonds:* een Opleidings- en Ontwikkelingsfonds, opgericht bij een bij de minister aangemelde collectieve arbeidsovereenkomst;
 
-- –. **onderneming:** iedere eenheid, ongeacht haar rechtsvorm, die commerciële economische activiteiten uitoefent;
+- – *onderneming:* iedere eenheid, ongeacht haar rechtsvorm, die commerciële economische activiteiten uitoefent;
 
-- –. **oudere werknemer:** een werknemer, ouder dan 55 jaar, doch jonger dan de pensioensgerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
+- – *oudere werknemer:* een werknemer, ouder dan 55 jaar, doch jonger dan de pensioensgerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
 
-- –. **potentiële werknemer:** een langdurig werkloze jongere, die bij een arbeidsorganisatie werkervaring opdoet gedurende een periode van maximaal zes maanden, anders dan op grond van een arbeidsovereenkomst, uitzendovereenkomst, aanstelling in openbare dienst of als zelfstandige en aan wie een arbeidsovereenkomst of aanstelling in openbare dienst in het vooruitzicht is gesteld;
+- – *potentiële werknemer:* een langdurig werkloze jongere, die bij een arbeidsorganisatie werkervaring opdoet gedurende een periode van maximaal zes maanden, anders dan op grond van een arbeidsovereenkomst, uitzendovereenkomst, aanstelling in openbare dienst of als zelfstandige en aan wie een arbeidsovereenkomst of aanstelling in openbare dienst in het vooruitzicht is gesteld;
 
-- –. **prestatie:** de daadwerkelijk uitgevoerde maatregelen;
+- – *prestatie:* de daadwerkelijk uitgevoerde maatregelen;
 
-- –. **project:** het geheel van gelijksoortige maatregelen, dat wordt uitgevoerd door een onderneming of arbeidsorganisatie en dat wordt gesubsidieerd op grond van deze regeling;
+- – *project:* het geheel van gelijksoortige maatregelen, dat wordt uitgevoerd door een onderneming of arbeidsorganisatie en dat wordt gesubsidieerd op grond van deze regeling;
 
-- –. **regeling:** de Regeling cofinanciering sectorplannen;
+- – *regeling:* de Regeling cofinanciering sectorplannen;
 
-- –. **reguliere betaalde betrekking:** een betaalde betrekking voor de duur van meer dan een maand op grond van een arbeidsovereenkomst of aanstelling in openbare dienst voor gemiddeld minstens 20 uur per week;
+- – *reguliere betaalde betrekking:* een betaalde betrekking voor de duur van meer dan een maand op grond van een arbeidsovereenkomst of aanstelling in openbare dienst voor gemiddeld minstens 20 uur per week;
 
-- –. **samenwerkingsverband:** een samenwerkingsverband dat ten minste bestaat uit een of meer werkgeversorganisaties en een of meer werknemersorganisaties;
+- – *samenwerkingsverband:* een samenwerkingsverband dat ten minste bestaat uit een of meer werkgeversorganisaties en een of meer werknemersorganisaties;
 
-- –. **sector:** een sector die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=3&z=2018-11-14&g=2018-11-14) bij deze regeling;
+- – *sector:* een sector die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=3&z=2018-11-14&g=2018-11-14) bij deze regeling;
 
-- –. **sectorplan:** een door een hoofdaanvrager namens een samenwerkingsverband ingediend plan met maatregelen voor knelpunten die blijkens een sectoranalyse in de betreffende sector aanwezig zijn;
+- – *sectorplan:* een door een hoofdaanvrager namens een samenwerkingsverband ingediend plan met maatregelen voor knelpunten die blijkens een sectoranalyse in de betreffende sector aanwezig zijn;
 
-- –. **startkwalificatie:** een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of een diploma hoger algemeen voortgezet onderwijs als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7) onderscheidenlijk [artikel 8 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8);
+- – *startkwalificatie:* een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of een diploma hoger algemeen voortgezet onderwijs als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7) onderscheidenlijk [artikel 8 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8);
 
-- –. **subsidiabele activiteiten:** alle maatregelen in het sectorplan die voor cofinanciering in aanmerking komen;
+- – *subsidiabele activiteiten:* alle maatregelen in het sectorplan die voor cofinanciering in aanmerking komen;
 
-- –. **werknemer:** persoon die op het moment waarop een aanvang wordt gemaakt met de inzet van een maatregel ten diens behoeven jonger is dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), en die op grond van een arbeidsovereenkomst, dan wel een aanstelling in openbare dienst, arbeid verricht als werknemer, uitzendkracht of die arbeid verricht als zelfstandige zonder personeel;
+- – *werknemer:* persoon die op het moment waarop een aanvang wordt gemaakt met de inzet van een maatregel ten diens behoeven jonger is dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), en die op grond van een arbeidsovereenkomst, dan wel een aanstelling in openbare dienst, arbeid verricht als werknemer, uitzendkracht of die arbeid verricht als zelfstandige zonder personeel;
 
-- –. **werkgeversorganisatie:** een vereniging met volledige rechtsbevoegdheid van werkgevers die partij is bij een op het moment van aanvraag geldende collectieve arbeidsovereenkomst, of een collectieve arbeidsvoorwaardenregeling voor personen werkzaam in openbare dienst, dan wel bij afwezigheid daarvan bij de laatst geldende collectieve arbeidsovereenkomst of collectieve arbeidsvoorwaardenregeling, dan wel een vereniging met volledige rechtsbevoegdheid van werkgevers die is aangesloten bij een centrale werkgeversorganisatie;
+- – *werkgeversorganisatie:* een vereniging met volledige rechtsbevoegdheid van werkgevers die partij is bij een op het moment van aanvraag geldende collectieve arbeidsovereenkomst, of een collectieve arbeidsvoorwaardenregeling voor personen werkzaam in openbare dienst, dan wel bij afwezigheid daarvan bij de laatst geldende collectieve arbeidsovereenkomst of collectieve arbeidsvoorwaardenregeling, dan wel een vereniging met volledige rechtsbevoegdheid van werkgevers die is aangesloten bij een centrale werkgeversorganisatie;
 
-- –. **werknemersorganisatie:** vereniging met volledige rechtsbevoegdheid van werknemers, niet zijnde zelfstandigen zonder personeel, die partij is bij een op het moment van aanvraag geldende collectieve arbeidsovereenkomst of een collectieve arbeidsvoorwaardenregeling voor personen werkzaam in openbare dienst, dan wel bij afwezigheid daarvan bij de laatst geldende collectieve arbeidsovereenkomst of collectieve arbeidsvoorwaardenregeling;
+- – *werknemersorganisatie:* vereniging met volledige rechtsbevoegdheid van werknemers, niet zijnde zelfstandigen zonder personeel, die partij is bij een op het moment van aanvraag geldende collectieve arbeidsovereenkomst of een collectieve arbeidsvoorwaardenregeling voor personen werkzaam in openbare dienst, dan wel bij afwezigheid daarvan bij de laatst geldende collectieve arbeidsovereenkomst of collectieve arbeidsvoorwaardenregeling;
 
-- –. **wettelijk minimumloon:** de aanspraak, bedoeld in [artikel 7, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), of het percentage hiervan, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=2) of [3 van het Besluit minimumjeugdloon](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=3).
+- – *wettelijk minimumloon:* de aanspraak, bedoeld in [artikel 7, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), of het percentage hiervan, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=2) of [3 van het Besluit minimumjeugdloon](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=3).
 
 ##### Artikel 1.2. Financiering sectorplannen
 
@@ -128,7 +102,13 @@ In deze regeling wordt verstaan onder:
 
 5. Maatregelen in sectorplannen komen voor een maximale termijn van twee aaneengesloten jaren voor cofinanciering in aanmerking. De aanvang van deze termijn kan niet eerder liggen dan na publicatie van deze regeling in de Staatscourant.
 
-##### Artikel 1.3. Toepasselijkheid [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211)
+##### Artikel 1.2a. Verlenging looptijd sectorplannen
+
+1. De minister kan op verzoek van de hoofdaanvrager eenmalig de looptijd van een sectorplan met maximaal zes maanden verlengen, waarbij [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-11-14), onverminderd van toepassing blijft.
+
+2. Het verzoek, bedoeld in het eerste lid, wordt niet eerder ingediend dan het moment waarop het tussentijds voortgangsverslag, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.4&z=2018-11-14&g=2018-11-14), is overlegd en niet later dan het moment waarop 24 maanden zijn verstreken na de datum van de subsidiebeschikking.
+
+##### Artikel 1.3. Toepasselijkheid Algemene regeling SZW-subsidies
 
 Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211) van toepassing voor zover daarvan in deze regeling niet wordt afgeweken.
 
@@ -146,7 +126,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 ##### Artikel 1.6. Mandaat directeur Agentschap SZW
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Subsidieverlening
 
@@ -170,13 +150,13 @@ Vervallen
 
 4. Als hoofdaanvrager kan optreden:
 
-- –. een werkgeversorganisatie;
+- – een werkgeversorganisatie;
 
-- –. een werknemersorganisatie;
+- – een werknemersorganisatie;
 
-- –. een O&O-fonds; of
+- – een O&O-fonds; of
 
-- –. een Kenniscentrum beroepsonderwijs bedrijfsleven.
+- – een Kenniscentrum beroepsonderwijs bedrijfsleven.
 
 5. De hoofdaanvrager toont aan te beschikken over een eigen vermogen van ten minste 80% van het aangevraagde subsidiebedrag, exclusief overhead als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.6&z=2018-11-14&g=2018-11-14).
 
@@ -310,7 +290,7 @@ Voor cofinanciering komen in aanmerking:
 
 ##### Artikel 4.1. Toepasselijkheid Groepsvrijstellingsverordening
 
-Dit hoofdstuk valt onder de [verordening (EG) nr. 800/2008](32008R0800) van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de gemeenschappelijke markt verenigbaar worden verklaard (‘de algemene groepsvrijstellingsverordening’) (PbEU L214).
+Dit hoofdstuk valt onder de verordening (EG) nr. 800/2008 van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de gemeenschappelijke markt verenigbaar worden verklaard (‘de algemene groepsvrijstellingsverordening’) (PbEU L214).
 
 ##### Artikel 4.2. Maatregelen ten behoeve van advisering
 
@@ -352,7 +332,7 @@ Dit hoofdstuk valt onder de [verordening (EG) nr. 800/2008](32008R0800) van de C
 
 ##### Artikel 4.5. Maatregelen voor indienstneming van werkloze jongeren
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Subsidieverstrekking
 
@@ -459,355 +439,3 @@ Deze regeling wordt aangehaald als: Regeling cofinanciering sectorplannen
 1. Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2020. In afwijking van de eerste zin blijft deze regeling, zoals die luidde op 31 december 2019, van toepassing op de afwikkeling van verleende subsidies op grond van deze regeling.
-
-## Bijlage 1. Arbeidsmarktregio’s
-
-Het Uitvoeringsinstituut Werknemersverzekeingen en gemeenten hanteren voor de Nederlandse arbeidsmarkt een indeling in 35 arbeidsmarktregio’s. Per regio is er een centrumgemeente, hieronder aangeduid met *.
-
-### Achterhoek
-
-Aalten | Berkelland | Bronckhorst | Doesburg | *Doetinchem | Montferland | Oost Gelre | Oude IJsselstreek | Winterswijk
-
-### Drechtsteden
-
-Alblasserdam | *Dordrecht| Hendrik-Ido-Ambacht | Papendrecht | Sliedrecht | Zwijndrecht
-
-### Drenthe
-
-Borger-Odoorn | Coevorden | De Wolden | *Emmen | Hoogeveen | Midden-Drenthe
-
-### Flevoland
-
-*Almere | Dronten | Lelystad | Noordoostpolder | Urk
-
-### Food Valley
-
-Barneveld | *Ede | Renswoude | Rhenen | Scherpenzeel | Veenendaal | Wageningen
-
-### Friesland
-
-Achtkarspelen | Ameland | Boarnsterhim | Dantumadiel | Dongeradeel | Ferwerderadiel | Franekeradeel | Gaasterlân-Sleat | Harlingen | Heerenveen | Het Bildt | Kollumerland Ca | *Leeuwarden | Leeuwarderadeel | Lemsterland | Littenseradiel | Menameradiel | Ooststellingwerf | Opsterland | Schiermonnikoog | Skarsterlân | Smallingerland | Súdwest-Fryslân | Terschelling | Tytsjerksteradiel | Vlieland | Weststellingwerf
-
-### Gooi- en Vechstreek
-
-Blaricum | Bussum | Eemnes | *Hilversum | Huizen | Laren | Muiden | Naarden | Weesp | Wijdemeren
-
-### Gorinchem
-
-Giessenlanden | *Gorinchem | Hardinxveld-Giessendam | Leerdam | Lingewaal | Molenwaard | Zederik
-
-### Groningen
-
-Aa en Hunze | Appingedam | Assen | Bedum | Bellingwedde | De Marne | Delfzijl | Eemsmond | *Groningen | Grootegast | Haren | Hoogezand-Sappemeer | Leek | Loppersum | Marum | Menterwolde | Noordenveld | Oldambt | Pekela | Slochteren | Stadskanaal | Ten Boer | Tynaarlo | Veendam | Vlagtwedde | Winsum | Zuidhorn
-
-### Groot-Amsterdam
-
-Aalsmeer | Amstelveen | *Amsterdam | De Ronde Venen | Diemen | Landsmeer | Haarlemmermeer | Ouder-Amstel | Uithoorn
-
-### Haaglanden
-
-Delft | Midden-Delfland | Rijswijk | *’s-Gravenhage | Westland
-
-### Helmond-De Peel
-
-Asten | Deurne | Geldrop-Mierlo | Gemert-Bakel | *Helmond | Laarbeek | Someren
-
-### Holland Rijnland
-
-Alphen aan den Rijn | Boskoop | Hillegom | Kaag en Braassem | Katwijk | *Leiden | Leiderdorp | Lisse | Nieuwkoop | Noordwijk | Noordwijkerhout | Oegstgeest | Rijnwoude | Teylingen | Zoeterwoude
-
-### Ijsselvechtstreek
-
-Dalfsen | Hardenberg | Hattem | Heerde | Kampen | Meppel | Oldebroek | Ommen | Raalte | Staphorst | Steenwijkerland | Westerveld | Zwartewaterland | *Zwolle
-
-### Midden-Brabant
-
-Alphen-Chaam (5130–5131) | Baarle-Nassau | Dongen | Gilze en Rijen | Goirle | Heusden | Hilvarenbeek | Loon op Zand | Oisterwijk | *Tilburg | Waalwijk
-
-### Midden-Gelderland
-
-*Arnhem | Duiven | Lingewaard | Overbetuwe | Renkum | Rheden | Rijnwaarden | Rozendaal | Westervoort | Zevenaar
-
-### Midden-Holland
-
-Bergambacht | Bodegraven-Reeuwijk | *Gouda | Nederlek | Ouderkerk | Schoonhoven | Vlist | Waddinxveen | Zuidplas
-
-### Midden-Limburg
-
-Echt-Susteren | Leudal | Maasgouw | Nederweert | Roerdalen | *Roermond | Weert
-
-### Midden-Utrecht
-
-Bunnik | De Bilt | Houten | IJsselstein | Lopik | Montfoort | Nieuwegein | Oudewater | Stichtse Vecht | *Utrecht | Utrechtse Heuvelrug | Vianen | Wijk bij Duurstede | Woerden | Zeist
-
-### Noord-Holland Noord
-
-*Alkmaar | Bergen NH | Castricum | Den Helder | Drechterland | Enkhuizen | Graft-De Rijp | Heerhugowaard | Heiloo | Hollands Kroon | Hoorn | Koggenland | Langedijk | Medemblik | Opmeer | Schagen | Schermer | Stede Broec | Texel
-
-### Noord-Limburg
-
-Beesel | Bergen LB | Gennep | Horst aan de Maas | Peel en Maas | *Venlo | Venray
-
-### Noordoost-Brabant
-
-Boxmeer | Bernheze | Boekel | Boxtel | Cuijk | Grave | Haaren | Mill en Sint Hubert | *’sHertogenbosch | Landerd | Maasdonk | Oss | Schijndel | Sint Anthonis | Sint-Michielsgestel |Sint-Oedenrode | Uden | Veghel | Vught
-
-### Oost-Utrecht
-
-*Amersfoort | Baarn | Bunschoten | Leusden | Nijkerk | Soest | Woudenberg
-
-### Rijnmond
-
-Albrandswaard | Barendrecht | Bernisse | Binnenmaas | Brielle | Capelle aan den IJssel | Cromstrijen | Goeree-Overflakkee | Hellevoetsluis | Korendijk | Krimpen aan den IJssel | Maassluis | Oud-Beijerland | Ridderkerk | *Rotterdam | Schiedam | Spijkenisse | Strijen | Vlaardingen | Westvoorne
-
-### Rivierenland
-
-Buren | Culemborg | Geldermalsen | Neder-Betuwe | Maasdriel | Neerijnen | *Tiel | West Maas en Waal | Zaltbommel
-
-### Stedendriehoek
-
-*Apeldoorn | Brummen | Deventer | Elburg | Epe | Ermelo | Harderwijk | Lochem | Nunspeet | Olst-Wijhe | Putten | Voorst | Zeewolde | Zutphen
-
-### Twente
-
-Almelo | Borne | Dinkelland | *Enschede | Haaksbergen | Hellendoorn | Hengelo | Hof van Twente | Losser | Oldenzaal | Rijssen-Holten | Tubbergen | Twenterand | Wierden
-
-### West-Brabant
-
-Aalburg | Alphen-Chaam (4855–4861) | Bergen op Zoom | *Breda | Drimmelen | Etten-Leur | Geertruidenberg | Halderberge | Moerdijk | Oosterhout | Roosendaal | Rucphen | Steenbergen | Werkendam | Woensdrecht | Woudrichem | Zundert
-
-### Zaanstreek/Waterland
-
-Beemster | Edam-Volendam | Oostzaan | Purmerend | Waterland | Wormerland | *Zaanstad | Zeevang
-
-### Zeeland
-
-Borsele, *Goes, Hulst, Kapelle, Middelburg, Noord Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen
-
-### Zuid-Holland Centraal
-
-Lansingerland | Leidschendam-Voorburg | Pijnacker-Nootdorp | Voorschoten | Wassenaar |*Zoetermeer
-
-### Zuid-Gelderland
-
-Beuningen | Druten | Groesbeek | Heumen | Millingen aan de Rijn | Mook en Middelaar | *Nijmegen | Ubbergen | Wijchen
-
-### Zuid-Kennemerland
-
-Beverwijk | Bloemendaal | *Haarlem | Haarlemmerliede Ca | Heemskerk | Heemstede | Uitgeest | Velsen | Zandvoort
-
-### Zuid-Limburg
-
-Beek | Brunssum | Eijsden-Margraten | Gulpen-Wittem | *Heerlen | Kerkrade | Landgraaf | Maastricht | Meerssen | Nuth | Onderbanken | Schinnen | Simpelveld | Sittard-Geleen | Stein | Vaals | Valkenburg aan de Geul | Voerendaal
-
-### Zuidoost-Brabant
-
-Bergeijk | Best | Bladel | Cranendonck | Eersel | *Eindhoven | Heeze-Leende | Nuenen Ca | Oirschot | Reusel-De Mierden | Son en Breugel | Valkenswaard | Veldhoven | Waalre
-
-## Bijlage 2. Centrale werkgeversorganisaties
-
-Vereniging VNO-NCW
-
-Koninklijke Vereniging MKB-Nederland
-
-Vereniging Land- en Tuinbouworganisatie Nederland
-
-## Bijlage 2. Centrale werkgeversorganisaties
-
-Vereniging VNO-NCW
-
-Koninklijke Vereniging MKB-Nederland
-
-Vereniging Land- en Tuinbouworganisatie Nederland
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
-
-##### Artikel 1.2a. Verlenging looptijd sectorplannen
-
-1. De minister kan op verzoek van de hoofdaanvrager eenmalig de looptijd van een sectorplan met maximaal zes maanden verlengen, waarbij [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-11-14), onverminderd van toepassing blijft.
-
-2. Het verzoek, bedoeld in het eerste lid, wordt niet eerder ingediend dan het moment waarop het tussentijds voortgangsverslag, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.4&z=2018-11-14&g=2018-11-14), is overlegd en niet later dan het moment waarop 24 maanden zijn verstreken na de datum van de subsidiebeschikking.
-
-### Hoofdstuk 2. Subsidieverlening
-
-### Hoofdstuk 3. Subsidiabele kosten en maatregelen
-
-### Hoofdstuk 4. Plannen met uitvoering op ondernemingsniveau
-
-### Hoofdstuk 5. Subsidieverstrekking
-
-### Hoofdstuk 6. Evaluatie
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage 1. Arbeidsmarktregio’s
-
-Het Uitvoeringsinstituut Werknemersverzekeingen en gemeenten hanteren voor de Nederlandse arbeidsmarkt een indeling in 35 arbeidsmarktregio’s. Per regio is er een centrumgemeente, hieronder aangeduid met *.
-
-### Achterhoek
-
-Aalten | Berkelland | Bronckhorst | Doesburg | *Doetinchem | Montferland | Oost Gelre | Oude IJsselstreek | Winterswijk
-
-### Drechtsteden
-
-Alblasserdam | *Dordrecht| Hendrik-Ido-Ambacht | Papendrecht | Sliedrecht | Zwijndrecht
-
-### Drenthe
-
-Borger-Odoorn | Coevorden | De Wolden | *Emmen | Hoogeveen | Midden-Drenthe
-
-### Flevoland
-
-*Almere | Dronten | Lelystad | Noordoostpolder | Urk
-
-### Food Valley
-
-Barneveld | *Ede | Renswoude | Rhenen | Scherpenzeel | Veenendaal | Wageningen
-
-### Friesland
-
-Achtkarspelen | Ameland | Boarnsterhim | Dantumadiel | Dongeradeel | Ferwerderadiel | Franekeradeel | Gaasterlân-Sleat | Harlingen | Heerenveen | Het Bildt | Kollumerland Ca | *Leeuwarden | Leeuwarderadeel | Lemsterland | Littenseradiel | Menameradiel | Ooststellingwerf | Opsterland | Schiermonnikoog | Skarsterlân | Smallingerland | Súdwest-Fryslân | Terschelling | Tytsjerksteradiel | Vlieland | Weststellingwerf
-
-### Gooi- en Vechstreek
-
-Blaricum | Bussum | Eemnes | *Hilversum | Huizen | Laren | Muiden | Naarden | Weesp | Wijdemeren
-
-### Gorinchem
-
-Giessenlanden | *Gorinchem | Hardinxveld-Giessendam | Leerdam | Lingewaal | Molenwaard | Zederik
-
-### Groningen
-
-Aa en Hunze | Appingedam | Assen | Bedum | Bellingwedde | De Marne | Delfzijl | Eemsmond | *Groningen | Grootegast | Haren | Hoogezand-Sappemeer | Leek | Loppersum | Marum | Menterwolde | Noordenveld | Oldambt | Pekela | Slochteren | Stadskanaal | Ten Boer | Tynaarlo | Veendam | Vlagtwedde | Winsum | Zuidhorn
-
-### Groot-Amsterdam
-
-Aalsmeer | Amstelveen | *Amsterdam | De Ronde Venen | Diemen | Landsmeer | Haarlemmermeer | Ouder-Amstel | Uithoorn
-
-### Haaglanden
-
-Delft | Midden-Delfland | Rijswijk | *’s-Gravenhage | Westland
-
-### Helmond-De Peel
-
-Asten | Deurne | Geldrop-Mierlo | Gemert-Bakel | *Helmond | Laarbeek | Someren
-
-### Holland Rijnland
-
-Alphen aan den Rijn | Boskoop | Hillegom | Kaag en Braassem | Katwijk | *Leiden | Leiderdorp | Lisse | Nieuwkoop | Noordwijk | Noordwijkerhout | Oegstgeest | Rijnwoude | Teylingen | Zoeterwoude
-
-### Ijsselvechtstreek
-
-Dalfsen | Hardenberg | Hattem | Heerde | Kampen | Meppel | Oldebroek | Ommen | Raalte | Staphorst | Steenwijkerland | Westerveld | Zwartewaterland | *Zwolle
-
-### Midden-Brabant
-
-Alphen-Chaam (5130–5131) | Baarle-Nassau | Dongen | Gilze en Rijen | Goirle | Heusden | Hilvarenbeek | Loon op Zand | Oisterwijk | *Tilburg | Waalwijk
-
-### Midden-Gelderland
-
-*Arnhem | Duiven | Lingewaard | Overbetuwe | Renkum | Rheden | Rijnwaarden | Rozendaal | Westervoort | Zevenaar
-
-### Midden-Holland
-
-Bergambacht | Bodegraven-Reeuwijk | *Gouda | Nederlek | Ouderkerk | Schoonhoven | Vlist | Waddinxveen | Zuidplas
-
-### Midden-Limburg
-
-Echt-Susteren | Leudal | Maasgouw | Nederweert | Roerdalen | *Roermond | Weert
-
-### Midden-Utrecht
-
-Bunnik | De Bilt | Houten | IJsselstein | Lopik | Montfoort | Nieuwegein | Oudewater | Stichtse Vecht | *Utrecht | Utrechtse Heuvelrug | Vianen | Wijk bij Duurstede | Woerden | Zeist
-
-### Noord-Holland Noord
-
-*Alkmaar | Bergen NH | Castricum | Den Helder | Drechterland | Enkhuizen | Graft-De Rijp | Heerhugowaard | Heiloo | Hollands Kroon | Hoorn | Koggenland | Langedijk | Medemblik | Opmeer | Schagen | Schermer | Stede Broec | Texel
-
-### Noord-Limburg
-
-Beesel | Bergen LB | Gennep | Horst aan de Maas | Peel en Maas | *Venlo | Venray
-
-### Noordoost-Brabant
-
-Boxmeer | Bernheze | Boekel | Boxtel | Cuijk | Grave | Haaren | Mill en Sint Hubert | *’sHertogenbosch | Landerd | Maasdonk | Oss | Schijndel | Sint Anthonis | Sint-Michielsgestel |Sint-Oedenrode | Uden | Veghel | Vught
-
-### Oost-Utrecht
-
-*Amersfoort | Baarn | Bunschoten | Leusden | Nijkerk | Soest | Woudenberg
-
-### Rijnmond
-
-Albrandswaard | Barendrecht | Bernisse | Binnenmaas | Brielle | Capelle aan den IJssel | Cromstrijen | Goeree-Overflakkee | Hellevoetsluis | Korendijk | Krimpen aan den IJssel | Maassluis | Oud-Beijerland | Ridderkerk | *Rotterdam | Schiedam | Spijkenisse | Strijen | Vlaardingen | Westvoorne
-
-### Rivierenland
-
-Buren | Culemborg | Geldermalsen | Neder-Betuwe | Maasdriel | Neerijnen | *Tiel | West Maas en Waal | Zaltbommel
-
-### Stedendriehoek
-
-*Apeldoorn | Brummen | Deventer | Elburg | Epe | Ermelo | Harderwijk | Lochem | Nunspeet | Olst-Wijhe | Putten | Voorst | Zeewolde | Zutphen
-
-### Twente
-
-Almelo | Borne | Dinkelland | *Enschede | Haaksbergen | Hellendoorn | Hengelo | Hof van Twente | Losser | Oldenzaal | Rijssen-Holten | Tubbergen | Twenterand | Wierden
-
-### West-Brabant
-
-Aalburg | Alphen-Chaam (4855–4861) | Bergen op Zoom | *Breda | Drimmelen | Etten-Leur | Geertruidenberg | Halderberge | Moerdijk | Oosterhout | Roosendaal | Rucphen | Steenbergen | Werkendam | Woensdrecht | Woudrichem | Zundert
-
-### Zaanstreek/Waterland
-
-Beemster | Edam-Volendam | Oostzaan | Purmerend | Waterland | Wormerland | *Zaanstad | Zeevang
-
-### Zeeland
-
-Borsele, *Goes, Hulst, Kapelle, Middelburg, Noord Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen
-
-### Zuid-Holland Centraal
-
-Lansingerland | Leidschendam-Voorburg | Pijnacker-Nootdorp | Voorschoten | Wassenaar |*Zoetermeer
-
-### Zuid-Gelderland
-
-Beuningen | Druten | Groesbeek | Heumen | Millingen aan de Rijn | Mook en Middelaar | *Nijmegen | Ubbergen | Wijchen
-
-### Zuid-Kennemerland
-
-Beverwijk | Bloemendaal | *Haarlem | Haarlemmerliede Ca | Heemskerk | Heemstede | Uitgeest | Velsen | Zandvoort
-
-### Zuid-Limburg
-
-Beek | Brunssum | Eijsden-Margraten | Gulpen-Wittem | *Heerlen | Kerkrade | Landgraaf | Maastricht | Meerssen | Nuth | Onderbanken | Schinnen | Simpelveld | Sittard-Geleen | Stein | Vaals | Valkenburg aan de Geul | Voerendaal
-
-### Zuidoost-Brabant
-
-Bergeijk | Best | Bladel | Cranendonck | Eersel | *Eindhoven | Heeze-Leende | Nuenen Ca | Oirschot | Reusel-De Mierden | Son en Breugel | Valkenswaard | Veldhoven | Waalre
-
-## Bijlage 3. Sectorindeling
-
-| Indeling naar sector | Indeling naar sector |
-| --- | --- |
-| 1. | Landbouw, bosbouw, visserij en delfstoffenwinning • Landbouw, veehouderij, jacht en dienstverlening voor de landbouw en jacht • Bosbouw, exploitatie van bossen en dienstverlening voor de bosbouw • Winning van aardolie en aardgas • Winning van delfstoffen (geen olie en gas) • Dienstverlening voor de winning van delfstoffen |
-| 2. | Procesindustrie: • Vervaardiging van voedingsmiddelen • Vervaardiging van dranken • Vervaardiging van tabaksproducten • Vervaardiging van cokesoven producten en aardolieverwerking • Vervaardiging van chemische producten • Vervaardiging van farmaceutische producten en grondstoffen • Vervaardiging van producten van rubber en kunststof • Vervaardiging van overige niet-metaalhoudende minerale producten |
-| 3. | Metalektro en metaalnijverheid, vervaardiging van: • Metalen in primaire vorm • Producten van metaal • Computers en elektronische en optische apparatuur • Elektrische apparatuur • Overige machines en apparaten • Auto’s, aanhangwagens en opleggers • Overige transportmiddelen |
-| 4. | Overige industrie, energievoorziening, waterbedrijven en afvalbeheer • Vervaardiging van kleding • Vervaardiging van leer, lederwaren en schoenen • Primaire houtbewerking en vervaardiging van artikelen van hout, kurk, riet en vlechtwerk (geen • meubels) • Vervaardiging van papier, karton en papier- en kartonwaren • Drukkerijen, reproductie van opgenomen media • Vervaardiging van meubels • Vervaardiging van overige goederen • Reparatie en installatie van machines en apparaten • Productie en distributie van en handel in elektriciteit, aardgas, stoom en gekoelde lucht • Winning en distributie van water; afval- en afvalwaterbeheer en sanering |
-| 5. | Bouwnijverheid en bouwinstallatie • Algemene burgerlijke en utiliteitsbouw en projectontwikkeling • Grond-, water- en wegenbouw (geen grondverzet) • Gespecialiseerde werkzaamheden in de bouw |
-| 6. | Handel in en reparatie van auto’s, motorfietsen en aanhangers |
-| 7. | Groothandel en handelsbemiddeling, excl auto’s en motorfietsen |
-| 8. | Detailhandel, niet in auto’s en motorfietsen |
-| 9. | Vervoer en opslag • Vervoer over land, • Vervoer over water • Luchtvaart • Opslag en dienstverlening voor vervoer • Post en koeriers |
-| 10. | Horeca, catering en verblijfsrecreatie • Logiesverstrekking (hotels, vakantieparken, kampeerterreinen) • Eet- en drinkgelegenheden (café’s, restaurants, kantines en catering) |
-| 11. | Informatie en communicatie • Uitgeverijen • Productie en distributie van films en televisieprogramma´s; maken en uitgeven van geluidsopnamen • Verzorgen en uitzenden van radio- en televisieprogramma's • Telecommunicatie • Dienstverlenende activiteiten op het gebied van informatietechnologie • Dienstverlenende activiteiten op het gebied van informatie |
-| 12. | Financiële dienstverlening • Financiële instellingen (geen verzekeringen en pensioenfondsen) • Verzekeringen en pensioenfondsen (geen verplichte sociale verzekeringen) • Overige financiële dienstverlening |
-| 13. | Arbeidsbemiddeling, uitzendbureaus en personeelsbeheer |
-| 14. | Facility management, reiniging en landschapsverzorging |
-| 15. | Overig verhuur en overige zakelijke diensten: • Verhuur van en handel in onroerend goed • Rechtskundige dienstverlening, accountancy, belastingadvisering en administratie • Holdings (geen financiële), concerndiensten binnen eigen concern en managementadvisering • Architecten, ingenieurs en technisch ontwerp en advies; keuring en controle • Speur- en ontwikkelingswerk • Reclame en marktonderzoek • Industrieel ontwerp en vormgeving, fotografie, vertaling en overige consultancy • Veterinaire dienstverlening • Verhuur en lease van auto's, consumentenartikelen, machines en overige roerende goederen • Reisbemiddeling, reisorganisatie, toeristische informatie en reserveringsbureaus • Beveiliging en opsporing • Overige zakelijke dienstverlening |
-| 16. | Openbaar bestuur, overheidsdiensten en verplichte sociale verzekeringen |
-| 17. | Onderwijs • Primair en speciaal onderwijs • Voortgezet onderwijs • Middelbaar beroepsonderwijs en educatie • Tertiair onderwijs • Overig onderwijs (sport, cultuur, autorijscholen, afstandsonderwijs, bedrijfsopleiding en – training) |
-| 18. | Zorg: • Ziekenhuizen • verpleging en verzorging • Geestelijke gezondheidszorg • Gehandicaptenzorg • Thuiszorg • Overige zorg: (para)medische praktijken, gezondheidscentra |
-| 19. | Welzijn • Jeugdhulp • Kinderopvang/peuterspeelzalen • Maatschappelijke opvang, sociaal-cultureel werk, maatschappelijk werk en overig welzijn |
-| 20. | Cultuur, sport en recreatie • Kunst • Culturele uitleencentra, openbare archieven, musea, dieren- en plantentuinen, natuurbehoud • Loterijen en kansspelen • Sport en recreatie |
-| 21. | Overige dienstverlening, huishoudens en extraterritoriale organisaties • Levensbeschouwelijke en politieke organisaties, belangen- en ideële organisaties, hobbyclubs • Reparatie van computers en consumentenartikelen • Wellness en overige dienstverlening; uitvaartbranche • Huishoudens als werkgever van huishoudelijk personeel • Niet-gespecificeerde productie van goederen en diensten door particuliere huishoudens voor eigen gebruik • Extraterritoriale organisaties en lichamen |
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.

@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een algemene heffing ten behoeve van de handel in bloembollen met betrekking tot het oogstjaar 2013 (Verordening PT algemene heffing bloembollenhandel oogstjaar 2013)"
+citeertitel: "Verordening PT algemene heffing bloembollenhandel oogstjaar 2013"
 identifier: "BWBR0033578"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-06-23"
-last_updated: "2013-06-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033578"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12293463"
-version_id: "20589742"
-internal_id: "C28960011"
-label_id: "12264804"
-dtd_version: "2.0"
-original_entry_into_force: "2013-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033578/2013-06-23/0"
-intitule_bron: "Vbbo.2013-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-26"
-intitule_published: "2013-06-21"
-intitule_in_force: "2013-06-21"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-27"
-original_signed_date: "2013-03-26"
-original_published_date: "2013-06-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-06-23"
-jci_1_3: "jci1.3:c:BWBR0033578&z=2013-06-23&g=2013-06-23"
-jci_1_0: "1.0:c:BWBR0033578&g=2013-06-23"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing bloembollenhandel oogstjaar 2013"
-signed_date: "2013-03-26"
-entry_into_force: "2013-06-23"
+publicatiedatum: 2013-06-23
+laatste_update: 2013-06-23
+status: geldig
+toestand: 2013-06-23
+bron: "https://wetten.overheid.nl/BWBR0033578"
+opgehaald: 2026-08-20
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een algemene heffing ten behoeve van de handel in bloembollen met betrekking tot het oogstjaar 2013 (Verordening PT algemene heffing bloembollenhandel oogstjaar 2013)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-Gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen d.d. 26 februari 2013;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -53,13 +26,13 @@ Deze verordening verstaat onder:
 | c. voorzitter | : | voorzitter van het productschap; |
 | d. ondernemer | : | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
 | e. bloembollen | : | I. bollen of knollen van bloemgewassen; |
-|   |   | II. afgebroeide bloembollen; |
-|   |   | III. geholde en gesneden hyacinten; |
-|   |   | IV. éénjarige bollen van geholde en gesneden hyacinten, voor zover deze worden verhandeld per bed of per mand; |
-|   |   | V. bollen van hyacinten, die zijn verkocht onder de voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje is vermeld; |
-|   |   | VI. groen te velde per bed of per mand vóór 15 juni van het kalenderjaar waarin het koopseizoen aanvangt, verhandelde hyacinten, geplant in de maat zift 10, droog gesorteerd; |
-|   |   | VII. subbollen van lelies, en, |
-|   |   | VIII. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
+|  |  | II. afgebroeide bloembollen; |
+|  |  | III. geholde en gesneden hyacinten; |
+|  |  | IV. éénjarige bollen van geholde en gesneden hyacinten, voor zover deze worden verhandeld per bed of per mand; |
+|  |  | V. bollen van hyacinten, die zijn verkocht onder de voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje is vermeld; |
+|  |  | VI. groen te velde per bed of per mand vóór 15 juni van het kalenderjaar waarin het koopseizoen aanvangt, verhandelde hyacinten, geplant in de maat zift 10, droog gesorteerd; |
+|  |  | VII. subbollen van lelies, en, |
+|  |  | VIII. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
 | f. aankoopwaarde | : | het totaal van de inkoopfactuurbedragen van in het oogstjaar 2013 van verkopers aangekochte, door of voor hen in Nederland geteelde, bloembollen, exclusief BTW; |
 | g. oogstjaar | : | de periode vanaf 1 juni 2013 tot en met 31 mei 2014. |
 

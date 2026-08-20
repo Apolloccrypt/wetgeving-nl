@@ -1,42 +1,17 @@
 ---
 title: "Verordening op de afdelingen en de kringen"
 identifier: "BWBR0033790"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033790"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12340783"
-version_id: "20705412"
-internal_id: "C29740271"
-label_id: "12311894"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033790/2013-07-01/0"
-intitule_bron: "Stcrt.2013-23894"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-08-27"
-intitule_in_force: "2013-08-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-23894"
-original_published_date: "2013-08-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-23894"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033790&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0033790&g=2013-07-01"
-citeertitel_status: "officieel"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0033790"
+opgehaald: 2026-08-20
 ---
+
 # Verordening op de afdelingen en de kringen
-
-Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), en [19, eerste lid, van de Wet op het accountsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 

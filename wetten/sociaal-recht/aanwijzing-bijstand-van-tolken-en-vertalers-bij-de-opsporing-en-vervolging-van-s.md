@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing bijstand van tolken en vertalers bij de opsporing en vervolging van strafbare feiten"
 identifier: "BWBR0034399"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034399"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "12483913"
-version_id: "20991342"
-internal_id: "C30154661"
-label_id: "12455004"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034399/2014-01-01/0"
-intitule_bron: "Stcrt.2013-35062"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-12-17"
-intitule_in_force: "2013-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35062"
-original_published_date: "2013-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35062"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034399&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034399&g=2014-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034399"
+opgehaald: 2026-08-20
 ---
+
 # Aanwijzing bijstand van tolken en vertalers bij de opsporing en vervolging van strafbare feiten
 
 ### 1. Samenvatting
@@ -38,7 +19,7 @@ Deze aanwijzing geeft regels voor de toepassing van de wettelijke bepalingen ove
 
 ### 2. Achtergrond
 
-Met de inwerkingtreding op 1 oktober 2013 van de Wet tot implementatie van [richtlijn nr. 2010/64](32010L0064)/EU van het Europees Parlement en de Raad van Europa van 20 oktober 2010 betreffende het recht op vertolking en vertaling in strafprocedures (PbEU L 280)1Stb. 2013, 85. is het recht op vertolking en vertaling in strafprocedures uitgebreid. Het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) bevatte reeds bepalingen over de bijstand van tolken en vertalers tijdens het verhoor door de rechter-commissaris ([art. 191 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=191)) en het onderzoek ter terechtzitting ([art. 260](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260), [274-276](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=274), [325](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=325), [346](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=346), [362](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=362) en [391 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391)). Per 1 oktober 2013 is ook de bijstand van tolken en vertalers in de **opsporingsfase**wettelijk geregeld. Bijstand van tolken en vertalers in deze fase van het onderzoek is van groot belang. Een goede weergave van de bij de politie afgelegde verklaring(en) is immers van belang voor de beslissing of en terzake waarvan wordt vervolgd en, indien wordt vervolgd, voor het bezigen van die verklaring voor het bewijs. Een verdachte die de Nederlandse taal niet of onvoldoende beheerst, wordt bij het politieverhoor bijgestaan door een tolk. Onder dat recht wordt mede begrepen bijstand van een daartoe geschikte persoon als tolk aan een verdachte die niet of slechts gebrekkig kan horen of spreken. De verdachte heeft voorts recht op vertaling van (relevante delen van) bepaalde processtukken.
+Met de inwerkingtreding op 1 oktober 2013 van de Wet tot implementatie van richtlijn nr. 2010/64/EU van het Europees Parlement en de Raad van Europa van 20 oktober 2010 betreffende het recht op vertolking en vertaling in strafprocedures (PbEU L 280)1Stb. 2013, 85. is het recht op vertolking en vertaling in strafprocedures uitgebreid. Het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) bevatte reeds bepalingen over de bijstand van tolken en vertalers tijdens het verhoor door de rechter-commissaris ([art. 191 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=191)) en het onderzoek ter terechtzitting ([art. 260](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260), [274-276](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=274), [325](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=325), [346](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=346), [362](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=362) en [391 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391)). Per 1 oktober 2013 is ook de bijstand van tolken en vertalers in de *opsporingsfase*wettelijk geregeld. Bijstand van tolken en vertalers in deze fase van het onderzoek is van groot belang. Een goede weergave van de bij de politie afgelegde verklaring(en) is immers van belang voor de beslissing of en terzake waarvan wordt vervolgd en, indien wordt vervolgd, voor het bezigen van die verklaring voor het bewijs. Een verdachte die de Nederlandse taal niet of onvoldoende beheerst, wordt bij het politieverhoor bijgestaan door een tolk. Onder dat recht wordt mede begrepen bijstand van een daartoe geschikte persoon als tolk aan een verdachte die niet of slechts gebrekkig kan horen of spreken. De verdachte heeft voorts recht op vertaling van (relevante delen van) bepaalde processtukken.
 
 De aanwijzing sluit aan op de in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) opgenomen regeling en op de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704)2Stb. 2008, 555., die bepaalt dat er een register voor beëdigde tolken en vertalers is en dat onder andere het Openbaar Ministerie, de politie en de Koninklijke Marechaussee in het kader van het strafrecht in beginsel gebruik moeten maken van in dit register ingeschreven beëdigde tolken en vertalers. De Wet beëdigde tolken en vertalers bevat een uitzonderingsclausule voor het geval geen beëdigde tolk of vertaler (tijdig) beschikbaar is. In dat geval kan gebruik worden gemaakt van een tolk of vertaler die is ingeschreven op de zogenaamde ‘uitwijklijst’ ([Besluit Uitwijklijst Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0033582)).3Stcrt. 2013, 17541. Tolken en vertalers die op de uitwijklijst staan ingeschreven voldoen niet aan de kwaliteitseisen van het register, maar hebben wel een Verklaring Omtrent het Gedrag overgelegd, die eveneens is afgegeven volgens het screeningsprofiel dat voor opname in het register van toepassing is. Alleen indien het onmogelijk is gebruik te maken van een tolk of vertaler die in het register of op de uitwijklijst staat geregistreerd, mag een andere tolk of vertaler worden ingezet. Afwijking van de afnameplicht wordt ingevolge de wet gemotiveerd vastgelegd in het proces-verbaal van verhoor.
 
@@ -50,13 +31,13 @@ Ingevolge art. 6, derde lid, EVRM en art. 14, derde lid, BUPO heeft een ieder te
 
 Voorts dient ingevolge art. 5, tweede lid, EVRM en art. 9, tweede lid, BUPO een ieder die aangehouden is onverwijld in een taal die hij verstaat op de hoogte te worden gebracht van de redenen van zijn arrestatie en van de beschuldigingen die tegen hem zijn ingebracht.
 
-Op grond van [art. 29a, eerste lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29a) wordt een verdachte die de Nederlandse taal niet of onvoldoende beheerst bij het politieverhoor bijgestaan door een tolk. Daaronder is begrepen in het geval van een verdachte die niet of slechts gebrekkig kan horen of spreken, bijstand door een daartoe geschikte persoon als tolk ([art. 131b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=131b)). Als de verdachte niet onmiddellijk na zijn aanhouding wordt verhoord, dan dient hij in ieder geval na aankomst op het politiebureau, uiterlijk op het moment dat hij voor de hulpofficier van justitie wordt geleid, in een taal die hij begrijpt op de hoogte te worden gesteld van de reden van zijn aanhouding. Direct daaraan voorafgaand wordt vastgesteld of de verdachte het Nederlands (voldoende) beheerst (zie § 3.3) en zo nee, welke taal hij wel voldoende beheerst (zie § 3.4). Gedurende het gehele opsporingsonderzoek wordt de verdachte in beginsel in die taal gehoord en worden hem in die taal procesrechtelijk relevante mededelingen gedaan.
+Op grond van [art. 29a, eerste lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29a) wordt een verdachte die de Nederlandse taal niet of onvoldoende beheerst bij het politieverhoor bijgestaan door een tolk. Daaronder is begrepen in het geval van een verdachte die niet of slechts gebrekkig kan horen of spreken, bijstand door een daartoe geschikte persoon als tolk ([art. 131b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=131b)). Als de verdachte niet onmiddellijk na zijn aanhouding wordt verhoord, dan dient hij in ieder geval na aankomst op het politiebureau, uiterlijk op het moment dat hij voor de hulpofficier van justitie wordt geleid, in een taal die hij begrijpt op de hoogte te worden gesteld van de reden van zijn aanhouding. Direct daaraan voorafgaand wordt vastgesteld of de verdachte het Nederlands (voldoende) beheerst (zie [§ 3.3](https://wetten.overheid.nl/BWBR0034399)) en zo nee, welke taal hij wel voldoende beheerst (zie [§ 3.4](https://wetten.overheid.nl/BWBR0034399)). Gedurende het gehele opsporingsonderzoek wordt de verdachte in beginsel in die taal gehoord en worden hem in die taal procesrechtelijk relevante mededelingen gedaan.
 
 ### 3.2. Bevoegdheid beoordeling/beslissing tolkenbijstand
 
-In eerste instantie beoordeelt de verbaliserende ambtenaar of de verdachte de Nederlandse taal (voldoende) beheerst. Indien de verdachte de Nederlandse taal onvoldoende beheerst, roept de verbalisant de bijstand van een tolk in, met inachtneming van het bepaalde in [art. 28 van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=28) (zie § 3.7).
+In eerste instantie beoordeelt de verbaliserende ambtenaar of de verdachte de Nederlandse taal (voldoende) beheerst. Indien de verdachte de Nederlandse taal onvoldoende beheerst, roept de verbalisant de bijstand van een tolk in, met inachtneming van het bepaalde in [art. 28 van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=28) (zie [§ 3.7](https://wetten.overheid.nl/BWBR0034399)).
 
-In geval van twijfel en in geval de verbalisant en de verdachte van mening verschillen met betrekking tot de taalkeuze, neemt de verbalisant contact op met de (hulp)officier van justitie, die vervolgens terzake beslist (zie ook § 3.5).
+In geval van twijfel en in geval de verbalisant en de verdachte van mening verschillen met betrekking tot de taalkeuze, neemt de verbalisant contact op met de (hulp)officier van justitie, die vervolgens terzake beslist (zie ook [§ 3.5](https://wetten.overheid.nl/BWBR0034399)).
 
 ### 3.3. Vaststelling beheersing Nederlandse taal
 
@@ -84,6 +65,14 @@ Wanneer de verbalisant en de verdachte van mening verschillen met betrekking tot
 
 Er zijn enkele verhoorsituaties die bijzondere aandacht verdienen.
 
+- • *Verhoor ter plaatse* Als de zaak ter plaatse wordt afgehandeld door een kort verhoor zonder vrijheidsbeperkende maatregelen moet de verdachte ook ter plaatse in een taal die hij begrijpt op de hoogte worden gesteld van de reden van zijn staandehouding en van de tegen hem ingebrachte beschuldigingen4Dit geldt ook voor verkeersmisdrijven, verkeersovertredingen en kantonfeiten.. Hierbij kan gebruik gemaakt worden van een telefonische tolk. Indien het niet mogelijk is om een verklaring in het Nederlands op te nemen van datgene wat de verdachte verklaart, wordt de verdachte uitgenodigd om mee te komen naar het politiebureau voor het afleggen van een verklaring met behulp van een tolk. Indien de verdachte niet bereid is mee te gaan naar het politiebureau en de verdenking een strafbaar feit betreft waarvoor de verdachte kan worden aangehouden, wordt de verdachte aangehouden en meegenomen naar het politiebureau om daar alsnog met behulp van een tolk op de hoogte te worden gebracht van de tegen hem ingebrachte beschuldigingen en terzake te worden gehoord.
+
+- • *Mededeling op het politiebureau / voorgeleiding* Indien de verdachte wordt meegenomen naar het politiebureau en niet terstond wordt gehoord, wordt hem wel zo spoedig mogelijk – doch uiterlijk bij de voorgeleiding voor de hulpofficier van justitie – kort mededeling gedaan van de reden van zijn aanhouding en van de tegen hem ingebrachte beschuldiging. Hierbij kan gebruik worden gemaakt van een (telefonische) tolk. Indien de verdachte (langer) wordt vastgehouden, wordt de verdenking en de wijze waarop deze aan de verdachte is medegedeeld in ieder geval in het proces-verbaal van het verhoor met betrekking tot de inverzekeringstelling vastgelegd. Het verhoor wordt op de hiervoor weergegeven wijze afgenomen. In het proces-verbaal wordt vastgelegd dat het verhoor heeft plaatsgevonden met bijstand van een tolk.
+
+- • *Verhoor gedurende ophouding voor onderzoek* Als de verdachte wordt opgehouden voor verhoor, terwijl er niet binnen de termijn van zes uren een tolk beschikbaar is, kan het verhoor met behulp van een telefonische tolk worden afgenomen.
+
+- • *Overleg tussen raadsman en aangehouden verdachte voor het eerste verhoor* Op grond van [art. 28, derde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28) heeft de verdachte recht op bijstand van een tolk bij het overleg met een raadsman en is de raadsman verantwoordelijk voor het oproepen van een tolk. Wanneer de politie voor het verhoor van de aangehouden verdachte een tolk heeft opgeroepen, wijst de verbalisant de verdachte op zijn recht om voorafgaande aan het eerste verhoor een raadsman te consulteren5Zie de Aanwijzing rechtsbijstand politieverhoor. en wijst hij de raadsman erop dat er een tolk aanwezig is die desgewenst bijstand kan leveren bij het (consultatie)overleg met zijn cliënt voorafgaand aan het verhoor.
+
 ### 3.7. Wijze van vertolking
 
 Als het verhoor plaatsvindt met behulp van een tolk, wordt de bijstand van een beëdigde tolk (een in het register ingeschreven tolk) ingeroepen, tenzij een beëdigde tolk niet (tijdig) beschikbaar is. In dat geval kan een tolk ingezet worden die niet in het register is ingeschreven. Als een tolk wordt ingezet die niet in het register is ingeschreven, wordt dit met redenen omkleed schriftelijk vastgelegd in het proces-verbaal van verhoor. De niet-ingeschreven tolk dient zo mogelijk voorafgaand aan zijn inzet een recente verklaring omtrent het gedrag dan wel een integriteitsverklaring over te leggen. Indien het vanwege de spoedeisendheid niet mogelijk is voorafgaand aan de inzet een verklaring omtrent het gedrag over te leggen, geschiedt dit na de inzet.
@@ -98,11 +87,23 @@ Voor een beperkt aantal processtukken is wettelijk voorgeschreven dat de relevan
 
 Op grond van [art. 59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=59), respectievelijk [art. 78, zesde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=78) wordt aan de verdachte die de Nederlandse taal niet of onvoldoende beheerst en in verzekering wordt gesteld respectievelijk in voorlopige hechtenis wordt gesteld, een schriftelijke vertaling van de relevante onderdelen van het bevel tot inverzekeringstelling respectievelijk het bevel voorlopige hechtenis in een voor de verdachte begrijpelijke taal verstrekt. Onder de relevante onderdelen wordt verstaan:
 
+- – het strafbare feit ter zake waarvan de verdenking is gerezen;
+
+- – de grond voor uitvaardiging van het bevel; en
+
+- – de duur van het bevel.
+
 ### 4.3. Dagvaarding
 
 ### 4.3.1. Dagvaarding in eerste aanleg
 
 Op grond van [art. 260, vijfde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260) wordt aan de verdachte die de Nederlandse taal niet of onvoldoende beheerst een vertaling van de dagvaarding of van de relevante onderdelen daarvan in een voor de verdachte begrijpelijke taal verstrekt, zodat hij kan begrijpen waarvan hij wordt beschuldigd en zich daartegen kan verdedigen. Daartoe dient te worden vertaald:
+
+- – plaats, datum en tijdstip waarop de verdachte ter terechtzitting moet verschijnen;
+
+- – een korte omschrijving van het strafbare feit;
+
+- – de mededelingen als bedoeld in [art. 260, derde lid, tweede volzin, en vierde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260).
 
 Vertaling van de hele tenlastelegging kan aangewezen zijn in bijzondere gevallen, bijvoorbeeld bij een complexe fraudezaak.
 
@@ -120,19 +121,49 @@ Deze bepaling geldt op grond van [art. 415, eerste lid, Sv](https://wetten.overh
 
 [Art. 260, vijfde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260) is van overeenkomstige toepassing in ontnemingsprocedures ([art. 511b, vierde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511b)). Indien de verdachte/veroordeelde de Nederlandse taal niet of onvoldoende beheerst, wordt een schriftelijke vertaling van de relevante onderdelen van de ontnemingsvordering verstrekt. Daartoe dienen te worden vertaald:
 
+- – plaats, datum en tijdstip waarop de betrokkene ter terechtzitting moet verschijnen;
+
+- – de aanduiding van het (straf)vonnis waarop de ontnemingsvordering is gebaseerd en de (voorgenomen) vordering tot ontneming zelf;
+
+- – de mededelingen als bedoeld in [art. 260, vierde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260);
+
+- – de mededeling van het recht op kennisneming van de stukken ([art. 511b, derde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511b)).
+
 ### 4.3.5. Oproeping ontneming in hoger beroep
 
 In [art. 511g, tweede lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511g) is titel II van Boek III Sv (de [artt. 404-426 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=404)) van overeenkomstige toepassing verklaard. Dit houdt in dat ook de relevante onderdelen van de oproeping in hoger beroep in een ontnemingszaak (als bedoeld in [art. 511g, eerste lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511g)) vertaald moeten worden. Dat zijn:
 
+- – plaats, datum en tijdstip waarop de betrokkene ter terechtzitting moet verschijnen;
+
+- – de mededelingen als bedoeld in [art. 260, vierde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260);
+
+- – een verwijzing naar het ontnemingsvonnis in eerste aanleg door middel van het parketnummer plus de datum van de uitspraak in eerste aanleg.
+
 ### 4.4. Strafbeschikking
 
-Op grond van [art. 257a, zevende lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) wordt aan de verdachte die de Nederlandse taal niet of onvoldoende beheerst een vertaling van de strafbeschikking die is uitgevaardigd wegens een **misdrijf**, of van de relevante, in [art. 257a, zesde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) bedoelde, onderdelen daarvan, in een voor de verdachte begrijpelijke taal verstrekt. Daartoe kan worden volstaan met vertaling van de in [art. 257a, zesde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) bedoelde gegevens:
+Op grond van [art. 257a, zevende lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) wordt aan de verdachte die de Nederlandse taal niet of onvoldoende beheerst een vertaling van de strafbeschikking die is uitgevaardigd wegens een *misdrijf*, of van de relevante, in [art. 257a, zesde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) bedoelde, onderdelen daarvan, in een voor de verdachte begrijpelijke taal verstrekt. Daartoe kan worden volstaan met vertaling van de in [art. 257a, zesde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) bedoelde gegevens:
 
-Een strafbeschikking die is uitgevaardigd voor een **overtreding** behoeft dus niet te worden vertaald.
+- – een korte omschrijving van het strafbare feit;
+
+- – de opgelegde straffen, maatregelen en aanwijzingen;
+
+- – de dag waarop de strafbeschikking is uitgevaardigd;
+
+- – de wijze waarop verzet kan worden ingesteld;
+
+- – de wijze van tenuitvoerlegging.
+
+Een strafbeschikking die is uitgevaardigd voor een *overtreding* behoeft dus niet te worden vertaald.
 
 Wanneer de verdachte verzet tegen de strafbeschikking aantekent, dan wordt hij, behoudens in het geval waarin de strafbeschikking wordt ingetrokken, voor de behandeling van het verzet op de terechtzitting opgeroepen. Wanneer de verdachte de Nederlandse taal niet of onvoldoende beheerst, dient de oproeping schriftelijk te worden vertaald ([art. 257f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257f), jo. [art. 260, vijfde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260)), dan wel kan volstaan worden met vertaling van:
 
-De oproeping of de aangegeven onderdelen daarvan dient te worden vertaald **ongeacht** of de strafbeschikking voor een overtreding of een misdrijf was uitgevaardigd.
+- – de plaats, datum en tijdstip waarop de verdachte ter terechtzitting moet verschijnen;
+
+- – een korte omschrijving van het feit;
+
+- – de mededelingen, bedoeld in [art. 260, derde lid, tweede volzin, en vierde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260).
+
+De oproeping of de aangegeven onderdelen daarvan dient te worden vertaald *ongeacht* of de strafbeschikking voor een overtreding of een misdrijf was uitgevaardigd.
 
 ### 4.5. Mededeling verstekvonnis
 
@@ -140,7 +171,7 @@ Indien het vonnis dat de beslissing van de rechtbank op grond van de [artt. 349]
 
 Deze bepaling is van overeenkomstige toepassing op de procedure in hoger beroep ([art. 415, eerste lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=415)) alsmede op de ontnemingsprocedure ([art. 511e Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511e)). Voor zowel de procedure in hoger beroep als de ontnemingsprocedure geldt dat tevens wordt vertaald de aanduiding van het vonnis waartegen hoger beroep is ingesteld respectievelijk waarop de ontnemingsvordering is gebaseerd. In de ontnemingsprocedure dienen daarnaast te worden vertaald het door de rechter geschatte wederrechtelijk verkregen voordeel, en de opgelegde betalingsverplichting alsmede de wettelijke voorschriften waarop deze is gebaseerd.
 
-### 4.6. Overige processtukken ([art. 32a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=32a))
+### 4.6. Overige processtukken (art. 32a Sv)
 
 Op grond van [art. 32a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=32a) kan de verdachte of diens raadsman (schriftelijk) verzoeken om schriftelijke vertaling van (delen van) processtukken waarvan de kennisneming is toegestaan en die door de verdachte voor zijn verdediging noodzakelijk worden geacht. Als het onderzoek ter terechtzitting nog niet is aangevangen, wordt dit verzoek gericht aan de officier van justitie of, in hoger beroep, de advocaat-generaal. Die beslist of, gelet op het waarborgen van het recht op een eerlijk proces, schriftelijke vertaling in het concrete geval noodzakelijk is.
 
@@ -160,7 +191,7 @@ De niet-ingeschreven vertaler dient dan zo mogelijk voorafgaand aan zijn inzet e
 
 ### 5. Getuige/deskundige – vertolking van het gesprokene
 
-Indien een getuige of deskundige de Nederlandse taal niet of onvoldoende beheerst, vindt het verhoor plaats met behulp van een tolk, met inachtneming van het bepaalde in de §§ 3.2, 3.3, 3.4, 3.5 en 3.7).
+Indien een getuige of deskundige de Nederlandse taal niet of onvoldoende beheerst, vindt het verhoor plaats met behulp van een tolk, met inachtneming van het bepaalde in de [§§ 3.2](https://wetten.overheid.nl/BWBR0034399), [3.3](https://wetten.overheid.nl/BWBR0034399), [3.4](https://wetten.overheid.nl/BWBR0034399), [3.5](https://wetten.overheid.nl/BWBR0034399) en [3.7](https://wetten.overheid.nl/BWBR0034399)).
 
 ### 6. Getuige/deskundige – vertolking/vertaling van stukken
 
@@ -170,4 +201,4 @@ Het recht op vertolking/vertaling van stukken geldt niet voor getuigen en deskun
 
 Deze aanwijzing is van toepassing op alle op of na de datum van inwerkingtreding van deze aanwijzing lopende strafprocedures.
 
-Omdat in de wet geen overgangsrecht is opgenomen, ziet het recht op een schriftelijke vertaling van processtukken alleen op de processtukken die op of na 1 oktober 2013 zijn opgemaakt.
+Omdat in de wet geen overgangsrecht is opgenomen, ziet het recht op een schriftelijke vertaling van processtukken alleen op de processtukken die op of na 1 oktober 2013 zijn opgemaakt.

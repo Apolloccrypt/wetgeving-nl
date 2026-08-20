@@ -1,58 +1,39 @@
 ---
 title: "Reglement erkenning leerbedrijven van het Kenniscentrum Beroepsonderwijs Bedrijfsleven van SVO"
 identifier: "BWBR0033511"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-10-01"
-last_updated: "2012-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033511"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "12280253"
-version_id: "20564992"
-internal_id: "C28916801"
-label_id: "12251604"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033511/2012-10-01/0"
-intitule_bron: "Stcrt.2013-15719"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-06-12"
-intitule_in_force: "2013-06-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-15719"
-original_published_date: "2013-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-15719"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0033511&z=2012-10-01&g=2012-10-01"
-jci_1_0: "1.0:c:BWBR0033511&g=2012-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2012-10-01
+status: geldig
+toestand: 2012-10-01
+bron: "https://wetten.overheid.nl/BWBR0033511"
+opgehaald: 2026-08-20
 ---
+
 # Reglement erkenning leerbedrijven van het Kenniscentrum Beroepsonderwijs Bedrijfsleven van SVO
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- 1. **Kenniscentrum SVO:** het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven zoals bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1) (WEB).
+- 1. *Kenniscentrum SVO:* het bestuur van het kenniscentrum beroepsonderwijs bedrijfsleven zoals bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1) (WEB).
 
-- 2. **Leerbedrijf:** het bedrijf dat of de organisatie die op grond van dit reglement bevoegd is om de beroepspraktijkvorming te verzorgen voor een mbo-opleiding of een groep van mbo-opleidingen zoals bedoeld in de Wet educatie en beroepsonderwijs.
+- 2. *Leerbedrijf:* het bedrijf dat of de organisatie die op grond van dit reglement bevoegd is om de beroepspraktijkvorming te verzorgen voor een mbo-opleiding of een groep van mbo-opleidingen zoals bedoeld in de Wet educatie en beroepsonderwijs.
 
-- 3. **Reglement:** reglement erkenning SVO leerbedrijven.
+- 3. *Reglement:* reglement erkenning SVO leerbedrijven.
 
-- 4. **Onderwijsdeelnemer:** vmbo- of mbo-leerling.
+- 4. *Onderwijsdeelnemer:* vmbo- of mbo-leerling.
 
-- 5. **Onderwijsinstelling:** school voor vmbo of mbo.
+- 5. *Onderwijsinstelling:* school voor vmbo of mbo.
 
-- 6. **Uitzend- of detacheringorganisatie:** de organisatie die fungeert als werkgever waar de mbo- deelnemer in het kader van opleiden geplaatst wordt bij een door SVO erkend leerbedrijf.
+- 6. *Uitzend- of detacheringorganisatie:* de organisatie die fungeert als werkgever waar de mbo- deelnemer in het kader van opleiden geplaatst wordt bij een door SVO erkend leerbedrijf.
 
-- 7. **Beroepspraktijkvorming (BPV):** het onder bedrijfsomstandigheden leren van praktische vaardigheden in de beroepscontext.
+- 7. *Beroepspraktijkvorming (BPV):* het onder bedrijfsomstandigheden leren van praktische vaardigheden in de beroepscontext.
 
-- 8. **Adviseur praktijkopleiding:** de adviseur praktijkopleiding ondersteunt het leerbedrijf om structureel te werken aan een goede kwaliteit van leren.
+- 8. *Adviseur praktijkopleiding:* de adviseur praktijkopleiding ondersteunt het leerbedrijf om structureel te werken aan een goede kwaliteit van leren.
 
-- 9. **Praktijkopleider:** een natuurlijk persoon binnen het leerbedrijf die verantwoordelijk is voor het praktijkleren en het begeleiden van deelnemers in de beroepspraktijk van het leerbedrijf.
+- 9. *Praktijkopleider:* een natuurlijk persoon binnen het leerbedrijf die verantwoordelijk is voor het praktijkleren en het begeleiden van deelnemers in de beroepspraktijk van het leerbedrijf.
 
 ##### Artikel 2. Doel
 

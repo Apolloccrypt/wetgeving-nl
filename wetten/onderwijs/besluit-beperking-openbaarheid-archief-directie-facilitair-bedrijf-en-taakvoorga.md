@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 november 2013, nr. 511434, houdende beperking van de openbaarheid van het archief van de Directie Facilitair Bedrijf en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode 1989–2007 (2008)"
+citeertitel: "Besluit beperking openbaarheid archief Directie Facilitair Bedrijf en taakvoorgangers Ministerie van Onderwijs, Cultuur en Wetenschap 1989–2007 (2008)"
 identifier: "BWBR0034221"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-11-26"
-last_updated: "2013-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034221"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "12437053"
-version_id: "20898472"
-internal_id: "C30002371"
-label_id: "12407874"
-dtd_version: "2.0"
-original_entry_into_force: "2013-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034221/2013-11-26/0"
-intitule_bron: "Stcrt.2013-32648"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-15"
-intitule_published: "2013-11-25"
-intitule_in_force: "2013-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-32648"
-original_signed_date: "2013-11-15"
-original_published_date: "2013-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-32648"
-entry_into_force_date: "2013-11-26"
-jci_1_3: "jci1.3:c:BWBR0034221&z=2013-11-26&g=2013-11-26"
-jci_1_0: "1.0:c:BWBR0034221&g=2013-11-26"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Directie Facilitair Bedrijf en taakvoorgangers Ministerie van Onderwijs, Cultuur en Wetenschap 1989–2007 (2008)"
-signed_date: "2013-11-15"
-entry_into_force: "2013-11-26"
+publicatiedatum: 2013-11-26
+laatste_update: 2013-11-26
+status: geldig
+toestand: 2013-11-26
+bron: "https://wetten.overheid.nl/BWBR0034221"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 november 2013, nr. 511434, houdende beperking van de openbaarheid van het archief van de Directie Facilitair Bedrijf en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode 1989–2007 (2008)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,

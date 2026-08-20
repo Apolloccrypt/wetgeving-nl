@@ -1,45 +1,17 @@
 ---
 title: "Regeling registratie en verstrekking gegevens militaire luchthavens"
 identifier: "BWBR0033519"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-06-17"
-last_updated: "2013-06-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033519"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12281373"
-version_id: "20566372"
-internal_id: "C28918931"
-label_id: "12252754"
-dtd_version: "2.0"
-original_entry_into_force: "2013-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033519/2013-06-17/0"
-intitule_bron: "Stcrt.2013-15724"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-06"
-intitule_published: "2013-06-13"
-intitule_in_force: "2013-06-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-15724"
-original_signed_date: "2013-06-06"
-original_published_date: "2013-06-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-15724"
-entry_into_force_date: "2013-06-17"
-jci_1_3: "jci1.3:c:BWBR0033519&z=2013-06-17&g=2013-06-17"
-jci_1_0: "1.0:c:BWBR0033519&g=2013-06-17"
-citeertitel_status: "officieel"
-signed_date: "2013-06-06"
-entry_into_force: "2013-06-17"
+publicatiedatum: 2013-06-17
+laatste_update: 2013-06-17
+status: geldig
+toestand: 2013-06-17
+bron: "https://wetten.overheid.nl/BWBR0033519"
+opgehaald: 2026-08-20
 ---
+
 # Regeling registratie en verstrekking gegevens militaire luchthavens
-
-Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Gelet op de [artikelen 10.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.34), [10.35](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.35), [10.36](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.36) en [10.43 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.43);
-
-Besluit:
 
 #### Paragraaf 1. Militaire luchthavens met luchthavenbesluit
 
@@ -104,81 +76,3 @@ Deze regeling treedt in werking met ingang van 17 juni 2013.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling registratie en verstrekking gegevens militaire luchthavens.
-
-## Bijlage 1
-
-- A. Door de houder van een vergunning voor burgermedegebruik die is afgegeven voor het commercieel burgerluchthavenluchtverkeer onder vaststelling van een grenswaarde voor de geluidsbelasting anders dan in de vorm van een maximum aantal vliegtuigbewegingen per jaar, te registreren gegevens inzake feitelijke uitgevoerde vliegtuigbewegingen door het commercieel burgerluchthavenluchtverkeer:
-
-- a. datum waarop de vliegtuigbeweging heeft plaatsgevonden;
-
-- b. tijdstip (lokale tijd) waarop de vliegtuigbeweging heeft plaatsgevonden;
-
-- c. vluchtsoort (vertrek, nadering, circuit);
-
-- d. gebruikte start- of landingsbaan;
-
-- e. aantal circuitvluchten (touch and go);
-
-- f. bij nadering: luchthaven van herkomst volgens ICAO-doc 7910;
-
-- g. bij tussenlanding: luchthaven van herkomst dan wel eindbestemming;
-
-- h. bij vertrek: luchthaven van bestemming volgens ICAO-doc 7910;
-
-- i. bij vertrek dan wel aankomst: SID-of STAR-aanduiding;
-
-- j. type luchtvaartuig volgens ICAO-doc 8463;
-
-- k. soort luchtvaartuig volgens ICAO-descriptor (heli, jet, prop, enz.);
-
-- l. registratienummer van het luchtvaartuig;
-
-- m. vliegtuigmaatschappij volgens drielettercode volgens ICAO-doc 8585;
-
-- n. code met aard van de vlucht (bijv. vrachtvlucht);
-
-- o. maximum startgewicht (in tonnen of kg);
-
-- p. actueel startgewicht (in tonnen of kg);
-
-- q. uitvoering vliegtuigbeweging volgens VFR- of IFR-condities;
-
-- r. afwijking van gebruikelijke vliegprocedures.
-
-- B. Voorschriften voor de berekening van de geluidsbelasting:
-
-- a. de berekening wordt uitgevoerd overeenkomstig de [Regeling berekening geluidsbelasting militaire luchthavens in Kosteneenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0031639);
-
-- b. de berekening beslaat de gegevens vanaf 1 januari tot en met 31 december van het betrokken kalenderjaar;
-
-- c. de berekening wordt neergelegd in een kaart met een geluidscontour van 35 Ke, schaal 1 : 50.000 op topografische achtergrond.
-
-- d. de berekening wordt neergelegd in een kaart met geluidscontouren in stappen van 5 Ke vanaf 35 Ke, met in ieder geval de waarden 35 Ke, 40 Ke, 45 Ke, 55 Ke en 65 Ke, schaal 1 : 50.000 op topografische achtergrond.
-
-## Bijlage 2
-
-Door de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033519&paragraaf=1&artikel=3&z=2013-06-17&g=2013-06-17) bedoelde houder van een vergunning voor burgermedegebruik met een grenswaarde voor geluidsbelasting in de vorm van een maximum aantal vliegtuigbewegingen per jaar te registreren gegevens inzake feitelijk uitgevoerde vliegtuigbewegingen door het burgerluchthavenluchtverkeer:
-
-- a. datum waarop de vliegtuigbeweging heeft plaatsgevonden;
-
-- b. tijdstip (lokale tijd) waarop de vliegtuigbeweging heeft plaatsgevonden;
-
-- c. vluchtsoort (vertrek, nadering, circuit);
-
-- d. gebruikte start- of landingsbaan;
-
-- e. aantal circuitvluchten (touch and go);
-
-- f. type luchtvaartuig volgens ICAO-doc 8463;
-
-- g. soort luchtvaartuig volgens ICAO-descriptor (heli, jet, prop, enz);
-
-- h. registratienummer van het luchtvaartuig;
-
-- i. code met aard van de vlucht (bijv. rondvlucht);
-
-- j. maximum startgewicht (in tonnen of kg).
-
-De gegevens in onderdeel j behoeven niet te worden geregistreerd ten aanzien van luchtvaartuigen voor de recreatieve luchtvaart.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

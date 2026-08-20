@@ -1,47 +1,21 @@
 ---
 title: "Wijzigingsregeling Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 (2013)"
 identifier: "BWBR0033675"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033675"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "12314643"
-version_id: "20643372"
-internal_id: "C29552321"
-label_id: "12285764"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033675/2014-01-01/0"
-intitule_bron: "Stcrt.2013-20451"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-12"
-intitule_published: "2013-07-16"
-intitule_in_force: "2013-07-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-20451"
-original_signed_date: "2013-07-12"
-original_published_date: "2013-07-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-20451"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0033675&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0033675&g=2014-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2013-07-12"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0033675"
+opgehaald: 2026-08-20
 ---
+
 # Wijzigingsregeling Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 (2013)
-
-Gelet op [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
+*Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.*
 
 ##### Artikel II
 
@@ -60,5 +34,3 @@ De verplichting tot het openbaar maken van informatie, bedoeld in [artikel 1a, e
 ##### Artikel IV
 
 Deze regeling treedt in werking met ingang van 1 januari 2014.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

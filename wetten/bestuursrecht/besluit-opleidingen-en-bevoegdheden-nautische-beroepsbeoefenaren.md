@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 december 2013, houdende regels voor de opleiding van registerloodsen, noordzeeloodsen en VTS-operators en de bij die functies behorende bevoegdheden en verplichtingen (Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren)"
+citeertitel: "Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren"
 identifier: "BWBR0034471"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-09-01"
-last_updated: "2025-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034471"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12499903"
-version_id: "21032902"
-internal_id: "C30205311"
-label_id: "12470984"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034471/2025-09-01/0"
-intitule_bron: "Stb.2013-553"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-11"
-intitule_published: "2013-12-19"
-intitule_in_force: "2013-12-19"
-intitule_status: "goed"
-original_publication: "Stb.2013-553"
-original_signed_date: "2013-12-11"
-original_published_date: "2013-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-553"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034471&z=2025-09-01&g=2025-09-01"
-jci_1_0: "1.0:c:BWBR0034471&g=2025-09-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren"
-signed_date: "2013-12-11"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2025-09-01
+status: geldig
+toestand: 2025-09-01
+bron: "https://wetten.overheid.nl/BWBR0034471"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 11 december 2013, houdende regels voor de opleiding van registerloodsen, noordzeeloodsen en VTS-operators en de bij die functies behorende bevoegdheden en verplichtingen (Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren)
-
-Op de voordracht van Onze Minister van Infrastructuur en Milieu van 14 november 2013, nr. IenM/BSK-2013/254642, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op [Richtlijn 79/115/EEG](31979L0115) van de Raad van de Europese Gemeenschappen van 21 december 1978 inzake het loodsen van schepen door Noordzee-loodsen op de Noordzee en het Kanaal (Pb EEG L 33/32), [richtlijn nr. 2009/16/EG](32009L0016) van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende havenstaatcontrole (PbEU L 131) en de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=5), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=9), [24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=24), en [47, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=47), [artikel 9 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=9), de [artikelen 19, eerste lid, onderdeel a, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=19) en [artikel XVIII van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=XVIII);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 29 november 2013, no. W14.13.0406/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 7 december 2013, ienm/bsk-2013/286492, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -52,53 +20,53 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
-- –. **beloodsingsgebied:** beloodsingsgebied als bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-09-01&g=2025-09-01);
+- – *beloodsingsgebied:* beloodsingsgebied als bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-09-01&g=2025-09-01);
 
-- –. **bevoegd gezag:** gezag als bedoeld in [artikel 2, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=2), tenzij bij ministeriële regeling voor een bij die regeling aangeduid gebied een ander bevoegd gezag is aangewezen;
+- – *bevoegd gezag:* gezag als bedoeld in [artikel 2, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=2), tenzij bij ministeriële regeling voor een bij die regeling aangeduid gebied een ander bevoegd gezag is aangewezen;
 
-- –. **bevoegde autoriteit:** de bevoegde autoriteit, bedoeld in [artikel 1 van het Loodsplichtbesluit 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=1);
+- – *bevoegde autoriteit:* de bevoegde autoriteit, bedoeld in [artikel 1 van het Loodsplichtbesluit 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=1);
 
-- –. **bevoegd tot het geven van verkeersinformatie en verkeersaanwijzingen:** bevoegdheid tot het aan de scheepvaart geven van verkeersinformatie dan wel tot het geven van verkeersaanwijzingen als bedoeld in [artikel 9, eerste lid, van de Scheepvaarverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=9);
+- – *bevoegd tot het geven van verkeersinformatie en verkeersaanwijzingen:* bevoegdheid tot het aan de scheepvaart geven van verkeersinformatie dan wel tot het geven van verkeersaanwijzingen als bedoeld in [artikel 9, eerste lid, van de Scheepvaarverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=9);
 
-- –. **certificaat noordzeeloods:** verklaring dat een persoon voldoet aan de eisen met betrekking tot vakbekwaamheid en geschiktheid krachtens [artikel 5, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=5);
+- – *certificaat noordzeeloods:* verklaring dat een persoon voldoet aan de eisen met betrekking tot vakbekwaamheid en geschiktheid krachtens [artikel 5, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=5);
 
-- –. **certificeringsinstelling:** instelling die beschikt over een bewijs waarmee de Raad voor Accreditatie of een daaraan gelijkwaardig instituut in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, kenbaar heeft gemaakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde instelling competent is voor het certificeren van opleidingen;
+- – *certificeringsinstelling:* instelling die beschikt over een bewijs waarmee de Raad voor Accreditatie of een daaraan gelijkwaardig instituut in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, kenbaar heeft gemaakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde instelling competent is voor het certificeren van opleidingen;
 
-- –. **directeur Kustwacht:** directeur Kustwacht als bedoeld in [artikel 3 van het Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546&artikel=3);
+- – *directeur Kustwacht:* directeur Kustwacht als bedoeld in [artikel 3 van het Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546&artikel=3);
 
-- –. **examenprogramma:** examenprogramma als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=I&artikel=1.3&z=2025-09-01&g=2025-09-01);
+- – *examenprogramma:* examenprogramma als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=I&artikel=1.3&z=2025-09-01&g=2025-09-01);
 
-- –. **examenreglement:** examenreglement als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=I&artikel=1.4&z=2025-09-01&g=2025-09-01);
+- – *examenreglement:* examenreglement als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=I&artikel=1.4&z=2025-09-01&g=2025-09-01);
 
-- –. **geneeskundige verklaring voor de zeevaart:** geneeskundige verklaring voor de zeevaart als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=I&artikel=1.2&z=2025-09-01&g=2025-09-01);
+- – *geneeskundige verklaring voor de zeevaart:* geneeskundige verklaring voor de zeevaart als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=I&artikel=1.2&z=2025-09-01&g=2025-09-01);
 
-- –. **groot vaarbewijs:** groot vaarbewijs als bedoeld in [artikel 14 van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=14), of een document dat daarvoor op grond van [artikel 32, eerste en tweede lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=32) en [artikel 17, tweede, derde en vierde lid, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17) in de plaats treedt;
+- – *groot vaarbewijs:* groot vaarbewijs als bedoeld in [artikel 14 van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=14), of een document dat daarvoor op grond van [artikel 32, eerste en tweede lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=32) en [artikel 17, tweede, derde en vierde lid, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17) in de plaats treedt;
 
-- –. **klein vaarbewijs:** klein vaarbewijs als bedoeld in [artikel 16 van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16), of een document dat daarvoor op grond van [artikel 32, eerste en tweede lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=32) en [artikel 17, tweede, derde en vierde lid, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17) in de plaats treedt;
+- – *klein vaarbewijs:* klein vaarbewijs als bedoeld in [artikel 16 van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16), of een document dat daarvoor op grond van [artikel 32, eerste en tweede lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=32) en [artikel 17, tweede, derde en vierde lid, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17) in de plaats treedt;
 
-- –. **loodsdiensten:** dienst van een loods als bedoeld in [artikel 2, eerste en tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2);
+- – *loodsdiensten:* dienst van een loods als bedoeld in [artikel 2, eerste en tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2);
 
-- –. **loodsen op afstand:** functie-uitoefening als bedoeld in [artikel 2, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2);
+- – *loodsen op afstand:* functie-uitoefening als bedoeld in [artikel 2, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2);
 
-- –. **Minister:** Onze Minister van Infrastructuur en Milieu;
+- – *Minister:* Onze Minister van Infrastructuur en Milieu;
 
-- –. **noordzeeloods:** persoon als bedoeld in [artikel 1, onderdeel b, onder 2°, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=1);
+- – *noordzeeloods:* persoon als bedoeld in [artikel 1, onderdeel b, onder 2°, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=1);
 
-- –. **opleiding tot noordzeeloods:** opleiding tot noordzeeloods als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-09-01&g=2025-09-01);
+- – *opleiding tot noordzeeloods:* opleiding tot noordzeeloods als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-09-01&g=2025-09-01);
 
-- –. **opleiding tot VTS-operator:** opleiding tot VTS-operator als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2025-09-01&g=2025-09-01);
+- – *opleiding tot VTS-operator:* opleiding tot VTS-operator als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2025-09-01&g=2025-09-01);
 
-- –. **registerloods:** persoon als bedoeld in [artikel 1, onderdeel f, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=1);
+- – *registerloods:* persoon als bedoeld in [artikel 1, onderdeel f, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=1);
 
-- –. **scheepsramp:** voorval of ongeval, overkomen aan een schip ten gevolge waarvan schade van betekenis aan dat schip of de zaken aan boord daarvan of letsel aan een of meer van de opvarenden, of schade aan een ander schip of de zaken aan boord daarvan, danwel letsel aan een of meer van de opvarenden daarvan of schade aan het mariene milieu is veroorzaakt;
+- – *scheepsramp:* voorval of ongeval, overkomen aan een schip ten gevolge waarvan schade van betekenis aan dat schip of de zaken aan boord daarvan of letsel aan een of meer van de opvarenden, of schade aan een ander schip of de zaken aan boord daarvan, danwel letsel aan een of meer van de opvarenden daarvan of schade aan het mariene milieu is veroorzaakt;
 
-- –. **vaarbekwaamheidsbewijs politie:** vaarbekwaamheidsbewijs voor het zijn van schipper van een klein politievaartuig op rivieren, kanalen en meren, of voor het zijn van schipper van een klein politievaartuig op alle binnenwateren, afgegeven door de politie, dan wel tussen 1 april 1994 en 1 januari 2013 afgegeven door het Korps landelijke politiediensten of voor 1 april 1994 afgegeven door het Korps Rijkspolitie;
+- – *vaarbekwaamheidsbewijs politie:* vaarbekwaamheidsbewijs voor het zijn van schipper van een klein politievaartuig op rivieren, kanalen en meren, of voor het zijn van schipper van een klein politievaartuig op alle binnenwateren, afgegeven door de politie, dan wel tussen 1 april 1994 en 1 januari 2013 afgegeven door het Korps landelijke politiediensten of voor 1 april 1994 afgegeven door het Korps Rijkspolitie;
 
-- –. **verkeersbegeleidend systeem:** systeem, ingesteld teneinde de veilige en vlotte afwikkeling van het scheepvaartverkeer en de bescherming van het mariene milieu te bevorderen en dat een of meer centrales of posten omvat;
+- – *verkeersbegeleidend systeem:* systeem, ingesteld teneinde de veilige en vlotte afwikkeling van het scheepvaartverkeer en de bescherming van het mariene milieu te bevorderen en dat een of meer centrales of posten omvat;
 
-- –. **verordening:** verordening als bedoeld in de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365);
+- – *verordening:* verordening als bedoeld in de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365);
 
-- –. **VTS-operator:** persoon als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01).
+- – *VTS-operator:* persoon als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01).
 
 ##### Artikel 1.2. Geneeskundige verklaring voor de zeevaart
 
@@ -127,6 +95,10 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 - e. bepalingen omtrent het verschuldigde examengeld.
 
 2. Onverminderd het eerste lid, bevat een examenreglement voldoende waarborgen dat de vereiste kennis en bekwaamheden van betrokkene naar behoren worden onderzocht.
+
+##### Artikel 1.5. Grondslag
+
+Dit besluit berust mede op [artikel 2, zesde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2) en [artikel 31, vierde lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31).
 
 ### Hoofdstuk 2. Registerloodsen
 
@@ -192,15 +164,15 @@ Tijdens de uitoefening van zijn functie:
 
 - b. doet een registerloods, onverwijld aan de bevoegde autoriteit of aan een opsporingsambtenaar melding van:
 
-- 1°. tekortkomingen of bijzonderheden ten aanzien van het schip waarvoor hij loodsdiensten verricht, die de veiligheid van het schip, de opvarenden of de omgeving naar zijn oordeel kunnen schaden;
+   - 1°. tekortkomingen of bijzonderheden ten aanzien van het schip waarvoor hij loodsdiensten verricht, die de veiligheid van het schip, de opvarenden of de omgeving naar zijn oordeel kunnen schaden;
 
-- 2°. overtredingen door andere verkeersdeelnemers van de wettelijke voorschriften gegeven ter bescherming van de belangen, bedoeld in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3);
+   - 2°. overtredingen door andere verkeersdeelnemers van de wettelijke voorschriften gegeven ter bescherming van de belangen, bedoeld in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3);
 
-- 3°. een scheepsramp;
+   - 3°. een scheepsramp;
 
-- 4°. bijzonderheden met betrekking tot een scheepvaartweg of verkeerstekens en overige navigatiehulpmiddelen;
+   - 4°. bijzonderheden met betrekking tot een scheepvaartweg of verkeerstekens en overige navigatiehulpmiddelen;
 
-- 5°. het verlies van ankers, trossen of kettingen dan wel van lading die hinder kan veroorzaken alsmede de positie daarvan;
+   - 5°. het verlies van ankers, trossen of kettingen dan wel van lading die hinder kan veroorzaken alsmede de positie daarvan;
 
 - c. geeft de registerloods een voor het schip, ten behoeve waarvan hij zijn functie uitoefent, bestemde verkeersaanwijzing die hem bereikt, onverwijld door aan degene die belast is met het gezag over het schip of aan de verkeersdeelnemer;
 
@@ -218,7 +190,7 @@ Tijdens de uitoefening van zijn functie:
 
 - d. de veiligheid van een schip op een loodsplichtige scheepvaartweg zodanig direct in gevaar is, dat het loodsen op afstand in afwachting van het binnen korte tijd aan boord komen van een loods noodzakelijk is.
 
-2. Een registerloods mag het loodsen op afstand slechts verrichten vanaf door de bevoegde autoriteit vast te stellen locaties vanaf de wal en in de situaties genoemd in het eerste lid, aanhef en onderdeel a en b, ook vanaf een ander schip of vanaf een loodsvaartuig.
+2. Een registerloods mag het loodsen op afstand slechts verrichten vanaf door de bevoegde autoriteit vast te stellen locaties vanaf de wal en in de situaties genoemd in het eerste lid, aanhef en onderdeel a en b, ook vanaf een ander schip of vanaf een loodsvaartuig.
 
 3. Een registerloods volgt bij het geven van verkeersinformatie tijdens het loodsen op afstand vanaf de wal de door de Minister of de bevoegde autoriteit gegeven voorschriften op.
 
@@ -228,7 +200,7 @@ Tijdens de uitoefening van zijn functie:
 
 ##### Artikel 2.8. Procedures in verband met het loodsen op afstand
 
-1. De met het loodsen van een schip belaste registerloods doet onverwijld melding aan de daartoe door het bestuur van een regionale loodsencorporatie aangewezen registerloods, indien zich een voor het loodsen op afstand genoemde omstandigheid als bedoeld in [artikel 2.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2025-09-01&g=2025-09-01), voordoet.
+1. De met het loodsen van een schip belaste registerloods doet onverwijld melding aan de daartoe door het bestuur van een regionale loodsencorporatie aangewezen registerloods, indien zich een voor het loodsen op afstand genoemde omstandigheid als bedoeld in [artikel 2.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2025-09-01&g=2025-09-01), voordoet.
 
 2. De aangewezen registerloods, bedoeld in het eerste lid, geeft een door hem ontvangen melding onverwijld door aan de bevoegde autoriteit, indien hij eveneens van oordeel is dat er sprake is van een dergelijke omstandigheid.
 
@@ -270,6 +242,10 @@ Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een per
 
 - e. beschikt over zodanige karaktereigenschappen dat hij naar verwachting geschikt zal zijn voor het uitoefenen van het beroep van noordzeeloods.
 
+##### Artikel 3.2a
+
+Voor een uitgetreden registerloods geldt in afwijking van het in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-09-01&g=2025-09-01), genoemde het vereiste om in het bezit te zijn van een geldig bekwaamheidsbewijs basisveiligheid, als bedoeld in [artikel 3.5.1, eerste lid, van het Besluit bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.1).
+
 ##### Artikel 3.3. Inhoud van de opleiding en het examen voor noordzeeloods
 
 1. De opleiding tot noordzeeloods omvat zowel theoretisch als praktisch onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in ten minste de volgende aspecten van de beroepsuitoefening: navigeren, manoeuvreren en communiceren in het algemeen en in het bijzonder met betrekking tot het beloodsingsgebied.
@@ -300,15 +276,15 @@ Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een per
 
 - b. doet de noordzeeloods, onverwijld aan de bevoegde instanties en zo nodig aan de zich in de onmiddellijke nabijheid bevindende schepen melding van:
 
-- 1°. tekortkomingen of bijzonderheden ten aanzien van het schip waarvoor hij loodsdiensten verricht, die de veiligheid van het schip, de opvarenden of de omgeving naar zijn oordeel kunnen schaden;
+   - 1°. tekortkomingen of bijzonderheden ten aanzien van het schip waarvoor hij loodsdiensten verricht, die de veiligheid van het schip, de opvarenden of de omgeving naar zijn oordeel kunnen schaden;
 
-- 2°. overtredingen door andere verkeersdeelnemers van de wettelijke voorschriften gegeven ter bescherming van de belangen, bedoeld in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3);
+   - 2°. overtredingen door andere verkeersdeelnemers van de wettelijke voorschriften gegeven ter bescherming van de belangen, bedoeld in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3);
 
-- 3°. een scheepsramp;
+   - 3°. een scheepsramp;
 
-- 4°. bijzonderheden met betrekking tot het beloodsingsgebied of verkeerstekens en overige navigatiehulpmiddelen;
+   - 4°. bijzonderheden met betrekking tot het beloodsingsgebied of verkeerstekens en overige navigatiehulpmiddelen;
 
-- 5°. het verlies van ankers, trossen of kettingen, dan wel van lading die hinder kan veroorzaken, alsmede de positie daarvan;
+   - 5°. het verlies van ankers, trossen of kettingen, dan wel van lading die hinder kan veroorzaken, alsmede de positie daarvan;
 
 - c. geeft de noordzeeloods een voor het schip, ten behoeve waarvan hij zijn functie uitoefent, bestemde verkeersaanwijzing die hem bereikt, onverwijld door aan degene die belast is met het gezag over het schip of aan de verkeersdeelnemer;
 
@@ -332,7 +308,9 @@ Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een per
 
 ### Hoofdstuk 4. Verklaringhouders
 
-### Hoofdstuk 4. Verklaringhouders
+*Gereserveerd*
+
+### Hoofdstuk 5. Bevoegdheid tot geven van verkeerinformatie en verkeersaanwijzingen
 
 #### Paragraaf 1. De bevoegdheid en opleiding van een VTS-operator en andere personen
 
@@ -364,13 +342,13 @@ In opdracht van het bevoegd gezag zijn bevoegd tot het aan de scheepvaart geven 
 
 2. Indien en zolang er geen opleiding is die voldoet aan het eerste lid, wijst de Minister een of meer opleidingsinstellingen aan die de opleidingen met inachtneming van deze paragraaf gaat verzorgen. Aan deze aanwijzing worden in elk geval voorschriften verbonden die ertoe leiden dat de kwaliteit en de continuïteit van de opleidingen gewaarborgd blijven.
 
-##### Artikel 5.5. Voorwaarden voor het uitoefenen van de taken, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01)
+##### Artikel 5.5. Voorwaarden voor het uitoefenen van de taken, bedoeld in artikel 5.1, onderdeel b
 
 Het bevoegd gezag kan alleen een persoon als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01), bevoegd verklaren voor het uitoefenen van een of meer van de in dat artikel bedoelde taken nadat deze persoon de voor hem vastgestelde delen van de opleiding, bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.6&z=2025-09-01&g=2025-09-01), met goed gevolg heeft afgerond en zolang deze persoon blijkt geeft over voldoende kennis en vakbekwaamheid te beschikken om de betreffende functie te kunnen blijven uitoefenen.
 
-##### Artikel 5.6. De opleiding van personen, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01)
+##### Artikel 5.6. De opleiding van personen, bedoeld in artikel 5.1, onderdeel b
 
-1. De opleiding voor personen, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01), omvat de door degenen die als bevoegd gezag zijn aangewezen gezamenlijk ontwikkelde nautische leerlijnen die dienen ter verdere professionalisering van de in artikel 5.1, onderdeel b, bedoelde personen.
+1. De opleiding voor personen, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01), omvat de door degenen die als bevoegd gezag zijn aangewezen gezamenlijk ontwikkelde nautische leerlijnen die dienen ter verdere professionalisering van de in artikel 5.1, onderdeel b, bedoelde personen.
 
 2. De nautische leerlijnen omvatten zowel theoretisch als praktisch onderwijs dat gericht is op het verwerven van de voor de betreffende functie specifieke competenties en bestaan uit basismodules en verdiepingsmodules per te onderscheiden kennisveld.
 
@@ -384,17 +362,17 @@ Het bevoegd gezag kan alleen een persoon als bedoeld in [artikel 5.1, onderdeel 
 
 - b. die in het bezit is van een vaarbekwaamheidsbewijs politie maar niet in het bezit is van een groot vaarbewijs of groot patent, voor zover het betreft verkeersaanwijzingen aan:
 
-- 1°. de schipper van een schip die gelet op [artikel 16 van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16), in het bezit dient te zijn van een klein vaarbewijs, en niet van een groot vaarbewijs,
+   - 1°. de schipper van een schip die gelet op [artikel 16 van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=16), in het bezit dient te zijn van een klein vaarbewijs, en niet van een groot vaarbewijs,
 
-- 2°. de schipper van een schip die gelet op [artikel 6.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.02), in samenhang met [artikel 6.04, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.04), in het bezit dient te zijn van een klein patent, een sportpatent of een overheidspatent, behoudens wanneer het de schipper betreft van een schip in beheer bij het Ministerie van Defensie, of
+   - 2°. de schipper van een schip die gelet op [artikel 6.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.02), in samenhang met [artikel 6.04, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.04), in het bezit dient te zijn van een klein patent, een sportpatent of een overheidspatent, behoudens wanneer het de schipper betreft van een schip in beheer bij het Ministerie van Defensie, of
 
-- 3°. de schipper van een schip met een lengte van minder dan 15 meter, tenzij de schipper van dat schip een groot vaarbewijs is vereist, of wanneer het de schipper betreft van een schip als bedoeld in [artikel 17, eerste lid, onderdeel b, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17), of,
+   - 3°. de schipper van een schip met een lengte van minder dan 15 meter, tenzij de schipper van dat schip een groot vaarbewijs is vereist, of wanneer het de schipper betreft van een schip als bedoeld in [artikel 17, eerste lid, onderdeel b, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17), of,
 
 - c. die niet in het bezit is van een vaarbekwaamheidsbewijs politie en niet in het bezit is van een groot vaarbewijs of groot patent, voor zover het betreft verkeersaanwijzingen aan:
 
-- 1°. de schipper van een schip met een lengte van minder dan 15 meter, behoudens wanneer voor de schipper van dat schip een klein vaarbewijs of een groot vaarbewijs is vereist, of wanneer het de schipper betreft van een schip als bedoeld in [artikel 17, eerste lid, onderdeel b, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17), of
+   - 1°. de schipper van een schip met een lengte van minder dan 15 meter, behoudens wanneer voor de schipper van dat schip een klein vaarbewijs of een groot vaarbewijs is vereist, of wanneer het de schipper betreft van een schip als bedoeld in [artikel 17, eerste lid, onderdeel b, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=17), of
 
-- 2°. de schipper van een schip, behoudens wanneer voor de schipper van dat schip ingevolge [artikel 6.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.02), in samenhang met [artikel 6.04, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.04), een patent is vereist, of wanneer het de schipper betreft van een schip in beheer bij het Ministerie van Defensie dan wel van een schip bestemd tot het redden van drenkelingen.
+   - 2°. de schipper van een schip, behoudens wanneer voor de schipper van dat schip ingevolge [artikel 6.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.02), in samenhang met [artikel 6.04, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.04), een patent is vereist, of wanneer het de schipper betreft van een schip in beheer bij het Ministerie van Defensie dan wel van een schip bestemd tot het redden van drenkelingen.
 
 2. De Minister kan in overeenstemming met Onze Minister van Veiligheid en Justitie, voor de toepassing van het eerste lid een ander bewijs van bekwaamheid met het vaarbekwaamheidsbewijs politie gelijkstellen.
 
@@ -416,7 +394,7 @@ Een registerloods is bevoegd tot het geven van verkeersinformatie:
 
 ##### Artikel 5.10. Verkeersinformatie op de Eems
 
-Dit hoofdstuk is niet van toepassing indien verkeersinformatie wordt gegeven krachtens de op 9 december 1980 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de gemeenschappelijke informatie en begeleiding van de scheepvaart in de Eemsmonding door middel van walradar- en hoogfrequentie-radio-installaties, met bijlagen (Trb. 1981, 2).
+Dit hoofdstuk is niet van toepassing indien verkeersinformatie wordt gegeven krachtens de op 9 december 1980 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de gemeenschappelijke informatie en begeleiding van de scheepvaart in de Eemsmonding door middel van walradar- en hoogfrequentie-radio-installaties, met bijlagen (Trb. 1981, 2).
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -434,19 +412,19 @@ Dit hoofdstuk is niet van toepassing indien verkeersinformatie wordt gegeven kra
 
 6. De op grond van [artikel 4 van het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0014384&artikel=4) en de daarop berustende bepalingen met goed gevolg afgelegde opleidingen of modules worden gelijkgesteld met de in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.6&z=2025-09-01&g=2025-09-01), bedoelde nautische leerlijnen.
 
-##### Artikel 6.2. Wijziging [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512)
+##### Artikel 6.2. Wijziging Loodsplichtbesluit 1995
 
-Wijzigt het Loodsplichtbesluit 1995.
+*Wijzigt het Loodsplichtbesluit 1995.*
 
-##### Artikel 6.3. Wijziging [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513)
+##### Artikel 6.3. Wijziging Besluit verklaringhouders Scheepvaartverkeerswet
 
-Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet.
+*Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet.*
 
 ##### Artikel 6.4. Strafbepaling
 
 Overtreding van de bij of krachtens de [artikelen 2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2025-09-01&g=2025-09-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2025-09-01&g=2025-09-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2025-09-01&g=2025-09-01) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-09-01&g=2025-09-01) gestelde voorschriften is een strafbaar feit.
 
-##### Artikel 6.5. Intrekken van besluiten op basis van de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) en [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364)
+##### Artikel 6.5. Intrekken van besluiten op basis van de Loodsenwet en Scheepvaartverkeerswet
 
 De volgende besluiten worden ingetrokken:
 
@@ -458,7 +436,7 @@ De volgende besluiten worden ingetrokken:
 
 - d. het [Besluit certificaatloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004865);
 
-- e. het [Besluit van 13 juli 2006, houdende wijziging van het Loodsenregisterbesluit en het Besluit certificaatloodsen (aanpassing aan het herziene stelsel van geneeskundige verklaringen voor zeevarenden)](https://wetten.overheid.nl/jci1.3:c:BWBR0020110) (Stb. 2006, 365); en
+- e. het [Besluit van 13 juli 2006, houdende wijziging van het Loodsenregisterbesluit en het Besluit certificaatloodsen (aanpassing aan het herziene stelsel van geneeskundige verklaringen voor zeevarenden)](https://wetten.overheid.nl/jci1.3:c:BWBR0020110) (Stb. 2006, 365); en
 
 - f. het [Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0014384).
 
@@ -484,66 +462,18 @@ De volgende besluiten worden ingetrokken:
 
 ##### Artikel 6.7. Inwerkingtreding en overgangsrecht
 
-1. [Artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=IX) (wijziging van de Loodsenwet) en dit besluit treden in werking met ingang van 1 januari 2014.
+1. [Artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=IX) (wijziging van de Loodsenwet) en dit besluit treden in werking met ingang van 1 januari 2014.
 
-2. In afwijking van het eerste lid, treden [artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=IX) (wijziging van de Loodsenwet) en dit besluit, indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2013 in werking met ingang 1 april 2014 en werken de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-09-01&g=2025-09-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-01&g=2025-09-01), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-09-01&g=2025-09-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-09-01&g=2025-09-01) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2025-09-01&g=2025-09-01) voor personen wiens opleiding tussen 1 januari 2014 en 31 maart 2014 is begonnen, terug tot en met 1 januari 2014.
+2. In afwijking van het eerste lid, treden [artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=IX) (wijziging van de Loodsenwet) en dit besluit, indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2013 in werking met ingang 1 april 2014 en werken de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-09-01&g=2025-09-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-01&g=2025-09-01), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-09-01&g=2025-09-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-09-01&g=2025-09-01) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2025-09-01&g=2025-09-01) voor personen wiens opleiding tussen 1 januari 2014 en 31 maart 2014 is begonnen, terug tot en met 1 januari 2014.
 
-3. In afwijking van het eerste lid, treden de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-09-01&g=2025-09-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2025-09-01&g=2025-09-01) en [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.4&z=2025-09-01&g=2025-09-01) met ingang van 1 januari 2015 in werking treden.
+3. In afwijking van het eerste lid, treden de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-09-01&g=2025-09-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2025-09-01&g=2025-09-01) en [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.4&z=2025-09-01&g=2025-09-01) met ingang van 1 januari 2015 in werking treden.
 
-4. In afwijking van het eerste lid en van [artikel 6.5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=6&artikel=6.5&z=2025-09-01&g=2025-09-01), blijven de artikelen van de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365), het [Besluit adspirant-registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004391) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013, tot 1 januari 2015 van toepassing op de opleiding en examinering van personen met wie voor 1 januari 2014 een leerovereenkomst als bedoeld in [artikel 19, eerste lid, onderdeel b, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=19), zoals dat artikel op 31 december 2013 luidde, is aangegaan.
+4. In afwijking van het eerste lid en van [artikel 6.5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=6&artikel=6.5&z=2025-09-01&g=2025-09-01), blijven de artikelen van de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365), het [Besluit adspirant-registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004391) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013, tot 1 januari 2015 van toepassing op de opleiding en examinering van personen met wie voor 1 januari 2014 een leerovereenkomst als bedoeld in [artikel 19, eerste lid, onderdeel b, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=19), zoals dat artikel op 31 december 2013 luidde, is aangegaan.
 
-5. In afwijking van het eerste lid en van [artikel 6.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=6&artikel=6.5&z=2025-09-01&g=2025-09-01), blijven [artikel 5 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=5), het [Besluit certificaatloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004865) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013, tot 1 juli 2014 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.
+5. In afwijking van het eerste lid en van [artikel 6.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=6&artikel=6.5&z=2025-09-01&g=2025-09-01), blijven [artikel 5 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=5), het [Besluit certificaatloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004865) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013, tot 1 juli 2014 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.
 
-6. In afwijking van het eerste lid en van [artikel 6.5, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=6&artikel=6.5&z=2025-09-01&g=2025-09-01), blijft het [Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0014384) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013 tot 1 januari 2015 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.
+6. In afwijking van het eerste lid en van [artikel 6.5, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=6&artikel=6.5&z=2025-09-01&g=2025-09-01), blijft het [Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0014384) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013 tot 1 januari 2015 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.
 
 ##### Artikel 6.8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1.5. Grondslag
-
-Dit besluit berust mede op [artikel 2, zesde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2) en [artikel 31, vierde lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31).
-
-### Hoofdstuk 2. Registerloodsen
-
-#### Paragraaf 1. De opleiding voor het beroep van registerloods
-
-#### Paragraaf 2. Verplichtingen en bevoegdheden van de registerloods
-
-### Hoofdstuk 3. Noordzeeloodsen
-
-#### Paragraaf 1. De bevoegdheid en opleiding van een noordzeeloods
-
-#### Paragraaf 2. Verplichtingen van de noordzeeloods
-
-### Hoofdstuk 4. Verklaringhouders
-
-#### Paragraaf 1. De bevoegdheid en opleiding van een VTS-operator en andere personen
-
-#### Paragraaf 2. De bevoegdheid tot het geven van verkeersinformatie en verkeersaanwijzingen in andere gevallen
-
-#### Paragraaf 3. Overige bepalingen
-
-### Hoofdstuk 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.2a
-
-Voor een uitgetreden registerloods geldt in afwijking van het in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-09-01&g=2025-09-01), genoemde het vereiste om in het bezit te zijn van een geldig bekwaamheidsbewijs basisveiligheid, als bedoeld in [artikel 3.5.1, eerste lid, van het Besluit bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.1).
-
-#### Paragraaf 2. Verplichtingen van de noordzeeloods
-
-### Hoofdstuk 5. Bevoegdheid tot geven van verkeerinformatie en verkeersaanwijzingen
-
-#### Paragraaf 1. De bevoegdheid en opleiding van een VTS-operator en andere personen
-
-#### Paragraaf 2. De bevoegdheid tot het geven van verkeersinformatie en verkeersaanwijzingen in andere gevallen
-
-#### Paragraaf 3. Overige bepalingen
-
-### Hoofdstuk 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

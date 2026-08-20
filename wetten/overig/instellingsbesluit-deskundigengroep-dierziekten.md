@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. WJZ/13131948, houdende instelling van de Deskundigengroep dierziekten (Instellingsbesluit Deskundigengroep dierziekten)"
+citeertitel: "Instellingsbesluit Deskundigengroep dierziekten"
 identifier: "BWBR0033893"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-04-01"
-last_updated: "2023-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033893"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12362943"
-version_id: "20750142"
-internal_id: "C29808211"
-label_id: "12334024"
-dtd_version: "2.0"
-original_entry_into_force: "2013-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033893/2023-04-01/0"
-intitule_bron: "Stcrt.2013-26216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-09-11"
-intitule_published: "2013-09-23"
-intitule_in_force: "2013-09-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-26216"
-original_signed_date: "2013-09-11"
-original_published_date: "2013-09-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-26216"
-entry_into_force_date: "2013-09-24"
-jci_1_3: "jci1.3:c:BWBR0033893&z=2023-04-01&g=2023-04-01"
-jci_1_0: "1.0:c:BWBR0033893&g=2023-04-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Deskundigengroep dierziekten"
-signed_date: "2013-09-11"
-entry_into_force: "2013-09-24"
+publicatiedatum: 2013-09-24
+laatste_update: 2023-04-01
+status: geldig
+toestand: 2023-04-01
+bron: "https://wetten.overheid.nl/BWBR0033893"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. WJZ/13131948, houdende instelling van de Deskundigengroep dierziekten (Instellingsbesluit Deskundigengroep dierziekten)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. *de minister:* de Minister van Economische Zaken;
 
-- b. **de deskundigengroep:** de Deskundigengroep dierziekten.
+- b. *de deskundigengroep:* de Deskundigengroep dierziekten.
 
 ##### Artikel 2
 
@@ -84,9 +58,9 @@ De deskundigengroep brengt zowel gevraagd als ongevraagd schriftelijk advies uit
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,095.
 
-2. De andere leden ontvangen een vergoeding per vergadering van € 317,–.
+2. De andere leden ontvangen een vergoeding per vergadering van € 317,–.
 
-3. Een gastdeskundige ontvangt een vergoeding per vergadering van € 317,–.
+3. Een gastdeskundige ontvangt een vergoeding per vergadering van € 317,–.
 
 ##### Artikel 7
 
@@ -134,20 +108,18 @@ Ter gelegenheid van de instelling van de deskundigengroep worden voor een period
 
 De volgende besluiten worden ingetrokken:
 
-- a. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 mei 2005, kenmerk TRCJZ/2005/1442, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van Newcastle Disease en Aviaire Influenza;
+- a. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 mei 2005, kenmerk TRCJZ/2005/1442, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van Newcastle Disease en Aviaire Influenza;
 
-- b. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 juni 2005, kenmerk TRCJZ/2005/1772, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van Mond- en klauwzeer, Bluetonge en Runderpest;
+- b. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 juni 2005, kenmerk TRCJZ/2005/1772, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van Mond- en klauwzeer, Bluetonge en Runderpest;
 
-- c. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 juni 2005, kenmerk TRCJZ/2005/1773, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van klassieke varkenspest, Afrikaanse varkenspest en SVD (blaasjesziekte);
+- c. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 juni 2005, kenmerk TRCJZ/2005/1773, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van klassieke varkenspest, Afrikaanse varkenspest en SVD (blaasjesziekte);
 
-- d. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 15 april 2008, kenmerk TRCJZ/2008/298, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van ziekten bij paardachtigen.
+- d. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 15 april 2008, kenmerk TRCJZ/2008/298, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van ziekten bij paardachtigen.
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2013.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2013.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Deskundigengroep dierziekten.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

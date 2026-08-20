@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 november 2013, kenmerk 171319-113432-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2014 en enkele andere aangelegenheden"
+citeertitel: "Aanwijzing contracteerruimte AWBZ 2014"
 identifier: "BWBR0034228"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034228"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "12438713"
-version_id: "20900782"
-internal_id: "C30005501"
-label_id: "12409624"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034228/2014-01-01/0"
-intitule_bron: "Stcrt.2013-33014"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-19"
-intitule_published: "2013-11-27"
-intitule_in_force: "2013-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-33014"
-original_signed_date: "2013-11-19"
-original_published_date: "2013-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-33014"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034228&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034228&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing contracteerruimte AWBZ 2014"
-signed_date: "2013-11-19"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034228"
+opgehaald: 2026-08-20
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 november 2013, kenmerk 171319-113432-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2014 en enkele andere aangelegenheden
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 11 oktober 2013 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) (Kamerstukken II 2013/14, 30 597, nr. 379);
-
-Besluit:
 
 #### Paragraaf 1. Algemeen
 
@@ -155,5 +127,3 @@ De zorgautoriteit informeert mij in mei 2014 over:
 ##### Artikel 12. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing contracteerruimte AWBZ 2014.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.

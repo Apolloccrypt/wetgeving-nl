@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2014"
 identifier: "BWBR0034019"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-10-17"
-last_updated: "2013-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034019"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "12395763"
-version_id: "20804692"
-internal_id: "C29876801"
-label_id: "12367564"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034019/2013-10-17/0"
-intitule_bron: "Stcrt.2013-28572"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-10-15"
-intitule_in_force: "2013-10-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-28572"
-original_published_date: "2013-10-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-28572"
-entry_into_force_date: "2013-10-17"
-jci_1_3: "jci1.3:c:BWBR0034019&z=2013-10-17&g=2013-10-17"
-jci_1_0: "1.0:c:BWBR0034019&g=2013-10-17"
-citeertitel_status: "officieel"
-entry_into_force: "2013-10-17"
+publicatiedatum: 2013-10-17
+laatste_update: 2013-10-17
+status: geldig
+toestand: 2013-10-17
+bron: "https://wetten.overheid.nl/BWBR0034019"
+opgehaald: 2026-08-20
 ---
+
 # Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [artikel 90 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959) en de brief van de minister van VWS van 23 september 2013, kenmerk 150693-110091-Z,
-
-Heeft in zijn vergadering van 30 september 2013 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -42,31 +19,31 @@ Heeft in zijn vergadering van 30 september 2013 besloten:
 
 Deze beleidsregels verstaan onder:
 
-- a. **college:** het College voor zorgverzekeringen, bedoeld in [artikel 58, eerste lid Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- a. *college:* het College voor zorgverzekeringen, bedoeld in [artikel 58, eerste lid Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- b. **zwaarte:** het deel waarvoor de verzekerde meetelt in een betreffende klasse;
+- b. *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;
 
-- c. **macroverzekerdenraming:** de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;
+- c. *macroverzekerdenraming:* de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;
 
-- d. **HKG:** hulpmiddelen kostengroepen als bedoeld in [artikel 5, eerste lid van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&artikel=5);
+- d. *HKG:* hulpmiddelen kostengroepen als bedoeld in [artikel 5, eerste lid van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&artikel=5);
 
-- e. **MHK:** meerjarige hoge kosten als bedoeld in [artikel 1, onderdeel z van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- e. *MHK:* meerjarige hoge kosten als bedoeld in [artikel 1, onderdeel z van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- f. **FKG GGZ:** FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- f. *FKG GGZ:* FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- g. **DKG GGZ:** diagnose kostengroepen psychische aandoeningen als bedoeld in [artikel 5, tweede lid van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&artikel=5);
+- g. *DKG GGZ:* diagnose kostengroepen psychische aandoeningen als bedoeld in [artikel 5, tweede lid van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&artikel=5);
 
-- h. **GGZ-kosten lage drempel:** kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel als bedoeld in [artikel 1, onderdeel x van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- h. *GGZ-kosten lage drempel:* kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel als bedoeld in [artikel 1, onderdeel x van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- i. **PKB:** persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;
+- i. *PKB:* persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;
 
-- j. **VPPKB:** verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat;
+- j. *VPPKB:* verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat;
 
-- k. **verzekerde woonachtig in het buitenland:** een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
+- k. *verzekerde woonachtig in het buitenland:* een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
 
-- l. **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
+- l. *vereveningsbijdrage:* de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
 
-- m. **wet:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+- m. *wet:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 ##### Artikel 2. Algemene bepaling
 
@@ -1212,11 +1189,11 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 5. Het college betaalt de netto te betalen bedragen, bedoeld in het vierde lid, onder a tot en met d, in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
 
-|   | Bestanddelen betalingen |   |   |   |
+|  | Bestanddelen betalingen |  |  |  |
 | --- | --- | --- | --- | --- |
 | Betaalmoment | Artikel 41 vierde lid, onder a | Artikel 41 vierde lid, onder b | Artikel 41 vierde lid, onder c | Artikel 41 vierde lid, onder d |
-| januari 2014 |   | 0,5200% |   |   |
-| februari 2014 | 0,9195% | 2,0800% |   | 8,3333% |
+| januari 2014 |  | 0,5200% |  |  |
+| februari 2014 | 0,9195% | 2,0800% |  | 8,3333% |
 | maart 2014 | 2,6437% | 4,1700% | 8,3333% | 8,3333% |
 | april 2014 | 4,3678% | 6,2500% | 8,3334% | 8,3334% |
 | mei 2014 | 6,0920% | 7,8100% | 8,3333% | 8,3333% |
@@ -1228,11 +1205,11 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 | november 2014 | 8,3333% | 8,3300% | 8,3333% | 8,3333% |
 | december 2014 | 8,3333% | 8,3400% | 8,3333% | 8,3333% |
 | januari 2015 | 8,3333% | 7,8100% | 8,3334% | 8,3334% |
-| februari 2015 | 7,4139% | 6,2500% | 8,3333% |   |
-| maart 2015 | 5,6897% | 4,1700% |   |   |
-| april 2015 | 3,9656% | 2,0800% |   |   |
-| mei 2015 | 2,2414% | 0,5200% |   |   |
-| juni 2015 | 0,6898% |   |   |   |
+| februari 2015 | 7,4139% | 6,2500% | 8,3333% |  |
+| maart 2015 | 5,6897% | 4,1700% |  |  |
+| april 2015 | 3,9656% | 2,0800% |  |  |
+| mei 2015 | 2,2414% | 0,5200% |  |  |
+| juni 2015 | 0,6898% |  |  |  |
 
 6. Voor een zorgverzekeraar die zich op grond van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=25) aanmeldt bij de Nederlandse Zorgautoriteit nadat het college de bijdragen voor de zorgverzekeraars heeft toegekend, kan het college voor die zorgverzekeraar afwijken van de vorige leden.
 
@@ -1291,250 +1268,3 @@ Deze beleidregels treden in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 46
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2014.
-
-## Bijlage 1. Toewijzing FKG’s diabetes 2014 op basis van farmaciegebruik voor diabetes en hypertensie
-
-Bron: College voor zorgverzekeringen
-
-| Diabetes type I | Diabetes type II | Hypertensie | Toewijzing FKG |
-| --- | --- | --- | --- |
-| >180 | >180 | >180 | Diabetes type I |
-| >180 | >180 | ≤180 | Diabetes type I |
-| >180 | ≤180 | >180 | Diabetes type I |
-| >180 | ≤180 | ≤180 | Diabetes type I |
-| ≤180 | >180 | >180 | Diabetes type II met hypertensie |
-| ≤180 | >180 | ≤180 | Diabetes type II zonder hypertensie |
-| ≤180 | ≤180 | >180 | Geen |
-| ≤180 | ≤180 | ≤180 | Geen |
-
-Toelichting:
-
-Groter of kleiner dan 180 verwijst naar de dagdosering voor de betreffende FKG. De tabel beschrijft de verschillende situaties die mogelijk zijn bij een samenloop van farmaciegebruik voor diabetes en hypertensie. In de laatste kolom staat aangegeven welke FKG’s toegewezen worden in de betreffende situatie.
-
-## Bijlage 2. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 3. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 4. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 5. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium HKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 6. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 7. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium regio (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 8. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 9. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium meerjarig hoge kosten (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 10. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2)
-
-### Gewichten voor het vereveningscriterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-## Bijlage 11. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2)
-
-### Gewichten voor het vereveningscriterium FKG’s psychische aandoeningen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-## Bijlage 12. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2)
-
-### Gewichten voor het vereveningscriterium DKG’s psychische aandoeningen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-## Bijlage 13. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2)
-
-### Gewichten voor het vereveningscriterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-## Bijlage 14. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2)
-
-### Gewichten voor het vereveningscriterium GGZ-regio (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-## Bijlage 15. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2)
-
-### Gewichten voor het vereveningscriterium SES (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-## Bijlage 16. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2)
-
-### Gewichten voor het vereveningscriterium woonachtig in Nederland op een éénpersoonsadres (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-## Bijlage 17. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2) en eigen berekening CVZ
-
-### Gewichten voor het vereveningscriterium GGZ-kosten lage drempelklasse voor het deelbedrag geneeskundige GGZ
-
-## Bijlage 18. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 19. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium FKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 20. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium DKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 21. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium HKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 22. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 23. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium regio (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 24. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor de SES klasse (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 25. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1)
-
-### Gewichten voor het vereveningscriterium meerjarig hoge kosten (MHK) (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 26. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 4 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=4)
-
-### Gewichten voor de eigen risico opbrengst per verzekerde per klasse naar leeftijd en geslacht (in euro’s per verzekerde)
-
-## Bijlage 27. van de beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 4 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=4)
-
-### Gewichten voor de eigen risico opbrengst per verzekerde per klasse naar aard van het inkomen (in euro’s per verzekerde)
-
-## Bijlage 28. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 4 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=4)
-
-### Gewichten voor de eigen risico opbrengst per verzekerde per risicoklasse naar regio (in euro’s per verzekerde)
-
-## Bijlage 29. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3)
-
-### Gewichten voor het vereveningscriterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 30. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3)
-
-### Gewichten voor het vereveningscriterium FKG psychische aandoeningen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 31. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3)
-
-### Gewichten voor het vereveningscriterium DKG’s psychische aandoeningen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 32. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3)
-
-### Gewichten voor het vereveningscriterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 33. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3)
-
-### Gewichten voor het vereveningscriterium GGZ-regio (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 34. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3)
-
-### Gewichten voor het vereveningscriterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 35. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3)
-
-### Gewichten voor het vereveningscriterium woonachtig in Nederland op een éénpersoonsadres (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 36. van de Beleidsregels vereveningsbijdrage zorgverzekering 2014
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3) en eigen berekening CVZ
-
-### Gewichten voor het vereveningscriterium GGZ-kosten lage drempelklasse voor het deelbedrag geneeskundige GGZ
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-Deze beleidsregels worden in de Staatscourant geplaatst.

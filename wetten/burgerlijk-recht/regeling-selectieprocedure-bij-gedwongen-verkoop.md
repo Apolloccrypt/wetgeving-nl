@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 19 november 2013, nr. WJZ/13185763, tot het vaststellen van een selectieprocedure bij gedwongen verkoop (Regeling selectieprocedure bij gedwongen verkoop)"
+citeertitel: "Regeling selectieprocedure bij gedwongen verkoop"
 identifier: "BWBR0034216"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034216"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12434983"
-version_id: "20894562"
-internal_id: "C29997291"
-label_id: "12406194"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034216/2023-01-01/0"
-intitule_bron: "Stcrt.2013-32514"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-19"
-intitule_published: "2013-11-22"
-intitule_in_force: "2013-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-32514"
-original_signed_date: "2013-11-19"
-original_published_date: "2013-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-32514"
-entry_into_force_date: "2014-04-01"
-jci_1_3: "jci1.3:c:BWBR0034216&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0034216&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling selectieprocedure bij gedwongen verkoop"
-signed_date: "2013-11-19"
-entry_into_force: "2014-04-01"
+publicatiedatum: 2014-04-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0034216"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Economische Zaken van 19 november 2013, nr. WJZ/13185763, tot het vaststellen van een selectieprocedure bij gedwongen verkoop (Regeling selectieprocedure bij gedwongen verkoop)
-
-Gelet op de [artikelen 3.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.16), [3.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a), [7.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.1), [7.3, eerste lid, onderdeel d, en vierde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.3), en [7.7a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.7a), de [artikelen 19 tot en met 22 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=19), [artikel 3.5b, derde lid, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=3.5b), de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6) en [7 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7) en [artikel 4:93 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanvrager:** degene die een aanvraag tot verlening van toestemming als bedoeld in [artikel 3.19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a) heeft ingediend;
+- a. *aanvrager:* degene die een aanvraag tot verlening van toestemming als bedoeld in [artikel 3.19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a) heeft ingediend;
 
-- b. **vergunning:** een vergunning als bedoeld in [artikel 3.19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a), of een in het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) bedoelde besluit vastgesteld deel daarvan;
+- b. *vergunning:* een vergunning als bedoeld in [artikel 3.19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a), of een in het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) bedoelde besluit vastgesteld deel daarvan;
 
-- c. **vertrouwelijke informatie:** informatie over een aanvrager of een natuurlijke of rechtspersoon met toestemming die niet openbaar is en die, wanneer kenbaar gemaakt aan een ander diens beslissingen met betrekking tot de procedure van gedwongen verkoop beïnvloedt of kan beïnvloeden;
+- c. *vertrouwelijke informatie:* informatie over een aanvrager of een natuurlijke of rechtspersoon met toestemming die niet openbaar is en die, wanneer kenbaar gemaakt aan een ander diens beslissingen met betrekking tot de procedure van gedwongen verkoop beïnvloedt of kan beïnvloeden;
 
-- d. **VOA-regeling:** de [Regeling verdeling op afroep](https://wetten.overheid.nl/jci1.3:c:BWBR0032899).
+- d. *VOA-regeling:* de [Regeling verdeling op afroep](https://wetten.overheid.nl/jci1.3:c:BWBR0032899).
 
-#### § 2. Termijn als bedoeld in [artikel 3.19a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a)
+#### § 2. Termijn als bedoeld in artikel 3.19a, vijfde lid
 
 ##### Artikel 2
 
@@ -188,7 +162,7 @@ Indien een procedure tot overdracht als bedoeld in [artikel 3.19a, eerste en twe
 
 - c. meerdere ongelijksoortige vergunningen: worden de vergunningen om niet overgedragen indien er voor iedere vergunning ten hoogste één aanvraag is ingediend door een natuurlijke of rechtspersoon met toestemming, tenzij en voor zover Onze Minister om redenen van doelmatig frequentiegebruik of vanwege het bepaalde bij of krachtens [artikel 6.24 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24) in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01), bedoelde besluit heeft bepaald dat de bij dat besluit aangewezen ongelijksoortige vergunningen uitsluitend om niet worden overgedragen indien de frequentieruimte voor alle vergunningen tezamen of per categorie van vergunningen gelijk is aan of groter is dan de door de natuurlijke en rechtspersonen met toestemming aangevraagde frequentieruimte.
 
-#### § 9. Veiling volgens [VOA-regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0032899) of veiling met gesloten bod
+#### § 9. Veiling volgens VOA-regeling of veiling met gesloten bod
 
 ##### Artikel 16
 
@@ -270,23 +244,23 @@ Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
 2. Uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 24, derde lid, van de VOA-regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&artikel=24) is gedaan, betaalt de natuurlijke of rechtspersoon met toestemming wiens bieding onderdeel uitmaakt van de finale winnende combinatie de door hem verschuldigde totaalprijs, door overmaking van dat bedrag op het aan hem door de latende vergunninghouder meegedeelde bankrekeningnummer, ten name van de daarbij meegedeelde naam en onder vermelding van de daarbij meegedeelde gegevens.
 
-#### § 12. Wijziging van de [Regeling universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016709)
+#### § 12. Wijziging van de Regeling universele dienstverlening en eindgebruikersbelangen
 
 ##### Artikel 25
 
-Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
+*Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.*
 
-#### § 13. Wijziging van de [Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023117)
+#### § 13. Wijziging van de Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007
 
 ##### Artikel 26
 
-Wijzigt de Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007.
+*Wijzigt de Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007.*
 
-#### § 14. Wijziging van de [Vergoedingsregeling Agentschap Telecom 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032252)
+#### § 14. Wijziging van de Vergoedingsregeling Agentschap Telecom 2013
 
 ##### Artikel 27
 
-Wijzigt de Regeling vergoedingen Agentschap Telecom 2013.
+*Wijzigt de Regeling vergoedingen Agentschap Telecom 2013.*
 
 #### § 15. Slotbepalingen
 
@@ -296,6 +270,4 @@ Deze regeling wordt aangehaald als: Regeling selectieprocedure bij gedwongen ver
 
 ##### Artikel 29
 
-Deze regeling treedt in werking met ingang van 1 april 2014.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 april 2014.

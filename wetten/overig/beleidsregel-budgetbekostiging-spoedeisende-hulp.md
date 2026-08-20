@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-17
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052435"
-opgehaald: 2026-08-19
+opgehaald: 2026-08-20
 ---
 
 # Beleidsregel budgetbekostiging spoedeisende hulp

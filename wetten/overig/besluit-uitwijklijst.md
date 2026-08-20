@@ -1,49 +1,17 @@
 ---
 title: "Besluit Uitwijklijst"
 identifier: "BWBR0033582"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033582"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12294963"
-version_id: "20597012"
-internal_id: "C28969341"
-label_id: "12266534"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033582/2013-07-01/0"
-intitule_bron: "Stcrt.2013-17541"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-11"
-intitule_published: "2013-06-26"
-intitule_in_force: "2013-06-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-17541"
-original_signed_date: "2013-06-11"
-original_published_date: "2013-06-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-17541"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033582&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0033582&g=2013-07-01"
-citeertitel_status: "officieel"
-signed_date: "2013-06-11"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0033582"
+opgehaald: 2026-08-20
 ---
+
 # Besluit Uitwijklijst
-
-Gelet op:
-
-[artikel 2, derde lid, van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2) (Stb. 2007, 375, hierna: de Wbtv);
-
-de [Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 januari 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0024993) tot wijziging van de Regeling houdende aanwijzing tot bewerker en verlening van mandaat en machtiging van de Minister van Veiligheid en Justitie aan de Raad voor de Rechtsbijstand te ’s-Hertogenbosch betreffende het Register beëdigde tolken en vertalers, (Stcrt. 19 januari 2011, 1030);
-
-het advies van het Kwaliteitsinstituut beëdigde tolken en vertalers van 27 maart 2013;
-
-Stelt de Raad voor Rechtsbijstand het volgende Besluit Uitwijklijst Wbtv (hierna: het Besluit Uitwijklijst) vast:
 
 #### Begrippen en definities
 
@@ -51,41 +19,44 @@ Stelt de Raad voor Rechtsbijstand het volgende Besluit Uitwijklijst Wbtv (hierna
 
 In dit besluit wordt verstaan onder:
 
-- a. **Wbtv:** [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
+- a. *Wbtv:*
+ [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
 
-- b. **Rbtv:** Register beëdigde tolken en vertalers;
+- b. *Rbtv:* Register beëdigde tolken en vertalers;
 
-- c. **Besluit btv:** [Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896);
+- c. *Besluit btv:*
+ [Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896);
 
-- d. **Uitwijklijst:** een lijst van tolken en vertalers, zoals bedoeld in [artikel 2, derde lid, van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2);
+- d. *Uitwijklijst:* een lijst van tolken en vertalers, zoals bedoeld in [artikel 2, derde lid, van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2);
 
-- e. **Besluit PE:** [Besluit permanente educatie Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0033579);
+- e. *Besluit PE:*
+ [Besluit permanente educatie Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0033579);
 
-- f. **ALTE:** The Association of Language Testers in Europe;
+- f. *ALTE:* The Association of Language Testers in Europe;
 
-- g. **toetsbaar:** een taal is toetsbaar als:
+- g. *toetsbaar:* een taal is toetsbaar als:
 
-- ○. in Nederland een geaccrediteerde opleiding aanwezig is op ten minste hbo-niveau waarbij de onderwijstaal de desbetreffende taal is;
+   - ○ in Nederland een geaccrediteerde opleiding aanwezig is op ten minste hbo-niveau waarbij de onderwijstaal de desbetreffende taal is;
 
-- ○. in Nederland een geaccrediteerde opleiding aanwezig is op ten minste hbo-niveau waarbij de desbetreffende taal aangeboden wordt en het eindniveau van de bron- of doeltaal na toetsing ten minste C1-niveau is;
+   - ○ in Nederland een geaccrediteerde opleiding aanwezig is op ten minste hbo-niveau waarbij de desbetreffende taal aangeboden wordt en het eindniveau van de bron- of doeltaal na toetsing ten minste C1-niveau is;
 
-- ○. de Minister onafhankelijke deskundige(n) heeft aangewezen die de kennis van de desbetreffende taal kan (kunnen) toetsen, mits zij gevestigd zijn binnen de Europese Unie1Hieronder wordt ook verstaan: andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland.;
+   - ○ de Minister onafhankelijke deskundige(n) heeft aangewezen die de kennis van de desbetreffende taal kan (kunnen) toetsen, mits zij gevestigd zijn binnen de Europese Unie1Hieronder wordt ook verstaan: andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland.;
 
-- ○. de desbetreffende taal bij één van de ALTE-leden te toetsen is op ten minste C1-niveau.
+   - ○ de desbetreffende taal bij één van de ALTE-leden te toetsen is op ten minste C1-niveau.
 
-- h. **C1-niveau:** C1-niveau van het Europees Referentiekader voor de Talen;
+- h. *C1-niveau:* C1-niveau van het Europees Referentiekader voor de Talen;
 
-- i. **onderwijstaal:** de taal waarin het onderwijs grotendeels wordt aangeboden;
+- i. *onderwijstaal:* de taal waarin het onderwijs grotendeels wordt aangeboden;
 
-- j. **scholing:** onderwijs waarbij middels een afsluitende toets wordt vastgesteld dat de gedoceerde kennis en vaardigheden beheerst worden;
+- j. *scholing:* onderwijs waarbij middels een afsluitende toets wordt vastgesteld dat de gedoceerde kennis en vaardigheden beheerst worden;
 
-- k. **beroepstolk:** een tolk die per jaar ten minste 200 uur tolkt, waarbij geen rekening wordt gehouden met scholing, reistijd, wachttijd en overige omstandigheden;
+- k. *beroepstolk:* een tolk die per jaar ten minste 200 uur tolkt, waarbij geen rekening wordt gehouden met scholing, reistijd, wachttijd en overige omstandigheden;
 
-- l. **beroepsvertaler:** een vertaler die per jaar ten minste 100.000 woorden vertaalt;
+- l. *beroepsvertaler:* een vertaler die per jaar ten minste 100.000 woorden vertaalt;
 
-- m. **professionele opdracht als tolk:** een in opdracht van een opdrachtgever verrichte tolkopdracht op basis van een afgesproken geldelijke vergoeding;
+- m. *professionele opdracht als tolk:* een in opdracht van een opdrachtgever verrichte tolkopdracht op basis van een afgesproken geldelijke vergoeding;
 
-- n. **professionele opdracht als vertaler:** een in opdracht van een opdrachtgever verrichte vertaling op basis van een afgesproken geldelijke vergoeding.
+- n. *professionele opdracht als vertaler:* een in opdracht van een opdrachtgever verrichte vertaling op basis van een afgesproken geldelijke vergoeding.
 
 #### De Uitwijklijst
 
@@ -129,23 +100,23 @@ Een tolk of vertaler kan op de Uitwijklijst worden geplaatst als hij wegens het 
 
 - a. Een tolk wordt op de Uitwijklijst geplaatst als hij aantoont te beschikken over:
 
-- 1. integriteit;
+   - 1. integriteit;
 
-- 2. taalvaardigheid van de te toetsen taal op ten minste C1-niveau;
+   - 2. taalvaardigheid van de te toetsen taal op ten minste C1-niveau;
 
-- 3. ten minste 420 uur scholing om tolkvaardigheid en -attitude op ten minste de onderdelen geheugen, tekstanalyse, parafraseren, notatietechnieken en tolkhouding te ontwikkelen;
+   - 3. ten minste 420 uur scholing om tolkvaardigheid en -attitude op ten minste de onderdelen geheugen, tekstanalyse, parafraseren, notatietechnieken en tolkhouding te ontwikkelen;
 
-- 4. tenminste vijf jaar werkervaring als beroepstolk in de betreffende talencombinaties direct voorafgaand aan het verzoek tot plaatsing op de Uitwijklijst.
+   - 4. tenminste vijf jaar werkervaring als beroepstolk in de betreffende talencombinaties direct voorafgaand aan het verzoek tot plaatsing op de Uitwijklijst.
 
 - b. Een vertaler wordt op de Uitwijklijst geplaatst als hij aantoont te beschikken over:
 
-- 1. integriteit;
+   - 1. integriteit;
 
-- 2. taalvaardigheid van de te toetsen taal op ten minste C1-niveau;
+   - 2. taalvaardigheid van de te toetsen taal op ten minste C1-niveau;
 
-- 3. ten minste 420 uur scholing om vertaalvaardigheid en -attitude op ten minste de onderdelen tekst en tekstbegrip, tekst en cultuur, technische aspecten van het vertalen en vertaalhouding te ontwikkelen;
+   - 3. ten minste 420 uur scholing om vertaalvaardigheid en -attitude op ten minste de onderdelen tekst en tekstbegrip, tekst en cultuur, technische aspecten van het vertalen en vertaalhouding te ontwikkelen;
 
-- 4. ten minste vijf jaar werkervaring als beroepsvertaler in de betreffende vertaalrichting direct voorafgaand aan het verzoek tot plaatsing op de Uitwijklijst.
+   - 4. ten minste vijf jaar werkervaring als beroepsvertaler in de betreffende vertaalrichting direct voorafgaand aan het verzoek tot plaatsing op de Uitwijklijst.
 
 ##### Artikel 7
 
@@ -173,7 +144,7 @@ De plaatsing op de Uitwijklijst geschiedt voor een periode van vijf jaar en eind
 
 #### Verlenging
 
-#### Het verzoek tot verlenging van de plaatsing
+##### Het verzoek tot verlenging van de plaatsing
 
 ##### Artikel 10
 
@@ -219,9 +190,9 @@ Een tolk of vertaler kan op aanvraag voor een periode van nogmaals vijf jaar op 
 
 - b. Een verzoek tot hernieuwde plaatsing wordt gehonoreerd indien aangetoond wordt dat:
 
-- 1. voldaan is aan de voorwaarden genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0033582&artikel=14&z=2013-07-01&g=2013-07-01);
+   - 1. voldaan is aan de voorwaarden genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0033582&artikel=14&z=2013-07-01&g=2013-07-01);
 
-- 2. alsnog voldaan is aan de bijscholingsverplichting zoals genoemd in het [Besluit PE](https://wetten.overheid.nl/jci1.3:c:BWBR0033579) die gold tijdens de periode van plaatsing waarop het verzoek tot hernieuwde plaatsing betrekking heeft.
+   - 2. alsnog voldaan is aan de bijscholingsverplichting zoals genoemd in het [Besluit PE](https://wetten.overheid.nl/jci1.3:c:BWBR0033579) die gold tijdens de periode van plaatsing waarop het verzoek tot hernieuwde plaatsing betrekking heeft.
 
 ##### Artikel 16
 
@@ -233,7 +204,7 @@ Voor het behandelen van een verzoek tot hernieuwde plaatsing op de Uitwijklijst 
 
 De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2), [4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=4), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=11), [16 tot en met 27, van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=16) en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=9), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=12), [15 tot en met 19, van het Besluit btv](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=15) zijn van overeenkomstige toepassing op de plaatsing op de Uitwijklijst.
 
-#### De Gedragscode voor tolken en vertalers in het kader van de [Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704)
+#### De Gedragscode voor tolken en vertalers in het kader van de Wbtv
 
 ##### Artikel 18
 

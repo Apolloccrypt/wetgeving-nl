@@ -1,56 +1,26 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ / 13183060, houdende instelling van de Monitoring Commissie Corporate Governance Code"
+citeertitel: "Instellingsbesluit Monitoring Commissie Corporate Governance Code"
 identifier: "BWBR0034295"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-06-20"
-last_updated: "2024-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034295"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12451443"
-version_id: "20933412"
-internal_id: "C30052071"
-label_id: "12422214"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034295/2024-06-20/0"
-intitule_bron: "Stcrt.2013-34316"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-29"
-intitule_published: "2013-12-10"
-intitule_in_force: "2013-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-34316"
-original_signed_date: "2013-11-29"
-original_published_date: "2013-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-34316"
-entry_into_force_date: "2013-12-11"
-jci_1_3: "jci1.3:c:BWBR0034295&z=2024-06-20&g=2024-06-20"
-jci_1_0: "1.0:c:BWBR0034295&g=2024-06-20"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Monitoring Commissie Corporate Governance Code"
-signed_date: "2013-11-29"
-entry_into_force: "2013-12-11"
+publicatiedatum: 2013-12-11
+laatste_update: 2024-06-20
+status: geldig
+toestand: 2024-06-20
+bron: "https://wetten.overheid.nl/BWBR0034295"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ / 13183060, houdende instelling van de Monitoring Commissie Corporate Governance Code
-
-Handelende in overeenstemming met de Ministers van Veiligheid en Justitie en van Financiën;
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Overwegende dat het wenselijk is de instelling van de Monitoring Commissie Corporate Governance Code, die tot taak heeft de actualiteit en bruikbaarheid van de Nederlandse corporate governance code te bevorderen, te herzien;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken en Klimaat;
+- a. *de minister:* de Minister van Economische Zaken en Klimaat;
 
-- b. **commissie:** de Monitoring Commissie Corporate Governance Code.
+- b. *commissie:* de Monitoring Commissie Corporate Governance Code.
 
 ##### Artikel 2
 
@@ -104,7 +74,7 @@ De commissie doet ten minste eenmaal per jaar verslag aan de minister en de Mini
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -113,5 +83,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Monitoring Commissie Corporate Governance Code.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

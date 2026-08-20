@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 19 juli 2013, houdende regels ter uitvoering van de artikelen 5:3:3, tweede lid, en 5:3:10, derde lid, van het Wetboek van Strafvordering (Uitvoeringsbesluit wederzijdse erkenning toezichtmaatregelen als alternatief voor voorlopige hechtenis)"
+citeertitel: "Uitvoeringsbesluit wederzijdse erkenning toezichtmaatregelen als alternatief voor voorlopige hechtenis"
 identifier: "BWBR0033717"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-11-01"
-last_updated: "2013-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033717"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "12325973"
-version_id: "20670402"
-internal_id: "C29595551"
-label_id: "12297054"
-dtd_version: "2.0"
-original_entry_into_force: "2013-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033717/2013-11-01/0"
-intitule_bron: "Stb.2013-322"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-19"
-intitule_published: "2013-07-26"
-intitule_in_force: "2013-07-25"
-intitule_status: "goed"
-original_publication: "Stb.2013-322"
-original_signed_date: "2013-07-19"
-original_published_date: "2013-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-322"
-entry_into_force_date: "2013-11-01"
-jci_1_3: "jci1.3:c:BWBR0033717&z=2013-11-01&g=2013-11-01"
-jci_1_0: "1.0:c:BWBR0033717&g=2013-11-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit wederzijdse erkenning toezichtmaatregelen als alternatief voor voorlopige hechtenis"
-signed_date: "2013-07-19"
-entry_into_force: "2013-11-01"
+publicatiedatum: 2013-11-01
+laatste_update: 2013-11-01
+status: geldig
+toestand: 2013-11-01
+bron: "https://wetten.overheid.nl/BWBR0033717"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 19 juli 2013, houdende regels ter uitvoering van de artikelen 5:3:3, tweede lid, en 5:3:10, derde lid, van het Wetboek van Strafvordering (Uitvoeringsbesluit wederzijdse erkenning toezichtmaatregelen als alternatief voor voorlopige hechtenis)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 25 juni 2013, directie Wetgeving en Juridische Zaken, nr. 401981;
-
-Gelet op de [artikelen 5:3:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5:3:3), en [5:3:10, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5:3:10);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 10 juli 2013, nr. W03.13.0187/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 16 juli 2013, directie Wetgeving en Juridische Zaken, nr. 409394;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Wetboek van Strafvordering (implementatie kaderbesluit 2009/829/JBZ (toezichtmaatregelen als alternatief voor voorlopige hechtenis) (Stb. 2013/250)) in werking treedt.
 
 ##### Artikel 1
 
@@ -127,5 +93,3 @@ Dit besluit treedt in werking op het tijdstip waarop de wet van 5 juni 2013 tot 
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit wederzijdse erkenning toezichtmaatregelen als alternatief voor voorlopige hechtenis.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

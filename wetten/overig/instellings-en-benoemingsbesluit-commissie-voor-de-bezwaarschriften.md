@@ -1,59 +1,33 @@
 ---
 title: "Instellings- en benoemingsbesluit Commissie voor de bezwaarschriften"
 identifier: "BWBR0033992"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-10-12"
-last_updated: "2013-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033992"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12392453"
-version_id: "20799352"
-internal_id: "C29869821"
-label_id: "12363454"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033992/2013-10-12/0"
-intitule_bron: "Stcrt.2013-28086"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-09-10"
-intitule_published: "2013-10-10"
-intitule_in_force: "2013-10-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-28086"
-original_signed_date: "2013-09-10"
-original_published_date: "2013-10-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-28086"
-entry_into_force_date: "2013-10-12"
-jci_1_3: "jci1.3:c:BWBR0033992&z=2013-10-12&g=2013-10-12"
-jci_1_0: "1.0:c:BWBR0033992&g=2013-10-12"
-citeertitel_status: "officieel"
-signed_date: "2013-09-10"
-entry_into_force: "2013-10-12"
+publicatiedatum: 2013-10-12
+laatste_update: 2013-10-12
+status: geldig
+toestand: 2013-10-12
+bron: "https://wetten.overheid.nl/BWBR0033992"
+opgehaald: 2026-08-20
 ---
+
 # Instellings- en benoemingsbesluit Commissie voor de bezwaarschriften
-
-Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
-
-Besluit:
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **bestuur:** het bestuur, bedoeld in [artikel 11 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=11);
+- a. *bestuur:* het bestuur, bedoeld in [artikel 11 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=11);
 
-- b. **bezwaarschrift:** een bezwaarschrift als bedoeld in [artikel 6:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4);
+- b. *bezwaarschrift:* een bezwaarschrift als bedoeld in [artikel 6:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4);
 
-- c. **commissie:** de Commissie voor de bezwaarschriften, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033992&artikel=2&z=2013-10-12&g=2013-10-12);
+- c. *commissie:* de Commissie voor de bezwaarschriften, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033992&artikel=2&z=2013-10-12&g=2013-10-12);
 
-- d. **extern lid:** een lid van de commissie dat tevens lid is van één van de ledengroepen;
+- d. *extern lid:* een lid van de commissie dat tevens lid is van één van de ledengroepen;
 
-- e. **ledengroepen:** de ledengroepen, bedoeld in [artikel 2 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=2);
+- e. *ledengroepen:* de ledengroepen, bedoeld in [artikel 2 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=2);
 
-- f. **intern lid:** een medewerker van de NBA.
+- f. *intern lid:* een medewerker van de NBA.
 
 ##### Artikel 2
 

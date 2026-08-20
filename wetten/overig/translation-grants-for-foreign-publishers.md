@@ -1,66 +1,36 @@
 ---
 title: "Translation Grants for Foreign"
+citeertitel: "Translation Grants for Foreign Publishers"
 identifier: "BWBR0034401"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034401"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12484623"
-version_id: "20992332"
-internal_id: "C30155651"
-label_id: "12455374"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034401/2014-01-01/0"
-intitule_bron: "Stcrt.2013-36033"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-12"
-intitule_published: "2013-12-17"
-intitule_in_force: "2013-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-36033"
-original_signed_date: "2013-12-12"
-original_published_date: "2013-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-36033"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034401&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034401&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Translation Grants for Foreign Publishers"
-signed_date: "2013-12-12"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034401"
+opgehaald: 2026-08-20
 ---
+
 # Translation Grants for Foreign
-
-Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
-
-Gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Gelet op het [Algemeen reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0032735);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- 1. **bestuur:** het bestuur van het Letterenfonds.
+- 1. *bestuur:* het bestuur van het Letterenfonds.
 
-- 2. **het Letterenfonds:** Stichting Nederlands Letterenfonds.
+- 2. *het Letterenfonds:* Stichting Nederlands Letterenfonds.
 
-- 3. **aanvrager:** een niet in de landen van de Nederlandse Taalunie gevestigde rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als doel onder meer de uitgave van literaire werken.
+- 3. *aanvrager:* een niet in de landen van de Nederlandse Taalunie gevestigde rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als doel onder meer de uitgave van literaire werken.
 
-- 4. **uitgave-overeenkomst:** een overeenkomst tussen een Nederlandse uitgeverij en de aanvrager betreffende de exploitatierechten op de vertaling van een uitgave waarin minimaal bepalingen over het royalty-percentage en de licentie zijn overeengekomen.
+- 4. *uitgave-overeenkomst:* een overeenkomst tussen een Nederlandse uitgeverij en de aanvrager betreffende de exploitatierechten op de vertaling van een uitgave waarin minimaal bepalingen over het royalty-percentage en de licentie zijn overeengekomen.
 
-- 5. **een uitgave:** uitgave van een werk in papieren of digitale vorm.
+- 5. *een uitgave:* uitgave van een werk in papieren of digitale vorm.
 
-- 6. **een werk:** een vertaling van oorspronkelijk in Nederlandse of Friese taal geschreven kwalitatief hoogstaande literaire (non-)fictie, waaronder poëzie en kinder- en jeugdliteratuur, alsmede anderstalige klassiekers die tot de Nederlandse literatuur worden gerekend.
+- 6. *een werk:* een vertaling van oorspronkelijk in Nederlandse of Friese taal geschreven kwalitatief hoogstaande literaire (non-)fictie, waaronder poëzie en kinder- en jeugdliteratuur, alsmede anderstalige klassiekers die tot de Nederlandse literatuur worden gerekend.
 
-- 7. **Nederlandse literatuur:** Nederlands- of Friestalige literaire werken geschreven door een auteur met de Nederlandse nationaliteit, een stateloze auteur of een auteur met een vreemde nationaliteit, mits die in een nauwe betrekking tot Nederland staat.
+- 7. *Nederlandse literatuur:* Nederlands- of Friestalige literaire werken geschreven door een auteur met de Nederlandse nationaliteit, een stateloze auteur of een auteur met een vreemde nationaliteit, mits die in een nauwe betrekking tot Nederland staat.
 
 ##### Artikel 2. Doelstelling
 
@@ -179,5 +149,3 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 4. De regeling vertaalde Nederlandse- en Friestalige boekuitgaven is met ingang van 1 januari 2014 ingetrokken.
 
 5. Deze regeling wordt aangehaald als Translation Grants for Foreign Publishers.
-
-Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Letterenfonds (www.letterenfonds.nl).

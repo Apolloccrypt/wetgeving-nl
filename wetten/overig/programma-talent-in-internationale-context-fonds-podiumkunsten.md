@@ -1,48 +1,25 @@
 ---
 title: "Programma talent in internationale context Fonds Podiumkunsten"
 identifier: "BWBR0034552"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034552"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12522733"
-version_id: "21078502"
-internal_id: "C30260131"
-label_id: "12493384"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034552/2019-01-01/0"
-intitule_bron: "Stcrt.2013-35792"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-12-30"
-intitule_in_force: "2013-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35792"
-original_published_date: "2013-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35792"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034552&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0034552&g=2019-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0034552"
+opgehaald: 2026-08-20
 ---
+
 # Programma talent in internationale context Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **maker:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten en artistiek-inhoudelijk eindverantwoordelijk is voor het totstandkomen van voorstellingen of concerten.
+- *maker:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en artistiek-inhoudelijk eindverantwoordelijk is voor het totstandkomen van voorstellingen of concerten.
 
 ##### Artikel 2. Doel
 
@@ -70,7 +47,7 @@ Het programma is gericht op makers die reeds bewezen succesvol zijn in de Nederl
 
 ##### Artikel 6. Looptijd en budget
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Overig
 
@@ -83,5 +60,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2014.
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Programma talent in internationale context Fonds Podiumkunsten.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

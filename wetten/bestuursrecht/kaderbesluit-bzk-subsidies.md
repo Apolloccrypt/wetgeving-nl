@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 30 mei 2013, houdende regels voor het verstrekken van subsidies door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst (Kaderbesluit BZK-subsidies)"
+citeertitel: "Kaderbesluit BZK-subsidies"
 identifier: "BWBR0033530"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-10-04"
-last_updated: "2022-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033530"
+categorie: "Staatsinrichting en bestuur"
 soort: "AMvB"
-stam_id: "12284323"
-version_id: "20571592"
-internal_id: "C29494471"
-label_id: "12255984"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033530/2022-10-04/0"
-intitule_bron: "Stb.2013-211"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-05-30"
-intitule_published: "2013-06-14"
-intitule_in_force: "2013-06-28"
-intitule_status: "goed"
-original_publication: "Stb.2013-211"
-original_signed_date: "2013-05-30"
-original_published_date: "2013-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-211"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033530&z=2022-10-04&g=2022-10-04"
-jci_1_0: "1.0:c:BWBR0033530&g=2022-10-04"
-citeertitel_status: "officieel"
-short_title: "Kaderbesluit BZK-subsidies"
-signed_date: "2013-05-30"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2022-10-04
+status: geldig
+toestand: 2022-10-04
+bron: "https://wetten.overheid.nl/BWBR0033530"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 30 mei 2013, houdende regels voor het verstrekken van subsidies door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst (Kaderbesluit BZK-subsidies)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, mede namens Onze Minister voor Wonen en Rijksdienst van 18 januari 2913, nr. 2013-0000031583;
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3) en [4 van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 maart 2013, nr. W04.13.0018/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, mede namens Onze Minister voor Wonen en Rijksdienst van 24 mei 2013, nr. 2013-0000260522;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,15 +20,18 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanvrager:** natuurlijk persoon of rechtspersoon die een subsidie aanvraagt op grond van een ministeriële regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=2&artikel=2&z=2022-10-04&g=2022-10-04);
+- – *aanvrager:* natuurlijk persoon of rechtspersoon die een subsidie aanvraagt op grond van een ministeriële regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=2&artikel=2&z=2022-10-04&g=2022-10-04);
 
-- –. **algemene groepsvrijstellingsverordening:** [verordening (EG) nr. 800/2008](32008R0800) van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard («de algemene groepsvrijstellingsverordening») (PbEU 9.8.2008, L 214/3), dan wel later daarvoor in de plaats tredende Europese regelgeving;
+- – *algemene groepsvrijstellingsverordening:*
+ verordening (EG) nr. 800/2008 van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard («de algemene groepsvrijstellingsverordening») (PbEU 9.8.2008, L 214/3), dan wel later daarvoor in de plaats tredende Europese regelgeving;
 
-- –. **de-minimis verordening:** [verordening (EG) nr. 1998/2006](32006R1998) van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379) ), [verordening (EG) nr. 1535/2007](32007R1535) van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) en [verordening (EG) nr. 875/2007](32007R0875) van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 193), dan wel later daarvoor in de plaats tredende Europese regelgeving;
+- – *de-minimis verordening:*
+ verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379) ), verordening (EG) nr. 1535/2007 van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) en verordening (EG) nr. 875/2007 van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 193), dan wel later daarvoor in de plaats tredende Europese regelgeving;
 
-- –. **Europees steunkader:** een mededeling, richtsnoer, kaderregeling, beschikking of vrijstellingsverordening op het gebied van staatssteun die de Commissie van de Europese Gemeenschappen, gelet op de artikelen 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie (VWEU) heeft vastgesteld;
+- – *Europees steunkader:* een mededeling, richtsnoer, kaderregeling, beschikking of vrijstellingsverordening op het gebied van staatssteun die de Commissie van de Europese Gemeenschappen, gelet op de artikelen 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie (VWEU) heeft vastgesteld;
 
-- –. **wet:** [Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756).
+- – *wet:*
+ [Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756).
 
 ### Hoofdstuk 2. Verstrekken van subsidie
 
@@ -260,7 +231,7 @@ Indien de periode van uitvoering van de activiteiten waarvoor subsidie van € 2
 
 ##### Artikel 20
 
-Bij ministeriële regeling kan worden bepaald dat de regels inzake een subsidie lager dan € 25.000 van toepassing zijn op een subsidie van € 25.000 of meer of dat de regels inzake een subsidie van € 25.000 tot € 125.000 van toepassing zijn op subsidies van € 125.000 of meer.
+Bij ministeriële regeling kan worden bepaald dat de regels inzake een subsidie lager dan € 25.000 van toepassing zijn op een subsidie van € 25.000 of meer of dat de regels inzake een subsidie van € 25.000 tot € 125.000 van toepassing zijn op subsidies van € 125.000 of meer.
 
 ### Hoofdstuk 9. Algemene verplichtingen van de subsidieontvanger
 
@@ -361,5 +332,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 28
 
 Dit besluit wordt aangehaald als: Kaderbesluit BZK-subsidies.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

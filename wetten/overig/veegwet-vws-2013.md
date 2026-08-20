@@ -1,53 +1,30 @@
 ---
 title: "Wet van 4 december 2013 tot wijziging van de Algemene Wet Bijzondere Ziektekosten, de Zorgverzekeringswet en de Invoerings- en aanpassingswet Zorgverzekeringswet teneinde daarin enkele verbeteringen aan te brengen, alsmede technische reparaties in diverse wetten (Veegwet VWS 2013)"
+citeertitel: "Veegwet VWS 2013"
 identifier: "BWBR0034659"
-country: "nl"
-rank: "wet"
-publication_date: "2016-08-01"
-last_updated: "2016-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034659"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "12552873"
-version_id: "21147812"
-internal_id: "C30477941"
-label_id: "12523774"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034659/2016-08-01/0"
-intitule_bron: "Stb.2013-560"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-04"
-intitule_published: "2013-12-20"
-intitule_in_force: "2014-02-13"
-intitule_status: "goed"
-original_publication: "Stb.2013-560"
-original_signed_date: "2013-12-04"
-original_published_date: "2013-12-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "33507"
-original_url_id: "stb-2013-560"
-entry_into_force_date: "2014-02-15"
-jci_1_3: "jci1.3:c:BWBR0034659&z=2016-08-01&g=2016-08-01"
-jci_1_0: "1.0:c:BWBR0034659&g=2016-08-01"
-citeertitel_status: "officieel"
-short_title: "Veegwet VWS 2013"
-signed_date: "2013-12-04"
-entry_into_force: "2014-02-15"
+publicatiedatum: 2014-02-15
+laatste_update: 2016-08-01
+status: geldig
+toestand: 2016-08-01
+bron: "https://wetten.overheid.nl/BWBR0034659"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 4 december 2013 tot wijziging van de Algemene Wet Bijzondere Ziektekosten, de Zorgverzekeringswet en de Invoerings- en aanpassingswet Zorgverzekeringswet teneinde daarin enkele verbeteringen aan te brengen, alsmede technische reparaties in diverse wetten (Veegwet VWS 2013)
 
 ##### Artikel I
 
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.
+*Wijzigt de Algemene Wet Bijzondere Ziektekosten.*
 
 ##### Artikel II
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel III
 
-Wijzigt de Invoerings- en aanpassingwet Zorgverzekeringswet.
+*Wijzigt de Invoerings- en aanpassingwet Zorgverzekeringswet.*
 
 ##### Artikel IIIa
 
@@ -59,35 +36,35 @@ Wijzigt de Invoerings- en aanpassingwet Zorgverzekeringswet.
 
 ##### Artikel IV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel V
 
-Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel VI
 
-Wijzigt het Burgerlijk Wetboek Boek 1.
+*Wijzigt het Burgerlijk Wetboek Boek 1.*
 
 ##### Artikel VII
 
-Wijzigt de Drank- en Horecawet.
+*Wijzigt de Drank- en Horecawet.*
 
 ##### Artikel VIII
 
-Wijzigt de Gezondheidswet.
+*Wijzigt de Gezondheidswet.*
 
 ##### Artikel IX
 
-Wijzigt de Gratiewet.
+*Wijzigt de Gratiewet.*
 
 ##### Artikel X
 
-Wijzigt de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming.
+*Wijzigt de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming.*
 
 ##### Artikel Xa
 
-Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
+*Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
 ##### Artikel Xb
 
@@ -95,111 +72,111 @@ Een algemene maatregel van bestuur die berust op [artikel 18.1 van de Invoerings
 
 ##### Artikel XI
 
-Wijzigt de Kwaliteitswet zorginstellingen.
+*Wijzigt de Kwaliteitswet zorginstellingen.*
 
 ##### Artikel XII
 
-Wijzigt de Uitvoeringswet internationale kinderbescherming.
+*Wijzigt de Uitvoeringswet internationale kinderbescherming.*
 
 ##### Artikel XIII
 
-Wijzigt de Uitvoeringswet internationale kinderontvoering.
+*Wijzigt de Uitvoeringswet internationale kinderontvoering.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet bescherming persoonsgegevens.
+*Wijzigt de Wet bescherming persoonsgegevens.*
 
 ##### Artikel XV
 
-Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
+*Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet foetaal weefsel.
+*Wijzigt de Wet foetaal weefsel.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet marktordening gezondheidszorg.
+*Wijzigt de Wet marktordening gezondheidszorg.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
+*Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.*
 
 ##### Artikel XX
 
-Wijzigt de Wet medisch tuchtrecht BES.
+*Wijzigt de Wet medisch tuchtrecht BES.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
+*Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet op de jeugdzorg.
+*Wijzigt de Wet op de jeugdzorg.*
 
 ##### Artikel XXIII
 
-Wijzigt de Wet op de lijkbezorging.
+*Wijzigt de Wet op de lijkbezorging.*
 
 ##### Artikel XXIV
 
-Wijzigt de Wet op de medische hulpmiddelen.
+*Wijzigt de Wet op de medische hulpmiddelen.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet op het bevolkingsonderzoek.
+*Wijzigt de Wet op het bevolkingsonderzoek.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wet op het kindgebonden budget.
+*Wijzigt de Wet op het kindgebonden budget.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.
+*Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet publieke gezondheid.
+*Wijzigt de Wet publieke gezondheid.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
+*Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.*
 
 ##### Artikel XXX
 
-Wijzigt de Wet tijdelijk huisverbod.
+*Wijzigt de Wet tijdelijk huisverbod.*
 
 ##### Artikel XXXI
 
-Wijzigt de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.
+*Wijzigt de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.*
 
 ##### Artikel XXXII
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel XXXIII
 
-Wijzigt de Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt de Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel XXXIV
 
-Wijzigt de Wetboek van Strafrecht.
+*Wijzigt de Wetboek van Strafrecht.*
 
 ##### Artikel XXXV
 
-Wijzigt de Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg (opneming mogelijkheid tot taakherschikking) (Stb. 2011, 568).
+*Wijzigt de Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg (opneming mogelijkheid tot taakherschikking) (Stb. 2011, 568).*
 
 ##### Artikel XXXVI
 
-Wijzigt de Wijzigingswet Wet op de jeugdzorg (verwijsindex risicojongeren).
+*Wijzigt de Wijzigingswet Wet op de jeugdzorg (verwijsindex risicojongeren).*
 
 ##### Artikel XXXVII
 
-Wijzigt de Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg).
+*Wijzigt de Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg).*
 
 ##### Artikel XXXVIII
 
-Wijzigt de Wijzigingswet Wet op de jeugdzorg, enz. (verbetering positie pleegouders).
+*Wijzigt de Wijzigingswet Wet op de jeugdzorg, enz. (verbetering positie pleegouders).*
 
 ##### Artikel XXXIX
 
@@ -207,7 +184,7 @@ De [Wet van 23 oktober 1957, houdende gedeeltelijke compensatie voor de ingevolg
 
 ##### Artikel XXXX
 
-Wijzigt de Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (herziening maatregelen kinderbescherming) (kst. 32015).
+*Wijzigt de Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (herziening maatregelen kinderbescherming) (kst. 32015).*
 
 ##### Artikel XXXXI
 
@@ -232,11 +209,3 @@ In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&ar
 ##### Artikel XXXXIV
 
 Deze wet wordt aangehaald als: Veegwet VWS 2013
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de [Invoerings- en aanpassingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830) beperkte wijzigingen met betrekking tot de verantwoording en de financiering van zorgverzekeraars aan te brengen, alsmede dat het wenselijk is in diverse wetten wetstechnische reparaties aan te brengen en een tweetal uitgewerkte wetten in te trekken;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

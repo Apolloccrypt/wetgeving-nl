@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 11 december 2013, kenmerk 443885, houdende instelling van de commissie De Jong (Instellingsbesluit commissie De Jong)"
+citeertitel: "Instellingsbesluit commissie De Jong"
 identifier: "BWBR0034477"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-12-24"
-last_updated: "2013-12-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034477"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12501633"
-version_id: "21041232"
-internal_id: "C30214391"
-label_id: "12472314"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034477/2013-12-24/0"
-intitule_bron: "Stcrt.2013-35902"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-11"
-intitule_published: "2013-12-23"
-intitule_in_force: "2013-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35902"
-original_signed_date: "2013-12-11"
-original_published_date: "2013-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35902"
-entry_into_force_date: "2013-12-24"
-jci_1_3: "jci1.3:c:BWBR0034477&z=2013-12-24&g=2013-12-24"
-jci_1_0: "1.0:c:BWBR0034477&g=2013-12-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit commissie De Jong"
-signed_date: "2013-12-11"
-entry_into_force: "2013-12-24"
+publicatiedatum: 2013-12-24
+laatste_update: 2013-12-24
+status: geldig
+toestand: 2013-12-24
+bron: "https://wetten.overheid.nl/BWBR0034477"
+opgehaald: 2026-08-20
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 11 december 2013, kenmerk 443885, houdende instelling van de commissie De Jong (Instellingsbesluit commissie De Jong)
 
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 11 december 2013, kenmerk 443885, houdende instelling van de commissie De Jong (Instellingsbesluit commissie De Jong)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Veiligheid en Justitie;
+- a. *de Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **de commissie:** de commissie De Jong;
+- b. *de commissie:* de commissie De Jong;
 
 ##### Artikel 2. Instelling
 
@@ -121,5 +97,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit commissie De Jong.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

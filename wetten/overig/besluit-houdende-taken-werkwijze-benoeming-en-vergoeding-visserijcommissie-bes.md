@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Economische Zaken van 20 december 2013, nr. WJZ / 13182859, houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES (Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES)"
+citeertitel: "Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES"
 identifier: "BWBR0034555"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2013-12-31"
-last_updated: "2013-11-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034555"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "12524193"
-version_id: "21080132"
-internal_id: "C30262201"
-label_id: "12494824"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034555/2013-12-31/0"
-intitule_bron: "Stcrt.2013-36779"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-20"
-intitule_published: "2013-12-30"
-intitule_in_force: "2013-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-36779"
-original_signed_date: "2013-12-20"
-original_published_date: "2013-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-36779"
-entry_into_force_date: "2013-12-31"
-jci_1_3: "jci1.3:c:BWBR0034555&z=2013-12-31&g=2013-12-31"
-jci_1_0: "1.0:c:BWBR0034555&g=2013-12-31"
-citeertitel_status: "officieel"
-short_title: "Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES"
-signed_date: "2013-12-20"
-entry_into_force: "2013-12-31"
+publicatiedatum: 2013-12-31
+laatste_update: 2013-12-31
+status: geldig
+toestand: 2013-12-31
+bron: "https://wetten.overheid.nl/BWBR0034555"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Staatssecretaris van Economische Zaken van 20 december 2013, nr. WJZ / 13182859, houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES (Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES)
-
-Gelet op [artikel 3a van het Visserijbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=3a);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. *de minister:* de Minister van Economische Zaken;
 
-- b. **commissie:** de visserijcommissie als bedoeld in [artikel 13 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=13).
+- b. *commissie:* de visserijcommissie als bedoeld in [artikel 13 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=13).
 
 ##### Artikel 2
 
@@ -95,5 +69,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

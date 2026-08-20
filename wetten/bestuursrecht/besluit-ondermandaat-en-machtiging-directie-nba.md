@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de directie van de Nederlandse beroepsorganisatie van accountants houdende regels inzake ondermandaat en machtiging (Besluit ondermandaat en machtiging directie NBA)"
+citeertitel: "Besluit ondermandaat en machtiging directie NBA"
 identifier: "BWBR0034102"
-country: "nl"
-rank: "pbo"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034102"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12411703"
-version_id: "20836322"
-internal_id: "C29920191"
-label_id: "12382694"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034102/2014-01-01/0"
-intitule_bron: "Stcrt.2013-30103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-08"
-intitule_published: "2013-10-30"
-intitule_in_force: "2013-10-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-30103"
-original_signed_date: "2013-10-08"
-original_published_date: "2013-10-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-30103"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034102&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034102&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat en machtiging directie NBA"
-signed_date: "2013-10-08"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034102"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de directie van de Nederlandse beroepsorganisatie van accountants houdende regels inzake ondermandaat en machtiging (Besluit ondermandaat en machtiging directie NBA)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gelet op het [Besluit mandaat en machtiging bestuur NBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034104);
-
-Besluit als volgt:
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- –. **directie:** de directie, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=18);
+- – *directie:* de directie, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=18);
 
-- –. **wet:** de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- – *wet:* de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ##### Artikel 2
 

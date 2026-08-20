@@ -1,40 +1,17 @@
 ---
 title: "Verordening op de ledengroepen"
 identifier: "BWBR0033813"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033813"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12344813"
-version_id: "20711232"
-internal_id: "C29746861"
-label_id: "12316084"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033813/2022-01-01/0"
-intitule_bron: "Stcrt.2013-23900"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-08-27"
-intitule_in_force: "2013-08-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-23900"
-original_published_date: "2013-08-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-23900"
-entry_into_force_date: "2013-08-28"
-jci_1_3: "jci1.3:c:BWBR0033813&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0033813&g=2022-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-08-28"
+publicatiedatum: 2013-08-28
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0033813"
+opgehaald: 2026-08-20
 ---
+
 # Verordening op de ledengroepen
-
-Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17) en [19, tweede lid, aanhef en onderdeel e, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -42,51 +19,52 @@ Stelt de volgende verordening vast:
 
 In deze verordening wordt verstaan onder:
 
-- –. **aan assurance verwante opdrachten:** omvatten opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden en samenstellingsopdrachten;
+- – *aan assurance verwante opdrachten:* omvatten opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden en samenstellingsopdrachten;
 
-- –. **accountant:** accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
+- – *accountant:* accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountant in business:** accountant die werkzaamheden verricht, maar niet als openbaar accountant, intern accountant of overheidsaccountant;
+- – *accountant in business:* accountant die werkzaamheden verricht, maar niet als openbaar accountant, intern accountant of overheidsaccountant;
 
-- –. **accountantsafdeling:** organisatorische eenheid binnen een organisatie waar een accountant een assurance of aan assurance verwante opdracht uitvoert in opdracht van deze organisatie;
+- – *accountantsafdeling:* organisatorische eenheid binnen een organisatie waar een accountant een assurance of aan assurance verwante opdracht uitvoert in opdracht van deze organisatie;
 
-- –. **accountantskantoor:** organisatie waar een accountant een assurance of aan assurance verwante opdracht uit voert in opdracht van een externe opdrachtgever;
+- – *accountantskantoor:* organisatie waar een accountant een assurance of aan assurance verwante opdracht uit voert in opdracht van een externe opdrachtgever;
 
-- –. **accountantsorganisatie:** accountantsorganisatie als bedoeld in [artikel 1, onderdeel a, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
+- – *accountantsorganisatie:* accountantsorganisatie als bedoeld in [artikel 1, onderdeel a, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
 
-- –. **accountantspraktijk:** accountantskantoor of accountantsorganisatie;
+- – *accountantspraktijk:* accountantskantoor of accountantsorganisatie;
 
-- –. **afgevaardigde:** afgevaardigde als bedoeld in artikel 17, derde lid, van de wet;
+- – *afgevaardigde:* afgevaardigde als bedoeld in artikel 17, derde lid, van de wet;
 
-- –. **assurance-opdracht:** assurance-opdracht als bedoeld in [artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&artikel=1);
+- – *assurance-opdracht:* assurance-opdracht als bedoeld in [artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&artikel=1);
 
-- –. **begroting:** begroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
+- – *begroting:* begroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
 
-- –. **contributiegroep:** contributiegroep als bedoeld in [artikel 2 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789);
+- – *contributiegroep:* contributiegroep als bedoeld in [artikel 2 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789);
 
-- –. **intern accountant:** accountant, niet zijnde een overheidsaccountant, die werkzaam is bij of verbonden is aan een accountantsafdeling;
+- – *intern accountant:* accountant, niet zijnde een overheidsaccountant, die werkzaam is bij of verbonden is aan een accountantsafdeling;
 
-- –. **ledengroep:** ledengroep als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16);
+- – *ledengroep:* ledengroep als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16);
 
-- –. **ledengroepbestuur:** bestuur van een ledengroep als bedoeld in [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
+- – *ledengroepbestuur:* bestuur van een ledengroep als bedoeld in [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
 
-- –. **ledengroepvergadering:** vergadering van leden van een ledengroep;
+- – *ledengroepvergadering:* vergadering van leden van een ledengroep;
 
-- –. **ledenvergadering:** ledenvergadering als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=4);
+- – *ledenvergadering:* ledenvergadering als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=4);
 
-- –. **ontwerpbegroting:** ontwerpbegroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
+- – *ontwerpbegroting:* ontwerpbegroting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=28);
 
-- –. **openbaar accountant:** accountant die werkzaam is bij of verbonden is aan een accountantspraktijk;
+- – *openbaar accountant:* accountant die werkzaam is bij of verbonden is aan een accountantspraktijk;
 
-- –. **overheid:** entiteit waarvan de accountantsafdeling waarbij de overheidsaccountant werkzaam is of waaraan de overheidsaccountant is verbonden deel uitmaakt en die behoort tot een van de volgende categorieën: Rijk, gemeente, provincie, waterschap, gemeenschappelijke regeling, universiteit, academisch ziekenhuis, zelfstandig bestuursorgaan dat valt onder de werking van de [Kaderwet ZBO’s](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) en nader door het bestuur van de NBA aangewezen entiteiten;
+- – *overheid:* entiteit waarvan de accountantsafdeling waarbij de overheidsaccountant werkzaam is of waaraan de overheidsaccountant is verbonden deel uitmaakt en die behoort tot een van de volgende categorieën: Rijk, gemeente, provincie, waterschap, gemeenschappelijke regeling, universiteit, academisch ziekenhuis, zelfstandig bestuursorgaan dat valt onder de werking van de [Kaderwet ZBO’s](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) en nader door het bestuur van de NBA aangewezen entiteiten;
 
-- –. **overheidsaccountant:**
+- – *overheidsaccountant:*
 
-- a. accountant die werkzaam is bij of verbonden is aan een accountantsafdeling behorende tot de overheid of daarmee gelijk te stellen dienst;
+   - a. accountant die werkzaam is bij of verbonden is aan een accountantsafdeling behorende tot de overheid of daarmee gelijk te stellen dienst;
 
-- b. accountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de accountant die aan deze controle direct leiding geeft;
+   - b. accountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de accountant die aan deze controle direct leiding geeft;
 
-- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- – *wet:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ##### Artikel 2
 
@@ -136,7 +114,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -164,19 +142,19 @@ Vervallen
 
 1. Het lidmaatschap van een ledengroepbestuur is onverenigbaar met:
 
-- –. het lidmaatschap van het College van Beroep voor het bedrijfsleven;
+- – het lidmaatschap van het College van Beroep voor het bedrijfsleven;
 
-- –. het lidmaatschap van de accountantskamer;
+- – het lidmaatschap van de accountantskamer;
 
-- –. het lidmaatschap van de Klachtencommissie;
+- – het lidmaatschap van de Klachtencommissie;
 
-- –. het lidmaatschap van de Raad voor Geschillen;
+- – het lidmaatschap van de Raad voor Geschillen;
 
-- –. het lidmaatschap van de Raad voor Toezicht;
+- – het lidmaatschap van de Raad voor Toezicht;
 
-- –. het lidmaatschap van het Adviescollege voor Beroepsreglementering; en
+- – het lidmaatschap van het Adviescollege voor Beroepsreglementering; en
 
-- –. een dienstverband met de NBA.
+- – een dienstverband met de NBA.
 
 2. Een lid van het ledengroepbestuur laat niet toe dat de uitoefening van zijn functie als lid van het ledengroepbestuur wordt aangetast door een vooroordeel, belangentegenstelling of ongepaste beïnvloeding door een derde of dat de schijn daarvan wordt gewekt.
 
@@ -244,9 +222,9 @@ Vervallen
 
 ##### Artikel 19
 
-1. Een ledengroepbestuur dient uiterlijk op 2 januari van een jaar bij het bestuur een plan van voorgenomen activiteiten in, tezamen met een raming van de daarmee gemoeide uitgaven, met betrekking tot jaar volgend op het jaar waarin voorgenoemde dag valt.
+1. Een ledengroepbestuur dient uiterlijk op 2 januari van een jaar bij het bestuur een plan van voorgenomen activiteiten in, tezamen met een raming van de daarmee gemoeide uitgaven, met betrekking tot jaar volgend op het jaar waarin voorgenoemde dag valt.
 
-2. Een ledengroepbestuur dient uiterlijk op 2 januari van een jaar bij het bestuur een herzien plan van voorgenomen activiteiten in, tezamen met een herziene raming van de daarmee gemoeide uitgaven, met betrekking tot het jaar waarin voorgenoemde dag valt.
+2. Een ledengroepbestuur dient uiterlijk op 2 januari van een jaar bij het bestuur een herzien plan van voorgenomen activiteiten in, tezamen met een herziene raming van de daarmee gemoeide uitgaven, met betrekking tot het jaar waarin voorgenoemde dag valt.
 
 3. Op basis van een plan van voorgenomen activiteiten en een raming van de uitgaven als bedoeld in het eerste lid, kent het bestuur aan het ledengroepbestuur een budget toe ten bate van de voorgenomen activiteiten, welk budget als onderdeel van een ontwerpbegroting ter vaststelling aan de ledenvergadering wordt voorgelegd.
 
@@ -266,12 +244,12 @@ Vervallen
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Slotbepalingen
 
 ##### Artikel 21
 
-1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 juli 2013.
+1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 juli 2013.
 
 2. Deze verordening wordt aangehaald als: Verordening op de ledengroepen.

@@ -1,39 +1,17 @@
 ---
 title: "Inschrijvingsvoorwaarden mediators 2014 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 27 november 2013 krachtens artikel 33 b van de Wet op de Rechtsbijstand)"
+citeertitel: "Besluit inschrijvingsvoorwaarden mediators 2013"
 identifier: "BWBR0034565"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-12-31"
-last_updated: "2013-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034565"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12525793"
-version_id: "21082632"
-internal_id: "C30265931"
-label_id: "12496504"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034565/2013-12-31/0"
-intitule_bron: "Stcrt.2013-36754"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-27"
-intitule_published: "2013-12-31"
-intitule_in_force: "2013-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-36754"
-original_signed_date: "2013-11-27"
-original_published_date: "2013-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-36754"
-entry_into_force_date: "2013-12-31"
-jci_1_3: "jci1.3:c:BWBR0034565&z=2013-12-31&g=2013-12-31"
-jci_1_0: "1.0:c:BWBR0034565&g=2013-12-31"
-citeertitel_status: "redactioneel"
-short_title: "Besluit inschrijvingsvoorwaarden mediators 2013"
-signed_date: "2013-11-27"
-entry_into_force: "2013-12-31"
+publicatiedatum: 2013-12-31
+laatste_update: 2013-12-31
+status: geldig
+toestand: 2013-12-31
+bron: "https://wetten.overheid.nl/BWBR0034565"
+opgehaald: 2026-08-20
 ---
+
 # Inschrijvingsvoorwaarden mediators 2014 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 27 november 2013 krachtens artikel 33 b van de Wet op de Rechtsbijstand)
 
 ### Inleiding
@@ -41,6 +19,20 @@ entry_into_force: "2013-12-31"
 Uitgangspunt van de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) (Wrb) is dat mediators die in aanmerking willen komen voor verwijzingen vanuit de gerechten of vanuit het Juridisch Loket zich inschrijven bij de Raad voor Rechtsbijstand. Indien een mediator niet ingeschreven staat, kan hij geen toevoegingen voor de rechtzoekende aanvragen.
 
 De Raad kan op grond van de [artikelen 33 a en volgende van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33) voorwaarden aan de inschrijving verbinden die betrekking hebben op:
+
+- a. de vakbekwaamheidseisen die aan de mediator worden gesteld;
+
+- b. de mate van gebondenheid aan door de beroepsgroep algemeen aanvaarde normen betreffende de beroepsethiek en beroepsuitoefening;
+
+- c. de wijze waarop schendingen van de algemene norm betreffende de beroepsethiek en beroepsuitoefening worden afgehandeld;
+
+- d. de medewerking door de mediator aan onderzoek naar de werking van mediation en aan evaluatie;
+
+- e. de verslaglegging door de mediator van de door hem verrichte werkzaamheden;
+
+- f. de beroepsaansprakelijkheidsverzekering;
+
+- g. de organisatie van het kantoor waar de mediator werkzaam is.
 
 In het onderstaande zijn deze voorwaarden uitgewerkt. De voorwaarden zijn op te vatten als algemeen verbindende voorschriften.
 
@@ -50,9 +42,9 @@ In het onderstaande zijn deze voorwaarden uitgewerkt. De voorwaarden zijn op te 
 
 1. De deelnemende mediator dient NMI of MFN1Mediators Federatie Nederland registermediator te zijn. Deze NMI of MFN registermediator heeft ofwel
 
-- –. het assessment van het NMI (Intop) of de Stichting Kwaliteit Mediators met goed gevolg afgelegd ofwel
+- – het assessment van het NMI (Intop) of de Stichting Kwaliteit Mediators met goed gevolg afgelegd ofwel
 
-- –. een door het NMI of de Stichting Kwaliteit Mediators afgenomen peer review met goed gevolg ondergaan én in de drie jaar voor de datum van inschrijving bij de Raad voor Rechtsbijstand negen mediations op basis van de NMI dan wel MFN Mediationovereenkomst verricht2Met betrekking tot de bedoelde negen mediations gelden de volgende eisen:–het moet gaan om mediations in overeenstemming met de MFN/NMI-reglementen, aangevangen met een schriftelijke mediation overeenkomst. Andere vormen van bemiddeling, zoals buurtbemiddelingen tellen niet mee;–van de negen mediations moeten er minimaal drie met een vaststellingsovereenkomst zijn afgesloten;–co-mediations in een gelijkwaardige positie tellen mee tot een maximum van drie van de negen; van de overige zes dienen tenminste twee mediations met een vaststellingsovereenkomst te zijn afgesloten..
+- – een door het NMI of de Stichting Kwaliteit Mediators afgenomen peer review met goed gevolg ondergaan én in de drie jaar voor de datum van inschrijving bij de Raad voor Rechtsbijstand negen mediations op basis van de NMI dan wel MFN Mediationovereenkomst verricht2Met betrekking tot de bedoelde negen mediations gelden de volgende eisen:–het moet gaan om mediations in overeenstemming met de MFN/NMI-reglementen, aangevangen met een schriftelijke mediation overeenkomst. Andere vormen van bemiddeling, zoals buurtbemiddelingen tellen niet mee;–van de negen mediations moeten er minimaal drie met een vaststellingsovereenkomst zijn afgesloten;–co-mediations in een gelijkwaardige positie tellen mee tot een maximum van drie van de negen; van de overige zes dienen tenminste twee mediations met een vaststellingsovereenkomst te zijn afgesloten..
 
 De mediator is zich er van bewust dat het behoud van de status NMI of MFN registermediator een absolute voorwaarde is om ingeschreven te kunnen blijven als mediator. De mediator verklaart zich per direct uit te laten schrijven bij de Raad voor Rechtsbijstand vanaf het moment dat de inschrijving bij de Stichting Kwaliteit Mediators 3Kwaliteitsstichting van de Mediators Federatie Nederlandeindigt. De Stichting Kwaliteit Mediators geeft dit eveneens, ter controle, aan de Raad voor Rechtsbijstand door.
 
@@ -102,7 +94,7 @@ Indien in een specifiek geval een partij, die voor een toevoeging in aanmerking 
 
 ##### Artikel 7. Beroepsaansprakelijkheidsverzekering
 
-De mediator heeft een deugdelijke beroepsaansprakelijkheidsverzekering ten bedrage van € 450.000,– (**zegge vierhonderdvijftigduizend euro**) per gebeurtenis. Bij inschrijving verklaart de mediator aldus verzekerd te zijn, dan wel bereid te zijn dadelijk na toelating een beroepsaansprakelijkheidsverzekering af te sluiten voor minimaal € 450.000 per gebeurtenis.
+De mediator heeft een deugdelijke beroepsaansprakelijkheidsverzekering ten bedrage van € 450.000,– (*zegge vierhonderdvijftigduizend euro*) per gebeurtenis. Bij inschrijving verklaart de mediator aldus verzekerd te zijn, dan wel bereid te zijn dadelijk na toelating een beroepsaansprakelijkheidsverzekering af te sluiten voor minimaal € 450.000 per gebeurtenis.
 
 ##### Artikel 8. Monitoring
 
@@ -120,25 +112,25 @@ De mediator is bereid mediationbijeenkomsten te houden in mediationkamers die do
 
 Hierbij dienen de volgende regels in acht te worden genomen:
 
-- –. de mediator staat ervoor in alleen co-mediators mee te nemen die een erkende mediationopleiding hebben voltooid;
+- – de mediator staat ervoor in alleen co-mediators mee te nemen die een erkende mediationopleiding hebben voltooid;
 
-- –. co-mediators ontvangen geen vergoeding, noch van de verwijzingsvoorziening, noch van de partijen;
+- – co-mediators ontvangen geen vergoeding, noch van de verwijzingsvoorziening, noch van de partijen;
 
-- –. de mediator zal zich niet laten betalen door de co-mediator voor het laten bijwonen van de mediation;
+- – de mediator zal zich niet laten betalen door de co-mediator voor het laten bijwonen van de mediation;
 
-- –. de mediator blijft verantwoordelijk voor de gang van zaken tijdens de mediation;
+- – de mediator blijft verantwoordelijk voor de gang van zaken tijdens de mediation;
 
-- –. de mediator draagt er zorg voor dat de mediationovereenkomst mede wordt ondertekend door de co-mediator;
+- – de mediator draagt er zorg voor dat de mediationovereenkomst mede wordt ondertekend door de co-mediator;
 
-- –. de mediator tekent op de monitoringformulieren aan wie als co-mediator is opgetreden en welke opleiding deze heeft voltooid.
+- – de mediator tekent op de monitoringformulieren aan wie als co-mediator is opgetreden en welke opleiding deze heeft voltooid.
 
 ##### Artikel 11. Vergoeding voor de niet toegevoegde partij. Eigen bijdrage toevoegingscliënt
 
 1. De mediator verplicht zich om in zaken die zijn verwezen door een van de verwijzingsvoorzieningen5Deze verwijzingsvoorzieningen zijn het Juridisch Loket en de verwijzingsvoorziening van de gerechten. binnen het rechtsbestel aan partijen die niet zijn toegevoegd zijn uurtarief alleen in rekening te brengen voor:
 
-- –. de contacturen6Contacturen zijn de uren waarbij de mediator daadwerkelijk met partijen rond de tafel zit tijdens gezamenlijke en/of afzonderlijke gesprekken, dan wel bij online mediation daadwerkelijk ten behoeve van partijen online activiteiten heeft verricht. Contacturen zijn ook uren waarin de mediator om de tafel zit met anderen (zoals advocaten, deskundigen, de sociale dienst, de Raad voor de Kinderbescherming) in aanwezigheid dan wel in uitdrukkelijke opdracht van partijen. en
+- – de contacturen6Contacturen zijn de uren waarbij de mediator daadwerkelijk met partijen rond de tafel zit tijdens gezamenlijke en/of afzonderlijke gesprekken, dan wel bij online mediation daadwerkelijk ten behoeve van partijen online activiteiten heeft verricht. Contacturen zijn ook uren waarin de mediator om de tafel zit met anderen (zoals advocaten, deskundigen, de sociale dienst, de Raad voor de Kinderbescherming) in aanwezigheid dan wel in uitdrukkelijke opdracht van partijen. en
 
-- –. overige werkzaamheden7Overige werkzaamheden zijn: het op verzoek van partijen lezen van stukken, het opstellen van de(concept)vaststellingsovereenkomst en verslaglegging, waarbij voor verslaglegging in principe maximaal een uur per bijeenkomst mag worden gerekend. De mediator stemt deze werkzaamheden vooraf af met cliënten. tot een maximum dat niet hoger is dan het aantal contacturen.
+- – overige werkzaamheden7Overige werkzaamheden zijn: het op verzoek van partijen lezen van stukken, het opstellen van de(concept)vaststellingsovereenkomst en verslaglegging, waarbij voor verslaglegging in principe maximaal een uur per bijeenkomst mag worden gerekend. De mediator stemt deze werkzaamheden vooraf af met cliënten. tot een maximum dat niet hoger is dan het aantal contacturen.
 
 Bijzondere kosten kunnen aan partijen alleen in rekening worden gebracht indien zij daarmee vooraf hebben ingestemd.
 
@@ -180,16 +172,14 @@ Voor de toepassing van online mediation, in zaken waarvoor na eigen acquisitie e
 
 Naast de voorwaarden uit de [artikelen 1 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034565&artikel=1&z=2013-12-31&g=2013-12-31) behoren mediators die zaken betreffende internationale kinderontvoering willen behandelen zich daarvoor apart in te inschrijven bij de Raad voor Rechtsbijstand. Bij het verzoek moeten zij aantonen dat zij voldoen aan onderstaande criteria:
 
-- –. succesvol hebben deelgenomen aan een door de Raad voor Rechtsbijstand erkende opleiding voor cross border mediation;
+- – succesvol hebben deelgenomen aan een door de Raad voor Rechtsbijstand erkende opleiding voor cross border mediation;
 
-- –. kennis van het Haags Kinderontvoeringsverdrag van 25 oktober 1980 (HKOV) en de [Uitvoeringswet inzake internationale ontvoering van kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004746) van 2 mei 1990;
+- – kennis van het Haags Kinderontvoeringsverdrag van 25 oktober 1980 (HKOV) en de [Uitvoeringswet inzake internationale ontvoering van kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004746) van 2 mei 1990;
 
-- –. ervaring als mediator in familierechtzaken, dat wil zeggen als mediator 10 familierechtzaken behandeld hebben;
+- – ervaring als mediator in familierechtzaken, dat wil zeggen als mediator 10 familierechtzaken behandeld hebben;
 
-- –. op de hoogte blijven van de (rechts)ontwikkelingen op het gebied van internationale kinderontvoering door het bijwonen van relevante congressen, cursussen, lezingen etc. en het op de hoogte blijven van relevante jurisprudentie.
+- – op de hoogte blijven van de (rechts)ontwikkelingen op het gebied van internationale kinderontvoering door het bijwonen van relevante congressen, cursussen, lezingen etc. en het op de hoogte blijven van relevante jurisprudentie.
 
 ##### Artikel 16. Wijziging van gegevens en beëindiging deelname
 
 Het doorgeven van wijzigingen van gegevens en beëindiging van deelname dient schriftelijk te geschieden bij de Raad voor Rechtsbijstand.
-
-Aldus vastgesteld te Utrecht op 18 december 2013.

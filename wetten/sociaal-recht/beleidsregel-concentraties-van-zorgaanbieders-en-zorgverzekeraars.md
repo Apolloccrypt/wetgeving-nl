@@ -1,66 +1,40 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken van 5 juli 2013, nr. WJZ/13118300, houdende bijzondere regels betreffende concentraties van zorgaanbieders en zorgverzekeraars"
+citeertitel: "Beleidsregel concentraties van zorgaanbieders en zorgverzekeraars"
 identifier: "BWBR0033674"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-07-16"
-last_updated: "2013-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033674"
+categorie: "Financieel recht"
 soort: "beleidsregel"
-stam_id: "12314503"
-version_id: "20642982"
-internal_id: "C29551911"
-label_id: "12285644"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033674/2013-07-16/0"
-intitule_bron: "Stcrt.2013-19570"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-05"
-intitule_published: "2013-07-15"
-intitule_in_force: "2013-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-19570"
-original_signed_date: "2013-07-05"
-original_published_date: "2013-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-19570"
-entry_into_force_date: "2013-07-16"
-jci_1_3: "jci1.3:c:BWBR0033674&z=2013-07-16&g=2013-07-16"
-jci_1_0: "1.0:c:BWBR0033674&g=2013-07-16"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel concentraties van zorgaanbieders en zorgverzekeraars"
-signed_date: "2013-07-05"
-entry_into_force: "2013-07-16"
+publicatiedatum: 2013-07-16
+laatste_update: 2013-07-16
+status: geldig
+toestand: 2013-07-16
+bron: "https://wetten.overheid.nl/BWBR0033674"
+opgehaald: 2026-08-20
 ---
+
 # Beleidsregel van de Minister van Economische Zaken van 5 juli 2013, nr. WJZ/13118300, houdende bijzondere regels betreffende concentraties van zorgaanbieders en zorgverzekeraars
-
-Gelet op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [artikel 5d van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=5d);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **cliëntenraad:** cliëntenraad als bedoeld in [artikel 2 van de Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920&artikel=2);
+- a. *cliëntenraad:* cliëntenraad als bedoeld in [artikel 2 van de Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920&artikel=2);
 
-- b. **zorg:** zorg als bedoeld in [artikel 1, tweede lid, van het Besluit van 6 december 2007, houdende tijdelijke verruiming van het toepassingsbereik van het concentratietoezicht op ondernemingen die zorg verlenen](https://wetten.overheid.nl/jci1.3:c:BWBR0023022&artikel=1) (Stb. 2007, 518);
+- b. *zorg:* zorg als bedoeld in [artikel 1, tweede lid, van het Besluit van 6 december 2007, houdende tijdelijke verruiming van het toepassingsbereik van het concentratietoezicht op ondernemingen die zorg verlenen](https://wetten.overheid.nl/jci1.3:c:BWBR0023022&artikel=1) (Stb. 2007, 518);
 
-- c. **zorgaanbieder:** onderneming die zorg verleent;
+- c. *zorgaanbieder:* onderneming die zorg verleent;
 
-- d. **zorgverzekeraar:** zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
+- d. *zorgverzekeraar:* zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
-- e. **concentratie van zorgaanbieders:** concentratie als bedoeld in [artikel 1, eerste lid, van het Besluit van 6 december 2007, houdende tijdelijke verruiming van het toepassingsbereik van het concentratietoezicht op ondernemingen die zorg verlenen](https://wetten.overheid.nl/jci1.3:c:BWBR0023022&artikel=1) (Stb. 2007, 518);
+- e. *concentratie van zorgaanbieders:* concentratie als bedoeld in [artikel 1, eerste lid, van het Besluit van 6 december 2007, houdende tijdelijke verruiming van het toepassingsbereik van het concentratietoezicht op ondernemingen die zorg verlenen](https://wetten.overheid.nl/jci1.3:c:BWBR0023022&artikel=1) (Stb. 2007, 518);
 
-- f. **concentratie van zorgverzekeraars:** concentratie als bedoeld in [artikel 27 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=27) van zorgverzekeraars;
+- f. *concentratie van zorgverzekeraars:* concentratie als bedoeld in [artikel 27 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=27) van zorgverzekeraars;
 
-- g. **ACM:** Autoriteit Consument en Markt, bedoeld in [artikel 2 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- g. *ACM:* Autoriteit Consument en Markt, bedoeld in [artikel 2 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- h. **mededeling:** mededeling van de ACM of voor een concentratie een vergunning is vereist als bedoeld in [artikel 37, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37);
+- h. *mededeling:* mededeling van de ACM of voor een concentratie een vergunning is vereist als bedoeld in [artikel 37, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37);
 
-- i. **zorginkoper:** ziektekostenverzekeraar als bedoeld in [artikel 1, onderdeel f, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), verbindingskantoor als bedoeld in [artikel 1, onder c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1) of gemeente.
+- i. *zorginkoper:* ziektekostenverzekeraar als bedoeld in [artikel 1, onderdeel f, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), verbindingskantoor als bedoeld in [artikel 1, onder c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1) of gemeente.
 
 ##### Artikel 2
 
@@ -105,5 +79,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel concentraties van zorgaanbi
 ##### Artikel 6
 
 Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin hij wordt geplaatst, en vervalt op het tijdstip waarop het [Besluit van 6 december 2007, houdende tijdelijke verruiming van het toepassingsbereik van het concentratietoezicht op ondernemingen die zorg verlenen](https://wetten.overheid.nl/jci1.3:c:BWBR0023022) (Stb. 2007, 518) vervalt.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

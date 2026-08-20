@@ -1,24 +1,18 @@
 ---
-title: "Rechtspositiebesluit politieke gezagdragers BES"
+title: "Besluit van 3 juli 2013, houdende hernieuwde vaststelling van de rechtspositie van de gezaghebbers, eilandgedeputeerden en eilandsraadsleden in Caribisch Nederland (Rechtspositiebesluit politieke gezagdragers BES)"
+citeertitel: "Rechtspositiebesluit politieke gezagdragers BES"
 identifier: "BWBR0033694"
 categorie: "Overig"
-publicatiedatum: 2026-05-14
-laatste_update: 2026-05-19
+soort: "AMvB-BES"
+publicatiedatum: 2013-07-20
+laatste_update: 2026-05-14
 status: geldig
+toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0033694"
+opgehaald: 2026-08-20
 ---
 
 # Besluit van 3 juli 2013, houdende hernieuwde vaststelling van de rechtspositie van de gezaghebbers, eilandgedeputeerden en eilandsraadsleden in Caribisch Nederland (Rechtspositiebesluit politieke gezagdragers BES)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 mei 2013, no. 13.001061;
-
-Gelet op de [artikelen 56, eerste, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=56), [78, eerste, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=78), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=87), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=92), [120, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=120), en [121 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=121);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 26 juni 2013, nr. W04.13.0147/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 juni 2013, nr. 2013-0000383326;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -26,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder
 
-- a. **politieke gezagdrager:** gezaghebber, eilandgedeputeerde, lid van de eilandsraad en lid van het kiescollege van een openbaar lichaam alsmede lid van een commissie als bedoeld in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=117) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=118);
+- a. *politieke gezagdrager:* gezaghebber, eilandgedeputeerde, lid van de eilandsraad en lid van het kiescollege van een openbaar lichaam alsmede lid van een commissie als bedoeld in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=117) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=118);
 
-- b. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **inwonertal:** het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.
+- c. *inwonertal:* het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.
 
 #### § 2. Indeling in inwonersklassen
 
@@ -54,9 +48,9 @@ Ten behoeve van de vaststelling van de bezoldiging van en de vergoedingen voor d
 
 ##### Artikel 4
 
-1. De overgang van een openbaar lichaam naar een hogere klasse in verband met toeneming van het inwonertal vindt plaats met ingang van het jaar waarin op 1 januari het inwonertal van dat openbaar lichaam de minimumgrens van de volgende klasse heeft bereikt en blijkt dat het die grens ook heeft bereikt op 1 januari van het volgende jaar.
+1. De overgang van een openbaar lichaam naar een hogere klasse in verband met toeneming van het inwonertal vindt plaats met ingang van het jaar waarin op 1 januari het inwonertal van dat openbaar lichaam de minimumgrens van de volgende klasse heeft bereikt en blijkt dat het die grens ook heeft bereikt op 1 januari van het volgende jaar.
 
-2. De overgang van een openbaar lichaam naar een lagere klasse in verband met vermindering van het inwonertal vindt plaats met ingang van het jaar waarin het inwonertal van het openbaar lichaam op 1 januari voor de tweede achtereenvolgende maal beneden de minimumgrens van de klasse, waarin het openbaar lichaam tot dan toe was ingedeeld, gedaald is.
+2. De overgang van een openbaar lichaam naar een lagere klasse in verband met vermindering van het inwonertal vindt plaats met ingang van het jaar waarin het inwonertal van het openbaar lichaam op 1 januari voor de tweede achtereenvolgende maal beneden de minimumgrens van de klasse, waarin het openbaar lichaam tot dan toe was ingedeeld, gedaald is.
 
 ##### Artikel 5
 
@@ -97,6 +91,12 @@ De overgang van een openbaar lichaam naar een lagere klasse in verband met vermi
 | 5 | USD 15.047 | USD 1.850 |
 
 4. De maandelijkse uitbetaling van de bezoldiging of de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten daarvan wordt naar boven afgerond op hele dollars.
+
+##### Artikel 6a
+
+1. De eilandsraad kan bij eilandsverordening bepalen dat aan een lid van het kiescollege een vergoeding voor het bijwonen van de vergaderingen van het kiescollege wordt toegekend tot het maximumbedrag van USD 97.
+
+2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14), is van overeenkomstige toepassing op de vergoeding van de leden van het kiescollege.
 
 ##### Artikel 7
 
@@ -230,28 +230,4 @@ Dit besluit wordt aangehaald als: Rechtspositiebesluit politieke gezagdragers BE
 
 ##### Artikel 21
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-1. De eilandsraad kan bij eilandsverordening bepalen dat aan een lid van het kiescollege een vergoeding voor het bijwonen van de vergaderingen van het kiescollege wordt toegekend tot het maximumbedrag van USD 97.
-
-2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14), is van overeenkomstige toepassing op de vergoeding van de leden van het kiescollege.
-
-#### § 4. Vergoeding leden van een commissie
-
-#### § 5. Toelagen, eenmalige uitkeringen, vakantie- en eindejaarsuitkering
-
-#### § 6. Ambtstoelagen
-
-#### § 7. Neveninkomsten
-
-#### § 8. Waarneming gezaghebber
-
-#### § 9. Overige bepalingen met betrekking tot de gezaghebber
-
-#### § 10. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.

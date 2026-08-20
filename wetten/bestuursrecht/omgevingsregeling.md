@@ -5,11 +5,11 @@ identifier: "BWBR0045528"
 categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-01
-laatste_update: 2026-07-01
+laatste_update: 2026-08-18
 status: geldig
-toestand: 2026-07-01
+toestand: 2026-08-18
 bron: "https://wetten.overheid.nl/BWBR0045528"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-20
 ---
 
 # Regeling van de Minister voor Milieu en Wonen, de Staatssecretaris van Defensie, de Minister van Economische Zaken en Klimaat, de Minister van Infrastructuur en Waterstaat, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Onderwijs, Cultuur en Wetenschap van 21 november 2019, houdende regels over het beschermen en benutten van de fysieke leefomgeving (Omgevingsregeling)
@@ -20,7 +20,7 @@ opgehaald: 2026-07-31
 
 ##### Artikel 1.1. (begripsbepalingen)
 
-[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=I&z=2026-07-01&g=2026-07-01) bij deze regeling bevat begripsbepalingen voor de toepassing van deze regeling.
+[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=I&z=2026-08-18&g=2026-08-18) bij deze regeling bevat begripsbepalingen voor de toepassing van deze regeling.
 
 ##### Artikel 1.1a. (grondslag)
 
@@ -36,9 +36,9 @@ opgehaald: 2026-07-31
 
 3. Deze regeling berust ook op de volgende artikelen voor zover het gaat om de daarbij aangegeven artikelen:
 
-- a. [artikel 133, derde lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133): de [artikelen 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.1&z=2026-07-01&g=2026-07-01), [14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.2&z=2026-07-01&g=2026-07-01), [14.18b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.18b&z=2026-07-01&g=2026-07-01), [14.28e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28e&z=2026-07-01&g=2026-07-01) en [14.31i van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31i&z=2026-07-01&g=2026-07-01); en
+- a. [artikel 133, derde lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=133): de [artikelen 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.1&z=2026-08-18&g=2026-08-18), [14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.2&z=2026-08-18&g=2026-08-18), [14.18b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.18b&z=2026-08-18&g=2026-08-18), [14.28e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28e&z=2026-08-18&g=2026-08-18) en [14.31i van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31i&z=2026-08-18&g=2026-08-18); en
 
-- b. [artikel 10.1, eerste lid van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.1): [artikel 4.30, derde lid, van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.3&artikel=4.30&z=2026-07-01&g=2026-07-01).
+- b. [artikel 10.1, eerste lid van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.1): [artikel 4.30, derde lid, van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.3&artikel=4.30&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 1.2. Toepassingsbereik
 
@@ -56,13 +56,13 @@ Met een erkenning, kwaliteitsverklaring, certificaat, keuring of norm als bedoel
 
 ##### Artikel 1.4. (uitgaven en verwijzingen)
 
-1. In [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=II&z=2026-07-01&g=2026-07-01) is bepaald welke uitgave van een in het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330), het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297), het [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313) of deze regeling genoemde norm van toepassing is.
+1. In [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=II&z=2026-08-18&g=2026-08-18) is bepaald welke uitgave van een in het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330), het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297), het [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313) of deze regeling genoemde norm van toepassing is.
 
-2. Een verwijzing in een norm naar een andere norm of een onderdeel daarvan is alleen van toepassing voor zover het gaat om een document, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=II&z=2026-07-01&g=2026-07-01).
+2. Een verwijzing in een norm naar een andere norm of een onderdeel daarvan is alleen van toepassing voor zover het gaat om een document, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=II&z=2026-08-18&g=2026-08-18).
 
 3. In afwijking van het tweede lid zijn de verwijzingen in de normen, genoemd in de [paragrafen 3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=3.7.2), [3.7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=3.7.3), [4.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=4.7.2) en [4.7.3 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=4.7.3), van toepassing, met uitzondering van de verwijzingen in NEN 1010.
 
-4. In dit artikel wordt onder norm verstaan: document, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=II&z=2026-07-01&g=2026-07-01).
+4. In dit artikel wordt onder norm verstaan: document, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=II&z=2026-08-18&g=2026-08-18).
 
 ### Hoofdstuk 2. Aanwijzing en geometrische begrenzing van locaties
 
@@ -78,131 +78,131 @@ Dit hoofdstuk is van toepassing op de aanwijzing of geometrische begrenzing van 
 
 ##### Artikel 2.2. (geometrische begrenzing oppervlaktewaterlichamen in beheer bij het Rijk)
 
-1. De geometrische begrenzing van de [oppervlaktewaterlichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2021/or_oppervlaktewaterlichamen/nld@2026-01-29), bedoeld in [bijlage II, onder 1, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van de [oppervlaktewaterlichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2021/or_oppervlaktewaterlichamen/nld@2026-01-29), bedoeld in [bijlage II, onder 1, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van de [oppervlaktewaterlichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2021/or_oppervlaktewaterlichamen/nld@2025-06-20), bedoeld in [bijlage II, onder 1, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), waarvan het [beheer van de waterkwaliteit](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterkwaliteit/nld@2025-06-20) bij het Rijk berust, is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van de [oppervlaktewaterlichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2021/or_oppervlaktewaterlichamen/nld@2025-06-20), bedoeld in [bijlage II, onder 1, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), waarvan het [beheer van de waterkwaliteit](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterkwaliteit/nld@2025-06-20) bij het Rijk berust, is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van de [oppervlaktewaterlichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterkwantiteit/nld@2026-01-29), bedoeld in [bijlage II, onder 1, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), waarvan het [beheer van de waterkwantiteit](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterkwantiteit/nld@2026-01-29) bij het Rijk berust, is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van de [oppervlaktewaterlichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterkwantiteit/nld@2026-01-29), bedoeld in [bijlage II, onder 1, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), waarvan het [beheer van de waterkwantiteit](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterkwantiteit/nld@2026-01-29) bij het Rijk berust, is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De geometrische begrenzing van de [oppervlaktewaterlichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterstaatkundig_beheer/nld@2026-01-29), bedoeld in [bijlage II, onder 1, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), waarvan het [waterstaatkundig beheer](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterstaatkundig_beheer/nld@2025-06-20) bij het Rijk berust, is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De geometrische begrenzing van de [oppervlaktewaterlichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterstaatkundig_beheer/nld@2026-01-29), bedoeld in [bijlage II, onder 1, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), waarvan het [waterstaatkundig beheer](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_waterstaatkundig_beheer/nld@2025-06-20) bij het Rijk berust, is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.3. (aanwijzing en geometrische begrenzing rijkswateren niet in beheer bij het Rijk)
 
-1. In afwijking van [artikel 2.20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.20) berust het [waterstaatkundig beheer van de rijkswateren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rijkswater_niet_beheerRijk/nld@2026-01-29), voor zover deze liggen binnen de begrenzing die is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01), bij de in die bijlage bedoelde [niet tot het Rijk behorende openbare lichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rijkswater_niet_beheerRijk/nld@2026-01-29).
+1. In afwijking van [artikel 2.20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.20) berust het [waterstaatkundig beheer van de rijkswateren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rijkswater_niet_beheerRijk/nld@2026-01-29), voor zover deze liggen binnen de begrenzing die is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18), bij de in die bijlage bedoelde [niet tot het Rijk behorende openbare lichamen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rijkswater_niet_beheerRijk/nld@2026-01-29).
 
-2. Het [waterstaatkundig beheer van de rijkswateren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rijkswater_niet_beheerRijk/nld@2026-01-29), voor zover het gaat om de zorg [voor het voorkomen van schade veroorzaakt door muskus- en beverratten aan waterstaatswerken](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rijkswater_niet_beheerRijk/nld@2026-01-29) berust bij het waterschapsbestuur waarvan de geometrische begrenzing gelijk is aan de oppervlaktewaterlichamen waarvan het waterstaatkundig beheer bij het Rijk berust, bedoeld in [artikel 2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=2.2&z=2026-07-01&g=2026-07-01).
+2. Het [waterstaatkundig beheer van de rijkswateren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rijkswater_niet_beheerRijk/nld@2026-01-29), voor zover het gaat om de zorg [voor het voorkomen van schade veroorzaakt door muskus- en beverratten aan waterstaatswerken](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rijkswater_niet_beheerRijk/nld@2026-01-29) berust bij het waterschapsbestuur waarvan de geometrische begrenzing gelijk is aan de oppervlaktewaterlichamen waarvan het waterstaatkundig beheer bij het Rijk berust, bedoeld in [artikel 2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=2.2&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.4. (geometrische begrenzing primaire waterkeringen en andere dan primaire waterkeringen in beheer bij het Rijk)
 
-De geometrische begrenzing van de [waterkeringen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2021/or_waterkeringenRijk/nld@2024-06-27), bedoeld in [bijlage II, onder 2, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De geometrische begrenzing van de [waterkeringen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2021/or_waterkeringenRijk/nld@2024-06-27), bedoeld in [bijlage II, onder 2, bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.2. Dijktrajecten
 
 ##### Artikel 2.5. (begrenzing locaties dijktrajecten van primaire waterkeringen en dijktrajecten van andere dan primaire waterkeringen in beheer bij het Rijk)
 
-1. Een dijktraject als bedoeld in [artikel 2.0b van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.0b) wordt aan twee zijden begrensd door een lijn loodrecht op het dijktraject door een punt waarvan de rijksdriehoekscoördinaten zijn vastgesteld in [bijlage IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IIIa&z=2026-07-01&g=2026-07-01).
+1. Een dijktraject als bedoeld in [artikel 2.0b van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.0b) wordt aan twee zijden begrensd door een lijn loodrecht op het dijktraject door een punt waarvan de rijksdriehoekscoördinaten zijn vastgesteld in [bijlage IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IIIa&z=2026-08-18&g=2026-08-18).
 
-2. Een dijktraject als bedoeld in [artikel 2.0h, onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.0b) wordt aan twee zijden begrensd door een lijn loodrecht op het dijktraject door een punt waarvan de rijksdriehoekscoördinaten zijn vastgesteld in [bijlage IIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IIIb&z=2026-07-01&g=2026-07-01).
+2. Een dijktraject als bedoeld in [artikel 2.0h, onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.0b) wordt aan twee zijden begrensd door een lijn loodrecht op het dijktraject door een punt waarvan de rijksdriehoekscoördinaten zijn vastgesteld in [bijlage IIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IIIb&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.3. Stroomgebiedsdistricten
 
 ##### Artikel 2.6. (aanwijzing Nederlandse delen stroomgebiedsdistricten)
 
-De Nederlandse delen van stroomgebiedsdistricten Rijn, Maas, Schelde en Eems, met inbegrip van de toedeling van grondwaterlichamen aan die stroomgebiedsdistricten, zijn de locaties die zijn weergegeven op de kaart in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IV&z=2026-07-01&g=2026-07-01).
+De Nederlandse delen van stroomgebiedsdistricten Rijn, Maas, Schelde en Eems, met inbegrip van de toedeling van grondwaterlichamen aan die stroomgebiedsdistricten, zijn de locaties die zijn weergegeven op de kaart in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IV&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.4. Kust
 
 ##### Artikel 2.7. (geometrische begrenzing kustfundament)
 
-De geometrische begrenzing van het [kustfundament](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_kustfundament/nld@2020-10-01), bedoeld in [artikel 5.39 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.39), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De geometrische begrenzing van het [kustfundament](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_kustfundament/nld@2020-10-01), bedoeld in [artikel 5.39 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.39), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.5. Grote rivieren
 
 ##### Artikel 2.8. (geometrische begrenzing rivierbed grote rivieren)
 
-1. De geometrische begrenzing van het [rivierbed van de grote rivieren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed/nld@2026-04-30), bedoeld in [artikel 5.41 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.41), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van het [rivierbed van de grote rivieren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed/nld@2026-04-30), bedoeld in [artikel 5.41 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.41), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van beperkingengebieden in het [rivierbed van de grote rivieren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2026/or_rivierbed_beperkingengebied/nld@2026-04-30), bedoeld in [artikel 5.41a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.41a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van beperkingengebieden in het [rivierbed van de grote rivieren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2026/or_rivierbed_beperkingengebied/nld@2026-04-30), bedoeld in [artikel 5.41a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.41a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.9. (geometrische begrenzing reserveringsgebieden grote rivieren)
 
-1. De geometrische begrenzing van het [reserveringsgebied voor de lange termijn voor de Rijntakken](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reservering_rijntakken/nld@2020-10-01), bedoeld in [artikel 5.42, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.42), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van het [reserveringsgebied voor de lange termijn voor de Rijntakken](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reservering_rijntakken/nld@2020-10-01), bedoeld in [artikel 5.42, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.42), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van het [reserveringsgebied voor de lange termijn voor de Maas](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reservering_maas/nld@2022-01-15), bedoeld in [artikel 5.42, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.42), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van het [reserveringsgebied voor de lange termijn voor de Maas](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reservering_maas/nld@2022-01-15), bedoeld in [artikel 5.42, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.42), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.6. IJsselmeergebied
 
 ##### Artikel 2.10. (geometrische begrenzing IJsselmeergebied)
 
-De geometrische begrenzing van het [IJsselmeergebied](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_ijsselmeergebied/nld@2024-06-27), bedoeld in [artikel 5.48 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.48), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De geometrische begrenzing van het [IJsselmeergebied](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_ijsselmeergebied/nld@2024-06-27), bedoeld in [artikel 5.48 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.48), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.7. PKB-Waddenzee en Waddengebied
 
 ##### Artikel 2.11. (geometrische begrenzing PKB-Waddenzee en Waddengebied)
 
-1. De geometrische begrenzing van [de PKB-Waddenzee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_pkb_waddenzee/nld@2020-10-01), bedoeld in [artikel 5.129a, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.129a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van [de PKB-Waddenzee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_pkb_waddenzee/nld@2020-10-01), bedoeld in [artikel 5.129a, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.129a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van [het Waddengebied](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_waddengebied/nld@2020-10-01), bedoeld in [artikel 5.129a, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.129a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van [het Waddengebied](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_waddengebied/nld@2020-10-01), bedoeld in [artikel 5.129a, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.129a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.8. Rijksvaarwegen
 
 ##### Artikel 2.12. (geometrische begrenzing vrijwaringsgebieden rijksvaarwegen)
 
-De geometrische begrenzing van een [vrijwaringsgebied van een rijkswater](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_vrijwaringsgebieden_rijksvaarwegen/nld@2025-01-17), met uitzondering van de Noordzee, de Waddenzee, de Westerschelde en het IJsselmeer, met inbegrip van het Zwarte Meer en het Ketelmeer, [dat een vaarweg is](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_vrijwaringsgebieden_rijksvaarwegen/nld@2025-01-17) als bedoeld in [artikel 5.160 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.160), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De geometrische begrenzing van een [vrijwaringsgebied van een rijkswater](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_vrijwaringsgebieden_rijksvaarwegen/nld@2025-01-17), met uitzondering van de Noordzee, de Waddenzee, de Westerschelde en het IJsselmeer, met inbegrip van het Zwarte Meer en het Ketelmeer, [dat een vaarweg is](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_vrijwaringsgebieden_rijksvaarwegen/nld@2025-01-17) als bedoeld in [artikel 5.160 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.160), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.9. Beperkingengebieden waterstaatswerken in beheer bij het Rijk
 
 ##### Artikel 2.13. (aanwijzing en geometrische begrenzing beperkingengebieden oppervlaktewaterlichamen in beheer bij het Rijk, niet zijnde kanalen)
 
-De [beperkingengebieden met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk dat geen kanaal is](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_oppervlaktewaterlichaam_geen_kanalen/nld@2026-01-29), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De [beperkingengebieden met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk dat geen kanaal is](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_oppervlaktewaterlichaam_geen_kanalen/nld@2026-01-29), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.14. (aanwijzing en geometrische begrenzing beperkingengebieden met betrekking tot kanalen in beheer bij het Rijk)
 
-De [beperkingengebieden met betrekking tot een kanaal in beheer bij het Rijk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebieden_kanalen/nld@2026-01-29), bedoeld in [artikel 6.17, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De [beperkingengebieden met betrekking tot een kanaal in beheer bij het Rijk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebieden_kanalen/nld@2026-01-29), bedoeld in [artikel 6.17, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.15. (geometrische begrenzing beperkingengebieden vaarwegen in beheer bij het Rijk)
 
-De [beperkingengebieden met betrekking tot een vaarweg in beheer bij het Rijk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_vaarwegen/nld@2026-01-29) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De [beperkingengebieden met betrekking tot een vaarweg in beheer bij het Rijk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_vaarwegen/nld@2026-01-29) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.16. (aanwijzing en geometrische begrenzing beperkingengebieden oppervlaktewaterlichamen in beheer bij het Rijk afmeren woonschip of ander drijvend werk)
 
-1. De [beperkingengebieden](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed_stroomvoerend_deel) met betrekking tot een [oppervlaktewaterlichaam in beheer bij het Rijk dat geen kanaal is](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed_stroomvoerend_deel), voor zover het gaat om het [permanent afmeren van een woonschip of een ander drijvend werk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed_stroomvoerend_deel), zijn de locaties waarvan de geometrische begrenzing gelijk is aan de geometrische begrenzing van beperkingengebieden het rivierbed van de grote rivieren, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.5&artikel=2.8&z=2026-07-01&g=2026-07-01).
+1. De [beperkingengebieden](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed_stroomvoerend_deel) met betrekking tot een [oppervlaktewaterlichaam in beheer bij het Rijk dat geen kanaal is](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed_stroomvoerend_deel), voor zover het gaat om het [permanent afmeren van een woonschip of een ander drijvend werk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed_stroomvoerend_deel), zijn de locaties waarvan de geometrische begrenzing gelijk is aan de geometrische begrenzing van beperkingengebieden het rivierbed van de grote rivieren, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.5&artikel=2.8&z=2026-08-18&g=2026-08-18).
 
-2. Het voormalig bergend deel van het [rivierbed van de grote rivieren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed_bergend_deel/nld@2026-04-30), bedoeld in [artikel 6.17a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. Het voormalig bergend deel van het [rivierbed van de grote rivieren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_rivierbed_bergend_deel/nld@2026-04-30), bedoeld in [artikel 6.17a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.17. (aanwijzing en geometrische begrenzing beperkingengebieden waterkeringen in beheer bij het Rijk)
 
-De [beperkingengebieden met betrekking tot waterkeringen in beheer bij het Rijk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_waterkeringen_rijk/nld@2024-06-27) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De [beperkingengebieden met betrekking tot waterkeringen in beheer bij het Rijk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_waterkeringen_rijk/nld@2024-06-27) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.2.10. Noordzee
 
 ##### Artikel 2.18. (aanwijzing en geometrische begrenzing beperkingengebied Noordzee)
 
-Het [beperkingengebied met betrekking tot de Noordzee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_noordzee/nld@2022-10-01) is de locatie waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+Het [beperkingengebied met betrekking tot de Noordzee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_noordzee/nld@2022-10-01) is de locatie waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.19. (aanwijzing en geometrische begrenzing beperkingengebieden Noordzee zones tussen duinvoet en laagwaterlijn en buiten duinvoet en laagwaterlijn)
 
-1. Het [beperkingengebied met betrekking tot de Noordzee buiten de zone tussen de duinvoet en de laagwaterlijn](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_Noordzee_vanaf_laagwaterlijn/nld@2026-01-29) is de locatie waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. Het [beperkingengebied met betrekking tot de Noordzee buiten de zone tussen de duinvoet en de laagwaterlijn](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_Noordzee_vanaf_laagwaterlijn/nld@2026-01-29) is de locatie waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De [beperkingengebieden met betrekking tot de Noordzee in de zone tussen de duinvoet en de laagwaterlijn](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_duinvoet_laagwaterlijn/nld%402021-07-01) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De [beperkingengebieden met betrekking tot de Noordzee in de zone tussen de duinvoet en de laagwaterlijn](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_duinvoet_laagwaterlijn/nld%402021-07-01) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.20. (aanwijzing en geometrische begrenzing beperkingengebieden installaties in de Noordzee)
 
-De [beperkingengebieden met betrekking tot andere installaties dan mijnbouwinstallaties in de Noordzee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_nz_installaties_nietmijnbouw/nld@2024-01-30) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De [beperkingengebieden met betrekking tot andere installaties dan mijnbouwinstallaties in de Noordzee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_nz_installaties_nietmijnbouw/nld@2024-01-30) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.21. (aanwijzing en geometrische begrenzing gebied zeewaarts van de doorgaande NAP-min 20 meterdieptelijn)
 
-[Het zeewaartse gebied vanaf de doorgaande NAP-min 20 meterdieptelijn](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_zeewaarts_gebied/nld@2020-10-01), bedoeld in [artikel 7.27, aanhef en onder f, onder 1°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.27), is de locatie waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+[Het zeewaartse gebied vanaf de doorgaande NAP-min 20 meterdieptelijn](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_zeewaarts_gebied/nld@2020-10-01), bedoeld in [artikel 7.27, aanhef en onder f, onder 1°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.27), is de locatie waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.22. (aanwijzing en geometrische begrenzing in verband met mijnbouwlocatieactiviteiten in de Noordzee)
 
-1. De [oefen- en schietgebieden](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_oefen_schietgebieden/nld@2022-01-15), bedoeld in [artikel 7.67, aanhef en onder b, onder 1°, en onder c, onder 1°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De [oefen- en schietgebieden](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_oefen_schietgebieden/nld@2022-01-15), bedoeld in [artikel 7.67, aanhef en onder b, onder 1°, en onder c, onder 1°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De [drukbevaren delen van de zee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_drukbevaren_delen/nld@2022-01-15), bedoeld in [artikel 7.67, aanhef en onder b, onder 2°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De [drukbevaren delen van de zee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_drukbevaren_delen/nld@2022-01-15), bedoeld in [artikel 7.67, aanhef en onder b, onder 2°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De [aanloopgebieden](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_aanloopgebieden/nld@2020-10-01), bedoeld in [artikel 7.67, aanhef en onder c, onder 2°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De [aanloopgebieden](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_aanloopgebieden/nld@2020-10-01), bedoeld in [artikel 7.67, aanhef en onder c, onder 2°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De [ankergebieden in de buurt van aanloophavens](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_ankergebieden/nld@2020-10-01), bedoeld in [artikel 7.67, aanhef en onder c, onder 3°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De [ankergebieden in de buurt van aanloophavens](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_ankergebieden/nld@2020-10-01), bedoeld in [artikel 7.67, aanhef en onder c, onder 3°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 2.3. Infrastructuur
 
@@ -230,59 +230,59 @@ Brandvoorschriftengebieden als bedoeld in [artikel 5.14, vijfde lid, van het Bes
 
 ##### Artikel 2.26. (geometrische begrenzing civiele explosieaandachtsgebieden en opslagplaatsen)
 
-1. De geometrische begrenzing van de [civiele explosieaandachtsgebieden A](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_civiele_explosieaandachtsgebieden_zoneA/nld%402020-10-01), bedoeld in [artikel 5.28, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.28), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van de [civiele explosieaandachtsgebieden A](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_civiele_explosieaandachtsgebieden_zoneA/nld%402020-10-01), bedoeld in [artikel 5.28, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.28), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van de [civiele explosieaandachtsgebieden B](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_civiele_explosieaandachtsgebieden_zoneB/nld%402020-10-01), bedoeld in [artikel 5.28, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.28), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van de [civiele explosieaandachtsgebieden B](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_civiele_explosieaandachtsgebieden_zoneB/nld%402020-10-01), bedoeld in [artikel 5.28, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.28), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van de [civiele explosieaandachtsgebieden C](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_civiele_explosieaandachtsgebieden_zoneC/nld%402020-10-01), bedoeld in [artikel 5.28, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.28), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van de [civiele explosieaandachtsgebieden C](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_civiele_explosieaandachtsgebieden_zoneC/nld%402020-10-01), bedoeld in [artikel 5.28, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.28), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De geometrische begrenzing van de [civiele opslagplaatsen waar ontplofbare stoffen voor civiel gebruik worden opgeslagen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_civiele_opslagplaatsen/nld%402020-10-01) binnen de locaties, genoemd in [bijlage IX, onder D, bij artikel 5.28, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=IX), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De geometrische begrenzing van de [civiele opslagplaatsen waar ontplofbare stoffen voor civiel gebruik worden opgeslagen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_civiele_opslagplaatsen/nld%402020-10-01) binnen de locaties, genoemd in [bijlage IX, onder D, bij artikel 5.28, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=IX), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.27. (geometrische begrenzing militaire explosieaandachtsgebieden)
 
-1. De geometrische begrenzing van de [militaire explosieaandachtsgebieden A](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2022/or_militaire_explosieaandachtsgebieden/nld@2022-01-15), bedoeld in [artikel 5.32, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.32), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van de [militaire explosieaandachtsgebieden A](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2022/or_militaire_explosieaandachtsgebieden/nld@2022-01-15), bedoeld in [artikel 5.32, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.32), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van de [militaire explosieaandachtsgebieden B](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2022/or_militaire_explosieaandachtsgebieden/nld@2022-01-15), bedoeld in [artikel 5.32, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.32), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van de [militaire explosieaandachtsgebieden B](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2022/or_militaire_explosieaandachtsgebieden/nld@2022-01-15), bedoeld in [artikel 5.32, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.32), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van de [militaire explosieaandachtsgebieden C](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2022/or_militaire_explosieaandachtsgebieden/nld@2022-01-15), bedoeld in [artikel 5.32, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.32), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van de [militaire explosieaandachtsgebieden C](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2022/or_militaire_explosieaandachtsgebieden/nld@2022-01-15), bedoeld in [artikel 5.32, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.32), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.3.2. Autowegen, autosnelwegen en hoofdspoorwegen
 
 ##### Artikel 2.28. (aanwijzing en geometrische begrenzing reserveringsgebieden autowegen, autosnelwegen en hoofdspoorwegen)
 
-1. [De reserveringsgebieden voor de uitbreiding van een autoweg of autosnelweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reserveringsgebieden_uitbreiding_hoofdwegen/nld@2025-01-17), bedoeld in [artikel 5.133, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.133), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. [De reserveringsgebieden voor de uitbreiding van een autoweg of autosnelweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reserveringsgebieden_uitbreiding_hoofdwegen/nld@2025-01-17), bedoeld in [artikel 5.133, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.133), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. [De reserveringsgebieden voor de aanleg van een autoweg of autosnelweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reserveringsgebieden_uitbreiding_hoofdwegen/nld@2025-06-20), bedoeld in [artikel 5.133, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.133), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. [De reserveringsgebieden voor de aanleg van een autoweg of autosnelweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reserveringsgebieden_uitbreiding_hoofdwegen/nld@2025-06-20), bedoeld in [artikel 5.133, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.133), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. [De reserveringsgebieden voor de aanleg van een hoofdspoorweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reserveringsgebieden_nieuwe_hoofdspoorwegen/nld@2020-10-01), bedoeld in [artikel 5.133, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.133), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. [De reserveringsgebieden voor de aanleg van een hoofdspoorweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_reserveringsgebieden_nieuwe_hoofdspoorwegen/nld@2020-10-01), bedoeld in [artikel 5.133, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.133), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.3.3. Rijkswegen
 
 ##### Artikel 2.29. (aanwijzing en geometrische begrenzing beperkingengebieden wegen in beheer bij het Rijk)
 
-1. De [beperkingengebieden met betrekking tot wegen in beheer bij het Rijk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_wegen_rijk/nld@2026-01-29), bedoeld in [artikel 2.21a, eerste lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.21a), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De [beperkingengebieden met betrekking tot wegen in beheer bij het Rijk](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_wegen_rijk/nld@2026-01-29), bedoeld in [artikel 2.21a, eerste lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.21a), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De delen van [beperkingengebieden met betrekking tot wegen in beheer bij het Rijk die horen bij een verzorgingsplaats](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_wegen_rijk_verzorgingsplaatsen/nld@2024-06-27) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De delen van [beperkingengebieden met betrekking tot wegen in beheer bij het Rijk die horen bij een verzorgingsplaats](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_wegen_rijk_verzorgingsplaatsen/nld@2024-06-27) zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.29a. (aanwijzing rijkswegen voor beheersing van geluid)
 
-De wegen in beheer bij het Rijk waarvoor de Minister van Infrastructuur en Waterstaat als omgevingswaarden geluidproductieplafonds vaststelt, bedoeld in [artikel 2.15, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.15), zijn de wegen, bedoeld in [bijlage IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVa&z=2026-07-01&g=2026-07-01).
+De wegen in beheer bij het Rijk waarvoor de Minister van Infrastructuur en Waterstaat als omgevingswaarden geluidproductieplafonds vaststelt, bedoeld in [artikel 2.15, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.15), zijn de wegen, bedoeld in [bijlage IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVa&z=2026-08-18&g=2026-08-18).
 
 #### § 2.3.4. Hoofdspoorwegen
 
 ##### Artikel 2.30. (aanwijzing en geometrische begrenzing beperkingengebieden hoofdspoorwegen)
 
-1. De [beperkingengebieden met betrekking tot hoofdspoorwegen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_beperkingengebied_hoofdspoorwegen/nld@2026-01-29), bedoeld in [artikel 2.21a, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.21a), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De beperkingengebieden met betrekking tot hoofdspoorwegen, bedoeld in [artikel 2.21a, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.21a), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van de [kernzones van beperkingengebieden met betrekking tot een hoofdspoorweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_hoofdspoor_kernzone/nld@2026-01-29) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van de [kernzones van beperkingengebieden met betrekking tot een hoofdspoorweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_hoofdspoor_kernzone/nld@2026-01-29) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van de [overwegzones van beperkingengebieden met betrekking tot een hoofdspoorweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_hoofdspoor_overwegen/nld@2026-01-29) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van de [overwegzones van beperkingengebieden met betrekking tot een hoofdspoorweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_hoofdspoor_overwegen/nld@2026-01-29) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De geometrische begrenzing van de [beschermingszones van beperkingengebieden met betrekking tot een hoofdspoorweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_hoofdspoor_beschermingszone/nld@2026-01-26) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De geometrische begrenzing van de [beschermingszones van beperkingengebieden met betrekking tot een hoofdspoorweg](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_hoofdspoor_beschermingszone/nld@2026-01-26) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.30a. (aanwijzing hoofdspoorwegen voor beheersing van geluid)
 
-De hoofdspoorwegen waarvoor de Minister van Infrastructuur en Waterstaat als omgevingswaarden geluidproductieplafonds vaststelt, bedoeld in [artikel 2.15, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.15), zijn de spoorwegen, bedoeld in [bijlage IVb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVb&z=2026-07-01&g=2026-07-01).
+De hoofdspoorwegen waarvoor de Minister van Infrastructuur en Waterstaat als omgevingswaarden geluidproductieplafonds vaststelt, bedoeld in [artikel 2.15, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.15), zijn de spoorwegen, bedoeld in [bijlage IVb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVb&z=2026-08-18&g=2026-08-18).
 
 #### § 2.3.5. Bijzondere spoorwegen
 
@@ -312,7 +312,7 @@ De beperkingengebieden, bedoeld in [artikel 9.19, eerste lid, van het Besluit ac
 
 ##### Artikel 2.30d. (meten afstand beperkingengebied bijzondere spoorwegen)
 
-De afstanden aan weerszijden van de bijzondere spoorweg en de afstanden langs de buitenzijde en binnenzijde van de boog, bedoeld in de [artikelen 2.30b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.5&artikel=2.30b&z=2026-07-01&g=2026-07-01) en [2.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.5&artikel=2.30c&z=2026-07-01&g=2026-07-01), gelden:
+De afstanden aan weerszijden van de bijzondere spoorweg en de afstanden langs de buitenzijde en binnenzijde van de boog, bedoeld in de [artikelen 2.30b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.5&artikel=2.30b&z=2026-08-18&g=2026-08-18) en [2.30c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.5&artikel=2.30c&z=2026-08-18&g=2026-08-18), gelden:
 
 - a. bij een spoorweg op maaiveldniveau: vanaf het hart van het buitenste spoor;
 
@@ -324,41 +324,41 @@ De afstanden aan weerszijden van de bijzondere spoorweg en de afstanden langs de
 
 ##### Artikel 2.31. (geometrische begrenzing gebieden hoogtebeperkingen communicatie-, navigatie- en radarapparatuur voor de burgerluchtvaart)
 
-1. De geometrische begrenzing van [gebieden waar bouwwerken communicatie-, navigatie- en radarapparatuur buiten Schiphol of overige burgerluchthavens van nationale en regionale betekenis kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_verstoringsgebieden_buiten_burgerluchthavens_geen_bouwwerken/nld@2025-05-07) als bedoeld in [artikel 5.161a, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van [gebieden waar bouwwerken communicatie-, navigatie- en radarapparatuur buiten Schiphol of overige burgerluchthavens van nationale en regionale betekenis kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_verstoringsgebieden_buiten_burgerluchthavens_geen_bouwwerken/nld@2025-05-07) als bedoeld in [artikel 5.161a, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De [maximaal toelaatbare hoogte voor bouwwerken](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_verstoringsgebieden_buiten_burgerluchthavens_bouwwerken/nld@2025-05-07), bedoeld in [artikel 5.161a, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De [maximaal toelaatbare hoogte voor bouwwerken](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_verstoringsgebieden_buiten_burgerluchthavens_bouwwerken/nld@2025-05-07), bedoeld in [artikel 5.161a, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De [maximaal toelaatbare hoogte voor windturbines](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_verstoringsgebieden_buiten_burgerluchthavens_windturbines/nld@2025-05-07), bedoeld in [artikel 5.161a, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De [maximaal toelaatbare hoogte voor windturbines](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_verstoringsgebieden_buiten_burgerluchthavens_windturbines/nld@2025-05-07), bedoeld in [artikel 5.161a, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De geometrische begrenzing van [gebieden waar bouwwerken het civiele radarbeeld kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_radarverstoringsgebied_bouwwerken/nld%402020-10-01) als bedoeld in [artikel 5.161a, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De geometrische begrenzing van [gebieden waar bouwwerken het civiele radarbeeld kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_radarverstoringsgebied_bouwwerken/nld%402020-10-01) als bedoeld in [artikel 5.161a, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-5. De geometrische begrenzing van [gebieden waar windturbines het civiele radarbeeld kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_defensie_radarverstoringsgebied_windturbines/nld%402020-10-01) als bedoeld in [artikel 5.161a, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+5. De geometrische begrenzing van [gebieden waar windturbines het civiele radarbeeld kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_defensie_radarverstoringsgebied_windturbines/nld%402020-10-01) als bedoeld in [artikel 5.161a, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.3.7. Buisleidingen van nationaal belang
 
 ##### Artikel 2.32. (aanwijzing en geometrische begrenzing reserveringsgebieden buisleidingen van nationaal belang)
 
-1. De [reserveringsgebieden voor de aanleg van buisleidingen van nationaal belang](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_buisleidingen_reserveringsgebieden/nld@2022-01-15), bedoeld in [artikel 5.136, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.136), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De [reserveringsgebieden voor de aanleg van buisleidingen van nationaal belang](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_buisleidingen_reserveringsgebieden/nld@2022-01-15), bedoeld in [artikel 5.136, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.136), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De [zoekgebieden voor de aanleg van buisleidingen van nationaal belang](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_buisleidingen_zoekgebieden/nld@2020-10-01), bedoeld in [artikel 5.136, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.136), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De [zoekgebieden voor de aanleg van buisleidingen van nationaal belang](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_buisleidingen_zoekgebieden/nld@2020-10-01), bedoeld in [artikel 5.136, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.136), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.3.8. Project Mainportontwikkeling Rotterdam
 
 ##### Artikel 2.33. (geometrische begrenzing aanleggebieden Maasvlakte 2 en compensatie)
 
-1. De geometrische begrenzing van het [aanleggebied voor Maasvlakte 2](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_landaanwinningsgebied_Maasvlakte2/nld@2020-10-01), bedoeld in [artikel 5.140, eerste lid, van Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.140), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van het [aanleggebied voor Maasvlakte 2](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_landaanwinningsgebied_Maasvlakte2/nld@2020-10-01), bedoeld in [artikel 5.140, eerste lid, van Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.140), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van het [aanleggebied voor compensatie van open droog duin en natte duinvallei](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_compensatie_opendroog_duin/nld@2020-10-01), bedoeld in [artikel 5.140, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.140), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van het [aanleggebied voor compensatie van open droog duin en natte duinvallei](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_compensatie_opendroog_duin/nld@2020-10-01), bedoeld in [artikel 5.140, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.140), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van het [aanleggebied voor compensatie van zeenatuur](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_compensatie_verlies_zeenatuur/nld@2020-10-01), bedoeld in [artikel 5.140, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.140), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van het [aanleggebied voor compensatie van zeenatuur](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_compensatie_verlies_zeenatuur/nld@2020-10-01), bedoeld in [artikel 5.140, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.140), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.34. (geometrische begrenzing natuur- en recreatiegebieden)
 
-1. De geometrische begrenzing van het [openbaar toegankelijke natuur- en recreatiegebied Midden-IJsselmonde](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_natuur_recreatie_IJsselmonde/nld@2020-10-01), bedoeld in [artikel 5.143, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.143), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van het [openbaar toegankelijke natuur- en recreatiegebied Midden-IJsselmonde](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_natuur_recreatie_IJsselmonde/nld@2020-10-01), bedoeld in [artikel 5.143, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.143), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van het [openbaar toegankelijke natuur- en recreatiegebied Schiebroekse en Zuidpolder](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_natuur_recreatie_Schiebroek_Zuidpolder/nld@2020-10-01), bedoeld in [artikel 5.143, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.143), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van het [openbaar toegankelijke natuur- en recreatiegebied Schiebroekse en Zuidpolder](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_natuur_recreatie_Schiebroek_Zuidpolder/nld@2020-10-01), bedoeld in [artikel 5.143, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.143), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van het [openbaar toegankelijke natuur- en recreatiegebied Schiezone](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_natuur_recreatie_Schiezone/nld@2020-10-01), bedoeld in [artikel 5.143, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.143), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van het [openbaar toegankelijke natuur- en recreatiegebied Schiezone](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_PMR_natuur_recreatie_Schiezone/nld@2020-10-01), bedoeld in [artikel 5.143, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.143), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.3.9. [Vervallen]
 
@@ -370,25 +370,25 @@ De afstanden aan weerszijden van de bijzondere spoorweg en de afstanden langs de
 
 ##### Artikel 2.36. (geometrische begrenzing locaties voor elektriciteitsvoorziening)
 
-1. De geometrische begrenzing van de [locaties voor grootschalige elektriciteitsopwekking](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_elektriciteit_locaties_grootschalige_opwekking/nld@2020-10-01) met een of meer elektriciteitsproductie-installaties met een gezamenlijk vermogen van ten minste 500 MW en de daarmee verbonden werken en infrastructuur, met uitzondering van kernenergiecentrales en elektriciteitsproductie-installaties die elektriciteit opwekken door windenergie, bedoeld in [artikel 5.156, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.156), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van de [locaties voor grootschalige elektriciteitsopwekking](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_elektriciteit_locaties_grootschalige_opwekking/nld@2020-10-01) met een of meer elektriciteitsproductie-installaties met een gezamenlijk vermogen van ten minste 500 MW en de daarmee verbonden werken en infrastructuur, met uitzondering van kernenergiecentrales en elektriciteitsproductie-installaties die elektriciteit opwekken door windenergie, bedoeld in [artikel 5.156, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.156), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van de [locaties voor een kernenergiecentrale](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_elektriciteit_vestigingsplaats_kernenergie/nld@2020-10-01), bedoeld in [artikel 5.156, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.156), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van de [locaties voor een kernenergiecentrale](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_elektriciteit_vestigingsplaats_kernenergie/nld@2020-10-01), bedoeld in [artikel 5.156, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.156), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van de [locaties voor het gebied binnen een straal van één km rondom een kernenergiecentrale](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_elektriciteit_waarborgzones_kernenergie/nld@2020-10-01), bedoeld in [artikel 5.158 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.158), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van de [locaties voor het gebied binnen een straal van één km rondom een kernenergiecentrale](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_elektriciteit_waarborgzones_kernenergie/nld@2020-10-01), bedoeld in [artikel 5.158 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.158), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De geometrische begrenzing van de [locaties voor een hoogspanningsverbinding met een spanning van ten minste 220 kV](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_elektriciteit_hoogspanningsverbindingen/nld@2020-10-01), bedoeld in [artikel 5.156, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.156), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De geometrische begrenzing van de [locaties voor een hoogspanningsverbinding met een spanning van ten minste 220 kV](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_elektriciteit_hoogspanningsverbindingen/nld@2020-10-01), bedoeld in [artikel 5.156, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.156), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### § 2.3.11. Hyperscale datacentra
 
 ##### Artikel 2.36a. (geometrische begrenzing uitsluitingsgebied hyperscale datacentra)
 
-De geometrische begrenzing van het [uitsluitingsgebied hyperscale datacentra](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2023/or_uitsluitingsgebied_hyperscale_datacentra/nld@2023-09-15), bedoeld in [artikel 5.161bb van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161bb), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De geometrische begrenzing van het [uitsluitingsgebied hyperscale datacentra](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2023/or_uitsluitingsgebied_hyperscale_datacentra/nld@2023-09-15), bedoeld in [artikel 5.161bb van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161bb), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 2.4. Kwaliteit van de buitenlucht
 
 ##### Artikel 2.37. (geometrische begrenzing uitgezonderde locaties niet in betekenende mate luchtkwaliteit)
 
-De geometrische begrenzing van [de uitgezonderde locaties](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_uitgezonderde_locaties_luchtkwaliteit/nld%402020-10-01) voor het exploiteren van een veehouderij, bedoeld in [artikel 5.53, eerste lid, onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.53), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+De geometrische begrenzing van [de uitgezonderde locaties](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_uitgezonderde_locaties_luchtkwaliteit/nld%402020-10-01) voor het exploiteren van een veehouderij, bedoeld in [artikel 5.53, eerste lid, onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.53), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 2.38. (aanwijzing agglomeraties richtlijn luchtkwaliteit en richtlijn gevaarlijke stoffen in de lucht)
 
@@ -410,11 +410,11 @@ De agglomeraties, bedoeld in de richtlijn luchtkwaliteit en de richtlijn gevaarl
 
 De zones, bedoeld in de richtlijn luchtkwaliteit en de richtlijn gevaarlijke stoffen in de lucht, zijn:
 
-- a. midden, omvattend de provincies: Gelderland, Noord-Holland, Utrecht en Zuid-Holland, met uitzondering van de daarin gelegen agglomeraties, genoemd in [artikel 2.38, onder a, b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01);
+- a. midden, omvattend de provincies: Gelderland, Noord-Holland, Utrecht en Zuid-Holland, met uitzondering van de daarin gelegen agglomeraties, genoemd in [artikel 2.38, onder a, b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18);
 
 - b. noord, omvattend de provincies: Drenthe, Flevoland, Friesland, Groningen en Overijssel; en
 
-- c. zuid, omvattend de provincies: Limburg, Noord-Brabant en Zeeland, met uitzondering van de daarin gelegen agglomeraties, genoemd in [artikel 2.38, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01).
+- c. zuid, omvattend de provincies: Limburg, Noord-Brabant en Zeeland, met uitzondering van de daarin gelegen agglomeraties, genoemd in [artikel 2.38, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 2.5. Geluid
 
@@ -468,39 +468,39 @@ De agglomeraties, bedoeld in de richtlijn omgevingslawaai, zijn:
 
 ##### Artikel 2.41. (geometrische begrenzing militaire terreinen en gebieden met of bij militaire objecten)
 
-1. De geometrische begrenzing van de [militaire terreinen en terreinen met een militair object](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_terreinen_objecten/nld@2022-04-01), bedoeld in [artikel 5.150, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van de [militaire terreinen en terreinen met een militair object](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_terreinen_objecten/nld@2022-04-01), bedoeld in [artikel 5.150, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van [de onveilige gebieden bij militaire schietbanen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_terreinen_schietbanen/nld@2022-01-15), bedoeld in [artikel 5.150, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van [de onveilige gebieden bij militaire schietbanen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_terreinen_schietbanen/nld@2022-01-15), bedoeld in [artikel 5.150, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van [de gebieden waar bouwwerken een militaire zend- en ontvangstinstallatie kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_verstoring_zend_ontvangstinstallaties/nld@2020-10-01), bedoeld in [artikel 5.150, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van [de gebieden waar bouwwerken een militaire zend- en ontvangstinstallatie kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_verstoring_zend_ontvangstinstallaties/nld@2020-10-01), bedoeld in [artikel 5.150, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De geometrische begrenzing van de [gebieden waar zich een militaire laagvliegroute voor jacht- en transportvliegtuigen bevindt](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_laagvliegroutes_transportvliegtuigen/nld@2024-04-30), bedoeld in [artikel 5.150, vierde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De geometrische begrenzing van de [gebieden waar zich een militaire laagvliegroute voor jacht- en transportvliegtuigen bevindt](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_laagvliegroutes_transportvliegtuigen/nld@2024-04-30), bedoeld in [artikel 5.150, vierde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-5. De geometrische begrenzing van [gebieden waar bouwwerken, niet zijnde windturbines, het radarbeeld kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_radarverstoringsgebied_bouwwerken/nld@2020-10-01) als bedoeld in [artikel 5.150, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+5. De geometrische begrenzing van [gebieden waar bouwwerken, niet zijnde windturbines, het radarbeeld kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_defensie_radarverstoringsgebied_bouwwerken/nld@2020-10-01) als bedoeld in [artikel 5.150, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-6. De geometrische begrenzing van [gebieden waar windturbines het radarbeeld kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_defensie_radarverstoringsgebied_windturbines/nld@2020-10-01) als bedoeld in [artikel 5.150, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+6. De geometrische begrenzing van [gebieden waar windturbines het radarbeeld kunnen verstoren](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_defensie_radarverstoringsgebied_windturbines/nld@2020-10-01) als bedoeld in [artikel 5.150, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 2.7. Erfgoed
 
 ##### Artikel 2.42. (geometrische begrenzing werelderfgoed en erfgoed op de Voorlopige Lijst werelderfgoed)
 
-1. De geometrische begrenzing van [de Droogmakerij de Beemster](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_werelderfgoed_Beemster/nld%402020-10-01), bedoeld in [artikel 7.3, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De geometrische begrenzing van [de Droogmakerij de Beemster](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_werelderfgoed_Beemster/nld%402020-10-01), bedoeld in [artikel 7.3, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De geometrische begrenzing van [de Hollandse Waterlinies](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1109/2025/or_werelderfgoed_Hollandse_Waterlinies/nld@2025-10-31), bedoeld in [artikel 7.3, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De geometrische begrenzing van [de Hollandse Waterlinies](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1109/2025/or_werelderfgoed_Hollandse_Waterlinies/nld@2025-10-31), bedoeld in [artikel 7.3, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De geometrische begrenzing van [Schokland en omgeving](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1109/2025/or_werelderfgoed_Schokland/nld@2025-10-31), bedoeld in [artikel 7.3, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De geometrische begrenzing van [Schokland en omgeving](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1109/2025/or_werelderfgoed_Schokland/nld@2025-10-31), bedoeld in [artikel 7.3, derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De geometrische begrenzing van [de Neder-Germaanse Limes](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_werelderfgoed_Romeinse_Limes/nld@2025-10-31), bedoeld in [artikel 7.3, vierde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De geometrische begrenzing van [de Neder-Germaanse Limes](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2019/or_werelderfgoed_Romeinse_Limes/nld@2025-10-31), bedoeld in [artikel 7.3, vierde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-5. De geometrische begrenzing van [de Koloniën van Weldadigheid](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_werelderfgoed_Kolonien_van_Weldadigheid/nld@2025-10-31), bedoeld in [artikel 7.3, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+5. De geometrische begrenzing van [de Koloniën van Weldadigheid](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_werelderfgoed_Kolonien_van_Weldadigheid/nld@2025-10-31), bedoeld in [artikel 7.3, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=7.3), is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 2.8. Herkomstgebieden en toepassingsgebieden mijnsteen en vermengde mijnsteen
 
 ##### Artikel 2.43. (geometrische begrenzing herkomstgebieden en toepassingsgebieden mijnsteen en vermengde mijnsteen)
 
-1. De [herkomstgebieden van mijnsteen en vermengde mijnsteen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/OrBodemMijnsteenHerkomstgebieden/nld@2020-12-01), bedoeld in [artikel 3.48r, tweede lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+1. De [herkomstgebieden van mijnsteen en vermengde mijnsteen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/OrBodemMijnsteenHerkomstgebieden/nld@2020-12-01), bedoeld in [artikel 3.48r, tweede lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-2. De [toepassingsgebieden voor het toepassen van mijnsteen en vermengde mijnsteen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/OrBodemMijnsteenToepassingsgebieden/nld@2020-12-01), bedoeld in [artikel 3.48r, tweede lid, onder b, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De [toepassingsgebieden voor het toepassen van mijnsteen en vermengde mijnsteen](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/OrBodemMijnsteenToepassingsgebieden/nld@2020-12-01), bedoeld in [artikel 3.48r, tweede lid, onder b, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 2.9. Natuur
 
@@ -532,13 +532,13 @@ De stroomgebiedsdistricten of delen daarvan waarin het verboden is water voor la
 
 1. De bodembeheergebieden met betrekking tot oppervlaktewaterlichamen in beheer bij het Rijk, bedoeld in [artikel 4.1265, derde lid, onder c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1265), zijn de locaties Grebbedijk, Dijkversterking Hansweert, Meanderende Maas en Uiterwaarden Oeffelt, bedoeld in de leden 2 tot en met 5.
 
-2. De [geometrische begrenzing van bodembeheergebied Grebbedijk](https://identifier.overheid.nl/join/id/regdata/mnre1130/2025/or_bodembeheergebied_hansweert/nld@2025-06-20) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+2. De [geometrische begrenzing van bodembeheergebied Grebbedijk](https://identifier.overheid.nl/join/id/regdata/mnre1130/2025/or_bodembeheergebied_hansweert/nld@2025-06-20) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-3. De [geometrische begrenzing van bodembeheergebied Dijkversterking Hansweert](https://identifier.overheid.nl/join/id/regdata/mnre1130/2025/or_bodembeheergebied_hansweert/nld@2025-06-20) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+3. De [geometrische begrenzing van bodembeheergebied Dijkversterking Hansweert](https://identifier.overheid.nl/join/id/regdata/mnre1130/2025/or_bodembeheergebied_hansweert/nld@2025-06-20) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-4. De [geometrische begrenzing van bodembeheergebied Meanderende Maas](https://identifier.overheid.nl/join/id/regdata/mnre1130/2025/or_bodembeheergebied_meanderende_maas/nld@2025-06-20) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+4. De [geometrische begrenzing van bodembeheergebied Meanderende Maas](https://identifier.overheid.nl/join/id/regdata/mnre1130/2025/or_bodembeheergebied_meanderende_maas/nld@2025-06-20) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
-5. De [geometrische begrenzing van bodembeheergebied Uiterwaarden Oeffelt](https://identifier.overheid.nl/join/id/regdata/mnre1130/2025/or_bodembeheergebied_oeffelt/nld@2025-06-20) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01).
+5. De [geometrische begrenzing van bodembeheergebied Uiterwaarden Oeffelt](https://identifier.overheid.nl/join/id/regdata/mnre1130/2025/or_bodembeheergebied_oeffelt/nld@2025-06-20) is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18).
 
 ### Hoofdstuk 3. Beheer van de fysieke leefomgeving
 
@@ -548,7 +548,7 @@ De stroomgebiedsdistricten of delen daarvan waarin het verboden is water voor la
 
 ##### Artikel 3.1. (toepassingsbereik)
 
-Deze afdeling is van toepassing op de beheersing van het geluid door wegen, spoorwegen en industrieterreinen als bedoeld in [afdeling 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.5&z=2026-07-01&g=2026-07-01) van het Besluit kwaliteit leefomgeving.
+Deze afdeling is van toepassing op de beheersing van het geluid door wegen, spoorwegen en industrieterreinen als bedoeld in [afdeling 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.5&z=2026-08-18&g=2026-08-18) van het Besluit kwaliteit leefomgeving.
 
 ##### Artikel 3.2. (bepalen: waar het geluid wordt bepaald)
 
@@ -580,7 +580,7 @@ Bij het bepalen van het geluid op een geluidgevoelig gebouw:
 
 ##### Artikel 3.5. (bepalen: geluidaandachtsgebied)
 
-Een geluidaandachtsgebied wordt bepaald volgens [bijlage IVc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVc&z=2026-07-01&g=2026-07-01).
+Een geluidaandachtsgebied wordt bepaald volgens [bijlage IVc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVc&z=2026-08-18&g=2026-08-18).
 
 #### § 3.1.2. Geluid door gemeentewegen, lokale spoorwegen en waterschapswegen
 
@@ -590,17 +590,17 @@ Deze paragraaf is van toepassing op het bepalen van het geluid door gemeentewege
 
 ##### Artikel 3.7. (berekenen: basisgeluidemissie)
 
-De basisgeluidemissie, bedoeld in [artikel 3.27, eerste tot en met vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.27), wordt berekend volgens [bijlage IVd](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVd&z=2026-07-01&g=2026-07-01) en afgerond op één decimaal.
+De basisgeluidemissie, bedoeld in [artikel 3.27, eerste tot en met vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.27), wordt berekend volgens [bijlage IVd](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVd&z=2026-08-18&g=2026-08-18) en afgerond op één decimaal.
 
 ##### Artikel 3.8. (bepalen: geluid door wegen en spoorwegen)
 
 1. Het geluid door een weg of spoorweg, bedoeld in [artikel 3.24 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.24), wordt bepaald:
 
-- a. voor het geluid door een gemeenteweg of waterschapsweg op een geluidgevoelig gebouw: volgens [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-07-01&g=2026-07-01);
+- a. voor het geluid door een gemeenteweg of waterschapsweg op een geluidgevoelig gebouw: volgens [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-08-18&g=2026-08-18);
 
-- b. voor het geluid door een lokale spoorweg die niet bij omgevingsverordening is aangewezen op een geluidgevoelig gebouw: volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-07-01&g=2026-07-01).
+- b. voor het geluid door een lokale spoorweg die niet bij omgevingsverordening is aangewezen op een geluidgevoelig gebouw: volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-08-18&g=2026-08-18).
 
-2. In afwijking van [artikel 3.4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.4&z=2026-07-01&g=2026-07-01), worden de waarden van een weg of spoorweg bij de toepassing van [artikel 5.78af van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78af) en bij de toepassing van [artikel 21a van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=21a) niet afgerond.
+2. In afwijking van [artikel 3.4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.4&z=2026-08-18&g=2026-08-18), worden de waarden van een weg of spoorweg bij de toepassing van [artikel 5.78af van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78af) en bij de toepassing van [artikel 21a van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=21a) niet afgerond.
 
 ##### Artikel 3.9
 
@@ -614,9 +614,9 @@ Bij het bepalen van het geluidaandachtsgebied worden de geluidbrongegevens gebru
 
 De geluidbrongegevens zijn voor een gemeenteweg en een waterschapsweg:
 
-- a. per etmaalperiode het aantal motorvoertuigen, per categorie als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-07-01&g=2026-07-01), onder 2.1, dat gemiddeld over een kalenderjaar per uur op een geluidemissietraject passeert;
+- a. per etmaalperiode het aantal motorvoertuigen, per categorie als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-08-18&g=2026-08-18), onder 2.1, dat gemiddeld over een kalenderjaar per uur op een geluidemissietraject passeert;
 
-- b. de per geluidemissietraject representatief te achten gemiddelde snelheid per categorie motorvoertuigen als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-07-01&g=2026-07-01), onder 2.1;
+- b. de per geluidemissietraject representatief te achten gemiddelde snelheid per categorie motorvoertuigen als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-08-18&g=2026-08-18), onder 2.1;
 
 - c. de geluidbronregisterlijnen van de weg, vastgelegd in x- en y-coördinaten, uitgedrukt in het stelsel van de Rijksdriehoeksmeting; en
 
@@ -626,13 +626,13 @@ De geluidbrongegevens zijn voor een gemeenteweg en een waterschapsweg:
 
 De geluidbrongegevens zijn voor een spoorweg die niet bij omgevingsverordening is aangewezen:
 
-- a. per etmaalperiode het aantal locomotieven, treinstellen, rijtuigen of wagens per spoorvoertuigcategorie als bedoeld in [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-07-01&g=2026-07-01), onder 1.2, dat gemiddeld over een kalenderjaar per uur op een geluidemissietraject passeert met onderscheid naar de maximale snelheid van het type spoorvoertuig;
+- a. per etmaalperiode het aantal locomotieven, treinstellen, rijtuigen of wagens per spoorvoertuigcategorie als bedoeld in [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-08-18&g=2026-08-18), onder 1.2, dat gemiddeld over een kalenderjaar per uur op een geluidemissietraject passeert met onderscheid naar de maximale snelheid van het type spoorvoertuig;
 
 - b. de per geluidemissietraject, per etmaalperiode, representatief te achten snelheid met onderscheid naar doorgaande reizigersspoorvoertuigen, stoppende reizigersspoorvoertuigen en goederenspoorvoertuigen, waarbij wordt aangegeven of het remsysteem is ingeschakeld;
 
 - c. de geluidbronregisterlijnen van de spoorweg, vastgelegd in x- en y-coördinaten, uitgedrukt in het stelsel van de Rijksdriehoeksmeting;
 
-- d. de spoorstaafruwheid, bepaald volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-07-01&g=2026-07-01);
+- d. de spoorstaafruwheid, bepaald volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-08-18&g=2026-08-18);
 
 - e. de bovenbouwconstructie per spoor van de spoorweg; en
 
@@ -648,21 +648,21 @@ Deze paragraaf is van toepassing op het bepalen van het geluid door rijkswegen, 
 
 1. Het geluid door wegen en spoorwegen, bedoeld in [artikel 3.24 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.24), wordt bepaald:
 
-- a. voor het geluid door wegen op een geluidgevoelig gebouw: volgens [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-07-01&g=2026-07-01);
+- a. voor het geluid door wegen op een geluidgevoelig gebouw: volgens [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-08-18&g=2026-08-18);
 
-- b. voor het geluid door wegen op een geluidreferentiepunt: volgens [bijlage IVg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVg&z=2026-07-01&g=2026-07-01), waarbij de waarde wordt afgerond op één decimaal;
+- b. voor het geluid door wegen op een geluidreferentiepunt: volgens [bijlage IVg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVg&z=2026-08-18&g=2026-08-18), waarbij de waarde wordt afgerond op één decimaal;
 
-- c. voor het geluid door spoorwegen op een geluidgevoelig gebouw: volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-07-01&g=2026-07-01); en
+- c. voor het geluid door spoorwegen op een geluidgevoelig gebouw: volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-08-18&g=2026-08-18); en
 
-- d. voor het geluid door spoorwegen op een geluidreferentiepunt: volgens [bijlage IVg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVg&z=2026-07-01&g=2026-07-01), waarbij de waarde wordt afgerond op één decimaal.
+- d. voor het geluid door spoorwegen op een geluidreferentiepunt: volgens [bijlage IVg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVg&z=2026-08-18&g=2026-08-18), waarbij de waarde wordt afgerond op één decimaal.
 
 2. Bij het bepalen van het geluid door wegen en spoorwegen op een geluidgevoelig gebouw worden de geluidbrongegevens uit het geluidregister gebruikt.
 
 3. In afwijking van het tweede lid kunnen bij het bepalen van het geluid door een weg op een geluidgevoelig gebouw in plaats van de geluidbronregisterlijn ook alleen de bij de geluidbronregisterlijn behorende gegevens worden gebruikt.
 
-4. Bij het bepalen van het geluid op een geluidgevoelig gebouw of op een geluidreferentiepunt door een weg in de situatie van volledige benutting van de geluidproductieplafonds, wordt de plafondcorrectiewaarde uit het geluidregister opgeteld bij de geluidemissiegetallen LE, berekend volgens [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-07-01&g=2026-07-01).
+4. Bij het bepalen van het geluid op een geluidgevoelig gebouw of op een geluidreferentiepunt door een weg in de situatie van volledige benutting van de geluidproductieplafonds, wordt de plafondcorrectiewaarde uit het geluidregister opgeteld bij de geluidemissiegetallen LE, berekend volgens [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-08-18&g=2026-08-18).
 
-5. Bij het bepalen van het geluid op een geluidgevoelig gebouw of op een geluidreferentiepunt door een spoorweg in de situatie van volledige benutting van de geluidproductieplafonds, wordt de plafondcorrectiewaarde uit het geluidregister opgeteld bij de geluidemissiegetallen LE, berekend volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-07-01&g=2026-07-01).
+5. Bij het bepalen van het geluid op een geluidgevoelig gebouw of op een geluidreferentiepunt door een spoorweg in de situatie van volledige benutting van de geluidproductieplafonds, wordt de plafondcorrectiewaarde uit het geluidregister opgeteld bij de geluidemissiegetallen LE, berekend volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 3.15. (bepalen: afbakening gebied waarbinnen geluidgevoelige gebouwen in aanmerking worden genomen)
 
@@ -706,9 +706,9 @@ Bij het bepalen van het geluidaandachtsgebied worden de geluidbrongegevens gebru
 
 De geluidbrongegevens zijn voor een rijksweg en een provinciale weg:
 
-- a per etmaalperiode het aantal motorvoertuigen, per categorie als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-07-01&g=2026-07-01), onder 2.1, dat gemiddeld over een kalenderjaar per uur op een geluidemissietraject passeert;
+- a per etmaalperiode het aantal motorvoertuigen, per categorie als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-08-18&g=2026-08-18), onder 2.1, dat gemiddeld over een kalenderjaar per uur op een geluidemissietraject passeert;
 
-- b. de representatief te achten gemiddelde snelheid per geluidemissietraject per categorie motorvoertuigen als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-07-01&g=2026-07-01), onder 2.1;
+- b. de representatief te achten gemiddelde snelheid per geluidemissietraject per categorie motorvoertuigen als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-08-18&g=2026-08-18), onder 2.1;
 
 - c. de geluidbronregisterlijnen van de weg, vastgelegd in x-, y- en z-coördinaten, uitgedrukt in het stelsel van de Rijksdriehoeksmeting;
 
@@ -726,13 +726,13 @@ De geluidbrongegevens zijn voor een rijksweg en een provinciale weg:
 
 De geluidbrongegevens zijn voor een spoorweg:
 
-- a. per etmaalperiode het aantal locomotieven, treinstellen, rijtuigen of wagens per spoorvoertuigcategorie als bedoeld in [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-07-01&g=2026-07-01), onder 1.2, dat gemiddeld over een kalenderjaar per uur op een geluidemissietraject passeert met onderscheid naar de maximale snelheid van het type spoorvoertuig;
+- a. per etmaalperiode het aantal locomotieven, treinstellen, rijtuigen of wagens per spoorvoertuigcategorie als bedoeld in [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-08-18&g=2026-08-18), onder 1.2, dat gemiddeld over een kalenderjaar per uur op een geluidemissietraject passeert met onderscheid naar de maximale snelheid van het type spoorvoertuig;
 
 - b. de per geluidemissietraject, per etmaalperiode, representatief te achten snelheid met onderscheid naar doorgaande reizigersspoorvoertuigen, stoppende reizigersspoorvoertuigen, goederenspoorvoertuigen, rangerende spoorvoertuigen en stilstaande spoorvoertuigen, waarbij wordt aangegeven of het remsysteem is ingeschakeld;
 
 - c. de geluidbronregisterlijnen van de spoorweg, vastgelegd in x-, y- en z-coördinaten, uitgedrukt in het stelsel van de Rijksdriehoeksmeting;
 
-- d. de spoorstaafruwheid, bepaald volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-07-01&g=2026-07-01);
+- d. de spoorstaafruwheid, bepaald volgens [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-08-18&g=2026-08-18);
 
 - e. de bovenbouwconstructie per spoor van de spoorweg;
 
@@ -744,7 +744,7 @@ De geluidbrongegevens zijn voor een spoorweg:
 
 - i. de plafondcorrectiewaarde; en
 
-- j. de in [artikel 3.23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.4&artikel=3.23&z=2026-07-01&g=2026-07-01), genoemde geluidbrongegevens van stilstaande spoorvoertuigen op spoorwegemplacementen.
+- j. de in [artikel 3.23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.4&artikel=3.23&z=2026-08-18&g=2026-08-18), genoemde geluidbrongegevens van stilstaande spoorvoertuigen op spoorwegemplacementen.
 
 #### § 3.1.4. Geluid door industrieterreinen
 
@@ -756,9 +756,9 @@ Deze paragraaf is van toepassing op het bepalen van het geluid door industrieter
 
 1. Het geluid door industrieterreinen, bedoeld in [artikel 3.25 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.25), wordt bepaald:
 
-- a. op een geluidgevoelig gebouw: volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01); en
+- a. op een geluidgevoelig gebouw: volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18); en
 
-- b. op een geluidreferentiepunt: volgens [bijlage IVg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVg&z=2026-07-01&g=2026-07-01), waarbij de waarde wordt afgerond op één decimaal.
+- b. op een geluidreferentiepunt: volgens [bijlage IVg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVg&z=2026-08-18&g=2026-08-18), waarbij de waarde wordt afgerond op één decimaal.
 
 2. Bij het bepalen van het geluid door een industrieterrein op een geluidgevoelig gebouw worden de geluidbrongegevens uit het geluidregister gebruikt.
 
@@ -770,7 +770,7 @@ Bij het bepalen van het geluidaandachtsgebied van een industrieterrein worden de
 
 1. De geluidbrongegevens zijn voor een industrieterrein:
 
-- a. het immissierelevante geluidvermogen, bedoeld in paragraaf 2.3 van [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01), van een geluidbron met een bedrijfsduurcorrectie volgens de jaargemiddelde bedrijfssituatie, bedoeld in hoofdstuk 5 van bijlage IVh;
+- a. het immissierelevante geluidvermogen, bedoeld in paragraaf 2.3 van [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18), van een geluidbron met een bedrijfsduurcorrectie volgens de jaargemiddelde bedrijfssituatie, bedoeld in hoofdstuk 5 van bijlage IVh;
 
 - b. de locatie van de geluidbron, vastgelegd in x-, y- en z-coördinaten, uitgedrukt in het stelsel van de Rijksdriehoeksmeting;
 
@@ -778,7 +778,7 @@ Bij het bepalen van het geluidaandachtsgebied van een industrieterrein worden de
 
 - d. de afmetingen, locatie en eigenschappen van voor de geluidoverdracht relevante objecten binnen het industrieterrein, vastgelegd in x-, y- en z-coördinaten, uitgedrukt in het stelsel van de Rijksdriehoeksmeting; en
 
-- e. de luchtabsorptiecoëfficiënten, als van de luchtabsorptiecoëfficiënten uit [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01), tabel 3.1, is afgeweken.
+- e. de luchtabsorptiecoëfficiënten, als van de luchtabsorptiecoëfficiënten uit [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18), tabel 3.1, is afgeweken.
 
 #### § 3.1.5. Gecumuleerd geluid en gezamenlijk geluid
 
@@ -832,13 +832,13 @@ waarbij wordt verstaan onder:
 
 1. Bij het berekenen van het gecumuleerde geluid en het gezamenlijke geluid worden bij het berekenen van het geluid door luchtvaart, windturbines, buitenschietbanen en springterreinen als bedoeld in [artikel 3.38, derde lid, onder b, c en d, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.38), de geluidbrongegevens uit het geluidregister gebruikt.
 
-2. In afwijking van [artikel 3.4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.4&z=2026-07-01&g=2026-07-01), worden de waarden van het geluid door de geluidbronsoorten en andere geluidbronnen, bedoeld in de [artikelen 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-07-01&g=2026-07-01), en [3.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-07-01&g=2026-07-01) niet afgerond.
+2. In afwijking van [artikel 3.4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.4&z=2026-08-18&g=2026-08-18), worden de waarden van het geluid door de geluidbronsoorten en andere geluidbronnen, bedoeld in de [artikelen 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-08-18&g=2026-08-18), en [3.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-08-18&g=2026-08-18) niet afgerond.
 
 ##### Artikel 3.28. (bepalen: geluidbrongegevens windturbine bij gecumuleerd geluid en gezamenlijk geluid)
 
-Voor de toepassing van de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-07-01&g=2026-07-01), [3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-07-01&g=2026-07-01) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-07-01&g=2026-07-01) zijn de geluidbrongegevens voor een windturbine:
+Voor de toepassing van de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-08-18&g=2026-08-18), [3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-08-18&g=2026-08-18) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-08-18&g=2026-08-18) zijn de geluidbrongegevens voor een windturbine:
 
-- a. de emissieterm LE, bedoeld in paragraaf 2.4.1 van [bijlage IVi](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVi&z=2026-07-01&g=2026-07-01), van een windturbine;
+- a. de emissieterm LE, bedoeld in paragraaf 2.4.1 van [bijlage IVi](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVi&z=2026-08-18&g=2026-08-18), van een windturbine;
 
 - b. de locatie van het middelpunt van de rotor, vastgelegd in x-, y- en z-coördinaten, uitgedrukt in het stelsel van de Rijksdriehoeksmeting; en
 
@@ -846,9 +846,9 @@ Voor de toepassing van de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 3.28a. (bepalen: geluidbrongegevens en contouren buitenschietbanen en springterreinen bij gecumuleerd geluid en gezamenlijk geluid)
 
-Voor de toepassing van de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-07-01&g=2026-07-01), [3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-07-01&g=2026-07-01) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-07-01&g=2026-07-01) zijn de geluidbrongegevens voor een buitenschietbaan en springterrein de 1 dB Bs,dan-geluidcontouren, in de vorm van contourlijnen en contourvlakken, uitgedrukt in het stelsel van de Rijksdriehoeksmeting, waarbij:
+Voor de toepassing van de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-08-18&g=2026-08-18), [3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-08-18&g=2026-08-18) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-08-18&g=2026-08-18) zijn de geluidbrongegevens voor een buitenschietbaan en springterrein de 1 dB Bs,dan-geluidcontouren, in de vorm van contourlijnen en contourvlakken, uitgedrukt in het stelsel van de Rijksdriehoeksmeting, waarbij:
 
-- a. deze worden berekend met het rekenvoorschrift van [bijlage XVIIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIc&z=2026-07-01&g=2026-07-01), uitgaande van het geluidmodel dat hoort bij de activiteit die rechtmatig wordt verricht dan wel is toegelaten;
+- a. deze worden berekend met het rekenvoorschrift van [bijlage XVIIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIc&z=2026-08-18&g=2026-08-18), uitgaande van het geluidmodel dat hoort bij de activiteit die rechtmatig wordt verricht dan wel is toegelaten;
 
 - b. in afwijking van de paragrafen 4.5.3 en 4.5.4 van het rekenvoorschrift bedoeld onder a, geen rekening wordt gehouden met afschermende en reflecterende objecten buiten de locatie waarop de activiteit rechtmatig wordt verricht dan wel is toegelaten;
 
@@ -862,13 +862,13 @@ Voor de toepassing van de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 3.29. (bepalen: maatregelpunten en geluidbeperkende maatregelen)
 
-1. Het aantal maatregelpunten als bedoeld in [artikel 3.48 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.48) wordt bepaald volgens [bijlage IVj](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVj&z=2026-07-01&g=2026-07-01), tabellen 1 en 2.
+1. Het aantal maatregelpunten als bedoeld in [artikel 3.48 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.48) wordt bepaald volgens [bijlage IVj](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVj&z=2026-08-18&g=2026-08-18), tabellen 1 en 2.
 
 2. De maatregelpunten omvatten het totaal van de maatregelpunten van bestaande en nieuw te treffen geluidbeperkende maatregelen waarvoor maatregelpunten gelden, ten opzichte van een weg of spoorweg in de situatie zonder maatregelen, bedoeld in [artikel 3.48 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.48).
 
-3. Bij het toepassen van tabel 2 van [bijlage IVj](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVj&z=2026-07-01&g=2026-07-01) wordt de hoogte van een geluidscherm of geluidwal bepaald ten opzichte van de bovenkant van het spoor of de kantstreep van de weg aan de zijde van het scherm.
+3. Bij het toepassen van tabel 2 van [bijlage IVj](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVj&z=2026-08-18&g=2026-08-18) wordt de hoogte van een geluidscherm of geluidwal bepaald ten opzichte van de bovenkant van het spoor of de kantstreep van de weg aan de zijde van het scherm.
 
-4. De maatregelen, bedoeld in [bijlage IVj](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVj&z=2026-07-01&g=2026-07-01), tabel 3, zijn geluidbeperkende maatregelen als bedoeld in [artikel 3.49, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.49), waarvan de financiële doelmatigheid wordt bepaald door de werkelijke kosten van aanleg en onderhoud van die maatregel af te wegen tegen de geluidreductie die door de maatregel wordt bereikt en de daaruit voortvloeiende waarde van het geluid.
+4. De maatregelen, bedoeld in [bijlage IVj](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVj&z=2026-08-18&g=2026-08-18), tabel 3, zijn geluidbeperkende maatregelen als bedoeld in [artikel 3.49, vijfde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.49), waarvan de financiële doelmatigheid wordt bepaald door de werkelijke kosten van aanleg en onderhoud van die maatregel af te wegen tegen de geluidreductie die door de maatregel wordt bereikt en de daaruit voortvloeiende waarde van het geluid.
 
 #### Afdeling 3.2. Faunabeheereenheid waarvan Minister voor Natuur en Stikstof bevoegd gezag is
 
@@ -972,7 +972,7 @@ Voor de toepassing van de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:B
 
    - 2°. tien vragen over de onderwerpen, bedoeld in [artikel 11.87, tweede lid, onder c, e, g, h, j, k en l, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.87).
 
-2. De bekwaamheid, bedoeld in [artikel 11.90, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.90), wordt getoetst bij de beoordeling van twee stages van een jaar bij twee mentoren, aangewezen door de in [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.34&z=2026-07-01&g=2026-07-01) genoemde organisatie. De stages hebben tot doel om bekwaamheid te verwerven in de omgang met jachtvogels, het dragen en zeeg maken van jachtvogels, de verzorging van jachtvogels, het aanleggen van tuig, het doden van prooien en slachten van aasdieren, het aanleren van gewenst gedrag van jachtvogels, het voorkomen en afleren van ongewenst gedrag van jachtvogels, het zoeken en terugvangen van verloren jachtvogels, het beoordelen van de inzetbaarheid van jachtvogels, het toepassen van fretten en het gebruik van fluit, loer en balg.
+2. De bekwaamheid, bedoeld in [artikel 11.90, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.90), wordt getoetst bij de beoordeling van twee stages van een jaar bij twee mentoren, aangewezen door de in [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.34&z=2026-08-18&g=2026-08-18) genoemde organisatie. De stages hebben tot doel om bekwaamheid te verwerven in de omgang met jachtvogels, het dragen en zeeg maken van jachtvogels, de verzorging van jachtvogels, het aanleggen van tuig, het doden van prooien en slachten van aasdieren, het aanleren van gewenst gedrag van jachtvogels, het voorkomen en afleren van ongewenst gedrag van jachtvogels, het zoeken en terugvangen van verloren jachtvogels, het beoordelen van de inzetbaarheid van jachtvogels, het toepassen van fretten en het gebruik van fluit, loer en balg.
 
 3. Het examen voor een valkeniersactiviteit is alleen met gunstig gevolg afgelegd als degene die het examen aflegt:
 
@@ -1038,9 +1038,9 @@ Deze afdeling is van toepassing op het bepalen van de gelijke hoedanigheid en de
 
 ##### Artikel 3.37. (gelijke hoedanigheid en gelijkwaardige gebruiksmogelijkheden)
 
-1. De gelijke hoedanigheid van onroerende zaken wordt bepaald volgens de [artikelen 3.38 tot en met 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.4&artikel=3.38&z=2026-07-01&g=2026-07-01).
+1. De gelijke hoedanigheid van onroerende zaken wordt bepaald volgens de [artikelen 3.38 tot en met 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.4&artikel=3.38&z=2026-08-18&g=2026-08-18).
 
-2. De gelijkwaardige gebruiksmogelijkheden van onroerende zaken worden bepaald volgens de [artikelen 3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.4&artikel=3.41&z=2026-07-01&g=2026-07-01) en [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.4&artikel=3.42&z=2026-07-01&g=2026-07-01).
+2. De gelijkwaardige gebruiksmogelijkheden van onroerende zaken worden bepaald volgens de [artikelen 3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.4&artikel=3.41&z=2026-08-18&g=2026-08-18) en [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.4&artikel=3.42&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 3.38. (bepalen gelijke hoedanigheid: tijdstip en begrenzing)
 
@@ -1166,7 +1166,7 @@ Een certificatieschema schrijft in ieder geval voor dat bij het uitvoeren van de
 
 ##### Artikel 3.47. (certificatieschema: vakbekwaamheid installateur)
 
-Een certificatieschema schrijft voor dat de persoon die de inbedrijfstelling uitvoert, met het oog op het kunnen voldoen aan de in [artikel 3.46](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.46&z=2026-07-01&g=2026-07-01) bedoelde eisen, aantoonbaar in staat is:
+Een certificatieschema schrijft voor dat de persoon die de inbedrijfstelling uitvoert, met het oog op het kunnen voldoen aan de in [artikel 3.46](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.46&z=2026-08-18&g=2026-08-18) bedoelde eisen, aantoonbaar in staat is:
 
 - a. de opstelruimte voor gasverbrandingsinstallaties, in ieder geval inhoudende de ventilatievoorziening, te beoordelen;
 
@@ -1180,7 +1180,7 @@ Een certificatieschema schrijft voor dat de persoon die de inbedrijfstelling uit
 
 - f. gasverbrandingsinstallaties in bedrijf te stellen;
 
-- g. de metingen en controles, bedoeld in [artikel 3.46, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.46&z=2026-07-01&g=2026-07-01), te verrichten alsmede de resultaten van deze metingen en controles te interpreteren; en
+- g. de metingen en controles, bedoeld in [artikel 3.46, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.46&z=2026-08-18&g=2026-08-18), te verrichten alsmede de resultaten van deze metingen en controles te interpreteren; en
 
 - h. voorlichting te geven aan de gebruiker over het functioneren van de gasverbrandingsinstallatie in samenhang met het systeem, inclusief luchttoevoer, rookgasafvoer en plaatsing in het gebouw.
 
@@ -1350,7 +1350,7 @@ Het instrument voor kwaliteitsborging schrijft voor dat alle gegevens en beschei
 
 ##### Artikel 3.54. (formulier verklaring kwaliteitsborger)
 
-Het formulier voor de verklaring, bedoeld in [artikel 3.86, vierde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.86), is vastgelegd in [bijlage IVK](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVk&z=2026-07-01&g=2026-07-01).
+Het formulier voor de verklaring, bedoeld in [artikel 3.86, vierde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.86), is vastgelegd in [bijlage IVK](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVk&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 3.55. (verdeelsleutel en doorberekenen toezichtkosten)
 
@@ -1374,7 +1374,7 @@ P: totaal aantal utiliteitsbouw plus infrastructuurprojecten per gevolgklasse, z
 
 ##### Artikel 3.56. (gegevens en bescheiden aanvraag toelating instrument)
 
-De gegevens en bescheiden, bedoeld in [artikel 10.26b, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.26b), zijn vastgelegd in [bijlage IVL](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVl&z=2026-07-01&g=2026-07-01).
+De gegevens en bescheiden, bedoeld in [artikel 10.26b, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.26b), zijn vastgelegd in [bijlage IVL](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVl&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 3.7. AERIUS Register
 
@@ -1398,7 +1398,7 @@ De gegevens en bescheiden, bedoeld in [artikel 10.26b, eerste lid, van het Omgev
 
 - h. projecten waarvoor gedeputeerde staten bevoegd gezag zijn voor de omgevingsvergunning voor een Natura 2000-activiteit of waarvoor de voorgenomen beslissing op de aanvraag om een dergelijke vergunning op grond van [artikel 4.25 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=4.25) instemming van gedeputeerde staten behoeft.
 
-2. De compartimenten voor de categorieën projecten, bedoeld in het eerste lid, onder a, b en c, gelden als een gezamenlijk compartiment waarvan de stikstofdepositieruimte beschikbaar wordt gesteld als bepaald in [artikel 3.61](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.61&z=2026-07-01&g=2026-07-01).
+2. De compartimenten voor de categorieën projecten, bedoeld in het eerste lid, onder a, b en c, gelden als een gezamenlijk compartiment waarvan de stikstofdepositieruimte beschikbaar wordt gesteld als bepaald in [artikel 3.61](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.61&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 3.58. (maatregelen waardoor stikstofdepositieruimte ontstaat)
 
@@ -1448,19 +1448,19 @@ De gegevens en bescheiden, bedoeld in [artikel 10.26b, eerste lid, van het Omgev
 
 1. De Minister van Landbouw, Visserij, Voedselzekerheid en Natuur draagt zorg voor het opnemen van stikstofdepositieruimte in AERIUS Register die ontstaat door:
 
-- a. een maatregel als bedoeld in [artikel 3.58, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01); en
+- a. een maatregel als bedoeld in [artikel 3.58, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18); en
 
-- b. een maatregel als bedoeld in [artikel 3.58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01), voor zover deze niet door een ander bestuursorgaan is aangemerkt als maatregel als bedoeld in artikel 3.58, eerste lid, onder d, aanhef en onder 1° tot en met 5°.
+- b. een maatregel als bedoeld in [artikel 3.58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18), voor zover deze niet door een ander bestuursorgaan is aangemerkt als maatregel als bedoeld in artikel 3.58, eerste lid, onder d, aanhef en onder 1° tot en met 5°.
 
-2. De ministers die het aangaat dragen zorg voor het opnemen van stikstofdepositieruimte in AERIUS Register die ontstaat door een maatregel als bedoeld in [artikel 3.58, eerste lid, onder d, aanhef en onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01).
+2. De ministers die het aangaat dragen zorg voor het opnemen van stikstofdepositieruimte in AERIUS Register die ontstaat door een maatregel als bedoeld in [artikel 3.58, eerste lid, onder d, aanhef en onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18).
 
-3. Gedeputeerde staten dragen zorg voor het opnemen van stikstofdepositieruimte in AERIUS Register die ontstaat door een maatregel als bedoeld in [artikel 3.58, eerste lid, onder d, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01).
+3. Gedeputeerde staten dragen zorg voor het opnemen van stikstofdepositieruimte in AERIUS Register die ontstaat door een maatregel als bedoeld in [artikel 3.58, eerste lid, onder d, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18).
 
-4. De ministers die het aangaat en gedeputeerde staten kunnen stikstofdepositieruimte in AERIUS Register opnemen waarvan vervolgens ten hoogste 0,05 mol stikstof per hectare per jaar kan worden gebruikt in een besluit waarbij een project wordt toegestaan als bedoeld in [artikel 8.74e van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.74e), als de stikstofdepositieruimte ontstaat door een maatregel als bedoeld in [artikel 3.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01).
+4. De ministers die het aangaat en gedeputeerde staten kunnen stikstofdepositieruimte in AERIUS Register opnemen waarvan vervolgens ten hoogste 0,05 mol stikstof per hectare per jaar kan worden gebruikt in een besluit waarbij een project wordt toegestaan als bedoeld in [artikel 8.74e van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.74e), als de stikstofdepositieruimte ontstaat door een maatregel als bedoeld in [artikel 3.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 3.60. (voorwaarden vullen compartimenten in AERIUS Register)
 
-1. De ministers die het aangaat en gedeputeerde staten nemen ten hoogste 70% van de vermindering van stikstofdepositie door een maatregel als bedoeld in [artikel 3.58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01), als stikstofdepositieruimte in AERIUS Register op. De beperking tot ten hoogste 70% geldt niet voor stikstofdepositieruimte die het gevolg is van een maatregel waarbij al eerder aan deze beperking toepassing is gegeven.
+1. De ministers die het aangaat en gedeputeerde staten nemen ten hoogste 70% van de vermindering van stikstofdepositie door een maatregel als bedoeld in [artikel 3.58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18), als stikstofdepositieruimte in AERIUS Register op. De beperking tot ten hoogste 70% geldt niet voor stikstofdepositieruimte die het gevolg is van een maatregel waarbij al eerder aan deze beperking toepassing is gegeven.
 
 2. De ministers die het aangaat en gedeputeerde staten nemen stikstofdepositieruimte alleen in AERIUS Register op:
 
@@ -1472,13 +1472,13 @@ De gegevens en bescheiden, bedoeld in [artikel 10.26b, eerste lid, van het Omgev
 
 ##### Artikel 3.61. (bestemming stikstofdepositieruimte SSRS-bank)
 
-1. Stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [3.58, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01), is alleen beschikbaar voor:
+1. Stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [3.58, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18), is alleen beschikbaar voor:
 
 - a. gemelde PAS-projecten;
 
-- b. woningbouwprojecten als bedoeld in [artikel 3.57, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01); en
+- b. woningbouwprojecten als bedoeld in [artikel 3.57, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18); en
 
-- c. projecten ten aanzien van wegen in beheer bij het Rijk als bedoeld in [artikel 3.57, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01).
+- c. projecten ten aanzien van wegen in beheer bij het Rijk als bedoeld in [artikel 3.57, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18).
 
 2. Stikstofdepositieruimte als bedoeld in het eerste lid is gedurende de eerste 17 weken na de datum waarop zij in AERIUS Register is opgenomen, alleen beschikbaar voor gemelde PAS-projecten.
 
@@ -1488,19 +1488,19 @@ De gegevens en bescheiden, bedoeld in [artikel 10.26b, eerste lid, van het Omgev
 
    - 1°. is aangevraagd; of
 
-   - 2°. naar alle waarschijnlijkheid zal worden aangevraagd voordat in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=II&z=2026-07-01&g=2026-07-01) een nieuwe versie van AERIUS Register wordt aangewezen; en
+   - 2°. naar alle waarschijnlijkheid zal worden aangevraagd voordat in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=II&z=2026-08-18&g=2026-08-18) een nieuwe versie van AERIUS Register wordt aangewezen; en
 
 - b. daarbij een berekening op hexagoonniveau van de benodigde stikstofdepositieruimte voor het project heeft overgelegd.
 
 ##### Artikel 3.62. (bestemming stikstofdepositieruimte verkregen door maatregelen voor gemelde PAS-projecten)
 
-Stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [artikel 3.58, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01), is alleen beschikbaar voor gemelde PAS-projecten.
+Stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [artikel 3.58, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18), is alleen beschikbaar voor gemelde PAS-projecten.
 
 ##### Artikel 3.63. (bestemming stikstofdepositieruimte verkregen door maatregelen Ministers)
 
 1. Stikstofdepositieruimte die is verkregen door een maatregel die is getroffen door, onder verantwoordelijkheid van, na afstemming met of op verzoek van de volgende ministers, is alleen beschikbaar voor de volgende projecten:
 
-- a. de Minister van Volkshuisvesting en Ruimtelijke Ordening: rijksvastgoedprojecten en woningbouwprojecten als bedoeld in [artikel 3.57, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01);
+- a. de Minister van Volkshuisvesting en Ruimtelijke Ordening: rijksvastgoedprojecten en woningbouwprojecten als bedoeld in [artikel 3.57, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18);
 
 - b. de Minister van Infrastructuur en Waterstaat: projecten van die minister;
 
@@ -1508,17 +1508,17 @@ Stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [arti
 
 - d. de Minister van Defensie: projecten van die minister.
 
-2. De minister die het aangaat kan de stikstofdepositieruimte op verzoek van een andere minister of gedeputeerde staten ook beschikbaar stellen voor andere projecten als bedoeld in [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01).
+2. De minister die het aangaat kan de stikstofdepositieruimte op verzoek van een andere minister of gedeputeerde staten ook beschikbaar stellen voor andere projecten als bedoeld in [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 3.64. (bestemming stikstofdepositieruimte verkregen door maatregelen gedeputeerde staten)
 
-1. Stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [3.58, eerste lid, onder d, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01), is alleen beschikbaar voor projecten waarvoor gedeputeerde staten van de betrokken provincie bevoegd gezag zijn voor de aanvraag om een omgevingsvergunning voor een Natura 2000-activiteit of waarvoor de voorgenomen beslissing op de aanvraag om een dergelijke vergunning op grond van [artikel 4.25 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=4.25) instemming van gedeputeerde staten behoeft.
+1. Stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [3.58, eerste lid, onder d, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18), is alleen beschikbaar voor projecten waarvoor gedeputeerde staten van de betrokken provincie bevoegd gezag zijn voor de aanvraag om een omgevingsvergunning voor een Natura 2000-activiteit of waarvoor de voorgenomen beslissing op de aanvraag om een dergelijke vergunning op grond van [artikel 4.25 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=4.25) instemming van gedeputeerde staten behoeft.
 
-2. Gedeputeerde staten kunnen de stikstofdepositieruimte op verzoek van een minister of gedeputeerde staten van een andere provincie ook beschikbaar stellen voor andere projecten als bedoeld in [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01).
+2. Gedeputeerde staten kunnen de stikstofdepositieruimte op verzoek van een minister of gedeputeerde staten van een andere provincie ook beschikbaar stellen voor andere projecten als bedoeld in [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 3.65. (bestemming stikstofdepositieruimte van ten hoogste 0,05 mol)
 
-In afwijking van de [artikelen 3.61 tot en met 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.61&z=2026-07-01&g=2026-07-01) is stikstofdepositieruimte ten aanzien waarvan [artikel 3.59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.59&z=2026-07-01&g=2026-07-01), is toegepast, beschikbaar voor alle in [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01) bedoelde projecten.
+In afwijking van de [artikelen 3.61 tot en met 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.61&z=2026-08-18&g=2026-08-18) is stikstofdepositieruimte ten aanzien waarvan [artikel 3.59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.59&z=2026-08-18&g=2026-08-18), is toegepast, beschikbaar voor alle in [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18) bedoelde projecten.
 
 ##### Artikel 3.66. (berekening beschikbare stikstofdepositieruimte)
 
@@ -1540,11 +1540,11 @@ In afwijking van de [artikelen 3.61 tot en met 3.64](https://wetten.overheid.nl
 
 1. Stikstofdepositieruimte kan worden gereserveerd door:
 
-- a. het bevoegd gezag voor de aanvraag om een omgevingsvergunning voor een Natura 2000-activiteit voor projecten als bedoeld in [artikel 3.57, eerste lid, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01); en
+- a. het bevoegd gezag voor de aanvraag om een omgevingsvergunning voor een Natura 2000-activiteit voor projecten als bedoeld in [artikel 3.57, eerste lid, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18); en
 
-- b. gedeputeerde staten voor andere projecten dan bedoeld in [artikel 3.57, eerste lid,onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01), waarvoor zij het bevoegd gezag zijn voor de aanvraag om een omgevingsvergunning voor een Natura 2000-activiteit of waarvoor de voorgenomen beslissing op de aanvraag om een dergelijke vergunning op grond van [artikel 4.25 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=4.25) instemming van gedeputeerde staten behoeft.
+- b. gedeputeerde staten voor andere projecten dan bedoeld in [artikel 3.57, eerste lid,onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18), waarvoor zij het bevoegd gezag zijn voor de aanvraag om een omgevingsvergunning voor een Natura 2000-activiteit of waarvoor de voorgenomen beslissing op de aanvraag om een dergelijke vergunning op grond van [artikel 4.25 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=4.25) instemming van gedeputeerde staten behoeft.
 
-2. Stikstofdepositieruimte voor projecten als bedoeld in [artikel 3.57, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-07-01&g=2026-07-01), ten aanzien waarvan [artikel 3.69](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.69&z=2026-07-01&g=2026-07-01) is toegepast, kan worden gereserveerd nadat 17 weken zijn verstreken na de datum waarop de stikstofdepositieruimte in AERIUS Register is opgenomen.
+2. Stikstofdepositieruimte voor projecten als bedoeld in [artikel 3.57, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.57&z=2026-08-18&g=2026-08-18), ten aanzien waarvan [artikel 3.69](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.69&z=2026-08-18&g=2026-08-18) is toegepast, kan worden gereserveerd nadat 17 weken zijn verstreken na de datum waarop de stikstofdepositieruimte in AERIUS Register is opgenomen.
 
 3. Gedeputeerde staten reserveren alleen stikstofdepositieruimte voor een woningbouwproject als de woningen niet worden aangesloten op een distributienet voor aardgas.
 
@@ -1552,7 +1552,7 @@ In afwijking van de [artikelen 3.61 tot en met 3.64](https://wetten.overheid.nl
 
 ##### Artikel 3.68. (reservering stikstofdepositieruimte voor woningbouwcluster)
 
-1. Bij de aanvraag van het college van burgemeester en wethouders om een reservering voor een woningbouwcluster als bedoeld in [artikel 10.27, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=10.27) wordt een berekening overgelegd waaruit blijkt dat in AERIUS Register binnen de stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [3.58, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-07-01&g=2026-07-01), voldoende stikstofdepositieruimte beschikbaar is voor het woningbouwcluster.
+1. Bij de aanvraag van het college van burgemeester en wethouders om een reservering voor een woningbouwcluster als bedoeld in [artikel 10.27, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=10.27) wordt een berekening overgelegd waaruit blijkt dat in AERIUS Register binnen de stikstofdepositieruimte die is verkregen door een maatregel als bedoeld in [3.58, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.58&z=2026-08-18&g=2026-08-18), voldoende stikstofdepositieruimte beschikbaar is voor het woningbouwcluster.
 
 2. Gedeputeerde staten beslissen over de reservering in de volgorde waarin de aanvragen zijn ontvangen.
 
@@ -1594,7 +1594,7 @@ Het bevoegd gezag geeft bij het reserveren van stikstofdepositieruimte voor geme
 
 ##### Artikel 3.71. (reservering stikstofdepositieruimte voor gemeld PAS-project na verdeling ruimte en ontvangst aanvraag)
 
-1. Het bevoegd gezag kan voor gemelde PAS-projecten alleen stikstofdepositieruimte reserveren als deze zijn geselecteerd met toepassing van [artikel 3.70](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.70&z=2026-07-01&g=2026-07-01).
+1. Het bevoegd gezag kan voor gemelde PAS-projecten alleen stikstofdepositieruimte reserveren als deze zijn geselecteerd met toepassing van [artikel 3.70](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.7&artikel=3.70&z=2026-08-18&g=2026-08-18).
 
 2. Het bevoegd gezag kan de ruimte reserveren na ontvangst van een aanvraag om een omgevingsvergunning voor een Natura 2000-activiteit voor dat project.
 
@@ -1638,17 +1638,17 @@ Stikstofdepositie in het register wordt uitgedrukt in mol per hectare per jaar.
 
 ##### Artikel 4.1. (bevoegd gezag)
 
-[Afdeling 2.2 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&afdeling=2.2) is van overeenkomstige toepassing op het stellen van een maatwerkvoorschrift of het beslissen op een aanvraag om toestemming om een gelijkwaardige maatregel te treffen voor de [afdelingen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&z=2026-07-01&g=2026-07-01).
+[Afdeling 2.2 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&afdeling=2.2) is van overeenkomstige toepassing op het stellen van een maatwerkvoorschrift of het beslissen op een aanvraag om toestemming om een gelijkwaardige maatregel te treffen voor de [afdelingen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 4.2. (normadressaat)
 
-Aan de [afdelingen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&z=2026-07-01&g=2026-07-01) wordt voldaan door degene die de activiteit verricht. Diegene draagt zorg voor de naleving van de regels over de activiteit.
+Aan de [afdelingen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&z=2026-08-18&g=2026-08-18) wordt voldaan door degene die de activiteit verricht. Diegene draagt zorg voor de naleving van de regels over de activiteit.
 
 ##### Artikel 4.3. (maatwerkvoorschriften of vergunningvoorschriften)
 
-1. Een maatwerkvoorschrift kan worden gesteld, of een vergunningvoorschrift als bedoeld in [artikel 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) kan aan een omgevingsvergunning als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) worden verbonden, over de [afdelingen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&z=2026-07-01&g=2026-07-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.4&z=2026-07-01&g=2026-07-01).
+1. Een maatwerkvoorschrift kan worden gesteld, of een vergunningvoorschrift als bedoeld in [artikel 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) kan aan een omgevingsvergunning als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) worden verbonden, over de [afdelingen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&z=2026-08-18&g=2026-08-18) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.4&z=2026-08-18&g=2026-08-18).
 
-2. Met een maatwerkvoorschrift of een vergunningvoorschrift kan worden afgeweken van de [afdelingen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&z=2026-07-01&g=2026-07-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.4&z=2026-07-01&g=2026-07-01), tenzij anders is bepaald.
+2. Met een maatwerkvoorschrift of een vergunningvoorschrift kan worden afgeweken van de [afdelingen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&z=2026-08-18&g=2026-08-18) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.4&z=2026-08-18&g=2026-08-18), tenzij anders is bepaald.
 
 3. Een maatwerkvoorschrift wordt niet gesteld als over dat onderwerp een voorschrift aan een omgevingsvergunning als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) kan worden verbonden.
 
@@ -1662,13 +1662,13 @@ Deze afdeling is van toepassing op het houden van landbouwhuisdieren in een dier
 
 ##### Artikel 4.5. (beschrijving huisvestingssysteem en aanvullende techniek)
 
-Met het oog op het beperken van emissies in de lucht voldoet een huisvestingssysteem of een aanvullende techniek aan de systeembeschrijving voor dat huisvestingssysteem of voor die aanvullende techniek, voor zover in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) respectievelijk [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-07-01&g=2026-07-01) een aanduiding van die systeembeschrijving is opgenomen.
+Met het oog op het beperken van emissies in de lucht voldoet een huisvestingssysteem of een aanvullende techniek aan de systeembeschrijving voor dat huisvestingssysteem of voor die aanvullende techniek, voor zover in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) respectievelijk [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-08-18&g=2026-08-18) een aanduiding van die systeembeschrijving is opgenomen.
 
 ##### Artikel 4.6. (rekenregels emissie ammoniak)
 
-1. De emissie van ammoniak per dierplaats per jaar, bedoeld in de [artikelen 4.818](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.818), [4.819](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.819) en [4.820 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.820), is gelijk aan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde emissiefactor voor ammoniak voor het in het dierenverblijf toegepaste huisvestingssysteem.
+1. De emissie van ammoniak per dierplaats per jaar, bedoeld in de [artikelen 4.818](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.818), [4.819](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.819) en [4.820 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.820), is gelijk aan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde emissiefactor voor ammoniak voor het in het dierenverblijf toegepaste huisvestingssysteem.
 
-2. In afwijking van het eerste lid wordt de emissie van ammoniak per dierplaats per jaar bij toepassing van een aanvullende techniek berekend met het voor die techniek in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-07-01&g=2026-07-01) vastgestelde reductiepercentage en de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde emissiefactor voor ammoniak volgens de formule:
+2. In afwijking van het eerste lid wordt de emissie van ammoniak per dierplaats per jaar bij toepassing van een aanvullende techniek berekend met het voor die techniek in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-08-18&g=2026-08-18) vastgestelde reductiepercentage en de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde emissiefactor voor ammoniak volgens de formule:
 
 - a. als één aanvullende techniek wordt toegepast, anders dan in een situatie als bedoeld onder b: *emissie van ammoniak = emissiefactor ammoniak huisvestingssysteem x (100% – reductiepercentage ammoniak aanvullende techniek);*
 
@@ -1676,15 +1676,15 @@ Met het oog op het beperken van emissies in de lucht voldoet een huisvestingssys
 
 - c. als een aanvullende techniek in combinatie met een andere aanvullende techniek wordt toegepast: *emissie van ammoniak = emissiefactor ammoniak huisvestingssysteem x (100% – reductiepercentage ammoniak aanvullende techniek A) x (100% – reductiepercentage ammoniak aanvullende techniek B).*
 
-3. Als de Minister van Infrastructuur en Waterstaat voor de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) op grond van de [Wet ammoniak en veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0013402) een bijzondere emissiefactor voor ammoniak voor een huisvestingssysteem heeft vastgesteld en het huisvestingssysteem nog niet is vermeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) of in die bijlage is vermeld met een hogere emissiefactor, wordt in afwijking van het eerste en tweede lid de bijzondere emissiefactor voor ammoniak gebruikt voor het berekenen van de emissie, bedoeld in het eerste en tweede lid.
+3. Als de Minister van Infrastructuur en Waterstaat voor de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) op grond van de [Wet ammoniak en veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0013402) een bijzondere emissiefactor voor ammoniak voor een huisvestingssysteem heeft vastgesteld en het huisvestingssysteem nog niet is vermeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) of in die bijlage is vermeld met een hogere emissiefactor, wordt in afwijking van het eerste en tweede lid de bijzondere emissiefactor voor ammoniak gebruikt voor het berekenen van de emissie, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 4.7. (rekenregels emissie fijnstof)
 
-1. De emissie van PM10, bedoeld in [artikel 4.823 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.823), is gelijk aan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde emissiefactor voor PM10, voor het in het dierenverblijf toegepaste huisvestingssysteem.
+1. De emissie van PM10, bedoeld in [artikel 4.823 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.823), is gelijk aan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde emissiefactor voor PM10, voor het in het dierenverblijf toegepaste huisvestingssysteem.
 
 2. In afwijking van het eerste lid wordt de emissie van PM10 per dierplaats per jaar als volgt berekend:
 
-- a. als één aanvullende techniek wordt toegepast: met het voor die techniek in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-07-01&g=2026-07-01) vastgestelde reductiepercentage en de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde emissiefactor voor PM10 volgens de formule: *emissie van PM10 = emissiefactor PM10 huisvestingssysteem x (100% – verwijderingspercentage PM10 aanvullende techniek);* en
+- a. als één aanvullende techniek wordt toegepast: met het voor die techniek in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-08-18&g=2026-08-18) vastgestelde reductiepercentage en de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde emissiefactor voor PM10 volgens de formule: *emissie van PM10 = emissiefactor PM10 huisvestingssysteem x (100% – verwijderingspercentage PM10 aanvullende techniek);* en
 
 - b. als meer dan een aanvullende techniek wordt toegepast: met het volgens rekenmodel Vee-combistof berekende reductiepercentage voor de combinatie van aanvullende technieken volgens de volgende formule: *emissie van PM10 = emissiefactor PM10 huisvestingssysteem x (100% – reductiepercentage PM10 aanvullende technieken).*
 
@@ -1716,7 +1716,7 @@ Deze afdeling is van toepassing op het berekenen van afstanden voor:
 
 ##### Artikel 4.10a. (tijdelijke uitzondering windparken)
 
-In afwijking van [artikel 4.10, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&artikel=4.10&z=2026-07-01&g=2026-07-01), is [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&z=2026-07-01&g=2026-07-01) niet van toepassing op het opwekken van elektriciteit met een windturbine, als de activiteit als vergunningplichtig is aangewezen in [artikel 3.13 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.13).
+In afwijking van [artikel 4.10, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&artikel=4.10&z=2026-08-18&g=2026-08-18), is [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&z=2026-08-18&g=2026-08-18) niet van toepassing op het opwekken van elektriciteit met een windturbine, als de activiteit als vergunningplichtig is aangewezen in [artikel 3.13 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.13).
 
 ##### Artikel 4.11. (methode berekenen afstanden plaatsgebonden risico)
 
@@ -1752,7 +1752,7 @@ Op de berekeningen, bedoeld in [artikel 4.1115 van het Besluit activiteiten leef
 
 ##### Artikel 4.12a. (toepassingsbereik)
 
-1. [Afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&z=2026-07-01&g=2026-07-01) en deze afdeling zijn tot en met 31 december 2026 of zoveel eerder als bij ministerieel besluit is bepaald van toepassing op het opwekken van elektriciteit met een windturbine, als de activiteit als vergunningplichtig is aangewezen in [artikel 3.13 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.13) en daarvoor:
+1. [Afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&z=2026-08-18&g=2026-08-18) en deze afdeling zijn tot en met 31 december 2026 of zoveel eerder als bij ministerieel besluit is bepaald van toepassing op het opwekken van elektriciteit met een windturbine, als de activiteit als vergunningplichtig is aangewezen in [artikel 3.13 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.13) en daarvoor:
 
 - a. uiterlijk op 30 juni 2021 een omgevingsvergunning is verleend als bedoeld in [artikel 2.1, eerste lid, onder e of i, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1);
 
@@ -1764,13 +1764,13 @@ Op de berekeningen, bedoeld in [artikel 4.1115 van het Besluit activiteiten leef
 
 ##### Artikel 4.12b. (geluid: meet- en rekenbepalingen)
 
-Op het bepalen van het geluid Lden of Lnight, bedoeld in [artikel 4.430c, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.430c), is [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.8&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bepalen van het geluid Lden of Lnight, bedoeld in [artikel 4.430c, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.430c), is [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.8&z=2026-08-18&g=2026-08-18) van toepassing.
 
 ##### Artikel 4.12c. (registratie gegevens windturbines)
 
-1. De emissieterm LE, bedoeld in [artikel 4.430d, eerste lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.430d), wordt bepaald volgens onderdeel 3.1 van [bijlage XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXV&z=2026-07-01&g=2026-07-01).
+1. De emissieterm LE, bedoeld in [artikel 4.430d, eerste lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.430d), wordt bepaald volgens onderdeel 3.1 van [bijlage XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXV&z=2026-08-18&g=2026-08-18).
 
-2. De windsnelheid op ashoogte, bedoeld in [artikel 4.430d, eerste lid, onder b, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.430d), wordt bepaald volgens paragraaf 1.6 van [bijlage XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXV&z=2026-07-01&g=2026-07-01).
+2. De windsnelheid op ashoogte, bedoeld in [artikel 4.430d, eerste lid, onder b, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.430d), wordt bepaald volgens paragraaf 1.6 van [bijlage XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXV&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 4.12d. (overgangsrecht: cumulatie geluid)
 
@@ -1780,9 +1780,9 @@ Als voor een windturbine of een combinatie van windturbines ten behoeve van het 
 
 ##### Artikel 4.12e. (meet- en rekenregels geluid)
 
-1. Het langtijdgemiddelde beoordelingsniveau LAr,LT en het maximaal geluidniveau LAmax, bedoeld in [artikel 4.1121a, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1121a), en het langtijdgemiddelde beoordelingsniveau LAr,LT, bedoeld in [artikel 5.39, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.39), worden bepaald volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01).
+1. Het langtijdgemiddelde beoordelingsniveau LAr,LT en het maximaal geluidniveau LAmax, bedoeld in [artikel 4.1121a, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1121a), en het langtijdgemiddelde beoordelingsniveau LAr,LT, bedoeld in [artikel 5.39, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.39), worden bepaald volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18).
 
-2. De [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.5&z=2026-07-01&g=2026-07-01) en [6.6, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.6&z=2026-07-01&g=2026-07-01), zijn van overeenkomstige toepassing.
+2. De [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.5&z=2026-08-18&g=2026-08-18) en [6.6, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.6&z=2026-08-18&g=2026-08-18), zijn van overeenkomstige toepassing.
 
 #### Afdeling 4.3c. Het op of in de bodem brengen van meststoffen of zuiveringsslib: aanwijzing gewassen
 
@@ -1792,19 +1792,19 @@ Deze afdeling is van toepassing op het op of in de bodem brengen van meststoffen
 
 ##### Artikel 4.12g. (aanwijzing vroege teelten)
 
-Als vroege teelten als bedoeld in de [artikelen 4.1188](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1188), [4.1188a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1188a), [4.1207](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1207) en [4.1207a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1207a) worden aangewezen de gewassen, genoemd in [bijlage VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIa&z=2026-07-01&g=2026-07-01).
+Als vroege teelten als bedoeld in de [artikelen 4.1188](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1188), [4.1188a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1188a), [4.1207](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1207) en [4.1207a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1207a) worden aangewezen de gewassen, genoemd in [bijlage VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIa&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 4.12h. (aanwijzing rustgewassen)
 
-Als rustgewassen als bedoeld in de [artikelen 4.1194a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1194a) en [4.1212a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1212a) worden aangewezen de gewassen, genoemd in [bijlage VIB](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIb&z=2026-07-01&g=2026-07-01).
+Als rustgewassen als bedoeld in de [artikelen 4.1194a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1194a) en [4.1212a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1212a) worden aangewezen de gewassen, genoemd in [bijlage VIB](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIb&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 4.4. Maatregelen ter verduurzaming van het energiegebruik met betrekking tot milieubelastende activiteiten
 
 ##### Artikel 4.14. (maatregelen ter verduurzaming van het energiegebruik)
 
-1. De maatregelen, bedoeld in [artikel 5.15, vierde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15), zijn de maatregelen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VII&z=2026-07-01&g=2026-07-01).
+1. De maatregelen, bedoeld in [artikel 5.15, vierde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15), zijn de maatregelen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VII&z=2026-08-18&g=2026-08-18).
 
-2. In afwijking van het eerste lid zijn de maatregelen, bedoeld in [artikel 5.15, vierde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15), de maatregelen in [bijlage VIIaa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIaa&z=2026-07-01&g=2026-07-01), als sprake is van:
+2. In afwijking van het eerste lid zijn de maatregelen, bedoeld in [artikel 5.15, vierde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15), de maatregelen in [bijlage VIIaa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIaa&z=2026-08-18&g=2026-08-18), als sprake is van:
 
 - a. een activiteit als bedoeld in [artikel 3.205 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.205); of
 
@@ -1812,15 +1812,15 @@ Als rustgewassen als bedoeld in de [artikelen 4.1194a](https://wetten.overheid.n
 
 ##### Artikel 4.14a. (rekenmethode maatregelen ter verduurzaming van het energiegebruik)
 
-1. De terugverdientijd van maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 5.15, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15) wordt bepaald volgens de in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XV&z=2026-07-01&g=2026-07-01) opgenomen rekenmethodiek.
+1. De terugverdientijd van maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 5.15, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15) wordt bepaald volgens de in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XV&z=2026-08-18&g=2026-08-18) opgenomen rekenmethodiek.
 
-2. In afwijking van het eerste lid wordt de terugverdientijd van maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 5.15, eerste lid, van het Besluit activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15) leefomgeving bepaald volgens de in [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVa&z=2026-07-01&g=2026-07-01) opgenomen rekenmethodiek als sprake is van:
+2. In afwijking van het eerste lid wordt de terugverdientijd van maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 5.15, eerste lid, van het Besluit activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15) leefomgeving bepaald volgens de in [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVa&z=2026-08-18&g=2026-08-18) opgenomen rekenmethodiek als sprake is van:
 
 - a. een activiteit als bedoeld in [artikel 3.205 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.205); of
 
 - b. een activiteit als bedoeld in [artikel 3.211 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.211) waarbij gebruik wordt gemaakt van het tarief, bedoeld in [artikel 60, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60).
 
-3. Bij het berekenen van de hoeveelheid aardgasequivalent, bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XV&z=2026-07-01&g=2026-07-01) en de [artikelen 3.3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.3a), [5.15, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15), [5.15a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15a), en [5.15b, tweede lid, onder d, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b) worden de volgende waarden gehanteerd:
+3. Bij het berekenen van de hoeveelheid aardgasequivalent, bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XV&z=2026-08-18&g=2026-08-18) en de [artikelen 3.3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.3a), [5.15, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15), [5.15a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15a), en [5.15b, tweede lid, onder d, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b) worden de volgende waarden gehanteerd:
 
 - a. 1 liter huisbrandolie komt overeen met 1,2 Nm3 aardgasequivalent;
 
@@ -1840,19 +1840,19 @@ Als rustgewassen als bedoeld in de [artikelen 4.1194a](https://wetten.overheid.n
 
 4. Als een brandstof wordt gebruikt die niet is opgenomen in het tweede lid, wordt de hoeveelheid aardgasequivalent per eenheid bepaald door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm3.
 
-5. De emissie van kooldioxide van maatregelen ter verduurzaming van het energiegebruik, bedoeld in [artikel 5.15, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15) wordt bepaald volgens de in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XV&z=2026-07-01&g=2026-07-01) of [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVa&z=2026-07-01&g=2026-07-01) opgenomen regels.
+5. De emissie van kooldioxide van maatregelen ter verduurzaming van het energiegebruik, bedoeld in [artikel 5.15, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15) wordt bepaald volgens de in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XV&z=2026-08-18&g=2026-08-18) of [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVa&z=2026-08-18&g=2026-08-18) opgenomen regels.
 
 ##### Artikel 4.14aa. (gegevens en bescheiden onderzoek maatregelen ter verduurzaming van het energiegebruik)
 
-1. Het aanleveren van de gegevens en bescheiden en het onderzoek, bedoeld in [artikel 5.15b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b), wordt uitgevoerd in overeenstemming met [bijlage XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVb&z=2026-07-01&g=2026-07-01).
+1. Het aanleveren van de gegevens en bescheiden en het onderzoek, bedoeld in [artikel 5.15b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b), wordt uitgevoerd in overeenstemming met [bijlage XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVb&z=2026-08-18&g=2026-08-18).
 
-2. Aan [artikel 5.15b, eerste en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b) kan, voor de onderdelen waarvoor dat in [bijlage XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVb&z=2026-07-01&g=2026-07-01) is aangegeven, invulling worden gegeven door het toepassen van:
+2. Aan [artikel 5.15b, eerste en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b) kan, voor de onderdelen waarvoor dat in [bijlage XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVb&z=2026-08-18&g=2026-08-18) is aangegeven, invulling worden gegeven door het toepassen van:
 
 - a. een energiebeheersysteem dat voldoet aan NEN-EN-ISO 50001; of
 
 - b. een milieubeheersysteem dat voldoet aan NEN-EN-ISO 14001 in samenhang met NEN-EN-ISO 14051.
 
-3. In aanvulling op het tweede lid kan aan [artikel 5.15b, eerste en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b) voor de onderdelen waarvoor dat in [bijlage XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVb&z=2026-07-01&g=2026-07-01) is aangegeven, invulling worden gegeven door de in bijlage XVb opgenomen keurmerken.
+3. In aanvulling op het tweede lid kan aan [artikel 5.15b, eerste en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b) voor de onderdelen waarvoor dat in [bijlage XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVb&z=2026-08-18&g=2026-08-18) is aangegeven, invulling worden gegeven door de in bijlage XVb opgenomen keurmerken.
 
 4. Als gebruik wordt gemaakt van de in het tweede of derde lid opgenomen mogelijkheid om invulling te geven aan [artikel 5.15b, eerste en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b), wordt van het van toepassing zijnde energiebeheersysteem of milieubeheersysteem of keurmerk een afschrift overgelegd.
 
@@ -1860,7 +1860,7 @@ Als rustgewassen als bedoeld in de [artikelen 4.1194a](https://wetten.overheid.n
 
 ##### Artikel 4.14b. (methode bepalen kosten en kosteneffectiviteit vermijdings- en reductieprogramma Zeer Zorgwekkende Stoffen)
 
-Bij het bepalen van de kosten en van de technieken, bedoeld in [artikel 5.24, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.24), is bij emissies naar de lucht de methode, bedoeld in [Bijlage XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVc&z=2026-07-01&g=2026-07-01), van toepassing.
+Bij het bepalen van de kosten en van de technieken, bedoeld in [artikel 5.24, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.24), is bij emissies naar de lucht de methode, bedoeld in [Bijlage XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVc&z=2026-08-18&g=2026-08-18), van toepassing.
 
 #### Afdeling 4.4b. Openbaarmaking gegevens energie-efficiëntie datacentra
 
@@ -1868,7 +1868,7 @@ Bij het bepalen van de kosten en van de technieken, bedoeld in [artikel 5.24, tw
 
 1. Dit artikel is van toepassing op het openbaar maken van gegevens over de energie-efficiëntie van datacentra, bedoeld in [afdeling 5.4.1a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=5.4.1a).
 
-2. Het verzamelen en openbaar maken van de gegevens, bedoeld in [artikel 5.16b, eerste en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.16b), wordt uitgevoerd in overeenstemming met [bijlage XVd](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVd&z=2026-07-01&g=2026-07-01).
+2. Het verzamelen en openbaar maken van de gegevens, bedoeld in [artikel 5.16b, eerste en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.16b), wordt uitgevoerd in overeenstemming met [bijlage XVd](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVd&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 4.5. Algemene regels die de natuur betreffen: Natura 2000-activiteiten
 
@@ -1970,7 +1970,7 @@ De jacht op de hierna genoemde wildsoorten is gedurende de daarbij vermelde tijd
 
    - 2°. schade aan flora of fauna; en
 
-- c. wordt voldaan aan [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.19&z=2026-07-01&g=2026-07-01).
+- c. wordt voldaan aan [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.19&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 4.19. (middelen en methoden die zijn toegestaan voor bestrijden soorten vogelrichtlijn)
 
@@ -2004,7 +2004,7 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](
 
    - 2°. de regels in een omgevingsverordening op grond van [artikel 5.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.2) en [artikel 11.42 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.42) waarin de bestrijding als vergunningvrij geval wordt aangewezen; of
 
-   - 3°. de [artikelen 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.18&z=2026-07-01&g=2026-07-01) en [4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.19&z=2026-07-01&g=2026-07-01).
+   - 3°. de [artikelen 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.18&z=2026-08-18&g=2026-08-18) en [4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.19&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 4.21. (aanwijzing vergunningvrije gevallen soorten vogelrichtlijn: commercieel en niet-commercieel bezit dode vogels uit het buitenland)
 
@@ -2042,7 +2042,7 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](
 
    - 1°. de vogel binnen drie dagen aflevert bij een preparateur voor preparatie; of
 
-   - 2°. de vogel zelf prepareert en voldoet aan [artikelen 11.102, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.102) en [7.219](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.5&paragraaf=7.5.3&artikel=7.219&z=2026-07-01&g=2026-07-01); en
+   - 2°. de vogel zelf prepareert en voldoet aan [artikelen 11.102, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.102) en [7.219](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.5&paragraaf=7.5.3&artikel=7.219&z=2026-08-18&g=2026-08-18); en
 
 - c. de vogel aantoonbaar met inachtneming van de cites-basisverordening en de cites-uitvoeringsverordening Nederland is binnengebracht of verkregen, voor zover van toepassing.
 
@@ -2050,7 +2050,7 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](
 
 4. Het derde lid geldt alleen als:
 
-- a. de vogel is gemerkt met een merkteken overeenkomstig [artikelen 11.102, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.102) en [7.219, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.5&paragraaf=7.5.3&artikel=7.219&z=2026-07-01&g=2026-07-01); en
+- a. de vogel is gemerkt met een merkteken overeenkomstig [artikelen 11.102, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.102) en [7.219, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.5&paragraaf=7.5.3&artikel=7.219&z=2026-08-18&g=2026-08-18); en
 
 - b. de vogel aantoonbaar met inachtneming van de cites-basisverordening en de cites-uitvoeringsverordening Nederland is binnengebracht of verkregen, voor zover van toepassing.
 
@@ -2158,7 +2158,7 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](
 
    - 2°. schade aan met name de gewassen, veehouderijen, bossen, visgronden, wateren of andere vormen van eigendom; en
 
-- c. wordt voldaan aan de in [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.3&artikel=4.28&z=2026-07-01&g=2026-07-01) gestelde eisen en beperkingen.
+- c. wordt voldaan aan de in [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.3&artikel=4.28&z=2026-08-18&g=2026-08-18) gestelde eisen en beperkingen.
 
 ##### Artikel 4.27a. (voorwaarden voor uitzondering op het handelsverbod invasieve exoten, niet behorende tot invasieve uitheemse soorten aangewezen op grond van invasieve-exoten-basisverordening)
 
@@ -2226,9 +2226,9 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](
 
    - 5°. Stichting Zeehondenopvang Terschelling te West-Terschelling;
 
-- b. de organisaties, genoemd onder a, bij de beslissing over het vangen, voor het vervoeren van het dier, het Handelingskader zeehondenopvang, opgenomen in [bijlage VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIa&z=2026-07-01&g=2026-07-01), onder B, volgen, en als zij krachtens [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) zijn gerechtigd uit het wild afkomstige gewone zeehonden of grijze zeehonden onder zich te hebben en te verzorgen; en
+- b. de organisaties, genoemd onder a, bij de beslissing over het vangen, voor het vervoeren van het dier, het Handelingskader zeehondenopvang, opgenomen in [bijlage VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIa&z=2026-08-18&g=2026-08-18), onder B, volgen, en als zij krachtens [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) zijn gerechtigd uit het wild afkomstige gewone zeehonden of grijze zeehonden onder zich te hebben en te verzorgen; en
 
-- c. de in het derde lid bedoelde personen werkzaam zijn binnen het werkgebied van de organisatie, genoemd onder a, weergegeven op de kaart in [bijlage VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIa&z=2026-07-01&g=2026-07-01), onder A, en aantoonbaar beschikken over:
+- c. de in het derde lid bedoelde personen werkzaam zijn binnen het werkgebied van de organisatie, genoemd onder a, weergegeven op de kaart in [bijlage VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIa&z=2026-08-18&g=2026-08-18), onder A, en aantoonbaar beschikken over:
 
    - 1°. kennis van:
 
@@ -2244,19 +2244,19 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](
 
 ##### Artikel 4.30. (aanwijzing vergunningvrije gevallen en vrijstelling: uitzetten van dieren of eieren van dieren)
 
-1. Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) in samenhang met [artikel 11.61, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.61), om zonder omgevingsvergunning dieren of eieren van dieren uit te zetten geldt niet voor het uitzetten van dieren van de diersoorten voor het bestrijden van ziekten, plagen of onkruiden aangewezen in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIb&z=2026-07-01&g=2026-07-01), onder A.
+1. Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) in samenhang met [artikel 11.61, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.61), om zonder omgevingsvergunning dieren of eieren van dieren uit te zetten geldt niet voor het uitzetten van dieren van de diersoorten voor het bestrijden van ziekten, plagen of onkruiden aangewezen in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIb&z=2026-08-18&g=2026-08-18), onder A.
 
-2. Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) in samenhang met [artikel 11.61, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.61), om zonder omgevingsvergunning dieren uit te zetten geldt niet voor het uitzetten van dieren van de diersoorten als prooidieren voor die dieren aangewezen in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIb&z=2026-07-01&g=2026-07-01), onder A en B.
+2. Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) in samenhang met [artikel 11.61, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.61), om zonder omgevingsvergunning dieren uit te zetten geldt niet voor het uitzetten van dieren van de diersoorten als prooidieren voor die dieren aangewezen in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIb&z=2026-08-18&g=2026-08-18), onder A en B.
 
-3. Aan een ieder wordt vrijstelling verleend van het verbod, bedoeld in [artikel 2.3, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), voor het gebruiken van dieren van de diersoorten aangewezen in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIb&z=2026-07-01&g=2026-07-01), onder B, met het oog op de productie van dierlijke producten.
+3. Aan een ieder wordt vrijstelling verleend van het verbod, bedoeld in [artikel 2.3, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), voor het gebruiken van dieren van de diersoorten aangewezen in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIb&z=2026-08-18&g=2026-08-18), onder B, met het oog op de productie van dierlijke producten.
 
 ##### Artikel 4.31. (vergunningvrije gevallen bestendig beheer, onderhoud en gebruik en ter uitvoering van ruimtelijke ontwikkeling en inrichting waarvoor Minister voor Natuur en Stikstof bevoegd gezag is)
 
-Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) in samenhang met [artikel 11.54, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.54), om zonder omgevingsvergunning in het wild levende zoogdieren, amfibieën, reptielen, vissen, dagvlinders, libellen en kevers van de soorten, genoemd in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IX&z=2026-07-01&g=2026-07-01), onder A, bij dat besluit, opzettelijk te doden of te vangen, om de vaste voortplantingsplaatsen of rustplaatsen opzettelijk te beschadigen of te vernielen en om de vaatplanten van de soorten, genoemd in bijlage IX, onder B, bij dat besluit, opzettelijk in hun natuurlijke verspreidingsgebied te plukken en te verzamelen, af te snijden, te ontwortelen of te vernielen geldt niet als:
+Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) in samenhang met [artikel 11.54, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.54), om zonder omgevingsvergunning in het wild levende zoogdieren, amfibieën, reptielen, vissen, dagvlinders, libellen en kevers van de soorten, genoemd in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IX&z=2026-08-18&g=2026-08-18), onder A, bij dat besluit, opzettelijk te doden of te vangen, om de vaste voortplantingsplaatsen of rustplaatsen opzettelijk te beschadigen of te vernielen en om de vaatplanten van de soorten, genoemd in bijlage IX, onder B, bij dat besluit, opzettelijk in hun natuurlijke verspreidingsgebied te plukken en te verzamelen, af te snijden, te ontwortelen of te vernielen geldt niet als:
 
 - a. de Minister voor Natuur en Stikstof bevoegd gezag is op grond van [artikel 4.12 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=4.12);
 
-- b. het gaat om dieren en planten van de soorten aangewezen in [bijlage VIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIc&z=2026-07-01&g=2026-07-01); en
+- b. het gaat om dieren en planten van de soorten aangewezen in [bijlage VIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIIc&z=2026-08-18&g=2026-08-18); en
 
 - c. het gaat om handelingen in het kader van:
 
@@ -2294,7 +2294,7 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de wet](
 
 ##### Artikel 4.31b. (toepassingsbereik)
 
-De paragraaf is van toepassing op het treffen van maatregelen ter invulling van [artikel 11.27 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.27), bij de vaststelling van de aanwezigheid van, of het gebruik door soorten, genoemd in [artikel 4.31c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.4&artikel=4.31c&z=2026-07-01&g=2026-07-01), bij de na-isolatie van de spouwmuur van een grondgebonden woning.
+De paragraaf is van toepassing op het treffen van maatregelen ter invulling van [artikel 11.27 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.27), bij de vaststelling van de aanwezigheid van, of het gebruik door soorten, genoemd in [artikel 4.31c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.4&artikel=4.31c&z=2026-08-18&g=2026-08-18), bij de na-isolatie van de spouwmuur van een grondgebonden woning.
 
 ##### Artikel 4.31c. (erkende maatregel specifieke zorgplicht: omgevingsDNA)
 
@@ -2383,7 +2383,7 @@ De paragraaf is van toepassing op het treffen van maatregelen ter invulling van 
 
 - a. is een individueel gemerkte, ononderbroken ring of manchet, zonder enige naad of las, waarmee op geen enkele wijze is geknoeid en waarvan het formaat zodanig is dat zij, nadat zij in de eerste levensdagen van de vogel is aangebracht, niet kan worden verwijderd wanneer de poot van de vogel zijn definitieve omvang heeft bereikt;
 
-- b. heeft een diameter die niet groter is dan de in [bijlage VIId](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIId&z=2026-07-01&g=2026-07-01) voor de betrokken soort vastgestelde diameter;
+- b. heeft een diameter die niet groter is dan de in [bijlage VIId](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIId&z=2026-08-18&g=2026-08-18) voor de betrokken soort vastgestelde diameter;
 
 - c. voldoet aan de volgende eisen:
 
@@ -2395,11 +2395,11 @@ De paragraaf is van toepassing op het treffen van maatregelen ter invulling van 
 
 2. In afwijking van het eerste lid:
 
-- a. kan de gesloten pootring een diameter hebben die groter is dan de in de [bijlage VIId](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIId&z=2026-07-01&g=2026-07-01) vastgestelde maximale diameter, als de aanvrager aannemelijk kan maken dat een grotere diameter in verband met de dikte van de poot bij de aanvraag, bedoeld in [artikel 4.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.35&z=2026-07-01&g=2026-07-01), noodzakelijk is; of
+- a. kan de gesloten pootring een diameter hebben die groter is dan de in de [bijlage VIId](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIId&z=2026-08-18&g=2026-08-18) vastgestelde maximale diameter, als de aanvrager aannemelijk kan maken dat een grotere diameter in verband met de dikte van de poot bij de aanvraag, bedoeld in [artikel 4.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.35&z=2026-08-18&g=2026-08-18), noodzakelijk is; of
 
 - b. kunnen gesloten pootringen voor papegaaiachtigen en roofvogels zijn vervaardigd van roestvrij staal.
 
-3. Een aanvrager van een aanvraag als bedoeld in [artikel 4.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.35&z=2026-07-01&g=2026-07-01):
+3. Een aanvrager van een aanvraag als bedoeld in [artikel 4.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.35&z=2026-08-18&g=2026-08-18):
 
 - a. brengt een gesloten pootring als bedoeld in het eerste lid alleen aan op in Nederland in gevangenschap geboren en gefokte vogels van de soort waarvoor hij de gesloten pootring heeft aangevraagd; en
 
@@ -2431,7 +2431,7 @@ De paragraaf is van toepassing op het treffen van maatregelen ter invulling van 
 
    - 2°. de ringmaat; en
 
-   - 3°. de bijbehorende unieke nummers als bedoeld in [artikel 4.35, tweede lid, onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.35&z=2026-07-01&g=2026-07-01);
+   - 3°. de bijbehorende unieke nummers als bedoeld in [artikel 4.35, tweede lid, onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.35&z=2026-08-18&g=2026-08-18);
 
 - c. als het gaat om gefokte vogels behorende tot soorten die zijn opgenomen in bijlage A bij de cites-basisverordening:
 
@@ -2447,21 +2447,21 @@ De paragraaf is van toepassing op het treffen van maatregelen ter invulling van 
 
 ##### Artikel 4.35. (aanvraag en afgifte pootringen gefokte vogels)
 
-1. Gesloten pootringen worden aangevraagd met gebruikmaking van een door een van de organisaties, bedoeld in [artikel 4.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.34&z=2026-07-01&g=2026-07-01), ter beschikking gesteld aanvraagformulier dat volledig ingevuld en ondertekend wordt teruggestuurd.
+1. Gesloten pootringen worden aangevraagd met gebruikmaking van een door een van de organisaties, bedoeld in [artikel 4.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.34&z=2026-08-18&g=2026-08-18), ter beschikking gesteld aanvraagformulier dat volledig ingevuld en ondertekend wordt teruggestuurd.
 
-2. De organisaties, bedoeld in [artikel 4.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.34&z=2026-07-01&g=2026-07-01), verstrekken alleen gesloten pootringen:
+2. De organisaties, bedoeld in [artikel 4.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.34&z=2026-08-18&g=2026-08-18), verstrekken alleen gesloten pootringen:
 
-- a. waarvoor door de leverancier een schriftelijke garantie is afgegeven dat de ringen voldoen aan de specificaties, bedoeld in [artikel 4.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.33&z=2026-07-01&g=2026-07-01); en
+- a. waarvoor door de leverancier een schriftelijke garantie is afgegeven dat de ringen voldoen aan de specificaties, bedoeld in [artikel 4.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.33&z=2026-08-18&g=2026-08-18); en
 
 - b. die ten minste zijn voorzien van de letters NL, de aanduiding van de binnendiameter tot in tienden van een millimeter, de laatste twee cijfers van het jaartal waarin de gesloten pootring mag worden aangebracht en, per ringmaat, een uniek nummer bestaande uit de bondscode, een kweeknummer en een volgnummer.
 
 3. In afwijking van het tweede lid, onder b, zijn de gesloten pootringen, afgegeven door Kleindier Liefhebbers Nederland, voorzien van een uniek nummer bestaande uit de bondscode en een volgnummer.
 
-4. De organisaties, bedoeld in [artikel 4.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.34&z=2026-07-01&g=2026-07-01), geven geen gesloten pootring af als:
+4. De organisaties, bedoeld in [artikel 4.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.34&z=2026-08-18&g=2026-08-18), geven geen gesloten pootring af als:
 
 - a. niet aannemelijk is dat de aanvrager vogels, waarvoor hij een gesloten pootring aanvraagt, fokt; of
 
-- b. het redelijke vermoeden bestaat dat de aanvrager handelt of zal handelen in strijd met [artikel 4.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.33&z=2026-07-01&g=2026-07-01).
+- b. het redelijke vermoeden bestaat dat de aanvrager handelt of zal handelen in strijd met [artikel 4.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.33&z=2026-08-18&g=2026-08-18).
 
 #### § 4.8.2. Cites en invasieve exoten
 
@@ -2565,7 +2565,7 @@ De regels in deze paragraaf zijn van toepassing op technische bouwsystemen als b
 
 ##### Artikel 5.2. (energieprestatie technisch bouwsysteem)
 
-De waarde van de energieprestatie van een technisch bouwsysteem, bedoeld in de [artikelen 4.248, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.248), en [5.21, eerste lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=5.21), wordt bepaald op basis van de in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIII&z=2026-07-01&g=2026-07-01) opgenomen rekenmethodiek.
+De waarde van de energieprestatie van een technisch bouwsysteem, bedoeld in de [artikelen 4.248, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.248), en [5.21, eerste lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=5.21), wordt bepaald op basis van de in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VIII&z=2026-08-18&g=2026-08-18) opgenomen rekenmethodiek.
 
 ##### Artikel 5.3. (verslaglegging energieprestatie)
 
@@ -2573,7 +2573,7 @@ Het verslag van de energieprestatie van een technisch bouwsysteem, bedoeld in
 
 [artikel 4.249 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.249), bevat de volgende gegevens en bescheiden:
 
-- a. de berekende waarde voor de energieprestatie als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.2&z=2026-07-01&g=2026-07-01);
+- a. de berekende waarde voor de energieprestatie als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.2&z=2026-08-18&g=2026-08-18);
 
 - b. de naam en het adres van degene die opdracht geeft tot het laten vaststellen van de energieprestatie;
 
@@ -2675,13 +2675,13 @@ De regels in deze paragraaf zijn van toepassing op energielabels als bedoeld in 
 
 3. Na registratie van de energieprestatie door de energieadviseur bij de Rijksdienst voor Ondernemend Nederland, wordt het energielabel voor die woonfunctie, dat woongebouw of die logiesfunctie niet gelegen in een logiesgebouw vastgesteld en afgegeven door de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
-4. Het primair fossiel energiegebruik van de woonfunctie, het woongebouw of die logiesfunctie niet gelegen in een logiesgebouw wordt met behulp van de als [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IX&z=2026-07-01&g=2026-07-01) opgenomen tabel omgezet in een letter of lettercombinatie. Bij de berekening van het primair fossiel energiegebruik van een woonfunctie, woongebouw of logiesfunctie niet gelegen in een logiesgebouw wordt, als energiemaatregelen op gebiedsniveau van toepassing zijn, gerekend met forfaitaire waarden voor deze maatregelen.
+4. Het primair fossiel energiegebruik van de woonfunctie, het woongebouw of die logiesfunctie niet gelegen in een logiesgebouw wordt met behulp van de als [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IX&z=2026-08-18&g=2026-08-18) opgenomen tabel omgezet in een letter of lettercombinatie. Bij de berekening van het primair fossiel energiegebruik van een woonfunctie, woongebouw of logiesfunctie niet gelegen in een logiesgebouw wordt, als energiemaatregelen op gebiedsniveau van toepassing zijn, gerekend met forfaitaire waarden voor deze maatregelen.
 
 5. Voor een woonfunctie, woongebouw of logiesfunctie niet gelegen in een logiesgebouw, waarvoor de aanvraag om een omgevingsvergunning is ingediend na 29 mei 2026, kan op het energielabel naast de letter of lettercombinatie, bedoeld in het vierde lid, de aanduiding A0 worden toegevoegd, als:
 
 - a. de energiebehoefte een waarde heeft van ten hoogste de in tabel 4.148A van het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297)aangegeven waarde;
 
-- b. het primair fossiel energiegebruik een waarde heeft van ten hoogste de waarde opgenomen in de in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IXa&z=2026-07-01&g=2026-07-01) opgenomen tabel;
+- b. het primair fossiel energiegebruik een waarde heeft van ten hoogste de waarde opgenomen in de in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IXa&z=2026-08-18&g=2026-08-18) opgenomen tabel;
 
 - c. het aandeel hernieuwbare energie een waarde heeft van ten minste de in tabel 4.148A van het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) aangegeven waarde; en
 
@@ -2695,13 +2695,13 @@ De regels in deze paragraaf zijn van toepassing op energielabels als bedoeld in 
 
 3. Na registratie van de energieprestatie door de energieadviseur bij de Rijksdienst voor Ondernemend Nederland, wordt het energielabel voor dat utiliteitsgebouw vastgesteld en afgegeven door de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
-4. Het primair fossiel energiegebruik van het utiliteitsgebouw wordt met behulp van de als [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=X&z=2026-07-01&g=2026-07-01) opgenomen tabel omgezet in een letter of lettercombinatie. Bij de berekening van het primair fossiel energiegebruik van het utiliteitsgebouw wordt, als energiemaatregelen op gebiedsniveau van toepassing zijn, gerekend met kwaliteitsverklaringen voor deze maatregelen.
+4. Het primair fossiel energiegebruik van het utiliteitsgebouw wordt met behulp van de als [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=X&z=2026-08-18&g=2026-08-18) opgenomen tabel omgezet in een letter of lettercombinatie. Bij de berekening van het primair fossiel energiegebruik van het utiliteitsgebouw wordt, als energiemaatregelen op gebiedsniveau van toepassing zijn, gerekend met kwaliteitsverklaringen voor deze maatregelen.
 
 5. Voor een utiliteitsgebouw waarvoor de aanvraag om een omgevingsvergunning is ingediend na 29 mei 2026, kan op het energielabel naast de letter of lettercombinatie, bedoeld in het vierde lid, de aanduiding A0 worden toegevoegd, als:
 
 - a. de energiebehoefte een waarde heeft van ten hoogste de in tabel 4.148A van het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) aangegeven waarde;
 
-- b. het primair fossiel energiegebruik een waarde heeft van ten hoogste de waarde opgenomen in de in [bijlage Xa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=Xa&z=2026-07-01&g=2026-07-01) opgenomen tabel;
+- b. het primair fossiel energiegebruik een waarde heeft van ten hoogste de waarde opgenomen in de in [bijlage Xa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=Xa&z=2026-08-18&g=2026-08-18) opgenomen tabel;
 
 - c. het aandeel hernieuwbare energie een waarde heeft van ten minste de in tabel 4.148A van het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) aangegeven waarde; en
 
@@ -2709,7 +2709,7 @@ De regels in deze paragraaf zijn van toepassing op energielabels als bedoeld in 
 
 ##### Artikel 5.13. (gegevens energielabel)
 
-Het energielabel, bedoeld in [artikel 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.11&z=2026-07-01&g=2026-07-01), en [artikel 5.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.12&z=2026-07-01&g=2026-07-01), wordt vastgesteld op basis van in ieder geval:
+Het energielabel, bedoeld in [artikel 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.11&z=2026-08-18&g=2026-08-18), en [artikel 5.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.12&z=2026-08-18&g=2026-08-18), wordt vastgesteld op basis van in ieder geval:
 
 - a. gegevens over de algemene gebouwkenmerken, waaronder gebruiksfunctie, bouwjaar, gebruiksoppervlakte in m2 en, in het geval van een woonfunctie, woongebouw of logiesfunctie niet gelegen in een logiesgebouw, woningtype;
 
@@ -2721,7 +2721,7 @@ Het energielabel, bedoeld in [artikel 5.11, derde lid](https://wetten.overheid.n
 
 ##### Artikel 5.13a. (verplichte elementen energielabel)
 
-1. Het energielabel, bedoeld in [artikel 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.11&z=2026-07-01&g=2026-07-01), en [artikel 5.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.12&z=2026-07-01&g=2026-07-01), bevat:
+1. Het energielabel, bedoeld in [artikel 5.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.11&z=2026-08-18&g=2026-08-18), en [artikel 5.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.12&z=2026-08-18&g=2026-08-18), bevat:
 
 - a. de energielabelklasse;
 
@@ -2773,11 +2773,11 @@ Het energielabel, bedoeld in [artikel 5.11, derde lid](https://wetten.overheid.n
 
 - a. gegevens over voor welke gebouwen de energieprestatie is geregistreerd, waaronder adresgegevens, identificerend objectnummer van het pand of verblijfsobject als bedoeld in [artikel 19 van de Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=19) en de opleverstatus van het gebouw;
 
-- b. kenmerken van de registratie van de energieprestatie bedoeld in [artikel 5.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.11&z=2026-07-01&g=2026-07-01), en [artikel 5.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.12&z=2026-07-01&g=2026-07-01), waaronder de aanduiding van het soort opname van de energieprestatie, de opnamedatum van de energieprestatie en gegevens over de energieadviseur, de NL-EPBD-certificaathouder en de geattesteerde software;
+- b. kenmerken van de registratie van de energieprestatie bedoeld in [artikel 5.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.11&z=2026-08-18&g=2026-08-18), en [artikel 5.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.12&z=2026-08-18&g=2026-08-18), waaronder de aanduiding van het soort opname van de energieprestatie, de opnamedatum van de energieprestatie en gegevens over de energieadviseur, de NL-EPBD-certificaathouder en de geattesteerde software;
 
 - c. de registratiedatum van de energieprestatie bij de Rijksdienst voor Ondernemend Nederland en het unieke registratienummer van het energielabel; en
 
-- d. de gegevens, bedoeld in [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.13&z=2026-07-01&g=2026-07-01), op basis waarvan het energielabel is vastgesteld.
+- d. de gegevens, bedoeld in [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.13&z=2026-08-18&g=2026-08-18), op basis waarvan het energielabel is vastgesteld.
 
 2. De minister beheert de registratie.
 
@@ -2873,9 +2873,9 @@ De regels in deze paragraaf zijn van toepassing op het treffen van maatregelen t
 
 ##### Artikel 5.29. (maatregelen ter verduurzaming van het energiegebruik)
 
-1. De maatregelen, bedoeld in [artikel 3.84, vijfde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84), zijn de maatregelen in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XIV&z=2026-07-01&g=2026-07-01).
+1. De maatregelen, bedoeld in [artikel 3.84, vijfde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84), zijn de maatregelen in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XIV&z=2026-08-18&g=2026-08-18).
 
-2. In afwijking van het eerste lid zijn de maatregelen, bedoeld in [artikel 3.84, vijfde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84), de maatregelen in [bijlage XIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XIVa&z=2026-07-01&g=2026-07-01), als sprake is van:
+2. In afwijking van het eerste lid zijn de maatregelen, bedoeld in [artikel 3.84, vijfde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84), de maatregelen in [bijlage XIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XIVa&z=2026-08-18&g=2026-08-18), als sprake is van:
 
 - a. een activiteit als bedoeld in [artikel 3.205 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.205); of
 
@@ -2885,7 +2885,7 @@ De regels in deze paragraaf zijn van toepassing op het treffen van maatregelen t
 
 1. De terugverdientijd van maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 3.84, eerste lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84) wordt bepaald volgens de in [bijlage XV](https://wetten.overheid.nl/BWBR0045528) opgenomen rekenmethodiek.
 
-2. In afwijking van het eerste lid wordt de terugverdientijd van maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 3.84, eerste lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84) bepaald volgens de in [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVa&z=2026-07-01&g=2026-07-01) opgenomen rekenmethodiek als sprake is van:
+2. In afwijking van het eerste lid wordt de terugverdientijd van maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 3.84, eerste lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84) bepaald volgens de in [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVa&z=2026-08-18&g=2026-08-18) opgenomen rekenmethodiek als sprake is van:
 
 - a. een activiteit als bedoeld in [artikel 3.205 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.205); of
 
@@ -2911,7 +2911,7 @@ De regels in deze paragraaf zijn van toepassing op het treffen van maatregelen t
 
 4. Als een brandstof wordt gebruikt die niet is opgenomen in het tweede lid, wordt de hoeveelheid aardgasequivalent per eenheid bepaald door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm3.
 
-5. De emissie van kooldioxide van maatregelen ter verduurzaming van het energiegebruik, bedoeld in [artikel 3.84, tweede lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84) wordt bepaald volgens de in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XV&z=2026-07-01&g=2026-07-01) of [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVa&z=2026-07-01&g=2026-07-01) opgenomen regels.
+5. De emissie van kooldioxide van maatregelen ter verduurzaming van het energiegebruik, bedoeld in [artikel 3.84, tweede lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84) wordt bepaald volgens de in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XV&z=2026-08-18&g=2026-08-18) of [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVa&z=2026-08-18&g=2026-08-18) opgenomen regels.
 
 #### § 5.1.5. Bijna energieneutrale nieuwbouw
 
@@ -2929,7 +2929,7 @@ De energiebehoefte, de waarde voor primair fossiel energiegebruik en het aandeel
 
 ##### Artikel 5.31c. oververhitting
 
-De berekening van de gewogen overschrijdingsuren, bedoeld in [artikel 4.149b, tweede en derde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.149b), voldoet aan de in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVI&z=2026-07-01&g=2026-07-01) opgenomen eisen.
+De berekening van de gewogen overschrijdingsuren, bedoeld in [artikel 4.149b, tweede en derde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.149b), voldoet aan de in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVI&z=2026-08-18&g=2026-08-18) opgenomen eisen.
 
 #### § 5.1.6. Bepalen milieubelasting en soepelere milieuprestatie-eis
 
@@ -2939,7 +2939,7 @@ De regels in deze paragraaf zijn van toepassing op het bepalen van de belasting 
 
 ##### Artikel 5.32a. (milieubelasting)
 
-1. De belasting van het milieu door de in een gebouw toe te passen materialen wordt bepaald volgens de Bepalingsmethode Milieuprestatie Bouwwerken met gebruikmaking van de weegfactoren, bedoeld in [bijlage XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIa&z=2026-07-01&g=2026-07-01).
+1. De belasting van het milieu door de in een gebouw toe te passen materialen wordt bepaald volgens de Bepalingsmethode Milieuprestatie Bouwwerken met gebruikmaking van de weegfactoren, bedoeld in [bijlage XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIa&z=2026-08-18&g=2026-08-18).
 
 2. Bij het bepalen van de belasting van het milieu door de in een gebouw toe te passen materialen worden meegenomen:
 
@@ -3181,7 +3181,7 @@ De risicomatrix, bedoeld in [artikel 7.5a van het Besluit bouwwerken leefomgevin
 
 ##### Artikel 5.55. (veiligheidscoördinator directe omgeving en bouw- en sloopveiligheidsplan)
 
-De noodzaak tot het aanstellen van een veiligheidscoördinator directe omgeving en het opstellen van een bouw- en sloopveiligheidsplan, bedoeld in [artikel 7.5a, tweede lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=7.5a), is aanwezig als het invullen van de risicomatrix, bedoeld in [artikel 5.54](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.3&artikel=5.54&z=2026-07-01&g=2026-07-01), resulteert in opgeteld twaalf of meer punten.
+De noodzaak tot het aanstellen van een veiligheidscoördinator directe omgeving en het opstellen van een bouw- en sloopveiligheidsplan, bedoeld in [artikel 7.5a, tweede lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=7.5a), is aanwezig als het invullen van de risicomatrix, bedoeld in [artikel 5.54](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.3&paragraaf=5.3.3&artikel=5.54&z=2026-08-18&g=2026-08-18), resulteert in opgeteld twaalf of meer punten.
 
 #### Afdeling 5.4. Geluid en gezondheid
 
@@ -3195,27 +3195,27 @@ Deze afdeling is van toepassing op bouwactiviteiten die het bouwen van nieuwe bo
 
 ##### Artikel 5.57. (bepalen: gezamenlijk geluid bij afwijkende spectra)
 
-Als het gezamenlijke geluid bedoeld in [artikel 3.39 van het Besluit kwaliteit leegomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.39) wordt bepaald op grond van een maatwerkvoorschrift als bedoeld in [artikel 4.103a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.103a) of [5.23a, aanhef en onder a, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=5.23a) en voor het bepalen van de karakteristieke geluidwering gebruik wordt gemaakt van de mogelijkheid van NEN 5077 om afwijkende spectra te gebruiken, is [artikel 3.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-07-01&g=2026-07-01), van overeenkomstige toepassing.
+Als het gezamenlijke geluid bedoeld in [artikel 3.39 van het Besluit kwaliteit leegomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.39) wordt bepaald op grond van een maatwerkvoorschrift als bedoeld in [artikel 4.103a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.103a) of [5.23a, aanhef en onder a, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=5.23a) en voor het bepalen van de karakteristieke geluidwering gebruik wordt gemaakt van de mogelijkheid van NEN 5077 om afwijkende spectra te gebruiken, is [artikel 3.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-08-18&g=2026-08-18), van overeenkomstige toepassing.
 
 ##### Artikel 5.58. (berekenen: overgangsrecht gezamenlijk geluid)
 
-Op het berekenen van het gezamenlijke geluid voor een verblijfsgebied, bedoeld in [artikel 4.103c, tweede lid, aanhef, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.103a), zijn de [artikelen 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-07-01&g=2026-07-01) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het berekenen van het gezamenlijke geluid voor een verblijfsgebied, bedoeld in [artikel 4.103c, tweede lid, aanhef, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.103a), zijn de [artikelen 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-08-18&g=2026-08-18) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-08-18&g=2026-08-18) van toepassing.
 
 #### § 5.4.3. Bescherming tegen geluid van installaties
 
 ##### Artikel 5.59. (berekenen: geluidsniveau installatie voor warmte- of koudeopwekking)
 
-1. Het geluidsniveau van een installatie voor warmte- of koudeopwekking, bedoeld in de [artikelen 4.107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.107), en [4.108, derde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.108), wordt bepaald berekend volgens [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVII&z=2026-07-01&g=2026-07-01).
+1. Het geluidsniveau van een installatie voor warmte- of koudeopwekking, bedoeld in de [artikelen 4.107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.107), en [4.108, derde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.108), wordt bepaald berekend volgens [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVII&z=2026-08-18&g=2026-08-18).
 
-2. Op het berekenen van het geluidsniveau is [artikel 6.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.6&z=2026-07-01&g=2026-07-01), van overeenkomstige toepassing.
+2. Op het berekenen van het geluidsniveau is [artikel 6.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.6&z=2026-08-18&g=2026-08-18), van overeenkomstige toepassing.
 
 #### § 5.4.4. Geluidhinder bouw- en sloopwerkzaamheden
 
 ##### Artikel 5.60. (bepalen: dagwaarden geluid bouw- en sloopwerkzaamheden)
 
-1. De dagwaarden, bedoeld in de [artikelen 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=7.17), en [7.39, tweede lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=7.39), worden bepaald volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01).
+1. De dagwaarden, bedoeld in de [artikelen 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=7.17), en [7.39, tweede lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=7.39), worden bepaald volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18).
 
-2. Op het bepalen van de dagwaarden zijn de [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.5&z=2026-07-01&g=2026-07-01) en [6.6, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.6&z=2026-07-01&g=2026-07-01), van overeenkomstige toepassing.
+2. Op het bepalen van de dagwaarden zijn de [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.5&z=2026-08-18&g=2026-08-18) en [6.6, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.6&z=2026-08-18&g=2026-08-18), van overeenkomstige toepassing.
 
 #### Afdeling 5.5. Onderzoek naar de staat van een bouwwerk
 
@@ -3269,13 +3269,13 @@ niet zijnde een nevengebruiksfunctie daarvan, als het bouwwerk voor deze gebruik
 
 ##### Artikel 5.63. (initiële beoordeling)
 
-1. Een bouwwerk als bedoeld in [artikel 5.62](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.62&z=2026-07-01&g=2026-07-01) wordt uiterlijk drie jaar na de gereedmelding beoordeeld volgens NTA 8790 door een bedrijf als bedoeld in [artikel 5.65](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-07-01&g=2026-07-01).
+1. Een bouwwerk als bedoeld in [artikel 5.62](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.62&z=2026-08-18&g=2026-08-18) wordt uiterlijk drie jaar na de gereedmelding beoordeeld volgens NTA 8790 door een bedrijf als bedoeld in [artikel 5.65](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-08-18&g=2026-08-18).
 
 2. Het rapport met de bevindingen van de initiële beoordeling bevat:
 
 - a. een beschrijving van de uitgevoerde beoordeling en een overzicht van de daarbij gebruikte documenten;
 
-- b. een verklaring van de persoon, bedoeld in [artikel 5.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-07-01&g=2026-07-01), dat naar zijn oordeel:
+- b. een verklaring van de persoon, bedoeld in [artikel 5.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-08-18&g=2026-08-18), dat naar zijn oordeel:
 
    - 1°. het vertrouwen is gerechtvaardigd dat bij het bouwwerk niet meer dan 500 personen gelijktijdig gevaar lopen bij het bezwijken van een constructieonderdeel;
 
@@ -3289,23 +3289,23 @@ niet zijnde een nevengebruiksfunctie daarvan, als het bouwwerk voor deze gebruik
 
 ##### Artikel 5.64. (periodieke beoordeling)
 
-1. Een bouwwerk als bedoeld in [artikel 5.62](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.62&z=2026-07-01&g=2026-07-01) wordt na de initiële beoordeling, bedoeld in [artikel 5.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.63&z=2026-07-01&g=2026-07-01), door een bedrijf als bedoeld in [artikel 5.65](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-07-01&g=2026-07-01) periodiek beoordeeld volgens NTA 8790 en het voor het bouwwerk opgestelde plan voor de periodieke beoordeling, bedoeld in artikel 5.63, tweede lid, onder c.
+1. Een bouwwerk als bedoeld in [artikel 5.62](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.62&z=2026-08-18&g=2026-08-18) wordt na de initiële beoordeling, bedoeld in [artikel 5.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.63&z=2026-08-18&g=2026-08-18), door een bedrijf als bedoeld in [artikel 5.65](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-08-18&g=2026-08-18) periodiek beoordeeld volgens NTA 8790 en het voor het bouwwerk opgestelde plan voor de periodieke beoordeling, bedoeld in artikel 5.63, tweede lid, onder c.
 
 2. Het rapport van de bevindingen van de periodieke beoordeling bevat:
 
 - a. een beschrijving van de uitgevoerde beoordeling en een overzicht van de daarbij gebruikte documenten;
 
-- b. een verklaring van de persoon, bedoeld in [artikel 5.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-07-01&g=2026-07-01), dat naar zijn oordeel:
+- b. een verklaring van de persoon, bedoeld in [artikel 5.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-08-18&g=2026-08-18), dat naar zijn oordeel:
 
    - 1°. het vertrouwen is gerechtvaardigd dat het bouwwerk voldoet aan de eisen voor de constructieve veiligheid van bestaande bouwwerken, bedoeld in de [paragrafen 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=3.2.1) en [3.2.2 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=3.2.2); of
 
    - 2°. het bouwwerk niet voldoet aan de onder 1° bedoelde eisen, onder vermelding van de door hem geconstateerde afwijkingen; en
 
-- c. een actualisering van het plan voor de periodieke beoordeling als dit naar het oordeel van de persoon, bedoeld in [artikel 5.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-07-01&g=2026-07-01), nodig is.
+- c. een actualisering van het plan voor de periodieke beoordeling als dit naar het oordeel van de persoon, bedoeld in [artikel 5.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-08-18&g=2026-08-18), nodig is.
 
 3. Het rapport van de periodieke beoordeling wordt aan het bevoegd gezag verstrekt uiterlijk een week nadat het rapport is vastgesteld door het beoordelende bedrijf.
 
-4. Dit artikel is niet van toepassing op een bouwwerk waarvan het rapport van de initiële beoordeling, bedoeld in [artikel 5.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.63&z=2026-07-01&g=2026-07-01), een verklaring bevat van de persoon, bedoeld in [artikel 5.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-07-01&g=2026-07-01), dat naar zijn oordeel het vertrouwen is gerechtvaardigd dat bij het bouwwerk niet meer dan 500 personen gelijktijdig gevaar lopen bij het bezwijken van een constructieonderdeel.
+4. Dit artikel is niet van toepassing op een bouwwerk waarvan het rapport van de initiële beoordeling, bedoeld in [artikel 5.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.63&z=2026-08-18&g=2026-08-18), een verklaring bevat van de persoon, bedoeld in [artikel 5.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.65&z=2026-08-18&g=2026-08-18), dat naar zijn oordeel het vertrouwen is gerechtvaardigd dat bij het bouwwerk niet meer dan 500 personen gelijktijdig gevaar lopen bij het bezwijken van een constructieonderdeel.
 
 ##### Artikel 5.65. (beoordelend bedrijf)
 
@@ -3315,7 +3315,7 @@ niet zijnde een nevengebruiksfunctie daarvan, als het bouwwerk voor deze gebruik
 
 ##### Artikel 5.66. (overgangsrecht initiële beoordeling)
 
-Een bouwwerk dat voor de inwerkingtreding van deze afdeling gereed is gemeld, wordt in afwijking van [artikel 5.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.63&z=2026-07-01&g=2026-07-01), beoordeeld voor 1 juli 2025.
+Een bouwwerk dat voor de inwerkingtreding van deze afdeling gereed is gemeld, wordt in afwijking van [artikel 5.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&afdeling=5.6&artikel=5.63&z=2026-08-18&g=2026-08-18), beoordeeld voor 1 juli 2025.
 
 #### Afdeling 5.7. Technische specificaties voor de fysieke gigabitinfrastructuur
 
@@ -3377,9 +3377,9 @@ Aan dit hoofdstuk wordt voldaan door degene die de activiteit verricht. Diegene 
 
 ##### Artikel 6.3. (maatwerk- of vergunningvoorschriften)
 
-1. Een maatwerkvoorschrift kan worden gesteld, of een vergunningvoorschrift als bedoeld in [artikel 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) kan aan een omgevingsvergunning als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) worden verbonden, over [artikel 6.14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.6&artikel=6.14&z=2026-07-01&g=2026-07-01).
+1. Een maatwerkvoorschrift kan worden gesteld, of een vergunningvoorschrift als bedoeld in [artikel 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) kan aan een omgevingsvergunning als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) worden verbonden, over [artikel 6.14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.6&artikel=6.14&z=2026-08-18&g=2026-08-18).
 
-2. Met een maatwerkvoorschrift of een vergunningvoorschrift kan worden afgeweken van [artikel 6.14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.6&artikel=6.14&z=2026-07-01&g=2026-07-01), tenzij anders is bepaald.
+2. Met een maatwerkvoorschrift of een vergunningvoorschrift kan worden afgeweken van [artikel 6.14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.6&artikel=6.14&z=2026-08-18&g=2026-08-18), tenzij anders is bepaald.
 
 3. Een maatwerkvoorschrift wordt niet gesteld als over dat onderwerp een voorschrift aan een omgevingsvergunning als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) kan worden verbonden.
 
@@ -3551,15 +3551,15 @@ Deze paragraaf is van toepassing op het bepalen van het geluid door een activite
 
 ##### Artikel 6.6. (bepalen: geluid door activiteiten, anders dan specifieke activiteiten, op een geluidgevoelig gebouw of op een andere locatie)
 
-1. Het geluid door een activiteit wordt bepaald volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01) als sprake is van:
+1. Het geluid door een activiteit wordt bepaald volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18) als sprake is van:
 
 - a. een activiteit waarvoor een omgevingsplan een waarde als bedoeld in [artikel 5.65, eerste lid, onder a, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.65), [5.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.66), of [5.67 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.67) bevat; of
 
 - b. een activiteit waarvoor een omgevingsplan een waarde bevat gericht op het voldoen aan de geluidproductieplafonds die als omgevingswaarden zijn vastgesteld voor een industrieterrein.
 
-2. De bedrijfsduurcorrectie, bedoeld in [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01), wordt niet toegepast voor muziek.
+2. De bedrijfsduurcorrectie, bedoeld in [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18), wordt niet toegepast voor muziek.
 
-3. In afwijking van het eerste lid wordt het geluid door een schietbaan die ligt in een gebouw zonder open zijden en met een gesloten afdekking bepaald volgens [bijlage XVIIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIb&z=2026-07-01&g=2026-07-01).
+3. In afwijking van het eerste lid wordt het geluid door een schietbaan die ligt in een gebouw zonder open zijden en met een gesloten afdekking bepaald volgens [bijlage XVIIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIb&z=2026-08-18&g=2026-08-18).
 
 4. Bij het bepalen van het geluid op een geluidgevoelig gebouw wordt het geluid dat wordt gereflecteerd door de gevel waarop het geluid wordt bepaald buiten beschouwing gelaten.
 
@@ -3573,7 +3573,7 @@ Deze paragraaf is van toepassing op het bepalen van het geluid door een activite
 
 ##### Artikel 6.8. (berekenen: geluid door een windturbine of windpark)
 
-1. Het geluid door het opwekken van elektriciteit met een windturbine of windpark waarvoor een omgevingsplan een waarde als bedoeld in [artikel 5.74, eerste of tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.74) bevat, wordt berekend volgens [bijlage IVi](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVi&z=2026-07-01&g=2026-07-01).
+1. Het geluid door het opwekken van elektriciteit met een windturbine of windpark waarvoor een omgevingsplan een waarde als bedoeld in [artikel 5.74, eerste of tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.74) bevat, wordt berekend volgens [bijlage IVi](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVi&z=2026-08-18&g=2026-08-18).
 
 2. Bij het berekenen worden de waarden in dB Lden en dB Lnight afgerond op hele getallen, waarbij een halve eenheid wordt afgerond naar het meest dichtbijgelegen even getal.
 
@@ -3581,13 +3581,13 @@ Deze paragraaf is van toepassing op het bepalen van het geluid door een activite
 
 ##### Artikel 6.8a. (tijdelijke regeling berekenen: geluid door een windturbine of windpark)
 
-[Artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.8&z=2026-07-01&g=2026-07-01), is ook van toepassing op het berekenen van het geluid door het opwekken van elektriciteit met een windturbine of windpark waarvoor een omgevingsplan een waarde als bedoeld in [artikel 5.75a, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.75a) bevat.
+[Artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.3&artikel=6.8&z=2026-08-18&g=2026-08-18), is ook van toepassing op het berekenen van het geluid door het opwekken van elektriciteit met een windturbine of windpark waarvoor een omgevingsplan een waarde als bedoeld in [artikel 5.75a, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.75a) bevat.
 
 ##### Artikel 6.9. (berekenen: geluid door civiele buitenschietbanen, militaire buitenschietbanen en militaire springterreinen)
 
-1. Het geluid door het exploiteren van een in de buitenlucht of in een gebouw zonder gesloten afdekking of met een open zijde gelegen civiele of militaire schietbaan of militair springterrein, waarvoor een omgevingsplan een waarde als bedoeld in [artikel 5.76, tweede of derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.76) bevat, wordt berekend volgens [bijlage XVIIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIc&z=2026-07-01&g=2026-07-01).
+1. Het geluid door het exploiteren van een in de buitenlucht of in een gebouw zonder gesloten afdekking of met een open zijde gelegen civiele of militaire schietbaan of militair springterrein, waarvoor een omgevingsplan een waarde als bedoeld in [artikel 5.76, tweede of derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.76) bevat, wordt berekend volgens [bijlage XVIIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIc&z=2026-08-18&g=2026-08-18).
 
-2. In afwijking van het eerste lid kan het geluid door het exploiteren van een civiele schietbaan, als het gaat om een kleiduivenschietbaan of een schermenbaan voor het toepassingsgebied, bedoeld in [bijlage XVIIId](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIId&z=2026-07-01&g=2026-07-01), ook volgens die bijlage worden berekend.
+2. In afwijking van het eerste lid kan het geluid door het exploiteren van een civiele schietbaan, als het gaat om een kleiduivenschietbaan of een schermenbaan voor het toepassingsgebied, bedoeld in [bijlage XVIIId](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIId&z=2026-08-18&g=2026-08-18), ook volgens die bijlage worden berekend.
 
 3. Bij het berekenen van het geluid op een geluidgevoelig gebouw wordt het geluid dat wordt gereflecteerd door de gevel waarop het geluid wordt bepaald buiten beschouwing gelaten.
 
@@ -3635,9 +3635,9 @@ Deze paragraaf is van toepassing op het berekenen van de geur door het exploiter
 
 3. De emissie van geur per seconde door een procesonderdeel wordt:
 
-- a. als voor het procesonderdeel in [bijlage XVIIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIe&z=2026-07-01&g=2026-07-01) een geuremissiefactor is vastgesteld: berekend door de geuremissiefactor te vermenigvuldigen met de oppervlakte of, als het gaat om overstorten, de lengte van het procesonderdeel; en
+- a. als voor het procesonderdeel in [bijlage XVIIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIe&z=2026-08-18&g=2026-08-18) een geuremissiefactor is vastgesteld: berekend door de geuremissiefactor te vermenigvuldigen met de oppervlakte of, als het gaat om overstorten, de lengte van het procesonderdeel; en
 
-- b. als voor het procesonderdeel in [bijlage XVIIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIe&z=2026-07-01&g=2026-07-01) geen geuremissiefactor is vastgesteld: bepaald met een geuronderzoek volgens NTA 9065.
+- b. als voor het procesonderdeel in [bijlage XVIIIe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIe&z=2026-08-18&g=2026-08-18) geen geuremissiefactor is vastgesteld: bepaald met een geuronderzoek volgens NTA 9065.
 
 ##### Artikel 6.14. (berekenen: geur door het houden van landbouwhuisdieren in een dierenverblijf)
 
@@ -3653,9 +3653,9 @@ Deze paragraaf is van toepassing op het berekenen van de geur door het exploiter
 
 3. De emissie van geur per seconde door een diercategorie wordt berekend door het aantal dieren van die diercategorie in een dierenverblijf te vermenigvuldigen met de voor die diercategorie geldende emissie van geur per dierplaats per seconde.
 
-4. De emissie van geur per dierplaats per seconde is gelijk aan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde geuremissiefactor voor het in het dierenverblijf toegepaste huisvestingssysteem.
+4. De emissie van geur per dierplaats per seconde is gelijk aan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde geuremissiefactor voor het in het dierenverblijf toegepaste huisvestingssysteem.
 
-5. In afwijking van het vierde lid wordt de emissie van geur per dierplaats per seconde bij het toepassen van een aanvullende techniek berekend met het voor die techniek in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-07-01&g=2026-07-01) vastgestelde reductiepercentage voor geur en de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde geuremissiefactor volgens de formule:
+5. In afwijking van het vierde lid wordt de emissie van geur per dierplaats per seconde bij het toepassen van een aanvullende techniek berekend met het voor die techniek in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-08-18&g=2026-08-18) vastgestelde reductiepercentage voor geur en de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde geuremissiefactor volgens de formule:
 
 - a. als één aanvullende techniek wordt toegepast, anders dan in een situatie als bedoeld onder b: *emissie van geur = geuremissiefactor huisvestingssysteem x (100% – reductiepercentage geur aanvullende techniek);*
 
@@ -3809,7 +3809,7 @@ Als coördinaten worden verstrekt, worden deze uitgedrukt in:
 
 ##### Artikel 7.2. (toepassingsbereik)
 
-Deze afdeling is van toepassing op het verstrekken van gegevens en bescheiden bij een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) en, voor zover het gaat om de [artikelen 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.3&z=2026-07-01&g=2026-07-01) en [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.4&z=2026-07-01&g=2026-07-01), ook op het verstrekken van gegevens en bescheiden bij een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.3) of [5.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.4).
+Deze afdeling is van toepassing op het verstrekken van gegevens en bescheiden bij een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) en, voor zover het gaat om de [artikelen 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.3&z=2026-08-18&g=2026-08-18) en [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.4&z=2026-08-18&g=2026-08-18), ook op het verstrekken van gegevens en bescheiden bij een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.3) of [5.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.4).
 
 ##### Artikel 7.3. (algemene aanvraagvereisten)
 
@@ -3971,11 +3971,11 @@ Bij een aanvraag worden gegevens en bescheiden verstrekt over kwaliteitsverklari
 
 ##### Artikel 7.14. (bouwactiviteit: aanvullende aanvraagvereisten woonwagens)
 
-Bij een aanvraag die gaat over een woonwagen, kan ter voldoening aan de [artikelen 7.7 tot en met 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.7&z=2026-07-01&g=2026-07-01) en [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.13&z=2026-07-01&g=2026-07-01), documentatie van de leverancier van de woonwagen worden verstrekt.
+Bij een aanvraag die gaat over een woonwagen, kan ter voldoening aan de [artikelen 7.7 tot en met 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.7&z=2026-08-18&g=2026-08-18) en [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.13&z=2026-08-18&g=2026-08-18), documentatie van de leverancier van de woonwagen worden verstrekt.
 
 ##### Artikel 7.15. (bouwactiviteit: aanvullende aanvraagvereisten wegtunnels)
 
-1. Bij een aanvraag die gaat over een wegtunnel als bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](https://wetten.overheid.nl/jci1.3:c:BWBR0019516) worden aanvullend op de [artikelen 7.7, tot en met 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.7&z=2026-07-01&g=2026-07-01) de volgende gegevens en bescheiden verstrekt:
+1. Bij een aanvraag die gaat over een wegtunnel als bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](https://wetten.overheid.nl/jci1.3:c:BWBR0019516) worden aanvullend op de [artikelen 7.7, tot en met 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.7&z=2026-08-18&g=2026-08-18) de volgende gegevens en bescheiden verstrekt:
 
 - a. een toelichting waaruit blijkt dat het ontwerp van de tunnel voldoet aan de norm van [artikel 6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6);
 
@@ -3985,7 +3985,7 @@ Bij een aanvraag die gaat over een woonwagen, kan ter voldoening aan de [artikel
 
 - d. gegevens en bescheiden waaruit blijkt dat de tunnel voldoet aan de regels voor tunnelveiligheid, bedoeld in [paragraaf 4.2.15 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=4.2.15).
 
-2. Als ook gevraagd wordt om een voorschrift als bedoeld in [artikel 7.3, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.3&z=2026-07-01&g=2026-07-01), worden voor wegtunnels ook gegevens en bescheiden verstrekt waaruit blijkt dat de toestemming als bedoeld in artikel 14 van de richtlijn 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 over minimumveiligheidseisen voor tunnels in het transeuropese wegennet (PbEU 2004, L 167, gerectificeerd in PbEU 2004, L 201) is verkregen om van eisen van die richtlijn af te wijken.
+2. Als ook gevraagd wordt om een voorschrift als bedoeld in [artikel 7.3, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.3&z=2026-08-18&g=2026-08-18), worden voor wegtunnels ook gegevens en bescheiden verstrekt waaruit blijkt dat de toestemming als bedoeld in artikel 14 van de richtlijn 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 over minimumveiligheidseisen voor tunnels in het transeuropese wegennet (PbEU 2004, L 167, gerectificeerd in PbEU 2004, L 201) is verkregen om van eisen van die richtlijn af te wijken.
 
 ##### § 7.2.2.2. Op een later tijdstip te verstrekken gegevens en bescheiden
 
@@ -4007,11 +4007,11 @@ Bij een aanvraag die gaat over een woonwagen, kan ter voldoening aan de [artikel
 
 - d. overzichtstekeningen van constructies in staal, hout en geprefabriceerd beton, met inbegrip van stabiliteitsvoorzieningen en dilataties, principedetails van karakteristieke constructieonderdelen in een schaal van 1:20, 1:10 of 1:5, met inbegrip van maatvoering; en
 
-- e. een toelichting op het ontwerp van de constructies als bedoeld in [artikel 7.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.7&z=2026-07-01&g=2026-07-01).
+- e. een toelichting op het ontwerp van de constructies als bedoeld in [artikel 7.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.7&z=2026-08-18&g=2026-08-18).
 
 3. De hoofdlijn, bedoeld in het eerste lid, onder b, gaat in ieder geval over de wijze van verwarming, koeling en luchtbehandeling, de locatie en wijze van verticaal transport en de locatie van en het type brandveiligheidinstallatie.
 
-4. Gegevens en bescheiden als bedoeld in [artikel 8.3c, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.3c) waarvoor het bevoegd gezag op grond van dat lid als naar zijn oordeel de bouwactiviteit daartoe aanleiding geeft een voorschrift tot het later verstrekken van die gegevens en bescheiden aan de omgevingsvergunning voor de bouwactiviteit kan verbinden zijn: de gegevens en bescheiden, bedoeld in de [artikelen 7.7, eerste lid, onder c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.7&z=2026-07-01&g=2026-07-01), en [7.8 tot en met 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.8&z=2026-07-01&g=2026-07-01).
+4. Gegevens en bescheiden als bedoeld in [artikel 8.3c, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.3c) waarvoor het bevoegd gezag op grond van dat lid als naar zijn oordeel de bouwactiviteit daartoe aanleiding geeft een voorschrift tot het later verstrekken van die gegevens en bescheiden aan de omgevingsvergunning voor de bouwactiviteit kan verbinden zijn: de gegevens en bescheiden, bedoeld in de [artikelen 7.7, eerste lid, onder c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.7&z=2026-08-18&g=2026-08-18), en [7.8 tot en met 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.8&z=2026-08-18&g=2026-08-18).
 
 ##### § 7.2.2.3. Tekeningen en berekeningen
 
@@ -4127,7 +4127,7 @@ Bij een aanvraag wordt een constructieve berekening verstrekt, die ten minste de
 
 - c. merk en type van de toe te passen bouwwerkinstallatie.
 
-2. Een berekening van de waarden, bedoeld in [artikel 7.9, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.9&z=2026-07-01&g=2026-07-01), bevat ten minste de volgende gegevens en bescheiden:
+2. Een berekening van de waarden, bedoeld in [artikel 7.9, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=7.9&z=2026-08-18&g=2026-08-18), bevat ten minste de volgende gegevens en bescheiden:
 
 - a. de totale oppervlakte van kozijnen, ramen, deuren, dichte delen en daarmee gelijk te stellen constructiedelen;
 
@@ -4149,7 +4149,7 @@ Bij een aanvraag wordt een constructieve berekening verstrekt, die ten minste de
 
 ##### Artikel 7.22. (toepassingsbereik)
 
-De artikelen in deze paragraaf zijn alleen van toepassing voor zover dat in de [paragrafen 7.2.3.2 tot en met 7.2.3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.2&z=2026-07-01&g=2026-07-01), [7.2.4.2 tot en met 7.2.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.2&z=2026-07-01&g=2026-07-01) en [7.2.5.2 tot en met 7.2.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.5&sub-paragraaf=7.2.5.2&z=2026-07-01&g=2026-07-01) is bepaald.
+De artikelen in deze paragraaf zijn alleen van toepassing voor zover dat in de [paragrafen 7.2.3.2 tot en met 7.2.3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.2&z=2026-08-18&g=2026-08-18), [7.2.4.2 tot en met 7.2.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.2&z=2026-08-18&g=2026-08-18) en [7.2.5.2 tot en met 7.2.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.5&sub-paragraaf=7.2.5.2&z=2026-08-18&g=2026-08-18) is bepaald.
 
 ##### Artikel 7.22a. (module: milieubelastende activiteiten met externe veiligheidsrisico’s)
 
@@ -4161,7 +4161,7 @@ De artikelen in deze paragraaf zijn alleen van toepassing voor zover dat in de [
 
 - c. de berekende afstand in meters voor de aandachtsgebieden, bedoeld in [artikel 5.12 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.12), en de aan de berekening ten grondslag liggende rekenbestanden.
 
-2. Op het berekenen van de afstanden voor het plaatsgebonden risico en de aandachtsgebieden zijn de [artikelen 4.11, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&artikel=4.11&z=2026-07-01&g=2026-07-01), en [4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&artikel=4.12&z=2026-07-01&g=2026-07-01), van overeenkomstige toepassing.
+2. Op het berekenen van de afstanden voor het plaatsgebonden risico en de aandachtsgebieden zijn de [artikelen 4.11, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&artikel=4.11&z=2026-08-18&g=2026-08-18), en [4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&artikel=4.12&z=2026-08-18&g=2026-08-18), van overeenkomstige toepassing.
 
 3. Als bij de aanvraag gegevens en bescheiden zijn verstrekt over de kans op het overlijden van een groep van tien of meer personen per jaar, bedoeld in [artikel 8.10a, eerste lid, onder c, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.10a), is op het berekenen van die kans Safeti-NL van toepassing.
 
@@ -4259,7 +4259,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater op een
 
    - 6°. de belangrijkste door de aanvrager bestudeerde alternatieven voor de voorgestelde technologie, technieken en maatregelen;
 
-- b. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01); en
+- b. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18); en
 
 - c. een niet-technische samenvatting van de gegevens en bescheiden, bedoeld onder a en b.
 
@@ -4305,7 +4305,7 @@ Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-in
 
    - 10°. een beschrijving van de maatregelen die worden getroffen om energie doelmatig te gebruiken;
 
-- b. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01);
+- b. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18);
 
 - c. als bodembedreigende stoffen worden gebruikt, gemaakt of uitgestoten: een rapport van een bodemonderzoek dat:
 
@@ -4353,13 +4353,13 @@ Bij een aanvraag om een omgevingsvergunning voor het verrichten van een milieube
 
 ##### Artikel 7.28. (lozingsactiviteit: lozen op een zuiveringtechnisch werk)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van een milieubelastende activiteit op een zuiveringtechnisch werk, bedoeld in [artikel 3.3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.3), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van een milieubelastende activiteit op een zuiveringtechnisch werk, bedoeld in [artikel 3.3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.3), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.3.3. Activiteiten die bedrijfstakken overstijgen
 
 ##### Artikel 7.29. (milieubelastende activiteit: stookinstallatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een stookinstallatie met een nominaal thermisch ingangsvermogen van meer dan 100 kW, bedoeld in [artikel 3.5, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.5), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een stookinstallatie met een nominaal thermisch ingangsvermogen van meer dan 100 kW, bedoeld in [artikel 3.5, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.5), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -4371,7 +4371,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.29a. (lozingsactiviteit: stookinstallatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van een stookinstallatie, bedoeld in [artikel 3.5, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.5), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van een stookinstallatie, bedoeld in [artikel 3.5, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.5), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.30. (milieubelastende activiteit: zendmasten)
 
@@ -4389,7 +4389,7 @@ Bij een aanvraag om een omgevingsvergunning voor het omzetten van elektrische en
 
 - d. de berekende afstand in meters tot waar het plaatsgebonden risico 1 op de 100.000 en 1 op de 1.000.000 per jaar is en de aan de berekening ten grondslag liggende rekenbestanden.
 
-2. Op het berekenen van de afstand voor het plaatsgebonden risico is [artikel 4.11, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&artikel=4.11&z=2026-07-01&g=2026-07-01), van overeenkomstige toepassing.
+2. Op het berekenen van de afstand voor het plaatsgebonden risico is [artikel 4.11, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.3&artikel=4.11&z=2026-08-18&g=2026-08-18), van overeenkomstige toepassing.
 
 ##### Artikel 7.32
 
@@ -4397,11 +4397,11 @@ Bij een aanvraag om een omgevingsvergunning voor het omzetten van elektrische en
 
 ##### Artikel 7.33. (milieubelastende activiteit: koelinstallatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een koelinstallatie, bedoeld in de [artikelen 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.15) en [3.16, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.16), worden de gegevens en bescheiden, bedoeld in [artikel 7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een koelinstallatie, bedoeld in de [artikelen 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.15) en [3.16, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.16), worden de gegevens en bescheiden, bedoeld in [artikel 7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
-- a. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01);
+- a. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18);
 
 - b. als het gaat om een koelinstallatie met ammoniak: een beschrijving van de maatregelen die worden getroffen om te voldoen aan PGS 13;
 
@@ -4419,7 +4419,7 @@ Bij een aanvraag om een omgevingsvergunning voor het omzetten van elektrische en
 
    - 6°. de coördinaten van de koelinstallatie;
 
-- d. als het gaat om een koelinstallatie met ten minste 10.000 kg ammoniak of met een diameter van de vloeistofleiding naar de verdamper van meer dan 80 mm: de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01); en
+- d. als het gaat om een koelinstallatie met ten minste 10.000 kg ammoniak of met een diameter van de vloeistofleiding naar de verdamper van meer dan 80 mm: de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18); en
 
 - e. als het gaat om een koelinstallatie met meer dan 100 kg koolwaterstoffen: gegevens over:
 
@@ -4429,7 +4429,7 @@ Bij een aanvraag om een omgevingsvergunning voor het omzetten van elektrische en
 
 ##### Artikel 7.34. (lozingsactiviteit: koelinstallatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van een koelinstallatie, bedoeld in [artikel 3.16, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.16), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van een koelinstallatie, bedoeld in [artikel 3.16, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.16), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.35. (milieubelastende activiteit: open bodemenergiesysteem)
 
@@ -4457,13 +4457,13 @@ Bij een aanvraag om een omgevingsvergunning voor het aanleggen en gebruiken van 
 
 ##### Artikel 7.36. (lozingsactiviteit: open bodemenergiesysteem)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het aanleggen of gebruiken van een open bodemenergiesysteem, bedoeld in [artikel 3.19, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.19), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a, b, f, g, h en j tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het aanleggen of gebruiken van een open bodemenergiesysteem, bedoeld in [artikel 3.19, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.19), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a, b, f, g, h en j tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook gegevens en bescheiden verstrekt over het gehalte van ammonium, zware metalen, ijzer en natriumchloride van het te lozen afvalwater.
 
 ##### Artikel 7.37. (milieubelastende activiteit: opslagtank voor gassen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het opslaan van gassen in een opslagtank, bedoeld in de [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.21) en [3.22, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.22), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het opslaan van gassen in een opslagtank, bedoeld in de [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.21) en [3.22, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.22), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -4481,13 +4481,13 @@ Bij een aanvraag om een omgevingsvergunning voor het aanleggen en gebruiken van 
 
    - 1°. de jaarlijkse doorzet in kubieke meters;
 
-   - 2°. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01);
+   - 2°. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18);
 
    - 3°. als het gaat om een bovengrondse opslagtank: de coördinaten van het vulpunt en de opslagtank; en
 
    - 4°. als het gaat om een ondergrondse opslagtank: de coördinaten van het vulpunt, de bovengrondse vloeistofvoerende leiding en de aansluitpunten van die leiding en pomp.
 
-- g. als het gaat om het opslaan van meer dan 1.500 kg ammoniak, meer dan 1 m3 andere giftige of bijtende gassen van ADR-klasse 2, meer dan 1 m3 gassen in de gevarenklasse acute toxiciteit, categorie 1, 2 of 3, bedoeld in bijlage I, deel 3, bij de CLP-verordening, ten hoogste 50 m3 propaan of propeen met een jaarlijkse doorzet van meer dan 600 m3, meer dan 50 m3 propaan of propeen of meer dan 13 m3 acetyleen: de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01);
+- g. als het gaat om het opslaan van meer dan 1.500 kg ammoniak, meer dan 1 m3 andere giftige of bijtende gassen van ADR-klasse 2, meer dan 1 m3 gassen in de gevarenklasse acute toxiciteit, categorie 1, 2 of 3, bedoeld in bijlage I, deel 3, bij de CLP-verordening, ten hoogste 50 m3 propaan of propeen met een jaarlijkse doorzet van meer dan 600 m3, meer dan 50 m3 propaan of propeen of meer dan 13 m3 acetyleen: de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18);
 
 - h. als het gaat om het opslaan van zuurstof, kooldioxide, argon, helium of stikstof: een beschrijving van de maatregelen die worden getroffen om te voldoen aan PGS 9;
 
@@ -4497,7 +4497,7 @@ Bij een aanvraag om een omgevingsvergunning voor het aanleggen en gebruiken van 
 
 ##### Artikel 7.38. (milieubelastende activiteit: opslagtank of tankcontainer of verpakking voor vloeistoffen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het opslaan van vloeistoffen in een opslagtank of een tankcontainer of verpakking die als opslagtank wordt gebruikt, bedoeld in de [artikelen 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.24) en [3.25, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.25), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het opslaan van vloeistoffen in een opslagtank of een tankcontainer of verpakking die als opslagtank wordt gebruikt, bedoeld in de [artikelen 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.24) en [3.25, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.25), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -4525,7 +4525,7 @@ Bij een aanvraag om een omgevingsvergunning voor het aanleggen en gebruiken van 
 
       - ii. bij opname door de mond acuut toxisch zijn, voor zover die stoffen niet kunnen worden ingedeeld in die klasse bij inademing of blootstelling aan de huid; of
 
-   - 4°. vloeibare gevaarlijke stoffen van ADR-klasse 3, verpakkingsgroep I of II in een bovengrondse opslagtank of een tankcontainer of verpakking die als opslagtank wordt gebruikt met een inhoud van meer dan 150 m3: de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01);
+   - 4°. vloeibare gevaarlijke stoffen van ADR-klasse 3, verpakkingsgroep I of II in een bovengrondse opslagtank of een tankcontainer of verpakking die als opslagtank wordt gebruikt met een inhoud van meer dan 150 m3: de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18);
 
 - f. als de stoffen onder druk worden opgeslagen: de druk in kilopascal;
 
@@ -4539,7 +4539,7 @@ Bij een aanvraag om een omgevingsvergunning voor het aanleggen en gebruiken van 
 
 ##### Artikel 7.39. (lozingsactiviteit: opslagtank of tankcontainer of verpakking voor vloeistoffen)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het opslaan van vloeibare gevaarlijke stoffen in een opslagtank of een tankcontainer of verpakking die als opslagtank wordt gebruikt, bedoeld in [artikel 3.25, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.25), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a, b, c, e, f, g, h en n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het opslaan van vloeibare gevaarlijke stoffen in een opslagtank of een tankcontainer of verpakking die als opslagtank wordt gebruikt, bedoeld in [artikel 3.25, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.25), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a, b, c, e, f, g, h en n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.40. (milieubelastende activiteit: gevaarlijke stoffen in verpakking)
 
@@ -4565,15 +4565,15 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 - j. een beschrijving van de maatregelen die worden getroffen om te voldoen aan PGS 15;
 
-- k. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01);
+- k. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18);
 
-- l. als het gaat om het opslaan van meer dan 1.500 l giftige of bijtende gassen van ADR-klasse 2 of meer dan 1.500 l tot vloeistof verdichte gassen in de gevarenklasse acute toxiciteit, categorie 1, 2 of 3, bedoeld in bijlage I, deel 3, bij de CLP-verordening, in gasflessen, bedoeld in [artikel 3.28, aanhef en onder a of g, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.28): de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01);
+- l. als het gaat om het opslaan van meer dan 1.500 l giftige of bijtende gassen van ADR-klasse 2 of meer dan 1.500 l tot vloeistof verdichte gassen in de gevarenklasse acute toxiciteit, categorie 1, 2 of 3, bedoeld in bijlage I, deel 3, bij de CLP-verordening, in gasflessen, bedoeld in [artikel 3.28, aanhef en onder a of g, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.28): de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18);
 
 - m. als het gaat om het opslaan van 10.000 kg of meer in totaal van de gevaarlijke stoffen, bedoeld in [artikel 3.27, eerste lid, onder a, b of c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.27), bedoeld in [artikel 3.28, aanhef en onder h, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.28), voor zover brandbare gevaarlijke stoffen met fluor-, chloor-, broom-, stikstof- of zwavelhoudende verbindingen worden opgeslagen, of zowel brandbare gevaarlijke stoffen als gevaarlijke stoffen met die verbindingen worden opgeslagen, en voor zover het gaat om:
 
    - 1°. een opslagplaats met een oppervlakte van meer dan 100 m2; of
 
-   - 2°. verpakkingseenheden van meer dan 100 kg met een stof van ADR-klasse 6.1, van verpakkingsgroep I, die in de open lucht worden gelost of geladen: de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01); en
+   - 2°. verpakkingseenheden van meer dan 100 kg met een stof van ADR-klasse 6.1, van verpakkingsgroep I, die in de open lucht worden gelost of geladen: de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18); en
 
 - n. als het gaat om het opslaan van gevaarlijke stoffen van ADR-klasse 5.2: een beschrijving van de maatregelen die worden getroffen om te voldoen aan PGS 8.
 
@@ -4593,7 +4593,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 - c. de grootte van de deuropening in vierkante meters van elke bewaarplaats en bufferbewaarplaats voor vuurwerk of pyrotechnische artikelen voor theatergebruik;
 
-- d. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01);
+- d. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18);
 
 - e. als de aanvraag betrekking heeft op het opslaan van vuurwerk van categorie F4: de hoeveelheid NEM in kilogrammen; en
 
@@ -4637,7 +4637,7 @@ Bij een aanvraag om een omgevingsvergunning voor het opslaan van ontplofbare sto
 
 - f. als het gaat om het opslaan van gevaarlijke stoffen van ADR-klasse 1.1, 1.3 of 1.4: een beschrijving van de maatregelen die worden getroffen om te voldoen aan PGS 32; en
 
-- g. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- g. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 7.43. (milieubelastende activiteit: vaste minerale anorganische meststoffen)
 
@@ -4653,15 +4653,15 @@ Bij een aanvraag om een omgevingsvergunning voor het opslaan van vaste minerale 
 
 - e. een beschrijving van de maatregelen die worden getroffen om te voldoen aan PGS 7; en
 
-- f. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- f. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 7.44. (milieubelastende activiteit: bedrijfsafval of gevaarlijk afval)
 
-Bij een aanvraag om een omgevingsvergunning voor het verrichten van activiteiten met bedrijfsafvalstoffen of gevaarlijke afvalstoffen voorafgaand aan de inzameling of afgifte van deze afvalstoffen, bedoeld in de [artikelen 3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.39) en [3.40 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40), worden de gegevens en bescheiden, bedoeld in [artikel 7.26, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het verrichten van activiteiten met bedrijfsafvalstoffen of gevaarlijke afvalstoffen voorafgaand aan de inzameling of afgifte van deze afvalstoffen, bedoeld in de [artikelen 3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.39) en [3.40 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40), worden de gegevens en bescheiden, bedoeld in [artikel 7.26, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.45. (milieubelastende activiteit: op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen buiten stortplaatsen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in de [artikelen 3.40b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b), en [3.40c, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40c), worden de gegevens en bescheiden, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in de [artikelen 3.40b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b), en [3.40c, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40c), worden de gegevens en bescheiden, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Als het op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen kan worden aangemerkt als het verwijderen van afvalstoffen, worden bij de aanvraag ook de volgende gegevens en bescheiden verstrekt:
 
@@ -4689,11 +4689,11 @@ Bij een aanvraag om een omgevingsvergunning voor het verrichten van activiteiten
 
 ##### Artikel 7.46. (lozingsactiviteit: op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen buiten stortplaatsen)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in [artikel 3.40c, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40c), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in [artikel 3.40c, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40c), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.47. (milieubelastende activiteit: verbranden van afvalstoffen anders dan in een ippc-installatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het verbranden van bedrijfsafvalstoffen of gevaarlijke afvalstoffen in een andere milieubelastende installatie of buiten een installatie, bedoeld in de [artikelen 3.40d](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40d) en [3.40e, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40e), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het verbranden van bedrijfsafvalstoffen of gevaarlijke afvalstoffen in een andere milieubelastende installatie of buiten een installatie, bedoeld in de [artikelen 3.40d](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40d) en [3.40e, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40e), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Als [paragraaf 4.4 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.4) van toepassing is, worden bij de aanvraag ook de volgende gegevens en bescheiden verstrekt:
 
@@ -4711,13 +4711,13 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.48. (lozingsactiviteit: verbranden van afvalstoffen anders dan in een ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het verbranden van bedrijfsafvalstoffen of gevaarlijke afvalstoffen in een andere milieubelastende installatie of buiten een installatie, bedoeld in [artikel 3.40e, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40e), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het verbranden van bedrijfsafvalstoffen of gevaarlijke afvalstoffen in een andere milieubelastende installatie of buiten een installatie, bedoeld in [artikel 3.40e, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40e), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.49. (milieubelastende activiteit: zuiveringsvoorziening voor ingezameld of afgegeven afvalwater)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het behandelen van afvalwater, bedoeld in de [artikelen 3.41, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.41), en [3.42, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.42), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het behandelen van afvalwater, bedoeld in de [artikelen 3.41, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.41), en [3.42, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.42), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
-2. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een zuiveringsvoorziening voor het zuiveren van ingezameld of afgegeven afvalwater, bedoeld in de [artikelen 3.41, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.41), en [3.42, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.42), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+2. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een zuiveringsvoorziening voor het zuiveren van ingezameld of afgegeven afvalwater, bedoeld in de [artikelen 3.41, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.41), en [3.42, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.42), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 3. Bij de aanvraag, bedoeld in het tweede lid, worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -4741,21 +4741,21 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.50. (lozingsactiviteit: zuiveringsvoorziening voor ingezameld of afgegeven afvalwater)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het behandelen van afvalwater, bedoeld in de [artikelen 3.41, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.41), en [3.42, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.42), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01) verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het behandelen van afvalwater, bedoeld in de [artikelen 3.41, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.41), en [3.42, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.42), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18) verstrekt.
 
-2. Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een zuiveringsvoorziening voor het zuiveren van ingezameld of afgegeven afvalwater, bedoeld in de [artikelen 3.41, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.41), en [3.42, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.42), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+2. Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een zuiveringsvoorziening voor het zuiveren van ingezameld of afgegeven afvalwater, bedoeld in de [artikelen 3.41, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.41), en [3.42, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.42), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.51. (milieubelastende activiteit: oppervlaktebehandeling met oplosmiddelen)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van stoffen, voorwerpen of producten met organische oplosmiddelen, bedoeld in de [artikelen 3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.44) en [3.45, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.45), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van stoffen, voorwerpen of producten met organische oplosmiddelen, bedoeld in de [artikelen 3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.44) en [3.45, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.45), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.52. (lozingsactiviteit: oppervlaktebehandeling met oplosmiddelen)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van stoffen, voorwerpen of producten met organische oplosmiddelen, bedoeld in [artikel 3.45, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.45), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van stoffen, voorwerpen of producten met organische oplosmiddelen, bedoeld in [artikel 3.45, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.45), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.53. (milieubelastende activiteit: afvangen kooldioxide voor ondergrondse opslag)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het afvangen van CO2-stromen voor geologische opslag, bedoeld in de [artikelen 3.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.47) en [3.48, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het afvangen van CO2-stromen voor geologische opslag, bedoeld in de [artikelen 3.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.47) en [3.48, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.53a. (milieubelastende activiteit: op of in de bodem brengen van zuiveringsslib)
 
@@ -4767,7 +4767,7 @@ Bij een aanvraag om een omgevingsvergunning voor het op of in de bodem brengen v
 
 ##### Artikel 7.53b. (milieubelastende activiteit: opslaan, zeven, mechanisch ontwateren of samenvoegen van grond of baggerspecie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het opslaan, zeven, mechanisch ontwateren of samenvoegen van grond van de kwaliteitsklasse matig verontreinigd of sterk verontreinigd, baggerspecie van de kwaliteitsklasse sterk verontreinigd of grond of baggerspecie die niet beschikt over een milieuverklaring bodemkwaliteit, bedoeld in [artikel 3.48k, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48k), worden de gegevens en bescheiden, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het opslaan, zeven, mechanisch ontwateren of samenvoegen van grond van de kwaliteitsklasse matig verontreinigd of sterk verontreinigd, baggerspecie van de kwaliteitsklasse sterk verontreinigd of grond of baggerspecie die niet beschikt over een milieuverklaring bodemkwaliteit, bedoeld in [artikel 3.48k, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48k), worden de gegevens en bescheiden, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -4785,7 +4785,7 @@ Bij een aanvraag om een omgevingsvergunning voor het op of in de bodem brengen v
 
 ##### Artikel 7.53c. (lozingsactiviteit: opslaan, zeven, mechanisch ontwateren of samenvoegen van grond of baggerspecie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het opslaan, zeven, mechanisch ontwateren of samenvoegen van grond van de kwaliteitsklasse matig verontreinigd of sterk verontreinigd, baggerspecie van de kwaliteitsklasse sterk verontreinigd of grond of baggerspecie die niet beschikt over een milieuverklaring bodemkwaliteit, bedoeld in [artikel 3.48k, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48k), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het opslaan, zeven, mechanisch ontwateren of samenvoegen van grond van de kwaliteitsklasse matig verontreinigd of sterk verontreinigd, baggerspecie van de kwaliteitsklasse sterk verontreinigd of grond of baggerspecie die niet beschikt over een milieuverklaring bodemkwaliteit, bedoeld in [artikel 3.48k, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48k), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.53d. (lozingsactiviteit: opvullen diepe plas)
 
@@ -4839,7 +4839,7 @@ Bij een aanvraag om een omgevingsvergunning voor het brengen van grond of bagger
 
 ##### Artikel 7.54. (milieubelastende activiteit: exploiteren van een Seveso-inrichting)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een Seveso-inrichting, bedoeld in de [artikelen 3.50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.50), en [3.51, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.51), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01), en [7.27, onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een Seveso-inrichting, bedoeld in de [artikelen 3.50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.50), en [3.51, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.51), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18), en [7.27, onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -4869,97 +4869,97 @@ Bij een aanvraag om een omgevingsvergunning voor het brengen van grond of bagger
 
 ##### Artikel 7.55. (lozingsactiviteit: exploiteren van een Seveso-inrichting)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een Seveso-inrichting, bedoeld in [artikel 3.51, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.51), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een Seveso-inrichting, bedoeld in [artikel 3.51, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.51), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.56. (milieubelastende activiteit: grootschalige energieopwekking)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het stoken, bedoeld in de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.54) en [3.55, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het stoken, bedoeld in de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.54) en [3.55, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook gegevens en bescheiden verstrekt die duidelijk maken of het afvangen en comprimeren van kooldioxide en het transporteren daarvan naar een geschikte opslaglocatie in technisch en economisch opzicht haalbaar zijn.
 
 ##### Artikel 7.57. (lozingsactiviteit: grootschalige energieopwekking)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het stoken, bedoeld in [artikel 3.55, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het stoken, bedoeld in [artikel 3.55, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.58. (milieubelastende activiteit: raffinaderij)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het raffineren van aardolie en gas, bedoeld in de [artikelen 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.57) en [3.58, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.58), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het raffineren van aardolie en gas, bedoeld in de [artikelen 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.57) en [3.58, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.58), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.59. (lozingsactiviteit: raffinaderij)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het raffineren van aardolie en gas, bedoeld in [artikel 3.58, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.58), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het raffineren van aardolie en gas, bedoeld in [artikel 3.58, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.58), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.60. (milieubelastende activiteit: maken van cokes)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het maken van cokes, bedoeld in de [artikelen 3.60](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.60) en [3.61, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.61), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het maken van cokes, bedoeld in de [artikelen 3.60](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.60) en [3.61, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.61), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.61. (lozingsactiviteit: maken van cokes)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het maken van cokes, bedoeld in [artikel 3.61, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.61), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het maken van cokes, bedoeld in [artikel 3.61, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.61), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.62. (milieubelastende activiteit: vergassen of vloeibaar maken van steenkool of andere brandstoffen)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het vergassen of vloeibaar maken van steenkool of andere brandstoffen, het briketteren of walsen van steenkool of bruinkool of het maken van steenkoolproducten of vaste rookvrije brandstof, bedoeld in de [artikelen 3.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.63), en [3.64, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.64), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het vergassen of vloeibaar maken van steenkool of andere brandstoffen, het briketteren of walsen van steenkool of bruinkool of het maken van steenkoolproducten of vaste rookvrije brandstof, bedoeld in de [artikelen 3.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.63), en [3.64, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.64), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.63. (lozingsactiviteit: vergassen of vloeibaar maken van steenkool of andere brandstoffen)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het vergassen of vloeibaar maken van steenkool of andere brandstoffen, het briketteren of walsen van steenkool of bruinkool of het maken van steenkoolproducten of vaste rookvrije brandstof, bedoeld in [artikel 3.64, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.64), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het vergassen of vloeibaar maken van steenkool of andere brandstoffen, het briketteren of walsen van steenkool of bruinkool of het maken van steenkoolproducten of vaste rookvrije brandstof, bedoeld in [artikel 3.64, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.64), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.64. (milieubelastende activiteit: basismetaal)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het roosten of sinteren van ertsen, het maken van ijzer of staal, het verwerken, smelten of gieten van ferrometalen of het winnen van ruwe non-ferrometalen, bedoeld in de [artikelen 3.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.66), en [3.67, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.67), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het roosten of sinteren van ertsen, het maken van ijzer of staal, het verwerken, smelten of gieten van ferrometalen of het winnen van ruwe non-ferrometalen, bedoeld in de [artikelen 3.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.66), en [3.67, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.67), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.65. (lozingsactiviteit: basismetaal)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het roosten of sinteren van ertsen, het maken van ijzer of staal, het verwerken, smelten of gieten van ferrometalen of het winnen van ruwe non-ferrometalen, bedoeld in [artikel 3.67, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.67), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het roosten of sinteren van ertsen, het maken van ijzer of staal, het verwerken, smelten of gieten van ferrometalen of het winnen van ruwe non-ferrometalen, bedoeld in [artikel 3.67, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.67), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.66. (milieubelastende activiteit: complexe minerale industrie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het maken van cement, cementklinkers, ongebluste kalk of magnesiumoxide, het winnen van asbest of het maken van asbestproducten, het maken van glas, met inbegrip van het maken van glasvezels, het smelten van minerale stoffen, het maken van mineraalvezels, glazuren of emailles of het maken van koolstof of elektrografiet, bedoeld in de [artikelen 3.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.69), en [3.70, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.70), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het maken van cement, cementklinkers, ongebluste kalk of magnesiumoxide, het winnen van asbest of het maken van asbestproducten, het maken van glas, met inbegrip van het maken van glasvezels, het smelten van minerale stoffen, het maken van mineraalvezels, glazuren of emailles of het maken van koolstof of elektrografiet, bedoeld in de [artikelen 3.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.69), en [3.70, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.70), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.67. (lozingsactiviteit: complexe minerale industrie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het maken van cement, cementklinkers, ongebluste kalk of magnesiumoxide, het winnen van asbest, het maken van asbestproducten, het maken van glas, met inbegrip van het maken van glasvezels, het smelten van minerale stoffen, het maken van mineraalvezels, glazuren of emailles of het maken van koolstof of elektrografiet, bedoeld in de [artikel 3.70, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.70), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het maken van cement, cementklinkers, ongebluste kalk of magnesiumoxide, het winnen van asbest, het maken van asbestproducten, het maken van glas, met inbegrip van het maken van glasvezels, het smelten van minerale stoffen, het maken van mineraalvezels, glazuren of emailles of het maken van koolstof of elektrografiet, bedoeld in de [artikel 3.70, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.70), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.68. (milieubelastende activiteit: basischemie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het maken van organisch-chemische producten, anorganisch-chemische producten, fosfaathoudende, stikstofhoudende of kaliumhoudende meststoffen, producten voor gewasbescherming, biociden, farmaceutische producten of explosieven, bedoeld in de [artikelen 3.72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.72), en [3.73, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.73), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het maken van organisch-chemische producten, anorganisch-chemische producten, fosfaathoudende, stikstofhoudende of kaliumhoudende meststoffen, producten voor gewasbescherming, biociden, farmaceutische producten of explosieven, bedoeld in de [artikelen 3.72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.72), en [3.73, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.73), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.69. (lozingsactiviteit: basischemie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het maken van organisch-chemische producten, anorganisch-chemische producten, fosfaathoudende, stikstofhoudende of kaliumhoudende meststoffen, producten voor gewasbescherming, biociden, farmaceutische producten of explosieven, bedoeld in [artikel 3.73, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.73), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het maken van organisch-chemische producten, anorganisch-chemische producten, fosfaathoudende, stikstofhoudende of kaliumhoudende meststoffen, producten voor gewasbescherming, biociden, farmaceutische producten of explosieven, bedoeld in [artikel 3.73, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.73), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.70. (milieubelastende activiteit: complexe papierindustrie, houtindustrie en textielindustrie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het maken van papierpulp, papier, karton of oriented strand board, spaanplaat of vezelplaat van hout of het voorbehandelen of verven van textielvezels of textiel, bedoeld in de [artikelen 3.75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.75), en [3.76, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.76), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het maken van papierpulp, papier, karton of oriented strand board, spaanplaat of vezelplaat van hout of het voorbehandelen of verven van textielvezels of textiel, bedoeld in de [artikelen 3.75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.75), en [3.76, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.76), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.71. (lozingsactiviteit: complexe papierindustrie, houtindustrie en textielindustrie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het maken van papierpulp, papier, karton of oriented strand board, spaanplaat of vezelplaat van hout of het voorbehandelen of verven van textielvezels of textiel, bedoeld in [artikel 3.76, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.76), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het maken van papierpulp, papier, karton of oriented strand board, spaanplaat of vezelplaat van hout of het voorbehandelen of verven van textielvezels of textiel, bedoeld in [artikel 3.76, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.76), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.72. (milieubelastende activiteit: afvalbeheer)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het verwijderen of nuttig toepassen van gevaarlijke of ongevaarlijke afvalstoffen, het tijdelijk opslaan van gevaarlijke afvalstoffen of het ondergronds opslaan van gevaarlijke afvalstoffen, bedoeld in de [artikelen 3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.78) en [3.79, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.79), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het verwijderen of nuttig toepassen van gevaarlijke of ongevaarlijke afvalstoffen, het tijdelijk opslaan van gevaarlijke afvalstoffen of het ondergronds opslaan van gevaarlijke afvalstoffen, bedoeld in de [artikelen 3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.78) en [3.79, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.79), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag wordt ook een beschrijving verstrekt van de structuur van de onderneming en de organisatie.
 
 ##### Artikel 7.73. (lozingsactiviteit: afvalbeheer)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het verwijderen of nuttig toepassen van gevaarlijke of ongevaarlijke afvalstoffen, het tijdelijk opslaan van gevaarlijke afvalstoffen of het ondergronds opslaan van gevaarlijke afvalstoffen, bedoeld in [artikel 3.79, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.79), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het verwijderen of nuttig toepassen van gevaarlijke of ongevaarlijke afvalstoffen, het tijdelijk opslaan van gevaarlijke afvalstoffen of het ondergronds opslaan van gevaarlijke afvalstoffen, bedoeld in [artikel 3.79, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.79), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.74. (milieubelastende activiteit: kadavers en dierlijk afval)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor de destructie of het verwerken van kadavers en dierlijk afval, bedoeld in de [artikelen 3.81](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.81) en [3.82, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.82), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor de destructie of het verwerken van kadavers en dierlijk afval, bedoeld in de [artikelen 3.81](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.81) en [3.82, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.82), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag wordt ook een beschrijving verstrekt van de structuur van de onderneming en de organisatie.
 
 ##### Artikel 7.75. (lozingsactiviteit: kadavers en dierlijk afval)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor de destructie of het verwerken van kadavers en dierlijk afval, bedoeld in [artikel 3.82, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.82), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor de destructie of het verwerken van kadavers en dierlijk afval, bedoeld in [artikel 3.82, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.82), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.76. (milieubelastende activiteit: stortplaats algemeen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het storten van afvalstoffen, bedoeld in de [artikelen 3.84, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.84), en [3.85, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het storten van afvalstoffen, bedoeld in de [artikelen 3.84, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.84), en [3.85, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5009,7 +5009,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
    - 1°. een aanduiding of in het poriënwater voor een stof de standaardwaarde, bedoeld in [bijlage XVIIIa bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=XVIIIa), wordt overschreden;
 
-   - 2°. als voor een stof die standaardwaarde wordt overschreden: een aanduiding of de toelaatbare flux, bedoeld in [bijlage XVIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIg&z=2026-07-01&g=2026-07-01), voor die stof wordt overschreden;
+   - 2°. als voor een stof die standaardwaarde wordt overschreden: een aanduiding of de toelaatbare flux, bedoeld in [bijlage XVIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIg&z=2026-08-18&g=2026-08-18), voor die stof wordt overschreden;
 
    - 3°. als voor een stof die toelaatbare flux wordt overschreden:
 
@@ -5029,15 +5029,15 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 - e. bewijs dat financiële zekerheid is of wordt gesteld voor het nakomen van verplichtingen die gaan gelden op grond van de omgevingsvergunning over het aanbrengen van een geohydrologisch isolatiesysteem of een afdeklaag.
 
-2. De gegevens, bedoeld in het eerste lid, onder a en c, worden bepaald volgens [bijlage XVIIIf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIf&z=2026-07-01&g=2026-07-01) en berekend met een methode waarmee het bevoegd gezag heeft ingestemd.
+2. De gegevens, bedoeld in het eerste lid, onder a en c, worden bepaald volgens [bijlage XVIIIf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVIIIf&z=2026-08-18&g=2026-08-18) en berekend met een methode waarmee het bevoegd gezag heeft ingestemd.
 
 ##### Artikel 7.78. (lozingsactiviteit: stortplaats)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het storten van afvalstoffen, bedoeld in [artikel 3.85, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie of een andere milieubelastende installatie voor het storten van afvalstoffen, bedoeld in [artikel 3.85, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.79. (milieubelastende activiteit: winningsafvalvoorziening)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het storten of verzamelen van winningsafvalstoffen, bedoeld in de [artikelen 3.84, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.84), en [3.85, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het storten of verzamelen van winningsafvalstoffen, bedoeld in de [artikelen 3.84, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.84), en [3.85, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5081,11 +5081,11 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.80. (lozingsactiviteit: winningsafvalvoorziening)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een andere milieubelastende installatie voor het storten of verzamelen van winningsafvalstoffen, bedoeld in [artikel 3.85, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een andere milieubelastende installatie voor het storten of verzamelen van winningsafvalstoffen, bedoeld in [artikel 3.85, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.81. (milieubelastende activiteit: verbranden van afvalstoffen in een ippc-installatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het verwijderen of het nuttig toepassen van afvalstoffen in een afvalverbrandingsinstallatie of een afvalmeeverbrandingsinstallatie, bedoeld in de [artikelen 3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.87) en [3.88, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.88), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het verwijderen of het nuttig toepassen van afvalstoffen in een afvalverbrandingsinstallatie of een afvalmeeverbrandingsinstallatie, bedoeld in de [artikelen 3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.87) en [3.88, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.88), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5103,25 +5103,25 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.82. (lozingsactiviteit: verbranden van afvalstoffen in een ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het verwijderen of het nuttig toepassen van afvalstoffen in een afvalverbrandingsinstallatie of een afvalmeeverbrandingsinstallatie, bedoeld in [artikel 3.88, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.88), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het verwijderen of het nuttig toepassen van afvalstoffen in een afvalverbrandingsinstallatie of een afvalmeeverbrandingsinstallatie, bedoeld in [artikel 3.88, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.88), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.83. (milieubelastende activiteit: grootschalige mestverwerking)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het behandelen van dierlijke meststoffen, bedoeld in de [artikelen 3.90](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.90) en [3.91, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.91), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het behandelen van dierlijke meststoffen, bedoeld in de [artikelen 3.90](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.90) en [3.91, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.91), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.84. (lozingsactiviteit: grootschalige mestverwerking)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een andere milieubelastende installatie voor het behandelen van dierlijke meststoffen, bedoeld in [artikel 3.91, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.91), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een andere milieubelastende installatie voor het behandelen van dierlijke meststoffen, bedoeld in [artikel 3.91, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.91), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.3.5. Nutssector en industrie
 
 ##### Artikel 7.85. (lozingsactiviteit: drinkwaterbedrijf)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het bewerken van drinkwater voor de openbare drinkwatervoorziening, bedoeld in de [artikelen 3.93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.93), en [3.94, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.94), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h, j en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het bewerken van drinkwater voor de openbare drinkwatervoorziening, bedoeld in de [artikelen 3.93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.93), en [3.94, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.94), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h, j en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.86. (milieubelastende activiteit: behandelen, regelen en meten van aardgas)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het behandelen van aardgas, het regelen van aardgasdruk of het meten van de hoeveelheid of kwaliteit van aardgas, bedoeld in de [artikelen 3.97](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.97) en [3.98 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.98), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het behandelen van aardgas, het regelen van aardgasdruk of het meten van de hoeveelheid of kwaliteit van aardgas, bedoeld in de [artikelen 3.97](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.97) en [3.98 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.98), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5131,23 +5131,23 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.87. (milieubelastende activiteit: metaalproductenindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van metalen of kunststoffen door een elektrolytisch of chemisch procedé, bedoeld in [artikel 3.104, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.104), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van metalen of kunststoffen door een elektrolytisch of chemisch procedé, bedoeld in [artikel 3.104, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.104), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.88. (lozingsactiviteit: metaalproductenindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van metalen of kunststoffen door een elektrolytisch of chemisch procedé, bedoeld in [artikel 3.104, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.104), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van metalen of kunststoffen door een elektrolytisch of chemisch procedé, bedoeld in [artikel 3.104, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.104), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.89. (milieubelastende activiteit: metaalproductenindustrie, overige activiteiten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het smelten of gieten van non-ferrometalen, het harden of gloeien van metalen of het diffunderen van stoffen in het metaaloppervlak, bedoeld in [artikel 3.105, aanhef en onder a, b of c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.105), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het smelten of gieten van non-ferrometalen, het harden of gloeien van metalen of het diffunderen van stoffen in het metaaloppervlak, bedoeld in [artikel 3.105, aanhef en onder a, b of c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.105), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag wordt ook een aanduiding verstrekt van de metalen die worden verwerkt.
 
-3. Bij een aanvraag om een omgevingsvergunning voor het aanbrengen van metaallagen met een cyanidehoudend bad met een inhoud van ten minste 100 l of voor het behandelen van het oppervlak van metalen met een bad met een inhoud van ten minste 1 m3 vloeibare gevaarlijke stoffen van ADR-klasse 6.1 of vloeibare gevaarlijke stoffen in de gevarenklasse acute toxiciteit, categorie 1, 2 of 3, bedoeld in bijlage I, deel 3, bij de CLP-verordening, bedoeld in [artikel 3.105, aanhef en onder d of e, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.105), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01), verstrekt.
+3. Bij een aanvraag om een omgevingsvergunning voor het aanbrengen van metaallagen met een cyanidehoudend bad met een inhoud van ten minste 100 l of voor het behandelen van het oppervlak van metalen met een bad met een inhoud van ten minste 1 m3 vloeibare gevaarlijke stoffen van ADR-klasse 6.1 of vloeibare gevaarlijke stoffen in de gevarenklasse acute toxiciteit, categorie 1, 2 of 3, bedoeld in bijlage I, deel 3, bij de CLP-verordening, bedoeld in [artikel 3.105, aanhef en onder d of e, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.105), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.90. (milieubelastende activiteit: metaalproductenindustrie, andere milieubelastende installatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het verwerken van ferrometalen, het smelten van non-ferrometalen, het behandelen van het oppervlak van metalen, het maken van auto’s of motoren of het assembleren van auto’s, het bouwen of repareren van luchtvaartuigen of het maken van spoorwegmaterieel, bedoeld in [artikel 3.106, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.106) of het met testbanken beproeven van motoren, turbines of reactoren of het uitstampen van metalen met springstoffen, bedoeld in [artikel 3.106, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.106), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het verwerken van ferrometalen, het smelten van non-ferrometalen, het behandelen van het oppervlak van metalen, het maken van auto’s of motoren of het assembleren van auto’s, het bouwen of repareren van luchtvaartuigen of het maken van spoorwegmaterieel, bedoeld in [artikel 3.106, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.106) of het met testbanken beproeven van motoren, turbines of reactoren of het uitstampen van metalen met springstoffen, bedoeld in [artikel 3.106, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.106), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5157,7 +5157,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.91. (milieubelastende activiteit: metaalproductenindustrie, andere milieubelastende installatie en productieoppervlakte ten minste 2.000 m2)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het verwerken van metalen, bedoeld in [artikel 3.107 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.107), worden de gegevens en bescheiden, bedoeld in [artikel 7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het verwerken van metalen, bedoeld in [artikel 3.107 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.107), worden de gegevens en bescheiden, bedoeld in [artikel 7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5171,23 +5171,23 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.92. (lozingsactiviteit: metaalproductenindustrie, lozen van koelwater)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het verwerken van metalen, het op metaal aanbrengen van deklagen of conversielagen, het behandelen van het oppervlak van metalen, het harden en gloeien van metalen, het diffunderen van stoffen in het metaaloppervlak of het maken van producten van metaal, bedoeld in de [artikelen 3.103, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.103), en [3.108 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.108), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het verwerken van metalen, het op metaal aanbrengen van deklagen of conversielagen, het behandelen van het oppervlak van metalen, het harden en gloeien van metalen, het diffunderen van stoffen in het metaaloppervlak of het maken van producten van metaal, bedoeld in de [artikelen 3.103, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.103), en [3.108 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.108), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.93. (milieubelastende activiteit: minerale productenindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het maken van keramische producten door verhitting, bedoeld in [artikel 3.112, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.112), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het maken van keramische producten door verhitting, bedoeld in [artikel 3.112, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.112), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.94. (lozingsactiviteit: minerale productenindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het maken van keramische producten door verhitting, bedoeld in [artikel 3.112, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.112), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het maken van keramische producten door verhitting, bedoeld in [artikel 3.112, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.112), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.95. (milieubelastende activiteit: minerale productenindustrie, asfalt, asfaltproducten, kalkzandsteen en cellenbeton)
 
-Bij een aanvraag om een omgevingsvergunning voor het maken van asfalt, asfaltproducten, kalkzandsteen of cellenbeton, bedoeld in [artikel 3.113 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.113), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het maken van asfalt, asfaltproducten, kalkzandsteen of cellenbeton, bedoeld in [artikel 3.113 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.113), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.96. (milieubelastende activiteit: minerale producten industrie, andere milieubelastende installatie voor keramische producten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van keramische producten door verhitting, bedoeld in [artikel 3.114 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.114), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van keramische producten door verhitting, bedoeld in [artikel 3.114 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.114), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5199,7 +5199,7 @@ Bij een aanvraag om een omgevingsvergunning voor het maken van asfalt, asfaltpro
 
 ##### Artikel 7.97. (milieubelastende activiteit: minerale productenindustrie, andere milieubelastende installatie overig)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het breken, malen, zeven of drogen van mergel, zand, grind, kalk, steenkolen of andere mineralen of derivaten daarvan, het winnen van steen, mergel, zand, grind of kalk of het maken van betonmortel of producten van betonmortel, bedoeld in [artikel 3.115 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.115), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het breken, malen, zeven of drogen van mergel, zand, grind, kalk, steenkolen of andere mineralen of derivaten daarvan, het winnen van steen, mergel, zand, grind of kalk of het maken van betonmortel of producten van betonmortel, bedoeld in [artikel 3.115 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.115), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5215,23 +5215,23 @@ Bij een aanvraag om een omgevingsvergunning voor het maken van asfalt, asfaltpro
 
 ##### Artikel 7.98. (milieubelastende activiteit: chemische productenindustrie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van elastomeren, verf, lak, drukinkt, lijm, waspoeder of enzymen, het vullen van spuitbussen met drijfgassen, het maken van vloeibare biobrandstof of het maken van vloeibare gassen uit de buitenlucht, bedoeld in [artikel 3.119, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.119), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van elastomeren, verf, lak, drukinkt, lijm, waspoeder of enzymen, het vullen van spuitbussen met drijfgassen, het maken van vloeibare biobrandstof of het maken van vloeibare gassen uit de buitenlucht, bedoeld in [artikel 3.119, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.119), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.99. (lozingsactiviteit: chemische productenindustrie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een andere milieubelastende installatie voor het maken van elastomeren, verf, lak, drukinkt, lijm, waspoeder of enzymen, het vullen van spuitbussen met drijfgassen, het maken van vloeibare biobrandstof of het maken van vloeibare gassen uit de buitenlucht, bedoeld in [artikel 3.119, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.119), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een andere milieubelastende installatie voor het maken van elastomeren, verf, lak, drukinkt, lijm, waspoeder of enzymen, het vullen van spuitbussen met drijfgassen, het maken van vloeibare biobrandstof of het maken van vloeibare gassen uit de buitenlucht, bedoeld in [artikel 3.119, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.119), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.100. (milieubelastende activiteit: papierindustrie, houtindustrie, textielindustrie en leerindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het looien van huiden of het conserveren van hout of houtproducten, bedoeld in [artikel 3.123, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.123), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het looien van huiden of het conserveren van hout of houtproducten, bedoeld in [artikel 3.123, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.123), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.101. (lozingsactiviteit: papierindustrie, houtindustrie, textielindustrie en leerindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het looien van huiden of het conserveren van hout of houtproducten, bedoeld in [artikel 3.123, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.123), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het looien van huiden of het conserveren van hout of houtproducten, bedoeld in [artikel 3.123, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.123), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.102. (milieubelastende activiteit: papierindustrie, houtindustrie, textielindustrie en leerindustrie, conserveren hout)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het conserveren van hout of houtproducten, bedoeld in [artikel 3.124, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.124), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het conserveren van hout of houtproducten, bedoeld in [artikel 3.124, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.124), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5241,11 +5241,11 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.103. (lozingsactiviteit: papierindustrie, houtindustrie, textielindustrie en leerindustrie, conserveren hout)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het conserveren van hout of houtproducten, bedoeld in [artikel 3.124, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.124), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het conserveren van hout of houtproducten, bedoeld in [artikel 3.124, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.124), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.104. (milieubelastende activiteit: papierindustrie, houtindustrie, textielindustrie en leerindustrie, andere milieubelastende installatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van papierstof, papier of karton, het looien van huiden of het voorbehandelen of verven van vezels of textiel, bedoeld in [artikel 3.125, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.125), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van papierstof, papier of karton, het looien van huiden of het voorbehandelen of verven van vezels of textiel, bedoeld in [artikel 3.125, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.125), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5257,19 +5257,19 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.105. (lozingsactiviteit: papierindustrie, houtindustrie, textielindustrie en leerindustrie, andere milieubelastende installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een andere milieubelastende installatie voor het maken van papierstof, papier of karton, het looien van huiden of het voorbehandelen of verven van vezels of textiel, bedoeld in [artikel 3.125, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.125), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een andere milieubelastende installatie voor het maken van papierstof, papier of karton, het looien van huiden of het voorbehandelen of verven van vezels of textiel, bedoeld in [artikel 3.125, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.125), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.106. (milieubelastende activiteit: voedingsmiddelenindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het slachten van dieren, het bewerken of verwerken van dierlijke of plantaardige grondstoffen voor het maken van levensmiddelen of voeder of het bewerken en verwerken van alleen melk, bedoeld in [artikel 3.129, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.129), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het slachten van dieren, het bewerken of verwerken van dierlijke of plantaardige grondstoffen voor het maken van levensmiddelen of voeder of het bewerken en verwerken van alleen melk, bedoeld in [artikel 3.129, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.129), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.107. (lozingsactiviteit: voedingsmiddelenindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het slachten van dieren, het bewerken of verwerken van dierlijke of plantaardige grondstoffen voor het maken van levensmiddelen of voeder of het bewerken en verwerken van alleen melk, bedoeld in [artikel 3.129, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.129), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het slachten van dieren, het bewerken of verwerken van dierlijke of plantaardige grondstoffen voor het maken van levensmiddelen of voeder of het bewerken en verwerken van alleen melk, bedoeld in [artikel 3.129, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.129), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.108. (milieubelastende activiteit: voedingsmiddelenindustrie, andere milieubelastende installatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van dierlijke of plantaardige oliën en vetten, het maken van conserven van dierlijke en plantaardige producten, het maken van zuivel, het brouwen van bier of het mouten, het maken van siroop of suikerwaren, het slachten van dieren of het maken van zetmeel, vismeel, visolie of suiker, bedoeld in [artikel 3.130 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.130), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van dierlijke of plantaardige oliën en vetten, het maken van conserven van dierlijke en plantaardige producten, het maken van zuivel, het brouwen van bier of het mouten, het maken van siroop of suikerwaren, het slachten van dieren of het maken van zetmeel, vismeel, visolie of suiker, bedoeld in [artikel 3.130 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.130), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5281,25 +5281,25 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.109. (milieubelastende activiteit: voedingsmiddelenindustrie, voedingsmiddelen voor landbouwhuisdieren)
 
-Bij een aanvraag om een omgevingsvergunning voor het maken of bewerken van voedingsmiddelen voor landbouwhuisdieren, bedoeld in [artikel 3.131 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.131), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het maken of bewerken van voedingsmiddelen voor landbouwhuisdieren, bedoeld in [artikel 3.131 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.131), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.110. (milieubelastende activiteit: rubberindustrie en kunststofindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van metalen of kunststoffen door een elektrolytisch of chemisch procedé, bedoeld in [artikel 3.135, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.135), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van metalen of kunststoffen door een elektrolytisch of chemisch procedé, bedoeld in [artikel 3.135, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.135), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.111. (lozingsactiviteit: rubberindustrie en kunststofindustrie, ippc-installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van metalen of kunststoffen door een elektrolytisch of chemisch procedé, bedoeld in [artikel 3.135, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.135), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een ippc-installatie voor het behandelen van het oppervlak van metalen of kunststoffen door een elektrolytisch of chemisch procedé, bedoeld in [artikel 3.135, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.135), worden de gegevens en bescheiden, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.25&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.112. (milieubelastende activiteit: rubberindustrie en kunststofindustrie, blazen, expanderen of schuimen van kunststof)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het blazen, expanderen of schuimen van kunststof met een blaasmiddel anders dan lucht, kooldioxide of stikstof, bedoeld in [artikel 3.136 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.136), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het blazen, expanderen of schuimen van kunststof met een blaasmiddel anders dan lucht, kooldioxide of stikstof, bedoeld in [artikel 3.136 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.136), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag wordt ook een aanduiding verstrekt van de blaasmiddelen die worden toegepast.
 
 ##### Artikel 7.113. (milieubelastende activiteit: rubberindustrie en kunststofindustrie, andere milieubelastende installatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het behandelen van het oppervlak van kunststof met een elektrolytisch of chemisch procedé of voor het maken of behandelen van producten op basis van elastomeren, bedoeld in [artikel 3.137 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.137), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het behandelen van het oppervlak van kunststof met een elektrolytisch of chemisch procedé of voor het maken of behandelen van producten op basis van elastomeren, bedoeld in [artikel 3.137 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.137), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5313,11 +5313,11 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.114. (lozingsactiviteit: grafische industrie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het bedrukken van materialen met zeefdruk, vellenoffset, rotatieoffset, illustratiediepdruk of flexografie, bedoeld in de [artikelen 3.140, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.140), en [3.141 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.141), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het bedrukken van materialen met zeefdruk, vellenoffset, rotatieoffset, illustratiediepdruk of flexografie, bedoeld in de [artikelen 3.140, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.140), en [3.141 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.141), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.115. (milieubelastende activiteit: scheepswerven)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van metalen pleziervaartuigen met een langs de waterlijn te meten lengte van ten minste 25 m of het maken, onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van vaartuigen of drijvende werktuigen, anders dan pleziervaartuigen, bedoeld in [artikel 3.145, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.145), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het maken van metalen pleziervaartuigen met een langs de waterlijn te meten lengte van ten minste 25 m of het maken, onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van vaartuigen of drijvende werktuigen, anders dan pleziervaartuigen, bedoeld in [artikel 3.145, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.145), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5331,25 +5331,25 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een
 
 ##### Artikel 7.116. (lozingsactiviteit: scheepswerven)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van een andere milieubelastende installatie voor het maken van metalen pleziervaartuigen met een langs de waterlijn te meten lengte van ten minste 25 m of het maken, onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van vaartuigen of drijvende werktuigen, anders dan pleziervaartuigen, bedoeld in [artikel 3.145, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.145), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van een andere milieubelastende installatie voor het maken van metalen pleziervaartuigen met een langs de waterlijn te meten lengte van ten minste 25 m of het maken, onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van vaartuigen of drijvende werktuigen, anders dan pleziervaartuigen, bedoeld in [artikel 3.145, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.145), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.117. (lozingsactiviteit: andere industrie)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het maken van materialen, eindproducten of halffabrikaten met een stookinstallatie, koelinstallatie of oplosmiddeleninstallatie, bedoeld in de [artikelen 3.148, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.148), en [3.149 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.149), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het maken van materialen, eindproducten of halffabrikaten met een stookinstallatie, koelinstallatie of oplosmiddeleninstallatie, bedoeld in de [artikelen 3.148, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.148), en [3.149 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.149), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.3.6. Afvalbeheer
 
 ##### Artikel 7.118. (milieubelastende activiteit: autodemontage en tweewielerdemontagebedrijf)
 
-Bij een aanvraag om een omgevingsvergunning voor het opslaan van metaalschroot of autowrakken, bedoeld in [artikel 3.153 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.153), worden de gegevens en bescheiden, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het opslaan van metaalschroot of autowrakken, bedoeld in [artikel 3.153 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.153), worden de gegevens en bescheiden, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.119. (lozingsactiviteit: rubberrecyclingbedrijf en kunststofrecyclingbedrijf)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het voorbehandelen van ingezameld of afgegeven rubberafval of kunststofafval voor verdere recycling, bedoeld in de [artikelen 3.159](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.159) en [3.160 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.160), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het voorbehandelen van ingezameld of afgegeven rubberafval of kunststofafval voor verdere recycling, bedoeld in de [artikelen 3.159](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.159) en [3.160 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.160), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.120. (milieubelastende activiteit: metaalrecyclingbedrijf)
 
-Bij een aanvraag om een omgevingsvergunning voor het opslaan van metaalschroot of autowrakken, bedoeld in [artikel 3.164 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.164), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het opslaan van metaalschroot of autowrakken, bedoeld in [artikel 3.164 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.164), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.121. (milieubelastende activiteit: zuiveringtechnisch werk)
 
@@ -5375,23 +5375,23 @@ Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een zuiveri
 
 ##### Artikel 7.121a. (milieubelastende activiteit: grondbank of grondreinigingsbedrijf)
 
-Bij een aanvraag om een omgevingsvergunning voor het bewerken van grond van de kwaliteitsklasse matig verontreinigd of sterk verontreinigd of baggerspecie van de kwaliteitsklasse sterk verontreinigd, bedoeld in [artikel 3.179, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.179), worden de gegevens en bescheiden, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bewerken van grond van de kwaliteitsklasse matig verontreinigd of sterk verontreinigd of baggerspecie van de kwaliteitsklasse sterk verontreinigd, bedoeld in [artikel 3.179, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.179), worden de gegevens en bescheiden, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.121b. (lozingsactiviteit: grondbank of grondreinigingsbedrijf)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het bewerken van grond van de kwaliteitsklasse matig verontreinigd of sterk verontreinigd of baggerspecie van de kwaliteitsklasse sterk verontreinigd, bedoeld in [artikel 3.179, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.179), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het bewerken van grond van de kwaliteitsklasse matig verontreinigd of sterk verontreinigd of baggerspecie van de kwaliteitsklasse sterk verontreinigd, bedoeld in [artikel 3.179, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.179), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.122. (milieubelastende activiteit: verwerken van bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het verwerken van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in [artikelen 3.185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.185), [3.186, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.186), [3.191, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.191), [3.192, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.192), [3.195, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.195), of [3.196, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.196), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het verwerken van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in [artikelen 3.185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.185), [3.186, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.186), [3.191, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.191), [3.192, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.192), [3.195, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.195), of [3.196, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.196), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
-2. Bij een aanvraag om een omgevingsvergunning voor het verwerken van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in [artikel 3.187, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.187), [3.188, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.188), [3.189, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.189), [3.190](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.190), [3.193, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.193), [3.194, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.194), of [3.197, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.197), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01) en [7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+2. Bij een aanvraag om een omgevingsvergunning voor het verwerken van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in [artikel 3.187, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.187), [3.188, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.188), [3.189, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.189), [3.190](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.190), [3.193, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.193), [3.194, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.194), of [3.197, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.197), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18) en [7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 3. Bij de aanvraag, bedoeld in het eerste of tweede lid wordt ook een beschrijving verstrekt van de structuur van de onderneming en de organisatie.
 
 ##### Artikel 7.123. (lozingsactiviteit: verwerken van bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het verwerken van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in de [artikelen 3.185, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.185), [3.186, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.186), [3.187, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.187), [3.191, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.191), [3.192, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.192), of [3.197, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.197), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het verwerken van bedrijfsafvalstoffen of gevaarlijke afvalstoffen, bedoeld in de [artikelen 3.185, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.185), [3.186, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.186), [3.187, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.187), [3.191, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.191), [3.192, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.192), of [3.197, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.197), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag wordt ook een beschrijving verstrekt van de aanpak van het verwerken van het ingenomen afvalwater.
 
@@ -5399,21 +5399,21 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.124. (milieubelastende activiteit: veehouderij, ippc-installatie)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het houden van pluimvee of varkens, bedoeld in [artikel 3.201 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.201), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een ippc-installatie voor het houden van pluimvee of varkens, bedoeld in [artikel 3.201 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.201), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
-- a. een opgave van het aantal landbouwhuisdieren per diercategorie als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) dat ten hoogste zal worden gehouden;
+- a. een opgave van het aantal landbouwhuisdieren per diercategorie als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) dat ten hoogste zal worden gehouden;
 
 - b. per dierenverblijf:
 
-   - 1°. een opgave van het aantal landbouwhuisdieren per diercategorie als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) dat ten hoogste zal worden gehouden;
+   - 1°. een opgave van het aantal landbouwhuisdieren per diercategorie als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) dat ten hoogste zal worden gehouden;
 
    - 2°. een beschrijving van het huisvestingssysteem en van de aanvullende techniek; en
 
    - 3°. een beschrijving van de wijze van ventilatie;
 
-- c. per dierenverblijf waar landbouwhuisdieren worden gehouden waarvoor in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) een emissiefactor voor geur of PM10 is vastgesteld:
+- c. per dierenverblijf waar landbouwhuisdieren worden gehouden waarvoor in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) een emissiefactor voor geur of PM10 is vastgesteld:
 
    - 1°. een plattegrondtekening op schaal met de ligging van de dierenverblijven, de emissiepunten en een overzicht van ventilatoren met diameter; en
 
@@ -5437,11 +5437,11 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.125. (milieubelastende activiteit: veehouderij, andere milieubelastende installatie)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het houden van landbouwhuisdieren, bedoeld in [artikel 3.202 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.202), worden de gegevens en bescheiden, bedoeld in [artikel 7.124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.7&artikel=7.124&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het houden van landbouwhuisdieren, bedoeld in [artikel 3.202 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.202), worden de gegevens en bescheiden, bedoeld in [artikel 7.124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.7&artikel=7.124&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.126. (milieubelastende activiteit: bedrijf voor teelt en kweek van waterplanten en waterdieren)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het kweken van consumptievis of ongewervelde waterdieren of het telen van waterplanten, bedoeld in [artikel 3.222, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.222), worden de gegevens en bescheiden, bedoeld in [artikel 7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het kweken van consumptievis of ongewervelde waterdieren of het telen van waterplanten, bedoeld in [artikel 3.222, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.222), worden de gegevens en bescheiden, bedoeld in [artikel 7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5455,11 +5455,11 @@ Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere 
 
 ##### Artikel 7.127. (lozingsactiviteit: bedrijf voor teelt en kweek van waterplanten en waterdieren)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het kweken van consumptievis of ongewervelde waterdieren of het telen van waterplanten, bedoeld in [artikel 3.222, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.222), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het kweken van consumptievis of ongewervelde waterdieren of het telen van waterplanten, bedoeld in [artikel 3.222, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.222), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.128. (milieubelastende activiteit: bedrijf voor mestbehandeling)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het drogen of indampen van dierlijke meststoffen, het vergisten van dierlijke meststoffen in combinatie met afvalstoffen, het vergisten van plantaardig materiaal, het verbranden van dierlijke meststoffen of het composteren van dierlijke meststoffen, bedoeld in [artikel 3.226, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.226), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-07-01&g=2026-07-01), [7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het drogen of indampen van dierlijke meststoffen, het vergisten van dierlijke meststoffen in combinatie met afvalstoffen, het vergisten van plantaardig materiaal, het verbranden van dierlijke meststoffen of het composteren van dierlijke meststoffen, bedoeld in [artikel 3.226, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.226), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.26&z=2026-08-18&g=2026-08-18), [7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5493,13 +5493,13 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.129. (lozingsactiviteit: bedrijf voor mestbehandeling)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het drogen of indampen van dierlijke meststoffen, het vergisten van dierlijke meststoffen in combinatie met afvalstoffen, het vergisten van plantaardig materiaal, het verbranden van dierlijke meststoffen of het composteren van dierlijke meststoffen, bedoeld in [artikel 3.226, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.226), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het drogen of indampen van dierlijke meststoffen, het vergisten van dierlijke meststoffen in combinatie met afvalstoffen, het vergisten van plantaardig materiaal, het verbranden van dierlijke meststoffen of het composteren van dierlijke meststoffen, bedoeld in [artikel 3.226, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.226), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.3.8. Dienstverlening, onderwijs en zorg
 
 ##### Artikel 7.130. (lozingsactiviteit: datacentrum)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het exploiteren van een rekencentrum of datacentrum, bedoeld in [artikel 3.236 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.236), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van koelwater met een warmtevracht van meer dan 50 MW afkomstig van het exploiteren van een rekencentrum of datacentrum, bedoeld in [artikel 3.236 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.236), worden de gegevens en bescheiden, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.24&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.131. (milieubelastende activiteit: ingeperkt gebruik genetisch gemodificeerde organismen)
 
@@ -5515,7 +5515,7 @@ Bij een aanvraag om een omgevingsvergunning voor ingeperkt gebruik als bedoeld i
 
 ##### Artikel 7.132. (milieubelastende activiteit: voorziening voor het oefenen van brandbestrijdingstechnieken)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het oefenen van brandbestrijdingstechnieken, bedoeld in [artikel 3.260, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.260), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het oefenen van brandbestrijdingstechnieken, bedoeld in [artikel 3.260, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.260), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5529,7 +5529,7 @@ Bij een aanvraag om een omgevingsvergunning voor ingeperkt gebruik als bedoeld i
 
 ##### Artikel 7.133. (lozingsactiviteit: voorziening voor het oefenen van brandbestrijdingstechnieken)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het oefenen van brandbestrijdingstechnieken, bedoeld in [artikel 3.260, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.260), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder b, d, f, h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het oefenen van brandbestrijdingstechnieken, bedoeld in [artikel 3.260, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.260), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder b, d, f, h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.3.9. Transport, logistiek en ondersteuning daarvan
 
@@ -5593,7 +5593,7 @@ Bij een aanvraag om een omgevingsvergunning voor milieubelastende activiteiten m
 
 - f. de gebruikte voordruk in kilopascal; en
 
-- g. de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- g. de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
 4. Bij een aanvraag om een omgevingsvergunning voor het bieden van gelegenheid voor het tanken van gemotoriseerde vaartuigen of drijvende werktuigen met waterstof bij een bunkerstation of vanaf de wal met een vaste installatie voor het tanken, bedoeld in de [artikelen 3.272](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.272) en [3.273, aanhef en onder d, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.273), worden de volgende gegevens en bescheiden verstrekt:
 
@@ -5607,7 +5607,7 @@ Bij een aanvraag om een omgevingsvergunning voor milieubelastende activiteiten m
 
 - b. als waterstof wordt opgeslagen: de hoeveelheid in kubieke meters die ten hoogste wordt opgeslagen; en
 
-- c. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- c. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 7.136
 
@@ -5615,7 +5615,7 @@ Bij een aanvraag om een omgevingsvergunning voor milieubelastende activiteiten m
 
 ##### Artikel 7.137. (milieubelastende activiteit: motorrevisiebedrijf)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het proefdraaien van straalmotoren of straalturbines of het proefdraaien met testbanken van motoren, turbines of reactoren, bedoeld in [artikel 3.281 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.281), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het proefdraaien van straalmotoren of straalturbines of het proefdraaien met testbanken van motoren, turbines of reactoren, bedoeld in [artikel 3.281 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.281), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5629,7 +5629,7 @@ Bij een aanvraag om een omgevingsvergunning voor milieubelastende activiteiten m
 
 ##### Artikel 7.139. (milieubelastende activiteit: opslag- en transportbedrijf, groothandel en containerterminal – opslag steenkool en ertsen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het opslaan van steenkool, ertsen of derivaten van ertsen, bedoeld in [artikel 3.286, eerste lid, aanhef en onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het opslaan van steenkool, ertsen of derivaten van ertsen, bedoeld in [artikel 3.286, eerste lid, aanhef en onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden de gegevens en bescheiden, bedoeld in [artikel 7.27a, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5657,7 +5657,7 @@ Bij een aanvraag om een omgevingsvergunning voor milieubelastende activiteiten m
 
 - d. de ADR-klasse en de eigenschappen van de gevaarlijke stoffen die aanwezig zijn in de voertuigen, opleggers of aanhangers; en
 
-- e. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- e. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
 2. Bij een aanvraag om een omgevingsvergunning voor andere milieubelastende activiteiten met gevaarlijke stoffen die worden verricht op dezelfde locatie als de activiteiten, bedoeld in [artikel 3.286, eerste lid, onder b tot en met k, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), of op dezelfde locatie als een milieubelastende activiteit als bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.16), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.22), [3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.25), [3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.28), [3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.31), [3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.34) of [3.37 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.37) als bedoeld in [artikel 3.286, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.287) worden de volgende gegevens en bescheiden verstrekt:
 
@@ -5679,7 +5679,7 @@ Bij een aanvraag om een omgevingsvergunning voor het begassen of ontgassen van c
 
 ##### Artikel 7.142. (milieubelastende activiteit: opslag- en transportbedrijf, groothandel en containerterminal – tanken van voertuigen met LNG of waterstof)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het tanken van voertuigen of werktuigen met LNG, bedoeld in [artikel 3.286, eerste lid, aanhef en onder e, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het tanken van voertuigen of werktuigen met LNG, bedoeld in [artikel 3.286, eerste lid, aanhef en onder e, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5707,7 +5707,7 @@ Bij een aanvraag om een omgevingsvergunning voor het begassen of ontgassen van c
 
 - b. als waterstof wordt opgeslagen: de hoeveelheid in kubieke meters die ten hoogste wordt opgeslagen; en
 
-- c. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- c. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 7.143. (milieubelastende activiteit: opslag- en transportbedrijf, groothandel en containerterminal – onverpakt in bulk en in container opslaan van gevaarlijke stoffen)
 
@@ -5727,7 +5727,7 @@ Bij een aanvraag om een omgevingsvergunning voor het onverpakt in bulk opslaan v
 
 - a. het gewicht van het vuurwerk en de pyrotechnische artikelen voor theatergebruik in kilogrammen, onderscheiden naar ADR-klasse en compatibiliteitsgroep als bedoeld in de ADR en aangegeven met de letters A tot en met J, K tot en met N of S, dat ten hoogste wordt opgeslagen; en
 
-- b. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- b. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
 2. Bij een aanvraag om een omgevingsvergunning voor het opslaan van ontplofbare stoffen van ADR-klasse 1 door een ander dan de Nederlandse of bondgenootschappelijke krijgsmacht voor korte tijd en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, bedoeld in [artikel 3.286, eerste lid, onder j, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden per opslagplaats de volgende gegevens en bescheiden verstrekt:
 
@@ -5737,9 +5737,9 @@ Bij een aanvraag om een omgevingsvergunning voor het onverpakt in bulk opslaan v
 
 - c. de hoeveelheid NEM in kilogrammen; en
 
-- d. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- d. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
-3. Bij een aanvraag om een omgevingsvergunning voor het buiten een Seveso-inrichting opslaan van gevaarlijke stoffen als bedoeld in artikel 3, tiende lid, van de Seveso-richtlijn voor korte tijd en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, bedoeld in [artikel 3.286, eerste lid, onder k, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01), verstrekt.
+3. Bij een aanvraag om een omgevingsvergunning voor het buiten een Seveso-inrichting opslaan van gevaarlijke stoffen als bedoeld in artikel 3, tiende lid, van de Seveso-richtlijn voor korte tijd en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, bedoeld in [artikel 3.286, eerste lid, onder k, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 4. Bij de aanvraag, bedoeld in het derde lid, worden per opslagplaats ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5751,11 +5751,11 @@ Bij een aanvraag om een omgevingsvergunning voor het onverpakt in bulk opslaan v
 
 ##### Artikel 7.145. (lozingsactiviteit: opslag- en transportbedrijf, groothandel en containeroverslag)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het voor het vervoer van goederen opslaan van stoffen, bedoeld in [artikel 3.286, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder e, f, h, n, o, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het voor het vervoer van goederen opslaan van stoffen, bedoeld in [artikel 3.286, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.286), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder e, f, h, n, o, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.146. (milieubelastende activiteit: onderhoudswerkplaats voor vliegtuigen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het repareren van vliegtuigen, bedoeld in [artikel 3.293 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.293), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-07-01&g=2026-07-01) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een andere milieubelastende installatie voor het repareren van vliegtuigen, bedoeld in [artikel 3.293 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.293), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.27a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27a&z=2026-08-18&g=2026-08-18) en [7.27b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27b&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5771,7 +5771,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.147. (milieubelastende activiteit: spoorwegemplacementen)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een spoorwegemplacement, bedoeld in de [artikelen 3.295a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.295a) en [3.295b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.295b), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een spoorwegemplacement, bedoeld in de [artikelen 3.295a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.295a) en [3.295b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.295b), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5783,7 +5783,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 ##### Artikel 7.148. (milieubelastende activiteit: tankstation)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het bieden van gelegenheid voor het tanken van voertuigen of werktuigen met LNG, bedoeld in de [artikelen 3.296](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.296) en [3.297, aanhef en onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.297), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het bieden van gelegenheid voor het tanken van voertuigen of werktuigen met LNG, bedoeld in de [artikelen 3.296](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.296) en [3.297, aanhef en onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.297), worden de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5811,15 +5811,15 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkoms
 
 - b. als waterstof wordt opgeslagen: de hoeveelheid in kubieke meters die ten hoogste wordt opgeslagen; en
 
-- c. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01).
+- c. een beschrijving van de ongewone voorvallen als bedoeld in [artikel 7.22a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 7.149. (milieubelastende activiteit: tankautoreiniging en reiniging van drukhouders en vaten)
 
-Bij een aanvraag om een omgevingsvergunning voor het inwendig reinigen van opslagtanks of verpakkingen waarin gevaarlijke stoffen zijn opgeslagen of voertuigen, opleggers, aanhangers, tankcontainers of bulkcontainers waarin gevaarlijke stoffen zijn vervoerd, bedoeld in [artikel 3.301, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.301), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het inwendig reinigen van opslagtanks of verpakkingen waarin gevaarlijke stoffen zijn opgeslagen of voertuigen, opleggers, aanhangers, tankcontainers of bulkcontainers waarin gevaarlijke stoffen zijn vervoerd, bedoeld in [artikel 3.301, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.301), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.150. (lozingsactiviteit: tankautoreiniging en reiniging van drukhouders en vaten)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het inwendig reinigen van opslagtanks of verpakkingen waarin gevaarlijke stoffen zijn opgeslagen of voertuigen, opleggers, aanhangers, tankcontainers of bulkcontainers waarin gevaarlijke stoffen zijn vervoerd, bedoeld in [artikel 3.301, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.301), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h, j en k tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het inwendig reinigen van opslagtanks of verpakkingen waarin gevaarlijke stoffen zijn opgeslagen of voertuigen, opleggers, aanhangers, tankcontainers of bulkcontainers waarin gevaarlijke stoffen zijn vervoerd, bedoeld in [artikel 3.301, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.301), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h, j en k tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.3.10. Sport en recreatie
 
@@ -5837,7 +5837,7 @@ Bij een aanvraag om een omgevingsvergunning voor het sporten of recreëren met v
 
 ##### Artikel 7.152. (milieubelastende activiteit: mijnbouw)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het aanleggen of het exploiteren van een mijnbouwwerk, bedoeld in de [artikelen 3.320](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.320) en [3.321, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.321), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het aanleggen of het exploiteren van een mijnbouwwerk, bedoeld in de [artikelen 3.320](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.320) en [3.321, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.321), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -5851,7 +5851,7 @@ Bij een aanvraag om een omgevingsvergunning voor het sporten of recreëren met v
 
 - e. een beschrijving van de maatregelen of voorzieningen die worden getroffen voor het opslaan van afvalstoffen in het mijnbouwwerk; en
 
-- f. de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-07-01&g=2026-07-01), als het gaat om het winnen, opslaan, bewerken of gereedmaken voor transport van:
+- f. de gegevens en bescheiden, bedoeld in [artikel 7.22a, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.22a&z=2026-08-18&g=2026-08-18), als het gaat om het winnen, opslaan, bewerken of gereedmaken voor transport van:
 
    - 1°. gevaarlijke stoffen in de gevarenklasse:
 
@@ -5869,15 +5869,15 @@ Bij een aanvraag om een omgevingsvergunning voor het sporten of recreëren met v
 
 ##### Artikel 7.153. (milieubelastende activiteit: militaire zeehaven)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een militaire zeehaven, met inbegrip van het terrein, bedoeld in [artikel 5.150, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), door de Nederlandse of een bondgenootschappelijke krijgsmacht, bedoeld in de [artikelen 3.323](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.323) en [3.324, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.324), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een militaire zeehaven, met inbegrip van het terrein, bedoeld in [artikel 5.150, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), door de Nederlandse of een bondgenootschappelijke krijgsmacht, bedoeld in de [artikelen 3.323](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.323) en [3.324, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.324), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.154. (lozingsactiviteit: militaire zeehaven)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een militaire zeehaven, met inbegrip van het terrein, bedoeld in [artikel 5.150, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), door de Nederlandse of een bondgenootschappelijke krijgsmacht, bedoeld in [artikel 3.324, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.324), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van afvalwater afkomstig van het exploiteren van een militaire zeehaven, met inbegrip van het terrein, bedoeld in [artikel 5.150, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), door de Nederlandse of een bondgenootschappelijke krijgsmacht, bedoeld in [artikel 3.324, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.324), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.155. (milieubelastende activiteit: militaire luchthaven)
 
-Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een militaire luchthaven, met inbegrip van het terrein, bedoeld in [artikel 5.150, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), door de Nederlandse of een bondgenootschappelijke krijgsmacht, bedoeld in de [artikelen 3.326](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.326) en [3.327 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.327), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het exploiteren van een militaire luchthaven, met inbegrip van het terrein, bedoeld in [artikel 5.150, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), door de Nederlandse of een bondgenootschappelijke krijgsmacht, bedoeld in de [artikelen 3.326](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.326) en [3.327 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.327), worden de gegevens en bescheiden, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.27&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.156. (milieubelastende activiteit: opslaan en bewerken van ontplofbare stoffen en voorwerpen op militaire objecten)
 
@@ -5933,7 +5933,7 @@ Bij een aanvraag om een omgevingsvergunning voor het produceren en leveren van t
 
 ##### Artikel 7.158. (toepassingsbereik)
 
-De artikelen in deze paragraaf en [artikel 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01) zijn alleen van toepassing voor zover dat in de paragrafen 7.2.4.2 tot en met 7.2.4.8 of 7.2.5.2 tot en met 7.2.5.9 is bepaald.
+De artikelen in deze paragraaf en [artikel 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18) zijn alleen van toepassing voor zover dat in de paragrafen 7.2.4.2 tot en met 7.2.4.8 of 7.2.5.2 tot en met 7.2.5.9 is bepaald.
 
 ##### Artikel 7.159. (module: waterstaatswerk in beheer bij het Rijk)
 
@@ -5955,11 +5955,11 @@ Bij een aanvraag om een omgevingsvergunning voor een beperkingengebiedactiviteit
 
 ##### Artikel 7.160. (beperkingengebiedactiviteit: bouwwerken, werken en objecten in een oppervlaktewaterlichaam)
 
-Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van bouwwerken, het aanleggen, plaatsen, in stand houden, veranderen of verwijderen van werken die geen bouwwerken zijn of het plaatsen, in stand houden of verwijderen van andere objecten in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam of een kanaal in beheer bij het Rijk, bedoeld in [artikel 6.17, eerste of tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van bouwwerken, het aanleggen, plaatsen, in stand houden, veranderen of verwijderen van werken die geen bouwwerken zijn of het plaatsen, in stand houden of verwijderen van andere objecten in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam of een kanaal in beheer bij het Rijk, bedoeld in [artikel 6.17, eerste of tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.161. (beperkingengebiedactiviteit: bouwwerken, werken en objecten in een waterkering)
 
-Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van bouwwerken, het aanleggen, plaatsen, in stand houden, veranderen of verwijderen van werken die geen bouwwerken zijn of het plaatsen, in stand houden of verwijderen van andere objecten in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.18 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.18), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van bouwwerken, het aanleggen, plaatsen, in stand houden, veranderen of verwijderen van werken die geen bouwwerken zijn of het plaatsen, in stand houden of verwijderen van andere objecten in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.18 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.18), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.4.3. Grondverzet
 
@@ -6015,17 +6015,17 @@ Bij een aanvraag om een omgevingsvergunning voor een ontgrondingsactiviteit als 
 
 ##### Artikel 7.163. (beperkingengebiedactiviteit: terreinophoging in een oppervlaktewaterlichaam)
 
-Bij een aanvraag om een omgevingsvergunning voor het aanleggen of in stand houden van een terreinophoging in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.29 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.29), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het aanleggen of in stand houden van een terreinophoging in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.29 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.29), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.164. (beperkingengebiedactiviteit: ontgraven, verplaatsen of toepassen van grond of baggerspecie in een waterkering)
 
-Bij een aanvraag om een omgevingsvergunning voor het ontgraven, verplaatsen of toepassen van grond of baggerspecie in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.30 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.30), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het ontgraven, verplaatsen of toepassen van grond of baggerspecie in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.30 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.30), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.4.4. Onttrekken van water
 
 ##### Artikel 7.165. (beperkingengebiedactiviteit: instroomvoorziening voor onttrekken water)
 
-Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een instroomvoorziening voor het onttrekken van water aan een oppervlaktewaterlichaam in een beperkingengebied met betrekking tot een waterstaatswerk in beheer bij het Rijk, bedoeld in [artikel 6.35 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.35), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een instroomvoorziening voor het onttrekken van water aan een oppervlaktewaterlichaam in een beperkingengebied met betrekking tot een waterstaatswerk in beheer bij het Rijk, bedoeld in [artikel 6.35 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.35), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.166. (wateronttrekkingsactiviteit: onttrekken oppervlaktewater)
 
@@ -6069,7 +6069,7 @@ Bij een aanvraag om een omgevingsvergunning voor het onttrekken van grondwater d
 
 ##### Artikel 7.168. (beperkingengebiedactiviteit: uitstroomvoorziening voor lozen huishoudelijk afvalwater)
 
-Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een uitstroomvoorziening voor het lozen van huishoudelijk afvalwater op een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.40 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.40), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een uitstroomvoorziening voor het lozen van huishoudelijk afvalwater op een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.40 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.40), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.4.5a. Mijnbouwlocatieactiviteiten
 
@@ -6093,21 +6093,21 @@ Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden v
 
 ##### Artikel 7.169. (beperkingengebiedactiviteit: telen en kweken)
 
-Bij een aanvraag om een omgevingsvergunning voor het kweken van consumptievis, het kweken of houden van ongewervelde waterdieren, het telen van waterplanten of het invangen van mosselzaad in een beperkingengebied met betrekking tot een waterstaatswerk in beheer bij het Rijk, bedoeld in [artikel 6.50 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.50), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het kweken van consumptievis, het kweken of houden van ongewervelde waterdieren, het telen van waterplanten of het invangen van mosselzaad in een beperkingengebied met betrekking tot een waterstaatswerk in beheer bij het Rijk, bedoeld in [artikel 6.50 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.50), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.4.7. Andere lozingen
 
 ##### Artikel 7.170. (beperkingengebiedactiviteit: uitstroomvoorziening voor brengen van stoffen, water of warmte op oppervlaktewaterlichaam)
 
-Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een uitstroomvoorziening voor het brengen van stoffen, water of warmte op een oppervlaktewaterlichaam in een beperkingengebied met betrekking tot een waterstaatswerk in beheer bij het Rijk, bedoeld in [artikel 6.54 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.54), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een uitstroomvoorziening voor het brengen van stoffen, water of warmte op een oppervlaktewaterlichaam in een beperkingengebied met betrekking tot een waterstaatswerk in beheer bij het Rijk, bedoeld in [artikel 6.54 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.54), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.171. (lozingsactiviteit: onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van schepen)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van stoffen of water afkomstig van het onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van vaartuigen of drijvende werktuigen op een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.55, eerste lid, aanhef en onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a, f tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van stoffen of water afkomstig van het onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van vaartuigen of drijvende werktuigen op een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.55, eerste lid, aanhef en onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a, f tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.172. (lozingsactiviteit: lozen van meer dan 5.000 m3 water per uur)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het lozen van meer dan 5.000 m3 water per uur op een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.55, eerste lid, aanhef en onder b, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met c, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het lozen van meer dan 5.000 m3 water per uur op een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.55, eerste lid, aanhef en onder b, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met c, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -6121,7 +6121,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van stoffen of water 
 
 ##### Artikel 7.173. (lozingsactiviteit: lozen van water door een uitstroomvoorziening)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van water door een uitstroomvoorziening op een oppervlaktewaterlichaam, bedoeld in [artikel 6.55, eerste lid, aanhef en onder c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met d, f tot en met h en j tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van water door een uitstroomvoorziening op een oppervlaktewaterlichaam, bedoeld in [artikel 6.55, eerste lid, aanhef en onder c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met d, f tot en met h en j tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.173a. (beperkingengebiedactiviteit: mijnbouwinstallatie waterstaatswerk)
 
@@ -6137,11 +6137,11 @@ Bij een aanvraag om een omgevingsvergunning voor het verrichten van activiteiten
 
 ##### Artikel 7.174. (beperkingengebiedactiviteit: werkzaamheden, materiaal of vaste substanties in oppervlaktewaterlichaam)
 
-Bij een aanvraag om een omgevingsvergunning voor het plaatsen, laten staan of laten liggen van materieel, materialen of vaste substanties in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk tussen 1 oktober en 1 april, bedoeld in [artikel 6.58 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.58), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het plaatsen, laten staan of laten liggen van materieel, materialen of vaste substanties in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk tussen 1 oktober en 1 april, bedoeld in [artikel 6.58 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.58), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.175. (beperkingengebiedactiviteit: werkzaamheden, materiaal of vaste substanties in waterkering)
 
-Bij een aanvraag om een omgevingsvergunning voor het verrichten van werkzaamheden of het plaatsen, laten staan of laten liggen van materieel, materialen of vaste substanties in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.59 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.59), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het verrichten van werkzaamheden of het plaatsen, laten staan of laten liggen van materieel, materialen of vaste substanties in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.59 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.59), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 #### § 7.2.5. Activiteiten in de Noordzee
 
@@ -6149,13 +6149,13 @@ Bij een aanvraag om een omgevingsvergunning voor het verrichten van werkzaamhede
 
 ##### Artikel 7.176. (toepassingsbereik)
 
-De [artikelen 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01) en [7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01) zijn alleen van toepassing voor zover dat in de paragrafen 7.2.5.2 tot en met 7.2.5.9 is bepaald.
+De [artikelen 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18) en [7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18) zijn alleen van toepassing voor zover dat in de paragrafen 7.2.5.2 tot en met 7.2.5.9 is bepaald.
 
 ##### § 7.2.5.2. Bouwwerken, werken en objecten
 
 ##### Artikel 7.177. (beperkingengebiedactiviteit: bouwwerken, werken en objecten in de Noordzee)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het bouwen, in stand houden of slopen van bouwwerken, het aanleggen, plaatsen, in stand houden, veranderen of verwijderen van werken die geen bouwwerken zijn of het plaatsen, in stand houden of verwijderen van andere objecten in de Noordzee, bedoeld in [artikel 7.17, eerste of tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.17), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het bouwen, in stand houden of slopen van bouwwerken, het aanleggen, plaatsen, in stand houden, veranderen of verwijderen van werken die geen bouwwerken zijn of het plaatsen, in stand houden of verwijderen van andere objecten in de Noordzee, bedoeld in [artikel 7.17, eerste of tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.17), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Als de aanvraag betrekking heeft op een locatie buiten het provinciaal en gemeentelijk ingedeelde gebied, wordt bij de aanvraag ook een rapport verstrekt waarin de archeologische waarde van de locatie in voldoende mate is vastgesteld.
 
@@ -6163,13 +6163,13 @@ De [artikelen 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&
 
 ##### Artikel 7.178. (ontgrondingsactiviteit: Noordzee)
 
-1. Bij een aanvraag om een omgevingsvergunning voor een ontgrondingsactiviteit als bedoeld in [artikel 5.1, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) die bestaat uit het ontgronden in de Noordzee, worden de gegevens en bescheiden, bedoeld in [artikel 7.162, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.3&artikel=7.162&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor een ontgrondingsactiviteit als bedoeld in [artikel 5.1, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) die bestaat uit het ontgronden in de Noordzee, worden de gegevens en bescheiden, bedoeld in [artikel 7.162, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.3&artikel=7.162&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Als de aanvraag betrekking heeft op een locatie buiten het provinciaal en gemeentelijk ingedeelde gebied, wordt bij de aanvraag ook een rapport verstrekt waarin de archeologische waarde van de locatie in voldoende mate is vastgesteld.
 
 ##### Artikel 7.179. (beperkingengebiedactiviteit: ontgraven, verplaatsen of toepassen van grond of baggerspecie in de Noordzee)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het ontgraven, verplaatsen of toepassen van grond of baggerspecie in de Noordzee, bedoeld in [artikel 7.28, eerste of tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.28), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het ontgraven, verplaatsen of toepassen van grond of baggerspecie in de Noordzee, bedoeld in [artikel 7.28, eerste of tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.28), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Als de aanvraag betrekking heeft op een locatie buiten het provinciaal en gemeentelijk ingedeelde gebied, wordt bij de aanvraag ook een rapport verstrekt waarin de archeologische waarde van de locatie in voldoende mate is vastgesteld.
 
@@ -6187,7 +6187,7 @@ De [artikelen 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&
 
 - d. een kaart met de locatie van de mijnbouwinstallatie, het beperkingengebied met betrekking tot die installatie en de bijzonderheden van het omliggende gebied.
 
-2. Bij een aanvraag om een omgevingsvergunning voor het verrichten van activiteiten in het beperkingengebied met betrekking tot een andere installatie dan een mijnbouwinstallatie in de Noordzee, bedoeld in [artikel 7.47, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.47), worden de gegevens en bescheiden, bedoeld in [artikel 7.159, onder a tot en met c en e tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+2. Bij een aanvraag om een omgevingsvergunning voor het verrichten van activiteiten in het beperkingengebied met betrekking tot een andere installatie dan een mijnbouwinstallatie in de Noordzee, bedoeld in [artikel 7.47, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.47), worden de gegevens en bescheiden, bedoeld in [artikel 7.159, onder a tot en met c en e tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 3. Bij de aanvraag, bedoeld in het tweede lid, worden ook de coördinaten van de locatie waarop de activiteit wordt verricht verstrekt.
 
@@ -6195,13 +6195,13 @@ De [artikelen 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&
 
 ##### Artikel 7.181. (beperkingengebiedactiviteit: uitstroomvoorziening voor lozen huishoudelijk afvalwater)
 
-Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een uitstroomvoorziening voor het lozen van huishoudelijk afvalwater in de Noordzee, bedoeld in [artikel 7.49 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.49), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een uitstroomvoorziening voor het lozen van huishoudelijk afvalwater in de Noordzee, bedoeld in [artikel 7.49 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.49), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.5.6. Telen en kweken in een oppervlaktewaterlichaam
 
 ##### Artikel 7.182. (beperkingengebiedactiviteit: telen en kweken)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het kweken van consumptievis, het kweken of houden van ongewervelde waterdieren, het telen van waterplanten en het invangen van mosselzaad in de Noordzee, bedoeld in [artikel 7.55 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het kweken van consumptievis, het kweken of houden van ongewervelde waterdieren, het telen van waterplanten en het invangen van mosselzaad in de Noordzee, bedoeld in [artikel 7.55 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.55), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Als de aanvraag betrekking heeft op een locatie buiten het provinciaal en gemeentelijk ingedeelde gebied, wordt bij de aanvraag ook een rapport verstrekt waarin de archeologische waarde van de locatie in voldoende mate is vastgesteld.
 
@@ -6209,15 +6209,15 @@ Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden v
 
 ##### Artikel 7.183. (beperkingengebiedactiviteit: uitstroomvoorziening voor brengen van stoffen, water of warmte in de Noordzee)
 
-Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een uitstroomvoorziening voor het brengen van stoffen, water of warmte in de Noordzee, bedoeld in [artikel 7.59 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.59), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van een uitstroomvoorziening voor het brengen van stoffen, water of warmte in de Noordzee, bedoeld in [artikel 7.59 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.59), worden de gegevens en bescheiden, bedoeld in [artikel 7.159](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.1&artikel=7.159&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.184. (lozingsactiviteit: onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van schepen)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van stoffen of water afkomstig van het onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van vaartuigen of drijvende werktuigen in de Noordzee, bedoeld in [artikel 7.60, eerste lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.60), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met c, g, h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van stoffen of water afkomstig van het onderhouden, repareren, schoonmaken of behandelen van de scheepshuid van vaartuigen of drijvende werktuigen in de Noordzee, bedoeld in [artikel 7.60, eerste lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.60), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met c, g, h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.185. (lozingsactiviteit: lozen van meer dan 5.000 m3 water per uur)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het lozen van meer dan 5.000 m3 water per uur in de Noordzee, bedoeld in [artikel 7.60, eerste lid, onder b, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.60), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met c, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het lozen van meer dan 5.000 m3 water per uur in de Noordzee, bedoeld in [artikel 7.60, eerste lid, onder b, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.60), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met c, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -6231,7 +6231,7 @@ Bij een aanvraag om een omgevingsvergunning voor het lozen van stoffen of water 
 
 ##### Artikel 7.186. (lozingsactiviteit: lozen van water door een uitstroomvoorziening)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van water door een uitstroomvoorziening in de Noordzee, bedoeld in [artikel 7.60, eerste lid, onder c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.60), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met c, f tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van water door een uitstroomvoorziening in de Noordzee, bedoeld in [artikel 7.60, eerste lid, onder c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.60), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a tot en met c, f tot en met h en l tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### § 7.2.5.8. Stortingsactiviteiten op zee
 
@@ -6265,9 +6265,9 @@ Bij een aanvraag om een omgevingsvergunning voor een stortingsactiviteit op zee 
 
 - b. de coördinaten van de locatie waarop de activiteit wordt verricht;
 
-- c. als de mijnbouwinstallatie, met inbegrip van het om die installatie gelegen beperkingengebied, is voorzien in een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01) aangewezen oefen- en schietgebied: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de landsverdediging en de veiligheid;
+- c. als de mijnbouwinstallatie, met inbegrip van het om die installatie gelegen beperkingengebied, is voorzien in een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18) aangewezen oefen- en schietgebied: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de landsverdediging en de veiligheid;
 
-- d. als de mijnbouwinstallatie met inbegrip van het om die installatie gelegen beperkingengebied, is voorzien in een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01) aangewezen gebied dat druk wordt bevaren: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de scheepvaart en de veiligheid; en
+- d. als de mijnbouwinstallatie met inbegrip van het om die installatie gelegen beperkingengebied, is voorzien in een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18) aangewezen gebied dat druk wordt bevaren: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de scheepvaart en de veiligheid; en
 
 - e. als de mijnbouwinstallatie, met inbegrip van het om die installatie gelegen beperkingengebied, is voorzien in een gebied dat is aangewezen in een kavelbesluit of een voorbereidingsbesluit bevaren als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=3), respectievelijk, [artikel 9, eerste lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=9): een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de elektriciteitsopwekking en de veiligheid.
 
@@ -6279,11 +6279,11 @@ Bij een aanvraag om een omgevingsvergunning voor een stortingsactiviteit op zee 
 
 - c. de coördinaten van de locatie waarop het verkenningsonderzoek wordt verricht;
 
-- d. als het verkenningsonderzoek wordt verricht in of boven delen van een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01) aangewezen oefen- en schietgebied: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de landsverdediging en de veiligheid;
+- d. als het verkenningsonderzoek wordt verricht in of boven delen van een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18) aangewezen oefen- en schietgebied: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de landsverdediging en de veiligheid;
 
-- e. als het verkenningsonderzoek wordt verricht in of boven delen van een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01) aangewezen aanloopgebied: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de scheepvaart en de veiligheid; en
+- e. als het verkenningsonderzoek wordt verricht in of boven delen van een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18) aangewezen aanloopgebied: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de scheepvaart en de veiligheid; en
 
-- f. als het verkenningsonderzoek wordt verricht in of boven delen van een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-07-01&g=2026-07-01) aangewezen ankergebied in de buurt van een aanloophaven: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de scheepvaart en de veiligheid.
+- f. als het verkenningsonderzoek wordt verricht in of boven delen van een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-08-18&g=2026-08-18) aangewezen ankergebied in de buurt van een aanloophaven: een beschrijving van de maatregelen of voorzieningen die worden getroffen in het belang van de scheepvaart en de veiligheid.
 
 #### § 7.2.6. Activiteiten rond rijkswegen
 
@@ -6417,7 +6417,7 @@ Bij een aanvraag om een omgevingsvergunning voor het verrichten van activiteiten
 
 Bij een aanvraag om een omgevingsvergunning voor het bouwen, aanleggen, plaatsen of in stand houden van elektriciteitskabels en beschermbuizen voor kabels en leidingen in het beperkingengebied met betrekking tot een hoofdspoorweg of een bijzondere spoorweg, bedoeld in [artikel 9.20 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=9.20), worden de volgende gegevens en bescheiden verstrekt:
 
-- a. een aanduiding op de situatietekening, bedoeld in [artikel 7:197a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.7&sub-paragraaf=7.2.7.1&artikel=7.197a&z=2026-07-01&g=2026-07-01), van de ligging van de kabel, leiding of objecten die daarmee samenhangen met coördinaten;
+- a. een aanduiding op de situatietekening, bedoeld in [artikel 7:197a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.7&sub-paragraaf=7.2.7.1&artikel=7.197a&z=2026-08-18&g=2026-08-18), van de ligging van de kabel, leiding of objecten die daarmee samenhangen met coördinaten;
 
 - b. bij een kabel of een beschermbuis voor een kabel: een dwarsprofieltekening op een schaal van 1:100 van de kabel of beschermbuis met de volgende informatie:
 
@@ -6461,7 +6461,7 @@ Bij een aanvraag om een omgevingsvergunning voor het bouwen, aanleggen, plaatsen
 
 Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden van bouwwerken, het aanleggen, plaatsen, in stand houden of veranderen van werken die geen bouwwerken zijn en het plaatsen of in stand houden van andere objecten in de kernzone, overwegzone of beschermingszone van een beperkingengebied met betrekking tot een hoofdspoorweg of een bijzondere spoorweg, bedoeld in [artikel 9.31 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=9.31), worden de volgende gegevens en bescheiden verstrekt:
 
-- a. een aanduiding op de situatietekening, bedoeld in [artikel 7.197a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.7&sub-paragraaf=7.2.7.1&artikel=7.197a&z=2026-07-01&g=2026-07-01), van de ligging van het bouwwerk, werk of object ten opzichte van de spoorweginfrastructuur met coördinaten;
+- a. een aanduiding op de situatietekening, bedoeld in [artikel 7.197a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.7&sub-paragraaf=7.2.7.1&artikel=7.197a&z=2026-08-18&g=2026-08-18), van de ligging van het bouwwerk, werk of object ten opzichte van de spoorweginfrastructuur met coördinaten;
 
 - b. een tekening van de nieuwe situatie met inbegrip van aanzichten, details, maatvoering, materialen die worden toegepast, de hoogte van het bouwwerk, werk of object ten opzichte van het Normaal Amsterdams Peil en ten opzichte van de bovenkant spoorstaaf, en het aantal bouwlagen;
 
@@ -6471,7 +6471,7 @@ Bij een aanvraag om een omgevingsvergunning voor het bouwen of in stand houden v
 
 ##### Artikel 7.197d. (beperkingengebiedactiviteit: activiteiten op perrons en stations bij een hoofdspoorweg of een bijzondere spoorweg)
 
-Bij een aanvraag om een omgevingsvergunning voor het bouwen van bouwwerken, het aanleggen, plaatsen en veranderen van werken die geen bouwwerken zijn, het plaatsen van andere objecten of het verrichten van werkzaamheden, waarbij de opzet van het perron of station wezenlijk verandert, in het beperkingengebied met betrekking tot een hoofdspoorweg of een bijzondere spoorweg, bedoeld in [artikel 9.38 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=9.38), worden de gegevens en bescheiden, bedoeld in [artikel 7.197c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.7&sub-paragraaf=7.2.7.2&artikel=7.197c&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het bouwen van bouwwerken, het aanleggen, plaatsen en veranderen van werken die geen bouwwerken zijn, het plaatsen van andere objecten of het verrichten van werkzaamheden, waarbij de opzet van het perron of station wezenlijk verandert, in het beperkingengebied met betrekking tot een hoofdspoorweg of een bijzondere spoorweg, bedoeld in [artikel 9.38 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=9.38), worden de gegevens en bescheiden, bedoeld in [artikel 7.197c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.7&sub-paragraaf=7.2.7.2&artikel=7.197c&z=2026-08-18&g=2026-08-18), verstrekt.
 
 ##### Artikel 7.197e. (beperkingengebiedactiviteit: andere activiteiten bij hoofdspoorwegen of een bijzondere spoorweg)
 
@@ -6631,7 +6631,7 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 ##### Artikel 7.197k. (flora- en fauna-activiteit: schadelijke handelingen vogelrichtlijnsoorten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het opzettelijk doden of opzettelijk vangen, opzettelijk vernielen of opzettelijk beschadigen van nesten, rustplaatsen of eieren, of het opzettelijk wegnemen van nesten, het rapen en onder zich hebben van eieren of het opzettelijk storen van van nature in Nederland in het wild levende vogels van soorten als bedoeld in artikel 1 van de vogelrichtlijn, bedoeld in [artikel 11.37, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.37), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het opzettelijk doden of opzettelijk vangen, opzettelijk vernielen of opzettelijk beschadigen van nesten, rustplaatsen of eieren, of het opzettelijk wegnemen van nesten, het rapen en onder zich hebben van eieren of het opzettelijk storen van van nature in Nederland in het wild levende vogels van soorten als bedoeld in artikel 1 van de vogelrichtlijn, bedoeld in [artikel 11.37, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.37), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt: een onderbouwing waarom de activiteit nodig is:
 
@@ -6651,13 +6651,13 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 4. Als het gaat om beperking van de omvang van een populatie van vogels en het bestrijden van schadeveroorzakende vogels door grondgebruikers van vogels:
 
-- a. is [artikel 7.197j, eerste lid, onder d, onder 3°, 5°, 6°, en 7°, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01) niet van toepassing; en
+- a. is [artikel 7.197j, eerste lid, onder d, onder 3°, 5°, 6°, en 7°, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18) niet van toepassing; en
 
 - b. wordt een ingetekende topografische kaart met de locatie van de handelingen en de verspreiding van de vogelrichtlijnsoorten verstrekt.
 
 ##### Artikel 7.197l. (flora- en fauna-activiteit: commercieel bezit vogelrichtlijnsoorten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het verkopen, vervoeren voor verkoop, onder zich hebben voor verkoop of aanbieden voor verkoop van dode of levende vogels van soorten als bedoeld in artikel 1 van de vogelrichtlijn, gemakkelijk herkenbare delen van die vogels of uit die vogels verkregen producten, bedoeld in [artikel 11.38, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.38), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het verkopen, vervoeren voor verkoop, onder zich hebben voor verkoop of aanbieden voor verkoop van dode of levende vogels van soorten als bedoeld in artikel 1 van de vogelrichtlijn, gemakkelijk herkenbare delen van die vogels of uit die vogels verkregen producten, bedoeld in [artikel 11.38, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.38), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -6681,7 +6681,7 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 ##### Artikel 7.197m. (flora- en fauna-activiteit: niet-commercieel bezit vogelrichtlijnsoorten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het om een andere reden dan verkoop onder zich hebben of vervoeren van dode of levende vogels van soorten als bedoeld in artikel 1 van de vogelrichtlijn, gemakkelijk herkenbare delen van die vogels of uit die vogels verkregen producten, bedoeld in [artikel 11.39, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.39), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het om een andere reden dan verkoop onder zich hebben of vervoeren van dode of levende vogels van soorten als bedoeld in artikel 1 van de vogelrichtlijn, gemakkelijk herkenbare delen van die vogels of uit die vogels verkregen producten, bedoeld in [artikel 11.39, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.39), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -6705,7 +6705,7 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 ##### Artikel 7.197n. (flora- en fauna-activiteit: wijze vangen of doden vogelrichtlijnsoorten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het vangen, doden of achtervolgen van van nature in het wild levende vogels van soorten als bedoeld in artikel 1 van de volgelrichtlijn, bedoeld in [artikel 11.40, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.40), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het vangen, doden of achtervolgen van van nature in het wild levende vogels van soorten als bedoeld in artikel 1 van de volgelrichtlijn, bedoeld in [artikel 11.40, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.40), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -6739,7 +6739,7 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 ##### Artikel 7.197o. (flora- en fauna-activiteit: schadelijke handelingen habitatrichtlijnsoorten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het in hun natuurlijk verspreidingsgebied opzettelijk doden, vangen of verstoren van in het wild levende dieren van soorten, genoemd in bijlage IV, onder a, bij de habitatrichtlijn, bijlage II bij het verdrag van Bern of bijlage I bij het verdrag van Bonn, het in de natuur opzettelijk vernielen of rapen van eieren van die dieren, het beschadigen of vernielen van de voortplantingsplaatsen of rustplaatsen van die dieren of het opzettelijk plukken en verzamelen, afsnijden, ontwortelen of vernielen van planten, van soorten, genoemd in bijlage IV, onder b, bij de habitatrichtlijn of bijlage I bij het verdrag van Bern, bedoeld in [artikel 11.46, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.46), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het in hun natuurlijk verspreidingsgebied opzettelijk doden, vangen of verstoren van in het wild levende dieren van soorten, genoemd in bijlage IV, onder a, bij de habitatrichtlijn, bijlage II bij het verdrag van Bern of bijlage I bij het verdrag van Bonn, het in de natuur opzettelijk vernielen of rapen van eieren van die dieren, het beschadigen of vernielen van de voortplantingsplaatsen of rustplaatsen van die dieren of het opzettelijk plukken en verzamelen, afsnijden, ontwortelen of vernielen van planten, van soorten, genoemd in bijlage IV, onder b, bij de habitatrichtlijn of bijlage I bij het verdrag van Bern, bedoeld in [artikel 11.46, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.46), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt: een onderbouwing waarom de activiteit nodig is:
 
@@ -6757,13 +6757,13 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 4. Als het gaat om beperking van de omvang van een populatie van habitatrichtlijnsoorten en het bestrijden van schadeveroorzakende habitatrichtlijnsoorten door grondgebruikers van habitatrichtlijnsoorten:
 
-- a. is [artikel 7.197j, eerste lid, onder d, onder 3°, 5°, 6°, en 7°, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01) niet van toepassing; en
+- a. is [artikel 7.197j, eerste lid, onder d, onder 3°, 5°, 6°, en 7°, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18) niet van toepassing; en
 
 - b. wordt een ingetekende topografische kaart met de locatie van de handelingen en de verspreiding van de habitatrichtlijnsoorten verstrekt.
 
 ##### Artikel 7.197p. (flora- en fauna-activiteit: bezit habitatrichtlijnsoorten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het verkopen, vervoeren voor verkoop, verhandelen, ruilen of te koop of te ruil aanbieden van dieren of planten, of het voor het om een andere reden dan verkoop onder zich hebben of vervoeren van dieren of planten, bedoeld in [artikel 11.47, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het verkopen, vervoeren voor verkoop, verhandelen, ruilen of te koop of te ruil aanbieden van dieren of planten, of het voor het om een andere reden dan verkoop onder zich hebben of vervoeren van dieren of planten, bedoeld in [artikel 11.47, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -6783,7 +6783,7 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 ##### Artikel 7.197q. (flora- en fauna-activiteit: wijze van vangen of doden habitatrichtlijnsoorten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het vangen of doden van dieren of het aan de natuur onttrekken van dieren door het gebruik van niet-selectieve middelen die de plaatselijke verdwijning of ernstige verstoring van de rust van populaties van soorten tot gevolg kunnen hebben, bedoeld in [artikel 11.48 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.48), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het vangen of doden van dieren of het aan de natuur onttrekken van dieren door het gebruik van niet-selectieve middelen die de plaatselijke verdwijning of ernstige verstoring van de rust van populaties van soorten tot gevolg kunnen hebben, bedoeld in [artikel 11.48 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.48), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a tot en met c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -6815,7 +6815,7 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 ##### Artikel 7.197r. (flora- en fauna-activiteit: schadelijke handelingen andere soorten)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het opzettelijk doden of vangen van in het wild levende zoogdieren, amfibieën, reptielen, vissen, dagvlinders, libellen of kevers, het opzettelijk beschadigen of vernielen van de vaste voortplantingsplaatsen of rustplaatsen van die dieren of het opzettelijk in hun natuurlijke verspreidingsgebied plukken en verzamelen, afsnijden, ontwortelen of vernielen van vaatplanten, bedoeld in [artikel 11.54, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.54), worden per soort de volgende gegevens en bescheiden, bedoeld in artikel in [artikel 7.197j, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het opzettelijk doden of vangen van in het wild levende zoogdieren, amfibieën, reptielen, vissen, dagvlinders, libellen of kevers, het opzettelijk beschadigen of vernielen van de vaste voortplantingsplaatsen of rustplaatsen van die dieren of het opzettelijk in hun natuurlijke verspreidingsgebied plukken en verzamelen, afsnijden, ontwortelen of vernielen van vaatplanten, bedoeld in [artikel 11.54, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.54), worden per soort de volgende gegevens en bescheiden, bedoeld in artikel in [artikel 7.197j, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt: een onderbouwing waarom de activiteit nodig is:
 
@@ -6849,7 +6849,7 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 4. Als het gaat om beperking van de omvang van een populatie en het bestrijden van schadeveroorzakende soorten als bedoeld in het eerste lid door grondgebruikers:
 
-- a. is [artikel 7.197j, eerste lid, onder d, onder 3°, 5°, 6°, en 7°, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01) niet van toepassing; en
+- a. is [artikel 7.197j, eerste lid, onder d, onder 3°, 5°, 6°, en 7°, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18) niet van toepassing; en
 
 - b. wordt een ingetekende topografische kaart met de locatie van de handelingen en de verspreiding van de soorten verstrekt.
 
@@ -6857,7 +6857,7 @@ Deze paragraaf is alleen van toepassing voor zover dat in paragraaf 7.2.8a.3, 7.
 
 ##### Artikel 7.197s. (flora- en fauna-activiteit: bijvoeren)
 
-1. Bij een aanvraag om een omgevingsvergunning voor het bijvoeren van in het wild levende edelherten, damherten, reeën, wilde zwijnen, fazanten, wilde eenden, houtduiven, hazen of konijnen, bedoeld in [artikel 11.60, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.60), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een omgevingsvergunning voor het bijvoeren van in het wild levende edelherten, damherten, reeën, wilde zwijnen, fazanten, wilde eenden, houtduiven, hazen of konijnen, bedoeld in [artikel 11.60, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.60), worden per soort de volgende gegevens en bescheiden, bedoeld in [artikel 7.197j, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.8a&sub-paragraaf=7.2.8a.2&artikel=7.197j&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij een aanvraag als bedoeld in het eerste lid worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -6909,7 +6909,7 @@ Bij een aanvraag om een omgevingsvergunning voor een valkeniersactiviteit als be
 
 ##### Artikel 7.198. (rijksmonumentenactiviteit: algemeen)
 
-1. [Paragraaf 7.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.9&z=2026-07-01&g=2026-07-01) is van toepassing op het verstrekken van gegevens en bescheiden bij een aanvraag om een omgevingsvergunning voor een rijksmonumentactiviteit als bedoeld in [artikel 5.1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1).
+1. [Paragraaf 7.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.9&z=2026-08-18&g=2026-08-18) is van toepassing op het verstrekken van gegevens en bescheiden bij een aanvraag om een omgevingsvergunning voor een rijksmonumentactiviteit als bedoeld in [artikel 5.1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1).
 
 2. Bij de aanvraag worden de volgende gegevens en bescheiden verstrekt:
 
@@ -6969,7 +6969,7 @@ Bij een aanvraag om een omgevingsvergunning voor een valkeniersactiviteit als be
 
 ##### Artikel 7.200. (rijksmonumentenactiviteit: eisen aan tekeningen archeologisch monument)
 
-Tekeningen als bedoeld in [artikel 7.199](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.9&sub-paragraaf=7.2.9.2&artikel=7.199&z=2026-07-01&g=2026-07-01) hebben een schaal die niet kleiner is dan:
+Tekeningen als bedoeld in [artikel 7.199](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.9&sub-paragraaf=7.2.9.2&artikel=7.199&z=2026-08-18&g=2026-08-18) hebben een schaal die niet kleiner is dan:
 
 - a. 1:2000, als het gaat om een topografische kaart;
 
@@ -7137,7 +7137,7 @@ Bij de aanvraag wordt, voor zover het gaat om het gebruiken van een monument waa
 
 ##### Artikel 7.205. (rijksmonumentenactiviteit: eisen aan tekeningen monument)
 
-1. Tekeningen als bedoeld in de [artikelen 7.201 tot en met 7.203](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.9&sub-paragraaf=7.2.9.3&artikel=7.201&z=2026-07-01&g=2026-07-01) hebben een schaal die niet kleiner is dan:
+1. Tekeningen als bedoeld in de [artikelen 7.201 tot en met 7.203](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.9&sub-paragraaf=7.2.9.3&artikel=7.201&z=2026-08-18&g=2026-08-18) hebben een schaal die niet kleiner is dan:
 
 - a. 1:1000, als het gaat om een situatietekening;
 
@@ -7205,13 +7205,13 @@ Bij een aanvraag om een omgevingsvergunning voor een wateronttrekkingsactiviteit
 
 ##### Artikel 7.207. (ontgrondingsactiviteit: land, regionaal water en winterbed)
 
-Bij een aanvraag om een omgevingsvergunning voor een ontgrondingsactiviteit als bedoeld in [artikel 5.1, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) die bestaat uit een ontgrondingsactiviteit op land, in regionale wateren en in het winterbed van een rivier in beheer bij het Rijk, worden de gegevens en bescheiden, bedoeld in [artikel 7.162, onder a tot en met i, k en l](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.3&artikel=7.162&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor een ontgrondingsactiviteit als bedoeld in [artikel 5.1, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) die bestaat uit een ontgrondingsactiviteit op land, in regionale wateren en in het winterbed van een rivier in beheer bij het Rijk, worden de gegevens en bescheiden, bedoeld in [artikel 7.162, onder a tot en met i, k en l](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.4&sub-paragraaf=7.2.4.3&artikel=7.162&z=2026-08-18&g=2026-08-18), verstrekt.
 
 #### § 7.2.11. Lozen van stoffen of afvalwater afkomstig van een vaartuig
 
 ##### Artikel 7.207a. (lozingsactiviteit: lozen van stoffen of afvalwater afkomstig van een vaartuig)
 
-Bij een aanvraag om een omgevingsvergunning voor het lozen van stoffen of afvalwater afkomstig van een vaartuig, bedoeld in [artikel 17.18, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=17.18), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a, d en h tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-07-01&g=2026-07-01), verstrekt.
+Bij een aanvraag om een omgevingsvergunning voor het lozen van stoffen of afvalwater afkomstig van een vaartuig, bedoeld in [artikel 17.18, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=17.18), worden de gegevens en bescheiden, bedoeld in [artikel 7.23, onder a, d en h tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&sub-paragraaf=7.2.3.1&artikel=7.23&z=2026-08-18&g=2026-08-18), verstrekt.
 
 #### § 7.2.12. Omgevingsplanactiviteiten
 
@@ -7345,7 +7345,7 @@ Bij een aanvraag om een gedoogplichtbeschikking vanwege het maken van een ontwer
 
 ##### Artikel 7.215. (gedoogplicht andere werken van algemeen belang)
 
-1. Bij een aanvraag om een gedoogplichtbeschikking voor andere werken van algemeen belang, bedoeld in [artikel 10.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.21), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.211](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.3&paragraaf=7.3.2&artikel=7.211&z=2026-07-01&g=2026-07-01) en [7.212](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.3&paragraaf=7.3.2&artikel=7.212&z=2026-07-01&g=2026-07-01), verstrekt.
+1. Bij een aanvraag om een gedoogplichtbeschikking voor andere werken van algemeen belang, bedoeld in [artikel 10.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.21), worden de gegevens en bescheiden, bedoeld in de [artikelen 7.211](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.3&paragraaf=7.3.2&artikel=7.211&z=2026-08-18&g=2026-08-18) en [7.212](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.3&paragraaf=7.3.2&artikel=7.212&z=2026-08-18&g=2026-08-18), verstrekt.
 
 2. Bij de aanvraag worden ook de volgende gegevens en bescheiden verstrekt:
 
@@ -7511,7 +7511,7 @@ Bij het informeren van het bevoegd gezag dat een aangevraagde of verleende omgev
 
 ##### Artikel 7.220. (aanvraag pootringen gefokte vogels)
 
-Bij een aanvraag van gesloten pootringen als bedoeld in [artikel 4.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.23&z=2026-07-01&g=2026-07-01), worden gegevens en bescheiden verstrekt over het aantal pootringen per soort vogel dat wordt aangevraagd. De hoeveelheid ringen staat in verhouding tot de te verwachten nakweek.
+Bij een aanvraag van gesloten pootringen als bedoeld in [artikel 4.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.23&z=2026-08-18&g=2026-08-18), worden gegevens en bescheiden verstrekt over het aantal pootringen per soort vogel dat wordt aangevraagd. De hoeveelheid ringen staat in verhouding tot de te verwachten nakweek.
 
 #### § 7.5.4. Etiketten cites-uitvoeringsverordening
 
@@ -7535,7 +7535,7 @@ Deze afdeling is van toepassing op het vaststellen van programma’s als bedoeld
 
 ##### Artikel 8.2. (bepalen aantal gehinderde bewoners actieplannen geluid)
 
-Het aantal bewoners van woningen dat door een of meer geluidbronnen wordt gehinderd of ernstig gehinderd of van wie daardoor de slaap wordt verstoord, bedoeld in [artikel 4.23, eerste lid, onder h, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=4.23), wordt bepaald aan de hand van de in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XIX&z=2026-07-01&g=2026-07-01) opgenomen dosis-effectrelaties.
+Het aantal bewoners van woningen dat door een of meer geluidbronnen wordt gehinderd of ernstig gehinderd of van wie daardoor de slaap wordt verstoord, bedoeld in [artikel 4.23, eerste lid, onder h, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=4.23), wordt bepaald aan de hand van de in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XIX&z=2026-08-18&g=2026-08-18) opgenomen dosis-effectrelaties.
 
 #### Afdeling 8.2. Omgevingsplannen
 
@@ -7601,9 +7601,9 @@ De dosis van een gevaarlijke stof, bedoeld in [artikel 5.12, derde lid, van het 
 
    - 1°. de overgang van land naar water volgend uit een projectbesluit of een tracébesluit als bedoeld in [artikel 9 van de Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=9) zoals zij luidde tot 1 januari 2024 en waarop die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147) van toepassing is op grond van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.44), [4.45](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.45) of [4.46 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.46);
 
-   - 2°. de geometrische begrenzing van een vrijwaringsgebied van een rijksvaarweg, bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.8&artikel=2.12&z=2026-07-01&g=2026-07-01);
+   - 2°. de geometrische begrenzing van een vrijwaringsgebied van een rijksvaarweg, bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.8&artikel=2.12&z=2026-08-18&g=2026-08-18);
 
-   - 3°. de geometrische begrenzing van een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=2.2&z=2026-07-01&g=2026-07-01);
+   - 3°. de geometrische begrenzing van een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=2.2&z=2026-08-18&g=2026-08-18);
 
    - 4°. de kaart ‘Fairway’ uit de Elektronische vaarwegkaarten; en
 
@@ -7669,7 +7669,7 @@ Op het berekenen van de concentratie van stikstofdioxide en PM10 bij wegen is va
 
    - 2°. er in de directe omgeving bebouwing is, op een afstand van ten minste 3 maal de hoogte van de bebouwing; of
 
-- c. een softwaremodel als bedoeld in [bijlage XIXa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XIXa&z=2026-07-01&g=2026-07-01), waarbij is aangegeven dat het kan worden toegepast voor:
+- c. een softwaremodel als bedoeld in [bijlage XIXa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XIXa&z=2026-08-18&g=2026-08-18), waarbij is aangegeven dat het kan worden toegepast voor:
 
    - 1°. wegen die vallen binnen het toepassingsbereik van standaardrekenmethode luchtkwaliteit 1 of standaardrekenmethode luchtkwaliteit 2; of
 
@@ -7691,9 +7691,9 @@ Een toetspunt voor het berekenen van de concentratie van stikstofdioxide en PM10
 
 1. Voor het berekenen van de concentratie van stikstofdioxide en PM10 bij wegen wordt gebruik gemaakt van:
 
-- a. grootschalige concentratiegegevens, grootschalige dubbeltellingcorrectiegegevens, meteorologische gegevens en gegevens over de terreinruwheid, bedoeld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XX&z=2026-07-01&g=2026-07-01);
+- a. grootschalige concentratiegegevens, grootschalige dubbeltellingcorrectiegegevens, meteorologische gegevens en gegevens over de terreinruwheid, bedoeld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XX&z=2026-08-18&g=2026-08-18);
 
-- b. de emissiefactoren van voertuigen, bedoeld in [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXI&z=2026-07-01&g=2026-07-01); en
+- b. de emissiefactoren van voertuigen, bedoeld in [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXI&z=2026-08-18&g=2026-08-18); en
 
 - c. gegevens die standaardrekenmethode luchtkwaliteit 1 of standaardrekenmethode luchtkwaliteit 2 vereist over:
 
@@ -7709,13 +7709,13 @@ Een toetspunt voor het berekenen van de concentratie van stikstofdioxide en PM10
 
 ##### Artikel 8.13. (berekenen PM10: zeezoutcorrectie)
 
-1. Als de berekende 24-uurgemiddelde concentratie PM10 meer dan 35 maal per kalenderjaar de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), overschrijdt, wordt het aantal overschrijdingen verminderd met het aantal overschrijdingen, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-07-01&g=2026-07-01), onder A, in de daarbij aangegeven provincie.
+1. Als de berekende 24-uurgemiddelde concentratie PM10 meer dan 35 maal per kalenderjaar de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), overschrijdt, wordt het aantal overschrijdingen verminderd met het aantal overschrijdingen, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-08-18&g=2026-08-18), onder A, in de daarbij aangegeven provincie.
 
-2. Als de berekende kalenderjaargemiddelde concentratie PM10 hoger is dan de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), wordt de berekende concentratie verminderd met het aantal microgram per kubieke meter, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-07-01&g=2026-07-01), onder B, in de daarbij aangegeven gemeente.
+2. Als de berekende kalenderjaargemiddelde concentratie PM10 hoger is dan de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), wordt de berekende concentratie verminderd met het aantal microgram per kubieke meter, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-08-18&g=2026-08-18), onder B, in de daarbij aangegeven gemeente.
 
 ##### Artikel 8.14. (berekenen: afronding)
 
-1. Na toepassing van de [artikelen 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.12&z=2026-07-01&g=2026-07-01) en [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.13&z=2026-07-01&g=2026-07-01) wordt de berekende concentratie of het berekende aantal overschrijdingen afgerond op hele getallen, waarbij een halve eenheid wordt afgerond naar het meest dichtbijgelegen even getal.
+1. Na toepassing van de [artikelen 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.12&z=2026-08-18&g=2026-08-18) en [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.13&z=2026-08-18&g=2026-08-18) wordt de berekende concentratie of het berekende aantal overschrijdingen afgerond op hele getallen, waarbij een halve eenheid wordt afgerond naar het meest dichtbijgelegen even getal.
 
 2. In afwijking van het eerste lid wordt afgerond op één decimaal, als het gaat om het berekenen van een verhoging van de kalenderjaargemiddelde concentratie in de buitenlucht van stikstofdioxide of PM10 van 1,2 µg/m3 of minder als bedoeld in [artikel 5.53, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.53).
 
@@ -7757,7 +7757,7 @@ Op het berekenen van de concentratie van stikstofdioxide en PM10 bij milieubelas
 
 1. Voor het berekenen van de concentraties van stikstofdioxide en PM10 wordt gebruik gemaakt van:
 
-- a. grootschalige concentratiegegevens, grootschalige dubbeltellingcorrectiegegevens, meteorologische gegevens en gegevens over de terreinruwheid, bedoeld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XX&z=2026-07-01&g=2026-07-01);
+- a. grootschalige concentratiegegevens, grootschalige dubbeltellingcorrectiegegevens, meteorologische gegevens en gegevens over de terreinruwheid, bedoeld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XX&z=2026-08-18&g=2026-08-18);
 
 - b. gegevens die standaardrekenmethode luchtkwaliteit 3 vereist over:
 
@@ -7779,7 +7779,7 @@ Op het berekenen van de concentratie van stikstofdioxide en PM10 bij milieubelas
 
 ##### Artikel 8.19. (berekenen: zeezoutcorrectie en afronding)
 
-De [artikelen 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.13&z=2026-07-01&g=2026-07-01) en [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.14&z=2026-07-01&g=2026-07-01) zijn van overeenkomstige toepassing.
+De [artikelen 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.13&z=2026-08-18&g=2026-08-18) en [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.14&z=2026-08-18&g=2026-08-18) zijn van overeenkomstige toepassing.
 
 ##### § 8.2.3.2. Geluid
 
@@ -7817,9 +7817,9 @@ De [artikelen 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&
 
 ##### Artikel 8.22. (bepalen: geluid door activiteiten, anders dan door specifieke activiteiten, op een geluidgevoelig gebouw)
 
-1. Het geluid door een activiteit als bedoeld in [artikel 5.63 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.63) wordt bepaald volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01).
+1. Het geluid door een activiteit als bedoeld in [artikel 5.63 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.63) wordt bepaald volgens [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18).
 
-2. De bedrijfsduurcorrectie, bedoeld in [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-07-01&g=2026-07-01), wordt niet toegepast voor muziek.
+2. De bedrijfsduurcorrectie, bedoeld in [bijlage IVh](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVh&z=2026-08-18&g=2026-08-18), wordt niet toegepast voor muziek.
 
 3. In afwijking van het eerste lid wordt het geluid door een schietbaan die ligt in een gebouw zonder open zijden en met een gesloten afdekking bepaald volgens bijlage XVIIIb.
 
@@ -7841,9 +7841,9 @@ De [artikelen 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&
 
 ##### Artikel 8.25. (berekenen: geluid door een windturbine of windpark)
 
-1. Het geluid door het opwekken van elektriciteit met een windturbine of windpark op een geluidgevoelig gebouw wordt berekend volgens [bijlage IVi](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVi&z=2026-07-01&g=2026-07-01).
+1. Het geluid door het opwekken van elektriciteit met een windturbine of windpark op een geluidgevoelig gebouw wordt berekend volgens [bijlage IVi](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVi&z=2026-08-18&g=2026-08-18).
 
-2. De windsnelheid op ashoogte kan in afwijking van paragraaf 2.3.2 van [bijlage IVi](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVi&z=2026-07-01&g=2026-07-01) met een andere methode worden bepaald, als deze een gelijkwaardige nauwkeurigheid heeft of nauwkeuriger is.
+2. De windsnelheid op ashoogte kan in afwijking van paragraaf 2.3.2 van [bijlage IVi](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVi&z=2026-08-18&g=2026-08-18) met een andere methode worden bepaald, als deze een gelijkwaardige nauwkeurigheid heeft of nauwkeuriger is.
 
 3. Bij het berekenen van het geluid op een geluidgevoelig gebouw wordt het geluid dat wordt gereflecteerd door de gevel waarop het geluid wordt bepaald buiten beschouwing gelaten.
 
@@ -7859,11 +7859,11 @@ De [artikelen 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&
 
 ##### Artikel 8.26a. (bepalen: geluid wegen, spoorwegen, industrieterreinen en gecumuleerd geluid en gezamenlijk geluid)
 
-1. Op het bepalen van het geluid door industrieterreinen waarvoor geluidproductieplafonds als omgevingswaarden zijn vastgesteld en het geluid door wegen en spoorwegen zijn de [paragrafen 3.1.1 tot en met 3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&z=2026-07-01&g=2026-07-01) van toepassing.
+1. Op het bepalen van het geluid door industrieterreinen waarvoor geluidproductieplafonds als omgevingswaarden zijn vastgesteld en het geluid door wegen en spoorwegen zijn de [paragrafen 3.1.1 tot en met 3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&z=2026-08-18&g=2026-08-18) van toepassing.
 
-2. Op het berekenen van het gecumuleerde geluid zijn de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-07-01&g=2026-07-01), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-07-01&g=2026-07-01) en [3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.28&z=2026-07-01&g=2026-07-01) van toepassing.
+2. Op het berekenen van het gecumuleerde geluid zijn de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-08-18&g=2026-08-18), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-08-18&g=2026-08-18) en [3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.28&z=2026-08-18&g=2026-08-18) van toepassing.
 
-3. Op het berekenen van het gezamenlijk geluid zijn de [artikelen 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-07-01&g=2026-07-01), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-07-01&g=2026-07-01) en [3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.28&z=2026-07-01&g=2026-07-01) van toepassing.
+3. Op het berekenen van het gezamenlijk geluid zijn de [artikelen 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.26&z=2026-08-18&g=2026-08-18), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.27&z=2026-08-18&g=2026-08-18) en [3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.28&z=2026-08-18&g=2026-08-18) van toepassing.
 
 ##### Artikel 8.26b. (afbakening gebied waarbinnen het geluid door een gemeenteweg, waterschapsweg of lokale spoorweg wordt bepaald)
 
@@ -7931,9 +7931,9 @@ Deze paragraaf is van toepassing op het berekenen van de geur op een geurgevoeli
 
 3. De emissie van geur per seconde door een diercategorie wordt berekend door het aantal dieren van die diercategorie in een dierenverblijf te vermenigvuldigen met de voor die diercategorie geldende emissie van geur per dierplaats per seconde.
 
-4. De emissie van geur per dierplaats per seconde is gelijk aan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde geuremissiefactor voor het in het dierenverblijf toegepaste huisvestingssysteem.
+4. De emissie van geur per dierplaats per seconde is gelijk aan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde geuremissiefactor voor het in het dierenverblijf toegepaste huisvestingssysteem.
 
-5. In afwijking van het vierde lid wordt de emissie van geur per dierplaats per seconde bij toepassing van een aanvullende techniek berekend met het voor die techniek in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-07-01&g=2026-07-01) vastgestelde reductiepercentage voor geur en de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde geuremissiefactor volgens de formule:
+5. In afwijking van het vierde lid wordt de emissie van geur per dierplaats per seconde bij toepassing van een aanvullende techniek berekend met het voor die techniek in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-08-18&g=2026-08-18) vastgestelde reductiepercentage voor geur en de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde geuremissiefactor volgens de formule:
 
 - a. als één aanvullende techniek wordt toegepast, anders dan in een situatie als bedoeld onder b: *emissie van geur = geuremissiefactor huisvestingssysteem x (100% – reductiepercentage geur aanvullende techniek)*;
 
@@ -7959,45 +7959,45 @@ Deze afdeling is van toepassing voor zover een aanvraag om een omgevingsvergunni
 
 ##### Artikel 9.2. (beoordeling milieubelastende activiteit externe veiligheid)
 
-1. Op het berekenen van de afstand voor het plaatsgebonden risico, bedoeld in de [artikelen 8.10a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.10a), en [8.12, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.12), is [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.5&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+1. Op het berekenen van de afstand voor het plaatsgebonden risico, bedoeld in de [artikelen 8.10a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.10a), en [8.12, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.12), is [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.5&z=2026-08-18&g=2026-08-18) van overeenkomstige toepassing.
 
-2. Op het berekenen van de afstand voor een brandaandachtsgebied, een explosieaandachtsgebied en een gifwolkaandachtsgebied, bedoeld in [artikel 8.10a, eerste lid, onder c, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.10a), is [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.7&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+2. Op het berekenen van de afstand voor een brandaandachtsgebied, een explosieaandachtsgebied en een gifwolkaandachtsgebied, bedoeld in [artikel 8.10a, eerste lid, onder c, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.10a), is [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.7&z=2026-08-18&g=2026-08-18) van overeenkomstige toepassing.
 
 3. Als de kans op het overlijden van een groep van tien of meer personen per jaar, bedoeld in [artikel 8.10a, eerste lid, onder c, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.10a), wordt berekend, is op het berekenen van die kans Safeti-NL van toepassing.
 
 ##### Artikel 9.3. (beoordeling milieubelastende activiteit luchtkwaliteit – PM10 en stikstofdioxide)
 
-1. Op het berekenen van de concentratie van PM10 en stikstofdioxide is [paragraaf 8.2.3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.2&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+1. Op het berekenen van de concentratie van PM10 en stikstofdioxide is [paragraaf 8.2.3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.2&z=2026-08-18&g=2026-08-18) van overeenkomstige toepassing.
 
 2. Als het gaat om een milieubelastende activiteit als bedoeld in [artikel 3.200 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.200), wordt voor het berekenen van de concentratie van PM10 ook gebruik gemaakt van de emissie van PM10.
 
-3. Bij het berekenen van de concentratie van PM10, bedoeld in het tweede lid, kan in afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-07-01&g=2026-07-01), een andere emissiefactor dan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01) vastgestelde emissiefactoren worden gebruikt, als een huisvestingssysteem wordt toegepast dat:
+3. Bij het berekenen van de concentratie van PM10, bedoeld in het tweede lid, kan in afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-08-18&g=2026-08-18), een andere emissiefactor dan de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18) vastgestelde emissiefactoren worden gebruikt, als een huisvestingssysteem wordt toegepast dat:
 
 - a. bijdraagt aan de ontwikkeling van een huisvestingssysteem dat de fysieke leefomgeving beschermt tegen de gevolgen van de emissie van PM10; en
 
-- b. niet wordt genoemd in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-07-01&g=2026-07-01).
+- b. niet wordt genoemd in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=V&z=2026-08-18&g=2026-08-18).
 
-4. Bij het berekenen van de concentratie van PM10, bedoeld in het tweede lid, kan in afwijking van [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-07-01&g=2026-07-01), een ander reductiepercentage dan de in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-07-01&g=2026-07-01) vastgestelde reductiepercentages worden gebruikt, als een aanvullende techniek wordt toegepast die:
+4. Bij het berekenen van de concentratie van PM10, bedoeld in het tweede lid, kan in afwijking van [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-08-18&g=2026-08-18), een ander reductiepercentage dan de in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-08-18&g=2026-08-18) vastgestelde reductiepercentages worden gebruikt, als een aanvullende techniek wordt toegepast die:
 
 - a. bijdraagt aan de ontwikkeling van een aanvullende techniek die de fysieke leefomgeving beschermt tegen de gevolgen van de emissie van PM10; en
 
-- b. niet wordt genoemd in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-07-01&g=2026-07-01).
+- b. niet wordt genoemd in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=VI&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 9.4. (beoordeling milieubelastende activiteit luchtkwaliteit – andere stoffen)
 
-Op het berekenen van de concentratie van zwaveldioxide, stikstofoxiden, PM2,5, benzeen, lood en koolmonoxide zijn de [artikelen 8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.14&z=2026-07-01&g=2026-07-01), [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.2&artikel=8.16&z=2026-07-01&g=2026-07-01), [8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.2&artikel=8.17&z=2026-07-01&g=2026-07-01) en [8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.2&artikel=8.18&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+Op het berekenen van de concentratie van zwaveldioxide, stikstofoxiden, PM2,5, benzeen, lood en koolmonoxide zijn de [artikelen 8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.1&artikel=8.14&z=2026-08-18&g=2026-08-18), [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.2&artikel=8.16&z=2026-08-18&g=2026-08-18), [8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.2&artikel=8.17&z=2026-08-18&g=2026-08-18) en [8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&sub-paragraaf=8.2.3.1.2&artikel=8.18&z=2026-08-18&g=2026-08-18) van overeenkomstige toepassing.
 
 ##### Artikel 9.5. (beoordeling milieubelastende activiteit geluid – geluid in geluidgevoelige ruimten)
 
-Op het berekenen van het geluid in geluidgevoelige ruimten, bedoeld in [artikel 8.18, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.18), is [artikel 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.2&artikel=8.24&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+Op het berekenen van het geluid in geluidgevoelige ruimten, bedoeld in [artikel 8.18, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.18), is [artikel 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.2&artikel=8.24&z=2026-08-18&g=2026-08-18) van overeenkomstige toepassing.
 
 ##### Artikel 9.5a. (beoordeling milieubelastende activiteit geluid -windturbine of windpark)
 
-Als een omgevingsvergunning voor het opwekken van elektriciteit met een windturbine of windpark waarden bevat voor het toelaatbare geluid door de activiteit op een geluidgevoelig gebouw, is op het berekenen van dat geluid [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.2&artikel=8.25&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+Als een omgevingsvergunning voor het opwekken van elektriciteit met een windturbine of windpark waarden bevat voor het toelaatbare geluid door de activiteit op een geluidgevoelig gebouw, is op het berekenen van dat geluid [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.2&artikel=8.25&z=2026-08-18&g=2026-08-18) van overeenkomstige toepassing.
 
 ##### Artikel 9.5b. (beoordeling milieubelastende activiteit geluid – grenswaarden bij militaire buitenschietbanen en militaire springterreinen)
 
-Op het berekenen van het geluid op geluidgevoelige gebouwen, bedoeld in [artikel 8.19, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.19), is [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.2&artikel=8.26&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+Op het berekenen van het geluid op geluidgevoelige gebouwen, bedoeld in [artikel 8.19, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.19), is [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.2&artikel=8.26&z=2026-08-18&g=2026-08-18) van overeenkomstige toepassing.
 
 #### Afdeling 9.2. Voorschriften omgevingsvergunning milieubelastende activiteit – minder strenge emissiegrenswaarden
 
@@ -8007,7 +8007,7 @@ Deze afdeling is van toepassing op het verbinden van voorschriften aan een omgev
 
 ##### Artikel 9.7. (voorschriften over minder strenge emissiegrenswaarden: beoordeling)
 
-Bij de beoordeling of sprake is van buitensporig hogere kosten in verhouding tot de milieuvoordelen, bedoeld in [artikel 8.28, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.28), wordt bij emissies naar de lucht de methode, bedoeld in [Bijlage XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVc&z=2026-07-01&g=2026-07-01), gebruikt.
+Bij de beoordeling of sprake is van buitensporig hogere kosten in verhouding tot de milieuvoordelen, bedoeld in [artikel 8.28, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.28), wordt bij emissies naar de lucht de methode, bedoeld in [Bijlage XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XVc&z=2026-08-18&g=2026-08-18), gebruikt.
 
 #### Afdeling 9.3. Voorschriften omgevingsvergunning milieubelastende activiteit - bodembescherming stortplaatsen, anders dan voor alleen baggerspecie op land
 
@@ -8083,9 +8083,9 @@ Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de v
 
 2. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat bij het bepalen van de gemiddeld hoogste en de gemiddeld laagste grondwaterstand gebruik wordt gemaakt van:
 
-- a. de resultaten van het onderzoek naar de geohydrologische toestand, bedoeld in [artikel 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.10&z=2026-07-01&g=2026-07-01);
+- a. de resultaten van het onderzoek naar de geohydrologische toestand, bedoeld in [artikel 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.10&z=2026-08-18&g=2026-08-18);
 
-- b. de resultaten van de metingen, bedoeld in [artikel 9.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.13&z=2026-07-01&g=2026-07-01); en
+- b. de resultaten van de metingen, bedoeld in [artikel 9.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.13&z=2026-08-18&g=2026-08-18); en
 
 - c. de profielbeschrijvingen van de bodem op de plaats van de aanleg van de stortplaats.
 
@@ -8177,11 +8177,11 @@ Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de v
 
 1. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat eenmaal per jaar een gaschromatografisch-massaspectrometrisch onderzoek op organische verbindingen wordt uitgevoerd.
 
-2. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat als een gaschromatografisch-massaspectrometrisch onderzoek op organische verbindingen wordt uitgevoerd, in afwijking van de voorschriften die aan de vergunning zijn verbonden ter uitvoering van [artikel 9.18, vierde lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.18&z=2026-07-01&g=2026-07-01), geen analyse op vluchtige organische gehalogeneerde koolwaterstoffen (VOX) hoeft plaats te vinden.
+2. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat als een gaschromatografisch-massaspectrometrisch onderzoek op organische verbindingen wordt uitgevoerd, in afwijking van de voorschriften die aan de vergunning zijn verbonden ter uitvoering van [artikel 9.18, vierde lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.18&z=2026-08-18&g=2026-08-18), geen analyse op vluchtige organische gehalogeneerde koolwaterstoffen (VOX) hoeft plaats te vinden.
 
 ##### Artikel 9.20. (voorschriften over onderzoek staat bodem onder stortplaats: analyseren andere parameters)
 
-Aan een omgevingsvergunning kunnen voorschriften worden verbonden die inhouden dat in verband met de samenstelling van het gestorte afval naast de parameters, genoemd in [artikel 9.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.18&z=2026-07-01&g=2026-07-01), ook andere parameters worden geanalyseerd.
+Aan een omgevingsvergunning kunnen voorschriften worden verbonden die inhouden dat in verband met de samenstelling van het gestorte afval naast de parameters, genoemd in [artikel 9.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.18&z=2026-08-18&g=2026-08-18), ook andere parameters worden geanalyseerd.
 
 ##### Artikel 9.21. (voorschriften over onderzoek staat bodem onder stortplaats: frequentie meten hoeveelheid percolaat)
 
@@ -8199,7 +8199,7 @@ Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de g
 
 ##### Artikel 9.23. (voorschriften over wanneer interventiepunten worden bereikt)
 
-1. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat voor de parameters, bedoeld in de [artikelen 9.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.18&z=2026-07-01&g=2026-07-01), [9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.20&z=2026-07-01&g=2026-07-01) en [9.25, tweede tot en met vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.25&z=2026-07-01&g=2026-07-01), standaardwaarden worden vastgesteld ter bepaling van de verslechtering van de grondwaterkwaliteit.
+1. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat voor de parameters, bedoeld in de [artikelen 9.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.18&z=2026-08-18&g=2026-08-18), [9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.20&z=2026-08-18&g=2026-08-18) en [9.25, tweede tot en met vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.25&z=2026-08-18&g=2026-08-18), standaardwaarden worden vastgesteld ter bepaling van de verslechtering van de grondwaterkwaliteit.
 
 2. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de standaardwaarde als volgt wordt berekend:
 
@@ -8263,7 +8263,7 @@ Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de g
 
 - e. polycyclische aromatische koolwaterstoffen (PAK's).
 
-3. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de verkregen monsters worden geanalyseerd op aromaten, als bij het onderzoek, bedoeld in [artikel 9.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.19&z=2026-07-01&g=2026-07-01), de aanwezigheid daarvan is gesignaleerd.
+3. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de verkregen monsters worden geanalyseerd op aromaten, als bij het onderzoek, bedoeld in [artikel 9.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.3&artikel=9.19&z=2026-08-18&g=2026-08-18), de aanwezigheid daarvan is gesignaleerd.
 
 4. Aan een omgevingsvergunning kunnen voorschriften worden verbonden die inhouden dat:
 
@@ -8343,7 +8343,7 @@ Deze afdeling is van toepassing op het verbinden van voorschriften aan een omgev
 
 ##### Artikel 9.36. (voorschriften over monsterneming en analyse)
 
-1. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de vergunninghouder de bodem waarop zuiveringsslib wordt gebracht, ten minste eenmaal per tien jaar laat bemonsteren en analyseren door een laboratorium met een accreditatie volgens NEN-EN-ISO/IEC 17025. Bij het bemonsteren en analyseren wordt voldaan aan [bijlage XXXI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXI&z=2026-07-01&g=2026-07-01).
+1. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de vergunninghouder de bodem waarop zuiveringsslib wordt gebracht, ten minste eenmaal per tien jaar laat bemonsteren en analyseren door een laboratorium met een accreditatie volgens NEN-EN-ISO/IEC 17025. Bij het bemonsteren en analyseren wordt voldaan aan [bijlage XXXI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXI&z=2026-08-18&g=2026-08-18).
 
 2. Aan een omgevingsvergunning worden voorschriften verbonden die inhouden dat de vergunninghouder er zorg voor draagt dat de door het laboratorium op te stellen rapportage per bemonsterd perceel in ieder geval de volgende gegevens bevat:
 
@@ -8369,23 +8369,23 @@ Deze afdeling is van toepassing op het verbinden van voorschriften aan een omgev
 
 1. Het model van de omgevingsvergunning voor een jachtgeweeractiviteit, bedoeld in [artikel 5.1, eerste lid, onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), wordt gevormd door een modelformulier, dat door de korpschef wordt gewaarmerkt met een stempelafdruk en een handtekening voor de periode waarvoor de omgevingsvergunning voor een jachtgeweeractiviteit wordt verleend.
 
-2. Het model van de omgevingsvergunning voor een jachtgeweeractiviteit, bedoeld in het eerste lid, is het model dat is opgenomen in [bijlage XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXII&z=2026-07-01&g=2026-07-01).
+2. Het model van de omgevingsvergunning voor een jachtgeweeractiviteit, bedoeld in het eerste lid, is het model dat is opgenomen in [bijlage XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXII&z=2026-08-18&g=2026-08-18).
 
 3. De omgevingsvergunning voor een jachtgeweeractiviteit wordt voorzien van de pasfoto van degene voor wie de omgevingsvergunning is bestemd. Deze foto wordt door de korpschef met een stempelafdruk gewaarmerkt.
 
 ##### Artikel 9.38. (model van een omgevingsvergunning voor een valkeniersactiviteit)
 
-Het model van de omgevingsvergunning voor een valkeniersactiviteit, bedoeld in [artikel 5.1, eerste lid, onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), is het model opgenomen in [bijlage XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXII&z=2026-07-01&g=2026-07-01).
+Het model van de omgevingsvergunning voor een valkeniersactiviteit, bedoeld in [artikel 5.1, eerste lid, onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), is het model opgenomen in [bijlage XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXII&z=2026-08-18&g=2026-08-18).
 
 ### Hoofdstuk 10. Projectbesluiten
 
 ##### Artikel 10.1. (instructieregel projectbesluit)
 
-De [paragrafen 8.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&z=2026-07-01&g=2026-07-01), [8.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&z=2026-07-01&g=2026-07-01), [8.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.2&z=2026-07-01&g=2026-07-01), [8.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.3&z=2026-07-01&g=2026-07-01) en [8.2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.4&z=2026-07-01&g=2026-07-01) zijn van overeenkomstige toepassing op een projectbesluit.
+De [paragrafen 8.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&z=2026-08-18&g=2026-08-18), [8.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.1&z=2026-08-18&g=2026-08-18), [8.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.2&z=2026-08-18&g=2026-08-18), [8.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.3&z=2026-08-18&g=2026-08-18) en [8.2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.3&sub-paragraaf=8.2.3.4&z=2026-08-18&g=2026-08-18) zijn van overeenkomstige toepassing op een projectbesluit.
 
 ##### Artikel 10.2. (projectbesluit dat geldt als omgevingsvergunning)
 
-De [afdelingen 9.1 tot en met 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.1&z=2026-07-01&g=2026-07-01) zijn van overeenkomstige toepassing op een projectbesluit dat geldt als een omgevingsvergunning.
+De [afdelingen 9.1 tot en met 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=9&afdeling=9.1&z=2026-08-18&g=2026-08-18) zijn van overeenkomstige toepassing op een projectbesluit dat geldt als een omgevingsvergunning.
 
 ##### Artikel 10.3. (geen overeenstemming Minister van Binnenlandse Zaken en Koninkrijksrelaties vereist)
 
@@ -8485,15 +8485,15 @@ Deze paragraaf is van toepassing op:
 
 - b. de monitoring, bedoeld in [artikel 11.11 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.11), voor de andere parameters voor signalering over de veiligheid van primaire waterkeringen, bedoeld in artikel 11.11, eerste lid, van dat besluit; en
 
-- c. de monitoring, bedoeld in [artikel 20.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.2), voor de alarmeringswaarden voor hoogwaterstanden die een gevaar voor primaire waterkeringen kunnen opleveren, bedoeld in [artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.3&z=2026-07-01&g=2026-07-01).
+- c. de monitoring, bedoeld in [artikel 20.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.2), voor de alarmeringswaarden voor hoogwaterstanden die een gevaar voor primaire waterkeringen kunnen opleveren, bedoeld in [artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.3&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 12.2b. (monitoring omgevingswaarden en andere parameters voor signalering veiligheid primaire waterkeringen: beoordeling)
 
-De beoordeling van de dijktrajecten, bedoeld in [bijlage II, onder A, bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=II) vindt plaats volgens [bijlage XXXIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIIa&z=2026-07-01&g=2026-07-01) bij deze regeling.
+De beoordeling van de dijktrajecten, bedoeld in [bijlage II, onder A, bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=II) vindt plaats volgens [bijlage XXXIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIIa&z=2026-08-18&g=2026-08-18) bij deze regeling.
 
 ##### Artikel 12.2c. (monitoring omgevingswaarden en andere parameters voor signalering veiligheid primaire waterkeringen: methode)
 
-De monitoring van de omgevingswaarden voor de veiligheid van primaire waterkeringen en de andere parameters voor signalering over de veiligheid van primaire waterkeringen vindt plaats volgens [bijlage XXXIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIIb&z=2026-07-01&g=2026-07-01) bij deze regeling.
+De monitoring van de omgevingswaarden voor de veiligheid van primaire waterkeringen en de andere parameters voor signalering over de veiligheid van primaire waterkeringen vindt plaats volgens [bijlage XXXIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIIb&z=2026-08-18&g=2026-08-18) bij deze regeling.
 
 ##### Artikel 12.2d. (monitoring omgevingswaarden en andere parameters voor signalering veiligheid primaire waterkeringen: frequentie)
 
@@ -8505,7 +8505,7 @@ De verslaglegging over de resultaten van de monitoring voor de omgevingswaarden 
 
 ##### Artikel 12.2f. (monitoring alarmeringswaarden: methode)
 
-De monitoring van de alarmeringswaarden voor hoogwaterstanden die een gevaar voor primaire waterkeringen kunnen opleveren, bedoeld in [artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.3&z=2026-07-01&g=2026-07-01), vindt plaats volgens het Landelijk Draaiboek Hoogwater en Overstromingsdreiging.
+De monitoring van de alarmeringswaarden voor hoogwaterstanden die een gevaar voor primaire waterkeringen kunnen opleveren, bedoeld in [artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.3&z=2026-08-18&g=2026-08-18), vindt plaats volgens het Landelijk Draaiboek Hoogwater en Overstromingsdreiging.
 
 #### § 12.1.3. Veiligheid andere dan primaire waterkeringen in beheer bij het Rijk
 
@@ -8529,19 +8529,19 @@ De monitoring voor de omgevingswaarde voor de veiligheid van andere dan primaire
 
 ##### Artikel 12.3. (toepassingsbereik)
 
-1. De [paragrafen 12.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.1&z=2026-07-01&g=2026-07-01) en [12.2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.3&z=2026-07-01&g=2026-07-01) zijn van toepassing op:
+1. De [paragrafen 12.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.1&z=2026-08-18&g=2026-08-18) en [12.2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.3&z=2026-08-18&g=2026-08-18) zijn van toepassing op:
 
 - a. de monitoring, bedoeld in [artikel 11.19 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.19), voor de omgevingswaarden voor de kwaliteit van de buitenlucht, bedoeld in de [artikelen 2.3 tot en met 2.8 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.3); en
 
 - b. de monitoring, bedoeld in [artikel 11.23 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.23), voor de andere parameters voor de kwaliteit van de buitenlucht, bedoeld in artikel 11.23, eerste lid, van dat besluit.
 
-2. De [artikelen 12.4 tot en met 12.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.4&z=2026-07-01&g=2026-07-01) en [12.34 tot en met 12.37](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.34&z=2026-07-01&g=2026-07-01) zijn van toepassing op de monitoring, bedoeld in [artikel 20.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.2), voor de alarmeringswaarden voor concentraties van verontreinigende stoffen in de buitenlucht, bedoeld in [artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01).
+2. De [artikelen 12.4 tot en met 12.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.4&z=2026-08-18&g=2026-08-18) en [12.34 tot en met 12.37](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.34&z=2026-08-18&g=2026-08-18) zijn van toepassing op de monitoring, bedoeld in [artikel 20.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.2), voor de alarmeringswaarden voor concentraties van verontreinigende stoffen in de buitenlucht, bedoeld in [artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18).
 
 ##### § 12.2.1.2. Monitoring door meten
 
 ##### Artikel 12.4. (aantal monitoringspunten luchtkwaliteit Amsterdam/Haarlem)
 
-In de agglomeratie Amsterdam/Haarlem, bedoeld in [artikel 2.38, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de agglomeratie Amsterdam/Haarlem, bedoeld in [artikel 2.38, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. vier voor stikstofdioxide;
 
@@ -8559,7 +8559,7 @@ In de agglomeratie Amsterdam/Haarlem, bedoeld in [artikel 2.38, onder a](https:/
 
 ##### Artikel 12.5. (aantal monitoringspunten luchtkwaliteit Den Haag/Leiden)
 
-In de agglomeratie Den Haag/Leiden, bedoeld in [artikel 2.38, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de agglomeratie Den Haag/Leiden, bedoeld in [artikel 2.38, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. vier voor stikstofdioxide;
 
@@ -8575,7 +8575,7 @@ In de agglomeratie Den Haag/Leiden, bedoeld in [artikel 2.38, onder b](https://w
 
 ##### Artikel 12.6. (aantal monitoringspunten luchtkwaliteit Eindhoven)
 
-In de agglomeratie Eindhoven, bedoeld in [artikel 2.38, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de agglomeratie Eindhoven, bedoeld in [artikel 2.38, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. twee voor stikstofdioxide;
 
@@ -8587,7 +8587,7 @@ In de agglomeratie Eindhoven, bedoeld in [artikel 2.38, onder c](https://wetten.
 
 ##### Artikel 12.7. (aantal monitoringspunten luchtkwaliteit Heerlen/Kerkrade)
 
-In de agglomeratie Heerlen/Kerkrade, bedoeld in [artikel 2.38, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de agglomeratie Heerlen/Kerkrade, bedoeld in [artikel 2.38, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. één voor zwaveldioxide;
 
@@ -8601,7 +8601,7 @@ In de agglomeratie Heerlen/Kerkrade, bedoeld in [artikel 2.38, onder d](https://
 
 ##### Artikel 12.8. (aantal monitoringspunten luchtkwaliteit Rotterdam/Dordrecht)
 
-In de agglomeratie Rotterdam/Dordrecht, bedoeld in [artikel 2.38, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de agglomeratie Rotterdam/Dordrecht, bedoeld in [artikel 2.38, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. twee voor zwaveldioxide;
 
@@ -8623,7 +8623,7 @@ In de agglomeratie Rotterdam/Dordrecht, bedoeld in [artikel 2.38, onder e](https
 
 ##### Artikel 12.9. (aantal monitoringspunten luchtkwaliteit Utrecht)
 
-In de agglomeratie Utrecht, bedoeld in [artikel 2.38, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de agglomeratie Utrecht, bedoeld in [artikel 2.38, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. twee voor stikstofdioxide;
 
@@ -8635,7 +8635,7 @@ In de agglomeratie Utrecht, bedoeld in [artikel 2.38, onder f](https://wetten.ov
 
 ##### Artikel 12.10. (aantal monitoringspunten luchtkwaliteit zone midden)
 
-In de zone midden, bedoeld in [artikel 2.39, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de zone midden, bedoeld in [artikel 2.39, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. drie voor zwaveldioxide;
 
@@ -8657,7 +8657,7 @@ In de zone midden, bedoeld in [artikel 2.39, onder a](https://wetten.overheid.nl
 
 ##### Artikel 12.11. (aantal monitoringspunten luchtkwaliteit zone noord)
 
-In de zone noord, bedoeld in [artikel 2.39, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de zone noord, bedoeld in [artikel 2.39, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. één voor zwaveldioxide;
 
@@ -8677,7 +8677,7 @@ In de zone noord, bedoeld in [artikel 2.39, onder b](https://wetten.overheid.nl/
 
 ##### Artikel 12.12. (aantal monitoringspunten luchtkwaliteit zone zuid)
 
-In de zone zuid, bedoeld in [artikel 2.39, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-07-01&g=2026-07-01), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
+In de zone zuid, bedoeld in [artikel 2.39, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-08-18&g=2026-08-18), liggen ten minste de volgende aantallen monitoringspunten voor het meten van de concentraties van de daarbij genoemde stoffen:
 
 - a. één voor zwaveldioxide;
 
@@ -8711,13 +8711,13 @@ In Nederland ligt ten minste één monitoringspunt voor het meten van:
 
 ##### Artikel 12.14. (aantal monitoringspunten ook gebruiken voor luchtkwaliteit NOx, VOS en PAK’s)
 
-1. Van de in de [artikelen 12.4 tot en met 12.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.4&z=2026-07-01&g=2026-07-01) bedoelde monitoringspunten voor het meten van de concentratie van ozon, wordt ten minste één monitoringspunt in stedelijk of voorstedelijk gebied ook gebruikt voor het meten van de concentratie van stikstofoxiden en vluchtige organische stoffen.
+1. Van de in de [artikelen 12.4 tot en met 12.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.4&z=2026-08-18&g=2026-08-18) bedoelde monitoringspunten voor het meten van de concentratie van ozon, wordt ten minste één monitoringspunt in stedelijk of voorstedelijk gebied ook gebruikt voor het meten van de concentratie van stikstofoxiden en vluchtige organische stoffen.
 
-2. Van de in de [artikelen 12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.4&z=2026-07-01&g=2026-07-01) en [12.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.8&z=2026-07-01&g=2026-07-01) bedoelde monitoringspunten voor het meten van de concentratie van benzo(a)pyreen, wordt ten minste één monitoringspunt ook gebruikt voor het meten van de concentratie van andere relevante polycyclische aromatische koolwaterstoffen, waaronder in ieder geval benzo(a)antraceen, benzo(b)fluorantheen, benzo(j)fluorantheen, benzo(k)fluorantheen, indeno(1,2,3-cd)pyreen en dibenzo(a,h)antraceen.
+2. Van de in de [artikelen 12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.4&z=2026-08-18&g=2026-08-18) en [12.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.8&z=2026-08-18&g=2026-08-18) bedoelde monitoringspunten voor het meten van de concentratie van benzo(a)pyreen, wordt ten minste één monitoringspunt ook gebruikt voor het meten van de concentratie van andere relevante polycyclische aromatische koolwaterstoffen, waaronder in ieder geval benzo(a)antraceen, benzo(b)fluorantheen, benzo(j)fluorantheen, benzo(k)fluorantheen, indeno(1,2,3-cd)pyreen en dibenzo(a,h)antraceen.
 
 ##### Artikel 12.15. (aantal monitoringspunten ook gebruiken voor chemische samenstellingen PM2,5)
 
-Van de in de [artikelen 12.10 tot en met 12.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.10&z=2026-07-01&g=2026-07-01) bedoelde monitoringspunten voor het meten van de concentratie van PM2,5, wordt ten minste één monitoringspunt ook gebruikt voor het meten van de concentraties van de chemische samenstellingen van PM2,5, waaronder in ieder geval sulfaat, nitraat, natrium, kalium, ammonium, chloride, calcium, magnesium, elementair koolstof en organisch koolstof.
+Van de in de [artikelen 12.10 tot en met 12.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.10&z=2026-08-18&g=2026-08-18) bedoelde monitoringspunten voor het meten van de concentratie van PM2,5, wordt ten minste één monitoringspunt ook gebruikt voor het meten van de concentraties van de chemische samenstellingen van PM2,5, waaronder in ieder geval sulfaat, nitraat, natrium, kalium, ammonium, chloride, calcium, magnesium, elementair koolstof en organisch koolstof.
 
 ##### Artikel 12.16. (locatie monitoringspunten algemeen)
 
@@ -8745,19 +8745,19 @@ Van de in de [artikelen 12.10 tot en met 12.12](https://wetten.overheid.nl/jci1.
 
 5. Het eerste tot en met vierde lid is van overeenkomstige toepassing op de monitoring van:
 
-- a. de achtergrondconcentraties van arseen, cadmium, nikkel, benzo(a)pyreen en de andere in [artikel 12.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.14&z=2026-07-01&g=2026-07-01), genoemde polycyclische aromatische koolwaterstoffen;
+- a. de achtergrondconcentraties van arseen, cadmium, nikkel, benzo(a)pyreen en de andere in [artikel 12.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.14&z=2026-08-18&g=2026-08-18), genoemde polycyclische aromatische koolwaterstoffen;
 
 - b. de depositie van:
 
    - 1°. arseen, cadmium, kwik, nikkel en benzo(a)pyreen;
 
-   - 2°. de andere in [artikel 12.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.14&z=2026-07-01&g=2026-07-01), genoemde polycyclische aromatische koolwaterstoffen.
+   - 2°. de andere in [artikel 12.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.14&z=2026-08-18&g=2026-08-18), genoemde polycyclische aromatische koolwaterstoffen.
 
 ##### Artikel 12.17. (locatie monitoringspunten ozon)
 
 1. De monitoringspunten voor het meten van de concentratie van ozon liggen op locaties:
 
-- a. binnen de zones en agglomeraties, bedoeld in de [artikelen 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01) en [2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-07-01&g=2026-07-01), waar de hoogste concentraties voorkomen waaraan de bevolking of de vegetatie kan worden blootgesteld gedurende een periode die ten opzichte van de middelingstijd significant is; en
+- a. binnen de zones en agglomeraties, bedoeld in de [artikelen 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18) en [2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-08-18&g=2026-08-18), waar de hoogste concentraties voorkomen waaraan de bevolking of de vegetatie kan worden blootgesteld gedurende een periode die ten opzichte van de middelingstijd significant is; en
 
 - b. waarvan aannemelijk is dat ze niet direct worden beïnvloed door plaatselijke emissiebronnen.
 
@@ -8773,7 +8773,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 ##### Artikel 12.19. (wijze van bemonsteren algemeen)
 
-1. Bij de monitoringspunten, bedoeld in de [artikelen 12.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.16&z=2026-07-01&g=2026-07-01) en [12.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.17&z=2026-07-01&g=2026-07-01), wordt bemonsterd door de lucht in een inlaatbuis te laten stromen:
+1. Bij de monitoringspunten, bedoeld in de [artikelen 12.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.16&z=2026-08-18&g=2026-08-18) en [12.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.17&z=2026-08-18&g=2026-08-18), wordt bemonsterd door de lucht in een inlaatbuis te laten stromen:
 
 - a. waarbij de lucht rond de inlaatbuis vrij kan stromen;
 
@@ -8835,7 +8835,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 4. Op grond van de beschikbare uurgemiddelde concentraties wordt bepaald of aannemelijk is dat de omgevingswaarden, bedoeld in [artikel 2.3, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.3) worden of zullen worden overschreden.
 
-5. Uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.21, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.21&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+5. Uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.21, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.21&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.23. (stikstofdioxide en stikstofoxiden: meetmethode)
 
@@ -8859,7 +8859,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 3. Op grond van de beschikbare uurgemiddelde concentraties wordt bepaald of aannemelijk is dat de omgevingswaarde, bedoeld in [artikel 2.4, tweede lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.4), wordt of zal worden overschreden.
 
-4. Uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.23, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.23&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+4. Uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.23, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.23&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.25. (PM10: meetmethode)
 
@@ -8883,13 +8883,13 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 4. Op grond van de beschikbare 24-uurgemiddelde concentraties wordt bepaald of aannemelijk is dat de omgevingswaarden, bedoeld in [artikel 2.5, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), wordt of zullen worden overschreden.
 
-5. 24-uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.25&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+5. 24-uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.25&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.27. (PM10: zeezoutcorrectie)
 
-1. Als de gemeten 24-uurgemiddelde concentratie PM10 meer dan 35 maal per kalenderjaar de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), overschrijdt, wordt het aantal overschrijdingen verminderd met het aantal overschrijdingen, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-07-01&g=2026-07-01), onder A, in de daarbij aangegeven provincie.
+1. Als de gemeten 24-uurgemiddelde concentratie PM10 meer dan 35 maal per kalenderjaar de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), overschrijdt, wordt het aantal overschrijdingen verminderd met het aantal overschrijdingen, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-08-18&g=2026-08-18), onder A, in de daarbij aangegeven provincie.
 
-2. Als de gemeten kalenderjaargemiddelde concentratie PM10 hoger is dan de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), wordt de gemeten concentratie verminderd met het aantal microgram per kubieke meter, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-07-01&g=2026-07-01), onder B, in de daarbij aangegeven gemeente.
+2. Als de gemeten kalenderjaargemiddelde concentratie PM10 hoger is dan de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), wordt de gemeten concentratie verminderd met het aantal microgram per kubieke meter, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-08-18&g=2026-08-18), onder B, in de daarbij aangegeven gemeente.
 
 ##### Artikel 12.28. (PM2,5: meetmethode)
 
@@ -8909,7 +8909,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 4. Op grond van de beschikbare 24-uurgemiddelde concentraties wordt bepaald of de omgevingswaarden, bedoeld in [artikel 2.5, tweede lid, onder a en c, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), worden of zullen worden overschreden.
 
-5. 24-uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.28&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+5. 24-uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.28&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.30. (lood: meetmethode)
 
@@ -8927,7 +8927,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 2. Het aantal gevalideerde meetwaarden per kalenderjaar is ten minste 90%.
 
-3. Meetresultaten waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.30&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+3. Meetresultaten waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.30&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.32. (koolmonoxide: meetmethode)
 
@@ -8943,7 +8943,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 2. Er wordt een acht-uurgemiddelde concentratie berekend als ten minste zes uurgemiddelde concentraties beschikbaar zijn.
 
-3. Uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentraties groter is dan bepaald in [artikel 12.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.32&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+3. Uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentraties groter is dan bepaald in [artikel 12.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.32&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 4. Acht-uurgemiddelde concentraties worden voortschrijdend berekend uit acht achtereenvolgende uurgemiddelde concentraties. Het eerste acht-uurgemiddelde op een dag is de periode van 17.00 uur op de voorgaande dag tot 01.00 uur. Het laatste acht-uurgemiddelde op een dag is de periode van 16.00 uur tot 24.00 uur.
 
@@ -8967,7 +8967,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 ##### Artikel 12.36. (ozon: acht-uurgemiddelde concentratie)
 
-1. Uit acht achtereenvolgende uurgemiddelde concentraties als bedoeld in [artikel 12.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.35&z=2026-07-01&g=2026-07-01) worden acht-uurgemiddelde concentraties voortschrijdend berekend, waarbij het eerste acht-uurgemiddelde op een dag betrekking heeft op de periode van 17.00 uur op de voorgaande dag tot 1.00 uur, en het laatste acht-uurgemiddelde op een dag betrekking heeft op de periode van 16.00 uur tot 24.00 uur.
+1. Uit acht achtereenvolgende uurgemiddelde concentraties als bedoeld in [artikel 12.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.35&z=2026-08-18&g=2026-08-18) worden acht-uurgemiddelde concentraties voortschrijdend berekend, waarbij het eerste acht-uurgemiddelde op een dag betrekking heeft op de periode van 17.00 uur op de voorgaande dag tot 1.00 uur, en het laatste acht-uurgemiddelde op een dag betrekking heeft op de periode van 16.00 uur tot 24.00 uur.
 
 2. Er wordt een acht-uurgemiddelde concentratie berekend als in een periode van acht uur ten minste zes uurgemiddelde concentraties van ozon beschikbaar zijn.
 
@@ -8979,7 +8979,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 ##### Artikel 12.37. (ozon: AOT40)
 
-1. Uit de uurgemiddelde concentraties, bedoeld in [artikel 12.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.35&z=2026-07-01&g=2026-07-01), wordt voor de periode 1 mei tot en met 31 juli en de periode 1 april tot en met 30 september een AOT40-waarde berekend, zijnde het gesommeerde verschil tussen de uurgemiddelde concentraties boven de 80 µg/m3 en 80 µg/m3.
+1. Uit de uurgemiddelde concentraties, bedoeld in [artikel 12.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.35&z=2026-08-18&g=2026-08-18), wordt voor de periode 1 mei tot en met 31 juli en de periode 1 april tot en met 30 september een AOT40-waarde berekend, zijnde het gesommeerde verschil tussen de uurgemiddelde concentraties boven de 80 µg/m3 en 80 µg/m3.
 
 2. Er worden AOT40-waarden berekend als ten minste 90% van de uurwaarden tussen 08.00 uur en 20.00 uur in de periode van 1 mei tot en met 31 juli en in de periode van 1 april tot en met 30 september beschikbaar zijn.
 
@@ -9009,7 +9009,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 3. Op grond van de beschikbare 24-uurgemiddelde concentraties wordt bepaald of aannemelijk is dat de omgevingswaarden, bedoeld in [artikel 2.8, eerste lid, onder a tot en met c, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.8), worden of zullen worden overschreden.
 
-4. 24-uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.38, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.38&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+4. 24-uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.38, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.38&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.40. (concentratie benzo(a)pyreen: meetmethode)
 
@@ -9027,7 +9027,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 3. Op grond van de beschikbare 24-uurgemiddelde concentraties wordt bepaald of aannemelijk is dat de omgevingswaarde, bedoeld in [artikel 2.8, eerste lid, onder d, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.8), wordt of zal worden overschreden.
 
-4. 24-uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.40&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+4. 24-uurgemiddelde concentraties waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.40&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.42. (concentratie andere PAK’s: meetmethode)
 
@@ -9045,7 +9045,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 2. Het aantal gevalideerde meetwaarden per kalenderjaar is ten minste 90%.
 
-3. Meetresultaten waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.42&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+3. Meetresultaten waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke concentratie groter is dan bepaald in [artikel 12.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.42&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.44. (depositie arseen, cadmium, nikkel: meetmethode)
 
@@ -9077,7 +9077,7 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 2. Het aantal gevalideerde meetwaarden per kalenderjaar is ten minste 90%.
 
-3. Meetresultaten waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke depositie groter is dan bepaald in de [artikelen 12.44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.44&z=2026-07-01&g=2026-07-01), [12.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.45&z=2026-07-01&g=2026-07-01), of [12.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.46&z=2026-07-01&g=2026-07-01), worden niet gebruikt.
+3. Meetresultaten waarvan aannemelijk is dat de afwijking ten opzichte van de werkelijke depositie groter is dan bepaald in de [artikelen 12.44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.44&z=2026-08-18&g=2026-08-18), [12.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.45&z=2026-08-18&g=2026-08-18), of [12.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.46&z=2026-08-18&g=2026-08-18), worden niet gebruikt.
 
 ##### Artikel 12.48. (monitoring luchtkwaliteit: toepassen gelijkwaardige meetmethode)
 
@@ -9085,9 +9085,9 @@ De monitoringspunten voor het meten van achtergrondconcentraties:
 
 2. Er kan een andere meetmethode voor het bemonsteren en het meten van de concentratie van PM10 en PM2,5 worden toegepast dan voorgeschreven in deze paragraaf als:
 
-- a. de resultaten daarvan gelijkwaardig zijn aan de resultaten van de in [artikel 12.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.25&z=2026-07-01&g=2026-07-01) of [12.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.28&z=2026-07-01&g=2026-07-01) voorgeschreven methoden; of
+- a. de resultaten daarvan gelijkwaardig zijn aan de resultaten van de in [artikel 12.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.25&z=2026-08-18&g=2026-08-18) of [12.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.28&z=2026-08-18&g=2026-08-18) voorgeschreven methoden; of
 
-- b. die andere meetmethode een constante samenhang heeft met de in [artikel 12.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.25&z=2026-07-01&g=2026-07-01) of [12.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.28&z=2026-07-01&g=2026-07-01) voorgeschreven methoden. Op de met deze methode verkregen resultaten wordt een correctiefactor toegepast, om resultaten te verkrijgen die gelijkwaardig zijn aan de resultaten van de in [artikel 12.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.25&z=2026-07-01&g=2026-07-01) of [12.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.28&z=2026-07-01&g=2026-07-01) voorgeschreven methode.
+- b. die andere meetmethode een constante samenhang heeft met de in [artikel 12.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.25&z=2026-08-18&g=2026-08-18) of [12.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.28&z=2026-08-18&g=2026-08-18) voorgeschreven methoden. Op de met deze methode verkregen resultaten wordt een correctiefactor toegepast, om resultaten te verkrijgen die gelijkwaardig zijn aan de resultaten van de in [artikel 12.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.25&z=2026-08-18&g=2026-08-18) of [12.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.2&artikel=12.28&z=2026-08-18&g=2026-08-18) voorgeschreven methode.
 
 3. Er kan een andere meetmethode voor het meten van de totale depositie van arseen, cadmium, nikkel, kwik en polycyclische aromatische koolwaterstoffen worden toegepast dan voorgeschreven in deze paragraaf, als de resultaten daarvan gelijkwaardig zijn aan de resultaten van de in deze paragraaf voorgeschreven methoden.
 
@@ -9145,9 +9145,9 @@ Een monitoringspunt voor het berekenen van de concentratie van stikstofdioxide e
 
 1. Voor het berekenen van de concentratie van stikstofdioxide en PM10 bij wegen wordt gebruik gemaakt van:
 
-- a. grootschalige concentratiegegevens, grootschalige dubbeltellingcorrectiegegevens, meteorologische gegevens en gegevens over de terreinruwheid als bedoeld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XX&z=2026-07-01&g=2026-07-01);
+- a. grootschalige concentratiegegevens, grootschalige dubbeltellingcorrectiegegevens, meteorologische gegevens en gegevens over de terreinruwheid als bedoeld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XX&z=2026-08-18&g=2026-08-18);
 
-- b. de emissiefactoren van voertuigen, bedoeld in [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXI&z=2026-07-01&g=2026-07-01); en
+- b. de emissiefactoren van voertuigen, bedoeld in [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXI&z=2026-08-18&g=2026-08-18); en
 
 - c. gegevens die standaardrekenmethode luchtkwaliteit 1 of standaardrekenmethode luchtkwaliteit 2 vereist over:
 
@@ -9193,7 +9193,7 @@ Op het berekenen van de concentratie van stikstofdioxide en PM10 bij het exploit
 
 1. Voor het berekenen van de concentratie van stikstofdioxide en PM10 wordt gebruik gemaakt van:
 
-- a. grootschalige concentratiegegevens, grootschalige dubbeltellingcorrectiegegevens, meteorologische gegevens en gegevens over de terreinruwheid, bedoeld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XX&z=2026-07-01&g=2026-07-01);
+- a. grootschalige concentratiegegevens, grootschalige dubbeltellingcorrectiegegevens, meteorologische gegevens en gegevens over de terreinruwheid, bedoeld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XX&z=2026-08-18&g=2026-08-18);
 
 - b. gegevens die standaardrekenmethode luchtkwaliteit 3 vereist over:
 
@@ -9207,9 +9207,9 @@ Op het berekenen van de concentratie van stikstofdioxide en PM10 bij het exploit
 
 ##### Artikel 12.56. (berekenen PM10: zeezoutcorrectie)
 
-1. Als de berekende 24-uurgemiddelde concentratie PM10 meer dan 35 maal per kalenderjaar de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), overschrijdt, wordt het aantal overschrijdingen verminderd met het aantal overschrijdingen, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-07-01&g=2026-07-01), onder A, in de daarbij aangegeven provincie.
+1. Als de berekende 24-uurgemiddelde concentratie PM10 meer dan 35 maal per kalenderjaar de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), overschrijdt, wordt het aantal overschrijdingen verminderd met het aantal overschrijdingen, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-08-18&g=2026-08-18), onder A, in de daarbij aangegeven provincie.
 
-2. Als de berekende kalenderjaargemiddelde concentratie PM10 hoger is dan de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), wordt de berekende concentratie verminderd met het aantal microgram per kubieke meter, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-07-01&g=2026-07-01), onder B, in de daarbij aangegeven gemeente.
+2. Als de berekende kalenderjaargemiddelde concentratie PM10 hoger is dan de omgevingswaarde voor PM10, bedoeld in [artikel 2.5, eerste lid, aanhef en onder b, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.5), wordt de berekende concentratie verminderd met het aantal microgram per kubieke meter, bedoeld in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXIII&z=2026-08-18&g=2026-08-18), onder B, in de daarbij aangegeven gemeente.
 
 ##### Artikel 12.57. (berekenen: afronding)
 
@@ -9225,11 +9225,11 @@ De berekende concentratie of het berekende aantal overschrijdingen wordt afgeron
 
 - b. een vermelding van de waarden van de concentraties op de monitoringspunten;
 
-- c. een verantwoording van de toegepaste rekenmethode voor het berekenen van de concentratie bij wegen en een motivering dat die situatie valt binnen het toepassingsbereik van die rekenmethode, bedoeld in [artikel 12.50](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.3&artikel=12.50&z=2026-07-01&g=2026-07-01);
+- c. een verantwoording van de toegepaste rekenmethode voor het berekenen van de concentratie bij wegen en een motivering dat die situatie valt binnen het toepassingsbereik van die rekenmethode, bedoeld in [artikel 12.50](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.3&artikel=12.50&z=2026-08-18&g=2026-08-18);
 
-- d. een verantwoording van de toegepaste rekenmethode voor het berekenen van de concentratie bij het exploiteren van een ippc-installatie voor het houden van pluimvee of varkens, bedoeld in [artikel 3.200, eerste lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.200), of bij het houden van landbouwhuisdieren, bedoeld in artikel 3.200, eerste lid, onder b, van dat besluit, en een motivering dat die situatie valt binnen het toepassingsbereik van die rekenmethode, bedoeld in [artikel 12.53](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.3&artikel=12.53&z=2026-07-01&g=2026-07-01).
+- d. een verantwoording van de toegepaste rekenmethode voor het berekenen van de concentratie bij het exploiteren van een ippc-installatie voor het houden van pluimvee of varkens, bedoeld in [artikel 3.200, eerste lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.200), of bij het houden van landbouwhuisdieren, bedoeld in artikel 3.200, eerste lid, onder b, van dat besluit, en een motivering dat die situatie valt binnen het toepassingsbereik van die rekenmethode, bedoeld in [artikel 12.53](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.3&artikel=12.53&z=2026-08-18&g=2026-08-18).
 
-3. Als gebruik is gemaakt van een monitoringspunt op meer dan 10 m van de wegrand of meer dan 25 m van de rand van grote kruispunten als bedoeld in [artikel 12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.3&artikel=12.51&z=2026-07-01&g=2026-07-01), bevat het verslag een motivering daarvan en een toelichting op de gebruikte afstand.
+3. Als gebruik is gemaakt van een monitoringspunt op meer dan 10 m van de wegrand of meer dan 25 m van de rand van grote kruispunten als bedoeld in [artikel 12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.3&artikel=12.51&z=2026-08-18&g=2026-08-18), bevat het verslag een motivering daarvan en een toelichting op de gebruikte afstand.
 
 ##### § 12.2.1.4. Monitoring decentrale afwijkende omgevingswaarden
 
@@ -9257,7 +9257,7 @@ De monitoringspunten liggen op locaties waar:
 
 1. De monitoring wordt eenmaal kort voor het begin van het badseizoen uitgevoerd en vindt vervolgens gedurende het badseizoen ten minste eenmaal per maand plaats.
 
-2. De frequentie van de monitoring is zo hoog als nodig is om het aantal monsters, bedoeld in [artikel 12.67](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.67&z=2026-07-01&g=2026-07-01), te verzamelen.
+2. De frequentie van de monitoring is zo hoog als nodig is om het aantal monsters, bedoeld in [artikel 12.67](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.67&z=2026-08-18&g=2026-08-18), te verzamelen.
 
 ##### Artikel 12.62. (monitoring omgevingswaarde zwemlocaties: tijdschema)
 
@@ -9283,7 +9283,7 @@ Het steriliseren van monsterflessen, het nemen van monsters en het bewaren en ve
 
 ##### Artikel 12.65. (monitoring omgevingswaarde zwemlocaties: toepassen gelijkwaardige methode of werkwijze)
 
-In afwijking van de [artikelen 12.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.63&z=2026-07-01&g=2026-07-01) en [12.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.64&z=2026-07-01&g=2026-07-01) kan een andere methode of een andere werkwijze worden toegepast, als het resultaat daarvan gelijkwaardig is aan het resultaat van de in de bijlagen I en V bij de zwemwaterrichtlijn voorgeschreven methoden en werkwijzen.
+In afwijking van de [artikelen 12.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.63&z=2026-08-18&g=2026-08-18) en [12.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.64&z=2026-08-18&g=2026-08-18) kan een andere methode of een andere werkwijze worden toegepast, als het resultaat daarvan gelijkwaardig is aan het resultaat van de in de bijlagen I en V bij de zwemwaterrichtlijn voorgeschreven methoden en werkwijzen.
 
 ##### Artikel 12.66. (beoordeling gegevens monitoring omgevingswaarde zwemlocaties: zwemwaterkwaliteitsbeoordeling)
 
@@ -9297,7 +9297,7 @@ In afwijking van de [artikelen 12.63](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
    - 1°. de zwemlocatie minder dan vier badseizoenen geleden is aangewezen; of
 
-   - 2°. wijzigingen zijn opgetreden die de indeling van de zwemlocatie op grond van [artikel 12.70](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.70&z=2026-07-01&g=2026-07-01)zullen of redelijkerwijs zullen beïnvloeden.
+   - 2°. wijzigingen zijn opgetreden die de indeling van de zwemlocatie op grond van [artikel 12.70](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.70&z=2026-08-18&g=2026-08-18)zullen of redelijkerwijs zullen beïnvloeden.
 
 3. De periode, bedoeld in het tweede lid, kan eenmaal in de vijf jaar worden gewijzigd in een periode bestaande uit de drie of vier voorgaande badseizoenen.
 
@@ -9313,17 +9313,17 @@ De zwemwaterkwaliteitsbeoordeling vindt plaats aan de hand van:
 
 ##### Artikel 12.68. (beoordeling gegevens monitoring omgevingswaarde zwemlocaties: vervangen monsters kortstondige verontreiniging)
 
-Bij de zwemwaterkwaliteitsbeoordeling, bedoeld in [artikel 12.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.66&z=2026-07-01&g=2026-07-01), kunnen tijdens een kortstondige zwemwaterverontreiniging genomen monsters buiten beschouwing worden gelaten. Deze monsters worden vervangen door in overeenstemming met bijlage IV, punt 4, bij de zwemwaterrichtlijn genomen monsters.
+Bij de zwemwaterkwaliteitsbeoordeling, bedoeld in [artikel 12.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.66&z=2026-08-18&g=2026-08-18), kunnen tijdens een kortstondige zwemwaterverontreiniging genomen monsters buiten beschouwing worden gelaten. Deze monsters worden vervangen door in overeenstemming met bijlage IV, punt 4, bij de zwemwaterrichtlijn genomen monsters.
 
 ##### Artikel 12.69. (beoordeling gegevens monitoring omgevingswaarde zwemlocaties: onderverdeling of groepering)
 
-1. De beheerder van het oppervlaktewaterlichaam kan voor de zwemwaterkwaliteitsbeoordeling, bedoeld in [artikel 12.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.66&z=2026-07-01&g=2026-07-01), de zwemlocaties onderverdelen of groeperen.
+1. De beheerder van het oppervlaktewaterlichaam kan voor de zwemwaterkwaliteitsbeoordeling, bedoeld in [artikel 12.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.66&z=2026-08-18&g=2026-08-18), de zwemlocaties onderverdelen of groeperen.
 
 2. Zwemlocaties kunnen alleen worden gegroepeerd als zij:
 
 - a. aangrenzend zijn;
 
-- b. tijdens de vier voorgaande jaren op dezelfde wijze zijn beoordeeld op grond van [artikel 12.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.66&z=2026-07-01&g=2026-07-01); en
+- b. tijdens de vier voorgaande jaren op dezelfde wijze zijn beoordeeld op grond van [artikel 12.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.2&sub-paragraaf=12.2.2.1&artikel=12.66&z=2026-08-18&g=2026-08-18); en
 
 - c. een zwemwaterprofiel als bedoeld in [artikel 3.6 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.6) vertonen met gemeenschappelijke risicofactoren of zonder risicofactoren.
 
@@ -9367,23 +9367,23 @@ Deze paragraaf is van toepassing op:
 
 Op het berekenen van de geluidbelasting Lden en de geluidbelasting Lnight is van toepassing:
 
-- a. voor geluidbelasting afkomstig van wegen en spoorwegen: de meet- en rekenmethoden opgenomen in [bijlage XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIII&z=2026-07-01&g=2026-07-01);
+- a. voor geluidbelasting afkomstig van wegen en spoorwegen: de meet- en rekenmethoden opgenomen in [bijlage XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIII&z=2026-08-18&g=2026-08-18);
 
-- b. voor geluidbelasting afkomstig van activiteiten of een samenstel van activiteiten: de meet- en rekenmethoden opgenomen in [bijlage XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIII&z=2026-07-01&g=2026-07-01); en
+- b. voor geluidbelasting afkomstig van activiteiten of een samenstel van activiteiten: de meet- en rekenmethoden opgenomen in [bijlage XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIII&z=2026-08-18&g=2026-08-18); en
 
 - c. voor geluidbelasting afkomstig van luchthavens: de hoofdstukken 2.6 tot en met 4 van de bijlage Bepalingsmethoden voor de geluidsbelastingsindicatoren bij Richtlijn 2015/996/EU van de Commissie van 19 mei 2015 tot vaststelling van gemeenschappelijke bepalingsmethoden voor lawaai overeenkomstig Richtlijn 2002/49/EG van het Europees Parlement en de Raad van 25 juni 2012 inzake de evaluatie en beheersing van omgevingslawaai (PbEU 2015, L 168).
 
 ##### Artikel 12.71c. (berekenen: geluid op geluidreferentiepunten voor monitoring)
 
-1. Op het berekenen van het geluid op geluidreferentiepunten, bedoeld in [artikel 11.45 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.45), zijn de [artikelen 3.14, eerste lid, aanhef en onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=3.14&z=2026-07-01&g=2026-07-01), en [3.21, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.4&artikel=3.21&z=2026-07-01&g=2026-07-01), van toepassing.
+1. Op het berekenen van het geluid op geluidreferentiepunten, bedoeld in [artikel 11.45 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.45), zijn de [artikelen 3.14, eerste lid, aanhef en onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=3.14&z=2026-08-18&g=2026-08-18), en [3.21, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.4&artikel=3.21&z=2026-08-18&g=2026-08-18), van toepassing.
 
 2. Het geluid wordt bepaald over een kalenderjaar.
 
 ##### Artikel 12.71d. (bepalen: geluidemissie in Lden en verschil tussen geluidemissie in Lden en basisgeluidemissie)
 
-1. De geluidemissie in Lden, bedoeld in [artikel 11.47, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.47), van gemeentewegen, waterschapswegen en lokale spoorwegen, voor zover deze niet bij omgevingsverordening zijn aangewezen, in een kalenderjaar wordt berekend volgens [bijlage IVd](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVd&z=2026-07-01&g=2026-07-01) en afgerond op één decimaal.
+1. De geluidemissie in Lden, bedoeld in [artikel 11.47, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.47), van gemeentewegen, waterschapswegen en lokale spoorwegen, voor zover deze niet bij omgevingsverordening zijn aangewezen, in een kalenderjaar wordt berekend volgens [bijlage IVd](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVd&z=2026-08-18&g=2026-08-18) en afgerond op één decimaal.
 
-2. Bij het schatten van het verschil tussen de geluidemissie in Lden en de basisgeluidemissie wordt de geluidemissie in Lden geacht niet hoger te zijn dan de basisgeluidemissie vermeerderd met 1,5 dB, als wordt onderbouwd dat het verkeer in het kalenderjaar per categorie motorvoertuigen als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-07-01&g=2026-07-01) met minder dan 40% is toegenomen ten opzichte van de basisgeluidemissie bij omstandigheden die voor de geluidemissie gelijkwaardig of beter zijn. Bij die onderbouwing worden in ieder geval de wegverharding, samenstelling van het verkeer en maximumsnelheid meegenomen.
+2. Bij het schatten van het verschil tussen de geluidemissie in Lden en de basisgeluidemissie wordt de geluidemissie in Lden geacht niet hoger te zijn dan de basisgeluidemissie vermeerderd met 1,5 dB, als wordt onderbouwd dat het verkeer in het kalenderjaar per categorie motorvoertuigen als bedoeld in [bijlage IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe&z=2026-08-18&g=2026-08-18) met minder dan 40% is toegenomen ten opzichte van de basisgeluidemissie bij omstandigheden die voor de geluidemissie gelijkwaardig of beter zijn. Bij die onderbouwing worden in ieder geval de wegverharding, samenstelling van het verkeer en maximumsnelheid meegenomen.
 
 3. Als geen ruimtelijke ontwikkelingen, veranderingen aan de infrastructuur of veranderingen in verkeersstromen hebben plaatsgevonden, kan in afwijking van het tweede lid, in plaats van een onderbouwing een kwalitatieve beschrijving worden gegeven.
 
@@ -9437,7 +9437,7 @@ In het geluidregister is de ligging van het geluidreferentiepunt, bedoeld in [ar
 
 ##### Artikel 12.73. (toepassingsbereik)
 
-Deze paragraaf is van toepassing op geluidbelastingkaarten als bedoeld in [artikel 11.53, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.53) voor een agglomeratie als bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.5&artikel=2.40&z=2026-07-01&g=2026-07-01).
+Deze paragraaf is van toepassing op geluidbelastingkaarten als bedoeld in [artikel 11.53, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.53) voor een agglomeratie als bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.5&artikel=2.40&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 12.74. (geluidbelastingkaarten voor agglomeraties: tabellen)
 
@@ -9533,7 +9533,7 @@ Activiteiten in gebieden waarvoor in het omgevingsplan een hogere waarde voor he
 
 ##### Artikel 12.80. (verbeelding van individuele activiteiten op geografische kaarten)
 
-Activiteiten buiten een gebied als bedoeld in [artikel 12.79](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.3&sub-paragraaf=12.2.3.2&sub-paragraaf=12.2.3.2.2&artikel=12.79&z=2026-07-01&g=2026-07-01) en die meer geluid op geluidgevoelige gebouwen mogen veroorzaken dan 55 dB Lden of 50 dB Lnight worden op geografische kaarten weergegeven door verbeelding van:
+Activiteiten buiten een gebied als bedoeld in [artikel 12.79](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.3&sub-paragraaf=12.2.3.2&sub-paragraaf=12.2.3.2.2&artikel=12.79&z=2026-08-18&g=2026-08-18) en die meer geluid op geluidgevoelige gebouwen mogen veroorzaken dan 55 dB Lden of 50 dB Lnight worden op geografische kaarten weergegeven door verbeelding van:
 
 - a. de locatie waar de activiteit wordt verricht;
 
@@ -9553,7 +9553,7 @@ Deze paragraaf is van toepassing op geluidbelastingkaarten voor wegen, spoorwege
 
 1. In de tabellen van een geluidbelastingkaart worden per geluidbelastingklasse en, als het wegen of spoorwegen als bedoeld in [artikel 11.50, tweede en derde lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.50) betreft, per gemeente, weergegeven:
 
-- a. het aantal geluidgevoelige gebouwen buiten agglomeraties als bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.5&artikel=2.40&z=2026-07-01&g=2026-07-01) dat is blootgesteld aan:
+- a. het aantal geluidgevoelige gebouwen buiten agglomeraties als bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.5&artikel=2.40&z=2026-08-18&g=2026-08-18) dat is blootgesteld aan:
 
    - 1°. een geluidbelasting Lden die groter is dan, of gelijk is aan 55, 60, 65, 70 en 75 dB; en
 
@@ -9629,31 +9629,31 @@ Dit hoofdstuk is van toepassing op het berekenen van plankosten, met uitzonderin
 
 1. Het bedrag aan plankosten dat ten hoogste kan worden verhaald, is de som van:
 
-- a. voor kostenverhaalsgebieden als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) waarvoor geen tijdvak is vastgesteld: de kosten van de producten en activiteiten, genoemd in [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01); en
+- a. voor kostenverhaalsgebieden als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) waarvoor geen tijdvak is vastgesteld: de kosten van de producten en activiteiten, genoemd in [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18); en
 
-- b. voor kostenverhaalsgebieden als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) waarvoor wel een tijdvak is vastgesteld: de kosten van de producten en activiteiten, genoemd in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01).
+- b. voor kostenverhaalsgebieden als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) waarvoor wel een tijdvak is vastgesteld: de kosten van de producten en activiteiten, genoemd in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18).
 
-2. Als voor een product of activiteit of een onderdeel daarvan in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01) of [XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01) een invloedsfactor kostenverhaal is aangegeven, worden de kosten voor dat product of die activiteit of dat onderdeel verlaagd of verhoogd met het percentage, bedoeld in bijlage XXXIV, tabel 4, en bijlage XXXIVa, tabel 4.
+2. Als voor een product of activiteit of een onderdeel daarvan in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18) of [XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18) een invloedsfactor kostenverhaal is aangegeven, worden de kosten voor dat product of die activiteit of dat onderdeel verlaagd of verhoogd met het percentage, bedoeld in bijlage XXXIV, tabel 4, en bijlage XXXIVa, tabel 4.
 
-3. Als in de bijlage wordt aangegeven dat meerdere invloedsfactoren van toepassing zijn op een product, een activiteit of een onderdeel daarvan, worden de kosten voor dat product, die activiteit of dat onderdeel verlaagd of verhoogd met de som van de percentages, bedoeld in [bijlage XXXIV, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), en [bijlage XXXIVa, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01).
+3. Als in de bijlage wordt aangegeven dat meerdere invloedsfactoren van toepassing zijn op een product, een activiteit of een onderdeel daarvan, worden de kosten voor dat product, die activiteit of dat onderdeel verlaagd of verhoogd met de som van de percentages, bedoeld in [bijlage XXXIV, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), en [bijlage XXXIVa, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 13.3. (afbakening plankosten)
 
 Voor de toepassing van dit hoofdstuk wordt onder plankosten ook verstaan de kosten die voorafgaand aan het vaststellen van het omgevingsplan of het projectbesluit of het verlenen van de omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit zijn gemaakt binnen de voorafgaande periode van:
 
-- a. twee jaar, als de som van de percentages, bedoeld in [bijlage XXXIV, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), en [bijlage XXXIVa, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01), gelijk is aan of kleiner is dan 30%;
+- a. twee jaar, als de som van de percentages, bedoeld in [bijlage XXXIV, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), en [bijlage XXXIVa, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18), gelijk is aan of kleiner is dan 30%;
 
-- b. drie jaar, als de som van de percentages, bedoeld in [bijlage XXXIV, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), en [bijlage XXXIVa, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01), ligt tussen de 30% en 50%; of
+- b. drie jaar, als de som van de percentages, bedoeld in [bijlage XXXIV, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), en [bijlage XXXIVa, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18), ligt tussen de 30% en 50%; of
 
-- c. vier jaar, als de som van de percentages, bedoeld in [bijlage XXXIV, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), en [bijlage XXXIVa, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01), gelijk is aan of groter is dan 50%.
+- c. vier jaar, als de som van de percentages, bedoeld in [bijlage XXXIV, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), en [bijlage XXXIVa, tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18), gelijk is aan of groter is dan 50%.
 
 ##### Artikel 13.4. (evenredige toedeling kosten bij groter gebied)
 
-Voor de toepassing van [artikel 13.14, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.14) worden de plankosten, voor zover het gaat om kosten voor de producten en activiteiten als bedoeld in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), tabel 1, onder 1.1a en 1.1b, en [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01), tabel 1, onder 1.1 en 1.1a, aan een kostenverhaalsgebied toegerekend naar evenredigheid van de oppervlakte van het kostenverhaalsgebied ten opzichte van het gehele gebied waarop die kosten betrekking hebben.
+Voor de toepassing van [artikel 13.14, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.14) worden de plankosten, voor zover het gaat om kosten voor de producten en activiteiten als bedoeld in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), tabel 1, onder 1.1a en 1.1b, en [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18), tabel 1, onder 1.1 en 1.1a, aan een kostenverhaalsgebied toegerekend naar evenredigheid van de oppervlakte van het kostenverhaalsgebied ten opzichte van het gehele gebied waarop die kosten betrekking hebben.
 
 ##### Artikel 13.5. (plankosten kleine bouwactiviteiten)
 
-1. In afwijking van de [artikelen 13.2 tot en met 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=13&artikel=13.2&z=2026-07-01&g=2026-07-01) bedraagt het bedrag aan plankosten dat ten hoogste kan worden verhaald, met uitzondering van de plankosten van de producten en activiteiten genoemd in de in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), tabel 1, onder 2.3a tot en met 2.3d, en in [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01), tabel 1, onder 2.3a tot en met 2.3d:
+1. In afwijking van de [artikelen 13.2 tot en met 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=13&artikel=13.2&z=2026-08-18&g=2026-08-18) bedraagt het bedrag aan plankosten dat ten hoogste kan worden verhaald, met uitzondering van de plankosten van de producten en activiteiten genoemd in de in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), tabel 1, onder 2.3a tot en met 2.3d, en in [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18), tabel 1, onder 2.3a tot en met 2.3d:
 
 - a. € 8.220 bij het bouwen van kassen met een bruto-vloeroppervlakte van niet meer dan 3.000 m2;
 
@@ -9675,11 +9675,11 @@ Voor de toepassing van [artikel 13.14, eerste lid, onder b, van de wet](https://
 
 2. Bij het bedrag, bedoeld in het eerste lid, worden opgeteld de kosten van de producten en activiteiten:
 
-- a. voor kostenverhaalsgebieden waarvoor geen tijdvak als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) is vastgesteld: in [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01), tabel 1, onder 2.3a tot en met 2.3d; en
+- a. voor kostenverhaalsgebieden waarvoor geen tijdvak als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) is vastgesteld: in [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18), tabel 1, onder 2.3a tot en met 2.3d; en
 
-- b. voor kostenverhaalsgebieden waarvoor wel een tijdvak als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) is vastgesteld: in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), tabel 1, onder 2.3a tot en met 2.3d.
+- b. voor kostenverhaalsgebieden waarvoor wel een tijdvak als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) is vastgesteld: in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), tabel 1, onder 2.3a tot en met 2.3d.
 
-3. Op de berekening van de kosten voor producten en activiteiten, bedoeld in het tweede lid, is [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=13&artikel=13.2&z=2026-07-01&g=2026-07-01) is van overeenkomstige toepassing.
+3. Op de berekening van de kosten voor producten en activiteiten, bedoeld in het tweede lid, is [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=13&artikel=13.2&z=2026-08-18&g=2026-08-18) is van overeenkomstige toepassing.
 
 ##### Artikel 13.6. (moment van opname plankosten)
 
@@ -9699,15 +9699,15 @@ Bij de eindafrekening, bedoeld in [artikel 13.14, eerste lid, onder e, onder 2°
 
 2. De vermindering bedraagt ten hoogste:
 
-- a. 60% van de ten hoogste te verhalen kosten voor producten en activiteiten als bedoeld in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), tabel 1, onder 1.1a en 1.1b;
+- a. 60% van de ten hoogste te verhalen kosten voor producten en activiteiten als bedoeld in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), tabel 1, onder 1.1a en 1.1b;
 
-- b. 80% van de ten hoogste te verhalen kosten voor producten en activiteiten als bedoeld in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), tabel 1, onder 2.3a tot en met 2.3d; en
+- b. 80% van de ten hoogste te verhalen kosten voor producten en activiteiten als bedoeld in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), tabel 1, onder 2.3a tot en met 2.3d; en
 
-- c. 90% van de ten hoogste te verhalen kosten voor de overige producten en activiteiten, bedoeld in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01).
+- c. 90% van de ten hoogste te verhalen kosten voor de overige producten en activiteiten, bedoeld in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 13.9. (indexatie)
 
-1. Alle tarieven en vaste kosten in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-07-01&g=2026-07-01), tabellen 1, 3 en 6, en [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-07-01&g=2026-07-01), tabellen 1, 3 en 6, en de bedragen, genoemd in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=13&artikel=13.5&z=2026-07-01&g=2026-07-01), worden periodiek geïndexeerd op basis van de dan geldende salarisschalen van de Cao Gemeenten en tegelijk met of zo spoedig mogelijk na de wijziging van die salarisschalen.
+1. Alle tarieven en vaste kosten in [bijlage XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIV&z=2026-08-18&g=2026-08-18), tabellen 1, 3 en 6, en [bijlage XXXIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIVa&z=2026-08-18&g=2026-08-18), tabellen 1, 3 en 6, en de bedragen, genoemd in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=13&artikel=13.5&z=2026-08-18&g=2026-08-18), worden periodiek geïndexeerd op basis van de dan geldende salarisschalen van de Cao Gemeenten en tegelijk met of zo spoedig mogelijk na de wijziging van die salarisschalen.
 
 2. De Minister van Volkshuisvesting en Ruimtelijke Ordening maakt de geïndexeerde tarieven bekend in de Staatscourant.
 
@@ -9745,7 +9745,7 @@ Deze afdeling is van toepassing op het heffen van rechten bij:
 
 - c. gegevens en bescheiden als bedoeld in de [artikelen 4.1117](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1117), [6.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.47a) en [7.69 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.69).
 
-5. Als ter uitvoering van een door de Minister voor Natuur en Stikstof op grond van [artikel 18.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.16a) of [18.16b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.16b) genomen besluit een omgevingsvergunning of document benodigd is, kan hij in afwijking van de [artikelen 14.41](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41&z=2026-07-01&g=2026-07-01), [14.41a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41a&z=2026-07-01&g=2026-07-01), [14.41b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41b&z=2026-07-01&g=2026-07-01), [14.41c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41c&z=2026-07-01&g=2026-07-01), [14.41d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41d&z=2026-07-01&g=2026-07-01), [14.41e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41e&z=2026-07-01&g=2026-07-01), [14.41f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41f&z=2026-07-01&g=2026-07-01), [14.42](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.42&z=2026-07-01&g=2026-07-01), [14.43](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.43&z=2026-07-01&g=2026-07-01), [14.43a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.43a&z=2026-07-01&g=2026-07-01), [14.44](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.44&z=2026-07-01&g=2026-07-01), [14.44a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.44a&z=2026-07-01&g=2026-07-01), 14.44b en [14.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.45&z=2026-07-01&g=2026-07-01), van deze regeling bepalen dat geen rechten worden geheven.
+5. Als ter uitvoering van een door de Minister voor Natuur en Stikstof op grond van [artikel 18.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.16a) of [18.16b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.16b) genomen besluit een omgevingsvergunning of document benodigd is, kan hij in afwijking van de [artikelen 14.41](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41&z=2026-08-18&g=2026-08-18), [14.41a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41a&z=2026-08-18&g=2026-08-18), [14.41b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41b&z=2026-08-18&g=2026-08-18), [14.41c](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41c&z=2026-08-18&g=2026-08-18), [14.41d](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41d&z=2026-08-18&g=2026-08-18), [14.41e](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41e&z=2026-08-18&g=2026-08-18), [14.41f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41f&z=2026-08-18&g=2026-08-18), [14.42](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.42&z=2026-08-18&g=2026-08-18), [14.43](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.43&z=2026-08-18&g=2026-08-18), [14.43a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.43a&z=2026-08-18&g=2026-08-18), [14.44](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.44&z=2026-08-18&g=2026-08-18), [14.44a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.44a&z=2026-08-18&g=2026-08-18), 14.44b en [14.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.45&z=2026-08-18&g=2026-08-18), van deze regeling bepalen dat geen rechten worden geheven.
 
 6. De Minister van Binnenlandse Zaken en Koninkrijksrelaties heft naast de besluiten, bedoeld in het eerste lid, rechten voor het in behandeling nemen van een aanvraag tot aanwijzing als certificatie-instelling als bedoeld in [artikel 3.74, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.74).
 
@@ -9753,7 +9753,7 @@ Deze afdeling is van toepassing op het heffen van rechten bij:
 
 1. Als de voorgenomen beslissing op een aanvraag instemming behoeft van een minister op grond van [artikel 16.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.16), heft die minister voor het in behandeling nemen van de aanvraag om het besluit over instemming van het bevoegd gezag rechten.
 
-2. De rechten worden geheven met overeenkomstige toepassing van de bepalingen in dit hoofdstuk over het heffen van rechten voor het in behandeling nemen van de aanvraag waarop de instemming betrekking heeft, met uitzondering van de [artikelen 14.4 tot en met 14.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.4&z=2026-07-01&g=2026-07-01).
+2. De rechten worden geheven met overeenkomstige toepassing van de bepalingen in dit hoofdstuk over het heffen van rechten voor het in behandeling nemen van de aanvraag waarop de instemming betrekking heeft, met uitzondering van de [artikelen 14.4 tot en met 14.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.4&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 14.3. (bepalen tarief)
 
@@ -9803,9 +9803,9 @@ Deze afdeling is van toepassing op het heffen van rechten bij:
 
 ##### Artikel 14.6. (terugbetaling of wijziging)
 
-1. Bij de beslissing op een aanvraag om een besluit waarvoor een uurtarief is opgenomen worden teveel betaalde kosten terugbetaald. De terugbetaling wordt berekend door het bedoelde uurtarief te vermenigvuldigen met het aantal werkelijk bestede uren, verminderd met het al betaalde tarief, bedoeld in [artikel 14.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.5&z=2026-07-01&g=2026-07-01). Het teveel betaalde wordt binnen zes weken na de beslissing op de aanvraag terugbetaald.
+1. Bij de beslissing op een aanvraag om een besluit waarvoor een uurtarief is opgenomen worden teveel betaalde kosten terugbetaald. De terugbetaling wordt berekend door het bedoelde uurtarief te vermenigvuldigen met het aantal werkelijk bestede uren, verminderd met het al betaalde tarief, bedoeld in [artikel 14.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.5&z=2026-08-18&g=2026-08-18). Het teveel betaalde wordt binnen zes weken na de beslissing op de aanvraag terugbetaald.
 
-2. Als bij een aanvraag om een besluit een van de gevallen, bedoeld in [artikel 14.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.4&z=2026-07-01&g=2026-07-01), van toepassing is, en:
+2. Als bij een aanvraag om een besluit een van de gevallen, bedoeld in [artikel 14.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.4&z=2026-08-18&g=2026-08-18), van toepassing is, en:
 
 - a. de aanvrager het verschuldigde recht niet heeft betaald, wordt de beschikking tot het heffen van het recht ambtshalve daaraan aangepast; of
 
@@ -9835,7 +9835,7 @@ Deze afdeling is van toepassing op het heffen van rechten bij:
 
 ##### Artikel 14.8. (bouwactiviteit: modaliteiten)
 
-Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.2&artikel=14.7&z=2026-07-01&g=2026-07-01), verhoogd met € 1.600.
+Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.2&artikel=14.7&z=2026-08-18&g=2026-08-18), verhoogd met € 1.600.
 
 ##### Artikel 14.9. (bouwactiviteit: tarief maatwerkvoorschrift)
 
@@ -9865,7 +9865,7 @@ Als een aanvraag betrekking heeft op het verlengen van de in een omgevingsvergun
 
 ##### Artikel 14.12. (omgevingsplanactiviteit: modaliteiten)
 
-Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.3&artikel=14.11&z=2026-07-01&g=2026-07-01), verhoogd met € 1.600.
+Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.3&artikel=14.11&z=2026-08-18&g=2026-08-18), verhoogd met € 1.600.
 
 #### § 14.1.4. Milieubelastende activiteiten en lozingsactiviteiten
 
@@ -9877,17 +9877,17 @@ Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://w
 
 ##### Artikel 14.14. (lozingsactiviteit: modaliteiten)
 
-1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-07-01&g=2026-07-01), verhoogd met € 8.422.
+1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-08-18&g=2026-08-18), verhoogd met € 8.422.
 
-2. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-07-01&g=2026-07-01), verhoogd met € 8.974.
+2. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-08-18&g=2026-08-18), verhoogd met € 8.974.
 
 3. Als een aanvraag als bedoeld in artikel 14.13 wordt ingediend:
 
-- a. waarop [afdeling 3.3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&afdeling=3.3) van toepassing is, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-07-01&g=2026-07-01), verhoogd met € 3.786; of
+- a. waarop [afdeling 3.3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&afdeling=3.3) van toepassing is, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-08-18&g=2026-08-18), verhoogd met € 3.786; of
 
-- b. voor een lozingsactiviteit vanuit een ippc-installatie waarop [afdeling 3.3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&afdeling=3.3) niet van toepassing is, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-07-01&g=2026-07-01), verhoogd met € 2.243.
+- b. voor een lozingsactiviteit vanuit een ippc-installatie waarop [afdeling 3.3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&afdeling=3.3) niet van toepassing is, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-08-18&g=2026-08-18), verhoogd met € 2.243.
 
-4. Als bij een aanvraag om een omgevingsvergunning voor een hogedrempelinrichting een veiligheidsrapport als bedoeld in [artikel 4.14 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.14) is ingediend, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-07-01&g=2026-07-01), verhoogd met € 3.365.
+4. Als bij een aanvraag om een omgevingsvergunning voor een hogedrempelinrichting een veiligheidsrapport als bedoeld in [artikel 4.14 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.14) is ingediend, wordt het tarief, bedoeld in [artikel 14.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-08-18&g=2026-08-18), verhoogd met € 3.365.
 
 ##### Artikel 14.15. (lozingsactiviteit: tarief maatwerkvoorschrift)
 
@@ -9901,15 +9901,15 @@ Als een aanvraag om een maatwerkvoorschrift betrekking heeft op een lozingsactiv
 
 ##### Artikel 14.17. (milieubelastende activiteit voor mijnbouw: modaliteiten)
 
-1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit moet worden beoordeeld of het besluit aanzienlijke milieueffecten kan hebben, wordt het tarief, bedoeld in [artikel 14.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-07-01&g=2026-07-01), verhoogd met € 2.750.
+1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit moet worden beoordeeld of het besluit aanzienlijke milieueffecten kan hebben, wordt het tarief, bedoeld in [artikel 14.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-08-18&g=2026-08-18), verhoogd met € 2.750.
 
-2. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-07-01&g=2026-07-01), verhoogd met € 5.250.
+2. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-08-18&g=2026-08-18), verhoogd met € 5.250.
 
-3. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-07-01&g=2026-07-01), verhoogd met € 2.750.
+3. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-08-18&g=2026-08-18), verhoogd met € 2.750.
 
-4. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-07-01&g=2026-07-01), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
+4. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-08-18&g=2026-08-18), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
 
-5. Als een aanvraag om wijziging van de omgevingsvergunning wordt gedaan en de wijziging geen significante nadelige gevolgen heeft voor de gezondheid of het milieu als bedoeld in [artikel 10.24, vierde lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24), wordt het tarief, bedoeld in [artikel 14.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-07-01&g=2026-07-01), verminderd met € 2.080.
+5. Als een aanvraag om wijziging van de omgevingsvergunning wordt gedaan en de wijziging geen significante nadelige gevolgen heeft voor de gezondheid of het milieu als bedoeld in [artikel 10.24, vierde lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24), wordt het tarief, bedoeld in [artikel 14.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-08-18&g=2026-08-18), verminderd met € 2.080.
 
 ##### Artikel 14.18. (milieubelastende activiteit voor mijnbouw: tarief maatwerkvoorschrift)
 
@@ -9945,35 +9945,35 @@ Als een aanvraag om een omgevingsvergunning betrekking heeft op het gebruik van 
 
 ##### Artikel 14.23. (overige milieubelastende activiteit: tarief omgevingsvergunning)
 
-Als een aanvraag om een omgevingsvergunning betrekking heeft op een milieubelastende activiteit als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), anders dan bedoeld in de [artikelen 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-07-01&g=2026-07-01), [14.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-07-01&g=2026-07-01) en [14.19 tot en met 14.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.19&z=2026-07-01&g=2026-07-01), bedraagt het uurtarief € 125.
+Als een aanvraag om een omgevingsvergunning betrekking heeft op een milieubelastende activiteit als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), anders dan bedoeld in de [artikelen 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.13&z=2026-08-18&g=2026-08-18), [14.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.16&z=2026-08-18&g=2026-08-18) en [14.19 tot en met 14.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.19&z=2026-08-18&g=2026-08-18), bedraagt het uurtarief € 125.
 
 ##### Artikel 14.24. (milieubelastende activiteit: tarief wijziging omgevingsvergunning)
 
-Voor het in behandeling nemen van een aanvraag om wijziging van een omgevingsvergunning als bedoeld in de [artikelen 14.19 tot en met 14.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.19&z=2026-07-01&g=2026-07-01) die betrekking heeft op:
+Voor het in behandeling nemen van een aanvraag om wijziging van een omgevingsvergunning als bedoeld in de [artikelen 14.19 tot en met 14.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.19&z=2026-08-18&g=2026-08-18) die betrekking heeft op:
 
 - a. één milieubelastende activiteit als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief € 2.500;
 
-- b. twee tot vijf milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-07-01&g=2026-07-01) € 4.375;
+- b. twee tot vijf milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-08-18&g=2026-08-18) € 4.375;
 
-- c. vijf tot tien milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-07-01&g=2026-07-01) € 8.125;
+- c. vijf tot tien milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-08-18&g=2026-08-18) € 8.125;
 
-- d. tien tot vijftien milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-07-01&g=2026-07-01) € 11.250; of
+- d. tien tot vijftien milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-08-18&g=2026-08-18) € 11.250; of
 
-- e. vijftien of meer milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-07-01&g=2026-07-01) € 15.000.
+- e. vijftien of meer milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-08-18&g=2026-08-18) € 15.000.
 
 ##### Artikel 14.25. (milieubelastende activiteit: tarief maatwerkvoorschrift)
 
-1. Voor een aanvraag om een maatwerkvoorschrift als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), anders dan bedoeld in de [artikelen 14.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.15&z=2026-07-01&g=2026-07-01) en [14.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.18&z=2026-07-01&g=2026-07-01), die betrekking heeft op:
+1. Voor een aanvraag om een maatwerkvoorschrift als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), anders dan bedoeld in de [artikelen 14.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.15&z=2026-08-18&g=2026-08-18) en [14.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.4&artikel=14.18&z=2026-08-18&g=2026-08-18), die betrekking heeft op:
 
 - a. één milieubelastende activiteit als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief € 2.500;
 
-- b. twee tot vijf milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-07-01&g=2026-07-01) € 4.375;
+- b. twee tot vijf milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-08-18&g=2026-08-18) € 4.375;
 
-- c. vijf tot tien milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-07-01&g=2026-07-01) € 8.125;
+- c. vijf tot tien milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-08-18&g=2026-08-18) € 8.125;
 
-- d. tien tot vijftien milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-07-01&g=2026-07-01) € 11.250; of
+- d. tien tot vijftien milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-08-18&g=2026-08-18) € 11.250; of
 
-- e. vijftien of meer milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-07-01&g=2026-07-01) € 15.000.
+- e. vijftien of meer milieubelastende activiteiten als bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3), bedraagt het tarief, in afwijking van [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.1&artikel=14.3&z=2026-08-18&g=2026-08-18) € 15.000.
 
 2. Het eerste lid is van overeenkomstige toepassing op een aanvraag om wijziging van het maatwerkvoorschrift.
 
@@ -9989,9 +9989,9 @@ Voor het in behandeling nemen van een aanvraag om wijziging van een omgevingsver
 
 ##### Artikel 14.27. (activiteit in of bij waterstaatswerken in beheer bij het Rijk: modaliteiten)
 
-1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.26&z=2026-07-01&g=2026-07-01), verhoogd met € 8.422.
+1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.26&z=2026-08-18&g=2026-08-18), verhoogd met € 8.422.
 
-2. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.26&z=2026-07-01&g=2026-07-01), verhoogd met € 8.974.
+2. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.26&z=2026-08-18&g=2026-08-18), verhoogd met € 8.974.
 
 ##### Artikel 14.28. (activiteit in of bij waterstaatswerken in beheer bij het Rijk: tarief maatwerkvoorschrift)
 
@@ -10005,15 +10005,15 @@ Als een aanvraag om een maatwerkvoorschrift betrekking heeft op een beperkingeng
 
 ##### Artikel 14.28b. (mijnbouwlocatieactiviteit: modaliteiten)
 
-1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit moet worden beoordeeld of het besluit aanzienlijke milieueffecten kan hebben, wordt het tarief, bedoeld in [artikel 14.28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-07-01&g=2026-07-01), verhoogd met € 2.750.
+1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit moet worden beoordeeld of het besluit aanzienlijke milieueffecten kan hebben, wordt het tarief, bedoeld in [artikel 14.28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-08-18&g=2026-08-18), verhoogd met € 2.750.
 
-2. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-07-01&g=2026-07-01), verhoogd met € 5.250.
+2. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-08-18&g=2026-08-18), verhoogd met € 5.250.
 
-3. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-07-01&g=2026-07-01), verhoogd met € 2.750.
+3. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-08-18&g=2026-08-18), verhoogd met € 2.750.
 
-4. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-07-01&g=2026-07-01), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
+4. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-08-18&g=2026-08-18), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
 
-5. Als een aanvraag om wijziging van de omgevingsvergunning wordt gedaan en de wijziging geen significante nadelige gevolgen heeft voor de gezondheid of het milieu als bedoeld in [artikel 10.24, vierde lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24), wordt het tarief, bedoeld in [artikel 14.28a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-07-01&g=2026-07-01), verminderd met € 2.080.
+5. Als een aanvraag om wijziging van de omgevingsvergunning wordt gedaan en de wijziging geen significante nadelige gevolgen heeft voor de gezondheid of het milieu als bedoeld in [artikel 10.24, vierde lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24), wordt het tarief, bedoeld in [artikel 14.28a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28a&z=2026-08-18&g=2026-08-18), verminderd met € 2.080.
 
 ##### Artikel 14.28c. (mijnbouwlocatieactiviteit: tarief maatwerkvoorschrift)
 
@@ -10035,9 +10035,9 @@ Als voor het gebruiken van een locatie in een oppervlaktewaterlichaam in beheer 
 
 ##### Artikel 14.28g. (beperkingengebiedactiviteit mijnbouwinstallatie waterstaatswerk: modaliteiten)
 
-1. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.28f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28f&z=2026-07-01&g=2026-07-01), verhoogd met € 2.750.
+1. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.28f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28f&z=2026-08-18&g=2026-08-18), verhoogd met € 2.750.
 
-2. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.28f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28f&z=2026-07-01&g=2026-07-01), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
+2. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.28f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.5&artikel=14.28f&z=2026-08-18&g=2026-08-18), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
 
 ##### Artikel 14.28h. (beperkingengebiedactiviteit mijnbouwinstallatie waterstaatswerk: tarief maatwerkvoorschrift)
 
@@ -10057,9 +10057,9 @@ Als een aanvraag om toestemming om een gelijkwaardige maatregel te treffen betre
 
 ##### Artikel 14.30. (activiteit in de Noordzee: modaliteiten)
 
-1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.29&z=2026-07-01&g=2026-07-01), verhoogd met € 8.422.
+1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.29&z=2026-08-18&g=2026-08-18), verhoogd met € 8.422.
 
-2. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.29&z=2026-07-01&g=2026-07-01), verhoogd met € 8.974.
+2. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.29&z=2026-08-18&g=2026-08-18), verhoogd met € 8.974.
 
 ##### Artikel 14.31. (activiteit in de Noordzee: tarief maatwerkvoorschrift)
 
@@ -10073,9 +10073,9 @@ Als een aanvraag om een maatwerkvoorschrift betrekking heeft op een beperkingeng
 
 ##### Artikel 14.31b. (beperkingengebiedactiviteit mijnbouwinstallatie Noordzee: modaliteiten)
 
-1. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31a&z=2026-07-01&g=2026-07-01), verhoogd met € 2.750.
+1. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31a&z=2026-08-18&g=2026-08-18), verhoogd met € 2.750.
 
-2. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31a&z=2026-07-01&g=2026-07-01), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
+2. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31a&z=2026-08-18&g=2026-08-18), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
 
 ##### Artikel 14.31c. (beperkingengebiedactiviteit mijnbouwinstallatie Noordzee: tarief maatwerkvoorschrift)
 
@@ -10093,9 +10093,9 @@ Als een aanvraag om toestemming om een gelijkwaardige maatregel te treffen betre
 
 ##### Artikel 14.31f. (mijnbouwlocatieactiviteit: modaliteiten)
 
-1. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.31e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31e&z=2026-07-01&g=2026-07-01), verhoogd met € 2.750.
+1. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.31e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31e&z=2026-08-18&g=2026-08-18), verhoogd met € 2.750.
 
-2. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.31e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31e&z=2026-07-01&g=2026-07-01), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
+2. Als kennisgeving van het ontwerp of van het besluit op de in [artikel 12 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12) bepaalde wijze geschiedt, wordt het tarief, bedoeld in [artikel 14.31e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.6&artikel=14.31e&z=2026-08-18&g=2026-08-18), verhoogd met € 520 per publicatie en, voor zover aanvullend daaraan kennisgeving in een landelijk dagblad of in andere media geschiedt, met de daarvoor in rekening gebrachte kosten.
 
 ##### Artikel 14.31g. (mijnbouwlocatieactiviteit: tarief maatwerkvoorschrift)
 
@@ -10119,9 +10119,9 @@ Als voor het gebruiken van een locatie in de Noordzee voor een mijnbouwinstallat
 
 ##### Artikel 14.33. (activiteit rond rijkswegen: modaliteiten)
 
-1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.7&artikel=14.32&z=2026-07-01&g=2026-07-01), verhoogd met € 8.422.
+1. Als op grond van [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43) bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt, wordt het tarief, bedoeld in [artikel 14.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.7&artikel=14.32&z=2026-08-18&g=2026-08-18), verhoogd met € 8.422.
 
-2. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.7&artikel=14.32&z=2026-07-01&g=2026-07-01), verhoogd met € 8.974.
+2. Als op grond van [artikel 10.24, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.24)[afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is op de voorbereiding van het besluit, wordt het tarief, bedoeld in [artikel 14.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.7&artikel=14.32&z=2026-08-18&g=2026-08-18), verhoogd met € 8.974.
 
 ##### Artikel 14.34. (activiteit rond rijkswegen: tarief maatwerkvoorschrift)
 
@@ -10283,9 +10283,9 @@ Als een aanvraag om een omgevingsvergunning betrekking heeft op het uitzetten va
 
 - a. als de wijziging geen nieuwe ecologische beoordeling vergt: € 0; en
 
-- b. als de wijziging een nieuwe ecologische beoordeling vergt: 25% van het tarief dat bij de activiteiten, bedoeld in [artikelen 14.41](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41&z=2026-07-01&g=2026-07-01) en [14.41a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41a&z=2026-07-01&g=2026-07-01), hoort.
+- b. als de wijziging een nieuwe ecologische beoordeling vergt: 25% van het tarief dat bij de activiteiten, bedoeld in [artikelen 14.41](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41&z=2026-08-18&g=2026-08-18) en [14.41a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41a&z=2026-08-18&g=2026-08-18), hoort.
 
-2. Als onderzoek als bedoeld in [artikel 48a van de Regeling wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&artikel=48a), deel uitmaakt van de aanvraag voor een omgevingsvergunning voor een jachtgeweeractiviteit wordt het tarief, bedoeld in [artikel 14.14f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41f&z=2026-07-01&g=2026-07-01), verhoogd met € 55.
+2. Als onderzoek als bedoeld in [artikel 48a van de Regeling wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&artikel=48a), deel uitmaakt van de aanvraag voor een omgevingsvergunning voor een jachtgeweeractiviteit wordt het tarief, bedoeld in [artikel 14.14f](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=14&afdeling=14.1&paragraaf=14.1.10&artikel=14.41f&z=2026-08-18&g=2026-08-18), verhoogd met € 55.
 
 ##### Artikel 14.43. (flora- en fauna-activiteiten: tarief maatwerkvoorschrift)
 
@@ -10335,9 +10335,9 @@ Voor de behandeling van een aanvraag om een document als bedoeld in de artikelen
 
 ##### Artikel 14.45. (tarief ringen, merken of merktekens)
 
-1. Voor de behandeling van een aanvraag om merktekens voor een geprepareerde vogel als bedoeld in [artikel 7.219, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.5&paragraaf=7.5.3&artikel=7.219&z=2026-07-01&g=2026-07-01), bedraagt het tarief: € 1 per merkteken.
+1. Voor de behandeling van een aanvraag om merktekens voor een geprepareerde vogel als bedoeld in [artikel 7.219, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.5&paragraaf=7.5.3&artikel=7.219&z=2026-08-18&g=2026-08-18), bedraagt het tarief: € 1 per merkteken.
 
-2. De aan erkende organisaties, als bedoeld in [artikel 4.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.34&z=2026-07-01&g=2026-07-01), door de leverancier in rekening gebrachte kostprijs voor de vervaardiging van gesloten pootringen wordt aan de aanvrager doorberekend.
+2. De aan erkende organisaties, als bedoeld in [artikel 4.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.1&artikel=4.34&z=2026-08-18&g=2026-08-18), door de leverancier in rekening gebrachte kostprijs voor de vervaardiging van gesloten pootringen wordt aan de aanvrager doorberekend.
 
 3. De erkende organisaties kunnen de in het tweede lid bedoelde kostprijs verhogen met een bedrag ter dekking van de kosten voor de uitreiking van ringen ter hoogte van maximaal € 1 per ring.
 
@@ -10439,11 +10439,11 @@ Deze afdeling is van toepassing op het vaststellen van de alarmeringswaarden, be
 
 - b. 100 μg/m3 als daggemiddelde concentratie.
 
-5. De alarmeringswaarden, bedoeld in het eerste, tweede en vierde lid, gelden in gebieden van ten minste 100 km2 of in een volledige agglomeratie of zone als bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01) respectievelijk [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-07-01&g=2026-07-01).
+5. De alarmeringswaarden, bedoeld in het eerste, tweede en vierde lid, gelden in gebieden van ten minste 100 km2 of in een volledige agglomeratie of zone als bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18) respectievelijk [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 15.3. (alarmeringswaarden hoogwaterstanden)
 
-De alarmeringswaarden voor hoogwaterstanden die een gevaar voor primaire waterkeringen kunnen opleveren, bedoeld in [artikel 19.10, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.11), zijn vastgesteld in [bijlage XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXV&z=2026-07-01&g=2026-07-01).
+De alarmeringswaarden voor hoogwaterstanden die een gevaar voor primaire waterkeringen kunnen opleveren, bedoeld in [artikel 19.10, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.11), zijn vastgesteld in [bijlage XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXV&z=2026-08-18&g=2026-08-18).
 
 #### § 15.3.3. Informatie en waarschuwing bij overschrijding of dreigende overschrijding van alarmeringswaarden voor concentraties van verontreinigende stoffen in de buitenlucht
 
@@ -10453,29 +10453,29 @@ De alarmeringswaarden voor hoogwaterstanden die een gevaar voor primaire waterke
 
 - a. de concentratie van zwaveldioxide of stikstofdioxide lager is dan de omgevingswaarden, bedoeld in [artikel 2.3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.3), respectievelijk [artikel 2.4, eerste lid, onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.4);
 
-- b. de concentratie van ozon lager is dan de alarmeringswaarde, bedoeld in [artikel 15.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01); of
+- b. de concentratie van ozon lager is dan de alarmeringswaarde, bedoeld in [artikel 15.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18); of
 
-- c. de daggemiddelde concentratie van PM10 lager is dan de alarmeringswaarde, bedoeld in [artikel 15.2, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01).
+- c. de daggemiddelde concentratie van PM10 lager is dan de alarmeringswaarde, bedoeld in [artikel 15.2, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18).
 
 2. Van matige smog is sprake wanneer:
 
-- a. de concentratie van zwaveldioxide of stikstofdioxide hoger is dan de omgevingswaarden, bedoeld in [artikel 2.3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.3), respectievelijk [artikel 2.4, eerste lid, onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.4), maar lager is dan de alarmeringswaarden, bedoeld in [artikel 15.2, eerste lid, respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01);
+- a. de concentratie van zwaveldioxide of stikstofdioxide hoger is dan de omgevingswaarden, bedoeld in [artikel 2.3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.3), respectievelijk [artikel 2.4, eerste lid, onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.4), maar lager is dan de alarmeringswaarden, bedoeld in [artikel 15.2, eerste lid, respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18);
 
-- b. de concentratie van ozon hoger is dan de alarmeringswaarde, bedoeld in [artikel 15.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01), maar lager is dan de alarmeringswaarde, bedoeld in artikel 15.2, derde lid, onder b; of
+- b. de concentratie van ozon hoger is dan de alarmeringswaarde, bedoeld in [artikel 15.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18), maar lager is dan de alarmeringswaarde, bedoeld in artikel 15.2, derde lid, onder b; of
 
-- c. de daggemiddelde concentratie van PM10 zich bevindt tussen de alarmeringswaarde, bedoeld in [artikel 15.2, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01), en de alarmeringswaarde, bedoeld in artikel 15.2, vierde lid, onder b.
+- c. de daggemiddelde concentratie van PM10 zich bevindt tussen de alarmeringswaarde, bedoeld in [artikel 15.2, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18), en de alarmeringswaarde, bedoeld in artikel 15.2, vierde lid, onder b.
 
 3. Van ernstige smog is sprake wanneer:
 
-- a. de concentratie van zwaveldioxide of stikstofdioxide hoger is dan de alarmeringswaarden, bedoeld in [artikel 15.2, eerste lid, respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01);
+- a. de concentratie van zwaveldioxide of stikstofdioxide hoger is dan de alarmeringswaarden, bedoeld in [artikel 15.2, eerste lid, respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18);
 
-- b. de concentratie van ozon hoger is dan de alarmeringswaarde, bedoeld in [artikel 15.2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01); of
+- b. de concentratie van ozon hoger is dan de alarmeringswaarde, bedoeld in [artikel 15.2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18); of
 
-- c. de daggemiddelde concentratie van PM10 hoger is dan de alarmeringswaarde, bedoeld in [artikel 15.2, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01).
+- c. de daggemiddelde concentratie van PM10 hoger is dan de alarmeringswaarde, bedoeld in [artikel 15.2, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 15.5. (vaststellen niveau van verontreinigende stoffen in de buitenlucht)
 
-Het vaststellen of sprake is van geringe, matige of ernstige smog vindt plaats door het RIVM overeenkomstig [artikel 12.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.1&artikel=12.3&z=2026-07-01&g=2026-07-01).
+Het vaststellen of sprake is van geringe, matige of ernstige smog vindt plaats door het RIVM overeenkomstig [artikel 12.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.1&artikel=12.3&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 15.6. (basisinformatie)
 
@@ -10485,17 +10485,17 @@ Het vaststellen of sprake is van geringe, matige of ernstige smog vindt plaats d
 
 - a. een beschrijving van het ontstaan van concentraties van zwaveldioxide, stikstofdioxide, ozon en PM10 in de buitenlucht;
 
-- b. een weergave van de actuele concentraties van zwaveldioxide, stikstofdioxide, ozon en PM10 per agglomeratie en zone als bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01) respectievelijk [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-07-01&g=2026-07-01) en een toelichting daarop; en
+- b. een weergave van de actuele concentraties van zwaveldioxide, stikstofdioxide, ozon en PM10 per agglomeratie en zone als bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18) respectievelijk [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-08-18&g=2026-08-18) en een toelichting daarop; en
 
 - c. een aanduiding van de actuele concentraties van zwaveldioxide, stikstofdioxide, ozon en PM10 als geringe, matige of ernstige smog.
 
 ##### Artikel 15.7. (analyse luchtkwaliteit bij matige of ernstige smog)
 
-Als naar redelijke verwachting van het RIVM het risico bestaat op matige of ernstige smog en in perioden van matige of ernstige smog, analyseert het RIVM ieder uur de ontwikkeling van de kwaliteit van de buitenlucht op basis van de vaststelling van de concentraties, bedoeld in [artikel 12.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.1&artikel=12.3&z=2026-07-01&g=2026-07-01).
+Als naar redelijke verwachting van het RIVM het risico bestaat op matige of ernstige smog en in perioden van matige of ernstige smog, analyseert het RIVM ieder uur de ontwikkeling van de kwaliteit van de buitenlucht op basis van de vaststelling van de concentraties, bedoeld in [artikel 12.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=12&afdeling=12.2&paragraaf=12.2.1&sub-paragraaf=12.2.1.1&artikel=12.3&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 15.8. (matige of ernstige smog: informatie aan het publiek en bijzonder gevoelige bevolkingsgroepen)
 
-1. Bij matige of ernstige smog stelt het RIVM, in aanvulling op de in [artikel 15.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.6&z=2026-07-01&g=2026-07-01) genoemde basisinformatie, beschikbaar:
+1. Bij matige of ernstige smog stelt het RIVM, in aanvulling op de in [artikel 15.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.6&z=2026-08-18&g=2026-08-18) genoemde basisinformatie, beschikbaar:
 
 - a. een beschrijving van het ontstaan van smog en van de verontreinigende stoffen in de buitenlucht die matige of ernstige smog veroorzaken;
 
@@ -10509,11 +10509,11 @@ Als naar redelijke verwachting van het RIVM het risico bestaat op matige of erns
 
 ##### Artikel 15.9. (matige smog: informatie aan bestuursorganen en andere instanties)
 
-Als matige smog is vastgesteld in een of meer agglomeraties of zones als bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01) respectievelijk [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-07-01&g=2026-07-01) en de matige smog is veroorzaakt door verhoogde concentraties van zwaveldioxide of stikstofdioxide als bedoeld in [artikel 15.4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.4&z=2026-07-01&g=2026-07-01), stelt het RIVM gedeputeerde staten van de betreffende provincies, het ANP, de GGD en het Departementaal Coördinatiecentrum Crisisbeheersing van het Ministerie van Infrastructuur en Waterstaat in kennis van de actuele concentraties van zwaveldioxide en stikstofdioxide.
+Als matige smog is vastgesteld in een of meer agglomeraties of zones als bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18) respectievelijk [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-08-18&g=2026-08-18) en de matige smog is veroorzaakt door verhoogde concentraties van zwaveldioxide of stikstofdioxide als bedoeld in [artikel 15.4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.4&z=2026-08-18&g=2026-08-18), stelt het RIVM gedeputeerde staten van de betreffende provincies, het ANP, de GGD en het Departementaal Coördinatiecentrum Crisisbeheersing van het Ministerie van Infrastructuur en Waterstaat in kennis van de actuele concentraties van zwaveldioxide en stikstofdioxide.
 
 ##### Artikel 15.10. (ernstige smog: informatie en waarschuwing aan bestuursorganen en andere instanties)
 
-1. Als ernstige smog is vastgesteld in een of meer agglomeraties of zones als bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-07-01&g=2026-07-01) respectievelijk [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-07-01&g=2026-07-01), stelt het RIVM gedeputeerde staten van de betreffende provincies, het ANP, de GGD en het Departementaal Coördinatiecentrum Crisisbeheersing van het Ministerie van Infrastructuur en Waterstaat, onmiddellijk in kennis van:
+1. Als ernstige smog is vastgesteld in een of meer agglomeraties of zones als bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.38&z=2026-08-18&g=2026-08-18) respectievelijk [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=2&afdeling=2.4&artikel=2.39&z=2026-08-18&g=2026-08-18), stelt het RIVM gedeputeerde staten van de betreffende provincies, het ANP, de GGD en het Departementaal Coördinatiecentrum Crisisbeheersing van het Ministerie van Infrastructuur en Waterstaat, onmiddellijk in kennis van:
 
 - a. de actuele concentraties van zwaveldioxide, stikstofdioxide, ozon en PM10;
 
@@ -10541,17 +10541,17 @@ Als matige smog is vastgesteld in een of meer agglomeraties of zones als bedoeld
 
 ##### Artikel 15.11. (informatie bij dreigende overschrijding alarmeringswaarde ozon of PM10)
 
-[Artikel 15.10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.10&z=2026-07-01&g=2026-07-01), is van overeenkomstige toepassing wanneer naar redelijke verwachting van het RIVM het risico bestaat op overschrijding van de alarmeringswaarde voor ozon of PM10, bedoeld in [artikel 15.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-07-01&g=2026-07-01), respectievelijk artikel 15.2, vierde lid, onder a, of wanneer overschrijding van die alarmeringswaarde is vastgesteld.
+[Artikel 15.10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.10&z=2026-08-18&g=2026-08-18), is van overeenkomstige toepassing wanneer naar redelijke verwachting van het RIVM het risico bestaat op overschrijding van de alarmeringswaarde voor ozon of PM10, bedoeld in [artikel 15.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.2&z=2026-08-18&g=2026-08-18), respectievelijk artikel 15.2, vierde lid, onder a, of wanneer overschrijding van die alarmeringswaarde is vastgesteld.
 
 ##### Artikel 15.12. (vaststellen Smogdraaiboek)
 
-Gedeputeerde staten stellen voor de uitvoering van de [artikelen 15.10, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.10&z=2026-07-01&g=2026-07-01), en [15.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.11&z=2026-07-01&g=2026-07-01) een provinciaal draaiboek smog vast op basis van het Modeldraaiboek Smog.
+Gedeputeerde staten stellen voor de uitvoering van de [artikelen 15.10, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.10&z=2026-08-18&g=2026-08-18), en [15.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.3&artikel=15.11&z=2026-08-18&g=2026-08-18) een provinciaal draaiboek smog vast op basis van het Modeldraaiboek Smog.
 
 #### § 15.3.4. Informatie en waarschuwing bij overschrijding en dreigende overschrijding van alarmeringswaarden voor hoogwaterstanden
 
 ##### Artikel 15.13. (informatie en waarschuwing bij overschrijding alarmeringswaarden: hoogwaterstanden)
 
-Op het geven van informatie of waarschuwingen bij een overschrijding of dreigende overschrijding van de alarmeringswaarden voor hoogwaterstanden, bedoeld in [artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.3&z=2026-07-01&g=2026-07-01), is het Landelijk Draaiboek Hoogwater en Overstromingen van toepassing.
+Op het geven van informatie of waarschuwingen bij een overschrijding of dreigende overschrijding van de alarmeringswaarden voor hoogwaterstanden, bedoeld in [artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=15&afdeling=15.3&paragraaf=15.3.2&artikel=15.3&z=2026-08-18&g=2026-08-18), is het Landelijk Draaiboek Hoogwater en Overstromingen van toepassing.
 
 ### Hoofdstuk 16. Digitaal stelsel Omgevingswet
 
@@ -10597,13 +10597,13 @@ Omgevingsdocument zijn de besluiten en andere rechtsfiguren die zijn opgenomen i
 
 De systeembeschrijving, bedoeld in [artikel 20.29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.29), bestaat uit:
 
-- a. hoofdstuk 8 van de in [bijlage XXXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXVI&z=2026-07-01&g=2026-07-01) opgenomen Standaard toepasbare regels, versie 2.0, en de hoofdstukken 5 tot en met 9 van het daarbij behorende en in die bijlage opgenomen Informatiemodel toepasbare regels; en
+- a. hoofdstuk 8 van de in [bijlage XXXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXVI&z=2026-08-18&g=2026-08-18) opgenomen Standaard toepasbare regels, versie 2.0, en de hoofdstukken 5 tot en met 9 van het daarbij behorende en in die bijlage opgenomen Informatiemodel toepasbare regels; en
 
-- b. de hoofdstukken 3 en 4 van de in [bijlage XXXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXVII&z=2026-07-01&g=2026-07-01) opgenomen Standaard aanvragen en meldingen, versie 5.0.
+- b. de hoofdstukken 3 en 4 van de in [bijlage XXXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXVII&z=2026-08-18&g=2026-08-18) opgenomen Standaard aanvragen en meldingen, versie 5.0.
 
 ##### Artikel 16.6. (levering informatie voor formulier)
 
-Informatie voor het samenstellen van het via de landelijke voorziening te verstrekken formulier, bedoeld in [artikel 14.2, derde lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=14.2), wordt beschikbaar gesteld volgens het onderdeel van de systeembeschrijving, bedoeld in [artikel 16.5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=16&afdeling=16.3&artikel=16.5&z=2026-07-01&g=2026-07-01).
+Informatie voor het samenstellen van het via de landelijke voorziening te verstrekken formulier, bedoeld in [artikel 14.2, derde lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=14.2), wordt beschikbaar gesteld volgens het onderdeel van de systeembeschrijving, bedoeld in [artikel 16.5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=16&afdeling=16.3&artikel=16.5&z=2026-08-18&g=2026-08-18).
 
 ##### Artikel 16.7. (levering statusinformatie)
 
@@ -10611,7 +10611,7 @@ Een in [bijlage VIII bij het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 16.8. (facultatieve levering toepasbare regels)
 
-Als een bestuursorgaan voor ontsluiting via de landelijke voorziening informatie beschikbaar stelt die is bedoeld om een ieder in staat te stellen op eenvoudige wijze inzicht te verkrijgen in regels die gelden voor een bepaalde activiteit, gebeurt dit volgens het onderdeel van de systeembeschrijving, bedoeld in [artikel 16.5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=16&afdeling=16.3&artikel=16.5&z=2026-07-01&g=2026-07-01).
+Als een bestuursorgaan voor ontsluiting via de landelijke voorziening informatie beschikbaar stelt die is bedoeld om een ieder in staat te stellen op eenvoudige wijze inzicht te verkrijgen in regels die gelden voor een bepaalde activiteit, gebeurt dit volgens het onderdeel van de systeembeschrijving, bedoeld in [artikel 16.5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=16&afdeling=16.3&artikel=16.5&z=2026-08-18&g=2026-08-18).
 
 #### Afdeling 16.4. Verantwoordelijkheden bij verwerking persoonsgegevens in samenwerkfunctionaliteit
 
@@ -10663,7 +10663,7 @@ Het bestuursorgaan dat het initiatief heeft genomen tot het uitwisselen van gege
 
 ##### Artikel 17.1a. (overgangsrecht aanvraagvereisten omgevingsplanactiviteit)
 
-[Artikel 7.207b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.12&artikel=7.207b&z=2026-07-01&g=2026-07-01), is van overeenkomstige toepassing op een aanvraag om een omgevingsvergunning voor een omgevingsplanactiviteit die is vereist op grond van:
+[Artikel 7.207b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.12&artikel=7.207b&z=2026-08-18&g=2026-08-18), is van overeenkomstige toepassing op een aanvraag om een omgevingsvergunning voor een omgevingsplanactiviteit die is vereist op grond van:
 
 - a. een gemeentelijke verordening in samenhang met [artikel 22.8 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.8); of
 
@@ -10675,13 +10675,13 @@ De lijst met vanwege het geluid te saneren gebouwen, bedoeld in [artikel 15.2 va
 
 ##### Artikel 17.3. (overgangsrecht: rekenformule luchtvaartgeluid bij berekenen gecumuleerd geluid)
 
-Tot het tijdstip, bedoeld in [artikel 3.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-07-01&g=2026-07-01), wordt het geluid door luchtvaart omgerekend naar het geluid door wegen dat evenveel hinder veroorzaakt, volgens de formule:
+Tot het tijdstip, bedoeld in [artikel 3.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.5&artikel=3.25&z=2026-08-18&g=2026-08-18), wordt het geluid door luchtvaart omgerekend naar het geluid door wegen dat evenveel hinder veroorzaakt, volgens de formule:
 
 ##### Artikel 17.4. (algemeen overgangsrecht bouwactiviteiten)
 
-1. Op een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.2, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.2), een aanvraag om toestemming tot het treffen van een gelijkwaardige maatregel voor een activiteit geregeld in het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) of een aanvraag om een besluit tot het stellen van maatwerkvoorschriften voor een activiteit geregeld in het Besluit bouwwerken leefomgeving, ingediend voor het tijdstip waarop een wijziging van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&z=2026-07-01&g=2026-07-01) of [paragraaf 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&z=2026-07-01&g=2026-07-01), inclusief de daar genoemde bijlagen, in werking treedt, of op bezwaar of beroep, ingesteld tegen een beslissing op een dergelijke aanvraag, blijven de regels in hoofdstuk 5 of paragraaf 7.2.2 van toepassing zoals die golden op het tijdstip waarop de aanvraag is ingediend.
+1. Op een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.2, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.2), een aanvraag om toestemming tot het treffen van een gelijkwaardige maatregel voor een activiteit geregeld in het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) of een aanvraag om een besluit tot het stellen van maatwerkvoorschriften voor een activiteit geregeld in het Besluit bouwwerken leefomgeving, ingediend voor het tijdstip waarop een wijziging van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&z=2026-08-18&g=2026-08-18) of [paragraaf 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&z=2026-08-18&g=2026-08-18), inclusief de daar genoemde bijlagen, in werking treedt, of op bezwaar of beroep, ingesteld tegen een beslissing op een dergelijke aanvraag, blijven de regels in hoofdstuk 5 of paragraaf 7.2.2 van toepassing zoals die golden op het tijdstip waarop de aanvraag is ingediend.
 
-2. Op een melding voor een activiteit geregeld in het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297), gedaan voor het tijdstip waarop een wijziging van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&z=2026-07-01&g=2026-07-01) of [paragraaf 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&z=2026-07-01&g=2026-07-01), inclusief de daar genoemde bijlagen, in werking treedt, blijven de regels van hoofdstuk 5 en paragraaf 7.2.2 van toepassing zoals die golden op het tijdstip waarop de melding is gedaan.
+2. Op een melding voor een activiteit geregeld in het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297), gedaan voor het tijdstip waarop een wijziging van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=5&z=2026-08-18&g=2026-08-18) of [paragraaf 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&z=2026-08-18&g=2026-08-18), inclusief de daar genoemde bijlagen, in werking treedt, blijven de regels van hoofdstuk 5 en paragraaf 7.2.2 van toepassing zoals die golden op het tijdstip waarop de melding is gedaan.
 
 ##### Artikel 17.5. (overgangsrecht geluidaandachtsgebied voor gemeentewegen, lokale spoorwegen en waterschapswegen)
 
@@ -10699,13 +10699,13 @@ Tot het tijdstip, bedoeld in [artikel 3.25, derde lid](https://wetten.overheid.n
 
 1. Bij wijziging van een geluidproductieplafond op grond van [artikel 12.5 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.5) wordt de hoogte van het geluidproductieplafond berekend op basis van:
 
-- a. de geluidbrongegevens behorende bij het geldende geluidproductieplafond of, voor zover van toepassing, de gewijzigde geluidbrongegevens, bedoeld in [bijlage XXXIX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIX&z=2026-07-01&g=2026-07-01); en
+- a. de geluidbrongegevens behorende bij het geldende geluidproductieplafond of, voor zover van toepassing, de gewijzigde geluidbrongegevens, bedoeld in [bijlage XXXIX](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=XXXIX&z=2026-08-18&g=2026-08-18); en
 
 - b. de geluidbrongegevens die horen bij het geluid door spoorvoertuigen op spoorwegemplacementen die onderdeel zijn van de hoofdspoorweg.
 
 2. Het geluid, bedoeld in het eerste lid, onder b, wordt bepaald op basis van aard en omvang van de activiteiten opgenomen in de representatieve bedrijfssituatie van het akoestisch onderzoek dat ten grondslag ligt aan de vigerende omgevingsvergunning, waarbij de aan de omgevingsvergunning verbonden voorschriften in acht worden genomen.
 
-3. Paragraaf 2.7 van [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-07-01&g=2026-07-01) is van overeenkomstige toepassing op de geluidbronvermogens van stilstaande treinen.
+3. Paragraaf 2.7 van [bijlage IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf&z=2026-08-18&g=2026-08-18) is van overeenkomstige toepassing op de geluidbronvermogens van stilstaande treinen.
 
 ### Hoofdstuk 17a. AERIUS Register
 

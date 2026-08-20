@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-0000329676, houdende regels voor de subsidiëring van de Stichting Arbeids- en Opleidingsfonds Rijk (Subsidieregeling Stichting A en O-fonds Rijk)"
+citeertitel: "Subsidieregeling Stichting A en O-fonds Rijk"
 identifier: "BWBR0033554"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-12-19"
-last_updated: "2018-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033554"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "12287973"
-version_id: "20577972"
-internal_id: "C28943101"
-label_id: "12259354"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033554/2018-12-19/0"
-intitule_bron: "Stcrt.2013-16556"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-10"
-intitule_published: "2013-06-20"
-intitule_in_force: "2013-06-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-16556"
-original_signed_date: "2013-06-10"
-original_published_date: "2013-06-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-16556"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033554&z=2018-12-19&g=2018-12-19"
-jci_1_0: "1.0:c:BWBR0033554&g=2018-12-19"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Stichting A en O-fonds Rijk"
-signed_date: "2013-06-10"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2018-12-19
+status: geldig
+toestand: 2018-12-19
+bron: "https://wetten.overheid.nl/BWBR0033554"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-0000329676, houdende regels voor de subsidiëring van de Stichting Arbeids- en Opleidingsfonds Rijk (Subsidieregeling Stichting A en O-fonds Rijk)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen d, f en g, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [18, eerste lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister voor Wonen en Rijksdienst;
+- a. *minister:* Minister voor Wonen en Rijksdienst;
 
-- b. **stichting:** Stichting Arbeids- en Opleidingsfonds Rijk.
+- b. *stichting:* Stichting Arbeids- en Opleidingsfonds Rijk.
 
 ##### Artikel 2
 
@@ -98,31 +72,31 @@ De stichting legt alle projecten vast in een projectenadministratie. In deze adm
 
 2. De stichting hanteert met betrekking tot het verstrekken van subsidies in elk geval de volgende regels:
 
-- –. Een aanvraag gaat vergezeld van een projectplan, dat in ieder geval de volgende gegevens bevat:
+- – Een aanvraag gaat vergezeld van een projectplan, dat in ieder geval de volgende gegevens bevat:
 
-- a. een overzicht van de activiteiten waarvoor subsidie wordt gevraagd;
+   - a. een overzicht van de activiteiten waarvoor subsidie wordt gevraagd;
 
-- b. een toelichting op de wijze waarop en de mate waarin de activiteiten waarvoor subsidie wordt gevraagd een bijdrage leveren aan het stimuleren van arbeidsmarkt-, werkgelegenheids- of opleidingsactiviteiten;
+   - b. een toelichting op de wijze waarop en de mate waarin de activiteiten waarvoor subsidie wordt gevraagd een bijdrage leveren aan het stimuleren van arbeidsmarkt-, werkgelegenheids- of opleidingsactiviteiten;
 
-- c. een gespecificeerde begroting, die een goed inzicht geeft in de kosten van de activiteiten waarvoor subsidie wordt aangevraagd;
+   - c. een gespecificeerde begroting, die een goed inzicht geeft in de kosten van de activiteiten waarvoor subsidie wordt aangevraagd;
 
-- d. een tijdsplanning van de activiteit;
+   - d. een tijdsplanning van de activiteit;
 
-- e. indien voorschotten worden aangevraagd, een weergave van de liquiditeitsbehoefte gedurende het tijdvak waarvoor subsidie wordt gevraagd, zo mogelijk per tijdvak van drie maanden;
+   - e. indien voorschotten worden aangevraagd, een weergave van de liquiditeitsbehoefte gedurende het tijdvak waarvoor subsidie wordt gevraagd, zo mogelijk per tijdvak van drie maanden;
 
-- f. het bankrekeningnummer waarop het subsidiebedrag dient te worden gestort, inclusief een bewijs dat de bankrekening op naam van de aanvrager staat;
+   - f. het bankrekeningnummer waarop het subsidiebedrag dient te worden gestort, inclusief een bewijs dat de bankrekening op naam van de aanvrager staat;
 
-- g. indien van toepassing, het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en
+   - g. indien van toepassing, het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en
 
-- h. de wijze van evalueren.
+   - h. de wijze van evalueren.
 
-- –. De stichting kan op de verleende subsidies voorschotten verstrekken tot ten hoogste 80 procent. Bij meerjarige projecten wordt per kalenderjaar een voorschot verstrekt van een evenredig deel van de subsidie, waarbij rekening wordt gehouden met de niet tot besteding gekomen middelen.
+- – De stichting kan op de verleende subsidies voorschotten verstrekken tot ten hoogste 80 procent. Bij meerjarige projecten wordt per kalenderjaar een voorschot verstrekt van een evenredig deel van de subsidie, waarbij rekening wordt gehouden met de niet tot besteding gekomen middelen.
 
-- –. Indien in de periode van uitvoering van de activiteiten waarvoor subsidie van € 25.000 of meer wordt verstrekt meer dan twaalf maanden bedraagt, is de subsidieontvanger verplicht om één keer per periode van twaalf maanden via een voortgangsrapportage inzicht te geven in de voortgang van de activiteiten.
+- – Indien in de periode van uitvoering van de activiteiten waarvoor subsidie van € 25.000 of meer wordt verstrekt meer dan twaalf maanden bedraagt, is de subsidieontvanger verplicht om één keer per periode van twaalf maanden via een voortgangsrapportage inzicht te geven in de voortgang van de activiteiten.
 
-- –. De verantwoording van projecten met een subsidiebedrag van € 25.000 of meer vindt plaats op basis van een eindverslag omtrent de uitvoering en de resultaten van de activiteiten.
+- – De verantwoording van projecten met een subsidiebedrag van € 25.000 of meer vindt plaats op basis van een eindverslag omtrent de uitvoering en de resultaten van de activiteiten.
 
-- –. De verantwoording van projecten met een subsidiebedrag van € 25.000 gaat vergezeld van een controleverklaring.
+- – De verantwoording van projecten met een subsidiebedrag van € 25.000 gaat vergezeld van een controleverklaring.
 
 3. De stichting draagt zorg voor een adequaat vorderingenbeheer.
 
@@ -143,5 +117,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling Stichting A en O-fonds Rijk.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,40 +1,17 @@
 ---
 title: "Tenderregeling Werkplezier 2013"
 identifier: "BWBR0034274"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-03-04"
-last_updated: "2016-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034274"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12447533"
-version_id: "20924232"
-internal_id: "C30040491"
-label_id: "12418454"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034274/2016-03-04/0"
-intitule_bron: "Stcrt.2013-6608"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-03-14"
-intitule_in_force: "2013-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-6608"
-original_published_date: "2013-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-6608"
-entry_into_force_date: "2013-03-15"
-jci_1_3: "jci1.3:c:BWBR0034274&z=2016-03-04&g=2016-03-04"
-jci_1_0: "1.0:c:BWBR0034274&g=2016-03-04"
-citeertitel_status: "officieel"
-entry_into_force: "2013-03-15"
+publicatiedatum: 2013-03-15
+laatste_update: 2016-03-04
+status: geldig
+toestand: 2016-03-04
+bron: "https://wetten.overheid.nl/BWBR0034274"
+opgehaald: 2026-08-20
 ---
+
 # Tenderregeling Werkplezier 2013
-
-gelet op [artikel 183, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) jo [artikel 187, zesde lid van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=187),
-
-besluit vast te stellen:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -42,21 +19,21 @@ besluit vast te stellen:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Project:** project dat ten doel heeft om door werknemer(s) ervaren werkdruk naar meer werkplezier om te buigen;
+- a. *Project:* project dat ten doel heeft om door werknemer(s) ervaren werkdruk naar meer werkplezier om te buigen;
 
-- b. **Projectplan:** schriftelijk document waarin een plan voor een project is vervat, dat:
+- b. *Projectplan:* schriftelijk document waarin een plan voor een project is vervat, dat:
 
-- i. zo veel mogelijk gekwantificeerde doelstellingen van het project, de uitgangspositie, het beoogde resultaat, de planning en de begroting beschrijft; en
+   - i. zo veel mogelijk gekwantificeerde doelstellingen van het project, de uitgangspositie, het beoogde resultaat, de planning en de begroting beschrijft; en
 
-- ii. beschrijft hoe het project binnen drie maanden na verlening van de subsidie operationeel is; en
+   - ii. beschrijft hoe het project binnen drie maanden na verlening van de subsidie operationeel is; en
 
-- iii. beschrijft hoe het project binnen twaalf maanden na verlening van de subsidie afgerond wordt;
+   - iii. beschrijft hoe het project binnen twaalf maanden na verlening van de subsidie afgerond wordt;
 
-- c. **Vervangingsfonds:** het bestuur van de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs;
+- c. *Vervangingsfonds:* het bestuur van de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs;
 
-- d. **Werknemer:** personeelslid, in dienst van de werkgever;
+- d. *Werknemer:* personeelslid, in dienst van de werkgever;
 
-- e. **Werkgever:** bestuur van het bevoegd gezag.
+- e. *Werkgever:* bestuur van het bevoegd gezag.
 
 ##### Artikel 2. Subsidiabele activiteiten
 
@@ -138,13 +115,13 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 5. Als sprake is van onvoldoende budget en er bestaan meerdere werkgevers wiens projectplannen gelijk hebben gescoord verdeelt het Vervangingsfonds het resterende budget evenredig over de betreffende werkgevers.
 
-|   | onderdeel | Punten | Weging |
+|  | onderdeel | Punten | Weging |
 | --- | --- | --- | --- |
-| 1 | **Vernieuwend karakter** | 0 – 20 punten | 20% |
-| 2 | **Pragmatisch karakter** | 0 – 20 punten | 20% |
-| 3 | **Verwacht rendement** | 0 – 20 punten | 20% |
-| 4 | **Duurzame aanpak** | 0 – 20 punten | 20% |
-| 5 | **Generiek toepasbaar voor een brede groep van medewerkers in het primair onderwijs** | 0 – 20 punten | 20% |
+| 1 | Vernieuwend karakter | 0 – 20 punten | 20% |
+| 2 | Pragmatisch karakter | 0 – 20 punten | 20% |
+| 3 | Verwacht rendement | 0 – 20 punten | 20% |
+| 4 | Duurzame aanpak | 0 – 20 punten | 20% |
+| 5 | Generiek toepasbaar voor een brede groep van medewerkers in het primair onderwijs | 0 – 20 punten | 20% |
 
 ### Hoofdstuk 3. Procedure van aanvraag
 

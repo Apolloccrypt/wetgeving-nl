@@ -1,44 +1,17 @@
 ---
 title: "Verordening op de Raad voor Geschillen"
 identifier: "BWBR0034658"
-country: "nl"
-rank: "pbo"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034658"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12552463"
-version_id: "21147202"
-internal_id: "C30346311"
-label_id: "12523254"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034658/2014-01-01/0"
-intitule_bron: "Stcrt.2014-172"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-01-07"
-intitule_in_force: "2014-01-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-172"
-original_published_date: "2014-01-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-172"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034658&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034658&g=2014-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034658"
+opgehaald: 2026-08-20
 ---
+
 # Verordening op de Raad voor Geschillen
-
-Het bestuur van de Nederlandse beroepsorganisatie van accountants maakt, gelet op [artikel 23, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=23), onderstaande verordening bekend, welke door de ledenvergadering op 16 december 2013 is vastgesteld.
-
-Gelet op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5) in samenhang met [artikel 19 eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Paragraaf 1. Algemene bepalingen
 

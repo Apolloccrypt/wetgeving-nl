@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 13 december 2013, houdende instelling herinneringsmedaille «Medaille bezoek in 2013 aan het Caribisch deel van het Koninkrijk»"
+citeertitel: "Instellingsbesluit herinneringsmedaille «Medaille bezoek in 2013 aan het Caribisch deel van het Koninkrijk»"
 identifier: "BWBR0034749"
-country: "nl"
-rank: "kb"
-publication_date: "2014-01-31"
-last_updated: "2014-01-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034749"
+categorie: "Staatsinrichting en bestuur"
 soort: "KB"
-stam_id: "12568063"
-version_id: "21208622"
-internal_id: "C30448491"
-label_id: "12538544"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034749/2014-01-31/0"
-intitule_bron: "Stb.2014-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-13"
-intitule_published: "2014-01-30"
-intitule_in_force: "2014-01-30"
-intitule_status: "goed"
-original_publication: "Stb.2014-42"
-original_signed_date: "2013-12-13"
-original_published_date: "2014-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-42"
-entry_into_force_date: "2014-01-31"
-jci_1_3: "jci1.3:c:BWBR0034749&z=2014-01-31&g=2014-01-31"
-jci_1_0: "1.0:c:BWBR0034749&g=2014-01-31"
-citeertitel_status: "redactioneel"
-short_title: "Instellingsbesluit herinneringsmedaille «Medaille bezoek in 2013 aan het Caribisch deel van het Koninkrijk»"
-signed_date: "2013-12-13"
-entry_into_force: "2014-01-31"
+publicatiedatum: 2014-01-31
+laatste_update: 2014-01-31
+status: geldig
+toestand: 2014-01-31
+bron: "https://wetten.overheid.nl/BWBR0034749"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 13 december 2013, houdende instelling herinneringsmedaille «Medaille bezoek in 2013 aan het Caribisch deel van het Koninkrijk»
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 december 2013, nr. 2013-0000718611, Directoraat-generaal Bestuur en Koninkrijksrelaties, Directie Arbeidszaken Publieke Sector, afdeling Politieke Ambtsdragers;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -63,5 +37,3 @@ Aan de begiftigde wordt een oorkonde uitgereikt, waaruit de toekenning van het h
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst en waarvan een afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.

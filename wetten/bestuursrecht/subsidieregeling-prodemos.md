@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329553, houdende regels voor de subsidiëring van het Huis voor democratie en rechtsstaat (Subsidieregeling ProDemos)"
+citeertitel: "Subsidieregeling ProDemos"
 identifier: "BWBR0033558"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-10-29"
-last_updated: "2021-10-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033558"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "12288973"
-version_id: "20579502"
-internal_id: "C28945161"
-label_id: "12260344"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033558/2021-10-29/0"
-intitule_bron: "Stcrt.2013-16475"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-10"
-intitule_published: "2013-06-20"
-intitule_in_force: "2013-06-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-16475"
-original_signed_date: "2013-06-10"
-original_published_date: "2013-06-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-16475"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033558&z=2021-10-29&g=2021-10-29"
-jci_1_0: "1.0:c:BWBR0033558&g=2021-10-29"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling ProDemos"
-signed_date: "2013-06-10"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2021-10-29
+status: geldig
+toestand: 2021-10-29
+bron: "https://wetten.overheid.nl/BWBR0033558"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329553, houdende regels voor de subsidiëring van het Huis voor democratie en rechtsstaat (Subsidieregeling ProDemos)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen d en f, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [18, eerste lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,33 +20,33 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **stichting:** Stichting Huis voor democratie en rechtsstaat.
+- b. *stichting:* Stichting Huis voor democratie en rechtsstaat.
 
 ##### Artikel 2
 
 1. De minister verstrekt aan de stichting een subsidie met het oog op:
 
-- –. het overdragen van kennis over de democratische rechtsstaat, de werking van de instituties daarvan, de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en het constitutioneel bestel in ruime zin;
+- – het overdragen van kennis over de democratische rechtsstaat, de werking van de instituties daarvan, de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en het constitutioneel bestel in ruime zin;
 
-- –. het aanbieden van activiteiten en cursussen die de deelname aan democratische processen bevorderen, en
+- – het aanbieden van activiteiten en cursussen die de deelname aan democratische processen bevorderen, en
 
-- –. het promoten en bevorderen van actief democratisch burgerschap door middel van:
+- – het promoten en bevorderen van actief democratisch burgerschap door middel van:
 
-- a. het aanbieden van samenhangende programma’s en educatieve activiteiten en excursies in en vanuit een door de minister aan te wijzen gebouw in ’s-Gravenhage;
+   - a. het aanbieden van samenhangende programma’s en educatieve activiteiten en excursies in en vanuit een door de minister aan te wijzen gebouw in ’s-Gravenhage;
 
-- b. het ontvangen en rondleiden van bezoekers van het Binnenhofcomplex;
+   - b. het ontvangen en rondleiden van bezoekers van het Binnenhofcomplex;
 
-- c. het bevorderen en begeleiden van bezoek van Nederlandse scholieren aan het parlement;
+   - c. het bevorderen en begeleiden van bezoek van Nederlandse scholieren aan het parlement;
 
-- d. het aanbieden van samenhangende programma’s en educatieve activiteiten en excursies vanuit diverse locaties in Nederland;
+   - d. het aanbieden van samenhangende programma’s en educatieve activiteiten en excursies vanuit diverse locaties in Nederland;
 
-- e. het ontwikkelen en aanbieden van informatie en ander materiaal voor gebruik in en buiten het onderwijs;
+   - e. het ontwikkelen en aanbieden van informatie en ander materiaal voor gebruik in en buiten het onderwijs;
 
-- f. het ontwikkelen en aanbieden van interactieve toepassingen via internet en andere media;
+   - f. het ontwikkelen en aanbieden van interactieve toepassingen via internet en andere media;
 
-- g. het aangaan van samenwerking met andere organisaties.
+   - g. het aangaan van samenwerking met andere organisaties.
 
 2. De subsidie wordt per boekjaar verstrekt. Het boekjaar is gelijk aan het kalenderjaar.
 
@@ -84,11 +58,11 @@ De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 4
 
-1. De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft.
+1. De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft.
 
 2. De aanvraag, bedoeld in het eerste lid, wordt, voor zover de activiteiten waarvoor subsidie wordt aangevraagd betrekking hebben op het ontvangen en rondleiden van bezoekers van het Binnenhofcomplex, ingediend in overeenstemming met de voorzitters van beide Kamers der Staten-Generaal of hun vertegenwoordigers.
 
-3. In afwijking van het eerste lid, dient de stichting de aanvraag tot subsidieverlening voor het kalenderjaar 2022 uiterlijk in op 15 november 2021.
+3. In afwijking van het eerste lid, dient de stichting de aanvraag tot subsidieverlening voor het kalenderjaar 2022 uiterlijk in op 15 november 2021.
 
 #### § 3. Voorschotverlening
 
@@ -130,10 +104,8 @@ Een subsidie die is verleend krachtens de [Subsidieregeling Huis voor democratie
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2027.
+Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Subsidieregeling ProDemos.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

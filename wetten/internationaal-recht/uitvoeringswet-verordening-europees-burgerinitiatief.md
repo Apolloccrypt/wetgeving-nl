@@ -1,55 +1,26 @@
 ---
 title: "Wet van 10 juli 2013, houdende regels tot uitvoering van de Verordening (EU) nr. 211/2011 van het Europees Parlement en de Raad van 16 februari 2011 over het burgerinitiatief (PbEU 2011, L 65) (Uitvoeringswet verordening Europees burgerinitiatief)"
+citeertitel: "Uitvoeringswet verordening Europees burgerinitiatief"
 identifier: "BWBR0033716"
-country: "nl"
-rank: "wet"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033716"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12325783"
-version_id: "20669902"
-internal_id: "C29956731"
-label_id: "12296914"
-dtd_version: "2.0"
-original_entry_into_force: "2013-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033716/2020-04-01/0"
-intitule_bron: "Stb.2013-318"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-10"
-intitule_published: "2013-07-26"
-intitule_in_force: "2013-11-08"
-intitule_status: "goed"
-original_publication: "Stb.2013-318"
-original_signed_date: "2013-07-10"
-original_published_date: "2013-07-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "33423"
-original_url_id: "stb-2013-318"
-entry_into_force_date: "2013-11-09"
-jci_1_3: "jci1.3:c:BWBR0033716&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0033716&g=2020-04-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet verordening Europees burgerinitiatief"
-signed_date: "2013-07-10"
-entry_into_force: "2013-11-09"
+publicatiedatum: 2013-11-09
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0033716"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 10 juli 2013, houdende regels tot uitvoering van de Verordening (EU) nr. 211/2011 van het Europees Parlement en de Raad van 16 februari 2011 over het burgerinitiatief (PbEU 2011, L 65) (Uitvoeringswet verordening Europees burgerinitiatief)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te stellen ter uitvoering van de Verordening (EU) nr. 211/2011 van het Europees Parlement en de Raad van 16 februari 2011 over het burgerinitiatief (PbEU 2011, L 65);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **Verordening:** Verordening (EU) nr. 2019/788 van het Europees Parlement en de Raad van 17 april 2019 over het burgerinitiatief (PB L 130/55 van 17.5.2019).
+- b. *Verordening:* Verordening (EU) nr. 2019/788 van het Europees Parlement en de Raad van 17 april 2019 over het burgerinitiatief (PB L 130/55 van 17.5.2019).
 
 ##### Artikel 2
 
@@ -93,7 +64,7 @@ Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder g
 
 ##### Artikel 7
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 8
 
@@ -105,6 +76,4 @@ Deze wet wordt aangehaald als: Uitvoeringswet verordening Europees burgerinitiat
 
 ##### Artikel 9a
 
-Wijzigt de Algemene wet bestuursrecht.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Wijzigt de Algemene wet bestuursrecht.*

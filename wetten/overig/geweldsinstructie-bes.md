@@ -1,43 +1,17 @@
 ---
 title: "Geweldsinstructie BES"
 identifier: "BWBR0034242"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034242"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12441743"
-version_id: "20909162"
-internal_id: "C30021831"
-label_id: "12412674"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034242/2014-01-01/0"
-intitule_bron: "Stcrt.2013-33233"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-15"
-intitule_published: "2013-11-29"
-intitule_in_force: "2013-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-33233"
-original_signed_date: "2013-11-15"
-original_published_date: "2013-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-33233"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034242&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034242&g=2014-01-01"
-citeertitel_status: "officieel"
-signed_date: "2013-11-15"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034242"
+opgehaald: 2026-08-20
 ---
+
 # Geweldsinstructie BES
-
-Gelet op [artikel 37k van de Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=37k);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -45,47 +19,47 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596);
+- a. *de wet:* de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596);
 
-- b. **gesticht:** een gesticht als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=2);
+- b. *gesticht:* een gesticht als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=2);
 
-- c. **directeur:** het hoofd van een gesticht of diens vervanger, bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=14)
+- c. *directeur:* het hoofd van een gesticht of diens vervanger, bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=14)
 
-- d. **meerdere:** de ambtenaar die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;
+- d. *meerdere:* de ambtenaar die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;
 
 - e.
 
-- 1°. vuurwapen;
+   - 1°. vuurwapen;
 
-- 2°. korte en lange wapenstok;
+   - 2°. korte en lange wapenstok;
 
-- 3°. pepperspray.
+   - 3°. pepperspray.
 
 - f.
 
-- 1°. broekstok;
+   - 1°. broekstok;
 
-- 2°. handboeien;
+   - 2°. handboeien;
 
-- 3°. enkelbanden met tussenstuk;
+   - 3°. enkelbanden met tussenstuk;
 
-- 4°. polsbanden aan riem om middel;
+   - 4°. polsbanden aan riem om middel;
 
-- 5°. valhelm of schuimhelm;
+   - 5°. valhelm of schuimhelm;
 
-- 6°. gecapitonneerde handschoenen;
+   - 6°. gecapitonneerde handschoenen;
 
-- 7°. mondafscherming;
+   - 7°. mondafscherming;
 
-- 8°. dwangjack;
+   - 8°. dwangjack;
 
-- 9°. veiligheidsbed.
+   - 9°. veiligheidsbed.
 
-- g. **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
+- g. *geweld:* elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
-- h. **het gebruik van een vuurwapen:** het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+- h. *het gebruik van een vuurwapen:* het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
 
-- i. **onrust:** een ernstige en onmiddellijke ordeverstoring door meer dan één gedetineerde.
+- i. *onrust:* een ernstige en onmiddellijke ordeverstoring door meer dan één gedetineerde.
 
 ##### Artikel 2
 
@@ -220,5 +194,3 @@ Een vrijheidsbeperkend middel voldoet aan de volgende eisen:
 1. Deze regeling treedt in werking met ingang van 1 januari 2014.
 
 2. Deze regeling wordt aangehaald als: Geweldsinstructie BES.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

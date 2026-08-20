@@ -1,74 +1,49 @@
 ---
 title: "Beschikking van de Minister van Economische Zaken van 17 oktober 2013, nr. 13174565 tot verlening van de concessie voor postdienstverlening voor Caribisch Nederland"
+citeertitel: "Beschikking verlening concessie postdienstverlening Caribisch Nederland"
 identifier: "BWBR0034129"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034129"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12419283"
-version_id: "20846422"
-internal_id: "C29934381"
-label_id: "12390384"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034129/2024-01-01/0"
-intitule_bron: "Stcrt.2013-30604"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-17"
-intitule_published: "2013-10-31"
-intitule_in_force: "2013-10-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-30604"
-original_signed_date: "2013-10-17"
-original_published_date: "2013-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-30604"
-entry_into_force_date: "2013-12-01"
-jci_1_3: "jci1.3:c:BWBR0034129&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0034129&g=2024-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Beschikking verlening concessie postdienstverlening Caribisch Nederland"
-signed_date: "2013-10-17"
-entry_into_force: "2013-12-01"
+publicatiedatum: 2013-12-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0034129"
+opgehaald: 2026-08-20
 ---
+
 # Beschikking van de Minister van Economische Zaken van 17 oktober 2013, nr. 13174565 tot verlening van de concessie voor postdienstverlening voor Caribisch Nederland
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=2), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=5), en [14, derde lid, van de Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=14);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
 
-- a. **wet:** [Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263);
+- a. *wet:*
+ [Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263);
 
-- b. **minister:** Minister van Economische Zaken;
+- b. *minister:* Minister van Economische Zaken;
 
-- c. **ACM:** Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- c. *ACM:* Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- d. **de eilanden:** Bonaire, Sint Eustatius en Saba;
+- d. *de eilanden:* Bonaire, Sint Eustatius en Saba;
 
-- e. **Caribisch Nederland:** het Caribische deel van Nederland, bestaande uit Bonaire, Sint Eustatius en Saba;
+- e. *Caribisch Nederland:* het Caribische deel van Nederland, bestaande uit Bonaire, Sint Eustatius en Saba;
 
-- f. **universele postdienst:** vervoersdienst, bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=2);
+- f. *universele postdienst:* vervoersdienst, bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=2);
 
-- g. **poststuk:** postzending als bedoeld in [artikel 1, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=1);
+- g. *poststuk:* postzending als bedoeld in [artikel 1, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=1);
 
-- h. **voor het publiek bestemde brievenbus:** brievenbus of andere faciliteit voor het ten vervoer aanbieden van poststukken;
+- h. *voor het publiek bestemde brievenbus:* brievenbus of andere faciliteit voor het ten vervoer aanbieden van poststukken;
 
-- i. **postbus:** in een gebouw aanwezige afgesloten ruimte die bestemd is voor de aflevering van de voor de gebruiker daarvan bestemde poststukken.
+- i. *postbus:* in een gebouw aanwezige afgesloten ruimte die bestemd is voor de aflevering van de voor de gebruiker daarvan bestemde poststukken.
 
 ##### Artikel 2. Concessieverlening
 
-1. Aan Flamingo Communications N.V., te Bonaire, wordt met ingang van 1 januari 2014 voor een periode van tien jaar de concessie voor postdiensten verleend, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=2).
+1. Aan Flamingo Communications N.V., te Bonaire, wordt met ingang van 1 januari 2014 voor een periode van tien jaar de concessie voor postdiensten verleend, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=2).
 
 2. Aan de concessieverlening worden de voorwaarden verbonden die in deze beschikking zijn vermeld.
 
-3. De concessie wordt met ingang van 1 januari 2024 verlengd met een periode van drie jaar.
+3. De concessie wordt met ingang van 1 januari 2024 verlengd met een periode van drie jaar.
 
 ##### Artikel 3. Naamvoering
 
@@ -86,7 +61,7 @@ De concessiehouder voldoet aan de verplichtingen die voor hem gelden op grond va
 
 1. De concessiehouder haalt ten minste drie dagen per week poststukken op uit de voor het publiek bestemde brievenbussen en voert ten minste drie dagen per week overal in Caribisch Nederland een aflevering uit, behoudens voor zover:
 
-- a. de dag waarop volgens de op grond van [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=14&z=2024-01-01&g=2024-01-01), bekendgemaakte publieksinformatie poststukken uit de voor het publiek bestemde brievenbussen worden opgehaald onderscheidenlijk poststukken worden afgeleverd, valt op een algemeen erkende feestdag, of
+- a. de dag waarop volgens de op grond van [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=14&z=2024-01-01&g=2024-01-01), bekendgemaakte publieksinformatie poststukken uit de voor het publiek bestemde brievenbussen worden opgehaald onderscheidenlijk poststukken worden afgeleverd, valt op een algemeen erkende feestdag, of
 
 - b. de concessiehouder daartoe vanwege overmacht niet in staat is.
 
@@ -94,11 +69,11 @@ De concessiehouder voldoet aan de verplichtingen die voor hem gelden op grond va
 
 | Postvervoer | Prestatie gedurende de periode van de concessie | Streefnorm gedurende de periode van de concessie |
 | --- | --- | --- |
-|   |   |   |
-| Eilandelijk (binnen het eilandgebied) | 80% D + 2E 95% D + 4E |   |
-| Intereilandelijk (vervoer tussen de eilanden) |   | 80% D + 15E |
+|  |  |  |
+| Eilandelijk (binnen het eilandgebied) | 80% D + 2E 95% D + 4E |  |
+| Intereilandelijk (vervoer tussen de eilanden) |  | 80% D + 15E |
 
-waarbij met ‘D’ wordt bedoeld: de dag en het tijdstip waarop volgens de op grond van [artikel 14, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=14&z=2024-01-01&g=2024-01-01), bekendgemaakte publieksinformatie poststukken uit de voor het publiek bestemde brievenbussen worden opgehaald, en
+waarbij met ‘D’ wordt bedoeld: de dag en het tijdstip waarop volgens de op grond van [artikel 14, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=14&z=2024-01-01&g=2024-01-01), bekendgemaakte publieksinformatie poststukken uit de voor het publiek bestemde brievenbussen worden opgehaald, en
 
 waarbij met ‘E’ wordt bedoeld: een dag uitgezonderd een zaterdag, zondag of een algemeen erkende feestdag.
 
@@ -180,19 +155,19 @@ De concessiehouder maakt algemeen bekend:
 
 ##### Artikel 17. Tarieven
 
-1. De concessiehouder hanteert voor de universele postdiensten ten hoogste de in de bijlage vermelde bedragen en past deze tarieven non-discriminatoir toe.
+1. De concessiehouder hanteert voor de universele postdiensten ten hoogste de in de [bijlage](https://wetten.overheid.nl/BWBR0034129) vermelde bedragen en past deze tarieven non-discriminatoir toe.
 
-2. De maximumtarieven kunnen met goedkeuring van de ACM jaarlijks per 1 januari, maar niet voor 1 januari 2015, worden verhoogd om rekening te houden met de inflatie in een bepaalde periode.
+2. De maximumtarieven kunnen met goedkeuring van de ACM jaarlijks per 1 januari, maar niet voor 1 januari 2015, worden verhoogd om rekening te houden met de inflatie in een bepaalde periode.
 
 3. De in het tweede lid bedoelde verhoging wordt bepaald met behulp van een percentage dat overeen komt met de gecumuleerde ontwikkeling van de door het Centraal Bureau voor de Statistiek gepubliceerde consumentenprijsindex voor Caribisch Nederland in de periode
 
-- –. vanaf het tijdstip waarop deze beschikking in werking is getreden dan wel;
+- – vanaf het tijdstip waarop deze beschikking in werking is getreden dan wel;
 
-- –. indien eerder een verhoging zoals bedoeld in het tweede lid heeft plaatsgevonden, die aansluit op de periode waarop de meest recente verhoging betrekking had;
+- – indien eerder een verhoging zoals bedoeld in het tweede lid heeft plaatsgevonden, die aansluit op de periode waarop de meest recente verhoging betrekking had;
 
-- –. tot aan het uiterste tijdstip waarop de gecumuleerde ontwikkeling betrekking heeft.
+- – tot aan het uiterste tijdstip waarop de gecumuleerde ontwikkeling betrekking heeft.
 
-4. De concessiehouder doet uiterlijk 1 oktober van het jaar dat voorafgaat aan het jaar waarvoor de verhoging van het maximumtarief wordt voorzien, een schriftelijk verzoek aan de ACM om goedkeuring van de in het tweede lid bedoelde verhoging aan de ACM.
+4. De concessiehouder doet uiterlijk 1 oktober van het jaar dat voorafgaat aan het jaar waarvoor de verhoging van het maximumtarief wordt voorzien, een schriftelijk verzoek aan de ACM om goedkeuring van de in het tweede lid bedoelde verhoging aan de ACM.
 
 5. Indien sprake is van een wijziging van omstandigheden die redelijkerwijs niet kon worden voorzien ten tijde van de concessieverlening en als gevolg waarvan het niet langer mogelijk is om de universele postdiensten kostendekkend uit te voeren, kunnen maximumtarieven met goedkeuring van de minister, gehoord de ACM, zodanig worden verhoogd dat de universele postdiensten kostendekkend kunnen worden uitgevoerd. De minister kan in dat geval aanvullende voorwaarden stellen.
 
@@ -216,17 +191,17 @@ De concessiehouder houdt een zodanige administratie bij dat:
 
 1. De concessiehouder informeert de minister tijdig over nieuwe ontwikkelingen die er toe kunnen leiden dat de concessiehouder niet langer de universele postdiensten kostendekkend kan uitvoeren met de bestaande tarieven of dat de concessiehouder niet langer een goede uitvoering van universele postdiensten kan waarborgen.
 
-2. De concessiehouder verstrekt aan de ACM jaarlijks uiterlijk op 31 mei gegevens over het voorafgaande kalenderjaar over:
+2. De concessiehouder verstrekt aan de ACM jaarlijks uiterlijk op 31 mei gegevens over het voorafgaande kalenderjaar over:
 
 - a. het aantal en de soort van de per eiland in het afgelopen jaar verleende universele postdiensten. Het aantal vervoerde poststukken wordt uitgesplitst naar de herkomst en de bestemming ervan;
 
 - b. de personeelskosten, uitgesplitst per:
 
-- –. eiland en
+   - – eiland en
 
-- –. kostensoort, waaronder de loonkosten en de pensioenlasten;
+   - – kostensoort, waaronder de loonkosten en de pensioenlasten;
 
-- c. de voor de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde postdiensten gerealiseerde gemiddelde overkomstduur en de wijze waarop de concessiehouder invulling heeft gegeven aan de doelstelling voor intereilandelijk postvervoer;
+- c. de voor de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde postdiensten gerealiseerde gemiddelde overkomstduur en de wijze waarop de concessiehouder invulling heeft gegeven aan de doelstelling voor intereilandelijk postvervoer;
 
 - d. het aantal voor het publiek bestemde brievenbussen, uitgesplitst per eiland;
 
@@ -246,9 +221,9 @@ De concessiehouder is voor de looptijd van de concessie voor elk kalenderjaar ee
 
 2. De minister kan na overleg met de concessiehouder de aan de concessie verbonden voorwaarden wijzigen indien een wijziging van de voor de postdienstverlening relevante omstandigheden hiertoe noopt. Een dergelijke wijziging treedt eerst zes maanden na de vaststelling van de wijziging in werking tenzij:
 
-- –. de concessiehouder instemt met een eerdere inwerkingtreding; of
+- – de concessiehouder instemt met een eerdere inwerkingtreding; of
 
-- –. bijzondere omstandigheden nopen tot een eerdere inwerkingtreding.
+- – bijzondere omstandigheden nopen tot een eerdere inwerkingtreding.
 
 ##### Artikel 23. Intrekking
 
@@ -267,11 +242,3 @@ De minister kan de concessie geheel of gedeeltelijk intrekken indien:
 ##### Artikel 24. Overgang
 
 Indien de concessie na afloop van de geldigheidsduur wordt verleend aan een ander, werkt de concessiehouder mee aan de overgang van de concessie, in het bijzonder ten aanzien van aspecten betreffende het personeel, de dienstverleningspunten, voor het publiek bestemde brievenbussen, postbussen en de verkoop en het gebruik van postzegels en postale waarden.
-
-## Bijlage. bij de Beschikking van de Minister van Economische Zaken tot verlening van de concessie voor postdienstverlening voor Caribisch Nederland
-
-### Andere categorieën
-
-Voor andere universele postdiensten dan de hiervoor genoemde geldt het uitgangspunt van kostendekkende tarieven.
-
-Deze beschikking wordt bekendgemaakt door publicatie in de Staatscourant en in Caribisch Nederland.

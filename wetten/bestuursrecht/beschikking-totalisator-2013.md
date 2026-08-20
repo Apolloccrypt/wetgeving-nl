@@ -1,69 +1,46 @@
 ---
 title: "Beschikking totalisator 2013"
 identifier: "BWBR0033746"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-08-06"
-last_updated: "2013-08-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033746"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12332413"
-version_id: "20682582"
-internal_id: "C29641651"
-label_id: "12303554"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033746/2013-08-06/0"
-intitule_bron: "Stcrt.2013-21974"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-19"
-intitule_published: "2013-08-06"
-intitule_in_force: "2013-08-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-21974"
-original_signed_date: "2013-06-19"
-original_published_date: "2013-08-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-21974"
-entry_into_force_date: "2013-08-06"
-jci_1_3: "jci1.3:c:BWBR0033746&z=2013-08-06&g=2013-08-06"
-jci_1_0: "1.0:c:BWBR0033746&g=2013-08-06"
-citeertitel_status: "officieel"
-signed_date: "2013-06-19"
-entry_into_force: "2013-08-06"
+publicatiedatum: 2013-08-06
+laatste_update: 2013-08-06
+status: geldig
+toestand: 2013-08-06
+bron: "https://wetten.overheid.nl/BWBR0033746"
+opgehaald: 2026-08-20
 ---
-# Beschikking totalisator 2013
 
-Op grond van [artikel 24 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=24) verleent de raad van bestuur van de Kansspelautoriteit aan Sportech Racing B.V., een besloten vennootschap naar Nederlands recht gevestigd in ’s Gravenhage, de vergunning tot het organiseren van een totalisator voor de periode van 1 juli 2013 tot en met 30 september 2013.
+# Beschikking totalisator 2013
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-- a. **de wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- a. *de wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- b. **de raad van bestuur:** de raad van bestuur van de Kansspelautoriteit;
+- b. *de raad van bestuur:* de raad van bestuur van de Kansspelautoriteit;
 
-- c. **vennootschap:** besloten vennootschap met beperkte aansprakelijkheid Sportech Racing B.V., gevestigd te ’s-Gravenhage;
+- c. *vennootschap:* besloten vennootschap met beperkte aansprakelijkheid Sportech Racing B.V., gevestigd te ’s-Gravenhage;
 
-- d. **NDR:** Vereniging Nederlandse Draf- en Rensport, gevestigd te Wassenaar, daaronder mede begrepen de als rechtsopvolger van de Vereniging Nederlandse Draf- en Rensport aan te merken stichting;
+- d. *NDR:* Vereniging Nederlandse Draf- en Rensport, gevestigd te Wassenaar, daaronder mede begrepen de als rechtsopvolger van de Vereniging Nederlandse Draf- en Rensport aan te merken stichting;
 
-- e. **totalisator:** een kansspel als bedoeld in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23);
+- e. *totalisator:* een kansspel als bedoeld in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23);
 
-- f. **wedkantoor:** door of namens de vennootschap opengestelde gelegenheid waar in hoofdzaak activiteiten worden verricht die verband houden met het afsluiten van weddenschappen op de uitslag van paardenrennen en harddraverijen en waar tevens, voor zover door de raad van bestuur toegestaan, andere kansspelen kunnen worden aangeboden;
+- f. *wedkantoor:* door of namens de vennootschap opengestelde gelegenheid waar in hoofdzaak activiteiten worden verricht die verband houden met het afsluiten van weddenschappen op de uitslag van paardenrennen en harddraverijen en waar tevens, voor zover door de raad van bestuur toegestaan, andere kansspelen kunnen worden aangeboden;
 
-- g. **wedcafé:** inrichting, verbonden met een horecalokaliteit als bedoeld in [artikel 1 van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1), waar onafhankelijk van de horecalokaliteit door de vennootschap de gelegenheid wordt opengesteld tot het afsluiten van weddenschappen op de uitslag van paardenrennen en harddraverijen;
+- g. *wedcafé:* inrichting, verbonden met een horecalokaliteit als bedoeld in [artikel 1 van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1), waar onafhankelijk van de horecalokaliteit door de vennootschap de gelegenheid wordt opengesteld tot het afsluiten van weddenschappen op de uitslag van paardenrennen en harddraverijen;
 
-- h. **verkooppunt:** inrichting, niet zijnde een wedcafé, waar in overwegende mate activiteiten worden verricht welke geen verband houden met kansspelen en waar tevens door de vennootschap de gelegenheid wordt opengesteld tot het afsluiten van weddenschappen op de uitslag van paardenrennen en harddraverijen;
+- h. *verkooppunt:* inrichting, niet zijnde een wedcafé, waar in overwegende mate activiteiten worden verricht welke geen verband houden met kansspelen en waar tevens door de vennootschap de gelegenheid wordt opengesteld tot het afsluiten van weddenschappen op de uitslag van paardenrennen en harddraverijen;
 
-- i. **speelautomatenhal:** nrichting als bedoeld in [artikel 30c, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c);
+- i. *speelautomatenhal:* nrichting als bedoeld in [artikel 30c, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c);
 
-- j. **speelcasino:** inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g);
+- j. *speelcasino:* inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g);
 
-- k. **gemeenschappelijke buitenlandse pool:** een pool waarin de weddenschappen, die ten aanzien van harddraverijen en paardenrennen in het buitenland in de deelnemende landen zijn afgesloten, worden samengevoegd ten behoeve van het voor uitkering beschikbare bedrag;
+- k. *gemeenschappelijke buitenlandse pool:* een pool waarin de weddenschappen, die ten aanzien van harddraverijen en paardenrennen in het buitenland in de deelnemende landen zijn afgesloten, worden samengevoegd ten behoeve van het voor uitkering beschikbare bedrag;
 
-- l. **lokale pool:** een pool waarin de weddenschappen in Nederland, die ten aanzien van harddraverijen en paardenrennen in het binnenland of het buitenland zijn afgesloten, worden samengevoegd ten behoeve van het voor uitkering beschikbare bedrag.
+- l. *lokale pool:* een pool waarin de weddenschappen in Nederland, die ten aanzien van harddraverijen en paardenrennen in het binnenland of het buitenland zijn afgesloten, worden samengevoegd ten behoeve van het voor uitkering beschikbare bedrag.
 
 ##### Artikel 2
 

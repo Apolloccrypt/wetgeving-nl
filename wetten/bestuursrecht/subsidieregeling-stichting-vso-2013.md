@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329635, houdende regels voor de subsidiëring van de Stichting Verbond Sectorwerkgevers Overheid (Subsidieregeling Stichting VSO 2013)"
+citeertitel: "Subsidieregeling Stichting VSO 2013"
 identifier: "BWBR0033562"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-12-19"
-last_updated: "2018-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033562"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "12289913"
-version_id: "20581652"
-internal_id: "C28947391"
-label_id: "12261274"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033562/2018-12-19/0"
-intitule_bron: "Stcrt.2013-16504"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-10"
-intitule_published: "2013-06-20"
-intitule_in_force: "2013-06-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-16504"
-original_signed_date: "2013-06-10"
-original_published_date: "2013-06-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-16504"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033562&z=2018-12-19&g=2018-12-19"
-jci_1_0: "1.0:c:BWBR0033562&g=2018-12-19"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Stichting VSO 2013"
-signed_date: "2013-06-10"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2018-12-19
+status: geldig
+toestand: 2018-12-19
+bron: "https://wetten.overheid.nl/BWBR0033562"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329635, houdende regels voor de subsidiëring van de Stichting Verbond Sectorwerkgevers Overheid (Subsidieregeling Stichting VSO 2013)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen d en f, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [18, eerste lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **stichting:** Stichting Verbond Sectorwerkgevers Overheid.
+- b. *stichting:* Stichting Verbond Sectorwerkgevers Overheid.
 
 ##### Artikel 2
 
@@ -70,9 +44,9 @@ De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 De subsidie wordt in een periode van twee jaar als volgt afgebouwd:
 
-- –. met ingang van 1 januari 2019 bedraagt de subsidie 66,6% van het bedrag dat in 2018 is uitgekeerd;
+- – met ingang van 1 januari 2019 bedraagt de subsidie 66,6% van het bedrag dat in 2018 is uitgekeerd;
 
-- –. met ingang van 1 januari 2020 bedraagt de subsidie 33,3% van het bedrag dat in 2018 is uitgekeerd.
+- – met ingang van 1 januari 2020 bedraagt de subsidie 33,3% van het bedrag dat in 2018 is uitgekeerd.
 
 #### § 2. De subsidieverlening
 
@@ -111,5 +85,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Subsidieregeling Stichting VSO 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,38 +1,42 @@
 ---
 title: "Gedragscode bewindvoerders Wsnp II"
 identifier: "BWBR0034033"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-10-20"
-last_updated: "2013-10-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034033"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12399163"
-version_id: "20807912"
-internal_id: "C29882941"
-label_id: "12370064"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034033/2013-10-20/0"
-intitule_bron: "Stcrt.2013-29039"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-08"
-intitule_published: "2013-10-18"
-intitule_in_force: "2013-10-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-29039"
-original_signed_date: "2013-10-08"
-original_published_date: "2013-10-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-29039"
-entry_into_force_date: "2013-10-20"
-jci_1_3: "jci1.3:c:BWBR0034033&z=2013-10-20&g=2013-10-20"
-jci_1_0: "1.0:c:BWBR0034033&g=2013-10-20"
-citeertitel_status: "officieel"
-signed_date: "2013-10-08"
-entry_into_force: "2013-10-20"
+publicatiedatum: 2013-10-20
+laatste_update: 2013-10-20
+status: geldig
+toestand: 2013-10-20
+bron: "https://wetten.overheid.nl/BWBR0034033"
+opgehaald: 2026-08-20
 ---
+
 # Gedragscode bewindvoerders Wsnp II
 
 De Minister van Veiligheid en Justitie, namens deze de Raad voor Rechtsbijstand, stelt vast de Gedragscode bewindvoerders Wsnp II:
+
+- 1) De bewindvoerder waarop deze gedragscode van toepassing is, is een natuurlijk persoon die in het Register Bewindvoerders Wsnp van de Raad voor Rechtsbijstand staat ingeschreven. Op advocaten die tot bewindvoerder worden benoemd, is deze Gedragscode niet van toepassing.
+
+- 2) De regels in deze gedragscode gelden ook voor Wsnp-bewindvoerders als vermeld onder -1- die in een andere hoedanigheid optreden.
+
+- 3) De bewindvoerder vervult geen functies die strijdig (kunnen) zijn met de belangen van zijn functie als bewindvoerder Wsnp.
+
+- 4) De bewindvoerder draagt zorg voor een onafhankelijke uitvoering van de werkzaamheden en voorkomt gedragingen of handelingen die de schijn van partijdigheid kunnen opwekken.
+
+- 5) De bewindvoerder gedraagt zich objectief, fatsoenlijk en respectvol jegens een ieder met wie hij, in de uitvoering van de aan hem opgedragen taak, handelt. Daarbij voorkomt hij ook nadrukkelijk gedragingen of handelingen die de indruk (kunnen) wekken misbruik te maken van zijn positie.
+
+- 6) De bewindvoerder voert de werkzaamheden die voortvloeien uit zijn functie, zorgvuldig, vakkundig en doelmatig uit met inachtneming van de professionele deskundigheid die van hem mag worden verwacht.
+
+- 7) De bewindvoerder heeft naast de taken die voortvloeien uit wet- en regelgeving, oog voor de oorzaken van schulden en het opheffen van deze oorzaken gedurende de schuldsanering. Hij is daar echter in beginsel niet verantwoordelijk en/of aansprakelijk voor, tenzij deze aan hem zijn toe te rekenen.
+
+- 8) De bewindvoerder zal voor de uitvoering van de werkzaamheden als bewindvoerder geen andere beloning of tegenprestatie bedingen en in ontvangst nemen dan het salaris en de subsidie conform het [Besluit vergoeding bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711) (Staatsblad 2013, 308).
+
+- 9) De bewindvoerder gaat zorgvuldig en integer om met de bepalingen in het [Besluit vergoeding bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711) en het [Besluit aanpassing zaaksoort II](https://wetten.overheid.nl/jci1.3:c:BWBR0034038) van 1 oktober 2013, waar het gaat om het vaststellen van de zaaksoort en de bijbehorende vergoeding.
+
+- 10) Indien de rechtbank een bewindvoerder in een Wsnp-dossier ontslaat, werkt deze volledig en onvoorwaardelijk mee aan de overdracht van de zaak aan de opvolgend bewindvoerder.
+
+- 11) De bewindvoerder betracht geheimhouding ten aanzien van vertrouwelijke informatie waarover hij bij het uitvoeren van zijn werkzaamheden de beschikking krijgt. De geheimhoudingsplicht vervalt niet als een schuldsanering eindigt of als de bewindvoerder niet meer als zodanig actief is.
+
+- 12) De bewindvoerder verleent in alle redelijkheid medewerking aan de behandeling van klachten tegen zijn persoon of medewerkers die onder zijn verantwoordelijkheid werkzaamheden in schuldsaneringzaken verrichten.
+
+- 13) Deze code kan worden aangehaald als de ‘Gedragscode bewindvoerders Wsnp II’ en treedt twee dagen na publicatie in de Staatscourant in werking.

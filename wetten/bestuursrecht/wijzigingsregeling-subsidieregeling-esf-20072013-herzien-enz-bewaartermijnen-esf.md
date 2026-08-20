@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 juni 2013 tot wijziging van de Subsidieregeling ESF 2007–2013 (herzien), ESF EQUAL en de Subsidieregeling ESF-3 in verband met de bewaartermijnen betreffende ESF stukken en tot verstrekking van een tegemoetkoming voor bewaarkosten Subsidieregeling ESF-3"
+citeertitel: "Wijzigingsregeling Subsidieregeling ESF 2007–2013 (herzien), enz. (bewaartermijnen ESF stukken en verstrekking tegemoetkoming bewaarkosten Subsidieregeling ESF-3)"
 identifier: "BWBR0033609"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033609"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12300853"
-version_id: "20611232"
-internal_id: "C29489211"
-label_id: "12272064"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033609/2013-07-01/0"
-intitule_bron: "Stcrt.2013-17868"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-24"
-intitule_published: "2013-07-01"
-intitule_in_force: "2013-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-17868"
-original_signed_date: "2013-06-24"
-original_published_date: "2013-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-17868"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033609&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0033609&g=2013-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsregeling Subsidieregeling ESF 2007–2013 (herzien), enz. (bewaartermijnen ESF stukken en verstrekking tegemoetkoming bewaarkosten Subsidieregeling ESF-3)"
-signed_date: "2013-06-24"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0033609"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 juni 2013 tot wijziging van de Subsidieregeling ESF 2007–2013 (herzien), ESF EQUAL en de Subsidieregeling ESF-3 in verband met de bewaartermijnen betreffende ESF stukken en tot verstrekking van een tegemoetkoming voor bewaarkosten Subsidieregeling ESF-3
 
-Gelet op [artikel 3, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3);
+##### Artikel I. Wijziging Subsidieregeling ESF-3
 
-Besluit:
+*Wijzigt de Subsidieregeling ESF-3.*
 
-##### Artikel I. Wijziging [Subsidieregeling ESF-3](https://wetten.overheid.nl/jci1.3:c:BWBR0012598)
+##### Artikel II. Wijziging Subsidieregeling ESF-EQUAL 2004
 
-Wijzigt de Subsidieregeling ESF-3.
+*Wijzigt de Subsidieregeling ESF-EQUAL 2004.*
 
-##### Artikel II. Wijziging [Subsidieregeling ESF-EQUAL 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016640)
+##### Artikel III. Wijziging Subsidieregeling ESF 2007–2013 (herzien)
 
-Wijzigt de Subsidieregeling ESF-EQUAL 2004.
-
-##### Artikel III. Wijziging [Subsidieregeling ESF 2007–2013 (herzien)](https://wetten.overheid.nl/jci1.3:c:BWBR0026313)
-
-Wijzigt de Subsidieregeling ESF 2007–2013 (herzien).
+*Wijzigt de Subsidieregeling ESF 2007–2013 (herzien).*
 
 ##### Artikel IV. Tegemoetkoming
 
@@ -69,5 +43,3 @@ Wijzigt de Subsidieregeling ESF 2007–2013 (herzien).
 ##### Artikel V. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

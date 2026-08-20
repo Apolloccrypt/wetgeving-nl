@@ -1,122 +1,98 @@
 ---
 title: "Wet van 18 december 2013 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2014)"
+citeertitel: "Overige fiscale maatregelen 2014"
 identifier: "BWBR0034526"
-country: "nl"
-rank: "wet"
-publication_date: "2016-04-30"
-last_updated: "2016-04-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034526"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "12512733"
-version_id: "21062092"
-internal_id: "C30242381"
-label_id: "12483514"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034526/2016-04-30/0"
-intitule_bron: "Stb.2013-566"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-18"
-intitule_published: "2013-12-23"
-intitule_in_force: "2013-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2013-566"
-original_signed_date: "2013-12-18"
-original_published_date: "2013-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "33753"
-original_url_id: "stb-2013-566"
-entry_into_force_date: "2014-01-01"
-entry_into_force_dossier: "33753"
-jci_1_3: "jci1.3:c:BWBR0034526&z=2016-04-30&g=2016-04-30"
-jci_1_0: "1.0:c:BWBR0034526&g=2016-04-30"
-citeertitel_status: "officieel"
-short_title: "Overige fiscale maatregelen 2014"
-signed_date: "2013-12-18"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2016-04-30
+status: geldig
+toestand: 2016-04-30
+bron: "https://wetten.overheid.nl/BWBR0034526"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 18 december 2013 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2014)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel IV
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel V
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel VI
 
-Wijzigt de Registratiewet 1970.
+*Wijzigt de Registratiewet 1970.*
 
 ##### Artikel VIA
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.
+*Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.*
 
 ##### Artikel IX
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
+*Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.*
 
 ##### Artikel XI
 
-Wijzigt de Belastingwet BES.
+*Wijzigt de Belastingwet BES.*
 
 ##### Artikel XIA
 
-Wijzigt de Algemene douanewet.
+*Wijzigt de Algemene douanewet.*
 
 ##### Artikel XIB
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel XII
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XIII
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XIV
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XV
 
-Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
+*Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.*
 
 ##### Artikel XVI
 
-Wijzigt de Fiscale vereenvoudigingswet 2010.
+*Wijzigt de Fiscale vereenvoudigingswet 2010.*
 
 ##### Artikel XVII
 
-Wijzigt het Belastingplan 2012.
+*Wijzigt het Belastingplan 2012.*
 
 ##### Artikel XVIII
 
@@ -141,11 +117,3 @@ Wijzigt het Belastingplan 2012.
 ##### Artikel XX
 
 Deze wet wordt aangehaald als: Overige fiscale maatregelen 2014.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2014 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle Ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

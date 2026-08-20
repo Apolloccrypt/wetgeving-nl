@@ -1,38 +1,16 @@
 ---
 title: "Inschrijvingsvoorwaarden advocatuur 2013 krachtens de Wet op de Rechtsbijstand, versie per 1 september 2013"
 identifier: "BWBR0033825"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-08-30"
-last_updated: "2013-08-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033825"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "12346543"
-version_id: "20720752"
-internal_id: "C29764751"
-label_id: "12317734"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033825/2013-08-30/0"
-intitule_bron: "Stcrt.2013-24666"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-25"
-intitule_published: "2013-08-30"
-intitule_in_force: "2013-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-24666"
-original_signed_date: "2013-07-25"
-original_published_date: "2013-08-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-24666"
-entry_into_force_date: "2013-08-30"
-jci_1_3: "jci1.3:c:BWBR0033825&z=2013-08-30&g=2013-08-30"
-jci_1_0: "1.0:c:BWBR0033825&g=2013-08-30"
-citeertitel_status: "redactioneel"
-signed_date: "2013-07-25"
-entry_into_force: "2013-08-30"
+publicatiedatum: 2013-08-30
+laatste_update: 2013-08-30
+status: geldig
+toestand: 2013-08-30
+bron: "https://wetten.overheid.nl/BWBR0033825"
+opgehaald: 2026-08-20
 ---
+
 # Inschrijvingsvoorwaarden advocatuur 2013 krachtens de Wet op de Rechtsbijstand, versie per 1 september 2013
 
 ### Inleiding
@@ -51,17 +29,17 @@ Naast de algemene inschrijvingsvoorwaarden kent de Raad een afzonderlijke regeli
 
 Per 1 juli 2013 treden deskundigheidseisen in werking op het terrein van jeugdzaken. Deze eisen zullen gelden voor jeugdstrafzaken en voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg.
 
-##### Artikel 1. Kantoororganisatie, verhouding met de Raad ([artikel 15 lid 1 sub c Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 1. Kantoororganisatie, verhouding met de Raad (artikel 15 lid 1 sub c Wrb)
 
 - a. De advocaat dient een regeling te hebben getroffen ten aanzien van de organisatie van zijn kantoor in overeenstemming met de eisen van een goede praktijkuitoefening, waarin naar het oordeel van de Raad voor Rechtsbijstand voldoende voorzien is in:
 
-- –. telefonische bereikbaarheid tijdens kantooruren, inbegrepen het gebruik van een telefoonbeantwoorder en van een fax;
+   - – telefonische bereikbaarheid tijdens kantooruren, inbegrepen het gebruik van een telefoonbeantwoorder en van een fax;
 
-- –. alsmede de bereikbaarheid per e-mail. De advocaat geeft de Raad een persoonlijk e-mailadres op1Omdat de Raad voor Rechtsbijstand gebruik maakt van een webportaal voor het indienen van toevoegingsaanvragen en declaraties is een info@adres of een gezamenlijk kantooradres niet toegestaan.;
+   - – alsmede de bereikbaarheid per e-mail. De advocaat geeft de Raad een persoonlijk e-mailadres op1Omdat de Raad voor Rechtsbijstand gebruik maakt van een webportaal voor het indienen van toevoegingsaanvragen en declaraties is een info@adres of een gezamenlijk kantooradres niet toegestaan.;
 
-- –. de aanwezigheid tijdens kantooruren van de advocaat en/of van een secretariaat;
+   - – de aanwezigheid tijdens kantooruren van de advocaat en/of van een secretariaat;
 
-- –. vervanging van de advocaat bij ziekte en vakanties.
+   - – vervanging van de advocaat bij ziekte en vakanties.
 
 - b. Ten behoeve van de gegevens met betrekking tot het aanvragen en declareren van toevoegingen en piketten voorziet de advocaat in de naar het oordeel van de Raad noodzakelijke inrichting. De advocaat legt ten behoeve van het aanvragen van toevoegingen de persoonsgegevens van zijn cliënt en diens partner conform het identiteitsbewijs vast. Dit betreft de achternaam, voorletters, geboortedatum, GBA-adres, postadres en burgerservicenummer en het vreemdelingennummer. Dit voorschrift staat beredeneerbare uitzonderingen toe, waarin deze vastlegging onmogelijk is. Bijvoorbeeld daklozen en vreemdelingen die ongedocumenteerd zijn en gevallen van ruzie met de partner. Met het webportal Mijn RvR kunnen advocaten een aanvraag voor diverse toevoegingen en declaraties digitaal bij de Raad indienen. Per 1 januari 2014 wordt gebruikmaking van Mijn RvR voor alle advocaten verplicht. De advocaat richt zijn toevoegingsaanvragen en declaraties zorgvuldig en volledig in, met inachtneming van de regels die bij of krachtens de wet, of op basis van algemene voorschriften of specifieke aanwijzingen van de Raad zijn gesteld. De advocaat is open en duidelijk in de informatie die hij bij zijn aanvragen en declaraties verschaft. Hij vermeldt uit eigen beweging bijzonderheden die voor de beslissing van de Raad van belang zouden kunnen zijn. De advocaat vraagt geen toevoegingen aan voor zaken waarvoor geen toevoegingen kunnen worden verleend, bijvoorbeeld voor het treffen van betalingsregelingen, voor zaken waarvoor geen of volstrekt ontoereikende gronden bestaan of een wettelijke termijn is verstreken. Indien daar gezien het aantal zaken waarin dit toch is gebeurd een gerede aanleiding voor is, kan de Raad voor Rechtsbijstand de advocaat waarschuwen dat zijn inschrijving hiervoor kan worden doorgehaald.
 
@@ -75,13 +53,13 @@ Per 1 juli 2013 treden deskundigheidseisen in werking op het terrein van jeugdza
 
 - g. Advocaten worden voor maximaal drie roostergebieden uit onderstaande lijst ingeschreven.
 
-- 1. rooster strafpiket/ rooster Wots-overleveringspiket Amsterdam
+   - 1. rooster strafpiket/ rooster Wots-overleveringspiket Amsterdam
 
-- 2. rooster minderjarigenstrafpiket;
+   - 2. rooster minderjarigenstrafpiket;
 
-- 3. rooster psychiatrisch patiëntenpiket;
+   - 3. rooster psychiatrisch patiëntenpiket;
 
-- 4. rooster vreemdelingenpiket;
+   - 4. rooster vreemdelingenpiket;
 
 - h. Advocaten die staan ingeschreven op het beschikbaarheidsrooster aanmeldcentrum asielzoekers ("het AC-rooster") worden naast die inschrijving op het AC-rooster ingeschreven voor maximaal 2 piketten.
 
@@ -103,13 +81,13 @@ Per 1 juli 2013 treden deskundigheidseisen in werking op het terrein van jeugdza
 
 - q. De advocaat onthoudt zich van gedragingen die met de doelstelling van deze voorwaarden in strijd komen.
 
-##### Artikel 2. Entreetoets Nederlandse Orde van Advocaten en auditverklaring ([artikel 15 lid 1 sub c Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 2. Entreetoets Nederlandse Orde van Advocaten en auditverklaring (artikel 15 lid 1 sub c Wrb)
 
 - a. De advocaat die op of na 1 januari 2010 aan de Raad om inschrijving verzoekt of heeft verzocht of zijn advocatenkantoor of een samenwerkingsverband van meerdere advocaten verlaat om elders zelfstandig de praktijk voort te zetten moet, als de Nederlandse Orde van Advocaten (Orde) aan hem een nieuw kantoornummer heeft toegekend en van hem vraagt een entreetoets af te leggen, bij zijn inschrijvingsverzoek de Raad voor Rechtsbijstand in het bezit stellen van een verklaring van de Raad van Toezicht in het arrondissement waarin hij kantoor houdt. Uit deze verklaring moet blijken dat de advocaat de entreetoets van de Orde met goed gevolg heeft afgelegd.
 
 - b. Indien de advocaat zijn advocatenkantoor of een samenwerkingsverband van meerdere advocaten verlaat om bij een ander kantoor de praktijk voort te zetten en dat kantoor niet beschikt over een eerder afgegeven auditverklaring of een verklaring waaruit blijkt dat de entreetoets met goed gevolg is afgelegd, kan de Raad besluiten dat aan deze advocaat een verklaring kantoororganisatie wordt toegezonden. Deze wordt na invulling en ondertekening door de Raad getoetst. Indien de verstrekte gegevens akkoord worden bevonden, volgt registratie voor het gehele kantoor. De Raad kan inschrijving weigeren als de ingevulde verklaring kantoororganisatie daartoe reden geeft.
 
-##### Artikel 3. Naleven overeengekomen kwaliteitssystemen ([art. 15 lid 1 sub b Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 3. Naleven overeengekomen kwaliteitssystemen (art. 15 lid 1 sub b Wrb)
 
 - a. De advocaat dient bereid te zijn om de door de Orde en de Raad overeengekomen kwaliteitssystemen na te leven.
 
@@ -119,21 +97,21 @@ Per 1 juli 2013 treden deskundigheidseisen in werking op het terrein van jeugdza
 
 - d. Indien de advocaat niet meewerkt aan intercollegiale toetsing, peer review of aan door de Raad geëntameerd ambtshalve onderzoek naar de kwaliteit van de door hem verleende rechtsbijstand kan zijn inschrijving voor het rechtsgebied in kwestie worden doorgehaald. Dit laat de toetsing door de Orde op de naleving van haar gedragsregels en overige regelgeving van de Orde geheel onverlet.
 
-##### Artikel 4. Verslaglegging ([artikel 15 lid 1 sub d Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 4. Verslaglegging (artikel 15 lid 1 sub d Wrb)
 
 De advocaat dient desgevraagd informatie te verstrekken en verantwoording af te leggen over de afhandeling van zaken. Deze informatieplicht kan ook worden aangewend met betrekking tot de evaluatie van door de Raad gevoerd beleid. Desgevraagd dient de advocaat verslaglegging te doen over de wijze waarop aan de inschrijvingsvoorwaarden is voldaan.
 
-##### Artikel 5. Minimum/maximum ([artikel 15 lid 1 sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 5. Minimum/maximum (artikel 15 lid 1 sub a Wrb)
 
 - a. Om te voorkomen dat de kwaliteit van de rechtsbijstand in het gedrang komt, door onder meer het te snel en te veel aanvragen van toevoegingen of door het onvoldoende tijd en aandacht besteden aan zaken, worden aan een advocaat jaarlijks niet meer toevoegingen afgegeven dan het equivalent van 250 ‘eenheden’. Hieronder worden mede begrepen de ambtshalve toevoegingen. De Raad zal bij het beoordelen van het maximum-aantal toevoegingen op de volgende manier rekenen in ‘eenheden’ teneinde rekening te kunnen houden met de specifieke opbouw van de praktijk: Indien een lichte adviestoevoeging wordt omgezet in een reguliere toevoeging zal deze laatste bij de berekening van het maximum worden meegeteld op basis van het aantal punten waarmee de zaak volgens het Bvr 2000 wordt gewaardeerd. Indien een advocaat het maximum aantal toevoegingen heeft bereikt, zullen in het betreffende kalenderjaar geen toevoegingen meer aan hem worden afgegeven. De Deken van de Orde in het arrondissement waar de betreffende advocaat kantoor houdt, wordt geïnformeerd over het bereiken van de grens van het maximum aantal af te geven toevoegingen. De advocaat kan in het volgend kalenderjaar opnieuw om inschrijving verzoeken. Als hij in het jaar daarop opnieuw toevoeging verzoekt in zaken waarin in het vorig jaar vanwege het bereiken van het maximum aan hem toevoegingen zijn geweigerd, zal -indien de toevoeging alsnog wordt verleend- de ingangsdatum in het jaar van de nieuwe aanvraag liggen.
 
-- –. een afgegeven toevoeging van 6 punten of meer telt voor 1 eenheid,
+   - – een afgegeven toevoeging van 6 punten of meer telt voor 1 eenheid,
 
-- –. een afgegeven toevoeging van 4 of 5 punten telt voor 0,67 eenheid
+   - – een afgegeven toevoeging van 4 of 5 punten telt voor 0,67 eenheid
 
-- –. een afgegeven toevoeging van 3 punten telt voor 0,50 eenheid
+   - – een afgegeven toevoeging van 3 punten telt voor 0,50 eenheid
 
-- –. een lichte adviestoevoeging telt voor 0,33 eenheid2Asieltoevoegingen tellen voor 1 eenheid..
+   - – een lichte adviestoevoeging telt voor 0,33 eenheid2Asieltoevoegingen tellen voor 1 eenheid..
 
 - c. De Raad kan een advocaat die het maximum binnen een half jaar heeft bereikt -na hem voorafgaand te hebben gehoord- voor goed van de verlening van gesubsidieerde rechtsbijstand uitsluiten. De advocaat wordt tevens van de AC- en de piketroosters verwijderd. Het is niet toegestaan de gevolgen van uitschrijving te ontgaan door andere advocaten toevoegingen te laten aanvragen.
 
@@ -143,7 +121,7 @@ De advocaat dient desgevraagd informatie te verstrekken en verantwoording af te 
 
 - f. In afwijking van artikel 5 onder a geldt een afwijkend en lager maximum aantal toevoegingseenheden voor advocaten die in de twee jaren voorafgaand aan het huidig jaar van inschrijving gemiddeld meer dan 2000 punten hebben gedeclareerd. Dit lagere aantal eenheden wordt bepaald volgens de volgende formule: (2000 punten : het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren) x 250. Voor de berekening van dit lager maximum voor 2013 wordt het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren berekend over de periode 1 september 2010 tot 1 september 2012. Voor de berekening van dit lager maximum voor 2014 wordt het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren berekend over de periode 1 januari 2012 tot 1 januari 2014. Voor de berekening van het aantal punten tellen ook de punten voor toeslagen en extra uren mee. Indien een lager aantal eenheden geldt, wordt dit lagere aantal aan het begin van het kalenderjaar aan de advocaat meegedeeld. De Deken van de Orde in het arrondissement waar de betreffende advocaat kantoor houdt, wordt geïnformeerd over het bereiken van de grens van 2000 gedeclareerde punten.
 
-##### Artikel 6. Deskundigheid op bepaalde rechtsterreinen ([art. 15 lid 1 sub b Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 6. Deskundigheid op bepaalde rechtsterreinen (art. 15 lid 1 sub b Wrb)
 
 De Raad stelt ten aanzien van een zevental rechtsgebieden bijzondere deskundigheidsvereisten in. Het betreft hier rechtsgebieden die ofwel specialistische kennis vereisen, ofwel vereisen dat de advocaat zich verdiept in en beperkt tot een aantal samenhangende rechtsgebieden. De inschrijving op deze rechtsgebieden moet worden aangevraagd door middel van een afzonderlijk formulier. De gestelde vereisten gelden voor de toelating dan wel de voortzetting van de inschrijving. Als de advocaat niet is ingeschreven voor het betreffende rechtsgebied, is het hem niet toegestaan zaken op het betreffende rechtsgebied te behandelen of daarvoor toevoeging te verzoeken.
 
@@ -155,25 +133,25 @@ In 2014 voert de Raad een toets uit op de specialisatiegebieden asiel- en vlucht
 
 ##### Artikel 6a. Deskundigheidsvereisten voor de rechtsbijstandverlening in strafzaken
 
-**De vereisten voor het verstrekken van toevoegingen in strafzaken zijn:**
+*De vereisten voor het verstrekken van toevoegingen in strafzaken zijn:*
 
 - 1. het met succes voltooid hebben van:
 
-- a. het onderdeel strafrecht in de beroepsopleiding oude stijl van de Orde (beroepsopleiding van vóór september 2013) of;
+   - a. het onderdeel strafrecht in de beroepsopleiding oude stijl van de Orde (beroepsopleiding van vóór september 2013) of;
 
-- b. De minor strafrecht van de beroepsopleiding nieuwe stijl van de Orde (beroepsopleiding vanaf september 2013)3Hieraan wordt voldaan indien de afrondende toets voor de minor Strafrecht of de major Strafrecht van de beroepsopleiding nieuwe stijl van de Orde met goed gevolg is afgelegd. of;
+   - b. De minor strafrecht van de beroepsopleiding nieuwe stijl van de Orde (beroepsopleiding vanaf september 2013)3Hieraan wordt voldaan indien de afrondende toets voor de minor Strafrecht of de major Strafrecht van de beroepsopleiding nieuwe stijl van de Orde met goed gevolg is afgelegd. of;
 
-- c. Toelating als RAIO
+   - c. Toelating als RAIO
 
 - 2. onder begeleiding van een reeds op het terrein van het strafrecht ingeschreven rechtsbijstandverlener behandeld hebben van 5 strafzaken.
 
-**De vereisten voor de voortgezette inschrijving voor strafzaken zijn:**
+*De vereisten voor de voortgezette inschrijving voor strafzaken zijn:*
 
 - 1. de behandeling van tenminste tien zaken op dit rechtsgebied in het afgelopen jaar; de Raad gaat hierbij uit van toevoegingen. De advocaat kan desgewenst aantonen dat hij dit aantal zaken heeft gedaan door ook betalende zaken aan te geven; en
 
 - 2. het desgevraagd kunnen overleggen van certificaten van het behalen van tenminste 12 studiepunten per 2 jaar op het terrein van strafrecht in het kader van de permanente beroepsopleiding. Dit opleidingsvereiste geldt niet voor stagiaires gedurende de looptijd van hun stage.
 
-**De extra vereisten voor deelname aan het strafpiket zijn:**
+*De extra vereisten voor deelname aan het strafpiket zijn:*
 
 Voor de toelating tot het strafpiket gelden de bovengenoemde algemene voorwaarden alsmede:
 
@@ -187,13 +165,13 @@ De Raad kan in uitzonderlijke gevallen afwijken van het vereiste dat het onderde
 
 ##### Artikel 6b. Deskundigheidsvereisten voor de rechtsbijstandverlening in jeugdstrafzaken en bij verzoeken voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg (in werking treding: 1 juli 2013)
 
-**De vereisten voor de verstrekking van toevoegingen voor jeugdstrafzaken en voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg zijn:**
+*De vereisten voor de verstrekking van toevoegingen voor jeugdstrafzaken en voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg zijn:*
 
-- –. toelating op grond van de inschrijvingsvoorwaarden die zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033825&bijlage=5&z=2013-08-30&g=2013-08-30).
+- – toelating op grond van de inschrijvingsvoorwaarden die zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033825&bijlage=5&z=2013-08-30&g=2013-08-30).
 
 ##### Artikel 6c. Deskundigheidsvereisten voor de rechtsbijstandverlening aan psychiatrische patiënten
 
-**De vereisten voor toevoegingen op het rechtsgebied psychiatrisch patiëntenrecht zijn:**
+*De vereisten voor toevoegingen op het rechtsgebied psychiatrisch patiëntenrecht zijn:*
 
 - 1. het voltooid hebben van de stage, en
 
@@ -201,7 +179,7 @@ De Raad kan in uitzonderlijke gevallen afwijken van het vereiste dat het onderde
 
 - 3. onder begeleiding van een reeds op het terrein van het psychiatrische patiëntenrecht ingeschreven rechtsbijstandverlener behandeld hebben van 5 zaken, waarvan tenminste 1 maal een inbewaringstelling en 1 maal een rechterlijke machtiging.
 
-**De vereisten voor de voortgezette inschrijving op het rechtsgebied psychiatrisch patiëntenrecht zijn:**
+*De vereisten voor de voortgezette inschrijving op het rechtsgebied psychiatrisch patiëntenrecht zijn:*
 
 - 1. de behandeling van tenminste 15 zaken in het afgelopen jaar op basis van een toevoeging7Met betrekking tot het vereiste onder punt 1 geldt de mogelijkheid van ontheffing indien het zaaksaanbod in het gebied waar de regeling van toepassing is te gering is om aan de voorwaarde te voldoen., en
 
@@ -213,7 +191,7 @@ De Raad kan in uitzonderlijke gevallen afwijken van het vereiste dat het onderde
 
 - 5. verplichte medewerking aan peer review, onder meer door het invullen van voorleggers en het inzenden van dossiers.
 
-**De extra vereisten voor deelname aan het psychiatrische patiëntenpiket zijn:**
+*De extra vereisten voor deelname aan het psychiatrische patiëntenpiket zijn:*
 
 - 1. dat wordt voldaan aan de vereisten voor de toelating en de voortgezette inschrijving, en
 
@@ -223,7 +201,7 @@ In verband met het noodzakelijke onderhouden van de ervaring wordt waar nodig ee
 
 ##### Artikel 6d. Deskundigheidsvereisten voor de verstrekking van toevoegingen in vreemdelingenzaken
 
-**De vereisten voor de verstrekking van toevoegingen in vreemdelingenzaken zijn:**
+*De vereisten voor de verstrekking van toevoegingen in vreemdelingenzaken zijn:*
 
 - 1. toelating tot het verlenen van rechtsbijstand op grond van de Inschrijvingsvoorwaarden Vreemdelingenrecht dan wel
 
@@ -233,15 +211,15 @@ In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033825&bijlage=1&z=2013-
 
 ##### Artikel 6e. Deskundigheidsvereisten voor de verstrekking van toevoegingen in asiel- en vluchtelingenzaken
 
-**De vereisten voor de verstrekking van toevoegingen in asiel- en vluchtelingenzaken zijn:**
+*De vereisten voor de verstrekking van toevoegingen in asiel- en vluchtelingenzaken zijn:*
 
-- –. toelating tot het verlenen van rechtsbijstand op grond van de Inschrijvingsvoorwaarden voor Asiel- en vluchtelingenrecht.
+- – toelating tot het verlenen van rechtsbijstand op grond van de Inschrijvingsvoorwaarden voor Asiel- en vluchtelingenrecht.
 
 In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033825&bijlage=2&z=2013-08-30&g=2013-08-30) zijn de Inschrijvingsvoorwaarden voor het Asiel- en vluchtelingenecht opgenomen.
 
 ##### Artikel 6f. Deskundigheidsvereisten voor de verstrekking van toevoegingen in zaken betreffende internationale kinderontvoering
 
-**De vereisten voor de verstrekking van toevoegingen in kinderontvoeringszaken zijn:**
+*De vereisten voor de verstrekking van toevoegingen in kinderontvoeringszaken zijn:*
 
 - 1. Succesvol hebben deelgenomen aan een cursus op het gebied van internationale kinderontvoering;
 
@@ -253,246 +231,40 @@ In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033825&bijlage=2&z=2013-
 
 ##### Artikel 6g. Deskundigheidsvereisten voor de verstrekking van toevoegingen in zaken betreffende het Personen- en familierecht
 
-**De vereisten voor de verstrekking van toevoegingen op het terrein van het personen- en familierecht zijn:**
+*De vereisten voor de verstrekking van toevoegingen op het terrein van het personen- en familierecht zijn:*
 
-- –. toelating tot het verlenen van rechtsbijstand op grond van de Inschrijvingsvoorwaarden voor het Personen- en Familierecht.
+- – toelating tot het verlenen van rechtsbijstand op grond van de Inschrijvingsvoorwaarden voor het Personen- en Familierecht.
 
 In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033825&bijlage=3&z=2013-08-30&g=2013-08-30) zijn de Inschrijvingsvoorwaarden voor het Personen- en Familierecht opgenomen.
 
-##### Artikel 7. Voorschotten ([art. 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) en [36 Bvr 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=36))
+##### Artikel 7. Voorschotten (art. 35 en 36 Bvr 2000)
 
 De advocaat ontvangt het op basis van het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) verstrekte voorschot persoonlijk en is persoonlijk aansprakelijk voor de onverwijlde terugbetaling c.q. verrekening met de vergoedingen in zaken op basis waarvan het voorschot is berekend, in geval de inschrijving wordt doorgehaald. De advocaat die in loondienst heeft gewerkt, kan zich er niet op beroepen dat voorschotten aan zijn patroon/kantoor zijn uitbetaald.
 
-##### Artikel 8. Doorhaling inschrijving ([art. 17 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=17))
+##### Artikel 8. Doorhaling inschrijving (art. 17 Wrb)
 
 1. De inschrijving van de advocaat kan door de Raad worden doorgehaald:
 
-- a). op eigen verzoek;
+- a) op eigen verzoek;
 
-- b). wanneer hij de hoedanigheid van advocaat verliest;
+- b) wanneer hij de hoedanigheid van advocaat verliest;
 
-- c). gedurende de tijd dat hij op grond van een tuchtrechtelijke beslissing of anderszins onherroepelijk is geschorst in de uitoefening van zijn beroep;
+- c) gedurende de tijd dat hij op grond van een tuchtrechtelijke beslissing of anderszins onherroepelijk is geschorst in de uitoefening van zijn beroep;
 
-- d). indien de advocaat niet voldaan heeft dan wel niet langer voldoet aan de voor de inschrijving gestelde voorwaarden;
+- d) indien de advocaat niet voldaan heeft dan wel niet langer voldoet aan de voor de inschrijving gestelde voorwaarden;
 
-- e). indien naar het oordeel van de Raad genoegzaam is gebleken dat de rechtsbijstandverlening door de advocaat niet voldoet aan redelijkerwijs te stellen eisen van doelmatigheid of zorgvuldigheid;
+- e) indien naar het oordeel van de Raad genoegzaam is gebleken dat de rechtsbijstandverlening door de advocaat niet voldoet aan redelijkerwijs te stellen eisen van doelmatigheid of zorgvuldigheid;
 
-- f). indien naar het oordeel van de R aad genoegzaam is gebleken dat de advocaat herhaaldelijk onjuiste informatie heeft verstrekt ten behoeve van het vaststellen van de vergoeding;
+- f) indien naar het oordeel van de R aad genoegzaam is gebleken dat de advocaat herhaaldelijk onjuiste informatie heeft verstrekt ten behoeve van het vaststellen van de vergoeding;
 
-- g). indien de advocaat niet voldoet aan de eisen gesteld aan de wijze van indiening van een aanvraag om een toevoeging;
+- g) indien de advocaat niet voldoet aan de eisen gesteld aan de wijze van indiening van een aanvraag om een toevoeging;
 
-- h). indien de advocaat niet voldoet aan de eisen gesteld aan de inrichting en de
+- h) indien de advocaat niet voldoet aan de eisen gesteld aan de inrichting en de
 
-- i). wijze van indiening van een aanvraag om vaststelling van de vergoeding.
+- i) wijze van indiening van een aanvraag om vaststelling van de vergoeding.
 
 2. Doorhaling van de inschrijving voor een specifiek rechtsgebied kan plaatsvinden indien de advocaat niet langer voldoet aan de bij deze regeling gestelde (deskundigheids)vereisten.
 
 3. De Deken van de Orde in het arrondissement waar de betreffende advocaat kantoor houdt, wordt geïnformeerd over een uitschrijving, anders dan op eigen verzoek.
 
 4. De Raad kan nadat de inschrijving van een advocaat is doorgehaald in de gevallen die zijn beschreven in het eerste of tweede lid herinschrijving weigeren of aan herinschrijving bijzondere voorwaarden verbinden.
-
-## Bijlage 1
-
-### Vreemdelingenrecht, vreemdelingenpiket en vreemdelingenbewaringszaken
-
-### 1. Onvoorwaardelijke inschrijving vreemdelingenrecht
-
-De advocaat die wil worden ingeschreven om rechtsbijstand te verlenen op het terrein van het vreemdelingenrecht (niet zijnde asielrechtsbijstand) dient te voldoen aan de algemene inschrijvingsvoorwaarden en bovendien dient hij terzake:
-
-ofwel:
-
-ofwel:
-
-De advocaat dient verder:
-
-### 2. Voorwaardelijke inschrijving vreemdelingenrecht
-
-De advocaat die voorwaardelijk wil worden ingeschreven om rechtsbijstand te verlenen op het terrein van het vreemdelingenrecht (niet zijnde asielrechtsbijstand) dient terzake:
-
-Indien voldaan wordt aan de gestelde voorwaarden kan de Raad overgaan tot een voorwaardelijke inschrijving voor een periode van 1 jaar.
-
-Na afloop van de periode van voorwaardelijke inschrijving gaat de Raad uitsluitend tot onvoorwaardelijke inschrijving over indien uit rapportage van de advocaat en diens begeleider is gebleken dat aan de hierboven onder 1 genoemde voorwaarden en de bij de voorwaardelijke inschrijving gestelde voorwaarden wordt voldaan.
-
-### 3. Voorwaarden voor de deelname aan het vreemdelingenpiket en voor de behandeling van toevoegingen in vreemdelingenbewaringszaken
-
-De advocaat die wil deelnemen aan het vreemdelingenpiket en/of bewaringszaken wil behandelen op basis van een toevoeging dient terzake:
-
-### 4. Voorwaarden voortzetting inschrijving vreemdelingenrecht en (indien van toepassing) piket/vreemdelingenbewaring
-
-Om ingeschreven te blijven dient een (voorwaardelijk) ingeschreven advocaat in ieder jaar van inschrijving:
-
-Indien niet aan deze voorwaarden voldaan is, zal de Raad de rechtsbijstandverlener van verdere deelneming aan de (piket)regeling c.q. als deskundige op het terrein uitschrijven. Uitsluiting dan wel uitschrijving geschiedt op basis van [artikel 17 lid 2 Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=17).
-
-### 5. Afwijkingsbevoegdheid
-
-De Raad kan, na zonodig daartoe advies te hebben ingewonnen van Landelijke Adviescommissie Rechtsbijstand Asiel en Vreemdelingenbewaring (LARAV), in uitzonderlijke gevallen afwijken van de hierboven onder 1, 2, 3 en 4 genoemde voorwaarden. Hierbij kan bijvoorbeeld worden gedacht aan afwijking van de ervaringseis. Een dergelijke afwijking kan geboden zijn bij een drastische afname van de vraag.
-
-### 6. Klachtencommissie Rechtsbijstand Asiel en Vreemdelingenbewaring
-
-De Raad heeft op grond van [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8) de Klachtencommissie Rechtsbijstand Asiel en Vreemdelingenbewaring ingesteld. Deze klachtencommissie adviseert, hetzij naar aanleiding van een klacht, hetzij op eigen initiatief, of op verzoek van de Raad, de Raad over maatregelen te nemen tegen advocaten die rechtsbijstand hebben geboden op het terrein van het asiel- en vluchtelingenrecht en het vreemdelingenrecht, vreemdelingenpiket en vreemdelingenbewaring.
-
-In een afzonderlijk reglement zijn de werkzaamheden van en de behandeling van klachten door de klachtencommissie geregeld. De ingeschreven advocaat is verplicht zich te onderwerpen aan het genoemde reglement.
-
-### 7. Doorhaling inschrijving
-
-De Raad kan – ambtshalve of naar aanleiding van een schriftelijke klacht – een toegelaten advocaat een waarschuwing geven of al dan niet tijdelijk van de verdere verlening van rechtsbijstand op het terrein van het vreemdelingenrecht, vreemdelingenbewaring of het vreemdelingenpiket uitsluiten dan wel andere maatregelen treffen, indien uit concrete feiten of omstandigheden is gebleken van enig handelen of nalaten in strijd met een zorgvuldige en doelmatige rechtbijstandsverlening aan vreemdelingen. Deze maatregelen gaan gepaard met melding aan de Deken en andere betrokkenen. Het advies daartoe wordt aan de Raad uitgebracht door de Klachtencommissie Rechtsbijstand Asiel en Vreemdelingenbewaring.
-
-## Bijlage 2
-
-### Asiel- en Vluchtelingenrecht
-
-### 1. Onvoorwaardelijke inschrijving:
-
-De advocaat die wil worden ingeschreven om rechtsbijstand te verlenen aan asielzoekers dient te voldoen aan de algemene inschrijvingsvoorwaarden en bovendien dient hij terzake:
-
-ofwel:
-
-ofwel:
-
-De advocaat dient verder:
-
-### 2. Voorwaardelijke inschrijving:
-
-De advocaat die voor het eerste jaar voorwaardelijk wil worden ingeschreven om rechtsbijstand te verlenen aan asielzoekers dient ter zake:
-
-Indien voldaan wordt aan de gestelde voorwaarden kan de Raad overgaan tot een voorwaardelijke inschrijving voor een periode van 1 jaar. Deze termijn kan in bijzondere gevallen worden verlengd met een door de Raad te bepalen termijn.
-
-Na afloop van de periode van voorwaardelijke inschrijving gaat de Raad uitsluitend tot onvoorwaardelijke inschrijving over indien uit rapportage van de advocaat en diens begeleider is gebleken dat aan de voorwaarden van lid 1 en de bij de voorwaardelijke inschrijving gestelde voorwaarden wordt voldaan.
-
-### 3. Deelname aan het rooster in het AC/Algemene Asielprocedure
-
-Voor deelname aan het rooster op het AC dient de advocaat terzake:
-
-De Raad kan nadere regels stellen met betrekking tot de frequentie van deelname, de flexibele inzet, de buitenressortelijke inzet en de beschikbaarheid voor een schaduwrooster.
-
-Indien een advocaat vóór 1 november op enig moment in het kalenderjaar de grens bereikt van 200 eenheden wordt hij van het rooster op het AC verwijderd. Voor de definitie van het begrip eenheid wordt verwezen naar [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033825&artikel=5&z=2013-08-30&g=2013-08-30).
-
-De advocaat kan door de Raad bij wijze van maatregel van deelneming aan de spreekuurvoorziening op het AC uitgesloten worden. De deelname eindigt eveneens indien de advocaat niet langer aan de voorwaarden voor de verstrekking van toevoegingen op het terrein van het asiel- en vluchtelingenrecht voldoet.
-
-### 4. Voortzetting van de inschrijving
-
-Om ingeschreven te blijven dient een (voorwaardelijk) ingeschreven advocaat in ieder jaar van inschrijving:
-
-Indien niet aan deze voorwaarden voldaan is, zal de Raad de rechtsbijstandverlener als deskundige op het terrein uitschrijven. Uitsluiting dan wel uitschrijving geschiedt op basis van [artikel 17 lid 2 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=17).
-
-### 5. Afwijkingsbevoegdheid
-
-De Raad kan, na zonodig daartoe advies te hebben ingewonnen van de Landelijke Adviescommissie Rechtsbijstand Asiel en Vreemdelingenbewaring (LARAV), in uitzonderlijke gevallen afwijken van de hierboven onder 1, 2, 3 en 4 genoemde voorwaarden. Hierbij kan bijvoorbeeld worden gedacht aan afwijking van de ervaringseis. Een dergelijke afwijking kan geboden zijn bij een drastische afname van de vraag.
-
-### 6. Overdracht dossiers
-
-Indien tengevolge van wijziging of beëindiging van de praktijk overdracht van dossiers in asiel- en vluchtelingenzaken aan een andere rechtsbijstandverlener plaats moet vinden, legt de advocaat de wijze waarop deze overdracht is geregeld ter goedkeuring aan de Raad voor.
-
-### 7. Klachtencommissie Rechtsbijstand Asiel en Vreemdelingenbewaring
-
-De Raad heeft op grond van [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8) de Klachtencommissie Rechtsbijstand Asiel en Vreemdelingenbewaring ingesteld. Deze klachtencommissie adviseert, hetzij naar aanleiding van een klacht, hetzij op eigen initiatief, of op verzoek van de Raad, de Raad over maatregelen te nemen tegen advocaten die rechtsbijstand hebben geboden op het terrein van het asiel- en vluchtelingenrecht en het vreemdelingenrecht, vreemdelingenpiket en vreemdelingenbewaring.
-
-In een afzonderlijk reglement zijn de werkzaamheden van en de behandeling van klachten door de klachtencommissie geregeld. De ingeschreven advocaat is verplicht zich te onderwerpen aan het genoemde reglement.
-
-### 8. Doorhaling inschrijving
-
-De Raad kan – ambtshalve of naar aanleiding van een schriftelijke klacht – een toegelaten advocaat een waarschuwing geven of al dan niet tijdelijk van de verdere verlening van rechtsbijstand op het terrein van het asiel- en vluchtelingenrecht uitsluiten dan wel andere maatregelen treffen, indien uit concrete feiten of omstandigheden is gebleken van enig handelen of nalaten in strijd met een zorgvuldige en doelmatige asiel- en vluchtelingenrechtbijstandsverlening. Deze maatregelen gaan gepaard met melding aan de Deken en andere betrokkenen. Het advies daartoe wordt aan de Raad uitgebracht door de Klachtencommissie Rechtsbijstand Asiel en Vreemdelingenbewaring.
-
-### 9. Voorwaarden voor deelneming van advocaten aan het door de Raad opgesteld rooster voor de verlening van rechtsbijstand in bewaringszaken van asielzoekers en andere personen die aan de grens zijn geweigerd16Dit rooster is opgesteld om rechtsbijstand te kunnen waarborgen bij bewaringszaken ex. artikel 6 Vreemdelingenwet.
-
-Opgemelde voorwaarden zijn:
-
-De advocaat kan door de Raad bij wijze van maatregel van deelname aan het rooster worden uitgesloten. De deelneming eindigt eveneens indien de advocaat niet langer aan de voorwaarden voor de verstrekking van toevoegingen op het terrein van het asiel- en vluchtelingenrecht voldoet.
-
-## Bijlage 2a
-
-### Distributieregeling AC
-
-### 1. Landelijke roosters.
-
-De roosters voor de AC’s worden per half jaar gemaakt. Uitgangspunt is dat roosters 10 weken voor ingang verzonden worden. Tot de datum van het versturen van de inventarisatieformulieren kunnen nieuwe advocaten zich aanmelden. Hierna sluit de termijn en worden nieuwe aanmeldingen in het bestand voor het volgende half jaar gezet.
-
-De Raad geeft in de begeleidende brief bij de inventarisatie van roosterwensen voor de komende periode altijd de verwachte productieprognose in de betreffende periode per AC aan.
-
-### 2. Opstellen roosters.
-
-### 3. Vervanging.
-
-### 4. Geen te behandelen zaken/afbellen.
-
-### 5. Spreekuur.
-
-### 6. Reiskosten.
-
-a. Reist de advocaat met toestemming van de Raad voor Rechtsbijstand naar de vreemdeling, dan wordt een vergoeding verstrekt volgens [art 24 Besluit vergoedingen rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=24). Reist de advocaat één maal voor meerdere zaken naar de A.A.-locatie (AC) dan zal slechts één maal een vergoeding volgens genoemd artikel 24 worden verstrekt. De administratie van de Raad in het AC houdt hier een registratie van bij.
-
-### 7. Toelating nieuwe advocaten op het AC Rooster.
-
-### 8. Voorwaarden waaronder een asieladvocaat als begeleider kan functioneren.
-
-### 9. Begeleiding.
-
-### 10. Verklaring van geen bezwaar.
-
-## Bijlage 3
-
-### Personen- en Familierecht
-
-(uitgezonderd de ondertoezichtstellingen, voornaamswijzigingen en onder curatele/bewindstellingen)
-
-Onderstaande inschrijvingsvoorwaarden op het terrein van het Personen- en familierecht treden op 1 juli 2012 in werking.
-
-De advocaat die voorwaardelijk ingeschreven wil worden op het terrein van het Personen- en familierecht dient te voldoen aan de algemene inschrijvingsvoorwaarden en bovendien aan de volgende specifieke vereisten:
-
-Verder dient de advocaat:
-
-Na voorwaardelijke inschrijving kan de advocaat onvoorwaardelijk worden ingeschreven als hij definitief aan de voorwaarden onder a. of. b. en c. en d. heeft voldaan.
-
-Constateert de Raad al bij het eerste verzoek om inschrijving dat de advocaat aan de onder a. of b. en c. en d. genoemde vereisten heeft voldaan, dan wordt hij direct onvoorwaardelijk in geschreven.
-
-De advocaat dient vanaf het moment van onvoorwaardelijke inschrijving:
-
-Afbakening:
-
-Als het vereiste aantal toevoegingen niet gehaald wordt, kunnen desgewenst in de telling ook zaken die louter betalend zijn gedaan worden betrokken.
-
-## Bijlage 4
-
-### Gedragscode voor advocaten in het Personen- en Familierecht
-
-Het bleek wenselijk om voor advocaten werkzaam in de personen- en familierechtspraktijk de al bestaande gedragsregels nader uit te werken, waarbij de effectuering hiervan gestimuleerd kan worden door de cliënt te melden dat deze regels gehanteerd worden door bij de opdrachtbevestiging hiervan een uitdraai te verstrekken. Dit laat overigens de gelding van de Gedragsregels 1992 en de [Verordening op de vakbekwaamheid](https://wetten.overheid.nl/jci1.3:c:BWBR0026967) onverlet.
-
-De Orde heeft, op grond van de te beschermen onafhankelijke positie van de advocaat, aangegeven voor te staan dat deze gedragscode niet het karakter van een verplichting in de vorm van een inschrijvingsvoorwaarde heeft. De Orde besluit in het kader van de herziening van de regelgeving, of en welke elementen uit de gedragscode voor personen- en familierecht gecombineerd kunnen worden met de gedragsregels van de Orde. De Raad zal daar dan rekening mee houden en de noodzaak van een eigen code heroverwegen.
-
-### Gedragscode voor advocaten in het personen- en familierecht
-
-## Bijlage 5
-
-### Voorwaarden voor toevoegingen in jeugdstrafzaken en bij verzoeken voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg
-
-### Toelichting
-
-De rechtspraak wil in het kader van effectieve(re) rechtspraak meer samenhang aanbrengen in de behandeling en afdoening van jeugdstrafzaken en civiele jeugdzaken. Daartoe worden onder meer binnen de rechtbanken jeugdteams geformeerd en vaker combi-zittingen georganiseerd. Het komt steeds vaker voor dat in het jeugdrecht straf- en civiele aspecten met elkaar samenhangen c.q. naast elkaar spelen.
-
-De Raad voor Rechtsbijstand, de Orde en de rechtspraak achten het van groot belang dat de rechtsbijstand in zaken waarin minderjarigen zijn betrokken, wordt verleend door advocaten die voldoende kennis en ervaring in beide rechtsgebieden hebben. Het gaat hierbij specifiek om jeugdstrafzaken en machtigingen uithuisplaatsing in een accommodatie voor gesloten jeugdzorg.
-
-Teneinde een minimum kwaliteitsniveau te waarborgen heeft de Raad voor Rechtsbijstand na overleg met de Orde en de rechtspraak na te noemen criteria vastgesteld, waaraan een advocaat dient te voldoen om door de rechtbank te kunnen worden toegevoegd in jeugdstrafzaken danwel uithuisplaatsingen in een accommodatie voor gesloten jeugdzorg. De na te noemen criteria gelden tevens voor de toelating op een jeugdpiketrooster.
-
-Een toe te laten advocaat moet minimaal drie jaar relevante beroepservaring hebben en de beroepsopleiding advocatuur oude stijl van de Orde of leerjaar 1 van de Beroepsopleiding Advocaten nieuwe stijl van de Orde, met minor of major strafrecht met goed gevolg afgerond hebben.
-
-Deze ervaringseis wordt gesteld om ervoor te zorgen dat advocaten die jeugdigen bijstaan over ervaring beschikken.
-
-Onder relevante beroepservaring wordt verstaan: drie jaar werkervaring als beëdigd advocaat. Een kortere werkervaring als advocaat volstaat, mits die gecombineerd wordt met relevante werkervaring elders. Bijvoorbeeld in een beroep bij het Openbaar Ministerie, de Rechterlijke Macht, de Politie of de Jeugdzorg.
-
-Advocaten die voor het begin van hun advocatenstage elders in een relevante werkkring hebben gewerkt, kunnen dus na voltooiing van de beroepsopleiding Oude Stijl of leerjaar 1 van de beroepsopleiding Nieuwe Stijl instromen wanneer zij, gecombineerd met andere relevante werkervaring, aan de driejaars-eis hebben voldaan. Zij moeten uiteraard ook de overige voorwaarden (opleidingsvereisten, meelopen) hebben nageleefd.
-
-Een eenmaal ingeschreven advocaat is overigens niet verplicht om ook aan het jeugdpiketrooster deel te gaan nemen.
-
-De landelijke lijst met advocaten wordt beheerd door de Raad voor Rechtsbijstand; de Raad voor Rechtsbijstand zal de rechtbanken periodiek een actuele lijst doen toekomen.
-
-De inschrijvingsvoorwaarden treden op 1 juli 2013 in werking. Advocaten hebben tot 1 juli 2013 de tijd om te voldoen aan de inschrijvingsvoorwaarden om opgenomen te worden op de lijst. De advocaat die per 1 juli 2013 toegelaten wil worden tot de lijst dient een schriftelijke aanvraag in bij de Raad voor Rechtsbijstand.
-
-In de tweede helft van 2015 wordt door de Raad voor Rechtsbijstand getoetst of de advocaten die tot de lijst zijn toegelaten het aantal toevoegingszaken en het aantal opleidingspunten hebben behaald dat volgens de artikelen 7, 8 en 9 nodig is om op de lijst te kunnen blijven staan. Dan zal ook een evaluatie plaatsvinden van de gestelde vereisten door vertegenwoordigers van de Raad voor Rechtsbijstand, de Orde en de rechtspraak.
-
-Om op de lijst te staan, dienen advocaten aan de volgende criteria te voldoen:
-
-### Inschrijvingsvoorwaarden om op de lijst opgenomen te worden:
-
-### Inschrijvingsvoorwaarden om op de lijst opgenomen te blijven:
-
-Aldus vastgesteld te Utrecht op 25 juli 2013

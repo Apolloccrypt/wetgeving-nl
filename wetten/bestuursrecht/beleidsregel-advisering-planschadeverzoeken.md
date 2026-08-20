@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 16 augustus 2013, nr. WJZ/13140027, houdende de vaststelling van een procedure voor het aanwijzen van een adviseur en de wijze waarop deze tot een advies komt inzake een tegemoetkoming in de planschade aangaande energie-infrastructuurprojecten (Beleidsregel advisering planschadeverzoeken)"
+citeertitel: "Beleidsregel advisering planschadeverzoeken"
 identifier: "BWBR0033772"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-08-22"
-last_updated: "2013-08-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033772"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "12336963"
-version_id: "20698752"
-internal_id: "C29732451"
-label_id: "12308044"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033772/2013-08-22/0"
-intitule_bron: "Stcrt.2013-23743"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-08-16"
-intitule_published: "2013-08-21"
-intitule_in_force: "2013-08-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-23743"
-original_signed_date: "2013-08-16"
-original_published_date: "2013-08-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-23743"
-entry_into_force_date: "2013-08-22"
-jci_1_3: "jci1.3:c:BWBR0033772&z=2013-08-22&g=2013-08-22"
-jci_1_0: "1.0:c:BWBR0033772&g=2013-08-22"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel advisering planschadeverzoeken"
-signed_date: "2013-08-16"
-entry_into_force: "2013-08-22"
+publicatiedatum: 2013-08-22
+laatste_update: 2013-08-22
+status: geldig
+toestand: 2013-08-22
+bron: "https://wetten.overheid.nl/BWBR0033772"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Economische Zaken van 16 augustus 2013, nr. WJZ/13140027, houdende de vaststelling van een procedure voor het aanwijzen van een adviseur en de wijze waarop deze tot een advies komt inzake een tegemoetkoming in de planschade aangaande energie-infrastructuurprojecten (Beleidsregel advisering planschadeverzoeken)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- –. **aanvrager:** degene die een aanvraag indient om een tegemoetkoming in de schade als bedoeld in [artikel 6.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1);
+- – *aanvrager:* degene die een aanvraag indient om een tegemoetkoming in de schade als bedoeld in [artikel 6.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1);
 
-- –. **adviseur:** een adviseur als bedoeld in [artikel 6.1.1.1, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=6.1.1.1);
+- – *adviseur:* een adviseur als bedoeld in [artikel 6.1.1.1, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=6.1.1.1);
 
-- –. **besluit:** het [Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798);
+- – *besluit:* het [Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798);
 
-- –. **energie-infrastructuurproject:** een project genoemd in [artikel 9b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9b), of [20a, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=20a), [artikel 39b, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39b), [artikel 141a, eerste lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=141a) of een ander project ten aanzien waarvan een besluit als bedoeld in [artikel 3:35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35) is genomen;
+- – *energie-infrastructuurproject:* een project genoemd in [artikel 9b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9b), of [20a, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=20a), [artikel 39b, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39b), [artikel 141a, eerste lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=141a) of een ander project ten aanzien waarvan een besluit als bedoeld in [artikel 3:35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35) is genomen;
 
-- –. **minister:** de Minister van Economische Zaken;
+- – *minister:* de Minister van Economische Zaken;
 
-- –. **planologische maatregel:** oorzaak als bedoeld in [artikel 6.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1);
+- – *planologische maatregel:* oorzaak als bedoeld in [artikel 6.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1);
 
-- –. **planschade:** schade als bedoeld in [artikel 6.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1);
+- – *planschade:* schade als bedoeld in [artikel 6.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.1);
 
-- –. **wet:** de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
+- – *wet:* de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
 
 ##### Artikel 2
 
@@ -135,5 +109,3 @@ Deze beleidsregel treedt in werking op de dag na de datum van uitgifte van de St
 ##### Artikel 10
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel advisering planschadeverzoeken.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

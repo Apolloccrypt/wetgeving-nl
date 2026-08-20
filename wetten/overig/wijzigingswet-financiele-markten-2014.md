@@ -1,67 +1,38 @@
 ---
 title: "Wet van 25 november 2013 tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2014)"
+citeertitel: "Wijzigingswet financiële markten 2014"
 identifier: "BWBR0034293"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034293"
+categorie: "Financieel recht"
 soort: "wet"
-stam_id: "12450943"
-version_id: "20930932"
-internal_id: "C30194301"
-label_id: "12421844"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034293/2015-01-01/0"
-intitule_bron: "Stb.2013-487"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-25"
-intitule_published: "2013-12-05"
-intitule_in_force: "2013-12-19"
-intitule_status: "goed"
-original_publication: "Stb.2013-487"
-original_signed_date: "2013-11-25"
-original_published_date: "2013-12-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "33632"
-original_url_id: "stb-2013-487"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034293&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0034293&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet financiële markten 2014"
-signed_date: "2013-11-25"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0034293"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 25 november 2013 tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2014)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is te voorzien in toezicht op afwikkelondernemingen, regels te stellen met betrekking tot de stabiliteitstaken van de Nederlandsche Bank en de systeemrelevantiebuffer voor banken en beleggingsondernemingen, een algemene zorgplicht voor financiëledienstverleners in te voeren, de effectiviteit van het toezicht op de financiële verslaggeving en de informatievoorziening aan beleggers te verbeteren, de behandeling van bankspaardeposito’s eigen woning in het kader van het depositogarantiestelsel en het overdrachtsplan aan te passen, de regels voor vermogensscheiding van beleggingsinstellingen en icbe’s aan te passen alsmede enige andere wijzigingen en verbeteringen in de wetgeving op het terrein van de financiële markten aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ##### Artikel II
 
-Wijzigt de Bankwet 1998.
+*Wijzigt de Bankwet 1998.*
 
 ##### Artikel III
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel IV
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel V
 
-Wijzigt de Muntwet 2002.
+*Wijzigt de Muntwet 2002.*
 
 ##### Artikel VI
 
@@ -73,51 +44,51 @@ Wijzigt de Muntwet 2002.
 
 ##### Artikel VII
 
-Wijzigt de Wet bekostiging financieel toezicht.
+*Wijzigt de Wet bekostiging financieel toezicht.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet giraal effectenverkeer.
+*Wijzigt de Wet giraal effectenverkeer.*
 
 ##### Artikel IX
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op het accountantsberoep.
+*Wijzigt de Wet op het accountantsberoep.*
 
 ##### Artikel XII
 
-Wijzigt de Wet toezicht accountantsorganisaties.
+*Wijzigt de Wet toezicht accountantsorganisaties.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet toezicht financiële verslaggeving.
+*Wijzigt de Wet toezicht financiële verslaggeving.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet toezicht trustkantoren.
+*Wijzigt de Wet toezicht trustkantoren.*
 
 ##### Artikel XV
 
-Wijzigt de Wet tuchtrechtspraak accountants.
+*Wijzigt de Wet tuchtrechtspraak accountants.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
+*Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.*
 
 ##### Artikel XVII
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel XVIIa
 
-Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU).
+*Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU).*
 
 ##### Artikel XVIII
 
@@ -145,7 +116,7 @@ Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (implementatie ric
 
 ##### Artikel XIXa
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel XX
 
@@ -154,5 +125,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel XXI
 
 Deze wet wordt aangehaald als: Wijzigingswet financiële markten 2014.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

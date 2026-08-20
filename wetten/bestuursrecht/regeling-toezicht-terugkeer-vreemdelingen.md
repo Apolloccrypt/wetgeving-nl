@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 december 2013, houdende de regeling van het toezicht op de terugkeer van vreemdelingen (Regeling toezicht terugkeer vreemdelingen)"
+citeertitel: "Regeling toezicht terugkeer vreemdelingen"
 identifier: "BWBR0034490"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034490"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12504003"
-version_id: "21047312"
-internal_id: "C30226401"
-label_id: "12474614"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034490/2014-01-01/0"
-intitule_bron: "Stcrt.2013-35638"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-13"
-intitule_published: "2013-12-23"
-intitule_in_force: "2013-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35638"
-original_signed_date: "2013-12-13"
-original_published_date: "2013-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35638"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034490&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034490&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toezicht terugkeer vreemdelingen"
-signed_date: "2013-12-13"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034490"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 december 2013, houdende de regeling van het toezicht op de terugkeer van vreemdelingen (Regeling toezicht terugkeer vreemdelingen)
-
-Handelende in overeenstemming met de Minister van Defensie;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **inspectie:** de Inspectie Veiligheid en Justitie;
+- *inspectie:* de Inspectie Veiligheid en Justitie;
 
-- **instanties waar het toezicht wordt uitgeoefend:** de Immigratie- en Naturalisatiedienst, de Koninklijke marechaussee, de Dienst Justitiële Inrichtingen, het Centraal Orgaan opvang asielzoekers, het landelijke politiekorps of de Dienst Terugkeer en Vertrek;
+- *instanties waar het toezicht wordt uitgeoefend:* de Immigratie- en Naturalisatiedienst, de Koninklijke marechaussee, de Dienst Justitiële Inrichtingen, het Centraal Orgaan opvang asielzoekers, het landelijke politiekorps of de Dienst Terugkeer en Vertrek;
 
-- **inspecteurs:** ambtenaren of andere personen werkzaam bij of voor de inspectie;
+- *inspecteurs:* ambtenaren of andere personen werkzaam bij of voor de inspectie;
 
-- **minister:** de Minister van Veiligheid en Justitie;
+- *minister:* de Minister van Veiligheid en Justitie;
 
-- **terugkeerproces:** de handelingen, anders dan rechtshandelingen, gericht op de terugkeer van de vreemdeling naar het land van herkomst of een veilig derde land, in verband met het onrechtmatig verblijf in Nederland, de verwachting van het verlies van het verblijfsrecht op korte termijn, of de weigering van de toegang tot Nederland.
+- *terugkeerproces:* de handelingen, anders dan rechtshandelingen, gericht op de terugkeer van de vreemdeling naar het land van herkomst of een veilig derde land, in verband met het onrechtmatig verblijf in Nederland, de verwachting van het verlies van het verblijfsrecht op korte termijn, of de weigering van de toegang tot Nederland.
 
 ##### Artikel 2
 
@@ -85,5 +59,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2014.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling toezicht terugkeer vreemdelingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

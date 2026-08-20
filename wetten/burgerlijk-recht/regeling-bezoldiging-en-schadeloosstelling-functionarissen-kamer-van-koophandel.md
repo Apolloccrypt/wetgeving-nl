@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 13 december 2013, nr. WJZ/13200631, houdende regels ten aanzien van de bezoldiging en de schadeloosstelling van de bij de Kamer van Koophandel werkzame functionarissen (Regeling bezoldiging en schadeloosstelling functionarissen Kamer van Koophandel)"
+citeertitel: "Regeling bezoldiging en schadeloosstelling functionarissen Kamer van Koophandel"
 identifier: "BWBR0034372"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-03"
-last_updated: "2025-04-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034372"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12478423"
-version_id: "20983812"
-internal_id: "C30140361"
-label_id: "12449194"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034372/2025-04-03/0"
-intitule_bron: "Stcrt.2013-35428"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-13"
-intitule_published: "2013-12-17"
-intitule_in_force: "2013-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35428"
-original_signed_date: "2013-12-13"
-original_published_date: "2013-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35428"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034372&z=2025-04-03&g=2025-04-03"
-jci_1_0: "1.0:c:BWBR0034372&g=2025-04-03"
-citeertitel_status: "officieel"
-short_title: "Regeling bezoldiging en schadeloosstelling functionarissen Kamer van Koophandel"
-signed_date: "2013-12-13"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2025-04-03
+status: geldig
+toestand: 2025-04-03
+bron: "https://wetten.overheid.nl/BWBR0034372"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Economische Zaken van 13 december 2013, nr. WJZ/13200631, houdende regels ten aanzien van de bezoldiging en de schadeloosstelling van de bij de Kamer van Koophandel werkzame functionarissen (Regeling bezoldiging en schadeloosstelling functionarissen Kamer van Koophandel)
-
-Gelet op [artikel 14, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=11) en [15 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **Kamer:** de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2);
+- a. *Kamer:* de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2);
 
-- b. **Centrale Raad:** de Centrale Raad, bedoeld in [artikel 9 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=9);
+- b. *Centrale Raad:* de Centrale Raad, bedoeld in [artikel 9 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=9);
 
-- c. **regionale raad:** een regionale raad als bedoeld in [artikel 13 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=13).
+- c. *regionale raad:* een regionale raad als bedoeld in [artikel 13 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=13).
 
 ##### Artikel 2
 
@@ -68,7 +42,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -82,7 +56,7 @@ Vervallen
 
 3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2025-04-03&g=2025-04-03).
 
-4. Betrokkene heeft naast het bepaalde in het eerste lid tevens recht op een ontslagvergoeding van € 75.000,–.
+4. Betrokkene heeft naast het bepaalde in het eerste lid tevens recht op een ontslagvergoeding van € 75.000,–.
 
 ##### Artikel 5
 
@@ -96,7 +70,7 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, ge
 
 ##### Artikel 7
 
-1. De leden van de Kamer hebben recht op gebruik van een auto met een cataloguswaarde van maximaal € 80.000,–.
+1. De leden van de Kamer hebben recht op gebruik van een auto met een cataloguswaarde van maximaal € 80.000,–.
 
 2. De kosten van gebruik, onderhoud en reparatie van de auto zijn voor rekening van de Kamer van Koophandel, met uitzondering van kosten van boetes en bekeuringen.
 
@@ -122,10 +96,8 @@ De [Regeling schadeloosstelling bestuursleden kamers van koophandel](https://wet
 
 ##### Artikel 12
 
-Deze regeling treedt in werking met ingang van 1 januari 2014.
+Deze regeling treedt in werking met ingang van 1 januari 2014.
 
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling bezoldiging en schadeloosstelling functionarissen Kamer van Koophandel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,64 +1,33 @@
 ---
 title: "Besluit van 25 november 2013, houdende de afwijking op een aantal onderdelen van de rechtspositieregels die gelden voor ambtenaren die zijn aangesteld bij ministeries voor het personeel van de Kamer van Koophandel (Rechtspositiebesluit Kamer van Koophandel)"
+citeertitel: "Rechtspositiebesluit Kamer van Koophandel"
 identifier: "BWBR0034325"
-country: "nl"
-rank: "amvb"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034325"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12467463"
-version_id: "20957372"
-internal_id: "C30436711"
-label_id: "12438254"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034325/2014-01-01/0"
-intitule_bron: "Stb.2013-509"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-25"
-intitule_published: "2013-12-10"
-intitule_in_force: "2013-12-10"
-intitule_status: "goed"
-original_publication: "Stb.2013-509"
-original_signed_date: "2013-11-25"
-original_published_date: "2013-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-509"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034325&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034325&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Rechtspositiebesluit Kamer van Koophandel"
-signed_date: "2013-11-25"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034325"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 25 november 2013, houdende de afwijking op een aantal onderdelen van de rechtspositieregels die gelden voor ambtenaren die zijn aangesteld bij ministeries voor het personeel van de Kamer van Koophandel (Rechtspositiebesluit Kamer van Koophandel)
-
-Op de voordracht van Onze Minister van Economische Zaken van 1 oktober 2013, nr. WJZ / 13161429;
-
-Gelet op [artikel 15, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) en [artikel 16 van het Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889&artikel=16);
-
-De Raad van State gehoord (advies van 16 oktober 2013, nr. W15.13.0351/IV);
-
-Gezien het nader rapport van de Minister van Economische Zaken van 18 november 2013, nr. WJZ / 13176256;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet op de Kamer van Koophandel in werking treedt.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **ARAR:** [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
+- a. *ARAR:*
+ [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
 
-- b. **BBRA:** [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
+- b. *BBRA:*
+ [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
 
-- c. **wet:** [Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331);
+- c. *wet:*
+ [Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331);
 
-- d. **Kamer:** Kamer van Koophandel, genoemd in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2).
+- d. *Kamer:* Kamer van Koophandel, genoemd in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2).
 
 ##### Artikel 2
 
@@ -107,11 +76,3 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet op de K
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit Kamer van Koophandel.
-
-## Bijlage. bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034325&artikel=5&z=2014-01-01&g=2014-01-01)
-
-### Conversietabel Functiewaardering
-
-In de onderstaande tabel wordt de conversie van het Universeel Systeem Berenschot (USB) naar Fuwasys (BBRA-schalen) weergegeven.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94936, houdende instelling van de Klankbordgroep Lange Termijn Spooragenda (LTSa)"
+citeertitel: "Instellingsbesluit Klankbordgroep Lange Termijn Spooragenda"
 identifier: "BWBR0033658"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-07-13"
-last_updated: "2013-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033658"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12312083"
-version_id: "20639092"
-internal_id: "C29547551"
-label_id: "12283224"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033658/2013-07-13/0"
-intitule_bron: "Stcrt.2013-19902"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-08"
-intitule_published: "2013-07-12"
-intitule_in_force: "2013-07-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-19902"
-original_signed_date: "2013-07-08"
-original_published_date: "2013-07-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-19902"
-entry_into_force_date: "2013-07-13"
-jci_1_3: "jci1.3:c:BWBR0033658&z=2013-07-13&g=2013-07-13"
-jci_1_0: "1.0:c:BWBR0033658&g=2013-07-13"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Klankbordgroep Lange Termijn Spooragenda"
-signed_date: "2013-07-08"
-entry_into_force: "2013-07-13"
+publicatiedatum: 2013-07-13
+laatste_update: 2013-07-13
+status: geldig
+toestand: 2013-07-13
+bron: "https://wetten.overheid.nl/BWBR0033658"
+opgehaald: 2026-08-20
 ---
-# Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94936, houdende instelling van de Klankbordgroep Lange Termijn Spooragenda (LTSa)
 
-Besluit:
+# Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94936, houdende instelling van de Klankbordgroep Lange Termijn Spooragenda (LTSa)
 
 ##### Artikel 1
 
@@ -46,35 +22,35 @@ Er is een Klankbordgroep Lange Termijn Spooragenda, hierna te noemen: de Klankbo
 
 De Klankbordgroep heeft tot taak om advies te geven over de wijze waarop en de mate waarin de belangen van de betrokken stakeholders worden betrokken bij en hun beslag krijgen in de inhoudelijke uitwerking van de Lange Termijn Spooragenda, zoals gemeld in de brief aan de Tweede Kamer inzake de Lange Termijn Spooragenda, d.d. 13 februari 2013 (Kamerstukken II, 29 984, nr. 384), met name met betrekking tot de volgende onderdelen van die uitwerking:
 
-- a). de herijking van programma’s en projecten, inclusief het op te stellen afwegingskader;
+- a) de herijking van programma’s en projecten, inclusief het op te stellen afwegingskader;
 
-- b). het uitwerken van sturingsmechanismen;
+- b) het uitwerken van sturingsmechanismen;
 
-- c). een oordeel over de ordening;
+- c) een oordeel over de ordening;
 
-- d). het operationeel spoorconcept en verbeteraanpak van NS en Prorail;
+- d) het operationeel spoorconcept en verbeteraanpak van NS en Prorail;
 
-- e). het verbinden van deze producten met de concessietrajecten, het PHS en ERTMS.
+- e) het verbinden van deze producten met de concessietrajecten, het PHS en ERTMS.
 
 ##### Artikel 3
 
 1. Tot de leden van de Klankbordgroep worden benoemd:
 
-- a). De heer drs. W.J. Kuijken (ABDTOPConsult), tevens voorzitter;
+- a) De heer drs. W.J. Kuijken (ABDTOPConsult), tevens voorzitter;
 
-- b). De heer J.G.M. Alders (voorzitter Overlegorgaan Infrastructuur & Milieu);
+- b) De heer J.G.M. Alders (voorzitter Overlegorgaan Infrastructuur & Milieu);
 
-- c). Mevrouw drs. J.N. Baljeu (wethouder Rotterdam);
+- c) Mevrouw drs. J.N. Baljeu (wethouder Rotterdam);
 
-- d). De heer mr.drs. B.J. Bruins (directievoorzitter UWV);
+- d) De heer mr.drs. B.J. Bruins (directievoorzitter UWV);
 
-- e). De heer drs. A. Kraaijeveld (voorzitter NL Maritiem Land);
+- e) De heer drs. A. Kraaijeveld (voorzitter NL Maritiem Land);
 
-- f). Mevrouw drs. A. Jongerius (commissaris PostNL);
+- f) Mevrouw drs. A. Jongerius (commissaris PostNL);
 
-- g). De heer T. Kaper (directeur van adviesbureau De Oude Mol);
+- g) De heer T. Kaper (directeur van adviesbureau De Oude Mol);
 
-- h). Mevrouw P.C. Krikke (voorzitter Landelijk Overleg Consumentenbelangen Openbaar Vervoer).
+- h) Mevrouw P.C. Krikke (voorzitter Landelijk Overleg Consumentenbelangen Openbaar Vervoer).
 
 2. De leden worden benoemd tot het moment van opheffing van de Klankbordgroep, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033658&artikel=5&z=2013-07-13&g=2013-07-13).
 
@@ -100,6 +76,4 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: **Instellingsbesluit Klankbordgroep Lange Termijn Spooragenda**.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit wordt aangehaald als: *Instellingsbesluit Klankbordgroep Lange Termijn Spooragenda*.

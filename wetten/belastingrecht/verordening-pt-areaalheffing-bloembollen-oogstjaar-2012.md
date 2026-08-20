@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw 27 maart 2012, houdende de vaststelling van een aan telers van bloembollen op te leggen heffing voor het oogstjaar 2012 (Verordening PT areaalheffing bloembollen oogstjaar 2012)"
+citeertitel: "Verordening PT areaalheffing bloembollen oogstjaar 2012"
 identifier: "BWBR0033948"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033948"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12378163"
-version_id: "20774402"
-internal_id: "C29838261"
-label_id: "12349244"
-dtd_version: "2.0"
-original_entry_into_force: "2013-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033948/2013-09-22/0"
-intitule_bron: "Vbbo.2013-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-03-27"
-intitule_published: "2013-09-20"
-intitule_in_force: "2013-09-20"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-44"
-original_signed_date: "2012-03-27"
-original_published_date: "2013-09-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-09-22"
-jci_1_3: "jci1.3:c:BWBR0033948&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0033948&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT areaalheffing bloembollen oogstjaar 2012"
-signed_date: "2012-03-27"
-entry_into_force: "2013-09-22"
+publicatiedatum: 2013-09-22
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0033948"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw 27 maart 2012, houdende de vaststelling van een aan telers van bloembollen op te leggen heffing voor het oogstjaar 2012 (Verordening PT areaalheffing bloembollen oogstjaar 2012)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen, 15 maart 2012
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,7 +26,7 @@ Besluit:
 
 | a. bloembollen: | 1. bollen, knollen en wortelstokken van bloemgewassen; |
 | --- | --- |
-|   | 2. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
+|  | 2. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
 | b. oogstjaar 2012 | de periode van 1 juni 2012 tot en met 31 mei 2013. |
 
 #### § 2. Heffingsplicht
@@ -74,7 +45,7 @@ Besluit:
 
 2. De heffing wordt berekend naar de oppervlakte van de bij de onderneming behorende, met Bloembollen, beteelde cultuurgrond in het oogstjaar 2012 en bedraagt voor:
 
-| **Gewas** | **Tarief in €** | **Eenheid** |
+| Gewas | Tarief in € | Eenheid |
 | --- | --- | --- |
 | Tulp | 80 | ha |
 | Lelie | 80 | ha |

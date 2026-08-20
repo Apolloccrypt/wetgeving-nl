@@ -1,62 +1,36 @@
 ---
 title: "Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 18 september 2013, houdende regels omtrent de betaling van een periodieke bijdrage ten laste van het Ouderdomsfonds ten gunste van het Zorgverzekeringsfonds"
+citeertitel: "Besluit betalingsregels periodieke bijdrage Zorgverzekeringsfonds"
 identifier: "BWBR0034065"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-10-26"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034065"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12405603"
-version_id: "20823152"
-internal_id: "C29902411"
-label_id: "12376534"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034065/2013-10-26/0"
-intitule_bron: "Stcrt.2013-29641"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-09-18"
-intitule_published: "2013-10-25"
-intitule_in_force: "2013-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-29641"
-original_signed_date: "2013-09-18"
-original_published_date: "2013-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-29641"
-entry_into_force_date: "2013-10-26"
-jci_1_3: "jci1.3:c:BWBR0034065&z=2013-10-26&g=2013-10-26"
-jci_1_0: "1.0:c:BWBR0034065&g=2013-10-26"
-citeertitel_status: "redactioneel"
-short_title: "Besluit betalingsregels periodieke bijdrage Zorgverzekeringsfonds"
-signed_date: "2013-09-18"
-entry_into_force: "2013-10-26"
+publicatiedatum: 2013-10-26
+laatste_update: 2013-10-26
+status: geldig
+toestand: 2013-10-26
+bron: "https://wetten.overheid.nl/BWBR0034065"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 18 september 2013, houdende regels omtrent de betaling van een periodieke bijdrage ten laste van het Ouderdomsfonds ten gunste van het Zorgverzekeringsfonds
-
-Gelet op [artikel 87a, derde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=87a);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- –. CVZ: het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- – CVZ: het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- –. SVB: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- – SVB: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- –. Wfsv: de [Wet Financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745);
+- – Wfsv: de [Wet Financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745);
 
-- –. Ouderdomsfonds: het Ouderdomsfonds, genoemd in [artikel 82, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=82);
+- – Ouderdomsfonds: het Ouderdomsfonds, genoemd in [artikel 82, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=82);
 
-- –. Zorgverzekeringsfonds: het Zorgverzekeringsfonds, bedoeld in [artikel 39, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39);
+- – Zorgverzekeringsfonds: het Zorgverzekeringsfonds, bedoeld in [artikel 39, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39);
 
-- –. Rekening-courant van het CVZ: de rekening-courant, bedoeld in [artikel 40, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=40);
+- – Rekening-courant van het CVZ: de rekening-courant, bedoeld in [artikel 40, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=40);
 
-- –. Rekening-courant van de SVB: de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16).
+- – Rekening-courant van de SVB: de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16).
 
 ##### Artikel 2. De voorschotbedragen
 
@@ -95,5 +69,3 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 6. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

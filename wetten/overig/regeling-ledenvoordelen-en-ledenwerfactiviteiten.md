@@ -1,52 +1,18 @@
 ---
 title: "Regeling van het Commissariaat voor de Media van 5 november 2013 houdende regels voor de landelijke publieke media-instellingen omtrent ledenvoordelen en ledenwerfactiviteiten als bedoeld in artikel 2.137, eerste lid, van de Mediawet 2008, en omtrent oproepen in het kader van ledenwerving als bedoeld in artikel 2.90 van de Mediawet 2008 (Regeling ledenvoordelen en ledenwerfactiviteiten)"
+citeertitel: "Regeling ledenvoordelen en ledenwerfactiviteiten"
 identifier: "BWBR0034229"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-04-03"
-last_updated: "2015-04-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034229"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12438953"
-version_id: "20900982"
-internal_id: "C32027301"
-label_id: "12409824"
-dtd_version: "2.0"
-original_entry_into_force: "2013-11-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034229/2015-04-03/0"
-intitule_bron: "Stcrt.2013-33008"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-05"
-intitule_published: "2013-11-27"
-intitule_in_force: "2013-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-33008"
-original_signed_date: "2013-11-05"
-original_published_date: "2013-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-33008"
-entry_into_force_date: "2013-11-28"
-jci_1_3: "jci1.3:c:BWBR0034229&z=2015-04-03&g=2015-04-03"
-jci_1_0: "1.0:c:BWBR0034229&g=2015-04-03"
-citeertitel_status: "officieel"
-short_title: "Regeling ledenvoordelen en ledenwerfactiviteiten"
-signed_date: "2013-11-05"
-entry_into_force: "2013-11-28"
+publicatiedatum: 2013-11-28
+laatste_update: 2015-04-03
+status: geldig
+toestand: 2015-04-03
+bron: "https://wetten.overheid.nl/BWBR0034229"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van het Commissariaat voor de Media van 5 november 2013 houdende regels voor de landelijke publieke media-instellingen omtrent ledenvoordelen en ledenwerfactiviteiten als bedoeld in artikel 2.137, eerste lid, van de Mediawet 2008, en omtrent oproepen in het kader van ledenwerving als bedoeld in artikel 2.90 van de Mediawet 2008 (Regeling ledenvoordelen en ledenwerfactiviteiten)
-
-gelet op de [artikelen 2.90](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.90) en [2.137 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.137);
-
-overwegende dat:
-
-de Beleidsregels verenigingsactiviteiten van het Commissariaat van 4 december 20071Beleidsregels verenigingsactiviteiten van het Commissariaat van 4 december 2007, **Stcrt. 2007, nr. 247**, p. 109. bepalingen bevatten met betrekking tot ledenvoordelen en ledenwerfactiviteiten;
-
-[artikel 6 van het Besluit ontheffing zelfpromotie](https://wetten.overheid.nl/jci1.3:c:BWBR0022112&artikel=6) van het Commissariaat van 5 juni 20072Besluit ontheffing zelfpromotie van het Commissariaat van 5 juni 2007, **Stcrt. 2007, nr. 117**, p. 17. het beleid van het Commissariaat bevat met betrekking tot oproepen voor ledenwerfactiviteiten in het media-aanbod;
-
-in de onderhavige regeling de inhoud van deze twee beleidsregels samenbrengt en op onderdelen verduidelijkt;
-
-Besluit:
 
 #### Definities en reikwijdte
 
@@ -54,9 +20,9 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **omroepvereniging:** een vereniging die voldoet aan de eisen genoemd in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24), van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en waaraan een erkenning of voorlopige erkenning is verleend op grond van [artikel 2.29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.29);
+- a. *omroepvereniging:* een vereniging die voldoet aan de eisen genoemd in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24), van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en waaraan een erkenning of voorlopige erkenning is verleend op grond van [artikel 2.29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.29);
 
-- b. **wet:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
+- b. *wet:* de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
 
 2. Deze regeling is voor zover nodig van overeenkomstige toepassing op omroeporganisaties die een aanvraag voor een erkenning of voorlopige erkenning indienen voor de erkenningperiode 2016–2020 of voornemens zijn dat te doen, volgens de bepalingen van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) zoals die wet komt te luiden na inwerkingtreding van het op 11 februari 2011 ingediende voorstel van wet tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren3Kamerstukken II, 2010–2011, 33 541, nrs. 1–2.
 
@@ -114,11 +80,11 @@ Elk door een omroepvereniging te verstrekken voordeel aan bestaande leden dient 
 
 - b. mag de totale duur van de oproepen in het kader van ledenwerving in radioprogramma-aanbod en televisieprogramma-aanbod per omroepvereniging niet meer bedragen dan:
 
-- –. in radioprogramma-aanbod: 7 minuten per week;
+   - – in radioprogramma-aanbod: 7 minuten per week;
 
-- –. in televisieprogramma-aanbod: 24 minuten per kalenderkwartaal;
+   - – in televisieprogramma-aanbod: 24 minuten per kalenderkwartaal;
 
-- –. per programmakanaal: 2 minuten per dag.
+   - – per programmakanaal: 2 minuten per dag.
 
 5. Binnen het tekst- en grafische gedeelte van het media-aanbod zijn oproepen in het kader van ledenwerving toegestaan indien:
 
@@ -140,6 +106,6 @@ Ledenwerfactiviteiten worden zodanig ingericht dat elke persoon die lid wordt, z
 
 3. Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat (www.cvdm.nl).
 
-4. Wijzigt het Besluit ontheffing zelfpromotie publieke omroep.
+4. *Wijzigt het Besluit ontheffing zelfpromotie publieke omroep.*
 
-5. Wijzigt de Beleidsregels verenigingsactiviteiten.
+5. *Wijzigt de Beleidsregels verenigingsactiviteiten.*

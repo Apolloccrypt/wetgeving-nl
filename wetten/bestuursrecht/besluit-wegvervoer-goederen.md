@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 14 juni 2013, houdende uitvoering van de Wet wegvervoer goederen en houdende wijziging van het Besluit personenvervoer 2000 en het Besluit justitiële en strafvorderlijke gegevens (Besluit wegvervoer goederen)"
+citeertitel: "Besluit wegvervoer goederen"
 identifier: "BWBR0033600"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-06-29"
-last_updated: "2013-06-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033600"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12299773"
-version_id: "20608272"
-internal_id: "C29485241"
-label_id: "12271084"
-dtd_version: "2.0"
-original_entry_into_force: "2013-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033600/2013-06-29/0"
-intitule_bron: "Stb.2013-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-14"
-intitule_published: "2013-06-28"
-intitule_in_force: "2013-06-28"
-intitule_status: "goed"
-original_publication: "Stb.2013-234"
-original_signed_date: "2013-06-14"
-original_published_date: "2013-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-234"
-entry_into_force_date: "2013-06-29"
-jci_1_3: "jci1.3:c:BWBR0033600&z=2013-06-29&g=2013-06-29"
-jci_1_0: "1.0:c:BWBR0033600&g=2013-06-29"
-citeertitel_status: "officieel"
-short_title: "Besluit wegvervoer goederen"
-signed_date: "2013-06-14"
-entry_into_force: "2013-06-29"
+publicatiedatum: 2013-06-29
+laatste_update: 2013-06-29
+status: geldig
+toestand: 2013-06-29
+bron: "https://wetten.overheid.nl/BWBR0033600"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 14 juni 2013, houdende uitvoering van de Wet wegvervoer goederen en houdende wijziging van het Besluit personenvervoer 2000 en het Besluit justitiële en strafvorderlijke gegevens (Besluit wegvervoer goederen)
-
-Op de voordracht van Onze Minister van Infrastructuur en Milieu van 18 februari 2013, nr. IenM/BSK-2012/198667, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op de [artikelen 2.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.1) en [2.8a, zevende lid, van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.8a), [4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4), [5a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5a), [5b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5b), [76d](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76d), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=83) en [104 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=104), en [2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=2), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=9), en [13, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=13);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 april 2013, no.W14.13.0041/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 11 juni 2013, nr. IenM/BSK-2013/99408, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -96,15 +64,15 @@ Onze Minister kan vrijstelling verlenen van de beroepsverordening voor het wegve
 
 ##### Artikel 5
 
-Wijzigt het Besluit personenvervoer 2000.
+*Wijzigt het Besluit personenvervoer 2000.*
 
 ##### Artikel 6
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
+*Wijzigt het Besluit justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel 7
 
-Wijzigt het Wijzigingsbesluit Besluit personenvervoer 2000, enz. (invoering boordcomputer taxi, afschaffing vergunning collectief personenvervoer, elektronisch vervoerbewijs).
+*Wijzigt het Wijzigingsbesluit Besluit personenvervoer 2000, enz. (invoering boordcomputer taxi, afschaffing vergunning collectief personenvervoer, elektronisch vervoerbewijs).*
 
 ##### Artikel 8
 
@@ -113,5 +81,3 @@ Dit besluit wordt aangehaald als: Besluit wegvervoer goederen.
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

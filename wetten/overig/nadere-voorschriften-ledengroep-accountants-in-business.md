@@ -1,41 +1,18 @@
 ---
 title: "Nadere voorschriften inzake de werkwijze van de ledengroep accountants in business (Nadere voorschriften ledengroep accountants in business)"
+citeertitel: "Nadere voorschriften ledengroep accountants in business"
 identifier: "BWBR0033970"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033970"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12385893"
-version_id: "20786692"
-internal_id: "C29852821"
-label_id: "12357074"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033970/2022-01-01/0"
-intitule_bron: "Stcrt.2013-27356"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-10-03"
-intitule_in_force: "2013-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-27356"
-original_published_date: "2013-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-27356"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0033970&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0033970&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Nadere voorschriften ledengroep accountants in business"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0033970"
+opgehaald: 2026-08-20
 ---
+
 # Nadere voorschriften inzake de werkwijze van de ledengroep accountants in business (Nadere voorschriften ledengroep accountants in business)
-
-Gelet op [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17) en [20 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=20) en het bepaalde in de [Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813);
-
-Stelt de volgende nadere voorschriften vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -43,17 +20,17 @@ Stelt de volgende nadere voorschriften vast:
 
 In deze nadere voorschriften wordt verstaan onder:
 
-- –. **leden:** leden van een ledengroep als bedoeld in [artikel 16 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16);
+- – *leden:* leden van een ledengroep als bedoeld in [artikel 16 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16);
 
-- –. **ledengroep:** ledengroep als bedoeld in [artikel 2, derde lid, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=2);
+- – *ledengroep:* ledengroep als bedoeld in [artikel 2, derde lid, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=2);
 
-- –. **ledengroepbestuur:** bestuur van een ledengroep als bedoeld in [artikel 17, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
+- – *ledengroepbestuur:* bestuur van een ledengroep als bedoeld in [artikel 17, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17);
 
-- –. **ledengroepvergadering:** ledengroepvergadering als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
+- – *ledengroepvergadering:* ledengroepvergadering als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **verordening:** de [Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813);
+- – *verordening:* de [Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813);
 
-- –. **(plaatsvervangend) voorzitter:** de (plaatsvervangend) voorzitter van het ledengroepbestuur.
+- – *(plaatsvervangend) voorzitter:* de (plaatsvervangend) voorzitter van het ledengroepbestuur.
 
 ### Hoofdstuk 2. Bijeenroepen van de vergadering en agenda
 
@@ -187,6 +164,6 @@ Nadat de beraadslaging over een onderwerp door de voorzitter is gesloten, gaat d
 
 ##### Artikel 21
 
-1. Deze nadere voorschriften treden in werking op 1 januari 2014.
+1. Deze nadere voorschriften treden in werking op 1 januari 2014.
 
 2. Deze nadere voorschriften worden aangehaald als: Nadere voorschriften ledengroep accountants in business.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-000329677, houdende regels voor de verstrekking van subsidies voor experimenten en kennisoverdrachtactiviteiten op het terrein van het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving (Subsidieregeling experimenten en kennisoverdracht wonen 2013)"
+citeertitel: "Subsidieregeling experimenten en kennisoverdracht wonen 2013"
 identifier: "BWBR0033574"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-12-22"
-last_updated: "2016-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033574"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12292803"
-version_id: "20586172"
-internal_id: "C28952491"
-label_id: "12264194"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033574/2016-12-22/0"
-intitule_bron: "Stcrt.2013-16506"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-10"
-intitule_published: "2013-06-20"
-intitule_in_force: "2013-06-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-16506"
-original_signed_date: "2013-06-10"
-original_published_date: "2013-06-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-16506"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033574&z=2016-12-22&g=2016-12-22"
-jci_1_0: "1.0:c:BWBR0033574&g=2016-12-22"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling experimenten en kennisoverdracht wonen 2013"
-signed_date: "2013-06-10"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2016-12-22
+status: geldig
+toestand: 2016-12-22
+bron: "https://wetten.overheid.nl/BWBR0033574"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-000329677, houdende regels voor de verstrekking van subsidies voor experimenten en kennisoverdrachtactiviteiten op het terrein van het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving (Subsidieregeling experimenten en kennisoverdracht wonen 2013)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen a, b, d en f, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, vijfde lid, onderdeel b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), en [14 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,11 +20,12 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister voor Wonen en Rijksdienst;
+- a. *minister:* Minister voor Wonen en Rijksdienst;
 
-- b. **Commissie:** Commissie van de Europese Gemeenschappen;
+- b. *Commissie:* Commissie van de Europese Gemeenschappen;
 
-- c. **de-minimis verordening 1998/2006:** [verordening (EG) nr. 1998/2006](32006R1998) van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379), dan wel later daarvoor in de plaats tredende Europese regelgeving
+- c. *de-minimis verordening 1998/2006:*
+ verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379), dan wel later daarvoor in de plaats tredende Europese regelgeving
 
 ##### Artikel 2
 
@@ -94,7 +69,7 @@ De minister kan subsidie verstrekken aan rechtspersonen die experimenten uitvoer
 
 2. De minister doet in de Staatscourant mededeling van het verkrijgen van goedkeuring van de Commissie. Indien de Commissie voorschriften aan de goedkeuring verbindt, verbindt de minister deze als verplichtingen aan de beschikking tot subsidieverlening, voor zover zij zich daartoe lenen.
 
-3. Indien wordt voldaan aan de eisen gesteld bij of krachtens de de-minimis[verordening 1998/2006](32006R1998) legt de aanvrager bij de aanvraag tot subsidieverlening een verklaring omtrent de minimis-steun over.
+3. Indien wordt voldaan aan de eisen gesteld bij of krachtens de de-minimisverordening 1998/2006 legt de aanvrager bij de aanvraag tot subsidieverlening een verklaring omtrent de minimis-steun over.
 
 4. De verklaring, bedoeld in het derde lid, wordt opgesteld overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&bijlage=I&z=2016-12-22&g=2016-12-22) bij deze regeling opgenomen model.
 
@@ -135,33 +110,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt op 1 janua
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling experimenten en kennisoverdracht wonen 2013.
-
-## Bijlage I
-
-### Verklaring de-minimissteun
-
-**Verklaring in het kader van het verlenen van de-minimis steunbedragen als bedoeld in de de-minimis verordening (PbEU 2006, L 379).**
-
-Aanbevolen wordt om voor het invullen van deze verklaring eerst de toelichting in de bijlage van dit formulier te lezen.
-
-Deze verklaring bestaat uit twee pagina’s. De bijlage bestaat uit drie pagina’s. Aanbevolen wordt om zorgvuldig te controleren of alle pagina’s aanwezig zijn.
-
-### Verklaring
-
-**Hierbij verklaart ondergetekende, dat aan de hierna genoemde onderneming, evenals aan het eventuele gehele moederconcern, waartoe de onderneming behoort,**
-
-**Aldus volledig en naar waarheid ingevuld door:**
-
-...... (Bedrijfsnaam)
-
-...... (Inschrijfnummer KvK)
-
-...... (Naam functionaris en functie)
-
-...... (Adres onderneming)
-
-...... (Postcode en plaatsnaam)
-
-...... (datum) ...... (Handtekening)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

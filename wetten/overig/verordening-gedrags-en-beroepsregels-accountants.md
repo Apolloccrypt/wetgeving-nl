@@ -1,44 +1,17 @@
 ---
 title: "Verordening gedrags- en beroepsregels accountants"
 identifier: "BWBR0034635"
-country: "nl"
-rank: "pbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034635"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12547153"
-version_id: "21116642"
-internal_id: "C30307001"
-label_id: "12517994"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034635/2025-01-01/0"
-intitule_bron: "Stcrt.2014-163"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-01-03"
-intitule_in_force: "2014-01-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-163"
-original_published_date: "2014-01-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-163"
-entry_into_force_date: "2014-01-04"
-jci_1_3: "jci1.3:c:BWBR0034635&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0034635&g=2025-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2014-01-04"
+publicatiedatum: 2014-01-04
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0034635"
+opgehaald: 2026-08-20
 ---
+
 # Verordening gedrags- en beroepsregels accountants
-
-Gelet op [artikel 19, tweede lid, aanhef en onderdeel a, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Overwegende dat het onderscheidend kenmerk van het accountantsberoep is de verantwoordelijkheid te handelen in het algemeen belang;
-
-Overwegende dat het algemeen belang is gediend met gedrags- en beroepsregels ten behoeve van een goede uitoefening van het accountantsberoep;
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. – Definities
 
@@ -46,13 +19,13 @@ Stelt de volgende verordening vast:
 
 In deze verordening en daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder:
 
-- –. **accountant:** accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
+- – *accountant:* accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **bedreiging:** onaanvaardbaar risico dat de accountant zich niet houdt aan de fundamentele beginselen als gevolg van eigenbelang, zelftoetsing, belangenbehartiging, vertrouwdheid of intimidatie;
+- – *bedreiging:* onaanvaardbaar risico dat de accountant zich niet houdt aan de fundamentele beginselen als gevolg van eigenbelang, zelftoetsing, belangenbehartiging, vertrouwdheid of intimidatie;
 
-- –. **professionele dienst:** werkzaamheden waarvoor vakbekwaamheid als accountant wordt of kan worden aangewend;
+- – *professionele dienst:* werkzaamheden waarvoor vakbekwaamheid als accountant wordt of kan worden aangewend;
 
-- –. **vakbekwaamheid:** beschikken over en kunnen toepassen van de noodzakelijke theoretische kennis van de vakgebieden, genoemd in [artikel 2 van het Besluit accountantsopleiding 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=2).
+- – *vakbekwaamheid:* beschikken over en kunnen toepassen van de noodzakelijke theoretische kennis van de vakgebieden, genoemd in [artikel 2 van het Besluit accountantsopleiding 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=2).
 
 ### Hoofdstuk 2. – Fundamentele beginselen
 
@@ -118,11 +91,21 @@ De accountant die vermoedt dat de organisatie waarbij deze werkzaam is dan wel w
 
 Als de betrokkenheid van de accountant bij bepaalde informatie door een ander onjuist wordt voorgesteld, treft de accountant een redelijkerwijs te nemen maatregel om aan de beoogde gebruikers van de informatie kenbaar te maken waaruit de betrokkenheid bij die informatie werkelijk bestaat.
 
+##### Artikel 10a
+
+1. De accountant zet niet aan of laat niet aanzetten tot onethisch gedrag door het aanbieden of laten aanbieden van een geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst.
+
+2. De accountant moedigt een ander niet aan om een geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst aan te bieden of te ontvangen, terwijl de accountant weet of behoort te weten dat de aanbieder de bedoeling heeft daarmee aan te zetten tot onethisch gedrag.
+
 #### Paragraaf 2.4. – Objectiviteit
 
 ##### Artikel 11
 
 De accountant laat zich niet ongepast beïnvloeden en vertrouwt niet ongepast op derden, technologie of andere factoren.
+
+##### Artikel 11a
+
+De accountant ontvangt geen geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst waarvan de accountant weet of behoort te weten dat dit wordt aangeboden met de bedoeling om aan te zetten tot onethisch gedrag.
 
 #### Paragraaf 2.5. – Vakbekwaamheid en zorgvuldigheid
 
@@ -145,6 +128,18 @@ De accountant houdt de eigen vakbekwaamheid op het niveau dat is vereist om een 
 ##### Artikel 15
 
 De accountant maakt, als daartoe aanleiding bestaat, de gebruikers van de professionele diensten van deze accountant attent op de beperkingen die inherent aan die diensten zijn.
+
+##### Artikel 15a
+
+1. Voordat de accountant een controleopdracht, beoordelingsopdracht of samenstellingsopdracht van historische financiële informatie aanvaardt, gaat deze bij een andere accountant die bij deze cliënt een dergelijke opdracht uitvoert of in de voorgaande 24 maanden heeft uitgevoerd na of er aanleiding is om de opdracht niet te aanvaarden.
+
+2. Het eerste lid geldt niet, als de accountant:
+
+- a. bij deze cliënt al een controleopdracht, beoordelingsopdracht of samenstellingsopdracht van historische financiële informatie uitvoert of in de voorgaande verantwoordingsperiode heeft uitgevoerd; of
+
+- b. de opdracht overneemt van een andere accountant binnen dezelfde accountantspraktijk.
+
+3. De accountant beantwoordt een verzoek op grond van het eerste lid binnen een redelijke termijn.
 
 #### Paragraaf 2.6. – Vertrouwelijkheid
 
@@ -222,7 +217,7 @@ Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord d
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
@@ -230,38 +225,4 @@ Deze verordening wordt aangehaald als: Verordening gedrags- en beroepsregels acc
 
 ##### Artikel 27
 
-Deze verordening treedt in werking op de eerste dag na publicatie in de Staatscourant en werkt terug tot en met 1 januari 2014.
-
-##### Artikel 10a
-
-1. De accountant zet niet aan of laat niet aanzetten tot onethisch gedrag door het aanbieden of laten aanbieden van een geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst.
-
-2. De accountant moedigt een ander niet aan om een geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst aan te bieden of te ontvangen, terwijl de accountant weet of behoort te weten dat de aanbieder de bedoeling heeft daarmee aan te zetten tot onethisch gedrag.
-
-#### Paragraaf 2.4. – Objectiviteit
-
-##### Artikel 11a
-
-De accountant ontvangt geen geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst waarvan de accountant weet of behoort te weten dat dit wordt aangeboden met de bedoeling om aan te zetten tot onethisch gedrag.
-
-#### Paragraaf 2.5. – Vakbekwaamheid en zorgvuldigheid
-
-##### Artikel 15a
-
-1. Voordat de accountant een controleopdracht, beoordelingsopdracht of samenstellingsopdracht van historische financiële informatie aanvaardt, gaat deze bij een andere accountant die bij deze cliënt een dergelijke opdracht uitvoert of in de voorgaande 24 maanden heeft uitgevoerd na of er aanleiding is om de opdracht niet te aanvaarden.
-
-2. Het eerste lid geldt niet, als de accountant:
-
-- a. bij deze cliënt al een controleopdracht, beoordelingsopdracht of samenstellingsopdracht van historische financiële informatie uitvoert of in de voorgaande verantwoordingsperiode heeft uitgevoerd; of
-
-- b. de opdracht overneemt van een andere accountant binnen dezelfde accountantspraktijk.
-
-3. De accountant beantwoordt een verzoek op grond van het eerste lid binnen een redelijke termijn.
-
-#### Paragraaf 2.6. – Vertrouwelijkheid
-
-### Hoofdstuk 3. – Zich houden aan de fundamentele beginselen
-
-### Hoofdstuk 4. – Intrekking van regelingen
-
-### Hoofdstuk 5. – Slotbepalingen
+Deze verordening treedt in werking op de eerste dag na publicatie in de Staatscourant en werkt terug tot en met 1 januari 2014.

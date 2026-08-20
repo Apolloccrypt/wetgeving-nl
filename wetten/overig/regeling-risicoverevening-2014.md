@@ -1,112 +1,54 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 20 september 2013, kenmerk Z-151938-110091, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2014 (Regeling risicoverevening 2014)"
+citeertitel: "Regeling risicoverevening 2014"
 identifier: "BWBR0033959"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-02-10"
-last_updated: "2015-02-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033959"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12382673"
-version_id: "20782052"
-internal_id: "C29891171"
-label_id: "12353964"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033959/2015-02-10/0"
-intitule_bron: "Stcrt.2013-26839"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-09-20"
-intitule_published: "2013-09-30"
-intitule_in_force: "2013-10-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-26839"
-original_signed_date: "2013-09-20"
-original_published_date: "2013-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-26839"
-entry_into_force_date: "2013-10-18"
-jci_1_3: "jci1.3:c:BWBR0033959&z=2015-02-10&g=2015-02-10"
-jci_1_0: "1.0:c:BWBR0033959&g=2015-02-10"
-citeertitel_status: "officieel"
-short_title: "Regeling risicoverevening 2014"
-signed_date: "2013-09-20"
-entry_into_force: "2013-10-18"
+publicatiedatum: 2013-10-18
+laatste_update: 2015-02-10
+status: geldig
+toestand: 2015-02-10
+bron: "https://wetten.overheid.nl/BWBR0033959"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 20 september 2013, kenmerk Z-151938-110091, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2014 (Regeling risicoverevening 2014)
 
 ### Hoofdstuk 1. Definities en algemene bepalingen
-
-### Hoofdstuk 1. Definities en algemene bepalingen
-
-### Hoofdstuk 3. Regels ten behoeve van de vaststelling van de vereveningsbijdrage (ex post) ten behoeve van een zorgverzekeraar
-
-### Hoofdstuk 4. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
-
-### Hoofdstuk 5. Betaling van de vereveningsbijdrage aan zorgverzekeraar door het college zorgverzekeringen
-
-### Hoofdstuk 6. Wijziging van de [Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525)
-
-##### Artikel 22
-
-Wijzigt de Regeling risicoverevening 2013.
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage 1. behorende bij [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2013-10-18&g=2013-01-01) en [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-01-01)
-
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2013-10-18&g=2013-01-01)
-
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage 3. behorende bij [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-01-01)
-
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage 4. behorende bij [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2013-10-18&g=2013-01-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=4&artikel=20&z=2013-10-18&g=2013-01-01)
-
-Dit onderdeel is nog niet inwerking getreden
-
-Gelet op [artikel 32, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en de [artikelen 1, onderdelen i, j, k, x, y en aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), [3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.1), [3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.2), [3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.5), [3.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), [3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), [3.11, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.14), [3.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15), [3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.16), [3.17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17), [3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), en [3.22, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22);
-
-Besluit:
 
 ##### Artikel 1
 
 1. Deze regeling verstaat onder:
 
-- a. **dbc-zorgproduct:** een declarabele prestatie die is afgeleid uit subtrajecten en zorgactiviteiten via door de zorgautoriteit vastgestelde beslisbomen;
+- a. *dbc-zorgproduct:* een declarabele prestatie die is afgeleid uit subtrajecten en zorgactiviteiten via door de zorgautoriteit vastgestelde beslisbomen;
 
-- b. **dbc-zorgproduct in het vrije segment:** een dbc-zorgproduct waarvan de prijs tot stand komt in vrije onderhandeling;
+- b. *dbc-zorgproduct in het vrije segment:* een dbc-zorgproduct waarvan de prijs tot stand komt in vrije onderhandeling;
 
-- c. **dbc-zorgproduct in het gereguleerde segment:** een dbc-zorgproduct waarvan de maximumprijs wordt bepaald door de zorgautoriteit;
+- c. *dbc-zorgproduct in het gereguleerde segment:* een dbc-zorgproduct waarvan de maximumprijs wordt bepaald door de zorgautoriteit;
 
-- d. **expertproduct:** een dbc-zorgproduct dat minder dan zes keer voorkomt in het dbc informatie systeem (DIS);
+- d. *expertproduct:* een dbc-zorgproduct dat minder dan zes keer voorkomt in het dbc informatie systeem (DIS);
 
-- e. **overig zorgproduct:** een declarabele prestatie binnen de medisch specialistische zorg, niet zijnde een dbc-zorgproduct;
+- e. *overig zorgproduct:* een declarabele prestatie binnen de medisch specialistische zorg, niet zijnde een dbc-zorgproduct;
 
-- f. **add-on:** een door de zorgautoriteit te omschrijven overig zorgproduct op het terrein van de intensive care, dure geneesmiddelen of weesgeneesmiddelen, bestaande uit zorgactiviteiten behorende bij een dbc-zorgproduct;
+- f. *add-on:* een door de zorgautoriteit te omschrijven overig zorgproduct op het terrein van de intensive care, dure geneesmiddelen of weesgeneesmiddelen, bestaande uit zorgactiviteiten behorende bij een dbc-zorgproduct;
 
-- g. **add-on voor groeihormonen:** een add-on betrekking hebbende op dure geneesmiddelen op het terrein van groeihormonen (ATC-codes H01AC01 en H01AC03);
+- g. *add-on voor groeihormonen:* een add-on betrekking hebbende op dure geneesmiddelen op het terrein van groeihormonen (ATC-codes H01AC01 en H01AC03);
 
-- h. **add-on voor fertiliteitshormonen:** een add-on betrekking hebbende op dure geneesmiddelen op het terrein van fertiliteitshormonen (ATC-codes G03GA02, G03GA04, G03GA05, GO3GA06, G03GA09 en H01CA01);
+- h. *add-on voor fertiliteitshormonen:* een add-on betrekking hebbende op dure geneesmiddelen op het terrein van fertiliteitshormonen (ATC-codes G03GA02, G03GA04, G03GA05, GO3GA06, G03GA09 en H01CA01);
 
-- i. **eerstelijnsdiagnostiek:** een overig zorgproduct dat betrekking heeft op door de eerste lijn gevraagde diagnostiek door een ziekenhuis, door een huisartsenlaboratorium, door een productiesamenwerkingsverband of door een zelfstandig behandelcentrum;
+- i. *eerstelijnsdiagnostiek:* een overig zorgproduct dat betrekking heeft op door de eerste lijn gevraagde diagnostiek door een ziekenhuis, door een huisartsenlaboratorium, door een productiesamenwerkingsverband of door een zelfstandig behandelcentrum;
 
-- j. **paramedische behandeling en onderzoek:** een overig zorgproduct dat betrekking heeft op ergotherapie, fysiotherapie, logopedie, dieetadvisering, oefentherapie, orthoptie, psychologie of verloskunde geleverd in een instelling;
+- j. *paramedische behandeling en onderzoek:* een overig zorgproduct dat betrekking heeft op ergotherapie, fysiotherapie, logopedie, dieetadvisering, oefentherapie, orthoptie, psychologie of verloskunde geleverd in een instelling;
 
-- k. **landelijke vaste kosten factor:** een factor waarmee het Zorginstituut op basis van historische kosten van ziekenhuisverpleging en historische kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar per zorgverzekeraar de ex ante deelbedragen berekent voor de kosten van het cluster ‘vaste zorgkosten’ in 2014;
+- k. *landelijke vaste kosten factor:* een factor waarmee het Zorginstituut op basis van historische kosten van ziekenhuisverpleging en historische kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar per zorgverzekeraar de ex ante deelbedragen berekent voor de kosten van het cluster ‘vaste zorgkosten’ in 2014;
 
-- l. **geriatrische revalidatiezorg:** zorg zoals omschreven in [artikel 2.5c van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5c);
+- l. *geriatrische revalidatiezorg:* zorg zoals omschreven in [artikel 2.5c van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5c);
 
-- m. **hulpmiddelenkostengroepen (HKG’s):** een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen chronische aandoeningen op basis van hulpmiddelengebruik in het verleden;
+- m. *hulpmiddelenkostengroepen (HKG’s):* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen chronische aandoeningen op basis van hulpmiddelengebruik in het verleden;
 
-- n. **diagnosekostengroepen (DKG’s) psychische aandoeningen:** een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen met verschillende chronische psychische aandoeningen die geïdentificeerd zijn op grond van diagnose behandeling combinaties;
+- n. *diagnosekostengroepen (DKG’s) psychische aandoeningen:* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen met verschillende chronische psychische aandoeningen die geïdentificeerd zijn op grond van diagnose behandeling combinaties;
 
-- o. **overig zorgproduct psychologie:** een overig zorgproduct dat betrekking heeft op eerstelijns psychologische zorg geleverd in een instelling.
+- o. *overig zorgproduct psychologie:* een overig zorgproduct dat betrekking heeft op eerstelijns psychologische zorg geleverd in een instelling.
 
 2. De kosten, bedoeld in [artikel 1, onderdeel j, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1) zijn:
 
@@ -316,7 +258,11 @@ Het in [artikel 3.22, tweede lid, van het Besluit zorgverzekering](https://wette
 
 De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te stellen beleidsregels, waarin ten minste een betaalschema is opgenomen dat rekening houdt met het betaalschema van de zorgverzekeraars.
 
-### Hoofdstuk 6. Wijziging van de [Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525)
+### Hoofdstuk 6. Wijziging van de Regeling risicoverevening 2013
+
+##### Artikel 22
+
+*Wijzigt de Regeling risicoverevening 2013.*
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -331,481 +277,3 @@ Deze regeling wordt aangehaald als: Regeling risicoverevening 2014.
 2. Indien het in het eerste lid genoemde artikel na 30 september 2013 in werking treedt, werkt deze regeling terug tot en met 30 september 2013.
 
 3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=6&artikel=22&z=2015-02-10&g=2015-02-10) werkt terug tot en met 1 januari 2013, met dien verstande dat de in dat artikel opgenomen wijzingen in de [Regeling risicoverevenigng 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525) slechts worden toegepast bij de vaststelling van de vereveningsbijdragen over dat jaar.
-
-## Bijlage 1. behorende bij [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2015-02-10&g=2015-02-10) en [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10)
-
-De bijlage betreft kosten van zorg behorende tot de clusters ‘variabele kosten van medisch-specialistische zorg’ en ‘kosten van overige prestaties’.
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2015-02-10&g=2015-02-10)) en vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10)).
-
-| Leeftijd en geslacht | Leeftijd en geslacht | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
-| --- | --- | --- | --- |
-| Mannen | 0 jaar | 3345,71 | 977,19 |
-|   | 1–4 jaar | 843,37 | 705,54 |
-|   | 5–9 jaar | 694,89 | 802,44 |
-|   | 10–14 jaar | 657,09 | 731,13 |
-|   | 15–17 jaar | 705,83 | 734,72 |
-|   | 18–24 jaar | 728,96 | 566,92 |
-|   | 25–29 jaar | 698,67 | 554,04 |
-|   | 30–34 jaar | 697,10 | 562,67 |
-|   | 35–39 jaar | 764,80 | 597,43 |
-|   | 40–44 jaar | 824,30 | 617,41 |
-|   | 45–49 jaar | 938,33 | 658,18 |
-|   | 50–54 jaar | 1.054,95 | 700,77 |
-|   | 55–59 jaar | 1.312,79 | 779,45 |
-|   | 60–64 jaar | 1.487,87 | 824,88 |
-|   | 65–69 jaar | 1.818,99 | 926,95 |
-|   | 70–74 jaar | 2.203,81 | 988,09 |
-|   | 75–79 jaar | 2.507,48 | 1.069,04 |
-|   | 80–84 jaar | 2.527,21 | 1.181,20 |
-|   | 85–89 jaar | 2.285,04 | 1.375,82 |
-|   | 90+ jaar | 2.013,59 | 1.706,07 |
-| Vrouwen | 0 jaar | 2.962,75 | 860,28 |
-|   | 1–4 jaar | 727,80 | 653,07 |
-|   | 5–9 jaar | 641,58 | 732,12 |
-|   | 10–14 jaar | 634,71 | 724,18 |
-|   | 15–17 jaar | 737,42 | 836,01 |
-|   | 18–24 jaar | 902,90 | 771,85 |
-|   | 25–29 jaar | 1.157,36 | 1.005,40 |
-|   | 30–34 jaar | 1.250,98 | 1.048,52 |
-|   | 35–39 jaar | 1.117,98 | 826,38 |
-|   | 40–44 jaar | 982,71 | 707,58 |
-|   | 45–49 jaar | 1.055,09 | 739,40 |
-|   | 50–54 jaar | 1.136,98 | 791,74 |
-|   | 55–59 jaar | 1.223,60 | 847,54 |
-|   | 60–64 jaar | 1.321,04 | 889,72 |
-|   | 65–69 jaar | 1.515,22 | 998,37 |
-|   | 70–74 jaar | 1.741,60 | 1.093,24 |
-|   | 75–79 jaar | 1.891,04 | 1.221,41 |
-|   | 80–84 jaar | 1.838,99 | 1.386,24 |
-|   | 85–89 jaar | 1.640,89 | 1.604,18 |
-|   | 90+ jaar | 1.360,39 | 1.869,67 |
-
-|   | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
-| --- | --- | --- |
-| FKG’s |   |   |
-| Geen FKG | –71,05 | –151,47 |
-| Glaucoom | 147,69 | 195,76 |
-| Schildklieraandoeningen | 137,51 | 74,24 |
-| Psychose, Alzheimer en verslaving | –587,95 | 1.148,12 |
-| Depressie | 111,20 | 204,35 |
-| Neuropathische pijn | 483,22 | 760,30 |
-| Hoog cholesterol | 137,12 | 246,73 |
-| Diabetes type II zonder hypertensie | 108,99 | 643,51 |
-| COPD/ Zware astma | 647,08 | 1.070,45 |
-| Astma | 212,76 | 514,17 |
-| Diabetes type II met hypertensie | 276,10 | 814,46 |
-| Epilepsie | 327,08 | 657,05 |
-| Ziekte van Crohn/ Colitis Ulcerosa | 533,10 | 458,67 |
-| Hartaandoeningen | 1.150,15 | 353,70 |
-| Reuma | 445,00 | 148,69 |
-| Parkinson | –481,60 | 2.275,53 |
-| Diabetes type I | 225,16 | 1.363,88 |
-| Transplantaties | –1.013,83 | 662,08 |
-| Cystic fibrosis/pancreasenzymen | –8,41 | 3.980,78 |
-| Aandoeningen van hersenen/ruggenmerg | –2.645,40 | 4.155,66 |
-| Kanker | 1.619,26 | 623,11 |
-| Hormoongevoelige tumoren | –168,10 | 467,59 |
-| HIV/AIDS | –3.461,19 | 7.591,28 |
-| Nieraandoeningen | 3.484,96 | 2.484,92 |
-
-|   | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
-| --- | --- | --- |
-| DKG’s |   |   |
-| 0 | –186,63 | –34,27 |
-| 1 | 398,44 | 59,88 |
-| 2 | 576,35 | 155,12 |
-| 3 | 791,98 | 117,87 |
-| 4 | 1.052,63 | 181,87 |
-| 5 | 1.312,63 | 358,85 |
-| 6 | 2.017,89 | 253,50 |
-| 7 | 2.338,78 | 639,03 |
-| 8 | 3.527,87 | 693,03 |
-| 9 | 3.176,70 | 817,22 |
-| 10 | 5.658,76 | 1.679,08 |
-| 11 | 6.369,98 | 3.604,79 |
-| 12 | 6.363,81 | 3.203,48 |
-| 13 | 14.629,34 | 2.379,84 |
-| 14 | 68.420,65 | 700,43 |
-| 15 | 61.454,70 | –2.966,14 |
-
-|   | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
-| --- | --- | --- |
-| HKG’s |   |   |
-| Geen HKG | 0,15 | –17,17 |
-| Insuline infuuspompen | –1.184,23 | 1.988,31 |
-| Katheters/urine-opvangzakken | 195,21 | 1.499,52 |
-| Stoma’s | 56,71 | 2.449,27 |
-| Tracheo-stoma’s | 1.592,17 | 5.395,50 |
-
-| Aard van het inkomen | Aard van het inkomen | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
-| --- | --- | --- | --- |
-|   | 0–17 jaar | 0,00 | 0,00 |
-| Arbeidsongeschikten | 18–34 jaar | 354,92 | 361,17 |
-|   | 35–44 jaar | 378,68 | 381,78 |
-|   | 45–54 jaar | 371,48 | 331,56 |
-|   | 55–64 jaar | 317,82 | 221,87 |
-| Bijstandsgerechtigden | 18–34 jaar | 201,76 | 100,13 |
-|   | 35–44 jaar | 188,13 | 172,60 |
-|   | 45–54 jaar | 252,38 | 225,32 |
-|   | 55–64 jaar | 157,15 | 163,75 |
-| Studenten | 18–34 jaar | –177,01 | –110,22 |
-| Zelfstandigen | 18–34 jaar | –67,92 | –52,34 |
-|   | 35–44 jaar | –111,07 | –61,73 |
-|   | 45–54 jaar | –157,58 | –81,34 |
-|   | 55–64 jaar | –172,61 | –99,94 |
-| Referentiegroep | 18–34 jaar | 15,59 | 3,21 |
-|   | 35–44 jaar | –21,36 | –26,15 |
-|   | 45–54 jaar | –32,36 | –35,52 |
-|   | 55–64 jaar | –54,40 | –42,37 |
-|   | 65+ jaar | 0,00 | 0,00 |
-
-|   | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
-| --- | --- | --- |
-| Regio |   |   |
-| 1 | 75,71 | 27,40 |
-| 2 | 44,10 | 17,74 |
-| 3 | 24,30 | 10,38 |
-| 4 | –2,02 | 4,06 |
-| 5 | –0,52 | –0,90 |
-| 6 | 1,73 | 2,87 |
-| 7 | –18,85 | –6,36 |
-| 8 | –37,12 | –10,36 |
-| 9 | –37,27 | –15,29 |
-| 10 | –46,27 | –27,62 |
-
-| SES |   | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
-| --- | --- | --- | --- |
-| SES 0 (> 15 bewoners) | 0–17 jaar | 2,47 | 14,75 |
-|   | 18–64 jaar | 96,38 | –45,23 |
-|   | 65+ jaar | –381,14 | 282,82 |
-| SES 1 (laag) | 0–17 jaar | 2,47 | 14,75 |
-|   | 18–64 jaar | 15,78 | 7,42 |
-|   | 65+ jaar | 193,77 | 74,03 |
-| SES 2 (midden) | 0–17 jaar | –15,13 | –8,76 |
-|   | 18–64 jaar | 6,11 | 15,28 |
-|   | 65+ jaar | –31,33 | 2,05 |
-| SES 3 (hoog) | 0–17 jaar | 36,24 | –32,49 |
-|   | 18–64 jaar | –20,46 | –21,20 |
-|   | 65+ jaar | –9,88 | –70,90 |
-
-|   | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
-| --- | --- | --- |
-| Meerjarig hoge kosten |   |   |
-| Geen MHK | –132,37 | –121,80 |
-| MHK 2 voorafgaande jaren hoge kosten in de top 10 procent | 1.609,80 | 936,31 |
-| MHK 3 jaar hoge kosten in top 15 procent | 1.160,69 | 994,63 |
-| MHK 3 jaar hoge kosten in top 10 procent | 1.760,51 | 1.647,11 |
-| MHK 3 jaar hoge kosten in top 7 procent | 2.680,18 | 2.601,46 |
-| MHK 3 jaar hoge kosten in top 4 procent | 4.558,44 | 4.629,36 |
-| MHK 3 jaar hoge kosten in top 1,5 procent | 11.615,02 | 13.146,18 |
-
-## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2015-02-10&g=2015-02-10)
-
-De bijlage betreft de kosten van zorg behorende tot het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’.
-
-De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2015-02-10&g=2015-02-10)).
-
-De gewichten bevatten geen correctie voor hogekostencompensatie.
-
-| Leeftijd en geslacht | Leeftijd en geslacht |   |
-| --- | --- | --- |
-| Mannen | 18–24 jaar | 372,19 |
-|   | 25–29 jaar | 333,95 |
-|   | 30–34 jaar | 333,95 |
-|   | 35–39 jaar | 300,19 |
-|   | 40–44 jaar | 281,96 |
-|   | 45–49 jaar | 267,96 |
-|   | 50–54 jaar | 259,10 |
-|   | 55–59 jaar | 246,36 |
-|   | 60–64 jaar | 235,80 |
-|   | 65–69 jaar | 215,71 |
-|   | 70–74 jaar | 224,68 |
-|   | 75–79 jaar | 227,49 |
-|   | 80–84 jaar | 226,59 |
-|   | 85–89 jaar | 218,43 |
-|   | 90+ jaar | 215,55 |
-| Vrouwen | 18–24 jaar | 410,59 |
-|   | 25–29 jaar | 339,66 |
-|   | 30–34 jaar | 333,95 |
-|   | 35–39 jaar | 295,80 |
-|   | 40–44 jaar | 281,96 |
-|   | 45–49 jaar | 277,89 |
-|   | 50–54 jaar | 260,39 |
-|   | 55–59 jaar | 235,80 |
-|   | 60–64 jaar | 235,80 |
-|   | 65–69 jaar | 224,60 |
-|   | 70–74 jaar | 230,75 |
-|   | 75–79 jaar | 219,60 |
-|   | 80–84 jaar | 215,55 |
-|   | 85–89 jaar | 215,55 |
-|   | 90+ jaar | 215,55 |
-
-| ggz-regio |   |
-| --- | --- |
-| 1 | 72,46 |
-| 2 | 25,91 |
-| 3 | –5,77 |
-| 4 | –10,83 |
-| 5 | –13,67 |
-| 6 | –13,67 |
-| 7 | –13,67 |
-| 8 | –13,67 |
-| 9 | –13,67 |
-| 10 | –13,67 |
-
-| FKG’s psychische aandoeningen | FKG’s psychische aandoeningen |
-| --- | --- |
-| Geen FKG psychische aandoeningen | –31,42 |
-| FKG psychose | 1.968,10 |
-| FKG psychose depot | 4.534,28 |
-| FKG chronische stemmingsstoornissen | 351,79 |
-| FKG verslaving | 1.338,92 |
-| FKG bipolair regulier | 707,42 |
-| FKG bipolair complex | 1.312,02 |
-| FKG ADHD | 259,16 |
-
-| DKG’s psychische aandoeningen |   |
-| --- | --- |
-| 0 | –100,86 |
-| 1 | 1.820,77 |
-| 2 | 6.922,96 |
-| 3 | 13.031,18 |
-| 4 | 20.556,21 |
-| 5 | 27.212,92 |
-
-| Aard van het inkomen | Aard van het inkomen |   |
-| --- | --- | --- |
-| Arbeidsongeschikten | 18–34 jaar | 652,51 |
-|   | 35–44 jaar | 275,55 |
-|   | 45–54 jaar | 91,17 |
-|   | 55–64 jaar | 14,34 |
-| Bijstandsgerechtigden | 18–34 jaar | 677,44 |
-|   | 35–44 jaar | 333,43 |
-|   | 45–54 jaar | 178,43 |
-|   | 55–64 jaar | 70,96 |
-| Studenten | 18–34 jaar | –103,89 |
-| Zelfstandigen | 18–34 jaar | –101,33 |
-|   | 35–44 jaar | –51,89 |
-|   | 45–54 jaar | –29,04 |
-|   | 55–64 jaar | –5,73 |
-| Referentiegroep | 18–34 jaar | –32,25 |
-|   | 35–44 jaar | –27,87 |
-|   | 45–54 jaar | –14,71 |
-|   | 55–64 jaar | –5,73 |
-|   | 65+ jaar | 0,00 |
-
-| SES | SES |   |
-| --- | --- | --- |
-| SES 0 (> 15 bewoners) | 18–64 jaar | 1.545,18 |
-|   | 65+ jaar | 71,28 |
-| SES 1 (laag) | 18–64 jaar | –2,89 |
-|   | 65+ jaar | 27,32 |
-| SES 2 (midden) | 18–64 jaar | –3,08 |
-|   | 65+ jaar | –8,34 |
-| SES 3 (hoog) | 18–64 jaar | –22,85 |
-|   | 65+ jaar | –8,34 |
-
-| Eenpersoonsadres |   |
-| --- | --- |
-| Niet | –18,54 |
-| Wel | 92,26 |
-
-| Kosten geneeskundige ggz boven lage drempel | Kosten geneeskundige ggz boven lage drempel |
-| --- | --- |
-| Niet | –42,72 |
-| Wel en DKG psychische aandoeningen is ‘0’ | 1.407,48 |
-| Wel en DKG psychische aandoeningen is niet ‘0’ | –42,72 |
-
-## Bijlage 3. behorende bij [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10)
-
-De bijlage betreft kosten van zorg behorend tot de cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’.
-
-De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10)).
-
-De gewichten bevatten een correctie voor hogekostencompensatie.
-
-| Leeftijd en geslacht | Leeftijd en geslacht |   |
-| --- | --- | --- |
-| Mannen | 18–24 jaar | 350,75 |
-|   | 25–29 jaar | 323,51 |
-|   | 30–34 jaar | 323,51 |
-|   | 35–39 jaar | 305,96 |
-|   | 40–44 jaar | 291,44 |
-|   | 45–49 jaar | 278,63 |
-|   | 50–54 jaar | 266,74 |
-|   | 55–59 jaar | 248,29 |
-|   | 60–64 jaar | 233,78 |
-|   | 65–69 jaar | 210,17 |
-|   | 70–74 jaar | 213,58 |
-|   | 75–79 jaar | 218,42 |
-|   | 80–84 jaar | 227,26 |
-|   | 85–89 jaar | 221,15 |
-|   | 90+ jaar | 210,17 |
-| Vrouwen | 18–24 jaar | 397,64 |
-|   | 25–29 jaar | 357,57 |
-|   | 30–34 jaar | 323,51 |
-|   | 35–39 jaar | 316,76 |
-|   | 40–44 jaar | 297,90 |
-|   | 45–49 jaar | 293,54 |
-|   | 50–54 jaar | 271,72 |
-|   | 55–59 jaar | 240,27 |
-|   | 60–64 jaar | 233,78 |
-|   | 65–69 jaar | 210,17 |
-|   | 70–74 jaar | 211,69 |
-|   | 75–79 jaar | 210,17 |
-|   | 80–84 jaar | 210,17 |
-|   | 85–89 jaar | 210,17 |
-|   | 90+ jaar | 210,17 |
-
-| ggz-regio |   |
-| --- | --- |
-| 1 | 55,57 |
-| 2 | 28,89 |
-| 3 | 1,44 |
-| 4 | –4,19 |
-| 5 | –10,60 |
-| 6 | –10,59 |
-| 7 | –15,14 |
-| 8 | –15,14 |
-| 9 | –15,14 |
-| 10 | –15,14 |
-
-| FKG’s psychische aandoeningen | FKG’s psychische aandoeningen |
-| --- | --- |
-| Geen FKG psychische aandoeningen | –30,75 |
-| FKG psychose | 1.746,01 |
-| FKG psychose depot | 3.403,00 |
-| FKG chronische stemmingsstoornissen | 387,64 |
-| FKG verslaving | 1.201,47 |
-| FKG bipolair regulier | 738,51 |
-| FKG bipolair complex | 1.274,61 |
-| FKG ADHD | 256,32 |
-
-| DKG’s psychische aandoeningen |   |
-| --- | --- |
-| 0 | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10) van de Regeling risicoverevening 2014 |
-| 1 | 2.102,61 |
-| 2 | 7.140,97 |
-| 3 | 10.703,16 |
-| 4 | 15.343,68 |
-| 5 | 19.003,28 |
-
-| Aard van het inkomen | Aard van het inkomen |   |
-| --- | --- | --- |
-| Arbeidsongeschikten | 18–34 jaar | 513,93 |
-|   | 35–44 jaar | 300,18 |
-|   | 45–54 jaar | 130,47 |
-|   | 55–64 jaar | 20,14 |
-| Bijstandsgerechtigden | 18–34 jaar | 539,10 |
-|   | 35–44 jaar | 356,23 |
-|   | 45–54 jaar | 216,83 |
-|   | 55–64 jaar | 72,01 |
-| Studenten | 18–34 jaar | –96,54 |
-| Zelfstandigen | 18–34 jaar | –87,34 |
-|   | 35–44 jaar | –64,47 |
-|   | 45–54 jaar | –39,77 |
-|   | 55–64 jaar | –6,81 |
-| Referentiegroep | 18–34 jaar | –21,98 |
-|   | 35–44 jaar | –29,18 |
-|   | 45–54 jaar | –19,37 |
-|   | 55–64 jaar | –6,81 |
-|   | 65+ jaar | 0,00 |
-
-| SES | SES |   |
-| --- | --- | --- |
-| SES 0 (> 15 bewoners) | 18–64 jaar | 711,13 |
-|   | 65+ jaar | 26,70 |
-| SES 1 (laag) | 18–64 jaar | 5,74 |
-|   | 65+ jaar | 22,83 |
-| SES 2 (midden) | 18–64 jaar | 4,64 |
-|   | 65+ jaar | –5,63 |
-| SES 3 (hoog) | 18–64 jaar | –22,43 |
-|   | 65+ jaar | –5,63 |
-
-| Eenpersoonsadres | Eenpersoonsadres |
-| --- | --- |
-| Niet | –19,03 |
-| Wel | 94,70 |
-
-| Kosten geneeskundige ggz boven lage drempel | Kosten geneeskundige ggz boven lage drempel |
-| --- | --- |
-| Niet | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10) van de Regeling risicoverevening 2014 |
-| Wel en DKG psychische aandoeningen is ‘0’ | 1.466,19 |
-| Wel en DKG psychische aandoeningen is niet ‘0’ | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10) van de Regeling risicoverevening 2014 |
-
-## Bijlage 4. behorende bij [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2015-02-10&g=2015-02-10), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=4&artikel=20&z=2015-02-10&g=2015-02-10)
-
-De bijlage betreft het eigen risico.
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de specifiek voor de zorgverzekeraar geraamde opbrengst van het verplicht eigen risico ([artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2015-02-10&g=2015-02-10)) en vormen de basis voor de herberekening van de opbrengst van het verplicht eigen risico ten behoeve van de vaststelling van de vereveningsbijdrage van een zorgverzekeraar ([artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=4&artikel=20&z=2015-02-10&g=2015-02-10)).
-
-| Leeftijd en geslacht | Leeftijd en geslacht | Eigen betaling ten gevolge van verplicht eigen risico |
-| --- | --- | --- |
-| Mannen | 18–24 jaar | 134,92 |
-|   | 25–29 jaar | 127,97 |
-|   | 30–34 jaar | 131,34 |
-|   | 35–39 jaar | 138,39 |
-|   | 40–44 jaar | 144,71 |
-|   | 45–49 jaar | 154,77 |
-|   | 50–54 jaar | 167,39 |
-|   | 55–59 jaar | 195,95 |
-|   | 60–64 jaar | 211,99 |
-|   | 65–69 jaar | 232,76 |
-|   | 70–74 jaar | 256,04 |
-|   | 75–79 jaar | 271,31 |
-|   | 80–84 jaar | 283,28 |
-|   | 85–89 jaar | 290,68 |
-|   | 90+ jaar | 289,34 |
-| Vrouwen | 18–24 jaar | 196,02 |
-|   | 25–29 jaar | 197,42 |
-|   | 30–34 jaar | 201,05 |
-|   | 35–39 jaar | 197,42 |
-|   | 40–44 jaar | 193,06 |
-|   | 45–49 jaar | 199,82 |
-|   | 50–54 jaar | 210,40 |
-|   | 55–59 jaar | 226,01 |
-|   | 60–64 jaar | 234,43 |
-|   | 65–69 jaar | 250,98 |
-|   | 70–74 jaar | 270,24 |
-|   | 75–79 jaar | 282,45 |
-|   | 80–84 jaar | 289,30 |
-|   | 85–89 jaar | 286,60 |
-|   | 90+ jaar | 274,89 |
-
-| Aard van het inkomen | Aard van het inkomen | Eigen betaling ten gevolge van verplicht eigen risico |
-| --- | --- | --- |
-| Arbeidsongeschikten | 18–34 jaar | 69,00 |
-|   | 35–44 jaar | 73,64 |
-|   | 45–54 jaar | 63,58 |
-|   | 55–64 jaar | 38,45 |
-| Bijstandsgerechtigden | 18–34 jaar | 54,37 |
-|   | 35–44 jaar | 57,27 |
-|   | 45–54 jaar | 49,84 |
-|   | 55–64 jaar | 14,81 |
-| Studenten | 18–34 jaar | –14,78 |
-| Zelfstandigen | 18–34 jaar | –7,22 |
-|   | 35–44 jaar | –11,59 |
-|   | 45–54 jaar | –15,17 |
-|   | 55–64 jaar | –15,48 |
-| Referentiegroep | 18–34 jaar | –0,93 |
-|   | 35–44 jaar | –3,85 |
-|   | 45–54 jaar | –3,64 |
-|   | 55–64 jaar | –3,30 |
-|   | 65+ jaar | 0,00 |
-
-|   | Eigen betaling ten gevolge van verplicht eigen risico |
-| --- | --- |
-| Regio |   |
-| 1 | 12,95 |
-| 2 | 8,35 |
-| 3 | 5,28 |
-| 4 | 2,60 |
-| 5 | –0,27 |
-| 6 | 0,25 |
-| 7 | –3,86 |
-| 8 | –4,69 |
-| 9 | –7,68 |
-| 10 | –10,16 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

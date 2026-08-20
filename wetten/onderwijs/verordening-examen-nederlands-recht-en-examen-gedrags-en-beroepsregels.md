@@ -1,43 +1,17 @@
 ---
 title: "Verordening examen Nederlands recht en examen gedrags- en beroepsregels"
 identifier: "BWBR0033788"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033788"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12340143"
-version_id: "20703512"
-internal_id: "C29738371"
-label_id: "12311354"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033788/2022-01-01/0"
-intitule_bron: "Stcrt.2013-23892"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-08-19"
-intitule_published: "2013-08-27"
-intitule_in_force: "2013-08-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-23892"
-original_signed_date: "2013-08-19"
-original_published_date: "2013-08-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-23892"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0033788&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0033788&g=2022-01-01"
-citeertitel_status: "officieel"
-signed_date: "2013-08-19"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0033788"
+opgehaald: 2026-08-20
 ---
+
 # Verordening examen Nederlands recht en examen gedrags- en beroepsregels
-
-Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), [19, tweede lid, aanhef en onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19) en [54, eerste lid, aanhef en onderdeel c en d, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=3) en [5 van het Besluit accountantsopleiding 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=5);
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -45,21 +19,22 @@ Stelt de volgende verordening vast:
 
 Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt verstaan onder:
 
-- –. **accountant:** een accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
+- – *accountant:* een accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountantspraktijk:** accountantspraktijk als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
+- – *accountantspraktijk:* accountantspraktijk als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **CEA:** Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
+- – *CEA:* Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
 
-- –. **examen gedrags- en beroepsregels:** examen als bedoeld in [artikel 54, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54);
+- – *examen gedrags- en beroepsregels:* examen als bedoeld in [artikel 54, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54);
 
-- –. **examen Nederlands recht:** examen als bedoeld in [artikel 54, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54);
+- – *examen Nederlands recht:* examen als bedoeld in [artikel 54, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54);
 
-- –. **examens:** examen gedrags- en beroepsregels en examen Nederlands recht;
+- – *examens:* examen gedrags- en beroepsregels en examen Nederlands recht;
 
-- –. **kandidaat:** degene die een verzoek of een aanvraag heeft gedaan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=6&artikel=8&z=2022-01-01&g=2022-01-01);
+- – *kandidaat:* degene die een verzoek of een aanvraag heeft gedaan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=6&artikel=8&z=2022-01-01&g=2022-01-01);
 
-- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- – *wet:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ### Hoofdstuk 2. Inhoud van de examens
 
@@ -139,6 +114,6 @@ Bij het voor de eerste maal indienen van een verzoek tot het afleggen van het ex
 
 ##### Artikel 10
 
-1. Deze verordening treedt in werking op 1 januari 2014.
+1. Deze verordening treedt in werking op 1 januari 2014.
 
 2. Deze verordening wordt aangehaald als: Verordening examen Nederlands recht en examen gedrags- en beroepsregels.

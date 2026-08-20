@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0008587"
-opgehaald: 2026-08-19
+opgehaald: 2026-08-20
 ---
 
 # Regeling houdende bepalingen ter uitvoering van bij en krachtens de Arbeidsomstandighedenwet en enige andere wetten gestelde regels

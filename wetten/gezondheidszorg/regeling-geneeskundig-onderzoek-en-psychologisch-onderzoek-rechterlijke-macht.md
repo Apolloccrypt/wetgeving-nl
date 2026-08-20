@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 18 juni 2013, nr.394024, houdende nadere regels betreffende een geneeskundig onderzoek en een psychologisch onderzoek voor benoeming als rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding (Regeling geneeskundig onderzoek en psychologisch onderzoek rechterlijke macht)"
+citeertitel: "Regeling geneeskundig onderzoek en psychologisch onderzoek rechterlijke macht"
 identifier: "BWBR0033566"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-05-30"
-last_updated: "2020-05-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033566"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12290713"
-version_id: "20583172"
-internal_id: "C28948911"
-label_id: "12262074"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033566/2020-05-30/0"
-intitule_bron: "Stcrt.2013-16793"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-18"
-intitule_published: "2013-06-20"
-intitule_in_force: "2013-06-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-16793"
-original_signed_date: "2013-06-18"
-original_published_date: "2013-06-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-16793"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033566&z=2020-05-30&g=2020-05-30"
-jci_1_0: "1.0:c:BWBR0033566&g=2020-05-30"
-citeertitel_status: "officieel"
-short_title: "Regeling geneeskundig onderzoek en psychologisch onderzoek rechterlijke macht"
-signed_date: "2013-06-18"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2020-05-30
+status: geldig
+toestand: 2020-05-30
+bron: "https://wetten.overheid.nl/BWBR0033566"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 18 juni 2013, nr.394024, houdende nadere regels betreffende een geneeskundig onderzoek en een psychologisch onderzoek voor benoeming als rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding (Regeling geneeskundig onderzoek en psychologisch onderzoek rechterlijke macht)
-
-Gelet op [artikel 2e, zesde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2e);
-
-Besluit:
 
 #### (hernieuwd) geneeskundig onderzoek
 
@@ -86,10 +60,8 @@ De kosten van het onderzoek en van het nagesprek komen voor rekening van het gez
 
 ##### Artikel 11
 
-Deze regeling treedt in werking met ingang van 1 juli 2013.
+Deze regeling treedt in werking met ingang van 1 juli 2013.
 
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling geneeskundig onderzoek en psychologisch onderzoek rechterlijke macht.
-
-Deze regeling zal met toelichting in de Staatscourant geplaatst worden.

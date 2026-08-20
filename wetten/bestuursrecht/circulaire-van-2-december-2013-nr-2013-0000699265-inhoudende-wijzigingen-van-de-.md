@@ -1,38 +1,16 @@
 ---
 title: "Circulaire van 2 december 2013, nr. 2013-0000699265, inhoudende wijzigingen van de bedragen per 1 januari 2014 van de (onkosten)vergoedingen voor de commissarissen van de Koning, de leden van provinciale staten, leden gedeputeerde staten en commissieleden"
 identifier: "BWBR0034312"
-country: "nl"
-rank: "circulaire"
-publication_date: "2013-12-10"
-last_updated: "2013-12-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034312"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "12456343"
-version_id: "20941762"
-internal_id: "C30061781"
-label_id: "12427264"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034312/2013-12-10/0"
-intitule_bron: "Stcrt.2013-34415"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-02"
-intitule_published: "2013-12-10"
-intitule_in_force: "2013-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-34415"
-original_signed_date: "2013-12-02"
-original_published_date: "2013-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-34415"
-entry_into_force_date: "2013-12-10"
-jci_1_3: "jci1.3:c:BWBR0034312&z=2013-12-10&g=2013-12-10"
-jci_1_0: "1.0:c:BWBR0034312&g=2013-12-10"
-citeertitel_status: "redactioneel"
-signed_date: "2013-12-02"
-entry_into_force: "2013-12-10"
+publicatiedatum: 2013-12-10
+laatste_update: 2013-12-10
+status: geldig
+toestand: 2013-12-10
+bron: "https://wetten.overheid.nl/BWBR0034312"
+opgehaald: 2026-08-20
 ---
+
 # Circulaire van 2 december 2013, nr. 2013-0000699265, inhoudende wijzigingen van de bedragen per 1 januari 2014 van de (onkosten)vergoedingen voor de commissarissen van de Koning, de leden van provinciale staten, leden gedeputeerde staten en commissieleden
 
 ### Algemene informatie
@@ -67,13 +45,13 @@ Voor uw informatie meld ik u dat de eindejaarsuitkering voor commissarissen van 
 
 ### 4. Ambtstoelage en overige ambtskosten commissaris van de Koning
 
-Kiest uw provincie **wel** voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956) dan geldt het volgende.
+Kiest uw provincie *wel* voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956) dan geldt het volgende.
 
 De in [artikel 3, tweede lid, van het Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=3) genoemde ambtstoelage bedraagt per 1 januari 2014 € 635,29 en de vergoeding van overige ambtskosten mede gezien [artikel 9a, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=9a), € 485,73.
 
 Dit zijn vaste bedragen waarop geen indexering wordt toegepast.
 
-Voor uw informatie meld ik u ook de bedragen van de ambtstoelage en de overige ambtskosten als uw provincie (nog) **niet** kiest voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956). De bedragen genoemd in [artikel 3, tweede lid, van het Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=3) luiden dan met ingang van 1 januari 2014 als volgt: ambtstoelage € 635,29 en de vergoeding van overige ambtskosten met toepassing van de formule genoemd in [artikel 24, onder b, van het Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=24), € 1.011,94.
+Voor uw informatie meld ik u ook de bedragen van de ambtstoelage en de overige ambtskosten als uw provincie (nog) *niet* kiest voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956). De bedragen genoemd in [artikel 3, tweede lid, van het Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=3) luiden dan met ingang van 1 januari 2014 als volgt: ambtstoelage € 635,29 en de vergoeding van overige ambtskosten met toepassing van de formule genoemd in [artikel 24, onder b, van het Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=24), € 1.011,94.
 
 Dit zijn vaste bedragen waarop geen indexering wordt toegepast.
 
@@ -103,11 +81,11 @@ In [artikel 21, tweede lid, van het Rechtspositiebesluit gedeputeerden](https://
 
 De consumentenprijsindex voor 2013 is bepaald op 115,46. Voor 2012 was dit indexcijfer 112,70. Een verhoging van 2,4%. Dit betekent dat de bedragen van de onkostenvergoeding gedeputeerden per 1 januari 2014 worden verhoogd met 2,4%.
 
-Kiest uw provincie **wel** voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956) dan geldt het volgende.
+Kiest uw provincie *wel* voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956) dan geldt het volgende.
 
 Met ingang van 1 januari 2014 wordt het bedrag genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006533&artikel=21), mede gezien [artikel 23a, aanhef en onder c, van het Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533&artikel=23a) gewijzigd in € 344,16.
 
-Voor uw informatie meld ik u ook het bedrag van de onkostenvergoeding als uw provincie (nog) **niet** kiest voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956). Het bedrag genoemd in [artikel 21, eerste lid, van het Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533&artikel=21) luidt dan met toepassing van de formule genoemd in [artikel 24, onder b, van het Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533&artikel=24), met ingang van 1 januari 2014: € 717,–.
+Voor uw informatie meld ik u ook het bedrag van de onkostenvergoeding als uw provincie (nog) *niet* kiest voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956). Het bedrag genoemd in [artikel 21, eerste lid, van het Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533&artikel=21) luidt dan met toepassing van de formule genoemd in [artikel 24, onder b, van het Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533&artikel=24), met ingang van 1 januari 2014: € 717,–.
 
 ### 8. Vergoeding werkzaamheden statenleden
 
@@ -123,11 +101,11 @@ In [artikel 2, vierde lid, van het Rechtspositiebesluit staten- en commissielede
 
 De consumentenprijsindex voor 2013 is bepaald op 115,46. Voor 2012 was dit indexcijfer 112,70. Een verhoging van 2,4%. Dit betekent dat het bedrag van de onkostenvergoeding statenleden per 1 januari 2014 wordt verhoogd met 2,4%.
 
-Kiest uw provincie **wel** voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956) dan geldt het volgende.
+Kiest uw provincie *wel* voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956) dan geldt het volgende.
 
 Met ingang van 1 januari 2014 bedraagt de onkostenvergoeding genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=2), mede gezien [artikel 12a, aanhef en onder a, van het Rechtspositiebesluit staten- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=12a) voor de onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten € 93,12. Ook ingeval van een fictieve dienstbetrekking bedraagt deze onkostenvergoeding € 93,12.
 
-Voor uw informatie meld ik u ook het bedrag van de onkostenvergoeding als uw provincie nog **niet** kiest voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956).
+Voor uw informatie meld ik u ook het bedrag van de onkostenvergoeding als uw provincie nog *niet* kiest voor de [werkkostenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033956).
 
 Hierbij is het eerstgenoemde bedrag het maximumbedrag per maand voor statenleden die niet hebben gekozen voor een “fictieve dienstbetrekking”, maar die genieten van belastbaar resultaat uit overige werkzaamheden. Het tweede bedrag is het maximumbedrag dat is opgenomen voor statenleden die wel hebben gekozen voor een “fictieve dienstbetrekking”:
 

@@ -1,72 +1,48 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie d.d. 30 augustus 2013, nr. 413922, DGPolitie/Programma Arbeidsvoorwaarden, voor de uitvoering van een regeling met betrekking tot voorzieningen in plaats van levensloopbijdragen voor (gedeeltelijk) arbeidsongeschikte ambtenaren bij de politie"
+citeertitel: "Uitvoeringsregeling Voorzieningen in plaats van levensloopbijdragen voor (gedeeltelijk) arbeidsongeschikte politieambtenaren"
 identifier: "BWBR0033859"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-10"
-last_updated: "2025-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033859"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "12357453"
-version_id: "20738432"
-internal_id: "C29793761"
-label_id: "12328474"
-dtd_version: "2.0"
-original_entry_into_force: "2013-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033859/2025-07-10/0"
-intitule_bron: "Stcrt.2013-25275"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-08-30"
-intitule_published: "2013-09-12"
-intitule_in_force: "2013-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-25275"
-original_signed_date: "2013-08-30"
-original_published_date: "2013-09-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-25275"
-entry_into_force_date: "2013-09-13"
-jci_1_3: "jci1.3:c:BWBR0033859&z=2025-07-10&g=2025-07-10"
-jci_1_0: "1.0:c:BWBR0033859&g=2025-07-10"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling Voorzieningen in plaats van levensloopbijdragen voor (gedeeltelijk) arbeidsongeschikte politieambtenaren"
-signed_date: "2013-08-30"
-entry_into_force: "2013-09-13"
+publicatiedatum: 2013-09-13
+laatste_update: 2025-07-10
+status: geldig
+toestand: 2025-07-10
+bron: "https://wetten.overheid.nl/BWBR0033859"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie d.d. 30 augustus 2013, nr. 413922, DGPolitie/Programma Arbeidsvoorwaarden, voor de uitvoering van een regeling met betrekking tot voorzieningen in plaats van levensloopbijdragen voor (gedeeltelijk) arbeidsongeschikte ambtenaren bij de politie
-
-Gelet op [artikel 12f, zesde lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** de ambtenaar, bedoeld in [artikel 12f, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f);
+- a. *ambtenaar:* de ambtenaar, bedoeld in [artikel 12f, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f);
 
-- b. **Barp:** het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
+- b. *Barp:* het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
 
-- c. **Bbp:** het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
+- c. *Bbp:* het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
 
-- d. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- d. *bevoegd gezag:* het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
-- e. **levensloopbijdragen:** de algemene levensloopbijdrage, de toelage bezwarende functies en de inhaaltoelage bezwarende functies, bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12b), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12c) en [12d van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12d);
+- e. *levensloopbijdragen:* de algemene levensloopbijdrage, de toelage bezwarende functies en de inhaaltoelage bezwarende functies, bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12b), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12c) en [12d van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12d);
 
-- f. **uurloon:** het salaris per uur, als bedoeld in artikel 1, eerste lid, van het Bbp;
+- f. *uurloon:* het salaris per uur, als bedoeld in artikel 1, eerste lid, van het Bbp;
 
-- g. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- g. *WAO:*
+ [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- h. **WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
+- h. *WIA:*
+ [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
 ##### Artikel 2
 
 1. De ambtenaar die gebruik maakt van de in [artikel 12f, tweede lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f) genoemde keuzemogelijkheden, stelt het bevoegd gezag schriftelijk van diens keuze op de hoogte:
 
-- a. voor 1 januari 2014 voor zover het betreft de eenmalig keuze, bedoeld in [artikel 12f, vierde lid, onder a, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f), over de periode 2006 tot en met 2013; of
+- a. voor 1 januari 2014 voor zover het betreft de eenmalig keuze, bedoeld in [artikel 12f, vierde lid, onder a, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f), over de periode 2006 tot en met 2013; of
 
-- b. voor 1 januari 2014 voor het jaar 2014 en voor 2015 en volgende jaren, voor 1 november van het jaar voorafgaande aan het jaar waarop de jaarlijkse keuze, bedoeld in [artikel 12f, vierde lid, onder b, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f), betrekking heeft.
+- b. voor 1 januari 2014 voor het jaar 2014 en voor 2015 en volgende jaren, voor 1 november van het jaar voorafgaande aan het jaar waarop de jaarlijkse keuze, bedoeld in [artikel 12f, vierde lid, onder b, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f), betrekking heeft.
 
 2. Bij de eenmalige keuze bedoeld in het eerste lid, onder a, geeft de ambtenaar op grond van [artikel 12f, derde lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12f), aan of de levensloopbijdragen als niet-pensioengevend moeten worden aangemerkt.
 
@@ -94,10 +70,8 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2006.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2006.
 
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Voorzieningen in plaats van levensloopbijdragen voor (gedeeltelijk) arbeidsongeschikte politieambtenaren.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

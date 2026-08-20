@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 2 januari 2013, GMT-3149798, houdende besluit aanstelling en taakopdracht verkenners extramurale farmaceutische zorg"
+citeertitel: "Besluit aanstelling en taakopdracht verkenners extramurale farmaceutische zorg"
 identifier: "BWBR0034768"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-03-01"
-last_updated: "2013-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034768"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12570313"
-version_id: "21212142"
-internal_id: "C30459791"
-label_id: "12540794"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034768/2013-03-01/0"
-intitule_bron: "Stcrt.2013-999"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-01-02"
-intitule_published: "2013-01-17"
-intitule_in_force: "2013-01-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-999"
-original_signed_date: "2013-01-02"
-original_published_date: "2013-01-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-999"
-entry_into_force_date: "2013-03-01"
-jci_1_3: "jci1.3:c:BWBR0034768&z=2013-03-01&g=2013-03-01"
-jci_1_0: "1.0:c:BWBR0034768&g=2013-03-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanstelling en taakopdracht verkenners extramurale farmaceutische zorg"
-signed_date: "2013-01-02"
-entry_into_force: "2013-03-01"
+publicatiedatum: 2013-03-01
+laatste_update: 2013-03-01
+status: geldig
+toestand: 2013-03-01
+bron: "https://wetten.overheid.nl/BWBR0034768"
+opgehaald: 2026-08-20
 ---
-# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 2 januari 2013, GMT-3149798, houdende besluit aanstelling en taakopdracht verkenners extramurale farmaceutische zorg
 
-Besluit:
+# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 2 januari 2013, GMT-3149798, houdende besluit aanstelling en taakopdracht verkenners extramurale farmaceutische zorg
 
 ##### Artikel 1. Aanstelling
 
 Als Verkenners extramurale farmaceutische zorg worden aangesteld:
 
-- •. Prof. dr. A.H.G. Rinnooy Kan
+- • Prof. dr. A.H.G. Rinnooy Kan
 
-- •. Drs. R.W.P. Reibestein.
+- • Drs. R.W.P. Reibestein.
 
 ##### Artikel 2. Taakopdracht
 
@@ -79,5 +55,3 @@ De verkenners worden bij hun werkzaamheden bijgestaan door een secretariaat, dat
 ##### Artikel 7. Digitale postbus
 
 Er wordt door het secretariaat een digitale postbus geopend. Het e-mailadres van de digitale postbus is: verkennersextramuralefarmacie@minvws.nl. Een ieder die informatie wil aanleveren ten behoeve van de verkenners kan daarvoor deze postbus gebruiken.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

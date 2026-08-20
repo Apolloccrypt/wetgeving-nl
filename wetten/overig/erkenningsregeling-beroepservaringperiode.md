@@ -1,45 +1,17 @@
 ---
 title: "Erkenningsregeling Beroepservaringperiode"
 identifier: "BWBR0033701"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-09-01"
-last_updated: "2013-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033701"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12319573"
-version_id: "20657892"
-internal_id: "C29578651"
-label_id: "12290744"
-dtd_version: "2.0"
-original_entry_into_force: "2013-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033701/2013-09-01/0"
-intitule_bron: "Stcrt.2013-21023"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-17"
-intitule_published: "2013-07-25"
-intitule_in_force: "2013-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-21023"
-original_signed_date: "2013-07-17"
-original_published_date: "2013-07-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-21023"
-entry_into_force_date: "2013-09-01"
-jci_1_3: "jci1.3:c:BWBR0033701&z=2013-09-01&g=2013-09-01"
-jci_1_0: "1.0:c:BWBR0033701&g=2013-09-01"
-citeertitel_status: "officieel"
-signed_date: "2013-07-17"
-entry_into_force: "2013-09-01"
+publicatiedatum: 2013-09-01
+laatste_update: 2013-09-01
+status: geldig
+toestand: 2013-09-01
+bron: "https://wetten.overheid.nl/BWBR0033701"
+opgehaald: 2026-08-20
 ---
+
 # Erkenningsregeling Beroepservaringperiode
-
-Gelet op [artikel 30 van de Regeling Beroepservaringperiode](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&artikel=30);
-
-Gezien de goedkeuring van de Minister voor Wonen en Rijksdienst d.d. 16 juli 2013, de Staatssecretaris van Economische Zaken d.d. 5 juli 2013 en de Minister van Onderwijs, Cultuur en Wetenschap d.d. 21 juni 2013;
-
-Besluit:
 
 ### Hoofdstuk I. Definities
 
@@ -47,11 +19,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanbieder:** instelling of organisatie die zich bezighoudt met het verzorgen van een geïntegreerd beroepservaringprogramma of van beroepservaringmodules;
+- a. *aanbieder:* instelling of organisatie die zich bezighoudt met het verzorgen van een geïntegreerd beroepservaringprogramma of van beroepservaringmodules;
 
-- b. **commissie beroepservaringperiode:** commissie beroepservaringperiode als bedoeld in [artikel 4, eerste lid, van de Regeling Beroepservaringperiode](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&artikel=4);
+- b. *commissie beroepservaringperiode:* commissie beroepservaringperiode als bedoeld in [artikel 4, eerste lid, van de Regeling Beroepservaringperiode](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&artikel=4);
 
-- c. **programmacommissie:** commissie van de aanbieder, die zich bezighoudt met de ontwikkeling en kwaliteitsbewaking van een geïntegreerd beroepservaringprogramma of van beroepservaringmodules.
+- c. *programmacommissie:* commissie van de aanbieder, die zich bezighoudt met de ontwikkeling en kwaliteitsbewaking van een geïntegreerd beroepservaringprogramma of van beroepservaringmodules.
 
 ### Hoofdstuk II. Erkenning van een aanbieder
 
@@ -115,7 +87,7 @@ Het kwaliteitsplan van de aanbieder bevat ten minste:
 
 1. Erkenning van een geïntegreerd beroepservaringprogramma of van beroeps-ervaringmodules geschiedt door het bureau architectenregister op schriftelijk verzoek van de krachtens [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0033701&hoofdstuk=II&z=2013-09-01&g=2013-09-01) erkende aanbieder.
 
-2. Het verzoek als bedoeld in het eerste lid wordt vergezeld van een door de programmacommissie van de aanbieder opgestelde verklaring, waaruit blijkt of en op welke wijze een kandidaat met het volgen van het desbetreffende programma of de desbetreffende modules de kennis, het inzicht en de vaardigheden vergaart die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur in de [bijlage bij de Regeling Beroepservaringperiode](onbekend).
+2. Het verzoek als bedoeld in het eerste lid wordt vergezeld van een door de programmacommissie van de aanbieder opgestelde verklaring, waaruit blijkt of en op welke wijze een kandidaat met het volgen van het desbetreffende programma of de desbetreffende modules de kennis, het inzicht en de vaardigheden vergaart die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur in de [bijlage bij de Regeling Beroepservaringperiode](https://wetten.overheid.nl/BWBR0032509).
 
 3. Op het verzoek wordt door het bureau architectenregister, met inachtneming van de verklaring van de in het tweede lid bedoelde programmacommissie, binnen vier weken beslist.
 
@@ -133,7 +105,7 @@ Het kwaliteitsplan van de aanbieder bevat ten minste:
 
 - b. omtrent de duur van de beroepservaringmodule;
 
-- c. waaruit blijkt of en op welke wijze een kandidaat met het volgen van de desbetreffende module de kennis, het inzicht en de vaardigheden vergaart die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur in de [bijlage bij de Regeling Beroepservaringperiode](onbekend);
+- c. waaruit blijkt of en op welke wijze een kandidaat met het volgen van de desbetreffende module de kennis, het inzicht en de vaardigheden vergaart die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur in de [bijlage bij de Regeling Beroepservaringperiode](https://wetten.overheid.nl/BWBR0032509);
 
 - d. dat kandidaten een certificaat van deelname ontvangen;
 

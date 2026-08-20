@@ -1,66 +1,39 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. 13030742, houdende regels inzake een bijzondere uitkering voor projecten ter bevordering van de natuurbescherming aan de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering natuur 2013–2017)"
+citeertitel: "Regeling bijzondere uitkering natuur"
 identifier: "BWBR0033875"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2017-04-15"
-last_updated: "2017-04-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033875"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "12359983"
-version_id: "20744232"
-internal_id: "C29801471"
-label_id: "12331094"
-dtd_version: "2.0"
-original_entry_into_force: "2013-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033875/2017-04-15/0"
-intitule_bron: "Stcrt.2013-25987"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-09-11"
-intitule_published: "2013-09-19"
-intitule_in_force: "2013-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-25987"
-original_signed_date: "2013-09-11"
-original_published_date: "2013-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-25987"
-entry_into_force_date: "2013-09-20"
-jci_1_3: "jci1.3:c:BWBR0033875&z=2017-04-15&g=2017-04-15"
-jci_1_0: "1.0:c:BWBR0033875&g=2017-04-15"
-citeertitel_status: "officieel"
-short_title: "Regeling bijzondere uitkering natuur"
-signed_date: "2013-09-11"
-entry_into_force: "2013-09-20"
+publicatiedatum: 2013-09-20
+laatste_update: 2017-04-15
+status: geldig
+toestand: 2017-04-15
+bron: "https://wetten.overheid.nl/BWBR0033875"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. 13030742, houdende regels inzake een bijzondere uitkering voor projecten ter bevordering van de natuurbescherming aan de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering natuur 2013–2017)
-
-Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën;
-
-Gelet op [artikel 92, vijfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **bijzondere uitkering natuur:** eenmalige bijzondere uitkering als bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91), in samenhang met [artikel 92, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92), ten behoeve van de uitvoering van projecten in het kader van deze regeling;
+- – *bijzondere uitkering natuur:* eenmalige bijzondere uitkering als bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91), in samenhang met [artikel 92, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92), ten behoeve van de uitvoering van projecten in het kader van deze regeling;
 
-- –. **minister:** Minister van Economische Zaken;
+- – *minister:* Minister van Economische Zaken;
 
-- –. **wet:** [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151).
+- – *wet:*
+ [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151).
 
 ##### Artikel 2. Doel bijzondere uitkering natuur
 
 De minister verstrekt een bijzondere uitkering natuur aan de openbare lichamen ten behoeve van de uitvoering van projecten gericht op het bevorderen van:
 
-- –. het behoud van koraal;
+- – het behoud van koraal;
 
-- –. het duurzaam gebruik van natuur, of
+- – het duurzaam gebruik van natuur, of
 
-- –. de synergie bij het duurzaam gebruik van natuur in combinatie met landbouw en toerisme.
+- – de synergie bij het duurzaam gebruik van natuur in combinatie met landbouw en toerisme.
 
 ##### Artikel 3. Totale bijdrage
 
@@ -103,11 +76,11 @@ De minister, gehoord de adviescommissie bijzondere uitkering natuur, besluit om 
 
 - c. het project is naar het oordeel van de minister:
 
-- –. doelmatig en doeltreffend;
+   - – doelmatig en doeltreffend;
 
-- –. praktisch uitvoerbaar, en;
+   - – praktisch uitvoerbaar, en;
 
-- –. redelijkerwijs uitvoerbaar gezien de middelen en de kosten die in het projectplan, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=5&z=2017-04-15&g=2017-04-15), zijn begroot, en
+   - – redelijkerwijs uitvoerbaar gezien de middelen en de kosten die in het projectplan, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=5&z=2017-04-15&g=2017-04-15), zijn begroot, en
 
 - d. de maximale bedragen, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=3&z=2017-04-15&g=2017-04-15), worden niet overschreden als gevolg van het verlenen van de middelen van de bijzondere uitkering natuur voor dit project.
 
@@ -176,5 +149,3 @@ Deze regeling wordt aangehaald als: Regeling bijzondere uitkering natuur.
 ##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

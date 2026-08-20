@@ -1,44 +1,18 @@
 ---
 title: "Nadere voorschriften inzake de werkwijze van de Ledengroep van Intern en Overheidsaccountants (Nadere voorschriften werkwijze LIO)"
+citeertitel: "Nadere voorschriften werkwijze LIO"
 identifier: "BWBR0034219"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034219"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12436163"
-version_id: "20896962"
-internal_id: "C30000821"
-label_id: "12407194"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034219/2022-01-01/0"
-intitule_bron: "Stcrt.2013-32840"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-14"
-intitule_published: "2013-11-26"
-intitule_in_force: "2013-11-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-32840"
-original_signed_date: "2013-11-14"
-original_published_date: "2013-11-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-32840"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034219&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0034219&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Nadere voorschriften werkwijze LIO"
-signed_date: "2013-11-14"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0034219"
+opgehaald: 2026-08-20
 ---
+
 # Nadere voorschriften inzake de werkwijze van de Ledengroep van Intern en Overheidsaccountants (Nadere voorschriften werkwijze LIO)
-
-Gelet op [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17) en [20 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=20) en het bepaalde in de [Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813);
-
-Stelt de volgende nadere voorschriften vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -190,6 +164,6 @@ Nadat de beraadslaging over een onderwerp door de voorzitter is gesloten, gaat d
 
 ##### Artikel 22
 
-1. Deze nadere voorschriften treden in werking op 1 januari 2014.
+1. Deze nadere voorschriften treden in werking op 1 januari 2014.
 
 2. Deze nadere voorschriften worden aangehaald als: Nadere voorschriften werkwijze LIO.

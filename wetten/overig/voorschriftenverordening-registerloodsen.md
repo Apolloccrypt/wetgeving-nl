@@ -1,46 +1,17 @@
 ---
 title: "Voorschriftenverordening registerloodsen"
 identifier: "BWBR0034571"
-country: "nl"
-rank: "pbo"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034571"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12527403"
-version_id: "21087122"
-internal_id: "C30270981"
-label_id: "12498084"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034571/2014-01-01/0"
-intitule_bron: "Stcrt.2013-36342"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-12-30"
-intitule_in_force: "2013-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-36342"
-original_published_date: "2013-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-36342"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034571&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034571&g=2014-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034571"
+opgehaald: 2026-08-20
 ---
+
 # Voorschriftenverordening registerloodsen
-
-De ledenvergadering van de Nederlandse loodsencorporatie:
-
-Gelet op de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15), [16 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=16) en [artikel 2.5, eerste lid, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=2.5);
-
-Besluit:
-
-De Voorschriftenverordening wordt als volgt vastgesteld:
-
-Treedt in werking op het tijdstip waarop artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s en het Besluit opleidingen en bevoegheden nautische beroepsbeoefenaren in werking treden.
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -48,13 +19,13 @@ Treedt in werking op het tijdstip waarop artikel IX van de Aanpassingswet zbo’
 
 In deze verordening wordt verstaan onder:
 
-- a. **loodsreis:** de functie-uitoefening bedoeld in [artikel 2, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2), door een registerloods;
+- a. *loodsreis:* de functie-uitoefening bedoeld in [artikel 2, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2), door een registerloods;
 
-- b. **organisatie:** de krachtens [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), of indien het de inning van het loodsgeld en de loodsvergoedingen krachtens het Scheldereglement betreft, [artikel 15b, eerste lid Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b) aangewezen organisatie;
+- b. *organisatie:* de krachtens [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), of indien het de inning van het loodsgeld en de loodsvergoedingen krachtens het Scheldereglement betreft, [artikel 15b, eerste lid Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b) aangewezen organisatie;
 
-- c. **besluit:** het [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471);
+- c. *besluit:* het [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471);
 
-- d. **loodsen op afstand:** de functie-uitoefening, bedoeld in [artikel 2, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2).
+- d. *loodsen op afstand:* de functie-uitoefening, bedoeld in [artikel 2, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2).
 
 ### Hoofdstuk II. Voorschriften betreffende het loodsen
 

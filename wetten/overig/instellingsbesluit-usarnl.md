@@ -1,64 +1,40 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Buitenlandse Zaken van 1 juli 2013, nr. 396425, houdende de instelling van het team Urban Search and Rescue Nederland (Instellingsbesluit USAR.NL)"
+citeertitel: "Instellingsbesluit USAR.NL"
 identifier: "BWBR0033753"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-03-11"
-last_updated: "2016-03-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033753"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12333483"
-version_id: "20691542"
-internal_id: "C29701771"
-label_id: "12304554"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033753/2016-03-11/0"
-intitule_bron: "Stcrt.2013-22648"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-01"
-intitule_published: "2013-08-13"
-intitule_in_force: "2013-08-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-22648"
-original_signed_date: "2013-07-01"
-original_published_date: "2013-08-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-22648"
-entry_into_force_date: "2013-08-14"
-jci_1_3: "jci1.3:c:BWBR0033753&z=2016-03-11&g=2016-03-11"
-jci_1_0: "1.0:c:BWBR0033753&g=2016-03-11"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit USAR.NL"
-signed_date: "2013-07-01"
-entry_into_force: "2013-08-14"
+publicatiedatum: 2013-08-14
+laatste_update: 2016-03-11
+status: geldig
+toestand: 2016-03-11
+bron: "https://wetten.overheid.nl/BWBR0033753"
+opgehaald: 2026-08-20
 ---
-# Besluit van de Minister van Veiligheid en Justitie in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Buitenlandse Zaken van 1 juli 2013, nr. 396425, houdende de instelling van het team Urban Search and Rescue Nederland (Instellingsbesluit USAR.NL)
 
-Besluit:
+# Besluit van de Minister van Veiligheid en Justitie in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Buitenlandse Zaken van 1 juli 2013, nr. 396425, houdende de instelling van het team Urban Search and Rescue Nederland (Instellingsbesluit USAR.NL)
 
 ##### Artikel 1
 
-- a. **INSARAG:** International Search and Rescue Advisory Group, waarvan het secretariaat valt onder de Field Coordination Support Section van de Emergency Service Branch van het Office for the coordination of Humanitarian Affairs van de Verenigde Naties;
+- a. *INSARAG:* International Search and Rescue Advisory Group, waarvan het secretariaat valt onder de Field Coordination Support Section van de Emergency Service Branch van het Office for the coordination of Humanitarian Affairs van de Verenigde Naties;
 
-- b. **Richtlijn:** INSARAG Guidelines and Methodology, vastgesteld op grond van de resolutie van de algemene Vergadering van de Verenigde Naties 57/170 van 16 december 2002 met betrekking tot Strengthening the effectiveness and coordination of International urban search and rescue assistance;
+- b. *Richtlijn:* INSARAG Guidelines and Methodology, vastgesteld op grond van de resolutie van de algemene Vergadering van de Verenigde Naties 57/170 van 16 december 2002 met betrekking tot Strengthening the effectiveness and coordination of International urban search and rescue assistance;
 
-- c. **EU Voluntary Pool:** Voluntary pool van het European Civil Protection Mechanism als bedoeld in hoofdstuk 5 van de Commission implementing decision van 16 October 2014 (2014/762/EU) laying down rules for the implementation of Decision No 1313/2013/EU of the European Parliament and of the Council on a Union Civil Protection Mechanism and repealing Commission Decisions 2004/277/EC, Euratom and 2007/606/EC, Euratom;
+- c. *EU Voluntary Pool:* Voluntary pool van het European Civil Protection Mechanism als bedoeld in hoofdstuk 5 van de Commission implementing decision van 16 October 2014 (2014/762/EU) laying down rules for the implementation of Decision No 1313/2013/EU of the European Parliament and of the Council on a Union Civil Protection Mechanism and repealing Commission Decisions 2004/277/EC, Euratom and 2007/606/EC, Euratom;
 
-- d. **HUSAR:** Heavy Urban Search and Rescue team als bedoeld in E 7.3 van de Richtlijn;
+- d. *HUSAR:* Heavy Urban Search and Rescue team als bedoeld in E 7.3 van de Richtlijn;
 
-- e. **TAST:** Technical Assistance Support Team als bedoeld in hoofdstuk 4 van de Commission implementing decision van 16 October 2014 (2014/762/EU) laying down rules for the implementation of Decision No 1313/2013/EU of the European Parliament and of the Council on a Union Civil Protection Mechanism and repealing Commission Decisions 2004/277/EC, Euratom and 2007/606/EC, Euratom;
+- e. *TAST:* Technical Assistance Support Team als bedoeld in hoofdstuk 4 van de Commission implementing decision van 16 October 2014 (2014/762/EU) laying down rules for the implementation of Decision No 1313/2013/EU of the European Parliament and of the Council on a Union Civil Protection Mechanism and repealing Commission Decisions 2004/277/EC, Euratom and 2007/606/EC, Euratom;
 
-- f. **IFV:** Instituut Fysieke Veiligheid als bedoeld in [artikel 66 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=66);
+- f. *IFV:* Instituut Fysieke Veiligheid als bedoeld in [artikel 66 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=66);
 
-- g. **Veiligheidsregio:** veiligheidsregio als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
+- g. *Veiligheidsregio:* veiligheidsregio als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
-- h. **Ramp:** ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
+- h. *Ramp:* ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
-- i. **Minister:** Minister van Veiligheid en Justitie;
+- i. *Minister:* Minister van Veiligheid en Justitie;
 
-- j. **USAR.NL:** Urban Search and Rescue Nederland.
+- j. *USAR.NL:* Urban Search and Rescue Nederland.
 
 ##### Artikel 2
 
@@ -147,5 +123,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit USAR.NL.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

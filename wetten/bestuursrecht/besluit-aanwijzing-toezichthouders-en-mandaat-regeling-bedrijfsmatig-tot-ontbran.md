@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu van 18 december 2013, nr. IENM/ILT-2013/74125, houdende aanwijzing van toezichthoudende ambtenaren en verlening van mandaat, volmacht en machtiging in verband met de bestuursrechtelijke handhaving van de Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk (Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk)"
+citeertitel: "Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk"
 identifier: "BWBR0034449"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034449"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "12493783"
-version_id: "29876352"
-internal_id: "C42827641"
-label_id: "12464434"
-dtd_version: "2.0"
-original_entry_into_force: "2023-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034449/2024-01-01/0"
-intitule_bron: "Stcrt.2013-36393"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-18"
-intitule_published: "2013-12-20"
-intitule_in_force: "2013-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-35445"
-original_signed_date: "2023-12-21"
-original_published_date: "2023-12-28"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-35445"
-entry_into_force_date: "2023-12-21"
-jci_1_3: "jci1.3:c:BWBR0034449&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0034449&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk"
-signed_date: "2023-12-21"
-entry_into_force: "2023-12-21"
+publicatiedatum: 2023-12-21
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0034449"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 18 december 2013, nr. IENM/ILT-2013/74125, houdende aanwijzing van toezichthoudende ambtenaren en verlening van mandaat, volmacht en machtiging in verband met de bestuursrechtelijke handhaving van de Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk (Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk)
-
-Gelet op [artikel 5.10, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.10) voor zover het betreft [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=1&z=2024-01-01&g=2024-01-01) en de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) voor zover het betreft de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=2&z=2024-01-01&g=2024-01-01);
-
-Gezien de instemming van de gemandateerden;
-
-Besluit:
 
 ##### Artikel 1
 
 Met het toezicht op de naleving van de [Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0031686) zijn belast de functionarissen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&bijlage=1&z=2024-01-01&g=2024-01-01).
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 18.6, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6).
 
 ##### Artikel 2
 
@@ -70,75 +46,8 @@ De gemandateerde neemt bij de uitoefening van het mandaat, de volmacht en de mac
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 9 december 2013.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 9 december 2013.
 
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk.
-
-## Bijlage 1. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=1&z=2020-09-24&g=2020-09-24)
-
-| Provincie | Dienst | Functieomschrijving |
-| --- | --- | --- |
-| Groningen | Provincie Groningen | Projectmedewerker A Projectmedewerker B Projectmedewerker C |
-| Friesland | Friese Uitvoeringsdienst Milieu en Omgeving | Toezichthouder A Toezichthouder B Medewerker beleidsuitvoering |
-| Drenthe | Regionale Uitvoeringsdienst Drenthe | Medewerker Handhaving I Medewerker Handhaving II Medewerker Handhaving III |
-| Flevoland | Omgevingsdienst Flevoland & Gooi en Vechtstreek | Medewerker Handhaving II Medewerker beleidsuitvoering I Medewerker beleidsuitvoering II |
-| Gelderland | Omgevingsdienst regio Arnhem | Medewerker Handhaving A Medewerker Handhaving B Medewerker Handhaving C Medewerker Handhaving D |
-| Overijssel | Provincie Overijssel | Medewerker Beleidsuitvoering |
-| Utrecht | Regionale Uitvoeringsdienst Utrecht | Handhaver A Handhaver B Handhaver C |
-| Noord-Holland | Omgevingsdienst Noordzeekanaalgebied | Inspecteur I Inspecteur II Inspecteur III Inspecteur IV |
-| Zuid-Holland | DCMR Zuid-Holland | Inspecteur |
-|   | Omgevingsdienst West-Holland | Milieutechnisch medewerker Toezicht Adviseur Milieukwaliteit Medewerker Handhaving Adviseur Bodem |
-|   | Omgevingsdienst Haaglanden | Toezichthouder Milieu |
-|   | Omgevingsdienst Midden-Holland | Medewerker handhaving 0 Medewerker handhaving I Medewerker handhaving II Medewerker handhaving III |
-|   | Omgevingsdienst Zuid-Holland Zuid | Junior Inspecteur Senior Inspecteur Inspecteur Adviseur Senior Adviseur |
-| Zeeland | Regionale Uitvoeringsdienst Zeeland | Inspecteur A Inspecteur B Inspecteur C |
-| Noord-Brabant | Omgevingsdienst Midden- en West-Brabant | Medewerker Toezicht en Handhaving A Medewerker Toezicht en Handhaving B Medewerker Toezicht en Handhaving 00 Vergunningverlener B |
-| Limburg | Provincie Limburg medewerkers gedetacheerd bij Regionale Uitvoeringsdienst Zuid-Limburg | Handhaver 2 Handhaver 3 Technische Adviseur 2 Medewerker Administratief |
-
-## Bijlage 1. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=1&z=2024-01-01&g=2024-01-01)
-
-| Provincie | Dienst | Functieomschrijving |
-| --- | --- | --- |
-| Groningen | Provincie Groningen | Projectmedewerker A Projectmedewerker B Projectmedewerker C |
-| Friesland | Friese Uitvoeringsdienst Milieu en Omgeving | Toezichthouder A Toezichthouder B Medewerker beleidsuitvoering |
-| Drenthe | Regionale Uitvoeringsdienst Drenthe | Medewerker Handhaving I Medewerker Handhaving II Medewerker Handhaving III |
-| Flevoland | Omgevingsdienst Flevoland & Gooi en Vechtstreek | Medewerker Handhaving II Medewerker beleidsuitvoering I Medewerker beleidsuitvoering II |
-| Gelderland | Omgevingsdienst regio Arnhem | Medewerker Handhaving A Medewerker Handhaving B Medewerker Handhaving C Medewerker Handhaving D |
-| Overijssel | Provincie Overijssel | Medewerker Beleidsuitvoering |
-| Utrecht | Regionale Uitvoeringsdienst Utrecht | Handhaver A Handhaver B Handhaver C |
-| Noord-Holland | Omgevingsdienst Noordzeekanaalgebied | Inspecteur I Inspecteur II Inspecteur III Inspecteur IV |
-| Zuid-Holland | DCMR Zuid-Holland | Inspecteur |
-|   | Omgevingsdienst West-Holland | Milieutechnisch medewerker Toezicht Adviseur Milieukwaliteit Medewerker Handhaving Adviseur Bodem |
-|   | Omgevingsdienst Haaglanden | Toezichthouder Milieu |
-|   | Omgevingsdienst Midden-Holland | Medewerker handhaving 0 Medewerker handhaving I Medewerker handhaving II Medewerker handhaving III |
-|   | Omgevingsdienst Zuid-Holland Zuid | Junior Inspecteur Senior Inspecteur Inspecteur Adviseur Senior Adviseur |
-| Zeeland | Regionale Uitvoeringsdienst Zeeland | Inspecteur A Inspecteur B Inspecteur C |
-| Noord-Brabant | Omgevingsdienst Midden- en West-Brabant | Medewerker Toezicht en Handhaving A Medewerker Toezicht en Handhaving B Medewerker Toezicht en Handhaving 00 Vergunningverlener B |
-| Limburg | Provincie Limburg medewerkers gedetacheerd bij Regionale Uitvoeringsdienst Zuid-Limburg | Handhaver 2 Handhaver 3 Technische Adviseur 2 Medewerker Administratief |
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 18.6, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6).
-
-## Bijlage 2. bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034449&artikel=2&z=2024-01-01&g=2024-01-01)
-
-| Provincie | Functionaris |
-| --- | --- |
-| Groningen | Hoofd afdeling Omgeving en Milieu, provincie Groningen |
-| Friesland | Directeur Friese Uitvoeringdienst Milieu en Omgeving |
-| Drenthe | Directeur Regionale Uitvoeringsdienst Drenthe |
-| Flevoland | Directeur Omgevingsdienst Flevoland & Gooi en Vechtstreek |
-| Gelderland | Directeur Omgevingsdienst regio Arnhem |
-| Overijssel | Teamleider Handhaving, provincie Overijssel |
-| Utrecht | Directeur Regionale Uitvoeringsdienst Utrecht |
-| Noord-Holland | – Algemeen directeur Omgevingsdienst Noordzeekanaalgebied – Adjunct-directeur, portefeuille Toezicht en Handhaving Omgevingsdienst Noordzeekanaalgebied |
-| Zuid-Holland | Directeur DCMR Zuid-Holland, Directeur Omgevingsdienst West-Holland, Directeur Omgevingsdienst Midden-Holland, Directeur Omgevingsdienst Haaglanden, Directeur Omgevingsdienst Zuid-Holland-Zuid |
-| Zeeland | Directeur Regionale Uitvoeringsdienst Zeeland |
-| Noord-Brabant | Directeur Omgevingsdienst Midden- en West-Brabant |
-| Limburg | Directeur Regionale Uitvoeringsdienst Zuid-Limburg |
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

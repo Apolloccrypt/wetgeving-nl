@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 oktober 2013, nr. IENM/BSK-2013/176947, houdende regels in verband met de uitvoering en de handhaving van verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en diverse uitvoeringsverordeningen omtrent luchtvaartveiligheid (Regeling uitvoering en handhaving luchtvaartveiligheid)"
+citeertitel: "Regeling uitvoering en handhaving luchtvaartveiligheid"
 identifier: "BWBR0034054"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-03-11"
-last_updated: "2022-03-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034054"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12403603"
-version_id: "20816832"
-internal_id: "C29895451"
-label_id: "12374574"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034054/2022-03-11/0"
-intitule_bron: "Stcrt.2013-29222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-14"
-intitule_published: "2013-10-23"
-intitule_in_force: "2013-10-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-29222"
-original_signed_date: "2013-10-14"
-original_published_date: "2013-10-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-29222"
-entry_into_force_date: "2013-10-24"
-jci_1_3: "jci1.3:c:BWBR0034054&z=2022-03-11&g=2022-03-11"
-jci_1_0: "1.0:c:BWBR0034054&g=2022-03-11"
-citeertitel_status: "officieel"
-short_title: "Regeling uitvoering en handhaving luchtvaartveiligheid"
-signed_date: "2013-10-14"
-entry_into_force: "2013-10-24"
+publicatiedatum: 2013-10-24
+laatste_update: 2022-03-11
+status: geldig
+toestand: 2022-03-11
+bron: "https://wetten.overheid.nl/BWBR0034054"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 oktober 2013, nr. IENM/BSK-2013/176947, houdende regels in verband met de uitvoering en de handhaving van verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en diverse uitvoeringsverordeningen omtrent luchtvaartveiligheid (Regeling uitvoering en handhaving luchtvaartveiligheid)
-
-Gelet op [artikel 1.5 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,23 +20,28 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad (PbEU L 311);
+- *verordening (EU) nr. 1178/2011:* verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PbEU L 311);
 
-- **verordening (EU) nr. 748/2012:** verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PbEU L 224);
+- *verordening (EU) nr. 748/2012:* verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PbEU L 224);
 
-- **verordening (EU) nr. 965/2012:** verordening (EU) nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PbEU L 296);
+- *verordening (EU) nr. 965/2012:* verordening (EU) nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PbEU L 296);
 
-- **verordening (EU) nr. 923/2012:** uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU L 281);
+- *verordening (EU) nr. 923/2012:* uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU L 281);
 
-- **verordening (EU) nr. 2015/340:** verordening (EU) 2015/340 van de Commissie van 20 februari 2015 tot vaststelling van technische eisen en administratieve procedures met betrekking tot vergunningen en certificaten van luchtverkeersleiders overeenkomstig [Verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad, tot wijziging van Uitvoeringsverordening (EU) nr. 923/2012 van de Commissie en tot intrekking van Verordening (EU) nr. 805/2011 van de Commissie (PbEU L 63);
+- *verordening (EU) nr. 2015/340:* verordening (EU) 2015/340 van de Commissie van 20 februari 2015 tot vaststelling van technische eisen en administratieve procedures met betrekking tot vergunningen en certificaten van luchtverkeersleiders overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad, tot wijziging van Uitvoeringsverordening (EU) nr. 923/2012 van de Commissie en tot intrekking van Verordening (EU) nr. 805/2011 van de Commissie (PbEU L 63);
 
-- **verordening (EU) nr. 1321/2014:** verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 362);
+- *verordening (EU) nr. 1321/2014:* verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 362);
 
-- **uitvoeringsverordening (EU) nr. 2019/947:** Uitvoeringsverordening (EU) 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
+- *uitvoeringsverordening (EU) nr. 2019/947:* Uitvoeringsverordening (EU) 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
 
-- **uitvoeringsverordening (EU) nr. 2018/1976:** uitvoerings[verordening (EU) 2018/1976](31976R2018) van de Commissie van 14 december 2018 tot vaststelling van gedetailleerde regels inzake vluchtuitvoeringen met zweefvliegtuigen en de afgifte van bewijzen van bevoegdheid voor cockpitbemanning van zweefvliegtuigen overeenkomstig [Verordening (EU) 2018/1139](33039R2018) van het Europees Parlement en de Raad (PbEU 2018, L 326);
+- *uitvoeringsverordening (EU) nr. 2018/1976:* uitvoeringsverordening (EU) 2018/1976 van de Commissie van 14 december 2018 tot vaststelling van gedetailleerde regels inzake vluchtuitvoeringen met zweefvliegtuigen en de afgifte van bewijzen van bevoegdheid voor cockpitbemanning van zweefvliegtuigen overeenkomstig Verordening (EU) 2018/1139 van het Europees Parlement en de Raad (PbEU 2018, L 326);
 
-- **verordening (EU) nr. 2018/395:** [verordening (EU) 2018/395](32295R2018) van de Commissie van 13 maart 2018 tot vaststelling van gedetailleerde regels voor vluchtuitvoeringen met ballonnen en voor bewijzen van bevoegdheid voor de bemanning van ballonnen overeenkomstig [Verordening (EU) 2018/1139](33039R2018) van het Europees Parlement en de Raad (PbEU 2018, L 71).
+- *verordening (EU) nr. 2018/395:*
+ verordening (EU) 2018/395 van de Commissie van 13 maart 2018 tot vaststelling van gedetailleerde regels voor vluchtuitvoeringen met ballonnen en voor bewijzen van bevoegdheid voor de bemanning van ballonnen overeenkomstig Verordening (EU) 2018/1139 van het Europees Parlement en de Raad (PbEU 2018, L 71).
+
+##### Artikel 1.1.a
+
+Deze regeling berust op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en [1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6).
 
 #### § 2. Uitvoering
 
@@ -80,19 +59,11 @@ De code voor de individuele referentie, onderdeel van het referentienummer van e
 
 - b. voor trainings- en andere organisaties: het nummer van de cursist bij de organisatie, voorafgegaan door een drielettercode voor de naam van de organisatie.
 
-#### § 3. Handhaving
+##### Artikel 2.3. (aanvraag AOC)
+
+Een aanvraag voor een certificaat als bedoeld in ORO.GEN.115 van verordening (EU) nr. 965/2012 wordt ingediend bij de bevoegde autoriteit door middel van een volledig ingevuld en ondertekend aanvraagformulier waarvan exemplaren bij de bevoegde autoriteit te verkrijgen zijn.
 
 #### § 3. Handhaving
-
-##### Artikel 4.1. (inwerkingtreding)
-
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-##### Artikel 4.2. (citeertitel)
-
-Deze regeling wordt aangehaald als: Regeling uitvoering en handhaving luchtvaartveiligheid.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.1. (aanwijzing overtredingen)
 
@@ -102,17 +73,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. artikel 9, tweede lid, voor zover het de eisen inzake milieubescherming als vervat in wijziging 12 van Boekdeel I en wijziging 9 van Boekdeel II, van Bijlage 16 bij het Verdrag van Chicago betreft, van de basisverordening juncto artikel 2, en bijlage I, paragrafen 21.A.209 en 21.A.211, van verordening (EU) nr. 748/2012;
 
-- c. artikelen 20, 21 eerste lid en 26, eerste en tweede lid, van de basisverordening juncto artikel 3, en bijlage I, paragrafen FCL.045, FCL.050, FCL.055, FCL.060, FCL.065 en FCL.070, onderdeel b, of bijlage IV, paragrafen MED.A.020 en MED.A.030, van [verordening (EU) nr. 1178/2011](32011R1178) en artikel 29, juncto bijlage V, onderdeel 7.6, van de basisverordening, voor zover het betreft het niet kunnen uitvoeren van taken als gevolg van letsel, vermoeidheid, medicatie, ziekte of andere soortgelijke oorzaken;
+- c. artikelen 20, 21 eerste lid en 26, eerste en tweede lid, van de basisverordening juncto artikel 3, en bijlage I, paragrafen FCL.045, FCL.050, FCL.055, FCL.060, FCL.065 en FCL.070, onderdeel b, of bijlage IV, paragrafen MED.A.020 en MED.A.030, van verordening (EU) nr. 1178/2011 en artikel 29, juncto bijlage V, onderdeel 7.6, van de basisverordening, voor zover het betreft het niet kunnen uitvoeren van taken als gevolg van letsel, vermoeidheid, medicatie, ziekte of andere soortgelijke oorzaken;
 
 - d. artikel 48 en 49, eerste lid, van de basisverordening juncto artikel 3, eerste lid, en bijlage IV, paragraaf ATCO.MED.A.020, van verordening (EU) nr. 2015/340;
 
 - e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4001, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11005, onderdelen a bis en a ter, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012;
 
-- f. de artikelen 5, eerste lid, 7, 8, 9, eerste lid, 10, 14, vijfde, zesde, zevende en achtste lid, en de paragrafen UAS.OPEN.050, UAS.OPEN.060, met uitzondering van het tweede lid, onder a, UAS.SPEC.050 en UAS.SPEC.060, met uitzonderling van het eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947;
+- f. de artikelen 5, eerste lid, 7, 8, 9, eerste lid, 10, 14, vijfde, zesde, zevende en achtste lid, en de paragrafen UAS.OPEN.050, UAS.OPEN.060, met uitzondering van het tweede lid, onder a, UAS.SPEC.050 en UAS.SPEC.060, met uitzonderling van het eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947;
 
-- g. artikelen 20, 21, eerste lid, en 26, eerste lid, van de basisverordening juncto artikel 3bis, en bijlage III, paragrafen SFCL.045, SFCL.050, SFCL.065 en SFCL.070, onderdeel b, van uitvoeringsverordening (EU) nr. 2018/1976 of bijlage IV, paragrafen MED.A.020 en MED.A.030, van verordening (EU) nr. 1178/2011;
+- g. artikelen 20, 21, eerste lid, en 26, eerste lid, van de basisverordening juncto artikel 3bis, en bijlage III, paragrafen SFCL.045, SFCL.050, SFCL.065 en SFCL.070, onderdeel b, van uitvoeringsverordening (EU) nr. 2018/1976 of bijlage IV, paragrafen MED.A.020 en MED.A.030, van verordening (EU) nr. 1178/2011;
 
-- h. artikelen 20, 21, eerste lid, en 26, eerste lid, van de basisverordening juncto artikel 3bis, en bijlage III, paragrafen BFCL.045, BFCL.050, BFCL.065 en BFCL.070, onderdeel b, van verordening (EU) nr. 2018/395, of bijlage IV, paragrafen MED.A.020 en MED.A.030, van verordening (EU) nr. 1178/2011.
+- h. artikelen 20, 21, eerste lid, en 26, eerste lid, van de basisverordening juncto artikel 3bis, en bijlage III, paragrafen BFCL.045, BFCL.050, BFCL.065 en BFCL.070, onderdeel b, van verordening (EU) nr. 2018/395, of bijlage IV, paragrafen MED.A.020 en MED.A.030, van verordening (EU) nr. 1178/2011.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
 
@@ -120,34 +91,20 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn:
 
-- a. artikel 29, juncto bijlage V, onderdeel 6.1, onder a, van de basisverordening, voor zover dit de luchtwaardige toestand van het luchtvaartuig betreft, en onder c, voor zover dit het bewijs van luchtwaardigheid betreft, juncto bijlage I, paragraaf M.A. 201, onderdeel a, onder 1 en 3, van verordening (EU) nr. 1321/2014, voor zover het de vluchtuitvoering betreft;
+- a. artikel 29, juncto bijlage V, onderdeel 6.1, onder a, van de basisverordening, voor zover dit de luchtwaardige toestand van het luchtvaartuig betreft, en onder c, voor zover dit het bewijs van luchtwaardigheid betreft, juncto bijlage I, paragraaf M.A. 201, onderdeel a, onder 1 en 3, van verordening (EU) nr. 1321/2014, voor zover het de vluchtuitvoering betreft;
 
 - b. artikel 29, juncto bijlage V, onderdeel 7.6, van de basisverordening, voor zover het betreft het bemanningslid dat onder invloed is van psychoactieve stoffen of alcohol; en
 
-- c. de paragrafen UAS.OPEN.060, tweede lid, onder a, en UAS.SPEC.060, eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947.
+- c. de paragrafen UAS.OPEN.060, tweede lid, onder a, en UAS.SPEC.060, eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een misdrijf.
 
 #### § 4. Slotbepalingen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 4.1. (inwerkingtreding)
 
-##### Artikel 2.3. (aanvraag AOC)
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-Een aanvraag voor een certificaat als bedoeld in ORO.GEN.115 van verordening (EU) nr. 965/2012 wordt ingediend bij de bevoegde autoriteit door middel van een volledig ingevuld en ondertekend aanvraagformulier waarvan exemplaren bij de bevoegde autoriteit te verkrijgen zijn.
+##### Artikel 4.2. (citeertitel)
 
-#### § 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.1.a
-
-Deze regeling berust op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en [1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6).
-
-#### § 2. Uitvoering
-
-#### § 3. Handhaving
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling uitvoering en handhaving luchtvaartveiligheid.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-19
 status: geldig
 toestand: 2026-08-19
 bron: "https://wetten.overheid.nl/BWBR0053040"
-opgehaald: 2026-08-19
+opgehaald: 2026-08-20
 ---
 
 # Besluit van 8 juli 2026, houdende nadere regels ter uitvoering van de Uitvoeringswet datagovernanceverordening in verband met het aanwijzen van bevoegde organen, het leveren van bijstand door die bevoegde organen en de vergoedingen voor het hergebruik van gegevens (Uitvoeringsbesluit datagovernanceverordening)

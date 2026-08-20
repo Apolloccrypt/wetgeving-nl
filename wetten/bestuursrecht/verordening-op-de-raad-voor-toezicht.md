@@ -1,40 +1,17 @@
 ---
 title: "Verordening op de Raad voor Toezicht"
 identifier: "BWBR0033787"
-country: "nl"
-rank: "pbo"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033787"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12339883"
-version_id: "20703212"
-internal_id: "C29738071"
-label_id: "12311114"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033787/2023-07-01/0"
-intitule_bron: "Stcrt.2013-23903"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-08-27"
-intitule_in_force: "2013-08-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-23903"
-original_published_date: "2013-08-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-23903"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0033787&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0033787&g=2023-07-01"
-citeertitel_status: "officieel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBR0033787"
+opgehaald: 2026-08-20
 ---
+
 # Verordening op de Raad voor Toezicht
-
-Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5) en [19, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -42,11 +19,11 @@ Stelt de volgende verordening vast:
 
 Voor de toepassing van deze verordening wordt verstaan onder:
 
-- –. **accountant:** een accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
+- – *accountant:* een accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- –. **accountantskamer:** accountantskamer als bedoeld in [artikel 10, eerste lid, van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=10);
+- – *accountantskamer:* accountantskamer als bedoeld in [artikel 10, eerste lid, van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=10);
 
-- –. **lid of leden:** lid of leden van de Raad voor Toezicht.
+- – *lid of leden:* lid of leden van de Raad voor Toezicht.
 
 ### Hoofdstuk 2. De Raad voor Toezicht
 
@@ -150,13 +127,13 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ##### Artikel 9
 
-Jaarlijks voor 1 september brengt de Raad een geanonimiseerd verslag uit aan het bestuur omtrent zijn werkzaamheden in de periode 1 april tot en met 31 maart en maakt dit openbaar.
+Jaarlijks voor 1 september brengt de Raad een geanonimiseerd verslag uit aan het bestuur omtrent zijn werkzaamheden in de periode 1 april tot en met 31 maart en maakt dit openbaar.
 
 ### Hoofdstuk 5. Overgangsbepalingen
 
 ##### Artikel 10
 
-Bij de inwerkingtreding van deze verordening, wordt de Raad gevormd door de leden zoals die door het bestuur per 1 januari 2013, dan wel nadien zijn benoemd tot lid van de gezamenlijke Raad voor Toezicht van NIVRA en NOvAA, met inachtneming van het rooster van aftreden dat bij die benoemingen is vastgesteld.
+Bij de inwerkingtreding van deze verordening, wordt de Raad gevormd door de leden zoals die door het bestuur per 1 januari 2013, dan wel nadien zijn benoemd tot lid van de gezamenlijke Raad voor Toezicht van NIVRA en NOvAA, met inachtneming van het rooster van aftreden dat bij die benoemingen is vastgesteld.
 
 ##### Artikel 11
 
@@ -174,6 +151,6 @@ De [Verordening op de Raad voor Toezicht](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 14
 
-1. Deze verordening treedt in werking op 1 januari 2014.
+1. Deze verordening treedt in werking op 1 januari 2014.
 
 2. Deze verordening wordt aangehaald als: Verordening op de Raad voor Toezicht.

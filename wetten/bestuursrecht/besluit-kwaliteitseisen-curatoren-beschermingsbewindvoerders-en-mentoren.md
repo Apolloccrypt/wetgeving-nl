@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 29 januari 2014, houdende regels ter waarborging van de kwaliteit van curatoren, bewindvoerders en mentoren (Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren)"
+citeertitel: "Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren"
 identifier: "BWBR0034760"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034760"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12568973"
-version_id: "21210692"
-internal_id: "C30512621"
-label_id: "12539614"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034760/2022-01-01/0"
-intitule_bron: "Stb.2014-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-01-29"
-intitule_published: "2014-01-31"
-intitule_in_force: "2014-02-21"
-intitule_status: "goed"
-original_publication: "Stb.2014-46"
-original_signed_date: "2014-01-29"
-original_published_date: "2014-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-46"
-entry_into_force_date: "2014-04-01"
-jci_1_3: "jci1.3:c:BWBR0034760&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0034760&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren"
-signed_date: "2014-01-29"
-entry_into_force: "2014-04-01"
+publicatiedatum: 2014-04-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0034760"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 29 januari 2014, houdende regels ter waarborging van de kwaliteit van curatoren, bewindvoerders en mentoren (Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren)
-
-Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 4 december 2013, nr. 456543;
-
-Gelet op de [artikelen 383, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), [435, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), en [452, zevende en achtste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 22 januari 2014, nr. W03.13.0441/II);
-
-Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 28 januari 2014, nr. 476742;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I, onderdeel E, onder 2, zevende tot en met negende lid van artikel 383, onderdeel P, zevende tot en met negende lid van artikel 435, onderdeel AA, onder 3, van de Wet wijziging curatele, beschermingsbewind en mentorschap in werking treedt.
 
 ### Hoofdstuk 1. Algemeen
 
@@ -54,17 +20,17 @@ Treedt in werking op het tijdstip waarop artikel I, onderdeel E, onder 2, zevend
 
 In dit besluit wordt verstaan onder:
 
-- a. **curator:** een persoon als bedoeld in [artikel 383, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383);
+- a. *curator:* een persoon als bedoeld in [artikel 383, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383);
 
-- b. **bewindvoerder:** een persoon als bedoeld in [artikel 435, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435);
+- b. *bewindvoerder:* een persoon als bedoeld in [artikel 435, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435);
 
-- c. **mentor:** een persoon als bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452);
+- c. *mentor:* een persoon als bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452);
 
-- d. **verklaring omtrent het gedrag:** verklaring als bedoeld in [afdeling 5 van titel 2 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&afdeling=5);
+- d. *verklaring omtrent het gedrag:* verklaring als bedoeld in [afdeling 5 van titel 2 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&afdeling=5);
 
-- e. **accountant:** een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=393);
+- e. *accountant:* een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=393);
 
-- f. **deskundige:** een deskundige als bedoeld in [artikel 452, achtste lid, onderdeel b, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452).
+- f. *deskundige:* een deskundige als bedoeld in [artikel 452, achtste lid, onderdeel b, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452).
 
 ### Hoofdstuk 2. Kwaliteitseisen
 
@@ -96,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - a. een passende opleiding in het hoger beroepsonderwijs als bedoeld in [artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) met goed gevolg afgerond, of
 
-- b. een passende beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen d en e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) met goed gevolg afgerond en gedurende een periode van ten minste twee jaar voor de duur van ten minste 24 uur per week, de taken van een curator uitgeoefend onder verantwoordelijkheid van een door de kantonrechter benoemde curator.
+- b. een passende beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen d en e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) met goed gevolg afgerond en gedurende een periode van ten minste twee jaar voor de duur van ten minste 24 uur per week, de taken van een curator uitgeoefend onder verantwoordelijkheid van een door de kantonrechter benoemde curator.
 
 2. De curator onderhoudt en ontwikkelt zijn voor het curatorschap van belang zijnde kennis en vaardigheden door ten minste jaarlijks een bijscholings- of trainingsactiviteit te verrichten.
 
@@ -246,17 +212,17 @@ en werkt in overeenstemming met deze waarborgen.
 
 - d. rechtspersonen verbonden met curator, doordat:
 
-- i. de curator meer dan de helft van de stemrechten in de algemene vergadering van de rechtspersoon kan uitoefenen, dan wel meer dan de helft van de bestuurders of van de commissarissen van de rechtspersoon kan benoemen of ontslaan,
+   - i. de curator meer dan de helft van de stemrechten in de algemene vergadering van de rechtspersoon kan uitoefenen, dan wel meer dan de helft van de bestuurders of van de commissarissen van de rechtspersoon kan benoemen of ontslaan,
 
-- ii. de rechtspersoon en de curator deel uitmaken van een groep in de zin van [artikel 24b van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), of
+   - ii. de rechtspersoon en de curator deel uitmaken van een groep in de zin van [artikel 24b van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), of
 
-- iii. de curator bestuurder of commissaris is van de rechtspersoon.
+   - iii. de curator bestuurder of commissaris is van de rechtspersoon.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op bewindvoerders en mentoren.
 
 ##### Artikel 10
 
-1. Uit de administratie van de curator blijkt, per 31 december van het voorafgaande jaar:
+1. Uit de administratie van de curator blijkt, per 31 december van het voorafgaande jaar:
 
 - a. het aantal onder curatele gestelden van wie hij curator is,
 
@@ -337,5 +303,3 @@ Dit besluit treedt in werking gelijktijdig met het tijdstip waarop [artikel I, o
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

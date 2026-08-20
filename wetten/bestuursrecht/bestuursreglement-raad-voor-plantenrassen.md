@@ -1,46 +1,18 @@
 ---
 title: "Bestuursreglement van de Raad voor plantenrassen"
+citeertitel: "Bestuursreglement Raad voor plantenrassen"
 identifier: "BWBR0034441"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-05-31"
-last_updated: "2017-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034441"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12492653"
-version_id: "21018232"
-internal_id: "C30184641"
-label_id: "12463394"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034441/2017-05-31/0"
-intitule_bron: "Stcrt.2013-35536"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-18"
-intitule_published: "2013-12-19"
-intitule_in_force: "2013-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35536"
-original_signed_date: "2013-10-18"
-original_published_date: "2013-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35536"
-entry_into_force_date: "2013-12-21"
-jci_1_3: "jci1.3:c:BWBR0034441&z=2017-05-31&g=2017-05-31"
-jci_1_0: "1.0:c:BWBR0034441&g=2017-05-31"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement Raad voor plantenrassen"
-signed_date: "2013-10-18"
-entry_into_force: "2013-12-21"
+publicatiedatum: 2013-12-21
+laatste_update: 2017-05-31
+status: geldig
+toestand: 2017-05-31
+bron: "https://wetten.overheid.nl/BWBR0034441"
+opgehaald: 2026-08-20
 ---
+
 # Bestuursreglement van de Raad voor plantenrassen
-
-1 Laatstelijk gewijzigd op 18 januari 2013.Gelet op [artikel 8 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=8);
-
-Gelet op [artikel 11, Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11);
-
-Besluit:
 
 ##### Artikel 1. (domiciliekeuze; talen)
 
@@ -66,11 +38,11 @@ Besluit:
 
 - a. de Afdeling Tuinbouwgewassen is belast met de besluitvorming en de uitvoering van de taken ten aanzien van:
 
-- 1°. groentegewassen als bedoeld in [artikel 3 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=3);
+   - 1°. groentegewassen als bedoeld in [artikel 3 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=3);
 
-- 2°. fruitgewassen als bedoeld in [artikel 3a van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=3a);
+   - 2°. fruitgewassen als bedoeld in [artikel 3a van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=3a);
 
-- 3°. siergewassen. Voor de toepassing van dit Bestuursreglement zijn dit tuinbouwgewassen die niet voor voedsel worden gebruikt, maar primair worden gebruikt voor hun decoratieve waarde.
+   - 3°. siergewassen. Voor de toepassing van dit Bestuursreglement zijn dit tuinbouwgewassen die niet voor voedsel worden gebruikt, maar primair worden gebruikt voor hun decoratieve waarde.
 
 - b. de Afdeling Landbouwgewassen is belast met de besluitvorming en de uitvoering van de taken ten aanzien van landbouwgewassen als bedoeld in [artikel 4 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=4);
 
@@ -124,15 +96,15 @@ de Afdeling Bosbouwgewassen: 2.
 
 - d. tijdens de hoorzitting zijn naast de voorzitter of de plaatsvervangend voorzitter ten minste twee leden van de adviescommissie aanwezig.
 
-- a. Er is een adviescommissie Bosbouwgewassen. De adviescommissie is samengesteld uit onafhankelijk deskundigen afkomstig uit diverse geledingen van de bosbouwsector en bestaat uit ten minste vijf en ten hoogste acht leden waarvan er één als voorzitter en één als plaatsvervangend voorzitter wordt benoemd.
+3. - a. Er is een adviescommissie Bosbouwgewassen. De adviescommissie is samengesteld uit onafhankelijk deskundigen afkomstig uit diverse geledingen van de bosbouwsector en bestaat uit ten minste vijf en ten hoogste acht leden waarvan er één als voorzitter en één als plaatsvervangend voorzitter wordt benoemd.
 
 - b. De adviescommissie heeft als doel:
 
-- –. de Raad te adviseren over de toelating tot het Nationaal Rassenregister van opstanden van richtlijnsoorten bedoeld in [artikel 10 Besluit werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10);
+   - – de Raad te adviseren over de toelating tot het Nationaal Rassenregister van opstanden van richtlijnsoorten bedoeld in [artikel 10 Besluit werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10);
 
-- –. een aanbeveling te doen over het opnemen in de Rassenlijst Bomen van opstanden van bosbouwgewassen welke niet vallen onder de werking van [artikel 10 Besluit werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10). Bij een positieve aanbeveling stemt de Raad in met opname van de opstand in de Rassenlijst bomen.
+   - – een aanbeveling te doen over het opnemen in de Rassenlijst Bomen van opstanden van bosbouwgewassen welke niet vallen onder de werking van [artikel 10 Besluit werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10). Bij een positieve aanbeveling stemt de Raad in met opname van de opstand in de Rassenlijst bomen.
 
-- –. de Raad te adviseren ten aanzien van overige aangelegenheden die samenhangen met de uitvoering van de taken op grond van [artikel 5 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=5).
+   - – de Raad te adviseren ten aanzien van overige aangelegenheden die samenhangen met de uitvoering van de taken op grond van [artikel 5 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=5).
 
 - c. De voorzitter van de Raad benoemt, gehoord de leden van de Raad, de leden van de adviescommissie.
 

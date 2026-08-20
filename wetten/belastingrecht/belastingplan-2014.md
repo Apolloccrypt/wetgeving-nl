@@ -1,82 +1,58 @@
 ---
 title: "Wet van 18 december 2013 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2014)"
+citeertitel: "Belastingplan 2014"
 identifier: "BWBR0034538"
-country: "nl"
-rank: "wet"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034538"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "12519413"
-version_id: "21072492"
-internal_id: "C30253831"
-label_id: "12490534"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034538/2017-01-01/0"
-intitule_bron: "Stb.2013-565"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-18"
-intitule_published: "2013-12-23"
-intitule_in_force: "2013-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2013-565"
-original_signed_date: "2013-12-18"
-original_published_date: "2013-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "33752"
-original_url_id: "stb-2013-565"
-entry_into_force_date: "2013-12-24"
-entry_into_force_dossier: "33752"
-jci_1_3: "jci1.3:c:BWBR0034538&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0034538&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2014"
-signed_date: "2013-12-18"
-entry_into_force: "2013-12-24"
+publicatiedatum: 2013-12-24
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0034538"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 18 december 2013 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2014)
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IVa
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VIIIa
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IX
 
@@ -94,31 +70,31 @@ Na toepassing van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR00345
 
 ##### Artikel XI
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel XIa
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel XII
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XIVbis
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XV
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XVa
 
@@ -126,7 +102,7 @@ Bij een overlijden in de periode van 1 januari 2015 tot en met 29 juni 2015 is [
 
 ##### Artikel XVI
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XVII
 
@@ -134,47 +110,47 @@ Het aan de ondernemer toekomend recht om de belasting in aftrek te brengen op he
 
 ##### Artikel XVIIa
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XX
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
+*Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.*
 
 ##### Artikel XXIII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXIIIa
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXIIIb
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXIIIc
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXIIId
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXIV
 
@@ -182,63 +158,63 @@ Met ingang van 1 januari 2017 wordt in de [Wet belastingen op milieugrondslag](h
 
 ##### Artikel XXV
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XXVI
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XXVII
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XXVIIa
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Belastingwet BES.*
 
 ##### Artikel XXVIIb
 
-Wijzigt de Wet inkomstenbelasting BES.
+*Wijzigt de Wet inkomstenbelasting BES.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet opslag duurzame energie.
+*Wijzigt de Wet opslag duurzame energie.*
 
 ##### Artikel XXIXa
 
-Wijzigt het Belastingplan 2010.
+*Wijzigt het Belastingplan 2010.*
 
 ##### Artikel XXX
 
-Wijzigt het Belastingplan 2011.
+*Wijzigt het Belastingplan 2011.*
 
 ##### Artikel XXXI
 
-Wijzigt de Wet uitwerking autobrief.
+*Wijzigt de Wet uitwerking autobrief.*
 
 ##### Artikel XXXII
 
-Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.
+*Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.*
 
 ##### Artikel XXXIIa
 
-Wijzigt de Fiscale verzamelwet 2013.
+*Wijzigt de Fiscale verzamelwet 2013.*
 
 ##### Artikel XXXIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXXIIIa
 
-Wijzigt de Wijzigingswet Wet tegemoetkoming chronisch zieken en gehandicapten (afschaffing algmene tegemoetkoming chronisch zieken en gehandicapten, enz.) (kst. 33726).
+*Wijzigt de Wijzigingswet Wet tegemoetkoming chronisch zieken en gehandicapten (afschaffing algmene tegemoetkoming chronisch zieken en gehandicapten, enz.) (kst. 33726).*
 
 ##### Artikel XXXIIIb
 
-Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
+*Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.*
 
 ##### Artikel XXXIIIc
 
@@ -313,11 +289,3 @@ Ingeval de samenloop van wetten die in 2013 in het Staatsblad zijn of worden gep
 ##### Artikel XXXVIII
 
 Deze wet wordt aangehaald als: Belastingplan 2014.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor het jaar 2014 wenselijk is een aantal fiscale maatregelen te treffen die voortvloeien uit het regeerakkoord en maatregelen te treffen ter voorkoming van fraude en ontduiking;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle Ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

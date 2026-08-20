@@ -1,58 +1,31 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 december 2013, kenmerk 176506-114151-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake voortzetting van het macrobeheersinstrument voor geriatrische revalidatiezorg"
+citeertitel: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (voortzetting macrobeheersinstrument geriatrische revalidatiezorg)"
 identifier: "BWBR0034321"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-02-01"
-last_updated: "2014-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034321"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12463963"
-version_id: "20950942"
-internal_id: "C30072401"
-label_id: "12434894"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034321/2014-02-01/0"
-intitule_bron: "Stcrt.2013-34464"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-03"
-intitule_published: "2013-12-11"
-intitule_in_force: "2013-12-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-34464"
-original_signed_date: "2013-12-03"
-original_published_date: "2013-12-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-34464"
-entry_into_force_date: "2014-02-01"
-jci_1_3: "jci1.3:c:BWBR0034321&z=2014-02-01&g=2014-02-01"
-jci_1_0: "1.0:c:BWBR0034321&g=2014-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (voortzetting macrobeheersinstrument geriatrische revalidatiezorg)"
-signed_date: "2013-12-03"
-entry_into_force: "2014-02-01"
+publicatiedatum: 2014-02-01
+laatste_update: 2014-02-01
+status: geldig
+toestand: 2014-02-01
+bron: "https://wetten.overheid.nl/BWBR0034321"
+opgehaald: 2026-08-20
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 december 2013, kenmerk 176506-114151-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake voortzetting van het macrobeheersinstrument voor geriatrische revalidatiezorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 3 juli 2013 schriftelijk mededeling te hebben gedaan aan de Eerste en de Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) (Kamerstukken II 2010/11, 30 597, nr. 366);
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- a. *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- b. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- b. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- c. **geriatrische revalidatiezorg:** revalidatiezorg zoals een specialist ouderengeneeskunde pleegt te bieden en waarop ingevolge een zorgverzekering als bedoeld in [artikel 1, onder d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) aanspraak bestaat;
+- c. *geriatrische revalidatiezorg:* revalidatiezorg zoals een specialist ouderengeneeskunde pleegt te bieden en waarop ingevolge een zorgverzekering als bedoeld in [artikel 1, onder d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) aanspraak bestaat;
 
-- d. **jaar t:** het kalenderjaar waarop een macrogrens en individuele grenzen betrekking hebben, waarbij 2014 het eerste jaar t is.
+- d. *jaar t:* het kalenderjaar waarop een macrogrens en individuele grenzen betrekking hebben, waarbij 2014 het eerste jaar t is.
 
 ##### Artikel 2. werkingssfeer
 
@@ -103,5 +76,3 @@ De zorgautoriteit handhaaft de macrogrens door handhaving van de individuele gre
 2. Het individueel af te dragen bedrag is voor iedere zorgaanbieder gelijk aan het procentuele aandeel van de omzet van die aanbieder in de totale omzet in jaar t van alle aanbieders samen, vermenigvuldigd met het bedrag, bedoeld in het derde lid, dat de zorgautoriteit als basis dient te nemen voor de handhaving.
 
 3. De zorgautoriteit geeft een aanwijzing als bedoeld in het eerste lid niet dan nadat ik haar uiterlijk 1 december van jaar t+1 schriftelijk heb laten weten dat het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034321&artikel=4&z=2014-02-01&g=2014-02-01) is overschreden, onder vermelding van het bedrag dat de zorgautoriteit als basis dient te nemen voor de handhaving van de macrogrens.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.

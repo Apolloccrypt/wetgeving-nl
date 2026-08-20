@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Autoriteit Consument en Markt van 2 mei 2013, ACM/DJZ/2013/200952, tot vaststelling van nadere regels voor de behandeling van klachten (Klachtenregeling ACM)"
+citeertitel: "Klachtenregeling ACM"
 identifier: "BWBR0033506"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-06-13"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033506"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12279433"
-version_id: "20562592"
-internal_id: "C28914051"
-label_id: "12250814"
-dtd_version: "2.0"
-original_entry_into_force: "2013-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033506/2013-06-13/0"
-intitule_bron: "Stcrt.2013-15565"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-05-02"
-intitule_published: "2013-06-12"
-intitule_in_force: "2013-06-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-15565"
-original_signed_date: "2013-05-02"
-original_published_date: "2013-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-15565"
-entry_into_force_date: "2013-06-13"
-jci_1_3: "jci1.3:c:BWBR0033506&z=2013-06-13&g=2013-06-13"
-jci_1_0: "1.0:c:BWBR0033506&g=2013-06-13"
-citeertitel_status: "officieel"
-short_title: "Klachtenregeling ACM"
-signed_date: "2013-05-02"
-entry_into_force: "2013-06-13"
+publicatiedatum: 2013-06-13
+laatste_update: 2013-06-13
+status: geldig
+toestand: 2013-06-13
+bron: "https://wetten.overheid.nl/BWBR0033506"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Autoriteit Consument en Markt van 2 mei 2013, ACM/DJZ/2013/200952, tot vaststelling van nadere regels voor de behandeling van klachten (Klachtenregeling ACM)
-
-Gelet op [artikel 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4) en [Titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **ACM:** de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- a. *ACM:* de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- b. **ACM-organisatie:** de organisatie van het personeel als bedoeld in [artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=5);
+- b. *ACM-organisatie:* de organisatie van het personeel als bedoeld in [artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=5);
 
-- c. **klachtenfunctionaris:** de klachtenfunctionaris, als bedoeld in artikel 4.11 van het Besluit organisatie, mandaat, volmacht en machtiging ACM 2013.
+- c. *klachtenfunctionaris:* de klachtenfunctionaris, als bedoeld in artikel 4.11 van het Besluit organisatie, mandaat, volmacht en machtiging ACM 2013.
 
 ##### Artikel 2
 
@@ -74,7 +48,7 @@ Postbus 16326
 
 2500 BH Den Haag
 
-2. Voor de indiening van schriftelijke klachten kan gebruik worden gemaakt van het klachtenformulier als bedoeld in de bijlage bij dit besluit.
+2. Voor de indiening van schriftelijke klachten kan gebruik worden gemaakt van het klachtenformulier als bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0033506) bij dit besluit.
 
 3. Indien een klacht elders wordt ingediend bij de ACM-organisatie, dan wordt de klacht ter behandeling doorgezonden aan de klachtenfunctionaris.
 
@@ -113,19 +87,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Klachtenregeling ACM.
-
-## Bijlage. bij Besluit van de Autoriteit Consument en Markt van 2 mei 2013, ACM/DJZ/2013/200952, tot vaststelling van nadere regels voor de behandeling van klachten (Klachtenregeling ACM)
-
-Formulier voor het indienen van een klacht over de Autoriteit Consument en Markt
-
-- 1. Uw persoonlijke gegevens Achternaam Voorletters Man/ Vrouw* Adres Postcode Plaats Telefoon overdag Fax E-mail Ik heb ACM wel/niet* gebeld over mijn klacht. (* Streep door wat niet van toepassing is.)
-
-- 2. Uw klacht Geef een korte en bondige beschrijving van uw klacht. Vermeld daarbij in elk geval de plaats en de datum van de gebeurtenis en de namen van de ACM-medewerker(s) over wie de klacht gaat, of die erbij betrokken waren. ........................ ........................ ........................
-
-- 3. Wat zou, volgens u, een goede oplossing zijn voor uw klacht? ........................ ........................ ........................
-
-- 4. Heeft u al iets ondernomen met uw klacht? Zo ja, wat? ........................ ........................
-
-- 5. Zijn er nog andere aspecten die u belangrijk vindt voor de behandeling van uw klacht? Zo ja, welke? ........................ ........................ Datum : Plaats : Naam : Handtekening: Stuur dit formulier en eventuele relevante stukken of brieven naar: De klachtenfunctionaris van Autoriteit Consument en Markt Postbus 16326 2500 BH Den Haag
-
-Dit besluit met bijlage zal in de Staatscourant worden geplaatst.

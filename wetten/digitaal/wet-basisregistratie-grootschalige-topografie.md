@@ -1,47 +1,18 @@
 ---
 title: "Wet van 25 september 2013, houdende regels omtrent de basisregistratie grootschalige topografie (Wet basisregistratie grootschalige topografie)"
+citeertitel: "Wet basisregistratie grootschalige topografie"
 identifier: "BWBR0034026"
-country: "nl"
-rank: "wet"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034026"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12397763"
-version_id: "20806692"
-internal_id: "C32867221"
-label_id: "12369164"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034026/2025-02-12/0"
-intitule_bron: "Stb.2013-379"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-09-25"
-intitule_published: "2013-10-17"
-intitule_in_force: "2015-10-16"
-intitule_status: "goed"
-original_publication: "Stb.2013-379"
-original_signed_date: "2013-09-25"
-original_published_date: "2013-10-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "33527"
-original_url_id: "stb-2013-379"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0034026&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0034026&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Wet basisregistratie grootschalige topografie"
-signed_date: "2013-09-25"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0034026"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 25 september 2013, houdende regels omtrent de basisregistratie grootschalige topografie (Wet basisregistratie grootschalige topografie)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter bevordering van een goede vervulling van bepaalde publiekrechtelijke taken wenselijk is om een basisregistratie grootschalige topografie tot stand te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,27 +20,27 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **authentiek gegeven:** in een basisregistratie opgenomen gegeven dat bij of krachtens de wet als authentiek is aangemerkt;
+- *authentiek gegeven:* in een basisregistratie opgenomen gegeven dat bij of krachtens de wet als authentiek is aangemerkt;
 
-- **basislijn:** basislijn volgens het op 10 december 1982 te Montego-Bay tot stand gekomen Verdrag van de Verenigde Naties inzake het recht van de zee (Trb. 1983, 83);
+- *basislijn:* basislijn volgens het op 10 december 1982 te Montego-Bay tot stand gekomen Verdrag van de Verenigde Naties inzake het recht van de zee (Trb. 1983, 83);
 
-- **basisregistratie:** verzameling gegevens waarvan bij wet is bepaald dat deze een basisregistratie vormt;
+- *basisregistratie:* verzameling gegevens waarvan bij wet is bepaald dat deze een basisregistratie vormt;
 
-- **bronhouder:** bestuursorgaan of rechtspersoon aan wie bij deze wet de verantwoordelijkheid voor het bijhouden van geografische gegevens is opgedragen;
+- *bronhouder:* bestuursorgaan of rechtspersoon aan wie bij deze wet de verantwoordelijkheid voor het bijhouden van geografische gegevens is opgedragen;
 
-- **catalogus:** catalogus als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=1&artikel=4&z=2025-02-12&g=2025-02-12);
+- *catalogus:* catalogus als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=1&artikel=4&z=2025-02-12&g=2025-02-12);
 
-- **defensieterrein:** terrein in eigendom van de Staat en in materieel beheer bij het Ministerie van Defensie met uitzondering van oefen- en schietterreinen;
+- *defensieterrein:* terrein in eigendom van de Staat en in materieel beheer bij het Ministerie van Defensie met uitzondering van oefen- en schietterreinen;
 
-- **Dienst:** Dienst voor het kadaster en de openbare registers, als bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- *Dienst:* Dienst voor het kadaster en de openbare registers, als bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- **geografisch gegeven:**
+- *geografisch gegeven:*
 
-- 1°. in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2025-02-12&g=2025-02-12), genoemd geografisch object;
+   - 1°. in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2025-02-12&g=2025-02-12), genoemd geografisch object;
 
-- 2°. in de catalogus opgenomen kenmerk als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2025-02-12&g=2025-02-12), dat aan een geografisch object is toegekend;
+   - 2°. in de catalogus opgenomen kenmerk als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2025-02-12&g=2025-02-12), dat aan een geografisch object is toegekend;
 
-- **Onze Minister:** Onze Minister van Volkshuisvesting en Ruimtelijke Ordening.
+- *Onze Minister:* Onze Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
 ##### Artikel 2
 
@@ -185,9 +156,9 @@ Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie
 
 - g. burgemeester en wethouders van de gemeente, voor zover het betreft geografische objecten:
 
-- 1°. gesitueerd in het gebied binnen de bebouwde kom, bedoeld in [artikel 20a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20a), met uitzondering van de geografische objecten waarvoor op grond van de onderdelen a tot en met f een andere bronhouder verantwoordelijk is;
+   - 1°. gesitueerd in het gebied binnen de bebouwde kom, bedoeld in [artikel 20a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20a), met uitzondering van de geografische objecten waarvoor op grond van de onderdelen a tot en met f een andere bronhouder verantwoordelijk is;
 
-- 2°. gesitueerd in het gebied buiten de bebouwde kom en die onderdeel zijn van gebouwen met de bijbehorende erven, alsmede van wegen en kunstwerken en de daartoe behorende terreinen die in beheer zijn bij de gemeente, alsmede van spoorwegen waarvoor op grond van de onderdelen a tot en met f niet een andere bronhouder verantwoordelijk is.
+   - 2°. gesitueerd in het gebied buiten de bebouwde kom en die onderdeel zijn van gebouwen met de bijbehorende erven, alsmede van wegen en kunstwerken en de daartoe behorende terreinen die in beheer zijn bij de gemeente, alsmede van spoorwegen waarvoor op grond van de onderdelen a tot en met f niet een andere bronhouder verantwoordelijk is.
 
 2. Voor een geografisch object als bedoeld in [artikel 7, tweede lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2025-02-12&g=2025-02-12), bepalen bronhouders van de daaraan grenzende geografische objecten in onderlinge overeenstemming door wie de bijhouding, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-02-12&g=2025-02-12), geschiedt.
 
@@ -267,7 +238,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 1. De Dienst verleent aan eenieder op verzoek inzage in de basisregistratie grootschalige topografie en het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2025-02-12&g=2025-02-12), en verstrekt aan eenieder op verzoek de daarin opgenomen gegevens.
 
-2. De inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, kan worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a, c en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1).
+2. De inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, kan worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a, c en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1).
 
 3. Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent de inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, waarbij tarieven kunnen worden vastgesteld die verschuldigd zijn voor het verkrijgen van inzage of het verstrekken van gegevens. Gebruik van de basisregistratie grootschalige topografie dat bij of krachtens de wet verplicht is gesteld, is kosteloos.
 
@@ -343,7 +314,7 @@ Na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wet
 
 ##### Artikel 29
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 30
 
@@ -367,11 +338,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 32
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 33
 
-Wijzigt de Kadasterwet.
+*Wijzigt de Kadasterwet.*
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
@@ -382,5 +353,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 35
 
 Deze wet wordt aangehaald als: Wet basisregistratie grootschalige topografie.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

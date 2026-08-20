@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 10 december 2013, nr. IENM/BSK-2013/287792, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Maastricht, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Maastricht)"
+citeertitel: "Omzettingsregeling luchthaven Maastricht"
 identifier: "BWBR0034339"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034339"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12472773"
-version_id: "20971972"
-internal_id: "C30120351"
-label_id: "12443594"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034339/2014-01-01/0"
-intitule_bron: "Stcrt.2013-35008"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-10"
-intitule_published: "2013-12-31"
-intitule_in_force: "2013-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35008"
-original_signed_date: "2013-12-10"
-original_published_date: "2013-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35008"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034339&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034339&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Omzettingsregeling luchthaven Maastricht"
-signed_date: "2013-12-10"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034339"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 10 december 2013, nr. IENM/BSK-2013/287792, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Maastricht, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Maastricht)
-
-Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) (Stb. 2008, 561);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,23 +20,24 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **ATC-slot (Air Traffic Control-slot):** een door de luchtverkeersleiding opgegeven CTOT (Calculated Take-Off Time). Dit is een nominale tijd met een tolerantie van 5 minuten voor tot 10 minuten na het opgegeven slot-tijdstip;
+- – *ATC-slot (Air Traffic Control-slot):* een door de luchtverkeersleiding opgegeven CTOT (Calculated Take-Off Time). Dit is een nominale tijd met een tolerantie van 5 minuten voor tot 10 minuten na het opgegeven slot-tijdstip;
 
-- –. **circuitvlucht:** vliegtuigbeweging in de onmiddellijke omgeving van de luchthaven, in het bijzonder verband houdend met het starten, het oefenen voor het landen en het landen als onderdeel van het lesvliegen;
+- – *circuitvlucht:* vliegtuigbeweging in de onmiddellijke omgeving van de luchthaven, in het bijzonder verband houdend met het starten, het oefenen voor het landen en het landen als onderdeel van het lesvliegen;
 
-- –. **exploitant:** de exploitant van de luchthaven Maastricht;
+- – *exploitant:* de exploitant van de luchthaven Maastricht;
 
-- –. **lesvlucht:** vlucht onder leiding van een instructeur om vliegvaardigheid te verkrijgen;
+- – *lesvlucht:* vlucht onder leiding van een instructeur om vliegvaardigheid te verkrijgen;
 
-- –. **oefenvlucht:** solovlucht voor het verkrijgen dan wel behouden van vliegvaardigheid;
+- – *oefenvlucht:* solovlucht voor het verkrijgen dan wel behouden van vliegvaardigheid;
 
-- –. **proefvlucht:** vlucht met een luchtvaartuig ter beproeving van de eigenschappen en goede werking van een luchtvaartuig of voor de levering van bewijs van het voldoen aan de luchtvaardigheidsvoorschriften;
+- – *proefvlucht:* vlucht met een luchtvaartuig ter beproeving van de eigenschappen en goede werking van een luchtvaartuig of voor de levering van bewijs van het voldoen aan de luchtvaardigheidsvoorschriften;
 
-- –. **regeringsvlucht:** vlucht ten behoeve van staatshoofden of regeringsfunctionarissen, dan wel in hun opdracht;
+- – *regeringsvlucht:* vlucht ten behoeve van staatshoofden of regeringsfunctionarissen, dan wel in hun opdracht;
 
-- –. **verdrag:** Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
+- – *verdrag:* Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
 
-- –. **wet:** [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928).
+- – *wet:*
+ [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928).
 
 2. Het gebruiksjaar betreft de periode van 1 november van enig jaar tot en met 31 oktober van het daarop volgend jaar.
 
@@ -125,11 +100,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na plaatsing in de 
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Maastricht.
-
-## Bijlage 1. bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&hoofdstuk=2&artikel=3&z=2014-01-01&g=2014-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&hoofdstuk=3&artikel=6&z=2014-01-01&g=2014-01-01) van de Omzettingsregeling luchthaven Maastricht: kaart van het luchthavengebied van de luchthaven Maastricht met ligging van de baan, de plaats van de handhavingspunten en een tabel met de handhavingspunten en de daarbij behorende grenswaarde
-
-## Bijlage 2. bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&hoofdstuk=4&artikel=7&z=2014-01-01&g=2014-01-01) van de Omzettingsregeling luchthaven Maastricht: kaart met het beperkingengebied ten gevolge van de KE-geluidszone en de daarbij behorende contouren van de luchthaven Maastricht
-
-## Bijlage 3. bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&hoofdstuk=4&artikel=7&z=2014-01-01&g=2014-01-01) van de Omzettingsregeling luchthaven Maastricht: kaart met het beperkingengebied ten gevolge van de BKL-geluidszone en de daarbij behorende contouren van de luchthaven Maastricht
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

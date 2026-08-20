@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur-generaal van Rijkswaterstaat van 11 maart 2013, met kenmerk RWS/SDG-2013/12895, houdende verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013)"
+citeertitel: "Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013"
 identifier: "BWBR0034184"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-05-17"
-last_updated: "2025-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034184"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12428803"
-version_id: "25830112"
-internal_id: "C36824071"
-label_id: "12399774"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034184/2025-05-17/0"
-intitule_bron: "Stcrt.2013-7574"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-11"
-intitule_published: "2013-03-25"
-intitule_in_force: "2013-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-25048"
-original_signed_date: "2019-04-11"
-original_published_date: "2019-05-10"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2019-25048"
-entry_into_force_date: "2019-04-11"
-jci_1_3: "jci1.3:c:BWBR0034184&z=2025-05-17&g=2025-05-17"
-jci_1_0: "1.0:c:BWBR0034184&g=2025-05-17"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013"
-signed_date: "2019-04-11"
-entry_into_force: "2019-04-11"
+publicatiedatum: 2019-04-11
+laatste_update: 2025-05-17
+status: geldig
+toestand: 2025-05-17
+bron: "https://wetten.overheid.nl/BWBR0034184"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de directeur-generaal van Rijkswaterstaat van 11 maart 2013, met kenmerk RWS/SDG-2013/12895, houdende verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013)
-
-Gelet op [artikel 23, tweede en derde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=23), respectievelijk [artikel 3 van het Instellingsbesluit directoraat-generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=3) en [artikel 3, eerste en tweede lid, van het Besluit mandaat en machtiging directeur-generaal Rijkswaterstaat inzake erkenningen bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0032328&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
@@ -68,7 +42,7 @@ De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met 
 
 - b. de afdelingshoofden en districtshoofden, en
 
-- c. de projectdirecteuren, projectmanagers en projectleiders van projecten met een waarde groter dan € 50.000.000.
+- c. de projectdirecteuren, projectmanagers en projectleiders van projecten met een waarde groter dan € 50.000.000.
 
 3. De in het tweede lid, onder c, genoemde functionarissen worden geen bevoegdheden verleend in HRM-aangelegenheden.
 
@@ -88,7 +62,7 @@ De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met 
 
 - b. het hoofd Klant en Services;
 
-- c. project- of programmamanagers van projecten of programma’s met een waarde groter dan € 50.000.000;
+- c. project- of programmamanagers van projecten of programma’s met een waarde groter dan € 50.000.000;
 
 - d. de afdelingshoofden;
 
@@ -126,7 +100,7 @@ De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met 
 
 ##### Artikel 8. Mandatering centrale organisatieonderdeel Rijkswaterstaat Nova
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9. Verlening volmacht en machtiging
 
@@ -198,7 +172,7 @@ Vervallen
 
 ##### Artikel 12. Voorbehouden en beperkingen
 
-Ten aanzien van de in dit besluit verleende bevoegdheden gelden de in de bijlage bij dit besluit opgenomen voorbehouden en beperkingen.
+Ten aanzien van de in dit besluit verleende bevoegdheden gelden de in de [bijlage](https://wetten.overheid.nl/BWBR0034184) bij dit besluit opgenomen voorbehouden en beperkingen.
 
 ##### Artikel 13. Instructies
 
@@ -214,6 +188,10 @@ Ten aanzien van de in dit besluit verleende bevoegdheden gelden de in de bijlage
 
 2. Het eerste lid is van overeenkomstige toepassing op de aan directeuren en afdelingshoofden verleende bevoegdheden op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=5&z=2025-05-17&g=2025-05-17), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=6&z=2025-05-17&g=2025-05-17) en [9, steeds tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=9&z=2025-05-17&g=2025-05-17), voor zover het hun werkterrein betreft.
 
+##### Artikel 14a
+
+Op verleende bevoegdheden in mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat of aan een andere functionaris binnen Rijkswaterstaat door een ander bestuursorgaan dan de Minister van Infrastructuur en Waterstaat, is dit besluit van overeenkomstige toepassing, tenzij betreffend besluit tot verlening van bevoegdheden in mandaat, volmacht en machtiging zelf in het onderwerp van dit besluit voorziet.
+
 ##### Artikel 15. Slotbepalingen
 
 1. Het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2011 wordt ingetrokken.
@@ -222,28 +200,8 @@ Ten aanzien van de in dit besluit verleende bevoegdheden gelden de in de bijlage
 
 ##### Artikel 16. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 april 2013.
+Dit besluit treedt in werking met ingang van 1 april 2013.
 
 ##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013.
-
-## Bijlage. bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2017-09-09&g=2018-12-01) van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013
-
-In aanvulling op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2017-09-09&g=2018-12-01) wordt, conform deze bijlage, het uitoefenen van de bevoegdheden voor bepaalde categorieën besluiten voorbehouden aan de bepaalde functionarissen en/of beperkt door de eis van voorafgaande instemming van een functionaris op een hoger niveau.
-
-### Voorbehouden en beperkingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de in dit besluit genoemde functionarissen.
-
-##### Artikel 14a
-
-Op verleende bevoegdheden in mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat of aan een andere functionaris binnen Rijkswaterstaat door een ander bestuursorgaan dan de Minister van Infrastructuur en Waterstaat, is dit besluit van overeenkomstige toepassing, tenzij betreffend besluit tot verlening van bevoegdheden in mandaat, volmacht en machtiging zelf in het onderwerp van dit besluit voorziet.
-
-## Bijlage. bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12&z=2025-05-17&g=2025-05-17) van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013
-
-In aanvulling op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=3&z=2025-05-17&g=2025-05-17) wordt, conform deze bijlage, het uitoefenen van de bevoegdheden voor bepaalde categorieën besluiten voorbehouden aan de bepaalde functionarissen en/of beperkt door de eis van voorafgaande instemming van een functionaris op een hoger niveau.
-
-### Voorbehouden en beperkingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de in dit besluit genoemde functionarissen.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 2 oktober 2013, houdende regels met betrekking tot het gebruik van de Friese taal in het bestuurlijk verkeer en in het rechtsverkeer (Wet gebruik Friese taal)"
+citeertitel: "Wet gebruik Friese taal"
 identifier: "BWBR0034047"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034047"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "12401603"
-version_id: "20811372"
-internal_id: "C30110511"
-label_id: "12372904"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034047/2024-01-01/0"
-intitule_bron: "Stb.2013-382"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-02"
-intitule_published: "2013-10-17"
-intitule_in_force: "2013-12-12"
-intitule_status: "goed"
-original_publication: "Stb.2013-382"
-original_signed_date: "2013-10-02"
-original_published_date: "2013-10-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "33335"
-original_url_id: "stb-2013-382"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034047&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0034047&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet gebruik Friese taal"
-signed_date: "2013-10-02"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0034047"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 2 oktober 2013, houdende regels met betrekking tot het gebruik van de Friese taal in het bestuurlijk verkeer en in het rechtsverkeer (Wet gebruik Friese taal)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in een taalwet de positie van de Friese taal in het bestuurlijk verkeer en in het rechtsverkeer te verankeren en de gelijke rechten van de Nederlandse taal en de Friese taal binnen de provincie Fryslân te waarborgen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -107,9 +78,9 @@ Gelet op de gezamenlijke verantwoordelijkheid en zorgplicht voor de Friese taal 
 
 - a. de notulen van de vergadering van een vertegenwoordigend orgaan inhoudt en:
 
-- 1.°. het belang van de verzoeker rechtstreeks bij het genotuleerde is betrokken, of
+   - 1.° het belang van de verzoeker rechtstreeks bij het genotuleerde is betrokken, of
 
-- 2.°. de vaststelling van algemeen verbindende voorschriften of beleidsregels betreft; of
+   - 2.° de vaststelling van algemeen verbindende voorschriften of beleidsregels betreft; of
 
 - b. een besluit of andere handeling inhoudt waarbij de verzoeker belanghebbende is.
 
@@ -199,19 +170,19 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 - a. te rapporteren over de behoeften en de wensen ten aanzien van de Friese taal en cultuur in relatie tot deze wet alsmede tot het Europees Handvest voor regionale talen of talen van minderheden en het Kaderverdrag inzake de bescherming van nationale minderheden aan:
 
-- 1°. Onze Minister;
+   - 1°. Onze Minister;
 
-- 2°. andere ministers, voor zover die verantwoordelijk zijn voor onderdelen van de centrale overheid die in de provincie Fryslân gevestigd zijn dan wel de provincie Fryslân als werkgebied hebben;
+   - 2°. andere ministers, voor zover die verantwoordelijk zijn voor onderdelen van de centrale overheid die in de provincie Fryslân gevestigd zijn dan wel de provincie Fryslân als werkgebied hebben;
 
-- 3°. andere bestuursorganen, voor zover die in de provincie Fryslân gevestigd zijn dan wel de provincie Fryslân als werkgebied hebben; en
+   - 3°. andere bestuursorganen, voor zover die in de provincie Fryslân gevestigd zijn dan wel de provincie Fryslân als werkgebied hebben; en
 
-- 4°. rechterlijke instanties voor zover die in de provincie Fryslân gevestigd zijn dan wel de provincie Fryslân als rechtsgebied hebben;
+   - 4°. rechterlijke instanties voor zover die in de provincie Fryslân gevestigd zijn dan wel de provincie Fryslân als rechtsgebied hebben;
 
 - b. te adviseren over de totstandkoming en de uitvoering van de Bestuursafspraak Friese taal en cultuur en de uitvoeringsconvenanten, aan:
 
-- 1°. Onze Minister; en
+   - 1°. Onze Minister; en
 
-- 2°. gedeputeerde staten van de provincie Fryslân;
+   - 2°. gedeputeerde staten van de provincie Fryslân;
 
 - c. ondersteuning te bieden bij het opstellen van regels en beleidsplannen als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
@@ -249,31 +220,31 @@ Het beheer van de bescheiden betreffende de werkzaamheden van het Orgaan geschie
 
 ##### Artikel 24
 
-Wijzigt de Advocatenwet.
+*Wijzigt de Advocatenwet.*
 
 ##### Artikel 25
 
-Wijzigt het Burgerlijk Wetboek Boek 1.
+*Wijzigt het Burgerlijk Wetboek Boek 1.*
 
 ##### Artikel 26
 
-Wijzigt de Gerechtsdeurwaarderswet.
+*Wijzigt de Gerechtsdeurwaarderswet.*
 
 ##### Artikel 27
 
-Wijzigt de Wet beëdigde tolken en vertalers.
+*Wijzigt de Wet beëdigde tolken en vertalers.*
 
 ##### Artikel 28
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel 29
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
 ##### Artikel 30
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -291,7 +262,7 @@ De [Wet gebruik Friese taal in het rechtsverkeer](https://wetten.overheid.nl/jci
 
 ##### Artikel 33
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 34
 
@@ -300,5 +271,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 35
 
 Deze wet wordt aangehaald als: Wet gebruik Friese taal.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

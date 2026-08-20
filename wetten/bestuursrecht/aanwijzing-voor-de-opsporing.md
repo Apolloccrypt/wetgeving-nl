@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing voor de opsporing"
 identifier: "BWBR0034586"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034586"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "12532723"
-version_id: "21097302"
-internal_id: "C30283471"
-label_id: "12503794"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034586/2014-01-01/0"
-intitule_bron: "Stcrt.2013-35757"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-12-24"
-intitule_in_force: "2013-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35757"
-original_published_date: "2013-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35757"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034586&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034586&g=2014-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034586"
+opgehaald: 2026-08-20
 ---
+
 # Aanwijzing voor de opsporing
 
 ### Achtergrond
@@ -39,6 +20,16 @@ Opsporingsinstanties en OM worden geconfronteerd met een veelheid aan strafbare 
 ### 1. Doelstelling
 
 De aanwijzing voor de opsporing vormt het kader voor de reactie van de opsporingsdiensten en OM op gepleegde strafbare feiten (misdrijven). Met deze aanwijzing wordt beoogd de volgende doelen te bereiken:
+
+- – *Beschikbare capaciteit goed inzetten:* de beperkte opsporingscapaciteit wordt zoveel mogelijk ingezet voor de goede zaken, o.a. door, afhankelijk van de ernst van de zaak, zo snel mogelijk te bepalen of het kansrijk is om een zaak in behandeling te nemen en deze anders direct uit te screenen;
+
+- – *Bevorderen rechtsgelijkheid:* door het geven van een inhoudelijk en procedureel kader wordt bevorderd dat (vrijwel) gelijke zaken ook zoveel mogelijk op gelijke wijze worden behandeld;
+
+- – *Criteria voor casescreening:* het OM geeft vanuit zijn gezagsrol richting politie aan welke criteria een rol moeten spelen bij het beoordelen of een zaak al dan niet wordt opgepakt en met welke prioriteit, waarbij de aanwijzing op hoofdlijnen een inhoudelijk kader geeft en verder een procedureel kader biedt voor nadere lokale uitwerking daarvan;
+
+- – *Definiëren ondergrens:* het OM bepaalt vanuit zijn gezagsrol wat in ieder geval van de (bijzondere) opsporingsdiensten verwacht wordt voor wat betreft de opsporing van strafbare feiten;
+
+- – *Verantwoording:* Het OM geeft met de aanwijzing inzicht in de keuzes die worden gemaakt bij de aanpak van criminaliteit waarbij de ernst en gewicht van het maatschappelijk probleem en een zo groot mogelijk maatschappelijk effect van de interventie centraal staan.
 
 ### 2. Visie
 
@@ -62,17 +53,33 @@ Het OM biedt voor politiebeslissingen omtrent oppakken en vroegtijdig beëindige
 
 Schematisch zijn de verantwoordelijkheden als volgt:
 
-**VVC zaken:**
+*VVC zaken:*
 
 Verantwoordelijkheid politie:
 
+- – Bepaalt (al dan niet in afstemming met OM) of zaak wordt opgepakt
+
+- – Beslist (al dan niet in afstemming met OM) over vroegtijdig beëindigen zaak zonder geïdentificeerde verdachte
+
 Verantwoordelijkheid OM:
 
-**HIC/Ondermijnende criminaliteit:**
+- – Geeft kader voor oppakken en beëindigen
+
+- – Beslist over vervolging en sepot (dus bij zaak met geïdentificeerde verdachte)
+
+*HIC/Ondermijnende criminaliteit:*
 
 Verantwoordelijkheid politie/opsporingsdienst:
 
+- – Gaat (in afstemming met- en onder gezag van het OM) over tot een opsporingsonderzoek
+
 Verantwoordelijkheid OM:
+
+- – Geeft als bevoegd gezag leiding aan de opsporing voor deze categorie misdrijven
+
+- – Beslist over duur en wijze van de opsporing en (mogelijke) beëindiging van de opsporing, in samenspraak met de politie.
+
+- – Beslist over al dan niet vervolging van de geïdentificeerde verdachte
 
 Het OM is bij HIC/Ondermijningszaken vroegtijdig en intensief betrokken bij beslissingen omtrent (verder) opsporen via de (al dan niet integrale) weeg- en stuurploegen3Wat politie aangaat kunnen er – afhankelijk van de indeling op het niveau van de eenheid – stuurploegen op eenheidsniveau zijn of stuurploegen op eenheids- en/of districtsniveau. In Voor de sturing is dat niet relevant: immers steeds gaat het over recherche capaciteit op eenheidsniveau en/of districtsniveau.. De aanwijzing voor de opsporing heeft voor die zaken daarom een ander karakter dan voor de veel voorkomende criminaliteit4VVC zaken worden meestal door de basisteams aangeleverd.. In VVC zaken heeft de politie in beginsel een eigen bevoegdheid om beslissingen te nemen, uiteraard binnen het afwegingskader uit deze aanwijzing. VVC zaken komen via het ZSM proces op de selectietafel. Dat vraagt om een hoogwaardig screeningsproces. Waar nodig kan het ZSM-proces een (beperkte) sturende rol spelen in de selectie van zaken die voor opsporing in aanmerking komen, met name waar het gaat om bespreekzaken (VVC-zaken waarin vanuit de politie behoefte bestaat aan afstemming met het OM). Via ZSM kan het OM zicht houden op de aard van de instroom, de kwaliteit van het aangifteproces en van de genomen politiebeslissingen, zowel op het niveau van individuele zaken als op macroniveau.
 
@@ -85,6 +92,10 @@ Voorafgaand daaraan wordt het kader geboden voor heterdaad- en ‘kant-en-klaar�
 ### 4. Kader voor de aanpak van heterdaad- en ‘kant-en-klaar’ zaken
 
 Deze aanwijzing kent een bijzonder regime voor alle heterdaadzaken en daarmee vergelijkbare zaken waarbij de identiteit van de verdachte bij de aangever bekend is dan wel zeer gemakkelijk te achterhalen is, de ‘kant-en-klaar’ zaken. In het licht van de wederkerigheid geldt dat deze beide categorieën zaken in beginsel altijd worden opgepakt. Daarmee wordt recht gedaan aan een basaal rechtvaardigheidsgevoel en wordt ook het nemen van eigen verantwoordelijkheid door burgers en bedrijven gehonoreerd. Een uitzondering op deze regel kan – in overleg met het OM – aan de orde zijn bij zwaarwegende redenen:
+
+- – van algemeen belang als door een excessief aanbod van zaken een disproportioneel beroep op de beschikbare capaciteit wordt gedaan of in concrete situaties een strafrechtelijk optreden niet wordt verlangd.
+
+- – in een concrete zaak, indien een niet-strafrechtelijke interventie naar verwachting effectiever is.
 
 ### 5. Kader voor de aanpak van VVC-zaken
 
@@ -128,6 +139,20 @@ Deze vorm van criminaliteit leent zich in zijn algemeenheid voor een geïntegree
 
 Naast de landelijke prioriteiten zijn de volgende elementen van belang bij de keuze voor een strafrechtelijke aanpak van een concrete zaak:
 
+- • De mate waarin er sprake is van aantasting van de integriteit van stelsels10Hierbij gaat het met name om het verzwakken of misbruiken van sociaal-culturele, economische, politieke, technologische en ecologische fundamenten van onze maatschappij., criminaliteit met handelsstromen of financiële en/of onomkeerbare (gezondheids) schade;
+
+- • De mate waarin wederrechtelijk verkregen vermogen is verworven en afgenomen kan worden,
+
+- • De noodzaak om, anders dan enkel ten behoeve vaneen strafrechtelijke interventie, het strafrechtelijk onderzoek in te zetten om de feiten vast te stellen en/of andere (keten)partners in staat te stellen te interveniëren;
+
+- • De mate van impact op individuele slachtoffers en/of de maatschappij;
+
+- • De mate waarin bij een integrale aanpak andere dan strafrechtelijke interventies alleen, kunnen leiden tot een effectiever resultaat;
+
+- • Ketenpartners en/of burgers die in de geïntegreerde aanpak hun verantwoordelijkheid nemen door zelf preventieve en/of civiel-rechterlijke en/of bestuursrechtelijke maatregelen te nemen, moeten kunnen rekenen op een bijdrage van OM en de opsporing in de aanpak van bepaalde vormen van criminaliteit. Dit kan betekenen dat het OM en de opsporing vanuit die wederkerigheid besluiten tot een opsporingsonderzoek en daarop volgende strafrechtelijke interventie;
+
+- • De mate waarin, door middel van de keuze voor een specifiek onderzoek, een maatschappelijke discussie op gang kan komen.
+
 ### Districtelijk niveau
 
 Hoewel bij ondermijning de aanpak vooral op regionaal/eenheidsniveau zal plaatsvinden, kunnen de zaken zich ook op districtsniveau voordoen. Veelal betreft het niet-projectmatige of ad-hoc/incidentele (‘korte klap’) onderzoeken uit het overgangsgebied van HIC en ondermijning dan wel is er sprake van HIC met een ondermijnend karakter. (Zie verder hieronder ‘Regionaal niveau’).
@@ -153,21 +178,3 @@ In het informeren van de aangever wordt de hiervoor beschreven verantwoordelijkh
 ### Overgangsrecht
 
 De beleidsregels in deze aanwijzing hebben gelding vanaf de datum van inwerkingtreding.
-
-## Bijlage
-
-### Voorbeelden van misdrijven die onder de verschillende categorieën vallen11Met de hier genoemde voorbeelden is niet bedoeld de prioriteiten in de opsporing aan te geven.:
-
-Onder VVC (Veel voorkomende criminaliteit) vallen (onder meer) de volgende delicten:
-
-Het zijn zaken die in het algemeen worden opgepakt door de basisteams van de politie.
-
-Onder HIC (High Impact Crime) delicten vallen (onder meer) de volgende delicten:
-
-Deze zaken worden meestal opgepakt door de (district)recherche van de (regionale) eenheid
-
-Onder Ondermijning vallen (onder meer) de volgende delicten:
-
-Veelal worden deze delicten in georganiseerd verband en met een financieel oogmerk gepleegd.
-
-Deze zaken worden meestal opgepakt door de (regionale) recherche van de (regionale) eenheden en/of de landelijke eenheid en/of door de bijzondere opsporingsdiensten.

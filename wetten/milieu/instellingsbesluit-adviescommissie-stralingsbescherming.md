@@ -1,62 +1,36 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ / 13192135, houdende instelling van de adviescommissie Stralingsbescherming"
+citeertitel: "Instellingsbesluit Adviescommissie stralingsbescherming"
 identifier: "BWBR0034287"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-03-25"
-last_updated: "2017-03-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034287"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12450123"
-version_id: "20929872"
-internal_id: "C30047611"
-label_id: "12420884"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034287/2017-03-25/0"
-intitule_bron: "Stcrt.2013-34416"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-29"
-intitule_published: "2013-12-09"
-intitule_in_force: "2013-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-34416"
-original_signed_date: "2013-11-29"
-original_published_date: "2013-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-34416"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034287&z=2017-03-25&g=2017-03-25"
-jci_1_0: "1.0:c:BWBR0034287&g=2017-03-25"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie stralingsbescherming"
-signed_date: "2013-11-29"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2017-03-25
+status: geldig
+toestand: 2017-03-25
+bron: "https://wetten.overheid.nl/BWBR0034287"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ / 13192135, houdende instelling van de adviescommissie Stralingsbescherming
-
-Handelende in overeenstemming met de Ministers van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport;
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. *de minister:* de Minister van Economische Zaken;
 
-- b. **de ministers:** de Minister van Economische Zaken, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid, Welzijn en Sport;
+- b. *de ministers:* de Minister van Economische Zaken, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid, Welzijn en Sport;
 
-- c. **commissie:** Adviescommissie stralingsbescherming;
+- c. *commissie:* Adviescommissie stralingsbescherming;
 
-- d. **besluit:** [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702);
+- d. *besluit:*
+ [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702);
 
-- e. **uitvoeringsregeling:** [Uitvoeringsregeling stralingsbescherming EZ](https://wetten.overheid.nl/jci1.3:c:BWBR0034213);
+- e. *uitvoeringsregeling:*
+ [Uitvoeringsregeling stralingsbescherming EZ](https://wetten.overheid.nl/jci1.3:c:BWBR0034213);
 
-- f. **stralingsbeschermingsopleidingen:** opleidingen van erkende instellingen als bedoeld in [artikel 7f, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=7f).
+- f. *stralingsbeschermingsopleidingen:* opleidingen van erkende instellingen als bedoeld in [artikel 7f, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=7f).
 
 ##### Artikel 2
 
@@ -125,5 +99,3 @@ Dit besluit treedt in werking op 1 januari 2014.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie stralingsbescherming.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

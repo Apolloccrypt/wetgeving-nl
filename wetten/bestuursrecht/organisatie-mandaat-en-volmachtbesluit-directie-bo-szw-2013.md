@@ -1,39 +1,17 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2013, houdende de inrichting van de directie Bestuursondersteuning alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bestuursondersteuning (Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2013)"
+citeertitel: "Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013"
 identifier: "BWBR0034588"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-11-02"
-last_updated: "2023-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034588"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "12533383"
-version_id: "21098422"
-internal_id: "C30285031"
-label_id: "12504034"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034588/2023-11-02/0"
-intitule_bron: "Stcrt.2013-36211"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-17"
-intitule_published: "2013-12-27"
-intitule_in_force: "2013-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-36211"
-original_signed_date: "2013-12-17"
-original_published_date: "2013-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-36211"
-entry_into_force_date: "2013-12-28"
-jci_1_3: "jci1.3:c:BWBR0034588&z=2023-11-02&g=2023-11-02"
-jci_1_0: "1.0:c:BWBR0034588&g=2023-11-02"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013"
-signed_date: "2013-12-17"
-entry_into_force: "2013-12-28"
+publicatiedatum: 2013-12-28
+laatste_update: 2023-11-02
+status: geldig
+toestand: 2023-11-02
+bron: "https://wetten.overheid.nl/BWBR0034588"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2013, houdende de inrichting van de directie Bestuursondersteuning alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bestuursondersteuning (Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2013)
 
 #### § 1. Algemeen
@@ -42,13 +20,13 @@ entry_into_force: "2013-12-28"
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **de directie BO:** de directie Bestuursondersteuning van het ministerie;
+- a. *de directie BO:* de directie Bestuursondersteuning van het ministerie;
 
-- b. **de directeur:** de directeur Bestuursondersteuning;
+- b. *de directeur:* de directeur Bestuursondersteuning;
 
-- c. **de afdelingshoofden:** het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer (KMS), het hoofd van de afdeling Supportteam Innovatie (SI) en het hoofd van de afdeling Bestuursadvies (BA);
+- c. *de afdelingshoofden:* het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer (KMS), het hoofd van de afdeling Supportteam Innovatie (SI) en het hoofd van de afdeling Bestuursadvies (BA);
 
-- d. **de teamleider:** de teamleider die ressorteert onder het Hoofd Kabinetszaken, Managementondersteuning en Stukkenverkeer.
+- d. *de teamleider:* de teamleider die ressorteert onder het Hoofd Kabinetszaken, Managementondersteuning en Stukkenverkeer.
 
 #### § 2. Organisatie
 
@@ -140,7 +118,37 @@ Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverke
 
 ##### Artikel 5
 
-Vervallen
+Het hoofd van de afdeling Supportteam Innovatie is verantwoordelijk voor de volgende algemene taken:
+
+- a. het organiseren van activiteiten om medewerkers van SZW te inspireren en kennis aan te reiken over innovatieve methoden en oplossingen;
+
+- b. het coachen van medewerkers van SZW op de toepassing van innovatie methodieken;
+
+- c. het coördineren van het Start Up in Residence programma;
+
+- d. het vertegenwoordigen van SZW in de programmaraad van de Rijksinnovatie Community (RIC)
+
+- e. het adviseren van teams en medewerkers die in een specifieke opgave innovaties willen toepassen;
+
+- f. het structureel ondersteunen van enkele teams bij het toepassen van een innovatieve werkwijze of oplossing binnen een grote maatschappelijke opgave die prioriteit heeft voor SZW, gedurende een langere periode (bijv. één jaar);
+
+- g. het adviseren en ondersteunen van medewerkers van SZW bij het toepassen van kennis uit de gedragswetenschappen en praktijkgericht werken;
+
+- h. het versterken van de aandacht voor gedragsinzichten en praktijkgericht werken binnen SZW door te informeren en agenderen;
+
+- i. het faciliteren van bijeenkomsten waarin een gedragsanalyse wordt opgesteld, of het inschakelen van externe partijen daarvoor;
+
+- j. het versterken van bestaande netwerken rond gedragsinzichten en praktijkgericht werken binnen en buiten SZW;
+
+- k. coördinatie van het SZW-kernteam Gedrag en het SZW-kernteam Praktijkgericht werken;
+
+- l. advisering van de ambtelijke top en bewindspersonen op het gebeid van gedragsinzichten en praktijkgericht werken;
+
+- m. coördinatie van SZW bijdragen aan rijksbrede acties rond gedrag en praktijkgericht werken;
+
+- n. het uitwerken van een aanpak voor de versterking van kennis en vaardigheden rond gedragsinzichten en praktijkgericht werken bij SZW medewerkers, samen met het Leer- en Ontwikkelplein;
+
+- o. ondersteuning op het gebied van praktijkgericht werken (Programma SZW werkt, spoor 1 en 2) aan de directies en de Bestuursraad.
 
 ##### Artikel 6
 
@@ -156,13 +164,13 @@ Aan de afdelingshoofden, alsmede aan de programmamanagers ressorterend onder de 
 
 - b. de personeelsaangelegenheden van de eigen afdeling of het eigen programmateam voor zover het betreft:
 
-- 1. Het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers; (directeur BO stelt vast);
+   - 1. Het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers; (directeur BO stelt vast);
 
-- 2. Het houden van personeelsgesprekken;
+   - 2. Het houden van personeelsgesprekken;
 
-- 3. Verlof van medewerkers;
+   - 3. Verlof van medewerkers;
 
-- 4. Kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur (maximaal € 150);
+   - 4. Kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur (maximaal € 150);
 
 - c. de door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde bestedingsplan van de directie.
 
@@ -172,11 +180,11 @@ De afdelingshoofden zijn gevolmachtigd tot het aangaan van overeenkomsten met be
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2023-11-02&g=2023-11-02), tot een bedrag van € 5.000,– per overeenkomst.
+Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2023-11-02&g=2023-11-02), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 11
 
@@ -184,19 +192,9 @@ Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gev
 
 2. Bij afwezigheid of verhindering van het afdelingshoofd Kabinetszaken, Managementondersteuning en Stukkenverkeer worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de teamleider.
 
-#### § 5. Slotbepaling
+##### Artikel 11a
 
-Gelet op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=3), en [8, van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=8);
-
-Besluit:
-
-#### § 1. Algemeen
-
-#### § 2. Organisatie
-
-#### § 3. Verantwoordelijkheden
-
-#### § 4. Bevoegdheden
+Aan de teamleider wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen.
 
 #### § 5. Slotbepaling
 
@@ -204,26 +202,6 @@ Besluit:
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030337) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2023-11-02&g=2023-11-02) terugwerken tot en met 1 oktober 2012
+2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2023-11-02&g=2023-11-02) terugwerken tot en met 1 oktober 2012
 
 3. Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 11a
-
-Aan de teamleider wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen.
-
-#### § 5. Slotbepaling
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 5
-
-Vervallen
-
-#### § 4. Bevoegdheden
-
-#### § 5. Slotbepaling
-
-Deze regeling zal in de Staatscourant worden geplaatst.

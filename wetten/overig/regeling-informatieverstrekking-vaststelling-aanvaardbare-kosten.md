@@ -1,41 +1,17 @@
 ---
 title: "Regeling Informatieverstrekking vaststelling aanvaardbare kosten"
 identifier: "BWBR0034142"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034142"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12421623"
-version_id: "20849012"
-internal_id: "C31272211"
-label_id: "12392564"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034142/2014-01-01/0"
-intitule_bron: "Stcrt.2013-30618"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-23"
-intitule_published: "2013-11-04"
-intitule_in_force: "2013-11-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-30618"
-original_signed_date: "2013-10-23"
-original_published_date: "2013-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-30618"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034142&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034142&g=2014-01-01"
-citeertitel_status: "officieel"
-signed_date: "2013-10-23"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034142"
+opgehaald: 2026-08-20
 ---
-# Regeling Informatieverstrekking vaststelling aanvaardbare kosten
 
-Ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van informatieverstrekking voor de vaststelling van de aanvaardbare kosten.
+# Regeling Informatieverstrekking vaststelling aanvaardbare kosten
 
 ##### Artikel 1. Reikwijdte
 
@@ -49,15 +25,15 @@ Deze regeling heeft tot doel het stellen van regels over de informatie die regio
 
 In deze regeling wordt verstaan onder:
 
-- **zorgaanbieder:** natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, onderdeel c, van de Wmg](onbekend).
+- *zorgaanbieder:* natuurlijke persoon of rechtspersoon als bedoeld in artikel 1, onderdeel c, van de Wmg.
 
-- **regionale ambulancevoorziening:** zorgaanbieder als bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](onbekend), die zorgt draagt voor het verlenen of doen verlenen van ambulancezorg en het in stand houden van een meldkamer.
+- *regionale ambulancevoorziening:* zorgaanbieder als bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg, die zorgt draagt voor het verlenen of doen verlenen van ambulancezorg en het in stand houden van een meldkamer.
 
-- **meldkamer:** zorgaanbieder als bedoeld in de [artikel 1, eerste lid, onderdeel e](onbekend), en [artikel 5, van de Tijdelijke wet ambulancezorg](onbekend).
+- *meldkamer:* zorgaanbieder als bedoeld in de artikel 1, eerste lid, onderdeel e, en artikel 5, van de Tijdelijke wet ambulancezorg.
 
-- **budgetsystematiek:** bekostigingssysteem gebaseerd op nacalculatie van geleverde zorgproductie ter dekking van een vooraf door de NZa vastgesteld budget.
+- *budgetsystematiek:* bekostigingssysteem gebaseerd op nacalculatie van geleverde zorgproductie ter dekking van een vooraf door de NZa vastgesteld budget.
 
-- **gebudgetteerde instelling:** zorgaanbieder die rechtspersoonlijkheid bezit en op wie de budgetsystematiek van toepassing is.
+- *gebudgetteerde instelling:* zorgaanbieder die rechtspersoonlijkheid bezit en op wie de budgetsystematiek van toepassing is.
 
 ##### Artikel 4. Te verstrekken informatie Regionale Ambulancevoorzieningen
 
@@ -77,19 +53,19 @@ In deze regeling wordt verstaan onder:
 
 het volledig ingevulde digitale formulier met de volgende bijlagen:
 
-- •. een digitale versie van het ondertekend formulier;
+- • een digitale versie van het ondertekend formulier;
 
-- •. een ondertekend formulier;
+- • een ondertekend formulier;
 
-- •. een goedkeurende accountantsverklaring (zie ook artikel 6);
+- • een goedkeurende accountantsverklaring (zie ook artikel 6);
 
-- •. een digitale versie van de jaarrekening jaar t-1.
+- • een digitale versie van de jaarrekening jaar t-1.
 
 Eventuele extra vermeldingen op het ondertekende formulier zijn niet geldig en worden niet meegenomen in de besluitvorming.
 
 ##### Artikel 5. Accountantsverklaring
 
-De zorgaanbieders bedoeld in artikel 4 zijn verplicht er zorg voor te dragen dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](onbekend) de juistheid van de te verstrekken gegevens en inlichtingen bedoeld in artikel 4, vierde en vijfde lid, bevestigt overeenkomstig de wijze als beschreven in het door de NZa vastgestelde Controleprotocol.
+De zorgaanbieders bedoeld in artikel 4 zijn verplicht er zorg voor te dragen dat een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek de juistheid van de te verstrekken gegevens en inlichtingen bedoeld in artikel 4, vierde en vijfde lid, bevestigt overeenkomstig de wijze als beschreven in het door de NZa vastgestelde Controleprotocol.
 
 ##### Artikel 6. Wijze van verstrekking
 
@@ -101,20 +77,16 @@ De in artikel 4 genoemde formulieren zijn beschikbaar gesteld op de website van 
 
 2. Van een onjuiste of onvolledige aanlevering is sprake, indien de in artikel 4 bedoelde informatie weliswaar binnen de geldende indieningstermijnen is verstrekt, maar niet heeft plaatsgevonden overeenkomstig de eisen die hieraan in deze regeling, de beleidsregel ‘Procedure en indieningstermijnen vaststelling en verrekening aanvaardbare kosten’, of in de toepasselijke formulieren, zijn gesteld. Bij een onjuiste of onvolledige aanlevering stelt de NZa de zorgaanbieder tenminste eenmaal in de gelegenheid – kosteloos en zonder verdere gevolgen – alsnog binnen een nader te stellen termijn over te gaan tot aanlevering van de juiste, respectievelijk volledige, informatie.
 
-3. Van een niet, of niet tijdige, aanlevering is sprake, indien na het verstrijken van de geldende indieningstermijnen geen, of alsnog een aanlevering van de in artikel 4 genoemde informatie is ontvangen. Bij de beoordeling of sprake is van een niet tijdige aanlevering, is niet relevant of de informatie onjuist, onvolledig, of compleet is. Indien de in artikel 4 bedoelde informatie niet, of niet tijdig is ontvangen, maakt de NZa in beginsel gebruik van de haar toekomende handhavende bevoegdheden genoemd in [hoofdstuk 6 van de Wmg](onbekend). Voor deze gevallen wordt een separaat en nader in te vullen handhavingstraject vastgesteld. Daarbij wordt ook bepaald in welk geval welk handhavingsinstrument (aanwijzing, boete, last onder dwangsom, etc.) wordt ingezet.
+3. Van een niet, of niet tijdige, aanlevering is sprake, indien na het verstrijken van de geldende indieningstermijnen geen, of alsnog een aanlevering van de in artikel 4 genoemde informatie is ontvangen. Bij de beoordeling of sprake is van een niet tijdige aanlevering, is niet relevant of de informatie onjuist, onvolledig, of compleet is. Indien de in artikel 4 bedoelde informatie niet, of niet tijdig is ontvangen, maakt de NZa in beginsel gebruik van de haar toekomende handhavende bevoegdheden genoemd in hoofdstuk 6 van de Wmg. Voor deze gevallen wordt een separaat en nader in te vullen handhavingstraject vastgesteld. Daarbij wordt ook bepaald in welk geval welk handhavingsinstrument (aanwijzing, boete, last onder dwangsom, etc.) wordt ingezet.
 
 ##### Artikel 8. Intrekking oude regeling
 
-Gelijktijdig met de inwerkingtreding van deze regeling wordt de [regeling ‘Informatieverstrekking vaststelling aanvaardbare kosten](onbekend)’, kenmerk NR/CU-212, ingetrokken.
+Gelijktijdig met de inwerkingtreding van deze regeling wordt de regeling ‘Informatieverstrekking vaststelling aanvaardbare kosten’, kenmerk NR/CU-212, ingetrokken.
 
 ##### Artikel 9. Overgangsbepaling
 
-De [regeling 'Informatieverstrekking vaststelling aanvaardbare kosten](onbekend)', met kenmerk NR/CU-212, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
+De regeling 'Informatieverstrekking vaststelling aanvaardbare kosten', met kenmerk NR/CU-212, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
 ##### Artikel 10. Inwerkingtreding en citeerregel
 
 Deze regeling treedt in werking met ingang van 1 januari 2014.
-
-Ingevolge [artikel 20, tweede lid, onderdeel a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=20) zal deze regeling ten minste twee dagen vóór de datum van inwerkingtreding in de Staatscourant worden geplaatst.
-
-Deze regeling kan worden aangehaald als: ‘Regeling Informatieverstrekking vaststelling aanvaardbare kosten’.

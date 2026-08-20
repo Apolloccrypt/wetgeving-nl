@@ -1,62 +1,32 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 november 2013, nr. 2013-0000722358, houdende de verlening van mandaat en machtiging in verband met het RNI Convenant Dienstverlening aan de daarbij aangesloten gemeenten (Besluit mandaat Registratie Niet-Ingezetenen)"
+citeertitel: "Besluit mandaat Registratie Niet-Ingezetenen"
 identifier: "BWBR0034319"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034319"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "12462813"
-version_id: "20949242"
-internal_id: "C30088121"
-label_id: "12433584"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034319/2026-01-01/0"
-intitule_bron: "Stcrt.2013-34447"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-11-27"
-intitule_published: "2013-12-10"
-intitule_in_force: "2013-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-34447"
-original_signed_date: "2013-11-27"
-original_published_date: "2013-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-34447"
-entry_into_force_date: "2014-01-06"
-jci_1_3: "jci1.3:c:BWBR0034319&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0034319&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat Registratie Niet-Ingezetenen"
-signed_date: "2013-11-27"
-entry_into_force: "2014-01-06"
+publicatiedatum: 2014-01-06
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0034319"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 november 2013, nr. 2013-0000722358, houdende de verlening van mandaat en machtiging in verband met het RNI Convenant Dienstverlening aan de daarbij aangesloten gemeenten (Besluit mandaat Registratie Niet-Ingezetenen)
-
-Gelet op [artikel 10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [artikel 10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gezien het RNI Convenant Dienstverlening en de daarin overeengekomen werkzaamheden genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034319&artikel=2&z=2026-01-01&g=2026-01-01),
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wet basisregistratie personen in werking treedt.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **aangesloten gemeenten:** de in de Bijlage bij dit besluit genoemde gemeenten;
+- b. *aangesloten gemeenten:* de in de [Bijlage](https://wetten.overheid.nl/BWBR0034319) bij dit besluit genoemde gemeenten;
 
-- c. **het convenant:** het RNI Convenant Dienstverlening afgesloten tussen de Minister en de aangesloten gemeenten afzonderlijk;
+- c. *het convenant:* het RNI Convenant Dienstverlening afgesloten tussen de Minister en de aangesloten gemeenten afzonderlijk;
 
-- d. **het college van burgemeester en wethouders:** het college van burgemeester en wethouders van een aangesloten gemeente;
+- d. *het college van burgemeester en wethouders:* het college van burgemeester en wethouders van een aangesloten gemeente;
 
-- e. **de wet:** de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715).
+- e. *de wet:* de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715).
 
 ##### Artikel 2
 
@@ -121,47 +91,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet basisregistratie pe
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat Registratie Niet-Ingezetenen.
-
-## Bijlage. Bij het Besluit mandaat Registratie Niet-Ingezetenen
-
-Dit Besluit ziet op de navolgende aangesloten gemeenten:
-
-Alkmaar,
-
-Almelo,
-
-Amsterdam,
-
-Breda,
-
-Den Haag,
-
-Doetinchem,
-
-Eindhoven,
-
-Goes,
-
-Groningen,
-
-Heerlen,
-
-Leeuwarden,
-
-Leiden,
-
-Nijmegen,
-
-Rotterdam,
-
-Terneuzen,
-
-Utrecht,
-
-Venlo,
-
-Westland,
-
-Zwolle.
-
-Dit besluit zal met Bijlage in de Staatscourant worden geplaatst.

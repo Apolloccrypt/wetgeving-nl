@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94942, houdende instelling van het Critical Review Team Lange Termijn Spooragenda"
+citeertitel: "Instellingsbesluit Critical Review Team Lange Termijn Spooragenda"
 identifier: "BWBR0033657"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-07-13"
-last_updated: "2013-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033657"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12311953"
-version_id: "20638962"
-internal_id: "C29547421"
-label_id: "12283094"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033657/2013-07-13/0"
-intitule_bron: "Stcrt.2013-19903"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-08"
-intitule_published: "2013-07-12"
-intitule_in_force: "2013-07-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-19903"
-original_signed_date: "2013-07-08"
-original_published_date: "2013-07-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-19903"
-entry_into_force_date: "2013-07-13"
-jci_1_3: "jci1.3:c:BWBR0033657&z=2013-07-13&g=2013-07-13"
-jci_1_0: "1.0:c:BWBR0033657&g=2013-07-13"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Critical Review Team Lange Termijn Spooragenda"
-signed_date: "2013-07-08"
-entry_into_force: "2013-07-13"
+publicatiedatum: 2013-07-13
+laatste_update: 2013-07-13
+status: geldig
+toestand: 2013-07-13
+bron: "https://wetten.overheid.nl/BWBR0033657"
+opgehaald: 2026-08-20
 ---
-# Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94942, houdende instelling van het Critical Review Team Lange Termijn Spooragenda
 
-Besluit:
+# Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94942, houdende instelling van het Critical Review Team Lange Termijn Spooragenda
 
 ##### Artikel 1
 
@@ -46,37 +22,37 @@ Er is een Critical Review Team Lange Termijn Spooragenda, hierna te noemen: het 
 
 Het Critical Review Team heeft tot taak om advies te geven over de kwaliteit van het besluitvormingsproces en de inhoudelijke uitwerking van de Lange Termijn Spooragenda, zoals gemeld in de brief aan de Tweede Kamer, d.d. 13 februari 2013 (Kamerstukken II, 29 984, nr. 384), met name met betrekking tot de volgende onderdelen van die uitwerking:
 
-- a). de herijking van programma’s en projecten, inclusief het op te stellen afwegingskader;
+- a) de herijking van programma’s en projecten, inclusief het op te stellen afwegingskader;
 
-- b). het uitwerken van sturingsmechanismen;
+- b) het uitwerken van sturingsmechanismen;
 
-- c). een oordeel over de ordening;
+- c) een oordeel over de ordening;
 
-- d). het operationeel spoorconcept en verbeteraanpak van NS en Prorail;
+- d) het operationeel spoorconcept en verbeteraanpak van NS en Prorail;
 
-- e). het verbinden van deze producten met de concessietrajecten, het PHS en ERTMS.
+- e) het verbinden van deze producten met de concessietrajecten, het PHS en ERTMS.
 
 ##### Artikel 3
 
 1. Tot de leden van het Critical Review Team worden benoemd:
 
-- a). De heer drs. W.J. Kuijken (ABDTOPConsult), tevens voorzitter;
+- a) De heer drs. W.J. Kuijken (ABDTOPConsult), tevens voorzitter;
 
-- b). De heer drs. Ing. P.J.Th. Elbers (Chief Operating Officer KLM);
+- b) De heer drs. Ing. P.J.Th. Elbers (Chief Operating Officer KLM);
 
-- c). De heer J.C. de Pagter (directeur Kompas Beheer);
+- c) De heer J.C. de Pagter (directeur Kompas Beheer);
 
-- d). Mevrouw ir. M. van Lier Lels (onafhankelijk consultant Lels & KO B.V);
+- d) Mevrouw ir. M. van Lier Lels (onafhankelijk consultant Lels & KO B.V);
 
-- e). Mevrouw ir. A. van der Rest (manager Health, Safety and Environmental Affairs Shell);
+- e) Mevrouw ir. A. van der Rest (manager Health, Safety and Environmental Affairs Shell);
 
-- f). De heer ir. E.D. Wiebes (wethouder Amsterdam);
+- f) De heer ir. E.D. Wiebes (wethouder Amsterdam);
 
-- g). de heer dr.ir. A.W. Veenman (Veenman Management & Consultancy);
+- g) de heer dr.ir. A.W. Veenman (Veenman Management & Consultancy);
 
-- h). De heer prof. E.T. Verhoef (verkeerseconoom Vrije Universiteit);
+- h) De heer prof. E.T. Verhoef (verkeerseconoom Vrije Universiteit);
 
-- i). De heer prof.dr. M.J.W. van Twist (decaan en bestuurder van de Nederlandse School voor Openbaar Bestuur).
+- i) De heer prof.dr. M.J.W. van Twist (decaan en bestuurder van de Nederlandse School voor Openbaar Bestuur).
 
 2. De leden worden benoemd tot het moment van opheffing van het Critical Review Team, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033657&artikel=5&z=2013-07-13&g=2013-07-13).
 
@@ -102,6 +78,4 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: **Instellingsbesluit Critical Review Team Lange Termijn Spooragenda**.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit wordt aangehaald als: *Instellingsbesluit Critical Review Team Lange Termijn Spooragenda*.

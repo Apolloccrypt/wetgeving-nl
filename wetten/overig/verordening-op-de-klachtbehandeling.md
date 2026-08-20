@@ -1,85 +1,41 @@
 ---
 title: "Verordening op de klachtbehandeling"
 identifier: "BWBR0034671"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034671"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12555043"
-version_id: "21162622"
-internal_id: "C30477371"
-label_id: "12525744"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034671/2022-01-01/0"
-intitule_bron: "Stcrt.2014-949"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-24"
-intitule_published: "2014-01-16"
-intitule_in_force: "2014-01-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-949"
-original_signed_date: "2013-06-24"
-original_published_date: "2014-01-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-949"
-entry_into_force_date: "2014-01-04"
-jci_1_3: "jci1.3:c:BWBR0034671&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0034671&g=2022-01-01"
-citeertitel_status: "officieel"
-signed_date: "2013-06-24"
-entry_into_force: "2014-01-04"
+publicatiedatum: 2014-01-04
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0034671"
+opgehaald: 2026-08-20
 ---
+
 # Verordening op de klachtbehandeling
 
-Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5) en [19, tweede lid, aanhef en onder c, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
-
-Treedt in werking op het tijdstip waarop de Verordening gedrags- en beroepscode accountants in werking treedt.
-
 ### Hoofdstuk 1. Begripsbepalingen
-
-### Hoofdstuk 2. Toepassingsbereik
-
-### Hoofdstuk 3. Klachtencommissie
-
-### Hoofdstuk 4. Klachtbehandeling
-
-### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel 17
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 18
-
-In artikel 1 komt de definitie van accountantskantoor te luiden:
-
-- –. accountantskantoor: het accountantskantoor, bedoeld in [artikel 1, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
-
-##### Artikel 19
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 20
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 21
-
-1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=5&artikel=18&z=2022-01-01&g=2022-01-01), dat in werking treedt op het tijdstip waarop de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) in werking treedt.
-
-2. Deze verordening wordt aangehaald als: Verordening op de klachtbehandeling.
 
 ##### Artikel 1
 
 Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt verstaan onder:
 
-- –. **accountantskantoor:** accountantskantoor als bedoeld in [artikel 1, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1).
+- – *accountantskantoor:* accountantskantoor als bedoeld in [artikel 1, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1).
+
+### Hoofdstuk 2. Toepassingsbereik
+
+##### Artikel 2
+
+1. Deze verordening is van toepassing op:
+
+- a. klachten die betrekking hebben op een accountant die niet werkzaam is bij of verbonden is aan een accountantsorganisatie of accountantskantoor waar een klachtenregeling van toepassing is;
+
+- b. klachten die ingevolge [artikel 38a, eerste lid, van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=38a) door de accountantskamer zijn doorgezonden aan de Klachtencommissie; of
+
+- c. klachten die de klager aan de Klachtencommissie wenst voor te leggen.
+
+2. Deze verordening is niet van toepassing op de klacht, bedoeld in het eerste lid onder b die de klager wenst voor te leggen aan de klachtinstantie van de accountantsorganisatie of het accountantskantoor waarbij de accountant werkzaam is of waaraan hij is verbonden.
+
+### Hoofdstuk 3. Klachtencommissie
 
 ##### Artikel 3
 
@@ -249,18 +205,28 @@ De klacht vervalt zodra klager aan de Klachtencommissie te kennen geeft dat:
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 2
+##### Artikel 17
 
-1. Deze verordening is van toepassing op:
+1. Bij de inwerkingtreding van deze verordening, wordt de Klachtencommissie gevormd door de leden van de Klachtencommissie zoals deze per 30 juni 2013 was samengesteld.
 
-- a. klachten die betrekking hebben op een accountant die niet werkzaam is bij of verbonden is aan een accountantsorganisatie of accountantskantoor waar een klachtenregeling van toepassing is;
+2. Besluiten genomen op grond van de [Verordening op de klachtbehandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025093) (Stcrt. 2008, 253) en de [Verordening op de klachtbehandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024408) (Stcrt. 2008, 167) die gelden op het tijdstip van inwerkingtreding van deze verordening, worden geacht te zijn genomen op grond van deze verordening, onder dezelfde voorschriften, beperkingen en voorwaarden.
 
-- b. klachten die ingevolge [artikel 38a, eerste lid, van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=38a) door de accountantskamer zijn doorgezonden aan de Klachtencommissie; of
+##### Artikel 18
 
-- c. klachten die de klager aan de Klachtencommissie wenst voor te leggen.
+In artikel 1 komt de definitie van accountantskantoor te luiden:
 
-2. Deze verordening is niet van toepassing op de klacht, bedoeld in het eerste lid onder b die de klager wenst voor te leggen aan de klachtinstantie van de accountantsorganisatie of het accountantskantoor waarbij de accountant werkzaam is of waaraan hij is verbonden.
+- – accountantskantoor: het accountantskantoor, bedoeld in [artikel 1, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-### Hoofdstuk 4. Klachtbehandeling
+##### Artikel 19
 
-### Hoofdstuk 5. Slotbepalingen
+De [Verordening op de klachtbehandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025093) (Stcrt. 2008, 253) wordt ingetrokken.
+
+##### Artikel 20
+
+De [Verordening op de klachtbehandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024408) (Stcrt. 2008, 167) wordt ingetrokken
+
+##### Artikel 21
+
+1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=5&artikel=18&z=2022-01-01&g=2022-01-01), dat in werking treedt op het tijdstip waarop de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) in werking treedt.
+
+2. Deze verordening wordt aangehaald als: Verordening op de klachtbehandeling.

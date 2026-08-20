@@ -1,40 +1,17 @@
 ---
 title: "Verordening op de ledenvergadering"
 identifier: "BWBR0033784"
-country: "nl"
-rank: "pbo"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033784"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12338543"
-version_id: "20701752"
-internal_id: "C29736461"
-label_id: "12309944"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033784/2024-01-01/0"
-intitule_bron: "Stcrt.2013-23901"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-08-27"
-intitule_in_force: "2013-08-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-23901"
-original_published_date: "2013-08-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-23901"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0033784&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0033784&g=2024-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0033784"
+opgehaald: 2026-08-20
 ---
+
 # Verordening op de ledenvergadering
-
-Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), en [19, tweede lid, onder d, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -42,9 +19,10 @@ Stelt de volgende verordening vast:
 
 In deze verordening wordt verstaan onder:
 
-- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
+- – *wet:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
 
-- –. **voorzitter:** voorzitter als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=4).
+- – *voorzitter:* voorzitter als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=4).
 
 ### Hoofdstuk 2. Bijeenroepen van de vergadering en agenda
 
@@ -60,7 +38,7 @@ In deze verordening wordt verstaan onder:
 
 - d. vaststelling van de begroting van de NBA voor het komende boekjaar, alsmede zo nodig van een aanvullende begroting voor het lopende boekjaar;
 
-- e. het bestuursverslag als bedoeld in [artikel 1a van de Verordening op het bestuur](onbekend);
+- e. het bestuursverslag als bedoeld in artikel 1a van de Verordening op het bestuur;
 
 - f. benoeming uit de leden van een accountant, die belast is met de controle op de financiële verantwoording, benevens een plaatsvervanger voor deze;
 
@@ -252,6 +230,6 @@ De [Verordening op de ledenvergadering 2012](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 31
 
-1. Deze verordening treedt in werking op 1 januari 2014.
+1. Deze verordening treedt in werking op 1 januari 2014.
 
 2. Deze verordening wordt aangehaald als: Verordening op de ledenvergadering.

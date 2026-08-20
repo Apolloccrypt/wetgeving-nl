@@ -1,92 +1,63 @@
 ---
 title: "Wet van 11 december 2013 inzake houdbare financiën van de collectieve sector (Wet houdbare overheidsfinanciën)"
+citeertitel: "Wet houdbare overheidsfinanciën"
 identifier: "BWBR0034360"
-country: "nl"
-rank: "wet"
-publication_date: "2025-12-31"
-last_updated: "2025-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034360"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12475963"
-version_id: "31112392"
-internal_id: "C44534591"
-label_id: "12446704"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034360/2025-12-31/0"
-intitule_bron: "Stb.2013-531"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-11"
-intitule_published: "2013-12-13"
-intitule_in_force: "2013-12-13"
-intitule_status: "goed"
-original_publication: "Stb.2025-396"
-original_signed_date: "2025-10-08"
-original_published_date: "2025-11-27"
-original_effect: "structuurwijziging"
-original_dossier: "36756"
-original_url_id: "stb-2025-396"
-entry_into_force_date: "2025-10-08"
-entry_into_force_dossier: "36756"
-jci_1_3: "jci1.3:c:BWBR0034360&z=2025-12-31&g=2025-12-31"
-jci_1_0: "1.0:c:BWBR0034360&g=2025-12-31"
-citeertitel_status: "officieel"
-short_title: "Wet houdbare overheidsfinanciën"
-signed_date: "2025-10-08"
-entry_into_force: "2025-10-08"
+publicatiedatum: 2025-10-08
+laatste_update: 2025-12-31
+status: geldig
+toestand: 2025-12-31
+bron: "https://wetten.overheid.nl/BWBR0034360"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 11 december 2013 inzake houdbare financiën van de collectieve sector (Wet houdbare overheidsfinanciën)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijke regeling te treffen voor het doelgericht streven naar houdbare financiën van de collectieve sector in nationaal en Europees verband;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. : Definities
 
 In deze wet wordt verstaan onder:
 
-- **Begrotingsbeleid:** de algemene gedragslijnen met betrekking tot de voorbereiding, de vaststelling, de uitvoering en de wijziging van de begrotingen van uitgaven en ontvangsten van de collectieve sector in meerjarig perspectief.
+- *Begrotingsbeleid:* de algemene gedragslijnen met betrekking tot de voorbereiding, de vaststelling, de uitvoering en de wijziging van de begrotingen van uitgaven en ontvangsten van de collectieve sector in meerjarig perspectief.
 
-- **Bestuurlijk overleg:** het overleg van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën, als beheerders van het gemeente- en het provinciefonds, met de instanties die representatief kunnen worden geacht voor de desbetreffende decentrale overheden, welk overleg zo nodig kan worden uitgebreid met Onze Minister van Infrastructuur en Waterstaat en de instantie die representatief kan worden geacht voor de waterschappen.
+- *Bestuurlijk overleg:* het overleg van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën, als beheerders van het gemeente- en het provinciefonds, met de instanties die representatief kunnen worden geacht voor de desbetreffende decentrale overheden, welk overleg zo nodig kan worden uitgebreid met Onze Minister van Infrastructuur en Waterstaat en de instantie die representatief kan worden geacht voor de waterschappen.
 
-- **CBS:** het Centraal Bureau voor de Statistiek.
+- *CBS:* het Centraal Bureau voor de Statistiek.
 
-- **CPB:** het Centraal Planbureau.
+- *CPB:* het Centraal Planbureau.
 
-- **Collectieve sector:** het organisatorische geheel van:
+- *Collectieve sector:* het organisatorische geheel van:
 
-- a. de rijksdienst;
+   - a. de rijksdienst;
 
-- b. de sociale fondsen;
+   - b. de sociale fondsen;
 
-- c. de decentrale overheden, en
+   - c. de decentrale overheden, en
 
-- d. de overige rechtspersonen met een wettelijke taak.
+   - d. de overige rechtspersonen met een wettelijke taak.
 
-- **Decentrale overheden:** provincies, gemeenten en waterschappen.
+- *Decentrale overheden:* provincies, gemeenten en waterschappen.
 
-- **EMU-saldo:** het saldo van de ontvangsten en de uitgaven van de collectieve sector in een jaar, zijnde het nettofinancieringssaldo van de collectieve sector, berekend overeenkomstig de voorschriften van het Europees systeem van nationale en regionale rekeningen in de Europese Unie.
+- *EMU-saldo:* het saldo van de ontvangsten en de uitgaven van de collectieve sector in een jaar, zijnde het nettofinancieringssaldo van de collectieve sector, berekend overeenkomstig de voorschriften van het Europees systeem van nationale en regionale rekeningen in de Europese Unie.
 
-- **EMU-tekort:** een negatief EMU-saldo.
+- *EMU-tekort:* een negatief EMU-saldo.
 
-- **EMU-schuld:** de stand per 31 december van een jaar van de schulden van de collectieve sector, berekend overeenkomstig de voorschriften van het Europees systeem van nationale en regionale rekeningen in de Europese Unie.
+- *EMU-schuld:* de stand per 31 december van een jaar van de schulden van de collectieve sector, berekend overeenkomstig de voorschriften van het Europees systeem van nationale en regionale rekeningen in de Europese Unie.
 
-- **Individuele referentiewaarde:** de waarde van het voor een individuele gemeente, provincie en waterschap geldende aandeel in het EMU-saldo.
+- *Individuele referentiewaarde:* de waarde van het voor een individuele gemeente, provincie en waterschap geldende aandeel in het EMU-saldo.
 
-- **Meerjarencijfers:** de ramingen van de uitgaven en de ontvangsten van de vier op het begrotingsjaar aansluitende jaren, bedoeld in [artikel 2.23, vierde lid, onder c, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.23).
+- *Meerjarencijfers:* de ramingen van de uitgaven en de ontvangsten van de vier op het begrotingsjaar aansluitende jaren, bedoeld in [artikel 2.23, vierde lid, onder c, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.23).
 
-- **Overige rechtspersonen met een wettelijke taak:** de rechtspersonen die een bij of krachtens de wet geregelde taak uitoefenen en daartoe geheel of gedeeltelijk worden bekostigd uit de opbrengst van een bij of krachtens de wet ingestelde heffing met uitzondering van de decentrale overheden en de sociale fondsen.
+- *Overige rechtspersonen met een wettelijke taak:* de rechtspersonen die een bij of krachtens de wet geregelde taak uitoefenen en daartoe geheel of gedeeltelijk worden bekostigd uit de opbrengst van een bij of krachtens de wet ingestelde heffing met uitzondering van de decentrale overheden en de sociale fondsen.
 
-- **Richtlijn:** [Richtlijn 2011/85/EU](32011L0085) van de Raad van 8 november 2011 tot vaststelling van voorschriften voor de begrotingskaders van de lidstaten (PbEU 2011, L 306).
+- *Richtlijn:*
+ Richtlijn 2011/85/EU van de Raad van 8 november 2011 tot vaststelling van voorschriften voor de begrotingskaders van de lidstaten (PbEU 2011, L 306).
 
-- **Rijksdienst:** het organisatorische geheel van de ministeries en de andere staatsorganen waarvan de uitgaven en de ontvangsten worden opgenomen in de Rijksbegroting.
+- *Rijksdienst:* het organisatorische geheel van de ministeries en de andere staatsorganen waarvan de uitgaven en de ontvangsten worden opgenomen in de Rijksbegroting.
 
-- **Sociale fondsen:** de fondsen die in het kader van het begrotingsbeleid gerekend worden tot de budgetdisciplinesectoren Sociale Zekerheid en Arbeidsmarkt en Zorg.
+- *Sociale fondsen:* de fondsen die in het kader van het begrotingsbeleid gerekend worden tot de budgetdisciplinesectoren Sociale Zekerheid en Arbeidsmarkt en Zorg.
 
-- **Structureel EMU-saldo:** het EMU-saldo, gecorrigeerd overeenkomstig de EU-methode voor conjunctuurschommelingen en voor eenmalige en tijdelijke maatregelen.
+- *Structureel EMU-saldo:* het EMU-saldo, gecorrigeerd overeenkomstig de EU-methode voor conjunctuurschommelingen en voor eenmalige en tijdelijke maatregelen.
 
 ##### Artikel 2. : Begrotingsbeleid
 
@@ -104,11 +75,11 @@ In deze wet wordt verstaan onder:
 
 - a. met inachtneming van:
 
-- i. het door de Raad van de Europese Unie voor Nederland aanbevolen netto-uitgavenpad;
+   - i. het door de Raad van de Europese Unie voor Nederland aanbevolen netto-uitgavenpad;
 
-- ii. de binnen de Europese Unie geldende norm voor het feitelijk EMU-saldo;
+   - ii. de binnen de Europese Unie geldende norm voor het feitelijk EMU-saldo;
 
-- iii. de binnen de Europese Unie geldende norm voor de feitelijke EMU-schuld;
+   - iii. de binnen de Europese Unie geldende norm voor de feitelijke EMU-schuld;
 
 - b. met inachtneming van de binnen de Europese Unie vastgestelde procedures voor het respecteren van de onder a genoemde elementen;
 
@@ -121,6 +92,42 @@ In deze wet wordt verstaan onder:
 5. Onze Minister van Financiën baseert het middellange- en langetermijnbegrotingsbeleid op onafhankelijke studies over de houdbaarheid van de financiën van de collectieve sector, die zo nodig door hem worden geëntameerd.
 
 6. Voor de beoordeling van het gevoerde begrotingsbeleid over een jaar wordt uitgegaan van de berekening van het CBS van het gerealiseerde EMU-saldo en van de gerealiseerde EMU-schuld.
+
+##### Artikel 2a. : Onafhankelijke begrotingsinstellingen
+
+1. De Afdeling advisering van de Raad van State en het CPB zijn de onafhankelijke begrotingsinstellingen belast met het toezicht op de naleving van begrotingsregels als bedoeld in artikel 8 bis van de richtlijn.
+
+2. De Afdeling advisering van de Raad van State wordt over de Miljoenennota en de Voorjaarsnota gehoord.
+
+3. Onze Minister van Financiën maakt voor het berekenen van de raming van het EMU-saldo en van de EMU-schuld gebruik van de meerjarige budgettaire ramingen van de collectieve sector, die gebaseerd zijn op de macro-economische variabelen van het CPB.
+
+##### Artikel 2b. : Taken onafhankelijke begrotingsinstellingen
+
+1. De onafhankelijke begrotingsinstellingen, genoemd in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2a&z=2025-12-31&g=2025-12-31), zijn belast met de volgende taken:
+
+- a. het opstellen, beoordelen en bekrachtigen van jaarlijkse en meerjarige macro-economische prognoses;
+
+- b. het monitoren van de naleving van de landspecifieke cijfermatige begrotingsregels als bedoeld in artikel 6 van de richtlijn;
+
+- c. het op verzoek van Onze Minister van Financiën uitbrengen van een advies over de macro-economische prognose en de macro-economische aannames die aan het netto-uitgavenpad ten grondslag liggen;
+
+- d. het op verzoek van Onze Minister van Financiën opstellen van een niet-bindend, afzonderlijk verslag, over de toereikendheid van de genomen en voorgenomen maatregelen ten opzichte van de doelstellingen, in het geval de Raad heeft vastgesteld dat er sprake is van een buitensporig tekort als bedoeld in artikel 126 van het Verdrag betreffende de werking van de Europese Unie en daartoe aanbevelingen heeft gericht tot de staat;
+
+- e. het op verzoek van Onze Minister van Financiën uitbrengen van een beoordeling van de overeenstemming van de in het jaarlijks voortgangsverslag gerapporteerde begrotingsresultaten met het door de Raad van de Europese Unie voor Nederland aanbevolen netto-uitgavenpad. Onze Minister van Financiën kan verzoeken de factoren te analyseren die ten grondslag liggen aan een afwijking van het door de Raad van de Europese Unie voor Nederland aanbevolen netto-uitgavenpad;
+
+- f. het beoordelen van de consistentie, samenhang en doeltreffendheid van het nationale begrotingskader;
+
+- g. op uitnodiging deelnemen aan regelmatige hoorzittingen en debatten in de Tweede Kamer en Eerste Kamer der Staten-Generaal.
+
+2. De onafhankelijke begrotingsinstellingen geven in de context van de taken, bedoeld in het eerste lid, onder a tot en met f, beoordelingen af. Onze Minister van Financiën geeft gevolg aan die beoordelingen of licht toe waarom hij dat niet doet. Deze toelichting is openbaar en wordt binnen twee maanden na afgifte van de beoordelingen ingediend.
+
+3. Onze Minister van Economische Zaken geeft het CPB geen aanwijzingen voor de uitoefening van de taken, bedoeld in dit artikel.
+
+4. Onze Minister van Financiën verschaft aan de onafhankelijke begrotingsinstellingen, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2a&z=2025-12-31&g=2025-12-31), adequate en tijdige toegang tot de informatie die nodig is om hun taken uit te voeren.
+
+##### Artikel 2c. : Beschrijving en beoordeling geplande beleidsmaatregelen en publicatie voorwaardelijke verplichtingen
+
+Onze Minister van Financiën draagt zorg voor de naleving van de artikelen 9, tweede lid, onder c en d, en 14, derde lid, van de richtlijn.
 
 ##### Artikel 3. : Normering budgettair beleid decentrale overheden
 
@@ -170,7 +177,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 6. : Correctiemechanisme decentrale overheden
 
-1. Indien uit de ramingen van het CPB of uit realisaties van het CBS blijkt dat het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2025-12-31&g=2025-12-31), meerjarig wordt overschreden, kunnen na bestuurlijk overleg, bij algemene maatregel van bestuur maatregelen worden gesteld ter naleving van het vastgestelde resultaat in termen van het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, als bedoeld in artikel 3, zesde lid.
+1. Indien uit de ramingen van het CPB of uit realisaties van het CBS blijkt dat het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2025-12-31&g=2025-12-31), meerjarig wordt overschreden, kunnen na bestuurlijk overleg, bij algemene maatregel van bestuur maatregelen worden gesteld ter naleving van het vastgestelde resultaat in termen van het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, als bedoeld in artikel 3, zesde lid.
 
 2. Alleen indien een meerjarige overschrijding zoals bedoeld in het eerste lid blijkt uit realisaties van het CBS, dan kan het opleggen van sancties onderdeel zijn van de in het eerste lid bedoelde maatregelen.
 
@@ -210,54 +217,14 @@ Indien toepassing wordt gegeven aan de bevoegdheid tot het toerekenen van een sa
 
 ##### Artikel 10. : Wijziging van enkele wetten
 
-1. Wijzigt de Gemeentewet.
+1. *Wijzigt de Gemeentewet.*
 
-2. Wijzigt de Provinciewet.
+2. *Wijzigt de Provinciewet.*
 
-3. Wijzigt de Wet financiering decentrale overheden.
+3. *Wijzigt de Wet financiering decentrale overheden.*
 
 ##### Artikel 11. : Slotbepalingen
 
 1. Deze wet wordt aangehaald als: Wet houdbare overheidsfinanciën.
 
-2. Deze wet treedt in werking met ingang van 1 januari 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na deze datum, dan treedt zij in werking met ingang van de dag na de datum van uitgifte van dat Staatsblad.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a. : Onafhankelijke begrotingsinstellingen
-
-1. De Afdeling advisering van de Raad van State en het CPB zijn de onafhankelijke begrotingsinstellingen belast met het toezicht op de naleving van begrotingsregels als bedoeld in artikel 8 bis van de richtlijn.
-
-2. De Afdeling advisering van de Raad van State wordt over de Miljoenennota en de Voorjaarsnota gehoord.
-
-3. Onze Minister van Financiën maakt voor het berekenen van de raming van het EMU-saldo en van de EMU-schuld gebruik van de meerjarige budgettaire ramingen van de collectieve sector, die gebaseerd zijn op de macro-economische variabelen van het CPB.
-
-##### Artikel 2b. : Taken onafhankelijke begrotingsinstellingen
-
-1. De onafhankelijke begrotingsinstellingen, genoemd in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2a&z=2025-12-31&g=2025-12-31), zijn belast met de volgende taken:
-
-- a. het opstellen, beoordelen en bekrachtigen van jaarlijkse en meerjarige macro-economische prognoses;
-
-- b. het monitoren van de naleving van de landspecifieke cijfermatige begrotingsregels als bedoeld in artikel 6 van de richtlijn;
-
-- c. het op verzoek van Onze Minister van Financiën uitbrengen van een advies over de macro-economische prognose en de macro-economische aannames die aan het netto-uitgavenpad ten grondslag liggen;
-
-- d. het op verzoek van Onze Minister van Financiën opstellen van een niet-bindend, afzonderlijk verslag, over de toereikendheid van de genomen en voorgenomen maatregelen ten opzichte van de doelstellingen, in het geval de Raad heeft vastgesteld dat er sprake is van een buitensporig tekort als bedoeld in artikel 126 van het Verdrag betreffende de werking van de Europese Unie en daartoe aanbevelingen heeft gericht tot de staat;
-
-- e. het op verzoek van Onze Minister van Financiën uitbrengen van een beoordeling van de overeenstemming van de in het jaarlijks voortgangsverslag gerapporteerde begrotingsresultaten met het door de Raad van de Europese Unie voor Nederland aanbevolen netto-uitgavenpad. Onze Minister van Financiën kan verzoeken de factoren te analyseren die ten grondslag liggen aan een afwijking van het door de Raad van de Europese Unie voor Nederland aanbevolen netto-uitgavenpad;
-
-- f. het beoordelen van de consistentie, samenhang en doeltreffendheid van het nationale begrotingskader;
-
-- g. op uitnodiging deelnemen aan regelmatige hoorzittingen en debatten in de Tweede Kamer en Eerste Kamer der Staten-Generaal.
-
-2. De onafhankelijke begrotingsinstellingen geven in de context van de taken, bedoeld in het eerste lid, onder a tot en met f, beoordelingen af. Onze Minister van Financiën geeft gevolg aan die beoordelingen of licht toe waarom hij dat niet doet. Deze toelichting is openbaar en wordt binnen twee maanden na afgifte van de beoordelingen ingediend.
-
-3. Onze Minister van Economische Zaken geeft het CPB geen aanwijzingen voor de uitoefening van de taken, bedoeld in dit artikel.
-
-4. Onze Minister van Financiën verschaft aan de onafhankelijke begrotingsinstellingen, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2a&z=2025-12-31&g=2025-12-31), adequate en tijdige toegang tot de informatie die nodig is om hun taken uit te voeren.
-
-##### Artikel 2c. : Beschrijving en beoordeling geplande beleidsmaatregelen en publicatie voorwaardelijke verplichtingen
-
-Onze Minister van Financiën draagt zorg voor de naleving van de artikelen 9, tweede lid, onder c en d, en 14, derde lid, van de richtlijn.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+2. Deze wet treedt in werking met ingang van 1 januari 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na deze datum, dan treedt zij in werking met ingang van de dag na de datum van uitgifte van dat Staatsblad.

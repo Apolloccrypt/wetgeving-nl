@@ -1,80 +1,50 @@
 ---
 title: "Wet van 12 juni 2013 tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek, de Wet op de economische delicten en enige fiscale wetten ter implementatie van richtlijn nr. 2011/61/EU van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) Nr. 1060/2009 en (EU) Nr. 1095/2010 (PbEU 2011, L 174)"
+citeertitel: "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU)"
 identifier: "BWBR0033586"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033586"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "12295803"
-version_id: "20598072"
-internal_id: "C29499421"
-label_id: "12267124"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033586/2015-01-01/0"
-intitule_bron: "Stb.2013-228"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-12"
-intitule_published: "2013-06-25"
-intitule_in_force: "2013-06-25"
-intitule_status: "goed"
-original_publication: "Stb.2013-228"
-original_signed_date: "2013-06-12"
-original_published_date: "2013-06-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "33235"
-original_url_id: "stb-2013-228"
-entry_into_force_date: "2013-07-22"
-entry_into_force_dossier: "33235"
-jci_1_3: "jci1.3:c:BWBR0033586&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0033586&g=2015-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU)"
-signed_date: "2013-06-12"
-entry_into_force: "2013-07-22"
+publicatiedatum: 2013-07-22
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0033586"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 12 juni 2013 tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek, de Wet op de economische delicten en enige fiscale wetten ter implementatie van richtlijn nr. 2011/61/EU van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) Nr. 1060/2009 en (EU) Nr. 1095/2010 (PbEU 2011, L 174)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat [richtlijn nr. 2011/61](32011L0061)/EU van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de [Richtlijnen 2003/41/EG](32003L0041) en [2009/65/EG](32009L0065) en van de Verordeningen [(EG) Nr. 1060/2009](32960L2009) en (EU) Nr. [1095/2010](32995L2010) (PbEU 2011, L 174) welke voorziet in een geharmoniseerd kader voor de vergunningverlening aan en het toezicht op beheerders van beleggingsinstellingen en beoogt de desbetreffende risico's en de gevolgen ervan voor de beleggers en markten in de Europese Unie op samenhangende wijze aan te pakken, in Nederland dient te worden geïmplementeerd;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ##### Artikel II
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel IIa
 
-Wijzigt de Wet bekostiging financieel toezicht.
+*Wijzigt de Wet bekostiging financieel toezicht.*
 
 ##### Artikel IIb
 
-Wijzigt de Wet toezicht accountantsorganisaties.
+*Wijzigt de Wet toezicht accountantsorganisaties.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel IV
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel VII
 
@@ -112,20 +82,18 @@ een bewaarder aanstelt die is gevestigd in een andere lidstaat dan de lidstaat w
 
 ##### Artikel VIIa
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Implementatiewet richtlijn solvabiliteit II.
+2. *Wijzigt de Implementatiewet richtlijn solvabiliteit II.*
 
-3. Wijzigt deze wet.
+3. *Wijzigt deze wet.*
 
-4. Wijzigt de Implementatiewet richtlijn solvabiliteit II.
+4. *Wijzigt de Implementatiewet richtlijn solvabiliteit II.*
 
-5. Wijzigt deze wet.
+5. *Wijzigt deze wet.*
 
 ##### Artikel VIII
 
 1. Deze wet, met uitzondering van [artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 22 juli 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 21 juli 2013, treedt zij, met uitzondering van artikel I, onderdelen AJ, AO, AP, AT en BB, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 2. [Artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2015-01-01&g=2015-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,60 +1,36 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 juli 2013, nr. 407207 tot vaststelling van een reglement inzake de organisatie en het beheer van het archief van de commissie Samson (Reglement archief commissie Samson)"
+citeertitel: "Reglement archief commissie Samson"
 identifier: "BWBR0033667"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-12-11"
-last_updated: "2015-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033667"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12313453"
-version_id: "20641422"
-internal_id: "C29550121"
-label_id: "12284594"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033667/2015-12-11/0"
-intitule_bron: "Stcrt.2013-20095"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-10"
-intitule_published: "2013-07-15"
-intitule_in_force: "2013-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-20095"
-original_signed_date: "2013-07-10"
-original_published_date: "2013-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-20095"
-entry_into_force_date: "2013-07-16"
-jci_1_3: "jci1.3:c:BWBR0033667&z=2015-12-11&g=2015-12-11"
-jci_1_0: "1.0:c:BWBR0033667&g=2015-12-11"
-citeertitel_status: "officieel"
-short_title: "Reglement archief commissie Samson"
-signed_date: "2013-07-10"
-entry_into_force: "2013-07-16"
+publicatiedatum: 2013-07-16
+laatste_update: 2015-12-11
+status: geldig
+toestand: 2015-12-11
+bron: "https://wetten.overheid.nl/BWBR0033667"
+opgehaald: 2026-08-20
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 juli 2013, nr. 407207 tot vaststelling van een reglement inzake de organisatie en het beheer van het archief van de commissie Samson (Reglement archief commissie Samson)
 
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 juli 2013, nr. 407207 tot vaststelling van een reglement inzake de organisatie en het beheer van het archief van de commissie Samson (Reglement archief commissie Samson)
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Veiligheid en Justitie;
+- a. *Onze Minister:* Onze Minister van Veiligheid en Justitie;
 
-- b. **archief:** het archief dat door de commissie Samson is overgedragen aan Onze Minister;
+- b. *archief:* het archief dat door de commissie Samson is overgedragen aan Onze Minister;
 
-- c. **melder:** degene die bij de commissie Samson een melding heeft gedaan van seksueel misbruik en waarvan de melding in het archief is opgenomen;
+- c. *melder:* degene die bij de commissie Samson een melding heeft gedaan van seksueel misbruik en waarvan de melding in het archief is opgenomen;
 
-- d. **melding:** de gegevens in het archief die betrekking hebben op hetgeen een melder aan de commissie Samson heeft verklaard;
+- d. *melding:* de gegevens in het archief die betrekking hebben op hetgeen een melder aan de commissie Samson heeft verklaard;
 
-- e. **feitelijk beheerder van het archief:** het Dienstencentrum afdeling Productie binnen het ministerie van Veiligheid en Justitie;
+- e. *feitelijk beheerder van het archief:* het Dienstencentrum afdeling Productie binnen het ministerie van Veiligheid en Justitie;
 
-- f. **beoordelaar archiefverzoeken:** het hoofd van de portefeuille Juridische en Internationale Zaken van het directoraat-generaal Straffen en Beschermen binnen het ministerie van Veiligheid en Justitie;
+- f. *beoordelaar archiefverzoeken:* het hoofd van de portefeuille Juridische en Internationale Zaken van het directoraat-generaal Straffen en Beschermen binnen het ministerie van Veiligheid en Justitie;
 
-- g. **anonimiseren:** het verwijderen van gegevens die het, afzonderlijk of in onderlinge samenhang, mogelijk maken om een individuele melder te identificeren.
+- g. *anonimiseren:* het verwijderen van gegevens die het, afzonderlijk of in onderlinge samenhang, mogelijk maken om een individuele melder te identificeren.
 
 ##### Artikel 2
 
@@ -99,5 +75,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit reglement wordt aangehaald als: Reglement archief commissie Samson.
-
-Dit reglement zal met de toelichting in de Staatscourant worden geplaatst.

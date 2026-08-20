@@ -1,92 +1,66 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 21 juni 2013, 124046-105228-GMT houdende Beleidsregels aanwijzing examenorganisaties drogisterijbranche"
+citeertitel: "Beleidsregels aanwijzing examenorganisaties drogisterijbranche"
 identifier: "BWBR0033614"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-07-02"
-last_updated: "2013-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033614"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "12301663"
-version_id: "20612672"
-internal_id: "C29491691"
-label_id: "12272894"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033614/2013-07-02/0"
-intitule_bron: "Stcrt.2013-17680"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-21"
-intitule_published: "2013-07-01"
-intitule_in_force: "2013-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-17680"
-original_signed_date: "2013-06-21"
-original_published_date: "2013-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-17680"
-entry_into_force_date: "2013-07-02"
-jci_1_3: "jci1.3:c:BWBR0033614&z=2013-07-02&g=2013-07-02"
-jci_1_0: "1.0:c:BWBR0033614&g=2013-07-02"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels aanwijzing examenorganisaties drogisterijbranche"
-signed_date: "2013-06-21"
-entry_into_force: "2013-07-02"
+publicatiedatum: 2013-07-02
+laatste_update: 2013-07-02
+status: geldig
+toestand: 2013-07-02
+bron: "https://wetten.overheid.nl/BWBR0033614"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 21 juni 2013, 124046-105228-GMT houdende Beleidsregels aanwijzing examenorganisaties drogisterijbranche
-
-Gelet op [artikel 1, onderdeel qqq](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) en [62 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=62);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregels wordt verstaan onder:
 
-- a. **assistent-drogist:** een assistent-drogist als bedoeld in [artikel 1, onderdeel rrr, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
+- a. *assistent-drogist:* een assistent-drogist als bedoeld in [artikel 1, onderdeel rrr, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
 
-- b. **drogist:** een drogist als bedoeld in [artikel 1, onderdeel qqq, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
+- b. *drogist:* een drogist als bedoeld in [artikel 1, onderdeel qqq, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
 
-- c. **examenorganisatie:** een organisatie als bedoeld in [artikel 1, onderdeel qqq, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
+- c. *examenorganisatie:* een organisatie als bedoeld in [artikel 1, onderdeel qqq, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
 
-- d. **minister:** de minister van Volksgezondheid, Welzijn en Sport.
+- d. *minister:* de minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2
 
 Bij een verzoek tot aanwijzing als examenorganisatie wordt het volgende beoordelingskader in acht genomen:
 
-- a. **De organisatie**
+- a. *De organisatie*
 
-- –. De verzoekende organisatie is een stichting.
+   - – De verzoekende organisatie is een stichting.
 
-- –. De stichting heeft tot doel het ontwikkelen en afnemen van examens van drogist en van assistent drogist.
+   - – De stichting heeft tot doel het ontwikkelen en afnemen van examens van drogist en van assistent drogist.
 
-- –. De stichting neemt de examens zelf af.
+   - – De stichting neemt de examens zelf af.
 
-- –. De stichting heeft een examenreglement waarin de taken en verantwoordelijkheden van haar organen duidelijk omschreven zijn.
+   - – De stichting heeft een examenreglement waarin de taken en verantwoordelijkheden van haar organen duidelijk omschreven zijn.
 
-- –. De stichting heeft een onafhankelijk toezichthoudend orgaan.
+   - – De stichting heeft een onafhankelijk toezichthoudend orgaan.
 
-- –. De stichting heeft een examencommissie waarvan de leden geen bestuurslid of medewerker van de stichting zijn.
+   - – De stichting heeft een examencommissie waarvan de leden geen bestuurslid of medewerker van de stichting zijn.
 
-- –. De stichting hanteert openbare exameneisen.
+   - – De stichting hanteert openbare exameneisen.
 
-- –. De stichting heeft een klachtenregeling.
+   - – De stichting heeft een klachtenregeling.
 
-- –. De stichting beschrijft op welke wijze de examens worden afgenomen.
+   - – De stichting beschrijft op welke wijze de examens worden afgenomen.
 
-- –. De stichting toont de meerwaarde aan die zij heeft op het terrein van examinering van drogist en assistent-drogist.
+   - – De stichting toont de meerwaarde aan die zij heeft op het terrein van examinering van drogist en assistent-drogist.
 
-- –. De doelmatigheid van een verzoek tot aanwijzing als examenorganisatie wordt getoetst.
+   - – De doelmatigheid van een verzoek tot aanwijzing als examenorganisatie wordt getoetst.
 
-- –. Het verzoek wordt schriftelijk gedaan.
+   - – Het verzoek wordt schriftelijk gedaan.
 
-- –. De stichting legt bij een verzoek tot aanwijzing als examenorganisatie tenminste alle in dit onderdeel genoemde gegevens en bescheiden over: de stichtingsakte, de examenreglementen, de openbare exameneisen, een beschrijving van de wijze van examineren en een toelichting op de exameneisen.
+   - – De stichting legt bij een verzoek tot aanwijzing als examenorganisatie tenminste alle in dit onderdeel genoemde gegevens en bescheiden over: de stichtingsakte, de examenreglementen, de openbare exameneisen, een beschrijving van de wijze van examineren en een toelichting op de exameneisen.
 
-- b. **Exameneisen**
+- b. *Exameneisen*
 
-- –. De exameneisen zijn erop gericht te waarborgen dat de drogist en de assistent-drogist in staat zijn verantwoorde zorg als bedoeld in [artikel 62, tweede lid, Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=62) aan te bieden.
+   - – De exameneisen zijn erop gericht te waarborgen dat de drogist en de assistent-drogist in staat zijn verantwoorde zorg als bedoeld in [artikel 62, tweede lid, Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=62) aan te bieden.
 
 ##### Artikel 3
 
@@ -121,5 +95,3 @@ Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgi
 ##### Artikel 7
 
 Deze beleidsregels worden aangehaald als: Beleidsregels aanwijzing examenorganisaties drogisterijbranche.
-
-Deze beleidsregels worden met de toelichting in de Staatscourant geplaatst.

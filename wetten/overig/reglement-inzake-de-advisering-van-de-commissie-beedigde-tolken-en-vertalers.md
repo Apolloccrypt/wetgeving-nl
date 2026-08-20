@@ -1,63 +1,42 @@
 ---
 title: "Reglement inzake de advisering van de Commissie beëdigde tolken en vertalers"
 identifier: "BWBR0034270"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-02-01"
-last_updated: "2014-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034270"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12446513"
-version_id: "20919242"
-internal_id: "C30034501"
-label_id: "12417294"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034270/2014-02-01/0"
-intitule_bron: "Stcrt.2013-33344"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-09-01"
-intitule_published: "2013-12-02"
-intitule_in_force: "2013-12-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-33344"
-original_signed_date: "2013-09-01"
-original_published_date: "2013-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-33344"
-entry_into_force_date: "2014-02-01"
-jci_1_3: "jci1.3:c:BWBR0034270&z=2014-02-01&g=2014-02-01"
-jci_1_0: "1.0:c:BWBR0034270&g=2014-02-01"
-citeertitel_status: "officieel"
-signed_date: "2013-09-01"
-entry_into_force: "2014-02-01"
+publicatiedatum: 2014-02-01
+laatste_update: 2014-02-01
+status: geldig
+toestand: 2014-02-01
+bron: "https://wetten.overheid.nl/BWBR0034270"
+opgehaald: 2026-08-20
 ---
+
 # Reglement inzake de advisering van de Commissie beëdigde tolken en vertalers
 
 ##### Artikel 1. Begripsomschrijvingen
 
-**In dit reglement wordt verstaan onder:**
+*In dit reglement wordt verstaan onder:*
 
-- 1. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- 1. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- 2. **Wbtv:** de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
+- 2. *Wbtv:* de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
 
-- 3. **Besluit btv:** het [Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896);
+- 3. *Besluit btv:* het [Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896);
 
-- 4. **reglement:** dit reglement inzake de advisering van de Commissie beëdigde tolken en vertalers;
+- 4. *reglement:* dit reglement inzake de advisering van de Commissie beëdigde tolken en vertalers;
 
-- 5. **De commissie:** de Commissie beëdigde tolken en vertalers zoals bedoeld in [artikel 2 van het Besluit btv](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=2);
+- 5. *De commissie:* de Commissie beëdigde tolken en vertalers zoals bedoeld in [artikel 2 van het Besluit btv](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=2);
 
-- 6. **advies:** een advies op grond van de voorgeschreven taken zoals bedoeld in [artikel 2 van het Besluit btv](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=2);
+- 6. *advies:* een advies op grond van de voorgeschreven taken zoals bedoeld in [artikel 2 van het Besluit btv](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=2);
 
-- 7. **voorzitter:** de voorzitter dan wel de plaatsvervangend voorzitter;
+- 7. *voorzitter:* de voorzitter dan wel de plaatsvervangend voorzitter;
 
-- 8. **Het lid/de leden:** leden van de commissie btv;
+- 8. *Het lid/de leden:* leden van de commissie btv;
 
-- 9. **De secretaris:** de secretaris, die de commissie in haar werkzaamheden ondersteunt;
+- 9. *De secretaris:* de secretaris, die de commissie in haar werkzaamheden ondersteunt;
 
-- 10. **De Minister:** de Minister van Veiligheid en Justitie, voor deze de Raad voor Rechtsbijstand.
+- 10. *De Minister:* de Minister van Veiligheid en Justitie, voor deze de Raad voor Rechtsbijstand.
 
 ##### Artikel 2. Samenstelling van de commissie
 

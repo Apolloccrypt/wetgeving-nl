@@ -1,45 +1,17 @@
 ---
 title: "Uitvoeringsregeling Registratiewet 1970"
 identifier: "BWBR0034017"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034017"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12395363"
-version_id: "20803662"
-internal_id: "C29875771"
-label_id: "12366574"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034017/2026-01-01/0"
-intitule_bron: "Stcrt.2013-28846"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-10"
-intitule_published: "2013-10-14"
-intitule_in_force: "2013-10-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-28846"
-original_signed_date: "2013-10-10"
-original_published_date: "2013-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-28846"
-entry_into_force_date: "2013-10-15"
-jci_1_3: "jci1.3:c:BWBR0034017&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0034017&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2013-10-10"
-entry_into_force: "2013-10-15"
+publicatiedatum: 2013-10-15
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0034017"
+opgehaald: 2026-08-20
 ---
+
 # Uitvoeringsregeling Registratiewet 1970
-
-Handelende na overleg met de Staatssecretaris van Veiligheid en Justitie;
-
-Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7a), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8) en [13 van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=13), [artikel 6 van de Wet op het centraal testamentenregister](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=6) en [artikel 18 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=18);
-
-Besluit:
 
 ### Hoofdstuk 1. Definitiebepalingen
 
@@ -47,25 +19,25 @@ Besluit:
 
 Deze regeling verstaat onder:
 
-- a. **de wet:** de [Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739);
+- a. *de wet:* de [Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739);
 
-- b. **de inspecteur:** de algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3), en de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel b, van de Uitvoeringsregeling Belastingdienst 2003;
+- b. *de inspecteur:* de algemeen directeuren van de organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3), en de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel b, van de Uitvoeringsregeling Belastingdienst 2003;
 
-- c. **de inspectie:** het organisatieonderdeel, genoemd in [artikel 3, eerste lid, onderdelen a of b, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3);
+- c. *de inspectie:* het organisatieonderdeel, genoemd in [artikel 3, eerste lid, onderdelen a of b, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3);
 
-- d. **het register:** het register, bedoeld in [artikel 1, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1);
+- d. *het register:* het register, bedoeld in [artikel 1, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1);
 
-- e. **het repertorium:** het repertorium, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7);
+- e. *het repertorium:* het repertorium, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7);
 
-- f. **elektronisch afschrift:** in digitale vorm uitgegeven afschrift in de zin van [artikel 49, eerste lid, onderdeel a, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=49) dat is voorzien van een gekwalificeerde elektronische handtekening van de notaris die voldoet aan de daaraan bij of krachtens Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van [Richtlijn 1999/93/EG](31999L0093) (PbEU 2014, L 257) gestelde eisen en aan de daartoe door de KNB, in overeenstemming met de Belastingdienst, opgestelde richtlijnen;
+- f. *elektronisch afschrift:* in digitale vorm uitgegeven afschrift in de zin van [artikel 49, eerste lid, onderdeel a, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=49) dat is voorzien van een gekwalificeerde elektronische handtekening van de notaris die voldoet aan de daaraan bij of krachtens Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van Richtlijn 1999/93/EG (PbEU 2014, L 257) gestelde eisen en aan de daartoe door de KNB, in overeenstemming met de Belastingdienst, opgestelde richtlijnen;
 
-- g. **renvooien:** de bijvoegingen, veranderingen en doorhalingen, die op de kant of aan de voet van de akte zijn vermeld, mits daarbij de plaats in de akte is aangegeven waarop zij betrekking hebben;
+- g. *renvooien:* de bijvoegingen, veranderingen en doorhalingen, die op de kant of aan de voet van de akte zijn vermeld, mits daarbij de plaats in de akte is aangegeven waarop zij betrekking hebben;
 
-- h. **elektronische kopie:** elektronische kopie als bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4) die is voorzien van een gekwalificeerde elektronische handtekening van de notaris die voldoet aan de daaraan bij of krachtens Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van [Richtlijn 1999/93/EG](31999L0093) (PbEU 2014, L 257) gestelde eisen en aan de daartoe door de KNB, in overeenstemming met de Belastingdienst, opgestelde richtlijnen;
+- h. *elektronische kopie:* elektronische kopie als bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4) die is voorzien van een gekwalificeerde elektronische handtekening van de notaris die voldoet aan de daaraan bij of krachtens Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van Richtlijn 1999/93/EG (PbEU 2014, L 257) gestelde eisen en aan de daartoe door de KNB, in overeenstemming met de Belastingdienst, opgestelde richtlijnen;
 
-- i. **elektronische kopie van een annex:** elektronische kopie van een aan een notariële akte gehecht stuk als bedoeld in [artikel 7b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7b);
+- i. *elektronische kopie van een annex:* elektronische kopie van een aan een notariële akte gehecht stuk als bedoeld in [artikel 7b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7b);
 
-- j. **RSIN:** rechtspersonen en samenwerkingsverbanden informatienummer dat door de Kamer van Koophandel wordt verstrekt bij inschrijving van rechtspersonen en samenwerkingsverbanden in het handelsregister.
+- j. *RSIN:* rechtspersonen en samenwerkingsverbanden informatienummer dat door de Kamer van Koophandel wordt verstrekt bij inschrijving van rechtspersonen en samenwerkingsverbanden in het handelsregister.
 
 ### Hoofdstuk 2. Registratie van notariële akten langs elektronische weg bij de KNB
 
@@ -95,9 +67,9 @@ Deze regeling verstaat onder:
 
 - d. van ten minste een van de bij de akte optredende partijen:
 
-- 1°. bij natuurlijke personen: de naam, met inbegrip van de voornamen, en de woonplaats;
+   - 1°. bij natuurlijke personen: de naam, met inbegrip van de voornamen, en de woonplaats;
 
-- 2°. bij niet-natuurlijke personen: de statutaire naam en de woonplaats;
+   - 2°. bij niet-natuurlijke personen: de statutaire naam en de woonplaats;
 
 - e. de vermelding of het een in minuut dan wel in originali verleden akte betreft;
 
@@ -189,9 +161,9 @@ De registratie in het register Registratie, bedoeld in [artikel 13](https://wett
 
 - c. van ten minste een van de bij de akte optredende partijen:
 
-- 1°. bij natuurlijke personen: de naam, met inbegrip van de voornamen, en de woonplaats;
+   - 1°. bij natuurlijke personen: de naam, met inbegrip van de voornamen, en de woonplaats;
 
-- 2°. bij niet-natuurlijke personen: de statutaire naam en de woonplaats;
+   - 2°. bij niet-natuurlijke personen: de statutaire naam en de woonplaats;
 
 - d. het aantal exemplaren van de akte dat tegelijk ter registratie is aangeboden;
 
@@ -215,9 +187,9 @@ Bij de registratie van een akte als bedoeld in [artikel 1, tweede lid, onderdeel
 
 - b. genummerd en gewaarmerkt:
 
-- 1°. de bladen van uit meer bladen bestaande akten;
+   - 1°. de bladen van uit meer bladen bestaande akten;
 
-- 2°. de annexen.
+   - 2°. de annexen.
 
 ##### Artikel 18
 
@@ -247,7 +219,7 @@ De inspecteur wordt tevens aangewezen als inspecteur van de rijksbelastingen, be
 
 ##### Artikel 20
 
-Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
+*Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.*
 
 ##### Artikel 21
 
@@ -270,7 +242,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 1. Deze regeling wordt aangehaald als: Uitvoeringsregeling Registratiewet 1970.
 
 2. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage A
-
-Vervallen

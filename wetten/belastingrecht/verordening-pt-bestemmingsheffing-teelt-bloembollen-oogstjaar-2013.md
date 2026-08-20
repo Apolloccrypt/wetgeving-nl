@@ -1,43 +1,53 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013)"
+citeertitel: "Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013"
 identifier: "BWBR0033943"
-country: "nl"
-rank: "pbo"
-publication_date: "2014-12-31"
-last_updated: "2014-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033943"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12376663"
-version_id: "20770382"
-internal_id: "C29834211"
-label_id: "12347744"
-dtd_version: "2.0"
-original_entry_into_force: "2013-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033943/2014-12-31/0"
-intitule_bron: "Vbbo.2013-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-26"
-intitule_published: "2013-09-20"
-intitule_in_force: "2013-09-20"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-44"
-original_signed_date: "2013-03-26"
-original_published_date: "2013-09-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-09-22"
-jci_1_3: "jci1.3:c:BWBR0033943&z=2014-12-31&g=2014-12-31"
-jci_1_0: "1.0:c:BWBR0033943&g=2014-12-31"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013"
-signed_date: "2013-03-26"
-entry_into_force: "2013-09-22"
+publicatiedatum: 2013-09-22
+laatste_update: 2014-12-31
+status: geldig
+toestand: 2014-12-31
+bron: "https://wetten.overheid.nl/BWBR0033943"
+opgehaald: 2026-08-20
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013)
 
 #### § 1. Begripsbepalingen
 
-#### § 1. Begripsbepalingen
+##### Artikel 1
+
+In deze verordening wordt verstaan onder:
+
+| a. productschap | : | Productschap Tuinbouw; |
+| --- | --- | --- |
+| b. bestuur | : | bestuur van het productschap; |
+| c. voorzitter | : | voorzitter van het productschap; |
+| d. braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
+| e. cultuurgrond | : | de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland; |
+| f. bloembollen | : | bollen, knollen en wortelstokken van bloemgewassen alsmede voortkwekingsmateriaal dat is bestemd voor de teelt van bloembollen met uitzondering van zaden; |
+| g. Gecombineerde opgave | : | het beschrijvingsbiljet als bedoeld in de artikelen 24 en 25 van de Landbouwwet; |
+| h. gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
+| i. ondernemer | : | de natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
+| j. oogstjaar | : | de periode vanaf 1 juni 2013 tot en met 31 mei 2014; |
+| k. telen | : | het telen van bloembollen, uitgangsmateriaal daaronder begrepen. |
+
+#### § 2. Heffing
+
+##### Artikel 2
+
+1. De ondernemer die bloembollen teelt is over het oogstjaar een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2014-12-31&g=2014-12-31) vermelde heffingsgrondslag met bijbehorende tarieven.
+
+2. In geval van contractteelt waarbij de contractgever eigenaar is van de bloembollen die door de contractnemer worden geteeld, wordt de contractgever aangemerkt als de ondernemer die bloembollen teelt als bedoeld in het eerste lid.
+
+3. Uit de opbrengst van de bestemmingsheffing als bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap: Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy, Voeding & Gezondheid, Energie en CO2, Groen & Welbevinden en Arbeid.
+
+4. De bestemmingsheffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=4&artikel=5&z=2014-12-31&g=2014-12-31) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+
+##### Artikel 3
+
+Voor het vaststellen van de heffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2014-12-31&g=2014-12-31), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562) en onverminderd het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2014-12-31&g=2014-12-31), de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
 
 #### § 3. Grondslag en hoogte
 
@@ -73,51 +83,6 @@ entry_into_force: "2013-09-22"
 | Overige bloembolgewassen | 562 | 40 | ha |
 
 5. Bij het vaststellen van de heffing per gewas wordt een gedeelte van een hectare of een are afgerond tot een veelvoud van respectievelijk een are en een centiare.
-
-#### § 4. Vaststelling en oplegging
-
-#### § 5. Slotbepalingen
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-Gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen d.d. 26 februari 2013;
-
-Besluit:
-
-##### Artikel 1
-
-In deze verordening wordt verstaan onder:
-
-| a. productschap | : | Productschap Tuinbouw; |
-| --- | --- | --- |
-| b. bestuur | : | bestuur van het productschap; |
-| c. voorzitter | : | voorzitter van het productschap; |
-| d. braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
-| e. cultuurgrond | : | de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland; |
-| f. bloembollen | : | bollen, knollen en wortelstokken van bloemgewassen alsmede voortkwekingsmateriaal dat is bestemd voor de teelt van bloembollen met uitzondering van zaden; |
-| g. Gecombineerde opgave | : | het beschrijvingsbiljet als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) en [25 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=25); |
-| h. gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
-| i. ondernemer | : | de natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
-| j. oogstjaar | : | de periode vanaf 1 juni 2013 tot en met 31 mei 2014; |
-| k. telen | : | het telen van bloembollen, uitgangsmateriaal daaronder begrepen. |
-
-#### § 2. Heffing
-
-##### Artikel 2
-
-1. De ondernemer die bloembollen teelt is over het oogstjaar een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2014-12-31&g=2014-12-31) vermelde heffingsgrondslag met bijbehorende tarieven.
-
-2. In geval van contractteelt waarbij de contractgever eigenaar is van de bloembollen die door de contractnemer worden geteeld, wordt de contractgever aangemerkt als de ondernemer die bloembollen teelt als bedoeld in het eerste lid.
-
-3. Uit de opbrengst van de bestemmingsheffing als bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap: Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy, Voeding & Gezondheid, Energie en CO2, Groen & Welbevinden en Arbeid.
-
-4. De bestemmingsheffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=4&artikel=5&z=2014-12-31&g=2014-12-31) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
-
-##### Artikel 3
-
-Voor het vaststellen van de heffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2014-12-31&g=2014-12-31), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562) en onverminderd het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2014-12-31&g=2014-12-31), de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
-
-#### § 3. Grondslag en hoogte
 
 #### § 4. Vaststelling en oplegging
 

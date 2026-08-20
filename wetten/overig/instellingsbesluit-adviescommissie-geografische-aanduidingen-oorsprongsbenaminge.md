@@ -1,52 +1,28 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 16 december 2013, nr. WJZ/13206623, tot instelling van een Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten (Instellingsbesluit Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten)"
+citeertitel: "Instellingsbesluit Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten"
 identifier: "BWBR0034423"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034423"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12489763"
-version_id: "21003722"
-internal_id: "C30169811"
-label_id: "12460424"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034423/2014-01-01/0"
-intitule_bron: "Stcrt.2013-35007"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-16"
-intitule_published: "2013-12-18"
-intitule_in_force: "2013-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-35007"
-original_signed_date: "2013-12-16"
-original_published_date: "2013-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-35007"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034423&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034423&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten"
-signed_date: "2013-12-16"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034423"
+opgehaald: 2026-08-20
 ---
-# Besluit van de Minister van Economische Zaken van 16 december 2013, nr. WJZ/13206623, tot instelling van een Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten (Instellingsbesluit Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten)
 
-Besluit:
+# Besluit van de Minister van Economische Zaken van 16 december 2013, nr. WJZ/13206623, tot instelling van een Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten (Instellingsbesluit Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten)
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. *de minister:* de Minister van Economische Zaken;
 
-- b. **commissie:** de Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten;
+- b. *commissie:* de Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten;
 
-- c. **verordening:** Verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU L343).
+- c. *verordening:* Verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU L343).
 
 ##### Artikel 2
 
@@ -91,5 +67,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2014.
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

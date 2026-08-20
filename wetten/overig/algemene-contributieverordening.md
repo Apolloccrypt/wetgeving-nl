@@ -1,43 +1,17 @@
 ---
 title: "Algemene contributieverordening"
 identifier: "BWBR0033789"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033789"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12340383"
-version_id: "20703782"
-internal_id: "C29738641"
-label_id: "12311604"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033789/2022-01-01/0"
-intitule_bron: "Stcrt.2013-23889"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-08-19"
-intitule_published: "2013-08-27"
-intitule_in_force: "2013-08-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-23889"
-original_signed_date: "2013-08-19"
-original_published_date: "2013-08-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-23889"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0033789&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0033789&g=2022-01-01"
-citeertitel_status: "officieel"
-signed_date: "2013-08-19"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0033789"
+opgehaald: 2026-08-20
 ---
+
 # Algemene contributieverordening
-
-Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), en [19, tweede lid, onder g, van de Wet op het accountsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Definities
 
@@ -45,17 +19,17 @@ Stelt de volgende verordening vast:
 
 In deze verordening wordt verstaan onder:
 
-- –. **accountant in business:** accountant in business als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
+- – *accountant in business:* accountant in business als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **accountantsregister:** accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+- – *accountantsregister:* accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
-- –. **arbeidsinkomen:** som van het arbeidsinkomen, bedoeld in [artikel 8.1, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.1) en het aandeel in het resultaat voor belastingen van een rechtspersoon waarin het lid een aanmerkelijk belang heeft als bedoeld in [artikel 4.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.6), genoten in het kalenderjaar waarvoor de contributie geldt;
+- – *arbeidsinkomen:* som van het arbeidsinkomen, bedoeld in [artikel 8.1, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.1) en het aandeel in het resultaat voor belastingen van een rechtspersoon waarin het lid een aanmerkelijk belang heeft als bedoeld in [artikel 4.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.6), genoten in het kalenderjaar waarvoor de contributie geldt;
 
-- –. **intern accountant:** intern accountant als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
+- – *intern accountant:* intern accountant als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **openbaar accountant:** de openbaar accountant, bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
+- – *openbaar accountant:* de openbaar accountant, bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **overheidsaccountant:** overheidsaccountant als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1).
+- – *overheidsaccountant:* overheidsaccountant als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1).
 
 ### Hoofdstuk 2. Algemene bepalingen
 
@@ -139,6 +113,6 @@ De [Algemene contributieverordening 2013](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 14
 
-1. Deze verordening treedt in werking op 1 januari 2014.
+1. Deze verordening treedt in werking op 1 januari 2014.
 
 2. Deze verordening wordt aangehaald als: Algemene contributieverordening.

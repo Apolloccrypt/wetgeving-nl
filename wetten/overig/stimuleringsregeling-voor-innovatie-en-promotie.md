@@ -1,46 +1,17 @@
 ---
 title: "Stimuleringsregeling voor innovatie en promotie"
 identifier: "BWBR0034135"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-11-03"
-last_updated: "2013-11-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034135"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12420413"
-version_id: "20847632"
-internal_id: "C29935591"
-label_id: "12391494"
-dtd_version: "2.0"
-original_entry_into_force: "2013-11-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034135/2013-11-03/0"
-intitule_bron: "Stcrt.2013-29348"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-11-01"
-intitule_in_force: "2013-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-29348"
-original_published_date: "2013-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-29348"
-entry_into_force_date: "2013-11-03"
-jci_1_3: "jci1.3:c:BWBR0034135&z=2013-11-03&g=2013-11-03"
-jci_1_0: "1.0:c:BWBR0034135&g=2013-11-03"
-citeertitel_status: "officieel"
-entry_into_force: "2013-11-03"
+publicatiedatum: 2013-11-03
+laatste_update: 2013-11-03
+status: geldig
+toestand: 2013-11-03
+bron: "https://wetten.overheid.nl/BWBR0034135"
+opgehaald: 2026-08-20
 ---
+
 # Stimuleringsregeling voor innovatie en promotie
-
-De Stimuleringsregeling voor innovatie en promotie door het Mondriaan Fonds is het kader van de derde Weg van het Fonds: Communicatie, Innovatie en Overdracht. Er zijn structurele regelingen en tijdelijke bijzondere projecten. De structurele bijzondere projecten, zoals de bijdrage kunstbeurzen, de Prix de Rome, berusten op een eigen regeling, zij maken deel uit van het reguliere beleid van het Mondriaan Fonds.
-
-De tijdelijke bijzondere projecten zijn het beleid in wording en kunnen bestaan uit:
-
-Pilotprojecten, het benoemen en bevorderen van aandachtsgebieden zoals skyfinanciering en tijdelijke regelingen, al dan niet in samenwerking met derden.
-
-De ondersteuning van tijdelijke bijzondere projecten duurt in principe niet langer dan drie jaar. Dan wordt zij onderdeel van het Fondsbeleid of zij wordt, gezien haar aard, beëindigd.
-
-Deze regeling is de grondslag voor de ondersteuning van tijdelijke bijzondere projecten.
 
 ### Hoofdstuk I. Definities
 
@@ -48,13 +19,13 @@ Deze regeling is de grondslag voor de ondersteuning van tijdelijke bijzondere pr
 
 In deze regeling wordt verstaan onder:
 
-- a. **de stichting:** het Mondriaan Fonds.
+- a. *de stichting:* het Mondriaan Fonds.
 
-- b. **de raad van toezicht:** de raad van toezicht van het Mondriaan Fonds.
+- b. *de raad van toezicht:* de raad van toezicht van het Mondriaan Fonds.
 
-- b. **het bestuur:** de directeur/bestuurder van het Mondriaan Fonds.
+- b. *het bestuur:* de directeur/bestuurder van het Mondriaan Fonds.
 
-- c. **de adviescommissie bijzondere projecten:** de commissie zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034135&hoofdstuk=IV&artikel=7&z=2013-11-03&g=2013-11-03) en verder van deze regeling.
+- c. *de adviescommissie bijzondere projecten:* de commissie zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034135&hoofdstuk=IV&artikel=7&z=2013-11-03&g=2013-11-03) en verder van deze regeling.
 
 ### Hoofdstuk II. Doel
 
@@ -69,6 +40,8 @@ Het bestuur kan hiertoe onder meer:
 - b. disciplines of aandachtsgebieden aanwijzen die een bijzondere stimulering behoeven.
 
 ### Hoofdstuk III. Bijzondere projecten
+
+Voor de verschillende bijzondere projecten zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034135&hoofdstuk=II&artikel=2&z=2013-11-03&g=2013-11-03) gelden de volgende bepalingen
 
 ##### Artikel 3. Pilotprojecten
 

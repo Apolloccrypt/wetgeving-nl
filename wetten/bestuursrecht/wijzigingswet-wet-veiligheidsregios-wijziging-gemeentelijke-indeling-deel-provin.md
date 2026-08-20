@@ -1,48 +1,18 @@
 ---
 title: "Wet van 19 juni 2013 tot wijziging van de gemeentelijke indeling in een deel van de provincie Fryslân"
+citeertitel: "Wijzigingswet Wet veiligheidsregio’s (wijziging gemeentelijke indeling deel provincie Fryslân)"
 identifier: "BWBR0033660"
-country: "nl"
-rank: "wet"
-publication_date: "2013-07-13"
-last_updated: "2013-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033660"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "12312373"
-version_id: "20639452"
-internal_id: "C29547921"
-label_id: "12283574"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033660/2013-07-13/0"
-intitule_bron: "Stb.2013-286"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-19"
-intitule_published: "2013-07-12"
-intitule_in_force: "2013-07-12"
-intitule_status: "goed"
-original_publication: "Stb.2013-286"
-original_signed_date: "2013-06-19"
-original_published_date: "2013-07-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "33496"
-original_url_id: "stb-2013-286"
-entry_into_force_date: "2013-07-13"
-entry_into_force_dossier: "33496"
-jci_1_3: "jci1.3:c:BWBR0033660&z=2013-07-13&g=2013-07-13"
-jci_1_0: "1.0:c:BWBR0033660&g=2013-07-13"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet veiligheidsregio’s (wijziging gemeentelijke indeling deel provincie Fryslân)"
-signed_date: "2013-06-19"
-entry_into_force: "2013-07-13"
+publicatiedatum: 2013-07-13
+laatste_update: 2013-07-13
+status: geldig
+toestand: 2013-07-13
+bron: "https://wetten.overheid.nl/BWBR0033660"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 19 juni 2013 tot wijziging van de gemeentelijke indeling in een deel van de provincie Fryslân
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeentelijke indeling in een deel van de provincie Fryslân te wijzigen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en instelling van gemeenten
 
@@ -60,17 +30,17 @@ Met ingang van de datum van herindeling worden opgeheven de gemeenten Boarnsterh
 
 - c. Leeuwarden.
 
-2. De nieuwe gemeente De Friese Meren bestaat uit het grondgebied van de op te heffen gemeenten Gaasterlân-Sleat, Lemsterland en Skarsterlân en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende kaart, met dien verstande dat tevens het grensbeloop met de op te heffen gemeente Heerenveen wordt gewijzigd.
+2. De nieuwe gemeente De Friese Meren bestaat uit het grondgebied van de op te heffen gemeenten Gaasterlân-Sleat, Lemsterland en Skarsterlân en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0033660), met dien verstande dat tevens het grensbeloop met de op te heffen gemeente Heerenveen wordt gewijzigd.
 
-3. De nieuwe gemeente Heerenveen bestaat uit het grondgebied van de op te heffen gemeente Heerenveen en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende kaart, met dien verstande dat tevens het grensbeloop met de op te heffen gemeente Skarsterlân wordt gewijzigd.
+3. De nieuwe gemeente Heerenveen bestaat uit het grondgebied van de op te heffen gemeente Heerenveen en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0033660), met dien verstande dat tevens het grensbeloop met de op te heffen gemeente Skarsterlân wordt gewijzigd.
 
-4. De nieuwe gemeente Leeuwarden bestaat uit het grondgebied van de op te heffen gemeente Leeuwarden en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende kaart.
+4. De nieuwe gemeente Leeuwarden bestaat uit het grondgebied van de op te heffen gemeente Leeuwarden en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0033660).
 
 #### § 2. Grenswijziging van een gemeente die niet wordt opgeheven
 
 ##### Artikel 3
 
-Met ingang van de datum van herindeling wordt de grens van de gemeente Súdwest-Fryslân gewijzigd, zoals wordt aangegeven op de bij deze wet behorende kaart.
+Met ingang van de datum van herindeling wordt de grens van de gemeente Súdwest-Fryslân gewijzigd, zoals wordt aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0033660).
 
 #### § 3. Overige bepalingen
 
@@ -102,7 +72,7 @@ In de onderstaande tabel zijn voor de op te heffen gemeenten de nieuwe gemeenten
 
 - g. [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=71), in verband met de overgang van de gemeentelijke basisadministratie persoonsgegevens.
 
-| **Nieuwe gemeente** | **Op te heffen gemeente** |
+| Nieuwe gemeente | Op te heffen gemeente |
 | --- | --- |
 | De Friese Meren | Gaasterlân-Sleat Lemsterland Skarsterlân |
 | Heerenveen | Heerenveen |
@@ -126,16 +96,12 @@ In de onderstaande tabel zijn voor de op te heffen gemeenten de nieuwe gemeenten
 
 ##### Artikel 7
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel 8
 
-Gedeputeerde staten kunnen bij vaststelling van de grensbeschrijving, bedoeld in [artikel 2, tweede lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=2), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld in kennis van de aangebrachte verbeteringen.
+Gedeputeerde staten kunnen bij vaststelling van de grensbeschrijving, bedoeld in [artikel 2, tweede lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=2), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0033660). Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld in kennis van de aangebrachte verbeteringen.
 
 ##### Artikel 9
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart. genoemd in [artikel 2, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033660&paragraaf=1&artikel=2&z=2013-07-13&g=2013-07-13), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033660&paragraaf=2&artikel=3&z=2013-07-13&g=2013-07-13) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033660&paragraaf=3&artikel=8&z=2013-07-13&g=2013-07-13)
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

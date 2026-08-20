@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 17 oktober 2013, houdende tijdelijke regels inzake de opleiding, deskundigheid en tijdelijke zelfstandige bevoegdheid tot het verrichten van voorbehouden handelingen van de klinisch technoloog (Tijdelijk besluit zelfstandige bevoegdheid klinisch technoloog)"
+citeertitel: "Tijdelijk besluit zelfstandige bevoegdheid klinisch technoloog"
 identifier: "BWBR0034177"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034177"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12427793"
-version_id: "20871292"
-internal_id: "C29965031"
-label_id: "12398754"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034177/2017-01-01/0"
-intitule_bron: "Stb.2013-443"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-17"
-intitule_published: "2013-11-13"
-intitule_in_force: "2013-11-13"
-intitule_status: "goed"
-original_publication: "Stb.2013-443"
-original_signed_date: "2013-10-17"
-original_published_date: "2013-11-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-443"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034177&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0034177&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit zelfstandige bevoegdheid klinisch technoloog"
-signed_date: "2013-10-17"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0034177"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 17 oktober 2013, houdende tijdelijke regels inzake de opleiding, deskundigheid en tijdelijke zelfstandige bevoegdheid tot het verrichten van voorbehouden handelingen van de klinisch technoloog (Tijdelijk besluit zelfstandige bevoegdheid klinisch technoloog)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 30 augustus 2013, nr. 142358-108606-WJZ;
-
-Gelet op [artikel 36a van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 25 september 2013, no. W13.13.0304/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 oktober 2013, nr. 156089-111111-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -52,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+- a. *wet:* de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. **Centraal Register Opleidingen Hoger Onderwijs:** het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- b. *Centraal Register Opleidingen Hoger Onderwijs:* het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
-- c. **commissie:** de commissie, bedoeld in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1).
+- c. *commissie:* de commissie, bedoeld in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1).
 
 #### § 2. Aanwijzing en titel
 
@@ -74,9 +42,9 @@ In dit besluit wordt verstaan onder:
 
 - b. die in het bezit is van een door Onze Minister afgegeven verklaring van vakbekwaamheid:
 
-- –. waaruit blijkt dat betrokkene een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van klinisch technoloog en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
+   - – waaruit blijkt dat betrokkene een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van klinisch technoloog en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
 
-- –. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze wet geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=5&z=2017-01-01&g=2017-01-01) kan worden afgeleid, of
+   - – waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze wet geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=5&z=2017-01-01&g=2017-01-01) kan worden afgeleid, of
 
 - c. die in het bezit is van een door Onze Minister afgegeven erkenning van beroepskwalificaties als klinisch technoloog in de zin van de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
@@ -194,13 +162,13 @@ De opleiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 2. De complexe technisch medische handelingen, bedoeld in het eerste lid, omvatten tevens:
 
-- a°. onderzoeken en beoordelen van een patiënt en op basis van de verkregen gegevens het opstellen van een behandelplan;
+- a° onderzoeken en beoordelen van een patiënt en op basis van de verkregen gegevens het opstellen van een behandelplan;
 
-- b°. uitvoeren van het behandelplan, begeleiden van een patiënt en het verrichten van gangbare en complexe technisch medische handelingen;
+- b° uitvoeren van het behandelplan, begeleiden van een patiënt en het verrichten van gangbare en complexe technisch medische handelingen;
 
-- c°. het stellen van indicaties en het herkennen van complicaties van complexe technisch medische handelingen en verrichtingen en het daarop anticiperen;
+- c° het stellen van indicaties en het herkennen van complicaties van complexe technisch medische handelingen en verrichtingen en het daarop anticiperen;
 
-- d°. verwijzen naar, consulteren van en samenwerken met artsen en met andere gezondheidszorgmedewerkers.
+- d° verwijzen naar, consulteren van en samenwerken met artsen en met andere gezondheidszorgmedewerkers.
 
 #### § 5. Voorbehouden handelingen
 
@@ -249,5 +217,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2014.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit zelfstandige bevoegdheid klinisch technoloog.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

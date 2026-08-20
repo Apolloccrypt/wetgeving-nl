@@ -1,35 +1,16 @@
 ---
 title: "Loodsenregisterverordening"
 identifier: "BWBR0034558"
-country: "nl"
-rank: "pbo"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034558"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12524703"
-version_id: "21081022"
-internal_id: "C30263571"
-label_id: "12495454"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034558/2014-01-01/0"
-intitule_bron: "Stcrt.2013-36341"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-12-30"
-intitule_in_force: "2013-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-36341"
-original_published_date: "2013-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-36341"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034558&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034558&g=2014-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034558"
+opgehaald: 2026-08-20
 ---
+
 # Loodsenregisterverordening
 
 De ledenvergadering van de Nederlandse loodsencorporatie:
@@ -46,11 +27,11 @@ De Loodsenregisterverordening wordt als volgt vastgesteld:
 
 In deze verordening wordt verstaan onder:
 
-- a. **aanvrager:** degene die in het register ingeschreven wil worden;
+- a. *aanvrager:* degene die in het register ingeschreven wil worden;
 
-- b. **loodsreis:** de functie-uitoefening, als bedoeld in [artikel 2, eerste lid van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2), door een registerloods;
+- b. *loodsreis:* de functie-uitoefening, als bedoeld in [artikel 2, eerste lid van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2), door een registerloods;
 
-- c. **peilreis:** het varen van een registerloods op een schip, anders dan voor een loodsreis, met het doel de specifiek benodigde kennis voor een registerloods van een scheepvaartweg bij deze op peil te brengen of te houden;
+- c. *peilreis:* het varen van een registerloods op een schip, anders dan voor een loodsreis, met het doel de specifiek benodigde kennis voor een registerloods van een scheepvaartweg bij deze op peil te brengen of te houden;
 
 ### Hoofdstuk II. De inschrijving in het register
 
@@ -106,7 +87,7 @@ In deze verordening wordt verstaan onder:
 
 - d. indien de registerloods de voorwaarden aan een besluit, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&hoofdstuk=III&artikel=4&z=2014-01-01&g=2014-01-01), niet naleeft.
 
-2. Het eerste lid, onderdeel **c**, blijft buiten toepassing ten aanzien van de registerloods, waarvan het verzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&hoofdstuk=III&artikel=4&z=2014-01-01&g=2014-01-01) door de algemene raad is gehonoreerd.
+2. Het eerste lid, onderdeel *c*, blijft buiten toepassing ten aanzien van de registerloods, waarvan het verzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&hoofdstuk=III&artikel=4&z=2014-01-01&g=2014-01-01) door de algemene raad is gehonoreerd.
 
 ### Hoofdstuk IV. Administratieve bepalingen
 

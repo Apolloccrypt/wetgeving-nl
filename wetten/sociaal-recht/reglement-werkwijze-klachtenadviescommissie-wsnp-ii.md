@@ -1,38 +1,16 @@
 ---
 title: "Reglement werkwijze Klachtenadviescommissie Wsnp II"
 identifier: "BWBR0034028"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-10-20"
-last_updated: "2013-10-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034028"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12398513"
-version_id: "20807312"
-internal_id: "C29879871"
-label_id: "12369554"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034028/2013-10-20/0"
-intitule_bron: "Stcrt.2013-29033"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-10-08"
-intitule_published: "2013-10-18"
-intitule_in_force: "2013-10-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-29033"
-original_signed_date: "2013-10-08"
-original_published_date: "2013-10-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-29033"
-entry_into_force_date: "2013-10-20"
-jci_1_3: "jci1.3:c:BWBR0034028&z=2013-10-20&g=2013-10-20"
-jci_1_0: "1.0:c:BWBR0034028&g=2013-10-20"
-citeertitel_status: "officieel"
-signed_date: "2013-10-08"
-entry_into_force: "2013-10-20"
+publicatiedatum: 2013-10-20
+laatste_update: 2013-10-20
+status: geldig
+toestand: 2013-10-20
+bron: "https://wetten.overheid.nl/BWBR0034028"
+opgehaald: 2026-08-20
 ---
+
 # Reglement werkwijze Klachtenadviescommissie Wsnp II
 
 ### 1. Begrippenomschrijving
@@ -41,33 +19,33 @@ entry_into_force: "2013-10-20"
 
 In dit reglement wordt verstaan onder:
 
-- a. **Minister:** de minister van Veiligheid en Justitie;
+- a. *Minister:* de minister van Veiligheid en Justitie;
 
-- b. **Wet:** de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860) (Staatsblad 1998, nrs. 445 en 447 en Staatsblad 2007, 192 en 222);
+- b. *Wet:* de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860) (Staatsblad 1998, nrs. 445 en 447 en Staatsblad 2007, 192 en 222);
 
-- c. **Klachtenregeling:** de [Klachtenregeling bewindvoerders Wsnp](https://wetten.overheid.nl/jci1.3:c:BWBR0032998);
+- c. *Klachtenregeling:* de [Klachtenregeling bewindvoerders Wsnp](https://wetten.overheid.nl/jci1.3:c:BWBR0032998);
 
-- d. **Commissie:** de Klachtenadviescommissie Wsnp;
+- d. *Commissie:* de Klachtenadviescommissie Wsnp;
 
-- e. **Klacht:** een bij de Raad voor Rechtsbijstand schriftelijk ingediende uiting betreffende ongenoegen of ontevredenheid over het in strijd met de bepalingen van de Gedragscode handelen of nalaten van de bewindvoerder Wsnp, die als zodanig optreedt dan wel als vertegenwoordiger van een natuurlijk persoon als juridisch casemanager of rechtsbijstandverlener, niet zijnde advocaat, in de zin van de [Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) of anderszins;
+- e. *Klacht:* een bij de Raad voor Rechtsbijstand schriftelijk ingediende uiting betreffende ongenoegen of ontevredenheid over het in strijd met de bepalingen van de Gedragscode handelen of nalaten van de bewindvoerder Wsnp, die als zodanig optreedt dan wel als vertegenwoordiger van een natuurlijk persoon als juridisch casemanager of rechtsbijstandverlener, niet zijnde advocaat, in de zin van de [Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) of anderszins;
 
-- f. **Klager:** een natuurlijk- of rechtspersoon, die in relatie tot de bewindvoerder staat als schuldeiser, schuldenaar dan wel als overige belanghebbende in een wettelijke schuldsaneringsregeling waarin de bewindvoerder is benoemd;
+- f. *Klager:* een natuurlijk- of rechtspersoon, die in relatie tot de bewindvoerder staat als schuldeiser, schuldenaar dan wel als overige belanghebbende in een wettelijke schuldsaneringsregeling waarin de bewindvoerder is benoemd;
 
-- g. **Beklaagde:** de bewindvoerder Wsnp tegen wie een klacht is gericht;
+- g. *Beklaagde:* de bewindvoerder Wsnp tegen wie een klacht is gericht;
 
-- h. **de Raad:** de Raad voor Rechtsbijstand;
+- h. *de Raad:* de Raad voor Rechtsbijstand;
 
-- i. **Rechter-commissaris:** de rechter-commissaris die belast is met het toezicht op de uitvoering van de wettelijke schuldsaneringsregeling als bedoeld in [artikel 287 lid 3 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287);
+- i. *Rechter-commissaris:* de rechter-commissaris die belast is met het toezicht op de uitvoering van de wettelijke schuldsaneringsregeling als bedoeld in [artikel 287 lid 3 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287);
 
-- j. **Bewindvoerder:** de bewindvoerder die in het kader van de wettelijke schuldsaneringsregeling ([artikel 287 lid 3 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287)) door de rechtbank is benoemd en die is ingeschreven in het register als bedoeld in het Reglement register bewindvoerder Wsnp;
+- j. *Bewindvoerder:* de bewindvoerder die in het kader van de wettelijke schuldsaneringsregeling ([artikel 287 lid 3 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287)) door de rechtbank is benoemd en die is ingeschreven in het register als bedoeld in het Reglement register bewindvoerder Wsnp;
 
-- k. **Gedragscode:** de gedragscode voor bewindvoerders Wsnp;
+- k. *Gedragscode:* de gedragscode voor bewindvoerders Wsnp;
 
-- l. **Reglement** het Reglement register bewindvoerder II;
+- l. *Reglement* het Reglement register bewindvoerder II;
 
-- m. **Subsidiebesluit:** het [Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012226) (Staatsblad 2001, 80)
+- m. *Subsidiebesluit:* het [Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012226) (Staatsblad 2001, 80)
 
-- n. **Vergoedingenbesluit:** Het [Besluit vergoeding bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711) (Staatsblad 2013, 308).
+- n. *Vergoedingenbesluit:* Het [Besluit vergoeding bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711) (Staatsblad 2013, 308).
 
 ### 2. Samenstelling, taken en bevoegdheden van de commissie
 
@@ -139,22 +117,4 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 8
 
-Dit reglement kan worden aangehaald als het ‘**Reglement werkwijze Klachtenadviescommissie Wsnp II**’ en treedt twee dagen na publicatie in de Staatscourant in werking.
-
-## Contactgegevens Klachtenadviescommissie Wsnp
-
-Postadres:
-
-Klachtenadviescommissie Wsnp
-
-Postbus 2349
-
-5202 CH ’s-Hertogenbosch
-
-Telefoonnummer:
-
-088-7871910
-
-Faxnummer:
-
-088-7871749
+Dit reglement kan worden aangehaald als het ‘*Reglement werkwijze Klachtenadviescommissie Wsnp II*’ en treedt twee dagen na publicatie in de Staatscourant in werking.

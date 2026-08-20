@@ -1,71 +1,42 @@
 ---
 title: "Regeling van de Ministers van Financiën, Binnenlandse Zaken en Koninkrijksrelaties en Infrastructuur en Milieu van 5 december 2013 houdende de vaststelling van regels ter uitvoering van het verplicht schatkistbankieren voor decentrale overheden (Regeling schatkistbankieren decentrale overheden)"
+citeertitel: "Regeling schatkistbankieren decentrale overheden"
 identifier: "BWBR0034336"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-05"
-last_updated: "2023-10-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034336"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12472213"
-version_id: "20970872"
-internal_id: "C30134611"
-label_id: "12443004"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034336/2023-10-05/0"
-intitule_bron: "Stcrt.2013-34041"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-05"
-intitule_published: "2013-12-13"
-intitule_in_force: "2013-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-34041"
-original_signed_date: "2013-12-05"
-original_published_date: "2013-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-34041"
-entry_into_force_date: "2013-12-15"
-entry_into_force_dossier: "33540"
-jci_1_3: "jci1.3:c:BWBR0034336&z=2023-10-05&g=2023-10-05"
-jci_1_0: "1.0:c:BWBR0034336&g=2023-10-05"
-citeertitel_status: "redactioneel"
-short_title: "Regeling schatkistbankieren decentrale overheden"
-signed_date: "2013-12-05"
-entry_into_force: "2013-12-15"
+publicatiedatum: 2013-12-15
+laatste_update: 2023-10-05
+status: geldig
+toestand: 2023-10-05
+bron: "https://wetten.overheid.nl/BWBR0034336"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Ministers van Financiën, Binnenlandse Zaken en Koninkrijksrelaties en Infrastructuur en Milieu van 5 december 2013 houdende de vaststelling van regels ter uitvoering van het verplicht schatkistbankieren voor decentrale overheden (Regeling schatkistbankieren decentrale overheden)
-
-Gelet op [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2), en [artikel 2b, tweede en derde lid, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2b);
-
-Besluiten:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Wet financiering decentrale overheden (verplicht schatkistbankieren) in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **actuele marktwaarde:** de waarde die wordt berekend op basis van de actuele rente behorende bij de resterende looptijden van de toekomstige kasstromen (rente en aflossing) van een deposito;
+- *actuele marktwaarde:* de waarde die wordt berekend op basis van de actuele rente behorende bij de resterende looptijden van de toekomstige kasstromen (rente en aflossing) van een deposito;
 
-- **Agentschap:** het Agentschap van de Generale Thesaurie van het ministerie van Financiën;
+- *Agentschap:* het Agentschap van de Generale Thesaurie van het ministerie van Financiën;
 
-- **basispunt:** een honderdste van een procent (0,01%);
+- *basispunt:* een honderdste van een procent (0,01%);
 
-- **deposito:** het creditbedrag op een aan de rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover gedurende een vooraf vastgestelde periode door het openbaar lichaam niet vrij beschikt kan worden;
+- *deposito:* het creditbedrag op een aan de rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover gedurende een vooraf vastgestelde periode door het openbaar lichaam niet vrij beschikt kan worden;
 
-- **daggeldrente:** de dagelijkse vaststelling door de Europese Centrale Bank van de Euro Short Term Rate (€STR), zijnde de rente waartegen gemiddeld genomen overnight en zonder onderpand liquiditeiten zijn geleend in de eurogeldmarkt (afgerond op 2 decimalen);
+- *daggeldrente:* de dagelijkse vaststelling door de Europese Centrale Bank van de Euro Short Term Rate (€STR), zijnde de rente waartegen gemiddeld genomen overnight en zonder onderpand liquiditeiten zijn geleend in de eurogeldmarkt (afgerond op 2 decimalen);
 
-- **intradaglimiet:** het maximum bedrag dat gedurende de dag rood mag worden gestaan op de tussenrekening;
+- *intradaglimiet:* het maximum bedrag dat gedurende de dag rood mag worden gestaan op de tussenrekening;
 
-- **rekening courant:** de rekening die een openbaar lichaam bij de schatkist van het Rijk aanhoudt;
+- *rekening courant:* de rekening die een openbaar lichaam bij de schatkist van het Rijk aanhoudt;
 
-- **tussenrekening:** de rekening die het openbaar lichaam aanhoudt bij een bank via welke de zero-balancing plaatsvindt;
+- *tussenrekening:* de rekening die het openbaar lichaam aanhoudt bij een bank via welke de zero-balancing plaatsvindt;
 
-- **de wet:** de [Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987);
+- *de wet:* de [Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987);
 
-- **zero-balancing:** de aanzuivering dan wel de afroming van de tussenrekening ten laste dan wel ten gunste van de rekening-courant.
+- *zero-balancing:* de aanzuivering dan wel de afroming van de tussenrekening ten laste dan wel ten gunste van de rekening-courant.
 
 ##### Artikel 2. De tussenrekening
 
@@ -101,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. De modelovereenkomst
 
-1. De modelovereenkomst, bedoeld in [artikel 2b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2b), is opgenomen in de bij deze regeling behorende bijlage.
+1. De modelovereenkomst, bedoeld in [artikel 2b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2b), is opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0034336).
 
 2. De staat gebruikt de informatie waarover zij uit hoofde van de rekening-courantovereenkomst beschikt uitsluitend ten behoeve van de uitvoering van de rekening-courantovereenkomst en de verantwoording die daarover moet worden afgelegd.
 
@@ -129,7 +100,7 @@ Indien de overeengekomen rentevastperiode minimaal gelijk is aan een jaar en een
 
 - c. middelen op een G-rekening als bedoeld in [artikel 1, onder k, van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=1).
 
-2. Het drempelbedrag, genoemd in het eerste lid, onder a, wordt bepaald op basis van het begrotingstotaal van het openbaar lichaam. Voor openbare lichamen met een begrotingstotaal kleiner dan of gelijk aan € 500 miljoen is het drempelbedrag gelijk aan 2,0% van het begrotingstotaal, waarbij het drempelbedrag minimaal € 1 miljoen bedraagt. Voor openbare lichamen met een begrotingstotaal groter dan € 500 miljoen is het drempelbedrag gelijk aan € 10 miljoen, vermeerderd met 0,2% van het deel van het begrotingstotaal dat de € 500 miljoen te boven gaat.
+2. Het drempelbedrag, genoemd in het eerste lid, onder a, wordt bepaald op basis van het begrotingstotaal van het openbaar lichaam. Voor openbare lichamen met een begrotingstotaal kleiner dan of gelijk aan € 500 miljoen is het drempelbedrag gelijk aan 2,0% van het begrotingstotaal, waarbij het drempelbedrag minimaal € 1 miljoen bedraagt. Voor openbare lichamen met een begrotingstotaal groter dan € 500 miljoen is het drempelbedrag gelijk aan € 10 miljoen, vermeerderd met 0,2% van het deel van het begrotingstotaal dat de € 500 miljoen te boven gaat.
 
 ##### Artikel 8. Garantie
 
@@ -139,15 +110,15 @@ De Minister van Financiën kan een garantie toestaan ten aanzien van de liquide 
 
 1. De minister van Financiën kan een openbaar lichaam op diens verzoek uitzonderen van de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=2&z=2023-10-05&g=2023-10-05), indien sprake is van een van de volgende omstandigheden:
 
-- a). Het openbaar lichaam beschikt niet over een eigen bankrekening;
+- a) Het openbaar lichaam beschikt niet over een eigen bankrekening;
 
-- b). Het openbaar lichaam houdt de krachtens [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2) bedoelde middelen op de rekening-courant van een ander openbaar lichaam in de schatkist van het Rijk aan.
+- b) Het openbaar lichaam houdt de krachtens [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2) bedoelde middelen op de rekening-courant van een ander openbaar lichaam in de schatkist van het Rijk aan.
 
 2. Een lijst van de openbare lichamen die zijn uitgezonderd op grond van het eerste lid wordt gepubliceerd op de website van het Agentschap. Een openbaar lichaam dat is uitgezonderd op grond van het eerste lid stelt het Agentschap zo spoedig mogelijk op de hoogte van wijzigingen in de omstandigheden op grond waarvan de uitzondering is verleend.
 
 ##### Artikel 10. Overgangsbepalingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -156,73 +127,3 @@ Deze regeling treedt in werking op het tijdstip dat de wet tot wijziging van de 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling schatkistbankieren decentrale overheden.
-
-## Bijlage. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=5&z=2023-10-05&g=2023-10-05) van de Regeling schatkistbankieren decentrale overheden
-
-### De modelovereenkomst
-
-### Rekening-courant overeenkomst
-
-TUSSEN
-
-<<Naam openbaar lichaam>>
-
-EN
-
-DE STAAT DER NEDERLANDEN
-
-**De partijen:**
-
-**overwegende dat:**
-
-**komen het volgende overeen:**
-
-### Artikel 1. Definities
-
-In deze overeenkomst wordt verstaan onder:
-
-### Artikel 2. Zero-balancing
-
-### Artikel 3. Rekening-courantkredietlimiet
-
-### Artikel 4. Rente rekening-courant
-
-### Artikel 5. Deposito’s
-
-### Artikel 6. Informatievoorziening en geheimhouding
-
-### Artikel 7. Toepasselijk recht; geschillen
-
-### Artikel 8. Inwerkingtreding
-
-De verplichtingen in deze overeenkomst gaan in op de tweede werkdag na ontvangst van de overeenkomst door het openbaar lichaam, maar niet eerder dan de dag waarop de regeling in werking is getreden.
-
-Aldus opgemaakt,
-
-te Den Haag op <<datum>>
-
-DE MINISTER VAN FINANCIËN,
-
-namens deze:
-
-<< naam agent >>
-
-De agent
-
-## Bijlage. Tariefstructuur rekening-courant en deposito’s
-
-| Voorwaarde: | Creditsaldo: geen minimum saldo Debetsaldo: niet van toepassing |
-| --- | --- |
-| Renteniveau: | Zoals bepaald in de regeling |
-| Renteconventie: | Dagtelling op basis van actual/360 Betaalbaarstelling respectievelijk inning van rente op de eerste kalenderdag van het kwartaal volgend op het kwartaal waarop de rente betrekking heeft |
-| Kosten: | Geen |
-
-| Voorwaarde: | Voor het plaatsen van een deposito moet er voldoende saldo staan op de rekening-courant. |
-| --- | --- |
-| Looptijden: | 2 dagen t/m 30 jaar |
-| Renteniveaus: | Zoals bepaald in de regeling |
-| Renteconventie: | <= 1 jaar: dagtelling op basis van actual/360 > 1 jaar: dagtelling op basis van actual/actual |
-| Vervroegde opname: | Tegen marktwaarde, zoals bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=4&z=2023-10-05&g=2023-10-05), van de regeling. |
-| Kosten: | Geen |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

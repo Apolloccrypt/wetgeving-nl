@@ -1,51 +1,55 @@
 ---
 title: "Besluit van 13 december 2004 houdende toetsingskader op grond waarvan deelgebieden der geneeskunde als specialismen kunnen worden aangewezen of opgeheven"
+citeertitel: "Toetsingskader CCMS"
 identifier: "BWBR0033505"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-06-04"
-last_updated: "2005-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033505"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12279283"
-version_id: "20562382"
-internal_id: "C28913841"
-label_id: "12250634"
-dtd_version: "2.0"
-original_entry_into_force: "2005-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033505/2005-06-04/0"
-intitule_bron: "Stcrt.2005-105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-01"
-intitule_published: "2005-06-03"
-intitule_in_force: "2005-06-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-105"
-original_signed_date: "2005-03-01"
-original_published_date: "2005-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-105-p16-SC70266"
-entry_into_force_date: "2005-06-04"
-jci_1_3: "jci1.3:c:BWBR0033505&z=2005-06-04&g=2005-06-04"
-jci_1_0: "1.0:c:BWBR0033505&g=2005-06-04"
-citeertitel_status: "officieel"
-short_title: "Toetsingskader CCMS"
-signed_date: "2005-03-01"
-entry_into_force: "2005-06-04"
+publicatiedatum: 2005-06-04
+laatste_update: 2005-06-04
+status: geldig
+toestand: 2005-06-04
+bron: "https://wetten.overheid.nl/BWBR0033505"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 13 december 2004 houdende toetsingskader op grond waarvan deelgebieden der geneeskunde als specialismen kunnen worden aangewezen of opgeheven
-
-gelet op [artikel 14, tweede lid, onder c, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) en artikel 12, eerste lid, onder a, van de Regeling specialisten geneeskunst van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst;
-
-gezien het advies van het Federatiebestuur van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst, de Orde van Medisch Specialisten, de Landelijke vereniging van Artsen in Dienstverband en de Medisch Specialisten Registratie Commissie;
-
-Besluit:
 
 ### Hoofdstuk A. Algemeen
 
+- A.1. Bij het aanwijzen van deelgebieden der geneeskunde als specialisme besluit het Centraal College Medische Specialismen overeenkomstig de criteria genoemd in de [hoofdstukken B](https://wetten.overheid.nl/jci1.3:c:BWBR0033505&hoofdstuk=B&z=2005-06-04&g=2005-06-04) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0033505&hoofdstuk=C&z=2005-06-04&g=2005-06-04).
+
 ### Hoofdstuk B. Criteria voor specialismen in het algemeen
+
+- B.1. Het specialisme vormt een deelgebied van de geneeskunde.
+
+- B.2. Het specialisme betreft de individuele gezondheidszorg.
+
+- B.3. Voor het specialisme bestaat geen alternatief.
+
+- B.4. Het specialisme kent een eigen wetenschapsdomein en een eigen wetenschappelijke vereniging.
+
+- B.5. Het specialisme voorziet in een opleiding die in hoofdzaak bestaat uit onderdelen die door specialisten uit het eigen vakgebied worden verzorgd.
+
+- B.6. Er is een dusdanig aantal beroepsbeoefenaren en patiënten, dat dit aantal het in stand houden van een opleidingsstructuur met daarbij behorende borgingsmechanismen rechtvaardigt.
+
+- B.7. Het specialisme omvat de algemene competenties van de specialist.
 
 ### Hoofdstuk C. Specifieke criteria voor het Centraal College Medische Specialismen
 
+- C.1. Het specialisme heeft een meerwaarde voor klinieken.
+
+- C.2. Voor het specialisme ligt het accent op intra- en extramurale behandeling.
+
+- C.3. Het specialisme wordt in een hechte relatie met een ziekenhuis beoefend.
+
 ### Hoofdstuk D. Slotbepalingen
+
+- D.1. Besluit ‘toetsingskader ten behoeve van het aanwijzen respectievelijk opheffen van specialismen d.d. 19 mei 1999’ wordt ingetrokken.
+
+- D.2. Dit besluit wordt gelijktijdig met het besluit van de Minister van Volksgezondheid, Welzijn en Sport, inhoudende de goedkeuring van dit besluit, gepubliceerd in de Staatscourant.
+
+- D.3. In het officiële orgaan van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst wordt mededeling gedaan van dit besluit.
+
+- D.4. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+- D.5. Dit besluit wordt aangehaald als: Toetsingskader CCMS.

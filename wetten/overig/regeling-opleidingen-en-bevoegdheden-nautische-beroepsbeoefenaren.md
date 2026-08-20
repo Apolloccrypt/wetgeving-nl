@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 6 december 2013, nr. IENM/BSK-2013/283192, houdende vaststelling nadere regels met betrekking tot de opleiding en bevoegdheden van nautische beroepsbeoefenaren (Regeling opleidingen en bevoegdheden nautische beroepsbeoefenaren)"
+citeertitel: "Regeling opleidingen en bevoegdheden nautische beroepsbeoefenaren"
 identifier: "BWBR0034521"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034521"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12510773"
-version_id: "22997212"
-internal_id: "C33244261"
-label_id: "12481614"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034521/2018-10-01/0"
-intitule_bron: "Stcrt.2013-34203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-06"
-intitule_published: "2013-12-23"
-intitule_in_force: "2013-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-1732"
-original_signed_date: "2016-01-18"
-original_published_date: "2016-01-22"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2016-1732"
-entry_into_force_date: "2016-01-18"
-jci_1_3: "jci1.3:c:BWBR0034521&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0034521&g=2018-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling opleidingen en bevoegdheden nautische beroepsbeoefenaren"
-signed_date: "2016-01-18"
-entry_into_force: "2016-01-18"
+publicatiedatum: 2016-01-18
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0034521"
+opgehaald: 2026-08-20
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 6 december 2013, nr. IENM/BSK-2013/283192, houdende vaststelling nadere regels met betrekking tot de opleiding en bevoegdheden van nautische beroepsbeoefenaren (Regeling opleidingen en bevoegdheden nautische beroepsbeoefenaren)
-
-Gelet op [Richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255), de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), en [36 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=36), [29 van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=29), [1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=1.1), [2.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=2.7), en [3.1, vierde lid, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=3.1), [1, eerste lid, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=1) en [16 van het Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889&artikel=16);
-
-BESLUIT:
-
-Treedt in werking op 1 april 2014 Stb 2013/553.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,19 +20,21 @@ Treedt in werking op 1 april 2014 Stb 2013/553.
 
 In deze regeling wordt verstaan onder:
 
-- –. **aanvraag:** aanvraag als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) tot het verlenen van erkenning van beroepskwalificaties voor het beroep van registerloods, noordzeeloods of VTS-operator;
+- – *aanvraag:* aanvraag als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) tot het verlenen van erkenning van beroepskwalificaties voor het beroep van registerloods, noordzeeloods of VTS-operator;
 
-- –. **aanvrager:** migrerende beroepsbeoefenaar als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) die op grond van deze regeling erkenning van zijn beroepskwalificaties aanvraagt voor het gereglementeerd beroep van registerloods, noordzeeloods of VTS-operator;
+- – *aanvrager:* migrerende beroepsbeoefenaar als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) die op grond van deze regeling erkenning van zijn beroepskwalificaties aanvraagt voor het gereglementeerd beroep van registerloods, noordzeeloods of VTS-operator;
 
-- –. **BOBNB:** [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471);
+- – *BOBNB:*
+ [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471);
 
-- –. **bootman:** degene die in de uitoefening van zijn beroep een zeeschip vast- of losmaakt;
+- – *bootman:* degene die in de uitoefening van zijn beroep een zeeschip vast- of losmaakt;
 
-- –. **NNVO:** Stichting Nationale nautische verkeersdienst opleiding;
+- – *NNVO:* Stichting Nationale nautische verkeersdienst opleiding;
 
-- –. **Redwise-DCP:** Redwise-DCP B.V. te Huizen;
+- – *Redwise-DCP:* Redwise-DCP B.V. te Huizen;
 
-- –. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
+- – *wet:*
+ [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
 ### Hoofdstuk 2. Registerloodsen
 
@@ -74,9 +48,9 @@ Het gebied, bedoeld in [artikel 2.7, eerste lid, onder a, van het BOBNB](https:/
 
 - c. in de regio Scheldemonden:
 
-- 1°. het gedeelte van de loodsplichtige scheepvaartweg vanaf de rede van Vlissingen zeewaarts via de Wielingen en het Scheur tot aan het regionale loodsstation Wandelaar, en,
+   - 1°. het gedeelte van de loodsplichtige scheepvaartweg vanaf de rede van Vlissingen zeewaarts via de Wielingen en het Scheur tot aan het regionale loodsstation Wandelaar, en,
 
-- 2°. het gedeelte van de loodsplichtige scheepvaartweg vanaf de rede van Vlissingen zeewaarts via de Sardijngeul, de Galgeput en het Oostgat tot aan het regionale loodsstation Steenbank.
+   - 2°. het gedeelte van de loodsplichtige scheepvaartweg vanaf de rede van Vlissingen zeewaarts via de Sardijngeul, de Galgeput en het Oostgat tot aan het regionale loodsstation Steenbank.
 
 ### Hoofdstuk 3. Noodzeeloodsen
 
@@ -100,31 +74,31 @@ Voor de toepassing van [hoofdstuk 5 van het BOBNB](https://wetten.overheid.nl/jc
 
 - c. de Souschef Faciliteren van de Koninklijke Marine te Den Helder: voor de scheepvaartwegen Schulpengat, Molengat, Rede van Den Helder, de Rijkszeehaven Willemsoord en de Veerhaven van Den Helder, aan de westzijde begrensd door een lijn door de punten:
 
-- 1°. 52°52'.9 NB, 04°42'.9 OL (lichtopstand ‘Grote Kaap’),
+   - 1°. 52°52'.9 NB, 04°42'.9 OL (lichtopstand ‘Grote Kaap’),
 
-- 2°. 52°52'.9 NB, 04°38'.0 OL,
+   - 2°. 52°52'.9 NB, 04°38'.0 OL,
 
-- 3°. 52°54'.7 NB, 04°34'.8 OL,
+   - 3°. 52°54'.7 NB, 04°34'.8 OL,
 
-- 4°. 52°56'.8 NB, 04°33'.9 OL,
+   - 4°. 52°56'.8 NB, 04°33'.9 OL,
 
-- 5°. 53°00'.3 NB, 04°35'.4 OL,
+   - 5°. 53°00'.3 NB, 04°35'.4 OL,
 
-- 6°. 53°03'.6 NB, 04°39'.3 OL,
+   - 6°. 53°03'.6 NB, 04°39'.3 OL,
 
-- 7°. 53°03'.8 NB, 04°43'.4 OL (paal 15, Texel), en aan de oostzijde begrensd door een lijn door de punten:
+   - 7°. 53°03'.8 NB, 04°43'.4 OL (paal 15, Texel), en aan de oostzijde begrensd door een lijn door de punten:
 
-- 8°. 53°01'.4 NB, 04°48'.7 OL,
+   - 8°. 53°01'.4 NB, 04°48'.7 OL,
 
-- 9°. 53°00'.7 NB, 04°50'.8 OL,
+   - 9°. 53°00'.7 NB, 04°50'.8 OL,
 
-- 10°. 52°59'.7 NB, 04°52'.3 OL,
+   - 10°. 52°59'.7 NB, 04°52'.3 OL,
 
-- 11°. 52°59'.3 NB, 04°52'.6 OL,
+   - 11°. 52°59'.3 NB, 04°52'.6 OL,
 
-- 12°. 52°58'.2 NB, 04°50'.0 OL,
+   - 12°. 52°58'.2 NB, 04°50'.0 OL,
 
-- 13°. 52°57'.9 NB, 04°48'.1 OL;
+   - 13°. 52°57'.9 NB, 04°48'.1 OL;
 
 ### Hoofdstuk 5. Erkenning EU-beroepskwalificaties registerloods, noordzeeloods en VTS-operator
 
@@ -182,6 +156,10 @@ Indien de aanvrager voor een proeve van bekwaamheid in aanmerking wenst te komen
 
 - b. de wijze waarop en de termijn waarbinnen de diverse onderdelen van de proeve zullen worden afgenomen.
 
+##### Artikel 10a. Kosten
+
+De kosten die samengaan met de aanvraag, zoals het in behandeling nemen van de aanvraag, de afgifte van het besluit en het organiseren van een proeve van bekwaamheid en van een aanpassingsstage kunnen, met inachtneming van [artikel 33, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), ten laste van de aanvrager komen.
+
 ##### Artikel 11. Afwijzen aanvraag
 
 De aanvraag wordt afgewezen, indien de aanvrager de aanpassingsstage of de proeve van bekwaamheid niet met goed gevolg heeft volbracht of de daaraan verbonden kosten niet heeft voldaan.
@@ -200,27 +178,41 @@ Indien na afgifte van de erkenning van de EU-beroepskwalificaties is gebleken, d
 
 2. Onverminderd het eerste lid, overlegt de dienstverrichter die een functie wil gaan verrichten die gewoonlijk door een registerloods of noordzeeloods wordt uitgeoefend, voorafgaande aan de eerste dienstverrichting in Nederland aan de afnemer van zijn dienst, de gegevens, genoemd in [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29).
 
+### Hoofdstuk 5a. Erkenning EU-beroepskwalificaties bootman
+
+##### Artikel 13a
+
+1. Alle taken en bevoegdheden met betrekking tot het afgeven van een erkenning van EU-beroepskwalificaties als bedoeld in de wet en de daarop berustende bepalingen, worden voor de uitoefening van het beroep van bootman, gedelegeerd aan:
+
+- a. burgemeester en wethouders van gemeenten waarin bij of krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), in verband met de beroepsuitoefening door bootmannen, regels zijn gesteld ter bevordering van een goed havenbeheer; of
+
+- b. het bestuur van een openbaar lichaam, een bedrijfsvoeringsorganisatie of een gemeenschappelijk orgaan als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) door wie bij of krachtens die wet, in verband met de beroepsuitoefening door bootmannen, regels zijn gesteld ter bevordering van een goed havenbeheer.
+
+2. Ten behoeve van de uitvoering van [artikel 31b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), informeert degene die op grond van het eerste lid belast is met besluiten met betrekking tot het afgeven van een erkenning van EU-beroepskwalificaties voor bootman, de Minister van Infrastructuur en Milieu onmiddellijk nadat een migrerende beroepsbeoefenaar door een rechterlijke instantie of een andere bij of krachtens de Nederlandse wetgeving bevoegde instantie in Nederland schuldig is bevonden aan het gebruik van valse beroepskwalificaties in verband met een procedure als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3) en [3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3a) of de in het eerste lid bedoelde bepalingen krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) of de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
+
+3. Onverminderd het tweede lid, verstrekt degene die op grond van het eerste lid belast is met besluiten met betrekking tot het afgeven van een erkenning van de EU-beroepskwalificaties voor bootman, de Minister van Infrastructuur en Milieu op diens verzoek alle informatie die hij nodig heeft ten behoeve van de uitvoering van de wet.
+
 ### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 14. Aanpassing Besluit mandaat en machtiging Kiwa N.V.
 
-Wijzigt het Besluit mandaat en machtiging Kiwa N.V..
+*Wijzigt het Besluit mandaat en machtiging Kiwa N.V..*
 
 ##### Artikel 15. Aanpassing Regeling bevoegde en regionale autoriteiten Loodsplichtbesluit 1995
 
-Wijzigt de Regeling bevoegde en regionale autoriteiten Loodsplichtbesluit 1995.
+*Wijzigt de Regeling bevoegde en regionale autoriteiten Loodsplichtbesluit 1995.*
 
 ##### Artikel 16. Aanpassing Regeling havenstaatcontrole 2011
 
-Wijzigt de Regeling havenstaatcontrole 2011.
+*Wijzigt de Regeling havenstaatcontrole 2011.*
 
 ##### Artikel 17. Aanpassing Regeling tarieven scheepvaart 2005
 
-Wijzigt de Regeling tarieven scheepvaart 2005.
+*Wijzigt de Regeling tarieven scheepvaart 2005.*
 
 ##### Artikel 18. Aanpassing Regeling vaststelling lijst gereglementeerde beroepen
 
-Wijzigt de Regeling vaststelling gereglementeerde beroepen.
+*Wijzigt de Regeling vaststelling gereglementeerde beroepen.*
 
 ##### Artikel 19. Intrekken regelingen en beschikkingen
 
@@ -249,31 +241,3 @@ In afwijking van [artikel 19, aanhef en onderdeel b en c](https://wetten.overhei
 ##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling opleidingen en bevoegdheden nautische beroepsbeoefenaren.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a. Kosten
-
-De kosten die samengaan met de aanvraag, zoals het in behandeling nemen van de aanvraag, de afgifte van het besluit en het organiseren van een proeve van bekwaamheid en van een aanpassingsstage kunnen, met inachtneming van [artikel 33, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), ten laste van de aanvrager komen.
-
-### Hoofdstuk 5a. Erkenning EU-beroepskwalificaties bootman
-
-##### Artikel 13a
-
-1. Alle taken en bevoegdheden met betrekking tot het afgeven van een erkenning van EU-beroepskwalificaties als bedoeld in de wet en de daarop berustende bepalingen, worden voor de uitoefening van het beroep van bootman, gedelegeerd aan:
-
-- a. burgemeester en wethouders van gemeenten waarin bij of krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), in verband met de beroepsuitoefening door bootmannen, regels zijn gesteld ter bevordering van een goed havenbeheer; of
-
-- b. het bestuur van een openbaar lichaam, een bedrijfsvoeringsorganisatie of een gemeenschappelijk orgaan als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) door wie bij of krachtens die wet, in verband met de beroepsuitoefening door bootmannen, regels zijn gesteld ter bevordering van een goed havenbeheer.
-
-2. Ten behoeve van de uitvoering van [artikel 31b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), informeert degene die op grond van het eerste lid belast is met besluiten met betrekking tot het afgeven van een erkenning van EU-beroepskwalificaties voor bootman, de Minister van Infrastructuur en Milieu onmiddellijk nadat een migrerende beroepsbeoefenaar door een rechterlijke instantie of een andere bij of krachtens de Nederlandse wetgeving bevoegde instantie in Nederland schuldig is bevonden aan het gebruik van valse beroepskwalificaties in verband met een procedure als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3) en [3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3a) of de in het eerste lid bedoelde bepalingen krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) of de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
-
-3. Onverminderd het tweede lid, verstrekt degene die op grond van het eerste lid belast is met besluiten met betrekking tot het afgeven van een erkenning van de EU-beroepskwalificaties voor bootman, de Minister van Infrastructuur en Milieu op diens verzoek alle informatie die hij nodig heeft ten behoeve van de uitvoering van de wet.
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

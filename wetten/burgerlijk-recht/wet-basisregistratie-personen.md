@@ -1,47 +1,18 @@
 ---
 title: "Wet van 3 juli 2013 houdende nieuwe regels voor een basisregistratie personen (Wet basisregistratie personen)"
+citeertitel: "Wet basisregistratie personen"
 identifier: "BWBR0033715"
-country: "nl"
-rank: "wet"
-publication_date: "2025-11-11"
-last_updated: "2025-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033715"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12323933"
-version_id: "20669722"
-internal_id: "C30079121"
-label_id: "12296744"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033715/2025-11-11/0"
-intitule_bron: "Stb.2013-315"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-07-03"
-intitule_published: "2013-07-26"
-intitule_in_force: "2013-12-09"
-intitule_status: "goed"
-original_publication: "Stb.2013-315"
-original_signed_date: "2013-07-03"
-original_published_date: "2013-07-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "33219"
-original_url_id: "stb-2013-315"
-entry_into_force_date: "2014-01-06"
-jci_1_3: "jci1.3:c:BWBR0033715&z=2025-11-11&g=2025-11-11"
-jci_1_0: "1.0:c:BWBR0033715&g=2025-11-11"
-citeertitel_status: "officieel"
-short_title: "Wet basisregistratie personen"
-signed_date: "2013-07-03"
-entry_into_force: "2014-01-06"
+publicatiedatum: 2014-01-06
+laatste_update: 2025-11-11
+status: geldig
+toestand: 2025-11-11
+bron: "https://wetten.overheid.nl/BWBR0033715"
+opgehaald: 2026-08-20
 ---
+
 # Wet van 3 juli 2013 houdende nieuwe regels voor een basisregistratie personen (Wet basisregistratie personen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is ter bevordering van de doelmatige voorziening van persoonsgegevens, in het bijzonder bij de vervulling van overheidstaken, de gemeentelijke basisadministratie persoonsgegevens te moderniseren, de regelgeving te vereenvoudigen en de mogelijkheid te verruimen om gegevens op te nemen over niet-ingezetenen ten aanzien van wie de Nederlandse overheid taken vervult en derhalve nieuwe regels te stellen ter zake van de basisregistratie personen, daarbij in aanmerking nemend dat uitvoering wordt gegeven aan richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281) en dat ter bescherming van de persoonlijke levenssfeer uitvoering dient te worden gegeven aan [artikel 10, tweede en derde lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=10);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,71 +22,71 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **de basisregistratie:** de basisregistratie personen, bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=1&paragraaf=1&artikel=1.2&z=2025-11-11&g=2025-11-11);
+- b. *de basisregistratie:* de basisregistratie personen, bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=1&paragraaf=1&artikel=1.2&z=2025-11-11&g=2025-11-11);
 
-- c. **de persoonslijst:** het geheel van gegevens, bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), [2.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.69&z=2025-11-11&g=2025-11-11), en [2.84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=3&paragraaf=3&artikel=2.84&z=2025-11-11&g=2025-11-11), over één persoon in de basisregistratie;
+- c. *de persoonslijst:* het geheel van gegevens, bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), [2.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.69&z=2025-11-11&g=2025-11-11), en [2.84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=3&paragraaf=3&artikel=2.84&z=2025-11-11&g=2025-11-11), over één persoon in de basisregistratie;
 
-- d. **de inschrijving:** de opneming van een persoonslijst in de basisregistratie;
+- d. *de inschrijving:* de opneming van een persoonslijst in de basisregistratie;
 
-- e. **de ingeschrevene:** degene ten aanzien van wie een persoonslijst in de basisregistratie is opgenomen;
+- e. *de ingeschrevene:* degene ten aanzien van wie een persoonslijst in de basisregistratie is opgenomen;
 
-- f. **de ingezetene:** de ingeschrevene die zijn adres heeft in een gemeente in Nederland en op wiens persoonslijst niet het gegeven van zijn overlijden of van vertrek uit Nederland als actueel gegeven is opgenomen;
+- f. *de ingezetene:* de ingeschrevene die zijn adres heeft in een gemeente in Nederland en op wiens persoonslijst niet het gegeven van zijn overlijden of van vertrek uit Nederland als actueel gegeven is opgenomen;
 
-- g. **de systematische verstrekking van gegevens of het systematisch verstrekken van gegevens:** de verstrekking of het verstrekken van gegevens uit de basisregistratie, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.1&z=2025-11-11&g=2025-11-11);
+- g. *de systematische verstrekking van gegevens of het systematisch verstrekken van gegevens:* de verstrekking of het verstrekken van gegevens uit de basisregistratie, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.1&z=2025-11-11&g=2025-11-11);
 
-- h. **de bijhoudingsgemeente:** de gemeente waarvan het college van burgemeester en wethouders op grond van [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2025-11-11&g=2025-11-11) verantwoordelijk is voor de bijhouding van de persoonslijst;
+- h. *de bijhoudingsgemeente:* de gemeente waarvan het college van burgemeester en wethouders op grond van [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2025-11-11&g=2025-11-11) verantwoordelijk is voor de bijhouding van de persoonslijst;
 
-- i. **een vreemdeling:** degene die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander wordt behandeld;
+- i. *een vreemdeling:* degene die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander wordt behandeld;
 
-- j. **de aangifte van verblijf en adres:** de aangifte, bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.38&z=2025-11-11&g=2025-11-11);
+- j. *de aangifte van verblijf en adres:* de aangifte, bedoeld in [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.38&z=2025-11-11&g=2025-11-11);
 
-- k. **een beëdigde vertaler:** een vertaler als bedoeld in [artikel 1, onder d, van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=1);
+- k. *een beëdigde vertaler:* een vertaler als bedoeld in [artikel 1, onder d, van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=1);
 
-- l. **de aangifte van adreswijziging:** de aangifte, bedoeld in [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.39&z=2025-11-11&g=2025-11-11);
+- l. *de aangifte van adreswijziging:* de aangifte, bedoeld in [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.39&z=2025-11-11&g=2025-11-11);
 
-- m. **de aangifte van vertrek:** de aangifte, bedoeld in [artikel 2.43](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.43&z=2025-11-11&g=2025-11-11);
+- m. *de aangifte van vertrek:* de aangifte, bedoeld in [artikel 2.43](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.43&z=2025-11-11&g=2025-11-11);
 
-- n. **een authentiek gegeven:** een in de basisregistratie opgenomen gegeven dat op grond van [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=1&paragraaf=2&artikel=1.6&z=2025-11-11&g=2025-11-11) als authentiek wordt aangemerkt;
+- n. *een authentiek gegeven:* een in de basisregistratie opgenomen gegeven dat op grond van [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=1&paragraaf=2&artikel=1.6&z=2025-11-11&g=2025-11-11) als authentiek wordt aangemerkt;
 
-- o. **het woonadres:**
+- o. *het woonadres:*
 
-- 1°. het adres waar betrokkene woont, waaronder begrepen het adres van een woning die zich in een voertuig of vaartuig bevindt, indien het voertuig of vaartuig een vaste stand- of ligplaats heeft, of, indien betrokkene op meer dan één adres woont, het adres waar hij naar redelijke verwachting gedurende een half jaar de meeste malen zal overnachten;
+   - 1° het adres waar betrokkene woont, waaronder begrepen het adres van een woning die zich in een voertuig of vaartuig bevindt, indien het voertuig of vaartuig een vaste stand- of ligplaats heeft, of, indien betrokkene op meer dan één adres woont, het adres waar hij naar redelijke verwachting gedurende een half jaar de meeste malen zal overnachten;
 
-- 2°. het adres waar, bij het ontbreken van een adres als bedoeld onder 1, betrokkene naar redelijke verwachting gedurende drie maanden ten minste twee derde van de tijd zal overnachten;
+   - 2° het adres waar, bij het ontbreken van een adres als bedoeld onder 1, betrokkene naar redelijke verwachting gedurende drie maanden ten minste twee derde van de tijd zal overnachten;
 
-- p. **het briefadres:** het adres waar voor betrokkene bestemde geschriften in ontvangst worden genomen;
+- p. *het briefadres:* het adres waar voor betrokkene bestemde geschriften in ontvangst worden genomen;
 
-- q. **het adres:** het woonadres, dan wel bij het ontbreken hiervan of bij toepassing van [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.40&z=2025-11-11&g=2025-11-11) of [2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.41&z=2025-11-11&g=2025-11-11), het briefadres;
+- q. *het adres:* het woonadres, dan wel bij het ontbreken hiervan of bij toepassing van [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.40&z=2025-11-11&g=2025-11-11) of [2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.41&z=2025-11-11&g=2025-11-11), het briefadres;
 
-- r. **de briefadresgever:** de natuurlijke persoon of rechtspersoon, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.42&z=2025-11-11&g=2025-11-11), die een briefadres ter beschikking stelt;
+- r. *de briefadresgever:* de natuurlijke persoon of rechtspersoon, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.42&z=2025-11-11&g=2025-11-11), die een briefadres ter beschikking stelt;
 
-- s. **het burgerservicenummer:** het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
+- s. *het burgerservicenummer:* het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- t. **een overheidsorgaan:**
+- t. *een overheidsorgaan:*
 
-- 1°. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, of
+   - 1° een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, of
 
-- 2°. een ander persoon of college, met enig openbaar gezag bekleed;
+   - 2° een ander persoon of college, met enig openbaar gezag bekleed;
 
-- u. **een derde:** elke natuurlijke persoon, niet zijnde een overheidsorgaan of de ingeschrevene, en elke rechtspersoon die niet krachtens publiekrecht is ingesteld, noch met enig openbaar gezag is bekleed;
+- u. *een derde:* elke natuurlijke persoon, niet zijnde een overheidsorgaan of de ingeschrevene, en elke rechtspersoon die niet krachtens publiekrecht is ingesteld, noch met enig openbaar gezag is bekleed;
 
-- v. **de openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- v. *de openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- w. **een inschrijfvoorziening:** een voorziening als bedoeld in [artikel 2.64](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.64&z=2025-11-11&g=2025-11-11);
+- w. *een inschrijfvoorziening:* een voorziening als bedoeld in [artikel 2.64](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.64&z=2025-11-11&g=2025-11-11);
 
-- x. **het Besluit bevolkingsboekhouding:** het Besluit bevolkingsboekhouding zoals dat gold op de laatste dag voor de intrekking van de Wet bevolkings- en verblijfsregisters;
+- x. *het Besluit bevolkingsboekhouding:* het Besluit bevolkingsboekhouding zoals dat gold op de laatste dag voor de intrekking van de Wet bevolkings- en verblijfsregisters;
 
-- y. **de verordening:** Verordening (EU) nr. 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (Algemene verordening gegevensbescherming) (PbEU 2016, L 119);
+- y. *de verordening:* Verordening (EU) nr. 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (Algemene verordening gegevensbescherming) (PbEU 2016, L 119);
 
-- z. **het tijdelijk verblijfsadres:** het adres in Nederland, niet zijnde het woonadres of het briefadres, waar betrokkene naar redelijke verwachting gedurende een maand meestentijds en gedurende een half jaar minder dan twee derde van de tijd zal overnachten;
+- z. *het tijdelijk verblijfsadres:* het adres in Nederland, niet zijnde het woonadres of het briefadres, waar betrokkene naar redelijke verwachting gedurende een maand meestentijds en gedurende een half jaar minder dan twee derde van de tijd zal overnachten;
 
-- aa. **contactgegevens:** telefoonnummer en e-mailadres van de niet-ingezetene;
+- aa. *contactgegevens:* telefoonnummer en e-mailadres van de niet-ingezetene;
 
-- ab. **de ingezetene van een openbaar lichaam:** de ingeschrevene die zijn adres heeft in een van de openbare lichamen, en op wiens persoonslijst niet het gegeven van zijn overlijden of van zijn vertrek uit een van de openbare lichamen als actueel gegeven is opgenomen;
+- ab. *de ingezetene van een openbaar lichaam:* de ingeschrevene die zijn adres heeft in een van de openbare lichamen, en op wiens persoonslijst niet het gegeven van zijn overlijden of van zijn vertrek uit een van de openbare lichamen als actueel gegeven is opgenomen;
 
-- ac. **Nederland:** het Europese deel van Nederland.
+- ac. *Nederland:* het Europese deel van Nederland.
 
 ##### Artikel 1.2
 
@@ -235,7 +206,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent:
 
 ### Hoofdstuk 2. De bijhouding van de basisregistratie
 
-### Afdeling 1. Ingezetenen
+#### Afdeling 1. Ingezetenen
 
 #### § 1. Algemeen
 
@@ -293,39 +264,39 @@ Op grond van de geboorteakte, opgemaakt door een ambtenaar van de burgerlijke st
 
 - a. algemene gegevens:
 
-- 1°. gegevens over de burgerlijke staat waar het betreft de naam, de geboorte, het geslacht, de ouders, het huwelijk, dan wel geregistreerd partnerschap en eerdere huwelijken of eerder geregistreerde partnerschappen, de echtgenoot dan wel geregistreerd partner en eerdere echtgenoten of geregistreerde partners, de kinderen en het overlijden;
+   - 1° gegevens over de burgerlijke staat waar het betreft de naam, de geboorte, het geslacht, de ouders, het huwelijk, dan wel geregistreerd partnerschap en eerdere huwelijken of eerder geregistreerde partnerschappen, de echtgenoot dan wel geregistreerd partner en eerdere echtgenoten of geregistreerde partners, de kinderen en het overlijden;
 
-- 2°. gegevens over kinderen die op het moment van de geboorte niet meer in leven zijn of omtrent wie een akte in Nederland is opgemaakt die vermeldt dat het kind op het ogenblik van de aangifte niet in leven is, dan wel die zijn overleden zonder zelf ingeschrevene te zijn;
+   - 2° gegevens over kinderen die op het moment van de geboorte niet meer in leven zijn of omtrent wie een akte in Nederland is opgemaakt die vermeldt dat het kind op het ogenblik van de aangifte niet in leven is, dan wel die zijn overleden zonder zelf ingeschrevene te zijn;
 
-- 3°. gegevens over curatele;
+   - 3° gegevens over curatele;
 
-- 4°. gegevens over het gezag dat over de minderjarige wordt uitgeoefend;
+   - 4° gegevens over het gezag dat over de minderjarige wordt uitgeoefend;
 
-- 5°. gegevens over de nationaliteit, met dien verstande dat geen gegevens over een vreemde nationaliteit worden opgenomen naast gegevens over het Nederlanderschap of het feit dat de betrokkene als Nederlander wordt behandeld;
+   - 5° gegevens over de nationaliteit, met dien verstande dat geen gegevens over een vreemde nationaliteit worden opgenomen naast gegevens over het Nederlanderschap of het feit dat de betrokkene als Nederlander wordt behandeld;
 
-- 6°. gegevens in verband met het verblijfsrecht van de vreemdeling;
+   - 6° gegevens in verband met het verblijfsrecht van de vreemdeling;
 
-- 7°. gegevens over de bijhoudingsgemeente en het adres in die gemeente, alsmede over het verblijf in Nederland en het vorige verblijf buiten Nederland en over het vertrek uit Nederland en het volgende verblijf buiten Nederland;
+   - 7° gegevens over de bijhoudingsgemeente en het adres in die gemeente, alsmede over het verblijf in Nederland en het vorige verblijf buiten Nederland en over het vertrek uit Nederland en het volgende verblijf buiten Nederland;
 
-- 8°. gegevens over het burgerservicenummer van de ingeschrevene;
+   - 8° gegevens over het burgerservicenummer van de ingeschrevene;
 
-- 9°. gegevens over de burgerservicenummers van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen;
+   - 9° gegevens over de burgerservicenummers van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen;
 
-- 10°. gegevens over het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner;
+   - 10° gegevens over het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner;
 
-- 11°. gegevens, noodzakelijk in verband met de uitvoering van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627);
+   - 11° gegevens, noodzakelijk in verband met de uitvoering van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627);
 
-- 12°. gegevens, noodzakelijk in verband met de uitvoering van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212).
+   - 12° gegevens, noodzakelijk in verband met de uitvoering van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212).
 
 - b. administratieve gegevens:
 
-- 1°. gegevens in verband met de inschrijving en de wijziging van de bijhoudingsgemeente;
+   - 1° gegevens in verband met de inschrijving en de wijziging van de bijhoudingsgemeente;
 
-- 2°. gegevens ter aanduiding van akten en andere geschriften waaruit algemene gegevens zijn verkregen, dan wel van de rechtsgrond krachtens welke gegevens over het Nederlanderschap zijn opgenomen;
+   - 2° gegevens ter aanduiding van akten en andere geschriften waaruit algemene gegevens zijn verkregen, dan wel van de rechtsgrond krachtens welke gegevens over het Nederlanderschap zijn opgenomen;
 
-- 3°. gegevens ter aanduiding van de onjuistheid van een opgenomen algemeen gegeven of van strijd met de Nederlandse openbare orde van een opgenomen gegeven over de burgerlijke staat dan wel over een onderzoek naar die onjuistheid of strijdigheid, alsmede andere gegevens, noodzakelijk in verband met de bijhouding van de basisregistratie;
+   - 3° gegevens ter aanduiding van de onjuistheid van een opgenomen algemeen gegeven of van strijd met de Nederlandse openbare orde van een opgenomen gegeven over de burgerlijke staat dan wel over een onderzoek naar die onjuistheid of strijdigheid, alsmede andere gegevens, noodzakelijk in verband met de bijhouding van de basisregistratie;
 
-- 4°. gegevens over de beperking van de verstrekking van gegevens aan derden.
+   - 4° gegevens over de beperking van de verstrekking van gegevens aan derden.
 
 2. De algemene en administratieve gegevens worden nader bepaald bij of krachtens algemene maatregel van bestuur.
 
@@ -355,6 +326,22 @@ Op grond van de geboorteakte, opgemaakt door een ambtenaar van de burgerlijke st
 
 3. De gegevens over de burgerlijke staat worden, indien zij feiten betreffen die zich in Nederland hebben voorgedaan en waarvan een in Nederland geaccrediteerde consulaire ambtenaar van een ander land bevoegd een akte heeft opgemaakt die ten doel heeft tot bewijs te dienen van het desbetreffende feit, ontleend aan die akte.
 
+##### Artikel 2.8a
+
+1. Bij een verzoek op grond van [artikel 2.56a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.56a&z=2025-11-11&g=2025-11-11) worden de gegevens over het kind, bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), indien het feit zich in Nederland heeft voorgedaan, ontleend aan een akte over het desbetreffende feit, die is opgenomen in het overlijdensregister van de Nederlandse burgerlijke stand.
+
+2. Bij een verzoek op grond van [artikel 2.56a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.56a&z=2025-11-11&g=2025-11-11) worden de gegevens over het kind, bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), dat op het moment van de geboorte niet meer in leven is, indien het feit zich buiten Nederland heeft voorgedaan, ontleend aan een geschrift als bedoeld onder a, bij gebreke hiervan aan een geschrift als bedoeld onder b, bij gebreke hiervan aan een geschrift als bedoeld onder c en bij gebreke ook hiervan aan een verklaring als bedoeld onder d, aangevuld met een geschrift als bedoeld onder d:
+
+- a. een akte over het desbetreffende feit, die is opgenomen in het overlijdensregister van de Nederlandse burgerlijke stand;
+
+- b. een buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte akte die ten doel heeft tot bewijs te dienen van het desbetreffende feit;
+
+- c. een geschrift dat overeenkomstig de plaatselijke voorschriften is opgemaakt door een bevoegde instantie, waarin het desbetreffende feit is vermeld;
+
+- d. een verklaring over het desbetreffende feit die de verzoeker ten overstaan van een door het college van burgemeester en wethouders aangewezen ambtenaar onder eed of belofte heeft afgelegd, die op schrift is gesteld en door de verzoeker is ondertekend, zo mogelijk aangevuld met een schriftelijke verklaring van een arts of verloskundige over het feit.
+
+3. Indien op de akte of het geschrift, bedoeld in het eerste of tweede lid, de gegevens met betrekking tot de naam van het kind, bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), ontbreken, worden deze gegevens ontleend aan de opgave van de ouder die om de opneming van die gegevens in de basisregistratie verzoekt.
+
 ##### Artikel 2.9
 
 1. Aan een geschrift als bedoeld in [artikel 2.8, tweede lid, onder c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.8&z=2025-11-11&g=2025-11-11), dan wel artikel 2.8, derde lid, worden geen gegevens ontleend over het huwelijk dat is gesloten tussen echtgenoten van wie er ten minste één vreemdeling is, dan nadat de echtgenoten een verklaring hebben afgelegd dat hun huwelijk niet is aangegaan met het oogmerk om verblijfsrecht in Nederland te verkrijgen.
@@ -383,7 +370,7 @@ Op grond van de geboorteakte, opgemaakt door een ambtenaar van de burgerlijke st
 
 1. Op de persoonslijst van een persoon worden geen gegevens over zijn kind opgenomen indien het kind ten tijde van de inschrijving van de persoon reeds is overleden en het kind zelf geen ingeschrevene is.
 
-2. Het eerste lid is niet van toepassing op de persoon die een verzoek doet als bedoeld in [artikel 2.56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.56a&z=2025-11-11&g=2025-11-11).
+2. Het eerste lid is niet van toepassing op de persoon die een verzoek doet als bedoeld in [artikel 2.56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.56a&z=2025-11-11&g=2025-11-11).
 
 ##### Artikel 2.12
 
@@ -419,7 +406,7 @@ Op grond van de geboorteakte, opgemaakt door een ambtenaar van de burgerlijke st
 
 3. Indien de nationaliteit niet kan worden vastgesteld, wordt dit gegeven opgenomen. Indien een rechterlijke uitspraak op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17) is gedaan, waarbij is vastgesteld dat de betrokkene niet de Nederlandse nationaliteit bezit, wordt daarvan melding gemaakt.
 
-4. Het gegeven dat betrokkene geen nationaliteit bezit wordt ontleend aan een beschikking als bedoeld in [artikel 4 van de Wet vaststellingsprocedure staatloosheid](onbekend) of opgenomen met toepassing van [artikel 5 van die wet](onbekend).
+4. Het gegeven dat betrokkene geen nationaliteit bezit wordt ontleend aan een beschikking als bedoeld in artikel 4 van de Wet vaststellingsprocedure staatloosheid of opgenomen met toepassing van artikel 5 van die wet.
 
 ##### Artikel 2.16
 
@@ -483,11 +470,11 @@ Bij de inschrijving op grond van [artikel 2.3](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 2.23
 
-1. Indien het woonadres ontbreekt dan wel [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.40&z=2025-11-11&g=2025-11-11) of [artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.41&z=2025-11-11&g=2025-11-11) van toepassing is, wordt op aangifte een briefadres opgenomen.
+1. Indien het woonadres ontbreekt dan wel [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.40&z=2025-11-11&g=2025-11-11) of [artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.41&z=2025-11-11&g=2025-11-11) van toepassing is, wordt op aangifte een briefadres opgenomen.
 
 2. Het college van burgemeester en wethouders neemt ambtshalve een briefadres op indien het woonadres ontbreekt en geen aangifte wordt gedaan van een briefadres.
 
-3. Indien toepassing wordt gegeven aan het tweede lid, wordt als briefadres opgenomen met instemming van een briefadresgever als bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.42&z=2025-11-11&g=2025-11-11) diens adres of, indien geen instemming van een briefadresgever wordt verkregen, een adres van de gemeente.
+3. Indien toepassing wordt gegeven aan het tweede lid, wordt als briefadres opgenomen met instemming van een briefadresgever als bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.42&z=2025-11-11&g=2025-11-11) diens adres of, indien geen instemming van een briefadresgever wordt verkregen, een adres van de gemeente.
 
 ##### Artikel 2.24
 
@@ -577,6 +564,72 @@ Bij algemene maatregel van bestuur kunnen aan overheidsorganen verplichtingen wo
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de wijze waarop aan de verplichtingen bedoeld in deze paragraaf moet worden voldaan.
 
+#### § 4a. Ondersteuning bij het onderzoek of een persoon als ingezetene in de basisregistratie op een adres in de gemeente dient te worden ingeschreven alsmede naar de juistheid van de gegevens betreffende het adres van een ingezetene in de basisregistratie
+
+##### Artikel 2.37a
+
+1. Onze Minister is belast met het verlenen van ondersteuning aan het college van burgemeester en wethouders van de bijhoudingsgemeente bij het verrichten van onderzoek of een persoon als ingezetene in de basisregistratie op een adres in de gemeente dient te worden ingeschreven alsmede naar de juistheid van de gegevens betreffende het adres van een ingezetene in de basisregistratie.
+
+2. Onze Minister is bevoegd om in het kader van de uitoefening van de in het eerste lid bedoelde taak gegevens, waaronder bijzondere categorieën van persoonsgegevens als bedoeld in artikel 9 van de verordening voor zover het gegevens over gezondheid betreft, te verwerken overeenkomstig het bepaalde bij of krachtens deze paragraaf.
+
+3. Onze Minister is niet bevoegd om in het kader van de uitoefening van de in het eerste lid bedoelde taak gegevens over nationaliteit, geboorteplaats of gegevens die daarvan zijn afgeleid te verwerken, voor zover die verwerking discriminatoire selectie van personen tot gevolg heeft.
+
+##### Artikel 2.37b
+
+1. Bij regeling van Onze Minister kunnen, ten behoeve van het onderzoek, bedoeld in [artikel 2.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37a&z=2025-11-11&g=2025-11-11), bestuursorganen worden aangewezen die, in afwijking van het bepaalde in [artikel 2.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4&artikel=2.34&z=2025-11-11&g=2025-11-11), de mededeling omtrent gerede twijfel over de juistheid van de verstrekte gegevens betreffende het adres van een persoon in een gemeente of het achterwege blijven van de verstrekking van een adres, doen toekomen aan Onze Minister. De mededeling kan ook betrekking hebben op het briefadres van een ingezetene.
+
+2. Ten behoeve van het onderzoek, bedoeld in [artikel 2.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37a&z=2025-11-11&g=2025-11-11), kunnen door de bestuursorganen, bedoeld in het eerste lid, aan Onze Minister ook andere, bij of krachtens algemene maatregel van bestuur te bepalen, gegevens worden verstrekt die noodzakelijk zijn voor een goede uitoefening van de aan Onze Minister opgedragen taak als bedoeld in artikel 2.37a, eerste lid.
+
+3. Bij regeling van Onze Minister kunnen derden, die op grond van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.3&z=2025-11-11&g=2025-11-11) gegevens verstrekt krijgen uit de basisregistratie, worden aangewezen die aan Onze Minister een mededeling kunnen doen als bedoeld in het eerste lid. Het tweede lid is van overeenkomstige toepassing.
+
+##### Artikel 2.37c
+
+1. Bij het verlenen van ondersteuning door Onze Minister aan het college van burgemeester en wethouders aan het onderzoek, bedoeld in [artikel 2.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37a&z=2025-11-11&g=2025-11-11), is Onze Minister bevoegd tot de verwerking van:
+
+- a. de gegevens, opgenomen in de centrale voorziening die gebruikt wordt voor de systematische verstrekking van gegevens,
+
+- b. de gegevens, verkregen van aangewezen bestuursorganen en derden als bedoeld in [artikel 2.37b](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37b&z=2025-11-11&g=2025-11-11), en
+
+- c. andere bij of krachtens algemene maatregel van bestuur te bepalen gegevens.
+
+2. In het kader van de verwerking van de gegevens, bedoeld in het eerste lid, kan Onze Minister de gegevens in ieder geval analyseren aan de hand van profielen of in het kader van een onderzoek naar patronen.
+
+3. Onze Minister treft passende maatregelen om bij de ontwikkeling van profielen controle door menselijke tussenkomst te waarborgen.
+
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de verwerking van de gegevens, de te hanteren analysemethoden en de maatregelen om menselijke tussenkomst te waarborgen bij de ontwikkeling van profielen.
+
+5. De voordracht voor een krachtens het vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+##### Artikel 2.37d
+
+1. Onze Minister deelt naar aanleiding van de verwerking van gegevens als bedoeld in [artikel 2.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37c&z=2025-11-11&g=2025-11-11) de resultaten dan wel een selectie daarvan mee aan het college van burgemeester en wethouders van de gemeente waarin de persoon waarop de gegevens betrekking hebben mogelijk als ingezetene dient te worden ingeschreven dan wel aan de bijhoudingsgemeente van de persoon van wie de gegevens betreffende het adres worden onderzocht.
+
+2. Onze Minister stelt het college van burgemeester en wethouders op de hoogte van de redenen die ten grondslag liggen aan de mededeling van de resultaten dan wel de selectie, bedoeld in het eerste lid.
+
+##### Artikel 2.37e
+
+1. Het college van burgemeester en wethouders dat van Onze Minister een mededeling als bedoeld in [artikel 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37d&z=2025-11-11&g=2025-11-11), heeft gekregen, stelt uiterlijk binnen een bij algemene maatregel van bestuur te bepalen termijn na de ontvangst van de mededeling Onze Minister ervan op de hoogte of deze aanleiding is geweest voor opneming, verbetering, aanvulling of verwijdering van gegevens in de basisregistratie, dan wel dat bij het gegeven in de basisregistratie een aantekening als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.26&z=2025-11-11&g=2025-11-11) is geplaatst in verband met het doen van een onderzoek naar de onjuistheid van het adresgegeven. De resultaten van het onderzoek naar het inschrijven van een persoon als ingezetene of de onjuistheid van het adresgegeven van de ingezetene worden zo spoedig mogelijk doch uiterlijk binnen een bij algemene maatregel van bestuur te bepalen termijn teruggekoppeld aan Onze Minister.
+
+2. Onze Minister is bevoegd om de teruggekoppelde resultaten van het onderzoek door het college van burgemeester en wethouders als bedoeld in het eerste lid te betrekken in de verwerking als bedoeld in [artikel 2.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37c&z=2025-11-11&g=2025-11-11).
+
+3. Onze Minister is tevens bevoegd om de resultaten van de terugkoppeling te verstrekken aan het bestuursorgaan dat dan wel de derde die de mededeling, bedoeld in [artikel 2.37b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37b&z=2025-11-11&g=2025-11-11), aan Onze Minister heeft gedaan.
+
+##### Artikel 2.37f
+
+1. Bij of krachtens algemene maatregel van bestuur wordt bepaald:
+
+- a. welke gegevens als bedoeld in [artikel 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37d&z=2025-11-11&g=2025-11-11), door Onze Minister aan het college van burgemeester en wethouders worden verstrekt;
+
+- b. welke gegevens als bedoeld in [artikel 2.37e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37e&z=2025-11-11&g=2025-11-11), door het college van burgemeester en wethouders aan Onze Minister worden verstrekt;
+
+- c. op welke wijze de verstrekking van de gegevens, bedoeld in de [artikelen 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37d&z=2025-11-11&g=2025-11-11), en [2.37e](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37e&z=2025-11-11&g=2025-11-11), plaatsvindt.
+
+2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+##### Artikel 2.37g
+
+Het college van burgemeester en wethouders treft bij het verrichten van een onderzoek als bedoeld in [artikel 2.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37a&z=2025-11-11&g=2025-11-11), naar aanleiding van een mededeling als bedoeld in [artikel 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37d&z=2025-11-11&g=2025-11-11), passende maatregelen die strekken tot bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de persoon van wie de gegevens betreffende het adres worden onderzocht, waarbij deze persoon ten minste het recht heeft op voorafgaande controle door menselijke tussenkomst.
+
 #### § 5. De verplichtingen van de burger
 
 ##### Artikel 2.38
@@ -647,7 +700,7 @@ Als briefadresgever kan worden gekozen:
 
 3. Ter uitvoering van het eerste lid verschijnt de ingezetene in persoon bij het college, indien:
 
-- a. niet alle ingezetenen met hetzelfde woonadres die echtgenoot, geregistreerde partner, levensgezel dan wel bloed- of aanverwanten tot en met de tweede graad zijn van de persoon die aangifte van vertrek doet, de verplichting, bedoeld in het eerste lid, vervullen; of
+- a. niet alle ingezetenen met hetzelfde woonadres die echtgenoot, geregistreerde partner, levensgezel dan wel bloed- of aanverwanten tot en met de tweede graad zijn van de persoon die aangifte van vertrek doet, de verplichting, bedoeld in het eerste lid, vervullen; of
 
 - b. niet voor alle ingezetenen met hetzelfde woonadres die echtgenoot, geregistreerde partner, levensgezel dan wel bloed- of aanverwanten tot en met de tweede graad zijn van de persoon die aangifte van vertrek doet, de verplichting, bedoeld in het eerste lid, wordt vervuld.
 
@@ -769,6 +822,16 @@ De echtgenoot, de geregistreerde partner en andere nabestaanden tot en met de tw
 
 2. Het college doet van de opneming van de gegevens terstond schriftelijk mededeling aan de verzoeker.
 
+##### Artikel 2.56a
+
+1. Het college van burgemeester en wethouders neemt op schriftelijk verzoek van de ouder binnen vier weken kosteloos op diens persoonslijst de gegevens op over een kind als bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), indien de ouder ten tijde van het verzoek als ingezetene in de basisregistratie is of wordt ingeschreven.
+
+2. De ouder, bedoeld in het eerste lid, legt op verzoek van het college van burgemeester en wethouders van een akte of een geschrift als bedoeld in [artikel 2.8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.8a&z=2025-11-11&g=2025-11-11), een door een beëdigde vertaler vervaardigde vertaling in het Nederlands over.
+
+3. Het college doet van de opneming van de gegevens terstond schriftelijk mededeling aan de verzoeker.
+
+4. Het college verwijdert op schriftelijk verzoek van de ouder binnen vier weken kosteloos van de persoonslijst van die ouder de gegevens over het kind, bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11).
+
 ##### Artikel 2.57
 
 1. Het college van burgemeester en wethouders verwijdert op schriftelijk verzoek van een adoptiefkind van 16 jaar of ouder, binnen vier weken kosteloos van de persoonslijst van het adoptiefkind, de vóór de adoptie geldende algemene gegevens voor zover het betreft:
@@ -791,7 +854,7 @@ De echtgenoot, de geregistreerde partner en andere nabestaanden tot en met de tw
 
 - c. gegevens over het gebruik van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner.
 
-4. Het college verwijdert op schriftelijk verzoek van de ingeschrevene die de leeftijd van 16 jaar heeft bereikt, binnen vier weken kosteloos van zijn persoonslijst de algemene gegevens over de naam en het geslacht van een ouder, een echtgenoot of een geregistreerde partner, een eerdere echtgenoot of een eerdere geregistreerde partner of het algemeen gegeven over de naam van het kind van de ingeschrevene, die zijn gewijzigd in verband met een wijziging van de vermelding van het geslacht in de geboorteakte van de ouder, echtgenoot, geregistreerde partner, eerdere echtgenoot, eerdere geregistreerde partner of het kind dan wel die golden voorafgaand aan die wijziging.
+4. Het college verwijdert op schriftelijk verzoek van de ingeschrevene die de leeftijd van 16 jaar heeft bereikt, binnen vier weken kosteloos van zijn persoonslijst de algemene gegevens over de naam en het geslacht van een ouder, een echtgenoot of een geregistreerde partner, een eerdere echtgenoot of een eerdere geregistreerde partner of het algemeen gegeven over de naam van het kind van de ingeschrevene, die zijn gewijzigd in verband met een wijziging van de vermelding van het geslacht in de geboorteakte van de ouder, echtgenoot, geregistreerde partner, eerdere echtgenoot, eerdere geregistreerde partner of het kind dan wel die golden voorafgaand aan die wijziging.
 
 5. [Artikel 2.55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11), is van toepassing op een verzoek als bedoeld in het eerste tot en met vierde lid. Op een verzoek als bedoeld in het derde of vierde lid is bovendien artikel 2.55, tweede lid, van overeenkomstige toepassing.
 
@@ -808,6 +871,10 @@ De echtgenoot, de geregistreerde partner en andere nabestaanden tot en met de tw
 4. [Artikel 2.55, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
 
 5. Het college van burgemeester en wethouders doet van de uitvoering van het verzoek terstond mededeling aan de verzoeker.
+
+##### Artikel 2.58a
+
+Artikel 18 van de verordening is met betrekking tot de bijhouding van gegevens in de basisregistratie niet van toepassing.
 
 ##### Artikel 2.59
 
@@ -841,9 +908,9 @@ wordt gelijkgesteld met een besluit in de zin van de [Algemene wet bestuursrecht
 
 2. Voor zover een besluit als bedoeld in [artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.60&z=2025-11-11&g=2025-11-11) het Nederlanderschap betreft, kan de betrokkene zich uitsluitend wenden tot de rechtbank Den Haag met een verzoek als bedoeld in [artikel 17 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17).
 
-3. Voor zover een besluit als bedoeld in [artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.60&z=2025-11-11&g=2025-11-11) het niet-bezitten van enige nationaliteit betreft, kan de betrokkene zich uitsluitend wenden tot de rechtbank Den Haag met een verzoek als bedoeld in [artikel 2 van de Wet vaststellingsprocedure staatloosheid](onbekend).
+3. Voor zover een besluit als bedoeld in [artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.60&z=2025-11-11&g=2025-11-11) het niet-bezitten van enige nationaliteit betreft, kan de betrokkene zich uitsluitend wenden tot de rechtbank Den Haag met een verzoek als bedoeld in artikel 2 van de Wet vaststellingsprocedure staatloosheid.
 
-### Afdeling 2. Niet-ingezetenen
+#### Afdeling 2. Niet-ingezetenen
 
 #### § 1. Algemeen
 
@@ -905,7 +972,7 @@ Onze Minister houdt in Nederland en in een of meerdere van de openbare lichamen 
 
 4. Het bestuursorgaan verzoekt niet om inschrijving als de betrokkene op grond van de eerste afdeling van dit hoofdstuk voor inschrijving in aanmerking komt.
 
-#### § 2. De inschrijving
+#### § 3. De opneming van persoonsgegevens
 
 ##### Artikel 2.69
 
@@ -913,33 +980,33 @@ Onze Minister houdt in Nederland en in een of meerdere van de openbare lichamen 
 
 - a. algemene gegevens:
 
-- 1°. gegevens over de burgerlijke staat waar het betreft de naam, de geboorte, het geslacht en het overlijden;
+   - 1° gegevens over de burgerlijke staat waar het betreft de naam, de geboorte, het geslacht en het overlijden;
 
-- 2°. gegevens over de nationaliteit, met dien verstande dat geen gegevens over een vreemde nationaliteit worden opgenomen naast gegevens over het Nederlanderschap of het feit dat de betrokkene als Nederlander wordt behandeld;
+   - 2° gegevens over de nationaliteit, met dien verstande dat geen gegevens over een vreemde nationaliteit worden opgenomen naast gegevens over het Nederlanderschap of het feit dat de betrokkene als Nederlander wordt behandeld;
 
-- 3°. gegevens in verband met het verblijfsrecht van de vreemdeling;
+   - 3° gegevens in verband met het verblijfsrecht van de vreemdeling;
 
-- 4°. gegevens over het woonadres;
+   - 4° gegevens over het woonadres;
 
-- 5°. gegevens over het burgerservicenummer van de ingeschrevene;
+   - 5° gegevens over het burgerservicenummer van de ingeschrevene;
 
-- 6°. gegevens over het tijdelijk verblijfsadres;
+   - 6° gegevens over het tijdelijk verblijfsadres;
 
-- 7°. contactgegevens;
+   - 7° contactgegevens;
 
 - b. administratieve gegevens:
 
-- 1°. gegevens in verband met de inschrijving;
+   - 1° gegevens in verband met de inschrijving;
 
-- 2°. gegevens over het niet-ingezetenschap;
+   - 2° gegevens over het niet-ingezetenschap;
 
-- 3°. gegevens over de opgave van algemene gegevens die het aangewezen bestuursorgaan heeft gedaan of over het verzoek van de ingeschrevene om opneming van algemene gegevens;
+   - 3° gegevens over de opgave van algemene gegevens die het aangewezen bestuursorgaan heeft gedaan of over het verzoek van de ingeschrevene om opneming van algemene gegevens;
 
-- 4°. gegevens ter aanduiding van de bron waaruit algemene gegevens zijn verkregen, dan wel van de rechtsgrond krachtens welke algemene gegevens zijn opgenomen;
+   - 4° gegevens ter aanduiding van de bron waaruit algemene gegevens zijn verkregen, dan wel van de rechtsgrond krachtens welke algemene gegevens zijn opgenomen;
 
-- 5°. gegevens ter aanduiding van de onjuistheid van een opgenomen algemeen gegeven of van strijd met de Nederlandse openbare orde van een opgenomen gegeven over de burgerlijke staat dan wel over een onderzoek naar die onjuistheid of strijdigheid, alsmede andere gegevens, noodzakelijk in verband met de bijhouding van de basisregistratie;
+   - 5° gegevens ter aanduiding van de onjuistheid van een opgenomen algemeen gegeven of van strijd met de Nederlandse openbare orde van een opgenomen gegeven over de burgerlijke staat dan wel over een onderzoek naar die onjuistheid of strijdigheid, alsmede andere gegevens, noodzakelijk in verband met de bijhouding van de basisregistratie;
 
-- 6°. gegevens over de beperking van de verstrekking van gegevens aan derden.
+   - 6° gegevens over de beperking van de verstrekking van gegevens aan derden.
 
 2. [Artikel 2.7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
 
@@ -961,11 +1028,11 @@ Onze Minister houdt in Nederland en in een of meerdere van de openbare lichamen 
 
 ##### Artikel 2.71
 
-1. Het aangewezen bestuursorgaan dat een opgave doet als bedoeld in [artikel 2.70, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.70&z=2025-11-11&g=2025-11-11), geeft daarbij toepassing aan de [artikelen 2.72 tot en met 2.75a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.72&z=2025-11-11&g=2025-11-11).
+1. Het aangewezen bestuursorgaan dat een opgave doet als bedoeld in [artikel 2.70, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.70&z=2025-11-11&g=2025-11-11), geeft daarbij toepassing aan de [artikelen 2.72 tot en met 2.75a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.72&z=2025-11-11&g=2025-11-11).
 
 2. Indien het bestuursorgaan op grond van een wet, een verdrag of een besluit van een volkenrechtelijke organisatie gehouden is de desbetreffende gegevens te ontlenen aan een opgave van een buitenlands orgaan, ontleent het bestuursorgaan deze gegevens aan die opgave.
 
-3. Indien Onze Minister gegevens opneemt, anders dan door ontlening aan een opgave van een aangewezen bestuursorgaan, geeft hij daarbij toepassing aan de [artikelen 2.72 tot en met 2.75a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.72&z=2025-11-11&g=2025-11-11).
+3. Indien Onze Minister gegevens opneemt, anders dan door ontlening aan een opgave van een aangewezen bestuursorgaan, geeft hij daarbij toepassing aan de [artikelen 2.72 tot en met 2.75a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.72&z=2025-11-11&g=2025-11-11).
 
 ##### Artikel 2.72
 
@@ -986,6 +1053,12 @@ De gegevens in verband met het verblijfsrecht van de vreemdeling worden ontleend
 2. Indien aannemelijk is dat een gegeven in de opgave onjuist is, wordt het gegeven niet aan de opgave ontleend.
 
 3. Als de ingeschrevene geen opgave heeft gedaan of aannemelijk is dat de opgave onjuiste gegevens bevat, kunnen de gegevens ambtshalve worden vastgesteld.
+
+##### Artikel 2.75a
+
+1. Contactgegevens worden ontleend aan een opgave van de ingeschrevene.
+
+2. Indien aannemelijk is dat een gegeven in de opgave onjuist is, wordt het gegeven niet aan de opgave ontleend.
 
 ##### Artikel 2.76
 
@@ -1031,9 +1104,75 @@ Indien Onze Minister in verband met het opnemen van gegevens in de basisregistra
 
 5. Op een verzoek als bedoeld in [artikel 2.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.53&z=2025-11-11&g=2025-11-11), is [artikel 2.79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2.79&z=2025-11-11&g=2025-11-11), van overeenkomstige toepassing.
 
+#### Afdeling 3. Ingezetenen van een openbaar lichaam
+
+#### § 1. Algemeen
+
+##### Artikel 2.82
+
+1. Deze afdeling is van toepassing op personen die als ingezetene van een openbaar lichaam in de basisregistratie zijn of worden ingeschreven en op ingeschrevenen die op het moment van hun overlijden ingezetene van een openbaar lichaam waren.
+
+2. Met betrekking tot de ingeschrevene die geen ingezetene van een openbaar lichaam meer is, worden krachtens deze afdeling geen nieuwe algemene gegevens opgenomen.
+
+3. In afwijking van het eerste of tweede lid worden gegevens opgenomen krachtens deze afdeling, voor zover:
+
+- a. het feiten betreft die zich hebben voorgedaan in de tijd dat de ingeschrevene nog ingezetene van een openbaar lichaam was, of
+
+- b. dit bij algemene maatregel van bestuur is bepaald.
+
+4. De krachtens deze afdeling over een ingeschrevene opgenomen gegevens worden zodra diegene ingezetene wordt, opnieuw vastgesteld met inachtneming van de eerste afdeling van dit hoofdstuk.
+
+5. De krachtens [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&z=2025-11-11&g=2025-11-11) of [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&z=2025-11-11&g=2025-11-11) van dit hoofdstuk over een ingeschrevene opgenomen gegevens worden zodra diegene ingezetene van een openbaar lichaam wordt, opnieuw vastgesteld met inachtneming van deze afdeling.
+
+#### § 2. De inschrijving
+
+##### Artikel 2.83
+
+1. De inschrijving in de basisregistratie geschiedt ambtshalve.
+
+2. Inschrijving geschiedt niet als de betrokkene reeds in de basisregistratie is ingeschreven.
+
+#### § 3. De opneming van persoonsgegevens
+
+##### Artikel 2.84
+
+1. In de basisregistratie worden over de ingeschrevene uitsluitend de volgende gegevens opgenomen:
+
+- a. algemene gegevens:
+
+   - 1° gegevens over de burgerlijke staat waar het betreft de naam, de geboorte, het geslacht en het overlijden;
+
+   - 2° gegevens over de nationaliteit, met dien verstande dat geen gegevens over een vreemde nationaliteit worden opgenomen naast gegevens over het Nederlanderschap of het feit dat de betrokkene als Nederlander wordt behandeld;
+
+   - 3° gegevens over het burgerservicenummer van de ingeschrevene;
+
+   - 4° gegevens over het adres, bedoeld in [artikel 1, eerste lid, onderdeel n, en tweede lid, van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=1).
+
+- b. administratieve gegevens:
+
+   - 1° gegevens in verband met de inschrijving;
+
+   - 2° gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, onder 3° van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10);
+
+   - 3° gegevens over de beperking van de verstrekking van gegevens aan derden.
+
+2. [Artikel 2.7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
+
+##### Artikel 2.85
+
+1. De algemene gegevens, bedoeld in [artikel 2.84, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=3&paragraaf=3&artikel=2.84&z=2025-11-11&g=2025-11-11), en de administratieve gegevens, bedoeld in artikel 2.84, eerste lid, onderdeel b, onder 2° en 3°, worden ontleend aan de persoonslijst van de betrokkene, bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=1).
+
+2. Bij wijziging van de gegevens, bedoeld in [artikel 10, eerste lid, onderdeel a, onder 1°, 5°, 7°, 8° en 9°, en onderdeel c, onder 3° en 5°, van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10) draagt Onze Minister onverwijld zorg voor bijhouding daarvan in de basisregistratie, voor zover het gegevens betreft als bedoeld in [artikel 2.84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=3&paragraaf=3&artikel=2.84&z=2025-11-11&g=2025-11-11).
+
+#### § 4. Overige bepalingen
+
+##### Artikel 2.86
+
+De [artikelen 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11), [2.56a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.56a&z=2025-11-11&g=2025-11-11), [2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.57&z=2025-11-11&g=2025-11-11), [2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.58&z=2025-11-11&g=2025-11-11), [2.58a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.58a&z=2025-11-11&g=2025-11-11), [2.60, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.60&z=2025-11-11&g=2025-11-11), en [2.61](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.61&z=2025-11-11&g=2025-11-11), zijn van overeenkomstige toepassing ten aanzien van ingezetenen van een openbaar lichaam met dien verstande dat Onze Minister in de plaats treedt van het college van burgemeester en wethouders en dat het verzoek wordt gedaan door tussenkomst van een inschrijfvoorziening of een bestuurscollege.
+
 ### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
 
-### Afdeling 1. De verstrekking aan overheidsorganen en derden
+#### Afdeling 1. De verstrekking aan overheidsorganen en derden
 
 #### § 1. De verstrekking door Onze Minister
 
@@ -1073,7 +1212,7 @@ Indien Onze Minister in verband met het opnemen van gegevens in de basisregistra
 
 4. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### § 4. Overige bepalingen
+#### § 2. De verstrekking door de colleges van burgemeester en wethouders
 
 ##### Artikel 3.4
 
@@ -1107,7 +1246,7 @@ Indien Onze Minister in verband met het opnemen van gegevens in de basisregistra
 
 4. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### § 2. De verstrekking door de colleges van burgemeester en wethouders
+#### § 3. De verstrekking door het college van burgemeester en wethouders van de bijhoudingsgemeente
 
 ##### Artikel 3.7
 
@@ -1137,7 +1276,7 @@ Indien Onze Minister in verband met het opnemen van gegevens in de basisregistra
 
 5. [Artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.3&z=2025-11-11&g=2025-11-11) en [artikel 3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2025-11-11&g=2025-11-11), zijn van overeenkomstige toepassing.
 
-#### § 1. De verstrekking door Onze Minister
+#### § 4. Overige bepalingen
 
 ##### Artikel 3.10
 
@@ -1201,7 +1340,7 @@ Een derde kan bij het verwerken van persoonsgegevens gebruikmaken van het burger
 
 Een beslissing op grond van deze afdeling omtrent het verstrekken van gegevens of het ter beschikking stellen van informatie wordt gelijkgesteld met een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-### Afdeling 2. De rechten van de burger
+#### Afdeling 2. De rechten van de burger
 
 ##### Artikel 3.19
 
@@ -1214,6 +1353,10 @@ Een beslissing op grond van deze afdeling omtrent het verstrekken van gegevens o
 ##### Artikel 3.20
 
 De verstrekking aan de betrokkene van hem betreffende gegevens geschiedt ingevolge artikel 15 van de verordening, in samenhang met [artikel 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11) of in samenhang met de [artikelen 2.81](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=2.81&z=2025-11-11&g=2025-11-11) en 2.55.
+
+##### Artikel 3.20a
+
+Artikel 18 van de verordening is met betrekking tot de verstrekking van gegevens uit de basisregistratie niet van toepassing.
 
 ##### Artikel 3.21
 
@@ -1245,13 +1388,21 @@ De verstrekking aan de betrokkene van hem betreffende gegevens geschiedt ingevol
 
 4. [Artikel 2.55, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
 
+##### Artikel 3.22a
+
+1. Onverminderd [artikel 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=2&artikel=3.22&z=2025-11-11&g=2025-11-11), deelt Onze Minister elektronisch aan de betrokkene in verband met de uitoefening van het recht van inzage, bedoeld in artikel 15 van de verordening, op diens verzoek mede of gegevens die de betrokkene betreffen gedurende de periode van twintig jaren voorafgaande aan het verzoek door Onze Minister uit de basisregistratie zijn verstrekt.
+
+2. Onze Minister voldoet niet aan een verzoek als bedoeld in het eerste lid, indien het verzoek betrekking heeft op een minderjarige jonger dan 16 jaar.
+
+3. [Artikel 3.22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=2&artikel=3.22&z=2025-11-11&g=2025-11-11), alsmede [artikel 2.55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11), zijn van overeenkomstige toepassing.
+
 ##### Artikel 3.23
 
 1. Het college van burgemeester en wethouders doet op schriftelijk verzoek van de betrokkene, indien op grond van het verzoek, bedoeld in de [artikelen 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.57&z=2025-11-11&g=2025-11-11) en [2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.58&z=2025-11-11&g=2025-11-11), een besluit als bedoeld in [artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.60&z=2025-11-11&g=2025-11-11), dan wel de uitspraak van de rechter, bedoeld in [artikel 2.61](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.61&z=2025-11-11&g=2025-11-11), ten aanzien van hem gegevens zijn verbeterd, aangevuld of verwijderd, van de wijziging mededeling aan overheidsorganen en derden aan wie gedurende twintig jaren voorafgaand aan het verzoek en in de sedert dat verzoek verstreken tijd, de desbetreffende gegevens zijn verstrekt, tenzij dit onmogelijk blijkt of een onevenredige inspanning kost.
 
 2. Het verzoek, bedoeld in het eerste lid, kan de betrokkene aan het college richten tot uiterlijk acht weken nadat hij van de wijziging kennis heeft kunnen nemen.
 
-3. Het college doet aan de verzoeker desgevraagd opgave van degenen aan wie de mededeling, bedoeld in het eerste lid, is gedaan. [Artikel 3.22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=2&artikel=3.22&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
+3. Het college doet aan de verzoeker desgevraagd opgave van degenen aan wie de mededeling, bedoeld in het eerste lid, is gedaan. [Artikel 3.22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=2&artikel=3.22&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
 
 4. [Artikel 2.55, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
 
@@ -1263,7 +1414,7 @@ Een beslissing op een verzoek als bedoeld in deze afdeling wordt gelijkgesteld m
 
 ### Hoofdstuk 4. Toezicht, overgangs-, straf- en slotbepalingen
 
-### Afdeling 1. Toezicht, onderzoek en informatieverstrekking
+#### Afdeling 1. Toezicht, onderzoek en informatieverstrekking
 
 ##### Artikel 4.1
 
@@ -1287,7 +1438,13 @@ Het college van burgemeester en wethouders wijst ambtenaren aan die zijn belast 
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de periodiciteit en de uitvoering van de onderzoeken, bedoeld in het eerste lid, en de periodiciteit van de in het tweede en vierde lid bedoelde verzendingen en de inhoud van de in die leden bedoelde uittreksels.
 
-### Afdeling 2. De rechten van de burger
+##### Artikel 4.3a
+
+1. Onze Minister verricht periodiek een onderzoek naar de consistentie tussen en integriteit van de in de centrale voorzieningen en de verstrekkingenvoorziening, bedoeld in [artikel 3a van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=3a), opgeslagen gegevens.
+
+2. Onze Minister verstrekt naar aanleiding van een onderzoek als bedoeld in het eerste lid aan een college van burgemeester en wethouders respectievelijk een bestuurscollege dat daar belang bij heeft zo spoedig mogelijk alle inlichtingen die van belang zijn voor een goede uitvoering van de taak met betrekking tot de basisregistratie dan wel de basisadministraties, bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2).
+
+#### Afdeling 2. Overgangsbepalingen
 
 #### § 1. De oude registers
 
@@ -1339,7 +1496,7 @@ Onze Minister, of het in [artikel 4.5, tweede lid](https://wetten.overheid.nl/jc
 
 2. Op grond van de in het eerste lid bedoelde regels kunnen uitsluitend heffingen ingesteld worden in verband met de verstrekking van gegevens aan derden, anders dan de verstrekking overeenkomstig [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.3&z=2025-11-11&g=2025-11-11), en in verband met de verstrekking aan de betrokkene van hem betreffende gegevens.
 
-#### § 1. De oude registers
+#### § 2. Het gebruik van het administratienummer
 
 ##### Artikel 4.9
 
@@ -1371,7 +1528,7 @@ Onze Minister, of het in [artikel 4.5, tweede lid](https://wetten.overheid.nl/jc
 
 7. Na de in het vierde lid bedoelde datum wordt het administratienummer niet meer gebruikt.
 
-#### § 2. Het gebruik van het administratienummer
+#### § 3. Autorisatiebesluiten
 
 ##### Artikel 4.10
 
@@ -1379,19 +1536,19 @@ Onze Minister, of het in [artikel 4.5, tweede lid](https://wetten.overheid.nl/jc
 
 2. Een besluit als bedoeld in [artikel 99, zevende lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=99) geldt na de inwerkingtreding van deze wet als een besluit als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.3&z=2025-11-11&g=2025-11-11).
 
-#### § 2. Het gebruik van het administratienummer
+#### § 4. Persoonslijsten
 
 ##### Artikel 4.11
 
 Een persoonslijst als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=1) geldt na de inwerkingtreding van deze wet als een persoonslijst als bedoeld in [artikel 1.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2025-11-11&g=2025-11-11), van deze wet.
 
-#### § 2. Het gebruik van het administratienummer
+#### § 5. Het registreren van een vreemde nationaliteit naast het Nederlanderschap
 
 ##### Artikel 4.12
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het verwijderen en vernietigen van gegevens over een vreemde nationaliteit naast gegevens over het Nederlanderschap of het feit dat de betrokkene als Nederlander wordt behandeld. Daarbij kan worden afgeweken van de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11) en [2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.69&z=2025-11-11&g=2025-11-11).
 
-#### § 1. De oude registers
+#### § 6. Invoering van het verwerken van gegevens over niet-ingezetenen
 
 ##### Artikel 4.13
 
@@ -1407,9 +1564,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent he
 
 ##### Artikel 4.14
 
-Vervallen
+*Vervallen*
 
-#### § 4. Persoonslijsten
+#### § 7. De gefaseerde overgang van GBA naar basisregistratie personen
 
 ##### Artikel 4.15
 
@@ -1439,189 +1596,7 @@ Vervallen
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld in verband met de overgang, waaronder regels omtrent het tijdstip van de overgang.
 
-### Afdeling 3. Straf- en slotbepalingen
-
-##### Artikel 4.17
-
-Het college van burgemeester en wethouders kan een bestuurlijke boete van ten hoogste € 325,– opleggen:
-
-- a. ter zake van overtreding van de [artikelen 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.38&z=2025-11-11&g=2025-11-11), [2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.39&z=2025-11-11&g=2025-11-11), [2.40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.40&z=2025-11-11&g=2025-11-11), [2.43 tot en met 2.47](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.43&z=2025-11-11&g=2025-11-11), [2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.50&z=2025-11-11&g=2025-11-11), [2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.51&z=2025-11-11&g=2025-11-11) en [2.52](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.52&z=2025-11-11&g=2025-11-11);
-
-- b. aan degene met een woonadres in de gemeente die bewust toelaat dat een andere persoon met datzelfde woonadres is ingeschreven, terwijl hij weet dat dit onjuist is.
-
-##### Artikel 4.18
-
-De termijn, bedoeld in [artikel 12, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12), vangt aan:
-
-- a. bij degene die op de dag van zijn overlijden ingezetene of ingezetene van een openbaar lichaam is, op die dag; en
-
-- b. bij degene die op de dag vallende honderd jaar na de geboorte niet-ingezetene is, op die dag.
-
-##### Artikel 4.19
-
-De [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723) wordt ingetrokken.
-
-##### Artikel 4.20
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 4.21
-
-Deze wet wordt aangehaald als: Wet basisregistratie personen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2.58a
-
-Artikel 18 van de verordening is met betrekking tot de bijhouding van gegevens in de basisregistratie niet van toepassing.
-
-### Afdeling 2. Niet-ingezetenen
-
-#### § 1. Algemeen
-
-#### § 2. De inschrijving
-
-#### § 3. De opneming van persoonsgegevens
-
-#### § 4. Overige bepalingen
-
-### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
-
-### Afdeling 1. De verstrekking aan overheidsorganen en derden
-
-#### § 1. De verstrekking door Onze Minister
-
-#### § 1. De verstrekking door Onze Minister
-
-#### § 2. De verstrekking door de colleges van burgemeester en wethouders
-
-#### § 2. De inschrijving
-
-### Afdeling 2. De rechten van de burger
-
-##### Artikel 3.20a
-
-Artikel 18 van de verordening is met betrekking tot de verstrekking van gegevens uit de basisregistratie niet van toepassing.
-
-### Hoofdstuk 4. Toezicht, overgangs-, straf- en slotbepalingen
-
-### Afdeling 1. Toezicht, onderzoek en informatieverstrekking
-
-### Afdeling 1. Toezicht, onderzoek en informatieverstrekking
-
-#### § 1. De oude registers
-
-#### § 4. Persoonslijsten
-
-#### § 5. Het registreren van een vreemde nationaliteit naast het Nederlanderschap
-
-### Afdeling 3. Straf- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2.8a
-
-1. Bij een verzoek op grond van [artikel 2.56a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.56a&z=2025-11-11&g=2025-11-11) worden de gegevens over het kind, bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), indien het feit zich in Nederland heeft voorgedaan, ontleend aan een akte over het desbetreffende feit, die is opgenomen in het overlijdensregister van de Nederlandse burgerlijke stand.
-
-2. Bij een verzoek op grond van [artikel 2.56a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.56a&z=2025-11-11&g=2025-11-11) worden de gegevens over het kind, bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), dat op het moment van de geboorte niet meer in leven is, indien het feit zich buiten Nederland heeft voorgedaan, ontleend aan een geschrift als bedoeld onder a, bij gebreke hiervan aan een geschrift als bedoeld onder b, bij gebreke hiervan aan een geschrift als bedoeld onder c en bij gebreke ook hiervan aan een verklaring als bedoeld onder d, aangevuld met een geschrift als bedoeld onder d:
-
-- a. een akte over het desbetreffende feit, die is opgenomen in het overlijdensregister van de Nederlandse burgerlijke stand;
-
-- b. een buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte akte die ten doel heeft tot bewijs te dienen van het desbetreffende feit;
-
-- c. een geschrift dat overeenkomstig de plaatselijke voorschriften is opgemaakt door een bevoegde instantie, waarin het desbetreffende feit is vermeld;
-
-- d. een verklaring over het desbetreffende feit die de verzoeker ten overstaan van een door het college van burgemeester en wethouders aangewezen ambtenaar onder eed of belofte heeft afgelegd, die op schrift is gesteld en door de verzoeker is ondertekend, zo mogelijk aangevuld met een schriftelijke verklaring van een arts of verloskundige over het feit.
-
-3. Indien op de akte of het geschrift, bedoeld in het eerste of tweede lid, de gegevens met betrekking tot de naam van het kind, bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), ontbreken, worden deze gegevens ontleend aan de opgave van de ouder die om de opneming van die gegevens in de basisregistratie verzoekt.
-
-#### § 4. De verplichtingen van overheidsorganen
-
-#### § 4a. Ondersteuning bij het onderzoek of een persoon als ingezetene in de basisregistratie op een adres in de gemeente dient te worden ingeschreven alsmede naar de juistheid van de gegevens betreffende het adres van een ingezetene in de basisregistratie
-
-#### § 6. De rechten van de burger
-
-##### Artikel 2.56a
-
-1. Het college van burgemeester en wethouders neemt op schriftelijk verzoek van de ouder binnen vier weken kosteloos op diens persoonslijst de gegevens op over een kind als bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), indien de ouder ten tijde van het verzoek als ingezetene in de basisregistratie is of wordt ingeschreven.
-
-2. De ouder, bedoeld in het eerste lid, legt op verzoek van het college van burgemeester en wethouders van een akte of een geschrift als bedoeld in [artikel 2.8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.8a&z=2025-11-11&g=2025-11-11), een door een beëdigde vertaler vervaardigde vertaling in het Nederlands over.
-
-3. Het college doet van de opneming van de gegevens terstond schriftelijk mededeling aan de verzoeker.
-
-4. Het college verwijdert op schriftelijk verzoek van de ouder binnen vier weken kosteloos van de persoonslijst van die ouder de gegevens over het kind, bedoeld in [artikel 2.7, eerste lid, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11).
-
-### Afdeling 2. Niet-ingezetenen
-
-#### § 1. Algemeen
-
-#### § 2. De inschrijving
-
-#### § 3. De opneming van persoonsgegevens
-
-#### § 4. Overige bepalingen
-
-### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
-
-### Afdeling 1. De verstrekking aan overheidsorganen en derden
-
-#### § 1. De verstrekking door Onze Minister
-
-#### § 2. De verstrekking door de colleges van burgemeester en wethouders
-
-#### § 1. Algemeen
-
-#### § 3. De opneming van persoonsgegevens
-
-### Afdeling 2. De rechten van de burger
-
-### Hoofdstuk 4. Toezicht, overgangs-, straf- en slotbepalingen
-
-### Afdeling 2. Overgangsbepalingen
-
-#### § 1. De oude registers
-
-#### § 5. Het registreren van een vreemde nationaliteit naast het Nederlanderschap
-
-#### § 6. Invoering van het verwerken van gegevens over niet-ingezetenen
-
-### Afdeling 2. Overgangsbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2.75a
-
-1. Contactgegevens worden ontleend aan een opgave van de ingeschrevene.
-
-2. Indien aannemelijk is dat een gegeven in de opgave onjuist is, wordt het gegeven niet aan de opgave ontleend.
-
-#### § 4. Overige bepalingen
-
-### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
-
-### Afdeling 1. De verstrekking aan overheidsorganen en derden
-
-#### § 2. De verstrekking door de colleges van burgemeester en wethouders
-
-### Afdeling 2. De rechten van de burger
-
-##### Artikel 3.22a
-
-1. Onverminderd [artikel 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=2&artikel=3.22&z=2025-11-11&g=2025-11-11), deelt Onze Minister elektronisch aan de betrokkene in verband met de uitoefening van het recht van inzage, bedoeld in artikel 15 van de verordening, op diens verzoek mede of gegevens die de betrokkene betreffen gedurende de periode van twintig jaren voorafgaande aan het verzoek door Onze Minister uit de basisregistratie zijn verstrekt.
-
-2. Onze Minister voldoet niet aan een verzoek als bedoeld in het eerste lid, indien het verzoek betrekking heeft op een minderjarige jonger dan 16 jaar.
-
-3. [Artikel 3.22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=2&artikel=3.22&z=2025-11-11&g=2025-11-11), alsmede [artikel 2.55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11), zijn van overeenkomstige toepassing.
-
-### Hoofdstuk 4. Toezicht, overgangs-, straf- en slotbepalingen
-
-### Afdeling 2. Overgangsbepalingen
-
-#### § 2. Het gebruik van het administratienummer
-
-#### § 7. De gefaseerde overgang van GBA naar basisregistratie personen
-
-### Afdeling 2a. Tijdelijke afwijking van de wet bij wege van experiment
+#### Afdeling 2a. Tijdelijke afwijking van de wet bij wege van experiment
 
 ##### Artikel 4.16a
 
@@ -1657,250 +1632,32 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. worden nadere regels gesteld over de wijze waarop en de criteria aan de hand waarvan de doeltreffendheid en de effecten van het experiment worden bepaald.
 
-### Afdeling 3. Straf- en slotbepalingen
+#### Afdeling 3. Straf- en slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 4.17
 
-#### § 5. De verplichtingen van de burger
+Het college van burgemeester en wethouders kan een bestuurlijke boete van ten hoogste € 325,– opleggen:
 
-#### § 6. De rechten van de burger
+- a. ter zake van overtreding van de [artikelen 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.38&z=2025-11-11&g=2025-11-11), [2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.39&z=2025-11-11&g=2025-11-11), [2.40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.40&z=2025-11-11&g=2025-11-11), [2.43 tot en met 2.47](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.43&z=2025-11-11&g=2025-11-11), [2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.50&z=2025-11-11&g=2025-11-11), [2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.51&z=2025-11-11&g=2025-11-11) en [2.52](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=5&artikel=2.52&z=2025-11-11&g=2025-11-11);
 
-### Afdeling 2. Niet-ingezetenen
+- b. aan degene met een woonadres in de gemeente die bewust toelaat dat een andere persoon met datzelfde woonadres is ingeschreven, terwijl hij weet dat dit onjuist is.
 
-#### § 1. Algemeen
+##### Artikel 4.18
 
-#### § 3. De opneming van persoonsgegevens
+De termijn, bedoeld in [artikel 12, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12), vangt aan:
 
-#### § 4. Overige bepalingen
+- a. bij degene die op de dag van zijn overlijden ingezetene of ingezetene van een openbaar lichaam is, op die dag; en
 
-### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
+- b. bij degene die op de dag vallende honderd jaar na de geboorte niet-ingezetene is, op die dag.
 
-### Afdeling 1. De verstrekking aan overheidsorganen en derden
+##### Artikel 4.19
 
-#### § 4. Overige bepalingen
+De [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723) wordt ingetrokken.
 
-### Afdeling 2. De rechten van de burger
+##### Artikel 4.20
 
-### Hoofdstuk 4. Toezicht, overgangs-, straf- en slotbepalingen
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-### Afdeling 1. Toezicht, onderzoek en informatieverstrekking
+##### Artikel 4.21
 
-### Afdeling 2. Overgangsbepalingen
-
-#### § 1. De oude registers
-
-#### § 2. Het gebruik van het administratienummer
-
-#### § 3. Autorisatiebesluiten
-
-#### § 4. Persoonslijsten
-
-### Afdeling 2a. Tijdelijke afwijking van de wet bij wege van experiment
-
-### Afdeling 3. Straf- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2.37a
-
-1. Onze Minister is belast met het verlenen van ondersteuning aan het college van burgemeester en wethouders van de bijhoudingsgemeente bij het verrichten van onderzoek of een persoon als ingezetene in de basisregistratie op een adres in de gemeente dient te worden ingeschreven alsmede naar de juistheid van de gegevens betreffende het adres van een ingezetene in de basisregistratie.
-
-2. Onze Minister is bevoegd om in het kader van de uitoefening van de in het eerste lid bedoelde taak gegevens, waaronder bijzondere categorieën van persoonsgegevens als bedoeld in artikel 9 van de verordening voor zover het gegevens over gezondheid betreft, te verwerken overeenkomstig het bepaalde bij of krachtens deze paragraaf.
-
-3. Onze Minister is niet bevoegd om in het kader van de uitoefening van de in het eerste lid bedoelde taak gegevens over nationaliteit, geboorteplaats of gegevens die daarvan zijn afgeleid te verwerken, voor zover die verwerking discriminatoire selectie van personen tot gevolg heeft.
-
-##### Artikel 2.37b
-
-1. Bij regeling van Onze Minister kunnen, ten behoeve van het onderzoek, bedoeld in [artikel 2.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37a&z=2025-11-11&g=2025-11-11), bestuursorganen worden aangewezen die, in afwijking van het bepaalde in [artikel 2.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4&artikel=2.34&z=2025-11-11&g=2025-11-11), de mededeling omtrent gerede twijfel over de juistheid van de verstrekte gegevens betreffende het adres van een persoon in een gemeente of het achterwege blijven van de verstrekking van een adres, doen toekomen aan Onze Minister. De mededeling kan ook betrekking hebben op het briefadres van een ingezetene.
-
-2. Ten behoeve van het onderzoek, bedoeld in [artikel 2.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37a&z=2025-11-11&g=2025-11-11), kunnen door de bestuursorganen, bedoeld in het eerste lid, aan Onze Minister ook andere, bij of krachtens algemene maatregel van bestuur te bepalen, gegevens worden verstrekt die noodzakelijk zijn voor een goede uitoefening van de aan Onze Minister opgedragen taak als bedoeld in artikel 2.37a, eerste lid.
-
-3. Bij regeling van Onze Minister kunnen derden, die op grond van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.3&z=2025-11-11&g=2025-11-11) gegevens verstrekt krijgen uit de basisregistratie, worden aangewezen die aan Onze Minister een mededeling kunnen doen als bedoeld in het eerste lid. Het tweede lid is van overeenkomstige toepassing.
-
-##### Artikel 2.37c
-
-1. Bij het verlenen van ondersteuning door Onze Minister aan het college van burgemeester en wethouders aan het onderzoek, bedoeld in [artikel 2.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37a&z=2025-11-11&g=2025-11-11), is Onze Minister bevoegd tot de verwerking van:
-
-- a. de gegevens, opgenomen in de centrale voorziening die gebruikt wordt voor de systematische verstrekking van gegevens,
-
-- b. de gegevens, verkregen van aangewezen bestuursorganen en derden als bedoeld in [artikel 2.37b](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37b&z=2025-11-11&g=2025-11-11), en
-
-- c. andere bij of krachtens algemene maatregel van bestuur te bepalen gegevens.
-
-2. In het kader van de verwerking van de gegevens, bedoeld in het eerste lid, kan Onze Minister de gegevens in ieder geval analyseren aan de hand van profielen of in het kader van een onderzoek naar patronen.
-
-3. Onze Minister treft passende maatregelen om bij de ontwikkeling van profielen controle door menselijke tussenkomst te waarborgen.
-
-4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de verwerking van de gegevens, de te hanteren analysemethoden en de maatregelen om menselijke tussenkomst te waarborgen bij de ontwikkeling van profielen.
-
-5. De voordracht voor een krachtens het vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-
-##### Artikel 2.37d
-
-1. Onze Minister deelt naar aanleiding van de verwerking van gegevens als bedoeld in [artikel 2.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37c&z=2025-11-11&g=2025-11-11) de resultaten dan wel een selectie daarvan mee aan het college van burgemeester en wethouders van de gemeente waarin de persoon waarop de gegevens betrekking hebben mogelijk als ingezetene dient te worden ingeschreven dan wel aan de bijhoudingsgemeente van de persoon van wie de gegevens betreffende het adres worden onderzocht.
-
-2. Onze Minister stelt het college van burgemeester en wethouders op de hoogte van de redenen die ten grondslag liggen aan de mededeling van de resultaten dan wel de selectie, bedoeld in het eerste lid.
-
-##### Artikel 2.37e
-
-1. Het college van burgemeester en wethouders dat van Onze Minister een mededeling als bedoeld in [artikel 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37d&z=2025-11-11&g=2025-11-11), heeft gekregen, stelt uiterlijk binnen een bij algemene maatregel van bestuur te bepalen termijn na de ontvangst van de mededeling Onze Minister ervan op de hoogte of deze aanleiding is geweest voor opneming, verbetering, aanvulling of verwijdering van gegevens in de basisregistratie, dan wel dat bij het gegeven in de basisregistratie een aantekening als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.26&z=2025-11-11&g=2025-11-11) is geplaatst in verband met het doen van een onderzoek naar de onjuistheid van het adresgegeven. De resultaten van het onderzoek naar het inschrijven van een persoon als ingezetene of de onjuistheid van het adresgegeven van de ingezetene worden zo spoedig mogelijk doch uiterlijk binnen een bij algemene maatregel van bestuur te bepalen termijn teruggekoppeld aan Onze Minister.
-
-2. Onze Minister is bevoegd om de teruggekoppelde resultaten van het onderzoek door het college van burgemeester en wethouders als bedoeld in het eerste lid te betrekken in de verwerking als bedoeld in [artikel 2.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37c&z=2025-11-11&g=2025-11-11).
-
-3. Onze Minister is tevens bevoegd om de resultaten van de terugkoppeling te verstrekken aan het bestuursorgaan dat dan wel de derde die de mededeling, bedoeld in [artikel 2.37b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37b&z=2025-11-11&g=2025-11-11), aan Onze Minister heeft gedaan.
-
-##### Artikel 2.37f
-
-1. Bij of krachtens algemene maatregel van bestuur wordt bepaald:
-
-- a. welke gegevens als bedoeld in [artikel 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37d&z=2025-11-11&g=2025-11-11), door Onze Minister aan het college van burgemeester en wethouders worden verstrekt;
-
-- b. welke gegevens als bedoeld in [artikel 2.37e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37e&z=2025-11-11&g=2025-11-11), door het college van burgemeester en wethouders aan Onze Minister worden verstrekt;
-
-- c. op welke wijze de verstrekking van de gegevens, bedoeld in de [artikelen 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37d&z=2025-11-11&g=2025-11-11), en [2.37e](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37e&z=2025-11-11&g=2025-11-11), plaatsvindt.
-
-2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-
-##### Artikel 2.37g
-
-Het college van burgemeester en wethouders treft bij het verrichten van een onderzoek als bedoeld in [artikel 2.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37a&z=2025-11-11&g=2025-11-11), naar aanleiding van een mededeling als bedoeld in [artikel 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=4a&artikel=2.37d&z=2025-11-11&g=2025-11-11), passende maatregelen die strekken tot bescherming van de rechten en vrijheden en gerechtvaardigde belangen van de persoon van wie de gegevens betreffende het adres worden onderzocht, waarbij deze persoon ten minste het recht heeft op voorafgaande controle door menselijke tussenkomst.
-
-#### § 5. De verplichtingen van de burger
-
-#### § 6. De rechten van de burger
-
-### Afdeling 2. Niet-ingezetenen
-
-#### § 1. Algemeen
-
-#### § 2. De inschrijving
-
-#### § 3. De opneming van persoonsgegevens
-
-### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
-
-### Afdeling 1. De verstrekking aan overheidsorganen en derden
-
-#### § 3. De verstrekking door het college van burgemeester en wethouders van de bijhoudingsgemeente
-
-#### § 4. Overige bepalingen
-
-### Hoofdstuk 4. Toezicht, overgangs-, straf- en slotbepalingen
-
-### Afdeling 2. De rechten van de burger
-
-### Afdeling 2. Overgangsbepalingen
-
-#### § 3. Autorisatiebesluiten
-
-#### § 5. Het registreren van een vreemde nationaliteit naast het Nederlanderschap
-
-#### § 6. Invoering van het verwerken van gegevens over niet-ingezetenen
-
-#### § 2. Het gebruik van het administratienummer
-
-### Afdeling 2a. Tijdelijke afwijking van de wet bij wege van experiment
-
-### Afdeling 3. Straf- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Afdeling 3. Ingezetenen van een openbaar lichaam
-
-##### Artikel 2.82
-
-1. Deze afdeling is van toepassing op personen die als ingezetene van een openbaar lichaam in de basisregistratie zijn of worden ingeschreven en op ingeschrevenen die op het moment van hun overlijden ingezetene van een openbaar lichaam waren.
-
-2. Met betrekking tot de ingeschrevene die geen ingezetene van een openbaar lichaam meer is, worden krachtens deze afdeling geen nieuwe algemene gegevens opgenomen.
-
-3. In afwijking van het eerste of tweede lid worden gegevens opgenomen krachtens deze afdeling, voor zover:
-
-- a. het feiten betreft die zich hebben voorgedaan in de tijd dat de ingeschrevene nog ingezetene van een openbaar lichaam was, of
-
-- b. dit bij algemene maatregel van bestuur is bepaald.
-
-4. De krachtens deze afdeling over een ingeschrevene opgenomen gegevens worden zodra diegene ingezetene wordt, opnieuw vastgesteld met inachtneming van de eerste afdeling van dit hoofdstuk.
-
-5. De krachtens [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&z=2025-11-11&g=2025-11-11) of [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=2&z=2025-11-11&g=2025-11-11) van dit hoofdstuk over een ingeschrevene opgenomen gegevens worden zodra diegene ingezetene van een openbaar lichaam wordt, opnieuw vastgesteld met inachtneming van deze afdeling.
-
-##### Artikel 2.83
-
-1. De inschrijving in de basisregistratie geschiedt ambtshalve.
-
-2. Inschrijving geschiedt niet als de betrokkene reeds in de basisregistratie is ingeschreven.
-
-##### Artikel 2.84
-
-1. In de basisregistratie worden over de ingeschrevene uitsluitend de volgende gegevens opgenomen:
-
-- a. algemene gegevens:
-
-- 1°. gegevens over de burgerlijke staat waar het betreft de naam, de geboorte, het geslacht en het overlijden;
-
-- 2°. gegevens over de nationaliteit, met dien verstande dat geen gegevens over een vreemde nationaliteit worden opgenomen naast gegevens over het Nederlanderschap of het feit dat de betrokkene als Nederlander wordt behandeld;
-
-- 3°. gegevens over het burgerservicenummer van de ingeschrevene;
-
-- 4°. gegevens over het adres, bedoeld in [artikel 1, eerste lid, onderdeel n, en tweede lid, van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=1).
-
-- b. administratieve gegevens:
-
-- 1°. gegevens in verband met de inschrijving;
-
-- 2°. gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, onder 3° van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10);
-
-- 3°. gegevens over de beperking van de verstrekking van gegevens aan derden.
-
-2. [Artikel 2.7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=2.7&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
-
-##### Artikel 2.85
-
-1. De algemene gegevens, bedoeld in [artikel 2.84, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=3&paragraaf=3&artikel=2.84&z=2025-11-11&g=2025-11-11), en de administratieve gegevens, bedoeld in artikel 2.84, eerste lid, onderdeel b, onder 2° en 3°, worden ontleend aan de persoonslijst van de betrokkene, bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=1).
-
-2. Bij wijziging van de gegevens, bedoeld in [artikel 10, eerste lid, onderdeel a, onder 1°, 5°, 7°, 8° en 9°, en onderdeel c, onder 3° en 5°, van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10) draagt Onze Minister onverwijld zorg voor bijhouding daarvan in de basisregistratie, voor zover het gegevens betreft als bedoeld in [artikel 2.84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=3&paragraaf=3&artikel=2.84&z=2025-11-11&g=2025-11-11).
-
-#### § 4. Overige bepalingen
-
-##### Artikel 2.86
-
-De [artikelen 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.55&z=2025-11-11&g=2025-11-11), [2.56a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.56a&z=2025-11-11&g=2025-11-11), [2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.57&z=2025-11-11&g=2025-11-11), [2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.58&z=2025-11-11&g=2025-11-11), [2.58a](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.58a&z=2025-11-11&g=2025-11-11), [2.60, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.60&z=2025-11-11&g=2025-11-11), en [2.61](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&hoofdstuk=2&afdeling=1&paragraaf=6&artikel=2.61&z=2025-11-11&g=2025-11-11), zijn van overeenkomstige toepassing ten aanzien van ingezetenen van een openbaar lichaam met dien verstande dat Onze Minister in de plaats treedt van het college van burgemeester en wethouders en dat het verzoek wordt gedaan door tussenkomst van een inschrijfvoorziening of een bestuurscollege.
-
-### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
-
-### Afdeling 1. De verstrekking aan overheidsorganen en derden
-
-#### § 1. De verstrekking door Onze Minister
-
-#### § 2. De verstrekking door de colleges van burgemeester en wethouders
-
-#### § 3. De verstrekking door het college van burgemeester en wethouders van de bijhoudingsgemeente
-
-#### § 4. Overige bepalingen
-
-### Hoofdstuk 4. Toezicht, overgangs-, straf- en slotbepalingen
-
-### Afdeling 1. Toezicht, onderzoek en informatieverstrekking
-
-##### Artikel 4.3a
-
-1. Onze Minister verricht periodiek een onderzoek naar de consistentie tussen en integriteit van de in de centrale voorzieningen en de verstrekkingenvoorziening, bedoeld in [artikel 3a van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=3a), opgeslagen gegevens.
-
-2. Onze Minister verstrekt naar aanleiding van een onderzoek als bedoeld in het eerste lid aan een college van burgemeester en wethouders respectievelijk een bestuurscollege dat daar belang bij heeft zo spoedig mogelijk alle inlichtingen die van belang zijn voor een goede uitvoering van de taak met betrekking tot de basisregistratie dan wel de basisadministraties, bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2).
-
-#### § 1. De oude registers
-
-#### § 3. Autorisatiebesluiten
-
-#### § 4. Persoonslijsten
-
-#### § 5. Het registreren van een vreemde nationaliteit naast het Nederlanderschap
-
-#### § 6. Invoering van het verwerken van gegevens over niet-ingezetenen
-
-#### § 7. De gefaseerde overgang van GBA naar basisregistratie personen
-
-### Afdeling 2a. Tijdelijke afwijking van de wet bij wege van experiment
-
-### Afdeling 3. Straf- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet wordt aangehaald als: Wet basisregistratie personen.

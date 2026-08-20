@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 9 februari 2004 houdende de algemene eisen voor de opleiding, registratie en herregistratie van medisch specialisten en voor de erkenning van opleiders, plaatsvervangend opleiders, stageopleiders en opleidingsinrichtingen"
+citeertitel: "Kaderbesluit CCMS"
 identifier: "BWBR0033520"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-10-20"
-last_updated: "2007-10-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033520"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "12281573"
-version_id: "20567832"
-internal_id: "C28920391"
-label_id: "12254134"
-dtd_version: "2.0"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033520/2007-10-20/0"
-intitule_bron: "Stcrt.2004-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-02-09"
-intitule_published: "2004-12-14"
-intitule_in_force: "2004-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-241"
-original_signed_date: "2004-02-09"
-original_published_date: "2004-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-241-p20-SC67926"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0033520&z=2007-10-20&g=2007-10-20"
-jci_1_0: "1.0:c:BWBR0033520&g=2007-10-20"
-citeertitel_status: "officieel"
-short_title: "Kaderbesluit CCMS"
-signed_date: "2004-02-09"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2007-10-20
+status: geldig
+toestand: 2007-10-20
+bron: "https://wetten.overheid.nl/BWBR0033520"
+opgehaald: 2026-08-20
 ---
+
 # Besluit van 9 februari 2004 houdende de algemene eisen voor de opleiding, registratie en herregistratie van medisch specialisten en voor de erkenning van opleiders, plaatsvervangend opleiders, stageopleiders en opleidingsinrichtingen
-
-Gelet op [artikel 14, tweede lid, onder c van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) en artikel 12, eerste lid, van de Regeling specialisten geneeskunst van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst;
-
-Gezien de adviezen van het Federatiebestuur van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst, de Orde van Medisch Specialisten, de Landelijke vereniging van Artsen in Dienstverband en de Medisch Specialisten Registratie Commissie;
-
-Besluit:
 
 ### Hoofdstuk A. Algemene bepalingen
 
@@ -240,9 +212,13 @@ Van de volgende deelgebieden der geneeskunde die niet meer als specialisme zijn 
 
 - d. klinische chemie: arts klinische chemie.
 
+##### Artikel A.7. Doorwerking toekomstige wijzigingen EG-regelgeving
+
+Een wijziging van Richtlijn 2005/36/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+
 ### Hoofdstuk B. De opleiding
 
-## Titel I. Opleidingseisen
+### Titel I. Opleidingseisen
 
 #### Paragraaf I-A. Algemeen
 
@@ -260,73 +236,73 @@ De opleiding wordt gevolgd bij een opleider of stageopleider in een opleidingsin
 
 - a. ten aanzien van medisch handelen:
 
-- i. De specialist bezit adequate kennis en vaardigheid naar de stand van het vakgebied;
+   - i. De specialist bezit adequate kennis en vaardigheid naar de stand van het vakgebied;
 
-- ii. De specialist past het diagnostisch, therapeutisch en preventief arsenaal van het vakgebied goed en waar mogelijk evidence based toe;
+   - ii. De specialist past het diagnostisch, therapeutisch en preventief arsenaal van het vakgebied goed en waar mogelijk evidence based toe;
 
-- iii. De specialist levert effectieve en ethisch verantwoorde patiëntenzorg;
+   - iii. De specialist levert effectieve en ethisch verantwoorde patiëntenzorg;
 
-- iv. De specialist vindt snel de vereiste informatie en past deze goed toe;
+   - iv. De specialist vindt snel de vereiste informatie en past deze goed toe;
 
 - b. ten aanzien van communicatie:
 
-- i. De specialist bouwt effectieve behandelrelaties met patiënten op;
+   - i. De specialist bouwt effectieve behandelrelaties met patiënten op;
 
-- ii. De specialist luistert goed en verkrijgt doelmatig relevante patiëntinformatie;
+   - ii. De specialist luistert goed en verkrijgt doelmatig relevante patiëntinformatie;
 
-- iii. De specialist bespreekt medische informatie goed met patiënten en desgewenst familie;
+   - iii. De specialist bespreekt medische informatie goed met patiënten en desgewenst familie;
 
-- iv. De specialist doet adequaat mondeling en schriftelijk verslag over patiëntencasus;
+   - iv. De specialist doet adequaat mondeling en schriftelijk verslag over patiëntencasus;
 
 - c. ten aanzien van samenwerking:
 
-- i. De specialist overlegt doelmatig met collegae en andere zorgverleners;
+   - i. De specialist overlegt doelmatig met collegae en andere zorgverleners;
 
-- ii. De specialist verwijst adequaat;
+   - ii. De specialist verwijst adequaat;
 
-- iii. De specialist levert effectief intercollegiaal consult;
+   - iii. De specialist levert effectief intercollegiaal consult;
 
-- iv. De specialist draagt bij aan effectieve interdisciplinaire samenwerking en ketenzorg;
+   - iv. De specialist draagt bij aan effectieve interdisciplinaire samenwerking en ketenzorg;
 
 - d. ten aanzien van kennis en wetenschap:
 
-- i. De specialist beschouwt medische informatie kritisch;
+   - i. De specialist beschouwt medische informatie kritisch;
 
-- ii. De specialist bevordert de verbreding van en ontwikkelt de wetenschappelijke vakkennis;
+   - ii. De specialist bevordert de verbreding van en ontwikkelt de wetenschappelijke vakkennis;
 
-- iii. De specialist ontwikkelt en onderhoudt een persoonlijk bij- en nascholingsplan;
+   - iii. De specialist ontwikkelt en onderhoudt een persoonlijk bij- en nascholingsplan;
 
-- iv. De specialist bevordert de deskundigheid van studenten, aios, collegae, patiënten en andere betrokkenen bij de gezondheidszorg;
+   - iv. De specialist bevordert de deskundigheid van studenten, aios, collegae, patiënten en andere betrokkenen bij de gezondheidszorg;
 
 - e. ten aanzien van maatschappelijk handelen:
 
-- i. De specialist kent en herkent de determinanten van ziekte;
+   - i. De specialist kent en herkent de determinanten van ziekte;
 
-- ii. De specialist bevordert de gezondheid van patiënten en de gemeenschap als geheel;
+   - ii. De specialist bevordert de gezondheid van patiënten en de gemeenschap als geheel;
 
-- iii. De specialist handelt volgens de relevante wettelijke bepalingen;
+   - iii. De specialist handelt volgens de relevante wettelijke bepalingen;
 
-- iv. De specialist treedt adequaat op bij incidenten in de zorg;
+   - iv. De specialist treedt adequaat op bij incidenten in de zorg;
 
 - f. ten aanzien van organisatie:
 
-- i. De specialist organiseert het werk naar een balans in patiëntenzorg en persoonlijke ontwikkeling;
+   - i. De specialist organiseert het werk naar een balans in patiëntenzorg en persoonlijke ontwikkeling;
 
-- ii. De specialist werkt effectief en doelmatig binnen een gezondheidszorgorganisatie;
+   - ii. De specialist werkt effectief en doelmatig binnen een gezondheidszorgorganisatie;
 
-- iii. De specialist besteedt de beschikbare middelen voor de patiëntenzorg verantwoord;
+   - iii. De specialist besteedt de beschikbare middelen voor de patiëntenzorg verantwoord;
 
-- iv. De specialist gebruikt informatietechnologie voor optimale patiëntenzorg, en voor bij- en nascholing;
+   - iv. De specialist gebruikt informatietechnologie voor optimale patiëntenzorg, en voor bij- en nascholing;
 
 - g. ten aanzien van professionaliteit:
 
-- i. De specialist levert hoogstaande patiëntenzorg op integere, oprechte en betrokken wijze;
+   - i. De specialist levert hoogstaande patiëntenzorg op integere, oprechte en betrokken wijze;
 
-- ii. De specialist vertoont adequaat persoonlijk en interpersoonlijk professioneel gedrag;
+   - ii. De specialist vertoont adequaat persoonlijk en interpersoonlijk professioneel gedrag;
 
-- iii. De specialist kent de grenzen van de eigen competentie en handelt daar binnen;
+   - iii. De specialist kent de grenzen van de eigen competentie en handelt daar binnen;
 
-- iv. De specialist oefent de geneeskunde uit naar de gebruikelijke ethische normen van het beroep.
+   - iv. De specialist oefent de geneeskunde uit naar de gebruikelijke ethische normen van het beroep.
 
 ##### Artikel B.3. Duur van de opleiding
 
@@ -344,7 +320,7 @@ De aios dient voor zijn werkzaamheden tijdens de opleiding volgens de landelijk 
 
 1. De aios voldoet aan de volgende verplichtingen:
 
-**algemeen**:
+*algemeen*:
 
 - a. hij is ingeschreven als arts in het register, bedoeld in [artikel 3 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), en het opleidingsregister van de MSRC en houdt deze inschrijvingen gedurende de opleiding in stand;
 
@@ -356,7 +332,7 @@ De aios dient voor zijn werkzaamheden tijdens de opleiding volgens de landelijk 
 
 - e. in het geval hij de opleiding in deeltijd volgt dan wel onderbreekt,houdt hij zich aan het bepaalde genoemd in respectievelijk [artikel B.13.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.13&z=2007-10-20&g=2007-10-20) en [B.14](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.14&z=2007-10-20&g=2007-10-20).
 
-- f. De aios vult jaarlijks een door de MSRC vastgesteld evaluatieformulier in en zendt dit, nadat het voor gezien is getekend door de opleider, aan de MSRC toe. Wanneer er meer dan één aios in één afdeling van de opleidingsinrichting werkzaam is wordt door hen gezamenlijk één evaluatieformulier ingevuld en aan de MSRC toegezonden. **met betrekking tot de opleiding**:
+- f. De aios vult jaarlijks een door de MSRC vastgesteld evaluatieformulier in en zendt dit, nadat het voor gezien is getekend door de opleider, aan de MSRC toe. Wanneer er meer dan één aios in één afdeling van de opleidingsinrichting werkzaam is wordt door hen gezamenlijk één evaluatieformulier ingevuld en aan de MSRC toegezonden. *met betrekking tot de opleiding*:
 
 - g. hij is verplicht een portfolio bij te houden volgens een door het CCMS vastgesteld model;
 
@@ -368,7 +344,7 @@ De aios dient voor zijn werkzaamheden tijdens de opleiding volgens de landelijk 
 
 - k. hij volgt het cursorisch onderwijs dat onder auspiciën van de wetenschappelijke vereniging wordt gegeven;
 
-- l. hij volgt gedurende de opleiding de hem door de opleider en de leden van de opleidingsgroep in het belang van de opleiding en van de patiëntenzorg gegeven aanwijzingen op die relevant zijn voor de opleiding; **met betrekking tot de patiëntenzorg**:
+- l. hij volgt gedurende de opleiding de hem door de opleider en de leden van de opleidingsgroep in het belang van de opleiding en van de patiëntenzorg gegeven aanwijzingen op die relevant zijn voor de opleiding; *met betrekking tot de patiëntenzorg*:
 
 - m. hij heeft een eigenstandige zorgplicht en zal tijdens de opleiding geen handelingen verrichten die buiten zijn kennis en vermogens liggen;
 
@@ -380,7 +356,7 @@ De aios dient voor zijn werkzaamheden tijdens de opleiding volgens de landelijk 
 
 - q. hij voldoet aan het eind van de opleiding aan de algemene competenties, genoemd in [artikel B.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.2&z=2007-10-20&g=2007-10-20).;
 
-2. De aios die buiten Nederland is opgeleid tot arts kan de opleiding eerst aanvangen nadat hij de taaltest zoals beschreven in hoofdstuk D, titel II, paragraaf II-D, met goed gevolg heeft afgelegd. De MSRC kan in bijzondere gevallen geheel of gedeeltelijk ontheffing verlenen van de taaltest.
+2. De aios die buiten Nederland is opgeleid tot arts kan de opleiding eerst aanvangen nadat hij de taaltest zoals beschreven in [hoofdstuk D, titel II, paragraaf II-D](https://wetten.overheid.nl/BWBR0033520), met goed gevolg heeft afgelegd. De MSRC kan in bijzondere gevallen geheel of gedeeltelijk ontheffing verlenen van de taaltest.
 
 3. Ter uitvoering van dit artikel worden in specifieke besluiten aanvullende voorschriften ten aanzien van de verplichtingen en competenties van de aios per medisch specialisme gesteld.
 
@@ -560,8 +536,6 @@ De inschrijving in het opleidingsregister, bedoeld in [artikel B.5., eerste lid,
 
 4. De MSRC beslist binnen acht weken na ontvangst van de aanvraag over het voorstel.
 
-5.
-
 [Artikel B.11.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.11&z=2007-10-20&g=2007-10-20) is van overeenkomstige toepassing.
 
 #### Paragraaf I-C. Opleiding en klinisch wetenschappelijk onderzoek
@@ -644,7 +618,7 @@ Voor een stage gelden de volgende eisen:
 
 2. De MSRC kan van het eerste lid in bijzondere gevallen ontheffing verlenen.
 
-## Titel II. Geschillen
+### Titel II. Geschillen
 
 ##### Artikel B.27. Commissie voor Geschillen (CvG)
 
@@ -654,15 +628,15 @@ Voor een stage gelden de volgende eisen:
 
 - a. zes leden:
 
-- i. een lid en een plaatsvervangend lid zijn ingeschreven in één van de door de MSRC ingestelde registers voor medisch specialisten en worden bindend voorgedragen door het CCMS;
+   - i. een lid en een plaatsvervangend lid zijn ingeschreven in één van de door de MSRC ingestelde registers voor medisch specialisten en worden bindend voorgedragen door het CCMS;
 
-- ii. een lid en een plaatsvervangend lid zijn ingeschreven in één van de door de SGRC ingestelde registers voor sociaal-geneeskundigen en worden bindend voorgedragen door het CSG;
+   - ii. een lid en een plaatsvervangend lid zijn ingeschreven in één van de door de SGRC ingestelde registers voor sociaal-geneeskundigen en worden bindend voorgedragen door het CSG;
 
-- iii. een lid en een plaatsvervangend lid zijn ingeschreven in één van de door de HVRC ingestelde registers voor huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten en worden bindend voorgedragen door het CHVG;
+   - iii. een lid en een plaatsvervangend lid zijn ingeschreven in één van de door de HVRC ingestelde registers voor huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten en worden bindend voorgedragen door het CHVG;
 
-- iv. een lid is ingeschreven in een van de opleidingsregisters van de MSRC, de SGRC of de HVRC en maakt deel uit van een pool van artsen in opleiding die benoemd zijn op bindende voordracht van de LVAG, het LOSGIO, de LOVAH, de VVIO en de AVGIO-commissie. Dit lid wordt ad hoc en afhankelijk van de aard van het geschil door de voorzitter van de CvG aan de CvG toegevoegd;
+   - iv. een lid is ingeschreven in een van de opleidingsregisters van de MSRC, de SGRC of de HVRC en maakt deel uit van een pool van artsen in opleiding die benoemd zijn op bindende voordracht van de LVAG, het LOSGIO, de LOVAH, de VVIO en de AVGIO-commissie. Dit lid wordt ad hoc en afhankelijk van de aard van het geschil door de voorzitter van de CvG aan de CvG toegevoegd;
 
-- v. twee leden zijn ingeschreven in één van de registers van de MSRC, de SGRC of de HVRC en maken deel uit van een pool van specialisten die benoemd zijn op bindende voordracht van de betreffende koepelorganisatie danwel beroeps- of wetenschappelijke verenigingen die een recht van voordracht hebben van leden in de registratiecommissies, genoemd in artikel 1 van de Regeling. Deze leden worden ad hoc en afhankelijk van de aard van het geschil door de voorzitter van de CvG aan de CvG toegevoegd.
+   - v. twee leden zijn ingeschreven in één van de registers van de MSRC, de SGRC of de HVRC en maken deel uit van een pool van specialisten die benoemd zijn op bindende voordracht van de betreffende koepelorganisatie danwel beroeps- of wetenschappelijke verenigingen die een recht van voordracht hebben van leden in de registratiecommissies, genoemd in artikel 1 van de Regeling. Deze leden worden ad hoc en afhankelijk van de aard van het geschil door de voorzitter van de CvG aan de CvG toegevoegd.
 
 - b. een voorzitter en een plaatsvervangend voorzitter: beiden tevens gewoon lid met de hoedanigheid van meester in de rechten en in het dagelijks leven praktiserend jurist. Deze leden worden bindend voorgedragen door het overleg van voorzitters van de registratiecommissies.
 
@@ -682,7 +656,7 @@ Voor een stage gelden de volgende eisen:
 
 ### Hoofdstuk C. De erkenning tot opleider en opleidingsinrichting
 
-## Titel I. De opleider, de plaatsvervangend opleider en de stageopleider
+### Titel I. De opleider, de plaatsvervangend opleider en de stageopleider
 
 #### Paragraaf I-A. Eisen voor erkenning van de medisch specialist tot opleider
 
@@ -716,23 +690,23 @@ De leden van de opleidingsgroep dienen aan de volgende eisen te voldoen:
 
 - a. algemeen:
 
-- i. zij hebben elk een gedifferentieerd activiteiten- en belangstellingsterrein binnen het vakgebied van het betreffende medische specialisme terwijl hun gezamenlijke kennis en vaardigheden elkaar aanvullen;
+   - i. zij hebben elk een gedifferentieerd activiteiten- en belangstellingsterrein binnen het vakgebied van het betreffende medische specialisme terwijl hun gezamenlijke kennis en vaardigheden elkaar aanvullen;
 
-- ii. zij ondersteunen de opleiding en de aanvraag daarvoor en zijn op de hoogte van de opleidingseisen alsmede van de eindtermen van de opleiding;
+   - ii. zij ondersteunen de opleiding en de aanvraag daarvoor en zijn op de hoogte van de opleidingseisen alsmede van de eindtermen van de opleiding;
 
-- iii. zij waarborgen dat minimaal één van de leden van de opleidingsgroep op de betreffende locatie aanwezig en beschikbaar is voor de aios;
+   - iii. zij waarborgen dat minimaal één van de leden van de opleidingsgroep op de betreffende locatie aanwezig en beschikbaar is voor de aios;
 
 - b. met betrekking tot de patiëntenzorg:
 
-- i. zij stellen een generaal dagelijks rapport in en houden dit in stand;
+   - i. zij stellen een generaal dagelijks rapport in en houden dit in stand;
 
-- ii. zij voldoen bij de uitoefening van het specialisme aan de kwaliteitseisen van de betreffende wetenschappelijke medisch specialisten vereniging;
+   - ii. zij voldoen bij de uitoefening van het specialisme aan de kwaliteitseisen van de betreffende wetenschappelijke medisch specialisten vereniging;
 
 - c. met betrekking tot opleiding en onderwijs:
 
-- i. zij houden regelmatig stafbesprekingen, klinische conferenties en refereerbijeenkomsten waarbij in beginsel alle leden van de opleidingsgroep aanwezig zijn;
+   - i. zij houden regelmatig stafbesprekingen, klinische conferenties en refereerbijeenkomsten waarbij in beginsel alle leden van de opleidingsgroep aanwezig zijn;
 
-- ii. zij houden in het kader van onderlinge toetsing probleemoplossende patiëntenbesprekingen.
+   - ii. zij houden in het kader van onderlinge toetsing probleemoplossende patiëntenbesprekingen.
 
 #### Paragraaf I-B. Verplichtingen van de opleider
 
@@ -742,21 +716,21 @@ De opleider heeft de volgende verplichtingen:
 
 - a. algemeen:
 
-- i. hij ziet er op toe dat de leden van de opleidingsgroep aan hun verplichtingen voldoen;
+   - i. hij ziet er op toe dat de leden van de opleidingsgroep aan hun verplichtingen voldoen;
 
-- ii. hij verstrekt de MSRC op haar verzoek te allen tijde alle gevraagde informatie over de opleiding;
+   - ii. hij verstrekt de MSRC op haar verzoek te allen tijde alle gevraagde informatie over de opleiding;
 
-- iii. hij ziet er op toe dat de aios een portfolio bijhoudt en controleert dat het portfolio voldoet aan de opleidingseisen;
+   - iii. hij ziet er op toe dat de aios een portfolio bijhoudt en controleert dat het portfolio voldoet aan de opleidingseisen;
 
-- iv. hij meldt de MSRC de voor de opleiding of de aios relevante wijzigingen;
+   - iv. hij meldt de MSRC de voor de opleiding of de aios relevante wijzigingen;
 
-- v. hij houdt zich aan de instructieregeling die op grond van de modelinstructie, bedoeld in [artikel C.12., eerste lid onder a. iv.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=II&paragraaf=II-C&artikel=C.12&z=2007-10-20&g=2007-10-20), is opgesteld door de betreffende opleidingsinrichting;
+   - v. hij houdt zich aan de instructieregeling die op grond van de modelinstructie, bedoeld in [artikel C.12., eerste lid onder a. iv.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=II&paragraaf=II-C&artikel=C.12&z=2007-10-20&g=2007-10-20), is opgesteld door de betreffende opleidingsinrichting;
 
-- vi. hij voert zijn taken voortvloeiende uit [artikel B.6](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.6&z=2007-10-20&g=2007-10-20), [B.7](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.7&z=2007-10-20&g=2007-10-20), [B.9](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.9&z=2007-10-20&g=2007-10-20), [B.10](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.10&z=2007-10-20&g=2007-10-20), [B.11](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.11&z=2007-10-20&g=2007-10-20), [B.13](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.13&z=2007-10-20&g=2007-10-20), [B.16](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.16&z=2007-10-20&g=2007-10-20), [B.18](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.18&z=2007-10-20&g=2007-10-20), [B.20](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-C&artikel=B.20&z=2007-10-20&g=2007-10-20), [B.24](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-E&artikel=B.24&z=2007-10-20&g=2007-10-20) en [B.25](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-E&artikel=B.25&z=2007-10-20&g=2007-10-20) zelf uit.
+   - vi. hij voert zijn taken voortvloeiende uit [artikel B.6](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.6&z=2007-10-20&g=2007-10-20), [B.7](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.7&z=2007-10-20&g=2007-10-20), [B.9](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.9&z=2007-10-20&g=2007-10-20), [B.10](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.10&z=2007-10-20&g=2007-10-20), [B.11](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.11&z=2007-10-20&g=2007-10-20), [B.13](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.13&z=2007-10-20&g=2007-10-20), [B.16](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.16&z=2007-10-20&g=2007-10-20), [B.18](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.18&z=2007-10-20&g=2007-10-20), [B.20](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-C&artikel=B.20&z=2007-10-20&g=2007-10-20), [B.24](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-E&artikel=B.24&z=2007-10-20&g=2007-10-20) en [B.25](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-E&artikel=B.25&z=2007-10-20&g=2007-10-20) zelf uit.
 
 - b. met betrekking tot opleiding en onderwijs:
 
-- i. hij participeert desgevraagd actief in de centrale opleidingscommissie.
+   - i. hij participeert desgevraagd actief in de centrale opleidingscommissie.
 
 ##### Artikel C.4. Opleidingsgroep
 
@@ -764,37 +738,37 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 - a. algemeen:
 
-- i. zij dragen zorg voor de begeleiding van de aios;
+   - i. zij dragen zorg voor de begeleiding van de aios;
 
-- ii. zij houden ten minste vier maal per jaar een vergadering met aios uitsluitend ter bespreking van opleidingszaken;
+   - ii. zij houden ten minste vier maal per jaar een vergadering met aios uitsluitend ter bespreking van opleidingszaken;
 
-- iii. zij dragen er zorg voor dat de aios zijn verplichtingen, bedoeld in dit besluit en de specifieke besluiten, kan nakomen;
+   - iii. zij dragen er zorg voor dat de aios zijn verplichtingen, bedoeld in dit besluit en de specifieke besluiten, kan nakomen;
 
 - b. met betrekking tot de patiëntenzorg:
 
-- i. zij zien er op toe dat de door de aios verzorgde ziektegeschiedenissen en medische correspondentie aan door de beroepsgroep te stellen eisen voldoet en dat bij belangrijke beslissingsmomenten in de behandeling de aantekening geplaatst wordt dat in overleg met met name genoemde medisch specialisten onderscheidenlijk de opleiders tot een bepaald beleid is besloten;
+   - i. zij zien er op toe dat de door de aios verzorgde ziektegeschiedenissen en medische correspondentie aan door de beroepsgroep te stellen eisen voldoet en dat bij belangrijke beslissingsmomenten in de behandeling de aantekening geplaatst wordt dat in overleg met met name genoemde medisch specialisten onderscheidenlijk de opleiders tot een bepaald beleid is besloten;
 
-- ii. zij geven uitsluitend aanwijzingen die relevant zijn voor en in het belang zijn van de opleiding en van de patiëntenzorg en houden rekening met de vorderingen in de vakbekwaamheid van de aios;
+   - ii. zij geven uitsluitend aanwijzingen die relevant zijn voor en in het belang zijn van de opleiding en van de patiëntenzorg en houden rekening met de vorderingen in de vakbekwaamheid van de aios;
 
-- iii. zij zien er regelmatig op toe dat de door de aios verrichte werkzaamheden voldoen aan de algemene competenties zoals neergelegd in [artikel B.2. derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.2&z=2007-10-20&g=2007-10-20) alsmede aan de specialismegebonden competenties, bedoeld in artikel B.2., tweede lid, en houden supervisie op de aios;
+   - iii. zij zien er regelmatig op toe dat de door de aios verrichte werkzaamheden voldoen aan de algemene competenties zoals neergelegd in [artikel B.2. derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.2&z=2007-10-20&g=2007-10-20) alsmede aan de specialismegebonden competenties, bedoeld in artikel B.2., tweede lid, en houden supervisie op de aios;
 
 - c. met betrekking tot opleiding en onderwijs:
 
-- i. zij besteden voldoende tijd aan de opleiding en nemen het daarmee samenhangende werk op zich;
+   - i. zij besteden voldoende tijd aan de opleiding en nemen het daarmee samenhangende werk op zich;
 
-- ii. zij participeren actief in voor de opleiding verplichte onderwijsactiviteiten;
+   - ii. zij participeren actief in voor de opleiding verplichte onderwijsactiviteiten;
 
-- iii. zij dragen er zorg voor dat er tussen de aios en andere medische specialisten voldoende contact is;
+   - iii. zij dragen er zorg voor dat er tussen de aios en andere medische specialisten voldoende contact is;
 
 - d. met betrekking tot bij- en nascholing:
 
-- i. zij houden hun kennis en inzicht als medisch specialist op peil door het regelmatig deelnemen aan geaccrediteerde bij- en nascholingsactiviteiten;
+   - i. zij houden hun kennis en inzicht als medisch specialist op peil door het regelmatig deelnemen aan geaccrediteerde bij- en nascholingsactiviteiten;
 
-- ii. zij volgen systematisch geaccrediteerde bijscholing met didactische aspecten ten behoeve van de opleiding;
+   - ii. zij volgen systematisch geaccrediteerde bijscholing met didactische aspecten ten behoeve van de opleiding;
 
 - e. met betrekking tot onderzoek en ontwikkeling:
 
-- i. zij bevorderen klinisch wetenschappelijk onderzoek van de leden van de opleidingsgroep en de aios, hetgeen blijkt uit publicaties en voordrachten.
+   - i. zij bevorderen klinisch wetenschappelijk onderzoek van de leden van de opleidingsgroep en de aios, hetgeen blijkt uit publicaties en voordrachten.
 
 #### Paragraaf I-C. De plaatsvervangend opleider en de waarnemer
 
@@ -844,7 +818,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 2. In specifieke besluiten kunnen per medisch specialisme afwijkende verplichtingen worden gesteld.
 
-## Titel II. De opleidingsinrichting
+### Titel II. De opleidingsinrichting
 
 #### Paragraaf II-A. Eisen voor de erkenning van de inrichting tot opleidingsinrichting voor de totale opleiding op één locatie
 
@@ -852,7 +826,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 1. De inrichting voldoet aan de volgende eisen:
 
-**algemeen:**
+*algemeen:*
 
 - a. zij legt de samenwerking van medisch specialisten ten behoeve van de opleiding vast alsmede de relatie tussen de opleiders, de aios en andere bij de opleiding betrokken medisch specialisten;
 
@@ -864,7 +838,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 - e. zij draagt zorg voor deelname van de leden van de opleidingsgroep aan de kwaliteitsvisitatie van de betreffende wetenschappelijke medisch specialistenvereniging volgens de systematiek van die wetenschappelijke vereniging;
 
-- f. in de opleidingsinrichting voor een bepaald medisch specialisme is een opleider en een plaatsvervangend opleider voor dat medisch specialisme werkzaam; **met betrekking tot opleiding en onderwijs:**
+- f. in de opleidingsinrichting voor een bepaald medisch specialisme is een opleider en een plaatsvervangend opleider voor dat medisch specialisme werkzaam; *met betrekking tot opleiding en onderwijs:*
 
 - g. zij beschikt over één of meer samenwerkingsovereenkomsten met één of meer opleidingsinrichtingen waar aios delen van de opleiding in een medisch specialisme volgen, tenzij aios de hele opleiding in de opleidingsinrichting volgen. De samenwerkingsovereenkomst is in overeenstemming met de Standaard Samenwerkingsovereenkomst zoals vastgesteld door de MSRC in overleg met het CCMS. In specifieke besluiten kunnen aanvullende bepalingen worden opgenomen;
 
@@ -912,21 +886,21 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 - a. algemeen:
 
-- i. het aantal daadwerkelijk binnen de opleidingsinrichting werkzame aios voor een medisch specialisme uitgedrukt in fte’s bedraagt ten hoogste 1,5 maal het gezamenlijk aantal medisch specialisten uitgedrukt in fte’s van het betreffende medische specialisme dat in de opleidingsinrichting werkzaam en daadwerkelijk bij de opleiding betrokken is;
+   - i. het aantal daadwerkelijk binnen de opleidingsinrichting werkzame aios voor een medisch specialisme uitgedrukt in fte’s bedraagt ten hoogste 1,5 maal het gezamenlijk aantal medisch specialisten uitgedrukt in fte’s van het betreffende medische specialisme dat in de opleidingsinrichting werkzaam en daadwerkelijk bij de opleiding betrokken is;
 
-- ii. zij stelt de aios, de opleider en de opleidingsgroep in de gelegenheid de eisen en verplichtingen op grond van dit besluit en de specifieke besluiten na te komen;
+   - ii. zij stelt de aios, de opleider en de opleidingsgroep in de gelegenheid de eisen en verplichtingen op grond van dit besluit en de specifieke besluiten na te komen;
 
-- iii. zij neemt jaarlijks een paragraaf op in een jaarverslag over de opleidingsactiviteiten gedurende het kalenderjaar;
+   - iii. zij neemt jaarlijks een paragraaf op in een jaarverslag over de opleidingsactiviteiten gedurende het kalenderjaar;
 
-- iv. zij verstrekt de aios vóór aanvang van de opleiding een modelinstructie en alle relevante protocollen;
+   - iv. zij verstrekt de aios vóór aanvang van de opleiding een modelinstructie en alle relevante protocollen;
 
-- v. zij meldt de MSRC de voor de opleiding of de aios relevante wijzigingen;
+   - v. zij meldt de MSRC de voor de opleiding of de aios relevante wijzigingen;
 
-- vi. zij houdt zich aan de onder iv. bedoelde modelinstructie en protocollen.
+   - vi zij houdt zich aan de onder iv. bedoelde modelinstructie en protocollen.
 
 - b. met betrekking tot opleiding en onderwijs:
 
-- i. wanneer de functie van opleider vacant komt als bedoeld in [artikel C.5., derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=I&paragraaf=I-C&artikel=C.5&z=2007-10-20&g=2007-10-20), deelt de opleidingsinrichting dit uiterlijk binnen één maand schriftelijk mede aan de MSRC, onder vermelding van de ingangsdatum van de waarneming.
+   - i. wanneer de functie van opleider vacant komt als bedoeld in [artikel C.5., derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=I&paragraaf=I-C&artikel=C.5&z=2007-10-20&g=2007-10-20), deelt de opleidingsinrichting dit uiterlijk binnen één maand schriftelijk mede aan de MSRC, onder vermelding van de ingangsdatum van de waarneming.
 
 2. De MSRC kan, gehoord de plenaire visitatiecommissie, voor een beperkte tijd en onder voorwaarden ontheffing verlenen van het bepaalde in het eerste lid, onder a, onderdeel i.
 
@@ -936,23 +910,23 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 - a. algemeen:
 
-- i. het overleggen over raakvlakken tussen de verschillende medisch specialistische opleidingen;
+   - i. het overleggen over raakvlakken tussen de verschillende medisch specialistische opleidingen;
 
-- ii. het voorbereiden op visitaties;
+   - ii. het voorbereiden op visitaties;
 
-- iii. het bespreken van algemene belangen van de aios;
+   - iii. het bespreken van algemene belangen van de aios;
 
-- iv. het bespreken van kritiekpunten van de zijde van opleiders en aios;
+   - iv. het bespreken van kritiekpunten van de zijde van opleiders en aios;
 
-- v. het bemiddelen bij geschillen in gevallen als bedoeld in [artikel B.28.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=II&artikel=B.28&z=2007-10-20&g=2007-10-20);
+   - v. het bemiddelen bij geschillen in gevallen als bedoeld in [artikel B.28.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=II&artikel=B.28&z=2007-10-20&g=2007-10-20);
 
-- vi. het jaarlijks opstellen van een jaarverslag over de opleidingsactiviteiten gedurende het kalenderjaar;
+   - vi. het jaarlijks opstellen van een jaarverslag over de opleidingsactiviteiten gedurende het kalenderjaar;
 
 - b. opleiding en onderwijs:
 
-- i. het bewaken van de kwaliteit van de in het ziekenhuis aanwezige opleidingen;
+   - i. het bewaken van de kwaliteit van de in het ziekenhuis aanwezige opleidingen;
 
-- ii. het overleggen over algemene en specifieke opleidingsaangelegenheden.
+   - ii. het overleggen over algemene en specifieke opleidingsaangelegenheden.
 
 2. De centrale opleidingscommissie is samengesteld uit:
 
@@ -988,7 +962,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 ##### Artikel C.15. Samenwerkingsovereenkomsten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel C.16. Eisen en verplichtingen voor de erkenning gedeelte opleiding
 
@@ -1022,7 +996,7 @@ Vervallen
 
 4. Uit de erkenning blijkt duidelijk voor welke stage en voor welke stageduur de inrichting wordt erkend.
 
-## Titel III. Procedure erkenning opleider, plaatsvervangend opleider, stageopleider en opleidingsinrichting
+### Titel III. Procedure erkenning opleider, plaatsvervangend opleider, stageopleider en opleidingsinrichting
 
 ##### Artikel C.18. Aanvraag erkenning
 
@@ -1084,7 +1058,7 @@ Vervallen
 
 1. De erkenning als opleider wordt in verband met één opleidingsinrichting gegeven. Deze opleidingsinrichting kan op verschillende locaties gehuisvest zijn.
 
-2. Vervallen.
+2. *Vervallen.*
 
 ##### Artikel C.24. Alle onderdelen opleiding
 
@@ -1138,9 +1112,7 @@ De erkenning van de opleider eindigt van rechtswege:
 
 ### Hoofdstuk D. De registratie en herregistratie van medisch specialisten
 
-## Titel I. Inschrijving
-
-#### Paragraaf I-A. Medisch specialistenregister
+### Titel I. Inschrijving
 
 ##### Artikel D.1. Inschrijving
 
@@ -1158,7 +1130,9 @@ Voor inschrijving in één van de registers van medisch specialisten komt in aan
 
 - Een arts die met goed gevolg een individueel scholingsprogramma als bedoeld in [paragraaf II-C](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-C&z=2007-10-20&g=2007-10-20) heeft gevolgd en voltooid.
 
-#### Paragraaf I-B. Inhoud individueel scholingsprogramma
+### Titel II. Registratie
+
+#### Paragraaf II-A. Aanvraag registratie
 
 ##### Artikel D.2. Registratie arts tot medisch specialist
 
@@ -1194,10 +1168,6 @@ Indien een arts, als bedoeld in [artikel D.1., onder d](https://wetten.overheid.
 
 De arts dient een bewijs te overleggen dat hij vanaf het moment van voltooiing van de opleiding ten minste 16 uur per week in het betreffende specialisme werkzaam is geweest. De MSRC gaat na in hoeverre de inhoud van de elders voltooide opleiding overeenkomt met die van de Nederlandse opleiding in het betreffende specialisme. De arts verschaft de MSRC de gegevens en bescheiden die de MSRC voor de beoordeling van de aanvraag nodig acht en waarover de arts redelijkerwijs te beschikking kan krijgen. Indien de MSRC van oordeel is dat de door de arts voltooide opleiding gelijkwaardig is aan de Nederlandse opleiding in het betreffende specialisme, schrijft de MSRC de arts na ontvangst van de stukken in het eerste lid en met inachtneming van het bepaalde in de Regeling in het betreffende register in. Indien de MSRC van oordeel is dat van gelijkwaardigheid van door de arts voltooide opleiding geen sprake is, wijst zij het verzoek tot inschrijving af en kan zij bepalen dat een beoordelingsstage als bedoeld in [paragraaf II-B](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-B&z=2007-10-20&g=2007-10-20) dient te worden gevolgd. Indien de MSRC tot de vaststelling komt dat de arts, bedoeld in het vierde lid, niet voldoet aan de gestelde eisen om in aanmerking te komen voor een beoordelingsstage, beoordeelt de MSRC of de arts in aanmerking komt voor het volgen van een individueel scholingprogramma. Daarbij gelden de eisen als gesteld in [paragraaf II-C](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-C&z=2007-10-20&g=2007-10-20).
 
-## Titel II. Registratie
-
-#### Paragraaf II-A. Aanvraag registratie
-
 ##### Artikel D.5. Registratie na individueel scholingsprogramma of beoordelingsstage
 
 De arts, bedoeld in [artikel D.1., onder c., d. e. of f.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=I&artikel=D.1&z=2007-10-20&g=2007-10-20), wendt zich aan het eind van het individueel scholingsprogramma of de beoordelingsstage tot de MSRC voor registratie in een van de registers van medisch specialisten. Hij verschaft de MSRC de gegevens en bescheiden die de MSRC voor de beoordeling van de aanvraag nodig acht en waarover de arts redelijkerwijs de beschikking kan krijgen. De arts overlegt:
@@ -1212,6 +1182,8 @@ Indien de aanvraag, bedoeld in het eerste lid, meer dan drie maanden na het afge
 
 De MSRC kan met toepassing van artikel 29, tweede lid van de Regeling, besluiten tot inschrijving van een arts in een specialistenregister voor een periode korter dan vijf jaar. Artikel 31, vijfde lid van de Regeling is van overeenkomstige toepassing.
 
+#### Paragraaf II-B. Beoordelingsstage
+
 ##### Artikel D.7. Beoordelingsstage
 
 Voor het volgen van een beoordelingsstage komt in aanmerking een arts als bedoeld in [artikel D.4., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.4&z=2007-10-20&g=2007-10-20). De beoordelingsstage wordt gevolgd onder begeleiding van een opleider in een opleidingsinrichting.
@@ -1220,13 +1192,9 @@ Voor het volgen van een beoordelingsstage komt in aanmerking een arts als bedoel
 
 De arts dient tijdig voorafgaand aan de aanvang van de beoordelingsstage bij de MSRC een aanvraag in, vergezeld met de gegevens en bescheiden als genoemd in [artikel D.4., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.4&z=2007-10-20&g=2007-10-20). De arts verschaft de MSRC de gegevens en bescheiden die de MSRC voor de beoordeling van de aanvraag nodig acht en waarover de arts redelijkerwijs de beschikking kan krijgen. De beoordelingsstage kan eerst aanvangen nadat de MSRC hiervoor toestemming heeft gegeven.
 
-#### Paragraaf II-B. Individueel scholingsprogramma EER en Zwitserse Bondsstaat
-
 ##### Artikel D.9. Toestemming MSRC
 
 In het kader van het verlenen van toestemming voor de aanvang van de beoordelingsstage gaat de MSRC na of de arts voldoet aan de in [artikel D.4., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.4&z=2007-10-20&g=2007-10-20), genoemde eisen. Indien de MSRC tot de vaststelling komt dat op verantwoorde wijze met de beoordelingsstage kan worden gestart, verleent de MSRC toestemming voor het volgen van de beoordelingsstage. In het geval de MSRC de arts toestemming verleent de beoordelingsstage aan te vangen, bepaalt de MSRC tevens conform [artikel D.11.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-B&artikel=D.11&z=2007-10-20&g=2007-10-20), de tijdsduur hiervan.
-
-#### Paragraaf II-C. Beoordelingsstage
 
 ##### Artikel D.10. Ontheffing beoordelingsstage
 
@@ -1248,6 +1216,8 @@ De opleider is verplicht de arts iedere drie maanden tussentijds te beoordelen, 
 
 Inschrijving in het register, bedoeld in de [artikelen D.1. onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=I&artikel=D.1&z=2007-10-20&g=2007-10-20), alsmede de aanvang van de beoordelingsstage, bedoeld in [artikel D.4., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.4&z=2007-10-20&g=2007-10-20), kan eerst geschieden nadat de arts op een door de MSRC aangegeven wijze heeft aangetoond een zodanige kennis van de Nederlandse taal in woord en geschrift alsmede voldoende luistervaardigheid te hebben verworven, dat een goede communicatie met patiënten, collegae en andere werkers in de gezondheidszorg gewaarborgd is
 
+#### Paragraaf II-C. Individueel scholingsprogramma
+
 ##### Artikel D.15. Individueel scholingsprogramma
 
 1. Er is een individueel scholingsprogramma dat tot doel heeft een arts, bedoeld in [artikel D.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-B&artikel=D.13&z=2007-10-20&g=2007-10-20), [D.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&artikel=D.20&z=2007-10-20&g=2007-10-20) of [D.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&artikel=D.26&z=2007-10-20&g=2007-10-20), zodanig te scholen dat hij de medische zorg in het betreffende specialisme zelfstandig en op verantwoorde wijze kan uitvoeren.
@@ -1260,21 +1230,19 @@ Inschrijving in het register, bedoeld in de [artikelen D.1. onder d](https://wet
 
 De opleider stelt het individueel scholingsprogramma, bedoeld in [artikel D.15.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-C&artikel=D.15&z=2007-10-20&g=2007-10-20) op. Bij het opstellen van het individueel scholingsprogramma houdt de opleider rekening met de uitgangssituatie van de betreffende arts of medisch specialist en maakt daartoe gebruik van de voor de betreffende opleiding geldende toetsmethoden. Nadat de opleider het individueel scholingsprogramma heeft opgesteld vraagt hij ter zake goedkeuring aan de MSRC.
 
-#### Paragraaf II-D. Taaltest
-
 ##### Artikel D.17. Beoordeling individueel scholingsprogramma
 
 Gedurende het individueel scholingsprogramma beoordeelt de opleider iedere drie maanden de voortgang van de arts of medisch specialist. De conclusies van deze beoordelingen worden - voor gezien of akkoord meeondertekend door de arts of medisch specialist - schriftelijk vastgelegd. Aan het eind van het individueel scholingsprogramma beoordeelt de opleider of de betreffende arts geacht kan worden en in staat is de medische zorg in het betreffende medisch specialisme zelfstandig en op verantwoorde wijze uit te voeren. De opleider geeft over de beoordeling, bedoeld in het derde lid, een verklaring aan de arts of medisch specialist af voor de MSRC ten behoeve van de registratie.
 
 ##### Artikel D.18. Inhoud Taaltest:
 
-Vervallen
+*Vervallen*
 
 ##### Artikel D.19. Uitslag Taaltest:
 
-Vervallen
+*Vervallen*
 
-## Titel III. Herregistratie
+### Titel III. Herregistratie
 
 ##### Artikel D.20. Eisen herregistratie
 
@@ -1472,7 +1440,7 @@ Herregistratie in het register voor artsen klinische chemie kan plaatsvinden ind
 
 - w. CCMS no. 1-2002 opleidingseisen anesthesiologie;
 
-- x. CCMS no. 6-2002 opleidingseisen interne geneeskunde;
+- x CCMS no. 6-2002 opleidingseisen interne geneeskunde;
 
 - y. CCMS no. 7-2002 opleidingseisen plastische chirurgie;
 
@@ -1499,269 +1467,3 @@ Herregistratie in het register voor artsen klinische chemie kan plaatsvinden ind
 ##### Artikel E.5. Citeertitel
 
 Dit besluit wordt aangehaald als: Kaderbesluit CCMS.
-
-## Bijlage 1. Aanvullende voorschriften bij [hoofdstuk B, titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=II&z=2006-12-06&g=2006-12-06) Geschillen
-
-1. De leden en plaatsvervangend leden worden voor een periode van vier jaar benoemd. Zij zijn aansluitend eenmaal herbenoembaar.
-
-2. Een benoeming van een lid of plaatsvervangend lid op een plaats die vacant komt terwijl de zittingstermijn van het te vervangen lid nog niet verstreken is geschiedt voor de volle, in het eerste lid genoemde termijn.
-
-De benoeming van de leden van de CvG en de plaatsvervangend leden eindigt door:
-
-a. het verstrijken van de benoemingstermijn, overlijden van het lid of het plaatsvervangend lid, onder curatele stelling of onder bewindstelling van het lid of het plaatsvervangend lid telkens een dag nadat een van de voornoemde omstandigheden zich heeft voorgedaan;
-
-b. door schriftelijke opzegging door het lid of het plaatsvervangende lid tegen het einde van een kalenderjaar met inachtneming van een opzegtermijn van minimaal een maand.
-
-1. Gedurende diens benoemingstermijn kan de benoeming van een lid of plaatsvervangend lid van de CvG ingetrokken of geschorst worden vanwege: a. diens beëindiging van de actieve beroeps- of functie-uitoefening; b. verandering van functie, indien deze functie mede ten grondslag lag aan de voordracht tot benoeming; c. het in diskrediet brengen van de medische stand door of vanwege zijn persoonlijke gedragingen.
-
-2. Intrekking vindt schriftelijk plaats met inachtneming van een termijn van ten minste een maand.
-
-3. Schorsing vindt plaats met onmiddellijke ingang voor een termijn van maximaal een jaar.
-
-1. De CvG houdt zitting met zeven leden.
-
-2. In afwijking van het eerste lid kan de voorzitter, indien de zaak hem daartoe geschikt voorkomt, bepalen dat de zitting wordt gehouden door de voorzitter en twee dan wel vier door hem aan te wijzen leden.
-
-1. Alvorens de partij die een geschil heeft als bedoeld in [artikel B.28](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=II&artikel=B.28&z=2006-12-06&g=2006-12-06). een verzoek indient bij de CvG legt hij het geschil binnen vier weken na het ontstaan hiervan schriftelijk aan de centrale opleidingscommissie van het betreffende ziekenhuis voor, voorzover het de competentie van de centrale opleidingscommissie, bedoeld in [artikel C.13.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=II&paragraaf=II-C&artikel=C.13&z=2006-12-06&g=2006-12-06), betreft . Bij overschrijding van deze termijn neemt de centrale opleidingscommissie het geschil niet in behandeling.
-
-2. De centrale opleidingscommissie kan gebruik maken van een mediator. In dat geval worden de kosten van de mediation gezamenlijk en voor gelijke delen door partijen gedragen, tenzij bij de mediation anders is overeengekomen. De centrale opleidingscommissie tracht het geschil binnen zes weken nadat het geschil aan haar is voorgelegd in der minne te schikken.
-
-3. Het verzoek wordt binnen twee weken na het verstrijken van de termijn van zes weken, bedoeld in het tweede lid, bij de CvG ingediend in de vorm van een verzoekschrift. Bij overschrijding van deze termijn neemt de CvG het verzoekschrift niet in behandeling.
-
-4. Voorzover het geschil betrekking heeft op een genomen besluit, hebben de volgende omstandigheden opschortende werking ten aanzien van dat besluit: a. het voorleggen van het geschil aan de centrale opleidingscommissie, bedoeld in het eerste lid; b. de mediation, bedoeld in het tweede lid; c. het indienen van een verzoekschrift bij de CvG; d. het binnen twee weken na het besluit van de CvG vragen om een voorlopige voorziening aan dan wel starten van een kort geding bij de rechter.
-
-5. Een verzoekschrift kan mondeling worden ingetrokken tijdens een hoorzitting. Totdat de CvG uitspraak doet kan een verzoekschrift schriftelijk worden ingetrokken.
-
-1. Het verzoekschrift wordt ondertekend en bevat ten minste: a. de naam en het adres van de indiener; b. de dagtekening; c. een omschrijving van het geschil waarop het verzoekschrift zich richt; d. de gronden van het verzoek.
-
-2. Bij het verzoekschrift worden voorzover mogelijk alle relevante stukken waarop het geschil betrekking heeft overgelegd.
-
-1. Een verzoekschrift is tijdig ingediend indien het voor de termijn, bedoeld in de artikel 5., derde lid is ontvangen door de CvG.
-
-2. Bij verzending per post is een verzoekschrift tijdig ingediend indien het voor het einde van de termijn per post is bezorgd, mits het niet later dan een week na afloop van de termijn is ontvangen.
-
-De secretaris van de CvG informeert alle betrokken partijen onverwijld omtrent de behandeling van het verzoekschrift verzoekschrift en stuurt aan hen de op het verzoekschrift betrekking hebbende stukken toe.
-
-1. Indien niet is voldaan aan de in dit besluit gestelde eisen voor het in behandeling nemen van het verzoekschrift, kan dit niet-ontvankelijk worden verklaard, mits de indiener de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe door de CvG gestelde termijn.
-
-2. Ten aanzien van een verzoekschrift dat is ingediend na afloop van de termijn bedoeld in het eerste lid, blijft niet-ontvankelijkverklaring op grond daarvan achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.
-
-1. De voorzitter van de CvG bepaalt plaats en tijdstip van de zitting waarin partijen in de gelegenheid worden gesteld zich door de CvG te doen horen.
-
-2. Van het horen van partijen kan worden afgezien indien: a. het verzoekschrift kennelijk nietontvankelijk is; b. het verzoekschrift kennelijk ongegrond is; c. partijen hebben verklaard geen gebruik te willen maken van het recht om te worden gehoord.
-
-3. De CvG deelt de partijen ten minste drie weken voor de zitting schriftelijk mee, dat zij in de gelegenheid worden gesteld zich tijdens de zitting te doen horen.
-
-4. Partijen kunnen zich tijdens de zitting laten bijstaan of vertegenwoordigen. De vertegenwoordiger is bij de behandeling van het verzoekschrift bij de hoorzitting voorzien van een schriftelijke lastgeving, tenzij de advocaat of procureur is ingeschreven dan wel de betreffende partij zelf met hem op de hoorzitting verschijnt.
-
-5. De CvG hoort de partijen binnen vier weken na ontvangst van het verzoekschrift en doet vervolgens binnen zes weken een uitspraak.
-
-6. De CvG kan de uitspraak voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan partijen.
-
-1. Tot tien dagen voor het horen kunnen de bij het geschil betrokken partijen nadere stukken indienen.
-
-2. Partijen worden in elkaars aanwezigheid gehoord, waarbij hoor en wederhoor wordt toegepast.
-
-3. Van het horen wordt een verslag gemaakt.
-
-4. Op verzoek van de bij het geschil betrokken partijen kunnen door hen meegebrachte getuigen en deskundigen worden gehoord. De wederpartij wordt hiervan ten minste vijf dagen voor de zitting op de hoogte gesteld.
-
-5. De voorzitter van de CvG kan uit eigen beweging of op verlangen van de CvG bij deskundigen advies of inlichtingen inwinnen en deze zonodig uitnodigen daartoe ter zitting te verschijnen. Partijen worden hiervan ten minste vijf dagen voor de zitting op de hoogte gesteld.
-
-1. De zitting van de CvG is openbaar.
-
-2. Indien de voorzitter van de CvG of één van de aanwezige leden het nodig oordeelt of indien een belanghebbende daartoe een gemotiveerd verzoek doet kan de voorzitter bepalen dat de zitting achter gesloten deuren plaatsvindt.
-
-1. In het verslag, bedoeld in artikel 11., derde lid, worden de namen vermeld van de aanwezigen en hun hoedanigheid.
-
-2. Het verslag houdt een korte beschrijving in van hetgeen over en weer is gezegd en ter zitting is voorgevallen.
-
-3. Het verslag verwijst naar de op de zitting overgelegde bescheiden, die aan het verslag worden gehecht.
-
-4. Het verslag wordt ondertekend door de voorzitter en de secretaris van de CvG.
-
-1. Na afloop van de zitting kan de voorzitter van de CvG uit eigen beweging of op verzoek van de CvG nader onderzoek houden.
-
-2. De uit het onderzoek verkregen informatie wordt in afschrift aan de leden van de CvG, aan de indiener van het verzoekschrift en de andere betrokken partijen gezonden.
-
-3. De leden van de CvG, de indiener van het verzoekschrift en de andere partijen kunnen binnen een week na verzending van de informatie, bedoeld in het tweede lid, aan de voorzitter van de CvG een verzoek richten tot het beleggen van een nieuwe hoorzitting. De voorzitter beslist omtrent een dergelijk verzoek.
-
-4. Op een nieuwe hoorzitting als bedoeld in het derde lid, zijn de artikelen 10. tot en met 13. van overeenkomstige toepassing.
-
-5. Indien de voorzitter een verzoek als bedoeld in het derde lid afwijst, stelt de CvG partijen in de gelegenheid binnen twee weken schriftelijk te reageren op de uit het onderzoek verkregen informatie. De secretaris van de CvG verzendt de schriftelijke reacties in afschrift aan de leden van de CvG en de bij het geschil betrokken partijen.
-
-Wanneer na het horen aan de CvG feiten en omstandigheden bekend worden die voor de uitspraak van aanmerkelijk belang kunnen zijn, wordt dit aan de indiener van het verzoekschrift en de andere betrokken partijen meegedeeld en worden partijen in de gelegenheid gesteld daarover te worden gehoord.
-
-1. De CvG beraadslaagt en beslist achter gesloten deuren en doet uitspraak.
-
-2. De CvG beslist bij meerderheid van stemmen over de door haar uit te brengen uitspraak.
-
-3. De uitspraak naar aanleiding van het verzoekschrift berust op een deugdelijke motivering, die bij de bekendmaking van de uitspraak wordt vermeld.
-
-4. De uitspraak wordt door de voorzitter en de secretaris van de CvG ondertekend.
-
-5. De indiener van het verzoekschrift en andere betrokken partijen ontvangen een exemplaar van de uitspraak.
-
-##### Artikel A.7. Doorwerking toekomstige wijzigingen EG-regelgeving
-
-Een wijziging van Richtlijn 2005/36/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-### Hoofdstuk B. De opleiding
-
-## Titel I. Opleidingseisen
-
-#### Paragraaf I-A. Algemeen
-
-#### Paragraaf I-B. Bijzondere bepalingen
-
-#### Paragraaf I-C. Opleiding en klinisch wetenschappelijk onderzoek
-
-#### Paragraaf I-D. De stage
-
-#### Paragraaf I-E. Gedeeltelijke opleiding buiten Nederland
-
-## Titel II. Geschillen
-
-### Hoofdstuk C. De erkenning tot opleider en opleidingsinrichting
-
-## Titel I. De opleider, de plaatsvervangend opleider en de stageopleider
-
-#### Paragraaf I-A. Eisen voor erkenning van de medisch specialist tot opleider
-
-#### Paragraaf I-B. Verplichtingen van de opleider
-
-#### Paragraaf I-C. De plaatsvervangend opleider en de waarnemer
-
-#### Paragraaf I-D. De stageopleider
-
-## Titel II. De opleidingsinrichting
-
-#### Paragraaf II-A. Eisen voor de erkenning van de inrichting tot opleidingsinrichting voor de totale opleiding op één locatie
-
-#### Paragraaf II-B. Aanvullende eisen voor de erkenning van de inrichting tot opleidingsinrichting voor de totale opleiding op meerdere locaties
-
-#### Paragraaf II-C. Verplichtingen voor de opleidingsinrichting voor de totale opleiding op één locatie
-
-#### Paragraaf II-D. Aanvullende verplichtingen voor de opleidingsinrichting op meerdere locaties
-
-#### Paragraaf II-E. De opleidingsinrichting voor een gedeelte van de opleiding of een stage
-
-## Titel III. Procedure erkenning opleider, plaatsvervangend opleider, stageopleider en opleidingsinrichting
-
-### Hoofdstuk D. De registratie en herregistratie van medisch specialisten
-
-## Titel I. Inschrijving
-
-## Titel II. Registratie
-
-#### Paragraaf II-A. Aanvraag registratie
-
-#### Paragraaf II-B. Beoordelingsstage
-
-#### Paragraaf II-C. Individueel scholingsprogramma
-
-## Titel III. Herregistratie
-
-### Hoofdstuk E. Overige bepalingen
-
-## Bijlage 1. Aanvullende voorschriften bij [hoofdstuk B, titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=II&z=2007-10-20&g=2007-10-20) Geschillen
-
-1. De leden en plaatsvervangend leden worden voor een periode van vier jaar benoemd. Zij zijn aansluitend eenmaal herbenoembaar.
-
-2. Een benoeming van een lid of plaatsvervangend lid op een plaats die vacant komt terwijl de zittingstermijn van het te vervangen lid nog niet verstreken is geschiedt voor de volle, in het eerste lid genoemde termijn.
-
-De benoeming van de leden van de CvG en de plaatsvervangend leden eindigt door:
-
-a. het verstrijken van de benoemingstermijn, overlijden van het lid of het plaatsvervangend lid, onder curatele stelling of onder bewindstelling van het lid of het plaatsvervangend lid telkens een dag nadat een van de voornoemde omstandigheden zich heeft voorgedaan;
-
-b. door schriftelijke opzegging door het lid of het plaatsvervangende lid tegen het einde van een kalenderjaar met inachtneming van een opzegtermijn van minimaal een maand.
-
-1. Gedurende diens benoemingstermijn kan de benoeming van een lid of plaatsvervangend lid van de CvG ingetrokken of geschorst worden vanwege: a. diens beëindiging van de actieve beroeps- of functie-uitoefening; b. verandering van functie, indien deze functie mede ten grondslag lag aan de voordracht tot benoeming; c. het in diskrediet brengen van de medische stand door of vanwege zijn persoonlijke gedragingen.
-
-2. Intrekking vindt schriftelijk plaats met inachtneming van een termijn van ten minste een maand.
-
-3. Schorsing vindt plaats met onmiddellijke ingang voor een termijn van maximaal een jaar.
-
-1. De CvG houdt zitting met zeven leden.
-
-2. In afwijking van het eerste lid kan de voorzitter, indien de zaak hem daartoe geschikt voorkomt, bepalen dat de zitting wordt gehouden door de voorzitter en twee dan wel vier door hem aan te wijzen leden.
-
-1. Alvorens de partij die een geschil heeft als bedoeld in [artikel B.28](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=II&artikel=B.28&z=2007-10-20&g=2007-10-20). een verzoek indient bij de CvG legt hij het geschil binnen vier weken na het ontstaan hiervan schriftelijk aan de centrale opleidingscommissie van het betreffende ziekenhuis voor, voorzover het de competentie van de centrale opleidingscommissie, bedoeld in [artikel C.13.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=II&paragraaf=II-C&artikel=C.13&z=2007-10-20&g=2007-10-20), betreft . Bij overschrijding van deze termijn neemt de centrale opleidingscommissie het geschil niet in behandeling.
-
-2. De centrale opleidingscommissie kan gebruik maken van een mediator. In dat geval worden de kosten van de mediation gezamenlijk en voor gelijke delen door partijen gedragen, tenzij bij de mediation anders is overeengekomen. De centrale opleidingscommissie tracht het geschil binnen zes weken nadat het geschil aan haar is voorgelegd in der minne te schikken.
-
-3. Het verzoek wordt binnen twee weken na het verstrijken van de termijn van zes weken, bedoeld in het tweede lid, bij de CvG ingediend in de vorm van een verzoekschrift. Bij overschrijding van deze termijn neemt de CvG het verzoekschrift niet in behandeling.
-
-4. Voorzover het geschil betrekking heeft op een genomen besluit, hebben de volgende omstandigheden opschortende werking ten aanzien van dat besluit: a. het voorleggen van het geschil aan de centrale opleidingscommissie, bedoeld in het eerste lid; b. de mediation, bedoeld in het tweede lid; c. het indienen van een verzoekschrift bij de CvG; d. het binnen twee weken na het besluit van de CvG vragen om een voorlopige voorziening aan dan wel starten van een kort geding bij de rechter.
-
-5. Een verzoekschrift kan mondeling worden ingetrokken tijdens een hoorzitting. Totdat de CvG uitspraak doet kan een verzoekschrift schriftelijk worden ingetrokken.
-
-1. Het verzoekschrift wordt ondertekend en bevat ten minste: a. de naam en het adres van de indiener; b. de dagtekening; c. een omschrijving van het geschil waarop het verzoekschrift zich richt; d. de gronden van het verzoek.
-
-2. Bij het verzoekschrift worden voorzover mogelijk alle relevante stukken waarop het geschil betrekking heeft overgelegd.
-
-1. Een verzoekschrift is tijdig ingediend indien het voor de termijn, bedoeld in de artikel 5., derde lid is ontvangen door de CvG.
-
-2. Bij verzending per post is een verzoekschrift tijdig ingediend indien het voor het einde van de termijn per post is bezorgd, mits het niet later dan een week na afloop van de termijn is ontvangen.
-
-De secretaris van de CvG informeert alle betrokken partijen onverwijld omtrent de behandeling van het verzoekschrift verzoekschrift en stuurt aan hen de op het verzoekschrift betrekking hebbende stukken toe.
-
-1. Indien niet is voldaan aan de in dit besluit gestelde eisen voor het in behandeling nemen van het verzoekschrift, kan dit niet-ontvankelijk worden verklaard, mits de indiener de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe door de CvG gestelde termijn.
-
-2. Ten aanzien van een verzoekschrift dat is ingediend na afloop van de termijn bedoeld in het eerste lid, blijft niet-ontvankelijkverklaring op grond daarvan achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.
-
-1. De voorzitter van de CvG bepaalt plaats en tijdstip van de zitting waarin partijen in de gelegenheid worden gesteld zich door de CvG te doen horen.
-
-2. Van het horen van partijen kan worden afgezien indien: a. het verzoekschrift kennelijk nietontvankelijk is; b. het verzoekschrift kennelijk ongegrond is; c. partijen hebben verklaard geen gebruik te willen maken van het recht om te worden gehoord.
-
-3. De CvG deelt de partijen ten minste drie weken voor de zitting schriftelijk mee, dat zij in de gelegenheid worden gesteld zich tijdens de zitting te doen horen.
-
-4. Partijen kunnen zich tijdens de zitting laten bijstaan of vertegenwoordigen. De vertegenwoordiger is bij de behandeling van het verzoekschrift bij de hoorzitting voorzien van een schriftelijke lastgeving, tenzij de advocaat of procureur is ingeschreven dan wel de betreffende partij zelf met hem op de hoorzitting verschijnt.
-
-5. De CvG hoort de partijen binnen vier weken na ontvangst van het verzoekschrift en doet vervolgens binnen zes weken een uitspraak.
-
-6. De CvG kan de uitspraak voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan partijen.
-
-1. Tot tien dagen voor het horen kunnen de bij het geschil betrokken partijen nadere stukken indienen.
-
-2. Partijen worden in elkaars aanwezigheid gehoord, waarbij hoor en wederhoor wordt toegepast.
-
-3. Van het horen wordt een verslag gemaakt.
-
-4. Op verzoek van de bij het geschil betrokken partijen kunnen door hen meegebrachte getuigen en deskundigen worden gehoord. De wederpartij wordt hiervan ten minste vijf dagen voor de zitting op de hoogte gesteld.
-
-5. De voorzitter van de CvG kan uit eigen beweging of op verlangen van de CvG bij deskundigen advies of inlichtingen inwinnen en deze zonodig uitnodigen daartoe ter zitting te verschijnen. Partijen worden hiervan ten minste vijf dagen voor de zitting op de hoogte gesteld.
-
-1. De zitting van de CvG is openbaar.
-
-2. Indien de voorzitter van de CvG of één van de aanwezige leden het nodig oordeelt of indien een belanghebbende daartoe een gemotiveerd verzoek doet kan de voorzitter bepalen dat de zitting achter gesloten deuren plaatsvindt.
-
-1. In het verslag, bedoeld in artikel 11., derde lid, worden de namen vermeld van de aanwezigen en hun hoedanigheid.
-
-2. Het verslag houdt een korte beschrijving in van hetgeen over en weer is gezegd en ter zitting is voorgevallen.
-
-3. Het verslag verwijst naar de op de zitting overgelegde bescheiden, die aan het verslag worden gehecht.
-
-4. Het verslag wordt ondertekend door de voorzitter en de secretaris van de CvG.
-
-1. Na afloop van de zitting kan de voorzitter van de CvG uit eigen beweging of op verzoek van de CvG nader onderzoek houden.
-
-2. De uit het onderzoek verkregen informatie wordt in afschrift aan de leden van de CvG, aan de indiener van het verzoekschrift en de andere betrokken partijen gezonden.
-
-3. De leden van de CvG, de indiener van het verzoekschrift en de andere partijen kunnen binnen een week na verzending van de informatie, bedoeld in het tweede lid, aan de voorzitter van de CvG een verzoek richten tot het beleggen van een nieuwe hoorzitting. De voorzitter beslist omtrent een dergelijk verzoek.
-
-4. Op een nieuwe hoorzitting als bedoeld in het derde lid, zijn de artikelen 10. tot en met 13. van overeenkomstige toepassing.
-
-5. Indien de voorzitter een verzoek als bedoeld in het derde lid afwijst, stelt de CvG partijen in de gelegenheid binnen twee weken schriftelijk te reageren op de uit het onderzoek verkregen informatie. De secretaris van de CvG verzendt de schriftelijke reacties in afschrift aan de leden van de CvG en de bij het geschil betrokken partijen.
-
-Wanneer na het horen aan de CvG feiten en omstandigheden bekend worden die voor de uitspraak van aanmerkelijk belang kunnen zijn, wordt dit aan de indiener van het verzoekschrift en de andere betrokken partijen meegedeeld en worden partijen in de gelegenheid gesteld daarover te worden gehoord.
-
-1. De CvG beraadslaagt en beslist achter gesloten deuren en doet uitspraak.
-
-2. De CvG beslist bij meerderheid van stemmen over de door haar uit te brengen uitspraak.
-
-3. De uitspraak naar aanleiding van het verzoekschrift berust op een deugdelijke motivering, die bij de bekendmaking van de uitspraak wordt vermeld.
-
-4. De uitspraak wordt door de voorzitter en de secretaris van de CvG ondertekend.
-
-5. De indiener van het verzoekschrift en andere betrokken partijen ontvangen een exemplaar van de uitspraak.

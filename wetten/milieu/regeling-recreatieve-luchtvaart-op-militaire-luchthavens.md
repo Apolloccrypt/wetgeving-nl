@@ -1,59 +1,31 @@
 ---
 title: "Regeling recreatieve luchtvaart op militaire luchthavens"
 identifier: "BWBR0033518"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033518"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "12281193"
-version_id: "20566172"
-internal_id: "C28918731"
-label_id: "12252554"
-dtd_version: "2.0"
-original_entry_into_force: "2013-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033518/2017-01-01/0"
-intitule_bron: "Stcrt.2013-15722"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-06-06"
-intitule_published: "2013-06-13"
-intitule_in_force: "2013-06-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-15722"
-original_signed_date: "2013-06-06"
-original_published_date: "2013-06-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-15722"
-entry_into_force_date: "2013-06-17"
-jci_1_3: "jci1.3:c:BWBR0033518&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0033518&g=2017-01-01"
-citeertitel_status: "officieel"
-signed_date: "2013-06-06"
-entry_into_force: "2013-06-17"
+publicatiedatum: 2013-06-17
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0033518"
+opgehaald: 2026-08-20
 ---
+
 # Regeling recreatieve luchtvaart op militaire luchthavens
-
-Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Gelet op de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=23), en [29 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=29);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **hoofdvliegcoördinator:** door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de algehele leiding over en het algemeen toezicht op de totale recreatieve luchtvaart op de betrokken militaire luchthaven;
+- *hoofdvliegcoördinator:* door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de algehele leiding over en het algemeen toezicht op de totale recreatieve luchtvaart op de betrokken militaire luchthaven;
 
-- **modelvliegcoördinator:** door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de modelvliegactiviteiten op de betrokken militaire luchthaven;
+- *modelvliegcoördinator:* door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de modelvliegactiviteiten op de betrokken militaire luchthaven;
 
-- **motorsportvliegcoördinator:** door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de motorsportvliegactiviteiten op de betrokken militaire luchthaven;
+- *motorsportvliegcoördinator:* door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de motorsportvliegactiviteiten op de betrokken militaire luchthaven;
 
-- **zeilvliegcoördinator:** door de commandant van de betrokken luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de zeilvliegactiviteiten op de betrokken militaire luchthaven;
+- *zeilvliegcoördinator:* door de commandant van de betrokken luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de zeilvliegactiviteiten op de betrokken militaire luchthaven;
 
-- **zweefvliegcoördinator:** door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de zweefvliegactiviteiten op de betrokken militaire luchthaven.
+- *zweefvliegcoördinator:* door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de zweefvliegactiviteiten op de betrokken militaire luchthaven.
 
 ##### Artikel 2. Algemene vereisten coördinatoren
 
@@ -75,13 +47,13 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 - beschikken over voldoende luchtvaartkennis en luchtvaartervaring blijkens:
 
-- 1e. het bezit van een geldig militair vliegbewijs met ervaring in zweefvliegactiviteiten, of
+   - 1e. het bezit van een geldig militair vliegbewijs met ervaring in zweefvliegactiviteiten, of
 
-- 2e. het bezit van een geldig vliegbewijs privévlieger met ervaring in zweefvliegactiviteiten, of
+   - 2e. het bezit van een geldig vliegbewijs privévlieger met ervaring in zweefvliegactiviteiten, of
 
-- 3e. het bezit van een geldig zweefvliegbewijs met bevoegdverklaring sleepvliegen of zweefvliegonderricht of motorzweefvliegen, waarbij enige vliegervaring met gecombineerd motor- en zweefvliegen, indien dat op de desbetreffende militaire luchthaven wordt beoefend, gewenst is, of
+   - 3e. het bezit van een geldig zweefvliegbewijs met bevoegdverklaring sleepvliegen of zweefvliegonderricht of motorzweefvliegen, waarbij enige vliegervaring met gecombineerd motor- en zweefvliegen, indien dat op de desbetreffende militaire luchthaven wordt beoefend, gewenst is, of
 
-- 4°. een kwalificatie als militair of burgerluchtverkeersleider of gewezen militair of burgerluchtverkeersleider.
+   - 4°. een kwalificatie als militair of burgerluchtverkeersleider of gewezen militair of burgerluchtverkeersleider.
 
 ##### Artikel 4. Coördinator
 
@@ -252,7 +224,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 12. Voor het starten van zweefvliegtuigen vanaf een militaire luchthaven gelden de volgende weerlimieten:
 
-|   |   | Lierstarts | Sleepstarts |
+|  |  | Lierstarts | Sleepstarts |
 | --- | --- | --- | --- |
 | a. | wolkenbasis minimaal | 1000 voet | 1500 voet |
 | b. | vlieg- en grondzicht minimaal | 3 kilometer | 5 kilometer |
@@ -285,5 +257,3 @@ Deze regeling treedt in werking met ingang van 17 juni 2013.
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling recreatieve luchtvaart op militaire luchthavens.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
