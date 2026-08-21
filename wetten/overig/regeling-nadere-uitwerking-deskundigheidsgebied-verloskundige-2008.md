@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 juli 2014, kenmerk 642455-123513-MEVA, houdende aanwijzing van apparatuur, geneesmiddelen, medische hulpmiddelen en middelen, behorende tot het deskundigheidsgebied van de verloskundige (Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008)"
+citeertitel: "Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008"
 identifier: "BWBR0035491"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-10-03"
-last_updated: "2015-10-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035491"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12781103"
-version_id: "21698392"
-internal_id: "C31138991"
-label_id: "12750814"
-dtd_version: "2.0"
-original_entry_into_force: "2014-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035491/2015-10-03/0"
-intitule_bron: "Stcrt.2014-23083"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-28"
-intitule_published: "2014-08-29"
-intitule_in_force: "2014-08-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-23083"
-original_signed_date: "2014-07-28"
-original_published_date: "2014-08-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-23083"
-entry_into_force_date: "2014-09-01"
-jci_1_3: "jci1.3:c:BWBR0035491&z=2015-10-03&g=2015-10-03"
-jci_1_0: "1.0:c:BWBR0035491&g=2015-10-03"
-citeertitel_status: "officieel"
-short_title: "Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008"
-signed_date: "2014-07-28"
-entry_into_force: "2014-09-01"
+publicatiedatum: 2014-09-01
+laatste_update: 2015-10-03
+status: geldig
+toestand: 2015-10-03
+bron: "https://wetten.overheid.nl/BWBR0035491"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 juli 2014, kenmerk 642455-123513-MEVA, houdende aanwijzing van apparatuur, geneesmiddelen, medische hulpmiddelen en middelen, behorende tot het deskundigheidsgebied van de verloskundige (Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008)
-
-Gelet op [artikel 5, tweede lid, onderdeel b, en derde lid, onderdelen b, c, en o, van het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&artikel=5);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -69,5 +43,3 @@ Deze regeling treedt in werking met ingang van 1 september 2014.
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

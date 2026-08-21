@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Financiën van 3 april 2014, kenmerk: FM/2014/473 M, tot benoeming van en toekenning van vergoedingen aan de Commissie verzekeraars (Benoemingsbesluit Commissie verzekeraars)"
+citeertitel: "Benoemingsbesluit Commissie verzekeraars"
 identifier: "BWBR0035040"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-04-12"
-last_updated: "2014-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035040"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-stam_id: "12646173"
-version_id: "21359892"
-internal_id: "C30667871"
-label_id: "12616414"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035040/2014-04-12/0"
-intitule_bron: "Stcrt.2014-10218"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-04-03"
-intitule_published: "2014-04-11"
-intitule_in_force: "2014-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-10218"
-original_signed_date: "2014-04-03"
-original_published_date: "2014-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-10218"
-entry_into_force_date: "2014-04-12"
-jci_1_3: "jci1.3:c:BWBR0035040&z=2014-04-12&g=2014-04-12"
-jci_1_0: "1.0:c:BWBR0035040&g=2014-04-12"
-citeertitel_status: "officieel"
-short_title: "Benoemingsbesluit Commissie verzekeraars"
-signed_date: "2014-04-03"
-entry_into_force: "2014-04-12"
+publicatiedatum: 2014-04-12
+laatste_update: 2014-04-12
+status: geldig
+toestand: 2014-04-12
+bron: "https://wetten.overheid.nl/BWBR0035040"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de Minister van Financiën van 3 april 2014, kenmerk: FM/2014/473 M, tot benoeming van en toekenning van vergoedingen aan de Commissie verzekeraars (Benoemingsbesluit Commissie verzekeraars)
-
-Gelet op [artikel 6, derde lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6) en [artikel 2, eerste en derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -77,5 +51,3 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscou
 ##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Benoemingsbesluit Commissie verzekeraars.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

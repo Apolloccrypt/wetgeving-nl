@@ -1,28 +1,28 @@
 ---
-title: "Instellingsbesluit NCP 2014"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 1 juli 2014, nr. MinBuZa.2014.303289, houdende instelling van het Nationaal Contact Punt voor de OESO-richtlijnen voor multinationale ondernemingen (Instellingsbesluit NCP 2014)"
+citeertitel: "Instellingsbesluit NCP 2014"
 identifier: "BWBR0035293"
 categorie: "Overig"
-publicatiedatum: 2026-05-13
+soort: "ministeriele-regeling"
+publicatiedatum: 2014-07-05
 laatste_update: 2026-05-13
 status: geldig
+toestand: 2026-05-13
 bron: "https://wetten.overheid.nl/BWBR0035293"
+opgehaald: 2026-08-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 1 juli 2014, nr. MinBuZa.2014.303289, houdende instelling van het Nationaal Contact Punt voor de OESO-richtlijnen voor multinationale ondernemingen (Instellingsbesluit NCP 2014)
-
-Handelende in overeenstemming met de Minister van Economische Zaken, de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Infrastructuur en Milieu;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+- a. *de minister:* de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-- b. **het NCP:** het Nationaal Contact Punt voor de OESO-richtlijnen voor multinationale ondernemingen.
+- b. *het NCP:* het Nationaal Contact Punt voor de OESO-richtlijnen voor multinationale ondernemingen.
 
-- c. **de mede betrokken bewindspersonen:** de Minister van Economische Zaken en Klimaat, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur.
+- c. *de mede betrokken bewindspersonen:* de Minister van Economische Zaken en Klimaat, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
 ##### Artikel 2
 
@@ -78,7 +78,7 @@ Tenzij effectieve toepassing van de richtlijnen het meest gebaat is bij vertrouw
 
 ##### Artikel 8
 
-1. Het NCP stelt jaarlijks voor het volgende jaar een werkplan en een begroting op en legt deze uiterlijk 1 oktober ter goedkeuring voor aan de minister.
+1. Het NCP stelt jaarlijks voor het volgende jaar een werkplan en een begroting op en legt deze uiterlijk 1 oktober ter goedkeuring voor aan de minister.
 
 2. Het NCP stelt jaarlijks een verslag op van zijn werkzaamheden, bevindingen en resultaten conform de instructies van de OESO. Het NCP zendt dit jaarverslag aan de minister, die het aanbiedt aan de OESO.
 
@@ -99,5 +99,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit NCP 2014.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

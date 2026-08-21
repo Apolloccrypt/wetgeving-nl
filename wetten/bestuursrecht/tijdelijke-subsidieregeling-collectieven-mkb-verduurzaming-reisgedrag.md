@@ -9,7 +9,7 @@ laatste_update: 2026-08-20
 status: geldig
 toestand: 2026-08-20
 bron: "https://wetten.overheid.nl/BWBR0050293"
-opgehaald: 2026-08-20
+opgehaald: 2026-08-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van nr. IENW/BSK-2024/250268, houdende vaststelling van de Tijdelijke subsidieregeling collectieven mkb verduurzaming reisgedrag

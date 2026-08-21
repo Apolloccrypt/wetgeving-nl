@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken van 29 augustus 2013, nr. 3720024 inzake beperkingen aan de openbaarheid van in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1990 – 1 januari 1991) genoemde archiefbescheiden"
+citeertitel: "Besluit beperkingen openbaarheid archiefbescheiden ministerraad en onderraden (1 januari 1990 – 1 januari 1991)"
 identifier: "BWBR0035244"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-06-29"
-last_updated: "2014-06-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035244"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12702923"
-version_id: "21480822"
-internal_id: "C30846521"
-label_id: "12672864"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035244/2014-06-29/0"
-intitule_bron: "Stcrt.2014-18051"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-08-29"
-intitule_published: "2014-06-27"
-intitule_in_force: "2014-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-18051"
-original_signed_date: "2013-08-29"
-original_published_date: "2014-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-18051"
-entry_into_force_date: "2014-06-29"
-jci_1_3: "jci1.3:c:BWBR0035244&z=2014-06-29&g=2014-06-29"
-jci_1_0: "1.0:c:BWBR0035244&g=2014-06-29"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperkingen openbaarheid archiefbescheiden ministerraad en onderraden (1 januari 1990 – 1 januari 1991)"
-signed_date: "2013-08-29"
-entry_into_force: "2014-06-29"
+publicatiedatum: 2014-06-29
+laatste_update: 2014-06-29
+status: geldig
+toestand: 2014-06-29
+bron: "https://wetten.overheid.nl/BWBR0035244"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de Minister-President, Minister van Algemene Zaken van 29 augustus 2013, nr. 3720024 inzake beperkingen aan de openbaarheid van in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1990 – 1 januari 1991) genoemde archiefbescheiden
-
-Gelet op [artikel 15, eerste lid en tweede lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **notulen en bescheiden:** notulen en bescheiden van de rijksministerraad, de ministerraad, de onderraden en de ministeriële commissies als bedoeld in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1990 – 1 januari 1991);
+- a. *notulen en bescheiden:* notulen en bescheiden van de rijksministerraad, de ministerraad, de onderraden en de ministeriële commissies als bedoeld in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1990 – 1 januari 1991);
 
-- b. **raadpleging:** inzage en gebruik ten behoeve van (wetenschappelijk) onderzoek;
+- b. *raadpleging:* inzage en gebruik ten behoeve van (wetenschappelijk) onderzoek;
 
-- c. **publicatie:** verspreiding van de geraadpleegde gegevens op enigerlei wijze, waaronder mondelinge, schriftelijke, elektronische en audiovisuele verspreiding, alsmede verlening van inzage aan derden;
+- c. *publicatie:* verspreiding van de geraadpleegde gegevens op enigerlei wijze, waaronder mondelinge, schriftelijke, elektronische en audiovisuele verspreiding, alsmede verlening van inzage aan derden;
 
-- d. **verklaring inzake raadpleging:** de inhoud van de verklaring inzake raadpleging die als bijlage bij dit besluit is gevoegd.
+- d. *verklaring inzake raadpleging:* de inhoud van de verklaring inzake raadpleging die als bijlage bij dit besluit is gevoegd.
 
 ##### Artikel 2
 

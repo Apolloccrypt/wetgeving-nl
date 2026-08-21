@@ -1,152 +1,59 @@
 ---
-title: "Besluit Jeugdwet"
+title: "Besluit van 5 november 2014, houdende regels ter uitvoering van de Jeugdwet (Besluit Jeugdwet)"
+citeertitel: "Besluit Jeugdwet"
 identifier: "BWBR0035779"
 categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-05-08
+soort: "AMvB"
+publicatiedatum: 2014-11-22
+laatste_update: 2026-01-01
 status: geldig
+toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035779"
+opgehaald: 2026-08-21
 ---
 
 # Besluit van 5 november 2014, houdende regels ter uitvoering van de Jeugdwet (Besluit Jeugdwet)
 
-Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 5 augustus 2014, registratienummer 547112, mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Gelet op de [artikelen 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.3), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.14), [3.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4), [4.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.1.5), [4.1.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.1.9), [6.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.2.1), [6.5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.5.1), [7.1.1.2, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2), [7.1.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.2.2), [7.1.4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.4.2), [7.2.8, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.2.8), [7.4.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.5), [8.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.2.1), en [8.3.2 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.3.2), [4.1.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1), [4.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.3), [4.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.6), [4.2.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.12) en [5.3.1, vierde lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.3.1), [125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [2:1, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:1), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.6), en [3.22, vierde lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.22), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3), [3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3b), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5a), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=20), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=29), en [63, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=63), [24 van de Wet beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=24), [24, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=24), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=7), [239, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=239), en [244 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=244), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=43) en [44, tweede lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=44), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=40), en [42, vijfde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=42), [48g van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48g), [11, eerste lid, van de Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [13, vierde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13), [47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), [77z](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) en [77ff, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77ff), [493, zesde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=493), [3.14 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.14), [11, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=11), [9, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=9), [1.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), [1.56b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b) en [2.6, tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.6), [artikel 11, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11), alsmede [2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=2), en [5, achtste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=5);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 18 september 2014, RvS, no. W13.14.0281/III);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 4 november 2014, kenmerk 681853-128589-WJZ;
-
-Hebben goedgevonden en verstaan:
-
 ### Hoofdstuk 1. Begripsbepalingen en reikwijdte
-
-### Hoofdstuk 2. De gemeente
-
-### Hoofdstuk 3. De certificering
-
-#### § 3.1. De certificerende instelling
-
-#### § 3.2. Het certificaat
-
-##### Artikel 3.2.1
-
-1. De aanvraag voor een certificaat of een voorlopig certificaat wordt ingediend bij de certificerende instelling.
-
-2. De certificerende instelling beslist binnen zes maanden na ontvangst van de aanvraag.
-
-3. De vergoeding voor de behandeling van de aanvraag van een certificaat of een voorlopig certificaat is de aanvrager verschuldigd aan de gecertificeerde instelling.
-
-4. Onze Minister van Veiligheid en Justitie kan voor de uitvoering van de in het eerste en tweede lid bedoelde werkzaamheden maximumtarieven vaststellen.
-
-##### Artikel 3.2.2
-
-Een certificaat of een voorlopig certificaat wordt geschorst of ingetrokken door de certificerende instelling:
-
-- a. op grond van feiten of omstandigheden waarvan de certificerende instelling bij de afgifte van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de certificerende instelling het certificaat niet zou hebben afgegeven;
-
-- b. op grond van door de gecertificeerde instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de gecertificeerde instelling bekend was of kon zijn;
-
-- c. indien de gecertificeerde instelling niet meer voldoet aan het normenkader, bedoeld in [artikel 3.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4), of
-
-- d. indien de gecertificeerde instelling haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is gecertificeerd niet meer naar behoren uitvoert.
-
-##### Artikel 3.2.3
-
-1. Gedurende de looptijd van het certificaat stelt de certificerende instelling jaarlijks vast of de gecertificeerde instelling nog voldoet aan het normenkader, bedoeld in [artikel 3.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4).
-
-2. De kosten van de controle, bedoeld in het eerste lid, zijn voor rekening van de gecertificeerde instelling.
-
-3. De gecertificeerde instelling verstrekt de certificerende instelling desgevraagd kosteloos alle informatie die nodig is voor de uitvoering van het bepaalde bij of krachtens dit artikel.
-
-4. Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot de controle, bedoeld in het eerste lid.
-
-### Hoofdstuk 4. Verplichtingen voor jeugdhulpaanbieders, gecertificeerde instellingen en het college
-
-### Hoofdstuk 5. Professionalisering
-
-### Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
-
-### Hoofdstuk 7. Verwijsindex en beleidsinformatie
-
-### Hoofdstuk 8. Financiën en verantwoording
-
-### Hoofdstuk 3. De certificering
-
-### Hoofdstuk 10. Slotbepalingen
-
-##### Artikel 10.1
-
-[Artikel 10.0, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.0) is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
-
-- a. jeugdhulpaanbieders als bedoeld in [artikel 4.0.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=4&paragraaf=4.0&artikel=4.0.1&z=2026-01-01&g=2026-01-01);
-
-- b. jeugdhulpaanbieders die binnen de termijn, bedoeld in [artikel 10.0 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.0), de gegevens, bedoeld in [artikel 8.3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.3.1), over het jaar 2021 op de krachtens laatstgenoemd artikel bepaalde wijze hebben openbaar gemaakt; en
-
-- c. jeugdhulpaanbieders die overeenkomstig het bepaalde krachtens [artikel 8.3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.3.1) uitstel hebben verzocht van de in onderdeel b bedoelde openbaarmaking over het jaar 2021.
-
-##### Artikel 10.2
-
-1. Een jeugdhulpaanbieder stelt het veiligheidsplan, bedoeld in [artikel 6.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.1&artikel=6.1.2&z=2026-01-01&g=2026-01-01), vast binnen zes maanden na het tijdstip van inwerkingtreding van de [Wet rechtspositie gesloten jeugdhulp](https://wetten.overheid.nl/jci1.3:c:BWBR0048243).
-
-2. Een jeugdhulpaanbieder voldoet zo spoedig mogelijk, doch in ieder geval binnen zes maanden na het tijdstip van inwerkingtreding van de [Wet rechtspositie gesloten jeugdhulp](https://wetten.overheid.nl/jci1.3:c:BWBR0048243) aan de [artikelen 6.2.5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.5&z=2026-01-01&g=2026-01-01), en [6.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.6&z=2026-01-01&g=2026-01-01).
-
-##### Artikel 10.3
-
-Vervallen
-
-##### Artikel 10.4
-
-Een erkenning van een beroepsregister als enig kwaliteitsregister jeugd door Onze Ministers op grond van [artikel 68a, eerste lid, van het Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751&artikel=68a), geldt als erkenning op grond van [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2026-01-01&g=2026-01-01), van dit besluit.
-
-##### Artikel 10.5
-
-Vervallen
-
-##### Artikel 10.6
-
-Dit besluit wordt aangehaald als: Besluit Jeugdwet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **beroepsregister:** register waarin beoefenaren van beroepen in het jeugddomein worden ingeschreven en dat tot doel heeft de kwaliteit van de beroepsbeoefening te bevorderen en te handhaven;
+- – *beroepsregister:* register waarin beoefenaren van beroepen in het jeugddomein worden ingeschreven en dat tot doel heeft de kwaliteit van de beroepsbeoefening te bevorderen en te handhaven;
 
-- –. **geregistreerde jeugdprofessional:** beroepsbeoefenaar die is ingeschreven in het kwaliteitsregister jeugd;
+- – *geregistreerde jeugdprofessional:* beroepsbeoefenaar die is ingeschreven in het kwaliteitsregister jeugd;
 
-- –. **geregistreerde professional:** geregistreerde jeugdprofessional of beroepsbeoefenaar die als arts, verpleegkundige, gezondheidszorgpsycholoog, orthopedagoog-generalist of psychotherapeut is ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
+- – *geregistreerde professional:* geregistreerde jeugdprofessional of beroepsbeoefenaar die als arts, verpleegkundige, gezondheidszorgpsycholoog, orthopedagoog-generalist of psychotherapeut is ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
 
-- –. **gezinsvoogdijwerker:** medewerker van een gecertificeerde instelling, belast met het uitvoeren van de ondertoezichtstelling, bedoeld in [artikel 255 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255) en de voorlopige ondertoezichtstelling, bedoeld in [artikel van 257 Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257);
+- – *gezinsvoogdijwerker:* medewerker van een gecertificeerde instelling, belast met het uitvoeren van de ondertoezichtstelling, bedoeld in [artikel 255 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255) en de voorlopige ondertoezichtstelling, bedoeld in [artikel van 257 Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257);
 
-- –. **interne toezichthouder:** interne toezichthouder als bedoeld in [artikel 4.4.1, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.4.1);
+- – *interne toezichthouder:* interne toezichthouder als bedoeld in [artikel 4.4.1, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.4.1);
 
-- –. **jeugddomein:** terrein waarop aanbieders van jeugdhulp, uitvoerders van kinderbeschermingsmaatregelen en jeugdreclassering, Veilig Thuis-organisaties, colleges voor zover het betreft de toeleiding naar, advisering over en de bepaling van de aangewezen voorziening, justitiële jeugdinrichtingen, Halt-bureaus en de raad voor de kinderbescherming, werkzaam zijn;
+- – *jeugddomein:* terrein waarop aanbieders van jeugdhulp, uitvoerders van kinderbeschermingsmaatregelen en jeugdreclassering, Veilig Thuis-organisaties, colleges voor zover het betreft de toeleiding naar, advisering over en de bepaling van de aangewezen voorziening, justitiële jeugdinrichtingen, Halt-bureaus en de raad voor de kinderbescherming, werkzaam zijn;
 
-- –. **jeugdreclasseringswerker:** medewerker van een gecertificeerde instelling, belast met het uitvoeren van jeugdreclassering;
+- – *jeugdreclasseringswerker:* medewerker van een gecertificeerde instelling, belast met het uitvoeren van jeugdreclassering;
 
-- –. **klacht:** klacht als bedoeld in [artikel 6.5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.5.1);
+- – *klacht:* klacht als bedoeld in [artikel 6.5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.5.1);
 
-- –. **klachtencommissie:** klachtencommissie, bedoeld in [artikel 4.2.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.2.1), voor zover deze klachten behandelt over een beslissing als bedoeld in [artikel 6.5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.5.1);
+- – *klachtencommissie:* klachtencommissie, bedoeld in [artikel 4.2.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.2.1), voor zover deze klachten behandelt over een beslissing als bedoeld in [artikel 6.5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.5.1);
 
-- –. **klager:** degene die een klacht als bedoeld in [artikel 6.5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.5.1) indient;
+- – *klager:* degene die een klacht als bedoeld in [artikel 6.5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.5.1) indient;
 
-- –. **kwaliteitsregister jeugd:** door Onze Ministers op grond van [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2026-01-01&g=2026-01-01), erkend register;
+- – *kwaliteitsregister jeugd:* door Onze Ministers op grond van [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2026-01-01&g=2026-01-01), erkend register;
 
-- –. **multidisciplinaire jeugdhulp:** het gezamenlijk en in onderlinge samenhang verlenen van jeugdhulp door jeugdhulpverleners van verschillende disciplines dan wel het gezamenlijk en in onderlinge samenhang verlenen van jeugdhulp en zorg door jeugdhulpverleners en zorgverleners;
+- – *multidisciplinaire jeugdhulp:* het gezamenlijk en in onderlinge samenhang verlenen van jeugdhulp door jeugdhulpverleners van verschillende disciplines dan wel het gezamenlijk en in onderlinge samenhang verlenen van jeugdhulp en zorg door jeugdhulpverleners en zorgverleners;
 
-- –. **registerstichting:** stichting, bedoeld in [artikel 5.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2026-01-01&g=2026-01-01);
+- – *registerstichting:* stichting, bedoeld in [artikel 5.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2026-01-01&g=2026-01-01);
 
-- –. **SBV-Z:** sectorale berichtenvoorziening in de zorg als bedoeld in [artikel 11 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=11);
+- – *SBV-Z:* sectorale berichtenvoorziening in de zorg als bedoeld in [artikel 11 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=11);
 
-- –. **voogdijwerker:** medewerker van een gecertificeerde instelling, belast met het uitvoeren van de voogdij en de voorlopige voogdij op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656);
+- – *voogdijwerker:* medewerker van een gecertificeerde instelling, belast met het uitvoeren van de voogdij en de voorlopige voogdij op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656);
 
-- –. **vreemdeling:** vreemdeling als bedoeld in de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823);
+- – *vreemdeling:* vreemdeling als bedoeld in de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823);
 
-- –. **wet:** [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
+- – *wet:*
+ [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
 
 ##### Artikel 1.2
 
@@ -156,7 +63,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De duur van de voorziening voor een vreemdeling als bedoeld in het eerste lid, is in overeenstemming met de verwachte duur van het verblijf in Nederland en is ten hoogste een half jaar.
 
-4. Indien het college een voorziening als bedoeld in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.3) treft ten behoeve van een vreemdeling, is de duur van die voorziening ten hoogste een half jaar, indien de vreemdeling een verblijfsvergunning regulier voor bepaalde tijd bezit, die is verleend onder de beperking die verband houdt met tijdelijke humanitaire gronden als bedoeld in [artikel 3.5, tweede lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
+4. Indien het college een voorziening als bedoeld in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.3) treft ten behoeve van een vreemdeling, is de duur van die voorziening ten hoogste een half jaar, indien de vreemdeling een verblijfsvergunning regulier voor bepaalde tijd bezit, die is verleend onder de beperking die verband houdt met tijdelijke humanitaire gronden als bedoeld in [artikel 3.5, tweede lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
 
 ### Hoofdstuk 2. De gemeente
 
@@ -179,6 +86,250 @@ Ter uitvoering van de taken, bedoeld in [artikel 2.14, eerste lid, van de wet](h
 ##### Artikel 2.2
 
 Het college draagt er zorg voor dat de ambtenaar of de functionaris, bedoeld in [artikel 11aa, eerste lid, van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=11a), in het bezit is van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan twee jaar.
+
+#### § 2.2. Samenwerking
+
+##### Artikel 2.2.1
+
+In de regiovisie wordt in ieder geval opgenomen:
+
+- a. de wijze waarop de gemeenten in de regio samen met jeugdhulpaanbieders en professionals in algemene zin afstemmen over schaarste van de vormen van jeugdhulp bedoeld in [artikel 2.19, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19);
+
+- b. de aanpak van wachttijden en de wijze waarop de gemeenten in de regio samen met jeugdhulpaanbieders maximaal aanvaardbare wachttijden formuleren;
+
+- c. een voorziening waarmee inspraak mogelijk wordt gemaakt voor jeugdigen en diens wettelijk vertegenwoordigers;
+
+- d. de wijze waarop de afstemming, bedoeld in [artikel 2.19, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) plaatsvindt;
+
+- e. de wijze waarop de afstemming en verbinding wordt geborgd tussen de op grond van [artikel 2.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) gecontracteerde of gesubsidieerde jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en
+
+   - 1°. de vormen van jeugdhulp die zijn gecontracteerd door een door alle gemeenten gezamenlijk in stand gehouden landelijk werkende organisatie en waarbij alle gemeenten in de regio uitsluitend gebruikmaken van dat landelijk gecontracteerde aanbod;
+
+   - 2°. de vormen van jeugdhulp die door de colleges worden gecontracteerd of gesubsidieerd;
+
+- f. de wijze waarop de verbinding wordt geborgd tussen de op grond van [artikel 2.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) gecontracteerde of gesubsidieerde jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en
+
+   - 1°. jeugdgezondheidszorg als bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
+
+   - 2°. zorg of diensten als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+
+   - 3°. maatschappelijke ondersteuning als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
+
+   - 4°. ondersteuning als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+
+- g. de wijze waarop wordt voorzien in regionale expertteams.
+
+##### Artikel 2.2.2
+
+1. De regio’s, bedoeld in [artikel 2.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.17), zijn:
+
+- – Achterhoek;
+
+- – Alkmaar;
+
+- – Amsterdam-Amstelland;
+
+- – Centraal Gelderland;
+
+- – Drenthe;
+
+- – Eemland;
+
+- – Een 10 voor de jeugd;
+
+- – Flevoland;
+
+- – Friesland;
+
+- – Gooi- en Vechtstreek;
+
+- – Groningen;
+
+- – Haaglanden;
+
+- – Haarlemmermeer;
+
+- – Hart van Brabant;
+
+- – Holland-Rijnland;
+
+- – IJsselland;
+
+- – JeugdFV;
+
+- – Kop van Noord-Holland;
+
+- – Lekstroom;
+
+- – Midden-Holland;
+
+- – Midden IJssel/Oost Veluwe;
+
+- – Midden-Limburg;
+
+- – Noord Limburg;
+
+- – Noord Veluwe;
+
+- – Noordoost Brabant;
+
+- – Rijk van Nijmegen;
+
+- – Rijnmond;
+
+- – Rivierenland;
+
+- – Samen voor Jeugd;
+
+- – Twente;
+
+- – Utrecht Stad;
+
+- – Utrecht West;
+
+- – West Brabant Oost;
+
+- – West Brabant West;
+
+- – West Friesland;
+
+- – Zaanstreek-Waterland;
+
+- – Zeeland;
+
+- – Zuid Holland Zuid;
+
+- – Zuid-Kennemerland IJmond;
+
+- – Zuid Limburg; en
+
+- – Zuidoost-Utrecht.
+
+2. In de [bijlage](https://wetten.overheid.nl/BWBR0035779) behorende bij dit besluit is opgenomen welke gemeenten tot welke regio behoren.
+
+##### Artikel 2.2.3
+
+De vormen van jeugdhulp, bedoeld in [artikel 2.19, eerste lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) zijn:
+
+- a. jeugdhulp met verblijf;
+
+- b. pleegzorg als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
+
+- c. multidisciplinaire specialistische jeugdhulp in verband met meervoudige of complexe problemen, waarbij:
+
+   - 1°. de jeugdige als gevolg van de betreffende problemen aanzienlijke beperkingen in het dagelijks functioneren ervaart;
+
+   - 2°. sprake is van:
+
+      - – een hoog risico voor de jeugdige of diens omgeving;
+
+      - – ernstige ontwikkelingsproblemen;
+
+      - – ernstige opvoedproblemen; of
+
+      - – crimineel gedrag dan wel een vermoeden daarvan; en
+
+   - 3°. in het geval van multidisciplinaire specialistische jeugdhulp mede bestaande uit geestelijke gezondheidszorg tevens:
+
+      - – sprake is van een psychische aandoening of een vermoeden daarvan; en
+
+      - – onvoldoende resultaat wordt verwacht of is gebleken van jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of monodisciplinaire specialistische geestelijke gezondheidszorg;
+
+- d. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering;
+
+- e. jeugdhulp in verband met een zintuiglijke beperking;
+
+- f. jeugdhulp bestaande uit crisishulp die gezien de ernst van de problemen 7 x 24 uur beschikbaar is;
+
+- g. multidisciplinaire jeugdhulp bestaande uit dagbehandeling in groepsverband aan jeugdigen met een verstandelijke beperking, een lichamelijke beperking, ernstige psychische problemen, opvoedproblemen dan wel een vermoeden daarvan of ernstige gedragsproblemen;
+
+- h. jeugdhulp bestaande uit hoogspecialistische geestelijke gezondheidszorg aan jeugdigen die onvoldoende baat hebben gehad of naar verwachting zullen hebben bij jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of specialistische geestelijke gezondheidszorg en waarbij sprake is van één of meer ernstige, complexe of zeldzame aandoeningen dan wel van een voorspelbaar ernstig beloop van klachten;
+
+- i. specialistische jeugdhulp in verband met seksueel misbruik, geweld in afhankelijkheidsrelaties of eergerelateerd geweld;
+
+- j. jeugdhulp in verband met ernstige problemen op het gebied van onzindelijkheid.
+
+##### Artikel 2.2.3a
+
+1. De vormen van jeugdhulp, bedoeld in [artikel 10.3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.3), zijn:
+
+- a. jeugdhulp met verblijf;
+
+- b. pleegzorg als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
+
+- c. multidisciplinaire specialistische jeugdhulp in verband met meervoudige of complexe problemen, waarbij:
+
+   - 1°. de jeugdige als gevolg van de betreffende problemen aanzienlijke beperkingen in het dagelijks functioneren ervaart;
+
+   - 2°. sprake is van:
+
+      - – een hoog risico voor de jeugdige of diens omgeving;
+
+      - – ernstige ontwikkelingsproblemen;
+
+      - – ernstige opvoedproblemen; of
+
+      - – crimineel gedrag dan wel een vermoeden daarvan; en
+
+   - 3°. in het geval van multidisciplinaire specialistische jeugdhulp mede bestaande uit geestelijke gezondheidszorg tevens:
+
+      - – sprake is van een psychische aandoening of een vermoeden daarvan; en
+
+      - – onvoldoende resultaat wordt verwacht of is gebleken van jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of monodisciplinaire specialistische geestelijke gezondheidszorg;
+
+- d. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering;
+
+- e. jeugdhulp in verband met een zintuiglijke beperking;
+
+- f. jeugdhulp bestaande uit crisishulp die gezien de ernst van de problemen 7 x 24 uur beschikbaar is;
+
+- g. multidisciplinaire jeugdhulp bestaande uit dagbehandeling in groepsverband aan jeugdigen met een verstandelijke beperking, een lichamelijke beperking, ernstige psychische problemen, opvoedproblemen dan wel een vermoeden daarvan of ernstige gedragsproblemen;
+
+- h. jeugdhulp bestaande uit hoogspecialistische geestelijke gezondheidszorg aan jeugdigen die onvoldoende baat hebben gehad of naar verwachting zullen hebben bij jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of specialistische geestelijke gezondheidszorg en waarbij sprake is van één of meer ernstige, complexe of zeldzame aandoeningen dan wel van een voorspelbaar ernstig beloop van klachten;
+
+- i. specialistische jeugdhulp in verband met seksueel misbruik, geweld in afhankelijkheidsrelaties of eergerelateerd geweld;
+
+- j. jeugdhulp in verband met ernstige problemen op het gebied van onzindelijkheid.
+
+2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 2.2.4
+
+De vormen van jeugdhulp, bedoeld in [artikel 2.19, eerste lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) zijn:
+
+- a. jeugdhulp met verblijf voor zover:
+
+   - 1°. sprake is van gesloten jeugdhulp als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1); of
+
+   - 2°. deze jeugdhulp mede is gericht op de drie milieus wonen, onderwijs en vrije tijd;
+
+- b. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en:
+
+   - 1°. is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering; en
+
+   - 2°. geen sprake is van jeugdhulp met verblijf;
+
+- c. jeugdhulp bestaande uit crisishulp die gezien de ernst van de problematiek 7 x 24 uur beschikbaar is;
+
+- d. multidisciplinaire specialistische jeugdhulp bestaande uit geestelijke gezondheidszorg in verband met complexe verslavingsproblematiek.
+
+##### Artikel 2.3
+
+1. Bij verordening als bedoeld in [artikel 2.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.11) wordt aandacht besteed aan de wijze waarop tariefdifferentiatie wordt bevorderd en wordt geregeld dat de prijs voor een dienst ten minste wordt gebaseerd op de volgende kostprijselementen:
+
+- a. kosten van beroepskrachten (cliëntgebonden en niet-cliëntgebonden);
+
+- b. cliëntgebonden kosten anders dan van beroepskrachten;
+
+- c. overheadkosten, en
+
+- d. kosten voor indexering.
+
+2. Bij ministeriële regeling van Onze Ministers kunnen regels worden gesteld over de indexering, bedoeld in het eerste lid, onderdeel d.
+
+3. Een verordening als bedoeld in [artikel 2.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.11) verplicht het college om bij door hem gecontracteerde of gesubsidieerde aanbieders van preventie, jeugdhulpaanbieders of gecertificeerde instellingen te bedingen dat zij het verlenen van preventie, jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering alleen aan derden uitbesteden indien zij die derden daarvoor een reële prijs betalen, die tot stand is gekomen met gebruikmaking van de kostprijselementen, bedoeld in het eerste lid.
+
+4. Het eerste tot en met derde lid gelden voor een subsidie slechts voor zover zij wordt verstrekt voor de daadwerkelijke verlening van preventie, jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering aan jeugdigen of hun ouders en met de subsidie wordt beoogd de te subsidiëren diensten volledig te bekostigen.
 
 ### Hoofdstuk 3. De certificering
 
@@ -230,11 +381,117 @@ Onze Minister van Veiligheid en Justitie ziet toe op de rechtmatige, doeltreffen
 
 Gedurende de looptijd van de aanwijzing als certificerende instelling stelt Onze Minister van Veiligheid en Justitie vast of de instelling nog steeds voldoet aan de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde voorschriften.
 
-#### § 3.1. De certificerende instelling
+#### § 3.2. Het certificaat
+
+##### Artikel 3.2.1
+
+1. De aanvraag voor een certificaat of een voorlopig certificaat wordt ingediend bij de certificerende instelling.
+
+2. De certificerende instelling beslist binnen zes maanden na ontvangst van de aanvraag.
+
+3. De vergoeding voor de behandeling van de aanvraag van een certificaat of een voorlopig certificaat is de aanvrager verschuldigd aan de gecertificeerde instelling.
+
+4. Onze Minister van Veiligheid en Justitie kan voor de uitvoering van de in het eerste en tweede lid bedoelde werkzaamheden maximumtarieven vaststellen.
+
+##### Artikel 3.2.2
+
+Een certificaat of een voorlopig certificaat wordt geschorst of ingetrokken door de certificerende instelling:
+
+- a. op grond van feiten of omstandigheden waarvan de certificerende instelling bij de afgifte van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de certificerende instelling het certificaat niet zou hebben afgegeven;
+
+- b. op grond van door de gecertificeerde instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de gecertificeerde instelling bekend was of kon zijn;
+
+- c. indien de gecertificeerde instelling niet meer voldoet aan het normenkader, bedoeld in [artikel 3.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4), of
+
+- d. indien de gecertificeerde instelling haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is gecertificeerd niet meer naar behoren uitvoert.
+
+##### Artikel 3.2.3
+
+1. Gedurende de looptijd van het certificaat stelt de certificerende instelling jaarlijks vast of de gecertificeerde instelling nog voldoet aan het normenkader, bedoeld in [artikel 3.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4).
+
+2. De kosten van de controle, bedoeld in het eerste lid, zijn voor rekening van de gecertificeerde instelling.
+
+3. De gecertificeerde instelling verstrekt de certificerende instelling desgevraagd kosteloos alle informatie die nodig is voor de uitvoering van het bepaalde bij of krachtens dit artikel.
+
+4. Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot de controle, bedoeld in het eerste lid.
 
 ### Hoofdstuk 4. Verplichtingen voor jeugdhulpaanbieders, gecertificeerde instellingen en het college
 
 #### § 4.0. Uitzondering op de meldplicht voor jeugdhulpaanbieders
+
+##### Artikel 4.0.1
+
+De meldplicht, bedoeld in [artikel 4.0.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.0.1), is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
+
+- a. jeugdhulpaanbieders die uitsluitend jeugdhulp leveren die bestaat uit het vervoer van een jeugdige, bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.3); en
+
+- b. gemeenten.
+
+#### § 4.0.a. Bestuursstructuur
+
+##### Artikel 4.0.a1
+
+[Artikel 4.4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.4.1) is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
+
+- a. jeugdhulpaanbieders die uitsluitend jeugdhulp leveren die bestaat uit het vervoer van een jeugdige, bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.3); en
+
+- b. gemeenten.
+
+##### Artikel 4.0.a2
+
+1. De interne toezichthouder bestaat uit ten minste drie natuurlijke personen.
+
+2. Een persoon wordt voor ten hoogste vier jaar aangesteld als lid van de interne toezichthouder van de jeugdhulpaanbieder of de gecertificeerde instelling. Deze periode kan eenmaal met ten hoogste vier jaar worden verlengd. De al dan niet aaneengesloten totale periode waarin een persoon lid is van de interne toezichthouder van de jeugdhulpaanbieder of de gecertificeerde instelling is ten hoogste acht jaar.
+
+##### Artikel 4.0.a3
+
+1. De jeugdhulpaanbieder of de gecertificeerde instelling borgt de onafhankelijke taakvervulling door de interne toezichthouder. Dit betekent in ieder geval dat:
+
+- a. een lid van de interne toezichthouder geen andere financiële vergoeding van de jeugdhulpaanbieder of de gecertificeerde instelling ontvangt dan een passende vergoeding voor de als lid van de interne toezichthouder verrichte werkzaamheden;
+
+- b. een lid van de interne toezichthouder, diens echtgenoot of andere levensgezel, pleegkind of bloed- of aanverwant tot in de tweede graad:
+
+   - 1°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen lid is van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling;
+
+   - 2°. in de periode van een jaar voorafgaand aan het lidmaatschap van de interne toezichthouder niet tijdelijk heeft voorzien in de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling bij belet of ontstentenis van een of meer leden van de dagelijkse of algemene leiding;
+
+   - 3°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen werknemer van de jeugdhulpaanbieder of de gecertificeerde instelling is dan wel krachtens een overeenkomst van opdracht werkzaamheden voor de jeugdhulpaanbieder of de gecertificeerde instelling heeft verricht;
+
+   - 4°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen zakelijke relatie onderhoudt met de jeugdhulpaanbieder of de gecertificeerde instelling die de onafhankelijkheid van het lid van de interne toezichthouder dan wel het vertrouwen in die onafhankelijkheid in gevaar brengt;
+
+   - 5°. geen lid is van de dagelijkse of algemene leiding van een andere jeugdhulpaanbieder of gecertificeerde instelling indien een lid van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde lid is van de interne toezichthouder van die andere jeugdhulpaanbieder of de gecertificeerde instelling;
+
+   - 6°. geen aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt;
+
+   - 7°. geen lid is van de dagelijkse of algemene leiding van een rechtspersoon die aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt dan wel van een andere jeugdhulpaanbieder of gecertificeerde instelling die binnen het verzorgingsgebied van de jeugdhulpaanbieder of de gecertificeerde instelling geheel of gedeeltelijk dezelfde werkzaamheden verricht;
+
+   - 8°. geen lid is van de interne toezichthouder van een andere jeugdhulpaanbieder of gecertificeerde instelling die binnen het verzorgingsgebied van de jeugdhulpaanbieder of gecertificeerde instelling geheel of gedeeltelijk dezelfde werkzaamheden verricht, tenzij die andere jeugdhulpaanbieder of gecertificeerde instelling een dochtermaatschappij van de jeugdhulpaanbieder of gecertificeerde instelling is als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) of die andere jeugdhulpaanbieder of gecertificeerde instelling met de jeugdhulpaanbieder of de gecertificeerde instelling is verbonden in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+
+   - 9°. geen lid is van de interne toezichthouder van een rechtspersoon die aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt, tenzij die rechtspersoon met de jeugdhulpaanbieder of de gecertificeerde instelling is verbonden in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
+
+2. Met jeugdhulpaanbieder of gecertificeerde instelling als bedoeld in het eerste lid, onderdelen a en b, wordt gelijkgesteld een dochtermaatschappij van de jeugdhulpaanbieder of de gecertificeerde instelling als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) alsmede met de jeugdhulpaanbieder of de gecertificeerde instelling in een groep verbonden rechtspersonen of vennootschappen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
+
+3. Onder lid van de dagelijkse of algemene leiding als bedoeld in de subonderdelen 1°, 5° en 7° van onderdeel b van het eerste lid, wordt mede verstaan de natuurlijke persoon die het beleid van de instelling heeft bepaald of mede heeft bepaald, als ware hij lid van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling.
+
+##### Artikel 4.0.a4
+
+1. De interne toezichthouder richt zich bij de vervulling van zijn taak naar het belang van de jeugdhulpaanbieder of de gecertificeerde instelling, het te behartigen maatschappelijke belang en het belang van de betrokken belanghebbenden.
+
+2. De interne toezichthouder stelt een profielschets op voor de leden van de interne toezichthouder rekening houdend met de aard van de instelling, diens activiteiten en de gewenste deskundigheid en achtergrond van de leden van de interne toezichthouder.
+
+##### Artikel 4.0.a5
+
+1. De jeugdhulpaanbieder of de gecertificeerde instelling verschaft de interne toezichthouder tijdig, en desgevraagd schriftelijk, de voor de uitoefening van diens taak noodzakelijke gegevens.
+
+2. De jeugdhulpaanbieder of de gecertificeerde stelt de interne toezichthouder voorts ten minste eenmaal per jaar schriftelijk op de hoogte van in ieder geval:
+
+- a. de hoofdlijnen van het strategisch beleid;
+
+- b. de algemene en financiële risico’s; en
+
+- c. het beheers- en controlesysteem.
+
+#### § 4.1. De vertrouwenspersoon
 
 ##### Artikel 4.1.1
 
@@ -268,9 +525,9 @@ Onverminderd het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4.1.6
 
-Vervallen
+*Vervallen*
 
-#### § 4.0. Uitzondering op de meldplicht voor jeugdhulpaanbieders
+#### § 4.2. Uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering door de gecertificeerde instellingen
 
 ##### Artikel 4.2.1
 
@@ -468,7 +725,7 @@ Na de beëindiging van de erkenning verleent de registerstichting alle medewerki
 
 3. Het jaarverslag geeft tevens cijfermatig inzicht in de gegevens, bedoeld in het tweede lid, onder a, c en d.
 
-4. De registerstichting zendt het jaarverslag voor 1 mei, volgend op het verslagjaar, aan Onze Ministers en de beroepsverenigingen, bedoeld in [artikel 5.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2026-01-01&g=2026-01-01).
+4. De registerstichting zendt het jaarverslag voor 1 mei, volgend op het verslagjaar, aan Onze Ministers en de beroepsverenigingen, bedoeld in [artikel 5.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2026-01-01&g=2026-01-01).
 
 5. Het jaarverslag gaat vergezeld van een verklaring van een accountant die is ingeschreven in het register, bedoeld in [artikel 36, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=36). De verklaring:
 
@@ -482,7 +739,7 @@ Van de erkenning, bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid
 
 ### Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
 
-#### § 5.3. Het bestuur en de organen van de registerstichting
+#### § 6.1. Eisen aan gesloten accommodaties
 
 ##### Artikel 6.1.1
 
@@ -490,7 +747,13 @@ Van de erkenning, bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid
 
 2. Bij regeling van Onze Ministers kunnen nadere regels worden gesteld met betrekking tot de uitvoering van het eerste lid.
 
-#### § 6.1. Eisen aan gesloten accommodaties
+##### Artikel 6.1.2
+
+1. De jeugdhulpaanbieder draagt er zorg voor dat een gesloten accommodatie voor de daar verblijvende jeugdigen en werkzame jeugdhulpverleners een veilige en beschermde omgeving is die voldoende privacy biedt.
+
+2. De jeugdhulpaanbieder stelt voor een gesloten accommodatie een veiligheidsplan vast dat gericht is op het borgen van de fysieke en sociale veiligheid en wijst een veiligheidscoördinator aan die zorgdraagt voor de uitvoering van het veiligheidsplan.
+
+#### § 6.2. Toepassing vrijheidsbeperkende maatregelen
 
 ##### Artikel 6.2.1
 
@@ -519,514 +782,6 @@ Van de erkenning, bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid
 3. Zodra er niet langer sprake is van gevaar voor de gezondheid of veiligheid wordt het vastpakken en vasthouden beëindigd.
 
 4. Vastpakken en vasthouden wordt uitsluitend toegepast door personen die opgeleid zijn in het proportioneel en op verantwoorde wijze toepassen ervan.
-
-### Hoofdstuk 7. Verwijsindex en beleidsinformatie
-
-#### § 7.1. Categorieën van instanties en functionarissen
-
-##### Artikel 7.1.1
-
-Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein jeugdhulp worden aangewezen:
-
-- a. gemeenten voor zover het betreft de toeleiding naar, advisering over, de bepaling en het inzetten van de aangewezen voorziening;
-
-- b. Veilig Thuis-organisaties;
-
-- c. jeugdhulpaanbieders;
-
-- d. gecertificeerde instellingen.
-
-##### Artikel 7.1.2
-
-Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein jeugdgezondheidszorg worden aangewezen instanties die de in [artikel 5, tweede lid, van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheden in opdracht van het college uitvoeren.
-
-##### Artikel 7.1.3
-
-1. Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein gezondheidszorg worden aangewezen:
-
-- a. instanties voor verslavingszorg voor wie het op grond van [artikel 35 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) niet verboden is een tarief in rekening te brengen;
-
-- b. instanties voor gehandicaptenzorg die zorg verlenen waarop aanspraak bestaat op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
-
-- c. aanbieders van geestelijke gezondheidszorg waarop ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) dan wel ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) aanspraak bestaat,
-
-- d. instanties die integrale eerstelijns geneeskundige zorg aanbieden, zoals huisartsen die plegen aan te beiden;
-
-- e. ziekenhuizen die beschikken over een toelatingsvergunning als bedoeld in [artikel 1, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1), voor zover het spoedeisende hulp betreft.
-
-2. Als categorie van functionarissen als bedoeld in [artikel 7.1.1.2, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein gezondheidszorg worden huisartsen aangewezen.
-
-##### Artikel 7.1.4
-
-1. Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein onderwijs worden aangewezen:
-
-- a. scholen als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
-
-- b. scholen als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
-
-- c. scholen als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
-
-- d. instellingen als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
-
-- e. instellingen voor hoger onderwijs als bedoeld in [artikel 1.2, onder a of b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2);
-
-- f. contactgemeenten als bedoeld in [artikel 9.2.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.4) ten behoeve van de taak, bedoeld in [artikel 9.2.5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.5).
-
-2. Als categorie van functionarissen als bedoeld in [artikel 7.1.1.2, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein onderwijs worden aangewezen ambtenaren als bedoeld in [artikel 16 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16).
-
-##### Artikel 7.1.5
-
-Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein maatschappelijke ondersteuning worden aangewezen de aanbieders in de zin van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), niet zijnde aanbieders van hulpmiddelen of woningaanpassingen.
-
-##### Artikel 7.1.6
-
-Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein werk en inkomen worden aangewezen de gemeentelijke kredietbanken, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
-
-##### Artikel 7.1.7
-
-Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein politie en justitie worden aangewezen:
-
-- a. de regionale eenheden van het landelijke politiekorps, genoemd in [artikel 25, eerste lid, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25);
-
-- b. Halt-bureaus door Onze Minister van Justitie en Veiligheid aangewezen;
-
-- c. de regionale locaties van de raad voor de kinderbescherming, bedoeld in [artikel 2 van het Organisatiebesluit raad voor de kinderbescherming 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019732&artikel=2).
-
-#### § 6.1. Eisen aan gesloten accommodaties
-
-##### Artikel 7.2.1
-
-1. Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een gemeentelijk signaleringssysteem, draagt het college zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.
-
-2. Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een ander digitaal systeem dan een gemeentelijk signaleringssysteem, draagt de daarvoor verantwoordelijke zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.
-
-3. Een aansluiting als bedoeld in het eerste of tweede lid wordt vermoed voldoende zorgvuldig en veilig te zijn als het voldoet aan de eisen zoals deze zijn uitgegeven door het Nederlands Normalisatie-instituut in de NTA 8023, Maatschappelijke zorg – Informatiearchitectuur in de jeugdsector – Deel 1 : Landelijke verwijsindex risicojongeren.
-
-##### Artikel 7.2.2
-
-1. Een instantie die behoort tot een van de categorieën, bedoeld in de [artikelen 7.1.1 tot en met 7.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.1&z=2026-01-01&g=2026-01-01) of een functionaris die behoort tot een van de categorieën, bedoeld in [artikel 7.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.3&z=2026-01-01&g=2026-01-01), of [7.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.4&z=2026-01-01&g=2026-01-01), draagt zorg voor een zorgvuldig en veilig gebruik van de verwijsindex.
-
-2. Een instantie of een functionaris wordt vermoed te voldoen aan het bepaalde in het eerste lid als deze voldoet aan de eisen zoals deze zijn uitgegeven door het Nederlands Normalisatie-instituut in de NEN 7510, Medische informatica – Informatiebeveiliging in de zorg – Algemeen.
-
-##### Artikel 7.2.3
-
-Onze Minister van Volksgezondheid, Welzijn en Sport doet van een wijziging van een norm als bedoeld in [7.2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.2&artikel=7.2.1&z=2026-01-01&g=2026-01-01), of [artikel 7.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.2&artikel=7.2.2&z=2026-01-01&g=2026-01-01), mededeling in de Staatscourant.
-
-#### § 7.3. Verwijsindexservicenummer
-
-##### Artikel 7.3.1
-
-1. Indien een meldingsbevoegde een jeugdige die niet beschikt over een burgerservicenummer meldt aan de verwijsindex, biedt hij daartoe de volgende gegevens van de jeugdige aan in de verwijsindex:
-
-- a. de familienaam;
-
-- b. de geboortedatum;
-
-- c. het geslacht.
-
-2. De gegevens, bedoeld in het eerste lid, worden in de verwijsindex omgezet in een verwijsindexservicenummer, dat vervolgens gebruikt wordt voor de melding in de verwijsindex.
-
-#### § 7.1. Categorieën van instanties en functionarissen
-
-#### Subparagraaf 7.4.1. De autorisatielijst
-
-##### Artikel 7.4.1.1
-
-1. De aanvraag tot opneming in de autorisatielijst, bedoeld in [artikel 7.2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.2.7), wordt uitsluitend gedaan door een jeugdhulpaanbieder.
-
-2. Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport wordt bepaald welke gegevens en bescheiden worden verstrekt bij de aanvraag.
-
-##### Artikel 7.4.1.2
-
-Onze Minister van Volksgezondheid, Welzijn en Sport stelt, voor zover mogelijk aan de hand van bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde vereisten voor de hoedanigheid van de jeugdhulpaanbieder, vast of de aanvraag, bedoeld in [artikel 7.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=7.4.1.1&z=2026-01-01&g=2026-01-01), is gedaan door een jeugdhulpaanbieder.
-
-##### Artikel 7.4.1.3
-
-1. In de autorisatielijst van jeugdhulpaanbieders wordt per inschrijving opgenomen:
-
-- a. indien de geautoriseerde een natuurlijk persoon is:
-
-  - 1°. de familienaam en voornamen;
-
-  - 2°. de geboortedatum en geboorteplaats;
-
-  - 3°. de titel in de zin van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
-
-- b. indien de geautoriseerde een rechtspersoon is: naam van de rechtspersoon;
-
-2. In de autorisatielijst wordt voorts per inschrijving opgenomen:
-
-- a. de aard van de gegevens en bescheiden aan de hand waarvan is vastgesteld dat de geautoriseerde een jeugdhulpaanbieder is;
-
-- b. de datum van opname in het register;
-
-- c. het adres van vestiging;
-
-- d. de gegevens met betrekking tot verstrekte en ingetrokken toegangsmiddelen.
-
-3. Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport kunnen nadere regels worden gesteld over de opname en verwerking van gegevens in de autorisatielijst.
-
-##### Artikel 7.4.1.4
-
-De geautoriseerde stelt Onze Minister van Volksgezondheid, Welzijn en Sport onmiddellijk op de hoogte van een wijziging van de in de autorisatielijst opgenomen gegevens en van andere omstandigheden die van belang kunnen zijn voor het schorsen of doorhalen van de opname.
-
-##### Artikel 7.4.1.5
-
-Zolang de inschrijving van een jeugdhulpaanbieder in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), is geschorst, is zijn opname in de autorisatielijst van jeugdhulpaanbieders geschorst.
-
-##### Artikel 7.4.1.6
-
-Verwijdering van de autorisatielijst kan plaatsvinden:
-
-- a. op verzoek van de geautoriseerde;
-
-- b. indien de geautoriseerde geen jeugdhulpaanbieder meer is;
-
-- c. indien de in de autorisatielijst opgenomen gegevens afwijken van de gegevens die zijn opgenomen in het register van de Kamer van Koophandel; of
-
-- d. indien ten aanzien van een ingeschreven natuurlijk persoon een aantekening als bedoeld in [artikel 9, eerste tot en met vierde lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=9) in het daar genoemde register is geplaatst, waaruit blijkt dat die persoon tijdelijk of blijvend, het betreffende beroep in zijn geheel niet langer mag uitoefenen.
-
-##### Artikel 7.4.1.7
-
-1. Onze Minister van Volksgezondheid, Welzijn en Sport deelt aan een ieder die daarom verzoekt mee of:
-
-- a. een jeugdhulpaanbieder is opgenomen op de autorisatielijst;
-
-- b. een aan een geautoriseerde verstrekt toegangsmiddel geldig is.
-
-2. Indien het verzoek wordt gedaan door de beheerder van het nummerregister of van een voorziening, bedoeld in [artikel 3, eerste lid, onder d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3), wordt de mededeling, bedoeld in het eerste lid, onmiddellijk gedaan.
-
-#### Subparagraaf 7.4.2. Toegangsmiddelen SBV-Z
-
-##### Artikel 7.4.2.1
-
-Jeugdhulpaanbieders kunnen uitsluitend door tussenkomst van de SBV-Z gebruik maken van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
-
-##### Artikel 7.4.2.2
-
-De jeugdhulpaanbieder die is aangesloten op de SBV-Z draagt zorg dat de verbinding van zijn geautomatiseerde systeem met de SBV-Z en de uitwisseling van gegevens tussen zijn geautomatiseerde systeem en de SBV-Z functioneren op een wijze die overeenstemt met hetgeen daarover in de systeembeschrijving is vastgelegd.
-
-##### Artikel 7.4.2.3
-
-Onze Minister van Volksgezondheid, Welzijn en Sport kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De [artikelen 18 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=18) en [33 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=33) zijn van overeenkomstige toepassing, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde.
-
-#### § 7.1. Categorieën van instanties en functionarissen
-
-##### Artikel 7.5.1
-
-1. De structurele verstrekking van gegevens, bedoeld in de [artikelen 7.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.2) en [7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3), vindt plaats op elektronische wijze aan het Centraal Bureau voor de Statistiek.
-
-2. Onze Ministers en het college vragen geen gegevens uit ten behoeve van de doelen bedoeld in [artikel 7.4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.1), indien zij zelf of het Centraal Bureau voor de Statistiek reeds over deze gegevens beschikken en deze gegevens gebruikt kunnen worden ten behoeve van deze doelen.
-
-##### Artikel 7.5.2
-
-1. De structurele verstrekking van gegevens bedoeld in [artikel 7.4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.2) betreft gegevens over de door het college gefinancierde jeugdhulpaanbieders en gecertificeerde instellingen.
-
-2. Een incidentele verstrekking van gegevens uit hoofde van [artikel 7.4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.2) betreft geen persoonsgegevens.
-
-##### Artikel 7.5.3
-
-1. De structurele verstrekking door jeugdhulpaanbieders en gecertificeerde instellingen van gegevens, bedoeld in [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3), betreft:
-
-- a. het burgerservicenummer, de geboortedatum en het geslacht van de jeugdige;
-
-- b. de adresgegevens van de jeugdige, de gezaghebbende ouders, voogd of pleegoudervoogd, in het bijzonder ter aanduiding van de woonplaats als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
-
-- c. de gegevens over de jeugdhulpaanbieder of de gecertificeerde instelling;
-
-- d. de datum van de aanvang van de jeugdhulp, de uitvoering van de kinderbeschermingsmaatregel of de jeugdreclassering;
-
-- e. de einddatum van de jeugdhulp, de uitvoering van de kinderbeschermingsmaatregel of de jeugdreclassering;
-
-- f. het type ingezette jeugdhulp;
-
-- g. een aanduiding van de verwijzer naar jeugdhulp;
-
-- h. de reden van beëindiging van de jeugdhulp;
-
-- i. het type kinderbeschermingsmaatregel of jeugdreclassering;
-
-- j. de datum van het eerste contact van de gecertificeerde instelling met de jeugdige bij de uitvoering van de kinderbeschermingsmaatregel of de jeugdreclassering;
-
-- k. de reden van de beëindiging van de kinderbeschermingsmaatregel of de jeugdreclassering;
-
-- l. de vraag of er al dan niet sprake is van de inzet van een erkende interventie bij jeugdreclassering;
-
-- m. gegevens over de outcome van:
-
-  - 1°. de jeugdhulp die is verleend door een jeugdhulpaanbieder als bedoeld in [artikel 1.1, onderdeel 1°, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), voor zover de gemeente en die jeugdhulpaanbieder hebben afgesproken dat de jeugdhulpaanbieder deze gegevens registreert of in subsidievoorwaarden is opgenomen dat de jeugdhulpaanbieder dit zal registreren, of
-
-  - 2°. gecertificeerde instellingen.
-
-2. Een incidentele verstrekking van gegevens als bedoeld in [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3) door jeugdhulpaanbieders of gecertificeerde instellingen betreft geen persoonsgegevens.
-
-##### Artikel 7.5.4
-
-1. Bij regeling van Onze Ministers wordt voor het structureel verstrekken van de gegevens, genoemd in [artikel 7.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.1&z=2026-01-01&g=2026-01-01), door de instanties genoemd in de [artikelen 7.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.2&z=2026-01-01&g=2026-01-01) en [7.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.3&z=2026-01-01&g=2026-01-01), bepaald:
-
-- a. welke gegevens genoemd in [artikel 7.5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.3&z=2026-01-01&g=2026-01-01), worden verstrekt alsmede, voor zover nodig, een nadere omschrijving van deze gegevens;
-
-- b. de wijze waarop de gegevens worden verstrekt;
-
-- c. de tijdvakken waarop de gegevens die worden verstrekt betrekking hebben;
-
-- d. de termijnen waarbinnen of de tijdstippen waarop de gegevens worden verstrekt.
-
-2. De regeling, bedoeld in het eerste lid, bevat een informatieprotocol.
-
-### Hoofdstuk 8. Financiën en verantwoording
-
-#### § 8.1. Ouderbijdrage
-
-##### Artikel 8.1.1
-
-Vervallen
-
-##### Artikel 8.1.2
-
-Vervallen
-
-##### Artikel 8.1.3
-
-Vervallen
-
-##### Artikel 8.1.4
-
-Vervallen
-
-##### Artikel 8.1.5
-
-Vervallen
-
-##### Artikel 8.1.6
-
-Vervallen
-
-##### Artikel 8.1.7
-
-Vervallen
-
-##### Artikel 8.1.8
-
-Vervallen
-
-#### § 7.5. Beleidsinformatie
-
-##### Artikel 8.2.1
-
-Deze paragraaf wordt verstaan onder «gegevens»: de in [artikel 8.3.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.3.2) bedoelde gegevens betreffende de exploitatie van jeugdhulpaanbieders en gecertificeerde instellingen.
-
-##### Artikel 8.2.2
-
-1. Onze Ministers geven per categorie van jeugdhulpaanbieders of gecertificeerde instellingen en per categorie van personen die bij de exploitatie van een jeugdhulpaanbieder of gecertificeerde instelling betrokken zijn, aan, welke gegevens jaarlijks dienen te worden verstrekt.
-
-2. Onze Ministers kunnen voor jeugdhulpaanbieders en gecertificeerde instellingen gelegen binnen een door hen aan te wijzen gebied en voor personen die bij de exploitatie van die jeugdhulpaanbieders of gecertificeerde instellingen betrokken zijn, aangeven welke gegevens op hun desbetreffend verzoek dienen te worden verstrekt.
-
-##### Artikel 8.2.3
-
-1. De gegevens, bedoeld in [artikel 8.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=8&paragraaf=8.2&artikel=8.2.2&z=2026-01-01&g=2026-01-01), worden jaarlijks uiterlijk vijf maanden na het verstrijken van het jaar waarop zij betrekking hebben verstrekt.
-
-2. De gegevens, bedoeld in [artikel 8.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=8&paragraaf=8.2&artikel=8.2.2&z=2026-01-01&g=2026-01-01), worden verstrekt telkens uiterlijk zes maanden na een desbetreffend verzoek van elk van Onze Ministers.
-
-##### Artikel 8.2.4
-
-1. Onze Ministers wijzen instanties aan die de te verstrekken gegevens verzamelen en verwerken.
-
-2. Bij regeling van Onze Ministers worden voorschriften gegeven:
-
-- a. over de wijze waarop en de vorm waarin de gegevens dienen te worden verstrekt;
-
-- b. over de wijze van vergoeding van de kosten, verbonden aan de verstrekking van de gegevens;
-
-- c. over wijze waarop gegevens ter beschikking worden gesteld van de organen genoemd in of betrokken bij de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
-
-- d. die door die instanties, bedoeld in het eerste lid, in acht worden genomen.
-
-#### § 8.1. Ouderbijdrage
-
-##### Artikel 8.3
-
-Bij regeling van Onze Ministers kunnen regels worden gesteld over de uitvoering van de taak, bedoeld in [artikel 8.1.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.8) door de Sociale verzekeringsbank, genoemd in [artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3).
-
-### Hoofdstuk 9. Wijziging in andere algemene maatregelen van bestuur
-
-##### Artikel 9.1
-
-Wijzigt het Algemeen Rijksambtenarenreglement.
-
-##### Artikel 9.2
-
-Wijzigt het Ambtenarenreglement Staten-Generaal.
-
-##### Artikel 9.3
-
-Wijzigt het Arbeidstijdenbesluit.
-
-##### Artikel 9.4
-
-Wijzigt het Besluit algemene rechtspositie politie.
-
-##### Artikel 9.5
-
-Wijzigt het Besluit basisregistratie personen.
-
-##### Artikel 9.6
-
-Wijzigt het Besluit beperking verkoop en gebruik tabaksprodukten.
-
-##### Artikel 9.7
-
-Wijzigt het Besluit externe klachtencommissie raad voor de kinderbescherming.
-
-##### Artikel 9.8
-
-Wijzigt het Besluit gebruik burgerservicenummer in de zorg.
-
-##### Artikel 9.9
-
-Wijzigt het Besluit gebruik sofi-nummer Wbp.
-
-##### Artikel 9.10
-
-Wijzigt het Besluit geslachtsnaamswijziging.
-
-##### Artikel 9.11
-
-Wijzigt het Besluit gezagsregisters.
-
-##### Artikel 9.12
-
-Wijzigt het Besluit gezondheidszorgpsycholoog.
-
-##### Artikel 9.13
-
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
-
-##### Artikel 9.14
-
-Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen.
-
-##### Artikel 9.15
-
-Wijzigt het Besluit politiegegevens.
-
-##### Artikel 9.16
-
-Wijzigt het Besluit studiefinanciering 2000.
-
-##### Artikel 9.17
-
-Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.
-
-##### Artikel 9.18
-
-Wijzigt het Besluit tenuitvoerlegging jeugdstrafrecht 1994.
-
-##### Artikel 9.19
-
-Wijzigt het Besluit verplichte meldcode huiselijk geweld en kindermishandeling.
-
-##### Artikel 9.20
-
-Wijzigt het Besluit zorgaanspraken AWBZ.
-
-##### Artikel 9.21
-
-Wijzigt de Reclasseringsregeling 1995.
-
-##### Artikel 9.22
-
-Wijzigt het Reglement justitiële jeugdinrichtingen.
-
-##### Artikel 9.23
-
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
-
-##### Artikel 9.24
-
-1. Het [Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751) wordt ingetrokken.
-
-2. Het [Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751) blijft van toepassing op de financiële verantwoording, vaststelling, inning of uitbetaling van op grond van dat besluit verleende subsidies en uitkeringen en bijdragen in de kosten voor jeugdzorg.
-
-3. In wettelijke procedures en rechtsgedingen tegen besluiten die op grond van het [Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751) zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, blijven, zowel in eerste aanleg als in verdere instantie, de regels van toepassing, die golden voor de intrekking van dat besluit.
-
-##### Artikel 9.25
-
-Wijzigt het Uitvoeringsbesluit Wmo 2015.
-
-### Hoofdstuk 10. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10.5a
-
-Dit besluit berust mede op [artikel 46, tweede lid, van de Uitvoeringswet algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4.0.1
-
-De meldplicht, bedoeld in [artikel 4.0.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.0.1), is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
-
-- a. jeugdhulpaanbieders die uitsluitend jeugdhulp leveren die bestaat uit het vervoer van een jeugdige, bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.3); en
-
-- b. gemeenten.
-
-#### § 3.2. Het certificaat
-
-#### § 4.0.a. Bestuursstructuur
-
-### Hoofdstuk 5. Professionalisering
-
-#### § 5.1. Geregistreerde professionals
-
-#### § 5.2. Erkenning als kwaliteitsregister jeugd
-
-#### § 5.3. Het bestuur en de organen van de registerstichting
-
-#### § 5.1. Geregistreerde professionals
-
-#### § 5.2. Erkenning als kwaliteitsregister jeugd
-
-### Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
-
-#### § 5.4. Het beroepsregister
-
-### Hoofdstuk 7. Verwijsindex en beleidsinformatie
-
-#### § 5.5. Overige bepalingen
-
-#### § 6.3. Klachtrecht bij vrijheidsbeperkende maatregelen
-
-#### § 7.4. Gebruik burgerservicenummer
-
-#### Subparagraaf 7.4.1. De autorisatielijst
-
-#### Subparagraaf 7.4.2. Toegangsmiddelen SBV-Z
-
-#### § 7.4. Gebruik burgerservicenummer
-
-### Hoofdstuk 8. Financiën en verantwoording
-
-#### § 7.2. Inrichting en beheer van de verwijsindex
-
-#### § 8.2. Financiële verantwoording
-
-#### § 8.3. Overige bepalingen
-
-### Hoofdstuk 9. Wijziging in andere algemene maatregelen van bestuur
-
-### Hoofdstuk 10. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6.1.2
-
-1. De jeugdhulpaanbieder draagt er zorg voor dat een gesloten accommodatie voor de daar verblijvende jeugdigen en werkzame jeugdhulpverleners een veilige en beschermde omgeving is die voldoende privacy biedt.
-
-2. De jeugdhulpaanbieder stelt voor een gesloten accommodatie een veiligheidsplan vast dat gericht is op het borgen van de fysieke en sociale veiligheid en wijst een veiligheidscoördinator aan die zorgdraagt voor de uitvoering van het veiligheidsplan.
-
-#### § 6.2. Toepassing vrijheidsbeperkende maatregelen
 
 ##### Artikel 6.2.4
 
@@ -1102,6 +857,8 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Indien geen herhalingsonderzoek plaatsvindt, draagt de jeugdhulpaanbieder er zorg voor dat de eerder bewaarde urine wordt vernietigd.
 
+#### § 6.3. Klachtrecht bij vrijheidsbeperkende maatregelen
+
 ##### Artikel 6.3.1
 
 Een klager kan bij de klachtencommissie een verzoek om bemiddeling doen. De klachtencommissie kan de mogelijkheid van bemiddeling ook ambtshalve voorstellen.
@@ -1120,422 +877,472 @@ Van de klachtencommissie maken in ieder geval deel uit:
 
 ### Hoofdstuk 7. Verwijsindex en beleidsinformatie
 
-#### § 7.2. Inrichting en beheer van de verwijsindex
-
-#### § 7.3. Verwijsindexservicenummer
-
-#### § 7.4. Gebruik burgerservicenummer
-
-#### Subparagraaf 7.4.1. De autorisatielijst
-
-#### Subparagraaf 7.4.2. Toegangsmiddelen SBV-Z
-
-#### § 7.4. Gebruik burgerservicenummer
-
-### Hoofdstuk 8. Financiën en verantwoording
-
-#### § 8.2. Financiële verantwoording
-
-#### § 8.3. Overige bepalingen
-
-### Hoofdstuk 9. Wijziging in andere algemene maatregelen van bestuur
-
-### Hoofdstuk 10. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2.3
-
-1. Bij verordening als bedoeld in [artikel 2.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.11) wordt aandacht besteed aan de wijze waarop tariefdifferentiatie wordt bevorderd en wordt geregeld dat de prijs voor een dienst ten minste wordt gebaseerd op de volgende kostprijselementen:
-
-- a. kosten van beroepskrachten (cliëntgebonden en niet-cliëntgebonden);
-
-- b. cliëntgebonden kosten anders dan van beroepskrachten;
-
-- c. overheadkosten, en
-
-- d. kosten voor indexering.
-
-2. Bij ministeriële regeling van Onze Ministers kunnen regels worden gesteld over de indexering, bedoeld in het eerste lid, onderdeel d.
-
-3. Een verordening als bedoeld in [artikel 2.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.11) verplicht het college om bij door hem gecontracteerde of gesubsidieerde aanbieders van preventie, jeugdhulpaanbieders of gecertificeerde instellingen te bedingen dat zij het verlenen van preventie, jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering alleen aan derden uitbesteden indien zij die derden daarvoor een reële prijs betalen, die tot stand is gekomen met gebruikmaking van de kostprijselementen, bedoeld in het eerste lid.
-
-4. Het eerste tot en met derde lid gelden voor een subsidie slechts voor zover zij wordt verstrekt voor de daadwerkelijke verlening van preventie, jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering aan jeugdigen of hun ouders en met de subsidie wordt beoogd de te subsidiëren diensten volledig te bekostigen.
-
-### Hoofdstuk 3. De certificering
-
-#### § 3.1. De certificerende instelling
-
-#### § 3.2. Het certificaat
-
-### Hoofdstuk 4. Verplichtingen voor jeugdhulpaanbieders, gecertificeerde instellingen en het college
-
-#### § 4.0. Uitzondering op de meldplicht voor jeugdhulpaanbieders
-
-#### § 4.1. De vertrouwenspersoon
-
-#### § 4.2. Uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering door de gecertificeerde instellingen
-
-### Hoofdstuk 5. Professionalisering
-
-#### § 5.1. Geregistreerde professionals
-
-#### § 4.2. Uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering door de gecertificeerde instellingen
-
-#### § 5.3. Het bestuur en de organen van de registerstichting
-
-#### § 5.4. Het beroepsregister
-
-#### § 5.5. Overige bepalingen
-
-### Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
-
-#### § 6.1. Eisen aan gesloten accommodaties
-
-#### § 6.2. Toepassing vrijheidsbeperkende maatregelen
-
-#### § 6.2. Toepassing vrijheidsbeperkende maatregelen
-
-### Hoofdstuk 7. Verwijsindex en beleidsinformatie
-
 #### § 7.1. Categorieën van instanties en functionarissen
 
-#### § 6.3. Klachtrecht bij vrijheidsbeperkende maatregelen
+##### Artikel 7.1.1
 
-#### Subparagraaf 7.4.1. De autorisatielijst
+Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein jeugdhulp worden aangewezen:
 
-#### Subparagraaf 7.4.2. Toegangsmiddelen SBV-Z
+- a. gemeenten voor zover het betreft de toeleiding naar, advisering over, de bepaling en het inzetten van de aangewezen voorziening;
 
-### Hoofdstuk 8. Financiën en verantwoording
+- b. Veilig Thuis-organisaties;
 
-#### § 8.1. Ouderbijdrage
+- c. jeugdhulpaanbieders;
 
-#### § 8.2. Financiële verantwoording
+- d. gecertificeerde instellingen.
 
-#### § 8.3. Overige bepalingen
+##### Artikel 7.1.2
 
-### Hoofdstuk 9. Wijziging in andere algemene maatregelen van bestuur
+Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein jeugdgezondheidszorg worden aangewezen instanties die de in [artikel 5, tweede lid, van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheden in opdracht van het college uitvoeren.
 
-### Hoofdstuk 10. Slotbepalingen
+##### Artikel 7.1.3
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+1. Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein gezondheidszorg worden aangewezen:
 
-#### § 2.2. Samenwerking
+- a. instanties voor verslavingszorg voor wie het op grond van [artikel 35 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) niet verboden is een tarief in rekening te brengen;
 
-##### Artikel 2.2.1
+- b. instanties voor gehandicaptenzorg die zorg verlenen waarop aanspraak bestaat op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-In de regiovisie wordt in ieder geval opgenomen:
+- c. aanbieders van geestelijke gezondheidszorg waarop ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) dan wel ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) aanspraak bestaat,
 
-- a. de wijze waarop de gemeenten in de regio samen met jeugdhulpaanbieders en professionals in algemene zin afstemmen over schaarste van de vormen van jeugdhulp bedoeld in [artikel 2.19, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19);
+- d. instanties die integrale eerstelijns geneeskundige zorg aanbieden, zoals huisartsen die plegen aan te beiden;
 
-- b. de aanpak van wachttijden en de wijze waarop de gemeenten in de regio samen met jeugdhulpaanbieders maximaal aanvaardbare wachttijden formuleren;
+- e. ziekenhuizen die beschikken over een toelatingsvergunning als bedoeld in [artikel 1, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1), voor zover het spoedeisende hulp betreft.
 
-- c. een voorziening waarmee inspraak mogelijk wordt gemaakt voor jeugdigen en diens wettelijk vertegenwoordigers;
+2. Als categorie van functionarissen als bedoeld in [artikel 7.1.1.2, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein gezondheidszorg worden huisartsen aangewezen.
 
-- d. de wijze waarop de afstemming, bedoeld in [artikel 2.19, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) plaatsvindt;
+##### Artikel 7.1.4
 
-- e. de wijze waarop de afstemming en verbinding wordt geborgd tussen de op grond van [artikel 2.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) gecontracteerde of gesubsidieerde jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en
+1. Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein onderwijs worden aangewezen:
 
-  - 1°. de vormen van jeugdhulp die zijn gecontracteerd door een door alle gemeenten gezamenlijk in stand gehouden landelijk werkende organisatie en waarbij alle gemeenten in de regio uitsluitend gebruikmaken van dat landelijk gecontracteerde aanbod;
+- a. scholen als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
 
-  - 2°. de vormen van jeugdhulp die door de colleges worden gecontracteerd of gesubsidieerd;
+- b. scholen als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- f. de wijze waarop de verbinding wordt geborgd tussen de op grond van [artikel 2.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) gecontracteerde of gesubsidieerde jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en
+- c. scholen als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-  - 1°. jeugdgezondheidszorg als bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
+- d. instellingen als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-  - 2°. zorg of diensten als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- e. instellingen voor hoger onderwijs als bedoeld in [artikel 1.2, onder a of b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2);
 
-  - 3°. maatschappelijke ondersteuning als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
+- f. contactgemeenten als bedoeld in [artikel 9.2.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.4) ten behoeve van de taak, bedoeld in [artikel 9.2.5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.5).
 
-  - 4°. ondersteuning als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+2. Als categorie van functionarissen als bedoeld in [artikel 7.1.1.2, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein onderwijs worden aangewezen ambtenaren als bedoeld in [artikel 16 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16).
 
-- g. de wijze waarop wordt voorzien in regionale expertteams.
+##### Artikel 7.1.5
 
-##### Artikel 2.2.2
+Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein maatschappelijke ondersteuning worden aangewezen de aanbieders in de zin van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), niet zijnde aanbieders van hulpmiddelen of woningaanpassingen.
 
-1. De regio’s, bedoeld in [artikel 2.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.17), zijn:
+##### Artikel 7.1.6
 
-- –. Achterhoek;
+Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein werk en inkomen worden aangewezen de gemeentelijke kredietbanken, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-- –. Alkmaar;
+##### Artikel 7.1.7
 
-- –. Amsterdam-Amstelland;
+Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) in het domein politie en justitie worden aangewezen:
 
-- –. Centraal Gelderland;
+- a. de regionale eenheden van het landelijke politiekorps, genoemd in [artikel 25, eerste lid, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25);
 
-- –. Drenthe;
+- b. Halt-bureaus door Onze Minister van Justitie en Veiligheid aangewezen;
 
-- –. Eemland;
+- c. de regionale locaties van de raad voor de kinderbescherming, bedoeld in [artikel 2 van het Organisatiebesluit raad voor de kinderbescherming 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019732&artikel=2).
 
-- –. Een 10 voor de jeugd;
+#### § 7.2. Inrichting en beheer van de verwijsindex
 
-- –. Flevoland;
+##### Artikel 7.2.1
 
-- –. Friesland;
+1. Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een gemeentelijk signaleringssysteem, draagt het college zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.
 
-- –. Gooi- en Vechtstreek;
+2. Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een ander digitaal systeem dan een gemeentelijk signaleringssysteem, draagt de daarvoor verantwoordelijke zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.
 
-- –. Groningen;
+3. Een aansluiting als bedoeld in het eerste of tweede lid wordt vermoed voldoende zorgvuldig en veilig te zijn als het voldoet aan de eisen zoals deze zijn uitgegeven door het Nederlands Normalisatie-instituut in de NTA 8023, Maatschappelijke zorg – Informatiearchitectuur in de jeugdsector – Deel 1 : Landelijke verwijsindex risicojongeren.
 
-- –. Haaglanden;
+##### Artikel 7.2.2
 
-- –. Haarlemmermeer;
+1. Een instantie die behoort tot een van de categorieën, bedoeld in de [artikelen 7.1.1 tot en met 7.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.1&z=2026-01-01&g=2026-01-01) of een functionaris die behoort tot een van de categorieën, bedoeld in [artikel 7.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.3&z=2026-01-01&g=2026-01-01), of [7.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.4&z=2026-01-01&g=2026-01-01), draagt zorg voor een zorgvuldig en veilig gebruik van de verwijsindex.
 
-- –. Hart van Brabant;
+2. Een instantie of een functionaris wordt vermoed te voldoen aan het bepaalde in het eerste lid als deze voldoet aan de eisen zoals deze zijn uitgegeven door het Nederlands Normalisatie-instituut in de NEN 7510, Medische informatica – Informatiebeveiliging in de zorg – Algemeen.
 
-- –. Holland-Rijnland;
+##### Artikel 7.2.3
 
-- –. IJsselland;
-
-- –. JeugdFV;
-
-- –. Kop van Noord-Holland;
-
-- –. Lekstroom;
-
-- –. Midden-Holland;
-
-- –. Midden IJssel/Oost Veluwe;
-
-- –. Midden-Limburg;
-
-- –. Noord Limburg;
-
-- –. Noord Veluwe;
-
-- –. Noordoost Brabant;
-
-- –. Rijk van Nijmegen;
-
-- –. Rijnmond;
-
-- –. Rivierenland;
-
-- –. Samen voor Jeugd;
-
-- –. Twente;
-
-- –. Utrecht Stad;
-
-- –. Utrecht West;
-
-- –. West Brabant Oost;
-
-- –. West Brabant West;
-
-- –. West Friesland;
-
-- –. Zaanstreek-Waterland;
-
-- –. Zeeland;
-
-- –. Zuid Holland Zuid;
-
-- –. Zuid-Kennemerland IJmond;
-
-- –. Zuid Limburg; en
-
-- –. Zuidoost-Utrecht.
-
-2. In de bijlage behorende bij dit besluit is opgenomen welke gemeenten tot welke regio behoren.
-
-##### Artikel 2.2.3
-
-De vormen van jeugdhulp, bedoeld in [artikel 2.19, eerste lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) zijn:
-
-- a. jeugdhulp met verblijf;
-
-- b. pleegzorg als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
-
-- c. multidisciplinaire specialistische jeugdhulp in verband met meervoudige of complexe problemen, waarbij:
-
-  - 1°. de jeugdige als gevolg van de betreffende problemen aanzienlijke beperkingen in het dagelijks functioneren ervaart;
-
-  - 2°. sprake is van:
-
-    - –. een hoog risico voor de jeugdige of diens omgeving;
-
-    - –. ernstige ontwikkelingsproblemen;
-
-    - –. ernstige opvoedproblemen; of
-
-    - –. crimineel gedrag dan wel een vermoeden daarvan; en
-
-  - 3°. in het geval van multidisciplinaire specialistische jeugdhulp mede bestaande uit geestelijke gezondheidszorg tevens:
-
-    - –. sprake is van een psychische aandoening of een vermoeden daarvan; en
-
-    - –. onvoldoende resultaat wordt verwacht of is gebleken van jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of monodisciplinaire specialistische geestelijke gezondheidszorg;
-
-- d. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering;
-
-- e. jeugdhulp in verband met een zintuiglijke beperking;
-
-- f. jeugdhulp bestaande uit crisishulp die gezien de ernst van de problemen 7 x 24 uur beschikbaar is;
-
-- g. multidisciplinaire jeugdhulp bestaande uit dagbehandeling in groepsverband aan jeugdigen met een verstandelijke beperking, een lichamelijke beperking, ernstige psychische problemen, opvoedproblemen dan wel een vermoeden daarvan of ernstige gedragsproblemen;
-
-- h. jeugdhulp bestaande uit hoogspecialistische geestelijke gezondheidszorg aan jeugdigen die onvoldoende baat hebben gehad of naar verwachting zullen hebben bij jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of specialistische geestelijke gezondheidszorg en waarbij sprake is van één of meer ernstige, complexe of zeldzame aandoeningen dan wel van een voorspelbaar ernstig beloop van klachten;
-
-- i. specialistische jeugdhulp in verband met seksueel misbruik, geweld in afhankelijkheidsrelaties of eergerelateerd geweld;
-
-- j. jeugdhulp in verband met ernstige problemen op het gebied van onzindelijkheid.
-
-##### Artikel 2.2.3a
-
-1. De vormen van jeugdhulp, bedoeld in [artikel 10.3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.3), zijn:
-
-- a. jeugdhulp met verblijf;
-
-- b. pleegzorg als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
-
-- c. multidisciplinaire specialistische jeugdhulp in verband met meervoudige of complexe problemen, waarbij:
-
-  - 1°. de jeugdige als gevolg van de betreffende problemen aanzienlijke beperkingen in het dagelijks functioneren ervaart;
-
-  - 2°. sprake is van:
-
-    - –. een hoog risico voor de jeugdige of diens omgeving;
-
-    - –. ernstige ontwikkelingsproblemen;
-
-    - –. ernstige opvoedproblemen; of
-
-    - –. crimineel gedrag dan wel een vermoeden daarvan; en
-
-  - 3°. in het geval van multidisciplinaire specialistische jeugdhulp mede bestaande uit geestelijke gezondheidszorg tevens:
-
-    - –. sprake is van een psychische aandoening of een vermoeden daarvan; en
-
-    - –. onvoldoende resultaat wordt verwacht of is gebleken van jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of monodisciplinaire specialistische geestelijke gezondheidszorg;
-
-- d. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering;
-
-- e. jeugdhulp in verband met een zintuiglijke beperking;
-
-- f. jeugdhulp bestaande uit crisishulp die gezien de ernst van de problemen 7 x 24 uur beschikbaar is;
-
-- g. multidisciplinaire jeugdhulp bestaande uit dagbehandeling in groepsverband aan jeugdigen met een verstandelijke beperking, een lichamelijke beperking, ernstige psychische problemen, opvoedproblemen dan wel een vermoeden daarvan of ernstige gedragsproblemen;
-
-- h. jeugdhulp bestaande uit hoogspecialistische geestelijke gezondheidszorg aan jeugdigen die onvoldoende baat hebben gehad of naar verwachting zullen hebben bij jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of specialistische geestelijke gezondheidszorg en waarbij sprake is van één of meer ernstige, complexe of zeldzame aandoeningen dan wel van een voorspelbaar ernstig beloop van klachten;
-
-- i. specialistische jeugdhulp in verband met seksueel misbruik, geweld in afhankelijkheidsrelaties of eergerelateerd geweld;
-
-- j. jeugdhulp in verband met ernstige problemen op het gebied van onzindelijkheid.
-
-2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 2.2.4
-
-De vormen van jeugdhulp, bedoeld in [artikel 2.19, eerste lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) zijn:
-
-- a. jeugdhulp met verblijf voor zover:
-
-  - 1°. sprake is van gesloten jeugdhulp als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1); of
-
-  - 2°. deze jeugdhulp mede is gericht op de drie milieus wonen, onderwijs en vrije tijd;
-
-- b. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en:
-
-  - 1°. is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering; en
-
-  - 2°. geen sprake is van jeugdhulp met verblijf;
-
-- c. jeugdhulp bestaande uit crisishulp die gezien de ernst van de problematiek 7 x 24 uur beschikbaar is;
-
-- d. multidisciplinaire specialistische jeugdhulp bestaande uit geestelijke gezondheidszorg in verband met complexe verslavingsproblematiek.
-
-### Hoofdstuk 4. Verplichtingen voor jeugdhulpaanbieders, gecertificeerde instellingen en het college
-
-##### Artikel 4.0.a1
-
-[Artikel 4.4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.4.1) is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
-
-- a. jeugdhulpaanbieders die uitsluitend jeugdhulp leveren die bestaat uit het vervoer van een jeugdige, bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.3); en
-
-- b. gemeenten.
-
-##### Artikel 4.0.a2
-
-1. De interne toezichthouder bestaat uit ten minste drie natuurlijke personen.
-
-2. Een persoon wordt voor ten hoogste vier jaar aangesteld als lid van de interne toezichthouder van de jeugdhulpaanbieder of de gecertificeerde instelling. Deze periode kan eenmaal met ten hoogste vier jaar worden verlengd. De al dan niet aaneengesloten totale periode waarin een persoon lid is van de interne toezichthouder van de jeugdhulpaanbieder of de gecertificeerde instelling is ten hoogste acht jaar.
-
-##### Artikel 4.0.a3
-
-1. De jeugdhulpaanbieder of de gecertificeerde instelling borgt de onafhankelijke taakvervulling door de interne toezichthouder. Dit betekent in ieder geval dat:
-
-- a. een lid van de interne toezichthouder geen andere financiële vergoeding van de jeugdhulpaanbieder of de gecertificeerde instelling ontvangt dan een passende vergoeding voor de als lid van de interne toezichthouder verrichte werkzaamheden;
-
-- b. een lid van de interne toezichthouder, diens echtgenoot of andere levensgezel, pleegkind of bloed- of aanverwant tot in de tweede graad:
-
-  - 1°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen lid is van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling;
-
-  - 2°. in de periode van een jaar voorafgaand aan het lidmaatschap van de interne toezichthouder niet tijdelijk heeft voorzien in de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling bij belet of ontstentenis van een of meer leden van de dagelijkse of algemene leiding;
-
-  - 3°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen werknemer van de jeugdhulpaanbieder of de gecertificeerde instelling is dan wel krachtens een overeenkomst van opdracht werkzaamheden voor de jeugdhulpaanbieder of de gecertificeerde instelling heeft verricht;
-
-  - 4°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen zakelijke relatie onderhoudt met de jeugdhulpaanbieder of de gecertificeerde instelling die de onafhankelijkheid van het lid van de interne toezichthouder dan wel het vertrouwen in die onafhankelijkheid in gevaar brengt;
-
-  - 5°. geen lid is van de dagelijkse of algemene leiding van een andere jeugdhulpaanbieder of gecertificeerde instelling indien een lid van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde lid is van de interne toezichthouder van die andere jeugdhulpaanbieder of de gecertificeerde instelling;
-
-  - 6°. geen aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt;
-
-  - 7°. geen lid is van de dagelijkse of algemene leiding van een rechtspersoon die aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt dan wel van een andere jeugdhulpaanbieder of gecertificeerde instelling die binnen het verzorgingsgebied van de jeugdhulpaanbieder of de gecertificeerde instelling geheel of gedeeltelijk dezelfde werkzaamheden verricht;
-
-  - 8°. geen lid is van de interne toezichthouder van een andere jeugdhulpaanbieder of gecertificeerde instelling die binnen het verzorgingsgebied van de jeugdhulpaanbieder of gecertificeerde instelling geheel of gedeeltelijk dezelfde werkzaamheden verricht, tenzij die andere jeugdhulpaanbieder of gecertificeerde instelling een dochtermaatschappij van de jeugdhulpaanbieder of gecertificeerde instelling is als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) of die andere jeugdhulpaanbieder of gecertificeerde instelling met de jeugdhulpaanbieder of de gecertificeerde instelling is verbonden in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
-
-  - 9°. geen lid is van de interne toezichthouder van een rechtspersoon die aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt, tenzij die rechtspersoon met de jeugdhulpaanbieder of de gecertificeerde instelling is verbonden in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
-
-2. Met jeugdhulpaanbieder of gecertificeerde instelling als bedoeld in het eerste lid, onderdelen a en b, wordt gelijkgesteld een dochtermaatschappij van de jeugdhulpaanbieder of de gecertificeerde instelling als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) alsmede met de jeugdhulpaanbieder of de gecertificeerde instelling in een groep verbonden rechtspersonen of vennootschappen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
-
-3. Onder lid van de dagelijkse of algemene leiding als bedoeld in de subonderdelen 1°, 5° en 7° van onderdeel b van het eerste lid, wordt mede verstaan de natuurlijke persoon die het beleid van de instelling heeft bepaald of mede heeft bepaald, als ware hij lid van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling.
-
-##### Artikel 4.0.a4
-
-1. De interne toezichthouder richt zich bij de vervulling van zijn taak naar het belang van de jeugdhulpaanbieder of de gecertificeerde instelling, het te behartigen maatschappelijke belang en het belang van de betrokken belanghebbenden.
-
-2. De interne toezichthouder stelt een profielschets op voor de leden van de interne toezichthouder rekening houdend met de aard van de instelling, diens activiteiten en de gewenste deskundigheid en achtergrond van de leden van de interne toezichthouder.
-
-##### Artikel 4.0.a5
-
-1. De jeugdhulpaanbieder of de gecertificeerde instelling verschaft de interne toezichthouder tijdig, en desgevraagd schriftelijk, de voor de uitoefening van diens taak noodzakelijke gegevens.
-
-2. De jeugdhulpaanbieder of de gecertificeerde stelt de interne toezichthouder voorts ten minste eenmaal per jaar schriftelijk op de hoogte van in ieder geval:
-
-- a. de hoofdlijnen van het strategisch beleid;
-
-- b. de algemene en financiële risico’s; en
-
-- c. het beheers- en controlesysteem.
-
-#### § 4.1. De vertrouwenspersoon
-
-### Hoofdstuk 5. Professionalisering
-
-### Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
-
-### Hoofdstuk 7. Verwijsindex en beleidsinformatie
+Onze Minister van Volksgezondheid, Welzijn en Sport doet van een wijziging van een norm als bedoeld in [7.2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.2&artikel=7.2.1&z=2026-01-01&g=2026-01-01), of [artikel 7.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.2&artikel=7.2.2&z=2026-01-01&g=2026-01-01), mededeling in de Staatscourant.
 
 #### § 7.3. Verwijsindexservicenummer
 
-#### Subparagraaf 7.4.1. De autorisatielijst
+##### Artikel 7.3.1
 
-#### Subparagraaf 7.4.2. Toegangsmiddelen SBV-Z
+1. Indien een meldingsbevoegde een jeugdige die niet beschikt over een burgerservicenummer meldt aan de verwijsindex, biedt hij daartoe de volgende gegevens van de jeugdige aan in de verwijsindex:
+
+- a. de familienaam;
+
+- b. de geboortedatum;
+
+- c. het geslacht.
+
+2. De gegevens, bedoeld in het eerste lid, worden in de verwijsindex omgezet in een verwijsindexservicenummer, dat vervolgens gebruikt wordt voor de melding in de verwijsindex.
+
+#### § 7.4. Gebruik burgerservicenummer
+
+##### Subparagraaf 7.4.1. De autorisatielijst
+
+##### Artikel 7.4.1.1
+
+1. De aanvraag tot opneming in de autorisatielijst, bedoeld in [artikel 7.2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.2.7), wordt uitsluitend gedaan door een jeugdhulpaanbieder.
+
+2. Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport wordt bepaald welke gegevens en bescheiden worden verstrekt bij de aanvraag.
+
+##### Artikel 7.4.1.2
+
+Onze Minister van Volksgezondheid, Welzijn en Sport stelt, voor zover mogelijk aan de hand van bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde vereisten voor de hoedanigheid van de jeugdhulpaanbieder, vast of de aanvraag, bedoeld in [artikel 7.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=7.4.1.1&z=2026-01-01&g=2026-01-01), is gedaan door een jeugdhulpaanbieder.
+
+##### Artikel 7.4.1.3
+
+1. In de autorisatielijst van jeugdhulpaanbieders wordt per inschrijving opgenomen:
+
+- a. indien de geautoriseerde een natuurlijk persoon is:
+
+   - 1°. de familienaam en voornamen;
+
+   - 2°. de geboortedatum en geboorteplaats;
+
+   - 3°. de titel in de zin van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+
+- b. indien de geautoriseerde een rechtspersoon is: naam van de rechtspersoon;
+
+2. In de autorisatielijst wordt voorts per inschrijving opgenomen:
+
+- a. de aard van de gegevens en bescheiden aan de hand waarvan is vastgesteld dat de geautoriseerde een jeugdhulpaanbieder is;
+
+- b. de datum van opname in het register;
+
+- c. het adres van vestiging;
+
+- d. de gegevens met betrekking tot verstrekte en ingetrokken toegangsmiddelen.
+
+3. Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport kunnen nadere regels worden gesteld over de opname en verwerking van gegevens in de autorisatielijst.
+
+##### Artikel 7.4.1.4
+
+De geautoriseerde stelt Onze Minister van Volksgezondheid, Welzijn en Sport onmiddellijk op de hoogte van een wijziging van de in de autorisatielijst opgenomen gegevens en van andere omstandigheden die van belang kunnen zijn voor het schorsen of doorhalen van de opname.
+
+##### Artikel 7.4.1.5
+
+Zolang de inschrijving van een jeugdhulpaanbieder in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), is geschorst, is zijn opname in de autorisatielijst van jeugdhulpaanbieders geschorst.
+
+##### Artikel 7.4.1.6
+
+Verwijdering van de autorisatielijst kan plaatsvinden:
+
+- a. op verzoek van de geautoriseerde;
+
+- b. indien de geautoriseerde geen jeugdhulpaanbieder meer is;
+
+- c. indien de in de autorisatielijst opgenomen gegevens afwijken van de gegevens die zijn opgenomen in het register van de Kamer van Koophandel; of
+
+- d. indien ten aanzien van een ingeschreven natuurlijk persoon een aantekening als bedoeld in [artikel 9, eerste tot en met vierde lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=9) in het daar genoemde register is geplaatst, waaruit blijkt dat die persoon tijdelijk of blijvend, het betreffende beroep in zijn geheel niet langer mag uitoefenen.
+
+##### Artikel 7.4.1.7
+
+1. Onze Minister van Volksgezondheid, Welzijn en Sport deelt aan een ieder die daarom verzoekt mee of:
+
+- a. een jeugdhulpaanbieder is opgenomen op de autorisatielijst;
+
+- b. een aan een geautoriseerde verstrekt toegangsmiddel geldig is.
+
+2. Indien het verzoek wordt gedaan door de beheerder van het nummerregister of van een voorziening, bedoeld in [artikel 3, eerste lid, onder d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3), wordt de mededeling, bedoeld in het eerste lid, onmiddellijk gedaan.
+
+##### Subparagraaf 7.4.2. Toegangsmiddelen SBV-Z
+
+##### Artikel 7.4.2.1
+
+Jeugdhulpaanbieders kunnen uitsluitend door tussenkomst van de SBV-Z gebruik maken van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
+
+##### Artikel 7.4.2.2
+
+De jeugdhulpaanbieder die is aangesloten op de SBV-Z draagt zorg dat de verbinding van zijn geautomatiseerde systeem met de SBV-Z en de uitwisseling van gegevens tussen zijn geautomatiseerde systeem en de SBV-Z functioneren op een wijze die overeenstemt met hetgeen daarover in de systeembeschrijving is vastgelegd.
+
+##### Artikel 7.4.2.3
+
+Onze Minister van Volksgezondheid, Welzijn en Sport kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De [artikelen 18 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=18) en [33 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=33) zijn van overeenkomstige toepassing, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde.
 
 #### § 7.5. Beleidsinformatie
 
+##### Artikel 7.5.1
+
+1. De structurele verstrekking van gegevens, bedoeld in de [artikelen 7.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.2) en [7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3), vindt plaats op elektronische wijze aan het Centraal Bureau voor de Statistiek.
+
+2. Onze Ministers en het college vragen geen gegevens uit ten behoeve van de doelen bedoeld in [artikel 7.4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.1), indien zij zelf of het Centraal Bureau voor de Statistiek reeds over deze gegevens beschikken en deze gegevens gebruikt kunnen worden ten behoeve van deze doelen.
+
+##### Artikel 7.5.2
+
+1. De structurele verstrekking van gegevens bedoeld in [artikel 7.4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.2) betreft gegevens over de door het college gefinancierde jeugdhulpaanbieders en gecertificeerde instellingen.
+
+2. Een incidentele verstrekking van gegevens uit hoofde van [artikel 7.4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.2) betreft geen persoonsgegevens.
+
+##### Artikel 7.5.3
+
+1. De structurele verstrekking door jeugdhulpaanbieders en gecertificeerde instellingen van gegevens, bedoeld in [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3), betreft:
+
+- a. het burgerservicenummer, de geboortedatum en het geslacht van de jeugdige;
+
+- b. de adresgegevens van de jeugdige, de gezaghebbende ouders, voogd of pleegoudervoogd, in het bijzonder ter aanduiding van de woonplaats als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
+
+- c. de gegevens over de jeugdhulpaanbieder of de gecertificeerde instelling;
+
+- d. de datum van de aanvang van de jeugdhulp, de uitvoering van de kinderbeschermingsmaatregel of de jeugdreclassering;
+
+- e. de einddatum van de jeugdhulp, de uitvoering van de kinderbeschermingsmaatregel of de jeugdreclassering;
+
+- f. het type ingezette jeugdhulp;
+
+- g. een aanduiding van de verwijzer naar jeugdhulp;
+
+- h. de reden van beëindiging van de jeugdhulp;
+
+- i. het type kinderbeschermingsmaatregel of jeugdreclassering;
+
+- j. de datum van het eerste contact van de gecertificeerde instelling met de jeugdige bij de uitvoering van de kinderbeschermingsmaatregel of de jeugdreclassering;
+
+- k. de reden van de beëindiging van de kinderbeschermingsmaatregel of de jeugdreclassering;
+
+- l. de vraag of er al dan niet sprake is van de inzet van een erkende interventie bij jeugdreclassering;
+
+- m. gegevens over de outcome van:
+
+   - 1°. de jeugdhulp die is verleend door een jeugdhulpaanbieder als bedoeld in [artikel 1.1, onderdeel 1°, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), voor zover de gemeente en die jeugdhulpaanbieder hebben afgesproken dat de jeugdhulpaanbieder deze gegevens registreert of in subsidievoorwaarden is opgenomen dat de jeugdhulpaanbieder dit zal registreren, of
+
+   - 2°. gecertificeerde instellingen.
+
+2. Een incidentele verstrekking van gegevens als bedoeld in [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3) door jeugdhulpaanbieders of gecertificeerde instellingen betreft geen persoonsgegevens.
+
+##### Artikel 7.5.4
+
+1. Bij regeling van Onze Ministers wordt voor het structureel verstrekken van de gegevens, genoemd in [artikel 7.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.1&z=2026-01-01&g=2026-01-01), door de instanties genoemd in de [artikelen 7.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.2&z=2026-01-01&g=2026-01-01) en [7.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.3&z=2026-01-01&g=2026-01-01), bepaald:
+
+- a. welke gegevens genoemd in [artikel 7.5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.3&z=2026-01-01&g=2026-01-01), worden verstrekt alsmede, voor zover nodig, een nadere omschrijving van deze gegevens;
+
+- b. de wijze waarop de gegevens worden verstrekt;
+
+- c. de tijdvakken waarop de gegevens die worden verstrekt betrekking hebben;
+
+- d. de termijnen waarbinnen of de tijdstippen waarop de gegevens worden verstrekt.
+
+2. De regeling, bedoeld in het eerste lid, bevat een informatieprotocol.
+
 ### Hoofdstuk 8. Financiën en verantwoording
 
 #### § 8.1. Ouderbijdrage
 
+##### Artikel 8.1.1
+
+*Vervallen*
+
+##### Artikel 8.1.2
+
+*Vervallen*
+
+##### Artikel 8.1.3
+
+*Vervallen*
+
+##### Artikel 8.1.4
+
+*Vervallen*
+
+##### Artikel 8.1.5
+
+*Vervallen*
+
+##### Artikel 8.1.6
+
+*Vervallen*
+
+##### Artikel 8.1.7
+
+*Vervallen*
+
+##### Artikel 8.1.8
+
+*Vervallen*
+
 #### § 8.2. Financiële verantwoording
+
+##### Artikel 8.2.1
+
+Deze paragraaf wordt verstaan onder «gegevens»: de in [artikel 8.3.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.3.2) bedoelde gegevens betreffende de exploitatie van jeugdhulpaanbieders en gecertificeerde instellingen.
+
+##### Artikel 8.2.2
+
+1. Onze Ministers geven per categorie van jeugdhulpaanbieders of gecertificeerde instellingen en per categorie van personen die bij de exploitatie van een jeugdhulpaanbieder of gecertificeerde instelling betrokken zijn, aan, welke gegevens jaarlijks dienen te worden verstrekt.
+
+2. Onze Ministers kunnen voor jeugdhulpaanbieders en gecertificeerde instellingen gelegen binnen een door hen aan te wijzen gebied en voor personen die bij de exploitatie van die jeugdhulpaanbieders of gecertificeerde instellingen betrokken zijn, aangeven welke gegevens op hun desbetreffend verzoek dienen te worden verstrekt.
+
+##### Artikel 8.2.3
+
+1. De gegevens, bedoeld in [artikel 8.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=8&paragraaf=8.2&artikel=8.2.2&z=2026-01-01&g=2026-01-01), worden jaarlijks uiterlijk vijf maanden na het verstrijken van het jaar waarop zij betrekking hebben verstrekt.
+
+2. De gegevens, bedoeld in [artikel 8.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=8&paragraaf=8.2&artikel=8.2.2&z=2026-01-01&g=2026-01-01), worden verstrekt telkens uiterlijk zes maanden na een desbetreffend verzoek van elk van Onze Ministers.
+
+##### Artikel 8.2.4
+
+1. Onze Ministers wijzen instanties aan die de te verstrekken gegevens verzamelen en verwerken.
+
+2. Bij regeling van Onze Ministers worden voorschriften gegeven:
+
+- a. over de wijze waarop en de vorm waarin de gegevens dienen te worden verstrekt;
+
+- b. over de wijze van vergoeding van de kosten, verbonden aan de verstrekking van de gegevens;
+
+- c. over wijze waarop gegevens ter beschikking worden gesteld van de organen genoemd in of betrokken bij de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
+
+- d. die door die instanties, bedoeld in het eerste lid, in acht worden genomen.
 
 #### § 8.3. Overige bepalingen
 
+##### Artikel 8.3
+
+Bij regeling van Onze Ministers kunnen regels worden gesteld over de uitvoering van de taak, bedoeld in [artikel 8.1.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.8) door de Sociale verzekeringsbank, genoemd in [artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3).
+
 ### Hoofdstuk 9. Wijziging in andere algemene maatregelen van bestuur
+
+##### Artikel 9.1
+
+*Wijzigt het Algemeen Rijksambtenarenreglement.*
+
+##### Artikel 9.2
+
+*Wijzigt het Ambtenarenreglement Staten-Generaal.*
+
+##### Artikel 9.3
+
+*Wijzigt het Arbeidstijdenbesluit.*
+
+##### Artikel 9.4
+
+*Wijzigt het Besluit algemene rechtspositie politie.*
+
+##### Artikel 9.5
+
+*Wijzigt het Besluit basisregistratie personen.*
+
+##### Artikel 9.6
+
+*Wijzigt het Besluit beperking verkoop en gebruik tabaksprodukten.*
+
+##### Artikel 9.7
+
+*Wijzigt het Besluit externe klachtencommissie raad voor de kinderbescherming.*
+
+##### Artikel 9.8
+
+*Wijzigt het Besluit gebruik burgerservicenummer in de zorg.*
+
+##### Artikel 9.9
+
+*Wijzigt het Besluit gebruik sofi-nummer Wbp.*
+
+##### Artikel 9.10
+
+*Wijzigt het Besluit geslachtsnaamswijziging.*
+
+##### Artikel 9.11
+
+*Wijzigt het Besluit gezagsregisters.*
+
+##### Artikel 9.12
+
+*Wijzigt het Besluit gezondheidszorgpsycholoog.*
+
+##### Artikel 9.13
+
+*Wijzigt het Besluit justitiële en strafvorderlijke gegevens.*
+
+##### Artikel 9.14
+
+*Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen.*
+
+##### Artikel 9.15
+
+*Wijzigt het Besluit politiegegevens.*
+
+##### Artikel 9.16
+
+*Wijzigt het Besluit studiefinanciering 2000.*
+
+##### Artikel 9.17
+
+*Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.*
+
+##### Artikel 9.18
+
+*Wijzigt het Besluit tenuitvoerlegging jeugdstrafrecht 1994.*
+
+##### Artikel 9.19
+
+*Wijzigt het Besluit verplichte meldcode huiselijk geweld en kindermishandeling.*
+
+##### Artikel 9.20
+
+*Wijzigt het Besluit zorgaanspraken AWBZ.*
+
+##### Artikel 9.21
+
+*Wijzigt de Reclasseringsregeling 1995.*
+
+##### Artikel 9.22
+
+*Wijzigt het Reglement justitiële jeugdinrichtingen.*
+
+##### Artikel 9.23
+
+*Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.*
+
+##### Artikel 9.24
+
+1. Het [Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751) wordt ingetrokken.
+
+2. Het [Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751) blijft van toepassing op de financiële verantwoording, vaststelling, inning of uitbetaling van op grond van dat besluit verleende subsidies en uitkeringen en bijdragen in de kosten voor jeugdzorg.
+
+3. In wettelijke procedures en rechtsgedingen tegen besluiten die op grond van het [Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751) zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, blijven, zowel in eerste aanleg als in verdere instantie, de regels van toepassing, die golden voor de intrekking van dat besluit.
+
+##### Artikel 9.25
+
+*Wijzigt het Uitvoeringsbesluit Wmo 2015.*
 
 ### Hoofdstuk 10. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 10.1
+
+[Artikel 10.0, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.0) is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
+
+- a. jeugdhulpaanbieders als bedoeld in [artikel 4.0.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=4&paragraaf=4.0&artikel=4.0.1&z=2026-01-01&g=2026-01-01);
+
+- b. jeugdhulpaanbieders die binnen de termijn, bedoeld in [artikel 10.0 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.0), de gegevens, bedoeld in [artikel 8.3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.3.1), over het jaar 2021 op de krachtens laatstgenoemd artikel bepaalde wijze hebben openbaar gemaakt; en
+
+- c. jeugdhulpaanbieders die overeenkomstig het bepaalde krachtens [artikel 8.3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.3.1) uitstel hebben verzocht van de in onderdeel b bedoelde openbaarmaking over het jaar 2021.
+
+##### Artikel 10.2
+
+1. Een jeugdhulpaanbieder stelt het veiligheidsplan, bedoeld in [artikel 6.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.1&artikel=6.1.2&z=2026-01-01&g=2026-01-01), vast binnen zes maanden na het tijdstip van inwerkingtreding van de [Wet rechtspositie gesloten jeugdhulp](https://wetten.overheid.nl/jci1.3:c:BWBR0048243).
+
+2. Een jeugdhulpaanbieder voldoet zo spoedig mogelijk, doch in ieder geval binnen zes maanden na het tijdstip van inwerkingtreding van de [Wet rechtspositie gesloten jeugdhulp](https://wetten.overheid.nl/jci1.3:c:BWBR0048243) aan de [artikelen 6.2.5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.5&z=2026-01-01&g=2026-01-01), en [6.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.6&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 10.3
+
+*Vervallen*
+
+##### Artikel 10.4
+
+Een erkenning van een beroepsregister als enig kwaliteitsregister jeugd door Onze Ministers op grond van [artikel 68a, eerste lid, van het Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751&artikel=68a), geldt als erkenning op grond van [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2026-01-01&g=2026-01-01), van dit besluit.
+
+##### Artikel 10.5
+
+*Vervallen*
+
+##### Artikel 10.5a
+
+Dit besluit berust mede op [artikel 46, tweede lid, van de Uitvoeringswet algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
+
+##### Artikel 10.6
+
+Dit besluit wordt aangehaald als: Besluit Jeugdwet.

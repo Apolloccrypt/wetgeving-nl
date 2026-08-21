@@ -1,45 +1,17 @@
 ---
 title: "Regeling beperking geluidhinder militaire luchtvaartuigen boven schietrange de Vliehors"
 identifier: "BWBR0035656"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-12-14"
-last_updated: "2008-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035656"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "12818383"
-version_id: "21776292"
-internal_id: "C31256181"
-label_id: "12788004"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035656/2008-12-14/0"
-intitule_bron: "Stcrt.2008-242"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-28"
-intitule_published: "2008-12-12"
-intitule_in_force: "2008-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-242"
-original_signed_date: "2008-11-28"
-original_published_date: "2008-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-1819"
-entry_into_force_date: "2008-12-14"
-jci_1_3: "jci1.3:c:BWBR0035656&z=2008-12-14&g=2008-12-14"
-jci_1_0: "1.0:c:BWBR0035656&g=2008-12-14"
-citeertitel_status: "officieel"
-signed_date: "2008-11-28"
-entry_into_force: "2008-12-14"
+publicatiedatum: 2008-12-14
+laatste_update: 2008-12-14
+status: geldig
+toestand: 2008-12-14
+bron: "https://wetten.overheid.nl/BWBR0035656"
+opgehaald: 2026-08-21
 ---
+
 # Regeling beperking geluidhinder militaire luchtvaartuigen boven schietrange de Vliehors
-
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op [artikel 2 van het Besluit van 21 mei 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=2), Stb. 1981, 343, houdende vaststelling van enige regels ter beperking van geluidhinder door luchtvaartuigen;
-
-Besluit:
 
 ##### Artikel 1. Algemeen
 
@@ -73,7 +45,7 @@ Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen bove
 
 ##### Artikel 4. Geluidsbelasting
 
-1. De geluidsbelasting vanwege het luchtverkeer op de vastgestelde referentiepunten nabij de woonkernen Cocksdorp te Texel en Oost-Vlieland zal berekend in de Lden-maat niet hoger zijn dan 50 dB(A). De bijlage bij deze regeling geeft een topografische kaart met daarop aangegeven de ligging van de referentiepunten.
+1. De geluidsbelasting vanwege het luchtverkeer op de vastgestelde referentiepunten nabij de woonkernen Cocksdorp te Texel en Oost-Vlieland zal berekend in de Lden-maat niet hoger zijn dan 50 dB(A). De [bijlage](https://wetten.overheid.nl/BWBR0035656) bij deze regeling geeft een topografische kaart met daarop aangegeven de ligging van de referentiepunten.
 
 2. De Minister van Defensie zal de geluidsbelasting vanwege het luchtverkeer op de referentiepunten jaarlijks laten berekenen. Het resultaat van deze berekeningen wordt ter beschikking gesteld aan de Militaire Luchtvaartautoriteit en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
@@ -92,13 +64,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beperking geluidhinder militaire luchtvaartuigen boven schietrange de Vliehors.
-
-## Bijlage. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035656&artikel=4&z=2008-12-14&g=2008-12-14)
-
-### Topografische kaarten met de referentiepunten voor de maximaal toegestane geluidsbelasting vanwege het luchtverkeer
-
-### Kaart 1
-
-### Kaart 2
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

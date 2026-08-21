@@ -1,70 +1,48 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 september 2014, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch specialistische zorg)"
+citeertitel: "Subsidieregeling overgang integrale tarieven medisch specialistische zorg"
 identifier: "BWBR0035565"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-01"
-last_updated: "2016-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035565"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12801343"
-version_id: "23074482"
-internal_id: "C33346811"
-label_id: "12771114"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035565/2016-04-01/0"
-intitule_bron: "Stcrt.2014-26413"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-02"
-intitule_published: "2014-09-23"
-intitule_in_force: "2014-09-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-14895"
-original_signed_date: "2016-03-16"
-original_published_date: "2016-03-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2016-14895"
-entry_into_force_date: "2016-03-16"
-jci_1_3: "jci1.3:c:BWBR0035565&z=2016-04-01&g=2016-04-01"
-jci_1_0: "1.0:c:BWBR0035565&g=2016-04-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling overgang integrale tarieven medisch specialistische zorg"
-signed_date: "2016-03-16"
-entry_into_force: "2016-03-16"
+publicatiedatum: 2016-03-16
+laatste_update: 2016-04-01
+status: geldig
+toestand: 2016-04-01
+bron: "https://wetten.overheid.nl/BWBR0035565"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 september 2014, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch specialistische zorg)
-
-Gelet op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [artikel 5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **arbeidsovereenkomst:** overeenkomst als bedoeld in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+- *arbeidsovereenkomst:* overeenkomst als bedoeld in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- **arts:** persoon ingeschreven als arts in een register als bedoeld in [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
+- *arts:* persoon ingeschreven als arts in een register als bedoeld in [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
 
-- **inspecteur:** inspecteur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
+- *inspecteur:* inspecteur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
 
-- **instelling:** organisatorisch verband dat strekt tot de verlening van zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), met uitzondering van een organisatorisch verband waarbinnen in het kader van de binnen een instelling verleende zorg, een deel van die zorg wordt verleend;
+- *instelling:* organisatorisch verband dat strekt tot de verlening van zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), met uitzondering van een organisatorisch verband waarbinnen in het kader van de binnen een instelling verleende zorg, een deel van die zorg wordt verleend;
 
-- **medisch specialist:** arts als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035565&artikel=2&z=2016-04-01&g=2016-04-01);
+- *medisch specialist:* arts als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035565&artikel=2&z=2016-04-01&g=2016-04-01);
 
-- **Minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- *Minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- **subsidie:** subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035565&artikel=3&z=2016-04-01&g=2016-04-01);
+- *subsidie:* subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035565&artikel=3&z=2016-04-01&g=2016-04-01);
 
-- **vrijgevestigd medisch specialist:** medisch specialist die op basis van toelatingsovereenkomst werkzaam is in een instelling;
+- *vrijgevestigd medisch specialist:* medisch specialist die op basis van toelatingsovereenkomst werkzaam is in een instelling;
 
-- **zorgaanbieder:**
+- *zorgaanbieder:*
 
-- 1. de natuurlijke of de rechtspersoon, die een instelling in stand houdt;
+   - 1. de natuurlijke of de rechtspersoon, die een instelling in stand houdt;
 
-- 2. de natuurlijke personen of de rechtspersonen, die gezamenlijk een instelling vormen.
+   - 2. de natuurlijke personen of de rechtspersonen, die gezamenlijk een instelling vormen.
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 ##### Artikel 2. Medisch specialist en ambtenaar
 
@@ -86,9 +64,9 @@ In deze regeling wordt verstaan onder:
 
 - c. zonder dat sprake is of zal zijn van een andere vergoeding daarvoor dan een onmiddellijke of middellijke vergoeding in de vorm van een geldsom van een zorgaanbieder waarmee hij een arbeidsovereenkomst heeft gesloten:
 
-- 1°. zijn ondernemersactiviteiten als vrijgevestigd medisch specialist als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4) onderscheidenlijk [3.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.5) heeft gestaakt;
+   - 1° zijn ondernemersactiviteiten als vrijgevestigd medisch specialist als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4) onderscheidenlijk [3.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.5) heeft gestaakt;
 
-- 2°. de ondernemingsactiviteiten als vrijgevestigd medisch specialist in een rechtspersoon heeft beëindigd, en
+   - 2° de ondernemingsactiviteiten als vrijgevestigd medisch specialist in een rechtspersoon heeft beëindigd, en
 
 - d. met ingang van het tijdstip, bedoeld in onderdeel b, uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders als medisch specialist werkzaam is en zal zijn.
 
@@ -199,11 +177,3 @@ De Minister verstrekt de subsidie met het oog op de beëindiging na 31 december 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling overgang integrale tarieven medisch specialistische zorg.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst,
-
-##### Artikel 1a
-
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst,

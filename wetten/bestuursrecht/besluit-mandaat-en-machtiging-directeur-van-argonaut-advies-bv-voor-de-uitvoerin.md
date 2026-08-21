@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 11 juli 2014, nr. IENM/BSK-2014/142443, houdende verlening van mandaat en machtiging aan de directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart (Besluit mandaat en machtiging directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart)"
+citeertitel: "Besluit mandaat en machtiging directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart"
 identifier: "BWBR0035368"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-08-01"
-last_updated: "2014-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035368"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12737283"
-version_id: "21559992"
-internal_id: "C30960021"
-label_id: "12707074"
-dtd_version: "2.0"
-original_entry_into_force: "2014-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035368/2014-08-01/0"
-intitule_bron: "Stcrt.2014-20372"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-11"
-intitule_published: "2014-07-22"
-intitule_in_force: "2014-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-20372"
-original_signed_date: "2014-07-11"
-original_published_date: "2014-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-20372"
-entry_into_force_date: "2014-08-01"
-jci_1_3: "jci1.3:c:BWBR0035368&z=2014-08-01&g=2014-08-01"
-jci_1_0: "1.0:c:BWBR0035368&g=2014-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart"
-signed_date: "2014-07-11"
-entry_into_force: "2014-08-01"
+publicatiedatum: 2014-08-01
+laatste_update: 2014-08-01
+status: geldig
+toestand: 2014-08-01
+bron: "https://wetten.overheid.nl/BWBR0035368"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 11 juli 2014, nr. IENM/BSK-2014/142443, houdende verlening van mandaat en machtiging aan de directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart (Besluit mandaat en machtiging directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart)
-
-Gelet op [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gezien de schriftelijke instemming van de directeur van Argonaut Advies B.V. van 6 juni 2014, nr. IENM/BSK-2014/144340;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -81,5 +53,3 @@ Dit besluit treedt in werking met ingang van 1 augustus 2014.
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

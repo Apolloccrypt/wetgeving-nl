@@ -1,35 +1,16 @@
 ---
 title: "Prioriteringsbeleid toezicht en handhaving Wet op de vaste boekenprijs"
 identifier: "BWBR0034894"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-03-14"
-last_updated: "2014-03-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034894"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12596593"
-version_id: "21266922"
-internal_id: "C30539821"
-label_id: "12567114"
-dtd_version: "2.0"
-original_entry_into_force: "2014-03-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034894/2014-03-14/0"
-intitule_bron: "Stcrt.2014-7101"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-03-14"
-intitule_in_force: "2014-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-7101"
-original_published_date: "2014-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-7101"
-entry_into_force_date: "2014-03-14"
-jci_1_3: "jci1.3:c:BWBR0034894&z=2014-03-14&g=2014-03-14"
-jci_1_0: "1.0:c:BWBR0034894&g=2014-03-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-03-14"
+publicatiedatum: 2014-03-14
+laatste_update: 2014-03-14
+status: geldig
+toestand: 2014-03-14
+bron: "https://wetten.overheid.nl/BWBR0034894"
+opgehaald: 2026-08-21
 ---
+
 # Prioriteringsbeleid toezicht en handhaving Wet op de vaste boekenprijs
 
 Het Commissariaat voor de Media geeft met dit beleid inzicht in de wijze waarop hij naleving van de [Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452) (hierna: de Wvbp) bevordert.
@@ -49,6 +30,16 @@ Het Commissariaat maakt een korte analyse van alle klachten en signalen die binn
 Om vast te stellen of aan een klacht of een signaal prioriteit moet worden gegeven kunnen de volgende factoren van belang zijn. De lijst is cumulatief noch limitatief: niet alle factoren hoeven in een voorkomend geval aan de orde te zijn om tot onderzoek over te gaan, net zo min als dat niet noodzakelijkerwijs aan de hand van al deze factoren behoeft te worden uitgelegd waarom in een individueel geval niet tot onderzoek wordt overgegaan.
 
 Het Commissariaat bepaalt de prioriteit van een onderzoek naar een klacht of signaal over een mogelijke overtreding aan de hand van de volgende vragen:
+
+- • Hoe groot is het concurrentieverstorende effect dat met de mogelijke overtreding is gemoeid?
+
+- • Hoe groot is het maatschappelijk gevolg dat met de mogelijke overtreding is gemoeid?
+
+- • Hoe ernstig is de mogelijke overtreding?
+
+- • Is het optreden van het Commissariaat tegen de mogelijke overtreding doelmatig en doeltreffend?
+
+- • Vallen de overtredingen binnen de (jaarlijkse) aandachtspunten die door het Commissariaat bekend zijn gemaakt?
 
 In het geval er sprake is van een aanvraag tot handhavend optreden, houdt het Commissariaat bij de beoordeling van de prioriteit van een onderzoek tevens rekening met het betrokken belang van de aanvrager.
 

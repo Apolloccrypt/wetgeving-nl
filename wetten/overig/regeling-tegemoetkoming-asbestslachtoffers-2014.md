@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2014, nr. 2014-0000018380, tot het opnieuw vaststellen van de Regeling tegemoetkoming asbestslachtoffers teneinde deze uit te breiden met Asbestose (Regeling tegemoetkoming asbestslachtoffers 2014)"
+citeertitel: "Regeling tegemoetkoming asbestslachtoffers 2014"
 identifier: "BWBR0035006"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035006"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12634593"
-version_id: "21339692"
-internal_id: "C30642761"
-label_id: "12605254"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035006/2026-01-01/0"
-intitule_bron: "Stcrt.2014-8920"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-03-21"
-intitule_published: "2014-03-31"
-intitule_in_force: "2014-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-8920"
-original_signed_date: "2014-03-21"
-original_published_date: "2014-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-8920"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0035006&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0035006&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling tegemoetkoming asbestslachtoffers 2014"
-signed_date: "2014-03-21"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0035006"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2014, nr. 2014-0000018380, tot het opnieuw vaststellen van de Regeling tegemoetkoming asbestslachtoffers teneinde deze uit te breiden met Asbestose (Regeling tegemoetkoming asbestslachtoffers 2014)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [9 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=9), en [34a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34a);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,61 +20,62 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **asbest:** stoffen die een of meer van de volgende vezelachtige silicaten bevatten:
+- – *asbest:* stoffen die een of meer van de volgende vezelachtige silicaten bevatten:
 
-- a. actinoliet (Cas-nummer 77536-66-4);
+   - a. actinoliet (Cas-nummer 77536-66-4);
 
-- b. amosiet (Cas-nummer 12172-73-5);
+   - b. amosiet (Cas-nummer 12172-73-5);
 
-- c. anthofylliet (Cas-nummer 77536-67-5);
+   - c. anthofylliet (Cas-nummer 77536-67-5);
 
-- d. chrysotiel (Cas-nummer 12001-29-5);
+   - d. chrysotiel (Cas-nummer 12001-29-5);
 
-- e. tremoliet (Cas-nummer 77536-68-6);
+   - e. tremoliet (Cas-nummer 77536-68-6);
 
-- f. crocidoliet (Cas-nummer 12001-28-4);
+   - f. crocidoliet (Cas-nummer 12001-28-4);
 
-- –. **asbestose:** een aandoening die is gekenmerkt door verbindweefseling (longfibrose) van de long als gevolg van asbestblootstelling;
+- – *asbestose:* een aandoening die is gekenmerkt door verbindweefseling (longfibrose) van de long als gevolg van asbestblootstelling;
 
-- –. **huisgenoot:** de persoon met wie de werknemer een duurzaam hoofdverblijf heeft gehad in dezelfde woning ten tijde van de blootstelling aan asbest;
+- – *huisgenoot:* de persoon met wie de werknemer een duurzaam hoofdverblijf heeft gehad in dezelfde woning ten tijde van de blootstelling aan asbest;
 
-- –. **Instituut Asbestslachtoffers:** Stichting Instituut Asbestslachtoffers te ‘s-Gravenhage;
+- – *Instituut Asbestslachtoffers:* Stichting Instituut Asbestslachtoffers te ‘s-Gravenhage;
 
-- –. **lasten:**
+- – *lasten:*
 
-- a. voorschot;
+   - a. voorschot;
 
-- b. vergoedingen die door de SVB aan het Instituut Asbestslachtoffers worden verstrekt voor de advisering ten behoeve van deze regeling;
+   - b. vergoedingen die door de SVB aan het Instituut Asbestslachtoffers worden verstrekt voor de advisering ten behoeve van deze regeling;
 
-- –. **maligne mesothelioom:** door blootstelling aan asbest veroorzaakte tumor van het longvlies, het buikvlies of het hartvlies als bedoeld in het protocol diagnostiek maligne mesothelioom;
+- – *maligne mesothelioom:* door blootstelling aan asbest veroorzaakte tumor van het longvlies, het buikvlies of het hartvlies als bedoeld in het protocol diagnostiek maligne mesothelioom;
 
-- –. **minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- – *minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **nabestaanden:**
+- – *nabestaanden:*
 
-- a. de langstlevende van de echtgenoten;
+   - a. de langstlevende van de echtgenoten;
 
-- b. bij ontstentenis van de onder a bedoelde persoon, de minderjarige kinderen, tot wie de overledene in familierechtelijke betrekking stond;
+   - b. bij ontstentenis van de onder a bedoelde persoon, de minderjarige kinderen, tot wie de overledene in familierechtelijke betrekking stond;
 
-- c. bij ontstentenis van de onder a en b bedoelde personen, degenen met wie hij in gezinsverband leefde;
+   - c. bij ontstentenis van de onder a en b bedoelde personen, degenen met wie hij in gezinsverband leefde;
 
-- d. bij ontstentenis van de onder a, b en c bedoelde personen, erfgenamen als bedoeld in [Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761), mits een verklaring van erfrecht wordt overgelegd;
+   - d. bij ontstentenis van de onder a, b en c bedoelde personen, erfgenamen als bedoeld in [Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761), mits een verklaring van erfrecht wordt overgelegd;
 
-- –. **productaansprakelijke:** de producent, bedoeld in [artikel 187, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=187), wiens gebrekkig product oorzaak is van de asbestose of het maligne mesothelioom bij de werknemer;
+- – *productaansprakelijke:* de producent, bedoeld in [artikel 187, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=187), wiens gebrekkig product oorzaak is van de asbestose of het maligne mesothelioom bij de werknemer;
 
-- –. **protocol diagnostiek asbestose:** protocol diagnostiek asbestose, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling;
+- – *protocol diagnostiek asbestose:* protocol diagnostiek asbestose, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling;
 
-- –. **protocol diagnostiek maligne mesothelioom:** protocol diagnostiek maligne mesothelioom, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling;
+- – *protocol diagnostiek maligne mesothelioom:* protocol diagnostiek maligne mesothelioom, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling;
 
-- –. **SVB:** Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- – *SVB:* Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- –. **voorschot:** een uitkering als voorschot op de eventuele vordering op de werkgever op wie de immateriële schade kan worden verhaald;
+- – *voorschot:* een uitkering als voorschot op de eventuele vordering op de werkgever op wie de immateriële schade kan worden verhaald;
 
-- –. **werkgever:** de natuurlijke of rechtspersoon voor wie de werknemer arbeid in Nederland verricht of het verricht krachtens een Nederlandse publiekrechtelijke aanstelling of krachtens een arbeidsovereenkomst waarop Nederlands recht van toepassing is of was;
+- – *werkgever:* de natuurlijke of rechtspersoon voor wie de werknemer arbeid in Nederland verricht of het verricht krachtens een Nederlandse publiekrechtelijke aanstelling of krachtens een arbeidsovereenkomst waarop Nederlands recht van toepassing is of was;
 
-- –. **werknemer:** degene die voor een natuurlijke of rechtspersoon arbeid in Nederland verricht of heeft verricht krachtens een Nederlandse publiekrechtelijke aanstelling of krachtens een arbeidsovereenkomst waarop Nederlands recht van toepassing is of was;
+- – *werknemer:* degene die voor een natuurlijke of rechtspersoon arbeid in Nederland verricht of heeft verricht krachtens een Nederlandse publiekrechtelijke aanstelling of krachtens een arbeidsovereenkomst waarop Nederlands recht van toepassing is of was;
 
-- –. **Wet SUWI:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
+- – *Wet SUWI:*
+ [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
 2. In deze regeling wordt met de echtgenoot gelijkgesteld de geregistreerde partner en de persoon die op grond van [artikel 1, derde lid, onder a, en vierde tot en met zevende lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) en de daarop berustende bepalingen mede als zodanig wordt aangemerkt.
 
@@ -118,7 +93,7 @@ De werknemer die op het moment van de aanvraag in leven is en bij wie met toepas
 
 - a. hij aannemelijk heeft gemaakt dat het maligne mesothelioom is veroorzaakt door blootstelling aan asbest tijdens het verrichten van arbeid als werknemer;
 
-- b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte maligne mesothelioom van de werkgever of de productaansprakelijke heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;
+- b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte maligne mesothelioom van de werkgever of de productaansprakelijke heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;
 
 - c. hij zich verplicht tot medewerking aan bemiddeling door het Instituut Asbestslachtoffers tussen hem en de werkgever om de schade vergoed te krijgen en, met inachtneming van onder d, tot medewerking om de schade zo nodig langs gerechtelijke weg vergoed te krijgen;
 
@@ -140,11 +115,11 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 ##### Artikel 5. Beperking recht op voorschot
 
-1. Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) uitsluitend voor zover die betaling lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
+1. Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) uitsluitend voor zover die betaling lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
 
 2. Geen recht op een voorschot bestaat indien de werknemer of diens nabestaanden reeds een:
 
-- a. voorschot op grond van deze regeling of een betaling als bedoeld in de [artikelen 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), en [10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), van € 27.030 of hoger van de werkgever of de productaansprakelijke hebben ontvangen;
+- a. voorschot op grond van deze regeling of een betaling als bedoeld in de [artikelen 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), en [10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), van € 27.030 of hoger van de werkgever of de productaansprakelijke hebben ontvangen;
 
 - b. voorschot of eenmalige uitkering op grond van de [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113) hebben ontvangen;
 
@@ -154,9 +129,9 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 ##### Artikel 6. Hoogte voorschot
 
-1. Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 27.030.
+1. Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 27.030.
 
-2. Indien de werkgever of de productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 27.030 of indien de werknemer een betaling heeft ontvangen als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 27.030.
+2. Indien de werkgever of de productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 27.030 of indien de werknemer een betaling heeft ontvangen als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 27.030.
 
 3. Voor de toepassing van het tweede lid, wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en premies voor de volksverzekeringen op grond van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) in mindering zijn gebracht.
 
@@ -176,7 +151,7 @@ In afwijking van [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 9. Beperkingen recht van huisgenoten op het voorschot
 
-Voor de huisgenoot bestaat geen recht op een voorschot indien aan de huisgenoot of diens nabestaanden reeds een voorschot op grond van deze regeling of een betaling als bedoeld in de [artikelen 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), en [10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), van € 27.030 of hoger door de werkgever of de productaansprakelijke is betaald.
+Voor de huisgenoot bestaat geen recht op een voorschot indien aan de huisgenoot of diens nabestaanden reeds een voorschot op grond van deze regeling of een betaling als bedoeld in de [artikelen 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), en [10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), van € 27.030 of hoger door de werkgever of de productaansprakelijke is betaald.
 
 ### Hoofdstuk 3. Het recht op en de hoogte van een voorschot in geval van asbestose
 
@@ -186,7 +161,7 @@ De werknemer die op het moment van de aanvraag in leven is en bij wie met toepas
 
 - a. hij aannemelijk heeft gemaakt dat de asbestose is veroorzaakt door blootstelling aan asbest tijdens het verrichten van arbeid als werknemer;
 
-- b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte asbestose van de werkgever of de productaansprakelijke heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;
+- b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte asbestose van de werkgever of de productaansprakelijke heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;
 
 - c. hij zich verplicht tot medewerking aan bemiddeling door het Instituut Asbestslachtoffers tussen hem en de werkgever om de schade vergoed te krijgen en, met inachtneming van onder d, tot medewerking om de schade zo nodig langs gerechtelijke weg vergoed te krijgen;
 
@@ -208,11 +183,11 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 ##### Artikel 12. Beperking recht op voorschot
 
-1. Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte asbestose een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) uitsluitend voor zover die betaling lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
+1. Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte asbestose een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) uitsluitend voor zover die betaling lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
 
 2. Geen recht op een voorschot bestaat indien de werknemer of diens nabestaanden reeds een:
 
-- a. voorschot op grond van deze regeling of een betaling als bedoeld in de [artikelen 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), en [10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), van € 27.030 of hoger van de werkgever of de productaansprakelijke hebben ontvangen;
+- a. voorschot op grond van deze regeling of een betaling als bedoeld in de [artikelen 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), en [10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), van € 27.030 of hoger van de werkgever of de productaansprakelijke hebben ontvangen;
 
 - b. voorschot of eenmalige uitkering op grond van de [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113) hebben ontvangen;
 
@@ -222,9 +197,9 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 ##### Artikel 13. Hoogte voorschot
 
-1. Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 27.030.
+1. Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 27.030.
 
-2. Indien de werkgever of productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte asbestose een bedrag heeft betaald dat lager is dan € 27.030 of indien de werknemer een betaling heeft ontvangen als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=12&z=2026-01-01&g=2026-01-01), wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 27.030.
+2. Indien de werkgever of productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte asbestose een bedrag heeft betaald dat lager is dan € 27.030 of indien de werknemer een betaling heeft ontvangen als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=12&z=2026-01-01&g=2026-01-01), wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 27.030.
 
 3. Voor de toepassing van het tweede lid wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en premies voor de volksverzekeringen op grond van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) in mindering zijn gebracht.
 
@@ -282,7 +257,7 @@ Het voorschot wordt door de SVB zo spoedig mogelijk uitbetaald aan de werknemer 
 
 ##### Artikel 19. Indexering van bedragen
 
-De in deze regeling genoemde bedragen worden jaarlijks herzien op 1 januari. De bedragen worden herzien in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in het voorgaande kalenderjaar is herzien op grond van [artikel 14, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14).
+De in deze regeling genoemde bedragen worden jaarlijks herzien op 1 januari. De bedragen worden herzien in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in het voorgaande kalenderjaar is herzien op grond van [artikel 14, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14).
 
 ### Hoofdstuk 6. Uitvoering en financiering
 
@@ -346,66 +321,22 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 - b. de voorschotten die op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=5&artikel=18&z=2026-01-01&g=2026-01-01) zijn teruggevorderd en zijn terugbetaald.
 
-3. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
+3. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
 ### Hoofdstuk 7. Slotbepalingen
 
 ##### Artikel 26. Overgangsrecht
 
-Op een aanvraag voor een eenmalige uitkering of een voorschot ingediend voor 1 april 2014, alsmede op de financiële afwikkeling daarvan, wordt beslist met toepassing van de [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113) zoals die regeling luidde op 31 maart 2014.
+Op een aanvraag voor een eenmalige uitkering of een voorschot ingediend voor 1 april 2014, alsmede op de financiële afwikkeling daarvan, wordt beslist met toepassing van de [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113) zoals die regeling luidde op 31 maart 2014.
 
-##### Artikel 27. Intrekking [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113)
+##### Artikel 27. Intrekking Regeling tegemoetkoming asbestslachtoffers
 
 De [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113) wordt ingetrokken.
 
 ##### Artikel 28. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 april 2014.
+Deze regeling treedt in werking met ingang van 1 april 2014.
 
 ##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming asbestslachtoffers 2014.
-
-## Bijlage 1. behorende bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), van de Regeling tegemoetkoming asbestslachtoffers 2014
-
-### Protocol diagnostiek asbestose
-
-### 1. Algemeen
-
-### 2. Vaststellen van asbestose
-
-Asbestose is een vorm van longfibrose, ontstaan door blootstelling aan asbest. Voor de diagnose is essentieel dat een longfibrose wordt vastgesteld (zie 2.1 en 2.2) én dat er een significante asbestexpositie is geweest (zie 2.4).
-
-Arbeidsanamnese: vaststellen intensieve, langdurige asbestblootstelling als werknemer of anderszins beroepsmatig. De vermeende asbestblootstelling kan allereerst worden vastgesteld door middel van een historisch onderzoek naar de blootstelling aan asbest. Hierin dient te worden vastgesteld dat betrokkene als werknemer of anderszins beroepsmatig langdurig en intensief aan asbest is blootgesteld. De Gezondheidsraad adviseert in haar advies inzake asbestose (1999) een ondergrens van vijf vezeljaren aan te houden.
-
-De beoordeling van deze voorwaarde vindt plaats conform bijlage E: Risicomatrix van het protocol asbestziekten: asbestose van de Gezondheidsraad (1999). De matrix bepaalt hoeveel jaar bepaalde werkzaamheden moeten zijn verricht of gewerkt moet zijn in een bepaald beroep om de blootstellingsdrempel voor asbestose te overschrijden3De matrix met de daarin opgenomen blootstellingsdrempels zal worden herzien indien de Gezondheidsraad in de toekomst hieromtrent anders adviseert..
-
-Om de blootstellingsdrempel te bepalen worden allereerst de werkzaamheden of het beroep van de betrokkene ingedeeld in één van de genoemde werkzaamheden en beroepen in de matrix. Vervolgens moet worden bepaald in welke kalenderjaren de betrokkene is blootgesteld. Aan de hand van deze twee factoren kan in de tabel worden afgelezen welke blootstellingsdrempel van toepassing is. Indien de aanvrager niet gedurende het gehele kalenderjaar voltijds (minimaal 36 uur per week) werkzaam was, maar in deeltijd werkte of slechts een gedeelte van het jaar heeft gewerkt dan wordt dat kalenderjaar slechts gedeeltelijk meegeteld bij de beoordeling of is voldaan aan de blootstellingsdrempel. Het equivalent van 1 jaar blootstelling in voltijd kan dan worden bereikt door de blootstellingsduren in verschillende jaren bij elkaar op te tellen. Het equivalent van 1 jaar blootstelling in voltijd wordt bereikt als iemand in totaal 12 maanden is blootgesteld tijdens zijn arbeid. Hierbij geldt, indien nodig, dat 1 maand gelijk is aan 4 weken of 20 dagen.
-
-Als de betrokkene minimaal is blootgesteld aan de volgens de matrix vastgestelde blootstellingsdrempel wordt voldaan aan de voorwaarde. Indien betrokkene niet aan deze voorwaarden voldoet, komt hij niet in aanmerking voor voorschot en bemiddeling. In de situatie waarin het beroep van betrokkene of diens werkzaamheden niet te koppelen zijn aan de risicomatrix kan niet worden vastgesteld dat betrokkene aan deze voorwaarde voldoet. De expertgroep van het NVALT (voor toelichting zie art. 4.2) is bevoegd om in het geval waarin op basis van de arbeidsanamnese wel duidelijk sprake is geweest van intensieve en langdurige asbestblootstelling te oordelen dat aan de blootstellingsdrempel is voldaan.
-
-### 3. Vaststelling van de ernst van de stoornis van de longfunctie
-
-De ernst van de beperkingen die een aanvrager ondervindt als gevolg van de asbestose dient te worden vastgesteld.
-
-### 4. Procedure met betrekking tot de diagnose asbestose en de vaststelling van het longfunctieverlies
-
-### 5. Medische informatieverstrekking
-
-## Bijlage 2. behorende bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), van de Regeling tegemoetkoming asbestslachtoffers 2014
-
-### Protocol diagnostiek maligne mesothelioom
-
-### 1. Algemeen
-
-### 2. Procedure met betrekking tot het onderzoek naar de diagnose
-
-De volgende situaties kunnen worden onderscheiden:
-
-### 3. Procedure met betrekking tot het histologisch en cytologisch onderzoek door het NMP
-
-### 4. Beoordeling van het histologisch en cytologisch onderzoek door het NMP
-
-### 5. Procedure met betrekking tot het expertoordeel van de NVALT
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.

@@ -2,31 +2,50 @@
 title: "Aanwijzing opsporingsbevoegdheden"
 identifier: "BWBR0035498"
 categorie: "Overig"
-publicatiedatum: 2026-05-01
-laatste_update: 2026-05-05
+soort: "beleidsregel"
+publicatiedatum: 2014-09-01
+laatste_update: 2026-05-01
 status: geldig
+toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0035498"
+opgehaald: 2026-08-21
 ---
 
 # Aanwijzing opsporingsbevoegdheden
 
 ### Hoofdstuk 1. Algemeen
 
-### 1.1. [Wet bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010478)
+### 1.1. Wet bijzondere opsporingsbevoegdheden
 
-Op 1 februari 2000 is de [Wet Bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010478) (hierna: Wet BOB) in werking getreden. Deze wet introduceerde in [Boek I van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&boek=Eerste) een regeling voor nieuwe opsporingsbevoegdheden en daarmee samenhangende procedures. Deze wet was een uitvloeisel van het onderzoek dat door de Parlementaire Enquêtecommissie Opsporingsmethoden (PEC) is verricht naar de praktijk van de opsporing en de door deze commissie gedane normeringvoorstellen.
+Achtergrond
+
+Op 1 februari 2000 is de [Wet Bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010478) (hierna: Wet BOB) in werking getreden. Deze wet introduceerde in [Boek I van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&boek=Eerste) een regeling voor nieuwe opsporingsbevoegdheden en daarmee samenhangende procedures. Deze wet was een uitvloeisel van het onderzoek dat door de Parlementaire Enquêtecommissie Opsporingsmethoden (PEC) is verricht naar de praktijk van de opsporing en de door deze commissie gedane normeringvoorstellen.
 
 Deze [Wet BOB](https://wetten.overheid.nl/jci1.3:c:BWBR0010478) bevat:
+
+- 1. een regeling van de bijzondere opsporingsbevoegdheden observatie, infiltratie, pseudokoop, pseudodienstverlening, stelselmatige informatie-inwinning, betreden van een besloten plaats en opnemen van vertrouwelijke communicatie met een technisch hulpmiddel;
+
+- 2. een regeling van verscheidene vormen van bijstand aan opsporing door burgers, zoals de art. 126v Sv-persoon, de burgerinfiltrant en de burgerpseudokoop- of dienstverlening;
+
+- 3. een (herziene) regeling van de bevoegdheid van het opnemen van telecommunicatie en het
+
+- 4. vorderen van inlichtingen;
+
+- 5. een nieuwe grondslag voor de toepassing van opsporingsbevoegdheden, namelijk het vermoeden dat in georganiseerd verband ernstige misdrijven worden beraamd of gepleegd; en
+
+- 6. een regeling van het verkennend onderzoek.
 
 Met deze wet kregen opsporingsmethoden die risicovol zijn voor de integriteit en de beheersbaarheid van de opsporing, dan wel die naar huidig inzicht een meer dan beperkte inbreuk kunnen maken op grondrechten van burgers, een specifieke basis in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
 De bijzondere opsporingsbevoegdheden zijn opgenomen in de [titels IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=V). Inhoudelijk gezien komt de omschrijving van de in deze titels opgenomen opsporingsbevoegdheden nagenoeg overeen en gelden vrijwel ook dezelfde procedurele voorschriften.1Uitzonderingen hierop zijn de artt. 126l/126s Sv en artt. 126m/126t Sv. In de artt. 126l en 126m Sv geldt niet het vereiste dat verdachte aan het gesprek moet deelnemen, terwijl in de artt. 126s en 126t Sv het vereiste is opgenomen dat uit feiten of omstandigheden een redelijk vermoeden voortvloeit dat de betrokkene bij het georganiseerd verband wel aan de gesprekken deelneemt die opgenomen zullen worden. Alleen het verdenkingscriterium op basis waarvan de in de titels IVa en V opgenomen bevoegdheden kunnen worden toegepast, verschilt. In titel IVa is voor alle bevoegdheden als verdenkingscriterium opgenomen: een op feiten of omstandigheden gebaseerd redelijk vermoeden dat een strafbaar feit is begaan, terwijl in titel V als verdenkingscriterium is opgenomen: een op feiten of omstandigheden gebaseerd redelijk vermoeden dat in georganiseerd verband misdrijven worden beraamd of gepleegd als omschreven in [art. 67 lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67), die gezien hun aard of samenhang met andere misdrijven die in dat georganiseerd verband worden beraamd of gepleegd een ernstige inbreuk op de rechtsorde opleveren.
 
-Het criterium van de betrokkenheid bij het georganiseerde verband moet worden onderscheiden van de criteria die gelden voor de deelneming aan een criminele organisatie ([art. 140 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140)). Voor strafbaarheid van deelneming aan een criminele organisatie is vereist dat **deelgenomen** is aan een organisatie die als **oogmerk** heeft het plegen van misdrijven. Voor het begrip organisatie wordt beslissend geacht dat sprake is van een **gestructureerd en duurzaam samenwerkingsverband** van meerdere personen.
+Het criterium van de betrokkenheid bij het georganiseerde verband moet worden onderscheiden van de criteria die gelden voor de deelneming aan een criminele organisatie ([art. 140 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140)). Voor strafbaarheid van deelneming aan een criminele organisatie is vereist dat *deelgenomen* is aan een organisatie die als *oogmerk* heeft het plegen van misdrijven. Voor het begrip organisatie wordt beslissend geacht dat sprake is van een *gestructureerd en duurzaam samenwerkingsverband* van meerdere personen.
 
 Blijkens de wetsgeschiedenis mogen de bijzondere opsporingsbevoegdheden niet worden toegepast met de uitsluitende bedoeling om de informatiepositie van de politie te verbeteren. De inzet van de opsporingsbevoegdheden moet een strafvorderlijk doel dienen.
 
-Sinds de inwerkingtreding van de [Wet BOB](https://wetten.overheid.nl/jci1.3:c:BWBR0010478) zijn op het gebied van de opsporingsbevoegdheden diverse nieuwe wetten in werking getreden, zoals de Wet Bevoegdheden vorderen gegevens (**Stb.** 2005, 390), de [Wet Computercriminaliteit II](https://wetten.overheid.nl/jci1.3:c:BWBR0019934) (**Stb.** 2006, 300) en de Wet verruiming mogelijkheden opsporing en vervolging van terroristische misdrijven (**Stb.** 2006, 731) en zijn thans de bijzondere opsporingsbevoegdheden opgenomen in de [titels IVa tot en met VC van Boek I van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA).
+Sinds de inwerkingtreding van de [Wet BOB](https://wetten.overheid.nl/jci1.3:c:BWBR0010478) zijn op het gebied van de opsporingsbevoegdheden diverse nieuwe wetten in werking getreden, zoals de Wet Bevoegdheden vorderen gegevens (*Stb.* 2005, 390), de [Wet Computercriminaliteit II](https://wetten.overheid.nl/jci1.3:c:BWBR0019934) (*Stb.* 2006, 300) en de Wet verruiming mogelijkheden opsporing en vervolging van terroristische misdrijven (*Stb.* 2006, 731) en zijn thans de bijzondere opsporingsbevoegdheden opgenomen in de [titels IVa tot en met VC van Boek I van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA).
+
+Aanwijzing
 
 Het openbaar ministerie heeft op grond van [art. 148 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=148) het gezag en de verantwoordelijkheid over de opsporing. Deze lijn is in de [Wet BOB](https://wetten.overheid.nl/jci1.3:c:BWBR0010478) consequent doorgetrokken en versterkt. Dit betekent dat bijzondere opsporingsbevoegdheden uitsluitend kunnen worden toegepast op bevel of vordering van de officier van justitie of een opsporingsambtenaar (i.g.v. de toepassing van de [artt. 126na](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126na) en [126nc Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)). Bij zeer ingrijpende opsporingsbevoegdheden is bovendien een machtiging van de rechter-commissaris vereist.
 
@@ -34,17 +53,21 @@ Om te bewerkstelligen dat in de praktijk van de opsporing en de vervolging op un
 
 In de tekst van het Handboek werd de Aanwijzing opsporingsbevoegdheden – waarin de voor de (bijzondere) opsporingsbevoegdheden geldende beleidsregels zijn beschreven – verwerkt. Hierdoor kreeg de tekst van het Handboek, met uitzondering van de in het Handboek opgenomen wetteksten, overige regelgeving, jurisprudentie en voorbeelden, de status van aanwijzing.
 
-Inmiddels is de onderhavige nieuwe Aanwijzing opsporingsbevoegdheden opgesteld (inwerkingtreding per 1 maart 2011) die is losgekoppeld van het Handboek. Het Handboek heeft hierdoor geen zelfstandige normatieve werking meer, maar slechts nog een toelichtend karakter. In het Handboek is informatie opgenomen die, hoewel niet dwingend voorgeschreven, van belang is voor de toepassing van bijzondere opsporingsbevoegdheden in de praktijk. Te denken valt bijvoorbeeld aan jurisprudentie, voorbeelden, nadere omschrijvingen van definities en begrippen en procedurebeschrijvingen.
+Inmiddels is de onderhavige nieuwe Aanwijzing opsporingsbevoegdheden opgesteld (inwerkingtreding per 1 maart 2011) die is losgekoppeld van het Handboek. Het Handboek heeft hierdoor geen zelfstandige normatieve werking meer, maar slechts nog een toelichtend karakter. In het Handboek is informatie opgenomen die, hoewel niet dwingend voorgeschreven, van belang is voor de toepassing van bijzondere opsporingsbevoegdheden in de praktijk. Te denken valt bijvoorbeeld aan jurisprudentie, voorbeelden, nadere omschrijvingen van definities en begrippen en procedurebeschrijvingen.
 
 ### Hoofdstuk 2. Bijzondere opsporingsbevoegdheden
 
 ### 2.1. Betreden besloten plaatsen
 
+Algemeen
+
 De in de [artt. 126k](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126k)/[126r Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126r) geregelde bevoegdheid om besloten plaatsen te betreden is een zelfstandige bijzondere bevoegdheid die moet worden onderscheiden van de in de [artt. 126g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g)/[126o Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o) (stelselmatige observatie) en [126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) (opnemen van vertrouwelijke communicatie) geregelde betredingsbevoegdheden. In deze laatste gevallen gaat het namelijk om afgeleide bevoegdheden die de toepassing van een bijzondere opsporingsbevoegdheid mogelijk maken.
 
 In de [artt. 126k](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126k)/[126r Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126r) wordt een limitatieve opsomming gegeven van de opsporingsactiviteiten die op een besloten plaats (niet zijnde een woning) kunnen worden uitgeoefend. Het gaat om het opnemen van die plaats, het aldaar veiligstellen van sporen of het plaatsen van een technisch hulpmiddel teneinde de aanwezigheid of verplaatsing van een goed vast te kunnen stellen.
 
-Indien opsporingsambtenaren in het kader van de uitvoering van een bevel ex [artt. 126k](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126k)/[126r Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126r) in een besloten plaats worden geconfronteerd met voorwerpen waarvan het aanwezig hebben of voorhanden hebben volgens de wet verboden is vanwege schadelijkheid voor de volksgezondheid (bijvoorbeeld drugs) of gevaar voor de veiligheid (bijvoorbeeld vuurwapens) bestaat in beginsel een verplichting tot onmiddellijke inbeslagneming ([art. 126ff Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff)). In dit geval zal in overleg met de officier van justitie bepaald moeten worden of tot inbeslagneming kan worden overgegaan of dat de inbeslagneming kan worden uitgesteld (zie hieromtrent het paragraaf 4.1 uitgestelde inbeslagneming en het verbod op doorlaten).
+Indien opsporingsambtenaren in het kader van de uitvoering van een bevel ex [artt. 126k](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126k)/[126r Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126r) in een besloten plaats worden geconfronteerd met voorwerpen waarvan het aanwezig hebben of voorhanden hebben volgens de wet verboden is vanwege schadelijkheid voor de volksgezondheid (bijvoorbeeld drugs) of gevaar voor de veiligheid (bijvoorbeeld vuurwapens) bestaat in beginsel een verplichting tot onmiddellijke inbeslagneming ([art. 126ff Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff)). In dit geval zal in overleg met de officier van justitie bepaald moeten worden of tot inbeslagneming kan worden overgegaan of dat de inbeslagneming kan worden uitgesteld (zie hieromtrent het [paragraaf 4.1](https://wetten.overheid.nl/BWBR0035498) uitgestelde inbeslagneming en het verbod op doorlaten).
+
+Procedure
 
 In het bevel moeten de feiten en omstandigheden vermeld worden waaruit blijkt dat is voldaan aan de voorwaarden, zoals bedoeld in de [artt. 126k](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126k)/[126r lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126r). Daarnaast zal in het bevel de plaats waarop het bevel betrekking heeft, de wijze waarop aan het bevel uitvoering wordt gegeven en het tijdstip waarop, of de periode waarbinnen aan het bevel uitvoering wordt gegeven, vermeld moeten worden. In het aanvraagproces-verbaal van politie zal reeds zijn ingegaan op voornoemde vereisten, zodat in het bevel van de officier van justitie hiernaar kan worden verwezen. Daarnaast zal in het bevel ook moeten worden aangegeven, voor zover dat van toepassing is, dat zich in een besloten plaats andere besloten ruimten bevinden alwaar moet worden binnengetreden (zoals bijvoorbeeld een container, een afzonderlijke kantoorruimte of een besloten opbergplaats).
 
@@ -54,13 +77,21 @@ Hoewel de wet niets vermeldt over het verwijderen van technische hulpmiddelen, i
 
 ### 2.2. Observatie
 
+Algemeen
+
 Er is sprake van stelselmatige observatie in de zin van de [artt. 126g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g)/[126o Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o) indien het observeren van een persoon tot gevolg kan hebben dat er een min of meer volledig beeld van bepaalde aspecten van iemands leven wordt verkregen. Een aantal elementen is hierbij van belang: de duur, de plaats, de intensiteit of de frequentie van de observatie en het gebruik van een technisch hulpmiddel dat meer biedt dan alleen versterking van de zintuigen. Elk voor zich, maar met name in combinatie, zijn deze elementen bepalend voor de beantwoording van de vraag of in een bepaald geval een min of meer volledig beeld van bepaalde aspecten van iemands leven wordt verkregen. Het gaat in het geval van stelselmatige observatie dus om de meer ingrijpende vormen van observatie die een verdergaande inbreuk maken op de persoonlijke levenssfeer van de geobserveerde. De officier van justitie zal dan ook vooraf moeten bepalen tot welk resultaat de voorgenomen observaties zouden kunnen leiden. Indien te verwachten valt dat er een min of meer volledig beeld van bepaalde aspecten van iemands leven wordt verkregen, zal de officier van justitie op grond van de artt. 126g/126o Sv een bevel stelselmatige observatie moeten verstrekken.
 
-In het kader van stelselmatige observatie mag slechts gebruik gemaakt worden van een technisch hulpmiddel dat voldoet aan de kwaliteitseisen die zijn uitgewerkt in het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (**Stb.** 2006, 524 en – dit Besluit is nadien gewijzigd – **Stb.** 2007, 121). Indien het belang van het onderzoek dat dringend vordert, kan de officier van justitie zonodig bepalen dat in het kader van de uitvoering van een bevel stelselmatige observatie een bepaald technisch hulpmiddel wordt ingezet, terwijl dat technisch hulpmiddel niet is gekeurd of de keuring daarvan is vervallen ([art. 17 Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=17)).
+Inzet van technische hulpmiddelen
+
+In het kader van stelselmatige observatie mag slechts gebruik gemaakt worden van een technisch hulpmiddel dat voldoet aan de kwaliteitseisen die zijn uitgewerkt in het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (*Stb.* 2006, 524 en – dit Besluit is nadien gewijzigd – *Stb.* 2007, 121). Indien het belang van het onderzoek dat dringend vordert, kan de officier van justitie zonodig bepalen dat in het kader van de uitvoering van een bevel stelselmatige observatie een bepaald technisch hulpmiddel wordt ingezet, terwijl dat technisch hulpmiddel niet is gekeurd of de keuring daarvan is vervallen ([art. 17 Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=17)).
 
 Het plaatsen van een camera (met zicht) in een woning is niet toegestaan. De wetgever heeft deze vorm van stelselmatige observatie een te forse inbreuk op de privacy gevonden.
 
-Zie wat betreft het betreden van een besloten plaats, niet zijnde een woning, in verband met het plaatsen dan wel verwijderen van technische hulpmiddelen ter uitvoering van een bevel stelselmatige observatie, paragraaf 2.1 Betreden besloten plaatsen, onder Procedure, 3e alinea.
+Betreden van besloten plaatsen
+
+Zie wat betreft het betreden van een besloten plaats, niet zijnde een woning, in verband met het plaatsen dan wel verwijderen van technische hulpmiddelen ter uitvoering van een bevel stelselmatige observatie, [paragraaf 2.1](https://wetten.overheid.nl/BWBR0035498) Betreden besloten plaatsen, onder Procedure, 3e alinea.
+
+Procedure
 
 Een bevel van de officier van justitie tot stelselmatige observatie kan aan iedere opsporingsambtenaar worden verstrekt. Gezien het mogelijke afbreukrisico dat de uitvoering van deze bevoegdheid met zich mee kan brengen, verdient het aanbeveling om de leden van een observatieteam te belasten met de uitvoering van een bevel stelselmatige observatie. Het betreden van een besloten plaats (niet zijnde een woning) teneinde aldaar een technisch hulpmiddel te plaatsen ter uitvoering van een bevel stelselmatige observatie – in geval van verdenking van een misdrijf als omschreven in [art. 67, eerste lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67) dat een ernstige inbreuk op de rechtsorde oplevert, ([art. 126g lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g)/[126o leden 1 en 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o)) –, mag uitsluitend worden verricht door daartoe door de korpsbeheerder (of diensthoofd indien het een bijzondere opsporingsdienst of de Koninklijke Marechaussee (hierna: KMar) betreft) aangewezen en ter zake deskundige opsporingsambtenaren.
 
@@ -70,35 +101,99 @@ Indien een officier van justitie tot het oordeel komt dat een voorgenomen observ
 
 ### 2.3. Vorderen van gegevens (tele)communicatie
 
+Algemeen
+
 De aanbieders van een openbaar telecommunicatienetwerk of -dienst hebben op grond van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) de verplichting om medewerking te verlenen aan een vordering op grond van een in dit hoofdstuk te bespreken opsporingsbevoegdheid. Deze plicht tot medewerking geldt slechts ten aanzien van gegevens die de aanbieder bij zijn normale bedrijfsuitoefening ter beschikking heeft of krijgt. Uitzondering hierop is de in [art. 13.4 lid 2 Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) geregelde specifieke bewaarplicht van gegevens die nodig zijn voor het doen van een bestandsanalyse ([artt. 126na](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126na)/[126ua lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ua)). Deze gegevens moeten namelijk drie maanden door de aanbieder worden bewaard vanaf het tijdstip waarop deze gegevens voor de eerste maal zijn verwerkt.
 
 In de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) is geen verplichting tot medewerking opgenomen voor aanbieders van geheel of gedeeltelijk besloten communicatienetwerken en -diensten alsmede degenen die in de uitoefening van een beroep of bedrijf gegevens verwerken of opslaan ten behoeve van een communicatiedienst of diens gebruikers. Deze aanbieders dienen echter wel te voldoen aan een vordering die bevoegd is gegeven op basis van een in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) toegekende bevoegdheid (niet-naleving daarvan is strafbaar op grond van [art. 184 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184)). Indien er geen verkeersgegevens of gebruikersgegevens door desbetreffende aanbieder kunnen worden gegenereerd of indien de aanbieder daartoe geen toegang heeft, kan de vordering niet gegeven (en in ieder geval niet opgevolgd) worden.
+
+Vordering verstrekking verkeersgegevens (
+
+artt. 126n
+
+126u Sv
+
+art. 126ng
+
+126ug
 
 Op grond van een vordering verstrekking verkeersgegevens kunnen van een aanbieder van een communicatiedienst verkeersgegevens worden verkregen slechts indien er sprake is (geweest) van communicatieverkeer. Dat wil zeggen dat er verbinding (of een poging daartoe) moet zijn (geweest) tussen een geautomatiseerd werk (zoals een telefoon of een computer) en een ander geautomatiseerd werk. Indien een mobiele telefoon slechts stand-by staat, worden er wel locatiegegevens van de betreffende mobiele telefoon gegenereerd, maar deze gegevens kunnen echter niet op grond van de [artt. 126n](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n)/[126u Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126u) worden gevorderd. In dit geval is er namelijk geen sprake (geweest) van communicatieverkeer. Locatiegegevens kunnen, in het geval een telefoon slechts stand-by staat, wel worden gevorderd op grond van de [artt. 126ng](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ng)/[126ug](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ug) jo [126ne](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ne)/[126ue Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ue).
 
 Op grond van de [artt. 126n](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n)/[126u Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126u) kunnen ook gegevens worden gevorderd over ‘een gebruiker van een communicatiedienst’. Het ligt dus niet voor de hand om op basis van deze artikelen mastverkeersgegevens te vorderen. Mastverkeersgegevens geven namelijk informatie over al het communicatieverkeer dat gedurende een bepaalde periode via een bepaald basisstation (ook wel zendmast of -paal genaamd) heeft plaatsgevonden. Wel zal in de vordering, indien bekend, de naam of anders een zo nauwkeurige aanduiding van de persoon of personen over wie de gegevens worden gevorderd moeten worden opgenomen ([art. 126nd, derde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nd)). In dit geval zal de bevoegdheid van de [artt. 126ng](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ng)/[126ug lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ug) jo 126nd/[126ud Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ud) moeten worden toegepast omdat op grond hiervan gegevens kunnen worden opgevraagd over een groep personen.
 
+Vordering verstrekking gebruikersgegevens (bestandsanalyse) (
+
+artt. 126na
+
+126ua lid 2 Sv
+
 Een aanbieder van een openbaar (mobiel) telecommunicatienetwerk of -dienst kan slechts dan overgaan tot het doen van een bestandsanalyse indien door politie of justitie gegevens worden verstrekt over de locaties waar en de tijdstippen waarop de gebruiker gebruik heeft gemaakt van communicatie. Op basis van deze gegevens kan door de aanbieder worden vastgesteld over welke basisstations (ook wel zendmasten of -palen genaamd) de communicatie is verzonden. Vervolgens kan de aanbieder door toepassing van een bestandsanalyse het aansluit- of abonneenummer (en de daaraan gekoppelde gebruikersgegevens) achterhalen.
+
+Vergaring nummergegevens (IMSI-catcher) (
+
+artt. 126nb
+
+126ub Sv
 
 De IMSI-catcher mag ten behoeve van het vergaren van nummergegevens pas worden ingezet nadat de officier van justitie binnen kantooruren en op werkdagen aan alle aanbieders van een openbaar (mobiel) communicatienetwerk of -dienst een vordering bestandsanalyse heeft gedaan. Indien dusdanige spoed geboden is of in het geval de benodigde informatie niet (tijdig) of niet op voldoende effectieve wijze kan worden verkregen door middel van een bestandsanalyse dan kan ook direct worden overgegaan tot de inzet van de IMSI-catcher.
 
-De IMSI-catcher mag slechts worden toegepast door daartoe aangewezen opsporingsambtenaren die voldoen aan de door de Minister van Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de IMSI-catcher. Deze eisen zijn nader uitgewerkt in het [Besluit bijzondere vergaring nummergegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013213) (**Stb.** 2002, 31)).
+De IMSI-catcher mag slechts worden toegepast door daartoe aangewezen opsporingsambtenaren die voldoen aan de door de Minister van Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de IMSI-catcher. Deze eisen zijn nader uitgewerkt in het [Besluit bijzondere vergaring nummergegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013213) (*Stb.* 2002, 31)).
+
+Vordering verstrekking gegevens bestemd voor of afkomstig van een aanbieder van een communicatiedienst (
+
+artt. 126ng
+
+126ug lid 1 Sv
 
 Op grond van de [artt. 126ng](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ng)/[126ug lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ug) jo [126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc)-[126ne](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ne)/[126ue Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ue) kan de officier van justitie identificerende en andere dan identificerende gegevens (historische en toekomstige gegevens) vorderen van een aanbieder van een communicatiedienst, voor zover de te vorderen gegevens niet gevorderd kunnen worden op grond van de bevoegdheden tot het vorderen van gebruikersgegevens ([artt. 126na](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126na)/[126ua Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ua)) en verkeersgegevens ([artt. 126n](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n)/[126u Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126u)). Het gaat hier om bij voorbeeld PUK-codes, mastverkeersgegevens en gegevens over opwaarderen van beltegoed.
 
+Vordering verstrekking gegevens van een aanbieder van een communicatiedienst (
+
+artt. 126ng
+
+126ug lid 2 Sv
+
 Op grond van de [artt. 126ng](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ng)/[126ug lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ug) kan de inhoud worden verkregen van e-mail- en voice-mailberichten die ten tijde van de vordering reeds zijn verwerkt (historische gegevens). Ten aanzien van de inhoud van e-mail- of voice-mailberichten die in een toekomstige periode bekeken moeten worden, zal de bevoegdheid tot het opnemen van telecommunicatie ex [artt. 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m)/[126t Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) moeten worden toegepast.
+
+Vordering bevriezing van gegevens (
+
+artt. 126ni
+
+126ui Sv
 
 De bevoegdheid tot het vorderen van de bevriezing van gegevens geeft geen bevoegdheid om van een aanbieder van een communicatiedienst te vorderen om heel in het algemeen gegevens voor een bepaalde termijn vast te leggen. Een vordering kan namelijk slechts in een bepaald geval (indien het onderzoek dit dringend vordert) en ten aanzien van gespecificeerde gegevens worden gedaan.
 
+Procedure
+
+Algemeen
+
 In de [artt. 126n](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n)/[126u](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126u) (verkeersgegevens) en [126na](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126na)/[126ua Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ua) (gebruikersgegevens) is het doen van een mondelinge vordering niet geregeld. In de regel zal een vordering dan ook schriftelijk moeten worden gedaan. Naar analogie van de voorschriften die gelden voor het doen van een mondelinge vordering op grond van de [artt. 126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc)-[126ng](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ng)/[126ug Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ug), mag de vordering mondeling worden gedaan, mits deze vordering schriftelijk wordt bevestigd binnen de daarvoor geldende termijn.
+
+Vordering verstrekking gebruikersgegevens (
+
+artt. 126na
+
+126ua lid 1 Sv
 
 De bevraging en verstrekking van gebruikersgegevens verloopt op elektronische wijze via het systeem van het Centraal Informatiepunt voor Onderzoek aan Telecommunicatie (hierna: CIOT). Elk regiokorps beschikt hiertoe over een speciale computer waar slechts geautoriseerde opsporingsambtenaren toegang hebben tot het CIOT-systeem. Met behulp van dit systeem kunnen op volautomatische wijze de maximaal 24 uur oude bestanden van de aanbieders worden bevraagd.
 
 De vordering wordt verstrekt aan een opsporingsambtenaar die geautoriseerd is om op elektronische wijze een bevraging te doen in het CIOT-systeem.
 
-In de schriftelijke vordering bestandsanalyse van de officier van justitie worden tenminste twee tijdstippen waarop en locaties waar de gebruiker kennelijk gebruik heeft gemaakt van telecommunicatie vermeld ([art. 5 lid 2 Besluit bijzondere vergaring nummergegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&artikel=5)). In de vordering worden de gegevens omtrent de tijdstippen met een marge van + en – 5 minuten vermeld.
+Vordering verstrekking gebruikersgegevens (bestandsanalyse) (
+
+artt. 126na
+
+126ua lid 2 Sv
+
+In de schriftelijke vordering bestandsanalyse van de officier van justitie worden tenminste twee tijdstippen waarop en locaties waar de gebruiker kennelijk gebruik heeft gemaakt van telecommunicatie vermeld ([art. 5 lid 2 Besluit bijzondere vergaring nummergegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&artikel=5)). In de vordering worden de gegevens omtrent de tijdstippen met een marge van + en – 5 minuten vermeld.
 
 Een vordering bestandsanalyse wordt binnen kantooruren en op werkdagen verzonden naar alle aanbieders van een openbaar mobiel communicatienetwerk of -dienst. Binnen twee uur nadat de vordering tot bestandsanalyse (en telefonische attendering) is verzonden, zal de aanbieder aangegeven of (en binnen welke tijd) hij aan deze vordering gevolg kan geven. De behandelend officier van justitie zal vervolgens moeten besluiten of de resultaten van de bestandsanalyse afgewacht kunnen worden of dat hij zich rechtstreeks wendt tot de Dienst Specialistische Recherchetoepassingen (hierna: DSRT) van het Korps Landelijke Politiediensten (hierna: KLPD) voor de inzet van de IMSI-catcher.
+
+Vergaring nummergegevens (IMSI-catcher) (
+
+artt. 126nb
+
+126ub Sv
 
 De officier van justitie kan slechts daartoe aangewezen opsporingsambtenaren van de DSRT van het KLPD schriftelijk bevelen om met behulp van de IMSI-catcher het nummer te achterhalen waarmee de gebruiker van een communicatiedienst kan worden geïdentificeerd.
 
@@ -106,15 +201,19 @@ Indien een officier van justitie wil overgaan tot de inzet van de IMSI-catcher t
 
 Indien er met behulp van de IMSI-catcher gegevens zijn verkregen die niet gebruikt worden om toepassing mogelijk te maken van de bevoegdheden tot het opnemen van telecommunicatie ([artt. 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m)/[126t Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t)) of het vorderen van verkeersgegevens ([artt. 126n](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n)/[126u Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126u)), dan dienen deze gegevens vernietigd te worden.
 
-Door de aangewezen opsporingsambtenaren van de DSRT wordt op grond van [art. 4 van het Besluit bijzondere vergaring nummergegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&artikel=4) een proces-verbaal opgemaakt van de inzet van de IMSI-catcher. In dit proces-verbaal worden onder meer vermeld de data en de tijdstippen waarop en de plaatsen waar de IMSI-catcher is gebruikt en de gegevens die door de inzet van dit apparaat zijn verkregen.
+Door de aangewezen opsporingsambtenaren van de DSRT wordt op grond van [art. 4 van het Besluit bijzondere vergaring nummergegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&artikel=4) een proces-verbaal opgemaakt van de inzet van de IMSI-catcher. In dit proces-verbaal worden onder meer vermeld de data en de tijdstippen waarop en de plaatsen waar de IMSI-catcher is gebruikt en de gegevens die door de inzet van dit apparaat zijn verkregen.
 
 ### 2.4. Opnemen van (tele)communicatie
 
-Indien een bevel opnemen van (tele)communicatie betrekking heeft op telecommunicatie die plaatsvindt via **een openbaar telecommunicatienetwerk of met gebruikmaking van een openbare telecommunicatiedienst** in de zin van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), dan geldt als uitgangspunt dat het bevel ten uitvoer wordt gelegd met medewerking van de aanbieder. In het geval de aanbieder geen medewerking kan verlenen of in het geval het belang van de strafvordering zich daartegen verzet, dan kan het opnemen van telecommunicatie ook plaatsvinden zonder medewerking en medeweten van de betreffende aanbieder.
+Algemeen
 
-Indien een bevel opnemen van (tele)communicatie betrekking heeft op communicatie die plaatsvindt via **een geheel of gedeeltelijk besloten communicatienetwerk of -dienst**, dan wordt de aanbieder in de gelegenheid gesteld om vrijwillig zijn medewerking te verlenen aan de tenuitvoerlegging van het bevel. In het geval de aanbieder geen medewerking kan verlenen of in het geval het belang van de strafvordering zich daartegen verzet, dan kan het opnemen van communicatie ook plaatsvinden zonder medewerking en medeweten van de betreffende aanbieder.
+Indien een bevel opnemen van (tele)communicatie betrekking heeft op telecommunicatie die plaatsvindt via *een openbaar telecommunicatienetwerk of met gebruikmaking van een openbare telecommunicatiedienst* in de zin van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), dan geldt als uitgangspunt dat het bevel ten uitvoer wordt gelegd met medewerking van de aanbieder. In het geval de aanbieder geen medewerking kan verlenen of in het geval het belang van de strafvordering zich daartegen verzet, dan kan het opnemen van telecommunicatie ook plaatsvinden zonder medewerking en medeweten van de betreffende aanbieder.
 
-In het geval (tele)communicatie buiten medeweten of medewerking van de aanbieder van een communicatiedienst wordt opgenomen, zal het daartoe te gebruiken technische hulpmiddel moeten voldoen aan de eisen die zijn gesteld in het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (**Stb.** 2006, 524 en – dit Besluit is nadien gewijzigd – **Stb.** 2007, 121).
+Indien een bevel opnemen van (tele)communicatie betrekking heeft op communicatie die plaatsvindt via *een geheel of gedeeltelijk besloten communicatienetwerk of -dienst*, dan wordt de aanbieder in de gelegenheid gesteld om vrijwillig zijn medewerking te verlenen aan de tenuitvoerlegging van het bevel. In het geval de aanbieder geen medewerking kan verlenen of in het geval het belang van de strafvordering zich daartegen verzet, dan kan het opnemen van communicatie ook plaatsvinden zonder medewerking en medeweten van de betreffende aanbieder.
+
+In het geval (tele)communicatie buiten medeweten of medewerking van de aanbieder van een communicatiedienst wordt opgenomen, zal het daartoe te gebruiken technische hulpmiddel moeten voldoen aan de eisen die zijn gesteld in het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (*Stb.* 2006, 524 en – dit Besluit is nadien gewijzigd – *Stb.* 2007, 121).
+
+Procedure
 
 Alvorens van de rechter-commissaris wordt gevorderd om een machtiging bevel opnemen van (tele)communicatie af te geven, zal (bijvoorbeeld door middel van een bevraging van het CIOT-systeem) moeten worden nagegaan of het betreffende (aansluit)nummer nog steeds in gebruik is.
 
@@ -130,17 +229,45 @@ De officier van justitie zal er op moeten toezien dat de datum van de mondelinge
 
 Op grond van de [artt. 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m)/[126t lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) jo [126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s lid 8 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) zal de opsporingsambtenaar die belast is met het uitluisteren of uitlezen (in geval van een IP/e-mailtap) van de op te nemen (tele)communicatie binnen drie dagen proces-verbaal op moeten maken. Dit voorschrift heeft geen verdere strekking dan dat binnen genoemde termijn in een proces-verbaal wordt gerelateerd dàt is afgetapt en opgenomen, in welke zaak dit is gebeurd en welke persoon het betreft. Dit betekent dus niet dat de opgenomen (tele)communicatie binnen deze drie dagen ook daadwerkelijk door de opsporingsambtenaar moet zijn uitgewerkt in een proces-verbaal.
 
-Op grond van een bevel tot het opnemen van (tele)communicatie kunnen alleen de e-mailberichten van een gebruiker van een communicatiedienst bekeken worden die betrekking hebben op een toekomstige periode. In geval van e-mailberichten die reeds zijn opgeslagen in een e-mailbox van een gebruiker, dan gaat het echter om ‘historische’ gegevens die betrekking hebben op de inhoud van communicatie. Om deze gegevens te kunnen verkrijgen, zal gebruik gemaakt moeten worden van de bevoegdheid tot het vorderen van in een geautomatiseerd werk opgeslagen gegevens van een aanbieder van een communicatiedienst (artt. 126ng/126ug lid 2 Sv). Zie hieromtrent paragraaf 2.3 Vorderen van gegevens (tele)communicatie.
+Bijzonderheden
+
+Vordering verstrekking van in een geautomatiseerd werk opgeslagen gegevens van een aanbieder van een communicatiedienst (
+
+artt. 126ng
+
+126ug lid 2 Sv
+
+Op grond van een bevel tot het opnemen van (tele)communicatie kunnen alleen de e-mailberichten van een gebruiker van een communicatiedienst bekeken worden die betrekking hebben op een toekomstige periode. In geval van e-mailberichten die reeds zijn opgeslagen in een e-mailbox van een gebruiker, dan gaat het echter om ‘historische’ gegevens die betrekking hebben op de inhoud van communicatie. Om deze gegevens te kunnen verkrijgen, zal gebruik gemaakt moeten worden van de bevoegdheid tot het vorderen van in een geautomatiseerd werk opgeslagen gegevens van een aanbieder van een communicatiedienst (artt. 126ng/126ug lid 2 Sv). Zie hieromtrent [paragraaf 2.3](https://wetten.overheid.nl/BWBR0035498) Vorderen van gegevens (tele)communicatie.
+
+Het opnemen van vertrouwelijke communicatie (
+
+artt. 126l
+
+126s Sv
+
+2
+
+Zie in dit kader ook de Instructie geïntercepteerde gesprekken met geheimhouders.
 
 De in [artt. 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m)/[126t Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) opgenomen bevoegdheid om, zonder medeweten van een aanbieder, (tele)communicatie op te nemen die plaatsvindt via een geheel of gedeeltelijk besloten communicatie-netwerk of -dienst vertoont (enige) overeenkomsten met de bevoegdheid tot het opnemen van vertrouwelijke communicatie ([artt. 126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s)). Omdat de bevoegdheid tot het opnemen van vertrouwelijke communicatie meer ingrijpend en risicovol is dan de bevoegdheid tot het opnemen van telecommunicatie, geldt als uitgangspunt dat de bevoegdheid tot het opnemen van telecommunicatie wordt toegepast indien kan worden volstaan met de inzet van deze bevoegdheid.
+
+Het opnemen van telecommunicatie binnen de Europese Unie
 
 De EU-rechtshulpovereenkomst heeft de mogelijkheden tot aftappen van telecommunicatie op veel punten vereenvoudigd. Er zijn specifieke procedures tot stand gebracht om de gewenste telecommunicatie op te nemen, ook al bevindt de af te tappen persoon zich op het grondgebied van een andere lidstaat.
 
 Wanneer wordt gevraagd een telefoonnummer te tappen in een andere lidstaat zal dit in beginsel worden gedaan door het direct doorgeleiden van telecommunicatie van het ene naar het andere land (art. 18 EU-rechtshulpovereenkomst). De aangezochte lidstaat heeft slechts beperkte mogelijkheden om tapverzoeken te weigeren.
 
+Het aftappen van telecommunicatie in een lidstaat van de overeenkomst, zonder tussenkomst of technische bijstand van die lidstaat
+
 In art. 20 van de EU-rechtshulpovereenkomst is bepaald dat, wanneer het mogelijk is een persoon in een andere lidstaat van de EU af te tappen zonder technische bijstand van die lidstaat, die lidstaat toestemming moet geven nadat deze lidstaat in kennis is gesteld van het aftappen.
 
+Nederland als kennisgevende lidstaat in de zin van artikel 20 EU-rechtshulpovereenkomst:
+
 Situaties waarin deze methode van aftappen kan voorkomen zijn:
+
+- – mobiele satellietcommunicatie waarbij de af te tappen persoon zich bevindt in een andere lidstaat dan die waarop het grondstation is gevestigd en
+
+- – mobiele (GSM) telecommunicatie.
 
 In het laatste geval wordt een deel van de telecommunicatie die in het buitenland wordt gevoerd door een houder van een Nederlandse GSM-aansluiting via het Nederlandse netwerk afgehandeld. Is met betrekking tot die gebruiker al een tapbevel in Nederland afgegeven, dan zullen ook de door hem in het buitenland gevoerde gesprekken die via het Nederlandse netwerk worden afgehandeld automatisch worden afgetapt en opgenomen.
 
@@ -152,21 +279,33 @@ Zolang door de in kennis gestelde lidstaat geen beslissing is genomen, mag het t
 
 De afgetapte gegevens mogen niet worden gebruikt voordat er toestemming is van de lidstaat of wanneer de 96 uur na de kennisgeving is verstreken en er geen reactie is geweest. Dit is alleen anders wanneer betrokken lidstaten hierover afspraken hebben gemaakt of het gebruik noodzakelijk is ter voorkoming van een onmiddellijke en ernstige bedreiging van de openbare veiligheid.
 
+Nederland als in kennisgestelde lidstaat
+
 [Art. 552oc Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552oc) legt vast hoe een kennisgeving uit het buitenland door de Nederlandse autoriteiten moet worden behandeld. Het bureau SIRENE van de dienst IPOL van het KLPD is aangewezen als nationaal contactpunt voor het ontvangen van kennisgevingen uit de andere lidstaten. Het Bureau zendt elke melding uit het buitenland onverwijld door naar de officier van justitie bij het Landelijk Parket, die verantwoordelijk is voor de behandeling en beantwoording van de melding. Nederland is verplicht om de gegevens uit het buitenland vertrouwelijk te behandelen.
+
+Satellietcommunicatie.
 
 Kenmerkend voor satellietcommunicatie is dat de communicatie verloopt via een grondstation. Deze grondstations zijn slechts in een aantal EU-landen gestationeerd. Hierdoor kan het voorkomen dat het voor een lidstaat technisch niet mogelijk is telecommunicatie te onderscheppen, ook al bevindt de af te tappen persoon zich in de eigen staat. Om te zorgen dat in dergelijke gevallen aftappen mogelijk en gemakkelijk blijft, is in art. 19 van de overeenkomst de mogelijkheid geschapen om af te tappen door tussenkomst van een zogenaamde dienstenverstrekker. Art. 19 lid 1 verplicht de lidstaten waar zich een grondstation bevindt zorg te dragen voor een juridisch basis voor het aftappen door dienstenverstrekkers in andere lidstaten. Op grond van art. 19 lid 2 kan de ‘verzoekende’ lidstaat, zonder tussenkomst van de justitiële autoriteiten van het land waar het grondstation zich bevindt, een bevel aan de dienstenverstrekker op het eigen grondgebied richten. Dit is echter slechts mogelijk indien de af te tappen persoon zich op het grondgebied van de ‘verzoekende’ staat bevindt. De dienstenverstrekker verstrekt vervolgens de telecommunicatie die plaatsvindt op of vanaf het grondgebied van de ‘verzoekende’ lidstaat. De dienstenverstrekker verkrijgt deze informatie van het grondstation, zonder tussenkomst van de (justitiële) autoriteiten van de lidstaat alwaar het grondstation zich bevindt. Art. 19 lid 4 maakt het tevens mogelijk dat een ‘regulier’ verzoek tot aftappen op basis van art. 18 kan worden gedaan. Dit is met name van belang, indien de ‘verzoekende’ staat geen dienstenverstrekker op het eigen grondgebied heeft, dan wel indien de verwachting bestaat dat de te tappen persoon zich zal verplaatsen van de ene naar de andere lidstaat. Wanneer een te tappen persoon gebruik maakt van satellietcommunicatie en zich verplaatst van lidstaat naar lidstaat, stelt een verzoek aan de lidstaat waar het grondstation zich bevindt zeker dat alle telecommunicatie wordt verkregen. Het derde lid van art. 19 maakt het tenslotte mogelijk dat ook een verzoek aan een dienstenverstrekker kan worden gericht in het kader van een rechtshulpverzoek conform 18 lid 2 onder b.
 
-**De persoon bevindt zich op het grondgebied van de ‘verzoekende’ staat, maar deze staat kan niet tappen zonder (technische) hulp van een andere staat.**
+*De persoon bevindt zich op het grondgebied van de ‘verzoekende’ staat, maar deze staat kan niet tappen zonder (technische) hulp van een andere staat.*
+
+Nederland als verzoekende staat
 
 Indien Nederland technische bijstand nodig heeft om de communicatie te tappen, dient een rechtshulpverzoek worden verstuurd met een verzoek om technische bijstand. De aangezochte staat dient hieraan (18 lid 2 sub a) te voldoen zonder inhoudelijke toetsing. Dit is bijvoorbeeld het geval indien er sprake is van satellietcommunicatie en het grondstation zich in een andere staat bevindt.
 
 Indien technische bijstand nodig is voor het tappen van satellietcommunicatie, kan in voorkomende gevallen Nederland in plaats van een rechtshulpverzoek echter ook via een bevel aan een dienstenverstrekker op het eigen grondgebied, de gewenste telecommunicatie laten tappen en/of informatie opvragen. Een rechtshulpverzoek aan de lidstaat waar het grondstation zich bevindt, is dan niet nodig (art. 19 lid 2). Het staat lidstaten volgens art. 19 lid 4 vrij al dan niet van dit alternatief gebruik te maken.
 
+Nederland als aangezochte staat
+
 Nederland dient aan verzoeken om technische van andere lidstaten te voldoen zonder inhoudelijke toetsing van die verzoeken. Ook zal Nederland moeten toestaan dat een andere lidstaat rechtstreeks een bevel geeft aan een dienstverstrekker indien een grondstation zich op Nederlands grondgebied bevindt.
 
-**De persoon bevindt zich op het grondgebied van een andere lidstaat en tappen is niet mogelijk zonder (technische) hulp van een derde lidstaat.**
+*De persoon bevindt zich op het grondgebied van een andere lidstaat en tappen is niet mogelijk zonder (technische) hulp van een derde lidstaat.*
+
+Nederland als verzoekende staat
 
 Het kan ook voorkomen dat de in Nederland af te tappen persoon zich bevindt in de ene lidstaat (B) en dat technische bijstand nodig is van een andere lidstaat (C). In dat geval dient Nederland een rechtshulpverzoek te doen aan lidstaat C (art. 18 lid 2 sub c), nadat voorafgaand toestemming is verkregen van lidstaat B (art. 20 lid 2a en lid 4a subonderdeel i). De mogelijkheid om telecommunicatie op te vragen via een dienstenverstrekker doet zich hier niet voor omdat de af te tappen persoon zich niet op het grondgebied van Nederland bevindt.
+
+Nederland als aangezochte staat
 
 Indien Nederland technische bijstand dient te leveren als boven bedoeld, zal het belanghebbende land een rechtshulpverzoek aan Nederland moeten doen, ook al bevindt de af te tappen persoon zich in een andere lidstaat. Nederland dient aan een dergelijk verzoek te voldoen, maar dient wel te controleren of die andere lidstaat toestemming heeft gegeven.
 
@@ -174,23 +313,33 @@ Voor alle inkomende en uitgaande verzoeken zoals hierboven bedoeld is het bureau
 
 ### 2.5. Opnemen van vertrouwelijke communicatie
 
+Algemeen
+
 Onder vertrouwelijke communicatie in de zin van de [artt. 126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) moet worden verstaan de uitwisseling van informatie tussen twee of meer personen die in beslotenheid plaatsvindt. Vertrouwelijke communicatie kan op zeer verschillende wijzen plaatsvinden. Op grond van de artt. 126l/126s Sv kan bijvoorbeeld een in beslotenheid gevoerd gesprek, een niet openbaar e-mailbericht of niet voor het publiek bestemd radioverkeer worden opgenomen.
 
 Van vertrouwelijke communicatie in de zin van [artt. 126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) is géén sprake indien een gesprek in de openbaarheid plaatsvindt en zonder technisch hulpmiddel kan worden afgeluisterd. Daarnaast is er ook geen sprake van vertrouwelijke communicatie indien een persoon hardop in zichzelf praat of in het geval gegevens voor eigen gebruik in een computer worden ingevoerd. In deze laatste gevallen vindt er namelijk geen interactie plaats tussen twee of meer partijen, en is de in de artt. 126l/126s Sv opgenomen bevoegdheid niet toepasbaar.
 
-Ter uitvoering van een bevel opnemen van vertrouwelijke communicatie is het slechts toegestaan om gebruik te maken van een technisch hulpmiddel indien dit voldoet aan de technische en procedurele eisen die zijn opgenomen in het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (**Stb.** 2006, 524 en – dit Besluit is nadien gewijzigd – **Stb.** 2007, 121).
+Ter uitvoering van een bevel opnemen van vertrouwelijke communicatie is het slechts toegestaan om gebruik te maken van een technisch hulpmiddel indien dit voldoet aan de technische en procedurele eisen die zijn opgenomen in het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (*Stb.* 2006, 524 en – dit Besluit is nadien gewijzigd – *Stb.* 2007, 121).
 
-Zie wat betreft het betreden van een besloten plaats, niet zijnde een woning, in verband met het plaatsen dan wel verwijderen van technische hulpmiddelen ter uitvoering van een bevel opnemen van vertrouwelijke communicatie, paragraaf 2.1 Betreden besloten plaatsen, onder Procedure, 3e alinea.
+Betreden van besloten plaatsen
+
+Zie wat betreft het betreden van een besloten plaats, niet zijnde een woning, in verband met het plaatsen dan wel verwijderen van technische hulpmiddelen ter uitvoering van een bevel opnemen van vertrouwelijke communicatie, [paragraaf 2.1](https://wetten.overheid.nl/BWBR0035498) Betreden besloten plaatsen, onder Procedure, 3e alinea.
+
+Inzet van technisch hulpmiddel
 
 Toepassing van de bevoegdheid tot het opnemen van vertrouwelijke communicatie in de zin van [artt. 126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) is slechts aan de orde indien er met behulp van een technisch hulpmiddel gegevens, zoals mondelinge gesprekken, worden geregistreerd die onderdeel uitmaken van communicatie. Indien in de openbaarheid een vertrouwelijk gesprek wordt gevoerd dat zonder de inzet van een technisch hulpmiddel door een opsporingsambtenaar kan worden afgeluisterd, is er geen sprake van het opnemen van vertrouwelijke communicatie, en is het toegestaan om dit gesprek mee te luisteren zonder de toepassing van de in de artt. 126l/126s Sv opgenomen bevoegdheid.
 
 Het is toegestaan om tijdens het opnemen van de communicatie ‘live’ mee te luisteren indien er zekerheid bestaat dat de communicatie ook daadwerkelijk met het technische hulpmiddel wordt opgenomen zodat achteraf kan worden vastgesteld wat is afgeluisterd en onderschept.
 
-In [art. 126ee Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ee) is bepaald dat ter uitvoering van een bevel opnemen van vertrouwelijke communicatie slechts gebruik gemaakt mag worden van een technisch hulpmiddel dat voldoet aan de technische en procedurele eisen die bij algemene maatregel van bestuur worden gesteld. Het gaat hier om het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (**Stb.** 2006, 524 en – dit Besluit is nadien gewijzigd – **Stb.** 2007, 121).
+In [art. 126ee Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ee) is bepaald dat ter uitvoering van een bevel opnemen van vertrouwelijke communicatie slechts gebruik gemaakt mag worden van een technisch hulpmiddel dat voldoet aan de technische en procedurele eisen die bij algemene maatregel van bestuur worden gesteld. Het gaat hier om het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (*Stb.* 2006, 524 en – dit Besluit is nadien gewijzigd – *Stb.* 2007, 121).
 
 Indien de kwaliteit van de opgenomen communicatie van een dermate slechte kwaliteit is dat het niet of slechts beperkt bruikbaar is, kan de verstaanbaarheid van de inhoud van het gesprek worden verbeterd met behulp van een technische bewerking. In [art. 15 van het Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=15) is bepaald dat een technische bewerking alleen mag plaatsvinden op een kopie van de oorspronkelijk geregistreerde communicatie.
 
-Een bevel opnemen van vertrouwelijke communicatie kan slechts door de officier van justitie worden afgegeven, nadat hij op zijn vordering een schriftelijke machtiging heeft gekregen van de rechter-commissaris. Als uitgangspunt geldt echter dat de officier van justitie eerst toestemming dient te verkrijgen binnen de OM-lijn alvorens hij een vordering kan doen aan de rechter-commissaris. Indien er vertrouwelijke communicatie moet worden opgenomen in een besloten plaats dan zal de hoofdofficier van justitie van het betrokken parket hiervoor toestemming moeten geven. In geval van woningen zal het College, na advies van de Centrale Toetsingscommissie (hierna: CTC), toestemming moeten geven. Zie hieromtrent paragraaf 5.1 Centrale Toetsingscommissie (CTC).
+Procedure
+
+Algemeen
+
+Een bevel opnemen van vertrouwelijke communicatie kan slechts door de officier van justitie worden afgegeven, nadat hij op zijn vordering een schriftelijke machtiging heeft gekregen van de rechter-commissaris. Als uitgangspunt geldt echter dat de officier van justitie eerst toestemming dient te verkrijgen binnen de OM-lijn alvorens hij een vordering kan doen aan de rechter-commissaris. Indien er vertrouwelijke communicatie moet worden opgenomen in een besloten plaats dan zal de hoofdofficier van justitie van het betrokken parket hiervoor toestemming moeten geven. In geval van woningen zal het College, na advies van de Centrale Toetsingscommissie (hierna: CTC), toestemming moeten geven. Zie hieromtrent [paragraaf 5.1](https://wetten.overheid.nl/BWBR0035498) Centrale Toetsingscommissie (CTC).
 
 Indien bij de toepassing van deze bevoegdheid de facilitaire ondersteuning van de DSRT noodzakelijk wordt geacht, dan zal ook de officier van justitie van het Landelijk Parket die is belast met het gezag over de DSRT bij de interne besluitvorming moeten worden betrokken.
 
@@ -200,9 +349,13 @@ Nadat de officier van justitie een machtiging van de rechter-commissaris heeft o
 
 In het bevel opnemen van vertrouwelijke communicatie dient voorts de naam van de officier van justitie vermeld te worden die het bevel, al dan niet namens de zaaksofficier van justitie, heeft getekend.
 
-Indien ter uitvoering van een bevel opnemen van vertrouwelijke communicatie een woning moet worden betreden, dan zal de officier van justitie, alvorens hij van de rechter-commissaris een machtiging vordert, eerst toestemming moeten verkrijgen van het College Het College beslist, na advies van de CTC, over de toepassing van de bevoegdheid. Zie hieromtrent paragraaf 5.1 Centrale Toetsingscommissie (CTC).
+Woningen
 
-De toestemming van het College is aan een termijn gebonden. Deze termijn behoeft niet gelijk te zijn aan de wettelijke geldigheidsduur van het bevel van de officier van justitie van ten hoogste vier weken. Indien toestemming is gegeven voor een termijn die de geldigheidsduur van het bevel overstijgt, kan het bevel met inachtneming van die termijn en na machtiging van de rechter-commissaris worden verlengd. Zie hieromtrent paragraaf 5.1 Centrale Toetsingscommissie (CTC).
+Indien ter uitvoering van een bevel opnemen van vertrouwelijke communicatie een woning moet worden betreden, dan zal de officier van justitie, alvorens hij van de rechter-commissaris een machtiging vordert, eerst toestemming moeten verkrijgen van het College Het College beslist, na advies van de CTC, over de toepassing van de bevoegdheid. Zie hieromtrent [paragraaf 5.1](https://wetten.overheid.nl/BWBR0035498) Centrale Toetsingscommissie (CTC).
+
+De toestemming van het College is aan een termijn gebonden. Deze termijn behoeft niet gelijk te zijn aan de wettelijke geldigheidsduur van het bevel van de officier van justitie van ten hoogste vier weken. Indien toestemming is gegeven voor een termijn die de geldigheidsduur van het bevel overstijgt, kan het bevel met inachtneming van die termijn en na machtiging van de rechter-commissaris worden verlengd. Zie hieromtrent [paragraaf 5.1](https://wetten.overheid.nl/BWBR0035498) Centrale Toetsingscommissie (CTC).
+
+Spoedprocedure
 
 In geval van dringende noodzaak behoort een spoedprocedure, met inachtneming van de duur van het haalbaarheidsonderzoek en de capacitaire beschikbaarheid van mensen en middelen, tot de mogelijkheden. De behandelend officier van justitie bepaalt of er sprake is van een dringende noodzaak.
 
@@ -212,13 +365,17 @@ De officier van justitie zal ter bevestiging van de mondeling gedane vordering e
 
 De officier van justitie zal erop moeten toezien dat de datum van de mondelinge machtiging van de rechter-commissaris op een juiste wijze is opgenomen in de door hem verstrekte schriftelijke machtiging. Deze datum moet overeenstemmen met de datum waarop het opnemen van vertrouwelijke communicatie daadwerkelijk is gaan lopen.
 
-In [lid 1 van de artt. 126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) is bepaald dat vertrouwelijke communicatie alleen kan worden opgenomen door opsporingsambtenaren als bedoeld in [art. 141, onderdelen b en (per 1 juli 2009 (Stb. 2009, 263) c Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141). Dit betekent dat opsporingsambtenaren van politie en (aangewezen) militairen van de KMar kunnen worden belast met de uitvoering van een bevel tot het opnemen van vertrouwelijke communicatie. Hoewel de opsporingsambtenaren van de bijzondere opsporingsdiensten op grond van de artt. 126l/126s Sv niet bevoegd zijn om vertrouwelijke communicatie op te nemen, zijn deze opsporingsambtenaren wel bevoegd om eenmaal opgenomen communicatie uit te werken en te analyseren.
+Uitvoering door opsporingsambtenaren
 
-M.i.v. 1 januari 2007 is het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (**Stb.** 2006, 524 en – dit Besluit is nadien gewijzigd – **Stb.** 2007, 121) van kracht. Gevolg hiervan is onder meer dat de exclusieve bevoegdheid van het KLPD, in het bijzonder de DSRT voor zowel opslag van technische hulpmiddelen als voor de plaatsing in besloten plaatsen, d.w.z. betreden zonder toestemming van de rechthebbende, is verlaten. Ingevolge [art. 7 van dit Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=7) gelden er verschillende deskundigheidseisen. Bepalend is nu of een opsporingsambtenaar over de vereiste certificering beschikt: voor de betreding en plaatsing in bijv. een auto geldt een andere certificering dan voor een woning (zie art. 7 lid 2 van het Besluit). In de praktijk is de expertise en daarbij behorende certificering voor het betreden van woningen en andere besloten plaatsen (niet zijnde voertuigen) (voorlopig) alleen bij de DSRT aanwezig.
+In [lid 1 van de artt. 126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) is bepaald dat vertrouwelijke communicatie alleen kan worden opgenomen door opsporingsambtenaren als bedoeld in [art. 141, onderdelen b en (per 1 juli 2009 (Stb. 2009, 263) c Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141). Dit betekent dat opsporingsambtenaren van politie en (aangewezen) militairen van de KMar kunnen worden belast met de uitvoering van een bevel tot het opnemen van vertrouwelijke communicatie. Hoewel de opsporingsambtenaren van de bijzondere opsporingsdiensten op grond van de artt. 126l/126s Sv niet bevoegd zijn om vertrouwelijke communicatie op te nemen, zijn deze opsporingsambtenaren wel bevoegd om eenmaal opgenomen communicatie uit te werken en te analyseren.
+
+M.i.v. 1 januari 2007 is het [Besluit technische hulpmiddelen strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0020444) (*Stb.* 2006, 524 en – dit Besluit is nadien gewijzigd – *Stb.* 2007, 121) van kracht. Gevolg hiervan is onder meer dat de exclusieve bevoegdheid van het KLPD, in het bijzonder de DSRT voor zowel opslag van technische hulpmiddelen als voor de plaatsing in besloten plaatsen, d.w.z. betreden zonder toestemming van de rechthebbende, is verlaten. Ingevolge [art. 7 van dit Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020444&artikel=7) gelden er verschillende deskundigheidseisen. Bepalend is nu of een opsporingsambtenaar over de vereiste certificering beschikt: voor de betreding en plaatsing in bijv. een auto geldt een andere certificering dan voor een woning (zie art. 7 lid 2 van het Besluit). In de praktijk is de expertise en daarbij behorende certificering voor het betreden van woningen en andere besloten plaatsen (niet zijnde voertuigen) (voorlopig) alleen bij de DSRT aanwezig.
 
 Op grond van de [artt. 126m](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m)/[126t lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) jo [126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s lid 8 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) zal de opsporingsambtenaar die belast is met het uitluisteren of uitlezen van de opgenomen vertrouwelijke communicatie binnen drie dagen proces-verbaal op moeten maken. Dit voorschrift heeft geen verdere strekking dan dat binnen genoemde termijn in een proces-verbaal wordt gerelateerd dàt vertrouwelijke communicatie is afgetapt en opgenomen, in welke zaak dit is gebeurd en welke persoon het betreft. Dit betekent dus niet dat de opgenomen vertrouwelijke communicatie binnen deze drie dagen ook daadwerkelijk door de opsporingsambtenaar moet zijn uitgewerkt in een proces-verbaal.
 
 ### 2.6. Stelselmatige informatie-inwinning door een opsporingsambtenaar
+
+Algemeen
 
 Er is sprake van stelselmatige informatie-inwinning door een opsporingsambtenaar indien door het inwinnen van informatie een min of meer volledig beeld van bepaalde aspecten van iemands leven wordt verkregen.
 
@@ -226,15 +383,19 @@ Er is geen bevel vereist voor het heimelijk inwinnen van informatie dat het kara
 
 De opsporingsambtenaar die uitvoering geeft aan een bevel stelselmatige informatie-inwinning mag zich in die hoedanigheid niet schuldig maken aan of betrokken zijn bij het plegen van strafbare feiten. De opsporingsambtenaar die stelselmatig informatie inwint kan echter in een situatie belanden waarin hij noodgedwongen, bijvoorbeeld in het kader van de instandhouding en opbouw van zijn dekmantel, een strafbaar feit moet plegen. Indien het in dit geval niet mogelijk is dat door de officier van justitie mondeling een bevel pseudokoop of -dienstverlening wordt verleend, is de opsporingsambtenaar in beginsel als verdachte strafrechtelijk aansprakelijk. Hij kan immers geen beroep doen op [art. 43 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=43). De officier van justitie zal dan achteraf moeten beoordelen of het verrichten van de strafbare handelingen aanvaardbaar of onontkoombaar was in het licht van de uit te voeren undercoveroperatie. Mocht dit inderdaad het geval zijn geweest, dan kan de officier van justitie besluiten om niet tot vervolging over te gaan.
 
+Procedure
+
 Indien er twijfel bestaat of de in een bepaald onderzoek voorgenomen of aangevangen informatie-inwinning aangemerkt dient te worden als infiltratie, moet voor wat betreft het toetsingstraject worden gekozen voor het infiltratieregime. Dit heeft met name als consequentie dat in de goedkeuringsprocedure, via de CTC, het College moet worden betrokken.
 
 In het bevel moeten ondermeer de feiten en omstandigheden worden vermeld waaruit blijkt dat is voldaan aan de voorwaarden, zoals bedoeld in de [artt. 126j](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126j)/[126qa lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126qa). Ook zal in het bevel de wijze waarop aan het bevel uitvoering wordt gegeven, moeten worden vermeld. Omdat deze vereisten reeds in het aanvraagproces-verbaal van een opsporingsambtenaar zijn beschreven, kan in het bevel worden volstaan met een verwijzing naar dit proces-verbaal.
 
 Ten aanzien van de beschrijving van de wijze waarop aan het bevel uitvoering wordt gegeven, kan worden gedacht aan het vermelden van de locaties waar de opsporingsambtenaar informatie zal verzamelen, de personen met wie de opsporingsambtenaar in contact zal treden of de inzet van de unit Werken onder Dekmantel (hierna: unit WOD). Gezien het mogelijke afbreukrisico die de uitvoering van deze bevoegdheid met zich mee kan brengen, is vakkundigheid gewenst. In de praktijk worden dan ook veelal opsporingsambtenaren van de unit WOD te worden belast met de uitvoering van een bevel ex [artt. 126j](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126j)/[126qa Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126qa).
 
+Uitvoering door opsporingsambtenaren
+
 Een bevel stelselmatig inwinnen van informatie kan zowel worden gegeven aan opsporingsambtenaren van politie ([art. 141 onderdeel b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141)) als aan opsporingsambtenaren van de KMar of de bijzondere opsporingsambtenaren (art. 141, onderdeel c of [art. 142 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142)). Deze opsporingsambtenaren kunnen lid zijn van de unit WOD.
 
-Bij voorkeur wordt een bevel stelselmatig inwinnen van informatie uitgevoerd door een functionaris van de unit WOD. Een opsporingsambtenaar die geen lid is van de unit WOD kan alleen worden belast met de uitvoering van een bevel stelselmatige informatie-inwinning indien hij beschikt over de specifieke kennis en vaardigheden die nodig zijn voor de uitvoering van deze bevoegdheid. Voor de opsporingsambtenaren van de KMar of de bijzondere opsporingsdiensten geldt daarnaast de in de artt. 2 en 3 van het [Samenwerkingsbesluit bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010976) (**Stb.** 1999, 549) genoemde voorwaarden. Deze voorwaarden hebben betrekking op de opleiding en samenwerking met opsporingsambtenSamenwerkingsbesluit bijzondere opsporingsbevoegdhedenaren van politie als bedoeld in [art. 141 sub b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
+Bij voorkeur wordt een bevel stelselmatig inwinnen van informatie uitgevoerd door een functionaris van de unit WOD. Een opsporingsambtenaar die geen lid is van de unit WOD kan alleen worden belast met de uitvoering van een bevel stelselmatige informatie-inwinning indien hij beschikt over de specifieke kennis en vaardigheden die nodig zijn voor de uitvoering van deze bevoegdheid. Voor de opsporingsambtenaren van de KMar of de bijzondere opsporingsdiensten geldt daarnaast de in de artt. 2 en 3 van het [Samenwerkingsbesluit bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010976) (*Stb.* 1999, 549) genoemde voorwaarden. Deze voorwaarden hebben betrekking op de opleiding en samenwerking met opsporingsambtenSamenwerkingsbesluit bijzondere opsporingsbevoegdhedenaren van politie als bedoeld in [art. 141 sub b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
 
 In het geval een opsporingsambtenaar die geen lid is van de unit WOD wordt belast met de uitvoering van een bevel stelselmatige informatie-inwinning, dan moet deze opsporingsambtenaar gedurende de uitvoering van het bevel worden begeleid door een begeleider van de unit WOD.
 
@@ -242,9 +403,23 @@ Indien te verwachten valt dat de opsporingsambtenaar die stelselmatig informatie
 
 De opsporingsambtenaar die is belast met de uitvoering van een bevel stelselmatig inwinnen van informatie zal de door hem uitgevoerde opsporingsactiviteiten en de door hem geconstateerde bevindingen moeten vastleggen in een verslag of journaal. Dit is een intern werkdocument van de politie dat niet bij de processtukken hoeft te worden gevoegd. Daarnaast zal de opsporingsambtenaar een proces-verbaal moeten opmaken waarin de voor de zaak relevante gegevens (zowel in ontlastende als belastende zin) staan gerelateerd. Dit proces-verbaal moet wel bij de processtukken worden gevoegd.
 
+Onderscheid met andere bijzondere opsporingsbevoegdheden
+
+Stelselmatige observatie (
+
+artt. 126g
+
+126o Sv
+
 De bevoegdheid tot het stelselmatig inwinnen van informatie onderscheidt zich van de bevoegdheid tot stelselmatige observatie doordat de opsporingsambtenaar zich niet beperkt tot het stelselmatig volgen of het waarnemen van het gedrag van een persoon, maar actief interfereert in het leven van de verdachte of de betrokkene van een georganiseerd verband.
 
 Een opsporingsambtenaar die stelselmatig informatie inwint, zal zich op een zodanige wijze in de directe omgeving van de verdachte of de betrokkene ophouden dat hij daardoor met personen contacten onderhoudt uit die directe omgeving. Terwijl een opsporingsambtenaar die stelselmatig observeert slechts heimelijk het gedrag van die personen waarneemt.
+
+Infiltratie (
+
+artt. 126h
+
+126p Sv
 
 De bevoegdheid tot infiltratie onderscheidt zich van de bevoegdheid tot het stelselmatig inwinnen van informatie doordat de opsporingsambtenaar in het laatste geval niet bevoegd is om strafbare feiten te plegen. De opsporingsambtenaar die uitvoering geeft aan een bevel stelselmatig inwinnen van informatie zal zich beperken tot het inwinnen van informatie over een verdachte of een persoon waarvan het vermoeden bestaat dat hij betrokken is bij een georganiseerd verband. In dit kader is het toegestaan dat de opsporingsambtenaar contacten onderhoudt met andere personen dan de verdachte of een persoon die betrokken is bij een georganiseerd verband, maar hij zal in dit geval niet meewerken of deelnemen aan een criminele groepering, zoals in geval van infiltratie.
 
@@ -252,11 +427,19 @@ De bevoegdheid tot infiltratie op grond van [art. 126h Sv](https://wetten.overhe
 
 Tot slot is bij de uitvoering van een bevel stelselmatig inwinnen van informatie de inzet van een infiltratieteam niet verplicht, maar wel gewenst in verband met het afbreukrisico en de veiligheid van de in te zetten opsporingsambtenaren.
 
+Pseudo-koop of -dienstverlening (
+
+artt. 126i
+
+126q Sv
+
 De bevoegdheid tot het stelselmatig inwinnen van informatie onderscheidt zich van de bevoegdheid tot pseudo-koop of -dienstverlening doordat de opsporingsambtenaar in geval van pseudo-koop of -dienstverlening bevoegd is om strafbare feiten te plegen. Dit is niet toegestaan bij het stelselmatig inwinnen van informatie. De bevoegdheid tot het stelselmatig inwinnen van informatie wordt toegepast met de bedoeling om informatie in te winnen over de verdachte waardoor een min of meer volledig beeld van bepaalde aspecten van diens leven wordt verkregen, terwijl de bevoegdheid tot pseudo-koop of -dienstverlening veelal zal worden toegepast ter verkrijging van het bewijs van het aanwezig hebben en/of het afleveren van verboden voorwerpen.
 
 De bevoegdheid tot pseudo-koop of -dienstverlening ex [art. 126i Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i) kan slechts worden toegepast ten aanzien van een verdachte. De bevoegdheid tot het stelselmatig inwinnen van informatie kan daarentegen ook worden toegepast ten aanzien van andere personen dan de verdachte (zoals personen die contacten onderhouden met de verdachte). Door het onderhouden van contacten met deze personen kan er namelijk ook informatie worden ingewonnen over de verdachte.
 
 ### 2.7. Stelselmatige informatie-inwinning door een burger
+
+Algemeen
 
 Een overeenkomst tot stelselmatige informatie-inwinning door een burger kan zowel worden gesloten met een door de CIE gerunde informant als met een ‘normale’ burger. In het eerste geval zal de informant worden begeleid door de CIE (‘runnen’). Om de veiligheid van de informant te beschermen zal zijn identiteit worden afgeschermd. Het belang van afscherming brengt met zich mee dat de verkregen informatie alleen als sturingsinformatie in het opsporingsonderzoek kan worden gebruikt. Daartoe wordt een CIE-proces-verbaal uitgegeven. In het tweede geval zal de burger worden ingezet en begeleid door het tactisch onderzoeksteam, waarbij in beginsel gebruik dient te worden gemaakt van de diensten van de unit WOD. Ook langs deze weg kan sturingsinformatie verzameld worden. Als het doel van de inzet van de informant echter is om bewijs te verzamelen jegens personen, dan moet ernstig rekening worden gehouden met de mogelijkheid dat de burger als getuige ter terechtzitting zal worden opgeroepen. Het is immers bepaald niet uitgesloten dat de rechter, al dan niet op aandringen van de verdediging, de getuige nader wil horen, ter toetsing van het bewijs. Daarom dient de burger te worden voorbereid op die mogelijkheid en zich in dat geval vooraf bereid te verklaren, te zijner tijd als getuige op te treden. Het is dan ook essentieel in een vroeg stadium onder ogen te zien of de informatie van de burger een sturingsfunctie heeft of als de ingewonnen informatie dat mogelijk maakt (ook) een bewijsfunctie’.
 
@@ -264,9 +447,11 @@ Het werken met ‘gewone’ informanten (die door de CIE worden gerund) behoeft 
 
 Ingeval een informant of een burger stelselmatig informatie inwint dan moet dit zijn gebaseerd op [art. 126v Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v). Een overeenkomst tot stelselmatige informatie-inwinning door een burger kan zowel worden gesloten met een door de CIE gerunde informant als met een ‘normale’ burger; dit moet dan zijn gebaseerd op art. 126v Sv. In het eerste geval zal de informant worden gerund door de CIE en zal zijn identiteit worden afgeschermd omdat deze geheim moet blijven in verband met de veiligheid van de informant. In het tweede geval zal de burger worden begeleid door het tactisch onderzoeksteam, al dan niet in samenwerking met de unit WOD, en zal de burger rekening moeten houden met de mogelijkheid dat de rechter aanleiding ziet om hem ter terechtzitting als getuige te willen horen.
 
-Een overeenkomst tot stelselmatige informatie-inwinning mag enkel worden gesloten met een burger die zelf geen verdachte is in een zaak waarover hij informatie verstrekt. De 126v-burger kan dus geen hand- en spandiensten verlenen aan de verdachte(n) of aan de criminele groepering die bijdragen aan de realisering van de door deze beoogde strafbare feiten. In dat geval staat eventueel de weg van burgerpseudo-koop of burgerpseudodienstverlening open. Gaat het echter om hand- en spandiensten die niet direct bijdragen tot de realisering van het strafbare feit dan kunnen deze met toestemming van de officier van justitie worden toegestaan. Men kan hierbij denken aan hand- en spandiensten – dienend om de ‘cover’ van de informant te vestigen of te versterken – in de trant van het regelen van de huur of de koop van een auto zonder dat op voorhand een directe relatie bestaat tussen deze transactie en een (beoogd) strafbaar feit. Deze hand- en spandiensten, die moeten worden omschreven in de overeenkomst met de 126v-burger en die kunnen worden beschouwd als rechtmatig optreden ten behoeve van de opsporing, leveren geen strafbaar feit op. De hierbedoelde handelingen kunnen hem dan ook niet worden aangerekend. (Vgl. Kamerstukken II 1999/2000, 26 269, nr. 18 alsmede paragraaf 3.3 van de Instructie voor de CIE-officier van justitie).
+Een overeenkomst tot stelselmatige informatie-inwinning mag enkel worden gesloten met een burger die zelf geen verdachte is in een zaak waarover hij informatie verstrekt. De 126v-burger kan dus geen hand- en spandiensten verlenen aan de verdachte(n) of aan de criminele groepering die bijdragen aan de realisering van de door deze beoogde strafbare feiten. In dat geval staat eventueel de weg van burgerpseudo-koop of burgerpseudodienstverlening open. Gaat het echter om hand- en spandiensten die niet direct bijdragen tot de realisering van het strafbare feit dan kunnen deze met toestemming van de officier van justitie worden toegestaan. Men kan hierbij denken aan hand- en spandiensten – dienend om de ‘cover’ van de informant te vestigen of te versterken – in de trant van het regelen van de huur of de koop van een auto zonder dat op voorhand een directe relatie bestaat tussen deze transactie en een (beoogd) strafbaar feit. Deze hand- en spandiensten, die moeten worden omschreven in de overeenkomst met de 126v-burger en die kunnen worden beschouwd als rechtmatig optreden ten behoeve van de opsporing, leveren geen strafbaar feit op. De hierbedoelde handelingen kunnen hem dan ook niet worden aangerekend. (Vgl. Kamerstukken II 1999/2000, 26 269, nr. 18 alsmede paragraaf 3.3 van de Instructie voor de CIE-officier van justitie).
 
 ### 2.8. (Burger)pseudokoop en -dienstverlening
+
+Algemeen
 
 In het algemeen zal de bevoegdheid tot (burger)pseudokoop en -dienstverlening worden toegepast ter verkrijging van het bewijs van het aanwezig hebben en/of het afleveren van verboden voorwerpen. Deze bevoegdheid kan ook worden toegepast met het oog op het in stand houden van de cover van de burger (de zogenaamde vertrouwensaankoop). Daarnaast kan er ook sprake zijn van een zogenaamde vooraankoop. Van dit laatste is sprake in het geval goederen worden afgenomen met de bedoeling om vast te stellen of de goederen een ongeoorloofd karakter hebben, dan wel om vast te stellen dat er een strafbaar feit is gepleegd met deze goederen. Tot slot bestaat ook de mogelijkheid dat de burger een ‘monster’ koopt van een af te nemen partij goederen teneinde de kwaliteit te kunnen testen (de zogenaamde monsteraankoop).
 
@@ -278,23 +463,35 @@ Onder (burger)pseudo-koop moet ook de situatie worden verstaan waarin de opspori
 
 Een opsporingsambtenaar die uitvoering geeft aan een bevel politiële pseudo-koop of -dienstverlening mag er op vertrouwen dat hij niet vervolgd zal worden voor strafbare feiten die hij in het kader van de uitvoering van het bevel heeft begaan. De opsporingsambtenaar handelt namelijk in opdracht van de officier van justitie. De opsporingsambtenaar die op een correcte wijze uitvoering geeft aan een bevel pseudo-koop of -dienstverlening kan daarom een beroep doen op de strafuitsluitingsgrond van [art. 43 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=43). Een opsporingsambtenaar kan bij de uitvoering van een bevel echter in een situatie belanden waarin hij onverwachts betrokken raakt bij strafbare feiten waar het bevel niet in voorziet. Aangezien het plegen van deze strafbare feiten achteraf niet door een bevel kan worden gedekt, zal gekeken moeten worden of het bevel mondeling kan worden gewijzigd. Indien dit niet mogelijk is, zal de officier van justitie achteraf moeten beoordelen of de politiële pseudo-koper of dienstverlener heeft gehandeld binnen de kaders van het bevel. Oordeelt de officier van justitie achteraf dat het verrichten van de strafbare handelingen aanvaardbaar of onontkoombaar was in het licht van de uit te voeren pseudo-activiteit, dan kan hij besluiten niet tot vervolging over te gaan. Het voorgaande geldt ook voor de burger die uitvoering geeft aan een schriftelijke overeenkomst burgerpseudo-koop en -dienst-verlening.
 
+Burgerpseudokoop en -dienstverlening
+
 Burgerpseudokoop en -dienstverlening ([artt. 126ij](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij)/[126z Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z)) is slechts toegestaan indien een bevel politiële pseudokoop en -dienstverlening ([artt. 126i](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i) en [126q Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126q)) in redelijkheid niet kan worden gegeven (subsidiariteiteis). De officier van justitie kan tot het oordeel komen dat een bevel politiële pseudokoop of -dienstverlening in redelijkheid niet kan worden gegeven in het geval de in te zetten pseudokoper of -dienstverlener een zeer specifieke deskundigheid of positie nodig heeft om geloofwaardig te kunnen opereren in het criminele milieu, terwijl de politie niet beschikt over een opsporingsambtenaar met een dergelijke deskundigheid of positie.
 
 Van burgerpseudokoop of -dienstverlening kan uitsluitend sprake zijn in het geval de koop of de dienstverlening door een burger heeft plaatsgevonden op initiatief en onder regie van politie en justitie. Indien de burger zelf het initiatief heeft genomen om van/aan een verdachte een goed te kopen of dienst te verlenen en dit niet onder regie van politie en justitie heeft plaatsgevonden, dan heeft dit handelen niet plaatsgehad onder gezag van politie en justitie. De burger is dan ook zelf verantwoordelijk voor eventuele strafbare feiten die dergelijk handelen heeft opgeleverd. In beginsel kan de op deze wijze verkregen informatie wel worden gebruikt in een strafzaak. Als uitgangspunt geldt hierbij dat politie en justitie geen sturende betrokkenheid bij deze handelingen heeft gehad.
 
+Procedure
+
 Indien er twijfel bestaat of de in een bepaald onderzoek voorgenomen of aangevangen politiële – of burgerpseudo-koop of -dienstverlening in de richting van politiële- of burgerinfiltratie gaat, moet voor wat betreft het toetsingstraject worden gekozen voor het infiltratieregime. Dit heeft met name als consequentie dat in de goedkeuringsprocedure, via de CTC, het College moet worden betrokken.
+
+Uitvoering door opsporingsambtenaren in geval van politiële pseudokoop- en dienstverlening
 
 De officier van justitie zal, in overleg met het rechercheteam, moeten beoordelen of de unit WOD wordt belast met de uitvoering van een bevel politiële pseudo-koop en -dienstverlening. De inzet van de unit WOD zal in ieder geval geboden zijn wanneer het er naar uitziet dat de pseudo-koop of -dienstverlening na verloop van tijd zal overgaan in een infiltratie-actie (zie de [Regeling infiltratieteams](https://wetten.overheid.nl/jci1.3:c:BWBR0011086), Stcrt. 2000, nr. 7).
 
 De opsporingsambtenaar die is belast met de uitvoering van een bevel politiële pseudo-koop en -dienstverlening zal de door hem uitgevoerde opsporingsactiviteiten en de door hem geconstateerde bevindingen moeten vastleggen in een verslag of journaal. Dit is een intern werkdocument van de politie dat niet bij de processtukken hoeft te worden gevoegd. De opsporingsambtenaar zal daarnaast een proces-verbaal moeten opmaken waarin de voor de zaak relevante gegevens (zowel in ontlastende als belastende zin) staan gerelateerd. Dit proces-verbaal moet wel bij de processtukken worden gevoegd.
 
+Begeleiding door opsporingsambtenaren in geval van burgerpseudokoop -en dienstverlening
+
 Omdat de inzet van een burgerpseudokoper of -dienstverlener risico’s met zich mee kan brengen in verband met de integriteit en de beheersbaarheid van de opsporing zal bijzondere aandacht besteed moeten worden aan de betrouwbaarheid en de stuurbaarheid van de in te zetten burger. De burger zal dan ook altijd begeleid moeten worden door een opsporingsambtenaar. In beginsel zal de begeleiding van de burger moeten geschieden door een opgeleide functionaris van de unit WOD. De officier van justitie kan anders beslissen.
 
 De opsporingsambtenaar die is belast met de begeleiding van de burger die bijstand verleent aan de opsporing zal in een journaal gedetailleerd verslag moeten doen van de contacten die hij heeft gehad met de burger en de door de burger gedane waarnemingen. Een journaal is een intern werkdocument van de politie dat niet bij de processtukken hoeft te worden gevoegd. De opsporingsambtenaar zal daarnaast een proces-verbaal moeten opmaken waarin de voor de zaak relevante gegevens (zowel in ontlastende als belastende zin) staan gerelateerd. Dit proces-verbaal moet wel bij de processtukken worden gevoegd.
 
-‘Pseudo-verkoop’ is niet in de wet geregeld. De wetgever heeft bij het tot stand komen van de [Wet BOB](https://wetten.overheid.nl/jci1.3:c:BWBR0010478) niet de bedoeling gehad om het opsporingsonderzoek systematisch te beschrijven, maar om bevoegdheden te creëren ten behoeve van de strafrechtelijke afdoening van delicten. Bevoegdheden die ingrijpen op de vrijheid of op andere grondrechten van burgers behoeven een specifieke regeling. De regeling behoeft niet uitputtend te zijn, hetgeen blijkt uit de Memorie van Toelichting (Kamerstukken II, 1996–97, 25 403, p. 9).Uit diezelfde Memorie (p. 34) blijkt ook dat de wettekst geen bevoegdheid omvat tot pseudo-verkoop, omdat daarbij veelal niet of slechts moeizaam zal kunnen worden aangetoond dat is voldaan aan het Tallon-criterium (instigatieverbod). Deze redenering doet vooral opgeld wanneer er sprake zou zijn van de verkoop aan de verdachte van goederen of voorwerpen waarvan het voorhanden hebben of het verhandelen bij wet verboden is (hierna voor het gemak te noemen: illegale goederen). Pseudoverkoop van dergelijke illegale goederen is niet toegestaan. Het kan echter voorkomen dat de verkoper van op zichzelf legale goederen, gelet op de aard van de bestelling of de persoon van de koper, vermoedt dat de koper, na levering, de goederen illegaal zal verwerken of daaraan anderszins een illegale bestemming zal geven. De samenwerking tussen het openbaar ministerie en een dergelijke verkoper is toegestaan, mits die samenwerking wordt geformaliseerd volgens de eisen van [art. 126ij Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij) respectievelijk [art. 126z Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z) (burgerpseudodienstverlening). Weliswaar worden hier strikt genomen geen diensten verleend (zie art. 126ij onder c Sv) maar goederen verkocht, doch naar aard en strekking is de burgerpseudoverkoop een figuur die met burgerpseudodienstverlening de grootste verwantschap vertoont. Om die reden wordt voor deze gevallen een burgerpseudodienstverleningsovereenkomst zoals bedoeld in de artt. 126ij en 126z Sv voorgeschreven.
+Pseudo-verkoop
+
+‘Pseudo-verkoop’ is niet in de wet geregeld. De wetgever heeft bij het tot stand komen van de [Wet BOB](https://wetten.overheid.nl/jci1.3:c:BWBR0010478) niet de bedoeling gehad om het opsporingsonderzoek systematisch te beschrijven, maar om bevoegdheden te creëren ten behoeve van de strafrechtelijke afdoening van delicten. Bevoegdheden die ingrijpen op de vrijheid of op andere grondrechten van burgers behoeven een specifieke regeling. De regeling behoeft niet uitputtend te zijn, hetgeen blijkt uit de Memorie van Toelichting (Kamerstukken II, 1996–97, , p. 9).Uit diezelfde Memorie (p. 34) blijkt ook dat de wettekst geen bevoegdheid omvat tot pseudo-verkoop, omdat daarbij veelal niet of slechts moeizaam zal kunnen worden aangetoond dat is voldaan aan het Tallon-criterium (instigatieverbod). Deze redenering doet vooral opgeld wanneer er sprake zou zijn van de verkoop aan de verdachte van goederen of voorwerpen waarvan het voorhanden hebben of het verhandelen bij wet verboden is (hierna voor het gemak te noemen: illegale goederen). Pseudoverkoop van dergelijke illegale goederen is niet toegestaan. Het kan echter voorkomen dat de verkoper van op zichzelf legale goederen, gelet op de aard van de bestelling of de persoon van de koper, vermoedt dat de koper, na levering, de goederen illegaal zal verwerken of daaraan anderszins een illegale bestemming zal geven. De samenwerking tussen het openbaar ministerie en een dergelijke verkoper is toegestaan, mits die samenwerking wordt geformaliseerd volgens de eisen van [art. 126ij Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij) respectievelijk [art. 126z Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z) (burgerpseudodienstverlening). Weliswaar worden hier strikt genomen geen diensten verleend (zie art. 126ij onder c Sv) maar goederen verkocht, doch naar aard en strekking is de burgerpseudoverkoop een figuur die met burgerpseudodienstverlening de grootste verwantschap vertoont. Om die reden wordt voor deze gevallen een burgerpseudodienstverleningsovereenkomst zoals bedoeld in de artt. 126ij en 126z Sv voorgeschreven.
 
 ### 2.9. Politiële- en burgerinfiltratie
+
+Algemeen
 
 De bevoegdheid tot politiële- of burgerinfiltratie mag niet worden toegepast met het uitsluitende doel om de informatiepositie in een bepaald onderzoek te kunnen verbeteren. De inzet van deze bevoegdheid moet een strafvorderlijk doel dienen.
 
@@ -306,23 +503,45 @@ Het deelnemen of medewerking verlenen aan een criminele groep kan van binnenuit 
 
 Een opsporingsambtenaar die uitvoering geeft aan een bevel politiële infiltratie mag er op vertrouwen dat hij niet vervolgd zal worden voor strafbare feiten die hij in het kader van de uitvoering van het bevel heeft begaan. De opsporingsambtenaar handelt namelijk in opdracht van de officier van justitie. De opsporingsambtenaar die op een correcte wijze uitvoering geeft aan een bevel politiële infiltratie kan daarom een beroep doen op de strafuitsluitingsgrond van [art. 43 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=43). Een opsporingsambtenaar kan bij de uitvoering van een bevel echter in een situatie belanden waarin hij onverwachts betrokken raakt bij strafbare feiten waar het bevel niet in voorziet. Aangezien het plegen van deze strafbare feiten achteraf niet door een bevel kan worden gedekt, zal gekeken moeten worden of het bevel mondeling kan worden gewijzigd. Indien dit niet mogelijk is, zal de officier van justitie achteraf moeten beoordelen of de politiële infiltrant heeft gehandeld binnen de kaders van het bevel. Oordeelt de officier van justitie achteraf dat het verrichten van de strafbare handelingen aanvaardbaar of onontkoombaar was in het licht van de uit te voeren undercoveractiviteiten, dan kan hij besluiten niet tot vervolging over te gaan. Het voorgaande geldt ook voor de burger die uitvoering geeft aan een schriftelijke overeenkomst burgerinfiltratie.
 
+Burgerinfiltratie
+
 Van burgerinfiltratie kan uitsluitend sprake zijn in het geval het verlenen van bijstand door een burger heeft plaatsgevonden op initiatief en onder regie van politie en justitie. Indien de burger zelf het initiatief heeft genomen om bepaalde (onrechtmatige) handelingen te verrichten heeft dit handelen niet plaatsgehad onder verantwoordelijkheid van politie en justitie. De burger is dan ook zelf verantwoordelijk voor eventuele strafbare feiten die dergelijk handelen heeft opgeleverd. In beginsel kan de op deze wijze verkregen informatie wel worden gebruikt in een strafzaak. Als uitgangspunt geldt hierbij dat politie en justitie geen sturende betrokkenheid bij deze handelingen hebben gehad.
 
-In de [artt. 126w](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126w)/[126x Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126x) wordt geen onderscheid gemaakt tussen criminele en niet-criminele burgerinfiltranten. Echter, gegeven het feit dat aan het werken met criminele burgerinfiltranten reële risico’s zijn verbonden (zoals het gevaar van ongewenste verbindingen tussen de criminele infiltrant en de betrokken criminele groepering, het gevaar voor het weglekken van politie-informatie of het gevaar van verlies van regie en controleerbaarheid) heeft de Tweede Kamer destijds de motie Kalsbeek aanvaard waarin werd bepaald dat er een algemeen verbod gold op het inzetten van criminele burgerinfiltranten (Kamerstukken II 1998/99, 25 403 en 23 251, nr. 33). Later is daarop een uitzondering gemaakt als sprake is van een opsporingsonderzoek naar terroristische misdrijven (Kamerstukken II, 2002/03, 27 834, nr. 28).
+In de [artt. 126w](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126w)/[126x Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126x) wordt geen onderscheid gemaakt tussen criminele en niet-criminele burgerinfiltranten. Echter, gegeven het feit dat aan het werken met criminele burgerinfiltranten reële risico’s zijn verbonden (zoals het gevaar van ongewenste verbindingen tussen de criminele infiltrant en de betrokken criminele groepering, het gevaar voor het weglekken van politie-informatie of het gevaar van verlies van regie en controleerbaarheid) heeft de Tweede Kamer destijds de motie Kalsbeek aanvaard waarin werd bepaald dat er een algemeen verbod gold op het inzetten van criminele burgerinfiltranten (Kamerstukken II 1998/99, 25 403 en 23 251, nr. 33). Later is daarop een uitzondering gemaakt als sprake is van een opsporingsonderzoek naar terroristische misdrijven (Kamerstukken II, 2002/03, 27 834, nr. 28).
 
-Door de aanvaarding van de motie-Recourt (Kamerstukken II 2013/2014, 29 279, nr. 192)3De motie is aangenomen op 25 maart 2014. is het algemeen verbod op de inzet van criminele burgerinfiltranten komen te vervallen, en is het mogelijk geworden om in bepaalde situaties criminele burgerinfiltranten in te zetten bij de aanpak van zware criminelen en criminele organisaties, die hun criminele activiteiten zeer succesvol afschermen en met traditionele opsporingsmiddelen onvoldoende kunnen worden aangepakt. Alleen in hoge uitzonderingsgevallen en onder strikte waarborgen mag die inzet plaatsvinden. Voldaan moet zijn aan de eisen van proportionaliteit en subsidiariteit. De inzet moet kortdurend zijn en er wordt geen gebruik gemaakt van groei-infiltranten.4Zie pag. 20, Kamerstukken II 2013/2014, 29 279, nr. 195.
+Door de aanvaarding van de motie-Recourt (Kamerstukken II 2013/2014, 29 279, nr. 192)3De motie is aangenomen op 25 maart 2014. is het algemeen verbod op de inzet van criminele burgerinfiltranten komen te vervallen, en is het mogelijk geworden om in bepaalde situaties criminele burgerinfiltranten in te zetten bij de aanpak van zware criminelen en criminele organisaties, die hun criminele activiteiten zeer succesvol afschermen en met traditionele opsporingsmiddelen onvoldoende kunnen worden aangepakt. Alleen in hoge uitzonderingsgevallen en onder strikte waarborgen mag die inzet plaatsvinden. Voldaan moet zijn aan de eisen van proportionaliteit en subsidiariteit. De inzet moet kortdurend zijn en er wordt geen gebruik gemaakt van groei-infiltranten.4Zie pag. 20, Kamerstukken II 2013/2014, 29 279, nr. 195.
 
 Om te beoordelen of een potentiële burgerinfiltrant moet worden aangemerkt als een criminele burgerinfiltrant dient aan een aantal criteria te worden getoetst. Er is in ieder geval sprake van een criminele burgerinfiltrant indien de burger:
 
+- – actief is in hetzelfde criminele veld (dit is in ieder geval de burger die dezelfde soort delicten pleegt als de organisatie waarin hij moet infiltreren);
+
+- – binnen hetzelfde criminele milieu waarin hij verkeert, gaat infiltreren (dit is in ieder geval de burger die betrokken is bij het beramen of plegen van strafbare feiten binnen dezelfde criminele groepering waarin moet worden geïnfiltreerd);
+
+- – een relevant strafrechtelijk verleden heeft ten aanzien van de gepleegde of nog te plegen misdrijven waartegen het onderzoek zich richt. Met betrekking tot dit criterium dient gekeken te worden naar alle bij de politie en justitie beschikbare informatie.
+
 Het hebben van een strafblad is op zichzelf dus niet doorslaggevend voor de beantwoording van de vraag of er sprake is van een criminele burgerinfiltrant.
+
+Samenloop met andere werkzaamheden onder dekmantel
+
+Stelselmatig inwinnen van informatie (door een burger) (
+
+artt. 126j
+
+126qa
+
+126v Sv
 
 De bevoegdheid tot (burger)infiltratie sluit die van stelselmatige informatie-inwinning in.
 
+(Burger)pseudo-koop of -dienstverlening (artt. 126i/126q en artt. 126ij/126z Sv)
+
 De bevoegdheid tot (burger)infiltratie omvat de bevoegdheid van (burger)pseudo-koop- en dienstverlening. Het doen van een pseudo-koop of het verlenen van een pseudo-dienst kan namelijk plaatsvinden als een vorm van deelnemen of medewerking verlenen aan een criminele groepering. Hierbij valt bijvoorbeeld te denken aan een vertrouwensaankoop. In zo’n geval is dan ook geen apart bevel pseudokoop of -dienstverlening nodig of, in geval van burgerpseudokoop of -dienstverlening, een aparte overeenkomst met de burger. Wel zal in het bevel politiële infiltratie of de overeenkomst burgerinfiltratie, bij de omschrijving van de wijze waarop aan het bevel of de overeenkomst uitvoering wordt gegeven, vermeld moeten worden dat de bevoegdheid tot pseudokoop of -dienstverlening mag worden toegepast. Opmerking hierbij verdient dat voor het verrichten van pseudokopen tijdens een infiltratietraject wel de afzonderlijke toestemming van het College, na advies van de CTC, is vereist.
+
+Procedure
 
 De officier van justitie kan pas een bevel tot politiële infiltratie afgeven of een overeenkomst met een burger tot het verlenen van bijstand aan de opsporing (burgerinfiltratie) sluiten nadat het voornemen daartoe door de hoofdofficier van justitie van het betrokken parket via de CTC ter goedkeuring aan het College is voorgelegd en het College met dat voornemen heeft ingestemd.
 
-Op grond van [art. 131 Wet RO](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=131) jo. art. 11 van het Reglement van Orde College van procureurs-generaal (Stcrt. 1999, 106) stelt het College de minister van Veiligheid en Justitie op de hoogte van het voornemen om een burgerinfiltrant in te zetten. Ingevolge de motie-Recourt is toestemming van de minister van Veiligheid en Justitie vereist voor de inzet van een **criminele** burgerinfiltrant.
+Op grond van [art. 131 Wet RO](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=131) jo. art. 11 van het Reglement van Orde College van procureurs-generaal (Stcrt. 1999, 106) stelt het College de minister van Veiligheid en Justitie op de hoogte van het voornemen om een burgerinfiltrant in te zetten. Ingevolge de motie-Recourt is toestemming van de minister van Veiligheid en Justitie vereist voor de inzet van een *criminele* burgerinfiltrant.
 
 Indien door het College een termijn is gesteld bij de verleende toestemming tot inzet van politiële- of burgerinfiltratie zal de zaak, voor de afloop van deze termijn, opnieuw ter toetsing voorgelegd moeten worden aan de CTC. De CTC zal hierop haar advies voorleggen aan het College.
 
@@ -330,13 +549,21 @@ In het bevel politiële infiltratie moeten onder meer de feiten en omstandighede
 
 Het schriftelijke document als bedoeld in de [artt. 126w](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126w)/[126x lid 4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126x) zal bij de processtukken gevoegd moeten worden. In beginsel geldt dit niet ten aanzien van de schriftelijke overeenkomst die met de burger is gesloten omdat in deze overeenkomst gegevens kunnen zijn opgenomen die de identiteit van de burger kunnen verhullen. Deze gegevens moeten (voor de zekerheid) worden afgeschermd door bijvoorbeeld in de schriftelijke overeenkomst de burger aan te duiden onder een codenummer.
 
+Uitvoering
+
+Uitvoering door opsporingsambtenaren in geval van politiële infiltratie
+
 Gezien de bijzondere kennis en vaardigheden die zijn vereist voor een goede uitvoering van een bevel politiële infiltratie kunnen slechts daartoe opgeleide opsporingsambtenaren van politie ([art. 141, onderdeel b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141)) die lid zijn van de afdeling Afgeschermde Operaties van de Landelijke Eenheid worden belast met zo’n bevel.
 
-Indien binnen de politie bijzondere kennis of deskundigheid niet beschikbaar is die nodig is voor de uitvoering van een bevel politiële infiltratie kunnen (behalve de opsporingsambtenaren van politie) ook opsporingsambtenaren van de KMar of van een bijzondere opsporingsdienst ([art. 141, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) of [art. 142 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142)), die geen lid zijn van de afdeling Afgeschermde Operaties van de Landelijke Eenheid, met de uitvoering van zo’n bevel worden belast. Deze opsporingsambtenaren zullen echter wel moeten voldoen aan de opleidingseisen die gelden voor opsporingsambtenaren die lid zijn van de afdeling Afgeschermde Operaties van de Landelijke Eenheid (Zie hieromtrent het [Samenwerkingsbesluit bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010976) (**Stb.** 1999, 549).
+Indien binnen de politie bijzondere kennis of deskundigheid niet beschikbaar is die nodig is voor de uitvoering van een bevel politiële infiltratie kunnen (behalve de opsporingsambtenaren van politie) ook opsporingsambtenaren van de KMar of van een bijzondere opsporingsdienst ([art. 141, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) of [art. 142 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142)), die geen lid zijn van de afdeling Afgeschermde Operaties van de Landelijke Eenheid, met de uitvoering van zo’n bevel worden belast. Deze opsporingsambtenaren zullen echter wel moeten voldoen aan de opleidingseisen die gelden voor opsporingsambtenaren die lid zijn van de afdeling Afgeschermde Operaties van de Landelijke Eenheid (Zie hieromtrent het [Samenwerkingsbesluit bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010976) (*Stb.* 1999, 549).
 
 In de [Regeling infiltratieteams](https://wetten.overheid.nl/jci1.3:c:BWBR0003302) (Stcrt. 2000, nr. 7) zijn regels opgenomen ten aanzien van de organisatie, selectie en opleiding van politiële infiltranten alsmede betreffende de begeleiding, rapportage en verantwoording van infiltratieacties.
 
+Begeleiding van burgers door opsporingsambtenaren in geval van burgerinfiltratie
+
 Bij de inzet van een burgerinfiltrant dient in verband met de integriteit en de beheersbaarheid van de opsporing steeds bijzondere aandacht te worden besteed aan de betrouwbaarheid en de stuurbaarheid van de in te zetten burger. De burgerinfiltrant zal dan ook altijd begeleid moeten worden door een opgeleide begeleider van de afdeling Afgeschermde Operaties van de Landelijke Eenheid.
+
+Afscherming
 
 De resultaten die worden verkregen door de inzet van de bevoegdheid tot (burger)infiltratie kunnen als bewijs in de strafzaak worden ingebracht. Dit heeft tot gevolg dat deze resultaten integraal ter terechtzitting verantwoord moeten kunnen worden. Dit kan als consequentie hebben dat de (burger)infiltrant als getuige moet worden gehoord. Om verschillende redenen kan het echter gewenst zijn om de identiteit van de opsporingsambtenaar of de burger af te schermen. In de eerste plaats kan het openbaar maken van de identiteit van de opsporingsambtenaar een ernstige belemmering voor hem opleveren om in de toekomst uitvoering te kunnen geven aan zijn functie. Daarnaast kan ook de veiligheid van de opsporingsambtenaar of de burger in dit geval in het geding komen. De wens om informatie af te schermen geldt ook ten aanzien van de in het kader van de infiltratie gebruikte opsporingstechnieken -en tactieken. Openbaarmaking hiervan zou namelijk tot gevolg kunnen hebben dat hier in de toekomst geen gebruik meer van kan worden gemaakt dan wel dat de waarde van het middel afneemt.
 
@@ -344,9 +571,19 @@ De identiteit van een opsporingsambtenaar die uitvoering heeft gegeven aan een b
 
 ### 2.10. Vorderen van gegevens
 
+Algemeen
+
 Indien in het belang van het opsporingsonderzoek vastgelegde gegevens moeten worden verkregen die aanwezig zijn bij een derde, dan geldt als uitgangspunt dat de wettelijke regeling van de bevoegdheden tot het vorderen van gegevens wordt toegepast ([artt. 126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc)–[126nh](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nh)/[126uh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uh)). De wettelijke regeling van de bevoegdheden tot het vorderen van gegevens kent namelijk waarborgen met het oog op de bescherming van de gegevens van de persoon of de personen op wie de gegevens betrekking hebben en ziet toe op behartiging van de belangen van anderen, zoals die van derden.
 
 Kortom de hoofdregel luidt dat opgeslagen/vastgelegde gegevens moeten worden gevorderd. Uitzonderingen hierop zijn:
+
+- – Zonder vordering kan *een burger* gegevens verstrekken op basis van vrijwillige medewerking (hieronder wordt verstaan op eigen initiatief of desverzocht door de opsporingsambtenaar).
+
+- – *Een bedrijf of instelling* kan zonder vordering gegevens verstrekken, indien die verstrekking gepaard gaat met aangifte. Dan is sprake van gegevens die op eigen initiatief zijn verstrekt.
+
+- – Geen vordering is nodig voor gegevens die vrij opvraagbaar zijn (bijvoorbeeld het openbaar deel van het register van het Kadaster/de Kamer van Koophandel of het internet).
+
+- – Evenmin is een vordering nodig indien de gegevens op grond van bijzondere wetgeving kunnen worden verkregen. Wel geldt dat de regeling omtrent inbeslagneming in dit geval niet kan worden toegepast als het doel uitsluitend is de verkrijging van gegevens die staan op de gegevensdrager en niet om de gegevensdrager zelf.
 
 Uiteraard kan een bedrijf/instelling buiten de regeling van de bevoegdheden tot het vorderen van gegevens om, vrijwillig uit eigen beweging gegevens verstrekken die niet onder de bescherming van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) vallen.
 
@@ -368,6 +605,8 @@ Indien de officier van justitie in het kader van het vorderen van toekomstige ge
 
 De bevoegdheid tot het vorderen van de bevriezing van gegevens geeft geen bevoegdheid om van een derde te vorderen om heel in het algemeen gegevens voor een bepaalde termijn vast te leggen. Een vordering kan namelijk slechts in een bepaald geval (indien het onderzoek dit dringend vordert) en ten aanzien van gespecificeerde gegevens worden gedaan.
 
+Procedure
+
 De vordering verstrekking van gegevens op grond van de [artt. 126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc)–[126nh](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nh)/[126uh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uh) is schriftelijk en vermeldt de naam of een zo nauwkeurig mogelijke aanduiding van de (rechts)persoon over wie de gegevens worden gevorderd, een zo nauwkeurig mogelijke aanduiding van de gegevens die worden gevorderd en de termijn waarbinnen en de wijze waarop de gegevens dienen te worden verstrekt en het wetsartikel op grond waarvan de vordering wordt gedaan.
 
 Een vordering verstrekking van gegevens dient zoveel mogelijk geconcretiseerd te zijn ten aanzien van de persoon met betrekking tot wie gegevens worden opgevraagd, alsook ten aanzien van de te vorderen gegevens. Indien de vordering geen betrekking heeft op een bepaalde persoon, dan zullen de te vorderen gegevens zoveel mogelijk in de vordering moeten worden beperkt in tijd, plaats of groep van personen.
@@ -378,19 +617,25 @@ De zelfstandige vordering door de opsporingsambtenaar is voorbehouden aan die op
 
 Van de verstrekking van identificerende gegevens dient een proces-verbaal opgemaakt te worden door de opsporingsambtenaar. De officier van justitie doet van een verstrekking van toekomstige en historische gegevens ([artt. 126nd](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nd)/[126ud](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ud) en [126ne](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ne)/[126ue Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ue)), gevoelige gegevens ([artt. 126nf](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nf)/[126uf Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uf)) en gegevens van een aanbieder van een communicatiedienst ([artt. 126ng](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ng)/[126ug Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ug)) proces-verbaal opmaken door een opsporingsambtenaar. Indien duidelijk is in welk onderzoek en naar welk strafbaar feit de bevoegdheid is toegepast, kan de verkrijging van gegevens op grond van verschillende individuele vorderingen ook in één proces-verbaal worden verantwoord.
 
-Ondanks dat de Wet bevoegdheden vorderen gegevens ([artt. 126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc)–[126nh](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nh)/[126uh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uh)) (**Stb.** 2005, 390) in de plaats is gekomen van de Wet vorderen gegevens financiële sector (**Stb.** 2004, 109) blijft hetgeen in de wetsgeschiedenis van de Wet vorderen gegevens financiële sector aan de orde is gekomen geheel van toepassing op de vorderingen die op grond van de artt. 126nc/126uc–[126nf](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nf)/[126uf Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uf) worden gericht aan de financiële dienstverleners. Ten aanzien van de vorderingen die gericht worden aan financiële dienstverleners blijven dan ook de afspraken gelden die mede op basis van de Wet vorderen gegevens financiële sector zijn gemaakt tussen justitie en de financiële dienstverleners omtrent de ingevolge die wet uit te voeren gegevensverstrekkingen en de in verband daarmee te vergoeden kosten.
+Vordering aan een financiële dienstverlener tot verstrekking van gegevens
 
-Financiële dienstverleners zijn aanbieders van een financieel product of financiële dienst zoals gedefinieerd in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (**Stb.** 2006, 475). Daarmee valt het in deze aanwijzing gehanteerde begrip financiële dienstverlener niet geheel samen met de in deze wet gehanteerde definitie. Onder financiële dienstverleners in de zin van deze aanwijzing zijn onder meer begrepen: kredietinstellingen, effecteninstellingen, beleggingsinstellingen, wisselkantoren, verzekeringsbedrijven (waaronder assurantietussenpersonen) en pensioenbedrijven. Het betreft de instellingen die vallen onder het toezicht dat geregeld is in de financiële toezichtwetten ([Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477)). Daarnaast betreft het de instellingen die vallen onder de [Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816), de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) en de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993).
+Ondanks dat de Wet bevoegdheden vorderen gegevens ([artt. 126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc)–[126nh](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nh)/[126uh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uh)) (*Stb.* 2005, 390) in de plaats is gekomen van de Wet vorderen gegevens financiële sector (*Stb.* 2004, 109) blijft hetgeen in de wetsgeschiedenis van de Wet vorderen gegevens financiële sector aan de orde is gekomen geheel van toepassing op de vorderingen die op grond van de artt. 126nc/126uc–[126nf](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nf)/[126uf Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uf) worden gericht aan de financiële dienstverleners. Ten aanzien van de vorderingen die gericht worden aan financiële dienstverleners blijven dan ook de afspraken gelden die mede op basis van de Wet vorderen gegevens financiële sector zijn gemaakt tussen justitie en de financiële dienstverleners omtrent de ingevolge die wet uit te voeren gegevensverstrekkingen en de in verband daarmee te vergoeden kosten.
+
+Financiële dienstverleners zijn aanbieders van een financieel product of financiële dienst zoals gedefinieerd in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (*Stb.* 2006, 475). Daarmee valt het in deze aanwijzing gehanteerde begrip financiële dienstverlener niet geheel samen met de in deze wet gehanteerde definitie. Onder financiële dienstverleners in de zin van deze aanwijzing zijn onder meer begrepen: kredietinstellingen, effecteninstellingen, beleggingsinstellingen, wisselkantoren, verzekeringsbedrijven (waaronder assurantietussenpersonen) en pensioenbedrijven. Het betreft de instellingen die vallen onder het toezicht dat geregeld is in de financiële toezichtwetten ([Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477)). Daarnaast betreft het de instellingen die vallen onder de [Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816), de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) en de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993).
 
 In het geval gegevens worden gevorderd bij financiële dienstverleners zal er, voordat de vordering gegevensverstrekking wordt gedaan, overleg plaats moeten vinden tussen de opsporingsambtenaar en de voor de betrokken financiële dienstverlener opgegeven contactpersoon. In dit overleg zullen afspraken gemaakt moeten worden over de wijze waarop aan de vordering zal worden voldaan en de plaats waar en de termijn waarbinnen de gegevens verstrekt kunnen worden. De betrokken financiële dienstverlener wordt na overleg met de contactpersoon een redelijke termijn gegeven, tenzij het belang van het strafrechtelijk onderzoek eist dat de financiële dienstverlener onverwijld inzage c.q. afgifte (in kopie) van de voorwerpen of gegevens verleent. Indien digitaal te verstrekken, zal de financiële dienstverlener tot wie de vordering is gericht de gevorderde gegevens digitaal aanleveren. Indien de vordering zich uitstrekt tot de originele documenten zal de financiële dienstverlener in de gelegenheid worden gesteld om vooraf van deze documenten kopieën te vervaardigen. De officier van justitie kan bepalen dat, indien het belang van het opsporingsonderzoek zich daartegen verzet, zulks pas zal kunnen geschieden op een zodanig moment dat dit het opsporingsonderzoek niet belemmert.
 
 Indien een vordering verstrekking identificerende gegevens wordt gericht tot een financiële dienstverlener toetst de hulpofficier van justitie of, in geval van bijvoorbeeld een bijzondere opsporingsdienst, de teamleider de voorgenomen vordering op proportionaliteit en subsidiariteit. Hierna wordt de vordering schriftelijk door de hulpofficier van justitie of de teamleider gedaan.
+
+Bevel tot uitlevering van voorwerpen en de bevoegdheid tot inbeslagneming
 
 Er is geen sprake van een keuzevrijheid tussen het vorderen van gegevens op grond van de [artt. 126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc)–[126nh](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nh)/[126uh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uh) enerzijds en het in beslag nemen van voorwerpen of het vorderen van de uitlevering ter inbeslagneming van voorwerpen op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of bijzondere wetten, zoals de [Wet economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) (WED) en de [Algemene wet inzake Rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) (AWR), anderzijds. Als uitgangspunt geldt dat, indien met toepassing van de bevoegdheden tot het vorderen van gegevens kan worden volstaan, geen gebruik mag worden gemaakt van de bevoegdheden tot inbeslagneming en de uitlevering ter inbeslagneming.
 
 De bevoegdheden tot (de uitlevering ter) inbeslagneming kunnen slechts worden toegepast indien een opsporingsambtenaar de beschikking wil krijgen over stoffelijke voorwerpen. Deze bevoegdheden bevatten geen basis om gegevens te vorderen. Een gegeven kan namelijk niet worden beschouwd als een voorwerp.
 
 Het belang van het onderzoek kan echter met zich meebrengen dat over de originele voorwerpen, zoals schriftelijke bescheiden, dient te kunnen worden beschikt omdat deze als overtuigingsstuk dienst zullen doen, zoals in geval van valsheden. Ook kan het voorkomen dat het in het belang van het onderzoek is dat (tijdelijk) de beschikking wordt verkregen over bijvoorbeeld een (partieel) compleet financieel dossier zodat onderzoek kan worden gedaan naar eventuele valsheden. Verder kunnen spoedeisende belangen of risico’s – liggende in de sfeer van collusie – een reden zijn om op zo kort mogelijke termijn direct fysiek over de verlangde voorwerpen te beschikken. In voornoemde gevallen – hetgeen ook in het proces-verbaal ter inbeslagneming of uitlevering ter inbeslagneming dient te worden onderbouwd – is de weg van de zwaardere en/of bijzondere bevoegdheid uiteraard de meest aangewezen.
+
+Vorderen van gegevens in het kader van een Strafrechtelijk Financieel Onderzoek (SFO)
 
 In het geval van een SFO heeft een opsporingsambtenaar geen vrije keuze om gegevens op te vragen op grond van de [artt. 126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc)-[126nh](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nh)/[126uh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc) of op grond van [art. 126a lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126a). Aangezien het in het kader van een SFO gaat om het toepassen van een bevoegdheid die speciaal is gegeven met het oog op een bepaald doel zal de opsporingsambtenaar de gegevens in dit geval moeten vorderen op grond van art. 126a Sv. Ten aanzien van gevoelige gegevens geldt echter dat deze gegevens, ook tijdens een SFO, alleen gevorderd kunnen worden op basis van [art. 126nf Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nf).
 
@@ -406,13 +651,21 @@ De regeling van de [artt. 126cc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903
 
 ### 3.2. Inzet bijzondere opsporingsbevoegdheden in geval van terroristische misdrijven
 
-Op 1 februari 2007 is de Wet Verruiming mogelijkheden ter opsporing en vervolging van terroristische misdrijven (**Stb.** 2006, 731) in werking getreden. Door de invoering van deze wet is in de [Titels VB](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VB) en [VC](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VC) van het Wetboek van Strafvordering een regeling opgenomen voor de toepassing van bijzondere opsporingsbevoegdheden in geval van ‘aanwijzingen’ van een terroristisch misdrijf ([artt. 126zd t/m 126zu Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd)). De omschrijving van de in deze titels opgenomen opsporingsbevoegdheden sluit in inhoudelijk opzicht aan bij de in de [titels IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=V) en [VA](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VA) opgenomen bijzondere opsporings-bevoegdheden, met uitzondering van het criterium voor de toepassing van de bijzondere opsporingsbevoegdheden.
+Op 1 februari 2007 is de Wet Verruiming mogelijkheden ter opsporing en vervolging van terroristische misdrijven (*Stb.* 2006, 731) in werking getreden. Door de invoering van deze wet is in de [Titels VB](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VB) en [VC](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VC) van het Wetboek van Strafvordering een regeling opgenomen voor de toepassing van bijzondere opsporingsbevoegdheden in geval van ‘aanwijzingen’ van een terroristisch misdrijf ([artt. 126zd t/m 126zu Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd)). De omschrijving van de in deze titels opgenomen opsporingsbevoegdheden sluit in inhoudelijk opzicht aan bij de in de [titels IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=V) en [VA](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VA) opgenomen bijzondere opsporings-bevoegdheden, met uitzondering van het criterium voor de toepassing van de bijzondere opsporingsbevoegdheden.
 
 In de [artt. 126za](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126za) en [126zb Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zb) zijn algemene voorschriften opgenomen die betrekking hebben op de bevelen van de officier van justitie alsmede de machtigingen van de rechter-commissaris in het geval de in de [titels VB](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VB) en [VC](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VC) opgenomen bijzondere opsporingsbevoegdheden worden toegepast ter opsporing van terroristische misdrijven. Deze voorschriften zijn inhoudelijk gezien vergelijkbaar met de voorschriften die gelden in verband met de inzet van de in de [titels IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=V) opgenomen bijzondere opsporingsbevoegdheden. De modelformulieren die worden toegepast in het kader van de opsporing van een strafbaar feit kunnen dan ook worden gebruikt indien de in de titels VB en VC opgenomen bijzondere opsporingsbevoegdheden worden toegepast, waarbij een aantal – in de vordering of het bevel van de officier van justitie opgenomen – passages aangepast dienen te worden.
 
+Onderzoek van voorwerpen, vervoermiddelen en kleding bij aanwijzingen van een terroristisch misdrijf (
+
+artt. 126zq
+
+126zr
+
+126zs Sv
+
 In de Wet Verruiming mogelijkheden ter opsporing en vervolging van terroristische misdrijven is, naast een regeling van bijzondere opsporingsbevoegdheden, ook een regeling opgenomen voor de toepassing van (onderzoeks)bevoegdheden om, in geval van aanwijzingen van een terroristisch misdrijf, onderzoek te doen aan voorwerpen, vervoermiddelen en/of kleding. Deze regeling is opgenomen in de [artt. 126zq](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zq)/[126zr](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zr)/[126zs Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zs).
 
-De in de [artt. 126zq](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zq)/[126zr](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zr)/[126zs Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zs) opgenomen bevoegdheden kunnen slechts worden toegepast bij een (mondeling) bevel daartoe van de officier van justitie. In het bevel zal de officier van justitie aan moeten geven voor welke periode en in welk nader gespecificeerd gebied de bevoegdheden mogen worden uitgeoefend. De door de officier van justitie aangewezen gebieden kunnen worden aangemerkt als tijdelijke risicogebieden, die moeten worden onderscheiden van gebieden die vanwege hun functie een min of meer permanent risico vormen voor terroristische aanslagen (zogenaamde veiligheidsrisicogebieden). Deze veiligheidsrisicogebieden zijn in het [Besluit opsporing terroristische misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0020861) (**Stb.** 2007, 730) aangewezen. Binnen een veiligheidsrisicogebied kunnen de onderzoeks-bevoegdheden worden toegepast zonder dat daaraan een bevel van de officier van justitie vooraf is gegaan.
+De in de [artt. 126zq](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zq)/[126zr](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zr)/[126zs Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zs) opgenomen bevoegdheden kunnen slechts worden toegepast bij een (mondeling) bevel daartoe van de officier van justitie. In het bevel zal de officier van justitie aan moeten geven voor welke periode en in welk nader gespecificeerd gebied de bevoegdheden mogen worden uitgeoefend. De door de officier van justitie aangewezen gebieden kunnen worden aangemerkt als tijdelijke risicogebieden, die moeten worden onderscheiden van gebieden die vanwege hun functie een min of meer permanent risico vormen voor terroristische aanslagen (zogenaamde veiligheidsrisicogebieden). Deze veiligheidsrisicogebieden zijn in het [Besluit opsporing terroristische misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0020861) (*Stb.* 2007, 730) aangewezen. Binnen een veiligheidsrisicogebied kunnen de onderzoeks-bevoegdheden worden toegepast zonder dat daaraan een bevel van de officier van justitie vooraf is gegaan.
 
 Omdat de toepassing van de [artt. 126zq](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zq)/[126zr](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zr)/[126zs Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zs) in de praktijk kan leiden tot vraagstukken van openbare orde zal de burgemeester onverwijld door de verantwoordelijke hoofdofficier van justitie moeten worden geïnformeerd over de voorgenomen toepassing van deze bevoegdheden. Over de toepassing van de onderzoeksbevoegdheden kunnen nadere afspraken worden gemaakt met het openbaar bestuur, bijvoorbeeld in het kader van een driehoeksoverleg.
 
@@ -422,29 +675,59 @@ In het [Besluit opsporing terroristische misdrijven](https://wetten.overheid.nl/
 
 ### 3.3. Verkennend onderzoek
 
+Algemeen
+
 In [art. 126gg Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126gg) is het verkennend onderzoek geregeld. In het kader van een verkennend onderzoek worden gegevens (die afkomstig zijn uit politiegegevensbestanden of open bronnen) verzameld, geanalyseerd en veredeld om vast te kunnen stellen of en op welke wijze binnen de in art. 126gg Sv bedoelde verzamelingen van personen misdrijven worden beraamd of gepleegd. Het verkennend onderzoek dient ter voorbereiding van de opsporing.
+
+Procedure
+
+Start van het onderzoek
 
 De officier van justitie kan pas een bevel verkennend onderzoek afgeven nadat de hoofdofficier van justitie van het betrokken arrondissementsparket het conceptbevel verkennend onderzoek alsmede het onderliggende proces-verbaal van de politie ter toetsing heeft voorgelegd aan het College dat hiervoor toestemming moet geven.
 
 Het College toetst of:
 
+- – het voorgenomen verkennend onderzoek voldoet aan de door de wet en nadere regelgeving gestelde eisen,
+
+- – het voorgenomen verkennend onderzoek mogelijk maatschappelijke, politieke, economische of publicitaire consequenties zal kunnen hebben, en
+
+- – er sprake is van (territoriale en inhoudelijke) overlap met andere (verkennende) onderzoeken.
+
 De hoofdofficier van justitie van het betrokken arrondissementsparket wordt zo spoedig mogelijk in kennis gesteld van het besluit van het College.
 
 Het schriftelijke bevel van de officier van justitie bevat:
 
+- – de aanleiding: de feiten en omstandigheden die aan het bevel ten grondslag liggen;
+
+- – de doelstelling: een concrete probleemstelling met betrekking tot een zo precies mogelijk omschreven verzameling van personen;
+
+- – een tijdsplanning: een omschrijving van het voorgenomen tijdpad.
+
 In het bevel zal de groep van personen die onderwerp zullen vormen van het verkennend onderzoek zo nauwkeurig mogelijk omschreven moeten worden teneinde de bescherming op de persoonlijke levenssfeer van deze personen zo veel mogelijk te kunnen waarborgen.
+
+Verloop van het onderzoek
 
 Indien het College toestemming heeft verleend voor het instellen van een verkennend onderzoek, dan zal de betrokken hoofdofficier van justitie het College periodiek op de hoogte moeten houden van de voortgang van het verkennend onderzoek.
 
 Indien in het kader van een verkennend onderzoek een concrete verdenking ontstaat ten aanzien van bepaalde tot de ‘verzameling’ behorende personen dan kan er tegen die personen een opsporingsonderzoek worden opgestart, terwijl het verkennend onderzoek naar de verzameling van personen nog doorloopt.
 
+Beëindiging van het onderzoek
+
 In art. [126gg Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126gg) is geen maximale termijn aangegeven voor de duur van een verkennend onderzoek. Een verkennend onderzoek zal echter gesloten moeten worden indien het doel van het verkennend onderzoek is bereikt.
 
 Indien een verkennend onderzoek wordt beëindigd, dan zullen de resultaten hiervan vastgelegd moeten worden in een eindrapportage. De eindrapportage bevat:
 
+- – een afschrift van het bevel verkennend onderzoek;
+
+- – een beschrijving van de geraadpleegde bronnen, en
+
+- – de resultaten van het onderzoek.
+
 De hoofdofficier van justitie van het betrokken parket zendt een afschrift van de eindrapportage toe aan het College.
 
 Indien in de eindrapportage informatie is opgenomen die aanleiding kan geven tot het instellen van een opsporingsonderzoek, dan zal deze informatie apart in een proces-verbaal neergelegd moeten worden. Dit proces-verbaal kan dan als startproces-verbaal dienen voor het opsporingsonderzoek.
+
+Verkennend onderzoek naar terroristische misdrijven
 
 Indien een verkennend onderzoek de voorbereiding van de opsporing van terroristische misdrijven tot doel heeft, beschikt de officier van justitie op basis van de [artt. 126hh](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126hh) en [126ii Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ii) over meer bevoegdheden om gegevens op te vragen en te gebruiken.
 
@@ -458,6 +741,8 @@ Op grond van [art. 126ii lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR00019
 
 ### 4.1. Uitgestelde inbeslagneming en het verbod op doorlaten
 
+Verbod op het doorlaten van voorwerpen
+
 Hoewel in [art. 126ff lid 1 en 4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) de verplichting tot inbeslagneming is beperkt tot die situaties waarin sprake is van toepassing van de bijzondere opsporingsbevoegdheden genoemd in de [titels IVa tot en met Va van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA) geldt (gelet op het stelsel van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)) de verplichting tot onmiddellijke inbeslagneming, voor zover dit redelijkerwijs mogelijk is, ook voor alle andere situaties waarin opsporingsambtenaren de vindplaats weten van verboden schadelijke of gevaarlijke voorwerpen.
 
 Er is sprake van ‘weten’ in de zin van [art. 126ff Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) op het moment dat bij opsporingsambtenaren een voldoende mate van zekerheid bestaat over het verboden karakter van de voorwerpen en de vindplaats hiervan. Het zal in dit geval moeten gaan om aanwijzingen die redelijkerwijs geen ruimte voor twijfel laten dat de in art. 126ff Sv aangeduide voorwerpen op de betreffende plaats aanwezig zijn. Indien er slechts een redelijk vermoeden bestaat omtrent de aard en/of de vindplaats van de voorwerpen dan geldt er dus geen verplichting tot inbeslagneming.
@@ -466,25 +751,51 @@ Uitstel van inbeslagneming, feitelijk te beschouwen als gecontroleerde afleverin
 
 In de toelichting op het amendement waarmee [art. 126ff](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) is geïntroduceerd in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), is uitdrukkelijk aangegeven dat het verbod op doorlaten het Nederlandse softdrugsbeleid onverlet laat. Dit beleid is verwoord in de [Aanwijzing Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021625) (2000A019). Naar analogie van de uitgangspunten die in deze aanwijzing zijn opgenomen, kan als richtsnoer gelden dat de verplichting tot inbeslagneming van [art. 126ff Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) niet geldt voor die situaties die op grond van de richtlijn worden gedoogd.
 
+Verbod op het doorlaten van personen
+
 Hoewel er in [art. 126ff Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) uitsluitend wordt gesproken over voorwerpen, geldt in gevallen waarbij misdrijven worden gepleegd waarbij de menselijke waardigheid direct in het geding is een verbod op het doorlaten van personen in de zin van het laten voortduren van bedoelde misdrijven. Dit verbod is het resultaat van een door de Tweede Kamer aanvaarde motie (Kamerstukken II 1998/99, 25 403, nrs. 30 en 35). In deze motie sprak de Kamer uit dat ‘het doorlaten van personen in de zin van het laten voortduren van bedoelde misdrijven niet aanvaardbaar is, ook niet met het oog op zwaarwegende opsporingsbelangen’.
 
 Voorbeelden van misdrijven waarbij de menselijke waardigheid direct in het geding is, zijn mensensmokkel, mensenhandel en wederrechtelijke vrijheidsberoving. Er kan sprake zijn van mensonwaardige situaties indien het vervoer van de personen mensonwaardig is (bijvoorbeeld doordat dit vervoer plaatsvindt in containers of laadbakken) dan wel wanneer de gesmokkelde personen in het land van bestemming kennelijk terechtkomen in een situatie waarin zij gedwongen worden in mensonwaardige omstandigheden te verkeren, zoals in geval van gedwongen prostitutie.
 
-De Tweede Kamer is akkoord gegaan met een beperkte uitzonderingsmogelijkheid op het verbod op doorlaten van personen. In geval van mensensmokkel, dat wil zeggen situaties waarin mensen vrijwillig en vaak tegen betaling zich illegaal verblijf verschaffen, is het toegestaan om af te zien van de verplichting tot aanhouding van personen die illegaal in Nederland verblijven en hen die daarbij behulpzaam zijn (Kamerstukken II 1998/99, 25 403, nr. 35). In dat geval moet vooraf wel vaststaan dat:
+De Tweede Kamer is akkoord gegaan met een beperkte uitzonderingsmogelijkheid op het verbod op doorlaten van personen. In geval van mensensmokkel, dat wil zeggen situaties waarin mensen vrijwillig en vaak tegen betaling zich illegaal verblijf verschaffen, is het toegestaan om af te zien van de verplichting tot aanhouding van personen die illegaal in Nederland verblijven en hen die daarbij behulpzaam zijn (Kamerstukken II 1998/99, 25 403, nr. 35). In dat geval moet vooraf wel vaststaan dat:
+
+- – er daadwerkelijk sprake is van vrijwilligheid, en
+
+- – de personen daarbij niet in mensonwaardige situaties verkeren of komen te verkeren, en
+
+- – redelijkerwijs is te verwachten dat door niet in te grijpen belangrijke verdachten kunnen worden
+
+- – geïdentificeerd en aangehouden, en
+
+- – het onderzoek niet op andere wijze tot dit resultaat kan leiden.
 
 Voornoemde uitzonderingsmogelijkheid is dus niet van toepassing in geval van mensenhandel. Bij mensenhandel gaat het namelijk om situaties waarin mensen tegen hun wil hun vrijheid is benomen, zoals in geval van gedwongen prostitutie. Bij verdenking van mensenhandel mogen dan ook nimmer mensen worden doorgelaten.
+
+Procedure
+
+Uitstel van inbeslagneming van voorwerpen (gecontroleerde aflevering)
 
 Uitstel van inbeslagneming kan slechts plaatsvinden nadat de officier van justitie hiervoor toestemming heeft gegeven. Deze toestemming is vormvrij en kan dus ook mondeling worden gegeven. De officier van justitie zal zijn beslissing tot uitstel van inbeslagneming en de daaraan ten grondslag liggende overwegingen moeten doen vastleggen in een proces-verbaal.
 
 Omdat uitstel van inbeslagneming van verboden schadelijke of gevaarlijke voorwerpen slechts mag plaatsvinden indien op een later tijdstip alsnog wordt overgegaan tot inbeslagneming zullen alle maatregelen moeten worden genomen die redelijkerwijs mogelijk zijn om de beoogde inbeslagneming uiteindelijk te kunnen realiseren.
 
-Ook in het kader van het verlenen of ontvangen van rechtshulp aan buitenlandse opsporingsautoriteiten kan een uitstel van inbeslagneming/gecontroleerde aflevering plaatsvinden. Indien er sprake is van een inkomend verzoek tot rechtshulp kan de daartoe aangewezen officier van justitie van het Landelijk Parket toestemming geven voor een gecontroleerde aflevering in het buitenland, indien het verzoekende land voldoende garanties geeft voor de controle op en inbeslagneming van de voorwerpen, waarop het rechtshulpverzoek betrekking heeft. Voor de feitelijke uitvoering wordt verwezen naar de [Aanwijzing rechtshulpverzoeken voor grensoverschrijdende observatie](https://wetten.overheid.nl/jci1.3:c:BWBR0028108) van 2 augustus 2010 (Stcrt. 2010, nr. 13157).
+Ook in het kader van het verlenen of ontvangen van rechtshulp aan buitenlandse opsporingsautoriteiten kan een uitstel van inbeslagneming/gecontroleerde aflevering plaatsvinden. Indien er sprake is van een inkomend verzoek tot rechtshulp kan de daartoe aangewezen officier van justitie van het Landelijk Parket toestemming geven voor een gecontroleerde aflevering in het buitenland, indien het verzoekende land voldoende garanties geeft voor de controle op en inbeslagneming van de voorwerpen, waarop het rechtshulpverzoek betrekking heeft. Voor de feitelijke uitvoering wordt verwezen naar de [Aanwijzing rechtshulpverzoeken voor grensoverschrijdende observatie](https://wetten.overheid.nl/jci1.3:c:BWBR0028108) van 2 augustus 2010 (Stcrt. 2010, nr. 13157).
 
 In geval de inbeslagneming op een later tijdstip onverhoopt niet kan en zal worden gerealiseerd, dan zal de hoofdofficier van justitie daarover ingelicht moeten worden die hierop het College hiervan in kennis stelt. In dit geval zal in een proces-verbaal wel moeten worden vastgelegd waarom de inbeslagneming niet kon worden gerealiseerd.
+
+Afzien van inbeslagneming van voorwerpen (doorlaten)
 
 In geval van hoge uitzondering kan de officier van justitie op grond van de [artt. 140a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=140a) en [131 lid 5 RO](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=131) slechts overgaan tot een bevel afzien van inbeslagneming nadat het College, na overleg met de Minister van Justitie, een voorafgaande schriftelijke toestemming heeft gegeven.
 
 De officier van justitie kan pas een bevel tot het afzien van inbeslagneming afgeven nadat de volgende procedure is gevolgd:
+
+- – de behandelend officier van justitie licht de hoofdofficier van justitie in;
+
+- – de hoofdofficier van justitie legt de zaak via de CTC ter goedkeuring aan het College voor;
+
+- – het College legt zijn voorgenomen beslissing voor aan de Minister van Justitie ([art. 140a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=140a) jo [art. 131 RO](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=131));
+
+- – het College geeft vooraf (al dan niet) een schriftelijke toestemming voor het afzien van de inbeslagneming.
 
 Indien het wachten op het resultaat van voornoemde procedure er toe zou leiden dat de verboden schadelijke of gevaarlijke voorwerpen niet meer in beslag kunnen worden genomen, dan zal tot inbeslagneming moeten worden overgegaan. De wet staat immers niet toe dat de beslissing tot afzien van inbeslagneming op een lager niveau wordt genomen dan dat van het College (na overleg met de Minister van Justitie). Afzien van inbeslagneming kan nimmer achteraf worden goedgekeurd.
 
@@ -494,17 +805,43 @@ De officier van justitie zal in het schriftelijke bevel tot afzien van de inbesl
 
 ### 4.2. Afscherming
 
+Algemeen
+
 In het strafproces geldt als uitgangspunt dat volledige openheid van zaken wordt gegeven over de wijze waarop de opsporing is verlopen (interne openbaarheid). Dit uitgangspunt geldt onverkort ten aanzien van de toepassing van bijzondere opsporingsbevoegdheden. De verantwoording die hierover wordt afgelegd, zal veelal plaatsvinden door het voegen van processtukken in het strafdossier (zie [art. 126aa Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa)), maar ook door het horen van opsporingsambtenaren als getuige.
 
 De inzet van bijzondere opsporingsbevoegdheden zal veelal plaatsvinden op een heimelijke wijze met toepassing van bepaalde (geavanceerde) opsporingstactieken -en technieken. Daarnaast kunnen ook burgers in dit kader medewerking verlenen aan de opsporing. Het voorgaande kan met zich meebrengen dat op grond van de in [art. 187d lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=187d) genoemde belangen een uitzondering wordt gemaakt op het uitgangspunt van de interne openbaarheid. Bepaalde informatie kan worden afgeschermd indien:
+
+- – de getuige ernstig overlast zal ondervinden of zal worden belemmerd in de uitoefening van zijn ambt of beroep,
+
+- – een zwaarwegend opsporingsbelang wordt geschaad, of
+
+- – het belang van de staatveiligheid wordt geschaad.
 
 Afscherming kan plaatsvinden door de informatie niet op te nemen in het strafdossier of door het niet beantwoorden van vragen door een getuige. Op grond van de [artt. 187b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=187b) en [187d Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=187d) heeft de rechter-commissaris de mogelijkheid om bepaalde informatie af te schermen door te beletten dat door de getuige antwoord wordt gegeven op een aan hem gestelde vraag respectievelijk te beletten dat antwoorden op vragen betreffende een bepaald gegeven ter kennis komen van de officier van justitie, de verdachte en diens raadsman.
 
 Behalve in situaties van getuigenverhoor zou [art. 187d Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=187d) ook van toepassing kunnen zijn op stukken of documenten en andere voorwerpen waaraan gegevens kunnen worden ontleend die zijn verkregen door toepassing van de bijzondere opsporingsbevoegdheden. De rechter-commissaris zou in dit kader onderzoek kunnen doen naar de wijze waarop het wel in het strafdossier aanwezige materiaal is verkregen. Dit onderzoek kan hij zodanig inrichten dat informatie waarvan de openbaarmaking een zwaarwegend opsporingsbelang schaadt, onvermeld blijft. Er zijn stukken en andere gegevensdragers die, op grond van de in het eerste lid van art. 187d Sv genoemde belangen, niet geopenbaard moeten worden. Hierbij moet bijvoorbeeld worden gedacht aan documenten behorende tot de CIE, interne verslagen van een infiltratiebegeleidingsteam of stukken van een observatieteam met betrekking tot medewerkende burgers die de gelegenheid hebben gegeven voor het plaatsen van camera’s.
 
+Afschermprocedure
+
 Tijdens een lopend opsporingsonderzoek kan er informatie worden verkregen die aanleiding kan geven tot het opstarten van een nieuw (deel)onderzoek (het ‘doelonderzoek’), terwijl het onderzoek waaruit de informatie voortkomt (het ‘brononderzoek’) nog geruime tijd moet worden afgeschermd. In dat geval zal de zogenaamde afschermprocedure gevolgd moeten worden. Door middel van deze procedure is het mogelijk om enerzijds afscherming te bieden aan het brononderzoek, terwijl anderzijds (zonodig) voldoende startinformatie wordt verschaft om een nieuw (deel)onderzoek te kunnen opstarten. De afschermprocedure kan uitkomst bieden in het geval tijdens een onderzoek informatie wordt verkregen over verboden goederen, zoals harddrugs of vuurwapens. Op grond van [art. 126ff Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) geldt ten aanzien van dergelijke goederen in beginsel een verplichting tot inbeslagname als er voldoende aanwijzingen bestaan over hun bergplaats. Een ander voorbeeld waarbij de afscherm-procedure kan worden toegepast betreft het geval waarin informatie is verkregen die op zichzelf niet noodzaakt tot onmiddellijk optreden, maar ter zake waarvan de politie (met name een ander onderzoeksteam) om andere redenen graag mee aan de slag wil. De afschermprocedure vindt op de volgende wijze plaats:
 
+- – In de eerste plaats zal de zaaksofficier van justitie van het brononderzoek toestemming moeten geven voor het gebruik van de informatie in het doelonderzoek.
+
+- – Indien er toestemming is gegeven, zal er een zogeheten kluisproces-verbaal worden opgesteld door de teamleiding van het brononderzoek. Op basis hiervan wordt door de CIE-chef van de politieregio waar het doelonderzoek zal plaatsvinden, een afschermproces-verbaal opgesteld.
+
+- – In het kluisproces-verbaal is alle relevante informatie uit het brononderzoek opgenomen, zoals de naam van het onderzoek en de zaaksofficier van justitie, de regio waar het onderzoek wordt verricht en de wijze waarop de informatie ter beschikking is gekomen (toegepaste opsporingsmethodieken en/of bevoegdheden).
+
+- – De informatie die is opgenomen in het afschermproces-verbaal is niet te herleiden tot het af te schermen brononderzoek en zal, voor zover het de bedoeling is om een nieuw onderzoek op te starten, voldoende informatie moeten bevatten op grond waarvan een verdenking kan worden geconstrueerd ex [art. 27 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27).
+
+- – De afgeschermde informatie die is ingebracht in het doelonderzoek kan door de rechter en verdediging worden getoetst door de opsporingsambtenaar die het afschermproces-verbaal heeft opgemaakt (zoals de CIE-chef) als getuige te horen.
+
+- – Als uitgangspunt geldt dat de in een opsporingsonderzoek ingebrachte afgeschermde informatie wordt gebruikt als start- of sturingsinformatie en niet als bewijs.
+
+- – De afgeschermde informatie kan, afhankelijk van de aard en de inhoud van de informatie, ook zonder aanvullende informatie voldoende zijn om aan te nemen dat er sprake is van een verdenking in de zin van [art. 27 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27), zodat op basis daarvan kan worden overgegaan tot toepassing van dwangmiddelen, zoals doorzoeking en telefoontap. In die zin vervult afgeschermde informatie dezelfde rol als CIE-informatie (dus als start- of sturingsinformatie).
+
 ### 4.3. Internationale samenwerking
+
+Inkomende rechtshulpverzoeken en bijzondere opsporingsbevoegdheden
 
 Aan een buitenlands rechtshulpverzoek tot toepassing van een bijzondere opsporingsbevoegdheid op Nederlands grondgebied kan alleen gevolg worden gegeven indien die bevoegdheid ook naar Nederlands recht kan worden uitgeoefend. De inwilliging van het verzoek mag niet in strijd komen met de Nederlandse wetsbepalingen, voorschriften en procedures (waaronder de in [titel X van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=X) opgenomen artikelen ([artt. 552h-55q Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552h))). Daarnaast is ook de regelgeving omtrent notificatie, bewaring en vernietiging van toepassing ([artt. 126aa lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa) en [126bb tot en met 126dd Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126bb)).
 
@@ -514,23 +851,59 @@ Op grond van [art. 552oa lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR00019
 
 Ten aanzien van de in de [titels IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=V), [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VA) en [Vc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VC) opgenomen bijzondere opsporingsbevoegdheden die niet in [art. 552oa lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552oa) zijn opgenomen, geldt niet de eis dat het daartoe strekkende rechtshulpverzoek moet zijn gebaseerd op een verdrag.
 
+Uitgaande rechtshulpverzoeken en bijzondere opsporingsbevoegdheden
+
 Een verzoek om rechtshulp aan het buitenland waarin de toepassing wordt gevraagd van een bijzondere opsporingsbevoegdheid kan pas worden gedaan, nadat de voor de toepassing van deze bevoegdheid in Nederland geldende procedures en wettelijke voorschriften zijn gevolgd, zoals het verkrijgen van een machtiging van de rechter-commissaris in geval van het opnemen van telecommunicatie of, in geval van bijvoorbeeld infiltratie, de vereiste goedkeuring van het College na advies van de CTC. Aan het buitenland kan niet worden gevraagd om uitvoering te geven aan (bijzondere) opsporingsbevoegdheden die naar Nederlands recht niet zijn toegestaan.
 
 Het rechtshulpverzoek zal via de (Landelijke) Internationale Rechtshulp Centra ((L)IRC’s) aan de bevoegde buitenlandse autoriteiten aangeboden moeten worden.
 
 Een rechtshulpverzoek dat op het Europees Rechtshulpverdrag is gegrond, dient te worden verzonden via het Ministerie van Justitie (Afdeling Internationale Rechtshulp in Strafzaken). Een verzoek om rechtshulp aan een niet-verdragsland geschiedt uitsluitend via de zogenaamde diplomatieke weg, door tussenkomst van de Ministeries van Justitie (AIRS) en van Buitenlandse Zaken. De minister van Justitie is eindverantwoordelijk voor het verzoeken van rechtshulp aan een andere staat. Deze verantwoordelijkheid uit zich met name wanneer een verzoek wordt gedaan aan een land waarmee geen verdragsrelatie bestaat. AIRS beoordeelt – in samenspraak met het ministerie van Buitenlandse Zaken – of het mogelijk dan wel wenselijk is om aan een bepaald niet-verdragsland een rechtshulpverzoek te doen. Indien nodig kan met AIRS reeds op voorhand contact worden opgenomen opdat deze zo spoedig mogelijk kan vaststellen of kan worden ingestemd met het doen uitgaan van het rechtshulpverzoek.
 
+Uitvoering inkomende en uitgaande rechtshulpverzoeken
+
+Internationale Rechtshulp Centrum (hierna: IRC)
+
 In Nederland zijn, naast de Afdeling Internationale Rechtshulp in Strafzaken van het Ministerie van Justitie (AIRS) (zie hierna), zes IRC’s en één landelijk rechtshulpcentrum (LIRC). Het IRC is een samenwerkingsverband tussen OM en politie. Bij de IRC’s werken zowel medewerkers van politie als van justitie. De IRC’s zijn het aanspreekpunt voor politie en justitie met betrekking tot internationale rechtshulp en rechtshulpverzoeken. Uitgaande rechtshulpverzoeken dienen via het IRC te worden verzonden.
 
 De IRC’s hebben als taak:
+
+- 1. registratie van rechtshulpverzoeken. Dit geschiedt in het Landelijke uniform registratiesysteem inzake internationale rechtshulp in strafzaken (LURIS);
+
+- 2. uitvoering van eenvoudige rechtshulpverzoeken, alsmede de coördinatie van de uitvoering van overige rechtshulpverzoeken;
+
+- 3. houden van toezicht op de kwaliteit van de afhandeling van rechtshulpverzoeken;
+
+- 4. het uitvoeren van overdrachten en overnames strafvervolging en tenuitvoerlegging strafvonnissen;
+
+- 5. het uitvoeren van verzoeken tot uitlevering en inlevering;
+
+- 6. het functioneren als kennis- en expertisecentrum op het gebied van internationale rechtshulp, primair voor korpsleidingen, het openbaar ministerie en externe belanghebbenden.
+
+Afdeling Internationale Rechtshulp in Strafzaken (hierna: AIRS)
 
 De AIRS is het onderdeel van het Ministerie van Justitie dat de Minister van Justitie adviseert in zaken betreffende internationale rechtshulp in strafzaken. Waar in verdragen inzake internationale rechtshulp het Ministerie van Justitie is aangewezen als Centrale Autoriteit, vervult AIRS die rol. Daarnaast faciliteert AIRS de Nederlandse justitiële autoriteiten, als expertisecentrum, bij de uitoefening van wettelijke en verdragsrechtelijke taken. Naast concrete dienstverlening houdt AIRS zich ook bezig met beleidsontwikkeling op het terrein van internationale rechtshulp in strafzaken.
 
 Waar het toepasselijke rechtshulpverdrag daar om vraagt, dienen rechtshulpverzoeken via de Centrale Autoriteit (AIRS) te worden verzonden. In dat geval verstuurt het IRC de rechtshulpverzoeken aan AIRS, die voor verdere verzending zorg draagt. Dit geldt ook voor rechtshulpverzoeken die niet op een verdrag zijn gebaseerd.
 
-Op grond van de [artt. 126g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g), [126h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126h), [126i](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i) en [126j Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126j) en het [Samenwerkingsbesluit bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010976) (**Stb.** 1999, 549) kan de officier van justitie toestaan dat een buitenlandse opsporingsambtenaar in de openbare dienst van een vreemde staat wordt belast met de uitvoering van een bevel tot observatie, infiltratie, pseudokoop of pseudo-dienstverlening of het stelselmatige inwinnen van informatie, indien hij:
+Inzet van buitenlandse opsporingsambtenaren in Nederland
+
+Op grond van de [artt. 126g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g), [126h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126h), [126i](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i) en [126j Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126j) en het [Samenwerkingsbesluit bijzondere opsporingsbevoegdheden](https://wetten.overheid.nl/jci1.3:c:BWBR0010976) (*Stb.* 1999, 549) kan de officier van justitie toestaan dat een buitenlandse opsporingsambtenaar in de openbare dienst van een vreemde staat wordt belast met de uitvoering van een bevel tot observatie, infiltratie, pseudokoop of pseudo-dienstverlening of het stelselmatige inwinnen van informatie, indien hij:
+
+- – in die vreemde staat beschikt over opsporingsbevoegdheid, en
+
+- – indien hij beschikt over de kennis en vaardigheden die nodig zijn voor de uitvoering van het bevel.
 
 De officier van justitie die beslist over de inzet van een buitenlandse opsporingsambtenaar zal moeten oordelen of de buitenlandse opsporingsambtenaar beschikt over de nodige kennis en vaardigheden die noodzakelijk zijn voor de uitvoering van de bovengenoemde opsporingsbevoegdheden. De officier van justitie doet zich bij zijn oordeel omtrent de bij de buitenlandse opsporingsambtenaar aanwezige kennis en vaardigheden adviseren door het Team Nationale Coördinatie Politiële Infiltratie (TNCPI) van het KLPD. Daarnaast zullen de buitenlandse opsporingsambtenaren zich vooraf aan de volgende voorwaarden moeten verbinden:
+
+- 1. gedurende het optreden op Nederlands grondgebied is de met de uitvoering van het bevel belaste persoon gebonden aan het in Nederland geldende recht;
+
+- 2. de met de uitvoering van het bevel belaste persoon is verplicht te getuigen, indien hij hiertoe door de Nederlandse autoriteiten wordt opgeroepen;
+
+- 3. gedurende de periode die nodig is voor de uitvoering van het bevel is de daarmee belaste persoon gehouden de aanwijzingen van de Nederlandse opsporingsautoriteiten op te volgen;
+
+- 4. de met de uitvoering van het bevel belaste persoon doet van zijn optreden op Nederlands grondgebied verslag aan de Nederlandse opsporingsautoriteiten;
+
+- 5. de met de uitvoering van het bevel belaste persoon is niet bevoegd om op Nederlands grondgebied dwangmiddelen of andere bijzondere opsporingsbevoegdheden toe te passen dan genoemd in het bevel.
 
 Deze vijf voorwaarden zullen moeten worden opgenomen in het hiervoor genoemde bevel.
 
@@ -542,9 +915,51 @@ De CTC, samengesteld uit leden van het openbaar ministerie en politie, is een in
 
 De officier van justitie is verplicht om bij de navolgende opsporingsbevoegdheden, na advies van de CTC, toestemming te vragen van het College:
 
+- – politiële infiltratie, ([artt. 126h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126h) en [126p Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126p));
+
+- – burgerinfiltratie ([artt. 126w](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126w) en [126x Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126x));
+
+- – burgerpseudo-koop en burgerpseudo-dienstverlening ([artt. 126ij](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij) en [126z Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z)) in het kader van de uitvoering van een rechtshulpverzoek, waarbij sprake is van de inzet van een burger met een strafrechtelijke achtergrond;
+
+- – alle gevallen van afzien van inbeslagneming van bij de wet verboden voor de volksgezondheid schadelijke en/of voor de veiligheid gevaarlijke voorwerpen, ([art. 126ff lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff));
+
+- – alle gevallen van het "doorlaten van personen" in het kader van mensensmokkel (Brief van 12-04-1999 van de Minister van Justitie aan de Voorzitter van de Tweede Kamer der Staten-Generaal, Kamerstukken II, 1998/1999, 25 403, nr. 35);
+
+- – het opnemen van vertrouwelijke communicatie met een technisch hulpmiddel in een woning of een daaraan gelijk te stellen ruimte ([artt. 126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l) en [126s Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s));
+
+- – toezeggingen aan getuigen in strafzaken ([art. 44a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=44a) en [artt. 226g t/m 226l Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=226g) en [Aanwijzing toezeggingen aan getuigen in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021203), Stcrt. 2006, nr. 56);
+
+- – het opheffen van de anonimiteit van bellers naar Meld Misdaad Anoniem (M-lijn) door middel van het vorderen van inlichtingen bij telecommunicatieaanbieders dan wel het gebruik van reeds verkregen inlichtingen ([artt. 126n](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n), [126u](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126u), [126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc) en [126nd Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nd) en Instructie Meld Misdaad Anoniem);
+
+- – DNA-bevolkingsonderzoek ([artt. 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151a) en [195a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195a));
+
+- – inkomende en uitgaande rechtshulpverzoeken waarin de uitvoering van een van bovengenoemde opsporingsactiviteiten wordt verzocht.
+
 Buiten deze gevallen kan een officier van justitie ook vrijblijvend advies inwinnen van de CTC, waarbij de zaak in beginsel niet wordt voorgelegd aan het College.
 
+Procedure
+
+Aanmelding van de zaak bij de CTC
+
+- – De verantwoordelijke hoofdofficier van justitie die een zaak ter goedkeuring voorlegt aan het College, zendt daartoe de stukken aan de CTC. Bij twijfel of een zaak ter goedkeuring aan het College moet worden voorgelegd, kan de hoofdofficier vooraf het secretariaat van de CTC consulteren of de zaak als collegiale toetsing aan de CTC voorleggen.
+
+- – De stukken die aan de CTC worden gezonden, bestaan uit een aanbiedingsbrief van de hoofdofficier, een proces-verbaal van de politie tot aanvraag van de betreffende bevoegdheid en een oplegnotitie van de behandelend officier van justitie waarin de aanvraag kort en bondig wordt weergegeven. Daarnaast zullen de volgende documenten moeten worden meegezonden:
+
+- – in geval van infiltratie: een plan van aanpak infiltratie;\
+
+- – in geval van een toezegging aan een getuige: de conceptovereenkomst, de zogenaamde ‘kluisverklaringen’ en een advies van de landsadvocaat;
+
+- – in geval van het opnemen van vertrouwelijke communicatie: een rapportage van de DSRT van het KLPD waarin een indicatie wordt gegeven over de technische en tactische uitvoerbaarheid en haalbaarheid van de voorgenomen inzet van de bevoegdheid.
+
+- – Naar aanleiding van de stukken en de mondelinge toelichting ter vergadering van de CTC zal een advies worden opgesteld dat door tussenkomst van de PG-portefeuillehouder, wordt voorgelegd aan het College.
+
+- – In beginsel zijn de adviezen van de CTC en de stukken die aan de CTC ter hand zijn gesteld geen processtukken. Deze stukken behoeven dan ook niet bij het strafdossier te worden gevoegd. Volgens vaste rechtspraak gaat het hier namelijk om interne stukken die voor de beoordeling van de inzet van de bevoegdheid door de rechtbank niet van belang zijn.
+
+Besluitvorming door het College
+
 Nadat het College het advies van de CTC heeft ontvangen, zal het College tot een oordeel komen. Het College zal de aanvragende hoofdofficier zo spoedig mogelijk schriftelijk in kennis stellen van haar beslissing, met de eventueel daarbij gestelde voorwaarden.
+
+Vervolgtoetsing en afloop
 
 De behandelend officier van justitie bewaakt de voortgang, de termijnen en de voorwaarden conform de besluitvorming door het College.
 
@@ -554,11 +969,15 @@ Indien door het College bij een verleende toestemming een termijn is gesteld en 
 
 In alle gevallen waarin door het College toestemming is verleend, wordt door de betrokken hoofdofficier van justitie, (uiterlijk) na afloop van de zaak in eerste aanleg, de CTC geïnformeerd over het resultaat van de toegepaste opsporingsmethode(n).
 
+Spoedprocedure
+
 Ook in geval van dringende noodzakelijkheid zal de verantwoordelijke hoofdofficier van justitie de zaak ter goedkeuring moeten voorleggen aan het College. De hoofdofficier van justitie zal zich daartoe direct tot het secretariaat van de CTC moeten wenden, onder opgave van redenen waarom met spoed een beslissing is gewenst is.
 
 De CTC toetst de zaak zo spoedig mogelijk en legt haar (mondeling) advies voor aan (een lid van) het College. In het advies motiveert de CTC het spoedeisend karakter van de beslissing en geeft aan binnen welke termijn een beslissing gewenst is. Hierop kan het College een (mondelinge) beslissing nemen.
 
 ### 5.2. Schriftelijke verantwoording
+
+Algemeen
 
 De in [art. 126aa Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa) opgenomen verplichting – om de processen-verbaal en andere voorwerpen waaraan gegevens kunnen worden ontleend die zijn verkregen door toepassing van de in de [titels IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA) tot en met IVc opgenomen bijzondere opsporingsbevoegdheden bij de processtukken te voegen – geldt alleen voor de processen-verbaal en andere voorwerpen die gegevens bevatten die voor het onderzoek in de zaak van betekenis zijn. Gegevens zijn voor het onderzoek in de zaak van betekenis indien de gegevens relevant zijn voor de beantwoording van de vragen ex [artt. 348–350 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=348). Dit betekent dat ook processen-verbaal die ontlastend materiaal opleveren voor de verdachte bij de processtukken moeten worden gevoegd.
 
@@ -568,15 +987,25 @@ Wat betreft de wijze van verantwoording van de toepassing van bijzondere opspori
 
 Op grond van het vierde lid van [art 126aa Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa) geldt dat de toepassing van een bijzondere opsporingsbevoegdheid – ongeacht het resultaat van de toepassing van de bevoegdheid – gemeld dient te worden in een proces-verbaal dat deel uitmaakt van het strafdossier.
 
-Heeft de toepassing een voor het bewijs relevant resultaat opgeleverd (in belastende of onbelastende zin) of overigens een voor enige door de rechter te nemen beslissing relevant resultaat opgeleverd dan wordt een proces-verbaal waarin **de resultaten van de toepassing** zijn uitgewerkt aan het strafdossier toegevoegd.
+Heeft de toepassing een voor het bewijs relevant resultaat opgeleverd (in belastende of onbelastende zin) of overigens een voor enige door de rechter te nemen beslissing relevant resultaat opgeleverd dan wordt een proces-verbaal waarin *de resultaten van de toepassing* zijn uitgewerkt aan het strafdossier toegevoegd.
 
 De officier van justitie mag bij het samenstellen van het strafdossier rekening houden met bijzondere belangen, zoals de bescherming van de veiligheid van mensen en de afscherming van methodieken en middelen. Deze belangen kunnen een minder gedetailleerde verantwoording rechtvaardigen. Dit mag er echter niet toe leiden dat de rechtbank aan de hand van het samengestelde strafdossier niet meer kan beoordelen of de opsporing overeenkomstig de relevante rechtsregels heeft plaatsgevonden.
 
 ### 5.3. Gegevensbeheer
 
+Bewaren van gegevens
+
 In [art. 126cc lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126cc) is bepaald dat de officier van justitie verplicht is om de processen-verbaal en andere voorwerpen waaraan gegevens kunnen worden ontleend die zijn verkregen door
 
-voor zover die niet bij de processtukken zijn gevoegd, te bewaren en ter beschikking te houden voor onderzoek, zolang de zaak niet geëindigd is. In het [Besluit bewaren en vernietigen niet-gevoegde stukken](https://wetten.overheid.nl/jci1.3:c:BWBR0010975) (**Stb.** 1999, 548) zijn voorschriften opgenomen omtrent de wijze waarop de voornoemde processen-verbaal en andere voorwerpen moeten worden geregistreerd, bewaard en vernietigd. Deze voorschriften gelden niet alleen voor de originelen, maar ook voor de kopieën.
+- – observatie met behulp van een technisch hulpmiddel dat signalen registreert,
+
+- – het opnemen van vertrouwelijke communicatie en
+
+- – het onderzoek van telecommunicatie,
+
+voor zover die niet bij de processtukken zijn gevoegd, te bewaren en ter beschikking te houden voor onderzoek, zolang de zaak niet geëindigd is. In het [Besluit bewaren en vernietigen niet-gevoegde stukken](https://wetten.overheid.nl/jci1.3:c:BWBR0010975) (*Stb.* 1999, 548) zijn voorschriften opgenomen omtrent de wijze waarop de voornoemde processen-verbaal en andere voorwerpen moeten worden geregistreerd, bewaard en vernietigd. Deze voorschriften gelden niet alleen voor de originelen, maar ook voor de kopieën.
+
+Vernietigen van gegevens
 
 Op grond van [art. 126cc lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126cc) zal de officier van justitie schriftelijk de vernietiging moeten bevelen van de processen-verbaal en andere voorwerpen nadat de zaak twee maanden is geëindigd en aan alle notificatieverplichtingen ex [art. 126bb Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126bb) is voldaan.
 
@@ -584,15 +1013,21 @@ Een zaak is in elk geval geëindigd indien er een onherroepelijke uitspraak is g
 
 De opsporingsambtenaar zal een proces-verbaal moeten opmaken van de vernietiging van de processen-verbaal en andere voorwerpen en dit proces-verbaal moeten toezenden aan de officier van justitie die hiervan een registratie bijhoudt, zodat inzichtelijk is welke stukken, op basis van welk bevel, op welk tijdstip zijn vernietigd.
 
+Verstrekken van gegevens ten behoeve van een ander strafrechtelijk onderzoek
+
 De gegevens die zijn verkregen door de toepassing van de in [art. 126cc lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126cc) omschreven opsporingsbevoegdheden kunnen ook worden bewaard en gebruikt in een ander strafrechtelijk onderzoek. Deze gegevens kunnen echter niet worden bewaard voor een – nog niet te concretiseren – toekomstig strafrechtelijk onderzoek, behoudens het geval dat de gegevens door de CIE worden verwerkt of in geval van de zogenaamde themaverwerking in de zin van [art. 10 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Dan gelden de verwerkingstermijnen van de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
 
 Indien de behandelend officier van justitie bepaalt dat de processen-verbaal en andere voorwerpen mogen worden gebruikt in een ander strafrechtelijk onderzoek dan blijven deze processen-verbaal en andere voorwerpen bewaard onder de verantwoordelijkheid van de officier van justitie die de leiding heeft over het ‘nieuwe’ strafrechtelijke onderzoek. Deze officier van justitie zal er dan ook voor moeten zorgen dat de gegevens worden vernietigd in het geval dit strafrechtelijke onderzoek is geëindigd. In dit geval geldt dan ook weer de termijn van [art. 126cc lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126cc).
+
+Verwerken van gegevens door de CIE
 
 Of de in processen-verbaal en andere voorwerpen opgenomen gegevens daadwerkelijk kunnen worden verwerkt door de CIE is een verantwoordelijkheid van de verantwoordelijke en het openbaar ministerie. Indien in de praktijk verschil van inzicht bestaat over het al dan niet verwerken van bepaalde gegevens komt aan beide partijen een vetorecht toe.
 
 Indien de behandelend officier van justitie bepaalt dat de processen-verbaal en andere voorwerpen mogen worden verwerkt door de CIE dan worden deze processen-verbaal en andere voorwerpen verwerkt onder gezag van de CIE-officier van justitie. De verantwoordelijke moet de termijn bewaken waarop de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) opslag van [artikel 10 lid 1 onder 1 en b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10)-verwerkingen niet meer toelaat. De officier van justitie ziet hierop toe. In dat geval zal de CIE-officier van justitie zo spoedig mogelijk daarna de vernietiging moeten bevelen van de desbetreffende processen-verbaal en andere voorwerpen.
 
 ### 5.4. Notificatie
+
+Betekenis
 
 Op grond van [art. 126bb lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126bb) doet de officier van justitie aan een betrokkene tegen wie een in de [titels IVa tot en met Vc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA) genoemde bijzondere opsporingsbevoegdheid is toegepast schriftelijk mededeling van de uitoefening hiervan.
 
@@ -602,19 +1037,55 @@ De mededelings- of notificatieplicht (hierna: notificatieplicht) kan op grond va
 
 De notificatieplicht kan in het geheel achterwege blijven indien:
 
+- – de verdachte op grond van de processen-verbaal en andere voorwerpen die bij de processtukken zijn gevoegd ([art. 126aa lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa)) of door melding in de processtukken (art. 126aa lid 4 Sv) op de hoogte is gekomen van het feit dat jegens hem een bijzondere opsporingsbevoegdheid is toegepast;
+
+- – uitreiking van de mededeling redelijkerwijs niet mogelijk is omdat het adres van de betrokkene onbekend is of omdat de betrokkene bijvoorbeeld niet kan worden geïndividualiseerd, zoals een gebruiker van een pre-paid telefoon;
+
+- – de bevoegdheid tot het vorderen van identificerende gegevens ([artt. 126nc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc)/[126uc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uc) en [126zk Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zk)) en/of de bevoegdheid tot het vorderen van gegevens over een gebruiker van een communicatiedienst ([artt. 126na](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126na)/[126ua lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ua) en [126zi Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zi)) is toegepast.
+
 In [art. 126bb lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126bb) is bepaald wie als betrokkenen moeten worden aangemerkt. Dat zijn:
 
+- 1. de personen jegens wie een bijzondere opsporingsbevoegdheid als genoemd in de [titels IVa tot en met Vc](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA) werd uitgeoefend. Deze personen kunnen verdachte zijn of personen (niet zijnde verdachten) die in het belang van het onderzoek stelselmatig zijn geobserveerd of van wie gegevens zijn opgevraagd;
+
+- 2. de gebruikers van een communicatiedienst als bedoeld in [art. 126m, derde lid, onderdeel c Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m), [art. 126t, derde lid, onderdeel c Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126t) en [art. 126zg, tweede lid, onderdeel a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zg). Dit zijn de personen die feitelijk de beschikking hebben en gebruik maken van het communicatiemiddel. Dit behoeven uiteraard niet altijd de (abonnement)houders te zijn. Deze personen kunnen verdachte zijn of betrokkenen (niet zijnde verdachten) van wie telefoon in het belang van het onderzoek werd afgetapt;
+
+- 3. de rechthebbenden van een besloten plaats als bedoeld in de [artt. 126g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g)/[126o lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o) (stelselmatige observatie), [126k](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126k)/[126r Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126r) (betreden van besloten plaatsen), [126l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126l)/[126s lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126s) (opnemen van vertrouwelijke informatie) en [126zd, derde lid Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd). Dit kunnen zowel de eigenaren zijn als de feitelijk (hoofd)gebruikers van een besloten plaats.
+
 De notificatieplicht is ook van toepassing indien bijzondere opsporingsbevoegdheden worden toegepast naar aanleiding van een buitenlands rechtshulpverzoek. Aan de autoriteit die het rechtshulpverzoek heeft gedaan, wordt verzocht om tot notificatie over te gaan zodra het buitenlandse opsporingsonderzoek dat toelaat. Op basis van het vertrouwensbeginsel kan hiermee worden volstaan en hoeft geen notificatie door het Nederlandse OM meer plaats te vinden.
+
+Procedure
 
 Nadat de toepassing van een bijzondere opsporingsbevoegdheid is beëindigd, zal er een notificatieblad opgesteld moeten worden waarin de NAW-gegevens van de te notificeren persoon, de zaakgegevens, het parketnummer en/of het tijdelijke registernummer worden geregistreerd.
 
 Bij beëindiging van het onderzoek komt de officier van justitie per toegepaste opsporingsbevoegdheid tot het oordeel dat:
 
+- 1. de notificatie achterwege blijft, omdat
+
+   - – de betrokkene al via het dossier is ingelicht, of
+
+   - – de NAW-gegevens van de betrokkene niet bekend zijn, of
+
+   - – er veiligheidsrisico’s zijn verbonden met het notificeren.
+
+- 2. de notificatie uitgesteld dient te worden, omdat
+
+   - – er sprake is van onderzoeksbelang (toe te lichten op het notificatieblad), en/of
+
+   - – er veiligheidsrisico’s (eveneens toe te lichten op het notificatieblad) zijn verbonden aan het notificeren.
+
+- 3. overgegaan kan worden tot notificeren, indien
+
+   - – een zaak is afgedaan (sepot, transactie of zitting), en/of
+
+   - – er is geen sprake van een reële kans op waarheidsvinding meer in het onderzoek, en/of
+
+   - – er sprake is van een reële kans op waarheidsvinding, maar het notificeren heeft geen invloed op deze kans.
+
 Onder het zojuist genoemde onderzoeksbelang wordt tevens begrepen het belang van het onderzoek in andere zaken waarin nog niet gedagvaard is.
 
 Indien door de behandelend officier van justitie wordt besloten dat tot notificatie kan worden overgegaan, dan zullen de gegevens verwerkt moeten worden in een standaard notificatiebrief.
 
-In het geval de behandelend officier van justitie beslist dat de notificatie uitgesteld dient te worden, dan zal hij een termijn voor de herbeoordeling van de notificatie moeten vaststellen. Indien er sprake is van een verdenking van een strafbaar feit dat wordt bedreigd met een gevangenisstraf van 8 jaar of meer, dan zal een termijn van 6 maanden worden vastgesteld. In het geval er sprake is van een verdenking van een strafbaar feit dat wordt bedreigd met een maximale gevangenisstraf van minder dan 8 jaar, dan zal een termijn van 3 maanden worden vastgesteld. De behandelend officier van justitie zal op het notificatieblad moeten aangeven waarom hij heeft besloten om de beslissing tot notificatie uit te stellen.
+In het geval de behandelend officier van justitie beslist dat de notificatie uitgesteld dient te worden, dan zal hij een termijn voor de herbeoordeling van de notificatie moeten vaststellen. Indien er sprake is van een verdenking van een strafbaar feit dat wordt bedreigd met een gevangenisstraf van 8 jaar of meer, dan zal een termijn van 6 maanden worden vastgesteld. In het geval er sprake is van een verdenking van een strafbaar feit dat wordt bedreigd met een maximale gevangenisstraf van minder dan 8 jaar, dan zal een termijn van 3 maanden worden vastgesteld. De behandelend officier van justitie zal op het notificatieblad moeten aangeven waarom hij heeft besloten om de beslissing tot notificatie uit te stellen.
 
 Nadat de termijn van 3 of 6 maanden is verstreken, zal het notificatieblad opnieuw voor een verdere beoordeling en afhandeling worden voorgelegd aan de behandelend officier van justitie. Indien de behandelend officier van justitie nogmaals besluit om niet tot notificatie over te gaan, zal de procedure herhaald moeten worden.
 

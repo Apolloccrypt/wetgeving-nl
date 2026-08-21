@@ -1,45 +1,17 @@
 ---
 title: "Tijdelijke subsidieregeling persinnovatie 2014"
 identifier: "BWBR0034909"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-03-16"
-last_updated: "2014-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034909"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12598273"
-version_id: "21269132"
-internal_id: "C30542931"
-label_id: "12568794"
-dtd_version: "2.0"
-original_entry_into_force: "2014-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034909/2014-03-16/0"
-intitule_bron: "Stcrt.2014-7350"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-03-10"
-intitule_published: "2014-03-14"
-intitule_in_force: "2014-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-7350"
-original_signed_date: "2014-03-10"
-original_published_date: "2014-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-7350"
-entry_into_force_date: "2014-03-16"
-jci_1_3: "jci1.3:c:BWBR0034909&z=2014-03-16&g=2014-03-16"
-jci_1_0: "1.0:c:BWBR0034909&g=2014-03-16"
-citeertitel_status: "redactioneel"
-signed_date: "2014-03-10"
-entry_into_force: "2014-03-16"
+publicatiedatum: 2014-03-16
+laatste_update: 2014-03-16
+status: geldig
+toestand: 2014-03-16
+bron: "https://wetten.overheid.nl/BWBR0034909"
+opgehaald: 2026-08-21
 ---
+
 # Tijdelijke subsidieregeling persinnovatie 2014
-
-Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-
-Gelet op [artikel 8.15a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.15a);
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -184,5 +156,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 14. Evaluatie
 
 Binnen 13 weken na afloop van de datum, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034909&hoofdstuk=3&artikel=7&z=2014-03-16&g=2014-03-16), evalueert het Stimuleringsfonds de uitvoering van deze regeling.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

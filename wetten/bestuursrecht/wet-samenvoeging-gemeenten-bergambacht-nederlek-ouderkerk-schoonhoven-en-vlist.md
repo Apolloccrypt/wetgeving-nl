@@ -1,48 +1,18 @@
 ---
 title: "Wet van 19 juni 2014 tot samenvoeging van de gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist"
+citeertitel: "Wet samenvoeging gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist"
 identifier: "BWBR0035300"
-country: "nl"
-rank: "wet"
-publication_date: "2014-07-05"
-last_updated: "2014-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035300"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "12720013"
-version_id: "21518792"
-internal_id: "C30893991"
-label_id: "12689964"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035300/2014-07-05/0"
-intitule_bron: "Stb.2014-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-06-19"
-intitule_published: "2014-07-04"
-intitule_in_force: "2014-07-04"
-intitule_status: "goed"
-original_publication: "Stb.2014-252"
-original_signed_date: "2014-06-19"
-original_published_date: "2014-07-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "33788"
-original_url_id: "stb-2014-252"
-entry_into_force_date: "2014-07-05"
-entry_into_force_dossier: "33788"
-jci_1_3: "jci1.3:c:BWBR0035300&z=2014-07-05&g=2014-07-05"
-jci_1_0: "1.0:c:BWBR0035300&g=2014-07-05"
-citeertitel_status: "redactioneel"
-short_title: "Wet samenvoeging gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist"
-signed_date: "2014-06-19"
-entry_into_force: "2014-07-05"
+publicatiedatum: 2014-07-05
+laatste_update: 2014-07-05
+status: geldig
+toestand: 2014-07-05
+bron: "https://wetten.overheid.nl/BWBR0035300"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 19 juni 2014 tot samenvoeging van de gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist samen te voegen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en instelling van gemeenten
 
@@ -52,7 +22,7 @@ Met ingang van de datum van herindeling worden de gemeenten Bergambacht, Nederle
 
 ##### Artikel 2
 
-Met ingang van de datum van herindeling wordt de nieuwe gemeente Krimpenerwaard ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist, zoals aangegeven op de bij deze wet behorende kaart.
+Met ingang van de datum van herindeling wordt de nieuwe gemeente Krimpenerwaard ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist, zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0035300).
 
 #### § 2. Overige bepalingen
 
@@ -82,18 +52,12 @@ Voor de op te heffen gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en 
 
 ##### Artikel 6
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 7
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel 8
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Bijlage
-
-### Kaart. , genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035300&paragraaf=1&artikel=2&z=2014-07-05&g=2014-07-05)
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

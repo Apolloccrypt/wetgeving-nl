@@ -1,41 +1,17 @@
 ---
 title: "Besluit instelling Adviescommissie Internationaal Recht en Conventioneel Wapengebruik"
 identifier: "BWBR0035211"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-06-20"
-last_updated: "2014-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035211"
+categorie: "Internationaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12693543"
-version_id: "21455752"
-internal_id: "C30802541"
-label_id: "12663654"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035211/2014-06-20/0"
-intitule_bron: "Stcrt.2014-16746"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-06-05"
-intitule_published: "2014-06-18"
-intitule_in_force: "2014-06-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-16746"
-original_signed_date: "2014-06-05"
-original_published_date: "2014-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-16746"
-entry_into_force_date: "2014-06-20"
-jci_1_3: "jci1.3:c:BWBR0035211&z=2014-06-20&g=2014-06-20"
-jci_1_0: "1.0:c:BWBR0035211&g=2014-06-20"
-citeertitel_status: "redactioneel"
-signed_date: "2014-06-05"
-entry_into_force: "2014-06-20"
+publicatiedatum: 2014-06-20
+laatste_update: 2014-06-20
+status: geldig
+toestand: 2014-06-20
+bron: "https://wetten.overheid.nl/BWBR0035211"
+opgehaald: 2026-08-21
 ---
-# Besluit instelling Adviescommissie Internationaal Recht en Conventioneel Wapengebruik
 
-Besluit:
+# Besluit instelling Adviescommissie Internationaal Recht en Conventioneel Wapengebruik
 
 ##### Artikel 1
 
@@ -106,5 +82,3 @@ Het [besluit van de Minister van Defensie van 19 december 2007](https://wetten.o
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

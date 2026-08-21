@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu van 24 april 2014, nr. IENM/BSK-2014/122942, houdende beleidsregels en enige andere bepalingen met betrekking tot de afgifte van verklaringen als bedoeld in artikel 29, tweede lid, van de Wet belastingen op milieugrondslag (Beleidsregels baggerspecieverklaring Wet belastingen op milieugrondslag)"
+citeertitel: "Beleidsregels baggerspecieverklaring Wet belastingen op milieugrondslag"
 identifier: "BWBR0035163"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2014-06-04"
-last_updated: "2014-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035163"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "12680313"
-version_id: "21426742"
-internal_id: "C30768701"
-label_id: "12650474"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035163/2014-06-04/0"
-intitule_bron: "Stcrt.2014-15666"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-04-24"
-intitule_published: "2014-06-03"
-intitule_in_force: "2014-06-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-15666"
-original_signed_date: "2014-04-24"
-original_published_date: "2014-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-15666"
-entry_into_force_date: "2014-06-04"
-jci_1_3: "jci1.3:c:BWBR0035163&z=2014-06-04&g=2014-06-04"
-jci_1_0: "1.0:c:BWBR0035163&g=2014-06-04"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels baggerspecieverklaring Wet belastingen op milieugrondslag"
-signed_date: "2014-04-24"
-entry_into_force: "2014-06-04"
+publicatiedatum: 2014-06-04
+laatste_update: 2014-06-04
+status: geldig
+toestand: 2014-06-04
+bron: "https://wetten.overheid.nl/BWBR0035163"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 24 april 2014, nr. IENM/BSK-2014/122942, houdende beleidsregels en enige andere bepalingen met betrekking tot de afgifte van verklaringen als bedoeld in artikel 29, tweede lid, van de Wet belastingen op milieugrondslag (Beleidsregels baggerspecieverklaring Wet belastingen op milieugrondslag)
-
-Gelet op de [artikelen 22, eerste lid, onderdeel a, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), en [29, tweede en derde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=29), en op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regels wordt verstaan onder:
 
-- a. **aanvraag:** aanvraag van een baggerspecieverklaring;
+- a. *aanvraag:* aanvraag van een baggerspecieverklaring;
 
-- b. **baggerspecieverklaring:** verklaring als bedoeld in [artikel 29, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=29).
+- b. *baggerspecieverklaring:* verklaring als bedoeld in [artikel 29, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=29).
 
 ##### Artikel 2
 
@@ -115,5 +89,3 @@ Deze regels treden in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11
 
 Deze regels worden aangehaald als: Beleidsregels baggerspecieverklaring Wet belastingen op milieugrondslag.
-
-Deze regels zullen met de toelichting in de Staatscourant worden geplaatst.

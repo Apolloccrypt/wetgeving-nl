@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 12 mei 2014, nr. IENM/BSK-2014/94206, houdende vaststelling van beleidsregels inzake vergunningen voor geregeld en ongeregeld luchtvervoer (Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer)"
+citeertitel: "Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer"
 identifier: "BWBR0035117"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-09-01"
-last_updated: "2020-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035117"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "12672023"
-version_id: "21408952"
-internal_id: "C30737611"
-label_id: "12642194"
-dtd_version: "2.0"
-original_entry_into_force: "2014-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035117/2020-09-01/0"
-intitule_bron: "Stcrt.2014-13842"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-05-12"
-intitule_published: "2014-05-14"
-intitule_in_force: "2014-05-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-13842"
-original_signed_date: "2014-05-12"
-original_published_date: "2014-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-13842"
-entry_into_force_date: "2014-05-15"
-jci_1_3: "jci1.3:c:BWBR0035117&z=2020-09-01&g=2020-09-01"
-jci_1_0: "1.0:c:BWBR0035117&g=2020-09-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer"
-signed_date: "2014-05-12"
-entry_into_force: "2014-05-15"
+publicatiedatum: 2014-05-15
+laatste_update: 2020-09-01
+status: geldig
+toestand: 2020-09-01
+bron: "https://wetten.overheid.nl/BWBR0035117"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 12 mei 2014, nr. IENM/BSK-2014/94206, houdende vaststelling van beleidsregels inzake vergunningen voor geregeld en ongeregeld luchtvervoer (Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer)
-
-Gelet op de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16) en [16b van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16b) en [artikel 3 van het Besluit ongeregeld luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&artikel=3);
-
-Besluit:
 
 #### § 1. Vergunningen voor geregeld luchtvervoer
 
@@ -142,6 +116,10 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 5. Het uitvoeren van vijfde vrijheidsvervoer is niet toegestaan bij combinaties van geregeld en ongeregeld luchtvervoer, tenzij sprake is van vervoer waarbij op de eerste bestemming die de vlucht aandoet een gedeelte van de passagiers uitstapt, dan wel passagiers aan boord worden genomen die eerder op de desbetreffende bestemming zijn afgezet en terugkeren naar hun oorspronkelijke luchthaven van vertrek.
 
+##### Artikel 9a
+
+*Vervallen*
+
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer.
@@ -149,11 +127,3 @@ Dit besluit wordt aangehaald als: Beleidsregel vergunningen voor geregeld en ong
 ##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het geplaatst wordt.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-Vervallen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

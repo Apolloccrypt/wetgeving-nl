@@ -1,38 +1,16 @@
 ---
 title: "Reglement Kwaliteitsinstituut Wbtv"
 identifier: "BWBR0034866"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-03-03"
-last_updated: "2014-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034866"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12590443"
-version_id: "21251852"
-internal_id: "C30519121"
-label_id: "12561054"
-dtd_version: "2.0"
-original_entry_into_force: "2014-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034866/2014-03-03/0"
-intitule_bron: "Stcrt.2014-5843"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-02-12"
-intitule_published: "2014-03-03"
-intitule_in_force: "2014-03-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-5843"
-original_signed_date: "2014-02-12"
-original_published_date: "2014-03-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-5843"
-entry_into_force_date: "2014-03-03"
-jci_1_3: "jci1.3:c:BWBR0034866&z=2014-03-03&g=2014-03-03"
-jci_1_0: "1.0:c:BWBR0034866&g=2014-03-03"
-citeertitel_status: "officieel"
-signed_date: "2014-02-12"
-entry_into_force: "2014-03-03"
+publicatiedatum: 2014-03-03
+laatste_update: 2014-03-03
+status: geldig
+toestand: 2014-03-03
+bron: "https://wetten.overheid.nl/BWBR0034866"
+opgehaald: 2026-08-21
 ---
+
 # Reglement Kwaliteitsinstituut Wbtv
 
 ### 1. Begrippenomschrijving
@@ -41,15 +19,15 @@ entry_into_force: "2014-03-03"
 
 In dit reglement wordt verstaan onder:
 
-- a. **minister:** de minister van Veiligheid en Justitie;
+- a. *minister:* de minister van Veiligheid en Justitie;
 
-- b. **Bureau Wbtv:** het Bureau Wet beëdigde tolken en vertalers van de Raad voor Rechtsbijstand;
+- b. *Bureau Wbtv:* het Bureau Wet beëdigde tolken en vertalers van de Raad voor Rechtsbijstand;
 
-- c. **Raad:** de Raad voor Rechtsbijstand;
+- c. *Raad:* de Raad voor Rechtsbijstand;
 
-- d. **wet:** de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
+- d. *wet:* de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
 
-- e. **Kwaliteitsinstituut:** het Kwaliteitsinstituut Wet beëdigde tolken en vertalers.
+- e. *Kwaliteitsinstituut:* het Kwaliteitsinstituut Wet beëdigde tolken en vertalers.
 
 ### 2. Samenstelling, taken en bevoegdheden van het Kwaliteitsinstituut
 
@@ -63,11 +41,11 @@ In dit reglement wordt verstaan onder:
 
 1. Het Kwaliteitsinstituut stelt in samenspraak met de Raad een rooster van aan- en aftreden op dat de continuïteit van de samenstelling zo goed mogelijk waarborgt. Uitgangspunten zijn dat:
 
-- –. jaarlijks circa een vierde deel van de leden aan- en aftreedt;
+- – jaarlijks circa een vierde deel van de leden aan- en aftreedt;
 
-- –. de voorzitter en plaatsvervangend voorzitter niet in hetzelfde jaar aftreden;
+- – de voorzitter en plaatsvervangend voorzitter niet in hetzelfde jaar aftreden;
 
-- –. de tolk- en vertaalleden niet in hetzelfde jaar aan- en aftreden.
+- – de tolk- en vertaalleden niet in hetzelfde jaar aan- en aftreden.
 
 Zodra er een vacature voor een lid van het Kwaliteitsinstituut ontstaat, stelt de Raad in samenspraak met de voorzitter een profiel op. De Raad maakt de vacature bekend via zijn nieuwsbrief, op zijn internetsite en eventueel via andere relevante kanalen.
 
@@ -75,17 +53,17 @@ Het Kwaliteitsinstituut kan de voorzitter of een lid aanwijzen om de Raad te ond
 
 2. Het Kwaliteitsinstituut bestaat in elk geval uit:
 
-- –. twee tolken en twee vertalers;
+- – twee tolken en twee vertalers;
 
-- –. een vertegenwoordiger van de magistratuur;
+- – een vertegenwoordiger van de magistratuur;
 
-- –. een vertegenwoordiger van de tolk- en vertaalopleidingen;
+- – een vertegenwoordiger van de tolk- en vertaalopleidingen;
 
-- –. een vertegenwoordiger van de wetenschap;
+- – een vertegenwoordiger van de wetenschap;
 
-- –. een deskundige uit de sfeer van het strafrecht;
+- – een deskundige uit de sfeer van het strafrecht;
 
-- –. een deskundige uit de sfeer van het asielrecht.
+- – een deskundige uit de sfeer van het asielrecht.
 
 De Raad kan het Kwaliteitsinstituut aanvullen met andere deskundigen indien ontwikkelingen rond de uitvoering van de [Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704) daartoe aanleiding geven.
 
@@ -93,13 +71,13 @@ De Raad kan het Kwaliteitsinstituut aanvullen met andere deskundigen indien ontw
 
 De leden van het Kwaliteitsinstituut voldoen in elk geval aan de volgende criteria:
 
-- –. een grote mate van deskundigheid;
+- – een grote mate van deskundigheid;
 
-- –. betrokkenheid;
+- – betrokkenheid;
 
-- –. de bereidheid om een bijdrage te leveren aan het realiseren van doelstellingen van de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
+- – de bereidheid om een bijdrage te leveren aan het realiseren van doelstellingen van de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
 
-- –. een objectieve en onafhankelijke opstelling.
+- – een objectieve en onafhankelijke opstelling.
 
 ### 3. Onderwerpen
 
@@ -141,23 +119,23 @@ De leden worden hierover tijdig geïnformeerd en ontvangen daarnaast voor elke v
 
 1. De Raad voorziet in de ambtelijke ondersteuning van het Kwaliteitsinstituut. Hij stelt een ondersteunende medewerker beschikbaar met de volgende taken:
 
-- –. het opstellen van de jaaragenda;
+- – het opstellen van de jaaragenda;
 
-- –. het plannen van de bijeenkomsten;
+- – het plannen van de bijeenkomsten;
 
-- –. het opstellen van de agenda per bijeenkomst;
+- – het opstellen van de agenda per bijeenkomst;
 
-- –. het verzorgen van een presentielijst per bijeenkomst;
+- – het verzorgen van een presentielijst per bijeenkomst;
 
-- –. het opstellen van tekstvoorstellen op basis van bespreking door of besluitvorming in een werkgroep en/of Kwaliteitsinstituut;
+- – het opstellen van tekstvoorstellen op basis van bespreking door of besluitvorming in een werkgroep en/of Kwaliteitsinstituut;
 
-- –. de verslaglegging van de bijeenkomsten;
+- – de verslaglegging van de bijeenkomsten;
 
-- –. het zorgen voor ondertekening van de definitieve adviezen door de voorzitter en de communicatie over activiteiten en adviezen van het Kwaliteitsinstituut;
+- – het zorgen voor ondertekening van de definitieve adviezen door de voorzitter en de communicatie over activiteiten en adviezen van het Kwaliteitsinstituut;
 
-- –. de archivering van verslagen, adviezen, post en andere relevante documentatie;
+- – de archivering van verslagen, adviezen, post en andere relevante documentatie;
 
-- –. de administratieve afwikkeling van vacatie- en reiskosten.
+- – de administratieve afwikkeling van vacatie- en reiskosten.
 
 ### 7. Scholing
 

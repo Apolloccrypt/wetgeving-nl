@@ -4,11 +4,11 @@ identifier: "BWBV0003819"
 categorie: "Internationaal recht"
 soort: "verdrag"
 publicatiedatum: 1977-10-07
-laatste_update: 2025-04-01
+laatste_update: 2026-04-01
 status: geldig
-toestand: 2025-04-01
+toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBV0003819"
-opgehaald: 2026-08-20
+opgehaald: 2026-08-21
 ---
 
 # Verdrag inzake de verlening van Europese octrooien (Europees Octrooiverdrag)

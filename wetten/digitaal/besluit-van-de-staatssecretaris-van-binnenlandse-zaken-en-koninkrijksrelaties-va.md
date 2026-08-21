@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0053036"
-opgehaald: 2026-08-20
+opgehaald: 2026-08-21
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 augustus 2026 tot aanwijzing van toezichthouders en verlening van mandaat en machtiging met betrekking tot de Cyberbeveiligingswet voor de sector overheid (Besluit aanwijzing toezichthouders en verlening mandaat en machtiging Cyberbeveiligingswet sector overheid)

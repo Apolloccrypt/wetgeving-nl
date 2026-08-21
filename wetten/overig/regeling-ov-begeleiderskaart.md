@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 11 juli 2014, nr. IENM/BSK-2014/142179, houdende de vaststelling van regels betreffende het legitimatiebewijs voor gehandicapten (Regeling OV-begeleiderskaart)"
+citeertitel: "Regeling OV-begeleiderskaart"
 identifier: "BWBR0035366"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-08-01"
-last_updated: "2014-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035366"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12736883"
-version_id: "21559552"
-internal_id: "C30959551"
-label_id: "12706734"
-dtd_version: "2.0"
-original_entry_into_force: "2014-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035366/2014-08-01/0"
-intitule_bron: "Stcrt.2014-19829"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-11"
-intitule_published: "2014-07-22"
-intitule_in_force: "2014-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-19829"
-original_signed_date: "2014-07-11"
-original_published_date: "2014-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-19829"
-entry_into_force_date: "2014-08-01"
-jci_1_3: "jci1.3:c:BWBR0035366&z=2014-08-01&g=2014-08-01"
-jci_1_0: "1.0:c:BWBR0035366&g=2014-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling OV-begeleiderskaart"
-signed_date: "2014-07-11"
-entry_into_force: "2014-08-01"
+publicatiedatum: 2014-08-01
+laatste_update: 2014-08-01
+status: geldig
+toestand: 2014-08-01
+bron: "https://wetten.overheid.nl/BWBR0035366"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 11 juli 2014, nr. IENM/BSK-2014/142179, houdende de vaststelling van regels betreffende het legitimatiebewijs voor gehandicapten (Regeling OV-begeleiderskaart)
-
-Gelet op [artikel 45, tweede lid, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=45);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- *minister:* Minister van Infrastructuur en Milieu;
 
-- **OV-begeleiderskaart:** legitimatiebewijs voor gehandicapten als bedoeld in [artikel 45, eerste lid, onderdeel b, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=45);
+- *OV-begeleiderskaart:* legitimatiebewijs voor gehandicapten als bedoeld in [artikel 45, eerste lid, onderdeel b, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=45);
 
-- **de uitvoeringsinstantie:** Argonaut Advies B.V., gevestigd te: Soestdijkerweg 17, 3734 MG Den Dolder, waarvan bij besluit van de minister aan de directeur mandaat en machtiging is verleend voor de uitvoering van deze regeling.
+- *de uitvoeringsinstantie:* Argonaut Advies B.V., gevestigd te: Soestdijkerweg 17, 3734 MG Den Dolder, waarvan bij besluit van de minister aan de directeur mandaat en machtiging is verleend voor de uitvoering van deze regeling.
 
 ##### Artikel 2
 
@@ -149,5 +123,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2014.
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling OV-begeleiderskaart.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

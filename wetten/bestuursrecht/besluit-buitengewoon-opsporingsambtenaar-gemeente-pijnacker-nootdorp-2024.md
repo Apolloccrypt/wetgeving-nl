@@ -9,7 +9,7 @@ laatste_update: 2026-08-18
 status: geldig
 toestand: 2026-08-18
 bron: "https://wetten.overheid.nl/BWBR0049560"
-opgehaald: 2026-08-20
+opgehaald: 2026-08-21
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 3 april 2024 nr. BOACAT2024/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Pijnacker-Nootdorp

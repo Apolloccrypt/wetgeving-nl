@@ -1,40 +1,21 @@
 ---
 title: "Beleidsregels waarderingskader uitvoering Wet kinderopvang"
 identifier: "BWBR0035594"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2014-10-01"
-last_updated: "2014-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035594"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "12806573"
-version_id: "21750512"
-internal_id: "C31218021"
-label_id: "12776464"
-dtd_version: "2.0"
-original_entry_into_force: "2014-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035594/2014-10-01/0"
-intitule_bron: "Stcrt.2014-27763"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-10-01"
-intitule_in_force: "2014-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-27763"
-original_published_date: "2014-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-27763"
-entry_into_force_date: "2014-10-01"
-jci_1_3: "jci1.3:c:BWBR0035594&z=2014-10-01&g=2014-10-01"
-jci_1_0: "1.0:c:BWBR0035594&g=2014-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-10-01"
+publicatiedatum: 2014-10-01
+laatste_update: 2014-10-01
+status: geldig
+toestand: 2014-10-01
+bron: "https://wetten.overheid.nl/BWBR0035594"
+opgehaald: 2026-08-21
 ---
+
 # Beleidsregels waarderingskader uitvoering Wet kinderopvang
 
-**Het door de Inspectie van Onderwijs gehanteerde WAARDERINGSKADER**
+*Het door de Inspectie van Onderwijs gehanteerde WAARDERINGSKADER*
 
-### Uitvoering gemeentelijk toezicht in het kader van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
+### Uitvoering gemeentelijk toezicht in het kader van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen
 
 augustus 2014
 
@@ -48,7 +29,7 @@ De [Wet revitalisering generiek toezicht](https://wetten.overheid.nl/jci1.3:c:BW
 
 De Inspectie van het Onderwijs (hierna: de inspectie) is tweedelijns toezichthouder2Aangewezen als interbestuurlijk toezichthouder via aanwijzingsbesluit Staatscourant nr. 19731 d.d. 28 september 2012 voor gemeenten op het gebied van kinderopvang. Zij vult die taak in door middel van thematisch onderzoek naar trends en ontwikkelingen. Recent wees de minister de inspectie via een [Aanwijzingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032033) (Staatscourant nr. 19731 d.d. 28 september 2012) aan om interbestuurlijk toezicht uit te voeren op gemeenten op het gebied van toezicht en handhaving kinderopvang. Interbestuurlijk toezicht betreft het toezicht van de ene bestuurslaag op de andere.
 
-De inspectie heeft hiertoe op 20 februari 2014 een Toezichtkader opgesteld en het voorliggende waarderingskader is een verdere uitwerking daarvan. Dit waarderingskader maakt inzichtelijk hoe de inspectie ‘kijkt’ naar een gemeente en hoe (op grond van welke criteria) zij tot haar **oordeel** komt over de taakuitvoering van een gemeente.
+De inspectie heeft hiertoe op 20 februari 2014 een Toezichtkader opgesteld en het voorliggende waarderingskader is een verdere uitwerking daarvan. Dit waarderingskader maakt inzichtelijk hoe de inspectie ‘kijkt’ naar een gemeente en hoe (op grond van welke criteria) zij tot haar *oordeel* komt over de taakuitvoering van een gemeente.
 
 Een thema-onderzoek van de inspectie in 2008 bracht aan het licht dat gemeenten hun taken wat betreft toezicht en handhaving op de kinderopvang veelal niet op orde hadden. Naar aanleiding van dat signaal en de jaarlijkse rapporten Landelijk Oordeel van de inspectie besloot de toenmalige staatssecretaris van OCW in 2009 om het project Achterblijvende Gemeenten Kinderopvang in het leven te roepen. Doel hiervan was om taakuitvoering op het gebied van toezicht en handhaving kinderopvang in elke individuele gemeente in kaart te brengen en verbeterafspraken te maken met gemeenten die hun wettelijke taken niet voldoende uitvoerden. In 2011 is de inspectie op verzoek van de minister van SZW gestart met publicatie van de statussen van gemeenten op de inspectiewebsite. De VNG was bij dit project betrokken, omdat zij de gemeenten kon ondersteunen die de uitvoering van hun wettelijke taak niet op orde hadden.
 
@@ -80,15 +61,19 @@ In het licht van de uitgangspunten vastgelegd in de [Wet revitalisering generiek
 
 De inspectie zoekt contact met de gemeente en verkrijgt informatie die deels van belang is voor haar oordeel.
 
-De inspectie baseert haar oordeel op de uitvoering van de wettelijke taken (zie hoofdstuk 3), en op houding en gedrag van de gemeente (college en gemeenteraad).
+Oordeel en statustoekenning
+
+De inspectie baseert haar oordeel op de uitvoering van de wettelijke taken (zie [hoofdstuk 3](https://wetten.overheid.nl/BWBR0035594)), en op houding en gedrag van de gemeente (college en gemeenteraad).
 
 Het jaarverslag (waarstaatjegemeente.nl) laat zien of de gemeente de wettelijke criteria heeft behaald of niet. De inspectie neemt daarnaast in haar oordeel mee wat het college heeft gedaan/aangepast om (indien van toepassing) in het vervolg wel aan de wettelijke eisen te kunnen voldoen.
 
-Elke gemeente maakt eigen beleidsmatige en organisatorische afwegingen. De inspectie gelooft dan ook niet in een scorelijstje, waarmee zij op een tiende nauwkeurig uitrekent of een gemeente al dan niet voldoet aan haar wettelijke taken. Aan de hand van de verzamelde informatie weegt de inspectie alle elementen en geeft haar oordeel. Dit oordeel is uitlegbaar, maar niet volgens een rekenschema inzichtelijk te maken. Hierin speelt het **professional judgement** van de inspectie ook een rol.
+Elke gemeente maakt eigen beleidsmatige en organisatorische afwegingen. De inspectie gelooft dan ook niet in een scorelijstje, waarmee zij op een tiende nauwkeurig uitrekent of een gemeente al dan niet voldoet aan haar wettelijke taken. Aan de hand van de verzamelde informatie weegt de inspectie alle elementen en geeft haar oordeel. Dit oordeel is uitlegbaar, maar niet volgens een rekenschema inzichtelijk te maken. Hierin speelt het *professional judgement* van de inspectie ook een rol.
 
 De status van een gemeente is een verkorte weergave van het oordeel van de inspectie: de gemeente voert haar wettelijke taken wel of niet goed uit. Gemeenten die hun wettelijke taken wel goed uitvoeren ontvangen status A. Gemeenten die hun wettelijke taken niet goed uitvoeren ontvangen status B of C.
 
 Een gemeente met status B werkt mee aan het verbetertraject. De gemeente neemt zelf stappen om de taakuitvoering te verbeteren. Een gemeente met status C werkt niet of onvoldoende mee aan het verbetertraject. In dat geval kan de inspectie de interventieladder ‘Indeplaatsstelling bij taakverwaarlozing’ toepassen, dit is niet altijd noodzakelijk. Deze ladder bestaat uit zes stappen, van signaleren tot en met definitief toepassen van het instrument Indeplaatsstelling. Feitelijke toepassing van de Indeplaatsstelling geschiedt door de minister van SZW.
+
+Risico’s en aandachtspunten
 
 De inspectie baseert haar oordeel, zoals hierboven omschreven, op wettelijke criteria. Daarnaast kan de inspectie tijdens het nader onderzoek op situaties stuiten die risicovol zijn of aandacht behoeven. Vaak gaat het daarbij over punten die de continuïteit van een goede taakuitvoering mogelijk op termijn in gevaar brengen.
 
@@ -114,13 +99,37 @@ Het waarderingskader bestaat uit vier wettelijke criteria. Deze criteria zijn al
 
 In de volgende paragrafen wordt per wettelijk criterium beschreven wat de wetgever ermee bedoelt en hoe de inspectie het criterium beoordeelt.
 
+Figuur 1: Criteria waarderingskader
+
 ### 1. Het Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP) moet actueel, juist en volledig zijn
 
 De wettekst komt op het volgende neer:
 
+- • Uiterlijk tien weken na de aanvraag geeft het college van burgemeester en wethouders een beschikking af aan de houder van een kindercentrum of gastouderbureau.
+
+- • Het college van burgemeester en wethouders zorgt voor de inschrijving van het kindercentrum, gastouderbureau of voorziening voor gastouderopvang in het register kinderopvang.
+
+- • De houder van een kindercentrum of gastouderbureau meldt wijzigingen in de gegevens aan het college van burgemeester en wethouders. Het college zorgt ervoor dat deze wijzigingen worden doorgevoerd in het register kinderopvang.
+
+- • Het college beoordeelt – na een verzoek tot aanpassing van de gegevens – in hoeverre een onderzoek noodzakelijk is voordat besloten wordt over aanpassing van de gegevens met betrekking tot de kinderopvangvoorziening.
+
+- • Het college kan besluiten een kinderopvangvoorziening uit het register te verwijderen. Dit kan in eerste instantie op verzoek van de houder. Daarnaast kan het ook als blijkt dat de houder niet langer de kinderopvangvoorziening exploiteert zonder dat er een aanpassingsverzoek is ingediend. Of als uit onderzoek blijkt dat de houder naar verwachting niet langer voldoet aan de voorschriften van de wet.
+
+- • Het college maakt de verwijdering van een kinderopvangvoorziening of een voorziening voor gastouderopvang uit het register kinderopvang bekend in een lokaal verspreid dag-, nieuws- of huis-aan-huisblad.
+
+- • Het college kan een kinderopvangvoorziening uit het register verwijderen indien drie maanden na de inschrijving de opvang- of bemiddelingsactiviteiten van de kinderopvangvoorziening niet daadwerkelijk zijn begonnen.
+
 Het bovenstaande is ook van toepassing op de peuterspeelzalen.
 
+Wettelijk kader
+
+5
+
+Disclaimer: bovenstaande artikelen zijn van kracht op 1 juli 2014. Geadviseerd wordt om voor de actuele wettekst www.wetten.nl te raadplegen.
+
 De wettelijke basis voor het uitvoeren van de registertaak is te vinden in [hoofdstuk 1, afdeling 3, paragraaf 1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=1) (Wko) en voor de peuterspeelzalen in [hoofdstuk 2, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=1). Betreffende artikelen kindercentra en gastouderopvang: [1.45 t/m 1.47b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.45) en peuterspeelzalen: [2.3 t/m 2.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.3). Verder is de wettelijke basis ook te vinden in het [Besluit registers kinderopvang en peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0030892).
+
+Op orde
 
 De inspectie beoordeelt dit criterium als ‘op orde’ als de gemeente voldoende heeft aangetoond dat de nieuwe aanvragen tijdig zijn behandeld en de registratie in het LRKP tijdig heeft plaatsgevonden. De gemeente moet aantonen dat wijzigingen actueel, juist en volledig worden verwerkt of verklaren dat het criterium op orde is.
 
@@ -128,7 +137,19 @@ De inspectie beoordeelt dit criterium als ‘op orde’ als de gemeente voldoend
 
 De wettekst komt op het volgende neer:
 
+- • Als iemand een kindercentrum of gastouderbureau wil starten, dient hij een aanvraag in bij het college van burgemeester en wethouders.
+
+- • Het college vraagt de GGD om te onderzoeken of de exploitatie redelijkerwijs in overeenstemming met de wettelijke regels zal plaatsvinden.
+
+- • Op basis van dit onderzoek geeft het college uiterlijk binnen tien weken een beschikking af aan de houder van een kindercentrum of gastouderbureau. Dit geldt ook voor peuterspeelzalen en voorzieningen voor gastouderopvang.
+
+Wettelijk kader
+
+5
+
 De wettelijke basis voor de registratie is te vinden in [hoofdstuk 1, afdeling 3, paragraaf 1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=1) (Wko) en voor de peuterspeelzalen in [hoofdstuk 2, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=1). De betreffende artikelen voor kindercentra en gastouderbureaus: [1.45 t/m 1.48c Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.45); voor de peuterspeelzalen [2.2 t/m 2.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.2). Voorts zijn van toepassing de [Beleidsregels werkwijze toezichthouder kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0032415).
+
+Op orde
 
 De inspectie beoordeelt dit wettelijk criterium als ‘op orde’ als de gemeente voldoende heeft aangetoond dat alle nieuwe aanvragen binnen de wettelijke termijn van tien weken afgehandeld worden en, na goedkeuring, worden geregistreerd in het LRKP. Een kinderopvanglocatie kan pas in het LRKP worden opgenomen als de GGD een onderzoek heeft afgerond en het advies tot registratie heeft gegeven.
 
@@ -138,7 +159,23 @@ Dit criterium beoordeelt de inspectie op basis van aangeleverde informatie of op
 
 De wettekst komt op het volgende neer:
 
+- • De toezichthouder onderzoekt in redelijkheid jaarlijks of de exploitatie van ieder geregistreerd kindercentrum en geregistreerd gastouderbureau in overeenstemming is met de gestelde regels.
+
+- • De toezichthouder onderzoekt in redelijkheid op grond van steekproeven jaarlijks of de exploitatie van geregistreerde voorzieningen voor gastouderopvang in overeenstemming is met de gestelde regels.
+
+- • De toezichthouder onderzoekt jaarlijks of de exploitatie van elke peuterspeelzaal plaatsvindt in overeenstemming met de gestelde regels, behoudens bijzondere omstandigheden.
+
+- • Het college ziet toe op de naleving van de bij of krachtens afdeling 3 van dit hoofdstuk gestelde regels, [...] en de bij artikel 1.50b vastgestelde algemene maatregel van bestuur vastgelegde basisvoorwaarden voor kwaliteit van voorschoolse educatie. Het college wijst de directeur van de GGD aan als toezichthouder.
+
+Wettelijk kader
+
+6
+
+Disclaimer: bovenstaande artikelen zijn van kracht op 1 juli 2014. Geadviseerd wordt om voor de actuele wettekst www.wetten.nl te raadplegen.
+
 De wettelijke basis voor het toezicht op de naleving door het college is te vinden in [hoofdstuk 1, afdeling 4, paragraaf 1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=1) (Wko) en voor de peuterspeelzalen in [hoofdstuk 2, afdeling 3, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=1). De betreffende artikelen voor kindercentra en gastouderbureaus: [1.61 t/m 1.64](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.61) Wko; voor de peuterspeelzalen [2.19 t/m 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.19) en voor de voorschoolse educatie; art. 150b en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.8). Voorts zijn van toepassing de [Beleidsregels werkwijze toezichthouder kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0032415) en [Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961). Tevens zijn van toepassing de bestuurlijke afspraken tussen de minister van SZW en de VNG over de storting van gelden in het gemeentefonds ten behoeve van de uitoefening van de toezicht- en handhavingstaken. Hierin is onder andere opgenomen dat het aantal te inspecteren gastouders per gemeente variabel is, maar zich bevindt in een bandbreedte van 5 – 30 procent.
+
+Op orde
 
 De inspectie beoordeelt dit wettelijk criterium als ‘op orde’ als de gemeente voldoende heeft aangetoond dat zij alle onderzoeken voor registratie, onderzoeken na registratie, alle verplichte jaarlijkse onderzoeken en minimaal 5 procent van de VGO-voorzieningen heeft uitgevoerd, inclusief de basisvoorwaarden op vve. Ook geldt een verklaring van een gemeente dat dit criterium op orde is als voldoende verantwoording, in het geval de inspectie naar dit criterium geen gericht onderzoek heeft uitgevoerd.
 
@@ -150,11 +187,39 @@ De gemeente heeft een regierol richting de GGD. Zij geeft de GGD opdracht tot de
 
 De wettekst komt op het volgende neer:
 
+- • Het college van burgemeester en wethouders ziet toe op de naleving van de gestelde regels door de procedure van overleg en overreding, het geven van waarschuwingen of aanwijzingen, het opleggen van boetes, last onder dwangsom, bevel, exploitatieverbod en verwijdering uit het register.
+
+- • Het college van burgemeester en wethouders van de gemeente waarin zich een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureau bevindt dat zich niet aan de geschreven voorschriften houdt of in onvoldoende mate naleeft, kan de houder een schriftelijke aanwijzing geven.
+
+- • In een aanwijzing geeft het college van burgemeester en wethouders onderbouwd aan op welke punten niet en/of onvoldoende wordt voldaan aan de voorschriften en de te nemen maatregelen.
+
+- • De toezichthouder kan een schriftelijk bevel geven aan een kindercentrum, gastouderbureau of voorziening van een gastouder indien hij oordeelt dat de kwaliteit van de kinderopvang zodanig tekortschiet dat het nemen van maatregelen geen uitstel mag hebben.
+
+- • De houder neemt de maatregelen binnen de termijn die is aangegeven bij de aanwijzing respectievelijk het bevel.
+
+- • Het college van burgemeester en wethouders kan de houder verbieden de exploitatie van een kindercentrum, voorziening voor gastouderopvang of een gastouderbureau voort te zetten zolang hij geen gehoor geeft aan een schriftelijk bevel en/of aanwijzing.
+
+- • Het college kan een bestuurlijke boete opleggen van ten hoogste € 45.000 ([art. 1.72 Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.72)).
+
+- • Het college voert voortvarend de handhavingstaak uit conform haar eigen handhavingsbeleid voor kinderopvang en peuterspeelzalen7Als het beleid niet conform wet- en regelgeving is opgesteld, komt dit naar voren bij de beoordeling van de handhavingstaak en wordt de gemeente hierop aangesproken..
+
+- • Het college geeft de GGD opdracht na afloop van de hersteltermijn een nader onderzoek in te stellen. Het college moet immers door middel van een nader onderzoek controleren of de tekortkomingen zijn opgelost; in [artikel 162, lid 5 Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) staat beschreven dat de toezichthouder het nader onderzoek uitvoert.
+
+- • Het bovenstaande is ook van toepassing op de peuterspeelzalen, met uitzondering van de bevoegdheid een bestuurlijke boete op te leggen.
+
+Wettelijk kader
+
+8
+
+Disclaimer: bovenstaande artikelen zijn van kracht op 1 juli 2014. Geadviseerd wordt om voor de actuele wettekst www.wetten.nl te raadplegen.
+
 De wettelijke basis voor de handhaving voor de kindercentra en gastouderbureaus is te vinden in [hoofdstuk 1, afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&afdeling=4) en [hoofdstuk 2 van de Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&afdeling=4), [artikelen 1.65 t/m 1.80](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=71)9Met uitzondering van artikel 1.67a en 1.68, en voor de peuterspeelzalen in [hoofdstuk 2, afdeling 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) en 4 van de Wko, [artikelen 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.23), [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.24), [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.27) en [2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.28). En in [hoofdstuk 5 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5), [artikelen 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:21), [5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:28) en [5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32).
 
 Het ‘nader onderzoek’ dat de GGD voor gemeenten uitvoert bij geconstateerde tekortkomingen, is sinds 1 juli 2013 expliciet in de wet opgenomen.
 
 Voorts zijn de [Beleidsregels werkwijze toezichthouder kinderopvang en peuterspeelzalen van toepassing](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32).
+
+Op orde
 
 Doel van handhaving is dat de gemeente zo snel mogelijk (conform het handhavingsbeleid) de situatie ongedaan maakt dat een houder niet voldoet aan de kwaliteitseisen van de kinderopvang. De inspectie beoordeelt de handhaving als ‘op orde’ als de gemeente voldoende heeft aangetoond dat ze voortvarend handhaaft en conform het eigen handhavingsbeleid handelt. Ook geldt een verklaring van een gemeente dat het op orde is als voldoende verantwoording, in het geval de inspectie naar dit criterium geen gericht onderzoek heeft uitgevoerd.
 
@@ -163,33 +228,3 @@ Onder voortvarend handhaven verstaat de inspectie dat een overtreding op de kwal
 In haar oordeel neemt de inspectie ook mee hoe een gemeente rechtsgelijkheid, transparantie en uniformiteit in de uitvoering van haar toezicht en handhavingstaken borgt. Dit kan ze bijvoorbeeld vaststellen in handhavingsbeleid. Een gemeente is hiertoe niet wettelijk verplicht. Zij kan rechtsgelijkheid, transparantie en uniformiteit ook op andere manieren borgen. Daarnaast mag een gemeente afwijken van haar beleid. Wanneer dit incidenteel en beargumenteerd gebeurt, wordt de rechtsgelijkheid niet aangetast.
 
 Indien een gemeente handhavingsbeleid heeft opgesteld voor kinderopvang en peuterspeelzalen beoordeelt de inspectie hoe de gemeente dit gebruikt in de handhavingstrajecten.
-
-## Bijlage 1. Aandachtspunten voor toezicht en handhaving kinderopvang
-
-De aandachtspunten maken geen deel uit van het oordeel van de inspectie.
-
-### Algemene aandachtspunten
-
-### Aandachtspunten uitvoering onderzoeken en tijdigheid aanvragen
-
-**De VNG, GGD GHOR Nederland en de Inspectie van het Onderwijs hebben gezamenlijk een Handreiking Bedrijfsvoering opgesteld voor gemeenten. Deze handreiking wordt in september 2014 beschikbaar gesteld aan gemeenten en biedt ondersteuning bij de uitvoering van de toezichtstaak.**
-
-### Aandachtspunten handhaving
-
-### Aandachtspunten LRKP
-
-### Colofon
-
-Inspectie van het Onderwijs
-
-Postbus 2730 | 3500 GS Utrecht
-
-www.onderwijsinspectie.nl
-
-2014 - 17 | gratis
-
-ISBN: 978-90-8503-341-7
-
-Een exemplaar van deze publicatie is te downloaden vanaf de website van de Inspectie van het Onderwijs: www.onderwijsinspectie.nl.
-
-© Inspectie van het Onderwijs | augustus 2014

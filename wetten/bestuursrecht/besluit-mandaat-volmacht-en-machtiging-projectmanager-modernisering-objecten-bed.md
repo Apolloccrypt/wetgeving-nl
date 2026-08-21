@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur-generaal van Rijkswaterstaat van 4 september 2014, met kenmerk RWS-2014/39744 houdende verlening van mandaat, volmacht en machtiging aan de projectmanager van het project Modernisering Objecten Bediening Zeeland (MOBZ) (Besluit mandaat, volmacht en machtiging projectmanager Modernisering Objecten Bediening Zeeland (MOBZ))"
+citeertitel: "Besluit mandaat, volmacht en machtiging projectmanager Modernisering Objecten Bediening Zeeland (MOBZ)"
 identifier: "BWBR0035578"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-09-25"
-last_updated: "2014-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035578"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12803623"
-version_id: "21743702"
-internal_id: "C31206861"
-label_id: "12773334"
-dtd_version: "2.0"
-original_entry_into_force: "2014-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035578/2014-09-25/0"
-intitule_bron: "Stcrt.2014-26298"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-04"
-intitule_published: "2014-09-24"
-intitule_in_force: "2014-09-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-26298"
-original_signed_date: "2014-09-04"
-original_published_date: "2014-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-26298"
-entry_into_force_date: "2014-09-25"
-jci_1_3: "jci1.3:c:BWBR0035578&z=2014-09-25&g=2014-09-25"
-jci_1_0: "1.0:c:BWBR0035578&g=2014-09-25"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging projectmanager Modernisering Objecten Bediening Zeeland (MOBZ)"
-signed_date: "2014-09-04"
-entry_into_force: "2014-09-25"
+publicatiedatum: 2014-09-25
+laatste_update: 2014-09-25
+status: geldig
+toestand: 2014-09-25
+bron: "https://wetten.overheid.nl/BWBR0035578"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de directeur-generaal van Rijkswaterstaat van 4 september 2014, met kenmerk RWS-2014/39744 houdende verlening van mandaat, volmacht en machtiging aan de projectmanager van het project Modernisering Objecten Bediening Zeeland (MOBZ) (Besluit mandaat, volmacht en machtiging projectmanager Modernisering Objecten Bediening Zeeland (MOBZ))
-
-Gelet op [artikel 23, tweede lid, onderdeel b, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=23) en [artikel 2, tweede lid, van het Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Functie
 
@@ -69,5 +43,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging projectmanager Modernisering Objecten Bediening Zeeland (MOBZ).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de in dit besluit genoemde functionarissen.

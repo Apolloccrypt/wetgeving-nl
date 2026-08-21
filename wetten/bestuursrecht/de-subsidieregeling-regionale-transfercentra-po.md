@@ -1,35 +1,16 @@
 ---
 title: "De subsidieregeling regionale transfercentra PO"
 identifier: "BWBR0035399"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-07-07"
-last_updated: "2014-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035399"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12746293"
-version_id: "21575742"
-internal_id: "C30991221"
-label_id: "12716044"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035399/2014-07-07/0"
-intitule_bron: "Stcrt.2014-21461"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-07-29"
-intitule_in_force: "2014-07-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-21461"
-original_published_date: "2014-07-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-21461"
-entry_into_force_date: "2014-07-07"
-jci_1_3: "jci1.3:c:BWBR0035399&z=2014-07-07&g=2014-07-07"
-jci_1_0: "1.0:c:BWBR0035399&g=2014-07-07"
-citeertitel_status: "officieel"
-entry_into_force: "2014-07-07"
+publicatiedatum: 2014-07-07
+laatste_update: 2014-07-07
+status: geldig
+toestand: 2014-07-07
+bron: "https://wetten.overheid.nl/BWBR0035399"
+opgehaald: 2026-08-21
 ---
+
 # De subsidieregeling regionale transfercentra PO
 
 Het bestuur van de Stichting Participatiefonds,
@@ -52,39 +33,39 @@ Besluit vast te stellen de volgende regeling: Subsidieregeling Regionale Transfe
 
 In deze regeling wordt verstaan onder:
 
-- 1. **de subsidieregeling:** de subsidieregeling Regionale Transfercentra PO.
+- 1. *de subsidieregeling:* de subsidieregeling Regionale Transfercentra PO.
 
-- 2. **het bestuur:** het bestuur van de Stichting Participatiefonds alsmede, in geval van uitoefening van de bevoegdheid krachtens het voornoemde mandaatbesluit, de stuurgroep.
+- 2. *het bestuur:* het bestuur van de Stichting Participatiefonds alsmede, in geval van uitoefening van de bevoegdheid krachtens het voornoemde mandaatbesluit, de stuurgroep.
 
-- 3. **de beschikking:** de voornoemde beschikking van de Minister van 4 april 2014 tot subsidieverlening.
+- 3. *de beschikking:* de voornoemde beschikking van de Minister van 4 april 2014 tot subsidieverlening.
 
-- 4. **het bevoegd gezag:** een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) dan wel als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) met een school of scholen in krimpgebieden/krimpregio’s in Nederland.
+- 4. *het bevoegd gezag:* een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) dan wel als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) met een school of scholen in krimpgebieden/krimpregio’s in Nederland.
 
-- 5. **de samenwerkingspartners:** de samenwerking overwegende bevoegde gezagen (voor en tijdens de planfase) respectievelijk de samenwerkende bevoegde gezagen (tijdens de startfase, de aanjaagfase en de consolidatiefase).
+- 5. *de samenwerkingspartners:* de samenwerking overwegende bevoegde gezagen (voor en tijdens de planfase) respectievelijk de samenwerkende bevoegde gezagen (tijdens de startfase, de aanjaagfase en de consolidatiefase).
 
-- 6. **het centrum:** een regionaal transfercentrum als bedoeld in het sectorplan PO.
+- 6. *het centrum:* een regionaal transfercentrum als bedoeld in het sectorplan PO.
 
-- 7. **de projectgroep:** de in het sectorplan PO beschreven projectgroep.
+- 7. *de projectgroep:* de in het sectorplan PO beschreven projectgroep.
 
-- 8. **de stuurgroep:** de in het sectorplan PO beschreven stuurgroep, aan de leden waarvan door het bestuur schriftelijk mandaat is verleend tot het op aanvraag verlenen, vaststellen en betalen van subsidie op basis van de subsidieregeling.
+- 8. *de stuurgroep:* de in het sectorplan PO beschreven stuurgroep, aan de leden waarvan door het bestuur schriftelijk mandaat is verleend tot het op aanvraag verlenen, vaststellen en betalen van subsidie op basis van de subsidieregeling.
 
-- 9. **het serviceteam:** door de projectgroep aan te wijzen groep personen waarop de samenwerkingspartners dan wel het centrum een beroep kunnen dan wel kan doen voor advies, begeleiding en ondersteuning gedurende één of meer van de fases als hieronder sub 12 tot en met 16 bedoeld en uitsluitend gericht op de totstandkoming van een centrum dan wel op de activiteiten dan wel consolidatie van het centrum.
+- 9. *het serviceteam:* door de projectgroep aan te wijzen groep personen waarop de samenwerkingspartners dan wel het centrum een beroep kunnen dan wel kan doen voor advies, begeleiding en ondersteuning gedurende één of meer van de fases als hieronder sub 12 tot en met 16 bedoeld en uitsluitend gericht op de totstandkoming van een centrum dan wel op de activiteiten dan wel consolidatie van het centrum.
 
-- 10. **de contactpersoon:** de persoon die door de samenwerkingspartners als contactpersoon wordt aangewezen tegenover het bestuur, de stuurgroep en de projectgroep. De samenwerkingspartners kunnen slechts één contactpersoon aanwijzen.
+- 10. *de contactpersoon:* de persoon die door de samenwerkingspartners als contactpersoon wordt aangewezen tegenover het bestuur, de stuurgroep en de projectgroep. De samenwerkingspartners kunnen slechts één contactpersoon aanwijzen.
 
-- 11. **fte:** fulltime-equivalenten, waarbij 1 fte overeenkomt met 1 fulltime dienstbetrekking.
+- 11. *fte:* fulltime-equivalenten, waarbij 1 fte overeenkomt met 1 fulltime dienstbetrekking.
 
-- 12. **het projectplan:** plan dat vier jaren bestrijkt gerekend vanaf de aanvang van de startfase (zie hieronder sub 13).Hierin verklaren de samenwerkingspartners een regionaal transfercentrum te willen oprichten en verbinden zij zich aan een aantal in het projectplan opgenomen doelstellingen rond beperking van instroom van mensen in WW, aan de wijze waarop zij die doelstellingen willen bereiken en aan de middelen die zij daarvoor willen inzetten, één en ander volgens een aan deze regeling gehecht format.
+- 12. *het projectplan:* plan dat vier jaren bestrijkt gerekend vanaf de aanvang van de startfase (zie hieronder sub 13).Hierin verklaren de samenwerkingspartners een regionaal transfercentrum te willen oprichten en verbinden zij zich aan een aantal in het projectplan opgenomen doelstellingen rond beperking van instroom van mensen in WW, aan de wijze waarop zij die doelstellingen willen bereiken en aan de middelen die zij daarvoor willen inzetten, één en ander volgens een aan deze regeling gehecht [format](https://wetten.overheid.nl/BWBR0035399).
 
-- 13. **de planfase:** de periode waarin het projectplan wordt opgesteld, dit plan vervolgens door de samenwerkingspartners wordt vastgesteld en aan de stuurgroep ter goedkeuring wordt voorgelegd. De planfase start met de voorlopige toekenning door het bestuur van subsidie, beschikbaar voor deze fase op basis van een startverklaring, ondertekend en bij de stuurgroep ingediend namens de samenwerkingspartners, waarin deze verklaren zich te willen inspannen om te komen tot een projectplan dat is goedgekeurd door de stuurgroep. De planfase eindigt met het besluit van de stuurgroep op het projectplan.
+- 13. *de planfase:* de periode waarin het projectplan wordt opgesteld, dit plan vervolgens door de samenwerkingspartners wordt vastgesteld en aan de stuurgroep ter goedkeuring wordt voorgelegd. De planfase start met de voorlopige toekenning door het bestuur van subsidie, beschikbaar voor deze fase op basis van een startverklaring, ondertekend en bij de stuurgroep ingediend namens de samenwerkingspartners, waarin deze verklaren zich te willen inspannen om te komen tot een projectplan dat is goedgekeurd door de stuurgroep. De planfase eindigt met het besluit van de stuurgroep op het projectplan.
 
-- 14. **de startfase:** de periode waarin de samenwerkingspartners het centrum inrichten. De startfase eindigt op de datum van de mededeling van de contactpersoon aan de stuurgroep dat het centrum gereed is om het door de stuurgroep goedgekeurde projectplan uit te voeren, doch uiterlijk drie maanden na de start van de startfase.
+- 14. *de startfase:* de periode waarin de samenwerkingspartners het centrum inrichten. De startfase eindigt op de datum van de mededeling van de contactpersoon aan de stuurgroep dat het centrum gereed is om het door de stuurgroep goedgekeurde projectplan uit te voeren, doch uiterlijk drie maanden na de start van de startfase.
 
-- 15. **de aanjaagfase:** de periode waarin het centrum het goedgekeurde projectplan uitvoert. De periode start na de ontvangst bij de stuurgroep van de mededeling van de contactpersoon dat het centrum gereed is om het door de stuurgroep goedgekeurde projectplan uit te voeren. De datum van de ontvangstbevestiging van de stuurgroep is daartoe bepalend. De periode eindigt op 1 maart 2016.
+- 15. *de aanjaagfase:* de periode waarin het centrum het goedgekeurde projectplan uitvoert. De periode start na de ontvangst bij de stuurgroep van de mededeling van de contactpersoon dat het centrum gereed is om het door de stuurgroep goedgekeurde projectplan uit te voeren. De datum van de ontvangstbevestiging van de stuurgroep is daartoe bepalend. De periode eindigt op 1 maart 2016.
 
-- 16. **de consolidatiefase:** de periode waarin de samenwerkingspartners het centrum evalueren en deze evaluatie in de vorm van een evaluatierapport aanbieden aan de stuurgroep. De consolidatiefase start op 1 maart 2016 en eindigt met de goedkeuring van het evaluatierapport door de stuurgroep. De datum van de schriftelijke bevestiging van de goedkeuring door de stuurgroep is daartoe bepalend.
+- 16. *de consolidatiefase:* de periode waarin de samenwerkingspartners het centrum evalueren en deze evaluatie in de vorm van een evaluatierapport aanbieden aan de stuurgroep. De consolidatiefase start op 1 maart 2016 en eindigt met de goedkeuring van het evaluatierapport door de stuurgroep. De datum van de schriftelijke bevestiging van de goedkeuring door de stuurgroep is daartoe bepalend.
 
-- 17. **Subsidie in natura:** uren die leden van het serviceteam inzetten bij de samenwerkingspartners dan wel bij het centrum ter ondersteuning van de samenwerkingspartners dan wel van het centrum in het kader van één of meer van de fases onder artikel 1 lid 13, lid 14, lid 15 en/of lid 16 bedoeld.
+- 17. *Subsidie in natura:* uren die leden van het serviceteam inzetten bij de samenwerkingspartners dan wel bij het centrum ter ondersteuning van de samenwerkingspartners dan wel van het centrum in het kader van één of meer van de fases onder artikel 1 lid 13, lid 14, lid 15 en/of lid 16 bedoeld.
 
 ##### Artikel 2. Beschikbare subsidie
 
@@ -102,7 +83,7 @@ In deze regeling wordt verstaan onder:
 | --- | --- | --- |
 | – | ter dekking van niet-personele kosten wegens communicatie: | € 20.000 |
 | – | in natura: | 0,6 fte per week voor maximaal 3 maanden in totaal |
-| – | Hierin worden de uren, door de leden van de serviceteams gemaakt ten behoeve van de totstandkoming van de startverklaring, meegenomen. |   |
+| – | Hierin worden de uren, door de leden van de serviceteams gemaakt ten behoeve van de totstandkoming van de startverklaring, meegenomen. |  |
 
 6. Voor de startfase is per centrum maximaal de volgende subsidie beschikbaar:
 
@@ -115,8 +96,8 @@ In deze regeling wordt verstaan onder:
 
 | – | ter dekking van personele kosten: | 78.200 |
 | --- | --- | --- |
-| – | ter dekking van kosten, verbonden aan individuele begeleidingstrajecten van personeelsleden van werk naar werk: maximaal 126 trajecten per centrum tegen maximaal € 1.750 per traject. |   |
-| – | in natura: 0,2 fte per centrum gedurende maximaal 8 maanden in totaal en vervolgens 0,1 fte per centrum voor maximaal 5 maanden in totaal |   |
+| – | ter dekking van kosten, verbonden aan individuele begeleidingstrajecten van personeelsleden van werk naar werk: maximaal 126 trajecten per centrum tegen maximaal € 1.750 per traject. |  |
+| – | in natura: 0,2 fte per centrum gedurende maximaal 8 maanden in totaal en vervolgens 0,1 fte per centrum voor maximaal 5 maanden in totaal |  |
 
 8. Voor de consolidatiefase is er geen subsidie in euro’s beschikbaar. De beschikbare subsidie in natura bedraagt maximaal per centrum 0,1 fte voor maximaal één maand in totaal.
 
@@ -174,17 +155,17 @@ De hoogte van de te verstrekken subsidie wordt vastgesteld aan de hand van door 
 
 4. De subsidie voor de startfase wordt niet toegekend als er geen projectplan als bedoeld in [artikel 1 lid 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=1&z=2014-07-07&g=2014-07-07) wordt overgelegd. De subsidieaanvraag wordt voorts niet verleend als het projectplan niet dan wel onvoldoende voldoet aan één of meer van de in het format vastgelegde eisen, maar niet voordat de samenwerkingspartners in de gelegenheid zijn gebracht het projectplan conform het format in te dienen. De samenwerkingspartners worden schriftelijk in kennis gesteld van de eisen waaraan het ingediende projectplan niet of onvoldoende voldoet.
 
-Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan de in het format gestelde eisen voldoet, wordt geen subsidie verleend als bedoeld in [artikel 2 sub 6, 7 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=2&z=2014-07-07&g=2014-07-07).
+Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan de in het [format](https://wetten.overheid.nl/BWBR0035399) gestelde eisen voldoet, wordt geen subsidie verleend als bedoeld in [artikel 2 sub 6, 7 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=2&z=2014-07-07&g=2014-07-07).
 
 5. De aanvraag tot subsidie voor de aanjaagfase wordt niet toegekend, indien de samenwerkingspartners geen ondertekende verklaring kunnen overleggen inhoudende dat het centrum gereed is om het projectplan uit te voeren.
 
 6. De samenwerkingspartners informeren het bestuur terstond wanneer één of meer van de onderstaande situaties zich voordoen:
 
-- a). één of meer tot de samenwerkingspartners behorende bevoegde gezagen zich terugtrekt uit de samenwerking dan wel uit het centrum;
+- a) één of meer tot de samenwerkingspartners behorende bevoegde gezagen zich terugtrekt uit de samenwerking dan wel uit het centrum;
 
-- b). een bevoegd gezag tot de samenwerkingspartners en daarmee tot het centrum toetreedt;
+- b) een bevoegd gezag tot de samenwerkingspartners en daarmee tot het centrum toetreedt;
 
-- c). een omstandigheid zich voordoet waardoor de uitvoering van het projectplan vertraging oploopt en/of op andere wijze gevaar loopt.
+- c) een omstandigheid zich voordoet waardoor de uitvoering van het projectplan vertraging oploopt en/of op andere wijze gevaar loopt.
 
 7. In geval lid 1 van dit artikel van toepassing is, bepaalt het bestuur in de geest van de subsidieregeling, de beschikking en het sectorplan PO wat de gevolgen zijn voor de subsidietoekenning dan wel aan welke voorwaarden de samenwerkingspartners dan wel het centrum moet voldoen om de toegekende subsidie te behouden.
 
@@ -194,25 +175,25 @@ Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan d
 
 10. De aanvraag tot subsidieverlening wordt geweigerd c.q. verminderd indien naar het oordeel van het bestuur gegronde redenen bestaan om aan te nemen dat:
 
-- a). de kosten van de maatregelen waarvoor subsidie wordt aangevraagd, niet voldoende zijn onderbouwd;
+- a) de kosten van de maatregelen waarvoor subsidie wordt aangevraagd, niet voldoende zijn onderbouwd;
 
-- b). onvoldoende zekerheid bestaat dat de administratie van de samenwerkingspartners zal voldoen aan de daaraan gestelde eisen;
+- b) onvoldoende zekerheid bestaat dat de administratie van de samenwerkingspartners zal voldoen aan de daaraan gestelde eisen;
 
-- c). de activiteiten niet of niet geheel zullen plaatsvinden;
+- c) de activiteiten niet of niet geheel zullen plaatsvinden;
 
-- d). de samenwerkingspartners niet zullen voldoen aan de aan de subsidie verbonden verplichtingen;
+- d) de samenwerkingspartners niet zullen voldoen aan de aan de subsidie verbonden verplichtingen;
 
-- e). de samenwerkingspartners niet zullen voldoen aan de verplichtingen voortvloeiend uit de beschikking, de regeling en/of de kaderregeling;
+- e) de samenwerkingspartners niet zullen voldoen aan de verplichtingen voortvloeiend uit de beschikking, de regeling en/of de kaderregeling;
 
-- f). de samenwerkingspartners niet op een behoorlijke wijze rekening en verantwoording zullen afleggen omtrent de verrichte activiteiten en de daaraan verbonden uitgaven en inkomsten, voor zover deze voor de vaststelling van de subsidie van belang zijn;
+- f) de samenwerkingspartners niet op een behoorlijke wijze rekening en verantwoording zullen afleggen omtrent de verrichte activiteiten en de daaraan verbonden uitgaven en inkomsten, voor zover deze voor de vaststelling van de subsidie van belang zijn;
 
-- g). in het kader van de aanvraag en/of het verzoek als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=5&z=2014-07-07&g=2014-07-07) onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van deze gegevens tot een onjuiste beschikking op de aanvraag zou hebben geleid;
+- g) in het kader van de aanvraag en/of het verzoek als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=5&z=2014-07-07&g=2014-07-07) onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van deze gegevens tot een onjuiste beschikking op de aanvraag zou hebben geleid;
 
-- h). de aanvraag en/of het verzoek als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=5&z=2014-07-07&g=2014-07-07) voor een betreffende fase te laat wordt ingediend;
+- h) de aanvraag en/of het verzoek als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=5&z=2014-07-07&g=2014-07-07) voor een betreffende fase te laat wordt ingediend;
 
-- i). in het geval de aanvraag betrekking heeft op een bestaande voorziening die naar aard en doelstelling gelijk te stellen is aan een transfercentrum;
+- i) in het geval de aanvraag betrekking heeft op een bestaande voorziening die naar aard en doelstelling gelijk te stellen is aan een transfercentrum;
 
-- j). indien de aanvraag betrekking heeft op een activiteit die is aan te merken als een activiteit in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=2&z=2014-07-07&g=2014-07-07) en/of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=3&z=2014-07-07&g=2014-07-07) en welke activiteit ten tijde van de subsidieaanvraag reeds was aangevangen of afgerond.
+- j) indien de aanvraag betrekking heeft op een activiteit die is aan te merken als een activiteit in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=2&z=2014-07-07&g=2014-07-07) en/of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=3&z=2014-07-07&g=2014-07-07) en welke activiteit ten tijde van de subsidieaanvraag reeds was aangevangen of afgerond.
 
 11. Indien de aanvraag in de betreffende fase compleet en volledig is ingevuld, beslist het bestuur binnen vier weken na ontvangst van het verzoek omtrent de betreffende fase over de verlening en de hoogte van de subsidie.
 
@@ -230,75 +211,75 @@ Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan d
 
 5. Voor de financiële verantwoording van externe kosten geldt de volgende bewijsvoering en minimale eisen:
 
-- a). Een gewaarmerkte kopie factuur van de geleverde producten en of diensten. De factuur is eenduidig te relateren aan activiteiten uit het projectplan. De factuur is op naam gesteld van de samenwerkingspartners of een daartoe behorend bevoegd gezag. De factuur voldoet aan alle fiscale en boekhoudkundige eisen.
+- a) Een gewaarmerkte kopie factuur van de geleverde producten en of diensten. De factuur is eenduidig te relateren aan activiteiten uit het projectplan. De factuur is op naam gesteld van de samenwerkingspartners of een daartoe behorend bevoegd gezag. De factuur voldoet aan alle fiscale en boekhoudkundige eisen.
 
-- b). Een gewaarmerkt betaalbewijs van de onder [artikel 6.5 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=6&z=2014-07-07&g=2014-07-07) genoemde factuur. Het betaalbewijs betreft een bankafschrift of een print screen van een online betaalsysteem op basis waarvan eenduidig kan worden vastgesteld dat de kosten zijn betaald.
+- b) Een gewaarmerkt betaalbewijs van de onder [artikel 6.5 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=6&z=2014-07-07&g=2014-07-07) genoemde factuur. Het betaalbewijs betreft een bankafschrift of een print screen van een online betaalsysteem op basis waarvan eenduidig kan worden vastgesteld dat de kosten zijn betaald.
 
-- c). Een bewijs dat de prestatie (product en of dienst) waarvoor betaald is ook daadwerkelijk geleverd is. Dit kan onder meer zijn:
+- c) Een bewijs dat de prestatie (product en of dienst) waarvoor betaald is ook daadwerkelijk geleverd is. Dit kan onder meer zijn:
 
-- –. Een bewijs van deelname in het geval van een opleiding;
+   - – Een bewijs van deelname in het geval van een opleiding;
 
-- –. Een pakbon in het geval van een geleverd product;
+   - – Een pakbon in het geval van een geleverd product;
 
-- –. Rapporten, notulen, gespreksverslagen, communicatie in he geval van advies- en begeleidingsdiensten;
+   - – Rapporten, notulen, gespreksverslagen, communicatie in he geval van advies- en begeleidingsdiensten;
 
-- –. Communicatiemateriaal in het geval van communicatie activiteiten.
+   - – Communicatiemateriaal in het geval van communicatie activiteiten.
 
-- d). Een ordentelijk doorlopen inkoopprocedure met de daarbij behorende bewijsstukken. Dit kan onder meer zijn:
+- d) Een ordentelijk doorlopen inkoopprocedure met de daarbij behorende bewijsstukken. Dit kan onder meer zijn:
 
-- –. Een gepubliceerde en/ of verstuurde uitvraag naar producten en/ of diensten
+   - – Een gepubliceerde en/ of verstuurde uitvraag naar producten en/ of diensten
 
-- –. Een gepubliceerde en/ of verstuurde procedure en beschrijving (bestek)
+   - – Een gepubliceerde en/ of verstuurde procedure en beschrijving (bestek)
 
-- –. De ontvangen inschrijvingen van leveranciers
+   - – De ontvangen inschrijvingen van leveranciers
 
-- –. Een vergelijking van de inschrijvingen en een voorgenomen keuze
+   - – Een vergelijking van de inschrijvingen en een voorgenomen keuze
 
-- –. Een besluit en gunning van de opdracht
+   - – Een besluit en gunning van de opdracht
 
 6. De samenwerkingspartners dragen zorg voor een correcte waarmerking van de factuur en het betaalbewijs doordat:
 
-- a). een betrokken en daartoe bevoegde functionaris namens de eigenaar van het document een handtekening en de datum van waarmerking op de kopie van het document plaatst;
+- a) een betrokken en daartoe bevoegde functionaris namens de eigenaar van het document een handtekening en de datum van waarmerking op de kopie van het document plaatst;
 
-- b). de functionaris noteert zijn/haar naam op de kopie van het document onder de handtekening en datum;
+- b) de functionaris noteert zijn/haar naam op de kopie van het document onder de handtekening en datum;
 
-- c). daarbij wordt aangegeven dat het gaat om een ‘kopie van het origineel’.
+- c) daarbij wordt aangegeven dat het gaat om een ‘kopie van het origineel’.
 
 7. Voor de financiële verantwoording van interne kosten geldt de volgende bewijsvoering en minimale eisen:
 
-- a). een gewaarmerkte kopie van de arbeidsovereenkomst van de persoon in kwestie
+- a) een gewaarmerkte kopie van de arbeidsovereenkomst van de persoon in kwestie
 
-- b). een rechtsgeldig namens het bevoegd gezag van het schoolbestuur in kwestie ondertekend addendum op deze arbeidsovereenkomst, waarin het schoolbestuur verklaart dat de persoon in kwestie voor een nader aangegeven percentage van het dienstverband in kwestie wordt ingezet ten behoeve van de samenwerkingspartners en/of het regionaal transfercentrum onder vermelding van de activiteiten die de persoon in kwestie zal verrichten. Dit percentage dient lager te zijn dan 100.
+- b) een rechtsgeldig namens het bevoegd gezag van het schoolbestuur in kwestie ondertekend addendum op deze arbeidsovereenkomst, waarin het schoolbestuur verklaart dat de persoon in kwestie voor een nader aangegeven percentage van het dienstverband in kwestie wordt ingezet ten behoeve van de samenwerkingspartners en/of het regionaal transfercentrum onder vermelding van de activiteiten die de persoon in kwestie zal verrichten. Dit percentage dient lager te zijn dan 100.
 
 8. Voor de verantwoording van de hierna sub a en b bedoelde deelnemers gelden de volgende minimale eisen:
 
-- a). Voor alle deelnemers in het projectplan in de vorm van werk tot werk te begeleiden onderwijspersoneel waarvoor subsidie wordt aangevraagd en kosten worden gedeclareerd worden de volgende gegevens vastgelegd en opgenomen in de declaratie, waartoe de deelnemers in kwestie toestemming verlenen, één en ander met inachtneming van de Wet bescherming persoonsgegevens en de Wet op de privacy:
+- a) Voor alle deelnemers in het projectplan in de vorm van werk tot werk te begeleiden onderwijspersoneel waarvoor subsidie wordt aangevraagd en kosten worden gedeclareerd worden de volgende gegevens vastgelegd en opgenomen in de declaratie, waartoe de deelnemers in kwestie toestemming verlenen, één en ander met inachtneming van de Wet bescherming persoonsgegevens en de Wet op de privacy:
 
-- –. Naam
+   - – Naam
 
-- –. Geslacht
+   - – Geslacht
 
-- –. BSN of sofinummer
+   - – BSN of sofinummer
 
-- –. Geboortedatum
+   - – Geboortedatum
 
-- –. (voormalig) Werkgever
+   - – (voormalig) Werkgever
 
-- –. Nieuwe werkgever (indien van toepassing)
+   - – Nieuwe werkgever (indien van toepassing)
 
-- –. Aan welke werk naar werk activiteiten heeft de deelnemer deelgenomen
+   - – Aan welke werk naar werk activiteiten heeft de deelnemer deelgenomen
 
-- –. Startdatum van de activiteiten
+   - – Startdatum van de activiteiten
 
-- –. Einddatum van de activiteiten
+   - – Einddatum van de activiteiten
 
-- b). Voor alle sub a bedoelde deelnemers in het projectplan waarvoor subsidie wordt aangevraagd en kosten worden gedeclareerd worden de volgende bewijsstukken aangeleverd:
+- b) Voor alle sub a bedoelde deelnemers in het projectplan waarvoor subsidie wordt aangevraagd en kosten worden gedeclareerd worden de volgende bewijsstukken aangeleverd:
 
-- –. Kopie ID bewijs
+   - – Kopie ID bewijs
 
-- –. Getekende deelnameverklaring (conform het format van de Stichting Participatiefonds
+   - – Getekende deelnameverklaring (conform het [format](https://wetten.overheid.nl/BWBR0035399) van de Stichting Participatiefonds
 
-- c). Declaraties met betrekking tot van werk naar werk trajecten worden door de samenwerkingspartners gebundeld per kwartaal achteraf bij het bestuur ingediend.
+- c) Declaraties met betrekking tot van werk naar werk trajecten worden door de samenwerkingspartners gebundeld per kwartaal achteraf bij het bestuur ingediend.
 
 ##### Artikel 8. Controle
 
@@ -345,45 +326,3 @@ Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan d
 8. Deze regeling wordt aangehaald als “de subsidieregeling regionale transfercentra PO”.
 
 Deze regeling is in de Staatscourant gepubliceerd.
-
-## Format projectplan
-
-Als bedoeld in de Subsidieregeling Regionale Transfercentra PO, [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=1&z=2014-07-07&g=2014-07-07).
-
-VOORBLAD
-
-- 1. Statutaire namen en bestuursnummers van de participerende schoolbesturen.
-
-- 2. Per schoolbestuur lijst van de daaronder vallende brinnummers.
-
-- 3. Totaal FTE op datum ondertekening projectplan, in dienst van de schoolbesturen onder 1. genoemd. Dit betreft zowel onderwijzend personeel (OP) als onderwijsondersteunend personeel (OOP) als directie. Ook tijdelijke dienstverbanden moeten worden meegenomen. Vervangingsbetrekkingen blijven buiten de berekening tenzij het personen, in dienst van een (al dan niet door het Vervangingsfonds bekostigde) vervangingspool betreft.
-
-- 4. Naam, functie, adres, emailadres, vast telefoonnummer en mobiel nummer van de contactpersoon als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=1&z=2014-07-07&g=2014-07-07) van de Regeling. De correspondentie inzake de subsidieregeling verloopt uitsluitend via de contactpersoon.
-
-- 5. IBAN-nummer waarop de subsidiegelden ten behoeve van de samenwerkingspartners regionaal transfercentrum gestort kunnen worden onder vermelding van de rekeninghouder.
-
-- 6. Periode die het projectplan beslaat. Let op: dit dient vier jaren (4 x 12 maanden) te zijn vanaf de aanvang van de startfase ([artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=1&z=2014-07-07&g=2014-07-07) van de subsidieregeling).
-
-- 7. Ondergetekenden, die bevoegd zijn in en buiten rechte de schoolbesturen als onder 1. vermeld te vertegenwoordigen, verklaren het volgende:
-
-- 1. Zij zijn voornemens als samenwerkingspartners gezamenlijk een regionaal transfercentrum op te richten, als bedoeld in het Sectorplan PO en in de Subsidieregeling Regionale Transfercentra PO.
-
-- 2. Zij verbinden zich aan de in dit projectplan opgenomen doelstellingen rond beperking van instroom in de WW van mensen, in dienst van de schoolbesturen onder 1. genoemd.
-
-- 3. Zij zetten zich in dit te bereiken op de wijze als in dit projectplan uitgewerkt en met de daarbij vermelde middelen.
-
-- 4. Zij hebben dit plan afgestemd met de werknemersorganisaties.
-
-- 5. Zij hebben kennis genomen van de Subsidieregeling Regionale Transfercentra PO en verklaren dat indien en voor zover zij gebruik maken van subsidies ingevolge deze Regeling, zij de daaraan in de subsidieregeling verbonden voorwaarden accepteren.
-
-Ondertekening:
-
-VERVOLGBLAD
-
-- 1. Korte beschrijving van de regio die het samenwerkingsverband beslaat (dit kan ook door het noemen van de gemeenten in kwestie) en de geprognosticeerde autonome leerlingendaling in deze regio, of van de in het samenwerkingsverband samenwerkende schoolbesturen over de planperiode van vier jaar (langer mag ook, hoeft niet).
-
-- 2. Omschrijving van de doelstelling rond de beperking van de instroom van personen in de WW. Vermeld hierbij in ieder geval: aantal en soort (OP, OOP, directie) FTE, totaal over de vier jaar en per jaar. Let op: mede afhankelijk van de omvang van het samenwerkingsverband dient het aantal FTE dat door de samenwerking in het Regionaal Transfercentrum niet in de WW instroomt over de eerste twee jaar van het plan genomen minimaal 60 te zijn. Let op: subsidie-aanvragen die na 29 februari 2016 binnenkomen, worden niet meer in behandeling genomen!
-
-- 3. Onderbouwing waaruit blijkt op welke wijze de samenwerking in het Regionaal Transfercentrum deze beperking van instroom in de WW mogelijk maakt: welke maatregelen en middelen worden ingezet, welke acties onderneemt men, welke partijen worden daarbij betrokken, enzovoorts. Aangeven op welke wijze afstemming heeft plaatsgevonden met de werknemersorganisaties. Onderdeel van deze onderbouwing is de berekening welke instroom in WW als gevolg van leerlingendaling ‘onvermijdelijk’ zou zijn, als geen gebruik wordt gemaakt van de mogelijkheden die samenwerking in het Regionaal Transfercentrum biedt. Maak hiervoor gebruik van het scenariomodel van het Arbeidsmarktplatform PO. Let op: u kunt het natuurlijke verloop als gevolg van pensionering niet meetellen voor het behalen van de doelstelling beperking instroom mensen in de WW. Een uitzondering hierop is als deze pensionering leidt tot vacatureruimte die binnen het samenwerkingsverband ingezet kan worden om tot de beperking instroom mensen in de WW te komen. Voorbeeld: een schoolbestuur heeft drie fte die met pensioen gaan. Het schoolbestuur heeft te maken met leerlingendaling, waardoor na vertrek van de gepensioneerden 2 fte vacatureruimte heeft. Als het bestuur niet samenwerkt in een regionaal transfercentrum, hoeft dat bestuur ter vervulling daarvan geen personeel van andere besturen over te nemen, die door krimp personeel moeten gaan ontslaan. Als dat bestuur wel in een regionaal transfercentrum samenwerkt, neemt dat bestuur met ontslag bedreigd personeel over van andere besturen om zo de vacatureruimte van 2 fte in te vullen. Let op: instroom in de WW staat los van de vraag of u al dan niet door het vergoedingsverzoek aan het Participatiefonds komt!
-
-- 4. Begroting van het (beoogde) Regionaal Transfercentrum per jaar en voor vier jaar, waarin zichtbaar is gemaakt welke middelen de samenwerkende besturen zelf inzetten om de beperking instroom in de WW te bereiken en welke middelen (in geld of in natura) in het kader van de subsidieregeling worden ingezet. Maak voor dit laatste zichtbaar welke prestaties met de inzet van de subsidies worden geleverd. De begroting moet tevens aannemelijk maken dat het Regionaal Transfercentrum ook na de loopduur van het Sectorplan PO (dus na 1 april 2016) levensvatbaar is en in ieder geval de beoogde planperiode van vier jaar actief blijft om de doelstellingen rond de beperking instroom in de WW te bereiken.

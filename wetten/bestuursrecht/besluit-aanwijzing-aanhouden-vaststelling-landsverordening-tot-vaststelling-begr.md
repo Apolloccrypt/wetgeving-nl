@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 juli 2014, houdende de aanwijzing aan de Gouverneur van Aruba tot het aanhouden van de vaststelling van de landsverordening tot vaststelling van de begrotingen van de ministeries van het land voor het begrotingsjaar 2014 en het doen van onderzoek naar de realiteit van de ramingen in de begrotingen en de meerjarige ontwikkeling van de overheidsfinanciën van Aruba"
+citeertitel: "Besluit aanwijzing aanhouden vaststelling landsverordening tot vaststelling begrotingen ministeries begrotingsjaar 2014 en onderzoek realiteit ramingen begrotingen en meerjarige ontwikkeling overheidsfinanciën Aruba"
 identifier: "BWBR0035327"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2014-07-16"
-last_updated: "2014-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035327"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "12726253"
-version_id: "21538902"
-internal_id: "C30926821"
-label_id: "12696084"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035327/2014-07-16/0"
-intitule_bron: "Stcrt.2014-20467"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-11"
-intitule_published: "2014-07-15"
-intitule_in_force: "2014-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-20467"
-original_signed_date: "2014-07-11"
-original_published_date: "2014-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-20467"
-entry_into_force_date: "2014-07-16"
-jci_1_3: "jci1.3:c:BWBR0035327&z=2014-07-16&g=2014-07-16"
-jci_1_0: "1.0:c:BWBR0035327&g=2014-07-16"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing aanhouden vaststelling landsverordening tot vaststelling begrotingen ministeries begrotingsjaar 2014 en onderzoek realiteit ramingen begrotingen en meerjarige ontwikkeling overheidsfinanciën Aruba"
-signed_date: "2014-07-11"
-entry_into_force: "2014-07-16"
+publicatiedatum: 2014-07-16
+laatste_update: 2014-07-16
+status: geldig
+toestand: 2014-07-16
+bron: "https://wetten.overheid.nl/BWBR0035327"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 11 juli 2014, houdende de aanwijzing aan de Gouverneur van Aruba tot het aanhouden van de vaststelling van de landsverordening tot vaststelling van de begrotingen van de ministeries van het land voor het begrotingsjaar 2014 en het doen van onderzoek naar de realiteit van de ramingen in de begrotingen en de meerjarige ontwikkeling van de overheidsfinanciën van Aruba
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 juli 2014, nummer 2014-0000354235.
-
-Overwegende, dat het wenselijk is de Gouverneur van Aruba een aanwijzing te geven tot het aanhouden van de vaststelling van de landsverordening tot vaststelling van de begrotingen van de ministeries van het land voor het begrotingsjaar 2014 en het doen van onderzoek naar de realiteit van de ramingen in de begrotingen en de meerjarige ontwikkeling van de overheidsfinanciën van Aruba,
-
-Gelet op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=15) en [21 van het Reglement voor de Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=21);
-
-[Artikel 10 van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=10) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -73,5 +41,3 @@ Hebben goedgevonden en verstaan:
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in de Staatscourant en het Afkondigingsblad van Aruba zal worden geplaatst.

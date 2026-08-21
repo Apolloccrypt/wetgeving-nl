@@ -1,43 +1,21 @@
 ---
 title: "Memorandum van Overeenstemming tussen de bevoegde autoriteiten van de Republiek Argentinië en Nederland inzake automatische inlichtingenuitwisseling voor belastingdoeleinden"
 identifier: "BWBR0035226"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2014-06-04"
-last_updated: "2014-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035226"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "12698703"
-version_id: "21469622"
-internal_id: "C30830441"
-label_id: "12668794"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035226/2014-06-04/0"
-intitule_bron: "Stcrt.2014-16954"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-06-11"
-intitule_published: "2014-06-20"
-intitule_in_force: "2014-06-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-16954"
-original_signed_date: "2014-06-11"
-original_published_date: "2014-06-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-16954"
-entry_into_force_date: "2014-06-04"
-jci_1_3: "jci1.3:c:BWBR0035226&z=2014-06-04&g=2014-06-04"
-jci_1_0: "1.0:c:BWBR0035226&g=2014-06-04"
-citeertitel_status: "officieel"
-signed_date: "2014-06-11"
-entry_into_force: "2014-06-04"
+publicatiedatum: 2014-06-04
+laatste_update: 2014-06-04
+status: geldig
+toestand: 2014-06-04
+bron: "https://wetten.overheid.nl/BWBR0035226"
+opgehaald: 2026-08-21
 ---
+
 # Memorandum van Overeenstemming tussen de bevoegde autoriteiten van de Republiek Argentinië en Nederland inzake automatische inlichtingenuitwisseling voor belastingdoeleinden
 
-**De Staatssecretaris van Financiën maakt het volgende bekend.**
+*De Staatssecretaris van Financiën maakt het volgende bekend.*
 
-**Dit besluit bevat een bekendmaking van het in juni 2014 tussen het Hoofd van de Federale Belastingadministratie van Argentinië en de Plaatsvervangend Directeur-generaal Belastingdienst van Nederland gesloten Memorandum van Overeenstemming inzake automatische inlichtingenuitwisseling voor belastingdoeleinden. Het Memorandum geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, dividend, interest (indien beschikbaar), royalty’s (indien beschikbaar), vermogenswinsten, inkomsten uit zelfstandige arbeid, salarissen, lonen en andere soortgelijke beloningen, directeursbeloningen en andere soortgelijke beloningen, inkomsten verkregen door artiesten en sportbeoefenaars, pensioenen en lijfrenten, inkomsten uit overheidsfuncties en overige inkomsten. De eerste uitwisseling heeft betrekking op het jaar 2012.**
+*Dit besluit bevat een bekendmaking van het in juni 2014 tussen het Hoofd van de Federale Belastingadministratie van Argentinië en de Plaatsvervangend Directeur-generaal Belastingdienst van Nederland gesloten Memorandum van Overeenstemming inzake automatische inlichtingenuitwisseling voor belastingdoeleinden. Het Memorandum geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, dividend, interest (indien beschikbaar), royalty’s (indien beschikbaar), vermogenswinsten, inkomsten uit zelfstandige arbeid, salarissen, lonen en andere soortgelijke beloningen, directeursbeloningen en andere soortgelijke beloningen, inkomsten verkregen door artiesten en sportbeoefenaars, pensioenen en lijfrenten, inkomsten uit overheidsfuncties en overige inkomsten. De eerste uitwisseling heeft betrekking op het jaar 2012.*
 
 ### Memorandum van overeenstemming tussen de bevoegde autoriteiten van Nederland en de Republiek Argentinië inzake automatische inlichtingenuitwisseling voor belastingdoeleinden
 
@@ -105,9 +83,9 @@ Indien de door een Staat verstrekte informatie, die deel uitmaakt van de automat
 
 1. De informatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035226&artikel=3&z=2014-06-04&g=2014-06-04) wordt periodiek, tenminste eenmaal per kalenderjaar, verstrekt aan:
 
-- –. In de Republiek Argentinië: het Federale Hoofd van de Federale Belastingadministratie (Administración Federal de Ingresos Públicos) en de door hem voor deze doeleinden als bevoegde vertegenwoordigers benoemde functionarissen.
+- – In de Republiek Argentinië: het Federale Hoofd van de Federale Belastingadministratie (Administración Federal de Ingresos Públicos) en de door hem voor deze doeleinden als bevoegde vertegenwoordigers benoemde functionarissen.
 
-- –. In Nederland: het Hoofd van de Central Liaison Office van de Nederlandse Belastingdienst en de door hem voor deze doeleinden als bevoegde vertegenwoordigers benoemde functionarissen,
+- – In Nederland: het Hoofd van de Central Liaison Office van de Nederlandse Belastingdienst en de door hem voor deze doeleinden als bevoegde vertegenwoordigers benoemde functionarissen,
 
 2. Informatie met betrekking tot inkomsten en/of gegevens aangaande een bepaald kalenderjaar wordt voor zover mogelijk onmiddellijk toegezonden en, in ieder geval, zo spoedig mogelijk na afloop van het desbetreffende kalenderjaar.
 

@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0053035"
-opgehaald: 2026-08-20
+opgehaald: 2026-08-21
 ---
 
 # Besluit van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 4 augustus 2026, nr. BZ2630259, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Dutch Diamonds Partnerships)

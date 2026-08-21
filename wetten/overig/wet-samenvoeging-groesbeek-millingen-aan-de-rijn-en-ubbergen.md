@@ -1,48 +1,18 @@
 ---
 title: "Wet van 14 mei 2014 tot samenvoeging van de gemeenten Groesbeek, Millingen aan de Rijn en Ubbergen"
+citeertitel: "Wet samenvoeging Groesbeek, Millingen aan de Rijn en Ubbergen"
 identifier: "BWBR0035170"
-country: "nl"
-rank: "wet"
-publication_date: "2014-06-06"
-last_updated: "2014-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035170"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "12681583"
-version_id: "21429752"
-internal_id: "C30772421"
-label_id: "12651724"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035170/2014-06-06/0"
-intitule_bron: "Stb.2014-188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-05-14"
-intitule_published: "2014-06-05"
-intitule_in_force: "2014-06-05"
-intitule_status: "goed"
-original_publication: "Stb.2014-188"
-original_signed_date: "2014-05-14"
-original_published_date: "2014-06-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "33787"
-original_url_id: "stb-2014-188"
-entry_into_force_date: "2014-06-06"
-entry_into_force_dossier: "33787"
-jci_1_3: "jci1.3:c:BWBR0035170&z=2014-06-06&g=2014-06-06"
-jci_1_0: "1.0:c:BWBR0035170&g=2014-06-06"
-citeertitel_status: "redactioneel"
-short_title: "Wet samenvoeging Groesbeek, Millingen aan de Rijn en Ubbergen"
-signed_date: "2014-05-14"
-entry_into_force: "2014-06-06"
+publicatiedatum: 2014-06-06
+laatste_update: 2014-06-06
+status: geldig
+toestand: 2014-06-06
+bron: "https://wetten.overheid.nl/BWBR0035170"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 14 mei 2014 tot samenvoeging van de gemeenten Groesbeek, Millingen aan de Rijn en Ubbergen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Groesbeek, Millingen aan de Rijn en Ubbergen samen te voegen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en instelling van gemeenten
 
@@ -52,7 +22,7 @@ Met ingang van de datum van herindeling worden de gemeenten Groesbeek, Millingen
 
 ##### Artikel 2
 
-Met ingang van de datum van herindeling wordt de nieuwe gemeente Groesbeek ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Groesbeek, Millingen aan de Rijn en Ubbergen, zoals aangegeven op de bij deze wet behorende kaart.
+Met ingang van de datum van herindeling wordt de nieuwe gemeente Groesbeek ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Groesbeek, Millingen aan de Rijn en Ubbergen, zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0035170).
 
 #### § 2. Overige bepalingen
 
@@ -82,16 +52,12 @@ Voor de op te heffen gemeenten Groesbeek, Millingen aan de Rijn en Ubbergen word
 
 ##### Artikel 6
 
-Wijzigt de Wet veiligheidsregio's.
+*Wijzigt de Wet veiligheidsregio's.*
 
 ##### Artikel 7
 
-Wijzigt de Kieswet.
+*Wijzigt de Kieswet.*
 
 ##### Artikel 8
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035170&paragraaf=1&artikel=2&z=2014-06-06&g=2014-06-06)
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle Ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

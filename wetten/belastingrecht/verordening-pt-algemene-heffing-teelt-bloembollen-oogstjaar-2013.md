@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een algemene heffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT algemene heffing teelt bloembollen oogstjaar 2013)"
+citeertitel: "Verordening PT algemene heffing teelt bloembollen oogstjaar 2013"
 identifier: "BWBR0035135"
-country: "nl"
-rank: "pbo"
-publication_date: "2014-05-25"
-last_updated: "2014-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035135"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12676473"
-version_id: "21416132"
-internal_id: "C30750821"
-label_id: "12646654"
-dtd_version: "2.0"
-original_entry_into_force: "2014-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035135/2014-05-25/0"
-intitule_bron: "Vbbo.2014-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-26"
-intitule_published: "2014-05-23"
-intitule_in_force: "2014-05-23"
-intitule_status: "goed"
-original_publication: "Vbbo.2014-21"
-original_signed_date: "2013-03-26"
-original_published_date: "2014-05-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2014-05-25"
-jci_1_3: "jci1.3:c:BWBR0035135&z=2014-05-25&g=2014-05-25"
-jci_1_0: "1.0:c:BWBR0035135&g=2014-05-25"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing teelt bloembollen oogstjaar 2013"
-signed_date: "2013-03-26"
-entry_into_force: "2014-05-25"
+publicatiedatum: 2014-05-25
+laatste_update: 2014-05-25
+status: geldig
+toestand: 2014-05-25
+bron: "https://wetten.overheid.nl/BWBR0035135"
+opgehaald: 2026-08-21
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een algemene heffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT algemene heffing teelt bloembollen oogstjaar 2013)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-Gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen d.d. 26 februari 2013;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -54,7 +27,7 @@ In deze verordening wordt verstaan onder:
 | d. | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | e. | cultuurgrond | : | de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland; |
 | f. | bloembollen | : | bollen, knollen en wortelstokken van bloemgewassen alsmede voortkwekingsmateriaal dat is bestemd voor de teelt van bloembollen met uitzondering van zaden; |
-| g. | Gecombineerde opgave | : | het beschrijvingsbiljet als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) en [25 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=25); |
+| g. | Gecombineerde opgave | : | het beschrijvingsbiljet als bedoeld in de artikelen 24 en 25 van de Landbouwwet; |
 | h. | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | i. | ondernemer | : | de natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
 | j. | oogstjaar | : | de periode vanaf 1 juni 2013 tot en met 31 mei 2014; |
@@ -94,7 +67,7 @@ Voor het vaststellen van de heffing op de grondslag van [artikel 4, eerste lid](
 
 4. De heffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per bloembolgewas, uitgedrukt in de genoemde eenheid, vermenigvuldigd met het genoemde tarief in euro en bedraagt voor:
 
-| **Gewas** | **BRSnr.** | **Tarief** | **Eenh.** |
+| Gewas | BRSnr. | Tarief | Eenh. |
 | --- | --- | --- | --- |
 | Tulp | 560 | 25 | ha |
 | Lelie | 558 | 25 | ha |

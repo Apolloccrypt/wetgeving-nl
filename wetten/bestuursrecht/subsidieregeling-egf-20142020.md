@@ -1,66 +1,40 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 februari 2014, 2014-0000017865, houdende voorwaarden voor de projectvoorstellen voor financiële middelen uit het Europees Globaliseringsfonds 2014–2020 (Subsidieregeling EGF 2014–2020)"
+citeertitel: "Subsidieregeling EGF 2014–2020"
 identifier: "BWBR0034856"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-02-28"
-last_updated: "2014-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034856"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12587773"
-version_id: "21246482"
-internal_id: "C30513651"
-label_id: "12558354"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034856/2014-02-28/0"
-intitule_bron: "Stcrt.2014-5468"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-02-19"
-intitule_published: "2014-02-27"
-intitule_in_force: "2014-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-5468"
-original_signed_date: "2014-02-19"
-original_published_date: "2014-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-5468"
-entry_into_force_date: "2014-02-28"
-jci_1_3: "jci1.3:c:BWBR0034856&z=2014-02-28&g=2014-02-28"
-jci_1_0: "1.0:c:BWBR0034856&g=2014-02-28"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling EGF 2014–2020"
-signed_date: "2014-02-19"
-entry_into_force: "2014-02-28"
+publicatiedatum: 2014-02-28
+laatste_update: 2014-02-28
+status: geldig
+toestand: 2014-02-28
+bron: "https://wetten.overheid.nl/BWBR0034856"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 februari 2014, 2014-0000017865, houdende voorwaarden voor de projectvoorstellen voor financiële middelen uit het Europees Globaliseringsfonds 2014–2020 (Subsidieregeling EGF 2014–2020)
-
-Gelet op artikel 21, eerste en tweede lid, van Verordening (EU) nr. 1309/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees fonds voor aanpassing aan de globalisering (2014–2020) en tot intrekking van [Verordening (EG) 1927/2006](32006R1927) (PbEU 2013, L347) en [artikel 3, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- –. **Aanvrager:** rechtspersoon die in aanmerking wil komen voor een financiële bijdrage uit het EGF en daartoe een projectvoorstel indient bij de minister;
+- – *Aanvrager:* rechtspersoon die in aanmerking wil komen voor een financiële bijdrage uit het EGF en daartoe een projectvoorstel indient bij de minister;
 
-- –. **Auditautoriteit:** Auditdienst Rijk van het ministerie van Financiën;
+- – *Auditautoriteit:* Auditdienst Rijk van het ministerie van Financiën;
 
-- –. **Certificeringsautoriteit:** Certificeringsautoriteit van het ministerie van Economische Zaken;
+- – *Certificeringsautoriteit:* Certificeringsautoriteit van het ministerie van Economische Zaken;
 
-- –. **Minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- – *Minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **Verordening:** Verordening (EU) nr. 1309/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees fonds voor aanpassing aan de globalisering (2014–2020) en tot intrekking van [Verordening (EG) 1927/2006](32006R1927) (PbEU 2013, L347);
+- – *Verordening:* Verordening (EU) nr. 1309/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees fonds voor aanpassing aan de globalisering (2014–2020) en tot intrekking van Verordening (EG) 1927/2006 (PbEU 2013, L347);
 
-- –. **EGF:** Europees Globaliseringsfonds;
+- – *EGF:* Europees Globaliseringsfonds;
 
-- –. **Managementautoriteit:** Agentschap van het ministerie van Sociale Zaken en Werkgelegenheid dat door de minister is aangewezen als uitvoerder van deze regeling;
+- – *Managementautoriteit:* Agentschap van het ministerie van Sociale Zaken en Werkgelegenheid dat door de minister is aangewezen als uitvoerder van deze regeling;
 
-- –. **Project:** Een gecoördineerd pakket van individuele dienstverlening als bedoeld in artikel 7, eerste lid, van de verordening, met het doel om aan de beoogde ontslagen werknemers tegemoet te komen;
+- – *Project:* Een gecoördineerd pakket van individuele dienstverlening als bedoeld in artikel 7, eerste lid, van de verordening, met het doel om aan de beoogde ontslagen werknemers tegemoet te komen;
 
-- –. **Referentieperiode:** de periode waarbinnen de vereiste 500 ontslagen zijn gevallen of een periode die, wanneer er geen 500 ontslagen zijn gevallen, om uitzonderlijke redenen door de Europese Commissie is aangewezen als referentieperiode.
+- – *Referentieperiode:* de periode waarbinnen de vereiste 500 ontslagen zijn gevallen of een periode die, wanneer er geen 500 ontslagen zijn gevallen, om uitzonderlijke redenen door de Europese Commissie is aangewezen als referentieperiode.
 
 ##### Artikel 2. Subsidie uit EGF
 
@@ -159,5 +133,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling EGF 2014–2020.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

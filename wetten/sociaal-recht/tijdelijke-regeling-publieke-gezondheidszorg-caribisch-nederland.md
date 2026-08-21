@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 februari 2014, kenmerk 177903-111961-PG, houdende regels voor het verstrekken van een bijzondere uitkering aan de openbare lichamen Bonaire, Sint Eustatius en Saba voor de publieke gezondheidszorg (Tijdelijke regeling publieke gezondheidszorg Caribisch Nederland)"
+citeertitel: "Tijdelijke regeling publieke gezondheidszorg Caribisch Nederland"
 identifier: "BWBR0034842"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2014-02-25"
-last_updated: "2014-02-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034842"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "12584103"
-version_id: "21240472"
-internal_id: "C30503281"
-label_id: "12554564"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034842/2014-02-25/0"
-intitule_bron: "Stcrt.2014-4915"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-02-03"
-intitule_published: "2014-02-24"
-intitule_in_force: "2014-02-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-4915"
-original_signed_date: "2014-02-03"
-original_published_date: "2014-02-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-4915"
-entry_into_force_date: "2014-02-25"
-jci_1_3: "jci1.3:c:BWBR0034842&z=2014-02-25&g=2014-02-25"
-jci_1_0: "1.0:c:BWBR0034842&g=2014-02-25"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling publieke gezondheidszorg Caribisch Nederland"
-signed_date: "2014-02-03"
-entry_into_force: "2014-02-25"
+publicatiedatum: 2014-02-25
+laatste_update: 2014-02-25
+status: geldig
+toestand: 2014-02-25
+bron: "https://wetten.overheid.nl/BWBR0034842"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 februari 2014, kenmerk 177903-111961-PG, houdende regels voor het verstrekken van een bijzondere uitkering aan de openbare lichamen Bonaire, Sint Eustatius en Saba voor de publieke gezondheidszorg (Tijdelijke regeling publieke gezondheidszorg Caribisch Nederland)
-
-Gelet op [artikel 68g van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=68g);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -63,5 +37,3 @@ De Minister van Volksgezondheid, Welzijn en Sport kan de gelden, bedoeld in [art
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling publieke gezondheidszorg Caribisch Nederland.
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.

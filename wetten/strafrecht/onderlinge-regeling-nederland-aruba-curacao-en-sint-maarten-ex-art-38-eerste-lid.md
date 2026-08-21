@@ -1,44 +1,17 @@
 ---
 title: "Onderlinge regeling Nederland, Aruba, Curaçao en Sint Maarten ex art. 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (beschikbaarstelling detentiecapaciteit)"
 identifier: "BWBR0034807"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-02-13"
-last_updated: "2014-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034807"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "12577513"
-version_id: "21225392"
-internal_id: "C30475381"
-label_id: "12548004"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034807/2014-02-13/0"
-intitule_bron: "Stcrt.2014-3557"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-02-11"
-intitule_in_force: "2014-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-3557"
-original_published_date: "2014-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-3557"
-entry_into_force_date: "2014-02-13"
-jci_1_3: "jci1.3:c:BWBR0034807&z=2014-02-13&g=2014-02-13"
-jci_1_0: "1.0:c:BWBR0034807&g=2014-02-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-02-13"
+publicatiedatum: 2014-02-13
+laatste_update: 2014-02-13
+status: geldig
+toestand: 2014-02-13
+bron: "https://wetten.overheid.nl/BWBR0034807"
+opgehaald: 2026-08-21
 ---
+
 # Onderlinge regeling Nederland, Aruba, Curaçao en Sint Maarten ex art. 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (beschikbaarstelling detentiecapaciteit)
-
-Overwegende, dat in onderdeel D van de Slotverklaring van het bestuurlijk overleg over de toekomstige staatkundige positie van Curaçao en Sint Maarten op 2 november 2006 is afgesproken dat Curaçao, Sint Maarten en Nederland op basis van een onderlinge regeling als bedoeld in [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), met elkaar zullen samenwerken om te voorzien in het beschikbaar stellen van detentiecapaciteit ten behoeve van Bonaire, Sint Eustatius en Saba en ten behoeve van elkaar;
-
-Overwegende dat, in het justitieel vierpartijen overleg van 12 december 2012, waarin door de Ministers van Justitie van het Koninkrijk der Nederlanden is uitgesproken dat Aruba deel gaat nemen aan de onderlinge regeling als bedoeld in [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) regelende de samenwerking tussen Curaçao, Sint Maarten en Nederland op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit.
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Komen het volgende overeen:
 
 ##### Artikel 1
 
@@ -111,5 +84,3 @@ De [Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut v
 ##### Artikel 8
 
 Deze onderlinge regeling treedt in werking met ingang van de tweede dag na de dagtekening van het publicatiemedium waarin zij wordt geplaatst.
-
-Deze onderlinge regeling zal met de toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.

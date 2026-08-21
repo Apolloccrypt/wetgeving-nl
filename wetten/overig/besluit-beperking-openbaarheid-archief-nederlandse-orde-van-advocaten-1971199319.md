@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de algemene raad tot beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief van de Nederlandse orde van advocaten, 1971–1993(1994)"
+citeertitel: "Besluit beperking openbaarheid archief Nederlandse orde van advocaten, 1971–1993(1994)"
 identifier: "BWBR0034792"
-country: "nl"
-rank: "pbo"
-publication_date: "2014-02-12"
-last_updated: "2014-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034792"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12575253"
-version_id: "21222382"
-internal_id: "C30471711"
-label_id: "12545704"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034792/2014-02-12/0"
-intitule_bron: "Stcrt.2014-4025"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-02-04"
-intitule_published: "2014-02-11"
-intitule_in_force: "2014-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-4025"
-original_signed_date: "2014-02-04"
-original_published_date: "2014-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-4025"
-entry_into_force_date: "2014-02-12"
-jci_1_3: "jci1.3:c:BWBR0034792&z=2014-02-12&g=2014-02-12"
-jci_1_0: "1.0:c:BWBR0034792&g=2014-02-12"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Nederlandse orde van advocaten, 1971–1993(1994)"
-signed_date: "2014-02-04"
-entry_into_force: "2014-02-12"
+publicatiedatum: 2014-02-12
+laatste_update: 2014-02-12
+status: geldig
+toestand: 2014-02-12
+bron: "https://wetten.overheid.nl/BWBR0034792"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de algemene raad tot beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief van de Nederlandse orde van advocaten, 1971–1993(1994)
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 19 december 2013, met kenmerk NA/2013/13090.
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Nederlandse orde van advocaten 1971–1993(1994)
-
-Besluit:
 
 ##### Artikel 1
 

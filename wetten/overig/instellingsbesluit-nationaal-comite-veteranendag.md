@@ -1,46 +1,18 @@
 ---
 title: "Besluit houdende wijziging van het Comité Nederlandse Veteranendag in een Nationaal Comité Veteranendag"
+citeertitel: "Instellingsbesluit Nationaal Comité Veteranendag"
 identifier: "BWBR0035722"
-country: "nl"
-rank: "kb"
-publication_date: "2024-01-04"
-last_updated: "2024-01-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035722"
+categorie: "Overig"
 soort: "KB"
-stam_id: "12829133"
-version_id: "21794702"
-internal_id: "C31280641"
-label_id: "12798744"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035722/2024-01-04/0"
-intitule_bron: "Stcrt.2014-31526"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-10-02"
-intitule_published: "2014-11-07"
-intitule_in_force: "2014-11-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-31526"
-original_signed_date: "2014-10-02"
-original_published_date: "2014-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-31526"
-entry_into_force_date: "2014-11-09"
-jci_1_3: "jci1.3:c:BWBR0035722&z=2024-01-04&g=2024-01-04"
-jci_1_0: "1.0:c:BWBR0035722&g=2024-01-04"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Nationaal Comité Veteranendag"
-signed_date: "2014-10-02"
-entry_into_force: "2014-11-09"
+publicatiedatum: 2014-11-09
+laatste_update: 2024-01-04
+status: geldig
+toestand: 2024-01-04
+bron: "https://wetten.overheid.nl/BWBR0035722"
+opgehaald: 2026-08-21
 ---
+
 # Besluit houdende wijziging van het Comité Nederlandse Veteranendag in een Nationaal Comité Veteranendag
-
-Op de voordracht van Onze Minister van Defensie van dd 30 september 2014, nr. BS/2014028286, de Hoofddirecteur Personeel;
-
-Overwegende dat het wenselijk is de status van het Comité Nederlandse Veteranendag te wijzigen in een Nationaal Comité Veteranendag voor het organiseren van de jaarlijkse Nederlandse Veteranendag als nationaal evenement en voor de bevordering van maatschappelijke erkenning en waardering voor Nederlandse veteranen;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -97,7 +69,3 @@ De leden van het Nationaal Comité ontvangen een vergoeding voor reis- en verbli
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Nationaal Comité Veteranendag.
-
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 28 juni 2014
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in de Staatscourant zal worden geplaatst,

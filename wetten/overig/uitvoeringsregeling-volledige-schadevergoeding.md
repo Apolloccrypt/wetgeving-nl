@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister van Defensie van 3 november 2014, nummer BS2014029519 tot uitvoering van de volledige schadevergoeding (Uitvoeringsregeling volledige schadevergoeding)"
+citeertitel: "Uitvoeringsregeling volledige schadevergoeding"
 identifier: "BWBR0035751"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-11-15"
-last_updated: "2014-11-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035751"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12837093"
-version_id: "21809672"
-internal_id: "C31301031"
-label_id: "12806714"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035751/2014-11-15/0"
-intitule_bron: "Stcrt.2014-32498"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-03"
-intitule_published: "2014-11-14"
-intitule_in_force: "2014-11-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-32498"
-original_signed_date: "2014-11-03"
-original_published_date: "2014-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-32498"
-entry_into_force_date: "2014-11-15"
-jci_1_3: "jci1.3:c:BWBR0035751&z=2014-11-15&g=2014-11-15"
-jci_1_0: "1.0:c:BWBR0035751&g=2014-11-15"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling volledige schadevergoeding"
-signed_date: "2014-11-03"
-entry_into_force: "2014-11-15"
+publicatiedatum: 2014-11-15
+laatste_update: 2014-11-15
+status: geldig
+toestand: 2014-11-15
+bron: "https://wetten.overheid.nl/BWBR0035751"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Defensie van 3 november 2014, nummer BS2014029519 tot uitvoering van de volledige schadevergoeding (Uitvoeringsregeling volledige schadevergoeding)
-
-Gelet op de [artikelen 8a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8a) en [11a, vijfde lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=11a); [artikel 11a, vierde lid van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=11a), en [artikel 65a, zesde lid van het Burgerlijk ambtenarenreglement Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65a);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
-- –. de beroepsmilitair, bedoeld in [artikel 8a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8a);
+   - – de beroepsmilitair, bedoeld in [artikel 8a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8a);
 
-- –. de dienstplichtige of reservist, bedoeld in [artikel 11a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65a);
+   - – de dienstplichtige of reservist, bedoeld in [artikel 11a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65a);
 
-- –. de nabestaanden van de militair, bedoeld in [artikel 11a van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=11a);
+   - – de nabestaanden van de militair, bedoeld in [artikel 11a van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=11a);
 
-- –. de ambtenaar of gewezen ambtenaar, bedoeld in [artikel 65a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65a);
+   - – de ambtenaar of gewezen ambtenaar, bedoeld in [artikel 65a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65a);
 
-- –. de nabestaanden van de ambtenaar, bedoeld in [artikel 65a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65a).
+   - – de nabestaanden van de ambtenaar, bedoeld in [artikel 65a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65a).
 
 ##### Artikel 2. Aanvullend karakter
 

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 juli 2014, kenmerk 614538-122744-DMO, houdende aanpassing van de factoren, grondslagen en bedragen voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2014"
+citeertitel: "Regeling aanpassing factoren, grondslagen en bedragen voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2014"
 identifier: "BWBR0035348"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-07-19"
-last_updated: "2014-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035348"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12730993"
-version_id: "21547912"
-internal_id: "C30942061"
-label_id: "12700814"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035348/2014-07-19/0"
-intitule_bron: "Stcrt.2014-20246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-10"
-intitule_published: "2014-07-18"
-intitule_in_force: "2014-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-20246"
-original_signed_date: "2014-07-10"
-original_published_date: "2014-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-20246"
-entry_into_force_date: "2014-07-19"
-jci_1_3: "jci1.3:c:BWBR0035348&z=2014-07-19&g=2014-07-19"
-jci_1_0: "1.0:c:BWBR0035348&g=2014-07-19"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanpassing factoren, grondslagen en bedragen voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2014"
-signed_date: "2014-07-10"
-entry_into_force: "2014-07-19"
+publicatiedatum: 2014-07-19
+laatste_update: 2014-07-19
+status: geldig
+toestand: 2014-07-19
+bron: "https://wetten.overheid.nl/BWBR0035348"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 juli 2014, kenmerk 614538-122744-DMO, houdende aanpassing van de factoren, grondslagen en bedragen voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2014
-
-Gelet op de [artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31a), [28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28a), [35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=35), [18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=18) en [25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=25);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -48,10 +22,10 @@ De pensioenbedragen, bedoeld in [artikel 31b, eerste lid, onder a, van de Wet bu
 
 De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) en de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) wordt aangepast, worden met ingang van 1 juli 2014 vastgesteld als volgt:
 
-| A pensioengrondslagen 1947 per jaar in euro | A pensioengrondslagen 1947 per jaar in euro | B welvaartstoeslag vanaf 1 juli 2014 | B welvaartstoeslag vanaf 1 juli 2014 |
+| A pensioengrondslagen 1947 per jaar in euro | B welvaartstoeslag vanaf 1 juli 2014 |  |  |
 | --- | --- | --- | --- |
-| van | tot en met |   |   |
-| 1.225,21 | 1.356,79 | 24.702,96 minus pensioengrondslag | 24.702,96 minus pensioengrondslag |
+| van | tot en met |  |  |
+| 1.225,21 | 1.356,79 | 24.702,96 minus pensioengrondslag |  |
 | van | tot en met | pensioengrondslag maal factor | plus extra bedrag in euro |
 | 1.356,80 | 1.404,44 | 17,0710 | 194,00 |
 | 1.404,45 | 1.446,64 | 19,0979 | 194,00 |
@@ -109,7 +83,7 @@ De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van
 
 ##### Artikel 4
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
 
 ##### Artikel 5
 
@@ -117,7 +91,7 @@ De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet u
 
 ##### Artikel 6
 
-Wijzigt de de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
+*Wijzigt de de Wet uitkeringen vervolgingsslachtoffers 1940–1945.*
 
 ##### Artikel 7
 
@@ -125,10 +99,8 @@ De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negend
 
 ##### Artikel 8
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.*
 
 ##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2014.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

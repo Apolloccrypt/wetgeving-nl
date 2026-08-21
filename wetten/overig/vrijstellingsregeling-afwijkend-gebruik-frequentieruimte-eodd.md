@@ -1,58 +1,33 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 19 september 2014, nr. WJZ / 14122681, tot vrijstelling afwijkend gebruik frequentieruimte Explosieven Opruimingsdienst Defensie (Vrijstelling afwijkend gebruik frequentieruimte EODD)"
+citeertitel: "Vrijstellingsregeling afwijkend gebruik frequentieruimte EODD"
 identifier: "BWBR0035577"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-09-25"
-last_updated: "2014-09-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035577"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12803463"
-version_id: "21743412"
-internal_id: "C31206571"
-label_id: "12773194"
-dtd_version: "2.0"
-original_entry_into_force: "2014-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035577/2014-09-25/0"
-intitule_bron: "Stcrt.2014-27091"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-19"
-intitule_published: "2014-09-24"
-intitule_in_force: "2014-09-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-27091"
-original_signed_date: "2014-09-19"
-original_published_date: "2014-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-27091"
-entry_into_force_date: "2014-09-25"
-jci_1_3: "jci1.3:c:BWBR0035577&z=2014-09-25&g=2014-09-25"
-jci_1_0: "1.0:c:BWBR0035577&g=2014-09-25"
-citeertitel_status: "officieel"
-short_title: "Vrijstellingsregeling afwijkend gebruik frequentieruimte EODD"
-signed_date: "2014-09-19"
-entry_into_force: "2014-09-25"
+publicatiedatum: 2014-09-25
+laatste_update: 2014-09-25
+status: geldig
+toestand: 2014-09-25
+bron: "https://wetten.overheid.nl/BWBR0035577"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Economische Zaken van 19 september 2014, nr. WJZ / 14122681, tot vrijstelling afwijkend gebruik frequentieruimte Explosieven Opruimingsdienst Defensie (Vrijstelling afwijkend gebruik frequentieruimte EODD)
-
-Gelet op [artikel 3.22, tweede lid, Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.22);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **afwijkend gebruik van de frequentieruimte:** afwijkend gebruik van de frequentieruimte dat bestaat uit jammen, ter uitvoering van de aan de EODD opgedragen taak als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035577&artikel=2&z=2014-09-25&g=2014-09-25);
+- a. *afwijkend gebruik van de frequentieruimte:* afwijkend gebruik van de frequentieruimte dat bestaat uit jammen, ter uitvoering van de aan de EODD opgedragen taak als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035577&artikel=2&z=2014-09-25&g=2014-09-25);
 
-- b. **EODD:** Explosieven Opruimingsdienst Defensie, onderdeel van het Commando Landstrijdkrachten, onder verantwoordelijkheid van het Ministerie van Defensie;
+- b. *EODD:* Explosieven Opruimingsdienst Defensie, onderdeel van het Commando Landstrijdkrachten, onder verantwoordelijkheid van het Ministerie van Defensie;
 
-- c. **jammen:** het met daartoe geschikte apparatuur tijdelijk verstoren of onmogelijk maken van specifieke communicatie of een normaal gebruik van frequentieruimte in een bepaalde frequentieband in een bepaald geografisch gebied;
+- c. *jammen:* het met daartoe geschikte apparatuur tijdelijk verstoren of onmogelijk maken van specifieke communicatie of een normaal gebruik van frequentieruimte in een bepaalde frequentieband in een bepaald geografisch gebied;
 
-- d. **minister:** de Minister van Economische zaken;
+- d. *minister:* de Minister van Economische zaken;
 
-- e. **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
+- e. *wet:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
 ##### Artikel 2
 
@@ -105,5 +80,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Vrijstellingsregeling afwijkend gebruik frequentieruimte EODD.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

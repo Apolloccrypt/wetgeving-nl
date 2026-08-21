@@ -1,176 +1,152 @@
 ---
 title: "Wet van 19 november 2014 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (Reparatiewet BZK 2014)"
+citeertitel: "Reparatiewet BZK 2014"
 identifier: "BWBR0035826"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035826"
+categorie: "Staatsinrichting en bestuur"
 soort: "wet"
-stam_id: "12858743"
-version_id: "21845052"
-internal_id: "C31357231"
-label_id: "12828524"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035826/2015-01-01/0"
-intitule_bron: "Stb.2014-458"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-19"
-intitule_published: "2014-11-28"
-intitule_in_force: "2014-11-28"
-intitule_status: "goed"
-original_publication: "Stb.2014-458"
-original_signed_date: "2014-11-19"
-original_published_date: "2014-11-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "33951"
-original_url_id: "stb-2014-458"
-entry_into_force_date: "2014-11-29"
-entry_into_force_dossier: "33951"
-jci_1_3: "jci1.3:c:BWBR0035826&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0035826&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Reparatiewet BZK 2014"
-signed_date: "2014-11-19"
-entry_into_force: "2014-11-29"
+publicatiedatum: 2014-11-29
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0035826"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 19 november 2014 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (Reparatiewet BZK 2014)
 
-##### Artikel I. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel I. Algemene wet bestuursrecht
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-##### Artikel II. [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502)
+##### Artikel II. Algemene wet gelijke behandeling
 
-Wijzigt de Algemene wet gelijke behandeling.
+*Wijzigt de Algemene wet gelijke behandeling.*
 
-##### Artikel III. [Boek 7 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
+##### Artikel III. Boek 7 Burgerlijk Wetboek
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
-##### Artikel IIIa. [Evaluatie- en uitbreidingswet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0033159)
+##### Artikel IIIa. Evaluatie- en uitbreidingswet Bibob
 
-Wijzigt de Evaluatie- en uitbreidingswet Bibob.
+*Wijzigt de Evaluatie- en uitbreidingswet Bibob.*
 
-##### Artikel IV. [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
+##### Artikel IV. Gemeentewet
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
-##### Artikel IVa. [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303)
+##### Artikel IVa. Huisvestingswet 2014
 
-Wijzigt de Huisvestingswet 2014.
+*Wijzigt de Huisvestingswet 2014.*
 
-##### Artikel V. [Invoeringswet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023913)
+##### Artikel V. Invoeringswet ruimtelijke ordening
 
-Wijzigt de Invoeringswet Wet ruimtelijke ordening.
+*Wijzigt de Invoeringswet Wet ruimtelijke ordening.*
 
-##### Artikel VI. [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
+##### Artikel VI. Kieswet
 
-Wijzigt de Kieswet.
+*Wijzigt de Kieswet.*
 
-##### Artikel VII. [Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403)
+##### Artikel VII. Leegstandwet
 
-Wijzigt de Leegstandwet.
+*Wijzigt de Leegstandwet.*
 
-##### Artikel VIII. [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315)
+##### Artikel VIII. Uitvoeringswet huurprijzen woonruimte
 
-Wijzigt de Uitvoeringswet huurprijzen woonruimte.
+*Wijzigt de Uitvoeringswet huurprijzen woonruimte.*
 
 ##### Artikel IX. Nieuwe grondslag Regeling inkomensgrenzen inkomensafhankelijke huurverhoging 2014
 
 1. Na de inwerkingtreding van deze wet berust de Regeling inkomensgrenzen inkomensafhankelijke huurverhoging 2014 op [artikel 10, tweede lid, derde volzin, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10).
 
-2. Wijzigt het Besluit vermindering verhuurderheffing 2014.
+2. *Wijzigt het Besluit vermindering verhuurderheffing 2014.*
 
-##### Artikel X. [Tijdelijke experimentenwet stembiljetten en centrale opneming](https://wetten.overheid.nl/jci1.3:c:BWBR0033598)
+##### Artikel X. Tijdelijke experimentenwet stembiljetten en centrale opneming
 
-Wijzigt de Tijdelijke experimentenwet stembiljetten en centrale stemopneming.
+*Wijzigt de Tijdelijke experimentenwet stembiljetten en centrale stemopneming.*
 
-##### Artikel XI. [Uitvoeringswet EGTS-verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0026784)
+##### Artikel XI. Uitvoeringswet EGTS-verordening
 
-Wijzigt de Uitvoeringswet EGTS-verordening.
+*Wijzigt de Uitvoeringswet EGTS-verordening.*
 
-##### Artikel XII. [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
+##### Artikel XII. Waterschapswet
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
-##### Artikel XIIa. [Wet aanpassing waterschapsverkiezingen](https://wetten.overheid.nl/jci1.3:c:BWBR0034822)
+##### Artikel XIIa. Wet aanpassing waterschapsverkiezingen
 
-Wijzigt de Wet aanpassing waterschapsverkiezingen.
+*Wijzigt de Wet aanpassing waterschapsverkiezingen.*
 
-##### Artikel XIII. [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718)
+##### Artikel XIII. Wet algemene regels herindeling
 
-Wijzigt de Wet algemene regels herindeling.
+*Wijzigt de Wet algemene regels herindeling.*
 
-##### Artikel XIV. [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
+##### Artikel XIV. Wet basisregistratie personen
 
-Wijzigt de Wet basisregistratie personen.
+*Wijzigt de Wet basisregistratie personen.*
 
-##### Artikel XIVa. [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+##### Artikel XIVa. Wet bevordering integriteitsbeoordelingen door het openbaar bestuur
 
-Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
+*Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.*
 
-##### Artikel XV. [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151)
+##### Artikel XV. Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba
 
-Wijzigt de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.
+*Wijzigt de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
-##### Artikel XVI. [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004)
+##### Artikel XVI. Wet financiering politieke partijen
 
-Wijzigt de Wet financiering politieke partijen.
+*Wijzigt de Wet financiering politieke partijen.*
 
-##### Artikel XVIa. [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)
+##### Artikel XVIa. Wet gemeenschappelijke regelingen
 
-Wijzigt de Wet gemeenschappelijke regelingen.
+*Wijzigt de Wet gemeenschappelijke regelingen.*
 
-##### Artikel XVIb. [Wet van 9 juli 2014 tot wijziging van de wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0035457) (**Stb. 2014, 306**)
+##### Artikel XVIb. Wet van 9 juli 2014 tot wijziging van de wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen (Stb. 2014, 306)
 
-Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).
+*Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).*
 
-##### Artikel XVIc. [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)
+##### Artikel XVIc. Wet gemeenschappelijke regelingen
 
-Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).
+*Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).*
 
-##### Artikel XVId. [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)
+##### Artikel XVId. Wet gemeenschappelijke regelingen
 
-Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).
+*Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).*
 
-##### Artikel XVIe. [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
+##### Artikel XVIe. Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector
 
-Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.
+*Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.*
 
-##### Artikel XVII. [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825)
+##### Artikel XVII. Wet op de parlementaire enquête 2008
 
-Wijzigt de Wet op de parlementaire enquête 2008.
+*Wijzigt de Wet op de parlementaire enquête 2008.*
 
-##### Artikel XVIII. [Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367)
+##### Artikel XVIII. Wet op de Raad van State
 
-Wijzigt de Wet op de Raad van State.
+*Wijzigt de Wet op de Raad van State.*
 
 ##### Artikel XVIIIa. Wet van 9 april 2014 tot wijziging van de wet bijzondere maatregelen grootstedelijke problematiek en de huisvestingswet naar aanleiding van de evaluatie van de wet bijzondere maatregelen grootstedelijke probelematiek (wet uitbreiding wet bijzondere maatregelen grootstedelijke problematiek) (Stb. 2014, 152)
 
-Wijzigt de Huisvestingswet 2014.
+*Wijzigt de Huisvestingswet 2014.*
 
-##### Artikel XIX. [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844)
+##### Artikel XIX. Wet uitkeringen vervolgingsslachtoffers 1940–1945
 
-Wet uitkeringen vervolgingsslachtoffers 1940-1945.
+*Wet uitkeringen vervolgingsslachtoffers 1940-1945.*
 
 ##### Artikel XX. Wet van 25 juni 2009 tot wijziging van diverse wetten op de beleidsterreinen van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-Wijzigt de Wet van 25 juni 2009 tot wijziging van diverse wetten op de beleidsterreinen van het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+*Wijzigt de Wet van 25 juni 2009 tot wijziging van diverse wetten op de beleidsterreinen van het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.*
 
 ##### Artikel XXI. Wetsvoorstel afschaffing plusregio’s
 
-Wijzigt de Huisvestingswet 2014.
+*Wijzigt de Huisvestingswet 2014.*
 
 ##### Artikel XXII. Wetsvoorstel raadgevend referendum
 
-Wijzigt de Wet raadgevend referendum.
+*Wijzigt de Wet raadgevend referendum.*
 
-##### Artikel XXIII. [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
+##### Artikel XXIII. Woningwet
 
-Wijzigt de Woningwet.
+*Wijzigt de Woningwet.*
 
 ##### Artikel XXIV. Slotbepalingen
 
@@ -197,11 +173,3 @@ Wijzigt de Woningwet.
 ##### Artikel XXV
 
 Deze wet wordt aangehaald als: Reparatiewet BZK 2014.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in een aantal wettelijke bepalingen op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties enkele wetstechnische gebreken te herstellen alsmede daarin andere wijzigingen van ondergeschikte aard aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

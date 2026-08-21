@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 juni 2014, houdende nadere regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenbesluit)"
+citeertitel: "Veteranenbesluit"
 identifier: "BWBR0035237"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-07-28"
-last_updated: "2018-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035237"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12700843"
-version_id: "21476582"
-internal_id: "C30840961"
-label_id: "12671254"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035237/2018-07-28/0"
-intitule_bron: "Stb.2014-221"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-06-19"
-intitule_published: "2014-06-25"
-intitule_in_force: "2014-06-25"
-intitule_status: "goed"
-original_publication: "Stb.2014-221"
-original_signed_date: "2014-06-19"
-original_published_date: "2014-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-221"
-entry_into_force_date: "2014-06-28"
-jci_1_3: "jci1.3:c:BWBR0035237&z=2018-07-28&g=2018-07-28"
-jci_1_0: "1.0:c:BWBR0035237&g=2018-07-28"
-citeertitel_status: "officieel"
-short_title: "Veteranenbesluit"
-signed_date: "2014-06-19"
-entry_into_force: "2014-06-28"
+publicatiedatum: 2014-06-28
+laatste_update: 2018-07-28
+status: geldig
+toestand: 2018-07-28
+bron: "https://wetten.overheid.nl/BWBR0035237"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 19 juni 2014, houdende nadere regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenbesluit)
-
-Op de voordracht van onze Minister van Defensie, van 12 maart 2014 gedaan mede namens onze Ministers van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=2) en [7 tot en met 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=7) en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12h van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12h);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 7 mei 2014, No.W07.14.0070/II);
-
-Gezien het nader rapport van onze Minister van Defensie, van 5 juni 2014, nr. BS/2014007292, uitgebracht mede namens onze Ministers van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Erkenning en waardering voor veteranen
 
@@ -128,7 +96,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 2. De Commandant der Strijdkrachten draagt er zorg voor dat in geval van calamiteiten de relaties van de militair gerichte informatievoorziening en ondersteuning ontvangen.
 
-3. Indien noodzakelijk kunnen de relaties van de militair via het veteranenloket, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2018-07-28&g=2018-07-28) contact opnemen met een bedrijfsmaatschappelijk werker. Voor acute of ernstige situaties is via dit veteranenloket een hulpverleningslijn doorlopend bereikbaar.
+3. Indien noodzakelijk kunnen de relaties van de militair via het veteranenloket, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2018-07-28&g=2018-07-28) contact opnemen met een bedrijfsmaatschappelijk werker. Voor acute of ernstige situaties is via dit veteranenloket een hulpverleningslijn doorlopend bereikbaar.
 
 4. In geval van ernstige incidenten in het uitzendgebied wordt de relaties van de militair zorg geboden waarbij
 
@@ -218,9 +186,9 @@ De veteraan en zijn relaties krijgen de noodzakelijke maatschappelijke ondersteu
 
 ##### Artikel 16. Wetenschappelijk onderzoek
 
-1. Onze minister bevordert het onderzoek, bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10) onder meer door het ter beschikking stellen van fondsen voor het wetenschappelijk onderzoek, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2018-07-28&g=2018-07-28) van dit besluit en door het verlenen van subsidie aan de Stichting het Veteraneninstituut.
+1. Onze minister bevordert het onderzoek, bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10) onder meer door het ter beschikking stellen van fondsen voor het wetenschappelijk onderzoek, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2018-07-28&g=2018-07-28) van dit besluit en door het verlenen van subsidie aan de Stichting het Veteraneninstituut.
 
-2. Onze minister rapporteert jaarlijks aan de Staten-Generaal over de uitkomsten van wetenschappelijk onderzoek als bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10).
+2. Onze minister rapporteert jaarlijks aan de Staten-Generaal over de uitkomsten van wetenschappelijk onderzoek als bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10).
 
 ##### Artikel 17. Taken Raad van Toezicht en advisering
 
@@ -242,19 +210,19 @@ Hoofdstuk 4 is van overeenkomstige toepassing op militaire dienstslachtoffers vo
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- **arbeidsongeschiktheid:** arbeidsongeschiktheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=4) dan wel [artikel 5 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5), dan wel [artikel 18, eerste lid van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18);
+- *arbeidsongeschiktheid:* arbeidsongeschiktheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=4) dan wel [artikel 5 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5), dan wel [artikel 18, eerste lid van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18);
 
-- **belanghebbende:** een gewezen militair als bedoeld in [artikel 1, onder c, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1) die de leeftijd als bedoeld in [artikel 7 van de Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) nog niet heeft bereikt;
+- *belanghebbende:* een gewezen militair als bedoeld in [artikel 1, onder c, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1) die de leeftijd als bedoeld in [artikel 7 van de Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) nog niet heeft bereikt;
 
-- **berekeningsgrondslag van de inkomensvoorziening:** het bedrag van de inkomsten die de veteraan in het jaar voorafgaande aan zijn aanmelding bij het loket als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2018-07-28&g=2018-07-28) van dit Besluit, gebruikelijk zou hebben kunnen genieten indien hij niet ziek dan wel arbeidsongeschikt zou zijn, en dat niet minder bedraagt dan het in [artikel 7 vierde lid van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=7) genoemde bedrag verhoogd met 8% vakantietoeslag;
+- *berekeningsgrondslag van de inkomensvoorziening:* het bedrag van de inkomsten die de veteraan in het jaar voorafgaande aan zijn aanmelding bij het loket als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2018-07-28&g=2018-07-28) van dit Besluit, gebruikelijk zou hebben kunnen genieten indien hij niet ziek dan wel arbeidsongeschikt zou zijn, en dat niet minder bedraagt dan het in [artikel 7 vierde lid van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=7) genoemde bedrag verhoogd met 8% vakantietoeslag;
 
-- **medische eindtoestand:** de medische eindtoestand als bedoeld in de regeling van onze minister vastgesteld op basis van [artikel 2, zesde lid van de Kaderwet Militaire Pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2);
+- *medische eindtoestand:* de medische eindtoestand als bedoeld in de regeling van onze minister vastgesteld op basis van [artikel 2, zesde lid van de Kaderwet Militaire Pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2);
 
-- **sociale zekerheidswetgeving:** de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Algemene wet bijzondere ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), dan wel een (inkomens-)voorziening die naar aard en strekking overeenkomt met de hiervoor genoemde wetten;
+- *sociale zekerheidswetgeving:* de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Algemene wet bijzondere ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), dan wel een (inkomens-)voorziening die naar aard en strekking overeenkomt met de hiervoor genoemde wetten;
 
-- **vermoeden van verband met de dienst:** een redelijk en objectiveerbaar vermoeden dat de ziekte dan wel arbeidsongeschiktheid is veroorzaakt door de uitoefening van de militaire dienst als gevolg van de inzet als bedoeld in [artikel 1, onder d, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401);
+- *vermoeden van verband met de dienst:* een redelijk en objectiveerbaar vermoeden dat de ziekte dan wel arbeidsongeschiktheid is veroorzaakt door de uitoefening van de militaire dienst als gevolg van de inzet als bedoeld in [artikel 1, onder d, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401);
 
-- **ziekte:** ziekte als bedoeld in [artikel 19, eerste lid van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
+- *ziekte:* ziekte als bedoeld in [artikel 19, eerste lid van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
 
 #### Paragraaf 2. Recht op Inkomensvoorziening
 
@@ -270,11 +238,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De duur van de inkomensvoorziening bedraagt twee jaar, gerekend vanaf de datum van toekenning.
 
-6. De inkomensvoorziening wordt beëindigd indien is komen vast te staan dat geen sprake is van een ziekte dan wel arbeidsongeschiktheid die is veroorzaakt door de uitoefening van de militaire dienst als gevolg van de inzet als bedoeld in [artikel 1, onder d, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1) of wanneer het re-integratietraject is afgerond. De tot op de datum van deze vaststelling genoten inkomensvoorziening wordt niet teruggevorderd.
+6. De inkomensvoorziening wordt beëindigd indien is komen vast te staan dat geen sprake is van een ziekte dan wel arbeidsongeschiktheid die is veroorzaakt door de uitoefening van de militaire dienst als gevolg van de inzet als bedoeld in [artikel 1, onder d, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1) of wanneer het re-integratietraject is afgerond. De tot op de datum van deze vaststelling genoten inkomensvoorziening wordt niet teruggevorderd.
 
 7. De inkomensvoorziening wordt beëindigd wanneer door of namens Onze minister is vastgesteld dat de medische eindtoestand van belanghebbende is bereikt.
 
-8. In afwijking van het vijfde lid en het zevende lid wordt de duur van de inkomensvoorziening met ten hoogste 12 maanden verlengd als het re-integratietraject nog niet is afgerond.
+8. In afwijking van het vijfde lid en het zevende lid wordt de duur van de inkomensvoorziening met ten hoogste 12 maanden verlengd als het re-integratietraject nog niet is afgerond.
 
 9. In afwijking van het vijfde lid wordt de inkomensvoorziening verlengd als er nog geen sprake is van een medische eindtoestand.
 
@@ -282,7 +250,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 21. Verrekening
 
-Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd, geweigerd of in duur beperkt als gevolg van verwijtbaar handelen van de belanghebbende wordt voor de toepassing van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=2&artikel=20&z=2018-07-28&g=2018-07-28), de uitkering geacht steeds onverminderd te zijn genoten.
+Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd, geweigerd of in duur beperkt als gevolg van verwijtbaar handelen van de belanghebbende wordt voor de toepassing van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=2&artikel=20&z=2018-07-28&g=2018-07-28), de uitkering geacht steeds onverminderd te zijn genoten.
 
 #### Paragraaf 3. Verplichtingen gedurende de duur van de inkomensvoorziening
 
@@ -292,7 +260,7 @@ Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd,
 
 2. De belanghebbende die een aanvraag voor een inkomensvoorziening heeft ingediend of een inkomensvoorziening geniet is verplicht:
 
-- a. te voldoen aan elke oproep om aanwezig te zijn op een door onze minister te bepalen plaats voor de beantwoording van vragen als bedoeld in onderdeel b, het meewerken aan een onderzoek als bedoeld in onderdeel c of het naleven van de controlevoorschriften bedoeld in onderdeel d;
+- a. te voldoen aan elke oproep om aanwezig te zijn op een door onze minister te bepalen plaats voor de beantwoording van vragen als bedoeld in onderdeel b, het meewerken aan een onderzoek als bedoeld in onderdeel c of het naleven van de controlevoorschriften bedoeld in onderdeel d;
 
 - b. vragen te beantwoorden die door onze minister in verband met het recht op een inkomensvoorziening worden gesteld;
 
@@ -300,7 +268,7 @@ Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd,
 
 - d. tot naleving van de door onze minister vastgestelde controlevoorschriften die noodzakelijk zijn voor een juiste uitvoering van de inkomensvoorziening;
 
-- e. op verzoek onverwijld inzage te geven in een op hem betrekking hebbend document als bedoeld in [artikel 1, eerste lid, onder 1 tot en met 3 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
+- e. op verzoek onverwijld inzage te geven in een op hem betrekking hebbend document als bedoeld in [artikel 1, eerste lid, onder 1 tot en met 3 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
 
 - f. een naar algemeen medische maatstaven adequate behandeling te ondergaan voor zijn ziekte of arbeidsongeschiktheid;
 
@@ -392,7 +360,7 @@ In het veteranenregistratiesysteem worden slechts de volgende gegevens betreffen
 
 ##### Artikel 29. Bescherming privacy
 
-1. Onze Minister houdt aantekening van verstrekking van gegevens overeenkomstig het bepaalde in [artikel 27, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-07-28).
+1. Onze Minister houdt aantekening van verstrekking van gegevens overeenkomstig het bepaalde in [artikel 27, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-07-28).
 
 2. Aan het verwerken van gegevens kunnen nadere voorwaarden worden verbonden ter naleving van de Algemene verordening gegevensbescherming en dit besluit.
 
@@ -400,21 +368,21 @@ In het veteranenregistratiesysteem worden slechts de volgende gegevens betreffen
 
 1. In het veteranenregistratiesysteem opgenomen persoonsgegevens worden slechts verstrekt:
 
-- a. aan personen en instanties die belast zijn met of leiding geven aan de in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-07-28), bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
+- a. aan personen en instanties die belast zijn met of leiding geven aan de in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-07-28), bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
 - b. ingevolge een wettelijke verplichting.
 
-2. In afwijking van het eerste lid kan verstrekking van gegevens, bedoeld in [artikel 27, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-07-28), geschieden aan andere personen en instanties in geval van dringende en gewichtige redenen en indien de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad. Verstrekking vindt slechts plaats na toestemming van de Hoofddirecteur Personeel van het ministerie van Defensie.
+2. In afwijking van het eerste lid kan verstrekking van gegevens, bedoeld in [artikel 27, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-07-28), geschieden aan andere personen en instanties in geval van dringende en gewichtige redenen en indien de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad. Verstrekking vindt slechts plaats na toestemming van de Hoofddirecteur Personeel van het ministerie van Defensie.
 
 ### Hoofdstuk 7. Wijziging andere regelingen
 
-##### Artikel 31. Intrekking [Regeling veteranenregistratie Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0019956)
+##### Artikel 31. Intrekking Regeling veteranenregistratie Defensie
 
 De [Regeling veteranenregistratie Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0019956) nr.: C/2006019485 d.d. 13 juni 2006 wordt ingetrokken.
 
 ##### Artikel 32. Wijziging van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen
 
-Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen.
+*Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen.*
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -422,16 +390,14 @@ Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzien
 
 Onze Minister kan termijnen, bedragen en percentages, genoemd in dit besluit buiten toepassing laten of daarvan afwijken indien toepassing gelet op het belang van een goede zorgverlening aan de veteraan of zijn relaties zal leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 34. Inwerkingtreden [Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401)
+##### Artikel 34. Inwerkingtreden Veteranenwet
 
-De [Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401) treedt in werking op 28 juni 2014.
+De [Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401) treedt in werking op 28 juni 2014.
 
 ##### Artikel 35. Inwerkingtreden
 
-Dit besluit treedt in werking op 28 juni 2014.
+Dit besluit treedt in werking op 28 juni 2014.
 
 ##### Artikel 36. Citeertitel
 
 Dit besluit wordt aangehaald als: Veteranenbesluit
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst,

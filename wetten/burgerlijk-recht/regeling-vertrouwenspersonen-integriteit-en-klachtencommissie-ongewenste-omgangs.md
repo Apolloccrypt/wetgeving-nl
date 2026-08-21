@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2014, nr. 2014-0000261552, inzake de vertrouwenspersonen integriteit en de klachtencommissie ongewenste omgangsvormen rijksambtenaren in Caribisch Nederland (Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen rijksambtenaren BES)"
+citeertitel: "Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen Rijksambtenaren BES"
 identifier: "BWBR0035123"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-05-23"
-last_updated: "2014-05-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035123"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "12673783"
-version_id: "21411442"
-internal_id: "C30741121"
-label_id: "12644004"
-dtd_version: "2.0"
-original_entry_into_force: "2014-05-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035123/2014-05-23/0"
-intitule_bron: "Stcrt.2014-14137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-05-15"
-intitule_published: "2014-05-22"
-intitule_in_force: "2014-05-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-14137"
-original_signed_date: "2014-05-15"
-original_published_date: "2014-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-14137"
-entry_into_force_date: "2014-05-23"
-jci_1_3: "jci1.3:c:BWBR0035123&z=2014-05-23&g=2014-05-23"
-jci_1_0: "1.0:c:BWBR0035123&g=2014-05-23"
-citeertitel_status: "officieel"
-short_title: "Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen Rijksambtenaren BES"
-signed_date: "2014-05-15"
-entry_into_force: "2014-05-23"
+publicatiedatum: 2014-05-23
+laatste_update: 2014-05-23
+status: geldig
+toestand: 2014-05-23
+bron: "https://wetten.overheid.nl/BWBR0035123"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2014, nr. 2014-0000261552, inzake de vertrouwenspersonen integriteit en de klachtencommissie ongewenste omgangsvormen rijksambtenaren in Caribisch Nederland (Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen rijksambtenaren BES)
-
-Gelet op [artikel 77, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=77) en [artikel 9:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,29 +20,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **misstand:**
+- b. *misstand:*
 
-- 1°. schending van wettelijke voorschriften of beleidsregels;
+   - 1°. schending van wettelijke voorschriften of beleidsregels;
 
-- 2°. gevaar voor de gezondheid, de veiligheid of het milieu;
+   - 2°. gevaar voor de gezondheid, de veiligheid of het milieu;
 
-- 3°. onbehoorlijke wijze van handelen of nalaten, die een gevaar vormt voor het goed functioneren van de openbare dienst.
+   - 3°. onbehoorlijke wijze van handelen of nalaten, die een gevaar vormt voor het goed functioneren van de openbare dienst.
 
-- c. **ongewenste omgangsvormen:** ongewenst gedrag in onderlinge verhoudingen en contacten in de arbeidssituatie, waaronder discriminatie, seksuele en andere vormen van intimidatie, fysiek geweld, verbale agressie en pesten;
+- c. *ongewenste omgangsvormen:* ongewenst gedrag in onderlinge verhoudingen en contacten in de arbeidssituatie, waaronder discriminatie, seksuele en andere vormen van intimidatie, fysiek geweld, verbale agressie en pesten;
 
-- d. **intern onderzoek:** onderzoek binnen de Rijksdienst Caribisch Nederland bij een vermoeden van plichtsverzuim als bedoeld in [artikel 78, eerste en tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=78);
+- d. *intern onderzoek:* onderzoek binnen de Rijksdienst Caribisch Nederland bij een vermoeden van plichtsverzuim als bedoeld in [artikel 78, eerste en tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=78);
 
-- e. **klacht:** een schriftelijke klacht over ongewenste omgangsvormen;
+- e. *klacht:* een schriftelijke klacht over ongewenste omgangsvormen;
 
-- f. **vertrouwenspersoon:** de vertrouwenspersoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035123&paragraaf=1&artikel=2&z=2014-05-23&g=2014-05-23);
+- f. *vertrouwenspersoon:* de vertrouwenspersoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035123&paragraaf=1&artikel=2&z=2014-05-23&g=2014-05-23);
 
-- g. **klachtencommissie:** de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035123&paragraaf=2&artikel=5&z=2014-05-23&g=2014-05-23);
+- g. *klachtencommissie:* de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035123&paragraaf=2&artikel=5&z=2014-05-23&g=2014-05-23);
 
-- h. **melder:** de ambtenaar of de gewezen ambtenaar die zich in verband met een vermoeden van een misstand, in verband met ongewenste omgangsvormen of in verband met een jegens hem ingesteld intern onderzoek tot de vertrouwenspersoon heeft gewend;
+- h. *melder:* de ambtenaar of de gewezen ambtenaar die zich in verband met een vermoeden van een misstand, in verband met ongewenste omgangsvormen of in verband met een jegens hem ingesteld intern onderzoek tot de vertrouwenspersoon heeft gewend;
 
-- i. **klager:** de ambtenaar die een klacht heeft ingediend bij de klachtencommissie.
+- i. *klager:* de ambtenaar die een klacht heeft ingediend bij de klachtencommissie.
 
 ##### Artikel 2
 
@@ -213,5 +187,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen Rijksambtenaren BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

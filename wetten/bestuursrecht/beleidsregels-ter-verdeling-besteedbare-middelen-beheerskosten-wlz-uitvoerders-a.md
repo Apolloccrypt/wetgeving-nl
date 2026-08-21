@@ -1,41 +1,18 @@
 ---
 title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2014"
+citeertitel: "Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders AWBZ 2014"
 identifier: "BWBR0034833"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-04-11"
-last_updated: "2015-04-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034833"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12582513"
-version_id: "21236342"
-internal_id: "C30497541"
-label_id: "12553064"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034833/2015-04-11/0"
-intitule_bron: "Stcrt.2014-4864"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-02-18"
-intitule_in_force: "2014-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-4864"
-original_published_date: "2014-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-4864"
-entry_into_force_date: "2014-02-20"
-jci_1_3: "jci1.3:c:BWBR0034833&z=2015-04-11&g=2015-04-11"
-jci_1_0: "1.0:c:BWBR0034833&g=2015-04-11"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders AWBZ 2014"
-entry_into_force: "2014-02-20"
+publicatiedatum: 2014-02-20
+laatste_update: 2015-04-11
+status: geldig
+toestand: 2015-04-11
+bron: "https://wetten.overheid.nl/BWBR0034833"
+opgehaald: 2026-08-21
 ---
+
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2014
-
-gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.4 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) en de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034697),
-
-heeft in zijn vergadering van 20 januari 2014 besloten:
 
 #### § 1. Algemeen
 
@@ -43,13 +20,13 @@ heeft in zijn vergadering van 20 januari 2014 besloten:
 
 Dit besluit verstaat onder:
 
-- a. **zorgverzekeraar:** een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1);
+- a. *zorgverzekeraar:* een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1);
 
-- b. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1);
+- b. *verbindingskantoor:* een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1);
 
-- c. **zorgkantoor:** een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van zorgkantoren;
+- c. *zorgkantoor:* een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van zorgkantoren;
 
-- d. **Wlz-uitvoerder:** rechtspersoon als bedoeld in [artikel 1.1.1 Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1).
+- d. *Wlz-uitvoerder:* rechtspersoon als bedoeld in [artikel 1.1.1 Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1).
 
 ##### Artikel 2
 
@@ -70,6 +47,10 @@ Zorginstituut Nederland verdeelt het in de [Aanwijzing](https://wetten.overheid.
 - a. een derde deel van het bedrag verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
 - b. twee derde deel van het bedrag verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614). Daarbij tellen verzekerden, die op 1 juli 2013 vijfenzestig jaar of ouder zijn, dubbel.
+
+##### Artikel 4a
+
+Een bedrag van 390.000 euro wordt verdeeld tussen ASR Wlz-uitvoerder B.V. en ONVZ Langdurige Zorg B.V. op basis van de door beide partijen ingediende kosten.
 
 ##### Artikel 5
 
@@ -93,24 +74,6 @@ Uiterlijk in 2016 stelt Zorginstituut Nederland de beheerskostenbudgetten AWBZ 2
 
 - b. twee derde deel van het bedrag verdeelt Zorginstituut Nederland over de Wlz-uitvoerders op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de Wlz. Daarbij tellen verzekerden die op 1 juli 2014 vijfenzestig jaar en ouder zijn dubbel.
 
-#### § 4. Slot
-
-##### Artikel 9
-
-Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze worden geplaatst, en werken terug tot en met 1 januari 2014.
-
-##### Artikel 10
-
-Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders AWBZ 2014.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Een bedrag van 390.000 euro wordt verdeeld tussen ASR Wlz-uitvoerder B.V. en ONVZ Langdurige Zorg B.V. op basis van de door beide partijen ingediende kosten.
-
-#### § 3. Definitieve vaststelling beheerskostenbudget 2014
-
 ##### Artikel 8a
 
 Ter vaststelling van de beheerskostenbudgetten per Wlz-uitvoerder sommeert Zorginstituut Nederland per Wlz-uitvoerder de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=3&artikel=8&z=2015-04-11&g=2015-04-11) berekende bedragen. Zorginstituut Nederland rondt de beheerskostenbudgetten af op hele euro’s, waarbij Zorginstituut Nederland bedragen van een halve euro of hoger afrondt naar boven en overige bedragen naar beneden.
@@ -121,4 +84,10 @@ Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 8, onderdeel a 
 
 #### § 4. Slot
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 9
+
+Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze worden geplaatst, en werken terug tot en met 1 januari 2014.
+
+##### Artikel 10
+
+Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders AWBZ 2014.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 2 juli 2014, houdende regels omtrent meeteenheden en meetinstrumenten voor Bonaire, Sint Eustatius en Saba (IJkwet BES 2014)"
+citeertitel: "IJkwet BES 2014"
 identifier: "BWBR0035310"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035310"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "12723093"
-version_id: "21531052"
-internal_id: "C33539421"
-label_id: "12693244"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035310/2019-01-01/0"
-intitule_bron: "Stb.2014-262"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-02"
-intitule_published: "2014-07-15"
-intitule_in_force: "2016-05-26"
-intitule_status: "goed"
-original_publication: "Stb.2014-262"
-original_signed_date: "2014-07-02"
-original_published_date: "2014-07-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "33884"
-original_url_id: "stb-2014-262"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0035310&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0035310&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "IJkwet BES 2014"
-signed_date: "2014-07-02"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0035310"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 2 juli 2014, houdende regels omtrent meeteenheden en meetinstrumenten voor Bonaire, Sint Eustatius en Saba (IJkwet BES 2014)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de regels met betrekking tot meeteenheden en meetinstrumenten op een aan de eisen van deze tijd aangepaste en overzichtelijke wijze vast te stellen voor Bonaire, Sint Eustatius en Saba.
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,17 +20,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- a. *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- b. **meetinstrument:** apparaat of systeem met een meetfunctie;
+- b. *meetinstrument:* apparaat of systeem met een meetfunctie;
 
-- c. **ijk:** keuring van een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) door de bevoegde instantie aan de bij of krachtens artikel 3 gestelde eisen;
+- c. *ijk:* keuring van een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) door de bevoegde instantie aan de bij of krachtens artikel 3 gestelde eisen;
 
-- d. **herijk:** herhaalde keuring van een in gebruik genomen meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) door de bevoegde instantie aan de bij of krachtens artikel 3 gestelde eisen;
+- d. *herijk:* herhaalde keuring van een in gebruik genomen meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) door de bevoegde instantie aan de bij of krachtens artikel 3 gestelde eisen;
 
-- e. **in gebruik nemen:** eerste gebruik van een voor een eindgebruiker bestemd meetinstrument voor het doel waarvoor het is bestemd;
+- e. *in gebruik nemen:* eerste gebruik van een voor een eindgebruiker bestemd meetinstrument voor het doel waarvoor het is bestemd;
 
-- f. **bevoegde instantie:** op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=5&artikel=11&z=2019-01-01&g=2019-01-01) aangewezen instantie.
+- f. *bevoegde instantie:* op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=5&artikel=11&z=2019-01-01&g=2019-01-01) aangewezen instantie.
 
 ### Hoofdstuk 2. Meeteenheden en standaarden
 
@@ -233,11 +204,11 @@ De [IJkwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028247) wordt ingetrokk
 
 ##### Artikel 20
 
-Wijzigt de Warenwet BES.
+*Wijzigt de Warenwet BES.*
 
 ##### Artikel 21
 
-Wijzigt het Wetboek van Strafrecht BES.
+*Wijzigt het Wetboek van Strafrecht BES.*
 
 ### Hoofdstuk 9. Slotbepalingen
 
@@ -248,5 +219,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 23
 
 Deze wet wordt aangehaald als: IJkwet BES 2014.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

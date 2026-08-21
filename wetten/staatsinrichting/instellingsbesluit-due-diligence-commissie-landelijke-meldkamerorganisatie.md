@@ -1,43 +1,18 @@
 ---
 title: "Instellingsbesluit Due Dilligence Commissie Landelijke Meldkamerorganisatie"
+citeertitel: "Instellingsbesluit Due Diligence Commissie Landelijke Meldkamerorganisatie"
 identifier: "BWBR0035384"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-07-27"
-last_updated: "2014-07-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035384"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12740883"
-version_id: "21565262"
-internal_id: "C30968231"
-label_id: "12710804"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035384/2014-07-27/0"
-intitule_bron: "Stcrt.2014-21084"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-07-25"
-intitule_in_force: "2014-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-21084"
-original_published_date: "2014-07-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-21084"
-entry_into_force_date: "2014-07-27"
-jci_1_3: "jci1.3:c:BWBR0035384&z=2014-07-27&g=2014-07-27"
-jci_1_0: "1.0:c:BWBR0035384&g=2014-07-27"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Due Diligence Commissie Landelijke Meldkamerorganisatie"
-entry_into_force: "2014-07-27"
+publicatiedatum: 2014-07-27
+laatste_update: 2014-07-27
+status: geldig
+toestand: 2014-07-27
+bron: "https://wetten.overheid.nl/BWBR0035384"
+opgehaald: 2026-08-21
 ---
+
 # Instellingsbesluit Due Dilligence Commissie Landelijke Meldkamerorganisatie
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Gehoord de minister van Defensie, de minister van Volksgezondheid, Welzijn en Sport en de voorzitters van de veiligheidsregio’s;
-
-Besluit:
 
 #### Paragraaf 1. Algemeen
 
@@ -45,11 +20,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **de minister:** de minister van Veiligheid en Justitie;
+- *de minister:* de minister van Veiligheid en Justitie;
 
-- **ministerie:** het ministerie van Veiligheid en Justitie;
+- *ministerie:* het ministerie van Veiligheid en Justitie;
 
-- **commissie:** de due dilligence commissie.
+- *commissie:* de due dilligence commissie.
 
 #### Paragraaf 2. Taken en werkwijze
 
@@ -142,5 +117,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Due Diligence Commissie Landelijke Meldkamerorganisatie.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

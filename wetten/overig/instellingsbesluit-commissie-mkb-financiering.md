@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 3 december 2014, nr. WJZ/14169472, tot instelling van de Commissie MKB-financiering (Instellingsbesluit Commissie MKB-Financiering)"
+citeertitel: "Instellingsbesluit Commissie MKB-Financiering"
 identifier: "BWBR0035879"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-09"
-last_updated: "2014-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035879"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12871183"
-version_id: "21871002"
-internal_id: "C31390381"
-label_id: "12840654"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035879/2014-12-09/0"
-intitule_bron: "Stcrt.2014-35656"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-03"
-intitule_published: "2014-12-08"
-intitule_in_force: "2014-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-35656"
-original_signed_date: "2014-12-03"
-original_published_date: "2014-12-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-35656"
-entry_into_force_date: "2014-12-09"
-jci_1_3: "jci1.3:c:BWBR0035879&z=2014-12-09&g=2014-12-09"
-jci_1_0: "1.0:c:BWBR0035879&g=2014-12-09"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie MKB-Financiering"
-signed_date: "2014-12-03"
-entry_into_force: "2014-12-09"
+publicatiedatum: 2014-12-09
+laatste_update: 2014-12-09
+status: geldig
+toestand: 2014-12-09
+bron: "https://wetten.overheid.nl/BWBR0035879"
+opgehaald: 2026-08-21
 ---
-# Besluit van de Minister van Economische Zaken van 3 december 2014, nr. WJZ/14169472, tot instelling van de Commissie MKB-financiering (Instellingsbesluit Commissie MKB-Financiering)
 
-Besluit:
+# Besluit van de Minister van Economische Zaken van 3 december 2014, nr. WJZ/14169472, tot instelling van de Commissie MKB-financiering (Instellingsbesluit Commissie MKB-Financiering)
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. *de minister:* de Minister van Economische Zaken;
 
-- b. **Commissie:** de Commissie MKB-Financiering.
+- b. *Commissie:* de Commissie MKB-Financiering.
 
 ##### Artikel 2
 
@@ -111,5 +87,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie MKB-Financiering.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

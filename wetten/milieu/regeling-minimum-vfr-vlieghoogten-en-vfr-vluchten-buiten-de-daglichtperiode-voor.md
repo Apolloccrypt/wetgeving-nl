@@ -1,45 +1,17 @@
 ---
 title: "Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters"
 identifier: "BWBR0035356"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-12"
-last_updated: "2014-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035356"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12733213"
-version_id: "21552812"
-internal_id: "C30950921"
-label_id: "12703184"
-dtd_version: "2.0"
-original_entry_into_force: "2014-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035356/2014-12-12/0"
-intitule_bron: "Stcrt.2014-20286"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-09"
-intitule_published: "2014-07-18"
-intitule_in_force: "2014-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-20286"
-original_signed_date: "2014-07-09"
-original_published_date: "2014-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-20286"
-entry_into_force_date: "2014-08-01"
-jci_1_3: "jci1.3:c:BWBR0035356&z=2014-12-12&g=2014-12-12"
-jci_1_0: "1.0:c:BWBR0035356&g=2014-12-12"
-citeertitel_status: "officieel"
-signed_date: "2014-07-09"
-entry_into_force: "2014-08-01"
+publicatiedatum: 2014-08-01
+laatste_update: 2014-12-12
+status: geldig
+toestand: 2014-12-12
+bron: "https://wetten.overheid.nl/BWBR0035356"
+opgehaald: 2026-08-21
 ---
+
 # Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
-
-Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Gelet op de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=45) en [56 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=56);
-
-Besluit:
 
 #### Paragraaf 1. Minimum VFR-vlieghoogte
 
@@ -177,25 +149,25 @@ Aan de gezagvoerders van militaire vliegtuigen en helikopters, behorende tot of 
 
 - a. binnen plaatselijke luchtverkeersleidingsgebieden van militaire luchthavens:
 
-- 1°. het vliegzicht is gelijk aan of groter dan 3 kilometer; voor vluchten die zich beperken tot het luchtverkeerscircuit, is het vliegzicht gelijk aan of groter dan 2 kilometer;
+   - 1°. het vliegzicht is gelijk aan of groter dan 3 kilometer; voor vluchten die zich beperken tot het luchtverkeerscircuit, is het vliegzicht gelijk aan of groter dan 2 kilometer;
 
-- 2°. de wolkenbasis bevindt zich op ten minste 300 meter (1.000 voet) respectievelijk voor vluchten in het luchtverkeerscircuit op ten minste 250 meter (800 voet);
+   - 2°. de wolkenbasis bevindt zich op ten minste 300 meter (1.000 voet) respectievelijk voor vluchten in het luchtverkeerscircuit op ten minste 250 meter (800 voet);
 
-- 3°. de helikopter is vrij van wolken met zicht op grond of water;
+   - 3°. de helikopter is vrij van wolken met zicht op grond of water;
 
 - b. buiten plaatselijke luchtverkeersleidingsgebieden van militaire luchthavens:
 
-- 1°. het vliegzicht is gelijk aan of groter dan 5 kilometer voor vluchten met militaire helikopters die niet voldoen aan de eisen voor het uitoefenen van IFR-vluchten; voor vluchten met militaire helikopters die voldoen aan de eisen voor het uitoefenen van IFR-vluchten, is het vliegzicht minimaal 3 kilometer;
+   - 1°. het vliegzicht is gelijk aan of groter dan 5 kilometer voor vluchten met militaire helikopters die niet voldoen aan de eisen voor het uitoefenen van IFR-vluchten; voor vluchten met militaire helikopters die voldoen aan de eisen voor het uitoefenen van IFR-vluchten, is het vliegzicht minimaal 3 kilometer;
 
-- 2°. de wolkenbasis bevindt zich op ten minste 300 meter (1.000 voet); voor patiëntenvervoer van en naar de Waddeneilanden, alsmede voor de hiervoor benodigde trainingsvluchten, met militaire helikopters die voldoen aan de eisen voor het uitoefenen van IFR-vluchten, bevindt de wolkenbasis zich op ten minste 210 meter (700 voet);
+   - 2°. de wolkenbasis bevindt zich op ten minste 300 meter (1.000 voet); voor patiëntenvervoer van en naar de Waddeneilanden, alsmede voor de hiervoor benodigde trainingsvluchten, met militaire helikopters die voldoen aan de eisen voor het uitoefenen van IFR-vluchten, bevindt de wolkenbasis zich op ten minste 210 meter (700 voet);
 
-- 3°. de helikopter is vrij van wolken met zicht op grond of water;
+   - 3°. de helikopter is vrij van wolken met zicht op grond of water;
 
 - c. in afwijking van de onderdelen a en b is ten behoeve van trainingsvluchten voor en daadwerkelijke inzet bij Search and Rescue boven zee en onderzeebootbestrijding het volgende van toepassing:
 
-- 1°. het vliegzicht is gelijk aan of groter dan 2 kilometer; voor vluchten vanaf schepen is het vliegzicht gelijk aan of groter dan 1.000 meter;
+   - 1°. het vliegzicht is gelijk aan of groter dan 2 kilometer; voor vluchten vanaf schepen is het vliegzicht gelijk aan of groter dan 1.000 meter;
 
-- 2°. de wolkenbasis bevindt zich op ten minste 150 meter (500 voet); voor vluchten vanaf schepen bevindt de wolkenbasis zich op ten minste 60 meter (200 voet).
+   - 2°. de wolkenbasis bevindt zich op ten minste 150 meter (500 voet); voor vluchten vanaf schepen bevindt de wolkenbasis zich op ten minste 60 meter (200 voet).
 
 3. Voor vluchten met militaire helikopters waarbij gebruik wordt gemaakt van nachtzichtapparatuur, wordt aan gezagvoerders de vrijstelling, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=2&artikel=10&z=2014-12-12&g=2014-12-12), verleend, indien het vliegzicht gelijk is aan of groter is dan 1.500 meter met zicht op grond of water.
 
@@ -207,15 +179,15 @@ Voor VFR-vluchten buiten de daglichtperiode worden de volgende minimum vlieghoog
 
 - b. elders dan onder a aangegeven:
 
-- 1°. voor militaire vliegtuigen: ten minste 300 meter4 (1.000 voet) boven grond of water;
+   - 1°. voor militaire vliegtuigen: ten minste 300 meter4 (1.000 voet) boven grond of water;
 
-- 2°. voor militaire helikopters:
+   - 2°. voor militaire helikopters:
 
-- (a). ten minste 30 meter (100 voet) boven grond of water of zoveel lager als voor het doel van de vlucht noodzakelijk is binnen de gebieden of route, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=9&z=2014-12-12&g=2014-12-12);
+      - (a) ten minste 30 meter (100 voet) boven grond of water of zoveel lager als voor het doel van de vlucht noodzakelijk is binnen de gebieden of route, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=9&z=2014-12-12&g=2014-12-12);
 
-- (b). ten minste 45 meter (150 voet) boven hindernissen gelegen binnen een afstand van 250 meter van de helikopter op routes voor vluchten van en naar de gebieden of route, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=9&z=2014-12-12&g=2014-12-12);
+      - (b) ten minste 45 meter (150 voet) boven hindernissen gelegen binnen een afstand van 250 meter van de helikopter op routes voor vluchten van en naar de gebieden of route, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=9&z=2014-12-12&g=2014-12-12);
 
-- (c). ten minste 100 meter (300 voet) boven grond of water of zoveel lager als voor het doel van de vlucht noodzakelijk is.
+      - (c) ten minste 100 meter (300 voet) boven grond of water of zoveel lager als voor het doel van de vlucht noodzakelijk is.
 
 ##### Artikel 13. Vliegen binnen de laagvlieggebieden of -route voor militaire helikopters met gebruik van nachtzichtapparatuur
 
@@ -231,15 +203,15 @@ Voor vluchten met militaire helikopters waarbij gebruik wordt gemaakt van nachtz
 
 ##### Artikel 14
 
-Wijzigt de Regeling doven luchtvaartuiglichten militaire luchtvaartuigen.
+*Wijzigt de Regeling doven luchtvaartuiglichten militaire luchtvaartuigen.*
 
 ##### Artikel 15
 
-Wijzigt de Regeling modelraketten.
+*Wijzigt de Regeling modelraketten.*
 
 ##### Artikel 16
 
-Wijzigt de Regeling veilig gebruik luchthavens en andere terreinen.
+*Wijzigt de Regeling veilig gebruik luchthavens en andere terreinen.*
 
 ##### Artikel 17
 
@@ -253,26 +225,6 @@ Deze regeling treedt in werking met ingang van 1 augustus 2014.
 
 Deze regeling wordt aangehaald als: Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters.
 
-## Bijlage A. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01), van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
-
-### Laagvliegroutes militaire straal- en transportvliegtuigen
-
-## Bijlage B. behorende bij [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=9&z=2014-08-01&g=2014-08-01), van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
-
-### Laagvlieggebieden en -route voor militaire helikopters
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 20
 
 Deze regeling berust op de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=18), en [19, eerste lid, onderdeel e, en tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19).
-
-## Bijlage A. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=2&z=2014-12-12&g=2014-12-12), van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
-
-### Laagvliegroutes militaire straal- en transportvliegtuigen
-
-## Bijlage B. behorende bij [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=9&z=2014-12-12&g=2014-12-12), van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
-
-### Laagvlieggebieden en -route voor militaire helikopters
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

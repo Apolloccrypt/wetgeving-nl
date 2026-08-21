@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur-generaal Rijkswaterstaat van 19 februari 2014, met kenmerk RWS-2014/328 houdende verlening van mandaat, volmacht en machtiging inzake luchthavens (Besluit mandaat, volmacht en machtiging Rijkswaterstaat inzake luchthavens 2014)"
+citeertitel: "Besluit mandaat, volmacht en machtiging Rijkswaterstaat inzake luchthavens 2014"
 identifier: "BWBR0034860"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-05-11"
-last_updated: "2019-05-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034860"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12589053"
-version_id: "21247892"
-internal_id: "C30515061"
-label_id: "12559574"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034860/2019-05-11/0"
-intitule_bron: "Stcrt.2014-5166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-02-19"
-intitule_published: "2014-02-25"
-intitule_in_force: "2014-02-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-5166"
-original_signed_date: "2014-02-19"
-original_published_date: "2014-02-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-5166"
-entry_into_force_date: "2014-02-26"
-jci_1_3: "jci1.3:c:BWBR0034860&z=2019-05-11&g=2019-05-11"
-jci_1_0: "1.0:c:BWBR0034860&g=2019-05-11"
-citeertitel_status: "redactioneel"
-short_title: "Besluit mandaat, volmacht en machtiging Rijkswaterstaat inzake luchthavens 2014"
-signed_date: "2014-02-19"
-entry_into_force: "2014-02-26"
+publicatiedatum: 2014-02-26
+laatste_update: 2019-05-11
+status: geldig
+toestand: 2019-05-11
+bron: "https://wetten.overheid.nl/BWBR0034860"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de directeur-generaal Rijkswaterstaat van 19 februari 2014, met kenmerk RWS-2014/328 houdende verlening van mandaat, volmacht en machtiging inzake luchthavens (Besluit mandaat, volmacht en machtiging Rijkswaterstaat inzake luchthavens 2014)
-
-Gelet op [artikel 23, tweede lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=23) en artikel 5 van het Ondermandaatbesluit directoraat-generaal Bereikbaarheid Infrastructuur en Milieu 2012;
-
-Besluit:
 
 ##### Artikel 1. Bevoegdheden Rijkswaterstaat Programma’s, Projecten en Onderhoud
 
@@ -99,5 +73,3 @@ Het Besluit mandaat, volmacht en machtiging RWS in DGTL-zaken 2008 en de daarop 
 ##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2014.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de in dit besluit genoemde functionarissen.

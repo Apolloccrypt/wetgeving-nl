@@ -1,47 +1,18 @@
 ---
 title: "Onderlinge regeling als bedoeld in artikel 38, van het Statuut voor het Koninkrijk der Nederlanden regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid"
+citeertitel: "Onderlinge regeling Aruba, Curaçao, Sint Maarten en Nederland ex artikel 38, van het Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid)"
 identifier: "BWBR0035270"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-07-03"
-last_updated: "2014-07-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035270"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12710823"
-version_id: "21501272"
-internal_id: "C30870861"
-label_id: "12680774"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035270/2014-07-03/0"
-intitule_bron: "Stcrt.2014-17851"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-07-01"
-intitule_in_force: "2014-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-17851"
-original_published_date: "2014-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-17851"
-entry_into_force_date: "2014-07-03"
-jci_1_3: "jci1.3:c:BWBR0035270&z=2014-07-03&g=2014-07-03"
-jci_1_0: "1.0:c:BWBR0035270&g=2014-07-03"
-citeertitel_status: "redactioneel"
-short_title: "Onderlinge regeling Aruba, Curaçao, Sint Maarten en Nederland ex artikel 38, van het Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid)"
-entry_into_force: "2014-07-03"
+publicatiedatum: 2014-07-03
+laatste_update: 2014-07-03
+status: geldig
+toestand: 2014-07-03
+bron: "https://wetten.overheid.nl/BWBR0035270"
+opgehaald: 2026-08-21
 ---
+
 # Onderlinge regeling als bedoeld in artikel 38, van het Statuut voor het Koninkrijk der Nederlanden regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid
-
-Overwegende, dat in onderdeel D van de Slotverklaring van het bestuurlijk overleg over de toekomstige staatkundige positie van Curaçao en Sint Maarten op 2 november 2006 is afgesproken dat Curaçao, Sint Maarten en Nederland op basis van een onderlinge regeling als bedoeld in [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), met elkaar zullen samenwerken om te voorzien in het beschikbaar stellen van detentiecapaciteit ten behoeve van Bonaire, Sint Eustatius en Saba en ten behoeve van elkaar;
-
-Overwegende dat, ter uitvoering van bovengenoemde afspraak op 11 februari 2010 een onderlinge regeling regelende de samenwerking tussen Curaçao, Sint Maarten en Nederland op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit tot stand is gekomen, tot welke onderlinge regeling Aruba in het jaar 2013 is toegetreden;
-
-Overwegende dat, in aanvulling daarop, het wenselijk wordt geacht een bijzondere regeling te treffen voor de tijdelijke beschikbaarheid van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid ten behoeve van Curaçao, Sint Maarten, Aruba en Nederland;
-
-Gelet op [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), en [artikel 40 van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=40);
-
-Komen het volgende overeen:
 
 ##### Artikel 1
 
@@ -112,5 +83,3 @@ Komen het volgende overeen:
 ##### Artikel 7
 
 Deze onderlinge regeling treedt in werking met ingang van de tweede dag na de dagtekening van het publicatiemedium waarin zij wordt geplaatst.
-
-Deze onderlinge regeling zal met de toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.

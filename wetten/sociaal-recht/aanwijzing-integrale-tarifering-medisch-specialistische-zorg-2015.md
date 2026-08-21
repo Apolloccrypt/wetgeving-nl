@@ -1,74 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2014, kenmerk 371987-120847-MC, op grond van de Wet marktordening gezondheidszorg inzake invoering integrale tarifering medisch specialistische zorg en kaakchirurgie"
+citeertitel: "Aanwijzing integrale tarifering medisch specialistische zorg 2015"
 identifier: "BWBR0035137"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-07-01"
-last_updated: "2014-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035137"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12676853"
-version_id: "21417082"
-internal_id: "C30752251"
-label_id: "12647124"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035137/2014-07-01/0"
-intitule_bron: "Stcrt.2014-14914"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-05-21"
-intitule_published: "2014-05-30"
-intitule_in_force: "2014-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-14914"
-original_signed_date: "2014-05-21"
-original_published_date: "2014-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-14914"
-entry_into_force_date: "2014-07-01"
-jci_1_3: "jci1.3:c:BWBR0035137&z=2014-07-01&g=2014-07-01"
-jci_1_0: "1.0:c:BWBR0035137&g=2014-07-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing integrale tarifering medisch specialistische zorg 2015"
-signed_date: "2014-05-21"
-entry_into_force: "2014-07-01"
+publicatiedatum: 2014-07-01
+laatste_update: 2014-07-01
+status: geldig
+toestand: 2014-07-01
+bron: "https://wetten.overheid.nl/BWBR0035137"
+opgehaald: 2026-08-21
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2014, kenmerk 371987-120847-MC, op grond van de Wet marktordening gezondheidszorg inzake invoering integrale tarifering medisch specialistische zorg en kaakchirurgie
-
-Overwegende dat in het coalitie akkoord ‘Bruggen slaan’ is opgenomen dat met ingang van 2015 het specialistenhonorarium integraal onderdeel is van het tarief dat het ziekenhuis voor een prestatie in rekening mag brengen en instellingen het voortouw krijgen op het terrein van kwaliteit, doelmatigheid en contractering met ziektekostenverzekeraars;
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7),
-
-Gezien:
-
-het Bestuurlijk hoofdlijnenakkoord 2012–2015 tussen de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland, Zorgverzekeraars Nederland, Orde van Medisch Specialisten en de minister, ondertekend op 4 juli 2011 (Kamerstukken II 2010/11, 29 248, nr. 215);
-
-het Bestuurlijk akkoord van 16 juli 2013 tussen de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland, Zorgverzekeraars Nederland, Orde van Medisch Specialisten, Nederlands Patiënten Consumenten Federatie en de minister (Kamerstukken II 2012/13, 29 248, nr. 257).
-
-het rapport van de commissie Meurs (Kamerstukken II 2012/13, 29 248, nr. 240);
-
-de kabinetsreactie op het rapport van de commissie Meurs (Kamerstukken II 2012/13 29 248, nr. 242);
-
-het advies van de Nederlandse Zorgautoriteit inzake Integrale tarieven medisch specialistische zorg 2015 (Bijlage bij Kamerstukken II 2013/14, 32 620, nr. 105);
-
-het advies van de Nederlandse Zorgautoriteit inzake Integrale tarieven kaakchirurgie (Bijlage bij Kamerstukken II 2013/14, 32 620, nr. 105);
-
-de brief van 18 december 2013 van de Staatssecretaris van Financiën inzake een briefwisseling tussen de staatssecretaris van Financiën en de Orde van Medisch Specialisten en de Nederlandse Vereniging van Ziekenhuizen (Bijlage bij Kamerstukken II 2013/14, 32 620, nr. 114);
-
-het rapport over het onderzoek naar een gedifferentieerd macrobeheersinstrument van Triple A (Bijlage bij Kamerstukken II 2013/14, 32 620, nr. 114);
-
-de brief van 22 april 2013 aan de Tweede Kamer der Staten-Generaal dat per 2015, parallel aan de invoering van integrale tarieven, bestaande regels omtrent registratie en declaratie door zorgaanbieders die taakherschikking belemmeren door de NZa worden aangepast (Kamerstukken II 2012/13 29 689, nr. 437);
-
-Na op 18 december 2013 schriftelijk mededeling gedaan te hebben aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2013/14, 32 620, nr. 105);
-
-Gelet op het Verslag van een schriftelijk overleg over de brief van 18 december 2013 inzake Invoering integrale bekostiging medisch-specialistische zorg vastgesteld op 25 maart 2014 door de vaste commissie voor Volksgezondheid, Welzijn en Sport der Staten-Generaal (Kamerstukken II 2013/14, 32 620, nrs. 114 en 116),
-
-en
-
-Gelet op het Algemeen overleg op 24 april 2014 over het Verslag van een schriftelijk overleg over de brief van 18 december 2013 inzake de Invoering integrale bekostiging medisch specialistische zorg;
-
-Besluit:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -76,41 +20,43 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- b. *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- c. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **zorg:** medisch specialistische zorg, audiologische zorg, trombosezorg, zorg in het kader van erfelijkheidsadvisering en mondzorg zoals kaakchirurgen die bieden, met uitsluiting van geneeskundige geestelijke gezondheidszorg, zoals bedoeld in de ‘wet tot wijziging van het tijdstip waarop de geneeskundige geestelijke gezondheidszorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet’ van 22 november 2006 (Stb. 2006, 630);
+- d. *zorg:* medisch specialistische zorg, audiologische zorg, trombosezorg, zorg in het kader van erfelijkheidsadvisering en mondzorg zoals kaakchirurgen die bieden, met uitsluiting van geneeskundige geestelijke gezondheidszorg, zoals bedoeld in de ‘wet tot wijziging van het tijdstip waarop de geneeskundige geestelijke gezondheidszorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet’ van 22 november 2006 (Stb. 2006, 630);
 
-- e. **zorgaanbieder:** natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+- e. *zorgaanbieder:* natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- f. **instelling:** instelling als bedoeld in [artikel 1.2, aanhef en onder 1, 2, 3 en 13 van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2);
+- f. *instelling:* instelling als bedoeld in [artikel 1.2, aanhef en onder 1, 2, 3 en 13 van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2);
 
-- g. **solist:** solistisch werkende zorgaanbieder die, anders dan in dienst of onmiddellijk of middellijk in opdracht van een instelling, zelfstandig beroepsmatig zorg als bedoeld in onderdeel d verleent;
+- g. *solist:* solistisch werkende zorgaanbieder die, anders dan in dienst of onmiddellijk of middellijk in opdracht van een instelling, zelfstandig beroepsmatig zorg als bedoeld in onderdeel d verleent;
 
-- h. **zorgverlener:** instelling of solist;
+- h. *zorgverlener:* instelling of solist;
 
-- i. **eigen patiënt:** consument, voor wie de zorgverlener, tot wie de consument zich met een zorgvraag heeft gewend, verantwoordelijk is voor het afhandelen van die zorgvraag, al dan niet met andere mede behandelende zorgaanbieders;
+- i. *eigen patiënt:* consument, voor wie de zorgverlener, tot wie de consument zich met een zorgvraag heeft gewend, verantwoordelijk is voor het afhandelen van die zorgvraag, al dan niet met andere mede behandelende zorgaanbieders;
 
-- j. **eigen zorgverlener:** zorgverlener tot wie de consument zich met een zorgvraag heeft gewend en welke zorgverlener verantwoordelijk is jegens die consument voor het afhandelen van die zorgvraag, al dan niet met andere mede behandelende zorgaanbieders;
+- j. *eigen zorgverlener:* zorgverlener tot wie de consument zich met een zorgvraag heeft gewend en welke zorgverlener verantwoordelijk is jegens die consument voor het afhandelen van die zorgvraag, al dan niet met andere mede behandelende zorgaanbieders;
 
-- k. **onderlinge dienstverlening:** overeenkomst tussen twee of meer zorgaanbieders die betrekking heeft op het leveren van zorg aan een consument tegen een tussen die zorgaanbieders onderling overeen te komen tarief, waarbij een van de zorgaanbieders optreedt als eigen zorgverlener voor de consument en uitsluitend deze eigen zorgverlener gerechtigd is om, voor de in het kader van die overeenkomst geleverde zorg als (onderdeel van een) prestatie, een tarief bij de zorgverzekeraar of de consument in rekening te brengen;
+- k. *onderlinge dienstverlening:* overeenkomst tussen twee of meer zorgaanbieders die betrekking heeft op het leveren van zorg aan een consument tegen een tussen die zorgaanbieders onderling overeen te komen tarief, waarbij een van de zorgaanbieders optreedt als eigen zorgverlener voor de consument en uitsluitend deze eigen zorgverlener gerechtigd is om, voor de in het kader van die overeenkomst geleverde zorg als (onderdeel van een) prestatie, een tarief bij de zorgverzekeraar of de consument in rekening te brengen;
 
-- l. **vrij tarief:** tarief als bedoeld in [artikel 50, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), dat voor een prestatie in rekening mag worden gebracht;
+- l. *vrij tarief:* tarief als bedoeld in [artikel 50, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), dat voor een prestatie in rekening mag worden gebracht;
 
-- m. **maximumtarief:** bedrag als bedoeld in [artikel 50, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), dat ten hoogste als tarief voor een prestatie in rekening mag worden gebracht;
+- m. *maximumtarief:* bedrag als bedoeld in [artikel 50, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), dat ten hoogste als tarief voor een prestatie in rekening mag worden gebracht;
 
-- n. **prestatie:** prestatiebeschrijving als bedoeld in [artikel 50, eerste lid, aanhef en onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50);
+- n. *prestatie:* prestatiebeschrijving als bedoeld in [artikel 50, eerste lid, aanhef en onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50);
 
-- o. **integraal tarief:** tarief waarin alle vergoedingen zijn opgenomen voor kosten die een zorgverlener in rekening mag brengen in verband met het leveren van een prestatie;
+- o. *integraal tarief:* tarief waarin alle vergoedingen zijn opgenomen voor kosten die een zorgverlener in rekening mag brengen in verband met het leveren van een prestatie;
 
-- p. **aanwijzing overgangsregeling kapitaallasten:** [Aanwijzing inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0027853) van 22 juni 2010 (Stcrt. 2010, nr. 10255);
+- p. *aanwijzing overgangsregeling kapitaallasten:*
+ [Aanwijzing inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0027853) van 22 juni 2010 (Stcrt. 2010, nr. 10255);
 
-- q. **overgangsregeling kapitaallasten:** overgangsregeling kapitaallasten als bedoeld in de [aanwijzing overgangsregeling kapitaallasten](https://wetten.overheid.nl/jci1.3:c:BWBR0027853);
+- q. *overgangsregeling kapitaallasten:* overgangsregeling kapitaallasten als bedoeld in de [aanwijzing overgangsregeling kapitaallasten](https://wetten.overheid.nl/jci1.3:c:BWBR0027853);
 
-- r. **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
+- r. *Zorgverzekeringsfonds:* het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
 ##### Artikel I.2. reikwijdte
 
@@ -215,5 +161,3 @@ Voor prestaties die zijn omschreven als DBC-zorgproducten (diagnose behandeling 
 ##### Artikel V.3. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing integrale tarifering medisch specialistische zorg 2015.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.

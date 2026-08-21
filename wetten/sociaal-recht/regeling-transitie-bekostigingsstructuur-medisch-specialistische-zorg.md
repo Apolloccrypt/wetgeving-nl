@@ -1,41 +1,17 @@
 ---
 title: "Regeling transitie bekostigingsstructuur medisch specialistische zorg"
 identifier: "BWBR0035464"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-08-21"
-last_updated: "2014-08-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035464"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "12761683"
-version_id: "21617612"
-internal_id: "C31047541"
-label_id: "12731424"
-dtd_version: "2.0"
-original_entry_into_force: "2014-08-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035464/2014-08-21/0"
-intitule_bron: "Stcrt.2014-23477"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-08-12"
-intitule_published: "2014-08-20"
-intitule_in_force: "2014-08-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-23477"
-original_signed_date: "2014-08-12"
-original_published_date: "2014-08-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-23477"
-entry_into_force_date: "2014-08-21"
-jci_1_3: "jci1.3:c:BWBR0035464&z=2014-08-21&g=2014-08-21"
-jci_1_0: "1.0:c:BWBR0035464&g=2014-08-21"
-citeertitel_status: "officieel"
-signed_date: "2014-08-12"
-entry_into_force: "2014-08-21"
+publicatiedatum: 2014-08-21
+laatste_update: 2014-08-21
+status: geldig
+toestand: 2014-08-21
+bron: "https://wetten.overheid.nl/BWBR0035464"
+opgehaald: 2026-08-21
 ---
-# Regeling transitie bekostigingsstructuur medisch specialistische zorg
 
-Gelet op [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36) en de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) jo. [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), heeft de Nederlandse Zorgautoriteit de volgende regeling vastgesteld.
+# Regeling transitie bekostigingsstructuur medisch specialistische zorg
 
 ##### Artikel 1. Reikwijdte
 
@@ -67,51 +43,51 @@ Deze regeling heeft tot doel het waarborgen van een effectieve procedure op het 
 
 In deze regeling wordt verstaan onder:
 
-- a. **instelling:** instellingen voor medisch specialistische zorg als bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2), en voor zover genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder de nummers 1 tot en met 6, audiologische centra als bedoeld in artikel 1.2, onder 2, van het Uitvoeringsbesluit WTZi, en instellingen voor erfelijkheidsadvisering als bedoeld in artikel 1.2, onder 13, van het Uitvoeringsbesluit WTZi;
+- a. *instelling:* instellingen voor medisch specialistische zorg als bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2), en voor zover genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder de nummers 1 tot en met 6, audiologische centra als bedoeld in artikel 1.2, onder 2, van het Uitvoeringsbesluit WTZi, en instellingen voor erfelijkheidsadvisering als bedoeld in artikel 1.2, onder 13, van het Uitvoeringsbesluit WTZi;
 
-- b. **beleidsregel:** de beleidsregel ‘Transitie bekostigingsstructuur medisch specialistische zorg’;
+- b. *beleidsregel:* de beleidsregel ‘Transitie bekostigingsstructuur medisch specialistische zorg’;
 
-- c. **omzet uit prestatiebekostiging:** omzet van een instelling die wordt vastgesteld op grond van 11 van de beleidsregel;
+- c. *omzet uit prestatiebekostiging:* omzet van een instelling die wordt vastgesteld op grond van 11 van de beleidsregel;
 
-- d. **schaduwbudget:** budget dat voor een instelling wordt vastgesteld op grond van artikel 13 van de beleidsregel;
+- d. *schaduwbudget:* budget dat voor een instelling wordt vastgesteld op grond van artikel 13 van de beleidsregel;
 
-- e. **transitiebedrag:** bedrag dat voor een instelling wordt vastgesteld op grond van artikel 12 van de beleidsregel;
+- e. *transitiebedrag:* bedrag dat voor een instelling wordt vastgesteld op grond van artikel 12 van de beleidsregel;
 
-- f. **DBC-A:** DBC’s die in 2011 zijn geopend en op het moment van openen tot het A-segment behoorden;
+- f. *DBC-A:* DBC’s die in 2011 zijn geopend en op het moment van openen tot het A-segment behoorden;
 
-- g. **DOT-A2012:** DBC-zorgproducten en overige zorgproducten die in 2012 tot het A-segment behoorden;
+- g. *DOT-A2012:* DBC-zorgproducten en overige zorgproducten die in 2012 tot het A-segment behoorden;
 
-- h. **DOT-Bnieuw:** DBC-zorgproducten en overige zorgproducten die in 2012 tot het B-segment behoorden en in 2011 nog tot het A-segment behoorden;
+- h. *DOT-Bnieuw:* DBC-zorgproducten en overige zorgproducten die in 2012 tot het B-segment behoorden en in 2011 nog tot het A-segment behoorden;
 
-- i. **DOT-Boud:** DBC-zorgproducten en overige zorgproducten die in 2011 tot het B-segment behoorden;
+- i. *DOT-Boud:* DBC-zorgproducten en overige zorgproducten die in 2011 tot het B-segment behoorden;
 
-- j. **beschikbaarheidbijdrage:** bijdrage als bedoeld in [artikel 56a, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a);
+- j. *beschikbaarheidbijdrage:* bijdrage als bedoeld in [artikel 56a, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a);
 
-- k. **onderhanden werk:** openstaande zorgproducten waarvoor nog geen tarief in rekening is gebracht.
+- k. *onderhanden werk:* openstaande zorgproducten waarvoor nog geen tarief in rekening is gebracht.
 
 ##### Artikel 4. Administratievoorschriften
 
 1. Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 1, 2, 3, 4, 7 en 8 richten hun administratie, met inachtneming van de regeling ‘[Medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035447)’, op een zodanige wijze in, dat hieruit kunnen worden afgeleid:
 
-- (1.). de gedeclareerde tariefopbrengst DBC-A die overlopen uit 2011, minus het onderhanden werk per ultimo 2011;
+- (1.) de gedeclareerde tariefopbrengst DBC-A die overlopen uit 2011, minus het onderhanden werk per ultimo 2011;
 
-- (2.). de gedeclareerde tariefopbrengst DOT-Bnieuw voor producten geopend en gesloten in jaar 2012;
+- (2.) de gedeclareerde tariefopbrengst DOT-Bnieuw voor producten geopend en gesloten in jaar 2012;
 
-- (3.). het onderhanden werk DOT-Bnieuw voor producten geopend in 2012 en gesloten in 2013;
+- (3.) het onderhanden werk DOT-Bnieuw voor producten geopend in 2012 en gesloten in 2013;
 
-- (4.). de gedeclareerde tariefopbrengst DOT-A2012 voor producten geopend en gesloten in 2012;
+- (4.) de gedeclareerde tariefopbrengst DOT-A2012 voor producten geopend en gesloten in 2012;
 
-- (5.). het onderhanden werk DOT-A2012 voor producten geopend in 2012 en gesloten in 2013;
+- (5.) het onderhanden werk DOT-A2012 voor producten geopend in 2012 en gesloten in 2013;
 
-- (6.). de honorariumomzet met betrekking tot productie ten behoeve van de segmenten A2012 en Bnieuw van medisch specialisten in loondienst waarvoor in 2012 op grond van de beleidsregel een loonkostenvergoeding in het schaduwbudget is opgenomen. Honorariumomzet moet worden uitgesplitst naar onderhanden werk per ultimo 2011, gedeclareerde DBC-zorgproducten 2012 en onderhanden werk per ultimo 2012.
+- (6.) de honorariumomzet met betrekking tot productie ten behoeve van de segmenten A2012 en Bnieuw van medisch specialisten in loondienst waarvoor in 2012 op grond van de beleidsregel een loonkostenvergoeding in het schaduwbudget is opgenomen. Honorariumomzet moet worden uitgesplitst naar onderhanden werk per ultimo 2011, gedeclareerde DBC-zorgproducten 2012 en onderhanden werk per ultimo 2012.
 
 2. Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, richten hun administratie, met inachtneming van de regeling ‘[Medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035447)’, op een zodanige wijze in, dat hieruit, zowel voor het kostendeel als de honorariumomzet van medisch specialisten in loondienst, kunnen worden afgeleid:
 
-- (1.). de tariefopbrengst DBC-zorgproducten en overige zorgproducten die overlopen uit 2012, minus het onderhanden werk per ultimo 2012;
+- (1.) de tariefopbrengst DBC-zorgproducten en overige zorgproducten die overlopen uit 2012, minus het onderhanden werk per ultimo 2012;
 
-- (2.). de tariefopbrengst DBC-zorgproducten en overige zorgproducten voor producten geopend en gesloten in jaar 2013;
+- (2.) de tariefopbrengst DBC-zorgproducten en overige zorgproducten voor producten geopend en gesloten in jaar 2013;
 
-- (3.). het onderhanden werk DBC-zorgproducten en overige zorgproducten voor producten geopend in 2013 en gesloten in 2014.
+- (3.) het onderhanden werk DBC-zorgproducten en overige zorgproducten voor producten geopend in 2013 en gesloten in 2014.
 
 3. Instellingen richten hun administratie op een zodanige wijze in dat daaruit het onderhanden werk kan worden afgeleid, alsmede de wijze waarop het onderhanden werk is berekend.
 
@@ -123,9 +99,9 @@ In deze regeling wordt verstaan onder:
 
 1. Instellingen, met uitzondering van de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, zijn verplicht:
 
-- a. uiterlijk 1 september 2013 een **voorlopige** opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2012 en van het schaduwbudget over 2012;
+- a. uiterlijk 1 september 2013 een *voorlopige* opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2012 en van het schaduwbudget over 2012;
 
-- b. uiterlijk 1 september 2014 een d**efinitieve** opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2012 en het schaduwbudget over 2012.
+- b. uiterlijk 1 september 2014 een d*efinitieve* opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2012 en het schaduwbudget over 2012.
 
 2. Berekeningen ten behoeve van de voorlopige en definitieve opgave bedoeld in het vorige lid dienen te geschieden met inachtneming van het hieromtrent bepaalde in de beleidsregel.
 
@@ -135,13 +111,13 @@ In deze regeling wordt verstaan onder:
 
 5. Zowel de voorlopige als definitieve opgave bedoeld in het eerste lid bevat in ieder geval de volgende onderdelen:
 
-- –. een ondertekend voorblad van het formulier;
+- – een ondertekend voorblad van het formulier;
 
-- –. een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;
+- – een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;
 
-- –. de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-08-21)).
+- – de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-08-21)).
 
-6. Voor de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 (zelfstandige longrevalidatie-instellingen) en 6 (zelfstandige epilepsiecentra), geldt dat de leden 1 tot en met 5 van overeenkomstige toepassing zijn, met dien verstande dat bij de in die leden genoemde jaartallen telkens één jaar moet worden opgeteld. Uitzondering hierop vormt [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21), onder 1b: Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, zijn verplicht uiterlijk 1 juni 2015 een **definitieve** opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2013 en van het schaduwbudget over 2013.
+6. Voor de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 (zelfstandige longrevalidatie-instellingen) en 6 (zelfstandige epilepsiecentra), geldt dat de leden 1 tot en met 5 van overeenkomstige toepassing zijn, met dien verstande dat bij de in die leden genoemde jaartallen telkens één jaar moet worden opgeteld. Uitzondering hierop vormt [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21), onder 1b: Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, zijn verplicht uiterlijk 1 juni 2015 een *definitieve* opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2013 en van het schaduwbudget over 2013.
 
 ##### Artikel 6. Aanvullende voorschriften met betrekking tot de aanlevering van gegevens door zelfstandige revalidatiecentra en zelfstandige audiologische centra
 
@@ -157,11 +133,11 @@ In deze regeling wordt verstaan onder:
 
 6. De opgaven bedoeld in de leden 1 en 2 bevatten in ieder geval de volgende onderdelen:
 
-- –. een ondertekend voorblad van het formulier;
+- – een ondertekend voorblad van het formulier;
 
-- –. een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;
+- – een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;
 
-- –. de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-08-21)).
+- – de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-08-21)).
 
 ##### Artikel 7. Accountantcontrole gegevensverstrekking
 

@@ -1,64 +1,36 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheidvan 1 december 2014, 2014-0000177234, tot instelling van Toezichtcomité ESF2 en ESF 2014-2020"
+citeertitel: "Regeling instelling Toezichtcomité ESF2 en ESF 2014-2020"
 identifier: "BWBR0035884"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-10"
-last_updated: "2014-12-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035884"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12872743"
-version_id: "21873882"
-internal_id: "C31394171"
-label_id: "12842254"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035884/2014-12-10/0"
-intitule_bron: "Stcrt.2014-34996"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-01"
-intitule_published: "2014-12-09"
-intitule_in_force: "2014-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-34996"
-original_signed_date: "2014-12-01"
-original_published_date: "2014-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-34996"
-entry_into_force_date: "2014-12-10"
-jci_1_3: "jci1.3:c:BWBR0035884&z=2014-12-10&g=2014-12-10"
-jci_1_0: "1.0:c:BWBR0035884&g=2014-12-10"
-citeertitel_status: "redactioneel"
-short_title: "Regeling instelling Toezichtcomité ESF2 en ESF 2014-2020"
-signed_date: "2014-12-01"
-entry_into_force: "2014-12-10"
+publicatiedatum: 2014-12-10
+laatste_update: 2014-12-10
+status: geldig
+toestand: 2014-12-10
+bron: "https://wetten.overheid.nl/BWBR0035884"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheidvan 1 december 2014, 2014-0000177234, tot instelling van Toezichtcomité ESF2 en ESF 2014-2020
-
-Gelet op artikel 63, eerste lid van Verordening (EG), nr. 1083/2006 van de raad van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van [Verordening (EG) nr. 1260/1999](31999R1260) en gelet op artikel 47, eerste lid van Verordening (EU) nr. 1303/2013 van het Europees parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van [Verordening (EG) nr. 1083/2006](32006R1083) van de Raad;
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop Regeling intrekking ESF-comités in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Beschikking:** de beschikking van de Europese Commissie, houdende goedkeuring van het voor Nederland geldende Enig Programmeringsdocument voor de structurele bijstandverlening uit hoofde van doelstelling 2, voor de periode 2007-2013;
+- a. *Beschikking:* de beschikking van de Europese Commissie, houdende goedkeuring van het voor Nederland geldende Enig Programmeringsdocument voor de structurele bijstandverlening uit hoofde van doelstelling 2, voor de periode 2007-2013;
 
-- b. **Minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- b. *Minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- c. **Ministerie:** het Ministerie van Sociale Zaken en Werkgelegenheid;
+- c. *Ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid;
 
-- d. **Toezichtcomité:** het Toezichtcomité ESF2 en ESF 2014-2020, bedoeld in artikel 63 van Verordening (EU) nr. 1083/2006 en genoemd in artikel 47 van Verordening (EU) nr. 1303/2013;
+- d. *Toezichtcomité:* het Toezichtcomité ESF2 en ESF 2014-2020, bedoeld in artikel 63 van Verordening (EU) nr. 1083/2006 en genoemd in artikel 47 van Verordening (EU) nr. 1303/2013;
 
-- e. **Uitvoeringsbesluit:** Uitvoeringsbesluit van de Europese Commissie van 18 september 2014 tot goedkeuring van bepaalde elementen van het operationele programma ‘Operational Programme ESF 2014-2020’ voor steun uit het Europees Sociaal Fonds in het kader van de doelstelling ‘Investeren in groei en werkgelegenheid’ in Nederland;
+- e. *Uitvoeringsbesluit:* Uitvoeringsbesluit van de Europese Commissie van 18 september 2014 tot goedkeuring van bepaalde elementen van het operationele programma ‘Operational Programme ESF 2014-2020’ voor steun uit het Europees Sociaal Fonds in het kader van de doelstelling ‘Investeren in groei en werkgelegenheid’ in Nederland;
 
-- f. **Verordening (EG) nr. 1083/2006:** Verordening (EG), nr. 1083/2006 van de raad van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van [Verordening (EG) nr. 1260/1999](31999R1260); en
+- f. *Verordening (EG) nr. 1083/2006:* Verordening (EG), nr. 1083/2006 van de raad van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van Verordening (EG) nr. 1260/1999; en
 
-- g. **Verordening (EU) nr. 1303/2013:** Verordening (EU) Nr. 1303/2013 van het Europees parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van [Verordening (EG) nr. 1083/2006](32006R1083) van de Raad.
+- g. *Verordening (EU) nr. 1303/2013:* Verordening (EU) Nr. 1303/2013 van het Europees parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van Verordening (EG) nr. 1083/2006 van de Raad.
 
 ##### Artikel 2. Instelling
 
@@ -126,25 +98,25 @@ Overeenkomstig de artikelen 49 en 110 van de Verordening, vervult het Toezichtco
 
 - b. het onderzoeken van:
 
-- 1°. vraagstukken die van invloed zijn op de prestaties van het operationele programma;
+   - 1° vraagstukken die van invloed zijn op de prestaties van het operationele programma;
 
-- 2°. de vorderingen die zijn gemaakt bij de uitvoering van het evaluatieplan en het vervolg dat aan de bevindingen van evaluaties is gegeven;
+   - 2° de vorderingen die zijn gemaakt bij de uitvoering van het evaluatieplan en het vervolg dat aan de bevindingen van evaluaties is gegeven;
 
-- 3°. de uitvoering van de communicatiestrategie;
+   - 3° de uitvoering van de communicatiestrategie;
 
-- 4°. acties om gelijkheid van mannen en vrouwen, gelijke kansen en non-discriminatie, met inbegrip van toegankelijkheid voor mensen met een handicap, te bevorderen;
+   - 4° acties om gelijkheid van mannen en vrouwen, gelijke kansen en non-discriminatie, met inbegrip van toegankelijkheid voor mensen met een handicap, te bevorderen;
 
 - c. het onderzoeken en goedkeuren van:
 
-- 1°. de methoden en criteria gebruikt voor de selectie van concrete acties;
+   - 1° de methoden en criteria gebruikt voor de selectie van concrete acties;
 
-- 2°. de jaarverslagen en het eindverslag over de uitvoering;
+   - 2° de jaarverslagen en het eindverslag over de uitvoering;
 
-- 3°. het evaluatieplan voor het operationele programma en eventuele wijzigingen van het evaluatieplan;
+   - 3° het evaluatieplan voor het operationele programma en eventuele wijzigingen van het evaluatieplan;
 
-- 4°. de communicatiestrategie voor het operationele programma en eventuele wijzigingen van de strategie; en
+   - 4° de communicatiestrategie voor het operationele programma en eventuele wijzigingen van de strategie; en
 
-- 5°. voorstellen van de managementautoriteit voor wijzigingen van het operationele programma.
+   - 5° voorstellen van de managementautoriteit voor wijzigingen van het operationele programma.
 
 ##### Artikel 8. Adviesbevoegdheid
 
@@ -154,7 +126,7 @@ Overeenkomstig de artikelen 49 en 110 van de Verordening, vervult het Toezichtco
 
 ##### Artikel 9. Nadere regeling werkzaamheden
 
-Het Toezichtcomité kan zijn werkzaamheden nader regelen, binnen het kader, gegeven door [Verordening (EG) nr. 1083/2006](32006R1083), dan wel Verordening (EU) nr. 1303/2013, de Beschikking, dan wel het Uitvoeringsbesluit, en de ter uitvoering daarvan genomen ministeriële besluiten.
+Het Toezichtcomité kan zijn werkzaamheden nader regelen, binnen het kader, gegeven door Verordening (EG) nr. 1083/2006, dan wel Verordening (EU) nr. 1303/2013, de Beschikking, dan wel het Uitvoeringsbesluit, en de ter uitvoering daarvan genomen ministeriële besluiten.
 
 ##### Artikel 10. Beheer van de bescheiden
 
@@ -165,5 +137,3 @@ Het Toezichtcomité kan zijn werkzaamheden nader regelen, binnen het kader, gege
 ##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de Regeling intrekking ESF-comités in werking treedt en vervalt met ingang van 1 januari 2025.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

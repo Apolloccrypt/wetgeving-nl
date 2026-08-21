@@ -2,26 +2,21 @@
 title: "Bestuursreglement Zorginstituut Nederland"
 identifier: "BWBR0035079"
 categorie: "Bestuursrecht"
-publicatiedatum: 2018-03-22
-laatste_update: 2018-03-22
+soort: "zbo"
+publicatiedatum: 2014-05-01
+laatste_update: 2026-01-01
 status: vervallen
+vervallen_op: 2026-07-01
+toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035079"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-21
 ---
 
 # Bestuursreglement Zorginstituut Nederland
 
-Referentie 2014012798
-
-De Raad van Bestuur van Zorginstituut Nederland,
-
-gelet op [artikel 60, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=60) en [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11),
-
-heeft in zijn vergadering van 1 april 2014 besloten:
-
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Dit bestuursreglement en de daarop gebaseerde regelingen verstaan onder:
 
@@ -35,7 +30,7 @@ Dit bestuursreglement en de daarop gebaseerde regelingen verstaan onder:
 
 ### Hoofdstuk 2. Uitoefening van taken en bevoegdheden
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Raad van Bestuur oefent de taken en bevoegdheden van het Zorginstituut uit.
 
@@ -55,7 +50,7 @@ Dit bestuursreglement en de daarop gebaseerde regelingen verstaan onder:
 
 9. De Raad van Bestuur draagt er zorg voor dat het Zorginstituut zich als publiekrechtelijk orgaan bij zijn bedrijfsvoering in het algemeen richt op datgene wat gebruikelijk is bij de rijksoverheid, onverlet de eigen verantwoordelijkheid van de Raad van Bestuur.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een lid van de Raad van Bestuur heeft het recht van verschoning indien hij van mening is dat zijn onpartijdigheid bij een bepaalde aangelegenheid in het geding zou kunnen zijn. Indien hij van het recht van verschoning gebruik maakt, doet hij hiervan mededeling aan de voorzitter, dan wel, indien het de voorzitter betreft, de plaatsvervangend voorzitter.
 
@@ -63,13 +58,13 @@ Dit bestuursreglement en de daarop gebaseerde regelingen verstaan onder:
 
 3. Indien het eerste of tweede lid van toepassing is, neemt het betreffende lid van de Raad van Bestuur niet deel aan de behandeling van de besluitvorming over de betreffende aangelegenheid.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorzitter van de Raad van Bestuur voert overleg met de Ondernemingsraad.
 
 ### Hoofdstuk 3. De vergaderingen van de Raad van Bestuur
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Raad van Bestuur vergadert onder leiding van de voorzitter op een door de voorzitter te bepalen wijze en plaats.
 
@@ -95,7 +90,7 @@ De voorzitter van de Raad van Bestuur voert overleg met de Ondernemingsraad.
 
 8. De voorzitter stelt de agenda voor de vergadering van de Raad van Bestuur samen. Hij draagt zorg voor algemene bekendmaking van de agenda, voor zover de vergadering openbaar is. De andere voor de vergadering bestemde stukken stuurt hij naar de deelnemers die het betreft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorzitter is bevoegd de vergadering te openen zodra twee leden van de Raad van Bestuur aanwezig zijn.
 
@@ -109,7 +104,7 @@ De voorzitter van de Raad van Bestuur voert overleg met de Ondernemingsraad.
 
 ### Hoofdstuk 4. De Raad van Advies en de Auditcommissie
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad van Bestuur stelt een Raad van Advies in.
 
@@ -127,123 +122,9 @@ De voorzitter van de Raad van Bestuur voert overleg met de Ondernemingsraad.
 
 8. De Raad van Bestuur besteedt in zijn jaarverslag aandacht aan de adviezen van de Raad van Advies en de wijze waarop hij is omgegaan met deze adviezen.
 
-9. De werkzaamheden van de leden van de Raad van Advies worden vergoed overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=11&z=2018-03-22&g=2018-03-22).
+9. De werkzaamheden van de leden van de Raad van Advies worden vergoed overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=11&z=2018-03-22&g=2026-01-01).
 
-### Hoofdstuk 5. De commissies
-
-#### Artikel 8
-
-1. De Raad van Bestuur kan bij besluit een of meer al dan niet vaste commissies instellen.
-
-2. De Raad van Bestuur stelt voor elke commissie, bedoeld in het eerste lid, een reglement vast waarin hij ten minste de taak, samenstelling en werkwijze regelt.
-
-3. Voor een wettelijke commissie stelt de Raad van Bestuur een reglement vast waarin hij de werkwijze regelt.
-
-4. De Raad van Bestuur stelt een reglement op waarin wordt bepaald op welke wijze voorkomen wordt dat er sprake is van belangenverstrengeling of schijn van belangenverstrengeling bij commissieleden en secretarissen van commissies van het Zorginstituut.
-
-#### Artikel 9
-
-1. De Raad van Bestuur benoemt de voorzitter, de plaatsvervangend voorzitter en de andere leden van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2018-03-22&g=2018-03-22), benoemen.
-
-2. Benoeming van commissieleden van de commissies, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2018-03-22&g=2018-03-22), geldt voor de duur van ten hoogste vier jaar. Na afloop van deze periode kan de Raad van Bestuur de leden steeds opnieuw voor ten hoogste vier jaar benoemen.
-
-3. De leden van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2018-03-22&g=2018-03-22), worden op basis van hun ervaring of deskundigheid benoemd.
-
-4. Een lid van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2018-03-22&g=2018-03-22), kan tussentijds worden ontslagen.
-
-5. De voorzitter van de Raad van Bestuur kan, na overleg met de voorzitter van een commissie, een medewerker van de organisatie van het Zorginstituut als secretaris en plaatsvervangend secretaris van een commissie aanwijzen.
-
-6. De vergaderingen van een commissie zijn niet openbaar, tenzij bij of krachtens het reglement van een commissie anders is bepaald.
-
-#### Artikel 10
-
-1. Het Zorginstituut heeft een vaste commissie die is genaamd Wetenschappelijke Adviesraad.
-
-2. De Wetenschappelijke Adviesraad heeft als taak:
-
-- a. het rapporteren aan de Raad van Bestuur ten behoeve van de advisering aan de minister over farmaceutische hulp;
-
-- b. het adviseren aan de Raad van Bestuur ten behoeve van het Farmacotherapeutisch Kompas;
-
-- c. het adviseren aan de Raad van Bestuur over individuele verzekerings- en indicatiegeschillen, in het bijzonder op grond van [artikel 114 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=114) en [artikel 58 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=58);
-
-- d. het adviseren aan de Raad van Bestuur over het eenduidig uitleggen van de aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11), op grond van [artikel 64 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=64);
-
-- e. het adviseren aan de Raad van Bestuur over het eenduidig uitleggen van de aard, inhoud en omvang van de aanspraken, bedoeld in [artikel 42 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=42).
-
-3. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=9&z=2018-03-22&g=2018-03-22) is van overeenkomstige toepassing op de Wetenschappelijke Adviesraad.
-
-#### Artikel 11
-
-Het Zorginstituut verleent de leden van commissies een vergoeding voor hun werkzaamheden. Bij het verlenen van de vergoeding neemt het Zorginstituut toepasselijke wettelijke regels in acht. Voor zover er geen wettelijke regels voor vergoeding zijn, stelt het Zorginstituut zelf een vergoedingsregeling vast.
-
-### Hoofdstuk 6. Voorbereiding en inspraak ([artikel 3:2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2))
-
-#### Artikel 12
-
-1. Bij de voorbereiding van besluiten, adviezen, rapporten, signalementen, standpunten en richtlijnen draagt de Raad van Bestuur er zorg voor dat de nodige informatievergaring plaats heeft.
-
-2. Informatievergaring gebeurt door eigen onderzoek, het openstellen van deelname aan project- of werkgroepen, het horen van belanghebbenden of op enige andere geschikte wijze.
-
-3. Afhankelijk van de situatie vergaart de Raad van Bestuur informatie mondeling of schriftelijk.
-
-4. De Raad van Bestuur kan bij de voorbereiding van besluiten, adviezen, rapporten, signalementen, standpunten en richtlijnen gebruik maken van een commissie.
-
-#### Artikel 13
-
-1. De Raad van Bestuur kan zelf het initiatief nemen tot inspraak bij de voorbereiding van besluiten en adviezen, rapporten, signalementen, richtlijnen en standpunten.
-
-2. Bij verzoeken om inspraak beoordeelt de Raad van Bestuur of het belang van de verzoeker voldoende is.
-
-3. Inspraak kan in mondelinge of schriftelijke vorm plaats hebben.
-
-4. Indien de Raad van Bestuur dat noodzakelijk acht regelt hij inspraak bij een commissie in het reglement van die commissie of op een andere geschikte wijze.
-
-5. Indien de Raad van Bestuur dat voor een bepaald onderwerp noodzakelijk acht stelt hij daarvoor een inspraakprotocol vast.
-
-#### Artikel 14
-
-Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=6&artikel=12&z=2018-03-22&g=2018-03-22) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=6&artikel=13&z=2018-03-22&g=2018-03-22) onderhoudt de Raad van Bestuur, met het oog op een adequate uitvoering van zijn taken en bevoegdheden, contacten met de vertegenwoordigende organisaties van de belanghebbende partijen op het terrein van de wettelijke zorgverzekeringen en de kwaliteit van zorg.
-
-### Hoofdstuk 7. Klachtenregeling en integriteit
-
-#### Artikel 15
-
-De Raad van Bestuur stelt een klachtenregeling vast.
-
-#### Artikel 16
-
-De Raad van Bestuur stelt een integriteitscode vast.
-
-### Hoofdstuk 8. Vertrouwelijkheid
-
-#### Artikel 17
-
-1. De bestuursleden nemen strikte geheimhouding in acht omtrent alle informatie en documentatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard van de informatie voortvloeit, ook na hun aftreden.
-
-2. Het eerste lid is van overeenkomstige toepassing op diegenen die belast zijn met de administratieve en secretariële ondersteuning van het bestuur en op diegenen die vergaderingen geheel of gedeeltelijk hebben bijgewoond.
-
-### Hoofdstuk 9. Slotbepalingen
-
-#### Artikel 18
-
-In geval van onvoorziene omstandigheden waarin dit bestuursreglement niet voorziet, beslist de voorzitter.
-
-#### Artikel 19
-
-Het [Bestuursreglement College voor zorgverzekeringen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0033353) wordt ingetrokken.
-
-#### Artikel 20
-
-Dit besluit kan worden aangehaald als: Bestuursreglement Zorginstituut Nederland.
-
-#### Artikel 21
-
-Dit besluit treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2014.
-
-Dit besluit, wordt na verkregen goedkeuring van de minister van Volksgezondheid, Welzijn en Sport, geplaatst in de Staatscourant.
-
-#### Artikel 7a
+##### Artikel 7a
 
 1. De Raad van Bestuur stelt een Auditcommissie in.
 
@@ -261,16 +142,116 @@ Dit besluit, wordt na verkregen goedkeuring van de minister van Volksgezondheid,
 
 8. De Raad van Bestuur besteedt in zijn jaarverslag aandacht aan de adviezen van de Auditcommissie en de wijze waarop hij is omgegaan met deze adviezen.
 
-9. De werkzaamheden van de leden van de Auditcommissie worden vergoed overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=11&z=2018-03-22&g=2018-03-22).
+9. De werkzaamheden van de leden van de Auditcommissie worden vergoed overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=11&z=2018-03-22&g=2026-01-01).
 
 ### Hoofdstuk 5. De commissies
 
-### Hoofdstuk 6. Voorbereiding en inspraak ([artikel 3:2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2))
+##### Artikel 8
+
+1. De Raad van Bestuur kan bij besluit een of meer al dan niet vaste commissies instellen.
+
+2. De Raad van Bestuur stelt voor elke commissie, bedoeld in het eerste lid, een reglement vast waarin hij ten minste de taak, samenstelling en werkwijze regelt.
+
+3. Voor een wettelijke commissie stelt de Raad van Bestuur een reglement vast waarin hij de werkwijze regelt.
+
+4. De Raad van Bestuur stelt een reglement op waarin wordt bepaald op welke wijze voorkomen wordt dat er sprake is van belangenverstrengeling of schijn van belangenverstrengeling bij commissieleden en secretarissen van commissies van het Zorginstituut.
+
+##### Artikel 9
+
+1. De Raad van Bestuur benoemt de voorzitter, de plaatsvervangend voorzitter en de andere leden van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2018-03-22&g=2026-01-01), benoemen.
+
+2. Benoeming van commissieleden van de commissies, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2018-03-22&g=2026-01-01), geldt voor de duur van ten hoogste vier jaar. Na afloop van deze periode kan de Raad van Bestuur de leden steeds opnieuw voor ten hoogste vier jaar benoemen.
+
+3. De leden van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2018-03-22&g=2026-01-01), worden op basis van hun ervaring of deskundigheid benoemd.
+
+4. Een lid van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2018-03-22&g=2026-01-01), kan tussentijds worden ontslagen.
+
+5. De voorzitter van de Raad van Bestuur kan, na overleg met de voorzitter van een commissie, een medewerker van de organisatie van het Zorginstituut als secretaris en plaatsvervangend secretaris van een commissie aanwijzen.
+
+6. De vergaderingen van een commissie zijn niet openbaar, tenzij bij of krachtens het reglement van een commissie anders is bepaald.
+
+##### Artikel 10
+
+1. Het Zorginstituut heeft een vaste commissie die is genaamd Wetenschappelijke Adviesraad.
+
+2. De Wetenschappelijke Adviesraad heeft als taak:
+
+- a. het rapporteren aan de Raad van Bestuur ten behoeve van de advisering aan de minister over farmaceutische hulp;
+
+- b. het adviseren aan de Raad van Bestuur ten behoeve van het Farmacotherapeutisch Kompas;
+
+- c. het adviseren aan de Raad van Bestuur over individuele verzekerings- en indicatiegeschillen, in het bijzonder op grond van [artikel 114 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=114) en [artikel 58 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=58);
+
+- d. het adviseren aan de Raad van Bestuur over het eenduidig uitleggen van de aard, inhoud en omvang van de prestaties, bedoeld in [artikel 11 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11), op grond van [artikel 64 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=64);
+
+- e. het adviseren aan de Raad van Bestuur over het eenduidig uitleggen van de aard, inhoud en omvang van de aanspraken, bedoeld in [artikel 42 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=42).
+
+3. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=9&z=2018-03-22&g=2026-01-01) is van overeenkomstige toepassing op de Wetenschappelijke Adviesraad.
+
+##### Artikel 11
+
+Het Zorginstituut verleent de leden van commissies een vergoeding voor hun werkzaamheden. Bij het verlenen van de vergoeding neemt het Zorginstituut toepasselijke wettelijke regels in acht. Voor zover er geen wettelijke regels voor vergoeding zijn, stelt het Zorginstituut zelf een vergoedingsregeling vast.
+
+### Hoofdstuk 6. Voorbereiding en inspraak (artikel 3:2 Algemene wet bestuursrecht)
+
+##### Artikel 12
+
+1. Bij de voorbereiding van besluiten, adviezen, rapporten, signalementen, standpunten en richtlijnen draagt de Raad van Bestuur er zorg voor dat de nodige informatievergaring plaats heeft.
+
+2. Informatievergaring gebeurt door eigen onderzoek, het openstellen van deelname aan project- of werkgroepen, het horen van belanghebbenden of op enige andere geschikte wijze.
+
+3. Afhankelijk van de situatie vergaart de Raad van Bestuur informatie mondeling of schriftelijk.
+
+4. De Raad van Bestuur kan bij de voorbereiding van besluiten, adviezen, rapporten, signalementen, standpunten en richtlijnen gebruik maken van een commissie.
+
+##### Artikel 13
+
+1. De Raad van Bestuur kan zelf het initiatief nemen tot inspraak bij de voorbereiding van besluiten en adviezen, rapporten, signalementen, richtlijnen en standpunten.
+
+2. Bij verzoeken om inspraak beoordeelt de Raad van Bestuur of het belang van de verzoeker voldoende is.
+
+3. Inspraak kan in mondelinge of schriftelijke vorm plaats hebben.
+
+4. Indien de Raad van Bestuur dat noodzakelijk acht regelt hij inspraak bij een commissie in het reglement van die commissie of op een andere geschikte wijze.
+
+5. Indien de Raad van Bestuur dat voor een bepaald onderwerp noodzakelijk acht stelt hij daarvoor een inspraakprotocol vast.
+
+##### Artikel 14
+
+Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=6&artikel=12&z=2018-03-22&g=2026-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=6&artikel=13&z=2018-03-22&g=2026-01-01) onderhoudt de Raad van Bestuur, met het oog op een adequate uitvoering van zijn taken en bevoegdheden, contacten met de vertegenwoordigende organisaties van de belanghebbende partijen op het terrein van de wettelijke zorgverzekeringen en de kwaliteit van zorg.
 
 ### Hoofdstuk 7. Klachtenregeling en integriteit
 
+##### Artikel 15
+
+De Raad van Bestuur stelt een klachtenregeling vast.
+
+##### Artikel 16
+
+De Raad van Bestuur stelt een integriteitscode vast.
+
 ### Hoofdstuk 8. Vertrouwelijkheid
+
+##### Artikel 17
+
+1. De bestuursleden nemen strikte geheimhouding in acht omtrent alle informatie en documentatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard van de informatie voortvloeit, ook na hun aftreden.
+
+2. Het eerste lid is van overeenkomstige toepassing op diegenen die belast zijn met de administratieve en secretariële ondersteuning van het bestuur en op diegenen die vergaderingen geheel of gedeeltelijk hebben bijgewoond.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-Dit besluit, wordt na verkregen goedkeuring van de minister van Volksgezondheid, Welzijn en Sport, geplaatst in de Staatscourant.
+##### Artikel 18
+
+In geval van onvoorziene omstandigheden waarin dit bestuursreglement niet voorziet, beslist de voorzitter.
+
+##### Artikel 19
+
+Het [Bestuursreglement College voor zorgverzekeringen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0033353) wordt ingetrokken.
+
+##### Artikel 20
+
+Dit besluit kan worden aangehaald als: Bestuursreglement Zorginstituut Nederland.
+
+##### Artikel 21
+
+Dit besluit treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2014.

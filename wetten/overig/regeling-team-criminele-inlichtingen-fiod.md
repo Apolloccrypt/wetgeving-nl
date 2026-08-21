@@ -1,66 +1,38 @@
 ---
 title: "Vaststelling van de regeling van de Staatssecretaris van Financiën van 1 december 2014, nr. DB 2014/474M, houdende regels omtrent werkzaamheden en autorisaties van het team criminele inlichtingen FIOD (Regeling team criminele inlichtingen FIOD)"
+citeertitel: "Regeling team criminele inlichtingen FIOD"
 identifier: "BWBR0035861"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-04"
-last_updated: "2025-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035861"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12867763"
-version_id: "21863112"
-internal_id: "C31382281"
-label_id: "12837324"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035861/2025-09-04/0"
-intitule_bron: "Stcrt.2014-34047"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-01"
-intitule_published: "2014-12-05"
-intitule_in_force: "2014-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-34047"
-original_signed_date: "2014-12-01"
-original_published_date: "2014-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-34047"
-entry_into_force_date: "2014-12-06"
-jci_1_3: "jci1.3:c:BWBR0035861&z=2025-09-04&g=2025-09-04"
-jci_1_0: "1.0:c:BWBR0035861&g=2025-09-04"
-citeertitel_status: "officieel"
-short_title: "Regeling team criminele inlichtingen FIOD"
-signed_date: "2014-12-01"
-entry_into_force: "2014-12-06"
+publicatiedatum: 2014-12-06
+laatste_update: 2025-09-04
+status: geldig
+toestand: 2025-09-04
+bron: "https://wetten.overheid.nl/BWBR0035861"
+opgehaald: 2026-08-21
 ---
+
 # Vaststelling van de regeling van de Staatssecretaris van Financiën van 1 december 2014, nr. DB 2014/474M, houdende regels omtrent werkzaamheden en autorisaties van het team criminele inlichtingen FIOD (Regeling team criminele inlichtingen FIOD)
-
-Handelende in overeenstemming met de Minister van Veiligheid en Justitie;
-
-Gelet op [artikel 12 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=12), de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6) en [46 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46), [artikel 2:5 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5) en [artikel 7 van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=7);
-
-Besluit:
 
 ##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **team criminele inlichtingen FIOD:** eenheid als bedoeld in [artikel 12, eerste lid, van de Wet op de bijzondere opsporingsdiensten bij de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=12);
+- a. *team criminele inlichtingen FIOD:* eenheid als bedoeld in [artikel 12, eerste lid, van de Wet op de bijzondere opsporingsdiensten bij de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=12);
 
-- b. **team nationale criminele inlichtingen:** landelijk team van de politie belast met coördinatie van de werkzaamheden betreffende zowel nationale als internationale criminele inlichtingen dat onderdeel vormt van de Eenheid landelijke opsporing en interventies van de politie;
+- b. *team nationale criminele inlichtingen:* landelijk team van de politie belast met coördinatie van de werkzaamheden betreffende zowel nationale als internationale criminele inlichtingen dat onderdeel vormt van de Eenheid landelijke opsporing en interventies van de politie;
 
-- c. **criminele inlichtingen:** gegevens als bedoeld in [artikel 10, eerste lid, aanhef en onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- c. *criminele inlichtingen:* gegevens als bedoeld in [artikel 10, eerste lid, aanhef en onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- d. **informantgegevens:** gegevens omtrent een informant als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), met inbegrip van de door die persoon verstrekte gegevens;
+- d. *informantgegevens:* gegevens omtrent een informant als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), met inbegrip van de door die persoon verstrekte gegevens;
 
-- e. **tci-officier van justitie:** als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van het team criminele inlichtingen FIOD;
+- e. *tci-officier van justitie:* als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van het team criminele inlichtingen FIOD;
 
-- f. **FIOD:** de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst;
+- f. *FIOD:* de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst;
 
-- g. **verantwoordelijke:** Minister van Financiën;
+- g. *verantwoordelijke:* Minister van Financiën;
 
-- h. **centrale verwijzingsindex:** de door de Minister van Justitie en Veiligheid aangewezen systeem- en toepassingsprogrammatuur met behulp waarvan een overzicht kan worden verkregen van de herkenningsdienstgegevens van de politie of van de bijzondere opsporingsdiensten waarin een geregistreerde voorkomt en met behulp waarvan rechtstreekse toegang tot die onderlinge gegevensverwerking kan worden verkregen.
+- h. *centrale verwijzingsindex:* de door de Minister van Justitie en Veiligheid aangewezen systeem- en toepassingsprogrammatuur met behulp waarvan een overzicht kan worden verkregen van de herkenningsdienstgegevens van de politie of van de bijzondere opsporingsdiensten waarin een geregistreerde voorkomt en met behulp waarvan rechtstreekse toegang tot die onderlinge gegevensverwerking kan worden verkregen.
 
 2. De in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=6&z=2025-09-04&g=2025-09-04), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=7&z=2025-09-04&g=2025-09-04), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=8&z=2025-09-04&g=2025-09-04) voorgeschreven handelingen kunnen namens de verantwoordelijke worden verricht door de directeur van de FIOD.
 
@@ -84,9 +56,9 @@ Besluit:
 
 - d. het analyseren van criminele inlichtingen en het aan de hand daarvan:
 
-- 1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463);
+   - 1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463);
 
-- 2°. periodiek verslag doen ten behoeve van criminaliteitsbeelden;
+   - 2°. periodiek verslag doen ten behoeve van criminaliteitsbeelden;
 
 - e. het ter beschikking stellen van criminele inlichtingen overeenkomstig [artikel 10, vijfde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
@@ -147,31 +119,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 1. Deze regeling wordt aangehaald als: Regeling team criminele inlichtingen FIOD.
 
 2. De in het eerste lid genoemde citeertitel kan worden afgekort tot: Regeling tci-FIOD.
-
-## Bijlage I
-
-Het criminele inlichtingen rapport (modelformulier) dient de volgende verplichte rubrieken te bevatten:
-
-### Algemeen
-
-### Herleidbaarheidsinformatie
-
-### Afhandelingscodes
-
-### Inhoud van de tci-informatie
-
-De volgende twee rubrieken (evaluatiecode informant en evaluatiecode informatie afkomstig van informanten) zijn voor de eigen administratie van het tci. Deze gegevens worden niet verstrekt buiten de tci-structuur.
-
-### Evaluatiecode informant
-
-### Evaluatiecode informatie afkomstig van informant
-
-## Bijlage II
-
-### Verwijsindex-gegevens
-
-### Identificatiegegevens
-
-Opmerkingen:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,202 +1,63 @@
 ---
 title: "Besluit van 27 oktober 2014, houdende regels ter uitvoering van de Wet maatschappelijke ondersteuning 2015 (Uitvoeringsbesluit Wmo 2015)"
+citeertitel: "Uitvoeringsbesluit Wmo 2015"
 identifier: "BWBR0035733"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035733"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "12831383"
-version_id: "25893922"
-internal_id: "C36901731"
-label_id: "12801524"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035733/2026-01-01/0"
-intitule_bron: "Stb.2014-420"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-10-27"
-intitule_published: "2014-11-07"
-intitule_in_force: "2014-12-12"
-intitule_status: "goed"
-original_publication: "Stb.2019-225"
-original_signed_date: "2019-06-14"
-original_published_date: "2019-06-26"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2019-225"
-entry_into_force_date: "2019-06-14"
-jci_1_3: "jci1.3:c:BWBR0035733&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0035733&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit Wmo 2015"
-signed_date: "2019-06-14"
-entry_into_force: "2019-06-14"
+publicatiedatum: 2019-06-14
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0035733"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 27 oktober 2014, houdende regels ter uitvoering van de Wet maatschappelijke ondersteuning 2015 (Uitvoeringsbesluit Wmo 2015)
 
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juli 2014, kenmerk 644936-123830-WJZ;
-
-Gelet op [artikelen 1.1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.2), [1.2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.2.2), [2.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4), [2.6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.2), [2.6.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.5), [3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3.3), en [5.4.1, derde en vijfde lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.4.1), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), en [77 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=77), [4, eerste lid, van de Wet wettelijke grondslag bdu siv](https://wetten.overheid.nl/jci1.3:c:BWBR0026724&artikel=4), [29, derde lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=29), [40, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40), [1, tweede lid, van de Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850&artikel=1), [10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10), [2, vijfde lid, van de Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2), [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=15), en [19, tweede lid, van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=19), [11, eerste lid, van de Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [11, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=11), [15, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), [5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5), [90, vijfde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=90), [13, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=13), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5), en [7, tweede lid, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=7) en [16 van het Wetboek van strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=16);
-
-De Afdeling advisering van de Raad van State gehoord advies van 1 oktober 2014, nummer W13.14.0265/III;
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2014, 678491-128032-WJZ;
-
-Hebben goedgevonden en verstaan:
-
 ### Hoofdstuk 1. Begripsbepalingen
-
-### Hoofdstuk 2. Gelijkstelling vreemdeling
-
-### Hoofdstuk 2. Gelijkstelling vreemdeling
-
-### Hoofdstuk 4. Advies- en meldpunt huiselijk geweld en kindermishandeling
-
-### Hoofdstuk 3. Bijdrage in de kosten van een maatwerkvoorziening of een persoonsgebonden budget
-
-##### Artikel 5.1
-
-1. Het college neemt in een overeenkomst met betrekking tot het leveren van maatwerkvoorzieningen op, dat de aanbieder in overleg treedt met de aanbieder of aanbieders die in opdracht van het college laatstelijk voor hem dan wel na hem die maatwerkvoorzieningen hebben verleend dan wel gaan verlenen, over de overname van de betrokken hulpverleners.
-
-2. Het college verleent een opdracht voor het leveren van maatwerkvoorzieningen ten minste drie maanden voor de ingangsdatum van die opdracht.
-
-##### Artikel 5.2
-
-1. Teneinde te komen tot de afspraken, bedoeld in [artikel 5.4.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.4.1), nodigt het college, zo veel als mogelijk in samenwerking met andere colleges in de regio, de in die regio werkzame zorgverzekeraars periodiek uit voor overleg.
-
-2. Indien het college en de zorgverzekeraars gezamenlijk oordelen dat dit met het oog op het maken van goede afspraken wenselijk is, nodigt het college ook andere in de regio op de in [artikel 5.4.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.4.1) genoemde terreinen werkzame organisaties en instanties uit voor overleg. Artikel 5.4.1, eerste, tweede en vierde lid, van de wet is op deze organisaties en instanties van overeenkomstige toepassing.
-
-##### Artikel 5.3
-
-Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van de taak, bedoeld in [artikel 2.6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.2) door de Sociale verzekeringsbank, genoemd in [artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3).
-
-### Hoofdstuk 6. Wijziging van andere besluiten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-### Hoofdstuk 8. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6.1
-
-Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen.
-
-##### Artikel 6.2
-
-Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998.
-
-##### Artikel 6.3
-
-Wijzigt het Besluit beperking verkoop en gebruik tabaksprodukten.
-
-##### Artikel 6.4
-
-Wijzigt het Besluit bijzondere militaire pensioenen.
-
-##### Artikel 6.5
-
-Besluit decentralisatie- en integratie-uitkeringen.
-
-##### Artikel 6.6
-
-Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.
-
-##### Artikel 6.7
-
-Wijzigt het Besluit huurprijzen woonruimte.
-
-##### Artikel 6.8
-
-Wijzigt het Besluit maatschappelijke ondersteuning.
-
-##### Artikel 6.9
-
-Wijzigt het Besluit tijdelijke verruiming toepassingsbereik concentratietoezicht op ondernemingen die zorg verlenen.
-
-##### Artikel 6.10
-
-Wijzigt het Besluit Wfsv.
-
-##### Artikel 6.11
-
-Wijzigt de Reclasseringsregeling 1995.
-
-##### Artikel 6.12
-
-Wijzigt het Besluit van 11 december 1996, houdende uitvoering van artikel 1, tweede lid, van de Kwaliteitswet zorginstellingen en wijziging van enige besluiten op grond van de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten.
-
-##### Artikel 6.13
-
-Wijzigt het Bijdragebesluit zorg.
-
-##### Artikel 6.14
-
-Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.
-
-##### Artikel 6.15
-
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
-
-##### Artikel 6.16
-
-Wijzigt het Uitvoeringsbesluit WTZi.
-
-##### Artikel 6.17
-
-Wijzigt het Veteranenbesluit.
-
-##### Artikel 6.18
-
-Wijzigt het Zorgindicatiebesluit.
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-### Hoofdstuk 8. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **belasting:**
+- – *belasting:*
 
-- 1°. indien over het peiljaar een aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: de over dat jaar verschuldigde inkomstenbelasting, bedoeld in [artikel 2.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7), vermeerderd met de over dat jaar verschuldigde premie voor de volksverzekeringen, bedoeld in [artikel 9 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=9);
+   - 1°. indien over het peiljaar een aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: de over dat jaar verschuldigde inkomstenbelasting, bedoeld in [artikel 2.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7), vermeerderd met de over dat jaar verschuldigde premie voor de volksverzekeringen, bedoeld in [artikel 9 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=9);
 
-- 2°. in de overige gevallen: het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 2°, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
+   - 2°. in de overige gevallen: het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 2°, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
 
-- –. **bijdrage:** bijdrage in de kosten van een maatwerkvoorziening of een persoonsgebonden budget;
+- – *bijdrage:* bijdrage in de kosten van een maatwerkvoorziening of een persoonsgebonden budget;
 
-- **grondslag sparen en beleggen:** grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2);
+- *grondslag sparen en beleggen:* grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2);
 
-- –. **inkomen:**
+- – *inkomen:*
 
-- 1°. indien over het peiljaar een aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
+   - 1°. indien over het peiljaar een aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
 
-- 2°. in de overige gevallen: het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 2°, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
+   - 2°. in de overige gevallen: het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 2°, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
 
-- –. **peiljaar:** tweede kalenderjaar voorafgaande aan het kalenderjaar waarvoor een bijdrage wordt vastgesteld;
+- – *peiljaar:* tweede kalenderjaar voorafgaande aan het kalenderjaar waarvoor een bijdrage wordt vastgesteld;
 
-- –. **pensioengerechtigde leeftijd:** de pensioengerechtigde leeftijd als bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
+- – *pensioengerechtigde leeftijd:* de pensioengerechtigde leeftijd als bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
 
-- –. **rendementsgrondslag :** rendementsgrondslag, bedoeld in [artikel 5.3, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3);
+- – *rendementsgrondslag :* rendementsgrondslag, bedoeld in [artikel 5.3, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3);
 
-- –. **standaardpremie:** het bedrag als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1);
+- – *standaardpremie:* het bedrag als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1);
 
-- –. **vermogen:** vermogen als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2026-01-01&g=2026-01-01);
+- – *vermogen:* vermogen als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2026-01-01&g=2026-01-01);
 
-- –. **vermogensinkomensbijtelling:** bijtelling van het vermogen als bedoeld in [artikel 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.2a&z=2026-01-01&g=2026-01-01);
+- – *vermogensinkomensbijtelling:* bijtelling van het vermogen als bedoeld in [artikel 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.2a&z=2026-01-01&g=2026-01-01);
 
-- –. **wet:** [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
+- – *wet:*
+ [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
 
-- –. **zak- en kleedgeld:** bedrag als bedoeld in [artikel 23, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=23);
+- – *zak- en kleedgeld:* bedrag als bedoeld in [artikel 23, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=23);
 
-- –. **zorgtoeslag:** tegemoetkoming als bedoeld in [artikel 1 van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1);
+- – *zorgtoeslag:* tegemoetkoming als bedoeld in [artikel 1 van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1);
 
-- –. **zorgverzekering:** verzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
+- – *zorgverzekering:* verzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
+
+### Hoofdstuk 2. Gelijkstelling vreemdeling
 
 ##### Artikel 2.1
 
@@ -215,6 +76,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting ingevolge de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of op grond van een rechterlijke beslissing achterwege dient te blijven; of
 
 - c. het rechtmatig verblijf, onverminderd de onderdelen a en b, op grond van [artikel 8, onderdeel f, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd.
+
+### Hoofdstuk 3. Bijdrage in de kosten van een maatwerkvoorziening of een persoonsgebonden budget
 
 #### § 1. Algemeen
 
@@ -246,6 +109,10 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij ministeriële regeling kan een periode worden vastgesteld gedurende welke het bedrag van een uitkering als bedoeld in het eerste lid, kan worden afgetrokken, welke periode kan verschillen per uitkering.
 
+##### Artikel 3.2a
+
+De vermogensinkomensbijtelling bedraagt 4% van het vermogen van de ongehuwde cliënt, dan wel de opgetelde vermogens van de gehuwde cliënten.
+
 ##### Artikel 3.3
 
 1. De cliënt betaalt:
@@ -270,7 +137,7 @@ Het CAK kan een afwijkende termijn vaststellen.
 
 ##### Artikel 3.4
 
-1. Een wijziging in de burgerlijke staat van de cliënt en het bereiken van een voor de toepassing van dit besluit van belang zijnde leeftijd door de cliënt of zijn echtgenoot wordt in aanmerking genomen met ingang van de datum waarop de bijdrage wordt vastgesteld, met dien verstande dat bij de jaarlijkse herberekening, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.18&z=2026-01-01&g=2026-01-01), een cliënt als pensioengerechtigde wordt beschouwd indien hij uiterlijk op 31 januari van het kalenderjaar waarop de herberekening betrekking heeft, de pensioengerechtigde leeftijd heeft bereikt.
+1. Een wijziging in de burgerlijke staat van de cliënt en het bereiken van een voor de toepassing van dit besluit van belang zijnde leeftijd door de cliënt of zijn echtgenoot wordt in aanmerking genomen met ingang van de datum waarop de bijdrage wordt vastgesteld, met dien verstande dat bij de jaarlijkse herberekening, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.18&z=2026-01-01&g=2026-01-01), een cliënt als pensioengerechtigde wordt beschouwd indien hij uiterlijk op 31 januari van het kalenderjaar waarop de herberekening betrekking heeft, de pensioengerechtigde leeftijd heeft bereikt.
 
 2. Een omstandigheid aangaande de cliënt of zijn echtgenoot die voor de toepassing van dit besluit van belang is wordt in aanmerking genomen met ingang van de maand na het ingangstijdstip dat het CAK in kennis is gesteld van deze omstandigheid of, indien dat tijdstip op de eerste dag van de maand valt, met ingang van de maand waarin het ingangstijdstip valt dat het CAK in kennis is gesteld van deze omstandigheid.
 
@@ -370,13 +237,17 @@ Het CAK kan een afwijkende termijn vaststellen.
 
 1. Het bijdrageplichtig inkomen, bedoeld in [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2026-01-01&g=2026-01-01) bedraagt het inkomen over het peiljaar van de ongehuwde cliënt, onderscheidenlijk van de gehuwde cliënten tezamen, vermeerderd met de vermogensinkomensbijtelling.
 
-2. Op aanvraag van de cliënt stelt het CAK voor de berekening van de verlaagde bijdrage, bedoeld in [artikel 3.8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2026-01-01&g=2026-01-01), in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op basis van het redelijkerwijs gedurende het lopende kalenderjaar te verwachten inkomen, vermeerderd met de vermogensinkomensbijtelling van het verwachte vermogen in het lopende jaar, indien het bijdrageplichtig inkomen in het lopende jaar ten minste € 3.293,60 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid.
+2. Op aanvraag van de cliënt stelt het CAK voor de berekening van de verlaagde bijdrage, bedoeld in [artikel 3.8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2026-01-01&g=2026-01-01), in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op basis van het redelijkerwijs gedurende het lopende kalenderjaar te verwachten inkomen, vermeerderd met de vermogensinkomensbijtelling van het verwachte vermogen in het lopende jaar, indien het bijdrageplichtig inkomen in het lopende jaar ten minste € 3.293,60 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid.
 
 3. De aanvraag, bedoeld in het tweede lid, wordt gedaan uiterlijk vier maanden na afloop van het kalenderjaar waarop de aanvraag betrekking heeft of uiterlijk vier maanden na de datum waarop de bijdrage, bedoeld in het eerste lid, wordt vastgesteld.
 
-4. Indien het tweede lid is toegepast, vindt na afloop van het jaar en na ontvangst van definitieve inkomens- en vermogensgegevens definitieve vaststelling plaats. Indien daarbij blijkt dat het bijdrageplichtig inkomen in het lopende jaar minder dan € 3.293,60 lager is geweest dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, vindt definitieve vaststelling plaats overeenkomstig het eerste lid.
+4. Indien het tweede lid is toegepast, vindt na afloop van het jaar en na ontvangst van definitieve inkomens- en vermogensgegevens definitieve vaststelling plaats. Indien daarbij blijkt dat het bijdrageplichtig inkomen in het lopende jaar minder dan € 3.293,60 lager is geweest dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, vindt definitieve vaststelling plaats overeenkomstig het eerste lid.
 
 5. Inkomen dat in het buitenland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de cliënt wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.
+
+##### Artikel 3.9a
+
+*Vervallen*
 
 ##### Artikel 3.10
 
@@ -387,6 +258,20 @@ Het CAK kan een afwijkende termijn vaststellen.
 ##### Artikel 3.10a
 
 Over een gedeelte van de maand is de bijdrage, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2026-01-01&g=2026-01-01), gelijk aan het volledige bedrag, bedoeld in [artikel 2.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4), of [2.1.4a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4a) of een lager bedrag dat de gemeente op grond van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2026-01-01&g=2026-01-01) heeft vastgesteld.
+
+##### Artikel 3.10b
+
+1. Het college ziet toe op het niet overschrijden van de kostprijs van een hulpmiddel of woningaanpassing, bedoeld in [artikel 2.1.4a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4a), aan de hand van de totale kostprijs.
+
+2. Indien het college het CAK in kennis stelt van de totale kostprijs, bedoeld in het eerste lid, ziet het CAK voor het college toe op het niet overschrijden van die kostprijs.
+
+3. Bij het bepalen of de kostprijs niet wordt overschreden, wordt door het CAK, in afwijking van [artikel 3.8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2026-01-01&g=2026-01-01), het bedrag, bedoeld in [artikel 2.1.4 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4), of [2.1.4a, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4a), elke maand in mindering gebracht op de kostprijs.
+
+4. Het CAK gaat bij een samenloop van meerdere voorzieningen voor een cliënt uit van de kostprijs van één door het college aangewezen voorziening. Het college geeft aan bij welke voorziening het CAK toeziet op het niet overschrijden van de kostprijs, bedoeld in het eerste lid.
+
+5. Indien de totale kostprijs wordt bereikt geeft het CAK daarvan onmiddellijk kennis aan het college.
+
+6. Het CAK staakt de inning van de bijdrage nadat het college om staking van de inning heeft verzocht. Als de resterende totale kostprijs lager is dan de verschuldigde bijdrage per maand wordt die bijdrage niet geïnd.
 
 #### § 3. Bijdragen voor beschermd wonen
 
@@ -400,7 +285,7 @@ Over een gedeelte van de maand is de bijdrage, bedoeld in [artikel 3.1, tweede l
 
 - c. de gehuwde cliënt wiens echtgenoot een bijdrage ingevolge [artikel 3.3.2.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1) verschuldigd is.
 
-2. De bijdrage, bedoeld in het eerste lid, bedraagt niet meer dan € 3.061,80 per maand.
+2. De bijdrage, bedoeld in het eerste lid, bedraagt niet meer dan € 3.061,80 per maand.
 
 3. In het geval, bedoeld in het eerste lid, onderdeel c, zijn de cliënt en zijn echtgenoot tezamen slechts eenmaal de bijdrage, berekend overeenkomstig het eerste en tweede lid, verschuldigd.
 
@@ -422,9 +307,9 @@ Over een gedeelte van de maand is de bijdrage, bedoeld in [artikel 3.1, tweede l
 
 - b. de gehuwde cliënten tezamen van wie één in een instelling voor beschermd wonen verblijft of een persoonsgebonden budget voor beschermd wonen is verleend en wiens echtgenoot een persoonsgebonden budget of een andere maatwerkvoorziening ontvangt;
 
-- c. de gehuwde cliënt die in een instelling voor beschermd wonen verblijft of een persoonsgebonden budget voor beschermd wonen is verleend en wiens echtgenoot zorg ontvangt als bedoeld in [artikel 3.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1), voor zover het zorg met verblijf in een instelling, een volledig pakket thuis, een modulair pakket thuis of een persoonsgebonden budget betreft, met dien verstande dat de cliënt en zijn echtgenoot tezamen de bijdrage slechts eenmaal verschuldigd zijn.
+- c. de gehuwde cliënt die in een instelling voor beschermd wonen verblijft of een persoonsgebonden budget voor beschermd wonen is verleend en wiens echtgenoot zorg ontvangt als bedoeld in [artikel 3.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1), voor zover het zorg met verblijf in een instelling, een volledig pakket thuis, een modulair pakket thuis of een persoonsgebonden budget betreft, met dien verstande dat de cliënt en zijn echtgenoot tezamen de bijdrage slechts eenmaal verschuldigd zijn.
 
-3. De bijdrage voor beschermd wonen, bedoeld in het eerste en tweede lid, bedraagt ten minste € 212,60 en niet meer dan € 1.115,80 per maand.
+3. De bijdrage voor beschermd wonen, bedoeld in het eerste en tweede lid, bedraagt ten minste € 212,60 en niet meer dan € 1.115,80 per maand.
 
 4. De onderdelen a en b van het eerste lid zijn niet van toepassing indien:
 
@@ -452,11 +337,11 @@ Over een gedeelte van de maand is de bijdrage, bedoeld in [artikel 3.1, tweede l
 
 - b. op het met toepassing van onderdeel a berekende bedrag worden in mindering gebracht:
 
-- 1°. 15% van de netto-opbrengst van in het voorafgaande kalenderjaar verrichte arbeid, van een loon- of salarisdoorbetaling wegens ziekte of van een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) dan wel, indien dit onbekend of niet beschikbaar is, 15% van de redelijkerwijs te verwachten netto-opbrengst van in het lopende kalenderjaar verrichte arbeid, van een loon- of salarisdoorbetaling wegens ziekte of van een uitkering op grond van de Ziektewet;
+   - 1°. 15% van de netto-opbrengst van in het voorafgaande kalenderjaar verrichte arbeid, van een loon- of salarisdoorbetaling wegens ziekte of van een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) dan wel, indien dit onbekend of niet beschikbaar is, 15% van de redelijkerwijs te verwachten netto-opbrengst van in het lopende kalenderjaar verrichte arbeid, van een loon- of salarisdoorbetaling wegens ziekte of van een uitkering op grond van de Ziektewet;
 
-- 2°. het in het peiljaar geldende zak- en kleedgeld, premies voor een zorgverzekering gecorrigeerd voor de zorgtoeslag, een aftrekpost die verschillend kan zijn voor een cliënt die de pensioengerechtigde leeftijd heeft bereikt en een cliënt die die leeftijd nog niet heeft bereikt of extra vrijlatingen, een en ander volgens bij ministeriële regeling te bepalen regels;
+   - 2°. het in het peiljaar geldende zak- en kleedgeld, premies voor een zorgverzekering gecorrigeerd voor de zorgtoeslag, een aftrekpost die verschillend kan zijn voor een cliënt die de pensioengerechtigde leeftijd heeft bereikt en een cliënt die die leeftijd nog niet heeft bereikt of extra vrijlatingen, een en ander volgens bij ministeriële regeling te bepalen regels;
 
-- 3°. op aanvraag van de cliënt, de in het peiljaar geldende uitkering op grond van [artikel 14 van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14) of op grond van [artikel 20 van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=20);
+   - 3°. op aanvraag van de cliënt, de in het peiljaar geldende uitkering op grond van [artikel 14 van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14) of op grond van [artikel 20 van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=20);
 
 - c. het met toepassing van onderdeel b berekende bedrag wordt vermeerderd met de vermogensinkomensbijtelling.
 
@@ -472,17 +357,21 @@ Over een gedeelte van de maand is de bijdrage, bedoeld in [artikel 3.1, tweede l
 
 1. Voor de berekening van de bijdrage, bedoeld in [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-01-01&g=2026-01-01), bestaat het bijdrageplichtig inkomen uit het inkomen over het peiljaar van de ongehuwde cliënt, onderscheidenlijk van de gehuwde cliënten tezamen, vermeerderd met de vermogensinkomensbijtelling.
 
-2. Op aanvraag van de cliënt stelt het CAK, in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op grond van het inkomen en het vermogen van het lopende jaar, indien redelijkerwijs te verwachten is dat het bijdrageplichtig inkomen in het lopende jaar ten minste € 3.293,60 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, dan wel indien de verzekerde algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangt.
+2. Op aanvraag van de cliënt stelt het CAK, in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op grond van het inkomen en het vermogen van het lopende jaar, indien redelijkerwijs te verwachten is dat het bijdrageplichtig inkomen in het lopende jaar ten minste € 3.293,60 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, dan wel indien de verzekerde algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangt.
 
 3. De aanvraag, bedoeld in het tweede lid, wordt gedaan uiterlijk vier maanden na afloop van het kalenderjaar waarop de aanvraag betrekking heeft of uiterlijk vier maanden na de datum waarop de bijdrage, bedoeld in het eerste lid, wordt vastgesteld.
 
-4. Indien het tweede lid is toegepast, vindt na afloop van het jaar en na ontvangst van de definitieve inkomens- en vermogensgegevens definitieve vaststelling plaats. Indien daarbij blijkt dat het bijdrageplichtig inkomen over het lopende jaar minder dan € 3.293,60 lager is geweest dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, vindt definitieve vaststelling plaats overeenkomstig het eerste lid.
+4. Indien het tweede lid is toegepast, vindt na afloop van het jaar en na ontvangst van de definitieve inkomens- en vermogensgegevens definitieve vaststelling plaats. Indien daarbij blijkt dat het bijdrageplichtig inkomen over het lopende jaar minder dan € 3.293,60 lager is geweest dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, vindt definitieve vaststelling plaats overeenkomstig het eerste lid.
 
 5. Inkomen dat buiten Nederland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de cliënt wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.
 
+##### Artikel 3.14a
+
+*Vervallen*
+
 ##### Artikel 3.15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3.16
 
@@ -520,9 +409,9 @@ Indien [artikel 3.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR003573
 
 2. De bijdrage, bedoeld in het eerste lid, is niet verschuldigd indien de cliënt of zijn echtgenoot gedurende twee of meer nachten aaneengesloten een maand in een instelling voor beschermd wonen verblijft.
 
-### Hoofdstuk 4. Advies- en meldpunt huiselijk geweld en kindermishandeling
+### Hoofdstuk 4. Veilig Thuis
 
-#### § 4. Bijdragen voor opvang
+#### § 1. Werkwijze en deskundigheid
 
 ##### Artikel 4.1.1
 
@@ -596,9 +485,9 @@ Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd, bedoeld 
 
 - b. met inachtneming van de [artikelen 4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.12), [5.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.1.6) en [5.3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.3.1):
 
-- 1°. de verwerking van persoonsgegevens; en
+   - 1°. de verwerking van persoonsgegevens; en
 
-- 2°. het recht op inzage in of afschrift van de hem betreffende bescheiden; en
+   - 2°. het recht op inzage in of afschrift van de hem betreffende bescheiden; en
 
 - c. de wijze van behandeling van klachten.
 
@@ -606,11 +495,11 @@ Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd, bedoeld 
 
 - a. een persoon die in een beroepsmatige, hulpverlenende of pedagogische relatie tot het slachtoffer of het vermoedelijke slachtoffer of zijn huiselijke kring staat, de persoonsgegevens naar aanleiding van een melding heeft verstrekt en het verstrekken van die inlichtingen:
 
-- 1°. een bedreiging vormt of kan vormen voor het slachtoffer of het vermoedelijke slachtoffer of zijn huiselijke kring;
+   - 1°. een bedreiging vormt of kan vormen voor het slachtoffer of het vermoedelijke slachtoffer of zijn huiselijke kring;
 
-- 2°. een bedreiging vormt of kan vormen voor de persoon, bedoeld onder a, of medewerkers van die persoon, of
+   - 2°. een bedreiging vormt of kan vormen voor de persoon, bedoeld onder a, of medewerkers van die persoon, of
 
-- 3°. leidt of kan leiden tot een ernstige verstoring van de vertrouwensrelatie met de huiselijke kring waartoe het slachtoffer of het vermoedelijke slachtoffer behoort;
+   - 3°. leidt of kan leiden tot een ernstige verstoring van de vertrouwensrelatie met de huiselijke kring waartoe het slachtoffer of het vermoedelijke slachtoffer behoort;
 
 - b. het andere personen betreft dan die bedoeld onder a, behoudens voor zover zij daarvoor toestemming hebben gegeven.
 
@@ -652,7 +541,7 @@ Onverminderd het bij of krachtens de wet bepaalde verschaft Veilig Thuis aan de 
 
 ##### Artikel 4.2.7
 
-Vervallen
+*Vervallen*
 
 #### § 3. Beleidsinformatie
 
@@ -702,159 +591,7 @@ Vervallen
 
 2. Bij de regeling, bedoeld in het eerste lid, wordt een informatieprotocol vastgesteld.
 
-### Hoofdstuk 5. Overige bepalingen
-
 ### Hoofdstuk 4a. Tolkvoorzieningen auditief gehandicapten leefdomein
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-##### Artikel 7.1
-
-Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) berust het [Besluit aanwijzing registraties gezamenlijke huishouding 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009280) op [artikel 1.1.2, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.2).
-
-##### Artikel 7.2
-
-Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) berust het [Besluit verplichte meldcode huiselijk geweld en kindermishandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033723) op [artikel 3.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3.3).
-
-##### Artikel 7.3
-
-Vervallen
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-##### Artikel 8.1
-
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-##### Artikel 8.2
-
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit Wmo 2015.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7.4
-
-Vervallen
-
-### Hoofdstuk 8. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5.4
-
-1. Bij verordening als bedoeld in [artikel 2.6.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.6) wordt aandacht besteed aan de wijze waarop tariefdifferentiatie wordt bevorderd en wordt geregeld dat de prijs voor een dienst ten minste is gebaseerd op de volgende kostprijselementen:
-
-- a. de kosten van de beroepskracht;
-
-- b. redelijke overheadkosten;
-
-- c. kosten voor niet productieve uren van de beroepskrachten als gevolg van verlof, ziekte, scholing, werkoverleg;
-
-- d. reis en opleidingskosten;
-
-- e. indexering van de prijs voor het leveren van een dienst; en
-
-- f. overige kosten als gevolg van door de gemeente gestelde verplichtingen voor aanbieders waaronder rapportageverplichtingen en administratieve verplichtingen.
-
-2. Bij ministeriële regeling kunnen regels worden gesteld over de indexering, bedoeld in het eerste lid, onderdeel e.
-
-3. Het eerste lid geldt voor een subsidie slechts voor zover zij wordt verstrekt voor het daadwerkelijk verrichten van diensten voor cliënten en met de subsidie wordt beoogd de te subsidiëren diensten volledig te bekostigen.
-
-### Hoofdstuk 4a. Tolkvoorzieningen auditief gehandicapten leefdomein
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.9a
-
-Vervallen
-
-#### § 3. Bijdragen voor beschermd wonen
-
-##### Artikel 3.14a
-
-Vervallen
-
-#### § 4. Bijdragen voor opvang
-
-### Hoofdstuk 4. Advies- en meldpunt huiselijk geweld en kindermishandeling
-
-#### § 4. Bijdragen voor opvang
-
-#### § 2. De vertrouwenspersoon
-
-#### § 3. Beleidsinformatie
-
-### Hoofdstuk 5. Overige bepalingen
-
-### Hoofdstuk 6. Wijziging van andere besluiten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-### Hoofdstuk 8. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.2a
-
-De vermogensinkomensbijtelling bedraagt 4% van het vermogen van de ongehuwde cliënt, dan wel de opgetelde vermogens van de gehuwde cliënten.
-
-#### § 2. Bijdragen voor maatschappelijke ondersteuning
-
-#### § 3. Bijdragen voor beschermd wonen
-
-### Hoofdstuk 4. Advies- en meldpunt huiselijk geweld en kindermishandeling
-
-#### § 1. Werkwijze en deskundigheid
-
-#### § 2. De vertrouwenspersoon
-
-#### § 3. Beleidsinformatie
-
-### Hoofdstuk 4a. Tolkvoorzieningen auditief gehandicapten leefdomein
-
-### Hoofdstuk 6. Wijziging van andere besluiten
-
-### Hoofdstuk 8. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.10b
-
-1. Het college ziet toe op het niet overschrijden van de kostprijs van een hulpmiddel of woningaanpassing, bedoeld in [artikel 2.1.4a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4a), aan de hand van de totale kostprijs.
-
-2. Indien het college het CAK in kennis stelt van de totale kostprijs, bedoeld in het eerste lid, ziet het CAK voor het college toe op het niet overschrijden van die kostprijs.
-
-3. Bij het bepalen of de kostprijs niet wordt overschreden, wordt door het CAK, in afwijking van [artikel 3.8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2026-01-01&g=2026-01-01), het bedrag, bedoeld in [artikel 2.1.4 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4), of [2.1.4a, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4a), elke maand in mindering gebracht op de kostprijs.
-
-4. Het CAK gaat bij een samenloop van meerdere voorzieningen voor een cliënt uit van de kostprijs van één door het college aangewezen voorziening. Het college geeft aan bij welke voorziening het CAK toeziet op het niet overschrijden van de kostprijs, bedoeld in het eerste lid.
-
-5. Indien de totale kostprijs wordt bereikt geeft het CAK daarvan onmiddellijk kennis aan het college.
-
-6. Het CAK staakt de inning van de bijdrage nadat het college om staking van de inning heeft verzocht. Als de resterende totale kostprijs lager is dan de verschuldigde bijdrage per maand wordt die bijdrage niet geïnd.
-
-##### Artikel 3.10a
-
-Vervallen
-
-#### § 3. Bijdragen voor beschermd wonen
-
-### Hoofdstuk 4. Advies- en meldpunt huiselijk geweld en kindermishandeling
-
-#### § 1. Werkwijze en deskundigheid
-
-#### § 2. De vertrouwenspersoon
-
-#### § 3. Beleidsinformatie
-
-### Hoofdstuk 5. Overige bepalingen
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 #### § 1. Toekenning tolkdiensten
 
@@ -898,9 +635,9 @@ Het UWV kan tolkdiensten toekennen aan instellingen voor activiteiten die zich m
 
 - b. een persoon, bedoeld in [artikel 3a.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.1):
 
-- 1°. in spoedeisende gevallen;
+   - 1°. in spoedeisende gevallen;
 
-- 2°. indien de onverkorte toepassing van [artikel 4a.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4a&paragraaf=1&artikel=4a.1.1&z=2026-01-01&g=2026-01-01) leidt tot onbillijkheden van overwegende aard.
+   - 2°. indien de onverkorte toepassing van [artikel 4a.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4a&paragraaf=1&artikel=4a.1.1&z=2026-01-01&g=2026-01-01) leidt tot onbillijkheden van overwegende aard.
 
 2. De ambtshalve toekenning bedoeld in het eerste lid kan ook betrekking hebben op vreemdelingen als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1).
 
@@ -910,48 +647,142 @@ Het UWV kan tolkdiensten toekennen aan instellingen voor activiteiten die zich m
 
 Tolkendiensten van tolken komen alleen voor vergoeding in aanmerking op grond van [artikel 3a.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.1), als de tolken ingeschreven staan in het openbaar register van de Stichting Register Tolken Gebarentaal en Schrijftolken.
 
-### Hoofdstuk 6. Wijziging van andere besluiten
-
-### Hoofdstuk 8. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 1. Toekenning tolkdiensten
-
-#### § 2. Kwaliteitseisen tolkdiensten
-
 ### Hoofdstuk 5. Overige bepalingen
 
+##### Artikel 5.1
+
+1. Het college neemt in een overeenkomst met betrekking tot het leveren van maatwerkvoorzieningen op, dat de aanbieder in overleg treedt met de aanbieder of aanbieders die in opdracht van het college laatstelijk voor hem dan wel na hem die maatwerkvoorzieningen hebben verleend dan wel gaan verlenen, over de overname van de betrokken hulpverleners.
+
+2. Het college verleent een opdracht voor het leveren van maatwerkvoorzieningen ten minste drie maanden voor de ingangsdatum van die opdracht.
+
+##### Artikel 5.2
+
+1. Teneinde te komen tot de afspraken, bedoeld in [artikel 5.4.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.4.1), nodigt het college, zo veel als mogelijk in samenwerking met andere colleges in de regio, de in die regio werkzame zorgverzekeraars periodiek uit voor overleg.
+
+2. Indien het college en de zorgverzekeraars gezamenlijk oordelen dat dit met het oog op het maken van goede afspraken wenselijk is, nodigt het college ook andere in de regio op de in [artikel 5.4.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.4.1) genoemde terreinen werkzame organisaties en instanties uit voor overleg. Artikel 5.4.1, eerste, tweede en vierde lid, van de wet is op deze organisaties en instanties van overeenkomstige toepassing.
+
+##### Artikel 5.3
+
+Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van de taak, bedoeld in [artikel 2.6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.2) door de Sociale verzekeringsbank, genoemd in [artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3).
+
+##### Artikel 5.4
+
+1. Bij verordening als bedoeld in [artikel 2.6.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.6) wordt aandacht besteed aan de wijze waarop tariefdifferentiatie wordt bevorderd en wordt geregeld dat de prijs voor een dienst ten minste is gebaseerd op de volgende kostprijselementen:
+
+- a. de kosten van de beroepskracht;
+
+- b. redelijke overheadkosten;
+
+- c. kosten voor niet productieve uren van de beroepskrachten als gevolg van verlof, ziekte, scholing, werkoverleg;
+
+- d. reis en opleidingskosten;
+
+- e. indexering van de prijs voor het leveren van een dienst; en
+
+- f. overige kosten als gevolg van door de gemeente gestelde verplichtingen voor aanbieders waaronder rapportageverplichtingen en administratieve verplichtingen.
+
+2. Bij ministeriële regeling kunnen regels worden gesteld over de indexering, bedoeld in het eerste lid, onderdeel e.
+
+3. Het eerste lid geldt voor een subsidie slechts voor zover zij wordt verstrekt voor het daadwerkelijk verrichten van diensten voor cliënten en met de subsidie wordt beoogd de te subsidiëren diensten volledig te bekostigen.
+
 ### Hoofdstuk 6. Wijziging van andere besluiten
+
+##### Artikel 6.1
+
+*Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen.*
+
+##### Artikel 6.2
+
+*Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998.*
+
+##### Artikel 6.3
+
+*Wijzigt het Besluit beperking verkoop en gebruik tabaksprodukten.*
+
+##### Artikel 6.4
+
+*Wijzigt het Besluit bijzondere militaire pensioenen.*
+
+##### Artikel 6.5
+
+*Besluit decentralisatie- en integratie-uitkeringen.*
+
+##### Artikel 6.6
+
+*Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.*
+
+##### Artikel 6.7
+
+*Wijzigt het Besluit huurprijzen woonruimte.*
+
+##### Artikel 6.8
+
+*Wijzigt het Besluit maatschappelijke ondersteuning.*
+
+##### Artikel 6.9
+
+*Wijzigt het Besluit tijdelijke verruiming toepassingsbereik concentratietoezicht op ondernemingen die zorg verlenen.*
+
+##### Artikel 6.10
+
+*Wijzigt het Besluit Wfsv.*
+
+##### Artikel 6.11
+
+*Wijzigt de Reclasseringsregeling 1995.*
+
+##### Artikel 6.12
+
+*Wijzigt het Besluit van 11 december 1996, houdende uitvoering van artikel 1, tweede lid, van de Kwaliteitswet zorginstellingen en wijziging van enige besluiten op grond van de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten.*
+
+##### Artikel 6.13
+
+*Wijzigt het Bijdragebesluit zorg.*
+
+##### Artikel 6.14
+
+*Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.*
+
+##### Artikel 6.15
+
+*Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.*
+
+##### Artikel 6.16
+
+*Wijzigt het Uitvoeringsbesluit WTZi.*
+
+##### Artikel 6.17
+
+*Wijzigt het Veteranenbesluit.*
+
+##### Artikel 6.18
+
+*Wijzigt het Zorgindicatiebesluit.*
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-### Hoofdstuk 8. Inwerkingtreding en citeertitel
+##### Artikel 7.1
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) berust het [Besluit aanwijzing registraties gezamenlijke huishouding 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009280) op [artikel 1.1.2, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.2).
 
-#### § 3. Bijdragen voor beschermd wonen
+##### Artikel 7.2
 
-#### § 4. Bijdragen voor opvang
+Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) berust het [Besluit verplichte meldcode huiselijk geweld en kindermishandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033723) op [artikel 3.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3.3).
 
-### Hoofdstuk 4. Veilig Thuis
+##### Artikel 7.3
 
-#### § 1. Werkwijze en deskundigheid
+*Vervallen*
 
-#### § 2. De vertrouwenspersoon
+##### Artikel 7.4
 
-#### § 3. Beleidsinformatie
-
-#### § 1. Toekenning tolkdiensten
-
-#### § 2. Kwaliteitseisen tolkdiensten
-
-### Hoofdstuk 5. Overige bepalingen
-
-### Hoofdstuk 6. Wijziging van andere besluiten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
+*Vervallen*
 
 ### Hoofdstuk 8. Inwerkingtreding en citeertitel
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 8.1
+
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel 8.2
+
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit Wmo 2015.

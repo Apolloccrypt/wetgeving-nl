@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 23 mei 2014 tot het vaststellen van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Besluit lokaal spoor)"
+citeertitel: "Besluit lokaal spoor"
 identifier: "BWBR0035198"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-11-09"
-last_updated: "2022-11-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035198"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "12690393"
-version_id: "29024012"
-internal_id: "C41084211"
-label_id: "12660694"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035198/2022-11-09/0"
-intitule_bron: "Stb.2014-204"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-05-23"
-intitule_published: "2014-06-13"
-intitule_in_force: "2013-12-13"
-intitule_status: "goed"
-original_publication: "Stb.2022-439"
-original_signed_date: "2022-10-19"
-original_published_date: "2022-11-08"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-439"
-entry_into_force_date: "2022-10-19"
-jci_1_3: "jci1.3:c:BWBR0035198&z=2022-11-09&g=2022-11-09"
-jci_1_0: "1.0:c:BWBR0035198&g=2022-11-09"
-citeertitel_status: "officieel"
-short_title: "Besluit lokaal spoor"
-signed_date: "2022-10-19"
-entry_into_force: "2022-10-19"
+publicatiedatum: 2022-10-19
+laatste_update: 2022-11-09
+status: geldig
+toestand: 2022-11-09
+bron: "https://wetten.overheid.nl/BWBR0035198"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 23 mei 2014 tot het vaststellen van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Besluit lokaal spoor)
-
-Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 9 december 2013, nr. IenM/BSK-2013/268587, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Veiligheid en Justitie;
-
-Gelet op de [artikelen 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=2), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=14), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=24), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=25), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=31), [36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=36), [42, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=42), en [48, tiende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=48), [artikel 163, tiende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [artikel 110 van boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=110) en [artikel 5:12, tweede lid van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:12);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 24 januari 2014, nr. W14.13.044g/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Milieu van 20 mei 2014, nr. IenM/BSK-2014/92895, Hoofddirectie Bestuurlijke en Juridische Zaken, uitgebracht mede namens Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Veiligheid en Justitie;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en met 10 van de Wet lokaal spoor in werking treden.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,17 +20,18 @@ Treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en met 10 van de 
 
 In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
-- **baanvak:** gedeelte van de lokale spoorweg tussen twee nader aangeduide punten;
+- *baanvak:* gedeelte van de lokale spoorweg tussen twee nader aangeduide punten;
 
-- **beweegbare brug:** beweegbare brug die uitsluitend bestemd is voor het gebruik door spoorvoertuigen;
+- *beweegbare brug:* beweegbare brug die uitsluitend bestemd is voor het gebruik door spoorvoertuigen;
 
-- **bijzondere spoorweg:** bijzondere spoorweg als bedoeld in [artikel 2, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2);
+- *bijzondere spoorweg:* bijzondere spoorweg als bedoeld in [artikel 2, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2);
 
-- **hoofdspoorweg:** hoofdspoorweg als bedoeld in [artikel 2, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2);
+- *hoofdspoorweg:* hoofdspoorweg als bedoeld in [artikel 2, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2);
 
-- **sein:** baken, bord of lichtsein;
+- *sein:* baken, bord of lichtsein;
 
-- **wet:** [Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363).
+- *wet:*
+ [Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363).
 
 ##### Artikel 2
 
@@ -112,7 +79,7 @@ Elementen die tot lokale spoorweginfrastructuur behoren zijn de bij de lokale sp
 
 4. Van het eerste en tweede lid kan tijdelijk worden afgeweken bij onvoorziene omstandigheden waarin een ander maatschappelijk belang voor gaat boven het belang van toegankelijk openbaar vervoer, en de beschikbare toegankelijkheid van dat vervoer als gevolg van die omstandigheden redelijkerwijs niet in stand kan blijven.
 
-5. Spoorvoertuigen en gebouwen of werken als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=14) die op het tijdstip van inwerkingtreding van dit besluit in gebruik zijn, zijn met ingang van 1 januari 2020 aangepast.
+5. Spoorvoertuigen en gebouwen of werken als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=14) die op het tijdstip van inwerkingtreding van dit besluit in gebruik zijn, zijn met ingang van 1 januari 2020 aangepast.
 
 6. Bij ministeriële regeling kunnen regels gesteld worden over:
 
@@ -216,51 +183,13 @@ Als veiligheidsfunctie als bedoeld in [artikel 36, eerste lid, van de wet](https
 
 ### Hoofdstuk 4a. Specifieke regels met betrekking tot de Hoekse lijn
 
-##### Artikel 12
-
-1. De jaarlijkse kosten voor het toezicht op de naleving van het bij of krachtens de wet bepaalde dat de toezichthouder uit eigen beweging verricht, bestaan uit een bij ministeriële regeling vastgesteld basistarief, vermeerderd met de kosten die worden berekend op basis van het product van de lengte van de lokale spoorweg in kilometers en het bij ministeriële regeling vastgestelde tarief per kilometer.
-
-2. De kosten voor het toezicht op de naleving van het bij of krachtens de wet bepaalde dat op verzoek van gedeputeerde staten onderscheidenlijk het dagelijks bestuur door de toezichthouder wordt verricht, worden op basis van een bij ministeriële regeling vastgesteld tarief berekend.
-
-### Hoofdstuk 6. Slotbepalingen
-
-#### § 1. Aanpassing en intrekking van andere besluiten
-
-##### Artikel 13
-
-Wijzigt het Arbeidstijdenbesluit.
-
-##### Artikel 14
-
-Wijzigt het Besluit alcoholonderzoeken.
-
-##### Artikel 15
-
-Wijzigt het Besluit ex artikel 110 van Boek 8 van het Burgerlijk Wetboek.
-
-##### Artikel 16
-
-Het [Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454) wordt ingetrokken.
-
-#### § 2. Slotbepalingen
-
-##### Artikel 17
-
-Dit besluit treedt in werking op het tijdstip waarop de [hoofdstukken 2 tot en met 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2) in werking treden.
-
-##### Artikel 18
-
-Dit besluit wordt aangehaald als: Besluit lokaal spoor.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 11a
 
 In dit hoofdstuk wordt verstaan onder:
 
-- **RDM-coördinaat:** coördinaat uit het stelsel van de Rijksdriehoeksmeting, bedoeld in [artikel 52 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=52);
+- *RDM-coördinaat:* coördinaat uit het stelsel van de Rijksdriehoeksmeting, bedoeld in [artikel 52 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=52);
 
-- **spoorwegonderneming:** spoorwegonderneming als bedoeld in artikel 3, onderdeel 1, van [richtlijn 2012/34](32012L0034)/EU.
+- *spoorwegonderneming:* spoorwegonderneming als bedoeld in artikel 3, onderdeel 1, van richtlijn 2012/34/EU.
 
 ##### Artikel 11b
 
@@ -268,7 +197,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de lokale spoorweg die een verbin
 
 ##### Artikel 11c
 
-1. Onverminderd [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=26) heeft een spoorwegonderneming op niet-discriminerende grondslag recht op toegang tot de lokale spoorweginfrastructuur voor zover dit het gebruik van spoorvoertuigen betreft en met het oog op het minimumtoegangspakket, bedoeld in bijlage II, punt 1, bij [richtlijn 2012/34](32012L0034)/EU.
+1. Onverminderd [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=26) heeft een spoorwegonderneming op niet-discriminerende grondslag recht op toegang tot de lokale spoorweginfrastructuur voor zover dit het gebruik van spoorvoertuigen betreft en met het oog op het minimumtoegangspakket, bedoeld in bijlage II, punt 1, bij richtlijn 2012/34/EU.
 
 2. De spoorwegonderneming die een toegangsovereenkomst sluit, is voor het gebruik van de lokale spoorweginfrastructuur aan de beheerder een vergoeding voor het gebruik van spoorweginfrastructuur met het oog op het minimumtoegangspakket verschuldigd, die niet hoger is dan de kosten die rechtstreeks uit de exploitatie van de treindienst voortvloeien, met dien verstande dat de vergoeding niet hoger is dan de vergoeding die de spoorwegonderneming voor het aangrenzende hoofdspoor verschuldigd is.
 
@@ -290,10 +219,38 @@ Dit hoofdstuk is uitsluitend van toepassing op de lokale spoorweg die een verbin
 
 ### Hoofdstuk 5. Toezicht
 
+##### Artikel 12
+
+1. De jaarlijkse kosten voor het toezicht op de naleving van het bij of krachtens de wet bepaalde dat de toezichthouder uit eigen beweging verricht, bestaan uit een bij ministeriële regeling vastgesteld basistarief, vermeerderd met de kosten die worden berekend op basis van het product van de lengte van de lokale spoorweg in kilometers en het bij ministeriële regeling vastgestelde tarief per kilometer.
+
+2. De kosten voor het toezicht op de naleving van het bij of krachtens de wet bepaalde dat op verzoek van gedeputeerde staten onderscheidenlijk het dagelijks bestuur door de toezichthouder wordt verricht, worden op basis van een bij ministeriële regeling vastgesteld tarief berekend.
+
 ### Hoofdstuk 6. Slotbepalingen
 
 #### § 1. Aanpassing en intrekking van andere besluiten
 
+##### Artikel 13
+
+*Wijzigt het Arbeidstijdenbesluit.*
+
+##### Artikel 14
+
+*Wijzigt het Besluit alcoholonderzoeken.*
+
+##### Artikel 15
+
+*Wijzigt het Besluit ex artikel 110 van Boek 8 van het Burgerlijk Wetboek.*
+
+##### Artikel 16
+
+Het [Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454) wordt ingetrokken.
+
 #### § 2. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 17
+
+Dit besluit treedt in werking op het tijdstip waarop de [hoofdstukken 2 tot en met 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2) in werking treden.
+
+##### Artikel 18
+
+Dit besluit wordt aangehaald als: Besluit lokaal spoor.

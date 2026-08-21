@@ -8,7 +8,7 @@ laatste_update: 2026-08-18
 status: geldig
 toestand: 2026-08-18
 bron: "https://wetten.overheid.nl/BWBR0053037"
-opgehaald: 2026-08-20
+opgehaald: 2026-08-21
 ---
 
 # Beleidsregel budgetbekostiging spoedeisende hulp

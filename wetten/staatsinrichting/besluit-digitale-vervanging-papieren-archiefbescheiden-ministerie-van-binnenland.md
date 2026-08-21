@@ -1,43 +1,17 @@
 ---
 title: "Besluit digitale vervanging papieren archiefbescheiden Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
 identifier: "BWBR0035514"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-22"
-last_updated: "2024-11-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035514"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "12785883"
-version_id: "21706432"
-internal_id: "C31150521"
-label_id: "12755564"
-dtd_version: "2.0"
-original_entry_into_force: "2014-09-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035514/2024-11-22/0"
-intitule_bron: "Stcrt.2014-25134"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-08-27"
-intitule_published: "2014-09-04"
-intitule_in_force: "2014-09-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-25134"
-original_signed_date: "2014-08-27"
-original_published_date: "2014-09-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-25134"
-entry_into_force_date: "2014-09-05"
-jci_1_3: "jci1.3:c:BWBR0035514&z=2024-11-22&g=2024-11-22"
-jci_1_0: "1.0:c:BWBR0035514&g=2024-11-22"
-citeertitel_status: "redactioneel"
-signed_date: "2014-08-27"
-entry_into_force: "2014-09-05"
+publicatiedatum: 2014-09-05
+laatste_update: 2024-11-22
+status: geldig
+toestand: 2024-11-22
+bron: "https://wetten.overheid.nl/BWBR0035514"
+opgehaald: 2026-08-21
 ---
+
 # Besluit digitale vervanging papieren archiefbescheiden Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-Gelet op [artikel 6 eerste lid van het archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) besluit over te gaan tot digitale vervanging van papieren archiefbescheiden van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-Besluit
 
 ##### Artikel 1
 
@@ -64,5 +38,3 @@ De digitale vervanging heeft betrekking op alle archiefbescheiden van het minist
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van afgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

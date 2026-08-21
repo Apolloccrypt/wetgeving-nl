@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 1 april 2014, houdende regels aangaande het verlaten van de justitiële jeugdinrichting bij wijze van verlof of scholings- en trainingsprogramma (Regeling verlof en STP jeugdigen)"
+citeertitel: "Regeling verlof en STP jeugdigen"
 identifier: "BWBR0035001"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-04-01"
-last_updated: "2014-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035001"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12632733"
-version_id: "21333422"
-internal_id: "C30635291"
-label_id: "12603284"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035001/2014-04-01/0"
-intitule_bron: "Stcrt.2014-9440"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-04-01"
-intitule_published: "2014-03-31"
-intitule_in_force: "2014-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-9440"
-original_signed_date: "2014-04-01"
-original_published_date: "2014-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-9440"
-entry_into_force_date: "2014-04-01"
-jci_1_3: "jci1.3:c:BWBR0035001&z=2014-04-01&g=2014-04-01"
-jci_1_0: "1.0:c:BWBR0035001&g=2014-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling verlof en STP jeugdigen"
-signed_date: "2014-04-01"
-entry_into_force: "2014-04-01"
+publicatiedatum: 2014-04-01
+laatste_update: 2014-04-01
+status: geldig
+toestand: 2014-04-01
+bron: "https://wetten.overheid.nl/BWBR0035001"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 1 april 2014, houdende regels aangaande het verlaten van de justitiële jeugdinrichting bij wijze van verlof of scholings- en trainingsprogramma (Regeling verlof en STP jeugdigen)
-
-Gelet op de [artikelen 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=8), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=12), en [40 van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=40);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene en begripsbepalingen
 
@@ -46,17 +20,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **reglement:** het [Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647);
+- a. *reglement:* het [Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647);
 
-- b. **pij-maatregel:** de maatregel van plaatsing in een inrichting voor jeugdigen als bedoeld in [artikel 77s van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77s);
+- b. *pij-maatregel:* de maatregel van plaatsing in een inrichting voor jeugdigen als bedoeld in [artikel 77s van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77s);
 
-- c. **verlofstatus:** een vorm van planmatig verlof als bedoeld in [artikel 33, derde lid, van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=33);
+- c. *verlofstatus:* een vorm van planmatig verlof als bedoeld in [artikel 33, derde lid, van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=33);
 
-- d. **risicomanagementplan:** een plan van de inrichting waarin staat beschreven een inschatting van de risico’s en hoe de risico’s met betrekking tot het verlof of scholings- en trainingsprogramma tot een aanvaardbaar niveau worden teruggebracht.
+- d. *risicomanagementplan:* een plan van de inrichting waarin staat beschreven een inschatting van de risico’s en hoe de risico’s met betrekking tot het verlof of scholings- en trainingsprogramma tot een aanvaardbaar niveau worden teruggebracht.
 
-- e. **multidisciplinair overleg:** overleg ter advisering omtrent de behandeling van de aanvragen bedoeld in bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=2&artikel=3&z=2014-04-01&g=2014-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=2&artikel=4&z=2014-04-01&g=2014-04-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=3&artikel=16&z=2014-04-01&g=2014-04-01), bestaande uit tenminste een vertegenwoordiger van de inrichting waar de jeugdige verblijft, één vertegenwoordiger van een andere jeugdinrichting, een vertegenwoordiger van de afdeling Individuele Jeugdzaken van de Dienst justitiële inrichtingen van het Ministerie van Veiligheid en Justitie en een onafhankelijke psychiater, die niet werkzaam is in de inrichting waar de jeugdige verblijft.
+- e. *multidisciplinair overleg:* overleg ter advisering omtrent de behandeling van de aanvragen bedoeld in bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=2&artikel=3&z=2014-04-01&g=2014-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=2&artikel=4&z=2014-04-01&g=2014-04-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=3&artikel=16&z=2014-04-01&g=2014-04-01), bestaande uit tenminste een vertegenwoordiger van de inrichting waar de jeugdige verblijft, één vertegenwoordiger van een andere jeugdinrichting, een vertegenwoordiger van de afdeling Individuele Jeugdzaken van de Dienst justitiële inrichtingen van het Ministerie van Veiligheid en Justitie en een onafhankelijke psychiater, die niet werkzaam is in de inrichting waar de jeugdige verblijft.
 
-- f. **scholings- en trainingsprogrammaplan:** een schriftelijke omschrijving van het scholings- en trainingsprogramma als bedoeld in [artikel 2, derde lid, van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=2).
+- f. *scholings- en trainingsprogrammaplan:* een schriftelijke omschrijving van het scholings- en trainingsprogramma als bedoeld in [artikel 2, derde lid, van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=2).
 
 ##### Artikel 2
 
@@ -265,5 +239,3 @@ Deze regeling treedt in werking op 1 april 2014.
 ##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling verlof en STP jeugdigen.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

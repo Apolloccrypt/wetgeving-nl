@@ -1,48 +1,22 @@
 ---
 title: "Regeling van het College voor toetsen en examens van 27 augustus 2014, nummer CvTE-14.02022, houdende vaststelling van de hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets primair onderwijs (Regeling hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets PO)"
+citeertitel: "Regeling hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets PO"
 identifier: "BWBR0035539"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-07-18"
-last_updated: "2018-07-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035539"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "12797173"
-version_id: "21727672"
-internal_id: "C31172291"
-label_id: "12766874"
-dtd_version: "2.0"
-original_entry_into_force: "2014-09-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035539/2018-07-18/0"
-intitule_bron: "Stcrt.2014-25719"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-08-27"
-intitule_published: "2014-09-16"
-intitule_in_force: "2014-09-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-25719"
-original_signed_date: "2014-08-27"
-original_published_date: "2014-09-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-25719"
-entry_into_force_date: "2014-09-17"
-jci_1_3: "jci1.3:c:BWBR0035539&z=2018-07-18&g=2018-07-18"
-jci_1_0: "1.0:c:BWBR0035539&g=2018-07-18"
-citeertitel_status: "officieel"
-short_title: "Regeling hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets PO"
-signed_date: "2014-08-27"
-entry_into_force: "2014-09-17"
+publicatiedatum: 2014-09-17
+laatste_update: 2018-07-18
+status: geldig
+toestand: 2018-07-18
+bron: "https://wetten.overheid.nl/BWBR0035539"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van het College voor toetsen en examens van 27 augustus 2014, nummer CvTE-14.02022, houdende vaststelling van de hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets primair onderwijs (Regeling hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets PO)
-
-Gelet op [artikel 2, zesde lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2); [artikel 7 Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&artikel=7)
-
-Besluit:
 
 ##### Artikel 1. Hulpmiddelen
 
-Bij de centrale eindtoets primair onderwijs zullen de algemene hulpmiddelen toegestaan worden zoals vermeld in de bijlage 1 bij deze regeling.
+Bij de centrale eindtoets primair onderwijs zullen de algemene hulpmiddelen toegestaan worden zoals vermeld in de [bijlage 1](https://wetten.overheid.nl/BWBR0035539) bij deze regeling.
 
 ##### Artikel 2. Aanpassing wijze van afname
 
@@ -85,15 +59,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets PO.
-
-## Bijlage
-
-### Algemene toegestane hulpmiddelen bij de centrale eindtoets PO
-
-Het gebruik van hulpmiddelen tijdens de afname van de centrale eindtoets is **niet** toegestaan tenzij anders vermeld. Dit betekent dat didactische materialen die normaliter in het lokaal aanwezig zijn (zoals tafelkaarten, wandkaarten, etc.) **niet** mogen worden getoond of gebruikt tijdens de afname van de centrale eindtoets. Leerlingen met dyscalculie mogen, tenzij expliciet in de opgave staat vermeld, **geen** rekenmachine gebruiken omdat de opgaven hier niet op zijn ontwikkeld.
-
-Bij zowel de papieren centrale eindtoets als digitale adaptieve centrale eindtoets geldt dat tijdens het maken van de toets uitrekenpapier of kladpapier gebruikt mag worden. Als een leerling eerder klaar is met een taak of toetsdeel is het toegestaan dat hij/zij een boek leest om de andere leerlingen niet te storen.
-
-Bij de **papieren** centrale eindtoets geldt dat de volgende materialen nodig zijn tijdens het maken van de toets:
-
-Bij de **digitale adaptieve** centrale eindtoets geldt dat de volgende materialen nodig zijn tijdens het maken van de toets:

@@ -1,60 +1,29 @@
 ---
 title: "Besluit van 24 november 2014, houdende regels inzake de verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen (Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015)"
+citeertitel: "Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015"
 identifier: "BWBR0035881"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035881"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "12871623"
-version_id: "21871992"
-internal_id: "C31392131"
-label_id: "12841154"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035881/2022-01-01/0"
-intitule_bron: "Stb.2014-477"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-24"
-intitule_published: "2014-12-09"
-intitule_in_force: "2014-12-09"
-intitule_status: "goed"
-original_publication: "Stb.2014-477"
-original_signed_date: "2014-11-24"
-original_published_date: "2014-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-477"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0035881&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0035881&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015"
-signed_date: "2014-11-24"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0035881"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 24 november 2014, houdende regels inzake de verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen (Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 10 oktober 2014, nr. 570755, gedaan mede namens Onze Minister van Volksgezondheid, Welzijn en Sport;
-
-Gelet op [artikel 7, eerste en derde lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=7);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 12 november 2014, No. W03.14.0366/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 20 november 2014, nr. 585831, uitgebracht mede namens Onze Minister van Volksgezondheid, Welzijn en Sport;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408);
+- a. *wet:*
+ [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408);
 
-- b. **verzekering:** de verzekering, bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=7);
+- b. *verzekering:* de verzekering, bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=7);
 
-- c. **beëindiging van deelname aan het onderzoek:** het moment waarop de proefpersoon, in de zin van [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=1) niet langer wordt onderworpen aan handelingen of aan de proefpersoon niet langer een bepaalde gedragswijze wordt opgelegd.
+- c. *beëindiging van deelname aan het onderzoek:* het moment waarop de proefpersoon, in de zin van [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=1) niet langer wordt onderworpen aan handelingen of aan de proefpersoon niet langer een bepaalde gedragswijze wordt opgelegd.
 
 ##### Artikel 2
 
@@ -64,11 +33,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De bedragen, waarvoor de verzekering moet zijn gesloten, zijn ten minste € 650.000,– per proefpersoon en ten minste € 5.000.000,– per wetenschappelijk onderzoek. Indien evenwel degene die het onderzoek verricht meer dan één onderzoek verricht of heeft verricht, is het bedrag waarvoor de verzekering moet zijn gesloten, met inachtneming van het bedrag waartoe de verzekeraar per onderzoek kan zijn gehouden, ten minste € 7.500.000,– voor de schade die zich per verzekeringsjaar door onderzoek heeft geopenbaard. Voor de toepassing van de vorige zin geldt dat de schade zich heeft geopenbaard op het moment waarop deze bij de verzekeraar wordt gemeld.
+1. De bedragen, waarvoor de verzekering moet zijn gesloten, zijn ten minste € 650.000,– per proefpersoon en ten minste € 5.000.000,– per wetenschappelijk onderzoek. Indien evenwel degene die het onderzoek verricht meer dan één onderzoek verricht of heeft verricht, is het bedrag waarvoor de verzekering moet zijn gesloten, met inachtneming van het bedrag waartoe de verzekeraar per onderzoek kan zijn gehouden, ten minste € 7.500.000,– voor de schade die zich per verzekeringsjaar door onderzoek heeft geopenbaard. Voor de toepassing van de vorige zin geldt dat de schade zich heeft geopenbaard op het moment waarop deze bij de verzekeraar wordt gemeld.
 
-2. Indien het wetenschappelijk onderzoek wordt uitgevoerd bij meerdere instellingen draagt degene die het wetenschappelijk onderzoek verricht ervoor zorg dat de schade van alle aan het onderzoek deelnemende proefpersonen is gedekt door dezelfde verzekeringsovereenkomst. Het bedrag waarvoor de verzekering voor dit onderzoek dekking verleent, is ten minste € 5.000.000,–.
+2. Indien het wetenschappelijk onderzoek wordt uitgevoerd bij meerdere instellingen draagt degene die het wetenschappelijk onderzoek verricht ervoor zorg dat de schade van alle aan het onderzoek deelnemende proefpersonen is gedekt door dezelfde verzekeringsovereenkomst. Het bedrag waarvoor de verzekering voor dit onderzoek dekking verleent, is ten minste € 5.000.000,–.
 
-3. Bij beëindiging van een verzekeringsovereenkomst is in ieder geval gedekt de schade, bedoeld in [artikel 4, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0035881&artikel=4&z=2022-01-01&g=2022-01-01), van de proefpersonen die deelnemen of gaan deelnemen aan wetenschappelijk onderzoek dat voor de beëindiging van de overeenkomst een aanvang heeft genomen. Voor de toepassing van de vorige zin geldt dat onderzoek een aanvang heeft genomen op de dag dat de commissie die belast is met de beoordeling van het desbetreffende onderzoeksprotocol, een positief oordeel heeft gegeven. Het bedrag waarvoor een beëindigde verzekering nog dekking dient te verlenen indien de verzekering voor meerdere onderzoeken dekking biedt, is, met inachtneming van het bedrag waartoe de verzekeraar per onderzoek kan zijn gehouden, ten minste € 7.500.000,– voor de schade die zich na de beëindiging van de overeenkomst openbaart.
+3. Bij beëindiging van een verzekeringsovereenkomst is in ieder geval gedekt de schade, bedoeld in [artikel 4, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0035881&artikel=4&z=2022-01-01&g=2022-01-01), van de proefpersonen die deelnemen of gaan deelnemen aan wetenschappelijk onderzoek dat voor de beëindiging van de overeenkomst een aanvang heeft genomen. Voor de toepassing van de vorige zin geldt dat onderzoek een aanvang heeft genomen op de dag dat de commissie die belast is met de beoordeling van het desbetreffende onderzoeksprotocol, een positief oordeel heeft gegeven. Het bedrag waarvoor een beëindigde verzekering nog dekking dient te verlenen indien de verzekering voor meerdere onderzoeken dekking biedt, is, met inachtneming van het bedrag waartoe de verzekeraar per onderzoek kan zijn gehouden, ten minste € 7.500.000,– voor de schade die zich na de beëindiging van de overeenkomst openbaart.
 
 4. In afwijking van het derde lid behoeft bij beëindiging van een verzekeringsovereenkomst niet gedekt te zijn de schade, bedoeld in [artikel 4, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0035881&artikel=4&z=2022-01-01&g=2022-01-01), van de proefpersonen voor zover de verrichter heeft zorggedragen voor een andere verzekeringsovereenkomst die deze schade dekt.
 
@@ -116,10 +85,8 @@ Het [besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met m
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van 1 juli 2015.
+Dit besluit treedt in werking met ingang van 1 juli 2015.
 
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

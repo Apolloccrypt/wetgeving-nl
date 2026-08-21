@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Nederlandsche Bank N.V. van 24 april 2014 ter uitvoering van de artikelen 17b, 59a, 131 en 135a van het Besluit prudentiële regels Wft (Regeling DNB afwikkelondernemingen Wft)"
+citeertitel: "Regeling DNB afwikkelondernemingen Wft"
 identifier: "BWBR0035089"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-05-03"
-last_updated: "2014-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035089"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "12664233"
-version_id: "21394262"
-internal_id: "C30714561"
-label_id: "12634534"
-dtd_version: "2.0"
-original_entry_into_force: "2014-05-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035089/2014-05-03/0"
-intitule_bron: "Stcrt.2014-12398"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-04-24"
-intitule_published: "2014-05-02"
-intitule_in_force: "2014-05-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-12398"
-original_signed_date: "2014-04-24"
-original_published_date: "2014-05-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-12398"
-entry_into_force_date: "2014-05-03"
-jci_1_3: "jci1.3:c:BWBR0035089&z=2014-05-03&g=2014-05-03"
-jci_1_0: "1.0:c:BWBR0035089&g=2014-05-03"
-citeertitel_status: "officieel"
-short_title: "Regeling DNB afwikkelondernemingen Wft"
-signed_date: "2014-04-24"
-entry_into_force: "2014-05-03"
+publicatiedatum: 2014-05-03
+laatste_update: 2014-05-03
+status: geldig
+toestand: 2014-05-03
+bron: "https://wetten.overheid.nl/BWBR0035089"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Nederlandsche Bank N.V. van 24 april 2014 ter uitvoering van de artikelen 17b, 59a, 131 en 135a van het Besluit prudentiële regels Wft (Regeling DNB afwikkelondernemingen Wft)
-
-Na raadpleging van betrokken organisaties;
-
-Gelet op de [artikelen 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=17b), [59a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=59a), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131) en [135a van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135a);
-
-BESLUIT:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -48,25 +20,25 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Besluit:** het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420);
+- a. *Besluit:* het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420);
 
-- b. **DNB:** de Nederlandsche Bank N.V.;
+- b. *DNB:* de Nederlandsche Bank N.V.;
 
-- c. **centrale bankgeld:** tegoeden of kredieten aangehouden bij een centrale bank die gebruikt kunnen worden bij het verlenen van afwikkeldiensten;
+- c. *centrale bankgeld:* tegoeden of kredieten aangehouden bij een centrale bank die gebruikt kunnen worden bij het verlenen van afwikkeldiensten;
 
-- d. **deelnemers:** de partijen ten behoeve van wie een afwikkelonderneming haar diensten levert;
+- d. *deelnemers:* de partijen ten behoeve van wie een afwikkelonderneming haar diensten levert;
 
-- e. **verbinding:** het geheel van de contractuele en operationele afspraken tussen afwikkelondernemingen die werkzaamheden verrichten gericht op salderen welke afspraken ten behoeve van de overdracht van geldmiddelen en het nakomen van betalingsverplichtingen worden gemaakt;
+- e. *verbinding:* het geheel van de contractuele en operationele afspraken tussen afwikkelondernemingen die werkzaamheden verrichten gericht op salderen welke afspraken ten behoeve van de overdracht van geldmiddelen en het nakomen van betalingsverplichtingen worden gemaakt;
 
-- f. **verevening:** bewerkstelligen dat de verplichtingen van een deelnemer worden nagekomen door het overboeken van een geldsom naar de rekening van een andere deelnemer bij een bank, een centrale bank of een andere instantie die aan deelnemers rekeningen ter beschikking stelt;
+- f. *verevening:* bewerkstelligen dat de verplichtingen van een deelnemer worden nagekomen door het overboeken van een geldsom naar de rekening van een andere deelnemer bij een bank, een centrale bank of een andere instantie die aan deelnemers rekeningen ter beschikking stelt;
 
-- g. **herstelplan:** een door de afwikkelonderneming op te stellen plan voor herstel om de onderneming en haar afwikkeldiensten weer naar behoren te laten functioneren;
+- g. *herstelplan:* een door de afwikkelonderneming op te stellen plan voor herstel om de onderneming en haar afwikkeldiensten weer naar behoren te laten functioneren;
 
-- h. **afbouwplan:** een door de afwikkelonderneming op te stellen plan voor de gecontroleerde afbouw van de onderneming en haar afwikkeldiensten;
+- h. *afbouwplan:* een door de afwikkelonderneming op te stellen plan voor de gecontroleerde afbouw van de onderneming en haar afwikkeldiensten;
 
-- i. **wet:** de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
+- i. *wet:* de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
-- j. **hogevraagtijdvak:** het deel van een dag voor 00:30 uur en na 06:00 uur.
+- j. *hogevraagtijdvak:* het deel van een dag voor 00:30 uur en na 06:00 uur.
 
 ### Hoofdstuk 2. Bedrijfsvoering
 
@@ -134,7 +106,7 @@ Ten behoeve van het effectief verlenen van afwikkeldiensten, als bedoeld in [art
 
 ##### Artikel 16
 
-Wijzigt de Regeling staten financiële ondernemingen Wft 2011.
+*Wijzigt de Regeling staten financiële ondernemingen Wft 2011.*
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -145,5 +117,3 @@ Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staa
 ##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling DNB afwikkelondernemingen Wft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

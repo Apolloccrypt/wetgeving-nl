@@ -1,41 +1,18 @@
 ---
 title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2014"
+citeertitel: "Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren AWBZ 2014"
 identifier: "BWBR0034832"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-07-06"
-last_updated: "2016-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034832"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12582313"
-version_id: "22375692"
-internal_id: "C32032791"
-label_id: "12552854"
-dtd_version: "2.0"
-original_entry_into_force: "2015-04-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034832/2016-07-06/0"
-intitule_bron: "Stcrt.2014-4868"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-02-18"
-intitule_in_force: "2014-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-9581"
-original_published_date: "2015-04-09"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-9581"
-entry_into_force_date: "2015-04-11"
-jci_1_3: "jci1.3:c:BWBR0034832&z=2016-07-06&g=2016-07-06"
-jci_1_0: "1.0:c:BWBR0034832&g=2016-07-06"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren AWBZ 2014"
-entry_into_force: "2015-04-11"
+publicatiedatum: 2015-04-11
+laatste_update: 2016-07-06
+status: geldig
+toestand: 2016-07-06
+bron: "https://wetten.overheid.nl/BWBR0034832"
+opgehaald: 2026-08-21
 ---
+
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2014
-
-gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.5, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034697),
-
-heeft in zijn vergadering van 20 januari 2014 besloten:
 
 #### § 1. Algemeen
 
@@ -43,17 +20,17 @@ heeft in zijn vergadering van 20 januari 2014 besloten:
 
 Dit besluit verstaat onder:
 
-- a. **regio:** regio zoals genoemd in de [Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034132), kenmerk 152108-110428-Z houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Staatscourant nr. 30391, 1 november 2013;
+- a. *regio:* regio zoals genoemd in de [Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034132), kenmerk 152108-110428-Z houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Staatscourant nr. 30391, 1 november 2013;
 
-- b. **budgethouder:** verzekerde aan wie een persoonsgebonden budget is verleend krachtens [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
+- b. *budgethouder:* verzekerde aan wie een persoonsgebonden budget is verleend krachtens [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
 
-- c. **nieuwe budgethouder:** een budgethouder aan wie op of na 1 januari 2014 een persoonsgebonden budget wordt verstrekt;
+- c. *nieuwe budgethouder:* een budgethouder aan wie op of na 1 januari 2014 een persoonsgebonden budget wordt verstrekt;
 
-- d. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1)
+- d. *verbindingskantoor:* een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1)
 
-- e. **zorgkantoor:** een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van zorgkantoren;
+- e. *zorgkantoor:* een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van zorgkantoren;
 
-- f. **bewuste-keuze-gesprek:** gesprek dat het zorgkantoor voert met iedereen die een PGB aanvraagt om vast te stellen of deze in aanmerking komt voor een PGB.
+- f. *bewuste-keuze-gesprek:* gesprek dat het zorgkantoor voert met iedereen die een PGB aanvraagt om vast te stellen of deze in aanmerking komt voor een PGB.
 
 ##### Artikel 2
 
@@ -107,24 +84,6 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 #### § 3. Nadere vaststelling beheerskostenbudget 2014
 
-##### Artikel 7
-
-1. Uiterlijk in 2018 stelt Zorginstituut Nederland op basis van de Nadere vaststelling beheerskostenbudget AWBZ 2014 en met inachtneming van de [artikelen 7a tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7a&z=2016-07-06&g=2016-07-06) het beheerskostenbudget over het jaar 2014 definitief vast met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit.
-
-2. Zorginstituut Nederland voert een herverdeling van het in [artikel 6b, lid i](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6b&z=2016-07-06&g=2016-07-06) genoemde bedrag uit op basis van het aantal PGB-budgethouders per 31 oktober 2014 met een intramurale indicatie.
-
-#### § 4. Slot
-
-##### Artikel 9
-
-Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze worden geplaatst, en werken terug tot en met 1 januari 2014.
-
-##### Artikel 10
-
-Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren AWBZ 2014.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 6a
 
 1. Op 1 april 2015 stelt Zorginstituut Nederland het beheerskostenbudget over het jaar 2014 nader vast. Zorginstituut Nederland doet dit op basis van:
@@ -171,21 +130,23 @@ Het Zorginstituut verdeelt het na toepassing van [artikel 6b](https://wetten.ove
 
 ##### Artikel 6d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6f
 
-Vervallen
+*Vervallen*
 
 #### § 4. Definitieve vaststelling beheerskostenbudget 2014
 
-#### § 5. Slot
+##### Artikel 7
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+1. Uiterlijk in 2018 stelt Zorginstituut Nederland op basis van de Nadere vaststelling beheerskostenbudget AWBZ 2014 en met inachtneming van de [artikelen 7a tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7a&z=2016-07-06&g=2016-07-06) het beheerskostenbudget over het jaar 2014 definitief vast met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit.
+
+2. Zorginstituut Nederland voert een herverdeling van het in [artikel 6b, lid i](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6b&z=2016-07-06&g=2016-07-06) genoemde bedrag uit op basis van het aantal PGB-budgethouders per 31 oktober 2014 met een intramurale indicatie.
 
 ##### Artikel 7a
 
@@ -227,4 +188,10 @@ Zorginstituut Nederland stelt het bedrag van 28,400 miljoen euro beschikbaar met
 
 #### § 5. Slot
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 9
+
+Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze worden geplaatst, en werken terug tot en met 1 januari 2014.
+
+##### Artikel 10
+
+Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren AWBZ 2014.

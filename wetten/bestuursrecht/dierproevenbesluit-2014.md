@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 26 november 2014 tot uitvoering van de Wet op de dierproeven (Dierproevenbesluit 2014)"
+citeertitel: "Dierproevenbesluit 2014"
 identifier: "BWBR0035866"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-07-17"
-last_updated: "2020-07-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035866"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12868163"
-version_id: "21863672"
-internal_id: "C31382841"
-label_id: "12837794"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035866/2020-07-17/0"
-intitule_bron: "Stb.2014-475"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-26"
-intitule_published: "2014-12-05"
-intitule_in_force: "2014-12-05"
-intitule_status: "goed"
-original_publication: "Stb.2014-475"
-original_signed_date: "2014-11-26"
-original_published_date: "2014-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-475"
-entry_into_force_date: "2014-12-18"
-jci_1_3: "jci1.3:c:BWBR0035866&z=2020-07-17&g=2020-07-17"
-jci_1_0: "1.0:c:BWBR0035866&g=2020-07-17"
-citeertitel_status: "officieel"
-short_title: "Dierproevenbesluit 2014"
-signed_date: "2014-11-26"
-entry_into_force: "2014-12-18"
+publicatiedatum: 2014-12-18
+laatste_update: 2020-07-17
+status: geldig
+toestand: 2020-07-17
+bron: "https://wetten.overheid.nl/BWBR0035866"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 26 november 2014 tot uitvoering van de Wet op de dierproeven (Dierproevenbesluit 2014)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken van 23 september 2013, nr. WJZ / 13153474;
-
-Gelet op [richtlijn nr. 2010/63](32010L0063)/EU van 22 september 2010 betreffende de bescherming van dieren die voor wetenschappelijke doeleinden worden gebruikt (PbEU 2010, L 276) en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), [10a1, zevende lid](onbekend), [10a4, eerste lid](onbekend), [10e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e), [11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a), [13f, eerste en vijfde lid](onbekend), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14), [14a, tweede lid](onbekend), [14b, eerste lid](onbekend), [14c, tweede lid](onbekend), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=15), [15a](onbekend), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18), en [18a, tweede lid, van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a) en [artikel 96 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=96);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 23 oktober 2013, nr. W15.13.0337/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken van 21 november 2014, nr. WJZ / 14026568;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
@@ -76,7 +44,7 @@ Bij ministeriële regeling kan een vereenvoudigde procedure als bedoeld in [arti
 
 ##### Artikel 5
 
-Als bedreigde diersoorten als bedoeld in [artikel 10e, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e) worden aangewezen de soorten, bedoeld in bijlage A bij [Verordening (EG) nr. 338/97](31997R0338) van de Raad van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantesoorten door controle op het desbetreffende handelsverkeer, die niet onder het toepassingsgebied van artikel 7, eerste lid, van die verordening vallen.
+Als bedreigde diersoorten als bedoeld in [artikel 10e, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e) worden aangewezen de soorten, bedoeld in bijlage A bij Verordening (EG) nr. 338/97 van de Raad van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantesoorten door controle op het desbetreffende handelsverkeer, die niet onder het toepassingsgebied van artikel 7, eerste lid, van die verordening vallen.
 
 ##### Artikel 6
 
@@ -146,15 +114,15 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de de
 
 ##### Artikel 11
 
-1. Bij ministeriële regeling kunnen categorieën van fokkers, leveranciers en gebruikers worden aangewezen die niet gehouden zijn een instantie voor dierenwelzijn als bedoeld in [artikel 14a van de wet](onbekend) in te stellen.
+1. Bij ministeriële regeling kunnen categorieën van fokkers, leveranciers en gebruikers worden aangewezen die niet gehouden zijn een instantie voor dierenwelzijn als bedoeld in artikel 14a van de wet in te stellen.
 
-2. Indien een fokker, leverancier, of gebruiker die valt onder de in het eerste lid bedoelde categorie geen instantie voor dierenwelzijn instelt, worden de bij of krachtens [artikel 14c van de wet](onbekend) aan de instantie voor dierenwelzijn opgedragen taken verricht door de persoon, bedoeld in [artikel 13f, derde lid, onder a, van de wet](onbekend).
+2. Indien een fokker, leverancier, of gebruiker die valt onder de in het eerste lid bedoelde categorie geen instantie voor dierenwelzijn instelt, worden de bij of krachtens artikel 14c van de wet aan de instantie voor dierenwelzijn opgedragen taken verricht door de persoon, bedoeld in artikel 13f, derde lid, onder a, van de wet.
 
 ##### Artikel 12
 
-1. Bij ministeriële regeling worden regels gesteld omtrent het aantekening houden en bewaren van gegevens als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=15) en [15a, eerste lid, van de wet](onbekend), en het verstrekken van deze gegevens aan Onze Minister.
+1. Bij ministeriële regeling worden regels gesteld omtrent het aantekening houden en bewaren van gegevens als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=15) en 15a, eerste lid, van de wet, en het verstrekken van deze gegevens aan Onze Minister.
 
-2. Bij ministeriële regeling worden eisen gesteld aan het levensloopdossier als bedoeld in [artikel 15a, tweede lid, van de wet](onbekend).
+2. Bij ministeriële regeling worden eisen gesteld aan het levensloopdossier als bedoeld in artikel 15a, tweede lid, van de wet.
 
 ##### Artikel 13
 
@@ -172,11 +140,11 @@ Het [Dierproevenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003802) wordt 
 
 ##### Artikel 15
 
-De in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=2&artikel=2&z=2020-07-17&g=2020-07-17), gestelde vereisten dat de persoon, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), opgeleid moet zijn in een lidstaat van de Europese Unie of van de Europese Economische Ruimte, respectievelijk een door Onze Minister erkende cursus proefdierkunde heeft gevolgd, geldt niet ten aanzien van personen ten aanzien waarvan vóór de inwerkingtreding van de wet tot wijziging van de Wet op de dierproeven in verband met implementatie van [richtlijn 2010/63](32010L0063)/EU op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) een ontheffing van het verbod in artikel 9 van de wet is verleend, voor zover deze ontheffing betrekking heeft op deze vereisten.
+De in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=2&artikel=2&z=2020-07-17&g=2020-07-17), gestelde vereisten dat de persoon, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), opgeleid moet zijn in een lidstaat van de Europese Unie of van de Europese Economische Ruimte, respectievelijk een door Onze Minister erkende cursus proefdierkunde heeft gevolgd, geldt niet ten aanzien van personen ten aanzien waarvan vóór de inwerkingtreding van de wet tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) een ontheffing van het verbod in artikel 9 van de wet is verleend, voor zover deze ontheffing betrekking heeft op deze vereisten.
 
 ##### Artikel 16
 
-Wijzigt het Besluit identificatie en registratie van dieren.
+*Wijzigt het Besluit identificatie en registratie van dieren.*
 
 ##### Artikel 17
 
@@ -185,5 +153,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 18
 
 Dit besluit wordt aangehaald als: Dierproevenbesluit 2014.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

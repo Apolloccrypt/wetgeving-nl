@@ -1,61 +1,39 @@
 ---
 title: "Beleidsregel van de Inspecteur-generaal van het onderwijs van 4 september 2014, nr. 4389783, betreffende de uitleg van de zinsnede ‘niet volgens de geldende regels is afgenomen’, bedoeld in artikel 11 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB, en betreffende de uitoefening van de bevoegdheid om te besluiten dat het centraal examen geheel of gedeeltelijk voor een of meer deelnemers opnieuw wordt afgenomen, bedoeld in artikel 11 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB (Beleidsregel niet op regelmatige wijze afnemen van het centraal examen in beroepsopleidingen)"
+citeertitel: "Beleidsregel niet op regelmatige wijze afnemen van het centraal examen in beroepsopleidingen"
 identifier: "BWBR0035562"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2014-10-01"
-last_updated: "2014-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035562"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "12800973"
-version_id: "21736702"
-internal_id: "C31196301"
-label_id: "12770694"
-dtd_version: "2.0"
-original_entry_into_force: "2014-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035562/2014-10-01/0"
-intitule_bron: "Stcrt.2014-25735"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-09-16"
-intitule_in_force: "2014-09-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-25735"
-original_published_date: "2014-09-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-25735"
-entry_into_force_date: "2014-10-01"
-jci_1_3: "jci1.3:c:BWBR0035562&z=2014-10-01&g=2014-10-01"
-jci_1_0: "1.0:c:BWBR0035562&g=2014-10-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel niet op regelmatige wijze afnemen van het centraal examen in beroepsopleidingen"
-entry_into_force: "2014-10-01"
+publicatiedatum: 2014-10-01
+laatste_update: 2014-10-01
+status: geldig
+toestand: 2014-10-01
+bron: "https://wetten.overheid.nl/BWBR0035562"
+opgehaald: 2026-08-21
 ---
+
 # Beleidsregel van de Inspecteur-generaal van het onderwijs van 4 september 2014, nr. 4389783, betreffende de uitleg van de zinsnede ‘niet volgens de geldende regels is afgenomen’, bedoeld in artikel 11 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB, en betreffende de uitoefening van de bevoegdheid om te besluiten dat het centraal examen geheel of gedeeltelijk voor een of meer deelnemers opnieuw wordt afgenomen, bedoeld in artikel 11 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB (Beleidsregel niet op regelmatige wijze afnemen van het centraal examen in beroepsopleidingen)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 11 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=11);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
-- **besluit:** [Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963);
+- *besluit:*
+ [Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963);
 
-- **centraal examen:** het centraal examen, bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=1);
+- *centraal examen:* het centraal examen, bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=1);
 
-- **college:** het College voor examens, bedoeld in [artikel 2, eerste lid, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
+- *college:* het College voor examens, bedoeld in [artikel 2, eerste lid, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
 
-- **examencommissie:** de examencommissie, bedoeld in [artikel 7.4.5 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.5);
+- *examencommissie:* de examencommissie, bedoeld in [artikel 7.4.5 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.5);
 
-- **examenprotocol:** het door het college vastgestelde examenprotocol, bedoeld in [artikel 6, eerste lid, onderdeel j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6);
+- *examenprotocol:* het door het college vastgestelde examenprotocol, bedoeld in [artikel 6, eerste lid, onderdeel j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6);
 
-- **inspectie:** de Inspectie van het onderwijs, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
+- *inspectie:* de Inspectie van het onderwijs, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
 
-- **onregelmatigheid:** het niet volgens de geldende regels afnemen van het centraal examen, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=11);
+- *onregelmatigheid:* het niet volgens de geldende regels afnemen van het centraal examen, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=11);
 
-- **proces-verbaal:** het proces-verbaal, bedoeld in het examenprotocol.
+- *proces-verbaal:* het proces-verbaal, bedoeld in het examenprotocol.
 
 ##### Artikel 2. Onregelmatigheid
 
@@ -73,7 +51,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - f. het in strijd met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=10) of [hoofdstuk II, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&paragraaf=4), van het besluit toekennen van een cijfer of examenuitslag.
 
-2. Indien sprake is van een onregelmatigheid die niet op grond van het examenprotocol door de examencommissie kan worden afgehandeld, doet de examencommissie daarvan zo spoedig mogelijk melding aan de inspectie door middel van een Aanvraagformulier opnieuw afnemen centraal examen.
+2. Indien sprake is van een onregelmatigheid die niet op grond van het examenprotocol door de examencommissie kan worden afgehandeld, doet de examencommissie daarvan zo spoedig mogelijk melding aan de inspectie door middel van een [Aanvraagformulier opnieuw afnemen centraal examen](https://wetten.overheid.nl/BWBR0035562).
 
 3. Indien sprake is van een onregelmatigheid die door de inspectie wordt afgehandeld en dit een andere onregelmatigheid betreft dan bedoeld in het eerste lid, beoordeelt de directeur Toezicht MBO van de inspectie of het centraal examen niet volgens de geldende regels is afgenomen.
 
@@ -101,7 +79,7 @@ Bij een signaal over een onregelmatigheid of bij een melding als bedoeld in [art
 
 De inspectie hanteert voor zover mogelijk de volgende procedure bij het geheel of gedeeltelijk voor een of meer deelnemers opnieuw afnemen van het centraal examen:
 
-- a. de inspectie verzoekt de examencommissie het in de bijlage bij deze beleidsregel opgenomen Aanvraagformulier opnieuw afnemen centraal examen in te vullen en naar de inspectie te sturen;
+- a. de inspectie verzoekt de examencommissie het in de [bijlage](https://wetten.overheid.nl/BWBR0035562) bij deze beleidsregel opgenomen Aanvraagformulier opnieuw afnemen centraal examen in te vullen en naar de inspectie te sturen;
 
 - b. de inspectie neemt vervolgens een schriftelijk, met redenen omkleed en tot het bevoegd gezag gericht besluit, inhoudende dat het centraal examen geheel of gedeeltelijk voor een of meer deelnemers opnieuw moet worden afgenomen en dat daartoe het door die deelnemer of deelnemers gemaakte centraal examen geheel of gedeeltelijk ongeldig is verklaard, en tevens inhoudende of al dan niet toepassing wordt gegeven aan [artikel 11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=11);
 
@@ -113,44 +91,6 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel niet op regelmatige wijze a
 
 ##### Artikel 7. Inwerkingtreding beleidsregel
 
-Deze beleidsregel treedt in werking met ingang van **1 oktober 2014**.
+Deze beleidsregel treedt in werking met ingang van *1 oktober 2014*.
 
 Deze beleidsregel zal met de toelichting op de website van de inspectie worden geplaatst.
-
-## Bijlage. Aanvraagformulier opnieuw afnemen centraal examen
-
-Aanvraagnummer (in te vullen door de Inspectie van het Onderwijs):
-
-Datum:
-
-BRIN-nummer instelling:
-
-Naam instelling:
-
-Examencommissie die aanvraag doet:
-
-Indiener en functie die aanvraag doet:
-
-Telefoonnummer indiener:
-
-E-mailadres indiener:
-
-Datum onregelmatigheid bij afname:
-
-Tijdstip onregelmatigheid bij afname:
-
-Examen: Ned2F / Ned3F / Rek2F / Rek3F
-
-Betrokken examenvarianten:
-
-Afnameperiode:
-
-Beschrijving onregelmatigheid:
-
-- 1. Wat is er gebeurd?
-
-- 2. Op hoeveel deelnemers had de onregelmatigheid betrekking?
-
-- 3. Hoeveel deelnemers hebben deelgenomen aan het desbetreffende examen?
-
-Ik, .............................., verklaar dit formulier naar waarheid te hebben ingevuld op .............................. te ..............................

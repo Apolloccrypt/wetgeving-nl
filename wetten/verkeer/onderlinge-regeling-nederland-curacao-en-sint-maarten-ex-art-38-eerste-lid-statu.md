@@ -1,44 +1,17 @@
 ---
 title: "Onderlinge regeling Nederland, Curaçao en Sint Maarten ex art. 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van transport gedetineerden tussen Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0034803"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-02-13"
-last_updated: "2014-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034803"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "12576963"
-version_id: "21224722"
-internal_id: "C30474631"
-label_id: "12547454"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034803/2014-02-13/0"
-intitule_bron: "Stcrt.2014-3558"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-02-11"
-intitule_in_force: "2014-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-3558"
-original_published_date: "2014-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-3558"
-entry_into_force_date: "2014-02-13"
-jci_1_3: "jci1.3:c:BWBR0034803&z=2014-02-13&g=2014-02-13"
-jci_1_0: "1.0:c:BWBR0034803&g=2014-02-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-02-13"
+publicatiedatum: 2014-02-13
+laatste_update: 2014-02-13
+status: geldig
+toestand: 2014-02-13
+bron: "https://wetten.overheid.nl/BWBR0034803"
+opgehaald: 2026-08-21
 ---
+
 # Onderlinge regeling Nederland, Curaçao en Sint Maarten ex art. 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van transport gedetineerden tussen Bonaire, Sint Eustatius en Saba)
-
-Overwegende, dat het transport van gedetineerden tussen Sint Eustatius en Saba enerzijds en Bonaire anderzijds noodzakelijkerwijs via de landen Sint Maarten en/of Curaçao loopt, waarbij in voorkomende gevallen in die landen moet worden overnacht;
-
-Overwegende, dat wanneer een gedetineerde zich bevindt op het grondgebied van een van de landen, de Minister van Justitie van dat land verantwoordelijk is voor de beveiliging en het welzijn van die gedetineerde;
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Komen het volgende overeen:
 
 ##### Artikel 1. Toepassing van deze regeling
 
@@ -97,5 +70,3 @@ De begeleidende ambtenaren dragen ervoor zorg dat zij in het land waar de gedeti
 ##### Artikel 8
 
 Deze onderlinge regeling treedt in werking met ingang van de tweede dag na de dagtekening van het publicatiemedium waarin zij wordt geplaatst.
-
-Deze onderlinge regeling zal met de toelichting in de Staatscourant, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.

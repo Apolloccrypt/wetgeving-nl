@@ -1,44 +1,20 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds"
+citeertitel: "Inkomstenbelasting,vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds"
 identifier: "BWBR0035619"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2014-10-10"
-last_updated: "2014-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035619"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "12811953"
-version_id: "21759352"
-internal_id: "C31233901"
-label_id: "12781724"
-dtd_version: "2.0"
-original_entry_into_force: "2014-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035619/2014-10-10/0"
-intitule_bron: "Stcrt.2014-28591"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-10-02"
-intitule_published: "2014-10-09"
-intitule_in_force: "2014-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-28591"
-original_signed_date: "2014-10-02"
-original_published_date: "2014-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-28591"
-entry_into_force_date: "2014-10-10"
-jci_1_3: "jci1.3:c:BWBR0035619&z=2014-10-10&g=2014-10-10"
-jci_1_0: "1.0:c:BWBR0035619&g=2014-10-10"
-citeertitel_status: "redactioneel"
-short_title: "Inkomstenbelasting,vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds"
-signed_date: "2014-10-02"
-entry_into_force: "2014-10-10"
+publicatiedatum: 2014-10-10
+laatste_update: 2014-10-10
+status: geldig
+toestand: 2014-10-10
+bron: "https://wetten.overheid.nl/BWBR0035619"
+opgehaald: 2026-08-21
 ---
+
 # Inkomstenbelasting, vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds
 
-De Staatssecretaris van Financiën heeft het volgende besloten.
-
-**Dit besluit betreft de fiscale behandeling van de aanspraken van medisch specialisten op een transitiefonds in het geval zij besluiten over te stappen van vrijgevestigd ondernemer naar loondienst en voor deze overstap een compensatie krijgen voor de goodwill die aan hun onderneming verbonden is.**
+*Dit besluit betreft de fiscale behandeling van de aanspraken van medisch specialisten op een transitiefonds in het geval zij besluiten over te stappen van vrijgevestigd ondernemer naar loondienst en voor deze overstap een compensatie krijgen voor de goodwill die aan hun onderneming verbonden is.*
 
 ### 1. Inleiding
 
@@ -58,11 +34,37 @@ Een ziekenhuis dat van plan is een vrijgevestigde medisch specialist in loondien
 
 De aanspraak op het transitiefonds behoort in beginsel tot de ondernemingswinst. Ik heb besloten onder de volgende voorwaarden een goedkeuring te verlenen. Op deze manier wordt wat de heffing betreft, aangesloten bij het moment waarop de uitbetalingen uit de transitiefondsen plaatsvinden.
 
+Goedkeuring
+
 Ik keur goed dat de aanspraak van de medisch specialist op enig transitiefonds niet in de winst wordt betrokken op het moment van verkrijging van deze aanspraak. De uitbetaling(en) uit de transitiefondsen worden te zijner tijd belast als nagekomen ondernemingsbate (en vormen dus geen loon uit dienstbetrekking).
 
 Op het moment van de verkrijging van de aanspraak op een transitiefonds kunnen zich twee situaties voordoen:
 
+- 1. De boekwaarde van de geactiveerde goodwill is nihil: Voor deze situatie geldt de goedkeuring zoals hiervoor omschreven.
+
+- 2. De goodwill is nog niet geheel afgeschreven: De aanspraak op het moment van de verkrijging is belast als winst uit onderneming tot de hoogte van de boekwaarde van de geactiveerde goodwill. Op dat moment dient ook deze boekwaarde van de goodwill verminderd te worden met het bedrag van de aanspraak en ten hoogste tot nihil. Dit betekent dat de heffing over de aanspraak op het transitiefonds wordt gecompenseerd door een afwaardering van de geactiveerde goodwill. Het gevolg is dat ter zake feitelijk geen inkomstenbelasting verschuldigd is op het moment van verkrijging van de aanspraak. De uitkering uit het transitiefonds is vervolgens als nagekomen bate uit onderneming belast voor zover deze voortvloeit uit het nog niet eerder belaste deel van de aanspraak. Dat doet zich voor in het geval de boekwaarde van de geactiveerde goodwill lager is dan de aanspraak op het transitiefonds.
+
 De rentecomponent die ontstaat tussen het stakingstijdstip en het tijdstip waarop de betaling plaatsvindt, moet pro rata worden toegerekend aan het reeds belaste deel van de aanspraak (ter hoogte van de waarde van de op het stakingstijdstip geactiveerde goodwill) en aan het nog te belasten deel van de uitkering. De eerst bedoelde rentecomponent wordt niet meer in de heffing betrokken, omdat deze geacht wordt te zijn begrepen in het forfaitaire rendement op de aanspraak (box 3). De tweede rentecomponent wordt ten tijde van de uitkering als nagekomen bate uit de onderneming belast in box 1.
+
+Voorwaarden
+
+- a. De aanspraak wordt belast direct voorafgaande aan het moment dat de medisch specialist Nederland metterwoon verlaat;
+
+- b. Iedere medisch specialist sluit een vaststellingsovereenkomst met de Belastingdienst over de fiscale behandeling van zijn aanspraak op en de uitbetaling uit het transitiefonds. In deze overeenkomst wordt onder andere vastgelegd:
+
+   - – wat op het stakingstijdstip de boekwaarde van de goodwill van de medisch specialist is.
+
+   - – wat de hoogte van de aanspraak op het transitiefonds / het ziekenhuis is.
+
+   - – dat belastingplichtigen zich bij uitbetaling uit het transitiefonds niet op het standpunt zullen stellen dat belastingheffing al bij het ontstaan van de aanspraak had moeten plaatsvinden.
+
+   - – dat de transitiefondsen te zijner tijd voor iedere medisch specialist (met vermelding van LVN of BSN) aan de Belastingdienst de hierna vermelde informatie (eventueel digitaal) renseigneren:
+
+      - ○ wat de hoogte is van de uitbetaling exclusief rendement;
+
+      - ○ als sprake is van rendement: wat de hoogte is van het rendement.
+
+Overige opmerkingen
 
 De MKB-winstvrijstelling, als deze op het moment van uitbetaling nog in de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) is opgenomen, is van toepassing op het in de heffing te betrekken deel van de nagekomen ondernemingsbate.
 
@@ -72,14 +74,16 @@ Een schuld die destijds is aangegaan in verband met de betaling van goodwill, ga
 
 Het is ook mogelijk dat een medisch specialist zijn praktijk heeft ondergebracht in een personal holding (hierna: PHBV). De PHBV ontvangt in dat geval de aanspraak op het transitiefonds en niet de medisch specialist in zijn hoedanigheid als natuurlijk persoon.
 
+Goedkeuring
+
 Ik keur goed dat de aanspraak van de PHBV op enig transitiefonds niet in de winst wordt betrokken op het moment van verkrijging van deze aanspraak.
 
-De in onderdeel 4 gestelde voorwaarden zijn mutatis mutandis van toepassing op de goedkeuring voor de vennootschapsbelasting. In afwijking daarvan geldt dat de aanspraak direct wordt belast voorafgaande aan het moment dat de vennootschap niet langer in Nederland is gevestigd of als om andere reden heffing van vennootschapsbelasting over de uitbetaling te zijner tijd niet meer mogelijk is.
+Voorwaarden
+
+De in [onderdeel 4](https://wetten.overheid.nl/BWBR0035619) gestelde voorwaarden zijn mutatis mutandis van toepassing op de goedkeuring voor de vennootschapsbelasting. In afwijking daarvan geldt dat de aanspraak direct wordt belast voorafgaande aan het moment dat de vennootschap niet langer in Nederland is gevestigd of als om andere reden heffing van vennootschapsbelasting over de uitbetaling te zijner tijd niet meer mogelijk is.
 
 Wellicht ten overvloede merk ik op dat deze goedkeuring noch de voorwaarden invloed hebben op de fiscale behandeling van rente die verband houdt met een eventuele schuld die de PHBV is aangegaan in verband met de betaling van goodwill.
 
 ### 6. Inwerkingtreding
 
 Dit besluit treedt in werking de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
-
-Dit besluit wordt in de Staatscourant gepubliceerd.

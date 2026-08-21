@@ -1,58 +1,32 @@
 ---
 title: "Beleidsregel UWV Opschorting betaling bij vertrek naar onbekende bestemming"
+citeertitel: "Beleidsregels UWV opschorting betaling bij vertrek naar onbekende bestemming"
 identifier: "BWBR0035382"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-03-31"
-last_updated: "2018-03-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035382"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12740613"
-version_id: "21564672"
-internal_id: "C30967521"
-label_id: "12710414"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035382/2018-03-31/0"
-intitule_bron: "Stcrt.2014-20784"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-05-27"
-intitule_published: "2014-07-25"
-intitule_in_force: "2014-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-20784"
-original_signed_date: "2014-05-27"
-original_published_date: "2014-07-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-20784"
-entry_into_force_date: "2014-07-26"
-jci_1_3: "jci1.3:c:BWBR0035382&z=2018-03-31&g=2018-03-31"
-jci_1_0: "1.0:c:BWBR0035382&g=2018-03-31"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels UWV opschorting betaling bij vertrek naar onbekende bestemming"
-signed_date: "2014-05-27"
-entry_into_force: "2014-07-26"
+publicatiedatum: 2014-07-26
+laatste_update: 2018-03-31
+status: geldig
+toestand: 2018-03-31
+bron: "https://wetten.overheid.nl/BWBR0035382"
+opgehaald: 2026-08-21
 ---
+
 # Beleidsregel UWV Opschorting betaling bij vertrek naar onbekende bestemming
-
-Gelet op de [artikelen 30a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=30a), [42 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=42), [52 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=52), [69a van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=69a), [55b van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=55b), [2:55a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:55a) en [3:47a van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:47a), [15c van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=15c), [3:14a van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:14a) en [33a van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=33a);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- a. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- b. **uitkering:** een uitkering ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), alsook ziekengeld ingevolge de Ziektewet, inkomensvoorziening ingevolge de Wet werk en arbeidsondersteuning jonggehandicapten en toeslag ingevolge de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+- b. *uitkering:* een uitkering ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), alsook ziekengeld ingevolge de Ziektewet, inkomensvoorziening ingevolge de Wet werk en arbeidsondersteuning jonggehandicapten en toeslag ingevolge de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
-- c. **verzekerde:** de aanvrager van een uitkering of de rechthebbende op een uitkering;
+- c. *verzekerde:* de aanvrager van een uitkering of de rechthebbende op een uitkering;
 
-- d. **opschorting:** het tijdelijk niet uitbetalen van een lopende uitkering, alsook het tijdelijk niet uitbetalen van een uitkering die is toegekend, maar waarvan nog geen uitbetaling heeft plaatsgevonden;
+- d. *opschorting:* het tijdelijk niet uitbetalen van een lopende uitkering, alsook het tijdelijk niet uitbetalen van een uitkering die is toegekend, maar waarvan nog geen uitbetaling heeft plaatsgevonden;
 
-- e. **basisregistratie personen:** de basisregistratie personen, bedoeld in [artikel 1.2 van Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2).
+- e. *basisregistratie personen:* de basisregistratie personen, bedoeld in [artikel 1.2 van Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2).
 
 ##### Artikel 2. Afwijkende registratie binnen twaalf weken ongedaan maken
 
@@ -91,5 +65,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels UWV opschorting betaling bij vertrek naar onbekende bestemming.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

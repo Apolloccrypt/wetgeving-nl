@@ -1,56 +1,18 @@
 ---
 title: "Besluit van 1 september 2014, houdende regels voor het aanduiden van de hoeveelheid op voorverpakkingen (Warenwetbesluit hoeveelheden voorverpakkingen)"
+citeertitel: "Warenwetbesluit hoeveelheden voorverpakkingen"
 identifier: "BWBR0035560"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-21"
-last_updated: "2023-01-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035560"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12800533"
-version_id: "21735722"
-internal_id: "C31195201"
-label_id: "12770394"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035560/2023-01-21/0"
-intitule_bron: "Stb.2014-329"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-01"
-intitule_published: "2014-09-19"
-intitule_in_force: "2014-09-19"
-intitule_status: "goed"
-original_publication: "Stb.2014-329"
-original_signed_date: "2014-09-01"
-original_published_date: "2014-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-329"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035560&z=2023-01-21&g=2023-01-21"
-jci_1_0: "1.0:c:BWBR0035560&g=2023-01-21"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit hoeveelheden voorverpakkingen"
-signed_date: "2014-09-01"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2023-01-21
+status: geldig
+toestand: 2023-01-21
+bron: "https://wetten.overheid.nl/BWBR0035560"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 1 september 2014, houdende regels voor het aanduiden van de hoeveelheid op voorverpakkingen (Warenwetbesluit hoeveelheden voorverpakkingen)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 24 juni 2014, kenmerk 382626-122055-VGP, gedaan in overeenstemming met Onze Minister van Economische Zaken;
-
-Gelet op:
-
-[Richtlijn 2007/45/EG](32007L0045) van het Europees Parlement en de Raad van 5 september 2007 tot vaststelling van regels betreffende nominale hoeveelheden voor voorverpakte producten, tot intrekking van de [Richtlijnen 75/106/EEG](31975L0106) en [80/232/EEG](31980L0232) van de Raad en tot wijziging van [Richtlijn 76/211/EEG](31976L0211) van de Raad (PbEU 2007, L 247);
-
-[Richtlijn 76/211/EEG](31976L0211) van de Raad van 20 januari 1976 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het voorverpakken naar gewicht of volume van bepaalde producten in voorverpakkingen (PbEG 1976, L 46); en
-
-de [artikelen 8, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=9), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b), en [33, eerste en derde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=33);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 9 juli 2014, No.W13.14.0216/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 6 augustus 2014, 645331-123909-VGP, uitgebracht in overeenstemming met Onze Minister van Economische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -58,29 +20,31 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bedrijfscontrolesysteem:** de wijze waarop bedrijfscontroles als bedoeld in bijlage I, punt 4, vijfde alinea, van [Richtlijn 76/211/EEG](31976L0211), worden uitgeoefend;
+- *bedrijfscontrolesysteem:* de wijze waarop bedrijfscontroles als bedoeld in bijlage I, punt 4, vijfde alinea, van Richtlijn 76/211/EEG, worden uitgeoefend;
 
-- **derde land:** een staat, die geen lidstaat van de Europese Unie is, geen partij is bij een tot een douane-unie strekkend Verdrag, dan wel een staat die geen partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt;
+- *derde land:* een staat, die geen lidstaat van de Europese Unie is, geen partij is bij een tot een douane-unie strekkend Verdrag, dan wel een staat die geen partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt;
 
-- **℮-teken:** het teken bedoeld in bijlage I, punt 3.3, van [Richtlijn 76/211/EEG](31976L0211);
+- *℮-teken:* het teken bedoeld in bijlage I, punt 3.3, van Richtlijn 76/211/EEG;
 
-- **metrologische instantie:** de door de Minister van Volksgezondheid, Welzijn en Sport aangewezen rechtspersoon;
+- *metrologische instantie:* de door de Minister van Volksgezondheid, Welzijn en Sport aangewezen rechtspersoon;
 
-- **gedistilleerde drank**: drank als bedoeld in artikel 2 van [verordening (EU) 2019/787](32687R2019) van het Europees Parlement en de Raad van 17 april 2019 betreffende de definitie, omschrijving, presentatie en etikettering van gedistilleerde dranken, het gebruik van de namen van gedistilleerde dranken in de presentatie en etikettering van andere levensmiddelen en de bescherming van geografische aanduidingen van gedistilleerde dranken, het gebruik van ethylalcohol en distillaten uit landbouwproducten in alcoholhoudende dranken, en tot intrekking van [Verordening (EG) nr. 110/2008](32008R0110) (PbEU 2019, L 130);
+- *gedistilleerde drank*: drank als bedoeld in artikel 2 van verordening (EU) 2019/787 van het Europees Parlement en de Raad van 17 april 2019 betreffende de definitie, omschrijving, presentatie en etikettering van gedistilleerde dranken, het gebruik van de namen van gedistilleerde dranken in de presentatie en etikettering van andere levensmiddelen en de bescherming van geografische aanduidingen van gedistilleerde dranken, het gebruik van ethylalcohol en distillaten uit landbouwproducten in alcoholhoudende dranken, en tot intrekking van Verordening (EG) nr. 110/2008 (PbEU 2019, L 130);
 
-- **in de handel brengen:** voor het eerst tegen vergoeding of gratis in Nederland, een andere lidstaat van de Europese Unie, of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot de douane-unie strekkend Verdrag, dan wel een staat die partij is bij een tot een vrijhandelszone strekken Verdrag dat Nederland bindt een voorverpakking met daarop een ℮-teken of gedistilleerde drank ter beschikking te stellen met het oog op distributie ervan;
+- *in de handel brengen:* voor het eerst tegen vergoeding of gratis in Nederland, een andere lidstaat van de Europese Unie, of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot de douane-unie strekkend Verdrag, dan wel een staat die partij is bij een tot een vrijhandelszone strekken Verdrag dat Nederland bindt een voorverpakking met daarop een ℮-teken of gedistilleerde drank ter beschikking te stellen met het oog op distributie ervan;
 
-- **importeur:** degene die in de uitoefening van een bedrijf dat in Nederland is gevestigd voorverpakkingen met daarop een ℮-teken in de handel brengt of beoogt te brengen die afkomstig zijn uit een derde land;
+- *importeur:* degene die in de uitoefening van een bedrijf dat in Nederland is gevestigd voorverpakkingen met daarop een ℮-teken in de handel brengt of beoogt te brengen die afkomstig zijn uit een derde land;
 
-- **Richtlijn 2007/45/EG:** [Richtlijn 2007/45/EG](32007L0045) van het Europees Parlement en de Raad van 5 september 2007 tot vaststelling van regels betreffende nominale hoeveelheden voor voorverpakte producten, tot intrekking van de [Richtlijnen 75/106/EEG](31975L0106) en [80/232/EEG](31980L0232) van de Raad en tot wijziging van [Richtlijn 76/211/EEG](31976L0211) van de Raad (PbEU 2007, L 247);
+- *Richtlijn 2007/45/EG:*
+ Richtlijn 2007/45/EG van het Europees Parlement en de Raad van 5 september 2007 tot vaststelling van regels betreffende nominale hoeveelheden voor voorverpakte producten, tot intrekking van de Richtlijnen 75/106/EEG en 80/232/EEG van de Raad en tot wijziging van Richtlijn 76/211/EEG van de Raad (PbEU 2007, L 247);
 
-- **Richtlijn 76/211/EEG:** [Richtlijn 76/211/EEG](31976L0211) van de Raad van 20 januari 1976 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het voorverpakken naar gewicht of volume van bepaalde producten in voorverpakkingen (PbEG 1976, L 46);
+- *Richtlijn 76/211/EEG:*
+ Richtlijn 76/211/EEG van de Raad van 20 januari 1976 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het voorverpakken naar gewicht of volume van bepaalde producten in voorverpakkingen (PbEG 1976, L 46);
 
-- **voorverpakking:** het geheel van een product en de individuele verpakking waarin het is voorverpakt, waarbij voldaan is aan artikel 2, tweede lid, van [Richtlijn 76/211/EEG](31976L0211);
+- *voorverpakking:* het geheel van een product en de individuele verpakking waarin het is voorverpakt, waarbij voldaan is aan artikel 2, tweede lid, van Richtlijn 76/211/EEG;
 
-- **vulbedrijf:** degene die in de uitoefening van een bedrijf dat in Nederland is gevestigd voorverpakkingen met daarop een ℮-teken afvult.
+- *vulbedrijf:* degene die in de uitoefening van een bedrijf dat in Nederland is gevestigd voorverpakkingen met daarop een ℮-teken afvult.
 
-2. Dit besluit is van toepassing op voorverpakkingen als bedoeld in artikel 1 van [Richtlijn 76/211/EEG](31976L0211).
+2. Dit besluit is van toepassing op voorverpakkingen als bedoeld in artikel 1 van Richtlijn 76/211/EEG.
 
 ##### Artikel 2
 
@@ -92,11 +56,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Het in de handel brengen van voorverpakkingen met daarop het ℮-teken geschiedt met inachtneming van de bij de artikelen 3, eerste lid, en 4, eerste tot en met derde lid, van [Richtlijn 76/211/EEG](31976L0211) gestelde voorschriften.
+Het in de handel brengen van voorverpakkingen met daarop het ℮-teken geschiedt met inachtneming van de bij de artikelen 3, eerste lid, en 4, eerste tot en met derde lid, van Richtlijn 76/211/EEG gestelde voorschriften.
 
 ##### Artikel 4
 
-Een geregeld meetinstrument als bedoeld in de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) is een wettig meetmiddel als bedoeld in bijlage I, punt 4, tweede alinea, van [Richtlijn 76/211/EEG](31976L0211).
+Een geregeld meetinstrument als bedoeld in de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) is een wettig meetmiddel als bedoeld in bijlage I, punt 4, tweede alinea, van Richtlijn 76/211/EEG.
 
 ##### Artikel 5
 
@@ -114,7 +78,7 @@ Een geregeld meetinstrument als bedoeld in de [Metrologiewet](https://wetten.ove
 
 1. Indien de importeur niet de werkelijke inhoud van elke voorverpakking met daarop een ℮-teken meet, beschikt de importeur over een door Onze Minister erkend bedrijfscontrolesysteem dan wel een verklaring waaruit blijkt dat de werkelijke inhoud van voorverpakkingen met daarop het ℮-teken is gegarandeerd.
 
-2. Een verklaring als bedoeld in het eerste lid wordt afgegeven als voldaan is aan bijlage I, punt 4, zesde alinea, van [Richtlijn 76/211/EEG](31976L0211). Voordat de verklaring wordt afgegeven wordt de metrologische instantie gehoord.
+2. Een verklaring als bedoeld in het eerste lid wordt afgegeven als voldaan is aan bijlage I, punt 4, zesde alinea, van Richtlijn 76/211/EEG. Voordat de verklaring wordt afgegeven wordt de metrologische instantie gehoord.
 
 3. Indien een importeur gebruik maakt van een bedrijfscontrolesysteem is [artikel 5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=5&z=2023-01-21&g=2023-01-21), van overeenkomstige toepassing op de erkenning van het bedrijfscontrolesysteem.
 
@@ -136,11 +100,11 @@ De voorlopige of definitieve erkenning van een bedrijfscontrolesysteem, of een v
 
 ##### Artikel 9
 
-De termijn gedurende welke de in bijlage I, punt 4, vijfde alinea, van [Richtlijn 76/211/EEG](31976L0211), bedoelde documenten ter beschikking van de met het toezicht op de naleving van dit besluit belaste ambtenaren of personen worden gehouden, bedraagt ten minste één jaar.
+De termijn gedurende welke de in bijlage I, punt 4, vijfde alinea, van Richtlijn 76/211/EEG, bedoelde documenten ter beschikking van de met het toezicht op de naleving van dit besluit belaste ambtenaren of personen worden gehouden, bedraagt ten minste één jaar.
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 #### § 3. Voorverpakkingen zonder ℮-teken
 
@@ -152,23 +116,23 @@ Indien op een voorverpakking geen ℮-teken is aangebracht bevat de voorverpakki
 
 ##### Artikel 12
 
-1. Gedistilleerde drank dat in een voorverpakking binnen het in punt 1 van de bijlage bij [Richtlijn 2007/45/EG](32007L0045) vermelde interval voor gedistilleerde drank is verpakt, wordt uitsluitend in de handel gebracht indien het is voorverpakt in de in punt 1 van die bijlage voor gedistilleerde dranken vermelde nominale hoeveelheden.
+1. Gedistilleerde drank dat in een voorverpakking binnen het in punt 1 van de bijlage bij Richtlijn 2007/45/EG vermelde interval voor gedistilleerde drank is verpakt, wordt uitsluitend in de handel gebracht indien het is voorverpakt in de in punt 1 van die bijlage voor gedistilleerde dranken vermelde nominale hoeveelheden.
 
 2. Het eerste lid is niet van toepassing op voorverpakte gedistilleerde drank die in belastingvrije winkels wordt verkocht voor consumptie buiten de Europese Unie.
 
-3. Bij twee of meer individuele voorverpakkingen van gedistilleerde drank die samen een meervoudige verpakking vormen, zijn de in punt 1 van de bijlage bij [Richtlijn 2007/45/EG](32007L0045) opgenomen hoeveelheden van toepassing op elke individuele voorverpakking.
+3. Bij twee of meer individuele voorverpakkingen van gedistilleerde drank die samen een meervoudige verpakking vormen, zijn de in punt 1 van de bijlage bij Richtlijn 2007/45/EG opgenomen hoeveelheden van toepassing op elke individuele voorverpakking.
 
-4. Indien een voorverpakking van gedistilleerde drank bestaat uit twee of meer individuele verpakkingen die niet voor individuele verkoop zijn bestemd, zijn de in punt 1 van de bijlage bij [Richtlijn 2007/45/EG](32007L0045) opgenomen nominale hoeveelheden van toepassing op de voorverpakking.
+4. Indien een voorverpakking van gedistilleerde drank bestaat uit twee of meer individuele verpakkingen die niet voor individuele verkoop zijn bestemd, zijn de in punt 1 van de bijlage bij Richtlijn 2007/45/EG opgenomen nominale hoeveelheden van toepassing op de voorverpakking.
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
+*Wijzigt het Warenwetbesluit bestuurlijke boeten.*
 
 ##### Artikel 15
 
@@ -176,10 +140,8 @@ Het [Hoeveelheidsaanduidingenbesluit (Warenwet)](https://wetten.overheid.nl/jci1
 
 ##### Artikel 16
 
-Dit besluit treedt in werking met ingang van 1 januari 2015.
+Dit besluit treedt in werking met ingang van 1 januari 2015.
 
 ##### Artikel 17
 
 Dit besluit wordt aangehaald als: Warenwetbesluit hoeveelheden voorverpakkingen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

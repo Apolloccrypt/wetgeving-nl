@@ -1,42 +1,17 @@
 ---
 title: "Deelnemings- en Inschrijvingsverordening registerloodsen 2014"
 identifier: "BWBR0035202"
-country: "nl"
-rank: "pbo"
-publication_date: "2015-06-17"
-last_updated: "2015-06-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035202"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12691133"
-version_id: "21448402"
-internal_id: "C30793641"
-label_id: "12661314"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035202/2015-06-17/0"
-intitule_bron: "Stcrt.2014-16109"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-06-12"
-intitule_in_force: "2014-06-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-16109"
-original_published_date: "2014-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-16109"
-entry_into_force_date: "2014-06-13"
-jci_1_3: "jci1.3:c:BWBR0035202&z=2015-06-17&g=2015-06-17"
-jci_1_0: "1.0:c:BWBR0035202&g=2015-06-17"
-citeertitel_status: "officieel"
-entry_into_force: "2014-06-13"
+publicatiedatum: 2014-06-13
+laatste_update: 2015-06-17
+status: geldig
+toestand: 2015-06-17
+bron: "https://wetten.overheid.nl/BWBR0035202"
+opgehaald: 2026-08-21
 ---
+
 # Deelnemings- en Inschrijvingsverordening registerloodsen 2014
-
-Gelet op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15), [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=16), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=22), en [24, eerste lid, onderdeel d, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=24);
-
-Besluit vast te stellen:
-
-**Deelnemings- en inschrijvingsverordening registerloodsen 2014**
 
 #### Paragraaf 1. Algemeen
 
@@ -44,11 +19,11 @@ Besluit vast te stellen:
 
 In deze verordening wordt verstaan onder:
 
-- a. **aspirant:** degene die de opleiding tot registerloods gaat volgen of volgt gedurende de periode dat hij beschikt over een geldig bewijs tot deelname aan die opleiding, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=3&artikel=4&z=2015-06-17&g=2015-06-17);
+- a. *aspirant:* degene die de opleiding tot registerloods gaat volgen of volgt gedurende de periode dat hij beschikt over een geldig bewijs tot deelname aan die opleiding, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=3&artikel=4&z=2015-06-17&g=2015-06-17);
 
-- b. **bewijs tot deelname:** een bewijs van toelating voor de opleiding, overeenkomstig [artikel 7.30b, eerste lid van de Wet op Hoger onderwijs en Wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30b);
+- b. *bewijs tot deelname:* een bewijs van toelating voor de opleiding, overeenkomstig [artikel 7.30b, eerste lid van de Wet op Hoger onderwijs en Wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30b);
 
-- c. **inschrijvingsverklaring:** de verklaring als bedoeld in [artikel 22, derde lid van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=22).
+- c. *inschrijvingsverklaring:* de verklaring als bedoeld in [artikel 22, derde lid van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=22).
 
 ##### Artikel 2. Inschrijvingsverklaring
 
@@ -76,7 +51,7 @@ De [Deelnemings- en Inschrijvingsverordening](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 6. Overgangsrecht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -85,35 +60,3 @@ Deze verordening treedt in werking met ingang van de eerste dag na dagtekening v
 ##### Artikel 8. Citeertitel
 
 Deze verordening wordt aangehaald als: Deelnemings- en Inschrijvingsverordening registerloodsen 2014.
-
-## Bijlage I. Behoort bij de Deelnemings- en Inschrijvingsverordening registerloodsen 2014 bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=1&artikel=2&z=2015-06-17&g=2015-06-17) vastgesteld bij besluit van de ledenvergadering van de Nederlandse Loodsencorporatie op 3 juni 2014 te Rotterdam, nr. 1
-
-## Bijlage II. Behoort bij de Deelnemings- en Inschrijvingsverordening registerloodsen 2014 bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=3&artikel=4&z=2015-06-17&g=2015-06-17) vastgesteld bij besluit van de ledenvergadering van de Nederlandse Loodsencorporatie op 3 juni 2014 te Rotterdam, nr. 1
-
-### Model
-
-### Bewijs tot deelname aan de OTR:MMP
-
-Het instellingsbestuur verstrekt een Bewijs tot deelname aan opleiding tot registerloods (OTR:MMP....) aan:
-
-Naam:
-
-Wonende te:
-
-Geboren te:
-
-hierna te noemen de aspirant;
-
-waarbij de aspirant verklaart dat de door hem of haar verstrekte gegevens met betrekking tot identificatie, vooropleidingen, certificaten en bevoegdheidsbewijzen aan het opleidingsbureau op authenticiteit berusten,
-
-en
-
-dat de aspirant door deel te nemen aan de OTR:MMP....., die aanvangt op [dd-mm-jjjj] en uiterlijk eindigt op [dd-mm-jjjj], alle daarbij horende rechten en verplichtingen bij of krachtens de Onderwijs- en Examenregeling OTR:MMP (OER OTR:MMP) en de Deelnemings- en Inschrijvingsverordening registerloodsen 2014 aanvaardt door dit bewijs per omgaande ondertekend in te leveren bij het opleidingsbureau.
-
-Van de OER OTR:MMP en de Deelnemings- en Inschrijvingsverordening registerloodsen 2014 is een afschrift bij dit bewijs toegevoegd.
-
-Namens het instellingsbestuur..........
-
-Aspirant..........
-
-Voorzitter van de Nederlandse Loodsencorporatie

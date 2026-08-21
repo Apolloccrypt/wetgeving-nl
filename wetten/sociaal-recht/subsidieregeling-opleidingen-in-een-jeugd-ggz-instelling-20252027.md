@@ -1,11 +1,15 @@
 ---
-title: "Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2025–2027"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 oktober 2014, kenmerk 663853-125983-MEVA, houdende regels voor de verstrekking van subsidie voor de financiering van opleidingsplaatsen voor de opleiding tot gezondheidszorg psycholoog, psychiater, psychotherapeut en klinisch psycholoog in een kinder- en jeugd ggz-instelling (Subsidieregeling Opleidingen in een jeugd ggz-instelling 2015–2017)"
+citeertitel: "Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2025–2027"
 identifier: "BWBR0035636"
-categorie: "Overig"
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-17
-laatste_update: 2026-07-22
+laatste_update: 2026-07-17
 status: geldig
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0035636"
+opgehaald: 2026-08-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 oktober 2014, kenmerk 663853-125983-MEVA, houdende regels voor de verstrekking van subsidie voor de financiering van opleidingsplaatsen voor de opleiding tot gezondheidszorg psycholoog, psychiater, psychotherapeut en klinisch psycholoog in een kinder- en jeugd ggz-instelling (Subsidieregeling Opleidingen in een jeugd ggz-instelling 2015–2017)
@@ -14,31 +18,35 @@ bron: "https://wetten.overheid.nl/BWBR0035636"
 
 In deze regeling wordt verstaan onder:
 
-- a. **opleideling of arts in opleiding:** natuurlijk persoon die een zorgopleiding volgt;
+- a. *opleideling of arts in opleiding:* natuurlijk persoon die een zorgopleiding volgt;
 
-- b. **opleidingsplaats:** capaciteit, uitgedrukt in fulltime-equivalenten (fte), bij een praktijkopleidinginstelling respectievelijk opleidingsinrichting om een opleideling respectievelijk arts in opleiding op te leiden;
+- b. *opleidingsplaats:* capaciteit, uitgedrukt in fulltime-equivalenten (fte), bij een praktijkopleidinginstelling respectievelijk opleidingsinrichting om een opleideling respectievelijk arts in opleiding op te leiden;
 
-- c. **instroom:** opleidingsplaatsen, uitgedrukt in fulltime-equivalenten en aantal personen, voor opleidelingen of artsen in opleiding die in het subsidiejaar met een zorgopleiding aanvangen;
+- c. *instroom:* opleidingsplaatsen, uitgedrukt in fulltime-equivalenten en aantal personen, voor opleidelingen of artsen in opleiding die in het subsidiejaar met een zorgopleiding aanvangen;
 
-- d. **doorstroom:** opleidingsplaatsen, uitgedrukt in fulltime-equivalenten, voor opleidelingen of artsen in opleiding die voor aanvang van het subsidiejaar met een zorgopleiding aangevangen zijn;
+- d. *doorstroom:* opleidingsplaatsen, uitgedrukt in fulltime-equivalenten, voor opleidelingen of artsen in opleiding die voor aanvang van het subsidiejaar met een zorgopleiding aangevangen zijn;
 
-- e. **gerealiseerde opleidingsplaats:** aantal uren, uitgedrukt in fulltime-equivalenten, dat de opleideling of arts in opleiding de zorgopleiding in het subsidiejaar feitelijk heeft gevolgd met inachtneming van de opleidingseisen in de relevante opleidingsregelgeving;
+- e. *gerealiseerde opleidingsplaats:* aantal uren, uitgedrukt in fulltime-equivalenten, dat de opleideling of arts in opleiding de zorgopleiding in het subsidiejaar feitelijk heeft gevolgd met inachtneming van de opleidingseisen in de relevante opleidingsregelgeving;
 
-- f. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- f. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- g. **opleidingsinrichting:** opleidende zorginstelling die door de Registratiecommissie Geneeskundig Specialisten (RGS) is erkend voor het verzorgen van (een deel van) de opleiding tot psychiater;
+- g. *opleidingsinrichting:* opleidende zorginstelling die door de Registratiecommissie Geneeskundig Specialisten (RGS) is erkend voor het verzorgen van (een deel van) de opleiding tot psychiater;
 
-- h. **praktijkopleidinginstelling:** opleidende zorginstelling of zorgaanbieder die of het samenwerkingsverband van zorginstellingen en/of zorgaanbieders dat is erkend door een registratiecommissie voor het verzorgen van het praktijkgedeelte van de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog, klinisch neuropsycholoog, psychotherapeut of verpleegkundig specialist;
+- h. *praktijkopleidinginstelling:* opleidende zorginstelling of zorgaanbieder die of het samenwerkingsverband van zorginstellingen en/of zorgaanbieders dat is erkend door een registratiecommissie voor het verzorgen van het praktijkgedeelte van de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog, klinisch neuropsycholoog, psychotherapeut of verpleegkundig specialist;
 
-- i. **registratiecommissie:** de Registratiecommissie Geneeskundig Specialisten (RGS) van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst voor de opleiding tot psychiater, de Registratiecommissie Specialismen Verpleegkunde (RSV) voor de opleiding tot verpleegkundig specialist, of de Commissie Registratie en Toezicht (CRT) van de FGzPt voor de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog, klinisch neuropsycholoog of psychotherapeut;
+- i. *registratiecommissie:* de Registratiecommissie Geneeskundig Specialisten (RGS) van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst voor de opleiding tot psychiater, de Registratiecommissie Specialismen Verpleegkunde (RSV) voor de opleiding tot verpleegkundig specialist, of de Commissie Registratie en Toezicht (CRT) van de FGzPt voor de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog, klinisch neuropsycholoog of psychotherapeut;
 
-- j. **opleidingsschema:** schema, opgenomen in het opleidingsregister van de registratiecommissies, van de opleidingsinrichting(en) of praktijkopleidinginstelling(en) en tijdsperioden waarin de arts in opleiding of de opleideling de zorgopleiding volgt;
+- j. *opleidingsschema:* schema, opgenomen in het opleidingsregister van de registratiecommissies, van de opleidingsinrichting(en) of praktijkopleidinginstelling(en) en tijdsperioden waarin de arts in opleiding of de opleideling de zorgopleiding volgt;
 
-- k. **zorgopleiding:** opleiding tot psychiater, gezondheidspsycholoog, klinisch psycholoog, psychotherapeut, klinisch neuropsycholoog of verpleegkundig specialist ggz;
+- k. *zorgopleiding:* opleiding tot psychiater, gezondheidspsycholoog, klinisch psycholoog, psychotherapeut, klinisch neuropsycholoog of verpleegkundig specialist ggz;
 
-- l. **subsidiejaar:** jaar ten behoeve waarvan de subsidie aan de instelling wordt verstrekt;
+- l. *subsidiejaar:* jaar ten behoeve waarvan de subsidie aan de instelling wordt verstrekt;
 
-- m. **verdeelplan jeugd GGZ:** het overzicht opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2026-07-17&g=2026-07-17).
+- m. *verdeelplan jeugd GGZ:* het overzicht opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2026-07-17&g=2026-07-17).
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 ##### Artikel 2
 
@@ -60,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De aanvraag van een subsidie voor subsidiejaar 2027 wordt in de periode vanaf 2 november 2026 om 9:00 uur tot en met 30 november 2026 13:00 uur ontvangen. De minister kan tot een daarbij aan te geven datum vrijstelling of ontheffing verlenen van de aanvraagtermijn.
+1. De aanvraag van een subsidie voor subsidiejaar 2027 wordt in de periode vanaf 2 november 2026 om 9:00 uur tot en met 30 november 2026 13:00 uur ontvangen. De minister kan tot een daarbij aan te geven datum vrijstelling of ontheffing verlenen van de aanvraagtermijn.
 
 2. De minister besluit binnen dertien weken na ontvangst van de aanvraag over de verlening van de subsidie.
 
@@ -78,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - a. voor wat betreft de instroom: het maximum aantal opleidingsplaatsen waarvoor de subsidie wordt verleend vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding;
 
-- b. voor wat betreft de doorstroom: het aantal opleidingsplaatsen voor het subsidiejaar zoals opgenomen in de opleidingsschema’s per 31 oktober van het jaar voorafgaand aan het subsidiejaar vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding.
+- b. voor wat betreft de doorstroom: het aantal opleidingsplaatsen voor het subsidiejaar zoals opgenomen in de opleidingsschema’s per 31 oktober van het jaar voorafgaand aan het subsidiejaar vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding.
 
 ##### Artikel 5
 
@@ -110,7 +118,7 @@ De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verle
 
 1. Binnen tweeëntwintig weken na afloop van het subsidiejaar geeft de minister ambtshalve een beschikking tot vaststelling van de verleende subsidie.
 
-2. De verleende subsidie wordt vastgesteld op het aantal gerealiseerde opleidingsplaatsen, opgenomen in de opleidingsschema’s van 15 februari na afloop het subsidiejaar, vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding, met dien verstande dat de subsidie voor wat betreft de instroom ten hoogste wordt vastgesteld op het aantal personen en opleidingsplaatsen waarvoor de subsidie is verleend.
+2. De verleende subsidie wordt vastgesteld op het aantal gerealiseerde opleidingsplaatsen, opgenomen in de opleidingsschema’s van 15 februari na afloop het subsidiejaar, vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding, met dien verstande dat de subsidie voor wat betreft de instroom ten hoogste wordt vastgesteld op het aantal personen en opleidingsplaatsen waarvoor de subsidie is verleend.
 
 ##### Artikel 9
 
@@ -120,140 +128,14 @@ De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verle
 
 ##### Artikel 10
 
-Vervallen
-
-##### Artikel 11
-
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2028, met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
-
-Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2025–2027. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1. Instellingen
-
-|   | Naam | Plaats |
-| --- | --- | --- |
-| 1. | Curium, Academisch Centrum Kinder- en Jeugdpsychiatrie | Leiden |
-| 2 | Mutsaersstichting | Venlo |
-| 3. | Jeugdhulp Friesland | Leeuwarden |
-| 4. | Jutz | Breda |
-
-## Bijlage 1. Instellingen
-
-|   | Naam | Plaats |
-| --- | --- | --- |
-| 1. | Curium, Academisch centrum Kinder- en Jeugdpsychiatrie | Leiden |
-| 2. | Mutsaersstichting | Venlo |
-| 3. | Jeugdhulp Friesland | Leeuwarden |
-| 4. | Juzt | Breda |
-| 5. | Dekker & Dooyeweerd | Ede |
-| 6. | Dyslexiezorg Noord-Nederland DZNN | Joure |
-| 7. | Heldring en Ambulatorium | Zetten |
-| 8. | MOC ’t Kabouterhuis | Amsterdam |
-| 9. | Orthopedagogische Praktijk Ermelo | Ermelo |
-| 10. | Praktijk Rigtering B.V | Arnhem |
-| 11. | Praktijk voor leer- en gedragsadviezen | Hilversum |
-| 12. | Rebis | Oeffelt |
-| 13. | Jarabee | Hengeloo |
-| 14. | Centraal Nederland landelijke protestants-christelijke SBD | Nunspeet |
-
-## Bijlage 1. Subsidiebedrag per opleidingsplaats per fte:
-
-| nr. | zorgopleiding | Subsidiebedrag per opleidingsplaats per jaar |
-| --- | --- | --- |
-| 1. | Gezondheidszorgpsycholoog in ggz | € 32.000,– |
-| 2. | Klinisch psycholoog in ggz | € 39.000,-– |
-| 3. | Psychiater in ggz | € 52.800,– |
-| 4. | Psychotherapeut in ggz | € 52.800,– |
-| 5. | Klinisch Neuropsycholoog in ggz | € 63.600,– |
-| 6. | Verpleegkundig specialist ggz | € 37.500,– |
-|   | Prijspeil 2019 |   |
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS- Subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
-
-## Bijlage 1. Subsidiebedrag per opleidingsplaats per fte als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=2&z=2026-07-17&g=2026-07-17):
-
-| Nr. | Zorgopleiding | Subsidiebedrag per opleidingsplaats per jaar, voor jaren 2024 en 2027 | Subsidiebedrag per opleidingsplaats per jaar, voor jaren 2025 en 2026 |
-| --- | --- | --- | --- |
-| 1. | Gezondheidszorgpsycholoog in ggz | € 54.000 | € 56.600 |
-| 2. | Klinisch psycholoog in ggz | € 101.600 | € 106.500 |
-| 3. | Psychiater in ggz | € 102.600 | € 107.500 |
-| 4. | Psychotherapeut in ggz | € 68.800 | € 72.100 |
-| 5. | Klinisch Neuropsycholoog in ggz | € 106.600 | € 111.700 |
-| 6. | Verpleegkundig specialist ggz | € 100.300 | € 105.100 |
-
-**Ministerie van Volksgezondheid, Welzijn en Sport**
-
-**Ministerie van Volksgezondheid, Welzijn en Sport**
-
-**Aanvraagformulier t.b.v. een subsidieverlening 2015**
-
-### I. Vul de onderstaande gegevens van uw instelling in.
-
-### I. Vul de onderstaande gegevens van uw instelling in.
-
-Directie MEVA
-
-### III. Beschrijving activiteit en behaalde resultaten:
-
-### III. Beschrijving activiteit en behaalde resultaten:
-
-**Het bestuur, danwel een namens het bestuur gevolmachtigde, verklaart kennis te hebben genomen van de vigerende wet- en regelgeving op basis waarvan onderhavige subsidie wordt aangevraagd en verklaart onderhavige subsidieaanvraag volledig juist en naar waarheid te hebben ingevuld. Bovendien verklaart het bestuur/de gevolmachtigde dat de opleidingsinrichting per zorgopleiding voor de periode waarvoor subsidie is aangevraagd beschikt over een opleidingserkenning.**
-
-**Het bestuur, danwel een namens het bestuur gevolmachtigde, verklaart kennis te hebben genomen van de vigerende wet- en regelgeving op basis waarvan onderhavige subsidie wordt aangevraagd en verklaart onderhavige subsidieaanvraag volledig juist en naar waarheid te hebben ingevuld. Bovendien verklaart het bestuur/de gevolmachtigde dat de opleidingsinrichting per zorgopleiding voor de periode waarvoor subsidie is aangevraagd beschikt over een opleidingserkenning.**
-
-**Met het aanvragen van de subsidie machtigt het bestuur, dan wel een namens het bestuur gevolmachtigde, de minister om de opleidingsschema's bij de registratiecommissie op te vragen.**
-
-##### Artikel 1a
-
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
-
-## Bijlage 2. Verdeelplan jeugd ggz, subsidiejaar 2026, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=3&z=2026-07-17&g=2026-07-17)
-
-Een overzicht van verdeling van het maximaal aantal instroomplaatsen en bijbehorende fte voor de vervolgopleiding tot een specialisme per verschillende jeugd-ggz-instelling dat jaarlijks wordt vastgesteld.
-
-| Instelling | Plaats | Specialisatie | Aantal instroomplaatsen | FTE factor | Toewijzing in FTE |
-| --- | --- | --- | --- | --- | --- |
-| Affect Consult | Eersel | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Basic Trust | Dordrecht | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Connect2Care Jeugd | Heerhugowaard | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| De Combinatie Jeugdzorg | Eindhoven | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| De Kinderkliniek | Almere | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Elker | Groningen | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Entrea Lindenhout | Arnhem | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Helios Kind en Jeugd | Oldenzaal | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Jarabee, jeugdzorg in Twente | Hengelo | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Jaxie! Praktijk voor kinderpsychologie en orthopedagogiek | Roosendaal | Gezondheidszorgpsycholoog | 2 | 1 | 2 |
-| Jeugd en Gezin B.V. | Almere | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Jeugdhulp Friesland | Leeuwarden | Gezondheidszorgpsycholoog | 2 | 1 | 2 |
-| MOC 't Kabouterhuis | Amsterdam | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| OCRN | Groningen | Gezondheidszorgpsycholoog | 3 | 1 | 3 |
-| Parlan | Alkmaar | Gezondheidszorgpsycholoog | 2 | 1 | 2 |
-| Praktijk Haans KaJo | Den Dungen | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Praktijk Op Maat Gemaakt | Bilthoven | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Praktijk Rigtering | Arnhem | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Psychiatriepraktijk Wageningen | Wageningen | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Psychologenpraktijk Putten Kind en Jeugd | Putten | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Psychologische Dienstverlening Ijsselgroep | Apeldoorn | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| RIOzorg | Arnhem | Gezondheidszorgpsycholoog | 2 | 1 | 2 |
-| Sterk Huis | Tilburg | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Stichting Care4Kidz | Schimmert | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| Stichting Ouder- en Kind Teams Amsterdam (OKT) | Amsterdam | Gezondheidszorgpsycholoog | 2 | 1 | 2 |
-| Stichting Yorneo | Assen | Gezondheidszorgpsycholoog | 1 | 1 | 1 |
-| OCRN | Groningen | Klinisch psycholoog | 2 | 0,75 | 1,5 |
-| OCRN | Groningen | Psychotherapeut | 2 | 0,5 | 1 |
-
-**Opleidingen in een Jeugd ggz-instelling**
-
-### II. Bij welke directie vraagt u een subsidie aan?
-
-Directie MEVA
-
-### IV. Ondertekening
-
-**Bevoegd conform KvK JA/NEE (Indien NEE:voeg volmacht toe)**
+*Vervallen*
 
 ##### Artikel 10a
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
+
+##### Artikel 11
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2028, met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
+
+Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2025–2027. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

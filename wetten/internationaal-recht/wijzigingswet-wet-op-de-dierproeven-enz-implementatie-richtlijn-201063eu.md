@@ -1,59 +1,30 @@
 ---
 title: "Wet van 26 november 2014 tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU"
+citeertitel: "Wijzigingswet Wet op de dierproeven, enz. (implementatie richtlijn 2010/63/EU)"
 identifier: "BWBR0035875"
-country: "nl"
-rank: "wet"
-publication_date: "2014-12-18"
-last_updated: "2014-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035875"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12869983"
-version_id: "21868192"
-internal_id: "C31387441"
-label_id: "12839454"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035875/2014-12-18/0"
-intitule_bron: "Stb.2014-473"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-26"
-intitule_published: "2014-12-05"
-intitule_in_force: "2014-12-05"
-intitule_status: "goed"
-original_publication: "Stb.2014-473"
-original_signed_date: "2014-11-26"
-original_published_date: "2014-12-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "33692"
-original_url_id: "stb-2014-473"
-entry_into_force_date: "2014-12-18"
-jci_1_3: "jci1.3:c:BWBR0035875&z=2014-12-18&g=2014-12-18"
-jci_1_0: "1.0:c:BWBR0035875&g=2014-12-18"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de dierproeven, enz. (implementatie richtlijn 2010/63/EU)"
-signed_date: "2014-11-26"
-entry_into_force: "2014-12-18"
+publicatiedatum: 2014-12-18
+laatste_update: 2014-12-18
+status: geldig
+toestand: 2014-12-18
+bron: "https://wetten.overheid.nl/BWBR0035875"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 26 november 2014 tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de implementatie van [richtlijn 2010/63](32010L0063)/EU betreffende de bescherming van dieren die voor wetenschappelijke doeleinden worden gebruikt noodzakelijk is de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081) te wijzigen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de dierproeven.
+*Wijzigt de Wet op de dierproeven.*
 
 ##### Artikel Ia
 
-Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
+*Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.*
 
 ##### Artikel Ib
 
-Wijzigt de Wet dieren.
+*Wijzigt de Wet dieren.*
 
 ##### Artikel II
 
@@ -72,5 +43,3 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 ##### Artikel IV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

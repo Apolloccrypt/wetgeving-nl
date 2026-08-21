@@ -1,45 +1,18 @@
 ---
 title: "Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen Aruba, Curaçao, Sint Maarten en Nederland op het gebied van de overdracht van personen aan wie rechtens hun vrijheid is ontnomen op grond van een veroordeling tot een vrijheidsstrafBottom of Form"
+citeertitel: "Onderlinge regeling Aruba, Curaçao, Sint Maarten en Nederland ex artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van de overdracht van personen aan wie rechtens hun vrijheid is ontnomen op grond van een veroordeling tot een vrijheidsstraf)"
 identifier: "BWBR0035271"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-07-03"
-last_updated: "2014-07-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035271"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "12710963"
-version_id: "21501452"
-internal_id: "C30871041"
-label_id: "12680954"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035271/2014-07-03/0"
-intitule_bron: "Stcrt.2014-17853"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-07-01"
-intitule_in_force: "2014-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-17853"
-original_published_date: "2014-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-17853"
-entry_into_force_date: "2014-07-03"
-jci_1_3: "jci1.3:c:BWBR0035271&z=2014-07-03&g=2014-07-03"
-jci_1_0: "1.0:c:BWBR0035271&g=2014-07-03"
-citeertitel_status: "redactioneel"
-short_title: "Onderlinge regeling Aruba, Curaçao, Sint Maarten en Nederland ex artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van de overdracht van personen aan wie rechtens hun vrijheid is ontnomen op grond van een veroordeling tot een vrijheidsstraf)"
-entry_into_force: "2014-07-03"
+publicatiedatum: 2014-07-03
+laatste_update: 2014-07-03
+status: geldig
+toestand: 2014-07-03
+bron: "https://wetten.overheid.nl/BWBR0035271"
+opgehaald: 2026-08-21
 ---
+
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen Aruba, Curaçao, Sint Maarten en Nederland op het gebied van de overdracht van personen aan wie rechtens hun vrijheid is ontnomen op grond van een veroordeling tot een vrijheidsstrafBottom of Form
-
-Overwegende, dat de optimale resocialisatie van gedetineerden gediend is bij een detentie in het land waar deze gedetineerden de sterkste banden hebben met de lokale gemeenschap en dat dit in gevallen vereist dat de tenuitvoerlegging van strafrechtelijke vonnissen wordt overgedragen aan een ander land binnen het Koninkrijk;
-
-Overwegende, dat in gevallen van overdracht van de tenuitvoerlegging van strafrechtelijke vonnissen zowel de interne rechtsgelijkheid als de rechtszekerheid is gediend bij een volledige overdracht van verantwoordelijkheden, verplichtingen en bevoegdheden aan het aangezochte land;
-
-Gelet op [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) en [artikel 40 van het Statuut van het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=40);
-
-Komen het volgende overeen:
 
 ##### Artikel 1. Doel van deze regeling
 
@@ -136,5 +109,3 @@ De kosten van het transport van de verzoeker en van de hem begeleidende ambtenar
 ##### Artikel 11. Inwerkingtreding
 
 Deze onderlinge regeling treedt in werking met ingang van de tweede dag na de dagtekening van het publicatiemedium waarin zij wordt geplaatst.
-
-Deze onderlinge regeling zal met de toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.

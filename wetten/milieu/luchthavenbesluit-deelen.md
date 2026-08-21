@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 4 september 2014 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Deelen (Luchthavenbesluit Deelen)"
+citeertitel: "Luchthavenbesluit Deelen"
 identifier: "BWBR0035554"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035554"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12799673"
-version_id: "21734592"
-internal_id: "C31193691"
-label_id: "12769574"
-dtd_version: "2.0"
-original_entry_into_force: "2014-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035554/2024-01-01/0"
-intitule_bron: "Stb.2014-327"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-04"
-intitule_published: "2014-09-16"
-intitule_in_force: "2014-09-16"
-intitule_status: "goed"
-original_publication: "Stb.2014-327"
-original_signed_date: "2014-09-04"
-original_published_date: "2014-09-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-327"
-entry_into_force_date: "2014-10-01"
-jci_1_3: "jci1.3:c:BWBR0035554&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0035554&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Luchthavenbesluit Deelen"
-signed_date: "2014-09-04"
-entry_into_force: "2014-10-01"
+publicatiedatum: 2014-10-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0035554"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 4 september 2014 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Deelen (Luchthavenbesluit Deelen)
-
-Op de voordracht van Onze Minister van Defensie van 11 juli 2014, nr. BS2014019525, Directie Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Gelet op [artikel 10.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.15);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 augustus 2014, no. W07.14.0270/II);
-
-Gezien het nader rapport van Onze Minister van Defensie van 1 september 2014, nr. BS2014025705, Directie Juridische Zaken, uitgebracht in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,15 +20,16 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **gebruiksjaar:** de periode van een jaar die loopt van 1 januari tot en met 31 december;
+- a. *gebruiksjaar:* de periode van een jaar die loopt van 1 januari tot en met 31 december;
 
-- b. **recreatief burgerluchtverkeer:** luchthavenluchtverkeer in de vorm van modelvliegen, motorsportvliegen, sleepvliegen, zeilvliegen en zweefvliegen als bedoeld in [artikel 20 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=20);
+- b. *recreatief burgerluchtverkeer:* luchthavenluchtverkeer in de vorm van modelvliegen, motorsportvliegen, sleepvliegen, zeilvliegen en zweefvliegen als bedoeld in [artikel 20 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=20);
 
-- c. **uniforme daglichtperiode:** het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00' N en 05°00' O op zeeniveau;
+- c. *uniforme daglichtperiode:* het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00' N en 05°00' O op zeeniveau;
 
-- d. **vliegtuigbeweging:** start of landing van een vliegtuig van of op de luchthaven;
+- d. *vliegtuigbeweging:* start of landing van een vliegtuig van of op de luchthaven;
 
-- e. **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+- e. *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 ### Hoofdstuk 2. Het luchthavengebied en het beperkingengebied
 
@@ -157,13 +126,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de kalendermaand 
 ##### Artikel 5.2
 
 Dit besluit wordt aangehaald als: Luchthavenbesluit Deelen.
-
-## Bijlage 1. Kaart luchthavengebied
-
-## Bijlage 2. Kaart beperkingengebied
-
-## Bijlage 3. Kaart geluidszone
-
-## Bijlage 4. Kaart obstakelbeheergebied vliegfunnel en IHCS
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,61 +1,35 @@
 ---
 title: "Besluit Orgaanbeschrijving Regionale Service Organisaties 2015"
 identifier: "BWBR0035638"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035638"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12815133"
-version_id: "21768072"
-internal_id: "C31244721"
-label_id: "12784854"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035638/2015-01-01/0"
-intitule_bron: "Stcrt.2014-28929"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-26"
-intitule_published: "2014-10-16"
-intitule_in_force: "2014-10-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-28929"
-original_signed_date: "2014-09-26"
-original_published_date: "2014-10-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-28929"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035638&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0035638&g=2015-01-01"
-citeertitel_status: "officieel"
-signed_date: "2014-09-26"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0035638"
+opgehaald: 2026-08-21
 ---
+
 # Besluit Orgaanbeschrijving Regionale Service Organisaties 2015
-
-Gelet op het [Algemeen Organisatiebesluit Buitenlandse Zaken 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008628);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **CdP:** het hoofd van een post;
+- a. *CdP:* het hoofd van een post;
 
-- b. **post:** een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in [artikel 7 van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=7);
+- b. *post:* een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in [artikel 7 van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=7);
 
-- c. **PSG:** de plaatsvervangend secretaris-generaal;
+- c. *PSG:* de plaatsvervangend secretaris-generaal;
 
-- d. **het PSG-MT:** het managementteam onder leiding van PSG;
+- d. *het PSG-MT:* het managementteam onder leiding van PSG;
 
-- e. **DBV:** de directeur Bedrijfsvoering;
+- e. *DBV:* de directeur Bedrijfsvoering;
 
-- f. **directeuren:** de directeur Financieel Economische Zaken, de directeur Consulaire Zaken en Migratiebeleid en de hoofddirecteur Personeel en Organisatie;
+- f. *directeuren:* de directeur Financieel Economische Zaken, de directeur Consulaire Zaken en Migratiebeleid en de hoofddirecteur Personeel en Organisatie;
 
-- g. **RSO:** een Regionale Service Organisatie.
+- g. *RSO:* een Regionale Service Organisatie.
 
 ##### Artikel 2. Taken RSO
 

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 juni 2014, houdende nadere regels betreffende de opgave van de hoeveelheid bijdragende olie als bedoeld in artikel 5 van de Wet schadefonds olietankschepen BES"
+citeertitel: "Besluit opgave bijdragende olie BES"
 identifier: "BWBR0035314"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2014-07-16"
-last_updated: "2014-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035314"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "12724243"
-version_id: "21533882"
-internal_id: "C30915141"
-label_id: "12694134"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035314/2014-07-16/0"
-intitule_bron: "Stb.2014-261"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-06-23"
-intitule_published: "2014-07-15"
-intitule_in_force: "2014-07-15"
-intitule_status: "goed"
-original_publication: "Stb.2014-261"
-original_signed_date: "2014-06-23"
-original_published_date: "2014-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-261"
-entry_into_force_date: "2014-07-16"
-jci_1_3: "jci1.3:c:BWBR0035314&z=2014-07-16&g=2014-07-16"
-jci_1_0: "1.0:c:BWBR0035314&g=2014-07-16"
-citeertitel_status: "officieel"
-short_title: "Besluit opgave bijdragende olie BES"
-signed_date: "2014-06-23"
-entry_into_force: "2014-07-16"
+publicatiedatum: 2014-07-16
+laatste_update: 2014-07-16
+status: geldig
+toestand: 2014-07-16
+bron: "https://wetten.overheid.nl/BWBR0035314"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 23 juni 2014, houdende nadere regels betreffende de opgave van de hoeveelheid bijdragende olie als bedoeld in artikel 5 van de Wet schadefonds olietankschepen BES
-
-Op de voordracht van Onze Minister van Economische Zaken, gedaan in overeenstemming met Onze Minister van Veiligheid en Justitie, van 7 maart 2014, nr. WJZ / 14034673, directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&artikel=5) en [13 van de Wet schadefonds olietankschepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&artikel=13);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 26 maart 2014, nr. W15.14.0062/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken, gedaan in overeenstemming met Onze Minister van Veiligheid en Justitie, van 19 juni 2014, nr. WJZ / 14068700, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -95,5 +63,3 @@ Hebben goedgevonden en verstaan:
 1. Dit besluit wordt aangehaald als: Besluit opgave bijdragende olie BES.
 
 2. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,55 +1,48 @@
 ---
 title: "Buitenlandse sociale verzekeringen, Duitse, Belgische en Luxemburgse sociale zekerheid, aftrek premie en belastbaarheid uitkeringen"
 identifier: "BWBR0035025"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2014-04-08"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035025"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "12642653"
-version_id: "21351142"
-internal_id: "C30654391"
-label_id: "12613444"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035025/2014-04-08/0"
-intitule_bron: "Stcrt.2014-9763"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-03-24"
-intitule_published: "2014-04-07"
-intitule_in_force: "2014-04-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-9763"
-original_signed_date: "2014-03-24"
-original_published_date: "2014-04-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-9763"
-entry_into_force_date: "2014-04-08"
-jci_1_3: "jci1.3:c:BWBR0035025&z=2014-04-08&g=2014-04-08"
-jci_1_0: "1.0:c:BWBR0035025&g=2014-04-08"
-citeertitel_status: "redactioneel"
-signed_date: "2014-03-24"
-entry_into_force: "2014-04-08"
+publicatiedatum: 2014-04-08
+laatste_update: 2014-04-08
+status: geldig
+toestand: 2014-04-08
+bron: "https://wetten.overheid.nl/BWBR0035025"
+opgehaald: 2026-08-21
 ---
+
 # Buitenlandse sociale verzekeringen, Duitse, Belgische en Luxemburgse sociale zekerheid, aftrek premie en belastbaarheid uitkeringen
 
 De Staatssecretaris van Financiën heeft het volgende besloten.
 
-**Dit besluit is een actualisering van het besluit van 7 april 2009, nr. CPP2009/93M. De actualisering houdt verband met de Wet uniformering loonbegrip en het nieuwe artikel 11d van de Wet LB.**
+*Dit besluit is een actualisering van het besluit van 7 april 2009, nr. CPP2009/93M. De actualisering houdt verband met de Wet uniformering loonbegrip en het nieuwe artikel 11d van de Wet LB.*
 
 ### 1. Algemeen
 
-In het [besluit van 7 april 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025713), nr. CPP2009/93M, Stcrt. nr. 76, zijn standpunten ingenomen over de wijze van berekenen van het belastbare loon naar Nederlandse fiscale maatstaven als een werknemer onder het socialezekerheidsstelsel van een ander land valt. Als gevolg van de [Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105) hebben er wijzigingen plaatsgevonden in de verschuldigdheid van de inkomensafhankelijke bijdrage [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). Met ingang van 1 januari 2013 is de inhoudingsplichtige een inkomensafhankelijke bijdrage Zvw verschuldigd. Werknemers zijn over hun belastbare loon zelf niet meer bijdrageplichtig voor de Zvw en de belaste vergoeding die zij van hun werkgever ontvingen, is komen te vervallen. In [artikel 11d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11d) is bepaald dat de ter zake van het loon door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage niet tot het loon van de werknemer behoort. Artikel 11d van de Wet LB heeft ook gevolgen voor werknemers die onder het socialezekerheidsstelsel van een ander land vallen. De gevolgen hiervan zijn verwerkt in onderdeel 2.3 van dit besluit.
+In het [besluit van 7 april 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025713), nr. CPP2009/93M, Stcrt. nr. 76, zijn standpunten ingenomen over de wijze van berekenen van het belastbare loon naar Nederlandse fiscale maatstaven als een werknemer onder het socialezekerheidsstelsel van een ander land valt. Als gevolg van de [Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105) hebben er wijzigingen plaatsgevonden in de verschuldigdheid van de inkomensafhankelijke bijdrage [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). Met ingang van 1 januari 2013 is de inhoudingsplichtige een inkomensafhankelijke bijdrage Zvw verschuldigd. Werknemers zijn over hun belastbare loon zelf niet meer bijdrageplichtig voor de Zvw en de belaste vergoeding die zij van hun werkgever ontvingen, is komen te vervallen. In [artikel 11d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11d) is bepaald dat de ter zake van het loon door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage niet tot het loon van de werknemer behoort. Artikel 11d van de Wet LB heeft ook gevolgen voor werknemers die onder het socialezekerheidsstelsel van een ander land vallen. De gevolgen hiervan zijn verwerkt in [onderdeel 2.3](https://wetten.overheid.nl/BWBR0035025) van dit besluit.
 
-Verder zijn in onderdeel 4 enkele Duitse sociale verzekeringen toegevoegd in de opsomming van de fiscale gevolgen van de Duitse, Belgische en Luxemburgse sociale verzekeringen.
+Verder zijn in [onderdeel 4](https://wetten.overheid.nl/BWBR0035025) enkele Duitse sociale verzekeringen toegevoegd in de opsomming van de fiscale gevolgen van de Duitse, Belgische en Luxemburgse sociale verzekeringen.
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
+- *Wet LB:*
+ [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+
+- *URLB:*
+ [Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236)
+
+- *Wet IB:*
+ [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
+
+- *Zvw:*
+ [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
+
+- *AWBZ:*
+ [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+
 ### 2. Kwalificatie van buitenlandse sociale verzekeringen
 
-De kwalificatie van buitenlandse sociale verzekeringen is nodig voor het bepalen van het loon van werknemers die onder het socialezekerheidsstelsel van een ander land vallen, maar over dat loon in Nederland belastingplichtig zijn. Om het Nederlandse fiscale loon te bepalen moet het (Nederlandse of buitenlandse) loon worden omgerekend naar Nederlandse fiscale maatstaven. Bij het loon dat wordt ontvangen van een **Nederlandse werkgever** is de omrekening in de praktijk beperkt tot de kwalificatie van de buitenlandse sociale verzekeringen. Bij loon dat wordt ontvangen van een **buitenlandse werkgever** moeten ook andere loonbestanddelen, zoals het privégebruik van een door de werkgever ter beschikking gestelde auto of bepaalde door de werkgever verstrekte onkostenvergoedingen, worden omgerekend naar Nederlandse fiscale maatstaven. Dit besluit is beperkt tot de kwalificatie van buitenlandse sociale verzekeringen.
+De kwalificatie van buitenlandse sociale verzekeringen is nodig voor het bepalen van het loon van werknemers die onder het socialezekerheidsstelsel van een ander land vallen, maar over dat loon in Nederland belastingplichtig zijn. Om het Nederlandse fiscale loon te bepalen moet het (Nederlandse of buitenlandse) loon worden omgerekend naar Nederlandse fiscale maatstaven. Bij het loon dat wordt ontvangen van een *Nederlandse werkgever* is de omrekening in de praktijk beperkt tot de kwalificatie van de buitenlandse sociale verzekeringen. Bij loon dat wordt ontvangen van een *buitenlandse werkgever* moeten ook andere loonbestanddelen, zoals het privégebruik van een door de werkgever ter beschikking gestelde auto of bepaalde door de werkgever verstrekte onkostenvergoedingen, worden omgerekend naar Nederlandse fiscale maatstaven. Dit besluit is beperkt tot de kwalificatie van buitenlandse sociale verzekeringen.
 
 ### 2.1. Volksverzekeringen
 
@@ -61,7 +54,7 @@ Aanspraken en inhoudingen van bijdragen ingevolge buitenlandse werknemersverzeke
 
 ### 2.3. Zorgverzekeringswet
 
-Buitenlandse wettelijke ziektekostenverzekeringen zijn voor wat betreft de vergelijkbaarheid met het Nederlandse stelsel te onderscheiden in een deel dat overeenkomt met de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (basisverzekering) en een deel dat overeenkomt met de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614). Voor het deel dat overeenkomt met de AWBZ verwijs ik naar onderdeel 2.1.
+Buitenlandse wettelijke ziektekostenverzekeringen zijn voor wat betreft de vergelijkbaarheid met het Nederlandse stelsel te onderscheiden in een deel dat overeenkomt met de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (basisverzekering) en een deel dat overeenkomt met de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614). Voor het deel dat overeenkomt met de AWBZ verwijs ik naar [onderdeel 2.1](https://wetten.overheid.nl/BWBR0035025).
 
 Op grond van [artikel 11d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11d) behoort de ter zake van het loon door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage Zvw niet tot het loon van de werknemer. Tevens is bepaald dat niet tot het loon van de werknemer behoort de niet in Nederland verschuldigde bijdragen die naar aard en strekking overeenkomen met ter zake van het loon verschuldigde inkomensafhankelijke bijdrage als bedoeld in de Zvw. Het moet hierbij gaan om een zelfstandige verplichting van de werkgever om bij te dragen in de buitenlandse wettelijke ziektekostenregeling van de werknemer. De door de werkgever aan de werknemer verstrekte vergoeding voor door de werknemer verschuldigde premie of bijdrage voor ziektekostenregelingen, uitkeringen en verstrekkingen die naar aard en omvang overeenkomen met prestaties als bedoeld in [artikel 11 van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) behoort wel tot het fiscale loon ([artikel 10 van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10)).
 
@@ -73,7 +66,7 @@ De Duitse Rentenversicherung en (een deel van) de Belgische RSZ (Rijksbijdrage S
 
 Als voor een dergelijke regeling de premie voor de verschillende pijlervoorzieningen niet afzonderlijk is vastgesteld en tevens niet op andere wijze individualiseerbaar is, geldt hetgeen hierna is opgenomen.
 
-Als het overheersende karakter van de buitenlandse regeling dat van een pensioenregeling (tweede pijlervoorziening) is en de regeling qua resultaat bovendien niet overtreft hetgeen onder het Nederlandse systeem is toegestaan, neem ik het standpunt in dat de genoemde regeling geen pensioenregeling is in de zin van [Hoofdstuk IIB van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), maar dat de desbetreffende aanspraken op grond van [artikel 3.81 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.81) – met **overeenkomstige** toepassing van [artikel 19d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) – niet tot het in [artikel 3.80 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen. Gezien de bijzondere omstandigheden in deze situatie (er is in het verleden steeds sprake geweest van een pensioenregeling in de zin van de Wet LB en het is niet de bedoeling de praktijk te wijzigen) heb ik er geen bezwaar tegen dat inhoudingsplichtigen al bij de inhouding van loonheffing bij werknemers die onder de buitenlandse socialezekerheidswetgeving vallen, rekening houden met het standpunt dat de desbetreffende aanspraken en inhoudingen niet tot het in artikel 3.80 van de Wet IB bedoelde loon behoren.
+Als het overheersende karakter van de buitenlandse regeling dat van een pensioenregeling (tweede pijlervoorziening) is en de regeling qua resultaat bovendien niet overtreft hetgeen onder het Nederlandse systeem is toegestaan, neem ik het standpunt in dat de genoemde regeling geen pensioenregeling is in de zin van [Hoofdstuk IIB van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), maar dat de desbetreffende aanspraken op grond van [artikel 3.81 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.81) – met *overeenkomstige* toepassing van [artikel 19d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) – niet tot het in [artikel 3.80 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen. Gezien de bijzondere omstandigheden in deze situatie (er is in het verleden steeds sprake geweest van een pensioenregeling in de zin van de Wet LB en het is niet de bedoeling de praktijk te wijzigen) heb ik er geen bezwaar tegen dat inhoudingsplichtigen al bij de inhouding van loonheffing bij werknemers die onder de buitenlandse socialezekerheidswetgeving vallen, rekening houden met het standpunt dat de desbetreffende aanspraken en inhoudingen niet tot het in artikel 3.80 van de Wet IB bedoelde loon behoren.
 
 Van een overheersend karakter als pensioenregeling is naar mijn mening sprake als van het buitenlandse socialezekerheidspensioen het maximale salaris- of diensttijdgerelateerde deel van de uitkering meer bedraagt dan twee maal het bedrag van de op basis van die regeling te verwerven minimumpensioenuitkering.
 
@@ -81,15 +74,35 @@ Als voor beide onderdelen wel een premie afzonderlijk is vastgesteld of op ander
 
 ### 3. Werkwijze
 
-In dit besluit is de fiscale kwalificatie van een aantal Belgische, Duitse en Luxemburgse sociale verzekeringen in onderdeel 4 verder uitgewerkt. Het onderzoek naar de fiscale kwalificatie van de stelsels van buitenlandse sociale verzekeringen vindt bij de Belastingdienst Limburg/kantoor buitenland plaats aan de hand van de uitgangspunten die zijn opgenomen in dit besluit. De uitwerkingen van de onderzochte stelsels zijn beschikbaar op de website van het ministerie van Financiën. Belanghebbenden kunnen een verzoek om fiscale kwalificatie van een nog niet onderzocht stelsel van buitenlandse sociale verzekeringen richten aan de Belastingdienst Limburg/kantoor buitenland, t.a.v. Risicoteam loonheffingen en particulieren, Postbus 2865, 6401 DJ Heerlen.
+In dit besluit is de fiscale kwalificatie van een aantal Belgische, Duitse en Luxemburgse sociale verzekeringen in [onderdeel 4](https://wetten.overheid.nl/BWBR0035025) verder uitgewerkt. Het onderzoek naar de fiscale kwalificatie van de stelsels van buitenlandse sociale verzekeringen vindt bij de Belastingdienst Limburg/kantoor buitenland plaats aan de hand van de uitgangspunten die zijn opgenomen in dit besluit. De uitwerkingen van de onderzochte stelsels zijn beschikbaar op de website van het ministerie van Financiën. Belanghebbenden kunnen een verzoek om fiscale kwalificatie van een nog niet onderzocht stelsel van buitenlandse sociale verzekeringen richten aan de Belastingdienst Limburg/kantoor buitenland, t.a.v. Risicoteam loonheffingen en particulieren, Postbus 2865, 6401 DJ Heerlen.
 
 ### 4. Duitse, Belgische en Luxemburgse sociale verzekeringen
 
 In dit onderdeel ga ik achtereenvolgens in op de volgende verzekeringen.
 
+- – Duitse Rentenversicherung;
+
+- – Duitse Krankenversicherung;
+
+- – Duitse Pflegeversicherung;
+
+- – Duitse Unfallversicherung;
+
+- – Belgische Rijksbijdrage Sociale Zekerheid (RSZ);
+
+- – Bijzondere bijdrage voor de sociale zekerheid;
+
+- – Belgische hospitalisatieverzekering;
+
+- – Vlaamse zorgverzekering;
+
+- – Luxemburgse ‘cotisations pension’;
+
+- – Luxemburgse ‘cotisations sociales’.
+
 ### 4.1. Duitse Rentenversicherung
 
-De Duitse Rentenversicherung betreffende de wettelijke verzekering voor de oudedag en het overlijden bevat elementen van een algemene ouderdomsregeling zoals de Nederlandse AOW/Anw. Omdat het overheersende karakter van de regeling echter dat van een pensioenregeling (tweede pijlervoorziening) is en de regeling qua resultaat bovendien niet overtreft hetgeen onder het Nederlandse systeem is toegestaan, heb ik het standpunt ingenomen dat de genoemde regeling geen pensioenregeling is in de zin van [Hoofdstuk IIB van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), maar dat de desbetreffende aanspraken op grond van [artikel 3.81 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.81) – met **overeenkomstige** toepassing van [artikel 19d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) – niet tot het in [artikel 3.80 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen.
+De Duitse Rentenversicherung betreffende de wettelijke verzekering voor de oudedag en het overlijden bevat elementen van een algemene ouderdomsregeling zoals de Nederlandse AOW/Anw. Omdat het overheersende karakter van de regeling echter dat van een pensioenregeling (tweede pijlervoorziening) is en de regeling qua resultaat bovendien niet overtreft hetgeen onder het Nederlandse systeem is toegestaan, heb ik het standpunt ingenomen dat de genoemde regeling geen pensioenregeling is in de zin van [Hoofdstuk IIB van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), maar dat de desbetreffende aanspraken op grond van [artikel 3.81 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.81) – met *overeenkomstige* toepassing van [artikel 19d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) – niet tot het in [artikel 3.80 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen.
 
 ### 4.2. Duitse Krankenversicherung
 
@@ -111,11 +124,19 @@ In de aanvullende toelichting bij de aangifte inkomstenbelasting ‘Wonen in Ned
 
 Belgische RSZ-premie is premie voor voorzieningen als:
 
+- a. werkloosheid;
+
+- b. uitkeringen ziekte en invaliditeit;
+
+- c. geneeskundige verzorging;
+
+- d. pensioenen (rust- en overlevingspensioen).
+
 De componenten a en b zijn vergelijkbaar met de Nederlandse WW en ZW. Het deel van de RSZ-premie dat hierop betrekking heeft, komt bij de omrekening naar het Nederlandse fiscale loon in aftrek op grond van [artikel 11, eerste lid, onderdeel j, onder 3°, van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) in samenhang met het eerste lid, onderdeel e, van dat artikel.
 
 Component c is vergelijkbaar met de Nederlandse [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). Het deel van de RSZ-premie dat betrekking heeft op geneeskundige verzorging is niet aftrekbaar van het loon. Het werkgeversaandeel in de premie geneeskundige verzorging behoort op grond van [artikel 11d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11d) niet tot het loon. Het maximeren van de waardering van de Belgische ziektekostenaanspraken, zoals bedoeld in [artikel 3.12, vierde lid, van de URLB](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.12), is als gevolg hiervan niet aan de orde.
 
-Het Belgische rust- en overlevingspensioen (component d) bevat elementen van een algemene ouderdomsregeling zoals de Nederlandse AOW/Anw. Omdat het overheersende karakter van de regeling echter dat van een pensioenregeling (tweede pijlervoorziening) is en de regeling qua resultaat bovendien niet overtreft hetgeen onder het Nederlandse systeem is toegestaan, heb ik het standpunt ingenomen dat de genoemde regeling geen pensioenregeling is in de zin van [Hoofdstuk IIB van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), maar dat de desbetreffende aanspraken op grond van [artikel 3.81 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.81) – met **overeenkomstige** toepassing van [artikel 19d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) – niet tot het in [artikel 3.80 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen.
+Het Belgische rust- en overlevingspensioen (component d) bevat elementen van een algemene ouderdomsregeling zoals de Nederlandse AOW/Anw. Omdat het overheersende karakter van de regeling echter dat van een pensioenregeling (tweede pijlervoorziening) is en de regeling qua resultaat bovendien niet overtreft hetgeen onder het Nederlandse systeem is toegestaan, heb ik het standpunt ingenomen dat de genoemde regeling geen pensioenregeling is in de zin van [Hoofdstuk IIB van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), maar dat de desbetreffende aanspraken op grond van [artikel 3.81 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.81) – met *overeenkomstige* toepassing van [artikel 19d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) – niet tot het in [artikel 3.80 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen.
 
 In de aanvullende toelichting bij de aangifte inkomstenbelasting ‘Wonen in Nederland en werken in België’ is een schema opgenomen waarmee het Belgische loon kan worden omgerekend naar Nederlands loon. Deze aanvullende toelichting kan via www.belastingdienst.nl worden gedownload. In bepaalde gevallen houden ook Nederlandse werkgevers RSZ-premie in en dragen deze af aan de Belgische instanties voor sociale zekerheid. Deze premie wordt fiscaal op dezelfde wijze behandeld als premie die Belgische werkgevers inhouden.
 
@@ -139,13 +160,13 @@ De Belgische hospitalisatieverzekering is een aanvullende verzekering voor koste
 
 ### 4.8. Vlaamse zorgverzekering
 
-De Vlaamse zorgverzekering geeft recht op een tegemoetkoming in de niet-medische hulp- en dienstverlening. Wordt de verzekerde ernstig en langdurig hulpbehoevend, dan kan hij een maandelijkse tegemoetkoming krijgen om de niet-medische kosten te betalen. De Vlaamse zorgverzekering valt onder de bepalingen van [Verordening (EG) nr. 883/2004](32004R0883). Inwoners van Nederland die Belgisch sociaal verzekerd zijn wegens actuele of vroegere tewerkstelling in het Nederlandse taalgebied (al dan niet in combinatie met tewerkstelling in andere Belgische taalgebieden), zijn verplicht zich aan te sluiten bij de Vlaamse zorgverzekering. Inwoners van Nederland die Belgisch sociaal verzekerd zijn wegens actuele of vroegere tewerkstelling in het tweetalige gebied Brussel-Hoofdstad, kunnen gebruikmaken van de mogelijkheid tot vrijwillige aansluiting. Voor de zorgverzekering is een bijdrage verschuldigd. Deze bijdrage betaalt betrokkene rechtstreeks aan de uitvoerders van de Vlaamse zorgverzekering, de Belgische ziekenfondsen.
+De Vlaamse zorgverzekering geeft recht op een tegemoetkoming in de niet-medische hulp- en dienstverlening. Wordt de verzekerde ernstig en langdurig hulpbehoevend, dan kan hij een maandelijkse tegemoetkoming krijgen om de niet-medische kosten te betalen. De Vlaamse zorgverzekering valt onder de bepalingen van Verordening (EG) nr. 883/2004. Inwoners van Nederland die Belgisch sociaal verzekerd zijn wegens actuele of vroegere tewerkstelling in het Nederlandse taalgebied (al dan niet in combinatie met tewerkstelling in andere Belgische taalgebieden), zijn verplicht zich aan te sluiten bij de Vlaamse zorgverzekering. Inwoners van Nederland die Belgisch sociaal verzekerd zijn wegens actuele of vroegere tewerkstelling in het tweetalige gebied Brussel-Hoofdstad, kunnen gebruikmaken van de mogelijkheid tot vrijwillige aansluiting. Voor de zorgverzekering is een bijdrage verschuldigd. Deze bijdrage betaalt betrokkene rechtstreeks aan de uitvoerders van de Vlaamse zorgverzekering, de Belgische ziekenfondsen.
 
 De bijdrage kan niet worden aangemerkt als een uitgave voor inkomensvoorzieningen en kan ook niet anderszins in mindering worden gebracht op het inkomen. De tegemoetkoming op grond van de Vlaamse zorgverzekering komt naar aard en strekking overeen met de persoonsgebonden budgetten in [artikel 44, eerste lid, onderdeel b, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44). Op grond van [artikel 3.104, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), in samenhang met [artikel 3.104, onderdeel j, van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104) zijn de tegemoetkomingen uit de Vlaamse zorgverzekering vrijgesteld als publiekrechtelijke uitkering.
 
 ### 4.9. Luxemburgse ‘Cotisations pension’
 
-De Luxemburgse pensioenregeling bevat elementen van een algemene ouderdomsregeling zoals de Nederlandse AOW/Anw. Omdat het overheersende karakter van de regeling echter dat van een pensioenregeling (tweede pijlervoorziening) is en de regeling qua resultaat bovendien niet overtreft hetgeen onder het Nederlandse systeem is toegestaan, heb ik het standpunt ingenomen dat de genoemde regeling geen pensioenregeling is in de zin van [Hoofdstuk IIB van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), maar dat de desbetreffende aanspraken op grond van [artikel 3.81 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.81) – met **overeenkomstige** toepassing van [artikel 19d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) – niet tot het in [artikel 3.80 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen.
+De Luxemburgse pensioenregeling bevat elementen van een algemene ouderdomsregeling zoals de Nederlandse AOW/Anw. Omdat het overheersende karakter van de regeling echter dat van een pensioenregeling (tweede pijlervoorziening) is en de regeling qua resultaat bovendien niet overtreft hetgeen onder het Nederlandse systeem is toegestaan, heb ik het standpunt ingenomen dat de genoemde regeling geen pensioenregeling is in de zin van [Hoofdstuk IIB van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB), maar dat de desbetreffende aanspraken op grond van [artikel 3.81 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.81) – met *overeenkomstige* toepassing van [artikel 19d van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) – niet tot het in [artikel 3.80 van de Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen.
 
 ### 4.10. Luxemburgse ‘Cotisations sociales’
 
@@ -160,6 +181,24 @@ De vraag is hoe de ‘cotisations sociales’, na aftrek van de premie voor de �
 ### 5. Belastbaarheid bepaalde Duitse, Belgische en Luxemburgse socialeverzekeringsuitkeringen
 
 Voor de toepassing van de [Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) geef ik in dit onderdeel een overzicht van de belastbaarheid van bepaalde Duitse, Belgische en Luxemburgse socialeverzekeringsuitkeringen. Achtereenvolgens ga ik in op:
+
+- – Uitkeringen uit de Duitse Rentenversicherungen;
+
+- – Belgische socialeverzekeringsuitkeringen;
+
+- – Luxemburgse socialeverzekeringsuitkeringen;
+
+- – Belgische gezinsbijslag;
+
+- – Belgisch tijdskrediet;
+
+- – Duits Kindergeld;
+
+- – Duits Erziehungsgeld;
+
+- – Duits Elterngeld;
+
+- – Duitse Altersteilzeitregelung.
 
 ### 5.1. Uitkeringen uit de Duitse Rentenversicherungen, de Belgische socialeverzekeringsuitkeringen en de Luxemburgse socialeverzekeringsuitkeringen
 
@@ -192,5 +231,3 @@ Het [besluit van 7 april 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025713),
 ### 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
-
-Dit besluit wordt in de Staatscourant gepubliceerd.

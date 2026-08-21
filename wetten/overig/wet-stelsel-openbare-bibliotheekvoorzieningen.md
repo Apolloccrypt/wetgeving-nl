@@ -1,47 +1,18 @@
 ---
 title: "Wet van 19 november 2014 tot vaststelling van een geactualiseerd stelsel van openbare bibliotheekvoorzieningen (Wet stelsel openbare bibliotheekvoorzieningen)"
+citeertitel: "Wet stelsel openbare bibliotheekvoorzieningen"
 identifier: "BWBR0035878"
-country: "nl"
-rank: "wet"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035878"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12870743"
-version_id: "21870872"
-internal_id: "C31391421"
-label_id: "12840524"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035878/2022-07-01/0"
-intitule_bron: "Stb.2014-470"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-19"
-intitule_published: "2014-12-05"
-intitule_in_force: "2014-12-05"
-intitule_status: "goed"
-original_publication: "Stb.2014-470"
-original_signed_date: "2014-11-19"
-original_published_date: "2014-12-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "33846"
-original_url_id: "stb-2014-470"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035878&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0035878&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet stelsel openbare bibliotheekvoorzieningen"
-signed_date: "2014-11-19"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0035878"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 19 november 2014 tot vaststelling van een geactualiseerd stelsel van openbare bibliotheekvoorzieningen (Wet stelsel openbare bibliotheekvoorzieningen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de wettelijke bepalingen ten aanzien van openbare bibliotheken te actualiseren en de landelijke digitale openbare bibliotheek vorm te geven;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,19 +20,20 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Koninklijke Bibliotheek:** Koninklijke Bibliotheek als bedoeld in [artikel 1.5, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5);
+- a. *Koninklijke Bibliotheek:* Koninklijke Bibliotheek als bedoeld in [artikel 1.5, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5);
 
-- b. **landelijke digitale bibliotheek:** plaats- en tijdonafhankelijke voor een ieder toegankelijke bibliotheekvoorziening;
+- b. *landelijke digitale bibliotheek:* plaats- en tijdonafhankelijke voor een ieder toegankelijke bibliotheekvoorziening;
 
-- c. **lokale bibliotheek:** organisatie met rechtspersoonlijkheid die een of meerdere voor een ieder toegankelijke openbare bibliotheekvoorzieningen verzorgt en die in overwegende mate door een of meer gemeenten dan wel de openbare lichamen Bonaire, Sint Eustatius of Saba wordt gesubsidieerd of in stand gehouden. De verplichtingen in deze wet zijn van toepassing op de rechtspersoon als geheel en niet op iedere vestiging afzonderlijk;
+- c. *lokale bibliotheek:* organisatie met rechtspersoonlijkheid die een of meerdere voor een ieder toegankelijke openbare bibliotheekvoorzieningen verzorgt en die in overwegende mate door een of meer gemeenten dan wel de openbare lichamen Bonaire, Sint Eustatius of Saba wordt gesubsidieerd of in stand gehouden. De verplichtingen in deze wet zijn van toepassing op de rechtspersoon als geheel en niet op iedere vestiging afzonderlijk;
 
-- d. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- d. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- e. **provinciale ondersteuningsinstelling:** in overwegende mate door een of meer provincies gesubsidieerde of in stand gehouden voorziening die een pakket aan ondersteunende activiteiten biedt voor de lokale bibliotheken in de desbetreffende provincie of provincies;
+- e. *provinciale ondersteuningsinstelling:* in overwegende mate door een of meer provincies gesubsidieerde of in stand gehouden voorziening die een pakket aan ondersteunende activiteiten biedt voor de lokale bibliotheken in de desbetreffende provincie of provincies;
 
-- f. **werk:** exemplaar van een werk als bedoeld in [artikel 10 van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10);
+- f. *werk:* exemplaar van een werk als bedoeld in [artikel 10 van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10);
 
-- g. **WHW:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+- g. *WHW:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 2. Voor zover in deze wet over een lid van een openbare bibliotheekvoorziening wordt gesproken, wordt hieronder verstaan een voor die bibliotheekvoorziening geregistreerde gebruiker.
 
@@ -133,11 +105,11 @@ De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in [artik
 
 - a. aansturen van het netwerk van openbare bibliotheekvoorzieningen door:
 
-- i. afstemming en coördinatie;
+   - i. afstemming en coördinatie;
 
-- ii. educatie, informatie en reflectie; en
+   - ii. educatie, informatie en reflectie; en
 
-- iii. vertegenwoordiging en promotie;
+   - iii. vertegenwoordiging en promotie;
 
 - b. in stand houden van de landelijke digitale bibliotheek; en
 
@@ -175,7 +147,7 @@ De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in [artik
 
 1. Voor het uitlenen van gedrukte werken of overige werken door lokale bibliotheken aan personen beneden de leeftijd van achttien jaar wordt geen contributie of andere geldelijke bijdrage geheven.
 
-2. Voor personen beneden de leeftijd van achttien jaar wordt geen tarief als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=14&z=2022-07-01&g=2022-07-01), contributie of geldelijke bijdrage vastgesteld voor de toegang tot door de Koninklijke Bibliotheek aangewezen digitale werken.
+2. Voor personen beneden de leeftijd van achttien jaar wordt geen tarief als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=14&z=2022-07-01&g=2022-07-01), contributie of geldelijke bijdrage vastgesteld voor de toegang tot door de Koninklijke Bibliotheek aangewezen digitale werken.
 
 ##### Artikel 14. Tarieven landelijke digitale bibliotheek
 
@@ -285,25 +257,25 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 ### Hoofdstuk 6. Wijziging andere wetten
 
-##### Artikel 24. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 24. Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
-##### Artikel 25. [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904)
+##### Artikel 25. Wet op het specifiek cultuurbeleid
 
-Wijzigt de Wet op het specifiek cultuurbeleid.
+*Wijzigt de Wet op het specifiek cultuurbeleid.*
 
-##### Artikel 26. [Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452)
+##### Artikel 26. Wet op de vaste boekenprijs
 
-Wijzigt de Wet op de vaste boekenprijs.
+*Wijzigt de Wet op de vaste boekenprijs.*
 
-##### Artikel 27. [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886)
+##### Artikel 27. Auteurswet
 
-Wijzigt de Auteurswet.
+*Wijzigt de Auteurswet.*
 
-##### Artikel 28. [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921)
+##### Artikel 28. Wet op de naburige rechten
 
-Wijzigt de Wet op de naburige rechten.
+*Wijzigt de Wet op de naburige rechten.*
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -318,5 +290,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 31. Citeertitel
 
 Deze wet wordt aangehaald als: Wet stelsel openbare bibliotheekvoorzieningen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

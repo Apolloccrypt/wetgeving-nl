@@ -1,39 +1,17 @@
 ---
 title: "Statuten 2007 van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Naktuinbouw) zoals deze zijn goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit d.d. 27 november 2007"
+citeertitel: "Statuten Naktuinbouw"
 identifier: "BWBR0035048"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-04-19"
-last_updated: "2013-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035048"
+categorie: "Milieu"
 soort: "zbo"
-stam_id: "12648213"
-version_id: "21366042"
-internal_id: "C30678111"
-label_id: "12618634"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035048/2013-04-19/0"
-intitule_bron: "Stcrt.2007-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-27"
-intitule_published: "2007-12-17"
-intitule_in_force: "2007-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-244"
-original_signed_date: "2007-11-27"
-original_published_date: "2007-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-244-p12-SC83705"
-entry_into_force_date: "2007-12-17"
-jci_1_3: "jci1.3:c:BWBR0035048&z=2013-04-19&g=2013-04-19"
-jci_1_0: "1.0:c:BWBR0035048&g=2013-04-19"
-citeertitel_status: "redactioneel"
-short_title: "Statuten Naktuinbouw"
-signed_date: "2007-11-27"
-entry_into_force: "2007-12-17"
+publicatiedatum: 2007-12-17
+laatste_update: 2013-04-19
+status: geldig
+toestand: 2013-04-19
+bron: "https://wetten.overheid.nl/BWBR0035048"
+opgehaald: 2026-08-21
 ---
+
 # Statuten 2007 van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Naktuinbouw) zoals deze zijn goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit d.d. 27 november 2007
 
 #### Algemeen
@@ -188,8 +166,6 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, alsmede het aang
 
 2. In elke sector wordt een sectorbestuur ingesteld, welke op het terrein van die sector het Bestuur adviseert over alle aangelegenheden die betrekking hebben op het (de) betreffende cultuurgewas- (sen) en op het toezicht op de bedrijven, die teeltmateriaal van dit/deze cultuurgewas(sen) voortbrengen en/of verhandelen.
 
-3.
-
 Een sectorbestuur is zodanig samengesteld, dat daarin (groepen van) belanghebbenden genoegzaam vertegenwoordigd zijn. Met inachtneming daarvan hebben in een sectorbestuur zitting leden/geregistreerden of erkenden, zijnde producenten en handelsbedrijven, die zijn ingedeeld in de betreffende sector en leden/eindgebruikers van teeltmateriaal, een en ander in aantallen als door het Bestuur bepaald, welke rechtstreeks door voor deze geregistreerden of erkenden respectievelijk eindgebruikers representatieve vakorganisaties, als door het Bestuur aangewezen, worden benoemd.
 
 4. Het sectorbestuur dient telkenjare bij het Bestuur ter goedkeuring en vaststelling een begroting in van baten en lasten van de sector, die betrekking hebben op de werkzaamheden van Naktuinbouw als bedoeld in [artikel 19 van de Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=19), vergezeld van voorstellen over de daaraan ten grondslag gelegde bijdragen en vergoedingen, als bedoeld in [artikel 21 van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=21), van de bij haar sector ingedeelde geregistreerde en erkende leveranciers.
@@ -212,7 +188,7 @@ Een sectorbestuur is zodanig samengesteld, dat daarin (groepen van) belanghebben
 
 ##### Artikel 14
 
-1. De dagelijkse leiding van de stichting berust bij de directie, bestaande uit één of **meer personen**.
+1. De dagelijkse leiding van de stichting berust bij de directie, bestaande uit één of *meer personen*.
 
 2. Taak en bevoegdheden van de leden van de directie worden nader geregeld bij een door het Bestuur vast te stellen directiereglement.
 

@@ -1,57 +1,51 @@
 ---
 title: "Beleidsregel handhaving chartaal toezicht eurobankbiljetten"
 identifier: "BWBR0035112"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-05-15"
-last_updated: "2014-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035112"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "12670823"
-version_id: "21407582"
-internal_id: "C30735881"
-label_id: "12641134"
-dtd_version: "2.0"
-original_entry_into_force: "2014-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035112/2014-05-15/0"
-intitule_bron: "Stcrt.2014-13582"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-05-07"
-intitule_published: "2014-05-15"
-intitule_in_force: "2014-05-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-13582"
-original_signed_date: "2014-05-07"
-original_published_date: "2014-05-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-13582"
-entry_into_force_date: "2014-05-15"
-jci_1_3: "jci1.3:c:BWBR0035112&z=2014-05-15&g=2014-05-15"
-jci_1_0: "1.0:c:BWBR0035112&g=2014-05-15"
-citeertitel_status: "officieel"
-signed_date: "2014-05-07"
-entry_into_force: "2014-05-15"
+publicatiedatum: 2014-05-15
+laatste_update: 2014-05-15
+status: geldig
+toestand: 2014-05-15
+bron: "https://wetten.overheid.nl/BWBR0035112"
+opgehaald: 2026-08-21
 ---
+
 # Beleidsregel handhaving chartaal toezicht eurobankbiljetten
 
 ### 1. Inleiding
 
-De Nederlandsche Bank NV (DNB) heeft een handhavende bevoegdheid op grond van [artikel 9c, eerste lid Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9c), en artikel 6, eerste lid van de Verordening Valsemunterij (Vo. Valsemunterij), voor zover dat artikel betrekking heeft op eurobankbiljetten.1[Verordening (EG) 1338/2001](32001R1338) tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij, PbEG 2001, L 181, laatstelijk gewijzigd door [Verordening (EG) 44/2009](32009R0044) tot wijziging van [Verordening (EG) nr. 1338/2001](32001R1338) tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij, PbEG 2009, L 17 Dit houdt onder andere in dat DNB bevoegd is tot oplegging van een last onder dwangsom en een bestuurlijke boete.
+De Nederlandsche Bank NV (DNB) heeft een handhavende bevoegdheid op grond van [artikel 9c, eerste lid Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9c), en artikel 6, eerste lid van de Verordening Valsemunterij (Vo. Valsemunterij), voor zover dat artikel betrekking heeft op eurobankbiljetten.1Verordening (EG) 1338/2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij, PbEG 2001, L 181, laatstelijk gewijzigd door Verordening (EG) 44/2009 tot wijziging van Verordening (EG) nr. 1338/2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij, PbEG 2009, L 17 Dit houdt onder andere in dat DNB bevoegd is tot oplegging van een last onder dwangsom en een bestuurlijke boete.
 
 Hieronder wordt ingegaan op het beleid dat door DNB wordt toegepast voor de handhaving van:
 
-De bepalingen waarop de chartaal toezichtstaak is gebaseerd komen als eerste aan de orde (paragraaf 2). Daarna wordt omschreven op welke wijze DNB toezicht houdt op de naleving van deze bepalingen (paragraaf 3) en volgen de doelstelling en uitgangspunten die de chartaal toezichthouders hanteren bij hun handhavingsbeleid (paragraaf 4). Tot slot wordt uiteengezet welke factoren een rol spelen bij de inzet van handhavingsinstrumenten (paragraaf 5).
+- – [artikel 9a, eerste tot en met derde lid Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9a),
+
+- – artikel 6, eerste lid van de Vo. Valsemunterij, voor zover dat artikel betrekking heeft op eurobankbiljetten, en
+
+- – het ECB-Besluit 2010/14 inzake echtheids- en geschiktheidscontroles en het opnieuw in omloop brengen van eurobankbiljetten,
+
+De bepalingen waarop de chartaal toezichtstaak is gebaseerd komen als eerste aan de orde ([paragraaf 2](https://wetten.overheid.nl/BWBR0035112)). Daarna wordt omschreven op welke wijze DNB toezicht houdt op de naleving van deze bepalingen ([paragraaf 3](https://wetten.overheid.nl/BWBR0035112)) en volgen de doelstelling en uitgangspunten die de chartaal toezichthouders hanteren bij hun handhavingsbeleid ([paragraaf 4](https://wetten.overheid.nl/BWBR0035112)). Tot slot wordt uiteengezet welke factoren een rol spelen bij de inzet van handhavingsinstrumenten ([paragraaf 5](https://wetten.overheid.nl/BWBR0035112)).
 
 ### 2. Chartaal toezichttaak; norm en geadresseerden
 
 DNB houdt op grond van [artikel 9b Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9b) toezicht op de naleving van:
 
-In beide artikelen is opgenomen -kort gezegd- de verplichting om de eurobankbiljetten op echtheid- en geschiktheid te controleren alvorens deze opnieuw in omloop te brengen. De voorschriften ter zake van de controleprocedures op echtheid en geschiktheid zijn voor eurobankbiljetten nader vastgelegd in ECB-Besluit 2010/14, alsook de verplichting hierover te rapporteren aan DNB.2Besluit ECB/2010/14 **inzake echtheids- en geschiktheidscontroles en het opnieuw in omloop brengen van eurobankbiljetten**
+- – [artikel 9a, eerste tot en met derde lid Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9a), en
+
+- – artikel 6, eerste lid, van de Vo. Valsemunterij voor zover dat artikel betrekking heeft op eurobankbiljetten.
+
+In beide artikelen is opgenomen -kort gezegd- de verplichting om de eurobankbiljetten op echtheid- en geschiktheid te controleren alvorens deze opnieuw in omloop te brengen. De voorschriften ter zake van de controleprocedures op echtheid en geschiktheid zijn voor eurobankbiljetten nader vastgelegd in ECB-Besluit 2010/14, alsook de verplichting hierover te rapporteren aan DNB.2Besluit ECB/2010/14 *inzake echtheids- en geschiktheidscontroles en het opnieuw in omloop brengen van eurobankbiljetten*
 
 De hierboven genoemde controleverplichting geldt voor kredietinstellingen, voor overige betalingsdienstverleners en andere economische operatoren die deelnemen aan de behandeling en verstrekking aan het publiek van eurobankbiljetten. Hieronder vallen wisselinstellingen, geldvervoerders en overige economische operatoren, zoals winkeliers en casino’s, die van publiek ontvangen eurobankbiljetten recirculeren via een (geld)automaat.
 
 DNB is op grond van [artikel 9c, eerste en tweede lid, Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9c) bevoegd tot oplegging van een last onder dwangsom of een bestuurlijke boete van ten hoogste € 50.000 euro3Stb 2014, 30 – [Besluit bestuurlijke boetes echtheids- en geschiktheidscontrole van eurobankbiljetten en euromunten](https://wetten.overheid.nl/jci1.3:c:BWBR0034714), voor een afzonderlijke overtreding ter handhaving van:
+
+- – [artikel 9a, eerste tot en met derde lid Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9a),
+
+- – artikel 6, eerste lid, van de Vo. Valsemunterij, voor zover dat artikel betrekking heeft op eurobankbiljetten, en
+
+- – [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) (Awb).
 
 DNB heeft in haar ‘[Besluit aanwijzing toezichthouders recirculatie eurobankbiljetten](https://wetten.overheid.nl/jci1.3:c:BWBR0031092)’ van 11 januari 2012 medewerkers aangewezen als ‘chartaal toezichthouder’, die hierdoor beschikken over de inlichtingen- en onderzoeksbevoegdheden van [titel 5.2 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2). Deze bevoegdheden kunnen worden ingezet ten behoeve van het toezicht op de naleving en kunnen worden uitgeoefend zonder dat van de overtreding van een wettelijk voorschrift sprake hoeft te zijn. De chartaal toezichthouders houden toezicht op de naleving van artikel 6, eerste lid Vo. Valsmunterij, de [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508) en het ECB-Besluit 2010/14 voor wat betreft de controleverplichting op eurobankbiljetten. Uitgangspunt is dat iedere partij die deelneemt aan de behandeling en verstrekking aan het publiek van eurobankbiljetten en/of eurobankbiljetten recirculeert via een (geld-) automaat, zich uit eigen beweging normconform gedraagt. Wanneer door de chartaal toezichthouder niet-normconform gedrag wordt vastgesteld, kan de inzet van handhavingsinstrumenten nodig zijn. Het hierna beschreven handhavingsbeleid geeft inzicht in de uitgangspunten en factoren die voor DNB richtinggevend zijn bij het bepalen van de inzet van handhavingsinstrumenten (zoals last onder dwangsom en bestuurlijke boete), teneinde naleving van de neergelegde normen te bewerkstelligen. Door beoordeling van de ernst van de overtreding en overige concrete omstandigheden van het geval, komen de chartaal toezichthouders/DNB tot een passende wijze van optreden. Vanuit de eigen taak bij de naleving van de wet- en regelgeving en op grond van de overige relevante omstandigheden en belangen, maakt DNB zelfstandig een afweging bij het bepalen van de inzet van handhavingsinstrumenten.
 
@@ -59,7 +53,7 @@ DNB heeft in haar ‘[Besluit aanwijzing toezichthouders recirculatie eurobankbi
 
 In deze paragraaf wordt ingegaan op de wijze waarop het chartaal toezicht de naleving van bepalingen van de wet- en regelgeving bewerkstelligt.
 
-Het chartaal toezicht op eurobankbiljetten bestaat onder meer uit het geven van voorlichting en ‘guidance’ door de chartaal toezichthouder over de neergelegde normen, het verzamelen van gegevens en het doen van onderzoek naar de mate van naleving van de normen. Chartaal toezicht hanteert een risicogebaseerde aanpak. De chartaal toezichtcapaciteit wordt vooral ingezet op risico’s die DNB als hoogste kwalificeert. Niet elke overtreding van de wet- en regelgeving leidt tot de inzet van een wettelijk handhavingsinstrument. Een normoverdragend gesprek of een waarschuwingsbrief kan een belangrijke rol spelen in de handhaving. In veel gevallen zal een gesprek of brief reeds het gewenste effect hebben, namelijk normconform gedrag. Dit betekent overigens niet dat in alle gevallen waarin een overtreding wordt geconstateerd, in eerste instantie een normoverdragend gesprek zal worden gevoerd of een waarschuwingsbrief zal worden verzonden. Of DNB daartoe overgaat, zal altijd afhangen van de omstandigheden van het geval en de weging van de factoren, zoals hierna is uitgewerkt in paragraaf 5.
+Het chartaal toezicht op eurobankbiljetten bestaat onder meer uit het geven van voorlichting en ‘guidance’ door de chartaal toezichthouder over de neergelegde normen, het verzamelen van gegevens en het doen van onderzoek naar de mate van naleving van de normen. Chartaal toezicht hanteert een risicogebaseerde aanpak. De chartaal toezichtcapaciteit wordt vooral ingezet op risico’s die DNB als hoogste kwalificeert. Niet elke overtreding van de wet- en regelgeving leidt tot de inzet van een wettelijk handhavingsinstrument. Een normoverdragend gesprek of een waarschuwingsbrief kan een belangrijke rol spelen in de handhaving. In veel gevallen zal een gesprek of brief reeds het gewenste effect hebben, namelijk normconform gedrag. Dit betekent overigens niet dat in alle gevallen waarin een overtreding wordt geconstateerd, in eerste instantie een normoverdragend gesprek zal worden gevoerd of een waarschuwingsbrief zal worden verzonden. Of DNB daartoe overgaat, zal altijd afhangen van de omstandigheden van het geval en de weging van de factoren, zoals hierna is uitgewerkt in [paragraaf 5](https://wetten.overheid.nl/BWBR0035112).
 
 ### 4. Doelstelling en uitgangspunten
 
@@ -87,11 +81,11 @@ Het handhavend optreden is in overeenstemming met de algemene beginselen van beh
 
 ### 5. Inzet van handhavingsinstrumenten
 
-Naast de hiervoor in paragraaf 3 genoemde handhavingsinstrumenten (normoverdragend gesprek en de waarschuwingsbrief) beschikken chartaal toezichthouders over wettelijke handhavingsinstrumenten te weten de last onder dwangsom en de bestuurlijke boete.
+Naast de hiervoor in [paragraaf 3](https://wetten.overheid.nl/BWBR0035112) genoemde handhavingsinstrumenten (normoverdragend gesprek en de waarschuwingsbrief) beschikken chartaal toezichthouders over wettelijke handhavingsinstrumenten te weten de last onder dwangsom en de bestuurlijke boete.
 
 In alle gevallen geldt dat de handhavingsinstrumenten kunnen of moeten worden ingezet ten behoeve van de naleving van de normen en het doel van de wet- en regelgeving. Naast of in plaats van de inzet van deze handhavingsinstrumenten bestaat in vele gevallen ook de mogelijkheid om van een overtreding aangifte te doen bij het Openbaar Ministerie (OM), zoals hierna beschreven onder a.
 
-Bij de beoordeling die ten grondslag ligt aan de inzet van handhavingsinstrumenten worden alle relevante feiten en af te wegen belangen betrokken. Tegen de achtergrond van de in paragraaf 4 geformuleerde uitgangspunten kan op voorhand een aantal factoren worden genoemd dat daarbij van belang kan zijn. Dit zijn de volgende.
+Bij de beoordeling die ten grondslag ligt aan de inzet van handhavingsinstrumenten worden alle relevante feiten en af te wegen belangen betrokken. Tegen de achtergrond van de in [paragraaf 4](https://wetten.overheid.nl/BWBR0035112) geformuleerde uitgangspunten kan op voorhand een aantal factoren worden genoemd dat daarbij van belang kan zijn. Dit zijn de volgende.
 
 ### a. Bestuursrechtelijke of strafrechtelijke aanpak
 
@@ -105,7 +99,29 @@ Indien de geconstateerde overtreding nog voortduurt, is het handhavend optreden 
 
 ### c. Relevante omstandigheden en belangen bij de keuze voor een handhavingsinstrument
 
-Bij de keuze voor de inzet van een handhavingsinstrument in een concrete zaak houden de chartaal toezichthouders rekening met alle relevante omstandigheden van het geval en wegen zij de rechtstreeks bij het besluit betrokken belangen af (zie paragraaf 4.e). Meer specifiek betekent dit dat de chartaal toezichthouders bij hun beoordeling onder meer betrekken, indien en voor zover in het concrete geval van toepassing:
+Bij de keuze voor de inzet van een handhavingsinstrument in een concrete zaak houden de chartaal toezichthouders rekening met alle relevante omstandigheden van het geval en wegen zij de rechtstreeks bij het besluit betrokken belangen af (zie [paragraaf 4.e](https://wetten.overheid.nl/BWBR0035112)). Meer specifiek betekent dit dat de chartaal toezichthouders bij hun beoordeling onder meer betrekken, indien en voor zover in het concrete geval van toepassing:
+
+- – of sprake is van recidive;
+
+- – in welke mate de overtreding verwijtbaar is;
+
+- – in welke mate door de overtreding derden zijn benadeeld en, zo ja, of zij door de overtreder uit eigen beweging zijn gecompenseerd;
+
+- – in welke mate de overtreder door de overtreding voordeel heeft verkregen;
+
+- – of de overtreder uit eigen beweging de overtreding heeft beëindigd;
+
+- – wat de duur van de overtreding is geweest;
+
+- – in hoeverre de overtreder medewerking heeft verleend aan het onderzoek;
+
+- – wat de financiële draagkracht van de overtreder is;
+
+- – wat het economisch effect van de toezichtmaatregel op de overtreder is;
+
+- – of de overtreding heeft geleid tot marktverstoring;
+
+- – of door de overtreding het vertrouwen in de eurobankbiljetten is geschaad.
 
 Deze opsomming van factoren is niet uitputtend en de weging van de genoemde factoren kan van geval tot geval verschillen.
 

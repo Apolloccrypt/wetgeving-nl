@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 19 november 2014, houdende voorwaarden ter uitvoering van de Verordening voor Europese hulp aan de meest behoeftigen (Subsidieregeling EFMB 2015–2023)"
+citeertitel: "Subsidieregeling EFMB 2015–2023"
 identifier: "BWBR0035800"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-14"
-last_updated: "2018-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035800"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12853123"
-version_id: "21835172"
-internal_id: "C31339291"
-label_id: "12822914"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035800/2018-11-14/0"
-intitule_bron: "Stcrt.2014-33574"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-19"
-intitule_published: "2014-11-25"
-intitule_in_force: "2014-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-33574"
-original_signed_date: "2014-11-19"
-original_published_date: "2014-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-33574"
-entry_into_force_date: "2014-11-26"
-jci_1_3: "jci1.3:c:BWBR0035800&z=2018-11-14&g=2018-11-14"
-jci_1_0: "1.0:c:BWBR0035800&g=2018-11-14"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling EFMB 2015–2023"
-signed_date: "2014-11-19"
-entry_into_force: "2014-11-26"
+publicatiedatum: 2014-11-26
+laatste_update: 2018-11-14
+status: geldig
+toestand: 2018-11-14
+bron: "https://wetten.overheid.nl/BWBR0035800"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 19 november 2014, houdende voorwaarden ter uitvoering van de Verordening voor Europese hulp aan de meest behoeftigen (Subsidieregeling EFMB 2015–2023)
-
-Gelet op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [artikel 5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5) en de Verordening (EU) nr. 223/2014 van het Europees Parlement en de Raad van 11 maart 2014 betreffende het Fonds voor Europese hulp aan de meest behoeftigen;
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,27 +20,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **aanvrager:** rechtspersoon zonder winstoogmerk die in aanmerking wil komen voor een financiële bijdrage uit het EFMB en daartoe een projectvoorstel indient bij de minister;
+- – *aanvrager:* rechtspersoon zonder winstoogmerk die in aanmerking wil komen voor een financiële bijdrage uit het EFMB en daartoe een projectvoorstel indient bij de minister;
 
-- –. **begunstigde:** aanvrager aan wie de subsidie is verleend;
+- – *begunstigde:* aanvrager aan wie de subsidie is verleend;
 
-- –. **deelnemers:** personen uit de doelgroep die deelnemen aan de activiteiten uit het project van de aanvrager;
+- – *deelnemers:* personen uit de doelgroep die deelnemen aan de activiteiten uit het project van de aanvrager;
 
-- –. **doelgroep:** ouderen met een laag besteedbaar inkomen die de pensioengerechtigde leeftijd hebben bereikt, woonachtig zijn in Nederland en die te kennen geven sociaal uitgesloten te zijn of dreigen te worden;
+- – *doelgroep:* ouderen met een laag besteedbaar inkomen die de pensioengerechtigde leeftijd hebben bereikt, woonachtig zijn in Nederland en die te kennen geven sociaal uitgesloten te zijn of dreigen te worden;
 
-- –. **EFMB:** Europees Fonds voor Meest Behoeftigen;
+- – *EFMB:* Europees Fonds voor Meest Behoeftigen;
 
-- –. **minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- – *minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **operationeel programma:** operationeel programma, bedoeld in artikel 2, zesde lid, van de Verordening;
+- – *operationeel programma:* operationeel programma, bedoeld in artikel 2, zesde lid, van de Verordening;
 
-- –. **project:** geheel van activiteiten gericht op het tegengaan van sociale uitsluiting van de doelgroep gedurende de projectperiode, dat wordt uitgevoerd door of namens de begunstigde en dat wordt gesubsidieerd op grond van deze regeling;
+- – *project:* geheel van activiteiten gericht op het tegengaan van sociale uitsluiting van de doelgroep gedurende de projectperiode, dat wordt uitgevoerd door of namens de begunstigde en dat wordt gesubsidieerd op grond van deze regeling;
 
-- –. **projectperiode:** subsidiabele periode waarbinnen de uitvoering van het projectplan zal plaatsvinden;
+- – *projectperiode:* subsidiabele periode waarbinnen de uitvoering van het projectplan zal plaatsvinden;
 
-- –. **projectplan:** door de aanvrager ingediend plan waarin, overeenkomstig de vereisten in deze regeling, een beschrijving van het project is opgenomen;
+- – *projectplan:* door de aanvrager ingediend plan waarin, overeenkomstig de vereisten in deze regeling, een beschrijving van het project is opgenomen;
 
-- –. **Verordening:** Verordening (EU) nr. 223/2014 van het Europees Parlement en de Raad van 11 maart 2014 betreffende het Fonds voor Europese hulp aan de meest behoeftigen.
+- – *Verordening:* Verordening (EU) nr. 223/2014 van het Europees Parlement en de Raad van 11 maart 2014 betreffende het Fonds voor Europese hulp aan de meest behoeftigen.
 
 ##### Artikel 2. Subsidie uit EFMB
 
@@ -94,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Mandatering
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Subsidieverlening
 
@@ -353,105 +327,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 24. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling EFMB 2015–2023
-
-## Bijlage 1. behorende bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=11&z=2018-11-14&g=2018-11-14): beoordelingskader
-
-De beoordeling van de aanvragen gebeurt in twee opeenvolgende fasen. Allereerst wordt bekeken of aanvragen voldoen aan een aantal basisvereisten. Deze basisvereisten om voor subsidie in aanmerking te komen zijn opgenomen in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-11-14&g=2018-11-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-11-14&g=2018-11-14) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-11-14&g=2018-11-14). Deze vereisten hebben zowel betrekking op de aanvrager zelf als op de in te dienen stukken. Aanvragen die niet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-11-14&g=2018-11-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-11-14&g=2018-11-14), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-11-14&g=2018-11-14), of de voorwaarden uit [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=10&z=2018-11-14&g=2018-11-14) voldoen, worden op basis van artikel 10 afgewezen en verder niet inhoudelijk beoordeeld.
-
-De tweede fase betreft het inhoudelijk beoordelen van de projectplannen van de aanvragen die voldoen aan de formele vereisten. De beoordeling vindt plaats aan de hand van de in deze bijlage opgenomen vier criteria. Toetsing vindt plaats op alle criteria en resulteert in een totaalscore. Het plan dat de hoogste totaalscore behaalt ontvangt een beschikking tot verlening van subsidie. De overige plannen worden afgewezen.
-
-### Criterium 1: de kwaliteit en verwachte effectiviteit van de aanpak om de doelgroep te bereiken (0 – 25 punten)
-
-Het is niet eenvoudig om in contact te komen met ouderen die sociaal uitgesloten zijn. Hierbij speelt enerzijds dat weinig mensen contact met hen hebben en kunnen melden dat het niet goed gaat. Anderzijds speelt schaamte en vraagverlegenheid bij de betreffende persoon een belangrijke rol, waardoor de oudere zelf ook niet om hulp vraagt. Daarnaast spelen bij de doelgroep taal- en cultuurbarrières een rol. De aanvrager dient helder uiteen te zetten op welke wijze hij de doelgroep, ouderen met een laag besteedbaar inkomen die sociaal uitgesloten (dreigen te) zijn, gaat bereiken. Welke middelen zet hij in en welke partijen betrekt hij hierbij? Ook dient de aanvrager te onderbouwen hoeveel ouderen hij denkt te bereiken met zijn aanpak. Met bereiken van de doelgroep wordt bedoeld dat een oudere uit de doelgroep ten minste eenmaal deelneemt aan een activiteit die in het kader van het project georganiseerd wordt. Hierbij geldt dat om voor subsidie in aanmerking te komen, de aanvrager gedurende de looptijd van het project ten minste 5.000 mensen uit de doelgroep dient te bereiken.
-
-Bij de beoordeling van dit criterium worden de volgende elementen betrokken:
-
-**Er worden meer punten toegekend naar mate met de aanpak naar het oordeel van de minister meer en de meest kwetsbare mensen uit de doelgroep kunnen worden bereikt.**
-
-Verdeling score:
-
-### Criterium 2: de kwaliteit en verwachte effectiviteit van de activiteiten voor de deelnemers om sociale uitsluiting tegen te gaan (0 – 30 punten)
-
-Doelstelling van de regeling is om sociale uitsluiting van ouderen tegen te gaan. In het bijzonder gaat het daarbij om ouderen met een laag besteedbaar inkomen. De aanvrager dient aan te geven in welke mate de activiteiten die hij voorstelt bijdragen aan dit doel. Ook dient de aanvrager in te gaan op de bijdrage die de activiteiten leveren om het sociaal netwerk en de competenties van de deelnemers te versterken. Bij het versterken van competenties wordt gedacht aan competenties die de financiële zelfredzaamheid, digitale vaardigheden en/of de gezonde leefstijl van de deelnemers bevorderen.
-
-Bij de beoordeling van dit criterium worden de volgende elementen betrokken:
-
-**Er worden meer punten toegekend naar mate de activiteiten die worden georganiseerd voor de doelgroep naar het oordeel van de minister meer bijdragen aan het tegengaan van de sociale uitsluiting van de deelnemers en het versterken van het sociaal netwerk en de competenties van de deelnemers.**
-
-Verdeling score:
-
-### Criterium 3: de duurzaamheid van de aanpak om sociale uitsluiting tegen te gaan (0 – 25 punten)
-
-In Nederland zijn veel mogelijkheden om sociaal te participeren, ook voor ouderen met een laag besteedbaar inkomen. Het is echter voor deze groep niet altijd eenvoudig de weg naar deze mogelijkheden te vinden. Bovendien speelt schaamte een rol, waardoor mensen niet altijd om hulp durven te vragen. De aanvrager dient aan te geven in welke mate zijn project er toe bijdraagt dat de deelnemers zicht krijgen op voorzieningen die voor hen bedoeld zijn en dat zij daar ook daadwerkelijk gebruik van gaan maken.
-
-Nadat het gelukt is om de doelgroep te bereiken, is het van groot belang dat de deelnemers vervolgens niet weer van de ‘radar’ verdwijnen. Om dit te realiseren is het van belang dat de aanvrager afspraken maakt met gemeenten en betrokken lokale partijen over hoe geborgd wordt dat de deelnemer ook na afloop van zijn deelname aan het programma in beeld blijft bij betrokken partijen. De inhoud en concreetheid van deze afspraken bepaalt voor een belangrijk deel de score op dit onderdeel.
-
-Bij de beoordeling van dit criterium worden de volgende elementen betrokken:
-
-**Er worden meer punten toegekend naar mate het project naar het oordeel van de minister de deelnemers beter wegwijs maakt in en toe leidt naar het lokale ondersteuningsaanbod en er voor zorgt dat deelnemers in beeld blijven bij gemeenten en/of hulporganisaties.**
-
-Verdeling score:
-
-### Criterium 4: de geschiktheid van de aanvrager (0 – 20 punten)
-
-De doelgroep waar de regeling zich op richt is zeer kwetsbaar. Ook bestaat de doelgroep voor een belangrijk deel uit mensen met een niet-Westerse achtergrond en cultuur. Ervaring in de omgang met en kennis over de doelgroep is derhalve een absolute pré. De aanvrager dient aan te geven in welke mate hij over deze ervaring en kennis beschikt en in welke mate dit geldt voor eventuele andere partijen die bij de uitvoering worden betrokken.
-
-Ook is het van belang dat de aanvrager daar waar de activiteiten plaatsvinden, beschikt over een uitgebreid en met het oog op de doelgroep en de doelstelling van de regeling relevant netwerk. Bij partijen die onderdeel uit zouden moeten maken van een relevant netwerk kan in ieder geval gedacht worden aan gemeenten en lokale maatschappelijke organisaties die zich richten op sociale inclusie en zelfredzaamheid van kwetsbare ouderen. De score op dit onderdeel wordt dan ook mede bepaald door de mate waarin de aanvrager laat zien dat hij over een dergelijk netwerk beschikt.
-
-Bij de beoordeling van dit criterium worden de volgende elementen betrokken:
-
-**Er worden meer punten toegekend naar mate de aanvrager en eventuele andere bij de uitvoering betrokken partijen naar het oordeel van de minister beschikken over een lokaal netwerk en de vereiste ervaring en competenties om een project gericht op deze specifieke doelgroep uit te voeren.**
-
-Verdeling score:
-
-## Bijlage 2. behorende bij [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-11-14&g=2018-11-14). Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
-
-In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieontvanger de kosten met originele bewijsstukken. De Verordening maakt het mogelijk kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een procedure voor de vaststelling van de authenticiteit worden opgesteld. In deze bijlage worden de door Nederland vastgestelde procedures weergegeven.
-
-De volgende documenten worden als bewijsstukken geaccepteerd:
-
-- a. fotokopieën van originelen;
-
-- b. microfiches van originelen;
-
-- c. elektronische versies van originelen;
-
-- d. documenten die uitsluitend in elektronische versie bestaan, mits de gebruikte computersystemen voldoen aan aanvaarde beveiligingsnormen die waarborgen dat de bewaarde documenten voldoen aan de eraan te stellen wettelijke eisen en dat bij controles op deze documenten kan worden gesteund.
-
-Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de EFMB-administratie.
-
-De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
-
-- •. Alle gegevens worden overgezet;
-
-- •. Alle gegevens worden inhoudelijk juist overgezet;
-
-- •. Er wordt voor gezorgd dat de nieuwe gegevensdrager tijdens de gehele bewaartermijn beschikbaar is;
-
-- •. De geconverteerde gegevens kunnen binnen redelijke tijd ge(re)produceerd worden en leesbaar worden gemaakt;
-
-- •. Er wordt zorg voor gedragen dat de controle van de geconverteerde gegevens binnen redelijke tijd kan worden uitgevoerd;
-
-- •. De subsidieaanvrager borgt tevens de authenticiteit van de geconverteerde bewijsstukken door onder andere een relatie te leggen met de overige bewijsstukken in het betreffende projectdossier. Bij een factuur bijvoorbeeld behoort ook een betaalbewijs, een bewijs van deelname of een bewijsstuk met betrekking tot de inkoopprocedure.
-
-Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
-
-Als de conversie op de juiste wijze gebeurt, is het in het kader van de EFMB-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
-
-De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de EFMB-administratie, voldoen aan de vereisten uit artikel 18 van de Subsidieregeling EFMB 2014–2020 en daarmee aan deze bijlage.
-
-Indien een subsidieontvanger gebruik maakt van elektronische documenten waarvan uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt:
-
-- 1. Digitale urenadministratie: om aan de eisen van betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens te kunnen voldoen moet de subsidieontvanger kunnen aantonen dat: Het is aan de subsidieaanvrager om dit aan te tonen.
-
-- a). De functiescheiding binnen het systeem wordt gewaarborgd;
-
-- b). De tijdigheid binnen het systeem wordt gewaarborgd;
-
-- c). Vaststellingen na accorderen door de leidinggevende niet meer te wijzigen zijn.
-
-- 2. Facturen die digitaal worden verzonden: om aan de eisen van betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens te kunnen voldoen kan de subsidieaanvrager via de onderlinge relatie met andere documenten (zoals een betaalbewijs) aantonen dat voor de controle kan worden gesteund op de digitale factuur.
-
-De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de EFMB-verantwoording. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-11-14&g=2018-11-14) is onverminderd van toepassing.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

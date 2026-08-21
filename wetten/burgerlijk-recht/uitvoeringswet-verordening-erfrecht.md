@@ -1,48 +1,18 @@
 ---
 title: "Wet van 5 november 2014 tot uitvoering van de Verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201) (Uitvoeringswet Verordening erfrecht)"
+citeertitel: "Uitvoeringswet Verordening erfrecht"
 identifier: "BWBR0035741"
-country: "nl"
-rank: "wet"
-publication_date: "2015-08-17"
-last_updated: "2015-08-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035741"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "12835663"
-version_id: "21807192"
-internal_id: "C31296181"
-label_id: "12805404"
-dtd_version: "2.0"
-original_entry_into_force: "2015-08-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035741/2015-08-17/0"
-intitule_bron: "Stb.2014-430"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-05"
-intitule_published: "2014-11-14"
-intitule_in_force: "2014-11-14"
-intitule_status: "goed"
-original_publication: "Stb.2014-430"
-original_signed_date: "2014-11-05"
-original_published_date: "2014-11-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "33851"
-original_url_id: "stb-2014-430"
-entry_into_force_date: "2015-08-17"
-entry_into_force_dossier: "33851"
-jci_1_3: "jci1.3:c:BWBR0035741&z=2015-08-17&g=2015-08-17"
-jci_1_0: "1.0:c:BWBR0035741&g=2015-08-17"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Verordening erfrecht"
-signed_date: "2014-11-05"
-entry_into_force: "2015-08-17"
+publicatiedatum: 2015-08-17
+laatste_update: 2015-08-17
+status: geldig
+toestand: 2015-08-17
+bron: "https://wetten.overheid.nl/BWBR0035741"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 5 november 2014 tot uitvoering van de Verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201) (Uitvoeringswet Verordening erfrecht)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat wetgeving nodig is ter uitvoering van de Verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -124,19 +94,19 @@ Als autoriteit van afgifte in de zin van artikel 64 van de verordening wordt aan
 
 ##### Artikel 10
 
-Wijzigt het Burgerlijk Wetboek Boek 4.
+*Wijzigt het Burgerlijk Wetboek Boek 4.*
 
 ##### Artikel 11
 
-Wijzigt het Burgerlijk Wetboek Boek 10.
+*Wijzigt het Burgerlijk Wetboek Boek 10.*
 
 ##### Artikel 12
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
 ##### Artikel 13
 
-Wijzigt de Kadasterwet.
+*Wijzigt de Kadasterwet.*
 
 #### § 6. Slotbepalingen
 
@@ -147,5 +117,3 @@ Deze wet treedt in werking met ingang van 17 augustus 2015.
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Uitvoeringswet Verordening erfrecht.
-
-Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

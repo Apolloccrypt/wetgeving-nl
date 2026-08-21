@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Minister van Financiën en de Minister voor Wonen en Rijksdienst van 3 april 2014, kenmerk: FM 2014/470 M, tot instelling van de Commissie verzekeraars (Regeling instelling Commissie verzekeraars)"
+citeertitel: "Regeling instelling Commissie verzekeraars"
 identifier: "BWBR0035038"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-04-12"
-last_updated: "2014-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035038"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-stam_id: "12645863"
-version_id: "21359542"
-internal_id: "C30667521"
-label_id: "12616164"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035038/2014-04-12/0"
-intitule_bron: "Stcrt.2014-10221"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-04-03"
-intitule_published: "2014-04-11"
-intitule_in_force: "2014-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-10221"
-original_signed_date: "2014-04-03"
-original_published_date: "2014-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-10221"
-entry_into_force_date: "2014-04-12"
-jci_1_3: "jci1.3:c:BWBR0035038&z=2014-04-12&g=2014-04-12"
-jci_1_0: "1.0:c:BWBR0035038&g=2014-04-12"
-citeertitel_status: "officieel"
-short_title: "Regeling instelling Commissie verzekeraars"
-signed_date: "2014-04-03"
-entry_into_force: "2014-04-12"
+publicatiedatum: 2014-04-12
+laatste_update: 2014-04-12
+status: geldig
+toestand: 2014-04-12
+bron: "https://wetten.overheid.nl/BWBR0035038"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Financiën en de Minister voor Wonen en Rijksdienst van 3 april 2014, kenmerk: FM 2014/470 M, tot instelling van de Commissie verzekeraars (Regeling instelling Commissie verzekeraars)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste en derde lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Financiën;
+- a. *minister:* de Minister van Financiën;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035038&artikel=2&z=2014-04-12&g=2014-04-12).
+- b. *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035038&artikel=2&z=2014-04-12&g=2014-04-12).
 
 ##### Artikel 2. Instelling
 
@@ -113,5 +85,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling instelling Commissie verzekeraars.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

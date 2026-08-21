@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 1 september 2014, met kenmerk 656766-125175-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de afkoop verplichtingen Rijk die verband houden met de overgangsregeling kapitaallasten in relatie tot de curatieve jeugd-ggz"
+citeertitel: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (afkoop verplichtingen Rijk die verband houden met de overgangsregeling kapitaallasten in relatie tot de curatieve jeugd-ggz)"
 identifier: "BWBR0035536"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-11-01"
-last_updated: "2014-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035536"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12796813"
-version_id: "21727192"
-internal_id: "C31171781"
-label_id: "12766454"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035536/2014-11-01/0"
-intitule_bron: "Stcrt.2014-25467"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-01"
-intitule_published: "2014-09-12"
-intitule_in_force: "2014-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-25467"
-original_signed_date: "2014-09-01"
-original_published_date: "2014-09-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-25467"
-entry_into_force_date: "2014-11-01"
-jci_1_3: "jci1.3:c:BWBR0035536&z=2014-11-01&g=2014-11-01"
-jci_1_0: "1.0:c:BWBR0035536&g=2014-11-01"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (afkoop verplichtingen Rijk die verband houden met de overgangsregeling kapitaallasten in relatie tot de curatieve jeugd-ggz)"
-signed_date: "2014-09-01"
-entry_into_force: "2014-11-01"
+publicatiedatum: 2014-11-01
+laatste_update: 2014-11-01
+status: geldig
+toestand: 2014-11-01
+bron: "https://wetten.overheid.nl/BWBR0035536"
+opgehaald: 2026-08-21
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 1 september 2014, met kenmerk 656766-125175-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de afkoop verplichtingen Rijk die verband houden met de overgangsregeling kapitaallasten in relatie tot de curatieve jeugd-ggz
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 10 juni 2014 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) (Kamerstukken II 2013/14, 25 424, nr. 247);
-
-Besluit:
 
 ##### Artikel 1. eenmalige verrekening overgangsregeling kapitaallasten
 
@@ -55,5 +27,3 @@ De Nederlandse Zorgautoriteit stelt in 2014 overeenkomstig de overgangsregeling 
 ##### Artikel 3. beschikbaarheidbijdrage
 
 Indien de berekening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035536&artikel=2&z=2014-11-01&g=2014-11-01) leidt tot een positief bedrag voor de desbetreffende zorgaanbieder, kent de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage toe. Indien de berekening als bedoeld in artikel 2 leidt tot een negatief bedrag voor de desbetreffende zorgaanbieder, stelt de Nederlandse Zorgautoriteit het bedrag op € 0 vast.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.

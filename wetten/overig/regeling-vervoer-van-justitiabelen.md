@@ -1,46 +1,18 @@
 ---
 title: "Regeling van Staatssecretaris van Veiligheid en Justitie van 15 juli 2014 houdende regels aangaande het vervoer van justitiabelen (Regeling vervoer van justitiabelen)"
+citeertitel: "Regeling vervoer van justitiabelen"
 identifier: "BWBR0035372"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-22"
-last_updated: "2025-11-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035372"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12738463"
-version_id: "21562222"
-internal_id: "C30963801"
-label_id: "12708544"
-dtd_version: "2.0"
-original_entry_into_force: "2014-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035372/2025-11-22/0"
-intitule_bron: "Stcrt.2014-20678"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-15"
-intitule_published: "2014-07-24"
-intitule_in_force: "2014-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-20678"
-original_signed_date: "2014-07-15"
-original_published_date: "2014-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-20678"
-entry_into_force_date: "2014-07-01"
-jci_1_3: "jci1.3:c:BWBR0035372&z=2025-11-22&g=2025-11-22"
-jci_1_0: "1.0:c:BWBR0035372&g=2025-11-22"
-citeertitel_status: "officieel"
-short_title: "Regeling vervoer van justitiabelen"
-signed_date: "2014-07-15"
-entry_into_force: "2014-07-01"
+publicatiedatum: 2014-07-01
+laatste_update: 2025-11-22
+status: geldig
+toestand: 2025-11-22
+bron: "https://wetten.overheid.nl/BWBR0035372"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van Staatssecretaris van Veiligheid en Justitie van 15 juli 2014 houdende regels aangaande het vervoer van justitiabelen (Regeling vervoer van justitiabelen)
-
-Gelet op de [artikelen 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15), en [26, zesde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=26), de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=11) en [28, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=28) en de [artikelen 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=11), en [50, zesde lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=50);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen en begripsbepalingen
 
@@ -48,31 +20,35 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- a. **justitiabelen:** gedetineerden, jeugdigen, ter beschikking gestelden of anderszins verpleegden;
+- a. *justitiabelen:* gedetineerden, jeugdigen, ter beschikking gestelden of anderszins verpleegden;
 
-- b. **inrichting:** een inrichting als bedoeld in [artikel 1, onderdeel b, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1) of [artikel 1, onderdeel b, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1);
+- b. *inrichting:* een inrichting als bedoeld in [artikel 1, onderdeel b, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1) of [artikel 1, onderdeel b, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1);
 
-- c. **medisch transport:** het transport van justitiabelen, bedoeld in de [artikelen 42, vierde lid, onder c, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=42), [41, vierde lid, onder c, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=41) en [47, vierde lid, onder c, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=47);
+- c. *medisch transport:* het transport van justitiabelen, bedoeld in de [artikelen 42, vierde lid, onder c, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=42), [41, vierde lid, onder c, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=41) en [47, vierde lid, onder c, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=47);
 
-- d. **preciosa:** een beperkt aantal eigendommen van de justitiabelen waaronder geld en documenten die gedurende het transport in bewaring zijn genomen en in een daarvoor bestemde verpakking, zijnde een preciosazak zijn opgeborgen;
+- d. *preciosa:* een beperkt aantal eigendommen van de justitiabelen waaronder geld en documenten die gedurende het transport in bewaring zijn genomen en in een daarvoor bestemde verpakking, zijnde een preciosazak zijn opgeborgen;
 
-- e. **sociaal transport:** het transport van justitiabelen, bedoeld in [artikel 43, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=43), [artikel 48, derde lid, Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=48) of van ter beschikking gestelden of anderszins verpleegden waarbij sprake is van een sociaal belang;
+- e. *sociaal transport:* het transport van justitiabelen, bedoeld in [artikel 43, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=43), [artikel 48, derde lid, Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=48) of van ter beschikking gestelden of anderszins verpleegden waarbij sprake is van een sociaal belang;
 
-- f. **spoedaanvraag:** een aanvraag tot een transport dat op de dag van de aanvraag moet worden uitgevoerd;
+- f. *spoedaanvraag:* een aanvraag tot een transport dat op de dag van de aanvraag moet worden uitgevoerd;
 
-- g. **transport:** de verplaatsing of begeleiding van een justitiabele vanuit of naar de inrichting of vanuit of naar een andere locatie op aanwijzing van het daartoe bevoegde gezag, onder begeleiding van een of meer transportgeleiders;
+- g. *transport:* de verplaatsing of begeleiding van een justitiabele vanuit of naar de inrichting of vanuit of naar een andere locatie op aanwijzing van het daartoe bevoegde gezag, onder begeleiding van een of meer transportgeleiders;
 
-- h. **transportaanvraag:** een aanvraag tot het uitvoeren van een transport;
+- h. *transportaanvraag:* een aanvraag tot het uitvoeren van een transport;
 
-- i. **transportaanvrager:** een directeur, hoofd van een inrichting of een selectiefunctionaris;
+- i. *transportaanvrager:* een directeur, hoofd van een inrichting of een selectiefunctionaris;
 
-- j. **wagencommandant:** de transportgeleider die bij de uitvoering van een transport met één of meerdere voertuigen door de transportuitvoerder is aangewezen het transport te leiden, dan wel degene met de hoogste rang of bij gelijke rang, degene met de meeste dienstjaren bij de DV&O.
+- j. *wagencommandant:* de transportgeleider die bij de uitvoering van een transport met één of meerdere voertuigen door de transportuitvoerder is aangewezen het transport te leiden, dan wel degene met de hoogste rang of bij gelijke rang, degene met de meeste dienstjaren bij de DV&O.
 
-- k. **transportgeleider:** de medewerker die uitdrukkelijk is belast met het toezicht, de beveiliging en de begeleiding tijdens het transport van justitiabelen;
+- k. *transportgeleider:* de medewerker die uitdrukkelijk is belast met het toezicht, de beveiliging en de begeleiding tijdens het transport van justitiabelen;
 
-- l. **transportrapportage:** het formulier, waarop bijzonderheden van het transport worden vermeld en dat door of vanwege de transportgeleider wordt ingevuld;
+- l. *transportrapportage:* het formulier, waarop bijzonderheden van het transport worden vermeld en dat door of vanwege de transportgeleider wordt ingevuld;
 
-- m. **transportuitvoerder:** de functionaris die is belast met de uitvoering van het transport.
+- m. *transportuitvoerder:* de functionaris die is belast met de uitvoering van het transport.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 6.11, eerste lid, onder b, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
 
 ##### Artikel 2. Bijzondere aanwijzingen
 
@@ -252,30 +228,6 @@ Wanneer zich tijdens het transport bijzonderheden, aangaande de justitiabele, he
 
 ##### Artikel 26. Inwerkingtreding en citeertitel
 
-1. Deze regeling treedt in werking op 1 juli 2014.
+1. Deze regeling treedt in werking op 1 juli 2014.
 
 2. Deze regeling wordt aangehaald als: Regeling vervoer van justitiabelen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op [artikel 6.11, eerste lid, onder b, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
-
-### Hoofdstuk 2. De transportuitvoering
-
-### Hoofdstuk 3. Algemene beveiliging
-
-### Hoofdstuk 4. Toezicht tijdens het transport
-
-### Hoofdstuk 5. Bagagedoos en preciosazak
-
-### Hoofdstuk 6. Voeding en verzorging van de justitiabele
-
-### Hoofdstuk 7. Bijzondere transporten
-
-### Hoofdstuk 8. Rapportageverplichtingen
-
-### Hoofdstuk 9. Slotbepaling
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

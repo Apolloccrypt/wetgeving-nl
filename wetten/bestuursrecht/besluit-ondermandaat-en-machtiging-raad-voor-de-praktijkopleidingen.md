@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Raad voor de Praktijkopleidingen houdende regels inzake ondermandaat en machtiging (Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen)"
+citeertitel: "Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen"
 identifier: "BWBR0035705"
-country: "nl"
-rank: "pbo"
-publication_date: "2014-08-02"
-last_updated: "2014-08-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035705"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12825223"
-version_id: "21786182"
-internal_id: "C31271041"
-label_id: "12794814"
-dtd_version: "2.0"
-original_entry_into_force: "2014-08-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035705/2014-08-02/0"
-intitule_bron: "Stcrt.2014-21888"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-23"
-intitule_published: "2014-08-01"
-intitule_in_force: "2014-08-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-21888"
-original_signed_date: "2014-07-23"
-original_published_date: "2014-08-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-21888"
-entry_into_force_date: "2014-08-02"
-jci_1_3: "jci1.3:c:BWBR0035705&z=2014-08-02&g=2014-08-02"
-jci_1_0: "1.0:c:BWBR0035705&g=2014-08-02"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen"
-signed_date: "2014-07-23"
-entry_into_force: "2014-08-02"
+publicatiedatum: 2014-08-02
+laatste_update: 2014-08-02
+status: geldig
+toestand: 2014-08-02
+bron: "https://wetten.overheid.nl/BWBR0035705"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de Raad voor de Praktijkopleidingen houdende regels inzake ondermandaat en machtiging (Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gelet op het [Besluit mandaat en machtiging bestuur NBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034104);
-
-Besluit als volgt:
 
 ##### Artikel 1
 

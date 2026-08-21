@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ / 14066719, houdende uitvoering van de artikelen 35, eerste lid, 42, tweede lid, en 48 van de Mededingingswet en wijziging van een aantal ministeriële regelingen in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Regeling gegevensverstrekking Mededingingswet)"
+citeertitel: "Regeling gegevensverstrekking Mededingingswet"
 identifier: "BWBR0035324"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-08-01"
-last_updated: "2014-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035324"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12725593"
-version_id: "21538302"
-internal_id: "C30922471"
-label_id: "12695614"
-dtd_version: "2.0"
-original_entry_into_force: "2014-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035324/2014-08-01/0"
-intitule_bron: "Stcrt.2014-19743"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-04"
-intitule_published: "2014-07-15"
-intitule_in_force: "2014-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-19743"
-original_signed_date: "2014-07-04"
-original_published_date: "2014-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-19743"
-entry_into_force_date: "2014-08-01"
-jci_1_3: "jci1.3:c:BWBR0035324&z=2014-08-01&g=2014-08-01"
-jci_1_0: "1.0:c:BWBR0035324&g=2014-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling gegevensverstrekking Mededingingswet"
-signed_date: "2014-07-04"
-entry_into_force: "2014-08-01"
+publicatiedatum: 2014-08-01
+laatste_update: 2014-08-01
+status: geldig
+toestand: 2014-08-01
+bron: "https://wetten.overheid.nl/BWBR0035324"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ / 14066719, houdende uitvoering van de artikelen 35, eerste lid, 42, tweede lid, en 48 van de Mededingingswet en wijziging van een aantal ministeriële regelingen in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Regeling gegevensverstrekking Mededingingswet)
-
-Gelet op [artikelen 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=35), en [42, tweede lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=42), [8 van de Instellingswet ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=8), [40a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=40a), [81e, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=81e), [2.11 van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.11), [14, vierde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14), [2.1, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.1), en [2.3, derde en vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.3);
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -46,21 +20,22 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraag om vergunning:** een aanvraag om een vergunning voor een concentratie als bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=41);
+- *aanvraag om vergunning:* een aanvraag om een vergunning voor een concentratie als bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=41);
 
-- **concentratie:** een concentratie in de zin van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=27);
+- *concentratie:* een concentratie in de zin van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=27);
 
-- 1°. de markten waarop twee of meer bij de concentratie betrokken ondernemingen werkzaam zijn of
+   - 1°. de markten waarop twee of meer bij de concentratie betrokken ondernemingen werkzaam zijn of
 
-- 2°. de markt waarop één of meer van de bij de concentratie betrokken ondernemingen werkzaam is en de markt waarop een andere bij de concentratie betrokken onderneming alsmede leveranciers of afnemers van de eerstbedoelde onderneming of ondernemingen werkzaam zijn;
+   - 2°. de markt waarop één of meer van de bij de concentratie betrokken ondernemingen werkzaam is en de markt waarop een andere bij de concentratie betrokken onderneming alsmede leveranciers of afnemers van de eerstbedoelde onderneming of ondernemingen werkzaam zijn;
 
-- **groep:** een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+- *groep:* een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
 
-- **melding:** een melding van een concentratie als bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=34);
+- *melding:* een melding van een concentratie als bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=34);
 
-- **te onderzoeken markt:** een door de concentratie te beïnvloeden markt als bedoeld in dit artikel, onder 1°, waarop de desbetreffende ondernemingen te samen een marktaandeel hebben van ten minste 15%, of een door de concentratie te beïnvloeden markt als bedoeld in dit artikel, onder 2°, waarop één of meer van de desbetreffende bij de concentratie betrokken ondernemingen een marktaandeel heeft van ten minste 20%;
+- *te onderzoeken markt:* een door de concentratie te beïnvloeden markt als bedoeld in dit artikel, onder 1°, waarop de desbetreffende ondernemingen te samen een marktaandeel hebben van ten minste 15%, of een door de concentratie te beïnvloeden markt als bedoeld in dit artikel, onder 2°, waarop één of meer van de desbetreffende bij de concentratie betrokken ondernemingen een marktaandeel heeft van ten minste 20%;
 
-- **wet:** [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691).
+- *wet:*
+ [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691).
 
 #### Paragraaf 2. Gegevens bij een melding
 
@@ -88,9 +63,9 @@ In deze regeling wordt verstaan onder:
 
 - j. de volgens [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=30) te bepalen totale omzet over het voorafgaande kalenderjaar, alsmede de omzet in Nederland in dat jaar, uitgedrukt in euro’s, in voorkomend geval omgerekend vanuit een andere geldeenheid naar de gemiddelde koers in dat jaar van die andere geldeenheid, zoals gepubliceerd door De Nederlandsche Bank N.V. in de Officiële prijscourant Amsterdam Exchanges.
 
-2. Indien een bij de concentratie betrokken onderneming een bank of een financiële instelling is in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), wordt in plaats van de in het eerste lid, onderdeel **j**, bedoelde omzet de in [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=31) bedoelde som van de baten verstrekt.
+2. Indien een bij de concentratie betrokken onderneming een bank of een financiële instelling is in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), wordt in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzet de in [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=31) bedoelde som van de baten verstrekt.
 
-3. Indien een bij een concentratie betrokken onderneming een verzekeraar is in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), een ondernemingspensioenfonds of bedrijfstakpensioenfonds in de zin van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809), een beroepspensioenfonds in de zin van de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) of een premiepensioeninstelling in de zin van de Wet op het financieel toezicht, worden in plaats van de in het eerste lid, onderdeel **j**, bedoelde omzet de waarden aangegeven van de bruto geboekte premies in het voorafgaande boekjaar.
+3. Indien een bij een concentratie betrokken onderneming een verzekeraar is in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), een ondernemingspensioenfonds of bedrijfstakpensioenfonds in de zin van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809), een beroepspensioenfonds in de zin van de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) of een premiepensioeninstelling in de zin van de Wet op het financieel toezicht, worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzet de waarden aangegeven van de bruto geboekte premies in het voorafgaande boekjaar.
 
 4. Ten aanzien van elke bij de concentratie betrokken onderneming die deel uit maakt van een groep, worden voorts de volgende gegevens verstrekt:
 
@@ -198,7 +173,7 @@ Bij een aanvraag om vergunning worden ten aanzien van elke te onderzoeken markt 
 
 - f. een raming van de totale waarde van de invoer;
 
-- g. het deel van de in onderdeel **f** bedoelde invoer dat afkomstig is van elke bij de concentratie betrokken onderneming;
+- g. het deel van de in onderdeel *f* bedoelde invoer dat afkomstig is van elke bij de concentratie betrokken onderneming;
 
 - h. in voorkomend geval, de handelsbelemmerende overheidsmaatregelen ten aanzien van de invoer;
 
@@ -248,19 +223,19 @@ Bij een aanvraag om vergunning worden ten aanzien van elke te onderzoeken markt 
 
 ##### Artikel 12
 
-Wijzigt de Regeling gegevensuitwisseling ACM en ministers.
+*Wijzigt de Regeling gegevensuitwisseling ACM en ministers.*
 
 ##### Artikel 13
 
-Wijzigt de Regeling meettarieven.
+*Wijzigt de Regeling meettarieven.*
 
 ##### Artikel 14
 
-Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
+*Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.*
 
 ##### Artikel 15
 
-Wijzigt de Regeling vertrouwenslijst.
+*Wijzigt de Regeling vertrouwenslijst.*
 
 #### Paragraaf 5. Slotbepalingen
 
@@ -271,5 +246,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2014.
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking Mededingingswet.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

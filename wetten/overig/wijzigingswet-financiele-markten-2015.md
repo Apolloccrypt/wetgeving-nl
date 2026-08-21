@@ -1,123 +1,94 @@
 ---
 title: "Wet van 19 november 2014 tot wijziging van de Wet op het financieel toezicht en enige andere wetten op het terrein van de financiële markten (Wijzigingswet financiële markten 2015)"
+citeertitel: "Wijzigingswet financiële markten 2015"
 identifier: "BWBR0035877"
-country: "nl"
-rank: "wet"
-publication_date: "2019-07-21"
-last_updated: "2019-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035877"
+categorie: "Financieel recht"
 soort: "wet"
-stam_id: "12870433"
-version_id: "21870422"
-internal_id: "C31491931"
-label_id: "12840084"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035877/2019-07-21/0"
-intitule_bron: "Stb.2014-472"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-19"
-intitule_published: "2014-12-05"
-intitule_in_force: "2014-12-19"
-intitule_status: "goed"
-original_publication: "Stb.2014-472"
-original_signed_date: "2014-11-19"
-original_published_date: "2014-12-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "33918"
-original_url_id: "stb-2014-472"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035877&z=2019-07-21&g=2019-07-21"
-jci_1_0: "1.0:c:BWBR0035877&g=2019-07-21"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet financiële markten 2015"
-signed_date: "2014-11-19"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2019-07-21
+status: geldig
+toestand: 2019-07-21
+bron: "https://wetten.overheid.nl/BWBR0035877"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 19 november 2014 tot wijziging van de Wet op het financieel toezicht en enige andere wetten op het terrein van de financiële markten (Wijzigingswet financiële markten 2015)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het toepassingsbereik van de geschiktheids- en betrouwbaarheidtoetsing voor personen werkzaam op de financiële markten te verruimen, de kring van personen die een eed of belofte dienen af te leggen uit te breiden, de Nederlandsche Bank de bevoegdheid te geven bij overheidsinstellingen en private partijen gegevens op te vragen voor macroprudentiële doeleinden, alsmede enige andere wijzigingen en verbeteringen in de wetgeving op het terrein van de financiële markten aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ##### Artikel II
 
-Wijzigt de Bankwet 1998.
+*Wijzigt de Bankwet 1998.*
 
 ##### Artikel III
 
-Wijzigt de Wet toezicht accountantsorganisaties.
+*Wijzigt de Wet toezicht accountantsorganisaties.*
 
 ##### Artikel IV
 
-Wijzigt de Wet tuchtrechtspraak accountants.
+*Wijzigt de Wet tuchtrechtspraak accountants.*
 
 ##### Artikel V
 
-Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
+*Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.*
 
 ##### Artikel VI
 
-Wijzigt de Muntwet 2002.
+*Wijzigt de Muntwet 2002.*
 
 ##### Artikel VII
 
-Wijzigt de Kaderwet financiële verstrekkingen Financiën.
+*Wijzigt de Kaderwet financiële verstrekkingen Financiën.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet financiële markten BES.
+*Wijzigt de Wet financiële markten BES.*
 
 ##### Artikel VIIIa
 
-Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme BES.
+*Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme BES.*
 
 ##### Artikel IX
 
-Wijzigt de Wet toezicht trustkantoren.
+*Wijzigt de Wet toezicht trustkantoren.*
 
 ##### Artikel X
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel XI
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel XII
 
-Wijzigt de Implementatiewet richtlijn solvabiliteit II.
+*Wijzigt de Implementatiewet richtlijn solvabiliteit II.*
 
 ##### Artikel XIII
 
-Wijzigt de Sanctiewet 1977.
+*Wijzigt de Sanctiewet 1977.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel XV
 
-Wijzigt de Wet handhaving consumentenbescherming.
+*Wijzigt de Wet handhaving consumentenbescherming.*
 
 ##### Artikel XVI
 
-Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU).
+*Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU).*
 
 ##### Artikel XVIa
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel XVII
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2018/408.
+*Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2018/408.*
 
 [Artikel 1:23a van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:23a) is niet van toepassing op burgerlijke zaken die aanhangig zijn op de datum van inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035877&artikel=I&z=2019-07-21&g=2019-07-21) van deze wet.
 
@@ -152,5 +123,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel XXII
 
 Deze wet wordt aangehaald als: Wijzigingswet financiële markten 2015.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

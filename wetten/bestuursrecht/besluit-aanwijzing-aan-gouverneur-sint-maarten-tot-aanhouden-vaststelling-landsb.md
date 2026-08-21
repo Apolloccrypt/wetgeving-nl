@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 17 oktober 2014, houdende aanwijzing aan de Gouverneur van Sint Maarten tot het aanhouden van de vaststelling van de landsbesluiten tot benoeming van ministers en de Minister-President totdat onderzoek is gedaan naar de benoembaarheid van de voorgedragen kandidaat-ministers, kandidaat-Minister-President en kandidaat-Gevolmachtigde Minister"
+citeertitel: "Besluit aanwijzing aan Gouverneur Sint Maarten tot aanhouden vaststelling landsbesluiten tot benoeming ministers en Minister-President totdat onderzoek is gedaan naar benoembaarheid voorgedragen kandidaat-ministers, kandidaat-Minister-President en kandidaat-Gevolmachtigde Minister"
 identifier: "BWBR0035657"
-country: "nl"
-rank: "kb"
-publication_date: "2014-10-22"
-last_updated: "2014-10-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035657"
+categorie: "Overig"
 soort: "KB"
-stam_id: "12818533"
-version_id: "21776552"
-internal_id: "C31256441"
-label_id: "12788124"
-dtd_version: "2.0"
-original_entry_into_force: "2014-10-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035657/2014-10-22/0"
-intitule_bron: "Stcrt.2014-30236"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-10-17"
-intitule_published: "2014-10-21"
-intitule_in_force: "2014-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-30236"
-original_signed_date: "2014-10-17"
-original_published_date: "2014-10-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-30236"
-entry_into_force_date: "2014-10-22"
-jci_1_3: "jci1.3:c:BWBR0035657&z=2014-10-22&g=2014-10-22"
-jci_1_0: "1.0:c:BWBR0035657&g=2014-10-22"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing aan Gouverneur Sint Maarten tot aanhouden vaststelling landsbesluiten tot benoeming ministers en Minister-President totdat onderzoek is gedaan naar benoembaarheid voorgedragen kandidaat-ministers, kandidaat-Minister-President en kandidaat-Gevolmachtigde Minister"
-signed_date: "2014-10-17"
-entry_into_force: "2014-10-22"
+publicatiedatum: 2014-10-22
+laatste_update: 2014-10-22
+status: geldig
+toestand: 2014-10-22
+bron: "https://wetten.overheid.nl/BWBR0035657"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 17 oktober 2014, houdende aanwijzing aan de Gouverneur van Sint Maarten tot het aanhouden van de vaststelling van de landsbesluiten tot benoeming van ministers en de Minister-President totdat onderzoek is gedaan naar de benoembaarheid van de voorgedragen kandidaat-ministers, kandidaat-Minister-President en kandidaat-Gevolmachtigde Minister
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 oktober 2014, nr 2014-0000552050,
-
-Overwegende, dat het wenselijk is de Gouverneur van Sint Maarten een aanwijzing te geven tot het aanhouden van de vaststelling van de landsbesluiten tot benoeming van ministers en de Minister-President totdat onderzoek is gedaan naar de benoembaarheid van de voorgedragen kandidaat-ministers, kandidaat-Minister-President en kandidaat-Gevolmachtigde Minister;
-
-Gelet op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&artikel=15) en [21 van het Reglement voor de Gouverneur van Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&artikel=21);
-
-[Artikel 10 van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=10) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -71,5 +39,3 @@ De Gouverneur informeert de raad van ministers van het Koninkrijk over de uitvoe
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Het geldt tot de eerstvolgende verkiezingen van de Staten.
-
-Onze minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in de Staatscourant en het Afkondigingsblad van Sint Maarten zal worden geplaatst.

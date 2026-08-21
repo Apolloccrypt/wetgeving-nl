@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 oktober 2014, 2014-0000162941, tot instelling van het Comité van toezicht EFMB"
+citeertitel: "Regeling tot instelling van het Comité van toezicht EFMB"
 identifier: "BWBR0035716"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-06-21"
-last_updated: "2018-06-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035716"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12828183"
-version_id: "21792482"
-internal_id: "C31277581"
-label_id: "12797814"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035716/2018-06-21/0"
-intitule_bron: "Stcrt.2014-31551"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-10-31"
-intitule_published: "2014-11-04"
-intitule_in_force: "2014-11-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-31551"
-original_signed_date: "2014-10-31"
-original_published_date: "2014-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-31551"
-entry_into_force_date: "2014-11-05"
-jci_1_3: "jci1.3:c:BWBR0035716&z=2018-06-21&g=2018-06-21"
-jci_1_0: "1.0:c:BWBR0035716&g=2018-06-21"
-citeertitel_status: "officieel"
-short_title: "Regeling tot instelling van het Comité van toezicht EFMB"
-signed_date: "2014-10-31"
-entry_into_force: "2014-11-05"
+publicatiedatum: 2014-11-05
+laatste_update: 2018-06-21
+status: geldig
+toestand: 2018-06-21
+bron: "https://wetten.overheid.nl/BWBR0035716"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 oktober 2014, 2014-0000162941, tot instelling van het Comité van toezicht EFMB
-
-Gelet op artikel 11 van de Verordening (EU) nr. 223/2014 van het Europees Parlement en de Raad van 11 maart 2014 betreffende het Fonds voor Europese hulp aan de meest behoeftigen en [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **Comité:** het Comité van toezicht EFMB, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035716&artikel=2&z=2018-06-21&g=2018-06-21);
+- – *Comité:* het Comité van toezicht EFMB, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035716&artikel=2&z=2018-06-21&g=2018-06-21);
 
-- –. **EFMB:** het Europees fonds voor meest behoeftigen;
+- – *EFMB:* het Europees fonds voor meest behoeftigen;
 
-- –. **minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- – *minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **Operationeel Programma:** het Operationeel Programma dat door de Europese Commissie wordt goedgekeurd ter uitvoering van de Verordening;
+- – *Operationeel Programma:* het Operationeel Programma dat door de Europese Commissie wordt goedgekeurd ter uitvoering van de Verordening;
 
-- –. **beschikking:** de Beschikking van de Europese Commissie, houdende goedkeuring van het voor Nederland geldende Operationeel Programma EFMB 2014-2020;
+- – *beschikking:* de Beschikking van de Europese Commissie, houdende goedkeuring van het voor Nederland geldende Operationeel Programma EFMB 2014-2020;
 
-- –. **verordening:** Verordening (EU) nr. 223/2014 van het Europees Parlement en de Raad van 11 maart 2014 betreffende het Fonds voor Europese hulp aan de meest behoeftigen.
+- – *verordening:* Verordening (EU) nr. 223/2014 van het Europees Parlement en de Raad van 11 maart 2014 betreffende het Fonds voor Europese hulp aan de meest behoeftigen.
 
 ##### Artikel 2. Instelling Comité van toezicht EFMB
 
@@ -66,17 +40,17 @@ Er is een Comité van toezicht EFMB.
 
 2. De leden worden door de minister benoemd op voordracht van:
 
-- –. het ministerie van Sociale Zaken en Werkgelegenheid (tevens voorzitter);
+- – het ministerie van Sociale Zaken en Werkgelegenheid (tevens voorzitter);
 
-- –. het Movisie;
+- – het Movisie;
 
-- –. de Algemene Nederlandse Bond voor Ouderen;
+- – de Algemene Nederlandse Bond voor Ouderen;
 
-- –. de Vereniging van Nederlandse Gemeenten;
+- – de Vereniging van Nederlandse Gemeenten;
 
-- –. de gemeente Rotterdam ;
+- – de gemeente Rotterdam ;
 
-- –. het Ministerie van Volksgezondheid, Welzijn en Sport.
+- – het Ministerie van Volksgezondheid, Welzijn en Sport.
 
 3. De leden van het Comité kunnen zich ter vergadering laten bijstaan door een of meer adviseurs.
 
@@ -131,5 +105,3 @@ Deze regeling wordt aangehaald als: Regeling tot instelling van het Comité van 
 ##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

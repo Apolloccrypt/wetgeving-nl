@@ -1,48 +1,25 @@
 ---
 title: "Instellingsbesluit Welzijnscommissie Vogelgriepuitbraak 2014"
 identifier: "BWBR0035793"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-11-26"
-last_updated: "2014-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035793"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12851903"
-version_id: "21833522"
-internal_id: "C31332421"
-label_id: "12821464"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035793/2014-11-26/0"
-intitule_bron: "Stcrt.2014-34038"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-11-25"
-intitule_in_force: "2014-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-34038"
-original_published_date: "2014-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-34038"
-entry_into_force_date: "2014-11-26"
-jci_1_3: "jci1.3:c:BWBR0035793&z=2014-11-26&g=2014-11-26"
-jci_1_0: "1.0:c:BWBR0035793&g=2014-11-26"
-citeertitel_status: "officieel"
-entry_into_force: "2014-11-26"
+publicatiedatum: 2014-11-26
+laatste_update: 2014-11-26
+status: geldig
+toestand: 2014-11-26
+bron: "https://wetten.overheid.nl/BWBR0035793"
+opgehaald: 2026-08-21
 ---
+
 # Instellingsbesluit Welzijnscommissie Vogelgriepuitbraak 2014
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de staatssecretaris:** de Staatssecretaris van Economische Zaken;
+- a. *de staatssecretaris:* de Staatssecretaris van Economische Zaken;
 
-- b. **de commissie:** de Welzijnscommissie Vogelgriepuitbraak 2014.
+- b. *de commissie:* de Welzijnscommissie Vogelgriepuitbraak 2014.
 
 ##### Artikel 2
 
@@ -95,5 +72,3 @@ Te rekenen vanaf 23 november 2014 worden voor de periode tot de vervaldatum van 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Welzijnscommissie Vogelgriepuitbraak 2014.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

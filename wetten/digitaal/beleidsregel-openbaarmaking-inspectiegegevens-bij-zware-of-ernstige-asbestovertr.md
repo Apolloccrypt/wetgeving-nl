@@ -1,50 +1,28 @@
 ---
 title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 10 juli 2014, nr. 2014-0000098169, tot vaststelling van de regels omtrent de openbaarmaking van inspectiegegevens door de Inspectie SZW bij zware of ernstige asbestovertredingen (Beleidsregel openbaarmaking inspectiegegevens bij zware of ernstige asbestovertredingen)"
+citeertitel: "Beleidsregel openbaarmaking inspectiegegevens bij zware of ernstige asbestovertredingen"
 identifier: "BWBR0035357"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-05-01"
-last_updated: "2022-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035357"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "12733533"
-version_id: "28584372"
-internal_id: "C40334911"
-label_id: "12703364"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035357/2022-05-01/0"
-intitule_bron: "Stcrt.2014-20152"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-10"
-intitule_published: "2014-07-17"
-intitule_in_force: "2014-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-11831"
-original_signed_date: "2022-04-28"
-original_published_date: "2022-04-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-11831"
-entry_into_force_date: "2022-04-28"
-jci_1_3: "jci1.3:c:BWBR0035357&z=2022-05-01&g=2022-05-01"
-jci_1_0: "1.0:c:BWBR0035357&g=2022-05-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel openbaarmaking inspectiegegevens bij zware of ernstige asbestovertredingen"
-signed_date: "2022-04-28"
-entry_into_force: "2022-04-28"
+publicatiedatum: 2022-04-28
+laatste_update: 2022-05-01
+status: geldig
+toestand: 2022-05-01
+bron: "https://wetten.overheid.nl/BWBR0035357"
+opgehaald: 2026-08-21
 ---
+
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 10 juli 2014, nr. 2014-0000098169, tot vaststelling van de regels omtrent de openbaarmaking van inspectiegegevens door de Inspectie SZW bij zware of ernstige asbestovertredingen (Beleidsregel openbaarmaking inspectiegegevens bij zware of ernstige asbestovertredingen)
-
-Gelet op [artikel 8 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8);
-
-Besluit:
 
 ##### Artikel 1
 
 Deze beleidsregel is van toepassing op de volgende overtredingen:
 
 de [artikelen 4.45, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.45a), [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.46), [4.47a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.47a), [4.48a, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.48a), [4.50, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.50), [4.51a, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), [4.54](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54), [4.54a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54a) en [4.54d, eerste, vijfde en zevende lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d).
+
+##### Artikel 1a
+
+Deze beleidsregel is gebaseerd op [artikel 3.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.1).
 
 ##### Artikel 2
 
@@ -107,11 +85,3 @@ Deze beleidsregel treedt in werking vier weken na de datum van uitgifte van de S
 ##### Artikel 10
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel openbaarmaking inspectiegegevens bij zware of ernstige asbestovertredingen.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze beleidsregel is gebaseerd op [artikel 3.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.1).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

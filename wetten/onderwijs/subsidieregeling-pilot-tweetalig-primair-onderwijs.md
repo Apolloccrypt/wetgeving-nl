@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 april 2014, nr. PO/563679, houdende regels voor subsidieverstrekking in het kader van de pilot tweetalig primair onderwijs (Subsidieregeling pilot tweetalig primair onderwijs)"
+citeertitel: "Subsidieregeling pilot tweetalig primair onderwijs"
 identifier: "BWBR0035057"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-01"
-last_updated: "2016-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035057"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "12657403"
-version_id: "21378532"
-internal_id: "C30694431"
-label_id: "12627654"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035057/2016-04-01/0"
-intitule_bron: "Stcrt.2014-11509"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-04-08"
-intitule_published: "2014-04-24"
-intitule_in_force: "2014-04-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-11509"
-original_signed_date: "2014-04-08"
-original_published_date: "2014-04-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-11509"
-entry_into_force_date: "2014-04-25"
-jci_1_3: "jci1.3:c:BWBR0035057&z=2016-04-01&g=2016-04-01"
-jci_1_0: "1.0:c:BWBR0035057&g=2016-04-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling pilot tweetalig primair onderwijs"
-signed_date: "2014-04-08"
-entry_into_force: "2014-04-25"
+publicatiedatum: 2014-04-25
+laatste_update: 2016-04-01
+status: geldig
+toestand: 2016-04-01
+bron: "https://wetten.overheid.nl/BWBR0035057"
+opgehaald: 2026-08-21
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 april 2014, nr. PO/563679, houdende regels voor subsidieverstrekking in het kader van de pilot tweetalig primair onderwijs (Subsidieregeling pilot tweetalig primair onderwijs)
-
-Gelet op de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116) en [123 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123) en [artikel 2 eerste lid van de Regeling OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a). **minister:** minister van Onderwijs, Cultuur en Wetenschap;
+- a) *minister:* minister van Onderwijs, Cultuur en Wetenschap;
 
-- b). **bevoegd gezag:** bevoegd gezag van een school die toestemming heeft gekregen om deel te nemen aan de pilot tweetalig primair onderwijs. Het bevoegd gezag is tevens de subsidieontvanger.
+- b) *bevoegd gezag:* bevoegd gezag van een school die toestemming heeft gekregen om deel te nemen aan de pilot tweetalig primair onderwijs. Het bevoegd gezag is tevens de subsidieontvanger.
 
-- c). **school:** basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) die toestemming heeft gekregen om deel te nemen aan de pilot tweetalig primair onderwijs;
+- c) *school:* basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) die toestemming heeft gekregen om deel te nemen aan de pilot tweetalig primair onderwijs;
 
-- d). **pilot tweetalig primair onderwijs:** experiment waarbij 30 tot 50 % van de onderwijstijd in het Engels of Frans of Duits wordt gegeven, met een sterke internationale oriëntatie.
+- d) *pilot tweetalig primair onderwijs:* experiment waarbij 30 tot 50 % van de onderwijstijd in het Engels of Frans of Duits wordt gegeven, met een sterke internationale oriëntatie.
 
 ##### Artikel 2. Te subsidiëren activiteiten
 
@@ -62,9 +36,9 @@ In deze regeling wordt verstaan onder:
 
 1. Een bevoegd gezag komt alleen in aanmerking voor subsidie indien zijn school in het bezit is van een besluit van de minister waarin:
 
-- a). de school op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=3) en [4 van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4) toestemming van de minister heeft om af te wijken van de voorschriften in [artikel 9, tiende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9);
+- a) de school op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=3) en [4 van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4) toestemming van de minister heeft om af te wijken van de voorschriften in [artikel 9, tiende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9);
 
-- b). de school tevens toestemming van de minister heeft om op basis van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=3) en [4 van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4) te starten met de invoering van tweetalig primair onderwijs voor het tijdvak waarvoor de subsidie wordt verstrekt.
+- b) de school tevens toestemming van de minister heeft om op basis van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=3) en [4 van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4) te starten met de invoering van tweetalig primair onderwijs voor het tijdvak waarvoor de subsidie wordt verstrekt.
 
 2. Subsidie op grond van deze regeling wordt slechts verstrekt aan een bevoegd gezag ten behoeve van de invoering van tweetalig primair onderwijs op zijn school.
 
@@ -106,17 +80,21 @@ Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verstrek
 
 ##### Artikel 9. Verplichtingen
 
+Meldingsplicht
+
 - 1. Het bevoegd gezag heeft een algemene meldingsplicht op grond van de [Regeling OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0028820). Het bevoegd gezag doet onverwijld een melding bij de minister van feiten en omstandigheden die van belang kunnen zijn voor de subsidieverstrekking. Bij de melding worden de stukken overgelegd die betrekking hebben op de gemelde feiten en omstandigheden en wordt de oorzaak van de gemelde feiten en omstandigheden toegelicht.
 
 - 2. Het bevoegd gezag doet in ieder geval een melding indien het voor het bevoegd gezag aannemelijk is of had moeten zijn dat:
 
-- a). de activiteiten waarvoor de subsidie is verstrekt niet, niet tijdig of niet geheel zijn verricht of zullen worden verricht of;
+   - a) de activiteiten waarvoor de subsidie is verstrekt niet, niet tijdig of niet geheel zijn verricht of zullen worden verricht of;
 
-- b). niet, niet tijdig of niet geheel aan de subsidieverplichtingen wordt voldaan of zal worden voldaan.
+   - b) niet, niet tijdig of niet geheel aan de subsidieverplichtingen wordt voldaan of zal worden voldaan.
 
 - 3. Het bevoegd gezag heeft een bijzondere meldingsplicht op grond van de [Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0032155). Het bevoegd gezag doet onverwijld melding bij de minister zodra de datum waarop de activiteiten waarvoor subsidie is verstrekt uiterlijk moeten zijn verricht, is verstreken zonder dat de activiteiten geheel zijn verricht. Het niet voldoen aan deze bijzondere meldingsplicht is een overtreding ter zake waarvan door de minister een bestuurlijke boete kan worden opgelegd.
 
 - 4. Meldingen geschieden schriftelijk onder vermelding van ‘Melding’, aan: DUO, Postbus 606, 2700 ML te Zoetermeer en aan de directeur Primair Onderwijs, Ministerie van Onderwijs, Cultuur en Wetenschap, Postbus 16375, 2500 BJ, Den Haag.
+
+Voortgangsrapportage
 
 - 5. Het bevoegd gezag toont aan de hand van een voortgangsrapportage jaarlijks aan dat aan de voorwaarden voor deelname aan de pilot tweetalig primair onderwijs wordt voldaan.
 
@@ -142,13 +120,13 @@ De betaling van het subsidiebedrag vindt jaarlijks plaats uiterlijk op 1 septemb
 
 Deze subsidie wordt verstrekt op grond van de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116) en [123 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123). Deze wet en regeling, alsmede de navolgende regelgeving is van toepassing op de subsidieverstrekking:
 
-- –. [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458);
+- – [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458);
 
-- –. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- – [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- –. [Wet bestuurlijke boete bijzondere meldingsplichten door ministers verstrekte subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0032155);
+- – [Wet bestuurlijke boete bijzondere meldingsplichten door ministers verstrekte subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0032155);
 
-- –. (Europese) regels omtrent aanbesteding.
+- – (Europese) regels omtrent aanbesteding.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -161,5 +139,3 @@ Deze subsidie wordt verstrekt op grond van de [artikelen 116](https://wetten.ove
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling pilot tweetalig primair onderwijs.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,17 @@
 ---
 title: "Instellingsbesluit Kwaliteitsinstituut beëdigde tolken en vertalers"
 identifier: "BWBR0034877"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034877"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12592643"
-version_id: "21256182"
-internal_id: "C30524221"
-label_id: "12563134"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034877/2014-01-01/0"
-intitule_bron: "Stcrt.2014-5846"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-02-12"
-intitule_published: "2014-03-03"
-intitule_in_force: "2014-03-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-5846"
-original_signed_date: "2014-02-12"
-original_published_date: "2014-03-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-5846"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBR0034877&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0034877&g=2014-01-01"
-citeertitel_status: "officieel"
-signed_date: "2014-02-12"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0034877"
+opgehaald: 2026-08-21
 ---
+
 # Instellingsbesluit Kwaliteitsinstituut beëdigde tolken en vertalers
-
-De Raad voor Rechtsbijstand,
-
-Besluit:
-
-Waar in dit reglement sprake is van de Raad, wordt bedoeld de Raad voor Rechtsbijstand. Waar sprake is van het Kwaliteitsinstituut, wordt bedoeld het Kwaliteitsinstituut beëdigde tolken en vertalers.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -51,15 +21,15 @@ Er is een Kwaliteitsinstituut beëdigde tolken en vertalers. Het Kwaliteitsinsti
 
 In het Kwaliteitsinstituut hebben in elk geval zitting:
 
-- –. vertegenwoordigers van de beroepsgroepen tolken en vertalers;
+- – vertegenwoordigers van de beroepsgroepen tolken en vertalers;
 
-- –. een of meer vertegenwoordigers van het tolk- en vertaalonderwijs;
+- – een of meer vertegenwoordigers van het tolk- en vertaalonderwijs;
 
-- –. een of meer vertegenwoordigers van de wetenschap;
+- – een of meer vertegenwoordigers van de wetenschap;
 
-- –. deskundigen uit de sfeer van het straf- en vreemdelingenrecht;
+- – deskundigen uit de sfeer van het straf- en vreemdelingenrecht;
 
-- –. vertegenwoordigers van een of meer andere domeinen waar tolken en vertalers actief zijn.
+- – vertegenwoordigers van een of meer andere domeinen waar tolken en vertalers actief zijn.
 
 ##### Artikel 3
 

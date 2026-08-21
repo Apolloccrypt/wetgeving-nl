@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 26 september 2014, houdende de toekenning van een standaard aan de Koninklijke Marechaussee"
+citeertitel: "Besluit toekenning standaard aan de Koninklijke Marechaussee"
 identifier: "BWBR0035630"
-country: "nl"
-rank: "kb"
-publication_date: "2014-10-16"
-last_updated: "2014-10-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035630"
+categorie: "Overig"
 soort: "KB"
-stam_id: "12813773"
-version_id: "21762752"
-internal_id: "C31238011"
-label_id: "12783464"
-dtd_version: "2.0"
-original_entry_into_force: "2014-10-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035630/2014-10-16/0"
-intitule_bron: "Stb.2014-350"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-26"
-intitule_published: "2014-10-14"
-intitule_in_force: "2014-10-14"
-intitule_status: "goed"
-original_publication: "Stb.2014-350"
-original_signed_date: "2014-09-26"
-original_published_date: "2014-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-350"
-entry_into_force_date: "2014-10-16"
-jci_1_3: "jci1.3:c:BWBR0035630&z=2014-10-16&g=2014-10-16"
-jci_1_0: "1.0:c:BWBR0035630&g=2014-10-16"
-citeertitel_status: "redactioneel"
-short_title: "Besluit toekenning standaard aan de Koninklijke Marechaussee"
-signed_date: "2014-09-26"
-entry_into_force: "2014-10-16"
+publicatiedatum: 2014-10-16
+laatste_update: 2014-10-16
+status: geldig
+toestand: 2014-10-16
+bron: "https://wetten.overheid.nl/BWBR0035630"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van 26 september 2014, houdende de toekenning van een standaard aan de Koninklijke Marechaussee
-
-Op de voordracht van Onze Minister van Defensie van 22 september 2014, nr. BS2014027848, Directie Juridische Zaken, cluster wet- en regelgeving;
-
-overwegende, dat de Koninklijke Marechaussee op 26 oktober 1814 is opgericht als wapen bij de landmacht, dat de Koninklijke Marechaussee sedert 25 maart 1998 een zelfstandig krijgsmachtdeel vormt, dat de huidige standaard met betrekking tot de op het doek vermelde naam WAPEN DER KONINKLIJKE MARECHAUSSEE niet meer juist is;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -95,5 +67,3 @@ De tot 16 oktober 2014 door de Koninklijke Marechaussee gevoerde standaard wordt
 ##### Artikel 7
 
 Dit besluit treedt in werking met ingang van 16 oktober 2014.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst, en waarvan afschrift zal worden gezonden aan Onze Adjudant-Generaal, tevens Chef van Ons militair Huis.

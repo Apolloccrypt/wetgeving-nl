@@ -1,83 +1,54 @@
 ---
 title: "Wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen"
+citeertitel: "Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.)"
 identifier: "BWBR0035457"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035457"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "12758523"
-version_id: "21611012"
-internal_id: "C31371371"
-label_id: "12728284"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035457/2015-01-01/0"
-intitule_bron: "Stb.2014-306"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-09"
-intitule_published: "2014-08-12"
-intitule_in_force: "2014-12-04"
-intitule_status: "goed"
-original_publication: "Stb.2014-306"
-original_signed_date: "2014-07-09"
-original_published_date: "2014-08-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "33597"
-original_url_id: "stb-2014-306"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035457&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0035457&g=2015-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.)"
-signed_date: "2014-07-09"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0035457"
+opgehaald: 2026-08-21
 ---
+
 # Wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de[Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) aan te passen in verband met de dualisering van het gemeente- en provinciebestuur, de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, almede diverse andere onderwerpen te regelen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet gemeenschappelijke regelingen.
+*Wijzigt de Wet gemeenschappelijke regelingen.*
 
 ##### Artikel II
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel III
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel IIIa
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel IV
 
-Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
+*Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.*
 
 ##### Artikel V
 
-Wijzigt de Wet Nationale ombudsman.
+*Wijzigt de Wet Nationale ombudsman.*
 
 ##### Artikel VI
 
-Wijzigt de Wet Naleving Europese regelgeving publieke entiteiten.
+*Wijzigt de Wet Naleving Europese regelgeving publieke entiteiten.*
 
 ##### Artikel VII
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel VIIa
 
-Wijzigt de Wet waardering onroerende zaken.
+*Wijzigt de Wet waardering onroerende zaken.*
 
 ##### Artikel VIII
 
@@ -98,5 +69,3 @@ Op een dagelijks bestuur dat op het tijdstip van inwerkingtreding van [artikel I
 ##### Artikel XII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 10 september 2014, kenmerk DP&O/14/545670, houdende instelling van de Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie (Instellingsbesluit Commissie VWNW VenJ)"
+citeertitel: "Instellingsbesluit Commissie VWNW VenJ"
 identifier: "BWBR0035544"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-09-18"
-last_updated: "2014-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035544"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12797823"
-version_id: "21728982"
-internal_id: "C31173891"
-label_id: "12767564"
-dtd_version: "2.0"
-original_entry_into_force: "2014-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035544/2014-09-18/0"
-intitule_bron: "Stcrt.2014-25985"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-09-10"
-intitule_published: "2014-09-17"
-intitule_in_force: "2014-09-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-25985"
-original_signed_date: "2014-09-10"
-original_published_date: "2014-09-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-25985"
-entry_into_force_date: "2014-09-18"
-jci_1_3: "jci1.3:c:BWBR0035544&z=2014-09-18&g=2014-09-18"
-jci_1_0: "1.0:c:BWBR0035544&g=2014-09-18"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie VWNW VenJ"
-signed_date: "2014-09-10"
-entry_into_force: "2014-09-18"
+publicatiedatum: 2014-09-18
+laatste_update: 2014-09-18
+status: geldig
+toestand: 2014-09-18
+bron: "https://wetten.overheid.nl/BWBR0035544"
+opgehaald: 2026-08-21
 ---
+
 # Besluit van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 10 september 2014, kenmerk DP&O/14/545670, houdende instelling van de Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie (Instellingsbesluit Commissie VWNW VenJ)
-
-Gehoord hebbende de centrales van overheidspersoneel,
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Commissie:** Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035544&artikel=2&z=2014-09-18&g=2014-09-18);
+- a. *Commissie:* Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035544&artikel=2&z=2014-09-18&g=2014-09-18);
 
-- b. **VWNW:** Van Werk Naar Werk;
+- b. *VWNW:* Van Werk Naar Werk;
 
-- c. **het VWNW-beleid;** de afspraken tussen de Minister voor Wonen en Rijksdienst en de centrales van overheidspersoneel als bedoeld in de Overeenkomst Sociaal Beleid Rijk van 11 april 2013 en [hoofdstuk VIIbis van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VIIbis);
+- c. *het VWNW-beleid;* de afspraken tussen de Minister voor Wonen en Rijksdienst en de centrales van overheidspersoneel als bedoeld in de Overeenkomst Sociaal Beleid Rijk van 11 april 2013 en [hoofdstuk VIIbis van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VIIbis);
 
-- d. **Minister:** Minister van Veiligheid en Justitie.
+- d. *Minister:* Minister van Veiligheid en Justitie.
 
 ##### Artikel 2. Instelling
 
@@ -64,15 +38,15 @@ De Commissie heeft tot taak:
 
 - b. het monitoren van:
 
-- i. het aantal VWNW-kandidaten en hun periode van VWNW-begeleiding;
+   - i. het aantal VWNW-kandidaten en hun periode van VWNW-begeleiding;
 
-- ii. de plaatsing (waar, hoe snel) van VWNW-kandidaten in een nieuwe functie;
+   - ii. de plaatsing (waar, hoe snel) van VWNW-kandidaten in een nieuwe functie;
 
-- iii. de mate waarin VWNW-kandidaten kiezen voor verzilvering van hun algemene voorzieningen;
+   - iii. de mate waarin VWNW-kandidaten kiezen voor verzilvering van hun algemene voorzieningen;
 
-- iv. de inzet van specifieke voorzieningen;
+   - iv. de inzet van specifieke voorzieningen;
 
-- v. bij de commissie gemelde knelpunten.
+   - v. bij de commissie gemelde knelpunten.
 
 ##### Artikel 4. Samenstelling, benoeming en ontslag
 
@@ -153,5 +127,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie VWNW VenJ.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

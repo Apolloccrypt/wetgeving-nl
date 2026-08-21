@@ -1,49 +1,23 @@
 ---
 title: "Regeling geautomatiseerde bijhouding 2014"
 identifier: "BWBR0034837"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-02-19"
-last_updated: "2014-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034837"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12583363"
-version_id: "21238632"
-internal_id: "C30501311"
-label_id: "12553814"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034837/2014-02-19/0"
-intitule_bron: "Stcrt.2014-4927"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-02-12"
-intitule_published: "2014-02-18"
-intitule_in_force: "2014-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-4927"
-original_signed_date: "2014-02-12"
-original_published_date: "2014-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-4927"
-entry_into_force_date: "2014-02-19"
-jci_1_3: "jci1.3:c:BWBR0034837&z=2014-02-19&g=2014-02-19"
-jci_1_0: "1.0:c:BWBR0034837&g=2014-02-19"
-citeertitel_status: "officieel"
-signed_date: "2014-02-12"
-entry_into_force: "2014-02-19"
+publicatiedatum: 2014-02-19
+laatste_update: 2014-02-19
+status: geldig
+toestand: 2014-02-19
+bron: "https://wetten.overheid.nl/BWBR0034837"
+opgehaald: 2026-08-21
 ---
+
 # Regeling geautomatiseerde bijhouding 2014
-
-Gelet op [artikel 8, tweede lid, onder b van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- **Dienst:** de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- *Dienst:* de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- **Geautomatiseerde bijhouding:** de bijhouding van een rechtszekerheidsregistratie op geautomatiseerde wijze, als bedoeld in [artikel 4, eerste lid, onderdeel a, derde lid, onderdeel a, vijfde lid, onderdeel a, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016017&artikel=4) en [artikel 5, eerste lid, onderdeel a van de Regeling tarieven Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0016017&artikel=5).
+- *Geautomatiseerde bijhouding:* de bijhouding van een rechtszekerheidsregistratie op geautomatiseerde wijze, als bedoeld in [artikel 4, eerste lid, onderdeel a, derde lid, onderdeel a, vijfde lid, onderdeel a, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016017&artikel=4) en [artikel 5, eerste lid, onderdeel a van de Regeling tarieven Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0016017&artikel=5).
 
 ##### Artikel 2. Geautomatiseerde bijhouding
 
@@ -68,5 +42,3 @@ c. [Besluit tarief voorlopige grenzen](https://wetten.overheid.nl/jci1.3:c:BWBR0
 1. Deze regeling treedt in werking met ingang van de eerste dag na plaatsing in de Staatscourant en werkt terug tot 1 januari 2014.
 
 2. Deze regeling wordt aangehaald als: Regeling geautomatiseerde bijhouding 2014.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
