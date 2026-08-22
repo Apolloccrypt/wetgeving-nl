@@ -1,198 +1,168 @@
 ---
 title: "Wet van 10 december 2014, inhoudende herstel van wetstechnische gebreken alsmede andere wijzigingen van ondergeschikte aard in diverse wetten op of in verband met het terrein van infrastructuur en milieu (Reparatiewet infrastructuur en milieu 2014)"
+citeertitel: "Reparatiewet infrastructuur en milieu 2014"
 identifier: "BWBR0036117"
-country: "nl"
-rank: "wet"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036117"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "12939983"
-version_id: "22043592"
-internal_id: "C31692781"
-label_id: "12909454"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036117/2018-01-01/0"
-intitule_bron: "Stb.2014-581"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-10"
-intitule_published: "2014-12-31"
-intitule_in_force: "2014-12-31"
-intitule_status: "goed"
-original_publication: "Stb.2014-581"
-original_signed_date: "2014-12-10"
-original_published_date: "2014-12-31"
-original_effect: "nieuwe-regeling"
-original_dossier: "33976"
-original_url_id: "stb-2014-581"
-entry_into_force_date: "2015-01-01"
-entry_into_force_dossier: "33976"
-jci_1_3: "jci1.3:c:BWBR0036117&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0036117&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Reparatiewet infrastructuur en milieu 2014"
-signed_date: "2014-12-10"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0036117"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 10 december 2014, inhoudende herstel van wetstechnische gebreken alsmede andere wijzigingen van ondergeschikte aard in diverse wetten op of in verband met het terrein van infrastructuur en milieu (Reparatiewet infrastructuur en milieu 2014)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is in een aantal wetten op het terrein van infrastructuur en milieu technische verbeteringen en andere wijzigingen van ondergeschikte aard aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel II
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel III
 
-Wijzigt het Burgerlijk Wetboek Boek 8.
+*Wijzigt het Burgerlijk Wetboek Boek 8.*
 
 ##### Artikel IV
 
-Wijzigt de Drinkwaterwet.
+*Wijzigt de Drinkwaterwet.*
 
 ##### Artikel V
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel VI
 
-Wijzigt de Instellingswet Autoriteit Consument en Markt.
+*Wijzigt de Instellingswet Autoriteit Consument en Markt.*
 
 ##### Artikel VII
 
-Wijzigt de Kadasterwet.
+*Wijzigt de Kadasterwet.*
 
 ##### Artikel VIII
 
-Wijzigt de Loodsenwet.
+*Wijzigt de Loodsenwet.*
 
 ##### Artikel IX
 
-Wijzigt de Onteigeningswet.
+*Wijzigt de Onteigeningswet.*
 
 ##### Artikel X
 
-Wijzigt de Organisatiewet Kadaster.
+*Wijzigt de Organisatiewet Kadaster.*
 
 ##### Artikel XI
 
-Wijzigt de Scheepvaartverkeerswet.
+*Wijzigt de Scheepvaartverkeerswet.*
 
 ##### Artikel XII
 
-Wijzigt de Spoedwet wegverbreding.
+*Wijzigt de Spoedwet wegverbreding.*
 
 ##### Artikel XIIa
 
-Wijzigt de Spoorwegwet.
+*Wijzigt de Spoorwegwet.*
 
 ##### Artikel XIII
 
-Wijzigt de Tracéwet.
+*Wijzigt de Tracéwet.*
 
 ##### Artikel XIV
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel XV
 
-Wijzigt de Waterwet.
+*Wijzigt de Waterwet.*
 
 ##### Artikel XVI
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.
+*Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet aanvullende regels veiligheid wegtunnels.
+*Wijzigt de Wet aanvullende regels veiligheid wegtunnels.*
 
 ##### Artikel XVIIIa
 
-Wijzigt de Wet algemene bepalingen omgevingsrecht.
+*Wijzigt de Wet algemene bepalingen omgevingsrecht.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet beheer rijkswaterstaatswerken.
+*Wijzigt de Wet beheer rijkswaterstaatswerken.*
 
 ##### Artikel XX
 
-Wijzigt de Wet capaciteitsbeheersing binnenvaartvloot.
+*Wijzigt de Wet capaciteitsbeheersing binnenvaartvloot.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet geluidhinder.
+*Wijzigt de Wet geluidhinder.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
+*Wijzigt de Wet gewasbeschermingsmiddelen en biociden.*
 
 ##### Artikel XXIII
 
-Wijzigt de Wet lokaal spoor.
+*Wijzigt de Wet lokaal spoor.*
 
 ##### Artikel XXIV
 
-Wijzigt de Wet luchtvaart.
+*Wijzigt de Wet luchtvaart.*
 
 ##### Artikel XXIVa
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet overleg verkeer en waterstaat.
+*Wijzigt de Wet overleg verkeer en waterstaat.*
 
 ##### Artikel XXVa
 
-Wijzigt de Wet personenvervoer 2000.
+*Wijzigt de Wet personenvervoer 2000.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wet rijonderricht motorrijtuigen 1993.
+*Wijzigt de Wet rijonderricht motorrijtuigen 1993.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet ruimtelijke ordening.
+*Wijzigt de Wet ruimtelijke ordening.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet wegvervoer goederen.
+*Wijzigt de Wet wegvervoer goederen.*
 
 ##### Artikel XXVIIIa
 
-Wijzigt de Wijzigingswet Wegenverkeerswet 1994, enz. (invoering kentekenregistratiesysteem voor bromfietsen).
+*Wijzigt de Wijzigingswet Wegenverkeerswet 1994, enz. (invoering kentekenregistratiesysteem voor bromfietsen).*
 
 ##### Artikel XXIX
 
-Wijzigt de Wijzigingswet Wegenverkeerswet 1994, enz..
+*Wijzigt de Wijzigingswet Wegenverkeerswet 1994, enz..*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel XXX
 
-Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (uitbreiding reikwijdte recidiveregeling ernstige verkeersdelicten).
+*Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (uitbreiding reikwijdte recidiveregeling ernstige verkeersdelicten).*
 
 ##### Artikel XXXI
 
-Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (rijbewijsplicht T-rijbewijs) (Kst. 33781).
+*Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (rijbewijsplicht T-rijbewijs) (Kst. 33781).*
 
 ##### Artikel XXXII
 
-Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (rijbewijsplicht T-rijbewijs) (Kst. 33781).
+*Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (rijbewijsplicht T-rijbewijs) (Kst. 33781).*
 
 ##### Artikel XXXIII
 
@@ -213,5 +183,3 @@ Krachtens de wet gegeven bepalingen die verwijzen naar de [Wet overleg verkeer e
 ##### Artikel XXXV
 
 Deze wet wordt aangehaald als: Reparatiewet infrastructuur en milieu 2014.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

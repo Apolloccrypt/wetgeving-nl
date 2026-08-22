@@ -1,78 +1,52 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 april 2015, nr. IENM/BSK-2015/69519, houdende regels met betrekking tot subsidie ter stimulering van het indienen van projectvoorstellen die vallen onder Interreg EUROPE, North West Europe of North Sea Region (Projectstimuleringsregeling Interreg V)"
+citeertitel: "Projectstimuleringsregeling Interreg V"
 identifier: "BWBR0036545"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-24"
-last_updated: "2017-01-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036545"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13142663"
-version_id: "22399682"
-internal_id: "C32083531"
-label_id: "13111484"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036545/2017-01-24/0"
-intitule_bron: "Stcrt.2015-10986"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-21"
-intitule_published: "2015-04-22"
-intitule_in_force: "2015-04-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-10986"
-original_signed_date: "2015-04-21"
-original_published_date: "2015-04-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-10986"
-entry_into_force_date: "2015-05-01"
-jci_1_3: "jci1.3:c:BWBR0036545&z=2017-01-24&g=2017-01-24"
-jci_1_0: "1.0:c:BWBR0036545&g=2017-01-24"
-citeertitel_status: "officieel"
-short_title: "Projectstimuleringsregeling Interreg V"
-signed_date: "2015-04-21"
-entry_into_force: "2015-05-01"
+publicatiedatum: 2015-05-01
+laatste_update: 2017-01-24
+status: geldig
+toestand: 2017-01-24
+bron: "https://wetten.overheid.nl/BWBR0036545"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 april 2015, nr. IENM/BSK-2015/69519, houdende regels met betrekking tot subsidie ter stimulering van het indienen van projectvoorstellen die vallen onder Interreg EUROPE, North West Europe of North Sea Region (Projectstimuleringsregeling Interreg V)
-
-Gelet op [artikel 15.13 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **decentralisatieuitkering:** uitkering aan een gemeente of provincie als bedoeld in [artikel 13, vierde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=13);
+- – *decentralisatieuitkering:* uitkering aan een gemeente of provincie als bedoeld in [artikel 13, vierde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=13);
 
-- –. **geschikt:** oordeel van het Programma Secretariaat van Interreg EUROPE, NWE of NSR dat Stap 1 of Stap 2 ontvankelijk is voor het betreffende programma;
+- – *geschikt:* oordeel van het Programma Secretariaat van Interreg EUROPE, NWE of NSR dat Stap 1 of Stap 2 ontvankelijk is voor het betreffende programma;
 
-- –. **Interreg V:** Europees structuurfondsprogramma, bestaande uit verschillende deelprogramma’s waaronder Interreg EUROPE, North West Europe en North Sea Region;
+- – *Interreg V:* Europees structuurfondsprogramma, bestaande uit verschillende deelprogramma’s waaronder Interreg EUROPE, North West Europe en North Sea Region;
 
-- –. **Interreg North West Europe (NWE) en Interreg North Sea Region (NSR):** transnationale Interreg V deelprogramma’s die de mogelijkheid geven om een bijdrage aan te vragen voor projecten die zien op samenwerking binnen de regio’s Noordwest Europa onderscheidenlijk Noordzee;
+- – *Interreg North West Europe (NWE) en Interreg North Sea Region (NSR):* transnationale Interreg V deelprogramma’s die de mogelijkheid geven om een bijdrage aan te vragen voor projecten die zien op samenwerking binnen de regio’s Noordwest Europa onderscheidenlijk Noordzee;
 
-- –. **Interreg EUROPE:** interregionaal Interreg V deelprogramma dat de mogelijkheid geeft om een bijdrage aan te vragen voor projecten die zien op samenwerking tussen lidstaten van de Europese Unie, Zwitserland en Noorwegen;
+- – *Interreg EUROPE:* interregionaal Interreg V deelprogramma dat de mogelijkheid geeft om een bijdrage aan te vragen voor projecten die zien op samenwerking tussen lidstaten van de Europese Unie, Zwitserland en Noorwegen;
 
-- –. **Lead Partner:** trekker van een project zijnde een overheidsinstelling, een kennisinstelling als bedoeld in [artikel 1.2 van de Wet op het hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), een stichting, een vereniging of een regionale ontwikkelingsmaatschappij;
+- – *Lead Partner:* trekker van een project zijnde een overheidsinstelling, een kennisinstelling als bedoeld in [artikel 1.2 van de Wet op het hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), een stichting, een vereniging of een regionale ontwikkelingsmaatschappij;
 
-- –. **Minister:** Minister van Infrastructuur en Milieu;
+- – *Minister:* Minister van Infrastructuur en Milieu;
 
-- –. **overheidsinstelling:** gemeente, provincie, waterschap of zelfstandig bestuursorgaan;
+- – *overheidsinstelling:* gemeente, provincie, waterschap of zelfstandig bestuursorgaan;
 
-- –. **Programma Secretariaat:** secretariaat van Interreg EUROPE, NWE of NSR dat door de deelnemende landen is aangewezen om het desbetreffende Interreg V programma te beheren en uit te voeren;
+- – *Programma Secretariaat:* secretariaat van Interreg EUROPE, NWE of NSR dat door de deelnemende landen is aangewezen om het desbetreffende Interreg V programma te beheren en uit te voeren;
 
-- –. **project:** planmatige activiteit in het kader van een Interreg V programma;
+- – *project:* planmatige activiteit in het kader van een Interreg V programma;
 
-- –. **Projectvoorstel Interreg EUROPE:** voorstel met betrekking tot een project zoals vastgelegd in het aanvraagformulier om een bijdrage van Interreg EUROPE;
+- – *Projectvoorstel Interreg EUROPE:* voorstel met betrekking tot een project zoals vastgelegd in het aanvraagformulier om een bijdrage van Interreg EUROPE;
 
-- –. **Projectvoorstel Interreg NWE of NSR:** voorstel met betrekking tot een project zoals vastgelegd in het aanvraagformulier om een bijdrage van Interreg NWE of NSR;
+- – *Projectvoorstel Interreg NWE of NSR:* voorstel met betrekking tot een project zoals vastgelegd in het aanvraagformulier om een bijdrage van Interreg NWE of NSR;
 
-- –. **Stap 1:** verplichte beschrijving van een project op hoofdlijnen voor een aanvraag om een bijdrage bij Interreg NWE of NSR;
+- – *Stap 1:* verplichte beschrijving van een project op hoofdlijnen voor een aanvraag om een bijdrage bij Interreg NWE of NSR;
 
-- –. **Stap 2:** verplichte uitwerking van een projectvoorstel voor een aanvraag om een bijdrage bij Interreg NWE of NSR, die plaatsvindt nadat Stap 1 is goedgekeurd door het Programma Secretariaat;
+- – *Stap 2:* verplichte uitwerking van een projectvoorstel voor een aanvraag om een bijdrage bij Interreg NWE of NSR, die plaatsvindt nadat Stap 1 is goedgekeurd door het Programma Secretariaat;
 
-- –. **subsidieontvanger:** Lead Partner aan wie krachtens deze regeling subsidie is verleend;
+- – *subsidieontvanger:* Lead Partner aan wie krachtens deze regeling subsidie is verleend;
 
 ##### Artikel 2. Doel en doelgroep
 
@@ -215,5 +189,3 @@ Deze regeling treedt in werking met ingang van 1 mei 2015 en vervalt met ingang 
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Projectstimuleringsregeling Interreg V.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

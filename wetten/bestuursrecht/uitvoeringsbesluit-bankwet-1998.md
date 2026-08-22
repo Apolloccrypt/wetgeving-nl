@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 juli 2015, houdende regels met betrekking tot de uitvoering van hoofdstuk IIB van de Bankwet 1998 (Uitvoeringsbesluit Bankwet 1998)"
+citeertitel: "Uitvoeringsbesluit Bankwet 1998"
 identifier: "BWBR0036894"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-07-29"
-last_updated: "2015-07-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036894"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "13233603"
-version_id: "22618412"
-internal_id: "C32430061"
-label_id: "13201734"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036894/2015-07-29/0"
-intitule_bron: "Stb.2015-310"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-10"
-intitule_published: "2015-07-28"
-intitule_in_force: "2015-07-28"
-intitule_status: "goed"
-original_publication: "Stb.2015-310"
-original_signed_date: "2015-07-10"
-original_published_date: "2015-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2015-310"
-entry_into_force_date: "2015-07-29"
-jci_1_3: "jci1.3:c:BWBR0036894&z=2015-07-29&g=2015-07-29"
-jci_1_0: "1.0:c:BWBR0036894&g=2015-07-29"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit Bankwet 1998"
-signed_date: "2015-07-10"
-entry_into_force: "2015-07-29"
+publicatiedatum: 2015-07-29
+laatste_update: 2015-07-29
+status: geldig
+toestand: 2015-07-29
+bron: "https://wetten.overheid.nl/BWBR0036894"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 10 juli 2015, houdende regels met betrekking tot de uitvoering van hoofdstuk IIB van de Bankwet 1998 (Uitvoeringsbesluit Bankwet 1998)
-
-Op de voordracht van Onze Minister van Financiën van 15 juli 2014, FM/2014/1160 M, directie Financiële Markten;
-
-Gelet op de [artikelen 9d, eerste lid, aanhef en onderdeel b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9d), en [9g, tweede lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9g);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 10 oktober 2014, no. W06.14.0279/III);
-
-Gezien het nader rapport van Onze Minister van Financiën, FM/2014/1577 U, directie Financiële Markten;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. (aanwijzen organisaties en gegevens)
 
@@ -95,5 +63,3 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit Bankwet 1998.
 ##### Artikel 6
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.

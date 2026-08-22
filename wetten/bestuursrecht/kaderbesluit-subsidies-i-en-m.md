@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 februari 2015, houdende regels inzake de verstrekking van subsidies door de Minister van Infrastructuur en Milieu (Kaderbesluit subsidies I en M)"
+citeertitel: "Kaderbesluit subsidies I en M"
 identifier: "BWBR0036381"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036381"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "13003513"
-version_id: "22206292"
-internal_id: "C31843281"
-label_id: "12972694"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036381/2015-07-01/0"
-intitule_bron: "Stb.2015-96"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-11"
-intitule_published: "2015-03-04"
-intitule_in_force: "2015-03-04"
-intitule_status: "goed"
-original_publication: "Stb.2015-96"
-original_signed_date: "2015-02-11"
-original_published_date: "2015-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2015-96"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036381&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0036381&g=2015-07-01"
-citeertitel_status: "officieel"
-short_title: "Kaderbesluit subsidies I en M"
-signed_date: "2015-02-11"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0036381"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 11 februari 2015, houdende regels inzake de verstrekking van subsidies door de Minister van Infrastructuur en Milieu (Kaderbesluit subsidies I en M)
-
-Op de voordracht van Onze Minister van Infrastructuur en Milieu van 8 juli 2014, nr. IenM/BSK-2014/135720, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 4 september 2014, no.W14.14.0233IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 9 februari 2015, nr. IenM/BSK-2015/22855, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,23 +20,24 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanvrager:** natuurlijk persoon of rechtspersoon die een subsidie aanvraagt op grond van een ministeriële regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01);
+- *aanvrager:* natuurlijk persoon of rechtspersoon die een subsidie aanvraagt op grond van een ministeriële regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01);
 
-- **algemene groepsvrijstellingsverordening:** Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard («de algemene groepsvrijstelling») (PbEU 26.6.2014, L187/1), dan wel later daarvoor in de plaats tredende Europese regelgeving;
+- *algemene groepsvrijstellingsverordening:* Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard («de algemene groepsvrijstelling») (PbEU 26.6.2014, L187/1), dan wel later daarvoor in de plaats tredende Europese regelgeving;
 
-- **de-minimis verordening:** Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L352/1), dan wel later daarvoor in de plaats tredende Europese regelgeving; Verordening (EU) nr. 717/2014 van de Commissie van 27 juni 2014 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de de-minimissteun in de visserij -en aquacultuursector (PbEU 28.6.2014, L190), Verordening (EU) nr. 702/2014 van de Commissie van de Europese Gemeenschappen van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 2017 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, (PbEU 1.7.2014, L193) dan wel later daarvoor in de plaats tredende Europese regelgeving;
+- *de-minimis verordening:* Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L352/1), dan wel later daarvoor in de plaats tredende Europese regelgeving; Verordening (EU) nr. 717/2014 van de Commissie van 27 juni 2014 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de de-minimissteun in de visserij -en aquacultuursector (PbEU 28.6.2014, L190), Verordening (EU) nr. 702/2014 van de Commissie van de Europese Gemeenschappen van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 2017 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, (PbEU 1.7.2014, L193) dan wel later daarvoor in de plaats tredende Europese regelgeving;
 
-- **Europees steunkader:** een mededeling, richtsnoer, kaderregeling, besluit of vrijstellingsverordening op het gebied van staatssteun die de Europese Commissie, gelet op de artikelen 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie (VWEU) heeft vastgesteld;
+- *Europees steunkader:* een mededeling, richtsnoer, kaderregeling, besluit of vrijstellingsverordening op het gebied van staatssteun die de Europese Commissie, gelet op de artikelen 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie (VWEU) heeft vastgesteld;
 
-- **ondernemer:** een natuurlijk persoon of een rechtspersoon die een onderneming in stand houdt;
+- *ondernemer:* een natuurlijk persoon of een rechtspersoon die een onderneming in stand houdt;
 
-- **onderneming:** iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
+- *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
 
-- **penvoerder:** de door een samenwerkingsverband aangewezen natuurlijk persoon of rechtspersoon die als gemachtigde van het samenwerkingsverband optreedt;
+- *penvoerder:* de door een samenwerkingsverband aangewezen natuurlijk persoon of rechtspersoon die als gemachtigde van het samenwerkingsverband optreedt;
 
-- **samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee deelnemers, dat is opgericht ten behoeve van uitvoering van activiteiten;
+- *samenwerkingsverband:* een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee deelnemers, dat is opgericht ten behoeve van uitvoering van activiteiten;
 
-- **wet:** [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789).
+- *wet:*
+ [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789).
 
 ### Hoofdstuk 2. Verstrekken van subsidie
 
@@ -448,7 +417,7 @@ Onze Minister kan bij de beschikking tot subsidieverstrekking nadere verplichtin
 
 ##### Artikel 28
 
-Wijzigt het Besluit ruimtelijke ordening.
+*Wijzigt het Besluit ruimtelijke ordening.*
 
 ##### Artikel 29
 
@@ -465,5 +434,3 @@ De [artikelen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&ar
 ##### Artikel 32
 
 Dit besluit wordt aangehaald als: Kaderbesluit subsidies I en M.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

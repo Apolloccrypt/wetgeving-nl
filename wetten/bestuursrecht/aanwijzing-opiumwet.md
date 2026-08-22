@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing Opiumwet"
 identifier: "BWBR0036356"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036356"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "12998693"
-version_id: "22183762"
-internal_id: "C31808951"
-label_id: "12968094"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036356/2015-03-01/0"
-intitule_bron: "Stcrt.2015-5391"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-27"
-intitule_in_force: "2015-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-5391"
-original_published_date: "2015-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-5391"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBR0036356&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0036356&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0036356"
+opgehaald: 2026-08-22
 ---
+
 # Aanwijzing Opiumwet
 
 ### Samenvatting
@@ -42,9 +23,9 @@ Deze aanwijzing heeft betrekking op de opsporing en de vervolging van personen d
 
 Het Nederlandse drugsbeleid richt zich op het tegengaan en reduceren van drugsgebruik, zeker voor zover leidend tot gezondheids- en sociale schade, en op het voorkomen en verminderen van de maatschappelijke schade die aan het gebruik van, de productie van en de handel in drugs is verbonden.
 
-De [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) is in de loop der jaren gewijzigd, vooral met betrekking tot de verboden handel en productie. Zo is in 1999 de strafbaarstelling geïntroduceerd van het ‘beroeps- of bedrijfsmatig handelen in strijd met een van de in [artikel 3, eerste lid onder B van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) (OW) gegeven verboden’, en is in die verboden het bestanddeel ‘telen’ toegevoegd. In juni 2006 zijn de maximumstraffen voor enkele Opiumwetdelicten verhoogd en zijn bestanddelen als ‘opzettelijk handelen’ en ‘grote hoeveelheid’ in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10) en [11 OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11) opgenomen en is aan [artikel 2 OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), analoog aan [artikel 3 OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), het bestanddeel ‘telen’ toegevoegd. In november 2008 is in [lijst II van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II) een groot aantal paddenstoelen die een hallucinerende werking hebben, opgenomen en is het zogeheten paddoverbod in werking getreden. Op 12 mei 2012 is GHB van lijst II naar [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) gegaan en daarmee een harddrug geworden. Per 1 januari 2013 is het gedoogbeleid voor coffeeshops aangescherpt door de toegang tot coffeeshops te beperken tot ingezetenen van Nederland.
+De [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) is in de loop der jaren gewijzigd, vooral met betrekking tot de verboden handel en productie. Zo is in 1999 de strafbaarstelling geïntroduceerd van het ‘beroeps- of bedrijfsmatig handelen in strijd met een van de in [artikel 3, eerste lid onder B van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) (OW) gegeven verboden’, en is in die verboden het bestanddeel ‘telen’ toegevoegd. In juni 2006 zijn de maximumstraffen voor enkele Opiumwetdelicten verhoogd en zijn bestanddelen als ‘opzettelijk handelen’ en ‘grote hoeveelheid’ in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10) en [11 OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11) opgenomen en is aan [artikel 2 OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), analoog aan [artikel 3 OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), het bestanddeel ‘telen’ toegevoegd. In november 2008 is in [lijst II van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II) een groot aantal paddenstoelen die een hallucinerende werking hebben, opgenomen en is het zogeheten paddoverbod in werking getreden. Op 12 mei 2012 is GHB van lijst II naar [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) gegaan en daarmee een harddrug geworden. Per 1 januari 2013 is het gedoogbeleid voor coffeeshops aangescherpt door de toegang tot coffeeshops te beperken tot ingezetenen van Nederland.
 
-Per 1 maart 2015 zijn handelingen ter voorbereiding of vergemakkelijking van de handel in en productie of teelt van middelen vermeld op [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II) strafbaar gesteld in het nieuwe [artikel 11a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a)1Wet van 12 november 2014 tot wijziging van de Opiumwet in verband met de strafbaarstelling van handelingen ter voorbereiding of vergemakkelijking van illegale hennepteelt, Stb. 2014, 444 en Stb. 2014, 489.. Deze bepaling kent een opzet- en een schuldvariant.2Vergelijkbaar met de bepaling in artikel 10a, eerste lid aanhef en onder 3 van de Opiumwet. In de schuldvariant is strafbaar degene die ernstige reden heeft om te vermoeden dat de voorbereidingsmiddelen bestemd zijn tot het plegen van een van de in [artikel 11, derde of vijfde lid, OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11) strafbaar gestelde feiten. De aanwijzing gaat nader in op de schuldvariant met betrekking tot illegale hennepteelt.
+Per 1 maart 2015 zijn handelingen ter voorbereiding of vergemakkelijking van de handel in en productie of teelt van middelen vermeld op [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II) strafbaar gesteld in het nieuwe [artikel 11a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a)1Wet van 12 november 2014 tot wijziging van de Opiumwet in verband met de strafbaarstelling van handelingen ter voorbereiding of vergemakkelijking van illegale hennepteelt, Stb. 2014, 444 en Stb. 2014, 489.. Deze bepaling kent een opzet- en een schuldvariant.2Vergelijkbaar met de bepaling in artikel 10a, eerste lid aanhef en onder 3 van de Opiumwet. In de schuldvariant is strafbaar degene die ernstige reden heeft om te vermoeden dat de voorbereidingsmiddelen bestemd zijn tot het plegen van een van de in [artikel 11, derde of vijfde lid, OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11) strafbaar gestelde feiten. De aanwijzing gaat nader in op de schuldvariant met betrekking tot illegale hennepteelt.
 
 ### 2. Algemene uitgangspunten
 
@@ -64,6 +45,14 @@ De toekenning van een lage opsporingsprioriteit aan bepaalde categorieën van st
 
 Overeenkomstig de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) wordt onderscheid gemaakt tussen gebruikers, handelaren, faciliteerders en grensoverschrijdende transporteurs. De strafeis wordt in hoofdzaak bepaald door de hoeveelheid verdovende middelen die onderwerp van het delict zijn en de duur van de periode gedurende welke in verdovende middelen is gehandeld.
 
+- − Indien er bij overtreding van de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) tevens sprake is van georganiseerde criminaliteit zal, zo mogelijk, [artikel 11b OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11b) of [artikel 140 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140) (Sr) moeten worden toegepast.
+
+- − De opsporing en vervolging van het faciliteren of vergemakkelijken van illegale hennepteelt heeft dezelfde prioriteit als de opsporing en vervolging van Opiumwetdelicten met betrekking tot beroeps- of bedrijfsmatige teelt van hennepproducten of de teelt van grote hoeveelheden hennepproducten. Bij de interpretatie van de term ‘ernstige reden om te vermoeden’ neemt de officier van justitie het volgende in overweging: Uit de wetsgeschiedenis blijkt dat sprake moet zijn van bewuste culpa in de gradatie grove nalatigheid. De wetgever heeft aangeven dat het hierbij gaat om situaties waarin het niet anders kan zijn dan dat de gedragingen als omschreven in [artikel 11a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a) zijn begaan terwijl betrokkene zich bewust is geweest van de criminele bestemming van de genoemde voorbereidingsmiddelen3Deze zware vorm van culpa (schuld) ligt direct tegen het voorwaardelijk opzet aan volgens de wetgever. Vgl. Kamerstukken II 2012/13, 32 842, nr. 13, p. 7 en Kamerstukken I 2012/13, 32 842, B, p. 8.’. Zie verder: Kamerstukken II 1982/83, 17 975, C, p. 6.. Het is nadrukkelijk niet de bedoeling van de wetgever geweest om voor bijvoorbeeld elke verkoper in een tuincentrum een onderzoeksplicht te creëren gevolgd door strafvervolging bij niet-naleving daarvan. Daarentegen zal bijvoorbeeld bij de verkoop in een growshop, waarbij alleen al uit het aanbod, de benaming van voorwerpen en/of uit de handleiding of gebruiksaanwijzing daarvan blijkt dat het bestemd is voor illegale hennepteelt, het nauwelijks nader bewijs behoeven dat sprake is van criminele voorbereidingshandelingen in de zin van [artikel 11a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a) en zal vervolging dus snel geïndiceerd zijn.
+
+- − Extra aandacht moet in de vervolging worden gegeven aan de ontneming van wederrechtelijk verkregen voordeel ([artikel 36e Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e)).
+
+- − Inbeslagneming: Bij het constateren van een strafbaar feit op grond van de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) dienen in elk geval alle aangetroffen middelen vermeld op [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) en/of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II) in beslag te worden genomen, met een uitzondering voor middelen wanneer het een hoeveelheid voor eigen geneeskundig gebruik betreft die op recept is verkregen.
+
 ### Pre-opsporing
 
 ### 1. Gedoogbeleid coffeeshops
@@ -80,7 +69,7 @@ Het lokale bestuur stelt het coffeeshopbeleid – binnen het landelijke kader (d
 
 In de lokale driehoek kan worden afgesproken dat in een gemeente in het geheel geen coffeeshops worden gedoogd, de zogenaamde nuloptie. In gemeenten die de nuloptie niet hanteren geldt een coffeeshopbeleid dat voorziet in een maximum aantal coffeeshops. Afstemming over lokaal maatwerk vindt plaats in de lokale driehoek. In elk geval zal er in dit verband afstemming plaatsvinden over het handhavingsarrangement, inclusief de handhaving van het ingezetenencriterium en de eventuele fasering daarvan, en de maatregelen die verder worden getroffen in het kader van het coffeeshopbeleid. Naast de AHOJGI-criteria kunnen gemeenten in overleg met de partners in de lokale driehoek aanvullende voorschriften formuleren waaraan gedoogde coffeeshops moeten voldoen. Deze voorschriften vormen een onderdeel van het lokale coffeeshopbeleid en kunnen bijvoorbeeld worden opgenomen in een exploitatievergunning of een gedoogverklaring. In deze ondernemingen zal er tegen de verkoop van op lijst II vermelde hennepproducten binnen de kaders van de AHOJGI-criteria, waarover hierna in paragraaf 2.2.2 meer, niet strafrechtelijk worden opgetreden.
 
-De handhaving van de gedoogcriteria ligt – zoals nu ook reeds het geval is – primair bij de burgemeester in de uitoefening van zijn sluitingsbevoegdheid ex [artikel 13b van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b). De strafrechtelijke handhaving door het Openbaar Ministerie is het sluitstuk op de bestuurlijke handhaving door de gemeente4Zie Kamerstukken II 2011/2012, 24 077, nr. 265..Het integrale beleid ten aanzien van coffeeshops dient ertoe om tot een evenwichtige inzet van de verschillende beheersingsinstrumenten te komen. Naast het strafrechtelijke instrumentarium is in [artikel 13b OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b) een bestuursdwangbevoegdheid opgenomen die door de burgemeester kan worden uitgeoefend indien in woningen of lokalen dan wel op daarbij behorende erven drugs worden verkocht, verstrekt of afgeleverd. Deze bevoegdheid kan ook worden gebruikt ten aanzien van coffeeshops die zich niet aan de voorwaarden houden. De bevoegdheid van de burgemeester doet op geen enkele wijze afbreuk aan de bevoegdheden om strafrechtelijk op te treden.
+De handhaving van de gedoogcriteria ligt – zoals nu ook reeds het geval is – primair bij de burgemeester in de uitoefening van zijn sluitingsbevoegdheid ex [artikel 13b van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b). De strafrechtelijke handhaving door het Openbaar Ministerie is het sluitstuk op de bestuurlijke handhaving door de gemeente4Zie Kamerstukken II 2011/2012, 24 077, nr. 265..Het integrale beleid ten aanzien van coffeeshops dient ertoe om tot een evenwichtige inzet van de verschillende beheersingsinstrumenten te komen. Naast het strafrechtelijke instrumentarium is in [artikel 13b OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b) een bestuursdwangbevoegdheid opgenomen die door de burgemeester kan worden uitgeoefend indien in woningen of lokalen dan wel op daarbij behorende erven drugs worden verkocht, verstrekt of afgeleverd. Deze bevoegdheid kan ook worden gebruikt ten aanzien van coffeeshops die zich niet aan de voorwaarden houden. De bevoegdheid van de burgemeester doet op geen enkele wijze afbreuk aan de bevoegdheden om strafrechtelijk op te treden.
 
 ### 2. Gebruikersruimten
 
@@ -94,13 +83,19 @@ Het gedogen van gebruik van gebruikershoeveelheden in deze gebruikersruimten pas
 
 Vanwege de diversiteit aan daders is de aanwijzing ruim gesteld. Dit maakt differentiatie mogelijk. Desalniettemin kunnen er redenen zijn om af te wijken van de aanwijzing. De rol die een verdachte heeft in het geheel, kan daarbij een belangrijke overweging zijn.
 
-### 1. Middelen vermeld op [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) (harddrugs), anders dan bezit van een geringe hoeveelheid voor eigen gebruik
+### 1. Middelen vermeld op lijst I (harddrugs), anders dan bezit van een geringe hoeveelheid voor eigen gebruik
 
 Met uitzondering van methadon is het uitgangspunt dat er één regime is voor alle middelen vermeld op [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) van de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941).
 
 De verboden handelingen met de middelen vermeld op [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) worden in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) (en [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b): openbaarmaking) [OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) omschreven. Het gaat hierbij om drie groepen strafbare feiten:
 
-Voorts is in [artikel 10a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a) bepaald dat ook het voorbereiden of bevorderen van de onder 1.1. en 1.2. genoemde strafbare feiten strafbaar is of kan zijn (1.4.).
+- − Binnen of buiten het grondgebied van Nederland brengen ([1.1](https://wetten.overheid.nl/BWBR0036356).)
+
+- − Vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren ([1.2](https://wetten.overheid.nl/BWBR0036356).)
+
+- − Aanwezig hebben ([1.3](https://wetten.overheid.nl/BWBR0036356).)
+
+Voorts is in [artikel 10a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a) bepaald dat ook het voorbereiden of bevorderen van de onder [1.1](https://wetten.overheid.nl/BWBR0036356). en [1.2](https://wetten.overheid.nl/BWBR0036356). genoemde strafbare feiten strafbaar is of kan zijn ([1.4](https://wetten.overheid.nl/BWBR0036356).).
 
 ### 1.1. Binnen of buiten het grondgebied van Nederland brengen
 
@@ -134,9 +129,9 @@ Opsporing: gerichte opsporing; toepassing inverzekeringstelling.
 
 Vervolging: vordering voorlopige hechtenis (met aandacht voor vroeghulpinterventie bij kleinhandelaren die tevens gebruiker zijn).
 
-### 2. Geringe hoeveelheid voor eigen gebruik van de middelen vermeld op [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) (harddrugs)
+### 2. Geringe hoeveelheid voor eigen gebruik van de middelen vermeld op lijst I (harddrugs)
 
-Indien de handelingen beschreven in paragraaf 1 betrekking hebben op een geringe hoeveelheid bestemd voor eigen gebruik, geldt een lager strafmaximum ([artikel 10, zesde lid, OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10)) of is de handeling niet strafbaar ([artikel 10a, tweede lid, OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a)). Onder een geringe hoeveelheid wordt verstaan: een hoeveelheid/dosis die doorgaans wordt aangeboden als gebruikershoeveelheid. Hierbij kan worden gedacht aan bv. één bolletje, één ampul, één wikkel, één pil/tablet (in elk geval een aangetroffen hoeveelheid van maximaal 0,5 gram); een consumptie-eenheid van 5 ml GHB.
+Indien de handelingen beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0036356) betrekking hebben op een geringe hoeveelheid bestemd voor eigen gebruik, geldt een lager strafmaximum ([artikel 10, zesde lid, OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10)) of is de handeling niet strafbaar ([artikel 10a, tweede lid, OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a)). Onder een geringe hoeveelheid wordt verstaan: een hoeveelheid/dosis die doorgaans wordt aangeboden als gebruikershoeveelheid. Hierbij kan worden gedacht aan bv. één bolletje, één ampul, één wikkel, één pil/tablet (in elk geval een aangetroffen hoeveelheid van maximaal 0,5 gram); een consumptie-eenheid van 5 ml GHB.
 
 In het geval van een geringe hoeveelheid voor eigen gebruik dient de hulpverlening aan de gebruiker voorop te staan. Contacten verslavingszorginstellingen en (eventueel) andere hulpverleningsinstellingen moeten in een vroeg stadium gelegd worden.
 
@@ -144,9 +139,13 @@ Opsporing: geen gerichte opsporing; geen inverzekeringstelling.
 
 Vervolging: slechts vervolging ter ondersteuning van hulpverlening.
 
-### 3. Middelen vermeld op [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), zijnde hennepproducten, anders dan een hoeveelheid van minder dan 30 gram
+### 3. Middelen vermeld op lijst II, zijnde hennepproducten, anders dan een hoeveelheid van minder dan 30 gram
 
 De verboden handelingen met deze middelen vermeld op [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II) worden in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) (en [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b): openbaarmaking) [OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) omschreven. Het gaat hierbij om twee groepen strafbare feiten:
+
+- – Binnen of buiten het grondgebied van Nederland brengen ([3.1](https://wetten.overheid.nl/BWBR0036356).)
+
+- – Vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren en aanwezig hebben. ([3.2](https://wetten.overheid.nl/BWBR0036356).)
 
 ### 3.1. Binnen of buiten het grondgebied van Nederland brengen
 
@@ -154,7 +153,7 @@ Uit [artikel 11 OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11) 
 
 Aangezien echter, in het kader van het zogenaamde coffeeshopbeleid, een criterium voor een hoeveelheid voor eigen gebruik is ontwikkeld, kan daarmee rekening worden gehouden. Als er sprake is van een hoeveelheid van 5 gram of minder, ligt toepassing van het dwangmiddel inverzekeringstelling of het vorderen van voorlopige hechtenis, niet in de rede.
 
-De **algemene regel** is:
+De *algemene regel* is:
 
 Opsporing: gerichte opsporing; toepassing inverzekeringstelling.
 
@@ -172,6 +171,12 @@ Niet bedrijfsmatige teelt van een geringe hoeveelheid voor eigen gebruik heeft, 
 
 Prioriteit ligt bij de beroeps- of bedrijfsmatige teelt. Bij de vaststelling van hetgeen beroeps- of bedrijfsmatige teelt is, spelen de volgende factoren een rol:
 
+- − De schaalgrootte van de teelt: de hoeveelheid planten; Bij een hoeveelheid van 5 planten of minder wordt in beginsel aangenomen dat er geen sprake is van beroeps- of bedrijfsmatig handelen. Deze situatie wordt gelijk behandeld als de situatie waarin wordt geconstateerd dat sprake is van een geringe hoeveelheid, bestemd voor eigen gebruik.
+
+- − De mate van professionaliteit, afgemeten aan het soort perceel waarop geteeld wordt, belichting, verwarming, bevloeiing, etc. (opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036356&bijlage=1&z=2015-03-01&g=2015-03-01)); Indien, ongeacht de hoeveelheid planten, wordt voldaan aan twee of meer punten, genoemd in de lijst indicatoren met betrekking tot de mate van professionaliteit, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036356&bijlage=1&z=2015-03-01&g=2015-03-01), wordt aangenomen dat er sprake is van beroeps- of bedrijfsmatig handelen.
+
+- − Het doel van de teelt. Indien er sprake is van het telen van hennep om geldelijk gewin te verkrijgen, wordt, ongeacht de hoeveelheid planten, aangenomen dat er sprake is van beroeps- of bedrijfsmatig handelen.
+
 Opsporing: gerichte opsporing van beroeps- of bedrijfsmatige teelt en van teelt door minderjarigen; toepassing
 
 inverzekeringstelling.
@@ -180,7 +185,7 @@ Vervolging: zo mogelijk (gezien [artikel 67a van het Wetboek van Strafvordering]
 
 ### 3.3. Voorbereiden of vergemakkelijken van feiten onder 3.2 met betrekking tot grote hoeveelheden alsmede beroeps- of bedrijfsmatig geteelde hennep
 
-In [artikel 11a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a) is strafbaar gesteld het voorbereiden of vergemakkelijken van het bereiden, bewerken, verwerken, te koop aanbieden, verkopen. afleveren, verstrekken, vervoeren of vervaardigen van een grote hoeveelheid hennepproducten alsmede het voorbereiden of vergemakkelijken van beroeps- of bedrijfsmatige hennepteelt5Artikel 11a OW betreft alle middelen vermeld op lijst II. Zie voor de middelen, niet zijnde hennepproducten § 5.4..
+In [artikel 11a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a) is strafbaar gesteld het voorbereiden of vergemakkelijken van het bereiden, bewerken, verwerken, te koop aanbieden, verkopen. afleveren, verstrekken, vervoeren of vervaardigen van een grote hoeveelheid hennepproducten alsmede het voorbereiden of vergemakkelijken van beroeps- of bedrijfsmatige hennepteelt5Artikel 11a OW betreft alle middelen vermeld op lijst II. Zie voor de middelen, niet zijnde hennepproducten § 5.4..
 
 Opsporing: gerichte opsporing van beroeps- of bedrijfsmatige teelt en van teelt door minderjarigen; toepassing
 
@@ -196,7 +201,19 @@ Het coffeeshopbeleid voorziet in vergaande regulering: onder strikte voorwaarden
 
 Bij de beoordeling van de vraag of tegen een coffeeshop – een bij de wet verboden situatie – strafrechtelijk7Deze criteria gelden ook ten aanzien van de toepassing van bestuursdwangbevoegdheid door de burgemeester. opgetreden dient te worden, gelden de volgende criteria:
 
-Het I-criterium geldt per 1 januari 2013 in heel Nederland10Zie voor een toelichting op het I-criterium Kamerstukken II, 2012/2013, 24 077, 293..Gemeenten kunnen aanvullende voorschriften opnemen in het lokale coffeeshopbeleid.
+- A: geen affichering: dit betekent geen enkele vorm van reclame anders dan een summiere aanduiding op de betreffende lokaliteit;
+
+- H: geen harddrugs: dit betekent dat geen harddrugs voorhanden mogen zijn en/of verkocht worden;
+
+- O: geen overlast: onder overlast kan worden verstaan parkeeroverlast rond de coffeeshops, geluidshinder, vervuiling en/of voor of nabij de coffeeshop rondhangende klanten;
+
+- J: geen verkoop aan jeugdigen en geen toegang voor jeugdigen tot een coffeeshop: gelet op de toename van het cannabisgebruik onder jongeren is gekozen voor een strikte handhaving van de leeftijdsgrens van achttien jaar;8De coffeeshophouder dient vast te stellen dat degene die hij toegang verleent tot de coffeeshop en degene wie hij verkoopt, meerderjarig is. Het tonen van een geldig identiteitsbewijs is een instrument waarmee de coffeeshophouder dat kan vaststellen.
+
+- G: geen verkoop van grote hoeveelheden per transactie: dat wil zeggen hoeveelheden groter dan geschikt voor eigen gebruik (= *5* gram) én slechts een beperkte handelsvoorraad (niet meer dan 500 gram); Onder transactie’ wordt begrepen alle koop en verkoop in één coffeeshop op eenzelfde dag met betrekking tot eenzelfde koper;
+
+- I: geen toegang voor en verkoop aan anderen dan ingezetenen van Nederland9De coffeeshophouder dient vast te stellen dat degene die hij toegang verleent tot de coffeeshop en degene aan wie hij verkoopt, ingezetene van Nederland is. Het tonen van een geldig identiteitsbewijs of verblijfsvergunning in combinatie met een uittreksel GBA zijn instrumenten waarmee de coffeeshophouder het ingezetenschap kan vaststellen..
+
+Het I-criterium geldt per 1 januari 2013 in heel Nederland10Zie voor een toelichting op het I-criterium Kamerstukken II, 2012/2013, 24 077, 293..Gemeenten kunnen aanvullende voorschriften opnemen in het lokale coffeeshopbeleid.
 
 ### Gedoogbeleid
 
@@ -210,23 +227,39 @@ De handhaving van het ingezetenencriterium geschiedt in overleg met betrokken ge
 
 Hier wordt ook verwezen naar het gestelde rond [artikel 13b OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b), zoals hiervoor uiteengezet in de rubriek ‘pre-opsporing’.
 
-### Artikel 3b. [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941)
+### Artikel 3b. Opiumwet
 
 De volgende twee beleidscriteria gelden ten aanzien van [artikel 3b OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b):
 
+- − Het is onwenselijk dat niet-gebruikers ongewild geconfronteerd worden met (reclame voor) drugs. Dit betekent dat de aanpak van aanbieders die actief het publiek benaderen, voorrang dient te hebben;
+
+- − Gelet op het belang dat binnen het Nederlands drugsbeleid wordt gehecht aan preventie geldt het vorenstaande a fortiori waar het gaat om reclame-uitingen die zich richten op kwetsbare groepen als jeugdigen. Gelet op het belang dat dient te worden gehecht aan de uitstraling van het nationaal opsporings- en vervolgingsbeleid over onze landsgrenzen heen, geldt dit tevens voor reclame die zich richt op buitenlandse toeristen die ons land bezoeken.
+
 Strafrechtelijk optreden op grond van [artikel 3b OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b) is in ieder geval mogelijk als er sprake is van:
 
-### 4. Een hoeveelheid minder dan 30 gram van de middelen vermeld op [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), zijnde hennepproducten
+- 1. Het kenbaar maken van prijzen met verkooppunten door middel van elk medium (televisie, radio, kranten, Internet, reclameborden langs de weg, posters, folders, magazines, gidsen, tijdens manifestaties e.d.); meer dan slechts ‘beursberichten’.
+
+- 2. Pseudomedische of -wetenschappelijke voorlichting, mits kan worden aangetoond dat het in feite een openbaarmaking betreft, welke er kennelijk op is gericht de verkoop, aflevering of verstrekking van drugs te bevorderen (bijvoorbeeld een in de vorm van ‘voorlichtingsfolder’ gegoten reclamefolder over softdrugs uitgegeven door en herleidbaar tot een coffeeshop).
+
+- 3. Overtreding van het afficheringsverbod voor gedoogde coffeeshops (reclame die meer inhoudt dan een summiere aanduiding op de betreffende lokaliteit); bijvoorbeeld een uithangbord of lichtbak aan de gevel of een poster op de ruit.
+
+### 4. Een hoeveelheid minder dan 30 gram van de middelen vermeld op lijst II, zijnde hennepproducten
 
 De grens van wat gedoogd wordt bij de verkoop van hennepproducten door de coffeeshops is gesteld op maximaal 5 gram. Het ligt in de rede eenzelfde grens te hanteren voor het aanwezig hebben van hennepproducten. In beginsel wordt niet opgespoord en vervolgd ter zake van het aanwezig hebben van hoeveelheden tot en met 5 gram, de geringe hoeveelheid voor eigen gebruik. Bij hoeveelheden tussen de 5 en de 30 gram volgt bij ontdekking een strafrechtelijke reactie.
 
 Opsporing: geen gerichte opsporing.
 
-### 5. Middelen vermeld op [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), niet zijnde hennepproducten
+### 5. Middelen vermeld op lijst II, niet zijnde hennepproducten
 
-Met ingang van 1 december 2008 vallen zowel bewerkte als onbewerkte paddo’s onder de reikwijdte van [lijst II van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II). Het betreft paddenstoelen die van nature de stof psilocine, psylocybine, muscimol dan wel iboteenzuur bevatten. Bij opsporing en vervolging ligt de nadruk op het bestrijden van productie en handel.
+Met ingang van 1 december 2008 vallen zowel bewerkte als onbewerkte paddo’s onder de reikwijdte van [lijst II van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II). Het betreft paddenstoelen die van nature de stof psilocine, psylocybine, muscimol dan wel iboteenzuur bevatten. Bij opsporing en vervolging ligt de nadruk op het bestrijden van productie en handel.
 
 De verboden handelingen met middelen vermeld op lijst II worden in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) (en [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b): openbaarmaking) [OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) omschreven. Het gaat hierbij om drie groepen strafbare feiten:
+
+- − Binnen of buiten het grondgebied van Nederland brengen ([5.1](https://wetten.overheid.nl/BWBR0036356).)
+
+- − Vervaardigen en, al dan niet in de uitoefening van een beroep of bedrijf: telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren. ([5.2](https://wetten.overheid.nl/BWBR0036356).)
+
+- − Aanwezig hebben ([5.3](https://wetten.overheid.nl/BWBR0036356))
 
 ### 5.1. Binnen of buiten het grondgebied van Nederland brengen
 
@@ -254,9 +287,9 @@ Opsporing: gerichte opsporing; toepassing inverzekeringstelling.
 
 Vervolging: vordering voorlopige hechtenis.
 
-### 5.4. Voorbereiden of vergemakkelijken van feiten vermeld onder 5.1., 5.2. en 5.3.**met betrekking tot grote hoeveelheden alsmede beroeps- of bedrijfsmatig geproduceerde hoeveelheden**
+### 5.4. Voorbereiden of vergemakkelijken van feiten vermeld onder 5.1., 5.2. en 5.3.met betrekking tot grote hoeveelheden alsmede beroeps- of bedrijfsmatig geproduceerde hoeveelheden
 
-In [artikel 11a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a) is strafbaar gesteld het voorbereiden of vergemakkelijken van het bereiden, bewerken, verwerken, te koop aanbieden, verkopen. afleveren, verstrekken, vervoeren of vervaardigen van een grote hoeveelheid middelen **vermeld op lijst II** alsmede het voorbereiden of vergemakkelijken van **beroeps- of bedrijfsmatige productie van middelen vermeld op lijst II**.
+In [artikel 11a OW](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a) is strafbaar gesteld het voorbereiden of vergemakkelijken van het bereiden, bewerken, verwerken, te koop aanbieden, verkopen. afleveren, verstrekken, vervoeren of vervaardigen van een grote hoeveelheid middelen *vermeld op lijst II* alsmede het voorbereiden of vergemakkelijken van *beroeps- of bedrijfsmatige productie van middelen vermeld op lijst II*.
 
 Opsporing: gerichte opsporing van beroeps- of bedrijfsmatige teelt en van teelt door minderjarigen; toepassing
 
@@ -264,7 +297,7 @@ inverzekeringstelling.
 
 Vervolging: vordering voorlopige hechtenis.
 
-### 6. Geringe hoeveelheid voor eigen gebruik van de middelen vermeld op [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), niet zijnde hennepproducten
+### 6. Geringe hoeveelheid voor eigen gebruik van de middelen vermeld op lijst II, niet zijnde hennepproducten
 
 ### 6.1. Paddo’s
 
@@ -283,23 +316,3 @@ Opiumwetdelicten leveren vaak veel voordeel op voor de verdachte. Een van de dri
 ### Overgangsrecht
 
 De beleidsregels in deze aanwijzing hebben gelding vanaf de datum van inwerkingtreding.
-
-## Bijlage 1
-
-**Factor professionaliteit bij de definiëring van bedrijfsmatig handelen met betrekking tot de teelt van cannabis**
-
-| Professionaliteit: Indicator: | Laag | Gemiddeld | Hoog |
-| --- | --- | --- | --- |
-| Belichting | daglicht |   | kunstlicht op tijdklokken |
-| Voeding | gieter |   | centraal geregeld bevloeiingssysteem, drupsysteem |
-| Ruimte | balkon, tuin | afgescheiden ruimte in huis | kas of grote, verdeelde en afgeschermde ruimte binnen of buiten |
-| Afscherming | geen |   | geïsoleerd m.b.t. daglicht en temperatuur |
-| Ventilatie | geen |   | afzuiging naar buiten |
-| Verwarming | geen | wel | thermostaat- of computergestuurd |
-| Bodem | aarde, potgrond |   | speciaal verrijkte aarde en potgrond, steenwol, hydrocultuur |
-| Ziektebestrijding | geen | wel | signaleringsvellen, ziektebestrijding, ook biologische |
-| Verwerking | kleinschalig | in eigen beheer | uitbesteed aan manicultuurbedrijf |
-| Plantmateriaal | onbekend zaad | geselecteerd zaad | stekken en klonen van eigen planten of extern gekocht |
-| CO2-suppletie | geen | wel | gestuurde installatie |
-
-NB. Deze lijst met indicatoren is niet limitatief. Hetzelfde geldt voor de duiding van de aangetroffen installatie en productiemiddelen.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 februari 2014, nr. Min.Buza-2015.48432, tot instelling en bezoldiging van de Adviescommissie Faciliteit Duurzaam Ondernemen en Voedselzekerheid (FDOV)"
+citeertitel: "Besluit instelling en bezoldiging Adviescommissie Faciliteit Duurzaam Ondernemen en Voedselzekerheid (FDOV)"
 identifier: "BWBR0036335"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-02-25"
-last_updated: "2015-02-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036335"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12995043"
-version_id: "22176512"
-internal_id: "C31797491"
-label_id: "12963894"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036335/2015-02-25/0"
-intitule_bron: "Stcrt.2015-4967"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-06"
-intitule_published: "2015-02-24"
-intitule_in_force: "2015-02-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4967"
-original_signed_date: "2015-02-06"
-original_published_date: "2015-02-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4967"
-entry_into_force_date: "2015-02-25"
-jci_1_3: "jci1.3:c:BWBR0036335&z=2015-02-25&g=2015-02-25"
-jci_1_0: "1.0:c:BWBR0036335&g=2015-02-25"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling en bezoldiging Adviescommissie Faciliteit Duurzaam Ondernemen en Voedselzekerheid (FDOV)"
-signed_date: "2015-02-06"
-entry_into_force: "2015-02-25"
+publicatiedatum: 2015-02-25
+laatste_update: 2015-02-25
+status: geldig
+toestand: 2015-02-25
+bron: "https://wetten.overheid.nl/BWBR0036335"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 februari 2014, nr. Min.Buza-2015.48432, tot instelling en bezoldiging van de Adviescommissie Faciliteit Duurzaam Ondernemen en Voedselzekerheid (FDOV)
-
-Gelet op het [besluit van 13 juni 2014, nr. Minbuza-2014.1313047, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiering op grond van Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Tweede call Fonds Duurzaam Ondernemen en Voedselzekerheid)](https://wetten.overheid.nl/jci1.3:c:BWBR0035228)
-
-Besluit:
 
 ##### Artikel 1
 
@@ -95,5 +69,3 @@ Het [Besluit van de Staatssecretaris van Buitenlandse Zaken van 5 september 2012
 ##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,71 +1,26 @@
 ---
 title: "Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden regelende de samenwerking op het gebied van de implementatie van de Internationale Gezondheidsregeling tussen Nederland, Aruba, Curaçao en Sint Maarten"
+citeertitel: "Onderlinge regeling samenwerking implementatie Internationale Gezondheidsregeling Nederland, Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0036827"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-07-15"
-last_updated: "2015-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036827"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13217063"
-version_id: "22564552"
-internal_id: "C32363561"
-label_id: "13185364"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036827/2015-07-15/0"
-intitule_bron: "Stcrt.2015-19241"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-07-13"
-intitule_in_force: "2015-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-19241"
-original_published_date: "2015-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-19241"
-entry_into_force_date: "2015-07-15"
-jci_1_3: "jci1.3:c:BWBR0036827&z=2015-07-15&g=2015-07-15"
-jci_1_0: "1.0:c:BWBR0036827&g=2015-07-15"
-citeertitel_status: "redactioneel"
-short_title: "Onderlinge regeling samenwerking implementatie Internationale Gezondheidsregeling Nederland, Aruba, Curaçao en Sint Maarten"
-entry_into_force: "2015-07-15"
+publicatiedatum: 2015-07-15
+laatste_update: 2015-07-15
+status: geldig
+toestand: 2015-07-15
+bron: "https://wetten.overheid.nl/BWBR0036827"
+opgehaald: 2026-08-22
 ---
+
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden regelende de samenwerking op het gebied van de implementatie van de Internationale Gezondheidsregeling tussen Nederland, Aruba, Curaçao en Sint Maarten
-
-De ministers van Volksgezondheid van de vier landen verenigd in het Koninkrijk der Nederlanden hebben in juni 2015 een overeenkomst getekend voor samenwerking bij het implementeren en onderhouden van de Internationale Gezondheidsregeling (IGR). Dit is een internationale overeenkomst, onder auspiciën van de Wereld Gezondheidsorganisatie, voor het beheersen en bestrijden van grensoverschrijdende infectieziekten en andere incidenten van bacteriologische, chemische en radiologische aard. Met de onderlinge regeling ontstaat een samenwerkingsverband, in netwerkvorm, tussen de publieke gezondheidsdiensten van de landen Aruba, Curaçao, Sint Maarten en Nederland, inclusief de openbare lichamen Bonaire, Sint Eustatius en Saba. Het Centrum Infectieziektebestrijding van het Rijksinstituut voor Volksgezondheid en Milieu fungeert als coördinerend lid van het gecreëerde netwerk van IGR-deskundigen.
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38),
-
-Overwegende dat:
-
-de landen verenigd in het Koninkrijk der Nederlanden als één partij lid zijn van de Wereldgezondheidsorganisatie (Engels: WHO);
-
-de landen van het Koninkrijk ieder hun eigen verantwoordelijkheid hebben om het welzijn en de gezondheid van hun burgers te beschermen via onder andere ter zake dienende wetgeving op het gebied van volksgezondheid;
-
-het voorhanden zijn van nationale capaciteit voor surveillance, rapportage, detectie en samenwerking ingeval van uitbraken van infectieziekten en gerelateerde incidenten van belang voor de publieke gezondheid, kernonderdelen zijn van de Internationale Gezondheidsregeling (IGR) 1De op 23 mei 2005 door de Wereldgezondheidsvergadering van de Wereldgezondheidsorganisatie (WHO) aangenomen Internationale Gezondheidsregeling (International Health Regulations), (Trb. 2007, 34), bedoeld voor samenwerking op het gebied van het beheersen van infectieziekten en overige incidenten van bacteriologische, chemische en radiologische aard die de volksgzondheid alsmede internationaal verkeer en handel kunnen beïnvloeden.;
-
-de Caribische landen van het Koninkrijk afzonderlijk onvoldoende capaciteit hebben om snel en adequaat te kunnen handelen bij het uitbreken van infectieziekten en incidenten van bacteriologische, chemische en radiologische aard die een risico vormen voor de publieke gezondheid;
-
-de economische gevoeligheid voor uitbraken van infectieziekten en overige incidenten van bacteriologische, chemische en radiologische aard groot is in elk van de Caribische landen, alsmede de openbare lichamen Bonaire, Sint Eustatius en Saba;
-
-in maart 2013 tussen de vier landen van het Koninkrijk, inclusief de drie openbare lichamen, een overleg heeft plaatsgevonden over een samenwerkingsconstructie ten behoeve van de implementatie en onderhoud van de IGR, gevolgd door een in september 2014 aangeboden rapport met aanbevelingen voor concretisering hiervan;
-
-het Centrum Infectieziektebestrijding van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM-CIb) bij ministerieel besluit van 14 februari 2007 is aangewezen als nationaal IGR-coördinatiepunt voor Nederland, zoals bedoeld in artikel 4, eerste lid, van de IGR;
-
-de landen het belang inzien van en de wens hebben om met elkaar samen te werken en elkaar te ondersteunen ten behoeve van implementatie en onderhoud van de IGR in het Caribisch deel van het Koninkrijk;
-
-de landen de wens hebben om de kennis en expertise van het RIVM-CIb voor de gewenste samenwerking te gebruiken;
-
-komen het volgende overeen:
 
 ##### Artikel 1. Strekking van de regeling
 
-1. Nederland, Aruba, Curaçao en Sint Maarten, hierna aan te duiden als **de landen** en elk afzonderlijk als **land**, komen overeen samen te werken ten behoeve van implementatie en onderhoud van de IGR in de Caribische delen van het Koninkrijk, op de wijze bij deze onderlinge regeling bepaald.
+1. Nederland, Aruba, Curaçao en Sint Maarten, hierna aan te duiden als *de landen* en elk afzonderlijk als *land*, komen overeen samen te werken ten behoeve van implementatie en onderhoud van de IGR in de Caribische delen van het Koninkrijk, op de wijze bij deze onderlinge regeling bepaald.
 
-2. Deze regeling voorziet voorts in de inrichting van een netwerk van deskundigen (**Netwerk-IGR)**, met gekwalificeerde kennis op de gebieden van infectieziektebestrijding, epidemiologie, alsmede over de bestrijding van incidenten van bacteriologische, chemische en radiologische aard die de volksgezondheid kunnen beïnvloeden, dat als overleg, referentie- en actieplatform dient voor het Caribisch deel van het Koninkrijk en daarmee voldoet aan de voorwaarden van de artikelen 5, 13, 19, 20 en Annex 1 van de IGR.
+2. Deze regeling voorziet voorts in de inrichting van een netwerk van deskundigen (*Netwerk-IGR)*, met gekwalificeerde kennis op de gebieden van infectieziektebestrijding, epidemiologie, alsmede over de bestrijding van incidenten van bacteriologische, chemische en radiologische aard die de volksgezondheid kunnen beïnvloeden, dat als overleg, referentie- en actieplatform dient voor het Caribisch deel van het Koninkrijk en daarmee voldoet aan de voorwaarden van de artikelen 5, 13, 19, 20 en Annex 1 van de IGR.
 
-3. Deze regeling, inclusief Bijlage**Protocol Ernstige Gezondheidsincidenten**, voorziet tevens in afspraken tussen de landen over de uitoefening van taken en bevoegdheden in geval van incidenten die kunnen resulteren in een noodsituatie van internationaal belang voor de volksgezondheid in de betekenis van de IGR.2[An event that may constitute a public health emergency of international concern] is in de definitie van artikel 1 IGR en Annex 2 IGR: ‘[….] an extraordinary event which is determined, as provided in these Regulations: (i) to constitute a public health risk to other States through the international spread of disease, and (ii) to potentially require a coordinated international response.’
+3. Deze regeling, inclusief [Bijlage](https://wetten.overheid.nl/BWBR0036827)*Protocol Ernstige Gezondheidsincidenten*, voorziet tevens in afspraken tussen de landen over de uitoefening van taken en bevoegdheden in geval van incidenten die kunnen resulteren in een noodsituatie van internationaal belang voor de volksgezondheid in de betekenis van de IGR.2[An event that may constitute a public health emergency of international concern] is in de definitie van artikel 1 IGR en Annex 2 IGR: ‘[….] an extraordinary event which is determined, as provided in these Regulations: (i) to constitute a public health risk to other States through the international spread of disease, and (ii) to potentially require a coordinated international response.’
 
 ##### Artikel 2. Samenwerking ten behoeve van implementatie van de IGR
 
@@ -135,7 +90,7 @@ Sint Eustatius: de Directie Maatschappij en Welzijn, afdeling Publieke Gezondhei
 
 ##### Artikel 6. Reactie op ernstige gezondheidsincidenten
 
-1. Op de uitvoering van het bepaalde in het tweede tot en met zevende lid van dit artikel is mede het **Protocol Ernstige Gezondheidsincidenten**van toepassing, zie bijlage.
+1. Op de uitvoering van het bepaalde in het tweede tot en met zevende lid van dit artikel is mede het *Protocol Ernstige Gezondheidsincidenten*van toepassing, zie [bijlage](https://wetten.overheid.nl/BWBR0036827).
 
 2. Het contactpunt van het land als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036827&artikel=4&z=2015-07-15&g=2015-07-15), is permanent toegankelijk voor de meldingen van ziektegevallen die bij wet of verordening door het land meldingsplichtig zijn gesteld en van incidenten van bacteriologische, chemische en radiologische aard die de volksgezondheid kunnen beïnvloeden. De meldingen worden binnen 24 uur doorgegeven aan het nationaal IGR-coördinatiepunt voor verdere beoordeling en onderling overleg over te ondernemen actie.
 
@@ -186,43 +141,3 @@ De landen komen overeen, rekening houdend met ieders bestaande systeem van wet- 
 ##### Artikel 10. Inwerkingtreding
 
 Deze onderlinge regeling treedt in werking met ingang van de tweede dag na de dagtekening van het publicatiemedium waarin zij wordt geplaatst.
-
-## Bijlage. bij de Onderlinge regeling als bedoeld in [artikel 38, eerste lid, van het Statuut van het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) regelende de samenwerking op het gebied van de implementatie van de Internationale Gezondheidsregeling tussen Nederland, Aruba, Curaçao en Sint Maarten
-
-### Protocol Ernstige Gezondheidsincidenten
-
-Dit Protocol beschrijft de operationele uitvoering van meldingen, communicatie, beslissingen en interventies zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036827&artikel=6&z=2015-07-15&g=2015-07-15) van de onderlinge regeling.
-
-### Paragraaf: 1ste. Het nationaal IGR-coördinatiepunt en (ei)landelijke IGR-contactpunten
-
-### Artikel 1:
-
-### Paragraaf: 2e. De voorbereiding op ernstige gezondheidsincidenten
-
-### Artikel 2
-
-### Paragraaf: 3e. Milieugerelateerde gezondheidsincidenten
-
-### Artikel 3
-
-### Paragraaf: 4e. Infectieziektebestrijding
-
-### Artikel 4
-
-### Artikel 5. Eilandelijke surveillance en vroegwaarschuwing ten behoeve van de IGR
-
-### Paragraaf 5e. Internationale melding en communicatie
-
-### Artikel 6. Risicobeoordeling en melding
-
-### Artikel 7. De internationale communicatie inzake ernstige gezondheidsincidenten
-
-### Paragraaf 6e. Maatregelen ter beheersing en bestrijding van ernstige gezondheidsincidenten
-
-### Artikel 8
-
-### Paragraaf 7e. Slotbepalingen
-
-### Artikel 9
-
-Deze onderlinge regeling zal met toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingblad van Sint Maarten worden geplaatst.

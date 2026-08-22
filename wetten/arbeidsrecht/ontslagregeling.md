@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 april 2015, 2015-0000102290, tot vaststelling van regels met betrekking tot ontslag en de transitievergoeding (Ontslagregeling)"
+citeertitel: "Ontslagregeling"
 identifier: "BWBR0036599"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036599"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13152053"
-version_id: "22418032"
-internal_id: "C32167601"
-label_id: "13120994"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036599/2020-01-01/0"
-intitule_bron: "Stcrt.2015-12685"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-23"
-intitule_published: "2015-05-11"
-intitule_in_force: "2015-05-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-12685"
-original_signed_date: "2015-04-23"
-original_published_date: "2015-05-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-12685"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036599&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0036599&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Ontslagregeling"
-signed_date: "2015-04-23"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0036599"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 april 2015, 2015-0000102290, tot vaststelling van regels met betrekking tot ontslag en de transitievergoeding (Ontslagregeling)
-
-Gelet op de [artikelen 669, vijfde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669), [671a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), [673a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673a), [673c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673c), [673d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673d), en [682a van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682a) en [artikel 1, eerste lid, onderdeel e, en tweede lid, van de Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&artikel=1);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,35 +20,39 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **bedrijfseconomische omstandigheden:** bedrijfseconomische omstandigheden als bedoeld in [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669);
+- a. *bedrijfseconomische omstandigheden:* bedrijfseconomische omstandigheden als bedoeld in [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669);
 
-- b. **werknemer:** de werknemer, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+- b. *werknemer:* de werknemer, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- c. **werkgever:** de werkgever, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+- c. *werkgever:* de werkgever, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- d. **bedrijfsvestiging:** een onderdeel van de onderneming van de werkgever dat in de maatschappij als zelfstandige eenheid te herkennen is en een interne zelfstandige bedrijfsvoering heeft;
+- d. *bedrijfsvestiging:* een onderdeel van de onderneming van de werkgever dat in de maatschappij als zelfstandige eenheid te herkennen is en een interne zelfstandige bedrijfsvoering heeft;
 
-- e. **groep:** de groep, bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+- e. *groep:* de groep, bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
 
-- f. **payrollwerkgever:** de werkgever, die op basis van een overeenkomst met een derde, welke niet tot stand is gekomen in het kader van het samenbrengen van vraag en aanbod op de arbeidsmarkt, een werknemer ter beschikking stelt om in opdracht en onder toezicht en leiding van die derde arbeid te verrichten, waarbij de werkgever die de werknemer ter beschikking stelt alleen met toestemming van die derde gerechtigd is de werknemer aan een ander ter beschikking te stellen;
+- f. *payrollwerkgever:* de werkgever, die op basis van een overeenkomst met een derde, welke niet tot stand is gekomen in het kader van het samenbrengen van vraag en aanbod op de arbeidsmarkt, een werknemer ter beschikking stelt om in opdracht en onder toezicht en leiding van die derde arbeid te verrichten, waarbij de werkgever die de werknemer ter beschikking stelt alleen met toestemming van die derde gerechtigd is de werknemer aan een ander ter beschikking te stellen;
 
-- g. **payrollwerknemer:** de werknemer, bedoeld in onderdeel f;
+- g. *payrollwerknemer:* de werknemer, bedoeld in onderdeel f;
 
-- h. **opdrachtgever:** de derde, bedoeld in onderdeel f;
+- h. *opdrachtgever:* de derde, bedoeld in onderdeel f;
 
-- i. **uitzendwerkgever:** de werkgever, die als doelstelling heeft om in het kader van beroep of bedrijf werknemers ter beschikking te stellen aan derden om onder hun leiding en toezicht werkzaam te zijn en zodoende vraag en aanbod op de arbeidsmarkt bij elkaar te brengen en wiens premieplichtige loonsom op jaarbasis voor ten minste 50% wordt gerealiseerd in het kader van uitzendovereenkomsten als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690);
+- i. *uitzendwerkgever:* de werkgever, die als doelstelling heeft om in het kader van beroep of bedrijf werknemers ter beschikking te stellen aan derden om onder hun leiding en toezicht werkzaam te zijn en zodoende vraag en aanbod op de arbeidsmarkt bij elkaar te brengen en wiens premieplichtige loonsom op jaarbasis voor ten minste 50% wordt gerealiseerd in het kader van uitzendovereenkomsten als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690);
 
-- j. **inleenopdracht:** een overeenkomst tussen een uitzendwerkgever en een derde, niet zijnde een opdrachtgever als bedoeld in onderdeel h;
+- j. *inleenopdracht:* een overeenkomst tussen een uitzendwerkgever en een derde, niet zijnde een opdrachtgever als bedoeld in onderdeel h;
 
-- k. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- k. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- l. **overheidswerkgever:** de werkgever, bedoeld in [artikel 2 van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2) die op basis van [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) arbeidsovereenkomsten sluit met ambtenaren.
+- l. *overheidswerkgever:* de werkgever, bedoeld in [artikel 2 van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2) die op basis van [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) arbeidsovereenkomsten sluit met ambtenaren.
 
-#### § 2. Regels met betrekking tot een redelijke grond voor ontslag als bedoeld in [artikel 669 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669)
+#### § 2. Regels met betrekking tot een redelijke grond voor ontslag als bedoeld in artikel 669 van Boek 7 van het Burgerlijk Wetboek
 
 ##### Artikel 2. Beoordeling noodzaak verval van arbeidsplaatsen
 
 In geval van een collectief ontslag als bedoeld in de [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026) wordt voor de toepassing van [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669) aangenomen dat voor een doelmatige bedrijfsvoering het door de werkgever voorgestelde aantal te vervallen arbeidsplaatsen noodzakelijk is, indien dit blijkt uit een schriftelijke verklaring van de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, derde lid, van de Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&artikel=3), tenzij sprake is van nieuwe feiten en omstandigheden.
+
+##### Artikel 2a. Beoordeling noodzaak verval van arbeidsplaatsen bij democratisch genomen besluiten die betrekking hebben op overheidswerkgevers
+
+Een overheidswerkgever die bij het UWV een schriftelijk verzoek indient om toestemming om op te zeggen op grond van bedrijfseconomische omstandigheden als bedoeld in [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669), geeft aan in het schriftelijke verzoek op welke wijze, binnen de democratische structuur waarin de overheidswerkgever opereert een bepaalde organisatie dan wel een onderdeel van een bepaalde overheidsorganisatie wordt opgeheven, gereorganiseerd of gekort dient te worden. De overheidswerkgever geeft daarbij concreet aan hoe de beslissing om de organisatie te veranderen tot stand is gekomen en welke, indien aan de orde, democratisch genomen besluiten aan de beslissing om toestemming te vragen om op te zeggen ten grondslag liggen.
 
 ##### Artikel 3. Verval arbeidsplaatsen groep
 
@@ -102,7 +80,7 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 2. Indien sprake is van het beëindigen van een inleenopdracht vangt de periode, bedoeld in het eerste lid, aan op de dag waarop de inleenopdracht eindigt.
 
-#### § 3. Regels met betrekking tot herplaatsing en de redelijke termijn, bedoeld in [artikel 669 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669)
+#### § 3. Regels met betrekking tot herplaatsing en de redelijke termijn, bedoeld in artikel 669 van Boek 7 van het Burgerlijk Wetboek
 
 ##### Artikel 9. Herplaatsing
 
@@ -112,17 +90,17 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 - b. waarop werknemers of personen, die geen werkzaamheden van tijdelijke aard verrichten gedurende ten hoogste 26 weken, werkzaam zijn:
 
-- 1°. op basis van een tijdelijke arbeidsovereenkomst, die binnen de redelijke termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), eindigt;
+   - 1°. op basis van een tijdelijke arbeidsovereenkomst, die binnen de redelijke termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), eindigt;
 
-- 2°. op basis van een uitzendovereenkomst;
+   - 2°. op basis van een uitzendovereenkomst;
 
-- 3°. op basis van een arbeidsovereenkomst waarin de omvang van de arbeid niet is vastgelegd;
+   - 3°. op basis van een arbeidsovereenkomst waarin de omvang van de arbeid niet is vastgelegd;
 
-- 4°. die ter beschikking zijn gesteld, anders dan door een payrollwerkgever;
+   - 4°. die ter beschikking zijn gesteld, anders dan door een payrollwerkgever;
 
-- 5°. die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd hebben bereikt; of
+   - 5°. die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd hebben bereikt; of
 
-- 6°. anders dan op basis van een arbeidsovereenkomst, tenzij deze werkzaamheden worden verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, deze werkzaamheden worden verricht door of namens natuurlijke of rechtspersonen die zijn ingeschreven bij de Kamer van Koophandel, en het voor een doelmatige bedrijfsvoering noodzakelijk is dat deze werkzaamheden anders dan op basis van een arbeidsovereenkomst worden verricht.
+   - 6°. anders dan op basis van een arbeidsovereenkomst, tenzij deze werkzaamheden worden verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, deze werkzaamheden worden verricht door of namens natuurlijke of rechtspersonen die zijn ingeschreven bij de Kamer van Koophandel, en het voor een doelmatige bedrijfsvoering noodzakelijk is dat deze werkzaamheden anders dan op basis van een arbeidsovereenkomst worden verricht.
 
 2. Indien de onderneming van de werkgever deel uitmaakt van een groep, worden bij de beoordeling of een passende functie beschikbaar is mede arbeidsplaatsen in andere tot deze groep behorende ondernemingen betrokken.
 
@@ -136,7 +114,7 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 3. Als werknemer met een arbeidshandicap, bedoeld in het tweede lid, wordt aangemerkt de werknemer:
 
-- a. die voor 29 december 2005 als arbeidsgehandicapte is aangemerkt op grond van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) voor zolang aanspraak bestaat op voorzieningen op grond van die wet;
+- a. die voor 29 december 2005 als arbeidsgehandicapte is aangemerkt op grond van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) voor zolang aanspraak bestaat op voorzieningen op grond van die wet;
 
 - b. met een uitkering op grond van de Wet[op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of een uitkering of recht op arbeidsondersteuning op grond van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
@@ -222,7 +200,7 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 3. Voor de toepassing van het eerste lid worden arbeidsovereenkomsten geacht elkaar te hebben opgevolgd, indien de werknemer achtereenvolgens in dienst is geweest bij verschillende werkgevers die deel uitmaken van een groep, indien van werknemers die in dienst zijn bij deze werkgevers verwacht wordt dat zij regelmatig binnen deze groep van functie veranderen.
 
-4. In afwijking van het eerste lid worden voorafgaande arbeidsovereenkomsten die voor 1 juli 2015 zijn aangegaan niet samengeteld als zij elkaar hebben opgevolgd met tussenpozen van meer dan drie maanden.
+4. In afwijking van het eerste lid worden voorafgaande arbeidsovereenkomsten die voor 1 juli 2015 zijn aangegaan niet samengeteld als zij elkaar hebben opgevolgd met tussenpozen van meer dan drie maanden.
 
 ##### Artikel 16. Alternatief afspiegelingsbeginsel
 
@@ -296,15 +274,15 @@ Indien de overeenkomst tussen de payrollwerkgever en de opdrachtgever op initiat
 
 ##### Artikel 24. Kleine werkgever
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25. Betalen in termijnen
 
 Indien van de mogelijkheid om de transitievergoeding in termijnen te betalen, bedoeld in [artikel 673c, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673c) gebruik wordt gemaakt, wordt de betaling van de transitievergoeding verspreid over een periode van ten hoogste zes maanden na de dag waarop op grond van [artikel 686a, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=686a) de wettelijke rente verschuldigd is over het bedrag van de transitievergoeding.
 
-#### § 9. Regels met betrekking tot de [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
+#### § 9. Regels met betrekking tot de Wet melding collectief ontslag
 
-##### Artikel 26. Werkgebieden [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
+##### Artikel 26. Werkgebieden Wet melding collectief ontslag
 
 1. De werkgebieden, bedoeld in [artikel 1, onderdeel e, van de Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&artikel=1) zijn:
 
@@ -328,11 +306,11 @@ Voor de toepassing van de [Wet melding collectief ontslag](https://wetten.overhe
 
 #### § 10. Slotbepalingen
 
-##### Artikel 28. Intrekken [Ontslagbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010062) en overgangsrecht
+##### Artikel 28. Intrekken Ontslagbesluit en overgangsrecht
 
 1. Het [Ontslagbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010062) wordt ingetrokken.
 
-2. Het [Ontslagbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010062), zoals dat luidde op 30 juni 2015, blijft van toepassing op een verzoek om toestemming voor opzegging van de arbeidsovereenkomst gedaan voor dat tijdstip en een opzegging gedaan na dat tijdstip op grond van een verzoek om toestemming van de arbeidsovereenkomst gedaan voor dat tijdstip en op de gedingen die daarop betrekking hebben.
+2. Het [Ontslagbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010062), zoals dat luidde op 30 juni 2015, blijft van toepassing op een verzoek om toestemming voor opzegging van de arbeidsovereenkomst gedaan voor dat tijdstip en een opzegging gedaan na dat tijdstip op grond van een verzoek om toestemming van de arbeidsovereenkomst gedaan voor dat tijdstip en op de gedingen die daarop betrekking hebben.
 
 ##### Artikel 29. Citeertitel
 
@@ -340,28 +318,4 @@ Deze regeling wordt aangehaald als: Ontslagregeling.
 
 ##### Artikel 30. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a. Beoordeling noodzaak verval van arbeidsplaatsen bij democratisch genomen besluiten die betrekking hebben op overheidswerkgevers
-
-Een overheidswerkgever die bij het UWV een schriftelijk verzoek indient om toestemming om op te zeggen op grond van bedrijfseconomische omstandigheden als bedoeld in [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669), geeft aan in het schriftelijke verzoek op welke wijze, binnen de democratische structuur waarin de overheidswerkgever opereert een bepaalde organisatie dan wel een onderdeel van een bepaalde overheidsorganisatie wordt opgeheven, gereorganiseerd of gekort dient te worden. De overheidswerkgever geeft daarbij concreet aan hoe de beslissing om de organisatie te veranderen tot stand is gekomen en welke, indien aan de orde, democratisch genomen besluiten aan de beslissing om toestemming te vragen om op te zeggen ten grondslag liggen.
-
-#### § 3. Regels met betrekking tot herplaatsing en de redelijke termijn, bedoeld in [artikel 669 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669)
-
-#### § 4. Regels met betrekking tot het bepalen van de volgorde van ontslag bij het vervallen van arbeidsplaatsen wegens bedrijfseconomische omstandigheden
-
-#### § 5. Regels met betrekking tot het eerst beëindigen van andere arbeidsrelaties
-
-#### § 6. Regels met betrekking tot de wederindiensttredingsvoorwaarde
-
-#### § 7. Regels met betrekking tot het ontslag van de payrollwerknemer
-
-#### § 8. Regels met betrekking tot de transitievergoeding
-
-#### § 9. Regels met betrekking tot de [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
-
-#### § 10. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 juli 2015.

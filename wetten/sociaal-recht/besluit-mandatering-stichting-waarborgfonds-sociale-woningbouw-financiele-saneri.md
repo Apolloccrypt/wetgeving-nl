@@ -1,64 +1,34 @@
 ---
 title: "Besluit van de Minister voor Wonen en Rijksdienst van 29 juni 2015, nr. 2015000035533 tot het verlenen van mandaat, volmacht en machtiging aan de Stichting Waarborgfonds Sociale Woningbouw inzake het nemen van besluiten ter bevordering van de financiële sanering van toegelaten instellingen (Besluit mandatering Stichting Waarborgfonds Sociale Woningbouw financiële sanering toegelaten instellingen)"
+citeertitel: "Besluit mandatering Stichting Waarborgfonds Sociale Woningbouw financiële sanering toegelaten instellingen"
 identifier: "BWBR0036753"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-28"
-last_updated: "2025-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036753"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13191103"
-version_id: "30634112"
-internal_id: "C43914021"
-label_id: "13159484"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036753/2025-02-28/0"
-intitule_bron: "Stcrt.2015-17890"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-29"
-intitule_published: "2015-06-30"
-intitule_in_force: "2015-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-7150"
-original_signed_date: "2025-02-18"
-original_published_date: "2025-02-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-7150"
-entry_into_force_date: "2025-02-18"
-jci_1_3: "jci1.3:c:BWBR0036753&z=2025-02-28&g=2025-02-28"
-jci_1_0: "1.0:c:BWBR0036753&g=2025-02-28"
-citeertitel_status: "officieel"
-short_title: "Besluit mandatering Stichting Waarborgfonds Sociale Woningbouw financiële sanering toegelaten instellingen"
-signed_date: "2025-02-18"
-entry_into_force: "2025-02-18"
+publicatiedatum: 2025-02-18
+laatste_update: 2025-02-28
+status: geldig
+toestand: 2025-02-28
+bron: "https://wetten.overheid.nl/BWBR0036753"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister voor Wonen en Rijksdienst van 29 juni 2015, nr. 2015000035533 tot het verlenen van mandaat, volmacht en machtiging aan de Stichting Waarborgfonds Sociale Woningbouw inzake het nemen van besluiten ter bevordering van de financiële sanering van toegelaten instellingen (Besluit mandatering Stichting Waarborgfonds Sociale Woningbouw financiële sanering toegelaten instellingen)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1),
-
-Gelet op [artikel 59, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59),
-
-Gelet op de schriftelijke instemming van de directie van WSW, d.d. 29 juni 2015
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **ministerie:** ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *ministerie:* ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **WSW:** Stichting Waarborgfonds Sociale Woningbouw;
+- c. *WSW:* Stichting Waarborgfonds Sociale Woningbouw;
 
-- d. **Autoriteit:** Autoriteit woningcorporaties, bedoeld in [artikel 60, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=60);
+- d. *Autoriteit:* Autoriteit woningcorporaties, bedoeld in [artikel 60, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=60);
 
-- e. **Directie:** directie van WSW;
+- e. *Directie:* directie van WSW;
 
-- f. **borgingsvoorziening:** de borgingsvoorziening zoals bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1).
+- f. *borgingsvoorziening:* de borgingsvoorziening zoals bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1).
 
 ##### Artikel 2
 
@@ -76,11 +46,17 @@ In dit besluit wordt verstaan onder:
 
 De Directie oefent de bevoegdheden uit met inachtneming van de [artikelen 59, derde tot en met vijfde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59) en de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=111), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=112), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=115), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=116) en [118 van het Besluit toegelaten Instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=118).
 
-2. Aan de Directie wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen inzake de financiële saneringen van toegelaten instellingen, bedoeld in [artikel 71a, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=71a) zoals dit luidde voor 1 juli 2015, waartoe voorafgaand aan of na de inwerkingtreding van dit besluit is besloten.
+2. Aan de Directie wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen inzake de financiële saneringen van toegelaten instellingen, bedoeld in [artikel 71a, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=71a) zoals dit luidde voor 1 juli 2015, waartoe voorafgaand aan of na de inwerkingtreding van dit besluit is besloten.
 
 3. Aan de Directie wordt volmacht verleend voor het verrichten van rechtshandelingen die verband houden met de invordering van verbeurde dwangsommen en van gemaakte kosten voor bestuursdwang als bedoeld in [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25), voor zover deze verband houden met de bevoegdheden, bedoeld in het eerste en tweede lid.
 
 4. [Afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) is van overeenkomstige toepassing op de in het eerste en tweede lid verleende machtigingen en de in het derde lid verleende volmacht.
+
+##### Artikel 2a
+
+1. In geval de Directie van mening is dat sprake is van een tegenstelling tussen de belangen van de borgingsvoorziening en de belangen van WSW in het kader van de uitoefening het met dit besluit verleende mandaat, kan de Directie, in overleg met de minister, het met dit besluit verleende mandaat in dat geval geheel of gedeeltelijk teruggeven aan de minister.
+
+2. De Directie informeert de minister onverwijld over een situatie zoals bedoeld in het eerste lid.
 
 ##### Artikel 3
 
@@ -100,7 +76,7 @@ De Directie oefent de bevoegdheden uit met inachtneming van de [artikelen 59, de
 
 1. De Directie begroot jaarlijks voor het daarop volgende kalenderjaar het bedrag ten behoeve van het verstrekken van subsidies als bedoeld in [artikel 57, eerste lid, aanhef en onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57) en het bedrag ten behoeve van de dekking van de kosten die gemoeid zijn met de verstrekking van deze subsidies.
 
-2. Deze begroting wordt jaarlijks uiterlijk 1 september voor schriftelijke instemming aan de minister voorgelegd.
+2. Deze begroting wordt jaarlijks uiterlijk 1 september voor schriftelijke instemming aan de minister voorgelegd.
 
 3. Deze begroting gaat vergezeld van:
 
@@ -116,7 +92,7 @@ De Directie oefent de bevoegdheden uit met inachtneming van de [artikelen 59, de
 
 1. De Directie verstrekt de Minister jaarlijks een onderbouwd voorstel voor de heffing voor alle toegelaten instellingen gezamenlijk, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28), inclusief de onderliggende berekening, waarbij de begroting, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=4&z=2025-02-28&g=2025-02-28), waarop de Minister in het voorgaande jaar schriftelijke instemming heeft verleend als uitgangspunt dient.
 
-2. Het voorstel, bedoeld in het eerste lid, wordt jaarlijks uiterlijk 1 september aan de Minister voorgelegd.
+2. Het voorstel, bedoeld in het eerste lid, wordt jaarlijks uiterlijk 1 september aan de Minister voorgelegd.
 
 3. De Directie kan pas overgaan tot het heffen van de bijdrage, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28), dan nadat de Minister de hoogte van deze bijdrage heeft vastgesteld.
 
@@ -142,7 +118,7 @@ De Directie houdt een zodanige administratie bij dat:
 
 2. De Directie vraagt de Autoriteit en de borgingsvoorziening om een zienswijze op:
 
-- a. het plan voor financiële sanering voor een toegelaten instelling, bedoeld in [artikel 57, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57), jo. [artikel 29, tweede lid, tweede volzin, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29);
+- a. het plan voor financiële sanering voor een toegelaten instelling, bedoeld in [artikel 57, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57), jo. [artikel 29, tweede lid, tweede volzin, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29);
 
 - b. de aanvraag voor de te verstrekken subsidie, bedoeld in [artikel 57, eerste lid van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57).
 
@@ -158,7 +134,7 @@ De Directie stemt de met dit besluit verleende bevoegdheden af met de werkzaamhe
 
 De Directie kan een toegelaten instelling een aanwijzing geven op basis van [artikel 61d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61d) voor zover die aanwijzing betrekking heeft op de financiële sanering van de toegelaten instelling, of een last onder dwangsom op basis van [artikel 105 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=105) opleggen, als bedoeld in [artikel 2 eerste lid aanhef en onderdeel d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036753&artikel=2&z=2025-02-28&g=2025-02-28). Indien een toegelaten instelling:
 
-- a. naar het oordeel van de Directie in onvoldoende mate een plan voor financiële sanering opstelt, bedoeld in [artikel 29, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29);
+- a. naar het oordeel van de Directie in onvoldoende mate een plan voor financiële sanering opstelt, bedoeld in [artikel 29, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=29);
 
 - b. niet of in onvoldoende mate voldoet aan de voorwaarden die gesteld worden aan de aanvraag om een subsidie voor financiële sanering op grond van [artikel 111 van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=111);
 
@@ -212,24 +188,14 @@ De Directie is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet op
 
 2. Het eerste lid is van overeenkomstige toepassing op bevoegdheden die zijn verleend op basis van volmacht en machtiging.
 
-3. De Directie informeert de minister schriftelijk onverwijld op diens verzoek en in ieder geval jaarlijks uiterlijk 1 september omtrent de voortgang met betrekking tot de met dit besluit verleende bevoegdheden.
+3. De Directie informeert de minister schriftelijk onverwijld op diens verzoek en in ieder geval jaarlijks uiterlijk 1 september omtrent de voortgang met betrekking tot de met dit besluit verleende bevoegdheden.
 
-4. De directie verstrekt uiterlijk 15 februari een verantwoording over de in het voorgaande jaar uitgekeerde saneringssubsidies en de gemaakte kosten voor de verstrekking daarvan, afgezet tegen de daarvoor begrote bedragen.
+4. De directie verstrekt uiterlijk 15 februari een verantwoording over de in het voorgaande jaar uitgekeerde saneringssubsidies en de gemaakte kosten voor de verstrekking daarvan, afgezet tegen de daarvoor begrote bedragen.
 
 ##### Artikel 15
 
-Dit besluit treedt in werking met ingang van 1 juli 2015.
+Dit besluit treedt in werking met ingang van 1 juli 2015.
 
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit mandatering Stichting Waarborgfonds Sociale Woningbouw financiële sanering toegelaten instellingen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. In geval de Directie van mening is dat sprake is van een tegenstelling tussen de belangen van de borgingsvoorziening en de belangen van WSW in het kader van de uitoefening het met dit besluit verleende mandaat, kan de Directie, in overleg met de minister, het met dit besluit verleende mandaat in dat geval geheel of gedeeltelijk teruggeven aan de minister.
-
-2. De Directie informeert de minister onverwijld over een situatie zoals bedoeld in het eerste lid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

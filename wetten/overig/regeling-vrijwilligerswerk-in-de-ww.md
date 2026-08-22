@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2014, 2014-0000185641, tot vaststelling van de Regeling vrijwilligerswerk in de Werkloosheidswet (Regeling vrijwilligerswerk in de WW)"
+citeertitel: "Regeling vrijwilligerswerk in de WW"
 identifier: "BWBR0035946"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035946"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12889503"
-version_id: "21926222"
-internal_id: "C31455891"
-label_id: "12858904"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035946/2019-01-01/0"
-intitule_bron: "Stcrt.2014-36337"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-10"
-intitule_published: "2014-12-18"
-intitule_in_force: "2014-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-36337"
-original_signed_date: "2014-12-10"
-original_published_date: "2014-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-36337"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035946&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0035946&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vrijwilligerswerk in de WW"
-signed_date: "2014-12-10"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0035946"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2014, 2014-0000185641, tot vaststelling van de Regeling vrijwilligerswerk in de Werkloosheidswet (Regeling vrijwilligerswerk in de WW)
-
-Gelet op [artikel 8, zesde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=8);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **algemeen nut beogende instelling:** instelling die op grond van [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) en de daarop berustende bepalingen, door de inspecteur als zodanig is aangemerkt;
+- *algemeen nut beogende instelling:* instelling die op grond van [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) en de daarop berustende bepalingen, door de inspecteur als zodanig is aangemerkt;
 
-- **algemeen nuttige activiteiten:** activiteiten, die niet tegen commerciële tarieven worden verricht en die erop zijn gericht de doelstelling van een algemeen belang beogende organisatie of instelling te verwezenlijken of te bevorderen;
+- *algemeen nuttige activiteiten:* activiteiten, die niet tegen commerciële tarieven worden verricht en die erop zijn gericht de doelstelling van een algemeen belang beogende organisatie of instelling te verwezenlijken of te bevorderen;
 
-- **onbetaalde arbeid:** werkzaamheden waar geen vergoedingen of verstrekkingen tegenover staan waarvan de gezamenlijke waarde hoger is dan de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2);
+- *onbetaalde arbeid:* werkzaamheden waar geen vergoedingen of verstrekkingen tegenover staan waarvan de gezamenlijke waarde hoger is dan de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2);
 
-- **organisatie of instelling zonder winstoogmerk:** organisatie of instelling die niet aan een winstbelasting is onderworpen dan wel daarvan is vrijgesteld en die, daadwerkelijk blijkend uit zowel eigen regelgeving als uit de feitelijke werkzaamheden van overwegend algemeen nuttige activiteiten, nagenoeg uitsluitend het algemeen belang dient;
+- *organisatie of instelling zonder winstoogmerk:* organisatie of instelling die niet aan een winstbelasting is onderworpen dan wel daarvan is vrijgesteld en die, daadwerkelijk blijkend uit zowel eigen regelgeving als uit de feitelijke werkzaamheden van overwegend algemeen nuttige activiteiten, nagenoeg uitsluitend het algemeen belang dient;
 
-- **sociaal belang behartigende instelling:** instelling als bedoeld in [artikel 5c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c);
+- *sociaal belang behartigende instelling:* instelling als bedoeld in [artikel 5c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c);
 
-- **steunstichting SBBI:** instelling als bedoeld in artikel 5d van de Algemene wet inzake rijksbelasting en de daarop berustende bepalingen, die door de inspecteur als zodanig bekend is gemaakt;
+- *steunstichting SBBI:* instelling als bedoeld in artikel 5d van de Algemene wet inzake rijksbelasting en de daarop berustende bepalingen, die door de inspecteur als zodanig bekend is gemaakt;
 
-- **werklocatie:** een vestiging van de instelling indien de desbetreffende instelling meer dan één vestiging heeft.
+- *werklocatie:* een vestiging van de instelling indien de desbetreffende instelling meer dan één vestiging heeft.
 
 ##### Artikel 2. Vrijwilligerswerk
 
@@ -84,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 3. Vergelijkbare instellingen als bedoeld in het tweede lid, zijn instellingen die hetzelfde doel nastreven en waarvan de activiteiten grotendeels overeenkomen met de activiteiten van de instelling waar de onbetaalde arbeid wordt verricht.
 
-##### Artikel 4. Samenloop met [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
+##### Artikel 4. Samenloop met Participatiewet
 
 Als vrijwilligerswerk wordt aangemerkt door het college van burgemeester en wethouders opgedragen onbeloonde maatschappelijk nuttige werkzaamheden als bedoeld in [artikel 9, eerste lid, onderdeel c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=9).
 
@@ -95,5 +69,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vrijwilligerswerk in de WW.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

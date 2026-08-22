@@ -1,43 +1,19 @@
 ---
 title: "Belastingwet BES; Besluit algemene bestedingsbelasting, vrijstelling bij invoer van drinkwater en kookgas"
 identifier: "BWBR0036839"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-07-16"
-last_updated: "2015-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036839"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "13220103"
-version_id: "22570132"
-internal_id: "C32369211"
-label_id: "13188384"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036839/2015-07-16/0"
-intitule_bron: "Stcrt.2015-20121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-09"
-intitule_published: "2015-07-15"
-intitule_in_force: "2015-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-20121"
-original_signed_date: "2015-07-09"
-original_published_date: "2015-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-20121"
-entry_into_force_date: "2015-07-16"
-jci_1_3: "jci1.3:c:BWBR0036839&z=2015-07-16&g=2015-07-16"
-jci_1_0: "1.0:c:BWBR0036839&g=2015-07-16"
-citeertitel_status: "redactioneel"
-signed_date: "2015-07-09"
-entry_into_force: "2015-07-16"
+publicatiedatum: 2015-07-16
+laatste_update: 2015-07-16
+status: geldig
+toestand: 2015-07-16
+bron: "https://wetten.overheid.nl/BWBR0036839"
+opgehaald: 2026-08-22
 ---
+
 # Belastingwet BES; Besluit algemene bestedingsbelasting, vrijstelling bij invoer van drinkwater en kookgas
 
-De Staatssecretaris van Financiën heeft het volgende besloten.
-
-**Dit besluit is een actualisering van het besluit van 4 april 2011, nr. BLKB 2011/600M. In aanvulling op de vrijstelling van algemene bestedingsbelasting ter zake van de invoer van drinkwater in de openbare lichamen Saba en Sint Eustatius bevat dit besluit een goedkeuring die de invoer van kookgas in de openbare lichamen Bonaire, Saba en Sint Eustatius vrijstelt van algemene bestedingsbelasting.**
+*Dit besluit is een actualisering van het besluit van 4 april 2011, nr. BLKB 2011/600M. In aanvulling op de vrijstelling van algemene bestedingsbelasting ter zake van de invoer van drinkwater in de openbare lichamen Saba en Sint Eustatius bevat dit besluit een goedkeuring die de invoer van kookgas in de openbare lichamen Bonaire, Saba en Sint Eustatius vrijstelt van algemene bestedingsbelasting.*
 
 ### 1. Aanleiding
 
@@ -53,6 +29,8 @@ Door de afwezigheid van een gasbedrijf dat de levering van gas verzorgt zijn inw
 
 ### 2. Goedkeuring
 
+Goedkeuring
+
 Ik keur goed dat de invoer van drinkwater in tanks of in andere verpakkingen in de openbare lichamen Saba en Sint Eustatius is vrijgesteld van algemene bestedingsbelasting.
 
 Voorts keur ik goed dat de invoer van voor specifiek huishoudelijk gebruik bestemd kookgas door lokale energiedistributiebedrijven in de openbare lichamen Bonaire, Saba en Sint Eustatius is vrijgesteld van algemene bestedingsbelasting.
@@ -67,6 +45,4 @@ Het besluit van [Besluit van 4 april 2011](https://wetten.overheid.nl/jci1.3:c:B
 
 ### 4. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de **Staatscourant** waarin het wordt geplaatst.
-
-Dit besluit zal in de **Staatscourant** worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de *Staatscourant* waarin het wordt geplaatst.

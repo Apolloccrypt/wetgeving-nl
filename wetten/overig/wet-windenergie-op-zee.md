@@ -1,47 +1,18 @@
 ---
 title: "Wet van 24 juni 2015, houdende regels omtrent windenergie op zee (Wet windenergie op zee)"
+citeertitel: "Wet windenergie op zee"
 identifier: "BWBR0036752"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036752"
+categorie: "Overig"
 soort: "wet"
-stam_id: "13190593"
-version_id: "22482722"
-internal_id: "C32264591"
-label_id: "13159254"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036752/2026-01-01/0"
-intitule_bron: "Stb.2015-261"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-24"
-intitule_published: "2015-06-30"
-intitule_in_force: "2015-06-30"
-intitule_status: "goed"
-original_publication: "Stb.2015-261"
-original_signed_date: "2015-06-24"
-original_published_date: "2015-06-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "34058"
-original_url_id: "stb-2015-261"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036752&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0036752&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet windenergie op zee"
-signed_date: "2015-06-24"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0036752"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 24 juni 2015, houdende regels omtrent windenergie op zee (Wet windenergie op zee)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het realiseren van meer windenergie op zee bijdraagt aan het verwezenlijken van de hernieuwbare energiedoelstellingen, dat op zee meerdere activiteiten plaatsvinden waar windparken op zee ingepast moeten worden, dat het aansluiten van windparken op het elektriciteitsnet tegen de laagst mogelijke maatschappelijke kosten moet plaatsvinden waardoor het wenselijk is om coördinatie van de ruimtelijke inpassing van windenergie op zee te versterken;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen en werkingssfeer
 
@@ -49,21 +20,21 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aansluitpunt:** punt waarop een aansluitverbinding wordt aangesloten op een net of op een installatie;
+- *aansluitpunt:* punt waarop een aansluitverbinding wordt aangesloten op een net of op een installatie;
 
-- **kavel:** locatie voor een windpark;
+- *kavel:* locatie voor een windpark;
 
-- **kavelbesluit:** besluit waarin een kavel en een tracé voor een aansluitverbinding zijn aangewezen;
+- *kavelbesluit:* besluit waarin een kavel en een tracé voor een aansluitverbinding zijn aangewezen;
 
-- **net:** systeem als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1), voor elektriciteit;
+- *net:* systeem als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1), voor elektriciteit;
 
-- **Onze Minister:** Onze Minister van Klimaat en Groene Groei;
+- *Onze Minister:* Onze Minister van Klimaat en Groene Groei;
 
-- **vergunning:** vergunning als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-01-01&g=2026-01-01);
+- *vergunning:* vergunning als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-01-01&g=2026-01-01);
 
-- **windenergie:** energiedrager die ontstaat na omzetting van wind;
+- *windenergie:* energiedrager die ontstaat na omzetting van wind;
 
-- **windpark:** een samenstel van voorzieningen waarmee windenergie wordt geproduceerd, waarbij onder een samenstel van voorzieningen wordt verstaan alle aanwezige middelen, waaronder ten minste drie windturbines die op of in de bodem van de zee zijn geplaatst of eraan zijn bevestigd, en die onderling met elkaar zijn verbonden voor de productie van windenergie, alsmede – in voorkomend geval – voor de omzetting van deze windenergie.
+- *windpark:* een samenstel van voorzieningen waarmee windenergie wordt geproduceerd, waarbij onder een samenstel van voorzieningen wordt verstaan alle aanwezige middelen, waaronder ten minste drie windturbines die op of in de bodem van de zee zijn geplaatst of eraan zijn bevestigd, en die onderling met elkaar zijn verbonden voor de productie van windenergie, alsmede – in voorkomend geval – voor de omzetting van deze windenergie.
 
 ##### Artikel 2
 
@@ -75,7 +46,7 @@ Deze wet is mede van toepassing in de Nederlandse exclusieve economische zone.
 
 1. Onze Minister kan, in overeenstemming met Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, een kavelbesluit nemen.
 
-2. Een kavel kan slechts worden aangewezen binnen gebieden die in het nationaal waterprogramma, bedoeld in [artikel 3.9, tweede lid, onder e, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9), zijn aangewezen als voor windenergie geschikte gebieden. Het tracé voor de aansluitverbinding tussen het windpark en het aansluitpunt wordt niet verder aangewezen dan tot de laagwaterlijn, bedoeld in de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=1), en [2, eerste lid, van de Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=2).
+2. Een kavel kan slechts worden aangewezen binnen gebieden die in het nationaal waterprogramma, bedoeld in [artikel 3.9, tweede lid, onder e, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9), zijn aangewezen als voor windenergie geschikte gebieden. Het tracé voor de aansluitverbinding tussen het windpark en het aansluitpunt wordt niet verder aangewezen dan tot de laagwaterlijn, bedoeld in de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=1), en [2, eerste lid, van de Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748&artikel=2).
 
 3. Onze Minister betrekt bij de afweging tot het nemen van een kavelbesluit:
 
@@ -83,7 +54,7 @@ Deze wet is mede van toepassing in de Nederlandse exclusieve economische zone.
 
 - b. de gevolgen van een aanwijzing voor derden;
 
-- c. het milieu belang, waaronder het ecologisch belang met inachtneming van het bepaalde bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01);
+- c. het milieu belang, waaronder het ecologisch belang met inachtneming van het bepaalde bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01);
 
 - d. de kosten om een windpark in het gebied te realiseren;
 
@@ -101,7 +72,7 @@ Deze wet is mede van toepassing in de Nederlandse exclusieve economische zone.
 
 - c. de voorwaarden en beperkingen waaronder is verzekerd dat de natuurlijke kenmerken van Natura 2000-gebieden niet zullen worden aangetast en, in voorkomend geval, het voorschrift inhoudende de verplichting compenserende maatregelen te treffen overeenkomstig de op grond van [artikel 5.18 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.18) gestelde regels over Natura 2000-activiteiten;
 
-- d. de voorwaarden en beperkingen waaronder Onze Minister een vrijstelling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01) verleent;
+- d. de voorwaarden en beperkingen waaronder Onze Minister een vrijstelling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01) verleent;
 
 - e. het belang van een doelmatig ruimtegebruik van een windpark;
 
@@ -131,7 +102,7 @@ Deze wet is mede van toepassing in de Nederlandse exclusieve economische zone.
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -143,7 +114,7 @@ Vervallen
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -161,7 +132,7 @@ Vervallen
 
 ##### Artikel 10
 
-1. Kosten die samenhangen met het verrichten van werkzaamheden als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01) kunnen ten laste komen van degene aan wie de vergunning wordt verleend.
+1. Kosten die samenhangen met het verrichten van werkzaamheden als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01) kunnen ten laste komen van degene aan wie de vergunning wordt verleend.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de verhaalbare kostensoorten.
 
@@ -173,7 +144,7 @@ Vervallen
 
 - a. gedurende drie achtereenvolgende jaren na het onherroepelijk worden van een kavelbesluit geen vergunning voor de kavel wordt verleend;
 
-- b. zich omstandigheden of feiten voordoen waardoor de handeling of handelingen waarvoor het kavelbesluit is genomen niet langer toelaatbaar worden geacht met het oog op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) bedoelde doelstellingen en belangen;
+- b. zich omstandigheden of feiten voordoen waardoor de handeling of handelingen waarvoor het kavelbesluit is genomen niet langer toelaatbaar worden geacht met het oog op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) bedoelde doelstellingen en belangen;
 
 - c. een voor Nederland verbindend verdrag of besluit van een volkenrechtelijke organisatie dan wel een wettelijk voorschrift ter uitvoering daarvan daartoe verplicht;
 
@@ -187,17 +158,41 @@ Vervallen
 
 ### Hoofdstuk 3. Vergunning
 
-#### § 3.1. **Algemene bepalingen**
+#### § 3.1. Algemene bepalingen
 
 ##### Artikel 12
 
 Het is verboden zonder vergunning van Onze Minister een windpark te bouwen of te exploiteren in de Nederlandse territoriale zee of de Nederlandse exclusieve economische zone.
 
+##### Artikel 12a
+
+1. Een aanvraag om een vergunning wordt ingediend met gebruikmaking van een middel, dat door Onze Minister beschikbaar wordt gesteld.
+
+2. Een aanvraag om een vergunning wordt ingediend binnen de bij ministeriële regeling vastgestelde aanvraagperiode.
+
+3. Bij ministeriële regeling kunnen twee of meer kavels worden aangewezen waarvoor een gebundelde aanvraag kan worden ingediend.
+
+4. Een aanvraag bevat in ieder geval:
+
+- a. een ontwerp voor het windpark;
+
+- b. een tijdschema voor de bouw en exploitatie van het windpark;
+
+- c. een raming van de kosten en opbrengsten;
+
+- d. een lijst met de bij de bouw en exploitatie van het windpark betrokken partijen;
+
+- e. een beschrijving van de kennis en ervaring van de betrokken partijen.
+
+5. Bij ministeriële regeling worden regels gesteld over de wijze waarop een aanvraag wordt ingediend en over de gegevens en bescheiden die bij de aanvraag worden overgelegd.
+
+6. Voor de behandeling van aanvragen om een vergunning worden kosten in rekening gebracht bij de aanvrager. Onze Minister stelt bij ministeriële regeling de hoogte van de kosten vast.
+
 ##### Artikel 13
 
 Onze Minister verleent geen vergunning voor:
 
-- a. een gebied dat is gelegen buiten een kavel en het tracé voor de aansluitverbinding dat is aangewezen op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), of
+- a. een gebied dat is gelegen buiten een kavel en het tracé voor de aansluitverbinding dat is aangewezen op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), of
 
 - b. een kavel waarvoor reeds een vergunning is verleend.
 
@@ -225,6 +220,24 @@ Onze Minister verleent geen vergunning voor:
 
 - b. aan de middellijke of onmiddellijke zeggenschap over de aanvrager onaanvaardbare risico’s verbonden zijn voor de openbare veiligheid, de voorzieningszekerheid of de leveringszekerheid van elektriciteit.
 
+##### Artikel 14a
+
+1. De verlening van een vergunning geschiedt met de toepassing van de:
+
+- a. procedure met subsidieverlening,
+
+- b. procedure van een vergelijkende toets,
+
+- c. procedure van een vergelijkende toets met financieel bod, of
+
+- d. procedure van een veiling.
+
+2. Bij ministeriële regeling wordt, na overleg met Onze Minister van Financiën, bepaald welke procedure of procedures worden toegepast. Voorafgaand aan de keuze welke procedure of procedures worden toegepast, onderzoekt Onze Minister de marktcondities.
+
+3. Indien aanvragen voor een vergunning voor meerdere procedures kunnen worden ingediend, wordt bij ministeriële regeling, na overleg met Onze Minister van Financiën, bepaald in welke volgorde de behandeling van de aanvragen plaatsvindt. Bij ministeriële regeling kan, na overleg met Onze Minister van Financiën, worden bepaald dat een aanvrager uitsluitend voor één procedure een aanvraag kan indienen.
+
+4. Bij ministeriële regeling kan worden bepaald wanneer sprake is van één aanvraag.
+
 ##### Artikel 15
 
 1. In een vergunning wordt bepaald:
@@ -239,9 +252,25 @@ Onze Minister verleent geen vergunning voor:
 
 3. Onze Minister kan aan een vergunning voorwaarden en voorschriften verbinden.
 
-4. Onze Minister kan ontheffing verlenen van het eerste lid, onderdeel c. Aan de ontheffing kunnen voorschriften worden verbonden en de ontheffing kan onder beperkingen worden verleend.
+4. Onze Minister kan ontheffing verlenen van het eerste lid, onderdeel c. Aan de ontheffing kunnen voorschriften worden verbonden en de ontheffing kan onder beperkingen worden verleend.
 
 5. Het is verboden te handelen in strijd met de vergunning, de daaraan verbonden voorwaarden en voorschriften, alsmede de ontheffing, bedoeld in het vierde lid, en de daaraan verbonden voorschriften en beperkingen.
+
+##### Artikel 15a
+
+1. De vergunning wordt onder de opschortende voorwaarde verleend dat de houder van een vergunning als zekerheid voor de bouw van een windpark op zee een waarborgsom of een bankgarantie heeft verstrekt.
+
+2. Bij ministeriële regeling worden nadere regels gesteld over:
+
+- a. de hoogte van de waarborgsom of de bankgarantie;
+
+- b. de termijn waarbinnen de waarborgsom of de bankgarantie moet zijn verstrekt;
+
+- c. de periode waarvoor de waarborgsom of de bankgarantie moet worden verstrekt.
+
+3. Indien niet tijdig aan de krachtens het tweede lid gestelde voorwaarden is voldaan, wordt de vergunning voor de desbetreffende kavel verleend aan de aanvrager die als eerstvolgende voor verlening van de vergunning in aanmerking komt.
+
+4. De waarborgsom of de bankgarantie wordt tot een bij ministeriële regeling te bepalen hoogte verbeurd indien een houder van een vergunning de in de vergunning aangegeven activiteiten niet binnen de desbetreffende tijdvakken heeft verricht.
 
 ##### Artikel 16
 
@@ -293,11 +322,11 @@ Onze Minister verleent geen vergunning voor:
 
 4. In afwijking van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2026-01-01&g=2026-01-01), vervalt de vergunning niet als één van de houders die een natuurlijke persoon is, overlijdt dan wel één van de houders die een rechtspersoon is, ophoudt te bestaan, maar wordt de vergunning gehouden door de overblijvende medehouders.
 
-#### § 3.2. **Procedure met subsidie**
+#### § 3.2. Procedure met subsidie
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
@@ -309,15 +338,15 @@ In aanvulling op [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Onze Minister beslist op aanvragen gelijktijdig met de beslissing op de aanvragen voor subsidie.
 
-#### § 3.3. **Procedure zonder subsidie**
+#### § 3.3. Procedure van een vergelijkende toets
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
@@ -336,128 +365,6 @@ Vervallen
 ##### Artikel 25
 
 Onze Minister beslist op de aanvragen binnen 13 weken na afloop van de aanvraagperiode, bedoeld in [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12a&z=2026-01-01&g=2026-01-01), en kan deze termijn eenmaal met ten hoogste 13 weken verlengen.
-
-### Hoofdstuk 4. Toezicht en handhaving
-
-##### Artikel 26
-
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister daartoe aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen in overeenstemming met Onze Minister wie het mede aangaat.
-
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
-
-##### Artikel 27
-
-Onze Minister kan ingeval van overtreding van het bepaalde bij of krachtens deze wet de overtreder een last onder bestuursdwang opleggen.
-
-##### Artikel 28
-
-1. Onze Minister kan bepalen dat zekerheid gesteld wordt voor de nakoming van hetgeen verschuldigd zal worden, ingeval hij een last onder bestuursdwang oplegt ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
-
-2. De verplichting, bedoeld in het eerste lid, rust op de houder van de vergunning, dan wel, indien de vergunning haar geldigheid heeft verloren, op de laatste houder van de vergunning.
-
-3. Het bedrag en de termijnen waarvoor en de tijdstippen en de wijze waarop de zekerheid wordt gesteld ten aanzien van het verwijderen, dan wel het na verwijdering slopen of hergebruiken van niet meer in gebruik zijnde windparken, worden vastgesteld in het kavelbesluit en dienen in de overige gevallen ten genoegen van Onze Minister te zijn.
-
-### Hoofdstuk 5. Wijziging andere wetten
-
-##### Artikel 29
-
-Wijzigt de Elektriciteitswet 1998.
-
-##### Artikel 30
-
-Wijzigt de Algemene wet bestuursrecht.
-
-##### Artikel 31
-
-Wijzigt de Waterwet.
-
-##### Artikel 32
-
-Wijzigt de Wet algemene bepalingen omgevingsrecht.
-
-##### Artikel 33
-
-Wijzigt de Wet op de economische delicten.
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-##### Artikel 34
-
-1. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-01-01&g=2026-01-01) is niet van toepassing op windparken waarvoor voor de datum waarop deze wet in werking treedt een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) en subsidie op grond een algemene maatregel van bestuur op grond van [artikel 3 van de Kaderwet EZ-subsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) of op grond van [artikel 72m van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m) zoals dat luidde op 31 december 2008, is verleend.
-
-2. Een vergunning voor een windpark die is verleend op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5), vervalt op de datum waarop deze wet in werking treedt indien voor het windpark geen subsidie op grond van een algemene maatregel van bestuur op grond van [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) is verleend.
-
-##### Artikel 35
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 36
-
-Deze wet wordt aangehaald als: Wet windenergie op zee.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a
-
-1. Een aanvraag om een vergunning wordt ingediend met gebruikmaking van een middel, dat door Onze Minister beschikbaar wordt gesteld.
-
-2. Een aanvraag om een vergunning wordt ingediend binnen de bij ministeriële regeling vastgestelde aanvraagperiode.
-
-3. Bij ministeriële regeling kunnen twee of meer kavels worden aangewezen waarvoor een gebundelde aanvraag kan worden ingediend.
-
-4. Een aanvraag bevat in ieder geval:
-
-- a. een ontwerp voor het windpark;
-
-- b. een tijdschema voor de bouw en exploitatie van het windpark;
-
-- c. een raming van de kosten en opbrengsten;
-
-- d. een lijst met de bij de bouw en exploitatie van het windpark betrokken partijen;
-
-- e. een beschrijving van de kennis en ervaring van de betrokken partijen.
-
-5. Bij ministeriële regeling worden regels gesteld over de wijze waarop een aanvraag wordt ingediend en over de gegevens en bescheiden die bij de aanvraag worden overgelegd.
-
-6. Voor de behandeling van aanvragen om een vergunning worden kosten in rekening gebracht bij de aanvrager. Onze Minister stelt bij ministeriële regeling de hoogte van de kosten vast.
-
-##### Artikel 14a
-
-1. De verlening van een vergunning geschiedt met de toepassing van de:
-
-- a. procedure met subsidieverlening,
-
-- b. procedure van een vergelijkende toets,
-
-- c. procedure van een vergelijkende toets met financieel bod, of
-
-- d. procedure van een veiling.
-
-2. Bij ministeriële regeling wordt, na overleg met Onze Minister van Financiën, bepaald welke procedure of procedures worden toegepast. Voorafgaand aan de keuze welke procedure of procedures worden toegepast, onderzoekt Onze Minister de marktcondities.
-
-3. Indien aanvragen voor een vergunning voor meerdere procedures kunnen worden ingediend, wordt bij ministeriële regeling, na overleg met Onze Minister van Financiën, bepaald in welke volgorde de behandeling van de aanvragen plaatsvindt. Bij ministeriële regeling kan, na overleg met Onze Minister van Financiën, worden bepaald dat een aanvrager uitsluitend voor één procedure een aanvraag kan indienen.
-
-4. Bij ministeriële regeling kan worden bepaald wanneer sprake is van één aanvraag.
-
-##### Artikel 15a
-
-1. De vergunning wordt onder de opschortende voorwaarde verleend dat de houder van een vergunning als zekerheid voor de bouw van een windpark op zee een waarborgsom of een bankgarantie heeft verstrekt.
-
-2. Bij ministeriële regeling worden nadere regels gesteld over:
-
-- a. de hoogte van de waarborgsom of de bankgarantie;
-
-- b. de termijn waarbinnen de waarborgsom of de bankgarantie moet zijn verstrekt;
-
-- c. de periode waarvoor de waarborgsom of de bankgarantie moet worden verstrekt.
-
-3. Indien niet tijdig aan de krachtens het tweede lid gestelde voorwaarden is voldaan, wordt de vergunning voor de desbetreffende kavel verleend aan de aanvrager die als eerstvolgende voor verlening van de vergunning in aanmerking komt.
-
-4. De waarborgsom of de bankgarantie wordt tot een bij ministeriële regeling te bepalen hoogte verbeurd indien een houder van een vergunning de in de vergunning aangegeven activiteiten niet binnen de desbetreffende tijdvakken heeft verricht.
-
-#### § 3.2. **Procedure met subsidie**
-
-#### § 3.3. **Procedure van een vergelijkende toets**
 
 #### § 3.4. Procedure van een vergelijkende toets met financieel bod
 
@@ -529,8 +436,58 @@ In aanvulling op [artikel 14a, derde lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Hoofdstuk 4. Toezicht en handhaving
 
+##### Artikel 26
+
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister daartoe aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen in overeenstemming met Onze Minister wie het mede aangaat.
+
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+##### Artikel 27
+
+Onze Minister kan ingeval van overtreding van het bepaalde bij of krachtens deze wet de overtreder een last onder bestuursdwang opleggen.
+
+##### Artikel 28
+
+1. Onze Minister kan bepalen dat zekerheid gesteld wordt voor de nakoming van hetgeen verschuldigd zal worden, ingeval hij een last onder bestuursdwang oplegt ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
+
+2. De verplichting, bedoeld in het eerste lid, rust op de houder van de vergunning, dan wel, indien de vergunning haar geldigheid heeft verloren, op de laatste houder van de vergunning.
+
+3. Het bedrag en de termijnen waarvoor en de tijdstippen en de wijze waarop de zekerheid wordt gesteld ten aanzien van het verwijderen, dan wel het na verwijdering slopen of hergebruiken van niet meer in gebruik zijnde windparken, worden vastgesteld in het kavelbesluit en dienen in de overige gevallen ten genoegen van Onze Minister te zijn.
+
 ### Hoofdstuk 5. Wijziging andere wetten
+
+##### Artikel 29
+
+*Wijzigt de Elektriciteitswet 1998.*
+
+##### Artikel 30
+
+*Wijzigt de Algemene wet bestuursrecht.*
+
+##### Artikel 31
+
+*Wijzigt de Waterwet.*
+
+##### Artikel 32
+
+*Wijzigt de Wet algemene bepalingen omgevingsrecht.*
+
+##### Artikel 33
+
+*Wijzigt de Wet op de economische delicten.*
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 34
+
+1. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-01-01&g=2026-01-01) is niet van toepassing op windparken waarvoor voor de datum waarop deze wet in werking treedt een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) en subsidie op grond een algemene maatregel van bestuur op grond van [artikel 3 van de Kaderwet EZ-subsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) of op grond van [artikel 72m van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m) zoals dat luidde op 31 december 2008, is verleend.
+
+2. Een vergunning voor een windpark die is verleend op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5), vervalt op de datum waarop deze wet in werking treedt indien voor het windpark geen subsidie op grond van een algemene maatregel van bestuur op grond van [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) is verleend.
+
+##### Artikel 35
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 36
+
+Deze wet wordt aangehaald als: Wet windenergie op zee.

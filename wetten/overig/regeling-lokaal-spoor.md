@@ -1,47 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 mei 2015, nr. IENM/BSK2015/74417, houdende vaststelling van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Regeling lokaal spoor)"
+citeertitel: "Regeling lokaal spoor"
 identifier: "BWBR0036629"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-12-01"
-last_updated: "2015-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036629"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13157113"
-version_id: "22424942"
-internal_id: "C32177771"
-label_id: "13125854"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036629/2015-12-01/0"
-intitule_bron: "Stcrt.2015-13303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-18"
-intitule_published: "2015-05-19"
-intitule_in_force: "2013-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-13303"
-original_signed_date: "2015-05-18"
-original_published_date: "2015-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-13303"
-entry_into_force_date: "2015-12-01"
-entry_into_force_dossier: "33324"
-jci_1_3: "jci1.3:c:BWBR0036629&z=2015-12-01&g=2015-12-01"
-jci_1_0: "1.0:c:BWBR0036629&g=2015-12-01"
-citeertitel_status: "officieel"
-short_title: "Regeling lokaal spoor"
-signed_date: "2015-05-18"
-entry_into_force: "2015-12-01"
+publicatiedatum: 2015-12-01
+laatste_update: 2015-12-01
+status: geldig
+toestand: 2015-12-01
+bron: "https://wetten.overheid.nl/BWBR0036629"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 mei 2015, nr. IENM/BSK2015/74417, houdende vaststelling van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Regeling lokaal spoor)
-
-Gelet op de [artikelen 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=6), [9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=9), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=19), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=28), [32, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=32), [33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=33), [37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=37), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=38), en [42, negende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=42).
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en met 10 van de Wet lokaal spoor in werking treden.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,15 +20,16 @@ Treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en met 10 van de 
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0035198);
+- *besluit:*
+ [Besluit lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0035198);
 
-- **kinematisch omgrenzingsprofiel:** profiel waarbinnen de spoorvoertuigen met alle daaraan bevestigde losse delen, bij een gelijkmatig verdeelde, volle belasting, in bogen met een straal gelijk aan of groter dan een vastgestelde referentieboog blijven;
+- *kinematisch omgrenzingsprofiel:* profiel waarbinnen de spoorvoertuigen met alle daaraan bevestigde losse delen, bij een gelijkmatig verdeelde, volle belasting, in bogen met een straal gelijk aan of groter dan een vastgestelde referentieboog blijven;
 
-- **profiel van vrije ruimte:** de vrij te houden ruimte boven en naast een spoor waarbinnen zich geen vaste voorwerpen mogen bevinden, om een ongehinderde doorgang van de spoorvoertuigen te waarborgen;
+- *profiel van vrije ruimte:* de vrij te houden ruimte boven en naast een spoor waarbinnen zich geen vaste voorwerpen mogen bevinden, om een ongehinderde doorgang van de spoorvoertuigen te waarborgen;
 
-- **referentieboog:** boog met een vastgestelde straal aan de hand waarvan het kinematisch omgrenzingsprofiel en het profiel van vrije ruimte worden vastgesteld;
+- *referentieboog:* boog met een vastgestelde straal aan de hand waarvan het kinematisch omgrenzingsprofiel en het profiel van vrije ruimte worden vastgesteld;
 
-- **werkmaterieel:** spoorvoertuigen, niet bestemd voor het vervoer van personen, die gebruikt kunnen worden voor het verrichten van werkzaamheden in het kader van aanleg en beheer van een lokale spoorweg.
+- *werkmaterieel:* spoorvoertuigen, niet bestemd voor het vervoer van personen, die gebruikt kunnen worden voor het verrichten van werkzaamheden in het kader van aanleg en beheer van een lokale spoorweg.
 
 ### Hoofdstuk 2. Tunnelveiligheid
 
@@ -107,43 +79,43 @@ bevat in ieder geval:
 
 - b. overzichten van:
 
-- 1°. de toegelaten maximumsnelheid per baanvak;
+   - 1°. de toegelaten maximumsnelheid per baanvak;
 
-- 2°. de beweegbare bruggen, de overwegen en overpaden en de beveiliging daarvan;
+   - 2°. de beweegbare bruggen, de overwegen en overpaden en de beveiliging daarvan;
 
-- 3°. de eindpunten, rangeerterreinen en opstelsporen, met uitzondering van sporen op de terreinen van werkplaatsen en remises;
+   - 3°. de eindpunten, rangeerterreinen en opstelsporen, met uitzondering van sporen op de terreinen van werkplaatsen en remises;
 
-- 4°. de situering van de lichtseinen;
+   - 4°. de situering van de lichtseinen;
 
 - c. informatie over de technische specificaties van de lokale spoorweginfrastructuur, waaronder:
 
-- 1°. de spoorwijdte met gehanteerde marges;
+   - 1°. de spoorwijdte met gehanteerde marges;
 
-- 2°. de railprofielen;
+   - 2°. de railprofielen;
 
-- 3°. de maximaal toelaatbare asdruk per baanvak;
+   - 3°. de maximaal toelaatbare asdruk per baanvak;
 
-- 4°. de systemen die gebruikt worden bij het bedienen van wissels;
+   - 4°. de systemen die gebruikt worden bij het bedienen van wissels;
 
-- 5°. de vereiste afmetingen van de wielen;
+   - 5°. de vereiste afmetingen van de wielen;
 
-- 6°. de vereiste wielprofielen, zowel nieuw als toelaatbaar gebruikt;
+   - 6°. de vereiste wielprofielen, zowel nieuw als toelaatbaar gebruikt;
 
-- 7°. de horizontale en verticale geometrie, inclusief horizontale en verticale boogstralen en het maximaal toelaatbare verkantingsverschil;
+   - 7°. de horizontale en verticale geometrie, inclusief horizontale en verticale boogstralen en het maximaal toelaatbare verkantingsverschil;
 
-- 8°. het kinematisch omgrenzingsprofiel;
+   - 8°. het kinematisch omgrenzingsprofiel;
 
-- 9°. het profiel van vrije ruimte;
+   - 9°. het profiel van vrije ruimte;
 
-- 10°. de werking van seinen en op welke baanvakken deze geplaatst zijn;
+   - 10°. de werking van seinen en op welke baanvakken deze geplaatst zijn;
 
-- 11°. het type treinbeïnvloedingssysteem en de daartoe vereiste voorzieningen in de spoorvoertuigen;
+   - 11°. het type treinbeïnvloedingssysteem en de daartoe vereiste voorzieningen in de spoorvoertuigen;
 
-- 12°. de energievoorziening voor de spoorvoertuigen, waaronder de gebruikte spanning en stroomsoort;
+   - 12°. de energievoorziening voor de spoorvoertuigen, waaronder de gebruikte spanning en stroomsoort;
 
-- 13°. het type en de wijze van bevestiging van een stroomgeleider alsmede een ruimtelijke tekening van het rijvlak van de geleider ten opzichte van het kinematisch omgrenzingsprofiel;
+   - 13°. het type en de wijze van bevestiging van een stroomgeleider alsmede een ruimtelijke tekening van het rijvlak van de geleider ten opzichte van het kinematisch omgrenzingsprofiel;
 
-- 14°. de afmetingen van de perrons, waaronder de lengte, de breedte en de hoogte gemeten vanaf de bovenkant van de spoorstaaf, alsmede de afstand van de perronrand tot het hart van het meest nabijgelegen spoor; en
+   - 14°. de afmetingen van de perrons, waaronder de lengte, de breedte en de hoogte gemeten vanaf de bovenkant van de spoorstaaf, alsmede de afstand van de perronrand tot het hart van het meest nabijgelegen spoor; en
 
 - d. tekeningen van de aanwezige tunnels, waarop de locaties en afmetingen van de vluchtwegen zijn aangegeven, alsmede de uitgangen naar de openbare ruimte.
 
@@ -161,29 +133,29 @@ bevat in ieder geval:
 
 - d. het is zo uitgevoerd dat personen:
 
-- 1°. tijdens het rijden niet uit het spoorvoertuig kunnen leunen of vallen;
+   - 1°. tijdens het rijden niet uit het spoorvoertuig kunnen leunen of vallen;
 
-- 2°. kunnen voorkomen dat zij in het spoorvoertuig ten val komen;
+   - 2°. kunnen voorkomen dat zij in het spoorvoertuig ten val komen;
 
-- 3°. indien met het spoorvoertuig gebruik wordt gemaakt van een lokale spoorweg die samenloopt met een voor het openbaar verkeer openstaande weg, niet meer dan een minimale kans hebben om onder het spoorvoertuig en onder de wielen te komen;
+   - 3°. indien met het spoorvoertuig gebruik wordt gemaakt van een lokale spoorweg die samenloopt met een voor het openbaar verkeer openstaande weg, niet meer dan een minimale kans hebben om onder het spoorvoertuig en onder de wielen te komen;
 
 - e. het is voorzien van:
 
-- 1°. een noodremvoorziening die door de reizigers te bedienen is en die door de bestuurder buiten werking gesteld kan worden;
+   - 1°. een noodremvoorziening die door de reizigers te bedienen is en die door de bestuurder buiten werking gesteld kan worden;
 
-- 2°. aan de voorzijde, achterzijde en iedere zijkant het wagennummer;
+   - 2°. aan de voorzijde, achterzijde en iedere zijkant het wagennummer;
 
-- 3°. een voorziening om het spoorvoertuig automatisch tot stilstand te brengen als er geen activiteit van de bestuurder meer wordt waargenomen;
+   - 3°. een voorziening om het spoorvoertuig automatisch tot stilstand te brengen als er geen activiteit van de bestuurder meer wordt waargenomen;
 
-- 4°. ten minste twee onafhankelijk van elkaar werkende remsystemen, waarvan er ten minste een ook bij het wegvallen van de tractie of externe energievoorziening het spoorvoertuig tot stilstand kan brengen;
+   - 4°. ten minste twee onafhankelijk van elkaar werkende remsystemen, waarvan er ten minste een ook bij het wegvallen van de tractie of externe energievoorziening het spoorvoertuig tot stilstand kan brengen;
 
-- 5°. een toestel voor het afgeven van geluidssignalen;
+   - 5°. een toestel voor het afgeven van geluidssignalen;
 
-- 6°. ten minste twee wit stralende lichten aan de voorzijde;
+   - 6°. ten minste twee wit stralende lichten aan de voorzijde;
 
-- 7°. ten minste twee rood stralende lichten aan de achterzijde;
+   - 7°. ten minste twee rood stralende lichten aan de achterzijde;
 
-- 8°. indien met het spoorvoertuig gebruik gaat worden gemaakt van een lokale spoorweg die samenloopt met een voor het openbaar verkeer openstaande weg, twee rode of ambergele remlichten aan de achterzijde, twee witte of ambergele richtingaanwijzers aan de voorzijde, twee rode of ambergele richtingaanwijzers aan de achterzijde en ten minste een ambergele of rode richtingaanwijzer aan iedere zijkant.
+   - 8°. indien met het spoorvoertuig gebruik gaat worden gemaakt van een lokale spoorweg die samenloopt met een voor het openbaar verkeer openstaande weg, twee rode of ambergele remlichten aan de achterzijde, twee witte of ambergele richtingaanwijzers aan de voorzijde, twee rode of ambergele richtingaanwijzers aan de achterzijde en ten minste een ambergele of rode richtingaanwijzer aan iedere zijkant.
 
 2. Spoorvoertuigen zonder eigen tractie die worden getrokken hoeven niet te voldoen aan het eerste lid, onderdeel e, aanhef en onder 3˚, 5˚ en 6˚.
 
@@ -197,13 +169,13 @@ bevat in ieder geval:
 
 - c. het is voorzien van:
 
-- 1°. aan de voorzijde, achterzijde en iedere zijkant het wagennummer;
+   - 1°. aan de voorzijde, achterzijde en iedere zijkant het wagennummer;
 
-- 2°. ten minste één remsysteem, dat ook bij het wegvallen van de tractie of externe energievoorziening het spoorvoertuig tot stilstand kan brengen;
+   - 2°. ten minste één remsysteem, dat ook bij het wegvallen van de tractie of externe energievoorziening het spoorvoertuig tot stilstand kan brengen;
 
-- 3°. een toestel voor het afgeven van geluidssignalen;
+   - 3°. een toestel voor het afgeven van geluidssignalen;
 
-- 4°. ten minste één wit stralend licht aan de voorzijde; 5˚. ten minste één rood stralend licht aan de achterzijde.
+   - 4°. ten minste één wit stralend licht aan de voorzijde; 5˚. ten minste één rood stralend licht aan de achterzijde.
 
 2. Historische spoorvoertuigen zonder eigen tractie die worden getrokken hoeven niet te voldoen aan het eerste lid, onderdeel c, aanhef en onder 2°, 3°, en 4°.
 
@@ -217,13 +189,13 @@ bevat in ieder geval:
 
 - c. het is voorzien van:
 
-- 1°. ten minste één remsysteem, dat ook bij het wegvallen van de tractie of externe energievoorziening het spoorvoertuig tot stilstand kan brengen;
+   - 1°. ten minste één remsysteem, dat ook bij het wegvallen van de tractie of externe energievoorziening het spoorvoertuig tot stilstand kan brengen;
 
-- 2°. een toestel voor het afgeven van geluidssignalen;
+   - 2°. een toestel voor het afgeven van geluidssignalen;
 
-- 3°. ten minste twee wit stralende lichten aan de voorzijde en twee rood stralende lichten aan de achterzijde;
+   - 3°. ten minste twee wit stralende lichten aan de voorzijde en twee rood stralende lichten aan de achterzijde;
 
-- 4°. indien met het spoorvoertuig gebruik gaat worden gemaakt van een lokale spoorweg die samenloopt met een voor het openbaar verkeer openstaande weg, twee rode of ambergele remlichten aan de achterzijde, twee witte of ambergele richtingaanwijzers aan de voorzijde, twee rode of ambergele richtingaangevers aan de achterzijde en ten minste een ambergele of rode richtingaanwijzer aan iedere zijkant.
+   - 4°. indien met het spoorvoertuig gebruik gaat worden gemaakt van een lokale spoorweg die samenloopt met een voor het openbaar verkeer openstaande weg, twee rode of ambergele remlichten aan de achterzijde, twee witte of ambergele richtingaanwijzers aan de voorzijde, twee rode of ambergele richtingaangevers aan de achterzijde en ten minste een ambergele of rode richtingaanwijzer aan iedere zijkant.
 
 2. Spoorvoertuigen niet bestemd voor het vervoer van personen zonder eigen tractiehoeven niet te voldoen aan het eerste lid, onderdeel c.
 
@@ -247,9 +219,9 @@ Een informatiedossier als bedoeld in [artikel 32, vierde lid, van de wet](https:
 
 - h. een plattegrond, ten minste op schaal 1:50, met daarop weergegeven:
 
-- 1°. indien het een spoorvoertuig betreft bestemd voor het vervoer van personen, de positionering van zitplaatsen in elke afdeling en op elk balkon; en
+   - 1°. indien het een spoorvoertuig betreft bestemd voor het vervoer van personen, de positionering van zitplaatsen in elke afdeling en op elk balkon; en
 
-- 2°. indien het een spoorvoertuig betreft bestemd voor het vervoer van goederen, de uitvoering van de laadruimte.
+   - 2°. indien het een spoorvoertuig betreft bestemd voor het vervoer van goederen, de uitvoering van de laadruimte.
 
 ##### Artikel 8
 
@@ -316,5 +288,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [hoofdstukken 2 tot en
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling lokaal spoor.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

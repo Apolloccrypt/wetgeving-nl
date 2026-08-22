@@ -1,54 +1,22 @@
 ---
 title: "Besluit van 15 december 2014 tot wijziging van het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen en het Uitvoeringsbesluit Belastingwet BES ter uitvoering van het op 18 december 2013 te ’s-Gravenhage tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA (Trb. 2014, 22)"
+citeertitel: "Wijzigingsbesluit Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen en Uitvoeringsbesluit Belastingwet BES (uitvoering FATCA-verdrag)"
 identifier: "BWBR0036008"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036008"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "12904033"
-version_id: "21958852"
-internal_id: "C31501451"
-label_id: "12873334"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036008/2015-01-01/0"
-intitule_bron: "Stb.2014-544"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-15"
-intitule_published: "2014-12-22"
-intitule_in_force: "2014-12-22"
-intitule_status: "goed"
-original_publication: "Stb.2014-544"
-original_signed_date: "2014-12-15"
-original_published_date: "2014-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-544"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0036008&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0036008&g=2015-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen en Uitvoeringsbesluit Belastingwet BES (uitvoering FATCA-verdrag)"
-signed_date: "2014-12-15"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0036008"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 15 december 2014 tot wijziging van het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen en het Uitvoeringsbesluit Belastingwet BES ter uitvoering van het op 18 december 2013 te ’s-Gravenhage tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA (Trb. 2014, 22)
-
-Op de voordracht van de Staatssecretaris van Financiën van 21 oktober 2014, nr. DB 2014/432;
-
-Gelet op [artikel 8 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) en [artikel 8.129 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.129);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 4 december 2014, nr. W06.14.0398/111);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 11 december 2014, nr. DB 2014/507;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen.
+*Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen.*
 
 ##### Artikel II
 
@@ -62,11 +30,11 @@ Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing 
 
 ##### Artikel III
 
-Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen.
+*Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen.*
 
 ##### Artikel IV
 
-Wijzigt het Uitvoeringsbesluit Belastingwet BES.
+*Wijzigt het Uitvoeringsbesluit Belastingwet BES.*
 
 ##### Artikel V
 
@@ -80,10 +48,8 @@ Wijzigt het Uitvoeringsbesluit Belastingwet BES.
 
 ##### Artikel VI
 
-Wijzigt het Uitvoeringsbesluit Belastingwet BES.
+*Wijzigt het Uitvoeringsbesluit Belastingwet BES.*
 
 ##### Artikel VII
 
 Dit besluit treedt in werking met ingang van 1 januari 2015 en vindt voor het eerst toepassing met betrekking tot gegevens en inlichtingen over het kalenderjaar 2014.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

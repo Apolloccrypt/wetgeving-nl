@@ -1,41 +1,17 @@
 ---
 title: "Besluit draaginsigne ‘Nobelprijs VN-militairen’"
 identifier: "BWBR0036349"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-02-25"
-last_updated: "2015-02-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036349"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12997993"
-version_id: "22181542"
-internal_id: "C31803451"
-label_id: "12966854"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036349/2015-02-25/0"
-intitule_bron: "Stcrt.2015-5006"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-16"
-intitule_published: "2015-02-24"
-intitule_in_force: "2015-02-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-5006"
-original_signed_date: "2015-02-16"
-original_published_date: "2015-02-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-5006"
-entry_into_force_date: "2015-02-25"
-jci_1_3: "jci1.3:c:BWBR0036349&z=2015-02-25&g=2015-02-25"
-jci_1_0: "1.0:c:BWBR0036349&g=2015-02-25"
-citeertitel_status: "officieel"
-signed_date: "2015-02-16"
-entry_into_force: "2015-02-25"
+publicatiedatum: 2015-02-25
+laatste_update: 2015-02-25
+status: geldig
+toestand: 2015-02-25
+bron: "https://wetten.overheid.nl/BWBR0036349"
+opgehaald: 2026-08-22
 ---
-# Besluit draaginsigne ‘Nobelprijs VN-militairen’
 
-Besluit:
+# Besluit draaginsigne ‘Nobelprijs VN-militairen’
 
 ##### Artikel 1
 
@@ -45,7 +21,7 @@ Ingesteld wordt het ’Draaginsigne Nobelprijs VN-militairen’.
 
 1. Het draaginsigne is cirkelvormig, heeft een diameter van 25 millimeter en is vervaardigd van mat bronskleurig metaal.
 
-2. Op de voorzijde is in relief aangebracht de beeltenis van de United Nations Service Medal met de letters VN en daarbinnen de beeltenis van Alfred Nobel met links de tekst ‘ALFR. NOBEL en rechts de tekst NAT. MDCCCXXXIII OB. MDCCCXCVI, overeenkomstig de afbeelding op de bijlage, behorend bij dit artikel.
+2. Op de voorzijde is in relief aangebracht de beeltenis van de United Nations Service Medal met de letters VN en daarbinnen de beeltenis van Alfred Nobel met links de tekst ‘ALFR. NOBEL en rechts de tekst NAT. MDCCCXXXIII OB. MDCCCXCVI, overeenkomstig de afbeelding op de [bijlage](https://wetten.overheid.nl/BWBR0036349), behorend bij dit artikel.
 
 3. Het draaginsigne kan worden gedragen op het militaire uniform overeenkomstig het desbetreffende uniformvoorschrift of op de burgerkleding op de linker revers of dienovereenkomstige plaats.
 
@@ -88,9 +64,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit draaginsigne ‘Nobelprijs VN-militairen’.
-
-## Bijlage. behorende bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036349&artikel=1&z=2015-02-25&g=2015-02-25), Besluit draaginsigne Nobelprijs VN-militairen
-
-**Afbeelding draaginsigne**
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

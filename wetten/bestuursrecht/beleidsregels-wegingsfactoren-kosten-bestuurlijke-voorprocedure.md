@@ -1,53 +1,24 @@
 ---
 title: "Beleidsregels wegingsfactoren kosten bestuurlijke voorprocedure"
 identifier: "BWBR0037966"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-05-12"
-last_updated: "2016-05-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037966"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "13554293"
-version_id: "23219282"
-internal_id: "C33527111"
-label_id: "13521104"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037966/2016-05-12/0"
-intitule_bron: "Stcrt.2016-25607"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-12"
-intitule_published: "2016-05-20"
-intitule_in_force: "2016-05-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-25607"
-original_signed_date: "2016-05-12"
-original_published_date: "2016-05-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-25607"
-entry_into_force_date: "2016-05-12"
-jci_1_3: "jci1.3:c:BWBR0037966&z=2016-05-12&g=2016-05-12"
-jci_1_0: "1.0:c:BWBR0037966&g=2016-05-12"
-citeertitel_status: "officieel"
-signed_date: "2016-05-12"
-entry_into_force: "2016-05-12"
+publicatiedatum: 2016-05-12
+laatste_update: 2016-05-12
+status: vervallen
+vervallen_op: 2026-08-20
+toestand: 2016-05-12
+bron: "https://wetten.overheid.nl/BWBR0037966"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregels wegingsfactoren kosten bestuurlijke voorprocedure
-
-in aanmerking nemend [artikel 7:15 tweede lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15) en het [Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358) (Bpb);
-
-overwegende, dat de Raad het wenselijk acht in beleidsregels vast te leggen op welke wijze de wegingsfactoren, als bedoeld in het [Bpb](https://wetten.overheid.nl/jci1.3:c:BWBR0006358), onderdeel C1 zullen worden gehanteerd;
-
-stelt de volgende wegingsfactoren vast:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Doel van de regeling
 
-Het [Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358) (Bpb) regelt de vergoeding van kosten als bedoeld in [artikel 7:15 lid 4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15) (Awb). Het Bpb bevat regels inzake de vergoeding van de kosten van het bezwaarschrift. In de [bijlage bij het Bpb](onbekend), onderdeel CI, is bepaald dat het gewicht van de zaak tot uiting kan worden gebracht in wegingsfactoren.
+Het [Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358) (Bpb) regelt de vergoeding van kosten als bedoeld in [artikel 7:15 lid 4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15) (Awb). Het Bpb bevat regels inzake de vergoeding van de kosten van het bezwaarschrift. In de [bijlage bij het Bpb](https://wetten.overheid.nl/BWBR0006358), onderdeel CI, is bepaald dat het gewicht van de zaak tot uiting kan worden gebracht in wegingsfactoren.
 
-Het bestuursorgaan heeft de bevoegdheid om in beleidsregels vast te leggen op welke wijze de wegingsfactoren worden gehanteerd. Deze regeling bepaalt dan ook welke categorieën zaken als gemiddeld, licht en zeer licht worden gekwalificeerd en derhalve op grond van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend), onderdeel CI, met een wegingsfactor van respectievelijk 1, respectievelijk 0,5, respectievelijk 0,25 punt worden gewaardeerd.
+Het bestuursorgaan heeft de bevoegdheid om in beleidsregels vast te leggen op welke wijze de wegingsfactoren worden gehanteerd. Deze regeling bepaalt dan ook welke categorieën zaken als gemiddeld, licht en zeer licht worden gekwalificeerd en derhalve op grond van de [bijlage bij het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/BWBR0006358), onderdeel CI, met een wegingsfactor van respectievelijk 1, respectievelijk 0,5, respectievelijk 0,25 punt worden gewaardeerd.
 
 ##### Artikel 2. Categorieën zaken die met een wegingsfactor van 1 worden gewaardeerd
 

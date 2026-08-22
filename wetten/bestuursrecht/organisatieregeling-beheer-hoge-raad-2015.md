@@ -1,42 +1,18 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 7 mei 2015, nr. 632571, houdende regeling van het beheer bij de Hoge Raad der Nederlanden (Organisatieregeling beheer Hoge Raad 2015)"
+citeertitel: "Organisatieregeling beheer Hoge Raad 2015"
 identifier: "BWBR0036621"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-05-19"
-last_updated: "2015-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036621"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13155663"
-version_id: "22422602"
-internal_id: "C32174631"
-label_id: "13124234"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036621/2015-05-19/0"
-intitule_bron: "Stcrt.2015-13194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-07"
-intitule_published: "2015-05-18"
-intitule_in_force: "2015-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-13194"
-original_signed_date: "2015-05-07"
-original_published_date: "2015-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-13194"
-entry_into_force_date: "2015-05-19"
-jci_1_3: "jci1.3:c:BWBR0036621&z=2015-05-19&g=2015-05-19"
-jci_1_0: "1.0:c:BWBR0036621&g=2015-05-19"
-citeertitel_status: "officieel"
-short_title: "Organisatieregeling beheer Hoge Raad 2015"
-signed_date: "2015-05-07"
-entry_into_force: "2015-05-19"
+publicatiedatum: 2015-05-19
+laatste_update: 2015-05-19
+status: geldig
+toestand: 2015-05-19
+bron: "https://wetten.overheid.nl/BWBR0036621"
+opgehaald: 2026-08-22
 ---
-# Regeling van de Minister van Veiligheid en Justitie van 7 mei 2015, nr. 632571, houdende regeling van het beheer bij de Hoge Raad der Nederlanden (Organisatieregeling beheer Hoge Raad 2015)
 
-Besluit:
+# Regeling van de Minister van Veiligheid en Justitie van 7 mei 2015, nr. 632571, houdende regeling van het beheer bij de Hoge Raad der Nederlanden (Organisatieregeling beheer Hoge Raad 2015)
 
 ##### Artikel 1
 
@@ -61,5 +37,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Organisatieregeling beheer Hoge Raad 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,45 +1,17 @@
 ---
 title: "Tarievenbesluit 2015 Raad voor Accreditatie"
 identifier: "BWBR0036198"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036198"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12968843"
-version_id: "22119702"
-internal_id: "C31720321"
-label_id: "12937984"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036198/2015-01-01/0"
-intitule_bron: "Stcrt.2015-3064"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-21"
-intitule_published: "2015-01-30"
-intitule_in_force: "2015-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-3064"
-original_signed_date: "2014-11-21"
-original_published_date: "2015-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-3064"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0036198&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0036198&g=2015-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2014-11-21"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0036198"
+opgehaald: 2026-08-22
 ---
+
 # Tarievenbesluit 2015 Raad voor Accreditatie
-
-gelet op [artikel 7 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=7) voor haar dienstverlening, op 21 november 2014 het volgende tarievenbesluit vastgesteld.
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -70,9 +42,3 @@ De in rekening gebrachte tarieven moeten binnen 30 dagen na dagtekening worden b
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 januari 2015.
-
-## Bijlage
-
-### Tarieventabel
-
-Dit besluit zal met de hiernavolgende toelichting in de Staatscourant en op de website van de RvA worden geplaatst.

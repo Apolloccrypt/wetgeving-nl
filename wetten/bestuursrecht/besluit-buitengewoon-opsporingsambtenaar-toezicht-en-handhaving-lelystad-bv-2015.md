@@ -1,52 +1,18 @@
 ---
-title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 juli 2015, nr. BOACAT2015/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Toezicht en Handhaving Lelystad B.V"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 juli 2015, nr. BOACAT2015/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Toezicht en Handhaving Lelystad B.V."
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Toezicht en Handhaving Lelystad B.V. 2015"
 identifier: "BWBR0036860"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-04-12"
-last_updated: "2017-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036860"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13224063"
-version_id: "22593552"
-internal_id: "C32396131"
-label_id: "13192344"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036860/2017-04-12/0"
-intitule_bron: "Stcrt.2017-20084"
-intitule_effect: "wijziging"
-intitule_signed: "2017-04-04"
-intitule_published: "2017-04-11"
-intitule_in_force: "2017-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-20127"
-original_signed_date: "2015-07-03"
-original_published_date: "2015-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-20127"
-entry_into_force_date: "2015-07-18"
-jci_1_3: "jci1.3:c:BWBR0036860&z=2017-04-12&g=2017-04-12"
-jci_1_0: "1.0:c:BWBR0036860&g=2017-04-12"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Toezicht en Handhaving Lelystad B.V. 2015"
-signed_date: "2015-07-03"
-entry_into_force: "2015-07-18"
+publicatiedatum: 2015-07-18
+laatste_update: 2017-04-12
+status: geldig
+toestand: 2017-04-12
+bron: "https://wetten.overheid.nl/BWBR0036860"
+opgehaald: 2026-08-22
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 juli 2015, nr. BOACAT2015/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Toezicht en Handhaving Lelystad B.V
 
-Gelezen het verzoek van het Werkbedrijf Lelystad B.V. van 8 mei 2015 en de adviezen van de hoofdofficier van justitie Midden-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 juli 2015, nr. BOACAT2015/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Toezicht en Handhaving Lelystad B.V.
 
 ##### Artikel 1
 
@@ -99,5 +65,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Toezicht en Handhaving Lelystad B.V. 2015
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

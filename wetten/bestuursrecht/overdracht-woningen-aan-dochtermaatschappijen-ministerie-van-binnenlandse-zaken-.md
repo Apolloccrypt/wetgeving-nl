@@ -1,38 +1,16 @@
 ---
 title: "Overdracht woningen aan dochtermaatschappijen, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
 identifier: "BWBR0036427"
-country: "nl"
-rank: "circulaire"
-publication_date: "2015-03-20"
-last_updated: "2015-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036427"
+categorie: "Staatsinrichting en bestuur"
 soort: "circulaire"
-stam_id: "13062063"
-version_id: "22291842"
-internal_id: "C31938451"
-label_id: "13030924"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036427/2015-03-20/0"
-intitule_bron: "Stcrt.2015-8180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-03-18"
-intitule_published: "2015-03-20"
-intitule_in_force: "2015-03-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-8180"
-original_signed_date: "2015-03-18"
-original_published_date: "2015-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-8180"
-entry_into_force_date: "2015-03-20"
-jci_1_3: "jci1.3:c:BWBR0036427&z=2015-03-20&g=2015-03-20"
-jci_1_0: "1.0:c:BWBR0036427&g=2015-03-20"
-citeertitel_status: "redactioneel"
-signed_date: "2015-03-18"
-entry_into_force: "2015-03-20"
+publicatiedatum: 2015-03-20
+laatste_update: 2015-03-20
+status: geldig
+toestand: 2015-03-20
+bron: "https://wetten.overheid.nl/BWBR0036427"
+opgehaald: 2026-08-22
 ---
+
 # Overdracht woningen aan dochtermaatschappijen, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ### Doel en aanleiding
@@ -54,6 +32,12 @@ In de tweede plaats dient er aan de eisen voor een gelijk speelveld voor de acti
 ### Voorwaarden voor overdracht.
 
 Ik zal daarom een overdracht van meer dan 10% van het aantal woningen van een corporatie aan een dochtermaatschappij, door middel van splitsing dan wel verkoop, alleen goedkeuren indien:
+
+- – Het gehele niet-daeb-bezit wordt overgedragen en daarnaast in beginsel tot maximaal 10% van het daeb-bezit aan te liberaliseren woningen worden overgedragen;
+
+- – Maximaal 60% van de koopsom wordt betaald via aandelenkapitaal. Een eventuele lening dient op marktconforme rentecondities te worden verstrekt en in 15 jaar lineair of annuïtair afgelost te worden. De corporatie dient ten behoeve van de beoordeling van de financiële toezichthouder inzichtelijk te maken dat er voldoende zekerheid is dat de lening van de toegelaten instelling aan de dochter wordt afgelost. De corporatie kan daartoe zekerheid in de vorm van hypotheekrecht vestigen. De corporatie mag zich verder niet garant stellen voor door de dochter aan te trekken leningen.
+
+- – Afwijking van bovenstaande voorwaarden zal alleen worden toegestaan, indien en tot zover als de toezichthouder dit noodzakelijk acht om te komen tot een levensvatbare dochtermaatschappij.
 
 Naast deze specifieke voorwaarden voor overdracht aan dochters blijven de huidige regels ten aanzien van verkoop en statutenwijzigingen van toepassing.
 

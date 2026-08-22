@@ -1,20 +1,18 @@
 ---
-title: "Subsidieregeling instituten voor toegepast onderzoek"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 1 februari 2018, nr. WJZ/17203973, houdende regels voor het verstrekken van subsidies door de Ministeries van Economische Zaken en Klimaat en van Landbouw, Natuur en Voedselkwaliteit aan de instituten voor toegepast onderzoek (Subsidieregeling instituten voor toegepast onderzoek)"
+citeertitel: "Subsidieregeling instituten voor toegepast onderzoek"
 identifier: "BWBR0040605"
-categorie: "Overig"
-publicatiedatum: 2026-07-14
-laatste_update: 2026-07-15
+categorie: "Milieu"
+soort: "ministeriele-regeling"
+publicatiedatum: 2018-04-01
+laatste_update: 2026-08-22
 status: geldig
+toestand: 2026-08-22
 bron: "https://wetten.overheid.nl/BWBR0040605"
+opgehaald: 2026-08-22
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 1 februari 2018, nr. WJZ/17203973, houdende regels voor het verstrekken van subsidies door de Ministeries van Economische Zaken en Klimaat en van Landbouw, Natuur en Voedselkwaliteit aan de instituten voor toegepast onderzoek (Subsidieregeling instituten voor toegepast onderzoek)
-
-Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Gelet op [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en [artikel 3, derde lid, van de Wet van 31 mei 1937, houdende de omzetting van de Rijksstudiedienst voor de luchtvaart in een stichting](https://wetten.overheid.nl/jci1.3:c:BWBR0001989&artikel=3) (Stb. 1937, 523);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -22,89 +20,93 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bedrijfsgeheim:** informatie die:
+- *bedrijfsgeheim:* informatie die:
 
-  - a. in haar geheel of vanwege de specifieke samenstelling en ordening van haar bestanddelen niet algemeen bekend is bij of gemakkelijk toegankelijk is voor personen binnen de kringen die zich gewoonlijk bezighouden met de desbetreffende soort informatie,
+   - a. in haar geheel of vanwege de specifieke samenstelling en ordening van haar bestanddelen niet algemeen bekend is bij of gemakkelijk toegankelijk is voor personen binnen de kringen die zich gewoonlijk bezighouden met de desbetreffende soort informatie,
 
-  - b. handelswaarde bezit omdat zij geheim is, en
+   - b. handelswaarde bezit omdat zij geheim is, en
 
-  - c. door de persoon die rechtmatig beschikt over deze informatie, onderworpen is aan maatregelen om deze informatie geheim te houden;
+   - c. door de persoon die rechtmatig beschikt over deze informatie, onderworpen is aan maatregelen om deze informatie geheim te houden;
 
-- **daadwerkelijke samenwerking:** daadwerkelijke samenwerking als bedoeld in paragraaf 1.3, onderdeel 16, onder h, van de O&O&I-kaderregeling;
+- *daadwerkelijke samenwerking:* daadwerkelijke samenwerking als bedoeld in paragraaf 1.3, onderdeel 16, onder h, van de O&O&I-kaderregeling;
 
-- **experimentele ontwikkeling:** experimentele ontwikkeling als bedoeld in paragraaf 1.3, onderdeel 16, onder k, van de O&O&I-kaderregeling;
+- *experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in paragraaf 1.3, onderdeel 16, onder k, van de O&O&I-kaderregeling;
 
-- **financiële onderneming:** financiële onderneming als bedoeld in [artikel 1.1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+- *financiële onderneming:* financiële onderneming als bedoeld in [artikel 1.1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- **fundamenteel onderzoek:** fundamenteel onderzoek als bedoeld in paragraaf 1.3, onderdeel 16, onder n, van de O&O&I-kaderregeling;
+- *fundamenteel onderzoek:* fundamenteel onderzoek als bedoeld in paragraaf 1.3, onderdeel 16, onder n, van de O&O&I-kaderregeling;
 
-- **industrieel onderzoek:** industrieel onderzoek als bedoeld in paragraaf 1.3, onderdeel 16, onder r, van de O&O&I-kaderregeling;
+- *industrieel onderzoek:* industrieel onderzoek als bedoeld in paragraaf 1.3, onderdeel 16, onder r, van de O&O&I-kaderregeling;
 
-- **infrastructuursubsidie:** geldmiddelen die de minister beschikbaar stelt als bijdrage voor onderzoeksinfrastructuur, in eigendom en beheer van het instituut, voor zover er sprake is van investeringen in:
+- *infrastructuursubsidie:*
+ geldmiddelen die de minister beschikbaar stelt als bijdrage voor onderzoeksinfrastructuur, in eigendom en beheer van het instituut, voor zover er sprake is van investeringen in:
 
-  - a. nieuwe onderzoeksinfrastructuur, of
+   - a. nieuwe onderzoeksinfrastructuur, of
 
-  - b. uitbreiding van bestaande onderzoeksinfrastructuur, voor zover er geen sprake is van vervangingsinvesteringen als bedoeld in de definitie van instituutssubsidie, onderdeel b;
+   - b. uitbreiding van bestaande onderzoeksinfrastructuur, voor zover er geen sprake is van vervangingsinvesteringen als bedoeld in de definitie van instituutssubsidie, onderdeel b;
 
-- **instituut:** door de minister als zodanig aangewezen instituut voor toegepast onderzoek dat voldoet aan de vereisten die gelden voor een onderzoeksorganisatie als bedoeld in onderdeel 16, onder ff, van de O&O&I-kaderregeling, met als primaire activiteiten de activiteiten, bedoeld in paragraaf 2.2.1, onderdeel 20 van de O&O&I-kaderregeling;
+- *instituut:* door de minister als zodanig aangewezen instituut voor toegepast onderzoek dat voldoet aan de vereisten die gelden voor een onderzoeksorganisatie als bedoeld in onderdeel 16, onder ff, van de O&O&I-kaderregeling, met als primaire activiteiten de activiteiten, bedoeld in paragraaf 2.2.1, onderdeel 20 van de O&O&I-kaderregeling;
 
-- **instituutssubsidie:** geldmiddelen die de minister beschikbaar stelt ter ondersteuning van het doel, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=5&z=2026-07-14&g=2026-07-14):
+- *instituutssubsidie:* geldmiddelen die de minister beschikbaar stelt ter ondersteuning van het doel, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=5&z=2026-08-22&g=2026-08-22):
 
-  - a. voor het onafhankelijk verrichten van fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling,
+   - a. voor het onafhankelijk verrichten van fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling,
 
-  - b. als bijdrage voor vervangingsinvesteringen in en de exploitatie en het onderhoud van onderzoeksinfrastructuur in eigendom en beheer van het instituut,
+   - b. als bijdrage voor vervangingsinvesteringen in en de exploitatie en het onderhoud van onderzoeksinfrastructuur in eigendom en beheer van het instituut,
 
-  - c. voor het breed verspreiden van de resultaten van het onderzoek, bedoeld in onderdeel a, door middel van onderwijs, publicaties of kennisoverdracht, of
+   - c. voor het breed verspreiden van de resultaten van het onderzoek, bedoeld in onderdeel a, door middel van onderwijs, publicaties of kennisoverdracht, of
 
-  - d. als bijdrage voor overige exploitatie- en investeringskosten, voor zover deze onlosmakelijk verbonden zijn met het doel van het instituut, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=5&z=2026-07-14&g=2026-07-14), en de activiteiten, bedoeld in paragraaf 2.2.1, onderdeel 20 van de O&O&I-kaderregeling en voor zover er geen sprake is van investeringen als bedoeld in de definitie van infrastructuursubsidie;
+   - d. als bijdrage voor overige exploitatie- en investeringskosten, voor zover deze onlosmakelijk verbonden zijn met het doel van het instituut, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=5&z=2026-08-22&g=2026-08-22), en de activiteiten, bedoeld in paragraaf 2.2.1, onderdeel 20 van de O&O&I-kaderregeling en voor zover er geen sprake is van investeringen als bedoeld in de definitie van infrastructuursubsidie;
 
-- **kostendrager:** een product of een in economisch opzicht homogene groep van producten, die als voorwerp van calculatie wordt gekozen;
+- *kostendrager:* een product of een in economisch opzicht homogene groep van producten, die als voorwerp van calculatie wordt gekozen;
 
-- **kredietwaardigheidsoordeel:** rating als bedoeld in artikel 3, eerste lid, onderdeel a, van [Verordening 1060/2009](32009R1060);
+- *kredietwaardigheidsoordeel:* rating als bedoeld in artikel 3, eerste lid, onderdeel a, van Verordening 1060/2009;
 
-- **kredietbeoordelingsbureau:** een in de Europese Unie geregistreerd ratingbureau overeenkomstig [Verordening 1060/2009](32009R1060);
+- *kredietbeoordelingsbureau:* een in de Europese Unie geregistreerd ratingbureau overeenkomstig Verordening 1060/2009;
 
-- **landbouwvrijstellingsverordening:** [Verordening (EU) 2022/2472](32022R2472) van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2022, L 327);
+- *landbouwvrijstellingsverordening:*
+ Verordening (EU) 2022/2472 van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2022, L 327);
 
-- **minister:**
+- *minister:*
 
-  - a. Minister van Economische Zaken;
+   - a. Minister van Economische Zaken;
 
-  - b. Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, in overleg met de Minister van Economische Zaken, indien het subsidie betreft die aan een instituut wordt verleend ten laste van de begroting van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur;
+   - b. Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, in overleg met de Minister van Economische Zaken, indien het subsidie betreft die aan een instituut wordt verleend ten laste van de begroting van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-  - c. Minister van Volksgezondheid, Welzijn en Sport, in overleg met de Minister van Economische Zaken en de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, indien het subsidie betreft die aan een instituut wordt verleend ten laste van de begroting van het Ministerie van Volksgezondheid, Welzijn en Sport; of
+   - c. Minister van Volksgezondheid, Welzijn en Sport, in overleg met de Minister van Economische Zaken en de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, indien het subsidie betreft die aan een instituut wordt verleend ten laste van de begroting van het Ministerie van Volksgezondheid, Welzijn en Sport; of
 
-  - d. Minister van Infrastructuur en Waterstaat, in overleg met de Minister van Economische Zaken, indien het subsidie betreft die aan een instituut wordt verleend ten laste van de begroting van het Ministerie van Infrastructuur en Waterstaat;
+   - d. Minister van Infrastructuur en Waterstaat, in overleg met de Minister van Economische Zaken, indien het subsidie betreft die aan een instituut wordt verleend ten laste van de begroting van het Ministerie van Infrastructuur en Waterstaat;
 
-  - e. Minister van Klimaat en Groene Groei, in overleg met de Minister van Economische Zaken, indien het subsidie betreft die aan een instituut wordt verleend ten laste van de programmabegroting van de Minister van Klimaat en Groene Groei.
+   - e. Minister van Klimaat en Groene Groei, in overleg met de Minister van Economische Zaken, indien het subsidie betreft die aan een instituut wordt verleend ten laste van de programmabegroting van de Minister van Klimaat en Groene Groei.
 
-- **onderzoeksinfrastructuur:** onderzoeksinfrastructuur als bedoeld in paragraaf 1.3, onderdeel 16, onder gg, van de O&O&I-kaderregeling;
+- *onderzoeksinfrastructuur:* onderzoeksinfrastructuur als bedoeld in paragraaf 1.3, onderdeel 16, onder gg, van de O&O&I-kaderregeling;
 
-- **onderzoeksprogramma:** programma dat bestaat uit een samenstel van activiteiten gericht op het realiseren van een of meer onderzoeks-, ontwikkelings-, of innovatiedoelstellingen;
+- *onderzoeksprogramma:* programma dat bestaat uit een samenstel van activiteiten gericht op het realiseren van een of meer onderzoeks-, ontwikkelings-, of innovatiedoelstellingen;
 
-- **O&O&I-kaderregeling:** Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2022/C 414/01 (PbEU 2022, C 414);
+- *O&O&I-kaderregeling:* Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2022/C 414/01 (PbEU 2022, C 414);
 
-- **programmasubsidie:** geldmiddelen die de minister ter beschikking stelt voor de uitvoering van:
+- *programmasubsidie:* geldmiddelen die de minister ter beschikking stelt voor de uitvoering van:
 
-  - a. onderzoeksprogramma’s, of
+   - a. onderzoeksprogramma’s, of
 
-  - b. programma’s voor wettelijke onderzoekstaken;
+   - b. programma’s voor wettelijke onderzoekstaken;
 
-- **rentecap:** derivaat tussen twee partijen inzake een financiering, waarbij de koper tegen betaling van een geldsom gedurende een bij dat derivaat overeengekomen periode de garantie van een maximaal te betalen rentetarief verkrijgt;
+- *rentecap:* derivaat tussen twee partijen inzake een financiering, waarbij de koper tegen betaling van een geldsom gedurende een bij dat derivaat overeengekomen periode de garantie van een maximaal te betalen rentetarief verkrijgt;
 
-- **renteswap:** derivaat tussen twee partijen om gedurende een bij dat derivaat overeengekomen vastgestelde periode kasstromen in de vorm van rentebetalingen uit te wisselen;
+- *renteswap:* derivaat tussen twee partijen om gedurende een bij dat derivaat overeengekomen vastgestelde periode kasstromen in de vorm van rentebetalingen uit te wisselen;
 
-- **valutaoptie:** derivaat tussen twee partijen waarbij sprake is van een eenzijdige verplichting van de ene contractpartij en daartegenover een eenzijdig recht van de andere contractpartij waarbij de laatstgenoemde tegen een vastgestelde valutakoers een valutatransactie mag afsluiten;
+- *valutaoptie:* derivaat tussen twee partijen waarbij sprake is van een eenzijdige verplichting van de ene contractpartij en daartegenover een eenzijdig recht van de andere contractpartij waarbij de laatstgenoemde tegen een vastgestelde valutakoers een valutatransactie mag afsluiten;
 
-- **valutatermijncontract:** derivaat tussen twee partijen, waarbij zij een wederzijdse verplichting aangaan om op enig tijdstip in de toekomst een vooraf bepaald bedrag in een valuta te ruilen tegen een vooraf bepaald bedrag in een andere valuta;
+- *valutatermijncontract:* derivaat tussen twee partijen, waarbij zij een wederzijdse verplichting aangaan om op enig tijdstip in de toekomst een vooraf bepaald bedrag in een valuta te ruilen tegen een vooraf bepaald bedrag in een andere valuta;
 
-- **Verordening 1060/2009:** [Verordening (EG) nr. 1060/2009](32009R1060) van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus (PbEU 2009, L 302);
+- *Verordening 1060/2009:*
+ Verordening (EG) nr. 1060/2009 van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus (PbEU 2009, L 302);
 
-- **Verordening 651/2014:** Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
+- *Verordening 651/2014:* Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
 
-- **visserijvrijstellingsverordening:** [Verordening (EU) 2022/2473](32022R2473) van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun voor ondernemingen die actief zijn in de productie, de verwerking en de afzet van visserij- en aquacultuurproducten, op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2022, L 327);
+- *visserijvrijstellingsverordening:*
+ Verordening (EU) 2022/2473 van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun voor ondernemingen die actief zijn in de productie, de verwerking en de afzet van visserij- en aquacultuurproducten, op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2022, L 327);
 
-- **wettelijke onderzoekstaak:** niet economische dienst van algemeen belang in de vorm van onderzoek, advisering of inzet van onderzoeksfaciliteiten, onlosmakelijk verbonden met de uitoefening van taken, met inbegrip van de uitoefening van openbaar gezag, door de minister of andere ministers die het aangaat of instellingen of organen van de Europese Unie, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) en ingericht en gefinancierd overeenkomstig de aanwijzingen en vergoedingen die door de minister worden vastgesteld overeenkomstig deze regeling.
+- *wettelijke onderzoekstaak:* niet economische dienst van algemeen belang in de vorm van onderzoek, advisering of inzet van onderzoeksfaciliteiten, onlosmakelijk verbonden met de uitoefening van taken, met inbegrip van de uitoefening van openbaar gezag, door de minister of andere ministers die het aangaat of instellingen of organen van de Europese Unie, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-08-22&g=2026-08-22) en ingericht en gefinancierd overeenkomstig de aanwijzingen en vergoedingen die door de minister worden vastgesteld overeenkomstig deze regeling.
 
 ##### Artikel 2
 
@@ -112,11 +114,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het instituut legt eenmaal per vier jaren een strategisch plan ter goedkeuring voor aan de minister. De goedkeuring geschiedt, in afwijking van de begripsbepaling van minister in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-07-14&g=2026-07-14), door de minister die op basis van deze regeling instituutssubsidie verstrekt aan het instituut.
+1. Het instituut legt eenmaal per vier jaren een strategisch plan ter goedkeuring voor aan de minister. De goedkeuring geschiedt, in afwijking van de begripsbepaling van minister in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-08-22&g=2026-08-22), door de minister die op basis van deze regeling instituutssubsidie verstrekt aan het instituut.
 
 2. De minister richt zich bij de beoordeling en goedkeuring van dit plan op de publieke taken van het instituut, de voorgenomen besteding van publieke gelden voor kennisontwikkeling en publiek-private samenwerking en de economische activiteiten voor zover die van directe invloed zijn op de publieke taken.
 
-3. Een strategisch plan wordt uiterlijk ingediend op 31 mei van het boekjaar voorafgaand aan het eerste boekjaar waarop het strategisch plan betrekking heeft.
+3. Een strategisch plan wordt uiterlijk ingediend op 31 mei van het boekjaar voorafgaand aan het eerste boekjaar waarop het strategisch plan betrekking heeft.
 
 4. In het strategisch plan beschrijft het instituut in elk geval:
 
@@ -140,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 - j. mogelijkheden voor onderlinge samenwerking met andere instituten.
 
-5. De minister beslist, in overeenstemming met de minister die het mede aangaat, uiterlijk op 31 juli van het boekjaar voorafgaand aan het eerste boekjaar waarop het strategisch plan betrekking heeft over de goedkeuring van het strategisch plan.
+5. De minister beslist, in overeenstemming met de minister die het mede aangaat, uiterlijk op 31 juli van het boekjaar voorafgaand aan het eerste boekjaar waarop het strategisch plan betrekking heeft over de goedkeuring van het strategisch plan.
 
 ##### Artikel 4
 
@@ -150,15 +152,15 @@ In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten
 
 - b. een weergave van de omvang van de economische activiteiten, uitgedrukt in:
 
-  - 1°. het aantal uren dat onderzoeksinfrastructuur waarvoor instituutssubsidie wordt aangewend binnen de reikwijdte van de definitie van instituutssubsidie in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-07-14&g=2026-07-14), in werking zal zijn,
+   - 1°. het aantal uren dat onderzoeksinfrastructuur waarvoor instituutssubsidie wordt aangewend binnen de reikwijdte van de definitie van instituutssubsidie in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-08-22&g=2026-08-22), in werking zal zijn,
 
-  - 2°. de hoeveelheid voltijdsequivalent die op een bepaald onderzoeksprogramma, waarvoor programmasubsidie wordt aangewend, binnen de reikwijdte van de definitie van programmasubsidie in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-07-14&g=2026-07-14), wordt ingezet, en
+   - 2°. de hoeveelheid voltijdsequivalent die op een bepaald onderzoeksprogramma, waarvoor programmasubsidie wordt aangewend, binnen de reikwijdte van de definitie van programmasubsidie in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-08-22&g=2026-08-22), wordt ingezet, en
 
-  - 3°. het aantal uren dat een afzonderlijke entiteit onderzoeksinfrastructuur waarvoor infrastructuursubsidie wordt aangewend in werking zal zijn,
+   - 3°. het aantal uren dat een afzonderlijke entiteit onderzoeksinfrastructuur waarvoor infrastructuursubsidie wordt aangewend in werking zal zijn,
 
-- c. een raming van de opbrengsten van de economische activiteiten, uitgedrukt in kosten die in rekening worden gebracht overeenkomstig [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=8&z=2026-07-14&g=2026-07-14), verhoogd met een redelijke winstopslag, voor zover deze opslag van toepassing is, en
+- c. een raming van de opbrengsten van de economische activiteiten, uitgedrukt in kosten die in rekening worden gebracht overeenkomstig [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=8&z=2026-08-22&g=2026-08-22), verhoogd met een redelijke winstopslag, voor zover deze opslag van toepassing is, en
 
-- d. een beschrijving van de methode, bedoeld in [artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-07-14&g=2026-07-14), die het instituut gebruikt bij economische activiteiten en hoe deze wordt toegepast, zodat het instituut bewerkstelligt dat het voldoet aan de verplichtingen, bedoeld in artikel 29, eerste lid.
+- d. een beschrijving van de methode, bedoeld in [artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-08-22&g=2026-08-22), die het instituut gebruikt bij economische activiteiten en hoe deze wordt toegepast, zodat het instituut bewerkstelligt dat het voldoet aan de verplichtingen, bedoeld in artikel 29, eerste lid.
 
 ##### Artikel 5
 
@@ -182,7 +184,7 @@ In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten
 
 - c. kosten van gebouwen en gronden;
 
-- d. kosten van contractonderzoek, kennis en octrooien die overeenkomstig de voorwaarden, bedoeld in [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=27&z=2026-07-14&g=2026-07-14), worden gekocht bij of waarvoor een licentie wordt verleend door externe bronnen, alsmede kosten voor consultancy en gelijkwaardige diensten, en
+- d. kosten van contractonderzoek, kennis en octrooien die overeenkomstig de voorwaarden, bedoeld in [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=27&z=2026-08-22&g=2026-08-22), worden gekocht bij of waarvoor een licentie wordt verleend door externe bronnen, alsmede kosten voor consultancy en gelijkwaardige diensten, en
 
 - e. bijkomende algemene kosten en andere operationele uitgaven, waaronder die voor materiaal, leveranties en dergelijke producten.
 
@@ -214,7 +216,7 @@ In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten
 
 1. De minister verstrekt op aanvraag instituutssubsidie aan een instituut voor de verwezenlijking van de doelstellingen van een door de minister goedgekeurd strategisch plan.
 
-2. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=2&z=2026-07-14&g=2026-07-14) bij deze regeling per instituut het subsidieplafond bekend voor de instituutssubsidie in het aankomende boekjaar of de aankomende boekjaren.
+2. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=2&z=2026-08-22&g=2026-08-22) bij deze regeling per instituut het subsidieplafond bekend voor de instituutssubsidie in het aankomende boekjaar of de aankomende boekjaren.
 
 ##### Artikel 10
 
@@ -238,7 +240,7 @@ De minister verstrekt, in overeenstemming met de minister die het mede aangaat, 
 
 ##### Artikel 12
 
-1. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=3&z=2026-07-14&g=2026-07-14) bij deze regeling de onderzoeksthema’s en de subsidieplafonds bekend voor de programmasubsidies in het aankomende boekjaar of de aankomende boekjaren.
+1. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=3&z=2026-08-22&g=2026-08-22) bij deze regeling de onderzoeksthema’s en de subsidieplafonds bekend voor de programmasubsidies in het aankomende boekjaar of de aankomende boekjaren.
 
 2. De minister stelt een subsidieplafond vast voor een instituut binnen een bepaald onderzoeksprogramma met een bepaald onderzoeksthema, of programma voor wettelijke onderzoekstaken.
 
@@ -280,11 +282,11 @@ Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstr
 
 1. De minister verstrekt, in overeenstemming met de minister die het mede aangaat, op aanvraag infrastructuursubsidie aan een instituut.
 
-2. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=4&z=2026-07-14&g=2026-07-14) bij deze regeling per instituut het subsidieplafond bekend voor infrastructuursubsidie in het aankomende boekjaar of de aankomende boekjaren.
+2. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=4&z=2026-08-22&g=2026-08-22) bij deze regeling per instituut het subsidieplafond bekend voor infrastructuursubsidie in het aankomende boekjaar of de aankomende boekjaren.
 
 ##### Artikel 18
 
-1. De infrastructuursubsidie bedraagt 100 procent van de subsidiabele kosten, voor zover het instituut bij het verrichten van economische activiteiten waarvoor infrastructuursubsidie wordt aangewend, voldoet aan [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-07-14&g=2026-07-14).
+1. De infrastructuursubsidie bedraagt 100 procent van de subsidiabele kosten, voor zover het instituut bij het verrichten van economische activiteiten waarvoor infrastructuursubsidie wordt aangewend, voldoet aan [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-08-22&g=2026-08-22).
 
 2. Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor subsidiabele kosten die gefinancierd kunnen worden uit een infrastructuursubsidie, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies de subsidiabele kosten niet overschrijdt.
 
@@ -300,7 +302,7 @@ De minister wijst een aanvraag om subsidie af voor zover:
 
 - a. het activiteitenplan niet voldoende aansluit bij de doelstellingen van het strategisch plan;
 
-- b. het activiteitenplan onvoldoende aansluit bij de definitie van instituut in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-07-14&g=2026-07-14) en de vereisten en activiteiten waaraan in deze definitie wordt gerefereerd;
+- b. het activiteitenplan onvoldoende aansluit bij de definitie van instituut in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-08-22&g=2026-08-22) en de vereisten en activiteiten waaraan in deze definitie wordt gerefereerd;
 
 - c. de activiteiten in een onderzoeksprogramma met voldoende diepgang door de markt kunnen worden opgepakt;
 
@@ -310,7 +312,7 @@ De minister wijst een aanvraag om subsidie af voor zover:
 
 #### § 6. Subsidieverplichtingen
 
-#### § 6.1. Algemeen
+##### § 6.1. Algemeen
 
 ##### Artikel 21
 
@@ -320,7 +322,7 @@ De minister wijst een aanvraag om subsidie af voor zover:
 
 1. Een instituut maakt uiterlijk twaalf weken na afloop van het boekjaar alle resultaten die zijn behaald met activiteiten waarvoor in dat boekjaar subsidie is verstrekt openbaar, voor zover hierop geen intellectuele eigendomsrechten zijn of zullen worden gevestigd.
 
-2. Een instituut stelt uiterlijk twaalf weken na afloop van het boekjaar alle resultaten die zijn behaald met activiteiten waarvoor in dat boekjaar subsidie is verstrekt waarop intellectuele eigendomsrechten rusten beschikbaar aan derden tegen redelijke tarieven en voorwaarden. Indien een derde een onderneming is, geldt als redelijk tarief de marktprijs, berekend overeenkomstig [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=27&z=2026-07-14&g=2026-07-14).
+2. Een instituut stelt uiterlijk twaalf weken na afloop van het boekjaar alle resultaten die zijn behaald met activiteiten waarvoor in dat boekjaar subsidie is verstrekt waarop intellectuele eigendomsrechten rusten beschikbaar aan derden tegen redelijke tarieven en voorwaarden. Indien een derde een onderneming is, geldt als redelijk tarief de marktprijs, berekend overeenkomstig [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=27&z=2026-08-22&g=2026-08-22).
 
 3. In afwijking van het eerste en tweede lid kan de minister, in overeenstemming met de minister die het mede aangaat, voor zover dit noodzakelijk is voor de bescherming van wezenlijke belangen voor de veiligheid van de staat, de openbare orde, de openbare veiligheid, of indien er sprake is van een bedrijfsgeheim:
 
@@ -342,19 +344,19 @@ Indien een instituut inkomsten verwerft uit activiteiten die met instituutssubsi
 
 Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, onderdelen b, i en j, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71).
 
-#### § 6.2. Staatssteun
+##### § 6.2. Staatssteun
 
 ##### Artikel 25
 
 1. Het is verboden instituutssubsidie aan te wenden voor:
 
-- a. de financiering of het verrichten van economische activiteiten door het instituut, voor zover de subsidie wordt aangewend voor de activiteiten, bedoeld in de definitie van instituutssubsidie in [artikel 1, onderdelen a, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-07-14&g=2026-07-14), en
+- a. de financiering of het verrichten van economische activiteiten door het instituut, voor zover de subsidie wordt aangewend voor de activiteiten, bedoeld in de definitie van instituutssubsidie in [artikel 1, onderdelen a, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-08-22&g=2026-08-22), en
 
-- b. de financiering van economische activiteiten door het instituut, voor zover de subsidie wordt aangewend voor de activiteiten, bedoeld in de definitie van instituutssubsidie in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-07-14&g=2026-07-14).
+- b. de financiering van economische activiteiten door het instituut, voor zover de subsidie wordt aangewend voor de activiteiten, bedoeld in de definitie van instituutssubsidie in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-08-22&g=2026-08-22).
 
 2. Het is verboden programmasubsidie aan te wenden voor:
 
-- a. de financiering van economische activiteiten door het instituut, voor zover de subsidie wordt aangewend voor onderzoeksprogramma’s als bedoeld in de definitie van programmasubsidie in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-07-14&g=2026-07-14), en
+- a. de financiering van economische activiteiten door het instituut, voor zover de subsidie wordt aangewend voor onderzoeksprogramma’s als bedoeld in de definitie van programmasubsidie in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-08-22&g=2026-08-22), en
 
 - b. de financiering of het verrichten van economische activiteiten door het instituut, voor zover de subsidie wordt aangewend voor programma’s voor wettelijke onderzoekstaken als bedoeld in de definitie van programmasubsidie in artikel 1, onderdeel b.
 
@@ -362,11 +364,11 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 ##### Artikel 26
 
-1. Voor zover het instituut personeel, apparatuur of andere faciliteiten ter beschikking stelt aan een derde, anders dan in de vorm van een samenwerking als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=27&z=2026-07-14&g=2026-07-14), of door middel van het verrichten van economische activiteiten als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=28&z=2026-07-14&g=2026-07-14), brengt het instituut:
+1. Voor zover het instituut personeel, apparatuur of andere faciliteiten ter beschikking stelt aan een derde, anders dan in de vorm van een samenwerking als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=27&z=2026-08-22&g=2026-08-22), of door middel van het verrichten van economische activiteiten als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=28&z=2026-08-22&g=2026-08-22), brengt het instituut:
 
 - a. indien er sprake is van niet-economische activiteiten, de kosten in rekening die samenhangen met het gebruik van deze middelen, en
 
-- b. indien er sprake is van economische activiteiten, de marktprijs in rekening, berekend overeenkomstig het tarief, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=28&z=2026-07-14&g=2026-07-14).
+- b. indien er sprake is van economische activiteiten, de marktprijs in rekening, berekend overeenkomstig het tarief, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=28&z=2026-08-22&g=2026-08-22).
 
 2. Artikel 8 is van overeenkomstige toepassing.
 
@@ -378,13 +380,13 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 - b. draagt het instituut er zorg voor dat:
 
-  - 1°. de deelnemende ondernemingen de volledige kosten van de activiteiten dragen;
+   - 1°. de deelnemende ondernemingen de volledige kosten van de activiteiten dragen;
 
-  - 2°. de resultaten van de activiteiten waaraan geen intellectuele eigendomsrechten kunnen worden ontleend, ruim mogen worden verspreid en eventuele intellectuele eigendomsrechten die uit de activiteiten van het instituut voortvloeien, volledig aan hem worden toegekend;
+   - 2°. de resultaten van de activiteiten waaraan geen intellectuele eigendomsrechten kunnen worden ontleend, ruim mogen worden verspreid en eventuele intellectuele eigendomsrechten die uit de activiteiten van het instituut voortvloeien, volledig aan hem worden toegekend;
 
-  - 3°. uit de activiteiten ontstane intellectuele eigendomsrechten, alsmede daarmee verband houdende toegangsrechten, aan de verschillende samenwerkende deelnemers worden toegekend op een wijze die een passende afspiegeling is van hun werkpakketten, bijdragen en respectieve belangen, of
+   - 3°. uit de activiteiten ontstane intellectuele eigendomsrechten, alsmede daarmee verband houdende toegangsrechten, aan de verschillende samenwerkende deelnemers worden toegekend op een wijze die een passende afspiegeling is van hun werkpakketten, bijdragen en respectieve belangen, of
 
-  - 4°. het van de deelnemende ondernemingen een vergoeding ontvangt die overeenstemt met de marktprijs voor de intellectuele eigendomsrechten die voortvloeien uit het samenwerkingsproject die worden overgedragen aan de deelnemende ondernemingen.
+   - 4°. het van de deelnemende ondernemingen een vergoeding ontvangt die overeenstemt met de marktprijs voor de intellectuele eigendomsrechten die voortvloeien uit het samenwerkingsproject die worden overgedragen aan de deelnemende ondernemingen.
 
 2. Het absolute bedrag van financiële en niet-financiële bijdragen van de deelnemende ondernemingen in de kosten van de activiteiten van het instituut die de betrokken intellectuele eigendomsrechten hebben opgeleverd, kan op de vergoeding, bedoeld in het eerste lid, onderdeel b, onder 4°, in mindering worden gebracht.
 
@@ -410,9 +412,9 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 - b. wanneer er geen markttarief is, zijn onderzoeksdienst of contractonderzoek verricht tegen een tarief dat:
 
-  - 1°. de volledige kosten van de dienst weergeeft en in het algemeen een marge omvat die is vastgesteld aan de hand van de marges die doorgaans worden gehanteerd door ondernemingen die in de sector van de betrokken dienst actief zijn, of
+   - 1°. de volledige kosten van de dienst weergeeft en in het algemeen een marge omvat die is vastgesteld aan de hand van de marges die doorgaans worden gehanteerd door ondernemingen die in de sector van de betrokken dienst actief zijn, of
 
-  - 2°. de uitkomst is van onderhandelingen, waarbij het instituut, in zijn hoedanigheid van dienstverrichter, onderhandelt om het maximale economische voordeel binnen te halen op het tijdstip dat het contract wordt afgesloten en ten minste haar marginale kosten gedekt zijn.
+   - 2°. de uitkomst is van onderhandelingen, waarbij het instituut, in zijn hoedanigheid van dienstverrichter, onderhandelt om het maximale economische voordeel binnen te halen op het tijdstip dat het contract wordt afgesloten en ten minste haar marginale kosten gedekt zijn.
 
 2. De uitkomst van onderhandelingen als bedoeld in het eerste lid, onderdeel b, onder 2 °, wijken niet af van uitkomsten die onafhankelijke ondernemingen overeen zouden komen en behelzen geen enkele vorm van heimelijke verstandhouding.
 
@@ -426,11 +428,11 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 - a. de totale omvang van economische activiteiten die door het instituut worden ontplooid, bedraagt voor het desbetreffende boekjaar ten hoogste 20 procent van:
 
-  - 1°. het aantal uren dat de onderzoeksinfrastructuur waarvoor instituutssubsidie wordt aangewend, in werking is geweest, en
+   - 1°. het aantal uren dat de onderzoeksinfrastructuur waarvoor instituutssubsidie wordt aangewend, in werking is geweest, en
 
-  - 2°. de hoeveelheid voltijdsequivalent die door een instituut op een bepaald onderzoeksprogramma waarvoor programmasubsidie wordt aangewend in dat boekjaar wordt ingezet;
+   - 2°. de hoeveelheid voltijdsequivalent die door een instituut op een bepaald onderzoeksprogramma waarvoor programmasubsidie wordt aangewend in dat boekjaar wordt ingezet;
 
-- b. de economische activiteiten en de daarvoor ingezette financiële middelen voldoen aan de vereisten opgenomen in [Verordening 651/2014](32014R0651), de landbouwvrijstellingsverordening of de visserijvrijstellingsverordening, of
+- b. de economische activiteiten en de daarvoor ingezette financiële middelen voldoen aan de vereisten opgenomen in Verordening 651/2014, de landbouwvrijstellingsverordening of de visserijvrijstellingsverordening, of
 
 - c. de economische activiteiten en de daarvoor ingezette financiële middelen voldoen aan een voorafgaande goedkeuring die de Europese Commissie heeft verstrekt overeenkomstig artikel 108, derde lid, in samenhang met artikel 107, tweede en derde lid, van het Verdrag betreffende de werking van de Europese Unie voor de steunmaatregel die het instituut heeft ingesteld.
 
@@ -438,7 +440,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 4. Het tweede lid, onderdeel a, en het derde lid, zijn alleen toepasbaar voor zover de economische activiteiten die in dit kader worden verricht zuiver ondersteunend blijven, doordat precies dezelfde input wordt gebruikt als voor de niet-economische activiteiten.
 
-5. Indien in het activiteitenplan de methode, genoemd in het tweede lid, onderdeel b, wordt toegepast, verzoekt het instituut de minister om zorg te dragen voor de verslaglegging als bedoeld in artikel 11 van [Verordening 651/2014](32014R0651), artikel 11 van de landbouwvrijstellingsverordening of artikel 11 van de visserijvrijstellingsverordening.
+5. Indien in het activiteitenplan de methode, genoemd in het tweede lid, onderdeel b, wordt toegepast, verzoekt het instituut de minister om zorg te dragen voor de verslaglegging als bedoeld in artikel 11 van Verordening 651/2014, artikel 11 van de landbouwvrijstellingsverordening of artikel 11 van de visserijvrijstellingsverordening.
 
 6. Indien in het activiteitenplan de methode, genoemd in het tweede lid, onderdeel c, wordt toegepast, verzoekt het instituut de minister om zorg te dragen voor de aanmelding overeenkomstig artikel 108, derde lid, van het Verdrag betreffende de werking van de Europese Unie.
 
@@ -456,7 +458,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 - d. het aantal uren dat per persoon is besteed aan de activiteiten die voor subsidie in aanmerking komen, en
 
-- e. de berekening en samenstelling van het tarief, bedoeld in [artikel 8, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=8&z=2026-07-14&g=2026-07-14).
+- e. de berekening en samenstelling van het tarief, bedoeld in [artikel 8, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=8&z=2026-08-22&g=2026-08-22).
 
 2. De inrichting van de administratie sluit aan bij de bij de aanvraag ingediende begroting en activiteitenplan.
 
@@ -464,21 +466,21 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 4. In de administratie wordt een onderscheid gemaakt tussen economische en niet-economische activiteiten die het instituut uitoefent en de kosten en de financiering hiervan.
 
-5. In de administratie wordt de methode verwerkt die overeenkomstig [artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-07-14&g=2026-07-14), is toegepast door het instituut overeenkomstig de verplichtingen die voortvloeien uit de kaders, bedoeld in artikel 29, eerste lid.
+5. In de administratie wordt de methode verwerkt die overeenkomstig [artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-08-22&g=2026-08-22), is toegepast door het instituut overeenkomstig de verplichtingen die voortvloeien uit de kaders, bedoeld in artikel 29, eerste lid.
 
 ##### Artikel 31
 
-1. Indien uit de administratie, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-07-14&g=2026-07-14), blijkt dat het maximumpercentage als bedoeld in[artikel 29, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-07-14&g=2026-07-14), is overschreden in het desbetreffende boekjaar, neemt het instituut in het boekjaar volgend op het boekjaar waarin de overtreding is begaan, een voorziening ten laste van het eigen vermogen ter grootte van een percentage van de instituutssubsidie die is verleend in het boekjaar waarin de overtreding is begaan. Dit percentage wordt bepaald door het percentage, berekend op basis van artikel 29, tweede lid, onderdeel a, onder 1°, te vermenigvuldigen met 0,5.
+1. Indien uit de administratie, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-08-22&g=2026-08-22), blijkt dat het maximumpercentage als bedoeld in[artikel 29, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-08-22&g=2026-08-22), is overschreden in het desbetreffende boekjaar, neemt het instituut in het boekjaar volgend op het boekjaar waarin de overtreding is begaan, een voorziening ten laste van het eigen vermogen ter grootte van een percentage van de instituutssubsidie die is verleend in het boekjaar waarin de overtreding is begaan. Dit percentage wordt bepaald door het percentage, berekend op basis van artikel 29, tweede lid, onderdeel a, onder 1°, te vermenigvuldigen met 0,5.
 
-2. Indien uit de administratie, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=30&z=2026-07-14&g=2026-07-14), blijkt dat het maximumpercentage als bedoeld in [artikel 29, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-07-14&g=2026-07-14), voor een bepaald onderzoeksprogramma is overschreden in het desbetreffende boekjaar, neemt het instituut in het boekjaar volgend op het boekjaar waarin de overtreding is begaan, een voorziening ten laste van het eigen vermogen ter grootte van een percentage van de programmasubsidie die voor dat onderzoeksprogramma is verleend in het boekjaar waarin de overtreding is begaan. Dit percentage wordt bepaald door het percentage, berekend op basis van artikel 29, tweede lid, onderdeel a, onder 2°, te vermenigvuldigen met 0,6.
+2. Indien uit de administratie, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=30&z=2026-08-22&g=2026-08-22), blijkt dat het maximumpercentage als bedoeld in [artikel 29, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-08-22&g=2026-08-22), voor een bepaald onderzoeksprogramma is overschreden in het desbetreffende boekjaar, neemt het instituut in het boekjaar volgend op het boekjaar waarin de overtreding is begaan, een voorziening ten laste van het eigen vermogen ter grootte van een percentage van de programmasubsidie die voor dat onderzoeksprogramma is verleend in het boekjaar waarin de overtreding is begaan. Dit percentage wordt bepaald door het percentage, berekend op basis van artikel 29, tweede lid, onderdeel a, onder 2°, te vermenigvuldigen met 0,6.
 
-3. Indien uit de administratie, bedoeld in artikel 30, blijkt dat het maximumpercentage als bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-07-14&g=2026-07-14), voor een afzonderlijke entiteit onderzoeksinfrastructuur is overschreden in het desbetreffende boekjaar, neemt het instituut in het boekjaar volgend op het boekjaar waarin de overtreding is begaan, een voorziening ten laste van het eigen vermogen ter grootte van een percentage van de infrastructuursubsidie die voor die onderzoeksinfrastructuur is verleend in het boekjaar waarin de overtreding is begaan. Dit percentage wordt bepaald door het percentage, berekend op basis van artikel 29, derde lid, te vermenigvuldigen met 0,5.
+3. Indien uit de administratie, bedoeld in artikel 30, blijkt dat het maximumpercentage als bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-08-22&g=2026-08-22), voor een afzonderlijke entiteit onderzoeksinfrastructuur is overschreden in het desbetreffende boekjaar, neemt het instituut in het boekjaar volgend op het boekjaar waarin de overtreding is begaan, een voorziening ten laste van het eigen vermogen ter grootte van een percentage van de infrastructuursubsidie die voor die onderzoeksinfrastructuur is verleend in het boekjaar waarin de overtreding is begaan. Dit percentage wordt bepaald door het percentage, berekend op basis van artikel 29, derde lid, te vermenigvuldigen met 0,5.
 
-4. Indien uit de administratie, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=30&z=2026-07-14&g=2026-07-14), blijkt dat de economische activiteiten en de daarvoor ingezette financiële middelen niet of slechts gedeeltelijk voldoen aan de vereisten opgenomen in [Verordening 651/2014](32014R0651), de landbouwvrijstellingsverordening, de visserijvrijstellingsverordening of aan de vereisten verbonden aan de goedkeuring die de Europese Commissie heeft verstrekt overeenkomstig artikel 108, derde lid, in samenhang met artikel 107, tweede en derde lid, van het Verdrag betreffende de werking van de Europese Unie, informeert het instituut de minister over deze overtreding en geeft daarbij de omvang weer van het bedrag dat niet in overeenstemming is met de vereisten en het boekjaar waarin deze overtreding heeft plaatsgevonden.
+4. Indien uit de administratie, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=30&z=2026-08-22&g=2026-08-22), blijkt dat de economische activiteiten en de daarvoor ingezette financiële middelen niet of slechts gedeeltelijk voldoen aan de vereisten opgenomen in Verordening 651/2014, de landbouwvrijstellingsverordening, de visserijvrijstellingsverordening of aan de vereisten verbonden aan de goedkeuring die de Europese Commissie heeft verstrekt overeenkomstig artikel 108, derde lid, in samenhang met artikel 107, tweede en derde lid, van het Verdrag betreffende de werking van de Europese Unie, informeert het instituut de minister over deze overtreding en geeft daarbij de omvang weer van het bedrag dat niet in overeenstemming is met de vereisten en het boekjaar waarin deze overtreding heeft plaatsgevonden.
 
 5. Bij de toepassing van [artikel 7 van de Kaderwet EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=7) op grond van de informatie, bedoeld in het vierde lid, kan de minister overgaan tot verrekening met de verstrekte subsidie in het boekjaar volgend op het boekjaar waarin de overtreding is begaan. De minister doet daarvan uitdrukkelijk mededeling in de beschikking tot subsidievaststelling en maakt deze verrekening openbaar.
 
-#### § 6.3. Derivaten
+##### § 6.3. Derivaten
 
 ##### Artikel 32
 
@@ -582,7 +584,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 1. De opdracht, bedoeld in [artikel 4:78, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78) strekt tevens tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen.
 
-2. Het onderzoek, bedoeld in het eerste lid, vindt plaats overeenkomstig het controleprotocol, opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=5&z=2026-07-14&g=2026-07-14) bij deze regeling.
+2. Het onderzoek, bedoeld in het eerste lid, vindt plaats overeenkomstig het controleprotocol, opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=5&z=2026-08-22&g=2026-08-22) bij deze regeling.
 
 ##### Artikel 43
 
@@ -601,6 +603,10 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 7. Indien niet voldaan wordt aan het zesde lid, wordt het overschot in mindering gebracht op de hoogte van de subsidie in het hierop volgende boekjaar.
 
 8. De minister kan op aanvraag van het instituut besluiten het zevende lid in een bepaald boekjaar niet toe te passen indien het aannemelijk is dat de subsidiabele kosten alsnog zullen worden gemaakt in het daaropvolgende boekjaar.
+
+##### Artikel 43a
+
+Indien de subsidie voor twee of meer boekjaren wordt verleend en de betreffende subsidiabele activiteiten moesten niet in het voorgaande boekjaar worden afgerond, wordt de subsidie ambtshalve vastgesteld binnen dertien weken na het verstrekken van de gegevens bedoeld in [artikel 4:67, tweede lid, van de algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:67).
 
 #### § 10. Evaluatie
 
@@ -622,7 +628,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 - b. de [Subsidieregeling NLR](https://wetten.overheid.nl/jci1.3:c:BWBR0027612), blijft de oude regeling van toepassing zoals deze gold onmiddellijk voorafgaand aan de inwerkingtreding van deze regeling.
 
-3. In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=3&z=2026-07-14&g=2026-07-14) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=2&artikel=9&z=2026-07-14&g=2026-07-14), geldt als strategisch plan voor de boekjaren 2018 tot en met 2021 het strategisch plan van het instituut, zoals dat voorafgaand aan de inwerkingtreding van deze regeling is opgesteld en ter beschikking is gesteld aan de minister en dat op die boekjaren van toepassing is.
+3. In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=3&z=2026-08-22&g=2026-08-22) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=2&artikel=9&z=2026-08-22&g=2026-08-22), geldt als strategisch plan voor de boekjaren 2018 tot en met 2021 het strategisch plan van het instituut, zoals dat voorafgaand aan de inwerkingtreding van deze regeling is opgesteld en ter beschikking is gesteld aan de minister en dat op die boekjaren van toepassing is.
 
 ##### Artikel 46
 
@@ -634,479 +640,12 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 47
 
-Deze regeling vervalt met ingang van 31 januari 2031, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verleend.
+Deze regeling vervalt met ingang van 31 januari 2031, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verleend.
 
 ##### Artikel 48
 
-Deze regeling treedt in werking met ingang van 1 april 2018.
+Deze regeling treedt in werking met ingang van 1 april 2018.
 
 ##### Artikel 49
 
 Deze regeling wordt aangehaald als: Subsidieregeling instituten voor toegepast onderzoek.
-
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2022-07-30&g=2022-07-30) (lijst van wettelijke onderzoekstaken)
-
-### 1.1. Wageningen Research
-
-## Bijlage 2. behorende bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=2&artikel=9&z=2021-12-15&g=2021-12-15) (subsidieplafonds instituutssubsidie)
-
-- 1. **Subsidieplafonds voor instituutssubsidie voor het boekjaar 2021** In onderstaande tabel bevinden zich de subsidieplafonds voor de instituutssubsidie voor het boekjaar 2021.
-
-| Instituut | Subsidieplafond (€) |
-| --- | --- |
-| MARIN | 7.518.000 |
-| Deltares | 20.198.000 |
-| NLR | 26.055.000 |
-| Wageningen Research | 46.500.000 |
-
-- 2. **Subsidieplafonds voor instituutssubsidie voor het boekjaar 2022** In onderstaande tabel bevinden zich de subsidieplafonds voor de instituutssubsidie voor het boekjaar 2022.
-
-| Instituut | Subsidieplafond (€) |
-| --- | --- |
-| MARIN | 6.781.000 |
-| Deltares | 20.198.000 |
-| NLR | 26.055.000 |
-| Wageningen Research | 52.000.000 |
-
-## Bijlage 2. behorende bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=2&artikel=9&z=2022-07-30&g=2022-07-30) (subsidieplafonds instituutssubsidie)
-
-## Bijlage 2. behorende bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=2&artikel=9&z=2026-07-14&g=2026-07-14) (subsidieplafonds instituutssubsidie)
-
-## Bijlage 3. behorende bij [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=3&artikel=12&z=2019-12-04&g=2019-12-04) (subsidieplafonds programmasubsidie)
-
-### 2. Subsidieplafonds voor instituutssubsidie voor het boekjaar 2023
-
-### 1.2. Onderzoeksthema’s voor Wageningen Research
-
-### 1. Subsidieplafonds programmasubsidie voor Deltares
-
-Deltares richt zich op de onderzoeksthema’s die omschreven staan in deze tabel, en de WOT, beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2025-07-26&g=2025-07-26), waarbij de programmasubsidie als volgt wordt verdeeld.
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de infrastructuursubsidie.
-
-### 2. Subsidieplafonds programmasubsidie voor het boekjaar 2022
-
-### Controleprotocol subsidieregeling instituten voor toegepast onderzoek
-
-NLR richt zich op de onderzoeksthema’s die omschreven staan in deze tabel waarbij de programmasubsidie als volgt wordt verdeeld.
-
-Het subsidieplafond voor de programmasubsidie voor het boekjaar 2023 wordt als volgt verdeeld.
-
-Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, belast met de controle van de door de subsidieontvanger bij het Ministerie van Economische Zaken en Klimaat (EZK), het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN), het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) of het Ministerie van Infrastructuur en Waterstaat (IenW) in te dienen aanvraag tot subsidievaststelling ingevolge de Subsidieregeling instituten voor toegepast onderzoek. Het betreft de accountantswerkzaamheden die de accountants van de Toegepaste Onderzoeksorganisaties Wageningen Research, Deltares, NLR en Marin (TO2) uitvoeren ten behoeve van de departementen die deze organisaties financieren door middel van de Instituutssubsidie, Programmasubsidie dan wel Infrastructuursubsidie. Daarnaast kunnen subsidies worden verstrekt voor de uitvoering van wettelijke onderzoekstaken (WOT’s) en voor specifieke activiteiten (projectsubsidies). Financiële afrekening vindt plaats op basis van een aanvraag tot subsidievaststelling zoals bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=41&z=2026-07-14&g=2026-07-14) van de onderhavige subsidieregeling, voorzien van een controleverklaring van de accountant, conform het in dit protocol opgenomen format. Object van het onderzoek van de accountant is het in de aanvraag tot subsidievaststelling opgenomen financieel verslag.
-
-Elk instituut ontvangt jaarlijks een subsidiebeschikking. In deze beschikking kunnen, bovenop de bepalingen zoals die in dit protocol zijn opgenomen, aanvullende eisen worden gesteld met betrekking tot de controle. Die eisen hebben in de betreffende gevallen enkel en alleen betrekking op het desbetreffende instituut. Daarom zijn die eisen niet opgenomen in dit controleprotocol.
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de infrastructuursubsidie voor het boekjaar 2022.
-
-### 1.3. Wet- en regelgeving
-
-### Subsidieplafonds voor infrastructuursubsidie
-
-Bij de uitvoering van de controle stelt de accountant vast dat:
-
-### Controleprotocol subsidieregeling instituten voor toegepast onderzoek
-
-Artikel 8: met een voor het instituut gebruikelijke en controleerbare methode, die is gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die het instituut stelselmatig toepast wordt bedoeld dat deze gebaseerd dient te zijn op de reeds bestaande kostprijssystematiek die ook in het kader van de reguliere jaarrekening van de betreffende instelling wordt gebruikt. Kortom, het is niet toegestaan dat voor het financieel verslag andere grondslagen of methodieken worden gehanteerd dan voor de jaarrekening.
-
-Van de overige artikelen wordt de accountant alleen geacht kennis te hebben genomen, voor zover relevant voor zijn controle.
-
-Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, belast met de controle van de door de subsidieontvanger bij het Ministerie van Economische Zaken en Klimaat (EZK), het Ministerie van Landbouw, Natuur en Voedselkwaliteit (LNV) of het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) in te dienen aanvraag tot subsidievaststelling ingevolge de Subsidieregeling instituten voor toegepast onderzoek. Het betreft de accountantswerkzaamheden die de accountants van de Toegepaste Onderzoeksorganisaties TNO, Wageningen Research, Deltares, ECN, NLR en Marin (TO2) uitvoeren ten behoeve van de departementen die deze organisaties financieren door middel van de Instituutssubsidie, Programmasubsidie dan wel Infrastructuursubsidie. Daarnaast kunnen subsidies worden verstrekt voor de uitvoering van wettelijke onderzoekstaken (WOT’s) en voor specifieke activiteiten (projectsubsidies). Financiële afrekening vindt plaats op basis van een aanvraag tot subsidievaststelling zoals bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=41&z=2022-07-30&g=2022-07-30) van de onderhavige subsidieregeling, voorzien van een controleverklaring van de accountant, conform het in dit protocol opgenomen format. Object van het onderzoek van de accountant is het in de aanvraag tot subsidievaststelling opgenomen financieel verslag.
-
-### 2.1. Eisen voor de controleaanpak
-
-De controle moet voldoen aan de [nadere voorschriften Controle- en overige standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0040523) (NV COS), die door de Nederlandse Beroepsorganisatie van Accountants (NBA) zijn vastgesteld.
-
-### 2.2. Materialiteit
-
-De materialiteit is van toepassing op het oordeel over de financiële rechtmatigheid. Een verklaring met een goedkeurende strekking met betrekking tot de rechtmatigheid impliceert, dat hij met een redelijke mate van zekerheid kan verklaren dat in de verantwoording geen afwijkingen (als gevolg van fouten en fraude, en onzekerheden) voorkomen, die groter zijn dan de percentages in de hieronder opgenomen materialiteitstabel.
-
-### 2.2. Materialiteit: goedkeuringstoleranties en gewenste zekerheid
-
-Bij de uitvoering van de controle stelt de accountant vast dat:
-
-### 1.2. Definities
-
-Artikel 8: met een voor het instituut gebruikelijke en controleerbare methode, die is gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die het instituut stelselmatig toepast wordt bedoeld dat deze gebaseerd dient te zijn op de reeds bestaande kostprijssystematiek die ook in het kader van de reguliere jaarrekening van de betreffende instelling wordt gebruikt. Kortom, het is niet toegestaan dat voor het financieel verslag andere grondslagen of methodieken worden gehanteerd dan voor de jaarrekening.
-
-### 2. Controleaanpak
-
-De controle moet voldoen aan de [nadere voorschriften Controle- en overige standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0040523) (NV COS), die door de Nederlandse Beroepsorganisatie van Accountants (NBA) zijn vastgesteld.
-
-Afgegeven ten behoeve van ... (naam subsidiegever)
-
-### Controleverklaring van de onafhankelijke accountant
-
-Aan: Opdrachtgever
-
-De materialiteit is van toepassing op het oordeel over de financiële rechtmatigheid. Een verklaring met een goedkeurende strekking met betrekking tot de rechtmatigheid impliceert, dat hij met een redelijke mate van zekerheid kan verklaren dat in de verantwoording geen afwijkingen (als gevolg van fouten en fraude, en onzekerheden) voorkomen, die groter zijn dan de percentages in de hieronder opgenomen materialiteitstabel.
-
-Wij hebben bijgaand, in de aanvraag tot subsidievaststelling opgenomen financieel verslag 2Afhankelijk van de subsidieregeling te vervangen door een andere benaming. Deze opmerking geldt voor elke plaats in deze voorbeeldtekst waar de term 'financieel verslag’ wordt gebruikt. ingevolge de beschikking tot subsidieverlening (kenmerk en datum) van .. (naam subsidieontvanger) te .. (vestigingsplaats) over 201X inzake3Optioneel, bijvoorbeeld naam project zoals vermeld in het financieel verslag, afhankelijk van de beschikking tot subsidieverlening... gecontroleerd.
-
-### 3. Verslaglegging
-
-De accountant legt de uitkomsten van de controle vast in een controleverklaring. Hiervoor wordt de meest actuele NBA voorbeeldtekst HRA 3 sectie II hoofdstuk 10.3: ‘Controleverklaring bij een subsidiedeclaratie in de publieke sector’ gehanteerd. Verwezen wordt naar de voorbeeldtekst bij dit controleprotocol.
-
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden en het Controleprotocol Subsidieregeling instituten voor toegepast onderzoek vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van het financieel verslag’.
-
-Wij zijn onafhankelijk van .. (naam subsidieontvanger) zoals vereist in de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening gedrags- en beroepsregels accountants (VGBA).
-
-Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
-
-### Andere informatie
-
-De aanvraag tot subsidievaststelling omvat andere informatie, die bestaat uit een activiteitenverslag.
-
-### Ons oordeel
-
-Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de controle of anderszins, overwogen of de andere informatie materiële afwijkingen bevat. Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse Standaard 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij het financieel verslag.
-
-### De basis voor ons oordeel
-
-Naar ons oordeel is financieel verslag ingevolge de beschikking tot subsidieverlening (kenmerk en datum) van (naam subsidieontvanger) over 201X inzake .. 4Optioneel, bijvoorbeeld naam project zoals vermeld in het financieel verslag, afhankelijk van de beschikking tot subsidieverlening. in alle van materieel belang zijnde aspecten opgesteld in overeenstemming met ..5Aan te vullen met een verwijzing naar de betreffende subsidieregeling en zo nodig (aanvullende) subsidievoorwaarden.
-
-Het financieel verslag is opgesteld voor het Ministerie van Economische Zaken en Klimaat / het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur / het Ministerie van Volksgezondheid, Welzijn en Sport / het Ministerie van Infrastructuur en Waterstaat7Doorhalen wat niet van toepassing is. met als doel ... (Naam subsidieontvanger) in staat te stellen te voldoen aan ... (omschrijving vereisten, doel, contract, etc.). Hierdoor is het financieel verslag mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor ... (naam subsidieontvanger) en het Ministerie van Economische Zaken en Klimaat / het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur / het Ministerie van Volksgezondheid, Welzijn en Sport / het Ministerie van Infrastructuur en Waterstaat8Doorhalen wat niet van toepassing is. en dient niet te worden verspreid aan of te worden gebruikt door anderen. Ons oordeel is niet aangepast als gevolg van deze aangelegenheid.
-
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden en het Controleprotocol Subsidieregeling instituten voor toegepast onderzoek vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van het financieel verslag’.
-
-Het bestuur is verantwoordelijk voor het opstellen van financieel verslag in overeenstemming met ..9Aan te vullen met een verwijzing naar de betreffende subsidieregeling en zo nodig (aanvullende) subsidievoorwaarden. Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing die het bestuur noodzakelijk acht om het opstellen van het financieel verslag mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
-
-Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
-
-Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven oordeel.
-
-Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### 1.2. Deltares
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de instituutssubsidie voor het boekjaar 2020.
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de instituutssubsidie voor het boekjaar 2023.
-
-### Subsidieplafonds voor infrastructuursubsidie
-
-### 2. Subsidieplafonds programmasubsidie voor MARIN
-
-MARIN richt zich op de onderzoeksthema’s die omschreven staan in deze tabel waarbij de programmasubsidie als volgt wordt verdeeld.
-
-## Bijlage 4. behorende bij [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=4&artikel=17&z=2019-04-06&g=2019-04-06) (subsidieplafonds infrastructuursubsidie)
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de infrastructuursubsidie voor het boekjaar 2019.
-
-| Instituut | Subsidieplafond infrastructuursubsidie 2019 |
-| --- | --- |
-| MARIN | € 0 |
-| Deltares | € 0 |
-| NLR | € 0 |
-| Wageningen Research | € 0 |
-
-## Bijlage 5. behorende bij [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=42&z=2019-04-06&g=2019-04-06) (controleprotocol)
-
-### 1.1. Doelstelling
-
-### 4b. Subsidieplafonds Wageningen Research
-
-### 4a. Onderzoeksthema’s Wageningen Research
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de infrastructuursubsidie voor het boekjaar 2022.
-
-### Controleprotocol subsidieregeling instituten voor toegepast onderzoek
-
-[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=7&z=2026-07-14&g=2026-07-14): met redelijk gemaakte kosten, winst- of continuïteitsopslagen voor zover gebruikelijk en kosten op basis van bedrijfseconomische grondslagen wordt bedoeld dat deze kosten of opslagen gebaseerd dienen te zijn op de reeds bestaande kostprijssystematiek die ook in het kader van de reguliere jaarrekening van de betreffende instelling wordt gebruikt. Kortom, het is niet toegestaan dat voor het financieel verslag andere grondslagen of methodieken worden gehanteerd dan voor de jaarrekening.
-
-Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, belast met de controle van de door de subsidieontvanger bij het Ministerie van Economische Zaken (EZ), het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN), het Ministerie van Volksgezondheid, Welzijn en Sport (VWS), het Ministerie van Infrastructuur en Waterstaat (IenW) of het Ministerie van Klimaat en Groene Groei (KGG) in te dienen aanvraag tot subsidievaststelling ingevolge de Subsidieregeling instituten voor toegepast onderzoek. Het betreft de accountantswerkzaamheden die de accountants van de Toegepaste Onderzoeksorganisaties Wageningen Research, Deltares, NLR en Marin (TO2) uitvoeren ten behoeve van de departementen die deze organisaties financieren door middel van de Instituutssubsidie, Programmasubsidie dan wel Infrastructuursubsidie. Daarnaast kunnen subsidies worden verstrekt voor de uitvoering van wettelijke onderzoekstaken (WOT’s) en voor specifieke activiteiten (projectsubsidies). Financiële afrekening vindt plaats op basis van een aanvraag tot subsidievaststelling zoals bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=41&z=2025-07-26&g=2025-07-26) van de onderhavige subsidieregeling, voorzien van een controleverklaring van de accountant, conform het in dit protocol opgenomen format. Object van het onderzoek van de accountant is het in de aanvraag tot subsidievaststelling opgenomen financieel verslag.
-
-### 1.2. Definities
-
-De accountant legt de uitkomsten van de controle vast in een controleverklaring. Hiervoor wordt de meest actuele NBA voorbeeldtekst HRA 3 sectie II hoofdstuk 10.3: ‘Controleverklaring bij een subsidiedeclaratie in de publieke sector’ gehanteerd. Verwezen wordt naar de voorbeeldtekst bij dit controleprotocol.
-
-### 2.1. Eisen voor de controleaanpak
-
-De controle moet voldoen aan de [nadere voorschriften Controle- en overige standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0040523) (NV COS), die door de Nederlandse Beroepsorganisatie van Accountants (NBA) zijn vastgesteld.
-
-### 2.2. Materialiteit
-
-### 3. Verslaglegging
-
-Naar ons oordeel is financieel verslag ingevolge de beschikking tot subsidieverlening (kenmerk en datum) van (naam subsidieontvanger) over 201X inzake .. 4Optioneel, bijvoorbeeld naam project zoals vermeld in het financieel verslag, afhankelijk van de beschikking tot subsidieverlening. in alle van materieel belang zijnde aspecten opgesteld in overeenstemming met ..5Aan te vullen met een verwijzing naar de betreffende subsidieregeling en zo nodig (aanvullende) subsidievoorwaarden.
-
-### De basis voor ons oordeel
-
-### Voorbeeldtekst goedkeurende controleverklaring Subsidieregeling instituten voor toegepast onderzoek
-
-Afgegeven ten behoeve van ... (naam subsidiegever)
-
-Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie met het financieel verslag verenigbaar is en geen materiële afwijkingen bevat.
-
-### Ons oordeel
-
-Het bestuur is verantwoordelijk voor het opstellen van de andere informatie in overeenstemming met ..6Aan te vullen met een verwijzing naar de betreffende subsidieregeling en zo nodig (aanvullende) subsidievoorwaarden.].
-
-### Andere informatie
-
-### Andere informatie
-
-### Ons oordeel
-
-Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, het Controleprotocol Subsidieregeling instituten voor toegepast onderzoek, ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder andere uit:
-
-**Plaats en datum**
-
-**... (naam accountantspraktijk)**
-
-**... (naam accountant)**
-
-Het bestuur is verantwoordelijk voor het opstellen van financieel verslag in overeenstemming met ..9Aan te vullen met een verwijzing naar de betreffende subsidieregeling en zo nodig (aanvullende) subsidievoorwaarden. Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing die het bestuur noodzakelijk acht om het opstellen van het financieel verslag mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
-
-Het bestuur is verantwoordelijk voor het opstellen van financieel verslag in overeenstemming met ..9Aan te vullen met een verwijzing naar de betreffende subsidieregeling en zo nodig (aanvullende) subsidievoorwaarden. Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing die het bestuur noodzakelijk acht om het opstellen van het financieel verslag mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
-
-Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven oordeel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 4. behorende bij [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=4&artikel=17&z=2019-12-04&g=2019-12-04) (subsidieplafonds infrastructuursubsidie)
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de infrastructuursubsidie voor het boekjaar 2020.
-
-| Instituut | Subsidieplafond infrastructuursubsidie 2020 (€) |
-| --- | --- |
-| MARIN | 0 |
-| Deltares | 0 |
-| NLR | 0 |
-| Wageningen Research | 0 |
-
-## Bijlage 5. behorende bij [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=42&z=2026-07-14&g=2026-07-14) (controleprotocol)
-
-### 1. Uitgangspunten
-
-### 1.2. Definities
-
-Voor de controle van het financieel verslag is de volgende wet- en regelgeving van toepassing:
-
-### 2. Controleaanpak
-
-In het accountantsprotocol wordt geen materialiteit voorgeschreven voor de getrouwheid. Voor de subsidieregeling is een maximale materialiteit van 2% van het totaal van de baten aanvaardbaar. Het is de verantwoordelijkheid van de accountant om deze te bepalen met inachtneming van hetgeen hierover in de standaarden is opgenomen.
-
-### 4. Reviewbeleid
-
-### Controleverklaring van de onafhankelijke accountant
-
-### De basis voor ons oordeel
-
-Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van dit financieel verslag nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Subsidieplafonds voor instituutssubsidie
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de instituutssubsidie.
-
-## Bijlage 3. behorende bij [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=3&artikel=12&z=2026-07-14&g=2026-07-14) (subsidieplafonds programmasubsidie)
-
-Deltares richt zich op de onderzoeksthema’s die omschreven staan in deze tabel, en de WOT, beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), waarbij de programmasubsidie als volgt wordt verdeeld.
-
-| Nr. | Onderzoeksthema | Soort onderzoek | Omschrijving van het onderzoek | Boekjaar | Subsidieplafond |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Mijnbouwactiviteiten en Energietransitie | Ondergrond- en energieonderzoek | Veilige en doelmatige mijnbouwactiviteiten (bijvoorbeeld geothermie), mijnbouweffecten en nazorg. Grootschalige energieprojecten en omgeving. Energietransitie. Hernieuwbare warmte. | 2026 | 1.210.000 |
-| 1. | Mijnbouwactiviteiten en Energietransitie | Ondergrond- en energieonderzoek | Veilige en doelmatige mijnbouwactiviteiten (bijvoorbeeld geothermie), mijnbouweffecten en nazorg. Grootschalige energieprojecten en omgeving. Energietransitie. Hernieuwbare warmte. | 2027 | 700.000 |
-| 2. | Landbouw, water en voedsel | Best beschermde delta | Ontwikkelen van innovaties om bestaande maatregelen door te ontwikkelen en ontwikkelen van denkbare en haalbare alternatieve transformatieve maatregelen om aan te passen aan versnelde zeespiegelstijging en extremer weer. Digitalisering van het waterbeheer om tot kostenbesparende, kwaliteitsverhogende of risicobeperkende verbeteringen in het waterbeheer te komen. | 2026 | 700.000 |
-| 2. | Landbouw, water en voedsel | Best beschermde delta | Ontwikkelen van innovaties om bestaande maatregelen door te ontwikkelen en ontwikkelen van denkbare en haalbare alternatieve transformatieve maatregelen om aan te passen aan versnelde zeespiegelstijging en extremer weer. Digitalisering van het waterbeheer om tot kostenbesparende, kwaliteitsverhogende of risicobeperkende verbeteringen in het waterbeheer te komen. | 2027 | 700.000 |
-| 3. | Waterveiligheid | Waterveiligheidsonderzoek | Onderzoek naar en ontwikkeling van methoden, instrumenten en technieken ten behoeve van de duurzame waterveiligheid van meren en grote wateren, rivieren en kust. | 2026 | 13.500.000 |
-| 3. | Waterveiligheid | Waterveiligheidsonderzoek | Onderzoek naar en ontwikkeling van methoden, instrumenten en technieken ten behoeve van de duurzame waterveiligheid van meren en grote wateren, rivieren en kust. | 2027 | 12.500.000 |
-| 4. | Waterbeschikbaarheid | Onderzoek naar zoetwaterbeschikbaarheid | Onderzoek naar de mogelijkheden om watertekorten tegen te gaan en te borgen dat zoetwater in voldoende mate beschikbaar blijft. | 2026 | 1.500.000 |
-| 4. | Waterbeschikbaarheid | Onderzoek naar zoetwaterbeschikbaarheid | Onderzoek naar de mogelijkheden om watertekorten tegen te gaan en te borgen dat zoetwater in voldoende mate beschikbaar blijft. | 2027 | 1.500.000 |
-| 5. | Water- en bodemkwaliteit | Bodemkwaliteitsonderzoek | Onderzoek naar een goede bodem- en waterkwaliteit voor een duurzaam en gezond ecosysteem. | 2026 | 7.400.000 |
-| 5. | Water- en bodemkwaliteit | Bodemkwaliteitsonderzoek | Onderzoek naar een goede bodem- en waterkwaliteit voor een duurzaam en gezond ecosysteem. | 2027 | 6.600.000 |
-| 6. | Infrastructuur | Onderzoek voor infrastructuur | Onderzoek op het gebied van hydraulic, eco- en geo-engineering ten behoeve van de infrastructuur (water, weg en spoor). | 2026 | 3.500.000 |
-| 6. | Infrastructuur | Onderzoek voor infrastructuur | Onderzoek op het gebied van hydraulic, eco- en geo-engineering ten behoeve van de infrastructuur (water, weg en spoor). | 2027 | 4.000.000 |
-| 7. | Water, bodem en ruimte | Duurzaam ruimtegebruik | Onderzoek naar het waterbodemsysteem ten behoeve van een duurzame ruimtelijke inrichting. | 2026 | 2.250.000 |
-| 7. | Water, bodem en ruimte | Duurzaam ruimtegebruik | Onderzoek naar het waterbodemsysteem ten behoeve van een duurzame ruimtelijke inrichting. | 2027 | 1.500.000 |
-| 8. | Klimaatverandering (adaptatie en mitigatie) | Klimaatonderzoek | Onderzoek naar effecten van klimaat en zeespiegelstijging op het hoofdwatersysteem. Onderzoek ten behoeve van nationale en internationale klimaatadaptieve inrichting en ten behoeve van een klimaatneutraal beheer en gebruik van het hoofdwatersysteem. | 2026 | 6.400.000 |
-| 8. | Klimaatverandering (adaptatie en mitigatie) | Klimaatonderzoek | Onderzoek naar effecten van klimaat en zeespiegelstijging op het hoofdwatersysteem. Onderzoek ten behoeve van nationale en internationale klimaatadaptieve inrichting en ten behoeve van een klimaatneutraal beheer en gebruik van het hoofdwatersysteem. | 2027 | 6.200.000 |
-| 9. | Uitvoering wettelijke onderzoekstaken (WOT) | WOT Modellen, applicaties en data | De activiteiten, genoemd in paragraaf 1.2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14). | 2026 | 17.500.000 |
-| 9. | Uitvoering wettelijke onderzoekstaken (WOT) | WOT Modellen, applicaties en data | De activiteiten, genoemd in paragraaf 1.2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14). | 2027 | 17.500.000 |
-| 9. | Uitvoering wettelijke onderzoekstaken (WOT) | WOT Ondersteuning Watermanagementcentrum Nederland | De activiteiten, genoemd in paragraaf 1.2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14). | 2026 | 1.000.000 |
-| 9. | Uitvoering wettelijke onderzoekstaken (WOT) | WOT Ondersteuning Watermanagementcentrum Nederland | De activiteiten, genoemd in paragraaf 1.2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14). | 2027 | 1.000.000 |
-
-MARIN richt zich op de onderzoeksthema’s die omschreven staan in deze tabel waarbij de programmasubsidie als volgt wordt verdeeld.
-
-| Nr. | Onderzoeksthema | Soort onderzoek | Omschrijving van het onderzoek | Boekjaar | Subsidieplafond |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Veilige en duurzame scheepvaart | Defensieonderzoek | Onderzoek ter ondersteuning van de taken van defensie | 2026 | 6.563.000 |
-| 1. | Veilige en duurzame scheepvaart | Defensieonderzoek | Onderzoek ter ondersteuning van de taken van defensie | 2027 | 7.167.000 |
-| 1. | Veilige en duurzame scheepvaart | Onderzoek ter ondersteuning van de taken van de Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur en de Ministerie van Economische zaken en Klimaat ten behoeve van de Minister van Klimaat en Groene Groei | Natuurversterking en veilige scheepvaart | 2026 | 1.143.000 |
-| 1. | Veilige en duurzame scheepvaart | Onderzoek ter ondersteuning van de taken van de Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur en de Ministerie van Economische zaken en Klimaat ten behoeve van de Minister van Klimaat en Groene Groei | Natuurversterking en veilige scheepvaart | 2027 | 700.000 |
-| 2. | Maritieme veiligheid | Onderzoek ter ondersteuning van de taken van de Ministerie van Infrastructuur en Waterstaat en Rijkswaterstaat | Methodologisch, kennisontwikkelend en beleidsondersteunend onderzoek | 2026 | 1.871.000 |
-| 2. | Maritieme veiligheid | Onderzoek ter ondersteuning van de taken van de Ministerie van Infrastructuur en Waterstaat en Rijkswaterstaat | Methodologisch, kennisontwikkelend en beleidsondersteunend onderzoek | 2027 | 750.000 |
-
-NLR richt zich op de onderzoeksthema’s die omschreven staan in deze tabel waarbij de programmasubsidie als volgt wordt verdeeld.
-
-| Nr. | Onderzoeksthema | Soort onderzoek | Omschrijving van het onderzoek | Boekjaar | Subsidieplafond |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Veilige samenleving als onderdeel van het maatschappelijk thema Veiligheid | Defensieonderzoek | Onderzoek ter ondersteuning van de taken van defensie | 2026 | 18.924.000 |
-| 1. | Veilige samenleving als onderdeel van het maatschappelijk thema Veiligheid | Defensieonderzoek | Onderzoek ter ondersteuning van de taken van defensie | 2027 | 18.934.000 |
-| 2. | Beveiliging burgerluchtvaart | Veiligheidsonderzoek | Onderzoek naar de verbetering van de beveiliging van de burgerluchtvaart tegen bestaande en nieuwe dreigingen | 2026 | 130.000 |
-
-Wageningen Research richt zich op de onderzoeksthema’s die omschreven staan in tabel 4a, en de WOT, beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), waarbij de programmasubsidie wordt verdeeld zoals in tabel 4b omschreven.
-
-| Onderzoeksthema | Soort onderzoek | Omschrijving van het onderzoek | Boekjaar |
-| --- | --- | --- | --- |
-| Landbouw, Water en Voedsel | Veerkrachtige natuur en vitale bodem | Natuur- en biodiversiteitsherstel beschermde soorten en habitats. Een vitale bodem. Naar een natuurinclusieve samenleving. Klimaatbestendige natuur, waaronder bos en bomen. | 2023 t/m 2026, 2026 en 2027, 2027 t/m 2030. |
-| Landbouw, Water en Voedsel | Duurzame land- en tuinbouw | Brongericht verminderen van emissies naar bodem, water en lucht. Weerbare gewas- en teeltsystemen en gezonde bodems. Hoogwaardige en circulaire productie en gebruik van grondstoffen. Integrale duurzaamheid en ecosysteemdiensten als bron voor waardecreatie. Dierwaardigheid als gezonde basis. Energietransitie in de land- en tuinbouw. | 2023 t/m 2026, 2026 en 2027, 2027 t/m 2030. |
-| Landbouw, Water en Voedsel | Vitaal landelijk gebied in een klimaatbestendig Nederland | Integrale gebiedsaanpak en verantwoorde transitie. Klimaatbestendig landgebruik. Toekomstbestendige ruimtelijke inrichting landelijk gebied en ondergrond. Klimaatbestendig bebouwd gebied en waterinfrastructuur. Verbeteren waterkwaliteit en vergroten (zoet)waterbeschikbaarheid. | 2023 t/m 2026, 2026 en 2027, 2027 t/m 2030. |
-| Landbouw, Water en Voedsel | Duurzaam en gewaardeerd voedsel dat gezond en veilig is | Duurzame ketenaanpak. Duurzame en veilige verwerking. Duurzaam en gezond voedselaanbod aan de consument. Verduurzaming internationale voedselketens. Voedselzekerheid en weerbaarheid van voedselsystemen. | 2023 t/m 2026, 2026 en 2027, 2027 t/m 2030. |
-| Landbouw, Water en Voedsel | Duurzaam en veilig gebruik van de Noordzee en andere grote wateren | Noordzee in balans en duurzame oceanen en zeeën. Duurzame rivieren, meren en intergetijdegebieden. Duurzame visserij en voedselproductie uit water. Natuurinclusieve landbouw, visserij en waterbeheer in Caribisch Nederland. | 2023 t/m 2026, 2026 en 2027, 2027 t/m 2030. |
-| Landbouw, Water en Voedsel | Veilige en weerbare delta | Weerbaar Nederland voor hoog water en extreme rivierafvoeren met betaalbare, circulaire en klimaatneutrale maatregelen. Verminderen (bouw)grondstoffen en circulaire bagger-, zand- en grindgebruik. Bevaarbare vaarwegen en veilige, circulaire en klimaatneutrale scheepvaart. | 2023 t/m 2026, 2026 en 2027, 2027 t/m 2030. |
-
-| Nr. | Onderzoeksthema | Soort onderzoek | Omschrijving van het onderzoek | Boekjaar | Subsidieplafond (€) |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Landbouw, Water en Voedsel | Missiegedreven Kennis- en Innovatieprogramma’s Topsectoren | Onderzoeksthema’s als bedoeld in tabel 4a van deze bijlage | 2026 | 48.000.000 |
-| 1. | Landbouw, Water en Voedsel | Missiegedreven Kennis- en Innovatieprogramma’s Topsectoren | Onderzoeksthema’s als bedoeld in tabel 4a van deze bijlage | 2027 | 43.000.000 |
-| 1. | Landbouw, Water en Voedsel | Onderzoeksprogramma’s voor beleidsondersteunend onderzoek, klimaat- en stikstofprogramma en additionele kennisvragen | Onderzoeksthema’s als bedoeld in tabel 4a, van deze bijlage | 2023 t/m 2026 | 111.500.000 |
-| 1. | Landbouw, Water en Voedsel | Onderzoeksprogramma’s voor beleidsondersteunend onderzoek, klimaat- en stikstofprogramma en additionele kennisvragen | Onderzoeksthema’s als bedoeld in tabel 4a, van deze bijlage | 2026 | 71.000.000 |
-| 1. | Landbouw, Water en Voedsel | Onderzoeksprogramma’s voor beleidsondersteunend onderzoek, klimaat- en stikstofprogramma en additionele kennisvragen | Onderzoeksthema’s als bedoeld in tabel 4a, van deze bijlage | 2027 | 75.000.000 |
-| 1. | Landbouw, Water en Voedsel | Onderzoeksprogramma’s voor beleidsondersteunend onderzoek, klimaat- en stikstofprogramma en additionele kennisvragen | Onderzoeksthema’s als bedoeld in tabel 4a, van deze bijlage | 2027 t/m 2030 | 30.000.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Besmettelijke dierziekten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2023 t/m 2026 | 64.900.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Voedselveiligheid als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling, met uitzondering van ondersteuning van de NVWA | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2026 t/m 2030 | 67.000.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Voedselveiligheid als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling, gericht op de ondersteuning van de NVWA | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2026 | 36.000.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Voedselveiligheid als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling, gericht op de ondersteuning van de NVWA | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2027 | 36.000.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Genetische bronnen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2023 t/m 2026 | 21.900.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Genetische bronnen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2027 t/m 2031 | 33.000.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Natuur en milieu als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2024 t/m 2028 | 68.400.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Visserijonderzoek als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2025 t/m 2029 | 62.800.000 |
-| 2. | Uitvoering Wettelijke taken (WOT) | WOT Economische informatievoorziening als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14) van deze regeling | De activiteiten, genoemd in paragraaf 1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-07-14&g=2026-07-14), van deze regeling. | 2023 t/m 2026 | 64.000.000 |
-
-### Controleprotocol subsidieregeling instituten voor toegepast onderzoek
-
-## Bijlage 4. behorende bij [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=4&artikel=17&z=2020-07-14&g=2020-07-14) (subsidieplafonds infrastructuursubsidie)
-
-## Bijlage 5. behorende bij [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=42&z=2020-07-14&g=2020-07-14) (controleprotocol)
-
-### 3. Verslaglegging
-
-### 4. Reviewbeleid
-
-De Auditdienst Rijk (ADR) kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de ADR desgevraagd alle inlichtingen en bescheiden1Krachtens de Comptabiliteitswet 2016 (artikelen 6.1 en 6.3) heeft EZK, LVVN, VWS of IenW bij rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt het recht kennis te nemen van jaarrekeningen, jaarverslagen en daaraan toegevoegde overige gegevens, verantwoordingen, gegevens en documenten nodig voor vaststelling van subsidies, leningen en garanties en verslagen van onderzoeken van accountants hiernaar en naar aanleiding hiervan nadere inlichtingen in te winnen en is EZK, LVVN, VWS of IenW bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. EZK, LVVN, VWS of IenW is bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken.. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van EZK, LVVN, VWS of IenW.
-
-### Voorbeeldtekst goedkeurende controleverklaring Subsidieregeling instituten voor toegepast onderzoek
-
-### Beperking in gebruik en verspreidingskring
-
-### Onze verantwoordelijkheden voor de controle van het financieel verslag
-
-Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven oordeel.
-
-Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
-
-Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van dit financieel verslag nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
-
-Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, het Controleprotocol Subsidieregeling instituten voor toegepast onderzoek, ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder andere uit:
-
-### Beperking in gebruik en verspreidingskring
-
-**... (naam accountantspraktijk)**
-
-### Verantwoordelijkheden van het bestuur voor het financieel verslag
-
-Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, het Controleprotocol Subsidieregeling instituten voor toegepast onderzoek, ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder andere uit:
-
-### Onze verantwoordelijkheden voor de controle van het financieel verslag
-
-**... (naam accountantspraktijk)**
-
-**... (naam accountant)**
-
-Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van dit financieel verslag nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
-
-Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, het Controleprotocol Subsidieregeling instituten voor toegepast onderzoek, ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder andere uit:
-
-**Plaats en datum**
-
-**... (naam accountantspraktijk)**
-
-**... (naam accountant)**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### 1. Subsidieplafonds voor instituutssubsidie voor het boekjaar 2022
-
-In onderstaande tabel bevinden zich de subsidieplafonds voor de instituutssubsidie voor het boekjaar 2022.
-
-## Bijlage 5. behorende bij [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=42&z=2022-07-30&g=2022-07-30) (controleprotocol)
-
-### 1. Uitgangspunten
-
-## Bijlage 5. behorende bij [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=42&z=2020-12-16&g=2020-12-16) (controleprotocol)
-
-### 1.3. Wet- en regelgeving
-
-### Ons oordeel
-
-### Beperking in gebruik en verspreidingskring
-
-### Verantwoordelijkheden van het bestuur voor het financieel verslag
-
-### Beperking in gebruik en verspreidingskring
-
-### Verantwoordelijkheden van het bestuur voor het financieel verslag
-
-### Onze verantwoordelijkheden voor de controle van het financieel verslag
-
-**Plaats en datum**
-
-**... (naam accountant)**
-
-**Plaats en datum**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 4. behorende bij [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=4&artikel=17&z=2021-12-15&g=2021-12-15) (subsidieplafonds infrastructuursubsidie)
-
-## Bijlage 5. behorende bij [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=42&z=2021-12-15&g=2021-12-15) (controleprotocol)
-
-Voor de controle van het financieel verslag is de volgende wet- en regelgeving van toepassing:
-
-### Beperking in gebruik en verspreidingskring
-
-### Verantwoordelijkheden van het bestuur voor het financieel verslag
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### 1.1. Wageningen Research
-
-## Bijlage 4. behorende bij [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=4&artikel=17&z=2026-07-14&g=2026-07-14) (subsidieplafonds infrastructuursubsidie)
-
-Het subsidieplafond voor de programmasubsidie voor het boekjaar 2022 wordt als volgt verdeeld.
-
-## Bijlage 4. behorende bij [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=4&artikel=17&z=2022-07-30&g=2022-07-30) (subsidieplafonds infrastructuursubsidie)
-
-### Voorbeeldtekst goedkeurende controleverklaring Subsidieregeling instituten voor toegepast onderzoek
-
-### Onze verantwoordelijkheden voor de controle van het financieel verslag
-
-### Verantwoordelijkheden van het bestuur voor het financieel verslag
-
-### Onze verantwoordelijkheden voor de controle van het financieel verslag
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 43a
-
-Indien de subsidie voor twee of meer boekjaren wordt verleend en de betreffende subsidiabele activiteiten moesten niet in het voorgaande boekjaar worden afgerond, wordt de subsidie ambtshalve vastgesteld binnen dertien weken na het verstrekken van de gegevens bedoeld in [artikel 4:67, tweede lid, van de algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:67).
-
-#### § 10. Evaluatie
-
-#### § 11. Slotbepalingen
-
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-07-14&g=2026-07-14) (lijst van wettelijke onderzoekstaken)
-
-## Bijlage 4. behorende bij [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=4&artikel=17&z=2023-03-31&g=2023-03-31) (subsidieplafonds infrastructuursubsidie)
-
-## Bijlage 5. behorende bij [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=9&artikel=42&z=2025-07-26&g=2025-07-26) (controleprotocol)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 4. behorende bij [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=4&artikel=17&z=2025-07-26&g=2025-07-26) (subsidieplafonds infrastructuursubsidie)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

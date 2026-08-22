@@ -1,55 +1,30 @@
 ---
 title: "Beleidsregels voorschotverstrekking WW 2015"
 identifier: "BWBR0036703"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036703"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13181353"
-version_id: "22462532"
-internal_id: "C32240161"
-label_id: "13149684"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036703/2015-07-01/0"
-intitule_bron: "Stcrt.2015-17022"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-06"
-intitule_published: "2015-06-23"
-intitule_in_force: "2015-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-17022"
-original_signed_date: "2015-05-06"
-original_published_date: "2015-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-17022"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036703&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0036703&g=2015-07-01"
-citeertitel_status: "officieel"
-signed_date: "2015-05-06"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0036703"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregels voorschotverstrekking WW 2015
-
-Gelet op het bepaalde in [artikel 4:95, eerste lid, Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95),
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- –. **aanvraag van WW-uitkering:** een aanvraag van WW-uitkering op grond van [hoofdstuk II van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) die voldoet aan alle vereisten die bij en krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aan een geldige aanvraag van een dergelijke uitkering zijn gesteld. Bij voorkomende verdragsgevallen geldt dat de aanvraag vergezeld moet gaan van het EU-formulier E 301 dan wel van het SED-document U1 of U002 , dan wel van bescheiden die gelijkwaardig zijn aan het genoemde EU-formulier of de genoemde SED-documenten;
+- – *aanvraag van WW-uitkering:* een aanvraag van WW-uitkering op grond van [hoofdstuk II van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) die voldoet aan alle vereisten die bij en krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aan een geldige aanvraag van een dergelijke uitkering zijn gesteld. Bij voorkomende verdragsgevallen geldt dat de aanvraag vergezeld moet gaan van het EU-formulier E 301 dan wel van het SED-document U1 of U002 , dan wel van bescheiden die gelijkwaardig zijn aan het genoemde EU-formulier of de genoemde SED-documenten;
 
-- –. **het UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- – *het UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- –. **WW:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+- – *WW:*
+ [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
-##### Artikel 2. Voorschot op eerste betaling uitkering [hoofdstuk II WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II)
+##### Artikel 2. Voorschot op eerste betaling uitkering hoofdstuk II WW
 
 1. De werknemer ontvangt van het UWV een voorschot op een uitkering op grond van [hoofdstuk II van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) indien aan alle volgende voorwaarden is voldaan:
 
@@ -65,7 +40,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien geheel onzeker is hoeveel de vermoedelijke eerste betaling, bedoeld in het derde lid, zal bedragen, dan wordt het voorschot vastgesteld op het bedrag van een WW-uitkering die berekend is naar een maandloon ter hoogte van 21,75 maal het minimumloon als bedoeld in [artikel 14, tweede lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=14).
 
-##### Artikel 3. Voorschot bij onzekerheid over het recht op of hoogte van uitkering [hoofdstuk II WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II)
+##### Artikel 3. Voorschot bij onzekerheid over het recht op of hoogte van uitkering hoofdstuk II WW
 
 1. Het UWV betaalt een voorschot op de uitkering op grond van [hoofdstuk II WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) als aan alle volgende voorwaarden is voldaan:
 
@@ -87,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 5. Het UWV is bevoegd aan een voorschot als bedoeld in het eerste lid voorschriften te verbinden.
 
-##### Artikel 4. Voorschot op uitkering [hoofdstuk IV WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV)
+##### Artikel 4. Voorschot op uitkering hoofdstuk IV WW
 
 1. Het UWV verstrekt ambtshalve een voorschot op een uitkering op grond van [Hoofdstuk IV WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) indien er zekerheid bestaat omtrent het recht op die uitkering.
 
@@ -114,5 +89,3 @@ De [Beleidsregels voorschot bij inkomstenverrekening langdurig werklozen](https:
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als Beleidsregels voorschotverstrekking WW 2015.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

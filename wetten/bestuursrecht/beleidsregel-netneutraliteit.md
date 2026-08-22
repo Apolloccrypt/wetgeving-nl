@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 11 mei 2015, nr. WJZ/15062267, houdende beleidsregel inzake de toepassing door de Autoriteit Consument en Markt van artikel 7.4a van de Telecommunicatiewet (Beleidsregel netneutraliteit)"
+citeertitel: "Beleidsregel netneutraliteit"
 identifier: "BWBR0036617"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-05-16"
-last_updated: "2015-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036617"
+categorie: "Digitaal en privacy"
 soort: "beleidsregel"
-stam_id: "13154923"
-version_id: "22421432"
-internal_id: "C32172511"
-label_id: "13123494"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036617/2015-05-16/0"
-intitule_bron: "Stcrt.2015-13478"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-11"
-intitule_published: "2015-05-15"
-intitule_in_force: "2015-05-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-13478"
-original_signed_date: "2015-05-11"
-original_published_date: "2015-05-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-13478"
-entry_into_force_date: "2015-05-16"
-jci_1_3: "jci1.3:c:BWBR0036617&z=2015-05-16&g=2015-05-16"
-jci_1_0: "1.0:c:BWBR0036617&g=2015-05-16"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel netneutraliteit"
-signed_date: "2015-05-11"
-entry_into_force: "2015-05-16"
+publicatiedatum: 2015-05-16
+laatste_update: 2015-05-16
+status: geldig
+toestand: 2015-05-16
+bron: "https://wetten.overheid.nl/BWBR0036617"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister van Economische Zaken van 11 mei 2015, nr. WJZ/15062267, houdende beleidsregel inzake de toepassing door de Autoriteit Consument en Markt van artikel 7.4a van de Telecommunicatiewet (Beleidsregel netneutraliteit)
-
-Gelet op [artikel 21, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,5 +29,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 4
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel netneutraliteit.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

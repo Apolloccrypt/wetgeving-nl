@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering valse aangifte"
 identifier: "BWBR0036298"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036298"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "12989843"
-version_id: "22163282"
-internal_id: "C31778881"
-label_id: "12958704"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036298/2015-03-01/0"
-intitule_bron: "Stcrt.2015-4229"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-18"
-intitule_in_force: "2015-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4229"
-original_published_date: "2015-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4229"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBR0036298&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0036298&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0036298"
+opgehaald: 2026-08-22
 ---
+
 # Richtlijn voor strafvordering valse aangifte
 
 ### Beschrijving
@@ -40,9 +21,19 @@ Deze richtlijn heeft betrekking op het doen van valse aangifte of klacht, doorga
 
 Doen van valse aangifte/klacht door een first offender, alleen gepleegd.
 
+| Basisdelict | first offender |
+| --- | --- |
+| Basisdelict Geen (potentiële) gevolgen voor derden | TS 20 uur |
+| (potentiële) financiële gevolgen voor derden (bijv. verzekeringsmaatschappij) | TS 40 uur |
+| Verdachtmaking persoon zonder toepassing dwangmiddel(en) | TS 60 uur |
+| Verdachtmaking, wel (enige) dwangmiddelen of geringe politie-inzet | TS 80 uur |
+| Aanzienlijke politie-inzet, zonder verdachtmaking (onderzoek naar (nep)overval) | TS 100 uur |
+| Verdachtmaking met toepassing aanzienlijke dwangmiddelen en/of aanzienlijke gevolgen (aanhouding, doorzoeking/vervolging/ veroordeling/publiciteit, ontslag, gedwongen verhuizing etc.) | GS 4 mnd |
+| Bijzonderheden Strafverzwarend onder andere: Medeplegen Recidive: Let op eventueel taakstrafverbod (art. 22b Sr) |  |
+
 ### Legenda
 
-**Afkortingen**
+*Afkortingen*
 
 TS = Taakstraf
 

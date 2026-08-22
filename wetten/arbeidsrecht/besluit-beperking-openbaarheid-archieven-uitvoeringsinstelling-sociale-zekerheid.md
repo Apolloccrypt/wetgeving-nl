@@ -1,44 +1,18 @@
 ---
 title: "Besluit beperking van de openbaarheid van de archieven van de Uitvoeringsinstelling Sociale zekerheid voor Overheid en Onderwijs, bestuurder Arbeidsvoorziening en de Centrale organisatie Werk en Inkomen"
+citeertitel: "Besluit beperking openbaarheid archieven Uitvoeringsinstelling Sociale zekerheid voor Overheid en Onderwijs, bestuurder Arbeidsvoorziening en Centrale organisatie Werk en Inkomen"
 identifier: "BWBR0036836"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-07-16"
-last_updated: "2015-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036836"
+categorie: "Arbeidsrecht"
 soort: "zbo"
-stam_id: "13219213"
-version_id: "22569152"
-internal_id: "C32368211"
-label_id: "13187464"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036836/2015-07-16/0"
-intitule_bron: "Stcrt.2015-19663"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-06"
-intitule_published: "2015-07-15"
-intitule_in_force: "2015-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-19663"
-original_signed_date: "2015-07-06"
-original_published_date: "2015-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-19663"
-entry_into_force_date: "2015-07-16"
-jci_1_3: "jci1.3:c:BWBR0036836&z=2015-07-16&g=2015-07-16"
-jci_1_0: "1.0:c:BWBR0036836&g=2015-07-16"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archieven Uitvoeringsinstelling Sociale zekerheid voor Overheid en Onderwijs, bestuurder Arbeidsvoorziening en Centrale organisatie Werk en Inkomen"
-signed_date: "2015-07-06"
-entry_into_force: "2015-07-16"
+publicatiedatum: 2015-07-16
+laatste_update: 2015-07-16
+status: geldig
+toestand: 2015-07-16
+bron: "https://wetten.overheid.nl/BWBR0036836"
+opgehaald: 2026-08-22
 ---
+
 # Besluit beperking van de openbaarheid van de archieven van de Uitvoeringsinstelling Sociale zekerheid voor Overheid en Onderwijs, bestuurder Arbeidsvoorziening en de Centrale organisatie Werk en Inkomen
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 11-06-2015, met kenmerk 15.696
-
-Besluit:
 
 ##### Artikel 1
 

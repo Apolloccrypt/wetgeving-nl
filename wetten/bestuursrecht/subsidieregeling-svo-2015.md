@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 4 mei 2015, nr. 2015-0000255469, houdende regels voor de subsidiëring van de Stichting verdeling financiële overheidsbijdragen in het werk van de Centrales van Overheids- en Onderwijspersoneel (Subsidieregeling SVO 2015)"
+citeertitel: "Subsidieregeling SVO 2015"
 identifier: "BWBR0036619"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-12-19"
-last_updated: "2018-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036619"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13155193"
-version_id: "22422012"
-internal_id: "C32174031"
-label_id: "13123914"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036619/2018-12-19/0"
-intitule_bron: "Stcrt.2015-13176"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-04"
-intitule_published: "2015-05-18"
-intitule_in_force: "2015-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-13176"
-original_signed_date: "2015-05-04"
-original_published_date: "2015-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-13176"
-entry_into_force_date: "2015-05-19"
-jci_1_3: "jci1.3:c:BWBR0036619&z=2018-12-19&g=2018-12-19"
-jci_1_0: "1.0:c:BWBR0036619&g=2018-12-19"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling SVO 2015"
-signed_date: "2015-05-04"
-entry_into_force: "2015-05-19"
+publicatiedatum: 2015-05-19
+laatste_update: 2018-12-19
+status: geldig
+toestand: 2018-12-19
+bron: "https://wetten.overheid.nl/BWBR0036619"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 4 mei 2015, nr. 2015-0000255469, houdende regels voor de subsidiëring van de Stichting verdeling financiële overheidsbijdragen in het werk van de Centrales van Overheids- en Onderwijspersoneel (Subsidieregeling SVO 2015)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen d en f, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=20) en [24, vijfde lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=24);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *de minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **de stichting:** de Stichting verdeling financiële overheidsbijdragen in het werk van de Centrales van Overheids- en Onderwijspersoneel;
+- b. *de stichting:* de Stichting verdeling financiële overheidsbijdragen in het werk van de Centrales van Overheids- en Onderwijspersoneel;
 
-- c. **Centrale:** een van de Centrales van Overheids- en Onderwijspersoneel, bedoeld in [artikel 105, tweede lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=105).
+- c. *Centrale:* een van de Centrales van Overheids- en Onderwijspersoneel, bedoeld in [artikel 105, tweede lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=105).
 
 ##### Artikel 2
 
@@ -68,9 +42,9 @@ De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 De subsidie wordt in een periode van twee jaar als volgt afgebouwd:
 
-- –. met ingang van 1 januari 2019 bedraagt de subsidie 66,6% van het bedrag dat in 2018 is uitgekeerd;
+- – met ingang van 1 januari 2019 bedraagt de subsidie 66,6% van het bedrag dat in 2018 is uitgekeerd;
 
-- –. met ingang van 1 januari 2020 bedraagt de subsidie 33,3% van het bedrag dat in 2018 is uitgekeerd.
+- – met ingang van 1 januari 2020 bedraagt de subsidie 33,3% van het bedrag dat in 2018 is uitgekeerd.
 
 #### § 2. De subsidieverlening
 
@@ -131,5 +105,3 @@ Een subsidie die aan de stichting is verleend op grond van de begroting van het 
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Subsidieregeling SVO 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

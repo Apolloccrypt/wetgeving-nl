@@ -1,54 +1,28 @@
 ---
 title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2015, nr. WJZ/785850 (10601), over het erkennen van buiten Nederland gelegen monumenten die verband houden met het Nederlands cultureel erfgoed en die voldoen aan de criteria voor aanwijzing als rijksmonument, in verband met aftrek van uitgaven voor die monumenten in de inkomstenbelasting (Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland)"
+citeertitel: "Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland"
 identifier: "BWBR0036824"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036824"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "13216573"
-version_id: "22563142"
-internal_id: "C32361101"
-label_id: "13184844"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036824/2016-07-01/0"
-intitule_bron: "Stcrt.2015-19301"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-03"
-intitule_published: "2015-07-13"
-intitule_in_force: "2015-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-19301"
-original_signed_date: "2015-07-03"
-original_published_date: "2015-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-19301"
-entry_into_force_date: "2015-07-14"
-jci_1_3: "jci1.3:c:BWBR0036824&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0036824&g=2016-07-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland"
-signed_date: "2015-07-03"
-entry_into_force: "2015-07-14"
+publicatiedatum: 2015-07-14
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0036824"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2015, nr. WJZ/785850 (10601), over het erkennen van buiten Nederland gelegen monumenten die verband houden met het Nederlands cultureel erfgoed en die voldoen aan de criteria voor aanwijzing als rijksmonument, in verband met aftrek van uitgaven voor die monumenten in de inkomstenbelasting (Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en het [besluit van 7 september 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026387), nr. 2009/1290M, laatstelijk gewijzigd bij besluit van juli 2015, nr. BLKB 2015/762M;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **monument:** monument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
+- *monument:* monument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
 
-- **rijksmonument:** rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
+- *rijksmonument:* rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
 
 ##### Artikel 2. Reikwijdte
 
@@ -70,9 +44,9 @@ De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het 
 
 - b. kan worden aangemerkt als:
 
-- 1°. een evidente mijlpaal van Nederlandse architectuur, stedenbouw, landinrichting, bouwtechniek of ruimte-gebonden kunst; of
+   - 1° een evidente mijlpaal van Nederlandse architectuur, stedenbouw, landinrichting, bouwtechniek of ruimte-gebonden kunst; of
 
-- 2°. een essentieel toonbeeld van een voor Nederland belangrijke cultuurhistorische of sociaalhistorische ontwikkeling;
+   - 2° een essentieel toonbeeld van een voor Nederland belangrijke cultuurhistorische of sociaalhistorische ontwikkeling;
 
 - c. als het in Nederland had gelegen een wezenlijke aanvulling zou vormen op het bestand aan rijksmonumenten;
 
@@ -84,59 +58,59 @@ De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het 
 
 - a. cultuurhistorische waarde:
 
-- i. belang van het object als bijzondere uitdrukking van een voor Nederland kenmerkende culturele, sociaaleconomische, bestuurlijke, beleidsmatige of geestelijke ontwikkeling;
+   - i. belang van het object als bijzondere uitdrukking van een voor Nederland kenmerkende culturele, sociaaleconomische, bestuurlijke, beleidsmatige of geestelijke ontwikkeling;
 
-- ii. belang van het object als bijzondere uitdrukking van een geografische, landschappelijke of historisch-ruimtelijke ontwikkeling, die evident verband houdt met de Nederlandse geschiedenis;
+   - ii. belang van het object als bijzondere uitdrukking van een geografische, landschappelijke of historisch-ruimtelijke ontwikkeling, die evident verband houdt met de Nederlandse geschiedenis;
 
-- iii. belang van het object als bijzondere uitdrukking van een technische of typologische ontwikkeling, die zijn oorsprong heeft in Nederland of waarvan de ontwikkelaar een Nederlander is die van betekenis is geweest voor Nederland;
+   - iii. belang van het object als bijzondere uitdrukking van een technische of typologische ontwikkeling, die zijn oorsprong heeft in Nederland of waarvan de ontwikkelaar een Nederlander is die van betekenis is geweest voor Nederland;
 
-- iv. belang van het object wegens bijzondere innovatieve waarde of pionierskarakter, waarbij deze vernieuwing zijn oorsprong heeft in Nederland;
+   - iv. belang van het object wegens bijzondere innovatieve waarde of pionierskarakter, waarbij deze vernieuwing zijn oorsprong heeft in Nederland;
 
-- v. belang van het object wegens bijzondere herinneringswaarde aan een historische episode die van groot belang is voor de Nederlandse geschiedenis;
+   - v. belang van het object wegens bijzondere herinneringswaarde aan een historische episode die van groot belang is voor de Nederlandse geschiedenis;
 
 - b. architectuur- en kunsthistorische waarde:
 
-- i. bijzonder belang van het object voor de geschiedenis van de Nederlandse architectuur of Nederlandse bouwtechniek;
+   - i. bijzonder belang van het object voor de geschiedenis van de Nederlandse architectuur of Nederlandse bouwtechniek;
 
-- ii. bijzonder belang van het object voor het oeuvre van een Nederlandse bouwmeester, architect, ingenieur of kunstenaar van wie een belangrijk deel van zijn oeuvre in Nederland tot stand kwam;
+   - ii. bijzonder belang van het object voor het oeuvre van een Nederlandse bouwmeester, architect, ingenieur of kunstenaar van wie een belangrijk deel van zijn oeuvre in Nederland tot stand kwam;
 
-- iii. belang van het object wegens de hoogwaardige esthetische kwaliteiten van het ontwerp;
+   - iii. belang van het object wegens de hoogwaardige esthetische kwaliteiten van het ontwerp;
 
-- iv. belang van het object wegens het bijzondere materiaalgebruik, de ornamentiek of monumentale kunst;
+   - iv. belang van het object wegens het bijzondere materiaalgebruik, de ornamentiek of monumentale kunst;
 
-- v. belang van het object wegens de bijzondere samenhang tussen exterieur en interieur(onderdelen).
+   - v. belang van het object wegens de bijzondere samenhang tussen exterieur en interieur(onderdelen).
 
 - c. situationele en ensemblewaarden:
 
-- i. betekenis van het object als essentieel cultuurhistorisch, functioneel of architectuurhistorisch en visueel onderdeel van een complex;
+   - i. betekenis van het object als essentieel cultuurhistorisch, functioneel of architectuurhistorisch en visueel onderdeel van een complex;
 
-- ii. bijzondere, beeldbepalende betekenis van het object voor het aanzien van zijn omgeving;
+   - ii. bijzondere, beeldbepalende betekenis van het object voor het aanzien van zijn omgeving;
 
-- iii. bijzondere betekenis van een complex van meer objecten voor het aanzien van zijn omgeving, wijk, stad of streek;
+   - iii. bijzondere betekenis van een complex van meer objecten voor het aanzien van zijn omgeving, wijk, stad of streek;
 
-- iv. bijzondere betekenis van een complex van meer objecten wegens de hoogwaardige kwaliteit van de bebouwing in relatie tot de onderlinge historisch-ruimtelijke context en in relatie tot de daarbij behorende groenvoorzieningen, wegen, wateren, bodemgesteldheid of archeologie;
+   - iv. bijzondere betekenis van een complex van meer objecten wegens de hoogwaardige kwaliteit van de bebouwing in relatie tot de onderlinge historisch-ruimtelijke context en in relatie tot de daarbij behorende groenvoorzieningen, wegen, wateren, bodemgesteldheid of archeologie;
 
-- v. bijzondere betekenis van het object wegens de wijze van verkaveling, inrichting of voorzieningen;
+   - v. bijzondere betekenis van het object wegens de wijze van verkaveling, inrichting of voorzieningen;
 
 - d. gaafheid en herkenbaarheid:
 
-- i. belang van het object wegens de architectonische gaafheid of herkenbaarheid van exterieur of interieur;
+   - i. belang van het object wegens de architectonische gaafheid of herkenbaarheid van exterieur of interieur;
 
-- ii. belang van het object wegens de materiële, technische of constructieve gaafheid;
+   - ii. belang van het object wegens de materiële, technische of constructieve gaafheid;
 
-- iii. belang van het object als nog goed herkenbare uitdrukking van de oorspronkelijke of een belangrijke historische functie;
+   - iii. belang van het object als nog goed herkenbare uitdrukking van de oorspronkelijke of een belangrijke historische functie;
 
-- iv. belang van het object wegens de waardevolle accumulatie van belangwekkende historische bouw- of gebruiksfasen;
+   - iv. belang van het object wegens de waardevolle accumulatie van belangwekkende historische bouw- of gebruiksfasen;
 
-- v. belang van een complex van meer objecten wegens de gaafheid en herkenbaarheid van het gehele ensemble van de samenstellende onderdelen;
+   - v. belang van een complex van meer objecten wegens de gaafheid en herkenbaarheid van het gehele ensemble van de samenstellende onderdelen;
 
-- vi. belang van het object of complex in relatie tot de structurele of visuele gaafheid van de stedelijke, dorpse of landschappelijke omgeving;
+   - vi. belang van het object of complex in relatie tot de structurele of visuele gaafheid van de stedelijke, dorpse of landschappelijke omgeving;
 
 - e. zeldzaamheid:
 
-- i. belang van het object wegens absolute zeldzaamheid in architectuurhistorisch, bouwtechnisch, typologisch of functioneel opzicht;
+   - i. belang van het object wegens absolute zeldzaamheid in architectuurhistorisch, bouwtechnisch, typologisch of functioneel opzicht;
 
-- ii. uitzonderlijk belang van het object voor Nederland wegens relatieve zeldzaamheid in relatie tot één of meer van de onder a tot en met c genoemde waarden.
+   - ii. uitzonderlijk belang van het object voor Nederland wegens relatieve zeldzaamheid in relatie tot één of meer van de onder a tot en met c genoemde waarden.
 
 3. Een op het grondgebied van een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gelegen monument komt in ieder geval niet voor erkenning in aanmerking indien het niet voldoet aan een van de waarden, bedoeld in het tweede lid, onderdeel a of b, onder i of ii.
 
@@ -158,11 +132,11 @@ De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het 
 
 - f. een beschrijving van:
 
-- 1°. het exterieur en het interieur, met inbegrip van de constructies en materialen;
+   - 1° het exterieur en het interieur, met inbegrip van de constructies en materialen;
 
-- 2°. de geschiedenis van het monument, met inbegrip van de ouderdom, de architect, de bouwgeschiedenis, de bewoningsgeschiedenis, historisch kaartmateriaal en historisch beeldmateriaal; en
+   - 2° de geschiedenis van het monument, met inbegrip van de ouderdom, de architect, de bouwgeschiedenis, de bewoningsgeschiedenis, historisch kaartmateriaal en historisch beeldmateriaal; en
 
-- 3°. de huidige functie of functies;
+   - 3° de huidige functie of functies;
 
 - g. recente kleurenfoto’s van exterieur en interieur, die een duidelijk overzicht geven van het monument en inzicht geven in de waardevolle details;
 
@@ -181,5 +155,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

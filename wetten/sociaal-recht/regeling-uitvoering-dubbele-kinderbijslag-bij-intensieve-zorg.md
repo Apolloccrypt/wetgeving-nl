@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2014, 2014-0000187843, tot vaststelling van de Regeling uitvoering dubbele kinderbijslag bij intensieve zorg"
+citeertitel: "Regeling uitvoering dubbele kinderbijslag bij intensieve zorg"
 identifier: "BWBR0036051"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036051"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12919313"
-version_id: "21991612"
-internal_id: "C31540941"
-label_id: "12888534"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036051/2015-01-01/0"
-intitule_bron: "Stcrt.2014-36980"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-15"
-intitule_published: "2014-12-24"
-intitule_in_force: "2014-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-36980"
-original_signed_date: "2014-12-15"
-original_published_date: "2014-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-36980"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0036051&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0036051&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling uitvoering dubbele kinderbijslag bij intensieve zorg"
-signed_date: "2014-12-15"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0036051"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2014, 2014-0000187843, tot vaststelling van de Regeling uitvoering dubbele kinderbijslag bij intensieve zorg
-
-Gelet op [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&artikel=11), en [12, tweede lid, van het Besluit uitvoering kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&artikel=12);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- –. **advies:** een op medische gegevens gebaseerd advies als bedoeld in [artikel 12, eerste lid, van het Besluit uitvoering kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&artikel=12);
+- – *advies:* een op medische gegevens gebaseerd advies als bedoeld in [artikel 12, eerste lid, van het Besluit uitvoering kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&artikel=12);
 
-- –. **CIZ:** Centrum indicatiestelling zorg;
+- – *CIZ:* Centrum indicatiestelling zorg;
 
-- –. **intensieve zorg;** zorg als bedoeld in [artikel 11, eerste lid, van het Besluit uitvoering kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&artikel=11);
+- – *intensieve zorg;* zorg als bedoeld in [artikel 11, eerste lid, van het Besluit uitvoering kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&artikel=11);
 
-- –. **SVB:** Sociale verzekeringsbank.
+- – *SVB:* Sociale verzekeringsbank.
 
 ##### Artikel 2. Vaststelling intensieve zorg
 
@@ -117,5 +91,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitvoering dubbele kinderbijslag bij intensieve zorg.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

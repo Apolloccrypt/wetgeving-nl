@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 13 februari 2015, nr. 616510, houdende instelling van de Commissie onderzoek oorzaken kostenstijgingen stelsel gesubsidieerde rechtsbijstand en vernieuwing van het stelsel"
+citeertitel: "Instellingsregeling Commissie onderzoek oorzaken kostenstijgingen stelsel gesubsidieerde rechtsbijstand en vernieuwing van het stelsel"
 identifier: "BWBR0036334"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-02-24"
-last_updated: "2015-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036334"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12994843"
-version_id: "22176082"
-internal_id: "C31796851"
-label_id: "12963734"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036334/2015-02-24/0"
-intitule_bron: "Stcrt.2015-4919"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-13"
-intitule_published: "2015-02-23"
-intitule_in_force: "2015-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4919"
-original_signed_date: "2015-02-13"
-original_published_date: "2015-02-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4919"
-entry_into_force_date: "2015-02-24"
-jci_1_3: "jci1.3:c:BWBR0036334&z=2015-02-24&g=2015-02-24"
-jci_1_0: "1.0:c:BWBR0036334&g=2015-02-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Commissie onderzoek oorzaken kostenstijgingen stelsel gesubsidieerde rechtsbijstand en vernieuwing van het stelsel"
-signed_date: "2015-02-13"
-entry_into_force: "2015-02-24"
+publicatiedatum: 2015-02-24
+laatste_update: 2015-02-24
+status: geldig
+toestand: 2015-02-24
+bron: "https://wetten.overheid.nl/BWBR0036334"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 13 februari 2015, nr. 616510, houdende instelling van de Commissie onderzoek oorzaken kostenstijgingen stelsel gesubsidieerde rechtsbijstand en vernieuwing van het stelsel
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste en derde lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- a. **Staatssecretaris:** Staatssecretaris van Veiligheid en Justitie;
+- a. *Staatssecretaris:* Staatssecretaris van Veiligheid en Justitie;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036334&artikel=2&z=2015-02-24&g=2015-02-24).
+- b. *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036334&artikel=2&z=2015-02-24&g=2015-02-24).
 
 ##### Artikel 2. (instelling en taak)
 
@@ -141,5 +113,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 12. (citeertitel)
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie onderzoek oorzaken kostenstijgingen stelsel gesubsidieerde rechtsbijstand en vernieuwing van het stelsel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

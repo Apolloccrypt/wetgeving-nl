@@ -1,62 +1,34 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken van 1 april 2015, nr. 3801559, tot instelling van de AZ commissie monitoring VWNW (Instellingsbesluit AZ commissie monitoring VWNW)"
+citeertitel: "Instellingsbesluit AZ commissie monitoring VWNW"
 identifier: "BWBR0036494"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-04-08"
-last_updated: "2015-04-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036494"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13129563"
-version_id: "22371202"
-internal_id: "C32027631"
-label_id: "13098254"
-dtd_version: "2.0"
-original_entry_into_force: "2015-04-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036494/2015-04-08/0"
-intitule_bron: "Stcrt.2015-9731"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-01"
-intitule_published: "2015-04-07"
-intitule_in_force: "2015-04-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-9731"
-original_signed_date: "2015-04-01"
-original_published_date: "2015-04-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-9731"
-entry_into_force_date: "2015-04-08"
-jci_1_3: "jci1.3:c:BWBR0036494&z=2015-04-08&g=2015-04-08"
-jci_1_0: "1.0:c:BWBR0036494&g=2015-04-08"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit AZ commissie monitoring VWNW"
-signed_date: "2015-04-01"
-entry_into_force: "2015-04-08"
+publicatiedatum: 2015-04-08
+laatste_update: 2015-04-08
+status: geldig
+toestand: 2015-04-08
+bron: "https://wetten.overheid.nl/BWBR0036494"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister-President, Minister van Algemene Zaken van 1 april 2015, nr. 3801559, tot instelling van de AZ commissie monitoring VWNW (Instellingsbesluit AZ commissie monitoring VWNW)
-
-Gelet op onderdeel 17 van de [Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid](onbekend) van 11 april 2013;
-
-Gehoord het Departementaal Georganiseerd Overleg AZ;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** de minister-president, minister van Algemene Zaken;
+- a. *Minister:* de minister-president, minister van Algemene Zaken;
 
-- b. **Secretaris-Generaal:** de secretaris-generaal van het ministerie van Algemene Zaken;
+- b. *Secretaris-Generaal:* de secretaris-generaal van het ministerie van Algemene Zaken;
 
-- c. **Commissie:** de AZ commissie monitoring VWNW;
+- c. *Commissie:* de AZ commissie monitoring VWNW;
 
-- d. **DGO AZ:** Departementaal Georganiseerd Overleg bij het ministerie van Algemene Zaken;
+- d. *DGO AZ:* Departementaal Georganiseerd Overleg bij het ministerie van Algemene Zaken;
 
-- e. **Overeenkomst:** de [Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid](onbekend);
+- e. *Overeenkomst:* de [Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid](https://wetten.overheid.nl/BWBR0033486);
 
-- f. **Besluit:** Besluit van werk naar werk beleid voor de sector Rijk 2013-2015.
+- f. *Besluit:* Besluit van werk naar werk beleid voor de sector Rijk 2013-2015.
 
 ##### Artikel 2. Instelling
 
@@ -64,7 +36,7 @@ Er is een AZ commissie monitoring VWNW.
 
 ##### Artikel 3. Taak
 
-De commissie is belast met het monitoren van de uitvoering van de [overeenkomst](onbekend) en het besluit voor het departement en daarover tweemaal per jaar (en desgewenst tussentijds) te rapporteren aan het Sectoroverleg Rijk.
+De commissie is belast met het monitoren van de uitvoering van de [overeenkomst](https://wetten.overheid.nl/BWBR0033486) en het besluit voor het departement en daarover tweemaal per jaar (en desgewenst tussentijds) te rapporteren aan het Sectoroverleg Rijk.
 
 ##### Artikel 4. Samenstelling
 
@@ -97,5 +69,3 @@ Dit besluit treedt inwerking met ingang van de dag na datum van uitgifte van de 
 ##### Artikel 7. Citeertitel en Publicatie
 
 Dit besluit wordt aangehaald als: Instellingsbesluit AZ commissie monitoring VWNW.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

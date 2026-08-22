@@ -1,11 +1,15 @@
 ---
-title: "Verordening ledenraad 2026"
+title: "Verordening ledenraad 2015"
+citeertitel: "Verordening ledenraad 2026"
 identifier: "BWBR0036499"
 categorie: "Overig"
+soort: "pbo"
 publicatiedatum: 2026-07-17
 laatste_update: 2026-07-17
 status: geldig
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0036499"
+opgehaald: 2026-08-22
 ---
 
 # Verordening ledenraad 2015
@@ -40,7 +44,7 @@ De benoeming en het aftreden van de gewone leden en hun plaatsvervangers is gere
 
 De ledenraad wordt geregeld in de [artikelen 67 t/m 76 van de WNA](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=67). [Artikel 77 WNA](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=77) bepaalt dat bij verordening nadere regels worden gesteld betreffende de benoeming en het aftreden van de leden, en voorts betreffende zijn werkzaamheid, de wijze van vergaderen, de besluitvorming en de wijze waarop in de vergadering wordt gestemd, alsmede de wijze waarop aan de leden van de KNB kennis wordt gegeven van zijn besluiten.
 
-(Toelichting van 28 januari 2015)
+(Toelichting van 28 januari 2015)
 
 ##### Artikel 1
 
@@ -70,7 +74,7 @@ Voor de voorzitter van de ledenraad is een belangrijke rol weggelegd voor wat be
 
 De rol van voorzitter van de ledenraad kan met zich meebrengen dat het lastig is om zowel als voorzitter als als ledenraadslid te functioneren. In het kader kan het nuttig zijn om enkel als voorzitter te fungeren en een andere ringbestuurder dan wel een door de ring aangewezen ledenraadslid als plaatsvervanger aan te wijzen. Indien de voorzitter hiervoor kiest dan kan de voorzitter niet inhoudelijk mee discussiëren en heeft de voorzitter in zijn functie ook geen stemrecht. Dit komt toe aan zijn vertegenwoordiger.
 
-(toelichting 28 januari 2015)
+(toelichting 28 januari 2015)
 
 ##### Artikel 2
 
@@ -80,11 +84,11 @@ De rol van voorzitter van de ledenraad kan met zich meebrengen dat het lastig is
 
 3. Een ledenraadslid of zijn plaatsvervanger kan zich, middels schriftelijke mededeling aan de voorzitter van de ledenraad, door een bestuurslid van zijn eigen ring of ander ledenraadslid laten vertegenwoordigen.
 
-Bij de totstandkoming van de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) is in de memorie van toelichting op pagina 53 opgemerkt dat aangezien het aantal notarissen en kandidaat-notarissen per arrondissement verschilt, ook het aantal stemmen dat een lid van de ledenraad kan uitbrengen per ring moet verschillen. Daarom is bepaald dat per ring het aantal stemmen gelijk is aan het aantal leden van de ring per 1 oktober van elk jaar. Dit aantal wordt door het bureau van de KNB vastgesteld aan de hand van de ledenadministratie.
+Bij de totstandkoming van de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) is in de memorie van toelichting op pagina 53 opgemerkt dat aangezien het aantal notarissen en kandidaat-notarissen per arrondissement verschilt, ook het aantal stemmen dat een lid van de ledenraad kan uitbrengen per ring moet verschillen. Daarom is bepaald dat per ring het aantal stemmen gelijk is aan het aantal leden van de ring per 1 oktober van elk jaar. Dit aantal wordt door het bureau van de KNB vastgesteld aan de hand van de ledenadministratie.
 
 De vertegenwoordiging van een ring kan de stemmen uitbrengen op de wijze die zij wenselijk acht. Ieder ledenraadslid vertegenwoordigt de helft van de stemmen van zijn ring. Ledenraadsleden van één ring kunnen afzonderlijk besluiten om met hun stemmen voor of tegen te stemmen of zich van stemming te onthouden. Indien een ring een oneven aantal stemmen heeft dan heeft de ringvoorzitter of zijn plaatsvervanger één stem meer dan het andere ledenraadslid van de ring. Aan het uitgangspunt dat een ring vertegenwoordigd moet worden door een notaris en een kandidaat-notaris of toegevoegd notaris wordt geen afbreuk gedaan door de bepaling dat elke ring wordt vertegenwoordigd door twee ledenraadsleden of hun plaatsvervangers. Volgens [artikel 67 Wna](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=67) heeft ieder lid een plaatsvervanger.
 
-(toelichting 28 januari 2015)
+(toelichting 28 januari 2015)
 
 ##### Artikel 3
 
@@ -102,7 +106,7 @@ Het is van belang dat de ledenraadsleden duidelijk is wat van hen verwacht wordt
 
 Het is mogelijk voor ledenraadsleden om een amendement op een voorstel in te brengen tijdens de vergadering. In die gevallen zal de voorzitter van de ledenraad eerst het amendement in stemming brengen. Indien het amendement wordt aangenomen dan zal de voorzitter het geamendeerde voorstel in stemming brengen.
 
-(toelichting 28 januari 2015)
+(toelichting 28 januari 2015)
 
 ##### Artikel 4
 
@@ -110,7 +114,7 @@ De besluiten worden door het bestuur van de KNB met instemming van de voorzitter
 
 Het is van belang dat de leden van de KNB zo snel mogelijk op de hoogte zijn van de besluiten die door de ledenraad genomen zijn. In dit kader is het van belang dat de voorzitter van de ledenraad weet hoe door het bestuur over de besluitvorming in de ledenraad wordt gecommuniceerd. Derhalve dient de mededeling van de besluiten van de ledenraad door het bestuur van de KNB plaats te vinden met instemming van de voorzitter van de ledenraad.
 
-(toelichting 28 januari 2015)
+(toelichting 28 januari 2015)
 
 ##### Artikel 5
 
@@ -128,7 +132,7 @@ Het is van belang dat de leden van de KNB zo snel mogelijk op de hoogte zijn van
 
 [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036499&artikel=6&z=2026-07-17&g=2026-07-17) borgt de integriteit en transparantie van de ledenraad. Ledenraadsleden en hun plaatsvervangers melden belangen of omstandigheden die mogelijk conflicteren met het algemeen of publiek belang, of het vertrouwen in het notariaat kunnen schaden. De voorzitter of technisch voorzitter beoordeelt of tijdelijk terugtreden nodig is. Meldingen van de voorzitter of technisch voorzitter worden door de plaatsvervangend voorzitter behandeld. Bij twijfel kan de (technisch) voorzitter van de ledenraad overleg voeren met de secretaris van de ledenraad en/of de vacaturecommissie. Zo worden enerzijds de belangen van de betrokkene op grond van privacy beschermd, maar kan gelijktijdig in twijfelgevallen de situatie toch van meerdere kanten belicht worden. Het bepaalde in dit artikel is ook van toepassing op een externe persoon die door de fungerend voorzitter is aangewezen om als technisch voorzitter op te treden ([artikel 1, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036499&artikel=1&z=2026-07-17&g=2026-07-17)).
 
-(Toelichting van 6 mei 2026)
+(Toelichting van 6 mei 2026)
 
 ##### Artikel 7
 
@@ -140,6 +144,6 @@ Deze verordening wordt aangehaald als de Verordening ledenraad 2026.
 
 ##### Artikel 9
 
-Deze verordening treedt in werking met ingang van 1 maart 2015 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 92 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=92) is verstreken en vervangt de [Verordening ledenraad](https://wetten.overheid.nl/jci1.3:c:BWBR0011168) van 1 oktober 2000.
+Deze verordening treedt in werking met ingang van 1 maart 2015 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 92 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=92) is verstreken en vervangt de [Verordening ledenraad](https://wetten.overheid.nl/jci1.3:c:BWBR0011168) van 1 oktober 2000.
 
-Vastgesteld door de ledenraad op 28 januari 2015 en getekend door de voorzitter van de ledenraad, mr. M.C. Stout en goedgekeurd door de Minister van Veiligheid en Justitie bij brief van 18 maart 2015
+Vastgesteld door de ledenraad op 28 januari 2015 en getekend door de voorzitter van de ledenraad, mr. M.C. Stout en goedgekeurd door de Minister van Veiligheid en Justitie bij brief van 18 maart 2015

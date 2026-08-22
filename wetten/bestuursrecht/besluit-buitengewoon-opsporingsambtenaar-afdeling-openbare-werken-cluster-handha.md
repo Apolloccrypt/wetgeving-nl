@@ -1,54 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 maart 2015 nr. BOACAT2015/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Schouwen-Duiveland"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Afdeling Openbare Werken, Cluster Handhaving van de gemeente Schouwen-Duiveland 2015, domein I"
 identifier: "BWBR0036402"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-04-20"
-last_updated: "2018-04-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036402"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13009153"
-version_id: "22228852"
-internal_id: "C31871541"
-label_id: "12977974"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036402/2018-04-20/0"
-intitule_bron: "Stcrt.2015-6987"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-03-03"
-intitule_published: "2015-03-16"
-intitule_in_force: "2015-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-6987"
-original_signed_date: "2015-03-03"
-original_published_date: "2015-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-6987"
-entry_into_force_date: "2015-03-17"
-jci_1_3: "jci1.3:c:BWBR0036402&z=2018-04-20&g=2018-04-20"
-jci_1_0: "1.0:c:BWBR0036402&g=2018-04-20"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Afdeling Openbare Werken, Cluster Handhaving van de gemeente Schouwen-Duiveland 2015, domein I"
-signed_date: "2015-03-03"
-entry_into_force: "2015-03-17"
+publicatiedatum: 2015-03-17
+laatste_update: 2018-04-20
+status: geldig
+toestand: 2018-04-20
+bron: "https://wetten.overheid.nl/BWBR0036402"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 maart 2015 nr. BOACAT2015/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Schouwen-Duiveland
-
-Gelezen het verzoek van het Hoofd Handhaving van de afdeling Openbare Werken, Cluster Handhaving van de gemeente Schouwen-Duiveland van 19 februari 2015 en de adviezen van de hoofdofficier van justitie Zeeland – West-Brabant en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -99,5 +63,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Afdeling Openbare Werken, Cluster Handhaving van de gemeente Schouwen-Duiveland 2015, domein I.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

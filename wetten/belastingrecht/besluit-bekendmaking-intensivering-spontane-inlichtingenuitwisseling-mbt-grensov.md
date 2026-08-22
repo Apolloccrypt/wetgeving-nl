@@ -1,48 +1,30 @@
 ---
 title: "Besluit bekendmaking van het op 14 juli 2015 tussen de Ministers van Financiën van Duitsland en Nederland gesloten Memorandum van Overeenstemming inzake de intensivering van de spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van de belastingdiensten"
+citeertitel: "Besluit bekendmaking intensivering spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van belastingdiensten"
 identifier: "BWBR0036880"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-07-14"
-last_updated: "2015-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036880"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "13229193"
-version_id: "22609712"
-internal_id: "C32414991"
-label_id: "13197504"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036880/2015-07-14/0"
-intitule_bron: "Stcrt.2015-21781"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-17"
-intitule_published: "2015-07-24"
-intitule_in_force: "2015-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-21781"
-original_signed_date: "2015-07-17"
-original_published_date: "2015-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-21781"
-entry_into_force_date: "2015-07-14"
-jci_1_3: "jci1.3:c:BWBR0036880&z=2015-07-14&g=2015-07-14"
-jci_1_0: "1.0:c:BWBR0036880&g=2015-07-14"
-citeertitel_status: "redactioneel"
-short_title: "Besluit bekendmaking intensivering spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van belastingdiensten"
-signed_date: "2015-07-17"
-entry_into_force: "2015-07-14"
+publicatiedatum: 2015-07-14
+laatste_update: 2015-07-14
+status: geldig
+toestand: 2015-07-14
+bron: "https://wetten.overheid.nl/BWBR0036880"
+opgehaald: 2026-08-22
 ---
+
 # Besluit bekendmaking van het op 14 juli 2015 tussen de Ministers van Financiën van Duitsland en Nederland gesloten Memorandum van Overeenstemming inzake de intensivering van de spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van de belastingdiensten
 
-**De Staatssecretaris van Financiën maakt het volgende bekend.**
+*Dit besluit bevat een bekendmaking van het op 14 juli 2015 tussen de ministers van Financiën van Duitsland en Nederland gesloten Memorandum van Overeenstemming inzake de intensivering van de spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van de belastingdiensten. Het Memorandum heeft betrekking op de spontane uitwisseling van de volgende informatie:*
 
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
+- • *Unilaterale advance pricing agreements (APA’s) en beslissingen,*
 
-**Dit besluit bevat een bekendmaking van het op 14 juli 2015 tussen de ministers van Financiën van Duitsland en Nederland gesloten Memorandum van Overeenstemming inzake de intensivering van de spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van de belastingdiensten. Het Memorandum heeft betrekking op de spontane uitwisseling van de volgende informatie:**
+- • *Bilaterale of multilaterale APA’s en beslissingen in geval de andere Staat geen partij is bij deze overeenkomst of beslissing,*
 
-**De eerste uitwisseling heeft betrekking op het jaar 2015, maar in onderling overleg kunnen beide ministeries overeenkomen dat ook informatie wordt uitgewisseld die betrekking heeft op voorgaande jaren.**
+- • *Andere typen rulings, zoals gedefinieerd door het OESO Forum on Harmful Tax Practices,*
+
+- • *Overeenkomsten en beslissingen betreffende preferentiële belastingregimes, zoals innovatieboxen.*
+
+*De eerste uitwisseling heeft betrekking op het jaar 2015, maar in onderling overleg kunnen beide ministeries overeenkomen dat ook informatie wordt uitgewisseld die betrekking heeft op voorgaande jaren.*
 
 ### Memorandum of understanding between the federal ministry of finance of germany and the ministry of finance of the netherlands on the intensification of the spontaneous exchange of information regarding cross-border tax agreements and decisions
 

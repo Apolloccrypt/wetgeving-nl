@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 26 juni 2015, nr. WJZ/15058474 , houdende regels inzake de verlening van mandaat, volmacht en machtiging aan Gedeputeerde Staten van de Provincie Gelderland betreffende het verstrekken van subsidies ten laste van de Rijkscofinanciering op grond van de Regeling Europese EZ-subsidies (Besluit mandaat, volmacht en machtiging Gedeputeerde Staten van de Provincie Gelderland inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZ-subsidies)"
+citeertitel: "Besluit mandaat, volmacht en machtiging Gedeputeerde Staten van de Provincie Gelderland inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZ-subsidies"
 identifier: "BWBR0036801"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-07-09"
-last_updated: "2015-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036801"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13210783"
-version_id: "22551862"
-internal_id: "C32345971"
-label_id: "13179044"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036801/2015-07-09/0"
-intitule_bron: "Stcrt.2015-19472"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-26"
-intitule_published: "2015-07-08"
-intitule_in_force: "2015-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-19472"
-original_signed_date: "2015-06-26"
-original_published_date: "2015-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-19472"
-entry_into_force_date: "2015-07-09"
-jci_1_3: "jci1.3:c:BWBR0036801&z=2015-07-09&g=2015-07-09"
-jci_1_0: "1.0:c:BWBR0036801&g=2015-07-09"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging Gedeputeerde Staten van de Provincie Gelderland inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZ-subsidies"
-signed_date: "2015-06-26"
-entry_into_force: "2015-07-09"
+publicatiedatum: 2015-07-09
+laatste_update: 2015-07-09
+status: geldig
+toestand: 2015-07-09
+bron: "https://wetten.overheid.nl/BWBR0036801"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister van Economische Zaken van 26 juni 2015, nr. WJZ/15058474 , houdende regels inzake de verlening van mandaat, volmacht en machtiging aan Gedeputeerde Staten van de Provincie Gelderland betreffende het verstrekken van subsidies ten laste van de Rijkscofinanciering op grond van de Regeling Europese EZ-subsidies (Besluit mandaat, volmacht en machtiging Gedeputeerde Staten van de Provincie Gelderland inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZ-subsidies)
-
-Gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van Gedeputeerde Staten van de Provincie Gelderland;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -81,5 +53,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Gedeputeerde Staten van de Provincie Gelderland inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZ-subsidies.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,52 +1,26 @@
 ---
 title: "Nederlandse uitvoeringsvoorschriften inzake het belastingverdrag Nederland-Verenigde Staten van Amerika 1992"
+citeertitel: "Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland – Verenigde Staten van Amerika 1992"
 identifier: "BWBR0036213"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-03-29"
-last_updated: "2018-03-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036213"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "12971103"
-version_id: "22125132"
-internal_id: "C31726451"
-label_id: "12940314"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036213/2018-03-29/0"
-intitule_bron: "Stcrt.2015-2585"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-01-13"
-intitule_published: "2015-02-03"
-intitule_in_force: "2015-02-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-2585"
-original_signed_date: "2015-01-13"
-original_published_date: "2015-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-2585"
-entry_into_force_date: "2015-02-04"
-jci_1_3: "jci1.3:c:BWBR0036213&z=2018-03-29&g=2018-03-29"
-jci_1_0: "1.0:c:BWBR0036213&g=2018-03-29"
-citeertitel_status: "officieel"
-short_title: "Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland – Verenigde Staten van Amerika 1992"
-signed_date: "2015-01-13"
-entry_into_force: "2015-02-04"
+publicatiedatum: 2015-02-04
+laatste_update: 2018-03-29
+status: geldig
+toestand: 2018-03-29
+bron: "https://wetten.overheid.nl/BWBR0036213"
+opgehaald: 2026-08-22
 ---
+
 # Nederlandse uitvoeringsvoorschriften inzake het belastingverdrag Nederland-Verenigde Staten van Amerika 1992
-
-In deze regeling worden de Nederlandse uitvoeringsvoorschriften inzake het belastingverdrag Nederland-Verenigde Staten van Amerika 1992 opnieuw vastgesteld. In deze actualisering is bepaald dat verzoeken om toepassing van de inhoudingsvrijstelling bij deelnemingsdividenden voortaan bij de Belastingdienst/ kantoor Arnhem moeten worden ingediend. De beoordeling van deze verzoeken blijft berusten bij de bevoegde vpb-inspecteur. Tevens is de geldigheid van een afgegeven beschikking beperkt tot maximaal vier jaren. Hiermee samenhangend is bepaald dat reeds bestaande beschikkingen nog maximaal vier jaren geldig blijven.
-
-Ter uitvoering van artikel 34, eerste lid, van de op 18 december 1992 te Washington tussen Nederland en de Verenigde Staten van Amerika gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (**Trb.** 1993, 77 en 158), zoals deze overeenkomst is gewijzigd bij het op 13 oktober 1993 te Washington gesloten Protocol (**Trb.** 1993, 184), onderscheidenlijk bij het op 8 maart 2004 te Washington gesloten Protocol (**Trb.** 2004, 166), en gelet op de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, **Stcrt**. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, **Stcrt**. 2010, nr. 4769, die op grond van artikel 29 van de genoemde overeenkomst is getroffen tussen Nederland en de Verenigde Staten van Amerika, stel ik de navolgende regeling vast met [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&bijlage=I&z=2018-03-29&g=2018-03-29) (formulier IB 96 USA) en [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&bijlage=II&z=2018-03-29&g=2018-03-29) (formulier IB 95 USA):
 
 ##### Artikel 1. Algemeen
 
 1. Deze regeling verstaat onder:
 
-- a. **Verdrag:** de op 18 december 1992 te Washington tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, met briefwisseling en memorandum van overeenstemming, zoals deze overeenkomst is gewijzigd bij het op 13 oktober 1993 te Washington gesloten Protocol tot wijziging van voornoemde overeenkomst, met briefwisseling, onderscheidenlijk bij het op 8 maart 2004 te Washington gesloten Protocol tot wijziging van voornoemde overeenkomst, met briefwisseling en memorandum van overeenstemming;
+- a. *Verdrag:* de op 18 december 1992 te Washington tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, met briefwisseling en memorandum van overeenstemming, zoals deze overeenkomst is gewijzigd bij het op 13 oktober 1993 te Washington gesloten Protocol tot wijziging van voornoemde overeenkomst, met briefwisseling, onderscheidenlijk bij het op 8 maart 2004 te Washington gesloten Protocol tot wijziging van voornoemde overeenkomst, met briefwisseling en memorandum van overeenstemming;
 
-- b. **Dividenden:** dividenden zoals bedoeld in artikel 10, zesde lid, van het Verdrag.
+- b. *Dividenden:* dividenden zoals bedoeld in artikel 10, zesde lid, van het Verdrag.
 
 2. Deze regeling neemt verder de begrippen van het Verdrag over.
 
@@ -84,11 +58,11 @@ In het verzoek wordt voorts verklaard dat het bedoelde lichaam dat inwoner is va
 
 6. Indien de inspecteur gunstig beslist op een verzoek als bedoeld in het eerste lid of het tweede lid, blijft zijn beslissing van kracht met betrekking tot elk daarin genoemd lichaam voor ten hoogste vier jaren gerekend vanaf de dagtekening van de beschikking en zolang er aan de volgende voorwaarden wordt voldaan:
 
-- –. het lichaam inwoner van de Verenigde Staten van Amerika blijft,
+- – het lichaam inwoner van de Verenigde Staten van Amerika blijft,
 
-- –. het lichaam een deelneming blijft bezitten in het Nederlandse lichaam welke voldoet aan de voorwaarden van artikel 10, tweede lid, onderdeel a, respectievelijk artikel 10, derde lid, van het Verdrag,
+- – het lichaam een deelneming blijft bezitten in het Nederlandse lichaam welke voldoet aan de voorwaarden van artikel 10, tweede lid, onderdeel a, respectievelijk artikel 10, derde lid, van het Verdrag,
 
-- –. het lichaam blijft voldoen aan de van toepassing zijnde voorwaarden van artikel 26 van het Verdrag.
+- – het lichaam blijft voldoen aan de van toepassing zijnde voorwaarden van artikel 26 van het Verdrag.
 
 De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs moet vermoeden dat zulks in enig opzicht niet meer het geval is, is gehouden aan vorenbedoelde inspecteur schriftelijke mededeling te doen vóór de eerstvolgende vaststelling van dividend.
 
@@ -118,15 +92,15 @@ De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs m
 
 1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=4&z=2018-03-29&g=2018-03-29) zijn de vennootschap die dividend verschuldigd is, degene bij wie de opbrengst betaalbaar is gesteld, het administratiekantoor dat de opbrengst doorbetaalt aan certificaathouders, en degene tot wiens beroep het kopen of innen van dividendbewijzen gewoonlijk behoort, bevoegd die opbrengst uit te betalen zonder inhouding van dividendbelasting indien de gerechtigde tot de opbrengst een vrijgesteld pensioenfonds als bedoeld in artikel 35 van het Verdrag is, die gerechtigde voor dividenden als bedoeld in artikel 10, tweede lid, onderdeel b, van het Verdrag in aanmerking komt voor vrijstelling van dividendbelasting en hij bij het dividendbewijs overlegt:
 
-- a. een certificaat (formulier 6166), geldig voor het betrokken belastingjaar en afgegeven door de Amerikaanse Internal Revenue Service overeenkomstig de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, **Stcrt**. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, **Stcrt**. 2010, nr. 4769; en
+- a. een certificaat (formulier 6166), geldig voor het betrokken belastingjaar en afgegeven door de Amerikaanse Internal Revenue Service overeenkomstig de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, *Stcrt*. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, *Stcrt*. 2010, nr. 4769; en
 
-- b. een door de gerechtigde ingevulde en ondertekende verklaring waarin is opgenomen een bevestiging omtrent het voldoen aan de voorwaarden van artikel 26 en artikel 35 van het Verdrag, in samenhang met de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, **Stcrt**. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, **Stcrt**. 2010, nr. 4769, in tweevoud op een formulier volgens het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&bijlage=I&z=2018-03-29&g=2018-03-29) opgenomen model (formulier IB 96 USA).
+- b. een door de gerechtigde ingevulde en ondertekende verklaring waarin is opgenomen een bevestiging omtrent het voldoen aan de voorwaarden van artikel 26 en artikel 35 van het Verdrag, in samenhang met de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, *Stcrt*. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, *Stcrt*. 2010, nr. 4769, in tweevoud op een formulier volgens het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&bijlage=I&z=2018-03-29&g=2018-03-29) opgenomen model (formulier IB 96 USA).
 
 ##### Artikel 6. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden genoten door vrijgestelde pensioenfondsen en vrijgestelde organisaties (teruggaafprocedure)
 
 1. Een inwoner van de Verenigde Staten van Amerika die ingevolge artikel 35 of artikel 36 van het Verdrag in aanmerking komt voor vrijstelling van dividendbelasting voor dividenden als bedoeld in artikel 10, tweede lid, onderdeel a, van het Verdrag, heeft recht op teruggaaf van hetgeen aan dividendbelasting is ingehouden.
 
-2. Tot het verkrijgen van teruggaaf richt de belanghebbende een verzoek aan de inspecteur van het organisatieonderdeel van de Belastingdienst onder wie het lichaam ressorteert dat de dividenden heeft betaald. In het verzoek wordt verklaard dat wordt voldaan aan de voorwaarden van artikel 35, in samenhang met de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, **Stcrt**. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, **Stcrt**. 2010, nr. 4769, of artikel 36 van het Verdrag. Bij het verzoek legt belanghebbende een certificaat (formulier 6166) over, geldig voor het betrokken belastingjaar en afgegeven door de Amerikaanse Internal Revenue Service.
+2. Tot het verkrijgen van teruggaaf richt de belanghebbende een verzoek aan de inspecteur van het organisatieonderdeel van de Belastingdienst onder wie het lichaam ressorteert dat de dividenden heeft betaald. In het verzoek wordt verklaard dat wordt voldaan aan de voorwaarden van artikel 35, in samenhang met de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, *Stcrt*. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, *Stcrt*. 2010, nr. 4769, of artikel 36 van het Verdrag. Bij het verzoek legt belanghebbende een certificaat (formulier 6166) over, geldig voor het betrokken belastingjaar en afgegeven door de Amerikaanse Internal Revenue Service.
 
 3. Het in het tweede lid bedoelde verzoek en certificaat (formulier 6166) worden ingeleverd bij het Nederlandse lichaam dat de dividenden heeft betaald. Het Nederlandse lichaam zendt het verzoek, met toevoeging daaraan van de in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=2&z=2018-03-29&g=2018-03-29), bedoelde gegevens, en het certificaat (formulier 6166) aan de in het tweede lid bedoelde inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
@@ -138,7 +112,7 @@ De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs m
 
 1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=6&z=2018-03-29&g=2018-03-29) kan een lichaam dat aan een vrijgesteld pensioenfonds als bedoeld in artikel 35 van het Verdrag, dat inwoner van de Verenigde Staten van Amerika is, dividenden als bedoeld in artikel 10, tweede lid, onderdeel a, van het Verdrag betaalt waarvoor ingevolge artikel 35 van het Verdrag recht bestaat op vrijstelling van dividendbelasting, bij de Belastingdienst/kantoor Arnhem, Team dividendbelasting, Postbus 9007, 5400 DJ Arnhem, het verzoek indienen ontslagen te worden van de verplichting tot inhouding van die belasting.
 
-2. Bij het verzoek wordt een door de Amerikaanse Internal Revenue Service overeenkomstig de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, **Stcrt**. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, **Stcrt**. 2010, nr. 4769, afgegeven geldig certificaat (formulier 6166) overgelegd.
+2. Bij het verzoek wordt een door de Amerikaanse Internal Revenue Service overeenkomstig de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, *Stcrt*. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, *Stcrt*. 2010, nr. 4769, afgegeven geldig certificaat (formulier 6166) overgelegd.
 
 In het verzoek wordt voorts opgaaf verstrekt van:
 
@@ -148,17 +122,17 @@ In het verzoek wordt voorts opgaaf verstrekt van:
 
 - c. het aantal van die stemmen dat het in het eerste lid bedoelde pensioenfonds dat inwoner is van de Verenigde Staten van Amerika, onmiddellijk in het Nederlandse lichaam bezit.
 
-In het verzoek wordt voorts verklaard dat het bedoelde pensioenfonds dat inwoner is van de Verenigde Staten van Amerika, voldoet aan de voorwaarden van artikel 26 en artikel 35 van het Verdrag, in samenhang met de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, **Stcrt**. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, **Stcrt**. 2010, nr. 4769.
+In het verzoek wordt voorts verklaard dat het bedoelde pensioenfonds dat inwoner is van de Verenigde Staten van Amerika, voldoet aan de voorwaarden van artikel 26 en artikel 35 van het Verdrag, in samenhang met de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, *Stcrt*. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, *Stcrt*. 2010, nr. 4769.
 
 3. Indien de inspecteur van het organisatieonderdeel van de Belastingdienst onder wie de Nederlandse vennootschap ressorteert gunstig beslist op het verzoek blijft zijn beslissing van kracht met betrekking tot elk daarin genoemd pensioenfonds dat inwoner is van de Verenigde Staten van Amerika voor ten hoogste vier jaren, gerekend vanaf de dagtekening van de beschikking en zolang er aan de volgende voorwaarden wordt voldaan:
 
-- –. het pensioenfonds inwoner van de Verenigde Staten van Amerika blijft,
+- – het pensioenfonds inwoner van de Verenigde Staten van Amerika blijft,
 
-- –. het pensioenfonds onmiddellijk ten minste 10 percent van het totale aantal stemmen in het Nederlandse lichaam bezit,
+- – het pensioenfonds onmiddellijk ten minste 10 percent van het totale aantal stemmen in het Nederlandse lichaam bezit,
 
-- –. het pensioenfonds blijft voldoen aan de voorwaarden van artikel 26 en artikel 35 van het Verdrag, en
+- – het pensioenfonds blijft voldoen aan de voorwaarden van artikel 26 en artikel 35 van het Verdrag, en
 
-- –. het certificaat van de Amerikaanse Internal Revenue Service geldig is.
+- – het certificaat van de Amerikaanse Internal Revenue Service geldig is.
 
 De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs moet vermoeden dat zulks in enig opzicht niet meer het geval is, is gehouden aan vorenbedoelde inspecteur schriftelijke mededeling te doen vóór de eerstvolgende vaststelling van dividend.
 
@@ -188,7 +162,7 @@ De Minister van Financiën kan, in afwijking van deze regeling, onder nadere voo
 
 De volgende regeling wordt ingetrokken met ingang van de inwerkingtreding van deze regeling:
 
-- –. [Regeling van 28 april 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027646), nr. DGB 2010/2251M, Stcrt. 2010, 7347.
+- – [Regeling van 28 april 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027646), nr. DGB 2010/2251M, Stcrt. 2010, 7347.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -197,13 +171,3 @@ De volgende regeling wordt ingetrokken met ingang van de inwerkingtreding van de
 2. Deze regeling vindt toepassing met betrekking tot dividenden die betaald zijn of betaalbaar zijn gesteld op of na 1 maart 2015.
 
 3. Deze regeling wordt aangehaald als: Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland – Verenigde Staten van Amerika 1992.
-
-## Bijlage I
-
-Gepubliceerd op www.belastingdienst.nl.
-
-## Bijlage II
-
-Gepubliceerd op www.belastingdienst.nl.
-
-Deze regeling zal in de **Staatscourant** worden geplaatst.

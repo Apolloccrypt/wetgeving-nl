@@ -1,60 +1,38 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 5 februari 2015, nr. IENM/BSK-2015/18222, houdende vaststelling van regels ter bepaling van de status einde-afval van recyclinggranulaat (Regeling vaststelling van de status einde-afval van recyclinggranulaat)"
+citeertitel: "Regeling vaststelling van de status einde-afval van recyclinggranulaat"
 identifier: "BWBR0036239"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036239"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12975623"
-version_id: "27420252"
-internal_id: "C38714851"
-label_id: "12944704"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036239/2024-01-01/0"
-intitule_bron: "Stcrt.2015-3498"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-05"
-intitule_published: "2015-02-06"
-intitule_in_force: "2015-02-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-64380"
-original_signed_date: "2020-12-01"
-original_published_date: "2020-12-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-64380"
-entry_into_force_date: "2020-12-01"
-jci_1_3: "jci1.3:c:BWBR0036239&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0036239&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vaststelling van de status einde-afval van recyclinggranulaat"
-signed_date: "2020-12-01"
-entry_into_force: "2020-12-01"
+publicatiedatum: 2020-12-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0036239"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 5 februari 2015, nr. IENM/BSK-2015/18222, houdende vaststelling van regels ter bepaling van de status einde-afval van recyclinggranulaat (Regeling vaststelling van de status einde-afval van recyclinggranulaat)
-
-Gelet op [artikel 1.1, zesde lid, tweede volzin, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1);
-
-BESLUIT:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **PAK’s:** polycyclische aromatische koolwaterstoffen als bedoeld in [bijlage A bij de Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085&bijlage=A);
+- *PAK’s:* polycyclische aromatische koolwaterstoffen als bedoeld in [bijlage A bij de Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085&bijlage=A);
 
-- **producent:** degene wiens bedrijfsactiviteit het is om steenachtige afvalstoffen te bewerken tot recyclinggranulaat;
+- *producent:* degene wiens bedrijfsactiviteit het is om steenachtige afvalstoffen te bewerken tot recyclinggranulaat;
 
-- **recyclinggranulaat:** granulaat dat ontstaat bij het bewerken van steenachtige afvalstoffen en dat is geproduceerd overeenkomstig een norm als genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=1&z=2024-01-01&g=2024-01-01);
+- *recyclinggranulaat:* granulaat dat ontstaat bij het bewerken van steenachtige afvalstoffen en dat is geproduceerd overeenkomstig een norm als genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=1&z=2024-01-01&g=2024-01-01);
 
-- **steenachtige afvalstoffen:** steenachtige afvalstoffen die vrijkomen bij het bouwen, renoveren en slopen van bouwwerken en wegen en andere afvalstoffen die qua aard en samenstelling daaraan gelijkwaardig zijn;
+- *steenachtige afvalstoffen:* steenachtige afvalstoffen die vrijkomen bij het bouwen, renoveren en slopen van bouwwerken en wegen en andere afvalstoffen die qua aard en samenstelling daaraan gelijkwaardig zijn;
 
-- **toeslagstoffen:** stoffen die worden toegevoegd aan recyclinggranulaat om daarmee de prestaties van het granulaat te verbeteren of te beïnvloeden;
+- *toeslagstoffen:* stoffen die worden toegevoegd aan recyclinggranulaat om daarmee de prestaties van het granulaat te verbeteren of te beïnvloeden;
 
-- **verordening bouwproducten:** verordening (EU) nr. 305/2011 van het Europees Parlement en de Raad van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van [Richtlijn 89/106/EEG](31989L0106) van de Raad (PbEU 2011, L88).
+- *verordening bouwproducten:* verordening (EU) nr. 305/2011 van het Europees Parlement en de Raad van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van Richtlijn 89/106/EEG van de Raad (PbEU 2011, L88).
+
+##### Artikel 1a. Grondslag
+
+Deze regeling berust op [artikel 1.1, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 2. Recyclinggranulaat geen afval
 
@@ -78,15 +56,15 @@ In deze regeling wordt verstaan onder:
 
 - a. een procedure voor acceptatie waarmee door middel van in ieder geval visuele waarneming geconstateerd kan worden dat de te bewerken steenachtige afvalstoffen tot recyclinggranulaat de volgende stoffen en materialen niet bevatten:
 
-- 1°. asbest en asbesthoudende of asbestverdachte materialen,
+   - 1°. asbest en asbesthoudende of asbestverdachte materialen,
 
-- 2°. teerhoudend asfalt,
+   - 2°. teerhoudend asfalt,
 
-- 3°. dakbedekkingsmaterialen,
+   - 3°. dakbedekkingsmaterialen,
 
-- 4°. huishoudelijke afvalstoffen,
+   - 4°. huishoudelijke afvalstoffen,
 
-- 5°. gips, grond, roet en hout in een mate waarmee de kwaliteit van recyclinggranulaat in gevaar kan komen;
+   - 5°. gips, grond, roet en hout in een mate waarmee de kwaliteit van recyclinggranulaat in gevaar kan komen;
 
 - b. een procedure voor de keuze van te controleren aangeboden ladingen met te bewerken steenachtige afvalstoffen;
 
@@ -193,60 +171,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaststelling van de status einde-afval van recyclinggranulaat.
-
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=1&z=2015-02-07&g=2015-02-07)
-
-| Europese productnorm | Naam productnorm |
-| --- | --- |
-| NEN- EN 12620 | Toeslagmaterialen voor beton |
-| NEN-EN 13043 | Toeslagmaterialen voor asfalt en oppervlakbehandeling voor wegen, vliegvelden en andere verkeersgebieden |
-| NEN-EN 13242 | Korrelvormige materialen voor ongebonden en hydraulisch gebonden materialen voor civieltechnische werken en de wegenbouw |
-| NEN-EN 13285 | Verhardingslagen van steenmengsel |
-| NEN-EN 13383-1 | Waterbouwsteen |
-| NEN-EN 13450 | Toeslagmaterialen voor spoorwegballast |
-| NEN-EN 14227-2 | Hydraulisch gebonden mengsels – Specificaties – Deel 2: Slakgebonden mengsels |
-| NEN-EN 14227-1 | Hydraulisch gebonden mengsels – Specificaties – Deel 1: Cementgebonden mengsels |
-| NEN-EN 13108-8 | Asfaltgranulaat voor warm asfalt |
-
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=1&z=2024-01-01&g=2024-01-01)
-
-| Europese productnorm | Naam productnorm |
-| --- | --- |
-| NEN- EN 12620 | Toeslagmaterialen voor beton |
-| NEN-EN 13043 | Toeslagmaterialen voor asfalt en oppervlakbehandeling voor wegen, vliegvelden en andere verkeersgebieden |
-| NEN-EN 13242 | Korrelvormige materialen voor ongebonden en hydraulisch gebonden materialen voor civieltechnische werken en de wegenbouw |
-| NEN-EN 13285 | Verhardingslagen van steenmengsel |
-| NEN-EN 13383-1 | Waterbouwsteen |
-| NEN-EN 13450 | Toeslagmaterialen voor spoorwegballast |
-| NEN-EN 14227-2 | Hydraulisch gebonden mengsels – Specificaties – Deel 2: Slakgebonden mengsels |
-| NEN-EN 14227-1 | Hydraulisch gebonden mengsels – Specificaties – Deel 1: Cementgebonden mengsels |
-| NEN-EN 13108-8 | Asfaltgranulaat voor warm asfalt |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 1.1, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
-
-## Bijlage 2. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01)
-
-| Conformiteitverklaring [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01) – Regeling vaststelling van de status einde-afval van recyclinggranulaat |
-| --- |
-| 1. Producent (naam inschrijving KvK): Adres: Contactpersoon: Tel: Fax: E-mail |
-| 2. Type recyclinggranulaat: |
-|   |
-| Beoogde toepassing: |
-| 3. Nummer certificaat (indien van toepassing): |
-|   |
-| of Referentie partijkeuring [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) (indien van toepassing): |
-|   |
-| en, Nummer Europese norm volgens welke het product is geproduceerd: |
-|   |
-| 4. a. Het recyclinggranulaat waarop genoemd certificaatnummer van toepassing is, voldoet aan het gestelde in de regeling. |
-|   |
-| b. Het recyclinggranulaat is geproduceerd onder een kwaliteitsborgingsysteem dat ten minste voldoet aan het gestelde in [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01), van de Regeling vaststelling van de status einde-afval van recyclinggranulaat. |
-| 5. Ik bevestig dat bovenstaande informatie volledig en correct is. |
-|   |
-| Naam: Datum: Handtekening: |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

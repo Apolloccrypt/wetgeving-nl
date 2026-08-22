@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 augustus 2018, nr. 2018-0000665017, houdende vaststelling van de reis- en verblijfkostenvergoedingen voor Rijksambtenaren BES (Reisregeling Rijksambtenaren BES)"
+citeertitel: "Reisregeling Rijksambtenaren BES"
 identifier: "BWBR0041296"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041296"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "14708773"
-version_id: "25202052"
-internal_id: "C36035101"
-label_id: "14660944"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041296/2018-10-01/0"
-intitule_bron: "Stcrt.2018-44582"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-08-16"
-intitule_published: "2018-08-31"
-intitule_in_force: "2018-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-44582"
-original_signed_date: "2018-08-16"
-original_published_date: "2018-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-44582"
-entry_into_force_date: "2018-10-01"
-jci_1_3: "jci1.3:c:BWBR0041296&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0041296&g=2018-10-01"
-citeertitel_status: "officieel"
-short_title: "Reisregeling Rijksambtenaren BES"
-signed_date: "2018-08-16"
-entry_into_force: "2018-10-01"
+publicatiedatum: 2018-10-01
+laatste_update: 2026-08-20
+status: geldig
+toestand: 2026-08-20
+bron: "https://wetten.overheid.nl/BWBR0041296"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 augustus 2018, nr. 2018-0000665017, houdende vaststelling van de reis- en verblijfkostenvergoedingen voor Rijksambtenaren BES (Reisregeling Rijksambtenaren BES)
-
-Gelet op de [artikelen 67, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=67), en [77, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=77) en de [artikelen 81, vijfde lid, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=81);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** ambtenaar in dienst van de staat;
+- a. *ambtenaar:* ambtenaar in dienst van de staat;
 
-- b. **plaats van tewerkstelling:** gebouw, gebouwencomplex, terrein of vaartuig waar of van waaruit de ambtenaar gewoonlijk zijn werkzaamheden verricht;
+- b. *plaats van tewerkstelling:* gebouw, gebouwencomplex, terrein of vaartuig waar of van waaruit de ambtenaar gewoonlijk zijn werkzaamheden verricht;
 
-- c. **standplaats:** openbaar lichaam waar de plaats van tewerkstelling is gelegen;
+- c. *standplaats:* openbaar lichaam waar de plaats van tewerkstelling is gelegen;
 
-- d. **dienstreis:** door het bevoegde gezag schriftelijk opgedragen reis, daaronder begrepen het hiermee verband houdende verblijf buiten de standplaats in verband met het verrichten van werkzaamheden of scholing, bedoeld in [artikel 72a van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72a);
+- d. *dienstreis:* door het bevoegde gezag schriftelijk opgedragen reis, daaronder begrepen het hiermee verband houdende verblijf buiten de standplaats in verband met het verrichten van werkzaamheden of scholing, bedoeld in [artikel 72a van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72a);
 
-- e. **tarieflijst:** in [bijlage I, behorende bij artikel 3, eerste lid, van de Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914&bijlage=I), opgenomen lijst.
+- e. *tarieflijst:* de geldende tarieflijst verblijfkosten buitenlandse dienstreizen, behorende bij de CAO Rijk.
 
 ##### Artikel 2. Begin en eind van de dienstreis
 
@@ -100,7 +74,7 @@ Indien voor een binnen de standplaats verlopend gedeelte van de dienstreis dat a
 
 ##### Artikel 6. Bezoek aan eigen standplaats bij reizen van lange duur
 
-Bij een dienstreis binnen het Caribisch deel van Nederland van langer dan dertig dagen, een verlenging op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=1&artikel=2&z=2018-10-01&g=2018-10-01), niet meegerekend, worden met overeenkomstige toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01) een maal per maand de reiskosten van het openbaar lichaam van bestemming naar de standplaats en terug vergoed.
+Bij een dienstreis binnen het Caribisch deel van Nederland van langer dan dertig dagen, een verlenging op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=1&artikel=2&z=2026-08-20&g=2026-08-20), niet meegerekend, worden met overeenkomstige toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=3&z=2026-08-20&g=2026-08-20) een maal per maand de reiskosten van het openbaar lichaam van bestemming naar de standplaats en terug vergoed. Deze aanspraak is overdraagbaar aan een familielid van de ambtenaar in de eerste of tweede graad, met dien verstande dat vergoeding in dat geval ziet op de reiskosten van de standplaats naar het openbaar lichaam van bestemming en terug.
 
 #### § 3. Vergoedingen wegens verblijfkosten
 
@@ -108,7 +82,7 @@ Bij een dienstreis binnen het Caribisch deel van Nederland van langer dan dertig
 
 1. Aan de ambtenaar die tijdens de dienstreis overnachting van overheidswege ontvangt en daarvoor kosten maakt, worden deze kosten vergoed. In geval van de verstrekking van overheidswege geen gebruik is gemaakt, bestaat geen aanspraak op vergoeding, tenzij betrokkene aannemelijk maakt dat hij daarvan geen gebruik heeft kunnen maken.
 
-2. Indien de ambtenaar geen overnachting van overheidswege ontvangt, worden zijn logieskosten tijdens de dienstreis vergoed met inachtneming van [artikel 8, eerste, tweede, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=3&artikel=8&z=2018-10-01&g=2018-10-01). Indien geen bewijsstukken kunnen worden overlegd waaruit blijkt dat logieskosten zijn gemaakt in een daarvoor bestemde gelegenheid, wordt voor ten hoogste vier overnachtingen per dienstreis een bedrag vergoed van USD 45,00 per nacht.
+2. Indien de ambtenaar geen overnachting van overheidswege ontvangt, worden zijn logieskosten tijdens de dienstreis vergoed met inachtneming van [artikel 8, eerste, tweede, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=3&artikel=8&z=2026-08-20&g=2026-08-20). Indien geen bewijsstukken kunnen worden overlegd waaruit blijkt dat logieskosten zijn gemaakt in een daarvoor bestemde gelegenheid, wordt voor ten hoogste vier overnachtingen per dienstreis een bedrag vergoed van USD 45,00 per nacht.
 
 3. In dit artikel wordt verstaan onder overnachting van overheidswege: overnachting verstrekt vanwege het bevoegd gezag, het rijk of een ander Caribisch Nederlands of Europees Nederlands publiekrechtelijk lichaam of semipubliekrechtelijk lichaam, dan wel opleidingsinstituut.
 
@@ -156,13 +130,15 @@ Indien de dienstreis een bestemming heeft waarvoor op het tijdstip van verblijf 
 
 1. Bij een dienstreis binnen het Caribisch deel van Nederland van meer dan dertig dagen draagt het bevoegd gezag zo mogelijk zorg voor een ingerichte woning in het openbaar lichaam van bestemming. De volgende zaken worden door het bevoegd gezag vergoed: huur, water, elektra en internet.
 
-2. Ingeval de ambtenaar door toepassing van het eerste lid de beschikking heeft over een ingerichte woning, bedraagt de vergoeding voor verblijfkosten in afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=3&artikel=8&z=2018-10-01&g=2018-10-01), vanaf de dag dat de ambtenaar het openbaar lichaam van bestemming bereikt per dag USD 55,00.
+2. Ingeval de ambtenaar door toepassing van het eerste lid de beschikking heeft over een ingerichte woning, bedraagt de vergoeding voor verblijfkosten in afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=3&artikel=8&z=2026-08-20&g=2026-08-20), vanaf de dag dat de ambtenaar het openbaar lichaam van bestemming bereikt per dag USD 95,00.
+
+3. Als de bezoldiging van ambtenaren als bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de vergoeding, bedoeld in het tweede lid, bij ministeriële regeling op gelijke voet gewijzigd. Als de bezoldiging niet met een voor alle ambtenaren gelijk percentage wijzigt, wordt voor de toepassing van dit lid uitgegaan van het percentage waarmee de bezoldiging gemiddeld wijzigt of het percentage dat met toepassing van [artikel 2.2 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.2) is afgesproken.
 
 #### § 4. Overige bepalingen
 
 ##### Artikel 11. Vaste reissom
 
-1. Ter vervanging van de vergoedingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=4&z=2018-10-01&g=2018-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=5&z=2018-10-01&g=2018-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=6&z=2018-10-01&g=2018-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=3&artikel=7&z=2018-10-01&g=2018-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=3&artikel=8&z=2018-10-01&g=2018-10-01), kan het bevoegd gezag voor de reiskosten en de verblijfkosten, zowel afzonderlijk als tezamen, met inachtneming van het tweede en derde lid, vaste reissommen per maand of kwartaal vaststellen.
+1. Ter vervanging van de vergoedingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=3&z=2026-08-20&g=2026-08-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=4&z=2026-08-20&g=2026-08-20), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=5&z=2026-08-20&g=2026-08-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=2&artikel=6&z=2026-08-20&g=2026-08-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=3&artikel=7&z=2026-08-20&g=2026-08-20) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&paragraaf=3&artikel=8&z=2026-08-20&g=2026-08-20), kan het bevoegd gezag voor de reiskosten en de verblijfkosten, zowel afzonderlijk als tezamen, met inachtneming van het tweede en derde lid, vaste reissommen per maand of kwartaal vaststellen.
 
 2. Bij de berekening van het bedrag van een vaste reissom als bedoeld in het eerste lid wordt rekening gehouden met de veelvuldigheid en de duur der dienstreizen en de daarmee samenhangende gemiddelde verblijfkosten die de dienstuitoefening of scholing van de ambtenaar in de regel vereist. De vaste reissom bedraagt niet meer dan de vergoeding die hij vervangt.
 
@@ -188,25 +164,25 @@ Indien van derden een vergoeding wordt ontvangen voor de in deze regeling bedoel
 
 In gevallen waarin niet of niet voldoende in deze regeling is voorzien, beslist het bevoegd gezag naar redelijkheid en, waar mogelijk, in overeenstemming met de strekking van de bepalingen van deze regeling.
 
-##### Artikel 16. Wijziging van de [Reis- verblijf- en verhuiskostenregeling ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029422)
+##### Artikel 16. Wijziging van de Reis- verblijf- en verhuiskostenregeling ambtenaren BES
 
-Wijzigt de Reis- verblijf- en verhuiskostenregeling ambtenaren BES.
+*Wijzigt de Reis- verblijf- en verhuiskostenregeling ambtenaren BES.*
 
-##### Artikel 17. Wijziging van de [Regeling toelage bij tijdelijke verandering werkgebied korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036472)
+##### Artikel 17. Wijziging van de Regeling toelage bij tijdelijke verandering werkgebied korps politie BES
 
-Wijzigt de Regeling toelage bij tijdelijke verandering werkgebied korps politie BES.
+*Wijzigt de Regeling toelage bij tijdelijke verandering werkgebied korps politie BES.*
 
-##### Artikel 18. Wijziging van de [Regeling vergoeding vervoermiddelen 1950 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028781)
+##### Artikel 18. Wijziging van de Regeling vergoeding vervoermiddelen 1950 BES
 
-Wijzigt de Regeling vergoeding vervoermiddelen 1950 BES.
+*Wijzigt de Regeling vergoeding vervoermiddelen 1950 BES.*
 
-##### Artikel 19. Wijziging van de [Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762)
+##### Artikel 19. Wijziging van de Arbeidsvrederegeling BES
 
-Wijzigt de Arbeidsvrederegeling BES.
+*Wijzigt de Arbeidsvrederegeling BES.*
 
-##### Artikel 20. Wijziging van de [Regeling rechtspositie leden Commissie toezicht bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0034810)
+##### Artikel 20. Wijziging van de Regeling rechtspositie leden Commissie toezicht bescherming persoonsgegevens BES
 
-Wijzigt de Regeling rechtspositie leden Commissie toezicht bescherming persoonsgegevens BES.
+*Wijzigt de Regeling rechtspositie leden Commissie toezicht bescherming persoonsgegevens BES.*
 
 ##### Artikel 21. Overgangsrecht
 
@@ -214,10 +190,8 @@ Vliegtuigtickets die voor de inwerkingtreding van dit besluit zijn verstrekt of 
 
 ##### Artikel 22
 
-Deze regeling treedt in werking met ingang van 1 oktober 2018.
+Deze regeling treedt in werking met ingang van 1 oktober 2018.
 
 ##### Artikel 23
 
 Deze regeling wordt aangehaald als: Reisregeling Rijksambtenaren BES
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

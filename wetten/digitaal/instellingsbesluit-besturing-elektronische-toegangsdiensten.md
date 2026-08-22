@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 15 april 2015, nr. WJZ/15023462, houdende instelling van de besturing van een afsprakenstelsel elektronische toegangsdiensten (Instellingsbesluit besturing elektronische toegangsdiensten)"
+citeertitel: "Instellingsbesluit besturing elektronische toegangsdiensten"
 identifier: "BWBR0036524"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-11-03"
-last_updated: "2017-11-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036524"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13137173"
-version_id: "22386992"
-internal_id: "C32047071"
-label_id: "13106284"
-dtd_version: "2.0"
-original_entry_into_force: "2015-04-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036524/2017-11-03/0"
-intitule_bron: "Stcrt.2015-10829"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-15"
-intitule_published: "2015-04-16"
-intitule_in_force: "2015-04-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-10829"
-original_signed_date: "2015-04-15"
-original_published_date: "2015-04-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-10829"
-entry_into_force_date: "2015-04-17"
-jci_1_3: "jci1.3:c:BWBR0036524&z=2017-11-03&g=2017-11-03"
-jci_1_0: "1.0:c:BWBR0036524&g=2017-11-03"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit besturing elektronische toegangsdiensten"
-signed_date: "2015-04-15"
-entry_into_force: "2015-04-17"
+publicatiedatum: 2015-04-17
+laatste_update: 2017-11-03
+status: geldig
+toestand: 2017-11-03
+bron: "https://wetten.overheid.nl/BWBR0036524"
+opgehaald: 2026-08-22
 ---
-# Besluit van de Minister van Economische Zaken van 15 april 2015, nr. WJZ/15023462, houdende instelling van de besturing van een afsprakenstelsel elektronische toegangsdiensten (Instellingsbesluit besturing elektronische toegangsdiensten)
 
-Besluit:
+# Besluit van de Minister van Economische Zaken van 15 april 2015, nr. WJZ/15023462, houdende instelling van de besturing van een afsprakenstelsel elektronische toegangsdiensten (Instellingsbesluit besturing elektronische toegangsdiensten)
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -44,23 +20,23 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- –. **Afsprakenstelsel elektronische toegangsdiensten:** de laatst vastgestelde versie van het geheel van afspraken op het gebied van organisatie, beheer, architectuur, toepassingen, techniek, procedures en het netwerk voor elektronische toegangsdiensten;
+- – *Afsprakenstelsel elektronische toegangsdiensten:* de laatst vastgestelde versie van het geheel van afspraken op het gebied van organisatie, beheer, architectuur, toepassingen, techniek, procedures en het netwerk voor elektronische toegangsdiensten;
 
-- –. **deelnemer:** een partij die conform het Afsprakenstelsel elektronische toegangsdiensten één of meer rollen vervult binnen het netwerk voor elektronische toegangsdiensten;
+- – *deelnemer:* een partij die conform het Afsprakenstelsel elektronische toegangsdiensten één of meer rollen vervult binnen het netwerk voor elektronische toegangsdiensten;
 
-- –. **dienstverlener:** een overheidsorganisatie, een privaatrechtelijke rechtspersoon of een onderneming niet zijnde een privaatrechtelijke rechtspersoon die elektronische diensten aanbiedt;
+- – *dienstverlener:* een overheidsorganisatie, een privaatrechtelijke rechtspersoon of een onderneming niet zijnde een privaatrechtelijke rechtspersoon die elektronische diensten aanbiedt;
 
-- –. **elektronische toegangsdiensten:** diensten ten behoeve van het authenticeren en vaststellen van bevoegdheid bij en het ondertekenen van transacties in het kader van elektronische diensten van dienstverleners;
+- – *elektronische toegangsdiensten:* diensten ten behoeve van het authenticeren en vaststellen van bevoegdheid bij en het ondertekenen van transacties in het kader van elektronische diensten van dienstverleners;
 
-- –. **gebruiker:** een overheidsorganisatie, een privaatrechtelijke rechtspersoon of een natuurlijk persoon die conform het Afsprakenstelsel elektronische toegangsdiensten elektronische toegangsdiensten afneemt.
+- – *gebruiker:* een overheidsorganisatie, een privaatrechtelijke rechtspersoon of een natuurlijk persoon die conform het Afsprakenstelsel elektronische toegangsdiensten elektronische toegangsdiensten afneemt.
 
-- –. **minister:** de Minister van Economische Zaken;
+- – *minister:* de Minister van Economische Zaken;
 
-- –. **toehoorder:** vertegenwoordiger in het Strategisch Beraad van een rechtspersoon die niet is toegetreden tot het Afsprakenstelsel elektronische toegangsdiensten;
+- – *toehoorder:* vertegenwoordiger in het Strategisch Beraad van een rechtspersoon die niet is toegetreden tot het Afsprakenstelsel elektronische toegangsdiensten;
 
-- –. **waarnemer:** ambtenaar ressorterend onder de minister;
+- – *waarnemer:* ambtenaar ressorterend onder de minister;
 
-- –. **afgevaardigde:** een vertegenwoordiger die namens een dienstverlener, deelnemer of gebruiker zitting heeft in het Strategisch Beraad, het Tactisch Beraad of het Operationeel Beraad.
+- – *afgevaardigde:* een vertegenwoordiger die namens een dienstverlener, deelnemer of gebruiker zitting heeft in het Strategisch Beraad, het Tactisch Beraad of het Operationeel Beraad.
 
 #### Paragraaf 2. Het Strategisch Beraad
 
@@ -319,5 +295,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 34
 
 Dit besluit wordt aangehaald als: Instellingsbesluit besturing elektronische toegangsdiensten.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 1 april 2015 tot vaststelling van een nieuwe Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming (Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015)"
+citeertitel: "Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015"
 identifier: "BWBR0036510"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036510"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "13133843"
-version_id: "22379412"
-internal_id: "C32156911"
-label_id: "13102974"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036510/2020-01-01/0"
-intitule_bron: "Stb.2015-140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-01"
-intitule_published: "2015-04-10"
-intitule_in_force: "2015-05-07"
-intitule_status: "goed"
-original_publication: "Stb.2015-140"
-original_signed_date: "2015-04-01"
-original_published_date: "2015-04-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "33970"
-original_url_id: "stb-2015-140"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036510&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0036510&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015"
-signed_date: "2015-04-01"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0036510"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 1 april 2015 tot vaststelling van een nieuwe Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming (Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de rechtsprekende taak van de Raad voor strafrechtstoepassing en jeugdbescherming te versterken door de toetsingsgronden voor penitentiaire rechtspraak uit te breiden, de mogelijkheid tot cassatie in het belang der wet in te voeren en de rechtsprekende en adviserende taak van de Raad scherper te scheiden en daartoe de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming opnieuw vast te stellen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -49,17 +20,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Veiligheid en Justitie;
+- a. *Onze Minister:* Onze Minister van Veiligheid en Justitie;
 
-- b. **vrijheidsstraf:** gevangenisstraf, hechtenis, vervangende hechtenis, militaire detentie, jeugddetentie en vervangende jeugddetentie;
+- b. *vrijheidsstraf:* gevangenisstraf, hechtenis, vervangende hechtenis, militaire detentie, jeugddetentie en vervangende jeugddetentie;
 
-- c. **vrijheidsbeperkende straf:** voorwaardelijke vrijheidsstraf en taakstraf;
+- c. *vrijheidsbeperkende straf:* voorwaardelijke vrijheidsstraf en taakstraf;
 
-- d. **vrijheidsbenemende maatregel:** voorlopige hechtenis, vreemdelingenbewaring, gijzeling, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor jeugdigen, plaatsing in een justitiële jeugdinrichting of een gesloten accommodatie als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) in verband met de tenuitvoerlegging van een machtiging als bedoeld in de [artikelen 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2) en [6.1.3 van de Jeugdwe](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3)t, plaatsing in een inrichting voor stelselmatige daders en vrijheidsbeneming die op andere gronden dan de in onderdeel b genoemde gronden plaatsvindt;
+- d. *vrijheidsbenemende maatregel:* voorlopige hechtenis, vreemdelingenbewaring, gijzeling, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor jeugdigen, plaatsing in een justitiële jeugdinrichting of een gesloten accommodatie als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) in verband met de tenuitvoerlegging van een machtiging als bedoeld in de [artikelen 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2) en [6.1.3 van de Jeugdwe](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3)t, plaatsing in een inrichting voor stelselmatige daders en vrijheidsbeneming die op andere gronden dan de in onderdeel b genoemde gronden plaatsvindt;
 
-- e. **vrijheidsbeperkende maatregel:** voorwaardelijke vrijheidsbenemende maatregel;
+- e. *vrijheidsbeperkende maatregel:* voorwaardelijke vrijheidsbenemende maatregel;
 
-- f. **de Raad:** de Raad voor strafrechtstoepassing en jeugdbescherming, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01).
+- f. *de Raad:* de Raad voor strafrechtstoepassing en jeugdbescherming, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk 2. De Raad in het algemeen
 
@@ -135,25 +106,25 @@ De Raad is belast met de taken die hem bij of krachtens de wet zijn opgedragen.
 
 2. De leden worden voorts door de Raad, bij een met redenen omkleed besluit ontslagen, geschorst of bij ongeschiktheid wegens ziekte met een andere taak belast en de leden worden door de voorzitter van de Raad bij met redenen omkleed besluit, gewaarschuwd overeenkomstig [hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A), met dien verstande dat:
 
-- –. in plaats van «de rechterlijk ambtenaar» wordt gelezen: het lid;
+- – in plaats van «de rechterlijk ambtenaar» wordt gelezen: het lid;
 
-- –. in plaats van «Hoge Raad» wordt gelezen: Raad;
+- – in plaats van «Hoge Raad» wordt gelezen: Raad;
 
-- –. in plaats van «procureur-generaal» wordt gelezen: voorzitter;
+- – in plaats van «procureur-generaal» wordt gelezen: voorzitter;
 
-- –. in plaats van «plaatsvervangend procureur generaal» wordt gelezen: voorzitter van de Afdeling bestuursrechtspraak;
+- – in plaats van «plaatsvervangend procureur generaal» wordt gelezen: voorzitter van de Afdeling bestuursrechtspraak;
 
-- –. in plaats van «een gerecht» wordt gelezen: de Raad;
+- – in plaats van «een gerecht» wordt gelezen: de Raad;
 
-- –. in plaats van «functionele autoriteit» wordt gelezen: voorzitter;
+- – in plaats van «functionele autoriteit» wordt gelezen: voorzitter;
 
-- –. de Raad de mededeling van beslissingen, bedoeld in [artikel 46p, vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p), doet aan Onze Minister.
+- – de Raad de mededeling van beslissingen, bedoeld in [artikel 46p, vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p), doet aan Onze Minister.
 
 3. De [artikelen 46i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46k), en [46l tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l) zijn van overeenkomstige toepassing, met dien verstande dat wordt gelezen:
 
-- –. in plaats van «de rechterlijke ambtenaar»: het lid;
+- – in plaats van «de rechterlijke ambtenaar»: het lid;
 
-- –. in plaats van «Hoge Raad»: Raad.
+- – in plaats van «Hoge Raad»: Raad.
 
 ##### Artikel 8
 
@@ -225,11 +196,11 @@ De Raad kan zich voor het inwinnen van inlichtingen wenden tot daartoe door Onze
 
 ##### Artikel 18
 
-De Raad zendt jaarlijks voor 1 april aan Onze Minister een ontwerp voor de begroting voor het daaropvolgende kalenderjaar van de aan zijn taakvervulling verbonden uitgaven.
+De Raad zendt jaarlijks voor 1 april aan Onze Minister een ontwerp voor de begroting voor het daaropvolgende kalenderjaar van de aan zijn taakvervulling verbonden uitgaven.
 
 ##### Artikel 19
 
-1. De Raad zendt Onze Minister jaarlijks voor 15 november een werkprogramma voor het komende kalenderjaar toe.
+1. De Raad zendt Onze Minister jaarlijks voor 15 november een werkprogramma voor het komende kalenderjaar toe.
 
 2. Onze Minister verstrekt de Raad tijdig een overzicht van de voornemens om advies te vragen.
 
@@ -239,7 +210,7 @@ De Raad houdt bij het vervullen van zijn taken zo veel mogelijk rekening met het
 
 ##### Artikel 21
 
-De Raad stelt jaarlijks voor 1 april een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en de doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.
+De Raad stelt jaarlijks voor 1 april een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en de doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.
 
 ##### Artikel 22
 
@@ -345,25 +316,25 @@ Het is de leden van de Afdeling rechtspraak en de ten behoeve van deze afdeling 
 
 ##### Artikel 34
 
-Wijzigt de Penitentiaire beginselenwet.
+*Wijzigt de Penitentiaire beginselenwet.*
 
 ##### Artikel 35
 
-Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
+*Wijzigt de Beginselenwet verpleging ter beschikking gestelden.*
 
 ##### Artikel 36
 
-Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel 37
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
 ##### Artikel 38
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 39
 
@@ -384,5 +355,3 @@ Deze wet wordt aangehaald als: Instellingswet Raad voor strafrechtstoepassing en
 ##### Artikel 42
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken, artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

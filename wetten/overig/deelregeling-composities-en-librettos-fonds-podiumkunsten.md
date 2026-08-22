@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling composities en libretto's Fonds Podiumkunsten"
 identifier: "BWBR0036773"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-10-17"
-last_updated: "2024-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036773"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13196983"
-version_id: "22514892"
-internal_id: "C32298801"
-label_id: "13165534"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036773/2024-10-17/0"
-intitule_bron: "Stcrt.2015-18391"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-07-01"
-intitule_in_force: "2015-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-18391"
-original_published_date: "2015-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-18391"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036773&z=2024-10-17&g=2024-10-17"
-jci_1_0: "1.0:c:BWBR0036773&g=2024-10-17"
-citeertitel_status: "officieel"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2024-10-17
+status: geldig
+toestand: 2024-10-17
+bron: "https://wetten.overheid.nl/BWBR0036773"
+opgehaald: 2026-08-22
 ---
+
 # Deelregeling composities en libretto's Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit:
 
 #### Paragraaf 1. : algemene bepalingen
 
@@ -42,11 +19,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten+;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **Nederland:** Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
+- *Nederland:* Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
 
 ##### Artikel 1.2. Subsidievormen
 
@@ -98,21 +75,21 @@ Het bestuur kan subsidie verstrekken in de vorm van een werkbijdrage muziekauteu
 
 Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), subsidie weigeren:
 
-- a). als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
+- a) als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
 
-- b). als reeds eerder voor dezelfde activiteit subsidie is aangevraagd;
+- b) als reeds eerder voor dezelfde activiteit subsidie is aangevraagd;
 
-- c). als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
+- c) als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
-- d). als de aanvraag betrekking heeft op een reeds geheel of gedeeltelijk voltooide activiteit;
+- d) als de aanvraag betrekking heeft op een reeds geheel of gedeeltelijk voltooide activiteit;
 
-- e). als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording;
+- e) als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording;
 
-- f). als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 13 weken na de uiterste indiendatum;
+- f) als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 13 weken na de uiterste indiendatum;
 
-- g). als voor de activiteit al eerder op basis van onderhavige of een andere regeling van het Fonds Podiumkunsten subsidie is verstrekt;
+- g) als voor de activiteit al eerder op basis van onderhavige of een andere regeling van het Fonds Podiumkunsten subsidie is verstrekt;
 
-- h). als de aanvraag niet voldoet aan het bepaalde in deze regeling.
+- h) als de aanvraag niet voldoet aan het bepaalde in deze regeling.
 
 #### Paragraaf 2. : Ontwikkelbeurs muziekauteur
 
@@ -172,13 +149,13 @@ Een aanvraag heeft betrekking op een specifieke opdracht aan een door de aanvrag
 
 1. Een subsidie voor het verlenen van een opdracht kan worden verstrekt als:
 
-- a). een nieuw werk tot stand komt dat onder de naam van de muziekauteur wordt gepresenteerd;
+- a) een nieuw werk tot stand komt dat onder de naam van de muziekauteur wordt gepresenteerd;
 
-- b). de beoogde muziekauteur aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;
+- b) de beoogde muziekauteur aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;
 
-- c). de muziekauteur niet geacht kan worden deel uit te maken van de organisatie van de aanvrager;
+- c) de muziekauteur niet geacht kan worden deel uit te maken van de organisatie van de aanvrager;
 
-- d). de aanvraag aannemelijk maakt dat het werk meermalen zal worden uitgevoerd.
+- d) de aanvraag aannemelijk maakt dat het werk meermalen zal worden uitgevoerd.
 
 2. Het bestuur kan besluiten een aanvraag die niet voldoet aan het vereiste uit het eerste lid sub d in behandeling te nemen als de aanvrager niet kan worden tegengeworpen dat niet aan het vereiste wordt voldaan en het resultaat van de opdracht een bijzondere bijdrage kan leveren aan het doel van deze subsidievorm.
 
@@ -186,11 +163,11 @@ Een aanvraag heeft betrekking op een specifieke opdracht aan een door de aanvrag
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- a). motivering van de keuze voor de muziekauteur voor deze opdracht;
+- a) motivering van de keuze voor de muziekauteur voor deze opdracht;
 
-- b). publieksbereik;
+- b) publieksbereik;
 
-- c). betekenis van het resultaat van de activiteiten voor de podiumkunsten in Nederland.
+- c) betekenis van het resultaat van de activiteiten voor de podiumkunsten in Nederland.
 
 2. Aanvullend kan in de beoordeling worden gekeken naar de bijdrage die aanvragen leveren aan de pluriformiteit van het podiumkunstenaanbod in Nederland.
 
@@ -220,13 +197,13 @@ Een aanvraag heeft betrekking op het beleid van een aanvrager met betrekking tot
 
 Een subsidie voor het verlenen van een serie opdrachten kan worden verstrekt als:
 
-- a). de aanvraag betrekking heeft op muziekauteurs die als zodanig aantoonbaar geïntegreerd zijn in de professionele podiumkunstpraktijk in Nederland;
+- a) de aanvraag betrekking heeft op muziekauteurs die als zodanig aantoonbaar geïntegreerd zijn in de professionele podiumkunstpraktijk in Nederland;
 
-- b). er minimaal twee nieuwe werken tot stand komen;
+- b) er minimaal twee nieuwe werken tot stand komen;
 
-- c). de aanvraag aannemelijk maakt dat de werken die tot stand komen meermalen zullen worden uitgevoerd;
+- c) de aanvraag aannemelijk maakt dat de werken die tot stand komen meermalen zullen worden uitgevoerd;
 
-- d). de aanvraag aannemelijk maakt dat de aanvrager een eigen bijdrage levert voor het verstrekken van opdrachten in de periode waarvoor wordt aangevraagd ter hoogte van minimaal 10% van het gevraagde subsidiebedrag.
+- d) de aanvraag aannemelijk maakt dat de aanvrager een eigen bijdrage levert voor het verstrekken van opdrachten in de periode waarvoor wordt aangevraagd ter hoogte van minimaal 10% van het gevraagde subsidiebedrag.
 
 ##### Artikel 4.5. Beoordeling
 
@@ -244,7 +221,7 @@ Een subsidie voor het verlenen van een serie opdrachten kan worden verstrekt als
 
 ##### Artikel 4.6. Hoogte subsidie
 
-De hoogte van het subsidie wordt vastgesteld op basis van de aard en omvang van de activiteiten en bedraagt minimaal € 10.500 en maximaal € 78.750 per jaar.
+De hoogte van het subsidie wordt vastgesteld op basis van de aard en omvang van de activiteiten en bedraagt minimaal € 10.500 en maximaal € 78.750 per jaar.
 
 #### Paragraaf 5. : Overige bepalingen
 
@@ -252,15 +229,15 @@ De hoogte van het subsidie wordt vastgesteld op basis van de aard en omvang van 
 
 De ontvanger van het subsidie meldt onverwijld aan het bestuur als:
 
-- a). de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan; of
+- b) niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan; of
 
-- c). er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
+- c) er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
 ##### Artikel 5.2. Verantwoording bij subsidies tot € 25.000
 
-1. Als het verstrekte subsidie kleiner is dan € 25.000, kan het bestuur na het verstrijken van de in de beschikking opgenomen einddatum de ontvanger van het subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+1. Als het verstrekte subsidie kleiner is dan € 25.000, kan het bestuur na het verstrijken van de in de beschikking opgenomen einddatum de ontvanger van het subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
 2. Als de ontvanger van de subsidie niet kan aantonen dat de activiteiten waarvoor subsidie is verstrekt volgens plan hebben plaatsgevonden, kan het bestuur het subsidie lager vaststellen of intrekken.
 
@@ -270,7 +247,7 @@ De ontvanger van het subsidie meldt onverwijld aan het bestuur als:
 
 ##### Artikel 5.3. Verantwoording bij subsidies van € 25.000 en groter
 
-1. Als het verstrekte subsidie € 25.000 of meer bedraagt, stuurt de ontvanger van het subsidie binnen 13 weken na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+1. Als het verstrekte subsidie € 25.000 of meer bedraagt, stuurt de ontvanger van het subsidie binnen 13 weken na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
 2. Als de ontvanger van de subsidie niet kan aantonen dat de activiteiten waarvoor subsidie is verstrekt volgens plan hebben plaatsgevonden, kan het bestuur het subsidie lager vaststellen of intrekken.
 
@@ -282,7 +259,7 @@ Subsidie wordt verstrekt onder voorbehoud van verstrekking van de bijbehorende m
 
 ##### Artikel 5.5. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2015.
+Deze regeling treedt in werking met ingang van 1 juli 2015.
 
 ##### Artikel 5.6. Intrekking
 
@@ -293,5 +270,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2015.
 ##### Artikel 5.7. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling composities en libretto's Fonds Podiumkunsten.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

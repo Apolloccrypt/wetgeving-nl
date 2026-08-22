@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 30 juni 2015, nr. WJZ/15031513, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2015)"
+citeertitel: "Regeling windenergie op zee 2015"
 identifier: "BWBR0036785"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-12-01"
-last_updated: "2015-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036785"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13207423"
-version_id: "22537662"
-internal_id: "C32330591"
-label_id: "13175804"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036785/2015-12-01/0"
-intitule_bron: "Stcrt.2015-18526"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-30"
-intitule_published: "2015-07-03"
-intitule_in_force: "2015-07-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-18526"
-original_signed_date: "2015-06-30"
-original_published_date: "2015-07-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-18526"
-entry_into_force_date: "2015-12-01"
-jci_1_3: "jci1.3:c:BWBR0036785&z=2015-12-01&g=2015-12-01"
-jci_1_0: "1.0:c:BWBR0036785&g=2015-12-01"
-citeertitel_status: "officieel"
-short_title: "Regeling windenergie op zee 2015"
-signed_date: "2015-06-30"
-entry_into_force: "2015-12-01"
+publicatiedatum: 2015-12-01
+laatste_update: 2015-12-01
+status: geldig
+toestand: 2015-12-01
+bron: "https://wetten.overheid.nl/BWBR0036785"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Economische Zaken van 30 juni 2015, nr. WJZ/15031513, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2015)
-
-Gelet op [artikel 3, eerste en tweede lid, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en de [artikelen 2, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=8), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=20), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [23, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23), [56, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=60), [61, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61), en [63, tweede lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=63);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,23 +20,24 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
+- *besluit:*
+ [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
 
-- **kavel:** kavel als bedoeld in [artikel 1 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=1);
+- *kavel:* kavel als bedoeld in [artikel 1 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=1);
 
-- **kavel I:** kavel I van het windenergiegebied Borssele zoals aangewezen in het desbetreffende kavelbesluit;
+- *kavel I:* kavel I van het windenergiegebied Borssele zoals aangewezen in het desbetreffende kavelbesluit;
 
-- **kavel II:** kavel II van het windenergiegebied Borssele zoals aangewezen in het desbetreffende kavelbesluit;
+- *kavel II:* kavel II van het windenergiegebied Borssele zoals aangewezen in het desbetreffende kavelbesluit;
 
-- **kavelbesluit:** kavelbesluit als bedoeld in [artikel 1 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=1);
+- *kavelbesluit:* kavelbesluit als bedoeld in [artikel 1 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=1);
 
-- **minister:** Minister van Economische Zaken;
+- *minister:* Minister van Economische Zaken;
 
-- **netto P50-waarde vollasturen:** het aantal vollasturen, waarbij de verwachte jaarlijkse energieproductie voor een gegeven combinatie van locatie en productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie dient te zijn bepaald met een waarschijnlijkheid van 50%;
+- *netto P50-waarde vollasturen:* het aantal vollasturen, waarbij de verwachte jaarlijkse energieproductie voor een gegeven combinatie van locatie en productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie dient te zijn bepaald met een waarschijnlijkheid van 50%;
 
-- **nominaal vermogen:** maximale vermogen van de productie-installatie dat onder nominale condities benut kan worden voor de productie van hernieuwbare elektriciteit en dat door de leverancier gegarandeerd wordt bij continu gebruik;
+- *nominaal vermogen:* maximale vermogen van de productie-installatie dat onder nominale condities benut kan worden voor de productie van hernieuwbare elektriciteit en dat door de leverancier gegarandeerd wordt bij continu gebruik;
 
-- **windenergiegebied Borssele:** windenergiegebied Borssele, aangewezen in het nationaal waterplan, bedoeld in [artikel 4.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=4.1).
+- *windenergiegebied Borssele:* windenergiegebied Borssele, aangewezen in het nationaal waterplan, bedoeld in [artikel 4.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=4.1).
 
 #### § 2. Windenergie op zee
 
@@ -126,9 +101,9 @@ Het tenderbedrag bedraagt ten hoogste € 0,124 per kWh.
 
 ##### Artikel 8
 
-1. De subsidie wordt verleend onder de opschortende voorwaarde dat binnen twee weken na de datum van de beschikking tot subsidieverlening een uitvoeringsovereenkomst tot stand is gekomen tussen de Staat en de subsidie-ontvanger overeenkomstig de overeenkomst opgenomen in de bijlage.
+1. De subsidie wordt verleend onder de opschortende voorwaarde dat binnen twee weken na de datum van de beschikking tot subsidieverlening een uitvoeringsovereenkomst tot stand is gekomen tussen de Staat en de subsidie-ontvanger overeenkomstig de overeenkomst opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0036785).
 
-2. De subsidie wordt verleend onder de opschortende voorwaarde dat de subsidie-ontvanger binnen vier weken na de datum van de beschikking tot subsidieverlening aantoont dat een bankgarantie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&paragraaf=2&artikel=2&z=2015-12-01&g=2015-12-01), van de overeenkomst opgenomen in de bijlage is afgegeven.
+2. De subsidie wordt verleend onder de opschortende voorwaarde dat de subsidie-ontvanger binnen vier weken na de datum van de beschikking tot subsidieverlening aantoont dat een bankgarantie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&paragraaf=2&artikel=2&z=2015-12-01&g=2015-12-01), van de overeenkomst opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0036785) is afgegeven.
 
 3. Indien niet tijdig aan de voorwaarde, bedoeld in het eerste of tweede lid, is voldaan wordt subsidie voor de desbetreffende kavel verleend voor de eerstvolgende aanvraag in de rangschikking.
 
@@ -166,7 +141,7 @@ Het tenderbedrag bedraagt ten hoogste € 0,124 per kWh.
 
 ##### Artikel 13
 
-Wijzigt de Algemene uitvoeringsregeling stimulering duurzame energieproductie.
+*Wijzigt de Algemene uitvoeringsregeling stimulering duurzame energieproductie.*
 
 ##### Artikel 14
 
@@ -175,63 +150,3 @@ Deze regeling treedt in werking met ingang van 1 december 2015. Indien het kavel
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling windenergie op zee 2015.
-
-## Bijlage. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&paragraaf=2&artikel=8&z=2015-12-01&g=2015-12-01)
-
-### Uitvoeringsovereenkomst tot zekerheid van het aanvangen van de activiteiten ter zake waarvan subsidie is verstrekt op basis van de Regeling windenergie op zee 2015
-
-overwegen:
-
-Partijen komen daartoe het volgende overeen:
-
-### Artikel 1. Tijdige ingebruikname van de productie-installatie
-
-De Ondernemer verplicht zich jegens de Staat de productie-installatie, bedoeld in de Beschikking, tijdig in gebruik te nemen en wel binnen de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&paragraaf=2&artikel=10&z=2015-12-01&g=2015-12-01) van de Regeling bedoelde periode of, indien op grond van [artikel 62, derde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62) een ontheffing is verleend, binnen de in de ontheffing opgenomen periode.
-
-### Artikel 2. Inhoud en omvang van de garantie
-
-### Artikel 3. Vrijval van de garantie
-
-### Artikel 4. Boetes
-
-### Artikel 5. Vrijwaring
-
-### Artikel 6. Aanvang en einde Uitvoeringsovereenkomst
-
-### Artikel 7. Domiciliekeuze en berichtgevingen
-
-### Artikel 8. Rechtskeuze
-
-### Artikel 9. Citeertitel
-
-Deze Uitvoeringsovereenkomst wordt tussen partijen aangeduid als ‘Uitvoeringsovereenkomst Wind op zee Staat/...................... kavel ... Borssele ’.
-
-Aldus overeengekomen en in tweevoud ondertekend
-
-te .......
-
-Ondernemer
-
-te 's-Gravenhage op ....................
-
-De Minister van Economische Zaken.
-
-### Bijlage behorende bij de uitvoeringsovereenkomst wind op zee staat/......................
-
-### Model bankgarantie
-
-DE ONDERGETEKENDE,
-
-............................., gevestigd te ......., hierna te noemen de ‘Bank’,
-
-IN AANMERKING NEMENDE DAT:
-
-VERKLAART ALS VOLGT
-
-Getekend te
-
-op
-
-De Bank.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

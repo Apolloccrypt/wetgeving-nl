@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering vernieling"
 identifier: "BWBR0036323"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036323"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "12993223"
-version_id: "22168832"
-internal_id: "C31788401"
-label_id: "12962054"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036323/2015-03-01/0"
-intitule_bron: "Stcrt.2015-4431"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-19"
-intitule_in_force: "2015-02-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4431"
-original_published_date: "2015-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4431"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBR0036323&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0036323&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0036323"
+opgehaald: 2026-08-22
 ---
+
 # Richtlijn voor strafvordering vernieling
 
 ### Beschrijving
@@ -40,9 +21,18 @@ Deze richtlijn is van toepassing op het vernielen, beschadigen, onbruikbaar make
 
 Vernieling, alleen gepleegd.
 
+|  | first offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- |
+| Schade tot 500 euro | GB € 225 | 5j 2j | GB € 325 Idem of TS 24 uur | Eis TS 36 uur of GS 18 dgn ov |
+| Schade vanaf 500 tot 1.000 euro | GB € 325 | 5j 2j | GB € 475 Idem of TS 36 uur | Eis TS 50 uur of GS 3 wkn ov |
+| Schade vanaf 1.000 tot 2.500 euro | GB € 425 | 5j 2j | GB € 600 Idem of TS 48 uur | Eis TS 60 uur of GS 1 mnd ov |
+| Schade vanaf 2.500 tot 5.000 euro | GB € 550 | 5j 2j | GB € 800 Idem of TS 60 uur | Eis TS 80 uur of GS 6 wkn ov |
+| Schade vanaf 5.000 euro | TS vanaf 50 uur | 5j 2j | TS vanaf 70 uur Idem of GS vanaf 1 mnd | Eis TS vanaf 100 uur of GS vanaf 7 wkn ov |
+| Bijzonderheden Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed Strafverzwarend onder andere: Kwetsbare slachtoffers (w.o. huiselijk geweld) > gebruik de richtlijn huiselijk geweld! Evenement (+75%) of voetbal gerelateerd (+50%) Alcohol/drugs en (uitgaans)geweld (+75%) Agressie in het verkeer Vernieling van gebouw e.d. (art. 352 Sr) Discriminatoire aspecten (dagvaarden +100%) * Let op taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader |  |  |  |  |
+
 ### Legenda
 
-**Afkortingen**
+*Afkortingen*
 
 GB = Geldboete
 

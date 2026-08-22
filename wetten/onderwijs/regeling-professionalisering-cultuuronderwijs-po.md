@@ -1,42 +1,17 @@
 ---
 title: "Regeling Professionalisering Cultuuronderwijs PO"
 identifier: "BWBR0036872"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-10-14"
-last_updated: "2015-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036872"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "13227063"
-version_id: "22600932"
-internal_id: "C32405951"
-label_id: "13195444"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036872/2015-10-14/0"
-intitule_bron: "Stcrt.2015-21377"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-07-23"
-intitule_in_force: "2015-07-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-21377"
-original_published_date: "2015-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-21377"
-entry_into_force_date: "2015-07-24"
-jci_1_3: "jci1.3:c:BWBR0036872&z=2015-10-14&g=2015-10-14"
-jci_1_0: "1.0:c:BWBR0036872&g=2015-10-14"
-citeertitel_status: "officieel"
-entry_into_force: "2015-07-24"
+publicatiedatum: 2015-07-24
+laatste_update: 2015-10-14
+status: geldig
+toestand: 2015-10-14
+bron: "https://wetten.overheid.nl/BWBR0036872"
+opgehaald: 2026-08-22
 ---
+
 # Regeling Professionalisering Cultuuronderwijs PO
-
-Gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 30 juni 2015;
-
-Besluit tot vaststelling van onderstaande regeling:
 
 #### Paragraaf 1. : Algemene bepalingen
 
@@ -44,33 +19,33 @@ Besluit tot vaststelling van onderstaande regeling:
 
 In deze regeling wordt verstaan onder:
 
-- **Bestuur:** het bestuur van het Fonds voor Cultuurparticipatie;
+- *Bestuur:* het bestuur van het Fonds voor Cultuurparticipatie;
 
-- **Fonds voor Cultuurparticipatie:** de stichting Fonds voor Cultuurparticipatie;
+- *Fonds voor Cultuurparticipatie:* de stichting Fonds voor Cultuurparticipatie;
 
-- **School:** basisschool of een speciale school voor basisonderwijs, als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- *School:* basisschool of een speciale school voor basisonderwijs, als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **Schoolbestuur:** het bevoegd gezag van een basisschool als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- *Schoolbestuur:* het bevoegd gezag van een basisschool als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **Locatie:** een in Nederland gelegen hoofd- of nevenvestiging als bedoeld in de [Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *Locatie:* een in Nederland gelegen hoofd- of nevenvestiging als bedoeld in de [Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **Samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit tenminste twee schoolbesturen, waar ten minste 5 locaties onder vallen die deelnemen aan het project;
+- *Samenwerkingsverband:* een geen rechtspersoonlijkheid bezittend verband, bestaande uit tenminste twee schoolbesturen, waar ten minste 5 locaties onder vallen die deelnemen aan het project;
 
-- **Project:** een samenhangend geheel van activiteiten met betrekking tot de in [artikel 2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14) genoemde thema’s;
+- *Project:* een samenhangend geheel van activiteiten met betrekking tot de in [artikel 2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14) genoemde thema’s;
 
-- **Culturele omgeving:** de culturele instellingen die in de omgeving van de school aanwezig zijn, ofwel actief kunnen zijn op de school;
+- *Culturele omgeving:* de culturele instellingen die in de omgeving van de school aanwezig zijn, ofwel actief kunnen zijn op de school;
 
-- **Culturele instelling:** vereniging of stichting met een culturele doelstelling;
+- *Culturele instelling:* vereniging of stichting met een culturele doelstelling;
 
-- **Leernetwerk:** een leernetwerk waarin bestuurders en schoolleiders, vanuit een gezamenlijke interesse voor een bepaald kennisgebied, doelbewust kennis en ervaringen uitwisselen;
+- *Leernetwerk:* een leernetwerk waarin bestuurders en schoolleiders, vanuit een gezamenlijke interesse voor een bepaald kennisgebied, doelbewust kennis en ervaringen uitwisselen;
 
-- **Professionalisering:** alle activiteiten die tot doel hebben kennis en vaardigheden van alle mensen die werkzaam zijn in het onderwijs te verbeteren en verder te ontwikkelen;
+- *Professionalisering:* alle activiteiten die tot doel hebben kennis en vaardigheden van alle mensen die werkzaam zijn in het onderwijs te verbeteren en verder te ontwikkelen;
 
-- **Gekapitaliseerde uren:** uren die aan het project worden besteed door schoolleiders en leerkrachten in loondienstverband.
+- *Gekapitaliseerde uren:* uren die aan het project worden besteed door schoolleiders en leerkrachten in loondienstverband.
 
 ##### Artikel 1.2. Doel subsidieverstrekking
 
-Flankerend aan de **Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2013–2016** kan het bestuur overeenkomstig de regels van deze regeling op aanvraag een projectsubsidie verstrekken voor een project dat strekt tot professionalisering van het cultuuronderwijs op bestuursniveau, schoolniveau en bij de (vak)leerkrachten, zodat kinderen een kwalitatief goed en samenhangend aanbod van cultuuronderwijs ontvangen.
+Flankerend aan de *Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2013–2016* kan het bestuur overeenkomstig de regels van deze regeling op aanvraag een projectsubsidie verstrekken voor een project dat strekt tot professionalisering van het cultuuronderwijs op bestuursniveau, schoolniveau en bij de (vak)leerkrachten, zodat kinderen een kwalitatief goed en samenhangend aanbod van cultuuronderwijs ontvangen.
 
 ##### Artikel 1.3. Subsidieaanvrager
 
@@ -108,11 +83,11 @@ Flankerend aan de **Deelregeling Cultuureducatie met Kwaliteit in het primair on
 
 - b. een omschrijving van de vervolgstappen die het bestuur wil nemen op het gebied van:
 
-- i. visieontwikkeling cultuuronderwijs en het verankeren van deze visie in het strategisch beleidskader van het bestuur (door visie- en inspiratietrajecten);
+   - i. visieontwikkeling cultuuronderwijs en het verankeren van deze visie in het strategisch beleidskader van het bestuur (door visie- en inspiratietrajecten);
 
-- ii. activiteiten gericht op vertaling van strategisch naar operationeel niveau – bij voorkeur in samenwerking met culturele partners – en het vastleggen daarvan in schoolwerkplannen en activiteitenprogramma’s;
+   - ii. activiteiten gericht op vertaling van strategisch naar operationeel niveau – bij voorkeur in samenwerking met culturele partners – en het vastleggen daarvan in schoolwerkplannen en activiteitenprogramma’s;
 
-- iii. deskundigheidsbevordering van leerkrachten,
+   - iii. deskundigheidsbevordering van leerkrachten,
 
 - c. een omschrijving van de resultaten die beoogd worden met het project,
 
@@ -221,5 +196,3 @@ Verantwoording, bevoorschotting, vaststelling en betaling van de subsidie geschi
 ##### Artikel 4.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Professionalisering Cultuuronderwijs PO.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Staatssecretaris van Economische Zaken van 30 april 2015, nr. WJZ / 15058568, betreffende het opleggen van een herstelsanctie voor overtredingen die verband houden met de visserij op het IJsselmeer (Beleidsregel herstelsanctie IJsselmeer)"
+citeertitel: "Beleidsregel herstelsanctie IJsselmeer"
 identifier: "BWBR0036582"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-05-05"
-last_updated: "2015-05-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036582"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "13148833"
-version_id: "22411912"
-internal_id: "C32159611"
-label_id: "13117434"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036582/2015-05-05/0"
-intitule_bron: "Stcrt.2015-12731"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-30"
-intitule_published: "2015-05-04"
-intitule_in_force: "2015-05-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-12731"
-original_signed_date: "2015-04-30"
-original_published_date: "2015-05-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-12731"
-entry_into_force_date: "2015-05-05"
-jci_1_3: "jci1.3:c:BWBR0036582&z=2015-05-05&g=2015-05-05"
-jci_1_0: "1.0:c:BWBR0036582&g=2015-05-05"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel herstelsanctie IJsselmeer"
-signed_date: "2015-04-30"
-entry_into_force: "2015-05-05"
+publicatiedatum: 2015-05-05
+laatste_update: 2015-05-05
+status: geldig
+toestand: 2015-05-05
+bron: "https://wetten.overheid.nl/BWBR0036582"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 30 april 2015, nr. WJZ / 15058568, betreffende het opleggen van een herstelsanctie voor overtredingen die verband houden met de visserij op het IJsselmeer (Beleidsregel herstelsanctie IJsselmeer)
-
-Gelet op de [artikelen 12 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=12) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -71,5 +45,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel herstelsanctie IJsselmeer.
 ##### Artikel 4
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

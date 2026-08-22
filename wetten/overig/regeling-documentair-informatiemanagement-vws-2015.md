@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 april 2015 tot vaststelling van regels voor het documentair informatiemanagement van het Ministerie van Volksgezondheid, Welzijn en Sport (Regeling documentair informatiemanagement VWS 2015)"
+citeertitel: "Regeling documentair informatiemanagement VWS 2015"
 identifier: "BWBR0036912"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-08-01"
-last_updated: "2015-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036912"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13238693"
-version_id: "22627492"
-internal_id: "C32446631"
-label_id: "13207104"
-dtd_version: "2.0"
-original_entry_into_force: "2015-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036912/2015-08-01/0"
-intitule_bron: "Stcrt.2015-22771"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-13"
-intitule_published: "2015-07-31"
-intitule_in_force: "2015-07-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-22771"
-original_signed_date: "2015-04-13"
-original_published_date: "2015-07-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-22771"
-entry_into_force_date: "2015-08-01"
-jci_1_3: "jci1.3:c:BWBR0036912&z=2015-08-01&g=2015-08-01"
-jci_1_0: "1.0:c:BWBR0036912&g=2015-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling documentair informatiemanagement VWS 2015"
-signed_date: "2015-04-13"
-entry_into_force: "2015-08-01"
+publicatiedatum: 2015-08-01
+laatste_update: 2015-08-01
+status: geldig
+toestand: 2015-08-01
+bron: "https://wetten.overheid.nl/BWBR0036912"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 april 2015 tot vaststelling van regels voor het documentair informatiemanagement van het Ministerie van Volksgezondheid, Welzijn en Sport (Regeling documentair informatiemanagement VWS 2015)
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. : Algemene bepalingen
 
@@ -46,75 +20,75 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- 1. **Archiefbeherend onderdeel:** een organisatieonderdeel van het kerndepartement of een buitendienst dat specifiek als taak heeft om werkzaamheden te verrichten die gericht zijn op het beheer van documentaire informatie.
+- 1. *Archiefbeherend onderdeel:* een organisatieonderdeel van het kerndepartement of een buitendienst dat specifiek als taak heeft om werkzaamheden te verrichten die gericht zijn op het beheer van documentaire informatie.
 
-- 2. **Archiefbesluit:** het [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) of indien dit besluit is ingetrokken, het dan geldende Archiefbesluit.
+- 2. *Archiefbesluit:* het [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) of indien dit besluit is ingetrokken, het dan geldende Archiefbesluit.
 
-- 3. **Archiefvormend onderdeel:** het kerndepartement of een buitendienst dat op basis van zijn taakuitoefening afzonderlijk documentaire informatie verzamelt, ontvangt, creëert, verzendt of beheert.
+- 3. *Archiefvormend onderdeel:* het kerndepartement of een buitendienst dat op basis van zijn taakuitoefening afzonderlijk documentaire informatie verzamelt, ontvangt, creëert, verzendt of beheert.
 
-- 4. **Archiefwet:** de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) of indien deze wet is ingetrokken, de dan geldende Archiefwet.
+- 4. *Archiefwet:* de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) of indien deze wet is ingetrokken, de dan geldende Archiefwet.
 
 - 5. Buitendienst:
 
-- 1°. een in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) genoemde dienst of instelling die niet tot het kerndepartement behoort;
+   - 1° een in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) genoemde dienst of instelling die niet tot het kerndepartement behoort;
 
-- 2°. een in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) genoemd secretariaat van een raad of commissie, alsmede
+   - 2° een in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) genoemd secretariaat van een raad of commissie, alsmede
 
-- 3°. een niet in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) genoemd secretariaat van een door de minister ingestelde commissie dat berust bij een ambtenaar van een buitendienst als bedoeld onder 1° of 2°.
+   - 3° een niet in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) genoemd secretariaat van een door de minister ingestelde commissie dat berust bij een ambtenaar van een buitendienst als bedoeld onder 1° of 2°.
 
-- 6. **Conversie:** het overzetten van digitale documentaire informatie naar andere programmatuur met behulp van standaardprogrammatuur met behoud van authenticiteit.
+- 6. *Conversie:* het overzetten van digitale documentaire informatie naar andere programmatuur met behulp van standaardprogrammatuur met behoud van authenticiteit.
 
-- 7. **Document:** geheel van samenhangende gegevens die op een fysieke of elektronische gegevensdrager zijn vastgelegd.
+- 7. *Document:* geheel van samenhangende gegevens die op een fysieke of elektronische gegevensdrager zijn vastgelegd.
 
-- 8. **Documentair informatiemanagement:** de werkzaamheden die tot doel hebben de documentaire informatie in goede, geordende en toegankelijke staat te brengen en te bewaren.
+- 8. *Documentair informatiemanagement:* de werkzaamheden die tot doel hebben de documentaire informatie in goede, geordende en toegankelijke staat te brengen en te bewaren.
 
-- 9. **Documentaire informatie:**
+- 9. *Documentaire informatie:*
 
-- 1°. alle documentaire informatie, ongeacht hun vorm, door het ministerie ontvangen of opgemaakt en specifiek voor het ministerie bestemd;
+   - 1° alle documentaire informatie, ongeacht hun vorm, door het ministerie ontvangen of opgemaakt en specifiek voor het ministerie bestemd;
 
-- 2°. alle documentaire informatie, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, waarvan rechten of functies op het ministerie zijn overgegaan;
+   - 2° alle documentaire informatie, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, waarvan rechten of functies op het ministerie zijn overgegaan;
 
-- 3°. alle documentaire informatie, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - 3° alle documentaire informatie, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- 4°. reproducties, ongeacht hun vorm, welke bij of krachtens de Archiefwet in de plaats zijn gesteld van de onder 1°, 2° of 3° bedoelde documentaire informatie of welke op grond van het bepaalde in [artikel 7 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd.
+   - 4° reproducties, ongeacht hun vorm, welke bij of krachtens de Archiefwet in de plaats zijn gesteld van de onder 1°, 2° of 3° bedoelde documentaire informatie of welke op grond van het bepaalde in [artikel 7 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd.
 
-- 10. **Dossier:** samenhangend geheel van documentaire informatie dat betrekking heeft op de behandeling van een specifieke zaak of werkproces.
+- 10. *Dossier:* samenhangend geheel van documentaire informatie dat betrekking heeft op de behandeling van een specifieke zaak of werkproces.
 
-- 11. **Drager:** fysiek of digitaal opslagmedium waarop of waarin gegevens zijn vastgelegd.
+- 11. *Drager:* fysiek of digitaal opslagmedium waarop of waarin gegevens zijn vastgelegd.
 
-- 12. **Duurzaamheid:** de mate waarin de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie is gewaarborgd om noemenswaardige achteruitgang te voorkomen en tegen te gaan.
+- 12. *Duurzaamheid:* de mate waarin de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie is gewaarborgd om noemenswaardige achteruitgang te voorkomen en tegen te gaan.
 
-- 13. **Emulatie:** methode waarbij de technische omgeving softwarematig wordt nagebootst die noodzakelijk is voor het uitvoeren van oude programma's.
+- 13. *Emulatie:* methode waarbij de technische omgeving softwarematig wordt nagebootst die noodzakelijk is voor het uitvoeren van oude programma's.
 
-- 14. **Informatiesysteem:** een systeem waarin documentaire informatie geregistreerd, opgeslagen, bewerkt, geraadpleegd en beheerd wordt.
+- 14. *Informatiesysteem:* een systeem waarin documentaire informatie geregistreerd, opgeslagen, bewerkt, geraadpleegd en beheerd wordt.
 
-- 15. **Kerndepartement:**
+- 15. *Kerndepartement:*
 
-- a. het ministerie van Volksgezondheid, Welzijn en Sport zoals omschreven in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104), met uitzondering van de in het Organisatiebesluit VWS genoemde diensten, instellingen, raden en commissies,
+   - a. het ministerie van Volksgezondheid, Welzijn en Sport zoals omschreven in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104), met uitzondering van de in het Organisatiebesluit VWS genoemde diensten, instellingen, raden en commissies,
 
-- b. de secretariaten van door de minister ingestelde commissies die niet zijn genoemd in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) en waarvan het secretariaat berust bij een ambtenaar van het kerndepartement.
+   - b. de secretariaten van door de minister ingestelde commissies die niet zijn genoemd in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) en waarvan het secretariaat berust bij een ambtenaar van het kerndepartement.
 
-- 16. **Metagegevens:** gestructureerde gegevens voor het beheer en de ontsluiting van documenten, dossiers en andere entiteiten.
+- 16. *Metagegevens:* gestructureerde gegevens voor het beheer en de ontsluiting van documenten, dossiers en andere entiteiten.
 
-- 17. **Migratie:** het overzetten van digitale documentaire informatie naar een ander digitaal informatiesysteem met behulp van speciale computerprogrammatuur met behoud van authenticiteit.
+- 17. *Migratie:* het overzetten van digitale documentaire informatie naar een ander digitaal informatiesysteem met behulp van speciale computerprogrammatuur met behoud van authenticiteit.
 
-- 18. **Minister:** de Minister van Volksgezondheid, Welzijn en Sport.
+- 18. *Minister:* de Minister van Volksgezondheid, Welzijn en Sport.
 
-- 19. **Ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport (VWS).
+- 19. *Ministerie:* het Ministerie van Volksgezondheid, Welzijn en Sport (VWS).
 
-- 20. **Organisatiebesluit VWS:** het [Organisatiebesluit VWS 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) of indien dit besluit is ingetrokken, het dan geldende Organisatiebesluit VWS.
+- 20. *Organisatiebesluit VWS:* het [Organisatiebesluit VWS 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032104) of indien dit besluit is ingetrokken, het dan geldende Organisatiebesluit VWS.
 
-- 21. **Organisatieonderdeel:** een directie, afdeling, programma, tuchtcollege of ander onderdeel van het kerndepartement of van een buitendienst.
+- 21. *Organisatieonderdeel:* een directie, afdeling, programma, tuchtcollege of ander onderdeel van het kerndepartement of van een buitendienst.
 
-- 22. **Overdracht:** het overdragen van documentaire informatie van een organisatieonderdeel van het ministerie aan een ander organisatieonderdeel van het ministerie.
+- 22. *Overdracht:* het overdragen van documentaire informatie van een organisatieonderdeel van het ministerie aan een ander organisatieonderdeel van het ministerie.
 
-- 23. **Selectielijst:** een formeel vastgesteld overzicht dat dient als wettelijke grondslag voor de waardering, selectie en de vernietiging of overbrenging van documentaire informatie.
+- 23. *Selectielijst:* een formeel vastgesteld overzicht dat dient als wettelijke grondslag voor de waardering, selectie en de vernietiging of overbrenging van documentaire informatie.
 
-- 24. **SG:** de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport respectievelijk de pSG indien taken aan de pSG zijn opgedragen.
+- 24. *SG:* de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport respectievelijk de pSG indien taken aan de pSG zijn opgedragen.
 
-- 25. **Vervanging:** de digitale reproductie van documentaire informatie waarbij de oorspronkelijke papieren documentaire informatie wordt vernietigd en de inhoud in digitale vorm behouden blijft.
+- 25. *Vervanging:* de digitale reproductie van documentaire informatie waarbij de oorspronkelijke papieren documentaire informatie wordt vernietigd en de inhoud in digitale vorm behouden blijft.
 
-- 26. **Werkproces:** een complex van samenhangende activiteiten gericht op de uitvoering van een taak van de organisatie.
+- 26. *Werkproces:* een complex van samenhangende activiteiten gericht op de uitvoering van een taak van de organisatie.
 
 ##### Artikel 2. , Reikwijdte
 

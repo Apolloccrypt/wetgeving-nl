@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 30 Maart 1944, houdende instelling van den Bronzen Leeuw"
+citeertitel: "Besluit instelling Bronzen Leeuw"
 identifier: "BWBR0036405"
-country: "nl"
-rank: "kb"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036405"
+categorie: "Overig"
 soort: "KB"
-stam_id: "13009553"
-version_id: "22234712"
-internal_id: "C31880101"
-label_id: "12978374"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036405/2015-07-01/0"
-intitule_bron: "Stb.1944-E21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1944-03-30"
-intitule_published: "1944-04-22"
-intitule_in_force: "1944-04-22"
-intitule_status: "goed"
-original_publication: "Stb.2015-108"
-original_signed_date: "2015-02-02"
-original_published_date: "2015-03-17"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2015-108"
-entry_into_force_date: "2015-02-02"
-jci_1_3: "jci1.3:c:BWBR0036405&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0036405&g=2015-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling Bronzen Leeuw"
-signed_date: "2015-02-02"
-entry_into_force: "2015-02-02"
+publicatiedatum: 2015-02-02
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0036405"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 30 Maart 1944, houdende instelling van den Bronzen Leeuw
-
-Op de voordracht van Onze Ministers van Algemeene Zaken a.i., van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Scheepvaart en van Koloniën, d.d. 27 Maart 1944 No. 76;
-
-Overwegende, dat het wenschelijk is een onderscheiding in te stellen tot belooning van bijzonder moedige en beleidvolle daden in den strijd tegenover den vijand, welke nog niet voor een beloning met een onderscheiding in de Militaire Willemsorde in aanmerking komen;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Er wordt ingesteld de **Bronzen Leeuw**.
+Er wordt ingesteld de *Bronzen Leeuw*.
 
 ##### Artikel 2
 
@@ -73,6 +45,10 @@ Zij, aan wie de Bronzen Leeuw reeds eenmaal is toegekend, en die daarna wederom 
 ##### Artikel 6
 
 De Bronzen Leeuw kan ook posthuum worden toegekend.
+
+##### Artikel 6a
+
+Ingaande 1 januari 2017 moet een verzoek om toekenning van de Bronzen Leeuw zijn ingediend binnen tien jaar na de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=2&z=2015-07-01&g=2015-07-01) genoemde daden.
 
 ##### Artikel 7
 
@@ -109,11 +85,3 @@ Voorstellen tot het ontnemen van een Bronzen Leeuw, verleend door den Bevelhebbe
 ##### Artikel 15
 
 Wij behouden ons het recht voor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=11&z=2015-07-01&g=2015-07-01) aan den Bevelhebber der Nederlandsche Strijdkrachten gegeven bevoegdheid te allen tijde in te trekken.
-
-Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Scheepvaart en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-Ingaande 1 januari 2017 moet een verzoek om toekenning van de Bronzen Leeuw zijn ingediend binnen tien jaar na de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=2&z=2015-07-01&g=2015-07-01) genoemde daden.
-
-Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Scheepvaart en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.

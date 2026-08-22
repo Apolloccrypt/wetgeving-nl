@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 december 2014, nr. 2014-0000 104920, houdende regels over de bezoldiging en de uitkeringen wegens beëindiging van het dienstverband in de zin van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Uitvoeringsregeling WNT)"
+citeertitel: "Uitvoeringsregeling WNT"
 identifier: "BWBR0035962"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035962"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "12893283"
-version_id: "24708502"
-internal_id: "C35346341"
-label_id: "12862694"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035962/2026-01-01/0"
-intitule_bron: "Stcrt.2014-36379"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-11"
-intitule_published: "2014-12-18"
-intitule_in_force: "2014-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-70474"
-original_signed_date: "2017-12-01"
-original_published_date: "2017-12-12"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2017-70474"
-entry_into_force_date: "2017-12-01"
-jci_1_3: "jci1.3:c:BWBR0035962&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0035962&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling WNT"
-signed_date: "2017-12-01"
-entry_into_force: "2017-12-01"
+publicatiedatum: 2017-12-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0035962"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 december 2014, nr. 2014-0000 104920, houdende regels over de bezoldiging en de uitkeringen wegens beëindiging van het dienstverband in de zin van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Uitvoeringsregeling WNT)
-
-Gelet op [artikel 1.9, onderdelen a tot en met c, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.9);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
@@ -120,19 +94,19 @@ In deze regeling wordt verstaan onder ‘wet’: de [Wet normering topinkomens](
 
 - i. het deel van de in het eerste lid, onderdeel i, bedoelde afkoopsom, voor zover die bij beëindiging van het dienstverband wordt uitbetaald en waarbij de uitbetaling tot overschrijding van het bezoldigingsmaximum leidt, bestaande uit de vakantiedagen:
 
-- 1°. die, tot een maximum van vier maal de overeengekomen arbeidsduur per week of, als de overeengekomen arbeidsduur in uren per jaar is uitgedrukt, van een overeenkomstige tijd:
+   - 1°. die, tot een maximum van vier maal de overeengekomen arbeidsduur per week of, als de overeengekomen arbeidsduur in uren per jaar is uitgedrukt, van een overeenkomstige tijd:
 
-- a. behoren tot de in de twaalf kalendermaanden voorafgaande aan de datum van beëindiging van het dienstverband opgebouwde aanspraak op vakantie, bedoeld in [artikel 7:634 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=634), dan wel in daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen, en
+      - a. behoren tot de in de twaalf kalendermaanden voorafgaande aan de datum van beëindiging van het dienstverband opgebouwde aanspraak op vakantie, bedoeld in [artikel 7:634 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=634), dan wel in daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen, en
 
-- b. waarvan de termijn, bedoeld in [artikel 7:640a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=640a), dan wel in daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen, niet is verstreken, of
+      - b. waarvan de termijn, bedoeld in [artikel 7:640a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=640a), dan wel in daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen, niet is verstreken, of
 
-- 2°. die, zonder maximum:
+   - 2°. die, zonder maximum:
 
-- a. behoren tot de wettelijke minimumaanspraak op vakantie, bedoeld in [artikel 7:634, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=634), dan wel daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen,
+      - a. behoren tot de wettelijke minimumaanspraak op vakantie, bedoeld in [artikel 7:634, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=634), dan wel daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen,
 
-- b. niet zijn vervallen omdat de functionaris ze redelijkerwijs, aantoonbaar, niet heeft kunnen opnemen binnen de vervaltermijn, bedoeld in [artikel 7:640a, eerste volzin, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=640a), dan wel in daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen, en
+      - b. niet zijn vervallen omdat de functionaris ze redelijkerwijs, aantoonbaar, niet heeft kunnen opnemen binnen de vervaltermijn, bedoeld in [artikel 7:640a, eerste volzin, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=640a), dan wel in daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen, en
 
-- c. niet verjaard zijn op grond van de verjaringstermijn, bedoeld in [artikel 7:642 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=642), dan wel in daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen;
+      - c. niet verjaard zijn op grond van de verjaringstermijn, bedoeld in [artikel 7:642 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=642), dan wel in daaraan gelijke, daarmee overeenkomende of daaraan gelijk te stellen voorschriften die krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o), [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) of [artikel 1ab, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) tot stand zijn gekomen;
 
 - j. premies of bijdragen van de werkgevers aan opleidings- en ontwikkelingsfondsen, arbeidsmarkt- en opleidingsfondsen of daarmee vergelijkbare, soortgelijke fondsen onder andere benamingen, die rechtstreeks dan wel via een schakelbepaling in de arbeidsovereenkomst of aanstelling als ambtenaar voortvloeien uit een algemene bepaling van een collectieve arbeidsovereenkomst, een algemene bepaling van een andere met vakbonden afgesproken collectieve regeling of een wettelijk voorschrift;
 
@@ -144,17 +118,37 @@ y= ((a / b) x c) – d
 
 waarin:
 
-- y =. het werkgeversdeel van de fictieve doorsneepremie voor de functionaris;
+- y = het werkgeversdeel van de fictieve doorsneepremie voor de functionaris;
 
-- a =. het totaalbedrag aan pensioenpremies voor alle deelnemers aan de collectieve regeling;
+- a = het totaalbedrag aan pensioenpremies voor alle deelnemers aan de collectieve regeling;
 
-- b =. het totaalbedrag aan pensioengevend inkomen van alle deelnemers aan de collectieve regeling;
+- b = het totaalbedrag aan pensioengevend inkomen van alle deelnemers aan de collectieve regeling;
 
-- c =. het pensioengevend inkomen van de functionaris;
+- c = het pensioengevend inkomen van de functionaris;
 
-- d =. het werknemersdeel van de reële pensioenpremie van de functionaris.
+- d = het werknemersdeel van de reële pensioenpremie van de functionaris.
 
 4. Indien een topfunctionaris deelneemt aan een collectieve pensioenregeling die een gelijke premie kent en die met toepassing van het in [artikel 220e van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220e) geregelde overgangsrecht voor de topfunctionaris uitgaat van een met de leeftijd oplopend percentage van het loon dat voor de pensioenberekening in aanmerking wordt genomen, kan voor de toepassing van het eerste lid, onderdeel q, tot de bezoldiging worden gerekend: het werkgeversdeel van de gelijke premie die voor de functionaris zou zijn betaald indien voor hem geen overgangsrecht op grond van artikel 220e van de Pensioenwet van toepassing zou zijn. Het werkgeversdeel van de gelijke premie wordt berekend als de gelijke premie toegepast op het pensioengevend inkomen van de topfunctionaris minus het werknemersdeel van de reële pensioenpremie van de functionaris. Indien de collectieve pensioenregeling geen gelijke premie kent, wordt voor de toepassing van het eerste lid, onderdeel q, in afwijking van de eerste en tweede volzin, de berekeningswijze van het derde lid op overeenkomstige wijze toegepast, met dien verstande dat voor ‘fictieve doorsneepremie’ wordt gelezen ‘fictieve gelijke premie’.
+
+##### Artikel 2a. De componenten van de bezoldiging van de topfunctionaris zonder dienstbetrekking
+
+1. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt, voor zover niet in het tweede lid uitgezonderd, in ieder geval tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
+
+- a. de vergoeding voor de door de topfunctionaris zonder dienstbetrekking verrichte arbeid;
+
+- b. de vergoeding voor de kosten van bemiddeling;
+
+- c. de vergoeding voor de bureaukosten;
+
+- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2026-01-01&g=2026-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
+
+2. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt in ieder geval niet tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
+
+- a. de omzetbelasting;
+
+- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2026-01-01&g=2026-01-01);
+
+- c. de vergoeding van premies of bijdragen voor bestuurdersaansprakelijkheidsverzekeringen.
 
 ##### Artikel 3. De toerekening van componenten van de bezoldiging aan enig kalenderjaar
 
@@ -184,7 +178,7 @@ waarin:
 
 ##### Artikel 5. Openbaarmaking gegevens topfunctionarissen
 
-1. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging meer bedraagt dan € 2.200:
+1. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging meer bedraagt dan € 2.200:
 
 - a. de naam;
 
@@ -192,7 +186,7 @@ waarin:
 
 - c. de duur van het dienstverband, aangeduid met de aanvangsdatum en einddatum van de functievervulling;
 
-- d. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de omvang van het dienstverband, uitgedrukt, voor zover kleiner dan 1 fte, als rekenkundig op drie decimalen afgeronde deeltijdfactor met een maximum van 1 fte;
+- d. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de omvang van het dienstverband, uitgedrukt, voor zover kleiner dan 1 fte, als rekenkundig op drie decimalen afgeronde deeltijdfactor met een maximum van 1 fte;
 
 - e. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de beloning plus de belastbare onkostenvergoedingen;
 
@@ -216,23 +210,23 @@ waarin:
 
 - o. Van iedere topfunctionaris, bedoeld in onderdeel n:
 
-- 1°. de door de topfunctionaris aan de verantwoordelijke gemelde data waarop de topfunctionaris de bezoldiging is overeengekomen met elk van de in onderdeel n bedoelde rechtspersonen of instellingen, en waarop de bezoldiging is overeengekomen met de rechtspersoon of instelling die de verantwoording opstelt;
+   - 1°. de door de topfunctionaris aan de verantwoordelijke gemelde data waarop de topfunctionaris de bezoldiging is overeengekomen met elk van de in onderdeel n bedoelde rechtspersonen of instellingen, en waarop de bezoldiging is overeengekomen met de rechtspersoon of instelling die de verantwoording opstelt;
 
-- 2°. de door de topfunctionaris aan de verantwoordelijke gemelde totale bezoldiging, zoals ontvangen van elk van de in onderdeel n bedoelde rechtspersonen of instellingen afzonderlijk;
+   - 2°. de door de topfunctionaris aan de verantwoordelijke gemelde totale bezoldiging, zoals ontvangen van elk van de in onderdeel n bedoelde rechtspersonen of instellingen afzonderlijk;
 
-- 3°. de door de topfunctionaris aan de verantwoordelijke gemelde som van de bezoldigingen zoals ontvangen van de in onderdeel n bedoelde rechtspersonen of instellingen en van de rechtspersoon of instelling die de verantwoording opstelt gezamenlijk;
+   - 3°. de door de topfunctionaris aan de verantwoordelijke gemelde som van de bezoldigingen zoals ontvangen van de in onderdeel n bedoelde rechtspersonen of instellingen en van de rechtspersoon of instelling die de verantwoording opstelt gezamenlijk;
 
-- 4°. het algemene bezoldigingsmaximum, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), dan wel:
+   - 4°. het algemene bezoldigingsmaximum, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), dan wel:
 
-- –. een voor de rechtspersoon of instelling die de verantwoording opstelt, of
+      - – een voor de rechtspersoon of instelling die de verantwoording opstelt, of
 
-- –. een door de topfunctionaris aan de verantwoordelijke voor één van de dienstbetrekkingen gemeld, van toepassing zijnd hoger bezoldigingsmaximum als bedoeld in onderdeel n.
+      - – een door de topfunctionaris aan de verantwoordelijke voor één van de dienstbetrekkingen gemeld, van toepassing zijnd hoger bezoldigingsmaximum als bedoeld in onderdeel n.
 
 2. In aanvulling op het eerste lid vermeldt de verantwoordelijke in het financieel verslaggevingsdocument tevens de in het eerste lid genoemde gegevens over het jaar voorafgaand aan het boekjaar waarop de verplichting in het eerste lid betrekking heeft.
 
-3. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging € 2.200 of minder bedraagt, de naam en de functie of functies, alsmede in voorkomend geval de naam van de rechtspersoon of instelling bij wie de leidinggevende topfunctionaris gelijktijdig een functie als leidinggevende topfunctionaris in dienstbetrekking vervult als bedoeld in het eerste lid, onderdeel n.
+3. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging € 2.200 of minder bedraagt, de naam en de functie of functies, alsmede in voorkomend geval de naam van de rechtspersoon of instelling bij wie de leidinggevende topfunctionaris gelijktijdig een functie als leidinggevende topfunctionaris in dienstbetrekking vervult als bedoeld in het eerste lid, onderdeel n.
 
-4. Indien een topfunctionaris, niet zijnde lid van het hoogste toezichthoudende orgaan, van wie de totale bezoldiging meer bedraagt dan € 2.200 een functie vervult anders dan op grond van een dienstbetrekking, vermeldt de verantwoordelijke in afwijking van het eerste lid voor de periode van functievervulling tot en met twaalf maanden:
+4. Indien een topfunctionaris, niet zijnde lid van het hoogste toezichthoudende orgaan, van wie de totale bezoldiging meer bedraagt dan € 2.200 een functie vervult anders dan op grond van een dienstbetrekking, vermeldt de verantwoordelijke in afwijking van het eerste lid voor de periode van functievervulling tot en met twaalf maanden:
 
 - a. de naam;
 
@@ -254,7 +248,7 @@ waarin:
 
 - c. het jaar waarin het dienstverband is geëindigd;
 
-- d. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de omvang van het dienstverband in de twaalf kalendermaanden voorafgaand aan beëindiging van het dienstverband, uitgedrukt, voor zover kleiner dan 1 fte, als rekenkundig op drie decimalen afgeronde deeltijdfactor met een maximum van 1 fte;
+- d. tenzij het een lid van een hoogste toezichthoudend orgaan betreft: de omvang van het dienstverband in de twaalf kalendermaanden voorafgaand aan beëindiging van het dienstverband, uitgedrukt, voor zover kleiner dan 1 fte, als rekenkundig op drie decimalen afgeronde deeltijdfactor met een maximum van 1 fte;
 
 - e. de overeengekomen en in het boekjaar gedane uitkeringen wegens beëindiging van het dienstverband met uitzondering van uitkeringen die voortvloeien uit een rechterlijke uitspraak, en
 
@@ -273,38 +267,6 @@ waarin:
 8. Het orgaan of onderdeel van de rechtspersoon Staat der Nederlanden waar de in het zevende lid bedoelde betrokkene eerder in het betreffende kalenderjaar zijn of haar functie vervulde, draagt de gegevens van betrokkene uit eigen beweging of op eerste verzoek, onverwijld, over aan het in het zevende lid bedoelde orgaan of onderdeel van de rechtspersoon Staat der Nederlanden.
 
 9. De verantwoordelijke van het in het achtste lid bedoelde orgaan of onderdeel van de rechtspersoon Staat der Nederlanden waar de in het zevende lid bedoelde betrokkene eerder in het betreffende kalenderjaar zijn of haar functie vervulde zoals bedoeld in het achtste lid, vermeldt in het financieel verslaggevingsdocument de naam en functie van betrokkene en de aanvangs- en einddatum van de functievervulling, en verwijst voor de overige in het eerste tot en met zesde lid bedoelde gegevens door naar het financieel verslaggevingsdocument van het in het zevende lid bedoelde orgaan of onderdeel.
-
-##### Artikel 6. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van 1 januari 2015.
-
-##### Artikel 7. Citeertitel
-
-Deze regeling wordt aangehaald als: Uitvoeringsregeling WNT.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a. De componenten van de bezoldiging van de topfunctionaris zonder dienstbetrekking
-
-1. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt, voor zover niet in het tweede lid uitgezonderd, in ieder geval tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
-
-- a. de vergoeding voor de door de topfunctionaris zonder dienstbetrekking verrichte arbeid;
-
-- b. de vergoeding voor de kosten van bemiddeling;
-
-- c. de vergoeding voor de bureaukosten;
-
-- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2026-01-01&g=2026-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
-
-2. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt in ieder geval niet tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
-
-- a. de omzetbelasting;
-
-- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2026-01-01&g=2026-01-01);
-
-- c. de vergoeding van premies of bijdragen voor bestuurdersaansprakelijkheidsverzekeringen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Openbaarmaking gegevens niet-topfunctionarissen
 
@@ -330,11 +292,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5b. Vrijstelling van openbaarmakingsverplichtingen
 
-1.
-
 De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op rechtspersonen, niet zijnde rechtspersonen als bedoeld in [artikel 1.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2), en instellingen waarbij:
 
-- a. de som van de lonen waarover met toepassing van de [artikelen 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) belasting wordt geheven niet meer dan € 175.000 bedraagt;
+- a. de som van de lonen waarover met toepassing van de [artikelen 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [26b van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) belasting wordt geheven niet meer dan € 175.000 bedraagt;
 
 - b. geen topfunctionarissen, niet zijnde lid van een hoogste toezichthoudend orgaan, tegen betaling of vergoeding werkzaam zijn anders dan op grond van een dienstbetrekking, en
 
@@ -342,15 +302,13 @@ De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=202
 
 2. Een rechtspersoon of instelling als bedoeld in het eerste lid vermeldt in het financieel verslaggevingsdocument en openbaar via internet op de in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5c&z=2026-01-01&g=2026-01-01), tweede dan wel derde lid, bepaalde wijze dat de openbaarmaking van de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01) bedoelde gegevens achterwege is gelaten in het boekjaar waarop het financieel verslaggevingsdocument betrekking heeft. [Artikel 1.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.7) is niet van toepassing op de in de eerste volzin genoemde vermelding.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 5c. Wijze van openbaarmaking
 
 1. Indien het boekjaar van de verantwoordelijke niet overeenkomt met een kalenderjaar heeft de vermelding, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01), betrekking op de gegevens van het kalenderjaar voorafgaande aan het boekjaar.
 
-2. Uiterlijk 1 juli van het jaar volgend op het boekjaar waar het financieel verslaggevingsdocument betrekking op heeft maakt de verantwoordelijke de gegevens bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01) openbaar via internet op een algemeen toegankelijke wijze gedurende ten minste zeven jaar. Indien op grond van andere op de verantwoordelijke van toepassing zijnde regelgeving of een besluit een later tijdstip waarop het financieel verslaggevingsdocument openbaar moet worden gemaakt geldt, is die latere datum de uiterlijke datum van openbaarmaking.
+2. Uiterlijk 1 juli van het jaar volgend op het boekjaar waar het financieel verslaggevingsdocument betrekking op heeft maakt de verantwoordelijke de gegevens bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01) openbaar via internet op een algemeen toegankelijke wijze gedurende ten minste zeven jaar. Indien op grond van andere op de verantwoordelijke van toepassing zijnde regelgeving of een besluit een later tijdstip waarop het financieel verslaggevingsdocument openbaar moet worden gemaakt geldt, is die latere datum de uiterlijke datum van openbaarmaking.
 
-3. In afwijking van het tweede lid, maakt de verantwoordelijke van een rechtspersoon als bedoeld in de [artikelen 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2), [1.3, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.3), en 1.3, eerste lid, onderdeel d, jo. [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) waarvan het toezicht op de naleving van de wet op grond van [artikel 5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.1) door Onze Minister of Onze Minister wie het aangaat is opgedragen aan de ambtenaren van de Eenheid toezicht [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, uiterlijk 1 juli van het jaar volgend op het kalenderjaar waar het financieel verslaggevingsdocument betrekking op heeft de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01) bedoelde gegevens openbaar via internet op een door Onze Minister aangewezen website van de rijksoverheid gedurende ten minste zeven jaar. Indien op grond van andere op de verantwoordelijke van toepassing zijnde regelgeving of een besluit een later tijdstip waarop het financieel verslaggevingsdocument openbaar moet worden gemaakt geldt, is die latere datum de uiterlijke datum van openbaarmaking. De van echtheidskenmerken voorziene gegevens, bedoeld in de artikelen 5 en 5a, alsmede de van echtheidskenmerken voorziene controleverklaring van de accountant over de gegevens, bedoeld in de artikelen 5 en 5a, worden door de in de eerste volzin bedoelde verantwoordelijke via elektronische weg aangeleverd bij Onze Minister. De openbaarmaking op grond van dit lid geldt voor de gegevens over het kalenderjaar 2026 en volgende kalenderjaren.
+3. In afwijking van het tweede lid, maakt de verantwoordelijke van een rechtspersoon als bedoeld in de [artikelen 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2), [1.3, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.3), en 1.3, eerste lid, onderdeel d, jo. [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) waarvan het toezicht op de naleving van de wet op grond van [artikel 5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.1) door Onze Minister of Onze Minister wie het aangaat is opgedragen aan de ambtenaren van de Eenheid toezicht [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, uiterlijk 1 juli van het jaar volgend op het kalenderjaar waar het financieel verslaggevingsdocument betrekking op heeft de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01) bedoelde gegevens openbaar via internet op een door Onze Minister aangewezen website van de rijksoverheid gedurende ten minste zeven jaar. Indien op grond van andere op de verantwoordelijke van toepassing zijnde regelgeving of een besluit een later tijdstip waarop het financieel verslaggevingsdocument openbaar moet worden gemaakt geldt, is die latere datum de uiterlijke datum van openbaarmaking. De van echtheidskenmerken voorziene gegevens, bedoeld in de artikelen 5 en 5a, alsmede de van echtheidskenmerken voorziene controleverklaring van de accountant over de gegevens, bedoeld in de artikelen 5 en 5a, worden door de in de eerste volzin bedoelde verantwoordelijke via elektronische weg aangeleverd bij Onze Minister. De openbaarmaking op grond van dit lid geldt voor de gegevens over het kalenderjaar 2026 en volgende kalenderjaren.
 
 4. Bij een groep van rechtspersonen zijn de verantwoordelijken van de rechtspersonen binnen de groep vrij om te kiezen of de gegevens, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01), worden opgenomen in de geconsolideerde jaarrekening, in de enkelvoudige jaarrekening van de betreffende rechtspersoon of in de enkelvoudige jaarrekening van een van de andere rechtspersonen in de groep, voor zover dit op grond van andere op de rechtspersonen van toepassing zijnde regelgeving is toegestaan. Uitsluitende vermelding in de geconsolideerde jaarrekening of de enkelvoudige jaarrekening van een van de andere rechtspersonen binnen de groep is voldoende indien:
 
@@ -368,7 +326,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De verantwoordelijke herstelt een fout in de gegevens die op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01) openbaar moeten worden gemaakt die na vaststelling van het financieel verslaggevingsdocument over het betreffende boekjaar worden geconstateerd, voor zover het een fout betreft:
 
-- a. in een verantwoorde bezoldiging of uitkering wegens beëindiging van het dienstverband over het voorafgaande boekjaar, groter dan € 5.000;
+- a. in een verantwoorde bezoldiging of uitkering wegens beëindiging van het dienstverband over het voorafgaande boekjaar, groter dan € 5.000;
 
 - b. inhoudende het onterecht niet vermelden in de WNT-verantwoording over het voorafgaande boekjaar van (gegevens van) een topfunctionaris;
 
@@ -384,6 +342,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5e. Openbaarmaking gegevens gewezen topfunctionaris
 
-Ten aanzien van het financieel verslaggevingsdocument dat betrekking heeft op het kalenderjaar 2017 is [artikel 5, eerste lid, onderdelen a tot en met j, tweede tot en met vijfde lid, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing op de gewezen topfunctionaris als bedoeld in [artikel 4.1, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), zoals dat artikel luidde op 31 december 2017.
+Ten aanzien van het financieel verslaggevingsdocument dat betrekking heeft op het kalenderjaar 2017 is [artikel 5, eerste lid, onderdelen a tot en met j, tweede tot en met vijfde lid, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing op de gewezen topfunctionaris als bedoeld in [artikel 4.1, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), zoals dat artikel luidde op 31 december 2017.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 6. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 januari 2015.
+
+##### Artikel 7. Citeertitel
+
+Deze regeling wordt aangehaald als: Uitvoeringsregeling WNT.

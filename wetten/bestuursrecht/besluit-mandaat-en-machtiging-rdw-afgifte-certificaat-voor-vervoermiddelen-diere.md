@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 16 december 2014, nr. WJZ/14197159, houdende regels inzake de verlening van mandaat en machtiging aan de Algemeen Directeur van de Dienst Wegverkeer (RDW) betreffende aangelegenheden die verband houden met de afgifte van een certificaat voor vervoermiddelen bestemd voor het transport van dieren (Besluit mandaat en machtiging RDW afgifte certificaat voor vervoermiddelen dierentransport)"
+citeertitel: "Besluit mandaat en machtiging RDW afgifte certificaat voor vervoermiddelen dierentransport"
 identifier: "BWBR0036036"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036036"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "12913443"
-version_id: "21978532"
-internal_id: "C31525431"
-label_id: "12882684"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036036/2017-01-01/0"
-intitule_bron: "Stcrt.2014-36666"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-16"
-intitule_published: "2014-12-29"
-intitule_in_force: "2014-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-36666"
-original_signed_date: "2014-12-16"
-original_published_date: "2014-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-36666"
-entry_into_force_date: "2014-12-30"
-jci_1_3: "jci1.3:c:BWBR0036036&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0036036&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging RDW afgifte certificaat voor vervoermiddelen dierentransport"
-signed_date: "2014-12-16"
-entry_into_force: "2014-12-30"
+publicatiedatum: 2014-12-30
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0036036"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister van Economische Zaken van 16 december 2014, nr. WJZ/14197159, houdende regels inzake de verlening van mandaat en machtiging aan de Algemeen Directeur van de Dienst Wegverkeer (RDW) betreffende aangelegenheden die verband houden met de afgifte van een certificaat voor vervoermiddelen bestemd voor het transport van dieren (Besluit mandaat en machtiging RDW afgifte certificaat voor vervoermiddelen dierentransport)
-
-Gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van de Algemeen Directeur van de Dienst Wegverkeer;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -79,5 +51,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging RDW afgifte certificaat voor vervoermiddelen dierentransport.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

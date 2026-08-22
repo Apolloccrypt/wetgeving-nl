@@ -1,126 +1,45 @@
 ---
 title: "Besluit van 25 juni 2015 tot het vaststellen van regels over de veiligheid van bijzondere spoorwegen en tot wijziging van diverse andere besluiten in verband met een tweede tranche van uitvoeringsmaatregelen van het kabinetsstandpunt «Spoor in beweging», waaronder de vereenvoudiging van het vergunningenregime hoofdspoorwegen en de implementatie van een technische specificatie inzake interoperabiliteit (Besluit bijzondere spoorwegen)"
+citeertitel: "Besluit bijzondere spoorwegen"
 identifier: "BWBR0036778"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036778"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "13198613"
-version_id: "22526312"
-internal_id: "C32318401"
-label_id: "13167174"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036778/2024-01-01/0"
-intitule_bron: "Stb.2015-267"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-25"
-intitule_published: "2015-07-03"
-intitule_in_force: "2015-07-03"
-intitule_status: "goed"
-original_publication: "Stb.2015-267"
-original_signed_date: "2015-06-25"
-original_published_date: "2015-07-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2015-267"
-entry_into_force_date: "2015-07-04"
-jci_1_3: "jci1.3:c:BWBR0036778&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0036778&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bijzondere spoorwegen"
-signed_date: "2015-06-25"
-entry_into_force: "2015-07-04"
+publicatiedatum: 2015-07-04
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0036778"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 25 juni 2015 tot het vaststellen van regels over de veiligheid van bijzondere spoorwegen en tot wijziging van diverse andere besluiten in verband met een tweede tranche van uitvoeringsmaatregelen van het kabinetsstandpunt «Spoor in beweging», waaronder de vereenvoudiging van het vergunningenregime hoofdspoorwegen en de implementatie van een technische specificatie inzake interoperabiliteit (Besluit bijzondere spoorwegen)
 
-Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 15 december 2014, nr. IenM/BSK-2014/263302, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=27), [32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=35), [49, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=49), [50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), [51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=65), [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77), [87, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87), en [94 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=94), [artikel 8 van de Winkeltijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=8) en [artikel 105 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=105);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 29 januari 2015, nr. W14.14.0467/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Milieu van, 22 juni 2015, nr. IenM/BSK-2015/117365, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
-
 ### Hoofdstuk 1. Algemene bepalingen
-
-### Hoofdstuk 2. Veilig gebruik van bijzondere spoorwegen
-
-### Hoofdstuk 3. Bescherming van bijzondere spoorwegen
-
-### Hoofdstuk 2. Veilig gebruik van bijzondere spoorwegen
-
-### Hoofdstuk 5. Handhaving en overige bepalingen
-
-### Hoofdstuk 6. Wijziging van andere besluiten
-
-##### Artikel 20
-
-Wijzigt het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.
-
-##### Artikel 21
-
-Wijzigt het Besluit geluidhinder.
-
-##### Artikel 22
-
-Wijzigt het Besluit spoorweginfrastructuur.
-
-##### Artikel 23
-
-Wijzigt het Besluit spoorverkeer.
-
-##### Artikel 24
-
-Wijzigt het Besluit spoorwegpersoneel 2011.
-
-##### Artikel 25
-
-Wijzigt het Vrijstellingenbesluit Winkeltijdenwet.
-
-### Hoofdstuk 7. Overgangsrecht
-
-### Hoofdstuk 8. Slotbepalingen
-
-##### Artikel 28
-
-1. De artikelen van dit besluit, met uitzondering van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=21&z=2024-01-01&g=2024-01-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=23&z=2024-01-01&g=2024-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-2. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=21&z=2024-01-01&g=2024-01-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=23&z=2024-01-01&g=2024-01-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
-
-##### Artikel 29
-
-Dit besluit wordt aangehaald als: Besluit bijzondere spoorwegen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **treinbestuurder:** machinist of rangeerder;
+- *treinbestuurder:* machinist of rangeerder;
 
-- **bijzondere spoorweginfrastructuur:** spoorweginfrastructuur, waarbij de spoorwegen bijzondere spoorwegen zijn;
+- *bijzondere spoorweginfrastructuur:* spoorweginfrastructuur, waarbij de spoorwegen bijzondere spoorwegen zijn;
 
-- **gevaarlijke stoffen:** gevaarlijke stoffen als bedoeld in de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606);
+- *gevaarlijke stoffen:* gevaarlijke stoffen als bedoeld in de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606);
 
-- **spoorwegbeheerder:** degene die een bijzondere spoorweg operationeel beschikbaar stelt;
+- *spoorwegbeheerder:* degene die een bijzondere spoorweg operationeel beschikbaar stelt;
 
-- **spoorwegovergang:** kruising van een bijzondere spoorweg en een weg;
+- *spoorwegovergang:* kruising van een bijzondere spoorweg en een weg;
 
-- **sein:** baken, bord, lichtsein, een aanwijzing inhoudende een ge- of verbod, een waarschuwing of een aanduiding;
+- *sein:* baken, bord, lichtsein, een aanwijzing inhoudende een ge- of verbod, een waarschuwing of een aanduiding;
 
-- **trein:** spoorvoertuig of samenstel van spoorvoertuigen;
+- *trein:* spoorvoertuig of samenstel van spoorvoertuigen;
 
-- **vervoerder:** degene die gebruik maakt of gebruik laat maken van een bijzondere spoorweg en daartoe over tractie beschikt;
+- *vervoerder:* degene die gebruik maakt of gebruik laat maken van een bijzondere spoorweg en daartoe over tractie beschikt;
 
-- **wegbeheerder:** een van de overheden, genoemd in de [artikelen 15 tot en met 17 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=15) of, indien van toepassing, het openbaar lichaam als bedoeld in [artikel 20, derde lid van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) voor zover het wegbeheer aan het openbaar lichaam is overgedragen;
+- *wegbeheerder:* een van de overheden, genoemd in de [artikelen 15 tot en met 17 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=15) of, indien van toepassing, het openbaar lichaam als bedoeld in [artikel 20, derde lid van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) voor zover het wegbeheer aan het openbaar lichaam is overgedragen;
 
-- **wet:** [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
+- *wet:*
+ [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 ##### Artikel 2
 
@@ -133,6 +52,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80), [86 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=86) en [97 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=97) en de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), [12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=5&artikel=18&z=2024-01-01&g=2024-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=5&artikel=19&z=2024-01-01&g=2024-01-01) en [26 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=26&z=2024-01-01&g=2024-01-01) zijn niet van toepassing op bijzondere spoorwegen die gelegen zijn binnen een niet vrij voor het publiek toegankelijk terrein van een bedrijf.
 
 3. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [88 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=88) en [97 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=97) en de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=26&z=2024-01-01&g=2024-01-01) van dit besluit zijn niet van toepassing op bijzondere spoorwegen of gedeelten daarvan waarvan de bijzondere spoorweginfrastructuur of een deel daarvan is verwijderd of die op een andere wijze voor gebruik ontoegankelijk zijn gemaakt.
+
+### Hoofdstuk 2. Veilig gebruik van bijzondere spoorwegen
 
 ##### Artikel 3
 
@@ -244,7 +165,7 @@ Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdst
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Spoorwegovergangen en bruggen
 
@@ -312,6 +233,30 @@ Overtreding van het gestelde in de [artikelen 3](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk 6. Wijziging van andere besluiten
 
+##### Artikel 20
+
+*Wijzigt het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.*
+
+##### Artikel 21
+
+*Wijzigt het Besluit geluidhinder.*
+
+##### Artikel 22
+
+*Wijzigt het Besluit spoorweginfrastructuur.*
+
+##### Artikel 23
+
+*Wijzigt het Besluit spoorverkeer.*
+
+##### Artikel 24
+
+*Wijzigt het Besluit spoorwegpersoneel 2011.*
+
+##### Artikel 25
+
+*Wijzigt het Vrijstellingenbesluit Winkeltijdenwet.*
+
 ### Hoofdstuk 7. Overgangsrecht
 
 ##### Artikel 26
@@ -322,8 +267,16 @@ Overtreding van het gestelde in de [artikelen 3](https://wetten.overheid.nl/jci1
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 28
+
+1. De artikelen van dit besluit, met uitzondering van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=21&z=2024-01-01&g=2024-01-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=23&z=2024-01-01&g=2024-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=21&z=2024-01-01&g=2024-01-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=23&z=2024-01-01&g=2024-01-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+
+##### Artikel 29
+
+Dit besluit wordt aangehaald als: Besluit bijzondere spoorwegen.

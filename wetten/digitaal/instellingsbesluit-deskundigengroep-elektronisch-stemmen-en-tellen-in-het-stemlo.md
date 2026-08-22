@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 mei 2015, nr. 2015-0000254538, tot instelling van een Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal"
+citeertitel: "Instellingsbesluit Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal"
 identifier: "BWBR0036616"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-09"
-last_updated: "2016-04-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036616"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "13154723"
-version_id: "22421322"
-internal_id: "C32172401"
-label_id: "13123384"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036616/2016-04-09/0"
-intitule_bron: "Stcrt.2015-13443"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-12"
-intitule_published: "2015-05-13"
-intitule_in_force: "2015-05-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-13443"
-original_signed_date: "2015-05-12"
-original_published_date: "2015-05-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-13443"
-entry_into_force_date: "2015-05-14"
-jci_1_3: "jci1.3:c:BWBR0036616&z=2016-04-09&g=2016-04-09"
-jci_1_0: "1.0:c:BWBR0036616&g=2016-04-09"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal"
-signed_date: "2015-05-12"
-entry_into_force: "2015-05-14"
+publicatiedatum: 2015-05-14
+laatste_update: 2016-04-09
+status: geldig
+toestand: 2016-04-09
+bron: "https://wetten.overheid.nl/BWBR0036616"
+opgehaald: 2026-08-22
 ---
-# Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 mei 2015, nr. 2015-0000254538, tot instelling van een Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal
 
-Besluit:
+# Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 mei 2015, nr. 2015-0000254538, tot instelling van een Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **Deskundigengroep:** Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036616&artikel=2&z=2016-04-09&g=2016-04-09).
+- b. *Deskundigengroep:* Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036616&artikel=2&z=2016-04-09&g=2016-04-09).
 
 ##### Artikel 2
 
@@ -141,5 +117,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

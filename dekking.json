@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-08-21",
+ "gegenereerd": "2026-08-22",
  "geverifieerd": true,
- "bwb_regelingen": 46780,
+ "bwb_regelingen": 46784,
  "bwb_geldend": 22212,
- "site_totaal": 22395,
+ "site_totaal": 22399,
  "site_geldend": 22209,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 3,
- "aantal_ten_onrechte_geldig": 186,
+ "aantal_ten_onrechte_geldig": 190,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -121,15 +121,15 @@
   },
   {
    "id": "BWBR0036576",
-   "titel": "Regeling digitale vervanging archiefbescheiden Nederlandse Arbeidsinspectie systemen Diwi, I-Net en ISBB"
+   "titel": "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2015, 2015-0000087820, tot Besluit digitale vervanging archiefbescheiden Inspectie SZW systemen Diwi, I-Net en ISBB."
   },
   {
    "id": "BWBR0036580",
-   "titel": "Regeling digitale vervanging financiële archiefbescheiden SZW systeem SAP"
+   "titel": "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2015, 2015-0000087818, tot Besluit digitale vervanging financiele archiefbescheiden SZW systeem SAP"
   },
   {
    "id": "BWBR0036581",
-   "titel": "Regeling digitale vervanging personele archiefbescheiden SZW systeem cRMA van P-Direkt"
+   "titel": "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2015, tot Besluit digitale vervanging personele archiefbescheiden SZW systeem cRMA van P-Direkt"
   },
   {
    "id": "BWBR0037303",
@@ -154,6 +154,10 @@
   {
    "id": "BWBR0037674",
    "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/845264 houdende vaststelling van keuzedelen welke onderdeel uitmaken van de kwalificatiestructuur van het middelbaar beroepsonderwijs (Regeling vaststelling keuzedelen)"
+  },
+  {
+   "id": "BWBR0037966",
+   "titel": "Beleidsregels wegingsfactoren kosten bestuurlijke voorprocedure"
   },
   {
    "id": "BWBR0038720",
@@ -448,6 +452,14 @@
    "titel": "Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024"
   },
   {
+   "id": "BWBR0047079",
+   "titel": "Vennootschapsbelasting. Juridische fusie; toepassing artikel 14b, derde lid, van de Wet op de vennootschapsbelasting 1969"
+  },
+  {
+   "id": "BWBR0047081",
+   "titel": "Vennootschapsbelasting. Zuivere splitsing; toepassing artikel 14a, derde lid, van de Wet op de vennootschapsbelasting 1969"
+  },
+  {
    "id": "BWBR0047084",
    "titel": "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, PO/F&V/33525597, houdende vaststelling van de bedragen voor personele bekostiging voor het primair onderwijs in Caribisch Nederland voor de eerste vijf maanden van het schooljaar 2022–2023 (Definitieve Regeling bekostiging personeel PO BES 2022–2023)."
   },
@@ -482,6 +494,10 @@
   {
    "id": "BWBR0048163",
    "titel": "Mandaatbesluit pDGOEK Ministerie van Justitie en Veiligheid 2022"
+  },
+  {
+   "id": "BWBR0048320",
+   "titel": "Besluit toepassing voorschriften internationaal belastingrecht in de winstsfeer"
   },
   {
    "id": "BWBR0048376",

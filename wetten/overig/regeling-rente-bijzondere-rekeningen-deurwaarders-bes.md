@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 28 mei 2015, nr. 636335, houdende voorschriften betreffende de berekening en uitkering van de rente, toegevoegd aan de bijzondere rekeningen van deurwaarders in Bonaire, Sint Eustatius en Saba (Regeling rente bijzondere rekeningen deurwaarders BES)"
+citeertitel: "Regeling rente bijzondere rekeningen deurwaarders BES"
 identifier: "BWBR0036660"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-06-06"
-last_updated: "2015-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036660"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13163643"
-version_id: "22435872"
-internal_id: "C32200961"
-label_id: "13132174"
-dtd_version: "2.0"
-original_entry_into_force: "2015-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036660/2015-06-06/0"
-intitule_bron: "Stcrt.2015-15015"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-28"
-intitule_published: "2015-06-05"
-intitule_in_force: "2015-06-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-15015"
-original_signed_date: "2015-05-28"
-original_published_date: "2015-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-15015"
-entry_into_force_date: "2015-06-06"
-jci_1_3: "jci1.3:c:BWBR0036660&z=2015-06-06&g=2015-06-06"
-jci_1_0: "1.0:c:BWBR0036660&g=2015-06-06"
-citeertitel_status: "officieel"
-short_title: "Regeling rente bijzondere rekeningen deurwaarders BES"
-signed_date: "2015-05-28"
-entry_into_force: "2015-06-06"
+publicatiedatum: 2015-06-06
+laatste_update: 2015-06-06
+status: geldig
+toestand: 2015-06-06
+bron: "https://wetten.overheid.nl/BWBR0036660"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 28 mei 2015, nr. 636335, houdende voorschriften betreffende de berekening en uitkering van de rente, toegevoegd aan de bijzondere rekeningen van deurwaarders in Bonaire, Sint Eustatius en Saba (Regeling rente bijzondere rekeningen deurwaarders BES)
-
-Gelet op [artikel 12a, zevende lid, van de Deurwaarderswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=12a),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -79,5 +53,3 @@ Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van 
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling rente bijzondere rekeningen deurwaarders BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

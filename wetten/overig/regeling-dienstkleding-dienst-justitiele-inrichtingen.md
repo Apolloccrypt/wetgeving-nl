@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 26 maart 2015, houdende regels voor het verstrekken en dragen van dienstkleding van ambtenaren van de Dienst Justitiële Inrichtingen (Regeling dienstkleding Dienst Justitiële Inrichtingen)"
+citeertitel: "Regeling dienstkleding Dienst Justitiële Inrichtingen"
 identifier: "BWBR0036468"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-03-31"
-last_updated: "2016-03-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036468"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13123133"
-version_id: "22358822"
-internal_id: "C32009251"
-label_id: "13091874"
-dtd_version: "2.0"
-original_entry_into_force: "2015-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036468/2016-03-31/0"
-intitule_bron: "Stcrt.2015-8794"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-03-26"
-intitule_published: "2015-03-27"
-intitule_in_force: "2015-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-8794"
-original_signed_date: "2015-03-26"
-original_published_date: "2015-03-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-8794"
-entry_into_force_date: "2015-04-01"
-jci_1_3: "jci1.3:c:BWBR0036468&z=2016-03-31&g=2016-03-31"
-jci_1_0: "1.0:c:BWBR0036468&g=2016-03-31"
-citeertitel_status: "officieel"
-short_title: "Regeling dienstkleding Dienst Justitiële Inrichtingen"
-signed_date: "2015-03-26"
-entry_into_force: "2015-04-01"
+publicatiedatum: 2015-04-01
+laatste_update: 2016-03-31
+status: geldig
+toestand: 2016-03-31
+bron: "https://wetten.overheid.nl/BWBR0036468"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 26 maart 2015, houdende regels voor het verstrekken en dragen van dienstkleding van ambtenaren van de Dienst Justitiële Inrichtingen (Regeling dienstkleding Dienst Justitiële Inrichtingen)
-
-Gelet op [artikel 65 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=65);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -50,13 +24,13 @@ In deze regeling wordt verstaan onder dienstkleding: de ingevolge deze regeling 
 
 - a. uniforme dienstkleding aan:
 
-- 1°. ambtenaren, die in een rijksinrichting of dienst beveiligingswerkzaamheden verrichten ten behoeve van personen en gebouwen;
+   - 1° ambtenaren, die in een rijksinrichting of dienst beveiligingswerkzaamheden verrichten ten behoeve van personen en gebouwen;
 
-- 2°. ambtenaren, die in een penitentiaire inrichting zorg dragen voor beveiliging, observatie en voorbereiding op resocialisatie van volwassen gedetineerden;
+   - 2° ambtenaren, die in een penitentiaire inrichting zorg dragen voor beveiliging, observatie en voorbereiding op resocialisatie van volwassen gedetineerden;
 
-- 3°. ambtenaren, die in een penitentiaire inrichting uitvoering geven aan de begeleiding en beveiliging van volwassen gedetineerden met psychosociale of somatische problematiek in een beveiligde omgeving;
+   - 3° ambtenaren, die in een penitentiaire inrichting uitvoering geven aan de begeleiding en beveiliging van volwassen gedetineerden met psychosociale of somatische problematiek in een beveiligde omgeving;
 
-- 4°. de operationeel manager van de ambtenaren, bedoeld onder 1° en 2°.
+   - 4° de operationeel manager van de ambtenaren, bedoeld onder 1° en 2°.
 
 - b. sportkleding en sportschoenen aan executieve ambtenaren, die door de Dienst Justitiële Inrichtingen zijn verplicht om aan de wekelijkse dienstsport en de jaarlijkse afname van de fitheidstoets en weerbaarheidstoets deel te nemen.
 
@@ -74,7 +48,7 @@ In deze regeling wordt verstaan onder dienstkleding: de ingevolge deze regeling 
 
 ##### Artikel 3
 
-1. Het bevoegd gezag draagt er zorg voor dat de aan de functie van de ambtenaar gebonden dienstkleding kosteloos ter beschikking wordt gesteld overeenkomstig de voor die functie in de bijlage aangegeven kledingstukken.
+1. Het bevoegd gezag draagt er zorg voor dat de aan de functie van de ambtenaar gebonden dienstkleding kosteloos ter beschikking wordt gesteld overeenkomstig de voor die functie in de [bijlage](https://wetten.overheid.nl/BWBR0036468) aangegeven kledingstukken.
 
 2. Het bevoegd gezag draagt er zorg voor dat het aan de functie van de ambtenaar voorgeschreven onderscheidingsteken ter beschikking wordt gesteld.
 
@@ -165,15 +139,3 @@ Deze regeling treedt in werking met ingang van 1 april 2015.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling dienstkleding Dienst Justitiële Inrichtingen.
-
-## Bijlage. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036468&artikel=3&z=2016-03-31&g=2016-03-31), van de Regeling dienstkleding Dienst Justitiële Inrichtingen
-
-### 1. Uniform dienstkledingpakket
-
-### 2. Sportkleding en sportschoenen
-
-### 3. Sportkleding en sportschoenen voor lichamelijke opvoeding
-
-Het standaardpakket voor instructeurs lichamelijke opvoeding bestaat uit:
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

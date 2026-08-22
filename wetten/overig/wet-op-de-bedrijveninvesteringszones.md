@@ -1,47 +1,18 @@
 ---
 title: "Wet van 19 november 2014, houdende regels voor bedrijveninvesteringszones (Wet op de bedrijveninvesteringszones)"
+citeertitel: "Wet op de bedrijveninvesteringszones"
 identifier: "BWBR0035933"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035933"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12886453"
-version_id: "21911602"
-internal_id: "C31439371"
-label_id: "12855914"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035933/2015-01-01/0"
-intitule_bron: "Stb.2014-506"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-19"
-intitule_published: "2014-12-17"
-intitule_in_force: "2014-12-17"
-intitule_status: "goed"
-original_publication: "Stb.2014-506"
-original_signed_date: "2014-11-19"
-original_published_date: "2014-12-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "33917"
-original_url_id: "stb-2014-506"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035933&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0035933&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de bedrijveninvesteringszones"
-signed_date: "2014-11-19"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0035933"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 19 november 2014, houdende regels voor bedrijveninvesteringszones (Wet op de bedrijveninvesteringszones)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat uit evaluatie van de [Experimentenwet BI-zones](https://wetten.overheid.nl/jci1.3:c:BWBR0025644) blijkt dat het wenselijk is op structurele basis te voorzien in de mogelijkheid voor gemeenten en ondernemers te voorzien in een gebiedsgerichte bestemmingsheffing voor gezamenlijke investeringen door ondernemers in de kwaliteit van de bedrijfsomgeving;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -137,17 +108,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - a. een vereniging met volledige rechtsbevoegdheid:
 
-- 1°. waarvan alle beoogde bijdrageplichtigen lid zijn of dit desgewenst met onmiddellijke ingang kunnen worden,
+   - 1°. waarvan alle beoogde bijdrageplichtigen lid zijn of dit desgewenst met onmiddellijke ingang kunnen worden,
 
-- 2°. waarvan de contributie op jaarbasis niet hoger is dan € 50,–, en
+   - 2°. waarvan de contributie op jaarbasis niet hoger is dan € 50,–, en
 
-- 3°. die als statutaire doelstelling uitsluitend heeft het uitvoeren van activiteiten als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035933&artikel=1&z=2015-01-01&g=2015-01-01), of
+   - 3°. die als statutaire doelstelling uitsluitend heeft het uitvoeren van activiteiten als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035933&artikel=1&z=2015-01-01&g=2015-01-01), of
 
 - b. een stichting:
 
-- 1°. waarvan ten minste tweederde van de leden van het bestuur afkomstig is uit de kring van beoogde bijdrageplichtigen, en
+   - 1°. waarvan ten minste tweederde van de leden van het bestuur afkomstig is uit de kring van beoogde bijdrageplichtigen, en
 
-- 2°. die als statutaire doelstelling uitsluitend heeft het uitvoeren van activiteiten als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035933&artikel=1&z=2015-01-01&g=2015-01-01).
+   - 2°. die als statutaire doelstelling uitsluitend heeft het uitvoeren van activiteiten als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035933&artikel=1&z=2015-01-01&g=2015-01-01).
 
 3. In aanvulling op het tweede lid wijst de verordening uitsluitend een vereniging of stichting aan waarmee de gemeente ter uitvoering van de verordening een overeenkomst als bedoeld in[artikel 4:36 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:36) heeft gesloten, waarin is bepaald dat de subsidie-ontvanger verplicht is de activiteiten te verrichten waarvoor de subsidie wordt verstrekt.
 
@@ -178,5 +149,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Deze wet wordt aangehaald als: Wet op de bedrijveninvesteringszones.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2014, houdende de aanwijzing van de zorgkantoren"
+citeertitel: "Besluit aanwijzing zorgkantoren"
 identifier: "BWBR0035987"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035987"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12900693"
-version_id: "21952282"
-internal_id: "C31491701"
-label_id: "12870044"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035987/2015-01-01/0"
-intitule_bron: "Stcrt.2014-36313"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-10"
-intitule_published: "2014-12-18"
-intitule_in_force: "2014-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-36313"
-original_signed_date: "2014-12-10"
-original_published_date: "2014-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-36313"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035987&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0035987&g=2015-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing zorgkantoren"
-signed_date: "2014-12-10"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0035987"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2014, houdende de aanwijzing van de zorgkantoren
-
-Gelet op [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -82,7 +56,7 @@ Voor het jaar 2015 zijn in de hiernavolgende regio’s de daarachter genoemde Wl
 
 - 19. Delft Westland Oostland: Zorgkantoor DSW B.V.
 
-- 20. Midden-Holland: Trias Zorgkantoor B.V.
+- 20 Midden-Holland: Trias Zorgkantoor B.V.
 
 - 21. Rotterdam: Achmea Zorgkantoor N.V.
 
@@ -111,5 +85,3 @@ Voor het jaar 2015 zijn in de hiernavolgende regio’s de daarachter genoemde Wl
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2015.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

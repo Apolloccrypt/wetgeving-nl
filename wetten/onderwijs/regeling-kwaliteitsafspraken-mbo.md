@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 december 2014, nr. MBO/664185, houdende regels voor het verhogen van de kwaliteit van het middelbaar beroepsonderwijs (Regeling kwaliteitsafspraken mbo)"
+citeertitel: "Regeling kwaliteitsafspraken mbo"
 identifier: "BWBR0035923"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-07-20"
-last_updated: "2016-07-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035923"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "12882363"
-version_id: "23482622"
-internal_id: "C33821721"
-label_id: "12851974"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035923/2016-07-20/0"
-intitule_bron: "Stcrt.2014-35959"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-08"
-intitule_published: "2014-12-16"
-intitule_in_force: "2014-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-37447"
-original_signed_date: "2016-07-07"
-original_published_date: "2016-07-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2016-37447"
-entry_into_force_date: "2016-07-07"
-jci_1_3: "jci1.3:c:BWBR0035923&z=2016-07-20&g=2016-07-20"
-jci_1_0: "1.0:c:BWBR0035923&g=2016-07-20"
-citeertitel_status: "redactioneel"
-short_title: "Regeling kwaliteitsafspraken mbo"
-signed_date: "2016-07-07"
-entry_into_force: "2016-07-07"
+publicatiedatum: 2016-07-07
+laatste_update: 2016-07-20
+status: geldig
+toestand: 2016-07-20
+bron: "https://wetten.overheid.nl/BWBR0035923"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 december 2014, nr. MBO/664185, houdende regels voor het verhogen van de kwaliteit van het middelbaar beroepsonderwijs (Regeling kwaliteitsafspraken mbo)
-
-Gelet op [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
-
-Besluit:
 
 ### Artikel I. Regeling kwaliteitsafspraken mbo
 
@@ -48,15 +22,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **investeringsbudget:** aanvullende bekostiging als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.1&z=2016-07-20&g=2016-07-20);
+- a. *investeringsbudget:* aanvullende bekostiging als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.1&z=2016-07-20&g=2016-07-20);
 
-- b. **kwaliteitsplan:** kwaliteitsplan als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.4&z=2016-07-20&g=2016-07-20);
+- b. *kwaliteitsplan:* kwaliteitsplan als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.4&z=2016-07-20&g=2016-07-20);
 
-- c. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken;
+- c. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken;
 
-- d. **resultaatafhankelijk budget:** aanvullende bekostiging als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.2&z=2016-07-20&g=2016-07-20);
+- d. *resultaatafhankelijk budget:* aanvullende bekostiging als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.2&z=2016-07-20&g=2016-07-20);
 
-- e. **wet:** de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- e. *wet:* de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 ##### Artikel 1.2. Doelstelling
 
@@ -112,6 +86,10 @@ De aanvulling op de bekostiging, bedoeld in [artikel 1.2](https://wetten.overhei
 
 De verantwoording van de aanvulling op de bekostiging geschiedt conform het bepaalde in [artikel 9.1, derde lid, onder c, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1).
 
+##### Artikel 1.8. Besteding
+
+De aanvulling op de bekostiging kan ook worden aangewend voor andere activiteiten van de onderwijsinstelling dan waarvoor deze aanvullende vergoeding wordt verstrekt.
+
 #### Hoofdstuk 2. Investeringsbudget
 
 ##### Artikel 2.1. Investeringsbudget
@@ -162,79 +140,33 @@ Het investeringsbudget wordt aan de instellingen verstrekt ten behoeve van het v
 
 2. In afwijking van het eerste lid vindt de eerste betaling van het deel van het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie, voor zover instellingen daarvoor in aanmerking komen, plaats in de maand september 2015.
 
-##### Artikel 2.6. Betaling
-
-1. De betaling van het investeringsbudget vindt plaats volgens het kasritme van de betaling van de rijksbijdrage, bedoeld in [artikel 2.2.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.4). De eerste betaling vindt plaats in de maand mei 2015.
-
-2. In afwijking van het eerste lid vindt de eerste betaling van het deel van het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie, voor zover instellingen daarvoor in aanmerking komen, plaats in de maand september 2015.
-
-### Artikel II. Intrekking
-
-### Artikel III. Overgangsbepaling
-
-### Artikel IV. Inwerkingtreding
-
-## Bijlage 1. bij [artikel 1.4, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.4&z=2015-03-11&g=2016-01-01), van de Regeling kwaliteitsafspraken mbo
-
-De in deze bijlage beschreven doelstellingen en activiteiten dienen per thema, voor zover mogelijk, SMART te worden geformuleerd: Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdgebonden.
-
-De instellingen formuleren het kwaliteitsplan mede met het oog op de verwachte resultaten voor vsv en studiesucces, waarvoor vanaf 2016 resultaatafhankelijke bekostiging plaatsvindt.
-
-| Thema | Omschrijving | Deelaspecten (indien van toepassing) |
-| --- | --- | --- |
-| Professionalisering | Aan de hand van de [Regeling bekwaamheid management en professionalisering onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0031444&wetgeving) hebben de instellingen eerder een plan van aanpak opgesteld ten aanzien van bekwaamheid van het management, professionalisering van onderwijspersoneel en kwaliteitsverbetering HRM-beleid. Hiervan wordt een actualisatie gevraagd in het kwaliteitsplan, waarbij de instellingen ook aandacht besteden aan de | **Bekwaamheid van het management:** Instellingen geven aan hoe zij hun managers gaan scholen en wanneer zij welke activiteiten hiertoe gaan ontplooien. Daarbij kunnen zij gebruik maken van het door de MBO Raad ontwikkelde competentieprofiel voor het management. |
-|   | zeven thema’s van de Lerarenagenda 2013-2020 (**Kamerstukken II**2013/14, 27 923, nr. 171) is gepubliceerd. Hiernaast worden deze en de overige deelaspecten van het thema ‘professionalisering’ beschreven. | **Professionalisering van het onderwijspersoneel** Instellingen geven aan hoe en met welk resultaat zij hun onderwijspersoneel in staat stellen zich verder te professionaliseren. Zij geven aan wanneer zij welke acties hiertoe gaan ondernemen. |
-|   |   |   |
-|   |   | **Kwaliteitsverbetering HRM-beleid** Instellingen geven aan welke activiteiten zij wanneer gaan ontplooien ten aanzien van het structureel voeren van functionerings-, beoordelings- en contextgesprekken en het onderhouden van bekwaamheidsdossiers. In het kwaliteitsplan wordt aandacht besteed aan kwaliteitsontwikkeling binnen en tussen teams en instellingen, onder meer door middel van peer review en kennismanagement. Tevens wordt aandacht geschonken aan de begeleiding van beginnende leraren. |
-|   |   |   |
-|   |   | Instellingen geven aan hoe, wanneer en met welk resultaat zij werken aan de ambities uit de Lerarenagenda 2013-2020, waaronder begeleiding en ontwikkeling van startende docenten, meer masteropgeleide docenten, bekwaamheidsonderhoud, betere aansluiting en samenwerking met het bedrijfsleven, betere inzet ICT, verbetering samenwerkende teams, registratie in het Lerarenregister en het werken aan een systeem van kwaliteitsborging. De instellingen geven hierbij aan hoe hun activiteiten zich verhouden tot de ambities uit de Lerarenagenda. |
-|   |   |   |
-|   |   | **Professionalisering van examenfunctionarissen** Instellingen geven aan hoe, met welk resultaat en wanneer zij hun examenfunctionarissen, waaronder in ieder geval de leden van de examencommissies, in staat stellen zich verder te professionaliseren. |
-| Intensivering van het onderwijs in de Nederlandse taal en in rekenen | Instellingen geven aan hoe en wanneer zij het taal- en rekenonderwijs in hun instelling gaan vormgeven met het oog op het behalen van de benodigde taal- en rekenvaardigheden door de deelnemers. Zij geven aan welke activiteiten zij gaan inzetten op het gebied van: – professionalisering van docenten en overige functionarissen op het gebied van taal- en rekenonderwijs; – extra onderwijstijd; – nieuwe of aangepaste faciliteiten; – andere activiteiten die nodig zijn voor het behalen van de benodigde taal- en rekenvaardigheden. |   |
-| Terugdringen van voortijdig schoolverlaten (vsv) | Instellingen geven aan welke activiteiten zij wanneer gaan ontplooien om voortijdig schoolverlaten te voorkomen met het oog op het verder terugdringen van het aantal voortijdig schoolverlaters op de instelling. Instellingen geven tevens aan welke activiteiten zij gaan ondernemen om het voorkomen van voortijdig schoolverlaten structureel te borgen in het eigen onderwijsproces en hoe zij structurele borging van de samenwerking met andere onderwijsinstellingen en gemeenten in de RMC-regio gaan vormgeven. De instelling zet de middelen op dit kwaliteitsthema in voor het treffen van maatregelen op instellingsniveau om zodoende de vsv-streefnormen te halen. Deze normen zijn voor de verschillende onderwijsniveau bepaald voor de resterende schooljaren 2014-2015 en 2015-2016 en vastgelegd in het vsv-convenant. Bij het behalen van de normen komt de instelling in aanmerking voor de variabele prestatiebeloning. De streefnormen zijn een vertaling van de landelijke doelstelling van 25.000 nieuwe vsv’ers in 2016 (gemeten over schooljaar 2014/2015). Deze doelstelling wordt bereikt door intensieve samenwerking tussen instellingen uit vo en mbo en andere partijen als gemeenten, zorg en hulpverlening en werkgevers. Voor de groep kwetsbare jongeren nemen de instellingen in het kwaliteitsplan op welke ambitieuze en haalbare afspraken zij willen maken in de regionale samenwerking met jeugdzorg, gemeenten en OCW. |   |
-| Het bevorderen van de beschikbaarheid en de kwaliteit van de beroepspraktijkvormingsplaatsen (bpv) | Instellingen geven aan hoe, met welk resultaat en wanneer zij zich inzetten om de beschikbaarheid en de kwaliteit van de bpv-plaatsen te verhogen. In het kwaliteitsplan is aandacht voor de verantwoordelijkheden van de instelling t.a.v. de bpv zoals voorbereiding en matching, (de begeleiding tijdens) de bpv-periode, beoordeling en evaluatie. Bij deze beschrijving kunnen instellingen gebruik maken van het Bpv-protocol. |   |
-| Het stimuleren van excellentie | Instellingen geven aan op welke wijze zij excellentie en de ontwikkeling van een duurzame excellentiecultuur binnen de instelling stimuleren. Zie verder [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=2&z=2015-03-11&g=2016-01-01). |   |
-| Het verbeteren van studiesucces | Instellingen kunnen aparte, resultaatgerichte activiteiten ontplooien om studiesucces te bevorderen. Instellingen geven aan hoe de activiteiten op de verschillende thema’s doorwerken op het verbeteren van studiesucces en met welk beoogd resultaat. Met studiesucces wordt de verhoging van het onderwijsniveau gemeten, waarbij als uitgangspunt de vooropleiding van de student geldt. |   |
-
-## Bijlage 2. bij [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.4&z=2015-03-11&g=2016-01-01), van de Regeling kwaliteitsafspraken mbo
-
-### Beoordelingskader bij het thema stimuleren van excellentie
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.8. Besteding
-
-De aanvulling op de bekostiging kan ook worden aangewend voor andere activiteiten van de onderwijsinstelling dan waarvoor deze aanvullende vergoeding wordt verstrekt.
-
-#### Hoofdstuk 2. Investeringsbudget
-
-#### Hoofdstuk 3. Resultaatafhankelijk budget
+#### Hoofdstuk 3. Resultaatafhankelijk budget studiewaarde
 
 ##### Artikel 3.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **basiswaarde:** de waarde, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.5&z=2016-07-20&g=2016-07-20);
+- a. *basiswaarde:* de waarde, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.5&z=2016-07-20&g=2016-07-20);
 
-- b. **diploma:** een door een deelnemer die op 1 oktober van het betreffende schooljaar de leeftijd van 27 jaar nog niet had bereikt, behaald diploma als bedoeld in [artikel 2.2.2, tweede lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.2) op grond waarvan de instelling bekostiging heeft ontvangen of zal ontvangen;
+- b. *diploma:* een door een deelnemer die op 1 oktober van het betreffende schooljaar de leeftijd van 27 jaar nog niet had bereikt, behaald diploma als bedoeld in [artikel 2.2.2, tweede lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.2) op grond waarvan de instelling bekostiging heeft ontvangen of zal ontvangen;
 
-- c. **diplomawaarde:** de waarde, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=3&z=2016-07-20&g=2016-07-20), die overeenkomstig het opleidingsniveau wordt toegekend aan de diploma’s van de basisberoepsopleiding, de vakopleiding en de middenkader- of specialistenopleiding;
+- c. *diplomawaarde:* de waarde, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=3&z=2016-07-20&g=2016-07-20), die overeenkomstig het opleidingsniveau wordt toegekend aan de diploma’s van de basisberoepsopleiding, de vakopleiding en de middenkader- of specialistenopleiding;
 
-- d. **eenheid:** een groep van beroepsopleidingen van een instelling van eenzelfde opleidingsniveau, bedoeld in [artikel 7.2.2, eerste lid, onder b tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), binnen een opleidingsdomein;
+- d. *eenheid:* een groep van beroepsopleidingen van een instelling van eenzelfde opleidingsniveau, bedoeld in [artikel 7.2.2, eerste lid, onder b tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), binnen een opleidingsdomein;
 
-- e. **grenswaarde:** de waarde, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=5&z=2016-07-20&g=2016-07-20);
+- e. *grenswaarde:* de waarde, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=5&z=2016-07-20&g=2016-07-20);
 
-- f. **landelijk budget voor behoud:** aanvullende bekostiging, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.7&z=2016-07-20&g=2016-07-20);
+- f. *landelijk budget voor behoud:* aanvullende bekostiging, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.7&z=2016-07-20&g=2016-07-20);
 
-- g. **landelijk budget voor verbetering:** aanvullende bekostiging, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.8&z=2016-07-20&g=2016-07-20);
+- g. *landelijk budget voor verbetering:* aanvullende bekostiging, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.8&z=2016-07-20&g=2016-07-20);
 
-- h. **referentiewaarde:** de waarde, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=4&z=2016-07-20&g=2016-07-20);
+- h. *referentiewaarde:* de waarde, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=4&z=2016-07-20&g=2016-07-20);
 
-- i. **schooljaar:** de periode van 1 oktober van het daaraan voorafgaande kalenderjaar tot 1 oktober in het betreffende kalenderjaar;
+- i. *schooljaar:* de periode van 1 oktober van het daaraan voorafgaande kalenderjaar tot 1 oktober in het betreffende kalenderjaar;
 
-- j. **studiewaarde:** de waarde, bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.4&z=2016-07-20&g=2016-07-20);
+- j. *studiewaarde:* de waarde, bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.4&z=2016-07-20&g=2016-07-20);
 
-- k. **vooropleiding:** de vooropleiding, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=4&z=2016-07-20&g=2016-07-20).
+- k. *vooropleiding:* de vooropleiding, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=4&z=2016-07-20&g=2016-07-20).
 
 ##### Artikel 3.2. Resultaatafhankelijk budget
 
@@ -290,7 +222,7 @@ De minister kan een resultaatafhankelijk budget verstrekken aan de instellingen 
 
 4. Het landelijk budget voor behoud wordt verdeeld over de in het tweede dan wel derde lid bedoelde eenheden op grond van de verdeelsleutel:
 
-Hierin staat **DiEh** voor het aantal diploma’s dat is behaald in het schooljaar van de eenheid die voor het landelijk budget voor behoud in aanmerking komt; **LTB** voor het landelijk totaal van de diploma’s die zijn behaald in het schooljaar van alle eenheden die in aanmerking komen voor het landelijk budget voor behoud; en **LBB** voor het landelijk budget voor behoud.
+Hierin staat *DiEh* voor het aantal diploma’s dat is behaald in het schooljaar van de eenheid die voor het landelijk budget voor behoud in aanmerking komt; *LTB* voor het landelijk totaal van de diploma’s die zijn behaald in het schooljaar van alle eenheden die in aanmerking komen voor het landelijk budget voor behoud; en *LBB* voor het landelijk budget voor behoud.
 
 ##### Artikel 3.8. Landelijk budget voor verbetering
 
@@ -300,7 +232,7 @@ Hierin staat **DiEh** voor het aantal diploma’s dat is behaald in het schoolja
 
 3. Het landelijk budget voor verbetering wordt verdeeld over de in het tweede lid bedoelde eenheden op grond van de verdeelsleutel:
 
-Hierin staat **dE** voor elke eenheid voor het positieve verschil tussen de gemiddelde studiewaarde en de basiswaarde, met dien verstande dat indien het positieve verschil groter is dan 0,1, dE wordt vastgesteld op 0,1; **DiE** voor het aantal diploma’s in de eenheid die in aanmerking komt voor het landelijk budget voor verbetering; **LTV** voor het landelijk totaal van **dE** maal **DiE** voor alle eenheden met verbetering; en **LBV** voor het landelijk budget voor verbetering.
+Hierin staat *dE* voor elke eenheid voor het positieve verschil tussen de gemiddelde studiewaarde en de basiswaarde, met dien verstande dat indien het positieve verschil groter is dan 0,1, dE wordt vastgesteld op 0,1; *DiE* voor het aantal diploma’s in de eenheid die in aanmerking komt voor het landelijk budget voor verbetering; *LTV* voor het landelijk totaal van *dE* maal *DiE* voor alle eenheden met verbetering; en *LBV* voor het landelijk budget voor verbetering.
 
 ##### Artikel 3.9. Betaling
 
@@ -332,223 +264,9 @@ Indien meer dan een derde van de instellingen niet in aanmerking komt voor het r
 
 3. De verdeling van het gedeelte van het subsidieplafond bedoeld in het eerste lid onder b respectievelijk in het tweede lid onder b, over de instellingen, geschiedt op grond van de volgende verdeelsleutel:
 
-Hierin staat **dH** voor elke instelling voor het aantal diploma’s met een diplomawaarde die hoger is dan de referentiewaarde die hoort bij de vooropleiding van de deelnemers die het diploma hebben behaald; LTdH voor het landelijk totaal aantal diploma’s dat hoger is dan de referentiewaarde die hoort bij de vooropleiding van de deelnemers die het diploma hebben behaald; **LBd** voor het landelijk budget voor 2016, bedoeld in het eerste lid onder b, respectievelijk 2017, bedoeld in het tweede lid, onder b.
+Hierin staat *dH* voor elke instelling voor het aantal diploma’s met een diplomawaarde die hoger is dan de referentiewaarde die hoort bij de vooropleiding van de deelnemers die het diploma hebben behaald; LTdH voor het landelijk totaal aantal diploma’s dat hoger is dan de referentiewaarde die hoort bij de vooropleiding van de deelnemers die het diploma hebben behaald; *LBd* voor het landelijk budget voor 2016, bedoeld in het eerste lid onder b, respectievelijk 2017, bedoeld in het tweede lid, onder b.
 
 4. In afwijking van [artikel 3.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.6&z=2016-07-20&g=2016-07-20), wordt in 2016 respectievelijk 2017, indien het resultaat van de in artikel 3.12, eerste lid, onder a. en b. bedoelde verdeelsleutels zou zijn dat het in artikel 3.6, vijfde lid, bedoelde maximum wordt overschreden voor 2016, dan wordt het bedrag waarmee dit maximum wordt overschreden, verdeeld over de instellingen naar rato van het bedrag dat zijn op grond van artikel 3,12, eerste lid, onder a ontvangen. Voor 2017 wordt dit verdeeld over de instellingen naar rato van het bedrag dat zij op grond van artikel 3.12, tweede lid, onder a, ontvangen.
-
-### Artikel III. Overgangsbepaling
-
-### Artikel IV. Inwerkingtreding
-
-### Artikel IV. Inwerkingtreding
-
-## Bijlage 2. bij [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.4&z=2016-03-19&g=2016-03-19), van de Regeling kwaliteitsafspraken mbo
-
-## Bijlage 2. bij [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.4&z=2016-03-19&g=2016-01-01), van de Regeling kwaliteitsafspraken mbo
-
-### Beoordelingskader bij het thema stimuleren van excellentie
-
-## Bijlage 4. bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.1&z=2016-03-19&g=2016-03-19) van de Regeling kwaliteitsafspraken mbo
-
-| Vooropleiding | Referentiewaarde |
-| --- | --- |
-| Praktijkonderwijs | 1,20 |
-| Vmbo zonder diploma | 1,72 |
-| Havo/vwo zonder diploma | 3,66 |
-| Vmbo bbl | 2,62 |
-| Vmbo kbl | 3,31 |
-| Vmbo gl | 3,65 |
-| Vmbo tl | 3,70 |
-| Havo/vwo | 3,69 |
-| Overig | 2,25 |
-
-## Bijlage 5. bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.1&z=2016-03-19&g=2016-03-19) van de Regeling kwaliteitsafspraken mbo
-
-| Aggregatieniveau | Domeincode | Niveau diploma | Grenswaarde |
-| --- | --- | --- | --- |
-| Niveau van de eenheid |   |   |   |
-| opleidingsdomein | 79000 | 2 | 0,07 |
-|   | 79000 | 3 | 0,27 |
-|   | 79000 | 4 | 0,52 |
-| opleidingsdomein | 79010 | 2 | 0,09 |
-|   | 79010 | 3 | 0,18 |
-|   | 79010 | 4 | 0,55 |
-| opleidingsdomein | 79020 | 2 | 0,05 |
-|   | 79020 | 3 | 0,22 |
-|   | 79020 | 4 | 0,55 |
-| opleidingsdomein | 79030 | 3 | 0,11 |
-|   | 79030 | 4 | 0,52 |
-| opleidingsdomein | 79040 | 2 | 0,04 |
-|   | 79040 | 3 | 0,19 |
-|   | 79040 | 4 | 0,56 |
-| opleidingsdomein | 79050 | 2 | 0,13 |
-|   | 79050 | 3 | 0,24 |
-|   | 79050 | 4 | 0,66 |
-| opleidingsdomein | 79060 | 2 | 0,06 |
-|   | 79060 | 3 | 0,19 |
-|   | 79060 | 4 | 0,57 |
-| opleidingsdomein | 79070 | 2 | 0,08 |
-|   | 79070 | 3 | 0,23 |
-|   | 79070 | 4 | 0,50 |
-| opleidingsdomein | 79080 | 2 | 0,14 |
-|   | 79080 | 3 | 0,20 |
-|   | 79080 | 4 | 0,57 |
-| opleidingsdomein | 79090 | 2 | 0,10 |
-|   | 79090 | 3 | 0,18 |
-|   | 79090 | 4 | 0,55 |
-| opleidingsdomein | 79100 | 2 | 0,05 |
-|   | 79100 | 3 | 0,12 |
-|   | 79100 | 4 | 0,50 |
-| opleidingsdomein | 79110 | 2 | 0,07 |
-|   | 79110 | 3 | 0,17 |
-|   | 79110 | 4 | 0,45 |
-| opleidingsdomein | 79120 | 2 | 0,09 |
-|   | 79120 | 3 | 0,22 |
-|   | 79120 | 4 | 0,53 |
-| opleidingsdomein | 79130 | 2 | 0,08 |
-|   | 79130 | 3 | 0,14 |
-|   | 79130 | 4 | 0,56 |
-| opleidingsdomein | 79140 | 2 | 0,12 |
-|   | 79140 | 3 | 0,24 |
-|   | 79140 | 4 | 0,55 |
-| opleidingsdomein | 79150 | 2 | 0,10 |
-|   | 79150 | 3 | 0,18 |
-|   | 79150 | 4 | 0,48 |
-| opleidingsdomein | 79160 | 2 | 0,03 |
-|   | 79160 | 3 | 0,12 |
-| Niveau van het opleidingsdomein |   |   |   |
-| opleidingsdomein | 79000 |   | 0,27 |
-| opleidingsdomein | 79010 |   | 0,27 |
-| opleidingsdomein | 79020 |   | 0,24 |
-| opleidingsdomein | 79030 |   | 0,36 |
-| opleidingsdomein | 79040 |   | 0,50 |
-| opleidingsdomein | 79050 |   | 0,30 |
-| opleidingsdomein | 79060 |   | 0,19 |
-| opleidingsdomein | 79070 |   | 0,24 |
-| opleidingsdomein | 79080 |   | 0,33 |
-| opleidingsdomein | 79090 |   | 0,39 |
-| opleidingsdomein | 79100 |   | 0,23 |
-| opleidingsdomein | 79110 |   | 0,17 |
-| opleidingsdomein | 79120 |   | 0,25 |
-| opleidingsdomein | 79130 |   | 0,32 |
-| opleidingsdomein | 79140 |   | 0,37 |
-| opleidingsdomein | 79150 |   | 0,28 |
-| opleidingsdomein | 79160 |   | 0,06 |
-| Niveau van de instelling |   |   | 0,31 |
-
-## Bijlage 5. bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.1&z=2016-03-19&g=2016-01-01) van de Regeling kwaliteitsafspraken mbo
-
-| Aggregatieniveau | Domeincode | Niveau diploma | Grenswaarde |
-| --- | --- | --- | --- |
-| Niveau van de eenheid |   |   |   |
-| opleidingsdomein | 79000 | 2 | 0,07 |
-|   | 79000 | 3 | 0,27 |
-|   | 79000 | 4 | 0,52 |
-| opleidingsdomein | 79010 | 2 | 0,09 |
-|   | 79010 | 3 | 0,18 |
-|   | 79010 | 4 | 0,55 |
-| opleidingsdomein | 79020 | 2 | 0,05 |
-|   | 79020 | 3 | 0,22 |
-|   | 79020 | 4 | 0,55 |
-| opleidingsdomein | 79030 | 3 | 0,11 |
-|   | 79030 | 4 | 0,52 |
-| opleidingsdomein | 79040 | 2 | 0,04 |
-|   | 79040 | 3 | 0,19 |
-|   | 79040 | 4 | 0,56 |
-| opleidingsdomein | 79050 | 2 | 0,13 |
-|   | 79050 | 3 | 0,24 |
-|   | 79050 | 4 | 0,66 |
-| opleidingsdomein | 79060 | 2 | 0,06 |
-|   | 79060 | 3 | 0,19 |
-|   | 79060 | 4 | 0,57 |
-| opleidingsdomein | 79070 | 2 | 0,08 |
-|   | 79070 | 3 | 0,23 |
-|   | 79070 | 4 | 0,50 |
-| opleidingsdomein | 79080 | 2 | 0,14 |
-|   | 79080 | 3 | 0,20 |
-|   | 79080 | 4 | 0,57 |
-| opleidingsdomein | 79090 | 2 | 0,10 |
-|   | 79090 | 3 | 0,18 |
-|   | 79090 | 4 | 0,55 |
-| opleidingsdomein | 79100 | 2 | 0,05 |
-|   | 79100 | 3 | 0,12 |
-|   | 79100 | 4 | 0,50 |
-| opleidingsdomein | 79110 | 2 | 0,07 |
-|   | 79110 | 3 | 0,17 |
-|   | 79110 | 4 | 0,45 |
-| opleidingsdomein | 79120 | 2 | 0,09 |
-|   | 79120 | 3 | 0,22 |
-|   | 79120 | 4 | 0,53 |
-| opleidingsdomein | 79130 | 2 | 0,08 |
-|   | 79130 | 3 | 0,14 |
-|   | 79130 | 4 | 0,56 |
-| opleidingsdomein | 79140 | 2 | 0,12 |
-|   | 79140 | 3 | 0,24 |
-|   | 79140 | 4 | 0,55 |
-| opleidingsdomein | 79150 | 2 | 0,10 |
-|   | 79150 | 3 | 0,18 |
-|   | 79150 | 4 | 0,48 |
-| opleidingsdomein | 79160 | 2 | 0,03 |
-|   | 79160 | 3 | 0,12 |
-| Niveau van het opleidingsdomein |   |   |   |
-| opleidingsdomein | 79000 |   | 0,27 |
-| opleidingsdomein | 79010 |   | 0,27 |
-| opleidingsdomein | 79020 |   | 0,24 |
-| opleidingsdomein | 79030 |   | 0,36 |
-| opleidingsdomein | 79040 |   | 0,50 |
-| opleidingsdomein | 79050 |   | 0,30 |
-| opleidingsdomein | 79060 |   | 0,19 |
-| opleidingsdomein | 79070 |   | 0,24 |
-| opleidingsdomein | 79080 |   | 0,33 |
-| opleidingsdomein | 79090 |   | 0,39 |
-| opleidingsdomein | 79100 |   | 0,23 |
-| opleidingsdomein | 79110 |   | 0,17 |
-| opleidingsdomein | 79120 |   | 0,25 |
-| opleidingsdomein | 79130 |   | 0,32 |
-| opleidingsdomein | 79140 |   | 0,37 |
-| opleidingsdomein | 79150 |   | 0,28 |
-| opleidingsdomein | 79160 |   | 0,06 |
-| Niveau van de instelling |   |   | 0,31 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Hoofdstuk 3. Resultaatafhankelijk budget studiewaarde
-
-### Artikel II. Intrekking
-
-## Bijlage 1. bij [artikel 1.4, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.4&z=2016-03-19&g=2016-03-19), van de Regeling kwaliteitsafspraken mbo
-
-De in deze bijlage beschreven doelstellingen en activiteiten dienen per thema, voor zover mogelijk, SMART te worden geformuleerd: Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdgebonden.
-
-De instellingen formuleren het kwaliteitsplan mede met het oog op de verwachte resultaten voor vsv en studiewaarde, waarvoor vanaf 2016 resultaatafhankelijke bekostiging plaatsvindt.
-
-| Thema | Omschrijving | Deelaspecten (indien van toepassing) |
-| --- | --- | --- |
-| Professionalisering | Aan de hand van de [Regeling bekwaamheid management en professionalisering onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0031444&wetgeving) hebben de instellingen eerder een plan van aanpak opgesteld ten aanzien van bekwaamheid van het management, professionalisering van onderwijspersoneel en kwaliteitsverbetering HRM-beleid. Hiervan wordt een actualisatie gevraagd in het kwaliteitsplan, waarbij de instellingen ook aandacht besteden aan de | **Bekwaamheid van het management:** Instellingen geven aan hoe zij hun managers gaan scholen en wanneer zij welke activiteiten hiertoe gaan ontplooien. Daarbij kunnen zij gebruik maken van het door de MBO Raad ontwikkelde competentieprofiel voor het management. |
-|   | zeven thema’s van de Lerarenagenda 2013-2020 (**Kamerstukken II**2013/14, 27 923, nr. 171) is gepubliceerd. Hiernaast worden deze en de overige deelaspecten van het thema ‘professionalisering’ beschreven. | **Professionalisering van het onderwijspersoneel** Instellingen geven aan hoe en met welk resultaat zij hun onderwijspersoneel in staat stellen zich verder te professionaliseren. Zij geven aan wanneer zij welke acties hiertoe gaan ondernemen. |
-|   |   |   |
-|   |   | **Kwaliteitsverbetering HRM-beleid** Instellingen geven aan welke activiteiten zij wanneer gaan ontplooien ten aanzien van het structureel voeren van functionerings-, beoordelings- en contextgesprekken en het onderhouden van bekwaamheidsdossiers. In het kwaliteitsplan wordt aandacht besteed aan kwaliteitsontwikkeling binnen en tussen teams en instellingen, onder meer door middel van peer review en kennismanagement. Tevens wordt aandacht geschonken aan de begeleiding van beginnende leraren. |
-|   |   |   |
-|   |   | Instellingen geven aan hoe, wanneer en met welk resultaat zij werken aan de ambities uit de Lerarenagenda 2013-2020, waaronder begeleiding en ontwikkeling van startende docenten, meer masteropgeleide docenten, bekwaamheidsonderhoud, betere aansluiting en samenwerking met het bedrijfsleven, betere inzet ICT, verbetering samenwerkende teams, registratie in het Lerarenregister en het werken aan een systeem van kwaliteitsborging. De instellingen geven hierbij aan hoe hun activiteiten zich verhouden tot de ambities uit de Lerarenagenda. |
-|   |   |   |
-|   |   | **Professionalisering van examenfunctionarissen** Instellingen geven aan hoe, met welk resultaat en wanneer zij hun examenfunctionarissen, waaronder in ieder geval de leden van de examencommissies, in staat stellen zich verder te professionaliseren. |
-| Intensivering van het onderwijs in de Nederlandse taal en in rekenen | Instellingen geven aan hoe en wanneer zij het taal- en rekenonderwijs in hun instelling gaan vormgeven met het oog op het behalen van de benodigde taal- en rekenvaardigheden door de deelnemers. Zij geven aan welke activiteiten zij gaan inzetten op het gebied van: – professionalisering van docenten en overige functionarissen op het gebied van taal- en rekenonderwijs; – extra onderwijstijd; – nieuwe of aangepaste faciliteiten; – andere activiteiten die nodig zijn voor het behalen van de benodigde taal- en rekenvaardigheden. |   |
-| Terugdringen van voortijdig schoolverlaten (vsv) | Instellingen geven aan welke activiteiten zij wanneer gaan ontplooien om voortijdig schoolverlaten te voorkomen met het oog op het verder terugdringen van het aantal voortijdig schoolverlaters op de instelling. Instellingen geven tevens aan welke activiteiten zij gaan ondernemen om het voorkomen van voortijdig schoolverlaten structureel te borgen in het eigen onderwijsproces en hoe zij structurele borging van de samenwerking met andere onderwijsinstellingen en gemeenten in de RMC-regio gaan vormgeven. De instelling zet de middelen op dit kwaliteitsthema in voor het treffen van maatregelen op instellingsniveau om zodoende de vsv-streefnormen te halen. Deze normen zijn voor de verschillende onderwijsniveau bepaald voor de resterende schooljaren 2014-2015 en 2015-2016 en vastgelegd in het vsv-convenant. Bij het behalen van de normen komt de instelling in aanmerking voor de variabele prestatiebeloning. De streefnormen zijn een vertaling van de landelijke doelstelling van 25.000 nieuwe vsv’ers in 2016 (gemeten over schooljaar 2014/2015). Deze doelstelling wordt bereikt door intensieve samenwerking tussen instellingen uit vo en mbo en andere partijen als gemeenten, zorg en hulpverlening en werkgevers. Voor de groep kwetsbare jongeren nemen de instellingen in het kwaliteitsplan op welke ambitieuze en haalbare afspraken zij willen maken in de regionale samenwerking met jeugdzorg, gemeenten en OCW. |   |
-| Het bevorderen van de beschikbaarheid en de kwaliteit van de beroepspraktijkvormingsplaatsen (bpv) | Instellingen geven aan hoe, met welk resultaat en wanneer zij zich inzetten om de beschikbaarheid en de kwaliteit van de bpv-plaatsen te verhogen. In het kwaliteitsplan is aandacht voor de verantwoordelijkheden van de instelling t.a.v. de bpv zoals voorbereiding en matching, (de begeleiding tijdens) de bpv-periode, beoordeling en evaluatie. Bij deze beschrijving kunnen instellingen gebruik maken van het Bpv-protocol. |   |
-| Het stimuleren van excellentie | Instellingen geven aan op welke wijze zij excellentie en de ontwikkeling van een duurzame excellentiecultuur binnen de instelling stimuleren. Zie verder [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=2&z=2016-03-19&g=2016-03-19). |   |
-| Het verbeteren van studiewaarde | Instellingen kunnen aparte, resultaatgerichte activiteiten ontplooien om studiewaarde te bevorderen. Instellingen geven aan hoe de activiteiten op de verschillende thema’s doorwerken op het verbeteren van studiewaarde en met welk beoogd resultaat. Met studiewaarde wordt de verhoging van het onderwijsniveau gemeten, waarbij als uitgangspunt de vooropleiding van de student geldt. |   |
-
-### Beoordelingskader bij het thema stimuleren van excellentie
-
-## Bijlage 3. bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.1&z=2016-03-19&g=2016-03-19) van de Regeling kwaliteitsafspraken mbo
-
-| Opleidingsniveau | Diplomawaarde |
-| --- | --- |
-| Basisberoepsopleiding | 2 |
-| Vakopleiding | 3 |
-| Middenkader- of specialistenopleiding | 4 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Hoofdstuk 4. Resultaatafhankelijk budget beroepspraktijkvorming
 
@@ -556,17 +274,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **behaald resultaat:** resultaat dat de instelling in 2017 en 2018 heeft bereikt met het uitvoeren van het verbeterplan bpv;
+- a. *behaald resultaat:* resultaat dat de instelling in 2017 en 2018 heeft bereikt met het uitvoeren van het verbeterplan bpv;
 
-- b. **beoogd resultaat:** resultaat dat de instelling ten aanzien van de verbeterpunten wil bereiken in 2017 of 2018;
+- b. *beoogd resultaat:* resultaat dat de instelling ten aanzien van de verbeterpunten wil bereiken in 2017 of 2018;
 
-- c. **bpv:** beroepspraktijkvorming, bedoeld in [artikel 7.2.8, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8);
+- c. *bpv:* beroepspraktijkvorming, bedoeld in [artikel 7.2.8, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8);
 
-- d. **indicator:** instrument ten behoeve van het meten van een resultaat;
+- d. *indicator:* instrument ten behoeve van het meten van een resultaat;
 
-- e. **resultatenrapportage bpv:** rapportage waarin de instelling de behaalde resultaten van de uitvoering van het verbeterplan bpv beschrijft ten opzichte van de beoogde resultaten;
+- e. *resultatenrapportage bpv:* rapportage waarin de instelling de behaalde resultaten van de uitvoering van het verbeterplan bpv beschrijft ten opzichte van de beoogde resultaten;
 
-- f. **verbeterplan bpv:** plan waarin de instelling onderbouwd de beoogde resultaten en de maatregelen beschrijft die nodig zijn voor verbetering van de bpv.
+- f. *verbeterplan bpv:* plan waarin de instelling onderbouwd de beoogde resultaten en de maatregelen beschrijft die nodig zijn voor verbetering van de bpv.
 
 ##### Artikel 4.2. Budget beroepspraktijkvorming
 
@@ -712,181 +430,14 @@ Indien in een jaar meer dan de helft van de bekostigde deelnemers, bedoeld in [a
 
 ### Artikel II. Intrekking
 
+De [Regeling intensivering Nederlandse taal en rekenen mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0026615) wordt ingetrokken.
+
 ### Artikel III. Overgangsbepaling
+
+- 1. Voor zover er ter zake, na het vervallen van de [Regeling aanvullende bekostiging bekwaamheid van het management en professionalisering onderwijspersoneel Middelbaar Beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031444) en het intrekken van de [Regeling intensivering Nederlandse taal en rekenen mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0026615), nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig genoemde regelingen plaats.
+
+- 2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de [Regeling aanvullende bekostiging bekwaamheid van het management en professionalisering onderwijspersoneel Middelbaar Beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031444) en de [Regeling intensivering Nederlandse taal en rekenen mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0026615) blijven in stand.
 
 ### Artikel IV. Inwerkingtreding
 
-## Bijlage 1. bij [artikel 1.4, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.4&z=2016-07-20&g=2016-07-20), van de Regeling kwaliteitsafspraken mbo
-
-De in deze bijlage beschreven doelstellingen en activiteiten dienen per thema, voor zover mogelijk, SMART te worden geformuleerd: Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdgebonden.
-
-De instellingen formuleren het kwaliteitsplan mede met het oog op de verwachte resultaten voor vsv en studiewaarde, waarvoor vanaf 2016 resultaatafhankelijke bekostiging plaatsvindt.
-
-| Thema | Omschrijving | Deelaspecten (indien van toepassing) |
-| --- | --- | --- |
-| Professionalisering | Aan de hand van de [Regeling bekwaamheid management en professionalisering onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0031444) hebben de instellingen eerder een plan van aanpak opgesteld ten aanzien van bekwaamheid van het management, professionalisering van onderwijspersoneel en kwaliteitsverbetering HRM-beleid. Hiervan wordt een actualisatie gevraagd in het kwaliteitsplan, waarbij de instellingen ook aandacht besteden aan de | **Bekwaamheid van het management:** Instellingen geven aan hoe zij hun managers gaan scholen en wanneer zij welke activiteiten hiertoe gaan ontplooien. Daarbij kunnen zij gebruik maken van het door de MBO Raad ontwikkelde competentieprofiel voor het management. |
-|   | zeven thema’s van de Lerarenagenda 2013-2020 (**Kamerstukken II**2013/14, 27 923, nr. 171) is gepubliceerd. Hiernaast worden deze en de overige deelaspecten van het thema ‘professionalisering’ beschreven. | **Professionalisering van het onderwijspersoneel** Instellingen geven aan hoe en met welk resultaat zij hun onderwijspersoneel in staat stellen zich verder te professionaliseren. Zij geven aan wanneer zij welke acties hiertoe gaan ondernemen. |
-|   |   |   |
-|   |   | **Kwaliteitsverbetering HRM-beleid** Instellingen geven aan welke activiteiten zij wanneer gaan ontplooien ten aanzien van het structureel voeren van functionerings-, beoordelings- en contextgesprekken en het onderhouden van bekwaamheidsdossiers. In het kwaliteitsplan wordt aandacht besteed aan kwaliteitsontwikkeling binnen en tussen teams en instellingen, onder meer door middel van peer review en kennismanagement. Tevens wordt aandacht geschonken aan de begeleiding van beginnende leraren. |
-|   |   |   |
-|   |   | Instellingen geven aan hoe, wanneer en met welk resultaat zij werken aan de ambities uit de Lerarenagenda 2013-2020, waaronder begeleiding en ontwikkeling van startende docenten, meer masteropgeleide docenten, bekwaamheidsonderhoud, betere aansluiting en samenwerking met het bedrijfsleven, betere inzet ICT, verbetering samenwerkende teams, registratie in het Lerarenregister en het werken aan een systeem van kwaliteitsborging. De instellingen geven hierbij aan hoe hun activiteiten zich verhouden tot de ambities uit de Lerarenagenda. |
-|   |   |   |
-|   |   | **Professionalisering van examenfunctionarissen** Instellingen geven aan hoe, met welk resultaat en wanneer zij hun examenfunctionarissen, waaronder in ieder geval de leden van de examencommissies, in staat stellen zich verder te professionaliseren. |
-| Intensivering van het onderwijs in de Nederlandse taal en in rekenen | Instellingen geven aan hoe en wanneer zij het taal- en rekenonderwijs in hun instelling gaan vormgeven met het oog op het behalen van de benodigde taal- en rekenvaardigheden door de deelnemers. Zij geven aan welke activiteiten zij gaan inzetten op het gebied van: – professionalisering van docenten en overige functionarissen op het gebied van taal- en rekenonderwijs; – extra onderwijstijd; – nieuwe of aangepaste faciliteiten; – andere activiteiten die nodig zijn voor het behalen van de benodigde taal- en rekenvaardigheden. |   |
-| Terugdringen van voortijdig schoolverlaten (vsv) | Instellingen geven aan welke activiteiten zij wanneer gaan ontplooien om voortijdig schoolverlaten te voorkomen met het oog op het verder terugdringen van het aantal voortijdig schoolverlaters op de instelling. Instellingen geven tevens aan welke activiteiten zij gaan ondernemen om het voorkomen van voortijdig schoolverlaten structureel te borgen in het eigen onderwijsproces en hoe zij structurele borging van de samenwerking met andere onderwijsinstellingen en gemeenten in de RMC-regio gaan vormgeven. De instelling zet de middelen op dit kwaliteitsthema in voor het treffen van maatregelen op instellingsniveau om zodoende de vsv-streefnormen te halen. Deze normen zijn voor de verschillende onderwijsniveau bepaald voor de resterende schooljaren 2014-2015 en 2015-2016 en vastgelegd in het vsv-convenant. Bij het behalen van de normen komt de instelling in aanmerking voor de variabele prestatiebeloning. De streefnormen zijn een vertaling van de landelijke doelstelling van 25.000 nieuwe vsv’ers in 2016 (gemeten over schooljaar 2014/2015). Deze doelstelling wordt bereikt door intensieve samenwerking tussen instellingen uit vo en mbo en andere partijen als gemeenten, zorg en hulpverlening en werkgevers. Voor de groep kwetsbare jongeren nemen de instellingen in het kwaliteitsplan op welke ambitieuze en haalbare afspraken zij willen maken in de regionale samenwerking met jeugdzorg, gemeenten en OCW. |   |
-| Het bevorderen van de beschikbaarheid en de kwaliteit van de beroepspraktijkvormingsplaatsen (bpv) | Instellingen geven aan hoe, met welk resultaat en wanneer zij zich inzetten om de beschikbaarheid en de kwaliteit van de bpv-plaatsen te verhogen. In het kwaliteitsplan is aandacht voor de verantwoordelijkheden van de instelling t.a.v. de bpv zoals voorbereiding en matching, (de begeleiding tijdens) de bpv-periode, beoordeling en evaluatie. Bij deze beschrijving kunnen instellingen gebruik maken van het Bpv-protocol. |   |
-| Het stimuleren van excellentie | Instellingen geven aan op welke wijze zij excellentie en de ontwikkeling van een duurzame excellentiecultuur binnen de instelling stimuleren. Zie verder [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=2&z=2016-07-20&g=2016-07-20). |   |
-| Het verbeteren van studiewaarde | Instellingen kunnen aparte, resultaatgerichte activiteiten ontplooien om studiewaarde te bevorderen. Instellingen geven aan hoe de activiteiten op de verschillende thema’s doorwerken op het verbeteren van studiewaarde en met welk beoogd resultaat. Met studiewaarde wordt de verhoging van het onderwijsniveau gemeten, waarbij als uitgangspunt de vooropleiding van de student geldt. |   |
-
-## Bijlage 2. bij [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.4&z=2016-07-20&g=2016-07-20), van de Regeling kwaliteitsafspraken mbo
-
-### Beoordelingskader bij het thema stimuleren van excellentie
-
-## Bijlage 3. bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.1&z=2016-07-20&g=2016-07-20) van de Regeling kwaliteitsafspraken mbo
-
-| Opleidingsniveau | Diplomawaarde |
-| --- | --- |
-| Basisberoepsopleiding | 2 |
-| Vakopleiding | 3 |
-| Middenkader- of specialistenopleiding | 4 |
-
-## Bijlage 4. bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.1&z=2016-07-20&g=2016-07-20) van de Regeling kwaliteitsafspraken mbo
-
-| Vooropleiding | Referentiewaarde |
-| --- | --- |
-| Praktijkonderwijs | 1,20 |
-| Vmbo zonder diploma | 1,72 |
-| Havo/vwo zonder diploma | 3,66 |
-| Vmbo bbl | 2,62 |
-| Vmbo kbl | 3,31 |
-| Vmbo gl | 3,65 |
-| Vmbo tl | 3,70 |
-| Havo/vwo | 3,69 |
-| Overig | 2,25 |
-
-## Bijlage 5. bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.1&z=2016-07-20&g=2016-07-20) van de Regeling kwaliteitsafspraken mbo
-
-| Aggregatieniveau | Domeincode | Niveau diploma | Grenswaarde |
-| --- | --- | --- | --- |
-| Niveau van de eenheid |   |   |   |
-| opleidingsdomein | 79000 | 2 | 0,07 |
-|   | 79000 | 3 | 0,27 |
-|   | 79000 | 4 | 0,52 |
-| opleidingsdomein | 79010 | 2 | 0,09 |
-|   | 79010 | 3 | 0,18 |
-|   | 79010 | 4 | 0,55 |
-| opleidingsdomein | 79020 | 2 | 0,05 |
-|   | 79020 | 3 | 0,22 |
-|   | 79020 | 4 | 0,55 |
-| opleidingsdomein | 79030 | 3 | 0,11 |
-|   | 79030 | 4 | 0,52 |
-| opleidingsdomein | 79040 | 2 | 0,04 |
-|   | 79040 | 3 | 0,19 |
-|   | 79040 | 4 | 0,56 |
-| opleidingsdomein | 79050 | 2 | 0,13 |
-|   | 79050 | 3 | 0,24 |
-|   | 79050 | 4 | 0,66 |
-| opleidingsdomein | 79060 | 2 | 0,06 |
-|   | 79060 | 3 | 0,19 |
-|   | 79060 | 4 | 0,57 |
-| opleidingsdomein | 79070 | 2 | 0,08 |
-|   | 79070 | 3 | 0,23 |
-|   | 79070 | 4 | 0,50 |
-| opleidingsdomein | 79080 | 2 | 0,14 |
-|   | 79080 | 3 | 0,20 |
-|   | 79080 | 4 | 0,57 |
-| opleidingsdomein | 79090 | 2 | 0,10 |
-|   | 79090 | 3 | 0,18 |
-|   | 79090 | 4 | 0,55 |
-| opleidingsdomein | 79100 | 2 | 0,05 |
-|   | 79100 | 3 | 0,12 |
-|   | 79100 | 4 | 0,50 |
-| opleidingsdomein | 79110 | 2 | 0,07 |
-|   | 79110 | 3 | 0,17 |
-|   | 79110 | 4 | 0,45 |
-| opleidingsdomein | 79120 | 2 | 0,09 |
-|   | 79120 | 3 | 0,22 |
-|   | 79120 | 4 | 0,53 |
-| opleidingsdomein | 79130 | 2 | 0,08 |
-|   | 79130 | 3 | 0,14 |
-|   | 79130 | 4 | 0,56 |
-| opleidingsdomein | 79140 | 2 | 0,12 |
-|   | 79140 | 3 | 0,24 |
-|   | 79140 | 4 | 0,55 |
-| opleidingsdomein | 79150 | 2 | 0,10 |
-|   | 79150 | 3 | 0,18 |
-|   | 79150 | 4 | 0,48 |
-| opleidingsdomein | 79160 | 2 | 0,03 |
-|   | 79160 | 3 | 0,12 |
-| Niveau van het opleidingsdomein |   |   |   |
-| opleidingsdomein | 79000 |   | 0,27 |
-| opleidingsdomein | 79010 |   | 0,27 |
-| opleidingsdomein | 79020 |   | 0,24 |
-| opleidingsdomein | 79030 |   | 0,36 |
-| opleidingsdomein | 79040 |   | 0,50 |
-| opleidingsdomein | 79050 |   | 0,30 |
-| opleidingsdomein | 79060 |   | 0,19 |
-| opleidingsdomein | 79070 |   | 0,24 |
-| opleidingsdomein | 79080 |   | 0,33 |
-| opleidingsdomein | 79090 |   | 0,39 |
-| opleidingsdomein | 79100 |   | 0,23 |
-| opleidingsdomein | 79110 |   | 0,17 |
-| opleidingsdomein | 79120 |   | 0,25 |
-| opleidingsdomein | 79130 |   | 0,32 |
-| opleidingsdomein | 79140 |   | 0,37 |
-| opleidingsdomein | 79150 |   | 0,28 |
-| opleidingsdomein | 79160 |   | 0,06 |
-| Niveau van de instelling |   |   | 0,31 |
-
-## Bijlage 6. bij [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.10&z=2016-07-20&g=2016-07-20)
-
-De instantie vormt een integraal oordeel over het verbeterplan bpv van de mbo-instelling. Dit integrale oordeel is gebaseerd op een toets van het verbeterplan bpv (zijn de voorgeschreven stappen op een goede manier uitgevoerd) en een toets van het ambitieniveau (liggen de beoogde resultaten op het juiste niveau). Deze laatste toets is van een andere orde dan de meer technische toets van het verbeterplan bpv. Met de toets van het ambitieniveau wordt beoordeeld of de beoogde resultaten, als ze worden bereikt, een beloning van een zware categorie ‘goed’ rechtvaardigen. De instelling dient de beoogde resultaten in het verbeterplan bpv zodanig ambitieus te formuleren dat als deze resultaten worden bereikt, de instantie deze bij de beoordeling, bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.14&z=2016-07-20&g=2016-07-20), de classificatie ‘goed’ kan geven.
-
-Onderstaand beoordelingskader geeft in de eerste kolom de criteria waarop de beoordeling wordt gebaseerd. De kolom met de minimale vereisten geeft aan wat er onder het criterium valt; de kolom met de beoordeling beschrijft hoe wordt getoetst of daaraan voldaan wordt. De aspecten worden beoordeeld op de variabelen grootte en bereik. De instantie houdt rekening met het belang dat de instelling in het verbeterplan heeft toegekend aan de verschillende aspecten en resultaten.
-
-De beoogde resultaten voor de instelling worden in onderlinge samenhang beoordeeld.
-
-| Criterium | Minimale vereisten | Beoordeling |
-| --- | --- | --- |
-| **Analyse beginsituatie** | 1) De instelling beschrijft in het verbeterplan bpv de analyse van de uitgangssituatie van de bpv in 2016. 2) De instelling gebruikt hiervoor de relevante informatie en geeft aan welke informatie is gebruikt1. 3) Bij de analyse besteedt de instelling in ieder geval aandacht aan de aspecten bedoeld in artikel 4.6, eerste lid. 4) De instelling kiest gemotiveerd de verbeterpunten voor de kalenderjaren 2017 en 2018. | De verbeterpunten vloeien voort uit de analyse van de uitgangssituatie van de bpv in 2016. De keuze voor de verbeterpunten is gemotiveerd. Indien is gekozen voor bepaalde aspecten geen verbeterpunten te kiezen of voor andere aspecten juist wel verbeterpunten te kiezen, vloeit dit voort uit de analyse. Uit de analyse vloeit een juiste weging van het belang van de aspecten voort. |
-| **Beoogde resultaten** | 1) De instelling omschrijft de beoogde resultaten per aspect voor 2017 en 2018. 2) De beoogde resultaten zijn SMART2 geformuleerd. 3) De beoogde resultaten hebben ten minste betrekking op de aspecten bedoeld in artikel 4.6, eerste lid, tenzij hiervan op grond van de analyse gemotiveerd wordt afgeweken. 4) Een eventueel zwaarder wegend belang van bepaalde beoogde resultaten wordt omschreven. | Heeft de instelling om te bepalen of de beoogde resultaten voor de bpv zijn bereikt, passende indicatoren dan wel andere instrumenten gekozen, waarmee op betrouwbare wijze en eenduidig kan worden vastgesteld of het beoogde resultaat is bereikt. De beoogde resultaten voor 2017 en 2018 vloeien voort uit de analyse van de uitgangssituatie. Van de beoogde resultaten zijn de grootte en het bereik beschreven. Uit de analyse vloeit een gemotiveerde weging van het belang van de beoogde resultaten voort. |
-| **Waardering beoogde resultaten** | Toets van het ambitieniveau: De beoogde resultaten zijn ambitieus en haalbaar geformuleerd. | 1. a. Grootte: Het beoogde resultaat is ambitieuzer naarmate de beoogde verbeteringen groter zijn. b. Bereik: Het beoogde resultaat is ambitieuzer naarmate het aandeel van de deelnemers dat baat heeft bij de beoogde verbeteringen groter is. 2. De beoogde resultaten zijn realistisch, in die zin dat ze niet te ambitieus zijn geformuleerd en haalbaar zijn (in de tijd) met de voorgenomen maatregelen. |
-| **Maatregelen** | De instelling geeft een overzicht van de maatregelen waarmee de beoogde resultaten kunnen worden gerealiseerd en de wijze waarop de implementatie van de maatregelen wordt georganiseerd. | De maatregelen zijn voldoende concreet uitgewerkt in termen van betrokkenen en verantwoordelijkheden, monitoring, borging en communicatie met in- en externe betrokkenen. De maatregelen kunnen worden uitgevoerd, gelet op de structuren en processen van de instelling. |
-| **Draagvlak** | De beoogde resultaten en de te treffen maatregelen zijn gedragen door de interne en externe betrokkenen. | De beoogde resultaten en maatregelen zijn afgestemd met vertegenwoordigers van de leerbedrijven, deelnemers en bpv-begeleiders. |
-| **Collegiale consultatie** | De instelling committeert zich te participeren aan de collegiale consultatie voor de bpv. De instelling geeft zelf vorm aan deze consultatie. | In het verbeterplan bpv is de deelname aan de collegiale consultatie van het verbeterplan bpv opgenomen. |
-
-1 Indien de instelling informatie gebruikt uit onderzoek dat in opdracht van de instelling is uitgevoerd, wordt de onderbouwende informatie (bijv. het onderzoeksrapport) bij het verbeterplan verstrekt.
-
-2 Specifiek, Meetbaar, Acceptabel, Realistisch, Tijdgebonden of anderszins meetbaar, aantoonbaar en verifieerbaar.
-
-## Bijlage 7. bij [artikel 4.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.13&z=2016-07-20&g=2016-07-20)
-
-Voor de resultatenrapportage worden de behaalde resultaten afgezet tegen de beoogde resultaten en vergeleken met de uitgangssituatie zoals vastgelegd in het verbeterplan bpv.
-
-De instelling kan een toelichting geven over de behaalde resultaten.
-
-|   | Programma | Matching | Begeleiding | Eventueel ander aspect |
-| --- | --- | --- | --- | --- |
-| **Uitgangssituatie van de bpv in 2016** | 1. Resultaat A 2. Resultaat B 3. …. | 1. 2. 3. | 1. 2. 3. | 1. 2. 3. |
-| **Beoogde resultaten voor 2017** | 1. 2. 3. | 1. 2. 3. | 1. 2. 3. | 1. 2. 3. |
-| **Behaalde resultaten in 2017** | 1. 2. 3. | 1. 2. 3. | 1. 2. 3. | 1. 2. 3. |
-
-De instantie vormt een integraal oordeel over de verbetering van de bpv bij de instelling. Dit oordeel is opgebouwd uit de oordelen per aspect. Voor deze oordelen per aspect zet de instantie de behaalde resultaten af tegen de beoogde resultaten en de uitgangssituatie zoals die in het verbeterplan bpv zijn opgenomen. De instantie betrekt de door de instelling gegeven toelichting bij de beoordeling. Bij dit integraal oordeel worden de drie variabelen grootte, bereik en belang van de gerealiseerde verbetering voor de resultaten per aspect gewogen. Het is niet mogelijk voor deze kwalitatieve beoordeling een kwantitatieve beslisregel te formuleren. Daarom vormt de instantie een integraal oordeel over de verbetering van de bpv zoals die blijkt uit de bereikte resultaten, voor de instelling als geheel en voor de diverse aspecten. Dit oordeel wordt onderbouwd en gemotiveerd.
-
-De resultaten worden beoordeeld als behaald als ze ten minste op het niveau van de beoogde resultaten liggen.
-
-In [Artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.14&z=2016-07-20&g=2016-07-20) staat in het tweede lid, dat indien het geheel van de beoogde resultaten van een aspect is bereikt, de instantie de behaalde resultaten voor het betreffende aspect classificeert als ‘goed’.
-
-In [Artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.14&z=2016-07-20&g=2016-07-20) staat in het derde lid, dat indien het geheel van de beoogde resultaten grotendeels is gerealiseerd, de instantie de behaalde resultaten voor het betreffende aspect classificeert als ‘voldoende’.
-
-De instantie beoordeelt het geheel van de gerealiseerde resultaten voor een aspect als ‘voldoende’ als alle beoogde resultaten grotendeels zijn bereikt of als een groot deel van de resultaten geheel is bereikt.
-
-In [Artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.14&z=2016-07-20&g=2016-07-20) staat in het vierde lid, dat indien voor de beoogde resultaten niet de classificatie ‘goed’ of ‘voldoende’ kan worden gegeven, de instantie de behaalde resultaten voor dit aspect classificeert als ‘onvoldoende’.
-
-In [Artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.14&z=2016-07-20&g=2016-07-20) staat in het vijfde lid, dat bij de beoordeling van de gerealiseerde resultaten voor de instelling als geheel het eerste tot en met het derde lid van overeenkomstige toepassing zijn.
-
-Dit geldt ook voor de hierboven vermelde normen voor de beoordeling ‘goed’ en ‘voldoende’.
-
-Voor 2018 wordt eenzelfde tabel gebruikt als voor 2017. Er is geen verband tussen het oordeel in 2017 en het oordeel in 2018. Het kan voorkomen dat de resultaten van een instelling in 2017 als ‘goed’ worden beoordeeld, terwijl de resultaten in 2018 als ‘onvoldoende’ worden beoordeeld en omgekeerd.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 januari 2015.

@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 februari 2015, nr. 2015-0000104282, houdende regels voor de subsidiëring van de Stichting Centrum voor de Arbeidsverhoudingen Overheidspersoneel (Subsidieregeling Stichting CAOP 2015)"
+citeertitel: "Subsidieregeling Stichting CAOP 2015"
 identifier: "BWBR0036391"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-03-11"
-last_updated: "2015-03-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036391"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "13006463"
-version_id: "22214122"
-internal_id: "C31854201"
-label_id: "12975304"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036391/2015-03-11/0"
-intitule_bron: "Stcrt.2015-6680"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-24"
-intitule_published: "2015-03-10"
-intitule_in_force: "2015-03-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-6680"
-original_signed_date: "2015-02-24"
-original_published_date: "2015-03-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-6680"
-entry_into_force_date: "2015-03-11"
-jci_1_3: "jci1.3:c:BWBR0036391&z=2015-03-11&g=2015-03-11"
-jci_1_0: "1.0:c:BWBR0036391&g=2015-03-11"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Stichting CAOP 2015"
-signed_date: "2015-02-24"
-entry_into_force: "2015-03-11"
+publicatiedatum: 2015-03-11
+laatste_update: 2015-03-11
+status: geldig
+toestand: 2015-03-11
+bron: "https://wetten.overheid.nl/BWBR0036391"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 februari 2015, nr. 2015-0000104282, houdende regels voor de subsidiëring van de Stichting Centrum voor de Arbeidsverhoudingen Overheidspersoneel (Subsidieregeling Stichting CAOP 2015)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdeel d, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18), en [22, vierde lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=22);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **stichting:** Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel.
+- b. *stichting:* Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel.
 
 ##### Artikel 2
 
@@ -54,21 +28,21 @@ In deze regeling wordt verstaan onder:
 
 - a. de secretariële en administratieve ondersteuning van:
 
-- –. de Advies- en Arbitragecommissie Rijksdienst;
+   - – de Advies- en Arbitragecommissie Rijksdienst;
 
-- –. de Raad voor het Overheidspersoneelsbeleid en de daaronder ressorterende commissies;
+   - – de Raad voor het Overheidspersoneelsbeleid en de daaronder ressorterende commissies;
 
-- –. de Bedrijfscommissie Overheid;
+   - – de Bedrijfscommissie Overheid;
 
-- –. de Onderzoeksraad integriteit Overheid;
+   - – de Onderzoeksraad integriteit Overheid;
 
 - b. de secretariële en administratieve ondersteuning van:
 
-- –. de Commissie van Advies Bezwaren Functiewaardering;
+   - – de Commissie van Advies Bezwaren Functiewaardering;
 
-- –. de Adviescommissie Grondrechten en Functie-uitoefening Ambtenaren;
+   - – de Adviescommissie Grondrechten en Functie-uitoefening Ambtenaren;
 
-- –. de Adviescommissie Veiligheidsonderzoeken;
+   - – de Adviescommissie Veiligheidsonderzoeken;
 
 - c. onderzoek en voorlichting op het terrein van de arbeidsverhoudingen bij de overheid; en
 
@@ -119,5 +93,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling Stichting CAOP 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

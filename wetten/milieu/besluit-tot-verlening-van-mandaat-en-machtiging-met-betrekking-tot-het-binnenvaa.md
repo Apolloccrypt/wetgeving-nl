@@ -1,43 +1,17 @@
 ---
 title: "Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Midden-Nederland 2015"
 identifier: "BWBR0036429"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-03-25"
-last_updated: "2015-03-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036429"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13081583"
-version_id: "22312182"
-internal_id: "C31958961"
-label_id: "13050344"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036429/2015-03-25/0"
-intitule_bron: "Stcrt.2015-7950"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-03-09"
-intitule_published: "2015-03-24"
-intitule_in_force: "2015-03-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-7950"
-original_signed_date: "2015-03-09"
-original_published_date: "2015-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-7950"
-entry_into_force_date: "2015-03-25"
-jci_1_3: "jci1.3:c:BWBR0036429&z=2015-03-25&g=2015-03-25"
-jci_1_0: "1.0:c:BWBR0036429&g=2015-03-25"
-citeertitel_status: "officieel"
-signed_date: "2015-03-09"
-entry_into_force: "2015-03-25"
+publicatiedatum: 2015-03-25
+laatste_update: 2015-03-25
+status: geldig
+toestand: 2015-03-25
+bron: "https://wetten.overheid.nl/BWBR0036429"
+opgehaald: 2026-08-22
 ---
+
 # Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Midden-Nederland 2015
-
-Gelet op [artikel 1, onderdeel b, van de Beschikking aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0017541&artikel=1);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -112,5 +86,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Midden-Nederland 2015.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

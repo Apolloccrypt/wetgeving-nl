@@ -1,52 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 22 juli 2015 nr. BOACAT2015/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Veiligheidszorg Drenthe"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Stichting Veiligheidszorg Drenthe 2015, domein IV, Openbaar Vervoer 2015"
 identifier: "BWBR0036907"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-07-05"
-last_updated: "2017-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036907"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13236503"
-version_id: "22624822"
-internal_id: "C32437971"
-label_id: "13204664"
-dtd_version: "2.0"
-original_entry_into_force: "2015-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036907/2017-07-05/0"
-intitule_bron: "Stcrt.2015-22660"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-22"
-intitule_published: "2015-07-31"
-intitule_in_force: "2015-07-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-22660"
-original_signed_date: "2015-07-22"
-original_published_date: "2015-07-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-22660"
-entry_into_force_date: "2015-08-01"
-jci_1_3: "jci1.3:c:BWBR0036907&z=2017-07-05&g=2017-07-05"
-jci_1_0: "1.0:c:BWBR0036907&g=2017-07-05"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Stichting Veiligheidszorg Drenthe 2015, domein IV, Openbaar Vervoer 2015"
-signed_date: "2015-07-22"
-entry_into_force: "2015-08-01"
+publicatiedatum: 2015-08-01
+laatste_update: 2017-07-05
+status: geldig
+toestand: 2017-07-05
+bron: "https://wetten.overheid.nl/BWBR0036907"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 22 juli 2015 nr. BOACAT2015/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Veiligheidszorg Drenthe
-
-Gelezen het verzoek van de Stichting Veiligheidszorg Drenthe van 13 juli 2015 en de adviezen van de hoofdofficier van justitie Noord-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -103,5 +69,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Stichting Veiligheidszorg Drenthe 2015, domein IV, Openbaar Vervoer 2015.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

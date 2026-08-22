@@ -1,53 +1,24 @@
 ---
 title: "Wet van 17 december 2014 tot wijziging van de Wet gemeenschappelijke regelingen en enkele andere wetten in verband met de afschaffing van de plusregio’s"
+citeertitel: "Wet afschaffing plusregio’s"
 identifier: "BWBR0036043"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036043"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12917753"
-version_id: "21989202"
-internal_id: "C31536481"
-label_id: "12887264"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036043/2015-01-01/0"
-intitule_bron: "Stb.2014-557"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-17"
-intitule_published: "2014-12-24"
-intitule_in_force: "2014-12-24"
-intitule_status: "goed"
-original_publication: "Stb.2014-557"
-original_signed_date: "2014-12-17"
-original_published_date: "2014-12-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "33659"
-original_url_id: "stb-2014-557"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0036043&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0036043&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet afschaffing plusregio’s"
-signed_date: "2014-12-17"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0036043"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 17 december 2014 tot wijziging van de Wet gemeenschappelijke regelingen en enkele andere wetten in verband met de afschaffing van de plusregio’s
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de verplichte samenwerking in plusregio’s te beëindigen, de bevoegdheden van deze regio’s te verdelen over provincies en gemeenten en daartoe de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en enkele andere wetten te wijzigen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Opheffing plusregio’s
 
 ##### Artikel I
 
-Wijzigt de Wet gemeenschappelijke regelingen.
+*Wijzigt de Wet gemeenschappelijke regelingen.*
 
 ##### Artikel II
 
@@ -57,89 +28,89 @@ De [Wijzigingswet Wgr-plus](https://wetten.overheid.nl/jci1.3:c:BWBR0019114) wor
 
 ##### Artikel III
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel IV
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel V
 
-Wijzigt de Huisvestingswet.
+*Wijzigt de Huisvestingswet.*
 
 ##### Artikel VI
 
-Wijzigt de Woningwet.
+*Wijzigt de Woningwet.*
 
 ##### Artikel VII
 
-Wijzigt de Wet bijzondere maatregelen grootstedelijke problematiek.
+*Wijzigt de Wet bijzondere maatregelen grootstedelijke problematiek.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op het BTW-compensatiefonds.
+*Wijzigt de Wet op het BTW-compensatiefonds.*
 
 ##### Artikel IX
 
-Wijzigt de Wet BDU verkeer en vervoer.
+*Wijzigt de Wet BDU verkeer en vervoer.*
 
 ##### Artikel X
 
-Wijzigt de Wet personenvervoer 2000.
+*Wijzigt de Wet personenvervoer 2000.*
 
 ##### Artikel XI
 
-Wijzigt de Planwet verkeer en vervoer.
+*Wijzigt de Planwet verkeer en vervoer.*
 
 ##### Artikel XII
 
-Wijzigt de Wet bereikbaarheid en mobiliteit.
+*Wijzigt de Wet bereikbaarheid en mobiliteit.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet Infrastructuurfonds.
+*Wijzigt de Wet Infrastructuurfonds.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet luchtvaart.
+*Wijzigt de Wet luchtvaart.*
 
 ##### Artikel XV
 
-Wijzigt de Wet houdende regels met betrekking tot enkele specifieke uitkeringen aan provincies en gemeenten op het terrein van Verkeer en Waterstaat.
+*Wijzigt de Wet houdende regels met betrekking tot enkele specifieke uitkeringen aan provincies en gemeenten op het terrein van Verkeer en Waterstaat.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet bodembescherming.
+*Wijzigt de Wet bodembescherming.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet op de jeugdzorg.
+*Wijzigt de Wet op de jeugdzorg.*
 
 ### Hoofdstuk 3. Samenloop met andere wetsvoorstellen
 
 ##### Artikel XIX
 
-Wijzigt de Huisvestingswet 2014.
+*Wijzigt de Huisvestingswet 2014.*
 
 ##### Artikel XX
 
-Wijzigt de Huisvestingswet 2014.
+*Wijzigt de Huisvestingswet 2014.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet lokaal spoor.
+*Wijzigt de Wet lokaal spoor.*
 
 ##### Artikel XXIa
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXIb
 
-Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).
+*Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).*
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -210,5 +181,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel XXX
 
 Deze wet wordt aangehaald als: Wet afschaffing plusregio’s.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

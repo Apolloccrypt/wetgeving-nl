@@ -1,52 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 februari 2015 nr. BOACAT2015/010, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Cluster Sociaal van de gemeente Amsterdam"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Cluster Sociaal, RVE Inkomen, gemeente Amsterdam 2015"
 identifier: "BWBR0036361"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-02-28"
-last_updated: "2015-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036361"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13000003"
-version_id: "22186522"
-internal_id: "C31812841"
-label_id: "12968814"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036361/2015-02-28/0"
-intitule_bron: "Stcrt.2015-5922"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-25"
-intitule_published: "2015-02-27"
-intitule_in_force: "2015-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-5922"
-original_signed_date: "2015-02-25"
-original_published_date: "2015-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-5922"
-entry_into_force_date: "2015-02-28"
-jci_1_3: "jci1.3:c:BWBR0036361&z=2015-02-28&g=2015-02-28"
-jci_1_0: "1.0:c:BWBR0036361&g=2015-02-28"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Cluster Sociaal, RVE Inkomen, gemeente Amsterdam 2015"
-signed_date: "2015-02-25"
-entry_into_force: "2015-02-28"
+publicatiedatum: 2015-02-28
+laatste_update: 2015-02-28
+status: geldig
+toestand: 2015-02-28
+bron: "https://wetten.overheid.nl/BWBR0036361"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 februari 2015 nr. BOACAT2015/010, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Cluster Sociaal van de gemeente Amsterdam
-
-Gelezen het verzoek van Cluster Sociaal, RVE Inkomen, gemeente Amsterdam van 18 februari 2015 en de adviezen van de hoofdofficier van justitie Amsterdam en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -93,5 +59,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Cluster Sociaal, RVE Inkomen, gemeente Amsterdam 2015.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

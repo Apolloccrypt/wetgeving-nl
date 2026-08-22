@@ -1,48 +1,18 @@
 ---
 title: "Wet van 20 mei 2015 tot goedkeuring van het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2012, 123)"
+citeertitel: "Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123)"
 identifier: "BWBR0036666"
-country: "nl"
-rank: "wet"
-publication_date: "2015-06-05"
-last_updated: "2015-06-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036666"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "13164783"
-version_id: "22438562"
-internal_id: "C32206181"
-label_id: "13133144"
-dtd_version: "2.0"
-original_entry_into_force: "2015-06-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036666/2015-06-05/0"
-intitule_bron: "Stb.2015-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-20"
-intitule_published: "2015-06-04"
-intitule_in_force: "2015-06-04"
-intitule_status: "goed"
-original_publication: "Stb.2015-198"
-original_signed_date: "2015-05-20"
-original_published_date: "2015-06-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "33615"
-original_url_id: "stb-2015-198"
-entry_into_force_date: "2015-06-05"
-entry_into_force_dossier: "33615"
-jci_1_3: "jci1.3:c:BWBR0036666&z=2015-06-05&g=2015-06-05"
-jci_1_0: "1.0:c:BWBR0036666&g=2015-06-05"
-citeertitel_status: "redactioneel"
-short_title: "Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123)"
-signed_date: "2015-05-20"
-entry_into_force: "2015-06-05"
+publicatiedatum: 2015-06-05
+laatste_update: 2015-06-05
+status: geldig
+toestand: 2015-06-05
+bron: "https://wetten.overheid.nl/BWBR0036666"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 20 mei 2015 tot goedkeuring van het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2012, 123)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ingevolge [artikel 91, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=91) de goedkeuring van de Staten-Generaal behoeft alvorens het Koninkrijk daaraan kan worden gebonden;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -77,5 +47,3 @@ Het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk 
 ##### Artikel 3
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin zij wordt geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

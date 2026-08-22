@@ -1,45 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid archief Centrale Veiligheidsdienst (CVD) + Binnenlandse Veiligheidsdienst (BVD) over de periode 9 april 1946–1952"
 identifier: "BWBR0036174"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-16"
-last_updated: "2015-01-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036174"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12963393"
-version_id: "22078212"
-internal_id: "C31655661"
-label_id: "12932524"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036174/2015-01-16/0"
-intitule_bron: "Stcrt.2015-657"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-01"
-intitule_published: "2015-01-15"
-intitule_in_force: "2015-01-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-657"
-original_signed_date: "2014-12-01"
-original_published_date: "2015-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-657"
-entry_into_force_date: "2015-01-16"
-jci_1_3: "jci1.3:c:BWBR0036174&z=2015-01-16&g=2015-01-16"
-jci_1_0: "1.0:c:BWBR0036174&g=2015-01-16"
-citeertitel_status: "redactioneel"
-signed_date: "2014-12-01"
-entry_into_force: "2015-01-16"
+publicatiedatum: 2015-01-16
+laatste_update: 2015-01-16
+status: geldig
+toestand: 2015-01-16
+bron: "https://wetten.overheid.nl/BWBR0036174"
+opgehaald: 2026-08-22
 ---
+
 # Besluit beperking openbaarheid archief Centrale Veiligheidsdienst (CVD) + Binnenlandse Veiligheidsdienst (BVD) over de periode 9 april 1946–1952
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en gehoord de algemene rijksarchivaris als beheerder van het Nationaal Archief d.d. 16 september 2014, met kenmerk NA/14/14666;
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van de open dossiers van het archief van de Centrale Veiligheidsdienst (CVD) + Binnenlandse Veiligheidsdienst (BVD) over de periode 9 april 1946–1952 van de zorgdrager de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 1
 
@@ -446,23 +418,23 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 Raadpleging of gebruik van de archiefbescheiden genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036174&artikel=1&z=2015-01-16&g=2015-01-16), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris. Deze kan toestemming tot raadpleging verlenen indien:
 
-- •. degene wiens bijzondere persoonsgegevens men wil raadplegen is overleden of
+- • degene wiens bijzondere persoonsgegevens men wil raadplegen is overleden of
 
-- •. men de uitdrukkelijke toestemming van de betrokkenen heeft of
+- • men de uitdrukkelijke toestemming van de betrokkenen heeft of
 
-- •. raadpleging noodzakelijk is als juridisch bewijsstuk of
+- • raadpleging noodzakelijk is als juridisch bewijsstuk of
 
-- •. raadpleging noodzakelijk is ter voldoening aan een volkenrechtelijke verplichting of
+- • raadpleging noodzakelijk is ter voldoening aan een volkenrechtelijke verplichting of
 
-- •. raadpleging plaatsvindt ten behoeve van van wetenschappelijk onderzoek of statistiek. In dit geval dient de aanvrager aan de volgende voorwaarden te voldoen:
+- • raadpleging plaatsvindt ten behoeve van van wetenschappelijk onderzoek of statistiek. In dit geval dient de aanvrager aan de volgende voorwaarden te voldoen:
 
-- •. aantonen dat het onderzoek een algemeen belang dient;
+   - • aantonen dat het onderzoek een algemeen belang dient;
 
-- •. aantonen dat de verwerking van persoonsgegevens voor het betreffende onderzoek of statistiek noodzakelijk is;
+   - • aantonen dat de verwerking van persoonsgegevens voor het betreffende onderzoek of statistiek noodzakelijk is;
 
-- •. aantonen dat het verkrijgen van een bewijs van van overlijden of van uitdrukkelijke toestemming van een betrokkene onmogelijk blijkt of een onevenredige inspanning kost;
+   - • aantonen dat het verkrijgen van een bewijs van van overlijden of van uitdrukkelijke toestemming van een betrokkene onmogelijk blijkt of een onevenredige inspanning kost;
 
-- •. aantonen dat bij de uitvoering in zodanige waarborgen is voorzien dat de persoonlijke levenssfeer van de betrokkene(n) niet onevenredig wordt geschaad.
+   - • aantonen dat bij de uitvoering in zodanige waarborgen is voorzien dat de persoonlijke levenssfeer van de betrokkene(n) niet onevenredig wordt geschaad.
 
 ##### Artikel 3
 

@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2015, nr. 4484468, houdende instelling van de jury excellente scholen in het primair, speciaal en voortgezet onderwijs (Instellingsbesluit jury excellente scholen in het primair, speciaal en voortgezet onderwijs)"
+citeertitel: "Instellingsbesluit jury excellente scholen in het primair, speciaal en voortgezet onderwijs"
 identifier: "BWBR0036187"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036187"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "12966273"
-version_id: "22104492"
-internal_id: "C31697171"
-label_id: "12935484"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036187/2020-01-01/0"
-intitule_bron: "Stcrt.2015-1745"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-01-16"
-intitule_published: "2015-01-23"
-intitule_in_force: "2015-01-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-1745"
-original_signed_date: "2015-01-16"
-original_published_date: "2015-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-1745"
-entry_into_force_date: "2015-01-24"
-jci_1_3: "jci1.3:c:BWBR0036187&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0036187&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit jury excellente scholen in het primair, speciaal en voortgezet onderwijs"
-signed_date: "2015-01-16"
-entry_into_force: "2015-01-24"
+publicatiedatum: 2015-01-24
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0036187"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2015, nr. 4484468, houdende instelling van de jury excellente scholen in het primair, speciaal en voortgezet onderwijs (Instellingsbesluit jury excellente scholen in het primair, speciaal en voortgezet onderwijs)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **jury:** jury excellente scholen in het primair, speciaal en voortgezet onderwijs als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036187&artikel=2&z=2020-01-01&g=2020-01-01);
+- b. *jury:* jury excellente scholen in het primair, speciaal en voortgezet onderwijs als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036187&artikel=2&z=2020-01-01&g=2020-01-01);
 
-- c. **inspectie:** Inspectie van het onderwijs;
+- c. *inspectie:* Inspectie van het onderwijs;
 
-- d. **inspecteur-generaal:** inspecteur-generaal van het onderwijs.
+- d. *inspecteur-generaal:* inspecteur-generaal van het onderwijs.
 
 ##### Artikel 2. Instelling en taak
 
@@ -72,9 +46,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Instellingsduur
 
-1. De jury wordt ingesteld met ingang van 27 januari 2015.
+1. De jury wordt ingesteld met ingang van 27 januari 2015.
 
-2. Per 1 januari 2021 zal het bestaan van de commissie worden geëvalueerd.
+2. Per 1 januari 2021 zal het bestaan van de commissie worden geëvalueerd.
 
 ##### Artikel 4. Informatieplicht
 
@@ -139,5 +113,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit jury excellente scholen in het primair, speciaal en voortgezet onderwijs.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

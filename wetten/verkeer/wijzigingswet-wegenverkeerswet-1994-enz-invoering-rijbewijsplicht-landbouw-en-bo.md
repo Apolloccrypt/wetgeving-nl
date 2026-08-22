@@ -1,55 +1,26 @@
 ---
 title: "Wet van 3 december 2014 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs)"
+citeertitel: "Wijzigingswet Wegenverkeerswet 1994, enz. (invoering rijbewijsplicht landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs))"
 identifier: "BWBR0036167"
-country: "nl"
-rank: "wet"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036167"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "12960983"
-version_id: "22072962"
-internal_id: "C32163601"
-label_id: "12930144"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036167/2022-08-01/0"
-intitule_bron: "Stb.2015-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-03"
-intitule_published: "2015-01-15"
-intitule_in_force: "2015-05-08"
-intitule_status: "goed"
-original_publication: "Stb.2015-10"
-original_signed_date: "2014-12-03"
-original_published_date: "2015-01-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "33781"
-original_url_id: "stb-2015-10"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036167&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0036167&g=2022-08-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wegenverkeerswet 1994, enz. (invoering rijbewijsplicht landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs))"
-signed_date: "2014-12-03"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0036167"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 3 december 2014 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is dat er een rijbewijsplicht komt voor het besturen van landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
 ##### Artikel II
 
-Wijzigt de Wet rijonderricht motorrijtuigen 1993.
+*Wijzigt de Wet rijonderricht motorrijtuigen 1993.*
 
 ##### Artikel III
 
@@ -75,7 +46,7 @@ Aanvragen tot afgifte van het op grond van [artikel 20, eerste lid, van de Arbei
 
 ##### Artikel VI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VII
 
@@ -92,5 +63,3 @@ Onze Minister van Infrastructuur en Milieu zendt binnen twee jaar na de inwerkin
 ##### Artikel VIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

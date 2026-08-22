@@ -1,54 +1,28 @@
 ---
 title: "Besluit van het CAK van 13 januari 2015, tot vaststelling van een gedragscode (Gedragscode CAK)"
+citeertitel: "Gedragscode CAK"
 identifier: "BWBR0036206"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-02-02"
-last_updated: "2015-02-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036206"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12970033"
-version_id: "22121082"
-internal_id: "C31721961"
-label_id: "12939154"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036206/2015-02-02/0"
-intitule_bron: "Stcrt.2015-2473"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-01-13"
-intitule_published: "2015-02-02"
-intitule_in_force: "2015-02-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-2473"
-original_signed_date: "2015-01-13"
-original_published_date: "2015-02-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-2473"
-entry_into_force_date: "2015-02-02"
-jci_1_3: "jci1.3:c:BWBR0036206&z=2015-02-02&g=2015-02-02"
-jci_1_0: "1.0:c:BWBR0036206&g=2015-02-02"
-citeertitel_status: "officieel"
-short_title: "Gedragscode CAK"
-signed_date: "2015-01-13"
-entry_into_force: "2015-02-02"
+publicatiedatum: 2015-02-02
+laatste_update: 2015-02-02
+status: geldig
+toestand: 2015-02-02
+bron: "https://wetten.overheid.nl/BWBR0036206"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van het CAK van 13 januari 2015, tot vaststelling van een gedragscode (Gedragscode CAK)
-
-Het CAK,
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze gedragscode wordt verstaan onder:
 
-- a. **CAK:** Het CAK, bedoeld in [artikel 6.1.1 lid 1 Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- a. *CAK:* Het CAK, bedoeld in [artikel 6.1.1 lid 1 Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- b. **leden:** de leden van het CAK, bedoeld in [artikel 6.1.1 lid 3 Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- b. *leden:* de leden van het CAK, bedoeld in [artikel 6.1.1 lid 3 Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- c. **minister:** de Minister van Volksgezondheid, Welzijn en Sport.
+- c. *minister:* de Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2. Algemene bepalingen
 
@@ -70,11 +44,11 @@ In deze gedragscode wordt verstaan onder:
 
 6. De leden nemen niet deel aan de behandeling en de besluitvorming over en vertegenwoordigen het CAK niet inzake een onderwerp waarbij zij een (potentieel) tegenstrijdig belang hebben. Een (potentieel) tegenstrijdig belang wordt terstond in het Directie Team overleg van het CAK gemeld waarbij alle relevante informatie wordt verschaft. In de notulen van het DT overleg wordt dit ook vastgelegd. Een tegenstrijdig belang bestaat in ieder geval wanneer het CAK voornemens is een transactie aan te gaan met een rechtspersoon:
 
-- i). waarin een lid persoonlijk een materieel financieel belang houdt;
+- i) waarin een lid persoonlijk een materieel financieel belang houdt;
 
-- ii). waarvan een bestuurslid een familierechtelijke verhouding heeft met een lid; of
+- ii) waarvan een bestuurslid een familierechtelijke verhouding heeft met een lid; of
 
-- iii). waarbij een lid een bestuurs- of toezichthoudende functie vervult.
+- iii) waarbij een lid een bestuurs- of toezichthoudende functie vervult.
 
 7. Het is de leden niet toegestaan gedurende het eerste jaar na afloop van hun benoemingstermijn tegen beloning werkzaamheden te verrichten voor het CAK, tenzij de minister hiervan beargumenteerd op de hoogte wordt gesteld.
 
@@ -107,5 +81,3 @@ In deze gedragscode wordt verstaan onder:
 ##### Artikel 7. Slotbepalingen
 
 Deze gedragscode wordt aangehaald als: Gedragscode CAK.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

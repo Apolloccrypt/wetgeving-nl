@@ -1,84 +1,59 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 25 juni 2015, nr. IENM/BSK-2015/124646, houdende regels met betrekking tot het vervoer van huishoudelijk gevaarlijk afval (Regeling vervoer huishoudelijk gevaarlijk afval 2015)"
+citeertitel: "Regeling vervoer huishoudelijk gevaarlijk afval 2015"
 identifier: "BWBR0036777"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036777"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13198073"
-version_id: "22524242"
-internal_id: "C32308151"
-label_id: "13166364"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036777/2024-01-01/0"
-intitule_bron: "Stcrt.2015-17920"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-25"
-intitule_published: "2015-07-01"
-intitule_in_force: "2015-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-17920"
-original_signed_date: "2015-06-25"
-original_published_date: "2015-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-17920"
-entry_into_force_date: "2015-07-02"
-jci_1_3: "jci1.3:c:BWBR0036777&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0036777&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vervoer huishoudelijk gevaarlijk afval 2015"
-signed_date: "2015-06-25"
-entry_into_force: "2015-07-02"
+publicatiedatum: 2015-07-02
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0036777"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 25 juni 2015, nr. IENM/BSK-2015/124646, houdende regels met betrekking tot het vervoer van huishoudelijk gevaarlijk afval (Regeling vervoer huishoudelijk gevaarlijk afval 2015)
-
-Gelet op [artikel 4, derde lid, van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=4);
-
-Besluit:
 
 #### Begripsomschrijving
 
 ##### Artikel 1. Definities
 
-- **begeleider:** degene die bij het voertuig aanwezig is om het huishoudelijk gevaarlijk afval in ontvangst te nemen;
+- *begeleider:* degene die bij het voertuig aanwezig is om het huishoudelijk gevaarlijk afval in ontvangst te nemen;
 
-- **chemokar:** voertuig dat is ingericht voor het, door of in opdracht van de voor het inzamelen van huishoudelijk afval verantwoordelijke gemeente, inzamelen van huishoudelijk gevaarlijk afval en het vervoer hiervan naar het depot;
+- *chemokar:* voertuig dat is ingericht voor het, door of in opdracht van de voor het inzamelen van huishoudelijk afval verantwoordelijke gemeente, inzamelen van huishoudelijk gevaarlijk afval en het vervoer hiervan naar het depot;
 
-- **depot:** locatie waar het ingezamelde huishoudelijk gevaarlijk afval wordt verzameld, opgeslagen en gereed gemaakt voor vervolgtransport naar de afvalverwerker;
+- *depot:* locatie waar het ingezamelde huishoudelijk gevaarlijk afval wordt verzameld, opgeslagen en gereed gemaakt voor vervolgtransport naar de afvalverwerker;
 
-- **element:** buitenverpakking waarin de ingezamelde stoffen ten behoeve van het vervoer met de chemokar worden verzameld;
+- *element:* buitenverpakking waarin de ingezamelde stoffen ten behoeve van het vervoer met de chemokar worden verzameld;
 
-- **etiket:** etiket als bedoeld in [paragraaf 5.2.2.2.2 van bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1);
+- *etiket:* etiket als bedoeld in [paragraaf 5.2.2.2.2 van bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1);
 
-- **huishoudelijk gevaarlijk afval:** KCA en de volgende niet tot KCA behorende gevaarlijke stoffen die als afvalstoffen vrijkomen uit huishoudens of in kleine hoeveelheden vrijkomen uit bedrijven:
+- *huishoudelijk gevaarlijk afval:* KCA en de volgende niet tot KCA behorende gevaarlijke stoffen die als afvalstoffen vrijkomen uit huishoudens of in kleine hoeveelheden vrijkomen uit bedrijven:
 
-- a. restanten van vuurwerk dat op grond van [artikel 2.1.1 van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=2.1.1) is aangewezen als vuurwerk dat ter beschikking mag worden gesteld voor particulier gebruik,
+   - a. restanten van vuurwerk dat op grond van [artikel 2.1.1 van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=2.1.1) is aangewezen als vuurwerk dat ter beschikking mag worden gesteld voor particulier gebruik,
 
-- b. spuitbussen vallende onder klasse 2, UN nr. 1950,
+   - b. spuitbussen vallende onder klasse 2, UN nr. 1950,
 
-- c. brandblusapparaten vallende onder klasse 2, UN nr. 1044,
+   - c. brandblusapparaten vallende onder klasse 2, UN nr. 1044,
 
-- d. stoffen of voorwerpen vallende onder de klassen 3, 6.1 of 8,
+   - d. stoffen of voorwerpen vallende onder de klassen 3, 6.1 of 8,
 
-- e. afgeknipte capillairen, bloedbuizen en soortgelijke scherpe voorwerpen, onder klasse 6.2,
+   - e. afgeknipte capillairen, bloedbuizen en soortgelijke scherpe voorwerpen, onder klasse 6.2,
 
-- f. batterijen onder klasse 9;
+   - f. batterijen onder klasse 9;
 
-- **gevaarlijke stoffen:** gevaarlijke stoffen als bedoeld in [artikel 1 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=1);
+- *gevaarlijke stoffen:* gevaarlijke stoffen als bedoeld in [artikel 1 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=1);
 
-- **inzamelen:** het verzamelen van afvalstoffen die zijn afgegeven door verschillende personen, inclusief de voorlopige sortering en de voorlopige opslag van afvalstoffen, om deze daarna te vervoeren naar een depot.
+- *inzamelen:* het verzamelen van afvalstoffen die zijn afgegeven door verschillende personen, inclusief de voorlopige sortering en de voorlopige opslag van afvalstoffen, om deze daarna te vervoeren naar een depot.
 
-- **klasse:** de klasse gevaarlijke stoffen volgens [paragraaf 2.1.1 van bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1);
+- *klasse:* de klasse gevaarlijke stoffen volgens [paragraaf 2.1.1 van bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1);
 
-- **KCA:** Klein Chemisch Afval, huishoudelijk afval waar chemische stoffen in zitten die schadelijk zijn voor de gezondheid en voor het milieu en die volgens de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) of het omgevingsplan, bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), gescheiden van het huisvuil ingeleverd dienen te worden;
+- *KCA:* Klein Chemisch Afval, huishoudelijk afval waar chemische stoffen in zitten die schadelijk zijn voor de gezondheid en voor het milieu en die volgens de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) of het omgevingsplan, bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), gescheiden van het huisvuil ingeleverd dienen te worden;
 
-- **route-inzameling:** het inzamelen van huishoudelijk gevaarlijk afval volgens een vooraf bepaalde route, die eindigt bij het depot, waarbij afvalstoffen tijdens het vervoer worden samengevoegd met gelijksoortige afvalstoffen die zijn afgegeven door verschillende, voorafgaand aan de inzameling niet bekende personen;
+- *route-inzameling:* het inzamelen van huishoudelijk gevaarlijk afval volgens een vooraf bepaalde route, die eindigt bij het depot, waarbij afvalstoffen tijdens het vervoer worden samengevoegd met gelijksoortige afvalstoffen die zijn afgegeven door verschillende, voorafgaand aan de inzameling niet bekende personen;
 
-- **VLG:** [Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054).
+- *VLG:*
+ [Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054).
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -90,7 +65,7 @@ Besluit:
 
 2. Deze regeling is niet van toepassing op het vervoer tussen het depot en de afnemer van het afval.
 
-##### Artikel 3. Beperking toepasselijkheid [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054)
+##### Artikel 3. Beperking toepasselijkheid VLG
 
 1. De [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054) is niet van toepassing op het vervoer van ingezamelde huishoudelijke afvalstoffen gedurende de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde route-inzameling, indien wordt voldaan aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=4&z=2024-01-01&g=2024-01-01) gestelde voorwaarden.
 
@@ -157,5 +132,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vervoer huishoudelijk gevaarlijk afval 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

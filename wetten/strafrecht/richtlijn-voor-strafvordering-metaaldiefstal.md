@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering metaaldiefstal"
 identifier: "BWBR0036295"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036295"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "12989433"
-version_id: "22162942"
-internal_id: "C31778541"
-label_id: "12958364"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036295/2015-03-01/0"
-intitule_bron: "Stcrt.2015-4410"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-18"
-intitule_in_force: "2015-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4410"
-original_published_date: "2015-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4410"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBR0036295&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0036295&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0036295"
+opgehaald: 2026-08-22
 ---
+
 # Richtlijn voor strafvordering metaaldiefstal
 
 ### Inleiding/Achtergrond
@@ -40,11 +21,24 @@ Koper wordt door zijn goed geleidende eigenschappen veel toegepast in onder meer
 
 In juni 2011 heeft de Minister van Veiligheid en Justitie een convenant gesloten met het Openbaar Ministerie, de Politie, ProRail en Metaal Recycling Federatie. Dit convenant richt zich op de bestrijding van koperdiefstal
 
+- • waarbij (levens)gevaar is of kon ontstaan voor de gezondheid van de dader(s) en/of derden, bijvoorbeeld als er spanning staat op leidingen;
+
+- • waarbij sprake is van maatschappelijke gevolgen, bijv. omdat de treinenloop ernstig wordt vertraagd of omdat de stroomvoorziening uitvalt;
+
+- • waarbij sprake is van grote economische (financiële) schade.
+
 Deze richtlijn is bedoeld om in de strafmaat de gevaarzetting, en/of de maatschappelijke en/of economische (financiële) gevolgen van deze vormen van koperdiefstal te verdisconteren. Indien er geen sprake is van gevaarzetting of maatschappelijke schade (bijvoorbeeld diefstal van koper van een bouwterrein) is deze richtlijn niet van toepassing. Evenmin wanneer er voldoende bewijs is voor overtreding van één van de feiten genoemd in de [artikelen 161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161bis), [161ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161ter), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161sexies), [161septies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161septies), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=164), [165](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=165), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=170) en [171 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=171).
 
 ### Basiscasus/delict
 
 Diefstal van koper / metalen, toegepast in spoorwegwerken, elektriciteitswerken of vergelijkbare werken door middel van braak/verbreking, alleen gepleegd.
+
+|  | first offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- |
+| Zonder gevaarzetting/met grote maatschappelijke of financiële schade | GB 750 | 5j 2j | GB € 1.100 Idem of TS 80 uur | TS 100 uur of GS 7 wkn ov |
+| Met gevaarzetting/zonder grote maatschappelijke of financiële schade | GS 4 wkn | 5j 2j | GS 6 wkn ov GS 6 wkn ov | GS 8 wkn ov |
+| Met gevaarzetting/met grote maatschappelijke of financiële schade | GS 8 wkn | 5j 2j | GS 12 wkn ov GS 12 wkn ov | GS 16 wkn ov |
+| Bijzonderheden Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed Strafverzwarend onder andere: Medeplegen Indien er sprake is van extreme gevaarzetting of zeer grote maatschappelijke schade dan is een van de genoemde artikelen161, 161bis, 161ter, 161sexies, 161septies, 164, 165, 170 en 171 Sr van toepassing (= maatwerk). *let op het taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader |  |  |  |  |
 
 ### Legenda
 
@@ -70,4 +64,4 @@ Door de diefstal ontstaat een gevaarlijke situatie en/of deze zorgt voor het voo
 
 Schade aan de dagelijkse gang van zaken in de maatschappij, waar de gemeenschap en in principe niet het individu voor op draait.
 
-Voor een toelichting op de andere onderstreepte begrippen zie de [Aanwijzing kader voor strafvordering en OM-afdoeningen](onbekend).
+Voor een toelichting op de andere onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.

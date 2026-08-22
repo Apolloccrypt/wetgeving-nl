@@ -1,281 +1,249 @@
 ---
 title: "Wet van 26 november 2014 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het Ministerie van Veiligheid en Justitie, alsmede in de Wet op de dierproeven tot herstel van een abuis (Verzamelwet Veiligheid en Justitie 2013)"
+citeertitel: "Verzamelwet Veiligheid en Justitie 2013"
 identifier: "BWBR0036029"
-country: "nl"
-rank: "wet"
-publication_date: "2018-09-19"
-last_updated: "2018-09-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036029"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12912153"
-version_id: "21974762"
-internal_id: "C31520751"
-label_id: "12881924"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036029/2018-09-19/0"
-intitule_bron: "Stb.2014-540"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-26"
-intitule_published: "2014-12-22"
-intitule_in_force: "2014-12-22"
-intitule_status: "goed"
-original_publication: "Stb.2014-540"
-original_signed_date: "2014-11-26"
-original_published_date: "2014-12-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "33771"
-original_url_id: "stb-2014-540"
-entry_into_force_date: "2014-12-23"
-entry_into_force_dossier: "33771"
-jci_1_3: "jci1.3:c:BWBR0036029&z=2018-09-19&g=2018-09-19"
-jci_1_0: "1.0:c:BWBR0036029&g=2018-09-19"
-citeertitel_status: "officieel"
-short_title: "Verzamelwet Veiligheid en Justitie 2013"
-signed_date: "2014-11-26"
-entry_into_force: "2014-12-23"
+publicatiedatum: 2014-12-23
+laatste_update: 2018-09-19
+status: geldig
+toestand: 2018-09-19
+bron: "https://wetten.overheid.nl/BWBR0036029"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 26 november 2014 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het Ministerie van Veiligheid en Justitie, alsmede in de Wet op de dierproeven tot herstel van een abuis (Verzamelwet Veiligheid en Justitie 2013)
-
-Allen, die dezen zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is in enkele wetten op het terrein van het Ministerie van Veiligheid en Justitie wijzigingen van wetstechnische of anderszins ondergeschikte aard aan te brengen in verband met geconstateerde wetstechnische gebreken en leemten, alsmede een abuis in de Wet op de dierproeven te herstellen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Aanpassingswet veiligheidsregio's.
+*Wijzigt de Aanpassingswet veiligheidsregio's.*
 
 ##### Artikel II
 
-Wijzigt de Advocatenwet BES.
+*Wijzigt de Advocatenwet BES.*
 
 ##### Artikel III
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel IV
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel IVa
 
-Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel V
 
-Wijzigt de Belastingwet BES.
+*Wijzigt de Belastingwet BES.*
 
 ##### Artikel VI
 
-Wijzigt het Besluit politieke delinquenten 1945.
+*Wijzigt het Besluit politieke delinquenten 1945.*
 
 ##### Artikel VII
 
-Wijzigt het Burgerlijk Wetboek Boek 1.
+*Wijzigt het Burgerlijk Wetboek Boek 1.*
 
 ##### Artikel VIII
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel IX
 
-Wijzigt het Burgerlijk Wetboek Boek 3.
+*Wijzigt het Burgerlijk Wetboek Boek 3.*
 
 ##### Artikel X
 
-Wijzigt het Burgerlijk Wetboek BES Boek 4.
+*Wijzigt het Burgerlijk Wetboek BES Boek 4.*
 
 ##### Artikel XI
 
-Wijzigt het Burgerlijk Wetboek Boek 6.
+*Wijzigt het Burgerlijk Wetboek Boek 6.*
 
 ##### Artikel XII
 
-Wijzigt het Burgerlijk Wetboek Boek 8.
+*Wijzigt het Burgerlijk Wetboek Boek 8.*
 
 ##### Artikel XIII
 
-Wijzigt het Burgerlijk Wetboek Boek 10.
+*Wijzigt het Burgerlijk Wetboek Boek 10.*
 
 ##### Artikel XIV
 
-Wijzigt de Deurwaarderswet BES.
+*Wijzigt de Deurwaarderswet BES.*
 
 ##### Artikel XV
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel XVI
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel XVII
 
-Wijzigt de Gerechtsdeurwaarderswet.
+*Wijzigt de Gerechtsdeurwaarderswet.*
 
 ##### Artikel XVIII
 
-Wijzigt de Inkwartieringswet.
+*Wijzigt de Inkwartieringswet.*
 
 ##### Artikel XVIIIa
 
-Wijzigt de Overleveringswet.
+*Wijzigt de Overleveringswet.*
 
 ##### Artikel XIX
 
-Wijzigt de Politiewet 2012.
+*Wijzigt de Politiewet 2012.*
 
 ##### Artikel XX
 
-Wijzigt het Tribunaalbesluit.
+*Wijzigt het Tribunaalbesluit.*
 
 ##### Artikel XXa
 
-Wijzigt de Uitvoeringswet EG-executieverordening.
+*Wijzigt de Uitvoeringswet EG-executieverordening.*
 
 ##### Artikel XXb
 
-Wijzigt de Vreemdelingenwet 2000.
+*Wijzigt de Vreemdelingenwet 2000.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
+*Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet administratieve rechtspraak BES.
+*Wijzigt de Wet administratieve rechtspraak BES.*
 
 ##### Artikel XXIII
 
-Wijzigt de Wet bescherming persoonsgegevens.
+*Wijzigt de Wet bescherming persoonsgegevens.*
 
 ##### Artikel XXIV
 
-Wijzigt de Wet bescherming persoonsgegevens BES.
+*Wijzigt de Wet bescherming persoonsgegevens BES.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
+*Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.*
 
 ##### Artikel XXVa
 
-Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
+*Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.*
 
 ##### Artikel XXVI
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel XXVII
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering BES.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering BES.*
 
 ##### Artikel XXVIII
 
-Wijzigt het Wetboek van Koophandel.
+*Wijzigt het Wetboek van Koophandel.*
 
 ##### Artikel XXIX
 
-Wijzigt het Wetboek van Koophandel BES.
+*Wijzigt het Wetboek van Koophandel BES.*
 
 ##### Artikel XXX
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel XXXI
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel XXXII
 
-Wijzigt het Wetboek van Strafvordering BES.
+*Wijzigt het Wetboek van Strafvordering BES.*
 
 ##### Artikel XXXIII
 
-Wijzigt de Wet griffierechten burgerlijke zaken.
+*Wijzigt de Wet griffierechten burgerlijke zaken.*
 
 ##### Artikel XXXIV
 
-Wijzigt de Wet justitiële en strafvorderlijke gegevens.
+*Wijzigt de Wet justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel XXXV
 
-Wijzigt de Wet op de expertisecentra.
+*Wijzigt de Wet op de expertisecentra.*
 
 ##### Artikel XXXVa
 
-Wijzigt de Wet op de naburige rechten.
+*Wijzigt de Wet op de naburige rechten.*
 
 ##### Artikel XXXVI
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel XXXVII
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
 ##### Artikel XXXVIII
 
-Wijzigt de Wet op het notarisambt BES.
+*Wijzigt de Wet op het notarisambt BES.*
 
 ##### Artikel XXXIX
 
-Wijzigt de Wet op het primair onderwijs.
+*Wijzigt de Wet op het primair onderwijs.*
 
 ##### Artikel XL
 
-Wijzigt de Wet op het voortgezet onderwijs.
+*Wijzigt de Wet op het voortgezet onderwijs.*
 
 ##### Artikel XLI
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
 ##### Artikel XLII
 
-Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.
+*Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.*
 
 ##### Artikel XLIII
 
-Wijzigt de Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal.
+*Wijzigt de Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal.*
 
 ##### Artikel XLIV
 
-Wijzigt de Wet vaststelling van regelen betreffende de gedwongen tenuitvoerlegging van uitspraken van het Benelux-Gerechtshof.
+*Wijzigt de Wet vaststelling van regelen betreffende de gedwongen tenuitvoerlegging van uitspraken van het Benelux-Gerechtshof.*
 
 ##### Artikel XLV
 
-Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.
+*Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.*
 
 ##### Artikel XLVI
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XLVIa
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel XLVIb
 
-Wijzigt de Wijzigingswet Wet op het notarisambt, enz. (o.m. gewijzigde regeling legalisatie handtekeningen notarissen)(Stb.2014/202).
+*Wijzigt de Wijzigingswet Wet op het notarisambt, enz. (o.m. gewijzigde regeling legalisatie handtekeningen notarissen)(Stb.2014/202).*
 
 ##### Artikel XLVIc
 
-Wijzigt de Wijzigingswet Wetboek van Strafrecht (herziening regels betreffende extraterritoriale rechtsmacht in strafzaken).
+*Wijzigt de Wijzigingswet Wetboek van Strafrecht (herziening regels betreffende extraterritoriale rechtsmacht in strafzaken).*
 
 ##### Artikel XLVId
 
-Wijzigt de Wet forensische zorg.
+*Wijzigt de Wet forensische zorg.*
 
 ##### Artikel XLVII
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=IV&z=2018-09-19&g=2018-09-19) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=XVI&z=2018-09-19&g=2018-09-19) van deze wet in werking met ingang van de datum van inwerkingtreding van de Wet van 7 februari 2013 tot wijziging van de Gemeentewet en enige andere wetten in verband met het afschaffen van de bevoegdheid van gemeentebesturen om deelgemeenten in te stellen (**Stb.** 2013, 76). Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na die datum, treden de artikelen IV en XVI van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=IV&z=2018-09-19&g=2018-09-19) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=XVI&z=2018-09-19&g=2018-09-19) van deze wet in werking met ingang van de datum van inwerkingtreding van de Wet van 7 februari 2013 tot wijziging van de Gemeentewet en enige andere wetten in verband met het afschaffen van de bevoegdheid van gemeentebesturen om deelgemeenten in te stellen (*Stb.* 2013, 76). Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na die datum, treden de artikelen IV en XVI van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel XLVIII
 
 Deze wet wordt aangehaald als: Verzamelwet Veiligheid en Justitie 2013.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

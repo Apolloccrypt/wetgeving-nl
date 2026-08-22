@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering Winkeltijdenwet"
 identifier: "BWBR0036308"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036308"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "12991343"
-version_id: "22164882"
-internal_id: "C31780931"
-label_id: "12960204"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036308/2015-03-01/0"
-intitule_bron: "Stcrt.2015-4396"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-18"
-intitule_in_force: "2015-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4396"
-original_published_date: "2015-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4396"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBR0036308&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0036308&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0036308"
+opgehaald: 2026-08-22
 ---
+
 # Richtlijn voor strafvordering Winkeltijdenwet
 
 ### Beschrijving
@@ -38,13 +19,19 @@ Deze richtlijn voor strafvordering ziet op overtredingen van de [artt. 2](https:
 
 Bij overtreding van de [Winkeltijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952) is een financiële sanctie passend. Voor de ter onderscheiden situaties gelden de volgende uitgangspunten.
 
+|  | uitgangspunt | recidive (+ 50%) |
+| --- | --- | --- |
+| Niet structurele ongeoorloofde openstelling door individuele ondernemingen (geen filiaalbedrijven) | GB € 650 | GB € 950 |
+| Structurele ongeoorloofde openstelling door individuele ondernemingen (geen filiaalbedrijven) | GB € 1.200 | GB € 1.800 |
+| Ongeoorloofde openstelling door ondernemingen die deel uitmaken van een concern | GB € 6.000 | GB € 9.000 |
+
 ### Recidive
 
 Bij recidive dient de geldboete met 50% te worden verhoogd.
 
 ### Hoorplicht
 
-Een strafbeschikking houdende betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel, die afzonderlijk of gezamenlijk meer belopen dan € 2000 (en als de verdachte een rechtspersoon is € 10.000), wordt slechts uitgevaardigd indien de verdachte, bijgestaan door een raadsman, **daaraan voorafgaand is gehoord** door de officier van justitie die de strafbeschikking uitvaardigt ([artikel 257c lid 2 Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257c) en [art 36, lid 2 Wed](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=36)).
+Een strafbeschikking houdende betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel, die afzonderlijk of gezamenlijk meer belopen dan € 2000 (en als de verdachte een rechtspersoon is € 10.000), wordt slechts uitgevaardigd indien de verdachte, bijgestaan door een raadsman, *daaraan voorafgaand is gehoord* door de officier van justitie die de strafbeschikking uitvaardigt ([artikel 257c lid 2 Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257c) en [art 36, lid 2 Wed](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=36)).
 
 ### Eis ter zitting
 

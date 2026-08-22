@@ -1,40 +1,27 @@
 ---
 title: "Richtlijn voor strafvordering inbraken overig"
 identifier: "BWBR0036299"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036299"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "12989953"
-version_id: "22163392"
-internal_id: "C31778991"
-label_id: "12958814"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036299/2015-03-01/0"
-intitule_bron: "Stcrt.2015-4239"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-18"
-intitule_in_force: "2015-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4239"
-original_published_date: "2015-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4239"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBR0036299&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0036299&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0036299"
+opgehaald: 2026-08-22
 ---
+
 # Richtlijn voor strafvordering inbraken overig
 
 ### Beschrijving
 
 Deze richtlijn ziet op diefstal door middel van braak, verbreking, valse sleutel of inklimming:
+
+- – uit bedrijven en andere niet bewoonde verblijven, zoals scholen, kelderboxen, caravans e.d. en
+
+- – uit personen-, bestel- en vrachtauto’s en
+
+- – uit automaten, van auto-accessoires, benzine uit auto e.d.
 
 De richtlijn is niet van toepassing op woninginbraken en ram/plofkraken, noch op diefstal van koper met gevaarzetting en grote maatschappelijke schade (aparte richtlijnen).
 
@@ -42,7 +29,18 @@ De richtlijn is niet van toepassing op woninginbraken en ram/plofkraken, noch op
 
 Inbraak/diefstal dmv verbreking, alleen gepleegd.
 
+|  | first offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- |
+| Automaten, auto- accessoires, benzine uit auto’s e.d. | GB 500 | 5j 2j | GB € 750 Idem of TS 60 uur | TS 80 uur of GS 5 wkn ov |
+| Tuin/vakantiehuisje, caravan, plezierjacht, bouwkeet, kelderbox, schuurtjes e.d. | TS 60 uur | 5j 2j | TS 90 uur Idem of GS 6 wkn | GS 2 mnd ov |
+| (bestel) auto of cabine van vrachtauto | TS 90 uur | 5j 2j | TS 130 uur Idem of GS 9 wkn | GS 3 mnd ov |
+| Bedrijf, winkel, school, kerk, sportkantines/accommodaties bedrijfs/bouwterrein | TS 120 uur | 5j 2j | TS 180 uur Idem of GS 3 mnd | GS 4 mnd ov |
+| Vrachtauto en/of aanhanger (ladingdiefstal) | GS 3 mnd | 5j 2j | GS 4 mnd GS 4 mnd | GS 6 mnd ov |
+| Bijzonderheden Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed Strafverzwarend onder andere: Medeplegen of georganiseerd verband (bijv. bij ladingdiefstallen = maatwerk) Omvang schade (braakschade en (beoogde) waarde gestolene) *let op taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader |  |  |  |  |
+
 ### Legenda
+
+Afkortingen
 
 GB = Geldboete
 
@@ -56,4 +54,4 @@ ov = onvoorwaardelijk
 
 2j = recidive binnen 2 jaar
 
-Voor een toelichting op de onderstreepte begrippen zie de [Aanwijzing kader voor strafvordering en OM-afdoeningen](onbekend).
+Voor een toelichting op de onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.

@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering huis- en lokaalvredebreuk"
 identifier: "BWBR0036302"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036302"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "12990423"
-version_id: "22163882"
-internal_id: "C31779531"
-label_id: "12959294"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036302/2015-03-01/0"
-intitule_bron: "Stcrt.2015-4243"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-18"
-intitule_in_force: "2015-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4243"
-original_published_date: "2015-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4243"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBR0036302&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0036302&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0036302"
+opgehaald: 2026-08-22
 ---
+
 # Richtlijn voor strafvordering huis- en lokaalvredebreuk
 
 ### Beschrijving
@@ -39,6 +20,14 @@ Deze richtlijn heeft betrekking op huisvredebreuk of lokaalvredebreuk, niet op k
 ### Basiscasus/delict
 
 Huisvredebreuk of lokaalvredebreuk, alleen gepleegd.
+
+|  | first offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- |
+| M.b.t een voor de openbare dienst bestemd lokaal | GB € 150 | 5j 2j | GB € 225 Idem of TS 16 uur | Eis TS 24 uur of GS 12 dgn ov |
+| M.b.t. een besloten lokaal of erf | GB € 225 | 5j 2j | GB € 325 Idem of TS 24 uur | Eis TS 36 uur of GS 18 dgn ov |
+| M.b.t. een woning | GB € 300 | 5j 2j | GB € 450 Idem of TS 36 uur | Eis TS 48 uur of GS 3 wkn ov |
+| Bij winkelverbod i.v.m. diefstallen** | TS 20 uur | 5j 2j | GS 1 week GS 2 wkn | GS 4 wkn ov |
+| Bijzonderheden Strafverzwarend onder andere: Met bedreiging of vrees aanjagende middelen (art. 138/139, lid 3 Sr) Medeplegen (art. 138/139, lid 4 Sr) Als onderdeel van stalking Kwetsbare slachtoffers (bij huiselijk geweld en overtreding huisverbod > zie ook de richtlijn huiselijk geweld) Discriminatoire aspecten (dagvaarden + 100%) Evenement (+75%) of voetbal gerelateerd (+50%) Alcohol/drugs en (uitgaans)geweld (+75%) *let op eventueel taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader ** Ook toepasbaar op zwembadverbod e.d. Omdat deze verboden worden opgelegd na herhaald plegen van strafbare feiten wordt ingeval van recidive bij dit delict gevangenisstraf geëist. |  |  |  |  |
 
 ### Legenda
 
@@ -56,4 +45,4 @@ ov = onvoorwaardelijk
 
 2j = recidive binnen 2 jaar
 
-Voor een toelichting op de onderstreepte begrippen zie de [Aanwijzing kader voor strafvordering en OM-afdoeningen](onbekend).
+Voor een toelichting op de onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.

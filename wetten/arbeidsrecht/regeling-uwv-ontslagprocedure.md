@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 april 2015, 2015-0000102296, tot vaststelling van regels met betrekking tot toestemming van het Uitvoeringsinstituut werknemersverzekeringen tot opzegging van de arbeidsovereenkomst (Regeling UWV ontslagprocedure)"
+citeertitel: "Regeling UWV ontslagprocedure"
 identifier: "BWBR0036593"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036593"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "13151153"
-version_id: "22416612"
-internal_id: "C32166161"
-label_id: "13119834"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036593/2020-01-01/0"
-intitule_bron: "Stcrt.2015-12688"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-23"
-intitule_published: "2015-05-11"
-intitule_in_force: "2015-05-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-12688"
-original_signed_date: "2015-04-23"
-original_published_date: "2015-05-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-12688"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036593&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0036593&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling UWV ontslagprocedure"
-signed_date: "2015-04-23"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0036593"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 april 2015, 2015-0000102296, tot vaststelling van regels met betrekking tot toestemming van het Uitvoeringsinstituut werknemersverzekeringen tot opzegging van de arbeidsovereenkomst (Regeling UWV ontslagprocedure)
-
-Gelet op [artikel 671a, achtste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- a. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- b. **werkgever, werknemer en arbeidsovereenkomst:** hetgeen daaronder wordt verstaan in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+- b. *werkgever, werknemer en arbeidsovereenkomst:* hetgeen daaronder wordt verstaan in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- c. **toestemming:** toestemming om de arbeidsovereenkomst op te zeggen op grond van [artikel 669, derde lid, onderdeel a of b, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669);
+- c. *toestemming:* toestemming om de arbeidsovereenkomst op te zeggen op grond van [artikel 669, derde lid, onderdeel a of b, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669);
 
-- d. **verzoek:** verzoek als bedoeld in [artikel 671a, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a);
+- d. *verzoek:* verzoek als bedoeld in [artikel 671a, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a);
 
-- e. **ontslagadviescommissie:** vertegenwoordigers van organisaties van werkgevers en werknemers, die de Stichting van de Arbeid als representatieve organisaties heeft aangewezen.
+- e. *ontslagadviescommissie:* vertegenwoordigers van organisaties van werkgevers en werknemers, die de Stichting van de Arbeid als representatieve organisaties heeft aangewezen.
 
 #### § 2. De procedure
 
@@ -96,11 +70,11 @@ Na ontvangst van het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 7. Geen toestemming bij opzegverbod
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8. Beoordeling financiële omstandigheden
 
-Vervallen
+*Vervallen*
 
 #### § 3. Slotbepalingen
 
@@ -110,6 +84,4 @@ Deze regeling wordt aangehaald als: Regeling UWV ontslagprocedure.
 
 ##### Artikel 10. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 juli 2015.

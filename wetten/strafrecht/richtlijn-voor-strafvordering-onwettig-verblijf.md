@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering onwettig verblijf"
 identifier: "BWBR0036289"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036289"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "12988673"
-version_id: "22162102"
-internal_id: "C31776411"
-label_id: "12957524"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036289/2015-03-01/0"
-intitule_bron: "Stcrt.2015-4407"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-18"
-intitule_in_force: "2015-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-4407"
-original_published_date: "2015-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-4407"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBR0036289&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBR0036289&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBR0036289"
+opgehaald: 2026-08-22
 ---
+
 # Richtlijn voor strafvordering onwettig verblijf
 
 ### Beschrijving
@@ -41,5 +22,14 @@ Consequente strafrechtelijke handhaving moet leiden tot een grotere kans dat de 
 ### Basiscasus/delict
 
 Ongewenst verklaarde vreemdeling of vreemdeling met (zwaar) reisverbod
+
+|  | Uitgangspunt* |
+| --- | --- |
+| First offender | Eis 2 maanden onvoorwaardelijke gevangenisstraf |
+| 1 x recidive | Eis 3 maanden onvoorwaardelijke gevangenisstraf |
+| 2 x recidive | Eis 4 maanden onvoorwaardelijke gevangenisstraf |
+| 3 x recidive | Eis 5 maanden onvoorwaardelijke gevangenisstraf |
+| 4 x recidive of meer | Eis 6 maanden onvoorwaardelijke gevangenisstraf (wettelijk maximum) |
+| Bijzonderheden – Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. – In beginsel dient de verdachte -indien mogelijk- te worden voorgeleid. – De status van vreemdeling is een contra-indicatie voor het opleggen van een taakstraf. |  |
 
 * De onvoorwaardelijke gevangenisstraf wordt telkens met een maand verhoogd voor elke keer dat de verdachte in een periode van vijf jaar voorafgaande aan de terechtzitting eerder veroordeeld is geweest wegens [artikel 197 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197). Hierbij dient in aanmerking te worden genomen dat de verhoging slechts zal worden toegepast indien er na de eerdere veroordeling(en) een redelijke periode is verstreken die de verdachte in staat heeft gesteld actie te ondernemen teneinde zijn/haar verblijf in Nederland te beëindigen. Als redelijke periode kan worden aangenomen een periode van 10 dagen.

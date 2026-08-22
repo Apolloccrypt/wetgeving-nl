@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 20 juli 2015, nr. 657965, houdende de vaststelling van de rechtspositie van de voorzitter, de andere leden en de buitengewone leden van het College bescherming persoonsgegevens (Regeling rechtspositie leden College bescherming persoonsgegevens)"
+citeertitel: "Regeling rechtspositie leden College bescherming persoonsgegevens"
 identifier: "BWBR0036895"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-07-29"
-last_updated: "2015-07-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036895"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "13233873"
-version_id: "22619402"
-internal_id: "C32431061"
-label_id: "13202104"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036895/2015-07-29/0"
-intitule_bron: "Stcrt.2015-21917"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-20"
-intitule_published: "2015-07-28"
-intitule_in_force: "2015-07-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-21917"
-original_signed_date: "2015-07-20"
-original_published_date: "2015-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-21917"
-entry_into_force_date: "2015-07-29"
-jci_1_3: "jci1.3:c:BWBR0036895&z=2015-07-29&g=2015-07-29"
-jci_1_0: "1.0:c:BWBR0036895&g=2015-07-29"
-citeertitel_status: "officieel"
-short_title: "Regeling rechtspositie leden College bescherming persoonsgegevens"
-signed_date: "2015-07-20"
-entry_into_force: "2015-07-29"
+publicatiedatum: 2015-07-29
+laatste_update: 2015-07-29
+status: geldig
+toestand: 2015-07-29
+bron: "https://wetten.overheid.nl/BWBR0036895"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 20 juli 2015, nr. 657965, houdende de vaststelling van de rechtspositie van de voorzitter, de andere leden en de buitengewone leden van het College bescherming persoonsgegevens (Regeling rechtspositie leden College bescherming persoonsgegevens)
-
-Gelet op [artikel 55 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=55),
-
-BESLUIT:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **andere leden:** de andere leden, bedoeld in [artikel 53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=53);
+- a. *andere leden:* de andere leden, bedoeld in [artikel 53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=53);
 
-- b. **wet:** de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
+- b. *wet:* de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
 
-- c. **Onze Minister:** de Minister van Veiligheid en Justitie;
+- c. *Onze Minister:* de Minister van Veiligheid en Justitie;
 
-- d. **College:** het College bescherming persoonsgegevens.
+- d. *College:* het College bescherming persoonsgegevens.
 
 ##### Artikel 2
 

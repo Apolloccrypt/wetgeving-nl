@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2015"
 identifier: "BWBR0036586"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-05-06"
-last_updated: "2015-05-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036586"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "13149613"
-version_id: "22413552"
-internal_id: "C32161281"
-label_id: "13118724"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036586/2015-05-06/0"
-intitule_bron: "Stcrt.2015-12203"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-05-04"
-intitule_in_force: "2015-05-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-12203"
-original_published_date: "2015-05-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-12203"
-entry_into_force_date: "2015-05-06"
-jci_1_3: "jci1.3:c:BWBR0036586&z=2015-05-06&g=2015-05-06"
-jci_1_0: "1.0:c:BWBR0036586&g=2015-05-06"
-citeertitel_status: "officieel"
-entry_into_force: "2015-05-06"
+publicatiedatum: 2015-05-06
+laatste_update: 2015-05-06
+status: geldig
+toestand: 2015-05-06
+bron: "https://wetten.overheid.nl/BWBR0036586"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregels vereveningsbijdrage zorgverzekering 2015
-
-Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [artikel 90 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036251) en de brief van de minister van VWS van 7 oktober 2014, kenmerk 671602-126798-Z,
-
-Heeft in zijn vergadering van 16 maart 2015 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -42,29 +19,30 @@ Heeft in zijn vergadering van 16 maart 2015 besloten:
 
 Deze beleidsregels verstaan onder:
 
-- a. **het Zorginstituut:** Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- a. *het Zorginstituut:* Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- b. **zwaarte:** het deel waarvoor de verzekerde meetelt in een betreffende klasse;
+- b. *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;
 
-- c. **macroverzekerdenraming:** de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;
+- c. *macroverzekerdenraming:* de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;
 
-- d. **MHK:** meerjarige hoge kosten als bedoeld in [artikel 1, onderdeel z, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- d. *MHK:* meerjarige hoge kosten als bedoeld in [artikel 1, onderdeel z, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- e. **FKG GGZ:** FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- e. *FKG GGZ:* FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- f. **DKG GGZ:** diagnose kostengroepen psychische aandoeningen als bedoeld in [artikel 1, onderdeel ff, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1)
+- f. *DKG GGZ:* diagnose kostengroepen psychische aandoeningen als bedoeld in [artikel 1, onderdeel ff, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1)
 
-- g. **PKB:** persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;
+- g. *PKB:* persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;
 
-- h. **VPPKB:** verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat;
+- h. *VPPKB:* verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat;
 
-- i. **verzekerde woonachtig in het buitenland:** een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
+- i. *verzekerde woonachtig in het buitenland:* een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
 
-- j. **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
+- j. *vereveningsbijdrage:* de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
 
-- k. **wet:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+- k. *wet:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-- l. **Regeling:** [Regeling risicoverevening 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036251)
+- l. *Regeling:*
+ [Regeling risicoverevening 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036251)
 
 ##### Artikel 2. Algemene bepaling
 
@@ -1222,9 +1200,9 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 5. Het Zorginstituut betaalt de netto te betalen bedragen, bedoeld in het vierde lid, onder a tot en met e, verminderd met de aftrekpost voor de normatieve eigen risico opbrengst 2015, bedoeld in [artikel 40, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=VII&artikel=40&z=2015-05-06&g=2015-05-06), in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
 
-|   | Bestanddelen betalingen | Bestanddelen betalingen | Bestanddelen betalingen | Bestanddelen betalingen | Bestanddelen betalingen | Bestanddelen betalingen |
+|  | Bestanddelen betalingen |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Betaalmoment | [Artikel 41 vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=VII&artikel=41&z=2015-05-06&g=2015-05-06) | Artikel 41 vierde lid, onder b | Artikel 41 vierde lid, onder c | Artikel 41 vierde lid, onder d | Artikel 41, vierde lid, onder e | [Artikel 40, eerste lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=VII&artikel=40&z=2015-05-06&g=2015-05-06) |
+| Betaalmoment | Artikel 41 vierde lid, onder a | Artikel 41 vierde lid, onder b | Artikel 41 vierde lid, onder c | Artikel 41 vierde lid, onder d | Artikel 41, vierde lid, onder e | Artikel 40, eerste lid onder e |
 | januari 2015 | 0,69% | 0,28% | 1,10% | 0,00% | 8,33% | 3,47% |
 | februari 2015 | 2,51% | 1,33% | 4,05% | 0,00% | 8,33% | 8,29% |
 | maart 2015 | 5,36% | 3,77% | 7,01% | 0,81% | 8,34% | 8,29% |
@@ -1307,24 +1285,3 @@ Deze beleidregels treden in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 46
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2015.
-
-## Bijlage 1. Toewijzing FKG’s diabetes 2015 op basis van farmaciegebruik voor diabetes en hypertensie
-
-| Diabetes type I | Diabetes type II | Hypertensie | Toewijzing FKG |
-| --- | --- | --- | --- |
-| >180 | >180 | >180 | Diabetes type I |
-| >180 | >180 | ≤180 | Diabetes type I |
-| >180 | ≤180 | >180 | Diabetes type I |
-| >180 | ≤180 | ≤180 | Diabetes type I |
-| ≤180 | >180 | >180 | Diabetes type II met hypertensie |
-| ≤180 | >180 | ≤180 | Diabetes type II zonder hypertensie |
-| ≤180 | ≤180 | >180 | Geen |
-| ≤180 | ≤180 | ≤180 | Geen |
-
-Bron: Zorginstituut
-
-Toelichting:
-
-Groter of kleiner dan 180 verwijst naar de dagdosering voor de betreffende FKG. De tabel beschrijft de verschillende situaties die mogelijk zijn bij een samenloop van farmaciegebruik voor diabetes en hypertensie. In de laatste kolom staat aangegeven welke FKG’s toegewezen worden in de betreffende situatie.
-
-Deze beleidsregels worden in de Staatscourant geplaatst.

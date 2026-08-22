@@ -1,35 +1,16 @@
 ---
 title: "Beleidsregel Informatieverstrekking via vergelijkingssites"
 identifier: "BWBR0036879"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-11-01"
-last_updated: "2015-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036879"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13229033"
-version_id: "22609522"
-internal_id: "C32414801"
-label_id: "13197314"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036879/2015-11-01/0"
-intitule_bron: "Stcrt.2015-21587"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-07-24"
-intitule_in_force: "2015-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-21587"
-original_published_date: "2015-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-21587"
-entry_into_force_date: "2015-11-01"
-jci_1_3: "jci1.3:c:BWBR0036879&z=2015-11-01&g=2015-11-01"
-jci_1_0: "1.0:c:BWBR0036879&g=2015-11-01"
-citeertitel_status: "officieel"
-entry_into_force: "2015-11-01"
+publicatiedatum: 2015-11-01
+laatste_update: 2015-11-01
+status: geldig
+toestand: 2015-11-01
+bron: "https://wetten.overheid.nl/BWBR0036879"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregel Informatieverstrekking via vergelijkingssites
 
 Ingevolge [artikel 40, derde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot de informatieverstrekking namens ziektekostenverzekeraars.
@@ -56,4 +37,4 @@ Informatie als bedoeld in artikel 4 omvat alle informatie over het polisaanbod v
 
 Deze beleidsregel wordt geplaatst in de Staatscourant en treedt in werking met ingang van 1 november 2015.
 
-Deze beleidsregel wordt aangehaald als: ‘Beleidsregel **Informatieverstrekking via vergelijkingssites’**
+Deze beleidsregel wordt aangehaald als: ‘Beleidsregel *Informatieverstrekking via vergelijkingssites’*

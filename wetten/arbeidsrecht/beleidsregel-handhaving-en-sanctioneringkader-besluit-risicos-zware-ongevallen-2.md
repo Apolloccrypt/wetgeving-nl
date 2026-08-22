@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid, nr. 2015-0000174557, van 22 juli 2015, houdende vaststelling van een Beleidsregel inzake het handhaving- en sanctioneringskader van het Besluit risico’s zware ongevallen 2015 onderdeel arbeidsomstandighedenwetgeving (Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 arbeidsomstandighedenwetgeving)"
+citeertitel: "Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 arbeidsomstandighedenwetgeving"
 identifier: "BWBR0036900"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-07-31"
-last_updated: "2015-07-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036900"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "13235343"
-version_id: "22622772"
-internal_id: "C32434751"
-label_id: "13203504"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036900/2015-07-31/0"
-intitule_bron: "Stcrt.2015-22450"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-22"
-intitule_published: "2015-07-30"
-intitule_in_force: "2015-07-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-22450"
-original_signed_date: "2015-07-22"
-original_published_date: "2015-07-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-22450"
-entry_into_force_date: "2015-07-31"
-jci_1_3: "jci1.3:c:BWBR0036900&z=2015-07-31&g=2015-07-31"
-jci_1_0: "1.0:c:BWBR0036900&g=2015-07-31"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 arbeidsomstandighedenwetgeving"
-signed_date: "2015-07-22"
-entry_into_force: "2015-07-31"
+publicatiedatum: 2015-07-31
+laatste_update: 2015-07-31
+status: geldig
+toestand: 2015-07-31
+bron: "https://wetten.overheid.nl/BWBR0036900"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid, nr. 2015-0000174557, van 22 juli 2015, houdende vaststelling van een Beleidsregel inzake het handhaving- en sanctioneringskader van het Besluit risico’s zware ongevallen 2015 onderdeel arbeidsomstandighedenwetgeving (Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 arbeidsomstandighedenwetgeving)
-
-Gelet op [artikel 34, tiende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34), en de [artikelen 17, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=17), en [18, derde en vierde lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=18),
-
-Besluit:
 
 ##### Artikel 1. Handhavingsbeleid
 
@@ -52,9 +26,9 @@ In deze beleidsregel wordt onderscheid gemaakt tussen twee typen overtredingen:
 
 - b. een overige overtreding, oftewel een overtreding die in tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036900&bijlage=1&z=2015-07-31&g=2015-07-31) als OO is aangemerkt en waarop tot boeteoplegging wordt overgegaan indien:
 
-- 1°. een hersteltermijn is gegeven en na ommekomst daarvan de overtreding niet ongedaan is gemaakt; of
+   - 1°. een hersteltermijn is gegeven en na ommekomst daarvan de overtreding niet ongedaan is gemaakt; of
 
-- 2°. nadat dezelfde of soortgelijke overtreding opnieuw wordt geconstateerd.
+   - 2°. nadat dezelfde of soortgelijke overtreding opnieuw wordt geconstateerd.
 
 ##### Artikel 3. Boete- en tarieflijst
 
@@ -105,166 +79,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 arbeidsomstandighedenwetgeving.
-
-## Bijlage 1. Boete- en tarieflijst, behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036900&artikel=3&z=2015-07-31&g=2015-07-31) van de Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 arbeidsomstandighdenwetgeving
-
-In tabel 1 staan bij de artikelen die volgens [artikel 17, tweede lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=17) bestuurlijk beboetbaar zijn, vermeld welk type overtreding het betreft en het boetenormbedrag van elk artikel, lid of onderdeel daarvan.
-
-ODB staat voor een overtreding waarvoor direct een boete volgt en OO voor een overige overtreding.
-
-De in tabel 1 gegeven boetenormbedragen voor de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=5), [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=7)en [11, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=11) worden aangepast op basis van de beoordelingssystematiek, vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036900&bijlage=2&z=2015-07-31&g=2015-07-31). Deze in bijlage 2 tabel 2 opgenomen boetenormbedragen worden gebruikt voor de verdere boeteberekening voor deze artikelen.
-
-| Artikel | Lid | Onderdeel | Boetenormbedrag | Type overtreding |
-| --- | --- | --- | --- | --- |
-| **3** | 1 |   | € 200.000,– | OO |
-|   | 3 |   | € 200.000,– | OO |
-| **5** | 1 |   | € 200.000,– | OO1 |
-|   | 2 |   | € 200.000,– | ODB |
-| **6** | 1 | Volledig ontbrekend | € 50.000,– | ODB |
-|   |   | a | € 5000,– | OO |
-|   |   | b | € 5000,– | OO |
-|   |   | c | € 5000,– | OO |
-|   |   | d | € 5000,– | OO |
-|   |   | e | € 5000,– | OO |
-|   |   | f | € 5000,– | OO |
-|   |   | g | € 5000,– | OO |
-|   |   | h | € 5000,– | OO |
-|   | 3 |   | € 25.000,– | ODB |
-|   | 5 | a | € 25.000,– | ODB |
-|   |   | b | € 25.000,– | ODB |
-|   |   | c | € 25.000,– | ODB |
-|   |   | d | € 25.000,– | ODB |
-|   |   | e | € 25.000,– | OO |
-|   | 6 |   | € 25.000,– | ODB |
-|   | 7 |   | € 6250,– | ODB |
-| **7** | 1 |   | € 50.000,– | OO |
-|   | 2 |   | € 200.000,– | OO |
-|   | 3 |   | € 25.000,– | ODB |
-|   | 5 |   | € 50.000,– | ODB |
-|   | 6 | Volledig ontbrekend | € 800.000,– | ODB |
-|   |   | Bijlage III van de richtlijn2 |   |   |
-|   |   | a | € 100.000,– | OO |
-|   |   | b |   |   |
-|   |   | i | € 100.000,– | OO |
-|   |   | ii | € 200.000,– | OO |
-|   |   | iii | € 200.000,– | OO |
-|   |   | iv | € 100.000,– | OO |
-|   |   | v | € 100.000,– | OO |
-|   |   | vi3 | € 50.000,– | OO |
-|   |   | vii | € 50.000,– | OO |
-| **8** | 3 |   | € 200.000,– | ODB |
-|   | 4 |   | € 25.000,– | ODB |
-| **9** |   |   | € 200.000,– | OO |
-| **10** | 1 |   | € 100.000,– | ODB |
-|   | 2 | Volledig ontbrekend | € 400.000,– | ODB |
-|   |   | Bijlage II van de richtlijn4 |   | OO |
-|   |   | 1 | € 10.000,– | OO |
-|   |   | 2 | € 50.000,– | OO |
-|   |   | 3 | € 100.000,– | OO |
-|   |   | 4 | € 100.000,– | OO |
-|   |   | 5 | € 100.000,– | OO |
-|   | 3 |   | € 50.000,– | OO |
-|   | 4 |   | € 25.000,– | ODB |
-|   | 6 |   | € 25.000,– | OO |
-|   | 7 |   | € 100.000,– | OO |
-|   | 8 |   | € 100.000,– | OO |
-|   | 9 |   | € 25.000,– | ODB |
-|   | 11 |   | € 100.000,– | ODB |
-|   | 12 |   | € 100.000,– | OO |
-| **11** | 1 |   | € 200.000,– | OO5 |
-|   | 2 |   | € 200.000,– | OO |
-|   | 3 |   | € 200.000,– | OO |
-|   | 4 |   | € 200.000,– | OO |
-|   | 5 |   | € 25.000,– | ODB |
-| **12** | 1 |   | € 50.000,– | OO6 |
-|   | 2 |   | € 50.000,– | ODB |
-|   | 3 |   | € 100.000,– | OO |
-|   | 4 |   | € 100.000,– | OO |
-|   | 5 |   | € 100.000,– | ODB |
-|   |   |   |   |   |
-| **13** | 3 | a en b | € 50.000,– | OO |
-| **15** | 2 |   | € 50.000,– | OO |
-
-1 Het niet treffen van maatregelen zoals bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036900&artikel=5&z=2015-07-31&g=2015-07-31), kan resulteren in ernstig gevaar voor personen. In dat geval is sprake van een categorie 1 overtreding in de zin van de landelijke handhavingstrategie [Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791) en volgt een stillegging als bedoeld in [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). In overleg met het Openbaar Ministerie wordt bepaald of daarnaast een proces-verbaal wordt opgemaakt, of dat direct een bestuurlijke boete volgt.
-
-2 Richtlijn als bedoeld in [artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=1).
-
-3 In onderdeel vi van bijlage III van de richtlijn (zie noot 2) zijn veiligheidprestatieindicatoren (safety performance indicators – SPI) opgenomen. In het [Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791) is het verplicht gesteld om te hebben aangezien alle elementen, die in de genoemde richtlijn staan opgenomen, verplicht zijn om te hebben. Het niet hebben van SPI’s is een overtreding en er geldt bovenstaand boetenormbedrag voor. Indien het bedrijf wel SPI’s heeft, maar de toezichthouders de SPI’s van een bedrijf niet onderschijven, dan is dat geen overtreding waar een bestuurlijke boete op staat.
-
-4 Richtlijn als bedoeld in [artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=1).
-
-5 Indien in zijn geheel geen noodplan aanwezig is, is sprake van een overtreding met directe boete.
-
-6 Indien in zijn geheel geen gevaarlijke stoffenlijst aanwezig is, is sprake van overtreding met directe boete.
-
-## Bijlage 2. Boete- en tarieflijst, behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036900&artikel=3&z=2015-07-31&g=2015-07-31) van de Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 voor overtreding van de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=5), [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=7) en [11, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=11)
-
-Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 17, tweede lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=17), wordt voor overtreding van de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=5), [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=7) en [11, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=11) eerst onderstaande beoordelingssystematiek toegepast op het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036900&bijlage=1&z=2015-07-31&g=2015-07-31) gegeven boetenormbedrag.
-
-De in tabel 2 van deze bijlage opgenomen bedragen zijn de boetenormbedragen die voor de verdere berekening van de bestuurlijke boete worden gebruikt.
-
-De beoordelingssystematiek is van toepassing op zowel het beoordelen van technische als organisatorische maatregelen die de kans op een zwaar ongeval en de mogelijke gevolgen beperken of wegnemen.
-
-Ook worden het veiligheidsbeheersysteem, bedoeld in [artikel 7, zesde lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=7) en het interne noodplan, bedoeld in [artikel 11, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=11) op deze manier beoordeeld.
-
-De beoordelingsystematiek is op de volgende drie aspecten gestoeld:
-
-- 1. **Gedocumenteerd** Er is sprake van een deugdelijke en volledige beschrijving:
-
-- –. Deugdelijk betekent helder, inzichtelijk, goed leesbaar en actueel;
-
-- –. Volledig betekent dat alle relevante aspecten zijn benoemd.
-
-- 2. **Geschikt** Technische onderdelen voldoen aan de stand van de techniek, voor zover die redelijkerwijze te verlangen is, en zijn passend voor de aangetroffen situatie. Organisatorische en procedurele onderdelen voldoen aan de stand van de wetenschap en zijn eveneens passend.
-
-- 3. **Geïmplementeerd** Er wordt gewerkt zoals beschreven is. Er is sprake van een goed functionerende managementloop en verbeteractiviteiten op alle onderdelen zijn structureel en onlosmakelijk aan de bedrijfsvoering verbonden.
-
-Tijdens een inspectie of bezoek van de toezichthouder wordt voor elke, volgens de toezichthouder, verkeerde, ontbrekende of onvolledige maatregel en voor elk element van het veiligheidsbeheersysteem of intern noodplan een beoordeling opgesteld.
-
-Er wordt beoordeeld op de 3 bovenstaande aspecten (geïmplementeerd, geschikt en gedocumenteerd) en de toezichthouder geeft een oordeel (goed, redelijk, matig of slecht).
-
-Bij het oordeel slecht of matig wordt aan de beoordeling een waarde gekoppeld.
-
-In tabel 1 van deze bijlage is per aspect met bijbehorend oordeel (matig of slecht) een waarde gekoppeld.
-
-De waarde van alle drie de aspecten wordt bij elkaar opgeteld en door 16 gedeeld.
-
-16 is de maximale uitkomst namelijk 3x slecht (2 + 6 + 8). De uitkomst van deze optelling is de correctiefactor waarmee de boetenormbedragen voor de overtreding van de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=5), [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=7), en [11, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=11) worden gecorrigeerd.
-
-Wat betreft het [eerste lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=5) en het [eerste lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=11) kan er meer dan één maatregel volgens deze systematiek beoordeeld worden die samen dé overtreding van het betreffende artikellid vormen. In dat geval worden de volgens deze systematiek gecorrigeerde boetenormbedragen bij elkaar opgeteld.
-
-[Artikel 7, zesde lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=7) verplicht de exploitant tot het uitvoeren van een veiligheidsbeheerssysteem dat voldoet aan elementen genoemd in bijlage III van de richtlijn1Richtlijn als bedoeld in artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015..
-
-Omdat deze elementen apart – maar per element wel alleen in samenhang – kunnen worden overtreden, is voor elk element een boetenormbedrag opgenomen in de tabel van bijlage 2. Deze boetenormbedragen worden in geval van overtreding gecorrigeerd met de vastgestelde correctiefactor als hiervoor beschreven.
-
-| Aspect | Beoordeling | Waarde |
-| --- | --- | --- |
-| **Gedocumenteerd** | Matig | 1 |
-|   | Slecht | 2 |
-| **Geschikt** | Matig | 3 |
-|   | Slecht | 6 |
-| **Geïmplementeerd** | Matig | 4 |
-|   | Slecht | 8 |
-
-In tabel 2 zijn voor elke mogelijke uitkomst de te hanteren boetenormbedragen voor deze artikelen vermeld.
-
-| Uitkomst | Boetenormbedrag € 50.000 | Boetenormbedrag € 100.000 | Boetenormbedrag € 200.000 |
-| --- | --- | --- | --- |
-| 1 | € 3.125,– | € 6.250,– | € 12.500,– |
-| 2 | € 6.250,– | € 12.500,– | € 25.000,– |
-| 3 | € 9.375,– | € 18.750,– | € 37.500,– |
-| 4 | € 12.500,– | € 25.000,– | € 50.000,– |
-| 5 | € 15.625,– | € 31.250,– | € 62.500,– |
-| 6 | € 18.750,– | € 37.500,– | € 75.000,– |
-| 7 | € 21.875,– | € 43.750,– | € 87.500,– |
-| 8 | € 25.000,– | € 50.000,– | € 100.000,– |
-| 9 | € 28.125,– | € 56.250,– | € 112.500,– |
-| 10 | € 31.250,– | € 62.500,– | € 125.000,– |
-| 11 | € 34.375,– | € 68.750,– | € 137.500,– |
-| 12 | € 37.500,– | € 75.000,– | € 150.000,– |
-| 13 | € 40.625,– | € 81.250,– | € 162.500,– |
-| 14 | € 43.750,– | € 87.500,– | € 175.000,– |
-| 15 | € 46.875,– | € 93.750,– | € 187.500,– |
-| 16 | € 50.000,– | € 100.000,– | € 200.000,– |
-
-Deze beleidsregel zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.

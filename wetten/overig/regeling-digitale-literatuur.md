@@ -1,68 +1,41 @@
 ---
 title: "Regeling Digitale literatuur"
 identifier: "BWBR0036890"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036890"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "13232103"
-version_id: "22615492"
-internal_id: "C32423071"
-label_id: "13200654"
-dtd_version: "2.0"
-original_entry_into_force: "2015-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036890/2017-01-01/0"
-intitule_bron: "Stcrt.2015-21855"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-07-27"
-intitule_in_force: "2015-07-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-21855"
-original_published_date: "2015-07-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-21855"
-entry_into_force_date: "2015-08-01"
-jci_1_3: "jci1.3:c:BWBR0036890&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0036890&g=2017-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2015-08-01"
+publicatiedatum: 2015-08-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0036890"
+opgehaald: 2026-08-22
 ---
+
 # Regeling Digitale literatuur
-
-gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen Reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735),
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **Letterenfonds:** Stichting Nederlands Letterenfonds;
+- a. *Letterenfonds:* Stichting Nederlands Letterenfonds;
 
-- b. **bestuur:** de directeur-bestuurder van het Letterenfonds;
+- b. *bestuur:* de directeur-bestuurder van het Letterenfonds;
 
-- c. **talentontwikkeling interdisciplinair:** alle werkzaamheden waarbij meer dan één discipline betrokken is en die onder begeleiding verbonden zijn aan:
+- c. *talentontwikkeling interdisciplinair:* alle werkzaamheden waarbij meer dan één discipline betrokken is en die onder begeleiding verbonden zijn aan:
 
-- i. onderzoek naar artistieke verdieping op multimediaal vlak of de ontwikkeling van multimediale vaardigheden voor de eigen professionele beroepspraktijk van schrijven en vertalen in het kader van een persoonlijk ontwikkelingsplan, of,
+   - i. onderzoek naar artistieke verdieping op multimediaal vlak of de ontwikkeling van multimediale vaardigheden voor de eigen professionele beroepspraktijk van schrijven en vertalen in het kader van een persoonlijk ontwikkelingsplan, of,
 
-- ii. een voorstudie voor een uit te voeren Nederlands- of Friestalig project, die resulteert in een reëel projectplan;
+   - ii. een voorstudie voor een uit te voeren Nederlands- of Friestalig project, die resulteert in een reëel projectplan;
 
-- d. **project:** een multimediale literaire productie met ten minste een in het Nederlands of Fries gestelde literaire inhoud, waarbij de digitale omgeving van wezenlijke invloed is op de inhoud;
+- d. *project:* een multimediale literaire productie met ten minste een in het Nederlands of Fries gestelde literaire inhoud, waarbij de digitale omgeving van wezenlijke invloed is op de inhoud;
 
-- e. vervallen;
+- e. *vervallen;*
 
-- f. **contract:** een overeenkomst tussen auteur of vertaler en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU/VvL voor Uitgave Literair Werk, Uitgave Kinderboek, Digitale Publicaties en Literaire Vertaling;
+- f. *contract:* een overeenkomst tussen auteur of vertaler en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU/VvL voor Uitgave Literair Werk, Uitgave Kinderboek, Digitale Publicaties en Literaire Vertaling;
 
-- g. **uitgeverij:** een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literaire werken;
+- g. *uitgeverij:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literaire werken;
 
-- h. **Nederland:** het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba.
+- h. *Nederland:* het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba.
 
 ##### Artikel 2. Toepasselijkheid
 
@@ -72,7 +45,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in
 
 - b. projecten, en,
 
-- c. vervallen.
+- c. *vervallen.*
 
 ### Algemene bepalingen
 
@@ -80,7 +53,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in
 
 1. Het bestuur behandelt de aanvragen voor projectsubsidies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2017-01-01&g=2017-01-01), categorieën a en b, in minimaal één subsidieronde per jaar.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. Het bestuur kan per categorie en per subsidieronde een subsidieplafond vaststellen en bepalen hoe het beschikbare bedrag wordt verdeeld. Het besluit hiertoe wordt bekendgemaakt via de website van het Letterenfonds.
 
@@ -158,7 +131,7 @@ De aanvrager verplicht zich zodra aannemelijk is dat de gesubsidieerde activitei
 
 ### Bijzondere bepalingen ten aanzien van de categorieën
 
-#### a. **Talentontwikkeling interdisciplinair**
+#### a. Talentontwikkeling interdisciplinair
 
 ##### Artikel 12. Subsidiabele activiteit
 
@@ -208,7 +181,7 @@ Een zelfevaluatie inzake de effecten van de geplande moet door de subsidieontvan
 
 De toe te kennen subsidie bedraagt per aanvraag een maximumbedrag dat wordt bekendgemaakt op de website van het Letterenfonds.
 
-#### b. **Projecten**
+#### b. Projecten
 
 ##### Artikel 18. Subsidiabele activiteit
 
@@ -230,11 +203,11 @@ De toe te kennen subsidie bedraagt maximaal 70% van de begrote, en door het Lett
 
 1. Een project wordt gehonoreerd als het wordt uitgevoerd in één van de volgende domeinen:
 
-**Creatie:** het creëren van nieuwe vormen van literatuur in een multimediale omgeving waarbij de digitale omgeving van bepalende invloed is op de creatie van deze nieuwe vormen;
+*Creatie:* het creëren van nieuwe vormen van literatuur in een multimediale omgeving waarbij de digitale omgeving van bepalende invloed is op de creatie van deze nieuwe vormen;
 
-**Curatorschap:** het in een digitale omgeving onderzoeken of maken van onderscheid in de kwaliteit van literaire teksten, en/of het organiseren van een discussie hierover;
+*Curatorschap:* het in een digitale omgeving onderzoeken of maken van onderscheid in de kwaliteit van literaire teksten, en/of het organiseren van een discussie hierover;
 
-**Verdieping:** de reflectie op de professionele beroepspraktijk van het schrijven, literair vertalen of uitgeven in een digitale omgeving.
+*Verdieping:* de reflectie op de professionele beroepspraktijk van het schrijven, literair vertalen of uitgeven in een digitale omgeving.
 
 2. Het project wordt door ten minste één andere partij dan de aanvrager ge(co)financierd.
 
@@ -302,35 +275,35 @@ De aanvraag bevat:
 
 4. De subsidieontvanger is verplicht de door het Letterenfonds desgevraagde, voor de totstandkoming van de uitvoeringsovereenkomst benodigde, stukken tijdig en volledig aan te leveren.
 
-#### c. **Online tijdschriften**
+#### c. Online tijdschriften
 
 ##### Artikel 25. Subsidiabele activiteit
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26. Vereisten aanvrager
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27. Hoogte van de subsidie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28. Aanvraag
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29. Vereisten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30. Beoordelingscriteria
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31. Verplichtingen subsidieontvanger
 
-Vervallen
+*Vervallen*
 
 ### Slotbepalingen
 

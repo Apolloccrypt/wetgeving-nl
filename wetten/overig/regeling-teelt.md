@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 10 december 2014, nr. WJZ/14148909, houdende regels inzake de teelt van gewassen (Regeling teelt)"
+citeertitel: "Regeling teelt"
 identifier: "BWBR0036074"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-11-26"
-last_updated: "2015-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036074"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12925213"
-version_id: "22006162"
-internal_id: "C31558361"
-label_id: "12894474"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036074/2015-11-26/0"
-intitule_bron: "Stcrt.2014-35163"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-10"
-intitule_published: "2014-12-29"
-intitule_in_force: "2014-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-35163"
-original_signed_date: "2014-12-10"
-original_published_date: "2014-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-35163"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0036074&z=2015-11-26&g=2015-11-26"
-jci_1_0: "1.0:c:BWBR0036074&g=2015-11-26"
-citeertitel_status: "officieel"
-short_title: "Regeling teelt"
-signed_date: "2014-12-10"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-11-26
+status: geldig
+toestand: 2015-11-26
+bron: "https://wetten.overheid.nl/BWBR0036074"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Economische Zaken van 10 december 2014, nr. WJZ/14148909, houdende regels inzake de teelt van gewassen (Regeling teelt)
-
-Gelet op de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6a), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6b) en 6c van het [Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,35 +20,35 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aardappelen:** planten van de soort **Solanum tuberosum**;
+- *aardappelen:* planten van de soort *Solanum tuberosum*;
 
-- **aardappelopslag:** aardappelplanten gegroeid uit op een perceel achtergebleven aardappelknollen of zaad;
+- *aardappelopslag:* aardappelplanten gegroeid uit op een perceel achtergebleven aardappelknollen of zaad;
 
-- **gg-gewassen:** toegelaten of vergunde genetisch gemodificeerde rassen van aardappelen, suikerbieten en maïs;
+- *gg-gewassen:* toegelaten of vergunde genetisch gemodificeerde rassen van aardappelen, suikerbieten en maïs;
 
-- **ggo:** genetisch gemodificeerd organisme;
+- *ggo:* genetisch gemodificeerd organisme;
 
-- **ggo-teler:** degene die gg-gewassen teelt of laat telen, of voornemens is dat te doen;
+- *ggo-teler:* degene die gg-gewassen teelt of laat telen, of voornemens is dat te doen;
 
-- **ggo-vrije teler:** degene die de aanwezigheid van ggo’s in zijn producten wil voorkomen en dit integraal in zijn bedrijfsvoering heeft doorgevoerd en kan aantonen dat zijn afnemers specifieke markteisen stellen met betrekking tot het voorkomen van de aanwezigheid van ggo’s in de eindproducten;
+- *ggo-vrije teler:* degene die de aanwezigheid van ggo’s in zijn producten wil voorkomen en dit integraal in zijn bedrijfsvoering heeft doorgevoerd en kan aantonen dat zijn afnemers specifieke markteisen stellen met betrekking tot het voorkomen van de aanwezigheid van ggo’s in de eindproducten;
 
-- **isolatieafstand:** horizontaal gemeten afstand tussen het hart of de eerste plant van de rij met gg-gewassen en het hart respectievelijk de eerste plant van de rij met niet-gg gewassen van dezelfde plantensoort bij verschillende telers;
+- *isolatieafstand:* horizontaal gemeten afstand tussen het hart of de eerste plant van de rij met gg-gewassen en het hart respectievelijk de eerste plant van de rij met niet-gg gewassen van dezelfde plantensoort bij verschillende telers;
 
-- **maïs:** planten van de soort **Zea mays**;
+- *maïs:* planten van de soort *Zea mays*;
 
-- **niet-ggo teler:** degene die geen gg-gewassen teelt en geen ggo-vrije teler is;
+- *niet-ggo teler:* degene die geen gg-gewassen teelt en geen ggo-vrije teler is;
 
-- **suikerbieten:** planten van de soort **Beta vulgaris**;
+- *suikerbieten:* planten van de soort *Beta vulgaris*;
 
-- **suikerbietenopslag:** suikerbieten gegroeid uit zaad gevallen op een perceel waarop in een voorafgaand teeltseizoen suikerbieten zijn geteeld;
+- *suikerbietenopslag:* suikerbieten gegroeid uit zaad gevallen op een perceel waarop in een voorafgaand teeltseizoen suikerbieten zijn geteeld;
 
-- **suikerbietenschieter:** suikerbieten die al in het eerste jaar tot de vorming van zaad zijn overgegaan;
+- *suikerbietenschieter:* suikerbieten die al in het eerste jaar tot de vorming van zaad zijn overgegaan;
 
-- **toegelaten:** overeenkomstig hoofdstuk 4 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 of Verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (Pb EU 2003, L268) toegelaten voor de handel;
+- *toegelaten:* overeenkomstig hoofdstuk 4 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 of Verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (Pb EU 2003, L268) toegelaten voor de handel;
 
-- **vergund:** overeenkomstig [hoofdstuk 3 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3) vergund;
+- *vergund:* overeenkomstig [hoofdstuk 3 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3) vergund;
 
-- **wilde haver:** plant van de soort **Avena fatua**.
+- *wilde haver:* plant van de soort *Avena fatua*.
 
 ### Hoofdstuk 2. Gebruik van teeltmateriaal
 
@@ -161,5 +135,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling teelt.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

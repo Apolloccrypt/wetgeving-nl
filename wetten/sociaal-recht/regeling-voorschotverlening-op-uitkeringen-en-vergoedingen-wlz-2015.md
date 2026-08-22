@@ -1,65 +1,43 @@
 ---
 title: "Regeling voorschotverlening op uitkeringen Wlz en vaststelling kosten van verstrekkingen en vergoedingen 2015"
+citeertitel: "Regeling voorschotverlening op uitkeringen en vergoedingen Wlz 2015"
 identifier: "BWBR0036387"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-03-29"
-last_updated: "2018-03-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036387"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "13005513"
-version_id: "23005072"
-internal_id: "C33256661"
-label_id: "12974354"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036387/2018-03-29/0"
-intitule_bron: "Stcrt.2015-6000"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-03-05"
-intitule_in_force: "2015-03-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-4472"
-original_published_date: "2016-02-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2016-4472"
-entry_into_force_date: "2016-02-05"
-jci_1_3: "jci1.3:c:BWBR0036387&z=2018-03-29&g=2018-03-29"
-jci_1_0: "1.0:c:BWBR0036387&g=2018-03-29"
-citeertitel_status: "officieel"
-short_title: "Regeling voorschotverlening op uitkeringen en vergoedingen Wlz 2015"
-entry_into_force: "2016-02-05"
+publicatiedatum: 2016-02-05
+laatste_update: 2018-03-29
+status: geldig
+toestand: 2018-03-29
+bron: "https://wetten.overheid.nl/BWBR0036387"
+opgehaald: 2026-08-22
 ---
+
 # Regeling voorschotverlening op uitkeringen Wlz en vaststelling kosten van verstrekkingen en vergoedingen 2015
-
-Gelet op [artikel 91, derde lid van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), alsmede [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en [artikel 4.8 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.8), alsmede [artikel 4:81, eerste lid Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Heeft in zijn vergadering van 2 februari 2015 besloten:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **het jaar t:** het kalenderjaar waarop de uitkering betrekking heeft;
+- a. *het jaar t:* het kalenderjaar waarop de uitkering betrekking heeft;
 
-- b. **het jaar t + 1:** het op het jaar t volgende kalenderjaar;
+- b. *het jaar t + 1:* het op het jaar t volgende kalenderjaar;
 
-- c. **het jaar t + 3:** het jaar dat ligt 3 jaar na het jaar t;
+- c. *het jaar t + 3:* het jaar dat ligt 3 jaar na het jaar t;
 
-- d. **Wlz:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- d. *Wlz:*
+ [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- e. **Flz:** Fonds langdurige zorg;
+- e. *Flz:* Fonds langdurige zorg;
 
-- f. **het Zorginstituut:** Zorginstituut Nederland;
+- f. *het Zorginstituut:* Zorginstituut Nederland;
 
-- g. **Wlz-uitvoerder:** een rechtspersoon als bedoeld in [artikel 4.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1);
+- g. *Wlz-uitvoerder:* een rechtspersoon als bedoeld in [artikel 4.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1);
 
-- h. **Zorgkantoor:** de zorgkantoren die zijn aangewezen in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van de zorgkantoren;
+- h. *Zorgkantoor:* de zorgkantoren die zijn aangewezen in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van de zorgkantoren;
 
-- i. **NZa:** Nederlandse Zorgautoriteit;
+- i. *NZa:* Nederlandse Zorgautoriteit;
 
-- j. **SVB:** Sociale Verzekeringsbank.
+- j. *SVB:* Sociale Verzekeringsbank.
 
 ##### Artikel 2
 
@@ -103,7 +81,7 @@ Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [ar
 
 ##### Artikel 7. De definitieve vaststelling en uitkering van de vergoeding van kosten van verstrekkingen en vergoedingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8. Rente
 
@@ -123,7 +101,7 @@ Vervallen
 
 3. Indien de situatie zich voordoet dat het Euro InterbankOffered Rate niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
 
-##### Artikel 10. rentepercentage wettelijke reserve [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 10. rentepercentage wettelijke reserve Wlz
 
 1. Het Zorginstituut stelt het rentepercentage, bedoeld in [artikel 4.6, derde lid van het besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6), vast op het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes.
 

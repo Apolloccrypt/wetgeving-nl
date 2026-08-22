@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 20 mei 2015, houdende vaststelling van het Besluit taaltoets Participatiewet"
+citeertitel: "Besluit taaltoets Participatiewet"
 identifier: "BWBR0036652"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-10-01"
-last_updated: "2017-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036652"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13162473"
-version_id: "22433882"
-internal_id: "C32197321"
-label_id: "13131014"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036652/2017-10-01/0"
-intitule_bron: "Stb.2015-195"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-20"
-intitule_published: "2015-06-02"
-intitule_in_force: "2015-06-02"
-intitule_status: "goed"
-original_publication: "Stb.2015-195"
-original_signed_date: "2015-05-20"
-original_published_date: "2015-06-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2015-195"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0036652&z=2017-10-01&g=2017-10-01"
-jci_1_0: "1.0:c:BWBR0036652&g=2017-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit taaltoets Participatiewet"
-signed_date: "2015-05-20"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2017-10-01
+status: geldig
+toestand: 2017-10-01
+bron: "https://wetten.overheid.nl/BWBR0036652"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 20 mei 2015, houdende vaststelling van het Besluit taaltoets Participatiewet
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 3 april 2015, nr. 2015-0000083700;
-
-Gelet op [artikel 18b, twaalfde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 29 april 2015, No.W12.15.0105/III);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 13 mei 2015, nr. 2015-0000122007;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definitie
 
@@ -83,5 +51,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2016.
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit taaltoets Participatiewet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

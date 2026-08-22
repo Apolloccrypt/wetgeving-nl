@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 april 2015, kenmerk 755292-135599-DMO, houdende instelling van de Adviescommissie participatie en emancipatie Sinti en Roma (Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma)"
+citeertitel: "Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma"
 identifier: "BWBR0036597"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-05-12"
-last_updated: "2015-05-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036597"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13151823"
-version_id: "22417552"
-internal_id: "C32167131"
-label_id: "13120524"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036597/2015-05-12/0"
-intitule_bron: "Stcrt.2015-12568"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-29"
-intitule_published: "2015-05-11"
-intitule_in_force: "2015-05-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-12568"
-original_signed_date: "2015-04-29"
-original_published_date: "2015-05-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-12568"
-entry_into_force_date: "2015-05-12"
-jci_1_3: "jci1.3:c:BWBR0036597&z=2015-05-12&g=2015-05-12"
-jci_1_0: "1.0:c:BWBR0036597&g=2015-05-12"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma"
-signed_date: "2015-04-29"
-entry_into_force: "2015-05-12"
+publicatiedatum: 2015-05-12
+laatste_update: 2015-05-12
+status: geldig
+toestand: 2015-05-12
+bron: "https://wetten.overheid.nl/BWBR0036597"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 april 2015, kenmerk 755292-135599-DMO, houdende instelling van de Adviescommissie participatie en emancipatie Sinti en Roma (Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Staatssecretaris:** Staatssecretaris van Volksgezondheid, Welzijn en Sport;
+- a. *Staatssecretaris:* Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036597&artikel=2&z=2015-05-12&g=2015-05-12).
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036597&artikel=2&z=2015-05-12&g=2015-05-12).
 
 ##### Artikel 2. Instelling en taak
 
@@ -155,5 +129,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,46 +1,25 @@
 ---
 title: "Beleidsregels van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 18 mei 2015, nummer 644356, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Beleidsregels AMIF en ISF 2014–2020)"
+citeertitel: "Beleidsregels AMIF en ISF 2014–2020"
 identifier: "BWBR0036630"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-12-01"
-last_updated: "2020-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036630"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "13157393"
-version_id: "22425152"
-internal_id: "C32178111"
-label_id: "13126014"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036630/2020-12-01/0"
-intitule_bron: "Stcrt.2015-13878"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-18"
-intitule_published: "2015-05-20"
-intitule_in_force: "2015-05-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-13878"
-original_signed_date: "2015-05-18"
-original_published_date: "2015-05-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-13878"
-entry_into_force_date: "2015-05-21"
-jci_1_3: "jci1.3:c:BWBR0036630&z=2020-12-01&g=2020-12-01"
-jci_1_0: "1.0:c:BWBR0036630&g=2020-12-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels AMIF en ISF 2014–2020"
-signed_date: "2015-05-18"
-entry_into_force: "2015-05-21"
+publicatiedatum: 2015-05-21
+laatste_update: 2020-12-01
+status: geldig
+toestand: 2020-12-01
+bron: "https://wetten.overheid.nl/BWBR0036630"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregels van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 18 mei 2015, nummer 644356, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Beleidsregels AMIF en ISF 2014–2020)
 
 ##### Artikel 1. Definities
 
 In deze beleidsregels wordt verstaan onder:
 
-- •. **subsidieregeling:** [Subsidieregeling AMIF en ISF 2014–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&wetgeving)
+- • *subsidieregeling:*
+ [Subsidieregeling AMIF en ISF 2014–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0036487)
 
 ##### Artikel 2. Specifieke uitgaven in verband met doelgroepen
 
@@ -50,7 +29,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - b. een vergoeding van door de doelgroepen gemaakte kosten die vervolgens door de subsidieontvanger worden terugbetaald.
 
-2. In het geval van activiteiten waarvoor de deelname noodzakelijk is van personen die onder de reikwijdte van [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=B) of [Hg van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hg) vallen, zoals bijvoorbeeld een opleiding en cursus, kunnen kleine geldelijke stimulansen worden verstrekt als extra bijstand, mits het totaalbedrag niet groter is dan € 25.000 per project en het wordt verdeeld per deelnemer voor elk evenement, cursus, en dergelijke. De subsidieontvanger dient een lijst bij te houden van de personen, de tijd en plaats van betaling en zorgt voor een degelijke follow-up om elke dubbele financiering of elk misbruik van middelen te vermijden.
+2. In het geval van activiteiten waarvoor de deelname noodzakelijk is van personen die onder de reikwijdte van [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=B) of [Hg van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hg) vallen, zoals bijvoorbeeld een opleiding en cursus, kunnen kleine geldelijke stimulansen worden verstrekt als extra bijstand, mits het totaalbedrag niet groter is dan € 25.000 per project en het wordt verdeeld per deelnemer voor elk evenement, cursus, en dergelijke. De subsidieontvanger dient een lijst bij te houden van de personen, de tijd en plaats van betaling en zorgt voor een degelijke follow-up om elke dubbele financiering of elk misbruik van middelen te vermijden.
 
 3. In het geval van activiteiten die onder de reikwijdte van de [artikelen C5, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C) en [Ha4, onderdelen b, c en d, van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Ha), vallen kunnen de in de [subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487) genoemde maximale bedragen worden vergoed in de vorm van niet terugvorderbare forfaitaire bedragen, zoals ingeval van beperkte steun voor het opbouwen van economische activiteiten en geldelijke stimulansen voor terugkeerders. Het bieden van financiële ondersteuning is vooralsnog alleen voorbehouden aan de Internationale Organisatie voor Migratie die voor de Nederlandse overheid ook de Herintegratieregeling Terugkeer uitvoert en de Dienst Terugkeer & Vertrek die verantwoordelijk is voor de regie en de uitvoering van het terugkeerbeleid.
 
@@ -64,7 +43,7 @@ In deze beleidsregels wordt verstaan onder:
 
 2. Dienstreizen, die in Nederland zijn begonnen en waarbij het reisgedeelte buiten Nederland beperkt is of waarbij de grensoverschrijding niet noodzakelijkerwijs leidt tot uitgaven voor maaltijden of overnachting in het buitenland, worden voor de toepassing van dit besluit aangemerkt als dienstreizen binnen Nederland.
 
-3. Reiskosten komen voor subsidie in aanmerking op grond van de werkelijk gemaakte kosten. De terugbetaling moet gebaseerd zijn op de goedkoopste vorm van openbaar vervoer. Vliegreizen zijn in de regel pas toegelaten voor reizen van meer dan 800 km heen en terug, behalve indien luchtvervoer op grond van de plaats van bestemming gerechtvaardigd is. Wanneer van een particulier voertuig wordt gebruikgemaakt, gebeurt de vergoeding of op basis van de kosten van de goedkoopste vorm van openbaar vervoer, of op basis van een vergoeding van € 0,19 per gereden kilometer.
+3. Reiskosten komen voor subsidie in aanmerking op grond van de werkelijk gemaakte kosten. De terugbetaling moet gebaseerd zijn op de goedkoopste vorm van openbaar vervoer. Vliegreizen zijn in de regel pas toegelaten voor reizen van meer dan 800 km heen en terug, behalve indien luchtvervoer op grond van de plaats van bestemming gerechtvaardigd is. Wanneer van een particulier voertuig wordt gebruikgemaakt, gebeurt de vergoeding of op basis van de kosten van de goedkoopste vorm van openbaar vervoer, of op basis van een vergoeding van € 0,19 per gereden kilometer.
 
 4. Verblijfskosten zijn subsidiabel op basis van werkelijk gemaakte kosten of dagvergoedingen. De werkelijke kosten voor verblijfkosten en dagvergoedingen die worden gehanteerd met betrekking tot buitenlandse dienstreizen, moeten binnen de grenzen liggen van de ‘Tarieflijst logies- en overige kosten buitenlandse dienstreizen’ die door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties is vastgesteld. Deze tarieflijst is te vinden op de website van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties: www.overheid.nl.
 
@@ -80,11 +59,11 @@ Voor de specifieke maatregelen genoemd in [bijlage Ha van de subsidieregeling](h
 
 3. Materieel dat vóór de levensduur van het project werd aangekocht, maar dat wordt gebruikt voor het project, is subsidiabel op grond van afschrijvingen. Deze kosten zijn echter niet subsidiabel wanneer het materieel oorspronkelijk werd aangekocht via een subsidie van de Europese Unie.
 
-4. Voor afzonderlijke artikelen die minder dan € 20.000 kosten, zijn de volledige aankoopkosten subsidiabel, op voorwaarde dat het materieel wordt aangekocht vóór de laatste drie maanden van het project. Afzonderlijke artikelen die € 20.000 of meer kosten, zijn alleen subsidiabel op basis van afschrijvingen.
+4. Voor afzonderlijke artikelen die minder dan € 20.000 kosten, zijn de volledige aankoopkosten subsidiabel, op voorwaarde dat het materieel wordt aangekocht vóór de laatste drie maanden van het project. Afzonderlijke artikelen die € 20.000 of meer kosten, zijn alleen subsidiabel op basis van afschrijvingen.
 
-5. Voor subsidiabele activiteiten die vallen onder [bijlage C van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C) zijn, in afwijking van lid 4, de aankoopkosten van vervoersmiddelen die minder dan € 250.000 kosten, volledige subsidiabel. Vervoermiddelen die € 250.000 of meer kosten, zijn alleen subsidiabel op basis van afschrijvingen.
+5. Voor subsidiabele activiteiten die vallen onder [bijlage C van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C) zijn, in afwijking van lid 4, de aankoopkosten van vervoersmiddelen die minder dan € 250.000 kosten, volledige subsidiabel. Vervoermiddelen die € 250.000 of meer kosten, zijn alleen subsidiabel op basis van afschrijvingen.
 
-6. Voor subsidiabele activiteiten die vallen onder de [bijlagen D](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D), [E](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E), [F](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F), [G](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G), [H tot en met Hf](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H), [Hj](onbekend) en [Hk van de subsidieregeling](onbekend) zijn de volledige aankoopkosten subsidiabel.
+6. Voor subsidiabele activiteiten die vallen onder de [bijlagen D](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D), [E](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E), [F](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F), [G](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G), [H tot en met Hf](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H), Hj en Hk van de subsidieregeling zijn de volledige aankoopkosten subsidiabel.
 
 7. Aankoopkosten voor materieel moeten overeenstemmen met de normale marktkosten en de waarde van de betrokken voorwerpen wordt afgeschreven overeenkomstig de belasting- en boekhoudvoorschriften die voor de subsidieontvanger gelden.
 
@@ -104,9 +83,9 @@ Voor de specifieke maatregelen genoemd in [bijlage Ha van de subsidieregeling](h
 
 - d. Alleen het deel van de afschrijvingen van gebouwen dat overeenstemt met de duur van het gebruik en met de mate waarin zij daadwerkelijk voor het project worden gebruikt, is subsidiabel; de afschrijvingen worden berekend volgens nationale boekhoudvoorschriften.
 
-2. Indien is voldaan aan de voorwaarde, bedoeld in het eerste lid, onderdeel c, zijn de volledige kosten van de renovatie van gebouwen subsidiabel tot een maximumbedrag van € 100.000. Boven deze drempel zijn de voorwaarden, bedoeld in het eerste lid, onderdelen c en d, van toepassing.
+2. Indien is voldaan aan de voorwaarde, bedoeld in het eerste lid, onderdeel c, zijn de volledige kosten van de renovatie van gebouwen subsidiabel tot een maximumbedrag van € 100.000. Boven deze drempel zijn de voorwaarden, bedoeld in het eerste lid, onderdelen c en d, van toepassing.
 
-3. Wanneer de aankoop van onroerende zaken essentieel is voor de uitvoering van activiteiten van een project die onder de reikwijdte van de [artikelen C5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A), [D4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D), [E5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E), [F4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F), [G4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G), [H5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H), [Ha4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Ha), [Hb4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hb), [Hc4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hc), [Hd4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hd), [He4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=He), [Hf4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hf), [Hj4](onbekend) en [Hk4 van de subsidieregeling](onbekend) vallen en er een duidelijk verband bestaat met de doelstellingen ervan, komt de aankoop van een onroerende zaak, dat wil zeggen reeds opgetrokken gebouwen of de bouw van een onroerende zaak, in aanmerking voor medefinanciering op basis van de volledige of gedeeltelijke aankoopkosten, of op grond van afschrijvingen, onder de hieronder uiteengezette voorwaarden, en zonder dat afbreuk mag worden gedaan aan de toepassing van strengere nationale voorschriften:
+3. Wanneer de aankoop van onroerende zaken essentieel is voor de uitvoering van activiteiten van een project die onder de reikwijdte van de [artikelen C5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A), [D4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D), [E5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E), [F4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F), [G4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G), [H5](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H), [Ha4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Ha), [Hb4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hb), [Hc4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hc), [Hd4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hd), [He4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=He), [Hf4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hf), Hj4 en Hk4 van de subsidieregeling vallen en er een duidelijk verband bestaat met de doelstellingen ervan, komt de aankoop van een onroerende zaak, dat wil zeggen reeds opgetrokken gebouwen of de bouw van een onroerende zaak, in aanmerking voor medefinanciering op basis van de volledige of gedeeltelijke aankoopkosten, of op grond van afschrijvingen, onder de hieronder uiteengezette voorwaarden, en zonder dat afbreuk mag worden gedaan aan de toepassing van strengere nationale voorschriften:
 
 - a. Er moet een bewijs worden afgegeven door een onafhankelijke gekwalificeerde taxateur of een naar behoren gemachtigd officieel orgaan, waaruit blijkt dat de prijs de marktwaarde niet overschrijdt. Bovendien verklaart dit bewijs ofwel dat de onroerende zaak in overeenstemming is met de nationale voorschriften, ofwel geeft het de punten aan die niet conform zijn en waarvan de rectificatie door de eindbegunstigde is gepland in het kader van het project.
 
@@ -138,10 +117,4 @@ Deze beleidsregels worden aangehaald als: Beleidsregels AMIF en ISF 2014–2020.
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt verplaatst, en werken terug tot en met 1 april 2015.
-
-Gelet op de [artikelen 12, onderdelen b, c, d, e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=12), en [15, van de Subsidieregeling AMIF en ISF 2014–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=15);
-
-Besluit:
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
+Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt verplaatst, en werken terug tot en met 1 april 2015.

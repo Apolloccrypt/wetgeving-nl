@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu van 15 april 2015, nr. IENM/BSK-2015/31476, houdende de benoeming van de leden van de Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL (Benoemingsbesluit Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL)"
+citeertitel: "Benoemingsbesluit Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL"
 identifier: "BWBR0036683"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-06-17"
-last_updated: "2015-06-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036683"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "13173303"
-version_id: "22449832"
-internal_id: "C32220841"
-label_id: "13141734"
-dtd_version: "2.0"
-original_entry_into_force: "2015-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036683/2015-06-17/0"
-intitule_bron: "Stcrt.2015-16243"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-15"
-intitule_published: "2015-06-16"
-intitule_in_force: "2015-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-16243"
-original_signed_date: "2015-04-15"
-original_published_date: "2015-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-16243"
-entry_into_force_date: "2015-06-17"
-jci_1_3: "jci1.3:c:BWBR0036683&z=2015-06-17&g=2015-06-17"
-jci_1_0: "1.0:c:BWBR0036683&g=2015-06-17"
-citeertitel_status: "officieel"
-short_title: "Benoemingsbesluit Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL"
-signed_date: "2015-04-15"
-entry_into_force: "2015-06-17"
+publicatiedatum: 2015-06-17
+laatste_update: 2015-06-17
+status: geldig
+toestand: 2015-06-17
+bron: "https://wetten.overheid.nl/BWBR0036683"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 15 april 2015, nr. IENM/BSK-2015/31476, houdende de benoeming van de leden van de Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL (Benoemingsbesluit Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL)
-
-Gelet op [artikel 6 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Staatssecretaris:** Staatssecretaris van Infrastructuur en Milieu;
+- a. *Staatssecretaris:* Staatssecretaris van Infrastructuur en Milieu;
 
-- b. **commissie:** de Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL, ingesteld bij de [Regeling instelling Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL](https://wetten.overheid.nl/jci1.3:c:BWBR0036679);
+- b. *commissie:* de Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL, ingesteld bij de [Regeling instelling Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL](https://wetten.overheid.nl/jci1.3:c:BWBR0036679);
 
-- c. **LVNL:** Luchtverkeersleiding Nederland;
+- c. *LVNL:* Luchtverkeersleiding Nederland;
 
-- d. **FLNA:** Regeling Functioneel Leeftijdsontslag Non-activiteit.
+- d. *FLNA:* Regeling Functioneel Leeftijdsontslag Non-activiteit.
 
 ##### Artikel 2. Leden
 
@@ -109,5 +83,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Benoemingsbesluit Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

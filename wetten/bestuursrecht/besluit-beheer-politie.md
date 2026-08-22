@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 juni 2015, houdende regels over het beheer van de politie (Besluit beheer politie)"
+citeertitel: "Besluit beheer politie"
 identifier: "BWBR0036705"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036705"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13181803"
-version_id: "23722022"
-internal_id: "C34142371"
-label_id: "13150444"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036705/2025-04-01/0"
-intitule_bron: "Stb.2015-223"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-08"
-intitule_published: "2015-06-23"
-intitule_in_force: "2015-06-23"
-intitule_status: "goed"
-original_publication: "Stb.2016-504"
-original_signed_date: "2016-12-09"
-original_published_date: "2016-12-16"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2016-504"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0036705&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0036705&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit beheer politie"
-signed_date: "2016-12-09"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0036705"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 8 juni 2015, houdende regels over het beheer van de politie (Besluit beheer politie)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 19 februari 2015, nr. 616920;
-
-Gelet op [artikel 30, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30), [artikel 18, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18) en [artikel 9, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=9);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 10 april 2015, nr. W03.15.0038/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 3 juni 2015, nr. 638459;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,29 +20,33 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **ambtenaren van politie:** ambtenaren als bedoeld in [artikel 2, onder a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
+- *ambtenaren van politie:* ambtenaren als bedoeld in [artikel 2, onder a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- **arrestantenzorg:** zorg voor de huisvesting, veiligheid, verzorging, bejegening en het vervoer van ingeslotenen door de regionale eenheid en door de landelijke eenheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&paragraaf=3.1&artikel=3&z=2025-04-01&g=2025-04-01), in het gebied van die regionale eenheid;
+- *arrestantenzorg:* zorg voor de huisvesting, veiligheid, verzorging, bejegening en het vervoer van ingeslotenen door de regionale eenheid en door de landelijke eenheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&paragraaf=3.1&artikel=3&z=2025-04-01&g=2025-04-01), in het gebied van die regionale eenheid;
 
-- **beheersplan:** het beheersplan, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
+- *beheersplan:* het beheersplan, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
 
-- **commissies van toezicht op de arrestantenzorg:** de commissie, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=9&artikel=50&z=2025-04-01&g=2025-04-01);
+- *commissies van toezicht op de arrestantenzorg:* de commissie, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=9&artikel=50&z=2025-04-01&g=2025-04-01);
 
-- **ingeslotene:** de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een politiebureau is ondergebracht;
+- *ingeslotene:* de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een politiebureau is ondergebracht;
 
-- **jaaraanschrijving:** jaaraanschrijving van Onze Minister waarin aanwijzingen worden gegeven aan de korpschef;
+- *jaaraanschrijving:* jaaraanschrijving van Onze Minister waarin aanwijzingen worden gegeven aan de korpschef;
 
-- **jaarverslag:** het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
+- *jaarverslag:* het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
 
-- **managementrapportage:** rapportage van de korpschef aan Onze Minister waarin wordt ingegaan op de uitvoering van het beheersplan;
+- *managementrapportage:* rapportage van de korpschef aan Onze Minister waarin wordt ingegaan op de uitvoering van het beheersplan;
 
-- **politiecellencomplex:** een in een gebouw te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen.
+- *politiecellencomplex:* een in een gebouw te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen.
 
 ### Hoofdstuk 2. Aanwijzing leden van de leiding van een eenheid
 
 ##### Artikel 2
 
 Bij ministeriële regeling worden ambtenaren van politie aangewezen die naast de politiechef deel uitmaken van de leiding van een eenheid.
+
+### Hoofdstuk 3. De landelijke eenheden
+
+#### § 3.1. De twee landelijke eenheden
 
 ##### Artikel 3
 
@@ -110,7 +82,7 @@ Bij ministeriële regeling worden ambtenaren van politie aangewezen die naast de
 
 - f. het Onderdeel intelligence.
 
-### Hoofdstuk 3. Hoofdlijnen organisatie landelijke eenheid
+#### § 3.2. Taken van de organisatieonderdelen van beide landelijke eenheden
 
 ##### Artikel 4
 
@@ -119,6 +91,8 @@ De Staf Eenheid landelijke expertise en operaties en de Staf Eenheid landelijke 
 ##### Artikel 5
 
 De Dienst bedrijfsvoering Eenheid landelijke expertise en operaties en de Dienst bedrijfsvoering Eenheid landelijke opsporing en interventies hebben in ieder geval tot taak het sturen van de bedrijfsvoeringsactiviteiten ingericht binnen de landelijk eenheid waarvan zij onderdeel zijn en het zorgdragen voor de aansluiting tussen de vraag vanuit die landelijke eenheden en de door het Politiedienstencentrum te leveren producten en diensten.
+
+#### § 3.3. Taken van de organisatieonderdelen van de Eenheid landelijke expertise en operaties
 
 ##### Artikel 6
 
@@ -178,6 +152,8 @@ De Dienst koninklijke en diplomatieke beveiliging heeft in ieder geval tot taak:
 
 - d. het verzorgen van de coördinatie van bijzondere middelen en beveiligingsmaatregelen waar deze inzet de eenheden overstijgt.
 
+#### § 3.4. Taken van de organisatieonderdelen van de Eenheid landelijke opsporing en interventies
+
 ##### Artikel 11
 
 De Dienst landelijke recherche heeft in ieder geval tot taak:
@@ -188,23 +164,31 @@ De Dienst landelijke recherche heeft in ieder geval tot taak:
 
 - c. het leveren van specialistische ondersteuning bij de bestrijding van de criminaliteit.
 
-### Hoofdstuk 4. Hoofdlijnen organisatie regionale eenheden
-
 ##### Artikel 12
 
 De Dienst speciale interventies heeft in ieder geval tot taak:
 
 - a. het in stand houden van aanhoudings- en ondersteuningsteams die, indien redelijkerwijs mag worden aangenomen dat levensbedreigende omstandigheden tegen de politie of anderen dreigen, tot taak hebben:
 
-- 1°. het verrichten van planmatige aanhoudingen;
+   - 1°. het verrichten van planmatige aanhoudingen;
 
-- 2°. het bewaken en beveiligen van politie-infiltranten;
+   - 2°. het bewaken en beveiligen van politie-infiltranten;
 
-- 3°. het assisteren bij het bewaken en beveiligen van het transport van getuigen, verdachten of gedetineerden; en
+   - 3°. het assisteren bij het bewaken en beveiligen van het transport van getuigen, verdachten of gedetineerden; en
 
-- 4°. het assisteren bij het bewaken en beveiligen van objecten en andere werkzaamheden waarvoor toestemming is verkregen van het bevoegd gezag.
+   - 4°. het assisteren bij het bewaken en beveiligen van objecten en andere werkzaamheden waarvoor toestemming is verkregen van het bevoegd gezag.
 
 - b. het in stand houden van een of meer bijzondere bijstandseenheden als bedoeld in [artikel 59, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) of onderdelen daarvan.
+
+##### Artikel 12a
+
+Het Onderdeel afgeschermde operaties heeft in ieder geval tot taak: het in stand houden van infiltratieteams die als taak hebben het uitvoeren van een bevel tot infiltratie, tot pseudokoop of pseudodienstverlening en tot stelselmatige inwinning van informatie.
+
+##### Artikel 12b
+
+Het Onderdeel intelligence heeft in ieder geval tot taak: het landelijk inwinnen, coördineren en verwerken van informatie ten behoeve van de sturing op en de ondersteuning van de politietaak van de Eenheid landelijke opsporing en interventies.
+
+### Hoofdstuk 4. De regionale eenheden
 
 ##### Artikel 13
 
@@ -272,8 +256,6 @@ De districtsrecherche heeft in ieder geval tot taak het opsporen en aanpakken va
 
 Het flexteam heeft in ieder geval tot taak het probleemgericht inzetten van capaciteit ter ondersteuning van de basisteams.
 
-### Hoofdstuk 5. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
-
 ##### Artikel 19
 
 De Dienst regionaal operationeel centrum heeft in ieder geval tot taak zorg te dragen voor de operationele aansturing van politieoperaties.
@@ -310,23 +292,19 @@ De Dienst regionale operationele samenwerking heeft in ieder geval tot taak het 
 
 - d. de inzet van diensthonden.
 
-### Hoofdstuk 6. Ingeslotenen
-
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
 De Dienst zeehavenpolitie van de regionale eenheid Rotterdam is in ieder geval belast met de uitvoering van de politietaak in het zeehavengebied van Rotterdam.
 
-### Hoofdstuk 7. Politielegitimatiebewijs, politiecellencomplex en politielogo
-
 ##### Artikel 25
 
 De Dienst bedrijfsvoering regionale eenheid heeft in ieder geval tot taak het sturen van de bedrijfsvoering die binnen de regionale eenheid is ingericht en het zorgdragen voor de aansluiting tussen de vraag vanuit de regionale eenheid en de door het Politiedienstencentrum te leveren producten en diensten.
 
-### Hoofdstuk 6. De ondersteunende diensten
+### Hoofdstuk 5. Paraatheid
 
 ##### Artikel 26
 
@@ -347,6 +325,8 @@ De regionale eenheden beschikken ieder over een organisatie van mobiele eenheden
 ##### Artikel 27
 
 De regionale en landelijke eenheden beschikken ieder over een staf die ten behoeve van het bevoegd gezag zorg draagt voor de coördinatie van grootschalig politieoptreden.
+
+### Hoofdstuk 6. De ondersteunende diensten
 
 ##### Artikel 28
 
@@ -375,28 +355,6 @@ De Korpsstaf heeft in ieder geval tot taak de ondersteuning van de korpschef en 
 ##### Artikel 30
 
 De Directie operatiën heeft in ieder geval tot taak het ontwikkelen van de strategie- en beleidsvorming van de politie op het terrein van de politiële taakuitvoering.
-
-## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2015-07-01&g=2015-07-01)
-
-Internationale politiële informatie-uitwisseling vindt plaats:
-
-- A. door Liaison officiers die organisatorisch onder de eenheid, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=4&z=2015-07-01&g=2015-07-01), vallen en werkzaam zijn bij door het Ministerie van Buitenlandse Zaken beheerde ambassades buiten Nederland;
-
-- B. door buitenlandse verbindingsofficieren, bedoeld in de Regeling Buitenlandse Verbindingsofficieren;
-
-- C. door tussenkomst van het Nationaal Centraal Bureau Interpol, bedoeld in de artikel 32 van de ICPO-Interpol Constitution and General Regulations;
-
-- D. door tussenkomst van Bureau Sirene, bedoeld in artikel 108 van de Schengen-uitvoeringsovereenkomst;
-
-- E. door tussenkomst van Dutch Desk Europol, bedoeld in artikel 1 van de Besluit 2009/371/BJZ van de Raad van 6 april 2009 tot oprichting van de Europese politiedienst (Europol) (PbEU 2009, L 121).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### Hoofdstuk 3. De landelijke eenheden
-
-### Hoofdstuk 4. De regionale eenheden
-
-### Hoofdstuk 5. Paraatheid
 
 ##### Artikel 31
 
@@ -466,6 +424,18 @@ De Dienst informatie- en communicatietechnologie heeft in ieder geval tot taak h
 
 De Dienst communicatie heeft in ieder geval tot taak het uitvoeren van door de Directie communicatie, bedoeld in [artikel 28, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2025-04-01&g=2025-04-01), geformuleerd beleid.
 
+##### Artikel 43a
+
+1. Er is een ondersteunende dienst, genaamd: Ondersteunende dienst Politieacademie.
+
+2. De Ondersteunende dienst Politieacademie heeft tot taak het ter beschikking stellen van personeel aan de Politieacademie.
+
+##### Artikel 43b
+
+1. Er is een ondersteunende dienst, genaamd: Landelijke meldkamer samenwerking.
+
+2. De Landelijke meldkamer samenwerking heeft tot taak de uitvoering van het beheer van de meldkamers, bedoeld in [artikel 25a, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a).
+
 ### Hoofdstuk 7. Nadere regels over de organisatie van de politie
 
 ##### Artikel 44
@@ -476,7 +446,13 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de organi
 
 ##### Artikel 45
 
-Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving. De jaaraanschrijving heeft betrekking op de managementrapportages, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=8&artikel=47&z=2025-04-01&g=2025-04-01), op de ontwerpen van het beheersplan en het jaarverslag, alsmede op de in [artikel 3 van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=3) bedoelde onderwerpen.
+Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving. De jaaraanschrijving heeft betrekking op de managementrapportages, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=8&artikel=47&z=2025-04-01&g=2025-04-01), op de ontwerpen van het beheersplan en het jaarverslag, alsmede op de in [artikel 3 van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=3) bedoelde onderwerpen.
+
+##### Artikel 45a
+
+1. De korpschef stelt de directeur van de Politieacademie jaarlijks uiterlijk op 1 maart in kennis van de behoefte van de politie aan politieonderwijs en werkzaamheden als bedoeld in [artikel 75 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=75) voor het komende begrotingsjaar en de vier daaropvolgende jaren.
+
+2. De inkennisstelling, bedoeld in het eerste lid, bevat in ieder geval de aantallen, typen en niveaus van opleidingen waar de politie behoefte aan heeft. De inkennisstelling is mede gebaseerd op het personeelsbeleid, de landelijke en lokale beleidsprioriteiten, resultaatverplichtingen van de politie en de regels in het Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ##### Artikel 46
 
@@ -494,7 +470,7 @@ Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijvi
 
 2. In het beheersplan worden de in het eerste lid, onderdelen a tot en met d, genoemde onderwerpen inzichtelijk gemaakt ten aanzien van de sterkte die feitelijk ter beschikking wordt gesteld aan de Politieacademie.
 
-3. De korpschef zendt het ontwerp van het beheersplan voor het komende begrotingsjaar voor 1 juli aan Onze Minister.
+3. De korpschef zendt het ontwerp van het beheersplan voor het komende begrotingsjaar voor 1 juli aan Onze Minister.
 
 4. Het door Onze Minister voorgenomen beheersplan wordt als bijlage bij de begroting van het Ministerie van Justitie en Veiligheid aan de Staten-Generaal gezonden.
 
@@ -504,7 +480,7 @@ Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijvi
 
 ##### Artikel 47
 
-1. De korpschef verstrekt aan Onze Minister een 4-maands-, een 8-maands- en een 12-maandsmanagementrapportage over de uitvoering van het beheersplan. Deze managementrapportages worden telkens uiterlijk op respectievelijk 1 juni, 1 oktober en 1 februari verstrekt aan Onze Minister.
+1. De korpschef verstrekt aan Onze Minister een 4-maands-, een 8-maands- en een 12-maandsmanagementrapportage over de uitvoering van het beheersplan. Deze managementrapportages worden telkens uiterlijk op respectievelijk 1 juni, 1 oktober en 1 februari verstrekt aan Onze Minister.
 
 2. De in het eerste lid bedoelde rapportages en het jaarverslag bevatten in ieder geval de onderstaande informatie:
 
@@ -516,9 +492,9 @@ Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijvi
 
 - d. de sterkte die feitelijk ter beschikking is gesteld aan de politieonderwijsraad.
 
-3. De korpschef zendt jaarlijks voor 1 april een ontwerp van het jaarverslag over het voorafgaande jaar aan Onze Minister.
+3. De korpschef zendt jaarlijks voor 1 april een ontwerp van het jaarverslag over het voorafgaande jaar aan Onze Minister.
 
-4. Onze Minister stelt jaarlijks voor 15 mei het jaarverslag over het voorafgaande jaar vast.
+4. Onze Minister stelt jaarlijks voor 15 mei het jaarverslag over het voorafgaande jaar vast.
 
 5. Het vastgestelde jaarverslag wordt als bijlage bij het jaarverslag van het Ministerie van Justitie en Veiligheid ter informatie aan de Staten-Generaal gezonden.
 
@@ -528,7 +504,7 @@ Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijvi
 
 Bij ministeriële regeling worden regels gesteld over de informatieverstrekking op het terrein van het beheer door de korpschef aan de minister.
 
-### Hoofdstuk 7. Nadere regels over de organisatie van de politie
+### Hoofdstuk 9. Ingeslotenen
 
 ##### Artikel 49
 
@@ -542,7 +518,7 @@ Bij ministeriële regeling worden regels gesteld over de informatieverstrekking 
 
 - a. toezicht te houden op de arrestantenzorg;
 
-- b. jaarlijks voor 1 maart rapport uit te brengen aan de korpschef en de politiechef over haar werkzaamheden en bevindingen over het voorgaande jaar;
+- b. jaarlijks voor 1 maart rapport uit te brengen aan de korpschef en de politiechef over haar werkzaamheden en bevindingen over het voorgaande jaar;
 
 - c. gevraagd en ongevraagd aan de korpschef en de politiechef advies uit te brengen en inlichtingen te geven omtrent aangelegenheden betreffende de arrestantenzorg.
 
@@ -556,7 +532,7 @@ Bij ministeriële regeling worden regels gesteld over de informatieverstrekking 
 
 6. Het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37), doet verslag over de arrestantenzorg bij de politie alsmede over de wijze waarop gevolg is gegeven aan de rapporten van de commissies van toezicht op de arrestantenzorg.
 
-### Hoofdstuk 8. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
+### Hoofdstuk 10. Politielegitimatiebewijs, politiecellencomplex en politielogo
 
 ##### Artikel 51
 
@@ -566,94 +542,8 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het politiel
 
 ##### Artikel 52
 
-Dit besluit treedt in werking op 1 juli 2015.
+Dit besluit treedt in werking op 1 juli 2015.
 
 ##### Artikel 53
 
 Dit besluit wordt aangehaald als: Besluit beheer politie.
-
-## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 43a
-
-1. Er is een ondersteunende dienst, genaamd: Ondersteunende dienst Politieacademie.
-
-2. De Ondersteunende dienst Politieacademie heeft tot taak het ter beschikking stellen van personeel aan de Politieacademie.
-
-### Hoofdstuk 7. Nadere regels over de organisatie van de politie
-
-### Hoofdstuk 8. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
-
-##### Artikel 45a
-
-1. De korpschef stelt de directeur van de Politieacademie jaarlijks uiterlijk op 1 maart in kennis van de behoefte van de politie aan politieonderwijs en werkzaamheden als bedoeld in [artikel 75 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=75) voor het komende begrotingsjaar en de vier daaropvolgende jaren.
-
-2. De inkennisstelling, bedoeld in het eerste lid, bevat in ieder geval de aantallen, typen en niveaus van opleidingen waar de politie behoefte aan heeft. De inkennisstelling is mede gebaseerd op het personeelsbeleid, de landelijke en lokale beleidsprioriteiten, resultaatverplichtingen van de politie en de regels in het Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
-
-### Hoofdstuk 8. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
-
-### Hoofdstuk 11. Slotbepaling
-
-## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2023-01-01&g=2023-01-01)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 3.1. De twee landelijke eenheden
-
-#### § 3.2. Taken van de organisatieonderdelen van beide landelijke eenheden
-
-#### § 3.3. Taken van de organisatieonderdelen van de Eenheid landelijke expertise en operaties
-
-#### § 3.4. Taken van de organisatieonderdelen van de Eenheid landelijke opsporing en interventies
-
-##### Artikel 12a
-
-Het Onderdeel afgeschermde operaties heeft in ieder geval tot taak: het in stand houden van infiltratieteams die als taak hebben het uitvoeren van een bevel tot infiltratie, tot pseudokoop of pseudodienstverlening en tot stelselmatige inwinning van informatie.
-
-##### Artikel 12b
-
-Het Onderdeel intelligence heeft in ieder geval tot taak: het landelijk inwinnen, coördineren en verwerken van informatie ten behoeve van de sturing op en de ondersteuning van de politietaak van de Eenheid landelijke opsporing en interventies.
-
-### Hoofdstuk 4. De regionale eenheden
-
-### Hoofdstuk 5. Paraatheid
-
-### Hoofdstuk 6. De ondersteunende diensten
-
-### Hoofdstuk 9. Ingeslotenen
-
-### Hoofdstuk 10. Politielegitimatiebewijs, politiecellencomplex en politielogo
-
-### Hoofdstuk 11. Slotbepaling
-
-## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&paragraaf=3.3&artikel=7&z=2024-01-01&g=2024-01-01)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 43b
-
-1. Er is een ondersteunende dienst, genaamd: Landelijke meldkamer samenwerking.
-
-2. De Landelijke meldkamer samenwerking heeft tot taak de uitvoering van het beheer van de meldkamers, bedoeld in [artikel 25a, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a).
-
-### Hoofdstuk 7. Nadere regels over de organisatie van de politie
-
-### Hoofdstuk 9. Ingeslotenen
-
-### Hoofdstuk 10. Politielegitimatiebewijs, politiecellencomplex en politielogo
-
-### Hoofdstuk 11. Slotbepaling
-
-## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&paragraaf=3.3&artikel=7&z=2025-04-01&g=2025-04-01)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

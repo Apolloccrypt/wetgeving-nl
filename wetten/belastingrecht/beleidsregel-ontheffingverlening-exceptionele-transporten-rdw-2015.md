@@ -1,43 +1,17 @@
 ---
 title: "Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015"
 identifier: "BWBR0035903"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-05-01"
-last_updated: "2022-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035903"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12877003"
-version_id: "21890092"
-internal_id: "C31414991"
-label_id: "12846664"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035903/2022-05-01/0"
-intitule_bron: "Stcrt.2014-35655"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-04"
-intitule_published: "2014-12-12"
-intitule_in_force: "2014-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-35655"
-original_signed_date: "2014-12-04"
-original_published_date: "2014-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-35655"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035903&z=2022-05-01&g=2022-05-01"
-jci_1_0: "1.0:c:BWBR0035903&g=2022-05-01"
-citeertitel_status: "officieel"
-signed_date: "2014-12-04"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2022-05-01
+status: geldig
+toestand: 2022-05-01
+bron: "https://wetten.overheid.nl/BWBR0035903"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015
-
-Gelet op [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), [artikel 4:83 van de Algemene wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:83), het [Besluit ontheffingverlening exceptionele transporten](https://wetten.overheid.nl/jci1.3:c:BWBR0018680), het [Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554), de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) en de [Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -47,25 +21,25 @@ Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de [Reg
 
 Voorts wordt verstaan onder:
 
-- a. **autonome beslisruimte:** de actuele, door de wegbeheerder voor een weg of weggedeelte opgegeven afmetingen en massa's tot welke de RDW zonder toestemming als bedoeld in [artikel 149b, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b) en [artikel 4 van het Besluit ontheffingverlening exceptionele transporten](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&artikel=4) ontheffing mag verlenen onder de daarbij van toepassing zijnde beperkingen en voorschriften;
+- a. *autonome beslisruimte:* de actuele, door de wegbeheerder voor een weg of weggedeelte opgegeven afmetingen en massa's tot welke de RDW zonder toestemming als bedoeld in [artikel 149b, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b) en [artikel 4 van het Besluit ontheffingverlening exceptionele transporten](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&artikel=4) ontheffing mag verlenen onder de daarbij van toepassing zijnde beperkingen en voorschriften;
 
-- b. **begeleidingsvoertuig:** voertuigen als bedoeld in [artikel 1, onder a, van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=1);
+- b. *begeleidingsvoertuig:* voertuigen als bedoeld in [artikel 1, onder a, van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=1);
 
-- c. **digitale wegenkaart:** elektronische weergave van de wegen of weggedeelten waar de autonome beslisruimte voor langlopende basis ontheffingen op van toepassing is en die door de Dienst Wegverkeer ten behoeve van de ontheffing houders ter beschikking wordt gesteld;
+- c. *digitale wegenkaart:* elektronische weergave van de wegen of weggedeelten waar de autonome beslisruimte voor langlopende basis ontheffingen op van toepassing is en die door de Dienst Wegverkeer ten behoeve van de ontheffing houders ter beschikking wordt gesteld;
 
-- d. **gedwongen besturing:** gelede stuurinrichting volgens ECE R79, waarbij de besturingsoverbrenging zuiver mechanisch of zuiver hydraulisch is uitgevoerd;
+- d. *gedwongen besturing:* gelede stuurinrichting volgens ECE R79, waarbij de besturingsoverbrenging zuiver mechanisch of zuiver hydraulisch is uitgevoerd;
 
-- e. **hulpbesturing:** inrichting waarmee de besturing van een getrokken voertuig anders dan door verdraaiing van het stuurwiel van het motorrijtuig met de hand kan worden beïnvloed;
+- e. *hulpbesturing:* inrichting waarmee de besturing van een getrokken voertuig anders dan door verdraaiing van het stuurwiel van het motorrijtuig met de hand kan worden beïnvloed;
 
-- f. **konvooi:** een samenstel van exceptionele transporten dat als één geheel wordt begeleid door transportbegeleiders;
+- f. *konvooi:* een samenstel van exceptionele transporten dat als één geheel wordt begeleid door transportbegeleiders;
 
-- g. **transportbegeleider:** persoon als bedoeld in [artikel 1, onder h, van het Besluit administratieve bepalingen inzake het wegverkee](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=1)r;
+- g. *transportbegeleider:* persoon als bedoeld in [artikel 1, onder h, van het Besluit administratieve bepalingen inzake het wegverkee](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=1)r;
 
-- h. **voertuigdocumenten:** de documenten bedoeld in [artikel 1, onder g en h van de Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=1);
+- h. *voertuigdocumenten:* de documenten bedoeld in [artikel 1, onder g en h van de Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=1);
 
-- i. **zelfsturende besturing:** zelfsturende stuurinrichting als bedoeld in ECE R79, waarbij de stuurkrachten geleverd worden door een verandering van richting van het trekkende voertuig en waarbij de beweging van de bestuurde wielen van het getrokken voertuig is gekoppeld aan de hoek tussen de lengteas van het aanhangwagenchassis of de last die deze vervangt en de lengteas van het onderstel waaraan de as(sen) bevestigd is (zijn);
+- i. *zelfsturende besturing:* zelfsturende stuurinrichting als bedoeld in ECE R79, waarbij de stuurkrachten geleverd worden door een verandering van richting van het trekkende voertuig en waarbij de beweging van de bestuurde wielen van het getrokken voertuig is gekoppeld aan de hoek tussen de lengteas van het aanhangwagenchassis of de last die deze vervangt en de lengteas van het onderstel waaraan de as(sen) bevestigd is (zijn);
 
-- j. **VIN:** voertuigidentificatienummer als bedoeld in [verordening nr. 19/2011](32011R0019)/EU.
+- j. *VIN:* voertuigidentificatienummer als bedoeld in verordening nr. 19/2011/EU.
 
 ##### Artikel 2. Toepassingsgebied
 
@@ -131,9 +105,9 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - b. indien het een samenstel van een trekker en oplegger betreft, waarbij de afzonderlijke voertuigen voldoen aan het bepaalde in [hoofdstuk 5 afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3) respectievelijk [5 afdeling 12 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12) en de oplegger door vergroting van de wielbasis uitschuifbaar is:
 
-- 1°. tot een maximale lengte van 18 meter indien de oplegger niet is voorzien van een gedwongen besturing, of
+   - 1° tot een maximale lengte van 18 meter indien de oplegger niet is voorzien van een gedwongen besturing, of
 
-- 2°. tot een maximale lengte van 20 meter indien de oplegger is voorzien van een gedwongen besturing.
+   - 2° tot een maximale lengte van 20 meter indien de oplegger is voorzien van een gedwongen besturing.
 
 2. Een incidentele ontheffing voor een samenstel van voertuigen bestemd voor het vervoer van ondeelbare lading, waarbij in onbeladen toestand niet wordt voldaan aan [artikel 5.18.11 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11) kan worden verleend:
 
@@ -141,9 +115,9 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - b. het een samenstel van een trekker en oplegger betreft, waarbij de afzonderlijke voertuigen voldoen aan het bepaalde in [hoofdstuk 5 afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3) respectievelijk [5 afdeling 12 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12) en de oplegger door vergroting van de wielbasis uitschuifbaar is:
 
-- 1°. tot een maximale lengte van 18 meter indien de oplegger niet is voorzien van een gedwongen besturing, of
+   - 1° tot een maximale lengte van 18 meter indien de oplegger niet is voorzien van een gedwongen besturing, of
 
-- 2°. tot een maximale lengte van 20 meter indien de oplegger is voorzien van een gedwongen besturing.
+   - 2° tot een maximale lengte van 20 meter indien de oplegger is voorzien van een gedwongen besturing.
 
 ##### Artikel 7. Ontheffingen voor lengte bij beladen voertuigen
 
@@ -153,11 +127,11 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - b. het een samenstel betreft, waarbij de afzonderlijke voertuigen voldoen aan het bepaalde in [hoofdstuk 5 afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3) respectievelijk [hoofdstuk 5 afdeling 12 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12),
 
-- 1°. tot een maximale lengte van 27,50 meter waarbij de aanhangwagen door vergroting van de wielbasis uitschuifbaar is en is voorzien van gedwongen besturing, of
+   - 1° tot een maximale lengte van 27,50 meter waarbij de aanhangwagen door vergroting van de wielbasis uitschuifbaar is en is voorzien van gedwongen besturing, of
 
-- 2°. tot een maximale lengte van 22 meter indien de aanhangwagen niet zijnde oplegger door vergroting van de wielbasis uitschuifbaar is.
+   - 2° tot een maximale lengte van 22 meter indien de aanhangwagen niet zijnde oplegger door vergroting van de wielbasis uitschuifbaar is.
 
-- 3°. tot een maximale lengte van 27,50 meter indien het een samenstel van voertuigen betreft met zelfdragende lading waarbij de aanhangwagen voorzien is van zelfsturende dan wel gedwongen besturing.
+   - 3° tot een maximale lengte van 27,50 meter indien het een samenstel van voertuigen betreft met zelfdragende lading waarbij de aanhangwagen voorzien is van zelfsturende dan wel gedwongen besturing.
 
 2. Een incidentele ontheffing voor een samenstel van voertuigen bestemd voor het vervoer van ondeelbare lading, waarbij in beladen toestand niet wordt voldaan aan [artikel 5.18.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11) respectievelijk [artikel 5.18.13 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) kan worden verleend:
 
@@ -165,11 +139,11 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - b. het een samenstel betreft, waarbij de afzonderlijke voertuigen voldoen aan het bepaalde in [hoofdstuk 5, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3) respectievelijk [hoofdstuk 5, afdeling 12 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12),
 
-- 1°. waarbij de aanhangwagen door vergroting van de wielbasis uitschuifbaar is en is voorzien van gedwongen besturing, of
+   - 1° waarbij de aanhangwagen door vergroting van de wielbasis uitschuifbaar is en is voorzien van gedwongen besturing, of
 
-- 2°. tot een maximale lengte van 22 meter indien de aanhangwagen niet zijnde oplegger door vergroting van de wielbasis uitschuifbaar is.
+   - 2° tot een maximale lengte van 22 meter indien de aanhangwagen niet zijnde oplegger door vergroting van de wielbasis uitschuifbaar is.
 
-- 3°. indien het een samenstel van voertuigen betreft met zelfdragende lading waarbij de aanhangwagen voorzien is van zelfsturende dan wel gedwongen besturing.
+   - 3° indien het een samenstel van voertuigen betreft met zelfdragende lading waarbij de aanhangwagen voorzien is van zelfsturende dan wel gedwongen besturing.
 
 ##### Artikel 8. Ontheffingsdocument met bijlagen
 
@@ -335,9 +309,9 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 - b. ten aanzien van de belasting op de aangedreven as of assen: het motorvoertuig moet zodanig zijn belast dat ten minste 1/5 deel van de toegestane maximummassa van het samenstel van voertuigen op de aangedreven as of assen rust:
 
-- 1°. bij meerdere aangedreven assen tot een maximum van 10.000 kg voor een langlopende ontheffing en tot een maximum van 12.000 kg voor een incidentele ontheffing.
+   - 1° bij meerdere aangedreven assen tot een maximum van 10.000 kg voor een langlopende ontheffing en tot een maximum van 12.000 kg voor een incidentele ontheffing.
 
-- 2°. bij een enkele aangedreven as tot een maximum van 11.500 kg;
+   - 2° bij een enkele aangedreven as tot een maximum van 11.500 kg;
 
 - c. ten aanzien van het toegestane maximummassa van een voertuig of van een samenstel van voertuigen en maximale aslasten: het gestelde in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=17), [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=18) en [artikel 19, tweede en derde lid van de Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=19). Deze onderzoeken vinden plaats bij de RDW. Het onder a genoemde onderzoek wordt uitgevoerd aan de hand van het bepaalde in [artikel 13, eerste lid, onder a en c en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=13) dan wel [artikel 14, eerste en derde lid van de Beleidsregel ontheffing gerelateerde documenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=14);
 
@@ -353,11 +327,11 @@ Dit onderzoek wordt uitgevoerd aan de hand van het bepaalde in [artikel 13, eers
 
 - b. een gedetailleerde routebeschrijving van wegen of weggedeeltes indien:
 
-- 1°. sprake is van omstandigheden die inzet van meer dan twee transportbegeleiders vereisen;
+   - 1° sprake is van omstandigheden die inzet van meer dan twee transportbegeleiders vereisen;
 
-- 2°. sprake is van wegnemen en terugplaatsen van wegmeubilair of andere fysieke maatregelen die noodzakelijk zijn om passage mogelijk te maken;
+   - 2° sprake is van wegnemen en terugplaatsen van wegmeubilair of andere fysieke maatregelen die noodzakelijk zijn om passage mogelijk te maken;
 
-- 3°. meer dan vijf minuten vertraging op een wegvak voor weggebruikers kan ontstaan, doordat manoeuvreren dan wel een lagere snelheid dan de voor het exceptionele transport ter plaatse geldende maximumsnelheid noodzakelijk is.
+   - 3° meer dan vijf minuten vertraging op een wegvak voor weggebruikers kan ontstaan, doordat manoeuvreren dan wel een lagere snelheid dan de voor het exceptionele transport ter plaatse geldende maximumsnelheid noodzakelijk is.
 
 #### § 3. Voorschriften verbonden aan ontheffingen
 
@@ -379,60 +353,8 @@ De [Beleidsregel Ontheffingverlening exceptionele transporten Dienst Wegverkeer 
 
 ##### Artikel 20. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2015.
+Deze beleidsregel treedt in werking met ingang van 1 januari 2015.
 
 ##### Artikel 21. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015.
-
-## Bijlage A. Bij [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=3&artikel=17&z=2022-05-01&g=2022-05-01)
-
-### Algemene voorschriften
-
-### Artikel 1. Voertuigdocumenten
-
-### Artikel 2. Passagemogelijkheden
-
-### Artikel 3. Buitengewone omstandigheden
-
-### Artikel 4. Plaats op de rijbaan
-
-### Artikel 5. Konvooien
-
-### Artikel 6. Markering
-
-### Artikel 7. Hulpbesturing
-
-Indien in het voertuig hulpbesturing aanwezig is, geldt ten aanzien van het gebruik van de hulpbesturing dat:
-
-### Artikel 8. Bijplaatsen lading
-
-Het bijplaatsen van lading is toegestaan, indien deze lading:
-
-### Artikel 9. Modulaire voertuigen
-
-Voor modulaire voertuigen geldt dat het modulair samengestelde voertuig het kenteken van het voor het achterste asstel afgegeven kenteken moet voeren.
-
-### Artikel 10. Dollycombinatie
-
-### Artikel 11. Gebruik voertuig in onbeladen toestand
-
-Het voertuig of samenstel van voertuigen moet bij gebruik in onbeladen toestand volledig zijn ingeschoven.
-
-### Artikel 12. Bestreken baaneisen
-
-Een samenstel van voertuigen voor exceptioneel transport moet tot een lengte van maximaal 27 meter, naar beide zijden een cirkel kunnen beschrijven binnen een ruimte die wordt begrensd door twee concentrische cirkels zoals in onderstaande tabel en tekening is vermeld zonder dat één van de buitenpunten van de voertuigen buiten de omtrek van de cirkels komt.
-
-Voor een samenstel van voertuigen waarvan het getrokken voertuig een getrokken werktuig is moet deze vanaf een lengte van 22 meter voldoen aan onderstaande tabel en tekening
-
-### Artikel 13. Vervangend voertuig of samenstel van voertuigen
-
-Indien een ander, vervangend, voertuig of samenstel van voertuigen dan in de ontheffing is vermeld bij de uitvoering van het exceptioneel transport wordt gebruikt, geldt onverminderd het bepaalde in artikel 1 van deze bijlage, het volgende:
-
-Deze beleidsregel zal met bijlagen en de toelichting in de Staatcourant worden geplaatst.
-
-### Artikel 14. Communicatie chauffeur en transportbegeleider
-
-Bij de uitvoering van een exceptioneel transport vindt de communicatie tussen de chauffeur en de transportbegeleider indien dit niet in het Nederlands is, plaats in een gangbare, voor beiden begrijpelijke taal.
-
-Deze beleidsregel zal met bijlagen en de toelichting in de Staatcourant worden geplaatst.

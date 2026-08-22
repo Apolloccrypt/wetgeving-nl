@@ -1,44 +1,18 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2014, houdende nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2014 (Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014)"
+citeertitel: "Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014"
 identifier: "BWBR0036030"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-30"
-last_updated: "2014-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036030"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "12912813"
-version_id: "21976572"
-internal_id: "C31522661"
-label_id: "12882064"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036030/2014-12-30/0"
-intitule_bron: "Stcrt.2014-37370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-15"
-intitule_published: "2014-12-29"
-intitule_in_force: "2014-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-37370"
-original_signed_date: "2014-12-15"
-original_published_date: "2014-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-37370"
-entry_into_force_date: "2014-12-30"
-jci_1_3: "jci1.3:c:BWBR0036030&z=2014-12-30&g=2014-12-30"
-jci_1_0: "1.0:c:BWBR0036030&g=2014-12-30"
-citeertitel_status: "officieel"
-short_title: "Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014"
-signed_date: "2014-12-15"
-entry_into_force: "2014-12-30"
+publicatiedatum: 2014-12-30
+laatste_update: 2014-12-30
+status: geldig
+toestand: 2014-12-30
+bron: "https://wetten.overheid.nl/BWBR0036030"
+opgehaald: 2026-08-22
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2014, houdende nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2014 (Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014)
-
-Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -65,5 +39,3 @@ Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte
 ##### Artikel 6
 
 Deze aanwijzing wordt aangehaald als: Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014.
-
-Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.

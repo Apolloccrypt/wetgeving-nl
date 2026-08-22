@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur-generaal Vreemdelingenzaken van het Ministerie van Veiligheid en Justitie van 19 februari 2015, nr. 2015-618410, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende ambtenaren (Mandaatbesluit DGVZ Ministerie van Veiligheid en Justitie 2015)"
+citeertitel: "Mandaatbesluit DGVZ Ministerie van Veiligheid en Justitie 2015"
 identifier: "BWBR0036388"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-22"
-last_updated: "2016-04-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036388"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13005693"
-version_id: "23126662"
-internal_id: "C33426721"
-label_id: "12974544"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036388/2016-04-22/0"
-intitule_bron: "Stcrt.2015-5511"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-19"
-intitule_published: "2015-03-09"
-intitule_in_force: "2015-03-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-20150"
-original_signed_date: "2016-04-07"
-original_published_date: "2016-04-21"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2016-20150"
-entry_into_force_date: "2016-04-07"
-jci_1_3: "jci1.3:c:BWBR0036388&z=2016-04-22&g=2016-04-22"
-jci_1_0: "1.0:c:BWBR0036388&g=2016-04-22"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit DGVZ Ministerie van Veiligheid en Justitie 2015"
-signed_date: "2016-04-07"
-entry_into_force: "2016-04-07"
+publicatiedatum: 2016-04-07
+laatste_update: 2016-04-22
+status: geldig
+toestand: 2016-04-22
+bron: "https://wetten.overheid.nl/BWBR0036388"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de directeur-generaal Vreemdelingenzaken van het Ministerie van Veiligheid en Justitie van 19 februari 2015, nr. 2015-618410, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende ambtenaren (Mandaatbesluit DGVZ Ministerie van Veiligheid en Justitie 2015)
-
-Gelet op [artikel 3 van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030842&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -70,6 +44,10 @@ Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen e
 
 Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), alsmede daaraan gerelateerde besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), verzoeken om schadevergoeding, en de behandeling van klachten, worden aangewezen de ambtenaren genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2016-04-22&g=2016-04-22) bij dit besluit voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
 
+##### Artikel 4a
+
+De uit dit besluit voortvloeiende bevoegdheden gaan in geval van afwezigheid van de gemandateerde over op diens plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
+
 ##### Artikel 5
 
 Aan de directeur-generaal blijft voorbehouden:
@@ -93,27 +71,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Mandaatbesluit DGVZ Ministerie van Veiligheid en Justitie 2015.
-
-## Bijlage 1
-
-Ligt ter inzage bij het ministerie.
-
-## Bijlage 1
-
-Ligt ter inzage bij het ministerie.
-
-## Bijlage 2
-
-Ligt ter inzage bij het ministerie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=1&z=2015-03-10&g=2016-02-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=2&z=2015-03-10&g=2016-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2015-03-10&g=2016-02-01) bij dit besluit liggen bij het ministerie ter inzage.
-
-##### Artikel 4a
-
-De uit dit besluit voortvloeiende bevoegdheden gaan in geval van afwezigheid van de gemandateerde over op diens plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
-
-## Bijlage 3
-
-Ligt ter inzage bij het ministerie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=1&z=2016-04-22&g=2016-04-22), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=2&z=2016-04-22&g=2016-04-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2016-04-22&g=2016-04-22) bij dit besluit liggen bij het ministerie ter inzage.

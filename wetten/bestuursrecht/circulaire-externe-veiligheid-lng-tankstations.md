@@ -1,38 +1,16 @@
 ---
 title: "Circulaire externe veiligheid LNG-tankstations"
 identifier: "BWBR0036225"
-country: "nl"
-rank: "circulaire"
-publication_date: "2015-02-04"
-last_updated: "2015-02-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036225"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "12973043"
-version_id: "22129292"
-internal_id: "C31735871"
-label_id: "12942094"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036225/2015-02-04/0"
-intitule_bron: "Stcrt.2015-3125"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-01-28"
-intitule_published: "2015-02-04"
-intitule_in_force: "2015-02-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-3125"
-original_signed_date: "2015-01-28"
-original_published_date: "2015-02-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-3125"
-entry_into_force_date: "2015-02-04"
-jci_1_3: "jci1.3:c:BWBR0036225&z=2015-02-04&g=2015-02-04"
-jci_1_0: "1.0:c:BWBR0036225&g=2015-02-04"
-citeertitel_status: "redactioneel"
-signed_date: "2015-01-28"
-entry_into_force: "2015-02-04"
+publicatiedatum: 2015-02-04
+laatste_update: 2015-02-04
+status: geldig
+toestand: 2015-02-04
+bron: "https://wetten.overheid.nl/BWBR0036225"
+opgehaald: 2026-08-22
 ---
+
 # Circulaire externe veiligheid LNG-tankstations
 
 In deze circulaire wordt het interimbeleid weergegeven ten aanzien van de beoordeling van externe veiligheidsrisico’s van LNG1LNG (Liquefied Natural Gas) is vloeibaar gemaakt aardgas.-tankstations. Deze circulaire is gericht aan het bevoegd gezag dat te maken heeft met de vergunningverlening voor milieu en de ruimtelijke ordening in relatie tot de LNG-tankstations.
@@ -50,5 +28,13 @@ Het gaat daarbij enerzijds om de beoordeling van aanvragen om omgevingsvergunnin
 Met deze circulaire wordt het bevoegd gezag voor milieu en voor ruimtelijke ordening verzocht om bij de beoordeling van aanvragen om omgevingsvergunningen voor milieu voor LNG-tankstations en het nemen van ruimtelijke ordeningsbesluiten voor gebieden in de omgeving van een LNG-tankstation, het in deze circulaire neergelegde beleid te hanteren.
 
 Het beleid houdt kort gezegd in:
+
+- – Voor het plaatsgebonden risico en het groepsrisico4Ook wel PR en GR. Voor een definitie van deze begrippen wordt naar het Bevi verwezen. worden de waarden en de systematiek uit het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) aangehouden.
+
+- – De risico’s van LNG-tankstations worden berekend met de rekenmethodiek LNG-tankstations5zie: http://www.rivm.nl/Documenten_en_publicaties/Professioneel_Praktisch/Protocollen/Milieu_Leefomgeving/Externe_Veiligheid/Concept_rekenmethodiek_LNG_tankstations.
+
+- – Als eerste aanvulling op de systematiek uit het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) wordt een minimumafstand van 50 meter gehanteerd tot (beperkt) kwetsbare objecten.
+
+- – Als tweede aanvulling op de systematiek uit het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) krijgen effectafstanden een rol.
 
 Bij deze circulaire vindt u een toelichting waarin de hier genoemde hoofdlijn nader uitgewerkt is. Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd.

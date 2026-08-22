@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 juni 2015, houdende regels over het financieel beheer van de politie (Besluit financieel beheer politie)"
+citeertitel: "Besluit financieel beheer politie"
 identifier: "BWBR0036711"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036711"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13183883"
-version_id: "22467752"
-internal_id: "C32246911"
-label_id: "13152384"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036711/2025-04-01/0"
-intitule_bron: "Stb.2015-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-08"
-intitule_published: "2015-06-23"
-intitule_in_force: "2015-06-23"
-intitule_status: "goed"
-original_publication: "Stb.2015-222"
-original_signed_date: "2015-06-08"
-original_published_date: "2015-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2015-222"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036711&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0036711&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit financieel beheer politie"
-signed_date: "2015-06-08"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0036711"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 8 juni 2015, houdende regels over het financieel beheer van de politie (Besluit financieel beheer politie)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 19 februari 2015, nr. 616920, gedaan in overeenstemming met Onze Minister van Financiën;
-
-Gelet op [artikel 30, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 8 april 205, nr. W03.15.0037/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 3 juni 2015, nr. 635432, uitgebracht mede in overeenstemming met Onze Minister van Financiën;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,23 +20,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **algemene bijdrage:** bijdrage voor het geheel van werkzaamheden dat wettelijk tot de taak van de politie behoort, niet zijnde een bijzondere bijdrage;
+- a. *algemene bijdrage:* bijdrage voor het geheel van werkzaamheden dat wettelijk tot de taak van de politie behoort, niet zijnde een bijzondere bijdrage;
 
-- b. **bijzondere bijdrage:** bijdrage voor een specifiek omschreven doel;
+- b. *bijzondere bijdrage:* bijdrage voor een specifiek omschreven doel;
 
-- c. **begrotingsjaar:** het kalenderjaar waarvoor de begroting dient;
+- c. *begrotingsjaar:* het kalenderjaar waarvoor de begroting dient;
 
-- d. **verslagjaar:** het kalenderjaar waarover verslag wordt uitgebracht;
+- d. *verslagjaar:* het kalenderjaar waarover verslag wordt uitgebracht;
 
-- e. **begroting:** de begroting, bedoeld in [artikel 34 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34);
+- e. *begroting:* de begroting, bedoeld in [artikel 34 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34);
 
-- f. **meerjarenraming:** de meerjarenraming, bedoeld in [artikel 34 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34);
+- f. *meerjarenraming:* de meerjarenraming, bedoeld in [artikel 34 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34);
 
-- g. **managementrapportage:** rapportage van de korpschef aan Onze Minister waarin wordt ingegaan op de financiële stand van zaken van de politie;
+- g. *managementrapportage:* rapportage van de korpschef aan Onze Minister waarin wordt ingegaan op de financiële stand van zaken van de politie;
 
-- h. **jaarrekening:** de jaarrekening, bedoeld in [artikel 35 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=35);
+- h. *jaarrekening:* de jaarrekening, bedoeld in [artikel 35 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=35);
 
-- i. **jaaraanschrijving:** de jaaraanschrijving, bedoeld in [artikel 45 van het Besluit beheer politie](onbekend).
+- i. *jaaraanschrijving:* de jaaraanschrijving, bedoeld in artikel 45 van het Besluit beheer politie.
 
 ##### Artikel 2
 
@@ -86,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De korpschef zendt een ontwerp van de begroting van de politie en het daarbij behorende ontwerp van de meerjarenraming voor het komende begrotingsjaar voor 1 juli aan Onze Minister.
+1. De korpschef zendt een ontwerp van de begroting van de politie en het daarbij behorende ontwerp van de meerjarenraming voor het komende begrotingsjaar voor 1 juli aan Onze Minister.
 
 2. De door Onze Minister voorgenomen begroting van de politie en de daarbij behorende voorgenomen meerjarenraming wordt als bijlage bij de begroting van het Ministerie van Justitie en Veiligheid aan de Staten-Generaal gezonden.
 
@@ -94,23 +62,23 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De korpschef verstrekt jaarlijks uiterlijk op 1 januari aan Onze Minister de informatie die van belang is voor de Voorjaarsnota, bedoeld in [artikel 2.26, derde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.26).
+1. De korpschef verstrekt jaarlijks uiterlijk op 1 januari aan Onze Minister de informatie die van belang is voor de Voorjaarsnota, bedoeld in [artikel 2.26, derde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.26).
 
-2. De korpschef verstrekt jaarlijks uiterlijk op 1 september aan Onze Minister de informatie die van belang is voor de Najaarsnota, bedoeld in [artikel 2.26, derde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.26).
+2. De korpschef verstrekt jaarlijks uiterlijk op 1 september aan Onze Minister de informatie die van belang is voor de Najaarsnota, bedoeld in [artikel 2.26, derde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.26).
 
 ##### Artikel 6
 
 1. De korpschef verstrekt aan Onze Minister een 4-maands-, een 8-maands- en een 12-maandsmanagementrapportage en afzonderlijke managementrapportages over de maanden tot en met februari, juni en oktober.
 
-2. De 4-maands-, de 8-maands- en de 12-maandsmanagementrapportage worden telkens uiterlijk op respectievelijk 1 juni, 1 oktober en 1 februari verstrekt aan Onze Minister.
+2. De 4-maands-, de 8-maands- en de 12-maandsmanagementrapportage worden telkens uiterlijk op respectievelijk 1 juni, 1 oktober en 1 februari verstrekt aan Onze Minister.
 
 3. De managementrapportages over de maanden tot en met februari, juni en oktober worden binnen 4 weken na het einde van de betreffende periode verstrekt aan Onze Minister.
 
 ##### Artikel 7
 
-1. De korpschef zendt voor 1 april een ontwerp van de jaarrekening over het afgelopen verslagjaar aan Onze Minister.
+1. De korpschef zendt voor 1 april een ontwerp van de jaarrekening over het afgelopen verslagjaar aan Onze Minister.
 
-2. Onze Minister stelt jaarlijks vóór 15 mei, ten behoeve van zijn verantwoording aan de Staten-Generaal in het jaar volgend op het verslagjaar, de jaarrekening vast.
+2. Onze Minister stelt jaarlijks vóór 15 mei, ten behoeve van zijn verantwoording aan de Staten-Generaal in het jaar volgend op het verslagjaar, de jaarrekening vast.
 
 3. De jaarrekening wordt als bijlage van het jaarverslag van het Ministerie van Justitie en Veiligheid ter informatie aan de Staten-Generaal gezonden.
 
@@ -136,7 +104,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 10
 
-1. Het totaal van de bijdragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=4&artikel=9&z=2025-04-01&g=2025-04-01), wordt betaalbaar gesteld in vier termijnen, respectievelijk op 15 januari, 15 april, 15 juli en 15 oktober van elk jaar.
+1. Het totaal van de bijdragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=4&artikel=9&z=2025-04-01&g=2025-04-01), wordt betaalbaar gesteld in vier termijnen, respectievelijk op 15 januari, 15 april, 15 juli en 15 oktober van elk jaar.
 
 2. De hoogte van de bijdrage per termijn wordt bepaald aan de hand van de liquiditeitsbehoefte van de politie.
 
@@ -200,7 +168,7 @@ Het eigen vermogen bestaat uitsluitend uit een algemene reserve.
 
 ##### Artikel 14
 
-1. Het rekening-courantkrediet bij het Ministerie van Financiën bedraagt maximaal € 250 miljoen.
+1. Het rekening-courantkrediet bij het Ministerie van Financiën bedraagt maximaal € 250 miljoen.
 
 2. De begroting bevat naast de meerjarenraming een financieringsparagraaf met daarin opgenomen een investeringsplan.
 
@@ -226,11 +194,11 @@ Het eigen vermogen bestaat uitsluitend uit een algemene reserve.
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=13&z=2025-04-01&g=2025-04-01) is in de balans van de politie een bestemmingsreserves toegestaan voor ICT tot maximaal € 366 miljoen.
+1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=13&z=2025-04-01&g=2025-04-01) is in de balans van de politie een bestemmingsreserves toegestaan voor ICT tot maximaal € 366 miljoen.
 
 2. De bestemmingsreserve, bedoeld in het eerste lid, wordt niet meegewogen in de vaststelling van de omvang van het eigen vermogen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=15&z=2025-04-01&g=2025-04-01).
 
@@ -238,14 +206,12 @@ Vervallen
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Dit besluit treedt in werking op 1 juli 2015.
+Dit besluit treedt in werking op 1 juli 2015.
 
 ##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit financieel beheer politie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

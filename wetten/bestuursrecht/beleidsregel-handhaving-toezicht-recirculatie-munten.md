@@ -1,38 +1,16 @@
 ---
 title: "Beleidsregel handhaving toezicht recirculatie munten"
 identifier: "BWBR0036413"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-03-18"
-last_updated: "2015-03-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036413"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13011053"
-version_id: "22234282"
-internal_id: "C31879261"
-label_id: "12980064"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036413/2015-03-18/0"
-intitule_bron: "Stcrt.2015-7165"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-03-03"
-intitule_published: "2015-03-17"
-intitule_in_force: "2015-03-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-7165"
-original_signed_date: "2015-03-03"
-original_published_date: "2015-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-7165"
-entry_into_force_date: "2015-03-18"
-jci_1_3: "jci1.3:c:BWBR0036413&z=2015-03-18&g=2015-03-18"
-jci_1_0: "1.0:c:BWBR0036413&g=2015-03-18"
-citeertitel_status: "officieel"
-signed_date: "2015-03-03"
-entry_into_force: "2015-03-18"
+publicatiedatum: 2015-03-18
+laatste_update: 2015-03-18
+status: geldig
+toestand: 2015-03-18
+bron: "https://wetten.overheid.nl/BWBR0036413"
+opgehaald: 2026-08-22
 ---
+
 # Beleidsregel handhaving toezicht recirculatie munten
 
 ### 1. Inleiding
@@ -41,9 +19,15 @@ De Nederlandsche Bank NV (DNB) heeft een handhavende bevoegdheid op grond van [a
 
 Hieronder wordt ingegaan op het beleid dat door DNB wordt toegepast voor de handhaving van:
 
+- • artikel 6, eerste lid, van de Verordening (EG) 1338/2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij1PbEG 2001, L 181, laatstelijk gewijzigd door Verordening (EG) 44/2009 tot wijziging van Verordening (EG) nr. 1338/2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij, PbEG 2009, L 17., voor zover dat artikel betrekking heeft op munten,
+
+- • de artikelen 3, eerste en tweede lid, en 4, eerste lid, van de Verordening (EU) 1210/2010 betreffende de echtheidscontrole van euromunten en de behandeling van euromunten die ongeschikt zijn voor circulatie2PbEG 2010, L 339/1., en
+
+- • [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) (Awb) betreffende de verplichting aan een ieder om medewerking te verlenen.
+
 Hierna ook gezamenlijk aan te duiden als ‘relevante wettelijke artikelen’.
 
-De bepalingen waarop de toezichtstaak is gebaseerd komen als eerste aan de orde (paragraaf 2). Daarna wordt omschreven op welke wijze DNB toezicht houdt op de naleving van deze bepalingen (paragraaf 3) en volgen de doelstelling en uitgangspunten die de toezichthouders hanteren bij hun handhavingsbeleid (paragraaf 4). Tot slot wordt uiteengezet welke factoren een rol spelen bij de inzet van handhavingsinstrumenten (paragraaf 5).
+De bepalingen waarop de toezichtstaak is gebaseerd komen als eerste aan de orde ([paragraaf 2](https://wetten.overheid.nl/BWBR0036413)). Daarna wordt omschreven op welke wijze DNB toezicht houdt op de naleving van deze bepalingen ([paragraaf 3](https://wetten.overheid.nl/BWBR0036413)) en volgen de doelstelling en uitgangspunten die de toezichthouders hanteren bij hun handhavingsbeleid ([paragraaf 4](https://wetten.overheid.nl/BWBR0036413)). Tot slot wordt uiteengezet welke factoren een rol spelen bij de inzet van handhavingsinstrumenten ([paragraaf 5](https://wetten.overheid.nl/BWBR0036413)).
 
 ### 2. Toezichttaak; norm en geadresseerden
 
@@ -59,7 +43,7 @@ DNB heeft in haar ‘[Besluit aanwijzing toezichthouders recirculatie munten](ht
 
 In deze paragraaf wordt ingegaan op de wijze waarop het toezicht op muntverwerking de naleving van bepalingen van de wet- en regelgeving bewerkstelligt.
 
-De Toezichthouders recirculatie munten voeren de controles uit op de naleving van de relevante wettelijke artikelen. Indien de Toezichthouders recirculatie munten een overtreding van wet- en regelgeving constateren kan DNB, afhankelijk van het gekozen handhavingsinstrument, handhavend optreden. Niet elke overtreding leidt tot de inzet van een wettelijk handhavingsinstrument. Andere instrumenten, zoals een normoverdragend gesprek (al dan niet met een Toezichthouder recirculatie munten van KNM) of een waarschuwingsbrief kunnen een belangrijke rol spelen in de handhaving. In veel gevallen zal een gesprek of brief reeds het gewenste effect hebben, namelijk normconform gedrag. Dit betekent overigens niet dat in alle gevallen waarin een overtreding wordt geconstateerd, in eerste instantie een normoverdragend gesprek zal worden gevoerd of een waarschuwingsbrief zal worden verzonden. Of daartoe zal worden overgegaan, zal altijd afhangen van de omstandigheden van het geval en de weging van de factoren, zoals hierna is uitgewerkt in paragraaf 5.
+De Toezichthouders recirculatie munten voeren de controles uit op de naleving van de relevante wettelijke artikelen. Indien de Toezichthouders recirculatie munten een overtreding van wet- en regelgeving constateren kan DNB, afhankelijk van het gekozen handhavingsinstrument, handhavend optreden. Niet elke overtreding leidt tot de inzet van een wettelijk handhavingsinstrument. Andere instrumenten, zoals een normoverdragend gesprek (al dan niet met een Toezichthouder recirculatie munten van KNM) of een waarschuwingsbrief kunnen een belangrijke rol spelen in de handhaving. In veel gevallen zal een gesprek of brief reeds het gewenste effect hebben, namelijk normconform gedrag. Dit betekent overigens niet dat in alle gevallen waarin een overtreding wordt geconstateerd, in eerste instantie een normoverdragend gesprek zal worden gevoerd of een waarschuwingsbrief zal worden verzonden. Of daartoe zal worden overgegaan, zal altijd afhangen van de omstandigheden van het geval en de weging van de factoren, zoals hierna is uitgewerkt in [paragraaf 5](https://wetten.overheid.nl/BWBR0036413).
 
 ### 4. Doelstelling en uitgangspunten
 
@@ -71,7 +55,7 @@ Bij de wijze waarop de Toezichthouders recirculatie munten optreden, staat het b
 
 ### b. Optreden afhankelijk van inhoud en strekking van de norm
 
-De aard van de reactie van Toezichthouders recirculatie munten en/of DNB op een overtreding wordt overwegend bepaald door de inhoud en strekking van de overtreden norm (zie onder 5). Zodra een overtreding van een norm is geconstateerd wordt in beginsel – overeenkomstig het uitgangspunt zoals weergegeven onder c – normconform gedrag afgedwongen door de inzet van handhavingsinstrumenten.
+De aard van de reactie van Toezichthouders recirculatie munten en/of DNB op een overtreding wordt overwegend bepaald door de inhoud en strekking van de overtreden norm (zie onder [5](https://wetten.overheid.nl/BWBR0036413)). Zodra een overtreding van een norm is geconstateerd wordt in beginsel – overeenkomstig het uitgangspunt zoals weergegeven onder [c](https://wetten.overheid.nl/BWBR0036413) – normconform gedrag afgedwongen door de inzet van handhavingsinstrumenten.
 
 ### c. Optreden zodra bekend met een overtreding (niet gedogen)
 
@@ -87,11 +71,11 @@ Het handhavend optreden is in overeenstemming met de algemene beginselen van beh
 
 ### 5. Inzet van handhavingsinstrumenten
 
-Naast de hiervoor in paragraaf 3 genoemde handhavingsinstrumenten (normoverdragend gesprek en de waarschuwingsbrief) beschikt DNB over wettelijke handhavingsinstrumenten te weten de last onder dwangsom en de bestuurlijke boete.
+Naast de hiervoor in [paragraaf 3](https://wetten.overheid.nl/BWBR0036413) genoemde handhavingsinstrumenten (normoverdragend gesprek en de waarschuwingsbrief) beschikt DNB over wettelijke handhavingsinstrumenten te weten de last onder dwangsom en de bestuurlijke boete.
 
-In alle gevallen geldt dat de handhavingsinstrumenten kunnen of moeten worden ingezet ten behoeve van de naleving van de normen en het doel van de wet- en regelgeving. Naast of in plaats van de inzet van deze handhavingsinstrumenten bestaat in vele gevallen ook de mogelijkheid om van een overtreding aangifte te doen bij het Openbaar Ministerie (OM), zoals hierna beschreven onder a.
+In alle gevallen geldt dat de handhavingsinstrumenten kunnen of moeten worden ingezet ten behoeve van de naleving van de normen en het doel van de wet- en regelgeving. Naast of in plaats van de inzet van deze handhavingsinstrumenten bestaat in vele gevallen ook de mogelijkheid om van een overtreding aangifte te doen bij het Openbaar Ministerie (OM), zoals hierna beschreven onder [a](https://wetten.overheid.nl/BWBR0036413).
 
-Bij de beoordeling die ten grondslag ligt aan de inzet van handhavingsinstrumenten worden alle relevante feiten en af te wegen belangen betrokken. Tegen de achtergrond van de in paragraaf 4 geformuleerde uitgangspunten kan op voorhand een aantal factoren worden genoemd dat daarbij van belang kan zijn. Dit zijn de volgende.
+Bij de beoordeling die ten grondslag ligt aan de inzet van handhavingsinstrumenten worden alle relevante feiten en af te wegen belangen betrokken. Tegen de achtergrond van de in [paragraaf 4](https://wetten.overheid.nl/BWBR0036413) geformuleerde uitgangspunten kan op voorhand een aantal factoren worden genoemd dat daarbij van belang kan zijn. Dit zijn de volgende.
 
 ### a. Bestuursrechtelijke of strafrechtelijke aanpak
 
@@ -103,9 +87,29 @@ Indien de geconstateerde overtreding nog voortduurt, is het handhavend optreden 
 
 ### c. Relevante omstandigheden en belangen bij de keuze voor een handhavingsinstrument
 
-Bij de keuze voor de inzet van een handhavingsinstrument in een concrete zaak houdt DNB rekening met alle relevante omstandigheden van het geval en wegen zij de rechtstreeks bij het besluit betrokken belangen af (zie paragraaf 4.e).
+Bij de keuze voor de inzet van een handhavingsinstrument in een concrete zaak houdt DNB rekening met alle relevante omstandigheden van het geval en wegen zij de rechtstreeks bij het besluit betrokken belangen af (zie [paragraaf 4.e](https://wetten.overheid.nl/BWBR0036413)).
 
 Meer specifiek betekent dit dat DNB bij haar beoordeling onder meer betrekt, indien en voor zover in het concrete geval van toepassing:
+
+- • of sprake is van recidive;-in welke mate de overtreding verwijtbaar is;
+
+- • in welke mate door de overtreding derden zijn benadeeld en, zo ja, of zij door de overtreder uit eigen beweging zijn gecompenseerd;
+
+- • in welke mate de overtreder door de overtreding voordeel heeft verkregen;
+
+- • of de overtreder uit eigen beweging de overtreding heeft beëindigd;
+
+- • wat de duur van de overtreding is geweest;
+
+- • in hoeverre de overtreder medewerking heeft verleend aan het onderzoek;
+
+- • wat de financiële draagkracht van de overtreder is;
+
+- • wat het economisch effect van de toezichtmaatregel op de overtreder is;
+
+- • of de overtreding heeft geleid tot marktverstoring;
+
+- • of door de overtreding het vertrouwen in de eurobankbiljetten is geschaad.
 
 Deze opsomming van factoren is niet uitputtend en de weging van de genoemde factoren kan van geval tot geval verschillen.
 
@@ -116,5 +120,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na publicatie daarvan 
 ### 7. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel handhaving toezicht recirculatie munten.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

@@ -1,48 +1,18 @@
 ---
 title: "Wet van 16 april 2015 tot implementatie van de Richtlijn 2013/11/EU van het Europees Parlement en de Raad van 21 mei 2013 betreffende alternatieve beslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG en uitvoering van de Verordening (EU) nr. 524/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (Implementatiewet buitengerechtelijke geschillenbeslechting consumenten)"
+citeertitel: "Implementatiewet buitengerechtelijke geschillenbeslechting consumenten"
 identifier: "BWBR0036550"
-country: "nl"
-rank: "wet"
-publication_date: "2018-09-19"
-last_updated: "2018-09-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036550"
+categorie: "Overig"
 soort: "wet"
-stam_id: "13143913"
-version_id: "22402582"
-internal_id: "C32091321"
-label_id: "13112914"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036550/2018-09-19/0"
-intitule_bron: "Stb.2015-160"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-04-16"
-intitule_published: "2015-04-30"
-intitule_in_force: "2015-04-30"
-intitule_status: "goed"
-original_publication: "Stb.2015-160"
-original_signed_date: "2015-04-16"
-original_published_date: "2015-04-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "33982"
-original_url_id: "stb-2015-160"
-entry_into_force_date: "2015-07-09"
-entry_into_force_dossier: "33982"
-jci_1_3: "jci1.3:c:BWBR0036550&z=2018-09-19&g=2018-09-19"
-jci_1_0: "1.0:c:BWBR0036550&g=2018-09-19"
-citeertitel_status: "officieel"
-short_title: "Implementatiewet buitengerechtelijke geschillenbeslechting consumenten"
-signed_date: "2015-04-16"
-entry_into_force: "2015-07-09"
+publicatiedatum: 2015-07-09
+laatste_update: 2018-09-19
+status: geldig
+toestand: 2018-09-19
+bron: "https://wetten.overheid.nl/BWBR0036550"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 16 april 2015 tot implementatie van de Richtlijn 2013/11/EU van het Europees Parlement en de Raad van 21 mei 2013 betreffende alternatieve beslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG en uitvoering van de Verordening (EU) nr. 524/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (Implementatiewet buitengerechtelijke geschillenbeslechting consumenten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is te voorzien in wettelijke regels om uitvoering te geven aan [Richtlijn 2013/11](32013L0011)/EU van het Europees parlement en de Raad van 21 mei 2013 betreffende alternatieve beslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en [Richtlijn 2009/22/EG](32009L0022) (PbEU 2013, L165) alsmede aan Verordening (EU) Nr. 524/2013 van het Europees parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en [Richtlijn 2009/22/EG](32009L0022) (PbEU 2013, L165);
-
-Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Definities en toepassingsbereik
 
@@ -50,43 +20,44 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 1. In deze wet wordt verstaan onder:
 
-- a. **consument:** iedere natuurlijke persoon die handelt voor doeleinden die buiten zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit vallen;
+- a. *consument:* iedere natuurlijke persoon die handelt voor doeleinden die buiten zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit vallen;
 
-- b. **ondernemer:** iedere natuurlijke of rechtspersoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt;
+- b. *ondernemer:* iedere natuurlijke of rechtspersoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt;
 
-- c. **koopovereenkomst:** de overeenkomst, bedoeld in [artikel 1 van Boek 7 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=1), die wordt gesloten tussen een consument en een ondernemer, met inbegrip van elke overeenkomst die zowel goederen als diensten betreft;
+- c. *koopovereenkomst:* de overeenkomst, bedoeld in [artikel 1 van Boek 7 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=1), die wordt gesloten tussen een consument en een ondernemer, met inbegrip van elke overeenkomst die zowel goederen als diensten betreft;
 
-- d. **overeenkomst tot het verrichten van diensten:** iedere andere overeenkomst dan een koopovereenkomst, waarbij de ondernemer zich jegens de consument verbindt een dienst te verrichten en de consument zich verbindt de prijs daarvan te betalen;
+- d. *overeenkomst tot het verrichten van diensten:* iedere andere overeenkomst dan een koopovereenkomst, waarbij de ondernemer zich jegens de consument verbindt een dienst te verrichten en de consument zich verbindt de prijs daarvan te betalen;
 
-- e. **binnenlands geschil:** een geschil dat voortvloeit uit een koopovereenkomst of een overeenkomst tot het verrichten van diensten, wanneer de consument, op het tijdstip waarop de overeenkomst is gesloten, woonachtig is in dezelfde lidstaat als die waar de ondernemer is gevestigd;
+- e. *binnenlands geschil:* een geschil dat voortvloeit uit een koopovereenkomst of een overeenkomst tot het verrichten van diensten, wanneer de consument, op het tijdstip waarop de overeenkomst is gesloten, woonachtig is in dezelfde lidstaat als die waar de ondernemer is gevestigd;
 
-- f. **grensoverschrijdend geschil:** een geschil dat voortvloeit uit een koopovereenkomst of een overeenkomst tot het verrichten van diensten, wanneer de consument, op het tijdstip waarop de overeenkomst is gesloten, woonachtig is in een andere lidstaat dan die waar de ondernemer is gevestigd;
+- f. *grensoverschrijdend geschil:* een geschil dat voortvloeit uit een koopovereenkomst of een overeenkomst tot het verrichten van diensten, wanneer de consument, op het tijdstip waarop de overeenkomst is gesloten, woonachtig is in een andere lidstaat dan die waar de ondernemer is gevestigd;
 
-- g. **procedure tot buitengerechtelijke geschillenbeslechting:** een procedure als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=1&artikel=2&z=2018-09-19&g=2018-09-19) die voldoet aan de vereisten van deze wet en door een instantie tot buitengerechtelijke geschillenbeslechting in de zin van deze wet wordt uitgevoerd;
+- g. *procedure tot buitengerechtelijke geschillenbeslechting:* een procedure als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=1&artikel=2&z=2018-09-19&g=2018-09-19) die voldoet aan de vereisten van deze wet en door een instantie tot buitengerechtelijke geschillenbeslechting in de zin van deze wet wordt uitgevoerd;
 
-- h. **instantie tot buitengerechtelijke geschillenbeslechting:** een in Nederland gevestigde instantie, ongeacht de benaming, die op duurzame basis is opgericht en de beslechting van een geschil door middel van een procedure tot buitengerechtelijke geschillenbeslechting aanbiedt en die is aangewezen op grond van [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2018-09-19&g=2018-09-19);
+- h. *instantie tot buitengerechtelijke geschillenbeslechting:* een in Nederland gevestigde instantie, ongeacht de benaming, die op duurzame basis is opgericht en de beslechting van een geschil door middel van een procedure tot buitengerechtelijke geschillenbeslechting aanbiedt en die is aangewezen op grond van [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2018-09-19&g=2018-09-19);
 
-- i. **Onze Minister die het aangaat:** Onze Minister op wiens beleidsterrein het onderwerp van geschil ligt.
+- i. *Onze Minister die het aangaat:* Onze Minister op wiens beleidsterrein het onderwerp van geschil ligt.
 
-- j. **duurzame gegevensdrager:** ieder hulpmiddel dat de consument of de ondernemer in staat stelt om persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die is aangepast aan het doel waarvoor de informatie is bestemd, en die een ongewijzigde weergave van de opgeslagen informatie mogelijk maakt;
+- j. *duurzame gegevensdrager:* ieder hulpmiddel dat de consument of de ondernemer in staat stelt om persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die is aangepast aan het doel waarvoor de informatie is bestemd, en die een ongewijzigde weergave van de opgeslagen informatie mogelijk maakt;
 
-- k. **Richtlijn 2013/11/ EU:** [richtlijn 2013/11](32013L0011)/EU van het Europees parlement en de Raad van 21 mei 2013 betreffende alternatieve geschillenbeslechting van consumentengeschillen en tot wijziging van [Verordening (EG) nr. 2006/2004](32004R2006) en [Richtlijn nr. 2009/22/EG](32009L0022) (PbEU 2013, L165);
+- k. *Richtlijn 2013/11/ EU:*
+ richtlijn 2013/11/EU van het Europees parlement en de Raad van 21 mei 2013 betreffende alternatieve geschillenbeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn nr. 2009/22/EG (PbEU 2013, L165);
 
-- l. **Verordening (EU) nr. 524/2013:** verordening (EU) nr. 524/ 2013 van het Europees parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van [Verordening (EG) nr. 2006/2004](32004R2006) en [Richtlijn 2009/22/EG](32009L0022) (PbEU 2013, L165).
+- l. *Verordening (EU) nr. 524/2013:* verordening (EU) nr. 524/ 2013 van het Europees parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (PbEU 2013, L165).
 
 2. Een ondernemer is gevestigd:
 
-- –. waar zijn bedrijf is gevestigd, indien de ondernemer een natuurlijke persoon is;
+- – waar zijn bedrijf is gevestigd, indien de ondernemer een natuurlijke persoon is;
 
-- –. waar de statutaire zetel of het hoofdbestuur is of het bedrijf wordt uitgeoefend, met inbegrip van een filiaal, agentschap of enige andere vestiging, indien de ondernemer een vennootschap of andere rechtspersoon of een vereniging van natuurlijke of rechtspersonen is.
+- – waar de statutaire zetel of het hoofdbestuur is of het bedrijf wordt uitgeoefend, met inbegrip van een filiaal, agentschap of enige andere vestiging, indien de ondernemer een vennootschap of andere rechtspersoon of een vereniging van natuurlijke of rechtspersonen is.
 
 3. Een instantie tot buitengerechtelijke geschillenbeslechting is gevestigd:
 
-- –. indien de werking ervan wordt verzekerd door een natuurlijke persoon, op de plaats waar de instantie de activiteiten tot buitengerechtelijke geschillenbeslechting verricht;
+- – indien de werking ervan wordt verzekerd door een natuurlijke persoon, op de plaats waar de instantie de activiteiten tot buitengerechtelijke geschillenbeslechting verricht;
 
-- –. indien de werking ervan wordt verzekerd door een rechtspersoon of vereniging van natuurlijke of rechtspersonen, op de plaats waar die rechtspersoon of vereniging van natuurlijke of rechtspersonen de activiteiten tot buitengerechtelijke geschillenbeslechting verricht of zijn statutaire zetel heeft;
+- – indien de werking ervan wordt verzekerd door een rechtspersoon of vereniging van natuurlijke of rechtspersonen, op de plaats waar die rechtspersoon of vereniging van natuurlijke of rechtspersonen de activiteiten tot buitengerechtelijke geschillenbeslechting verricht of zijn statutaire zetel heeft;
 
-- –. indien de werking ervan wordt verzekerd door een overheidsinstantie of ander publiekrechtelijk lichaam, op de plaats waar de zetel is van die overheidsinstantie of dat publiekrechtelijk lichaam.
+- – indien de werking ervan wordt verzekerd door een overheidsinstantie of ander publiekrechtelijk lichaam, op de plaats waar de zetel is van die overheidsinstantie of dat publiekrechtelijk lichaam.
 
 ##### Artikel 2
 
@@ -256,11 +227,11 @@ De instantie tot buitengerechtelijke geschillenbeslechting draagt er in haar pro
 
 - b. partijen, voordat zij met de voorgestelde oplossing instemmen of er gevolg aan geven, worden geïnformeerd over het feit dat:
 
-- i. zij de keuze hebben om al dan niet met de voorgestelde oplossing in te stemmen of er gevolg aan te geven;
+   - i. zij de keuze hebben om al dan niet met de voorgestelde oplossing in te stemmen of er gevolg aan te geven;
 
-- ii. de deelname aan de procedure de mogelijkheid om zich tot de rechter te wenden onverlet laat;
+   - ii. de deelname aan de procedure de mogelijkheid om zich tot de rechter te wenden onverlet laat;
 
-- iii. de voorgestelde oplossing kan verschillen van een door een rechter aan de hand van wettelijke regels bepaalde uitkomst;
+   - iii. de voorgestelde oplossing kan verschillen van een door een rechter aan de hand van wettelijke regels bepaalde uitkomst;
 
 - c. partijen, voordat zij met een voorgestelde oplossing instemmen of er gevolg aan geven, worden geïnformeerd over de rechtsgevolgen hiervan;
 
@@ -306,7 +277,7 @@ Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voor
 
 ##### Artikel 14
 
-1. De instanties tot buitengerechtelijke geschillenbeslechting en het Europees Consumenten Centrum maken de in artikel 20 lid 4 van de [Richtlijn 2013/11](32013L0011) EU bedoelde lijst van instanties tot buitengerechtelijke geschillenbeslechting voor het publiek toegankelijk. Dit geschiedt door middel van een link op hun website naar de website van de Europese Commissie, en voor zover mogelijk, op een duurzame gegevensdrager in hun ruimten.
+1. De instanties tot buitengerechtelijke geschillenbeslechting en het Europees Consumenten Centrum maken de in artikel 20 lid 4 van de Richtlijn 2013/11 EU bedoelde lijst van instanties tot buitengerechtelijke geschillenbeslechting voor het publiek toegankelijk. Dit geschiedt door middel van een link op hun website naar de website van de Europese Commissie, en voor zover mogelijk, op een duurzame gegevensdrager in hun ruimten.
 
 2. Onze Minister die het aangaat bevordert dat betrokken consumenten- en bedrijfsorganisaties de lijst, genoemd in lid 1, eveneens voor het publiek toegankelijk maken.
 
@@ -320,7 +291,7 @@ Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voor
 
 ### Hoofdstuk 4. Aanwijzing, rapportage en handhaving
 
-#### 1. **Bevoegdheid tot aanwijzing en intrekking van een aanwijzing**
+#### 1. Bevoegdheid tot aanwijzing en intrekking van een aanwijzing
 
 ##### Artikel 16
 
@@ -332,7 +303,7 @@ Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voor
 
 4. Onze Minister van Veiligheid en Justitie stelt de Europese Commissie in kennis van de aanwijzing van een instantie tot buitengerechtelijke geschillenbeslechting en van de intrekking van een aanwijzing.
 
-#### 2. **Gronden voor aanwijzing en intrekking van een aanwijzing**
+#### 2. Gronden voor aanwijzing en intrekking van een aanwijzing
 
 ##### Artikel 17
 
@@ -368,7 +339,7 @@ Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voor
 
 6. Indien een instantie tot buitengerechtelijke geschillenbeslechting niet langer voldoet aan de eisen op grond van artikel 9 lid 7 en artikel 10 van Verordening (EU) nr. 524/2013, verzoekt Onze Minister die het aangaat deze instantie gemotiveerd en schriftelijk om binnen een termijn van drie maanden alsnog aan deze eisen te voldoen. Indien de instantie na drie maanden in gebreke blijft, trekt Onze Minister die het aangaat de aanwijzing geheel of gedeeltelijk in.
 
-#### 3. **Rapportageplicht**
+#### 3. Rapportageplicht
 
 ##### Artikel 18
 
@@ -416,7 +387,7 @@ Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Mi
 
 ##### Artikel 20
 
-1. Onze Minister van Veiligheid en Justitie, maakt de lijst, genoemd in artikel 20 lid 4 van de [Richtlijn 2013/11](32013L0011)/EU op zijn website voor het publiek beschikbaar door middel van een link naar de website van de Europese Commissie. Daarnaast maakt Onze Minister die het aangaat deze lijst op een duurzame gegevensdrager voor het publiek beschikbaar.
+1. Onze Minister van Veiligheid en Justitie, maakt de lijst, genoemd in artikel 20 lid 4 van de Richtlijn 2013/11/EU op zijn website voor het publiek beschikbaar door middel van een link naar de website van de Europese Commissie. Daarnaast maakt Onze Minister die het aangaat deze lijst op een duurzame gegevensdrager voor het publiek beschikbaar.
 
 2. Onze Minister die het aangaat, maakt op uiterlijk 9 juli 2018 en vervolgens om de vier jaar een verslag over de ontwikkeling en het functioneren van de instanties tot buitengerechtelijke geschillenbeslechting en stuurt dit aan Onze Minister van Veiligheid en Justitie. Onze Minister van Veiligheid en Justitie maakt dit verslag bekend en geleidt het door aan de Europese Commissie. In het verslag worden met name:
 
@@ -430,11 +401,11 @@ Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Mi
 
 ##### Artikel 21
 
-Wijzigt de Wet handhaving consumentenbescherming.
+*Wijzigt de Wet handhaving consumentenbescherming.*
 
 ##### Artikel 22
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ### Hoofdstuk 7. Overgangsrecht, inwerkingtreding en citeertitel
 
@@ -449,5 +420,3 @@ Deze wet treedt in werking op 9 juli 2015. Wordt het Staatsblad waarin deze wet 
 ##### Artikel 25
 
 Deze wet wordt aangehaald als: Implementatiewet buitengerechtelijke geschillenbeslechting consumenten.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

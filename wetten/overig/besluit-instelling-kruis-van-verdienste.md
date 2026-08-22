@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 1 Juni 1944, houdende vervanging van het Koninklijk besluit van 20 Februari 1941, No. 1 (Nederlandsche Staatscourant 1941, No. 3), zooals dit besluit sedert is gewijzigd, tot instelling van het Kruis van Verdienste"
+citeertitel: "Besluit instelling Kruis van Verdienste"
 identifier: "BWBR0036407"
-country: "nl"
-rank: "kb"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036407"
+categorie: "Overig"
 soort: "KB"
-stam_id: "13009853"
-version_id: "22366412"
-internal_id: "C32022241"
-label_id: "12978644"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036407/2015-07-01/0"
-intitule_bron: "Stb.1944-E38"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1944-06-01"
-intitule_published: "1944-07-14"
-intitule_in_force: "1944-07-14"
-intitule_status: "goed"
-original_publication: "Stb.2015-108"
-original_signed_date: "2015-02-02"
-original_published_date: "2015-03-17"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2015-108"
-entry_into_force_date: "2015-02-02"
-jci_1_3: "jci1.3:c:BWBR0036407&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0036407&g=2015-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling Kruis van Verdienste"
-signed_date: "2015-02-02"
-entry_into_force: "2015-02-02"
+publicatiedatum: 2015-02-02
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0036407"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 1 Juni 1944, houdende vervanging van het Koninklijk besluit van 20 Februari 1941, No. 1 (Nederlandsche Staatscourant 1941, No. 3), zooals dit besluit sedert is gewijzigd, tot instelling van het Kruis van Verdienste
-
-Op de voordracht van Onze Ministers van Algemeene Zaken a.i., van Oorlog, van Marine, van Handel, Nijverheid en Scheepvaart en van Koloniën, d.d. 6 April 1944, Kans. A.Z. No. 78;
-
-Hebben goedgevonden en verstaan:
-
-Ons besluit van 20 Februari 1941, No. 1 (Nederlandsche Staatscourant, 1941, No. 3), zooals dit sedertdien is gewijzigd, te lezen als volgt:
 
 ##### Artikel 1
 
@@ -61,6 +33,10 @@ Zij, aan wie het Kruis van Verdienste reeds eenmaal is toegekend, en die daarna 
 ##### Artikel 4a
 
 Het Kruis van Verdienste kan, indien dit in bijzondere gevallen door het Hoofd van het betrokken Departement van Algemeen Bestuur wenschelijk wordt geacht, ook posthuum worden toegekend.
+
+##### Artikel 4a*
+
+Ingaande 1 januari 2017 moet een verzoek om toekenning van het Kruis van Verdienste zijn ingediend binnen tien jaar na het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036407&artikel=2&z=2015-07-01&g=2015-07-01) genoemde optreden.
 
 ##### Artikel 5
 
@@ -89,11 +65,3 @@ Voorstellen tot het ontnemen van het Kruis van Verdienste, verleend door den Bev
 ##### Artikel 11
 
 Wij behouden Ons het recht voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036407&artikel=8&z=2015-07-01&g=2015-07-01) aan den Bevelhebber der Nederlandsche Strijdkrachten gegeven bevoegdheid te allen tijde in te trekken.
-
-Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Handel, Nijverheid en Scheepvaart en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a*
-
-Ingaande 1 januari 2017 moet een verzoek om toekenning van het Kruis van Verdienste zijn ingediend binnen tien jaar na het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036407&artikel=2&z=2015-07-01&g=2015-07-01) genoemde optreden.
-
-Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Handel, Nijverheid en Scheepvaart en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.

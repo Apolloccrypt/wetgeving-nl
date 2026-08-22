@@ -1,54 +1,18 @@
 ---
-title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 juni 2015, nr. BOACAT2015/020, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij HTM Personenvervoer N.V"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 juni 2015, nr. BOACAT2015/020, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij HTM Personenvervoer N.V."
+citeertitel: "Besluit buitengewoon opsporingsambtenaar HTM Personenvervoer N.V. 2015"
 identifier: "BWBR0036720"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-06-26"
-last_updated: "2015-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036720"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13185463"
-version_id: "22472372"
-internal_id: "C32251961"
-label_id: "13153804"
-dtd_version: "2.0"
-original_entry_into_force: "2015-06-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036720/2015-06-26/0"
-intitule_bron: "Stcrt.2015-17276"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-15"
-intitule_published: "2015-06-25"
-intitule_in_force: "2015-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-17276"
-original_signed_date: "2015-06-15"
-original_published_date: "2015-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-17276"
-entry_into_force_date: "2015-06-26"
-jci_1_3: "jci1.3:c:BWBR0036720&z=2015-06-26&g=2015-06-26"
-jci_1_0: "1.0:c:BWBR0036720&g=2015-06-26"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar HTM Personenvervoer N.V. 2015"
-signed_date: "2015-06-15"
-entry_into_force: "2015-06-26"
+publicatiedatum: 2015-06-26
+laatste_update: 2015-06-26
+status: geldig
+toestand: 2015-06-26
+bron: "https://wetten.overheid.nl/BWBR0036720"
+opgehaald: 2026-08-22
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 juni 2015, nr. BOACAT2015/020, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij HTM Personenvervoer N.V
 
-Gelezen het verzoek van het Sectorhoofd Controle en Veiligheid van HTM Personenvervoer N.V. van 15 mei 2015 en de adviezen van de hoofdofficier van justitie Den Haag en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 juni 2015, nr. BOACAT2015/020, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij HTM Personenvervoer N.V.
 
 ##### Artikel 1
 
@@ -109,5 +73,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar HTM Personenvervoer N.V. 2015.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 17 december 2014 tot wijziging van de Wet op de bedrijfsorganisatie en andere wetten in verband met de opheffing van de bedrijfslichamen (Wet opheffing bedrijfslichamen)"
+citeertitel: "Wet opheffing bedrijfslichamen"
 identifier: "BWBR0036083"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036083"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12927883"
-version_id: "22015492"
-internal_id: "C31569511"
-label_id: "12897754"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036083/2019-01-01/0"
-intitule_bron: "Stb.2014-571"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-17"
-intitule_published: "2014-12-24"
-intitule_in_force: "2014-12-24"
-intitule_status: "goed"
-original_publication: "Stb.2014-571"
-original_signed_date: "2014-12-17"
-original_published_date: "2014-12-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "33910"
-original_url_id: "stb-2014-571"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0036083&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0036083&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet opheffing bedrijfslichamen"
-signed_date: "2014-12-17"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0036083"
+opgehaald: 2026-08-22
 ---
+
 # Wet van 17 december 2014 tot wijziging van de Wet op de bedrijfsorganisatie en andere wetten in verband met de opheffing van de bedrijfslichamen (Wet opheffing bedrijfslichamen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, met inachtneming van [artikel 134, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134), dat het wenselijk is de bedrijfslichamen op te heffen en taken van de bedrijfslichamen te beleggen bij de centrale overheid;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -49,15 +20,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Voor de toepassing van de [hoofdstukken 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&z=2019-01-01&g=2019-01-01) wordt verstaan onder:
 
-- **bedrijfslichaam:** bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), zoals dat artikel luidde onmiddellijk voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2019-01-01&g=2019-01-01), van deze wet;
+- *bedrijfslichaam:* bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), zoals dat artikel luidde onmiddellijk voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2019-01-01&g=2019-01-01), van deze wet;
 
-- **Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
+- *Onze Minister:* Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
-### Hoofdstuk 2. Wijziging van de [Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058)
+### Hoofdstuk 2. Wijziging van de Wet op de bedrijfsorganisatie
 
 ##### Artikel II
 
-Wijzigt de Wet op de bedrijfsorganisatie.
+*Wijzigt de Wet op de bedrijfsorganisatie.*
 
 ### Hoofdstuk 3. Wijziging en intrekking van diverse andere wetten in verband met de opheffing van de product- en bedrijfschappen
 
@@ -65,35 +36,35 @@ Wijzigt de Wet op de bedrijfsorganisatie.
 
 ##### Artikel III
 
-Wijzigt de Coördinatiewet uitzonderingstoestanden.
+*Wijzigt de Coördinatiewet uitzonderingstoestanden.*
 
 ##### Artikel IV
 
-Wijzigt de Noodwet voedselvoorziening.
+*Wijzigt de Noodwet voedselvoorziening.*
 
 #### § 2. Ministerie van Buitenlandse Zaken
 
 ##### Artikel V
 
-Wijzigt de Sanctiewet 1977.
+*Wijzigt de Sanctiewet 1977.*
 
 #### § 3. Ministerie van Veiligheid en Justitie
 
 ##### Artikel VI
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel VII
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de kansspelen.
+*Wijzigt de Wet op de kansspelen.*
 
 ##### Artikel X
 
@@ -101,109 +72,109 @@ De [Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jc
 
 ##### Artikel XI
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 #### § 4. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ##### Artikel XII
 
-Wijzigt de Ambtenarenwet.
+*Wijzigt de Ambtenarenwet.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.
+*Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.*
 
 #### § 5. Ministerie van Financiën
 
 ##### Artikel XIV
 
-Wijzigt de Algemene douanewet.
+*Wijzigt de Algemene douanewet.*
 
 ##### Artikel XV
 
-Wijzigt de Wet tuchtrechtspraak accountants.
+*Wijzigt de Wet tuchtrechtspraak accountants.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 #### § 6. Ministerie van Infrastructuur en Milieu
 
 ##### Artikel XVII
 
-Wijzigt de Loodsenwet.
+*Wijzigt de Loodsenwet.*
 
 ##### Artikel XVIII
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 #### § 7. Ministerie van Economische Zaken
 
 ##### Artikel XX
 
-Wijzigt de Boswet.
+*Wijzigt de Boswet.*
 
 ##### Artikel XXI
 
-Wijzigt de Dienstenwet.
+*Wijzigt de Dienstenwet.*
 
 ##### Artikel XXII
 
-Wijzigt de Flora- en faunawet.
+*Wijzigt de Flora- en faunawet.*
 
 ##### Artikel XXIII
 
-Wijzigt de Gezondheids- en welzijnswet voor dieren.
+*Wijzigt de Gezondheids- en welzijnswet voor dieren.*
 
 ##### Artikel XXIV
 
-Wijzigt de Landbouwkwaliteitswet.
+*Wijzigt de Landbouwkwaliteitswet.*
 
 ##### Artikel XXV
 
-Wijzigt de Landbouwwet.
+*Wijzigt de Landbouwwet.*
 
 ##### Artikel XXVa
 
-Wijzigt de Meststoffenwet.
+*Wijzigt de Meststoffenwet.*
 
 ##### Artikel XXVI
 
-Wijzigt de Plantenziektenwet.
+*Wijzigt de Plantenziektenwet.*
 
 ##### Artikel XXVII
 
-Wijzigt de Visserijwet 1963.
+*Wijzigt de Visserijwet 1963.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet dieren.
+*Wijzigt de Wet dieren.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
+*Wijzigt de Wet gewasbeschermingsmiddelen en biociden.*
 
 ##### Artikel XXX
 
-Wijzigt de Zaaizaad- en plantgoedwet 2005.
+*Wijzigt de Zaaizaad- en plantgoedwet 2005.*
 
 #### § 8. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ##### Artikel XXXI
 
-Wijzigt de Arbeidstijdenwet.
+*Wijzigt de Arbeidstijdenwet.*
 
 ##### Artikel XXXII
 
-Wijzigt de Wet minimumloon en minimumvakantiebijslag.
+*Wijzigt de Wet minimumloon en minimumvakantiebijslag.*
 
 ##### Artikel XXXIII
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ##### Artikel XXXIV
 
@@ -213,11 +184,11 @@ De [Wet van 3 april 1999 tot wijziging van de Wet op de bedrijfsorganisatie en e
 
 ##### Artikel XXXV
 
-Wijzigt de Warenwet.
+*Wijzigt de Warenwet.*
 
 ##### Artikel XXXVI
 
-Wijzigt de Wet op de medische keuringen.
+*Wijzigt de Wet op de medische keuringen.*
 
 ### Hoofdstuk 4. Vereffening
 
@@ -421,15 +392,15 @@ In [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=3&p
 
 ##### Artikel LVI
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel LVII
 
-Wijzigt de Wet natuurbescherming.
+*Wijzigt de Wet natuurbescherming.*
 
 ##### Artikel LVIII
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel LVIIIa
 
@@ -442,5 +413,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel LX
 
 Deze wet wordt aangehaald als: Wet opheffing bedrijfslichamen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

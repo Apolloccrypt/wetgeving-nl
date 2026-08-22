@@ -1,35 +1,16 @@
 ---
 title: "Aanvraagprocedure exameninstellingen betreffende recht op examinering mbo 2015"
 identifier: "BWBR0036476"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-03-17"
-last_updated: "2015-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036476"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13124593"
-version_id: "22363542"
-internal_id: "C32016701"
-label_id: "13093564"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036476/2015-03-17/0"
-intitule_bron: "Stcrt.2015-7150"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-03-17"
-intitule_in_force: "2015-03-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-7150"
-original_published_date: "2015-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-7150"
-entry_into_force_date: "2015-03-17"
-jci_1_3: "jci1.3:c:BWBR0036476&z=2015-03-17&g=2015-03-17"
-jci_1_0: "1.0:c:BWBR0036476&g=2015-03-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-17"
+publicatiedatum: 2015-03-17
+laatste_update: 2015-03-17
+status: geldig
+toestand: 2015-03-17
+bron: "https://wetten.overheid.nl/BWBR0036476"
+opgehaald: 2026-08-22
 ---
+
 # Aanvraagprocedure exameninstellingen betreffende recht op examinering mbo 2015
 
 ### Deel I. Algemeen
@@ -52,17 +33,41 @@ Het criterium voor het verlenen van het recht tot examinering is de borging van 
 
 [Artikel 1.6.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.6.1) stelt de voorwaarde dat de instelling in het geval van het verkrijgen van het recht tot examinering van een beroepsopleiding voor de desbetreffende opleiding in acht neemt al wat is bepaald voor:
 
+- a. de kwaliteitszorg ([artikel 1.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6), voor zover het de examinering betreft);
+
+- b. de examens;
+
+- c. de rechtsbescherming van de studenten ([hoofdstuk 7, titel 5 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&titeldeel=5)).
+
+De twee aanvraagprocedures
+
 Er zijn twee aanvraagprocedures (de volledige aanvraagprocedures zijn opgenomen in [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0036476&deel=II&z=2015-03-17&g=2015-03-17) van deze publicatie):
 
-Met behulp van het stroomschema in deel II, paragraaf 3 kunt u bepalen welke aanvraagprocedure van toepassing is.
+- 1. de procedure voor organisaties die als nieuwe exameninstelling willen toetreden en nog niet beschikken over een Brinnummer (en daarmee dus nog niet beschikken over het recht op examinering voor een crebo geregistreerde opleiding), en
 
-Instellingen die nog niet eerder in het crebo zijn geregistreerd, zijn – wat betreft het examineren van middelbaar beroepsonderwijs – onbekend bij het Ministerie van Onderwijs, Cultuur en Wetenschap. Om te waarborgen dat deze instellingen de vereiste kwaliteit leveren die gesteld wordt aan de examinering van middelbare beroepsopleidingen, is een integrale beoordeling van de kwaliteit van de examens van de betreffende beroepsopleidingen en het waarborgen daaromheen (betreffende de kwaliteitszorg en de rechtsbescherming van studenten) noodzakelijk. Om die reden moeten bij een aanvraag van nieuwe exameninstellingen de in Deel II, paragraaf 1.2 genoemde gegevens worden gevoegd. Zonder deze gegevens is de aanvraag niet compleet.
+- 2. de procedure voor exameninstellingen die beschikken over een Brinnummer en het recht op examinering voor één of meer crebo geregistreerde opleidingen.
+
+Met behulp van het [stroomschema](https://wetten.overheid.nl/BWBR0036476) in deel II, paragraaf 3 kunt u bepalen welke aanvraagprocedure van toepassing is.
+
+Aanvraagprocedure onder 1
+
+Instellingen die nog niet eerder in het crebo zijn geregistreerd, zijn – wat betreft het examineren van middelbaar beroepsonderwijs – onbekend bij het Ministerie van Onderwijs, Cultuur en Wetenschap. Om te waarborgen dat deze instellingen de vereiste kwaliteit leveren die gesteld wordt aan de examinering van middelbare beroepsopleidingen, is een integrale beoordeling van de kwaliteit van de examens van de betreffende beroepsopleidingen en het waarborgen daaromheen (betreffende de kwaliteitszorg en de rechtsbescherming van studenten) noodzakelijk. Om die reden moeten bij een aanvraag van nieuwe exameninstellingen de in [Deel II, paragraaf 1.2](https://wetten.overheid.nl/BWBR0036476) genoemde gegevens worden gevoegd. Zonder deze gegevens is de aanvraag niet compleet.
 
 Bij een positief besluit op voornoemde aanvraag wordt direct ook een Brinnummer toegekend.
 
-Exameninstellingen die gelieerd zijn aan of onderdeel uitmaken van een **bekostigde instelling** en nog geen Brinnummer hebben als exameninstelling voor het mbo, moeten voor zover een aanvraag wettelijk vereist is eveneens de in Deel II paragraaf 1.2 genoemde gegevens overleggen
+Exameninstellingen die gelieerd zijn aan of onderdeel uitmaken van een *bekostigde instelling* en nog geen Brinnummer hebben als exameninstelling voor het mbo, moeten voor zover een aanvraag wettelijk vereist is eveneens de in [Deel II paragraaf 1.2](https://wetten.overheid.nl/BWBR0036476) genoemde gegevens overleggen
 
-Bij bestaande exameninstellingen wordt aan de hand van een marginale toetsing bepaald of een integrale beoordeling nodig is. Omdat het ministerie beschikt over informatie van een andere (veelal verwante) opleiding die de instelling al examineert, vindt er een risicoanalyse plaats aan de hand van een marginale toetsing. Daartoe hoeft de instelling alleen het aanvraagformulier in te dienen. Wanneer uit de risicoanalyse blijkt dat een integrale beoordeling noodzakelijk is, worden de benodigde aanvullende gegevens, genoemd in Deel II paragraaf 2.2, bij de instelling opgevraagd.
+Aanvraagprocedure onder 2
+
+Bij bestaande exameninstellingen wordt aan de hand van een marginale toetsing bepaald of een integrale beoordeling nodig is. Omdat het ministerie beschikt over informatie van een andere (veelal verwante) opleiding die de instelling al examineert, vindt er een risicoanalyse plaats aan de hand van een marginale toetsing. Daartoe hoeft de instelling alleen het aanvraagformulier in te dienen. Wanneer uit de risicoanalyse blijkt dat een integrale beoordeling noodzakelijk is, worden de benodigde aanvullende gegevens, genoemd in [Deel II paragraaf 2.2](https://wetten.overheid.nl/BWBR0036476), bij de instelling opgevraagd.
+
+Uitleg begrippen
+
+- *Marginale toetsing* Om te borgen dat de kwaliteit van examinering van de betreffende opleiding van een voldoende niveau is voert de Inspectie van het Onderwijs (verder: Inspectie) in samenwerking met DUO een risicoanalyse uit aan de hand van een marginale toets. Aan de hand van deze risicoanalyse wordt dan bezien of een integrale beoordeling noodzakelijk is en indien dit het geval is welke gegevens nog nodig zijn om op zorgvuldige wijze te kunnen besluiten over de aanvraag.
+
+- *Integrale beoordeling* Een integrale beoordeling houdt in dat de aanvraag door de Inspectie wordt getoetst op kwalitatieve aspecten in de praktijk door middel van kwaliteitsonderzoeken. De Inspectie brengt op basis van deze onderzoeken een advies uit. De onderzoeken kunnen zowel dossieronderzoeken zijn als onderzoeken bij de instelling.
+
+- *Brinnummer* Een Brinnummer is een administratief nummer dat door DUO wordt toegekend aan een (examen)instelling. Iedere exameninstelling, die recht tot examinering van één of meer beroepsopleidingen heeft, dient te beschikken over een Brinnummer. Het hebben van een Brinnummer maakt echter niet dat het bevoegd gezag hiermee ook voor de examinering van een nieuwe opleiding heeft aangetoond dat de examinering van voldoende niveau is en voldoet aan de voorwaarde genoemd in [artikel 1.6.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.6.1). Per opleiding dient een aanvraag ingediend te worden en het bevoegd gezag dient bij die aanvraag steeds weer te kunnen aantonen dat de examinering van voldoende kwaliteit is en aan de voorwaarde, genoemd in artikel 1.6.1 van de Web voldoet. Wanneer een beoogde exameninstelling, die nog niet beschikt over een Brinnummer, een aanvraag doet, zal deze bij een positieve beschikking (toekenning recht tot examinering) ook een Brinnummer toegewezen krijgen.
 
 ### 1.3. Verplichtingen bij recht tot examinering
 
@@ -92,7 +97,7 @@ Wanneer de laatste examinering van een beroepsopleiding wordt beëindigd, wordt 
 
 ### 1.6. Uitbesteding versus inkoop:
 
-Een exameninstelling kan na verwerving van het recht op examinering voor een kwalificatie op basis van **uitbesteding**(vrijwillig/verplicht) van een onderwijsinstelling de examinering uitvoeren voor de betreffende kwalificatie. De examencommissie van de exameninstelling is dan verantwoordelijk voor de examinering. Dit in tegenstelling tot **inkoop**, waarbij de examencommissie van de onderwijsinstelling verantwoordelijk blijft voor de uitvoering van de examinering en op basis van de slaag-/zakregeling de beslissing tot diplomering neemt. Inkoop van examenproducten kan derhalve ook plaatsvinden bij andere organisaties dan exameninstellingen.
+Een exameninstelling kan na verwerving van het recht op examinering voor een kwalificatie op basis van *uitbesteding*(vrijwillig/verplicht) van een onderwijsinstelling de examinering uitvoeren voor de betreffende kwalificatie. De examencommissie van de exameninstelling is dan verantwoordelijk voor de examinering. Dit in tegenstelling tot *inkoop*, waarbij de examencommissie van de onderwijsinstelling verantwoordelijk blijft voor de uitvoering van de examinering en op basis van de slaag-/zakregeling de beslissing tot diplomering neemt. Inkoop van examenproducten kan derhalve ook plaatsvinden bij andere organisaties dan exameninstellingen.
 
 ### 1.7. Toezicht na verlening
 
@@ -116,6 +121,16 @@ Als de relatie tussen dat bevoegd gezag en de exameninstelling dan wel de examin
 
 De volgende situaties kunnen zich voordoen:
 
+- 1. De rechtspersoon waar de exameninstelling van uitgaat, fuseert met een andere rechtspersoon (boek 2 van het Burgerlijk Wetboek). De relatie tussen bevoegd gezag (de rechtspersoon) en de exameninstelling wijzigt in dit geval niet. Er verandert niets in het recht tot examinering. Er hoeft geen nieuwe aanvraag te*w*orden ingediend. Wel moet het ministerie in kennis worden gesteld van de fusie, onder overlegging van de akte waarin de fusie is geregeld. Deze melding vindt plaats bij DUO.
+
+- 2. De aandelen in een NV of BV waarvan een instelling uitgaat, gaan in andere handen over. De relatie tussen rechtspersoon en instelling verandert niet, dus het recht tot examinering blijft in stand.
+
+- 3. De instelling wordt in zijn geheel – inclusief opleidingen – verkocht aan een andere rechtspersoon. De relatie tussen bevoegd gezag en instelling of examinering van een opleiding wordt verbroken en daarmee vervalt het recht tot examinering. Er moet dan een nieuwe aanvraag worden ingediend door het nieuwe bevoegd gezag.
+
+- 4. De rechtspersoon wordt in zijn geheel opgenomen in een juridische entiteit (concern). Het bevoegd gezag houdt niet op te bestaan maar blijft binnen de nieuwe juridische entiteit wel zelfstandig bestaan. Het verleende recht tot examinering blijft in dat geval ook bestaan, maar mag uitsluitend worden aangewend door dit onderdeel van het concern (instelling die ressorteert onder dat bevoegd gezag).
+
+- 5. De onder een exameninstelling ressorterende examinering van één of meer opleidingen wordt verkocht aan een andere rechtspersoon. Hierdoor vervalt het recht tot examinering van die opleiding(en) en zal de verkrijgende rechtspersoon het recht tot examinering van de desbetreffende opleidingen opnieuw moeten aanvragen.
+
 ### Deel II. Aanvraagprocedures
 
 ### 1. Aanvraagprocedure nieuwe exameninstelling
@@ -128,9 +143,17 @@ Een aanvraag voor het recht tot examinering van een beroepsopleiding door een ex
 
 In bovengenoemd formulier is bij 6. “Ondertekening” een standaardformulering opgenomen waarmee het bevoegd gezag verklaart:
 
+- – te zullen voldoen aan de regels, zoals beschreven in [hoofdstuk 7 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=7) voor zover het betreft de examinering, en ook aan de voorschriften met betrekking tot de kwaliteitszorg, zoals neergelegd in [artikel 1.3.6 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6);
+
+- – dat er een commissie van beroep is ingesteld, dan wel zal worden ingesteld, die voldoet aan de voorwaarden als gesteld bij [artikel 7.5.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.1);
+
+- – dat er geen juridisch of persoonlijk verband is met een onderwijsinstelling;
+
+- – dat er een rechtsgeldig document wordt verstrekt als een derde partij deze aanvraag doet.
+
 Per opleiding dient op dit aanvraagformulier het recht tot examinering te worden aangevraagd. Een aanvraagformulier kan dus de aanvraag voor examinering van meerdere opleidingen bevatten. Wel dienen in dat geval per opleiding de benodigde gegevens te worden ingezonden.
 
-Bij dit aanvraagformulier moeten altijd de gegevens, genoemd in onderstaande paragraaf 1.2, worden gevoegd. Omdat de beoogde exameninstelling nog niet beschikt over een Brinnummer dient ook een uittreksel van de Kamer van Koophandel en de getekende notariële akte van oprichting van de rechtspersoon die de exameninstelling in stand houdt te worden overgelegd. Zonder deze gegevens is de aanvraag niet compleet.
+Bij dit aanvraagformulier moeten altijd de gegevens, genoemd in onderstaande [paragraaf 1.2](https://wetten.overheid.nl/BWBR0036476), worden gevoegd. Omdat de beoogde exameninstelling nog niet beschikt over een Brinnummer dient ook een uittreksel van de Kamer van Koophandel en de getekende notariële akte van oprichting van de rechtspersoon die de exameninstelling in stand houdt te worden overgelegd. Zonder deze gegevens is de aanvraag niet compleet.
 
 De aanvraag moet vergezeld van alle bijlagen bij voorkeur digitaal op USB stick worden gezonden aan:
 
@@ -141,6 +164,8 @@ Postbus 606
 2700 ML Zoetermeer
 
 De aanvrager zal in de gelegenheid gesteld worden om binnen twee weken de benodigde aanvullende gegevens in te dienen bij DUO. Wanneer de aanvullende gegevens niet binnen deze twee weken door DUO zijn ontvangen wordt de aanvraag afgewezen. Hierover krijgt de instelling van DUO zo spoedig mogelijk maar uiterlijk binnen vier weken bericht. Ontbreken gegevens met betrekking tot (een) bepaalde opleiding(en) en worden de ontbrekende gegevens niet binnen de gestelde termijn aangeleverd, dan wordt de aanvraag voor wat betreft die opleidingen afgewezen. De aanvraag voor de opleiding(en) waarvan alle benodigde gegevens wel zijn ontvangen, zal in behandeling worden genomen
+
+Integrale beoordeling
 
 Een complete aanvraag wordt door DUO ter beoordeling voorgelegd aan de Inspectie. Deze integrale beoordeling houdt in dat de Inspectie de aanvraag toetst op de kwalitatieve aspecten in de praktijk door middel van kwaliteitsonderzoeken. Daarnaast weegt de Inspectie – indien van toepassing – eerdere ervaringen met rechtsvoorgangers van de instelling of het bevoegd gezag daarvan in haar beoordeling mee. De Inspectie brengt op basis van deze onderzoeken een advies aan DUO uit. Kwaliteitsonderzoeken kunnen zowel dossieronderzoeken zijn als onderzoeken bij de exameninstelling, ook als de exameninstelling nog geen examinering verzorgt. Indien een onderzoek op locatie plaatsvindt zal de Inspectie het bevoegd gezag hiervan zo spoedig mogelijk in kennis brengen. Na ontvangst van het advies beslist DUO vervolgens op de aanvraag.
 
@@ -154,7 +179,27 @@ Bij een aanvraag tot examinering moeten in ieder geval die gegevens ingezonden w
 
 De in dit artikel genoemde voorwaarde houdt in dat in acht genomen moeten worden de wettelijke bepalingen ten aanzien van:
 
+- a. de kwaliteitszorg, voor zover het betreft de examinering bedoeld in [artikel 1.3.6 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6);
+
+- b. de examens ingevolge [hoofdstuk 7, artikelen 7.4.1 t/m 7.4.5 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.1);
+
+- c. de rechtsbescherming van de deelnemers, ingevolge [hoofdstuk 7, artikel 7.4.9 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9).
+
 Bij de aanvraag moet worden gevoegd:
+
+- 1. een beschrijving van het stelsel van kwaliteitszorg, ([artikel 1.3.6, Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6), zie ook onder punt 1.3 beschrijving stelsel kwaliteitszorg); In de beschrijving van het stelsel van kwaliteitszorg moet in ieder geval worden aangegeven:
+
+   - – op de examinering van welke opleidingen het stelsel van toepassing zal zijn en welke methoden van kwaliteitszorg zullen worden gehanteerd;
+
+   - – de deskundigheid van het personeel dat bij de examinering is betrokken;
+
+   - – op welke wijze onafhankelijke deskundigen worden betrokken bij de regelmatige beoordeling van de kwaliteit van de examinering, welke werkzaamheden deze verrichten en hoe vaak die zullen worden ingeschakeld;
+
+   - – de wijze waarop het kwaliteitszorgstelsel regelmatig zal worden geëvalueerd door onafhankelijke deskundigen en belanghebbenden, alsmede van de wijze waarop het bevoegd gezag jaarlijks verslag doet van de uitkomsten van die beoordelingen door deze deskundigen en van het in het licht van die uitkomsten voorgenomen beleid, een en ander conform het bepaalde bij [artikel 1.3.6, tweede lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6).
+
+- 2. een beschrijving van de examens, volgens [artikel 7.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9). en artikel 7.5, Web; Deze beschrijving bevat in ieder geval de inrichting van het examenprogramma met daarbij een overzicht van de kwalificerende toetsing, een beschrijving van het examenproces, het examenreglement en een beschrijving van de inrichting en werkwijze van de commissie van beroep voor de examens met de namen en contactgegevens van de leden.
+
+- 3. een document met betrekking tot de rechtsbescherming van de deelnemers, conform [artikel 7.4.9 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9).
 
 ### 2. Aanvraagprocedure bestaande instelling
 
@@ -165,6 +210,12 @@ Bij de aanvraag moet worden gevoegd:
 Een aanvraag voor het recht tot examinering van instellingen die al beschikken over een Brinnummer voor Crebo kan worden ingediend met het formulier ‘Aanvraag registratie bestaande exameninstelling procedure 2’. Dit formulier is te vinden op de internetsite van DUO (www.ocwduo.nl) onder Zakelijk, Klantenservice, Formulieren (voor BVE).
 
 In bovengenoemd formulier is bij 6. “Ondertekening” een standaardformulering opgenomen waarmee het bevoegd gezag verklaart:
+
+- – te zullen voldoen aan de regels, zoals beschreven in [hoofdstuk 7 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=7) voor zover het betreft de examinering, en ook aan de voorschriften met betrekking tot de kwaliteitszorg, zoals neergelegd in [artikel 1.3.6 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6);
+
+- – dat er een commissie van beroep is ingesteld, of zal worden ingesteld, die voldoet aan de voorwaarden als gesteld bij [artikel 7.5.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.1);
+
+- – dat er geen juridisch of persoonlijk verband is met een onderwijsinstelling.
 
 Exameninstellingen die voor andere opleidingen dan de opleidingen die voor hun instelling al in het crebo staan geregistreerd, het examen willen verzorgen, dienen dus voor die nog niet geregistreerde opleiding(en) een aanvraag in te dienen om het recht tot examinering te verkrijgen.
 
@@ -178,13 +229,39 @@ Postbus 606
 
 De aanvrager zal in de gelegenheid gesteld worden om binnen twee weken de benodigde aanvullende gegevens in te dienen bij DUO. Wanneer de aanvullende gegevens niet binnen deze twee weken door DUO zijn ontvangen wordt de aanvraag afgewezen. Hierover krijgt de instelling van DUO zo spoedig mogelijk maar uiterlijk binnen vier weken bericht. Ontbreken gegevens met betrekking tot (een) bepaalde opleiding(en) en worden de ontbrekende gegevens niet binnen de gestelde termijn aangeleverd, dan wordt de aanvraag voor wat betreft die opleidingen afgewezen. De aanvraag voor de opleiding(en) waarvan alle benodigde gegevens wel zijn ontvangen, zal in behandeling worden genomen.
 
+Marginale toetsing
+
 Om te borgen dat de kwaliteit van de examinering van de betreffende opleiding van een voldoende niveau is voert de Inspectie in samenwerking met DUO een risicoanalyse uit door middel van een marginale toetsing. Aan de hand van deze risicoanalyse wordt dan bekeken of een integrale toetsing noodzakelijk is en indien dit het geval is, welke gegevens nog nodig zijn om op zorgvuldige wijze te kunnen besluiten over de aanvraag.
 
 De marginale toetsing zal onder meer aan de hand van de volgende vragen plaatsvinden:
 
+- • Is de examinering al eerder erkend geweest bij de instelling of diens rechtsvoorganger?
+
+- • Is de afgelopen 6 maanden het recht tot examinering aangevraagd voor meer dan 10 opleidingen? Daarbij worden meegeteld de opleidingen in de huidige aanvraag. Niet worden meegeteld de opleidingen waarvoor al voor de inwerkingtreding van de beroepsgerichte kwalificatiestructuur erkenning is verkregen en waarvan de examinering daadwerkelijk wordt verzorgd.
+
+- • Wordt de examinering van de opleidingen waarvoor het recht tot examinering is verkregen voor inwerkingtreding van de beroepsgerichte kwalificatiestructuur ook werkelijk verzorgd door de instelling?
+
+- • Worden er op basis van toezichthistorie (eerdere Inspectieonderzoeken, waarin is geconstateerd zwakke en zeer zwakke opleidingen of niet voldoen aan wettelijke bepalingen en ook signaleringen) door de Inspectie risico’s verwacht?
+
+- • Zijn er klachten over de exameninstelling bekend?
+
 Wanneer uit de risicoanalyse blijkt dat aanvulling van de aanvraag niet nodig is, wordt op basis van het ingevulde aanvraagformulier besloten over het gevraagde recht op examinering.
 
 Wanneer uit de marginale toetsing blijkt dat een integrale beoordeling nodig is wordt bezien welke aanvullende gegevens noodzakelijk zijn voor de beoordeling van de aanvraag. Indien aanvullende gegevens noodzakelijk zijn ontvangt de aanvrager binnen twee weken daarover bericht. De volgende gegevens kunnen worden opgevraagd:
+
+- 1. een beschrijving van het stelsel van kwaliteitszorg, ([artikel 1.3.6, Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6)); In de beschrijving van het stelsel van kwaliteitszorg ([artikel 1.3.6 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6)) moet in ieder geval worden aangegeven:
+
+   - • op de examinering van welke opleidingen het stelsel van toepassing zal zijn en welke methoden van kwaliteitszorg zullen worden gehanteerd;
+
+   - • de deskundigheid van het personeel dat bij de examinering is betrokken;
+
+   - • op welke wijze onafhankelijke deskundigen worden betrokken bij de regelmatige beoordeling van de kwaliteit van de examinering, welke werkzaamheden deze verrichten en hoe vaak die zullen worden ingeschakeld;
+
+   - • de wijze waarop het kwaliteitszorgstelsel regelmatig zal worden geëvalueerd door onafhankelijke deskundigen en belanghebbenden, en ook van de manier waarop het bevoegd gezag jaarlijks verslag doet van de uitkomsten van die beoordelingen door deze deskundigen en van het in het licht van die uitkomsten voorgenomen beleid, een en ander volgens het bepaalde bij [artikel 1.3.6, tweede lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6).
+
+- 2. een beschrijving van de examens, ([artikel 7.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9). en 7.5, Web). Deze beschrijving bevat in ieder geval de inrichting van het examenprogramma met daarbij een overzicht van de kwalificerende toetsing, een beschrijving van het examenproces, het examenreglement; en een beschrijving van de inrichting en werkwijze van de commissie van beroep voor de examens met de namen en contactgegevens van de leden.
+
+- 3. een document met betrekking tot de rechtsbescherming van de deelnemers, conform [artikel 7.4.9 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9).
 
 ### 2.2. Integrale beoordeling
 
@@ -199,7 +276,3 @@ Binnen drie maanden na ontvangst van de complete aanvraag kan een besluit tegemo
 Een bestuursorgaan verstrekt bij de uitvoering van zijn taak informatie overeenkomstig de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (s) en gaat daarbij uit van het algemeen belang van openbaarheid van informatie. Een ieder kan bovendien een verzoek om informatie, neergelegd in documenten over een bestuurlijke aangelegenheid, richten tot een bestuursorgaan of een onder verantwoordelijkheid van een bestuursorgaan werkzame instelling, dienst of bedrijf. Het verzoek hoeft niet gemotiveerd te zijn.
 
 De gegevens die bij DUO worden ingediend in het kader van een aanvraag vallen onder de [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252). Dit houdt in dat DUO deze gegevens – indien daarom verzocht zou worden – openbaar moet maken, met uitzondering van de situaties bedoeld in [artikel 10 van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10). Alvorens over te gaan tot openbaarmaking wordt de instelling altijd in de gelegenheid gesteld een reactie te geven op de openbaarmaking en wordt aan de hand van deze reactie bezien of openbaarmaking aan de orde is.
-
-## Bijlagen
-
-### Stroomschema’s. Procedure 1 en Procedure 2

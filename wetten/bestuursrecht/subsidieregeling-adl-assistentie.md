@@ -1,18 +1,18 @@
 ---
-title: "Subsidieregeling ADL-assistentie"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende Subsidieregeling ADL-assistentie"
+citeertitel: "Subsidieregeling ADL-assistentie"
 identifier: "BWBR0035951"
-categorie: "Overig"
-publicatiedatum: 2026-07-17
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2023-04-13
 laatste_update: 2026-07-17
 status: geldig
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0035951"
+opgehaald: 2026-08-22
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende Subsidieregeling ADL-assistentie
-
-Gelet op [artikel 7.1.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=7.1.1);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -20,31 +20,32 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **accountant:** accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
+- – *accountant:* accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
 
-- –. **ADL-aanbieder:** privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid die ADL-assistentie verleent;
+- – *ADL-aanbieder:* privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid die ADL-assistentie verleent;
 
-- –. **ADL-assistentie:** gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, waaronder alarmopvolging bij een noodoproep;
+- – *ADL-assistentie:* gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, waaronder alarmopvolging bij een noodoproep;
 
-- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17);
+- – *ADL-cluster:* cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17);
 
-- –. **ADL-eenheid:** ruimte in de omgeving van de ADL-woningen van waaruit de ADL-assistent wordt opgeroepen;
+- – *ADL-eenheid:* ruimte in de omgeving van de ADL-woningen van waaruit de ADL-assistent wordt opgeroepen;
 
-- –. **ADL-woning:** woning die deel uitmaakt van een aantal bij elkaar horende rolstoeldoorgankelijke woningen;
+- – *ADL-woning:* woning die deel uitmaakt van een aantal bij elkaar horende rolstoeldoorgankelijke woningen;
 
-- –. **Covid-19:** de ziekte veroorzaakt door coronavirus-SARS-CoV-2;
+- – *Covid-19:* de ziekte veroorzaakt door coronavirus-SARS-CoV-2;
 
-- –. **jaarrekening:** jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
+- – *jaarrekening:* jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
 
-- –. **minister:** minister van Volksgezondheid, Welzijn en Sport;
+- – *minister:* minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **oordeel van het CIZ:** besluit als bedoeld in [artikel 5.2.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=5.2.1) waaruit blijkt dat de verzekerde in aanmerking komt voor ADL-assistentie;
+- – *oordeel van het CIZ:* besluit als bedoeld in [artikel 5.2.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=5.2.1) waaruit blijkt dat de verzekerde in aanmerking komt voor ADL-assistentie;
 
-- –. **verzekerde:** persoon die overeenkomstig de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) is verzekerd;
+- – *verzekerde:* persoon die overeenkomstig de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) is verzekerd;
 
-- –. **wet:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- – *wet:*
+ [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- –. **zorg:** zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
+- – *zorg:* zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
 ##### Artikel 1.2
 
@@ -74,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 2. Indien voor de bouw van de ADL-woning een subsidie is verstrekt op grond van de [Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161), voldoet de ADL-woning in afwijking van het eerste lid aan de eisen die aan die subsidie verbonden waren.
 
-3. Voor subsidie komen in aanmerking de extra gemaakte personele en materiële kosten, bedoeld in [artikel 4 van de Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4) die in de periode van 1 januari 2022 tot en met 31 december 2022 gemaakt zijn als gevolg van Covid-19, ten behoeve van het verlenen van ADL-assistentie in en om een ADL-woning die voldoet aan de eisen, genoemd in het eerste lid.
+3. Voor subsidie komen in aanmerking de extra gemaakte personele en materiële kosten, bedoeld in [artikel 4 van de Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4) die in de periode van 1 januari 2022 tot en met 31 december 2022 gemaakt zijn als gevolg van Covid-19, ten behoeve van het verlenen van ADL-assistentie in en om een ADL-woning die voldoet aan de eisen, genoemd in het eerste lid.
 
 4. Het Zorginstituut verhoogt op aanvraag de voor 2022 op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2026-07-17&g=2026-07-17) vastgestelde subsidie met 0,37% voor de extra gemaakte energiekosten.
 
@@ -94,11 +95,11 @@ De subsidie wordt per kalenderjaar verstrekt.
 
 ##### Artikel 1.6
 
-1. Het subsidieplafond voor het verstrekken van de subsidies bedraagt voor het jaar 2026 € 151.702.809.
+1. Het subsidieplafond voor het verstrekken van de subsidies bedraagt voor het jaar 2026 € 151.702.809.
 
 2. Het bedrag van de subsidie die voor het jaar 2026 ten hoogste wordt verleend aan een subsidieontvanger wordt berekend overeenkomstig de formule
 
-(A / B) x € 151.702.809
+(A / B) x € 151.702.809
 
 waarbij wordt verstaan onder:
 
@@ -113,6 +114,14 @@ B: de som van A voor alle subsidieontvangers.
 3. De raming, bedoeld in het tweede lid, onderdeel A, onder 2°, wordt gebaseerd op het aantal ADL-woningen en een berekening van de behoefte aan ADL-assistentie in en om die woningen.
 
 4. De subsidie die aan een subsidieontvanger voor het jaar 2026 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2026-07-17&g=2026-07-17).
+
+##### Artikel 1.7
+
+1. De [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=2&z=2026-07-17&g=2026-07-17) zijn, met uitzondering van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=4&artikel=4.5&z=2026-07-17&g=2026-07-17), niet van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17).
+
+2. [Hoofdstuk 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5a&z=2026-07-17&g=2026-07-17) is uitsluitend van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17).
+
+3. [Hoofdstuk 5B](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5b&z=2026-07-17&g=2026-07-17) is uitsluitend van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17).
 
 ### Hoofdstuk 2. Aanvraag
 
@@ -278,49 +287,17 @@ Het Zorginstituut kan bij de verlening van de subsidie verplichtingen opleggen a
 
 ##### Artikel 5.5
 
-De subsidie ten behoeve van het jaar 2026 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 96,01 tot ten hoogste het maximum bedrag van de verleende subsidie.
+De subsidie ten behoeve van het jaar 2026 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 96,01 tot ten hoogste het maximum bedrag van de verleende subsidie.
 
 ##### Artikel 5.6
 
 Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt het Zorginstituut een besluit op de aanvraag.
 
-### Hoofdstuk 6. Slotbepalingen
-
-##### Artikel 6.1
-
-Vervallen
-
-##### Artikel 6.2
-
-Deze regeling treedt in werking met ingang van 1 januari 2015.
-
-##### Artikel 6.3
-
-Deze regeling wordt aangehaald als: Subsidieregeling ADL-assistentie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
-
-##### Artikel 1.7
-
-1. De [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=2&z=2026-07-17&g=2026-07-17) zijn, met uitzondering van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=4&artikel=4.5&z=2026-07-17&g=2026-07-17), niet van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17).
-
-2. [Hoofdstuk 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5a&z=2026-07-17&g=2026-07-17) is uitsluitend van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17).
-
-3. [Hoofdstuk 5B](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5b&z=2026-07-17&g=2026-07-17) is uitsluitend van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17).
-
-### Hoofdstuk 2. Aanvraag
-
-### Hoofdstuk 3. Verlening
-
-### Hoofdstuk 4. Bevoorschotting en verplichtingen
-
-### Hoofdstuk 5. Vaststelling
-
 ### Hoofdstuk 5a. Subsidies in verband met Covid-19
 
 ##### Artikel 5a.1
 
-1. Het subsidieplafond voor het verstrekken van subsidie als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), bedraagt € 3.700.000.
+1. Het subsidieplafond voor het verstrekken van subsidie als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), bedraagt € 3.700.000.
 
 2. Indien het totaal van de te verstrekken subsidiebedragen hoger is dan het subsidieplafond, verdeelt het Zorginstituut het ingevolge het subsidieplafond beschikbare bedrag evenredig over ingediende aanvragen voor zover deze voor subsidie in aanmerking komen.
 
@@ -328,9 +305,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 1. De subsidie wordt op aanvraag verstrekt.
 
-2. De aanvraag van de subsidie, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), wordt uiterlijk 1 juli 2023 ontvangen.
+2. De aanvraag van de subsidie, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), wordt uiterlijk 1 juli 2023 ontvangen.
 
-3. Een aanvraag na 1 juli 2023 wordt afgewezen.
+3. Een aanvraag na 1 juli 2023 wordt afgewezen.
 
 4. De aanvrager doet in de aanvraag van de subsidie, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), opgave van de gemaakte personele en materiële kosten, bedoeld in artikel 1.3 derde lid.
 
@@ -342,25 +319,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 8. De subsidie wordt vastgesteld zonder voorafgaande beschikking tot subsidieverlening.
 
-##### Artikel 5a.3
-
-Vervallen
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
-
 ### Hoofdstuk 5b. Subsidies in verband energiecompensatie
 
 ##### Artikel 5b.1
 
-Het subsidieplafond voor het verstrekken van subsidies als bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), bedraagt € 409.000.
+Het subsidieplafond voor het verstrekken van subsidies als bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), bedraagt € 409.000.
 
 ##### Artikel 5b.2
 
 1. De subsidie wordt op aanvraag verstrekt.
 
-2. De aanvraag van de subsidie, bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), wordt uiterlijk 1 juli 2023 ontvangen.
+2. De aanvraag van de subsidie, bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-07-17&g=2026-07-17), wordt uiterlijk 1 juli 2023 ontvangen.
 
 3. Een aanvraag na de datum, bedoeld in het tweede lid, wordt afgewezen.
 
@@ -372,4 +341,14 @@ Het subsidieplafond voor het verstrekken van subsidies als bedoeld in [artikel 1
 
 ### Hoofdstuk 6. Slotbepalingen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+##### Artikel 6.1
+
+*Vervallen*
+
+##### Artikel 6.2
+
+Deze regeling treedt in werking met ingang van 1 januari 2015.
+
+##### Artikel 6.3
+
+Deze regeling wordt aangehaald als: Subsidieregeling ADL-assistentie.

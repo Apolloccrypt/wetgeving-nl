@@ -1,40 +1,17 @@
 ---
 title: "Uitkeringsreglement WW 2015"
 identifier: "BWBR0036710"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-10-01"
-last_updated: "2022-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036710"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "13183613"
-version_id: "22465752"
-internal_id: "C32244911"
-label_id: "13152034"
-dtd_version: "2.0"
-original_entry_into_force: "2015-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036710/2022-10-01/0"
-intitule_bron: "Stcrt.2015-16862"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-06-23"
-intitule_in_force: "2015-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-16862"
-original_published_date: "2015-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-16862"
-entry_into_force_date: "2015-07-01"
-jci_1_3: "jci1.3:c:BWBR0036710&z=2022-10-01&g=2022-10-01"
-jci_1_0: "1.0:c:BWBR0036710&g=2022-10-01"
-citeertitel_status: "officieel"
-entry_into_force: "2015-07-01"
+publicatiedatum: 2015-07-01
+laatste_update: 2022-10-01
+status: geldig
+toestand: 2022-10-01
+bron: "https://wetten.overheid.nl/BWBR0036710"
+opgehaald: 2026-08-22
 ---
+
 # Uitkeringsreglement WW 2015
-
-Gelet op [artikel 101 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=101);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -42,33 +19,33 @@ Besluit:
 
 In dit reglement wordt verstaan onder:
 
-- a. **werknemer:** werknemer in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- a. *werknemer:* werknemer in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- b. **werkgever:** werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- b. *werkgever:* werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- c. **UWV:** Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- c. *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- d. **uitkering:** uitkering in de zin van [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II);
+- d. *uitkering:* uitkering in de zin van [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II);
 
-- e. **wijzigingsformulier:** een door het UWV aan de werknemer ter beschikking gesteld formulier, waarop deze wijziging van de voor de beoordeling van het recht op uitkering noodzakelijke gegevens vermeldt;
+- e. *wijzigingsformulier:* een door het UWV aan de werknemer ter beschikking gesteld formulier, waarop deze wijziging van de voor de beoordeling van het recht op uitkering noodzakelijke gegevens vermeldt;
 
-- f. **formulier inkomstenopgave:** een door het UWV aan de werknemer periodiek ter beschikking gesteld formulier, waarop deze de voor de beoordeling van het recht op uitkering noodzakelijke gegevens vermeldt. Dit formulier kan ook worden verstrekt onder de benaming werkbriefje of declaratie;
+- f. *formulier inkomstenopgave:* een door het UWV aan de werknemer periodiek ter beschikking gesteld formulier, waarop deze de voor de beoordeling van het recht op uitkering noodzakelijke gegevens vermeldt. Dit formulier kan ook worden verstrekt onder de benaming werkbriefje of declaratie;
 
-- g. **DigiD:** de voorziening bedoeld in [artikel 1, onder b, van het Tijdelijk besluit nummergebruik overheidstoegangsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0017449&artikel=1).
+- g. *DigiD:* de voorziening bedoeld in [artikel 1, onder b, van het Tijdelijk besluit nummergebruik overheidstoegangsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0017449&artikel=1).
 
 #### § 2. Controlevoorschriften
 
 ##### Artikel 2. Aanvraag werkloosheidsuitkering
 
-1. De werknemer dient binnen één week na het intreden van de werkloosheid bij het UWV een aanvraag voor een uitkering in op de wijze zoals beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](onbekend).
+1. De werknemer dient binnen één week na het intreden van de werkloosheid bij het UWV een aanvraag voor een uitkering in op de wijze zoals beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](https://wetten.overheid.nl/BWBR0031975).
 
 2. De aanvraag wordt door de werknemer ondertekend. Indien de aanvraag elektronisch wordt ingediend, vindt ondertekening plaats via DigiD.
 
 ##### Artikel 3. Gegevensverstrekking werknemer
 
-1. De werknemer geeft onverwijld en uit eigen beweging aan het UWV alle feiten en omstandigheden door, waarvan het hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de uitkering. De werknemer gebruikt hiervoor het door het UWV beschikbaar gestelde wijzigingsformulier en stuurt dit formulier aan het UWV op de wijze zoals beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](onbekend).
+1. De werknemer geeft onverwijld en uit eigen beweging aan het UWV alle feiten en omstandigheden door, waarvan het hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de uitkering. De werknemer gebruikt hiervoor het door het UWV beschikbaar gestelde wijzigingsformulier en stuurt dit formulier aan het UWV op de wijze zoals beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](https://wetten.overheid.nl/BWBR0031975).
 
-2. De werknemer vult over iedere maand het formulier inkomstenopgave in en stuurt dit aan het UWV op de wijze zoals is beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](onbekend). De werknemer verzendt het formulier uiterlijk op de 15e dag van de tweede maand na de kalendermaand waarop de inkomstenopgave betrekking heeft.
+2. De werknemer vult over iedere maand het formulier inkomstenopgave in en stuurt dit aan het UWV op de wijze zoals is beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](https://wetten.overheid.nl/BWBR0031975). De werknemer verzendt het formulier uiterlijk op de 15e dag van de tweede maand na de kalendermaand waarop de inkomstenopgave betrekking heeft.
 
 3. Gedurende de periode, waarover de werknemer de in het tweede lid bedoelde formulieren inkomstenopgave invult en aan het UWV stuurt, is hij ontheven van de verplichting bedoeld in het eerste lid, voor zover deze verplichting ziet op het onverwijld en uit eigen beweging doorgeven van de gegevens die op het formulier inkomstenopgave uitgevraagd worden.
 
@@ -148,13 +125,13 @@ Het UWV betaalt de uitkering binnen twee weken nadat de werknemer over de betref
 
 1. Het [uitkeringsreglement WW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025107) wordt ingetrokken.
 
-2. In afwijking van het eerste lid, blijft het [Uitkeringsreglement WW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025107), zoals dat luidde op 30 juni 2015, van toepassing op een recht op uitkering waarop de [artikelen 130z tot en met 130dd van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130aa) van toepassing zijn.
+2. In afwijking van het eerste lid, blijft het [Uitkeringsreglement WW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025107), zoals dat luidde op 30 juni 2015, van toepassing op een recht op uitkering waarop de [artikelen 130z tot en met 130dd van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130aa) van toepassing zijn.
 
 3. De toepassing van het tweede lid eindigt op het tijdstip dat het recht op uitkering op grond van [artikel 130z](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z) of [130aa van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130aa) door het UWV is omgezet in een recht op uitkering op grond van de werkloosheidswet zoals deze luidt na de inwerkingtreding van de [Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ##### Artikel 12. Inwerkingtreding
 
-Dit besluit treedt in werking op 1 juli 2015, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 juni 2015, treedt het in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 juli 2015.
+Dit besluit treedt in werking op 1 juli 2015, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 juni 2015, treedt het in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 juli 2015.
 
 ##### Artikel 13. Citeertitel
 

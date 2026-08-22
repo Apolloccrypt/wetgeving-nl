@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Milieu, van 17 maart 2015, nr. IenM/BSK-2015/51943, houdende verlening van vrijstelling van artikel 31 van het Reglement Verkeersregels en Verkeerstekens 1990 voor het op de openbare weg krijgen of geven van rijonderricht in het besturen van een voorrangsvoertuig"
+citeertitel: "Besluit vrijstelling artikel 31 Reglement Verkeersregels en Verkeerstekens 1990 voor het op de openbare weg krijgen of geven van rijonderricht in het besturen van een voorrangsvoertuig"
 identifier: "BWBR0036428"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-10-02"
-last_updated: "2015-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036428"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13081403"
-version_id: "22311112"
-internal_id: "C31957721"
-label_id: "13050184"
-dtd_version: "2.0"
-original_entry_into_force: "2015-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036428/2015-10-02/0"
-intitule_bron: "Stcrt.2015-7796"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-03-17"
-intitule_published: "2015-03-20"
-intitule_in_force: "2015-03-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-7796"
-original_signed_date: "2015-03-17"
-original_published_date: "2015-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-7796"
-entry_into_force_date: "2015-04-01"
-jci_1_3: "jci1.3:c:BWBR0036428&z=2015-10-02&g=2015-10-02"
-jci_1_0: "1.0:c:BWBR0036428&g=2015-10-02"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vrijstelling artikel 31 Reglement Verkeersregels en Verkeerstekens 1990 voor het op de openbare weg krijgen of geven van rijonderricht in het besturen van een voorrangsvoertuig"
-signed_date: "2015-03-17"
-entry_into_force: "2015-04-01"
+publicatiedatum: 2015-04-01
+laatste_update: 2015-10-02
+status: geldig
+toestand: 2015-10-02
+bron: "https://wetten.overheid.nl/BWBR0036428"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister van Infrastructuur en Milieu, van 17 maart 2015, nr. IenM/BSK-2015/51943, houdende verlening van vrijstelling van artikel 31 van het Reglement Verkeersregels en Verkeerstekens 1990 voor het op de openbare weg krijgen of geven van rijonderricht in het besturen van een voorrangsvoertuig
-
-Gelet op de [artikelen 147, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=147), en [150, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=150);
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -79,5 +53,3 @@ De bestuurder die op de openbare weg rijonderricht krijgt of geeft in het bestur
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 april 2015.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

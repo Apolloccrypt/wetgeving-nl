@@ -1,100 +1,41 @@
 ---
 title: "Besluit van 21 mei 2015, houdende regels over facturen en verbruiks- en indicatieve kostenoverzichten van energie in verband met de implementatie van richtlijn 2012/27/EU betreffende energie-efficiëntie (Besluit factuur, verbruiks- en indicatief kostenoverzicht energie)"
+citeertitel: "Besluit factuur, verbruiks- en indicatief kostenoverzicht energie"
 identifier: "BWBR0036646"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036646"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13161543"
-version_id: "22431932"
-internal_id: "C32194781"
-label_id: "13130244"
-dtd_version: "2.0"
-original_entry_into_force: "2015-05-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036646/2026-01-01/0"
-intitule_bron: "Stb.2015-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-05-21"
-intitule_published: "2015-05-29"
-intitule_in_force: "2015-05-29"
-intitule_status: "goed"
-original_publication: "Stb.2015-190"
-original_signed_date: "2015-05-21"
-original_published_date: "2015-05-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2015-190"
-entry_into_force_date: "2015-05-30"
-jci_1_3: "jci1.3:c:BWBR0036646&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0036646&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit factuur, verbruiks- en indicatief kostenoverzicht energie"
-signed_date: "2015-05-21"
-entry_into_force: "2015-05-30"
+publicatiedatum: 2015-05-30
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0036646"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 21 mei 2015, houdende regels over facturen en verbruiks- en indicatieve kostenoverzichten van energie in verband met de implementatie van richtlijn 2012/27/EU betreffende energie-efficiëntie (Besluit factuur, verbruiks- en indicatief kostenoverzicht energie)
 
-Op de voordracht van Onze Minister van Economische Zaken van 3 februari 2015, nr. WJZ / 15008591;
-
-Gelet op de artikelen 10 en 11 van Richtlijn (EU) nr. 2012/27/EU van het Europees Parlement en de Raad van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van de [Richtlijnen 2009/125/EG](32009L0125) en [2010/30](32010L0030)/EU en houdende intrekking van de Richtlijnen [2004/8/EG](32004L0008) en [2006/32/EG](32006L0032) (PbEU 2012, L 315), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=4) en [5 van de Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=5), de [artikelen 95lb](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95lb) en [95lc van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95lc), de [artikelen 42b](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=42b) en [42c van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=42c), [artikel 8b van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=8b) en [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 12 maart 2015, nr. W15.15.0023/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 19 mei 2015, nr. WJZ / 15037098;
-
-Hebben goedgevonden en verstaan:
-
 #### § 1. Begripsbepalingen
-
-#### § 2. Factuur
-
-#### § 2. Factuur
-
-#### § 4. Informatie-uitwisseling
-
-#### § 5. Kosten
-
-#### § 6. Overige bepalingen
-
-##### Artikel 15
-
-Het [Besluit kostenoverzicht energie](https://wetten.overheid.nl/jci1.3:c:BWBR0029673) vervalt.
-
-##### Artikel 16
-
-Wijzigt het Besluit stimulering duurzame energieproductie.
-
-##### Artikel 17
-
-1. Dit besluit, met uitzondering van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01), treedt in werking met ingang van 1 juli 2015.
-
-2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
-
-##### Artikel 18
-
-Dit besluit wordt aangehaald als: Besluit factuur en verbruiks- en indicatief kostenoverzicht energie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **doorleverancier:** een natuurlijke persoon of rechtspersoon die een overeenkomst heeft afgesloten met een energieleverancier ten behoeve van verbruik van warmte of koude door een eindgebruiker;
+- *doorleverancier:* een natuurlijke persoon of rechtspersoon die een overeenkomst heeft afgesloten met een energieleverancier ten behoeve van verbruik van warmte of koude door een eindgebruiker;
 
-- **eindafnemer:** een afnemer als bedoeld in [artikel 1, onder f, van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=1);
+- *eindafnemer:* een afnemer als bedoeld in [artikel 1, onder f, van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=1);
 
-- **eindgebruiker:** een natuurlijke persoon of rechtspersoon die warmte of koude verbruikt en voor wie een doorleverancier een overeenkomst heeft afgesloten met een energieleverancier;
+- *eindgebruiker:* een natuurlijke persoon of rechtspersoon die warmte of koude verbruikt en voor wie een doorleverancier een overeenkomst heeft afgesloten met een energieleverancier;
 
-- **energieleverancier:** leverancier van warmte als bedoeld in [artikel 1, eerste lid van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1), of van koude;
+- *energieleverancier:* leverancier van warmte als bedoeld in [artikel 1, eerste lid van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1), of van koude;
 
-- **leverancier van brandstof:** leverancier van brandstof, niet zijnde een energieleverancier of een leverancier als bedoeld in [artikel 1.1. van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+- *leverancier van brandstof:* leverancier van brandstof, niet zijnde een energieleverancier of een leverancier als bedoeld in [artikel 1.1. van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- **richtlijn meetinstrumenten:** [richtlijn 2014/32/EU](32014L0032) van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten;
+- *richtlijn meetinstrumenten:*
+ richtlijn 2014/32/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten;
 
-- **warmtemeter:** meter als bedoeld in bijlage VI van de richtlijn meetinstrumenten.
+- *warmtemeter:* meter als bedoeld in bijlage VI van de richtlijn meetinstrumenten.
+
+#### § 2. Factuur
 
 ##### Artikel 2
 
@@ -174,9 +115,9 @@ Een leverancier van brandstof verstrekt voor zover dit mogelijk is een verbruiks
 
 - b. de gegevens, bedoeld in [artikel 4, eerste lid, onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01);
 
-- c. het standaard jaarverbruik van de eindafnemer, de doorleverancier of de eindgebruiker;
+- c. het standaard jaarverbruik van de eindafnemer, de doorleverancier of de eindgebruiker;
 
-- d. indien dit mogelijk en nuttig is een vergelijking van het energieverbruik met het energieverbruik van een gemiddelde eindafnemer, doorleverancier of eindgebruiker uit een vergelijkbare verbruikerscategorie;
+- d. indien dit mogelijk en nuttig is een vergelijking van het energieverbruik met het energieverbruik van een gemiddelde eindafnemer, doorleverancier of eindgebruiker uit een vergelijkbare verbruikerscategorie;
 
 - e. indien dit mogelijk is een vergelijking, bij voorkeur in grafische vorm, van de onder [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01) bedoelde gegevens, met dezelfde gegevens uit dezelfde periode van het voorgaande jaar;
 
@@ -190,15 +131,15 @@ Een leverancier van brandstof verstrekt voor zover dit mogelijk is een verbruiks
 
 - c. de gegevens, bedoeld in [artikel 4, eerste lid, onder b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01);
 
-- d. de kosten, bedoeld in [artikel 4, eerste lid, onderdeel c, d, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), gebaseerd op de actuele hoogtes van de verbruiksafhankelijke en verbruiksonafhankelijke kosten voor de afgenomen energie en de actuele kosten voor de netto hoeveelheid afgenomen energie van de eindafnemer, de doorleverancier of de eindgebruiker in de periode waarop het verbruiks- en indicatief kostenoverzicht betrekking heeft.
+- d. de kosten, bedoeld in [artikel 4, eerste lid, onderdeel c, d, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), gebaseerd op de actuele hoogtes van de verbruiksafhankelijke en verbruiksonafhankelijke kosten voor de afgenomen energie en de actuele kosten voor de netto hoeveelheid afgenomen energie van de eindafnemer, de doorleverancier of de eindgebruiker in de periode waarop het verbruiks- en indicatief kostenoverzicht betrekking heeft.
 
 3. Het eerste en het tweede lid zijn niet van toepassing op een verbruiks- en indicatief kostenoverzicht van een leverancier van brandstof, indien de desbetreffende gegevens niet beschikbaar zijn.
 
 4. Een verbruiks- en indicatief kostenoverzicht hoeft niet te bestaan uit:
 
-- a. het standaard jaarverbruik van de eindafnemer, de doorleverancier of de eindgebruiker, indien het verbruiks- en indicatief kostenoverzicht gelijktijdig met een factuur wordt verzonden;
+- a. het standaard jaarverbruik van de eindafnemer, de doorleverancier of de eindgebruiker, indien het verbruiks- en indicatief kostenoverzicht gelijktijdig met een factuur wordt verzonden;
 
-- b. het standaard jaarverbruik van de eindafnemer, de doorleverancier of de eindgebruiker, de periode waarop het verbruiks- en indicatief kostenoverzicht betrekking heeft en de gegevens bedoeld in het eerste lid, onder b, of het tweede lid, onder a, c en d, indien dit overzicht gelijktijdig met de factuur wordt verzonden en betrekking heeft op dezelfde periode als de factuur.
+- b. het standaard jaarverbruik van de eindafnemer, de doorleverancier of de eindgebruiker, de periode waarop het verbruiks- en indicatief kostenoverzicht betrekking heeft en de gegevens bedoeld in het eerste lid, onder b, of het tweede lid, onder a, c en d, indien dit overzicht gelijktijdig met de factuur wordt verzonden en betrekking heeft op dezelfde periode als de factuur.
 
 5. In aanvulling op het eerste en het tweede lid bevat het verbruiks- en indicatief kostenoverzicht van een eindafnemer van warmte of koude, een doorleverancier of een eindgebruiker:
 
@@ -216,7 +157,13 @@ Een leverancier van brandstof verstrekt voor zover dit mogelijk is een verbruiks
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
+
+##### Artikel 11a
+
+1. De leverancier kan op het verbruiks- en indicatief kostenoverzicht aan de eindafnemer een advies verstrekken over de energiebesparende maatregelen die de desbetreffende eindafnemer kan nemen om zijn energieverbruik te verminderen.
+
+2. Het advies, bedoeld in het eerste lid, is gebaseerd op de verbruiksgegevens van de desbetreffende eindafnemer, waar de leverancier toegang tot heeft ter voldoening van zijn verplichtingen als bedoeld in de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01) en indien nuttig openbare gegevens.
 
 #### § 4. Informatie-uitwisseling
 
@@ -227,6 +174,10 @@ Vervallen
 2. Een doorleverancier verzendt een factuur en een verbruiks- en indicatief kostenoverzicht naar de desbetreffende eindgebruiker langs elektronische weg, tenzij de eindgebruiker verzoekt om verzending van een verbruiks- en indicatief kostenoverzicht per post of verzending langs elektronische weg niet mogelijk is.
 
 3. In aanvulling van het eerste en tweede lid kan ingeval van elektronische facturering een energieleverancier of een doorleverancier ervoor kiezen de vergelijkingen bedoeld in [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), online beschikbaar te stellen en daar in de factuur naar de verwijzen.
+
+##### Artikel 12a
+
+*Vervallen*
 
 ##### Artikel 13
 
@@ -244,40 +195,22 @@ Vervallen
 
 3. Een doorleverancier verstrekt een factuur of een verbruiks- en indicatief kostenoverzicht kosteloos aan een eindgebruiker. Aan eindgebruikers kunnen redelijke kosten voor de uitvoering van kostenverdeelsystematiek, als bedoeld in [artikelen 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=2), en [6a, elfde lid, van de Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=6a), zelf worden toegerekend indien dit door een ander dan de leverancier geschiedt.
 
-#### § 5. Kosten
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 11a
-
-1. De leverancier kan op het verbruiks- en indicatief kostenoverzicht aan de eindafnemer een advies verstrekken over de energiebesparende maatregelen die de desbetreffende eindafnemer kan nemen om zijn energieverbruik te verminderen.
-
-2. Het advies, bedoeld in het eerste lid, is gebaseerd op de verbruiksgegevens van de desbetreffende eindafnemer, waar de leverancier toegang tot heeft ter voldoening van zijn verplichtingen als bedoeld in de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01) en indien nuttig openbare gegevens.
-
-#### § 4. Informatie-uitwisseling
-
-#### § 5. Kosten
-
-#### § 5. Kosten
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 12a
-
-Vervallen
-
 #### § 6. Overige bepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 15
 
-##### Artikel 7a
+Het [Besluit kostenoverzicht energie](https://wetten.overheid.nl/jci1.3:c:BWBR0029673) vervalt.
 
-1. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=3&artikel=7&z=2021-07-23&g=2021-07-23), verstrekt een leverancier van warmte of van koude ten minste ieder kwartaal een verbruiks- en indicatief kostenoverzicht aan een eindafnemer van warmte of van koude die beschikt over een op afstand uitleesbare warmte- of koudemeter die door een leverancier van warmte of van koude nog niet op afstand kan worden uitgelezen. Op verzoek van een eindafnemer kan de frequentie worden verlaagd.
+##### Artikel 16
 
-2. In afwijking van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=3&artikel=7&z=2021-07-23&g=2021-07-23), verstrekt een doorleverancier ten minste ieder kwartaal een verbruiks- en indicatief kostenoverzicht aan eindgebruiker die beschikt over een op afstand uitleesbare warmte- of koudemeter die door een energieleverancier nog niet op afstand kan worden uitgelezen. Op verzoek van een eindgebruiker kan de frequentie worden verlaagd.
+*Wijzigt het Besluit stimulering duurzame energieproductie.*
 
-#### § 4. Informatie-uitwisseling
+##### Artikel 17
 
-#### § 6. Overige bepalingen
+1. Dit besluit, met uitzondering van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01), treedt in werking met ingang van 1 juli 2015.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+
+##### Artikel 18
+
+Dit besluit wordt aangehaald als: Besluit factuur en verbruiks- en indicatief kostenoverzicht energie.

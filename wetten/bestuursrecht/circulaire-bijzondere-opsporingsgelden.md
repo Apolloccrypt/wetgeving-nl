@@ -1,111 +1,87 @@
 ---
 title: "Circulaire bijzondere opsporingsgelden"
 identifier: "BWBR0036094"
-country: "nl"
-rank: "circulaire"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036094"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "12930883"
-version_id: "22025112"
-internal_id: "C31582641"
-label_id: "12900064"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036094/2015-01-01/0"
-intitule_bron: "Stcrt.2014-37536"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-17"
-intitule_published: "2014-12-31"
-intitule_in_force: "2014-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-37536"
-original_signed_date: "2014-12-17"
-original_published_date: "2014-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-37536"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0036094&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0036094&g=2015-01-01"
-citeertitel_status: "officieel"
-signed_date: "2014-12-17"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0036094"
+opgehaald: 2026-08-22
 ---
-# Circulaire bijzondere opsporingsgelden
 
-Houdende regels van de Minister van Veiligheid en Justitie inzake het toekennen en beschikbaar stellen van gelden ten behoeve van de financiële beloning van informanten, burgerinfiltranten, burgerpseudokopers, burgerpseudodienstverleners, burgers met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten en tipgevers, alsmede voor het toekennen en beschikbaar stellen van toon-, pseudokoop-, opkoop- en andere bijzondere gelden ter ondersteuning van de opsporing.
+# Circulaire bijzondere opsporingsgelden
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze Circulaire wordt verstaan onder:
 
-- a. **Tipgeld:**
+- a. *Tipgeld:*
 
-- 1°. Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een informant, burgerinfiltrant, burgerpseudokoper, burgerpseudodienstverlener of burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten wegens door hem verstrekte inlichtingen of door hem verrichte diensten, die hebben geleid of mede hebben geleid tot de opheldering van een strafbaar feit.
+   - 1°. Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een informant, burgerinfiltrant, burgerpseudokoper, burgerpseudodienstverlener of burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten wegens door hem verstrekte inlichtingen of door hem verrichte diensten, die hebben geleid of mede hebben geleid tot de opheldering van een strafbaar feit.
 
-- 2°. Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een informant, burgerinfiltrant, burgerpseudokoper, burgerpseudodienstverlener of burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten wegens door hem verstrekte concrete inlichtingen of door hem verrichte diensten, die hebben geleid tot de inbeslagneming van contant geld dan wel ander waardevol (on)roerend goed, en welke inbeslagneming zonder die inlichtingen niet zou hebben kunnen plaatsvinden, voor zover het Openbaar Ministerie de ontneming dan wel verbeurdverklaring van het inbeslaggenomen contant geld dan wel ander waardevol (on)roerend goed vordert of heeft gevorderd, dan wel bij vonnis door de rechter is uitgesproken.
+   - 2°. Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een informant, burgerinfiltrant, burgerpseudokoper, burgerpseudodienstverlener of burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten wegens door hem verstrekte concrete inlichtingen of door hem verrichte diensten, die hebben geleid tot de inbeslagneming van contant geld dan wel ander waardevol (on)roerend goed, en welke inbeslagneming zonder die inlichtingen niet zou hebben kunnen plaatsvinden, voor zover het Openbaar Ministerie de ontneming dan wel verbeurdverklaring van het inbeslaggenomen contant geld dan wel ander waardevol (on)roerend goed vordert of heeft gevorderd, dan wel bij vonnis door de rechter is uitgesproken.
 
-- 3°. Geld dat, zonder dat de verstrekte inlichtingen of de verrichte diensten tot opheldering van een strafbaar feit hebben geleid, op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een informant, burgerinfiltrant, burgerpseudokoper, burgerpseudodienstverlener of burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten in een geval dat:
+   - 3°. Geld dat, zonder dat de verstrekte inlichtingen of de verrichte diensten tot opheldering van een strafbaar feit hebben geleid, op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een informant, burgerinfiltrant, burgerpseudokoper, burgerpseudodienstverlener of burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten in een geval dat:
 
-- i. het plegen van een strafbaar feit, op grond van veiligheidsrisico's of andere zwaarwegende belangen in opdracht van het Openbaar Ministerie door de politie is voorkomen;
+      - i. het plegen van een strafbaar feit, op grond van veiligheidsrisico's of andere zwaarwegende belangen in opdracht van het Openbaar Ministerie door de politie is voorkomen;
 
-- ii. de met betrekking tot een strafbaar feit verstrekte inlichtingen of verrichte diensten het algemeen belang of een zwaarwegend economisch belang hebben gediend;
+      - ii. de met betrekking tot een strafbaar feit verstrekte inlichtingen of verrichte diensten het algemeen belang of een zwaarwegend economisch belang hebben gediend;
 
-- iii. de inlichtingen of verrichte diensten hebben geleid tot de opsporing van zaken van (nagenoeg) onvervangbare waarde;
+      - iii. de inlichtingen of verrichte diensten hebben geleid tot de opsporing van zaken van (nagenoeg) onvervangbare waarde;
 
-- iv. de informant, burgerinfiltrant of de burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten in opdracht van het Openbaar Ministerie niet langer in een onderzoek kan worden gebruikt in verband met zijn veiligheid of met het afbreukrisico voor dit onderzoek;
+      - iv. de informant, burgerinfiltrant of de burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten in opdracht van het Openbaar Ministerie niet langer in een onderzoek kan worden gebruikt in verband met zijn veiligheid of met het afbreukrisico voor dit onderzoek;
 
-- v. de informant, burgerinfiltrant of burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten, gelet op de duur van het onderzoek waarin hij wordt gebruikt, naar het oordeel van het Openbaar Ministerie, een incidentele aanmoedigingspremie in de vorm van een voorschot op het naar verwachting toe te kennen tipgeld dient te worden verstrekt;
+      - v. de informant, burgerinfiltrant of burger met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten, gelet op de duur van het onderzoek waarin hij wordt gebruikt, naar het oordeel van het Openbaar Ministerie, een incidentele aanmoedigingspremie in de vorm van een voorschot op het naar verwachting toe te kennen tipgeld dient te worden verstrekt;
 
-- vi. op grond van prioriteitstelling door het openbaar ministerie, het tactisch onderzoek naar aanleiding van de verstrekte inlichtingen gedurende langere tijd wordt uitgesteld;
+      - vi. op grond van prioriteitstelling door het openbaar ministerie, het tactisch onderzoek naar aanleiding van de verstrekte inlichtingen gedurende langere tijd wordt uitgesteld;
 
-- vii. de verstrekte inlichtingen of verrichte diensten hebben geleid tot een voltooide opkoop, zoals bedoeld in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036094&artikel=1&z=2015-01-01&g=2015-01-01). van deze circulaire;
+      - vii. de verstrekte inlichtingen of verrichte diensten hebben geleid tot een voltooide opkoop, zoals bedoeld in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036094&artikel=1&z=2015-01-01&g=2015-01-01). van deze circulaire;
 
-- viii. de door specifieke bron(nen) verstrekte inlichtingen een wezenlijke bijdrage hebben geleverd aan een strategisch, tactisch en/of operationeel keuzedocument, of in een afgeschermde toelichting daarop, welke binnen het stuur- en weegmodel van het Openbaar Ministerie en de politie gezamenlijk, tot een concrete beslissing aanleiding heeft gegeven; of
+      - viii. de door specifieke bron(nen) verstrekte inlichtingen een wezenlijke bijdrage hebben geleverd aan een strategisch, tactisch en/of operationeel keuzedocument, of in een afgeschermde toelichting daarop, welke binnen het stuur- en weegmodel van het Openbaar Ministerie en de politie gezamenlijk, tot een concrete beslissing aanleiding heeft gegeven; of
 
-- ix. de verstrekte inlichtingen hebben geleid tot de aanhouding van een gezochte en/of gesignaleerde verdachte of veroordeelde van een ernstig misdrijf; of
+      - ix. de verstrekte inlichtingen hebben geleid tot de aanhouding van een gezochte en/of gesignaleerde verdachte of veroordeelde van een ernstig misdrijf; of
 
-- x. uit de verstrekte inlichtingen kan worden afgeleid dat sprake is van een concrete dreiging waarbij de veiligheid van (een) perso(o)n(en) in het geding is, waarbij de inlichtingen voorts een wezenlijke bijdrage hebben geleverd aan een in opdracht van de portefeuillehouder Conflict- en Crisisbeheersing opgemaakte dreigingsinschatting.
+      - x. uit de verstrekte inlichtingen kan worden afgeleid dat sprake is van een concrete dreiging waarbij de veiligheid van (een) perso(o)n(en) in het geding is, waarbij de inlichtingen voorts een wezenlijke bijdrage hebben geleverd aan een in opdracht van de portefeuillehouder Conflict- en Crisisbeheersing opgemaakte dreigingsinschatting.
 
-- b. **Beloning:** Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een tipgever.
+- b. *Beloning:* Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een tipgever.
 
-- c. **Pseudokoop:** Hetgeen daaronder wordt verstaan in de [artikelen 126i](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i), [126q](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126q) en [126zd](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd) (politiële pseudokoop) en de [artikelen 126ij](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij), [126z](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z) en [126zt (burgerpseudokoop) van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt).
+- c. *Pseudokoop:* Hetgeen daaronder wordt verstaan in de [artikelen 126i](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i), [126q](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126q) en [126zd](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd) (politiële pseudokoop) en de [artikelen 126ij](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij), [126z](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z) en [126zt (burgerpseudokoop) van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt).
 
-- d. **Pseudokoopgeld:** Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een pseudokoop waarbij daadwerkelijk tot afname van goederen en/of gegevens zal worden overgegaan.
+- d. *Pseudokoopgeld:* Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor een pseudokoop waarbij daadwerkelijk tot afname van goederen en/of gegevens zal worden overgegaan.
 
-- e. **Opkopen:** Het met toestemming van de betrokken hoofdofficier van justitie, zonder strafvorderlijk oogmerk, kopen van een voor het leven of de gezondheid van personen bijzonder gevaarlijk goed, waarvan het ongecontroleerd bezit bovendien in strijd is met de wet of met het algemeen belang.
+- e. *Opkopen:* Het met toestemming van de betrokken hoofdofficier van justitie, zonder strafvorderlijk oogmerk, kopen van een voor het leven of de gezondheid van personen bijzonder gevaarlijk goed, waarvan het ongecontroleerd bezit bovendien in strijd is met de wet of met het algemeen belang.
 
-- f. **Opkoopgeld:** Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor het opkopen van een goed.
+- f. *Opkoopgeld:* Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie beschikbaar wordt gesteld voor het opkopen van een goed.
 
-- g. **Toongeld:** Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie voor bepaalde duur ter beschikking wordt gesteld om een infiltrant van een opsporingsdienst in staat te stellen blijk te geven van zijn belangstelling en kredietwaardigheid voor de aankoop van criminele goederen.
+- g. *Toongeld:* Geld dat op verzoek van de betrokken hoofdofficier van justitie door de Minister van Veiligheid en Justitie voor bepaalde duur ter beschikking wordt gesteld om een infiltrant van een opsporingsdienst in staat te stellen blijk te geven van zijn belangstelling en kredietwaardigheid voor de aankoop van criminele goederen.
 
-- h. **Onkosten- en uurvergoedingen:** De geldelijke vergoeding aan een informant, burgerinfiltrant of burger met wie ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) een overeenkomst is afgesloten ter goedmaking van of tegemoetkoming in de met instemming van het Openbaar Ministerie en op verzoek van een opsporingsdienst met betrekking tot het inwinnen van criminele inlichtingen gemaakte onkosten of gewerkte uren.
+- h. *Onkosten- en uurvergoedingen:* De geldelijke vergoeding aan een informant, burgerinfiltrant of burger met wie ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) een overeenkomst is afgesloten ter goedmaking van of tegemoetkoming in de met instemming van het Openbaar Ministerie en op verzoek van een opsporingsdienst met betrekking tot het inwinnen van criminele inlichtingen gemaakte onkosten of gewerkte uren.
 
-- i. **Schadevergoeding:** De geldelijke vergoeding aan de burger die, in een geval waarop de Circulaire bijzondere opsporingsgelden ziet, bijstand heeft verleend aan de politie, ter goedmaking van of tegemoetkoming in geleden materiële schade met betrekking tot de normale lijfsgoederen, alsmede met betrekking tot een voertuig of een ander privé- eigendom, dat op verzoek van een opsporingsdienst en met instemming van het Openbaar Ministerie met betrekking tot de bijstandsverlening is gebruikt.
+- i. *Schadevergoeding:* De geldelijke vergoeding aan de burger die, in een geval waarop de Circulaire bijzondere opsporingsgelden ziet, bijstand heeft verleend aan de politie, ter goedmaking van of tegemoetkoming in geleden materiële schade met betrekking tot de normale lijfsgoederen, alsmede met betrekking tot een voertuig of een ander privé- eigendom, dat op verzoek van een opsporingsdienst en met instemming van het Openbaar Ministerie met betrekking tot de bijstandsverlening is gebruikt.
 
-- j. **Informant:** Een persoon die heimelijk aan een opsporingsambtenaar informatie verstrekt omtrent strafbare feiten of ernstige schendingen van de openbare orde, die door anderen zijn of worden gepleegd of verricht, welke verstrekking gevaar voor deze persoon of voor derden oplevert.
+- j. *Informant:* Een persoon die heimelijk aan een opsporingsambtenaar informatie verstrekt omtrent strafbare feiten of ernstige schendingen van de openbare orde, die door anderen zijn of worden gepleegd of verricht, welke verstrekking gevaar voor deze persoon of voor derden oplevert.
 
-- k. **Burgerinfiltrant:** De burger, als bedoeld in de [artikelen 126w](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126w), [126x](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126x) en [126zu van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zu).
+- k. *Burgerinfiltrant:* De burger, als bedoeld in de [artikelen 126w](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126w), [126x](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126x) en [126zu van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zu).
 
-- l. **Burgerpseudokoper en -dienstverlener:** De burger, als bedoeld in de [artikelen 126ij](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij), [126z](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z) en [126zt van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt).
+- l. *Burgerpseudokoper en -dienstverlener:* De burger, als bedoeld in de [artikelen 126ij](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij), [126z](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z) en [126zt van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt).
 
-- m. **Tipgever:** De burger die, anders dan als informant of burgerinfiltrant, inlichtingen heeft verstrekt die (mede) hebben geleid tot de aanhouding althans het bekend worden van de dader(s) van een ernstig misdrijf, waarvoor door de betrokken hoofdofficier van justitie in het belang van het onderzoek, met voorafgaande machtiging van de Minister van Veiligheid en Justitie en met inachtneming van de publicatie-eis, als bedoeld in [artikel 6, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036094&artikel=6&z=2015-01-01&g=2015-01-01) van deze circulaire, een financiële beloning in het vooruitzicht is gesteld.
+- m. *Tipgever:* De burger die, anders dan als informant of burgerinfiltrant, inlichtingen heeft verstrekt die (mede) hebben geleid tot de aanhouding althans het bekend worden van de dader(s) van een ernstig misdrijf, waarvoor door de betrokken hoofdofficier van justitie in het belang van het onderzoek, met voorafgaande machtiging van de Minister van Veiligheid en Justitie en met inachtneming van de publicatie-eis, als bedoeld in [artikel 6, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036094&artikel=6&z=2015-01-01&g=2015-01-01) van deze circulaire, een financiële beloning in het vooruitzicht is gesteld.
 
-- n. **Opsporingsdienst:**
+- n. *Opsporingsdienst:*
 
-- a. de regionale politie-eenheden;
+   - a. de regionale politie-eenheden;
 
-- b. de Landelijke Eenheid van de politie;
+   - b. de Landelijke Eenheid van de politie;
 
-- c. de onderdelen van de Koninklijke Marechaussee die door het bevoegd gezag zijn aangewezen om een reguliere politietaak te vervullen;
+   - c. de onderdelen van de Koninklijke Marechaussee die door het bevoegd gezag zijn aangewezen om een reguliere politietaak te vervullen;
 
-- d. de Rijksrecherche;
+   - d. de Rijksrecherche;
 
-- e. de aangewezen bijzondere opsporingsdiensten (BOD’en).
+   - e. de aangewezen bijzondere opsporingsdiensten (BOD’en).
 
-- o. **Betrokken hoofdofficier van justitie:** De hoofdofficier van justitie onder wiens verantwoordelijkheid het desbetreffende strafrechtelijke onderzoek loopt of heeft gelopen, dan wel binnen wiens arrondissement een geval, waarop deze circulaire ziet, zich voordoet of heeft voorgedaan.
+- o. *Betrokken hoofdofficier van justitie:* De hoofdofficier van justitie onder wiens verantwoordelijkheid het desbetreffende strafrechtelijke onderzoek loopt of heeft gelopen, dan wel binnen wiens arrondissement een geval, waarop deze circulaire ziet, zich voordoet of heeft voorgedaan.
 
 ##### Artikel 2. Soorten toe te kennen bijzondere opsporingsgelden
 

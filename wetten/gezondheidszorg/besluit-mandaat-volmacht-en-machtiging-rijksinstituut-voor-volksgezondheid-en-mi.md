@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 26 februari 2015, nr. IENM/BSK-2015/10332, houdende verlening van mandaat, volmacht en machtiging ter uitvoering van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 en de Regeling genetisch gemodificeerde organismen milieubeheer 2013 (Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013)"
+citeertitel: "Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013"
 identifier: "BWBR0036366"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-02-12"
-last_updated: "2022-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036366"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13000903"
-version_id: "22188732"
-internal_id: "C31820141"
-label_id: "12969744"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036366/2022-02-12/0"
-intitule_bron: "Stcrt.2015-5781"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-02-26"
-intitule_published: "2015-03-02"
-intitule_in_force: "2015-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-5781"
-original_signed_date: "2015-02-26"
-original_published_date: "2015-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-5781"
-entry_into_force_date: "2015-03-03"
-jci_1_3: "jci1.3:c:BWBR0036366&z=2022-02-12&g=2022-02-12"
-jci_1_0: "1.0:c:BWBR0036366&g=2022-02-12"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013"
-signed_date: "2015-02-26"
-entry_into_force: "2015-03-03"
+publicatiedatum: 2015-03-03
+laatste_update: 2022-02-12
+status: geldig
+toestand: 2022-02-12
+bron: "https://wetten.overheid.nl/BWBR0036366"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 26 februari 2015, nr. IENM/BSK-2015/10332, houdende verlening van mandaat, volmacht en machtiging ter uitvoering van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 en de Regeling genetisch gemodificeerde organismen milieubeheer 2013 (Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gezien de schriftelijke instemming van de directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu van 23 februari 2015, kenmerk 070/2015 DG AvdZ/WvdW;
-
-BESLUIT:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **Besluit:** [Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090);
+- *Besluit:*
+ [Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090);
 
-- **doelbewuste introductie in het milieu:** doelbewuste introductie als bedoeld in [artikel 1.3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.3);
+- *doelbewuste introductie in het milieu:* doelbewuste introductie als bedoeld in [artikel 1.3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.3);
 
-- **ingeperkt gebruik:** ingeperkt gebruik als bedoeld in [artikel 1.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.2);
+- *ingeperkt gebruik:* ingeperkt gebruik als bedoeld in [artikel 1.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.2);
 
-- **Regeling:** [Regeling genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035072).
+- *Regeling:*
+ [Regeling genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035072).
 
 ##### Artikel 2
 
@@ -112,10 +86,8 @@ Het [Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van 1 maart 2015. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 28 februari 2015, treedt het in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 maart 2015.
+Dit besluit treedt in werking met ingang van 1 maart 2015. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 28 februari 2015, treedt het in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 maart 2015.
 
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

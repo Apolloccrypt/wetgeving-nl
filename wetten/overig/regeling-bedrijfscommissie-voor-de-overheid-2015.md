@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 december 2014, nummer 2014-0000662921, houdende de instelling, taak, werkwijze en samenstelling van de bedrijfscommissie voor de overheid (Regeling bedrijfscommissie voor de overheid 2015)"
+citeertitel: "Regeling bedrijfscommissie voor de overheid 2015"
 identifier: "BWBR0035982"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035982"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "12899753"
-version_id: "21951282"
-internal_id: "C31490411"
-label_id: "12869494"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035982/2020-01-01/0"
-intitule_bron: "Stcrt.2014-36284"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-10"
-intitule_published: "2014-12-18"
-intitule_in_force: "2014-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-36284"
-original_signed_date: "2014-12-10"
-original_published_date: "2014-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-36284"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035982&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0035982&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling bedrijfscommissie voor de overheid 2015"
-signed_date: "2014-12-10"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0035982"
+opgehaald: 2026-08-22
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 december 2014, nummer 2014-0000662921, houdende de instelling, taak, werkwijze en samenstelling van de bedrijfscommissie voor de overheid (Regeling bedrijfscommissie voor de overheid 2015)
-
-Gelet op de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=39), in samenhang met [46d, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=46d) en [46e van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=46e);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,39 +20,39 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bedrijfscommissie overheid:** de bedrijfscommissie voor de overheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01);
+- *bedrijfscommissie overheid:* de bedrijfscommissie voor de overheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01);
 
-- **ondernemingsraad:** een ondernemingsraad, een centrale ondernemingsraad, een groepsondernemingsraad, een personeelsvertegenwoordiging of een vergadering als bedoeld in [artikel 35b van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=35b);
+- *ondernemingsraad:* een ondernemingsraad, een centrale ondernemingsraad, een groepsondernemingsraad, een personeelsvertegenwoordiging of een vergadering als bedoeld in [artikel 35b van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=35b);
 
-- **bemiddeling:** de bemiddeling zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01);
+- *bemiddeling:* de bemiddeling zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01);
 
-- **werkgevers en verenigingen van werkgevers:** de sector Rijk, de sector Politie, de Vereniging van Nederlandse Gemeenten, de Vereniging werken voor waterschappen en het Interprovinciaal Overleg;
+- *werkgevers en verenigingen van werkgevers:* de sector Rijk, de sector Politie, de Vereniging van Nederlandse Gemeenten, de Vereniging werken voor waterschappen en het Interprovinciaal Overleg;
 
-- **centrales van overheidspersoneel:** de Algemene Centrale van Overheidspersoneel, de Christelijke Centrale van Overheids- en Onderwijspersoneel, het Ambtenarencentrum, en de Centrale van Middelbare en Hogere Functionarissen bij Overheid en Onderwijs, Bedrijven en Instellingen;
+- *centrales van overheidspersoneel:* de Algemene Centrale van Overheidspersoneel, de Christelijke Centrale van Overheids- en Onderwijspersoneel, het Ambtenarencentrum, en de Centrale van Middelbare en Hogere Functionarissen bij Overheid en Onderwijs, Bedrijven en Instellingen;
 
-- **de sector Rijk:** de ambtelijke diensten van:
+- *de sector Rijk:* de ambtelijke diensten van:
 
-- a. elk ministerie, met uitzondering van het Ministerie van Defensie;
+   - a. elk ministerie, met uitzondering van het Ministerie van Defensie;
 
-- b. de Tweede Kamer en de Eerste Kamer der Staten-Generaal;
+   - b. de Tweede Kamer en de Eerste Kamer der Staten-Generaal;
 
-- c. de Raad van State;
+   - c. de Raad van State;
 
-- d. de Algemene Rekenkamer;
+   - d. de Algemene Rekenkamer;
 
-- e. de Nationale ombudsman;
+   - e. de Nationale ombudsman;
 
-- f. de Hoge Raad van Adel;
+   - f. de Hoge Raad van Adel;
 
-- g. het Kabinet van de Koning;
+   - g. het Kabinet van de Koning;
 
-- h. de Kanselarij der Nederlandse Orden;
+   - h. de Kanselarij der Nederlandse Orden;
 
-- i. het secretariaat van de commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten;
+   - i. het secretariaat van de commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten;
 
-- j. de Raad voor de rechtspraak, de rechtbanken, de gerechtshoven, de Centrale Raad van Beroep, het College van beroep voor het bedrijfsleven, de niet rechterlijke leden van de Raad voor de rechtspraak en van de besturen van voornoemde gerechten daaronder begrepen, en de gemeenschappelijke diensten die twee of meer van de in dit onderdeel genoemde organisaties in stand houden;
+   - j. de Raad voor de rechtspraak, de rechtbanken, de gerechtshoven, de Centrale Raad van Beroep, het College van beroep voor het bedrijfsleven, de niet rechterlijke leden van de Raad voor de rechtspraak en van de besturen van voornoemde gerechten daaronder begrepen, en de gemeenschappelijke diensten die twee of meer van de in dit onderdeel genoemde organisaties in stand houden;
 
-- k. het secretariaat van de toetsingscommissie inzet bevoegdheden.
+   - k. het secretariaat van de toetsingscommissie inzet bevoegdheden.
 
 ##### Artikel 2. Algemeen
 
@@ -360,6 +334,4 @@ Deze regeling wordt aangehaald als: Regeling bedrijfscommissie voor de overheid 
 
 ##### Artikel 32. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 januari 2015.

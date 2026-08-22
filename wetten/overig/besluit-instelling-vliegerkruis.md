@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 26 Mei 1944, houdende vervanging van het Koninklijk besluit van 28 Augustus 1941 (Staatsblad, No. B 77), tot instelling van een Vliegerkruis"
+citeertitel: "Besluit instelling Vliegerkruis"
 identifier: "BWBR0036404"
-country: "nl"
-rank: "kb"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036404"
+categorie: "Overig"
 soort: "KB"
-stam_id: "13009413"
-version_id: "22234762"
-internal_id: "C32019051"
-label_id: "12978214"
-dtd_version: "2.0"
-original_entry_into_force: "2015-02-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036404/2015-07-01/0"
-intitule_bron: "Stb.1944-E34"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1944-05-26"
-intitule_published: "1944-06-30"
-intitule_in_force: "1944-06-30"
-intitule_status: "goed"
-original_publication: "Stb.2015-108"
-original_signed_date: "2015-02-02"
-original_published_date: "2015-03-17"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2015-108"
-entry_into_force_date: "2015-02-02"
-jci_1_3: "jci1.3:c:BWBR0036404&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0036404&g=2015-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling Vliegerkruis"
-signed_date: "2015-02-02"
-entry_into_force: "2015-02-02"
+publicatiedatum: 2015-02-02
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0036404"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van 26 Mei 1944, houdende vervanging van het Koninklijk besluit van 28 Augustus 1941 (Staatsblad, No. B 77), tot instelling van een Vliegerkruis
-
-Op de voordracht van Onze Ministers van Algemeene Zaken a.i., van Oorlog, van Marine en van Koloniën, d.d. 6 April 1944, Kans/A.Z. No. 79;
-
-Hebben goedgevonden en verstaan:
-
-Ons besluit van 28 Augustus 1941 {Staatsblad, No. B 77) te lezen als volgt:
 
 ##### Artikel 1
 
@@ -54,9 +26,9 @@ Het Vliegerkruis wordt door Ons toegekend aan militairen, in dienst van het Koni
 
 Het Vliegerkruis kan, om redenen vermeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036404&artikel=2&z=2015-07-01&g=2015-07-01), mede worden toegekend aan:
 
-- 1). niet-militairen, Nederlander of Nederlandsch onderdaan zijnde;
+- 1) niet-militairen, Nederlander of Nederlandsch onderdaan zijnde;
 
-- 2). vreemdelingen, indien hun optreden heeft gestrekt ten behoeve van den Nederlandschen Staat.
+- 2) vreemdelingen, indien hun optreden heeft gestrekt ten behoeve van den Nederlandschen Staat.
 
 ##### Artikel 4
 
@@ -70,6 +42,10 @@ Zij, aan wie het Vliegerkruis reeds eenmaal is toegekend, en die daarna wederom 
 
 Het Vliegerkruis kan, indien dit in bijzondere gevallen door het Hoofd van het betrokken Departement van Algemeen Bestuur wenschelijk wordt geacht, ook posthuum worden toegekend.
 
+##### Artikel 5b
+
+Ingaande 1 januari 2017 moet een verzoek om toekenning van het Vliegerkruis zijn ingediend binnen tien jaar na de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036404&artikel=2&z=2015-07-01&g=2015-07-01) genoemde daden.
+
 ##### Artikel 6
 
 In bijzondere gevallen, te Onzer beoordeeling, kan het Vliegerkruis tijdelijk of blijvend worden ontnomen aan hen, die zich dit eereteeken niet langer waardig toonen.
@@ -81,11 +57,3 @@ Voorstellen tot het ontnemen van een verleend Vliegerkruis kunnen aan Ons worden
 ##### Artikel 8
 
 Dit besluit treedt in werking op den dag volgende op dien zijner afkondiging in het Staatsblad.
-
-Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Waterstaat en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5b
-
-Ingaande 1 januari 2017 moet een verzoek om toekenning van het Vliegerkruis zijn ingediend binnen tien jaar na de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036404&artikel=2&z=2015-07-01&g=2015-07-01) genoemde daden.
-
-Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Waterstaat en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.

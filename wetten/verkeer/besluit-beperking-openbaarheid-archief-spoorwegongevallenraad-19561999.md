@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Milieu van 10 maart 2015, nr. IENM/BSK-2015/50705, houdende beperking van de openbaarheid van het archief van de Spoorwegongevallenraad, 1956–1999 (Besluit beperking openbaarheid archief Spoorwegongevallenraad, 1956–1999)"
+citeertitel: "Besluit beperking openbaarheid archief Spoorwegongevallenraad, 1956–1999"
 identifier: "BWBR0036423"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-03-20"
-last_updated: "2015-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036423"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13013123"
-version_id: "22242732"
-internal_id: "C31889211"
-label_id: "12981904"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036423/2015-03-20/0"
-intitule_bron: "Stcrt.2015-7661"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-03-10"
-intitule_published: "2015-03-19"
-intitule_in_force: "2015-03-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-7661"
-original_signed_date: "2015-03-10"
-original_published_date: "2015-03-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-7661"
-entry_into_force_date: "2015-03-20"
-jci_1_3: "jci1.3:c:BWBR0036423&z=2015-03-20&g=2015-03-20"
-jci_1_0: "1.0:c:BWBR0036423&g=2015-03-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Spoorwegongevallenraad, 1956–1999"
-signed_date: "2015-03-10"
-entry_into_force: "2015-03-20"
+publicatiedatum: 2015-03-20
+laatste_update: 2015-03-20
+status: geldig
+toestand: 2015-03-20
+bron: "https://wetten.overheid.nl/BWBR0036423"
+opgehaald: 2026-08-22
 ---
+
 # Besluit van de Minister van Infrastructuur en Milieu van 10 maart 2015, nr. IENM/BSK-2015/50705, houdende beperking van de openbaarheid van het archief van de Spoorwegongevallenraad, 1956–1999 (Besluit beperking openbaarheid archief Spoorwegongevallenraad, 1956–1999)
 
 Gelet op [artikel 15, lid 1, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 16 februari 2015, met kenmerk NA/2015/14691.
