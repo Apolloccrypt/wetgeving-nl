@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2016"
 identifier: "BWBR0037640"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-08-18"
-last_updated: "2017-08-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037640"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "13416643"
-version_id: "23024222"
-internal_id: "C33284241"
-label_id: "13385004"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037640/2017-08-18/0"
-intitule_bron: "Stcrt.2016-8944"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-02-17"
-intitule_in_force: "2016-02-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-8944"
-original_published_date: "2016-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-8944"
-entry_into_force_date: "2016-02-19"
-jci_1_3: "jci1.3:c:BWBR0037640&z=2017-08-18&g=2017-08-18"
-jci_1_0: "1.0:c:BWBR0037640&g=2017-08-18"
-citeertitel_status: "officieel"
-entry_into_force: "2016-02-19"
+publicatiedatum: 2016-02-19
+laatste_update: 2017-08-18
+status: geldig
+toestand: 2017-08-18
+bron: "https://wetten.overheid.nl/BWBR0037640"
+opgehaald: 2026-08-23
 ---
+
 # Beleidsregels vereveningsbijdrage zorgverzekering 2016
-
-Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34, vierde lid, van de zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037291&wetgeving) en de brief van de minister van VWS van 7 oktober 2015, kenmerk 846552-142595-Z,
-
-heeft in zijn vergadering van 18 januari 2016 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -42,37 +19,38 @@ heeft in zijn vergadering van 18 januari 2016 besloten:
 
 Deze beleidsregels verstaan onder:
 
-- a. **het Zorginstituut:** Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- a. *het Zorginstituut:* Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- b. **zwaarte:** het deel waarvoor de verzekerde meetelt in een betreffende klasse;
+- b. *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;
 
-- c. **macroverzekerdenraming:** de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;
+- c. *macroverzekerdenraming:* de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;
 
-- d. **MHK:** meerjarige hoge kosten als bedoeld in [artikel 1, onderdeel z, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- d. *MHK:* meerjarige hoge kosten als bedoeld in [artikel 1, onderdeel z, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- e. **FKG GGZ:** FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- e. *FKG GGZ:* FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- f. **DKG GGZ:** DKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel ff, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1)
+- f. *DKG GGZ:* DKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel ff, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1)
 
-- g. **PKB:** persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;
+- g. *PKB:* persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;
 
-- h. **VPPKB:** verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat;
+- h. *VPPKB:* verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat;
 
-- i. **verzekerde woonachtig in het buitenland:** een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
+- i. *verzekerde woonachtig in het buitenland:* een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
 
-- j. **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
+- j. *vereveningsbijdrage:* de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
 
-- k. **wet:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- k. *wet:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- l. **Regeling:** [Regeling risicoverevening 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037291);
+- l. *Regeling:*
+ [Regeling risicoverevening 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037291);
 
-- m. **de brief:** De brief van de minister van VWS van 7 oktober 2015 met kenmerk 846552-142595-Z;
+- m. *de brief:* De brief van de minister van VWS van 7 oktober 2015 met kenmerk 846552-142595-Z;
 
-- n. **de brief van 2017:** De brief van de Minister van VWS van 31 mei 2017 met kenmerk 1133924-163788-Z.
+- n. *de brief van 2017:* De brief van de Minister van VWS van 31 mei 2017 met kenmerk 1133924-163788-Z.
 
 ##### Artikel 2. Algemene bepaling
 
-Het Zorginstituut past de bepalingen uit het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037291&wetgeving) met betrekking tot de toekenning en vaststelling van de bijdrage aan de zorgverzekeraars toe met inachtneming van het bepaalde in deze beleidsregels.
+Het Zorginstituut past de bepalingen uit het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037291) met betrekking tot de toekenning en vaststelling van de bijdrage aan de zorgverzekeraars toe met inachtneming van het bepaalde in deze beleidsregels.
 
 ##### Artikel 3. Zorgverzekeraars
 
@@ -1278,9 +1256,9 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 5. Het Zorginstituut betaalt de netto te betalen bedragen, bedoeld in het vierde lid, onder a tot en met f, verminderd met de aftrekpost voor de normatieve eigen risico opbrengst 2016, bedoeld in [artikel 85, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2017-08-18&g=2017-08-18), in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
 
-|   | Bestanddelen betalingen |   |   |   |   |
+|  | Bestanddelen betalingen |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Betaalmoment | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2017-08-18&g=2017-08-18) vierde lid, onder a en b | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2017-08-18&g=2017-08-18) vierde lid, onder c | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2017-08-18&g=2017-08-18) vierde lid, onder d en e | [Artikel 86, vierde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2017-08-18&g=2017-08-18) | [Artikel 85, eerste lid onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2017-08-18&g=2017-08-18) |
+| Betaalmoment | Artikel 86 vierde lid, onder a en b | Artikel 86 vierde lid, onder c | Artikel 86 vierde lid, onder d en e | Artikel 86, vierde lid, onder f | Artikel 85, eerste lid onder f |
 | januari 2016 | 0,69% | 1,10% | 0,00% | 8,33% | 3,47% |
 | februari 2016 | 2,51% | 4,05% | 0,00% | 8,33% | 8,29% |
 | maart 2016 | 5,36% | 7,01% | 0,81% | 8,34% | 8,29% |
@@ -1361,15 +1339,3 @@ Deze beleidregels treden in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 91
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2016.
-
-## Bijlage 1. Toewijzing FKG’s diabetes 2016 op basis van farmaciegebruik voor diabetes en hypertensie
-
-### Bijlage bij [artikel 10, lid 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=10&z=2017-08-18&g=2017-08-18)
-
-Toelichting:
-
-Groter of kleiner dan 180 verwijst naar de dagdosering voor de betreffende FKG. De tabel beschrijft de verschillende situaties die mogelijk zijn bij een samenloop van farmaciegebruik voor diabetes en hypertensie. In de laatste kolom staat aangegeven welke FKG’s toegewezen worden in de betreffende situatie.
-
-Bron: Zorginstituut
-
-Deze beleidsregels worden in de Staatscourant geplaatst.

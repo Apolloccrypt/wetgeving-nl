@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister voor Wonen en Rijksdienst van 22 maart 2016, nr. 0000158458, houdende instelling van de Commissie geschilbeslechting bij totstandkoming van prestatieafspraken als bedoeld in artikel 44 van de Woningwet (Instellingsbesluit Adviescommissie geschilbeslechting prestatieafspraken Woningwet)"
+citeertitel: "Instellingsbesluit Adviescommissie geschilbeslechting prestatieafspraken Woningwet"
 identifier: "BWBR0037756"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-01"
-last_updated: "2016-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037756"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13444173"
-version_id: "23077242"
-internal_id: "C33350341"
-label_id: "13411344"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037756/2016-04-01/0"
-intitule_bron: "Stcrt.2016-14908"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-22"
-intitule_published: "2016-03-24"
-intitule_in_force: "2016-03-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-14908"
-original_signed_date: "2016-03-22"
-original_published_date: "2016-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-14908"
-entry_into_force_date: "2016-04-01"
-jci_1_3: "jci1.3:c:BWBR0037756&z=2016-04-01&g=2016-04-01"
-jci_1_0: "1.0:c:BWBR0037756&g=2016-04-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie geschilbeslechting prestatieafspraken Woningwet"
-signed_date: "2016-03-22"
-entry_into_force: "2016-04-01"
+publicatiedatum: 2016-04-01
+laatste_update: 2016-04-01
+status: geldig
+toestand: 2016-04-01
+bron: "https://wetten.overheid.nl/BWBR0037756"
+opgehaald: 2026-08-23
 ---
-# Besluit van de Minister voor Wonen en Rijksdienst van 22 maart 2016, nr. 0000158458, houdende instelling van de Commissie geschilbeslechting bij totstandkoming van prestatieafspraken als bedoeld in artikel 44 van de Woningwet (Instellingsbesluit Adviescommissie geschilbeslechting prestatieafspraken Woningwet)
 
-Besluit:
+# Besluit van de Minister voor Wonen en Rijksdienst van 22 maart 2016, nr. 0000158458, houdende instelling van de Commissie geschilbeslechting bij totstandkoming van prestatieafspraken als bedoeld in artikel 44 van de Woningwet (Instellingsbesluit Adviescommissie geschilbeslechting prestatieafspraken Woningwet)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister voor Wonen en Rijksdienst;
+- a. *minister:* Minister voor Wonen en Rijksdienst;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037756&artikel=2&z=2016-04-01&g=2016-04-01).
+- b. *commissie:* commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037756&artikel=2&z=2016-04-01&g=2016-04-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -121,5 +97,3 @@ Dit besluit treedt in werking met ingang van 1 april 2016.
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie geschilbeslechting prestatieafspraken Woningwet.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

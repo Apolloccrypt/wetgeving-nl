@@ -1,64 +1,36 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en de Minister van Volksgezondheid, Welzijn en Sport van 8 februari 2016, nr. WJZ/15154754, houdende salariscompensatie voor medewerkers van productschappen bij de overgang naar de Rijksoverheid (Regeling salariscompensatie medewerkers voormalige productschappen)"
+citeertitel: "Regeling salariscompensatie medewerkers voormalige productschappen"
 identifier: "BWBR0037614"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-02-17"
-last_updated: "2016-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037614"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13413213"
-version_id: "23016442"
-internal_id: "C33271591"
-label_id: "13380834"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037614/2016-02-17/0"
-intitule_bron: "Stcrt.2016-7380"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-08"
-intitule_published: "2016-02-16"
-intitule_in_force: "2016-02-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-7380"
-original_signed_date: "2016-02-08"
-original_published_date: "2016-02-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-7380"
-entry_into_force_date: "2016-02-17"
-jci_1_3: "jci1.3:c:BWBR0037614&z=2016-02-17&g=2016-02-17"
-jci_1_0: "1.0:c:BWBR0037614&g=2016-02-17"
-citeertitel_status: "officieel"
-short_title: "Regeling salariscompensatie medewerkers voormalige productschappen"
-signed_date: "2016-02-08"
-entry_into_force: "2016-02-17"
+publicatiedatum: 2016-02-17
+laatste_update: 2016-02-17
+status: geldig
+toestand: 2016-02-17
+bron: "https://wetten.overheid.nl/BWBR0037614"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Economische Zaken en de Minister van Volksgezondheid, Welzijn en Sport van 8 februari 2016, nr. WJZ/15154754, houdende salariscompensatie voor medewerkers van productschappen bij de overgang naar de Rijksoverheid (Regeling salariscompensatie medewerkers voormalige productschappen)
-
-Gelet op [artikel 69, derde lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69);
-
-Gehoord het Departementaal Georganiseerd Overleg, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113), bij het Ministerie van Economische Zaken en bij het Ministerie van Volksgezondheid, Welzijn en Sport,
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **datum van overgang:** datum waarop medewerkers zijn overgegaan van een vast dienstverband met een productschap naar een vast dienstverband met het Ministerie van Economische Zaken of met het Ministerie van Volksgezondheid, Welzijn en Sport;
+- a. *datum van overgang:* datum waarop medewerkers zijn overgegaan van een vast dienstverband met een productschap naar een vast dienstverband met het Ministerie van Economische Zaken of met het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- b. **jaarsalaris:** jaarsalaris van de medewerker inclusief eindejaarsuitkering, vakantiegeld, algemene toeslag van 1,9% en de structurele toeslagen van 1,25%, met inbegrip van eventuele schriftelijk vastgelegde salarisafspraken;
+- b. *jaarsalaris:* jaarsalaris van de medewerker inclusief eindejaarsuitkering, vakantiegeld, algemene toeslag van 1,9% en de structurele toeslagen van 1,25%, met inbegrip van eventuele schriftelijk vastgelegde salarisafspraken;
 
-- c. **maandsalaris:** salaris per maand gebaseerd op het jaarsalaris, inclusief proportioneel deel eindejaarsuitkering, vakantiegeld, de algemene toeslag van 1,9% en de structurele toeslagen van 1,25%, met inbegrip van eventuele schriftelijk vastgelegde salarisafspraken;
+- c. *maandsalaris:* salaris per maand gebaseerd op het jaarsalaris, inclusief proportioneel deel eindejaarsuitkering, vakantiegeld, de algemene toeslag van 1,9% en de structurele toeslagen van 1,25%, met inbegrip van eventuele schriftelijk vastgelegde salarisafspraken;
 
-- d. **medewerker:** een persoon die op de datum van overgang vanuit een vast dienstverband met het productschap in algemene dienst van het Rijk in vaste dienst treedt bij het ministerie;
+- d. *medewerker:* een persoon die op de datum van overgang vanuit een vast dienstverband met het productschap in algemene dienst van het Rijk in vaste dienst treedt bij het ministerie;
 
-- e. **ministerie:** het Ministerie van Economische Zaken of het Ministerie van Volksgezondheid, Welzijn en Sport;
+- e. *ministerie:* het Ministerie van Economische Zaken of het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- f. **productschap:** openbaar lichaam alsmede rechtspersoonlijkheid bezittend lichaam, ingesteld op grond van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), eerste lid, respectievelijk [109](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=109), eerste lid, en [110 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=110) zoals deze luidden op 1 januari 2014;
+- f. *productschap:* openbaar lichaam alsmede rechtspersoonlijkheid bezittend lichaam, ingesteld op grond van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), eerste lid, respectievelijk [109](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=109), eerste lid, en [110 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=110) zoals deze luidden op 1 januari 2014;
 
-- g. **septembertoeslag:** jaarlijkse toeslag in de maand september bij het productschap, in verband met het verdwijnen van bonussparen (ter hoogte van € 525,96), die niet pensioengevend is.
+- g. *septembertoeslag:* jaarlijkse toeslag in de maand september bij het productschap, in verband met het verdwijnen van bonussparen (ter hoogte van € 525,96), die niet pensioengevend is.
 
 ##### Artikel 2
 
@@ -91,5 +63,3 @@ Het bevoegd gezag kan afwijken van de bepalingen in deze regeling indien toepass
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling salariscompensatie medewerkers voormalige productschappen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

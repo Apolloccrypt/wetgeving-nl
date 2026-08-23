@@ -1,52 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 16 maart 2016 nr. BOACAT2016/019, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Belastingdienst Douane"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Belastingdienst Douane, Medewerker Informatieverwerking Douane, 2016"
 identifier: "BWBR0037742"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-03-25"
-last_updated: "2016-03-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037742"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "13442143"
-version_id: "23073722"
-internal_id: "C33345511"
-label_id: "13409314"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037742/2016-03-25/0"
-intitule_bron: "Stcrt.2016-14862"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-16"
-intitule_published: "2016-03-24"
-intitule_in_force: "2016-03-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-14862"
-original_signed_date: "2016-03-16"
-original_published_date: "2016-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-14862"
-entry_into_force_date: "2016-03-25"
-jci_1_3: "jci1.3:c:BWBR0037742&z=2016-03-25&g=2016-03-25"
-jci_1_0: "1.0:c:BWBR0037742&g=2016-03-25"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Belastingdienst Douane, Medewerker Informatieverwerking Douane, 2016"
-signed_date: "2016-03-16"
-entry_into_force: "2016-03-25"
+publicatiedatum: 2016-03-25
+laatste_update: 2016-03-25
+status: geldig
+toestand: 2016-03-25
+bron: "https://wetten.overheid.nl/BWBR0037742"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 16 maart 2016 nr. BOACAT2016/019, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Belastingdienst Douane
-
-Gelezen het verzoek van de Directeur Bedrijfsvoering Douane Nederland van 10 maart 2016 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Den Haag en de Directeur-Generaal Belastingdienst:
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -58,7 +24,7 @@ De personen, werkzaam in de functie van Medewerker Informatieverwerking Douane i
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, als genoemd in [onderdeel 11.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, als genoemd in [onderdeel 11.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/BWBR0036694).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -103,5 +69,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Belastingdienst Douane, Medewerker Informatieverwerking Douane, 2016.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

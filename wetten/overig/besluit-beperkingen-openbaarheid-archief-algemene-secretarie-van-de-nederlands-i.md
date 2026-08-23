@@ -1,48 +1,18 @@
 ---
 title: "Besluit houdende beperkingen aan de openbaarheid van het archief van de Algemene Secretarie van de Nederlands-Indische Regering 1922–1950, nummer archiefinventaris 2.10.14"
+citeertitel: "Besluit beperkingen openbaarheid archief Algemene Secretarie van de Nederlands-Indische Regering 1922–1950, nummer archiefinventaris 2.10.14"
 identifier: "BWBR0037786"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-05"
-last_updated: "2016-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037786"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13450203"
-version_id: "23089642"
-internal_id: "C33365971"
-label_id: "13417284"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037786/2016-04-05/0"
-intitule_bron: "Stcrt.2016-16558"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-23"
-intitule_published: "2016-04-04"
-intitule_in_force: "2016-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-16558"
-original_signed_date: "2016-03-23"
-original_published_date: "2016-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-16558"
-entry_into_force_date: "2016-04-05"
-jci_1_3: "jci1.3:c:BWBR0037786&z=2016-04-05&g=2016-04-05"
-jci_1_0: "1.0:c:BWBR0037786&g=2016-04-05"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperkingen openbaarheid archief Algemene Secretarie van de Nederlands-Indische Regering 1922–1950, nummer archiefinventaris 2.10.14"
-signed_date: "2016-03-23"
-entry_into_force: "2016-04-05"
+publicatiedatum: 2016-04-05
+laatste_update: 2016-04-05
+status: geldig
+toestand: 2016-04-05
+bron: "https://wetten.overheid.nl/BWBR0037786"
+opgehaald: 2026-08-23
 ---
+
 # Besluit houdende beperkingen aan de openbaarheid van het archief van de Algemene Secretarie van de Nederlands-Indische Regering 1922–1950, nummer archiefinventaris 2.10.14
-
-Gelet op [artikel 15, lid 1 en 2 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Gelet op de Brief van het Ministerie van Buitenlandse Zaken van 19 oktober 1973 met het kenmerk CA73/U1385;
-
-Gelet op de Verklaring van Overbrenging van 28 november 1983,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -172,11 +142,11 @@ Raadpleging van de archiefbescheiden geborgen onder de inventarisnummers genoemd
 
 Raadpleging van de archiefbescheiden in de inventarisnummers 5282 en 5284 is alleen mogelijk wanneer
 
-- •. raadpleging noodzakelijk is als juridisch bewijsstuk;
+- • raadpleging noodzakelijk is als juridisch bewijsstuk;
 
-- •. raadpleging noodzakelijk is ter voldoening aan volkenrechtelijke verplichting;
+- • raadpleging noodzakelijk is ter voldoening aan volkenrechtelijke verplichting;
 
-- •. raadpleging plaats vindt ten behoeve van wetenschappelijk onderzoek of statistiek.
+- • raadpleging plaats vindt ten behoeve van wetenschappelijk onderzoek of statistiek.
 
 ##### Artikel 4
 

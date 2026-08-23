@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 7 december 2015, nummer 606393, houdende vaststelling van de bewapeningsregeling van de buitengewone agenten van politie BES (Regeling bewapening BavPol BES)"
+citeertitel: "Regeling bewapening BavPol BES"
 identifier: "BWBR0037343"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2015-12-16"
-last_updated: "2015-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037343"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "13343823"
-version_id: "22872772"
-internal_id: "C33070781"
-label_id: "13311634"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037343/2015-12-16/0"
-intitule_bron: "Stcrt.2015-45454"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-07"
-intitule_published: "2015-12-15"
-intitule_in_force: "2015-12-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-45454"
-original_signed_date: "2015-12-07"
-original_published_date: "2015-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-45454"
-entry_into_force_date: "2015-12-16"
-jci_1_3: "jci1.3:c:BWBR0037343&z=2015-12-16&g=2015-12-16"
-jci_1_0: "1.0:c:BWBR0037343&g=2015-12-16"
-citeertitel_status: "officieel"
-short_title: "Regeling bewapening BavPol BES"
-signed_date: "2015-12-07"
-entry_into_force: "2015-12-16"
+publicatiedatum: 2015-12-16
+laatste_update: 2015-12-16
+status: geldig
+toestand: 2015-12-16
+bron: "https://wetten.overheid.nl/BWBR0037343"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 7 december 2015, nummer 606393, houdende vaststelling van de bewapeningsregeling van de buitengewone agenten van politie BES (Regeling bewapening BavPol BES)
-
-Gelet op [artikel 2, onder 1°, Wapenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -81,5 +55,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling bewapening BavPol BES
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

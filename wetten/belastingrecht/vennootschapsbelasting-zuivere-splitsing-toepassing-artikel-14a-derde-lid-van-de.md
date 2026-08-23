@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-18
 toestand: 2022-08-31
 bron: "https://wetten.overheid.nl/BWBR0047081"
-opgehaald: 2026-08-22
+opgehaald: 2026-08-23
 ---
 
 # Vennootschapsbelasting. Zuivere splitsing; toepassing artikel 14a, derde lid, van de Wet op de vennootschapsbelasting 1969

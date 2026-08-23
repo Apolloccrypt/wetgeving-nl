@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 februari 2016, kenmerk 907190-146383-Z, inzake de besteedbare middelen ter dekking van de beheerkosten Wlz 2016 (Aanwijzing besteedbare middelen Beheerskosten Wlz 2016)"
+citeertitel: "Aanwijzing besteedbare middelen beheerskosten Wlz 2016"
 identifier: "BWBR0037633"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-02-19"
-last_updated: "2016-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037633"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13415923"
-version_id: "23021742"
-internal_id: "C33280451"
-label_id: "13383474"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037633/2016-02-19/0"
-intitule_bron: "Stcrt.2016-7918"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-10"
-intitule_published: "2016-02-18"
-intitule_in_force: "2016-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-7918"
-original_signed_date: "2016-02-10"
-original_published_date: "2016-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-7918"
-entry_into_force_date: "2016-02-19"
-jci_1_3: "jci1.3:c:BWBR0037633&z=2016-02-19&g=2016-02-19"
-jci_1_0: "1.0:c:BWBR0037633&g=2016-02-19"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing besteedbare middelen beheerskosten Wlz 2016"
-signed_date: "2016-02-10"
-entry_into_force: "2016-02-19"
+publicatiedatum: 2016-02-19
+laatste_update: 2016-02-19
+status: geldig
+toestand: 2016-02-19
+bron: "https://wetten.overheid.nl/BWBR0037633"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 februari 2016, kenmerk 907190-146383-Z, inzake de besteedbare middelen ter dekking van de beheerkosten Wlz 2016 (Aanwijzing besteedbare middelen Beheerskosten Wlz 2016)
-
-Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -61,5 +35,3 @@ Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte
 ##### Artikel 5
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing besteedbare middelen beheerskosten Wlz 2016.
-
-Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.

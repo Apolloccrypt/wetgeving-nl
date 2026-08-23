@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 september 2015, nr. IENM/BSK-2015/183974, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)"
+citeertitel: "Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen"
 identifier: "BWBR0037094"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-13"
-last_updated: "2025-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037094"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13281863"
-version_id: "22733192"
-internal_id: "C32865901"
-label_id: "13250024"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037094/2025-12-13/0"
-intitule_bron: "Stcrt.2015-30873"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-18"
-intitule_published: "2015-10-16"
-intitule_in_force: "2015-10-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-30873"
-original_signed_date: "2015-09-18"
-original_published_date: "2015-10-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-30873"
-entry_into_force_date: "2015-12-01"
-jci_1_3: "jci1.3:c:BWBR0037094&z=2025-12-13&g=2025-12-13"
-jci_1_0: "1.0:c:BWBR0037094&g=2025-12-13"
-citeertitel_status: "officieel"
-short_title: "Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen"
-signed_date: "2015-09-18"
-entry_into_force: "2015-12-01"
+publicatiedatum: 2015-12-01
+laatste_update: 2025-12-13
+status: geldig
+toestand: 2025-12-13
+bron: "https://wetten.overheid.nl/BWBR0037094"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 september 2015, nr. IENM/BSK-2015/183974, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)
-
-Gelet op Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van [Verordening (EG) nr. 842/2006](32006R0842) (PbEU L 150), [Verordening (EG) nr. 1005/2009](32009R1005) van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende ozonlaag afbrekende stoffen (herschikking) (PbEU L 286) en de [artikelen 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=6), [9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=9), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=11), [12, eerste lid, onder g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=12), en [14, vijfde lid, van het Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=14);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen in werking treedt.
 
 #### § 1. Algemeen
 
@@ -48,27 +20,28 @@ Treedt in werking op het tijdstip waarop het Besluit gefluoreerde broeikasgassen
 
 In deze regeling wordt verstaan onder:
 
-- a. **apparatuur:** apparatuur als bedoeld in de artikelen 5, tweede en derde lid, en 8, tweede en derde lid, van de F-gassenverordening, de klimaatregelingssystemen, bedoeld in artikel 8, vierde lid en tiende lid, tweede alinea, van de F-gassenverordening, de producten en apparatuur, bedoeld in artikel 8, tiende lid, eerste alinea, van de F-gassenverordening, de apparatuur, systemen en apparaten, bedoeld in de artikelen 20, eerste lid, en 21, tweede lid, van de Verordening ozonlaagafbrekende stoffen en de producten en apparatuur, bedoeld in artikel 20, vijfde lid, van de Verordening ozonlaagafbrekende stoffen;
+- a. *apparatuur:* apparatuur als bedoeld in de artikelen 5, tweede en derde lid, en 8, tweede en derde lid, van de F-gassenverordening, de klimaatregelingssystemen, bedoeld in artikel 8, vierde lid en tiende lid, tweede alinea, van de F-gassenverordening, de producten en apparatuur, bedoeld in artikel 8, tiende lid, eerste alinea, van de F-gassenverordening, de apparatuur, systemen en apparaten, bedoeld in de artikelen 20, eerste lid, en 21, tweede lid, van de Verordening ozonlaagafbrekende stoffen en de producten en apparatuur, bedoeld in artikel 20, vijfde lid, van de Verordening ozonlaagafbrekende stoffen;
 
-- b. **besluit:** [Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0037088);
+- b. *besluit:*
+ [Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0037088);
 
-- c. **BRL 100:** Beoordelingsrichtlijn voor het certificaat voor ondernemingen in overeenstemming met [Verordening (EU)2024/573](32024R0573), versie 3.0, 5 december 2025, uitgegeven door Rijkswaterstaat;
+- c. *BRL 100:* Beoordelingsrichtlijn voor het certificaat voor ondernemingen in overeenstemming met Verordening (EU)2024/573, versie 3.0, 5 december 2025, uitgegeven door Rijkswaterstaat;
 
-- d. **BRL 200:** Beoordelingsrichtlijn voor het certificaat voor personen in overeenstemming met [Verordening (EU)2024/573](32024R0573), versie 2.0, 5 december 2025, uitgegeven door Rijkswaterstaat;
+- d. *BRL 200:* Beoordelingsrichtlijn voor het certificaat voor personen in overeenstemming met Verordening (EU)2024/573, versie 2.0, 5 december 2025, uitgegeven door Rijkswaterstaat;
 
-- e. **certificaat:** certificaat, bedoeld in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=6), en [artikel 9, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=9);
+- e. *certificaat:* certificaat, bedoeld in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=6), en [artikel 9, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=9);
 
-- f. **exploitant:** exploitant als bedoeld in artikel 3, vijfde lid, van de F-gassenverordening, onderneming als bedoeld in artikel 3, elfde lid, van de Verordening ozonlaagafbrekende stoffen of eigenaar als bedoeld in [artikel 2a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=2a);
+- f. *exploitant:* exploitant als bedoeld in artikel 3, vijfde lid, van de F-gassenverordening, onderneming als bedoeld in artikel 3, elfde lid, van de Verordening ozonlaagafbrekende stoffen of eigenaar als bedoeld in [artikel 2a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=2a);
 
-- g. **ozonlaagafbrekende stoffen:** de stoffen, bedoeld in artikel 2, onder a, van de Verordening ozonlaagafbrekende stoffen en de isomeren ervan, afzonderlijk of vervat in mengsels;
+- g. *ozonlaagafbrekende stoffen:* de stoffen, bedoeld in artikel 2, onder a, van de Verordening ozonlaagafbrekende stoffen en de isomeren ervan, afzonderlijk of vervat in mengsels;
 
-- h. **instelling:** instelling als bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=10), aan wie een erkenning is verleend;
+- h. *instelling:* instelling als bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=10), aan wie een erkenning is verleend;
 
-- i. **minister:** Minister van Klimaat en Groene Groei;
+- i. *minister:* Minister van Klimaat en Groene Groei;
 
-- j. **register:** het Centraal Register Techniek;
+- j. *register:* het Centraal Register Techniek;
 
-- k. **werkzaamheid:** activiteit als bedoeld in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=6), en [9, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=9).
+- k. *werkzaamheid:* activiteit als bedoeld in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=6), en [9, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=9).
 
 #### § 2. Certificering van natuurlijke personen en ondernemingen
 
@@ -206,7 +179,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - e. door opleiding of ervaring verkregen kennis heeft van de materie die wordt beoordeeld;
 
-- f. voldoet aan overige eisen die zijn gesteld in de BRL 100.
+- f. voldoet aan overige eisen die zijn gesteld in de BRL 100.
 
 ##### Artikel 11. Bewaren en opvragen van gegevens
 
@@ -250,74 +223,18 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 Op een bedrijfscertificaat als bedoeld in [artikel 18, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=18) blijft [artikel 21 van de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties](https://wetten.overheid.nl/jci1.3:c:BWBR0026453&artikel=21), onderscheidenlijk [artikel 22 van de Regeling gefluoreerde broeikasgassen brandbeveiligingssytemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026507&artikel=22), zoals deze artikelen luidden onmiddellijk voorafgaande aan inwerkingtreding van deze regeling, van toepassing.
 
+##### Artikel 13a. Overgangsrecht certificaten natuurlijke personen
+
+In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een natuurlijk persoon dat is afgegeven voor 29 september 2024 of op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor natuurlijke personen, versie 1.2, 1 mei 2017, geldig tot het moment dat voor de werkzaamheden waarvoor het certificaat is afgegeven een nieuw examen is afgelegd waaruit blijkt dat aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan, en uiterlijk tot 12 maart 2029.
+
+##### Artikel 13b. Overgangsrecht certificaten ondernemingen
+
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een onderneming dat is afgegeven op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor ondernemingen, versie 2.0, 6 juni 2019, geldig tot drie maanden na de publicatie van de Uitvoeringsregeling F-gassenverordening en OAS-verordening.
+
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip dat het besluit in werking treedt, met uitzondering van [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2025-12-13&g=2025-12-13), dat in werking treedt met ingang van 1 april 2020.
+Deze regeling treedt in werking op het tijdstip dat het besluit in werking treedt, met uitzondering van [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2025-12-13&g=2025-12-13), dat in werking treedt met ingang van 1 april 2020.
 
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen.
-
-## Bijlage 1. behorende bij [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2020-04-01&g=2020-04-01)
-
-Het jaarverslag bestaat ten minste uit de volgende onderdelen:
-
-- 1. Een algemene beschrijving van de activiteiten van de instelling.
-
-- 2. Ten aanzien van het beschreven kalenderjaar:
-
-- a. het totaal aantal deelnemers aan de examens, uitgesplitst naar de werkzaamheden waarvoor de examens zijn afgelegd;
-
-- b. het aantal afgegeven certificaten.
-
-- 3. Een overzicht van de werkzame examinatoren.
-
-- 4. De resultaten van de interne controles en evaluaties in verband met de uitvoering van de regeling in het beschreven kalenderjaar.
-
-- 5. Het aantal ontvangen klachten evenals de aard hiervan, de wijze waarop deze zijn afgehandeld en het aantal gegrond verklaarde klachten in het beschreven kalenderjaar.
-
-- 6. Het aantal en de aard van de ontvangen bezwaren evenals de korte inhoud van de ter zake genomen besluiten in het beschreven kalenderjaar.
-
-## Bijlage 2. behorende bij [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2020-04-01&g=2020-04-01)
-
-Het jaarverslag bestaat ten minste uit de volgende onderdelen:
-
-- 1. Een algemene beschrijving van de activiteiten van de instelling.
-
-- 2. Ten aanzien van het beschreven kalenderjaar:
-
-- a. het aantal afgegeven certificaten;
-
-- b. het totaal aantal in het register opgenomen ondernemingen per 31 december van het beschreven kalenderjaar;
-
-- c. het aantal en de resultaten van de toelatingsonderzoeken en inspecties in het beschreven kalenderjaar, inclusief de aanvullende beoordelingen;
-
-- d. het aantal geschorste en ingetrokken certificaten alsmede de redenen van schorsing, onderscheidenlijk intrekking.
-
-- 3. Een overzicht van het direct bij de certificering betrokken personeel.
-
-- 4. De resultaten van de interne controles en evaluaties in verband met de uitvoering van de regeling in het beschreven kalenderjaar.
-
-- 5. Het aantal ontvangen klachten evenals de aard hiervan, de wijze waarop deze zijn afgehandeld en het aantal gegrond verklaarde klachten in het beschreven kalenderjaar.
-
-- 6. Het aantal en de aard van de ontvangen bezwaren evenals de korte inhoud van de ter zake genomen besluiten in het beschreven kalenderjaar.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 13a. Overgangsrecht certificaten natuurlijke personen
-
-In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een natuurlijk persoon dat is afgegeven voor 29 september 2024 of op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor natuurlijke personen, versie 1.2, 1 mei 2017, geldig tot het moment dat voor de werkzaamheden waarvoor het certificaat is afgegeven een nieuw examen is afgelegd waaruit blijkt dat aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan, en uiterlijk tot 12 maart 2029.
-
-##### Artikel 13b. Overgangsrecht certificaten ondernemingen
-
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een onderneming dat is afgegeven op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor ondernemingen, versie 2.0, 6 juni 2019, geldig tot drie maanden na de publicatie van de Uitvoeringsregeling F-gassenverordening en OAS-verordening.
-
-## Bijlage 1. behorende bij [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2025-12-13&g=2025-12-13)
-
-Vervallen
-
-## Bijlage 2. behorende bij [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2025-12-13&g=2025-12-13)
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,48 +1,18 @@
 ---
 title: "Rijkswet van 23 december 2015, houdende regeling voor Nederland en Sint Maarten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en een woonplaatsfictie ter zake van erf-en schenkbelasting (Belastingregeling Nederland Sint Maarten)"
+citeertitel: "Belastingregeling Nederland Sint Maarten"
 identifier: "BWBR0037547"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2016-03-01"
-last_updated: "2016-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037547"
+categorie: "Belastingrecht"
 soort: "rijkswet"
-stam_id: "13394843"
-version_id: "22974552"
-internal_id: "C33218651"
-label_id: "13362844"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037547/2016-03-01/0"
-intitule_bron: "Stb.2016-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-23"
-intitule_published: "2016-01-13"
-intitule_in_force: "2016-01-13"
-intitule_status: "goed"
-original_publication: "Stb.2016-21"
-original_signed_date: "2015-12-23"
-original_published_date: "2016-01-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "34263"
-original_url_id: "stb-2016-21"
-entry_into_force_date: "2016-03-01"
-entry_into_force_dossier: "34263"
-jci_1_3: "jci1.3:c:BWBR0037547&z=2016-03-01&g=2016-03-01"
-jci_1_0: "1.0:c:BWBR0037547&g=2016-03-01"
-citeertitel_status: "officieel"
-short_title: "Belastingregeling Nederland Sint Maarten"
-signed_date: "2015-12-23"
-entry_into_force: "2016-03-01"
+publicatiedatum: 2016-03-01
+laatste_update: 2016-03-01
+status: geldig
+toestand: 2016-03-01
+bron: "https://wetten.overheid.nl/BWBR0037547"
+opgehaald: 2026-08-23
 ---
+
 # Rijkswet van 23 december 2015, houdende regeling voor Nederland en Sint Maarten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en een woonplaatsfictie ter zake van erf-en schenkbelasting (Belastingregeling Nederland Sint Maarten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de regeringen van Nederland en Sint Maarten het in onderling overleg raadzaam oordelen, dat op het terrein van de belastingen een nieuwe onderlinge regeling bij rijkswet wordt vastgesteld;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Reikwijdte van de rijkswet
 
@@ -72,33 +42,33 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 - a. in het Europese deel van Nederland: in het Caribische deel van Nederland: (hierna te noemen: «Nederlandse belasting»);
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+   - 2°. de loonbelasting;
 
-- 3°. de vennootschapsbelasting, daaronder begrepen het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168);
+   - 3°. de vennootschapsbelasting, daaronder begrepen het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168);
 
-- 4°. de dividendbelasting; en
+   - 4°. de dividendbelasting; en
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+   - 2°. de loonbelasting;
 
-- 3°. de vastgoedbelasting;
+   - 3°. de vastgoedbelasting;
 
-- 4°. de opbrengstbelasting;
+   - 4°. de opbrengstbelasting;
 
-- 5°. het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028161), het [Mijnbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028574) of de [Petroleumwet Saba Bank BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028163);
+   - 5°. het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028161), het [Mijnbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028574) of de [Petroleumwet Saba Bank BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028163);
 
 - b. in Sint Maarten: (hierna te noemen: «Sint Maartense belasting»).
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+   - 2°. de loonbelasting;
 
-- 3°. de winstbelasting; en
+   - 3°. de winstbelasting; en
 
-- 4°. de dividendbelasting;
+   - 4°. de dividendbelasting;
 
 4. De rijkswet is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van inwerkingtreding van deze rijkswet naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de landen doen elkaar mededeling van alle wezenlijke wijzigingen die in hun belastingwet- en regelgeving zijn aangebracht. Zij kunnen hierover met elkaar in overleg treden met het oog op de toepassing van deze rijkswet.
 
@@ -112,9 +82,9 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 - b. betekent de uitdrukking «Nederland»:
 
-- 1°. het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan zijn territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent; en
+   - 1°. het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan zijn territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent; en
 
-- 2°. het Caribische deel van Nederland, dat is gelegen in de Caribische Zee en bestaat uit de eilandgebieden Bonaire, Sint Eustatius en Saba, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan de territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent, maar met uitzondering van het deel dat betrekking heeft op Aruba, Curaçao en Sint Maarten;
+   - 2°. het Caribische deel van Nederland, dat is gelegen in de Caribische Zee en bestaat uit de eilandgebieden Bonaire, Sint Eustatius en Saba, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan de territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent, maar met uitzondering van het deel dat betrekking heeft op Aruba, Curaçao en Sint Maarten;
 
 - c. betekent de uitdrukking «Sint Maarten» het land Sint Maarten, met inbegrip van de territoriale zee en elk gebied buiten deze territoriale zee van dit deel van het Koninkrijk waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent, maar met uitzondering van het deel daarvan dat betrekking heeft op Aruba, het Caribische deel van Nederland en Curaçao;
 
@@ -132,17 +102,17 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 - j. betekent de uitdrukking «pensioenfonds» elk lichaam dat inwoner is van een land:
 
-- 1°. dat in het algemeen is vrijgesteld van belastingen naar het inkomen in dat land;
+   - 1°. dat in het algemeen is vrijgesteld van belastingen naar het inkomen in dat land;
 
-- 2°. waarvan de werkzaamheden voornamelijk bestaan uit het beheren of verstrekken van pensioenen; en
+   - 2°. waarvan de werkzaamheden voornamelijk bestaan uit het beheren of verstrekken van pensioenen; en
 
-- 3°. dat ingevolge de wettelijke bepalingen van een land erkend is en onder toezicht staat;
+   - 3°. dat ingevolge de wettelijke bepalingen van een land erkend is en onder toezicht staat;
 
 - k. betekent de uitdrukking «bevoegde autoriteit»:
 
-- 1°. wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1°. wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2°. wat Sint Maarten betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+   - 2°. wat Sint Maarten betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van deze rijkswet door een land op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van dat land met betrekking tot de belastingen waarop deze rijkswet van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van dat land prevaleert boven een betekenis die volgens andere wetgeving van dat land aan die uitdrukking wordt gegeven.
 
@@ -306,21 +276,21 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 - a. een lichaam waarvan:
 
-- 1°. de aandelen regelmatig worden verhandeld op een erkende effectenbeurs; of
+   - 1°. de aandelen regelmatig worden verhandeld op een erkende effectenbeurs; of
 
-- 2°. ten minste 50 percent van de aandelen onmiddellijk in eigendom is van een of meer lichamen waarvan de aandelen regelmatig worden verhandeld op een erkende effectenbeurs, maar uitsluitend indien de laatstbedoelde lichamen:
+   - 2°. ten minste 50 percent van de aandelen onmiddellijk in eigendom is van een of meer lichamen waarvan de aandelen regelmatig worden verhandeld op een erkende effectenbeurs, maar uitsluitend indien de laatstbedoelde lichamen:
 
-- aa. inwoner zijn van een van de landen; of
+      - aa. inwoner zijn van een van de landen; of
 
-- bb. recht zouden hebben op voordelen die gelijk zijn aan of gunstiger dan de voordelen uit hoofde van het derde lid ingevolge een allesomvattende regeling tot het vermijden van dubbele belasting tussen hun woonland en het land waar aanspraak wordt gemaakt op de voordelen van het derde lid of ingevolge een multilaterale overeenkomst waarbij het land van vestiging en het land waar aanspraak wordt gemaakt op de voordelen van het derde lid partij zijn;
+      - bb. recht zouden hebben op voordelen die gelijk zijn aan of gunstiger dan de voordelen uit hoofde van het derde lid ingevolge een allesomvattende regeling tot het vermijden van dubbele belasting tussen hun woonland en het land waar aanspraak wordt gemaakt op de voordelen van het derde lid of ingevolge een multilaterale overeenkomst waarbij het land van vestiging en het land waar aanspraak wordt gemaakt op de voordelen van het derde lid partij zijn;
 
 - b. een lichaam dat het hoofdkantoor is van een multinationale groep van vennootschappen en dat een wezenlijk deel verzorgt van het algemene toezicht op en het bestuur van de groep en van de administratie daarvan, of een wezenlijk deel verschaft van de financiering van de groep, mits dat lichaam de onafhankelijke discretionaire bevoegdheden heeft en uitoefent voor het verrichten van deze functies, met dien verstande dat een lichaam voor dit doel uitsluitend als hoofdkantoor wordt beschouwd indien:
 
-- 1°. de groep van vennootschappen bestaat uit ondernemingen die inwoner zijn van en zich bezighouden met bedrijfsmatige activiteiten in ten minste vijf landen of vijf groepen van landen en deze bedrijfsmatige activiteiten in elk van de vijf landen (of vijf groepen van landen) ten minste 10 percent van het bruto-inkomen van de groep genereren;
+   - 1°. de groep van vennootschappen bestaat uit ondernemingen die inwoner zijn van en zich bezighouden met bedrijfsmatige activiteiten in ten minste vijf landen of vijf groepen van landen en deze bedrijfsmatige activiteiten in elk van de vijf landen (of vijf groepen van landen) ten minste 10 percent van het bruto-inkomen van de groep genereren;
 
-- 2°. niet meer dan 50 percent van zijn bruto-inkomen afkomstig is uit het land waarvan het lichaam dat de dividenden betaalt inwoner is; en
+   - 2°. niet meer dan 50 percent van zijn bruto-inkomen afkomstig is uit het land waarvan het lichaam dat de dividenden betaalt inwoner is; en
 
-- 3°. op dat lichaam in het land waarvan het inwoner is dezelfde regels met betrekking tot belastingen naar het inkomen van toepassing zijn als op andere lichamen die in dat land zijn gevestigd en zich aldaar met bedrijfsmatige activiteiten bezighouden (waaronder niet worden begrepen activiteiten die bestaan uit financiële dienstverlening, royaltybetalingen, verzekerings- of herverzekeringsactiviteiten);
+   - 3°. op dat lichaam in het land waarvan het inwoner is dezelfde regels met betrekking tot belastingen naar het inkomen van toepassing zijn als op andere lichamen die in dat land zijn gevestigd en zich aldaar met bedrijfsmatige activiteiten bezighouden (waaronder niet worden begrepen activiteiten die bestaan uit financiële dienstverlening, royaltybetalingen, verzekerings- of herverzekeringsactiviteiten);
 
 - c. een lichaam dat in het land waarvan het inwoner is voltijds blijvend werk verschaft aan doorgaans ten minste drie natuurlijke personen die zich zelfstandig bezighouden met de werkzaamheden, het vermogen en de inkomsten van dat lichaam en wier bevoegdheden en verantwoordelijkheden in overeenstemming zijn met de aard en functie van die werkzaamheden, de omvang van dat vermogen en die inkomsten en mits zij inwoner zijn van het land waarvan dat lichaam inwoner is.
 
@@ -494,7 +464,7 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 9. Niettegenstaande de bepalingen van het zesde en het achtste lid, wordt, indien sprake is van een vaste inrichting van een onderneming van Sint Maarten die is gelegen in het Caribische deel van Nederland en die, als deze een Nederlands lichaam zou zijn geweest en volgens [artikel 5.2 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) geacht zou worden in het Europese deel van Nederland te zijn gevestigd, voor de daaraan toerekenbare bestanddelen van het inkomen die volgens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037547&hoofdstuk=III&artikel=7&z=2016-03-01&g=2016-03-01) aldaar mogen worden belast en die in de in het vijfde lid bedoelde grondslag zijn begrepen, op de voet van het achtste lid een aftrek op de Sint Maartense belasting verleend voor de volgens de in het Caribische deel van Nederland toepasselijke belastingwetgeving betaalde belasting.
 
-10. Nederland zorgt ervoor dat het heffen van bronbelasting als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0037547&hoofdstuk=VI&artikel=33&z=2016-03-01&g=2016-03-01) niet leidt tot dubbele belasting, overeenkomstig het bepaalde in artikel 14, tweede en derde lid, van [Richtlijn 2003/48/EG](32003L0048) of zorgt voor restitutie van de bronbelasting.
+10. Nederland zorgt ervoor dat het heffen van bronbelasting als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0037547&hoofdstuk=VI&artikel=33&z=2016-03-01&g=2016-03-01) niet leidt tot dubbele belasting, overeenkomstig het bepaalde in artikel 14, tweede en derde lid, van Richtlijn 2003/48/EG of zorgt voor restitutie van de bronbelasting.
 
 ### Hoofdstuk V. Bijzondere bepalingen
 
@@ -656,35 +626,36 @@ In afwijking in zoverre van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - a. wordt verstaan onder:
 
-- 1°. **Richtlijn 2003/48/EG:** [Richtlijn 2003/48/EG](32003L0048) van de Raad van 3 juni 2003 betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetalingen (PbEU 2003, L 157);
+   - 1°. *Richtlijn 2003/48/EG:*
+ Richtlijn 2003/48/EG van de Raad van 3 juni 2003 betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetalingen (PbEU 2003, L 157);
 
-- 2°. **uiteindelijk gerechtigde:** een uiteindelijk gerechtigde als bedoeld in artikel 2 van [Richtlijn 2003/48/EG](32003L0048);
+   - 2°. *uiteindelijk gerechtigde:* een uiteindelijk gerechtigde als bedoeld in artikel 2 van Richtlijn 2003/48/EG;
 
-- 3°. **uitbetalende instantie:** een uitbetalende instantie als bedoeld in artikel 4 van [Richtlijn 2003/48/EG](32003L0048);
+   - 3°. *uitbetalende instantie:* een uitbetalende instantie als bedoeld in artikel 4 van Richtlijn 2003/48/EG;
 
-- 4°. **rentebetaling:** een rentebetaling als bedoeld in artikel 6 van [Richtlijn 2003/48/EG](32003L0048), met inachtneming van artikel 15 van [Richtlijn 2003/48/EG](32003L0048);
+   - 4°. *rentebetaling:* een rentebetaling als bedoeld in artikel 6 van Richtlijn 2003/48/EG, met inachtneming van artikel 15 van Richtlijn 2003/48/EG;
 
-- b. wordt onder termen die niet anderszins in dit artikel zijn omschreven verstaan: de betekenis die in [Richtlijn 2003/48/EG](32003L0048) daaraan wordt gegeven;
+- b. wordt onder termen die niet anderszins in dit artikel zijn omschreven verstaan: de betekenis die in Richtlijn 2003/48/EG daaraan wordt gegeven;
 
-- c. wordt in de bepalingen in [Richtlijn 2003/48/EG](32003L0048) waarnaar in dit artikel en in [artikel 21, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037547&hoofdstuk=IV&artikel=21&z=2016-03-01&g=2016-03-01), wordt verwezen in plaats van «lidstaten» gelezen: Nederland of Sint Maarten, al naargelang de context vereist.
+- c. wordt in de bepalingen in Richtlijn 2003/48/EG waarnaar in dit artikel en in [artikel 21, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037547&hoofdstuk=IV&artikel=21&z=2016-03-01&g=2016-03-01), wordt verwezen in plaats van «lidstaten» gelezen: Nederland of Sint Maarten, al naargelang de context vereist.
 
-2. Indien de uiteindelijk gerechtigde van rente woonachtig is in Nederland en de uitbetalende instantie in Sint Maarten is gevestigd, heft Sint Maarten gedurende de in artikel 10 van [Richtlijn 2003/48/EG](32003L0048) bedoelde overgangsperiode bronbelasting tegen een tarief van 35 percent. De uitbetalende instantie houdt de bronbelasting in op een wijze als omschreven in artikel 11, tweede en derde lid, van [Richtlijn 2003/48/EG](32003L0048).
+2. Indien de uiteindelijk gerechtigde van rente woonachtig is in Nederland en de uitbetalende instantie in Sint Maarten is gevestigd, heft Sint Maarten gedurende de in artikel 10 van Richtlijn 2003/48/EG bedoelde overgangsperiode bronbelasting tegen een tarief van 35 percent. De uitbetalende instantie houdt de bronbelasting in op een wijze als omschreven in artikel 11, tweede en derde lid, van Richtlijn 2003/48/EG.
 
 3. Het opleggen van bronbelasting door Sint Maarten op grond van dit artikel belet Nederland niet de inkomsten te belasten overeenkomstig het nationale recht met inachtneming van de overige bepalingen in deze rijkswet.
 
-4. Tijdens de in het tweede lid bedoelde overgangsperiode kan Sint Maarten bepalen dat een marktdeelnemer die rente uitbetaalt of een rentebetaling bewerkstelligt voor een in Nederland gevestigde entiteit als bedoeld in artikel 4, tweede lid, van [Richtlijn 2003/48/EG](32003L0048), wordt aangemerkt als de uitbetalende instantie in plaats van de entiteit, en heft Sint Maarten de bronbelasting op die rente, tenzij die entiteit formeel heeft aanvaard dat haar naam en adres alsmede het totale bedrag van de rentebetaling die aan haar is verricht of voor haar is bewerkstelligd, worden meegedeeld overeenkomstig de laatste alinea van dat lid.
+4. Tijdens de in het tweede lid bedoelde overgangsperiode kan Sint Maarten bepalen dat een marktdeelnemer die rente uitbetaalt of een rentebetaling bewerkstelligt voor een in Nederland gevestigde entiteit als bedoeld in artikel 4, tweede lid, van Richtlijn 2003/48/EG, wordt aangemerkt als de uitbetalende instantie in plaats van de entiteit, en heft Sint Maarten de bronbelasting op die rente, tenzij die entiteit formeel heeft aanvaard dat haar naam en adres alsmede het totale bedrag van de rentebetaling die aan haar is verricht of voor haar is bewerkstelligd, worden meegedeeld overeenkomstig de laatste alinea van dat lid.
 
-5. Sint Maarten behoudt 25 percent van de opbrengsten van de bronheffing, bedoeld in het tweede lid, en draagt 75 percent van de opbrengsten af aan Nederland. Indien Sint Maarten overeenkomstig het vierde lid bronbelasting heft, behoudt Sint Maarten 25 percent van de opbrengsten geheven op rentebetalingen aan in Nederland gevestigde entiteiten als bedoeld in artikel 4, tweede lid, van [Richtlijn 2003/48/EG](32003L0048) en draagt Sint Maarten 75 percent af aan Nederland. Die overdrachten vinden plaats uiterlijk in de zes maanden volgende op het eind van het belastingjaar van Sint Maarten. Sint Maarten treft de maatregelen die nodig zijn om het systeem voor de verdeling van de belastingopbrengsten correct te doen functioneren.
+5. Sint Maarten behoudt 25 percent van de opbrengsten van de bronheffing, bedoeld in het tweede lid, en draagt 75 percent van de opbrengsten af aan Nederland. Indien Sint Maarten overeenkomstig het vierde lid bronbelasting heft, behoudt Sint Maarten 25 percent van de opbrengsten geheven op rentebetalingen aan in Nederland gevestigde entiteiten als bedoeld in artikel 4, tweede lid, van Richtlijn 2003/48/EG en draagt Sint Maarten 75 percent af aan Nederland. Die overdrachten vinden plaats uiterlijk in de zes maanden volgende op het eind van het belastingjaar van Sint Maarten. Sint Maarten treft de maatregelen die nodig zijn om het systeem voor de verdeling van de belastingopbrengsten correct te doen functioneren.
 
-6. Sint Maarten voorziet in één van beide of beide procedures, bedoeld in artikel 13, eerste lid, van [Richtlijn 2003/48/EG](32003L0048). Op verzoek van de uiteindelijk gerechtigde geeft de bevoegde autoriteit van Nederland een verklaring af in overeenstemming met artikel 13, tweede lid, van [Richtlijn 2003/48/EG](32003L0048).
+6. Sint Maarten voorziet in één van beide of beide procedures, bedoeld in artikel 13, eerste lid, van Richtlijn 2003/48/EG. Op verzoek van de uiteindelijk gerechtigde geeft de bevoegde autoriteit van Nederland een verklaring af in overeenstemming met artikel 13, tweede lid, van Richtlijn 2003/48/EG.
 
-7. Voor de toepassing van dit artikel bepaalt Sint Maarten de procedures die nodig zijn om de uitbetalende instantie in staat te stellen de identiteit en woonplaats van de uiteindelijk gerechtigde vast te stellen en draagt zorg voor de toepassing van deze procedures in Sint Maarten. Deze procedures voldoen aan de minimumnormen van artikel 3, tweede en derde lid, van [Richtlijn 2003/48/EG](32003L0048), met dien verstande dat met betrekking tot het bepaalde in het tweede lid, onderdeel a, en in het derde lid, onderdeel a, de identiteit en woonplaats van de uiteindelijk gerechtigde worden vastgesteld op grond van de informatie waarover de uitbetalende instantie krachtens de toepassing van de desbetreffende wettelijke en bestuursrechtelijke bepalingen van Sint Maarten beschikt. De bestaande vrijstellingen of ontheffingen die in voorkomend geval op verzoek aan uiteindelijk gerechtigden met woonplaats in Nederland zijn verleend, zijn evenwel niet langer van toepassing en aan die uiteindelijk gerechtigden worden geen verdere vrijstellingen of ontheffingen van dien aard verleend.
+7. Voor de toepassing van dit artikel bepaalt Sint Maarten de procedures die nodig zijn om de uitbetalende instantie in staat te stellen de identiteit en woonplaats van de uiteindelijk gerechtigde vast te stellen en draagt zorg voor de toepassing van deze procedures in Sint Maarten. Deze procedures voldoen aan de minimumnormen van artikel 3, tweede en derde lid, van Richtlijn 2003/48/EG, met dien verstande dat met betrekking tot het bepaalde in het tweede lid, onderdeel a, en in het derde lid, onderdeel a, de identiteit en woonplaats van de uiteindelijk gerechtigde worden vastgesteld op grond van de informatie waarover de uitbetalende instantie krachtens de toepassing van de desbetreffende wettelijke en bestuursrechtelijke bepalingen van Sint Maarten beschikt. De bestaande vrijstellingen of ontheffingen die in voorkomend geval op verzoek aan uiteindelijk gerechtigden met woonplaats in Nederland zijn verleend, zijn evenwel niet langer van toepassing en aan die uiteindelijk gerechtigden worden geen verdere vrijstellingen of ontheffingen van dien aard verleend.
 
-8. Aan het einde van de overgangsperiode, bedoeld in het tweede lid, vindt artikel 10, derde lid, van [Richtlijn 2003/48/EG](32003L0048) overeenkomstige toepassing.
+8. Aan het einde van de overgangsperiode, bedoeld in het tweede lid, vindt artikel 10, derde lid, van Richtlijn 2003/48/EG overeenkomstige toepassing.
 
 ##### Artikel 34. Einde overgangsperiode EU-spaarrenterichtlijn
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 35. Buitenwerkingstelling
 
@@ -701,5 +672,3 @@ Wijzigt deze wet.
 ##### Artikel 37. Citeertitel
 
 Deze rijkswet wordt aangehaald als: Belastingregeling Nederland Sint Maarten.
-
-Lasten en bevelen dat deze in het Staatsblad en het Afkondigingsblad van Sint Maarten zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

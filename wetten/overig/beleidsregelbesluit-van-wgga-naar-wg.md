@@ -1,45 +1,43 @@
 ---
 title: "Beleidsregelbesluit ’Van WGGA naar WG’"
 identifier: "BWBR0037496"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-01-04"
-last_updated: "2016-01-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037496"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13382533"
-version_id: "22947052"
-internal_id: "C33174641"
-label_id: "13350334"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037496/2016-01-04/0"
-intitule_bron: "Stcrt.2016-129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-22"
-intitule_published: "2016-01-04"
-intitule_in_force: "2016-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-129"
-original_signed_date: "2015-12-22"
-original_published_date: "2016-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-129"
-entry_into_force_date: "2016-01-04"
-jci_1_3: "jci1.3:c:BWBR0037496&z=2016-01-04&g=2016-01-04"
-jci_1_0: "1.0:c:BWBR0037496&g=2016-01-04"
-citeertitel_status: "officieel"
-signed_date: "2015-12-22"
-entry_into_force: "2016-01-04"
+publicatiedatum: 2016-01-04
+laatste_update: 2016-01-04
+status: geldig
+toestand: 2016-01-04
+bron: "https://wetten.overheid.nl/BWBR0037496"
+opgehaald: 2026-08-23
 ---
+
 # Beleidsregelbesluit ’Van WGGA naar WG’
 
 Het Ctgb,
 
 Gelet op het bepaalde in
 
+- – Artikel 31, 44, 45 en 75 Verordening (EG) 1107/2009;
+
+- – [Artikel 4 Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=4);
+
+- – [Artikel 2, aanhef en onder e)](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=2) en [11 Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=11).
+
 Overwegende dat
+
+- – het huidige WGGA (Wettelijk gebruiksvoorschrift (WG) en Gebruiksaanwijzing (GA)) van gewasbeschermingsmiddelen niet altijd handhaafbaar, naleefbaar en eenduidig is;
+
+- – in het rapport Oplossingsrichtingen uit ‘Beschikbaar en Handhaafbaar’ een aanbevelíng is gedaan om het huidige WGGA van gewasbeschermingsmiddelen te wijzigen, in die zin dat alle wettelijke (en daardoor te handhaven) voorschriften het Wettelijk gebruiksvoorschrift (WG) vormen en de GA (gebruiksaanwijzing) niet meer door het Ctgb wordt vastgesteld;
+
+- – het Ctgb het project van ‘WGGA naar WG’ is gestart, met als doel een meer gebruiksvriendelijk, eenduidig, handhaafbaar en leesbaar WG op te leveren;
+
+- – de omzetting van WGGA’s naar WG’s in drie jaar tijd zal plaatsvinden en alleen gewasbeschermingsmiddelen betreft;
+
+- – het, gezien de weerslag van dit project in de toelatingspraktijk, wenselijk is om op transparante wijze inzicht te geven omtrent de werkwijze en uitgangspunten van de uitvoering omzetting van WGGA’s naar WG’s;
+
+- – om tegemoet te komen aan de bezwaren van gebruikers en de bestuurlijk afspraken zoals vastgelegd in de brief van de Staatssecretaris van Economische Zaken d.d. 3 juni 2014 aan de Tweede Kamer;
+
+- – het dientengevolge wenselijk is dit vast te leggen in een beleidsregelbesluit,
 
 Stelt het volgende beleidsregelbesluit vast inzake de uitvoering van het project ’Omzetting Wettelijk Gebruiksvoorschrift en Gebruiksaanwijzing naar een Wettelijk gebruiksvoorschrift, ter vervanging van het [beleidsregelbesluit ‘Van WGGA naar WG’](https://wetten.overheid.nl/jci1.3:c:BWBR0031369) d.d. 7 maart 2012’:
 
@@ -49,11 +47,17 @@ Dit beleidsregelbesluit is van toepassing op alle toelatingen voor in Nederland 
 
 ### 2. Aanvragen omzetting WGGA naar WG
 
+- a. Bestaande toelatingen met een Wettelijke Gebruiksvoorschrift/Gebruiksaanwijzing Voor het omzetten van de bestaande WGGA naar een WG dient de laatste versie van de Handleiding opstellen Wettelijk Gebruiksvoorschrift, zoals gepubliceerd op www.ctgb.nl, gehanteerd te worden.
+
+- b. Nieuwe toelatingaanvragen /aanvragen herregistratie/uitbreidingsaanvragen Voor het indienen van aanvragen stelt het Ctgb het WG-format, zoals beschreven in de Handleiding en/of addendum, beschikbaar.
+
+- c. Vóór 1 september 2011 bij het Ctgb ingediende aanvragen
+
 Aanvragers die vóór 1 september 2011 een toelatingsaanvraag voor een herbicide hebben ingediend, hebben deze aanvraag ingediend met een WGGA. Aan deze toelatinghouders wordt gevraagd om ter vervanging van het WGGA ook een WG in te dienen. Betreffende aanvragers zijn via een brief hierover geïnformeerd. Indien de aanvrager geen WG binnen de gestelde termijn indient zet het Ctgb het WGGA ambtshalve om naar een WG.
 
 ### 3. Besluiten tot omzetting WGGA
 
-Het College zal besluiten nemen over het omgezette WG zoals bedoeld in artikel 2, onder a.
+Het College zal besluiten nemen over het omgezette WG zoals bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/BWBR0037496).
 
 Daarbij zullen de besluiten per groep middelen (zoals herbiciden, fungiciden, insecticiden, nematiciden etc.) gefaseerd plaatsvinden.
 
@@ -67,7 +71,7 @@ Indien de toelatinghouder geen WG aanlevert dan wel instemt met de door het Ctgb
 
 ### 4. Besluitvorming over vóór 1 september 2011 bij het Ctgb ingediende aanvragen
 
-Bij aanvragen als bedoeld in artikel 2, onder c zal afhankelijk van het tijdstip van toelating in overleg met de aanvragen besloten worden of het middel eerst met een WGGA wordt toegelaten dat later naar een WG wordt omgezet, of dat het middel direct met een WG wordt toegelaten.
+Bij aanvragen als bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/BWBR0037496) zal afhankelijk van het tijdstip van toelating in overleg met de aanvragen besloten worden of het middel eerst met een WGGA wordt toegelaten dat later naar een WG wordt omgezet, of dat het middel direct met een WG wordt toegelaten.
 
 ### 5. Aanbevelingen, niet behorend tot het WG
 
@@ -80,11 +84,3 @@ Voor de werkzaamheden die het Ctgb verricht voor het omzetten of het controleren
 ### 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregelbesluit ’Van WGGA naar WG’
-
-## Bijlage I
-
-[Niet opgenomen.]
-
-## Bijlage II
-
-[Niet opgenomen.]

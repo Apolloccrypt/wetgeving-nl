@@ -1,18 +1,18 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000304798, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Sociale Zekerheid en Integratie ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015"
 identifier: "BWBR0037432"
 categorie: "Sociaal recht"
-publicatiedatum: 2026-05-16
+soort: "ministeriele-regeling"
+publicatiedatum: 2015-12-30
 laatste_update: 2026-05-16
 status: geldig
+toestand: 2026-05-16
 bron: "https://wetten.overheid.nl/BWBR0037432"
+opgehaald: 2026-08-23
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000304798, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Sociale Zekerheid en Integratie ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015)
-
-Gelet op [artikelen 8, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -20,15 +20,15 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directeur-generaal:** de directeur-generaal Sociale Zekerheid en Integratie;
+- a. *directeur-generaal:* de directeur-generaal Sociale Zekerheid en Integratie;
 
-- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2026-05-16&g=2026-05-16);
+- b. *directie:* een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2026-05-16&g=2026-05-16);
 
-- c. **directeur:** een functionaris die leiding geeft aan een directie;
+- c. *directeur:* een functionaris die leiding geeft aan een directie;
 
-- d. **hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI:** een functionaris die leiding geeft aan de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
+- d. *hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI:* een functionaris die leiding geeft aan de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
 
-- e. **RCN:** Rijksdienst Caribisch Nederland.
+- e. *RCN:* Rijksdienst Caribisch Nederland.
 
 #### § 2. Organisatie
 
@@ -164,7 +164,7 @@ De directie Samenleving en Integratie is verantwoordelijk voor:
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -254,8 +254,6 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688) dat genomen is krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2026-05-16&g=2026-05-16), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2026-05-16&g=2026-05-16) van deze regeling.
 
-4. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
+4. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
 5. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

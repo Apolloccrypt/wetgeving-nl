@@ -1,54 +1,29 @@
 ---
 title: "Besluit van het bestuur van het CAK van 8 december 2015 houdende opheffing van de bezwaaradviescommissie (Opheffingsbesluit bezwaaradviescommissie Wtcg)"
+citeertitel: "Opheffingsbesluit Bezwaaradviescommissie Wtcg"
 identifier: "BWBR0037413"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037413"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "13359153"
-version_id: "22901632"
-internal_id: "C33123161"
-label_id: "13326914"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037413/2016-01-01/0"
-intitule_bron: "Stcrt.2015-46777"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-08"
-intitule_published: "2015-12-22"
-intitule_in_force: "2015-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-46777"
-original_signed_date: "2015-12-08"
-original_published_date: "2015-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-46777"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037413&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0037413&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Opheffingsbesluit Bezwaaradviescommissie Wtcg"
-signed_date: "2015-12-08"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0037413"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van het bestuur van het CAK van 8 december 2015 houdende opheffing van de bezwaaradviescommissie (Opheffingsbesluit bezwaaradviescommissie Wtcg)
-
-Gelet op het bepaalde bij [Wet van 4 juni 2014 tot afschaffing van de algemene tegemoetkoming voor chronisch zieken en gehandicapten, de compensatie voor het verplicht eigen risico, de fiscale aftrek van uitgaven voor specifieke zorgkosten en de tegemoetkoming specifieke zorgkosten en wijziging van de grondslag van de tegemoetkoming voor arbeidsongeschikten](https://wetten.overheid.nl/jci1.3:c:BWBR0035323), gepubliceerd bij Staatsblad 2014, nr. 259 en de daarin opgenomen bepalingen, in het bijzonder de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIII) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XVI) welke per 1 januari 2016 in werking treden, wordt het volgende besloten:
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In de besluit wordt verstaan onder:
 
-- a. **het CAK:** zelfstandig bestuursorgaan, genoemd in [artikel 6.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1) (Wlz).
+- a. *het CAK:* zelfstandig bestuursorgaan, genoemd in [artikel 6.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1) (Wlz).
 
-- b:. **commissie:** de bezwaaradviescommissie Wtcg.
+- b: *commissie:* de bezwaaradviescommissie Wtcg.
 
-- c. **Afschaffingswet:** [Wet van 4 juni 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035323), gepubliceerd bij Staatsblad 2014, nr. 259.
+- c. *Afschaffingswet:*
+ [Wet van 4 juni 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035323), gepubliceerd bij Staatsblad 2014, nr. 259.
 
 ##### Artikel 2. Opheffing
 

@@ -1,60 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 november 2015 nr. BOACAT2015/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Belastingdienst"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Belastingdienst 2015"
 identifier: "BWBR0037273"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-12-17"
-last_updated: "2015-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037273"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "13326583"
-version_id: "22828962"
-internal_id: "C32992411"
-label_id: "13294374"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037273/2015-12-17/0"
-intitule_bron: "Stcrt.2015-43149"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-11-25"
-intitule_published: "2015-12-02"
-intitule_in_force: "2015-12-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-43149"
-original_signed_date: "2015-11-25"
-original_published_date: "2015-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-43149"
-entry_into_force_date: "2015-12-17"
-jci_1_3: "jci1.3:c:BWBR0037273&z=2015-12-17&g=2015-12-17"
-jci_1_0: "1.0:c:BWBR0037273&g=2015-12-17"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Belastingdienst 2015"
-signed_date: "2015-11-25"
-entry_into_force: "2015-12-17"
+publicatiedatum: 2015-12-17
+laatste_update: 2015-12-17
+status: geldig
+toestand: 2015-12-17
+bron: "https://wetten.overheid.nl/BWBR0037273"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 november 2015 nr. BOACAT2015/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Belastingdienst
-
-Gelezen het verzoek van de Algemeen directeur Belastingen van 15 oktober 2015 en het advies van de Directeur-generaal Belastingdienst;
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Belastingdienst:** de onderdelen, genoemd in [artikel 3, eerste lid, letter a onderdeel a1, van de Uitvoeringsregeling Belastingdienst 2003, c1 en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3);
+- a. *Belastingdienst:* de onderdelen, genoemd in [artikel 3, eerste lid, letter a onderdeel a1, van de Uitvoeringsregeling Belastingdienst 2003, c1 en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3);
 
-- b. **buitengewoon opsporingsambtenaar:** de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037273&artikel=2&z=2015-12-17&g=2015-12-17) van dit besluit;
+- b. *buitengewoon opsporingsambtenaar:* de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037273&artikel=2&z=2015-12-17&g=2015-12-17) van dit besluit;
 
 ##### Artikel 2
 
@@ -62,7 +28,7 @@ De personen werkzaam in de functie van verbalisant of fraudecoördinator in dien
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, Inkomen en Zorg, als genoemd in [onderdeel 10.3 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, Inkomen en Zorg, als genoemd in [onderdeel 10.3 van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/BWBR0036694).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -115,5 +81,3 @@ Het [Besluit buitengewoon opsporingsambtenaar Belastingdienst/Bureau Economische
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Belastingdienst 2015.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst van 17 december 2015, houdende instelling van een eenmalige commissie van deskundigen met betrekking tot de rechtseenheid in het bestuursrecht (Instellingsregeling Commissie rechtseenheid bestuursrecht)"
+citeertitel: "Instellingsregeling Commissie rechtseenheid bestuursrecht"
 identifier: "BWBR0037398"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-12-24"
-last_updated: "2015-12-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037398"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13355573"
-version_id: "22894352"
-internal_id: "C33113831"
-label_id: "13323344"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037398/2015-12-24/0"
-intitule_bron: "Stcrt.2015-47139"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-17"
-intitule_published: "2015-12-23"
-intitule_in_force: "2015-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-47139"
-original_signed_date: "2015-12-17"
-original_published_date: "2015-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-47139"
-entry_into_force_date: "2015-12-24"
-jci_1_3: "jci1.3:c:BWBR0037398&z=2015-12-24&g=2015-12-24"
-jci_1_0: "1.0:c:BWBR0037398&g=2015-12-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Commissie rechtseenheid bestuursrecht"
-signed_date: "2015-12-17"
-entry_into_force: "2015-12-24"
+publicatiedatum: 2015-12-24
+laatste_update: 2015-12-24
+status: geldig
+toestand: 2015-12-24
+bron: "https://wetten.overheid.nl/BWBR0037398"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst van 17 december 2015, houdende instelling van een eenmalige commissie van deskundigen met betrekking tot de rechtseenheid in het bestuursrecht (Instellingsregeling Commissie rechtseenheid bestuursrecht)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -67,5 +39,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie rechtseenheid bestuursrecht.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

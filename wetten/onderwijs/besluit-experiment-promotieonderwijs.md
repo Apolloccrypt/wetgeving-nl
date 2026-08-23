@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 december 2015, houdende bepalingen voor een experiment met het oog op verbetering van de toegankelijkheid en de doelmatigheid van het hoger onderwijs door invoering van promotieonderwijs (Besluit experiment promotieonderwijs)"
+citeertitel: "Besluit experiment promotieonderwijs"
 identifier: "BWBR0037507"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037507"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "13384403"
-version_id: "22952972"
-internal_id: "C33181851"
-label_id: "13352214"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037507/2019-01-01/0"
-intitule_bron: "Stb.2016-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-23"
-intitule_published: "2016-01-08"
-intitule_in_force: "2016-01-08"
-intitule_status: "goed"
-original_publication: "Stb.2016-3"
-original_signed_date: "2015-12-23"
-original_published_date: "2016-01-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-3"
-entry_into_force_date: "2016-01-09"
-jci_1_3: "jci1.3:c:BWBR0037507&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0037507&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit experiment promotieonderwijs"
-signed_date: "2015-12-23"
-entry_into_force: "2016-01-09"
+publicatiedatum: 2016-01-09
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0037507"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 23 december 2015, houdende bepalingen voor een experiment met het oog op verbetering van de toegankelijkheid en de doelmatigheid van het hoger onderwijs door invoering van promotieonderwijs (Besluit experiment promotieonderwijs)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 1 juli 2015, nr. WJZ/ 777029 (10335), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Economische Zaken;
-
-Gelet op [artikel 1.7a, eerste en tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.7a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 19 oktober 2015, nr. W05.15.0211/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 21 december 2015, nr. WJZ/ 842867(10335), directie Wetgeving en Juridische Zaken, uitgebracht in overeenstemming met Onze Minister van Economische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -52,23 +20,24 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- a. *wet:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- b. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- c. **promotieonderwijs:** onderwijs, in het kader van dit experiment, dat niet in de vorm van een opleiding wordt verzorgd en dat is gericht op onderzoeksvaardigheden en generieke vaardigheden van een promovendus ten behoeve van zijn promotie en zijn positie op de arbeidsmarkt;
+- c. *promotieonderwijs:* onderwijs, in het kader van dit experiment, dat niet in de vorm van een opleiding wordt verzorgd en dat is gericht op onderzoeksvaardigheden en generieke vaardigheden van een promovendus ten behoeve van zijn promotie en zijn positie op de arbeidsmarkt;
 
-- d. **universiteit:** universiteit, levensbeschouwelijke universiteit of de Open Universiteit, als bedoeld in [artikel 1.2, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2);
+- d. *universiteit:* universiteit, levensbeschouwelijke universiteit of de Open Universiteit, als bedoeld in [artikel 1.2, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2);
 
-- e. **instellingsbestuur:** college van bestuur van een universiteit;
+- e. *instellingsbestuur:* college van bestuur van een universiteit;
 
-- f. **decaan:** decaan, bedoeld in [artikel 9.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.12);
+- f. *decaan:* decaan, bedoeld in [artikel 9.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.12);
 
-- g. **promotiestudent:** promovendus die start met een promotietraject na de inwerkingtreding van dit besluit en tot het promotieonderwijs is toegelaten;
+- g. *promotiestudent:* promovendus die start met een promotietraject na de inwerkingtreding van dit besluit en tot het promotieonderwijs is toegelaten;
 
-- h. **profileringsfonds:** profileringsfonds, bedoeld in [paragraaf 2a van titel 3 van hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=2a);
+- h. *profileringsfonds:* profileringsfonds, bedoeld in [paragraaf 2a van titel 3 van hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=2a);
 
-- i. **onderwijsgebied:** één van de gebieden van onderwijs: onderwijs, landbouw en natuurlijke omgeving, techniek, recht, taal en cultuur, en gezondheidszorg genoemd in [artikel 6.13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
+- i. *onderwijsgebied:* één van de gebieden van onderwijs: onderwijs, landbouw en natuurlijke omgeving, techniek, recht, taal en cultuur, en gezondheidszorg genoemd in [artikel 6.13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
 ##### Artikel 2. Doel van het experiment
 
@@ -170,9 +139,9 @@ Op de promotiestudent zijn van overeenkomstige toepassing:
 
 - c. het ten behoeve van de evaluatie bij de eerste jaarlijkse rapportage leveren van gegevens waaronder in ieder geval:
 
-- 1. het totaal aantal promovendi aan de universiteit op 1 januari 2016, onderverdeeld in werknemer-promovendi en internationale beurspromovendi;
+   - 1. het totaal aantal promovendi aan de universiteit op 1 januari 2016, onderverdeeld in werknemer-promovendi en internationale beurspromovendi;
 
-- 2. het aantal gepromoveerden dat in de periode tussen 1 januari 2010 en 1 januari 2016 bij de universiteit een promotietraject heeft afgerond, onderverdeeld naar onderwijsgebied;
+   - 2. het aantal gepromoveerden dat in de periode tussen 1 januari 2010 en 1 januari 2016 bij de universiteit een promotietraject heeft afgerond, onderverdeeld naar onderwijsgebied;
 
 - d. het desgevraagd verstrekken aan Onze Minister van nadere informatie over de deelname aan het experiment;
 
@@ -223,5 +192,3 @@ Dit besluit wordt aangehaald als: Besluit experiment promotieonderwijs.
 ##### Artikel 16. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt gepubliceerd en vervalt met ingang van 1 september 2024.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,66 +1,42 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2015, kenmerk 885614-145412-PG, houdende instelling van een commissie voor de beoordeling van gemelde gevallen van late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen (Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen)"
+citeertitel: "Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen en kinderen 1–12 jaar"
 identifier: "BWBR0037570"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-02-01"
-last_updated: "2024-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037570"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13403803"
-version_id: "22996262"
-internal_id: "C33242521"
-label_id: "13371474"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037570/2024-02-01/0"
-intitule_bron: "Stcrt.2016-3145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-11"
-intitule_published: "2016-01-26"
-intitule_in_force: "2016-01-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-3145"
-original_signed_date: "2015-12-11"
-original_published_date: "2016-01-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-3145"
-entry_into_force_date: "2016-02-01"
-jci_1_3: "jci1.3:c:BWBR0037570&z=2024-02-01&g=2024-02-01"
-jci_1_0: "1.0:c:BWBR0037570&g=2024-02-01"
-citeertitel_status: "officieel"
-short_title: "Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen en kinderen 1–12 jaar"
-signed_date: "2015-12-11"
-entry_into_force: "2016-02-01"
+publicatiedatum: 2016-02-01
+laatste_update: 2024-02-01
+status: geldig
+toestand: 2024-02-01
+bron: "https://wetten.overheid.nl/BWBR0037570"
+opgehaald: 2026-08-23
 ---
-# Regeling van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2015, kenmerk 885614-145412-PG, houdende instelling van een commissie voor de beoordeling van gemelde gevallen van late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen (Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen)
 
-Besluiten:
+# Regeling van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2015, kenmerk 885614-145412-PG, houdende instelling van een commissie voor de beoordeling van gemelde gevallen van late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen (Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen)
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **beoordelingscommissie:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=2&z=2024-02-01&g=2024-02-01) genoemde commissie;
+- a. *beoordelingscommissie:* de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=2&z=2024-02-01&g=2024-02-01) genoemde commissie;
 
-- b. **late zwangerschapsafbreking:** behandeling gericht op het afbreken van een zwangerschap na 24 weken met als beoogd gevolg het overlijden van de ongeboren vrucht, omdat bij de ongeborene sprake is van een aandoening of een combinatie van aandoeningen die van zodanige aard is of zijn dat na de geboorte zou worden afgezien van een medische behandeling;
+- b. *late zwangerschapsafbreking:* behandeling gericht op het afbreken van een zwangerschap na 24 weken met als beoogd gevolg het overlijden van de ongeboren vrucht, omdat bij de ongeborene sprake is van een aandoening of een combinatie van aandoeningen die van zodanige aard is of zijn dat na de geboorte zou worden afgezien van een medische behandeling;
 
-- c. **pasgeborene:** een kind dat de leeftijd van één jaar nog niet heeft bereikt;
+- c. *pasgeborene:* een kind dat de leeftijd van één jaar nog niet heeft bereikt;
 
-- d. **kind:** kind dat de leeftijd van één jaar heeft bereikt, maar de leeftijd van twaalf jaren nog niet heeft bereikt;
+- d. *kind:* kind dat de leeftijd van één jaar heeft bereikt, maar de leeftijd van twaalf jaren nog niet heeft bereikt;
 
-- e. **ouders:** ouder of ouders die het ouderlijk gezag uitoefenen over dan wel de voogd of voogden van de ongeborene, de pasgeborene of het kind;
+- e. *ouders:* ouder of ouders die het ouderlijk gezag uitoefenen over dan wel de voogd of voogden van de ongeborene, de pasgeborene of het kind;
 
-- f. **levensbeëindiging:** het toedienen van farmaca met als doel het leven van een pasgeborene of een kind te beëindigen omdat er sprake is van uitzichtloos en ondraaglijk lijden;
+- f. *levensbeëindiging:* het toedienen van farmaca met als doel het leven van een pasgeborene of een kind te beëindigen omdat er sprake is van uitzichtloos en ondraaglijk lijden;
 
-- g. **arts:** de arts die de verrichting heeft gedaan die heeft geleid tot late zwangerschapsafbreking of levensbeëindiging bij een pasgeborene of een kind;
+- g. *arts:* de arts die de verrichting heeft gedaan die heeft geleid tot late zwangerschapsafbreking of levensbeëindiging bij een pasgeborene of een kind;
 
-- h. **inspectie:** Inspectie gezondheidszorg en jeugd;
+- h. *inspectie:* Inspectie gezondheidszorg en jeugd;
 
-- i. **college:** College van procureurs-generaal;
+- i. *college:* College van procureurs-generaal;
 
-- j. **de Ministers:** de Minister van Volksgezondheid, Welzijn en Sport in overeenstemming met de Minister van Justitie en Veiligheid.
+- j. *de Ministers:* de Minister van Volksgezondheid, Welzijn en Sport in overeenstemming met de Minister van Justitie en Veiligheid.
 
 ##### Artikel 2
 
@@ -146,14 +122,12 @@ Deze regeling wordt tenminste elke vijf jaar geëvalueerd. De Ministers zenden d
 
 ##### Artikel 9
 
-De [Regeling centrale deskundigencommissie late zwangerschapsafbreking in een categorie 2-geval en levensbeëindiging bij pasgeborenen](https://wetten.overheid.nl/jci1.3:c:BWBR0021481) (**Stcrt**. 2007, 51) wordt ingetrokken.
+De [Regeling centrale deskundigencommissie late zwangerschapsafbreking in een categorie 2-geval en levensbeëindiging bij pasgeborenen](https://wetten.overheid.nl/jci1.3:c:BWBR0021481) (*Stcrt*. 2007, 51) wordt ingetrokken.
 
 ##### Artikel 10
 
-Deze regeling treedt in werking met ingang van 1 februari 2016.
+Deze regeling treedt in werking met ingang van 1 februari 2016.
 
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen en kinderen 1–12 jaar.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

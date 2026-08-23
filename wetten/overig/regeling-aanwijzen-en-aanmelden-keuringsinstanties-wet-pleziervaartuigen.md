@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 18 december 2015, nr. IENM/BSK-2015/246341, houdende regels voor het kunnen aanwijzen en aanmelden van keuringsinstanties voor pleziervaartuigen (Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen)"
+citeertitel: "Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen"
 identifier: "BWBR0037425"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-12-25"
-last_updated: "2015-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037425"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13360893"
-version_id: "22904962"
-internal_id: "C33127171"
-label_id: "13328824"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037425/2015-12-25/0"
-intitule_bron: "Stcrt.2015-47073"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-18"
-intitule_published: "2015-12-24"
-intitule_in_force: "2015-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-47073"
-original_signed_date: "2015-12-18"
-original_published_date: "2015-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-47073"
-entry_into_force_date: "2015-12-25"
-jci_1_3: "jci1.3:c:BWBR0037425&z=2015-12-25&g=2015-12-25"
-jci_1_0: "1.0:c:BWBR0037425&g=2015-12-25"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen"
-signed_date: "2015-12-18"
-entry_into_force: "2015-12-25"
+publicatiedatum: 2015-12-25
+laatste_update: 2015-12-25
+status: geldig
+toestand: 2015-12-25
+bron: "https://wetten.overheid.nl/BWBR0037425"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 18 december 2015, nr. IENM/BSK-2015/246341, houdende regels voor het kunnen aanwijzen en aanmelden van keuringsinstanties voor pleziervaartuigen (Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen)
-
-Gelet op [artikel 8, tweede lid, van de Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=8);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,25 +20,28 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **accreditatie:** accreditatie zoals bedoeld in artikel 2, tiende lid, van de verordening;
+- *accreditatie:* accreditatie zoals bedoeld in artikel 2, tiende lid, van de verordening;
 
-- **conformiteitsbeoordelingsmodule:** modules als bedoeld in de artikelen 19 tot en met 24 van de richtlijn en bijlage II bij Besluit nr. 768/2008 van het Europees Parlement en de Raad van 9 juli 2008, betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad;
+- *conformiteitsbeoordelingsmodule:* modules als bedoeld in de artikelen 19 tot en met 24 van de richtlijn en bijlage II bij Besluit nr. 768/2008 van het Europees Parlement en de Raad van 9 juli 2008, betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad;
 
-- **fabrikant:** natuurlijke of rechtspersoon die een product vervaardigt of een product laat ontwerpen of vervaardigen en het onder zijn naam of merknaam verhandelt;
+- *fabrikant:* natuurlijke of rechtspersoon die een product vervaardigt of een product laat ontwerpen of vervaardigen en het onder zijn naam of merknaam verhandelt;
 
-- **geharmoniseerde norm:** geharmoniseerde norm als bedoeld in artikel 2, onderdeel 1, onder c, van Verordening (EU) nr. 1025/2012, betreffende Europese normalisatie, tot wijziging van de [Richtlijnen 89/686/EEG](31989L0686) en [93/15/EEG](31993L0015) van de Raad alsmede de Richtlijnen [94/9/EG](31994L0009), [94/25/EG](31994L0025), [95/16/EG](31995L0016), [97/23/EG](31997L0023), [98/34/EG](31998L0034), [2004/22/EG](32004L0022), [2007/23/EG](32007L0023), [2009/23/EG](32009L0023) en [2009/105/EG](32009L0105) van het Europees Parlement en de Raad en tot intrekking van Beschikking [87/95/EEG](31987L0095) van de Raad en Besluit [nr. 1673/2006/EG](33573L2006) van het Europees Parlement en de Raad;
+- *geharmoniseerde norm:* geharmoniseerde norm als bedoeld in artikel 2, onderdeel 1, onder c, van Verordening (EU) nr. 1025/2012, betreffende Europese normalisatie, tot wijziging van de Richtlijnen 89/686/EEG en 93/15/EEG van de Raad alsmede de Richtlijnen 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG en 2009/105/EG van het Europees Parlement en de Raad en tot intrekking van Beschikking 87/95/EEG van de Raad en Besluit nr. 1673/2006/EG van het Europees Parlement en de Raad;
 
-- **keuring:** onderzoek waarmee wordt aangetoond of een product aan de eisen van de richtlijn voldoet;
+- *keuring:* onderzoek waarmee wordt aangetoond of een product aan de eisen van de richtlijn voldoet;
 
-- **Minister:** Minister van Infrastructuur en Milieu;
+- *Minister:* Minister van Infrastructuur en Milieu;
 
-- **particuliere importeur:** in de Europese Unie gevestigde natuurlijke of rechtspersoon die in het kader van een niet-handelsactiviteit een product uit een derde land in de Unie invoert met het oogmerk dit voor eigen gebruik in bedrijf te stellen;
+- *particuliere importeur:*
+ in de Europese Unie gevestigde natuurlijke of rechtspersoon die in het kader van een niet-handelsactiviteit een product uit een derde land in de Unie invoert met het oogmerk dit voor eigen gebruik in bedrijf te stellen;
 
-- **richtlijn:** [richtlijn nr. 2013/53](32013L0053)/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 betreffende pleziervaartuigen en waterscooters en tot intrekking van [richtlijn 94/25/EG](31994L0025) (PbEU L 354);
+- *richtlijn:*
+ richtlijn nr. 2013/53/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 betreffende pleziervaartuigen en waterscooters en tot intrekking van richtlijn 94/25/EG (PbEU L 354);
 
-- **Rva:** Stichting Raad voor Accreditatie, gevestigd te Utrecht;
+- *Rva:* Stichting Raad voor Accreditatie, gevestigd te Utrecht;
 
-- **verordening:** [verordening (EG) nr. 765/2008](32008R0765) van het Europees parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [Verordening (EEG) nr. 339/93](31993R0339) (PbEU L 218).
+- *verordening:*
+ verordening (EG) nr. 765/2008 van het Europees parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218).
 
 #### § 2. Aanvragen aanwijzing keuringsinstantie
 
@@ -187,5 +164,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

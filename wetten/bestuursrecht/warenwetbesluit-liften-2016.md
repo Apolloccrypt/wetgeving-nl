@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit liften 2016 en wijziging van het Arbeidsomstandighedenbesluit, het Warenwetbesluit bestuurlijke boeten en het Warenwetbesluit machines (Warenwetbesluit liften 2016)"
+citeertitel: "Warenwetbesluit liften 2016"
 identifier: "BWBR0037650"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-02-01"
-last_updated: "2020-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037650"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "13419733"
-version_id: "23030792"
-internal_id: "C33293291"
-label_id: "13387574"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037650/2020-02-01/0"
-intitule_bron: "Stb.2016-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-17"
-intitule_published: "2016-02-23"
-intitule_in_force: "2016-02-23"
-intitule_status: "goed"
-original_publication: "Stb.2016-81"
-original_signed_date: "2016-02-17"
-original_published_date: "2016-02-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-81"
-entry_into_force_date: "2016-02-24"
-jci_1_3: "jci1.3:c:BWBR0037650&z=2020-02-01&g=2020-02-01"
-jci_1_0: "1.0:c:BWBR0037650&g=2020-02-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit liften 2016"
-signed_date: "2016-02-17"
-entry_into_force: "2016-02-24"
+publicatiedatum: 2016-02-24
+laatste_update: 2020-02-01
+status: geldig
+toestand: 2020-02-01
+bron: "https://wetten.overheid.nl/BWBR0037650"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit liften 2016 en wijziging van het Arbeidsomstandighedenbesluit, het Warenwetbesluit bestuurlijke boeten en het Warenwetbesluit machines (Warenwetbesluit liften 2016)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 18 december 2015, nr. 2015-0000309166;
-
-Gelet op [richtlijn nr. 2014/33](32014L0033)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake liften en veiligheidscomponenten voor liften (herschikking) (PbEU 2014, L 96), alsmede op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7), [7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) en [32b van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b), [artikel 49 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=49), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=2) en [120 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120) en [artikel 16, eerste, tweede en derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 januari 2016, nr. W12.15.0456/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 17 februari 2016, nr. 2016-0000017872;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,45 +20,47 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **richtlijn:** [richtlijn nr. 2014/33](32014L0033)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake liften en veiligheidscomponenten voor liften (herschikking) (PbEU 2014, L 96);
+- a. *richtlijn:*
+ richtlijn nr. 2014/33/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake liften en veiligheidscomponenten voor liften (herschikking) (PbEU 2014, L 96);
 
-- b. **accreditatie:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- b. *accreditatie:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- c. **CE-markering:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- c. *CE-markering:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- d. **conformiteitsbeoordeling:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- d. *conformiteitsbeoordeling:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- e. **distributeur:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- e. *distributeur:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- f. **EU-conformiteitsbeoordelingsinstantie:** conformiteitsbeoordelingsinstantie, genoemd in artikel 2 van de richtlijn;
+- f. *EU-conformiteitsbeoordelingsinstantie:* conformiteitsbeoordelingsinstantie, genoemd in artikel 2 van de richtlijn;
 
-- g. **fabrikant:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- g. *fabrikant:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- h. **geharmoniseerde norm:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- h. *geharmoniseerde norm:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- i. **gemachtigde:** hetgeen artikel 2 van richtlijn daaronder verstaat;
+- i. *gemachtigde:* hetgeen artikel 2 van richtlijn daaronder verstaat;
 
-- j. **importeur:** hetgeen artikel 2 van richtlijn daaronder verstaat;
+- j. *importeur:* hetgeen artikel 2 van richtlijn daaronder verstaat;
 
-- k. **in de handel brengen:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- k. *in de handel brengen:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- l. **installateur:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- l. *installateur:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- m. **NL-conformiteitsbeoordelingsinstantie:** NL-conformiteitsbeoordelingsinstantie, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2020-02-01&g=2020-02-01);
+- m. *NL-conformiteitsbeoordelingsinstantie:* NL-conformiteitsbeoordelingsinstantie, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2020-02-01&g=2020-02-01);
 
-- n. **liften:** hetgeen de artikelen 1, eerste lid, en 2 van de richtlijn daaronder verstaan;
+- n. *liften:* hetgeen de artikelen 1, eerste lid, en 2 van de richtlijn daaronder verstaan;
 
-- o. **marktdeelnemer:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- o. *marktdeelnemer:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- p. **nationale accreditatie-instantie:** nationale accreditatie-instantie, bedoeld in [artikel 2 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=2);
+- p. *nationale accreditatie-instantie:* nationale accreditatie-instantie, bedoeld in [artikel 2 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=2);
 
-- q. **op de markt aanbieden:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- q. *op de markt aanbieden:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- r. **schema:** het stelsel van regels, procedures en beheersaspecten voor het uitvoeren van (onderdelen van) de conformiteitsbeoordeling voor specifieke objecten waarvoor dezelfde specifieke eisen van toepassing zijn;
+- r. *schema:* het stelsel van regels, procedures en beheersaspecten voor het uitvoeren van (onderdelen van) de conformiteitsbeoordeling voor specifieke objecten waarvoor dezelfde specifieke eisen van toepassing zijn;
 
-- s. **veiligheidscomponenten voor liften:** hetgeen artikel 1, eerste lid, van de richtlijn daaronder verstaat; en
+- s. *veiligheidscomponenten voor liften:* hetgeen artikel 1, eerste lid, van de richtlijn daaronder verstaat; en
 
-- t. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
+- t. *wet:*
+ [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
 
 2. Dit besluit is niet van toepassing op liften en veiligheidscomponenten voor liften als bedoeld in artikel 1, tweede en derde lid, van de richtlijn.
 
@@ -464,47 +434,59 @@ Degene die een lift bedient, bestuurt of belaadt, zorg ervoor dat:
 
 ### Hoofdstuk 4. Overige bepalingen
 
+##### Artikel 31. Wijziging van het Arbeidsomstandighedenbesluit
+
+*Wijzigt het Arbeidsomstandighedenbesluit.*
+
+##### Artikel 32. Wijziging van het Warenwetbesluit bestuurlijke boeten
+
+*Wijzigt het Warenwetbesluit bestuurlijke boeten.*
+
+##### Artikel 33. Wijziging van het Warenwetbesluit machines
+
+*Wijzigt het Warenwetbesluit machines.*
+
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
 ##### Artikel 34. Overgangsbepaling liften en veiligheidscomponenten algemeen
 
-1. Liften en veiligheidscomponenten die voldoen aan het [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden gesteld.
+1. Liften en veiligheidscomponenten die voldoen aan het [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden gesteld.
 
 2. Een certificaat van goedkeuring afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op dag, voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=42&z=2020-02-01&g=2020-02-01), van dit besluit, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=1&z=2020-02-01&g=2020-02-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=11&z=2020-02-01&g=2020-02-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=18&z=2020-02-01&g=2020-02-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=20&z=2020-02-01&g=2020-02-01).
 
 ##### Artikel 35. Overgangsbepaling liften die vóór 16 augustus 1991 in bedrijf zijn gesteld
 
-1. De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) zijn niet van toepassing ten aanzien van liften die vóór 16 augustus 1991 in bedrijf zijn gesteld en die:
+1. De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) zijn niet van toepassing ten aanzien van liften die vóór 16 augustus 1991 in bedrijf zijn gesteld en die:
 
 - a. geheel voldoen aan de hoofdstukken II tot en met X en XII van N 1081, uitgegeven in december 1950;
 
-- b. voldoen aan de hoofdstukken II tot en met X en XII van N 1081, uitgegeven in december 1950, met uitzondering van de artikelen 5, derde lid, 8, tweede lid, 12, vijfde lid, 13, tweede lid, eerste zin, 16, eerste tot en met vierde lid, 17, tweede en derde lid, 19, eerste lid, 20, derde lid, 21, laatste zin, 22, tweede lid, 26, derde lid, tweede zin, en vierde lid, 27, derde lid, 28, eerste lid, onder **a**, en tweede lid, onder **e**, 32, 34, eerste lid, onder c, en tweede lid, onder a en b, 41, derde lid, onder b2, en vierde lid, 42, tweede lid, 43, eerste lid, 48, derde lid, en 49, tweede en vierde lid, vanaf de tweede zin, mits zij voldoen aan de met de hiervoor genoemde bepalingen van N 1081 overeenkomende bepalingen van NEN 1081, uitgegeven in december 1971, zoals gewijzigd in februari 1989, met dien verstande dat, indien de kooiafsluitingen van een lift mechanisch worden aangedreven, de blokkeerinrichting in de kooi achterwege mag blijven;
+- b. voldoen aan de hoofdstukken II tot en met X en XII van N 1081, uitgegeven in december 1950, met uitzondering van de artikelen 5, derde lid, 8, tweede lid, 12, vijfde lid, 13, tweede lid, eerste zin, 16, eerste tot en met vierde lid, 17, tweede en derde lid, 19, eerste lid, 20, derde lid, 21, laatste zin, 22, tweede lid, 26, derde lid, tweede zin, en vierde lid, 27, derde lid, 28, eerste lid, onder *a*, en tweede lid, onder *e*, 32, 34, eerste lid, onder c, en tweede lid, onder a en b, 41, derde lid, onder b2, en vierde lid, 42, tweede lid, 43, eerste lid, 48, derde lid, en 49, tweede en vierde lid, vanaf de tweede zin, mits zij voldoen aan de met de hiervoor genoemde bepalingen van N 1081 overeenkomende bepalingen van NEN 1081, uitgegeven in december 1971, zoals gewijzigd in februari 1989, met dien verstande dat, indien de kooiafsluitingen van een lift mechanisch worden aangedreven, de blokkeerinrichting in de kooi achterwege mag blijven;
 
 - c. geheel voldoen aan de hoofdstukken II tot en met X en XII van NEN 1081, uitgegeven in december 1971, zoals gewijzigd in februari 1989; of
 
 - d. geheel voldoen aan de hoofdstukken 0 tot en met 16 van NEN-EN 81-1, eerste druk, uitgegeven in juni 1979.
 
-2. In afwijking van het eerste lid, aanhef en onderdelen a, b en c, voldoen de daar bedoelde liften die in bedrijf zijn gesteld op of na 24 januari 1978 ten aanzien van kooitoegangen en de vloeroppervlakte van de kooi aan hetgeen daaromtrent is bepaald in NEN-EN 81-1, eerste druk, uitgegeven in juni 1979, met dien verstande dat voor liften met hydraulische aandrijving in punt 8.2.1 van die norm, in noot c, onder tabel 1.1 in plaats van «0,16 m2», geldt: 0,50 m2. Het in de vorige zin bepaalde geldt niet ten aanzien van liften voor de levering waarvan opdracht is gegeven vóór 24 oktober 1978 en die voor eerste keuring zijn gereed gekomen vóór 24 juli 1979.
+2. In afwijking van het eerste lid, aanhef en onderdelen a, b en c, voldoen de daar bedoelde liften die in bedrijf zijn gesteld op of na 24 januari 1978 ten aanzien van kooitoegangen en de vloeroppervlakte van de kooi aan hetgeen daaromtrent is bepaald in NEN-EN 81-1, eerste druk, uitgegeven in juni 1979, met dien verstande dat voor liften met hydraulische aandrijving in punt 8.2.1 van die norm, in noot c, onder tabel 1.1 in plaats van «0,16 m2», geldt: 0,50 m2. Het in de vorige zin bepaalde geldt niet ten aanzien van liften voor de levering waarvan opdracht is gegeven vóór 24 oktober 1978 en die voor eerste keuring zijn gereed gekomen vóór 24 juli 1979.
 
 ##### Artikel 36. Overgangsbepaling liften tussen 16 augustus 1991 en 1 juli 1997 in bedrijf gesteld
 
-De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1997 in bedrijf zijn gesteld, indien voor de levering daarvan opdracht is gegeven vóór 16 augustus 1991, mits zij voldoen aan [artikel 35, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=35&z=2020-02-01&g=2020-02-01), en tevens aan het tweede lid van dat artikel, dan wel in het geval van een lift met elektrische aandrijving aan artikel 35, eerste lid, onder d.
+De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1997 in bedrijf zijn gesteld, indien voor de levering daarvan opdracht is gegeven vóór 16 augustus 1991, mits zij voldoen aan [artikel 35, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=35&z=2020-02-01&g=2020-02-01), en tevens aan het tweede lid van dat artikel, dan wel in het geval van een lift met elektrische aandrijving aan artikel 35, eerste lid, onder d.
 
 ##### Artikel 37. Overgangsbepaling liften tussen 16 augustus 1991 en 1 juli 1999 in bedrijf gesteld
 
-De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1999 in bedrijf zijn gesteld en die geheel voldoen aan hetgeen ten aanzien van de vervaardiging is bepaald in de hoofdstukken 0 tot en met 16 en bijlage Z van NEN-EN 81-1, tweede druk, uitgegeven in september 1986, zoals gewijzigd in december 1989, in onderscheidenlijk NEN-EN 81-2, eerste druk, uitgegeven in mei 1989, met dien verstande dat in plaats van punt 13.1.1.4 van die normen het volgende geldt:
+De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1999 in bedrijf zijn gesteld en die geheel voldoen aan hetgeen ten aanzien van de vervaardiging is bepaald in de hoofdstukken 0 tot en met 16 en bijlage Z van NEN-EN 81-1, tweede druk, uitgegeven in september 1986, zoals gewijzigd in december 1989, in onderscheidenlijk NEN-EN 81-2, eerste druk, uitgegeven in mei 1989, met dien verstande dat in plaats van punt 13.1.1.4 van die normen het volgende geldt:
 
 «De elektrische installatie van liften dient te voldoen aan de eisen vermeld in de geharmoniseerde documenten van het Europees Comité voor elektrotechnische normalisatie (CENELEC) welke zijn goedgekeurd door de nationale comités voor de elektrotechniek van de landen van de Europese Economische Gemeenschap».
 
 ##### Artikel 38. Overgangsbepaling liften voor 1 juli 1999 in de handel gebracht en in bedrijf gesteld
 
-1. De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) van dit besluit zijn niet van toepassing op liften die zijn vervaardigd in overeenstemming met de vervaardigingsvoorschriften, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=37&z=2020-02-01&g=2020-02-01), en die voor 1 juli 1999 in de handel zijn gebracht en in bedrijf zijn gesteld, voor zover zij niet alsnog in overeenstemming zijn gebracht met de eisen, bedoeld in artikel 3 van de richtlijn.
+1. De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) van dit besluit zijn niet van toepassing op liften die zijn vervaardigd in overeenstemming met de vervaardigingsvoorschriften, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=37&z=2020-02-01&g=2020-02-01), en die voor 1 juli 1999 in de handel zijn gebracht en in bedrijf zijn gesteld, voor zover zij niet alsnog in overeenstemming zijn gebracht met de eisen, bedoeld in artikel 3 van de richtlijn.
 
 2. Met betrekking tot de liften, bedoeld in het eerste lid, waarop de eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2020-02-01&g=2020-02-01) niet worden toegepast en waarop krachtens een of meer andere wettelijke regelingen de CE-markering wordt aangebracht, worden op de bij die liften gevoegde documenten, handleidingen of gebruiksaanwijzingen de in het Publicatieblad van de Europese Gemeenschappen bekendgemaakte referenties van de aan die wettelijke regelingen ten grondslag liggende richtlijnen vermeld.
 
 ##### Artikel 39. Overgangsbepaling veiligheidscomponenten voor 1 juli 1999 in de handel gebracht en in bedrijf gesteld
 
-1. Dit besluit is niet van toepassing op veiligheidscomponenten die zijn voorzien van het EEG-merkteken en vergezeld gaan van het certificaat van overeenstemming, bedoeld in artikel 6 van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 juni 1987 ter uitvoering van de EEG-[richtlijnen 84/528/EEG](31984L0528) en [84/529/EEG](31984L0529) (hef- en verladingsapparatuur; liften met elektrische aandrijving) (Stcrt. 1987, 124) en voor 1 juli 1999 in de handel zijn gebracht en in bedrijf zijn gesteld, voor zover zij niet alsnog in overeenstemming zijn gebracht met de eisen, bedoeld in artikel 3 van de richtlijn.
+1. Dit besluit is niet van toepassing op veiligheidscomponenten die zijn voorzien van het EEG-merkteken en vergezeld gaan van het certificaat van overeenstemming, bedoeld in artikel 6 van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 juni 1987 ter uitvoering van de EEG-richtlijnen 84/528/EEG en 84/529/EEG (hef- en verladingsapparatuur; liften met elektrische aandrijving) (Stcrt. 1987, 124) en voor 1 juli 1999 in de handel zijn gebracht en in bedrijf zijn gesteld, voor zover zij niet alsnog in overeenstemming zijn gebracht met de eisen, bedoeld in artikel 3 van de richtlijn.
 
 2. Met betrekking tot de veiligheidscomponenten, bedoeld in het eerste lid, waarop dit besluit niet wordt toegepast en waarop krachtens een andere wettelijke regeling CE-markering wordt aangebracht, worden op de bij die veiligheidscomponenten gevoegde documenten, handleidingen en gebruiksaanwijzingen de in het Publicatieblad van de Europese Gemeenschappen bekendgemaakte referenties van de aan die wettelijke regelingen ten grondslag liggende richtlijnen vermeld.
 
@@ -512,7 +494,7 @@ De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wet
 
 De aanwijzing als aangewezen instelling op verzoek als bedoeld in [artikel 23 van het Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212&artikel=23), afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=42&z=2020-02-01&g=2020-02-01), van dit besluit, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=28&z=2020-02-01&g=2020-02-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=29&z=2020-02-01&g=2020-02-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=30&z=2020-02-01&g=2020-02-01).
 
-##### Artikel 41. Intrekking [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212)
+##### Artikel 41. Intrekking Warenwetbesluit liften
 
 Het [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212) wordt ingetrokken.
 
@@ -520,26 +502,8 @@ Het [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212) wo
 
 1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=1&z=2020-02-01&g=2020-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2020-02-01&g=2020-02-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=13&z=2020-02-01&g=2020-02-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=14&z=2020-02-01&g=2020-02-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=15&z=2020-02-01&g=2020-02-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2020-02-01&g=2020-02-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2020-02-01&g=2020-02-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=28&z=2020-02-01&g=2020-02-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=29&z=2020-02-01&g=2020-02-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=30&z=2020-02-01&g=2020-02-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=40&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 2 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=2&z=2020-02-01&g=2020-02-01), [16 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=16&z=2020-02-01&g=2020-02-01), [31 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=4&artikel=31&z=2020-02-01&g=2020-02-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=41&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
+2. De [artikelen 2 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=2&z=2020-02-01&g=2020-02-01), [16 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=16&z=2020-02-01&g=2020-02-01), [31 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=4&artikel=31&z=2020-02-01&g=2020-02-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=41&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
 
 ##### Artikel 43. Citeertitel
 
 Dit besluit wordt aangehaald als: Warenwetbesluit liften 2016.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 31. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
-
-Wijzigt het Arbeidsomstandighedenbesluit.
-
-##### Artikel 32. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
-
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
-
-##### Artikel 33. Wijziging van het [Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577)
-
-Wijzigt het Warenwetbesluit machines.
-
-### Hoofdstuk 5. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,60 +1,35 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 22 oktober 2015, nr. WJZ/15116106, houdende voorschriften betreffende de S&O-afdrachtvermindering (Regeling S&O-afdrachtvermindering)"
+citeertitel: "Regeling S&O-afdrachtvermindering"
 identifier: "BWBR0037440"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037440"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13365913"
-version_id: "26634932"
-internal_id: "C37786151"
-label_id: "13333684"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037440/2021-01-01/0"
-intitule_bron: "Stcrt.2015-42769"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-10-22"
-intitule_published: "2015-12-24"
-intitule_in_force: "2015-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-22404"
-original_signed_date: "2020-04-08"
-original_published_date: "2020-04-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-22404"
-entry_into_force_date: "2020-04-08"
-jci_1_3: "jci1.3:c:BWBR0037440&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0037440&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling S&O-afdrachtvermindering"
-signed_date: "2020-04-08"
-entry_into_force: "2020-04-08"
+publicatiedatum: 2020-04-08
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0037440"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Economische Zaken van 22 oktober 2015, nr. WJZ/15116106, houdende voorschriften betreffende de S&O-afdrachtvermindering (Regeling S&O-afdrachtvermindering)
-
-Gelet op de [artikelen 1, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23),[24, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **S&O-aanvraag:** aanvraag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), of [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27);
+- *S&O-aanvraag:* aanvraag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), of [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27);
 
-- **S&O-mededeling:** mededeling als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24), of [artikel 27, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27);
+- *S&O-mededeling:* mededeling als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24), of [artikel 27, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27);
 
-- **S&O-opgave:** opgave als bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22);
+- *S&O-opgave:* opgave als bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22);
 
-- **werk:** werk dat in de S&O-verklaring is aangemerkt als speur- en ontwikkelingswerk;
+- *werk:* werk dat in de S&O-verklaring is aangemerkt als speur- en ontwikkelingswerk;
 
-- **wet:** [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746).
+- *wet:*
+ [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746).
 
 ##### Artikel 2
 
@@ -98,15 +73,15 @@ Tot speur- en ontwikkelingswerk wordt niet gerekend:
 
 - s. de volgende activiteiten in relatie tot programmatuur:
 
-- 1°. onderhoud van programmatuur;
+   - 1°. onderhoud van programmatuur;
 
-- 2°. het beschrijven van architectuur;
+   - 2°. het beschrijven van architectuur;
 
-- 3°. het ontwerpen of bouwen van een nieuw systeem;
+   - 3°. het ontwerpen of bouwen van een nieuw systeem;
 
-- 4°. het geschikt maken van bestaande programmatuur voor een ander hardware- of softwareplatform waarbij onder platform wordt verstaan het geheel van hardware en besturingsprogrammatuur waarop informatiesystemen worden ontwikkeld (ontwikkelplatform) of in productie worden genomen (doelplatform);
+   - 4°. het geschikt maken van bestaande programmatuur voor een ander hardware- of softwareplatform waarbij onder platform wordt verstaan het geheel van hardware en besturingsprogrammatuur waarop informatiesystemen worden ontwikkeld (ontwikkelplatform) of in productie worden genomen (doelplatform);
 
-- 5°. het ontwikkelen van programmatuur die bestaande programmatuur op een voor de S&O-inhoudingsplichtige of S&O-belastingplichtige technisch nieuwe wijze integreert of laat samenwerken, tenzij de bestaande programmatuur hoofdzakelijk binnen de onderneming van de S&O-inhoudingsplichtige, binnen de fiscale eenheid waarvan de S&O-inhoudingsplichtige deel uitmaakt, of binnen de onderneming van de S&O-belastingplichtige, is ontwikkeld en wordt toegepast.
+   - 5°. het ontwikkelen van programmatuur die bestaande programmatuur op een voor de S&O-inhoudingsplichtige of S&O-belastingplichtige technisch nieuwe wijze integreert of laat samenwerken, tenzij de bestaande programmatuur hoofdzakelijk binnen de onderneming van de S&O-inhoudingsplichtige, binnen de fiscale eenheid waarvan de S&O-inhoudingsplichtige deel uitmaakt, of binnen de onderneming van de S&O-belastingplichtige, is ontwikkeld en wordt toegepast.
 
 ##### Artikel 3
 
@@ -138,21 +113,7 @@ Indien de S&O-inhoudingsplichtige in de S&O-aanvraag gekozen heeft voor een bedr
 
 ##### Artikel 5
 
-De peildatum, bedoeld in [artikel 23, vijfde lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23), is 1 april.
-
-##### Artikel 6
-
-De[Afbakeningsregeling speur- en ontwikkelingswerk 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008459), de [Uitvoeringsregeling S&O-afdrachtvermindering 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019343) en de [Regeling RDA](https://wetten.overheid.nl/jci1.3:c:BWBR0031580) worden ingetrokken.
-
-##### Artikel 7
-
-Deze regeling treedt in werking met ingang van 1 januari 2016.
-
-##### Artikel 8
-
-Deze regeling wordt aangehaald als: Regeling S&O-afdrachtvermindering.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+De peildatum, bedoeld in [artikel 23, vijfde lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23), is 1 april.
 
 ##### Artikel 5a
 
@@ -172,4 +133,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. S&O-aanvragen, S&O-mededelingen en S&O-opgaven die, bij een verstoring als bedoeld in het eerste lid, onderdelen a, b, en c, zijn gedaan binnen de periode, bedoeld in het tweede of derde lid, worden geacht te zijn gedaan binnen de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) geldende termijnen voor het indienen van een S&O-aanvraag, een S&O-mededeling of een S&O-opgave.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 6
+
+De[Afbakeningsregeling speur- en ontwikkelingswerk 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008459), de [Uitvoeringsregeling S&O-afdrachtvermindering 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019343) en de [Regeling RDA](https://wetten.overheid.nl/jci1.3:c:BWBR0031580) worden ingetrokken.
+
+##### Artikel 7
+
+Deze regeling treedt in werking met ingang van 1 januari 2016.
+
+##### Artikel 8
+
+Deze regeling wordt aangehaald als: Regeling S&O-afdrachtvermindering.

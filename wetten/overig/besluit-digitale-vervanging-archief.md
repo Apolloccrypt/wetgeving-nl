@@ -1,47 +1,17 @@
 ---
 title: "Besluit digitale vervanging archief"
 identifier: "BWBR0036985"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-18"
-last_updated: "2025-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036985"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "13251943"
-version_id: "22668552"
-internal_id: "C32499241"
-label_id: "13219944"
-dtd_version: "2.0"
-original_entry_into_force: "2015-09-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036985/2025-09-18/0"
-intitule_bron: "Stcrt.2015-28372"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-08-12"
-intitule_published: "2015-09-08"
-intitule_in_force: "2015-09-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-28372"
-original_signed_date: "2015-08-12"
-original_published_date: "2015-09-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-28372"
-entry_into_force_date: "2015-09-09"
-jci_1_3: "jci1.3:c:BWBR0036985&z=2025-09-18&g=2025-09-18"
-jci_1_0: "1.0:c:BWBR0036985&g=2025-09-18"
-citeertitel_status: "redactioneel"
-signed_date: "2015-08-12"
-entry_into_force: "2015-09-09"
+publicatiedatum: 2015-09-09
+laatste_update: 2025-09-18
+status: geldig
+toestand: 2025-09-18
+bron: "https://wetten.overheid.nl/BWBR0036985"
+opgehaald: 2026-08-23
 ---
+
 # Besluit digitale vervanging archief
-
-Gelet op:
-
-[artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) en [6 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en
-
-[artikel 26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b),
-
-besluit: de papieren archivering en documentatie te vervangen door digitale archivering en digitale documentatie, teneinde de blijvend te bewaren en de op termijn te vernietigen papieren archiefbescheiden en documentatie te vervangen door digitale reproducties. Dit besluit behelst tevens het besluit tot vernietiging van de papieren archiefbescheiden en documentatie. De digitale reproducties nemen aldus volledig de plaats in van de oorspronkelijke papieren archiefbescheiden en documentatie.
 
 ##### Artikel 1
 
@@ -61,7 +31,7 @@ besluit: de papieren archivering en documentatie te vervangen door digitale arch
 
 - a. aan de bepalingen zoals die zijn opgenomen in [artikel 26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) wordt voldaan;
 
-- b. een **Handboek digitale vervanging archiefbescheiden Financiën** is opgesteld en goedgekeurd door de Chief Information Officer (CIO) van het bestuursdepartement van het ministerie van Financiën.
+- b. een *Handboek digitale vervanging archiefbescheiden Financiën* is opgesteld en goedgekeurd door de Chief Information Officer (CIO) van het bestuursdepartement van het ministerie van Financiën.
 
 2. De digitale vervanging heeft geen betrekking op documenten die zijn gerubriceerd. Stukken met een hogere vertrouwelijkheidsgraad dan ‘Departementaal Vertrouwelijk’, worden niet in het documentmanagement systeem Digidoc opgenomen.
 
@@ -69,7 +39,7 @@ besluit: de papieren archivering en documentatie te vervangen door digitale arch
 
 1. De vervangen papieren archiefbescheiden en documentatie zullen na een periode van 90 dagen na vervanging daadwerkelijk worden vernietigd;
 
-2. Het bepaalde in het eerste lid is niet van toepassing op de in het **Handboek digitale vervanging archiefbescheiden Financiën** ad 2.3 beschreven uitzonderingen van papieren archiefbescheiden en documenten die na vervanging niet zullen worden vernietigd:
+2. Het bepaalde in het eerste lid is niet van toepassing op de in het *Handboek digitale vervanging archiefbescheiden Financiën* ad 2.3 beschreven uitzonderingen van papieren archiefbescheiden en documenten die na vervanging niet zullen worden vernietigd:
 
 - a. documenten van mogelijk aanzienlijk juridisch, financieel of historisch belang (convenanten, overeenkomsten met aanzienlijke financiële component, memoranda of understanding). Deze documenten worden geregistreerd en gescand (werkkopie), maar niet vervangen;
 
@@ -79,9 +49,9 @@ besluit: de papieren archivering en documentatie te vervangen door digitale arch
 
 - d. documenten die in het internationale rechtsverkeer in digitale vorm geen algemeen geaccepteerde rechtsgeldige status hebben:
 
-- i. verdragen, maar ook volmachten en akten van bekrachtiging, goedkeuring, aanvaarding en toetreding;
+   - i. verdragen, maar ook volmachten en akten van bekrachtiging, goedkeuring, aanvaarding en toetreding;
 
-- ii. Processen-verbaal behorend bij depositaire verdragen, alle gewaarmerkte afschriften en multilaterale verdragen en bijlagen bij die verdragen;
+   - ii. Processen-verbaal behorend bij depositaire verdragen, alle gewaarmerkte afschriften en multilaterale verdragen en bijlagen bij die verdragen;
 
 - e. documenten met een bijzondere symbolische waarde. Hieronder vallen bv. geloofsbrieven, bepaalde ondertekende condoleancebrieven en dergelijke;
 

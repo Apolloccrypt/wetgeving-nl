@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 december 2015, 2015-0000305412, houdende de inrichting van de directie Participatie en Decentrale Voorzieningen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Participatie en Decentrale Voorzieningen (Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015"
 identifier: "BWBR0037454"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-05"
-last_updated: "2025-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037454"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13369103"
-version_id: "22921602"
-internal_id: "C33146741"
-label_id: "13336944"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037454/2025-04-05/0"
-intitule_bron: "Stcrt.2015-47959"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-08"
-intitule_published: "2015-12-29"
-intitule_in_force: "2015-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-47959"
-original_signed_date: "2015-12-08"
-original_published_date: "2015-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-47959"
-entry_into_force_date: "2015-12-30"
-jci_1_3: "jci1.3:c:BWBR0037454&z=2025-04-05&g=2025-04-05"
-jci_1_0: "1.0:c:BWBR0037454&g=2025-04-05"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015"
-signed_date: "2015-12-08"
-entry_into_force: "2015-12-30"
+publicatiedatum: 2015-12-30
+laatste_update: 2025-04-05
+status: geldig
+toestand: 2025-04-05
+bron: "https://wetten.overheid.nl/BWBR0037454"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 december 2015, 2015-0000305412, houdende de inrichting van de directie Participatie en Decentrale Voorzieningen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Participatie en Decentrale Voorzieningen (Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015)
-
-Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), en [10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -144,6 +118,16 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 - b. het paraferen van stukken waar de directie Participatie en Decentrale Voorzieningen geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur Participatie en Decentrale Voorzieningen afgedaan moeten worden.
 
+##### Artikel 8a
+
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
+
+- a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld;
+
+- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, danwel gedurende het jaar bijgestelde, bestedingsplan van de directie;
+
+- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
+
 #### § 4. Slotbepalingen
 
 ##### Artikel 9
@@ -158,22 +142,6 @@ Bij afwezigheid van de directeur Participatie en Decentrale Voorzieningen worden
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit Re-integratie en Participatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024987) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
-
-- a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld;
-
-- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, danwel gedurende het jaar bijgestelde, bestedingsplan van de directie;
-
-- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.

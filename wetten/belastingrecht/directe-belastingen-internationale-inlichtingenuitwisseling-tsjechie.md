@@ -1,49 +1,29 @@
 ---
 title: "Directe belastingen, internationale inlichtingenuitwisseling; Tsjechië"
 identifier: "BWBR0037183"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2015-10-14"
-last_updated: "2015-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037183"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "13301583"
-version_id: "22776062"
-internal_id: "C32923471"
-label_id: "13269444"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037183/2015-10-14/0"
-intitule_bron: "Stcrt.2015-40401"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-11-09"
-intitule_published: "2015-11-17"
-intitule_in_force: "2015-11-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-40401"
-original_signed_date: "2015-11-09"
-original_published_date: "2015-11-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-40401"
-entry_into_force_date: "2015-10-14"
-jci_1_3: "jci1.3:c:BWBR0037183&z=2015-10-14&g=2015-10-14"
-jci_1_0: "1.0:c:BWBR0037183&g=2015-10-14"
-citeertitel_status: "redactioneel"
-signed_date: "2015-11-09"
-entry_into_force: "2015-10-14"
+publicatiedatum: 2015-10-14
+laatste_update: 2015-10-14
+status: geldig
+toestand: 2015-10-14
+bron: "https://wetten.overheid.nl/BWBR0037183"
+opgehaald: 2026-08-23
 ---
+
 # Directe belastingen, internationale inlichtingenuitwisseling; Tsjechië
 
 De staatssecretaris van Financiën maakt het volgende bekend.
 
-**Dit besluit bevat een bekendmaking van het in oktober 2015 tussen de bevoegde autoriteiten van Nederland en Tsjechië gesloten Arrangement (administratieve regeling) inzake automatische uitwisseling van fiscale inlichtingen en de uitvoering van gelijktijdige belastingcontroles. De regeling vervangt het Memorandum van Overeenstemming tussen Tsjechië en Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand in belastingzaken van 2006 (** **Staatscourant 2007, 39** **), dat met de nieuwe regeling wordt ingetrokken.**
+*Dit besluit bevat een bekendmaking van het in oktober 2015 tussen de bevoegde autoriteiten van Nederland en Tsjechië gesloten Arrangement (administratieve regeling) inzake automatische uitwisseling van fiscale inlichtingen en de uitvoering van gelijktijdige belastingcontroles. De regeling vervangt het Memorandum van Overeenstemming tussen Tsjechië en Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand in belastingzaken van 2006 (*
+ *Staatscourant 2007, 39*
+ *), dat met de nieuwe regeling wordt ingetrokken.*
 
-**De regeling geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, royalty’s, inkomsten uit zelfstandige arbeid, salarissen, lonen en andere soortgelijke beloningen, directeursbeloningen en andere soortgelijke betalingen, alsmede pensioenen (inclusief overheidspensioenen), lijfrenten, sociale zekerheidsuitkeringen en andere soortgelijke beloningen.**
+*De regeling geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, royalty’s, inkomsten uit zelfstandige arbeid, salarissen, lonen en andere soortgelijke beloningen, directeursbeloningen en andere soortgelijke betalingen, alsmede pensioenen (inclusief overheidspensioenen), lijfrenten, sociale zekerheidsuitkeringen en andere soortgelijke beloningen.*
 
-**De regeling is op 14 oktober 2015 in werking getreden.**
+*De regeling is op 14 oktober 2015 in werking getreden.*
 
-**Arrangement between the competent authorities of the Czech Republic and the Netherlands on the automatic exchange of information for tax purposes and conduct of simultaneous tax examinations**
+*Arrangement between the competent authorities of the Czech Republic and the Netherlands on the automatic exchange of information for tax purposes and conduct of simultaneous tax examinations*
 
 The competent authorities of the Czech Republic and the Netherlands (hereinafter referred to as ‘the Participants’),
 

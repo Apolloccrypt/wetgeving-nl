@@ -1,45 +1,17 @@
 ---
 title: "Tarievenbesluit 2016 Raad voor Accreditatie"
 identifier: "BWBR0037419"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037419"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13360183"
-version_id: "22903002"
-internal_id: "C33124941"
-label_id: "13327964"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037419/2016-01-01/0"
-intitule_bron: "Stcrt.2015-46070"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-09"
-intitule_published: "2015-12-23"
-intitule_in_force: "2015-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-46070"
-original_signed_date: "2015-12-09"
-original_published_date: "2015-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-46070"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037419&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0037419&g=2016-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2015-12-09"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0037419"
+opgehaald: 2026-08-23
 ---
+
 # Tarievenbesluit 2016 Raad voor Accreditatie
-
-Het bestuur van de Stichting Raad voor Accreditatie (RvA) heeft, gelet op [artikel 7 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=7) voor haar dienstverlening, op 9 december 2015 het volgende tarievenbesluit vastgesteld.
-
-Besluit:
-
-Vast te stellen het Tarievenbesluit 2016 Raad voor Accreditatie en de daarbij horende tarieventabel.
 
 ##### Artikel 1
 
@@ -72,36 +44,3 @@ De tarieven worden in rekening gebracht aan de aanvrager dan wel degene voor wie
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 januari 2016.
-
-## Bijlage
-
-| Onderwerp (zie ook de toelichting) | Tarief voor 2016 in € Excl. BTW |
-| --- | --- |
-| **Beoordelingen** |   |
-| Uurtarief teamleider | 161,25 |
-| Uurtarief beoordelaar | 161,25 |
-| Uurtarief vakdeskundige | 144,50 |
-| Kosten voor het inzetten van externe vakdeskundigen hoger dan het geldende dagtarief verminderd met EUR 300,– | meerkosten |
-| Behandelingskosten in verband met het inschakelen van een buitenlandse nationale accreditatie-instelling bij beoordelingen in het buitenland (per beoordeling) | 427 |
-| Behandelingskosten in verband met het uitvoeren van een beoordeling in opdracht van een buitenlandse nationale accreditatie-instelling . (Daarnaast worden de door de beoordelaars bestede uren conform het geldende uurtarief voor beoordelaar(s) en reis- en eventueel verblijfkosten in rekening gebracht). | 427 |
-| **Reis- en verblijfkosten** |   |
-| Beoordeling in Nederland Standaard reiskosten Nederland (per persoon per dag) Reis- en verblijfkosten buitenlandse beoordelaars en/of deskundigen in Nederland | 54 feitelijke kosten |
-| Beoordeling in het Buitenland Verblijfkosten beoordelaars bij beoordelingen in het buitenland Reiskosten beoordelaars bij beoordelingen in het buitenland Overige kosten, zoals bijvoorbeeld voor het inhuren van tolken. | Reisregeling Buitenland (zie link in toelichting) feitelijke kosten feitelijke kosten |
-|   |   |
-| **Jaarlijkse accreditatietarieven** |   |
-| Jaarlijks tarief voor een geaccrediteerde instelling | 3.300 |
-| Jaarlijks tarief voor een geaccrediteerde instelling met niet meer dan 3 personen (kleine instelling) | 1.825 |
-| Jaarlijks tarief voor iedere volgende accreditatie binnen eenzelfde juridische entiteit | 1.217 |
-|   |   |
-| **Overige kosten** |   |
-| Uurtarief voor voorlichting aan instellingen die accreditatie aanvragen | 161,25 |
-| Uurtarief bureaumedewerkers | 161,25 |
-| Extra accreditatiedocumenten, eerste exemplaar | 54 |
-| Extra accreditatiedocumenten, ieder volgend document binnen dezelfde aanvraag | 10 |
-| Kosten voor vertaling van documenten door erkende vertaler | feitelijke kosten vermeerderd met € 334 administratiekosten |
-| Administratiekosten annulering > 2 weken voor eerste bezoekdatum, per teamlid waarvoor de beoordeling wordt geannuleerd | 334 |
-| Administratiekosten annulering 1-2 weken voor eerste bezoekdatum, per teamlid waarvoor de beoordeling wordt geannuleerd plus 25% van de geannuleerde beoordelingstijd en reistijd volgens het tarief van het desbetreffende teamlid | 334 plus 25% van de geannuleerde beoordelingstijd en reistijd |
-| Administratiekosten annulering < 1 week voor eerste bezoekdatum, per teamlid waarvoor de beoordeling wordt geannuleerd plus 100% van de geannuleerde beoordelingstijd en reistijd volgens het tarief van het desbetreffende teamlid | 334 plus 100% van de geannuleerde beoordelingstijd en reistijd |
-| Overige annuleringskosten bij beoordelingen in het buitenland of beoordelingen door buitenlandse beoordelaars in Nederland | feitelijke kosten |
-
-Dit besluit zal met de hiernavolgende toelichting in de Staatscourant en op de website van de RvA worden geplaatst.

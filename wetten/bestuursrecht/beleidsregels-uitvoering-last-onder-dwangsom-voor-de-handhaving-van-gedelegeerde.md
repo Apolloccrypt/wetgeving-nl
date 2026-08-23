@@ -1,50 +1,24 @@
 ---
 title: "Beleidsregels van de Minister van Infrastructuur en Milieu van 13 januari 2016, nr. IENM/BSK-2015/170540, houdende uitvoering van de last onder dwangsom voor de handhaving van gedelegeerde ITS-verordeningen"
+citeertitel: "Beleidsregels uitvoering last onder dwangsom voor de handhaving van gedelegeerde ITS-verordeningen"
 identifier: "BWBR0037545"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2016-01-15"
-last_updated: "2016-01-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037545"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "13394283"
-version_id: "22972812"
-internal_id: "C33216881"
-label_id: "13361934"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037545/2016-01-15/0"
-intitule_bron: "Stcrt.2016-2370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-13"
-intitule_published: "2016-01-14"
-intitule_in_force: "2016-01-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-2370"
-original_signed_date: "2016-01-13"
-original_published_date: "2016-01-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-2370"
-entry_into_force_date: "2016-01-15"
-jci_1_3: "jci1.3:c:BWBR0037545&z=2016-01-15&g=2016-01-15"
-jci_1_0: "1.0:c:BWBR0037545&g=2016-01-15"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels uitvoering last onder dwangsom voor de handhaving van gedelegeerde ITS-verordeningen"
-signed_date: "2016-01-13"
-entry_into_force: "2016-01-15"
+publicatiedatum: 2016-01-15
+laatste_update: 2016-01-15
+status: geldig
+toestand: 2016-01-15
+bron: "https://wetten.overheid.nl/BWBR0037545"
+opgehaald: 2026-08-23
 ---
+
 # Beleidsregels van de Minister van Infrastructuur en Milieu van 13 januari 2016, nr. IENM/BSK-2015/170540, houdende uitvoering van de last onder dwangsom voor de handhaving van gedelegeerde ITS-verordeningen
-
-Gelet op [artikelen 145g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=145g), en [169, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=169), de [artikelen 4:81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), en [5:32 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32) en de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=3.1) en [4.1 van de ITS-Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=4.1);
-
-Besluit:
 
 ##### Artikel 1. (begripsbepalingen)
 
 Voor de toepassing van deze beleidsregels wordt verstaan onder:
 
-- **overtreding:** overtreding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037545&artikel=2&z=2016-01-15&g=2016-01-15).
+- *overtreding:* overtreding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037545&artikel=2&z=2016-01-15&g=2016-01-15).
 
 ##### Artikel 2. (opleggen last onder dwangsom)
 
@@ -109,5 +83,3 @@ Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgi
 ##### Artikel 7. (citeertitel)
 
 Deze beleidsregels worden aangehaald als: Beleidsregels uitvoering last onder dwangsom voor de handhaving van gedelegeerde ITS-verordeningen.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

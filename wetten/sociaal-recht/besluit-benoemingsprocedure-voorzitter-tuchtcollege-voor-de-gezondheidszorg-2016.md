@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 januari 2016, kenmerk 884264-145324-ESTT, houdende een procedure voor benoeming van de voorzitter van een Tuchtcollege voor de Gezondheidszorg"
+citeertitel: "Besluit benoemingsprocedure voorzitter Tuchtcollege voor de Gezondheidszorg 2016"
 identifier: "BWBR0037608"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-02-13"
-last_updated: "2016-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037608"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13412043"
-version_id: "23014332"
-internal_id: "C33269321"
-label_id: "13379674"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037608/2016-02-13/0"
-intitule_bron: "Stcrt.2016-6812"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-14"
-intitule_published: "2016-02-12"
-intitule_in_force: "2016-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-6812"
-original_signed_date: "2016-01-14"
-original_published_date: "2016-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-6812"
-entry_into_force_date: "2016-02-13"
-jci_1_3: "jci1.3:c:BWBR0037608&z=2016-02-13&g=2016-02-13"
-jci_1_0: "1.0:c:BWBR0037608&g=2016-02-13"
-citeertitel_status: "redactioneel"
-short_title: "Besluit benoemingsprocedure voorzitter Tuchtcollege voor de Gezondheidszorg 2016"
-signed_date: "2016-01-14"
-entry_into_force: "2016-02-13"
+publicatiedatum: 2016-02-13
+laatste_update: 2016-02-13
+status: geldig
+toestand: 2016-02-13
+bron: "https://wetten.overheid.nl/BWBR0037608"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 januari 2016, kenmerk 884264-145324-ESTT, houdende een procedure voor benoeming van de voorzitter van een Tuchtcollege voor de Gezondheidszorg
-
-Gehoord de voorzitter van het Centraal Tuchtcollege voor de Gezondheidszorg en de voorzitters van de Regionale Tuchtcolleges voor de Gezondheidszorg;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -89,5 +63,3 @@ De [benoemingsprocedures voorzitter Centraal Tuchtcollege voor de Gezondheidszor
 ##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt met toelichting in de Staatscourant geplaatst.

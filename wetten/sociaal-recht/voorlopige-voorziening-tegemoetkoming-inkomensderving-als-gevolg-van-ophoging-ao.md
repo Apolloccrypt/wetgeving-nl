@@ -1,53 +1,27 @@
 ---
 title: "Voorlopige voorziening tegemoetkoming inkomensderving als gevolg van ophoging AOW-leeftijd"
 identifier: "BWBR0037034"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-10-01"
-last_updated: "2015-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037034"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13261863"
-version_id: "22690672"
-internal_id: "C32819231"
-label_id: "13229864"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037034/2015-10-01/0"
-intitule_bron: "Stcrt.2015-31772"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-15"
-intitule_published: "2015-09-28"
-intitule_in_force: "2015-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-31772"
-original_signed_date: "2015-09-15"
-original_published_date: "2015-09-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-31772"
-entry_into_force_date: "2015-10-01"
-jci_1_3: "jci1.3:c:BWBR0037034&z=2015-10-01&g=2015-10-01"
-jci_1_0: "1.0:c:BWBR0037034&g=2015-10-01"
-citeertitel_status: "officieel"
-signed_date: "2015-09-15"
-entry_into_force: "2015-10-01"
+publicatiedatum: 2015-10-01
+laatste_update: 2015-10-01
+status: geldig
+toestand: 2015-10-01
+bron: "https://wetten.overheid.nl/BWBR0037034"
+opgehaald: 2026-08-23
 ---
+
 # Voorlopige voorziening tegemoetkoming inkomensderving als gevolg van ophoging AOW-leeftijd
-
-Gelet op [artikel 26 van het Inkomstenbesluit Militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=26) en [artikel 62 van het Inkomstenbesluit Burgerlijke ambtenaren Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=62);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **AOW-hiaat:** een periode van een, twee of drie maanden gedurende welke een gewezen defensiemedewerker na het bereiken van de leeftijd van 65 jaar geen aanspraak had op een AOW-uitkering;
+- *AOW-hiaat:* een periode van een, twee of drie maanden gedurende welke een gewezen defensiemedewerker na het bereiken van de leeftijd van 65 jaar geen aanspraak had op een AOW-uitkering;
 
-- **belanghebbende:** de gewezen militair ambtenaar of gewezen burgerlijk ambtenaar Defensie in het genot van een ten laste van Defensie komende uitkering in verband met leeftijdsontslag, arbeidsongeschiktheid of overtolligheid die eindigt op de leeftijd van 65 jaar;
+- *belanghebbende:* de gewezen militair ambtenaar of gewezen burgerlijk ambtenaar Defensie in het genot van een ten laste van Defensie komende uitkering in verband met leeftijdsontslag, arbeidsongeschiktheid of overtolligheid die eindigt op de leeftijd van 65 jaar;
 
-- **gewezen defensiemedewerker:** een gewezen militair ambtenaar of gewezen burgerlijk ambtenaar defensie die op of na 1 januari 2013 maar vóór het inwerkingtreden van deze regeling de leeftijd van 65 jaar heeft bereikt.
+- *gewezen defensiemedewerker:* een gewezen militair ambtenaar of gewezen burgerlijk ambtenaar defensie die op of na 1 januari 2013 maar vóór het inwerkingtreden van deze regeling de leeftijd van 65 jaar heeft bereikt.
 
 ##### Artikel 2. Tegemoetkoming
 
@@ -67,10 +41,8 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Inwerkingtreden
 
-Deze regeling treedt in werking op 1 oktober 2015.
+Deze regeling treedt in werking op 1 oktober 2015.
 
 ##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Voorlopige voorziening tegemoetkoming inkomensderving als gevolg van ophoging AOW-leeftijd
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

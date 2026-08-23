@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 24 augustus 2015, kenmerk 823000-140345-OBP, houdende het verlenen van P-mandaat aan functionarissen van de Dienst Uitvoering Subsidies aan Instellingen in oprichting"
+citeertitel: "Besluit verlenen P-mandaat aan functionarissen Dienst Uitvoering Subsidies aan Instellingen in oprichting"
 identifier: "BWBR0037019"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-09-25"
-last_updated: "2015-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037019"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13258613"
-version_id: "22685922"
-internal_id: "C32813181"
-label_id: "13226594"
-dtd_version: "2.0"
-original_entry_into_force: "2015-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037019/2015-09-25/0"
-intitule_bron: "Stcrt.2015-31183"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-08-24"
-intitule_published: "2015-09-24"
-intitule_in_force: "2015-09-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-31183"
-original_signed_date: "2015-08-24"
-original_published_date: "2015-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-31183"
-entry_into_force_date: "2015-09-25"
-jci_1_3: "jci1.3:c:BWBR0037019&z=2015-09-25&g=2015-09-25"
-jci_1_0: "1.0:c:BWBR0037019&g=2015-09-25"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlenen P-mandaat aan functionarissen Dienst Uitvoering Subsidies aan Instellingen in oprichting"
-signed_date: "2015-08-24"
-entry_into_force: "2015-09-25"
+publicatiedatum: 2015-09-25
+laatste_update: 2015-09-25
+status: geldig
+toestand: 2015-09-25
+bron: "https://wetten.overheid.nl/BWBR0037019"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 24 augustus 2015, kenmerk 823000-140345-OBP, houdende het verlenen van P-mandaat aan functionarissen van de Dienst Uitvoering Subsidies aan Instellingen in oprichting
-
-Gelet op [artikel 7, derde lid, van de Mandaatregeling personele aangelegenheden VWS 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022933&artikel=7);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -52,6 +26,4 @@ Hiervan zijn uitgezonderd deHiervan zijn uitgezond personele besluiten die zijn 
 
 ##### Artikel 2
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2015.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2015.

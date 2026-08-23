@@ -1,45 +1,17 @@
 ---
 title: "Instellingsbesluit RZO"
 identifier: "BWBR0037170"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037170"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13298513"
-version_id: "22767572"
-internal_id: "C32912391"
-label_id: "13266404"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037170/2016-01-01/0"
-intitule_bron: "Stcrt.2015-39561"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-10-22"
-intitule_published: "2015-11-12"
-intitule_in_force: "2015-11-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-39561"
-original_signed_date: "2015-10-22"
-original_published_date: "2015-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-39561"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037170&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0037170&g=2016-01-01"
-citeertitel_status: "officieel"
-signed_date: "2015-10-22"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0037170"
+opgehaald: 2026-08-23
 ---
+
 # Instellingsbesluit RZO
-
-Gelet op [artikel 17 van het Veteranenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&artikel=17) (Stb. 2014, 221);
-
-Besluit:
-
-Het Besluit tot instelling van de Raad voor civiel-militaire Zorg en Onderzoek (Instellingsbesluit RZO) komt als volgt te luiden:
 
 ##### Artikel 1. Instelling
 
@@ -103,16 +75,14 @@ De Raad brengt tweejaarlijks een schriftelijke rapportage uit over de activiteit
 
 ##### Artikel 7. Vacatiegelden
 
-1. De voorzitter en leden van de Raad en de leden van de programma- en adviescommissie voor onderzoek worden bezoldigd op basis van de regeling Vergoedingen voor leden van commissies en adviescolleges Ministerie van Defensie (Aanwijzing SG A/975 van 5 april 2012).
+1. De voorzitter en leden van de Raad en de leden van de programma- en adviescommissie voor onderzoek worden bezoldigd op basis van de regeling Vergoedingen voor leden van commissies en adviescolleges Ministerie van Defensie (Aanwijzing SG A/975 van 5 april 2012).
 
 2. De leden hebben daarnaast recht op een vergoeding wegens reiskosten- en verblijfkosten op de voet van de [Wet vergoeding adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775).
 
 ##### Artikel 8. Slotbepalingen
 
-1. Het Besluit van de Staatssecretaris van Defensie van 5 juli 2007, P/2007012915, tot instelling van de Raad voor civiel-militaire Zorg en Onderzoek wordt ingetrokken.
+1. Het Besluit van de Staatssecretaris van Defensie van 5 juli 2007, P/2007012915, tot instelling van de Raad voor civiel-militaire Zorg en Onderzoek wordt ingetrokken.
 
-2. Deze regeling treedt in werking op 1 januari 2016.
+2. Deze regeling treedt in werking op 1 januari 2016.
 
 3. Deze regeling wordt aangehaald als: Instellingsbesluit RZO
-
-Deze regeling wordt in de Staatscourant geplaatst.

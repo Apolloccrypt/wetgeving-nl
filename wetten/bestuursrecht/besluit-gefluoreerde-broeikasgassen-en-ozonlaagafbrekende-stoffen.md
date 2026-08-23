@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 30 september 2015, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en een aantal daarmee verband houdende verordeningen en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)"
+citeertitel: "Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen"
 identifier: "BWBR0037088"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-08-18"
-last_updated: "2025-08-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037088"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13274493"
-version_id: "29329202"
-internal_id: "C41788651"
-label_id: "13242724"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037088/2025-08-18/0"
-intitule_bron: "Stb.2015-356"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-30"
-intitule_published: "2015-10-15"
-intitule_in_force: "2015-10-15"
-intitule_status: "goed"
-original_publication: "Stb.2023-114"
-original_signed_date: "2023-03-30"
-original_published_date: "2023-04-07"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2023-114"
-entry_into_force_date: "2023-03-30"
-jci_1_3: "jci1.3:c:BWBR0037088&z=2025-08-18&g=2025-08-18"
-jci_1_0: "1.0:c:BWBR0037088&g=2025-08-18"
-citeertitel_status: "officieel"
-short_title: "Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen"
-signed_date: "2023-03-30"
-entry_into_force: "2023-03-30"
+publicatiedatum: 2023-03-30
+laatste_update: 2025-08-18
+status: geldig
+toestand: 2025-08-18
+bron: "https://wetten.overheid.nl/BWBR0037088"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 30 september 2015, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en een aantal daarmee verband houdende verordeningen en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)
-
-Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 25 maart 2015, nr. IenM/BSK-2015/40181, Hoofddirectie Bestuurlijke en Juridische Zaken, in overeenstemming met Onze Ministers van Veiligheid en Justitie en van Economische Zaken;
-
-Gelet op Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 (PbEU L 150), Verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende ozonlaag afbrekende stoffen (herschikking) (PbEU L 286), Verordening (EG) nr. 1494/2007 van de Europese Commissie van 17 december 2007 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van de vorm van etiketten en aanvullende etiketteringseisen betreffende producten en apparatuur die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 332), Verordening (EG) nr. 1497/2007 van de Europese Commissie van 18 december 2007 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van basisvoorschriften inzake controle op lekkage van stationaire brandbeveiligingssystemen die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 333), Verordening (EG) nr. 1516/2007 van de Europese Commissie van 19 december 2007 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van basisvoorschriften inzake controle op lekkage van stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 335), Verordening (EG) nr. 303/2008 van de Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 92), Verordening (EG) nr. 304/2008 van de Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van bedrijven en personeel op het gebied van stationaire brandbeveiligingssystemen en brandblusapparaten die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 92), Verordening (EG) nr. 305/2008 van de Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van personeel voor de terugwinning van bepaalde gefluoreerde broeikasgassen uit hoogspanningsschakelaars (PbEU L 92), Verordening (EG) nr. 306/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van personeel voor de terugwinning van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen uit apparatuur (PbEU L 92), Verordening (EG) nr. 307/2008 van de Commissie van 2 april 2008 tot vaststelling, ingevolge [Verordening (EG) nr. 842/2006](32006R0842) van het Europees Parlement en de Raad, van minimumeisen voor opleidingsprogramma’s en de voorwaarden voor wederzijdse erkenning van opleidingsgetuigschriften voor personeel op het gebied van bepaalde gefluoreerde broeikasgassen bevattende klimaatregelingssystemen in bepaalde motorvoertuigen (PbEU L 92);
-
-Gelet op de [artikelen 8.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40), [9.2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), en [11a.2, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2) en de [artikelen 257b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) en [257ba van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 22 juni 2015, nr. W14.15.0088/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Milieu van 18 september 2015, nr. IenM/BSK-2015/133386, Hoofddirectie Bestuurlijke en Juridische Zaken, in overeenstemming met Onze Ministers van Veiligheid en Justitie en van Economische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -54,21 +20,27 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **erkenning:** beschikking van Onze Minister waarbij wordt vastgesteld dat een instelling voor het afgeven van een certificaat voldoet aan de bij of krachtens dit besluit geldende voorwaarden;
+- a. *erkenning:* beschikking van Onze Minister waarbij wordt vastgesteld dat een instelling voor het afgeven van een certificaat voldoet aan de bij of krachtens dit besluit geldende voorwaarden;
 
-- b. **F-gassenverordening:** [Verordening (EU) 2024/573](32024R0573) van het Europees Parlement en de Raad van 7 februari 2024 betreffende gefluoreerde broeikasgassen, tot wijziging van [Richtlijn (EU) 2019/1937](32019L1937) en tot intrekking van [Verordening (EU) nr. 517/2014](32014R0517);
+- b. *F-gassenverordening:*
+ Verordening (EU) 2024/573 van het Europees Parlement en de Raad van 7 februari 2024 betreffende gefluoreerde broeikasgassen, tot wijziging van Richtlijn (EU) 2019/1937 en tot intrekking van Verordening (EU) nr. 517/2014;
 
-- c. **Onze Minister:** Onze Minister van Klimaat en Groene Groei;
+- c. *Onze Minister:* Onze Minister van Klimaat en Groene Groei;
 
-- d. **Verordening ozonlaagafbrekende stoffen:** [Verordening (EU) 2024/590](32024R0590) van het Europees Parlement en de Raad van 7 februari 2024 betreffende stoffen die de ozonlaag afbreken, en tot intrekking van [Verordening (EG) nr. 1005/2009](32009R1005);
+- d. *Verordening ozonlaagafbrekende stoffen:*
+ Verordening (EU) 2024/590 van het Europees Parlement en de Raad van 7 februari 2024 betreffende stoffen die de ozonlaag afbreken, en tot intrekking van Verordening (EG) nr. 1005/2009;
 
-- e. **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+- e. *marktdeelnemer:* marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
 
-- f. **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241).
+- f. *aanbieder van diensten van de informatiemaatschappij:* aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van Richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241).
 
 ##### Artikel 2
 
 Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
+
+##### Artikel 2a
+
+Voor de toepassing van dit besluit wordt een eigenaar aangewezen als zijnde eveneens verantwoordelijk voor de verplichtingen van een exploitant indien hij de feitelijke macht over het technisch functioneren van de onder de F-gassenverordening vallende producten, apparatuur of inrichtingen contractueel heeft overgedragen aan een dienstverlener.
 
 #### § 2. Gefluoreerde broeikasgassen
 
@@ -154,29 +126,29 @@ Het is verboden te handelen in strijd met de volgende bepalingen van de F-gassen
 
 ##### Artikel 5
 
-1. Het is verboden te handelen in strijd met artikel 1 van [Uitvoeringsverordening (EU) 2024/2174](32024R2174) van de Europese Commissie van 2 september 2024.
+1. Het is verboden te handelen in strijd met artikel 1 van Uitvoeringsverordening (EU) 2024/2174 van de Europese Commissie van 2 september 2024.
 
-2. Het is verboden te handelen in strijd met de artikelen 2 tot en met 7 van verordening (EG) nr. 1497/2007 van de Europese Commissie van 18 december 2007 (PbEU L 333).
+2. Het is verboden te handelen in strijd met de artikelen 2 tot en met 7 van verordening (EG) nr. 1497/2007 van de Europese Commissie van 18 december 2007 (PbEU L 333).
 
-3. Het is verboden te handelen in strijd met de artikelen 2 tot en met 4, 5, eerste en derde lid, 6, 7, eerste en tweede lid, in verbinding met artikel 7, derde lid, en 8 tot en met 10 van verordening (EG) nr. 1516/2007 van de Europese Commissie van 19 december 2007 (PbEU L 335).
+3. Het is verboden te handelen in strijd met de artikelen 2 tot en met 4, 5, eerste en derde lid, 6, 7, eerste en tweede lid, in verbinding met artikel 7, derde lid, en 8 tot en met 10 van verordening (EG) nr. 1516/2007 van de Europese Commissie van 19 december 2007 (PbEU L 335).
 
-4. Het is verboden te handelen in strijd met de artikelen 3, eerste lid, eerste volzin en 5 van [Uitvoeringsverordening (EU) 2024/2215](32024R2215) van de Europese Commissie van 6 september 2024.
+4. Het is verboden te handelen in strijd met de artikelen 3, eerste lid, eerste volzin en 5 van Uitvoeringsverordening (EU) 2024/2215 van de Europese Commissie van 6 september 2024.
 
-5. Het is verboden te handelen in strijd met de artikelen 4, eerste lid, en 7, eerste lid, van verordening (EG) nr. 304/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
+5. Het is verboden te handelen in strijd met de artikelen 4, eerste lid, en 7, eerste lid, van verordening (EG) nr. 304/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
 
-6. Het is verboden te handelen in strijd met artikel 2, eerste lid, van [Uitvoeringsverordening (EU) 2015/2066](32015R2066) van de Europese Commissie van 17 november 2015 (PbEU L 301).
+6. Het is verboden te handelen in strijd met artikel 2, eerste lid, van Uitvoeringsverordening (EU) 2015/2066 van de Europese Commissie van 17 november 2015 (PbEU L 301).
 
-7. Het is verboden te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 306/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
+7. Het is verboden te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 306/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
 
-8. Het is verboden te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 307/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
+8. Het is verboden te handelen in strijd met artikel 2, eerste lid, van verordening (EG) nr. 307/2008 van de Europese Commissie van 2 april 2008 (PbEU L 92).
 
-9. Het is verboden te handelen in strijd met artikel 1 van [Uitvoeringsverordening (EU) 2024/2195](32024R2195) van de Europese Commissie van 4 september 2024 (PbEU L 318).
+9. Het is verboden te handelen in strijd met artikel 1 van Uitvoeringsverordening (EU) 2024/2195 van de Europese Commissie van 4 september 2024 (PbEU L 318).
 
-10. Het is verboden te handelen in strijd met de artikelen 1 tot en met 4 van [Uitvoeringsverordening (EU) 2016/879](32016R0879) (PbEU L 146).
+10. Het is verboden te handelen in strijd met de artikelen 1 tot en met 4 van Uitvoeringsverordening (EU) 2016/879 (PbEU L 146).
 
 ##### Artikel 6
 
-1. Voor de uitvoering van de taken, bedoeld in artikel 10, eerste lid, eerste alinea, van de F-gassenverordening, alsmede voor de terugwinning van gefluoreerde broeikasgassen uit klimaatregelingsapparatuur in motorvoertuigen die binnen het toepassingsgebied van [Richtlijn 2006/40/EG](32006L0040) vallen, beschikt een natuurlijk persoon over een certificaat dat is verleend door een instelling die daartoe beschikt over een erkenning.
+1. Voor de uitvoering van de taken, bedoeld in artikel 10, eerste lid, eerste alinea, van de F-gassenverordening, alsmede voor de terugwinning van gefluoreerde broeikasgassen uit klimaatregelingsapparatuur in motorvoertuigen die binnen het toepassingsgebied van Richtlijn 2006/40/EG vallen, beschikt een natuurlijk persoon over een certificaat dat is verleend door een instelling die daartoe beschikt over een erkenning.
 
 2. Voor het verrichten van de werkzaamheden, bedoeld in artikel 10, tweede lid, van de F-gassenverordening, beschikt een onderneming over een certificaat dat is verleend door een instelling die daartoe beschikt over een erkenning.
 
@@ -195,6 +167,10 @@ Het is verboden te handelen in strijd met de volgende bepalingen van de F-gassen
 4. Bij ministeriële regeling worden ter uitvoering van de artikelen 5, zesde lid, en 6, van de F-gassenverordening nadere regels gesteld over de controle op de goede werking van een lekkagedetectiesysteem.
 
 5. Het bepaalde in het eerste lid en tweede lid geldt niet voor taken en werkzaamheden aan apparatuur waarvoor nog geen eisen als bedoeld in het derde lid, onderdeel a, zijn gesteld.
+
+##### Artikel 6a
+
+*Dit onderdeel is nog niet inwerking getreden*
 
 #### § 3. Ozonlaagafbrekende stoffen
 
@@ -330,7 +306,15 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 Met een erkenning wordt gelijkgesteld een erkenning, afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen wordt nagestreefd.
 
-#### § 5. Wederzijdse erkenning
+#### § 5a. Uitvoering van verordening (EU) nr. 2019/1020
+
+##### Artikel 17a
+
+1. Het is marktdeelnemers verboden ten aanzien van producten die vallen onder de F-gassenverordening en de Verordening ozonlaagafbrekende stoffen te handelen in strijd met artikel 7, eerste lid, van verordening (EU) nr. 2019/1020.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij verboden ten aanzien van producten die vallen onder de F-gassenverordening en de Verordening ozonlaagafbrekende stoffen te handelen in strijd met artikel 7, tweede lid, van verordening (EU) nr. 2019/1020.
+
+#### § 6. Overgangs- en slotbepalingen
 
 ##### Artikel 18
 
@@ -342,19 +326,19 @@ Met een erkenning wordt gelijkgesteld een erkenning, afgegeven door een daartoe 
 
 4. Een aanwijzing die is verleend krachtens [artikel 4, derde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) dan wel [artikel 5, derde lid, van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals die artikelleden luidden onmiddellijk voorafgaande aan de inwerkingtreding van het onderhavige besluit, wordt gedurende twee jaren na inwerkingtreding van dit besluit gelijk gesteld met een erkenning.
 
-5. Met een certificaat voor een natuurlijk persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2025-08-18&g=2025-08-18), voor de uitvoering van de taken waarbij uitsluitend ammoniak, een brandbaar koudemiddel of kooldioxide als natuurlijk koudemiddel betrokken is, wordt tot uiterlijk 12 maart 2029 gelijkgesteld een geldig vakbekwaamheidsbewijs afgegeven op grond van een examen waarvoor de eindtermen minimaal gelijkwaardig waren aan de minimumeisen zoals beschreven in de betreffende uitvoeringshandeling op grond van artikel 10, achtste lid, van de F-gassenverordening, voor zover het taken en apparatuur betreft waarvoor het vakbekwaamheidsbewijs geldt.
+5. Met een certificaat voor een natuurlijk persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2025-08-18&g=2025-08-18), voor de uitvoering van de taken waarbij uitsluitend ammoniak, een brandbaar koudemiddel of kooldioxide als natuurlijk koudemiddel betrokken is, wordt tot uiterlijk 12 maart 2029 gelijkgesteld een geldig vakbekwaamheidsbewijs afgegeven op grond van een examen waarvoor de eindtermen minimaal gelijkwaardig waren aan de minimumeisen zoals beschreven in de betreffende uitvoeringshandeling op grond van artikel 10, achtste lid, van de F-gassenverordening, voor zover het taken en apparatuur betreft waarvoor het vakbekwaamheidsbewijs geldt.
 
 ##### Artikel 19
 
-Wijzigt het Besluit OM-afdoening.
+*Wijzigt het Besluit OM-afdoening.*
 
 ##### Artikel 20
 
-Wijzigt het Activiteitenbesluit milieubeheer.
+*Wijzigt het Activiteitenbesluit milieubeheer.*
 
 ##### Artikel 21
 
-Wijzigt het Besluit algemene regels milieu mijnbouw.
+*Wijzigt het Besluit algemene regels milieu mijnbouw.*
 
 ##### Artikel 22
 
@@ -373,33 +357,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalende
 ##### Artikel 24
 
 Dit besluit wordt aangehaald als: Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 17a
-
-1. Het is marktdeelnemers verboden ten aanzien van producten die vallen onder de F-gassenverordening en de Verordening ozonlaagafbrekende stoffen te handelen in strijd met artikel 7, eerste lid, van [verordening (EU) nr. 2019/1020](32019R1020).
-
-2. Het is een aanbieder van diensten van de informatiemaatschappij verboden ten aanzien van producten die vallen onder de F-gassenverordening en de Verordening ozonlaagafbrekende stoffen te handelen in strijd met artikel 7, tweede lid, van [verordening (EU) nr. 2019/1020](32019R1020).
-
-#### § 5a. Uitvoering van [verordening (EU) nr. 2019/1020](32019R1020)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-Voor de toepassing van dit besluit wordt een eigenaar aangewezen als zijnde eveneens verantwoordelijk voor de verplichtingen van een exploitant indien hij de feitelijke macht over het technisch functioneren van de onder de F-gassenverordening vallende producten, apparatuur of inrichtingen contractueel heeft overgedragen aan een dienstverlener.
-
-#### § 2. Gefluoreerde broeikasgassen
-
-##### Artikel 6a
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### § 3. Ozonlaagafbrekende stoffen
-
-#### § 4. Erkenning van instellingen die natuurlijke personen en ondernemingen certificeren
-
-#### § 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

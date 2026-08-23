@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 8 maart 2016, houdende regels inzake de informatieverschaffing bij en ten behoeve van rampenbestrijding en crisisbeheersing, inzake de bedrijfsbrandweerplicht van inrichtingen, alsmede inzake rampbestrijdingsplannen voor inrichtingen en luchtvaartterreinen in de openbare lichamen Bonaire, Sint-Eustatius en Saba"
+citeertitel: "Besluit informatieverschaffing rampenbestrijding en crisisbeheersing, bedrijfsbrandweerplicht van inrichtingen, enz. BES"
 identifier: "BWBR0037729"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037729"
+categorie: "Verkeer"
 soort: "AMvB-BES"
-stam_id: "13440383"
-version_id: "23070762"
-internal_id: "C33339891"
-label_id: "13407574"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037729/2016-07-01/0"
-intitule_bron: "Stb.2016-100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-08"
-intitule_published: "2016-03-17"
-intitule_in_force: "2016-03-17"
-intitule_status: "goed"
-original_publication: "Stb.2016-100"
-original_signed_date: "2016-03-08"
-original_published_date: "2016-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-100"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0037729&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0037729&g=2016-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit informatieverschaffing rampenbestrijding en crisisbeheersing, bedrijfsbrandweerplicht van inrichtingen, enz. BES"
-signed_date: "2016-03-08"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0037729"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 8 maart 2016, houdende regels inzake de informatieverschaffing bij en ten behoeve van rampenbestrijding en crisisbeheersing, inzake de bedrijfsbrandweerplicht van inrichtingen, alsmede inzake rampbestrijdingsplannen voor inrichtingen en luchtvaartterreinen in de openbare lichamen Bonaire, Sint-Eustatius en Saba
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 9 november 2015, nr. 699459;
-
-Gelet op de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=40), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=45), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=49), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=50) en [57 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=57);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 15 januari 2016, nr. W03.15.0386/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 3 maart 2016, nr. 737377;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
-- –. **wet:** de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586);
+- – *wet:* de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586);
 
-- –. **het bestuurscollege:** het bestuurscollege van het openbaar lichaam;
+- – *het bestuurscollege:* het bestuurscollege van het openbaar lichaam;
 
-- –. **inrichting:** een inrichting als bedoeld in [artikel 1, eerste lid, van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=1.2);
+- – *inrichting:* een inrichting als bedoeld in [artikel 1, eerste lid, van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=1.2);
 
-- –. **de gezaghebber:** de gezaghebber van het openbaar lichaam;
+- – *de gezaghebber:* de gezaghebber van het openbaar lichaam;
 
-- –. **rampbestrijdingsplan:** het plan, bedoeld in [artikel 45 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=45).
+- – *rampbestrijdingsplan:* het plan, bedoeld in [artikel 45 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=45).
 
 ##### Artikel 2
 
@@ -72,11 +40,11 @@ In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
 - c. een beschrijving van de aard, de omvang, het verloop in de tijd en de bestrijding of de beheersing van een mogelijke brand of een ongeval op het terrein van de inrichting:
 
-- 1°. welke, gegeven de aard van de inrichting, rekening houdend met de daarin aangebrachte preventieve voorzieningen, als reëel en typerend wordt geacht,
+   - 1° welke, gegeven de aard van de inrichting, rekening houdend met de daarin aangebrachte preventieve voorzieningen, als reëel en typerend wordt geacht,
 
-- 2°. waarbij schade aan gebouwen of personen in de omgeving van de inrichting kan ontstaan, en
+   - 2° waarbij schade aan gebouwen of personen in de omgeving van de inrichting kan ontstaan, en
 
-- 3°. waarbij van preventieve of repressieve maatregelen duidelijk effect verwacht mag worden, waardoor escalatie van de brand of bij het ongeval wordt voorkomen;
+   - 3° waarbij van preventieve of repressieve maatregelen duidelijk effect verwacht mag worden, waardoor escalatie van de brand of bij het ongeval wordt voorkomen;
 
 - d. een beschrijving van de organisatie van de, gezien de op grond van onderdeel c beschreven mogelijke situatie, nodig geachte bedrijfsbrandweer, waaronder de omvang van het personeel en het materieel.
 
@@ -207,5 +175,3 @@ Het verschaffen van de informatie, bedoeld in [artikel 50, derde lid, van de wet
 ##### Artikel 12
 
 Dit besluit treedt in werking met ingang van 1 juli 2016.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

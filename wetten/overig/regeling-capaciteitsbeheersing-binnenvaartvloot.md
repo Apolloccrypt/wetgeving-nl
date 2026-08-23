@@ -1,46 +1,17 @@
 ---
 title: "Regeling capaciteitsbeheersing binnenvaartvloot"
 identifier: "BWBR0037026"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-04-09"
-last_updated: "2004-04-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037026"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13260163"
-version_id: "22688212"
-internal_id: "C32815681"
-label_id: "13228364"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037026/2004-04-09/0"
-intitule_bron: "Stcrt.2001-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-05"
-intitule_published: "2001-11-15"
-intitule_in_force: "2001-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-222"
-original_signed_date: "2001-11-05"
-original_published_date: "2001-11-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-222-p20-SC31742"
-entry_into_force_date: "2001-11-23"
-entry_into_force_dossier: "27634"
-jci_1_3: "jci1.3:c:BWBR0037026&z=2004-04-09&g=2004-04-09"
-jci_1_0: "1.0:c:BWBR0037026&g=2004-04-09"
-citeertitel_status: "officieel"
-signed_date: "2001-11-05"
-entry_into_force: "2001-11-23"
+publicatiedatum: 2001-11-23
+laatste_update: 2004-04-09
+status: geldig
+toestand: 2004-04-09
+bron: "https://wetten.overheid.nl/BWBR0037026"
+opgehaald: 2026-08-23
 ---
+
 # Regeling capaciteitsbeheersing binnenvaartvloot
-
-Gelet op [artikel 5 van de Wet capaciteitsbeheersing binnenvaartvloot](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=5);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wet capaciteitsbeheersing binnenvaartvloot in werking treedt.
 
 ##### Artikel 1
 
@@ -102,19 +73,19 @@ Bij de vaststelling of aan een van de voorwaarden, bedoeld in artikel 4, eerste 
 
 - e. voor zover van toepassing met betrekking tot het desbetreffende binnenschip:
 
-- 1. de verklaring inzake het behoren tot de Rijnvaart;
+   - 1. de verklaring inzake het behoren tot de Rijnvaart;
 
-- 2. het vergunning- of inschrijvingsbewijs, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005319&artikel=22), onderscheidenlijk [46 van de Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319&artikel=46), indien verstrekt;
+   - 2. het vergunning- of inschrijvingsbewijs, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005319&artikel=22), onderscheidenlijk [46 van de Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319&artikel=46), indien verstrekt;
 
-- 3. de bescheiden betreffende de stoomketels en andere onder druk staande vaten;
+   - 3. de bescheiden betreffende de stoomketels en andere onder druk staande vaten;
 
-- 4. het attest betreffende de installaties voor vloeibaar gemaakte gassen;
+   - 4. het attest betreffende de installaties voor vloeibaar gemaakte gassen;
 
-- 5. de bescheiden vereist door het ADNR;
+   - 5. de bescheiden vereist door het ADNR;
 
-- 6. het vaartijdenboek; en
+   - 6. het vaartijdenboek; en
 
-- 7. het olie-afgifteboekje.
+   - 7. het olie-afgifteboekje.
 
 3. In het geval de romp van een binnenschip onherstelbaar is verschroot of, wanneer het een duwboot betreft, de romp en de motor onherstelbaar zijn vernietigd in een andere lidstaat dan Nederland of in Zwitserland, is het eerste lid niet van toepassing en levert de eigenaar in afwijking van het tweede lid, onderdeel a, na de daadwerkelijke sloop een door de bevoegde autoriteit van het desbetreffende land afgegeven verklaring in omtrent de onherstelbare verschroting van de romp van het binnenschip of, wanneer het een duwboot betreft, de onherstelbare vernietiging van de romp en de motor.
 
@@ -164,9 +135,9 @@ In het geval ter voldoening aan een van de voorwaarden, bedoeld in artikel 4, ee
 
 ##### Artikel 14
 
-1. Wijzigt het Besluit aanwijzing toezichthouders en opsporingsambtenaren Rijksverkeersinspectie.
+1. *Wijzigt het Besluit aanwijzing toezichthouders en opsporingsambtenaren Rijksverkeersinspectie.*
 
-2. Wijzigt het Privacy-reglement RVI.
+2. *Wijzigt het Privacy-reglement RVI.*
 
 ##### Artikel 15
 
@@ -181,29 +152,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet capaciteitsbeheer
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling capaciteitsbeheersing binnenvaartvloot.
-
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 2
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 3
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 4
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 5
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 6
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=1&z=2004-04-09&g=2004-04-09), die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.

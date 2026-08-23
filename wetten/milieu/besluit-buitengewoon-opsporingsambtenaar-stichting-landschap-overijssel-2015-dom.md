@@ -1,52 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 december 2015 nr. BOACAT2015/069, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Landschap Overijssel, domein II"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Stichting Landschap Overijssel 2015, domein II, Milieu, welzijn en infrastructuur"
 identifier: "BWBR0037329"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-07"
-last_updated: "2016-01-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037329"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13338433"
-version_id: "22861162"
-internal_id: "C33055381"
-label_id: "13306274"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037329/2016-01-07/0"
-intitule_bron: "Stcrt.2015-45152"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-03"
-intitule_published: "2015-12-14"
-intitule_in_force: "2015-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-45152"
-original_signed_date: "2015-12-03"
-original_published_date: "2015-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-45152"
-entry_into_force_date: "2016-01-07"
-jci_1_3: "jci1.3:c:BWBR0037329&z=2016-01-07&g=2016-01-07"
-jci_1_0: "1.0:c:BWBR0037329&g=2016-01-07"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Stichting Landschap Overijssel 2015, domein II, Milieu, welzijn en infrastructuur"
-signed_date: "2015-12-03"
-entry_into_force: "2016-01-07"
+publicatiedatum: 2016-01-07
+laatste_update: 2016-01-07
+status: geldig
+toestand: 2016-01-07
+bron: "https://wetten.overheid.nl/BWBR0037329"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 december 2015 nr. BOACAT2015/069, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Landschap Overijssel, domein II
-
-Gelezen het verzoek van de Stichting Landschap Overijssel van 26 november 2015 en de adviezen van de hoofdofficier van justitie bij het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -101,5 +67,3 @@ Dit besluit treedt in werking met ingang van 7 januari 2016 en vervalt met ingan
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Stichting Landschap Overijssel 2015, domein II, Milieu, welzijn en infrastructuur.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

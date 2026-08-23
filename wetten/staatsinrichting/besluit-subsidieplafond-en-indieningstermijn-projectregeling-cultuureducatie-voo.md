@@ -8,7 +8,7 @@ laatste_update: 2026-08-07
 status: geldig
 toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0052971"
-opgehaald: 2026-08-22
+opgehaald: 2026-08-23
 ---
 
 # Besluit subsidieplafond en indieningstermijn Projectregeling Cultuureducatie voor het Caribisch deel van het Koninkrijk 2025–2028

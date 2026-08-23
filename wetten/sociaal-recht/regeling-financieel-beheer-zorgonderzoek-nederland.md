@@ -1,74 +1,48 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2015, kenmerk 864858-143553-PG, houdende Regeling financieel Beheer ZorgOnderzoek Nederland"
+citeertitel: "Regeling financieel beheer ZorgOnderzoek Nederland"
 identifier: "BWBR0037297"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-12-11"
-last_updated: "2015-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037297"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13331533"
-version_id: "22839542"
-internal_id: "C33006291"
-label_id: "13299414"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037297/2015-12-11/0"
-intitule_bron: "Stcrt.2015-44561"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-01"
-intitule_published: "2015-12-10"
-intitule_in_force: "2015-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-44561"
-original_signed_date: "2015-12-01"
-original_published_date: "2015-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-44561"
-entry_into_force_date: "2015-12-11"
-jci_1_3: "jci1.3:c:BWBR0037297&z=2015-12-11&g=2015-12-11"
-jci_1_0: "1.0:c:BWBR0037297&g=2015-12-11"
-citeertitel_status: "officieel"
-short_title: "Regeling financieel beheer ZorgOnderzoek Nederland"
-signed_date: "2015-12-01"
-entry_into_force: "2015-12-11"
+publicatiedatum: 2015-12-11
+laatste_update: 2015-12-11
+status: geldig
+toestand: 2015-12-11
+bron: "https://wetten.overheid.nl/BWBR0037297"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2015, kenmerk 864858-143553-PG, houdende Regeling financieel Beheer ZorgOnderzoek Nederland
-
-Gelet op [artikel 16 van de Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=16);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** de [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
+- a. *de wet:* de [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
 
-- b. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- b. *de Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- c. **organisatiekosten:** de lasten van de exploitatie van ZorgOnderzoek Nederland;
+- c. *organisatiekosten:* de lasten van de exploitatie van ZorgOnderzoek Nederland;
 
-- d. **exploitatiebaten:** het totaal van subsidies en vergoedingen ter dekking van de organisatiekosten;
+- d. *exploitatiebaten:* het totaal van subsidies en vergoedingen ter dekking van de organisatiekosten;
 
-- e. **activiteiten:** de taken, bedoeld in [artikel 3, eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=3);
+- e. *activiteiten:* de taken, bedoeld in [artikel 3, eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=3);
 
-- f. **programma:** een clustering van activiteiten op basis van onderwerp;
+- f. *programma:* een clustering van activiteiten op basis van onderwerp;
 
-- g. **programmalasten:** de som van de door ZonMw verleende projectsubsidies en de kosten in verband met de uitvoering van de programma’s;
+- g. *programmalasten:* de som van de door ZonMw verleende projectsubsidies en de kosten in verband met de uitvoering van de programma’s;
 
-- h. **programmabaten:** het bedrag van de programmalasten, voor zover deze programmalasten niet uit ZonMw vermogen worden gefinancierd en voor zover passend binnen de subsidietoezeggingen door de opdrachtgevers;
+- h. *programmabaten:* het bedrag van de programmalasten, voor zover deze programmalasten niet uit ZonMw vermogen worden gefinancierd en voor zover passend binnen de subsidietoezeggingen door de opdrachtgevers;
 
-- i. **exploitatiereserve:** het deel van het eigen vermogen dat bestemd is voor de exploitatie;
+- i. *exploitatiereserve:* het deel van het eigen vermogen dat bestemd is voor de exploitatie;
 
-- j. **programmareserve:** het deel van het eigen vermogen dat bestemd is voor programma’s;
+- j. *programmareserve:* het deel van het eigen vermogen dat bestemd is voor programma’s;
 
-- k. **bestemd deel programmareserve:** dat deel van de programmareserve waaraan door VWS een bestemming is toegekend, maar waarvoor ZonMw nog geen verplichtingen jegens derden is aangegaan;
+- k. *bestemd deel programmareserve:* dat deel van de programmareserve waaraan door VWS een bestemming is toegekend, maar waarvoor ZonMw nog geen verplichtingen jegens derden is aangegaan;
 
-- l. **overlooppost per programma:** het verschil tussen het bedrag dat voor een programma aan ZonMw cumulatief is bevoorschot en het bedrag dat ZonMw binnen dit programma heeft uitgegeven;
+- l. *overlooppost per programma:* het verschil tussen het bedrag dat voor een programma aan ZonMw cumulatief is bevoorschot en het bedrag dat ZonMw binnen dit programma heeft uitgegeven;
 
-- m. **overlooppost ZonMw:** de som van de overloopposten per programma.
+- m. *overlooppost ZonMw:* de som van de overloopposten per programma.
 
 ##### Artikel 2. Meerjarenraming
 
@@ -94,9 +68,9 @@ Binnen het eigen vermogen wordt onderscheid gemaakt tussen een exploitatiereserv
 
 3. Het totaal van de exploitatiereserve bedraagt ten hoogste 10% van de som van
 
-- •. de exploitatiebaten en
+- • de exploitatiebaten en
 
-- •. het bedrag aan doorbelaste exploitatiekosten aan programma’s.
+- • het bedrag aan doorbelaste exploitatiekosten aan programma’s.
 
 Het bedrag, waarmee dit percentage wordt overschreden, zal van ZorgOnderzoek Nederland worden teruggevorderd dan wel met ZorgOnderzoek Nederland worden verrekend.
 

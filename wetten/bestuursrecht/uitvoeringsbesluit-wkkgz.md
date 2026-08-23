@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 13 november 2015, houdende vaststelling van nadere regels ter uitvoering van de Wet kwaliteit, klachten en geschillen zorg (Uitvoeringsbesluit Wkkgz)"
+citeertitel: "Uitvoeringsbesluit Wkkgz"
 identifier: "BWBR0037262"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037262"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13321683"
-version_id: "28713142"
-internal_id: "C40559431"
-label_id: "13289974"
-dtd_version: "2.0"
-original_entry_into_force: "2022-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037262/2025-01-01/0"
-intitule_bron: "Stb.2015-447"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-11-13"
-intitule_published: "2015-12-01"
-intitule_in_force: "2015-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2022-258"
-original_signed_date: "2022-06-22"
-original_published_date: "2022-06-28"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-258"
-entry_into_force_date: "2022-06-22"
-jci_1_3: "jci1.3:c:BWBR0037262&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0037262&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit Wkkgz"
-signed_date: "2022-06-22"
-entry_into_force: "2022-06-22"
+publicatiedatum: 2022-06-22
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0037262"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 13 november 2015, houdende vaststelling van nadere regels ter uitvoering van de Wet kwaliteit, klachten en geschillen zorg (Uitvoeringsbesluit Wkkgz)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 mei 2015, kenmerk 755048-135567-WJZ;
-
-Gelet op de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), [4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=5), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=8), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=9), [13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=13), en [25, tweede lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=25), [artikel 7, tweede lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=7), [artikel 15, eerste lid, van de Wet gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15) en [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=3), en op artikel 6 van [Richtlijn 2002/98/EG](32002L0098) van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van [Richtlijn 2001/83/EG](32001L0083) van de Raad (PbEU L 33);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 29 juni 2015, no. W13.15.0150/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 10 november 2015, kenmerk 804964-139584-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities en grondslag
 
@@ -52,51 +20,56 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **acute zorg:** zorg in verband met een ervaren of geobserveerde mogelijk ernstige of een op korte termijn levensbedreigende situatie als gevolg van een gezondheidsprobleem of letsel dat plotseling is ontstaan of plotseling verergert;
+- – *acute zorg:* zorg in verband met een ervaren of geobserveerde mogelijk ernstige of een op korte termijn levensbedreigende situatie als gevolg van een gezondheidsprobleem of letsel dat plotseling is ontstaan of plotseling verergert;
 
-- –. **andere melding:** andere melding dan bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11);
+- – *andere melding:* andere melding dan bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11);
 
-- –. **apotheek:** apotheek als bedoeld in [artikel 1, eerste lid, onderdeel oo, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
+- – *apotheek:* apotheek als bedoeld in [artikel 1, eerste lid, onderdeel oo, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
 
-- –. **huisartsenpost:** locatie waar huisartsen uit de regio de avond-, nacht- en weekenddiensten verrichten voor huisartsenzorg die niet kan wachten tot de volgende werkdag;
+- – *huisartsenpost:* locatie waar huisartsen uit de regio de avond-, nacht- en weekenddiensten verrichten voor huisartsenzorg die niet kan wachten tot de volgende werkdag;
 
-- –. **incident:** een niet-beoogde of onverwachte gebeurtenis, die betrekking heeft op de kwaliteit van de zorg, en heeft geleid, had kunnen leiden of zou kunnen leiden tot schade bij de cliënt;
+- – *incident:* een niet-beoogde of onverwachte gebeurtenis, die betrekking heeft op de kwaliteit van de zorg, en heeft geleid, had kunnen leiden of zou kunnen leiden tot schade bij de cliënt;
 
-- –. **Inspectie:** Inspectie gezondheidszorg en jeugd;
+- – *Inspectie:* Inspectie gezondheidszorg en jeugd;
 
-- –. **interne procedure melden incidenten:** interne procedure als bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=9);
+- – *interne procedure melden incidenten:* interne procedure als bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=9);
 
-- –. **klachtenregeling:** regeling inzake opvang en afhandeling van klachten als bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=13);
+- – *klachtenregeling:* regeling inzake opvang en afhandeling van klachten als bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=13);
 
-- –. **medische technologie:** toepassing van georganiseerde kennis en vaardigheden in de vorm van apparaten, medicijnen, vaccins, procedures en systemen die ontwikkeld zijn om gezondheidsproblemen op te lossen en de kwaliteit van leven te verbeteren;
+- – *medische technologie:* toepassing van georganiseerde kennis en vaardigheden in de vorm van apparaten, medicijnen, vaccins, procedures en systemen die ontwikkeld zijn om gezondheidsproblemen op te lossen en de kwaliteit van leven te verbeteren;
 
-- –. **melder:** degene die de melding gedaan heeft;
+- – *melder:* degene die de melding gedaan heeft;
 
-- –. **ontslag in verband met disfunctioneren:** opzegging, ontbinding of niet-voortzetting van een overeenkomst tussen een zorgverlener en een zorgaanbieder op grond van het oordeel van de zorgaanbieder dat de zorgverlener ernstig is tekort geschoten in zijn functioneren;
+- – *ontslag in verband met disfunctioneren:* opzegging, ontbinding of niet-voortzetting van een overeenkomst tussen een zorgverlener en een zorgaanbieder op grond van het oordeel van de zorgaanbieder dat de zorgverlener ernstig is tekort geschoten in zijn functioneren;
 
-- –. **product:** product of apparaat dat toepassing vindt in de zorg, daaronder begrepen een product in de zin van de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), een geneesmiddel in de zin van de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505), een medisch hulpmiddel in de zin van de [Wet op de medisch hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697), lichaamsmateriaal in de zin van de [Wet veiligheid en kwaliteit van lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682) en een middel in de zin van de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
+- – *product:* product of apparaat dat toepassing vindt in de zorg, daaronder begrepen een product in de zin van de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), een geneesmiddel in de zin van de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505), een medisch hulpmiddel in de zin van de [Wet op de medisch hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697), lichaamsmateriaal in de zin van de [Wet veiligheid en kwaliteit van lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682) en een middel in de zin van de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
 
-- –. **regio:** gebied waarbinnen een traumacentrum verantwoordelijk is voor het organiseren van traumazorg;
+- – *regio:* gebied waarbinnen een traumacentrum verantwoordelijk is voor het organiseren van traumazorg;
 
-- –. **regionaal overleg acute zorgketen:** overleg als bedoeld in [artikel 8A.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8a&artikel=8a.2&z=2025-01-01&g=2025-01-01);
+- – *regionaal overleg acute zorgketen:* overleg als bedoeld in [artikel 8A.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=8a&artikel=8a.2&z=2025-01-01&g=2025-01-01);
 
-- –. **Regionale Ambulancevoorziening:** Regionale Ambulancevoorziening als bedoeld in [artikel 4, tweede lid, van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4);
+- – *Regionale Ambulancevoorziening:* Regionale Ambulancevoorziening als bedoeld in [artikel 4, tweede lid, van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4);
 
-- –. **traumacentrum:** krachtens [artikel 8, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=8) als traumacentrum aangewezen ziekenhuis;
+- – *traumacentrum:* krachtens [artikel 8, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=8) als traumacentrum aangewezen ziekenhuis;
 
-- –. **veiligheidsregio:** openbaar lichaam als bedoeld in [artikel 9 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=9);
+- – *veiligheidsregio:* openbaar lichaam als bedoeld in [artikel 9 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=9);
 
-- –. **verklaring omtrent het gedrag:** verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28);
+- – *verklaring omtrent het gedrag:* verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28);
 
-- –. **verplichte melding:** melding als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11);
+- – *verplichte melding:* melding als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11);
 
-- –. **wet:** [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173);
+- – *wet:*
+ [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173);
 
-- –. **ziekenhuisbloedbank:** ziekenhuisafdeling die bloed en bloedbestanddelen, alleen bestemd voor gebruik in ziekenhuizen, onder meer voor transfusieactiviteiten in een ziekenhuis, opslaat en distribueert, en daar compatibiliteitstests op mag uitvoeren;
+- – *ziekenhuisbloedbank:* ziekenhuisafdeling die bloed en bloedbestanddelen, alleen bestemd voor gebruik in ziekenhuizen, onder meer voor transfusieactiviteiten in een ziekenhuis, opslaat en distribueert, en daar compatibiliteitstests op mag uitvoeren;
 
-- –. **zorgverzekeraar:** zorgverzekeraar als bedoeld in [artikel 1 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
+- – *zorgverzekeraar:* zorgverzekeraar als bedoeld in [artikel 1 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-### Hoofdstuk 2. Beperking van de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)
+##### Artikel 1.2
+
+Dit besluit berust mede op [artikel 1, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
+
+### Hoofdstuk 2. Beperking van de toepassing van de wet
 
 ##### Artikel 2.1
 
@@ -107,6 +80,42 @@ De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) is niet van toepassing
 - b. hulpmiddelenzorg als omschreven in [artikel 2.9 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.9);
 
 - c. vervoer als omschreven in de [artikelen 2.5, eerste lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.14) en [2.15 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.15).
+
+### Hoofdstuk 2a. Mogelijke substantiële financiële gevolgen
+
+##### Artikel 2.1a
+
+1. Er is geen sprake van mogelijke substantiële financiële gevolgen als bedoeld in [artikel 1, achtste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), als de tripartiete partijen gemotiveerd aangeven dat de voorgedragen kwaliteitsstandaard niet tot financiële gevolgen leidt.
+
+2. Er is geen sprake van mogelijke substantiële financiële gevolgen als bedoeld in [artikel 1, achtste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), als deze financiële gevolgen de consequentie zijn van het niet voldoen door zorgaanbieders of zorgverleners aan het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard.
+
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
+
+##### Artikel 2.1b
+
+1. Er is in ieder geval geen sprake van een toename van het aantal in te zetten voltijdsequivalenten aan zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename 5% of minder is.
+
+2. Er is in ieder geval geen sprake van een toename van het aantal in te zetten voltijdsequivalenten aan zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) of een verhoging van de kwalificaties van de in te zetten zorgverleners als bedoeld in artikel 1, achtste lid, onder a, onder 2°, van de wet ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename of de verhoging niet leidt tot structurele kosten.
+
+3. Er is in ieder geval geen sprake van een verhoging van de kwalificaties van de in te zetten zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename of de verhoging niet een hoger opleidingsniveau, aanvullende kwalificaties of meer ervaring met hogere inschaling van de zorgverlener vereist.
+
+4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
+
+##### Artikel 2.1c
+
+1. Voor de toepassing van dit artikel wordt verstaan onder breed toepasbaar: breed toepasbaar als bedoeld in [artikel 1, achtste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
+
+2. Een onderdeel van de professionele standaard of een voorgedragen kwaliteitsstandaard is in ieder geval breed toepasbaar als het onderdeel of de standaard van toepassing is op zorg waarvoor naar verwachting jaarlijks in ieder geval 40.000 cliënten in aanmerking zullen komen.
+
+3. Een onderdeel van de professionele standaard of een voorgedragen kwaliteitsstandaard is ook in ieder geval breed toepasbaar, als dat onderdeel of die standaard betrekking heeft op zorg waarvoor naar verwachting jaarlijks in ieder geval 5.000 cliënten in aanmerking zullen komen, voor zover:
+
+- a. het onderdeel of de standaard leidt tot een nieuwe wijze van zorgverlening of een andere organisatie van het zorgproces als bedoeld in [artikel 1, achtste lid, onder a, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1); en
+
+- b. de financiële investering substantieel is.
+
+4. Er is, in voorkomend geval in afwijking van het tweede of derde lid, in ieder geval geen sprake van brede toepasbaarheid, als de tripartiete partijen of de Adviescommissie Kwaliteit aangeven dat het overgrote deel van de zorgverleners en zorgaanbieders al voldoet aan de normen in de voorgedragen kwaliteitsstandaard, zonder dat dit verplicht was op grond van een onderdeel van de geldende professionele standaard of de geldende kwaliteitsstandaard.
+
+5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
 
 ### Hoofdstuk 3. Verklaring omtrent het gedrag
 
@@ -120,7 +129,9 @@ De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) is niet van toepassing
 
 4. Het eerste lid en derde lid zijn niet van toepassing als de zorgverlener een huisarts betreft die in de avond, de nacht of het weekend binnen de instelling zorg verleent.
 
-### Hoofdstuk 4. Veilige toepassing van medische technologie
+### Hoofdstuk 4. Veilige toepassing van medische technologie en kwaliteitsregistraties
+
+#### § 1. Veilige toepassing van medische technologie
 
 ##### Artikel 4.1
 
@@ -134,6 +145,50 @@ De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) is niet van toepassing
 
 3. Bij regeling van Onze Minister kunnen, indien dat noodzakelijk is om de veilige toepassing van medische technologie te waarborgen, nadere eisen worden gesteld aan bepaalde categorieën van zorgaanbieders.
 
+#### § 2. Kwaliteitsregistraties
+
+##### Artikel 4.2
+
+De gegevens, bedoeld in [artikel 30a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=30a), zijn de gegevens, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=1&z=2025-01-01&g=2025-01-01), voor zover deze betrekking hebben op verslavingszorg die de zorgaanbieder aan diens cliënt verleent of verleende en de zorgaanbieder over deze gegevens beschikt.
+
+##### Artikel 4.3
+
+1. De gegevens, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=1&z=2025-01-01&g=2025-01-01), onderdeel A, worden door Onze Minister maximaal 20 jaar bewaard.
+
+2. De gegevens, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=1&z=2025-01-01&g=2025-01-01), onderdeel B, worden door Onze Minister maximaal 60 jaar bewaard.
+
+##### Artikel 4.4
+
+Bij ministeriële regeling wordt bepaald:
+
+- a. op welke wijze de verstrekking als bedoeld in het eerste en tweede lid van [artikel 30a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=30a) en verwerking als bedoeld in het tweede lid van dat artikel plaatsvindt; en
+
+- b. op welke wijze deze gegevens door passende technische en organisatorische maatregelen worden beveiligd tegen verlies of onrechtmatige verwerking.
+
+##### Artikel 4.5
+
+De op grond van artikel 30b, eerste lid, van de wet aangewezen zorgaanbieders zijn:
+
+- a. ziekenhuizen die een afdeling voor spoedeisende hulp hebben; en
+
+- b. Regionale Ambulancevoorzieningen.
+
+##### Artikel 4.6
+
+De gegevens, bedoeld in [artikel 30b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=30b), zijn de gegevens, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=2&z=2025-01-01&g=2025-01-01), voor zover deze betrekking hebben op acute zorg die de zorgaanbieder aan diens cliënt verleent of verleende en de zorgaanbieder over deze gegevens beschikt.
+
+##### Artikel 4.7
+
+De gegevens, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=2&z=2025-01-01&g=2025-01-01) worden door traumacentra maximaal 20 jaar bewaard.
+
+##### Artikel 4.8
+
+Bij ministeriële regeling wordt bepaald:
+
+- a. op welke wijze de verstrekking als bedoeld in het eerste lid van [artikel 30b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=30b) en verwerking als bedoeld in het tweede en derde lid van dat artikel plaatsvindt; en
+
+- b. op welke wijze deze gegevens door passende technische en organisatorische maatregelen worden beveiligd tegen verlies of onrechtmatige verwerking.
+
 ### Hoofdstuk 5. Ziekenhuisbloedbanken
 
 ##### Artikel 5.1
@@ -146,11 +201,11 @@ De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) is niet van toepassing
 
 4. De zorgaanbieder die de ziekenhuisbloedbank in stand houdt, zorgt ervoor dat de bij het opslaan, testen en distribueren van bloed en bloedbestanddelen verzamelde gegevens die door derden kunnen worden geraadpleegd, met inbegrip van genetische informatie, geanonimiseerd zijn zodat de donor niet meer te identificeren is. Daartoe:
 
-- –. treft hij maatregelen met het oog op de gegevensbeveiliging en schept hij garanties tegen ongeoorloofde toevoeging, schrapping of wijziging in bestanden van donoren of uitsluitingen, alsmede tegen overdracht van informatie;
+- – treft hij maatregelen met het oog op de gegevensbeveiliging en schept hij garanties tegen ongeoorloofde toevoeging, schrapping of wijziging in bestanden van donoren of uitsluitingen, alsmede tegen overdracht van informatie;
 
-- –. legt hij procedures vast om discrepanties tussen gegevens op te heffen;
+- – legt hij procedures vast om discrepanties tussen gegevens op te heffen;
 
-- –. voorkomt hij ongeoorloofde bekendmaking van dergelijke informatie, waarbij de donaties echter wel traceerbaar moeten blijven.
+- – voorkomt hij ongeoorloofde bekendmaking van dergelijke informatie, waarbij de donaties echter wel traceerbaar moeten blijven.
 
 5. De zorgaanbieder die de ziekenhuisbloedbank in stand houdt, neemt voorts bij het uitoefenen van zijn taken de bij regeling van Onze Minister gestelde regels ter uitvoering van besluiten van de Europese Unie en andere besluiten van volkenrechtelijke organisaties in acht.
 
@@ -234,11 +289,11 @@ De verplichte melding van een calamiteit bevat voorts:
 
 - b. een beknopte omschrijving van de acties die door of namens de betrokken zorgaanbieder zijn en zullen worden ondernomen, en de termijn waarbinnen een en ander zal plaatsvinden:
 
-- 1°. om de calamiteit te onderzoeken;
+   - 1°. om de calamiteit te onderzoeken;
 
-- 2°. ter beperking of tot bevordering van herstel van de gevolgen van de calamiteit;
+   - 2°. ter beperking of tot bevordering van herstel van de gevolgen van de calamiteit;
 
-- 3°. om de cliënt, diens wettelijke vertegenwoordiger of diens nabestaanden in te lichten over de calamiteit, de maatregelen die de zorgaanbieder naar aanleiding van de calamiteit neemt of zal nemen en over de bij de zorgaanbieder aanwezige klachtbehandeling;
+   - 3°. om de cliënt, diens wettelijke vertegenwoordiger of diens nabestaanden in te lichten over de calamiteit, de maatregelen die de zorgaanbieder naar aanleiding van de calamiteit neemt of zal nemen en over de bij de zorgaanbieder aanwezige klachtbehandeling;
 
 - c. of de calamiteit in verband met een redelijk vermoeden van het plegen van een strafbaar feit ter kennis is of zal worden gebracht van het openbaar ministerie.
 
@@ -252,11 +307,11 @@ De verplichte melding van geweld in de zorgrelatie bevat voorts:
 
 - c. een beknopte omschrijving van de acties die door of namens de betrokken zorgaanbieder zijn en zullen worden ondernomen, en de termijn waarbinnen een en ander zal plaatsvinden:
 
-- 1°. om het geweld in de zorgrelatie te onderzoeken;
+   - 1°. om het geweld in de zorgrelatie te onderzoeken;
 
-- 2°. ter beperking of tot bevordering van herstel van de gevolgen van het geweld;
+   - 2°. ter beperking of tot bevordering van herstel van de gevolgen van het geweld;
 
-- 3°. om de cliënt jegens wie het geweld is gepleegd of diens wettelijke vertegenwoordiger in te lichten over het geweld, de maatregelen die de zorgaanbieder naar aanleiding daarvan neemt of zal nemen, en over de bij de zorgaanbieder aanwezige klachtbehandeling;
+   - 3°. om de cliënt jegens wie het geweld is gepleegd of diens wettelijke vertegenwoordiger in te lichten over het geweld, de maatregelen die de zorgaanbieder naar aanleiding daarvan neemt of zal nemen, en over de bij de zorgaanbieder aanwezige klachtbehandeling;
 
 - d. of het geweld in verband met een redelijk vermoeden van het plegen van een strafbaar feit ter kennis is of zal worden gebracht van het openbaar ministerie.
 
@@ -270,11 +325,11 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 - c. een beknopte omschrijving van de acties die door of namens de betrokken zorgaanbieder zijn ondernomen om:
 
-- 1°. het functioneren van de zorgverlener met deze te bespreken;
+   - 1°. het functioneren van de zorgverlener met deze te bespreken;
 
-- 2°. diens functioneren te verbeteren;
+   - 2°. diens functioneren te verbeteren;
 
-- 3°. in voorkomend geval, de mededeling dat een zaak bij het bevoegde regionale tuchtcollege aanhangig is of zal worden gemaakt.
+   - 3°. in voorkomend geval, de mededeling dat een zaak bij het bevoegde regionale tuchtcollege aanhangig is of zal worden gemaakt.
 
 ##### Artikel 8.5
 
@@ -326,7 +381,7 @@ De verplichte melding van ontslag in verband met disfunctioneren bevat voorts:
 
 ##### Artikel 8.9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8.10
 
@@ -492,7 +547,7 @@ Indien de melder bij een andere melding heeft aangegeven anoniem te willen blijv
 
 ##### Artikel 8.23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8.24
 
@@ -536,113 +591,7 @@ Indien de Inspectie van oordeel is dat het onverwijld nemen van maatregelen nood
 
 3. Indien een zorgaanbieder die een instelling is, ter voldoening aan de verplichting, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=4) aan de Inspectie verzoekt om ten aanzien van een zorgverlener informatie te verstrekken als bedoeld in [artikel 25, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=25), deelt de Inspectie hem zo spoedig mogelijk mede of ten aanzien van de zorgverlener een aantekening als bedoeld in het eerste lid bestaat, onder vermelding, in voorkomend geval, van de daarbij vermelde datum.
 
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-##### Artikel 9.1
-
-[Artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=3&artikel=3.1&z=2025-01-01&g=2025-01-01), geldt niet ten aanzien van zorgverleners en andere personen als in dat lid bedoeld die op het tijdstip van inwerkingtreden van dat lid werkzaam zijn voor de zorgaanbieder of voor een rechtspersoon die in opdracht van de zorgaanbieder zorg verleent.
-
-##### Artikel 9.2
-
-Vervallen
-
-##### Artikel 9.3
-
-Het [Besluit verplichte meldcode huiselijk geweld en kindermishandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033723) berust mede op [artikel 8, derde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=8).
-
-##### Artikel 9.4
-
-Vervallen
-
-##### Artikel 9.5
-
-Vervallen
-
-##### Artikel 9.6
-
-Vervallen
-
-### Hoofdstuk 10. Inwerkingtreding en citeertitel
-
-##### Artikel 10.1
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
-
-##### Artikel 10.2
-
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit Wkkgz.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1.2
-
-Dit besluit berust mede op [artikel 1, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
-
-### Hoofdstuk 2. Beperking van de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)
-
-### Hoofdstuk 2a. Mogelijke substantiële financiële gevolgen
-
-##### Artikel 2.1a
-
-1. Er is geen sprake van mogelijke substantiële financiële gevolgen als bedoeld in [artikel 1, achtste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), als de tripartiete partijen gemotiveerd aangeven dat de voorgedragen kwaliteitsstandaard niet tot financiële gevolgen leidt.
-
-2. Er is geen sprake van mogelijke substantiële financiële gevolgen als bedoeld in [artikel 1, achtste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), als deze financiële gevolgen de consequentie zijn van het niet voldoen door zorgaanbieders of zorgverleners aan het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
-
-##### Artikel 2.1b
-
-1. Er is in ieder geval geen sprake van een toename van het aantal in te zetten voltijdsequivalenten aan zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename 5% of minder is.
-
-2. Er is in ieder geval geen sprake van een toename van het aantal in te zetten voltijdsequivalenten aan zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) of een verhoging van de kwalificaties van de in te zetten zorgverleners als bedoeld in artikel 1, achtste lid, onder a, onder 2°, van de wet ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename of de verhoging niet leidt tot structurele kosten.
-
-3. Er is in ieder geval geen sprake van een verhoging van de kwalificaties van de in te zetten zorgverleners als bedoeld in [artikel 1, achtste lid, onder a, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1) ten opzichte van het geldende onderdeel van de professionele standaard of de geldende kwaliteitsstandaard, als de toename of de verhoging niet een hoger opleidingsniveau, aanvullende kwalificaties of meer ervaring met hogere inschaling van de zorgverlener vereist.
-
-4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
-
-##### Artikel 2.1c
-
-1. Voor de toepassing van dit artikel wordt verstaan onder breed toepasbaar: breed toepasbaar als bedoeld in [artikel 1, achtste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
-
-2. Een onderdeel van de professionele standaard of een voorgedragen kwaliteitsstandaard is in ieder geval breed toepasbaar als het onderdeel of de standaard van toepassing is op zorg waarvoor naar verwachting jaarlijks in ieder geval 40.000 cliënten in aanmerking zullen komen.
-
-3. Een onderdeel van de professionele standaard of een voorgedragen kwaliteitsstandaard is ook in ieder geval breed toepasbaar, als dat onderdeel of die standaard betrekking heeft op zorg waarvoor naar verwachting jaarlijks in ieder geval 5.000 cliënten in aanmerking zullen komen, voor zover:
-
-- a. het onderdeel of de standaard leidt tot een nieuwe wijze van zorgverlening of een andere organisatie van het zorgproces als bedoeld in [artikel 1, achtste lid, onder a, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1); en
-
-- b. de financiële investering substantieel is.
-
-4. Er is, in voorkomend geval in afwijking van het tweede of derde lid, in ieder geval geen sprake van brede toepasbaarheid, als de tripartiete partijen of de Adviescommissie Kwaliteit aangeven dat het overgrote deel van de zorgverleners en zorgaanbieders al voldoet aan de normen in de voorgedragen kwaliteitsstandaard, zonder dat dit verplicht was op grond van een onderdeel van de geldende professionele standaard of de geldende kwaliteitsstandaard.
-
-5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op een voorgedragen aanpassing van een kwaliteitsstandaard.
-
-### Hoofdstuk 3. Verklaring omtrent het gedrag
-
-### Hoofdstuk 4. Veilige toepassing van medische technologie en kwaliteitsregistraties
-
-### Hoofdstuk 5. Ziekenhuisbloedbanken
-
-### Hoofdstuk 6. Interne procedure melden incidenten
-
-### Hoofdstuk 7. Klachtenregelingen
-
-### Hoofdstuk 8. Meldingen
-
-#### § 1. Verplichte meldingen algemeen
-
-#### § 2. Verplichte meldingen van calamiteiten en geweld in de zorgrelatie
-
-#### § 3. Verplichte meldingen van ontslag in verband met disfunctioneren
-
-#### § 4. Andere meldingen
-
-#### § 5. Overige bepalingen
-
 ### Hoofdstuk 8a. Acute zorg
-
-### Hoofdstuk 10. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 8a.1
 
@@ -750,88 +699,36 @@ Het traumacentrum informeert de Inspectie en bij ministeriële regeling aan te w
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-### Hoofdstuk 10. Inwerkingtreding en citeertitel
+##### Artikel 9.1
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+[Artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=3&artikel=3.1&z=2025-01-01&g=2025-01-01), geldt niet ten aanzien van zorgverleners en andere personen als in dat lid bedoeld die op het tijdstip van inwerkingtreden van dat lid werkzaam zijn voor de zorgaanbieder of voor een rechtspersoon die in opdracht van de zorgaanbieder zorg verleent.
 
-#### § 1. Veilige toepassing van medische technologie
+##### Artikel 9.2
 
-#### § 2. Kwaliteitsregistraties
+*Vervallen*
 
-##### Artikel 4.2
+##### Artikel 9.3
 
-De gegevens, bedoeld in [artikel 30a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=30a), zijn de gegevens, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=1&z=2025-01-01&g=2025-01-01), voor zover deze betrekking hebben op verslavingszorg die de zorgaanbieder aan diens cliënt verleent of verleende en de zorgaanbieder over deze gegevens beschikt.
+Het [Besluit verplichte meldcode huiselijk geweld en kindermishandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033723) berust mede op [artikel 8, derde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=8).
 
-##### Artikel 4.3
+##### Artikel 9.4
 
-1. De gegevens, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=1&z=2025-01-01&g=2025-01-01), onderdeel A, worden door Onze Minister maximaal 20 jaar bewaard.
+*Vervallen*
 
-2. De gegevens, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=1&z=2025-01-01&g=2025-01-01), onderdeel B, worden door Onze Minister maximaal 60 jaar bewaard.
+##### Artikel 9.5
 
-##### Artikel 4.4
+*Vervallen*
 
-Bij ministeriële regeling wordt bepaald:
+##### Artikel 9.6
 
-- a. op welke wijze de verstrekking als bedoeld in het eerste en tweede lid van [artikel 30a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=30a) en verwerking als bedoeld in het tweede lid van dat artikel plaatsvindt; en
-
-- b. op welke wijze deze gegevens door passende technische en organisatorische maatregelen worden beveiligd tegen verlies of onrechtmatige verwerking.
-
-##### Artikel 4.5
-
-De op grond van artikel 30b, eerste lid, van de wet aangewezen zorgaanbieders zijn:
-
-- a. ziekenhuizen die een afdeling voor spoedeisende hulp hebben; en
-
-- b. Regionale Ambulancevoorzieningen.
-
-##### Artikel 4.6
-
-De gegevens, bedoeld in [artikel 30b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=30b), zijn de gegevens, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=2&z=2025-01-01&g=2025-01-01), voor zover deze betrekking hebben op acute zorg die de zorgaanbieder aan diens cliënt verleent of verleende en de zorgaanbieder over deze gegevens beschikt.
-
-##### Artikel 4.7
-
-De gegevens, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&bijlage=2&z=2025-01-01&g=2025-01-01) worden door traumacentra maximaal 20 jaar bewaard.
-
-##### Artikel 4.8
-
-Bij ministeriële regeling wordt bepaald:
-
-- a. op welke wijze de verstrekking als bedoeld in het eerste lid van [artikel 30b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=30b) en verwerking als bedoeld in het tweede en derde lid van dat artikel plaatsvindt; en
-
-- b. op welke wijze deze gegevens door passende technische en organisatorische maatregelen worden beveiligd tegen verlies of onrechtmatige verwerking.
-
-### Hoofdstuk 5. Ziekenhuisbloedbanken
-
-### Hoofdstuk 6. Interne procedure melden incidenten
-
-### Hoofdstuk 7. Klachtenregelingen
-
-### Hoofdstuk 8. Meldingen
-
-#### § 1. Verplichte meldingen algemeen
-
-#### § 2. Verplichte meldingen van calamiteiten en geweld in de zorgrelatie
-
-#### § 3. Verplichte meldingen van ontslag in verband met disfunctioneren
-
-#### § 4. Andere meldingen
-
-#### § 5. Overige bepalingen
-
-### Hoofdstuk 8a. Acute zorg
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
+*Vervallen*
 
 ### Hoofdstuk 10. Inwerkingtreding en citeertitel
 
-## Bijlage 1. Gegevens als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=4&paragraaf=2&artikel=4.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 10.1
 
-### A. LADIS gegevens met een bewaartermijn van 20 jaar
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
 
-### B. LADIS gegevens met een bewaartermijn van 60 jaar
+##### Artikel 10.2
 
-## Bijlage 2. Gegevens als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-01-01&g=2025-01-01) en [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-01-01&g=2025-01-01)
-
-### LTR gegevens met een bewaartermijn van 20 jaar
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit Wkkgz.

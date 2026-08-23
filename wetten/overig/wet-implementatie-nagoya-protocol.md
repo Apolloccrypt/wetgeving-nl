@@ -1,57 +1,28 @@
 ---
 title: "Wet van 30 september 2015, houdende regels ter implementatie van het Nagoya Protocol (Wet implementatie Nagoya Protocol)"
+citeertitel: "Wet implementatie Nagoya Protocol"
 identifier: "BWBR0037150"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037150"
+categorie: "Overig"
 soort: "wet"
-stam_id: "13294153"
-version_id: "22756712"
-internal_id: "C33435771"
-label_id: "13262074"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037150/2019-01-01/0"
-intitule_bron: "Stb.2015-388"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-30"
-intitule_published: "2015-11-03"
-intitule_in_force: "2016-04-22"
-intitule_status: "goed"
-original_publication: "Stb.2015-388"
-original_signed_date: "2015-09-30"
-original_published_date: "2015-11-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "34142"
-original_url_id: "stb-2015-388"
-entry_into_force_date: "2016-04-23"
-jci_1_3: "jci1.3:c:BWBR0037150&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0037150&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet implementatie Nagoya Protocol"
-signed_date: "2015-09-30"
-entry_into_force: "2016-04-23"
+publicatiedatum: 2016-04-23
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0037150"
+opgehaald: 2026-08-23
 ---
+
 # Wet van 30 september 2015, houdende regels ter implementatie van het Nagoya Protocol (Wet implementatie Nagoya Protocol)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is om te voorzien in wettelijke regels om het Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit te implementeren en uitvoering te geven aan ter zake geldende verordeningen van de Europese Unie.
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **EU-verordeningen inzake genetische rijkdommen:** verordeningen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie die betrekking hebben op de toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik, waaronder in ieder geval Verordening (EU) nr. 511/2014 van het Europees parlement en de Raad van 16 april 2014 betreffende voor gebruikers bestemde nalevingsmaatregelen uit het Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik in de Unie (PbEU 2014, 150) en verordeningen die daarop berusten;
+- – *EU-verordeningen inzake genetische rijkdommen:* verordeningen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie die betrekking hebben op de toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik, waaronder in ieder geval Verordening (EU) nr. 511/2014 van het Europees parlement en de Raad van 16 april 2014 betreffende voor gebruikers bestemde nalevingsmaatregelen uit het Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik in de Unie (PbEU 2014, 150) en verordeningen die daarop berusten;
 
-- –. **Nagoya Protocol:** op 29 oktober 2010 te Nagoya tot stand gekomen Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit (Trb. 2012, 16 en Trb. 2012, 244);
+- – *Nagoya Protocol:* op 29 oktober 2010 te Nagoya tot stand gekomen Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit (Trb. 2012, 16 en Trb. 2012, 244);
 
-- –. **Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
+- – *Onze Minister:* Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 2
 
@@ -125,7 +96,7 @@ Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter h
 
 ##### Artikel 8
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 9
 
@@ -134,5 +105,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 10
 
 Deze wet wordt aangehaald als: Wet implementatie Nagoya Protocol.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

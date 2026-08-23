@@ -1,82 +1,57 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 september 2015, nr. IENM/BSK-2015/180512, houdende regels met betrekking tot subsidie ter cofinanciering van projectvoorstellen die vallen onder Interreg North West Europe of North Sea Region (Rijkscofinancieringsregeling Interreg V)"
+citeertitel: "Rijkscofinancieringsregeling Interreg V"
 identifier: "BWBR0037018"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-02-01"
-last_updated: "2017-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037018"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13258413"
-version_id: "22685652"
-internal_id: "C32812911"
-label_id: "13226504"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037018/2017-02-01/0"
-intitule_bron: "Stcrt.2015-30863"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-17"
-intitule_published: "2015-09-24"
-intitule_in_force: "2015-09-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-30863"
-original_signed_date: "2015-09-17"
-original_published_date: "2015-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-30863"
-entry_into_force_date: "2015-11-01"
-jci_1_3: "jci1.3:c:BWBR0037018&z=2017-02-01&g=2017-02-01"
-jci_1_0: "1.0:c:BWBR0037018&g=2017-02-01"
-citeertitel_status: "officieel"
-short_title: "Rijkscofinancieringsregeling Interreg V"
-signed_date: "2015-09-17"
-entry_into_force: "2015-11-01"
+publicatiedatum: 2015-11-01
+laatste_update: 2017-02-01
+status: geldig
+toestand: 2017-02-01
+bron: "https://wetten.overheid.nl/BWBR0037018"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 september 2015, nr. IENM/BSK-2015/180512, houdende regels met betrekking tot subsidie ter cofinanciering van projectvoorstellen die vallen onder Interreg North West Europe of North Sea Region (Rijkscofinancieringsregeling Interreg V)
-
-Gelet op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [artikel 5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2) en [artikel 4 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **de-minimisverklaring:** verklaring als bedoeld in artikel 6 van Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L352/1)(VWEU);
+- – *de-minimisverklaring:* verklaring als bedoeld in artikel 6 van Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L352/1)(VWEU);
 
-- –. **Interreg V:** Europees structuurfondsprogramma, bestaande uit verschillende deelprogramma’s;
+- – *Interreg V:* Europees structuurfondsprogramma, bestaande uit verschillende deelprogramma’s;
 
-- –. **Interreg North West Europe (NWE):** transnationaal Interreg V deelprogramma dat de mogelijkheid geeft om een financiële bijdrage aan te vragen voor projecten die zien op samenwerking binnen de regio Noordwest Europa;
+- – *Interreg North West Europe (NWE):* transnationaal Interreg V deelprogramma dat de mogelijkheid geeft om een financiële bijdrage aan te vragen voor projecten die zien op samenwerking binnen de regio Noordwest Europa;
 
-- –. **Interreg North Sea Region (NSR):** transnationaal Interreg V deelprogramma dat de mogelijkheid geeft om een financiële bijdrage aan te vragen voor projecten die zien op samenwerking binnen de regio Noordzee;
+- – *Interreg North Sea Region (NSR):* transnationaal Interreg V deelprogramma dat de mogelijkheid geeft om een financiële bijdrage aan te vragen voor projecten die zien op samenwerking binnen de regio Noordzee;
 
-- –. **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
+- – *Kaderbesluit:*
+ [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
-- –. **Lead Partner:** deelnemer aan een samenwerkingsverband en trekker van een project zijnde een overheidsinstelling, een kennisinstelling als bedoeld in [artikel 1.2 van de Wet op het hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), stichting of vereniging die binnen het project geen economische activiteiten verricht of een regionale ontwikkelingsmaatschappij;
+- – *Lead Partner:* deelnemer aan een samenwerkingsverband en trekker van een project zijnde een overheidsinstelling, een kennisinstelling als bedoeld in [artikel 1.2 van de Wet op het hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), stichting of vereniging die binnen het project geen economische activiteiten verricht of een regionale ontwikkelingsmaatschappij;
 
-- –. **Minister:** Minister van Infrastructuur en Milieu;
+- – *Minister:* Minister van Infrastructuur en Milieu;
 
-- –. **MKB-onderneming:** een onderneming behorende tot de bedrijfssector als bedoeld in Aanbeveling 2003/361/EG van de Commissie van 6 mei 2013 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PbEU 2003, L 124/36);
+- – *MKB-onderneming:* een onderneming behorende tot de bedrijfssector als bedoeld in Aanbeveling 2003/361/EG van de Commissie van 6 mei 2013 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PbEU 2003, L 124/36);
 
-- –. **overheidsinstelling:** gemeente, provincie, waterschap of zelfstandig bestuursorgaan;
+- – *overheidsinstelling:* gemeente, provincie, waterschap of zelfstandig bestuursorgaan;
 
-- –. **Partner:** deelnemer aan een samenwerkingsverband ten behoeve van een project zijnde een overheidsinstelling, een kennisinstelling als bedoeld in [artikel 1.2 van de Wet op het hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), stichting of vereniging die binnen het project geen economische activiteiten verricht, MKB-onderneming of een regionale ontwikkelingsmaatschappij;
+- – *Partner:* deelnemer aan een samenwerkingsverband ten behoeve van een project zijnde een overheidsinstelling, een kennisinstelling als bedoeld in [artikel 1.2 van de Wet op het hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), stichting of vereniging die binnen het project geen economische activiteiten verricht, MKB-onderneming of een regionale ontwikkelingsmaatschappij;
 
-- –. **penvoerder:** door een samenwerkingsverband aangewezen Lead Partner of Partner die namens dit samenwerkingsverband een subsidie op grond van deze regeling aanvraagt;
+- – *penvoerder:* door een samenwerkingsverband aangewezen Lead Partner of Partner die namens dit samenwerkingsverband een subsidie op grond van deze regeling aanvraagt;
 
-- –. **Programma Secretariaat:** secretariaat van Interreg NWE of NSR dat door de deelnemende landen is aangewezen om het desbetreffende Interreg V deelprogramma te beheren en uit te voeren;
+- – *Programma Secretariaat:* secretariaat van Interreg NWE of NSR dat door de deelnemende landen is aangewezen om het desbetreffende Interreg V deelprogramma te beheren en uit te voeren;
 
-- –. **project:** planmatige activiteit in het kader van Interreg NWE of NSR;
+- – *project:* planmatige activiteit in het kader van Interreg NWE of NSR;
 
-- –. **projectvoorstel:** voorstel met betrekking tot een project zoals vastgelegd in het aanvraagformulier om een financiële bijdrage van Interreg NWE of NSR;
+- – *projectvoorstel:* voorstel met betrekking tot een project zoals vastgelegd in het aanvraagformulier om een financiële bijdrage van Interreg NWE of NSR;
 
-- –. **Stap 1:** verplichte beschrijving van een project op hoofdlijnen voor een aanvraag om een financiële bijdrage bij Interreg NWE of NSR die wordt ingediend bij het desbetreffende Programma Secretariaat;
+- – *Stap 1:* verplichte beschrijving van een project op hoofdlijnen voor een aanvraag om een financiële bijdrage bij Interreg NWE of NSR die wordt ingediend bij het desbetreffende Programma Secretariaat;
 
-- –. **Stap 2:** verplichte uitwerking van een projectvoorstel voor een aanvraag om een financiële bijdrage bij Interreg NWE of NSR, die plaatsvindt nadat Stap 1 is goedgekeurd door de bevoegde autoriteit van Interreg NWE of NSR die wordt ingediend bij het desbetreffende Programma Secretariaat;
+- – *Stap 2:* verplichte uitwerking van een projectvoorstel voor een aanvraag om een financiële bijdrage bij Interreg NWE of NSR, die plaatsvindt nadat Stap 1 is goedgekeurd door de bevoegde autoriteit van Interreg NWE of NSR die wordt ingediend bij het desbetreffende Programma Secretariaat;
 
-- –. **subsidieontvanger:** Lead Partner of Partner aan wie krachtens deze regeling een subsidie is verleend.
+- – *subsidieontvanger:* Lead Partner of Partner aan wie krachtens deze regeling een subsidie is verleend.
 
 ##### Artikel 2. Algemeen
 
@@ -195,5 +170,3 @@ Deze regeling treedt in werking met ingang van 1 november 2015 en vervalt met in
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Rijkscofinancieringsregeling Interreg V.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

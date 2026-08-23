@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 1 februari 2016, nr. IENM/BSK-2015/255810, houdende verlening mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat voor besluiten met betrekking tot geluidwerende maatregelen voor woningen die geluidhinder ondervinden vanwege hoofdspoorwegen (Besluit mandaat, volmacht en machtiging directeur-generaal Rijkswaterstaat voor geluidwerende maatregelen spoorwegen)"
+citeertitel: "Besluit mandaat, volmacht en machtiging directeur-generaal Rijkswaterstaat voor geluidwerende maatregelen spoorwegen"
 identifier: "BWBR0037599"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-05-10"
-last_updated: "2017-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037599"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13410093"
-version_id: "23009712"
-internal_id: "C33263551"
-label_id: "13377714"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037599/2017-05-10/0"
-intitule_bron: "Stcrt.2016-6035"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-01"
-intitule_published: "2016-02-05"
-intitule_in_force: "2016-02-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-6035"
-original_signed_date: "2016-02-01"
-original_published_date: "2016-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-6035"
-entry_into_force_date: "2016-02-06"
-jci_1_3: "jci1.3:c:BWBR0037599&z=2017-05-10&g=2017-05-10"
-jci_1_0: "1.0:c:BWBR0037599&g=2017-05-10"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging directeur-generaal Rijkswaterstaat voor geluidwerende maatregelen spoorwegen"
-signed_date: "2016-02-01"
-entry_into_force: "2016-02-06"
+publicatiedatum: 2016-02-06
+laatste_update: 2017-05-10
+status: geldig
+toestand: 2017-05-10
+bron: "https://wetten.overheid.nl/BWBR0037599"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 1 februari 2016, nr. IENM/BSK-2015/255810, houdende verlening mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat voor besluiten met betrekking tot geluidwerende maatregelen voor woningen die geluidhinder ondervinden vanwege hoofdspoorwegen (Besluit mandaat, volmacht en machtiging directeur-generaal Rijkswaterstaat voor geluidwerende maatregelen spoorwegen)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -77,5 +51,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging directeur-generaal Rijkswaterstaat voor geluidwerende maatregelen spoorwegen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

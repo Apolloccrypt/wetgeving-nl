@@ -1,47 +1,18 @@
 ---
 title: "Wet van 2 december 2015, houdende bepalingen verband houdende met de instelling van de rechtsopvolgers van in Nederland gevestigde internationale of geïnternationaliseerde straftribunalen (Uitvoeringswet restmechanismen straftribunalen)"
+citeertitel: "Uitvoeringswet restmechanismen straftribunalen"
 identifier: "BWBR0037361"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037361"
+categorie: "Overig"
 soort: "wet"
-stam_id: "13348563"
-version_id: "22879712"
-internal_id: "C33342171"
-label_id: "13316494"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037361/2025-07-01/0"
-intitule_bron: "Stb.2015-477"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-02"
-intitule_published: "2015-12-11"
-intitule_in_force: "2016-03-23"
-intitule_status: "goed"
-original_publication: "Stb.2015-477"
-original_signed_date: "2015-12-02"
-original_published_date: "2015-12-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "34205"
-original_url_id: "stb-2015-477"
-entry_into_force_date: "2016-04-01"
-jci_1_3: "jci1.3:c:BWBR0037361&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0037361&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet restmechanismen straftribunalen"
-signed_date: "2015-12-02"
-entry_into_force: "2016-04-01"
+publicatiedatum: 2016-04-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0037361"
+opgehaald: 2026-08-23
 ---
+
 # Wet van 2 december 2015, houdende bepalingen verband houdende met de instelling van de rechtsopvolgers van in Nederland gevestigde internationale of geïnternationaliseerde straftribunalen (Uitvoeringswet restmechanismen straftribunalen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is enige wettelijke voorzieningen te treffen in verband met de oprichting van rechtsopvolgers van in Nederland gevestigde internationale of geïnternationaliseerde straftribunalen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,25 +20,25 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Restmechanisme:** de rechtsopvolger van een in Nederland gevestigd straftribunaal met een tijdelijk karakter, met inbegrip van de aanklager bij die rechtsopvolger;
+- a. *Restmechanisme:* de rechtsopvolger van een in Nederland gevestigd straftribunaal met een tijdelijk karakter, met inbegrip van de aanklager bij die rechtsopvolger;
 
-- b. **Statuut:** het Statuut van het Restmechanisme;
+- b. *Statuut:* het Statuut van het Restmechanisme;
 
-- c. **overlevering:** de terbeschikkingstelling van een persoon door Nederland aan het Restmechanisme ten behoeve van een bij het Restmechanisme tegen hem gericht strafrechtelijk onderzoek of de tenuitvoerlegging van een hem door het Restmechanisme opgelegde gevangenisstraf;
+- c. *overlevering:* de terbeschikkingstelling van een persoon door Nederland aan het Restmechanisme ten behoeve van een bij het Restmechanisme tegen hem gericht strafrechtelijk onderzoek of de tenuitvoerlegging van een hem door het Restmechanisme opgelegde gevangenisstraf;
 
-- d. **doorvoer:** het begeleid vervoer over Nederlands grondgebied van een persoon afkomstig van een vreemde staat en met als bestemming het Restmechanisme, dan wel afkomstig van het Restmechanisme en met als bestemming een vreemde staat;
+- d. *doorvoer:* het begeleid vervoer over Nederlands grondgebied van een persoon afkomstig van een vreemde staat en met als bestemming het Restmechanisme, dan wel afkomstig van het Restmechanisme en met als bestemming een vreemde staat;
 
-- e. **Onze Minister:** Onze Minister van Veiligheid en Justitie.
+- e. *Onze Minister:* Onze Minister van Veiligheid en Justitie.
 
 2. In deze wet wordt mede verstaan onder:
 
-- a. **in Nederland:** in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- a. *in Nederland:* in de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- b. **Nederlandse ambtenaren:** ambtenaren van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- b. *Nederlandse ambtenaren:* ambtenaren van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- c. **Nederlands grondgebied:** het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- c. *Nederlands grondgebied:* het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- d. **Nederlandse wet:** een wet die van kracht is in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- d. *Nederlandse wet:* een wet die van kracht is in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 3. Onder officier van justitie en hulpofficier van justitie wordt uitsluitend voor de toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037361&hoofdstuk=2&artikel=5&z=2025-07-01&g=2025-07-01), mede verstaan de officier van justitie van het openbaar ministerie bij het gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, onderscheidenlijk de hulpofficier van justitie, bedoeld in [artikel 191 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=191).
 
@@ -168,5 +139,3 @@ Deze wet wordt aangehaald als: Uitvoeringswet restmechanismen straftribunalen.
 ##### Artikel 18
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

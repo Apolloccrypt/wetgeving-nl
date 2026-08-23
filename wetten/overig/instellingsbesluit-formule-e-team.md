@@ -1,38 +1,38 @@
 ---
-title: "Instellingsbesluit Formule E-Team"
+title: "Besluit van de Minister van Economische Zaken van 3 december 2015, nr. WJZ/15169828, tot instelling van het Formule E-Team (Instellingsbesluit Formule E-Team)"
+citeertitel: "Instellingsbesluit Formule E-Team"
 identifier: "BWBR0037382"
 categorie: "Overig"
-publicatiedatum: 2026-05-06
+soort: "ministeriele-regeling"
+publicatiedatum: 2015-12-22
 laatste_update: 2026-05-06
 status: geldig
+toestand: 2026-05-06
 bron: "https://wetten.overheid.nl/BWBR0037382"
+opgehaald: 2026-08-23
 ---
 
 # Besluit van de Minister van Economische Zaken van 3 december 2015, nr. WJZ/15169828, tot instelling van het Formule E-Team (Instellingsbesluit Formule E-Team)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Staatssecretaris:** de Staatssecretaris van Infrastructuur en Waterstaat;
+- a. *de Staatssecretaris:* de Staatssecretaris van Infrastructuur en Waterstaat;
 
-- b. **organisaties:**
+- b. *organisaties:*
 
-  - 1°. samenwerkingsverbanden van mede-overheden;
+   - 1°. samenwerkingsverbanden van mede-overheden;
 
-  - 2°. samenwerkingsverbanden van kennisinstellingen;
+   - 2°. samenwerkingsverbanden van kennisinstellingen;
 
-  - 3°. brancheorganisaties;
+   - 3°. brancheorganisaties;
 
-  - 4°. ondernemersverenigingen;
+   - 4°. ondernemersverenigingen;
 
-  - 5°. koepelorganisaties;
+   - 5°. koepelorganisaties;
 
-  - 6°. belangenorganisaties.
+   - 6°. belangenorganisaties.
 
 ##### Artikel 2
 
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Met ingang van 1 mei 2026 wordt de heer O.M. van der Gaag, woonachtig te Utrecht, benoemd tot voorzitter van het Formule E-team, voor de periode tot 1 mei 2029 of zoveel eerder als overeengekomen tussen partijen.
+Met ingang van 1 mei 2026 wordt de heer O.M. van der Gaag, woonachtig te Utrecht, benoemd tot voorzitter van het Formule E-team, voor de periode tot 1 mei 2029 of zoveel eerder als overeengekomen tussen partijen.
 
 ##### Artikel 6
 
@@ -82,10 +82,8 @@ Aan de voorzitter van het Formule E-Team wordt een vaste vergoeding per maand to
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2015.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2015.
 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Formule E-Team.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

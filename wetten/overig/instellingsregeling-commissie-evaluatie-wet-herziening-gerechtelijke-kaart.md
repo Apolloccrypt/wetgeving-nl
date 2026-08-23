@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 29 januari 2016, nr. 717761, houdende instelling van de commissie Evaluatie Wet herziening gerechtelijke kaart (Instellingsregeling Commissie Evaluatie Wet herziening gerechtelijke kaart)"
+citeertitel: "Instellingsregeling Commissie Evaluatie Wet herziening gerechtelijke kaart"
 identifier: "BWBR0037596"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-02-09"
-last_updated: "2016-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037596"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13409573"
-version_id: "23008552"
-internal_id: "C33260351"
-label_id: "13377244"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037596/2016-02-09/0"
-intitule_bron: "Stcrt.2016-5624"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-29"
-intitule_published: "2016-02-08"
-intitule_in_force: "2016-02-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-5624"
-original_signed_date: "2016-01-29"
-original_published_date: "2016-02-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-5624"
-entry_into_force_date: "2016-02-09"
-jci_1_3: "jci1.3:c:BWBR0037596&z=2016-02-09&g=2016-02-09"
-jci_1_0: "1.0:c:BWBR0037596&g=2016-02-09"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Commissie Evaluatie Wet herziening gerechtelijke kaart"
-signed_date: "2016-01-29"
-entry_into_force: "2016-02-09"
+publicatiedatum: 2016-02-09
+laatste_update: 2016-02-09
+status: geldig
+toestand: 2016-02-09
+bron: "https://wetten.overheid.nl/BWBR0037596"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 29 januari 2016, nr. 717761, houdende instelling van de commissie Evaluatie Wet herziening gerechtelijke kaart (Instellingsregeling Commissie Evaluatie Wet herziening gerechtelijke kaart)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1. (Begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** Minister van Veiligheid en Justitie;
+- a. *Minister:* Minister van Veiligheid en Justitie;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037596&artikel=2&z=2016-02-09&g=2016-02-09).
+- b. *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037596&artikel=2&z=2016-02-09&g=2016-02-09).
 
 ##### Artikel 2. (Instelling en taak)
 
@@ -123,5 +95,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. (Citeertitel)
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie Evaluatie Wet herziening gerechtelijke kaart.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

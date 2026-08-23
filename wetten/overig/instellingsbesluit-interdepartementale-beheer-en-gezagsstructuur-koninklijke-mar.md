@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister van Defensie houdende de instelling van een interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee (Instellingsbesluit Interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee 2015)"
+citeertitel: "Instellingsbesluit Interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee 2015"
 identifier: "BWBR0037583"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-02-03"
-last_updated: "2016-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037583"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13406863"
-version_id: "23003602"
-internal_id: "C33254911"
-label_id: "13374544"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037583/2016-02-03/0"
-intitule_bron: "Stcrt.2016-4377"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-22"
-intitule_published: "2016-02-02"
-intitule_in_force: "2016-02-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-4377"
-original_signed_date: "2016-01-22"
-original_published_date: "2016-02-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-4377"
-entry_into_force_date: "2016-02-03"
-jci_1_3: "jci1.3:c:BWBR0037583&z=2016-02-03&g=2016-02-03"
-jci_1_0: "1.0:c:BWBR0037583&g=2016-02-03"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee 2015"
-signed_date: "2016-01-22"
-entry_into_force: "2016-02-03"
+publicatiedatum: 2016-02-03
+laatste_update: 2016-02-03
+status: geldig
+toestand: 2016-02-03
+bron: "https://wetten.overheid.nl/BWBR0037583"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Minister van Defensie houdende de instelling van een interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee (Instellingsbesluit Interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee 2015)
-
-Handelende in overeenstemming met de Minister van Veiligheid en Justitie;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Gezagsverantwoordelijke:** degene, bij wie de bevoegdheid berust aanwijzingen te geven over de uitvoering van taken en realisering van doelstellingen van de Koninklijke Marechaussee;
+- 1. *Gezagsverantwoordelijke:* degene, bij wie de bevoegdheid berust aanwijzingen te geven over de uitvoering van taken en realisering van doelstellingen van de Koninklijke Marechaussee;
 
-- 2. **Beleidsverantwoordelijke:** de minister die verantwoordelijk is voor het vaststellen van het beleid in het kader waarvan de Koninklijke Marechaussee de taken uitvoert;
+- 2. *Beleidsverantwoordelijke:* de minister die verantwoordelijk is voor het vaststellen van het beleid in het kader waarvan de Koninklijke Marechaussee de taken uitvoert;
 
-- 3. **Beheerder:** de minister van Defensie, die daartoe de Secretaris-Generaal heeft gemandateerd;
+- 3. *Beheerder:* de minister van Defensie, die daartoe de Secretaris-Generaal heeft gemandateerd;
 
-- 4. **Uitvoerder:** de Commandant der Koninklijke Marechaussee die verantwoordelijk is voor de uitvoering van de aan de Koninklijke Marechaussee opgedragen taken.
+- 4. *Uitvoerder:* de Commandant der Koninklijke Marechaussee die verantwoordelijk is voor de uitvoering van de aan de Koninklijke Marechaussee opgedragen taken.
 
 ##### Artikel 2. Beheer- en Gezagsstructuur
 
@@ -149,5 +123,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee 2015.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

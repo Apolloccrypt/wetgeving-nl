@@ -1,42 +1,17 @@
 ---
 title: "Benoemingsbesluit Toezichtsraad BIT"
 identifier: "BWBR0037112"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-12-01"
-last_updated: "2015-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037112"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13285623"
-version_id: "22738732"
-internal_id: "C32878371"
-label_id: "13253574"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037112/2015-12-01/0"
-intitule_bron: "Stcrt.2015-36475"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-10-23"
-intitule_in_force: "2015-10-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-36475"
-original_published_date: "2015-10-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-36475"
-entry_into_force_date: "2015-12-01"
-jci_1_3: "jci1.3:c:BWBR0037112&z=2015-12-01&g=2015-12-01"
-jci_1_0: "1.0:c:BWBR0037112&g=2015-12-01"
-citeertitel_status: "officieel"
-entry_into_force: "2015-12-01"
+publicatiedatum: 2015-12-01
+laatste_update: 2015-12-01
+status: geldig
+toestand: 2015-12-01
+bron: "https://wetten.overheid.nl/BWBR0037112"
+opgehaald: 2026-08-23
 ---
+
 # Benoemingsbesluit Toezichtsraad BIT
-
-Gelet op [artikel 5, vijfde lid, van het Instellingsbesluit tijdelijk Bureau ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0036874&artikel=5);
-
-Gezien de voordracht van de Auditdienst Rijk en de Koninklijke Nederlandse Akademie van Wetenschappen;
-
-besluit
 
 ##### Artikel 1. Benoeming
 
@@ -57,5 +32,3 @@ besluit
 ##### Artikel 3. Citeertitel
 
 Dit besluit wordt aangehaald als: Benoemingsbesluit Toezichtsraad BIT.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden verzonden aan betrokkenen.

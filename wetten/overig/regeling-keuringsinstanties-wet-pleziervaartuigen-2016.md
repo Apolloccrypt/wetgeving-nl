@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 1 februari 2016, nr. IENM/BSK-2016/18281, houdende regels voor het aanwijzen en het aanmelden van keuringsinstanties voor de uitvoering van de Wet pleziervaartuigen 2016 (Regeling keuringsinstanties Wet pleziervaartuigen 2016)"
+citeertitel: "Regeling keuringsinstanties Wet pleziervaartuigen 2016"
 identifier: "BWBR0037585"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-02-03"
-last_updated: "2016-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037585"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13407163"
-version_id: "23004942"
-internal_id: "C33256531"
-label_id: "13374954"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037585/2016-02-03/0"
-intitule_bron: "Stcrt.2016-4749"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-01"
-intitule_published: "2016-02-02"
-intitule_in_force: "2016-02-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-4749"
-original_signed_date: "2016-02-01"
-original_published_date: "2016-02-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-4749"
-entry_into_force_date: "2016-02-03"
-jci_1_3: "jci1.3:c:BWBR0037585&z=2016-02-03&g=2016-02-03"
-jci_1_0: "1.0:c:BWBR0037585&g=2016-02-03"
-citeertitel_status: "officieel"
-short_title: "Regeling keuringsinstanties Wet pleziervaartuigen 2016"
-signed_date: "2016-02-01"
-entry_into_force: "2016-02-03"
+publicatiedatum: 2016-02-03
+laatste_update: 2016-02-03
+status: geldig
+toestand: 2016-02-03
+bron: "https://wetten.overheid.nl/BWBR0037585"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 1 februari 2016, nr. IENM/BSK-2016/18281, houdende regels voor het aanwijzen en het aanmelden van keuringsinstanties voor de uitvoering van de Wet pleziervaartuigen 2016 (Regeling keuringsinstanties Wet pleziervaartuigen 2016)
-
-Gelet op [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&artikel=8), en [artikel 17, tweede lid, van de Wet pleziervaartuigen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&artikel=17);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,13 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Conformiteitsbeoordeling:** het proces waarin wordt aangetoond of voor een product aan de eis van de richtlijn wordt voldaan;
+- *Conformiteitsbeoordeling:* het proces waarin wordt aangetoond of voor een product aan de eis van de richtlijn wordt voldaan;
 
-- **Conformiteitsbeoordelingsmodule:** de modules voor de beoordeling van conformiteit, bedoeld in de artikelen 19 tot en met 24 van de richtlijn, en bijlage II bij Besluit nr. 768/2008 van het Europees Parlement en de Raad van 9 juli 2008, betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad (PbEU 2008, L 218);
+- *Conformiteitsbeoordelingsmodule:* de modules voor de beoordeling van conformiteit, bedoeld in de artikelen 19 tot en met 24 van de richtlijn, en bijlage II bij Besluit nr. 768/2008 van het Europees Parlement en de Raad van 9 juli 2008, betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad (PbEU 2008, L 218);
 
-- **Minister:** Minister van Infrastructuur en Milieu;
+- *Minister:* Minister van Infrastructuur en Milieu;
 
-- **RvA:** de Stichting Raad voor Accreditatie, gevestigd te Utrecht.
+- *RvA:* de Stichting Raad voor Accreditatie, gevestigd te Utrecht.
 
 #### § 2. Aanvragen
 
@@ -138,7 +112,7 @@ Een niet geaccrediteerde keuringsinstantie vergoedt de door de ILT in rekening g
 
 ##### Artikel 13
 
-Wijzigt de Regeling aanwijzing toezichthoudende ambtenaren Inspectie Leefomgeving en Transport op het domein scheepvaart.
+*Wijzigt de Regeling aanwijzing toezichthoudende ambtenaren Inspectie Leefomgeving en Transport op het domein scheepvaart.*
 
 ##### Artikel 14
 
@@ -151,5 +125,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling keuringsinstanties Wet pleziervaartuigen 2016.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

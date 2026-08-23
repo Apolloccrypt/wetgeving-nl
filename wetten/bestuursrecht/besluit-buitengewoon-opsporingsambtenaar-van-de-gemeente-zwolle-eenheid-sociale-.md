@@ -1,52 +1,18 @@
 ---
-title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 14 oktober 2015 nr. BOACAT2015/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Zwolle, eenheid Sociale Zaken en Welzijn"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 14 oktober 2015 nr. BOACAT2015/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Zwolle, eenheid Sociale Zaken en Welzijn."
+citeertitel: "Besluit buitengewoon opsporingsambtenaar van de gemeente Zwolle, eenheid Sociale Zaken en Welzijn 2015"
 identifier: "BWBR0037106"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-10-24"
-last_updated: "2015-10-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037106"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13284613"
-version_id: "22737592"
-internal_id: "C32876761"
-label_id: "13252624"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037106/2015-10-24/0"
-intitule_bron: "Stcrt.2015-36649"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-10-14"
-intitule_published: "2015-10-23"
-intitule_in_force: "2015-10-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-36649"
-original_signed_date: "2015-10-14"
-original_published_date: "2015-10-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-36649"
-entry_into_force_date: "2015-10-24"
-jci_1_3: "jci1.3:c:BWBR0037106&z=2015-10-24&g=2015-10-24"
-jci_1_0: "1.0:c:BWBR0037106&g=2015-10-24"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar van de gemeente Zwolle, eenheid Sociale Zaken en Welzijn 2015"
-signed_date: "2015-10-14"
-entry_into_force: "2015-10-24"
+publicatiedatum: 2015-10-24
+laatste_update: 2015-10-24
+status: geldig
+toestand: 2015-10-24
+bron: "https://wetten.overheid.nl/BWBR0037106"
+opgehaald: 2026-08-23
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 14 oktober 2015 nr. BOACAT2015/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Zwolle, eenheid Sociale Zaken en Welzijn
 
-Gelezen het verzoek van de gemeente Zwolle van 13 oktober 2015 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 14 oktober 2015 nr. BOACAT2015/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Zwolle, eenheid Sociale Zaken en Welzijn.
 
 ##### Artikel 1
 
@@ -58,7 +24,7 @@ De personen, werkzaam in de functie van sociaal rechercheur in dienst van de gem
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, Inkomen en Zorg, als genoemd in [onderdeel 10.3 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, Inkomen en Zorg, als genoemd in [onderdeel 10.3 van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/BWBR0036694).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -93,5 +59,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar van de gemeente Zwolle, eenheid Sociale Zaken en Welzijn 2015.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Nederlandsche Bank N.V. van 8 december 2015 ter uitvoering van artikel 26b van het Besluit prudentiële regels Wft (Regeling Oversight goede werking betalingsverkeer)"
+citeertitel: "Regeling Oversight goede werking betalingsverkeer"
 identifier: "BWBR0037381"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-06-25"
-last_updated: "2022-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037381"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "13352443"
-version_id: "22888582"
-internal_id: "C33095631"
-label_id: "13320264"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037381/2022-06-25/0"
-intitule_bron: "Stcrt.2015-46628"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-08"
-intitule_published: "2015-12-21"
-intitule_in_force: "2015-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-46628"
-original_signed_date: "2015-12-08"
-original_published_date: "2015-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-46628"
-entry_into_force_date: "2015-12-22"
-jci_1_3: "jci1.3:c:BWBR0037381&z=2022-06-25&g=2022-06-25"
-jci_1_0: "1.0:c:BWBR0037381&g=2022-06-25"
-citeertitel_status: "officieel"
-short_title: "Regeling Oversight goede werking betalingsverkeer"
-signed_date: "2015-12-08"
-entry_into_force: "2015-12-22"
+publicatiedatum: 2015-12-22
+laatste_update: 2022-06-25
+status: geldig
+toestand: 2022-06-25
+bron: "https://wetten.overheid.nl/BWBR0037381"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Nederlandsche Bank N.V. van 8 december 2015 ter uitvoering van artikel 26b van het Besluit prudentiële regels Wft (Regeling Oversight goede werking betalingsverkeer)
-
-Na raadpleging van betrokken organisaties;
-
-Gelet op [artikel 26b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26b);
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -48,13 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Retail betalingsverkeer:** het geheel van betaalinstrumenten, betaaldiensten, betalingstransacties, procedures en betaalsystemen ter facilitering van de geldcirculatie, voor zover het gaat om particuliere transacties.
+- a. *Retail betalingsverkeer:* het geheel van betaalinstrumenten, betaaldiensten, betalingstransacties, procedures en betaalsystemen ter facilitering van de geldcirculatie, voor zover het gaat om particuliere transacties.
 
-- b. **Instelling:** bank, betaalinstelling of elektronischgeldinstelling als bedoeld in [artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met zetel in Nederland.
+- b. *Instelling:* bank, betaalinstelling of elektronischgeldinstelling als bedoeld in [artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met zetel in Nederland.
 
-- c. **Tijdkritische betaalopdracht:** een betaalopdracht waarbij de goedkeuring van de aangeboden betaalopdracht onmiddellijk op het moment van initiatie van de betaalopdracht door de betaler en begunstigde wordt verwacht.
+- c. *Tijdkritische betaalopdracht:* een betaalopdracht waarbij de goedkeuring van de aangeboden betaalopdracht onmiddellijk op het moment van initiatie van de betaalopdracht door de betaler en begunstigde wordt verwacht.
 
-- d. **Particuliere transacties**: transacties geïnitieerd door natuurlijke personen niet handelend in kader van beroep of bedrijf.
+- d. *Particuliere transacties*: transacties geïnitieerd door natuurlijke personen niet handelend in kader van beroep of bedrijf.
 
 ##### Artikel 2
 
@@ -101,5 +73,3 @@ Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staa
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling Oversight goede werking betalingsverkeer.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,71 +1,42 @@
 ---
 title: "Beleidsregels van het Commissariaat voor de Media van 1 januari 2016 houdende beleidsregels omtrent nevenactiviteiten publieke media-instellingen (Beleidsregels nevenactiviteiten 2016)"
+citeertitel: "Beleidsregels nevenactiviteiten 2016"
 identifier: "BWBR0037313"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-07-07"
-last_updated: "2017-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037313"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13334463"
-version_id: "24184382"
-internal_id: "C34747591"
-label_id: "13302434"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037313/2017-07-07/0"
-intitule_bron: "Stcrt.2015-44300"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-12-09"
-intitule_in_force: "2015-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-37835"
-original_published_date: "2017-07-06"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2017-37835"
-entry_into_force_date: "2017-07-07"
-jci_1_3: "jci1.3:c:BWBR0037313&z=2017-07-07&g=2017-07-07"
-jci_1_0: "1.0:c:BWBR0037313&g=2017-07-07"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels nevenactiviteiten 2016"
-entry_into_force: "2017-07-07"
+publicatiedatum: 2017-07-07
+laatste_update: 2017-07-07
+status: geldig
+toestand: 2017-07-07
+bron: "https://wetten.overheid.nl/BWBR0037313"
+opgehaald: 2026-08-23
 ---
+
 # Beleidsregels van het Commissariaat voor de Media van 1 januari 2016 houdende beleidsregels omtrent nevenactiviteiten publieke media-instellingen (Beleidsregels nevenactiviteiten 2016)
-
-gelet op de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028),
-
-gelet op de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040),
-
-gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8) en [10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10),
-
-gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-Besluit:
 
 ##### Artikel 1. Definities en reikwijdte
 
 In deze beleidsregels wordt verstaan onder:
 
-- –. **wet:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
+- – *wet:* de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
 
-- –. **besluit:** het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036);
+- – *besluit:* het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036);
 
-- –. **regeling:** de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040);
+- – *regeling:* de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040);
 
-- –. **Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- – *Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- –. **Commissariaat:** het Commissariaat voor de Media;
+- – *Commissariaat:* het Commissariaat voor de Media;
 
-- –. **nevenactiviteiten:** activiteiten als bedoeld in [artikel 2.132, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132);
+- – *nevenactiviteiten:* activiteiten als bedoeld in [artikel 2.132, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132);
 
-- –. **experimentele nevenactiviteiten:** activiteiten als bedoeld in [artikel 2.132, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132);
+- – *experimentele nevenactiviteiten:* activiteiten als bedoeld in [artikel 2.132, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132);
 
-- –. **netto omzet:** netto omzet als bedoeld in [artikel 2:377, zesde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377);
+- – *netto omzet:* netto omzet als bedoeld in [artikel 2:377, zesde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377);
 
-- –. **ACM:** Autoriteit Consument & Markt;
+- – *ACM:* Autoriteit Consument & Markt;
 
-- –. **onderwijsinstelling:** een instelling die is erkend door het Ministerie van OC&W en is opgenomen in één van de registers van OC&W.
+- – *onderwijsinstelling:* een instelling die is erkend door het Ministerie van OC&W en is opgenomen in één van de registers van OC&W.
 
 ##### Artikel 2
 
@@ -91,17 +62,17 @@ Het Commissariaat onderscheidt de volgende clusters van nevenactiviteiten:
 
 ##### Artikel 4. Relatie
 
-Een nevenactiviteit **‘houdt verband met’**of**‘staat ten dienste van‘** de verwezenlijking van de publieke media-opdracht en is **‘direct gerelateerd aan‘** het media-aanbod van de publieke media-instelling, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), indien:
+Een nevenactiviteit *‘houdt verband met’*of*‘staat ten dienste van‘* de verwezenlijking van de publieke media-opdracht en is *‘direct gerelateerd aan‘* het media-aanbod van de publieke media-instelling, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), indien:
 
 - 1. het een nevenactiviteit in cluster 1 betreft;
 
 - 2. in geval van een nevenactiviteit in cluster 2 is voldaan aan de voorwaarde dat het personeel of de middelen niet zijn verworven met het oogmerk om te verhuren en daarnaast geldt dat:
 
-- a. niet meer dan 10% van de omvang van het totale personeelsbestand of de totale oppervlakte waarover de publieke media-instelling beschikt in het kader van nevenactiviteiten is verhuurd aan derden; of
+   - a. niet meer dan 10% van de omvang van het totale personeelsbestand of de totale oppervlakte waarover de publieke media-instelling beschikt in het kader van nevenactiviteiten is verhuurd aan derden; of
 
-- b. sprake is van middelen die de publieke media-instelling nodig heeft voor de uitoefening van de publiek media-opdracht, maar die zij naar hun aard niet onafgebroken in gebruik heeft, en de publieke media-instelling op jaarbasis voor ten minste 50% van de tijd over de middelen kan beschikken; of
+   - b. sprake is van middelen die de publieke media-instelling nodig heeft voor de uitoefening van de publiek media-opdracht, maar die zij naar hun aard niet onafgebroken in gebruik heeft, en de publieke media-instelling op jaarbasis voor ten minste 50% van de tijd over de middelen kan beschikken; of
 
-- c. sprake is van een ander geval op basis waarvan het Commissariaat afwijking van de in sub a of sub b genoemde percentages gerechtvaardigd acht;
+   - c. sprake is van een ander geval op basis waarvan het Commissariaat afwijking van de in sub a of sub b genoemde percentages gerechtvaardigd acht;
 
 - 3. in geval van een nevenactiviteit in cluster 3 is voldaan aan de voorwaarde dat minimaal 50% van de redactionele inhoud van het blad direct gerelateerd is aan het media-aanbod van de publieke media-instelling;
 
@@ -109,25 +80,25 @@ Een nevenactiviteit **‘houdt verband met’**of**‘staat ten dienste van‘**
 
 - 5. in geval van een nevenactiviteit in cluster 5 is voldaan aan de voorwaarden dat:
 
-- a. in de webwinkel producten of diensten worden verkocht die voortkomen uit toegestane nevenactiviteiten of uit verenigingsactiviteiten; en
+   - a. in de webwinkel producten of diensten worden verkocht die voortkomen uit toegestane nevenactiviteiten of uit verenigingsactiviteiten; en
 
-- b. de verkoopactiviteiten duidelijk zijn onderscheiden van het overige media-aanbod van de publieke media-instelling, doordat zij plaatsvinden via een – als zodanig herkenbare – separate webwinkel;
+   - b. de verkoopactiviteiten duidelijk zijn onderscheiden van het overige media-aanbod van de publieke media-instelling, doordat zij plaatsvinden via een – als zodanig herkenbare – separate webwinkel;
 
 - 6. in geval van een nevenactiviteit in cluster 6 is voldaan aan de voorwaarden dat:
 
-- a. het aandeel van de publieke media-instelling in de entiteit in evenwicht is met de activiteiten die in de entiteit plaatsvinden ten behoeve van de verwezenlijking van de publieke media-opdracht of nevenactiviteiten van de publieke media-instelling; en
+   - a. het aandeel van de publieke media-instelling in de entiteit in evenwicht is met de activiteiten die in de entiteit plaatsvinden ten behoeve van de verwezenlijking van de publieke media-opdracht of nevenactiviteiten van de publieke media-instelling; en
 
-- b. er sprake is van een proportionele verhouding tussen de financiële inbreng van de publieke media-instelling en de netto omzet die deze publieke media-instelling in de entiteit genereert;
+   - b. er sprake is van een proportionele verhouding tussen de financiële inbreng van de publieke media-instelling en de netto omzet die deze publieke media-instelling in de entiteit genereert;
 
 - 7. in geval van een nevenactiviteit in cluster 7 is voldaan aan de voorwaarden dat:
 
-- a. de betrokkenheid van gebruikers bij het media-aanbod of de publieke media-instelling met de nevenactiviteit wordt vergroot of de innovatie van het media-aanbod wordt bevorderd; en
+   - a. de betrokkenheid van gebruikers bij het media-aanbod of de publieke media-instelling met de nevenactiviteit wordt vergroot of de innovatie van het media-aanbod wordt bevorderd; en
 
-- b. de activiteit aantoonbaar inhoudelijk aansluit bij het media-aanbod van de publieke media-instelling.
+   - b. de activiteit aantoonbaar inhoudelijk aansluit bij het media-aanbod van de publieke media-instelling.
 
 ##### Artikel 5. Marktconformiteit
 
-1. Bij de beoordeling of de nevenactiviteit op **‘marktconforme wijze‘** wordt verricht, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), wordt in ieder geval betrokken:
+1. Bij de beoordeling of de nevenactiviteit op *‘marktconforme wijze‘* wordt verricht, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), wordt in ieder geval betrokken:
 
 - a. de kostprijs van de nevenactiviteit;
 
@@ -153,11 +124,11 @@ Het Commissariaat betrekt bij de beoordeling van marktconformiteit ACM bij aange
 
 ##### Artikel 8. Kostendekkendheid
 
-Nevenactiviteiten zijn niet **‘kostendekkend‘**, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), indien zij direct of indirect worden bekostigd door of anderszins ten laste komen van de publieke media-opdracht.
+Nevenactiviteiten zijn niet *‘kostendekkend‘*, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), indien zij direct of indirect worden bekostigd door of anderszins ten laste komen van de publieke media-opdracht.
 
 ##### Artikel 9
 
-In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=8&z=2017-07-07&g=2017-07-07) van deze beleidsregels wordt de nevenactiviteit als **‘kostendekkend‘** aangemerkt indien:
+In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=8&z=2017-07-07&g=2017-07-07) van deze beleidsregels wordt de nevenactiviteit als *‘kostendekkend‘* aangemerkt indien:
 
 - 1. aanloopverliezen bij de exploitatie van een nieuwe nevenactiviteit gedurende een periode van maximaal vier boekjaren gesaldeerd worden met de positieve financiële resultaten van één of meer andere nevenactiviteiten, onder de voorwaarde dat de publieke media-instelling bij nieuw te ondernemen nevenactiviteiten door middel van prognoses en een toelichting daarbij aannemelijk maakt dat deze activiteit binnen het geheel van vier boekjaren kostendekkend is; of
 
@@ -211,126 +182,6 @@ Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepas
 
 3. Bij de melding maakt de publieke media-instelling gebruik van het Meldingsformulier experimentele nevenactiviteiten en vult zij dit formulier op de voorgeschreven wijze in.
 
-##### Artikel 15. Beëindiging van nevenactiviteiten
-
-1. Nevenactiviteiten die niet (langer) binnen de reikwijdte van het (generieke) toestemmingsbesluit kunnen worden verricht, zijn niet (langer) toegestaan en dienen tijdig (opnieuw) ter beoordeling aan het Commissariaat te worden voorgelegd of dienen per direct te worden gestaakt.
-
-2. Experimentele nevenactiviteiten die niet (langer) voldoen aan de wettelijke eisen voor nevenactiviteiten, zijn niet (langer) toegestaan en dienen tijdig ter beoordeling aan het Commissariaat te worden voorgelegd of dienen per direct te worden gestaakt.
-
-3. In het in het eerste of tweede lid genoemde geval, meldt de publieke media-instellingen binnen 3 maanden na beëindiging van de nevenactiviteit aan het Commissariaat dat met de activiteit is gestopt.
-
-##### Artikel 16. Uitingen in het kader van nevenactiviteiten
-
-Oproepen in het kader van nevenactiviteiten in het media-aanbod zoals genoemd in [artikel 2.90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.90) zijn toegestaan, indien:
-
-- 1. het mededelingen over het ter beschikking stellen aan derden van producten of diensten die voortkomen uit nevenactiviteiten betreft, voor zover:
-
-- a. de mededeling ziet op een nevenactiviteit in cluster 1;
-
-- b. de nevenactiviteit niet eerder dan één maand na de laatste oproep terzake op de markt wordt gebracht;
-
-- c. in de mededeling de betrokken publieke media-instelling uitsluitend als uitgever wordt genoemd; en
-
-- d. de mededeling plaatsheeft in onmiddellijke aansluiting op het onderdeel van het media-aanbod waarop de mededeling betrekking heeft;
-
-- 2. het een programmatitel betreft die een gelijkluidende of nagenoeg gelijkluidende naam heeft als een product of dienst die wordt geëxploiteerd in het kader van een nevenactiviteit, voor zover:
-
-- a. de activiteit een toegestane nevenactiviteit is; en
-
-- b. eventuele derden waarmee de publieke media-instelling in het kader van de nevenactiviteit een samenwerkingsverband is aangegaan het betreffende media-aanbod niet sponsort.
-
-- 3. Het tweede is ook van toepassing op toegestane nevenactiviteiten die uit niet meer bestaan dan de licentieverlening van een auteurs- of merkrecht op een programmatitel aan een derde.
-
-##### Artikel 17. Openbaarmaking
-
-Het Commissariaat maakt de door hem genomen besluiten met betrekking tot nevenactiviteiten openbaar conform de in de Werkwijze Communicatie van het Commissariaat voor de Media voorgeschreven wijze.
-
-##### Artikel 18
-
-1. Het Commissariaat houdt een openbaar Register nevenactiviteiten bij waarin elk besluit aangaande nevenactiviteiten wordt opgenomen. Het Commissariaat vermeldt hierin eveneens de nevenactiviteiten die binnen de generieke toestemmingsbesluiten worden verricht.
-
-2. In het Register nevenactiviteiten wordt vermeld: het zaaknummer, de betrokken publieke media-instelling, een korte omschrijving van de nevenactiviteit, het cluster, de datum en het besluit van het Commissariaat.
-
-3. Het Commissariaat registreert de aangemelde experimentele nevenactiviteiten in een openbaar Register experimentele nevenactiviteiten.
-
-4. In het Register experimentele nevenactiviteiten wordt vermeld: het zaaknummer, de betrokken publieke media-instelling, de betrokken samenwerkingspartner, een korte omschrijving van de experimentele nevenactiviteit en de ingangsdatum.
-
-##### Artikel 19. Overgangs- en slotbepalingen
-
-1. De voorafgaand aan de inwerkingtreding van deze beleidsregels genomen besluiten tot toestemming van nevenactiviteiten blijven in stand, tenzij de gewijzigde clusterindeling in deze beleidsregels aanleiding geven tot wijziging van een specifiek besluit. Dit geldt eveneens voor de voor 1 januari 2009 verleende goedkeuringen. Reeds goedgekeurde nevenactiviteiten worden in beginsel niet opnieuw getoetst.
-
-2. Op verzoeken om toestemming die zijn ingediend voor de datum van inwerkingtreding van deze beleidsregels, zijn de [Beleidsregels nevenactiviteiten 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025784) en aanverwante regelgeving van toepassing.
-
-##### Artikel 20
-
-1. Deze beleidsregels treden in werking met ingang van 1 januari 2016.
-
-2. Deze beleidsregels worden aangehaald als Beleidsregels nevenactiviteiten 2016.
-
-3. Deze beleidsregels worden bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat voor de Media.
-
-4. De volgende beleidsregels en brieven van het Commissariaat worden gelijktijdig ingetrokken:
-
-- –. de [Beleidsregels nevenactiviteiten 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025784) van 10 april 2009;
-
-- –. de [Beleidsregels ontheffingen programmatitel nevenactiviteiten publieke omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0023614) van
-
-- –. 19 februari 2008;
-
-- –. de brief van het Commissariaat van 15 september 2009 met kenmerk: 18571/2009013905;
-
-- –. de (cluster)brief van het Commissariaat van 23 december 2008
-
-- –. met kenmerk: SBO-007582-yw; en
-
-- –. de (merchandise)brief van het Commissariaat van 15 juli 2008
-
-- –. met kenmerk: SBO-004307-lvdz.
-
-5. Wijzigt het Besluit ontheffing zelfpromotie publieke omroep.
-
-6. De volgende beleidsbrieven en brochures worden per 1 juli 2017 ingetrokken
-
-- –. de beleidsbrief publiek-private samenwerking 2012; en
-
-- –. de brochure publiek-private samenwerking.
-
-## Bijlage 1. Beslisschema clusterindeling
-
-## Bijlage 2. Transponeringstabel Beleidsregels nevenactiviteiten 2016
-
-| [Beleidsregels nevenactiviteiten 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025784) | Beleidsregels nevenactiviteiten 2016 |
-| --- | --- |
-| [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=1) | – |
-| [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=2) | [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=1&z=2016-01-01&g=2016-01-01) (definities en reikwijdte) |
-| – | [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=2&z=2016-01-01&g=2016-01-01) nieuw artikel: voorwaarden |
-| – | [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=3&z=2016-01-01&g=2016-01-01) nieuw artikel: clusterindeling |
-| [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=3) (relatietoets) | [Artikel 4, eerste, derde, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=4&z=2016-01-01&g=2016-01-01) (relatietoets) |
-| [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=4) (relatietoets): | Artikel 4 (relatietoets) |
-| Artikel 4, eerste lid, onder a (deelneming) | Artikel 4, zesde lid (deelneming) |
-| Artikel 4, eerste lid, onder b (verhuur) | Artikel 4, tweede lid (verhuur) |
-| [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=5) (relatietoets) | Artikel 4 (relatietoets) |
-| [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=6) (relatietoets): | Artikel 4 (relatietoets) |
-| Artikel 6 (schade) | – |
-| [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=7) (marktconformiteit) | [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=5&z=2016-01-01&g=2016-01-01) (marktconformiteit) |
-| [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=8) (marktconformiteit) | Artikel 5 (marktconformiteit) |
-| [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=9) (marktconformiteit) | [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=6&z=2016-01-01&g=2016-01-01) (marktconformiteit) |
-| [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=10) (marktconformiteit) | [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=7&z=2016-01-01&g=2016-01-01) (marktconformiteit) |
-| [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=11) (kostendekkendheid) | [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=8&z=2016-01-01&g=2016-01-01) (kostendekkendheid) |
-| [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=12) (kostendekkendheid): | [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=9&z=2016-01-01&g=2016-01-01) (kostendekkendheid) |
-| Artikel 12, eerste lid (negatieve resultaten) | Artikel 9, tweede lid (aanloopverliezen) |
-| Artikel 12, tweede lid (aanloopverliezen) | Artikel 9, eerste lid (negatieve resultaten) [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=10&z=2016-01-01&g=2016-01-01) nieuw artikel: verantwoording |
-| [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=13) (procedure): | [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2016-01-01&g=2016-01-01) (meldingsprocedure) [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=12&z=2016-01-01&g=2016-01-01) nieuw artikel: besluitvormingsprocedure reguliere nevenactiviteiten [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=13&z=2016-01-01&g=2016-01-01) nieuw artikel: procedure generieke toestemmingen [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=14&z=2016-01-01&g=2016-01-01) nieuw artikel: meldingsprocedure experimentele nevenactiviteiten |
-| Artikel 13, vijfde lid | [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=15&z=2016-01-01&g=2016-01-01) (beëindiging van nevenactiviteiten) Artikel 15, tweede lid: nieuw artikel: beëindiging van experimentele nevenactiviteiten |
-| Artikel 13, zesde lid | Artikel 15, derde lid (beëindiging van nevenactiviteiten) [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=16&z=2016-01-01&g=2016-01-01) nieuw artikel: uitingen in het kader van nevenactiviteiten [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=17&z=2016-01-01&g=2016-01-01) nieuw artikel: openbaarmaking |
-| [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=14) (register) | [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=18&z=2016-01-01&g=2016-01-01) (register) |
-| [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=15) (register): | Artikel 18 (register) |
-| Artikel 15, eerste lid | Artikel 18, tweede lid (register reguliere nevenactiviteiten) |
-| Artikel 15, tweede en derde lid (register na beëindiging) | – |
-|   | Artikel 18, derde lid: nieuw artikel: register experimentele nevenactiviteiten |
-| [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=16) (register) | Artikel 18, eerste lid (register) Artikel 18, vierde lid: nieuw artikel: register experimentele nevenactiviteiten |
-| [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=17) (slotbepaling) | [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=20&z=2016-01-01&g=2016-01-01) (overgangs- en slotbepalingen) |
-
 ##### Artikel 14a. Samenwerking eenmalig project
 
 1. Een nevenactiviteit is een samenwerking in het kader van een eenmalig project indien:
@@ -365,38 +216,86 @@ Het Commissariaat maakt de door hem genomen besluiten met betrekking tot nevenac
 
 4. Een gelijkwaardige samenwerking wordt gemeld via het daartoe bestemde meldingsformulier op de website van het Commissariaat en gaat niet van start voordat toestemming van het Commissariaat is verkregen.
 
-## Bijlage 1. Beslisschema clusterindeling
+##### Artikel 15. Beëindiging van nevenactiviteiten
 
-## Bijlage 2. Transponeringstabel Beleidsregels nevenactiviteiten 2016
+1. Nevenactiviteiten die niet (langer) binnen de reikwijdte van het (generieke) toestemmingsbesluit kunnen worden verricht, zijn niet (langer) toegestaan en dienen tijdig (opnieuw) ter beoordeling aan het Commissariaat te worden voorgelegd of dienen per direct te worden gestaakt.
 
-| [Beleidsregels nevenactiviteiten 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025784) | Beleidsregels nevenactiviteiten 2016 |
-| --- | --- |
-| [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=1) | – |
-| [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=2) | [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=1&z=2017-07-07&g=2017-07-07) (definities en reikwijdte) |
-| – | [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=2&z=2017-07-07&g=2017-07-07) nieuw artikel: voorwaarden |
-| – | [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=3&z=2017-07-07&g=2017-07-07) nieuw artikel: clusterindeling |
-| [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=3) (relatietoets) | [Artikel 4, eerste, derde, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=4&z=2017-07-07&g=2017-07-07) (relatietoets) |
-| [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=4) (relatietoets): | Artikel 4 (relatietoets) |
-| Artikel 4, eerste lid, onder a (deelneming) | Artikel 4, zesde lid (deelneming) |
-| Artikel 4, eerste lid, onder b (verhuur) | Artikel 4, tweede lid (verhuur) |
-| [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=5) (relatietoets) | Artikel 4 (relatietoets) |
-| [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=6) (relatietoets): | Artikel 4 (relatietoets) |
-| Artikel 6 (schade) | – |
-| [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=7) (marktconformiteit) | [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=5&z=2017-07-07&g=2017-07-07) (marktconformiteit) |
-| [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=8) (marktconformiteit) | Artikel 5 (marktconformiteit) |
-| [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=9) (marktconformiteit) | [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=6&z=2017-07-07&g=2017-07-07) (marktconformiteit) |
-| [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=10) (marktconformiteit) | [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=7&z=2017-07-07&g=2017-07-07) (marktconformiteit) |
-| [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=11) (kostendekkendheid) | [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=8&z=2017-07-07&g=2017-07-07) (kostendekkendheid) |
-| [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=12) (kostendekkendheid): | [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=9&z=2017-07-07&g=2017-07-07) (kostendekkendheid) |
-| Artikel 12, eerste lid (negatieve resultaten) | Artikel 9, tweede lid (aanloopverliezen) |
-| Artikel 12, tweede lid (aanloopverliezen) | Artikel 9, eerste lid (negatieve resultaten) [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=10&z=2017-07-07&g=2017-07-07) nieuw artikel: verantwoording |
-| [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=13) (procedure): | [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2017-07-07&g=2017-07-07) (meldingsprocedure) [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=12&z=2017-07-07&g=2017-07-07) nieuw artikel: besluitvormingsprocedure reguliere nevenactiviteiten [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=13&z=2017-07-07&g=2017-07-07) nieuw artikel: procedure generieke toestemmingen [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=14&z=2017-07-07&g=2017-07-07) nieuw artikel: meldingsprocedure experimentele nevenactiviteiten |
-| Artikel 13, vijfde lid | [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=15&z=2017-07-07&g=2017-07-07) (beëindiging van nevenactiviteiten) Artikel 15, tweede lid: nieuw artikel: beëindiging van experimentele nevenactiviteiten |
-| Artikel 13, zesde lid | Artikel 15, derde lid (beëindiging van nevenactiviteiten) [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=16&z=2017-07-07&g=2017-07-07) nieuw artikel: uitingen in het kader van nevenactiviteiten [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=17&z=2017-07-07&g=2017-07-07) nieuw artikel: openbaarmaking |
-| [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=14) (register) | [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=18&z=2017-07-07&g=2017-07-07) (register) |
-| [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=15) (register): | Artikel 18 (register) |
-| Artikel 15, eerste lid | Artikel 18, tweede lid (register reguliere nevenactiviteiten) |
-| Artikel 15, tweede en derde lid (register na beëindiging) | – |
-|   | Artikel 18, derde lid: nieuw artikel: register experimentele nevenactiviteiten |
-| [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=16) (register) | Artikel 18, eerste lid (register) Artikel 18, vierde lid: nieuw artikel: register experimentele nevenactiviteiten |
-| [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=17) (slotbepaling) | [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=20&z=2017-07-07&g=2017-07-07) (overgangs- en slotbepalingen) |
+2. Experimentele nevenactiviteiten die niet (langer) voldoen aan de wettelijke eisen voor nevenactiviteiten, zijn niet (langer) toegestaan en dienen tijdig ter beoordeling aan het Commissariaat te worden voorgelegd of dienen per direct te worden gestaakt.
+
+3. In het in het eerste of tweede lid genoemde geval, meldt de publieke media-instellingen binnen 3 maanden na beëindiging van de nevenactiviteit aan het Commissariaat dat met de activiteit is gestopt.
+
+##### Artikel 16. Uitingen in het kader van nevenactiviteiten
+
+Oproepen in het kader van nevenactiviteiten in het media-aanbod zoals genoemd in [artikel 2.90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.90) zijn toegestaan, indien:
+
+- 1. het mededelingen over het ter beschikking stellen aan derden van producten of diensten die voortkomen uit nevenactiviteiten betreft, voor zover:
+
+   - a. de mededeling ziet op een nevenactiviteit in cluster 1;
+
+   - b. de nevenactiviteit niet eerder dan één maand na de laatste oproep terzake op de markt wordt gebracht;
+
+   - c. in de mededeling de betrokken publieke media-instelling uitsluitend als uitgever wordt genoemd; en
+
+   - d. de mededeling plaatsheeft in onmiddellijke aansluiting op het onderdeel van het media-aanbod waarop de mededeling betrekking heeft;
+
+- 2. het een programmatitel betreft die een gelijkluidende of nagenoeg gelijkluidende naam heeft als een product of dienst die wordt geëxploiteerd in het kader van een nevenactiviteit, voor zover:
+
+   - a. de activiteit een toegestane nevenactiviteit is; en
+
+   - b. eventuele derden waarmee de publieke media-instelling in het kader van de nevenactiviteit een samenwerkingsverband is aangegaan het betreffende media-aanbod niet sponsort.
+
+- 3. Het tweede is ook van toepassing op toegestane nevenactiviteiten die uit niet meer bestaan dan de licentieverlening van een auteurs- of merkrecht op een programmatitel aan een derde.
+
+##### Artikel 17. Openbaarmaking
+
+Het Commissariaat maakt de door hem genomen besluiten met betrekking tot nevenactiviteiten openbaar conform de in de Werkwijze Communicatie van het Commissariaat voor de Media voorgeschreven wijze.
+
+##### Artikel 18
+
+1. Het Commissariaat houdt een openbaar Register nevenactiviteiten bij waarin elk besluit aangaande nevenactiviteiten wordt opgenomen. Het Commissariaat vermeldt hierin eveneens de nevenactiviteiten die binnen de generieke toestemmingsbesluiten worden verricht.
+
+2. In het Register nevenactiviteiten wordt vermeld: het zaaknummer, de betrokken publieke media-instelling, een korte omschrijving van de nevenactiviteit, het cluster, de datum en het besluit van het Commissariaat.
+
+3. Het Commissariaat registreert de aangemelde experimentele nevenactiviteiten in een openbaar Register experimentele nevenactiviteiten.
+
+4. In het Register experimentele nevenactiviteiten wordt vermeld: het zaaknummer, de betrokken publieke media-instelling, de betrokken samenwerkingspartner, een korte omschrijving van de experimentele nevenactiviteit en de ingangsdatum.
+
+##### Artikel 19. Overgangs- en slotbepalingen
+
+1. De voorafgaand aan de inwerkingtreding van deze beleidsregels genomen besluiten tot toestemming van nevenactiviteiten blijven in stand, tenzij de gewijzigde clusterindeling in deze beleidsregels aanleiding geven tot wijziging van een specifiek besluit. Dit geldt eveneens voor de voor 1 januari 2009 verleende goedkeuringen. Reeds goedgekeurde nevenactiviteiten worden in beginsel niet opnieuw getoetst.
+
+2. Op verzoeken om toestemming die zijn ingediend voor de datum van inwerkingtreding van deze beleidsregels, zijn de [Beleidsregels nevenactiviteiten 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025784) en aanverwante regelgeving van toepassing.
+
+##### Artikel 20
+
+1. Deze beleidsregels treden in werking met ingang van 1 januari 2016.
+
+2. Deze beleidsregels worden aangehaald als Beleidsregels nevenactiviteiten 2016.
+
+3. Deze beleidsregels worden bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat voor de Media.
+
+4. De volgende beleidsregels en brieven van het Commissariaat worden gelijktijdig ingetrokken:
+
+- – de [Beleidsregels nevenactiviteiten 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025784) van 10 april 2009;
+
+- – de [Beleidsregels ontheffingen programmatitel nevenactiviteiten publieke omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0023614) van
+
+- – 19 februari 2008;
+
+- – de brief van het Commissariaat van 15 september 2009 met kenmerk: 18571/2009013905;
+
+- – de (cluster)brief van het Commissariaat van 23 december 2008
+
+- – met kenmerk: SBO-007582-yw; en
+
+- – de (merchandise)brief van het Commissariaat van 15 juli 2008
+
+- – met kenmerk: SBO-004307-lvdz.
+
+5. *Wijzigt het Besluit ontheffing zelfpromotie publieke omroep.*
+
+6. De volgende beleidsbrieven en brochures worden per 1 juli 2017 ingetrokken
+
+- – de beleidsbrief publiek-private samenwerking 2012; en
+
+- – de brochure publiek-private samenwerking.

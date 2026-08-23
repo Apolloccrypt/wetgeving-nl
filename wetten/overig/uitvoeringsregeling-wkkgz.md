@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2015, kenmerk 808179-144256-WJZ, houdende bepalingen ter uitvoering van artikel 18, derde lid, van de Wet kwaliteit, klachten en geschillen zorg en artikel 5.1, tweede lid, van het Uitvoeringsbesluit Wkkgz (Uitvoeringsregeling Wkkgz)"
+citeertitel: "Uitvoeringsregeling Wkkgz"
 identifier: "BWBR0037358"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037358"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13348113"
-version_id: "31272402"
-internal_id: "C44714071"
-label_id: "13315994"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037358/2026-01-01/0"
-intitule_bron: "Stcrt.2015-45940"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-08"
-intitule_published: "2015-12-17"
-intitule_in_force: "2015-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-43933"
-original_signed_date: "2025-12-10"
-original_published_date: "2025-12-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-43933"
-entry_into_force_date: "2025-12-10"
-jci_1_3: "jci1.3:c:BWBR0037358&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0037358&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling Wkkgz"
-signed_date: "2025-12-10"
-entry_into_force: "2025-12-10"
+publicatiedatum: 2025-12-10
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0037358"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2015, kenmerk 808179-144256-WJZ, houdende bepalingen ter uitvoering van artikel 18, derde lid, van de Wet kwaliteit, klachten en geschillen zorg en artikel 5.1, tweede lid, van het Uitvoeringsbesluit Wkkgz (Uitvoeringsregeling Wkkgz)
-
-Gelet op [artikel 18, derde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=18), [artikel 5.5, tweede lid, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=5.1) en artikel 6 van [Richtlijn 2002/98/EG](32002L0098) van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van [Richtlijn 2001/83/EG](32001L0083) van de Raad (PbEU L 33);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,37 +20,39 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **bereikbaarheidsanalyse:** bereikbaarheidsanalyse als bedoeld in [artikel 8A.4, eerste lid, onderdeel g, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4);
+- – *bereikbaarheidsanalyse:* bereikbaarheidsanalyse als bedoeld in [artikel 8A.4, eerste lid, onderdeel g, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4);
 
-- –. **continuïteitsplan:** plan als bedoeld in [artikel 8A.4, eerste lid, onderdeel h, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4);
+- – *continuïteitsplan:* plan als bedoeld in [artikel 8A.4, eerste lid, onderdeel h, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4);
 
-- –. **dienstapotheek:** apotheek die in de avond, de nacht en op zondag farmaceutische zorg aanbiedt;
+- – *dienstapotheek:* apotheek die in de avond, de nacht en op zondag farmaceutische zorg aanbiedt;
 
-- –. **directeur publieke gezondheid:** directeur publieke gezondheid als bedoeld in [artikel 32, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=32);
+- – *directeur publieke gezondheid:* directeur publieke gezondheid als bedoeld in [artikel 32, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=32);
 
-- –. **geschilleninstantie:** geschilleninstantie als bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=18);
+- – *geschilleninstantie:* geschilleninstantie als bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=18);
 
-- –. **GHOR:** GHOR als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
+- – *GHOR:* GHOR als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
-- –. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- – *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **NEN:** door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
+- – *NEN:* door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
 
-- –. **NEN 7510-1 en 7510-2:** normen betreffende het organisatorisch en technisch inrichten van de informatiebeveiliging in de zorg;
+- – *NEN 7510-1 en 7510-2:* normen betreffende het organisatorisch en technisch inrichten van de informatiebeveiliging in de zorg;
 
-- –. **NEN 7512:2022:** nadere invulling van NEN 7510 betreffende de veiligheid van gegevensuitwisseling tussen partijen in de zorg;
+- – *NEN 7512:2022:* nadere invulling van NEN 7510 betreffende de veiligheid van gegevensuitwisseling tussen partijen in de zorg;
 
-- –. **NEN 7524:2019 en:** norm betreffende de pseudonimisering van gegevens in de zorg;
+- – *NEN 7524:2019 en:* norm betreffende de pseudonimisering van gegevens in de zorg;
 
-- –. **regiobeeld:** overzicht van de belangrijkste data over zorgvraag, zorgaanbod, gezondheid en leefstijl, bevolkingsontwikkeling, sociale en fysieke omgeving in een specifieke regio;
+- – *regiobeeld:* overzicht van de belangrijkste data over zorgvraag, zorgaanbod, gezondheid en leefstijl, bevolkingsontwikkeling, sociale en fysieke omgeving in een specifieke regio;
 
-- –. **reglement:** regeling als bedoeld in [artikel 19, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=19);
+- – *reglement:* regeling als bedoeld in [artikel 19, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=19);
 
-- –. **RIVM:** RIVM, bedoeld in [artikel 1, onderdeel b, van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=1);
+- – *RIVM:* RIVM, bedoeld in [artikel 1, onderdeel b, van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=1);
 
-- –. **uitvoeringsbesluit:** [Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262);
+- – *uitvoeringsbesluit:*
+ [Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262);
 
-- –. **wet:** [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173).
+- – *wet:*
+ [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173).
 
 2. Als medisch specialistische zorg wordt de volgende zorg aangewezen, voor zover die zorg wordt verleend door een arts, anders dan een huisarts, specialist ouderengeneeskunde of arts verstandelijk gehandicapten:
 
@@ -228,21 +204,69 @@ Van een beslissing tot erkenning of intrekking van een erkenning van een geschil
 
 ### Hoofdstuk 2a. Kwaliteitsregistraties
 
+##### Artikel 7aa
+
+Het aanvraagformulier, bedoeld in [artikel 11l, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11l) is opgenomen in [bijlage](https://wetten.overheid.nl/BWBR0037358) I bij deze regeling.
+
+##### Artikel 7ab
+
+1. Een kwaliteitsregistratie voldoet aan de voorwaarde van noodzakelijkheid en van proportionaliteit en subsidiariteit als bedoeld in [artikel 11o, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11o) als ten minste:
+
+- a. een kwaliteitsregistratie bijdraagt aan goede zorg als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=2);
+
+- b. een kwaliteitsregistratie aansluit bij de professionele standaard of een kwaliteitsstandaard;
+
+- c. enkel die gegevens worden uitgevraagd die noodzakelijk zijn om de kwaliteit van zorg te meten en verbeteren;
+
+- d. inzichtelijk is gemaakt op welke wijze en in welke vorm gegevens worden uitgevraagd bij de zorgaanbieders;
+
+- e. inzichtelijk is gemaakt hoe een registratiehouder gegevens die zij uitvraagt bij zorgaanbieders evalueert met als doel dat enkel de voor het doel van de kwaliteitsregistratie noodzakelijke gegevens worden uitgevraagd;
+
+- f. ten minste één keer per jaar de uitkomsten worden gerapporteerd aan de zorgaanbieders en zorgverleners;
+
+- g. inzichtelijk is gemaakt op welke wijze de uitkomsten worden gerapporteerd aan de zorgaanbieders en zorgverleners;
+
+- h. inzichtelijk is gemaakt dat in elk geval een belanghebbende organisatie van zorgverleners en een belanghebbende organisatie van cliënten is betrokken, of aannemelijk wordt gemaakt dat een organisatie van cliënten binnen afzienbare tijd wordt betrokken, bij het bepalen welke gegevens noodzakelijk zijn om de kwaliteit van zorg te kunnen meten en verbeteren.
+
+2. Er is sprake van passende technische en organisatorische maatregelen als bedoeld in [artikel 11o, eerste lid, onderdeel f, onder 40, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11o) indien een kwaliteitsregistratie ten minste:
+
+- a. gecertificeerd is voor NEN 7510-1 of gecertificeerd is voor ISO 27001:2022; en
+
+- b. voldoet aan NEN 7512:2022; of
+
+- c. op een vergelijkbare wijze is georganiseerd.
+
+##### Artikel 7ac
+
+De gegevensbeschermingseffectbeoordeling, bedoeld in [artikel 11o, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11o) wordt onafhankelijk getoetst. Deze toets is op het moment van aanvraag als bedoeld in [artikel 11l, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11l) niet ouder dan 1 jaar.
+
+##### Artikel 7a
+
+1. De gegevens worden enkel verwerkt en verstrekt, als bedoeld in [artikel 4.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.4), en [4.8, onderdeel a, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.8), indien pseudonimisering als bedoeld in artikel 4, onderdeel 5, van de Algemene verordening gegevensbescherming is toegepast.
+
+2. De pseudonimisering vindt zodanig plaats dat herleidbaarheid naar de persoon aan wie de gegevens toebehoren zo veel als mogelijk wordt voorkomen.
+
+##### Artikel 7b
+
+Aan [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2a&artikel=7a&z=2026-01-01&g=2026-01-01), wordt in elk geval voldaan als de pseudonimisatie plaatsvindt overeenkomstig NEN 7524:2019 en, dan wel op een vergelijkbare wijze.
+
+##### Artikel 7c
+
+Passende technische en organisatorische maatregelen, als bedoeld in de[artikelen 4.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.4), en [4.8, onderdeel b, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.8), zijn in elk geval getroffen als de beveiliging van de gegevens plaatsvindt overeenkomstig NEN 7510-1 en 7510-2, dan wel op een vergelijkbare wijze.
+
+##### Artikel 7d
+
+1. Voor de uitvoering van deze regeling wordt toepassing gegeven aan de laatste uitgave van de NEN 7510-1 en 7510-2.
+
+2. De minister doet van een nieuwe uitgave van de genoemde NEN, mededeling in de Staatscourant. Bij die mededeling wordt bekend gemaakt op welke datum de nieuwe uitgave van toepassing wordt.
+
+### Hoofdstuk 3. Ziekenhuisbloedbanken
+
 ##### Artikel 8
 
 De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=1), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=4), [5, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=5), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=6), [7,](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=7)[8](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=8), [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=13), en [14 van de Regeling voorschriften bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=14) zijn van overeenkomstige toepassing op ziekenhuisbloedbanken.
 
 ### Hoofdstuk 3a. Acute zorg
-
-##### Artikel 9
-
-Deze regeling treedt in werking met ingang van 1 januari 2016.
-
-##### Artikel 10
-
-Deze regeling wordt aangehaald als: Uitvoeringsregeling Wkkgz.
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 #### § 3.1. Regionaal overleg acute zorgketen
 
@@ -320,7 +344,7 @@ Zorgaanbieders die behoren tot de in [artikel 8A.1 van het uitvoeringsbesluit](h
 
 - h. crisisplannen als bedoeld in [artikel 8A.5 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.5) van zorgaanbieders in de regio.
 
-#### § 3.1. Regionaal overleg acute zorgketen
+#### § 3.2. Informeren over knelpunten
 
 ##### Artikel 8e
 
@@ -452,508 +476,10 @@ In het continuïteitsplan wordt in ieder geval omschreven:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
+##### Artikel 9
 
-##### Artikel 7a
+Deze regeling treedt in werking met ingang van 1 januari 2016.
 
-1. De gegevens worden enkel verwerkt en verstrekt, als bedoeld in [artikel 4.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.4), en [4.8, onderdeel a, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.8), indien pseudonimisering als bedoeld in artikel 4, onderdeel 5, van de Algemene verordening gegevensbescherming is toegepast.
+##### Artikel 10
 
-2. De pseudonimisering vindt zodanig plaats dat herleidbaarheid naar de persoon aan wie de gegevens toebehoren zo veel als mogelijk wordt voorkomen.
-
-##### Artikel 7b
-
-Aan [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2a&artikel=7a&z=2026-01-01&g=2026-01-01), wordt in elk geval voldaan als de pseudonimisatie plaatsvindt overeenkomstig NEN 7524:2019 en, dan wel op een vergelijkbare wijze.
-
-##### Artikel 7c
-
-Passende technische en organisatorische maatregelen, als bedoeld in de[artikelen 4.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.4), en [4.8, onderdeel b, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.8), zijn in elk geval getroffen als de beveiliging van de gegevens plaatsvindt overeenkomstig NEN 7510-1 en 7510-2, dan wel op een vergelijkbare wijze.
-
-##### Artikel 7d
-
-1. Voor de uitvoering van deze regeling wordt toepassing gegeven aan de laatste uitgave van de NEN 7510-1 en 7510-2.
-
-2. De minister doet van een nieuwe uitgave van de genoemde NEN, mededeling in de Staatscourant. Bij die mededeling wordt bekend gemaakt op welke datum de nieuwe uitgave van toepassing wordt.
-
-### Hoofdstuk 3. Ziekenhuisbloedbanken
-
-### Hoofdstuk 3a. Acute zorg
-
-#### § 3.2. Informeren over knelpunten
-
-#### § 3.3. Normen van bereikbaarheid
-
-#### § 3.4. Voorgenomen beëindiging of opschorting
-
-### Hoofdstuk 4. Slotbepalingen
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
-
-##### Artikel 7aa
-
-Het aanvraagformulier, bedoeld in [artikel 11l, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11l) is opgenomen in bijlage I bij deze regeling.
-
-##### Artikel 7ab
-
-1. Een kwaliteitsregistratie voldoet aan de voorwaarde van noodzakelijkheid en van proportionaliteit en subsidiariteit als bedoeld in [artikel 11o, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11o) als ten minste:
-
-- a. een kwaliteitsregistratie bijdraagt aan goede zorg als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=2);
-
-- b. een kwaliteitsregistratie aansluit bij de professionele standaard of een kwaliteitsstandaard;
-
-- c. enkel die gegevens worden uitgevraagd die noodzakelijk zijn om de kwaliteit van zorg te meten en verbeteren;
-
-- d. inzichtelijk is gemaakt op welke wijze en in welke vorm gegevens worden uitgevraagd bij de zorgaanbieders;
-
-- e. inzichtelijk is gemaakt hoe een registratiehouder gegevens die zij uitvraagt bij zorgaanbieders evalueert met als doel dat enkel de voor het doel van de kwaliteitsregistratie noodzakelijke gegevens worden uitgevraagd;
-
-- f. ten minste één keer per jaar de uitkomsten worden gerapporteerd aan de zorgaanbieders en zorgverleners;
-
-- g. inzichtelijk is gemaakt op welke wijze de uitkomsten worden gerapporteerd aan de zorgaanbieders en zorgverleners;
-
-- h. inzichtelijk is gemaakt dat in elk geval een belanghebbende organisatie van zorgverleners en een belanghebbende organisatie van cliënten is betrokken, of aannemelijk wordt gemaakt dat een organisatie van cliënten binnen afzienbare tijd wordt betrokken, bij het bepalen welke gegevens noodzakelijk zijn om de kwaliteit van zorg te kunnen meten en verbeteren.
-
-2. Er is sprake van passende technische en organisatorische maatregelen als bedoeld in [artikel 11o, eerste lid, onderdeel f, onder 40, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11o) indien een kwaliteitsregistratie ten minste:
-
-- a. gecertificeerd is voor NEN 7510-1 of gecertificeerd is voor ISO 27001:2022; en
-
-- b. voldoet aan NEN 7512:2022; of
-
-- c. op een vergelijkbare wijze is georganiseerd.
-
-##### Artikel 7ac
-
-De gegevensbeschermingseffectbeoordeling, bedoeld in [artikel 11o, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11o) wordt onafhankelijk getoetst. Deze toets is op het moment van aanvraag als bedoeld in [artikel 11l, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11l) niet ouder dan 1 jaar.
-
-### Hoofdstuk 3. Ziekenhuisbloedbanken
-
-### Hoofdstuk 3a. Acute zorg
-
-#### § 3.1. Regionaal overleg acute zorgketen
-
-#### § 3.2. Informeren over knelpunten
-
-#### § 3.3. Normen van bereikbaarheid
-
-#### § 3.4. Voorgenomen beëindiging of opschorting
-
-### Hoofdstuk 4. Slotbepalingen
-
-## Bijlage. bij [artikel 7aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2a&artikel=7aa&z=2026-01-01&g=2026-01-01) van de Uitvoeringsregeling Wkkgz
-
-### Aanvraagformulier Kwaliteitsregistraties
-
-### 1. Algemene informatie
-
-### 1.1. Introductie
-
-Om als kwaliteitsregistratie een aanvraag te doen voor opname in het register voor kwaliteitsregistraties beheerd door Zorginstituut Nederland (ZiNL), dient de kwaliteitsregistratie de in dit document beschreven vragenlijst te beantwoorden en gevraagde documentatie aan te leveren. De inhouds-governancecommissie (IGC) en data-governancecommissie (DGC) zullen deze informatie gebruiken om het ZiNL te adviseren over opname in het register. Om tot een advies te komen toetsen de commissies de aangeleverde informatie aan een (openbaar) toetsingskader. De toets resulteert in een onderbouwd positief of negatief advies ter opname in het register, de geadviseerde opnameduur (maximaal 5 jaar), en adviezen voor doorontwikkeling.
-
-Het door de commissies opgestelde toetsingskader bestaat uit verschillende toetsingscriteria. Voor ieder toetsingscriterium is een blok met context van het criterium opgenomen. Hierin staat wat de afspraak is die tot het criterium heeft geleid en wat de rationale van het criterium is. Indien bepaalde bewijsstukken worden verwacht, dan is dit in een los blok bij de betreffende vragen opgenomen. Een compleet overzicht van de toetsingscriteria is publiekelijk beschikbaar via [www.ssc-dg.nl/documenten](http://www.ssc-dg.nl/documenten). Het is aan te raden dit overzicht bij de hand te houden tijdens het invullen van dit aanvraagformulier. Uit het overzicht volgt voor de vragen van de IGC waar de beoordeling zich op richt en voor de DGC wat de minimale eisen aan kwaliteitsregistraties zijn en welke elementen de genoemde bewijsstukken bevatten.
-
-### 1.2. Contactgegevens kwaliteitsregistratie
-
-De volgende personen wordt toegang verleend tot de beveiligde omgeving van het toetsingsproces van de IGC en de DGC. Tevens zullen de commissies bij vragen, procesmatige updates en het resultaat contact opnemen met onderstaande personen.
-
-### 1.3. Registratiegegevens
-
-### 1.4. Onderwerp van de registratie
-
-### 1.5. Betrokken specialismen bij zorgproces
-
-Beantwoord de volgende vragen in (onderstaande) **tabel 1**:
-
-### 1.6. Huidige omvang en overige kenmerken van de registratie en aandoening
-
-### Vragen ten behoeve van de inhoudsgovernance-criteria
-
-### 2. Doelomschrijving en aansluiting indicatoren- en dataset
-
-### 2.1. Primaire doelstellingen
-
-1.
-
-2.
-
-2.1**Geef zo SMART mogelijk (Specifiek, Meetbaar, Acceptabel, Realistisch, Tijdgebonden) aan op welke wijze de kwaliteitsregistratie bijdraagt aan de primaire doelstellingen ‘evalueren en verbeteren’ en ‘samen beslissen’.**
-
-2.1.1. Ten aanzien van Evalueren en verbeteren:
-
-2.1.2. Ten aanzien van Samen beslissen:
-
-1 Een format voor een (ontwikkel)plan vindt u op de [https://ssc-dg.nl/over-ssc-dg/documenten/](https://ssc-dg.nl/over-ssc-dg/documenten/).
-
-### 2.2. Secundaire doelstellingen
-
-2.2. **Geef zo SMART mogelijk (Specifiek, Meetbaar, Acceptabel, Realistisch, Tijdgebonden) aan op welke wijze de kwaliteitsregistratie bijdraagt aan secundaire doelstellingen:**
-
-2.2.1. Keuze door patiënten voor een zorginstelling en/of zorgverlener
-
-2.2.2. Zorginkoop
-
-2.2.3. Wetenschappelijk onderzoek
-
-2.2.4. Overige voor het onderwerp en de registratie mogelijk relevante doelstellingen
-
-### 2.3. Vastgestelde indicatorenset
-
-**2.3.1 Betrokkenheid beroepsverenigingen en patiëntenorganisaties bij de ontwikkeling of vaststelling van de indicatorenset:**
-
-2.3.1a. Ten aanzien van betrokkenheid van beroepsverenigingen:
-
-1 Een format voor een (ontwikkel)plan vindt u op de [https://ssc-dg.nl/over-ssc-dg/documenten/](https://ssc-dg.nl/over-ssc-dg/documenten/).
-
-2.3.1.b Ten aanzien van betrokkenheid van patiëntenorganisaties:
-
-1 Een format voor een (ontwikkel)plan vindt u op de [https://ssc-dg.nl/over-ssc-dg/documenten/](https://ssc-dg.nl/over-ssc-dg/documenten/).
-
-2.3.2 Motiveer hoe de indicatoren-/uitkomstenset inhoudelijk aansluit bij:
-
-2.3.2 Onderbouw dat de indicatorenset niet breder is dan nodig voor de primaire doelstellingen en beschrijf hoe dit wordt getoetst.
-
-### 2.4. Evaluatie indicatorenset
-
-2.4.1 Beschrijf of met onderstaande stakeholders (structureel) wordt geëvalueerd of de set nog inhoudelijk aansluit bij hun respectievelijke verbeterdoelen/informatiebehoefte.
-
-2.4.2. Evaluatieproces2Indien dit proces gelijk is aan het beheerproces van de data dictionary dient dit aangegeven te worden in de beantwoording bij vraag 2.4.2 a.:
-
-2.4.3 Geef aan hoe plannen voor aanpassing/uitbreiding van de registratie op basis van de evaluatie worden vastgesteld en of/hoe de relevante stakeholders hierbij betrokken zijn.
-
-### 3. Relevantie – Medisch inhoudelijk
-
-### 3.1. Afbakening van de te registreren patiëntenpopulatie
-
-1.
-
-### 3.2. Afbakening van de geregistreerde behandeling/onderdeel van het zorgproces
-
-### 3.3. Multidisciplinariteit
-
-1 Een format voor een (ontwikkel)plan vindt u op de [https://ssc-dg.nl/over-ssc-dg/documenten/](https://ssc-dg.nl/over-ssc-dg/documenten/).
-
-### 3.4. Uniciteit
-
-3.4.1 Geef aan of er nog andere (kwaliteits)registraties of landelijke dataverzamelingen bestaan die zich richten op deze aandoening/patiëntenpopulatie/behandeling/onderdeel zorgproces. Indien ja: licht toe wat de meerwaarde is van uw registratie ten opzichte van deze aanverwante registraties.
-
-3.4.2 Geef aan of er tussen de kwaliteitsregistratie en deze eventuele andere (kwaliteits)registraties of landelijke dataverzamelingen overlap is in de verzameling van gelijksoortige data, en zo ja, in welke mate.
-
-3.4.3 Beschrijf of er sprake is van integratie/koppeling/samenwerking dan wel welke mogelijkheden/plannen er zijn voor toekomstige integratie/koppeling/samenwerking tussen de kwaliteitsregistratie en eventuele andere (kwaliteits)registraties of landelijke dataverzamelingen.
-
-### 3.5. Aansluiting bij inhoudelijke (inter)nationale standaarden
-
-3.5.1 Richtlijnen/zorgstandaarden
-
-3.5.2 Indicatorensets/gegevenssets
-
-### 4. Relevantie – Verbeterpotentieel
-
-### 4.1. Kwaliteitscyclus beroepsverenigingen
-
-4.1.1 Beschrijf hoe (en in welke mate en frequentie) de uitkomsten uit de kwaliteitsregistratie worden gebruikt in de kwaliteitscyclus van de betreffende beroepsverenigingen.
-
-4.1.2 Onderbouw hoe dit leidt tot kwaliteitsborging- en verbetering van de zorg, zowel nu als in de nabije toekomst.
-
-### 4.2. Inzicht in praktijk- of uitkomstvariatie
-
-4.2.1 Beschrijf hoe (en in welke mate en frequentie) de uitkomsten uit de kwaliteitsregistratie worden gebruikt om inzicht te krijgen in uitkomst- en praktijkvariatie.
-
-4.2.2 Onderbouw hoe dit leidt tot kwaliteitsborging- en verbetering van de zorg en vermindering van ongewenste uitkomst- en praktijkvariatie, zowel nu als in de nabije toekomst.
-
-### 4.3. Beoogd effect op **veiligheid**
-
-Onderbouw de meerwaarde van de registratie ten aanzien van het effect op veiligheid nu en in de toekomst.
-
-### 4.4. Beoogd effect op doelmatigheid (efficiëntie) en/of zorgkosten
-
-Onderbouw de meerwaarde van de registratie ten aanzien van het effect op doelmatigheid (efficiëntie) en/of zorgkosten nu en in de toekomst.
-
-### 4.5. Beoogd effect op **doeltreffendheid** (effectiviteit)
-
-Onderbouw de meerwaarde van de registratie ten aanzien van het effect op doeltreffendheid (effectiviteit) nu en in de toekomst.
-
-### 4.6. Beoogd effect op **patiënt-/cliëntgerichtheid**
-
-Onderbouw de meerwaarde van de registratie ten aanzien van het effect op patiënt-/clientgerichtheid nu en in de toekomst.
-
-### 4.7. Beoogd effect op **tijdigheid**
-
-Onderbouw de meerwaarde van de registratie ten aanzien van het effect tijdigheid nu en in de toekomst.
-
-### 4.8. Beoogd effect op **toegankelijkheid/gelijkwaardigheid**
-
-Onderbouw de meerwaarde van de registratie ten aanzien van het effect op toegankelijkheid/ gelijkwaardigheid nu en in de toekomst.
-
-### 5. Governance en organisatie van inhoudelijke activiteiten
-
-### 5.1. Bestuurlijke governancestructuur van kwaliteitsregistratie
-
-### 5.2. Borging bestuurlijke betrokkenheid van beroepsvereniging(en) en patiëntenorganisatie(s)
-
-5.2.1 Ten aanzien van betrokkenheid van beroepsverenigingen:
-
-5.2.2 Ten aanzien van betrokkenheid van patiëntenorganisaties:
-
-### 5.3. Organisatie van inhoudelijke activiteiten
-
-5.3.1. Beschrijf hoe de taken en verantwoordelijkheden ten aanzien van de inhoudelijke activiteiten van de kwaliteitsregistratie zijn belegd. Dit omvat:
-
-Geef aan op welke wijze deze taken en verantwoordelijkheden zijn vastgelegd.
-
-5.3.2. Geef aan hoe de besluitvormingsprocedures ten aanzien van deze activiteiten zijn ingericht en in welke mate deze inzichtelijk zijn voor derden.
-
-### 5.4. Inhoudelijke betrokkenheid van relevante beroepsverenigingen, patiëntenorganisaties en overige stakeholders
-
-5.4.1 Beroepsverenigingen:
-
-5.4.2 Patiëntenorganisaties:
-
-5.4.3 Relevante andere stakeholders:
-
-### 5.5. Interne evaluatie en methodiek
-
-5.5.1 Interne evaluaties:
-
-5.5.2 Methodiek:
-
-### 6. Rapportage
-
-### 6.1. Actuele informatie/periodieke rapportage voor verschillende doeleinden beschikbaar
-
-6.1.1 Spiegelinformatie ten behoeve van evalueren en verbeteren:
-
-6.1.2 Rapportage aan stakeholders ten aanzien van de overige doelstellingen:
-
-6.1.3 Aansluiting bij de behoefte van stakeholders:
-
-### 6.2. Afspraken over informatie
-
-6.2.1 Beschrijf welke afspraken er zijn gemaakt over welke data/informatie onder welke voorwaarden inzichtelijk is voor welke partijen en voor welke doelen.
-
-6.2.2 Beschrijf hoe is geborgd dat de betrokken beroepsverenigingen en zorginstellingen akkoord zijn met de inhoud en het gebruik van de informatie voor deze doeleinden.
-
-### 6.3. Verantwoording
-
-Beschrijf op welke wijze en aan wie de registratiehouder inzicht geeft in de kostenstructuur van de kwaliteitsregistratie.
-
-**Bij dit deel van de vragenlijst wordt het ‘Comply or explain’-principe gehanteerd. Toelichting is alleen nodig wanneer de kwaliteitsregistratie niet aan het toetsingscriterium kan voldoen. Met een goede onderbouwing kan voor het toetsingscriterium alsnog een voldoende worden gescoord. Wanneer de kwaliteitsregistratie aangeeft te voldoen aan het criterium, wordt daar een bewijsstuk voor gevraagd. Sommige bewijsstukken zijn bij meerdere vragen nodig als onderbouwing. Het bewijsstuk hoeft slechts eenmaal te worden aangeleverd. Bij de volgende vragen is een referentie naar de naam van dit bewijsstuk genoeg.**
-
-0.1 Heeft de Registratiehouder deelgenomen aan het SKMKS-programma Verduurzamen Kwaliteitsregistraties?
-
-Choose an item.
-
-### 7. Zorgpad
-
-Als basis voor de dataset van de kwaliteitsregistratie wordt de gestructureerde data gebruikt die tijdens en voor het zorgproces is vastgelegd.
-
-### 7.1. Op welke manier is de informatie-uitvraag vastgelegd per stap van het zorgproces?
-
-Choose an item.
-
-### 8. Opbouw dataset
-
-De dataset van de kwaliteitsregistratie is gestructureerd en gestandaardiseerd.
-
-5.1 Is de dataset van de kwaliteitsregistratie uitgewerkt naar ZIBs?
-
-Choose an item.
-
-1 Een format voor een (ontwikkel)plan vindt u op de [https://ssc-dg.nl/over-ssc-dg/documenten/](https://ssc-dg.nl/over-ssc-dg/documenten/).
-
-8.2 a. Is er een inventarisatie aanwezig van de in de Registratiehouder-dataset mogelijke diagnose-termen met de bijbehorende Diagnosethesaurus-code (DT-code)?
-
-Choose an item.
-
-8.2b. Indien er nog geen DT-code beschikbaar is: is dit inzichtelijk gemaakt zodat dit aan de DT kan worden toegevoegd (bijv. een (ontwikkel)plan en actief dialoog voor opname van klinische diagnose termen in de DT)?
-
-Choose an item.
-
-8.2 c. Is er een inventarisatie aanwezig van de in de Registratiehouder-dataset mogelijke verrichtingen-termen met de bijbehorende Verrichtingenthesaurus-code (VT-code)?
-
-Choose an item.
-
-8.2 d. Indien er nog geen VT-code beschikbaar is: is dit inzichtelijk gemaakt zodat dit aan de VT kan worden toegevoegd (bijv. een (ontwikkel)plan en actief dialoog voor opname van klinische termen voor verrichtingen in de VT)?
-
-Choose an item.
-
-1 Een format voor een (ontwikkel)plan vindt u op de [https://ssc-dg.nl/over-ssc-dg/documenten/](https://ssc-dg.nl/over-ssc-dg/documenten/).
-
-8.3 a. Zijn er datapunten die niet gevat kunnen worden in ZIBs, DT en/of VT?
-
-Choose an item.
-
-8.3 b. Indien ja: Zijn de gevraagde klinische data gestructureerd op basis van SNOMED CT/LOINC/IDMP? (Conform grondplaat Eenheid van Taal, besluit IB 2019)
-
-Choose an item.
-
-### 9. Dataoptimalisatie
-
-De dataset die wordt uitgevraagd is geoptimaliseerd
-
-9.1 a. Worden er vragen gesteld waarvan de antwoorden niet beschikbaar zijn als datapunt vanuit het primaire zorgproces?
-
-Choose an item.
-
-9.1 b. Worden er vragen gesteld met als antwoordopties ja/nee? **(M.u.v. vragen die in het EPD staan opgenomen en niet op een andere manier uit het EPD gehaald kunnen worden)**
-
-Choose an item.
-
-### 10. Toegankelijkheid en inzichtelijkheid
-
-Deze informatie over de data dictionary van de kwaliteitsregistratie is toegankelijk
-
-10.1 Is de data dictionary van de kwaliteitsregistratie toegankelijk en inzichtelijk via de Registratiehouder en/of dataverwerker?
-
-Choose an item.
-
-10.2 Is het beheerproces van de data dictionary vastgelegd? 3Indien dit proces gelijk is aan het evaluatieproces van de indicatorenset, en dit aangegeven is bij vraag 2.4.2, hoeft deze vraag niet ingevuld te worden.
-
-Choose an item.
-
-### 11. Aanlevering
-
-De aanlevering van de datasets is gestructureerd en gestandaardiseerd.
-
-11.1 Zijn de volgende elementen opgenomen in de afspraken die gemaakt zijn omtrent de (her)-aanlevering van data? **Vink de elementen aan die zijn opgenomen in de afspraken en lever de relevante bewijsstukken aan.**
-
-11.2 Wordt er gebruik gemaakt van het gestandaardiseerde bestandsformat FHIR API?
-
-Choose an item.
-
-### 12. Pseudonimisatie
-
-De data is waar nodig gepseudonimiseerd.
-
-12.1 Voldoet de huidige wijze van ontvangst en verwerking van pseudoniemen aan de [Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)?
-
-Choose an item.
-
-### 13. Validaties
-
-De data zijn gevalideerd en van de validaties zijn rapportages met uitkomsten beschikbaar.
-
-13.1 a. Is er een overzicht met de technische validaties die uitgevoerd worden en bevat dit overzicht informatie over hoe fouten vanuit de validaties behandeld worden?
-
-Choose an item.
-
-13.1 b. Is er een overzicht met inhoudelijke validaties en bevat dit overzicht informatie over hoe (eventuele) fouten die uit deze validaties naar voren komen behandeld worden?
-
-13.1 c. Is er een overzicht met de (data) acceptatietesten die worden uitgevoerd en bevat dit overzicht informatie over hoe afwijzingen worden behandeld?
-
-Choose an item.
-
-13.2 a. Zijn er rapportages beschikbaar (online of offline) met betrekking tot validaties op de aangeleverde data?
-
-Choose an item.
-
-13.2 b. Zijn er afspraken met de verwerker over de terugkoppeling van datakwaliteit?
-
-Choose an item.
-
-### 14. Overeenkomsten
-
-De onderlinge relaties tussen registratiehouder, verwerker(s) en zorgaanbieder en de daarbij horende rechten en verplichtingen zijn vastgelegd in overeenkomsten.
-
-14.1 a. Is er een raamovereenkomst voor deelname gesloten tussen registratiehouder en zorgaanbieder?
-
-Choose an item.
-
-Is er is een verwerkersovereenkomst gesloten tussen verwerkingsverantwoordelijke (registratiehouder) en diens verwerker(s) conform artikel 28 lid 3 AVG?
-
-Choose an item.
-
-**14.2 Raamovereenkomst voor dienstverlening**
-
-14.3 Is er een raamovereenkomst voor dienstverlening gesloten tussen verwerkwerkingsverantwoordelijke (registratiehouder) en diens verwerker(s)?
-
-Choose an item.
-
-### 15. Compliance
-
-Verwerkingsverantwoordelijke (registratiehouder) en diens verwerker(s) voldoen aan de toepasselijke wet- en regelgeving op het gebied van privacy en gegevensbescherming.
-
-De eisen die worden gesteld aan de verwerker gelden alleen wanneer de verwerkingsverantwoordelijke (registratiehouder) (persoons)gegevens laat verwerken door een verwerker.
-
-### 15.1. Beveiliging van de dataverwerking
-
-15.1 a. Zijn de verwerkingsverantwoordelijke (registratiehouder) en diens verwerker(s) gecertificeerd voor de NEN7510 en/of ISO 27001?
-
-Choose an item.
-
-### 15.2. DPIA
-
-15.2 a. Heeft de registratiehouder een DPIA uitgevoerd conform de vereisten van artikel 35 AVG?
-
-Choose an item.
-
-15.2 b. Is de ingevulde verantwoordingstabel als bijlage beschikbaar bij de DPIA?
-
-Choose an item.
-
-15.2 c. Heeft de registratiehouder de DPIA onafhankelijk laten beoordelen? Zo ja, wat is de uitvoeringsdatum van de DPIA?
-
-Choose an item.
-
-15.2 d. Voldoen de verschillende onderdelen, zoals beoordeeld door de onafhankelijke expert, aan de AVG?
-
-Choose an item.
-
-### 15.3. Functionaris gegevensbescherming
-
-15.3 a. Hebben de verwerkingsverantwoordelijke (registratiehouder) en diens verwerker(s) een onafhankelijke FG aangewezen conform artikel 37 AVG?
-
-Choose an item.
-
-### 15.4. Verwerkingsregister
-
-15.4 a. Is er een bijgehouden verwerkingsregister van de verwerkingsverantwoordelijke (registratiehouder) en diens verwerker(s), dat ten minste de gegevens uit artikel 30 lid 1 AVG bevat?
-
-Choose an item.
-
-15.4 b. Is er een bijgehouden verwerkingsregister van de verwerkingsverantwoordelijke (registratiehouder) en diens verwerker(s), dat ten minste de gegevens uit artikel 30 lid 2 AVG bevat?
-
-Choose an item.
-
-### 16. Compliance [Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)
-
-Verwerkingsverantwoordelijke registratiehouder en diens verwerker(s) voldoen aan de [Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173).
-
-### 16.1. De registratiehouder voldoet aantoonbaar aan de eisen van de [Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) op het zijn van een rechtspersoon zonder winstoogmerk.
-
-16.1 a. Is er een inschrijving bij de KvK waaruit blijkt dat de registratiehouder een stichting of vereniging is en de bestuurders natuurlijke personen zijn?
-
-Choose an item.
-
-16.1 b. Verklaart de registratiehouder dat:
-
-In de statuten opgenomen is dat het maken van winst niet beoogd wordt.
-
-Choose an item.
-
-16.1 c. Verklaart de registratiehouder dat:
-
-In de statuten opgenomen is dat een eventueel batig saldo bij ontbinding of vereffening besteed wordt overeenkomstig het doel van de stichting of vereniging.
-
-Choose an item.
-
-16.1 d. Verklaart de registratiehouder dat:
-
-De redelijke beloning voor werkzaamheden van bestuurders niet boven het bezoldigingsmaximum uit de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT) ligt. Naast de redelijke beloning en vergoeding van de door bestuurders in hun functie gemaakte kosten worden aan bestuurders géén uitkeringen gedaan.
-
-Choose an item.
-
-16.1 e. Verklaart de registratiehouder dat:
-
-Indien hij een stichting is, er géén uitkeringen aan oprichters worden gedaan.
-
-Choose an item.
-
-16.1 f. Verklaart de registratiehouder dat:
-
-Indien hij een vereniging is, er géén uitkeringen aan zijn leden worden gedaan.
-
-Choose an item.
-
-**Ondertekening**
-
-Dit aanvraagformulier is naar waarheid ingevuld door:
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Uitvoeringsregeling Wkkgz.

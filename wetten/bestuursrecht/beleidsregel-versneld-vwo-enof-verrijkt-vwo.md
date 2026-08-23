@@ -1,64 +1,39 @@
 ---
 title: "Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 augustus 2015, nr. VO/794653, houdende nadere regels voor het aanbieden van versneld vwo en/of verrijkt vwo voor talentvolle leerlingen in het voortgezet onderwijs (Beleidsregel versneld vwo en/of verrijkt vwo)"
+citeertitel: "Beleidsregel versneld vwo en/of verrijkt vwo"
 identifier: "BWBR0036965"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036965"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "13249163"
-version_id: "28347092"
-internal_id: "C39962991"
-label_id: "13217244"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036965/2022-08-01/0"
-intitule_bron: "Stcrt.2015-27367"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-08-20"
-intitule_published: "2015-08-28"
-intitule_in_force: "2015-08-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-556"
-original_signed_date: "2021-12-07"
-original_published_date: "2022-01-13"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-556"
-entry_into_force_date: "2021-12-07"
-jci_1_3: "jci1.3:c:BWBR0036965&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0036965&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel versneld vwo en/of verrijkt vwo"
-signed_date: "2021-12-07"
-entry_into_force: "2021-12-07"
+publicatiedatum: 2021-12-07
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0036965"
+opgehaald: 2026-08-23
 ---
+
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 augustus 2015, nr. VO/794653, houdende nadere regels voor het aanbieden van versneld vwo en/of verrijkt vwo voor talentvolle leerlingen in het voortgezet onderwijs (Beleidsregel versneld vwo en/of verrijkt vwo)
-
-Gelet op [artikel 25 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=25);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- 1. **school:** vestiging van een school voor voortgezet onderwijs;
+- 1. *school:* vestiging van een school voor voortgezet onderwijs;
 
-- 2. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- 2. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- 3. **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+- 3. *WVO 2020:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- 4. **medezeggenschapsraad:** medezeggenschapsraad als bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3);
+- 4. *medezeggenschapsraad:* medezeggenschapsraad als bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3);
 
-- 5. **vwo:** opleiding voor voortgezet wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
+- 5. *vwo:* opleiding voor voortgezet wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
 
-- 6. **versneld vwo:** speciaal vijfjarig vwo-programma voor groepen talentvolle leerlingen;
+- 6. *versneld vwo:* speciaal vijfjarig vwo-programma voor groepen talentvolle leerlingen;
 
-- 7. **verrijkt vwo:** speciaal zesjarig vwo-programma voor groepen talentvolle leerlingen;
+- 7. *verrijkt vwo:* speciaal zesjarig vwo-programma voor groepen talentvolle leerlingen;
 
-- 8. **zeer zwakke school en zwakke school:** vestiging van een school waar een aangepast toezichtarrangement geldt, zoals beschreven in het voor dat jaar geldende toezichtkader als bedoeld in [artikel 13, eerste lid van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13).
+- 8. *zeer zwakke school en zwakke school:* vestiging van een school waar een aangepast toezichtarrangement geldt, zoals beschreven in het voor dat jaar geldende toezichtkader als bedoeld in [artikel 13, eerste lid van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13).
 
 ##### Artikel 2. Doel en inhoud van de regeling
 
@@ -104,15 +79,15 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 4. Procedure voor aanvraag en goedkeuring
 
-1. De aanvraag dient ingediend te worden in de periode van 1 oktober tot 1 november van enig jaar bij de minister.
+1. De aanvraag dient ingediend te worden in de periode van 1 oktober tot 1 november van enig jaar bij de minister.
 
-2. De minister beslist uiterlijk 1 februari volgend op de indiening over de aanvraag.
+2. De minister beslist uiterlijk 1 februari volgend op de indiening over de aanvraag.
 
-3. Eventuele toestemming geldt vanaf 1 augustus in het jaar van het besluit van de minister.
+3. Eventuele toestemming geldt vanaf 1 augustus in het jaar van het besluit van de minister.
 
 4. De minister verleent toestemming voor de duur van zes schooljaren.
 
-5. Een aanvraag kan worden ingediend tot 1 november 2020. Daarna besluit de minister over verlenging van de beleidsregel.
+5. Een aanvraag kan worden ingediend tot 1 november 2020. Daarna besluit de minister over verlenging van de beleidsregel.
 
 6. De aanvraag voor het aanbieden van versneld vwo en/of verrijkt vwo wordt elektronisch ingediend, met behulp van het aanvraagformulier ‘Versneld vwo en/of verrijkt vwo’. Het formulier wordt beschikbaar gesteld op de website van de Dienst Uitvoering Onderwijs.
 
@@ -144,20 +119,16 @@ In afwijking van [artikel 2.20 van de WVO 2020](https://wetten.overheid.nl/jci1.
 
 1. Drie jaar na inwerkingtreding van de beleidsregel vindt een tussentijdse evaluatie plaats.
 
-2. Voor 1 september 2021 wordt de beleidsregel geëvalueerd.
-
-##### Artikel 10. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van 1 september 2015. De beleidsregel vervalt op 1 september 2027.
-
-##### Artikel 11. Citeertitel
-
-Deze regeling wordt aangehaald als: Beleidsregel versneld vwo en/of verrijkt vwo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website (www.duo.nl) van DUO van het Ministerie van Onderwijs, Cultuur en Wetenschap, alsmede op het digitale informatiepunt voor onderwijs en talentontwikkeling (www.talentstimuleren.nl) van Stichting Leerplan Ontwikkeling.
+2. Voor 1 september 2021 wordt de beleidsregel geëvalueerd.
 
 ##### Artikel 9a. Omhang
 
 Deze beleidsregel is gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website (www.duo.nl) van DUO van het Ministerie van Onderwijs, Cultuur en Wetenschap, alsmede op het digitale informatiepunt voor onderwijs en talentontwikkeling (www.talentstimuleren.nl) van Stichting Leerplan Ontwikkeling.
+##### Artikel 10. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 september 2015. De beleidsregel vervalt op 1 september 2027.
+
+##### Artikel 11. Citeertitel
+
+Deze regeling wordt aangehaald als: Beleidsregel versneld vwo en/of verrijkt vwo.

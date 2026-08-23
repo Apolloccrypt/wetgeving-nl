@@ -9,7 +9,7 @@ laatste_update: 2026-08-20
 status: geldig
 toestand: 2026-08-20
 bron: "https://wetten.overheid.nl/BWBR0041296"
-opgehaald: 2026-08-22
+opgehaald: 2026-08-23
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 augustus 2018, nr. 2018-0000665017, houdende vaststelling van de reis- en verblijfkostenvergoedingen voor Rijksambtenaren BES (Reisregeling Rijksambtenaren BES)

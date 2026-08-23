@@ -1,40 +1,21 @@
 ---
 title: "Protocol Subsidieregeling overgang kapitaallasten 2015-2017"
 identifier: "BWBR0037670"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-03-02"
-last_updated: "2016-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037670"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13429013"
-version_id: "23047042"
-internal_id: "C33310731"
-label_id: "13396534"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037670/2016-03-02/0"
-intitule_bron: "Stcrt.2016-10710"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-03-02"
-intitule_in_force: "2016-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-10710"
-original_published_date: "2016-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-10710"
-entry_into_force_date: "2016-03-02"
-jci_1_3: "jci1.3:c:BWBR0037670&z=2016-03-02&g=2016-03-02"
-jci_1_0: "1.0:c:BWBR0037670&g=2016-03-02"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-03-02"
+publicatiedatum: 2016-03-02
+laatste_update: 2016-03-02
+status: geldig
+toestand: 2016-03-02
+bron: "https://wetten.overheid.nl/BWBR0037670"
+opgehaald: 2026-08-23
 ---
+
 # Protocol Subsidieregeling overgang kapitaallasten 2015-2017
 
 ### Subsidie- en verantwoordingsjaren 2015, 2016 en 2017
 
-**Bij het aanvraagformulier vaststelling subsidie overgang kapitaallasten 2015, 2016 en 2017**
+*Bij het aanvraagformulier vaststelling subsidie overgang kapitaallasten 2015, 2016 en 2017*
 
 Uitwerking [artikel 5.3 Subsidieregeling overgang kapitaallasten 2015–2017](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=5.3)
 
@@ -80,11 +61,57 @@ De [Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017) en de bes
 
 Voor de controlewerkzaamheden gelden de volgende aandachtspunten ten aanzien van de in dat verslag verantwoorde posten (tekst ontleend aan de [Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017)):
 
+- 1. De subsidie voor kapitaallasten wordt slechts verstrekt aan
+
+   - – een organisatie die voor 1 januari 2012 zorg of diensten, niet zijnde zorg of diensten in het kader van de geestelijke gezondheidszorg, leverde die op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) verzekerd waren en waaraan de zorgautoriteit voor laatstgenoemde datum op grond van de beleidsregel ‘Kapitaallasten’ (CA-300-473; Stcrt. 2011, nr. 12384) een budget kapitaallasten heeft toegekend, dan wel aan haar rechtsopvolger;
+
+   - – een organisatie die voor 1 januari 2008 zorg of diensten in het kader van de geestelijke gezondheidszorg leverde die op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) verzekerd waren en waaraan de zorgautoriteit voor laatstgenoemde datum op grond van de beleidsregel ‘Kapitaallasten’ (CA-300-473; Stcrt. 2011, nr. 12384) een budget kapitaallasten heeft toegekend, dan wel aan haar rechtsopvolger ([art. 1.2 lid 2 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=1.2)).
+
+- 2. De subsidie voor vaste activa wordt slechts verstrekt aan:
+
+   - – een organisatie die voor 1 januari 2012 zorg of diensten, niet zijnde zorg of diensten in het kader van de geestelijke gezondheidszorg, leverde die op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) verzekerd waren en waaraan de zorgautoriteit voor laatstgenoemde datum op grond van de beleidsregel ‘Compensatie vaste activa AWBZ en GGZ in verband met invoering normatieve huisvestingscomponent’ (CA-300-493; Stcrt. 2011, nr. 14267) een vergoeding heeft toegekend, dan wel aan haar rechtsopvolger;
+
+   - – een organisatie die voor 1 januari 2008 zorg of diensten in het kader van de geestelijke gezondheidszorg leverde die op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) verzekerd waren en waaraan de zorgautoriteit voor laatstgenoemde datum op grond van de beleidsregel ‘Compensatie vaste activa AWBZ en GGZ in verband met invoering normatieve huisvestingscomponent’ (CA-300-493; Stcrt. 2011, nr. 14267) een vergoeding heeft toegekend, dan wel aan haar rechtsopvolger ([artikel 1.2 lid 3 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=1.2)). Indien ter zake van een leegstaand gebouw compensatie als bedoeld in de beleidsregel ‘Compensatie vaste activa AWBZ en GGZ in verband met de invoering normatieve huisvestingscomponent’ (CA-300-493; Stcrt. 2011, 14267) is toegekend of is aangevraagd zonder dat op die aanvraag een onherroepelijk besluit is genomen, bevat de aanvraag een opgave van:
+
+      - a. de opbrengsten uit verkoop en verhuur van leegstaande gebouwen;
+
+      - b. boekwinsten op verkoop van grond of terrein waarop een leegstaande gebouw staat ([art. 5.2 lid 3 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=5.2)).
+
+- 3. De subsidie wordt slechts verstrekt aan een organisatie die onmiddellijk voorafgaande aan 1 januari 2015 verblijf met daarmee gepaard gaande zorg als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) verleende en de desbetreffende zorg vanaf die datum in opdracht van een of meer colleges van burgemeester en wethouders als maatwerkvoorziening als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) of als jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) verleent ([art. 1.2 lid 4 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=1.2)).
+
+- 4. De werkelijke kosten, werkelijke opbrengsten, werkelijke bijdragen van derden en werkelijke eigen bijdragen hebben betrekking op de in de verleningsbeschikking genoemde periode waarvoor de subsidie is verleend ([art. 1.3 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=1.3)).
+
+- 5. De kapitaallasten die ten hoogste voor subsidie in aanmerking komen worden bepaald door overeenkomstige toepassing van de beleidsregels ‘Kapitaallasten bestaande zorgaanbieders’ en ‘Invoering normatieve huisvestingscomponent (NHC) en normatieve inventariscomponent (NIC) bestaande zorgaanbieders’ zoals die gelden voor het jaar waarvoor de subsidie wordt verstrekt, met dien verstande dat de subsidie uitsluitend verstrekt wordt voor de kapitaallasten die toegerekend worden aan de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) waartoe: De aanvraag bevat een opgave van het aantal bezette plaatsen, bedoeld in [artikel 1.4, lid 2, onderdeel a Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=1.4). De opgave is voorzien van een toelichting ([art. 5.2 lid 2 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=5.2)).
+
+   - a. aan de hand van paragraaf 5 van de beleidsregel ‘Invoering normatieve huisvestingscomponent (NHC) en normatieve inventariscomponent (NIC) bestaande zorgaanbieders’ wordt berekend welk percentage van de kapitaallasten na de overhevelingen vanuit de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) wordt toegerekend aan de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
+
+   - b. de kapitaallasten, bestaande aan het budget kapitaallasten en het budget inventaris, worden berekend aan de hand van de artikelen 3.7 en 3.8 van de beleidsregel ‘Invoering normatieve huisvestingscomponent (NHC) en normatieve inventariscomponent (NIC) bestaande zorgaanbieders’ in samenhang met de beleidsregel ‘Kapitaallasten bestaande zorgaanbieders’;
+
+   - c. de aan de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) toe te rekenen kapitaallasten, bestaande aan het budget kapitaallasten en het budget inventaris, worden berekend door de kapitaallasten, bedoeld in onderdeel b, te vermenigvuldigen met het percentage, bedoeld in onderdeel a;
+
+   - d. het bedrag van de kapitaallasten die ten hoogste voor subsidie in aanmerking komen wordt berekend door de aan de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) toe te rekenen kapitaallasten, bedoeld in onderdeel c, te vermenigvuldigen met de bij het jaar waarvoor de subsidie wordt verstrekt horende percentages voor het budget kapitaallasten en het budget inventaris die zijn vermeld in de tabellen 1 en 2 van artikel 4.1 van de beleidsregel ‘Invoering normatieve huisvestingscomponent (NHC) en normatieve inventariscomponent (NIC) bestaande zorgaanbieders’ ([artikel 1.4 lid 1 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=1.4)).
+
+   - f. In afwijking van het bovenstaande punt 5, onderdelen a tot en met d, wordt met betrekking tot kleinschalige woonvoorzieningen als bedoeld in artikel 4.12 van de beleidsregel ‘Kapitaallasten bestaande zorgaanbieders’:
+
+      - a. het aantal bezette plaatsen die zijn overgeheveld vanuit de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) naar de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) bepaald;
+
+      - b. de normatieve vergoeding voor kapitaallasten, voor de bezette plaatsen, bedoeld in onderdeel a, bepaald aan de hand van de beleidsregel ‘Kapitaallasten bestaande zorgaanbieders’;
+
+      - c. de aan de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) toe te rekenen kapitaallasten berekend door het aantal bezette plaatsen, bedoeld in onderdeel a, te vermenigvuldigen met de normatieve vergoeding, bedoeld in onderdeel b;
+
+      - d. het bedrag van de kapitaallasten die ten hoogste voor subsidie in aanmerking komen berekend door de aan de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) toe te rekenen kapitaallasten, bedoeld in onderdeel c, te vermenigvuldigen met het bij het jaar waarvoor de subsidie wordt verstrekt horende percentage voor het budget kapitaallasten dat is vermeld in tabel 1 van artikel 4.1 van de beleidsregel ‘Invoering normatieve huisvestingscomponent (NHC) en normatieve inventariscomponent (NIC) bestaande zorgaanbieders’ ([artikel 1.4 lid2 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=1.4)).
+
 Om bovenstaande werkzaamheden te kunnen uitvoeren wordt de accountant geadviseerd om ook kennis te nemen van de overige artikelen en toelichting van de [subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017).
 
 ### 2.3. Betrouwbaarheid en nauwkeurigheid controleverklaring
 
 De controle moet zodanig worden ingepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslaggeen afwijkingen (fouten en onzekerheden) van materieel belang bevat. Indien dit begrip voor het gebruik van statistische technieken gekwantificeerd moet worden, betekent dit een betrouwbaarheid van 95 procent. Een controleverklaring met een goedkeurende strekking impliceert dat, gegeven de bovengenoemde betrouwbaarheid, in het financieel verslag geen afwijkingen (fouten en onzekerheden) voorkomen die groter zijn dan de percentages in de hieronder opgenomen materialiteitstabel. Als omvangsbasis geldt hierbij de som van de in het financieel verslag opgenomen werkelijke kosten.
+
+| Oordeel 1 |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Goedkeurend | Beperking | Oordeelonthouding | Afkeurend |
+| Fouten in het financieel verslag | ≤ 5% | >5% en ≤ 10% | n.v.t. | > 10% |
+| Onzekerheden in het financieel verslag | ≤5% | >5% en ≤ 10% | > 10% | n.v.t. |
 
 1De NZa zal de uitvoering van dit protocol evalueren aan de hand van de controleverklaringen en rapporten van feitelijke bevindingen m.b.t. 2015. Naar aanleiding daarvan worden de percentages mogelijk aangepast.
 
@@ -104,9 +131,19 @@ De aard, omvang en planning van de uit te voeren werkzaamheden stemt de accounta
 
 Het rapport van feitelijke bevindingen richt zich op de volgende onderwerpen:
 
+- 1. inrichting en interne beheersing Subsidieontvanger op grond van [artikel 4.2 van de Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.2);
+
+- 2. administratie en bewaarplicht op grond van [artikel 4.3 van de Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.3);
+
+- 3. meldingsplicht met betrekking tot subsidietoekenning op grond van [artikel 4.4 van de Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.4).
+
+Ad 1. Inrichting & interne beheersing
+
 In [artikel 4.2 van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.2) staan de verplichtingen vermeld waaraan de subsidieontvanger moet voldoen op het gebied van de inrichting en interne beheersing.
 
 Dit leidt tot de volgende onderzoekswerkzaamheden van de accountant: De accountant stelt vast of binnen de administratieve organisatie en interne beheersing van de subsidieontvanger procedures vastgelegd zijn om aan de verplichtingen van [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.2) te voldoen. Van de accountant wordt niet verwacht dat hij de werking en de effectiviteit van deze procedures toetst of daarover een inhoudelijk oordeel geeft.
+
+Ad 2. Administratie & bewaarplicht
 
 In [artikel 4.3 van de Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.2) staan de verplichtingen vermeld waaraan de subsidieontvanger moet voldoen op het gebied van de administratie en bewaring van bescheiden.
 
@@ -116,6 +153,8 @@ De accountant onderzoekt of de subsidieontvanger een zodanige administratie heef
 
 De accountant onderzoekt tenslotte of er een systeem en/of procedure aanwezig is die borgt dat de administratie en de daartoe behorende bescheiden gedurende tien jaren bewaard worden.
 
+Ad 3. Meldingsplicht met betrekking tot subsidietoekenning
+
 In [artikel 4.4 van de Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.4) staat dat de subsidieontvanger van iedere omstandigheid die van belang kan zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie schriftelijk melding moet maken bij de NZa.
 
 Dit leidt tot de volgende onderzoekswerkzaamheden van de accountant: De accountant stelt vast of binnen de subsidieontvanger procedures zijn ingericht om aan de verplichtingen van [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.2) te voldoen. Van de accountant wordt niet verwacht dat hij de werking en de effectiviteit van deze procedures toetst of daarover een inhoudelijk oordeel geeft.
@@ -124,96 +163,12 @@ Dit leidt tot de volgende onderzoekswerkzaamheden van de accountant: De accounta
 
 In de beschikking tot subsidieverlening kunnen voor 2016 en 2017 eventueel nadere verplichtingen zijn opgenomen ([art. 4.7 Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=4.7)). Hierbij zijn twee situaties mogelijk:
 
+- – de subsidieverplichtingen hebben effect op de controleverklaring. In dat geval is [hoofdstuk 2](https://wetten.overheid.nl/BWBR0037670) van dit protocol van toepassing. Indien de accountant afwijkingen constateert die van materieel belang zijn voor het te verstrekken controleverklaring, dan wegen deze mee in zijn oordeel;
+
+- – de subsidieverplichtingen hebben geen effect op de controleverklaring, maar vormen een aanvulling op de aan de subsidie verbonden verplichtingen. In dat geval is [hoofdstuk 3](https://wetten.overheid.nl/BWBR0037670) van dit protocol van toepassing. Indien de accountant afwijkingen constateert, rapporteert hij daarover in het rapport van feitelijke bevindingen.
+
 ### 3.4. Rapporteren van feitelijke bevindingen
 
-In het rapport van feitelijke bevindingen vermeldt de accountant de specifieke werkzaamheden die zijn verricht en tot welke bevindingen dit heeft geleid. Afwijkingen van de in dit protocol onder 3.2 en 3.3 genoemde aandachtspunten rapporteert de accountant onder vermelding van de bepaling uit de [subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017).
+In het rapport van feitelijke bevindingen vermeldt de accountant de specifieke werkzaamheden die zijn verricht en tot welke bevindingen dit heeft geleid. Afwijkingen van de in dit protocol onder [3.2](https://wetten.overheid.nl/BWBR0037670) en [3.3](https://wetten.overheid.nl/BWBR0037670) genoemde aandachtspunten rapporteert de accountant onder vermelding van de bepaling uit de [subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017).
 
 Voor de aandachtspunten waarbij de accountant geen afwijkingen constateert, kan de accountant volstaan met het noemen van het aandachtspunt onder vermelding van dat hij geen afwijking heeft vastgesteld.
-
-## Bijlage
-
-### Modellen controleverklaring & rapport van feitelijke bevindingen
-
-### Model A. Controleverklaring
-
-Indien de bevindingen uit de controle daartoe aanleiding geven, wordt de tekst van de controleverklaring aangepast overeenkomstig de Nadere Voorschriften Controle- en Overige Standaarden (NV COS). Zo kan de strekking van het oordeel behalve goedkeurend ook goedkeurend met beperking, afkeurend of met oordeelonthouding zijn.
-
-**Controleverklaring – Subsidieregeling overgang kapitaallasten .... (jaar)**
-
-Afgegeven ten behoeve de Nederlandse Zorgautoriteit (NZa).
-
-Aan: ...(Naam entiteit/opdrachtgever/subsidieontvanger).
-
-Wij hebben het financieel verslag bij de aanvraag vaststelling van de subsidie overgang kapitaallasten ... (jaar) van ............... (naam entiteit) te ..................... (statutaire vestigingsplaats) gecontroleerd.
-
-**Verantwoordelijkheid van het bestuur**
-
-Het bestuur van .................. naam entiteit)4Afhankelijk van de aard van de entiteit te vervangen door een meer passende aanduiding zoals ‘het bestuur van de vennootschap’ (B.V./N.V.), ‘vereniging’, ‘stichting’ enz. is verantwoordelijk voor het opstellen het financieel verslag in overeenstemming met de [Subsidieregeling overgang kapitaallasten 2015–201](https://wetten.overheid.nl/jci1.3:c:BWBR0036017)7 en de nader gestelde subsidieverplichtingen5Voor zover er nadere voorwaarden zijn gesteld, bijvoorbeeld bij de subsidieverlening.. Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht, om het opstellen van de aanvraag mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude, fouten of onzekerheden.
-
-**Verantwoordelijkheid van de accountant**
-
-Onze verantwoordelijkheid is het geven van een oordeel over het financieel verslag op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en het Protocol subsidieregeling overgang kapitaallasten kapitaallasten .......... (meest recente versienummer en publicatiemaand en jaar noemen). Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen het financieel verslag geen afwijkingen van materieel belang bevat.
-
-Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen in en de toelichtingen het financieel verslag. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste professionele oordeelsvorming, met inbegrip van het schatten van de risico’s dat het financieel verslag geen afwijking van materieel belang bevat als gevolg van fraude of fouten.
-
-Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opstellen van het financieel verslag door ................. (naam entiteit), gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van ..... (naam entiteit). Een controle omvat tevens het evalueren van de toepassing van de gebruikte grondslagen voor het financieel verslag, alsmede een evaluatie van het algemene beeld van het financieel verslag.
-
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
-
-**Oordeel**
-
-Naar ons oordeel zijn de in het financieel verslag aangegeven bedragen en het aangevraagde subsidiebedrag van € ............... in alle van materieel belang zijnde aspecten opgesteld in overeenstemming met de relevante bepalingen van de [Subsidieregeling overgang kapitaallasten 2015–2017](https://wetten.overheid.nl/jci1.3:c:BWBR0036017) en uitgewerkt in het Protocol subsidieregeling overgang kapitaallasten en de nader gestelde subsidieverplichting(en) zoals vastgelegd in de subsidiebeschikking(en)6Voor zover er nadere voorwaarden zijn gesteld, bijvoorbeeld bij de subsidieverlening..
-
-**Overige aspecten – beperking in de verspreidingskring en het gebruik**
-
-Het financieel verslag is opgesteld voor de Nederlandse Zorgautoriteit met als doel .................. (naam entiteit) in staat te stellen te voldoen aan de [Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036017). Hierdoor is het financieel verslag mogelijk niet geschikt voor andere doeleinden. Het financieel verslag met onze controleverklaring zijn derhalve uitsluitend bestemd voor .................... (naam entiteit) en de Nederlandse Zorgautoriteit en dient niet te worden verspreid aan of te worden gebruikt door anderen.
-
-Plaats, datum
-
-Naam accountantspraktijk
-
-Naam accountant
-
-### Model B. Rapport van feitelijke bevindingen
-
-**Rapport van feitelijke bevindingen – Subsidieregeling overgang kapitaallasten ... (jaar)**
-
-**Rapport van feitelijke bevindingen**
-
-Afgegeven ten behoeve van de Nederlandse Zorgautoriteit
-
-Aan: naam Opdrachtgever
-
-**Opdracht**
-
-In [artikel 5.3 lid 2 van de Subsidieregeling overgang kapitaallasten 2015–2017](https://wetten.overheid.nl/jci1.3:c:BWBR0036017&artikel=5.3) is bepaald dat het financieel verslag vergezeld dient te gaan van een rapport van feitelijke bevindingen omtrent de naleving van de aan de subsidie verbonden verplichtingen.
-
-Wij hebben een aantal specifieke werkzaamheden verricht met betrekking tot de naleving van de aan de subsidie verbonden verplichtingen voor (naam entiteit) te (zetel) over (subsidiejaar). Deze rapportage bevat de uitkomsten van deze werkzaamheden.
-
-Het is de bedoeling dat de NZa zelf een oordeel vormt over de werkzaamheden en over de in dit rapport weergegeven bevindingen en op basis daarvan zijn eigen conclusie trekt. Wij wijzen er op dat indien wij aanvullende werkzaamheden zouden hebben verricht of een controle- of beoordelingsopdracht zouden hebben uitgevoerd, wellicht andere onderwerpen zouden zijn geconstateerd die voor rapportering in aanmerking zouden zijn gekomen.
-
-**Aard en reikwijdte van de verricht werkzaamheden**
-
-Wij hebben onze werkzaamheden verricht in overeenstemming met het Nederlands recht, waaronder de Nederlandse standaard 4400 ‘Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie en het Protocol subsidieregeling overgang kapitaallasten.
-
-Het doel van een opdracht tot het verrichten van overeengekomen specifieke werkzaamheden is het verrichten van die werkzaamheden die wij met (naam entiteit) zijn overeengekomen en het rapporteren over de feitelijke bevindingen. Aangezien wij slechts verslag doen van feitelijke bevindingen uit hoofde van de overeengekomen de overeengekomen werkzaamheden betekent dit dat op het in het kader van het onderzoek beoordeelde cijfermateriaal en toelichtingen geen accountantscontrole is toegepast en dat evenmin een beoordelingsopdracht of andere assurance-opdracht is uitgevoerd. Dit houdt in dat aan onze rapportage geen zekerheid kan worden ontleend omtrent de getrouwheid van dit cijfermateriaal en de toelichtingen daarop.
-
-**Beschrijving uitgevoerde specifieke werkzaamheden**
-
-Wij hebben de werkzaamheden uitgevoerd zoals met u overeengekomen en zoals beschreven in het Protocol subsidieregeling overgang kapitaallasten. De toereikendheid en geschiktheid van de te verrichten werkzaamheden is de verantwoordelijkheid van de gebruikers van deze rapportage met wie deze werkzaamheden zijn overeengekomen.
-
-Derhalve doen wij geen uitspraak over de toereikendheid en geschiktheid van de verrichte werkzaamheden in relatie tot het doel waarvoor deze worden verricht, noch voor elk ander doel.
-
-**Beschrijving van de feitelijke bevindingen**
-
-Op grond van de door ons uitgevoerde werkzaamheden zoals hierboven beschreven rapporteren wij conform het Protocol subsidieregeling overgang kapitaallasten. Wij hebben vastgesteld dat:
-
-**Overige aspecten – beperking in het gebruik en verspreidingskring**
-
-Deze rapportage is uitsluitend bestemd voor (naam entiteit) en NZa, aangezien anderen die niet op de hoogte zijn van het doel van de werkzaamheden de resultaten onjuist kunnen interpreteren. Wij verzoeken u derhalve de rapportage niet aan anderen te verstrekken zonder onze uitdrukkelijke toestemming.
-
-Plaats, datum
-
-Naam accountantspraktijk
-
-Naam accountant

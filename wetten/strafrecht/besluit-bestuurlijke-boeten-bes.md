@@ -1,41 +1,17 @@
 ---
 title: "Besluit bestuurlijke boeten BES"
 identifier: "BWBR0037210"
-country: "nl"
-rank: "beleidsregel_bes"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037210"
+categorie: "Bestuursrecht"
 soort: "beleidsregel-BES"
-stam_id: "13306773"
-version_id: "22787402"
-internal_id: "C32935921"
-label_id: "13274704"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037210/2024-01-01/0"
-intitule_bron: "Stcrt.2015-41005"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-11-09"
-intitule_published: "2015-11-20"
-intitule_in_force: "2015-11-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-41005"
-original_signed_date: "2015-11-09"
-original_published_date: "2015-11-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-41005"
-entry_into_force_date: "2015-11-21"
-jci_1_3: "jci1.3:c:BWBR0037210&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0037210&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2015-11-09"
-entry_into_force: "2015-11-21"
+publicatiedatum: 2015-11-21
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0037210"
+opgehaald: 2026-08-23
 ---
-# Besluit bestuurlijke boeten BES
 
-Dit besluit betreft een wijziging van het [besluit van 19 december 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029304), nr. DGB2010/8055M, Stcrt. 2010, nr. 21193 (Besluit bestuurlijke boeten BES) in verband met de beleidsmatige invulling van de [artikelen 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24) en [8.24a Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24a) (zie de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6a&z=2024-01-01&g=2024-01-01) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6b&z=2024-01-01&g=2024-01-01) van dit besluit) en een nadere uitwerking van het beleid omtrent vrijwillige verbetering ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=IV&artikel=8&z=2024-01-01&g=2024-01-01) van dit besluit).
+# Besluit bestuurlijke boeten BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -57,7 +33,7 @@ De boete kan worden verminderd wanneer sprake is van een wanverhouding tussen de
 
 1. Het niet of niet binnen de termijn doen van aangifte voor een belasting die bij wege van aanslag wordt geheven, wordt aangemerkt als een verzuim.
 
-2. Ter zake van een aangifteverzuim legt de inspecteur een boete op van $ 140.
+2. Ter zake van een aangifteverzuim legt de inspecteur een boete op van $ 140.
 
 3. Bij het niet of niet binnen de termijn doen van aangifte voor de aanslagbelastingen is alleen sprake van een verzuim, als belanghebbende de aangifte niet binnen een door de inspecteur gestelde termijn heeft gedaan en hij geen gevolg heeft gegeven aan een aanmaning van de inspecteur.
 
@@ -73,7 +49,7 @@ De boete kan worden verminderd wanneer sprake is van een wanverhouding tussen de
 
 - a. eerste verzuim geen boete op;
 
-- b. tweede of volgend verzuim binnen een periode van 24 maanden na het voorgaande verzuim een boete op van $ 100.
+- b. tweede of volgend verzuim binnen een periode van 24 maanden na het voorgaande verzuim een boete op van $ 100.
 
 3. In afwijking van het tweede lid kan in uitzonderlijke gevallen een verzuimboete tot het wettelijk maximum worden opgelegd. Van een uitzonderlijk geval kan bijvoorbeeld sprake zijn als belanghebbende stelselmatig in verzuim is.
 
@@ -81,11 +57,11 @@ De boete kan worden verminderd wanneer sprake is van een wanverhouding tussen de
 
 1. Voor het opleggen van de boeten voor een betalingsverzuim wordt de hoogte van de verzuimboete gerelateerd aan de hoogte van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting.
 
-2. In geval van een betalingsverzuim legt de inspecteur een boete op van vijf procent van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting tot het wettelijk maximum van [artikel 8.23 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23). De boete wordt minimaal gesteld op $ 100.
+2. In geval van een betalingsverzuim legt de inspecteur een boete op van vijf procent van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting tot het wettelijk maximum van [artikel 8.23 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23). De boete wordt minimaal gesteld op $ 100.
 
 ##### Artikel 6
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=5&z=2024-01-01&g=2024-01-01) wordt een verzuimboete opgelegd van vijftien procent van de niet, gedeeltelijk niet of niet tijdig betaalde belasting tot het wettelijk maximum van [artikel 8.23 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23), indien de belastingplichtige of de inhoudingsplichtige de belasting die op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet dan wel niet tijdig heeft betaald, omdat te weinig is aangegeven. De boete wordt minimaal gesteld op $ 200.
+In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=5&z=2024-01-01&g=2024-01-01) wordt een verzuimboete opgelegd van vijftien procent van de niet, gedeeltelijk niet of niet tijdig betaalde belasting tot het wettelijk maximum van [artikel 8.23 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23), indien de belastingplichtige of de inhoudingsplichtige de belasting die op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet dan wel niet tijdig heeft betaald, omdat te weinig is aangegeven. De boete wordt minimaal gesteld op $ 200.
 
 ##### Artikel 6a
 
@@ -133,7 +109,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoo
 
 6. Indien de belastingplichtige of de inhoudingsplichtige de gemaakte fouten uit eigen beweging herstelt (vrijwillige verbetering), legt de inspecteur een verzuimboete van tien procent van de grondslag van de boete.
 
-7. In afwijking van het vorige lid legt de inspecteur in geval van een vrijwillige verbetering geen verzuimboete op indien het bedrag dat ingevolge de vrijwillige verbetering wordt betaald $ 3.000 of minder bedraagt. Ook legt de inspecteur geen verzuimboete op als het belastingbedrag dat ingevolge de vrijwillige verbetering wordt betaald minder bedraagt dan tien procent van het belastingbedrag dat over het tijdvak/de tijdvakken waarop de vrijwillige verbetering(en) betrekking heeft/hebben, eerder per saldo is betaald dan wel terugontvangen.
+7. In afwijking van het vorige lid legt de inspecteur in geval van een vrijwillige verbetering geen verzuimboete op indien het bedrag dat ingevolge de vrijwillige verbetering wordt betaald $ 3.000 of minder bedraagt. Ook legt de inspecteur geen verzuimboete op als het belastingbedrag dat ingevolge de vrijwillige verbetering wordt betaald minder bedraagt dan tien procent van het belastingbedrag dat over het tijdvak/de tijdvakken waarop de vrijwillige verbetering(en) betrekking heeft/hebben, eerder per saldo is betaald dan wel terugontvangen.
 
 8. De voorgaande leden 2 tot en met 7 zijn van overeenkomstige toepassing op vrijwillige verbeteringen in de sfeer van de aanslagbelastingen, met dien verstande dat de inspecteur in dergelijke gevallen de vergrijpboete matigt naar tien procent van de grondslag van de boete.
 
@@ -145,7 +121,7 @@ Dit besluit wordt aangehaald als Besluit bestuurlijke boeten BES.
 
 ##### Artikel 10
 
-Het [besluit van 19 december 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029304), nr. DGB2010/8055M, Stcrt. 2010, nr. 21193 (Besluit bestuurlijke boeten BES) wordt ingetrokken met ingang van de inwerkingtreding van dit besluit.
+Het [besluit van 19 december 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029304), nr. DGB2010/8055M, Stcrt. 2010, nr. 21193 (Besluit bestuurlijke boeten BES) wordt ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
 ##### Artikel 11
 

@@ -1,66 +1,44 @@
 ---
 title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2015, nr. 765423 houdende de wijze waarop de bevoegdheid tot het ontnemen van rechten ten aanzien van een beroepsopleiding wordt uitgeoefend indien niet of niet meer wordt voldaan aan de zorgenplichten, omschreven in artikel 6.1.3 van de Wet educatie en beroepsonderwijs"
+citeertitel: "Beleidsregel macrodoelmatigheid beroepsonderwijs"
 identifier: "BWBR0037402"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037402"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "13357053"
-version_id: "25185652"
-internal_id: "C36015251"
-label_id: "13324854"
-dtd_version: "2.0"
-original_entry_into_force: "2018-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037402/2022-08-01/0"
-intitule_bron: "Stcrt.2015-47109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-14"
-intitule_published: "2015-12-23"
-intitule_in_force: "2015-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-47383"
-original_signed_date: "2018-08-13"
-original_published_date: "2018-08-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2018-47383"
-entry_into_force_date: "2018-08-24"
-jci_1_3: "jci1.3:c:BWBR0037402&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0037402&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel macrodoelmatigheid beroepsonderwijs"
-signed_date: "2018-08-13"
-entry_into_force: "2018-08-24"
+publicatiedatum: 2018-08-24
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0037402"
+opgehaald: 2026-08-23
 ---
+
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2015, nr. 765423 houdende de wijze waarop de bevoegdheid tot het ontnemen van rechten ten aanzien van een beroepsopleiding wordt uitgeoefend indien niet of niet meer wordt voldaan aan de zorgenplichten, omschreven in artikel 6.1.3 van de Wet educatie en beroepsonderwijs
 
-Gelet op [artikel 6.1.4a van de Wet beroepsonderwijs en volwasseneneducatie](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4a);
-
-Besluit:
+#### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **wet:** de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- b. *wet:* de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- c. **adviescommissie macrodoelmatigheid mbo:** de onafhankelijke adviescommissie bedoeld in [artikel 6.1.4a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4a);
+- c. *adviescommissie macrodoelmatigheid mbo:* de onafhankelijke adviescommissie bedoeld in [artikel 6.1.4a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4a);
 
-- d. **beroepsopleiding:** beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel b tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2)
+- d. *beroepsopleiding:* beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel b tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2)
 
-- e. **instelling:** instelling als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- e. *instelling:* instelling als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- f. **zorgplicht arbeidsmarktperspectief:** de zorgplicht bedoeld in [artikel 6.1.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
+- f. *zorgplicht arbeidsmarktperspectief:* de zorgplicht bedoeld in [artikel 6.1.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
 
-- g. **zorgplicht doelmatigheid:** de zorgplicht bedoeld in [artikel 6.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3).
+- g. *zorgplicht doelmatigheid:* de zorgplicht bedoeld in [artikel 6.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3).
 
 ##### Artikel 2
 
 Deze beleidsregel heeft betrekking op de wijze waarop de minister de bevoegdheden, bedoeld in de [artikelen 6.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1), en [6.1.4, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4) uitoefent.
+
+#### Paragraaf 2. Zorgplichten macrodoelmatigheid
 
 ##### Artikel 3. Signalen niet-naleving zorgplichten
 
@@ -172,6 +150,8 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 Het advies wordt in bovengenoemde gevallen openbaar gemaakt door het elektronisch beschikbaar te stellen op de website van de adviescommissie macrodoelmatigheid mbo.
 
+#### Paragraaf 3. Alleenrecht kleinschalige en unieke opleidingen
+
 ##### Artikel 8. Signalen verdwijnen kleinschalige en unieke opleiding
 
 1. De minister kan in de volgende gevallen een onderzoek instellen:
@@ -201,14 +181,6 @@ Elektronische indiening is mogelijk via het daartoe bestemde formulier op de web
 2. De minister vraagt advies aan de adviescommissie macrodoelmatigheid mbo. Daartoe stuurt hij de onder hem rustende ter zake doende gegevens naar de adviescommissie.
 
 3. Indien het signaal geen aanleiding geeft voor het vragen van een advies aan de adviescommissie macrodoelmatigheid mbo brengt de minister de instelling die het signaal heeft gegeven daarvan op de hoogte.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Zorgplichten macrodoelmatigheid
-
-#### Paragraaf 3. Alleenrecht kleinschalige en unieke opleidingen
 
 ##### Artikel 10. Criteria kleinschalige en unieke beroepsopleiding
 
@@ -241,5 +213,3 @@ Deze beleidsregel treedt in werking de dag na de datum van uitgifte van de Staat
 ##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel macrodoelmatigheid beroepsonderwijs.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

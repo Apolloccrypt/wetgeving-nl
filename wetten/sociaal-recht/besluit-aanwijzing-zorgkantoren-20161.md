@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, kenmerk 885630-144844-Z, houdende de aanwijzing van de zorgkantoren"
+citeertitel: "Besluit aanwijzing zorgkantoren 2016/1"
 identifier: "BWBR0037424"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037424"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13360753"
-version_id: "22904052"
-internal_id: "C33126101"
-label_id: "13328484"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037424/2016-01-01/0"
-intitule_bron: "Stcrt.2015-47359"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-15"
-intitule_published: "2015-12-24"
-intitule_in_force: "2015-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-47359"
-original_signed_date: "2015-12-15"
-original_published_date: "2015-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-47359"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037424&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0037424&g=2016-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing zorgkantoren 2016/1"
-signed_date: "2015-12-15"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0037424"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, kenmerk 885630-144844-Z, houdende de aanwijzing van de zorgkantoren
-
-Gelet op [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -72,7 +46,7 @@ Voor de jaren 2016 tot en met 2020 zijn in de hiernavolgende regio’s de daarac
 
 - 14. Zaanstreek/Waterland: Zilveren Kruis Zorgkantoor N.V.
 
-- 15. Amsterdam: Zilveren Kruis Zorgkantoor N.V.
+- 15 Amsterdam: Zilveren Kruis Zorgkantoor N.V.
 
 - 16. Amstelland en de Meerlanden: Stichting Wlz-uitvoerder Zorg en Zekerheid
 
@@ -109,5 +83,3 @@ Voor de jaren 2016 tot en met 2020 zijn in de hiernavolgende regio’s de daarac
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2016.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

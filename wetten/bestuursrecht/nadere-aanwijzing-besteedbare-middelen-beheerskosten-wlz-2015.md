@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 januari 2016, kenmerk 874087-144486-Z, houdende nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2015 (nadere aanwijzing besteedbare middelen beheerskosten Wlz 2015)"
+citeertitel: "Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2015"
 identifier: "BWBR0037534"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-19"
-last_updated: "2016-01-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037534"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13392323"
-version_id: "22969332"
-internal_id: "C33210451"
-label_id: "13360004"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037534/2016-01-19/0"
-intitule_bron: "Stcrt.2016-1582"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-04"
-intitule_published: "2016-01-18"
-intitule_in_force: "2016-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-1582"
-original_signed_date: "2016-01-04"
-original_published_date: "2016-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-1582"
-entry_into_force_date: "2016-01-19"
-jci_1_3: "jci1.3:c:BWBR0037534&z=2016-01-19&g=2016-01-19"
-jci_1_0: "1.0:c:BWBR0037534&g=2016-01-19"
-citeertitel_status: "officieel"
-short_title: "Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2015"
-signed_date: "2016-01-04"
-entry_into_force: "2016-01-19"
+publicatiedatum: 2016-01-19
+laatste_update: 2016-01-19
+status: geldig
+toestand: 2016-01-19
+bron: "https://wetten.overheid.nl/BWBR0037534"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 januari 2016, kenmerk 874087-144486-Z, houdende nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2015 (nadere aanwijzing besteedbare middelen beheerskosten Wlz 2015)
-
-Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -63,5 +37,3 @@ Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte
 ##### Artikel 6
 
 Deze aanwijzing wordt aangehaald als: Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2015.
-
-Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.

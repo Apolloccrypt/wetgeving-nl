@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2015, 2015-0000305670, de inrichting van de directie Samenleving en Integratie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Samenleving en Integratie (Organisatie-, mandaat- en volmachtbesluit directie Samenleving en Integratie 2015)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Samenleving en Integratie 2015"
 identifier: "BWBR0037457"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-11"
-last_updated: "2025-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037457"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13369913"
-version_id: "22923402"
-internal_id: "C33148611"
-label_id: "13337714"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037457/2025-11-11/0"
-intitule_bron: "Stcrt.2015-47971"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-17"
-intitule_published: "2015-12-29"
-intitule_in_force: "2015-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-47971"
-original_signed_date: "2015-12-17"
-original_published_date: "2015-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-47971"
-entry_into_force_date: "2015-12-30"
-jci_1_3: "jci1.3:c:BWBR0037457&z=2025-11-11&g=2025-11-11"
-jci_1_0: "1.0:c:BWBR0037457&g=2025-11-11"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit directie Samenleving en Integratie 2015"
-signed_date: "2015-12-17"
-entry_into_force: "2015-12-30"
+publicatiedatum: 2015-12-30
+laatste_update: 2025-11-11
+status: geldig
+toestand: 2025-11-11
+bron: "https://wetten.overheid.nl/BWBR0037457"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2015, 2015-0000305670, de inrichting van de directie Samenleving en Integratie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Samenleving en Integratie (Organisatie-, mandaat- en volmachtbesluit directie Samenleving en Integratie 2015)
-
-Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), en [10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **S&I:** de directie Samenleving en Integratie van het ministerie;
+- a. *S&I:* de directie Samenleving en Integratie van het ministerie;
 
-- b. **MT:** het management team van de directie Samenleving en Integratie.
+- b. *MT:* het management team van de directie Samenleving en Integratie.
 
 #### § 2. Organisatie en taken
 
@@ -112,22 +86,6 @@ Het MT is verantwoordelijk voor de volgende taken:
 
 Aan de portefeuillehouders wordt machtiging verleend met betrekking tot het afdoen van informatieve brieven en het paraferen van stukken die betrekking hebben op taken van S&I.
 
-#### § 4. Slotbepalingen
-
-##### Artikel 6
-
-Bij afwezigheid of verhindering van de directeur S&I worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de portefeuillehouders.
-
-##### Artikel 7
-
-1. Het [Organisatie-, mandaat- en volmachtbesluit I&S 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034841) wordt ingetrokken.
-
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
-
-3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Samenleving en Integratie 2015.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
 ##### Artikel 5a
 
 Aan de portefeuillehouders wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
@@ -140,4 +98,14 @@ Aan de portefeuillehouders wordt volmacht verleend tot het aangaan van overeenko
 
 #### § 4. Slotbepalingen
 
-Deze regeling zal in de Staatscourant worden geplaatst.
+##### Artikel 6
+
+Bij afwezigheid of verhindering van de directeur S&I worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de portefeuillehouders.
+
+##### Artikel 7
+
+1. Het [Organisatie-, mandaat- en volmachtbesluit I&S 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034841) wordt ingetrokken.
+
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
+
+3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Samenleving en Integratie 2015.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Centrale Commissie Dierproeven van 19 december 2014, ref 2014-04, houdende regels inzake mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven (Besluit mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven CCD 2014)"
+citeertitel: "Besluit mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven CCD 2014"
 identifier: "BWBR0037746"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-01-03"
-last_updated: "2014-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037746"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13442833"
-version_id: "23074982"
-internal_id: "C33347361"
-label_id: "13410014"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037746/2015-01-03/0"
-intitule_bron: "Stcrt.2015-163"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-19"
-intitule_published: "2015-01-02"
-intitule_in_force: "2015-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-163"
-original_signed_date: "2014-12-19"
-original_published_date: "2015-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-163"
-entry_into_force_date: "2015-01-03"
-jci_1_3: "jci1.3:c:BWBR0037746&z=2015-01-03&g=2015-01-03"
-jci_1_0: "1.0:c:BWBR0037746&g=2015-01-03"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven CCD 2014"
-signed_date: "2014-12-19"
-entry_into_force: "2015-01-03"
+publicatiedatum: 2015-01-03
+laatste_update: 2015-01-03
+status: geldig
+toestand: 2015-01-03
+bron: "https://wetten.overheid.nl/BWBR0037746"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Centrale Commissie Dierproeven van 19 december 2014, ref 2014-04, houdende regels inzake mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven (Besluit mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven CCD 2014)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,23 +20,23 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Economische Zaken;
+- a. *minister:* de Minister van Economische Zaken;
 
-- b. **CCD:** de Centrale Commissie Dierproeven als bedoeld in [art. 18 van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
+- b. *CCD:* de Centrale Commissie Dierproeven als bedoeld in [art. 18 van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
 
-- c. **Ondersteunend bureau dierproeven en alternatieven:** de organisatie van het personeel als bedoeld in [artikel 18 zevende lid van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
+- c. *Ondersteunend bureau dierproeven en alternatieven:* de organisatie van het personeel als bedoeld in [artikel 18 zevende lid van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
 
-- d. **de voorzitter:** de voorzitter van de Centrale Commissie Dierproeven als bedoeld in [artikel 18 tweede lid van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
+- d. *de voorzitter:* de voorzitter van de Centrale Commissie Dierproeven als bedoeld in [artikel 18 tweede lid van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
 
-- e. **de plaatsvervangend voorzitter:** het lid dat door de voorzitter is aangewezen om in geval van afwezigheid van de voorzitter als zijn plaatsvervanger te fungeren;
+- e. *de plaatsvervangend voorzitter:* het lid dat door de voorzitter is aangewezen om in geval van afwezigheid van de voorzitter als zijn plaatsvervanger te fungeren;
 
-- f. **het lid:** het lid van de Centrale Commissie Dierproeven als bedoeld in [artikel 18 tweede lid van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
+- f. *het lid:* het lid van de Centrale Commissie Dierproeven als bedoeld in [artikel 18 tweede lid van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
 
-- g. **de algemeen secretaris:** de algemeen secretaris is belast met het geven van leiding aan het Ondersteunend bureau dierproeven en alternatieven;
+- g. *de algemeen secretaris:* de algemeen secretaris is belast met het geven van leiding aan het Ondersteunend bureau dierproeven en alternatieven;
 
-- h. **de plaatsvervangend algemeen secretaris:** de senior medewerker die door de algemeen secretaris is aangewezen om in geval van afwezigheid van de algemeen secretaris als zijn plaatsvervanger te fungeren;
+- h. *de plaatsvervangend algemeen secretaris:* de senior medewerker die door de algemeen secretaris is aangewezen om in geval van afwezigheid van de algemeen secretaris als zijn plaatsvervanger te fungeren;
 
-- i. **de jurist:** de jurist belast met het behandelen van een bezwaarschrift en/of een (hoger) beroep en werkzaam voor het Ondersteunend bureau dierproeven en alternatieven;
+- i. *de jurist:* de jurist belast met het behandelen van een bezwaarschrift en/of een (hoger) beroep en werkzaam voor het Ondersteunend bureau dierproeven en alternatieven;
 
 ### Hoofdstuk 2. Taakverdeling
 
@@ -97,5 +71,3 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscou
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven CCD 2014.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

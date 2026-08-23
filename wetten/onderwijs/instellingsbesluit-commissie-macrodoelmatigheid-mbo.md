@@ -1,64 +1,37 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 augustus 2015, nr. MBO/803345, tot het instellen van een commissie macrodoelmatigheid voor het beroepsonderwijs (Instellingsbesluit Commissie macrodoelmatigheid mbo)"
+citeertitel: "Instellingsbesluit Commissie macrodoelmatigheid mbo"
 identifier: "BWBR0036973"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-30"
-last_updated: "2025-01-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036973"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13250323"
-version_id: "25367242"
-internal_id: "C36223971"
-label_id: "13218424"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036973/2025-01-30/0"
-intitule_bron: "Stcrt.2015-27372"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-08-18"
-intitule_published: "2015-09-01"
-intitule_in_force: "2015-09-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-59339"
-original_signed_date: "2018-09-18"
-original_published_date: "2018-10-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2018-59339"
-entry_into_force_date: "2018-09-18"
-jci_1_3: "jci1.3:c:BWBR0036973&z=2025-01-30&g=2025-01-30"
-jci_1_0: "1.0:c:BWBR0036973&g=2025-01-30"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie macrodoelmatigheid mbo"
-signed_date: "2018-09-18"
-entry_into_force: "2018-09-18"
+publicatiedatum: 2018-09-18
+laatste_update: 2025-01-30
+status: geldig
+toestand: 2025-01-30
+bron: "https://wetten.overheid.nl/BWBR0036973"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 augustus 2015, nr. MBO/803345, tot het instellen van een commissie macrodoelmatigheid voor het beroepsonderwijs (Instellingsbesluit Commissie macrodoelmatigheid mbo)
-
-Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
-
-Gelet op [artikel 6.1.4a, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4a);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- a. *wet:*
+ [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- b. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- b. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30) van dit besluit;
+- c. *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30) van dit besluit;
 
-- d. **zorgplicht arbeidsmarktperspectief:** de zorgplicht bedoeld in [artikel 6.1.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
+- d. *zorgplicht arbeidsmarktperspectief:* de zorgplicht bedoeld in [artikel 6.1.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
 
-- e. **zorgplicht doelmatigheid:** de zorgplicht bedoeld in [artikel 6.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
+- e. *zorgplicht doelmatigheid:* de zorgplicht bedoeld in [artikel 6.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
 
-- f. **beleidsregel:** de Beleidsregel macrodoelmatigheid beroepsonderwijs;
+- f. *beleidsregel:* de Beleidsregel macrodoelmatigheid beroepsonderwijs;
 
-- g. **NVAO:** Nederlands-Vlaamse Accreditatieorganisatie.
+- g. *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie.
 
 ##### Artikel 2. Instelling en taak
 
@@ -76,11 +49,11 @@ In dit besluit wordt verstaan onder:
 
 - e. de minister te adviseren ten aanzien van het toekennen van een aanspraak op bekostiging en het recht op diplomering, bedoeld in [artikel 1.3.1, derde lid, onderdeel a, onderscheidenlijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), ten aanzien van een unieke, kleinschalige beroepsopleiding die dreigt te verdwijnen maar van belang blijft voor de arbeidsmarkt, voor een periode van 5 jaren aan één instelling als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1).
 
-3. De commissie voert de taak bedoeld in het tweede lid, onder d, uit voor aanvragen die zijn ingediend bij de minister op of na 1 augustus 2017.
+3. De commissie voert de taak bedoeld in het tweede lid, onder d, uit voor aanvragen die zijn ingediend bij de minister op of na 1 augustus 2017.
 
 ##### Artikel 3. Lidmaatschap
 
-1. De commissie wordt ingesteld met ingang van 1 september 2015.
+1. De commissie wordt ingesteld met ingang van 1 september 2015.
 
 2. De commissie bestaat uit een voorzitter en vijf andere leden.
 
@@ -102,11 +75,11 @@ Tot de leden van de commissie worden benoemd:
 
 - b. mevrouw J.M. Nunnely;
 
-- c. de heer C.M.A. van Rosmalen;
+- c. de heer C.M.A. van Rosmalen;
 
 - d. mevrouw mr. M. ten Hoonte;
 
-- e. mevrouw prof. dr. ir. M.C. Versantvoort; en
+- e. mevrouw prof. dr. ir. M.C. Versantvoort; en
 
 - f. de heer dr. ir. B.J. Kip.
 
@@ -122,13 +95,13 @@ Tot de leden van de commissie worden benoemd:
 
 1. De commissie stelt haar eigen werkwijze vast.
 
-2. De commissie legt jaarlijks voor 1 oktober een werkplan voor het volgend kalenderjaar en een begroting tot uitvoering van dit werkplan voor aan de minister. De begroting behoeft goedkeuring van de minister. Uitgaven buiten de begroting worden tevoren per geval ter goedkeuring voorgelegd aan de minister.
+2. De commissie legt jaarlijks voor 1 oktober een werkplan voor het volgend kalenderjaar en een begroting tot uitvoering van dit werkplan voor aan de minister. De begroting behoeft goedkeuring van de minister. Uitgaven buiten de begroting worden tevoren per geval ter goedkeuring voorgelegd aan de minister.
 
-3. De commissie brengt jaarlijks aan de minister voor 1 juli een verslag over de uitvoering van haar werkzaamheden in het voorafgaand kalenderjaar en een financieel verslag uit.
+3. De commissie brengt jaarlijks aan de minister voor 1 juli een verslag over de uitvoering van haar werkzaamheden in het voorafgaand kalenderjaar en een financieel verslag uit.
 
 4. De commissie kan ter voorbereiding op de totstandkoming van een advies als bedoeld in [artikel 2, tweede lid, onderdeel a tot en met c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), nadere informatie vragen aan de betrokken instelling of instellingen. Ter voorbereiding op de totstandkoming van een advies als bedoeld in artikel 2, tweede lid, onderdeel d, kan de commissie nadere informatie vragen aan de aanvrager.
 
-5. Indien bij een aanvraag tot goedkeuring van een fusie als bedoeld in [artikel 2.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.4), waarvoor de commissie door de minister om advies is gevraagd onvoldoende gegevens of bescheiden zijn verstrekt voor de beoordeling van die aanvraag of voor de voorbereiding van de beschikking, kan de voorzitter aanvragers uitnodigen om de aanvraag aan te vullen met de ontbrekende gegevens en de beslistermijn, bedoeld in [artikel 4:15, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) namens de minister opschorten.
+5. Indien bij een aanvraag tot goedkeuring van een fusie als bedoeld in [artikel 2.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.4), waarvoor de commissie door de minister om advies is gevraagd onvoldoende gegevens of bescheiden zijn verstrekt voor de beoordeling van die aanvraag of voor de voorbereiding van de beschikking, kan de voorzitter aanvragers uitnodigen om de aanvraag aan te vullen met de ontbrekende gegevens en de beslistermijn, bedoeld in [artikel 4:15, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) namens de minister opschorten.
 
 6. De commissie kan in voorkomende gevallen onderzoek laten uitvoeren of expertise van derden inroepen, voor zover dat valt binnen de goedgekeurde begroting.
 
@@ -141,6 +114,18 @@ Tot de leden van de commissie worden benoemd:
 3. Alvorens dit rapport vast te stellen en de minister te adviseren, stelt de commissie het bevoegd gezag van de betrokken instelling of instellingen in de gelegenheid kennis te nemen van het ontwerprapport. Indien het ontwerprapport feitelijke onjuistheden bevat kan het bevoegd gezag van de betrokken instelling of instellingen deze binnen de gestelde termijn kenbaar maken aan de commissie. Wanneer het ontwerprapport daartoe aanleiding geeft kan het bevoegd gezag van de betrokken instelling of instellingen aangeven aan welke aanbeveling(en) uit het ontwerprapport het navolging zal geven.
 
 4. Na de gestelde termijn wordt het rapport vastgesteld. Eventueel door het bevoegd gezag overgenomen aanbevelingen uit het ontwerprapport worden in het vast te stellen rapport vermeld.
+
+##### Artikel 7a. Procedure vaststellen advies fusie
+
+1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
+
+2. De commissie zendt uiterlijk 8 weken na ontvangst van de volledige aanvraag voor goedkeuring van een fusie dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog toegezonden dient te worden.
+
+##### Artikel 7b. Procedure vaststellen advies kleinschalige en unieke beroepsopleidingen
+
+1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
+
+2. De commissie zendt uiterlijk 8 weken na ontvangst van het signaal, bedoeld in artikel 8 van de beleidsregel dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog aan de minister wordt toegezonden.
 
 ##### Artikel 8. Informatieplicht
 
@@ -182,26 +167,8 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 september 2015. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 augustus 2015, treedt het besluit in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 september 2015.
+Dit besluit treedt in werking met ingang van 1 september 2015. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 augustus 2015, treedt het besluit in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 september 2015.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie macrodoelmatigheid mbo.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
-##### Artikel 7a. Procedure vaststellen advies fusie
-
-1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
-
-2. De commissie zendt uiterlijk 8 weken na ontvangst van de volledige aanvraag voor goedkeuring van een fusie dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog toegezonden dient te worden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
-##### Artikel 7b. Procedure vaststellen advies kleinschalige en unieke beroepsopleidingen
-
-1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
-
-2. De commissie zendt uiterlijk 8 weken na ontvangst van het signaal, bedoeld in artikel 8 van de beleidsregel dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog aan de minister wordt toegezonden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

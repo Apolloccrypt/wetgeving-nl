@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering overvallen"
 identifier: "BWBR0037537"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2016-02-01"
-last_updated: "2016-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037537"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "13392723"
-version_id: "22969962"
-internal_id: "C33212931"
-label_id: "13360364"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037537/2016-02-01/0"
-intitule_bron: "Stcrt.2016-1890"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-01-22"
-intitule_in_force: "2016-01-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-1890"
-original_published_date: "2016-01-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-1890"
-entry_into_force_date: "2016-02-01"
-jci_1_3: "jci1.3:c:BWBR0037537&z=2016-02-01&g=2016-02-01"
-jci_1_0: "1.0:c:BWBR0037537&g=2016-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-02-01"
+publicatiedatum: 2016-02-01
+laatste_update: 2016-02-01
+status: geldig
+toestand: 2016-02-01
+bron: "https://wetten.overheid.nl/BWBR0037537"
+opgehaald: 2026-08-23
 ---
+
 # Richtlijn voor strafvordering overvallen
 
 ### Beschrijving
@@ -43,6 +24,31 @@ In een aantal gevallen zal ruimte zijn voor het eisen van voorwaardelijke straff
 ### Basiscasus/delict
 
 Overval door een first offender, alleen gepleegd met een basis van geweld (slaan/ schoppen, maar ook gebruik van een steek-of slagwapen) en/of bedreiging.
+
+| 312/317 SR | Bedrijf | Woning |
+| --- | --- | --- |
+| Uitgangspunt | 2 jaar gevangenisstraf | 3 jaar gevangenisstraf |
+| Strafeisverzwarend: |  |  |
+| Geld/waardetransport | + 6 maanden |  |
+| Nachtelijke uren |  | + 6 maanden |
+| Medeplegen | + 8 maanden | + 12 maanden |
+| Dreigen met vuurwapen* | + 12 maanden | + 12 maanden |
+|  |  |  |
+| Vermomming | + 3 maanden | + 3 maanden |
+| Vastbinden/opsluiten** | + 6 maanden | + 6 maanden |
+| Zwaar lichamelijk letsel | + 12 maanden | + 12 maanden |
+| Subtotaal: |  |  |
+| Recidive (50%)*** | + 50% | + 50% |
+| Meerdere overvallen |  |  |
+| Per overval | + 50% tov zwaarste delict | + 50% tov zwaarste delict |
+|  |  |  |
+| Strafeisverlagend: |  |  |
+| Poging | – 33% | – 33% |
+| Medeplichtigheid | – 33% | – 33% |
+| Voorbereiding | – 50% | – 50% |
+|  |  |  |
+| Overige strafbepalende factoren: samenloop met andere delicten, meermalen of ernstige recidive, georganiseerd verband/mate van professionaliteit, toegang verschaft door middel van oplichting/misleiding, lange duur, psychische gevolgen slachtoffer(s), blijvende ernstige lichamelijke gevolgen/invaliditeit/hulpbehoevendheid, fatale afloop (312/317, lid 3 Sr), mate van geweld en/of intimidatie, kwetsbaar slachtoffer, hulpeloos achterlaten slachtoffer e.d. | maatwerk | maatwerk |
+| Bijzonderheden Het instrument van justitiële voorwaarden gericht inzetten en wanneer aangewezen elektronisch toezicht vorderen bij schorsing voorlopige hechtenis en vorderen bijzondere voorwaarden. N.b. Transactie of strafbeschikking is niet mogelijk, noch een kale taakstraf (art 22b lid 1 sub a Sr). |  |  |
 
 * Verhoging geldt ook indien WWM-feit apart tenlastegelegd wordt.
 

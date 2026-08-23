@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister voor Wonen en Rijksdienst van 15 oktober 2015, nummer 2015-0000436097, houdende instelling van de Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften"
+citeertitel: "Besluit Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften"
 identifier: "BWBR0037131"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-02"
-last_updated: "2025-04-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037131"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13289963"
-version_id: "22747102"
-internal_id: "C32889581"
-label_id: "13257974"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037131/2025-04-02/0"
-intitule_bron: "Stcrt.2015-37507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-10-15"
-intitule_published: "2015-10-30"
-intitule_in_force: "2015-10-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-37507"
-original_signed_date: "2015-10-15"
-original_published_date: "2015-10-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-37507"
-entry_into_force_date: "2015-10-31"
-jci_1_3: "jci1.3:c:BWBR0037131&z=2025-04-02&g=2025-04-02"
-jci_1_0: "1.0:c:BWBR0037131&g=2025-04-02"
-citeertitel_status: "officieel"
-short_title: "Besluit Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften"
-signed_date: "2015-10-15"
-entry_into_force: "2015-10-31"
+publicatiedatum: 2015-10-31
+laatste_update: 2025-04-02
+status: geldig
+toestand: 2025-04-02
+bron: "https://wetten.overheid.nl/BWBR0037131"
+opgehaald: 2026-08-23
 ---
-# Besluit van de Minister voor Wonen en Rijksdienst van 15 oktober 2015, nummer 2015-0000436097, houdende instelling van de Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften
 
-Besluit:
+# Besluit van de Minister voor Wonen en Rijksdienst van 15 oktober 2015, nummer 2015-0000436097, houdende instelling van de Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=2&z=2025-04-02&g=2025-04-02);
+- a. *commissie:* Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=2&z=2025-04-02&g=2025-04-02);
 
-- b. **minister:** Minister voor Wonen en Rijksdienst.
+- b. *minister:* Minister voor Wonen en Rijksdienst.
 
 ##### Artikel 2
 
@@ -64,21 +40,21 @@ De commissie heeft tot taak te adviseren over:
 
 - a. daartoe een verzoek wordt gedaan dat betrekking heeft op de toepassing van technische voorschriften als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=3&z=2025-04-02&g=2025-04-02) in het kader van:
 
-- 1°. een aanvraag om een omgevingsvergunning voor een bouwactiviteit;
+   - 1°. een aanvraag om een omgevingsvergunning voor een bouwactiviteit;
 
-- 2°. een gebruiksmelding;
+   - 2°. een gebruiksmelding;
 
-- 3°. aanvullende voorwaarden met betrekking tot een gebruiksmelding, of
+   - 3°. aanvullende voorwaarden met betrekking tot een gebruiksmelding, of
 
-- 4°. een handhavingsbesluit ten aanzien van overtredingen van de voorschriften bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) inzake het bouwen, gebruiken of de staat van bouwwerken of van de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), en
+   - 4°. een handhavingsbesluit ten aanzien van overtredingen van de voorschriften bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) inzake het bouwen, gebruiken of de staat van bouwwerken of van de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), en
 
 - b. er over de toepassing van die voorschriften verschil van inzicht bestaat tussen:
 
-- 1°. het bevoegd gezag, en
+   - 1°. het bevoegd gezag, en
 
-- 2°. de initiatiefnemer, de aanvrager, de melder, of
+   - 2°. de initiatiefnemer, de aanvrager, de melder, of
 
-- 3°. degene tot wie een handhavingsbesluit zich richt.
+   - 3°. degene tot wie een handhavingsbesluit zich richt.
 
 2. Er dient naar het oordeel van de commissie voldoende informatie over zaak te worden overlegd, ten minste bestaande uit:
 
@@ -154,7 +130,7 @@ Een ieder die is betrokken bij de uitvoering van de werkzaamheden van de commiss
 
 2. De leden, niet zijnde de voorzitter, die behoren tot de vaste kamer Brandveiligheid ontvangen een vaste vergoeding overeenkomend met het maximumsalaris van schaal 17, vermeld in paragraaf 6.3 van de CAO Rijk, waarbij de arbeidsduurfactor wordt vastgesteld op 4,6/36.
 
-3. De overige leden ontvangen van de commissie ontvangen een vergoeding per vergadering van € 360,63. Voor zover een lid van de commissie zitting heeft in zowel de vaste kamer brandveiligheid als in de ad hoc kamers of een daarvan, ontvangt het lid alleen de vergoeding bedoeld in het tweede lid.
+3. De overige leden ontvangen van de commissie ontvangen een vergoeding per vergadering van € 360,63. Voor zover een lid van de commissie zitting heeft in zowel de vaste kamer brandveiligheid als in de ad hoc kamers of een daarvan, ontvangt het lid alleen de vergoeding bedoeld in het tweede lid.
 
 4. De secretaris ontvangt een vaste vergoeding overeenkomend met het maximumsalaris van schaal 16, vermeld in paragraaf 6.3 van de CAO Rijk, waarbij de arbeidsduur wordt vastgesteld op 10/36 uur per week.
 
@@ -162,7 +138,7 @@ Een ieder die is betrokken bij de uitvoering van de werkzaamheden van de commiss
 
 1. Het [Besluit instelling onafhankelijke adviescommissie en raad voor praktijktoepassing brandveiligheidsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0026383) wordt ingetrokken.
 
-2. Dit besluit treedt in werking met ingang van de dag na plaatsing in de Staatscourant en werkt terug tot en met 1 juli 2015.
+2. Dit besluit treedt in werking met ingang van de dag na plaatsing in de Staatscourant en werkt terug tot en met 1 juli 2015.
 
 ##### Artikel 14
 

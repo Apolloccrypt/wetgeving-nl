@@ -1,48 +1,18 @@
 ---
 title: "Wet van 9 december 2015 tot vaststelling van een algemene kinderbijslagvoorziening voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet kinderbijslagvoorziening BES)"
+citeertitel: "Wet kinderbijslagvoorziening BES"
 identifier: "BWBR0037347"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037347"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "13346513"
-version_id: "25428262"
-internal_id: "C36299401"
-label_id: "13314674"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037347/2026-01-01/0"
-intitule_bron: "Stb.2015-507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-09"
-intitule_published: "2015-12-18"
-intitule_in_force: "2015-12-18"
-intitule_status: "goed"
-original_publication: "Stb.2018-424"
-original_signed_date: "2018-10-17"
-original_published_date: "2018-11-22"
-original_effect: "structuurwijziging"
-original_dossier: "34977"
-original_url_id: "stb-2018-424"
-entry_into_force_date: "2018-10-17"
-entry_into_force_dossier: "34977"
-jci_1_3: "jci1.3:c:BWBR0037347&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0037347&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet kinderbijslagvoorziening BES"
-signed_date: "2018-10-17"
-entry_into_force: "2018-10-17"
+publicatiedatum: 2018-10-17
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0037347"
+opgehaald: 2026-08-23
 ---
+
 # Wet van 9 december 2015 tot vaststelling van een algemene kinderbijslagvoorziening voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet kinderbijslagvoorziening BES)
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om te komen tot een algemene kinderbijslagvoorziening voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -50,13 +20,13 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 In deze wet en de daarop berustende bepalingen wordt mede verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **openbaar lichaam/openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- b. *openbaar lichaam/openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- c. **SVB:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- c. *SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- d. **uitreiziger:** persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan Onze Minister, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten de openbare lichamen bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
+- d. *uitreiziger:* persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan Onze Minister, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten de openbare lichamen bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
 
 ##### Artikel 2. Ingezetene
 
@@ -110,9 +80,25 @@ Onze Minister is belast met de uitvoering van deze wet.
 
 6. Geen recht op kinderbijslag BES bestaat voor degene die een uitreiziger is dan wel voor diens kind dat een uitreiziger is.
 
+##### Artikel 5a. Verdubbeling van de kinderbijslag bij intensieve zorg
+
+1. Een ingezetene heeft voor een tot zijn huishouden behorend kind dat drie jaar of ouder is en jonger dan 18 jaar, recht op een verdubbeling van het kinderbijslagbedrag BES, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), indien het kind is aangewezen op een bij of krachtens algemene maatregel van bestuur te bepalen mate van intensieve zorg.
+
+2. Om te bepalen of een kind intensieve zorg behoeft, wint Onze Minister een op medische gegevens gebaseerd advies in bij een door Onze Minister aangewezen rechtspersoon.
+
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid, waarbij in elk geval regels worden gesteld over:
+
+- a. de wijze van inschakeling van de rechtspersoon;
+
+- b. de wijze waarop wordt beoordeeld of er sprake is van intensieve zorg als bedoeld in het eerste lid;
+
+- c. de procedure alsmede de beoordelingscriteria waarop het advies, bedoeld in het tweede lid, wordt gebaseerd; en
+
+- d. de uitwisseling van gegevens tussen de in het tweede lid bedoelde rechtspersoon en Onze Minister.
+
 ##### Artikel 6. Samenloop kinderbijslag BES met studiefinanciering BES en studiefinanciering 2000
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Samenloop kinderbijslag BES en kinderbijslagregelingen die naar aard en strekking overeenkomen met de kinderbijslag BES
 
@@ -128,15 +114,15 @@ Recht op kinderbijslag BES over een kalendermaand heeft de rechthebbende die op 
 
 Het kinderbijslagbedrag BES bedraagt over een kalendermaand:
 
-- a. USD 38 per 1 januari 2026: USD 239 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Bonaire;
+- a. USD 38 *per 1 januari 2026: USD 239* per kind, indien rechthebbende ingezetene is van het openbaar lichaam Bonaire;
 
-- b. USD 38 per 1 januari 2026: USD 227 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Sint Eustatius;
+- b. USD 38 *per 1 januari 2026: USD 227* per kind, indien rechthebbende ingezetene is van het openbaar lichaam Sint Eustatius;
 
-- c. USD 38 per 1 januari 2026: USD 238 per kind, indien rechthebbende ingezetene is van het openbaar lichaam Saba.
+- c. USD 38 *per 1 januari 2026: USD 238* per kind, indien rechthebbende ingezetene is van het openbaar lichaam Saba.
 
 ##### Artikel 10. Wijziging kinderbijslagbedrag BES
 
-1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
 2. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden verhoogd. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in dat verband om advies vragen.
 
@@ -179,6 +165,14 @@ Het kinderbijslagbedrag BES bedraagt over een kalendermaand:
 ##### Artikel 14. Informatieplicht
 
 De rechthebbende, alsmede degene die in aanmerking wenst te komen voor kinderbijslag BES als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en, indien van toepassing, [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), is verplicht aan Onze Minister op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hem of haar redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op kinderbijslag BES of op het geldend maken van het recht op kinderbijslag BES, dat wordt betaald.
+
+##### Artikel 14a. Inlichtingenverplichting
+
+1. Een ieder is verplicht aan Onze Minister door hem gevraagde inlichtingen te geven in het kader van deze wet. De door Onze Minister verlangde inlichtingen omvatten ten minste de naam en de voornamen van de persoon van wie de inlichtingen worden gevraagd en het identificatienummer dat hem op grond van [artikel 8.86, negende lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.86) is toegekend dan wel van hem bekend is.
+
+2. De inlichtingen moeten desgevraagd schriftelijk worden verstrekt binnen een door Onze Minister schriftelijk te stellen termijn.
+
+3. Een ieder is verplicht om aan Onze Minister desgevraagd inzage te verlenen van boeken, bescheiden en andere informatiedragers, voor zover dit noodzakelijk is voor de uitvoering van deze wet.
 
 ##### Artikel 15. Controlevoorschriften
 
@@ -284,52 +278,6 @@ Een vordering van Onze Minister als bedoeld in [artikel 21](https://wetten.overh
 
 ### Hoofdstuk 3a. Bekendmaking, bezwaar en beroep
 
-##### Artikel 25. Te besteden middelen
-
-De op grond van deze wet uit te keren bedragen aan kinderbijslag BES als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Rijk.
-
-### Hoofdstuk 3a. Bekendmaking, bezwaar en beroep
-
-##### Artikel 26. Toezicht
-
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn de daartoe bij regeling van Onze Minister aangewezen functionarissen belast.
-
-2. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van toepassing, met uitzondering van de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
-
-### Hoofdstuk 4. Financiering
-
-##### Artikel 27. Wijziging van de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244)
-
-Vervallen
-
-##### Artikel 28. Wijziging van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281)
-
-Vervallen
-
-##### Artikel 29. Wijziging van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281)
-
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2016/471.
-
-Wijzigt de Wet inkomstenbelasting BES.
-
-##### Artikel 30. Wijziging van de [Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283)
-
-Vervallen
-
-### Hoofdstuk 6. Wijziging van andere wetten
-
-##### Artikel 31. Inwerkingtreding
-
-1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-2. In het in het eerste lid bedoelde besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
-
-##### Artikel 32. Citeertitel
-
-Deze wet wordt aangehaald als: Wet kinderbijslagvoorziening BES.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 24a. Bekendmaking beschikkingen
 
 1. De bekendmaking van een beschikking geschiedt door toezending of uitreiking aan de belanghebbende.
@@ -338,7 +286,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De beschikking vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede waar beroep kan worden ingesteld.
 
-##### Artikel 24b. Toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455)
+##### Artikel 24b. Toepasselijkheid Wet administratieve rechtspraak BES
 
 1. De belanghebbende kan tegen een beschikking op grond van deze wet beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
@@ -350,7 +298,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 4. Financiering
 
-### Hoofdstuk 4. Financiering
+##### Artikel 25. Te besteden middelen
+
+De op grond van deze wet uit te keren bedragen aan kinderbijslag BES als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=5a&z=2026-01-01&g=2026-01-01), en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Rijk.
+
+### Hoofdstuk 5. Overige bepalingen
+
+##### Artikel 26. Toezicht
+
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn de daartoe bij regeling van Onze Minister aangewezen functionarissen belast.
+
+2. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van toepassing, met uitzondering van de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ##### Artikel 26a. Advisering
 
@@ -358,56 +316,32 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 6. Wijziging van andere wetten
 
-### Hoofdstuk 7. Slotbepalingen
+##### Artikel 27. Wijziging van de Belastingwet BES
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*
 
-##### Artikel 14a. Inlichtingenverplichting
+##### Artikel 28. Wijziging van de Wet inkomstenbelasting BES
 
-1. Een ieder is verplicht aan Onze Minister door hem gevraagde inlichtingen te geven in het kader van deze wet. De door Onze Minister verlangde inlichtingen omvatten ten minste de naam en de voornamen van de persoon van wie de inlichtingen worden gevraagd en het identificatienummer dat hem op grond van [artikel 8.86, negende lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.86) is toegekend dan wel van hem bekend is.
+*Vervallen*
 
-2. De inlichtingen moeten desgevraagd schriftelijk worden verstrekt binnen een door Onze Minister schriftelijk te stellen termijn.
+##### Artikel 29. Wijziging van de Wet inkomstenbelasting BES
 
-3. Een ieder is verplicht om aan Onze Minister desgevraagd inzage te verlenen van boeken, bescheiden en andere informatiedragers, voor zover dit noodzakelijk is voor de uitvoering van deze wet.
+*Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2016/471.*
 
-#### Paragraaf 3. Betaling kinderbijslag BES
+*Wijzigt de Wet inkomstenbelasting BES.*
 
-### Hoofdstuk 3. Bestuurlijke boete en gegevensdeling
+##### Artikel 30. Wijziging van de Wet loonbelasting BES
 
-### Hoofdstuk 3a. Bekendmaking, bezwaar en beroep
-
-### Hoofdstuk 5. Overige bepalingen
+*Vervallen*
 
 ### Hoofdstuk 7. Slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 31. Inwerkingtreding
 
-##### Artikel 5a. Verdubbeling van de kinderbijslag bij intensieve zorg
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-1. Een ingezetene heeft voor een tot zijn huishouden behorend kind dat drie jaar of ouder is en jonger dan 18 jaar, recht op een verdubbeling van het kinderbijslagbedrag BES, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&hoofdstuk=2&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), indien het kind is aangewezen op een bij of krachtens algemene maatregel van bestuur te bepalen mate van intensieve zorg.
+2. In het in het eerste lid bedoelde besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
-2. Om te bepalen of een kind intensieve zorg behoeft, wint Onze Minister een op medische gegevens gebaseerd advies in bij een door Onze Minister aangewezen rechtspersoon.
+##### Artikel 32. Citeertitel
 
-3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid, waarbij in elk geval regels worden gesteld over:
-
-- a. de wijze van inschakeling van de rechtspersoon;
-
-- b. de wijze waarop wordt beoordeeld of er sprake is van intensieve zorg als bedoeld in het eerste lid;
-
-- c. de procedure alsmede de beoordelingscriteria waarop het advies, bedoeld in het tweede lid, wordt gebaseerd; en
-
-- d. de uitwisseling van gegevens tussen de in het tweede lid bedoelde rechtspersoon en Onze Minister.
-
-#### Paragraaf 2. Het geldend maken van het recht op kinderbijslag BES
-
-#### Paragraaf 3. Betaling kinderbijslag BES
-
-### Hoofdstuk 3. Bestuurlijke boete en gegevensdeling
-
-### Hoofdstuk 5. Overige bepalingen
-
-### Hoofdstuk 6. Wijziging van andere wetten
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet wordt aangehaald als: Wet kinderbijslagvoorziening BES.

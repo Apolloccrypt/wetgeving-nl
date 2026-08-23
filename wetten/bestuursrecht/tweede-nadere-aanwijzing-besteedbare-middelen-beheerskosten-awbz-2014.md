@@ -1,44 +1,18 @@
 ---
 title: "Aanwijzing Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2015, kenmerk Z-840692-141563, houdende tweede nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2014 (Tweede nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014)"
+citeertitel: "Tweede nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014"
 identifier: "BWBR0037232"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-11-26"
-last_updated: "2015-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037232"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13314703"
-version_id: "22805362"
-internal_id: "C32959071"
-label_id: "13282474"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037232/2015-11-26/0"
-intitule_bron: "Stcrt.2015-41790"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-11-17"
-intitule_published: "2015-11-25"
-intitule_in_force: "2015-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-41790"
-original_signed_date: "2015-11-17"
-original_published_date: "2015-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-41790"
-entry_into_force_date: "2015-11-26"
-jci_1_3: "jci1.3:c:BWBR0037232&z=2015-11-26&g=2015-11-26"
-jci_1_0: "1.0:c:BWBR0037232&g=2015-11-26"
-citeertitel_status: "officieel"
-short_title: "Tweede nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014"
-signed_date: "2015-11-17"
-entry_into_force: "2015-11-26"
+publicatiedatum: 2015-11-26
+laatste_update: 2015-11-26
+status: geldig
+toestand: 2015-11-26
+bron: "https://wetten.overheid.nl/BWBR0037232"
+opgehaald: 2026-08-23
 ---
+
 # Aanwijzing Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2015, kenmerk Z-840692-141563, houdende tweede nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2014 (Tweede nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014)
-
-Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -63,5 +37,3 @@ Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte
 ##### Artikel 6
 
 Deze aanwijzing wordt aangehaald als: Tweede nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014.
-
-Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.

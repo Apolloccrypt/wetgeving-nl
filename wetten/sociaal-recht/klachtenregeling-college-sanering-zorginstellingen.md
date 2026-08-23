@@ -1,48 +1,29 @@
 ---
 title: "Klachtenregeling College sanering zorginstellingen"
 identifier: "BWBR0037755"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-03-26"
-last_updated: "2016-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037755"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13444003"
-version_id: "23077062"
-internal_id: "C33350111"
-label_id: "13411174"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037755/2016-03-26/0"
-intitule_bron: "Stcrt.2016-15845"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-03-25"
-intitule_in_force: "2016-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-15845"
-original_published_date: "2016-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-15845"
-entry_into_force_date: "2016-03-26"
-jci_1_3: "jci1.3:c:BWBR0037755&z=2016-03-26&g=2016-03-26"
-jci_1_0: "1.0:c:BWBR0037755&g=2016-03-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-03-26"
+publicatiedatum: 2016-03-26
+laatste_update: 2016-03-26
+status: geldig
+toestand: 2016-03-26
+bron: "https://wetten.overheid.nl/BWBR0037755"
+opgehaald: 2026-08-23
 ---
+
 # Klachtenregeling College sanering zorginstellingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **Klacht:** iedere schriftelijke uiting van ongenoegen over de wijze waarop het College sanering zich jegens klager heeft gedragen; de gedraging van een persoon werkzaam onder de verantwoordelijkheid van het College sanering wordt aangemerkt als een gedraging van het College sanering.
+- a. *Klacht:* iedere schriftelijke uiting van ongenoegen over de wijze waarop het College sanering zich jegens klager heeft gedragen; de gedraging van een persoon werkzaam onder de verantwoordelijkheid van het College sanering wordt aangemerkt als een gedraging van het College sanering.
 
-- b. **Het College sanering:** het College sanering zorginstellingen.
+- b. *Het College sanering:* het College sanering zorginstellingen.
 
-- c. **De voorzitter:** de voorzitter van het College sanering zorginstellingen.
+- c. *De voorzitter:* de voorzitter van het College sanering zorginstellingen.
 
-- d. **De secretaris/ directeur van het College sanering:** verder te noemen de directeur.
+- d. *De secretaris/ directeur van het College sanering:* verder te noemen de directeur.
 
 ##### Artikel 2
 

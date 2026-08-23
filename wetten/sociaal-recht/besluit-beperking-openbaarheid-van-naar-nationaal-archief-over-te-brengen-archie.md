@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 1 september 2015, nr. 2015-0000231607, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit het archief van het College van Toezicht Sociale Verzekeringen (CTSV) van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1995–2001"
+citeertitel: "Besluit beperking openbaarheid van naar Nationaal Archief over te brengen archiefbescheiden van het College van Toezicht Sociale Verzekeringen (CTSV) van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1995–2001"
 identifier: "BWBR0036992"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-09-11"
-last_updated: "2015-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036992"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13253083"
-version_id: "22671802"
-internal_id: "C32504051"
-label_id: "13221074"
-dtd_version: "2.0"
-original_entry_into_force: "2015-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036992/2015-09-11/0"
-intitule_bron: "Stcrt.2015-28940"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-01"
-intitule_published: "2015-09-10"
-intitule_in_force: "2015-09-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-28940"
-original_signed_date: "2015-09-01"
-original_published_date: "2015-09-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-28940"
-entry_into_force_date: "2015-09-11"
-jci_1_3: "jci1.3:c:BWBR0036992&z=2015-09-11&g=2015-09-11"
-jci_1_0: "1.0:c:BWBR0036992&g=2015-09-11"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid van naar Nationaal Archief over te brengen archiefbescheiden van het College van Toezicht Sociale Verzekeringen (CTSV) van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1995–2001"
-signed_date: "2015-09-01"
-entry_into_force: "2015-09-11"
+publicatiedatum: 2015-09-11
+laatste_update: 2015-09-11
+status: geldig
+toestand: 2015-09-11
+bron: "https://wetten.overheid.nl/BWBR0036992"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 1 september 2015, nr. 2015-0000231607, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit het archief van het College van Toezicht Sociale Verzekeringen (CTSV) van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1995–2001
-
-Gelet op [artikel 15, lid 1, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 24 juni 2014 met kenmerk 13.732,
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van het College van Toezicht Sociale Verzekeringen van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1995–2001.
 
 ##### Artikel 1
 

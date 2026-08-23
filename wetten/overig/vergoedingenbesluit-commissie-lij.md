@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 7 maart 2016, nr. 722434, houdende de vaststelling van een vergoeding voor de leden en de secretaris van de Commissie Landelijk Instrumentarium Jeugdstrafrechtketen (Vergoedingenbesluit Commissie LIJ)"
+citeertitel: "Vergoedingenbesluit Commissie LIJ"
 identifier: "BWBR0037706"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-03-15"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037706"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "13437423"
-version_id: "23064232"
-internal_id: "C33331761"
-label_id: "13404614"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037706/2016-03-15/0"
-intitule_bron: "Stcrt.2016-12734"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-07"
-intitule_published: "2016-03-14"
-intitule_in_force: "2016-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-12734"
-original_signed_date: "2016-03-07"
-original_published_date: "2016-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-12734"
-entry_into_force_date: "2016-03-15"
-jci_1_3: "jci1.3:c:BWBR0037706&z=2016-03-15&g=2016-03-15"
-jci_1_0: "1.0:c:BWBR0037706&g=2016-03-15"
-citeertitel_status: "officieel"
-short_title: "Vergoedingenbesluit Commissie LIJ"
-signed_date: "2016-03-07"
-entry_into_force: "2016-03-15"
+publicatiedatum: 2016-03-15
+laatste_update: 2016-03-15
+status: geldig
+toestand: 2016-03-15
+bron: "https://wetten.overheid.nl/BWBR0037706"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 7 maart 2016, nr. 722434, houdende de vaststelling van een vergoeding voor de leden en de secretaris van de Commissie Landelijk Instrumentarium Jeugdstrafrechtketen (Vergoedingenbesluit Commissie LIJ)
-
-Gelet op [artikel 2, eerste en tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -57,5 +31,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vergoedingenbesluit Commissie LIJ.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

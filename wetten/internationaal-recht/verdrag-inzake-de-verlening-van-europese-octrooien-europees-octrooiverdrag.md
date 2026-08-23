@@ -8,7 +8,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBV0003819"
-opgehaald: 2026-08-22
+opgehaald: 2026-08-23
 ---
 
 # Verdrag inzake de verlening van Europese octrooien (Europees Octrooiverdrag)

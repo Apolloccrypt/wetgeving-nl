@@ -1,45 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid archief Raad van Arbeid ’s-Gravenhage 1919–1988"
 identifier: "BWBR0037020"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-09-25"
-last_updated: "2015-09-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037020"
+categorie: "Arbeidsrecht"
 soort: "zbo"
-stam_id: "13258703"
-version_id: "22686032"
-internal_id: "C32813291"
-label_id: "13226704"
-dtd_version: "2.0"
-original_entry_into_force: "2015-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037020/2015-09-25/0"
-intitule_bron: "Stcrt.2015-31115"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-07-01"
-intitule_published: "2015-09-24"
-intitule_in_force: "2015-09-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-31115"
-original_signed_date: "2015-07-01"
-original_published_date: "2015-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-31115"
-entry_into_force_date: "2015-09-25"
-jci_1_3: "jci1.3:c:BWBR0037020&z=2015-09-25&g=2015-09-25"
-jci_1_0: "1.0:c:BWBR0037020&g=2015-09-25"
-citeertitel_status: "redactioneel"
-signed_date: "2015-07-01"
-entry_into_force: "2015-09-25"
+publicatiedatum: 2015-09-25
+laatste_update: 2015-09-25
+status: geldig
+toestand: 2015-09-25
+bron: "https://wetten.overheid.nl/BWBR0037020"
+opgehaald: 2026-08-23
 ---
+
 # Besluit beperking openbaarheid archief Raad van Arbeid ’s-Gravenhage 1919–1988
-
-Gelet op [artikel 15, lid 1, onder a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. **25 juni 2015**, met kenmerk **782566**.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief Raad van Arbeid ’s-Gravenhage 1919–1988
 
 ##### Artikel 1
 

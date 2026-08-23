@@ -1,52 +1,18 @@
 ---
 title: "Rijkswet van 30 september 2015, houdende regeling voor Nederland en Curaçao tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en een woonplaatsfictie ter zake van erf- en schenkbelasting (Belastingregeling Nederland Curaçao)"
+citeertitel: "Belastingregeling Nederland Curaçao"
 identifier: "BWBR0037077"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2024-07-13"
-last_updated: "2024-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037077"
+categorie: "Belastingrecht"
 soort: "rijkswet"
-stam_id: "13272273"
-version_id: "22717632"
-internal_id: "C32847231"
-label_id: "13240644"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037077/2024-07-13/0"
-intitule_bron: "Stb.2015-348"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-30"
-intitule_published: "2015-10-09"
-intitule_in_force: "2015-10-09"
-intitule_status: "goed"
-original_publication: "Stb.2015-348"
-original_signed_date: "2015-09-30"
-original_published_date: "2015-10-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "33955"
-original_url_id: "stb-2015-348"
-entry_into_force_date: "2015-12-01"
-entry_into_force_dossier: "33955"
-jci_1_3: "jci1.3:c:BWBR0037077&z=2024-07-13&g=2024-07-13"
-jci_1_0: "1.0:c:BWBR0037077&g=2024-07-13"
-citeertitel_status: "officieel"
-short_title: "Belastingregeling Nederland Curaçao"
-signed_date: "2015-09-30"
-entry_into_force: "2015-12-01"
+publicatiedatum: 2015-12-01
+laatste_update: 2024-07-13
+status: geldig
+toestand: 2024-07-13
+bron: "https://wetten.overheid.nl/BWBR0037077"
+opgehaald: 2026-08-23
 ---
+
 # Rijkswet van 30 september 2015, houdende regeling voor Nederland en Curaçao tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en een woonplaatsfictie ter zake van erf- en schenkbelasting (Belastingregeling Nederland Curaçao)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de regeringen van Nederland en Curaçao het in onderling overleg raadzaam oordelen, dat op het terrein van de belastingen een nieuwe onderlinge regeling bij rijkswet wordt vastgesteld;
-
-Geleid door de wens van Nederland en Curaçao hun economische betrekkingen verder te ontwikkelen, hun samenwerking op belastinggebied te verbeteren en dubbele belasting te vermijden met betrekking tot de onder die regeling vallende belastingen zonder daarbij mogelijkheden te scheppen tot niet-heffing of verminderde heffing van belasting door middel van het ontduiken of het ontwijken van belasting waaronder door treaty-shopping-structuren die als doel hebben om inwoners van derde rechtsgebieden indirect het voordeel te laten genieten van de in deze rijkswet voorziene voordelen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-De bepalingen vinden toepassing voor belastingjaren en belastingtijdvakken die aanvangen of, in geval van aan de bron geheven belastingen, voor betalingen die zijn gedaan op of na 1 januari 2025.
 
 ### Hoofdstuk I. Reikwijdte van de rijkswet
 
@@ -82,39 +48,39 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 - a. (hierna te noemen: «Nederlandse belasting»);
 
-- in het Europese deel van Nederland:
+   - in het Europese deel van Nederland:
 
-- 1°. de inkomstenbelasting;
+      - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+      - 2°. de loonbelasting;
 
-- 3°. de vennootschapsbelasting, daaronder begrepen het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168);
+      - 3°. de vennootschapsbelasting, daaronder begrepen het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168);
 
-- 4°. de dividendbelasting;
+      - 4°. de dividendbelasting;
 
-- 5°. de bronbelasting; en
+      - 5°. de bronbelasting; en
 
-- In het Caribische deel van Nederland:
+   - In het Caribische deel van Nederland:
 
-- 1°. de inkomstenbelasting;
+      - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+      - 2°. de loonbelasting;
 
-- 3°. de vastgoedbelasting;
+      - 3°. de vastgoedbelasting;
 
-- 4°. de opbrengstbelasting;
+      - 4°. de opbrengstbelasting;
 
-- 5°. het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028161), het [Mijnbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028574) of de [Petroleumwet Saba Bank BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028163);
+      - 5°. het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028161), het [Mijnbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028574) of de [Petroleumwet Saba Bank BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028163);
 
 - b. in Curaçao: (hierna te noemen: «Curaçaose belasting»).
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+   - 2°. de loonbelasting;
 
-- 3°. de winstbelasting; en
+   - 3°. de winstbelasting; en
 
-- 4°. de dividendbelasting;
+   - 4°. de dividendbelasting;
 
 4. De rijkswet is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van inwerkingtreding van deze rijkswet naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de landen doen elkaar mededeling van alle wezenlijke wijzigingen die in hun belastingwet- en regelgeving zijn aangebracht. Zij kunnen hierover met elkaar in overleg treden met het oog op de toepassing van deze rijkswet.
 
@@ -128,9 +94,9 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 - b. betekent de uitdrukking «Nederland»:
 
-- 1°. het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan zijn territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent; en
+   - 1°. het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan zijn territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent; en
 
-- 2°. het Caribische deel van Nederland, dat is gelegen in de Caribische Zee en bestaat uit de eilandgebieden Bonaire, Sint Eustatius en Saba, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan de territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent, maar met uitzondering van het deel dat betrekking heeft op Aruba, Curaçao en Sint Maarten;
+   - 2°. het Caribische deel van Nederland, dat is gelegen in de Caribische Zee en bestaat uit de eilandgebieden Bonaire, Sint Eustatius en Saba, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan de territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent, maar met uitzondering van het deel dat betrekking heeft op Aruba, Curaçao en Sint Maarten;
 
 - c. betekent de uitdrukking «Curaçao» het land Curaçao met inbegrip van de territoriale zee en elk gebied buiten deze territoriale zee van dit deel van het Koninkrijk waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationale recht, rechtsmacht heeft of soevereine rechten uitoefent, maar met uitzondering van het deel daarvan dat betrekking heeft op Aruba, het Caribische deel van Nederland en Sint Maarten;
 
@@ -148,21 +114,21 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 - j. betekent de uitdrukking «pensioenfonds»:
 
-- 1°. elk lichaam dat inwoner is van een land:
+   - 1°. elk lichaam dat inwoner is van een land:
 
-- aa. dat in het algemeen is vrijgesteld van belastingen naar het inkomen in dat land;
+      - aa. dat in het algemeen is vrijgesteld van belastingen naar het inkomen in dat land;
 
-- bb. waarvan de werkzaamheden voornamelijk bestaan uit het beheren of verstrekken van pensioenen; en
+      - bb. waarvan de werkzaamheden voornamelijk bestaan uit het beheren of verstrekken van pensioenen; en
 
-- cc. dat ingevolge de wettelijke bepalingen van een land erkend is en onder toezicht staat; alsmede
+      - cc. dat ingevolge de wettelijke bepalingen van een land erkend is en onder toezicht staat; alsmede
 
-- 2°. elk lichaam dat inwoner is van een land en dat zich geheel of nagenoeg geheel bezighoudt met het beheren en beleggen voor lichamen als bedoeld in subonderdeel 1°;
+   - 2°. elk lichaam dat inwoner is van een land en dat zich geheel of nagenoeg geheel bezighoudt met het beheren en beleggen voor lichamen als bedoeld in subonderdeel 1°;
 
 - k. betekent de uitdrukking «bevoegde autoriteit»:
 
-- 1°. wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1°. wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2°. wat Curaçao betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+   - 2°. wat Curaçao betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van deze rijkswet door een land op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van dat land met betrekking tot de belastingen waarop deze rijkswet van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van dat land prevaleert boven een betekenis die volgens andere wetgeving van dat land aan die uitdrukking wordt gegeven.
 
@@ -290,7 +256,7 @@ de in het andere land verrichte activiteiten bestaande uit de voornoemde dienste
 
 4. Niettegenstaande de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=2&z=2024-07-13&g=2024-07-13), zijn de bepalingen van dit artikel tevens van toepassing op belastingen geheven op basis van bruto ontvangsten uit het vervoer van passagiers en vracht in het internationale verkeer.
 
-5. Niettegenstaande de voorgaande bepalingen van dit artikel en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=II&artikel=4&z=2024-07-13&g=2024-07-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=7&z=2024-07-13&g=2024-07-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=13&z=2024-07-13&g=2024-07-13), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=20&z=2024-07-13&g=2024-07-13), zijn de voordelen uit de exploitatie van luchtvaartuigen in het internationale verkeer, alsmede de voordelen uit de vervreemding van luchtvaartuigen die in het internationale verkeer worden geëxploiteerd en van roerende zaken die ter zake daarvan worden gebruikt, slechts in Nederland belastbaar indien deze voordelen door Nederland mogen worden belast krachtens het protocol van 7 april 2004 tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, met protocol, gesloten te Parijs op 16 maart 1973, (Trb . 2004, 150), in samenhang met dat verdrag, of krachtens een daarvoor in de plaats gekomen verdrag.
+5. Niettegenstaande de voorgaande bepalingen van dit artikel en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=II&artikel=4&z=2024-07-13&g=2024-07-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=7&z=2024-07-13&g=2024-07-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=13&z=2024-07-13&g=2024-07-13), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=20&z=2024-07-13&g=2024-07-13), zijn de voordelen uit de exploitatie van luchtvaartuigen in het internationale verkeer, alsmede de voordelen uit de vervreemding van luchtvaartuigen die in het internationale verkeer worden geëxploiteerd en van roerende zaken die ter zake daarvan worden gebruikt, slechts in Nederland belastbaar indien deze voordelen door Nederland mogen worden belast krachtens het protocol van 7 april 2004 tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, met protocol, gesloten te Parijs op 16 maart 1973, (Trb . 2004, 150), in samenhang met dat verdrag, of krachtens een daarvoor in de plaats gekomen verdrag.
 
 ##### Artikel 9. Gelieerde ondernemingen
 
@@ -308,11 +274,11 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 1. Dividenden betaald door een lichaam dat inwoner is van een land aan een inwoner van het andere land, mogen in dat andere land worden belast.
 
-2. Deze dividenden mogen echter ook in het land waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van dat land worden belast, maar indien de uiteindelijk gerechtigde tot de dividenden een inwoner van het andere land is, mag de aldus geheven belasting 15 percent van het brutobedrag van de dividenden niet overschrijden.
+2. Deze dividenden mogen echter ook in het land waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van dat land worden belast, maar indien de uiteindelijk gerechtigde tot de dividenden een inwoner van het andere land is, mag de aldus geheven belasting 15 percent van het brutobedrag van de dividenden niet overschrijden.
 
 3. Niettegenstaande de bepalingen van het tweede lid, zijn dividenden bedoeld in het eerste lid slechts in het andere land belastbaar, indien de uiteindelijk gerechtigde tot de dividenden:
 
-- a. een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat inwoner is van het andere land en onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt gedurende een periode van 365 dagen die tevens omvat de dag van betaling van het dividend, mits het een kwalificerend lichaam is als bedoeld in het vierde lid en waarbij voor het berekenen van die periode van 365 dagen geen rekening wordt gehouden met veranderingen van gerechtigdheid die het rechtstreekse gevolg zijn van een bedrijfsreorganisatie zoals een fusie of een splitsing van de vennootschap die de aandelen bezit of de dividenden betaalt;
+- a. een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat inwoner is van het andere land en onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt gedurende een periode van 365 dagen die tevens omvat de dag van betaling van het dividend, mits het een kwalificerend lichaam is als bedoeld in het vierde lid en waarbij voor het berekenen van die periode van 365 dagen geen rekening wordt gehouden met veranderingen van gerechtigdheid die het rechtstreekse gevolg zijn van een bedrijfsreorganisatie zoals een fusie of een splitsing van de vennootschap die de aandelen bezit of de dividenden betaalt;
 
 - b. een land, of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan, is; of
 
@@ -322,21 +288,21 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 - a. een lichaam waarvan:
 
-- 1°. de aandelen regelmatig worden verhandeld op een erkende effectenbeurs; of
+   - 1°. de aandelen regelmatig worden verhandeld op een erkende effectenbeurs; of
 
-- 2°. ten minste 50 percent van de aandelen onmiddellijk in eigendom is van een of meer lichamen waarvan de aandelen regelmatig worden verhandeld op een erkende effectenbeurs, maar uitsluitend indien de laatstbedoelde lichamen:
+   - 2°. ten minste 50 percent van de aandelen onmiddellijk in eigendom is van een of meer lichamen waarvan de aandelen regelmatig worden verhandeld op een erkende effectenbeurs, maar uitsluitend indien de laatstbedoelde lichamen:
 
-- aa. inwoner zijn van een van de landen; of
+      - aa. inwoner zijn van een van de landen; of
 
-- bb. recht zouden hebben op voordelen die gelijk zijn aan of gunstiger dan de voordelen uit hoofde van het derde lid ingevolge een allesomvattende regeling tot het vermijden van dubbele belasting tussen hun woonland en het land waar aanspraak wordt gemaakt op de voordelen van het derde lid of ingevolge een multilaterale overeenkomst waarbij het land van vestiging en het land waar aanspraak wordt gemaakt op de voordelen van het derde lid partij zijn;
+      - bb. recht zouden hebben op voordelen die gelijk zijn aan of gunstiger dan de voordelen uit hoofde van het derde lid ingevolge een allesomvattende regeling tot het vermijden van dubbele belasting tussen hun woonland en het land waar aanspraak wordt gemaakt op de voordelen van het derde lid of ingevolge een multilaterale overeenkomst waarbij het land van vestiging en het land waar aanspraak wordt gemaakt op de voordelen van het derde lid partij zijn;
 
 - b. een lichaam dat het hoofdkantoor is van een multinationale groep van vennootschappen en dat een wezenlijk deel verzorgt van het algemene toezicht op en het bestuur van de groep en van de administratie daarvan, of een wezenlijk deel verschaft van de financiering van de groep, mits dat lichaam de onafhankelijke discretionaire bevoegdheden heeft en uitoefent voor het verrichten van deze functies, met dien verstande dat een lichaam voor dit doel uitsluitend als hoofdkantoor wordt beschouwd indien:
 
-- 1°. de groep van vennootschappen bestaat uit ondernemingen die inwoner zijn van en zich bezighouden met bedrijfsmatige activiteiten in ten minste vijf landen of vijf groepen van landen en deze bedrijfsmatige activiteiten in elk van de vijf landen (of vijf groepen van landen) ten minste 10 percent van het bruto-inkomen van de groep genereren;
+   - 1°. de groep van vennootschappen bestaat uit ondernemingen die inwoner zijn van en zich bezighouden met bedrijfsmatige activiteiten in ten minste vijf landen of vijf groepen van landen en deze bedrijfsmatige activiteiten in elk van de vijf landen (of vijf groepen van landen) ten minste 10 percent van het bruto-inkomen van de groep genereren;
 
-- 2°. niet meer dan 50 percent van zijn bruto-inkomen afkomstig is uit het land waarvan het lichaam dat de dividenden betaalt inwoner is; en
+   - 2°. niet meer dan 50 percent van zijn bruto-inkomen afkomstig is uit het land waarvan het lichaam dat de dividenden betaalt inwoner is; en
 
-- 3°. op dat lichaam in het land waarvan het inwoner is dezelfde regels met betrekking tot belastingen naar het inkomen van toepassing zijn als op andere lichamen die in dat land zijn gevestigd en zich aldaar met bedrijfsmatige activiteiten bezighouden (waaronder niet worden begrepen activiteiten die bestaan uit financiële dienstverlening, royaltybetalingen, verzekerings- of herverzekeringsactiviteiten);
+   - 3°. op dat lichaam in het land waarvan het inwoner is dezelfde regels met betrekking tot belastingen naar het inkomen van toepassing zijn als op andere lichamen die in dat land zijn gevestigd en zich aldaar met bedrijfsmatige activiteiten bezighouden (waaronder niet worden begrepen activiteiten die bestaan uit financiële dienstverlening, royaltybetalingen, verzekerings- of herverzekeringsactiviteiten);
 
 - c. een lichaam dat in het land waarvan het inwoner is voltijds blijvend werk verschaft aan doorgaans ten minste drie natuurlijke personen die zich zelfstandig bezighouden met de werkzaamheden, het vermogen en de inkomsten van dat lichaam en wier bevoegdheden en verantwoordelijkheden in overeenstemming zijn met de aard en functie van die werkzaamheden, de omvang van dat vermogen en die inkomsten en mits zij inwoner zijn van het land waarvan dat lichaam inwoner is.
 
@@ -368,7 +334,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet impliciet of expliciet is voorbehouden aan een beperkte groep investeerders.
 
-8. Niettegenstaande de bepalingen van het tweede lid, zijn dividenden bedoeld in het eerste lid slechts in het andere land belastbaar, indien de uiteindelijk gerechtigde tot de dividenden een lichaam is dat inwoner is van het andere land en waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat voor ten minste 50 percent middellijk of onmiddellijk in bezit is van een of meer natuurlijke personen die inwoner zijn van een van de landen en mits dat lichaam onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt.
+8. Niettegenstaande de bepalingen van het tweede lid, zijn dividenden bedoeld in het eerste lid slechts in het andere land belastbaar, indien de uiteindelijk gerechtigde tot de dividenden een lichaam is dat inwoner is van het andere land en waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat voor ten minste 50 percent middellijk of onmiddellijk in bezit is van een of meer natuurlijke personen die inwoner zijn van een van de landen en mits dat lichaam onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt.
 
 9. De bepalingen van het tweede, derde, vijfde en achtste lid, laten de belastingheffing van het lichaam ter zake van de winst waaruit de dividenden worden betaald onverlet.
 
@@ -456,7 +422,7 @@ mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet 
 
 2. Pensioenen en andere betalingen krachtens de bepalingen van een sociaal zekerheidsstelsel van een land aan een inwoner van het andere land mogen in het eerstbedoelde land worden belast.
 
-3. Niettegenstaande de bepalingen van het eerste lid, mogen betalingen waarop dat lid van toepassing is ook worden belast in het land van waaruit zij afkomstig zijn in overeenstemming met de wetgeving van dat land, maar in het geval deze betalingen een periodiek karakter hebben mag de aldus geheven belasting 15 percent van het brutobedrag van de betalingen niet overschrijden.
+3. Niettegenstaande de bepalingen van het eerste lid, mogen betalingen waarop dat lid van toepassing is ook worden belast in het land van waaruit zij afkomstig zijn in overeenstemming met de wetgeving van dat land, maar in het geval deze betalingen een periodiek karakter hebben mag de aldus geheven belasting 15 percent van het brutobedrag van de betalingen niet overschrijden.
 
 4. Een pensioen, andere soortgelijke beloning of lijfrente, wordt geacht afkomstig te zijn uit een land voor zover de bijdragen of betalingen samenhangend met dat pensioen of die andere soortgelijke beloning of lijfrente, of de aanspraken hierop, in dat land in aanmerking zijn gekomen voor fiscale faciliëring. De overdracht van een pensioen, andere soortgelijke beloning of lijfrente, van een pensioenfonds of een verzekeringsmaatschappij gevestigd in een land naar een pensioenfonds of een verzekeringsmaatschappij gevestigd in het andere land of een derde land beperkt op geen enkele wijze de heffingsrechten van het eerstbedoelde land ingevolge dit artikel.
 
@@ -660,7 +626,7 @@ In afwijking in zoverre van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 30. Tijdelijke regeling deelnemingsverhoudingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31. Overgangsregeling ter zake van nederlandse schenk- en erfbelasting
 
@@ -676,11 +642,11 @@ Vervallen
 
 ##### Artikel 33. Eu-spaarrenterichtlijn
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34. Einde overgangsperiode eu-spaarrenterichtlijn
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35. Buitenwerkingstelling
 
@@ -690,16 +656,14 @@ Vervallen
 
 ##### Artikel 36. Invoeringswetgeving
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel 37. Inwerkingtreding
 
-1. Deze rijkswet treedt in werking met ingang van de eerste dag van de tweede maand volgend op de datum van uitgifte van het Staatsblad waarin deze wordt geplaatst en de bepalingen ervan vinden toepassing voor belastingjaren en belastingtijdvakken die aanvangen of, in geval van aan de bron geheven belastingen, voor betalingen die zijn gedaan op of na 1 januari van het kalenderjaar dat volgt op het kalenderjaar waarin deze rijkswet in werking is getreden.
+1. Deze rijkswet treedt in werking met ingang van de eerste dag van de tweede maand volgend op de datum van uitgifte van het Staatsblad waarin deze wordt geplaatst en de bepalingen ervan vinden toepassing voor belastingjaren en belastingtijdvakken die aanvangen of, in geval van aan de bron geheven belastingen, voor betalingen die zijn gedaan op of na 1 januari van het kalenderjaar dat volgt op het kalenderjaar waarin deze rijkswet in werking is getreden.
 
 2. Behoudens voor zover in deze rijkswet anders bepaald, vindt de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) tussen Nederland en Curaçao geen toepassing meer met ingang van de dag van inwerkingtreding van deze rijkswet, met dien verstande dat de bepalingen ervan van toepassing blijven voor belastingjaren en belastingtijdvakken of betalingen waarop ingevolge het eerste lid de bepalingen van deze rijkswet nog niet van toepassing zijn geworden.
 
 ##### Artikel 38. Citeertitel
 
 Deze rijkswet wordt aangehaald als: Belastingregeling Nederland Curaçao.
-
-Lasten en bevelen dat deze in het Staatsblad en het Publicatieblad van Curaçao zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

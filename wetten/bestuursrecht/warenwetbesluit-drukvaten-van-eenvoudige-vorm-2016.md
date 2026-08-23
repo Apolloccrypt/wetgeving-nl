@@ -1,86 +1,56 @@
 ---
 title: "Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit drukvaten van eenvoudige vorm 2016 en wijziging van het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit drukvaten van eenvoudige vorm 2016)"
+citeertitel: "Warenwetbesluit drukvaten van eenvoudige vorm 2016"
 identifier: "BWBR0037646"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-02-01"
-last_updated: "2020-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037646"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "13418513"
-version_id: "23026872"
-internal_id: "C33288261"
-label_id: "13386084"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037646/2020-02-01/0"
-intitule_bron: "Stb.2016-79"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-17"
-intitule_published: "2016-02-22"
-intitule_in_force: "2016-02-22"
-intitule_status: "goed"
-original_publication: "Stb.2016-79"
-original_signed_date: "2016-02-17"
-original_published_date: "2016-02-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-79"
-entry_into_force_date: "2016-02-23"
-jci_1_3: "jci1.3:c:BWBR0037646&z=2020-02-01&g=2020-02-01"
-jci_1_0: "1.0:c:BWBR0037646&g=2020-02-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit drukvaten van eenvoudige vorm 2016"
-signed_date: "2016-02-17"
-entry_into_force: "2016-02-23"
+publicatiedatum: 2016-02-23
+laatste_update: 2020-02-01
+status: geldig
+toestand: 2020-02-01
+bron: "https://wetten.overheid.nl/BWBR0037646"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit drukvaten van eenvoudige vorm 2016 en wijziging van het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit drukvaten van eenvoudige vorm 2016)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 18 december 2015, nr.2015-0000309180;
-
-Gelet op [richtlijn nr. 2014/29](32014L0029)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van drukvaten van eenvoudige vorm (herschikking) (PbEU 2014, L 96), alsmede op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7), [7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) en [32b van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 januari 2016, nr. W12.15.0459/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van17 februari 2016, nr. 2016-0000017842;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepaling
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **richtlijn:** [richtlijn nr. 2014/29](32014L0029)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van drukvaten van eenvoudige vorm (herschikking) (PbEU 2014, L 96);
+- a. *richtlijn:*
+ richtlijn nr. 2014/29/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van drukvaten van eenvoudige vorm (herschikking) (PbEU 2014, L 96);
 
-- b. **accreditatie:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- b. *accreditatie:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- c. **drukvaten:** hetgeen artikel 1 van de richtlijn daaronder verstaat;
+- c. *drukvaten:* hetgeen artikel 1 van de richtlijn daaronder verstaat;
 
-- d. **CE-markering:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- d. *CE-markering:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- e. **conformiteitsbeoordeling:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- e. *conformiteitsbeoordeling:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- f. **distributeur:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- f. *distributeur:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- g. **EU-conformiteitsbeoordelingsinstantie:** conformiteitsbeoordelingsinstantie, genoemd in artikel 2 van de richtlijn;
+- g. *EU-conformiteitsbeoordelingsinstantie:* conformiteitsbeoordelingsinstantie, genoemd in artikel 2 van de richtlijn;
 
-- h. **fabrikant:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- h. *fabrikant:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- i. **geharmoniseerde norm:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- i. *geharmoniseerde norm:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- j. **gemachtigde:** hetgeen artikel 2 van richtlijn daaronder verstaat;
+- j. *gemachtigde:* hetgeen artikel 2 van richtlijn daaronder verstaat;
 
-- k. **importeur:** hetgeen artikel 2 van richtlijn daaronder verstaat;
+- k. *importeur:* hetgeen artikel 2 van richtlijn daaronder verstaat;
 
-- l. **in de handel brengen:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- l. *in de handel brengen:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- m. **marktdeelnemer:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- m. *marktdeelnemer:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- n. **nationale accreditatie-instantie:** nationale accreditatie-instantie bedoeld in [artikel 2 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=2);
+- n. *nationale accreditatie-instantie:* nationale accreditatie-instantie bedoeld in [artikel 2 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=2);
 
-- o. **op de markt aanbieden:** hetgeen artikel 2 van de richtlijn daaronder verstaat; en
+- o. *op de markt aanbieden:* hetgeen artikel 2 van de richtlijn daaronder verstaat; en
 
-- p. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
+- p. *wet:*
+ [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
 
 2. Dit besluit is niet van toepassing op drukvaten als bedoeld in artikel 1, tweede lid, van de richtlijn.
 
@@ -250,32 +220,30 @@ Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden me
 
 3. Een drukvat wordt op passende wijze in gebruik genomen en wordt niet voor een ander doel gebruikt dan waarvoor dit bestemd is.
 
-##### Artikel 17. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
+##### Artikel 17. Wijziging van het Warenwetbesluit bestuurlijke boeten
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
+*Wijzigt het Warenwetbesluit bestuurlijke boeten.*
 
 ##### Artikel 18. Overgangsbepaling
 
-1. Producten die voldoen aan het [Warenwetbesluit drukvaten van eenvoudige vorm](https://wetten.overheid.nl/jci1.3:c:BWBR0005627), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden genomen.
+1. Producten die voldoen aan het [Warenwetbesluit drukvaten van eenvoudige vorm](https://wetten.overheid.nl/jci1.3:c:BWBR0005627), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden genomen.
 
-2. Het is verboden om na 1 juli 2017 drukvaten in de handel te brengen, op de markt aan te bieden of in gebruik te nemen of te hebben die voor 1 juli 1992 zijn vervaardigd.
+2. Het is verboden om na 1 juli 2017 drukvaten in de handel te brengen, op de markt aan te bieden of in gebruik te nemen of te hebben die voor 1 juli 1992 zijn vervaardigd.
 
 3. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=20&z=2020-02-01&g=2020-02-01), van dit besluit wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=10&z=2020-02-01&g=2020-02-01).
 
-##### Artikel 19. Intrekking [Warenwetbesluit drukvaten van eenvoudige vorm](https://wetten.overheid.nl/jci1.3:c:BWBR0005627)
+##### Artikel 19. Intrekking Warenwetbesluit drukvaten van eenvoudige vorm
 
 1. Het [Warenwetbesluit drukvaten van eenvoudige vorm](https://wetten.overheid.nl/jci1.3:c:BWBR0005627) wordt ingetrokken.
 
-2. Artikel IV van het Besluit van 7 september 2009 tot wijziging van het Arbeidsomstandighedenbesluit en enige Warenwetbesluiten in verband met de herziening van het stelsel van certificatie (Stb. 2009, 395) vervalt.
+2. Artikel IV van het Besluit van 7 september 2009 tot wijziging van het Arbeidsomstandighedenbesluit en enige Warenwetbesluiten in verband met de herziening van het stelsel van certificatie (Stb. 2009, 395) vervalt.
 
 ##### Artikel 20. Inwerkingtreding
 
 1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=1&z=2020-02-01&g=2020-02-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2020-02-01&g=2020-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=12&z=2020-02-01&g=2020-02-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=13&z=2020-02-01&g=2020-02-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=14&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=2&z=2020-02-01&g=2020-02-01) en [15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=15&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
+2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=2&z=2020-02-01&g=2020-02-01) en [15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=15&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
 
 ##### Artikel 21. Citeertitel
 
 Dit besluit wordt aangehaald als: Warenwetbesluit drukvaten van eenvoudige vorm 2016.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

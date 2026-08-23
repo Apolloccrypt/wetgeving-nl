@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 4 september 2015 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Volkel (Luchthavenbesluit Volkel)"
+citeertitel: "Luchthavenbesluit Volkel"
 identifier: "BWBR0037075"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037075"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13271003"
-version_id: "22711792"
-internal_id: "C32841291"
-label_id: "13239264"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037075/2024-01-01/0"
-intitule_bron: "Stb.2015-347"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-04"
-intitule_published: "2015-10-08"
-intitule_in_force: "2015-10-08"
-intitule_status: "goed"
-original_publication: "Stb.2015-347"
-original_signed_date: "2015-09-04"
-original_published_date: "2015-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2015-347"
-entry_into_force_date: "2015-11-01"
-jci_1_3: "jci1.3:c:BWBR0037075&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0037075&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Luchthavenbesluit Volkel"
-signed_date: "2015-09-04"
-entry_into_force: "2015-11-01"
+publicatiedatum: 2015-11-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0037075"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 4 september 2015 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Volkel (Luchthavenbesluit Volkel)
-
-Op de voordracht van onze Minister van Defensie van 16 juni 2015, nr. BS2015012434, Directie Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Gelet op [artikel 10.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.15);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 15 juli 2015, No.W07.15.0197/II);
-
-Gezien het nader rapport van onze Minister van Defensie van 28 augustus 2015, nr. BS2015016446, Directie Juridische Zaken, uitgebracht in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu);
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,33 +20,34 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **extramurale opslag of verwerking:** opslag of verwerking anders dan in een volledig afgesloten gebouw;
+- a. *extramurale opslag of verwerking:* opslag of verwerking anders dan in een volledig afgesloten gebouw;
 
-- b. **gebruiksjaar:** de periode van een jaar die loopt van 1 januari tot en met 31 december;
+- b. *gebruiksjaar:* de periode van een jaar die loopt van 1 januari tot en met 31 december;
 
-- c. **recreatief burgerluchtverkeer:** luchthavenluchtverkeer in de vorm van modelvliegen, motorsportvliegen, sleepvliegen of zweefvliegen, als bedoeld in [artikel 20 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=20);
+- c. *recreatief burgerluchtverkeer:* luchthavenluchtverkeer in de vorm van modelvliegen, motorsportvliegen, sleepvliegen of zweefvliegen, als bedoeld in [artikel 20 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=20);
 
-- d. **uniforme daglichtperiode:** het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00' N en 05°00' O op zeeniveau;
+- d. *uniforme daglichtperiode:* het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00' N en 05°00' O op zeeniveau;
 
-- e. **vliegtuigbeweging:** start of landing van een vliegtuig van of op de luchthaven;
+- e. *vliegtuigbeweging:* start of landing van een vliegtuig van of op de luchthaven;
 
-- f. **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+- f. *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 ### Hoofdstuk 2. Het luchthavengebied en het beperkingengebied
 
 ##### Artikel 2.1
 
-1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
+1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
-2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=2&z=2024-01-01&g=2024-01-01) bij dit besluit.
+2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=2&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 3. Het beperkingengebied is samengesteld uit:
 
-- a. het gebied behorende bij de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, dat als zodanig is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit;
+- a. het gebied behorende bij de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, dat als zodanig is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit;
 
 - b. het gebied waarbinnen maximaal toelaatbare hoogten gelden voor objecten in, op of boven de grond zoals dat voortvloeit uit [artikel 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2024-01-01&g=2024-01-01), dat als zodanig is aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=5&z=2024-01-01&g=2024-01-01)bij dit besluit;
 
-- c. het gebied waarbinnen het verrichten of toelaten van een bepaalde activiteit binnen de in [artikel 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2024-01-01&g=2024-01-01) aangewezen categorieën niet is toegestaan, dat als zodanig is aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=6&z=2024-01-01&g=2024-01-01) bij dit besluit.
+- c. het gebied waarbinnen het verrichten of toelaten van een bepaalde activiteit binnen de in [artikel 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2024-01-01&g=2024-01-01) aangewezen categorieën niet is toegestaan, dat als zodanig is aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=6&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 ### Hoofdstuk 3. Functie en gebruik van de locatie
 
@@ -92,7 +61,7 @@ De locaties die zijn bestemd voor het banenstelsel van de luchthaven, de rolbane
 
 ##### Artikel 3.2.1
 
-De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de functie en het gebruik van de locaties zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 65 Kosteneenheden.
+De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de functie en het gebruik van de locaties zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 65 Kosteneenheden.
 
 ##### Artikel 3.2.2
 
@@ -102,7 +71,7 @@ De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wet
 
 1. Op de locaties die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=6&z=2024-01-01&g=2024-01-01) bij dit besluit is het verrichten of toelaten van een activiteit binnen de volgende categorieën niet toegestaan:
 
-- a. oppervlaktewateren met een oppervlakte van meer dan 3 hectare;
+- a. oppervlaktewateren met een oppervlakte van meer dan 3 hectare;
 
 - b. natuurbeschermingsgebieden en vogelbeschermingsgebieden;
 
@@ -124,7 +93,7 @@ De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wet
 
 ##### Artikel 4.1.1
 
-Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor militair luchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit.
+Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor militair luchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 ##### Artikel 4.1.2
 
@@ -189,39 +158,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de kalendermaand 
 ##### Artikel 5.4
 
 Dit besluit wordt aangehaald als: Luchthavenbesluit Volkel.
-
-## Bijlage 1. Kaart luchthavengebied
-
-## Bijlage 2. Kaart beperkingengebied
-
-## Bijlage 3. Kaart geluidszone
-
-## Bijlage 4. Kaart obstakelbeheergebied vliegfunnel en IHCS
-
-## Bijlage 5. Kaart obstakelgebied instrument landingssysteem
-
-## Bijlage 6. Kaart vogelbeheersgebied
-
-## Bijlage 7. Evaluatie- en monitoringsprogramma
-
-[Artikel 11.5 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=11.5) bepaalt dat de milieugevolgen van een besluit ten behoeve waarvan een Milieueffectrapport is opgesteld, geëvalueerd moeten worden. Deze bepaling geldt ook voor het luchthavenbesluit Volkel en is een verantwoordelijkheid van de Minister van Defensie en de Staatssecretaris van Infrastructuur en Milieu.
-
-Doel van de evaluatie is het bepalen van de daadwerkelijke effecten van de activiteit op het milieu door het verzamelen van gegevens over de feitelijke ontwikkeling van de milieubelasting van de luchthaven en de omgeving en het toetsen van de prognoses over de effecten van die activiteit in het milieueffectrapport, opdat zo nodig bijgestuurd kan worden.
-
-De evaluatie zal onder de verantwoordelijkheid van het CLSK worden uitgevoerd, die over de resultaten daarvan rapporteert aan de Minister van Defensie.
-
-De volgende punten dienen bij de evaluatie in kaart te worden gebracht:
-
-- –. de bijdrage van het luchtverkeer aan de geluidsbelasting zal vergeleken dienen te worden met de in het MER opgenomen vooronderstelde geluidsbelasting en de in de aanwijzing opgenomen geluidszone;
-
-- –. externe ontwikkelingen, maar ook nieuwe berekeningsmethodieken c.q. meetmethoden, welke relevant zijn voor de gekozen variant.
-
-De volgende aspecten zullen in de evaluatie aan de orde dienen te komen.
-
-- –. voortschrijdende inzichten en waar mogelijk effecten op het gebied van milieu, inclusief geluidsbelasting, hinderbeleving, externe veiligheid en flora en fauna, in relatie tot de luchthaven en startende en landende vliegtuigen;
-
-- –. mogelijkheden om hinderbeleving in relatie tot ontwikkelingen in het vliegverkeer te monitoren door aan te sluiten bij de internationale standaard voor het meten van hinderbeleving conform ISO-15666:2002.
-
-De evaluatie zal drie jaren na in werking treden van het besluit en aan de hand van actuele en beschikbare gegevens dienen plaats te vinden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

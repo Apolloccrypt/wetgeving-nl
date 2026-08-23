@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 25 september 2015 houdende regels over de taak, de samenstelling en de werkwijze van de adviescommissie individuele trajectafdelingen (Regeling adviescommissie individuele trajectafdelingen)"
+citeertitel: "Regeling adviescommissie individuele trajectafdelingen"
 identifier: "BWBR0037040"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-10-01"
-last_updated: "2015-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037040"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13263113"
-version_id: "22692492"
-internal_id: "C32821061"
-label_id: "13231164"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037040/2015-10-01/0"
-intitule_bron: "Stcrt.2015-32658"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-25"
-intitule_published: "2015-09-30"
-intitule_in_force: "2015-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-32658"
-original_signed_date: "2015-09-25"
-original_published_date: "2015-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-32658"
-entry_into_force_date: "2015-10-01"
-jci_1_3: "jci1.3:c:BWBR0037040&z=2015-10-01&g=2015-10-01"
-jci_1_0: "1.0:c:BWBR0037040&g=2015-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling adviescommissie individuele trajectafdelingen"
-signed_date: "2015-09-25"
-entry_into_force: "2015-10-01"
+publicatiedatum: 2015-10-01
+laatste_update: 2015-10-01
+status: geldig
+toestand: 2015-10-01
+bron: "https://wetten.overheid.nl/BWBR0037040"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 25 september 2015 houdende regels over de taak, de samenstelling en de werkwijze van de adviescommissie individuele trajectafdelingen (Regeling adviescommissie individuele trajectafdelingen)
-
-Gelet op [artikel 22c, zesde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **adviescommissie:** een commissie als bedoeld in [artikel 22c, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c);
+- a. *adviescommissie:* een commissie als bedoeld in [artikel 22c, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c);
 
-- b. **individuele trajectafdeling:** een afdeling, aangewezen op grond van [artikel 22c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c);
+- b. *individuele trajectafdeling:* een afdeling, aangewezen op grond van [artikel 22c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c);
 
-- c. **de wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756).
+- c. *de wet:* de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756).
 
 ##### Artikel 2
 
@@ -131,5 +105,3 @@ Deze regeling treedt op 1 oktober 2015 in werking.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling adviescommissie individuele trajectafdelingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

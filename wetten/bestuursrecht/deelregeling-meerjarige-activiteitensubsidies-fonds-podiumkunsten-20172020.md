@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling meerjarige activiteitensubsidies Fonds Podiumkunsten 2017–2020"
 identifier: "BWBR0037166"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-11-11"
-last_updated: "2015-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037166"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13297703"
-version_id: "22765342"
-internal_id: "C32909971"
-label_id: "13265904"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037166/2015-11-11/0"
-intitule_bron: "Stcrt.2015-39015"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-11-10"
-intitule_in_force: "2015-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-39015"
-original_published_date: "2015-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-39015"
-entry_into_force_date: "2015-11-11"
-jci_1_3: "jci1.3:c:BWBR0037166&z=2015-11-11&g=2015-11-11"
-jci_1_0: "1.0:c:BWBR0037166&g=2015-11-11"
-citeertitel_status: "officieel"
-entry_into_force: "2015-11-11"
+publicatiedatum: 2015-11-11
+laatste_update: 2015-11-11
+status: geldig
+toestand: 2015-11-11
+bron: "https://wetten.overheid.nl/BWBR0037166"
+opgehaald: 2026-08-23
 ---
+
 # Deelregeling meerjarige activiteitensubsidies Fonds Podiumkunsten 2017–2020
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten+](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit
 
 #### Paragraaf 1. : Algemene bepalingen
 
@@ -42,27 +19,27 @@ Besluit
 
 In deze regeling wordt verstaan onder:
 
-- **andere-inkomstenquote:** het totaal van alle inkomsten met uitzondering van de vaste voet en het subsidie per uitvoering op basis van deze regeling gedeeld door de totale baten;
+- *andere-inkomstenquote:* het totaal van alle inkomsten met uitzondering van de vaste voet en het subsidie per uitvoering op basis van deze regeling gedeeld door de totale baten;
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **eigeninkomstenquote:** het totaal van de publieksinkomsten, directe en indirecte opbrengsten en bijdragen uit private middelen gedeeld door de totale baten;
+- *eigeninkomstenquote:* het totaal van de publieksinkomsten, directe en indirecte opbrengsten en bijdragen uit private middelen gedeeld door de totale baten;
 
-- **concours:** een competitie gericht op podiumkunstenaars die aan het begin van een professionele carrière staan waarbij het wedstrijdelement het verbindende element tussen de activiteiten vormt;
+- *concours:* een competitie gericht op podiumkunstenaars die aan het begin van een professionele carrière staan waarbij het wedstrijdelement het verbindende element tussen de activiteiten vormt;
 
-- **festival:** reeks van onderling samenhangende activiteiten die gedurende een in de tijd beperkte periode onder een gemeenschappelijke noemer worden georganiseerd;
+- *festival:* reeks van onderling samenhangende activiteiten die gedurende een in de tijd beperkte periode onder een gemeenschappelijke noemer worden georganiseerd;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten+;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba;
 
-- **podiumkunstenaar:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;
+- *podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;
 
-- **schoolvoorstelling of schoolconcert:** besloten podiumkunstactiviteit die specifiek gericht is op (groepen) scholieren en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang;
+- *schoolvoorstelling of schoolconcert:* besloten podiumkunstactiviteit die specifiek gericht is op (groepen) scholieren en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang;
 
-- **uitvoering:** een voorstelling of concert dan wel een schoolvoorstelling of schoolconcert;
+- *uitvoering:* een voorstelling of concert dan wel een schoolvoorstelling of schoolconcert;
 
-- **voorstelling of concert:** openbaar toegankelijke podiumkunstactiviteit die bedoeld is voor publiek en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang.
+- *voorstelling of concert:* openbaar toegankelijke podiumkunstactiviteit die bedoeld is voor publiek en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang.
 
 ##### Artikel 1.2. Doel
 
@@ -156,11 +133,11 @@ Aanvragen dienen uiterlijk 1 maart 2016 om 17:00 uur te zijn ontvangen.
 
 1. Aanvragen voor een meerjarige productiesubsidie of een meerjarige festivalsubsidie die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen worden onderverdeeld in:
 
-- A:. honoreren;
+- A: honoreren;
 
-- B:. honoreren voor zover het budget dat toelaat; en
+- B: honoreren voor zover het budget dat toelaat; en
 
-- C:. niet honoreren.
+- C: niet honoreren.
 
 2. Als een subsidieplafond ontoereikend is om alle aanvragen met het advies ‘honoreren voor zover het budget dat toelaat’ te honoreren, worden de aanvragen in een rangorde geplaatst op basis van de van toepassing zijnde criteria.
 
@@ -260,9 +237,9 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 2. Als groot festival worden aangemerkt festivals die:
 
-- –. meer dan honderd voorstellingen of concerten programmeren en
+- – meer dan honderd voorstellingen of concerten programmeren en
 
-- –. meer dan 7 dagen duren of gemiddeld minimaal 1 miljoen euro aan baten hebben gerealiseerd, exclusief de meerjarige activiteitensubsidie van het Fonds Podiumkunsten.
+- – meer dan 7 dagen duren of gemiddeld minimaal 1 miljoen euro aan baten hebben gerealiseerd, exclusief de meerjarige activiteitensubsidie van het Fonds Podiumkunsten.
 
 Overige festivals worden als klein/middelgroot aangemerkt.
 
@@ -349,39 +326,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling meerjarige activiteitensubsidies Fonds Podiumkunsten 2017–2020.
-
-## Bijlage A. bij de Deelregeling meerjarige activiteitensubsidies fonds podiumkunsten
-
-|   | Omvang zaal | Vaste voet | Bedrag per uitvoering | Te behalen eigen inkomsten (EIQ) | Te behalen andere inkomsten (AIQ) | Maximum aantal subsidiabele uitvoeringen | Maximaal subsidie | Maximale bijdrage talentontwikkeling |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| muziek | Bezoekerscapaciteit tot en met 400 | 75.000 | 500 | 20% | nvt | 80 | 115.000 | 23.000 |
-| muziek |   | 75.000 | 1.300 | 30% | 40% | 80 | 179.000 | 35.800 |
-| muziek |   | 75.000 | 2.800 | 40% | 60% | 80 | 299.000 | 59.800 |
-| muziek | Bezoekerscapaciteit 401 en meer | 75.000 | 3.900 | 25% | 30% | 80 | 387.000 | 77.400 |
-| muziek |   | 75.000 | 6.200 | 35% | 50% | 80 | 571.000 | 114.200 |
-| muziek |   | 75.000 | 8.500 | 45% | 70% | 80 | 755.000 | 151.000 |
-| theater, dans, muziektheater | Bezoekerscapaciteit tot en met 400 | 75.000 | 1.250 | 20% | nvt | 100 | 200.000 | 40.000 |
-| theater, dans, muziektheater |   | 75.000 | 2.500 | 30% | 40% | 100 | 325.000 | 65.000 |
-| theater, dans, muziektheater |   | 75.000 | 4.100 | 40% | 60% | 100 | 485.000 | 97.000 |
-| theater, dans, muziektheater | Bezoekerscapaciteit 401 en meer | 75.000 | 3.500 | 25% | 30% | 100 | 425.000 | 85.000 |
-| theater, dans, muziektheater |   | 75.000 | 5.000 | 35% | 50% | 100 | 575.000 | 115.000 |
-| theater, dans, muziektheater |   | 75.000 | 6.200 | 45% | 70% | 100 | 695.000 | 139.000 |
-
-|   | Afbakening | Drempelnormen | Te behalen eigen inkomsten (EIQ) | Subsidie per editie | Bijdrage (co-) productie |   |
-| --- | --- | --- | --- | --- | --- | --- |
-| Concoursen | Competitie als centraal element | Minimaal 3 eerdere edities | Eigeninkomstenquote 25% | 50.000 | 10.000 | Concoursen |
-| Concoursen |   | Eigeninkomstenquote 20% in 2013–2015 |   |   |   | Concoursen |
-| Concoursen |   |   |   |   |   | Concoursen |
-| Concoursen |   |   |   |   |   | Concoursen |
-| Concoursen |   |   |   |   |   | Concoursen |
-| Kleine/middelgrote festivals | Aantal voorstellingen tot en met 100 | minimaal 3 eerdere edities | Eigeninkomstenquote 25% | 125.000 | 25.000 | Kleine/middelgrote festivals |
-| Kleine/middelgrote festivals | en/of 7 dagen of korter en omzet kleiner dan 1 miljoen | Eigeninkomstenquote 20% in 2013–2015 |   |   |   | Kleine/middelgrote festivals |
-| Kleine/middelgrote festivals |   |   |   |   |   | Kleine/middelgrote festivals |
-| Kleine/middelgrote festivals |   |   |   |   |   | Kleine/middelgrote festivals |
-| Kleine/middelgrote festivals |   |   |   |   |   | Kleine/middelgrote festivals |
-|   |   |   |   |   |   |   |
-| Grote festivals | Aantal voorstellingen > 100 | minimaal 3 eerdere edities | Eigeninkomstenquote 50% | 250.000 | 50.000 | Grote festivals |
-| Grote festivals | plus meer dan 7 dagen of omzet exclusief meerjarig subsidie groter dan 1 miljoen euro | Eigeninkomstenquote 20% in 2013–2015 |   |   |   | Grote festivals |
-| Grote festivals |   |   |   |   |   | Grote festivals |
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Sociaal-Economische Raad van 18 september 2015, houdende fusiegedragsregels ter bescherming van de belangen van in de onderneming werkzame personen (SER-Fusiegedragsregels 2015)"
+citeertitel: "SER-Fusiegedragsregels 2015"
 identifier: "BWBR0037021"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-09-13"
-last_updated: "2022-09-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037021"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "13258853"
-version_id: "22686592"
-internal_id: "C32813891"
-label_id: "13227274"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037021/2022-09-13/0"
-intitule_bron: "Stcrt.2015-31544"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-18"
-intitule_published: "2015-09-25"
-intitule_in_force: "2015-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-31544"
-original_signed_date: "2015-09-18"
-original_published_date: "2015-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-31544"
-entry_into_force_date: "2015-10-01"
-jci_1_3: "jci1.3:c:BWBR0037021&z=2022-09-13&g=2022-09-13"
-jci_1_0: "1.0:c:BWBR0037021&g=2022-09-13"
-citeertitel_status: "officieel"
-short_title: "SER-Fusiegedragsregels 2015"
-signed_date: "2015-09-18"
-entry_into_force: "2015-10-01"
+publicatiedatum: 2015-10-01
+laatste_update: 2022-09-13
+status: geldig
+toestand: 2022-09-13
+bron: "https://wetten.overheid.nl/BWBR0037021"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Sociaal-Economische Raad van 18 september 2015, houdende fusiegedragsregels ter bescherming van de belangen van in de onderneming werkzame personen (SER-Fusiegedragsregels 2015)
-
-Gelet op [artikel 2 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=2);
-
-Besluit op te stellen en af te kondigen de volgende fusiegedragsregels ter bescherming van de belangen van in de onderneming werkzame personen, in acht te nemen bij het voorbereiden en tot stand brengen van fusies van ondernemingen:
 
 #### Paragraaf 1. Definities
 
@@ -46,37 +20,37 @@ Besluit op te stellen en af te kondigen de volgende fusiegedragsregels ter besch
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **onderneming:** elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband, waarin krachtens arbeidsovereenkomst of krachtens publiekrechtelijke aanstelling arbeid wordt verricht.
+- a. *onderneming:* elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband, waarin krachtens arbeidsovereenkomst of krachtens publiekrechtelijke aanstelling arbeid wordt verricht.
 
-- b. **ondernemer:** de natuurlijke persoon of de rechtspersoon die een onderneming in stand houdt.
+- b. *ondernemer:* de natuurlijke persoon of de rechtspersoon die een onderneming in stand houdt.
 
-- c. **in de onderneming werkzame personen:**
+- c. *in de onderneming werkzame personen:*
 
-- i. degenen die in de onderneming werkzaam zijn krachtens een publiekrechtelijke aanstelling bij dan wel krachtens een arbeidsovereenkomst met de ondernemer die de onderneming in stand houdt. Personen die in meer dan één onderneming van dezelfde ondernemer werkzaam zijn, worden geacht uitsluitend werkzaam te zijn in die onderneming van waaruit hun werkzaamheden worden geleid.
+   - i. degenen die in de onderneming werkzaam zijn krachtens een publiekrechtelijke aanstelling bij dan wel krachtens een arbeidsovereenkomst met de ondernemer die de onderneming in stand houdt. Personen die in meer dan één onderneming van dezelfde ondernemer werkzaam zijn, worden geacht uitsluitend werkzaam te zijn in die onderneming van waaruit hun werkzaamheden worden geleid.
 
-- ii. onder in de onderneming werkzame personen worden mede verstaan:
+   - ii. onder in de onderneming werkzame personen worden mede verstaan:
 
-- a. degenen die in het kader van werkzaamheden van de onderneming daarin ten minste 15 maanden werkzaam zijn krachtens een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), en
+      - a. degenen die in het kader van werkzaamheden van de onderneming daarin ten minste 15 maanden werkzaam zijn krachtens een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), en
 
-- b. degenen die krachtens een publiekrechtelijke aanstelling bij dan wel krachtens arbeidsovereenkomst met de ondernemer werkzaam zijn in een door een andere ondernemer in stand gehouden onderneming.
+      - b. degenen die krachtens een publiekrechtelijke aanstelling bij dan wel krachtens arbeidsovereenkomst met de ondernemer werkzaam zijn in een door een andere ondernemer in stand gehouden onderneming.
 
-- d. **samenstel van ondernemingen:** twee of meer ondernemingen die in stand worden gehouden:
+- d. *samenstel van ondernemingen:* twee of meer ondernemingen die in stand worden gehouden:
 
-- i. door één ondernemer;
+   - i. door één ondernemer;
 
-- ii. door twee of meer ondernemers die met elkaar zijn verbonden in een groep in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b); of
+   - ii. door twee of meer ondernemers die met elkaar zijn verbonden in een groep in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b); of
 
-- iii. door twee of meer ondernemers op basis van een onderlinge regeling tot samenwerking.
+   - iii. door twee of meer ondernemers op basis van een onderlinge regeling tot samenwerking.
 
-- e. **fusie:** verkrijging of overdracht van de zeggenschap, direct of indirect, over een onderneming of een onderdeel daarvan, alsmede de vorming van een samenstel van ondernemingen.
+- e. *fusie:* verkrijging of overdracht van de zeggenschap, direct of indirect, over een onderneming of een onderdeel daarvan, alsmede de vorming van een samenstel van ondernemingen.
 
-- f. **verenigingen van werknemers:** verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot doel hebben de belangen van hun leden als in de onderneming werkzame personen te behartigen en:
+- f. *verenigingen van werknemers:* verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot doel hebben de belangen van hun leden als in de onderneming werkzame personen te behartigen en:
 
-- i. van wier kandidatenlijst bij de laatstgehouden verkiezingen ten minste één lid is gekozen in de ondernemingsraad van een bij de fusie betrokken in Nederland gevestigde onderneming;
+   - i. van wier kandidatenlijst bij de laatstgehouden verkiezingen ten minste één lid is gekozen in de ondernemingsraad van een bij de fusie betrokken in Nederland gevestigde onderneming;
 
-- ii. welke betrokken zijn bij een regeling van lonen en andere arbeidsvoorwaarden die geldt voor een bij de fusie betrokken in Nederland gevestigde onderneming; of
+   - ii. welke betrokken zijn bij een regeling van lonen en andere arbeidsvoorwaarden die geldt voor een bij de fusie betrokken in Nederland gevestigde onderneming; of
 
-- iii. waarvan is gebleken dat zij in de twee voorafgaande kalenderjaren als zodanig regelmatig werkzaam zijn geweest ten behoeve van hun leden in een bij de fusie betrokken in Nederland gevestigde onderneming.
+   - iii. waarvan is gebleken dat zij in de twee voorafgaande kalenderjaren als zodanig regelmatig werkzaam zijn geweest ten behoeve van hun leden in een bij de fusie betrokken in Nederland gevestigde onderneming.
 
 2. Indien de Fusiegedragsregels ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=2&artikel=2&z=2022-09-13&g=2022-09-13), op een onderneming van toepassing zijn, worden – in afwijking van de omschrijving van 'verenigingen van werknemers' in [artikel 1, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=1&artikel=1&z=2022-09-13&g=2022-09-13) – als verenigingen van werknemers aangemerkt:
 
@@ -380,10 +354,8 @@ Het SER-besluit Fusiegedragsregels 2000 wordt ingetrokken.
 
 ##### Artikel 35
 
-Dit besluit treedt in werking met ingang van 1 oktober 2015.
+Dit besluit treedt in werking met ingang van 1 oktober 2015.
 
 ##### Artikel 36
 
 Dit besluit wordt aangehaald als: SER-Fusiegedragsregels 2015.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

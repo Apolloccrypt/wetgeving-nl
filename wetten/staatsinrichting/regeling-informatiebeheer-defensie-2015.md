@@ -1,71 +1,45 @@
 ---
 title: "Regeling informatiebeheer Defensie 2015"
 identifier: "BWBR0037039"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-07"
-last_updated: "2024-11-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037039"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13262923"
-version_id: "22692222"
-internal_id: "C32820781"
-label_id: "13230994"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037039/2024-11-07/0"
-intitule_bron: "Stcrt.2015-31912"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-10"
-intitule_published: "2015-09-29"
-intitule_in_force: "2015-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-31912"
-original_signed_date: "2015-09-10"
-original_published_date: "2015-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-31912"
-entry_into_force_date: "2015-10-01"
-jci_1_3: "jci1.3:c:BWBR0037039&z=2024-11-07&g=2024-11-07"
-jci_1_0: "1.0:c:BWBR0037039&g=2024-11-07"
-citeertitel_status: "officieel"
-signed_date: "2015-09-10"
-entry_into_force: "2015-10-01"
+publicatiedatum: 2015-10-01
+laatste_update: 2024-11-07
+status: geldig
+toestand: 2024-11-07
+bron: "https://wetten.overheid.nl/BWBR0037039"
+opgehaald: 2026-08-23
 ---
+
 # Regeling informatiebeheer Defensie 2015
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en op [artikel 1 van het Koninklijk besluit van 18 oktober 1988, Stb. 499, 1988, houdende regeling functie en verantwoordelijkheid van de Secretaris Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **informatiebeheer:** werkzaamheden om informatieobjecten in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende informatieobjecten;
+- a. *informatiebeheer:* werkzaamheden om informatieobjecten in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende informatieobjecten;
 
-- b. **informatieobjecten:** archiefbescheiden als bedoeld in [artikel 1, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- b. *informatieobjecten:* archiefbescheiden als bedoeld in [artikel 1, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- c. **Chief Information Officer:** Chief Information Officer als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=1), en [artikel 8 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=8);
+- c. *Chief Information Officer:* Chief Information Officer als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=1), en [artikel 8 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=8);
 
-- d. **defensieonderdeel:** de Koninklijke Marine, de Koninklijke Landmacht, de Koninklijke Luchtmacht, de Koninklijke Marechaussee, het Defensie Ondersteuningscommando, het Commando Materieel en IT dan wel de Bestuursstaf;
+- d. *defensieonderdeel:* de Koninklijke Marine, de Koninklijke Landmacht, de Koninklijke Luchtmacht, de Koninklijke Marechaussee, het Defensie Ondersteuningscommando, het Commando Materieel en IT dan wel de Bestuursstaf;
 
-- e. **Minister:** Minister van Defensie;
+- e. *Minister:* Minister van Defensie;
 
-- f. **organisatie-eenheid:** eenheid bij een defensieonderdeel;
+- f. *organisatie-eenheid:* eenheid bij een defensieonderdeel;
 
-- g. **persoonsbescheiden:** informatieobjecten die betrekking hebben op een Defensiemedewerker;
+- g. *persoonsbescheiden:* informatieobjecten die betrekking hebben op een Defensiemedewerker;
 
-- h. **Secretaris-Generaal:** Secretaris-Generaal van Defensie;
+- h. *Secretaris-Generaal:* Secretaris-Generaal van Defensie;
 
-- i. **vervanging:** reproductie van informatieobjecten met het doel tot vernietiging van de oorspronkelijke informatieobjecten over te kunnen gaan;
+- i. *vervanging:* reproductie van informatieobjecten met het doel tot vernietiging van de oorspronkelijke informatieobjecten over te kunnen gaan;
 
-- j. **vervangingsbesluit:** besluit als bedoeld in [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7);
+- j. *vervangingsbesluit:* besluit als bedoeld in [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7);
 
-- k. **zorg:** bestuurlijke verantwoordelijkheid voor het informatiebeheer, als bedoeld in [artikel 3 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=3);
+- k. *zorg:* bestuurlijke verantwoordelijkheid voor het informatiebeheer, als bedoeld in [artikel 3 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=3);
 
-- l. **zorgdrager:** Minister van Defensie.
+- l. *zorgdrager:* Minister van Defensie.
 
 ##### Artikel 2. Minister en Secretaris-Generaal
 
@@ -207,10 +181,8 @@ Ingetrokken worden:
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 oktober 2015.
+Deze regeling treedt in werking met ingang van 1 oktober 2015.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling informatiebeheer Defensie 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

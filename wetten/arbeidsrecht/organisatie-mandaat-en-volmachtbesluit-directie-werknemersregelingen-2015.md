@@ -1,19 +1,19 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2015, 2015-0000305810, houdende de inrichting van de directie Werknemersregelingen, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015"
 identifier: "BWBR0037446"
 categorie: "Arbeidsrecht"
-publicatiedatum: 2023-12-09
-laatste_update: 2026-05-22
+soort: "ministeriele-regeling"
+publicatiedatum: 2015-12-30
+laatste_update: 2023-12-09
 status: vervallen
+vervallen_op: 2026-05-19
+toestand: 2023-12-09
 bron: "https://wetten.overheid.nl/BWBR0037446"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-23
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2015, 2015-0000305810, houdende de inrichting van de directie Werknemersregelingen, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015)
-
-Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), en [10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -21,9 +21,9 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie WR:** de directie Werknemersregelingen van het ministerie;
+- a. *directie WR:* de directie Werknemersregelingen van het ministerie;
 
-- b. **het UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
+- b. *het UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
 #### § 2. Organisatie en taken
 
@@ -99,9 +99,9 @@ Het hoofd van de RCN-unit SZW is verantwoordelijk voor de volgende algemene take
 
 - a. het – bij wijze van bindende voordracht aan de directeur van de RCN uit hoofde van diens formeel werkgeverschap – nemen van inhoudelijke besluiten die betrekking hebben op:
 
-  - 1°. het vaststellen van een beoordeling van medewerkers van de RCN-unit SZW;
+   - 1°. het vaststellen van een beoordeling van medewerkers van de RCN-unit SZW;
 
-  - 2°. benoeming, voor zover passend binnen de voor de RCN-unit SZW vastgestelde formatie, en ontslag van medewerkers;
+   - 2°. benoeming, voor zover passend binnen de voor de RCN-unit SZW vastgestelde formatie, en ontslag van medewerkers;
 
 - b. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.
 
@@ -113,11 +113,21 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 - b. het paraferen van stukken waar de directie WR geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur WR afgedaan moeten worden.
 
+##### Artikel 8a
+
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
+
+- a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld;
+
+- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, danwel gedurende het jaar bijgestelde, bestedingsplan van de directie;
+
+- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
+
 ##### Artikel 9
 
 1. Het hoofd van de RCN-unit SZW is bevoegd om namens een bewindspersoon besluiten te nemen, beslissingen in bezwaar- en beroepsprocedures te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover deze verband houden met de uitvoering van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387), de [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304), de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728), de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497), de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347), het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595), de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228), de [Stuwadoorswet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028169), de [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202), de [Wet collectieve arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028172), de [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170), de [Vakantiewet 1949 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028173), de [Wet beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028174), de [Arbeidsgeschillenwet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028178), de [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437), de [Regeling bijzondere uitkering integrale projecten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033367), en de daarop gebaseerde nadere regelgeving, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal of de inspecteur-generaal Sociale Zaken en Werkgelegenheid.
 
-2. De volmacht, bedoeld in het eerste lid, is beperkt tot het aangaan van de volgende overeenkomsten met een waarde van ten hoogste € 50.000,– per overeenkomst inclusief btw die betrekking hebben op:
+2. De volmacht, bedoeld in het eerste lid, is beperkt tot het aangaan van de volgende overeenkomsten met een waarde van ten hoogste € 50.000,– per overeenkomst inclusief btw die betrekking hebben op:
 
 - a. systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van systemen;
 
@@ -139,22 +149,6 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 2. Na de inwerkingtreding van deze regeling berust het [Machtigingsbesluit RCN-unit Sociale Zaken 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0033541) dat genomen is krachtens de [artikelen 6, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0033484&artikel=6), en [11, van het Organisatie-, mandaat- en volmachtbesluit UBN 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0033484&artikel=11) op de [artikelen 6, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=2&artikel=6&z=2023-12-09&g=2023-12-09), en [9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=3&artikel=9&z=2023-12-09&g=2023-12-09), van deze regeling.
 
-3. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
+3. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
 4. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
-
-- a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld;
-
-- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, danwel gedurende het jaar bijgestelde, bestedingsplan van de directie;
-
-- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.

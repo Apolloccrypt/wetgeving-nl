@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur Weerbaarheidsverhoging van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Veiligheid en Justitie van 19-01-2016, nr. 712208, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de landelijk commandant USAR.NL (Mandaatbesluit landelijk commandant USAR.NL)"
+citeertitel: "Mandaatbesluit landelijk commandant USAR.NL"
 identifier: "BWBR0037587"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-02-04"
-last_updated: "2016-02-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037587"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13407563"
-version_id: "23005402"
-internal_id: "C33257021"
-label_id: "13375174"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037587/2016-02-04/0"
-intitule_bron: "Stcrt.2016-4484"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-19"
-intitule_published: "2016-02-03"
-intitule_in_force: "2016-02-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-4484"
-original_signed_date: "2016-01-19"
-original_published_date: "2016-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-4484"
-entry_into_force_date: "2016-02-04"
-jci_1_3: "jci1.3:c:BWBR0037587&z=2016-02-04&g=2016-02-04"
-jci_1_0: "1.0:c:BWBR0037587&g=2016-02-04"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit landelijk commandant USAR.NL"
-signed_date: "2016-01-19"
-entry_into_force: "2016-02-04"
+publicatiedatum: 2016-02-04
+laatste_update: 2016-02-04
+status: geldig
+toestand: 2016-02-04
+bron: "https://wetten.overheid.nl/BWBR0037587"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de directeur Weerbaarheidsverhoging van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Veiligheid en Justitie van 19-01-2016, nr. 712208, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de landelijk commandant USAR.NL (Mandaatbesluit landelijk commandant USAR.NL)
-
-Gelet op [artikel 3, tweede lid, van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030842&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 

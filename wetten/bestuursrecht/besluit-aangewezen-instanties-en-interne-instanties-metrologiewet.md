@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 7 december 2015, houdende regels omtrent aangewezen instanties en interne instanties Metrologiewet (Besluit aangewezen instanties en interne instanties Metrologiewet)"
+citeertitel: "Besluit aangewezen instanties en interne instanties Metrologiewet"
 identifier: "BWBR0037326"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-04-20"
-last_updated: "2016-04-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037326"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13337793"
-version_id: "22859402"
-internal_id: "C33050541"
-label_id: "13305724"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037326/2016-04-20/0"
-intitule_bron: "Stb.2015-493"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-07"
-intitule_published: "2015-12-15"
-intitule_in_force: "2015-12-15"
-intitule_status: "goed"
-original_publication: "Stb.2015-493"
-original_signed_date: "2015-12-07"
-original_published_date: "2015-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2015-493"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037326&z=2016-04-20&g=2016-04-20"
-jci_1_0: "1.0:c:BWBR0037326&g=2016-04-20"
-citeertitel_status: "officieel"
-short_title: "Besluit aangewezen instanties en interne instanties Metrologiewet"
-signed_date: "2015-12-07"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-04-20
+status: geldig
+toestand: 2016-04-20
+bron: "https://wetten.overheid.nl/BWBR0037326"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 7 december 2015, houdende regels omtrent aangewezen instanties en interne instanties Metrologiewet (Besluit aangewezen instanties en interne instanties Metrologiewet)
-
-Op de voordracht van Onze Minister van Economische Zaken van 14 september 2015, nr. WJZ/15122979;
-
-Gelet op [richtlijn 2014/32](32014L0032)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (PbEU 2014, L 96) en [richtlijn 2014/31](32014L0031)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van niet-automatische weegwerktuigen (PbEU 2014, L 96) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=10) en [21a van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=21a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 22 oktober 2015, nr. W15.15.0323/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 3 december 2015, nr. WJZ /15155600);
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -52,7 +20,8 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **wet:** [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517).
+- *wet:*
+ [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517).
 
 #### Paragraaf 2. Criteria aangewezen instantie
 
@@ -152,7 +121,7 @@ Het [Besluit aangewezen instanties Metrologiewet](https://wetten.overheid.nl/jci
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -163,5 +132,3 @@ Vervallen
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit aangewezen instanties en interne instanties Metrologiewet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

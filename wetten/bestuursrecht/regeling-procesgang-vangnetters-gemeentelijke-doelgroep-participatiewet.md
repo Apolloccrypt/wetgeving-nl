@@ -1,54 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 augustus 2015, 2015-0000236848, tot Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet"
+citeertitel: "Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet"
 identifier: "BWBR0036980"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036980"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13251363"
-version_id: "22667312"
-internal_id: "C32497391"
-label_id: "13219434"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036980/2026-01-01/0"
-intitule_bron: "Stcrt.2015-27502"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-08-25"
-intitule_published: "2015-09-02"
-intitule_in_force: "2015-09-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-27502"
-original_signed_date: "2015-08-25"
-original_published_date: "2015-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-27502"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0036980&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0036980&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet"
-signed_date: "2015-08-25"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0036980"
+opgehaald: 2026-08-23
 ---
-# Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 augustus 2015, 2015-0000236848, tot Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet
 
-Gelet op [artikel 26, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26);
+# Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 augustus 2015, 2015-0000236848, tot Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **werknemer:** een persoon, die door het college is ondersteund op grond van [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), of [7a, eerste lid, onderdeel a, of derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a), naar arbeid in een dienstbetrekking als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4) of [5 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=5), waarbij het college aan de werkgever loonkostensubsidie als bedoeld in [artikel 10d van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) heeft verleend en na beëindiging van de loonkostensubsidie de werknemer in dienstbetrekking nog niet gedurende twee aangesloten jaren het minimumloon heeft verdiend;
+- a. *werknemer:* een persoon, die door het college is ondersteund op grond van [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), of [7a, eerste lid, onderdeel a, of derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a), naar arbeid in een dienstbetrekking als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=4) of [5 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=5), waarbij het college aan de werkgever loonkostensubsidie als bedoeld in [artikel 10d van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) heeft verleend en na beëindiging van de loonkostensubsidie de werknemer in dienstbetrekking nog niet gedurende twee aangesloten jaren het minimumloon heeft verdiend;
 
-- b. **college:** het college van burgemeester en wethouders, bedoeld in [artikel 40, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40), waarbij de werknemer de belanghebbende is;
+- b. *college:* het college van burgemeester en wethouders, bedoeld in [artikel 40, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40), waarbij de werknemer de belanghebbende is;
 
-- c. **vangnetter:** de werknemer die op grond van [artikel 29, tweede lid, onderdelen a, b, c, of d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) recht heeft op ziekengeld en bij de arbeidsinschakeling in de dienstbetrekking wordt ondersteund door het college op grond van [artikel 7, derde lid, onderdeel c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7);
+- c. *vangnetter:* de werknemer die op grond van [artikel 29, tweede lid, onderdelen a, b, c, of d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) recht heeft op ziekengeld en bij de arbeidsinschakeling in de dienstbetrekking wordt ondersteund door het college op grond van [artikel 7, derde lid, onderdeel c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7);
 
-- d. **plan van aanpak:** het plan van aanpak, bedoeld in [artikel 26, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26), dat het college opstelt in overleg met de vangnetter.
+- d. *plan van aanpak:* het plan van aanpak, bedoeld in [artikel 26, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26), dat het college opstelt in overleg met de vangnetter.
 
 ##### Artikel 2. Informatie UWV aan college over ziekte vangnetter
 
@@ -126,10 +102,8 @@ De [Regeling indicatiestelling no risk polis en premiekorting UWV](https://wette
 
 ##### Artikel 10. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2016.
+Deze regeling treedt in werking met ingang van 1 juli 2016.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

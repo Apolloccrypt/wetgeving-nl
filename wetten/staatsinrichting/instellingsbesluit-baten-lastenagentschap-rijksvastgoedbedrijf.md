@@ -1,45 +1,17 @@
 ---
 title: "Instellingsbesluit baten-lastenagentschap Rijksvastgoedbedrijf"
 identifier: "BWBR0037593"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-02-06"
-last_updated: "2016-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037593"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13409163"
-version_id: "23007752"
-internal_id: "C33259391"
-label_id: "13376764"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037593/2016-02-06/0"
-intitule_bron: "Stcrt.2016-5345"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-22"
-intitule_published: "2016-02-05"
-intitule_in_force: "2016-02-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-5345"
-original_signed_date: "2016-01-22"
-original_published_date: "2016-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-5345"
-entry_into_force_date: "2016-02-06"
-jci_1_3: "jci1.3:c:BWBR0037593&z=2016-02-06&g=2016-02-06"
-jci_1_0: "1.0:c:BWBR0037593&g=2016-02-06"
-citeertitel_status: "officieel"
-signed_date: "2016-01-22"
-entry_into_force: "2016-02-06"
+publicatiedatum: 2016-02-06
+laatste_update: 2016-02-06
+status: geldig
+toestand: 2016-02-06
+bron: "https://wetten.overheid.nl/BWBR0037593"
+opgehaald: 2026-08-23
 ---
+
 # Instellingsbesluit baten-lastenagentschap Rijksvastgoedbedrijf
-
-Handelend in overeenstemming met het gevoelen van de Ministerraad;
-
-Gelet op [artikel 10, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=10) en [artikel 6 van de Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0032085&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1. Instelling
 
@@ -60,5 +32,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastenagentschap Rijksvastgoedbedrijf.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

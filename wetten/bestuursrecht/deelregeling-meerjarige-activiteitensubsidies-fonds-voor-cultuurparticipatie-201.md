@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling meerjarige activiteitensubsidies Fonds voor Cultuurparticipatie 2017–2020"
 identifier: "BWBR0037163"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-11-11"
-last_updated: "2015-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037163"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13296703"
-version_id: "22763662"
-internal_id: "C32908201"
-label_id: "13264874"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037163/2015-11-11/0"
-intitule_bron: "Stcrt.2015-39066"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-11-10"
-intitule_in_force: "2015-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-39066"
-original_published_date: "2015-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-39066"
-entry_into_force_date: "2015-11-11"
-jci_1_3: "jci1.3:c:BWBR0037163&z=2015-11-11&g=2015-11-11"
-jci_1_0: "1.0:c:BWBR0037163&g=2015-11-11"
-citeertitel_status: "officieel"
-entry_into_force: "2015-11-11"
+publicatiedatum: 2015-11-11
+laatste_update: 2015-11-11
+status: geldig
+toestand: 2015-11-11
+bron: "https://wetten.overheid.nl/BWBR0037163"
+opgehaald: 2026-08-23
 ---
+
 # Deelregeling meerjarige activiteitensubsidies Fonds voor Cultuurparticipatie 2017–2020
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 #### Paragraaf 1. : Algemene bepalingen
 
@@ -42,27 +19,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Bestuur:** de raad van bestuur van de stichting Fonds voor Cultuurparticipatie;
+- *Bestuur:* de raad van bestuur van de stichting Fonds voor Cultuurparticipatie;
 
-- **Fonds voor Cultuurparticipatie:** de stichting Fonds voor Cultuurparticipatie;
+- *Fonds voor Cultuurparticipatie:* de stichting Fonds voor Cultuurparticipatie;
 
-- **Nederland:** het land Nederland inclusief de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- *Nederland:* het land Nederland inclusief de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- **Amateurkunst:** het actief beoefenen van kunst, uit passie, liefhebberij of engagement, zonder daarmee primair in het levensonderhoud te willen voorzien
+- *Amateurkunst:* het actief beoefenen van kunst, uit passie, liefhebberij of engagement, zonder daarmee primair in het levensonderhoud te willen voorzien
 
-- **Amateurkunstenaar:** persoon die bezig is met actieve kunstoefening uit passie, liefhebberij of engagement, zonder daarmee primair in het levensonderhoud te willen voorzien;
+- *Amateurkunstenaar:* persoon die bezig is met actieve kunstoefening uit passie, liefhebberij of engagement, zonder daarmee primair in het levensonderhoud te willen voorzien;
 
-- **Jong talent:** amateurkunstenaar in de leeftijd van 8 tot 24 jaar die over voldoende potentieel beschikt om voor deelname aan het kunstvakonderwijs in aanmerking te komen;
+- *Jong talent:* amateurkunstenaar in de leeftijd van 8 tot 24 jaar die over voldoende potentieel beschikt om voor deelname aan het kunstvakonderwijs in aanmerking te komen;
 
-- **Talentontwikkeling:** activiteiten gericht op de identificatie, selectie, begeleiding en ontwikkeling van jong talent ter voorbereiding op eventuele deelname aan het kunstvakonderwijs, of, daar waar het kunstvakonderwijs geen aanbod heeft, activiteiten als onderdeel van een alternatieve opleidingsroute;
+- *Talentontwikkeling:* activiteiten gericht op de identificatie, selectie, begeleiding en ontwikkeling van jong talent ter voorbereiding op eventuele deelname aan het kunstvakonderwijs, of, daar waar het kunstvakonderwijs geen aanbod heeft, activiteiten als onderdeel van een alternatieve opleidingsroute;
 
-- **Productiegroep:** groep bestaande uit jonge talenten die werken aan een beperkt aantal producties zoals concerten, voorstellingen en tentoonstellingen waarbij ze begeleiding ontvangen van professionals en de focus ligt op hun ontwikkeling en niet op het maximaliseren van het aantal producties;
+- *Productiegroep:* groep bestaande uit jonge talenten die werken aan een beperkt aantal producties zoals concerten, voorstellingen en tentoonstellingen waarbij ze begeleiding ontvangen van professionals en de focus ligt op hun ontwikkeling en niet op het maximaliseren van het aantal producties;
 
-- **Wedstrijd:** een competitie gericht op jong talent waarbij het wedstrijdelement het verbindende element tussen de activiteiten, waaronder podiumpresentatie en begeleiding, vormt;
+- *Wedstrijd:* een competitie gericht op jong talent waarbij het wedstrijdelement het verbindende element tussen de activiteiten, waaronder podiumpresentatie en begeleiding, vormt;
 
-- **Erfgoedmanifestatie:** reeks van onderling samenhangende activiteiten gericht op het op landelijke schaal onder de aandacht brengen van het belang van een erfgoeddomein bij een breed publiek door het organiseren van activiteiten gericht op presentatie, publieksparticipatie en kennisontwikkeling die merendeels gedurende een in de tijd beperkte periode, niet vaker dan één keer per jaar worden georganiseerd onder een gemeenschappelijke noemer.
+- *Erfgoedmanifestatie:* reeks van onderling samenhangende activiteiten gericht op het op landelijke schaal onder de aandacht brengen van het belang van een erfgoeddomein bij een breed publiek door het organiseren van activiteiten gericht op presentatie, publieksparticipatie en kennisontwikkeling die merendeels gedurende een in de tijd beperkte periode, niet vaker dan één keer per jaar worden georganiseerd onder een gemeenschappelijke noemer.
 
-- **Amateurkunstfestival:** reeks van onderling samenhangende activiteiten gericht op de presentatie van de (inter)nationale top in een amateurkunstdiscipline en de ontwikkeling van deze amateurkunstdiscipline door het op (inter)nationaal niveau organiseren van activiteiten gericht op presentatie, uitwisseling en kennisontwikkeling die merendeels gedurende een in de tijd beperkte periode, niet vaker dan één keer per jaar worden georganiseerd onder een gemeenschappelijke noemer.
+- *Amateurkunstfestival:* reeks van onderling samenhangende activiteiten gericht op de presentatie van de (inter)nationale top in een amateurkunstdiscipline en de ontwikkeling van deze amateurkunstdiscipline door het op (inter)nationaal niveau organiseren van activiteiten gericht op presentatie, uitwisseling en kennisontwikkeling die merendeels gedurende een in de tijd beperkte periode, niet vaker dan één keer per jaar worden georganiseerd onder een gemeenschappelijke noemer.
 
 ##### Artikel 1.2. Doel
 
@@ -104,19 +81,19 @@ Het bestuur kan meerjarige activiteitensubsidies verstrekken voor talentontwikke
 
 2. Het bestuur kan subsidie weigeren:
 
-- a). als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
+- a) als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
 
-- b). als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is;
+- b) als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is;
 
-- c). als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
+- c) als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
-- d). als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording;
+- d) als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording;
 
-- e). als de aanvraag niet aan het bepaalde in deze regeling voldoet;
+- e) als de aanvraag niet aan het bepaalde in deze regeling voldoet;
 
-- f). als de aanvraag primair gericht is op activiteiten die plaatsvinden binnen het basisonderwijs, voortgezet of hoger onderwijs, inclusief de vooropleidingen voor het kunstvakonderwijs,
+- f) als de aanvraag primair gericht is op activiteiten die plaatsvinden binnen het basisonderwijs, voortgezet of hoger onderwijs, inclusief de vooropleidingen voor het kunstvakonderwijs,
 
-- g). als de aanvraag gericht is op activiteiten die kunnen worden aangemerkt als reguliere activiteiten van een lokale of regionale kunsteducatie-instelling.
+- g) als de aanvraag gericht is op activiteiten die kunnen worden aangemerkt als reguliere activiteiten van een lokale of regionale kunsteducatie-instelling.
 
 #### Paragraaf 2. : Procedure
 
@@ -154,11 +131,11 @@ Aanvragen dienen uiterlijk 1 maart 2016 om 13:00 uur te zijn ontvangen.
 
 1. Aanvragen die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen worden onderverdeeld in:
 
-- A:. honoreren;
+- A: honoreren;
 
-- B:. honoreren voor zover het budget dat toelaat; en
+- B: honoreren voor zover het budget dat toelaat; en
 
-- C:. niet honoreren.
+- C: niet honoreren.
 
 2. Als een subsidieplafond ontoereikend is om alle aanvragen met het advies ‘honoreren voor zover het budget dat toelaat’ te honoreren, worden de aanvragen in een rangorde geplaatst op basis van de van toepassing zijnde criteria.
 
@@ -180,9 +157,9 @@ Een aanvraag voor een meerjarige talentontwikkelingssubsidie kan uitsluitend wor
 
 Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren en begeleiden van:
 
-- –. wedstrijden in combinatie met een begeleidingstraject voor jonge talentvolle amateurs;
+- – wedstrijden in combinatie met een begeleidingstraject voor jonge talentvolle amateurs;
 
-- –. productiegroepen voor jonge talentvolle amateurs die van zodanig hoogstaand niveau zijn dat hiermee een adequate voorbereiding op eventuele deelname aan het kunstvakonderwijs of een professionele loopbaan in de kunsten en de daaraan voorafgaande keuze wordt geboden.
+- – productiegroepen voor jonge talentvolle amateurs die van zodanig hoogstaand niveau zijn dat hiermee een adequate voorbereiding op eventuele deelname aan het kunstvakonderwijs of een professionele loopbaan in de kunsten en de daaraan voorafgaande keuze wordt geboden.
 
 ##### Artikel 3.3. Drempelnorm
 
@@ -319,5 +296,3 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 ##### Artikel 7.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling meerjarige activiteitensubsidies Fonds voor Cultuurparticipatie 2017–2020.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

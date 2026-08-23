@@ -1,44 +1,33 @@
 ---
 title: "Meldplicht datalekken Wet bescherming persoonsgegevens"
 identifier: "BWBR0037346"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-12-16"
-last_updated: "2015-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037346"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "13345653"
-version_id: "22875362"
-internal_id: "C33074201"
-label_id: "13314184"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037346/2015-12-16/0"
-intitule_bron: "Stcrt.2015-46128"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-12-16"
-intitule_in_force: "2015-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-46128"
-original_published_date: "2015-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-46128"
-entry_into_force_date: "2015-12-16"
-jci_1_3: "jci1.3:c:BWBR0037346&z=2015-12-16&g=2015-12-16"
-jci_1_0: "1.0:c:BWBR0037346&g=2015-12-16"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-12-16"
+publicatiedatum: 2015-12-16
+laatste_update: 2015-12-16
+status: geldig
+toestand: 2015-12-16
+bron: "https://wetten.overheid.nl/BWBR0037346"
+opgehaald: 2026-08-23
 ---
+
 # Meldplicht datalekken Wet bescherming persoonsgegevens
 
 Beleidsregels voor toepassing van [artikel 34a van de Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a)
 
+Samenvatting
+
 Op 1 januari 2016 gaat de meldplicht datalekken in. Deze meldplicht houdt in dat organisaties (zowel bedrijven als overheden) onverwijld een melding moeten doen bij de Autoriteit Persoonsgegevens zodra zij een ernstig datalek hebben. En in een aantal gevallen moeten zij het datalek ook melden aan de betrokkenen (de mensen van wie de persoonsgegevens zijn gelekt).
+
+Kader
 
 Iedereen heeft recht op eerbiediging en bescherming van zijn persoonlijke levenssfeer en een zorgvuldige omgang met zijn persoonsgegevens. De regels hiervoor zijn vastgelegd in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) (Wbp). Hierin staat dat u de persoonsgegevens die u verwerkt moet beveiligen tegen verlies en tegen onrechtmatige verwerking ([artikel 13 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13)). Een datalek moet worden gemeld aan de Autoriteit Persoonsgegevens als het leidt tot een aanzienlijke kans op ernstige nadelige gevolgen voor de bescherming van persoonsgegevens, of als het ernstige nadelige gevolgen heeft voor de bescherming van persoonsgegevens ([artikel 34a, eerste lid, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a)). Het datalek moet daarnaast ook worden gemeld aan de betrokkene indien het waarschijnlijk ongunstige gevolgen zal hebben voor diens persoonlijke levenssfeer (artikel 34a, tweede lid, Wbp).
 
+Afwegingen
+
 Bij de beslissing of u een gebeurtenis die zich heeft voorgedaan moet melden aan de Autoriteit Persoonsgegevens, en eventueel daarnaast ook aan de betrokkene, moet u een aantal afwegingen maken. Het onderstaande schema geeft deze afwegingen weer.
+
+Datalek
 
 Er is alleen sprake van een datalek als zich daadwerkelijk een beveiligingsincident heeft voorgedaan. Bij een beveiligingsincident moet u bijvoorbeeld denken aan het kwijtraken van een USB-stick, de diefstal van een laptop of aan een inbraak door een hacker.
 
@@ -46,21 +35,37 @@ Maar niet ieder beveiligingsincident is ook een datalek. Er is sprake van een da
 
 Als alleen sprake is van een zwakke plek in de beveiliging, spreken we van een beveiligingslek en niet van een datalek. U hoeft dan geen melding te doen aan de Autoriteit Persoonsgegevens.
 
+Melden aan de Autoriteit Persoonsgegevens
+
 U hoeft niet ieder datalek te melden aan de Autoriteit Persoonsgegevens. Volgens de wet moet u een melding doen aan de Autoriteit Persoonsgegevens als het datalek leidt tot een aanzienlijke kans op ernstige nadelige gevolgen voor de bescherming van persoonsgegevens, of als het ernstige nadelige gevolgen heeft voor de bescherming van persoonsgegevens.
 
 Een factor die hierbij een rol speelt is de aard van de gelekte persoonsgegevens. Als er persoonsgegevens van gevoelige aard zijn gelekt, dan is over het algemeen een melding noodzakelijk. Bij persoonsgegevens van gevoelige aard moet u denken aan:
+
+- • *Bijzondere persoonsgegevens zoals bedoeld in artikel 16 Wbp* Het gaat hierbij om persoonsgegevens over iemands godsdienst of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele leven, lidmaatschap van een vakvereniging en om strafrechtelijke persoonsgegevens en persoonsgegevens over onrechtmatig of hinderlijk gedrag in verband met een opgelegd verbod naar aanleiding van dat gedrag.
+
+- • *Gegevens over de financiële of economische situatie van de betrokkene* Hieronder vallen bijvoorbeeld gegevens over (problematische) schulden, salaris- en betalingsgegevens.
+
+- • *(Andere) gegevens die kunnen leiden tot stigmatisering of uitsluiting van de betrokkene* Hieronder vallen bijvoorbeeld gegevens over gokverslaving, prestaties op school of werk of relatieproblemen.
+
+- • *Gebruikersnamen, wachtwoorden en andere inloggegevens* De mogelijke gevolgen voor betrokkenen hangen af van de verwerkingen en van de persoonsgegevens waar de inloggegevens toegang toe geven. Bij de afweging moet worden betrokken dat veel mensen wachtwoorden hergebruiken voor verschillende verwerkingen.
+
+- • *Gegevens die kunnen worden misbruikt voor (identiteits)fraude* Het gaat hierbij onder meer om biometrische gegevens, kopieën van identiteitsbewijzen en om het Burgerservicenummer (bsn).
 
 Ook andere factoren, zoals de hoeveelheid gelekte persoonsgegevens per persoon of het aantal betrokkenen van wie er persoonsgegevens zijn gelekt, kunnen aanleiding zijn om het datalek te melden. Maar let op: als de aard van de gelekte gegevens daar aanleiding toe geeft is het mogelijk dat u een datalek moet melden waar de persoonsgegevens van slechts één persoon bij betrokken zijn.
 
 U moet de melding doen zonder onnodige vertraging en zo mogelijk niet later dan 72 uur na de ontdekking van het datalek. Op de website van de Autoriteit Persoonsgegevens is voor dit doel een webformulier beschikbaar. Via dit webformulier kunt u de melding zo nodig aanvullen of intrekken.
 
+Melden aan de betrokkene
+
 Als u tot de conclusie komt dat u een datalek moet melden aan de Autoriteit Persoonsgegevens, dan betekent dit niet automatisch dat u dit datalek ook moet melden aan de betrokkene. U moet hiervoor een aparte afweging maken.
 
 De wet geeft aan dat u een melding moet doen aan de betrokkene als het datalek waarschijnlijk ongunstige gevolgen zal hebben voor diens persoonlijke levenssfeer. Betrokkenen kunnen door het verlies, onrechtmatig gebruik of misbruik in hun belangen worden geschaad. Daarbij moet u bijvoorbeeld denken aan onrechtmatige publicatie, aantasting in eer en goede naam, (identiteits)fraude of discriminatie. Als er persoonsgegevens van gevoelige aard zijn gelekt, dan kunt u er in principe van uit gaan dat u het datalek niet alleen moet melden aan de Autoriteit Persoonsgegevens, maar ook aan de betrokkene.
 
-Uw melding stelt de betrokkene in staat om alert te zijn op de mogelijke gevolgen van het datalek en om zich daar waar mogelijk tegen te wapenen door, bijvoorbeeld, een gelekt wachtwoord te vervangen. De wet schrijft voor dat u de melding **onverwijld** moet doen. U moet daarbij rekening houden met het feit dat de betrokkene naar aanleiding van uw melding mogelijk maatregelen moet nemen om zich te beschermen tegen de gevolgen van het datalek. Hoe eerder u de betrokkene daarover informeert, hoe eerder deze in actie kan komen.
+Uw melding stelt de betrokkene in staat om alert te zijn op de mogelijke gevolgen van het datalek en om zich daar waar mogelijk tegen te wapenen door, bijvoorbeeld, een gelekt wachtwoord te vervangen. De wet schrijft voor dat u de melding *onverwijld* moet doen. U moet daarbij rekening houden met het feit dat de betrokkene naar aanleiding van uw melding mogelijk maatregelen moet nemen om zich te beschermen tegen de gevolgen van het datalek. Hoe eerder u de betrokkene daarover informeert, hoe eerder deze in actie kan komen.
 
 Als u passende technische beschermingsmaatregelen heeft genomen waardoor de persoonsgegevens die het betreft onbegrijpelijk of ontoegankelijk zijn voor onbevoegden, dan kunt u de melding aan de betrokkene achterwege laten. Bij deze beschermingsmaatregelen moet u bijvoorbeeld denken aan cryptografische bewerkingen zoals encryptie en hashing. U moet per geval bepalen of de maatregelen die u heeft genomen voldoende bescherming bieden om de melding aan de betrokkene achterwege te kunnen laten.
+
+Uitzonderingen op de meldplicht
 
 De meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) is niet van toepassing als de Wbp niet van toepassing is. Dit is bijvoorbeeld het geval als u uitsluitend voor persoonlijke of huishoudelijke doeleinden persoonsgegevens verwerkt.
 
@@ -68,13 +73,17 @@ Als u een aanbieder van een openbare elektronische communicatiedienst bent, dan 
 
 Als u een financiële onderneming bent zoals bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (Wft), dan is de verplichting uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) om datalekken te melden aan de betrokkene niet op u van toepassing. Als u de betrokkenen informeert, doet u dat op grond van uw zorgplicht als financiële onderneming.
 
+Boete
+
 Bij overtreding van de meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) kan de Autoriteit Persoonsgegevens een bestuurlijke boete opleggen. Deze bestuurlijke boete bedraagt ten hoogste het bedrag van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Dat is per 1 januari 2016 maximaal 820.000 euro.1De bedragen in artikel 23, vierde lid, van het Wetboek van Strafrecht worden elke twee jaar aangepast aan de ontwikkeling van de consumentenprijsindex. Dit betekent dat per 1 januari 2018 een ander bedrag kan gelden. Indien de overtreding niet opzettelijk is gepleegd en er geen sprake is van ernstig verwijtbare nalatigheid, dan zal de Autoriteit Persoonsgegevens eerst een bindende aanwijzing opleggen voorafgaand aan eventuele oplegging van een bestuurlijke boete. Bij het opleggen van een bestuurlijke boete houdt de Autoriteit Persoonsgegevens rekening met alle omstandigheden van het geval. Een omstandigheid van het geval kan bestaan uit het feit dat de gegevens waarover het gaat niet door derden zijn ingezien.
+
+Inleiding
 
 Met ingang van 1 januari 2016 treedt een wijziging van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) (Wbp) in werking die een meldplicht regelt voor datalekken. Deze meldplicht houdt in dat bedrijven, overheden en andere organisaties die persoonsgegevens verwerken datalekken moeten melden aan de Autoriteit Persoonsgegevens, en in bepaalde gevallen ook aan de betrokkene. De betrokkene is degene van wie persoonsgegevens zijn gelekt.
 
 De bedrijven, overheden en andere organisaties tot wie de meldplicht datalekken zich richt moeten zelf een beredeneerde afweging maken of een concreet datalek dat hen ter kennis komt onder het bereik van de wettelijke meldplicht valt. Doel van deze beleidsregels is om hen daarbij te ondersteunen.2Kamerstukken II 2014/15, 33 662, nr. 11, blz. 2. Deze beleidsregels dienen tevens als uitgangspunt voor de Autoriteit Persoonsgegevens bij het toepassen van handhavende maatregelen.
 
-Deze beleidsregels gaan in op de meldplicht datalekken die is opgenomen in de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Aanbieders van openbare elektronische communicatiediensten hebben te maken met twee meldplichten voor datalekken: de onderhavige meldplicht, en de al langer bestaande meldplicht voor datalekken die is opgenomen in de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) (Tw). De meldplicht datalekken in de Tw komt voort uit Europese regelgeving, en de Europese [verordening 611/2013](32013R0611) vult de regels uit deze meldplicht nader in. Onder meer geeft deze verordening aan op welke termijn een datalek aan de toezichthouder moet worden gemeld, welke informatie daarbij moet worden verstrekt en hoe de betrokkene moet worden geïnformeerd over het datalek. Verder is de meldplicht aan de betrokkene door de samenwerkende Europese privacy-toezichthouders nader uitgewerkt in een advies, met daarin een aantal uitvoerig geannoteerde voorbeelden.3Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014. Deze beleidsregels gaan niet inhoudelijk in op de meldplicht uit de Tw. Wel sluiten deze beleidsregels waar mogelijk aan op de bestaande invulling van deze meldplicht.
+Deze beleidsregels gaan in op de meldplicht datalekken die is opgenomen in de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Aanbieders van openbare elektronische communicatiediensten hebben te maken met twee meldplichten voor datalekken: de onderhavige meldplicht, en de al langer bestaande meldplicht voor datalekken die is opgenomen in de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) (Tw). De meldplicht datalekken in de Tw komt voort uit Europese regelgeving, en de Europese verordening 611/2013 vult de regels uit deze meldplicht nader in. Onder meer geeft deze verordening aan op welke termijn een datalek aan de toezichthouder moet worden gemeld, welke informatie daarbij moet worden verstrekt en hoe de betrokkene moet worden geïnformeerd over het datalek. Verder is de meldplicht aan de betrokkene door de samenwerkende Europese privacy-toezichthouders nader uitgewerkt in een advies, met daarin een aantal uitvoerig geannoteerde voorbeelden.3Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014. Deze beleidsregels gaan niet inhoudelijk in op de meldplicht uit de Tw. Wel sluiten deze beleidsregels waar mogelijk aan op de bestaande invulling van deze meldplicht.
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2016, zijnde de datum van inwerkingtreding van de meldplicht datalekken.
 
@@ -82,13 +91,15 @@ In de loop van 2017, of wanneer het aantal ontvangen meldingen daar aanleiding t
 
 Meer informatie over de beveiliging van persoonsgegevens en over de meldplicht voor datalekken vindt u op de website van de Autoriteit Persoonsgegevens.4autoriteitpersoonsgegevens.nl.
 
+Leeswijzer
+
 Het onderstaande schema geeft per onderwerp de relevante hoofdstukken in deze beleidsregels weer.
 
 Behalve de onderdelen die in het bovenstaande schema zijn weergegeven, bevatten deze beleidsregels een aantal bijlagen. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037346&bijlage=1&z=2015-12-16&g=2015-12-16) bij deze beleidsregels vindt u een overzicht aan van de gegevens die u in de melding moet verstrekken. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037346&bijlage=2&z=2015-12-16&g=2015-12-16) geeft de volledige tekst weer van de wetsartikelen die in deze beleidsregels worden geciteerd.
 
 Waar in deze beleidsregels wordt gesproken over de 'meldplicht uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)' wordt gedoeld op de meldplicht datalekken die is opgenomen in [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a) en waaraan wordt gerefereerd in [artikel 14 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14), en niet op de meldplicht voor verwerkingen van persoonsgegevens uit de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=29) en [30 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=30).
 
-### 1. Is de meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) op mij van toepassing?
+### 1. Is de meldplicht datalekken uit de Wbp op mij van toepassing?
 
 Het onderstaande schema geeft de vragen weer die u moet beantwoorden om vast te stellen of de meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) op u van toepassing is. Iedere vraag uit het schema correspondeert met een paragraaf uit het vervolg van dit hoofdstuk.
 
@@ -116,7 +127,7 @@ De verantwoordelijke is degene die, alleen of tezamen met anderen, het doel van 
 
 Als een verantwoordelijke van buiten de Europese Unie persoonsgegevens verwerkt, en de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) van toepassing is op deze verwerking, dan moet de verantwoordelijke in Nederland een persoon of instantie aanwijzen die namens hem de verplichtingen uit de Wbp nakomt. Voor de toepassing van de Wbp en de daarop berustende bepalingen, wordt deze persoon of instantie aangemerkt als de verantwoordelijke.
 
-### 1.3. Is de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) van toepassing op de verwerking?
+### 1.3. Is de Wbp van toepassing op de verwerking?
 
 De meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) is uitsluitend van toepassing op verwerkingen waarop de Wbp van toepassing is.
 
@@ -128,13 +139,15 @@ Het onderstaande schema geeft een leidraad voor het eerste element: de beoordeli
 
 Voor verwerkingen die niet onder de hierboven weergegeven uitzonderingen vallen, is verder van belang waar de activiteiten plaatsvinden waarvoor de persoonsgegevens worden verwerkt, en waar de al dan niet geautomatiseerde middelen zich bevinden die bij de verwerking worden gebruikt. Het onderstaande schema licht dit nader toe.
 
-**Voorbeeld meldplicht datalekken niet van toepassing op verwerking in Nederland** 7 Kamerstukken II, 2013/14, nr. 6, blz. 15.
+*Voorbeeld meldplicht datalekken niet van toepassing op verwerking in Nederland*
+ 7
+ Kamerstukken II, 2013/14, nr. 6, blz. 15.
 
 Een organisatie die in Frankrijk is gevestigd en die geen vestiging in Nederland heeft, laat persoonsgegevens bewerken door een bedrijf in Nederland. Aangezien de verantwoordelijke voor de verwerking in een ander Europees land is gevestigd, is de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) niet van toepassing op de verwerking en hoeft een eventueel datalek niet te worden gemeld aan de Autoriteit Persoonsgegevens.
 
 ### 2. Wat moet ik regelen als ik persoonsgegevens laat verwerken door een bewerker?
 
-Veel verantwoordelijken laten de verwerking van hun persoonsgegevens geheel of gedeeltelijk uitvoeren door een zogeheten bewerker. Een bewerker verwerkt persoonsgegevens ten behoeve van de verantwoordelijke, zonder dat hij aan het rechtstreekse gezag van de verantwoordelijke is onderworpen ([artikel 1, sub e, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1)). Van verwerking door een bewerker is bijvoorbeeld sprake bij het verwerken van persoonsgegevens in de cloud of bij externe hosting van een website waar persoonsgegevens worden verwerkt. Dit hoofdstuk geeft antwoord op de vraag wat u moet regelen als de meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) op u van toepassing is, en u bij de verwerking een bewerker inschakelt. Mocht u nog niet weten of de meldplicht datalekken op u van toepassing is, doorloop dan eerst de vragen uit hoofdstuk 1.
+Veel verantwoordelijken laten de verwerking van hun persoonsgegevens geheel of gedeeltelijk uitvoeren door een zogeheten bewerker. Een bewerker verwerkt persoonsgegevens ten behoeve van de verantwoordelijke, zonder dat hij aan het rechtstreekse gezag van de verantwoordelijke is onderworpen ([artikel 1, sub e, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1)). Van verwerking door een bewerker is bijvoorbeeld sprake bij het verwerken van persoonsgegevens in de cloud of bij externe hosting van een website waar persoonsgegevens worden verwerkt. Dit hoofdstuk geeft antwoord op de vraag wat u moet regelen als de meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) op u van toepassing is, en u bij de verwerking een bewerker inschakelt. Mocht u nog niet weten of de meldplicht datalekken op u van toepassing is, doorloop dan eerst de vragen uit [hoofdstuk 1](https://wetten.overheid.nl/BWBR0037346).
 
 ### 2.1. Waarom is het belangrijk om dit goed te regelen?
 
@@ -150,7 +163,21 @@ Indien de concrete situatie zich daartoe leent, dan kunt u met de bewerker overe
 
 Afgezien van het toezien op naleving door de bewerker, dat in de voorgaande paragraaf werd aangehaald, schrijft de wet niet voor wat u precies met de bewerker af moet spreken. U moet in ieder geval denken aan het volgende:
 
-De [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) verplicht u om te zorgen voor voldoende beveiliging van de persoonsgegevens die u verwerkt, ook als u bij de verwerking een bewerker inschakelt. Adequate beveiliging door de bewerker is in meerdere opzichten van belang voor de naleving van de meldplicht datalekken. Ten eerste levert een adequate beveiliging een belangrijke bijdrage aan het voorkomen van datalekken. Ten tweede stellen maatregelen zoals **intrusion detection** de bewerker in staat om (mogelijk) ongeoorloofde toegang tot persoonsgegevens tijdig te onderkennen en u daarover te informeren. Meer informatie over de beveiliging van persoonsgegevens bij verwerking door een bewerker treft u aan in de richtsnoeren **Beveiliging van persoonsgegevens** van de Autoriteit Persoonsgegevens.8autoriteitpersoonsgegevens.nl.
+- • Gaat de bewerker u daadwerkelijk informeren over alle relevante incidenten?
+
+- • Gaat de bewerker eventueel zelf meldingen doen aan de Autoriteit Persoonsgegevens?
+
+- • Ontvangt u per incident alle informatie die u nodig heeft?
+
+- • Hoe gaat de bewerker u informeren over de incidenten?
+
+- • Wordt u tijdig geïnformeerd over de incidenten?
+
+- • Wordt u op de hoogte gehouden van eventuele nieuwe ontwikkelingen rond het incident, en van de maatregelen die de bewerker treft om aan zijn kant de gevolgen van het incident te beperken en herhaling te voorkomen?
+
+- • Kunt u vaststellen dat u daadwerkelijk op de hoogte wordt gesteld van alle relevante incidenten, en dat de verstrekte informatie klopt?
+
+De [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) verplicht u om te zorgen voor voldoende beveiliging van de persoonsgegevens die u verwerkt, ook als u bij de verwerking een bewerker inschakelt. Adequate beveiliging door de bewerker is in meerdere opzichten van belang voor de naleving van de meldplicht datalekken. Ten eerste levert een adequate beveiliging een belangrijke bijdrage aan het voorkomen van datalekken. Ten tweede stellen maatregelen zoals *intrusion detection* de bewerker in staat om (mogelijk) ongeoorloofde toegang tot persoonsgegevens tijdig te onderkennen en u daarover te informeren. Meer informatie over de beveiliging van persoonsgegevens bij verwerking door een bewerker treft u aan in de richtsnoeren *Beveiliging van persoonsgegevens* van de Autoriteit Persoonsgegevens.8autoriteitpersoonsgegevens.nl.
 
 Hoewel u als verantwoordelijke verantwoordelijk en aansprakelijk bent voor de gegevensverwerking door de bewerker (zie [artikel 12 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=12)), is ook de bewerker drager van rechten en plichten. Hij dient niet alleen de instructies van de verantwoordelijke op te volgen maar is eveneens zelfstandig aansprakelijk voor de naleving van de beginselen met betrekking tot de verwerking van persoonsgegevens die zijn opgenomen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&hoofdstuk=1) en [2 van de Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&hoofdstuk=2).9Kamerstukken II, 1997/98, 25 892, nr. 3, blz. 61. Zie ook: CBP, Onderzoek naar de beveiliging van Humannet Starter en Humannet Verzuim door VCD Humannet B.V., z2012-00288, Rapport definitieve bevindingen van december 2014.
 
@@ -162,7 +189,9 @@ De afspraken die u hierover met de bewerker maakt legt u schriftelijk vast, of i
 
 De vestigingsplaats van de bewerker is voor de meldplicht datalekken niet relevant. Ook datalekken die plaatsvinden bij een buitenlandse bewerker (die gevestigd is in een andere EU-lidstaat of in een land buiten de EU) moeten worden gemeld aan de Autoriteit Persoonsgegevens. Hiervoor geldt datgene dat in de voorafgaande paragrafen is aangegeven.
 
-**Voorbeeld meldplicht datalekken van toepassing op verwerking in het buitenland** 10 Kamerstukken II, 2013/14, nr. 6, blz. 16.
+*Voorbeeld meldplicht datalekken van toepassing op verwerking in het buitenland*
+ 10
+ Kamerstukken II, 2013/14, nr. 6, blz. 16.
 
 Een organisatie die in Nederland is gevestigd, laat persoonsgegevens bewerken door een bedrijf in Frankrijk. De persoonsgegevens bevinden zich op een server in Frankrijk. Als onbevoegden zich toegang verschaffen tot deze gegevens, dan valt dit onder de meldplicht datalekken onder de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) en dan moet dit door de Nederlandse verantwoordelijke worden gemeld aan de Autoriteit Persoonsgegevens.
 
@@ -170,7 +199,7 @@ Overigens schrijft het vierde lid van [artikel 14 van de Wbp](https://wetten.ove
 
 ### 3. Is dit een datalek?
 
-Het eerste lid van [artikel 34a, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a) spreekt over een "een inbreuk op de beveiliging, bedoeld in artikel 13". Kortheidshalve wordt een dergelijke inbreuk in deze beleidsregels aangeduid als een datalek. Dit hoofdstuk helpt u om vast te stellen of u een gebeurtenis die zich heeft voorgedaan moet beschouwen als een datalek. Uitgangspunt is dat de meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) van toepassing is op de verwerking waarover het gaat. Mocht u nog niet weten of dat het geval is, doorloop dan eerst de vragen uit hoofdstuk 1.
+Het eerste lid van [artikel 34a, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a) spreekt over een "een inbreuk op de beveiliging, bedoeld in artikel 13". Kortheidshalve wordt een dergelijke inbreuk in deze beleidsregels aangeduid als een datalek. Dit hoofdstuk helpt u om vast te stellen of u een gebeurtenis die zich heeft voorgedaan moet beschouwen als een datalek. Uitgangspunt is dat de meldplicht datalekken uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) van toepassing is op de verwerking waarover het gaat. Mocht u nog niet weten of dat het geval is, doorloop dan eerst de vragen uit [hoofdstuk 1](https://wetten.overheid.nl/BWBR0037346).
 
 ### 3.1. Is er sprake van een inbreuk op de beveiliging?
 
@@ -182,6 +211,16 @@ Een inbreuk op de beveiliging houdt in dat zich daadwerkelijk een beveiligingsin
 
 Bij beveiligingsincidenten waar sprake kan zijn van een inbreuk op de beveiliging van persoonsgegevens moet u bijvoorbeeld denken aan:
 
+- • een kwijtgeraakte USB-stick;
+
+- • een gestolen laptop;
+
+- • een inbraak door een hacker;
+
+- • een malware-besmetting;
+
+- • een calamiteit zoals een brand in een datacentrum.
+
 Kenmerkend voor een inbreuk op de beveiliging is verder dat het beveiligingsincident daadwerkelijk gevolgen heeft voor de persoonsgegevens die u verwerkt. Er zijn persoonsgegevens verloren gegaan, of u kunt niet redelijkerwijs uitsluiten dat er persoonsgegevens onrechtmatig zijn verwerkt. De repressieve maatregelen en de herstelmaatregelen die u eventueel heeft getroffen waren niet voldoende om deze gevolgen geheel weg te nemen.
 
 Een inbreuk op de beveiliging van persoonsgegevens moet ruim worden geduid. Het is niet van belang of u passende technische of organisatorische maatregelen heeft getroffen of niet. Een datalek kan zich in beide situaties voordoen.12Kamerstukken II 2013/14, 33 662, nr. 6, blz. 4.
@@ -190,7 +229,7 @@ Een inbreuk op de beveiliging van persoonsgegevens moet ruim worden geduid. Het 
 
 Verlies houdt in dat u de persoonsgegevens niet meer heeft. Bij het beveiligingsincident zijn de persoonsgegevens vernietigd of op een andere manier verloren gegaan, en u beschikt niet over een complete en actuele reservekopie van de gegevens. In deze situatie is er sprake van een datalek.
 
-**Voorbeeld wel / geen datalek (verlies van persoonsgegevens)**
+*Voorbeeld wel / geen datalek (verlies van persoonsgegevens)*
 
 Een database met persoonsgegevens is vernietigd als gevolg van een menselijke fout van een systeembeheerder. Van de database is een complete, actuele back-up beschikbaar, op basis waarvan de database direct weer wordt opgebouwd. In deze situatie is er geen sprake van een datalek.
 
@@ -200,7 +239,9 @@ De aard van het beveiligingsincident is niet relevant voor de vraag of er al dan
 
 Onder onrechtmatige vormen van verwerking vallen de aantasting van de persoonsgegevens, onbevoegde kennisneming, wijziging, of verstrekking daarvan. Als u redelijkerwijs niet kunt uitsluiten dat een inbreuk op de beveiliging tot een onrechtmatige verwerking heeft geleid, dan moet u de inbreuk beschouwen als een datalek.14Kamerstukken II 2014/15, 33 662, nr. 11, blz. 4.
 
-**Voorbeeld wel / geen datalek (onrechtmatige verwerking van persoonsgegevens)** 15 Bron: Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, Casus 3.
+*Voorbeeld wel / geen datalek (onrechtmatige verwerking van persoonsgegevens)*
+ 15
+ Bron: Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, Casus 3.
 
 Een werknemer geeft aan een derde de gebruikersnaam en het wachtwoord die toegang geven tot alle klantgegevens van alle klanten van het bedrijf waar hij werkt.
 
@@ -214,9 +255,9 @@ Bij een malware-besmetting moet u ervan uitgaan dat er sprake kan zijn van een d
 
 ### 4. Moet ik dit datalek melden aan de Autoriteit Persoonsgegevens?
 
-Het onderstaande schema geeft de vragen weer die u moet beantwoorden om vast te stellen of u een specifiek datalek moet melden aan de Autoriteit Persoonsgegevens. Iedere vraag uit het onderstaande schema correspondeert met een paragraaf uit het vervolg van dit hoofdstuk. Uitgangspunt is dat er een gebeurtenis heeft plaatsgevonden waarvan u al heeft vastgesteld dat het gaat om een datalek. Mocht u dit nog niet hebben vastgesteld, doorloop dan eerst de vragen uit hoofdstuk 3.
+Het onderstaande schema geeft de vragen weer die u moet beantwoorden om vast te stellen of u een specifiek datalek moet melden aan de Autoriteit Persoonsgegevens. Iedere vraag uit het onderstaande schema correspondeert met een paragraaf uit het vervolg van dit hoofdstuk. Uitgangspunt is dat er een gebeurtenis heeft plaatsgevonden waarvan u al heeft vastgesteld dat het gaat om een datalek. Mocht u dit nog niet hebben vastgesteld, doorloop dan eerst de vragen uit [hoofdstuk 3](https://wetten.overheid.nl/BWBR0037346).
 
-### 4.1. Valt het datalek (gedeeltelijk) onder de meldplicht datalekken uit de [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)?
+### 4.1. Valt het datalek (gedeeltelijk) onder de meldplicht datalekken uit de Tw?
 
 Als u een aanbieder van een openbare elektronische communicatiedienst bent, dan heeft u te maken met twee meldplichten voor datalekken: de al langer bestaande meldplicht in de [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) en de meldplicht datalekken in de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
 
@@ -232,13 +273,49 @@ Het is aan u om te bepalen of een datalek dat u binnen uw organisatie heeft ontd
 
 Iedere vraag uit het bovenstaande schema correspondeert met een van de onderstaande paragrafen. Voorafgaand daaraan, treft u onderstaand nog een aantal voorbeelden aan.
 
-**Voorbeelden van datalekken die moeten worden gemeld aan de Autoriteit Persoonsgegevens (1)** 17 Kamerstukken II 2014/15 33 662, nr. 11, blz. 11.
+*Voorbeelden van datalekken die moeten worden gemeld aan de Autoriteit Persoonsgegevens (1)*
+ 17
+ Kamerstukken II 2014/15 33 662, nr. 11, blz. 11.
 
-**Voorbeelden van datalekken die moeten worden gemeld aan de Autoriteit Persoonsgegevens (2)** 18 Volledigheidshalve zijn hier ook de voorbeelden opgenomen die betrekking hebben op de telecomsector. De voorbeelden worden aangehaald in Kamerstukken I 2014/15, 33 662, nr. C, blz. 24, en zijn ontleend aan Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, van de Artikel 29-Werkgroep. Bij de geciteerde voorbeelden is aangegeven dat het bij de voorbeelden 1 tot en met 5 gaat om inbreuken met nadelige gevolgen, en bij de voorbeelden 6 en 7 om inbreuken met een aanzienlijke kans op nadelige gevolgen.
+- • Intern wordt binnen een ziekenhuis gesignaleerd dat door een haperende beveiliging (technische storing) medische gegevens zijn ingezien door onbevoegden;
+
+- • Een journalistiek programma confronteert een bedrijf met het feit dat als gevolg van een beveiligingslek onder andere persoonlijke gegevens (zoals kopieën van paspoorten of rijbewijzen, bankgegevens en wachtwoorden) van werknemers op de server van het bedrijf door onbevoegden zijn ingezien;
+
+- • Een medewerker verliest een laptop met onversleutelde, financiële klantgegevens;
+
+- • Een bedrijf krijgt te maken met een hack waarbij klantgegevens en wachtwoorden zijn ontvreemd;
+
+- • Een overheidsdatabase met gevoelige persoonsgegevens wordt gehackt waardoor onbevoegden toegang hebben gekregen tot deze gegevens.
+
+*Voorbeelden van datalekken die moeten worden gemeld aan de Autoriteit Persoonsgegevens (2)*
+ 18
+ Volledigheidshalve zijn hier ook de voorbeelden opgenomen die betrekking hebben op de telecomsector. De voorbeelden worden aangehaald in Kamerstukken I 2014/15, 33 662, nr. C, blz. 24, en zijn ontleend aan Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, van de Artikel 29-Werkgroep. Bij de geciteerde voorbeelden is aangegeven dat het bij de voorbeelden 1 tot en met 5 gaat om inbreuken met nadelige gevolgen, en bij de voorbeelden 6 en 7 om inbreuken met een aanzienlijke kans op nadelige gevolgen.
+
+- 1. Vier laptops zijn gestolen bij een gezondheidscentrum voor kinderen. De laptops bevatten gevoelige gegevens over gezondheid en welzijn en andere persoonsgegevens van meer dan 2000 kinderen.
+
+- 2. Bij een levensverzekeraar zijn persoonsgegevens ongeoorloofd in te zien als gevolg van een kwetsbaarheid in een webapplicatie. Van 700 personen kunnen naam, adres en formulieren met medische gegevens worden ingezien.
+
+- 3. Een medewerker van een internetprovider heeft zijn login/wachtwoordgegevens aan een derde partij gegeven die daardoor nagenoeg onbeperkt bij alle klantgegevens (meer dan 100.000) kon komen.
+
+- 4. Een envelop met creditcardbetalingsgegevens van 800 personen was per ongeluk niet versnipperd, maar in een vuilnisbak gegooid. Een derde persoon haalde de gegevens uit de vuilniscontainer op straat en verstrekte ze aan andere personen.
+
+- 5. De versleutelde laptop van een financieel adviseur is uit de auto gestolen. Financiële gegevens (hypotheken, salarissen, leningen) van 1000 personen waren betrokken. Hoewel het wachtwoord van de laptop niet gecompromitteerd is, was er geen back-up voorhanden.
+
+- 6. Op de website van een telefoonbedrijf kunnen klanten inloggen en hun financiële gegevens en belgegevens inzien. Een derde partij heeft toegang gekregen tot de database met inlognamen en bijbehorende verhaspelde (onleesbaar gemaakte) wachtwoorden. Het is echter mogelijk dat bepaalde wachtwoorden achterhaald kunnen worden.
+
+- 7. Een internetprovider biedt de gebruikers de mogelijkheid om details van hun account te zien, zoals onder andere historische zoekgegevens en vaak bezochte websites. Door een fout in de website had eenieder via een simpele truc de mogelijkheid om de accounts van andere gebruikers vrijelijk in te zien. Zonder een sluitende logging is hier niet vast te stellen of dat daadwerkelijk is gebeurd en welke gegevens dan zijn geraadpleegd.
 
 Alle bovengenoemde voorbeelden zijn ontleend aan de parlementaire geschiedenis. De laatstgenoemde voorbeelden zijn oorspronkelijk afkomstig uit Advies 03/2014 van de Artikel 29-Werkgroep. In een aantal van deze voorbeelden worden grote aantallen betrokkenen genoemd. Echter: de meldplicht kan ook van toepassing zijn op een datalek dat slechts betrekking heeft op de gegevens van één persoon.
 
-**Voorbeelden van gebeurtenissen die niet onder de meldplicht vallen**
+*Voorbeelden van gebeurtenissen die niet onder de meldplicht vallen*
+
+- • Een brief met daarin persoonsgegevens wordt naar een foutief adres gestuurd, en wordt ongeopend retour gezonden.
+
+- • Iemand laat een koffer met daarin persoonsgegevens achter in de trein. De koffer is voorzien van een deugdelijk slot, en komt via 'gevonden voorwerpen' ongeopend terug bij de rechtmatige eigenaar.
+
+- • Het zoekraken of hacken van de ledenadministratie van een sportvereniging zal doorgaans leiden tot het nodige ongemak voor verenging en leden, maar zal niet snel aanleiding geven tot een melding bij het CBP.19Kamerstukken II 2012/13, 33 662, nr. 3, blz. 7. Dit kan overigens anders liggen als de sportvereniging zich bijvoorbeeld richt op personen met een specifieke levensovertuiging of seksuele geaardheid, of als er fraudegevoelige gegevens gelekt zijn.
+
+- • Als ziekenhuispersoneel gebruik maakt van het wachtwoord van een arts om toegang te krijgen tot medische persoonsgegevens, dan is er niet zo zeer sprake van een datalek, als van schending van interne voorschriften. In eerste instantie liggen dan disciplinaire maatregelen voor de hand.20Handelingen II 2014/15 nr. 51, item 9, blz. 32.
 
 ### 4.2.1. Zijn er persoonsgegevens van gevoelige aard gelekt?
 
@@ -246,9 +323,19 @@ Bij het beantwoorden van de vraag of er sprake is van (een aanzienlijke kans op)
 
 Bij een aantal categorieën van persoonsgegevens, in dit kader aangeduid als persoonsgegevens van gevoelige aard, kunnen verlies of onrechtmatige verwerking onder meer leiden tot stigmatisering of uitsluiting van de betrokkene, tot schade aan de gezondheid, financiële schade of tot (identiteits)fraude. Tot deze categorieën van persoonsgegevens moeten in ieder geval worden gerekend:
 
+- • *Bijzondere persoonsgegevens zoals bedoeld in artikel 16 Wbp* Het gaat hierbij om persoonsgegevens over iemands godsdienst of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele leven, lidmaatschap van een vakvereniging en om strafrechtelijke persoonsgegevens en persoonsgegevens over onrechtmatig of hinderlijk gedrag in verband met een opgelegd verbod naar aanleiding van dat gedrag.
+
+- • *Gegevens over de financiële of economische situatie van de betrokkene* Hieronder vallen bijvoorbeeld gegevens over (problematische) schulden, salaris- en betalingsgegevens.
+
+- • *(Andere) gegevens die kunnen leiden tot stigmatisering of uitsluiting van de betrokkene* Hieronder vallen bijvoorbeeld gegevens over gokverslaving, prestaties op school of werk of relatieproblemen.
+
+- • *Gebruikersnamen, wachtwoorden en andere inloggegevens* De mogelijke gevolgen voor betrokkenen hangen af van de verwerkingen en van de persoonsgegevens waar de inloggegevens toegang toe geven. Bij de afweging moet worden betrokken dat veel mensen wachtwoorden hergebruiken voor verschillende verwerkingen.
+
+- • *Gegevens die kunnen worden misbruikt voor (identiteits)fraude* Het gaat hierbij onder meer om biometrische gegevens, kopieën van identiteitsbewijzen en om het Burgerservicenummer (bsn).
+
 Ook gegevens uit DNA-databanken, gegevens waar een bijzondere, wettelijk bepaalde geheimhoudingsplicht op rust en gegevens die onder een beroepsgeheim vallen (bijvoorbeeld het medisch beroepsgeheim) in de zin van [artikel 9, vierde lid, van de Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=9) moeten tot de persoonsgegevens van gevoelige aard worden gerekend.
 
-**Voorbeeld persoonsgegevens van gevoelige aard bij hack**
+*Voorbeeld persoonsgegevens van gevoelige aard bij hack*
 
 Een hacker weet op de website van een lokale sportvereniging door middel van SQL-injectie, een veel voorkomende vorm van hacking, een bestand te bemachtigen met daarin de namen en e-mailadressen van een twintigtal abonnees op een nieuwsbrief.
 
@@ -260,13 +347,19 @@ De memorie van toelichting geeft aan dat de aard en omvang van de getroffen verw
 
 Afgezien van de gevoelige aard van de verwerkte gegevens, die in de voorgaande paragraaf al aan de orde kwam, is voor de kans op ernstige nadelige gevolgen voor de bescherming van de verwerkte persoonsgegevens verder het volgende relevant:
 
+- • De omvang van de hierboven beschreven verwerkingen betekent dat het bij datalekken kan gaan om veel persoonsgegevens per persoon, en om gegevens van grote groepen betrokkenen. Deze beide factoren maken een gelekte dataset aantrekkelijk voor misbruik in het criminele circuit. De kans dat de gelekte dataset wordt doorverkocht wordt daardoor ook groter, met als gevolg dat de betrokkenen langer last houden van het datalek.
+
+- • Naarmate de beslissingen die op basis van de verwerkte persoonsgegevens worden genomen ingrijpender zijn, is ook de impact van verlies of onrechtmatige verwerking groter. Bijvoorbeeld: als een organisatie financiële gegevens gebruikt om iemands kredietwaardigheid te bepalen zijn de gevolgen van verlies en onbevoegde wijziging van de gegevens ingrijpender dan bij gebruik van dezelfde gegevens voor marketingdoeleinden.
+
+- • Bij omvangrijke verwerkingen van de overheid is vaak sprake van persoonsgegevens die binnen ketens worden gedeeld. Dit betekent dat de gevolgen van verlies en onbevoegde wijziging van persoonsgegevens door de hele keten heen kunnen optreden. Voor de betrokkenen wordt het hierdoor moeilijker om de mogelijke gevolgen van een datalek te overzien en om zich daar waar mogelijk aan te onttrekken.
+
 Als de aard en omvang van de getroffen verwerking voldoen aan het bovenstaande, dan moet u ervan uitgaan dat er (een aanzienlijke kans op) ernstige nadelige gevolgen voor de bescherming van de verwerkte persoonsgegevens aanwezig kan zijn.
 
 Behalve voor de aard en de omvang van de getroffen verwerking, wordt in de parlementaire geschiedenis ook aandacht gevraagd voor de positie van kwetsbare groepen.25Handelingen II 2014/15, nr. 51, item 9, blz. Voor betrokkenen in kwetsbare groepen kan verlies of onrechtmatige verwerking van persoonsgegevens extra risico's met zich meebrengen. De gevolgen van onbevoegde toegang tot NAW-gegevens zullen bijvoorbeeld voor de meeste mensen beperkt zijn, maar dit ligt anders voor mensen die te maken hebben met stalking of die in een blijf-van-mijn-lijfhuis verblijven. Voor bepaalde categorieën van betrokkenen, zoals kinderen en mensen met een verstandelijke handicap, kan het moeilijker zijn om adequaat om te gaan met de gevolgen van een datalek. Zo zullen zij mogelijk eerder ingaan op pogingen tot phishing of oplichting.
 
 Als u weet dat u gegevens verwerkt van mensen in kwetsbare groepen, bijvoorbeeld omdat de verwerking zich specifiek richt op betrokkenen die hiertoe behoren, dan moet u ervan uitgaan dat bij een datalek (een aanzienlijke kans op) ernstige nadelige gevolgen voor de bescherming van de verwerkte persoonsgegevens aanwezig kan zijn.
 
-**Voorbeeld kwetsbare groepen**
+*Voorbeeld kwetsbare groepen*
 
 Een hacker weet op de website van een buurthuis door middel van SQL-injectie, een veel voorkomende vorm van hacking, een bestand te bemachtigen met daarin de namen en e-mailadressen van een twintigtal abonnees op een elektronische nieuwsbrief. De nieuwsbrief richt zich op buurtbewoners van 65 jaar en ouder die bij het buurthuis een cursus volgen om vertrouwd te raken met het gebruik van computers en het internet. De aard van de doelgroep leidt hier tot extra risico's voor de betrokkenen. Gezien de onervarenheid van de betrokkenen met digitale communicatie bestaat er een aanzienlijk risico dat zij in zullen gaan op pogingen tot phishing of oplichting.
 
@@ -302,11 +395,11 @@ Om datalekken tijdig te kunnen melden zult u goede afspraken moeten maken met de
 
 Het onderstaande schema geeft de vragen weer die u moet beantwoorden om vast te stellen of u een specifiek datalek moet melden aan de betrokkenen. Iedere vraag uit het schema correspondeert met een paragraaf uit het vervolg van dit hoofdstuk.
 
-Uitgangspunt van dit hoofdstuk is dat u al heeft vastgesteld dat u het betreffende datalek moet melden aan de Autoriteit Persoonsgegevens op grond van de meldplicht uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Mocht u dat nog niet hebben vastgesteld, doorloop dan eerst de stappen uit hoofdstuk 4.
+Uitgangspunt van dit hoofdstuk is dat u al heeft vastgesteld dat u het betreffende datalek moet melden aan de Autoriteit Persoonsgegevens op grond van de meldplicht uit de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Mocht u dat nog niet hebben vastgesteld, doorloop dan eerst de stappen uit [hoofdstuk 4](https://wetten.overheid.nl/BWBR0037346).
 
 Als u het datalek niet meldt aan de betrokkene kan de Autoriteit Persoonsgegevens, indien deze van oordeel is dat de inbreuk waarschijnlijk ongunstige gevolgen zal hebben voor de persoonlijke levenssfeer van de betrokkene, van u verlangen dat u alsnog een kennisgeving doet aan de betrokkenen ([artikel 34a, zevende lid, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a)). Dit staat gelijk aan een bindende aanwijzing.30Kamerstukken I 2014/15, 33 662, nr. C, blz. 23. Bij het niet nakomen van een bindende aanwijzing kan de Autoriteit Persoonsgegevens een bestuurlijke boete opleggen van ten hoogste het bedrag van de geldboete van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) ([artikel 66, vijfde lid, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=66)).
 
-### 7.1. Ben ik een financiële onderneming zoals bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)?
+### 7.1. Ben ik een financiële onderneming zoals bedoeld in de Wet op het financieel toezicht?
 
 Voor financiële ondernemingen zoals bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (Wft) geldt een uitzondering op de meldplicht voor datalekken aan de betrokkene ([artikel 34a, lid 10, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a)). Als u de betrokkenen informeert, dan doet u dat op grond van uw zorgplicht als financiële onderneming.
 
@@ -314,7 +407,7 @@ Voor financiële ondernemingen zoals bedoeld in de [Wet op het financieel toezic
 
 Indien u passende technische beschermingsmaatregelen heeft genomen waardoor de persoonsgegevens die het betreft onbegrijpelijk of ontoegankelijk zijn voor eenieder die geen recht heeft op kennisname van de gegevens, dan kunt u de melding aan de betrokkene achterwege laten ([artikel 34a, zesde lid, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a)).
 
-Uit de wetsgeschiedenis komt de toepassing van cryptografie naar voren als het voornaamste voorbeeld van een technische beschermingsmaatregel zoals bedoeld in het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a). Ook artikel 4 van de Europese [verordening 611/2013](32013R0611), waarin voor de telecomsector een soortgelijke uitzondering op de meldplicht datalekken aan de betrokkene is opgenomen, gaat uit van de toepassing van cryptografie als technische beschermingsmaatregel. Deze paragraaf gaat in op het gebruik van cryptografie als technische beschermingsmaatregel om persoonsgegevens onbegrijpelijk of ontoegankelijk te maken voor onbevoegden. Andere technische beschermingsmaatregelen worden behandeld in het vervolg van dit hoofdstuk.
+Uit de wetsgeschiedenis komt de toepassing van cryptografie naar voren als het voornaamste voorbeeld van een technische beschermingsmaatregel zoals bedoeld in het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a). Ook artikel 4 van de Europese verordening 611/2013, waarin voor de telecomsector een soortgelijke uitzondering op de meldplicht datalekken aan de betrokkene is opgenomen, gaat uit van de toepassing van cryptografie als technische beschermingsmaatregel. Deze paragraaf gaat in op het gebruik van cryptografie als technische beschermingsmaatregel om persoonsgegevens onbegrijpelijk of ontoegankelijk te maken voor onbevoegden. Andere technische beschermingsmaatregelen worden behandeld in het vervolg van dit hoofdstuk.
 
 Deze paragraaf gaat in op twee cryptografische bewerkingen: encryptie (versleuteling) en hashing (het omzetten van gegevens in een unieke code). Kenmerkend voor encryptie is dat deze bewerking omkeerbaar is: door gebruik van de juiste sleutel kan de oorspronkelijke informatie worden verkregen (decryptie). Encryptie wordt onder meer gebruikt om gegevens te beveiligen die zijn opgeslagen op draagbare apparatuur en op verwijderbare media zoals USB-sticks. Hashing is een bewerking die van informatie, ongeacht de lengte, een unieke hashcode maakt die altijd even lang is (de lengte is afhankelijk van de gebruikte hashingmethode). Hashing wordt onder meer gebruikt bij de opslag en verwerking van wachtwoorden: op het moment dat de gebruiker een (nieuw) wachtwoord kiest, wordt de bijbehorende hashcode opgeslagen. Wanneer de gebruiker vervolgens inlogt, wordt de hashcode van het ingevoerde wachtwoord vergeleken met de opgeslagen hashcode en krijgt de gebruiker toegang tot het informatiesysteem als de codes overeenkomen.
 
@@ -328,7 +421,9 @@ Persoonsgegevens die adequaat zijn versleuteld kunnen bij een datalek nog steeds
 
 Een datalek waarbij adequaat versleutelde persoonsgegevens niet alleen zijn blootgesteld aan onbevoegde kennisname, maar ook aan verlies of aan andere vormen van onrechtmatige verwerking, kan ongunstige gevolgen hebben voor de persoonlijke levenssfeer van de betrokkene en moet daarom mogelijk aan hem of haar worden gemeld.
 
-**Voorbeeld technische beschermingsmaatregelen bij verlies van persoonsgegevens** 32 Bron: Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, Casus 5.
+*Voorbeeld technische beschermingsmaatregelen bij verlies van persoonsgegevens*
+ 32
+ Bron: Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, Casus 5.
 
 De versleutelde laptop van een financieel adviseur is gestolen uit de kofferbak van zijn auto. Op de laptop staan de financiële dossiers – met daarin onder meer details over hypotheken, salarissen en aanvragen van leningen – van 1000 betrokkenen.
 
@@ -348,9 +443,15 @@ Voorbeeld persoonsgegevens die niet waren versleuteld op het moment dat de inbre
 
 Op de harde schijf van een laptop staat een bestand met persoonsgegevens. Het bestand zelf is niet versleuteld. De laptop wordt automatisch vergrendeld als deze enige tijd niet wordt gebruikt, en bij de automatische vergrendeling wordt de inhoud van de harde schijf versleuteld. De laptop is in handen gekomen van een aanvaller die met technische middelen gebruik van het toetsenbord simuleert, en daardoor voorkomt dat de automatische vergrendeling in werking treedt en de gegevens op de harde schijf worden versleuteld.
 
-**Voorbeeld waarin niet alle getroffen persoonsgegevens waren versleuteld, en de resterende persoonsgegevens niet waren versleuteld op het moment van de inbreuk** 33 Bron: Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, Casus 3.
+*Voorbeeld waarin niet alle getroffen persoonsgegevens waren versleuteld, en de resterende persoonsgegevens niet waren versleuteld op het moment van de inbreuk*
+ 33
+ Bron: Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, Casus 3.
 
 Een werknemer geeft aan een derde de gebruikersnaam en het wachtwoord dat toegang geeft tot alle klantgegevens van alle klanten van het bedrijf waar hij werkt. Het gaat onder meer om namen, adressen, e-mailadressen, telefoonnummers, toegangs- en andere identificatiegegevens (gebruikersnamen, gehashte wachtwoorden en klantnummers) en versleutelde betaalgegevens (waaronder rekeningnummers en creditcardgegevens). Om twee redenen moet de verantwoordelijke dit datalek melden aan de betrokkene:
+
+- • slechts een deel van de persoonsgegevens is versleuteld (de wachtwoorden en de betaalgegevens);
+
+- • de betaalgegevens zijn weliswaar versleuteld opgeslagen, maar als de derde met de verstrekte gegevens inlogt krijgt hij via de gebruikersinterface toegang tot de onversleutelde gegevens.
 
 ### 7.2.3. Is de versleuteling adequaat?
 
@@ -358,9 +459,19 @@ Het is in eerste instantie aan u om te beoordelen of de versleuteling sterk geno
 
 Zowel encryptie als hashing zijn in principe te 'kraken', wat inhoudt dat onbevoegden toegang kunnen krijgen tot de oorspronkelijke gegevens. Kraken wordt tegengegaan door het gebruik van (combinaties van) moderne cryptografische technieken en door toepassing van zogenoemde salts (extra informatie die bij hashing wordt toegevoegd aan het oorspronkelijke gegeven om het kraken van de hashcode te bemoeilijken). Dit terrein ontwikkelt zich voortdurend en het is zeer goed mogelijk dat een cryptografische bewerking die in de huidige situatie veilig genoeg is dat over enige tijd niet meer is. Bij gebruik van cryptografische bewerkingen beoordeelt u daarom periodiek of deze nog steeds voldoende bescherming bieden.
 
-De Europese [verordening 611/2013](32013R0611) geeft een nadere invulling aan adequate versleuteling. Volgens deze verordening mag u gegevens als onbegrijpelijk beschouwen als ze:
+De Europese verordening 611/2013 geeft een nadere invulling aan adequate versleuteling. Volgens deze verordening mag u gegevens als onbegrijpelijk beschouwen als ze:
+
+- • op veilige wijze zijn versleuteld met een standaardalgoritme, de sleutel voor decryptie door geen enkele inbreuk gevaar heeft gelopen en de sleutel voor decryptie zodanig werd gegenereerd dat personen zonder geautoriseerde toegang de sleutel met de beschikbare technologische middelen niet kunnen vinden; of
+
+- • zijn vervangen door een met een cryptografisch versleutelde hashfunctie berekende hashwaarde, de sleutel die hiervoor werd gebruikt door geen enkele inbreuk gevaar heeft gelopen en deze voor datahashing gebruikte sleutel zodanig is gegenereerd dat personen zonder geautoriseerde toegang de sleutel niet kunnen vinden met de beschikbare technologische middelen.35Artikel 4 Verordening 611/2013.
 
 Aandachtspunten bij de beoordeling zijn:
+
+- • Het algoritme zelf, of de wijze waarop u dit toepast, kunnen kwetsbaarheden vertonen waardoor de encryptie of de hashing niet de bescherming biedt die u daarvan verwacht.
+
+- • Encryptie is omkeerbaar. Een onbevoegde die over de juiste sleutel beschikt, of deze zonder al te veel moeite kan vinden, kan de gelekte gegevens ontsleutelen.
+
+- • Hashing is herhaalbaar. Als er bij hashing geen salt is toegepast, of als een onbevoegde over de gebruikte salt beschikt of deze zonder al te veel moeite kan vinden, kan hij de gebruikte hashingmethode toepassen op een lijst met veelgebruikte waarden en daardoor bijvoorbeeld gestolen wachtwoorden achterhalen.
 
 Algemene informatie over algoritmen en toepassingen daarvan vindt u onder meer in de publicaties van het European Union Agency for Network and Information Security (ENISA) en het Nationaal Cyber Security Centrum (NCSC). Bij het opstellen van deze beleidsregels was de meest recente publicatie van ENISA op dit gebied het 'Algoritms, key sizes and parameters report – 2014' dat werd gepubliceerd in november 2014.36http://www.enisa.europa.eu/activities/identity-and-trust/library/deliverables/algorithms-key-size-and-parameters-report-2014.
 
@@ -374,19 +485,31 @@ Door de beantwoording van de voorgaande vragen heeft u, als het goed is, een bee
 
 Behalve met wat hierboven is aangegeven, moet u ook meewegen welke gevolgen het voor de persoonlijke levenssfeer van de betrokkene kan hebben als een aanvaller er nu of in de toekomst alsnog in slaagt om kennis te nemen van de getroffen persoonsgegevens.
 
-**Voorbeeld achterwege laten melding betrokkene bij encryptie**
+*Voorbeeld achterwege laten melding betrokkene bij encryptie*
 
 Een laptop, met op de harde schijf een bestand met persoonsgegevens, is gestolen. De verantwoordelijke onderzoekt het incident, en komt tot de conclusie dat hij op grond van het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a) af mag zien van de melding aan de betrokkene. Zijn overwegingen daarbij zijn:
 
+- • bij de versleuteling van het bestand is gebruik gemaakt van combinatie van algoritme en sleutellengte die door het ENISA in een actuele (niet door een recentere publicatie achterhaalde) handreiking wordt beoordeeld als 'toekomst-vast voor de komende 10 tot 50 jaar;
+
+- • met betrekking tot het gebruikte algoritme en de implementatie daarvan zijn geen kwetsbaarheden bekend;
+
+- • de implementatie is met goed gevolg beoordeeld door een deskundige;
+
+- • het bestand zelf was versleuteld, dus de versleuteling was niet afhankelijk van automatische vergrendeling die in het specifieke geval mogelijk niet heeft gewerkt;
+
+- • de sleutel is niet gelekt;
+
+- • gezien de aard van het datalek, de verwerking en de gelekte gegevens is het restrisico acceptabel.
+
 ### 7.3. Bieden de andere technische beschermingsmaatregelen die ik heb toegepast voldoende bescherming om de melding aan de betrokkene achterwege te kunnen laten?
 
-Naast encryptie vermeldt de Nederlandse wetsgeschiedenis nog een andere technische beschermingsmaatregel waarmee persoonsgegevens kunnen worden beschermd tegen onbevoegde kennisname: het op afstand wissen van de gegevens die op een apparaat staan (**remote wiping**). Door de gegevens te wissen worden deze ontoegankelijk voor onbevoegden, aangezien na een geslaagde **remote wipe** een eventuele aanvaller nog wel de beschikking heeft over het apparaat waarop de gegevens stonden, maar niet meer over de gegevens zelf. Een **remote wipe** heeft echter uitsluitend kans van slagen als er aan een aantal randvoorwaarden wordt voldaan. De eerste randvoorwaarde is dat de **remote wipe** tijdig in gang wordt gezet, zodat een eventuele aanvaller nog geen kans heeft gehad om kennis te nemen van de gegevens. Verder moet op dat moment het apparaat waar het om gaat nog intact zijn en werken, zodat het in staat is om de **remote wipe** uit te voeren en de gegevens te wissen. Ook moet de toepassing die voor het wissen van de gegevens wordt gebruikt correct werken, zodat alle gegevens waar het om gaat daadwerkelijk worden verwijderd en er ook geen sporen achterblijven waaruit de oorspronkelijke gegevens kunnen worden gereconstrueerd.
+Naast encryptie vermeldt de Nederlandse wetsgeschiedenis nog een andere technische beschermingsmaatregel waarmee persoonsgegevens kunnen worden beschermd tegen onbevoegde kennisname: het op afstand wissen van de gegevens die op een apparaat staan (*remote wiping*). Door de gegevens te wissen worden deze ontoegankelijk voor onbevoegden, aangezien na een geslaagde *remote wipe* een eventuele aanvaller nog wel de beschikking heeft over het apparaat waarop de gegevens stonden, maar niet meer over de gegevens zelf. Een *remote wipe* heeft echter uitsluitend kans van slagen als er aan een aantal randvoorwaarden wordt voldaan. De eerste randvoorwaarde is dat de *remote wipe* tijdig in gang wordt gezet, zodat een eventuele aanvaller nog geen kans heeft gehad om kennis te nemen van de gegevens. Verder moet op dat moment het apparaat waar het om gaat nog intact zijn en werken, zodat het in staat is om de *remote wipe* uit te voeren en de gegevens te wissen. Ook moet de toepassing die voor het wissen van de gegevens wordt gebruikt correct werken, zodat alle gegevens waar het om gaat daadwerkelijk worden verwijderd en er ook geen sporen achterblijven waaruit de oorspronkelijke gegevens kunnen worden gereconstrueerd.
 
-Als u gebruik maakt van **remote wiping**, dan zult u op basis van de specifieke omstandigheden van het geval vast moeten stellen of er wordt voldaan aan de strenge norm uit het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a). De voorgaande paragrafen kunt u daarbij gebruiken als leidraad.
+Als u gebruik maakt van *remote wiping*, dan zult u op basis van de specifieke omstandigheden van het geval vast moeten stellen of er wordt voldaan aan de strenge norm uit het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a). De voorgaande paragrafen kunt u daarbij gebruiken als leidraad.
 
 Ook als de gelekte gegevens gepseudonimiseerd zijn zult u op basis van de specifieke omstandigheden van het geval vast moeten stellen of er aan de norm uit het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a) wordt voldaan. Pseudonimisering wil zeggen dat u technische maatregelen heeft genomen om te voorkomen dat de persoonsgegevens worden gekoppeld aan de oorspronkelijke identiteit van de betrokkene. Geslaagde pseudonimisering maakt de persoonsgegevens waarover het gaat tot op zekere hoogte onbegrijpelijk voor onbevoegden en de kans dat een datalek ongunstige gevolgen zal hebben voor de persoonlijke levenssfeer van de betrokkene wordt als gevolg daarvan verlaagd. Onvolkomenheden in de wijze waarop de persoonsgegevens zijn gepseudonimiseerd kunnen er echter toe leiden dat onbevoegden de oorspronkelijke identiteit van de betrokkenen alsnog kunnen achterhalen, eventueel met gebruikmaking van andere gegevens die ze reeds in hun bezit hadden of alsnog in hun bezit krijgen.
 
-Net als bij **remote wiping** zult u dus ook bij blootstelling van gepseudonimiseerde gegevens aan onbevoegde kennisname op basis van de specifieke omstandigheden van het geval moeten vaststellen of er wordt voldaan aan de strenge norm uit het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a). De onderstaande paragrafen kunt u daarbij gebruiken als leidraad. Verder is aan te bevelen om bij de beoordeling gebruik te maken van het advies over anonimiseringstechnieken dat de samenwerkende Europese toezichthouders in 2014 hebben uitgebracht.37Artikel 29-Werkgroep, **Advies 5/2014 over anonimiseringstechnieken**, http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_nl.pdf.
+Net als bij *remote wiping* zult u dus ook bij blootstelling van gepseudonimiseerde gegevens aan onbevoegde kennisname op basis van de specifieke omstandigheden van het geval moeten vaststellen of er wordt voldaan aan de strenge norm uit het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a). De onderstaande paragrafen kunt u daarbij gebruiken als leidraad. Verder is aan te bevelen om bij de beoordeling gebruik te maken van het advies over anonimiseringstechnieken dat de samenwerkende Europese toezichthouders in 2014 hebben uitgebracht.37Artikel 29-Werkgroep, *Advies 5/2014 over anonimiseringstechnieken*, http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_nl.pdf.
 
 ### 7.4. Zal het datalek waarschijnlijk ongunstige gevolgen hebben voor de persoonlijke levenssfeer van de betrokkene?
 
@@ -396,27 +519,45 @@ Betrokkenen kunnen door het verlies, onrechtmatig gebruik of misbruik van persoo
 
 Het is aan u om te beoordelen of u een datalek aan de betrokkene moet melden.
 
-Indien er **persoonsgegevens van gevoelige aard** zijn gelekt, dan moet u er van uitgaan dat u het datalek niet alleen moet melden aan de Autoriteit Persoonsgegevens, maar ook aan de betrokkene. Verlies of onrechtmatige verwerking van dergelijke gegevens kunnen onder meer leiden tot stigmatisering of uitsluiting van de betrokkene, tot schade aan de gezondheid, financiële schade of (identiteits)fraude. Meer informatie treft u aan in paragraaf 4.2.1 van deze beleidsregels.
+Indien er *persoonsgegevens van gevoelige aard* zijn gelekt, dan moet u er van uitgaan dat u het datalek niet alleen moet melden aan de Autoriteit Persoonsgegevens, maar ook aan de betrokkene. Verlies of onrechtmatige verwerking van dergelijke gegevens kunnen onder meer leiden tot stigmatisering of uitsluiting van de betrokkene, tot schade aan de gezondheid, financiële schade of (identiteits)fraude. Meer informatie treft u aan in [paragraaf 4.2.1](https://wetten.overheid.nl/BWBR0037346) van deze beleidsregels.
 
 In alle overige gevallen zult u op basis van de omstandigheden van het geval een afweging moeten maken.
 
 Het informeren van de betrokkene over een opgetreden datalek is met name noodzakelijk in situaties waarin er voor hem of haar daadwerkelijk ongunstige gevolgen voor de persoonlijke levenssfeer te duchten zijn. Door de kennisgeving is de betrokkene alert op de mogelijke gevolgen van het datalek en kan hij of zij zich, voor zover dat mogelijk is, daartegen wapenen door bijvoorbeeld extra voorzorgsmaatregelen te treffen (zoals vervanging van een wachtwoord) of door diensten of producten van een andere marktpartij af te nemen.39Kamerstukken II 2014/15, 33 662, nr. 11, blz. 6.
 
-**Voorbeelden van datalekken die moeten worden gemeld aan de betrokkene** 40 Volledigheidshalve zijn hier ook de voorbeelden opgenomen die betrekking hebben op de telecomsector. De voorbeelden zijn ontleend aan Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, van de Artikel 29-Werkgroep. In dit advies is per voorbeeld een meer uitgebreide uitwerking opgenomen, met daarbij ook maatregelen waarmee het datalek had kunnen worden voorkomen of de negatieve gevolgen hadden kunnen worden beperkt.
+*Voorbeelden van datalekken die moeten worden gemeld aan de betrokkene*
+ 40
+ Volledigheidshalve zijn hier ook de voorbeelden opgenomen die betrekking hebben op de telecomsector. De voorbeelden zijn ontleend aan Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, van de Artikel 29-Werkgroep. In dit advies is per voorbeeld een meer uitgebreide uitwerking opgenomen, met daarbij ook maatregelen waarmee het datalek had kunnen worden voorkomen of de negatieve gevolgen hadden kunnen worden beperkt.
+
+- 1. Vier laptops zijn gestolen bij een gezondheidscentrum voor kinderen. De laptops bevatten gevoelige gegevens over gezondheid en welzijn en andere persoonsgegevens van meer dan 2000 kinderen. *Gelet op de mogelijke gevolgen van het datalek is kennisgeving aan de betrokkenen geboden. Daarbij is het wel belangrijk om rekening te houden met de leeftijd en de rijpheid van de betrokkenen. Naast de kennisgeving aan het kind zelf, voor zover deze passend is, kan het in dit geval juister zijn om een ouder of voogd, die al actief betrokken is bij de medische verzorging van het kind, op de hoogte te brengen.* *Door de kwijtgeraakte gegevens kan de integriteit van de medische dossiers worden aangetast, wat de behandeling van de kinderen kan verstoren. Als de ouders of verzorgers op de hoogte zijn van het datalek dan kunnen ze hier alert op zijn, en kunnen ze bij eventuele afwijkingen in de medische zorg voor hun kinderen contact opnemen met de betreffende zorgverlener.*
+
+- 2. Bij een levensverzekeraar waren persoonsgegevens ongeoorloofd ingezien als gevolg van een kwetsbaarheid in een webapplicatie. Van 700 personen konden naam, adres en formulieren met medische gegevens worden ingezien. *Als de aanvaller buitgemaakte gegevens op internet zet kan dat er bijvoorbeeld toe leiden dat betrokkenen moeilijker een baan kunnen vinden, als gevolg van het bekend worden van informatie over gezondheidsproblemen, zwangerschap, etc. Betrokkenen kunnen ook te maken krijgen met phishing of identiteitsfraude. Het datalek heeft waarschijnlijk negatieve gevolgen voor de betrokkenen, die er daarom van in kennis moeten worden gesteld.*
+
+- 3. Een medewerker van een internetprovider heeft zijn login/wachtwoordgegevens aan een derde partij gegeven die daardoor nagenoeg onbeperkt bij alle klantgegevens (meer dan 100.000) kon komen. Het kan niet redelijkerwijs worden uitgesloten dat er daadwerkelijk persoonsgegevens verloren zijn gegaan of onrechtmatig zijn verwerkt. *De derde partij had onder meer toegang tot betaalgegevens (waaronder creditcardinformatie) en hashwaarden van wachtwoorden van klanten. Misbruik van de betaalgegevens kan financiële gevolgen hebben voor de klanten. Ook is het mogelijk dat de onbevoegde derde op basis van de buitgemaakte hashwaarden de oorspronkelijke wachtwoorden van de klanten kan achterhalen. Het datalek heeft waarschijnlijk negatieve gevolgen voor de betrokkenen, die er daarom van in kennis moeten worden gesteld. Als de wachtwoorden niet meer veilig zijn, dan moet de verantwoordelijke de klanten op een veilige manier verplichten om een nieuw wachtwoord aan te maken. Hij moet daarbij zorgen dat de nieuwe wachtwoorden worden aangemaakt door legitieme gebruikers, en niet door derden die de inloggegevens hebben bemachtigd. Hij moet daarbij ook aangeven wat de reden is voor de vervanging van het wachtwoord.*
+
+- 4. Een envelop met creditcardbetalingsgegevens van 800 personen was per ongeluk niet versnipperd, maar in een vuilnisbak gegooid. Een derde persoon haalde de gegevens uit de vuilniscontainer op straat en verstrekte ze aan andere personen. *Het datalek kan financiële consequenties hebben voor de betrokkenen, als hun kaartgegevens nog geldig zijn en worden misbruikt. De betrokkenen moeten daarom van het datalek in kennis worden gesteld.*
+
+- 5. De versleutelde laptop van een financieel adviseur is uit de auto gestolen. Financiële gegevens (hypotheken, salarissen, leningen) van 1000 personen waren betrokken. Hoewel het wachtwoord van de laptop niet gecompromitteerd is, was er geen back-up voorhanden. *Aangezien de verantwoordelijke niet meer beschikt over de persoonsgegevens die op de laptop stonden, zullen deze opnieuw door de betrokkenen moeten worden verstrekt. Op zich heeft dit slechts beperkte negatieve gevolgen voor de betrokkenen: er is hooguit sprake van frustratie en tijdverspilling omdat ze alle informatie nogmaals moeten verzamelen. In sommige gevallen kunnen ook deadlines voor de indiening van documenten of aanvragen worden overschreden, wat kan leiden tot financiële schade voor de betrokkenen. De betrokkenen moeten van het datalek in kennis worden gesteld. In de kennisgeving moet worden aangegeven dat de gegevens opnieuw aan de financieel adviseur moeten worden verstrekt, en moet uitleg worden gegeven over de potentiële consequenties en mogelijke negatieve gevolgen van het datalek.*
+
+- 6. Op de website van een telefoonbedrijf kunnen klanten inloggen en hun financiële gegevens en belgegevens inzien. Een derde partij heeft toegang gekregen tot de database met inlognamen en bijbehorende hashwaarden van wachtwoorden. Bij het hashen van de wachtwoorden is gebruik gemaakt van een verouderd algoritme dat onvoldoende bescherming biedt tegen kennisname door onbevoegden. Gevolg is dat een derde partij de oorspronkelijke wachtwoorden zonder al te veel moeite zal kunnen achterhalen. *[Dit voorbeeld heeft betrekking op de telecomsector, en valt dus niet onder de meldplicht datalekken uit de Wbp. De overwegingen bij het informeren van de betrokkenen kunnen echter ook buiten de telecomsector worden toegepast.] De derde partij kan de wachtwoorden van alle abonnees achterhalen. Hij beschikt ook over de inlognamen, en kan zich daardoor toegang verschaffen tot alle accounts. Veel mensen gebruiken voor het inloggen op meerdere websites dezelfde combinatie van inlognaam en wachtwoord. Dit betekent dat de derde zich met de buitgemaakte gegevens mogelijk ook toegang kan verschaffen tot andere accounts van sommige betrokkenen, waaronder mogelijk ook e-mailaccounts. Dit datalek heeft waarschijnlijk negatieve gevolgen voor de betrokkenen, en kennisgeving is vereist. De klanten moeten op de hoogte worden gesteld van het datalek, met daarbij het dringende advies om voor alle accounts waar ze hetzelfde wachtwoord gebruiken, dit wachtwoord aan te passen. Ze moeten bij het inloggen op de website in kwestie ook worden gedwongen om hun wachtwoord voor de kwestie aan te passen. Daarbij moet worden gezorgd dat de nieuwe wachtwoorden worden aangemaakt door legitieme gebruikers, en niet door derden die de inloggegevens hebben bemachtigd.*
+
+- 7. Een internetprovider biedt de gebruikers de mogelijkheid om details van hun account te zien, zoals onder andere historische zoekgegevens en vaak bezochte websites. Door een fout in de website had eenieder via een simpele truc de mogelijkheid om de accounts van andere gebruikers vrijelijk in te zien. Zonder een sluitende logging is hier niet vast te stellen of dat daadwerkelijk is gebeurd en welke gegevens dan zijn geraadpleegd. *[Dit voorbeeld heeft betrekking op de telecomsector, en valt dus niet onder de meldplicht datalekken uit de Wbp. De overwegingen bij het informeren van de betrokkenen kunnen echter ook buiten de telecomsector worden toegepast.] De gegevens kunnen worden gebruikt voor het versturen van spam aan de betrokkenen of voor telefonische verkoop of phishing. De buitgemaakte gegevens kunnen mogelijk ook worden gebruikt om profielen van de klanten op te stellen of hun gedragingen in kaart te brengen, wat gevoelige informatie aan het licht zou kunnen brengen. Dit datalek heeft waarschijnlijk negatieve gevolgen voor de betrokkenen, en moet daarom aan hen worden gemeld.*
 
 ### 7.5. Zijn er zwaarwegende redenen om de melding aan de betrokkene achterwege te laten?
 
-U mag de melding aan de betrokkene achterwege laten, als daarvoor zwaarwegende redenen aanwezig zijn ([artikel 43 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43)). Daarbij geldt wel dat de melding aan de betrokkene alleen achterwege mag blijven als dit **noodzakelijk** is met het oog op de belangen die worden genoemd in dit artikel.
+U mag de melding aan de betrokkene achterwege laten, als daarvoor zwaarwegende redenen aanwezig zijn ([artikel 43 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43)). Daarbij geldt wel dat de melding aan de betrokkene alleen achterwege mag blijven als dit *noodzakelijk* is met het oog op de belangen die worden genoemd in dit artikel.
 
 Op grond van [artikel 43, onder e, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43) mag van de melding aan de betrokkene worden afgezien voor zover dit noodzakelijk is in het belang van de bescherming van de betrokkene.
 
-**Voorbeeld achterwege laten melding i.v.m. bescherming betrokkene**
+*Voorbeeld achterwege laten melding i.v.m. bescherming betrokkene*
 
 Er zijn gegevens gelekt over medische en psychosociale hulpvragen die kinderen buiten medeweten van hun ouders hebben gedaan. De verantwoordelijke meldt het datalek aan de Autoriteit Persoonsgegevens, en beroept zich op [artikel 43, onder e, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43) om de melding aan de betrokkenen achterwege te kunnen laten. Reden is dat de ouders door de melding op de hoogte zouden kunnen raken van de hulpvraag.
 
 Het melden van datalekken aan de betrokkenen brengt administratieve lasten met zich mee, maar op zichzelf is dat geen reden om de melding achterwege te laten. Alleen als u aannemelijk kunt maken dat de administratieve lasten die zijn gemoeid met het melden van het datalek aan de betrokkene zodanig disproportioneel zijn dat u in een van uw rechten en vrijheden wordt aangetast of dreigt te worden aangetast, dan kunt u een beroep doen op [artikel 43, onder e, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43) om melding aan de betrokkene achterwege te laten.
 
-**Voorbeeld achterwege laten melding i.v.m. rechten en vrijheden verantwoordelijke** 41 Kamerstukken II, 2013/14, 33 662, blz. 8.
+*Voorbeeld achterwege laten melding i.v.m. rechten en vrijheden verantwoordelijke*
+ 41
+ Kamerstukken II, 2013/14, 33 662, blz. 8.
 
 Een beursgenoteerde onderneming is verwikkeld in een overname op het moment dat zich een groot datalek voordoet. De onderneming meldt het datalek aan de Autoriteit Persoonsgegevens, en beroept zich op [artikel 43, onder e, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43) om de melding aan de betrokkene (voorlopig) achterwege te kunnen laten.
 
@@ -426,17 +567,31 @@ In de kennisgeving aan de betrokkene vermeldt u in ieder geval: de aard van de i
 
 Bij het beschrijven van de aard van de inbreuk kunt u doorgaans met een algemene omschrijving volstaan. U neemt uw contactgegevens op zodat de betrokkene u kan bereiken als hij of zij vragen heeft over het datalek. Verder geeft u aan wat de betrokkene zelf kan doen om de negatieve gevolgen van het datalek te beperken. U moet daarbij denken aan het veranderen van gebruikersnamen en wachtwoorden wanneer deze door de inbreuk mogelijk gecompromitteerd zijn. Het staat u vrij om meer informatie toe te voegen aan de kennisgeving, maar dit is niet verplicht.42Kamerstukken II, 2012/13, 33 662, nr. 3, blz. 21-22.
 
-**Voorbeeld melding aan de betrokkene en vervolgacties** 43 Bron: Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, Casus 6.
+*Voorbeeld melding aan de betrokkene en vervolgacties*
+ 43
+ Bron: Artikel 29-Werkgroep, Advies 03/2014 over kennisgeving bij inbreuken in verband met persoonsgegevens, goedgekeurd op 25 maart 2014, Casus 6.
 
 Een energieleverancier biedt zijn klanten een online account aan waarop ze kunnen inloggen om recente facturen en verbruiksinformatie te raadplegen. Het bedrijf ontdekt dat een derde zich illegaal toegang heeft verschaft tot de database met gebruikersnamen en wachtwoorden van de website. De wachtwoorden zijn niet adequaat versleuteld.
 
 De energieleverancier onderneemt de volgende acties:
+
+- • hij informeert zijn klanten over het datalek. Hij beveelt daarbij aan om, voor alle accounts waar de klant hetzelfde wachtwoord gebruikt, dit wachtwoord te wijzigen;
+
+- • hij reset alle wachtwoorden en dwingt alle gebruikers om een nieuw wachtwoord op te geven. Hij doet dit op een veilige manier zodat hij zeker weet dat het zijn klanten zijn die een nieuw wachtwoord aanmaken, en niet een onbevoegde derde, en hij geeft hierbij ook aan waarom de klant een nieuw wachtwoord aan moet maken;
+
+- • hij past zijn systemen aan, zodat alle gebruikte wachtwoorden op een adequate manier worden versleuteld.
 
 U doet de kennisgeving aan de betrokkene op zo'n manier dat, rekening houdend met de aard van de inbreuk, de geconstateerde en de feitelijke gevolgen daarvan voor de verwerking van persoonsgegevens, de kring van betrokkenen en de kosten van tenuitvoerlegging, een behoorlijke en zorgvuldige informatievoorziening is gewaarborgd ([artikel 34a, lid 5 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a)).
 
 In veruit de meeste gevallen zult u als verantwoordelijke beschikken over de contactgegevens van de betrokkenen, en zult u in staat zijn om de betrokkenen individueel te informeren.
 
 Bij meer omvangrijke incidenten kunt u kiezen voor een combinatie van algemene voorlichting en het op individuele basis informeren van betrokkenen. Bijvoorbeeld:
+
+- • U stuurt een e-mail naar de betrokkenen waarin u kort aangeeft wat er is gebeurd en wat de betrokkene zelf kan doen om de negatieve gevolgen tegen te gaan.
+
+- • In de e-mail aan de betrokkenen verwijst u naar meer uitgebreide informatie op uw website. Daar licht u de aard van de inbreuk en de maatregelen die de betrokkene zelf kan treffen waar nodig nader toe.
+
+- • Verder verwijst u in de e-mail naar een centraal informatiepunt (e-mail, telefoonnummer) waar de betrokkene nadere informatie kan verkrijgen.
 
 Het belangrijkste is, dat u zo veel mogelijk betrokkenen bereikt met informatie die hen helpt om de gevolgen van het datalek voor hun persoonlijke levenssfeer zo veel mogelijk te beperken. Met enkel een bericht in de media wordt dat doel normaal gesproken niet bereikt. 44Kamerstukken I, 2014/15, 33 662, nr. C, blz. 15.
 
@@ -454,13 +609,19 @@ In de melding aan de Autoriteit Persoonsgegevens moet u aangeven of u het datale
 
 U moet een overzicht bijhouden van alle datalekken die onder de meldplicht vallen. Per datalek bevat het overzicht in ieder geval feiten en gegevens omtrent de aard van de inbreuk. Als het datalek is gemeld aan de betrokkene, dan neemt u ook de tekst van de kennisgeving aan de betrokkene in het overzicht op [(artikel 34a lid 8 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a)).
 
-De wet schrijft niet voor hoe lang u het overzicht moet bewaren. Ga uit van een bewaartermijn van **minimaal een jaar**. In bepaalde gevallen kan het nodig zijn om een langere bewaartermijn te hanteren.45Handelingen I 2014/15, nr. 12, blz. 5. Het onderstaande schema biedt u hiervoor een beslismodel.
+De wet schrijft niet voor hoe lang u het overzicht moet bewaren. Ga uit van een bewaartermijn van *minimaal een jaar*. In bepaalde gevallen kan het nodig zijn om een langere bewaartermijn te hanteren.45Handelingen I 2014/15, nr. 12, blz. 5. Het onderstaande schema biedt u hiervoor een beslismodel.
 
-U hoeft uitsluitend gegevens vast te leggen over datalekken die onder de meldplicht vallen. Mocht u nog niet hebben vastgesteld of het betreffende datalek onder de meldplicht valt, doorloop dan eerst de stappen uit hoofdstuk 3 van deze beleidsregels.
+U hoeft uitsluitend gegevens vast te leggen over datalekken die onder de meldplicht vallen. Mocht u nog niet hebben vastgesteld of het betreffende datalek onder de meldplicht valt, doorloop dan eerst de stappen uit [hoofdstuk 3](https://wetten.overheid.nl/BWBR0037346) van deze beleidsregels.
 
-De vragen uit het bovenstaande schema worden nader toegelicht in hoofdstuk 7 van deze beleidsregels.
+De vragen uit het bovenstaande schema worden nader toegelicht in [hoofdstuk 7](https://wetten.overheid.nl/BWBR0037346) van deze beleidsregels.
 
 Het bovenstaande schema gaat ervan uit dat u de gegevens voor de volgende doeleinden bewaart:
+
+- • lering trekken uit het datalek en uit de wijze waarop u dit heeft afgehandeld;
+
+- • antwoord kunnen geven op vragen van betrokkenen en anderen;
+
+- • alsnog melden van het datalek aan de betrokkenen, indien u dit in eerste instantie achterwege hebt gelaten en de omstandigheden vereisen dat u dit alsnog doet.
 
 Dit laatste kan zich bijvoorbeeld voordoen als u bij diefstal van een versleutelde dataset op grond van het zesde lid van [artikel 34a Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a) besluit om de kennisgeving aan de betrokkene achterwege te laten. U moet zich er in een dergelijke situatie van bewust zijn dat de komst van nieuwe technieken nieuwe risico's kan inhouden, en dat er met grote regelmaat nieuwe kwetsbaarheden in breed gebruikte versleutelingsalgoritmen worden ontdekt. Dit houdt in dat u, met de diefstal van de versleutelde dataset in het achterhoofd, over een langere periode alert moet zijn op deze risico's. Bij signalen van mogelijke ontsleuteling zult u alsnog de afweging moeten maken of u de betrokken personen moet informeren.46Kamerstukken II, 2014/15, 33 662, nr. 11, blz. 10.
 
@@ -503,71 +664,3 @@ Als sprake is van een overtreding van de [Wbp](https://wetten.overheid.nl/jci1.3
 Indien er geen sprake is van een overtreding van de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) die opzettelijk is gepleegd of het gevolg is van ernstig verwijtbare nalatigheid, gaat een bindende aanwijzing vooraf aan het opleggen van een bestuurlijke boete. De Autoriteit Persoonsgegevens kan de overtreder een termijn stellen waarbinnen de aanwijzing moet worden opgevolgd ([artikel 66, derde lid, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=66)). Bij het niet nakomen van een bindende aanwijzing kan de Autoriteit Persoonsgegevens een bestuurlijke boete opleggen van ten hoogste het bedrag van de geldboete van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) ([artikel 66, vijfde lid, Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=66)).
 
 Bij het opleggen van een bestuurlijke boete houdt de Autoriteit Persoonsgegevens rekening met alle omstandigheden van het geval. Een omstandigheid van het geval kan bestaan uit het feit dat de gegevens waarover het gaat niet door derden zijn ingezien en de privacybelangen van de betrokkenen niet daadwerkelijk zijn geschaad.50Kamerstukken II 2014/15, 33 662, nr. 24.
-
-## Bijlage 1. Gegevens in de melding
-
-Deze bijlage bevat de gegevens die u op moet geven als u een datalek meldt aan de Autoriteit Persoonsgegevens. Bij het formulier zijn de vragen uit bijlage I bij de Europese [Verordening 611/2013](32013R0611) als uitgangspunt gehanteerd. Binnen Europa wordt gestreefd naar harmonisatie van de wijze waarop datalekken in de telecomsector aan de toezichthouder moeten worden gemeld.51[Verordening 611/2013](32013R0611), considerans 11. Op het moment dat dit streven leidt tot concrete resultaten, dan zal de Autoriteit Persoonsgegevens daar uiteraard bij aansluiten.
-
-### Aard van de melding
-
-### Wettelijk kader voor de melding
-
-### Algemene informatie en contactgegevens
-
-### Gegevens over het datalek
-
-### Vervolgacties naar aanleiding van het datalek
-
-### Inlichten van de betrokkenen
-
-### Technische beschermingsmaatregelen
-
-### Internationale aspecten
-
-### Vervolgmelding
-
-## Bijlage 2. Tekst van de geciteerde wetsartikelen
-
-Deze bijlage bevat de volledige tekst van de geciteerde wetsartikelen.
-
-### Artikel 1 Wbp
-
-In deze wet en de daarop berustende bepalingen wordt verstaan onder:
-
-### Artikel 2 Wbp
-
-### Artikel 3 Wbp
-
-### Artikel 4 Wbp
-
-### Artikel 13 Wbp
-
-De verantwoordelijke legt passende technische en organisatorische maatregelen ten uitvoer om persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking. Deze maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau gelet op de risico's die de verwerking en de aard van te beschermen gegevens met zich meebrengen. De maatregelen zijn er mede op gericht onnodige verzameling en verdere verwerking van persoonsgegevens te voorkomen.
-
-### Artikel 14 Wbp
-
-### Artikel 34a Wbp
-
-### Artikel 43 Wbp
-
-De verantwoordelijke kan de artikelen 9, eerste lid, 30, derde lid, 33, 34, 34a, tweede lid, en 35 buiten toepassing laten voor zover dit noodzakelijk is in het belang van:
-
-### Artikel 51a Wbp
-
-### Artikel 60 Wbp
-
-### Artikel 65 Wbp
-
-Het College is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
-
-### Artikel 66 Wbp
-
-### Artikel 1.1 Tw
-
-In deze wet en de daarop berustende bepalingen wordt verstaan onder:
-
-[…]
-
-### Artikel 11.3a Tw
-
-### Artikel 4 [Verordening 611/2013](32013R0611)

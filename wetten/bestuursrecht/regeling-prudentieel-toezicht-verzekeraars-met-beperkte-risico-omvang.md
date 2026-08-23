@@ -1,48 +1,18 @@
 ---
 title: "Regeling van De Nederlandsche Bank N.V. van 7 januari 2016 houdende regels met betrekking tot het prudentieel toezicht op verzekeraars met beperkte risico-omvang (Regeling prudentieel toezicht verzekeraars met beperkte risico-omvang)"
+citeertitel: "Regeling prudentieel toezicht verzekeraars met beperkte risico-omvang"
 identifier: "BWBR0037542"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-12-31"
-last_updated: "2022-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037542"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "13393443"
-version_id: "22971772"
-internal_id: "C33215821"
-label_id: "13361294"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037542/2022-12-31/0"
-intitule_bron: "Stcrt.2016-1432"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-07"
-intitule_published: "2016-01-18"
-intitule_in_force: "2016-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-1432"
-original_signed_date: "2016-01-07"
-original_published_date: "2016-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-1432"
-entry_into_force_date: "2016-01-18"
-jci_1_3: "jci1.3:c:BWBR0037542&z=2022-12-31&g=2022-12-31"
-jci_1_0: "1.0:c:BWBR0037542&g=2022-12-31"
-citeertitel_status: "redactioneel"
-short_title: "Regeling prudentieel toezicht verzekeraars met beperkte risico-omvang"
-signed_date: "2016-01-07"
-entry_into_force: "2016-01-18"
+publicatiedatum: 2016-01-18
+laatste_update: 2022-12-31
+status: geldig
+toestand: 2022-12-31
+bron: "https://wetten.overheid.nl/BWBR0037542"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van De Nederlandsche Bank N.V. van 7 januari 2016 houdende regels met betrekking tot het prudentieel toezicht op verzekeraars met beperkte risico-omvang (Regeling prudentieel toezicht verzekeraars met beperkte risico-omvang)
-
-Gelet op de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=4), [131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131)[133](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=133) en [135 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135);
-
-Gelet op de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=6), en [artikel 9 van het Besluit prudentieel toezicht financiële groepen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=9);
-
-Na consultatie van de betrokken representatieve organisaties;
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -50,15 +20,16 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **DNB:** De Nederlandsche Bank N.V.;
+- a. *DNB:* De Nederlandsche Bank N.V.;
 
-- b. **Wft:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
+- b. *Wft:*
+ [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
-- e. **totale intragroeppositie:** totale financiële verhouding die voortvloeit uit alle intragroepovereenkomsten.
+- e. *totale intragroeppositie:* totale financiële verhouding die voortvloeit uit alle intragroepovereenkomsten.
 
 ### Hoofdstuk 2. Rapportagevereisten verzekeraars met beperkte risico-omvang
 
-#### Bepalingen ter uitvoering van [artikel 131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131), en [133 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=133)
+#### Bepalingen ter uitvoering van artikel 131, eerste lid, en 133 van het Besluit prudentiële regels Wft
 
 ##### Artikel 2:1. (Modellen van staten)
 
@@ -88,7 +59,7 @@ Een accountant betrekt bij zijn onderzoek, bedoeld in [artikel 133 van het Beslu
 
 ### Hoofdstuk 3. Branchegroepen en opgave van gesloten verzekeringen
 
-#### Bepalingen ter uitvoering van de [artikelen 131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131), en [135 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135)
+#### Bepalingen ter uitvoering van de artikelen 131, eerste lid, en 135 van het Besluit prudentiële regels Wft
 
 ##### Artikel 3:1
 
@@ -104,7 +75,7 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit pru
 
 ### Hoofdstuk 4. Waardering deelnemingen van verzekeraars met beperkte risico-omvang
 
-#### Bepalingen ter uitvoering van [artikel 4, vierde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=4)
+#### Bepalingen ter uitvoering van artikel 4, vierde lid, van het Besluit prudentiële regels Wft
 
 ##### Artikel 4
 
@@ -116,7 +87,7 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit pru
 
 ### Hoofdstuk 5. Rapportagevereisten verzekeraars met beperkte risico-omvang in een verzekeringsgroep
 
-#### Bepalingen ter uitvoering van [artikel 5, tweede en derde lid, van Besluit prudentieel toezicht financiële groepen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=5)
+#### Bepalingen ter uitvoering van artikel 5, tweede en derde lid, van Besluit prudentieel toezicht financiële groepen Wft
 
 ##### Artikel 5:1
 
@@ -158,52 +129,10 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit pru
 
 4. De in het derde lid, onderdeel d, bedoelde overige vorderingen gaan vergezeld van een toelichting betreffende de aard van de vordering.
 
-#### Bepalingen ter uitvoering van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=6), en [artikel 9 van Besluit prudentieel toezicht financiële groepen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=9)
+#### Bepalingen ter uitvoering van artikel 6, derde lid, en artikel 9 van Besluit prudentieel toezicht financiële groepen Wft
 
 ##### Artikel 6
 
 1. Een verzekeraar als bedoeld in de [artikel 3:281b, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281b) gebruikt voor de berekening van de aangepaste solvabiliteit, bedoeld in [artikel 9 van het Besluit prudentieel toezicht financiële groepen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=9) de staten zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=5&z=2022-12-31&g=2022-12-31) bij deze regeling met uitzondering van de bladen IG-posities 1, 2 en 3.
 
 2. De staten, bedoeld in het eerst lid, worden uiterlijk 6 weken na de ingevolge [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=2&artikel=2:2&z=2022-12-31&g=2022-12-31), van toepassing zijnde indieningstermijn bij DNB ingediend.
-
-## Bijlage 1. Modellen van jaarstaten voor verzekeraars met beperkte risico-omvang
-
-[Ligt ter inzage bij de Nederlandsche Bank N.V.]
-
-## Bijlage 2. Modellen van kwartaalstaten voor verzekeraars met beperkte risico-omvang
-
-[Ligt ter inzage bij de Nederlandsche Bank N.V.]
-
-## Bijlage 3. Door accountant te waarmerken jaarstaten voor verzekeraars met beperkte risico-omvang
-
-### Bijlage bij [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=2&artikel=2:4&z=2022-12-31&g=2022-12-31)
-
-Voor geen van de kwartaalrapportages voor verzekeraars met een beperkte risico-omvang zal certificering door de externe accountant gevraagd gaan worden.
-
-## Bijlage 4. Opgave van gesloten verzekeringen door natura-uitvaartverzekeraar
-
-Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een natura-uitvaartverzekeraar als bedoeld in [artikel 3:87, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:87).
-
-|   |   |
-| --- | --- |
-| **Naam natura-uitvaartverzekeraar: ..........** | **Boekjaar: ..........** |
-
-Zetel: .........
-
-Betreft dienstverrichting naar Nederland vanuit: .........
-
-|   | x EUR 1000 |
-| --- | --- |
-| Premie |   |
-
-Ondertekening door bestuurder
-
-| Naam: | handtekening: |
-| --- | --- |
-| ............ | .......... |
-| Plaats: | datum: |
-| .......... | .......... |
-
-## Bijlage 5. Modellen van staten voor verzekeraars met beperkte risico-omvang in een verzekeringsgroep
-
-[Ligt ter inzage bij de Nederlandsche Bank N.V.]

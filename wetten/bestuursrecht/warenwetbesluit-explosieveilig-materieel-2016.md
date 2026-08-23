@@ -1,98 +1,68 @@
 ---
 title: "Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit explosieveilig materieel 2016 en wijziging van het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit explosieveilig materieel 2016)"
+citeertitel: "Warenwetbesluit explosieveilig materieel 2016"
 identifier: "BWBR0037644"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-02-01"
-last_updated: "2020-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037644"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "13418033"
-version_id: "23025862"
-internal_id: "C33287211"
-label_id: "13385594"
-dtd_version: "2.0"
-original_entry_into_force: "2016-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037644/2020-02-01/0"
-intitule_bron: "Stb.2016-78"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-17"
-intitule_published: "2016-02-22"
-intitule_in_force: "2016-02-22"
-intitule_status: "goed"
-original_publication: "Stb.2016-78"
-original_signed_date: "2016-02-17"
-original_published_date: "2016-02-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-78"
-entry_into_force_date: "2016-02-23"
-jci_1_3: "jci1.3:c:BWBR0037644&z=2020-02-01&g=2020-02-01"
-jci_1_0: "1.0:c:BWBR0037644&g=2020-02-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit explosieveilig materieel 2016"
-signed_date: "2016-02-17"
-entry_into_force: "2016-02-23"
+publicatiedatum: 2016-02-23
+laatste_update: 2020-02-01
+status: geldig
+toestand: 2020-02-01
+bron: "https://wetten.overheid.nl/BWBR0037644"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit explosieveilig materieel 2016 en wijziging van het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit explosieveilig materieel 2016)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 18 december 2015, nr. 2015-0000309188;
-
-Gelet op [richtlijn nr. 2014/34](32014L0034)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake apparaten en beveiligingssystemen bedoeld voor het gebruik op plaatsen waar ontploffingsgevaar kan heersen (herschikking) (PbEU 2014, L 96), alsmede op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7), [7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) en [32b van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 januari 2016; nr. W12.15.0460/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 17 februari 2016, nr. 2016-0000017870
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepaling
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **richtlijn:** [richtlijn nr. 2014/34](32014L0034)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake apparaten en beveiligingssystemen bedoeld voor het gebruik op plaatsen waar ontploffingsgevaar kan heersen (herschikking) (PbEU 2014, L 96);
+- a. *richtlijn:*
+ richtlijn nr. 2014/34/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake apparaten en beveiligingssystemen bedoeld voor het gebruik op plaatsen waar ontploffingsgevaar kan heersen (herschikking) (PbEU 2014, L 96);
 
-- b. **accreditatie:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- b. *accreditatie:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- c. **apparaten:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- c. *apparaten:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- d. **apparaten van groep I:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- d. *apparaten van groep I:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- e. **apparaten van groep II:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- e. *apparaten van groep II:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- f. **apparatencategorie:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- f. *apparatencategorie:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- g. **beveiligingssystemen:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- g. *beveiligingssystemen:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- h. **CE-markering:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- h. *CE-markering:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- i. **componenten:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- i. *componenten:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- j. **conformiteitsbeoordeling:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- j. *conformiteitsbeoordeling:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- k. **distributeur:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- k. *distributeur:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- l. **EU-conformiteitsbeoordelingsinstantie:** conformiteitsbeoordelingsinstantie, genoemd in artikel 2 van de richtlijn;
+- l. *EU-conformiteitsbeoordelingsinstantie:* conformiteitsbeoordelingsinstantie, genoemd in artikel 2 van de richtlijn;
 
-- m. **fabrikant:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- m. *fabrikant:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- n. **geharmoniseerde norm:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- n. *geharmoniseerde norm:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- o. **gemachtigde vertegenwoordiger:** hetgeen artikel 2 van richtlijn daaronder verstaat;
+- o. *gemachtigde vertegenwoordiger:* hetgeen artikel 2 van richtlijn daaronder verstaat;
 
-- p. **importeur:** hetgeen artikel 2 van richtlijn daaronder verstaat;
+- p. *importeur:* hetgeen artikel 2 van richtlijn daaronder verstaat;
 
-- q. **in de handel brengen:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- q. *in de handel brengen:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- r. **marktdeelnemer:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- r. *marktdeelnemer:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- s. **nationale accreditatie-instantie:** nationale accreditatie-instantie bedoeld in [artikel 2 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=2) aanwijzing nationale accreditatie-instantie;
+- s. *nationale accreditatie-instantie:* nationale accreditatie-instantie bedoeld in [artikel 2 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=2) aanwijzing nationale accreditatie-instantie;
 
-- t. **op de markt aanbieden:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- t. *op de markt aanbieden:* hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- u. **producten:** hetgeen artikel 1, eerste lid, van de richtlijn daaronder verstaat; en
+- u. *producten:* hetgeen artikel 1, eerste lid, van de richtlijn daaronder verstaat; en
 
-- v. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
+- v. *wet:*
+ [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
 
 2. Dit besluit is niet van toepassing op producten als bedoeld in artikel 1, tweede lid, van de richtlijn.
 
@@ -256,17 +226,17 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-##### Artikel 16. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
+##### Artikel 16. Wijziging van het Warenwetbesluit bestuurlijke boeten
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
+*Wijzigt het Warenwetbesluit bestuurlijke boeten.*
 
 ##### Artikel 17. Overgangsbepaling
 
-1. Producten die voldoen aan het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden gesteld.
+1. Producten die voldoen aan het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden gesteld.
 
 2. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=19&z=2020-02-01&g=2020-02-01), van dit besluit wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=10&z=2020-02-01&g=2020-02-01).
 
-##### Artikel 18. Intrekking [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497)
+##### Artikel 18. Intrekking Warenwetbesluit explosieveilig materieel
 
 Het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497) wordt ingetrokken.
 
@@ -274,10 +244,8 @@ Het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3
 
 1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=1&z=2020-02-01&g=2020-02-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2020-02-01&g=2020-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=12&z=2020-02-01&g=2020-02-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=13&z=2020-02-01&g=2020-02-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=14&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=2&z=2020-02-01&g=2020-02-01) en [15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=15&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
+2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=2&z=2020-02-01&g=2020-02-01) en [15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=15&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
 
 ##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Warenwetbesluit explosieveilig materieel 2016.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

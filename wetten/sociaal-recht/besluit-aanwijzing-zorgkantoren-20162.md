@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, kenmerk 878309-144844-Z, houdende de aanwijzing van de zorgkantoren"
+citeertitel: "Besluit aanwijzing zorgkantoren 2016/2"
 identifier: "BWBR0037515"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037515"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13385833"
-version_id: "22955042"
-internal_id: "C33184631"
-label_id: "13353484"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037515/2020-01-01/0"
-intitule_bron: "Stcrt.2016-606"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-15"
-intitule_published: "2016-01-12"
-intitule_in_force: "2016-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-606"
-original_signed_date: "2015-12-15"
-original_published_date: "2016-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-606"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037515&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0037515&g=2020-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing zorgkantoren 2016/2"
-signed_date: "2015-12-15"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0037515"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, kenmerk 878309-144844-Z, houdende de aanwijzing van de zorgkantoren
-
-Gelet op [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -110,6 +82,4 @@ Voor de jaren 2016 tot en met 2020 zijn in de hiernavolgende regio’s de daarac
 
 ##### Artikel 2
 
-Dit besluit treedt in werking met ingang van 1 januari 2016.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
+Dit besluit treedt in werking met ingang van 1 januari 2016.

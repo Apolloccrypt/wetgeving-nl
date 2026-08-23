@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 augustus 2015, nr. 2015-0000232534, houdende de inrichting van de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden (Organisatie-, mandaat- en volmachtbesluit WBJA 2015)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit WBJA 2015"
 identifier: "BWBR0036932"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-03-28"
-last_updated: "2025-03-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036932"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13241863"
-version_id: "22645682"
-internal_id: "C32465811"
-label_id: "13210144"
-dtd_version: "2.0"
-original_entry_into_force: "2015-08-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036932/2025-03-28/0"
-intitule_bron: "Stcrt.2015-24717"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-08-05"
-intitule_published: "2015-08-14"
-intitule_in_force: "2015-08-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-24717"
-original_signed_date: "2015-08-05"
-original_published_date: "2015-08-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-24717"
-entry_into_force_date: "2015-08-15"
-jci_1_3: "jci1.3:c:BWBR0036932&z=2025-03-28&g=2025-03-28"
-jci_1_0: "1.0:c:BWBR0036932&g=2025-03-28"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit WBJA 2015"
-signed_date: "2015-08-05"
-entry_into_force: "2015-08-15"
+publicatiedatum: 2015-08-15
+laatste_update: 2025-03-28
+status: geldig
+toestand: 2025-03-28
+bron: "https://wetten.overheid.nl/BWBR0036932"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 augustus 2015, nr. 2015-0000232534, houdende de inrichting van de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden (Organisatie-, mandaat- en volmachtbesluit WBJA 2015)
-
-Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,19 +20,19 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **WBJA:** de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden van het ministerie;
+- a. *WBJA:* de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden van het ministerie;
 
-- b. **afdeling WAS:** de afdeling Wetgeving Arbeidsrelaties en Sociale Verzekeringen;
+- b. *afdeling WAS:* de afdeling Wetgeving Arbeidsrelaties en Sociale Verzekeringen;
 
-- c. **afdeling ABWA:** de afdeling Arbeidsmarkt, Bestuurlijk en Wetgeving Algemeen;
+- c. *afdeling ABWA:* de afdeling Arbeidsmarkt, Bestuurlijk en Wetgeving Algemeen;
 
-- d. **afdeling JA-BBS:** de afdeling Juridische Aangelegenheden – Bijstand, Bedrijfsjuridisch en Subsidies;
+- d. *afdeling JA-BBS:* de afdeling Juridische Aangelegenheden – Bijstand, Bedrijfsjuridisch en Subsidies;
 
-- e. **afdeling JA-SVIA:** de afdeling Juridische Aangelegenheden – Sociale Verzekeringen, Internationaal en Arbeid;
+- e. *afdeling JA-SVIA:* de afdeling Juridische Aangelegenheden – Sociale Verzekeringen, Internationaal en Arbeid;
 
-- f. **BO:** Bureau Ondersteuning;
+- f. *BO:* Bureau Ondersteuning;
 
-- g. **teamleider BO:** de functionaris die rechtstreeks ressorteert onder het hoofd van het Bureau Ondersteuning.
+- g. *teamleider BO:* de functionaris die rechtstreeks ressorteert onder het hoofd van het Bureau Ondersteuning.
 
 #### § 2. Organisatie en taken afdelingen
 
@@ -94,6 +68,24 @@ WBJA bestaat uit:
 
 2. Het hoofd van de afdeling Wetgeving is voorts belast met taken op het gebied van het wetgevingskwaliteitsbeleid.
 
+##### Artikel 3a
+
+1. Het hoofd van de afdeling WAS is verantwoordelijk voor de volgende taken:
+
+- a. het bevorderen van de kwaliteit van de wet- en regelgeving van het ministerie;
+
+- b. het behandelen van wetgevende aspecten van departements- en rijksbrede onderwerpen;
+
+- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van arbeidsrelaties en sociale verzekeringen;
+
+- d. het adaptieve onderhoud van de subsidiesteunmaatregelen als gevolg van de COVID-pandemie;
+
+- e. het adviseren over het gebruik van het instrument regelgeving;
+
+- f. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2025-03-28&g=2025-03-28).
+
+2. Het hoofd van de afdeling WAS is voorts belast met taken op het gebied van wetgevingskwaliteitsbeleid.
+
 ##### Artikel 4
 
 1. Het hoofd van de afdeling ABWA is verantwoordelijk voor de volgende taken:
@@ -106,19 +98,19 @@ WBJA bestaat uit:
 
 - d. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het ministerie met uitzondering van de begrotingswetten, die betrekking hebben op:
 
-- 1°. bestuurlijke aangelegenheden, waaronder structuur uitvoeringsorganisatie werk en inkomen;
+   - 1°. bestuurlijke aangelegenheden, waaronder structuur uitvoeringsorganisatie werk en inkomen;
 
-- 2°. gegevensverkeer;
+   - 2°. gegevensverkeer;
 
-- 3°. financiering van bestuursorganen;
+   - 3°. financiering van bestuursorganen;
 
-- 4°. handhavingsaangelegenheden;
+   - 4°. handhavingsaangelegenheden;
 
-- 5°. (regulering) arbeidsmarkt en arbeidsvoorwaarden, inclusief grensoverschrijdende arbeid en arbeidsmarktdiscriminatie;
+   - 5° (regulering) arbeidsmarkt en arbeidsvoorwaarden, inclusief grensoverschrijdende arbeid en arbeidsmarktdiscriminatie;
 
-- 6°. subsidies;
+   - 6° subsidies;
 
-- 7°. integratie.
+   - 7° integratie.
 
 - e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2025-03-28&g=2025-03-28).
 
@@ -226,6 +218,10 @@ Aan het hoofd van de afdeling JA-BBS wordt mandaat en machtiging verleend tot he
 
 Het hoofd van de afdeling JA-BBS is bij afwezigheid of verhindering van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden bevoegd tot het ondertekenen van een beslissing op een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
+##### Artikel 12a
+
+Aan het hoofd van de afdeling JA-SVIA wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op procedures inzake uit internationale verdragen voortvloeiende notificatieverplichtingen.
+
 ##### Artikel 13
 
 1. Aan het hoofd BO, alsmede aan de teamleider BO wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de afhandeling van administratieve stukken inzake procedures van bezwaar en (hoger)beroep alsmede daarmee verwante procedures, waaronder niet begrepen het machtigen van personen om een bewindspersoon in gerechtelijke procedures en in procedures bij de Nationale ombudsman te vertegenwoordigen.
@@ -238,13 +234,13 @@ Het hoofd van de afdeling JA-BBS is bij afwezigheid of verhindering van de direc
 
 - c. de ondertekening van brieven of e-mailberichten waarbij wordt gereageerd op verzoeken van derden aan het ministerie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) (inkomende zienswijzeverzoeken);
 
-- d. de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) ex [artikel 4.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.4) wordt verlengd; en
+- d. de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) ex [artikel 4.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.4) wordt verlengd; en
 
 - e. de ondertekening van brieven ter bekendmaking van een besluit op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) aan derden.
 
 3. Het hoofd BO is gevolmachtigd tot:
 
-- a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten op basis van een door de directie Organisatie, Bedrijfsvoering en Personeel afgesloten raamovereenkomst alsmede het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst;
+- a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten op basis van een door de directie Organisatie, Bedrijfsvoering en Personeel afgesloten raamovereenkomst alsmede het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst;
 
 - b. het aangaan van overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder directe verantwoordelijkheid van het departementale management worden verricht;
 
@@ -262,11 +258,11 @@ Aan de hoofden van de afdelingen, alsmede aan de teamleider BO, wordt volmacht e
 
 - d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
+#### § 4. Slotbepalingen
+
 ##### Artikel 15
 
 De hoofden van de afdelingen kunnen na voorafgaande schriftelijke toestemming van de directeur WBJA bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
-
-#### § 4. Slotbepalingen
 
 ##### Artikel 16
 
@@ -276,44 +272,6 @@ Bij afwezigheid van de directeur WBJA worden, voor de duur van de afwezigheid of
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit WBJA 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024961) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst, en werkt terug tot en met 1 juli 2015.
+2. Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst, en werkt terug tot en met 1 juli 2015.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit WBJA 2015.
-
-##### Artikel 18
-
-1. Het [Organisatie-, mandaat- en volmachtbesluit WBJA 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024961) wordt ingetrokken.
-
-2. Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst, en werkt terug tot en met 1 juli 2015.
-
-3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit WBJA 2015.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 12a
-
-Aan het hoofd van de afdeling JA-SVIA wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op procedures inzake uit internationale verdragen voortvloeiende notificatieverplichtingen.
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-1. Het hoofd van de afdeling WAS is verantwoordelijk voor de volgende taken:
-
-- a. het bevorderen van de kwaliteit van de wet- en regelgeving van het ministerie;
-
-- b. het behandelen van wetgevende aspecten van departements- en rijksbrede onderwerpen;
-
-- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van arbeidsrelaties en sociale verzekeringen;
-
-- d. het adaptieve onderhoud van de subsidiesteunmaatregelen als gevolg van de COVID-pandemie;
-
-- e. het adviseren over het gebruik van het instrument regelgeving;
-
-- f. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2025-03-28&g=2025-03-28).
-
-2. Het hoofd van de afdeling WAS is voorts belast met taken op het gebied van wetgevingskwaliteitsbeleid.
-
-#### § 3. Bevoegdheden

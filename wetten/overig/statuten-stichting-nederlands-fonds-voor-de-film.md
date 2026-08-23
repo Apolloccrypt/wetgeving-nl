@@ -1,35 +1,16 @@
 ---
 title: "Statuten Stichting Nederlands Fonds voor de Film"
 identifier: "BWBR0037025"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-09-25"
-last_updated: "2015-09-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037025"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13259753"
-version_id: "22687632"
-internal_id: "C32815091"
-label_id: "13228064"
-dtd_version: "2.0"
-original_entry_into_force: "2015-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037025/2015-09-25/0"
-intitule_bron: "Stcrt.2015-31403"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-09-25"
-intitule_in_force: "2015-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-31403"
-original_published_date: "2015-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-31403"
-entry_into_force_date: "2015-09-25"
-jci_1_3: "jci1.3:c:BWBR0037025&z=2015-09-25&g=2015-09-25"
-jci_1_0: "1.0:c:BWBR0037025&g=2015-09-25"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-09-25"
+publicatiedatum: 2015-09-25
+laatste_update: 2015-09-25
+status: geldig
+toestand: 2015-09-25
+bron: "https://wetten.overheid.nl/BWBR0037025"
+opgehaald: 2026-08-23
 ---
+
 # Statuten Stichting Nederlands Fonds voor de Film
 
 ### Statuten
@@ -40,19 +21,19 @@ entry_into_force: "2015-09-25"
 
 In de statuten wordt verstaan onder:
 
-- a. **bestuur:** het bestuur van de stichting;
+- a. *bestuur:* het bestuur van de stichting;
 
-- b. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- b. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- c. **raad van toezicht:** de raad van toezicht van de stichting;
+- c. *raad van toezicht:* de raad van toezicht van de stichting;
 
-- d. **schriftelijk:** bij brief, telefax of e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen.
+- d. *schriftelijk:* bij brief, telefax of e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen.
 
 #### Naam en zetel
 
 ##### Artikel 2
 
-1. De stichting draagt de naam: **Stichting Nederlands Fonds voor de Film**
+1. De stichting draagt de naam: *Stichting Nederlands Fonds voor de Film*
 
 2. Zij heeft haar zetel in de gemeente: Amsterdam
 

@@ -1,62 +1,34 @@
 ---
 title: "Besluit van de centrale commissie dierproeven van 19 december 2014, ref 2014-02, tot vaststelling van een bestuursreglement (Bestuursreglement CCD)"
+citeertitel: "Bestuursreglement CCD"
 identifier: "BWBR0037753"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-01-31"
-last_updated: "2015-01-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037753"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "13443653"
-version_id: "23075902"
-internal_id: "C33348281"
-label_id: "13410874"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037753/2015-01-31/0"
-intitule_bron: "Stcrt.2015-2335"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-19"
-intitule_published: "2015-01-30"
-intitule_in_force: "2015-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-2335"
-original_signed_date: "2014-12-19"
-original_published_date: "2015-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-2335"
-entry_into_force_date: "2015-01-31"
-jci_1_3: "jci1.3:c:BWBR0037753&z=2015-01-31&g=2015-01-31"
-jci_1_0: "1.0:c:BWBR0037753&g=2015-01-31"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement CCD"
-signed_date: "2014-12-19"
-entry_into_force: "2015-01-31"
+publicatiedatum: 2015-01-31
+laatste_update: 2015-01-31
+status: geldig
+toestand: 2015-01-31
+bron: "https://wetten.overheid.nl/BWBR0037753"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de centrale commissie dierproeven van 19 december 2014, ref 2014-02, tot vaststelling van een bestuursreglement (Bestuursreglement CCD)
-
-Gezien de goedkeuring van de Staatssecretaris van Economische Zaken van 19 januari 2015;
-
-Gelet op [artikel 11, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) en [artikel 18, achtste lid, van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18),
-
-besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder
 
-- a. **bestuurslid:** een lid van de centrale commissie dierproeven, als bedoeld in [artikel 18, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
+- a. *bestuurslid:* een lid van de centrale commissie dierproeven, als bedoeld in [artikel 18, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
 
-- b. **CCD:** de centrale commissie dierproeven, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
+- b. *CCD:* de centrale commissie dierproeven, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
 
-- c. **secretariaat:** het personeel, bedoeld in [artikel 18, zevende lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
+- c. *secretariaat:* het personeel, bedoeld in [artikel 18, zevende lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18);
 
-- d. **algemeen secretaris:** de medewerker van het secretariaat, bedoeld in [artikel 18, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18) die leiding geeft aan het secretariaat;
+- d. *algemeen secretaris:* de medewerker van het secretariaat, bedoeld in [artikel 18, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18) die leiding geeft aan het secretariaat;
 
-- e. **de wet:** de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081);
+- e. *de wet:* de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081);
 
-- f. **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
+- f. *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
 ##### Artikel 2. Verdeling werkzaamheden
 
@@ -171,13 +143,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Bestuursreglement CCD.
-
-## Bijlage 1. Code ter voorkoming van oneigenlijke beïnvloeding door belangenverstrengeling
-
-De CCD onderschrijft de code ter voorkoming van oneigenlijke beïnvloeding door belangenverstrengeling van januari 2012, zoals opgesteld door de Koninklijke Nederlandse Akademie van Wetenschappen (KNAW), de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst (KNMG), de Gezondheidsraad (GR), het Centraal Begeleidings Orgaan (CBO), het Nederlands Huisartsen Genootschap (NHG) en de Orde van Medisch Specialisten (OMS).
-
-De CCD onderschrijft de code als ZBO verantwoordelijk voor de uitvoering van wettelijke taken genoemd in [art 18 Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18) (Wod), waarbij de totstandkoming van wetenschappelijke adviesrapporten en het verlenen van projectvergunningen ten behoeve van het uitvoeren van dierproeven tot haar taken behoort.
-
-De CCD zal de leden en hun belangen openbaar maken door publicatie van een verklaring van belangen van de individuele leden.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

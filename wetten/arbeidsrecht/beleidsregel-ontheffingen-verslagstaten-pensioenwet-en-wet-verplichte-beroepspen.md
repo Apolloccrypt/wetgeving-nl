@@ -1,72 +1,36 @@
 ---
 title: "Besluit van De Nederlandsche Bank N.V. (DNB) van 31 augustus 2015 tot vaststelling van de beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015, en tot intrekking van een drietal andere beleidsregels"
+citeertitel: "Beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015"
 identifier: "BWBR0036987"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-09-09"
-last_updated: "2015-09-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036987"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "13252213"
-version_id: "22668872"
-internal_id: "C32499841"
-label_id: "13220264"
-dtd_version: "2.0"
-original_entry_into_force: "2015-09-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036987/2015-09-09/0"
-intitule_bron: "Stcrt.2015-28409"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-08-31"
-intitule_published: "2015-09-08"
-intitule_in_force: "2015-09-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-28409"
-original_signed_date: "2015-08-31"
-original_published_date: "2015-09-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-28409"
-entry_into_force_date: "2015-09-09"
-jci_1_3: "jci1.3:c:BWBR0036987&z=2015-09-09&g=2015-09-09"
-jci_1_0: "1.0:c:BWBR0036987&g=2015-09-09"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015"
-signed_date: "2015-08-31"
-entry_into_force: "2015-09-09"
+publicatiedatum: 2015-09-09
+laatste_update: 2015-09-09
+status: geldig
+toestand: 2015-09-09
+bron: "https://wetten.overheid.nl/BWBR0036987"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van De Nederlandsche Bank N.V. (DNB) van 31 augustus 2015 tot vaststelling van de beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015, en tot intrekking van een drietal andere beleidsregels
-
-Gelet op de [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147), [212](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=212) en [213 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=213);
-
-Gelet op de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142), [206](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=206) en [207 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=207);
-
-Gelet op de [artikelen 30 tot en met 34 van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
-
-Gelet op [artikel 36, derde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=36);
-
-Gelet op de [Regeling verslagstaten pensioenfondsen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036189) (Stcrt. 2015, 1997);
-
-Na overleg met de representatieve organisaties van (beroeps)pensioenfondsen;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
-- a. **DNB:** De Nederlandsche Bank N.V.;
+- a. *DNB:* De Nederlandsche Bank N.V.;
 
-- b. **Wvb:** de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831);
+- b. *Wvb:* de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831);
 
-- c. **Regeling:** de [Regeling verslagstaten pensioenfondsen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036189) (Stcrt. 2015, 1997);
+- c. *Regeling:* de [Regeling verslagstaten pensioenfondsen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036189) (Stcrt. 2015, 1997);
 
-- d. **fonds:** een pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of een beroepspensioenfonds als bedoeld in [artikel 1 van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1);
+- d. *fonds:* een pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of een beroepspensioenfonds als bedoeld in [artikel 1 van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1);
 
-- e. **jaarstaten:** de jaarstaten, bedoeld in [hoofdstuk 2 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2);
+- e. *jaarstaten:* de jaarstaten, bedoeld in [hoofdstuk 2 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2);
 
-- f. **kwartaalstaten:** de kwartaalstaten, bedoeld in [hoofdstuk 3 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3);
+- f. *kwartaalstaten:* de kwartaalstaten, bedoeld in [hoofdstuk 3 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3);
 
-- g. **maandstaten:** de maandstaten, bedoeld in [hoofdstuk 4 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4).
+- g. *maandstaten:* de maandstaten, bedoeld in [hoofdstuk 4 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4).
 
 ##### Artikel 2. Boekjaar
 
@@ -76,11 +40,11 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 - b. op het moment van indiening van het ontheffingsverzoek:
 
-- –. in liquidatie is, en
+   - – in liquidatie is, en
 
-- –. geen technische voorzieningen heeft, en
+   - – geen technische voorzieningen heeft, en
 
-- –. de eventueel resterende middelen niet meer bedragen dan nodig ter dekking van de operationele kosten, in welk geval het boekjaar als bedoeld in [artikel 147, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142), eindigt op de laatste dag van de maand waarin de technische voorzieningen zijn overgedragen.
+   - – de eventueel resterende middelen niet meer bedragen dan nodig ter dekking van de operationele kosten, in welk geval het boekjaar als bedoeld in [artikel 147, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142), eindigt op de laatste dag van de maand waarin de technische voorzieningen zijn overgedragen.
 
 2. Een verzoek tot ontheffing als bedoeld in het eerste lid, onderdeel b wordt uiterlijk ingediend op 15 mei van het in voornoemd artikellid bedoelde boekjaar.
 
@@ -134,7 +98,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 Deze beleidsregel treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst en is voor de eerste keer van toepassing op de jaarstaten die betrekking hebben op het boekjaar 2015, op de kwartaalstaten die betrekking hebben op het derde kwartaal van 2015, onderscheidenlijk op de maandstaten die betrekking hebben op de maand september 2015.
 
-##### Artikel 8. Intrekking [Beleidsregel ontheffingen Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0022475) van 28 augustus 2007
+##### Artikel 8. Intrekking Beleidsregel ontheffingen Pensioenwet en Wet verplichte beroepspensioenregeling van 28 augustus 2007
 
 De [Beleidsregel ontheffingen Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0022475) van 28 augustus 2007 wordt ingetrokken.
 
@@ -143,5 +107,3 @@ De [Beleidsregel ontheffingen Pensioenwet en Wet verplichte beroepspensioenregel
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015.
 
 De [Beleidsregel financieel crisisplan pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0030749) (Stcrt. 2011, 22350), de Beleidsregel uitgangspunten beoordeling continuïteitsanalyse van Pensioenfondsen (Stcrt. 2007, 168) en de [Beleidsregel toeslagenmatrix](https://wetten.overheid.nl/jci1.3:c:BWBR0021367) (Stcrt. 2007, 42) worden met onmiddellijke ingang ingetrokken.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

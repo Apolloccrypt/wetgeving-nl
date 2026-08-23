@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het college van afgevaardigden van 2 december 2015 tot vaststelling van de hoogte van de financiële bijdrage (Besluit financiële bijdrage 2016)"
+citeertitel: "Besluit financiële bijdrage 2016"
 identifier: "BWBR0037390"
-country: "nl"
-rank: "pbo"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037390"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "13353953"
-version_id: "22892002"
-internal_id: "C33107621"
-label_id: "13321684"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037390/2016-01-01/0"
-intitule_bron: "Stcrt.2015-46215"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-02"
-intitule_published: "2015-12-21"
-intitule_in_force: "2015-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-46215"
-original_signed_date: "2015-12-02"
-original_published_date: "2015-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-46215"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037390&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0037390&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit financiële bijdrage 2016"
-signed_date: "2015-12-02"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0037390"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van het college van afgevaardigden van 2 december 2015 tot vaststelling van de hoogte van de financiële bijdrage (Besluit financiële bijdrage 2016)
-
-gelet op [artikel 32, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=32);
-
-gezien de door de algemene raad aan het college van afgevaardigden voorgelegde begroting van inkomsten en uitgaven voor het jaar 2016;
-
-Besluit:
 
 ##### Artikel 1. Hoogte financiële bijdrage
 

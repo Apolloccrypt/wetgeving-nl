@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2016, 2015-0000291304, tot vaststelling van de nieuwe beleidsregel inzake ontheffing van het verbod van kinderarbeid ten einde deze beter te laten aansluiten bij de praktijk (Beleidsregel inzake ontheffing verbod van kinderarbeid 2016)"
+citeertitel: "Beleidsregel inzake ontheffing verbod van kinderarbeid 2016"
 identifier: "BWBR0037569"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2016-04-01"
-last_updated: "2016-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037569"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "13403653"
-version_id: "22995962"
-internal_id: "C33242221"
-label_id: "13371304"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037569/2016-04-01/0"
-intitule_bron: "Stcrt.2016-3258"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-01-18"
-intitule_published: "2016-01-25"
-intitule_in_force: "2016-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-3258"
-original_signed_date: "2016-01-18"
-original_published_date: "2016-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-3258"
-entry_into_force_date: "2016-04-01"
-jci_1_3: "jci1.3:c:BWBR0037569&z=2016-04-01&g=2016-04-01"
-jci_1_0: "1.0:c:BWBR0037569&g=2016-04-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel inzake ontheffing verbod van kinderarbeid 2016"
-signed_date: "2016-01-18"
-entry_into_force: "2016-04-01"
+publicatiedatum: 2016-04-01
+laatste_update: 2016-04-01
+status: geldig
+toestand: 2016-04-01
+bron: "https://wetten.overheid.nl/BWBR0037569"
+opgehaald: 2026-08-23
 ---
+
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2016, 2015-0000291304, tot vaststelling van de nieuwe beleidsregel inzake ontheffing van het verbod van kinderarbeid ten einde deze beter te laten aansluiten bij de praktijk (Beleidsregel inzake ontheffing verbod van kinderarbeid 2016)
-
-Gelet op [artikel 3:3, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=3:3);
-
-Besluit:
 
 ##### Artikel 1. Ontheffing verbod van kinderarbeid
 
@@ -141,5 +115,3 @@ Deze beleidsregel treedt in werking met ingang van 1 april 2016.
 ##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel inzake ontheffing verbod van kinderarbeid 2016.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie van 29 februari 2016 kenmerk nr. 722437, houdende instelling van de Toetsingscommissie Landelijk Instrumentarium Jeugdstrafrechtketen (Instellingsbesluit commissie LIJ)"
+citeertitel: "Instellingsbesluit Commissie LIJ"
 identifier: "BWBR0037703"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-03-14"
-last_updated: "2016-03-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037703"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "13436503"
-version_id: "23062782"
-internal_id: "C33329881"
-label_id: "13403734"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037703/2016-03-14/0"
-intitule_bron: "Stcrt.2016-12736"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-29"
-intitule_published: "2016-03-14"
-intitule_in_force: "2016-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-12736"
-original_signed_date: "2016-02-29"
-original_published_date: "2016-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-12736"
-entry_into_force_date: "2016-03-14"
-jci_1_3: "jci1.3:c:BWBR0037703&z=2016-03-14&g=2016-03-14"
-jci_1_0: "1.0:c:BWBR0037703&g=2016-03-14"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie LIJ"
-signed_date: "2016-02-29"
-entry_into_force: "2016-03-14"
+publicatiedatum: 2016-03-14
+laatste_update: 2016-03-14
+status: geldig
+toestand: 2016-03-14
+bron: "https://wetten.overheid.nl/BWBR0037703"
+opgehaald: 2026-08-23
 ---
-# Besluit van de Minister van Veiligheid en Justitie van 29 februari 2016 kenmerk nr. 722437, houdende instelling van de Toetsingscommissie Landelijk Instrumentarium Jeugdstrafrechtketen (Instellingsbesluit commissie LIJ)
 
-Besluit:
+# Besluit van de Minister van Veiligheid en Justitie van 29 februari 2016 kenmerk nr. 722437, houdende instelling van de Toetsingscommissie Landelijk Instrumentarium Jeugdstrafrechtketen (Instellingsbesluit commissie LIJ)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Veiligheid en Justitie;
+- a. *de Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **de Commissie:** de Toetsingscommissie Landelijk Instrumentarium Jeugdstrafrechtketen.
+- b. *de Commissie:* de Toetsingscommissie Landelijk Instrumentarium Jeugdstrafrechtketen.
 
 ##### Artikel 2. Instelling
 
@@ -105,5 +81,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie LIJ
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

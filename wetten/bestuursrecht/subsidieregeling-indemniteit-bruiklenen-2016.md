@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 oktober 2015, nr. WJZ/787439 (10436), houdende vervanging van de Subsidieregeling indemniteit bruiklenen 2008 in verband met doelmatiger gebruik van het beschikbare garantieplafond ter verhoging van het aantal tentoonstellingen dat voor indemniteit in aanmerking kan komen (Subsidieregeling indemniteit bruiklenen 2016)"
+citeertitel: "Subsidieregeling indemniteit bruiklenen 2016"
 identifier: "BWBR0037142"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-12"
-last_updated: "2025-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037142"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13291833"
-version_id: "22750122"
-internal_id: "C32893551"
-label_id: "13259824"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037142/2025-07-12/0"
-intitule_bron: "Stcrt.2015-37956"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-10-24"
-intitule_published: "2015-11-03"
-intitule_in_force: "2015-11-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-37956"
-original_signed_date: "2015-10-24"
-original_published_date: "2015-11-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-37956"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037142&z=2025-07-12&g=2025-07-12"
-jci_1_0: "1.0:c:BWBR0037142&g=2025-07-12"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling indemniteit bruiklenen 2016"
-signed_date: "2015-10-24"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2025-07-12
+status: geldig
+toestand: 2025-07-12
+bron: "https://wetten.overheid.nl/BWBR0037142"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 oktober 2015, nr. WJZ/787439 (10436), houdende vervanging van de Subsidieregeling indemniteit bruiklenen 2008 in verband met doelmatiger gebruik van het beschikbare garantieplafond ter verhoging van het aantal tentoonstellingen dat voor indemniteit in aanmerking kan komen (Subsidieregeling indemniteit bruiklenen 2016)
-
-Gelet op [artikel 4 van het Besluit op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **instelling:** openbaar toegankelijke instelling die gespecialiseerd is in het beheren van museale collecties of het organiseren van tentoonstellingen;
+- b. *instelling:* openbaar toegankelijke instelling die gespecialiseerd is in het beheren van museale collecties of het organiseren van tentoonstellingen;
 
-- c. **voorwerp:** cultuurgoed als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) met inbegrip van lijst, raam, kader, sokkel en dergelijke, afkomstig uit een buitenlandse collectie of uit een niet openbaar toegankelijke privécollectie;
+- c. *voorwerp:* cultuurgoed als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) met inbegrip van lijst, raam, kader, sokkel en dergelijke, afkomstig uit een buitenlandse collectie of uit een niet openbaar toegankelijke privécollectie;
 
-- d. **tentoonstelling:** tijdelijke tentoonstelling in Nederland die een compilatie vormt van belangrijke voorwerpen, al dan niet in combinatie met andere cultuurgoederen, in een samenhang die in het algemeen niet in Nederland te zien is en een visie biedt op periodes, kwesties, personen of producten van cultuurhistorische betekenis;
+- d. *tentoonstelling:* tijdelijke tentoonstelling in Nederland die een compilatie vormt van belangrijke voorwerpen, al dan niet in combinatie met andere cultuurgoederen, in een samenhang die in het algemeen niet in Nederland te zien is en een visie biedt op periodes, kwesties, personen of producten van cultuurhistorische betekenis;
 
-- e. **indemniteitsverklaring:** beschikking waarbij een voorwaardelijke aanspraak op subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=2&z=2025-07-12&g=2025-07-12), wordt verleend;
+- e. *indemniteitsverklaring:* beschikking waarbij een voorwaardelijke aanspraak op subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=2&z=2025-07-12&g=2025-07-12), wordt verleend;
 
-- f. **indemniteitspercentage:** deel van de totale verzekerde waarde van de voorwerpen die voor een indemniteitsverklaring in aanmerking komen, uitgedrukt in procenten waarbij de totale verzekerde waarde 100 is.
+- f. *indemniteitspercentage:* deel van de totale verzekerde waarde van de voorwerpen die voor een indemniteitsverklaring in aanmerking komen, uitgedrukt in procenten waarbij de totale verzekerde waarde 100 is.
 
 ##### Artikel 2. Indemniteitsverklaring
 
@@ -64,7 +38,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Subsidieplafond
 
-1. Het totaal van de aanspraken op financiële middelen in een begrotingsjaar op grond van indemniteitsverklaringen gaat op enig moment het bedrag van € 450 miljoen niet te boven.
+1. Het totaal van de aanspraken op financiële middelen in een begrotingsjaar op grond van indemniteitsverklaringen gaat op enig moment het bedrag van € 450 miljoen niet te boven.
 
 2. Een indemniteitsverklaring wordt ten laste gebracht van het beschikbare bedrag gedurende de periode van twee weken vóór aanvang van de tentoonstelling tot en met twee weken na het einde van de tentoonstelling.
 
@@ -76,9 +50,9 @@ In deze regeling wordt verstaan onder:
 
 - a. een instelling naar het oordeel van de minister heeft aangetoond dat die indemniteitsverklaring:
 
-- 1°. leidt tot een besparing op de premie van de verzekering van de desbetreffende bruikleen of bruiklenen van ten minste 20 procent; of
+   - 1° leidt tot een besparing op de premie van de verzekering van de desbetreffende bruikleen of bruiklenen van ten minste 20 procent; of
 
-- 2°. indien het indemniteitspercentage lager is dan 30 procent, leidt tot een besparing op de premie van de verzekering van de desbetreffende bruikleen of bruiklenen van een percentage dat ten minste 66 procent bedraagt van dit indemniteitspercentage; en
+   - 2° indien het indemniteitspercentage lager is dan 30 procent, leidt tot een besparing op de premie van de verzekering van de desbetreffende bruikleen of bruiklenen van een percentage dat ten minste 66 procent bedraagt van dit indemniteitspercentage; en
 
 - b. naar het oordeel van de minister een acceptabele verhouding aanwezig is tussen enerzijds het belang van de tentoonstelling en de besparing, bedoeld in onderdeel a, en anderzijds het door de Minister van OCW te aanvaarden risico.
 
@@ -86,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Aanvraag
 
-1. De aanvraag voor een indemniteitsverklaring wordt ingediend op uiterlijk 31 augustus 2030.
+1. De aanvraag voor een indemniteitsverklaring wordt ingediend op uiterlijk 31 augustus 2030.
 
 2. Bij de aanvraag wordt gebruik gemaakt van een door de minister vastgesteld aanvraagformulier.
 
@@ -98,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - c. voor zover de aanvraag een tentoonstelling betreft, een tentoonstellingsplan.
 
-4. De verzekeringsofferte bevat in ieder geval de verzekeringspremie zonder korting en een opgave van de korting die wordt gegeven bij een indemniteitspercentage van ten hoogste 30 procent, waarbij de gevraagde subsidie ten hoogste € 70 miljoen bedraagt.
+4. De verzekeringsofferte bevat in ieder geval de verzekeringspremie zonder korting en een opgave van de korting die wordt gegeven bij een indemniteitspercentage van ten hoogste 30 procent, waarbij de gevraagde subsidie ten hoogste € 70 miljoen bedraagt.
 
 5. Bij de aanvraag verklaart een instelling te voldoen aan de eisen over de veiligheid van de voorwerpen en de beveiliging van de instelling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=8&z=2025-07-12&g=2025-07-12). Op verzoek van de minister overlegt de instelling de documenten, bedoeld in artikel 8, en worden de veiligheidsmaatregelen ter plekke getoond.
 
@@ -110,9 +84,9 @@ In deze regeling wordt verstaan onder:
 
 2. De minister beslist binnen acht weken na ontvangst van de aanvraag.
 
-3. Bij het verstrekken van een indemniteitsverklaring stelt de minister de hoogte van de aanspraak vast. De aanspraak bedraagt niet meer dan € 70 miljoen en het indemniteitspercentage bedraagt ten hoogste 30 procent.
+3. Bij het verstrekken van een indemniteitsverklaring stelt de minister de hoogte van de aanspraak vast. De aanspraak bedraagt niet meer dan € 70 miljoen en het indemniteitspercentage bedraagt ten hoogste 30 procent.
 
-4. Op de indemniteitsverklaring is een eigen risico van toepassing dat de minister overeenkomstig de tabellen in de bijlage vaststelt. Dit bedrag wordt in mindering gebracht op de subsidie in het geval zich verlies of schade voordoet waarop de indemniteitsverklaring van toepassing is.
+4. Op de indemniteitsverklaring is een eigen risico van toepassing dat de minister overeenkomstig de tabellen in de [bijlage](https://wetten.overheid.nl/BWBR0037142) vaststelt. Dit bedrag wordt in mindering gebracht op de subsidie in het geval zich verlies of schade voordoet waarop de indemniteitsverklaring van toepassing is.
 
 5. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister een aanvraag voor een indemniteitsverklaring indien de aanvraag betrekking heeft op een periode die aanvangt na de vervaldatum van deze regeling, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=14&z=2025-07-12&g=2025-07-12).
 
@@ -156,24 +130,18 @@ Gedurende de periode waarop de indemniteitsverklaring betrekking heeft:
 
 2. In een geval als bedoeld in het eerste lid kan de minister de beschikking tot subsidievaststelling wijzigen.
 
-##### Artikel 12. Intrekking [Subsidieregeling indemniteit bruiklenen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024244)
+##### Artikel 12. Intrekking Subsidieregeling indemniteit bruiklenen 2008
 
 De [Subsidieregeling indemniteit bruiklenen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024244) wordt ingetrokken.
 
 ##### Artikel 13. Overgangsbepalingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Inwerkingtreding en horizonbepaling
 
-Deze regeling treedt in werking met ingang van 1 januari 2016 en vervalt met ingang van 1 januari 2031.
+Deze regeling treedt in werking met ingang van 1 januari 2016 en vervalt met ingang van 1 januari 2031.
 
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling indemniteit bruiklenen 2016.
-
-## Bijlage. behorende bij de Subsidieregeling indemniteit bruiklenen 2016
-
-### Bedragen Eigen risico
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

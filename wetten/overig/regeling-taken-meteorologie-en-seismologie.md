@@ -1,22 +1,18 @@
 ---
-title: "Regeling taken meteorologie en seismologie"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 8 december 2015, nr. IENM/BSK-2015/208759, houdende regels omtrent de overheidszorg op het gebied van meteorologie en seismologie (Regeling taken meteorologie en seismologie)"
+citeertitel: "Regeling taken meteorologie en seismologie"
 identifier: "BWBR0037394"
-categorie: "Overig"
-publicatiedatum: 2026-05-20
+categorie: "Milieu"
+soort: "ministeriele-regeling"
+publicatiedatum: 2016-01-01
 laatste_update: 2026-05-20
 status: geldig
+toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0037394"
+opgehaald: 2026-08-23
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 8 december 2015, nr. IENM/BSK-2015/208759, houdende regels omtrent de overheidszorg op het gebied van meteorologie en seismologie (Regeling taken meteorologie en seismologie)
-
-Handelende in overeenstemming met de Minister van Defensie;
-
-Gelet op de [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=4), en [6, zesde lid, van de Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=6) en de [artikelen 5.13a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13a), en [5.14b, vierde lid, onderdeel a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14b);
-
-BESLUIT:
-
-Treedt in werking op het tijdstip waarop de Wet taken meteorologie en seismologie in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -24,17 +20,18 @@ Treedt in werking op het tijdstip waarop de Wet taken meteorologie en seismologi
 
 1. In deze regeling wordt verstaan onder:
 
-- **Calamiteit:** een zwaar ongeval of een andere gebeurtenis waarbij het leven en de gezondheid van personen, het milieu of grote materiële belangen in ernstige mate zijn geschaad of dreigen te worden geschaad;
+- *Calamiteit:* een zwaar ongeval of een andere gebeurtenis waarbij het leven en de gezondheid van personen, het milieu of grote materiële belangen in ernstige mate zijn geschaad of dreigen te worden geschaad;
 
-- **KNMI:** Koninklijk Nederlands Meteorologisch Instituut;
+- *KNMI:* Koninklijk Nederlands Meteorologisch Instituut;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **raad van toezicht:** raad van toezicht, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=6);
+- *raad van toezicht:* raad van toezicht, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=6);
 
-- **weeralarm:** waarschuwing voor maatschappij-ontwrichtend weer van een zodanige intensiteit dat een grote impact op de veiligheid in de samenleving wordt verwacht;
+- *weeralarm:* waarschuwing voor maatschappij-ontwrichtend weer van een zodanige intensiteit dat een grote impact op de veiligheid in de samenleving wordt verwacht;
 
-- **wet:** [Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074).
+- *wet:*
+ [Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074).
 
 2. Aan de zorgplichten, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3), wordt namens de minister uitvoering gegeven door het agentschap KNMI.
 
@@ -100,7 +97,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 1. Weerwaarschuwingen worden via publiek toegankelijke communicatiemiddelen verspreid.
 
-2. Weerwaarschuwingen voor verwacht gevaarlijk weer, maatschappij-ontwrichtend weer of een weeralarm worden niet eerder dan 48 uur voor het verwachte weer uitgevaardigd.
+2. Weerwaarschuwingen voor verwacht gevaarlijk weer, maatschappij-ontwrichtend weer of een weeralarm worden niet eerder dan 48 uur voor het verwachte weer uitgevaardigd.
 
 3. Een weerwaarschuwing bevat een nadere grafische of woordelijke specificatie van het weer waarbij het gebied waarvoor de waarschuwing geldt, het tijdstip of tijdsperiode en een kwantitatieve waarde van het weersverschijnsel kenbaar worden gemaakt.
 
@@ -122,11 +119,11 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - d. lokale onweersbuien met één of meer van de volgende weersverschijnselen:
 
-  - 1°. windstoten van meer dan 60 km per uur;
+   - 1°. windstoten van meer dan 60 km per uur;
 
-  - 2°. lokale regen van meer dan 30 mm in een uur;
+   - 2°. lokale regen van meer dan 30 mm in een uur;
 
-  - 3°. hagel met een diameter van ten hoogste 2 cm;
+   - 3°. hagel met een diameter van ten hoogste 2 cm;
 
 - e. windstoten van 75 tot 100 km per uur, of, indien het de kuststrook betreft, windstoten van 90 tot 120 km per uur;
 
@@ -140,7 +137,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - j. een windhoos of waterhoos;
 
-- k. hagel met een diameter van meer dan 0,5 cm en ten hoogste 2 cm.
+- k. hagel met een diameter van meer dan 0,5 cm en ten hoogste 2 cm.
 
 2. Het KNMI kan een weerwaarschuwing uitvaardigen voor maatschappij-ontwrichtend weer boven land indien het KNMI een of meer van de volgende weersverschijnselen verwacht of waarneemt:
 
@@ -154,11 +151,11 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - e. groepsgewijs optredende onweersbuien met lokaal een of meer van de volgende weersverschijnselen:
 
-  - 1°. windstoten van meer dan 75 km per uur;
+   - 1°. windstoten van meer dan 75 km per uur;
 
-  - 2°. regen van meer dan 50 mm in een uur;
+   - 2°. regen van meer dan 50 mm in een uur;
 
-  - 3°. hagel van meer dan 2 cm in diameter;
+   - 3°. hagel van meer dan 2 cm in diameter;
 
 - f. windstoten van 100 km per uur en hoger of indien het de kuststrook betreft windstoten van 120 km per uur of hoger;
 
@@ -168,7 +165,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - i. een door weersverschijnselen veroorzaakte zichtwaarde van 10 meter of minder;
 
-- j. hagel van meer dan 2 cm in diameter.
+- j. hagel van meer dan 2 cm in diameter.
 
 3. In afwijking van het eerste, onderscheidenlijk tweede lid, kan het KNMI een weerwaarschuwing voor gevaarlijk onderscheidenlijk maatschappij-ontwrichtend weer uitvaardigen voor de gevallen bedoeld in het eerste dan wel tweede lid, ook indien de desbetreffende weersverschijnselen niet aan een of meer van de in die leden bedoelde criteria voldoen maar de te verwachten gevolgen voor de samenleving daartoe desalniettemin aanleiding geven.
 
@@ -256,15 +253,15 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - e. ondersteuning aan bestuursorganen of overheidsbedrijven bij de uitvoering van de aan hen bij of krachtens de wet of een andere wet opgedragen taken, indien:
 
-  - 1°. de ondersteuning incidentele doelgroepspecifieke waarschuwingen inhoudt voor maatschappij-ontwrichtend weer of calamiteiten waarbij het weer een belangrijke rol speelt;
+   - 1°. de ondersteuning incidentele doelgroepspecifieke waarschuwingen inhoudt voor maatschappij-ontwrichtend weer of calamiteiten waarbij het weer een belangrijke rol speelt;
 
-  - 2°. de ondersteuning incidentele doelgroepspecifieke waarschuwingen inhoudt bij significante bodembeweging door geofysische bronnen of vulkanische activiteit;
+   - 2°. de ondersteuning incidentele doelgroepspecifieke waarschuwingen inhoudt bij significante bodembeweging door geofysische bronnen of vulkanische activiteit;
 
-  - 3°. gerichte verzoeken aanwezig zijn van bestuursorganen en overheidsbedrijven ten behoeve van de preparatie, oefening, nazorg en evaluatie bij maatschappij-ontwrichtend weer, bij calamiteiten waarbij het weer een belangrijke rol speelt of bij significante bodembeweging door geofysische bronnen of vulkanische activiteit;
+   - 3°. gerichte verzoeken aanwezig zijn van bestuursorganen en overheidsbedrijven ten behoeve van de preparatie, oefening, nazorg en evaluatie bij maatschappij-ontwrichtend weer, bij calamiteiten waarbij het weer een belangrijke rol speelt of bij significante bodembeweging door geofysische bronnen of vulkanische activiteit;
 
-  - 4°. kennis en middelen nodig zijn voor het leveren van een specifiek product of het verrichten van een specifieke dienst waarover het KNMI als enige beschikt.
+   - 4°. kennis en middelen nodig zijn voor het leveren van een specifiek product of het verrichten van een specifieke dienst waarover het KNMI als enige beschikt.
 
-2. In afwijking van het eerste lid, onderdeel e, kan het KNMI ondersteuning verlenen aan waterschappen bij de uitvoering van de aan hen bij of krachtens de wet of een andere wet opgedragen taken.
+2. In afwijking van het eerste lid, onderdeel e, kan het KNMI ondersteuning verlenen aan waterschappen bij de uitvoering van de aan hen bij of krachtens de wet of een andere wet opgedragen taken.
 
 3. Ondersteuning als bedoeld in het eerste lid, onderdeel e, onder 4º, wordt alleen verleend na raadpleging van belanghebbende privaatrechtelijke rechtspersonen en brancheorganisaties.
 
@@ -310,21 +307,21 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 2. De raad van toezicht wordt bijgestaan door een secretaris, niet zijnde lid van de raad van toezicht, werkzaam bij het Ministerie van Infrastructuur en Milieu.
 
-3. De rapportage, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=6), met tevens waar nodig aanbevelingen, vindt jaarlijks voor 15 juli over het afgelopen jaar plaats.
+3. De rapportage, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=6), met tevens waar nodig aanbevelingen, vindt jaarlijks voor 15 juli over het afgelopen jaar plaats.
 
 ### Hoofdstuk 10. Wijzigingen van regelingen
 
 ##### Artikel 15
 
-Wijzigt de Regeling algemeen weerbericht BES 2010.
+*Wijzigt de Regeling algemeen weerbericht BES 2010.*
 
 ##### Artikel 16
 
-Wijzigt de Regeling luchtvaartmeteorologische inlichtingen 2006.
+*Wijzigt de Regeling luchtvaartmeteorologische inlichtingen 2006.*
 
 ##### Artikel 17
 
-Wijzigt de Regeling luchtvaartmeteorologische inlichtingen BES 2010.
+*Wijzigt de Regeling luchtvaartmeteorologische inlichtingen BES 2010.*
 
 ### Hoofdstuk 11. Slotbepalingen
 
@@ -335,5 +332,3 @@ Deze regeling treedt in werking op het tijdstip dat de [Wet taken meteorologie e
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling taken meteorologie en seismologie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

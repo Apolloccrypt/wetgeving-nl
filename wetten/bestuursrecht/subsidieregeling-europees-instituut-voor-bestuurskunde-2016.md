@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 oktober 2015, nr. 2015-0000612713, houdende regels voor de subsidiëring van het Europees Instituut voor Bestuurskunde te Maastricht (Subsidieregeling Europees Instituut Bestuurskunde 2016)"
+citeertitel: "Subsidieregeling Europees Instituut voor Bestuurskunde 2016"
 identifier: "BWBR0037114"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-11-01"
-last_updated: "2015-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037114"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13285833"
-version_id: "22739262"
-internal_id: "C32879571"
-label_id: "13253834"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037114/2015-11-01/0"
-intitule_bron: "Stcrt.2015-36724"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-10-16"
-intitule_published: "2015-10-26"
-intitule_in_force: "2015-10-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-36724"
-original_signed_date: "2015-10-16"
-original_published_date: "2015-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-36724"
-entry_into_force_date: "2015-11-01"
-jci_1_3: "jci1.3:c:BWBR0037114&z=2015-11-01&g=2015-11-01"
-jci_1_0: "1.0:c:BWBR0037114&g=2015-11-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Europees Instituut voor Bestuurskunde 2016"
-signed_date: "2015-10-16"
-entry_into_force: "2015-11-01"
+publicatiedatum: 2015-11-01
+laatste_update: 2015-11-01
+status: geldig
+toestand: 2015-11-01
+bron: "https://wetten.overheid.nl/BWBR0037114"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 oktober 2015, nr. 2015-0000612713, houdende regels voor de subsidiëring van het Europees Instituut voor Bestuurskunde te Maastricht (Subsidieregeling Europees Instituut Bestuurskunde 2016)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdeel f, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [18, eerste lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **Instituut:** de Stichting Europees Instituut voor Bestuurskunde.
+- b. *Instituut:* de Stichting Europees Instituut voor Bestuurskunde.
 
 ##### Artikel 2
 
@@ -83,5 +57,3 @@ Het Instituut dient de aanvraag tot subsidieverlening uiterlijk in op 30 novembe
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Subsidieregeling Europees Instituut voor Bestuurskunde 2016.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

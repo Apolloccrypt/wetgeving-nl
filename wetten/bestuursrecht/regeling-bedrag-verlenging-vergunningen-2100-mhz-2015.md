@@ -1,56 +1,31 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 17 november 2015, nr. WJZ /15147641, houdende vaststelling van het bedrag, bedoeld in artikel 3.15, eerste lid, van de Telecommunicatiewet voor verlengde 2.100 MHz-vergunningen (Regeling bedrag verlenging vergunningen 2.100 MHz 2015)"
+citeertitel: "Regeling bedrag verlenging vergunningen 2.100 MHz 2015"
 identifier: "BWBR0037215"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-11-24"
-last_updated: "2015-11-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037215"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13307753"
-version_id: "22788412"
-internal_id: "C32937821"
-label_id: "13275554"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037215/2015-11-24/0"
-intitule_bron: "Stcrt.2015-41453"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-11-17"
-intitule_published: "2015-11-23"
-intitule_in_force: "2015-11-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-41453"
-original_signed_date: "2015-11-17"
-original_published_date: "2015-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-41453"
-entry_into_force_date: "2015-11-24"
-jci_1_3: "jci1.3:c:BWBR0037215&z=2015-11-24&g=2015-11-24"
-jci_1_0: "1.0:c:BWBR0037215&g=2015-11-24"
-citeertitel_status: "officieel"
-short_title: "Regeling bedrag verlenging vergunningen 2.100 MHz 2015"
-signed_date: "2015-11-17"
-entry_into_force: "2015-11-24"
+publicatiedatum: 2015-11-24
+laatste_update: 2015-11-24
+status: geldig
+toestand: 2015-11-24
+bron: "https://wetten.overheid.nl/BWBR0037215"
+opgehaald: 2026-08-23
 ---
+
 # Regeling van de Minister van Economische Zaken van 17 november 2015, nr. WJZ /15147641, houdende vaststelling van het bedrag, bedoeld in artikel 3.15, eerste lid, van de Telecommunicatiewet voor verlengde 2.100 MHz-vergunningen (Regeling bedrag verlenging vergunningen 2.100 MHz 2015)
-
-Gelet op [artikel 3.15, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+- a. *wet:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- b. **minister:** Minister van Economische Zaken;
+- b. *minister:* Minister van Economische Zaken;
 
-- c. **bedrag:** bedrag als bedoeld in [artikel 3.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15);
+- c. *bedrag:* bedrag als bedoeld in [artikel 3.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15);
 
-- d. **vergunning:** vergunning voor gepaarde frequentieruimte in de band 1.920-1.980 MHz tot en met 2.110-2.170 MHz.
+- d. *vergunning:* vergunning voor gepaarde frequentieruimte in de band 1.920-1.980 MHz tot en met 2.110-2.170 MHz.
 
 ##### Artikel 2
 
@@ -82,5 +57,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling bedrag verlenging vergunningen 2.100 MHz 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

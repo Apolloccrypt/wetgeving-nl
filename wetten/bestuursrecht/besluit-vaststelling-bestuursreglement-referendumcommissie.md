@@ -1,41 +1,17 @@
 ---
 title: "Besluit vaststelling bestuursreglement Referendumcommissie"
 identifier: "BWBR0037713"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-09-21"
-last_updated: "2016-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037713"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "13438223"
-version_id: "23065782"
-internal_id: "C33334041"
-label_id: "13405534"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037713/2016-09-21/0"
-intitule_bron: "Stcrt.2016-12447"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-26"
-intitule_published: "2016-03-10"
-intitule_in_force: "2016-03-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-12447"
-original_signed_date: "2016-02-26"
-original_published_date: "2016-03-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-12447"
-entry_into_force_date: "2016-03-11"
-jci_1_3: "jci1.3:c:BWBR0037713&z=2016-09-21&g=2016-09-21"
-jci_1_0: "1.0:c:BWBR0037713&g=2016-09-21"
-citeertitel_status: "redactioneel"
-signed_date: "2016-02-26"
-entry_into_force: "2016-03-11"
+publicatiedatum: 2016-03-11
+laatste_update: 2016-09-21
+status: geldig
+toestand: 2016-09-21
+bron: "https://wetten.overheid.nl/BWBR0037713"
+opgehaald: 2026-08-23
 ---
-# Besluit vaststelling bestuursreglement Referendumcommissie
 
-Heeft besloten het volgende bestuursreglement vast te stellen:
+# Besluit vaststelling bestuursreglement Referendumcommissie
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -43,23 +19,23 @@ Heeft besloten het volgende bestuursreglement vast te stellen:
 
 In dit reglement wordt verstaan onder:
 
-- a. **de wet:** de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443);
+- a. *de wet:* de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443);
 
-- b. **Commissie:** de Referendumcommissie;
+- b. *Commissie:* de Referendumcommissie;
 
-- c. **voorzitter:** de voorzitter van de Commissie;
+- c. *voorzitter:* de voorzitter van de Commissie;
 
-- d. **lid:** de voorzitter of een ander lid van de Commissie;
+- d. *lid:* de voorzitter of een ander lid van de Commissie;
 
-- e. **secretaris:** de secretaris en plaatsvervangend secretaris;
+- e. *secretaris:* de secretaris en plaatsvervangend secretaris;
 
-- f. **uitvoeringsorganisatie:** de organisatie die de subsidieregeling van de Commissie uitvoert;
+- f. *uitvoeringsorganisatie:* de organisatie die de subsidieregeling van de Commissie uitvoert;
 
-- g. **vaststellingskader:** het door de commissie vastgestelde kader aan de hand waarvan:
+- g. *vaststellingskader:* het door de commissie vastgestelde kader aan de hand waarvan:
 
-- 1°. bij rechtspersonen aan wie subsidie is verleend de subsidie wordt vastgesteld;
+   - 1°. bij rechtspersonen aan wie subsidie is verleend de subsidie wordt vastgesteld;
 
-- 2°. bij via een steekproef geselecteerde natuurlijke personen aan wie subsidie is verleend, indien van toepassing, de subsidievaststelling wordt ingetrokken of gewijzigd.
+   - 2°. bij via een steekproef geselecteerde natuurlijke personen aan wie subsidie is verleend, indien van toepassing, de subsidievaststelling wordt ingetrokken of gewijzigd.
 
 ### Hoofdstuk 2. Inrichting en besluitvorming
 
@@ -117,6 +93,14 @@ Indien een lid met het oog op de onafhankelijke taakvervulling van de Commissie 
 
 4. In het geval de stemmen staken, geeft de stem van de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter de doorslag.
 
+##### Artikel 8a
+
+In afwijking van het [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037713&hoofdstuk=2&artikel=8&z=2016-09-21&g=2016-09-21) kan de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter, besluiten nemen en stukken ondertekenen met betrekking tot:
+
+- a. besluiten als bedoeld in de [artikelen 4:42](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:42), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) en [4:95 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95) ten aanzien van rechtspersonen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden vastgesteld op basis van het vaststellingskader;
+
+- b. besluiten als bedoeld in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) ten aanzien van natuurlijke personen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden ingetrokken of gewijzigd op basis van het vaststellingskader.
+
 ##### Artikel 9
 
 1. De voorzitter en de andere leden onthouden zich van alles wat een goede taakvervulling van de Commissie kan schaden.
@@ -131,9 +115,9 @@ Indien een lid met het oog op de onafhankelijke taakvervulling van de Commissie 
 
 1. De Commissie stelt een mandaatregeling vast die in ieder geval voorziet in:
 
-- a). de vervanging van de voorzitter indien deze afwezig of verhinderd is;
+- a) de vervanging van de voorzitter indien deze afwezig of verhinderd is;
 
-- b). de ondertekening namens de Commissie van besluiten en stukken.
+- b) de ondertekening namens de Commissie van besluiten en stukken.
 
 2. Het mandaatbesluit wordt in de Staatscourant gepubliceerd.
 
@@ -160,15 +144,3 @@ Dit reglement wordt bekendgemaakt in de Staatscourant.
 ##### Artikel 14
 
 Dit reglement treedt in werking op de dag na zijn bekendmaking en werkt terug tot 5 oktober 2015.
-
-##### Artikel 8a
-
-In afwijking van het [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037713&hoofdstuk=2&artikel=8&z=2016-09-21&g=2016-09-21) kan de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter, besluiten nemen en stukken ondertekenen met betrekking tot:
-
-- a. besluiten als bedoeld in de [artikelen 4:42](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:42), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) en [4:95 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95) ten aanzien van rechtspersonen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden vastgesteld op basis van het vaststellingskader;
-
-- b. besluiten als bedoeld in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) ten aanzien van natuurlijke personen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden ingetrokken of gewijzigd op basis van het vaststellingskader.
-
-### Hoofdstuk 3. Werkwijzen en procedures
-
-### Hoofdstuk 4. Slotbepalingen

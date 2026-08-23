@@ -1,41 +1,17 @@
 ---
 title: "Regeling protonentherapie"
 identifier: "BWBR0037204"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-11-19"
-last_updated: "2015-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037204"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13305693"
-version_id: "22784842"
-internal_id: "C32933161"
-label_id: "13273524"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037204/2015-11-19/0"
-intitule_bron: "Stcrt.2015-40723"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-11-10"
-intitule_published: "2015-11-18"
-intitule_in_force: "2015-11-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-40723"
-original_signed_date: "2015-11-10"
-original_published_date: "2015-11-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-40723"
-entry_into_force_date: "2015-11-19"
-jci_1_3: "jci1.3:c:BWBR0037204&z=2015-11-19&g=2015-11-19"
-jci_1_0: "1.0:c:BWBR0037204&g=2015-11-19"
-citeertitel_status: "officieel"
-signed_date: "2015-11-10"
-entry_into_force: "2015-11-19"
+publicatiedatum: 2015-11-19
+laatste_update: 2015-11-19
+status: geldig
+toestand: 2015-11-19
+bron: "https://wetten.overheid.nl/BWBR0037204"
+opgehaald: 2026-08-23
 ---
-# Regeling protonentherapie
 
-Op grond van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), alsmede de beleidsregel ‘Prestaties en tarieven protonentherapie’, stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast.
+# Regeling protonentherapie
 
 ##### Artikel 1. Reikwijdte
 
@@ -49,9 +25,9 @@ In deze regeling legt de NZa regels vast die zorgaanbieders als bedoeld in [arti
 
 In deze regeling wordt verstaan onder:
 
-- a. **DBC-zorgproduct voor protonentherapie:** een declarabele prestatie in het kader van protonentherapie.
+- a. *DBC-zorgproduct voor protonentherapie:* een declarabele prestatie in het kader van protonentherapie.
 
-- b. **Protonentherapie:** een vorm van radiotherapie, waarbij protonen uit waterstofkernen worden toegepast.1Artikel 1 Regeling protonentherapie.
+- b. *Protonentherapie:* een vorm van radiotherapie, waarbij protonen uit waterstofkernen worden toegepast.1Artikel 1 Regeling protonentherapie.
 
 ##### Artikel 4. Algemeen
 
@@ -69,13 +45,13 @@ De begrips-, registratie- en declaratiebepalingen zoals opgenomen in de [Regelin
 
 5. Indien van toepassing, moeten DBC-zorgproducten serieel worden geregistreerd. Slechts de volgende seriële combinaties zijn mogelijk:
 
-- –. Planningsvergelijking protonen- en fotonentherapie – Voorbereiding protonentherapie (niet gevolgd door bestraling);
+- – Planningsvergelijking protonen- en fotonentherapie – Voorbereiding protonentherapie (niet gevolgd door bestraling);
 
-- –. Protonentherapie licht, middel, zwaar – Follow up na protonenbehandeling;
+- – Protonentherapie licht, middel, zwaar – Follow up na protonenbehandeling;
 
-- –. Planningsvergelijking protonen- en fotonentherapie – Protonentherapie licht, middel, zwaar – Follow up na protonenbehandeling;
+- – Planningsvergelijking protonen- en fotonentherapie – Protonentherapie licht, middel, zwaar – Follow up na protonenbehandeling;
 
-- –. Protonentherapie oog, kind – Follow up na protonenbehandeling.
+- – Protonentherapie oog, kind – Follow up na protonenbehandeling.
 
 6. De verleende zorg wordt vastgelegd in door de NZa vastgestelde enkelzijdig omschreven zorgactiviteiten. Dit betreft voor protonentherapie de zorgactiviteiten, zoals opgenomen in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037204&bijlage=1a&z=2015-11-19&g=2015-11-19).
 
@@ -103,118 +79,60 @@ Hiermee wordt bedoeld dat geen sprake is van een protonenbehandeling gecombineer
 
 6. Een declaratie van een DBC-zorgproduct voor protonentherapie vermeldt minimaal de volgende gegevens:
 
-- a). **DBC-zorgproduct startdatum:** Een subtraject wordt afgeleid tot een DBC-zorgproduct en heeft een eigen startdatum.
+- a) *DBC-zorgproduct startdatum:* Een subtraject wordt afgeleid tot een DBC-zorgproduct en heeft een eigen startdatum.
 
-- b). **DBC-zorgproduct einddatum:** Een subtraject wordt afgeleid tot een afzonderlijk DBC-zorgproduct en heeft een eigen einddatum.
+- b) *DBC-zorgproduct einddatum:* Een subtraject wordt afgeleid tot een afzonderlijk DBC-zorgproduct en heeft een eigen einddatum.
 
-- c). **(Typerende) Diagnose (ICD-10):** De diagnose die de geleverde zorg over de te declareren periode het beste typeert.
+- c) *(Typerende) Diagnose (ICD-10):* De diagnose die de geleverde zorg over de te declareren periode het beste typeert.
 
-- d). **Lokalisatie:** De lokalisatie van de tumor dient vermeld te worden op de declaratie, voor zover deze niet al eenduidig kan worden afgeleid uit de geregistreerde diagnose en relevant is voor de typering van het te declareren DBC-zorgproduct.
+- d) *Lokalisatie:* De lokalisatie van de tumor dient vermeld te worden op de declaratie, voor zover deze niet al eenduidig kan worden afgeleid uit de geregistreerde diagnose en relevant is voor de typering van het te declareren DBC-zorgproduct.
 
-- e). **Uitkomst planningsvergelijking protonen- en fotonentherapie**
+- e) *Uitkomst planningsvergelijking protonen- en fotonentherapie*
 
-- f). **Gedeclareerd bedrag**: Op de declaratie dient het gedeclareerde bedrag van het DBC-zorgproduct opgenomen te zijn.
+- f) *Gedeclareerd bedrag*: Op de declaratie dient het gedeclareerde bedrag van het DBC-zorgproduct opgenomen te zijn.
 
-- g). **Type verwijzer**: Op de declaratie dient het type verwijzer vermeld te worden naar onderstaande classificatie:
+- g) *Type verwijzer*: Op de declaratie dient het type verwijzer vermeld te worden naar onderstaande classificatie:
 
-- 1. Zelfverwijzer SEH (een patiënt die zich meldt bij de SEH zonder verwijzing).
+   - 1. Zelfverwijzer SEH (een patiënt die zich meldt bij de SEH zonder verwijzing).
 
-- 2. Zelfverwijzer niet-SEH (bijvoorbeeld een patiënt die zich meldt bij de polikliniek zonder verwijzing).
+   - 2. Zelfverwijzer niet-SEH (bijvoorbeeld een patiënt die zich meldt bij de polikliniek zonder verwijzing).
 
-- 3. Verwezen patiënt SEH (Een patiënt die zich meldt bij de SEH met een verwijzing).
+   - 3. Verwezen patiënt SEH (Een patiënt die zich meldt bij de SEH met een verwijzing).
 
-- 4. Verwezen patiënt niet-SEH vanuit eerstelijn (bijvoorbeeld een patiënt die zich meldt bij de polikliniek met een verwijzing vanuit de eerstelijn).
+   - 4. Verwezen patiënt niet-SEH vanuit eerstelijn (bijvoorbeeld een patiënt die zich meldt bij de polikliniek met een verwijzing vanuit de eerstelijn).
 
-- 5. Verwezen patiënt niet-SEH vanuit ander specialisme binnen dezelfde instelling (bijvoorbeeld een patiënt die zich meldt bij de polikliniek met een verwijzing van een ander medisch specialisme binnen dezelfde instelling).
+   - 5. Verwezen patiënt niet-SEH vanuit ander specialisme binnen dezelfde instelling (bijvoorbeeld een patiënt die zich meldt bij de polikliniek met een verwijzing van een ander medisch specialisme binnen dezelfde instelling).
 
-- 6. Verwezen patiënt niet-SEH vanuit andere instelling (bijvoorbeeld een patiënt die zich meldt bij de polikliniek met een verwijzing van andere instelling).
+   - 6. Verwezen patiënt niet-SEH vanuit andere instelling (bijvoorbeeld een patiënt die zich meldt bij de polikliniek met een verwijzing van andere instelling).
 
-- 7. Eigen patiënt (bijvoorbeeld ingeval vervolg traject of nieuwe zorgvraag van eigen patiënt).
+   - 7. Eigen patiënt (bijvoorbeeld ingeval vervolg traject of nieuwe zorgvraag van eigen patiënt).
 
-- 8. Verwezen patiënt niet-SEH vanuit eerstelijn, maar verwijzer heeft geen AGB-code (bijvoorbeeld ingeval van optometristen).
+   - 8. Verwezen patiënt niet-SEH vanuit eerstelijn, maar verwijzer heeft geen AGB-code (bijvoorbeeld ingeval van optometristen).
 
-- h). **AGB-code verwijzer**: Indien er sprake is van type verwijzer genoemd onder g3, g4 en g6 dient op de declaratie een AGB-code van de verwijzende zorgaanbieder vermeld te worden. Dit kan een instelling, een praktijk of een natuurlijk persoon zijn. Indien er sprake is van type verwijzer genoemd onder g5 en g7 dient op de declaratie een AGB-code vermeld te worden van de natuurlijke persoon die doorverwijst.
+- h) *AGB-code verwijzer*: Indien er sprake is van type verwijzer genoemd onder g3, g4 en g6 dient op de declaratie een AGB-code van de verwijzende zorgaanbieder vermeld te worden. Dit kan een instelling, een praktijk of een natuurlijk persoon zijn. Indien er sprake is van type verwijzer genoemd onder g5 en g7 dient op de declaratie een AGB-code vermeld te worden van de natuurlijke persoon die doorverwijst.
 
-- i). **AGB-code verwijzend specialisme:** Indien er sprake is van type verwijzer genoemd onder g5, g6 of g7 dient op de declaratie ook een AGB-code van het verwijzend specialisme vermeld te worden.
+- i) *AGB-code verwijzend specialisme:* Indien er sprake is van type verwijzer genoemd onder g5, g6 of g7 dient op de declaratie ook een AGB-code van het verwijzend specialisme vermeld te worden.
 
-- j). **Zorgactiviteiten:**
+- j) *Zorgactiviteiten:*
 
-- 1. Vermelding zorgactiviteiten
+   - 1. Vermelding zorgactiviteiten
 
-- –. Indien één van de in [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0037204&bijlage=1b&z=2015-11-19&g=2015-11-19) genoemde zorgactiviteiten deel uit maakt van het lokale profiel van een DBC-zorgproduct voor protonentherapie, dienen de code, omschrijving, het aantal en de uitvoerdatum van deze zorgactiviteit te worden vermeld op de declaratie.
+      - – Indien één van de in [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0037204&bijlage=1b&z=2015-11-19&g=2015-11-19) genoemde zorgactiviteiten deel uit maakt van het lokale profiel van een DBC-zorgproduct voor protonentherapie, dienen de code, omschrijving, het aantal en de uitvoerdatum van deze zorgactiviteit te worden vermeld op de declaratie.
 
-- 2. Privacyverklaring
+   - 2. Privacyverklaring
 
-- –. De verplichting genoemd onder [artikel 6 onderdeel j sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037204&artikel=6&z=2015-11-19&g=2015-11-19) van deze Regeling, blijven buiten toepassing indien de patiënt en de zorgaanbieder gezamenlijk een privacyverklaring hebben ondertekend als bedoeld in [bijlage 11 van de Regeling medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036896&bijlage=11). Deze verklaring dient voor de zorgverzekeraar te allen tijde opvraagbaar te zijn.
+      - – De verplichting genoemd onder [artikel 6 onderdeel j sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037204&artikel=6&z=2015-11-19&g=2015-11-19) van deze Regeling, blijven buiten toepassing indien de patiënt en de zorgaanbieder gezamenlijk een privacyverklaring hebben ondertekend als bedoeld in [bijlage 11 van de Regeling medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036896&bijlage=11). Deze verklaring dient voor de zorgverzekeraar te allen tijde opvraagbaar te zijn.
 
-- 3. Bewaren afschrift
+   - 3. Bewaren afschrift
 
-- –. De zorgaanbieder is verplicht in zijn administratie een afschrift te houden van de verklaring genoemd onder j2.
+      - – De zorgaanbieder is verplicht in zijn administratie een afschrift te houden van de verklaring genoemd onder j2.
 
-- 4. Controle door de zorgverzekeraar
+   - 4. Controle door de zorgverzekeraar
 
-- –. Controle door de zorgverzekeraar op de rechtmatigheid van nota’s die, vergezeld van een verklaring als bedoeld onder j2, ter betaling aan die zorgverzekeraar zijn aangeboden, vindt uitsluitend plaats door of onder de verantwoordelijkheid van een medisch adviseur.
+      - – Controle door de zorgverzekeraar op de rechtmatigheid van nota’s die, vergezeld van een verklaring als bedoeld onder j2, ter betaling aan die zorgverzekeraar zijn aangeboden, vindt uitsluitend plaats door of onder de verantwoordelijkheid van een medisch adviseur.
 
 ##### Artikel 7. Inwerkingtreding en citeertitel
 
 Deze regeling treedt in werking op de dag na publicatie in de Staatscourant. Ingevolge [artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=20) (Wmg) zal deze regeling in de Staatscourant worden geplaatst.
 
 Deze regeling kan worden aangehaald als: ‘Regeling protonentherapie’.
-
-## Bijlage 1a
-
-| Zorgactiviteitcode | Zorgactiviteit omschrijving | Registratieverplichting |
-| --- | --- | --- |
-| 090710 | Planningsstudie met evaluatie van potentiele complicaties | Ja |
-| 090705 | Standaard 3D planning (incl planning CT) | Ja |
-| xxxxx | Standaard 3D protonenplanning (incl planning CT) | Ja |
-| 090706 | Standaard 3D-IMRT planning | Ja |
-| xxxxx | Standaard 3D-IMRT protonenplanning | Ja |
-| 090712 | Complete 4D planning | Ja |
-| xxxxx | Complete 4D protonenplanning | Ja |
-| 090613 | Consult | Ja |
-| 090614 | Follow-up consult | Ja |
-| 090830 | Standaard Protonenbestraling scanning (aantal fracties) | Ja |
-| 090831 | Standaard Protonenbestraling scattering (aantal fracties) | Ja |
-| 090832 | Stereotactische Protonenbestraling scanning (aantal fracties) | Ja |
-| 090833 | Stereotactische Protonenbestraling scattering (aantal fracties) | Ja |
-| 090707 | Fusie van anatomische of functionele datasets met planning CT | Ja |
-| 090708 | Aanvullende functionele imaging (MRSI, CE-MRI, 3D echo met contrast, PET, Diffusie MR, DCE-CT) tbv fusie met planning CT | Ja |
-| 090709 | Aanvullende anatomische imaging (MRI, 3D Echo..) t.b.v. fusie met planning CT | Ja |
-| 90703 | CT-simulatie | Ja |
-| 90709 | MRI scan | Ja |
-| xxxxx | Adaptieve planning MRI | Ja |
-| xxxxx | Adaptieve planning PET-CT | Ja |
-| xxxxx | Adaptieve planning CT | Ja |
-| xxxxx | Aanpassen bestralingsplan tbv adaptieve therapie | Ja |
-| 39092 | Narcose t.b.v. Radiotherapie | Ja |
-| 90787 | Protonentherapie – breath controlled bestraling. | Ja |
-
-## Bijlage 1b
-
-| Zorgactiviteitcode | Zorgactiviteit omschrijving | Declaratieverplichting |
-| --- | --- | --- |
-| 090710 | Planningsstudie met evaluatie van potentiele complicaties | Ja |
-| 090705 | Standaard 3D planning (incl planning CT) | Ja |
-| xxxxx | Standaard 3D protonenplanning (incl planning CT) | Ja |
-| 090706 | Standaard 3D-IMRT planning | Ja |
-| xxxxx | Standaard 3D-IMRT protonenplanning | Ja |
-| 090712 | Complete 4D planning | Ja |
-| xxxxx | Complete 4D protonenplanning | Ja |
-| 090613 | Consult | Ja |
-| 090614 | Follow-up consult | Ja |
-| 090830 | Standaard Protonenbestraling scanning (aantal fracties) | Nee |
-| 090831 | Standaard Protonenbestraling scattering (aantal fracties) | Nee |
-| 090832 | Stereotactische Protonenbestraling scanning (aantal fracties) | Nee |
-| 090833 | Stereotactische Protonenbestraling scattering (aantal fracties) | Nee |
-| 090707 | Fusie van anatomische of functionele datasets met planning CT | Nee |
-| 090708 | Aanvullende functionele imaging (MRSI, CE-MRI, 3D echo met contrast, PET, Diffusie MR, DCE-CT) tbv fusie met planning CT | Nee |
-| 090709 | Aanvullende anatomische imaging (MRI, 3D Echo..) t.b.v. fusie met planning CT | Nee |
-| 90703 | CT-simulatie | Nee |
-| 90709 | MRI scan | Nee |
-| xxxxx | Adaptieve planning MRI | Nee |
-| xxxxx | Adaptieve planning PET-CT | Nee |
-| xxxxx | Adaptieve planning CT | Nee |
-| xxxxx | Aanpassen bestralingsplan tbv adaptieve therapie | Nee |
-| 39092 | Narcose t.b.v. Radiotherapie | Nee |
-| 90787 | Protonentherapie – breath controlled bestraling. | Nee |

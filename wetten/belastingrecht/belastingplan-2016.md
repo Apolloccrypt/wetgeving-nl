@@ -1,45 +1,22 @@
 ---
 title: "Wet van 23 december 2015 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2016)"
+citeertitel: "Belastingplan 2016"
 identifier: "BWBR0037444"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037444"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "13366543"
-version_id: "22916482"
-internal_id: "C33140151"
-label_id: "13334814"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037444/2019-01-01/0"
-intitule_bron: "Stb.2015-538"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-23"
-intitule_published: "2015-12-30"
-intitule_in_force: "2015-12-30"
-intitule_status: "goed"
-original_publication: "Stb.2015-538"
-original_signed_date: "2015-12-23"
-original_published_date: "2015-12-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "34302"
-original_url_id: "stb-2015-538"
-entry_into_force_date: "2015-12-31"
-jci_1_3: "jci1.3:c:BWBR0037444&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0037444&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2016"
-signed_date: "2015-12-23"
-entry_into_force: "2015-12-31"
+publicatiedatum: 2015-12-31
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0037444"
+opgehaald: 2026-08-23
 ---
+
 # Wet van 23 december 2015 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2016)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel Ia
 
@@ -47,139 +24,139 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel V
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IX
 
-Vervallen
+*Vervallen*
 
 ##### Artikel X
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel XX
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel XXI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXIX
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXX
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXXI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXXII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXXIII
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel XXXIV
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel XXXV
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XXXVI
 
@@ -187,7 +164,7 @@ Bij het begin van het kalenderjaar 2017 wordt [artikel 35a van de Successiewet 1
 
 ##### Artikel XXXVII
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XXXVIII
 
@@ -195,63 +172,63 @@ Onze Minister zendt binnen vier jaar na de inwerkingtreding van de in [artikel X
 
 ##### Artikel XXXIX
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XL
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XLa
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XLI
 
-Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.
+*Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.*
 
 ##### Artikel XLII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XLII0a
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XLIIa
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XLIII
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XLIV
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XLV
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel XLVI
 
-Wijzigt de Invoeringswet fiscaal stelsel BES.
+*Wijzigt de Invoeringswet fiscaal stelsel BES.*
 
 ##### Artikel XLVII
 
-Wijzigt de Wet maatregelen woningmarkt 2014 II.
+*Wijzigt de Wet maatregelen woningmarkt 2014 II.*
 
 ##### Artikel XLVIII
 
-Wijzigt het Belastingplan 2015.
+*Wijzigt het Belastingplan 2015.*
 
 ##### Artikel XLVIIIa
 
-Wijzigt de Overige fiscale maatregelen 2016.
+*Wijzigt de Overige fiscale maatregelen 2016.*
 
 ##### Artikel XLVIIIb
 
-Wijzigt de Electriciteits- en gaswet.
+*Wijzigt de Electriciteits- en gaswet.*
 
 ##### Artikel XLIX
 
@@ -306,11 +283,3 @@ Ingeval de samenloop van wetten die in 2015 in het Staatsblad zijn of worden gep
 ##### Artikel LIII
 
 Deze wet wordt aangehaald als: Belastingplan 2016.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor het jaar 2016 wenselijk is een aantal fiscale maatregelen te treffen die voortvloeien uit het vijfmiljardpakket en de koopkrachtbesluitvorming en dat het in het kader van het fiscale beleid voor het jaar 2016 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen die uiterlijk met ingang van 1 januari 2016 in werking moeten treden;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

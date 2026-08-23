@@ -1,42 +1,17 @@
 ---
 title: "Deelregeling Impuls muziekonderwijs PO 2015–2020"
 identifier: "BWBR0037083"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-10-14"
-last_updated: "2015-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037083"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "13273663"
-version_id: "22719752"
-internal_id: "C32849371"
-label_id: "13241784"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037083/2015-10-14/0"
-intitule_bron: "Stcrt.2015-34149"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-10-13"
-intitule_in_force: "2015-10-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-34149"
-original_published_date: "2015-10-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-34149"
-entry_into_force_date: "2015-10-14"
-jci_1_3: "jci1.3:c:BWBR0037083&z=2015-10-14&g=2015-10-14"
-jci_1_0: "1.0:c:BWBR0037083&g=2015-10-14"
-citeertitel_status: "officieel"
-entry_into_force: "2015-10-14"
+publicatiedatum: 2015-10-14
+laatste_update: 2015-10-14
+status: geldig
+toestand: 2015-10-14
+bron: "https://wetten.overheid.nl/BWBR0037083"
+opgehaald: 2026-08-23
 ---
+
 # Deelregeling Impuls muziekonderwijs PO 2015–2020
-
-Gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 27 september 2015
-
-Besluit:
 
 #### Paragraaf 1. : Algemene bepalingen
 
@@ -44,17 +19,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Fonds voor Cultuurparticipatie:** het bestuur van de stichting Fonds voor Cultuurparticipatie;
+- *Fonds voor Cultuurparticipatie:* het bestuur van de stichting Fonds voor Cultuurparticipatie;
 
-- **School:** basisschool of een speciale school voor basisonderwijs, als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- *School:* basisschool of een speciale school voor basisonderwijs, als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **Schoolbestuur:** het bevoegd gezag van een basisschool als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- *Schoolbestuur:* het bevoegd gezag van een basisschool als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **Locatie:** een in Nederland gelegen hoofd- of nevenvestiging als bedoeld in de [Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+- *Locatie:* een in Nederland gelegen hoofd- of nevenvestiging als bedoeld in de [Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-- **Culturele instelling met muziekexpertise:** vereniging of stichting met een culturele doelstelling met expertise op het gebied van muziek zoals een afdeling muziek, een muziekschool of een samenwerkingsverband van muziekdocenten die als zelfstandige werkzaam zijn;
+- *Culturele instelling met muziekexpertise:* vereniging of stichting met een culturele doelstelling met expertise op het gebied van muziek zoals een afdeling muziek, een muziekschool of een samenwerkingsverband van muziekdocenten die als zelfstandige werkzaam zijn;
 
-- **Nederland:** het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba.
+- *Nederland:* het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba.
 
 ##### Artikel 1.2. Doel subsidieverstrekking
 
@@ -192,9 +167,9 @@ Activiteiten die in het kader van deze regeling worden ontwikkeld en uitgevoerd 
 
 #### Paragraaf 4. : Overige bepalingen
 
-##### Artikel 4.1. Wijziging [Regeling Professionalisering Cultuuronderwijs PO](https://wetten.overheid.nl/jci1.3:c:BWBR0036872)
+##### Artikel 4.1. Wijziging Regeling Professionalisering Cultuuronderwijs PO
 
-Wijzigt de Regeling Professionalisering Cultuuronderwijs PO.
+*Wijzigt de Regeling Professionalisering Cultuuronderwijs PO.*
 
 ##### Artikel 4.2. Inwerkingtreding
 
@@ -205,5 +180,3 @@ Wijzigt de Regeling Professionalisering Cultuuronderwijs PO.
 ##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Impuls muziekonderwijs PO 2015–2020
-
-Dit besluit zal in de Staatscourant worden geplaatst.

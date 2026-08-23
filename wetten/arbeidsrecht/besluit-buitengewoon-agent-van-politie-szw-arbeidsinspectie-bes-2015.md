@@ -1,50 +1,18 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie van 21 september 2015, 15072015 nr. 201501/KPCN/15, strekkende tot aanwijzing van buitengewoon agenten van politie bij Rijksdienst Caribisch Nederland afdeling SZW/Arbeidsinspectie BES"
+citeertitel: "Besluit buitengewoon agent van politie SZW/ Arbeidsinspectie BES 2015"
 identifier: "BWBR0037048"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2015-10-02"
-last_updated: "2015-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037048"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "13264453"
-version_id: "22695212"
-internal_id: "C32824011"
-label_id: "13232484"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037048/2015-10-02/0"
-intitule_bron: "Stcrt.2015-32351"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-09-21"
-intitule_published: "2015-10-01"
-intitule_in_force: "2015-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-32351"
-original_signed_date: "2015-09-21"
-original_published_date: "2015-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-32351"
-entry_into_force_date: "2015-10-02"
-jci_1_3: "jci1.3:c:BWBR0037048&z=2015-10-02&g=2015-10-02"
-jci_1_0: "1.0:c:BWBR0037048&g=2015-10-02"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon agent van politie SZW/ Arbeidsinspectie BES 2015"
-signed_date: "2015-09-21"
-entry_into_force: "2015-10-02"
+publicatiedatum: 2015-10-02
+laatste_update: 2015-10-02
+status: geldig
+toestand: 2015-10-02
+bron: "https://wetten.overheid.nl/BWBR0037048"
+opgehaald: 2026-08-23
 ---
+
 # Besluit van de Minister van Veiligheid en Justitie van 21 september 2015, 15072015 nr. 201501/KPCN/15, strekkende tot aanwijzing van buitengewoon agenten van politie bij Rijksdienst Caribisch Nederland afdeling SZW/Arbeidsinspectie BES
-
-Gelezen het verzoek van de Arbeidsinspectie van 3 juni 2015 en de daaropvolgende adviezen van de hoofdofficier van justitie en de korpschef/hoofd van dienst;
-
-Gelet op:
-
-[Artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
-
-Het [Besluit buitengewone agenten van politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029175);
-
-Besluit:
 
 ##### Artikel 1
 

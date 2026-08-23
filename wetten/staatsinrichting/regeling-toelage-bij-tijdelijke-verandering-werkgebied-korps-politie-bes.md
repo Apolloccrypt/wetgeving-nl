@@ -9,7 +9,7 @@ laatste_update: 2026-08-20
 status: geldig
 toestand: 2026-08-20
 bron: "https://wetten.overheid.nl/BWBR0036472"
-opgehaald: 2026-08-22
+opgehaald: 2026-08-23
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 maart 2015, nr. 2015-0000162798, houdende vaststelling van bepalingen inzake de door ambtenaren van politie van het korps politie Bonaire, Sint Eustatius en Saba te ontvangen toelage bij een tijdelijke verandering van werkgebied (Regeling toelage bij tijdelijke verandering werkgebied korps politie BES)
