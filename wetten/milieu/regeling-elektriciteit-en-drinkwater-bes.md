@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 10 juni 2016, nr. WJZ/15003661, houdende regels met betrekking tot de productie en de distributie van elektriciteit en drinkwater op Bonaire, Sint Eustatius en Saba (Ministeriele regeling elektriciteit en drinkwater BES)"
+citeertitel: "Regeling elektriciteit en drinkwater BES"
 identifier: "BWBR0038093"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038093"
+categorie: "Milieu"
 soort: "ministeriele-regeling-BES"
-stam_id: "13656933"
-version_id: "23385592"
-internal_id: "C33706011"
-label_id: "13623744"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038093/2016-07-01/0"
-intitule_bron: "Stcrt.2016-33268"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-10"
-intitule_published: "2016-06-24"
-intitule_in_force: "2016-06-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-33268"
-original_signed_date: "2016-06-10"
-original_published_date: "2016-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-33268"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0038093&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0038093&g=2016-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling elektriciteit en drinkwater BES"
-signed_date: "2016-06-10"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0038093"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Economische Zaken van 10 juni 2016, nr. WJZ/15003661, houdende regels met betrekking tot de productie en de distributie van elektriciteit en drinkwater op Bonaire, Sint Eustatius en Saba (Ministeriele regeling elektriciteit en drinkwater BES)
-
-Gelet op [artikel 2.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=2.5), [3.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=3.9), [3.14, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=3.14), [3.16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=3.16), [3.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=3.17), en [4.1, tweede lid, van de Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=4.1) en op [artikel 3.1 van het Besluit elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0038044&artikel=3.1);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -119,5 +93,3 @@ Deze regeling treedt in werking op 1 juli 2016.
 ##### Artikel 6.2
 
 Deze regeling wordt aangehaald als: Regeling elektriciteit en drinkwater BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

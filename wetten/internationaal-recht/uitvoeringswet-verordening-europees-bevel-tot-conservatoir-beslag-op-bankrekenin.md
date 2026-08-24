@@ -1,47 +1,18 @@
 ---
 title: "Wet van 14 november 2016, houdende uitvoering van Verordening (EU) nr. 655/2014 van het Europees Parlement en de Raad van 15 mei 2014 tot vaststelling van een procedure betreffende het Europees bevel tot conservatoir beslag op bankrekeningen om de grensoverschrijdende inning van schuldvorderingen in burgerlijke en handelszaken te vergemakkelijken (PbEU 2014, L 189) (Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen)"
+citeertitel: "Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen"
 identifier: "BWBR0038749"
-country: "nl"
-rank: "wet"
-publication_date: "2017-01-18"
-last_updated: "2017-01-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038749"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "13798493"
-version_id: "23667512"
-internal_id: "C34071551"
-label_id: "13764724"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038749/2017-01-18/0"
-intitule_bron: "Stb.2016-440"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-11-14"
-intitule_published: "2016-11-25"
-intitule_in_force: "2016-11-25"
-intitule_status: "goed"
-original_publication: "Stb.2016-440"
-original_signed_date: "2016-11-14"
-original_published_date: "2016-11-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "34462"
-original_url_id: "stb-2016-440"
-entry_into_force_date: "2017-01-18"
-jci_1_3: "jci1.3:c:BWBR0038749&z=2017-01-18&g=2017-01-18"
-jci_1_0: "1.0:c:BWBR0038749&g=2017-01-18"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen"
-signed_date: "2016-11-14"
-entry_into_force: "2017-01-18"
+publicatiedatum: 2017-01-18
+laatste_update: 2017-01-18
+status: geldig
+toestand: 2017-01-18
+bron: "https://wetten.overheid.nl/BWBR0038749"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 14 november 2016, houdende uitvoering van Verordening (EU) nr. 655/2014 van het Europees Parlement en de Raad van 15 mei 2014 tot vaststelling van een procedure betreffende het Europees bevel tot conservatoir beslag op bankrekeningen om de grensoverschrijdende inning van schuldvorderingen in burgerlijke en handelszaken te vergemakkelijken (PbEU 2014, L 189) (Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat Verordening (EU) Nr. 655/2014 van het Europees Parlement en de Raad van 15 mei 2014 tot vaststelling van een procedure betreffende het Europees bevel tot conservatoir beslag op bankrekeningen om de grensoverschrijdende inning van schuldvorderingen in burgerlijke en handelszaken te vergemakkelijken (PbEU 2014, L 189) moet worden uitgevoerd;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -95,7 +66,7 @@ De betekening of kennisgeving aan de schuldenaar, als bedoeld in artikel 28, twe
 
 ##### Artikel 10
 
-Een verzoek om een Europees bevel tot conservatoir beslag wordt voor de toepassing van artikel 42 van de verordening aangemerkt als een verzoek van onbepaalde waarde als bedoeld in de [bijlage behorend bij de Wet griffierechten in burgerlijke zaken](onbekend).
+Een verzoek om een Europees bevel tot conservatoir beslag wordt voor de toepassing van artikel 42 van de verordening aangemerkt als een verzoek van onbepaalde waarde als bedoeld in de [bijlage behorend bij de Wet griffierechten in burgerlijke zaken](https://wetten.overheid.nl/BWBR0028899).
 
 ##### Artikel 11
 
@@ -109,7 +80,7 @@ De vergoeding, als bedoeld in artikel 44 van de verordening, die door de deurwaa
 
 ##### Artikel 13
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 14
 
@@ -118,5 +89,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

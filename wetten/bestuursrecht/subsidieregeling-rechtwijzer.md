@@ -1,42 +1,17 @@
 ---
 title: "Subsidieregeling Rechtwijzer"
 identifier: "BWBR0038057"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038057"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13651293"
-version_id: "23370092"
-internal_id: "C33686991"
-label_id: "13618074"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038057/2016-07-01/0"
-intitule_bron: "Stcrt.2016-30476"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-06-14"
-intitule_in_force: "2016-06-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-30476"
-original_published_date: "2016-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-30476"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0038057&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0038057&g=2016-07-01"
-citeertitel_status: "officieel"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0038057"
+opgehaald: 2026-08-24
 ---
+
 # Subsidieregeling Rechtwijzer
-
-gelet op [artikel 37b van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b),
-
-Besluit:
-
-de volgende regeling vast te stellen,
 
 ### Hoofdstuk I. Algemeen
 
@@ -44,39 +19,39 @@ de volgende regeling vast te stellen,
 
 In deze regeling wordt verstaan onder:
 
-- a. **Rechtwijzer:** het bijzondere project opgezet door het bestuur, HiiL en Modria ten behoeve van online geschiloplossing;
+- a. *Rechtwijzer:* het bijzondere project opgezet door het bestuur, HiiL en Modria ten behoeve van online geschiloplossing;
 
-- b. **De wet:** de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
+- b. *De wet:* de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- c. **Het besluit:** Het [Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277);
+- c. *Het besluit:* Het [Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277);
 
-- d. **De Raad:** de Raad voor Rechtsbijstand, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
+- d. *De Raad:* de Raad voor Rechtsbijstand, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
 
-- e. **Het bestuur:** het bestuur van de Raad, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
+- e. *Het bestuur:* het bestuur van de Raad, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
 
-- f. **Gebruiker:** de rechtzoekende overeenkomstig [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
+- f. *Gebruiker:* de rechtzoekende overeenkomstig [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
 
-- g. **Initiator:** de gebruiker die via Rechtwijzer start om zijn geschil op te lossen;
+- g. *Initiator:* de gebruiker die via Rechtwijzer start om zijn geschil op te lossen;
 
-- h. **Uitgenodigde:** de gebruiker die door de initiator wordt uitgenodigd om via Rechtwijzer hun geschil op te lossen;
+- h. *Uitgenodigde:* de gebruiker die door de initiator wordt uitgenodigd om via Rechtwijzer hun geschil op te lossen;
 
-- i. **Dienstverlener:** de bemiddelaar, beslisser of reviewer met wie het bestuur een overeenkomst als bedoeld in [artikel 13, eerste lid aanhef en onder a. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=13) is aangegaan ten behoeve van dienstverlening via Rechtwijzer en op wie de deelnamevoorwaarden voor Rechtwijzer van toepassing zijn;
+- i. *Dienstverlener:* de bemiddelaar, beslisser of reviewer met wie het bestuur een overeenkomst als bedoeld in [artikel 13, eerste lid aanhef en onder a. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=13) is aangegaan ten behoeve van dienstverlening via Rechtwijzer en op wie de deelnamevoorwaarden voor Rechtwijzer van toepassing zijn;
 
-- j. **Dienstverlening:** de werkzaamheden verricht door een dienstverlener;
+- j. *Dienstverlening:* de werkzaamheden verricht door een dienstverlener;
 
-- k. **Bemiddelaar:** de advocaat die op verzoek begeleiding en advies biedt bij het maken van afspraken;
+- k. *Bemiddelaar:* de advocaat die op verzoek begeleiding en advies biedt bij het maken van afspraken;
 
-- l. **Beslisser:** de deskundige die op verzoek een redelijke beslissing neemt, wanneer partijen het niet eens worden over één of meerdere punten
+- l. *Beslisser:* de deskundige die op verzoek een redelijke beslissing neemt, wanneer partijen het niet eens worden over één of meerdere punten
 
-- m. **Reviewer:** de advocaat die alle gemaakte afspraken toetst op juridische, financiële en praktische houdbaarheid en de zaak aanbrengt bij de rechtbank;
+- m. *Reviewer:* de advocaat die alle gemaakte afspraken toetst op juridische, financiële en praktische houdbaarheid en de zaak aanbrengt bij de rechtbank;
 
-- n. **Inkomen:** het inkomen, zoals berekend ingevolge de [artikelen 34a eerste lid, met uitzondering van de derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34a), en [34b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34b);
+- n. *Inkomen:* het inkomen, zoals berekend ingevolge de [artikelen 34a eerste lid, met uitzondering van de derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34a), en [34b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34b);
 
-- o. **Eigen betaling:** het bedrag dat de gebruiker verschuldigd is voor het gebruik van Rechtwijzer;
+- o. *Eigen betaling:* het bedrag dat de gebruiker verschuldigd is voor het gebruik van Rechtwijzer;
 
-- p. **Eigen bijdrage:** de bijdrage die de gebruiker verschuldigd is voor de dienstverlening;
+- p. *Eigen bijdrage:* de bijdrage die de gebruiker verschuldigd is voor de dienstverlening;
 
-- q. **Vergoeding:** de subsidie die krachtens deze regeling wordt uitbetaald aan de dienstverlener.
+- q. *Vergoeding:* de subsidie die krachtens deze regeling wordt uitbetaald aan de dienstverlener.
 
 ##### Artikel 2. doel
 

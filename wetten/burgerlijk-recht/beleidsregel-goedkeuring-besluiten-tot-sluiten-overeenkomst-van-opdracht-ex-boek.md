@@ -1,42 +1,25 @@
 ---
 title: "Beleidsregel goedkeuring besluiten tot sluiten overeenkomst van opdracht ex Boek 7 Burgerlijk Wetboek BES"
 identifier: "BWBR0038611"
-country: "nl"
-rank: "beleidsregel_bes"
-publication_date: "2016-10-12"
-last_updated: "2016-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038611"
+categorie: "Burgerlijk recht"
 soort: "beleidsregel-BES"
-stam_id: "13767503"
-version_id: "23605492"
-internal_id: "C33976791"
-label_id: "13733964"
-dtd_version: "2.0"
-original_entry_into_force: "2016-10-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038611/2016-10-12/0"
-intitule_bron: "Stcrt.2016-53455"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-10-12"
-intitule_in_force: "2016-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-53455"
-original_published_date: "2016-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-53455"
-entry_into_force_date: "2016-10-12"
-jci_1_3: "jci1.3:c:BWBR0038611&z=2016-10-12&g=2016-10-12"
-jci_1_0: "1.0:c:BWBR0038611&g=2016-10-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-10-12"
+publicatiedatum: 2016-10-12
+laatste_update: 2016-10-12
+status: geldig
+toestand: 2016-10-12
+bron: "https://wetten.overheid.nl/BWBR0038611"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregel goedkeuring besluiten tot sluiten overeenkomst van opdracht ex Boek 7 Burgerlijk Wetboek BES
 
 ### Wettelijke bepalingen
 
+Wet openbare lichamen Bonaire, Sint Eustatius en Saba
+
 ##### Artikel 168
 
-1. **Het bestuurscollege is in ieder geval bevoegd:**
+1. *Het bestuurscollege is in ieder geval bevoegd:*
 
 - a. ...
 
@@ -44,29 +27,31 @@ entry_into_force: "2016-10-12"
 
 - c. ...
 
-- d. **ambtenaren, niet zijnde de eilandgriffier en de op de griffie werkzame ambtenaren, te benoemen, te bevorderen, te schorsen en te ontslaan.**
+- d. *ambtenaren, niet zijnde de eilandgriffier en de op de griffie werkzame ambtenaren, te benoemen, te bevorderen, te schorsen en te ontslaan.*
 
-2. **Besluiten als bedoeld in het eerste lid, onderdeel d, worden genomen op grond van het door het bestuurscollege vastgestelde regels inzake de benoeming, bevordering, schorsing en ontslag van ambtenaren. Deze regels bevatten in ieder geval de gronden voor deze besluiten.**
+2. *Besluiten als bedoeld in het eerste lid, onderdeel d, worden genomen op grond van het door het bestuurscollege vastgestelde regels inzake de benoeming, bevordering, schorsing en ontslag van ambtenaren. Deze regels bevatten in ieder geval de gronden voor deze besluiten.*
 
-3. **Besluiten als bedoeld in het eerste lid, onderdeel d, behoeven de goedkeuring van de Rijksvertegenwoordiger. De goedkeuring kan slechts onthouden worden wegens strijd met het recht of op een grond, die is neergelegd in de regels, bedoeld in het tweede lid.**
+3. *Besluiten als bedoeld in het eerste lid, onderdeel d, behoeven de goedkeuring van de Rijksvertegenwoordiger. De goedkeuring kan slechts onthouden worden wegens strijd met het recht of op een grond, die is neergelegd in de regels, bedoeld in het tweede lid.*
 
-4. **Het tweede en derde lid zijn van overeenkomstige toepassing op besluiten tot het sluiten van een overeenkomst van opdracht als bedoeld in Boek 7 van het Burgerlijk Wetboek BES, op grond waarvan de opdrachtnemer ten behoeve van het openbaar lichaam voor meer dan een maand en gedurende ten minste 16 uur gemiddeld per week werkzaamheden verricht of laat verrichten door derden.**
+4. *Het tweede en derde lid zijn van overeenkomstige toepassing op besluiten tot het sluiten van een overeenkomst van opdracht als bedoeld in Boek 7 van het Burgerlijk Wetboek BES, op grond waarvan de opdrachtnemer ten behoeve van het openbaar lichaam voor meer dan een maand en gedurende ten minste 16 uur gemiddeld per week werkzaamheden verricht of laat verrichten door derden.*
 
 ##### Artikel 204
 
-1. **De Rijksvertegenwoordiger is in ieder geval belast met:**
+1. *De Rijksvertegenwoordiger is in ieder geval belast met:*
 
 - a. ...
 
 - b. ...
 
-- c. **het goedkeuren van besluiten tot het sluiten van een overeenkomst van opdracht als bedoeld in Boek 7 van het Burgerlijk Wetboek BES, op grond waarvan de opdrachtnemer ten behoeve van het openbaar lichaam voor meer dan een maand en gedurende ten minste 16 uur gemiddeld per week werkzaamheden verricht of laat verrichten door derden.**
+- c. *het goedkeuren van besluiten tot het sluiten van een overeenkomst van opdracht als bedoeld in Boek 7 van het Burgerlijk Wetboek BES, op grond waarvan de opdrachtnemer ten behoeve van het openbaar lichaam voor meer dan een maand en gedurende ten minste 16 uur gemiddeld per week werkzaamheden verricht of laat verrichten door derden.*
+
+Boek 7 Burgerlijk Wetboek BES
 
 ##### Artikel 400
 
-1. **De overeenkomst van opdracht is de overeenkomst waarbij de ene partij, de opdrachtnemer, zich jegens de andere partij, de opdrachtgever, verbindt anders dan op grond van een arbeidsovereenkomst werkzaamheden te verrichten die in iets anders bestaan dan het tot stand brengen van werk van stoffelijke aard, het bewaren van zaken, het uitgeven van werken of het vervoeren of doen vervoeren van personen of zaken.**
+1. *De overeenkomst van opdracht is de overeenkomst waarbij de ene partij, de opdrachtnemer, zich jegens de andere partij, de opdrachtgever, verbindt anders dan op grond van een arbeidsovereenkomst werkzaamheden te verrichten die in iets anders bestaan dan het tot stand brengen van werk van stoffelijke aard, het bewaren van zaken, het uitgeven van werken of het vervoeren of doen vervoeren van personen of zaken.*
 
-2. **De artikelen 401–412 zijn, onverminderd artikel 413, van toepassing, tenzij iets anders voortvloeit uit de wet, de inhoud of aard van de overeenkomst van opdracht of van een andere rechtshandeling, of de gewoonte.**
+2. *De artikelen 401–412 zijn, onverminderd artikel 413, van toepassing, tenzij iets anders voortvloeit uit de wet, de inhoud of aard van de overeenkomst van opdracht of van een andere rechtshandeling, of de gewoonte.*
 
 ### Achtergrond
 
@@ -82,13 +67,29 @@ Indien iemand door middel van een arbeidsovereenkomst in dienst is van een openb
 
 De definitie van een arbeidsovereenkomst is neergelegd in [artikel 7A:613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a). Daarin is bepaald dat een arbeidsovereenkomst een overeenkomst is, waarbij de ene partij, de arbeider, zich verbindt, in dienst van de andere partij, de werkgever, tegen loon, gedurende zekere tijd arbeid te verrichten.
 
-Het belangrijke verschil tussen een overeenkomst van opdracht en een arbeidsovereenkomst is de dienstbetrekking. Bij een overeenkomst van opdracht verbinden de opdrachtgever en opdrachtnemer zich om **buiten dienstbetrekking** werkzaamheden te verrichten. Bij een arbeidsovereenkomst is dit **in dienstbetrekking**.
+Het belangrijke verschil tussen een overeenkomst van opdracht en een arbeidsovereenkomst is de dienstbetrekking. Bij een overeenkomst van opdracht verbinden de opdrachtgever en opdrachtnemer zich om *buiten dienstbetrekking* werkzaamheden te verrichten. Bij een arbeidsovereenkomst is dit *in dienstbetrekking*.
 
 De definitie van een arbeidsovereenkomst, zoals deze is neergelegd in [artikel 7A:1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a) is van dwingend recht. Indien een rechtsverhouding voldoet aan deze definitie, is er sprake van een arbeidsovereenkomst. Daarbij maakt de benaming die partijen aan de overeenkomst hebben gegeven niet uit.
 
 Voor de vraag of een overeenkomst als een arbeidsovereenkomst of een overeenkomst van opdracht moet worden aangemerkt, is onder meer bepalend wat partijen bij het sluiten van de overeenkomst voor ogen stond, de wijze waarop partijen feitelijk aan de overeenkomst uitvoering hebben gegeven en de wijze waarop daaraan inhoud hebben gegeven.
 
 Bij de wijze waarop partijen feitelijk aan een overeenkomst uitvoering geven kunnen de volgende elementen van belang zijn bij het bepalen of er sprake is van een overeenkomst van opdracht.
+
+- − Het aangaan van een overeenkomst met een rechtspersoon;
+
+- − Het ontbreken van de verplichting om arbeid persoonlijk te verrichten;
+
+- − Afspraken over de wijze waarop de opdrachtnemer zich mag laten vervangen;
+
+- − Niet contractueel vastgestelde werktijden;
+
+- − Mate van zelfstandigheid van de opdrachtnemer, in die zin dat de opdrachtgever niet de inhoud van de te verrichten werkzaamheden bepaalt;
+
+- − Dat de opdrachtnemer bij de uitvoering van de werkzaamheden niet afhankelijk is van de instructie van de opdrachtgever;
+
+- − De korte duur van de werkrelatie;
+
+- − Dat de opdrachtnemer niet wordt ingeroosterd/niet als vaste kracht door de organisatie wordt beschouwd.
 
 Dit is slechts een niet-limitatieve opsomming van een aantal elementen. Per overeenkomst zullen de rechtsgevolgen die partijen aan hun verhouding hebben verbonden in hun onderlinge verband dienen te worden bezien en dient te worden gekeken naar de omstandigheden van het geval.
 
@@ -99,6 +100,18 @@ Het is niet zo dat bij een overeenkomst van opdracht geen enkele instructiebevoe
 ### Beoordeling
 
 ### 1. Bij de beoordeling te betrekken stukken
+
+- − Besluit waarbij wordt besloten de overeenkomst van opdracht om voor meer dan één (1) maand en ten minste 16 uur per week werkzaamheden te verrichten, aan te gaan.
+
+- − Concept van de overeenkomst van opdracht.
+
+- − Ambtelijk advies.
+
+- − Uittreksel KvK. In geval er wordt gekozen voor een eenmanszaak of natuurlijk persoon een VOG.
+
+- − Korte toelichting over de gevolgde procedure (zijn er meerdere offertes opgevraagd, zo niet wat was de reden etc.), voor zover dit niet is opgenomen in het ambtelijk advies.
+
+- − Voor zover niet in de overeenkomst vermeld een omschrijving van de opdracht en het kader waarbinnen gewerkt dient te worden.
 
 Indien de overeenkomst daartoe aanleiding geeft kan nog om aanvullende gegevens gevraagd worden.
 
@@ -119,6 +132,10 @@ De hiervoor genoemde gevallen zijn niet limitatief. Per overeenkomst zal aan de 
 ### 3.1. Aanvraag
 
 De aanvraag tot goedkeuring moet schriftelijk (hardcopy of email) worden ingediend bij de Rijksvertegenwoordiger en moet aan de volgende vereisten voldoen:
+
+- − de aanvraag moet door het bestuurscollege ondertekend en gedateerd zijn
+
+- − de aanvraag moet alle [onder 1](https://wetten.overheid.nl/BWBR0038611). genoemde gegevens en documenten bevatten.
 
 ### 3.2. Aanvraag niet compleet
 

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 15 april 2016, nr. WJZ/16056990, houdende vaststelling van de aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)"
+citeertitel: "Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)"
 identifier: "BWBR0037844"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-21"
-last_updated: "2016-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037844"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13477063"
-version_id: "23126612"
-internal_id: "C33426661"
-label_id: "13444354"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037844/2016-04-21/0"
-intitule_bron: "Stcrt.2016-20201"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-15"
-intitule_published: "2016-04-20"
-intitule_in_force: "2016-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-20201"
-original_signed_date: "2016-04-15"
-original_published_date: "2016-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-20201"
-entry_into_force_date: "2016-04-21"
-jci_1_3: "jci1.3:c:BWBR0037844&z=2016-04-21&g=2016-04-21"
-jci_1_0: "1.0:c:BWBR0037844&g=2016-04-21"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)"
-signed_date: "2016-04-15"
-entry_into_force: "2016-04-21"
+publicatiedatum: 2016-04-21
+laatste_update: 2016-04-21
+status: geldig
+toestand: 2016-04-21
+bron: "https://wetten.overheid.nl/BWBR0037844"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Economische Zaken van 15 april 2016, nr. WJZ/16056990, houdende vaststelling van de aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
-
-Besluit:
 
 #### Paragraaf 1. Algemeen
 
@@ -46,27 +20,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Economische Zaken;
+- a. *minister:* Minister van Economische Zaken;
 
-- b. **aanvrager:** degene die een aanvraag heeft ingediend;
+- b. *aanvrager:* degene die een aanvraag heeft ingediend;
 
-- c. **deelnemer:** aanvrager die toegelaten is tot de veiling;
+- c. *deelnemer:* aanvrager die toegelaten is tot de veiling;
 
-- d. **bod:** een bieding, uitgebracht via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
+- d. *bod:* een bieding, uitgebracht via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
 
-- e. **digitale ethertelevisie:** digitale televisie, gedistribueerd via een omroepzender als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1);
+- e. *digitale ethertelevisie:* digitale televisie, gedistribueerd via een omroepzender als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1);
 
-- f. **vergunning:** vergunning voor digitale ethertelevisie als omschreven in de [bijlagen van het besluit van de minister 15 april 2016, nr. 7188783](onbekend), inzake het besluit om de vergunning voor digitale omroep (digitale ethertelevisie) te veilen en de voorschriften en beperkingen vast te stellen die aan de vergunning zullen worden verbonden;
+- f. *vergunning:* vergunning voor digitale ethertelevisie als omschreven in de bijlagen van het besluit van de minister 15 april 2016, nr. 7188783, inzake het besluit om de vergunning voor digitale omroep (digitale ethertelevisie) te veilen en de voorschriften en beperkingen vast te stellen die aan de vergunning zullen worden verbonden;
 
-- g. **vergunninghouder:** de houder van een vergunning voor digitale ethertelevisie;
+- g. *vergunninghouder:* de houder van een vergunning voor digitale ethertelevisie;
 
-- h. **rente:** de volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%.
+- h. *rente:* de volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%.
 
 #### Paragraaf 2. Vergunning voor digitale ethertelevisie
 
 ##### Artikel 2
 
-Ingevolge het [besluit van de minister van 15 april 2016, nr. 7188783](onbekend), inzake het besluit om de vergunning voor digitale omroep (digitale ethertelevisie) te veilen en de voorschriften en beperkingen vast te stellen die aan de vergunning zullen worden verbonden is er één vergunning voor digitale ethertelevisie beschikbaar om door middel van een veiling te worden verdeeld.
+Ingevolge het besluit van de minister van 15 april 2016, nr. 7188783, inzake het besluit om de vergunning voor digitale omroep (digitale ethertelevisie) te veilen en de voorschriften en beperkingen vast te stellen die aan de vergunning zullen worden verbonden is er één vergunning voor digitale ethertelevisie beschikbaar om door middel van een veiling te worden verdeeld.
 
 #### Paragraaf 3. Vergunningaanvraag en zekerheidsstelling
 
@@ -76,13 +50,13 @@ Ingevolge het [besluit van de minister van 15 april 2016, nr. 7188783](onbekend)
 
 2. Een aanvraag wordt in de periode van 25 april 2016 tot 17 mei 2016 om 14.00 uur per aangetekende post ontvangen dan wel door middel van persoonlijke overhandiging ingediend op het volgende adres en met de volgende adressering:
 
-**Agentschap Telecom**
+*Agentschap Telecom*
 
-**Ter attentie van: Projectteam uitgifte vergunning digitale televisie**
+*Ter attentie van: Projectteam uitgifte vergunning digitale televisie*
 
-**Emmasingel 1**
+*Emmasingel 1*
 
-**9726 AH Groningen**
+*9726 AH Groningen*
 
 3. Bij persoonlijke overhandiging van de aanvraag wordt een bewijs van ontvangst afgegeven dat is voorzien van datum en tijdstip van ontvangst en ondertekening.
 
@@ -335,115 +309,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 24
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie).
-
-## Bijlage I. Model aanvraag vergunning als bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=3&z=2016-04-21&g=2016-04-21), van de Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)
-
-### Onderdeel A
-
-### A.1. Algemeen
-
-Statutaire naam aanvrager: .....
-
-Nummer van inschrijving in het handelsregister of daarmee vergelijkbaar register: .....
-
-Land van inschrijving in het handelsregister of daarmee vergelijkbaar register: .....
-
-Beherende instantie van het handelsregister of daarmee vergelijkbaar register: ....
-
-E-mailadres: .....
-
-Telefoonnummer waarop de vertegenwoordigingsbevoegde tijdens de veiling bereikbaar is: .....
-
-### A.2. Vertegenwoordigingsbevoegdheid
-
-Opgave van degene(n) die bevoegd zijn (is) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid:
-
-**Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van de volmacht worden bijgevoegd.**
-
-### A.3. Schriftelijke verklaring als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=8&z=2016-04-21&g=2016-04-21), van de Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)
-
-### A.4. Schriftelijke verklaring omtrent de juistheid van gegevens
-
-* Doorhalen wat niet van toepassing is.
-
-Ondergetekende, notaris te .....(plaatsnaam)
-
-Verklaart, zonder voorbehoud, dat:
-
-Naam: .....
-
-Plaats: .....
-
-Datum: ....
-
-Handtekening .....
-
-**De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.**
-
-### Onderdeel B
-
-### Vergunningen waarop de aanvraag betrekking heeft
-
-Ik vraag de vergunning voor digitale ethertelevisie aan.
-
-### Bestuurdersverklaring
-
-Ondergetekende verklaart dat de informatie die in deze aanvraag is verstrekt juist en volledig is.
-
-Naam: ....
-
-Plaats: .....
-
-Datum: .....
-
-Handtekening .....
-
-## Bijlage II. Model bankgarantie als bedoeld in [artikel 7, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=7&z=2016-04-21&g=2016-04-21), van de Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)
-
-- I. De ondergetekende .... (**naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte**)*, gevestigd te ...., mede kantoorhoudende te ....., hierna te noemen: ‘de Bank’; In aanmerking nemende:
-
-- A. dat [artikel 3.13, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13) bepaalt dat voor het gebruik van frequentieruimte een vergunning is vereist van de Minister van Economische Zaken (hierna: ‘de Minister’);
-
-- B. dat .......... (**naam aanvrager**), rechtspersoon naar .......... (**het recht van een van de lidstaten van de Europese Unie of van een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte**) recht, waarvan de zetel is gevestigd te .........., kantoorhoudende te .........., hierna te noemen: ‘de Aanvrager’, voornemens is een bieding in de veiling uit te brengen teneinde een vergunning als bedoeld in [artikel 3.13, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13) te verwerven voor commerciële digitale ethertelevisie;
-
-- C. dat de Minister met betrekking tot de verlening van een vergunning regels heeft gesteld. Deze regels zijn vastgelegd in de Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie) (hierna; de Regeling);
-
-- D. dat degene die een aanvraag om de voornoemde vergunning indient op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=7&z=2016-04-21&g=2016-04-21) van de Regeling verplicht is voor de vergunning een zekerheid te verschaffen door een waarborgsom ter grootte van € 1.000.000 te storten dan wel voor dat bedrag een bankgarantie te verstrekken. Deze zekerheid heeft een looptijd tot, in geval van afwijzing van de aanvraag, het tijdstip van die afwijzing of tot, in geval van toewijzing van de aanvraag, het tijdstip waarop het bod volledig is betaald;
-
-- E. dat de Aanvrager op grond hiervan is gehouden een waarborgsom te storten of een bankgarantie te doen stellen ter zekerheid van al hetgeen de Aanvrager ter zekerheid verschuldigd is, hierna te noemen: ‘de Vordering’, aan de Staat der Nederlanden, rechtspersoon naar Nederlands recht, waarvan de statutaire zetel is gevestigd te ’s-Gravenhage, hierna te noemen: ‘de Staat’;
-
-- F. dat de Aanvrager de Bank heeft verzocht een onherroepelijke en onafhankelijke bankgarantie te stellen ten behoeve van de Staat, welke op eerste verzoek van de Staat betaalbaar is;
-
-- II. Verbindt zich tot het navolgende:
-
-- 1. De Bank stelt zich bij wijze van zelfstandige verbintenis tot een bedrag van € 1.000.000 (zegge: één miljoen euro), onherroepelijk garant jegens de Staat voor de betaling van al hetgeen de Staat blijkens een schriftelijke verklaring van de Staat ter zake van de Vordering van de Aanvrager te vorderen heeft, aldus dat de Bank zich verbindt het gevorderde bedrag als eigen verplichting aan de Staat te voldoen.
-
-- 2. De Bank verbindt zich om als eigen schuld op eerste verzoek en op de enkele schriftelijke mededeling van de Staat zonder overlegging van enig ander document of opgaaf van redenen te verlangen, aan de Staat te voldoen het bedrag dat de Staat verklaart ter zake van de Vordering van de Aanvrager te vorderen te hebben, met dien verstande dat de Bank nimmer gehouden is aan de Staat meer te voldoen dan het hiervoor vermelde maximumbedrag.
-
-- 3. Deelberoepen onder deze bankgarantie zijn mogelijk. Het maximumbedrag van deze bankgarantie wordt met een bedrag gelijk met dat van elk deelberoep verlaagd.
-
-- 4. Deze bankgarantie vervalt na ontvangst door de Bank van een per aangetekende brief gezonden schriftelijke verklaring van de Staat dat de bankgarantie vervalt en in ieder geval één jaar na datum van ondertekening van deze garantie, tenzij de Bank ten minste één maand voor de einddatum van de garantie per aangetekende brief een schriftelijke verklaring van of namens de Minister heeft ontvangen dat deze bankgarantie niet vervalt, in welk geval de garantie telkens voor een nieuwe termijn van een jaar geldig is.
-
-- 5. Deze bankgarantie wordt beheerst door Nederlands recht. Geschillen ter zake van deze bankgarantie kunnen uitsluitend worden voorgelegd aan de bevoegde Nederlandse rechter te ’s-Gravenhage.
-
-- 6. Na verval van deze bankgarantie kan de Staat geen enkele aanspraak meer maken jegens de Bank uit hoofde van deze bankgarantie tenzij de Bank voorafgaande aan het moment waarop deze bankgarantie zou vervallen een mededeling ontving als bedoeld onder 2 waaraan de Bank nog niet voldeed. Op verzoek van de Bank zal de Staat deze bankgarantie nadat deze is vervallen retourneren aan de Bank.
-
-Plaats: ..........................................................................................................................................................................
-
-Datum: .........................................................................................................................................................................
-
-Naam Bank en ondertekening
-
-.....................................................................................................................................................................................
-
-* hetgeen in het bovenstaande cursief is gedrukt moet door de Bank worden ingevuld.
-
-## Bijlage III. Verklaring als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=8&z=2016-04-21&g=2016-04-21), van de Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)
-
-Ondergetekende verklaart dat hij zich voorafgaand aan de indiening van de aanvraag heeft onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich na het indienen van de aanvraag zal onthouden van het maken van dergelijke afspraken of het verrichten van dergelijke gedragingen.
-
-Naam aanvrager:
-
-Handtekening:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

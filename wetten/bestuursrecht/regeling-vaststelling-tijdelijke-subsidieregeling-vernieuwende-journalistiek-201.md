@@ -1,46 +1,18 @@
 ---
 title: "Regeling van het Stimuleringsfonds voor de Journalistiek van 5 september 2016 nr. 26130, tot vaststelling van een Tijdelijke subsidieregeling voor vernieuwende journalistiek 2017 (The Challenge)"
+citeertitel: "Regeling vaststelling Tijdelijke subsidieregeling vernieuwende journalistiek 2017 (The Challenge)"
 identifier: "BWBR0038525"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-05-05"
-last_updated: "2017-05-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038525"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13751833"
-version_id: "23574062"
-internal_id: "C33935361"
-label_id: "13718304"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038525/2017-05-05/0"
-intitule_bron: "Stcrt.2017-24939"
-intitule_effect: "wijziging"
-intitule_signed: "2017-05-04"
-intitule_published: "2017-05-04"
-intitule_in_force: "2017-05-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-49893"
-original_signed_date: "2016-09-05"
-original_published_date: "2016-09-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-49893"
-entry_into_force_date: "2016-09-24"
-jci_1_3: "jci1.3:c:BWBR0038525&z=2017-05-05&g=2017-05-05"
-jci_1_0: "1.0:c:BWBR0038525&g=2017-05-05"
-citeertitel_status: "redactioneel"
-short_title: "Regeling vaststelling Tijdelijke subsidieregeling vernieuwende journalistiek 2017 (The Challenge)"
-signed_date: "2016-09-05"
-entry_into_force: "2016-09-24"
+publicatiedatum: 2016-09-24
+laatste_update: 2017-05-05
+status: geldig
+toestand: 2017-05-05
+bron: "https://wetten.overheid.nl/BWBR0038525"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 5 september 2016 nr. 26130, tot vaststelling van een Tijdelijke subsidieregeling voor vernieuwende journalistiek 2017 (The Challenge)
-
-Handelende na overleg met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-
-Gelet op [artikel 8.15a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.15a);
-
-Besluit:
 
 ### Hoofdstuk 1. Te subsidiëren activiteiten
 
@@ -50,13 +22,13 @@ Besluit:
 
 - a. Zij hebben betrekking op een of meer
 
-- a. Nieuwe journalistieke producten of diensten;
+   - a. Nieuwe journalistieke producten of diensten;
 
-- b. Nieuwe combinaties van nieuwe journalistieke producten of diensten;
+   - b. Nieuwe combinaties van nieuwe journalistieke producten of diensten;
 
-- c. Nieuwe combinaties van bestaande journalistieke producten of diensten;
+   - c. Nieuwe combinaties van bestaande journalistieke producten of diensten;
 
-- d. Nieuwe combinaties van nieuwe met bestaande journalistieke producten of diensten;
+   - d. Nieuwe combinaties van nieuwe met bestaande journalistieke producten of diensten;
 
 - b. Zij hebben betrekking op nieuwe modellen of platforms om nieuwe journalistieke producten of diensten te realiseren.
 
@@ -175,5 +147,3 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 ##### Artikel 15. Evaluatie
 
 Binnen 26 weken na de sluitingsdatum bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038525&hoofdstuk=2&artikel=6&z=2017-05-05&g=2017-05-05), evalueert het Stimuleringsfonds de uitvoering van deze regeling.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

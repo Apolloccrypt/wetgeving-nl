@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 oktober 2016, 2016-0000214593, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit de archieven van de Commissie Gelijke Behandeling van Mannen en Vrouwen bij de arbeid en taakvoorganger over de periode 1980 t/m 1994"
+citeertitel: "Regeling beperking openbaarheid archiefbescheiden Commissie Gelijke Behandeling van Mannen en Vrouwen (arbeid en taakvoorganger 1980 t/m 1994)"
 identifier: "BWBR0038676"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-09-02"
-last_updated: "2016-09-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038676"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "13783663"
-version_id: "23637012"
-internal_id: "C34028211"
-label_id: "13749844"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038676/2016-09-02/0"
-intitule_bron: "Stcrt.2016-57553"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-21"
-intitule_published: "2016-11-01"
-intitule_in_force: "2016-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-57553"
-original_signed_date: "2016-10-21"
-original_published_date: "2016-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-57553"
-entry_into_force_date: "2016-09-02"
-jci_1_3: "jci1.3:c:BWBR0038676&z=2016-09-02&g=2016-09-02"
-jci_1_0: "1.0:c:BWBR0038676&g=2016-09-02"
-citeertitel_status: "redactioneel"
-short_title: "Regeling beperking openbaarheid archiefbescheiden Commissie Gelijke Behandeling van Mannen en Vrouwen (arbeid en taakvoorganger 1980 t/m 1994)"
-signed_date: "2016-10-21"
-entry_into_force: "2016-09-02"
+publicatiedatum: 2016-09-02
+laatste_update: 2016-09-02
+status: geldig
+toestand: 2016-09-02
+bron: "https://wetten.overheid.nl/BWBR0038676"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 oktober 2016, 2016-0000214593, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit de archieven van de Commissie Gelijke Behandeling van Mannen en Vrouwen bij de arbeid en taakvoorganger over de periode 1980 t/m 1994
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 20 september 2016 met kenmerk #1042182
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Commissie Gelijke Behandeling van Mannen en Vrouwen bij de Arbeid en taakvoorgangers over de periode 1980-1994
 
 ##### Artikel 1
 
@@ -335,5 +307,3 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de verklaring van overbrenging van het archief van de Commissie Gelijke Behandeling van Mannen en Vrouwen bij de Arbeid en taakvoorgangers over de periode 1980–1994.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-19
 toestand: 2023-06-29
 bron: "https://wetten.overheid.nl/BWBR0048320"
-opgehaald: 2026-08-23
+opgehaald: 2026-08-24
 ---
 
 # Besluit toepassing voorschriften internationaal belastingrecht in de winstsfeer

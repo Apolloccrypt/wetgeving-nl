@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister voor Wonen en Rijksdienst van 25 mei 2016, nr. 2016-0000298302 houdende wijziging van de Stimuleringsregeling energieprestatie huursector en de Regeling fonds energiebesparing huursector (versoepeling eisen en verhoging bedragen STEP)"
+citeertitel: "Wijzigingsregeling Stimuleringsregeling energieprestatie huursector, enz. (versoepeling eisen en verhoging bedragen STEP)"
 identifier: "BWBR0037992"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037992"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13559533"
-version_id: "23233002"
-internal_id: "C33544801"
-label_id: "13526334"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037992/2016-07-01/0"
-intitule_bron: "Stcrt.2016-27473"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-25"
-intitule_published: "2016-05-31"
-intitule_in_force: "2016-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-27473"
-original_signed_date: "2016-05-25"
-original_published_date: "2016-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-27473"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0037992&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0037992&g=2016-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsregeling Stimuleringsregeling energieprestatie huursector, enz. (versoepeling eisen en verhoging bedragen STEP)"
-signed_date: "2016-05-25"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0037992"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister voor Wonen en Rijksdienst van 25 mei 2016, nr. 2016-0000298302 houdende wijziging van de Stimuleringsregeling energieprestatie huursector en de Regeling fonds energiebesparing huursector (versoepeling eisen en verhoging bedragen STEP)
-
-Gelet op [artikel 4, eerste lid, onderdelen c, d en e, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=4), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), en [11, tweede en derde lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de Stimuleringsregeling energieprestatie huursector.
+*Wijzigt de Stimuleringsregeling energieprestatie huursector.*
 
 ##### Artikel II
 
-Wijzigt de Regeling fonds energiebesparing huursector.
+*Wijzigt de Regeling fonds energiebesparing huursector.*
 
 ##### Artikel III
 
-Wijzigt de Wijzigingsregeling Stimuleringsregeling energieprestatie huursector en Regeling fonds energiebesparing huursector (extra waarborgen subsidieaanvraag).
+*Wijzigt de Wijzigingsregeling Stimuleringsregeling energieprestatie huursector en Regeling fonds energiebesparing huursector (extra waarborgen subsidieaanvraag).*
 
 ##### Artikel IV. Overgangsrecht
 
@@ -67,5 +41,3 @@ Wijzigt de Wijzigingsregeling Stimuleringsregeling energieprestatie huursector e
 ##### Artikel IV
 
 Deze regeling treedt inwerking met ingang van 1 juli 2016.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

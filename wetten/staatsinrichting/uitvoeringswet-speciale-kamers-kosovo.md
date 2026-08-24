@@ -1,71 +1,42 @@
 ---
 title: "Wet van 12 oktober 2016, houdende bepalingen verband houdende met de vestiging in Nederland van de Kosovaarse Speciale Kamers en Speciale Aanklager met het oog op de berechting van ernstige misdrijven gepleegd in Kosovo tussen 1 januari 1998 en 31 december 2000 (Uitvoeringswet Speciale Kamers Kosovo)"
+citeertitel: "Uitvoeringswet Speciale Kamers Kosovo"
 identifier: "BWBR0038718"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038718"
+categorie: "Overig"
 soort: "wet"
-stam_id: "13791063"
-version_id: "23654222"
-internal_id: "C34110531"
-label_id: "13757324"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038718/2020-01-01/0"
-intitule_bron: "Stb.2016-429"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-12"
-intitule_published: "2016-11-17"
-intitule_in_force: "2016-12-07"
-intitule_status: "goed"
-original_publication: "Stb.2016-429"
-original_signed_date: "2016-10-12"
-original_published_date: "2016-11-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "34498"
-original_url_id: "stb-2016-429"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038718&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0038718&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Speciale Kamers Kosovo"
-signed_date: "2016-10-12"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0038718"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 12 oktober 2016, houdende bepalingen verband houdende met de vestiging in Nederland van de Kosovaarse Speciale Kamers en Speciale Aanklager met het oog op de berechting van ernstige misdrijven gepleegd in Kosovo tussen 1 januari 1998 en 31 december 2000 (Uitvoeringswet Speciale Kamers Kosovo)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is enige wettelijke voorzieningen te treffen teneinde uitvoering te geven aan het op 15 februari 2016 te Pristina gesloten Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution in Nederland;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 1. Voor de toepassing van deze wet wordt verstaan onder:
 
-- a. **Instellingswet:** de wet van 3 augustus 2015, No. 05/L-053, van de Republiek Kosovo, waarmee de Speciale Kamers en de Speciale Aanklager zijn ingesteld;
+- a. *Instellingswet:* de wet van 3 augustus 2015, No. 05/L-053, van de Republiek Kosovo, waarmee de Speciale Kamers en de Speciale Aanklager zijn ingesteld;
 
-- b. **Speciale Kamers:** de Speciale Kamers, met inbegrip van de griffie, bedoeld in de Instellingswet;
+- b. *Speciale Kamers:* de Speciale Kamers, met inbegrip van de griffie, bedoeld in de Instellingswet;
 
-- c. **Onze Minister:** Onze Minister van Veiligheid en Justitie;
+- c. *Onze Minister:* Onze Minister van Veiligheid en Justitie;
 
-- d. **doorvoer:** het begeleid vervoer over Nederlands grondgebied van een persoon afkomstig van een vreemde staat en met als bestemming de Speciale Kamers, dan wel afkomstig van de Speciale Kamers en met als bestemming een vreemde staat;
+- d. *doorvoer:* het begeleid vervoer over Nederlands grondgebied van een persoon afkomstig van een vreemde staat en met als bestemming de Speciale Kamers, dan wel afkomstig van de Speciale Kamers en met als bestemming een vreemde staat;
 
-- e. **overlevering:** de terbeschikkingstelling van een persoon door Nederland aan de Speciale Kamers op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038718&artikel=3&z=2020-01-01&g=2020-01-01).
+- e. *overlevering:* de terbeschikkingstelling van een persoon door Nederland aan de Speciale Kamers op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038718&artikel=3&z=2020-01-01&g=2020-01-01).
 
 2. In deze wet wordt mede verstaan onder:
 
-- a. **in Nederland:** in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- a. *in Nederland:* in de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- b. **Nederlandse ambtenaren:** ambtenaren van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- b. *Nederlandse ambtenaren:* ambtenaren van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- c. **Nederlands grondgebied:** het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- c. *Nederlands grondgebied:* het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- d. **Nederlandse wet:** een wet die van kracht is in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- d. *Nederlandse wet:* een wet die van kracht is in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 2
 
@@ -128,5 +99,3 @@ Deze wet wordt aangehaald als: Uitvoeringswet Speciale Kamers Kosovo.
 ##### Artikel 12
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

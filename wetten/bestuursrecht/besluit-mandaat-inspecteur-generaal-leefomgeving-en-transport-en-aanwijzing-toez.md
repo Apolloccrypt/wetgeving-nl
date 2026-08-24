@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie van 16 juni 2016 (kenmerk: 771903/16/NCTV), houdende verlening mandaat, volmacht en machtiging inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven (Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven)"
+citeertitel: "Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven"
 identifier: "BWBR0038257"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-07-14"
-last_updated: "2016-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038257"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13692733"
-version_id: "23455572"
-internal_id: "C33792971"
-label_id: "13659234"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038257/2016-07-14/0"
-intitule_bron: "Stcrt.2016-36263"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-16"
-intitule_published: "2016-07-13"
-intitule_in_force: "2016-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-36263"
-original_signed_date: "2016-06-16"
-original_published_date: "2016-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-36263"
-entry_into_force_date: "2016-07-14"
-jci_1_3: "jci1.3:c:BWBR0038257&z=2016-07-14&g=2016-07-14"
-jci_1_0: "1.0:c:BWBR0038257&g=2016-07-14"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven"
-signed_date: "2016-06-16"
-entry_into_force: "2016-07-14"
+publicatiedatum: 2016-07-14
+laatste_update: 2016-07-14
+status: geldig
+toestand: 2016-07-14
+bron: "https://wetten.overheid.nl/BWBR0038257"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Minister van Veiligheid en Justitie van 16 juni 2016 (kenmerk: 771903/16/NCTV), houdende verlening mandaat, volmacht en machtiging inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven (Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1), de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=6), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=11) en [14, eerste lid, van de Wet precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=14) en [artikel 2, vierde lid, van het Instellingsbesluit Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0031032&artikel=2);
-
-Gezien de schriftelijke instemming van de inspecteur-generaal Leefomgeving en Transport d.d. 10 juni 2016;
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepaling
 
@@ -113,5 +85,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 22 augustus 2016, nr. IENM/BSK-2016/177402, houdende regels met betrekking tot de productie en conformiteitsbeoordeling van scheepsuitrusting (Regeling scheepsuitrusting 2016)"
+citeertitel: "Regeling scheepsuitrusting 2016"
 identifier: "BWBR0038499"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-09-18"
-last_updated: "2016-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038499"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13748073"
-version_id: "23567712"
-internal_id: "C33927011"
-label_id: "13714664"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038499/2016-09-18/0"
-intitule_bron: "Stcrt.2016-44653"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-08-22"
-intitule_published: "2016-09-09"
-intitule_in_force: "2016-09-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-44653"
-original_signed_date: "2016-08-22"
-original_published_date: "2016-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-44653"
-entry_into_force_date: "2016-09-18"
-entry_into_force_dossier: "34425"
-jci_1_3: "jci1.3:c:BWBR0038499&z=2016-09-18&g=2016-09-18"
-jci_1_0: "1.0:c:BWBR0038499&g=2016-09-18"
-citeertitel_status: "officieel"
-short_title: "Regeling scheepsuitrusting 2016"
-signed_date: "2016-08-22"
-entry_into_force: "2016-09-18"
+publicatiedatum: 2016-09-18
+laatste_update: 2016-09-18
+status: geldig
+toestand: 2016-09-18
+bron: "https://wetten.overheid.nl/BWBR0038499"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 22 augustus 2016, nr. IENM/BSK-2016/177402, houdende regels met betrekking tot de productie en conformiteitsbeoordeling van scheepsuitrusting (Regeling scheepsuitrusting 2016)
-
-Gelet op [richtlijn 2014/90](32014L0090)/EU van het Europees Parlement en de Raad van de Europese Unie van 23 juli 2014 inzake uitrusting van zeeschepen en tot intrekking van [richtlijn 96/98/EG](31996L0098) van de Raad (PbEU L 257), en op de [artikelen 5, vijfde lid](onbekend), [6, vijfde en zesde lid](onbekend), [8, tweede lid](onbekend), [9, vijfde lid](onbekend), [10, tweede lid](onbekend), [11, derde lid](onbekend), [13, derde lid](onbekend), [14, tweede lid](onbekend), [16](onbekend) en [21, eerste lid, van de Wet scheepsuitrusting 2016](onbekend) en [artikel 48, eerste lid, Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=48)
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wet scheepsuitrusting 2016 in werking treedt.
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -49,15 +20,16 @@ Treedt in werking op het tijdstip waarop de Wet scheepsuitrusting 2016 in werkin
 
 In deze regeling wordt verstaan onder:
 
-- **accreditatie:** accreditatie als bedoeld in artikel 2, tiende lid, van de verordening;
+- *accreditatie:* accreditatie als bedoeld in artikel 2, tiende lid, van de verordening;
 
-- **Besluit 768/2008:** Besluit nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad;
+- *Besluit 768/2008:* Besluit nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad;
 
-- **minister:** minister van Infrastructuur en Milieu;
+- *minister:* minister van Infrastructuur en Milieu;
 
-- **nationale accreditatie-instantie:** nationale accreditatie-instantie als bedoeld in artikel 2, elfde lid, van de verordening;
+- *nationale accreditatie-instantie:* nationale accreditatie-instantie als bedoeld in artikel 2, elfde lid, van de verordening;
 
-- **wet:** [Wet scheepsuitrusting 2016](onbekend).
+- *wet:*
+ Wet scheepsuitrusting 2016.
 
 #### Paragraaf 2. Verplichtingen van marktdeelnemers
 
@@ -101,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-1. De fabrikant zorgt ervoor dat hij beschikt over procedures om de conformiteit van zijn serieproductie voortdurend te waarborgen. Er wordt daarbij terdege rekening gehouden met veranderingen in het ontwerp of in de kenmerken van scheepsuitrusting en met veranderingen in de vereisten, bedoeld in [artikel 3, eerste lid, van de wet](onbekend), op basis waarvan de overeenstemming van scheepsuitrusting wordt bevestigd.
+1. De fabrikant zorgt ervoor dat hij beschikt over procedures om de conformiteit van zijn serieproductie voortdurend te waarborgen. Er wordt daarbij terdege rekening gehouden met veranderingen in het ontwerp of in de kenmerken van scheepsuitrusting en met veranderingen in de vereisten, bedoeld in artikel 3, eerste lid, van de wet, op basis waarvan de overeenstemming van scheepsuitrusting wordt bevestigd.
 
 2. De fabrikant laat een nieuwe conformiteitsbeoordeling uitvoeren, indien de aangemelde instantie ingevolge de voorschriften opgenomen in bijlage II bij de richtlijn bij een verandering als bedoeld in het eerste lid van oordeel is dat een nieuwe beoordeling nodig is.
 
@@ -109,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 1. Indien door een fabrikant die niet op het grondgebied van ten minste één lidstaat van de Europese Unie is gevestigd, op grond van artikel 13, eerste lid, van de richtlijn door middel van een schriftelijke overeenkomst een vertegenwoordiger voor de Europese Unie wordt aangewezen, wordt in die overeenkomst in ieder geval de naam en het contactadres van de vertegenwoordiger vermeldt.
 
-2. De naleving van de bij of krachtens [artikelen 6](onbekend) en [7 van de wet](onbekend) neergelegde verplichtingen en het opstellen van technische documentatie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038499&paragraaf=2&artikel=4&z=2016-09-18&g=2016-09-18), maken geen deel uit van de overeenkomst, bedoeld in het eerste lid.
+2. De naleving van de bij of krachtens artikelen 6 en 7 van de wet neergelegde verplichtingen en het opstellen van technische documentatie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038499&paragraaf=2&artikel=4&z=2016-09-18&g=2016-09-18), maken geen deel uit van de overeenkomst, bedoeld in het eerste lid.
 
 3. Een vertegenwoordiger voert de taken uit die gespecificeerd zijn in de overeenkomst, bedoeld in het eerste lid. Op basis van de overeenkomst is de vertegenwoordiger in staat ten minste de volgende taken te verrichten:
 
@@ -171,7 +143,7 @@ Gedurende ten minste tien jaar nadat de stuurwielmarkering is aangebracht, en in
 
 1. Een conformiteitsbeoordelingsinstantie wordt slechts aangewezen indien zij voldoet aan het bepaalde in bijlage III bij de richtlijn.
 
-2. Een door de conformiteitsbeoordelingsinstantie in te dienen verzoek tot aanwijzing als bedoeld in [artikel 11, tweede lid, van de wet](onbekend) omvat in ieder geval:
+2. Een door de conformiteitsbeoordelingsinstantie in te dienen verzoek tot aanwijzing als bedoeld in artikel 11, tweede lid, van de wet omvat in ieder geval:
 
 - a. een beschrijving van de conformiteitsbeoordelingsactiviteiten;
 
@@ -199,7 +171,7 @@ Gedurende ten minste tien jaar nadat de stuurwielmarkering is aangebracht, en in
 
 - c. neemt zij de volledige verantwoordelijkheid op zich voor de taken die de onderaannemer of dochteronderneming verricht, ongeacht waar deze gevestigd is, en
 
-- d. houdt zij ter beschikking van de minister relevante documenten over de beoordeling van de kwalificaties van de onderaannemer of dochteronderneming en over de werkzaamheden die bij of krachtens de [wet](onbekend) worden uitgevoerd door de onderaannemer of dochteronderneming.
+- d. houdt zij ter beschikking van de minister relevante documenten over de beoordeling van de kwalificaties van de onderaannemer of dochteronderneming en over de werkzaamheden die bij of krachtens de wet worden uitgevoerd door de onderaannemer of dochteronderneming.
 
 ##### Artikel 14
 
@@ -209,7 +181,7 @@ Gedurende ten minste tien jaar nadat de stuurwielmarkering is aangebracht, en in
 
 ##### Artikel 15
 
-Wanneer een aangemelde instantie vaststelt dat een fabrikant niet heeft voldaan aan de eisen gesteld bij of krachtens de [artikelen 6](onbekend) en [7 van de wet](onbekend), verlangt de aangemelde instantie dat die fabrikant passende corrigerende maatregelen neemt. De aangemelde instantie verleent in dat geval geen conformiteitscertificaat aan die fabrikant.
+Wanneer een aangemelde instantie vaststelt dat een fabrikant niet heeft voldaan aan de eisen gesteld bij of krachtens de artikelen 6 en 7 van de wet, verlangt de aangemelde instantie dat die fabrikant passende corrigerende maatregelen neemt. De aangemelde instantie verleent in dat geval geen conformiteitscertificaat aan die fabrikant.
 
 ##### Artikel 16
 
@@ -225,7 +197,7 @@ Wanneer een aangemelde instantie vaststelt dat een fabrikant niet heeft voldaan 
 
 - a. overige omstandigheden die van invloed zijn op de werkingssfeer van en de voorwaarden voor haar aanmelding;
 
-- b. elke weigering, beperking, opschorting of intrekking van conformiteitscertificaten, bedoeld in [artikel 17, eerste lid, van de wet](onbekend), en
+- b. elke weigering, beperking, opschorting of intrekking van conformiteitscertificaten, bedoeld in artikel 17, eerste lid, van de wet, en
 
 - c. informatieverzoeken over conformiteitsbeoordelingsactiviteiten die zij van markttoezichtautoriteiten ontvangen.
 
@@ -241,7 +213,7 @@ Wanneer een aangemelde instantie vaststelt dat een fabrikant niet heeft voldaan 
 
 1. Indien een aangemelde instantie voornemens is om werkzaamheden waarvoor zij is aangewezen, te beëindigen, deelt zij dit ten minste drie maanden voor de voorgenomen datum van beëindiging mede aan de minister.
 
-2. Wanneer de aanwijzing van een aangemelde instantie overeenkomstig [artikel 14 van de wet](onbekend) wordt beperkt, geschorst, of ingetrokken, of een aangemelde instantie haar activiteiten heeft gestaakt, worden de dossiers door de betreffende aangemelde instantie:
+2. Wanneer de aanwijzing van een aangemelde instantie overeenkomstig artikel 14 van de wet wordt beperkt, geschorst, of ingetrokken, of een aangemelde instantie haar activiteiten heeft gestaakt, worden de dossiers door de betreffende aangemelde instantie:
 
 - a. overgedragen aan een andere aangemelde instantie, of
 
@@ -251,47 +223,47 @@ Wanneer een aangemelde instantie vaststelt dat een fabrikant niet heeft voldaan 
 
 ##### Artikel 18
 
-1. In afwijking van [artikelen 3, eerste lid](onbekend), en [6, eerste lid, van de wet](onbekend) kan de minister, in uitzonderlijke gevallen van technische innovatie, ten aanzien van scheepsuitrusting die is bestemd voor plaatsing aan boord van een Nederlands schip en die niet aan de conformiteitsbeoordelingsprocedure voldoet, een certificaat van gelijkwaardigheid ten behoeve van technische innovatie afgeven, indien die scheepsuitrusting naar zijn oordeel ten minste gelijkwaardig is aan de scheepsuitrusting die wordt vervangen en die voldoet aan de vereisten gesteld bij of krachtens de [wet](onbekend).
+1. In afwijking van artikelen 3, eerste lid, en 6, eerste lid, van de wet kan de minister, in uitzonderlijke gevallen van technische innovatie, ten aanzien van scheepsuitrusting die is bestemd voor plaatsing aan boord van een Nederlands schip en die niet aan de conformiteitsbeoordelingsprocedure voldoet, een certificaat van gelijkwaardigheid ten behoeve van technische innovatie afgeven, indien die scheepsuitrusting naar zijn oordeel ten minste gelijkwaardig is aan de scheepsuitrusting die wordt vervangen en die voldoet aan de vereisten gesteld bij of krachtens de wet.
 
 2. Aan het gebruik van scheepsuitrusting waarvoor het certificaat is afgegeven, kunnen beperkingen of voorschriften worden verbonden. Deze beperkingen en voorschriften worden in het certificaat vermeld.
 
 ##### Artikel 19
 
-1. In afwijking van [artikelen 3, eerste lid](onbekend), en [6, eerste lid, van de wet](onbekend), kan de minister, ten behoeve van beproeving of ter beoordeling, ten aanzien van scheepsuitrusting die is bestemd voor plaatsing aan boord van een Nederlands schip en waarvoor geen conformiteitsbeoordelingsprocedure is doorlopen of niet zijnde scheepsuitrusting als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0038499&paragraaf=5&artikel=18&z=2016-09-18&g=2016-09-18), een certificaat ten behoeve van beproeving afgeven.
+1. In afwijking van artikelen 3, eerste lid, en 6, eerste lid, van de wet, kan de minister, ten behoeve van beproeving of ter beoordeling, ten aanzien van scheepsuitrusting die is bestemd voor plaatsing aan boord van een Nederlands schip en waarvoor geen conformiteitsbeoordelingsprocedure is doorlopen of niet zijnde scheepsuitrusting als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0038499&paragraaf=5&artikel=18&z=2016-09-18&g=2016-09-18), een certificaat ten behoeve van beproeving afgeven.
 
 2. Aan het gebruik van scheepsuitrusting waarvoor het certificaat is afgegeven, kunnen beperkingen en voorschriften worden verbonden. Deze beperkingen en voorschriften worden in het certificaat vermeld.
 
 3. De minister bepaalt de geldigheidsduur van het certificaat ten behoeve van beproeving. De geldigheidsduur is niet langer dan voor een goede beproeving van de scheepsuitrusting redelijkerwijs nodig is en is zo kort mogelijk.
 
-4. Het certificaat wordt alleen afgegeven onder voorwaarde dat de scheepsuitrusting die voldoet aan de vereisten gesteld bij of krachtens de [wet](onbekend), niet wordt vervangen door de scheepsuitrusting, bedoeld in het eerste lid.
+4. Het certificaat wordt alleen afgegeven onder voorwaarde dat de scheepsuitrusting die voldoet aan de vereisten gesteld bij of krachtens de wet, niet wordt vervangen door de scheepsuitrusting, bedoeld in het eerste lid.
 
 #### Paragraaf 6. Overige bepalingen
 
 ##### Artikel 20
 
-1. Met het toezicht, bedoeld in [artikel 16 van de wet](onbekend), zijn belast de door de minister aangewezen ambtenaren van de Inspectie Leefomgeving en Transport.
+1. Met het toezicht, bedoeld in artikel 16 van de wet, zijn belast de door de minister aangewezen ambtenaren van de Inspectie Leefomgeving en Transport.
 
 2. Het toezicht, bedoeld in het eerste lid, omvat mede de activiteiten en maatregelen in het kader van het markttoezicht.
 
 ##### Artikel 21
 
-Wijzigt de Regeling aanwijzing toezichthoudende ambtenaren Inspectie Leefomgeving en Transport op het domein scheepvaart.
+*Wijzigt de Regeling aanwijzing toezichthoudende ambtenaren Inspectie Leefomgeving en Transport op het domein scheepvaart.*
 
 ##### Artikel 22
 
-Wijzigt de Regeling veiligheid zeeschepen.
+*Wijzigt de Regeling veiligheid zeeschepen.*
 
 ##### Artikel 23
 
-Wijzigt de Regeling voorkoming verontreiniging door schepen.
+*Wijzigt de Regeling voorkoming verontreiniging door schepen.*
 
 ##### Artikel 24
 
-Wijzigt de Regeling bemanningssamenstelling garnalenkotters.
+*Wijzigt de Regeling bemanningssamenstelling garnalenkotters.*
 
 ##### Artikel 25
 
-Wijzigt de Regeling zeevarenden.
+*Wijzigt de Regeling zeevarenden.*
 
 ##### Artikel 26
 
@@ -299,10 +271,8 @@ De [Regeling keuringsinstanties Wet scheepsuitrusting](https://wetten.overheid.n
 
 ##### Artikel 27
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet scheepsuitrusting 2016](onbekend) in werking treedt.
+Deze regeling treedt in werking op het tijdstip waarop de Wet scheepsuitrusting 2016 in werking treedt.
 
 ##### Artikel 28
 
 Deze regeling zal worden aangehaald als: Regeling scheepsuitrusting 2016
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

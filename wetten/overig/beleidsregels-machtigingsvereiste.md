@@ -1,35 +1,16 @@
 ---
 title: "Beleidsregels machtigingsvereiste"
 identifier: "BWBR0038875"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-12-17"
-last_updated: "2016-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038875"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13822783"
-version_id: "23720502"
-internal_id: "C34139721"
-label_id: "13788364"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038875/2016-12-17/0"
-intitule_bron: "Stcrt.2016-68896"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-16"
-intitule_in_force: "2016-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-68896"
-original_published_date: "2016-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-68896"
-entry_into_force_date: "2016-12-17"
-jci_1_3: "jci1.3:c:BWBR0038875&z=2016-12-17&g=2016-12-17"
-jci_1_0: "1.0:c:BWBR0038875&g=2016-12-17"
-citeertitel_status: "officieel"
-entry_into_force: "2016-12-17"
+publicatiedatum: 2016-12-17
+laatste_update: 2016-12-17
+status: geldig
+toestand: 2016-12-17
+bron: "https://wetten.overheid.nl/BWBR0038875"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregels machtigingsvereiste
 
 ### 1. Inleiding
@@ -50,9 +31,9 @@ Zoals voor elke verwerking van bijzondere persoonsgegevens door zorgverzekeraars
 
 Het machtigingsvereiste is niet in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw) of de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) (Wmg)3De Wmg ziet mede op de aanvullende ziektekostenverzekering. gedefinieerd. Ook is niet uitgewerkt hoe de procedure rondom het machtigingsvereiste moet zijn vormgegeven4De NZa heeft in 2012 wel kaders gesteld voor het borgen van medische deskundigheid bij de afhandeling van machtigingsverzoeken, het informeren van verzekerden bij (met name de afwijzing van) machtigingsverzoeken en de doorlooptijden van machtigingsprocedures, NZa Thematisch onderzoek Zorgplicht – verkrijgen en vergoeden van zorg 2012. Dit rapport ging niet in op het juridisch kader dat geldt voor de vraag of en zo ja welke persoonsgegevens mogen worden verwerkt ten behoeve van een machtiging. en of en zo ja welke persoonsgegevens daarvoor mogen worden verwerkt. Er is alleen voorzien in [artikel 14, vijfde lid, Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=14) waarin is geregeld dat een zorgverzekeraar niet nogmaals een machtigingsvereiste kan stellen als de verzekerde reeds een machtiging van zijn vorige verzekeraar heeft gekregen (en de periode waarover de machtiging is verleend nog loopt).
 
-In de memorie van toelichting op de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) staat dat **‘Het aan de zorgverzekeraar is om in zijn modelovereenkomsten op te nemen (en derhalve ook in de zorgverzekering overeen te komen en vervolgens in de zorgpolis op te nemen) voor welke vormen van zorg hij een vorm van toetsing wenst. Zo kan hij (...) regelen dat de verzekerde voor bepaalde vormen van zorg zijn voorafgaande toestemming behoeft (het verzoek tot toestemming dient dan te worden bezien door een bij de verzekeraar werkende verzekeringsarts). Eist een zorgverzekeraar in de ogen van zijn verzekerden te vaak voorafgaande toestemming, dan zullen zijn verzekerden bij hem weg gaan’.5Kamerstukken II, 2003–04, 29 763, nr. 3, p. 110.**
+In de memorie van toelichting op de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) staat dat *‘Het aan de zorgverzekeraar is om in zijn modelovereenkomsten op te nemen (en derhalve ook in de zorgverzekering overeen te komen en vervolgens in de zorgpolis op te nemen) voor welke vormen van zorg hij een vorm van toetsing wenst. Zo kan hij (...) regelen dat de verzekerde voor bepaalde vormen van zorg zijn voorafgaande toestemming behoeft (het verzoek tot toestemming dient dan te worden bezien door een bij de verzekeraar werkende verzekeringsarts). Eist een zorgverzekeraar in de ogen van zijn verzekerden te vaak voorafgaande toestemming, dan zullen zijn verzekerden bij hem weg gaan’.5Kamerstukken II, 2003–04, 29 763, nr. 3, p. 110.*
 
-Dit is naar aanleiding van vragen tijdens de parlementaire behandeling bevestigd: ‘**Wie de zorg verleent en waar die wordt verleend, is een verantwoordelijkheid van de zorgverzekeraar om daarover afspraken te maken met de verzekerde in de zorgovereenkomst. Dit geldt ook voor de procedurele voorwaarden, zoals toestemmingsvereisten, verwijzingen en voorschrijfvereiste,6Kamerstukken II, 2003–04, 29 763, nr. 26, p. 11.** En ook in de nota naar aanleiding van het verslag komt het aan de orde: ‘**Op basis van artikel 11 wordt geregeld waar de verzekerde recht op kan hebben, indien het verzekerde risico zich voordoet. De verdere invulling van deze rechten vindt plaats in de modelovereenkomst, de zorgverzekeringsovereenkomst en daarmee in de zorgpolis.7Kamerstukken II, 2003–04, 29 763, nr. 7, p. 42 en p. 56.** Ook in de nota van toelichting op het [Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) staat dat: ‘**Uitgangspunt is dat in de zorgpolis staat vermeld welke zorg door wie wordt verleend, waar deze wordt verleend en welke voorwaarden gelden, wil op deze zorg aanspraak bestaan, dan wel willen de kosten worden vergoed.’8Nota van toelichting op het Besluit zorgverzekering, Stb. 2005, 389, p. 18–19.** En ‘**De voorwaarden waar zorgverzekeraar en verzekerde wel afspraken over kunnen maken, zijn voorwaarden zoals het vragen van een verwijsbriefje, een voorschrift, een melding van aanvang zorg en het vragen van toestemming.9Nota van toelichting op het Besluit zorgverzekering, Stb. 2005, 389, p. 35.**
+Dit is naar aanleiding van vragen tijdens de parlementaire behandeling bevestigd: ‘*Wie de zorg verleent en waar die wordt verleend, is een verantwoordelijkheid van de zorgverzekeraar om daarover afspraken te maken met de verzekerde in de zorgovereenkomst. Dit geldt ook voor de procedurele voorwaarden, zoals toestemmingsvereisten, verwijzingen en voorschrijfvereiste,6Kamerstukken II, 2003–04, 29 763, nr. 26, p. 11.* En ook in de nota naar aanleiding van het verslag komt het aan de orde: ‘*Op basis van artikel 11 wordt geregeld waar de verzekerde recht op kan hebben, indien het verzekerde risico zich voordoet. De verdere invulling van deze rechten vindt plaats in de modelovereenkomst, de zorgverzekeringsovereenkomst en daarmee in de zorgpolis.7Kamerstukken II, 2003–04, 29 763, nr. 7, p. 42 en p. 56.* Ook in de nota van toelichting op het [Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) staat dat: ‘*Uitgangspunt is dat in de zorgpolis staat vermeld welke zorg door wie wordt verleend, waar deze wordt verleend en welke voorwaarden gelden, wil op deze zorg aanspraak bestaan, dan wel willen de kosten worden vergoed.’8Nota van toelichting op het Besluit zorgverzekering, Stb. 2005, 389, p. 18–19.* En ‘*De voorwaarden waar zorgverzekeraar en verzekerde wel afspraken over kunnen maken, zijn voorwaarden zoals het vragen van een verwijsbriefje, een voorschrift, een melding van aanvang zorg en het vragen van toestemming.9Nota van toelichting op het Besluit zorgverzekering, Stb. 2005, 389, p. 35.*
 
 Uit de parlementaire geschiedenis van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) blijkt dus dat het hanteren van het machtigingsvereiste deel uitmaakt van de zorgovereenkomst die de zorgverzekeraar en verzekerde overeenkomen.
 
@@ -64,7 +45,9 @@ De grondslag voor de verwerking van persoonsgegevens ten behoeve van het machtig
 
 Zorgverzekeraars mogen dus bijzondere persoonsgegevens verwerken ten behoeve van het machtigingsvereiste.
 
-Daarbij is van belang dat de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) voor elke gegevensverwerking vereist dat er naast een grondslag uit [artikel 8 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) en een uitzondering op het verbod uit [artikel 16 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), moet zijn voldaan aan het **noodzakelijkheidsvereiste**. [Artikel 21 eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=21), biedt bijvoorbeeld een uitzondering voor de persoonsgegevens betreffende de gezondheid die **noodzakelijk** zijn voor de uitvoering van de overeenkomst van verzekering. En artikel 8, onder b, betreft de gegevens die **noodzakelijk** zijn voor de uitvoering van een overeenkomst waarbij betrokkene partij is.
+Noodzakelijkheidsvereiste
+
+Daarbij is van belang dat de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) voor elke gegevensverwerking vereist dat er naast een grondslag uit [artikel 8 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) en een uitzondering op het verbod uit [artikel 16 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), moet zijn voldaan aan het *noodzakelijkheidsvereiste*. [Artikel 21 eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=21), biedt bijvoorbeeld een uitzondering voor de persoonsgegevens betreffende de gezondheid die *noodzakelijk* zijn voor de uitvoering van de overeenkomst van verzekering. En artikel 8, onder b, betreft de gegevens die *noodzakelijk* zijn voor de uitvoering van een overeenkomst waarbij betrokkene partij is.
 
 Dit noodzakelijkheidsvereiste brengt een belangrijke beperking aan voor wat betreft de aard en omvang van de persoonsgegevens die voor een machtiging mogen worden verwerkt.
 
@@ -72,15 +55,19 @@ Zorgverzekeraars zullen moeten kunnen onderbouwen of de gevraagde persoonsgegeve
 
 Voor de hierboven genoemde onderbouwing is van belang welk doel het vragen van de machtiging in het specifieke geval dient. In het algemeen geldt dat een machtiging ten doel heeft te voorkomen dat vergoeding ten onrechte plaatsvindt maar meer specifiek kan bijvoorbeeld onderscheid worden gemaakt tussen het voorkomen dat er sprake is van onverzekerde zorg, het waarborgen dat er sprake is van doelmatige zorg, het voorkomen dat de zorg die wordt verleend niet het meest is aangewezen gezien de individuele omstandigheden en/of het ziektebeeld van de betreffende verzekerde en het voorkomen dat de zorg die wordt verleend niet het meest is aangewezen omdat de betreffende zorgaanbieder niet aan bepaalde (kwaliteits) vereisten voldoet. De onderbouwing van de gevraagde persoonsgegevens moet worden gerelateerd aan het specifiek doel. 10Overigens geldt voor elke gegevensverwerking dat deze noodzakelijk moeten zijn voor het doel waarvoor de gegevens worden verwerkt. Evenzo vergt de Wbp van elke verantwoordelijke dat hij of zij transparant is over (de noodzaak van) de gegevens die over betrokkene(n) worden verwerkt.
 
+Doel machtiging
+
 Het doel van de machtiging is voorkomen dat de verzekerde zorg ondergaat die achteraf niet voor vergoeding in aanmerking blijkt te komen, bijvoorbeeld omdat er geen sprake is van verzekerde zorg,11De Zvw geeft aan op welke medisch noodzakelijke zorg iemand recht heeft. Zorgverzekeraars werken de nadere voorwaarden vervolgens uit in hun verzekeringspolis van de basisverzekering. De zorg moet onder meer voldoen aan de stand van de wetenschap en praktijk, doelmatig zijn en de verzekerde moet redelijkerwijs op de zorg aangewezen zijn. de zorg niet het meest is aangewezen voor de specifieke verzekerde of de betreffende zorgaanbieder niet aan bepaalde kwaliteitseisen voldoet. Met een machtiging krijgt de verzekerde vooraf duidelijkheid over de vraag of zorgkosten worden vergoed. Zo wordt voorkomen dat de zorgverzekeraar ten onrechte betaalde vergoedingen moet terugvorderen en de verzekerde met onverwachte kosten wordt geconfronteerd.
 
 Voor de toets die zorgverzekeraars bij het afgeven van een machtiging hanteren, geldt verder dat [artikel 14, eerste lid, Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=14) bepaalt dat de vraag of een verzekerde behoefte heeft aan een bepaalde vorm van zorg of een bepaalde andere dienst, slechts op basis van zorginhoudelijke criteria wordt beantwoord.
 
-In de parlementaire geschiedenis van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) wordt daarover onder meer gezegd dat ‘**de verzekeraar het recht heeft om te controleren of de door de arts geïndiceerde vorm van zorg inderdaad wel voor de desbetreffende patiënt is aangewezen en ook niet meer omvat (en dus niet duurder is) dan nodig. Artikel 14 zorgt er dan wél voor, dat die verzekeraar die toestemming slechts om zorginhoudelijke redenen mag weigeren. Het artikel zorgt er voorts voor, dat een zorginhoudelijke deskundige (bijvoorbeeld een verzekeringsarts)de verzekeraar dient te adviseren over de vraag of dergelijke zorginhoudelijke redenen er al dan niet zijn. De zorgverzekeraar dient het advies van de zorginhoudelijk deskundige over te nemen’.12Kamerstukken II, 2003/04, 29 763, nr. 4, p. 35. Kamerstukken II, 2003/04, 29 763, nr. 7, p. 100.**
+In de parlementaire geschiedenis van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) wordt daarover onder meer gezegd dat ‘*de verzekeraar het recht heeft om te controleren of de door de arts geïndiceerde vorm van zorg inderdaad wel voor de desbetreffende patiënt is aangewezen en ook niet meer omvat (en dus niet duurder is) dan nodig. Artikel 14 zorgt er dan wél voor, dat die verzekeraar die toestemming slechts om zorginhoudelijke redenen mag weigeren. Het artikel zorgt er voorts voor, dat een zorginhoudelijke deskundige (bijvoorbeeld een verzekeringsarts)de verzekeraar dient te adviseren over de vraag of dergelijke zorginhoudelijke redenen er al dan niet zijn. De zorgverzekeraar dient het advies van de zorginhoudelijk deskundige over te nemen’.12Kamerstukken II, 2003/04, 29 763, nr. 4, p. 35. Kamerstukken II, 2003/04, 29 763, nr. 7, p. 100.*
 
-**‘Bij de vraag of een verzekerde behoefte heeft aan een bepaalde vorm van zorg of een andere tot het verzekerde pakket behorende dienst zullen veelal medisch-inhoudelijke criteria bepalend zijn. De wet hanteert echter het bredere begrip «zorginhoudelijke criteria» om te bewerkstelligen dat waar nodig ook andere zorggebonden criteria een rol kunnen spelen, bijvoorbeeld het oordeel van een verpleegkundige over de thuissituatie indien een beslissing moet worden genomen over de vraag of een patiënt naar huis kan of eerst in een revalidatie-instelling moet worden opgenomen.13Kamerstukken II, 2003/04, 29 763, nr. 7, p. 111.**
+*‘Bij de vraag of een verzekerde behoefte heeft aan een bepaalde vorm van zorg of een andere tot het verzekerde pakket behorende dienst zullen veelal medisch-inhoudelijke criteria bepalend zijn. De wet hanteert echter het bredere begrip «zorginhoudelijke criteria» om te bewerkstelligen dat waar nodig ook andere zorggebonden criteria een rol kunnen spelen, bijvoorbeeld het oordeel van een verpleegkundige over de thuissituatie indien een beslissing moet worden genomen over de vraag of een patiënt naar huis kan of eerst in een revalidatie-instelling moet worden opgenomen.13Kamerstukken II, 2003/04, 29 763, nr. 7, p. 111.*
 
-Het machtigingsvereiste heeft dus ten doel om **vooraf** het risico te beperken dat er ten onrechte vergoedingen plaatsvinden. Daarnaast hebben zorgverzekeraars de mogelijkheid om **achteraf** te controleren dat er geen onrechtmatige vergoedingen zijn gedaan.14Daartoe kunnen zij formele controles (onderzoek waarbij de zorgverzekeraar nagaat of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht (...) een prestatie betreft, welke behoort tot het verzekerde pakket van die persoon) en materiële controles doen (het onderzoek waarbij de zorgverzekeraar nagaat of de door de zorgaanbieder in rekening gebrachte prestatie is geleverd en of die geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde. 15Belangrijk verschil is dat als na materiële controle de declaratie niet rechtmatig blijkt te zijn dit voor risico van de zorgaanbieder komt terwijl het bij machtigingen gaat om situaties waarin het risico van niet-betaling voor de verzekerde wordt weggenomen.
+Relatie tot formele en materiële controle
+
+Het machtigingsvereiste heeft dus ten doel om *vooraf* het risico te beperken dat er ten onrechte vergoedingen plaatsvinden. Daarnaast hebben zorgverzekeraars de mogelijkheid om *achteraf* te controleren dat er geen onrechtmatige vergoedingen zijn gedaan.14Daartoe kunnen zij formele controles (onderzoek waarbij de zorgverzekeraar nagaat of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht (...) een prestatie betreft, welke behoort tot het verzekerde pakket van die persoon) en materiële controles doen (het onderzoek waarbij de zorgverzekeraar nagaat of de door de zorgaanbieder in rekening gebrachte prestatie is geleverd en of die geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde. 15Belangrijk verschil is dat als na materiële controle de declaratie niet rechtmatig blijkt te zijn dit voor risico van de zorgaanbieder komt terwijl het bij machtigingen gaat om situaties waarin het risico van niet-betaling voor de verzekerde wordt weggenomen.
 
 Het verwerken van persoonsgegevens ten behoeve van formele en materiële controles is geregeld in [artikel 87 van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87) jo. [hoofdstuk 7 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7) (Rzv).16Deze wettelijke regeling voorziet tevens in het vereiste wettelijk voorschrift tot doorbreking van de geheimhoudingsplicht van de behandelaar. Zie ook paragraaf 4. Voor de aanvullende ziektekostenverzekering gelden daarvoor [artikel 68a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68a) en de [Regeling persoonsgegevens vrijwillige ziektekostenverzekeringen Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0030097).
 
@@ -90,9 +77,41 @@ Het hanteren van een machtigingseis (toets voorafgaand aan de levering van zorg 
 
 Daarmee is er dus geen nadere uitwerking van het noodzakelijkheidsvereiste (en dus de beginselen van proportionaliteit en subsidiariteit) voorzien in wet- of regelgeving voor de gegevensverwerking bij de aanvraag en behandeling van het machtigingsvereiste.
 
-Het is niet mogelijk om in deze beleidsregels een sluitend overzicht te geven van de gegevens die **noodzakelijk**zijn in het kader van het machtigingsvereiste. Het gaat immers om (zeer) verschillende vormen van zorg waarbij bovendien zorginhoudelijke criteria in het individuele geval19Kamerstukken II, 2003/04, 29 763, nr. 7, p. 111. een rol spelen.
+Uitgangspunten bij gegevensverwerking voor een machtiging
+
+Het is niet mogelijk om in deze beleidsregels een sluitend overzicht te geven van de gegevens die *noodzakelijk*zijn in het kader van het machtigingsvereiste. Het gaat immers om (zeer) verschillende vormen van zorg waarbij bovendien zorginhoudelijke criteria in het individuele geval19Kamerstukken II, 2003/04, 29 763, nr. 7, p. 111. een rol spelen.
 
 Wel zijn er een aantal algemene uitgangspunten:
+
+- – Er wordt volstaan met die gegevens die (minimaal) noodzakelijk worden geacht voor de specifieke machtiging in het voorliggende geval. Dat betekent onder meer dat er niet ‘voor de zekerheid’ alvast ook andere / meer gegevens worden verwerkt.
+
+- – Er wordt pas overgegaan tot het verwerken van (meer gedetailleerde) gezondheidsgegevens over verzekerde als andere gegevens niet toereikend zijn om het doel van de machtiging te bewerkstelligen.
+
+- – Daarbij worden de volgende afwegingen gemaakt:
+
+   - ○ Kan worden volstaan met het verstrekken van (kwaliteits)informatie over de zorgverlener? (bijvoorbeeld als het doel van de machtiging is te bewerkstelligen dat ongecontracteerde aanbieders aan dezelfde kwaliteitseisen voldoen als gecontracteerde zorgaanbieders).
+
+   - ○ Zijn de vermoedelijke diagnose en een schatting van de kosten voldoende?
+
+   - ○ Is een volledig behandelplan nodig of kan worden volstaan met enkele specifieke gegevens uit het behandelplan?
+
+   - ○ Is een volledig dossier (uit bijvoorbeeld de eerste lijn) nodig of kan worden volstaan met enkele specifieke persoonsgegevens?
+
+   - ○ Zijn persoonsgegevens uit (toekomstige) evaluaties van de behandeling nodig?
+
+- – De zorgverzekeraar onderbouwt waarom de persoonsgegevens die worden gevraagd voor een machtiging noodzakelijk zijn voor dat doel.
+
+   - ○ In beginsel kan de onderbouwing waarom de persoonsgegevens die worden gevraagd noodzakelijk zijn voor het doel van de machtiging op hoofdlijnen worden opgesteld per zorgsoort, geneesmiddel en/of hulpmiddel waarvoor het machtigingsvereiste geldt.
+
+   - ○ Bij de onderbouwing van de noodzaak wordt in elk geval ingegaan op het specifieke doel van het stellen van een machtigingsvereiste in het betreffende geval (bijvoorbeeld vaststellen dat sprake is van verzekerde zorg, vaststellen dat de zorg het meest is aangewezen voor de specifieke verzekerde of waarborgen dat de betreffende zorgaanbieder aan bepaalde kwaliteitseisen voldoet).
+
+   - ○ De onderbouwing van de noodzaak zal uitgebreider en zorgvuldiger zijn naarmate het gaat om (meer) detailgegevens.
+
+   - ○ Nadere onderbouwing vindt plaats indien er in het individuele geval wordt afgeweken van de hierboven genoemde onderbouwing op hoofdlijnen per zorgsoort, geneesmiddel en/of hulpmiddel waarvoor het machtigingsvereiste geldt.
+
+   - ○ Deze onderbouwing zal waar nodig (nader) zijn toespitst op individuele omstandigheden van het geval indien betrokkene daarom vraagt.
+
+- – Zorgverzekeraars vragen aan een verzekerde met een privacyverklaring GGZ 20Een privacyverklaring zoals opgenomen in de Regeling gespecialiseerde geestelijke gezondheidszorg van de NZa, NR/CU 565.ook ten behoeve van een machtiging géén tot de diagnose herleidbare gegevens.
 
 Dit vloeit voort uit een uitspraak van het College van Beroep voor het bedrijfsleven (CBb).21Het CBb oordeelde dat gelet op de zwaarwegende belangen van GGZ patiënten in de declaratieregels van de Nederlandse Zorgautoriteit (NZa) ten minste in de mogelijkheid zou moeten zijn voorzien om in bepaalde gevallen van de verplichting tot het vermelden van diagnose informatie op declaraties aan zorgverzekeraar af te kunnen wijken, CBb 8 maart 2012, JB 2012, 135, ro 5.41.22De NZa heeft naar aanleiding van deze uitspraak de Regeling gespecialiseerde geestelijke gezondheidszorg opgesteld, NR/CU 565. Hierin is geregeld dat er ten behoeve van de declaratie van GGZ zorg geen tot de diagnose herleidbare gegevens te worden verstrekt indien patiënt en de zorgaanbieder gezamenlijk een privacyverklaring hebben ondertekend. Het CBb heeft in deze uitspraak het belang van een goede taakvervulling van de zorgverzekeraars (zorginkoop en controle van geleverde prestaties) afgewogen tegen het privacybelang van individuele GGZ patiënten.
 

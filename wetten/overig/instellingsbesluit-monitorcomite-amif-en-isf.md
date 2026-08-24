@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 7 november 2016, nr. 2008899, tot instelling van een Monitorcomité AMIF en ISF (Instellingsbesluit Monitorcomité AMIF en ISF)"
+citeertitel: "Instellingsbesluit Monitorcomité AMIF en ISF"
 identifier: "BWBR0038755"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-11-26"
-last_updated: "2016-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038755"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13799433"
-version_id: "23668922"
-internal_id: "C34073411"
-label_id: "13765684"
-dtd_version: "2.0"
-original_entry_into_force: "2016-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038755/2016-11-26/0"
-intitule_bron: "Stcrt.2016-62187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-11-07"
-intitule_published: "2016-11-25"
-intitule_in_force: "2016-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-62187"
-original_signed_date: "2016-11-07"
-original_published_date: "2016-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-62187"
-entry_into_force_date: "2016-11-26"
-jci_1_3: "jci1.3:c:BWBR0038755&z=2016-11-26&g=2016-11-26"
-jci_1_0: "1.0:c:BWBR0038755&g=2016-11-26"
-citeertitel_status: "redactioneel"
-short_title: "Instellingsbesluit Monitorcomité AMIF en ISF"
-signed_date: "2016-11-07"
-entry_into_force: "2016-11-26"
+publicatiedatum: 2016-11-26
+laatste_update: 2016-11-26
+status: geldig
+toestand: 2016-11-26
+bron: "https://wetten.overheid.nl/BWBR0038755"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 7 november 2016, nr. 2008899, tot instelling van een Monitorcomité AMIF en ISF (Instellingsbesluit Monitorcomité AMIF en ISF)
-
-Gelet op artikel 12, vierde lid, van Verordening (EU) 514/2014 van het Europees Parlement en de Raad van 16 april 2014 tot vaststelling van de algemene bepalingen inzake het Fonds voor asiel, migratie en integratie en inzake het instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit en crisisbeheersing (PbEU L 150/112);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de gedelegeerde instantie:** het Agentschap van het Ministerie van Sociale Zaken en Werkgelegenheid;
+- a. *de gedelegeerde instantie:* het Agentschap van het Ministerie van Sociale Zaken en Werkgelegenheid;
 
-- b. **de minister:** de Minister van Veiligheid en Justitie;
+- b. *de minister:* de Minister van Veiligheid en Justitie;
 
-- c. **de verantwoordelijke instantie:** de directie Regie Vreemdelingenketen van het Ministerie van Veiligheid en Justitie;
+- c. *de verantwoordelijke instantie:* de directie Regie Vreemdelingenketen van het Ministerie van Veiligheid en Justitie;
 
-- d. **de Verordening:** Verordening (EU) 514/2014 van het Europees Parlement en de Raad van 16 april 2014 tot vaststelling van de algemene bepalingen inzake het Fonds voor asiel, migratie en integratie en inzake het instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit en crisisbeheersing (PbEU L 150/112);
+- d. *de Verordening:* Verordening (EU) 514/2014 van het Europees Parlement en de Raad van 16 april 2014 tot vaststelling van de algemene bepalingen inzake het Fonds voor asiel, migratie en integratie en inzake het instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit en crisisbeheersing (PbEU L 150/112);
 
-- e. **het comité:** het Monitorcomité AMIF en ISF als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038755&artikel=2&z=2016-11-26&g=2016-11-26).
+- e. *het comité:* het Monitorcomité AMIF en ISF als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038755&artikel=2&z=2016-11-26&g=2016-11-26).
 
 ##### Artikel 2. Instelling
 
@@ -123,5 +97,3 @@ Het archief van het comité wordt na afloop van de werkzaamheden overgebracht na
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2015.
 
 2. Dit besluit vervalt met ingang van 1 januari 2029.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

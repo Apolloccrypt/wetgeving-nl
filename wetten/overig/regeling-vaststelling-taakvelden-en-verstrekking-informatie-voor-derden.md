@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 april 2016, nr. 2016-0000217051, houdende vaststelling van de voor de uitvoeringsinformatie te gebruiken taakvelden en regeling van de verstrekking van de informatie voor derden (Regeling vaststelling taakvelden en verstrekking informatie voor derden)"
+citeertitel: "Regeling vaststelling taakvelden en verstrekking informatie voor derden"
 identifier: "BWBR0037873"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037873"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "13483093"
-version_id: "23139032"
-internal_id: "C33441351"
-label_id: "13450134"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037873/2019-07-01/0"
-intitule_bron: "Stcrt.2016-20622"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-18"
-intitule_published: "2016-04-25"
-intitule_in_force: "2016-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-20622"
-original_signed_date: "2016-04-18"
-original_published_date: "2016-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-20622"
-entry_into_force_date: "2016-04-26"
-jci_1_3: "jci1.3:c:BWBR0037873&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0037873&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vaststelling taakvelden en verstrekking informatie voor derden"
-signed_date: "2016-04-18"
-entry_into_force: "2016-04-26"
+publicatiedatum: 2016-04-26
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0037873"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 april 2016, nr. 2016-0000217051, houdende vaststelling van de voor de uitvoeringsinformatie te gebruiken taakvelden en regeling van de verstrekking van de informatie voor derden (Regeling vaststelling taakvelden en verstrekking informatie voor derden)
-
-Gelet op de [artikelen 66, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=66), en [artikel 71, eerste, tweede en vijfde lid, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=71);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -97,81 +71,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling vaststelling taakvelden en verstrekking informatie voor derden.
-
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037873&artikel=1&z=2019-07-01&g=2019-07-01) van de Regeling vaststelling taakvelden en verstrekking informatie voor derden
-
-### Taakvelden provincies
-
-### Taakvelden gemeenten
-
-## Bijlage 2. behorende bij [artikel 2, derde lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0037873&artikel=2&z=2019-07-01&g=2019-07-01) van de Regeling vaststelling taakvelden en verstrekking informatie voor derden
-
-### Economische categorieën lasten
-
-### Economische categorieën baten
-
-## Bijlage 3. behorende bij [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037873&artikel=2&z=2019-07-01&g=2019-07-01), van de Regeling vaststelling taakvelden en verstrekking informatie voor derden
-
-### Balansstanden activa
-
-### Vaste activa
-
-Immateriële vaste activa:
-
-Materiële vaste activa:
-
-Financiële vaste activa:
-
-### Vlottende activa
-
-Voorraden:
-
-Uitzettingen:
-
-Overlopende activa:
-
-### Balansstanden passiva
-
-### Vreemd- en eigen vermogen
-
-### Vaste passiva
-
-Eigen vermogen:
-
-Vaste schuld:
-
-### Vlottende passiva
-
-Vlottende schuld:
-
-Overlopende passiva:
-
-## Bijlage 4. behorende bij [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037873&artikel=2&z=2019-07-01&g=2019-07-01), van de Regeling vaststelling taakvelden en verstrekking informatie voor derden
-
-### Balansstanden activa
-
-### Vaste activa
-
-Financiële vaste activa:
-
-### Vlottende activa
-
-Uitzettingen:
-
-Overlopende activa:
-
-### Balansstanden passiva
-
-### Vreemd en eigen vermogen
-
-### Vaste passiva
-
-Vaste schuld:
-
-### Vlottende passiva
-
-Vlottende schuld:
-
-Overlopende passiva:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

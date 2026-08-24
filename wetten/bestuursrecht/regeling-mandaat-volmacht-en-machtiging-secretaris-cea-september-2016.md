@@ -1,62 +1,30 @@
 ---
 title: "Regeling van de Commissie Eindtermen Accountantsopleiding laatstelijk gewijzigd op 7 september 2016 houdende verlening van mandaat, volmacht en machtiging met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen door de secretaris"
+citeertitel: "Regeling mandaat, volmacht en machtiging secretaris CEA (september 2016)"
 identifier: "BWBR0038680"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-09-08"
-last_updated: "2016-09-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038680"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13784313"
-version_id: "23638282"
-internal_id: "C34030081"
-label_id: "13750564"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038680/2016-09-08/0"
-intitule_bron: "Stcrt.2016-58089"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-07"
-intitule_published: "2016-11-03"
-intitule_in_force: "2016-11-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-58089"
-original_signed_date: "2016-09-07"
-original_published_date: "2016-11-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-58089"
-entry_into_force_date: "2016-09-08"
-jci_1_3: "jci1.3:c:BWBR0038680&z=2016-09-08&g=2016-09-08"
-jci_1_0: "1.0:c:BWBR0038680&g=2016-09-08"
-citeertitel_status: "redactioneel"
-short_title: "Regeling mandaat, volmacht en machtiging secretaris CEA (september 2016)"
-signed_date: "2016-09-07"
-entry_into_force: "2016-09-08"
+publicatiedatum: 2016-09-08
+laatste_update: 2016-09-08
+status: geldig
+toestand: 2016-09-08
+bron: "https://wetten.overheid.nl/BWBR0038680"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Commissie Eindtermen Accountantsopleiding laatstelijk gewijzigd op 7 september 2016 houdende verlening van mandaat, volmacht en machtiging met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen door de secretaris
-
-Overwegende dat zij een aantal van haar bevoegdheden wenst te mandateren aan de secretaris van het bureau van de Commissie Eindtermen Accountantsopleiding;
-
-Overwegende dat de secretaris gevolmachtigd dient te zijn tot het verrichten van privaatrechtelijke rechtshandelingen;
-
-Gelet op [Afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. **Mandaat:** de bevoegdheid om in naam van een bestuursorgaan besluiten ex [artikel 1:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3) te nemen en ondertekenen;
+- a. *Mandaat:* de bevoegdheid om in naam van een bestuursorgaan besluiten ex [artikel 1:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3) te nemen en ondertekenen;
 
-- b. **Volmacht:** de bevoegdheid om namens een bestuursorgaan privaatrechtelijke rechtshandelingen te verrichten;
+- b. *Volmacht:* de bevoegdheid om namens een bestuursorgaan privaatrechtelijke rechtshandelingen te verrichten;
 
-- c. **Machtiging:** de bevoegdheid om namens een bestuursorgaan handelingen, die noch een besluit als bedoeld in [artikel 1:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), noch een privaatrechtelijke rechtshandeling zijn, te verrichten.
+- c. *Machtiging:* de bevoegdheid om namens een bestuursorgaan handelingen, die noch een besluit als bedoeld in [artikel 1:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), noch een privaatrechtelijke rechtshandeling zijn, te verrichten.
 
 ##### Artikel 2. Positie secretaris CEA
 
-Bij de Commissie Eindtermen Accountantsopleiding (CEA) is, met inachtneming van de aanwijzingen van de commissie, de secretaris belast met de leiding van het bureau van de commissie, zoals bepaald in [afdeling 3 van het Bestuursreglement CEA](onbekend) (gepubliceerd in de Staatscourant van 14 mei 2013, nr. 12575).
+Bij de Commissie Eindtermen Accountantsopleiding (CEA) is, met inachtneming van de aanwijzingen van de commissie, de secretaris belast met de leiding van het bureau van de commissie, zoals bepaald in [afdeling 3 van het Bestuursreglement CEA](https://wetten.overheid.nl/BWBR0033422) (gepubliceerd in de Staatscourant van 14 mei 2013, nr. 12575).
 
 ##### Artikel 3. Taken en bevoegdheden secretaris
 
@@ -78,7 +46,7 @@ Het is de secretaris niet toegestaan om de hem opgedragen taken geheel of gedeel
 
 ##### Artikel 6. Volmacht
 
-De secretaris is voor de uitvoering van zijn taken bevoegd namens CEA privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in de bijlage bij dit besluit opgenomen maxima ten aanzien van de uit die rechtshandelingen voor CEA voortvloeiende financiële verplichtingen.
+De secretaris is voor de uitvoering van zijn taken bevoegd namens CEA privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in de [bijlage](https://wetten.overheid.nl/BWBR0038680) bij dit besluit opgenomen maxima ten aanzien van de uit die rechtshandelingen voor CEA voortvloeiende financiële verplichtingen.
 
 ##### Artikel 7. Machtiging
 
@@ -119,23 +87,3 @@ Naam secretaris’
 ##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 8 september 2016.
-
-## Bijlage
-
-Overzicht mandaat en volmacht Commissie Eindtermen Accountantsopleiding, behorende bij mandaatbesluit
-
-Laatstelijk gewijzigd d.d. 8 september 2016
-
-| Betreft | Mandaat secretaris |
-| --- | --- |
-| Publiceren van besluiten in de Staatscourant | Alle besluiten die krachtens wettelijke regeling door CEA gepubliceerd moeten worden. |
-| Aanvragen voor een aanwijzing ex. artikel 49 WAB | Alle voorbereidende handelingen die nodig zijn om tot besluitvorming door CEA te komen. |
-| Verzoeken om een voorlopig oordeel zoals bepaald in Beleidsregels betreffende verlening van verklaring van vakbekwaamheid | • Besluitvorming over verzoeken van personen met een accountantskwalificatie van binnen de EU of EER. • Alle voorbereidende handelingen die nodig zijn om tot besluitvorming te komen door de commissie over verzoeken van personen met een accountantskwalificatie van buiten de EU of EER. |
-| Aanvragen voor een verklaring van vakbekwaamheid ex. artikel 54 WAB. | Besluitvorming over aanvragen van personen die een positief voorlopig oordeel hebben gekregen. |
-| Wob-verzoeken | Behandeling en besluitvorming van verzoeken uit hoofde van de Wet openbaarheid van bestuur. |
-| Wbp-verzoeken | Behandeling en besluitvorming van verzoeken uit hoofde van de Wet bescherming persoonsgegevens. |
-| Privaatrechtelijke rechtshandelingen | Privaatrechtelijke rechtshandelingen voor zover uit die rechtshandelingen geen financiële verplichtingen voortvloeien die groter zijn dan € 10.000. |
-| Aangaan financiële verplichtingen | Tot een bedrag van € 10.000 per aangegane verplichting. |
-| Autorisatie facturen | Tot een bedrag van € 10.000 per factuur. |
-| Betalingsopdrachten | Onbeperkt |
-| Besluiten en correspondentie | Ondertekeningsmandaat |

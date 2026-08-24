@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2016, kenmerk 787332-138496-OBP, houdende beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief van de Directie Curatieve Zorg en taakvoorgangers van het Ministerie van Welzijn, Volksgezondheid, en Cultuur (1984) 1995–2006"
+citeertitel: "Besluit beperking openbaarheid van archiefbescheiden Directie Curatieve Zorg en taakvoorgangers Ministerie van Welzijn, Volksgezondheid, en Cultuur (1984) 1995–2006"
 identifier: "BWBR0038690"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038690"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13785743"
-version_id: "23642442"
-internal_id: "C34035091"
-label_id: "13751914"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038690/2017-01-01/0"
-intitule_bron: "Stcrt.2016-58767"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-27"
-intitule_published: "2016-11-07"
-intitule_in_force: "2016-11-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-58767"
-original_signed_date: "2016-10-27"
-original_published_date: "2016-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-58767"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038690&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038690&g=2017-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid van archiefbescheiden Directie Curatieve Zorg en taakvoorgangers Ministerie van Welzijn, Volksgezondheid, en Cultuur (1984) 1995–2006"
-signed_date: "2016-10-27"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038690"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2016, kenmerk 787332-138496-OBP, houdende beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief van de Directie Curatieve Zorg en taakvoorgangers van het Ministerie van Welzijn, Volksgezondheid, en Cultuur (1984) 1995–2006
-
-Gelet op [artikel 15, eerste lid, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Gezien het advies d.d. 13 november 2015, kenmerk 2015-16062 van het Nationaal Archief;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,5 +38,3 @@ Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnumm
 ##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038690&artikel=1&z=2017-01-01&g=2017-01-01) is, tot onbeperkte openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

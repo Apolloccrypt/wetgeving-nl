@@ -1,47 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archief Schadefonds geweldmisdrijven, (1973)1976–2004(2014)"
 identifier: "BWBR0037988"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-05-31"
-last_updated: "2016-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037988"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13558953"
-version_id: "23232222"
-internal_id: "C33543871"
-label_id: "13525744"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037988/2016-05-31/0"
-intitule_bron: "Stcrt.2016-27079"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-19"
-intitule_published: "2016-05-30"
-intitule_in_force: "2016-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-27079"
-original_signed_date: "2016-05-19"
-original_published_date: "2016-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-27079"
-entry_into_force_date: "2016-05-31"
-jci_1_3: "jci1.3:c:BWBR0037988&z=2016-05-31&g=2016-05-31"
-jci_1_0: "1.0:c:BWBR0037988&g=2016-05-31"
-citeertitel_status: "redactioneel"
-signed_date: "2016-05-19"
-entry_into_force: "2016-05-31"
+publicatiedatum: 2016-05-31
+laatste_update: 2016-05-31
+status: geldig
+toestand: 2016-05-31
+bron: "https://wetten.overheid.nl/BWBR0037988"
+opgehaald: 2026-08-24
 ---
+
 # Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archief Schadefonds geweldmisdrijven, (1973)1976–2004(2014)
-
-gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10)
-
-gehoord het advies van de Algemene Rijksarchivaris d.d. 10 mei 2016, met kenmerk NA/2016/16492.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van het Schadefonds Geweldsmisdrijven:
 
 ##### Artikel 1
 

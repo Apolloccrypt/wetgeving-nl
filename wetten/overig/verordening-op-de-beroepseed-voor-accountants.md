@@ -1,62 +1,40 @@
 ---
 title: "Verordening op de beroepseed voor accountants"
 identifier: "BWBR0037990"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037990"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "13559213"
-version_id: "23232502"
-internal_id: "C33544341"
-label_id: "13526024"
-dtd_version: "2.0"
-original_entry_into_force: "2016-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037990/2022-01-01/0"
-intitule_bron: "Stcrt.2016-27196"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-05-30"
-intitule_in_force: "2016-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-27196"
-original_published_date: "2016-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-27196"
-entry_into_force_date: "2016-06-01"
-jci_1_3: "jci1.3:c:BWBR0037990&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0037990&g=2022-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2016-06-01"
+publicatiedatum: 2016-06-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0037990"
+opgehaald: 2026-08-24
 ---
+
 # Verordening op de beroepseed voor accountants
-
-Gelet op de [artikelen 3, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=3) en [19, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
 
 ##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
-- **accountant:** accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
+- *accountant:* accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- **accountantsregister:** accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+- *accountantsregister:* accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
-- **beroepseed:** eed of belofte als bedoeld in [artikel 2, eerste, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2022-01-01&g=2022-01-01);
+- *beroepseed:* eed of belofte als bedoeld in [artikel 2, eerste, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2022-01-01&g=2022-01-01);
 
-- **contributiegroep H, L, M of Z:** contributiegroep H, L, M of Z als bedoeld in [artikel 2 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=2);
+- *contributiegroep H, L, M of Z:* contributiegroep H, L, M of Z als bedoeld in [artikel 2 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=2);
 
-- **diploma-uitreiking:** door de NBA georganiseerde gelegenheid tijdens welke aan een groep van aspirant-ingeschrevenen de getuigschriften, bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47), worden uitgereikt;
+- *diploma-uitreiking:* door de NBA georganiseerde gelegenheid tijdens welke aan een groep van aspirant-ingeschrevenen de getuigschriften, bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47), worden uitgereikt;
 
-- **maatregel van tijdelijke doorhaling:** maatregel van tijdelijke doorhaling als bedoeld in [artikel 2, eerste lid, onderdeel d van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=2);
+- *maatregel van tijdelijke doorhaling:* maatregel van tijdelijke doorhaling als bedoeld in [artikel 2, eerste lid, onderdeel d van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=2);
 
-- **praktijkopleiding:** praktijkopleiding als bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47);
+- *praktijkopleiding:* praktijkopleiding als bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47);
 
-- **aspirant-ingeschrevene:** degene die het examen ter afronding van de praktijkopleiding heeft afgelegd, maar nog niet is ingeschreven in het accountantsregister;
+- *aspirant-ingeschrevene:* degene die het examen ter afronding van de praktijkopleiding heeft afgelegd, maar nog niet is ingeschreven in het accountantsregister;
 
-- **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- *wet:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ##### Artikel 2
 
@@ -132,6 +110,6 @@ Het bestuur houdt een registratie bij van de accountants en aspirant-ingeschreve
 
 ##### Artikel 7
 
-1. Deze verordening treedt in werking op 1 juni 2016.
+1. Deze verordening treedt in werking op 1 juni 2016.
 
 2. Deze verordening wordt aangehaald als: Verordening op de beroepseed voor accountants.

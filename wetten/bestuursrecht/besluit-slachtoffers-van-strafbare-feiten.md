@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 24 augustus 2016, houdende regels voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten (Besluit slachtoffers van strafbare feiten)"
+citeertitel: "Besluit slachtoffers van strafbare feiten"
 identifier: "BWBR0038468"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038468"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13741993"
-version_id: "23553852"
-internal_id: "C34525201"
-label_id: "13708414"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038468/2022-07-01/0"
-intitule_bron: "Stb.2016-310"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-08-24"
-intitule_published: "2016-09-05"
-intitule_in_force: "2017-03-31"
-intitule_status: "goed"
-original_publication: "Stb.2016-310"
-original_signed_date: "2016-08-24"
-original_published_date: "2016-09-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-310"
-entry_into_force_date: "2017-04-01"
-jci_1_3: "jci1.3:c:BWBR0038468&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0038468&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit slachtoffers van strafbare feiten"
-signed_date: "2016-08-24"
-entry_into_force: "2017-04-01"
+publicatiedatum: 2017-04-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0038468"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 24 augustus 2016, houdende regels voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten (Besluit slachtoffers van strafbare feiten)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 6 juni 2016, nr. 768965, directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 51aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51aa), [51ab, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ab) en [51h, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51h);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 juli 2016, nr. W03.16.0144/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 12 augustus 2016, nr. 791601;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities
 
@@ -52,17 +20,17 @@ Hebben goedgevonden en verstaan:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
+- a. *de wet:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
 
-- b. **slachtoffer:** de persoon als bedoeld in [artikel 51a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a);
+- b. *slachtoffer:* de persoon als bedoeld in [artikel 51a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a);
 
-- c. **familieleden:** de personen als bedoeld in [artikel 51a, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a);
+- c. *familieleden:* de personen als bedoeld in [artikel 51a, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a);
 
-- d. **de opsporingsambtenaar:** een ambtenaar als bedoeld in [artikel 141 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
+- d. *de opsporingsambtenaar:* een ambtenaar als bedoeld in [artikel 141 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
 
-- e. **slachtofferhulporganisatie:** een rechtspersoon die is belast met uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=2&artikel=3&z=2022-07-01&g=2022-07-01) genoemde taken;
+- e. *slachtofferhulporganisatie:* een rechtspersoon die is belast met uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=2&artikel=3&z=2022-07-01&g=2022-07-01) genoemde taken;
 
-- f. **gespecialiseerde hulporganisaties:** instellingen die op een specifiek terrein hulp en voorzieningen aan slachtoffers kunnen bieden.
+- f. *gespecialiseerde hulporganisaties:* instellingen die op een specifiek terrein hulp en voorzieningen aan slachtoffers kunnen bieden.
 
 ### Hoofdstuk 2. Instellingen voor slachtofferhulp
 
@@ -125,6 +93,10 @@ De opsporingsambtenaar of andere ambtenaar van een organisatie die opsporing van
 - j. de beschikbare herstelrechtvoorzieningen;
 
 - k. de wijze waarop het slachtoffer de kosten als gevolg van zijn deelname aan de strafprocedure vergoed kan krijgen en de hierbij geldende voorwaarden.
+
+##### Artikel 5a
+
+De ambtenaar, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=5&z=2022-07-01&g=2022-07-01), verstrekt aan een slachtoffer van een strafbaar feit dat is gepleegd door middel van misbruik van zijn persoonsgegevens informatie over manieren om zichzelf tegen de negatieve gevolgen daarvan te beschermen en instellingen die zich met verschillende aspecten van dergelijke misdrijven en ondersteuning aan slachtoffers bezighouden.
 
 ##### Artikel 6
 
@@ -283,19 +255,3 @@ Deze regeling treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 20
 
 Deze regeling wordt aangehaald als: Besluit slachtoffers van strafbare feiten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-De ambtenaar, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=5&z=2022-07-01&g=2022-07-01), verstrekt aan een slachtoffer van een strafbaar feit dat is gepleegd door middel van misbruik van zijn persoonsgegevens informatie over manieren om zichzelf tegen de negatieve gevolgen daarvan te beschermen en instellingen die zich met verschillende aspecten van dergelijke misdrijven en ondersteuning aan slachtoffers bezighouden.
-
-### Hoofdstuk 4. Maatregelen tot bescherming
-
-### Hoofdstuk 5. Individuele beoordeling, specifieke beschermingsbehoeften, bijzondere maatregelen en minderjarigen
-
-### Hoofdstuk 6. Herstelrechtvoorzieningen
-
-### Hoofdstuk 7. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

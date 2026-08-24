@@ -1,45 +1,17 @@
 ---
 title: "Ontheffing houtopstanden Rijkswaterstaat"
 identifier: "BWBR0038864"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-12-01"
-last_updated: "2016-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038864"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13820393"
-version_id: "23714972"
-internal_id: "C34133041"
-label_id: "13785884"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038864/2016-12-01/0"
-intitule_bron: "Stcrt.2016-67668"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-01"
-intitule_published: "2016-12-13"
-intitule_in_force: "2016-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-67668"
-original_signed_date: "2016-12-01"
-original_published_date: "2016-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-67668"
-entry_into_force_date: "2016-12-01"
-jci_1_3: "jci1.3:c:BWBR0038864&z=2016-12-01&g=2016-12-01"
-jci_1_0: "1.0:c:BWBR0038864&g=2016-12-01"
-citeertitel_status: "redactioneel"
-signed_date: "2016-12-01"
-entry_into_force: "2016-12-01"
+publicatiedatum: 2016-12-01
+laatste_update: 2016-12-01
+status: geldig
+toestand: 2016-12-01
+bron: "https://wetten.overheid.nl/BWBR0038864"
+opgehaald: 2026-08-24
 ---
+
 # Ontheffing houtopstanden Rijkswaterstaat
-
-Gelet op [artikel 6, tweede lid, van de Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357&artikel=6);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -63,8 +35,6 @@ In deze beschikking wordt verstaan onder wet: [Boswet](https://wetten.overheid.n
 
 ##### Artikel 4
 
-1. Deze ontheffing treedt op 1 december 2016 in werking. De [ontheffing Rijkswaterstaat Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0010626) zoals verleend op 27 juli 1999 wordt op 1 december 2016 ingetrokken.
+1. Deze ontheffing treedt op 1 december 2016 in werking. De [ontheffing Rijkswaterstaat Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0010626) zoals verleend op 27 juli 1999 wordt op 1 december 2016 ingetrokken.
 
-2. Indien voor een project dat langer duurt dan twee jaren voor 1 december 2016 een kennisgeving is gedaan van velling of een ontwerp ter inzage is gelegd van een tracébesluit als bedoeld in [artikel 9, eerste lid, Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=9), een bestemmingsplan als bedoeld in [artikel 3.1, eerste lid, Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1), een inpassingsplan als bedoeld in [artikel 3.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.26), of [artikel 3.28, eerste lid, Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28) of een projectplan als bedoeld in [artikel 5.4, eerste lid, Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.4), dan geldt voor dat project een herbeplantingstermijn van tien jaren na kennisgeving.
-
-Deze beschikking zal in de Staatscourant worden geplaatst.
+2. Indien voor een project dat langer duurt dan twee jaren voor 1 december 2016 een kennisgeving is gedaan van velling of een ontwerp ter inzage is gelegd van een tracébesluit als bedoeld in [artikel 9, eerste lid, Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=9), een bestemmingsplan als bedoeld in [artikel 3.1, eerste lid, Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1), een inpassingsplan als bedoeld in [artikel 3.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.26), of [artikel 3.28, eerste lid, Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28) of een projectplan als bedoeld in [artikel 5.4, eerste lid, Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.4), dan geldt voor dat project een herbeplantingstermijn van tien jaren na kennisgeving.

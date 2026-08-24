@@ -1,60 +1,30 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 2 september 2016, 990524-153134-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake experimenten persoonsvolgende inkoop"
+citeertitel: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experimenten persoonsvolgende inkoop)"
 identifier: "BWBR0038493"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-11-01"
-last_updated: "2016-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038493"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13746523"
-version_id: "23563812"
-internal_id: "C33922411"
-label_id: "13712824"
-dtd_version: "2.0"
-original_entry_into_force: "2016-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038493/2016-11-01/0"
-intitule_bron: "Stcrt.2016-47229"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-02"
-intitule_published: "2016-09-09"
-intitule_in_force: "2016-09-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-47229"
-original_signed_date: "2016-09-02"
-original_published_date: "2016-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-47229"
-entry_into_force_date: "2016-11-01"
-jci_1_3: "jci1.3:c:BWBR0038493&z=2016-11-01&g=2016-11-01"
-jci_1_0: "1.0:c:BWBR0038493&g=2016-11-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experimenten persoonsvolgende inkoop)"
-signed_date: "2016-09-02"
-entry_into_force: "2016-11-01"
+publicatiedatum: 2016-11-01
+laatste_update: 2016-11-01
+status: geldig
+toestand: 2016-11-01
+bron: "https://wetten.overheid.nl/BWBR0038493"
+opgehaald: 2026-08-24
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 2 september 2016, 990524-153134-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake experimenten persoonsvolgende inkoop
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 10 juni 2016 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2015–2016, 34 104, 129) als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8);
-
-Gezien het verslag van de Tweede Kamer van een schriftelijk overleg met de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **de wet:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- a. *de wet:* de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- b. **de Wlz:** de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- b. *de Wlz:* de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- c. **de zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *de zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **de regio:** de regio als bedoeld in [artikel 4.2.4 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en [artikel 4.2.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=4.2.1).
+- d. *de regio:* de regio als bedoeld in [artikel 4.2.4 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en [artikel 4.2.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=4.2.1).
 
 ##### Artikel 2. Werkingssfeer
 
@@ -91,5 +61,3 @@ Het experiment heeft een looptijd van twee jaar, van 1 januari 2017 tot en met 3
 2. De zorgautoriteit zal op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) het experiment (tussentijds) evalueren en zal daarbij de resultaten van een door een extern bureau uit te voeren onderzoek betrekken. De zorgautoriteit werkt bij de evaluatie samen met de zorgaanbieders, consumenten en Wlz-uitvoerders van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038493&artikel=3&z=2016-11-01&g=2016-11-01) genoemde regio’s.
 
 3. Op basis van de (tussen)evaluatie zal ik de zorgautoriteit verzoeken het experiment uit te breiden, te verlengen of stop te zetten.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.

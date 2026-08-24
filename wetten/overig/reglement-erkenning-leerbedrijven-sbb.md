@@ -1,52 +1,33 @@
 ---
 title: "Reglement erkenning leerbedrijven SBB"
 identifier: "BWBR0038327"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-08-01"
-last_updated: "2016-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038327"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13707733"
-version_id: "23483492"
-internal_id: "C33822591"
-label_id: "13674224"
-dtd_version: "2.0"
-original_entry_into_force: "2016-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038327/2016-08-01/0"
-intitule_bron: "Stcrt.2016-37787"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-07-20"
-intitule_in_force: "2016-07-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-37787"
-original_published_date: "2016-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-37787"
-entry_into_force_date: "2016-08-01"
-jci_1_3: "jci1.3:c:BWBR0038327&z=2016-08-01&g=2016-08-01"
-jci_1_0: "1.0:c:BWBR0038327&g=2016-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-08-01"
+publicatiedatum: 2016-08-01
+laatste_update: 2016-08-01
+status: geldig
+toestand: 2016-08-01
+bron: "https://wetten.overheid.nl/BWBR0038327"
+opgehaald: 2026-08-24
 ---
+
 # Reglement erkenning leerbedrijven SBB
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- 1. **SBB:** het bestuur van de samenwerkingsorganisatie beroepsonderwijs bedrijfsleven zoals bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1) (WEB).
+- 1. *SBB:* het bestuur van de samenwerkingsorganisatie beroepsonderwijs bedrijfsleven zoals bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1) (WEB).
 
-- 2. **Leerbedrijf:** het bedrijf dat of de organisatie die op grond van dit reglement bevoegd is om de beroepspraktijkvorming te verzorgen.
+- 2. *Leerbedrijf:* het bedrijf dat of de organisatie die op grond van dit reglement bevoegd is om de beroepspraktijkvorming te verzorgen.
 
-- 3. **Praktijkopleider:** een door het leerbedrijf aangewezen persoon, die belast is met de begeleiding van de onderwijsdeelnemer binnen het leerbedrijf.
+- 3. *Praktijkopleider:* een door het leerbedrijf aangewezen persoon, die belast is met de begeleiding van de onderwijsdeelnemer binnen het leerbedrijf.
 
-- 4. **Reglement:** reglement erkenning leerbedrijven opgesteld ingevolge [artikel 7.2.10 lid 1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.10) (WEB).
+- 4. *Reglement:* reglement erkenning leerbedrijven opgesteld ingevolge [artikel 7.2.10 lid 1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.10) (WEB).
 
-- 5. **Onderwijsdeelnemer:** VMBO-leerling of MBO-student.
+- 5. *Onderwijsdeelnemer:* VMBO-leerling of MBO-student.
 
-- 6. **Onderwijsinstelling:** school voor VMBO of MBO.
+- 6. *Onderwijsinstelling:* school voor VMBO of MBO.
 
 ##### Artikel 2. Doel
 
@@ -145,131 +126,3 @@ Dit reglement treedt in werking met ingang van 1 augustus 2016.
 ##### Artikel 13. Wijzigingen
 
 Wijzigingen in het reglement worden vastgesteld door het bestuur van SBB.
-
-## Bijlage 1. – Model profiel praktijkopleider
-
-De praktijkopleider werkt in een (leer)bedrijf dat door SBB is erkend. Hij leidt de onderwijsdeelnemer (stagiair) in de praktijk op. Hij is het aanspreekpunt voor de stagiair en maakt hem wegwijs in de dagelijkse praktijk.
-
-De praktijkopleider leidt de stagiair op en organiseert zijn leeractiviteiten. Hij zorgt daarbij voor een zo goed mogelijke leeromgeving. De stagiair krijgt een werkplek waar zoveel mogelijk (dagelijkse) praktijksituaties voorkomen die hij ook zal tegenkomen in het beroep waarvoor hij wordt opgeleid.
-
-De praktijkopleider heeft een begeleidende en opleidende rol. Hij heeft aandacht voor de stagiair en stuurt hem (bij) als dat nodig is. De praktijkopleider brengt vakkennis over en stimuleert de stagiair om zich verantwoordelijk te voelen voor zijn leerproces en zijn functioneren als medewerker. Hij motiveert de stagiair en stemt de begeleiding op hem af. Ook let de praktijkopleider op de concrete voortgang van het leerproces van de stagiair.
-
-Verantwoordelijkheidsgevoel, organisatietalent en het gevoel om met mensen te werken zijn onmisbaar voor een praktijkopleider. Naast het contact met de stagiair onderhoudt de praktijkopleider contact met de praktijkbegeleider (de begeleider van de stagiair vanuit de opleiding/school) en de opleidingsadviseur van SBB.
-
-De opleidingsadviseur van SBB adviseert de praktijkopleider over zijn rol tijdens de stageperiode. Verder is de opleidingsadviseur klankbord voor de praktijkopleider als het gaat om de invulling van zijn rol. Ook helpt de opleidingsadviseur de praktijkopleider bij het promoten van het opleiden in de praktijk en het stagebeleid in zijn bedrijf.
-
-- 1. Organiseert het leerproces van de deelnemer in de praktijk
-
-- 1.1. Voert met de deelnemer het selectiegesprek
-
-- 1.2. Maakt een inwerkprogramma
-
-- 1.3. Stelt de beginsituatie en leerbehoefte van de deelnemer vast
-
-- 1.4. Bepaalt in overleg met de deelnemer de leeractiviteiten
-
-- 1.5. Stelt een praktijkleerplan op
-
-- 1.6. Onderhoudt contacten met de praktijkbegeleider en de opleidingsadviseur
-
-- 2. Leidt de deelnemer op in de praktijk
-
-- 2.1. Leidt de deelnemer op de werkvloer op
-
-- 2.2. Bewaakt en stuurt het leerproces van de deelnemer
-
-- 2.3. Voert begeleidings- of voortgangsgesprekken met de deelnemer
-
-- 2.4. Beoordeelt de voortgang in het leerproces van de deelnemer
-
-- 2.5. Evalueert de BPV-periode
-
-**Voor de praktijkopleider zijn de volgende competenties van belang:**
-
-**Aansturen**
-
-- •. Stemt zijn manier van opleiden af op de taakvolwassenheid en leerstijl van de deelnemer
-
-- •. Houdt in de gaten of de deelnemer functioneert volgens de gemaakte afspraken en geeft duidelijke instructies als de deelnemer niet aan de verwachting (dreigt) te voldoen
-
-**Begeleiden**
-
-- •. Stimuleert en coacht de deelnemer
-
-- •. Geeft de deelnemer heldere en constructieve feedback
-
-- •. Motiveert de deelnemer door hem in meer of mindere mate sociaal-emotioneel te ondersteunen
-
-**Beslissen en activiteiten initiëren**
-
-- •. Beslist of de deelnemer voortgang boekt in zijn leerproces
-
-- •. Bepaalt op welke gebieden de deelnemer zich moet ontwikkelen
-
-**Instructies en procedures volgen**
-
-- •. Werkt bij het beoordelen van de voortgang van de deelnemer met toetsinstrumenten en volgens bijbehorende procedures, zodat de deelnemer een objectieve en valide beoordeling krijgt
-
-**Leren**
-
-- •. Evalueert de BPV-periode om verbeterpunten te signaleren en om die punten te verbeteren
-
-**Op de behoeften en verwachtingen van de ‘klant’ richten**
-
-- •. Vraagt de deelnemer wat hij wil leren tijdens de beroepspraktijkvorming en haakt daar op in
-
-**Plannen en organiseren**
-
-- •. Maakt in een gesprek helder welke leerdoelen behaald moeten worden
-
-- •. Plant leeractiviteiten van de deelnemer
-
-- •. Volgt de voortgang van het leerproces
-
-- •. Besluit wanneer hij moet ingrijpen in het leerproces
-
-**Samenwerken en overleggen**
-
-- •. Toont interesse in de deelnemer door te luisteren, vragen te stellen en de deelnemer te observeren
-
-- •. Bespreekt, na eventuele raadpleging van anderen, zijn observaties met de deelnemer
-
-- •. Stimuleert de deelnemer mee te denken over de verdere invulling van zijn leerproces
-
-- •. Luistert naar adviezen van de praktijkbegeleider en opleidingsadviseur en geeft aan wat hij met de adviezen doet
-
-**Vakdeskundigheid toepassen**
-
-- •. Legt uit hoe zaken werken, doet dit voor of laat de deelnemer nadenken over vakspecialistische zaken
-
-- •. Gebruikt zijn vakkennis om de deelnemer te beoordelen
-
-- •. Bekijkt informatie van het opleidingsinstituut, de wensen van de deelnemer en de mogelijkheden binnen het leerbedrijf om na te gaan op welke manier de leerdoelen behaald kunnen worden
-
-- •. Observeert de deelnemer aan de hand van de beoordelingscriteria en geeft een waardering aan deze observaties.
-
-## Bijlage 2. – Sectorale aanvullingen erkenningsregeling leerbedrijven
-
-Onderwijs en bedrijfsleven in de besturen van de kenniscentra hebben voor 1 augustus 2015 voor leerbedrijven sectorale aanvullingen vastgesteld. Deze aanvullende bepalingen zijn door het bestuur van SBB overgenomen bij de vaststelling van het erkenningsreglement voor leerbedrijven van SBB en geactualiseerd op 13 mei 2016. De volgende sectorale aanvullingen voor leerbedrijven zijn van toepassing:
-
-([Artikel 5. Lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038327&artikel=5&z=2016-08-01&g=2016-08-01).)
-
-| Sector | Aanvulling |
-| --- | --- |
-| Voedsel, groen en gastvrijheid | De praktijkopleider kan zijn deskundigheid aan de hand van een diploma/certificaat of ervaring aantonen.1 |
-| Zakelijke dienstverlening en veiligheid | Praktijkopleiders dienen hun begeleidings- en beoordelingscompetenties (mede) te hebben verworven, of alsnog binnen een afgesproken termijn te verwerven door het volgen van een ten behoeve van de sector ontwikkelde en verzorgde training. Het leerbedrijf is bevoegd beveiligings- en/of recherchewerkzaamheden uit te oefenen overeenkomstig het bepaalde in of bij de Wet particuliere beveiligingsorganisaties en recherchebureaus, de gelijknamige regeling en/ of andere relevante wet en regelgeving.1 |
-| Techniek en gebouwde omgeving | Iedere leermeester moet de leermeestercursus gevolgd hebben. Elke opgeleide leermeester moet verplicht iedere twee jaar de nascholing volgen. Op elke bouwplaats of werkplek met een of meer onderwijsdeelnemers moet een leermeester aanwezig zijn. Een leermeester begeleidt maximaal drie onderwijsdeelnemers.1 |
-| Mobiliteit, transport, logistiek en maritiem | Aantoonbaar voldoende en deskundige begeleiding te bieden gericht op de onderwijsdeelnemer door een gecertificeerde praktijkopleider. Het competentieprofiel voor praktijkopleider wordt hierbij als maatstaf genomen.1 |
-| Handel | De praktijkopleider heeft minimaal hetzelfde vakinhoudelijke niveau heeft als dat waar de onderwijsdeelnemer voor wordt opgeleid.* |
-| Voedsel, Groen en Gastvrijheid | Het leerbedrijf heeft een Leermeester, Mentor, Praktijkbegeleider (LMP) in dienst die aantoonbaar beschikt over competenties die ten minste gelijkwaardig zijn aan die waarvoor de onderwijsdeelnemer wordt opgeleid en minimaal 1 jaar ervaring heeft met de inhoud van de kwalificatie waarvoor de onderwijsdeelnemer wordt opgeleid. Voor de sector Horeca en Bakkerij hebben praktijkopleiders een diploma nodig.1 |
-| Voedsel, groen en gastvrijheid | De praktijkopleider dient in het bezit te zijn van een erkend diploma of bewijsstuk dat tenminste gelijkwaardig is aan het niveau en de inhoud van de eindtermen en/of kerntaken (met bijbehorende competenties) waarvoor wordt opgeleid en in het bezit te zijn van een erkend diploma, certificaat of bewijsstuk om de onderwijsvaardigheid aan te tonen.1 |
-| Zorg, welzijn en sport | De praktijkopleider dient in het bezit te zijn van een erkend diploma of bewijsstuk dat tenminste gelijkwaardig is aan het niveau en de inhoud van de eindtermen en/of kerntaken (met bijbehorende competenties) waarvoor wordt opgeleid en in het bezit te zijn van een erkend diploma, certificaat of bewijsstuk om de onderwijsvaardigheid aan te tonen.1 |
-| Mobiliteit, transport, logistiek en maritiem | Het leerbedrijf dient een praktijkopleider aan te wijzen als praktijkbegeleider, die minimaal hetzelfde vakinhoudelijke niveau heeft als dat waarvoor de onderwijsdeelnemer wordt opgeleid. De praktijkopleider dient de regionale praktijkopleidersavonden te bezoeken.1 |
-| Mobiliteit, transport, logistiek en maritiem | De praktijkopleider heeft minimaal hetzelfde vakinhoudelijke niveau als dat waar de onderwijsdeelnemer voor wordt opgeleid.1 |
-
-1 SBB beheert de lijst met de relevante crebo’s per sectorale aanvulling
-
-| Zakelijke dienstverlening en veiligheid | Praktijkopleiders dienen hun begeleidings- en beoordelingscompetenties (mede) te hebben verworven, of alsnog binnen een afgesproken termijn te verwerven door het volgen van een ten behoeve van de sector ontwikkelde en verzorgde training. Het leerbedrijf is bevoegd beveiligings- en/of recherchewerkzaamheden uit te oefenen overeenkomstig het bepaalde in of bij de [Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973), de gelijknamige [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256) en/ of andere relevante wet en regelgeving.1 |
-| --- | --- |
-
-1SBB beheert de lijst met de relevante crebo’s per sectorale aanvulling

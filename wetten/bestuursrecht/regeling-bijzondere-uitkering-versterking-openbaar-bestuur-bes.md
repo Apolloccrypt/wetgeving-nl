@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 oktober 2016, nr. 2016-0000571578, houdende regels inzake bijzondere uitkeringen voor de versterking van het openbaar bestuur in Caribisch Nederland (Regeling bijzondere uitkering versterking openbaar bestuur BES)"
+citeertitel: "Regeling bijzondere uitkering versterking openbaar bestuur BES"
 identifier: "BWBR0038675"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2016-11-02"
-last_updated: "2016-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038675"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "13783393"
-version_id: "23636532"
-internal_id: "C34026991"
-label_id: "13749644"
-dtd_version: "2.0"
-original_entry_into_force: "2016-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038675/2016-11-02/0"
-intitule_bron: "Stcrt.2016-57618"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-20"
-intitule_published: "2016-11-01"
-intitule_in_force: "2016-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-57618"
-original_signed_date: "2016-10-20"
-original_published_date: "2016-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-57618"
-entry_into_force_date: "2016-11-02"
-jci_1_3: "jci1.3:c:BWBR0038675&z=2016-11-02&g=2016-11-02"
-jci_1_0: "1.0:c:BWBR0038675&g=2016-11-02"
-citeertitel_status: "officieel"
-short_title: "Regeling bijzondere uitkering versterking openbaar bestuur BES"
-signed_date: "2016-10-20"
-entry_into_force: "2016-11-02"
+publicatiedatum: 2016-11-02
+laatste_update: 2016-11-02
+status: geldig
+toestand: 2016-11-02
+bron: "https://wetten.overheid.nl/BWBR0038675"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 oktober 2016, nr. 2016-0000571578, houdende regels inzake bijzondere uitkeringen voor de versterking van het openbaar bestuur in Caribisch Nederland (Regeling bijzondere uitkering versterking openbaar bestuur BES)
-
-Gelet op [artikel 92, vijfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **bijzondere uitkering versterking openbaar bestuur:** eenmalige bijzondere uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-11-02);
+- *bijzondere uitkering versterking openbaar bestuur:* eenmalige bijzondere uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-11-02);
 
-- **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2. Doel bijzondere uitkering openbaar bestuur
 
@@ -149,5 +123,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bijzondere uitkering versterking openbaar bestuur BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

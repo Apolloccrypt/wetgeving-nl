@@ -1,47 +1,18 @@
 ---
 title: "Wet van 23 maart 2016, houdende regels met betrekking tot de productie en de distributie van elektriciteit en drinkwater op Bonaire, Sint Eustatius en Saba (Wet elektriciteit en drinkwater BES)"
+citeertitel: "Wet elektriciteit en drinkwater BES"
 identifier: "BWBR0037861"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037861"
+categorie: "Milieu"
 soort: "wet-BES"
-stam_id: "13480533"
-version_id: "23134932"
-internal_id: "C33707151"
-label_id: "13448254"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037861/2023-01-01/0"
-intitule_bron: "Stb.2016-142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-23"
-intitule_published: "2016-04-22"
-intitule_in_force: "2016-06-24"
-intitule_status: "goed"
-original_publication: "Stb.2016-142"
-original_signed_date: "2016-03-23"
-original_published_date: "2016-04-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "34089"
-original_url_id: "stb-2016-142"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0037861&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0037861&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet elektriciteit en drinkwater BES"
-signed_date: "2016-03-23"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0037861"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 23 maart 2016, houdende regels met betrekking tot de productie en de distributie van elektriciteit en drinkwater op Bonaire, Sint Eustatius en Saba (Wet elektriciteit en drinkwater BES)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is, om, gelet op het belang van het betrouwbaar, duurzaam en doelmatig functioneren van de elektriciteits- en de drinkwatervoorziening in Caribisch Nederland, regels te stellen inzake de productie en de distributie van elektriciteit en drinkwater;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,55 +20,55 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aansluiting:** één of meer leidingen en daarmee verbonden hulpmiddelen ten behoeve van transport van elektriciteit of drinkwater die een net verbinden met een installatie;
+- *aansluiting:* één of meer leidingen en daarmee verbonden hulpmiddelen ten behoeve van transport van elektriciteit of drinkwater die een net verbinden met een installatie;
 
-- **afnemer:** natuurlijke persoon of rechtspersoon die elektriciteit of drinkwater afneemt voor eigen gebruik;
+- *afnemer:* natuurlijke persoon of rechtspersoon die elektriciteit of drinkwater afneemt voor eigen gebruik;
 
-- **Autoriteit Consument en Markt:** Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- *Autoriteit Consument en Markt:* Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- **bindende gedragslijn:** enkele last tot het verrichten van bepaalde handelingen ter bevordering van de naleving van wettelijke voorschriften die niet wegens een overtreding wordt opgelegd;
+- *bindende gedragslijn:* enkele last tot het verrichten van bepaalde handelingen ter bevordering van de naleving van wettelijke voorschriften die niet wegens een overtreding wordt opgelegd;
 
-- **distributie:** opslag, transport en levering van elektriciteit of drinkwater aan afnemers via netten of via transportmiddelen als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-01-01&g=2023-01-01);
+- *distributie:* opslag, transport en levering van elektriciteit of drinkwater aan afnemers via netten of via transportmiddelen als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-01-01&g=2023-01-01);
 
-- **distributeur:** een distributeur van elektriciteit of drinkwater die op grond van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-01-01&g=2023-01-01) is aangewezen;
+- *distributeur:* een distributeur van elektriciteit of drinkwater die op grond van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-01-01&g=2023-01-01) is aangewezen;
 
-- **drinkwater:** water bestemd voor drinken, koken of voedselbereiding, met uitzondering van water dat alleen door omgekeerde osmose is behandeld;
+- *drinkwater:* water bestemd voor drinken, koken of voedselbereiding, met uitzondering van water dat alleen door omgekeerde osmose is behandeld;
 
-- **drinkwaternet:** een leiding of een samenstel van leidingen en daarmee verbonden koppelingen, kleppen en andere technische voorzieningen van een distributeur voor het transport en de levering van drinkwater tot aan een installatie;
+- *drinkwaternet:* een leiding of een samenstel van leidingen en daarmee verbonden koppelingen, kleppen en andere technische voorzieningen van een distributeur voor het transport en de levering van drinkwater tot aan een installatie;
 
-- **elektriciteitsnet:** één of meer verbindingen en de daarmee verbonden transformator-, schakel-, verdeel- en onderstations en andere hulpmiddelen van een distributeur voor het transport en de levering van elektriciteit tot aan een installatie;
+- *elektriciteitsnet:* één of meer verbindingen en de daarmee verbonden transformator-, schakel-, verdeel- en onderstations en andere hulpmiddelen van een distributeur voor het transport en de levering van elektriciteit tot aan een installatie;
 
-- **geïntegreerd bedrijf:** bedrijf of groep van bedrijven waarin zowel productie van elektriciteit of drinkwater als distributie van elektriciteit respectievelijk drinkwater plaatsvindt;
+- *geïntegreerd bedrijf:* bedrijf of groep van bedrijven waarin zowel productie van elektriciteit of drinkwater als distributie van elektriciteit respectievelijk drinkwater plaatsvindt;
 
-- **hernieuwbare elektriciteit:** elektriciteit, opgewekt in een productie-installatie die uitsluitend gebruik maakt van wind, zonne-energie, omgevingslucht, oppervlaktewater en aardwarmte, energie uit de oceanen, waterkracht, biomassa, stortgas, rioolwaterzuiveringsgas of biogas;
+- *hernieuwbare elektriciteit:* elektriciteit, opgewekt in een productie-installatie die uitsluitend gebruik maakt van wind, zonne-energie, omgevingslucht, oppervlaktewater en aardwarmte, energie uit de oceanen, waterkracht, biomassa, stortgas, rioolwaterzuiveringsgas of biogas;
 
-- **installatie:** materieel dat, leidingen die en toestellen die:
+- *installatie:* materieel dat, leidingen die en toestellen die:
 
-- a. onderling duurzaam zijn verbonden,
+   - a. onderling duurzaam zijn verbonden,
 
-- b. zijn bestemd voor of ten dienste staan aan het verbruik, de opslag of de productie van elektriciteit of drinkwater,
+   - b. zijn bestemd voor of ten dienste staan aan het verbruik, de opslag of de productie van elektriciteit of drinkwater,
 
-- c. worden gebruikt of beheerd door een afnemer of een producent en
+   - c. worden gebruikt of beheerd door een afnemer of een producent en
 
-- d. zich ten opzichte van het net bevinden achter de voorzieningen die het net beveiligen of, voor drinkwater, zijn gelegen binnen een woning of ander gebouw;
+   - d. zich ten opzichte van het net bevinden achter de voorzieningen die het net beveiligen of, voor drinkwater, zijn gelegen binnen een woning of ander gebouw;
 
-- **net:** een elektriciteitsnet of een drinkwaternet;
+- *net:* een elektriciteitsnet of een drinkwaternet;
 
-- **nooddrinkwater:** drinkwater dat bij een verstoring die langer duurt dan 24 uur ter beschikking wordt gesteld aan afnemers;
+- *nooddrinkwater:* drinkwater dat bij een verstoring die langer duurt dan 24 uur ter beschikking wordt gesteld aan afnemers;
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat voor zover het elektriciteit betreft of Onze Minister van Infrastructuur en Waterstaat voor zover het drinkwater betreft, tenzij anders bepaald;
+- *Onze Minister:* Onze Minister van Economische Zaken en Klimaat voor zover het elektriciteit betreft of Onze Minister van Infrastructuur en Waterstaat voor zover het drinkwater betreft, tenzij anders bepaald;
 
-- **openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- *openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- **producent:** producent van elektriciteit of drinkwater die op grond van [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-01-01&g=2023-01-01), een vergunning heeft gekregen;
+- *producent:* producent van elektriciteit of drinkwater die op grond van [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-01-01&g=2023-01-01), een vergunning heeft gekregen;
 
-- **productie van drinkwater:** bereiding en daarmee verband houdende opslag en transport van drinkwater tot aan het punt van levering aan een distributeur;
+- *productie van drinkwater:* bereiding en daarmee verband houdende opslag en transport van drinkwater tot aan het punt van levering aan een distributeur;
 
-- **toezichthouder:** door de Autoriteit Consument en Markt aangewezen toezichthouder of de krachtens [artikel 6.2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-01-01&g=2023-01-01), aangewezen toezichthouder;
+- *toezichthouder:* door de Autoriteit Consument en Markt aangewezen toezichthouder of de krachtens [artikel 6.2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-01-01&g=2023-01-01), aangewezen toezichthouder;
 
-- **verstoring:** uitval of aantasting van de productie of distributie van elektriciteit of drinkwater, waardoor de continuïteit van de distributie van elektriciteit of drinkwater wordt verbroken of in gevaar komt;
+- *verstoring:* uitval of aantasting van de productie of distributie van elektriciteit of drinkwater, waardoor de continuïteit van de distributie van elektriciteit of drinkwater wordt verbroken of in gevaar komt;
 
-- **woninginstallatie:** op een drinkwaternet aangesloten installatie die deel uitmaakt van een woning.
+- *woninginstallatie:* op een drinkwaternet aangesloten installatie die deel uitmaakt van een woning.
 
 ##### Artikel 1.2
 
@@ -183,7 +154,7 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 ##### Artikel 2.5
 
-1. De Autoriteit Consument en Markt stelt op 1 januari van ieder jaar, op voorstel van een producent, de productieprijs vast die deze producent ten hoogste zal berekenen aan een distributeur voor de geproduceerde elektriciteit of voor het geproduceerde drinkwater.
+1. De Autoriteit Consument en Markt stelt op 1 januari van ieder jaar, op voorstel van een producent, de productieprijs vast die deze producent ten hoogste zal berekenen aan een distributeur voor de geproduceerde elektriciteit of voor het geproduceerde drinkwater.
 
 2. In afwijking van het eerste lid wordt geen productieprijs voor drinkwater vastgesteld voor het openbaar lichaam Saba.
 
@@ -195,7 +166,7 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 6. Indien er sprake is van een geïntegreerd bedrijf vindt op basis van de in het eerste lid bedoelde prijs interne verrekening plaats.
 
-7. Indien op 1 januari de productieprijs nog niet is vastgesteld, geldt de laatst vastgestelde productieprijs tot de datum van inwerkingtreding van het besluit tot vaststelling van de productieprijs.
+7. Indien op 1 januari de productieprijs nog niet is vastgesteld, geldt de laatst vastgestelde productieprijs tot de datum van inwerkingtreding van het besluit tot vaststelling van de productieprijs.
 
 8. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de procedure en de elementen en de wijze van berekening van de productieprijs, bedoeld in dit artikel.
 
@@ -395,9 +366,9 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 6. De Autoriteit Consument en Markt hanteert voor de vaststelling van de tarieven een methode ter bevordering van een doelmatige bedrijfsvoering.
 
-7. De tarieven treden in werking op een door de Autoriteit Consument en Markt te bepalen datum en gelden tot 1 januari van het jaar volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven met uitzondering van het variabel gebruikstarief dat op 1 januari en 1 juli van ieder kalenderjaar kan worden vastgesteld.
+7. De tarieven treden in werking op een door de Autoriteit Consument en Markt te bepalen datum en gelden tot 1 januari van het jaar volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven met uitzondering van het variabel gebruikstarief dat op 1 januari en 1 juli van ieder kalenderjaar kan worden vastgesteld.
 
-8. Indien op 1 januari de tarieven voor dat jaar nog niet zijn vastgesteld, gelden de laatst vastgestelde tarieven tot de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven voor het volgende jaar.
+8. Indien op 1 januari de tarieven voor dat jaar nog niet zijn vastgesteld, gelden de laatst vastgestelde tarieven tot de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven voor het volgende jaar.
 
 9. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de procedure en de elementen en de wijze van berekening van de tarieven, bedoeld in dit artikel.
 
@@ -449,7 +420,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 2. Voor op het net ingevoede elektriciteit wordt bij ministeriële regeling een terugleververgoeding of een methode tot vaststelling van die vergoeding door de Autoriteit Consument en Markt vastgesteld, die kan verschillen voor categorieën afnemers of naar openbaar lichaam, en die ten minste nul USD per kWh bedraagt en maximaal gelijk is aan de energiekosten van de productieprijs, bedoeld in [artikel 2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2023-01-01&g=2023-01-01).
 
-3. Indien de hoeveelheid op het net ingevoede elektriciteit in de periode van 1 januari tot 1 juli of van 1 juli tot en met 31 december van een kalenderjaar groter is dan de aan het net onttrokken elektriciteit in die periode, ontvangt een afnemer voor het meerdere geen vergoeding.
+3. Indien de hoeveelheid op het net ingevoede elektriciteit in de periode van 1 januari tot 1 juli of van 1 juli tot en met 31 december van een kalenderjaar groter is dan de aan het net onttrokken elektriciteit in die periode, ontvangt een afnemer voor het meerdere geen vergoeding.
 
 4. Een distributeur heeft, in aanvulling op [artikel 3.5, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-01-01&g=2023-01-01), tot taak om bij een afnemer als bedoeld in het eerste lid, voor rekening van die afnemer, een meetinrichting te installeren die het actuele elektriciteitsverbruik kan weergeven en die informatie kan geven over daadwerkelijk verbruik en invoeding.
 
@@ -671,11 +642,11 @@ De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&art
 
 ##### Artikel 7.1
 
-Wijzigt het Wetboek van Strafrecht BES.
+*Wijzigt het Wetboek van Strafrecht BES.*
 
 ##### Artikel 7.2
 
-Wijzigt het Burgerlijk Wetboek BES Boek 5.
+*Wijzigt het Burgerlijk Wetboek BES Boek 5.*
 
 ##### Artikel 7.3
 
@@ -683,11 +654,11 @@ In aanvulling op [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 7.4
 
-1. Diegenen die op 1 juli 2016 reeds elektriciteit of drinkwater produceerden of distribueerden en op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2023-01-01&g=2023-01-01) vergunningplichtig zijn geworden of op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-01-01&g=2023-01-01) een aanwijzing nodig hebben, vragen voor 1 juli 2026 dan wel, indien die datum verstreken is, binnen een door Onze Minister te bepalen termijn van ten hoogste een jaar na die datum, een vergunning aan als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-01-01&g=2023-01-01) of een aanwijzing als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-01-01&g=2023-01-01). De artikelen 2.1, eerste lid, en 3.1, eerste lid, zijn niet van toepassing op de in de eerste zin bedoelde personen tot het tijdstip waarop onherroepelijk op de aanvraag is beslist.
+1. Diegenen die op 1 juli 2016 reeds elektriciteit of drinkwater produceerden of distribueerden en op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2023-01-01&g=2023-01-01) vergunningplichtig zijn geworden of op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-01-01&g=2023-01-01) een aanwijzing nodig hebben, vragen voor 1 juli 2026 dan wel, indien die datum verstreken is, binnen een door Onze Minister te bepalen termijn van ten hoogste een jaar na die datum, een vergunning aan als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-01-01&g=2023-01-01) of een aanwijzing als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-01-01&g=2023-01-01). De artikelen 2.1, eerste lid, en 3.1, eerste lid, zijn niet van toepassing op de in de eerste zin bedoelde personen tot het tijdstip waarop onherroepelijk op de aanvraag is beslist.
 
 2. Onverminderd het eerste lid geldt voor de in dat lid bedoelde rechtspersonen of natuurlijke personen tot het tijdstip waarop onherroepelijk op de aanvraag om een vergunning of aanwijzing is beslist, het bepaalde bij of krachtens deze wet.
 
-3. Indien een distributeur op 1 juli 2016 niet voldeed aan de eis, bedoeld in [artikel 3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2023-01-01&g=2023-01-01), voldoet deze distributeur, in afwijking van het tweede lid, voor 1 juli 2026 dan wel, indien die datum verstreken is, binnen een door Onze Minister te bepalen termijn van ten hoogste een jaar na die datum aan de betreffende eis.
+3. Indien een distributeur op 1 juli 2016 niet voldeed aan de eis, bedoeld in [artikel 3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2023-01-01&g=2023-01-01), voldoet deze distributeur, in afwijking van het tweede lid, voor 1 juli 2026 dan wel, indien die datum verstreken is, binnen een door Onze Minister te bepalen termijn van ten hoogste een jaar na die datum aan de betreffende eis.
 
 ##### Artikel 7.5
 
@@ -695,7 +666,7 @@ Het beleid, bedoeld in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1
 
 ##### Artikel 7.6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7.7
 
@@ -712,5 +683,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 7.10
 
 Deze wet wordt aangehaald als: Wet elektriciteit en drinkwater BES.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

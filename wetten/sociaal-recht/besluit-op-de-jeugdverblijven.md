@@ -1,60 +1,26 @@
 ---
 title: "Besluit van 16 maart 2016, houdende vaststelling van bepalingen omtrent de kwaliteitsvoorschriften met het oog op het bevorderen van de veiligheid, het pedagogisch klimaat en het voorkomen van een ernstige bedreiging voor de ontwikkeling van de minderjarigen in jeugdverblijven (Besluit op de jeugdverblijven)"
+citeertitel: "Besluit op de jeugdverblijven"
 identifier: "BWBR0037863"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037863"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "13481663"
-version_id: "23137112"
-internal_id: "C33439071"
-label_id: "13448724"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037863/2016-07-01/0"
-intitule_bron: "Stb.2016-151"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-16"
-intitule_published: "2016-04-25"
-intitule_in_force: "2016-04-25"
-intitule_status: "goed"
-original_publication: "Stb.2016-151"
-original_signed_date: "2016-03-16"
-original_published_date: "2016-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-151"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0037863&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0037863&g=2016-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit op de jeugdverblijven"
-signed_date: "2016-03-16"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0037863"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 16 maart 2016, houdende vaststelling van bepalingen omtrent de kwaliteitsvoorschriften met het oog op het bevorderen van de veiligheid, het pedagogisch klimaat en het voorkomen van een ernstige bedreiging voor de ontwikkeling van de minderjarigen in jeugdverblijven (Besluit op de jeugdverblijven)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 17 november 2015, nr. 2015-0000282214, gedaan mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Gelet op [artikel 5 van de Wet op de jeugdverblijven](https://wetten.overheid.nl/jci1.3:c:BWBR0037645&artikel=5);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 9 december 2015, no. W12.15.0404/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 14 maart 2016, nr. 2016-0000025155, uitgebracht mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet op de jeugdverblijven in werking treedt.
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- **houder:** degene die een jeugdverblijf in stand houdt;
+- *houder:* degene die een jeugdverblijf in stand houdt;
 
-- **jeugdverblijf:** inrichting, niet door een Nederlandse overheid of krachtens een wettelijk voorschrift bekostigd, waar ten minste vier minderjarigen elk gedurende een half jaar meer dan de helft van de tijd buiten familie- of gezinsverband overnachten of naar verwachting zullen overnachten.
+- *jeugdverblijf:* inrichting, niet door een Nederlandse overheid of krachtens een wettelijk voorschrift bekostigd, waar ten minste vier minderjarigen elk gedurende een half jaar meer dan de helft van de tijd buiten familie- of gezinsverband overnachten of naar verwachting zullen overnachten.
 
 ##### Artikel 2. Missie en visie jeugdverblijf
 
@@ -108,13 +74,13 @@ De kwaliteitsvoorschriften betreffende de veilige en de gezonde werk- en leefomg
 
 - d. op welke wijze omgegaan wordt met:
 
-- 1°. agressie en discriminatie;
+   - 1°. agressie en discriminatie;
 
-- 2°. alcohol en drugs;
+   - 2°. alcohol en drugs;
 
-- 3°. kindermishandeling; en
+   - 3°. kindermishandeling; en
 
-- 4°. pesten; en
+   - 4°. pesten; en
 
 - e. op welke wijze wordt gewaarborgd dat de houder, dan wel diens vervanger, te allen tijde bereikbaar is.
 
@@ -151,5 +117,3 @@ Dit besluit wordt aangehaald als: Besluit op de jeugdverblijven.
 ##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet op de jeugdverblijven](https://wetten.overheid.nl/jci1.3:c:BWBR0037645) in werking treedt.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

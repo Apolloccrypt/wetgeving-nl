@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 25 juni 2016, nr. WJZ/1013167 (7544), inzake het aanwijzen van rijksmonumenten en het wijzigen van het rijksmonumentenregister, bedoeld in artikel 3.1, eerste lid, onderscheidenlijk artikel 3.4 van de Erfgoedwet (Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet)"
+citeertitel: "Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet"
 identifier: "BWBR0038125"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2016-06-30"
-last_updated: "2016-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038125"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "13664033"
-version_id: "23398142"
-internal_id: "C33722841"
-label_id: "13630784"
-dtd_version: "2.0"
-original_entry_into_force: "2016-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038125/2016-06-30/0"
-intitule_bron: "Stcrt.2016-33906"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-25"
-intitule_published: "2016-06-30"
-intitule_in_force: "2016-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-33906"
-original_signed_date: "2016-06-25"
-original_published_date: "2016-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-33906"
-entry_into_force_date: "2016-06-30"
-jci_1_3: "jci1.3:c:BWBR0038125&z=2016-06-30&g=2016-06-30"
-jci_1_0: "1.0:c:BWBR0038125&g=2016-06-30"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet"
-signed_date: "2016-06-25"
-entry_into_force: "2016-06-30"
+publicatiedatum: 2016-06-30
+laatste_update: 2016-06-30
+status: geldig
+toestand: 2016-06-30
+bron: "https://wetten.overheid.nl/BWBR0038125"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 25 juni 2016, nr. WJZ/1013167 (7544), inzake het aanwijzen van rijksmonumenten en het wijzigen van het rijksmonumentenregister, bedoeld in artikel 3.1, eerste lid, onderscheidenlijk artikel 3.4 van de Erfgoedwet (Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1), en [3.4, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.4);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,25 +20,25 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **Minister:** minister van Onderwijs, Cultuur en Wetenschap;
+- *Minister:* minister van Onderwijs, Cultuur en Wetenschap;
 
-- **monument:** monument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
+- *monument:* monument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
 
-- **archeologisch monument:** archeologisch monument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
+- *archeologisch monument:* archeologisch monument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
 
-- **aanwijzingsprogramma:** programma met als doel het op gestructureerde wijze uitbreiden van het rijksmonumentenbestand met een daarin nog niet vertegenwoordigde categorie monumenten of archeologische monumenten aan de hand van een overzicht van monumenten of archeologische monumenten die de Minister voornemens is op grond van [artikel 3.1, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1) aan te wijzen als rijksmonument;
+- *aanwijzingsprogramma:* programma met als doel het op gestructureerde wijze uitbreiden van het rijksmonumentenbestand met een daarin nog niet vertegenwoordigde categorie monumenten of archeologische monumenten aan de hand van een overzicht van monumenten of archeologische monumenten die de Minister voornemens is op grond van [artikel 3.1, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1) aan te wijzen als rijksmonument;
 
-- **rijksmonumentenbestand:** het geheel van in het rijksmonumentenregister ingeschreven rijksmonumenten;
+- *rijksmonumentenbestand:* het geheel van in het rijksmonumentenregister ingeschreven rijksmonumenten;
 
-- **verbeterprogramma:** programma met als doel het rijksmonumentenbestand of rijksmonumentenregister met betrekking tot een bepaalde categorie monumenten of archeologische monumenten op gestructureerde wijze te verbeteren aan de hand van een overzicht van:
+- *verbeterprogramma:* programma met als doel het rijksmonumentenbestand of rijksmonumentenregister met betrekking tot een bepaalde categorie monumenten of archeologische monumenten op gestructureerde wijze te verbeteren aan de hand van een overzicht van:
 
-- a. monumenten of archeologische monumenten die de Minister voornemens is op grond van [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1) aan te wijzen als rijksmonument,
+   - a. monumenten of archeologische monumenten die de Minister voornemens is op grond van [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1) aan te wijzen als rijksmonument,
 
-- b. rijksmonumenten die de Minister voornemens is op grond van [artikel 3.4, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.4) te schrappen uit het rijksmonumentenregister, of
+   - b. rijksmonumenten die de Minister voornemens is op grond van [artikel 3.4, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.4) te schrappen uit het rijksmonumentenregister, of
 
-- c. rijksmonumenten waarvan de Minister voornemens is op grond van [artikel 3.4, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.4) de identificatie in het rijksmonumentenregister te wijzigen.
+   - c. rijksmonumenten waarvan de Minister voornemens is op grond van [artikel 3.4, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.4) de identificatie in het rijksmonumentenregister te wijzigen.
 
-- **waarderingscriteria:** actuele uitwerking van de criteria schoonheid, betekenis voor de wetenschap en cultuurhistorische waarde in [artikel 3.1, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1), zoals gepubliceerd op de website van de Rijksdienst voor het Cultureel Erfgoed.
+- *waarderingscriteria:* actuele uitwerking van de criteria schoonheid, betekenis voor de wetenschap en cultuurhistorische waarde in [artikel 3.1, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1), zoals gepubliceerd op de website van de Rijksdienst voor het Cultureel Erfgoed.
 
 ##### Artikel 2. Reikwijdte beleidsregel
 
@@ -74,9 +48,9 @@ Deze beleidsregel heeft betrekking op de wijze waarop de Minister gebruik maakt 
 
 - b. aanbrengen van wijzigingen in het rijksmonumentenregister, bedoeld in [artikel 3.4 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.4), houdende:
 
-- 1°. het schrappen van een rijksmonument uit het rijksmonumentenregister, of
+   - 1°. het schrappen van een rijksmonument uit het rijksmonumentenregister, of
 
-- 2°. het wijzigen van de identificatie van een rijksmonument.
+   - 2°. het wijzigen van de identificatie van een rijksmonument.
 
 #### Paragraaf 2. Algemene criteria
 
@@ -181,5 +155,3 @@ Deze beleidsregel treedt in werking op het moment dat de [Erfgoedwet](https://we
 ##### Artikel 15. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

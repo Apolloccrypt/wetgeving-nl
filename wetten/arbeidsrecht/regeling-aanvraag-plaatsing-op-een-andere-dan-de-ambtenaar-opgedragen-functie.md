@@ -1,66 +1,52 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 4 juli 2016, nr. DGP/ARBVW 2016-777969, houdende de mogelijkheid tot wijziging van de functie op aanvraag van de ambtenaar"
+citeertitel: "Regeling aanvraag plaatsing op een andere dan de ambtenaar opgedragen functie"
 identifier: "BWBR0038360"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038360"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13716853"
-version_id: "29233982"
-internal_id: "C41532081"
-label_id: "13683304"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038360/2025-04-01/0"
-intitule_bron: "Stcrt.2016-38696"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-07-04"
-intitule_published: "2016-07-25"
-intitule_in_force: "2016-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-4032"
-original_signed_date: "2023-01-26"
-original_published_date: "2023-02-07"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-4032"
-entry_into_force_date: "2023-01-26"
-jci_1_3: "jci1.3:c:BWBR0038360&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0038360&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag plaatsing op een andere dan de ambtenaar opgedragen functie"
-signed_date: "2023-01-26"
-entry_into_force: "2023-01-26"
+publicatiedatum: 2023-01-26
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0038360"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 4 juli 2016, nr. DGP/ARBVW 2016-777969, houdende de mogelijkheid tot wijziging van de functie op aanvraag van de ambtenaar
-
-Gelet op [artikel 6, negende lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **aandachtsgebied:** het aandachtsgebied, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. *aandachtsgebied:* het aandachtsgebied, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- b. **aanvraag:** de aanvraag, bedoeld in [artikel 6, negende lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6);
+- b. *aanvraag:* de aanvraag, bedoeld in [artikel 6, negende lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6);
 
-- c. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- c. *ambtenaar:* de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- d. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- d. *bevoegd gezag:* het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- e. **functie:** een functie als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- e. *functie:* een functie als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- f. **LFNP:** Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- f. *LFNP:* Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- g. **specifieke functionaliteit:** de specifieke functionaliteit, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- g. *specifieke functionaliteit:* de specifieke functionaliteit, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- h. **werkterrein:** het werkterrein, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- h. *werkterrein:* het werkterrein, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-- i. **wezenlijk afwijken:** het afwijken van de huidige functie, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=1a&z=2025-04-01&g=2025-04-01).
+- i. *wezenlijk afwijken:* het afwijken van de huidige functie, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=1a&z=2025-04-01&g=2025-04-01).
+
+##### Artikel 1a
+
+1. De werkzaamheden van een ambtenaar wijken wezenlijk af van de huidige functie, indien die werkzaamheden:
+
+- a. in overwegende mate voldoen aan de niveaubepalende elementen van een andere functie als omschreven in het onderdeel ‘kern van de functie’ van de betreffende functie, dan wel
+
+- b. overeenkomen met de omschrijving van het werkterrein, het aandachtsgebied of de specifieke functionaliteit behorende bij de huidige functie, zoals opgenomen in [bijlage 4 van de Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4).
+
+2. In het geval niet aan alle in de kern van de functie opgenomen niveaubepalende elementen wordt voldaan, vindt een weging plaats van de in totaliteit verrichte overige functiebestanddelen van de andere functie of het ontbreken van het niveaubepalende element. Daarbij wordt gekeken naar de verrichte werkzaamheden in de context van het werk in de betreffende organisatorische eenheid.
+
+3. Voor de toepassing van het eerste lid, onderdeel a, wordt, indien op grond van bedrijfsvoering argumenten een bepaald functiebestanddeel niet is opgedragen, dit niet in het nadeel van een ambtenaar uitgelegd bij de vaststelling of in overwegende mate aan de niveaubepalende elementen is voldaan. Voor een succesvolle aanvraag geldt de ondergrens dat de kern van de functie in overwegende mate tot uitdrukking is gekomen.
 
 ##### Artikel 2
 
@@ -108,7 +94,7 @@ In individuele gevallen waarin deze regeling niet of niet naar billijkheid voorz
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -117,19 +103,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling aanvraag plaatsing op een andere dan de ambtenaar opgedragen functie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-1. De werkzaamheden van een ambtenaar wijken wezenlijk af van de huidige functie, indien die werkzaamheden:
-
-- a. in overwegende mate voldoen aan de niveaubepalende elementen van een andere functie als omschreven in het onderdeel ‘kern van de functie’ van de betreffende functie, dan wel
-
-- b. overeenkomen met de omschrijving van het werkterrein, het aandachtsgebied of de specifieke functionaliteit behorende bij de huidige functie, zoals opgenomen in [bijlage 4 van de Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4).
-
-2. In het geval niet aan alle in de kern van de functie opgenomen niveaubepalende elementen wordt voldaan, vindt een weging plaats van de in totaliteit verrichte overige functiebestanddelen van de andere functie of het ontbreken van het niveaubepalende element. Daarbij wordt gekeken naar de verrichte werkzaamheden in de context van het werk in de betreffende organisatorische eenheid.
-
-3. Voor de toepassing van het eerste lid, onderdeel a, wordt, indien op grond van bedrijfsvoering argumenten een bepaald functiebestanddeel niet is opgedragen, dit niet in het nadeel van een ambtenaar uitgelegd bij de vaststelling of in overwegende mate aan de niveaubepalende elementen is voldaan. Voor een succesvolle aanvraag geldt de ondergrens dat de kern van de functie in overwegende mate tot uitdrukking is gekomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

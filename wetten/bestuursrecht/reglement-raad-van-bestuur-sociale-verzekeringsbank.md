@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 13 oktober 2016, nr. 2016-0000218858, tot goedkeuring bestuursreglement SVB"
+citeertitel: "Reglement Raad van bestuur Sociale verzekeringsbank"
 identifier: "BWBR0038636"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-10-27"
-last_updated: "2016-10-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038636"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "13773433"
-version_id: "23620052"
-internal_id: "C33994411"
-label_id: "13739774"
-dtd_version: "2.0"
-original_entry_into_force: "2016-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038636/2016-10-27/0"
-intitule_bron: "Stcrt.2016-56129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-05"
-intitule_published: "2016-10-25"
-intitule_in_force: "2016-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-56129"
-original_signed_date: "2016-09-05"
-original_published_date: "2016-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-56129"
-entry_into_force_date: "2016-10-27"
-jci_1_3: "jci1.3:c:BWBR0038636&z=2016-10-27&g=2016-10-27"
-jci_1_0: "1.0:c:BWBR0038636&g=2016-10-27"
-citeertitel_status: "officieel"
-short_title: "Reglement Raad van bestuur Sociale verzekeringsbank"
-signed_date: "2016-09-05"
-entry_into_force: "2016-10-27"
+publicatiedatum: 2016-10-27
+laatste_update: 2016-10-27
+status: geldig
+toestand: 2016-10-27
+bron: "https://wetten.overheid.nl/BWBR0038636"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 13 oktober 2016, nr. 2016-0000218858, tot goedkeuring bestuursreglement SVB
-
-Gelet op [artikel 6, zesde lid, van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) en [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **de wet:** de [Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
+- a. *de wet:* de [Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
-- b. **SVB:** de Sociale verzekeringsbank als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3);
+- b. *SVB:* de Sociale verzekeringsbank als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3);
 
-- c. **Raad van bestuur:** de Raad van bestuur van de SVB als bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
+- c. *Raad van bestuur:* de Raad van bestuur van de SVB als bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
 
-- d. **voorzitter:** het ingevolge [artikel 6, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) als zodanig benoemde lid van de Raad van bestuur;
+- d. *voorzitter:* het ingevolge [artikel 6, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) als zodanig benoemde lid van de Raad van bestuur;
 
-- e. **lid:** het ingevolge [artikel 6, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) als zodanig maar niet als voorzitter benoemde lid van de Raad van bestuur.
+- e. *lid:* het ingevolge [artikel 6, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) als zodanig maar niet als voorzitter benoemde lid van de Raad van bestuur.
 
 ##### Artikel 2
 
@@ -98,9 +72,9 @@ In dit bestuursreglement wordt verstaan onder:
 
 - 3. Kan tijdens een periode van vervanging als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038636&artikel=4&z=2016-10-27&g=2016-10-27), een financiële transactie met een waarde van meer dan € 1 miljoen geen uitstel lijden, dan wordt voor de financiële verplichting getekend:
 
-- a. bij een drie- of meerhoofdige Raad van bestuur door twee leden; en
+   - a. bij een drie- of meerhoofdige Raad van bestuur door twee leden; en
 
-- b. bij een tweehoofdige Raad van bestuur door het enige andere lid waarbij de in het tweede lid genoemde beperking buiten toepassing blijft. In dit geval wordt van dergelijke transacties door of namens de Directeur Finance & Control melding gedaan aan de voorzitter zo spoedig mogelijk na diens terugkeer en uiterlijk voor de eerstvolgende vergadering van de Raad van bestuur waarbij de voorzitter weer aanwezig is.
+   - b. bij een tweehoofdige Raad van bestuur door het enige andere lid waarbij de in het tweede lid genoemde beperking buiten toepassing blijft. In dit geval wordt van dergelijke transacties door of namens de Directeur Finance & Control melding gedaan aan de voorzitter zo spoedig mogelijk na diens terugkeer en uiterlijk voor de eerstvolgende vergadering van de Raad van bestuur waarbij de voorzitter weer aanwezig is.
 
 ##### Artikel 7
 

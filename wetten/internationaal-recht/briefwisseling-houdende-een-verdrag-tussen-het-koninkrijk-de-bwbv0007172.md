@@ -8,7 +8,7 @@ laatste_update: 2026-08-10
 status: geldig
 toestand: 2026-08-10
 bron: "https://wetten.overheid.nl/BWBV0007172"
-opgehaald: 2026-08-23
+opgehaald: 2026-08-24
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap (IAEA) inzake de “Regional Training Course on Practical Aspects of Paediatric Radiotherapy: Module I”, te Utrecht, Nederland, van 9 tot en met 13 november 2026

@@ -1,43 +1,17 @@
 ---
 title: "Beleidsregel ontheffing gerelateerde voertuigdocumenten 2016"
 identifier: "BWBR0038343"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038343"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13712553"
-version_id: "23492482"
-internal_id: "C33832341"
-label_id: "13679234"
-dtd_version: "2.0"
-original_entry_into_force: "2016-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038343/2020-01-01/0"
-intitule_bron: "Stcrt.2016-38296"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-07-11"
-intitule_published: "2016-07-21"
-intitule_in_force: "2016-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-38296"
-original_signed_date: "2016-07-11"
-original_published_date: "2016-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-38296"
-entry_into_force_date: "2016-08-01"
-jci_1_3: "jci1.3:c:BWBR0038343&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0038343&g=2020-01-01"
-citeertitel_status: "officieel"
-signed_date: "2016-07-11"
-entry_into_force: "2016-08-01"
+publicatiedatum: 2016-08-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0038343"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregel ontheffing gerelateerde voertuigdocumenten 2016
-
-Gelet op [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48) en [artikel 149a, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), [artikel 4:83 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:83), het [Besluit Voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554), [artikel 4, vierde lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), het [Besluit ontheffing verlening exceptioneel vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0018680) en de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -47,25 +21,25 @@ Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de [Reg
 
 Voorts wordt verstaan onder:
 
-- a. **ballasttrekker:** een voertuig van de categorie N waarbij uit het kentekenbewijs blijkt dat het voertuig is ingericht voor trekker en vrachtwagen, en waarbij het voertuig minimaal is voorzien van 3 assen, waarvan ten minste 2 assen aangedreven;
+- a. *ballasttrekker:* een voertuig van de categorie N waarbij uit het kentekenbewijs blijkt dat het voertuig is ingericht voor trekker en vrachtwagen, en waarbij het voertuig minimaal is voorzien van 3 assen, waarvan ten minste 2 assen aangedreven;
 
-- b. **buitenlands voertuig:** voertuig waarbij het kenteken van het trekkend motorrijtuig dan wel het getrokken voertuig door een andere staat dan Nederland is afgegeven;
+- b. *buitenlands voertuig:* voertuig waarbij het kenteken van het trekkend motorrijtuig dan wel het getrokken voertuig door een andere staat dan Nederland is afgegeven;
 
-- c. **compenserend asstel:** een asstel dat zodanig is geconstrueerd, dat de aslasten een compenserend gedrag vertonen ten opzichte van elkaar;
+- c. *compenserend asstel:* een asstel dat zodanig is geconstrueerd, dat de aslasten een compenserend gedrag vertonen ten opzichte van elkaar;
 
-- d. **dieplader:** een open voertuig van de categorie O3 of O4, waarvan het grotendeels verlaagde laadvlak aansluitend en over de gehele breedte moet zijn uitgevoerd, en zich op gelijke of nagenoeg gelijke hoogte dan wel lager dan de assen boven het wegdek bevindt, maar niet hoger dan 0,70 m, gemeten van wegdek tot bovenkant laadvlak, uitsluitend of hoofdzakelijk ontworpen, gebouwd of gebruikt voor het vervoer van ondeelbare lading;
+- d. *dieplader:* een open voertuig van de categorie O3 of O4, waarvan het grotendeels verlaagde laadvlak aansluitend en over de gehele breedte moet zijn uitgevoerd, en zich op gelijke of nagenoeg gelijke hoogte dan wel lager dan de assen boven het wegdek bevindt, maar niet hoger dan 0,70 m, gemeten van wegdek tot bovenkant laadvlak, uitsluitend of hoofdzakelijk ontworpen, gebouwd of gebruikt voor het vervoer van ondeelbare lading;
 
-- e. **getrokken werktuig:** voertuig van de categorie O4 ingericht voor het uitvoeren van in hoofdzaak andere werkzaamheden dan het vervoer van goederen of personen, en niet zijnde ingericht als kermis- of circusvoertuig;
+- e. *getrokken werktuig:* voertuig van de categorie O4 ingericht voor het uitvoeren van in hoofdzaak andere werkzaamheden dan het vervoer van goederen of personen, en niet zijnde ingericht als kermis- of circusvoertuig;
 
-- f. **kermis- en circusvoertuig;** voertuig niet zijnde een voertuig op rupsbanden, dat uitsluitend wordt gebruikt voor de feitelijke exploitatie van een kermis- of circusbedrijf;
+- f. *kermis- en circusvoertuig;* voertuig niet zijnde een voertuig op rupsbanden, dat uitsluitend wordt gebruikt voor de feitelijke exploitatie van een kermis- of circusbedrijf;
 
-- g. **modulair voertuig:** een voertuig dat bestaat uit koppelbare en uitwisselbare modules, waarmee verschillende voertuigconfiguraties kunnen worden samengesteld, en waarmee alleen met een geldige ontheffing gebruik van de openbare weg mag worden gemaakt;
+- g. *modulair voertuig:* een voertuig dat bestaat uit koppelbare en uitwisselbare modules, waarmee verschillende voertuigconfiguraties kunnen worden samengesteld, en waarmee alleen met een geldige ontheffing gebruik van de openbare weg mag worden gemaakt;
 
-- h. **ontheffingsattest:** een document waar de technische waarden voor een voertuig van de categorie N op wordt vermeld ten behoeve van het aanvragen en gebruik van ontheffingen;
+- h. *ontheffingsattest:* een document waar de technische waarden voor een voertuig van de categorie N op wordt vermeld ten behoeve van het aanvragen en gebruik van ontheffingen;
 
-- i. **SERT:** document waar op technische waarden voor 1 of uit meerdere delen samengestelde voertuigen van de categorie O worden vermeld ten behoeve van het aanvragen en gebruik van ontheffingen;
+- i. *SERT:* document waar op technische waarden voor 1 of uit meerdere delen samengestelde voertuigen van de categorie O worden vermeld ten behoeve van het aanvragen en gebruik van ontheffingen;
 
-- j. **principeakkoord:** een document dat wordt afgegeven nadat een beoordeling en onderzoek is uitgevoerd te behoeve van de afgifte van een kenteken als bedoeld in [artikel 48, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48), en een ontheffing als bedoeld in [artikel 149a, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a).
+- j. *principeakkoord:* een document dat wordt afgegeven nadat een beoordeling en onderzoek is uitgevoerd te behoeve van de afgifte van een kenteken als bedoeld in [artikel 48, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48), en een ontheffing als bedoeld in [artikel 149a, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a).
 
 ##### Artikel 2. Toepassingsgebied
 
@@ -117,13 +91,13 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 - e. voertuigen voor kermis- en circusdoeleinden die ingericht zijn als woonruimte voor personen, leefruimte voor dieren of een ondeelbare attractie voor:
 
-- 1°. aanhangwagens, niet zijnde opleggers met een lengte boven de 14,00 m, en
+   - 1° aanhangwagens, niet zijnde opleggers met een lengte boven de 14,00 m, en
 
-- 2°. opleggers met een afstand hart koppeling tot achterzijde boven de 17,50 m, en
+   - 2° opleggers met een afstand hart koppeling tot achterzijde boven de 17,50 m, en
 
-- 3°. aanhangwagens met een breedte tussen de 2,55 m en 3,00 m, en
+   - 3° aanhangwagens met een breedte tussen de 2,55 m en 3,00 m, en
 
-- 4°. aanhangwagens met aslasten hoger dan de toegestane aslasten volgens de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798).
+   - 4° aanhangwagens met aslasten hoger dan de toegestane aslasten volgens de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798).
 
 2. De in het eerste lid, onder a tot en met e genoemde voertuigen zijn niet hoger te zijn dan 4,00 m.
 
@@ -131,7 +105,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 4. Voor aanhangwagens met een breedte van meer dan 3,00 m wordt geen principe akkoord afgegeven.
 
-##### Artikel 9. Principeakkoord [artikel 8, eerste lid, onder a, b en e onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01).
+##### Artikel 9. Principeakkoord artikel 8, eerste lid, onder a, b en e onder 1° en 2°.
 
 1. Indien een principeakkoord wordt aangevraagd als bedoeld in [artikel 8, eerste lid, onder a, b en e onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01) moeten de volgende stukken worden overlegd:
 
@@ -153,7 +127,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 2. Indien de aanvraag betrekking heeft op een buitenlands voertuig moet, naast de in het eerste lid genoemde documenten, tevens worden overgelegd het door de buitenlandse autoriteiten afgegeven kentekenbewijs en een document van de registrerende autoriteiten waaruit de afmetingen van het voertuig blijkt, indien deze gegevens niet op buitenlands kentekenbewijs staan vermeld.
 
-##### Artikel 10. Principeakkoord [artikel 8, eerste lid, onder c en e onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01)
+##### Artikel 10. Principeakkoord artikel 8, eerste lid, onder c en e onder 3°
 
 1. Indien een principeakkoord wordt aangevraagd als bedoeld in [artikel 8, eerste lid, onder c en e onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01) moeten de volgende stukken worden overlegd:
 
@@ -173,7 +147,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 2. Indien de aanvraag betrekking heeft op een buitenlands voertuig moet, naast de in het eerste lid genoemde documenten, tevens worden overgelegd het door de buitenlandse autoriteiten afgegeven kentekenbewijs en een document van de registrerende autoriteiten waaruit de afmetingen van het voertuig blijken, indien deze gegevens niet op buitenlands kentekenbewijs staan vermeld.
 
-##### Artikel 11. Principeakkoord [artikel 8, eerste lid, onder d en e onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01)
+##### Artikel 11. Principeakkoord artikel 8, eerste lid, onder d en e onder 4°
 
 1. Indien een principeakkoord wordt aangevraagd als bedoeld in [artikel 8, eerste lid, onder d en e onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01) moeten de volgende stukken worden overlegd:
 
@@ -213,9 +187,9 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 1. Indien het een aanvraag van een getrokken voertuig, niet zijnde werktuig of kermis- en circusvoertuig betreft, waarbij in onbeladen toestand niet wordt voldaan aan [artikel 5.12.6, derde lid van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.6), geldt het volgende:
 
-- a. een oplegger voor ondeelbare lading waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, moet zijn voorzien van gedwongen besturing volgens ECE reglement R79 of [richtlijn 70/311/EEG](31970L0311);
+- a. een oplegger voor ondeelbare lading waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, moet zijn voorzien van gedwongen besturing volgens ECE reglement R79 of richtlijn 70/311/EEG;
 
-- b. een oplegger voor vervoer ballastdelen voor een mobiele kraan waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, moet zijn voorzien van gedwongen besturing volgens ECE reglement R79 of [richtlijn 70/311/EEG](31970L0311);
+- b. een oplegger voor vervoer ballastdelen voor een mobiele kraan waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, moet zijn voorzien van gedwongen besturing volgens ECE reglement R79 of richtlijn 70/311/EEG;
 
 - c. een aanhangwagen voor ondeelbare lading, niet zijnde een oplegger waarbij de totale lengte van de aanhangwagen meer bedraagt dan 12,00 m dient uitgevoerd te zijn als dieplader.
 
@@ -225,7 +199,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 - b. een aanhangwagen als bedoeld in het eerste lid, onder c, en een bedrijfsauto waarbij de totale lengte van de voertuigen maximaal 22,00 m is, wordt geacht te voldoen aan de draaiproefeisen in [bijlage A, artikel 12 van de Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A);
 
-- c. een aanhangwagen als bedoeld in het eerste lid, onder c, en een bedrijfsauto waarbij de totale lengte van de voertuigen meer dan 22,00 m bedraagt, moet zijn voorzien van gedwongen dan wel zelfsturende besturing achterassen volgens ECE reglement R79 of [richtlijn 70/311/EEG](31970L0311), en wordt geacht bedoeld in [bijlage A, artikel 12 van de Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A).
+- c. een aanhangwagen als bedoeld in het eerste lid, onder c, en een bedrijfsauto waarbij de totale lengte van de voertuigen meer dan 22,00 m bedraagt, moet zijn voorzien van gedwongen dan wel zelfsturende besturing achterassen volgens ECE reglement R79 of richtlijn 70/311/EEG, en wordt geacht bedoeld in [bijlage A, artikel 12 van de Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A).
 
 3. Aanhangwagens waarbij niet wordt voldaan aan [artikel 5.12.6, zesde lid van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.6) mag de breedte niet worden veroorzaakt door de breedte van de as of het asstel.
 
@@ -239,9 +213,9 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 - c. een aanhangwagen, niet zijnde oplegger,uitgevoerd als getrokken werktuig waarbij de totale lengte meer dan 12,00 m bedraagt en een bedrijfsauto waarbij de totale lengte van de voertuigen maximaal 27,00 m bedraagt, moet ten minste voldoen aan de draaiproefeisen als bedoeld in [bijlage A, artikel 12 van de Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A);
 
-- d. een oplegger, uitgevoerd als getrokken voertuig waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, en een trekker waarbij de totale lengte van de voertuigen meer dan 27,00 m bedraagt, moet zijn voorzien van zijn voorzien van gedwongen besturing volgens ECE reglement R79 of [richtlijn 70/311/EEG](31970L0311);
+- d. een oplegger, uitgevoerd als getrokken voertuig waarbij de afstand tussen hart koppeling en achterzijde meer dan 12,00 m bedraagt, en een trekker waarbij de totale lengte van de voertuigen meer dan 27,00 m bedraagt, moet zijn voorzien van zijn voorzien van gedwongen besturing volgens ECE reglement R79 of richtlijn 70/311/EEG;
 
-- e. een aanhangwagen, niet zijnde oplegger uitgevoerd als getrokken werktuig waarbij de totale lengte meer dan 12,00 m bedraagt en een bedrijfsauto waarbij de totale lengte van de voertuigen meer dan 27,00 m bedraagt, moet zijn voorzien van zijn voorzien van gedwongen besturing dan wel zelfsturende besturing achterassen volgens ECE reglement R79 of [richtlijn 70/311/EEG](31970L0311).
+- e. een aanhangwagen, niet zijnde oplegger uitgevoerd als getrokken werktuig waarbij de totale lengte meer dan 12,00 m bedraagt en een bedrijfsauto waarbij de totale lengte van de voertuigen meer dan 27,00 m bedraagt, moet zijn voorzien van zijn voorzien van gedwongen besturing dan wel zelfsturende besturing achterassen volgens ECE reglement R79 of richtlijn 70/311/EEG.
 
 2. Bij een getrokken werktuig waarbij niet wordt voldaan aan [artikel 5.12.6, zesde lid van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.6) mag de breedte niet worden veroorzaakt door de breedte van de as of het asstel.
 
@@ -263,9 +237,9 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 - c. een aanhangwagen, niet zijnde oplegger uitgevoerd als kermis- of circusvoertuig waarbij de totale lengte meer dan 14,00 m bedraagt en een bedrijfsauto waarbij de totale lengte van de voertuigen maximaal 27,00 m bedraagt, moet ten minste voldoen aan de draaiproefeisen als bedoeld in [bijlage A, artikel 12 van de Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A).
 
-- d. een oplegger, uitgevoerd als kermis- of circusvoertuig waarbij de afstand tussen hart koppeling en achterzijde meer dan 17,50 m bedraagt, en een trekker waarbij de totale lengte van de voertuigen meer dan 27,00 m bedraagt, moet zijn voorzien van zijn voorzien van gedwongen besturing volgens ECE reglement R79 of [richtlijn 70/311/EEG](31970L0311);
+- d. een oplegger, uitgevoerd als kermis- of circusvoertuig waarbij de afstand tussen hart koppeling en achterzijde meer dan 17,50 m bedraagt, en een trekker waarbij de totale lengte van de voertuigen meer dan 27,00 m bedraagt, moet zijn voorzien van zijn voorzien van gedwongen besturing volgens ECE reglement R79 of richtlijn 70/311/EEG;
 
-- e. een aanhangwagen, uitgevoerd als kermis- of circusvoertuig waarbij de totale lengte meer dan 14,00 m bedraagt en een bedrijfsauto waarbij de totale lengte van de voertuigen meer dan 27,00 m bedraagt, moet zijn voorzien van zijn voorzien van gedwongen besturing dan wel zelfsturende besturing achterassen volgens ECE reglement R79 of [richtlijn 70/311/EEG](31970L0311).
+- e. een aanhangwagen, uitgevoerd als kermis- of circusvoertuig waarbij de totale lengte meer dan 14,00 m bedraagt en een bedrijfsauto waarbij de totale lengte van de voertuigen meer dan 27,00 m bedraagt, moet zijn voorzien van zijn voorzien van gedwongen besturing dan wel zelfsturende besturing achterassen volgens ECE reglement R79 of richtlijn 70/311/EEG.
 
 2. Bij een getrokken kermis- of circusvoertuig waarbij niet wordt voldaan aan [artikel 5.12.6, zesde lid van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.6) mag de breedte niet worden veroorzaakt door de breedte van de as of het asstel.
 
@@ -283,19 +257,19 @@ Indien een aanvraag ontheffingsattest wordt ingediend moeten de volgende documen
 
 - 1. Een volledig ingevulde en ondertekende zwaar transport verklaring van de fabrikant / importeur die ten minste de volgende gegevens bevat:
 
-- a. typegoedkeuringsgegevens voertuig categorie N;
+   - a. typegoedkeuringsgegevens voertuig categorie N;
 
-- b. kenteken / VIN voertuig categorie N;
+   - b. kenteken / VIN voertuig categorie N;
 
-- c. garantie van de maximale technische aslasten, maximum totaal gewicht en maximum samenstel van het voertuig;
+   - c. garantie van de maximale technische aslasten, maximum totaal gewicht en maximum samenstel van het voertuig;
 
-- d. gegevens van de koppeling en de bevestiging daarvan;
+   - d. gegevens van de koppeling en de bevestiging daarvan;
 
-- e. aandrijfconfiguratie.
+   - e. aandrijfconfiguratie.
 
 - 2. Een remcertificaat waarbij rekening is gehouden met de gegarandeerde aslasten van het voertuig zoals opgenomen in de zwaar transportverklaring;
 
-- 3. Een verklaring wegrijhulpinrichting conform [richtlijn 97/27/EG](31997L0027) of verordening (EU) Nr. 1230/2012 indien van toepassing.
+- 3. Een verklaring wegrijhulpinrichting conform richtlijn 97/27/EG of verordening (EU) Nr. 1230/2012 indien van toepassing.
 
 ##### Artikel 17. Wijze van beoordeling trekker
 
@@ -305,7 +279,7 @@ Indien een aanvraag ontheffingsattest wordt ingediend moeten de volgende documen
 
 3. In afwijking van het tweede lid geldt voor een voertuig met 3 of meer assen, waarbij één enkele as is aangedreven, dat een verhoging van maximaal 25% kan worden verleend:
 
-- a. indien het is voorzien van een wegrijhulpinrichting conform [richtlijn 97/27/EG](31997L0027) of verordening (EU) Nr. 1230/2012 of
+- a. indien het is voorzien van een wegrijhulpinrichting conform richtlijn 97/27/EG of verordening (EU) Nr. 1230/2012 of
 
 - b. indien een staalgeveerde sleepas is gemonteerd en het een compenserend asstel betreft.
 
@@ -337,15 +311,15 @@ SERT documenten kunnen uitsluitend door voertuigfabrikanten worden aangevraagd v
 
 - d. een combinatie van het bepaalde onder a b en c.
 
-##### Artikel 21. Over te leggen documenten [artikel 20, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 21. Over te leggen documenten artikel 20, onder a
 
 Indien een SERT document wordt aangevraagd voor het verhogen van de op het kentekenbewijs vermelde aslasten moeten bij de aanvraag de volgende documenten worden overgelegd:
 
 - a. een door de fabrikant volledig ingevuld aanvraagformulier, en
 
-- b. een goedgekeurd remschema of remberekening volgens ECE reglement R13 of [richtlijn 71/320/EEG](31971L0320), zoals deze gold ten tijde van de datum eerste toelating van het voertuig, zoals vermeld op het Nederlandse kentekenbewijs dan wel het door een andere EU-lidstaat afgegeven kentekenbewijs.
+- b. een goedgekeurd remschema of remberekening volgens ECE reglement R13 of richtlijn 71/320/EEG, zoals deze gold ten tijde van de datum eerste toelating van het voertuig, zoals vermeld op het Nederlandse kentekenbewijs dan wel het door een andere EU-lidstaat afgegeven kentekenbewijs.
 
-##### Artikel 22. Wijze van beoordeling [artikel 20, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 22. Wijze van beoordeling artikel 20, onder a
 
 1. De RDW beoordeelt de op het aanvraagformulier vermelde aslastgaranties geldend bij 80 km/u, aan de hand van de volgende criteria:
 
@@ -353,9 +327,9 @@ Indien een SERT document wordt aangevraagd voor het verhogen van de op het kente
 
 - b. het draagvermogen van de banden, en
 
-- c. de koppelingen volgens ECE reglement R55 of [richtlijn 94/20/EG](31994L0020).
+- c. de koppelingen volgens ECE reglement R55 of richtlijn 94/20/EG.
 
-##### Artikel 23. Over te leggen documenten [artikel 20, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 23. Over te leggen documenten artikel 20, onder b
 
 Indien een SERT document wordt aangevraagd voor het aantonen van de van de technische specificaties van het voertuig ten behoeve van de ontheffingverlening
 
@@ -365,7 +339,7 @@ moeten bij de aanvraag de volgende documenten worden overgelegd:
 
 - b. indien gewenst aanvullende informatie met betrekking tot de aangeleverde specificaties.
 
-##### Artikel 24. Over te leggen documenten [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 24. Over te leggen documenten artikel 20, onder c
 
 1. Indien een SERT document wordt aangevraagd voor configuraties van modulaire voertuigen moeten bij de aanvraag de volgende documenten worden overgelegd:
 
@@ -387,21 +361,21 @@ moeten bij de aanvraag de volgende documenten worden overgelegd:
 
 - b. een schriftelijke door de fabrikant ondertekende verklaring overleggen waaruit blijkt dat hij:
 
-- 1°. aantoonbaar de volle verantwoordelijkheid én aansprakelijkheid op zich neemt voor vanwege technische incompatibiliteit falen van de aan elkaar gekoppelde voertuigdelen, en
+   - 1°. aantoonbaar de volle verantwoordelijkheid én aansprakelijkheid op zich neemt voor vanwege technische incompatibiliteit falen van de aan elkaar gekoppelde voertuigdelen, en
 
-- 2°. de RDW schriftelijk vrijwaart van enige vorm van aansprakelijkheid als na het afgeven van een SERT-verklaring voor een dergelijke combinatie met deze combinatie schade in wat voor vorm dan ook wordt veroorzaakt, en
+   - 2°. de RDW schriftelijk vrijwaart van enige vorm van aansprakelijkheid als na het afgeven van een SERT-verklaring voor een dergelijke combinatie met deze combinatie schade in wat voor vorm dan ook wordt veroorzaakt, en
 
 - c. een bewijs van voldoende verzekering overleggen tegen mogelijke aansprakelijkheidstelling als gevolg van technisch falen van de aan elkaar gekoppelde voertuigen.
 
-##### Artikel 25. Wijze van beoordeling [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 25. Wijze van beoordeling artikel 20, onder c
 
 1. In geval van een aanvraag als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01) hanteert de RDW de volgende beoordelingscriteria:
 
 - a. het bepaalde in [hoofdstuk 5, afdeling 12 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12) met uitzondering van het bepaalde in [artikel 5.12.6. lid 1 tot en met 7 en lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.6);
 
-- b. reactietijd volgens ECE reglement R13 of [richtlijn 71/320/EEG](31971L0320);
+- b. reactietijd volgens ECE reglement R13 of richtlijn 71/320/EEG;
 
-- c. koppeling volgens ECE reglement R55 of [richtlijn 94/20/EG](31994L0020);
+- c. koppeling volgens ECE reglement R55 of richtlijn 94/20/EG;
 
 2. Bij twijfel aan het weggedrag van het (samengestelde) voertuig wordt ter beoordeling hiervan een onderzoek uitgevoerd op een door de RDW aangewezen locatie.
 
@@ -417,7 +391,7 @@ Indien op een reeds afgegeven SERT document voor modulaire voertuigen een aanvul
 
 - b. een afschrift van het eerder afgegeven SERT document.
 
-##### Artikel 27. Over te leggen documenten en wijze van beoordeling [artikel 20, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 27. Over te leggen documenten en wijze van beoordeling artikel 20, onder d
 
 1. Indien een SERT document wordt aangevraagd voor een combinatie van het bepaalde in [artikel 20 onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01) moeten alle in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=21&z=2020-01-01&g=2020-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=23&z=2020-01-01&g=2020-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=24&z=2020-01-01&g=2020-01-01) genoemde gegevens worden overgelegd.
 
@@ -435,18 +409,8 @@ De [Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.over
 
 ##### Artikel 31. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 augustus 2016.
+Deze beleidsregel treedt in werking met ingang van 1 augustus 2016.
 
 ##### Artikel 32. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffing gerelateerde voertuigdocumenten 2016.
-
-## Bijlage A. Modellen documenten zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=2&artikel=7&z=2020-01-01&g=2020-01-01)
-
-### A1. Model Principe akkoord
-
-### A2. Model Ontheffingsattest
-
-### A3. Model SERT document
-
-Deze beleidsregel zal met [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&bijlage=A&z=2020-01-01&g=2020-01-01) en toelichting in de Staatscourant worden geplaatst.

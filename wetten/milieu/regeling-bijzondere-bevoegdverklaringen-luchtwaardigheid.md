@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 13 juni 2016, nr. IENM/BSK-2016/113127, houdende regels inzake bijzondere bevoegdverklaringen met betrekking tot de certificering van personeel voor het onderhoud van luchtvaartuigen (Regeling bijzondere bevoegdverklaringen luchtwaardigheid)"
+citeertitel: "Regeling bijzondere bevoegdverklaringen luchtwaardigheid"
 identifier: "BWBR0038065"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038065"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13652533"
-version_id: "23375232"
-internal_id: "C33694731"
-label_id: "13619394"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038065/2016-07-01/0"
-intitule_bron: "Stcrt.2016-30238"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-13"
-intitule_published: "2016-06-16"
-intitule_in_force: "2016-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-30238"
-original_signed_date: "2016-06-13"
-original_published_date: "2016-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-30238"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0038065&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0038065&g=2016-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling bijzondere bevoegdverklaringen luchtwaardigheid"
-signed_date: "2016-06-13"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0038065"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 13 juni 2016, nr. IENM/BSK-2016/113127, houdende regels inzake bijzondere bevoegdverklaringen met betrekking tot de certificering van personeel voor het onderhoud van luchtvaartuigen (Regeling bijzondere bevoegdverklaringen luchtwaardigheid)
-
-Gelet op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5), [2.5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.5), [2.6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.6), [3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.25), en [3.30, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30), de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=8), en [9, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=9), en de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=18), [19, tweede lid, onderdelen c en g, van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=19);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,17 +20,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **AR:** beoordeling van de luchtwaardigheid van een luchtvaartuig overeenkomstig Part M, subpart I (Airworthiness Review);
+- *AR:* beoordeling van de luchtwaardigheid van een luchtvaartuig overeenkomstig Part M, subpart I (Airworthiness Review);
 
-- **ELA 1-luchtvaartuig:** luchtvaartuig als bedoeld in artikel 2, onder k, van verordening (EU) nr. 1321/2014 (European Light Aircraft);
+- *ELA 1-luchtvaartuig:* luchtvaartuig als bedoeld in artikel 2, onder k, van verordening (EU) nr. 1321/2014 (European Light Aircraft);
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- *minister:* Minister van Infrastructuur en Milieu;
 
-- **Part 66:** deel betreffende onderhoudstechnici en de bevoegdheid tot vrijgave na onderhoud van EASA-luchtvaartuigen (bijlage III bij verordening (EU) 1321/2014);
+- *Part 66:* deel betreffende onderhoudstechnici en de bevoegdheid tot vrijgave na onderhoud van EASA-luchtvaartuigen (bijlage III bij verordening (EU) 1321/2014);
 
-- **Part-66 AML:** bewijs van bevoegdheid voor onderhoudstechnicus als bedoeld in Part 66 van verordening (EU) nr. 1321/2014;
+- *Part-66 AML:* bewijs van bevoegdheid voor onderhoudstechnicus als bedoeld in Part 66 van verordening (EU) nr. 1321/2014;
 
-- **verordening (EU) nr. 1321/2014:** verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU 2014, L 362).
+- *verordening (EU) nr. 1321/2014:* verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU 2014, L 362).
 
 #### § 2. AML
 
@@ -84,9 +58,9 @@ De houder van een AML met de bijzondere bevoegdverklaringen A en B, bedoeld in [
 
 - b. de aanvrager toont aan:
 
-- 1°. dat in de drie jaren, onmiddellijk voorafgaand aan de datum van aanvraag tenminste twee jaren ervaring is verkregen met betrekking tot de werkzaamheden waarvoor de bijzondere bevoegdverklaring is vereist;
+   - 1°. dat in de drie jaren, onmiddellijk voorafgaand aan de datum van aanvraag tenminste twee jaren ervaring is verkregen met betrekking tot de werkzaamheden waarvoor de bijzondere bevoegdverklaring is vereist;
 
-- 2°. dat de werkzaamheden, bedoeld onder 1°, zijn verricht onder toezicht van een houder van een AML of Part-66 AML of een erkende onderhoudsorganisatie als bedoeld in [artikel 29a, eerste lid, onder a, van de Regeling erkenningen luchtwaardigheid 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&artikel=29a).
+   - 2°. dat de werkzaamheden, bedoeld onder 1°, zijn verricht onder toezicht van een houder van een AML of Part-66 AML of een erkende onderhoudsorganisatie als bedoeld in [artikel 29a, eerste lid, onder a, van de Regeling erkenningen luchtwaardigheid 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&artikel=29a).
 
 2. De werkzaamheden, bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038065&paragraaf=2&artikel=2.1&z=2016-07-01&g=2016-07-01), worden op de AML vermeld nadat de aanvrager heeft aangetoond een training voor het calibreren en compenseren van direct afleesbare magnetische kompassen met voldoende resultaat te hebben gevolgd.
 
@@ -150,17 +124,17 @@ De minister kan op aanvraag van een houder van een Part-66 AML toestemming verle
 
 #### § 5. Wijziging andere regelingen
 
-##### Artikel 5.1. (wijziging [Regeling erkenningen luchtwaardigheid 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024682))
+##### Artikel 5.1. (wijziging Regeling erkenningen luchtwaardigheid 2008)
 
-Wijzigt de Regeling erkenningen luchtwaardigheid 2008.
+*Wijzigt de Regeling erkenningen luchtwaardigheid 2008.*
 
-##### Artikel 5.2. (wijziging [Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024639))
+##### Artikel 5.2. (wijziging Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML)
 
-Wijzigt de Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML.
+*Wijzigt de Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML.*
 
 #### § 6. Slotbepalingen
 
-##### Artikel 6.1. (Intrekking [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024644))
+##### Artikel 6.1. (Intrekking Regeling bijzondere bevoegdverklaringen AML en Part-66 AML)
 
 De [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024644) wordt ingetrokken.
 
@@ -171,5 +145,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2016.
 ##### Artikel 6.3. (Citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling bijzondere bevoegdverklaringen luchtwaardigheid.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

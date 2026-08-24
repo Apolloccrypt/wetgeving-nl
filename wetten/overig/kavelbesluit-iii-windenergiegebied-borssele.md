@@ -1,51 +1,41 @@
 ---
 title: "Kavelbesluit III windenergiegebied Borssele"
 identifier: "BWBR0037811"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-09-03"
-last_updated: "2016-09-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037811"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13467053"
-version_id: "23112362"
-internal_id: "C33399711"
-label_id: "13436644"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037811/2016-09-03/0"
-intitule_bron: "Stcrt.2016-14523"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-24"
-intitule_published: "2016-04-08"
-intitule_in_force: "2016-04-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-14523"
-original_signed_date: "2016-03-24"
-original_published_date: "2016-04-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-14523"
-entry_into_force_date: "2016-04-09"
-jci_1_3: "jci1.3:c:BWBR0037811&z=2016-09-03&g=2016-09-03"
-jci_1_0: "1.0:c:BWBR0037811&g=2016-09-03"
-citeertitel_status: "redactioneel"
-signed_date: "2016-03-24"
-entry_into_force: "2016-04-09"
+publicatiedatum: 2016-04-09
+laatste_update: 2016-09-03
+status: geldig
+toestand: 2016-09-03
+bron: "https://wetten.overheid.nl/BWBR0037811"
+opgehaald: 2026-08-24
 ---
+
 # Kavelbesluit III windenergiegebied Borssele
 
 ### I. Besluit
 
 Gelet op de [artikelen 3 tot en met 7 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=3), de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) en de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640), besluit de Minister van Economische Zaken in overeenstemming met de Minister van Infrastructuur en Milieu als volgt:
 
+- – Kavel III wordt aangewezen als locatie voor een windpark met een totaal opgesteld vermogen van minimaal 322 MW tot maximaal 360 MW. De coördinaten van de begrenzing van kavel III zijn weergegeven in [voorschrift 2, eerste lid](https://wetten.overheid.nl/BWBR0037811) bij dit besluit;
+
+- – Het tracé voor de aansluitverbinding tussen het windpark en TenneT Platform Borssele Beta loopt binnen de hiervoor gereserveerde ruimte, waarvan de coördinaten van de begrenzing zijn weergegeven in [voorschrift 2, tweede lid](https://wetten.overheid.nl/BWBR0037811) bij dit besluit;
+
+- – De natuurlijke kenmerken van de gebieden zoals bedoeld in [artikel 19g, eerste lid, van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19g) zullen niet door het kavelbesluit worden aangetast;
+
+- – Van het bepaalde in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=9) en [11 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=11) wordt vrijstelling verleend voor de soorten zoals opgenomen in de tabel in [paragraaf 7.5.8 in de toelichting in deel II](https://wetten.overheid.nl/BWBR0037811) van dit besluit;
+
+- – Aan het kavelbesluit zijn voorschriften verbonden. Deze zijn opgenomen in [deel III](https://wetten.overheid.nl/BWBR0037811) van dit besluit;
+
+- – Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-**’s-Gravenhage, 24 maart 2016**
+*’s-Gravenhage, 24 maart 2016*
 
-**De Minister van Economische Zaken,**
+*De Minister van Economische Zaken,*
 
-**H.G.J. Kamp**
+*H.G.J. Kamp*
 
 ### Rechtsbescherming
 
@@ -67,19 +57,29 @@ Ministerie van Economische Zaken
 
 ### 1.1. Nut en noodzaak
 
-Op grond van [richtlijn 2009/28/EG](32009L0028) van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen1PbEG 2009, L 140 (verder: richtlijn hernieuwbare energie) dient Nederland ervoor te zorgen dat zijn aandeel energie uit hernieuwbare bronnen in 2020 minstens gelijk is aan 14%.
+Op grond van richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen1PbEG 2009, L 140 (verder: richtlijn hernieuwbare energie) dient Nederland ervoor te zorgen dat zijn aandeel energie uit hernieuwbare bronnen in 2020 minstens gelijk is aan 14%.
 
 De Europese doelen voor 2020 zijn:
+
+- • minimaal 20% minder uitstoot van broeikasgassen dan in 1990;
+
+- • 20% van de energie komt uit duurzame energiebronnen, zoals windenergie, zonne-energie, bio-energie en aardwarmte;
+
+- • 20% minder energieverbruik door energiebesparing.
 
 Bij het akkoord over het Klimaat- en Energie Beleidsraamwerk voor 20302Kamerstukken II, 2014/15, 21 501-20, nr. 922 is een Europees bindend doel van 27% hernieuwbare energie afgesproken.
 
 In het Energieakkoord voor duurzame groei3SER, Energieakkoord voor duurzame groei, september 2013 (hierna: Energieakkoord) is afgesproken dat het aandeel duurzame energie stijgt naar 14% in 2020 en 16% in 2023. Specifiek voor windparken op zee is afgesproken dat er 4.450 MW operationeel vermogen in 2023 gerealiseerd is. Windenergie op zee levert daarmee een flinke bijdrage aan het behalen van de kabinetsdoelstelling voor duurzame energie.
 
-Daarnaast is in het Energieakkoord afgesproken dat het kabinet zorg draagt voor een robuust wettelijk kader om de opschaling van windenergie op zee mogelijk te maken. Kortere doorlooptijden en kostenreductie zijn daarbij belangrijke uitgangspunten. De [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) voorziet hierin door een nieuw stelsel van uitgifte van kavels in windenergiegebieden (paragraaf 1.2).
+Daarnaast is in het Energieakkoord afgesproken dat het kabinet zorg draagt voor een robuust wettelijk kader om de opschaling van windenergie op zee mogelijk te maken. Kortere doorlooptijden en kostenreductie zijn daarbij belangrijke uitgangspunten. De [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) voorziet hierin door een nieuw stelsel van uitgifte van kavels in windenergiegebieden ([paragraaf 1.2](https://wetten.overheid.nl/BWBR0037811)).
 
 In de brief aan de Tweede Kamer van 26 september 20144Kamerstukken I/II 2014/15, 33 561, A/nr. 11 (herdruk) is de routekaart aangeboden. In de routekaart is uiteengezet hoe de doelstelling voor windenergie op zee – zoals afgesproken in het Energieakkoord – tijdig gerealiseerd wordt. Gelet op kosteneffectieve en snelle realisatie is in de brief aan de Tweede Kamer aangegeven om te beginnen met het uitgeven van kavels in windenergiegebied Borssele voor 1.400 MW operationeel vermogen.
 
 Daarnaast is in de brief aan de Tweede Kamer aangegeven dat een gecoördineerde netaansluiting leidt tot lagere maatschappelijke kosten en een kleinere impact op de leefomgeving.5DNV GL Publieksversie review ‘Netontwerp en uitrolstrategie TenneT Wind op Zee’ en ECN Publieksversie validatie DNV GL Document ‘Review – Netontwerp en uitrolstrategie TenneT Wind op Zee Het uitgangspunt van de routekaart is dat windenergie op zee het meest kosteneffectief gerealiseerd kan worden door het realiseren van een net op zee, dat aansluit op het bestaande hoogspanningsnet op land. Het net op zee bestaat uit:
+
+- 1. een aantal platforms waarop per platform 700 MW windenergiecapaciteit kan worden aangesloten. Per platform worden twee windparken aangesloten van 350 MW per park. De twee platforms zijn onderling verbonden met een redundantiekabel;
+
+- 2. vier kabelsystemen op zee voor de aanlanding op het landelijke hoogspanningsnet.
 
 Op grond van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755)6Kamerstukken II, 2015/16, 34 401 wordt TenneT aangewezen om het net op zee voor het transport van met windenergie opgewekte elektriciteit naar het landelijke hoogspanningsnet te realiseren en te exploiteren.
 
@@ -97,7 +97,7 @@ Op 14 juli 2015 zijn op grond van [artikel 9 van de Wet windenergie op zee](http
 
 ### 2. Wet- en regelgeving
 
-### 2.1. [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752)
+### 2.1. Wet windenergie op zee
 
 Op grond van [artikel 3 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=3) kan de Minister van Economische Zaken, in overeenstemming met de Minister van Infrastructuur en Milieu, een kavelbesluit nemen. In het kavelbesluit wordt een kavel ten behoeve van een windpark en een tracé voor de aansluitverbinding tussen het windpark en het net op zee van TenneT aangewezen ([artikel 1 Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=1)).
 
@@ -109,23 +109,23 @@ Op grond van [artikel 4 van de Wet windenergie op zee](https://wetten.overheid.n
 
 In dit kavelbesluit wordt bepaald waar een windpark op zee gebouwd mag worden. In een vergunning op grond van [artikelen 12 en verder van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12) wordt vervolgens bepaald welke partij gerechtigd is op een kavel een windpark te bouwen en te exploiteren.
 
-### 2.1.1. [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641)
+### 2.1.1. Natuurbeschermingswet 1998
 
 [Artikel 5 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=5) bepaalt dat de [artikelen 19d](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19d) en [19kc van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19kc) niet van toepassing zijn op projecten of andere handelingen waarop het kavelbesluit van toepassing is. Dit betekent dat een vergunning op grond van de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) niet vereist is voor het bouwen en exploiteren van een windpark.
 
 Daarnaast is in [artikel 5 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=5) bepaald dat [artikel 19j, eerste tot en met derde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19j) en [artikel 19kb van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19kb) van overeenkomstige toepassing zijn. Hieruit volgt dat indien het bouwen en exploiteren van een windpark de kwaliteit van de natuurlijke habitats en de habitats van soorten in een Natura 2000-gebied als bedoeld in de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor het gebied is aangewezen, gelet op de instandhoudingsdoelstellingen voor dat gebied, een Passende Beoordeling moet worden opgesteld. Gelet op de conclusies van de Passende Beoordeling over de gevolgen voor het gebied wordt slechts toestemming gegeven voor het project nadat er zekerheid is verkregen dat het windpark de natuurlijk kenmerken van de betrokken gebieden niet zal aantasten.
 
-### 2.1.2. [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640)
+### 2.1.2. Flora- en faunawet
 
 Uit [artikel 6 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=6) volgt dat de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) van toepassing is op handelingen waarop het kavelbesluit betrekking heeft, maar dat de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=9) en [10 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=10) niet van toepassing zijn op handelingen, voor zover deze betreffen het niet-opzettelijk doden, verwonden, vangen of bemachtigen van dieren of het opzettelijk verontrusten van vogels.
 
 Daarnaast bepaalt [artikel 7 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=7) dat een vrijstelling kan worden verleend voor het bepaalde in [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=9) en [13 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=13). Een vrijstelling wordt pas verleend als geen afbreuk wordt gedaan aan de gunstige staat van instandhouding van de desbetreffende soort en, indien sprake is van een strikt beschermde soort, er geen andere bevredigende oplossing is en minstens één van de belangen wordt gediend die zijn opgenomen in de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) of in de betreffende Europese richtlijnen. Een vrijstelling kan onder beperkingen worden verleend en er kunnen in het kavelbesluit voorschriften aan verbonden worden.
 
-### 2.2. [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458)
+### 2.2. Waterwet
 
 Uit [artikel 6.5, aanhef en onderdeel c van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) in samenhang met [artikel 6.13 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) volgt dat het verboden is om zonder watervergunning werken te plaatsen of te bouwen in de Noordzee. In [artikel 6.5a van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5a) staat dat dit verbod niet van toepassing is op windparken waarop de [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) van toepassing is. Dit betekent dat er geen watervergunning vereist is.
 
-Voor het overige is de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) en daarop gebaseerde regelgeving wel van toepassing. Zo kan op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10) een veiligheidszone ingesteld worden rondom een werk (paragraaf 4.4.) en zijn in het [Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872) regels opgenomen die betrekking hebben op de bouw, de exploitatie en de verwijdering van windparken op zee ([paragraaf 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&paragraaf=6a)).
+Voor het overige is de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) en daarop gebaseerde regelgeving wel van toepassing. Zo kan op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10) een veiligheidszone ingesteld worden rondom een werk ([paragraaf 4.4](https://wetten.overheid.nl/BWBR0037811).) en zijn in het [Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872) regels opgenomen die betrekking hebben op de bouw, de exploitatie en de verwijdering van windparken op zee ([paragraaf 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&paragraaf=6a)).
 
 ### 2.3. Beleidskader
 
@@ -155,7 +155,7 @@ De nota van beantwoording maakt, voor zover de zienswijzen zich richten tegen he
 
 [Artikel 7.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.2) (Wm), bepaalt, dat activiteiten die belangrijke nadelige gevolgen kunnen hebben voor het milieu of ten aanzien waarvan het bevoegd gezag moet beoordelen of zij belangrijke nadelige gevolgen voor het milieu kunnen hebben, bij algemene maatregel van bestuur, het [Besluit milieueffectrapportage](https://wetten.overheid.nl/jci1.3:c:BWBR0006788), worden aangewezen. Bij de voorbereiding van de aangewezen categorieën van plannen en/of besluiten moet een milieueffectrapport (MER) worden gemaakt of moet het bevoegd gezag beoordelen of bij de voorbereiding van de aangewezen categorieën van besluiten een milieueffectrapport moet worden gemaakt.
 
-In [onderdeel D, categorie D22.2, kolom 4 van de bijlage van het Besluit milieueffectrapportage](onbekend) is het kavelbesluit opgenomen. Dit betekent dat windparken met een gezamenlijk vermogen van 15 MW of meer, of bestaande uit 10 windturbines of meer, m.e.r.-beoordelingsplichtig zijn. Dit houdt in dat het bevoegd gezag moet beoordelen of het doorlopen van een project-m.e.r. noodzakelijk is. Deze beoordeling kan echter achterwege blijven nu het Rijk, gezien de aard en schaal van het initiatief, ervoor heeft gekozen om een project-m.e.r. uit te voeren.
+In [onderdeel D, categorie D22.2, kolom 4 van de bijlage van het Besluit milieueffectrapportage](https://wetten.overheid.nl/BWBR0006788) is het kavelbesluit opgenomen. Dit betekent dat windparken met een gezamenlijk vermogen van 15 MW of meer, of bestaande uit 10 windturbines of meer, m.e.r.-beoordelingsplichtig zijn. Dit houdt in dat het bevoegd gezag moet beoordelen of het doorlopen van een project-m.e.r. noodzakelijk is. Deze beoordeling kan echter achterwege blijven nu het Rijk, gezien de aard en schaal van het initiatief, ervoor heeft gekozen om een project-m.e.r. uit te voeren.
 
 Het MER ten behoeve van de kavelbesluiten in het windenergiegebied Borssele is opgesteld in opdracht van de Minister van Economische Zaken, in overeenstemming met de Minister van Infrastructuur en Milieu. Op grond van artikel 7.24, lid 4, aanhef en onder a, van de Wm wordt de uitgebreide m.e.r.-procedure gevolgd. Omdat significante effecten op Natura 2000-gebieden bij het realiseren van windparken in windenergiegebied Borssele niet op voorhand zijn uit te sluiten is ook een Passende Beoordeling opgesteld.
 
@@ -181,6 +181,8 @@ In de routekaart is uiteengezet hoe de doelstelling voor windenergie op zee – 
 
 Het windenergiegebied is gelegen in de exclusieve economische zone (EEZ). De zuidoostgrens van het gebied ligt op 12 nautische mijl (ongeveer 22 kilometer) van de kust.
 
+Figuur 1 Ligging van windenergiegebied Borssele
+
 Het windenergiegebied wordt aan de zuidzijde begrensd door windparken die in de Belgische exclusieve economische zone liggen. Van deze Belgische parken is een aantal al operationeel. Daarnaast zijn enkele parken in voorbereiding. Tussen de Belgische (geplande) windparken en de windparken in windenergiegebied Borssele liggen te zijner tijd twee op elkaar aansluitende veiligheidszones van 500 meter (totaal 1.000 meter).
 
 ### 4.1.2. Windopbrengst en kostenefficiëntie
@@ -193,9 +195,19 @@ Uit dit onderzoek komt het beeld naar voren dat het opwekken van windenergie op 
 
 Tot op heden heeft het gebied meerdere gebruiksfuncties. Er lopen geen scheepvaartroutes door het gebied die onderdeel uitmaken van het verkeersscheidingsstelsel. Het gebied wordt echter wel gebruikt door diverse vormen van scheepvaart, zoals recreatievaart en visserij. Het gebied grenst aan de noordoostkant aan het beloodsingsgebied Steenbank en direct ten oosten van het gebied ligt een zandwingebied. Er liggen kabels en leidingen in het gebied. Er vindt geen olie- en gaswinning plaats. Zie ook onderstaande figuur. De nummers in de figuur verwijzen naar de kabels en leidingen in het gebied.
 
+Figuur 2 Windenergiegebied Borssele met gebruiksfuncties in de directe omgeving
+
 ### 4.1.4. Bodemsamenstelling
 
 In de ondergrond tot 100 meter diep zijn vier units (lagen) geïdentificeerd die bestaan uit respectievelijk:
+
+- • Los tot compact zand;
+
+- • Zeer compact zand met soms stugge klei;
+
+- • Compact tot zeer compact zand
+
+- • Kleiig zand met zeer stugge tot harde klei.12Site Studies Wind Farm Zone Borssele – Geophysical Survey Wind Farm Site III August 2015; Fugro (FSBV) Report No.: GH157-R1 Fugro (FOSPA) Document No.: 687/15-J322
 
 ### 4.1.5. Explosieven
 
@@ -217,6 +229,10 @@ In zijn brief van 19 mei 2015 heeft de minister van Economische Zaken14Kamerstuk
 
 Op basis hiervan wordt het gebied verkaveld in vijf kavels. De vijf deelgebieden samen bieden op deze wijze ruimte voor circa 1.400 MW. De verkaveling is schematisch weergegeven in onderstaande figuur.
 
+Figuur 3. Schematische verkaveling van windenergiegebied Borssele
+
+1
+
 1 De feitelijke ligging van de elektriciteitskabels nabij platform Alpha is gewijzigd maar hier nog niet weergegeven.
 
 Uit onderzoek15Quick scan of energy production and wake losses of the Borssele Wind Farm Zone including losses for nearby Belgian Wind Farms’, ECN-E--15-015, ECN, april 2015 is vast komen te staan dat een opgesteld vermogen van 2.100 MW in het gebied ten opzichte van 1.400 MW relatief ten opzichte van het toegenomen aantal windturbines 6% minder energieopbrengst oplevert. De keuze voor een opgesteld vermogen van 1.400 MW voor het windenergiegebied Borssele voorziet derhalve naar verwachting in een efficiënte benutting van de beschikbare ruimte voor de opwekking van windenergie en is gezien vanuit de opzet om te werken met veelvouden van 700 MW en de uitruil tussen economisch en ecologisch perspectief optimaal. Daarnaast wordt met de keus voor 1.400 MW ook het zog-effect op de Belgische windparken beperkt. In paragraaf 4.1 van het MER is hier een nadere toelichting op gegeven.
@@ -225,15 +241,23 @@ Uit onderzoek15Quick scan of energy production and wake losses of the Borssele W
 
 De grenzen van de vijf kavels worden bepaald aan de hand van de in het windenergiegebied aanwezige kabels en leidingen inclusief onderhoudszones, de benodigde ruimte voor het net op zee, de benodigde kavelgrootte voor het opstellen van windturbines met een gezamenlijk vermogen van 342–380 MW, de benodigde grootte voor een innovatiekavel en de begrenzing van het windenergiegebied.
 
-Voor de onderhoudszones van de kabels en leidingen is op grond van het beleidsmatige uitgangspunt van efficiënt ruimtegebruik een afstand van 500 meter gehanteerd. De nadere motivering hiervan is opgenomen in paragraaf 6.8 (kabels en leidingen).
+Voor de onderhoudszones van de kabels en leidingen is op grond van het beleidsmatige uitgangspunt van efficiënt ruimtegebruik een afstand van 500 meter gehanteerd. De nadere motivering hiervan is opgenomen in [paragraaf 6.8](https://wetten.overheid.nl/BWBR0037811) (kabels en leidingen).
 
 Voor de begrenzing van de kavels als gevolg van de aanwezige kabels is verkend of verleggen van deze kabels mogelijk is, teneinde de kavels groter te kunnen maken. Uit deze verkenning is gebleken dat het verleggen van kabels vanuit kosteneffectiviteit en vanuit procedureel oogpunt niet haalbaar is.
 
+Figuur 4 Schematische kavelbegrenzing
+
 ### 4.2.3. Gevolgen van de verkaveling
 
-Door de gekozen verkaveling en het net op zee van TenneT ontstaat er ruimte tussen de kavels I en II en ten noorden van kavel III en het innovatiekavel. De breedte van deze ruimte is hier maximaal (inclusief veiligheidszones) 2.100 meter. Om een oost-westgerichte corridor ten behoeve van scheepvaart mogelijk te maken is naast de onderhoudszones van de Farland North-kabel die door kavel IV loopt aan weerszijden 250 meter ruimte van kavel IV beschikbaar gesteld. Daarmee komt de voor scheepvaart beschikbare ruimte voor dit gedeelte op 500 meter. Aan de oostkant is deze ruimte voor de scheepvaart 1.100 meter. De gevolgen van deze corridor worden afgewogen in paragraaf 6.9 (scheepvaartveiligheid).
+Oost-westcorridor
+
+Door de gekozen verkaveling en het net op zee van TenneT ontstaat er ruimte tussen de kavels I en II en ten noorden van kavel III en het innovatiekavel. De breedte van deze ruimte is hier maximaal (inclusief veiligheidszones) 2.100 meter. Om een oost-westgerichte corridor ten behoeve van scheepvaart mogelijk te maken is naast de onderhoudszones van de Farland North-kabel die door kavel IV loopt aan weerszijden 250 meter ruimte van kavel IV beschikbaar gesteld. Daarmee komt de voor scheepvaart beschikbare ruimte voor dit gedeelte op 500 meter. Aan de oostkant is deze ruimte voor de scheepvaart 1.100 meter. De gevolgen van deze corridor worden afgewogen in [paragraaf 6.9](https://wetten.overheid.nl/BWBR0037811) (scheepvaartveiligheid).
+
+Noord-zuidcorridors
 
 Het hanteren van een afstand van 500 meter voor de onderhoudszones voor kabels en leidingen betekent dat er geen noord-zuidcorridors ontstaan, omdat de veiligheidszones van de windparken direct op elkaar aansluiten. Vanwege het feit dat de uitgevoerde en nog geplande Belgische windparken voor scheepvaartverkeer gesloten zullen zijn, is doorvaart in noord-zuidrichting op termijn ook geen mogelijkheid meer.
+
+Afstand tot Belgische windparken en windafvang
 
 Een gevolg van de ligging van het windenergiegebied Borssele is het ontstaan van een afstand tot de Belgische windparken van minimaal 1.000 meter. Door het aansluiten van de veiligheidszones rond zowel de Nederlandse als de Belgische windparken is hier geen scheepvaart mogelijk met uitzondering van schepen tot 24 meter op grond van het Besluit tot instellen van de veiligheidszone.
 
@@ -245,9 +269,35 @@ Door de ligging van de Belgische windparken kunnen zogeffecten (windafvang en tu
 
 Een windpark wordt in [artikel 1 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=1) gedefinieerd als een samenstel van voorzieningen waarmee elektriciteit met behulp van wind wordt geproduceerd. Met een samenstel van voorzieningen wordt bedoeld: alle aanwezige middelen die onderling met elkaar zijn verbonden voor de productie van elektriciteit met behulp van wind. Het betreft:
 
+- • Windturbines opgebouwd uit een fundering, een eventueel transitiestuk, een mast, een gondel en rotorbladen.
+
+- • Bekabeling die de individuele turbines verbindt en aansluit op een platform.
+
 Door de wind draaien de bladen van de windturbine rond. Een as drijft een generator aan waarmee de elektriciteit wordt opgewekt. De elektriciteit wordt via de interne bekabeling naar het platform geleid, waar het op de juiste spanning voor transport naar land wordt gebracht.
 
 Een windpark bestaat uit:
+
+- 1 Turbines Er zijn momenteel veel verschillende typen turbines op de markt. De tendens is om turbines te ontwikkelen met grotere rotoren en grotere vermogens. Hierbij zijn de volgende ontwerpvariabelen onderscheiden:
+
+   - • Tiphoogte: bovenste stand van een individueel blad;
+
+   - • Tiplaagte: laagste stand van een individueel blad;
+
+   - • Rotordiameter;
+
+   - • Aantal bladen per turbine.
+
+- 2 Funderingen Turbines worden aangelegd met behulp van de volgende gangbare funderingstypen:
+
+   - • Monopile: een stalen buis met een verschillende doorsnede afhankelijk van het gewicht van de turbine en de grondsoort, waarop de turbine geplaatst wordt;
+
+   - • Jacket: een open constructie die met vier monopiles in de bodem is verankerd;
+
+   - • Tripod: een open constructie die met drie monopiles in de bodem is verankerd;
+
+   - • Gravity based: een betonnen voet bestaande uit een holle kegel die ter plaatse wordt afgezonken en op de bodem wordt geplaatst en gevuld wordt met zand;
+
+   - • Suction bucket18Een suction bucket wordt geïnstalleerd door het op de zeebodem te plaatsen en vervolgens een pomp te activeren die water uit de bucket verwijdert, waardoor de bucket zich vastzuigt en in de bodem dringt. Bovenop de suction bucket wordt de turbinepaal gemonteerd.: een cilindrische constructie geplaatst onder een jacket waarvan de bovenkant is afgesloten.
 
 ### 4.3.2. Situering en oppervlakte kavel
 
@@ -255,15 +305,15 @@ Kavel III is gelegen tussen kavels II en IV van windenergiegebied Borssele en he
 
 Kavel III wordt doorkruist door de telecomkabel (SeaMeWe) waardoor het kavel uit twee delen bestaat.
 
-De coördinaten van de begrenzing van kavel III zijn weergegeven in voorschrift 2, eerste lid bij dit besluit. Tevens zijn de coördinaten van de twee delen in dit voorschrift weergegeven.
+De coördinaten van de begrenzing van kavel III zijn weergegeven in [voorschrift 2](https://wetten.overheid.nl/BWBR0037811), eerste lid bij dit besluit. Tevens zijn de coördinaten van de twee delen in dit voorschrift weergegeven.
 
-Dit windpark moet worden aangesloten op TenneT platform Borssele Beta. Hiertoe wordt in dit kavelbesluit eveneens een tracé voor de aansluitverbinding aangewezen. De kabels die de turbines met het platform verbinden, moeten binnen het gebied blijven, waarvan de coördinaten zijn weergegeven in voorschrift 2, eerste en tweede lid bij dit besluit.
+Dit windpark moet worden aangesloten op TenneT platform Borssele Beta. Hiertoe wordt in dit kavelbesluit eveneens een tracé voor de aansluitverbinding aangewezen. De kabels die de turbines met het platform verbinden, moeten binnen het gebied blijven, waarvan de coördinaten zijn weergegeven in [voorschrift 2](https://wetten.overheid.nl/BWBR0037811), eerste en tweede lid bij dit besluit.
 
 ### 4.4. Bouw en exploitatie
 
 ### 4.4.1. Vergunning
 
-Op grond van [artikel 12 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12) kan door de minister van Economische Zaken een vergunning verleend worden voor de bouw en exploitatie van een windpark. In deze vergunning wordt bepaald voor welk tijdvak de vergunning geldt. Het tijdvak dient passend te zijn bij de te verwachte economische levensduur van het windpark. In de vergunning wordt voorts aangegeven binnen welke termijn na het onherroepelijk worden van de vergunning, de in de vergunning aangegeven activiteiten moeten worden verricht. Voor kavel III wordt uitgegaan van een termijn van maximaal 5 jaar voor de realisatie van het windpark vanaf het moment van onherroepelijk worden van de vergunning. De exploitatietermijn kan starten vanaf jaar 3 en kan duren tot en met jaar 29. De verwijderingstermijn kan starten vanaf jaar 25 en kan duren tot en met jaar 30. De windvergunning wordt derhalve voor 30 jaar verleend. Dit is in voorschrift 3 bij dit kavelbesluit vastgelegd.
+Op grond van [artikel 12 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12) kan door de minister van Economische Zaken een vergunning verleend worden voor de bouw en exploitatie van een windpark. In deze vergunning wordt bepaald voor welk tijdvak de vergunning geldt. Het tijdvak dient passend te zijn bij de te verwachte economische levensduur van het windpark. In de vergunning wordt voorts aangegeven binnen welke termijn na het onherroepelijk worden van de vergunning, de in de vergunning aangegeven activiteiten moeten worden verricht. Voor kavel III wordt uitgegaan van een termijn van maximaal 5 jaar voor de realisatie van het windpark vanaf het moment van onherroepelijk worden van de vergunning. De exploitatietermijn kan starten vanaf jaar 3 en kan duren tot en met jaar 29. De verwijderingstermijn kan starten vanaf jaar 25 en kan duren tot en met jaar 30. De windvergunning wordt derhalve voor 30 jaar verleend. Dit is in [voorschrift 3](https://wetten.overheid.nl/BWBR0037811) bij dit kavelbesluit vastgelegd.
 
 ### 4.4.2. Algemene regels
 
@@ -281,11 +331,11 @@ Het bouwproces van een windpark is in grote mate afhankelijk van het gekozen typ
 
 Op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10) wordt rondom de installatie een veiligheidszone ingesteld op het moment dat met de realisatie van de installatie wordt begonnen. Onder installatie wordt in dit geval verstaan: het geheel van windturbines van het windpark dat in kavel III gebouwd wordt. De kabels tussen de turbines worden geacht geen onderdeel uit te maken van de installatie. De buitenste grens van de installatie wordt gevormd door een (denkbeeldige) lijn tussen de uiterste punten van de wieken in horizontale stand van de buitenste rij windturbines van het windpark. Elk punt van de buitenste grens van de veiligheidszone is ten hoogste 500 meter verwijderd van een overeenkomstig punt op de buitengrens van de installatie.
 
-In het besluit tot instelling van de veiligheidszone wordt geregeld wie toegang tot het gebied heeft. Het betreft in ieder geval schepen in opdracht van de overheid dan wel de vergunninghouder ([artikel 8, tweede lid, Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaatswerken op installaties in de exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0017805&artikel=8)). Ook kan in dit besluit geregeld worden dat andere schepen, zoals recreatie-, visserij-, onderzoeks- en onderhoudsschepen van kabeleigenaren toegang tot het park kunnen krijgen. Het besluitvormingsproces op dit punt wordt nader toegelicht in paragraaf 6.9. Zowel tijdens de aanbouwfase als tijdens de verwijdering van het windpark is de veiligheidszone gesloten voor alle verkeer, behalve schepen in opdracht van de overheid of de vergunninghouder.
+In het besluit tot instelling van de veiligheidszone wordt geregeld wie toegang tot het gebied heeft. Het betreft in ieder geval schepen in opdracht van de overheid dan wel de vergunninghouder ([artikel 8, tweede lid, Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaatswerken op installaties in de exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0017805&artikel=8)). Ook kan in dit besluit geregeld worden dat andere schepen, zoals recreatie-, visserij-, onderzoeks- en onderhoudsschepen van kabeleigenaren toegang tot het park kunnen krijgen. Het besluitvormingsproces op dit punt wordt nader toegelicht in [paragraaf 6.9](https://wetten.overheid.nl/BWBR0037811). Zowel tijdens de aanbouwfase als tijdens de verwijdering van het windpark is de veiligheidszone gesloten voor alle verkeer, behalve schepen in opdracht van de overheid of de vergunninghouder.
 
 ### 4.4.5. Monitoring
 
-Omdat er generieke kennisleemtes bestaan met betrekking tot de ecologische effecten tijdens de bouw, exploitatie en verwijdering van het windpark zal op grond van dit kavelbesluit monitoring en evaluatie plaatsvinden. In paragraaf 7.4 wordt verder ingegaan op de geconstateerde kennisleemtes. De kennisleemtes worden ingevuld via het door de overheid op te zetten monitorings- en evaluatieprogramma dat verder is beschreven in paragraaf 7.8.6. Vanwege het ontbreken van locatiespecifieke kennisleemtes worden er in dit kavelbesluit geen voorschriften opgenomen die de vergunninghouder verplichten tot het uitvoeren van locatiespecifiek onderzoek.
+Omdat er generieke kennisleemtes bestaan met betrekking tot de ecologische effecten tijdens de bouw, exploitatie en verwijdering van het windpark zal op grond van dit kavelbesluit monitoring en evaluatie plaatsvinden. In [paragraaf 7.4](https://wetten.overheid.nl/BWBR0037811) wordt verder ingegaan op de geconstateerde kennisleemtes. De kennisleemtes worden ingevuld via het door de overheid op te zetten monitorings- en evaluatieprogramma dat verder is beschreven in [paragraaf 7.8.6](https://wetten.overheid.nl/BWBR0037811). Vanwege het ontbreken van locatiespecifieke kennisleemtes worden er in dit kavelbesluit geen voorschriften opgenomen die de vergunninghouder verplichten tot het uitvoeren van locatiespecifiek onderzoek.
 
 ### 4.5. Verwijdering en financiële zekerheid
 
@@ -315,13 +365,15 @@ Uit het MER blijkt voorts dat de effecten op vogels en vleermuizen beperkt moete
 
 De voorkeursbandbreedte en de mitigerende maatregelen vormen gezamenlijk het voorkeursalternatief. Die voorkeursbandbreedte en mitigerende maatregelen worden vastgelegd in de voorschriften bij het kavelbesluit. Binnen het voorkeursalternatief zijn de effecten voor twee inrichtingsalternatieven inzichtelijk gemaakt, namelijk een alternatief uitgaande van de ondergrens van de bandbreedte (95 4 MW turbines) en een alternatief uitgaande van de bovengrens van de bandbreedte (38 10 MW turbines).
 
-In het MER voor kavel III zijn ook de effecten voor het innovatiekavel beoordeeld. In het MER is uitgegaan van 360 MW opgesteld vermogen in kavel III en 20 MW opgesteld vermogen in het innovatiekavel. Gezamenlijk zijn derhalve de effecten beoordeeld van een windpark met 380 MW aan opgesteld vermogen. Dat heeft tot gevolg dat de in hoofdstuk 6 en 7 van dit kavelbesluit beschreven effecten voor kavel III per saldo kleiner zijn.
+In het MER voor kavel III zijn ook de effecten voor het innovatiekavel beoordeeld. In het MER is uitgegaan van 360 MW opgesteld vermogen in kavel III en 20 MW opgesteld vermogen in het innovatiekavel. Gezamenlijk zijn derhalve de effecten beoordeeld van een windpark met 380 MW aan opgesteld vermogen. Dat heeft tot gevolg dat de in [hoofdstuk 6](https://wetten.overheid.nl/BWBR0037811) en [7](https://wetten.overheid.nl/BWBR0037811) van dit kavelbesluit beschreven effecten voor kavel III per saldo kleiner zijn.
 
 ### 6. Belangenafweging gebruiksfuncties
 
 ### 6.1. Inleiding
 
 In [artikel 3, derde lid, aanhef en onder a en b, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=3) is bepaald dat de gevolgen voor de maatschappelijke functievervulling en de gevolgen voor derden meegenomen moeten worden in de belangenafweging. Daarnaast moeten op grond van artikel 3, derde lid, aanhef en onder d en e van de Wet windenergie op zee het belang van de kosten voor het realiseren van een windpark en het belang van een doelmatige aansluiting van een windpark op een net worden afgewogen. In dit hoofdstuk worden deze belangen afgewogen. Op grond van artikel 3, derde lid, aanhef en onder c van de Wet windenergie op zee moet milieubelang waaronder het ecologisch belang afgewogen worden. Dit komt in het volgende hoofdstuk aan de orde.
+
+Doelmatige aansluiting
 
 Op grond van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) wordt TenneT aangewezen als de netbeheerder van het net op zee. Het kavelbesluit reguleert de aansluiting op het net op zee. Uit de voorbereidende handelingen in het kader van de Rijkscoördinatie regeling volgt dat er twee platforms in windenergiegebied Borssele gerealiseerd worden waar windparken op aangesloten kunnen worden. Gelet hierop is de aansluiting van de windparken op deze platforms het meest doelmatig in vergelijking met een radiale aansluiting.
 
@@ -341,7 +393,7 @@ Hierboven is beschreven dat een windpark een beperkt gedeelte van het jaar zicht
 
 ### 6.2.4. Voorschriften
 
-De minimale afstand van de windturbines tot aan de kust volgt uit voorschrift 2, eerste lid waarin wordt bepaald binnen welke contour de windturbines geplaatst mogen worden. De tiphoogte van de turbines is vastgelegd in voorschrift 2, tiende lid. Gelet hierop en gelet op de uitkomst van de belangenafweging is het niet nodig om nadere voorschriften op te nemen.
+De minimale afstand van de windturbines tot aan de kust volgt uit [voorschrift 2, eerste lid](https://wetten.overheid.nl/BWBR0037811) waarin wordt bepaald binnen welke contour de windturbines geplaatst mogen worden. De tiphoogte van de turbines is vastgelegd in voorschrift 2, tiende lid. Gelet hierop en gelet op de uitkomst van de belangenafweging is het niet nodig om nadere voorschriften op te nemen.
 
 ### 6.3. Zandwinning
 
@@ -403,7 +455,7 @@ Op basis van het vooronderzoek wordt de kans zeer klein geacht dat er negatieve 
 
 ### 6.6.4. Voorschriften
 
-Er wordt een onderzoeksplicht in voorschrift 4, lid 5, opgenomen om te voorkomen dat tijdens de bouw thans bekende en onbekende wrakken of objecten met mogelijke archeologische of historische waarde worden beschadigd. Het doel hiervan is om nader te onderzoeken of sprake is van een wrak of object met archeologische of historische waarde. Als dit het geval is worden de werkzaamheden archeologisch begeleid, worden er fysieke maatregelen getroffen ter bescherming van archeologische vindplaatsen of worden vindplaatsen uitgesloten van ingrepen met inachtneming van een bufferzone.
+Er wordt een onderzoeksplicht in [voorschrift 4, lid 5](https://wetten.overheid.nl/BWBR0037811), opgenomen om te voorkomen dat tijdens de bouw thans bekende en onbekende wrakken of objecten met mogelijke archeologische of historische waarde worden beschadigd. Het doel hiervan is om nader te onderzoeken of sprake is van een wrak of object met archeologische of historische waarde. Als dit het geval is worden de werkzaamheden archeologisch begeleid, worden er fysieke maatregelen getroffen ter bescherming van archeologische vindplaatsen of worden vindplaatsen uitgesloten van ingrepen met inachtneming van een bufferzone.
 
 ### 6.7. Defensie
 
@@ -423,11 +475,17 @@ Uit het MER volgt dat kavel III aan de oostzijde wordt begrensd door een pijplei
 
 ### 6.8.3. Afweging
 
-In hoofdstuk 4 is beschreven dat bij de verkaveling van windenergiegebied Borssele rekening is gehouden met de aanwezige kabels en leidingen in het windenergiegebied. Daarbij is uitgegaan van onderhoudszones van 500 meter aan weerszijden van de kabels en leidingen. Bij kavel III betreft het hier leidingen (Zeepipe en Franpipe) en één telecomkabel (SeaMeWe).
+In [hoofdstuk 4](https://wetten.overheid.nl/BWBR0037811) is beschreven dat bij de verkaveling van windenergiegebied Borssele rekening is gehouden met de aanwezige kabels en leidingen in het windenergiegebied. Daarbij is uitgegaan van onderhoudszones van 500 meter aan weerszijden van de kabels en leidingen. Bij kavel III betreft het hier leidingen (Zeepipe en Franpipe) en één telecomkabel (SeaMeWe).
 
 De afweging om een onderhoudszone van 500 meter voor de telecomkabel SeaMeWe aan te houden is gebaseerd op het beleidsmatige uitgangspunt dat onderhoudszones waar mogelijk worden verkleind, mede gelet op het feit dat windenergie een activiteit van nationaal belang is.
 
 Op grond van de volgende feiten en gegevens is beoordeeld dat het verkleinen van de onderhoudszone voor telecomkabel SeaMeWe mogelijk is:
+
+- 1. De effectieve ruimte om onderhoud uit te voeren is groter dan 500 meter, omdat in [voorschrift 2, derde lid](https://wetten.overheid.nl/BWBR0037811) is bepaald dat overdraai van wieken over de onderhoudszone van kabels en leidingen niet is toegestaan. Bij een configuratie waarbij windturbines van maximaal 10 MW worden geplaatst is de effectieve ruimte om onderhoud uit te voeren daardoor ongeveer 600 meter;
+
+- 2. Er dient ruimte tussen de windturbines aangehouden te worden, waardoor de ruimte om onderhoud uit te voeren effectief groter is;
+
+- 3. Uit de praktijk blijkt dat breuken of lekkages bij elektriciteitskabels en leidingen niet regelmatig voorkomen en er daarom weinig reparaties en/of onderhoud noodzakelijk is. Voor telecomkabels blijkt uit gegevens van de afgelopen tien jaar dat er in het windenergiegebied Borssele nauwelijks reparaties zijn uitgevoerd en er bovendien geen (onderhoudsgevoelige) repeaters in het windenergiegebied aanwezig zijn. Na het instellen van de veiligheidszone worden bodemberoerende visserij en schepen groter dan 24 meter anders dan onderhoudsschepen niet meer toegestaan. De kans dat reparaties nodig zijn daalt hiermee nog verder.
 
 De telecomkabelexploitant ondervindt om bovengenoemde redenen geen onaanvaardbare hinder van het windpark doordat voldoende ruimte voor onderhoud en/of reparatie aanwezig is.
 
@@ -437,7 +495,7 @@ Voor het kruisen van kabels en leidingen geldt dat daarover in het kader van een
 
 ### 6.8.4. Voorschriften
 
-In voorschrift 2, vierde lid, wordt bepaald dat de rotorbladen van de windturbines volledig binnen de contour zoals aangegeven in voorschrift 2, eerste lid moeten blijven. Uit voorschrift 2, zevende en achtste lid volgt dat er ruimte tussen de windturbines moet worden aangehouden. Voorts is als waarborg voorschrift 2, zeventiende lid, opgenomen waarin wordt bepaald dat bij windturbines in een straal van 1.000 meter rondom de reparatie/onderhoudsplaats het aantal rotaties van de windturbines tot minder dan 1 per minuut teruggebracht moet worden gedurende het onderhoud en/of reparatie aan een telecomkabel.
+In [voorschrift 2, vierde lid](https://wetten.overheid.nl/BWBR0037811), wordt bepaald dat de rotorbladen van de windturbines volledig binnen de contour zoals aangegeven in voorschrift 2, eerste lid moeten blijven. Uit voorschrift 2, zevende en achtste lid volgt dat er ruimte tussen de windturbines moet worden aangehouden. Voorts is als waarborg voorschrift 2, zeventiende lid, opgenomen waarin wordt bepaald dat bij windturbines in een straal van 1.000 meter rondom de reparatie/onderhoudsplaats het aantal rotaties van de windturbines tot minder dan 1 per minuut teruggebracht moet worden gedurende het onderhoud en/of reparatie aan een telecomkabel.
 
 ### 6.9. Scheepvaartveiligheid
 
@@ -449,11 +507,15 @@ In het Nationaal Waterplan (2016-2021) is vastgelegd dat meervoudig ruimtegebrui
 
 ### 6.9.2. Gevolgen
 
-De MARIN-veiligheidsstudie – met kenmerk 28655-1-MSCN-rev.0 – gaat in op de effecten van zowel kavel III als kavel IV. Ook zijn hierin de effecten van het innovatiekavel meegenomen (zie hoofdstuk 5.2). Hierna wordt ingegaan op het gedeelte dat gaat over kavel III. Kortheidshalve wordt gesproken over de MARIN-veiligheidsstudie voor kavel III.
+MARIN-veiligheidsstudie kavel III en IV
+
+De MARIN-veiligheidsstudie – met kenmerk 28655-1-MSCN-rev.0 – gaat in op de effecten van zowel kavel III als kavel IV. Ook zijn hierin de effecten van het innovatiekavel meegenomen (zie [hoofdstuk 5.2](https://wetten.overheid.nl/BWBR0037811)). Hierna wordt ingegaan op het gedeelte dat gaat over kavel III. Kortheidshalve wordt gesproken over de MARIN-veiligheidsstudie voor kavel III.
 
 De MARIN-veiligheidsstudie voor kavel III beschrijft gevolgen voor het scheepvaartverkeer en is een bijlage bij het MER. De cumulatieve gevolgen voor de scheepvaartveiligheid zijn inzichtelijk gemaakt aan de hand van twee alternatieven. Alternatief 1 bestaat uit 95 turbines van 4 MW en alternatief 2 bestaat uit 38 turbines van 10 MW. Daarnaast is onderzocht wat de effecten zijn van doorvaart met schepen tot 24 meter in het windpark, waaronder recreatievaart en kleine vissersschepen.
 
-In de MARIN-veiligheidsstudie voor de corridor – met kenmerk 27894-2-MSCN-rev.2 – worden de cumulatieve gevolgen voor de scheepvaartveiligheid als gevolg van de in hoofdstuk 4 beschreven corridor onderzocht. De gevolgen voor de scheepvaartveiligheid zijn in de MARIN-veiligheidsstudie voor de corridor inzichtelijk gemaakt aan de hand van twee alternatieven. Hierbij wordt uitgegaan van het ontwikkelen van kavel I t/m IV in het windenergiegebied Borssele voor een totaal van 1.400 MW opgesteld vermogen. Alternatief 1 bestaat zodoende uit 468 turbines met 3 MW en alternatief 2 bestaat uit 140 turbines van 10 MW.
+MARIN-veiligheidsstudie corridor
+
+In de MARIN-veiligheidsstudie voor de corridor – met kenmerk 27894-2-MSCN-rev.2 – worden de cumulatieve gevolgen voor de scheepvaartveiligheid als gevolg van de in [hoofdstuk 4](https://wetten.overheid.nl/BWBR0037811) beschreven corridor onderzocht. De gevolgen voor de scheepvaartveiligheid zijn in de MARIN-veiligheidsstudie voor de corridor inzichtelijk gemaakt aan de hand van twee alternatieven. Hierbij wordt uitgegaan van het ontwikkelen van kavel I t/m IV in het windenergiegebied Borssele voor een totaal van 1.400 MW opgesteld vermogen. Alternatief 1 bestaat zodoende uit 468 turbines met 3 MW en alternatief 2 bestaat uit 140 turbines van 10 MW.
 
 Als gevolg van de opschaling van 350 MW per windpark naar maximaal 380 MW per windpark en de verhoging van de ondergrens van de bandbreedte naar 4 MW is een addendum [27894.603_1] opgesteld voor de effecten hiervan op de scheepvaartveiligheid door de corridor. Hierin wordt uitgegaan van 380 MW per park en 1520 MW voor het windenergiegebied met als ondergrens een 4 MW turbine.
 
@@ -463,7 +525,13 @@ Voor deze scenario’s (24, 45 en 80 meter) zijn de aanvarings- en aandrijvingsk
 
 Beide MARIN-veiligheidsstudies gaan in op de risico’s voor aanvaringen en aandrijvingen tegen turbines en indirecte risico’s zoals olie-uitstroom en persoonlijke ongevallen.
 
+Figuur 5 Scheepsbewegingen in en rond het windenergiegebied Borssele
+
+Cumulatieve effecten
+
 Meerdere (toekomstige) windparken kunnen extra veiligheidsrisico’s met zich brengen. Dit wordt het cumulatieve effect genoemd. In de MARIN-studies is het cumulatieve effect wat veroorzaakt wordt door deze parken opgenomen als basissituatie. Dit betekent dat de cumulatieve effecten niet apart berekend zijn.
+
+Aanvaringen- en aandrijfkansen
 
 In de MARIN-veiligheidsstudie voor kavel III zijn de aanvaar- en aandrijfkansen (rammings en driftings) berekend en de gevolgen hiervan, waaronder bezwijken van de turbine, olie-uitstroom en persoonlijk letsel. Om dit te kunnen berekenen is de afwikkeling van het scheepvaartverkeer in SAMSON gemodelleerd (Safety Assessment Model for Shipping and Offshore on the North Sea).
 
@@ -475,15 +543,21 @@ In de MARIN-veiligheidsstudie voor de corridor zijn de effecten voor windenergie
 
 De kans op aanvaringen en aandrijvingen als gevolg van het openstellen van een windpark voor schepen tot 24 meter (inclusief de op zeil varende schepen) is verwaarloosbaar klein. De reden hiervan is dat in het algemeen deze schepen door de relatieve beperkte massa een grote wendbaarheid hebben. Daarnaast is er voldoende ruimte tussen de windturbines beschikbaar om te manoeuvreren als gevolg van de onderlinge minimale afstand van windturbines ten opzichte van elkaar.
 
+Indirecte gevolgen: olie-uitstroom en persoonlijk letsel
+
 Door aanvaringen en aandrijvingen kunnen indirecte gevolgen optreden, zoals olie-uitstroom en persoonlijk letsel. De kans op olie-uitstroom is veel kleiner dan de kans op aanvaringen en aandrijvingen omdat niet elke botsing resulteert in olie-uitstroom. Voor kavel III geldt dat voor alternatief 1 eens per 458 jaar een uitstroom van olie wordt verwacht. Voor alternatief 2 is dat eens in de 1162 jaar. De kans op persoonlijk letsel is bijzonder klein. De kans op ongevallen waarbij personen zijn betrokken is voor alternatief 1 eens in de 174.473 jaar en voor alternatief 2 is die kans kleiner. Deze kansen volgen uit de MARIN-veiligheidsstudie voor kavel III.
 
 Indien scheepvaartverkeer tot 45 meter in de corridor wordt toegestaan dan wordt voor het gehele windenergiegebied als gevolg van de corridor een olie-uitstroom van eens in de 80 jaar verwacht voor alternatief 1 en voor alternatief 2 eens in de 269 jaar. De kans op ongevallen waarbij personen zijn betrokken is voor alternatief 1 eens in de 21.222 jaar en voor alternatief 2 eens in de 52.480 jaar. Deze kansen volgen uit de MARIN-veiligheidsstudie voor de corridor. Als gevolg van de opschaling van de windparken van 350 MW naar 380 MW, wordt het totaal in windenergiegebied Borssele 1520 MW. Uit het Addendum op de corridorstudie (kenmerk: 27894.603_1) blijkt dat de totale kans toeneemt met een percentage van 19%.
+
+Kruisende scheepvaart
 
 Schepen in het windpark kunnen elkaar kruisen, bijvoorbeeld verkeer in de corridor en recreatievaart of kleine vissersschepen binnen het windpark dat de corridor oversteekt. Om aanvaringen te voorkomen moeten schepen voldoende ruimte hebben om veilig uit te wijken. In het uiterste geval moet er hiervoor een rondtorn gemaakt worden. Uit de praktijk blijkt dat een rondtorn veilig uitgevoerd kan worden indien ongeveer zes maal de lengte van het schip aan manoeuvreerruimte beschikbaar is.
 
 In de corridor is de minimale breedte exclusief veiligheidszone 500 meter. Dit betekent dat aan weerszijden van het midden van de corridor minimaal 250 meter beschikbaar is voor het uitvoeren van een uitwijkmanoeuvre. Schepen met een lengte van 45 meter hebben dan voldoende ruimte om te navigeren in de corridor.
 
 Gelet op het beperkte verkeer dat verwacht wordt in de corridor, de aanwezige ruimte om een veilige uitwijkmanoeuvre uit te voeren, de wendbaarheid van deze schepen en de beleidsuitgangspunten om meervoudig ruimtegebruik mogelijk te maken, waaronder het faciliteren van visserijscheepvaart tot 45 meter, is het toestaan van schepen tot 45 meter in de corridor aanvaardbaar vanuit scheepvaartveiligheid.
+
+Recreatievaart
 
 Het windpark kan een aantrekkende werking op recreatievaart hebben. Recreatievaart in of nabij het windpark kan hierdoor toenemen. Dit kan een gevaar opleveren voor recreanten in verband met mogelijke aanvaringen met windturbines. Gelet op de beperkte omvang, de lagere massa en de grotere wendbaarheid van deze schepen is dit risico beperkt.
 
@@ -493,7 +567,7 @@ De effecten uit de MARIN-veiligheidsstudies zijn berekend op basis van een theor
 
 Zo geldt voor het risico van kruisende schepen in de praktijk dat de kruisende schepen contact met elkaar zoeken en communiceren over te treffen veiligheidsmaatregelen, zoals het wijzigen van koers en het veranderen van de snelheid. Met deze vaarpraktijk en veiligheidsmaatregelen houdt het model van MARIN geen rekening. Door in de kwalitatieve beoordeling met deze factoren wel rekening te houden kan het effect op de scheepvaartveiligheid zorgvuldiger worden ingeschat.
 
-Mede gelet op het voorgaande en de directe en indirecte gevolgen van aanvaringen en aandrijvingen met turbines, de beperkte effecten van recreatievaart en kleine vissersschepen tot 24 meter binnen een windpark, het toestaan van schepen tot 45 meter in de corridor en het huidige en toekomstige beleid voor meervoudig ruimtegebruik zijn de gevolgen op de scheepvaartveiligheid aanvaardbaar. Daarbij komt dat in het kader van de ecologische belangenafweging de ondergrens van de bandbreedte is verhoogd van 4 naar 6 MW. Dat betekent dat de **worst case** effecten gunstiger zijn in de Marin-veiligheidsstudies beschreven zoals hierboven weergegeven.
+Mede gelet op het voorgaande en de directe en indirecte gevolgen van aanvaringen en aandrijvingen met turbines, de beperkte effecten van recreatievaart en kleine vissersschepen tot 24 meter binnen een windpark, het toestaan van schepen tot 45 meter in de corridor en het huidige en toekomstige beleid voor meervoudig ruimtegebruik zijn de gevolgen op de scheepvaartveiligheid aanvaardbaar. Daarbij komt dat in het kader van de ecologische belangenafweging de ondergrens van de bandbreedte is verhoogd van 4 naar 6 MW. Dat betekent dat de *worst case* effecten gunstiger zijn in de Marin-veiligheidsstudies beschreven zoals hierboven weergegeven.
 
 Voorts wordt er een drietal maatregelen getroffen om de scheepvaartveiligheid te beschermen.
 
@@ -529,7 +603,7 @@ Er is geen aanleiding om voor dit onderwerp voorschriften op te nemen in dit kav
 
 ### 6.11.1. Beleid
 
-Het visserijbeleid wordt vooral op Europees niveau bepaald en is vastgelegd in de [Verordening 9361/02](31902R9361) van de Raad inzake de instandhouding en de duurzame exploitatie van de visserijhulpbronnen in het kader van het Gemeenschappelijk Visserijbeleid. In de Beleidsnota Noordzee 2016–2021 is als vertrekpunt opgenomen dat meervoudig ruimtegebruik, zoals niet-bodemberoerende visserij, in windparken zoveel mogelijk kan worden toegestaan.
+Het visserijbeleid wordt vooral op Europees niveau bepaald en is vastgelegd in de Verordening 9361/02 van de Raad inzake de instandhouding en de duurzame exploitatie van de visserijhulpbronnen in het kader van het Gemeenschappelijk Visserijbeleid. In de Beleidsnota Noordzee 2016–2021 is als vertrekpunt opgenomen dat meervoudig ruimtegebruik, zoals niet-bodemberoerende visserij, in windparken zoveel mogelijk kan worden toegestaan.
 
 ### 6.11.2. Gevolgen
 
@@ -563,41 +637,45 @@ De bouw, exploitatie en verwijdering van een windpark heeft geen negatieve invlo
 
 ### 6.13.4. Voorschriften
 
-In voorschrift 2, dertiende lid is geregeld dat indien er opofferingsanodes als kathodische bescherming worden toegepast ter voorkoming van corrosie van funderingen van windturbines deze uitsluitend uit legeringen van magnesium of aluminium mogen bestaan. Deze legeringen mogen maximaal 5 gewicht % aan andere metalen bevatten. Het is ook mogelijk om een systeem dat gebruik maakt van opgedrukte stroom toe te passen. Deze technieken worden beschouwd als de Best Beschikbare Technieken voor corrosiebescherming van stalen constructies in zeewater.
+In [voorschrift 2, dertiende lid](https://wetten.overheid.nl/BWBR0037811) is geregeld dat indien er opofferingsanodes als kathodische bescherming worden toegepast ter voorkoming van corrosie van funderingen van windturbines deze uitsluitend uit legeringen van magnesium of aluminium mogen bestaan. Deze legeringen mogen maximaal 5 gewicht % aan andere metalen bevatten. Het is ook mogelijk om een systeem dat gebruik maakt van opgedrukte stroom toe te passen. Deze technieken worden beschouwd als de Best Beschikbare Technieken voor corrosiebescherming van stalen constructies in zeewater.
 
 ### 6.14. Lokale en regionale economie
 
-Het aanleggen en in gebruik nemen van windparken kan risico’s van negatieve effecten met zich meebrengen voor de lokale en regionale economie. Om daar op verantwoorde wijze mee om te gaan, kent dit besluit onder meer voorschriften voor de locatie van de windparken en het aantal turbines. Daarnaast kunnen windparken in potentie ook voordelen met zich meebrengen voor de lokale en regionale economie. Door voor bepaalde activiteiten of producten gebruik te maken van lokale of regionale ondernemingen kan ook direct of indirect worden bijgedragen aan de lokale en regionale economie, bijvoorbeeld doordat bepaalde havens worden gebruikt, leveranciers worden gekozen, financiële deelname in of stroomlevering vanuit het windpark naar lokale bewoners of bedrijven mogelijk wordt gemaakt of samenwerkingen worden aangegaan met lokale of regionale bedrijven in bijvoorbeeld de recreatiesector. In het besluit is daarom een voorschrift opgenomen (Voorschrift 2, zestiende lid) dat de vergunninghouder de verplichting oplegt zich in te spannen het park zodanig te ontwerpen, te bouwen en te exploiteren dat het park – binnen de geldende regelgeving – actief bijdraagt aan versterking van de lokale en regionale economie. Het vereiste van een plan van aanpak maakt daarnaast inzichtelijk wat de bijdrage is van het windpark aan de lokale en regionale economie.
+Het aanleggen en in gebruik nemen van windparken kan risico’s van negatieve effecten met zich meebrengen voor de lokale en regionale economie. Om daar op verantwoorde wijze mee om te gaan, kent dit besluit onder meer voorschriften voor de locatie van de windparken en het aantal turbines. Daarnaast kunnen windparken in potentie ook voordelen met zich meebrengen voor de lokale en regionale economie. Door voor bepaalde activiteiten of producten gebruik te maken van lokale of regionale ondernemingen kan ook direct of indirect worden bijgedragen aan de lokale en regionale economie, bijvoorbeeld doordat bepaalde havens worden gebruikt, leveranciers worden gekozen, financiële deelname in of stroomlevering vanuit het windpark naar lokale bewoners of bedrijven mogelijk wordt gemaakt of samenwerkingen worden aangegaan met lokale of regionale bedrijven in bijvoorbeeld de recreatiesector. In het besluit is daarom een voorschrift opgenomen ([Voorschrift 2, zestiende lid](https://wetten.overheid.nl/BWBR0037811)) dat de vergunninghouder de verplichting oplegt zich in te spannen het park zodanig te ontwerpen, te bouwen en te exploiteren dat het park – binnen de geldende regelgeving – actief bijdraagt aan versterking van de lokale en regionale economie. Het vereiste van een plan van aanpak maakt daarnaast inzichtelijk wat de bijdrage is van het windpark aan de lokale en regionale economie.
 
 ### 7. Ecologie
 
 ### 7.1. Opbouw van dit hoofdstuk
 
-In paragraaf 7.2 zijn de rapporten toegelicht die zijn opgesteld ten behoeve van besluitvorming.
+In [paragraaf 7.2](https://wetten.overheid.nl/BWBR0037811) zijn de rapporten toegelicht die zijn opgesteld ten behoeve van besluitvorming.
 
-In paragraaf 7.3 zijn de gevolgen van de ontwikkeling en exploitatie van een windpark in kavels III en V van windenergiegebied Borssele per soortgroep beschreven.
+In [paragraaf 7.3](https://wetten.overheid.nl/BWBR0037811) zijn de gevolgen van de ontwikkeling en exploitatie van een windpark in kavels III en V van windenergiegebied Borssele per soortgroep beschreven.
 
-Achtereenvolgens worden voor iedere soortgroep de gevolgen van het eigenstandige project en de gevolgen van het project tezamen met andere plannen en projecten beschreven. Dit is gedaan op basis van de **uiterste bandbreedtes**. Wanneer de uiterste bandbreedte tot onacceptabel grote effecten leidt, is deze ingeperkt tot het voorkeursalternatief. Hierbij zijn onacceptabel grote effecten gedefinieerd als significant negatieve gevolgen op Natura 2000-gebieden en/of aantasting van de gunstige staat van instandhouding. Het voorkeursalternatief wordt door middel van voorschriften dwingend opgelegd aan de vergunninghouder.
+Achtereenvolgens worden voor iedere soortgroep de gevolgen van het eigenstandige project en de gevolgen van het project tezamen met andere plannen en projecten beschreven. Dit is gedaan op basis van de *uiterste bandbreedtes*. Wanneer de uiterste bandbreedte tot onacceptabel grote effecten leidt, is deze ingeperkt tot het voorkeursalternatief. Hierbij zijn onacceptabel grote effecten gedefinieerd als significant negatieve gevolgen op Natura 2000-gebieden en/of aantasting van de gunstige staat van instandhouding. Het voorkeursalternatief wordt door middel van voorschriften dwingend opgelegd aan de vergunninghouder.
 
 De uiterste bandbreedte en het voorkeursalternatief zijn gebruikt voor de afweging in het kader van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640).
 
-Voor soorten met een instandhoudingsdoelstelling in Natura 2000-gebieden zijn ook nog de gevolgen opgenomen zoals deze in de Passende Beoordeling zijn geanalyseerd. Dit is alleen gedaan voor het **voorkeursalternatief.** Deze beschrijving zal gebruikt worden voor de afweging in het kader van de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641).
+Voor soorten met een instandhoudingsdoelstelling in Natura 2000-gebieden zijn ook nog de gevolgen opgenomen zoals deze in de Passende Beoordeling zijn geanalyseerd. Dit is alleen gedaan voor het *voorkeursalternatief.* Deze beschrijving zal gebruikt worden voor de afweging in het kader van de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641).
 
-In paragraaf 7.4 is een overzicht opgenomen van de geconstateerde kennisleemtes.
+In [paragraaf 7.4](https://wetten.overheid.nl/BWBR0037811) is een overzicht opgenomen van de geconstateerde kennisleemtes.
 
-In paragraaf 7.5 is de afweging opgenomen met betrekking tot de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=6) en [7 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=7), die betrekking hebben op de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640).
+In [paragraaf 7.5](https://wetten.overheid.nl/BWBR0037811) is de afweging opgenomen met betrekking tot de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=6) en [7 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=7), die betrekking hebben op de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640).
 
-In paragraaf 7.6 is de afweging opgenomen met betrekking tot [artikel 5 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=5), die betrekking heeft op de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641).
+In [paragraaf 7.6](https://wetten.overheid.nl/BWBR0037811) is de afweging opgenomen met betrekking tot [artikel 5 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=5), die betrekking heeft op de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641).
 
-In paragraaf 7.7 is de afweging opgenomen met betrekking tot overige relevante wetgeving.
+In [paragraaf 7.7](https://wetten.overheid.nl/BWBR0037811) is de afweging opgenomen met betrekking tot overige relevante wetgeving.
 
-In paragraaf 7.8 worden de voorschriften beschreven die betrekking hebben op de aanleg, exploitatie en verwijdering van een windpark in kavels III en V. Tevens wordt ingegaan op welke wijze het door de overheid op te zetten en uit te voeren monitorings- en evaluatieprogramma zal worden vormgegeven.
+In [paragraaf 7.8](https://wetten.overheid.nl/BWBR0037811) worden de voorschriften beschreven die betrekking hebben op de aanleg, exploitatie en verwijdering van een windpark in kavels III en V. Tevens wordt ingegaan op welke wijze het door de overheid op te zetten en uit te voeren monitorings- en evaluatieprogramma zal worden vormgegeven.
 
 ### 7.2. Rapporten ten behoeve van besluitvorming
+
+Kader Ecologie en Cumulatie (KEC)
 
 In navolging van het advies van de Commissie voor de milieueffectrapportage (Commissie voor de m.e.r.) op het MER en de Passende Beoordeling die voor de partiële herziening van het Nationaal Waterplan (2009-2015) is opgesteld23http://www.commissiemer.nl/ advisering/afgerondeadviezen/2775, heeft het Rijk een zelfstandig kader ontwikkeld voor de afweging van cumulatie van effecten op beschermde natuurwaarden voor het realiseren van de doelstellingen voor windenergie op zee uit het Energieakkoord. Uitgangspunt is dat, ook in cumulatie, voorkomen moet worden dat significant negatieve effecten kunnen optreden of de gunstige staat van instandhouding aangetast kan worden. In de partiële herziening van het nationaal waterplan is aangegeven dat het KEC moet worden toegepast bij besluitvorming over de benutting en begrenzing van toekomstige windparken binnen de aangewezen gebieden. Cumulatieve effecten zijn in het MER conform dit kader onderzocht en beoordeeld.
 
 Uitgangspunten van het KEC:
+
+- 1. De cumulatieve effecten op de relevante soorten worden primair getoetst aan de Zuidelijke Noordzee populaties24Bij het in beeld brengen van effecten op het niveau van biogeografische regio’s is om pragmatische redenen een studiegebied gedefinieerd voor vogels en vleermuizen; de Zuidelijke Noordzee. Bij deze keuze hebben vooral de karakteristieken van dit gebied en de functies die het heeft voor de relevante soorten een rol gespeeld. Het omvat nu de Zuidelijke Noordzee tussen 51°N (ongeveer Calais) tot aan 56°N (net ten noorden van het drielandenpunt aan de noordzijde van het NCP, en van de Britse oostkust tot aan de Europese continentale kustlijn (exclusief de Waddenzee en Zeeuwse stromen). Zie figuur 2, kader ecologie en cumulatie, deelrapport A., zodat een beeld wordt verkregen van het effect op de staat van instandhouding van de betreffende soorten. In overeenstemming met deze aanpak is daarom een analyse opgesteld met inbegrip van windparken in de gehele Zuidelijke Noordzee (ten behoeve van internationale cumulatie).
 
 Voor mariene diersoorten wordt deze toetsing op populatieniveau tevens gebruikt om de mogelijke effecten op de aanwezige aantallen van de relevante soorten in Natura 2000-gebieden te bepalen en te beoordelen. Dit vanwege het feit dat mariene soorten een diffuse verspreiding kennen en hun migratiepatronen zich door de gehele Zuidelijke Noordzee uitstrekken. Hun aanwezigheid in Natura 2000-gebieden is daarom in grote mate afhankelijk van de totale aantallen in de populatie25Deze aanpak is onderschreven in de uitwerking van het bruinvisbeschermingsplan waarin is aangegeven dat bescherming van deze migrerende soort in alleen Natura 2000-gebieden onvoldoende is om de gunstige staat van instandhouding van deze soort te bereiken en te behouden. Daarom is een Noordzee-brede bescherming voor deze soort meer gepast..
 
@@ -605,21 +683,39 @@ De realisatie van windenergie op zee zoals verwoord in het Energieakkoord is als
 
 Hiermee is de gehanteerde werkwijze breder ingestoken dan op basis van de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) is vereist. Omdat de laatste kavelbesluiten in ieder geval met de voorafgaande kavelbesluiten rekening moeten houden in de cumulatieve effectbeoordeling, is ervoor gekozen om de gevolgen van het gehele Energieakkoord nu al in beeld te brengen om zodoende strategische keuzes tijdig te kunnen maken.
 
+- 2. In het KEC is er voor vogelsoorten en vleermuizen voor gekozen om de effecten te toetsen aan de ‘*Potential Biological Removal*26Het effect wordt weergegeven als % van de PBR. Indien het effect groter is dan 100% PBR is er sprake van aantasting van de gunstige staat van instandhouding/significant negatieve effecten.’ (PBR). De PBR is een maat voor het aantal exemplaren van een soort die jaarlijks (bovenop de jaarlijkse sterfte en emigratie) aan de populatie onttrokken kunnen worden, zonder dat die populatie daardoor structureel achteruit zal gaan. Populatiekenmerken als groei- en herstelcapaciteit, omvang en trend van de betreffende populatie zijn in deze maat verdisconteerd. Zolang de PBR niet overschreden wordt, zal er geen sprake zijn van significant negatieve effecten of een aantasting van de gunstige staat van instandhouding. Voor bruinvissen zijn de berekende effecten uit het Interim PCoD model in eerste instantie vergeleken met de populatiedoelstelling zoals geformuleerd onder het ASCOBANS verdrag.27Agreement on the Conservation of Small Cetaceans of the Baltic and the North Seas. De overeenkomst vloeit voort uit de Bonn-conventie. Het doel is samenwerken om een gunstige staat van instandhouding van tandwalvissen te bereiken en te behouden in de Noordzee en de Baltische zeeën. Het interimdoel is geformuleerd als ‘*to restore and/or maintain stocks/populations to 80% or more of the carrying capacity*’ Naar aanleiding van het advies van de Commissie voor de m.e.r. is bij de besluitvorming ook rekening gehouden met het feit dat de soort zich in een matig ongunstige staat van instandhouding bevindt. Het maximale toegestane effect is daarmee kleiner dan waar in het KEC vanuit is gegaan.
+
+- 3. In het KEC is uitgegaan van een *worst case*scenario van 3 MW turbines voor alle windparken in de Zuidelijke Noordzee. Kleinere rotors, en dus meer turbines, zijn schadelijker voor zowel vogels, vleermuizen en zeezoogdieren. Naar verwachting zullen windturbines in de toekomst steeds groter worden. Wanneer er met dit *worst case* scenario geen negatieve effecten op beschermde Natura 2000-gebieden of gunstige staat van instandhouding van beschermde soorten is geconstateerd, zullen de effecten bij grotere turbines alleen maar afnemen, wat gunstig is voor alle onderzochte soorten.
+
 Het KEC zal periodiek herzien worden en als basis dienen voor nieuwe ruimtelijke besluiten voor windenergie op zee waaronder de kavelbesluiten. De reeds genomen kavelbesluiten blijven in principe ongewijzigd. Alleen in zeer uitzonderlijke situaties wanneer er wijzigingen worden geconstateerd die de eerdere conclusies uit de reeds genomen kavelbesluiten onhoudbaar maken, zal het Rijk overwegen om een procedure tot wijziging van een kavelbesluit in gang te zetten. Hiervoor zal volgens de [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) de uitgebreide openbare voorbereidingsprocedure zoals beschreven in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) worden gevolgd, zoals die ook geldt voor de nieuwe kavelbesluiten.
 
-In het MER zijn de locatieonderbouwing en de verkaveling beschreven. Het MER geeft tevens inzicht in de milieueffecten van de opstellingsvarianten van windturbines in kavel III en V. Hiervoor is een **uiterste** bandbreedte gedefinieerd op relevante aspecten zoals aantal turbines, ashoogte, rotordiameter en fundatie (zie ook hoofdstuk 5).
+MER
+
+In het MER zijn de locatieonderbouwing en de verkaveling beschreven. Het MER geeft tevens inzicht in de milieueffecten van de opstellingsvarianten van windturbines in kavel III en V. Hiervoor is een *uiterste* bandbreedte gedefinieerd op relevante aspecten zoals aantal turbines, ashoogte, rotordiameter en fundatie (zie ook [hoofdstuk 5](https://wetten.overheid.nl/BWBR0037811)).
 
 In het MER wordt voor vogels naast de PBR-methode uit het KEC ook de ORNIS-norm28Volgens dit criterium, opgesteld door het ORNIS comité, moet iedere additionele sterfte van minder dan één procent van de totale jaarlijkse sterfte aan de betrokken populatie (gemiddelde waarde) als niet significant worden beschouwd. Het Hof van Justitie gebruikt dit criterium als maatstaf om te beoordelen of sprake is van significantie (o.a. zaak C-79/03 (Commissie/Spanje)). toegepast. Om te bepalen of de gunstige staat van instandhouding van de betreffende soorten in het geding komt, is eerst het ORNIS- criterium van 1% additionele sterfte als ‘grove zeef’ toegepast. Wanneer de sterfte onder deze 1%- mortaliteitsnorm blijft, kan een effect op de gunstige staat van instandhouding van de betreffende populatie met zekerheid uitgesloten worden. Wanneer de voorspelde sterfte de 1%- mortaliteitsnorm overschrijdt, is door middel van de PBR-methode in meer detail bekeken wat de effecten op de populatie zijn.
 
 In het MER is uitgegaan van een gezamenlijke 380MW voor kavel III en het innovatiekavel (kavel V). In kavel III zal echter maximaal 360 MW worden gerealiseerd en in het innovatiekavel maximaal 20 MW. De hieronder geschetste effecten voor het zelfstandige kavel III zijn gebaseerd op de gegevens uit het MER en geven daarom een kleine overschatting van de effecten van het daadwerkelijke te realiseren windpark in kavel III.
 
+Passende beoordeling
+
 Negatieve gevolgen op soorten en habitats met een instandhoudingsdoelstelling in beschermde Natura 2000-gebieden zijn in de Passende Beoordeling onderzocht.
 
 In de Passende Beoordeling is geconcludeerd dat effecten ten aanzien van fytoplankton, bodemfauna, vissen, vislarven en doorwerkende effecten daarvan op visetende broedvogels, alsmede effecten ten aanzien van vleermuizen niet leiden tot significante effecten op Natura 2000-gebieden.
 
-Voor effecten op vogels en zeezoogdieren heeft een nadere analyse op significante effecten plaatsgevonden in de Passende Beoordeling. De resultaten staan in paragraaf 7.3 beschreven.
+Voor effecten op vogels en zeezoogdieren heeft een nadere analyse op significante effecten plaatsgevonden in de Passende Beoordeling. De resultaten staan in [paragraaf 7.3](https://wetten.overheid.nl/BWBR0037811) beschreven.
+
+Voorkeursalternatief
 
 Op basis van de uitkomsten van het KEC,het MER en de notitie ‘Zilvermeeuw slachtofferaantallen bij vier scenario’s van SER windparken’29A. Gyimesi ‘Zilvermeeuw slachtofferaantallen bij vier scenario’s van SER windparken’ Notitie 15-314, Bureau Waardenburg bv. is de uiterste bandbreedte ingeperkt tot het voorkeursalternatief zodat ook in cumulatie significant negatieve effecten vermeden kunnen worden en de gunstige staat van instandhouding niet wordt aangetast. Het voorkeursalternatief wordt door middel van voorschriften dwingend opgelegd aan de vergunninghouder. Het voorkeursalternatief bestaat uit:
+
+- − Een ondergrens van de toe te passen turbines met een vermogen van 6 MW per turbine. Dit voorkeursalternatief is nader uitgewerkt in een voorschrift gebaseerd op het minimum en maximum nominaal vermogen per turbine.
+
+- − Een voorziening voor het verminderen van aanvaringsslachtoffers onder vogels bij het constateren van massale vogeltrek in combinatie met bepaalde weersomstandigheden.
+
+- − Een voorziening voor het verminderen van aanvaringsslachtoffers onder vleermuizen in perioden en omstandigheden waarin vleermuizen migreren.
+
+- − Een voorziening waarbij de geluidsproductie tijdens het heien wordt begrensd tot een maximale waarde tussen 162 en 172 dB re µPa2s op 750 meter, afhankelijk van het seizoen en het totaal aantal op te richten windturbines per park.
 
 ### 7.3. Gevolgen
 
@@ -627,19 +723,33 @@ Op basis van de uitkomsten van het KEC,het MER en de notitie ‘Zilvermeeuw slac
 
 In het plangebied komen veel verschillende vogelsoorten voor. Voor effectbepaling zijn de vogels conform het MER onder te verdelen in drie categorieën:
 
+- • Vogels tijdens het trekseizoen;
+
+- • Lokaal verblijvende niet -broedvogels;
+
+- • Broedende kolonievogels vanuit beschermde Natura 2000-gebieden die het plangebied kunnen bereiken.
+
 De laatste categorie is in de Passende Beoordeling onderzocht.
+
+Trekvogels – effecten op vogels windpark kavels III en V
 
 De energetische gevolgen door barrièrewerking zijn voor alle trekvogelsoorten verwaarloosbaar klein. Voor aanvaringen met windturbines wordt onder de groep van zangvogels het grootste aantal slachtoffers verwacht. De additionele jaarlijkse sterfte als gevolg van aanvaringen blijft echter voor alle soorten ruim beneden de 1% mortaliteitsnorm (ORNIS-criterium) welke gehanteerd wordt om te bepalen of er sprake is van negatieve effecten op populatieniveau. Aantasting van de gunstige staat van instandhouding ten gevolge van aanvaringen kan daarom worden uitgesloten.
 
+Trekvogels – cumulatieve effecten
+
 In het KEC zijn de cumulatieve effecten ten gevolge van aanvaringen onderzocht. Het maximale effect wordt berekend voor de kleine zwaan waar het cumulatieve effect 44% van de PBR bedraagt. Aantasting van de gunstige staat van instandhouding ten gevolge van aanvaringen kan daarom worden uitgesloten.
+
+Verblijvende vogels – effecten op vogels windpark kavels III en V
 
 Als gevolg van een windpark in kavels III en V kunnen vogels het gebied vermijden of in aanvaring komen met de windturbines. Met name jan van genten, zeekoeten en alken kunnen mogelijk het gebied vermijden, waarbij het vermeden gebied zo groot is als kavels III en V. Het gaat daarbij maximaal om een gebied van 74,9 km2. In relatie tot het totale beschikbare areaal aan leefgebied is het leefgebiedsverlies als gevolg van kavels III en V dusdanig klein dat dit verwaarloosbaar is.
 
 Onder kleine mantelmeeuwen worden de hoogste aantallen aanvaringsslachtoffers verwacht. Afgezet tegen het maximaal toelaatbare effect op populatieniveau (PBR), treedt het grootste effect op bij de grote mantelmeeuw. Voor deze soort is het effect ten gevolge van aanvaringsslachtoffers door een windpark in kavels III en V maximaal 4,7% van de PBR. Aantasting van de gunstige staat van instandhouding ten gevolge van aanvaringen kan daarom voor alle verblijvende vogelsoorten worden uitgesloten.
 
-Voor verblijvende vogels zijn de cumulatieve gevolgen in het KEC onderzocht via leefgebiedsverlies (vermijding) en aanvaringsslachtoffers. De vermijdingseffecten onder zeevogels zijn het grootst voor zeekoet en alk. Hoewel de effecten van vermijding voor een enkel windpark verwaarloosbaar zijn, is dit niet het geval wanneer bestaande en geplande windparken samen worden beschouwd. **Worst case** wordt aangenomen dat ten gevolge van het verlies aan leefgebied 10% van de dieren die vermijding vertonen sterven. Voor de zeekoet, de meest gevoelige soort voor dit type effect, wordt berekend dat het aantal slachtoffers dat sterft als gevolg van verlies aan leefgebied in cumulatie neerkomt op ongeveer 13% van de PBR. De gunstige staat van instandhouding komt hiermee niet in het geding.
+Verblijvende vogels – cumulatieve effecten op vogels
 
-Als gevolg van aanvaringen zijn de hoogste aantallen slachtoffers te verwachten onder de kleine mantelmeeuw, grote mantelmeeuw en zilvermeeuw. Het aantal slachtoffers onder deze vogelsoorten overschrijdt in het onderzochte internationale **worst case** scenario in het KEC de PBR.
+Voor verblijvende vogels zijn de cumulatieve gevolgen in het KEC onderzocht via leefgebiedsverlies (vermijding) en aanvaringsslachtoffers. De vermijdingseffecten onder zeevogels zijn het grootst voor zeekoet en alk. Hoewel de effecten van vermijding voor een enkel windpark verwaarloosbaar zijn, is dit niet het geval wanneer bestaande en geplande windparken samen worden beschouwd. *Worst case* wordt aangenomen dat ten gevolge van het verlies aan leefgebied 10% van de dieren die vermijding vertonen sterven. Voor de zeekoet, de meest gevoelige soort voor dit type effect, wordt berekend dat het aantal slachtoffers dat sterft als gevolg van verlies aan leefgebied in cumulatie neerkomt op ongeveer 13% van de PBR. De gunstige staat van instandhouding komt hiermee niet in het geding.
+
+Als gevolg van aanvaringen zijn de hoogste aantallen slachtoffers te verwachten onder de kleine mantelmeeuw, grote mantelmeeuw en zilvermeeuw. Het aantal slachtoffers onder deze vogelsoorten overschrijdt in het onderzochte internationale *worst case* scenario in het KEC de PBR.
 
 Om verder te onderzoeken waardoor deze overschrijding veroorzaakt wordt, is een nieuwe berekening uitgevoerd met een realistischere inschatting van de te bouwen windparken tot en met 2023. Voor zover deze gegevens bekend zijn, zijn hierbij de gegevens van de daadwerkelijke gebouwde of te bouwen turbines gebruikt. Voor windparken waarbij dit nog niet bekend is (waaronder het Energieakkoord), is gezien de huidige trend uitgegaan van 5 MW turbines. Uitgaande van dit meer realistische scenario voor de te bouwen windparken, blijft het aantal slachtoffers voor de grote mantelmeeuw en zilvermeeuw wel onder de PBR. Voor de kleine mantelmeeuw wordt echter wel nog steeds een overschrijding van de PBR geconstateerd. Bij het bestuderen van de onderliggende data is gebleken dat de PBR al wordt overschreden wanneer alleen de geplande buitenlandse parken worden meegenomen. Dit betekent dat ook wanneer de geplande parken van het Energieakkoord niet worden gerealiseerd, de PBR nog steeds wordt overschreden.
 
@@ -647,45 +757,59 @@ Voor het NCP is meer betrouwbare en gedetailleerde verspreidingsdata van vogels 
 
 Voor de kavels III (inclusief V) en IV van windenergiegebied Borssele wordt daarom de bovengrens voor het aantal turbines vastgesteld op 63, dus turbines van minimaal 6 MW. Ook in kavel V wordt een ondergrens van 6 MW per turbine voorgeschreven. Omdat ervoor gekozen is om in de kavels I en II een bovengrens van 95 turbines te hanteren, zullen in de kavels gelegen in het windenergiegebied Hollandse Kust van het Energieakkoord grotere turbines moeten worden voorgeschreven om gemiddeld uit te komen op maximaal 63 turbines per park om de gunstige staat van instandhouding te kunnen waarborgen.
 
+Passende Beoordeling – vogels
+
 Negatieve effecten op soorten met een instandhoudingsdoel in Natura 2000-gebieden kunnen enkel optreden via zogenaamde externe werking. Vanwege de afstand tot Natura 2000-gebieden kunnen visuele effecten worden uitgesloten en gaat het enkel om aanvaringslachtoffers die vanuit beschermde Natura 2000-gebieden foerageertochten op zee ondernemen. Van de kolonievogels zijn de kleine mantelmeeuw en de grote stern de enige soorten die het windpark in kavels III en V kunnen bereiken vanuit beschermde broedkolonies in Natura 2000-gebieden. Voor kleine mantelmeeuw gaat het om individuen uit de kolonies Veerse Meer (NL) en Alde, Ore and Butley Estuaries (UK). Het maximale effect is 0,34% van de jaarlijkse sterfte. In alle gevallen blijft het effect onder de 1% additionele sterfte en kunnen significante effecten worden uitgesloten. Uit veldonderzoek is gebleken dat kleine mantelmeeuwen uit het Natura 2000-gebied Krammer-Volkerak (NL) vrijwel uitsluitend in het binnenland foerageren. Significant negatieve effecten ten gevolge van een windpark in kavels III en V Borssele kunnen daarom uitgesloten worden.
 
 Voor de grote stern gaat het om individuen uit de kolonies van de Hooge Platen in het Natura 2000-gebied Westerschelde (NL) en Zeebrugge (BE). In beide gevallen blijft het effect onder de 1% additionele sterfte en kunnen significante effecten worden uitgesloten.
+
+Passende Beoordeling – vogels cumulatief
 
 Met het aanpassen van de ondergrens voor de turbinegrootte wordt het duurzame voortbestaan van de populatie van vogels niet aangetast als gevolg van de exploitatie van een windpark in kavel III en V. Omdat de gunstige staat van instandhouding van vogelpopulaties in de EEZ niet in gevaar wordt gebracht, zijn significant negatieve effecten op doelaantallen in Natura 2000-gebieden uit te sluiten.
 
 ### 7.3.2. Vleermuizen
 
+Effecten op vleermuizen windpark kavels III en V
+
 Over de aanwezigheid, het gedrag en daarmee ook de gevoeligheid van vleermuizen op zee voor (o.a.) operationele windparken bestaan nog grote kennisleemtes. Op basis van de beschikbare kennis is duidelijk dat in ieder geval ruige dwergvleermuis boven de Zuidelijke Noordzee voorkomt, maar ook tweekleurige vleermuis en rosse vleermuis komen voor.
 
-De schaarse gegevens die er wel zijn, suggereren dat vrijwel alle activiteit van vleermuizen op zee plaatsvindt in het voorjaar en vooral in de nazomer in de nacht bij windkrachten onder de 8 m/s. Het merendeel van de vleermuisactiviteit wordt echter gemeten in nachten met windkrachten tot 5 m/s. **Worst case** wordt de aanname gedaan van één dode vleermuis per turbine per jaar.
+De schaarse gegevens die er wel zijn, suggereren dat vrijwel alle activiteit van vleermuizen op zee plaatsvindt in het voorjaar en vooral in de nazomer in de nacht bij windkrachten onder de 8 m/s. Het merendeel van de vleermuisactiviteit wordt echter gemeten in nachten met windkrachten tot 5 m/s. *Worst case* wordt de aanname gedaan van één dode vleermuis per turbine per jaar.
 
-Mogelijke negatieve effecten van het windpark op vleermuizen hebben vooral betrekking op aanvaringen met windturbines. Het gaat daarbij in het **worst case** scenario (63 turbines van 6 MW) om totaal maximaal 63 slachtoffers ten gevolge van een windpark in kavels III en V. Hiervan zijn verreweg de meeste slachtoffers ruige dwergvleermuizen. Aantasting van de gunstige staat van instandhouding door de eigenstandige projecten in kavels III en V kan voor alle vleermuissoorten worden uitgesloten, omdat de aantallen ruim onder de PBR liggen.
+Mogelijke negatieve effecten van het windpark op vleermuizen hebben vooral betrekking op aanvaringen met windturbines. Het gaat daarbij in het *worst case* scenario (63 turbines van 6 MW) om totaal maximaal 63 slachtoffers ten gevolge van een windpark in kavels III en V. Hiervan zijn verreweg de meeste slachtoffers ruige dwergvleermuizen. Aantasting van de gunstige staat van instandhouding door de eigenstandige projecten in kavels III en V kan voor alle vleermuissoorten worden uitgesloten, omdat de aantallen ruim onder de PBR liggen.
+
+Cumulatieve effecten op vleermuizen
 
 Onder de in het KEC gedane aanname van één dode vleermuis per turbine per jaar en 8.000 turbines over de gehele Zuidelijke Noordzee, kunnen mogelijk 8.000 extra dode vleermuizen per jaar als slachtoffer vallen. Dit betreft voornamelijk (95%) ruige dwergvleermuizen.
 
 Bij een conservatieve schatting van de populatiegroottes, wordt voor de ruige dwergvleermuis het niveau van PBR voor die soort overschreden. De meest voorzichtige schattingen van PBR voor de ruige dwergvleermuis, gebaseerd op populatieschattingen uit slechts een deel van zijn verspreidingsgebied, komen uit op getallen tussen 1.000 en 5.000. Voor zowel de tweekleurige als de rosse vleermuis wordt de PBR niet overschreden en daarmee de staat van instandhouding niet aangetast.
 
-Om het aantal slachtoffers te verminderen wordt een voorschrift opgenomen. De hierin vastgelegde maatregel is hierbij afgestemd op perioden en omstandigheden met de hoogste activiteit van ruige dwergvleermuizen boven de Noordzee. De gunstige staat van instandhouding van de ruige dwergvleermuis blijft in dat geval gewaarborgd. De onderbouwing en uitwerking van dit voorschrift worden nader toegelicht in paragraaf 7.8.3.
+Om het aantal slachtoffers te verminderen wordt een voorschrift opgenomen. De hierin vastgelegde maatregel is hierbij afgestemd op perioden en omstandigheden met de hoogste activiteit van ruige dwergvleermuizen boven de Noordzee. De gunstige staat van instandhouding van de ruige dwergvleermuis blijft in dat geval gewaarborgd. De onderbouwing en uitwerking van dit voorschrift worden nader toegelicht in [paragraaf 7.8.3](https://wetten.overheid.nl/BWBR0037811).
 
 Zowel in het MER als in het KEC zijn grote kennisleemtes ten opzichte van de aanwezigheid en het gedrag van vleermuizen op de Noordzee aangegeven. In het door de overheid op te stellen generieke monitorings- en evaluatieprogramma zal daarom ook specifiek aandacht worden besteed aan het vergroten van de kennis over dit onderwerp.
 
 ### 7.3.3. Bruinvissen
 
+Effecten op bruinvissen windpark kavels III en V
+
 Voor de bruinvis, de meest gevoelige zeezoogdiersoort ten aanzien van onderwatergeluid, zijn de effecten op de populatie in de Zuidelijke Noordzee onderzocht als gevolg van onderwatergeluid door hei-activiteiten. Bij de andere funderingstechnieken die in het MER zijn beschouwd zal minder geluid worden geproduceerd en zullen er dus minder effecten zijn.
 
-In het doorgerekende **worst case**-scenario (95 turbines van 4 MW, geen geluidsmitigatie) kunnen in het voorjaar, wanneer dichtheden bruinvissen in de EEZ het hoogst zijn, maximaal 26 bruinvissen als gevolg van heiwerkzaamheden in kavels III en V permanente gehoorschade oplopen.
+In het doorgerekende *worst case*-scenario (95 turbines van 4 MW, geen geluidsmitigatie) kunnen in het voorjaar, wanneer dichtheden bruinvissen in de EEZ het hoogst zijn, maximaal 26 bruinvissen als gevolg van heiwerkzaamheden in kavels III en V permanente gehoorschade oplopen.
 
-Daarnaast kunnen bruinvissen over een oppervlak van maximaal 3.136 km2 kilometer een vermijdingsreactie vertonen als gevolg van onderwatergeluid. De gevolgen van deze vermijdingsreactie voor de bruinvispopulatie zijn bepaald door middel van het **Interim PCoD**31Interim Population Consequences of Disturbance, Sea Mammal Research Unit (2015). Het interim PCoD model is een methode om te bepalen in welke mate verstoring van individuele dieren doorwerkt op de gehele populatie. model. Bij het toepassen van het **Interim PCoD**model is gebruik gemaakt van de meest recente inzichten van de ‘Werkgroep Onderwatergeluid32De Werkgroep Onderwatergeluid is op initiatief van Rijkswaterstaat Zee en Delta (toenmalig Dienst Noordzee) begin 2013 opgericht. Deelnemende experts zijn afkomstig van Rijkswaterstaat, DGRW, TNO, SEAMARCO, IMARES, Arcadis, Deltares, RHDHV en HWE. De werkgroep stelt zich tot doel op grond van de meest recente inzichten uit onderzoek te komen tot een breed gedragen redeneerlijn voor het inschatten van (cumulatieve) effecten van impulsief onderwatergeluid op (populaties van) zeezoogdieren. Hierbij is gebruik gemaakt van het Interim PCoD model..
+Daarnaast kunnen bruinvissen over een oppervlak van maximaal 3.136 km2 kilometer een vermijdingsreactie vertonen als gevolg van onderwatergeluid. De gevolgen van deze vermijdingsreactie voor de bruinvispopulatie zijn bepaald door middel van het *Interim PCoD*31Interim Population Consequences of Disturbance, Sea Mammal Research Unit (2015). Het interim PCoD model is een methode om te bepalen in welke mate verstoring van individuele dieren doorwerkt op de gehele populatie. model. Bij het toepassen van het *Interim PCoD*model is gebruik gemaakt van de meest recente inzichten van de ‘Werkgroep Onderwatergeluid32De Werkgroep Onderwatergeluid is op initiatief van Rijkswaterstaat Zee en Delta (toenmalig Dienst Noordzee) begin 2013 opgericht. Deelnemende experts zijn afkomstig van Rijkswaterstaat, DGRW, TNO, SEAMARCO, IMARES, Arcadis, Deltares, RHDHV en HWE. De werkgroep stelt zich tot doel op grond van de meest recente inzichten uit onderzoek te komen tot een breed gedragen redeneerlijn voor het inschatten van (cumulatieve) effecten van impulsief onderwatergeluid op (populaties van) zeezoogdieren. Hierbij is gebruik gemaakt van het Interim PCoD model..
 
 Uit het model volgt dat het aantal bruinvisverstoringsdagen bepalend is voor de mogelijke populatie-effecten. Hierbij is het aantal bruinvisverstoringsdagen berekend door het aantal mogelijk verstoorde dieren per dag te vermenigvuldigen met het aantal verstoringsdagen. Het aantal mogelijk verstoorde bruinvissen per dag wordt hierbij berekend door het berekende verstoringsoppervlak te vermenigvuldigen met een schatting van de dichtheid van bruinvissen binnen dat oppervlak. Het aantal verstoringsdagen staat voor monopalen gelijk aan het aantal windturbines, waarbij de aanname is dat er één paal per dag wordt geheid en de verstoring als gevolg daarvan ook een dag duurt. Voor tripods en jackets wordt aangenomen dat de voor de fundering van één windturbine benodigde palen ook binnen één dag worden geheid, waardoor de verstoring gelijk of minder is dan die van monopalen.
 
-De in **worst case**berekende maximale populatiereductie33De vertaling tussen de verstoring en gevolgen voor de populatie is gebaseerd op **expert judgement.** Het resultaat uit het model, een mogelijke populatiereductie, is een gevolg van een kans op verminderde reproductie en een kans op sterfte van kalveren en juveniele dieren. Het is dus géén gevolg van enkel directe sterfte als gevolg van heien. (3,1% van de populatie in de EEZ) is groter dan de maximale toelaatbare reductie. Negatieve effecten op de gunstige staat van instandhouding zijn dan ook niet uit te sluiten. Er wordt een voorschrift opgenomen dat de geluidsproductie limiteert.
+De in *worst case*berekende maximale populatiereductie33De vertaling tussen de verstoring en gevolgen voor de populatie is gebaseerd op *expert judgement.* Het resultaat uit het model, een mogelijke populatiereductie, is een gevolg van een kans op verminderde reproductie en een kans op sterfte van kalveren en juveniele dieren. Het is dus géén gevolg van enkel directe sterfte als gevolg van heien. (3,1% van de populatie in de EEZ) is groter dan de maximale toelaatbare reductie. Negatieve effecten op de gunstige staat van instandhouding zijn dan ook niet uit te sluiten. Er wordt een voorschrift opgenomen dat de geluidsproductie limiteert.
 
 Onderwatergeluidsniveaus als gevolg van operationele windturbines zijn lager dan de geluidsniveaus waarboven de gevoeligste soort, de bruinvis, vermijding vertoont. Negatieve effecten van operationele windturbines op de populatie zijn dan ook uit te sluiten.
 
+Cumulatieve effecten op bruinvissen
+
 Uit het KEC blijkt dat enkel in de variant waarbij de mate van onderwatergeluid wordt beperkt tijdens de aanlegactiviteiten, negatieve effecten op de populatie bruinvissen in de EEZ uitgesloten kunnen worden. In het KEC wordt geconcludeerd dat de verstoring niet leidt tot negatieve effecten op het behoud van de gunstige staat van instandhouding, indien bij de aanlegactiviteiten de geluidsbelasting wordt beperkt tot 159dB re 1 µPa2s op 750 m van de heilocatie. Daarom wordt een voorschrift opgenomen dat de geluidsproductie limiteert.
 
-Om recht te doen aan verschillende factoren die van invloed zijn op de verstoring van bruinvissen tijdens het heien is gekozen voor een variabele norm. Met deze norm wordt de geluidsproductie begrensd tot een maximale waarde tussen 159 en 172 dB re µPa2s op 750 meter, afhankelijk van het seizoen en het aantal op te richten windturbines. Bij het opstellen van het voorschrift is tevens uitvoering gegeven aan het advies van de Commissie voor de m.e.r. om bij het maximale acceptabele effect rekening te houden met de matig ongunstige staat van instandhouding waarin de soort zich bevindt. Berekend is dat met dit voorschrift de populatiereductie als gevolg van de aanleg van de windparken op zee van het Energieakkoord met grote zekerheid (95%) niet meer dan 5% is. De onderbouwing en uitwerking van dit voorschrift wordt nader toegelicht in paragraaf 7.8.2.
+Om recht te doen aan verschillende factoren die van invloed zijn op de verstoring van bruinvissen tijdens het heien is gekozen voor een variabele norm. Met deze norm wordt de geluidsproductie begrensd tot een maximale waarde tussen 159 en 172 dB re µPa2s op 750 meter, afhankelijk van het seizoen en het aantal op te richten windturbines. Bij het opstellen van het voorschrift is tevens uitvoering gegeven aan het advies van de Commissie voor de m.e.r. om bij het maximale acceptabele effect rekening te houden met de matig ongunstige staat van instandhouding waarin de soort zich bevindt. Berekend is dat met dit voorschrift de populatiereductie als gevolg van de aanleg van de windparken op zee van het Energieakkoord met grote zekerheid (95%) niet meer dan 5% is. De onderbouwing en uitwerking van dit voorschrift wordt nader toegelicht in [paragraaf 7.8.2](https://wetten.overheid.nl/BWBR0037811).
+
+Passende Beoordeling – bruinvissen
 
 Met inbegrip van de mitigerende maatregelen (beperken onderwatergeluid tijdens de aanlegfase) wordt het duurzame voortbestaan van de populatie bruinvissen niet aangetast als gevolg van de aanleg van een windpark in kavels III en V. Significant negatieve effecten op doelaantallen zijn in Natura 2000-gebieden daarom uit te sluiten.
 
@@ -695,7 +819,7 @@ Omdat de gunstige staat van instandhouding van de populatie bruinvissen op de EE
 
 ### 7.3.4. Gewone en grijze zeehond
 
-**Effecten op gewone en grijze zeehond windpark kavels III en V**
+*Effecten op gewone en grijze zeehond windpark kavels III en V*
 
 Beide zeehondensoorten die in de EEZ voorkomen, de grijze zeehond en gewone zeehond, reageren minder gevoelig op onderwatergeluid dan de bruinvis. Effecten als gevolg van onderwatergeluid tijdens aanlegwerkzaamheden (hei-activiteiten) zijn daarom kleiner dan voor bruinvissen.
 
@@ -703,7 +827,11 @@ Uit het MER blijkt dat het gebied waarbinnen bij zeehonden de gehoordrempel perm
 
 Onderwatergeluidsniveaus als gevolg van operationele windturbines zijn lager dan de geluidsniveaus waarboven de gevoeligste soort, de bruinvis, vermijding vertoont. Omdat zeehonden minder gevoelig zijn voor verstoring door onderwatergeluid dan bruinvissen, zijn ook voor beide soorten zeehonden negatieve effecten uit te sluiten.
 
+Cumulatieve effecten op gewone en grijze zeehond
+
 In cumulatie34Voor zeehonden is een cumulatief scenario bepaald met twee kavels in Borssele en MERmaid (BE). Zeehonden zijn meer plaatsgebonden en plaatstrouw dan bruinvissen waardoor deze aanpak voor zeehonden meer geëigend is. wordt een beperkt deel van de populatie zeehonden in de EEZ verstoord. Door de voorgeschreven mitigerende maatregel ten aanzien van de geluidsproductie is dat nog minder. Omdat het om een beperkt aantal dieren gaat en het door geluid beïnvloede gebied van beperkt belang is als foerageergebied, zal de gunstige staat van instandhouding niet worden aangetast.
+
+Passende Beoordeling – gewone en grijze zeehond
 
 Met inbegrip van de maatregel om geluidsproductie bij heien te verminderen, treden er geen geluidsbelastingen op in Natura 2000-gebieden waarbij zeehonden vermijding vertonen. Voor zeehonden kunnen significant negatieve effecten ten gevolge van alleen een windpark in kavels III en V in Borssele worden uitgesloten.
 
@@ -711,13 +839,13 @@ De verstoringscontour voor zeehonden reikt, met inbegrip van de mitigerende maat
 
 Omdat de gunstige staat van instandhouding gewaarborgd is, kunnen significant negatieve effecten, ook in cumulatie, op doelaantallen in Natura 2000-gebieden worden uitgesloten.
 
-Om negatieve effecten ten gevolge van onderhoudsschepen op de rust-, verhaar- en verblijfplaatsen in Natura 2000-gebieden uit te sluiten wordt een voorschrift opgenomen. Dit voorschrift wordt verder toegelicht in paragraaf 7.8.5.
+Om negatieve effecten ten gevolge van onderhoudsschepen op de rust-, verhaar- en verblijfplaatsen in Natura 2000-gebieden uit te sluiten wordt een voorschrift opgenomen. Dit voorschrift wordt verder toegelicht in [paragraaf 7.8.5](https://wetten.overheid.nl/BWBR0037811).
 
 ### 7.3.5. Vissen
 
 Uit het MER blijkt dat vissen gedood of verwond kunnen worden en vermijding kunnen vertonen, maar dat effecten op populatieniveau zijn uit te sluiten. Vanwege de maatregel om de geluidsbelasting te beperken zullen effecten in omvang bovendien worden beperkt. De gunstige staat van instandhouding van de in het gebied aanwezige vissoorten komt niet in het geding.
 
-Een aantal vissen behoort tot beschermde soorten volgens de Habitatrichtlijn (zeeprik, rivierprik, elft, fint en zalm). Het gaat om soorten die migreren tussen zoet en zout water. In het algemeen is de kennis over de verspreiding van die soorten in de Noordzee zeer beperkt, maar voor deze beschermde soorten wordt op basis van **expert judgement** niet verwacht dat het windenergiegebied Borssele van wezenlijk belang is. Bovendien zijn de belangrijkste knelpunten voor de huidige instandhouding van deze beschermde soorten de kwaliteit en beschikbaarheid van zoetwaterhabitats. Mede om die reden worden significante effecten van de aanleg van windparken op deze soorten niet verwacht.
+Een aantal vissen behoort tot beschermde soorten volgens de Habitatrichtlijn (zeeprik, rivierprik, elft, fint en zalm). Het gaat om soorten die migreren tussen zoet en zout water. In het algemeen is de kennis over de verspreiding van die soorten in de Noordzee zeer beperkt, maar voor deze beschermde soorten wordt op basis van *expert judgement* niet verwacht dat het windenergiegebied Borssele van wezenlijk belang is. Bovendien zijn de belangrijkste knelpunten voor de huidige instandhouding van deze beschermde soorten de kwaliteit en beschikbaarheid van zoetwaterhabitats. Mede om die reden worden significante effecten van de aanleg van windparken op deze soorten niet verwacht.
 
 ### 7.4. Leemtes in kennis
 
@@ -729,19 +857,21 @@ Voor vleermuizen geldt dat er leemtes in kennis zijn ten aanzien van de basisken
 
 Voor vissen en zeezoogdieren ontbreekt kennis over het relatieve belang en functies van specifieke gebieden op zee. Het gaat hierbij om zowel kennis voor de populatie als geheel als om inzicht in individuele variatie.
 
-Een belangrijke kennisleemte met betrekking tot zeezoogdieren betreft de relatie tussen de mate van verstoring van individuele dieren en populatie-effecten. Huidige modellen berusten vooral op **expert judgement**. Validatie van deze modellen ontbreekt. Voor bruinvissen ontbreken bovendien nauwkeurige basisgegevens van populatieparameters zoals omvang en aantalsverloop door de tijd. Invloed van omgevingsfactoren op gedragsveranderingen van zeezoogdieren als gevolg van onderwatergeluid zijn onbekend.
+Een belangrijke kennisleemte met betrekking tot zeezoogdieren betreft de relatie tussen de mate van verstoring van individuele dieren en populatie-effecten. Huidige modellen berusten vooral op *expert judgement*. Validatie van deze modellen ontbreekt. Voor bruinvissen ontbreken bovendien nauwkeurige basisgegevens van populatieparameters zoals omvang en aantalsverloop door de tijd. Invloed van omgevingsfactoren op gedragsveranderingen van zeezoogdieren als gevolg van onderwatergeluid zijn onbekend.
 
 Er zijn kennisleemtes over effecten op onderwaterleven en vogels als gevolg van scheepsgeluid en geluid door seismisch onderzoek. Daarnaast is er een kennisleemte ten aanzien van de effecten van het geluidsspectrum tijdens de aanleg. Het effect van signaalvorm en frequentie-inhoud op de dosis-effectrelatie behoeft nader onderzoek. De effecten van trillingen door de zeebodem als gevolg van hei-activiteiten zijn slechts beperkt bekend.
 
 Verder is onbekend in hoeverre grootschalige aanpassing van het Noordzeehabitat veranderingen of verschuivingen teweeg kan brengen in het ecosysteem. Daarnaast is niet bekend in hoeverre het windpark voor vis(populaties) een functie heeft als toevluchtsgebied bij een voor scheepvaart gesloten windpark.
 
-Deze leemtes in kennis zullen niet leiden tot onomkeerbare gevolgen als gevolg van de windparken voor de relevante soorten vanwege het gehanteerde **worst case** scenario bij het bepalen van effecten van de windparken. Ten behoeve van de geconstateerde kennisleemtes en de effectiviteit van opgenomen mitigerende maatregelen wordt een monitorings- en evaluatieprogramma gedefinieerd. Hiervoor zal de overheid het gedeelte met betrekking tot generieke kennisleemtes opzetten, trekken en (laten) uitvoeren. Om uitvoering van dit generieke monitoringsprogramma mogelijk te maken is een voorschrift opgenomen (voorschrift 5). Dit voorschrift wordt verder toegelicht in paragraaf 7.8.6. Vanwege het ontbreken van locatiespecifieke kennisleemtes worden er in dit besluit geen voorschriften opgenomen die de vergunninghouder verplichten tot het uitvoeren van locatiespecifiek onderzoek.
+Afweging leemtes in kennis
 
-### 7.5. Afweging omtrent [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) met inachtneming [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752)
+Deze leemtes in kennis zullen niet leiden tot onomkeerbare gevolgen als gevolg van de windparken voor de relevante soorten vanwege het gehanteerde *worst case* scenario bij het bepalen van effecten van de windparken. Ten behoeve van de geconstateerde kennisleemtes en de effectiviteit van opgenomen mitigerende maatregelen wordt een monitorings- en evaluatieprogramma gedefinieerd. Hiervoor zal de overheid het gedeelte met betrekking tot generieke kennisleemtes opzetten, trekken en (laten) uitvoeren. Om uitvoering van dit generieke monitoringsprogramma mogelijk te maken is een voorschrift opgenomen ([voorschrift 5](https://wetten.overheid.nl/BWBR0037811)). Dit voorschrift wordt verder toegelicht in [paragraaf 7.8.6](https://wetten.overheid.nl/BWBR0037811). Vanwege het ontbreken van locatiespecifieke kennisleemtes worden er in dit besluit geen voorschriften opgenomen die de vergunninghouder verplichten tot het uitvoeren van locatiespecifiek onderzoek.
 
-### 7.5.1. Eisen [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640)
+### 7.5. Afweging omtrent Flora- en faunawet met inachtneming Wet windenergie op zee
 
-Zoals in paragraaf 2.1.2 is beschreven, moet er, voordat vrijstelling of ontheffing van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) kan worden verleend, voor streng beschermde soorten aan drie eisen worden voldaan (‘uitgebreide toets’): de gunstige staat van instandhouding van beschermde soorten mag niet in het geding komen, er mag geen andere bevredigende oplossing zijn en er moet sprake zijn van minstens één van de in de wet en/of Europese richtlijnen genoemde belangen. Welk belang kan worden gebruikt, is afhankelijk van het beschermingsregime waar de soort onder valt.
+### 7.5.1. Eisen Flora- en faunawet
+
+Zoals in [paragraaf 2.1.2](https://wetten.overheid.nl/BWBR0037811) is beschreven, moet er, voordat vrijstelling of ontheffing van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) kan worden verleend, voor streng beschermde soorten aan drie eisen worden voldaan (‘uitgebreide toets’): de gunstige staat van instandhouding van beschermde soorten mag niet in het geding komen, er mag geen andere bevredigende oplossing zijn en er moet sprake zijn van minstens één van de in de wet en/of Europese richtlijnen genoemde belangen. Welk belang kan worden gebruikt, is afhankelijk van het beschermingsregime waar de soort onder valt.
 
 Vogels, vleermuizen, de bruinvis en de gewone zeehond zijn streng beschermde soorten onder de Flora- en faunawet. Vleermuizen, de bruinvis en de gewone zeehond zijn beschermde inheemse diersoorten als bedoeld in [artikel 4, eerste lid, onder a, van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=4). Alle in Nederland voorkomende vleermuissoorten en de bruinvis zijn tevens opgenomen in bijlage IV van de EU-Habitatrichtlijn (92/43/EEC). De gewone zeehond is opgenomen in bijlage 1 van het Besluit vrijstelling beschermde dier- en plantensoorten. Vogels zijn beschermde inheemse diersoorten als bedoeld in artikel 4, eerste lid, onder b, van de Flora- en faunawet en vallen tevens onder de Vogelrichtlijn (79/409/EEG).
 
@@ -751,47 +881,61 @@ Daarnaast geldt onder de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:
 
 ### 7.5.2. Vogels
 
-Langs de kust van Nederland vindt twee maal per jaar een trekbeweging van grote aantallen vogels plaats. Deze trek vindt grotendeels boven het land en de kustzone plaats, waarbij het aannemelijk is dat de aantallen trekvogels lager worden naarmate men verder van de kust komt. Veruit het grootste deel van de trekvogels vliegt in de hoogste luchtlagen waardoor er geen aanvaring met windturbines is te verwachten. Alleen onder minder gunstige omstandigheden (tegenwind, mist, regen) tijdens de nacht, verplaatsen de vogels zich in de onderste luchtlagen en is de kans op aanvaring met windturbines hoog. Gemiddeld genomen vliegt ongeveer 20% van het totale volume aan trekvogels op een hoogte van rond 100 meter (rotorhoogte van een turbine). Om deze aanvaringen tot een minimum te beperken wordt er een specifieke mitigerende maatregel (voorschrift 4, lid 3) ingezet op dagen met massale vogeltrek. Dit voorschrift wordt verder toegelicht in paragraaf 7.8.4. Met deze maatregel wordt alles in het werk gesteld om het opzettelijk doden en verwonden van trekvogelsoorten te voorkomen en is voor de meeste soorten de aanmerkelijke kans op aanvaring verwaarloosbaar te noemen. Overtreding van de verbodsbepaling voor het opzettelijk doden is dan ook niet aan de orde.
+Trekvogels
 
-Een beperkt aantal soorten heeft vanwege hun vlieggedrag meer kans om aanvaringsslachtoffer te worden dan de meeste soorten. Ondanks de lagere aanvaringskans door het treffen van de mitigerende maatregel (voorschrift 4, lid 3) is de aanmerkelijke kans dat deze soorten aanvaringsslachtoffer worden nog steeds niet verwaarloosbaar. Dit zijn: de kleine zwaan, rotgans, bergeend, kuifeend, topper en de smient. Daarnaast is er een aantal soorten die tijdens de trek in dusdanig hoge aantallen door het windpark trekken, dat ook met inbegrip van de mitigerende maatregel de aanmerkelijke kans dat zij aanvaringsslachtoffer worden niet verwaarloosbaar. De betreffende soorten zijn de graspieper, kramsvogel, koperwiek, merel, roodborst, spreeuw, veldleeuwerik, vink en zanglijster. De additionele jaarlijkse sterfte als gevolg van aanvaringen blijft voor alle hierboven genoemde soorten echter ruim beneden het ORNIS- criterium van 1% additionele sterfte welke gehanteerd wordt om te bepalen of er sprake is van negatieve effecten op populatieniveau. Er is in dit geval dan ook geen sprake van aantasting van de gunstige staat van instandhouding van de genoemde soorten.
+Langs de kust van Nederland vindt twee maal per jaar een trekbeweging van grote aantallen vogels plaats. Deze trek vindt grotendeels boven het land en de kustzone plaats, waarbij het aannemelijk is dat de aantallen trekvogels lager worden naarmate men verder van de kust komt. Veruit het grootste deel van de trekvogels vliegt in de hoogste luchtlagen waardoor er geen aanvaring met windturbines is te verwachten. Alleen onder minder gunstige omstandigheden (tegenwind, mist, regen) tijdens de nacht, verplaatsen de vogels zich in de onderste luchtlagen en is de kans op aanvaring met windturbines hoog. Gemiddeld genomen vliegt ongeveer 20% van het totale volume aan trekvogels op een hoogte van rond 100 meter (rotorhoogte van een turbine). Om deze aanvaringen tot een minimum te beperken wordt er een specifieke mitigerende maatregel ([voorschrift 4, lid 3](https://wetten.overheid.nl/BWBR0037811)) ingezet op dagen met massale vogeltrek. Dit voorschrift wordt verder toegelicht in [paragraaf 7.8.4](https://wetten.overheid.nl/BWBR0037811). Met deze maatregel wordt alles in het werk gesteld om het opzettelijk doden en verwonden van trekvogelsoorten te voorkomen en is voor de meeste soorten de aanmerkelijke kans op aanvaring verwaarloosbaar te noemen. Overtreding van de verbodsbepaling voor het opzettelijk doden is dan ook niet aan de orde.
 
-In het plangebied komen verschillende soorten vogels voor die binding hebben met het plangebied. Deze soorten foerageren en rusten in het gebied waardoor er dagelijks sprake kan zijn van het passeren van het windpark. De meeste soorten en individuen zullen het park vermijden. Een aantal soorten zoals meeuwen(soorten) zien de turbines echter niet als een obstakel en hebben daardoor ook meer kans om aanvaringsslachtoffer te worden. Doordat deze soorten dagelijks het gebied kunnen aandoen, is een mitigerende maatregel zoals voorgeschreven in voorschrift 4, lid 3 niet realistisch. In de bandbreedte is echter wel voorzien dat een kleiner aantal hogere turbines met grotere rotorbladen minder aanvaringslachtoffers veroorzaakt. Daarom wordt in dit besluit een voorschrift opgenomen dat een maximaal aantal te bouwen turbines vastlegt. Deze maatregel is verwerkt in voorschrift 2, lid 5, en wordt verder toegelicht in paragraaf 7.8.1. Voor de grote mantelmeeuw, jan-van-gent, kleine mantelmeeuw, stormmeeuw en de zilvermeeuw vallen er jaarlijks nog een zodanig aantal slachtoffers dat sprake is van strijd met [artikel 9 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=9) in samenhang met [artikel 6 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=6).
+Een beperkt aantal soorten heeft vanwege hun vlieggedrag meer kans om aanvaringsslachtoffer te worden dan de meeste soorten. Ondanks de lagere aanvaringskans door het treffen van de mitigerende maatregel ([voorschrift 4, lid 3](https://wetten.overheid.nl/BWBR0037811)) is de aanmerkelijke kans dat deze soorten aanvaringsslachtoffer worden nog steeds niet verwaarloosbaar. Dit zijn: de kleine zwaan, rotgans, bergeend, kuifeend, topper en de smient. Daarnaast is er een aantal soorten die tijdens de trek in dusdanig hoge aantallen door het windpark trekken, dat ook met inbegrip van de mitigerende maatregel de aanmerkelijke kans dat zij aanvaringsslachtoffer worden niet verwaarloosbaar. De betreffende soorten zijn de graspieper, kramsvogel, koperwiek, merel, roodborst, spreeuw, veldleeuwerik, vink en zanglijster. De additionele jaarlijkse sterfte als gevolg van aanvaringen blijft voor alle hierboven genoemde soorten echter ruim beneden het ORNIS- criterium van 1% additionele sterfte welke gehanteerd wordt om te bepalen of er sprake is van negatieve effecten op populatieniveau. Er is in dit geval dan ook geen sprake van aantasting van de gunstige staat van instandhouding van de genoemde soorten.
+
+Verblijvende vogelsoorten
+
+In het plangebied komen verschillende soorten vogels voor die binding hebben met het plangebied. Deze soorten foerageren en rusten in het gebied waardoor er dagelijks sprake kan zijn van het passeren van het windpark. De meeste soorten en individuen zullen het park vermijden. Een aantal soorten zoals meeuwen(soorten) zien de turbines echter niet als een obstakel en hebben daardoor ook meer kans om aanvaringsslachtoffer te worden. Doordat deze soorten dagelijks het gebied kunnen aandoen, is een mitigerende maatregel zoals voorgeschreven in [voorschrift 4, lid 3](https://wetten.overheid.nl/BWBR0037811) niet realistisch. In de bandbreedte is echter wel voorzien dat een kleiner aantal hogere turbines met grotere rotorbladen minder aanvaringslachtoffers veroorzaakt. Daarom wordt in dit besluit een voorschrift opgenomen dat een maximaal aantal te bouwen turbines vastlegt. Deze maatregel is verwerkt in [voorschrift 2, lid 5](https://wetten.overheid.nl/BWBR0037811), en wordt verder toegelicht in [paragraaf 7.8.1](https://wetten.overheid.nl/BWBR0037811). Voor de grote mantelmeeuw, jan-van-gent, kleine mantelmeeuw, stormmeeuw en de zilvermeeuw vallen er jaarlijks nog een zodanig aantal slachtoffers dat sprake is van strijd met [artikel 9 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=9) in samenhang met [artikel 6 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=6).
 
 Voor de stormmeeuw en de zilvermeeuw ligt de voorspelde additionele sterfte onder de 1%-mortaliteitsnorm van de populatie in de Nederlandse EEZ. Voor deze soorten kunnen negatieve effecten op de populatie dus worden uitgesloten.
 
 Voor de jan-van-gent, kleine mantelmeeuw en grote mantelmeeuw bedraagt de voorspelde sterfte ten gevolge van een windpark in windenergiegebied Borssele maximaal 1,4% van de jaarlijkse sterfte van de populatie in de Nederlandse EEZ. Uit verdere analyse van het populatiemodel blijkt echter dat de populaties van jan-van-gent, kleine mantelmeeuw en grote mantelmeeuw een dergelijke additionele sterfte zouden moeten kunnen dragen. Voor alle vijf de soorten ligt de voorspelde sterfte daarnaast ver onder de PBR (maximaal 4,7%), waardoor de gunstige staat van instandhouding niet in gevaar komt.
 
-Uit de cumulatie-analyse voor de Nederlandse populaties blijkt dat het aantal slachtoffers onder grote en kleine mantelmeeuwen ruim onder de PBR-norm blijft en bij zilvermeeuwen nagenoeg op het niveau van de PBR-norm ligt. Gezien het **worst case** scenario dat is gehanteerd in de berekeningen ten aanzien van de tellingen en metingen, aannames in het gedrag van vogels, schattingen over turbinespecificaties en berekeningen van de PBR-normen, wordt geconcludeerd dat ook voor de zilvermeeuw de PBR van de Nederlandse Noordzeepopulatie niet overschreden wordt en dat de Nederlandse Noordzeepopulatie de additionele mortaliteit kan verdragen. Omdat de Nederlandse data als meer betrouwbaar en gedetailleerd wordt beschouwd dan de voor internationale populaties beschikbare data, is in dit geval het gebruik van een ‘Nederlandse’ PBR gerechtvaardigd; er is op dit moment geen betere data beschikbaar. Geconcludeerd kan worden dat ook in cumulatie de gunstige staat van instandhouding van de kleine mantelmeeuw, grote mantelmeeuw en zilvermeeuw niet in het geding is. Dit neemt niet weg dat het voor deze soorten noodzakelijk is dat zowel nationaal als internationaal meer inzicht wordt verkregen in de effecten van windenergie op zee. Nationaal wordt hiervoor in het door de overheid op te zetten monitorings- en evaluatieprogramma specifiek verder onderzoek naar uitgevoerd.
+Uit de cumulatie-analyse voor de Nederlandse populaties blijkt dat het aantal slachtoffers onder grote en kleine mantelmeeuwen ruim onder de PBR-norm blijft en bij zilvermeeuwen nagenoeg op het niveau van de PBR-norm ligt. Gezien het *worst case* scenario dat is gehanteerd in de berekeningen ten aanzien van de tellingen en metingen, aannames in het gedrag van vogels, schattingen over turbinespecificaties en berekeningen van de PBR-normen, wordt geconcludeerd dat ook voor de zilvermeeuw de PBR van de Nederlandse Noordzeepopulatie niet overschreden wordt en dat de Nederlandse Noordzeepopulatie de additionele mortaliteit kan verdragen. Omdat de Nederlandse data als meer betrouwbaar en gedetailleerd wordt beschouwd dan de voor internationale populaties beschikbare data, is in dit geval het gebruik van een ‘Nederlandse’ PBR gerechtvaardigd; er is op dit moment geen betere data beschikbaar. Geconcludeerd kan worden dat ook in cumulatie de gunstige staat van instandhouding van de kleine mantelmeeuw, grote mantelmeeuw en zilvermeeuw niet in het geding is. Dit neemt niet weg dat het voor deze soorten noodzakelijk is dat zowel nationaal als internationaal meer inzicht wordt verkregen in de effecten van windenergie op zee. Nationaal wordt hiervoor in het door de overheid op te zetten monitorings- en evaluatieprogramma specifiek verder onderzoek naar uitgevoerd.
+
+Leefgebiedsverlies
 
 Met name jan van genten, zeekoeten en alken kunnen mogelijk het gebied vermijden. Tot voortplantings- of vaste rust- of verblijfplaatsen als bedoeld in [artikel 11 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=11) worden essentiële migratieroutes en foerageergebieden gerekend, die van belang zijn voor de instandhouding van een voortplantings- of vaste rust- of verblijfplaats van de soort op populatieniveau. Voor 8 andere vogelsoorten is dit in mindere mate ook het geval. Door dit permanente verlies aan leefgebied is er, met name in cumulatie met andere windparken, sprake van een overtreding van artikel 11 van de Flora- en faunawet. Uit het KEC blijkt dat het effect van dit leefgebiedsverlies voor deze soorten echter dusdanig gering is dat de gunstige staat van instandhouding van deze soorten niet in het geding komt.
+
+Conclusie vogels
 
 Onder 20 soorten vogels zullen slachtoffers vallen als gevolg van aanvaringen met windturbines. Dit houdt een overtreding in van het in [artikel 9 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=9) in samenhang met [artikel 6 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=6) neergelegde verbod, namelijk het opzettelijk doden en verwonden van vogels. Door het uitvoeren van de mitigerende maatregel zullen de effecten op vogelsoorten echter zoveel mogelijk voorkomen of vermeden worden. Daarnaast treedt voor 11 vogelsoorten leefgebiedsverlies op, waardoor ook het in [artikel 11 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=11) neergelegde verbod wordt overtreden. De gunstige staat van instandhouding van de soorten komt echter met de voorgeschreven mitigerende maatregelen, ook in cumulatie met andere windparken, niet in het geding.
 
 ### 7.5.3. Vleermuizen
 
-Als gevolg van aanvaringen met windturbines kunnen slachtoffers vallen onder vleermuizen. Door middel van de voorgeschreven maatregel kan het aantal slachtoffers onder vleermuizen echter met 80 – 90% gereduceerd worden (zie voorschrift 4, lid 4). Daarnaast profiteren de vleermuizen ook van de maatregel waarmee het aantal turbines beperkt wordt (voorschrift 2, lid 5) om het aantal aanvaringsslachtoffers onder vogels te beperken. Met inbegrip van deze maatregelen wordt de kans dat er aanvaringsslachtoffers onder de tweekleurige vleermuis en rosse vleermuis zullen vallen verwaarloosbaar geacht. Voor de ruige dwergvleermuis worden nog wel slachtoffers verwacht. Echter met inbegrip van de maatregelen wordt verwacht dat het aantal slachtoffers onder de PBR blijft. De gunstige staat van instandhouding komt daarom niet in het geding.
+Als gevolg van aanvaringen met windturbines kunnen slachtoffers vallen onder vleermuizen. Door middel van de voorgeschreven maatregel kan het aantal slachtoffers onder vleermuizen echter met 80 – 90% gereduceerd worden (zie [voorschrift 4, lid 4](https://wetten.overheid.nl/BWBR0037811)). Daarnaast profiteren de vleermuizen ook van de maatregel waarmee het aantal turbines beperkt wordt ([voorschrift 2, lid 5](https://wetten.overheid.nl/BWBR0037811)) om het aantal aanvaringsslachtoffers onder vogels te beperken. Met inbegrip van deze maatregelen wordt de kans dat er aanvaringsslachtoffers onder de tweekleurige vleermuis en rosse vleermuis zullen vallen verwaarloosbaar geacht. Voor de ruige dwergvleermuis worden nog wel slachtoffers verwacht. Echter met inbegrip van de maatregelen wordt verwacht dat het aantal slachtoffers onder de PBR blijft. De gunstige staat van instandhouding komt daarom niet in het geding.
+
+Conclusie vleermuizen
 
 Onder de ruige dwergvleermuis zullen slachtoffers vallen als gevolg van aanvaringen met windturbines. Dit houdt een overtreding in van het in [artikel 9 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=9) en [artikel 6 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=6) neergelegde verbod, namelijk het opzettelijk doden en verwonden van de ruige dwergvleermuis. Door het uitvoeren van de mitigerende maatregel zullen de effecten op de ruige dwergvleermuis echter zoveel mogelijk voorkomen of vermeden worden. De gunstige staat van instandhouding van de ruige dwergvleermuis komt daarmee, ook in cumulatie met andere windparken, niet in het geding.
 
 ### 7.5.4. Zeezoogdieren en vissen
 
-Als gevolg van onderwatergeluid door heien kunnen tijdens de aanlegfase van het windpark negatieve effecten optreden op zeezoogdieren en beschermde inheemse vissen. Door de voorgeschreven mitigerende maatregel (beperking geluidsbelasting tijdens de aanlegfase) worden negatieve effecten echter beperkt. Daarnaast wordt, om te voorkomen dat permanente gehoorbeschadiging optreedt bij bruinvissen en zeehonden, in dit besluit een voorschrift opgenomen over het toepassen van een ‘**acoustic deterrent device**’ en een ‘**soft start’**. Ook in het gebied aanwezige vissen profiteren van deze maatregel.
+Als gevolg van onderwatergeluid door heien kunnen tijdens de aanlegfase van het windpark negatieve effecten optreden op zeezoogdieren en beschermde inheemse vissen. Door de voorgeschreven mitigerende maatregel (beperking geluidsbelasting tijdens de aanlegfase) worden negatieve effecten echter beperkt. Daarnaast wordt, om te voorkomen dat permanente gehoorbeschadiging optreedt bij bruinvissen en zeehonden, in dit besluit een voorschrift opgenomen over het toepassen van een ‘*acoustic deterrent device*’ en een ‘*soft start’*. Ook in het gebied aanwezige vissen profiteren van deze maatregel.
 
-Uit het MER blijkt dat door het toepassen van de geluidsnorm de afname van de bruinvispopulatie in grote mate gereduceerd kan worden. Ook met het toepassen van de geluidsnorm zal echter nog steeds een gedeelte van het leefgebied van bruinvissen worden verstoord, waardoor deze hier tijdelijk geen gebruik van kunnen maken. Omdat de verstoring een betrekkelijk groot gebied omvat, is er sprake van het verstoren van voortplantings- en vaste rust- en verblijfplaatsen zoals genoemd in [artikel 11 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=11). Doordat de verstoring tijdelijk is, zal de bruinvis na de aanleg wel weer gebruik kunnen maken van het gebied. De gunstige staat van instandhouding van de bruinvis komt niet in het geding. Omdat de bruinvis de meest gevoelige soort is zullen als gevolg van de mitigerende maatregel ook de negatieve effecten op de gewone zeehond, grijze zeehond en vissen verminderen. Hiermee is de gunstige staat van instandhouding ook voor deze soorten gewaarborgd. Daarnaast profiteren zeezoogdieren en vissen ook van de maatregel waarmee het aantal turbines beperkt wordt (voorschrift 2, lid 5) om het aantal aanvaringsslachtoffers onder vogels te beperken. Minder turbines betekent immers minder te heien palen en daarmee minder langdurig onderwatergeluid.
+Uit het MER blijkt dat door het toepassen van de geluidsnorm de afname van de bruinvispopulatie in grote mate gereduceerd kan worden. Ook met het toepassen van de geluidsnorm zal echter nog steeds een gedeelte van het leefgebied van bruinvissen worden verstoord, waardoor deze hier tijdelijk geen gebruik van kunnen maken. Omdat de verstoring een betrekkelijk groot gebied omvat, is er sprake van het verstoren van voortplantings- en vaste rust- en verblijfplaatsen zoals genoemd in [artikel 11 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=11). Doordat de verstoring tijdelijk is, zal de bruinvis na de aanleg wel weer gebruik kunnen maken van het gebied. De gunstige staat van instandhouding van de bruinvis komt niet in het geding. Omdat de bruinvis de meest gevoelige soort is zullen als gevolg van de mitigerende maatregel ook de negatieve effecten op de gewone zeehond, grijze zeehond en vissen verminderen. Hiermee is de gunstige staat van instandhouding ook voor deze soorten gewaarborgd. Daarnaast profiteren zeezoogdieren en vissen ook van de maatregel waarmee het aantal turbines beperkt wordt ([voorschrift 2, lid 5](https://wetten.overheid.nl/BWBR0037811)) om het aantal aanvaringsslachtoffers onder vogels te beperken. Minder turbines betekent immers minder te heien palen en daarmee minder langdurig onderwatergeluid.
 
 Uit het MER blijkt dat de productie van onderwatergeluid tijdens de operationele fase van het windpark lager ligt dan de vermijdingsdrempel van de gevoeligste soort, de bruinvis. Er is daarom geen sprake van leefgebiedsverlies voor zeezoogdieren en vissen. Tijdens de operationele fase zijn daarom geen overtredingen van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) te verwachten.
 
-Een gedeelte van het leefgebied van zeezoogdieren en beschermde inheemse vissen zal tijdens de aanlegfase van het windpark tijdelijk niet beschikbaar zijn voor deze soorten. Hiermee is er sprake van een overtreding van het in [artikel 11 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=11) neergelegde verbod. Door het uitvoeren van de mitigerende maatregelen (voorschrift 4, lid 1 en 2) zullen effecten op zeezoogdieren en vissen echter zoveel mogelijk voorkomen of vermeden worden. De gunstige staat van instandhouding van zeezoogdieren en vissen komt, ook in cumulatie met andere windparken, niet in het geding.
+Conclusie zeezoogdieren en vissen
+
+Een gedeelte van het leefgebied van zeezoogdieren en beschermde inheemse vissen zal tijdens de aanlegfase van het windpark tijdelijk niet beschikbaar zijn voor deze soorten. Hiermee is er sprake van een overtreding van het in [artikel 11 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=11) neergelegde verbod. Door het uitvoeren van de mitigerende maatregelen ([voorschrift 4, lid 1 en 2](https://wetten.overheid.nl/BWBR0037811)) zullen effecten op zeezoogdieren en vissen echter zoveel mogelijk voorkomen of vermeden worden. De gunstige staat van instandhouding van zeezoogdieren en vissen komt, ook in cumulatie met andere windparken, niet in het geding.
 
 ### 7.5.5. Conclusie gunstige staat van instandhouding
 
-Met de voorgeschreven maatregelen (voorschrift 2, lid 5 en voorschrift 4, lid 1 t/m 4) komt de gunstige staat van instandhouding voor geen van de betreffende soorten in het geding. Vervolgens wordt nagegaan of er sprake is van één of meer geldige belangen en of er sprake is van een andere bevredigende oplossing.
+Met de voorgeschreven maatregelen ([voorschrift 2, lid 5](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 4, lid 1 t/m 4](https://wetten.overheid.nl/BWBR0037811)) komt de gunstige staat van instandhouding voor geen van de betreffende soorten in het geding. Vervolgens wordt nagegaan of er sprake is van één of meer geldige belangen en of er sprake is van een andere bevredigende oplossing.
 
 ### 7.5.6. Belang van de ingreep
 
-Het doel van het project is om windturbines te exploiteren ten einde elektriciteit op te wekken uit wind, een hernieuwbare bron van energie. Het belang van windenergie ligt in het bijzonder in de bijdrage aan het beperken van de klimaatverandering, de transitie naar hernieuwbare energie en de vermindering van de afhankelijkheid van energie-exporterende landen en het verbeteren van de luchtkwaliteit. Zoals ook in paragraaf 1.1 van de inleiding wordt beschreven zijn op zowel nationaal als Europees niveau afspraken gemaakt over het opwekken van duurzame energie.
+Het doel van het project is om windturbines te exploiteren ten einde elektriciteit op te wekken uit wind, een hernieuwbare bron van energie. Het belang van windenergie ligt in het bijzonder in de bijdrage aan het beperken van de klimaatverandering, de transitie naar hernieuwbare energie en de vermindering van de afhankelijkheid van energie-exporterende landen en het verbeteren van de luchtkwaliteit. Zoals ook in [paragraaf 1.1](https://wetten.overheid.nl/BWBR0037811) van de inleiding wordt beschreven zijn op zowel nationaal als Europees niveau afspraken gemaakt over het opwekken van duurzame energie.
 
 Hieronder wordt specifiek ingegaan op de in de Habitatrichtlijn, Vogelrichtlijn en [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) genoemde belangen.
+
+Dwingende redenen van openbaar belang
 
 Klimaatverandering kan leiden tot belangrijke economische schade, door overstromingen, weersextremen en beperkingen van zoetwatervoorzieningen, bedreiging van energievoorziening, vermindering van beroepsscheepvaart, verandering van productieomstandigheden, toenemend risico op ziekten en plagen en verzilting ten gevolge van een hogere zeespiegel.
 
@@ -799,11 +943,19 @@ Door de overheid is de ambitie vastgelegd om in het jaar 2020 20% van de jaarlij
 
 Verder wordt een belangrijk deel van de huidige elektriciteitsvoorziening geleverd door centrales die voor hun productie afhankelijk zijn van koeling door middel van koelwater uit de grote rivieren. Verwacht wordt dat ten gevolge van klimaatverandering de beschikbaarheid van koelwater en daarmee de elektriciteitsproductie in bepaalde perioden sterk zal afnemen. De oorzaken hiervan zijn gelegen in hogere watertemperaturen waardoor minder koelwater mag worden geloosd, specifiek gedurende hittegolven. Naast de belangrijke bijdrage aan het beperken van klimaatverandering om de effecten op de elektriciteitsvoorziening te beperken, is het belang van hernieuwbare energie, specifiek windenergie, daarbij ook gelegen in het versterken van de energievoorziening door onder meer het verminderen van de afhankelijkheid van brandstoffen uit politiek instabiele regio’s.
 
-Door klimaatverandering kan de openbare veiligheid en volksgezondheid in gevaar komen. Hierbij kan gedacht worden aan zeespiegelstijging met risico op overstroming, langere droogteperiodes, bedreiging van de zoetwatervoorziening, verandering van aanwezigheid infectieziekten, voorkomen van extreme hitte en koude. Door minder afhankelijk te worden van fossiele brandstoffen kan de klimaatverandering worden beperkt en vertraagd. Maar tevens zal de luchtkwaliteit sterk verbeteren, omdat er bij de productie van elektriciteit geen emissies vrijkomen welke schadelijk zijn voor de volksgezondheid en welke bijdragen aan klimaatverandering. Dit is conform het belang waarop afgeweken kan worden van de verbodsbepalingen genoemd in het **guidance** document van de Europese Commissie over windturbines35EU Guidance on wind energy development in accordance with the EU nature legislation.
+Veiligheid en volksgezondheid:
 
-Klimaatverandering kan tot gevolg hebben dat soorten zich verplaatsen ten gevolge van verandering/ongeschikt worden van de habitat, uitsterven van soorten, verandering in de voedselketen. Hoewel de voorgenomen realisatie van een windpark van Borssele, kavel III geen directe bijdrage zal leveren aan de instandhouding van de soorten en de toepassing van het tegengaan van de effecten van het broeikaseffect een mondiale aangelegenheid is, is de ontwikkeling van en het streven naar vernieuwde ‘groene’ energiebronnen voor ieder individueel land een belangrijk politiek thema. Realisatie van windturbines voor het opwekken van windenergie is een investering in het tegengaan van dit effect. De nadelige effecten van het broeikaseffect zijn divers. Zonder maatregelen om de effecten een halt toe te roepen dan wel te minimaliseren zullen de consequenties voor veel dieren en planten een ernstige uitwerking kunnen hebben (met als **worst case** het (lokaal) uitsterven tot gevolg. Door het klimaatprobleem bij de bron aan te pakken (vermindering uitstoot broeikasgassen) kunnen hier op den duur velerlei soorten baat bij hebben.
+Door klimaatverandering kan de openbare veiligheid en volksgezondheid in gevaar komen. Hierbij kan gedacht worden aan zeespiegelstijging met risico op overstroming, langere droogteperiodes, bedreiging van de zoetwatervoorziening, verandering van aanwezigheid infectieziekten, voorkomen van extreme hitte en koude. Door minder afhankelijk te worden van fossiele brandstoffen kan de klimaatverandering worden beperkt en vertraagd. Maar tevens zal de luchtkwaliteit sterk verbeteren, omdat er bij de productie van elektriciteit geen emissies vrijkomen welke schadelijk zijn voor de volksgezondheid en welke bijdragen aan klimaatverandering. Dit is conform het belang waarop afgeweken kan worden van de verbodsbepalingen genoemd in het *guidance* document van de Europese Commissie over windturbines35EU Guidance on wind energy development in accordance with the EU nature legislation.
+
+Bescherming van flora en fauna:
+
+Klimaatverandering kan tot gevolg hebben dat soorten zich verplaatsen ten gevolge van verandering/ongeschikt worden van de habitat, uitsterven van soorten, verandering in de voedselketen. Hoewel de voorgenomen realisatie van een windpark van Borssele, kavel III geen directe bijdrage zal leveren aan de instandhouding van de soorten en de toepassing van het tegengaan van de effecten van het broeikaseffect een mondiale aangelegenheid is, is de ontwikkeling van en het streven naar vernieuwde ‘groene’ energiebronnen voor ieder individueel land een belangrijk politiek thema. Realisatie van windturbines voor het opwekken van windenergie is een investering in het tegengaan van dit effect. De nadelige effecten van het broeikaseffect zijn divers. Zonder maatregelen om de effecten een halt toe te roepen dan wel te minimaliseren zullen de consequenties voor veel dieren en planten een ernstige uitwerking kunnen hebben (met als *worst case* het (lokaal) uitsterven tot gevolg. Door het klimaatprobleem bij de bron aan te pakken (vermindering uitstoot broeikasgassen) kunnen hier op den duur velerlei soorten baat bij hebben.
+
+Werkzaamheden in het kader van ruimtelijke inrichting en ontwikkeling:
 
 De realisatie en exploitatie van het windpark kan voorts worden beschouwd als ruimtelijke inrichting en ontwikkeling. Vaststaat dat er geen benutting of economisch gewin plaatsvindt in de zin van artikel 2c, tweede lid, aanhef en onder a van het Besluit vrijstelling beschermde diersoorten. Daarnaast wordt door de voorgeschreven mitigerende maatregelen zorgvuldig handelen in de zin van artikel 2c, tweede lid, aanhef en onder b van het Besluit vrijstelling beschermde diersoorten gewaarborgd.
+
+Conclusie belang
 
 Gelet op het voorgaande en de onverminderde actualiteit van de naar voren gebrachte omstandigheden rechtvaardigen de belangen ‘bescherming van flora en fauna’, ‘volksgezondheid en openbare veiligheid’, ‘dwingende redenen van groot openbaar belang’ en ‘werkzaamheden in het kader van ruimtelijke inrichting en ontwikkeling’ de negatieve effecten op de betreffende beschermde diersoorten die als gevolg van het project zullen optreden.
 
@@ -811,17 +963,52 @@ Gelet op het voorgaande en de onverminderde actualiteit van de naar voren gebrac
 
 De in het Nationaal Waterplan (2016-2021) aangewezen windenergiegebieden zijn zorgvuldig gekozen. Bij de keuze voor een gebied zijn alle belangen op hoofdlijnen afgewogen, waaronder de natuuraspecten. Ingevolge [artikel 3, tweede lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=3) kunnen kavels voor windparken alleen binnen deze windenergiegebieden worden aangewezen. Daarmee is in beginsel voldoende geborgd dat het windpark op de geschiktste locatie wordt gebouwd en dat er geen bevredigende alternatieve locaties zijn.
 
-Met de voorgeschreven maatregelen (voorschrift 2, lid 5 en voorschrift 4, lid 1 t/m 4) worden negatieve gevolgen voor beschermde diersoorten zoveel mogelijk voorkomen. Overige maatregelen zijn niet bewezen effectief of de kosten staan niet in verhouding met de te halen reductie in negatieve effecten voor natuurwaarden. Met inachtneming van de voorschriften is geen andere bevredigende oplossing voorhanden.
+Met de voorgeschreven maatregelen ([voorschrift 2, lid 5](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 4, lid 1 t/m 4](https://wetten.overheid.nl/BWBR0037811)) worden negatieve gevolgen voor beschermde diersoorten zoveel mogelijk voorkomen. Overige maatregelen zijn niet bewezen effectief of de kosten staan niet in verhouding met de te halen reductie in negatieve effecten voor natuurwaarden. Met inachtneming van de voorschriften is geen andere bevredigende oplossing voorhanden.
 
-### 7.5.8. Conclusie afweging [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640)
+### 7.5.8. Conclusie afweging Flora- en faunawet
 
 Op grond van de beschikbare informatie kan geconcludeerd worden dat, wanneer de voorgeschreven maatregelen in acht worden genomen, de gunstige staat van instandhouding voor geen van de beschouwde soorten in het geding komt. Er zijn daarnaast meerdere geldige belangen van toepassing en er is geen andere bevredigende oplossing voorhanden. Op grond van de bepalingen van de Flora-en faunawet zijn er daarom geen belemmeringen om vrijstelling te verlenen voor de bouw en exploitatie van een windpark in kavels III en V. Onderstaande tabel geeft een overzicht van de in aanmerking genomen soorten en de verbodsbepalingen van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) die worden overtreden.
 
-### 7.6. Afweging omtrent [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641)
+| Nederlandse naam | Wetenschappelijke naam | Artikel | Nederlandse naam | Wetenschappelijke naam | Artikel |
+| --- | --- | --- | --- | --- | --- |
+| Ruige dwergvleermuis | Pipistrellus nathusii | 9 | Drieteenmeeuw | Rissa tridactyla | 11 |
+| Bruinvis | Phocoena phocoena | 11 | Grote stern | Sterna sandvicensis | 11 |
+| Gewone zeehond | Phoca vitulina | 11 | Adderzeenaald | Entelurus aequoreus | 11 |
+| Grijze zeehond | Halichoerus grypus | 11 | Botervis | Phollis gunellus | 11 |
+| Bergeend | Tadorna tadorna | 9 | Brakwatergrondel | Pomatoschistus microps | 11 |
+| Graspieper | Anthus pratensis | 9 | Dikkopje | Pomatoschistus minutus | 11 |
+| Grote mantelmeeuw | Larus fuscus | 9, 11 | Dwergbolk | Trisopteru minutus | 11 |
+| Jan-van-Gent | Morus bassanus | 9, 11 | Gevlekte lipvis | Labrus bergylta | 11 |
+| Kleine mantelmeeuw | Larus marinus | 9, 11 | Glasgrondel | Aphia minuta | 11 |
+| Kleine zwaan | Cygnus bewickii | 9 | Groene zeedonderpad | Taurulus bubalis | 11 |
+| Koperwiek | Turdus iliacus | 9 | Grote koornaarvis | Atherina presbyta | 11 |
+| Kramsvogel | Turdus pilaris | 9 | Grote zeenaald | Syngnathus acus | 11 |
+| Kuifeend | Athya fuligula | 9 | Harnasmannetje | Agonus cataphractus | 11 |
+| Merel | Turdus merula | 9 | Hondshaai | Scyliorhinus canicula | 11 |
+| Roodborst | Erithacus rubecula | 9 | Kleine pieterman | Echiichtys vipera | 11 |
+| Rotgans | Branta bernicla | 9 | Kleine zeenaald | Syngnathus rostellatus | 11 |
+| Smient | Anas penelope | 9 | Kleurige grondel | Pomatoschistus pictus | 11 |
+| Spreeuw | Sturnus vulgaris | 9 | Kristalgrondel | Crystallogobius linearis | 11 |
+| Stormmeeuw | Larus canus | 9,11 | Lozano’s grondel | Pomatoschistus lozanoi | 11 |
+| Topper | Athya marila | 9 | Pitvis | Callionymus paganellus | 11 |
+| Veldleeuwerik | Alauda arvensis | 9 | Rasterpitvis | Callionymus reticularis | 11 |
+| Vink | Fringilla coelebs | 9 | Schurftvis | Amoglossus laterna | 11 |
+| Zanglijster | Turdus philomelos | 9 | Slakdolf | Liparis liparis | 11 |
+| Zilvermeeuw | Larus argentatus | 9, 11 | Slijmvis | Lypophris pholis | 11 |
+| Zeekoet | Uria aalge | 11 | Trompetterzeenaald | Syngnathus typhle | 11 |
+| Alk | Alca torda | 11 | Vierdradige meun | Rhinomenus cimbrius | 11 |
+| Noordse stormvogel | Fulmarus glacialis | 11 | Zeestekelbaars | Spinachia spinachia | 11 |
+| Dwergmeeuw | Hydrocoloeus minutus | 11 | Zwarte grondel | Gobius niger | 11 |
+
+### 7.6. Afweging omtrent Natuurbeschermingswet 1998
 
 De aanleg en exploitatie van windparken hebben, vanwege zogeheten externe werking, mogelijk effecten op instandhoudingsdoelen van een aantal in Nederland en het buitenland gelegen Natura 2000-gebieden. Deze effecten zijn passend beoordeeld. Daartoe is onderzoek gedaan naar de instandhoudingsdoelen van de navolgende Natura 2000-gebieden36VR: aangewezen in het kader van de Vogelrichtlijn, HR: aangewezen in het kader van de Habitatrichtlijn: De Nederlandse gebieden Vlakte van de Raan (HR), Voordelta (HR + VR), Noordzeekustzone (HR + VR), Friese Front (VR), Veerse Meer (VR), Krammer Volkerrak (HR + VR), Westerschelde en Saeftinghe (HR + VR) Waddenzee (HR + VR), de Belgische gebieden Duingebieden (VR), Vlaamse Banken (HR + VR), het Franse gebied Banc des Flandres en de Engelse gebieden Alde, Ore and Butley Estuary (VR).
 
-Met betrekking tot de onderwerpen besproken in de Passende Beoordeling is de conclusie dat de effecten van een windpark in kavels III en V in windenergiegebied Borssele, bij gebruik van de voorkeursbandbreedtes inclusief mitigerende maatregelen, gegeven de consequente manier waarop het zogenaamde **worst case**scenario wordt toegepast, op zichzelf staand niet leidt tot aantasting van de natuurlijke kenmerken van de relevante Natura 2000-gebieden.
+Overwegingen omtrent eigenstandig project
+
+Met betrekking tot de onderwerpen besproken in de Passende Beoordeling is de conclusie dat de effecten van een windpark in kavels III en V in windenergiegebied Borssele, bij gebruik van de voorkeursbandbreedtes inclusief mitigerende maatregelen, gegeven de consequente manier waarop het zogenaamde *worst case*scenario wordt toegepast, op zichzelf staand niet leidt tot aantasting van de natuurlijke kenmerken van de relevante Natura 2000-gebieden.
+
+Overwegingen omtrent cumulatieve effecten
 
 De cumulatieve effecten op de relevante soorten zijn primair getoetst aan de populatie in de Zuidelijke Noordzee, zodat een beeld wordt verkregen van het effect op de staat van instandhouding van de betreffende soorten. Voor het bepalen van cumulatieve effecten is de gehanteerde werkwijze breder ingestoken dan op basis van de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) is vereist. De gehele routekaart is als uitgangspunt meegenomen voor de cumulatieve effectbeoordeling. Hiermee is uitwerking gegeven aan het advies van de Commissie voor de m.e.r. op het MER en de Passende Beoordeling die voor de partiële herziening van het Nationaal Waterplan (2009–2015) is opgesteld.
 
@@ -829,7 +1016,7 @@ De cumulatieve effecten op de relevante soorten zijn primair getoetst aan de pop
 
 De aanvaringssterfte onder trekvogels als gevolg van de voorkeursbandbreedte is in alle gevallen lager dan de PBR norm. Dit is ook voor de meeste lokaal verblijvende soorten het geval.
 
-Enkel voor de kleine mantelmeeuw, grote mantelmeeuw en zilvermeeuw overschrijden de effecten als gevolg van het internationale cumulatiescenario in een **worst case**scenario de PBR voor deze soorten. Omdat de Nederlandse data als meer betrouwbaar en gedetailleerd wordt beschouwd dan de voor internationale populaties beschikbare data, is in dit geval het gebruik van een ’Nederlandse’ PBR gerechtvaardigd; er is op dit moment geen betere data beschikbaar. Indien gemiddeld maximaal 76 turbines per park worden gerealiseerd, blijft het gezamenlijke effect van de Nederlandse windparken op zee kleiner dan de PBR van de ‘Nederlandse’ populatie van die soorten. Met het aanpassen van het maximale aantal turbines kunnen significant negatieve effecten voorkomen worden.
+Enkel voor de kleine mantelmeeuw, grote mantelmeeuw en zilvermeeuw overschrijden de effecten als gevolg van het internationale cumulatiescenario in een *worst case*scenario de PBR voor deze soorten. Omdat de Nederlandse data als meer betrouwbaar en gedetailleerd wordt beschouwd dan de voor internationale populaties beschikbare data, is in dit geval het gebruik van een ’Nederlandse’ PBR gerechtvaardigd; er is op dit moment geen betere data beschikbaar. Indien gemiddeld maximaal 76 turbines per park worden gerealiseerd, blijft het gezamenlijke effect van de Nederlandse windparken op zee kleiner dan de PBR van de ‘Nederlandse’ populatie van die soorten. Met het aanpassen van het maximale aantal turbines kunnen significant negatieve effecten voorkomen worden.
 
 Verlies aan leefgebied leidt voor geen van de soorten tot een overschrijding van de PBR. Significant negatieve effecten zijn dan ook uit te sluiten.
 
@@ -837,9 +1024,9 @@ Verlies aan leefgebied leidt voor geen van de soorten tot een overschrijding van
 
 Bruinvissen zijn aangewezen in de Natura 2000-gebieden Vlakte van de Raan en de Noordzeekustzone. Voor beide gebieden geldt ‘behoud omvang en verbetering kwaliteit leefgebied voor behoud populatie’.
 
-Vermijdingsreacties van zeezoogdieren ten gevolge van heiactiviteiten kunnen cumuleren in zowel tijd als ruimte. De gevolgen van de gecumuleerde effecten voor de bruinvispopulatie zijn in de Passende Beoordeling benaderd door middel van het **Interim PcoD** model. De voorkeursbandbreedte gaat hierbij uit van een geluidsreducerende maatregel.
+Vermijdingsreacties van zeezoogdieren ten gevolge van heiactiviteiten kunnen cumuleren in zowel tijd als ruimte. De gevolgen van de gecumuleerde effecten voor de bruinvispopulatie zijn in de Passende Beoordeling benaderd door middel van het *Interim PcoD* model. De voorkeursbandbreedte gaat hierbij uit van een geluidsreducerende maatregel.
 
-Met inbegrip van deze mitigerende maatregel (voorschrift 4, lid 2) reikt de verstoringscontour voor bruinvissen niet tot in Natura 2000-gebieden. Er zijn daarom geen negatieve effecten te verwachten op de omvang en kwaliteit van het leefgebied in de Natura 2000-gebieden Vlakte van de Raan en Noordzeekustzone.
+Met inbegrip van deze mitigerende maatregel ([voorschrift 4, lid 2](https://wetten.overheid.nl/BWBR0037811)) reikt de verstoringscontour voor bruinvissen niet tot in Natura 2000-gebieden. Er zijn daarom geen negatieve effecten te verwachten op de omvang en kwaliteit van het leefgebied in de Natura 2000-gebieden Vlakte van de Raan en Noordzeekustzone.
 
 Met inbegrip van de geluidsreducerende maatregel kan tevens worden uitgesloten dat het duurzame voortbestaan van de populatie bruinvissen in de Zuidelijke Noordzee wordt aangetast. Gelet op de instandhoudingsdoelstellingen voor de bruinvis in Natura 2000-gebieden, kan worden uitgesloten dat de doelaantallen van deze Natura 2000-gebieden worden aangetast.
 
@@ -849,51 +1036,59 @@ De gewone zeehond is aangewezen in de Natura 2000-gebieden Waddenzee, Noordzeeku
 
 De grijze zeehond is aangewezen in de Natura 2000-gebieden Waddenzee, Noordzeekustzone, Voordelta en Vlakte van de Raan. Voor deze gebieden geldt ‘behoud omvang en kwaliteit leefgebied voor behoud populatie’.
 
-De gevolgen van de gecumuleerde effecten voor de populaties van de gewone en grijze zeehond zijn in de Passende Beoordeling benaderd door middel van **expert judgement.** De voorkeursbandbreedte gaat hierbij uit van een geluidsreducerende maatregel.
+De gevolgen van de gecumuleerde effecten voor de populaties van de gewone en grijze zeehond zijn in de Passende Beoordeling benaderd door middel van *expert judgement.* De voorkeursbandbreedte gaat hierbij uit van een geluidsreducerende maatregel.
 
-Met inbegrip van deze maatregel (voorschrift 4, lid 2) reikt de verstoringscontour voor beide zeehondensoorten niet tot in Natura 2000-gebieden. Er zijn daarom geen negatieve effecten te verwachten op de omvang en kwaliteit van het leefgebied in de Natura 2000-gebieden waarvoor deze soort is aangewezen.
+Met inbegrip van deze maatregel ([voorschrift 4, lid 2](https://wetten.overheid.nl/BWBR0037811)) reikt de verstoringscontour voor beide zeehondensoorten niet tot in Natura 2000-gebieden. Er zijn daarom geen negatieve effecten te verwachten op de omvang en kwaliteit van het leefgebied in de Natura 2000-gebieden waarvoor deze soort is aangewezen.
 
 Zeehonden zijn ook gevoelig voor verstoring door silhouetwerking37Silhouetwerking is de verstorende werking van de aanwezigheid van (bewegende) objecten en/of mensen.. Op ongeveer 10 kilometer afstand liggen Natura 2000-gebieden met zeehondenplaten. Met name de Voordelta en Deltawateren zijn hierbij relevant. Voor zowel het Natura 2000-gebied Voordelta als in de Deltawateren (met name de Westerschelde) wordt in de Natura 2000-beheerplannen aangegeven dat voor de kwaliteit van het leefgebied van zeehonden de aanwezigheid van rust, juist in de zomerperiode, vereist is om de kwaliteit van het leefgebied in stand te houden dan wel verbeteren.
 
 Door de aanleg (tijdelijk) en het onderhoud, dat nu samen wordt bepaald op maximaal 30 jaar van het windpark Borssele III en V, zullen de scheepsbewegingen van en naar het geplande park toenemen. Afhankelijk van de vaarroute van de aanleg- en onderhoudsschepen kan hierdoor verstoring ontstaan van de platen en wordt het behalen van de instandhoudingsdoelstellingen voor de zeehonden van de Voordelta en Deltawateren bemoeilijkt.
 
-In de Natura 2000-beheerplannen (Voordelta 2015–2021 en Deltawateren 2015–2021) is een aantal vormen van bestaand gebruik opgenomen (o.a. recreatievaart, zandtransport, visserij) inclusief maatregelen ter bescherming van de droogvallende platen en aanwezige zeehonden. Het initiatief Borssele kavels III en V inclusief aanleg- en onderhoudsschepen is echter niet opgenomen als bestaand gebruik in de beheerplannen. Daarom zullen ter bescherming van de zeehondenplaten de in de beheerplannen genoemde maatregelen als voorschrift in het kavelbesluit opgenomen worden (voorschrift 2, lid 14), totdat in een volgende versie van de beheerplannen (voorzien 2021) de aanleg- en onderhoudsschepen van de windparken zijn opgenomen als bestaand gebruik. Dit voorschrift wordt verder toegelicht in paragraaf 7.8.5.
+In de Natura 2000-beheerplannen (Voordelta 2015–2021 en Deltawateren 2015–2021) is een aantal vormen van bestaand gebruik opgenomen (o.a. recreatievaart, zandtransport, visserij) inclusief maatregelen ter bescherming van de droogvallende platen en aanwezige zeehonden. Het initiatief Borssele kavels III en V inclusief aanleg- en onderhoudsschepen is echter niet opgenomen als bestaand gebruik in de beheerplannen. Daarom zullen ter bescherming van de zeehondenplaten de in de beheerplannen genoemde maatregelen als voorschrift in het kavelbesluit opgenomen worden ([voorschrift 2, lid 14](https://wetten.overheid.nl/BWBR0037811)), totdat in een volgende versie van de beheerplannen (voorzien 2021) de aanleg- en onderhoudsschepen van de windparken zijn opgenomen als bestaand gebruik. Dit voorschrift wordt verder toegelicht in [paragraaf 7.8.5](https://wetten.overheid.nl/BWBR0037811).
 
 Met inbegrip van de genoemde mitigerende maatregelen kan worden uitgesloten dat het duurzame voortbestaan van de populaties gewone en grijze zeehonden in de Zuidelijke Noordzee wordt aangetast. Gelet op de instandhoudingsdoelstellingen voor de beide soorten in de Natura 2000-gebieden die voor deze soorten zijn aangewezen, kan worden uitgesloten dat de doelaantallen van deze Natura 2000-gebieden worden aangetast.
 
-### 7.6.4. Conclusie afweging [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641)
+### 7.6.4. Conclusie afweging Natuurbeschermingswet 1998
 
 Op basis van de Passende Beoordeling als bedoeld in [artikel 19f van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19f) is voldoende inzicht in de aard en omvang van de effecten verkregen om tot een besluit te komen.
 
-Met betrekking tot de onderwerpen besproken in de Passende Beoordeling is de conclusie dat de effecten van een windpark in kavels III en V in windenergiegebied Borssele, bij gebruik van de voorkeursbandbreedtes, inclusief mitigerende maatregelen (voorschrift 2, lid 5 en voorschrift 4, lid 1 t/m 4) gegeven de consequente manier waarop het zogenaamde **worst case**scenario wordt toegepast, niet leidt tot aantasting van de natuurlijke kenmerken van de relevante Natura 2000-gebieden.
+Met betrekking tot de onderwerpen besproken in de Passende Beoordeling is de conclusie dat de effecten van een windpark in kavels III en V in windenergiegebied Borssele, bij gebruik van de voorkeursbandbreedtes, inclusief mitigerende maatregelen ([voorschrift 2, lid 5](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 4, lid 1 t/m 4](https://wetten.overheid.nl/BWBR0037811)) gegeven de consequente manier waarop het zogenaamde *worst case*scenario wordt toegepast, niet leidt tot aantasting van de natuurlijke kenmerken van de relevante Natura 2000-gebieden.
 
-Met de uitgevoerde Passende Beoordeling is de zekerheid verkregen dat met het uitvoeren van de voorziene activiteit, gelet op de relevante instandhoudingsdoelstellingen, en met inachtneming van de weergegeven voorschriften waaronder mitigerende maatregelen (voorschrift 2, lid 5 en 7 en voorschrift 4, lid 1 t/m 4), geen aantasting van de natuurlijke kenmerken van Natura 2000-gebieden zal optreden. Om de geconstateerde leemtes in kennis in te vullen is een pakket aan monitorings- en evaluatievoorschriften opgesteld.
+Met de uitgevoerde Passende Beoordeling is de zekerheid verkregen dat met het uitvoeren van de voorziene activiteit, gelet op de relevante instandhoudingsdoelstellingen, en met inachtneming van de weergegeven voorschriften waaronder mitigerende maatregelen ([voorschrift 2, lid 5 en 7](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 4, lid 1 t/m 4](https://wetten.overheid.nl/BWBR0037811)), geen aantasting van de natuurlijke kenmerken van Natura 2000-gebieden zal optreden. Om de geconstateerde leemtes in kennis in te vullen is een pakket aan monitorings- en evaluatievoorschriften opgesteld.
 
 Gelet op het voorgaande kan geconcludeerd worden dat de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) zich niet verzet tegen een positief besluit voor een windpark in kavels III en V.
 
 ### 7.7. Afweging omtrent overige relevante regelgeving
 
-Binnen de Kaderrichtlijn Mariene Strategie38http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=URISERV:l281642008/56/EG is ten aanzien van onderwatergeluid nog geen specifiek doel opgesteld voor (de cumulatie) van impulsief geluid zoals dat bij heien vrijkomt. Daarom kan in onderhavig besluit hieraan nog niet getoetst worden. Voor afzonderlijke gevallen dienen schadelijke effecten op populaties of het ecosysteem voorkomen te worden. Uit het MER en de Passende Beoordeling volgt, dat als gevolg van de aanleg van een windpark in kavels III en V met inbegrip van mitigerende maatregelen (voorschrift 2, lid 5 en 7 en voorschrift 4, lid 1 t/m 4), ook tezamen met andere windturbineprojecten, het herstellend vermogen van populaties van zeezoogdieren niet wordt aangetast.
+Kaderrichtlijn Mariene Strategie (KRM)
 
-Ten aanzien van vogels en zeezoogdieren gelden doelen die overeenkomen met de landelijke doelen zoals geformuleerd onder de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641). Uit het MER en de Passende Beoordeling volgt, dat als gevolg van de aanleg en exploitatie van een windpark in kavels III en V met inbegrip van mitigerende maatregelen (voorschrift 2, lid 5 en 7 en voorschrift 4, lid 1 t/m 4), ook tezamen met andere windturbineprojecten, het duurzame voortbestaan van zeezoogdierpopulaties en vogels niet wordt aangetast.
+Binnen de Kaderrichtlijn Mariene Strategie38http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=URISERV:l281642008/56/EG is ten aanzien van onderwatergeluid nog geen specifiek doel opgesteld voor (de cumulatie) van impulsief geluid zoals dat bij heien vrijkomt. Daarom kan in onderhavig besluit hieraan nog niet getoetst worden. Voor afzonderlijke gevallen dienen schadelijke effecten op populaties of het ecosysteem voorkomen te worden. Uit het MER en de Passende Beoordeling volgt, dat als gevolg van de aanleg van een windpark in kavels III en V met inbegrip van mitigerende maatregelen ([voorschrift 2, lid 5 en 7](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 4, lid 1 t/m 4](https://wetten.overheid.nl/BWBR0037811)), ook tezamen met andere windturbineprojecten, het herstellend vermogen van populaties van zeezoogdieren niet wordt aangetast.
+
+Ten aanzien van vogels en zeezoogdieren gelden doelen die overeenkomen met de landelijke doelen zoals geformuleerd onder de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641). Uit het MER en de Passende Beoordeling volgt, dat als gevolg van de aanleg en exploitatie van een windpark in kavels III en V met inbegrip van mitigerende maatregelen ([voorschrift 2, lid 5 en 7](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 4, lid 1 t/m 4](https://wetten.overheid.nl/BWBR0037811)), ook tezamen met andere windturbineprojecten, het duurzame voortbestaan van zeezoogdierpopulaties en vogels niet wordt aangetast.
 
 Significant negatieve gevolgen op de landelijke doelen van relevante populaties kunnen daarom worden uitgesloten.
 
 Uit het MER en de Passende Beoordeling volgt verder dat als gevolg van de aanleg en exploitatie negatieve gevolgen voor habitats, benthos en vislarven marginaal zijn. Negatieve gevolgen voor de milieudoelen zoals geformuleerd onder de KRM voor deze descriptoren kunnen dan ook uitgesloten worden.
 
-De verplichtingen ten aanzien van soorten- en gebiedsbescherming die voortvloeien uit het OSPAR-verdrag zijn in Europees verband omgezet in de Vogel- en Habitatrichtlijn. De ‘**Marine protected areas**’ onder het OSPAR-verdrag zijn aangewezen als Natura 2000-gebied, of met het oog daarop op de communautaire lijst geplaatst. In dit kavelbesluit vindt daarom geen aparte toetsing plaats, maar geeft toetsing aan de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) en de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) uitvoering aan de verplichtingen en doelstellingen van het OSPAR verdrag. In paragraaf 7.5 en 7.6 zijn de gevolgen van een windpark in kavels III en V afgewogen in relatie tot de Natuurbeschermingswet 1998 en de Flora- en faunawet.
+OSPAR
 
-Het Nationaal Waterplan (2016–2021) en de Beleidsnota Noordzee zijn toegelicht in paragraaf 2.3 van dit besluit. Er zijn, gelet op de uitkomsten van het MER en de Passende Beoordeling en de geconstateerde kennisleemtes, verschillende mitigerende maatregelen opgelegd (voorschrift 2, lid 5 en 7 en voorschrift 4, lid 1 t/m 4). Hiermee wordt uitvoering gegeven aan het voorzorgsprincipe wat in acht moet worden genomen wanneer redelijke grond is tot bezorgdheid over mogelijke onherstelbare schade die de activiteit kan toebrengen aan het mariene milieu. De in het MER en de Passende Beoordeling beschouwde resultaten m.b.t. voedselketeneffecten zijn tevens meegewogen.
+De verplichtingen ten aanzien van soorten- en gebiedsbescherming die voortvloeien uit het OSPAR-verdrag zijn in Europees verband omgezet in de Vogel- en Habitatrichtlijn. De ‘*Marine protected areas*’ onder het OSPAR-verdrag zijn aangewezen als Natura 2000-gebied, of met het oog daarop op de communautaire lijst geplaatst. In dit kavelbesluit vindt daarom geen aparte toetsing plaats, maar geeft toetsing aan de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) en de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) uitvoering aan de verplichtingen en doelstellingen van het OSPAR verdrag. In [paragraaf 7.5](https://wetten.overheid.nl/BWBR0037811) en [7.6](https://wetten.overheid.nl/BWBR0037811) zijn de gevolgen van een windpark in kavels III en V afgewogen in relatie tot de Natuurbeschermingswet 1998 en de Flora- en faunawet.
+
+Nationaal Waterplan (2016–2021) en de Beleidsnota Noordzee
+
+Het Nationaal Waterplan (2016–2021) en de Beleidsnota Noordzee zijn toegelicht in [paragraaf 2.3](https://wetten.overheid.nl/BWBR0037811) van dit besluit. Er zijn, gelet op de uitkomsten van het MER en de Passende Beoordeling en de geconstateerde kennisleemtes, verschillende mitigerende maatregelen opgelegd ([voorschrift 2, lid 5 en 7](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 4, lid 1 t/m 4](https://wetten.overheid.nl/BWBR0037811)). Hiermee wordt uitvoering gegeven aan het voorzorgsprincipe wat in acht moet worden genomen wanneer redelijke grond is tot bezorgdheid over mogelijke onherstelbare schade die de activiteit kan toebrengen aan het mariene milieu. De in het MER en de Passende Beoordeling beschouwde resultaten m.b.t. voedselketeneffecten zijn tevens meegewogen.
+
+Bruinvisbeschermingsplan
 
 Het bruinvisbeschermingsplan geeft uitwerking aan de verplichtingen ten aanzien van de bescherming van de bruinvis op grond van de EU-habitatrichtlijn en de verplichtingen uit het ASCOBANS-verdrag. Bij de implementatie van de aanbevelingen uit het bruinvisbeschermingsplan krijgen de effecten als gevolg van onderwatergeluid prioriteit. Uit het bruinvisbeschermingsplan volgt dat nader specifiek onderzoek nodig is om de daadwerkelijke effecten van onderwatergeluid op de instandhouding van bruinvissen te bepalen en waar nodig maatregelen te nemen.
 
-Met de aan dit besluit verbonden voorschriften (voorschrift 2, lid 5 en 7 en voorschrift 4, lid 1 t/m 4) en het aan dit besluit verbonden monitorings- en evaluatieplan is uitvoering gegeven aan het bruinvisbeschermingsplan.
+Met de aan dit besluit verbonden voorschriften ([voorschrift 2, lid 5 en 7](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 4, lid 1 t/m 4](https://wetten.overheid.nl/BWBR0037811)) en het aan dit besluit verbonden monitorings- en evaluatieplan is uitvoering gegeven aan het bruinvisbeschermingsplan.
 
 ### 7.8. Voorschriften
 
 ### 7.8.1. Voorkeursbandbreedte turbinegrootte
 
-Om de gunstige staat van instandhouding van de kleine mantelmeeuw, grote mantelmeeuw en de zilvermeeuw niet in het geding te brengen en significant negatieve effecten op Natura 2000-gebieden uit te sluiten, wordt een voorschrift (2, lid 5 en 7) aan dit besluit verbonden dat toeziet op het verminderen van aanvaringsslachtoffers door het aanpassen van de bandbreedte van het te exploiteren windpark. Gemiddeld genomen is een maximaal aantal van 63 turbines per park nodig om significant negatieve effecten uit te kunnen sluiten en de gunstige staat van instandhouding te waarborgen.
+Om de gunstige staat van instandhouding van de kleine mantelmeeuw, grote mantelmeeuw en de zilvermeeuw niet in het geding te brengen en significant negatieve effecten op Natura 2000-gebieden uit te sluiten, wordt een [voorschrift (2, lid 5 en 7](https://wetten.overheid.nl/BWBR0037811)) aan dit besluit verbonden dat toeziet op het verminderen van aanvaringsslachtoffers door het aanpassen van de bandbreedte van het te exploiteren windpark. Gemiddeld genomen is een maximaal aantal van 63 turbines per park nodig om significant negatieve effecten uit te kunnen sluiten en de gunstige staat van instandhouding te waarborgen.
 
 Voor de kavels III (inclusief V) en IV van windenergiegebied Borssele wordt daarom de bovengrens voor het aantal turbines vastgesteld op 63, dus turbines van minimaal 6 MW. Ook in kavel V wordt een ondergrens van 6 MW per turbine voorgeschreven. Omdat ervoor gekozen is om in de kavels I en II een bovengrens van 95 turbines te hanteren, zullen in de kavels gelegen in het windenergiegebied Hollandse Kust van het Energieakkoord grotere turbines moeten worden voorgeschreven om gemiddeld uit te komen op maximaal 63 turbines per park om de gunstige staat van instandhouding te kunnen garanderen. Omdat de verwachting is dat windturbines op zee in de toekomst steeds groter zullen worden, zal dat op dat moment ook makkelijker te realiseren zijn.
 
@@ -915,11 +1110,11 @@ De wijze waarop de geluidsnorm wordt behaald, dat wil zeggen het middel van miti
 
 Om de gunstige staat van instandhouding van de ruige dwergvleermuis niet in het geding te brengen wordt een voorschrift aan dit besluit verbonden dat toeziet op het zoveel mogelijk vermijden van aanvaringsslachtoffers in periodes en weersomstandigheden dat slachtoffers verwacht kunnen worden.
 
-Tot dusverre is alleen het verhogen van de zogenaamde **cut-in windspeed** een maatregel gebleken die effectief is in het verminderen van het aantal aanvaringslachtoffers39http://www.eurobats.org/sites/default/files/documents/pdf/Meeting_of_Parties/MoP7.Record.Annex8-Res7.5-WindturbinesandBatPopulations_adopted.pdf. Onder deze **cut-in windspeed**moet het aantal rotaties van de rotor verlaagd worden tot minder dan 1 per minuut. De meest gebruikte methode om dit te bewerkstelligen is het uit de wind draaien van de windturbinebladen, ook wel ‘**pitch**’ of ‘**feathering**’ genoemd. Uit de literatuur blijkt dat met het verhogen van de **cut-in windspeed** een reductie van het aantal aanvaringsslachtoffers tussen de 50 en 90% mogelijk is. De effectiviteit is hierbij sterk afhankelijk van de mate waarin de maatregel is afgestemd op het soortspecifieke voorkomen en gedrag van vleermuizen op de projectlocatie. Dat wil zeggen dat de effectiviteit hoger zal zijn als de **cut-in windspeed** wordt verhoogd naar een voor die vleermuissoort relevante windsnelheid. In dit besluit wordt daarom de maatregel aangepast op de aanwezigheid van vleermuizen, en meer specifiek de ruige dwergvleermuis, op de Noordzee om zodoende een hoge effectiviteit te behalen.
+Tot dusverre is alleen het verhogen van de zogenaamde *cut-in windspeed* een maatregel gebleken die effectief is in het verminderen van het aantal aanvaringslachtoffers39http://www.eurobats.org/sites/default/files/documents/pdf/Meeting_of_Parties/MoP7.Record.Annex8-Res7.5-WindturbinesandBatPopulations_adopted.pdf. Onder deze *cut-in windspeed*moet het aantal rotaties van de rotor verlaagd worden tot minder dan 1 per minuut. De meest gebruikte methode om dit te bewerkstelligen is het uit de wind draaien van de windturbinebladen, ook wel ‘*pitch*’ of ‘*feathering*’ genoemd. Uit de literatuur blijkt dat met het verhogen van de *cut-in windspeed* een reductie van het aantal aanvaringsslachtoffers tussen de 50 en 90% mogelijk is. De effectiviteit is hierbij sterk afhankelijk van de mate waarin de maatregel is afgestemd op het soortspecifieke voorkomen en gedrag van vleermuizen op de projectlocatie. Dat wil zeggen dat de effectiviteit hoger zal zijn als de *cut-in windspeed* wordt verhoogd naar een voor die vleermuissoort relevante windsnelheid. In dit besluit wordt daarom de maatregel aangepast op de aanwezigheid van vleermuizen, en meer specifiek de ruige dwergvleermuis, op de Noordzee om zodoende een hoge effectiviteit te behalen.
 
-Uit onderzoeksgegevens40Lagerveld **et al**. (2014) Monitoring bat activity in offshore wind farms OWEZ and PAWP in 2013. IMARES Report C165/14; Jonge Poerkink et al. (2012) Pilot study Bat activity in the Dutch offshore wind farm OWEZ and PAWP. IMARES report number C026/13 / tFC reportnumber 20120402. op de Noordzee blijkt dat de meeste activiteit van de ruige dwergvleermuis, in het najaar plaats vindt, tussen half augustus tot eind september. Tachtig tot negentig procent van de activiteit wordt gemeten op nachten bij windsnelheden van kleiner of gelijk aan 5 m/s. Ongeveer één uur na zonsondergang worden de vleermuizen op zee waargenomen. De activiteit piekt vervolgens tussen 2 à 4 uur na zonsondergang waarna de activiteit weer afneemt. Daarom is gekozen voor een maatregel waar de **cut-in windspeed** van de turbines wordt verhoogd naar 5,0 m/s op ashoogte gedurende de periode van 15 augustus tot en met 30 september tussen 1 uur na zonsondergang tot 2 uur voor zonsopkomst. Beneden deze windsnelheid moet het aantal rotaties per minuut per windturbine tot minder dan 1 worden gebracht.
+Uit onderzoeksgegevens40Lagerveld *et al*. (2014) Monitoring bat activity in offshore wind farms OWEZ and PAWP in 2013. IMARES Report C165/14; Jonge Poerkink et al. (2012) Pilot study Bat activity in the Dutch offshore wind farm OWEZ and PAWP. IMARES report number C026/13 / tFC reportnumber 20120402. op de Noordzee blijkt dat de meeste activiteit van de ruige dwergvleermuis, in het najaar plaats vindt, tussen half augustus tot eind september. Tachtig tot negentig procent van de activiteit wordt gemeten op nachten bij windsnelheden van kleiner of gelijk aan 5 m/s. Ongeveer één uur na zonsondergang worden de vleermuizen op zee waargenomen. De activiteit piekt vervolgens tussen 2 à 4 uur na zonsondergang waarna de activiteit weer afneemt. Daarom is gekozen voor een maatregel waar de *cut-in windspeed* van de turbines wordt verhoogd naar 5,0 m/s op ashoogte gedurende de periode van 15 augustus tot en met 30 september tussen 1 uur na zonsondergang tot 2 uur voor zonsopkomst. Beneden deze windsnelheid moet het aantal rotaties per minuut per windturbine tot minder dan 1 worden gebracht.
 
-Met deze maatregel wordt tevens uitwerking gegeven aan het verdrag van Bonn, en meer specifiek de overeenkomst ‘**Eurobats**’, waarin lidstaten wordt aanbevolen om mitigerende maatregelen te nemen bij windparken ter bescherming van (migrerende) vleermuizen.
+Met deze maatregel wordt tevens uitwerking gegeven aan het verdrag van Bonn, en meer specifiek de overeenkomst ‘*Eurobats*’, waarin lidstaten wordt aanbevolen om mitigerende maatregelen te nemen bij windparken ter bescherming van (migrerende) vleermuizen.
 
 ### 7.8.4. Vermijden aanvaringen trekvogels
 
@@ -945,15 +1140,37 @@ Bij de aanwezigheid van op de platen rustende zeehonden zal een minimale afstand
 
 In het MER, de Passende Beoordeling en het KEC worden kennisleemtes aan de orde gesteld met betrekking tot de ecologische effecten tijdens de bouw, exploitatie en verwijdering van het windpark. Daarom zal op grond van dit kavelbesluit monitoring en evaluatie plaatsvinden. In het monitorings- en evaluatieprogramma wordt nadrukkelijk aandacht besteed aan die onderwerpen waarvoor mitigerende maatregelen zijn opgesteld. De kennis die uit het programma volgt kan ingezet worden om de voorschriften in de kavelbesluiten te optimaliseren. Het monitorings- en evaluatieprogramma wordt door de minister van Economische Zaken betaald en vastgesteld. Onderdelen in het monitorings- en evaluatieprogramma betreffen:
 
-**Vogels en vleermuizen**
+*Vogels en vleermuizen*
 
-**Zeezoogdieren en vissen**
+- 1. Aanvaringen meten vogels en vleermuizen;
+
+- 2. Valideren aannames habitatverlies vogels en macro- en micro-avoidance;
+
+- 3. Meer inzicht enkele prioritaire vogelsoorten in verband met trekroutes en vlieghoogtes;
+
+- 4. Validatie 10% sterfte habitatverlies vogels;
+
+- 5. Populatiegegevens vleermuizen (grootte populatie, trek, weersomstandigheden).
+
+*Zeezoogdieren en vissen*
+
+- 1. Validatie aannames akoestiek;
+
+- 2. Zeehonden en effecten van onderwatergeluid;
+
+- 3. Impact onderwatergeluid op gedrag van vissen;
+
+- 4. Verspreidingspatronen en migratie zeezoogdieren (bruinvissen en zeehonden);
+
+- 5. Effect onderwatergeluid op populatie zeezoogdieren (bruinvissen en zeehonden);
+
+- 6. Bruinvispopulatieindicatoren.
 
 De vergunninghouder zal zover redelijk en zonder financiele tegenprestatie meewerken aan dit monitorings- en evaluatieprogramma waarbij gedacht kan worden aan toegang tot het windpark, het (laten) bevestigen van apparatuur op of aan (onderdelen van) windturbines en het bieden van ruimte op de datakabels vanuit de turbines naar een verzamelpunt om de informatie van de sensoren op de juiste plaatsen te krijgen. Hiertoe is een voorschrift opgenomen. De vergunninghouder zal zo tijdig mogelijk op de hoogte worden gebracht van de beoogde installaties en activiteiten.
 
 ### 7.8.7. Bevordering biodiversiteit
 
-Het aanleggen en in gebruik nemen van windparken kan risico’s van negatieve effecten met zich meebrengen voor biodiversiteit. Om daar op verantwoorde wijze mee om te gaan, kent dit besluit onder meer voorschriften voor mitigerende maatregelen. Daarnaast kunnen windparken in potentie ook voordelen met zich meebrengen voor een gezonde zee en behoud en duurzaam gebruik van van nature in Nederland voorkomende soorten en habitats. Naast het realiseren van bepaalde duurzame vormen van medegebruik (zie paragraaf 6.12), kan door zogeheten natuurinclusief bouwen ook direct of indirect worden bijgedragen aan behoud en duurzaam gebruik van van nature voorkomende soorten en habitats in Nederland, bijvoorbeeld doordat bepaalde organismen kunnen profiteren van de toegepaste materialen. In het besluit is daarom een voorschrift opgenomen (voorschrift 2, lid 15) dat de vergunninghouder de verplichting oplegt zich in te spannen het park zodanig te ontwerpen en te realiseren dat het park actief bijdraagt aan versterking van een gezonde zee en versterking van behoud en duurzaam gebruik van soorten en habitats die van nature in Nederland voorkomen.
+Het aanleggen en in gebruik nemen van windparken kan risico’s van negatieve effecten met zich meebrengen voor biodiversiteit. Om daar op verantwoorde wijze mee om te gaan, kent dit besluit onder meer voorschriften voor mitigerende maatregelen. Daarnaast kunnen windparken in potentie ook voordelen met zich meebrengen voor een gezonde zee en behoud en duurzaam gebruik van van nature in Nederland voorkomende soorten en habitats. Naast het realiseren van bepaalde duurzame vormen van medegebruik (zie [paragraaf 6.12](https://wetten.overheid.nl/BWBR0037811)), kan door zogeheten natuurinclusief bouwen ook direct of indirect worden bijgedragen aan behoud en duurzaam gebruik van van nature voorkomende soorten en habitats in Nederland, bijvoorbeeld doordat bepaalde organismen kunnen profiteren van de toegepaste materialen. In het besluit is daarom een voorschrift opgenomen ([voorschrift 2, lid 15](https://wetten.overheid.nl/BWBR0037811)) dat de vergunninghouder de verplichting oplegt zich in te spannen het park zodanig te ontwerpen en te realiseren dat het park actief bijdraagt aan versterking van een gezonde zee en versterking van behoud en duurzaam gebruik van soorten en habitats die van nature in Nederland voorkomen.
 
 ### Nota van beantwoording zienswijzen en reactie
 
@@ -964,6 +1181,12 @@ Het aanleggen en in gebruik nemen van windparken kan risico’s van negatieve ef
 Op 18 december 2015 zijn de ontwerpkavelbesluiten III, IV en V Windenergiegebied Borssele gepubliceerd op de website van het Bureau Energieprojecten en is een kennisgeving hierover gepubliceerd in de Staatscourant. Tot en met donderdag 28 januari 2016 was een ieder in de gelegenheid een zienswijze in te dienen op de ontwerpbesluiten. Overheden konden een reactie geven.
 
 In aanvulling op de bovengenoemde kennisgeving is een aantal overheden en instanties afzonderlijk geïnformeerd. Het betreft:
+
+- − De Belgische overheid (mede in het kader van het ESPOO Verdrag);
+
+- − De provincie Zeeland en de gemeenten Vlissingen, Middelburg, Veere, Noord-Beveland, Schouwen-Duiveland, Borsele en Sluis;
+
+- − De wettelijk adviseurs: Inspectie Leefomgeving en Transport en Rijksdienst voor Cultureel Erfgoed. Behoudens de reacties van de ILT en de RCE op de concept notitie reikwijdte en detailniveau ten behoeve van het milieueffectrapport, in dezen is van hen geen nadere inbreng ontvangen.
 
 Binnen de inspraaktermijn zijn zienswijzen ingediend door: burgers uit Krabbendijke, Kapelle, Goes, Hansweert, Vlissingen en stichting Dorpsraad Borssele, Leefbaar Reimerswaal; Witteveen+Bos, Port of Antwerp, Deutsche Telekom AG, mede namens ‘other European Telecom Carriers’, het Vlaamse Gewest, C-power, Northwind, Belwind, Nobelwind, Northwester, Belgian Offshore platform, Dong Energy, RWE, GDF SUEZ, DELTA, Nuon en NWEA. Van de gemeente Veere is een reactie ontvangen. De zienswijzen en de reactie zijn integraal opgenomen in de inspraak- en reactiebundel, die is te raadplegen via de website van Bureau Energieprojecten45https://www.rvo.nl/sites/default/files/2016/02/Bundel_Anoniem_KavelsBorssele_%20III_IV_V_0.pdf.
 
@@ -983,349 +1206,449 @@ Op 3 maart 2016 is het advies van de Commissie voor de m.e.r.46Commissie voor de
 
 ### 1. Ontwerpbesluit, rechtsbescherming
 
-**Z**: Indieners verzoeken de procedure voor de ‘runner up’ uit te werken in de kavelbesluiten.
+NWEA
 
-**A**: Deze procedure is onderdeel van de subsidieverlening en zal daar aan de orde komen.
+*Z*: Indieners verzoeken de procedure voor de ‘runner up’ uit te werken in de kavelbesluiten.
 
-**Z:** Indiener verzoekt de oppervlakte van kavel V bij kavel III te betrekken indien de realisatie van kavel V niet haalbaar of opportuun is.
+*A*: Deze procedure is onderdeel van de subsidieverlening en zal daar aan de orde komen.
 
-**A:** De tender om de innovatiekavel V zal later plaatsvinden dan de tender om de kavels III en IV. Indien de innovatietender niet succesvol is, kan eventueel een nieuwe (innovatie)tender worden uitgeschreven. Op grond van [artikel 11 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=11) kan kavelbesluit V ingetrokken worden, indien gedurende drie achtereenvolgende jaren na het onherroepelijk worden van een kavelbesluit geen vergunning voor de kavel wordt verleend. Kavel V wordt niet betrokken bij kavel III. Hooguit zou dezelfde partij die de tender om kavel III wint ook de tender om kavel V kunnen winnen. Het blijven echter twee kavelbesluiten en twee vergunningen.
+Nuon
+
+*Z:* Indiener verzoekt de oppervlakte van kavel V bij kavel III te betrekken indien de realisatie van kavel V niet haalbaar of opportuun is.
+
+*A:* De tender om de innovatiekavel V zal later plaatsvinden dan de tender om de kavels III en IV. Indien de innovatietender niet succesvol is, kan eventueel een nieuwe (innovatie)tender worden uitgeschreven. Op grond van [artikel 11 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=11) kan kavelbesluit V ingetrokken worden, indien gedurende drie achtereenvolgende jaren na het onherroepelijk worden van een kavelbesluit geen vergunning voor de kavel wordt verleend. Kavel V wordt niet betrokken bij kavel III. Hooguit zou dezelfde partij die de tender om kavel III wint ook de tender om kavel V kunnen winnen. Het blijven echter twee kavelbesluiten en twee vergunningen.
 
 ### 2. Toelichting ontwerpkavelbesluiten III, IV en V windenergiegebied Borssele
 
 ### 2.4. Kavels III, IV en V
 
-**Kenmerken windenergiegebied Borssele**
+*Kenmerken windenergiegebied Borssele*
 
-**Belgian Offshore platform (BOP), C-Power,**Northwind, Belwind, Nobelwind, Northwester,
+*Belgian Offshore platform (BOP), C-Power,*Northwind, Belwind, Nobelwind, Northwester,
 
-**Z**: Indieners stellen –- kort samengevat – dat er onvoldoende rekening gehouden is met de Belgische windparken.
+*Z*: Indieners stellen –- kort samengevat – dat er onvoldoende rekening gehouden is met de Belgische windparken.
 
-**A**: In het onderhavige besluit is zoveel als mogelijk rekening gehouden met de belangen van exploitanten van nabijgelegen windparken. Hiervoor is een aanvullend onderzoek door ECN uitgevoerd, dat mede de basis vormt voor het milieueffectrapport. Voor het windenergiegebied Borssele is de keuze gemaakt om 1.400 MW windenergie te realiseren en niet 2.100 MW onder meer om de zog-effecten op de Belgische parken te verminderen.
+*A*: In het onderhavige besluit is zoveel als mogelijk rekening gehouden met de belangen van exploitanten van nabijgelegen windparken. Hiervoor is een aanvullend onderzoek door ECN uitgevoerd, dat mede de basis vormt voor het milieueffectrapport. Voor het windenergiegebied Borssele is de keuze gemaakt om 1.400 MW windenergie te realiseren en niet 2.100 MW onder meer om de zog-effecten op de Belgische parken te verminderen.
 
 Het voorgaande neemt niet weg dat de energieopbrengst van de genoemde windparken kan afnemen na realisatie van windturbines op de aangewezen kavels. Volgens het onderzoek van ECN zal bij realisatie van een 1.400 MW windpark in het windenergiegebied Borssele de energieopbrengst voor de Belgische windparken met gemiddeld 2,7% afnemen. In het rapport is ook een specificatie per windpark opgenomen. De percentages zijn: Belwind 3,36%, Seastar 3,35%, Northwind 3,59%, Rentel 3,60%, Thornton Bank 2,01%, Norther 1,88%, Mermaid 2,36%, Northwester 2 1,94%. Bovenstaande afname van de energieopbrengst zal gedurende een beperkt aantal jaren van de exploitatie van de reeds bestaande (delen van) de Belgische windparken optreden. Bovendien ligt de afname van de energieopbrengst in de toekomst vanaf circa 2020, waardoor de gederfde inkomsten netto contant lager zijn. Rekening houdend met bovenstaande is het nadeel aanzienlijk kleiner dan bovengenoemde percentages. Voor de betrokkenen is derhalve geen sprake van schade met een excessief karakter, dat integraal moet worden meegewogen bij het nemen van het kavelbesluit. Indien toch blijkt dat nadeel wordt ondervonden door betrokkenen kan een separaat besluit genomen worden over de vraag of nadeelcompensatie verschuldigd is aan exploitanten van reeds bestaande windparken die mogelijkerwijs hinder ondervinden van de aangewezen kavels. In die besluiten wordt overeenkomstig de criteria voor nadeelcompensatie getoetst of eventuele schade voorzienbaar was, of sprake is van een bijzondere last en of de last het normale bedrijfsrisico te boven gaat.
 
-**Z**: Indieners verzoeken om een aanvullend simulatieonderzoek uit te voeren met als doel het maximaal beperken van wederzijdse wake-effecten.
+*Z*: Indieners verzoeken om een aanvullend simulatieonderzoek uit te voeren met als doel het maximaal beperken van wederzijdse wake-effecten.
 
-**A**: Ten bate van de kavelbesluiten zijn door ECN simulatieonderzoeken uitgevoerd om de windafvang te berekenen. De effecten zijn meegenomen bij de afweging voor de kavelbesluiten. Grotere afstanden tot de Belgische windparken zou betekenen, dat de Nederlandse windparken een veel grotere dichtheid krijgen. Het zoveel mogelijk evenredig verdelen van de windmolens over het beschikbare gebied leidt per saldo tot de minste verliezen voor alle parken. Meer gedetailleerde simulatie zal niets aan deze conclusie af doen.
+*A*: Ten bate van de kavelbesluiten zijn door ECN simulatieonderzoeken uitgevoerd om de windafvang te berekenen. De effecten zijn meegenomen bij de afweging voor de kavelbesluiten. Grotere afstanden tot de Belgische windparken zou betekenen, dat de Nederlandse windparken een veel grotere dichtheid krijgen. Het zoveel mogelijk evenredig verdelen van de windmolens over het beschikbare gebied leidt per saldo tot de minste verliezen voor alle parken. Meer gedetailleerde simulatie zal niets aan deze conclusie af doen.
 
-**Doorvaart en medegebruik**
+*Doorvaart en medegebruik*
 
-**Z**: Indiener suggereert dat doorvaart en medegebruik alleen toegestaan zou moeten worden na voorafgaande toestemming van de exploitant.
+GDF SUEZ
 
-**A**: Besluiten over doorvaart en medegebruik zijn voorbehouden aan de minister van Infrastructuur en Milieu. De algemene beleidslijn op dit punt is opgenomen in het Nationaal Waterplan en per installatie wordt een besluit genomen tot het instellen van een veiligheidszone op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10). Niet in de kavelbesluiten, maar in dit besluit wordt geconcretiseerd of en zo ja welke vormen van doorvaart en medegebruik toegestaan zijn. Het kavelbesluit is hiervoor dus niet de plaats. Aan de besluitvorming op grond van artikel 6.10 Waterwet ligt een belangenafweging ten grondslag, waarin het belang van de exploitant van een windpark een plaats heeft.
+*Z*: Indiener suggereert dat doorvaart en medegebruik alleen toegestaan zou moeten worden na voorafgaande toestemming van de exploitant.
 
-**Z**: Indieners pleiten er voor de voorwaarden waaronder doorvaart en medegebruik worden toegestaan ruim voor opening van de tender in detail bekend te maken.
+*A*: Besluiten over doorvaart en medegebruik zijn voorbehouden aan de minister van Infrastructuur en Milieu. De algemene beleidslijn op dit punt is opgenomen in het Nationaal Waterplan en per installatie wordt een besluit genomen tot het instellen van een veiligheidszone op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10). Niet in de kavelbesluiten, maar in dit besluit wordt geconcretiseerd of en zo ja welke vormen van doorvaart en medegebruik toegestaan zijn. Het kavelbesluit is hiervoor dus niet de plaats. Aan de besluitvorming op grond van artikel 6.10 Waterwet ligt een belangenafweging ten grondslag, waarin het belang van de exploitant van een windpark een plaats heeft.
 
-**A**: Indieners zijn als stakeholder betrokken bij de beleidsontwikkeling rond doorvaart en medegebruik tijdens de voorbereiding van het Nationaal Waterplan 2016 – 2021. Het beleid en de algemene voorwaarden waaronder openstelling kan plaatsvinden zijn opgenomen in het Nationaal Waterplan.
+NWEA, Nuon
 
-**Z**: Indieners pleiten er voor om omwille van de scheepvaartveiligheid in Nederland hetzelfde beleid te voeren voor doorvaart en medegebruik als in België.
+*Z*: Indieners pleiten er voor de voorwaarden waaronder doorvaart en medegebruik worden toegestaan ruim voor opening van de tender in detail bekend te maken.
 
-**A**: Iedere staat heeft in zijn eigen EEZ soevereine rechten met betrekking tot het instellen van veiligheidszones om installaties. Zulks is bepaald in het VN Zeerechtverdrag. Voor het overige wordt verwezen naar de beantwoording van de zienswijze direct hierboven.
+*A*: Indieners zijn als stakeholder betrokken bij de beleidsontwikkeling rond doorvaart en medegebruik tijdens de voorbereiding van het Nationaal Waterplan 2016 – 2021. Het beleid en de algemene voorwaarden waaronder openstelling kan plaatsvinden zijn opgenomen in het Nationaal Waterplan.
 
-**Z:** Indiener vraagt zich af hoe concreet uitvoering gegeven gaat worden aan medegebruik.
+*Z*: Indieners pleiten er voor om omwille van de scheepvaartveiligheid in Nederland hetzelfde beleid te voeren voor doorvaart en medegebruik als in België.
 
-**A:** De concrete uitvoering hangt af van initiatieven die aangevraagd worden. In het kader van een vergunningsprocedure op grond van de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) moet beoordeeld worden of en onder welke voorwaarden die initiatieven toelaatbaar zijn. Aan de vergunning kunnen voorschriften worden verbonden ter beperking van negatieve effecten.
+*A*: Iedere staat heeft in zijn eigen EEZ soevereine rechten met betrekking tot het instellen van veiligheidszones om installaties. Zulks is bepaald in het VN Zeerechtverdrag. Voor het overige wordt verwezen naar de beantwoording van de zienswijze direct hierboven.
 
-**Landschappelijke inpassing**
+NWEA
 
-**Z**: Indieners stellen dat de windturbines het vrije zicht op zee belemmeren.
+*Z:* Indiener vraagt zich af hoe concreet uitvoering gegeven gaat worden aan medegebruik.
 
-**A**: De belangenafweging voor het plaatsen van windturbines in windenergiegebied Borssele is afgewogen in het kavelbesluit, paragraaf 6.2. Hieruit blijkt dat de zichtbaarheid van de windturbines beperkt is. De afstand van de windturbines van kavelbesluiten III, [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0037800) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0037802) tot de kust is minimaal 30 kilometer. Daarnaast zijn de windturbines van kavelbesluiten III, IV en V vanaf het vasteland gezien gepositioneerd achter die van [kavelbesluiten I](https://wetten.overheid.nl/jci1.3:c:BWBR0037794) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0037801).
+*A:* De concrete uitvoering hangt af van initiatieven die aangevraagd worden. In het kader van een vergunningsprocedure op grond van de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) moet beoordeeld worden of en onder welke voorwaarden die initiatieven toelaatbaar zijn. Aan de vergunning kunnen voorschriften worden verbonden ter beperking van negatieve effecten.
 
-**R**: Indiener geeft aan dat hinder door zichtbaarheid van windparken vanaf het strand kan leiden tot schade voor de recreatie en toeristische sector.
+Belangenafweging gebruiksfuncties
 
-**A**: Voor de recreatie langs de kust en in de duinen zijn de zichtbaarheid en het geluid van
+*Landschappelijke inpassing*
+
+Particulieren, Krabbendijke
+
+*Z*: Indieners stellen dat de windturbines het vrije zicht op zee belemmeren.
+
+*A*: De belangenafweging voor het plaatsen van windturbines in windenergiegebied Borssele is afgewogen in het kavelbesluit, [paragraaf 6.2](https://wetten.overheid.nl/BWBR0037811). Hieruit blijkt dat de zichtbaarheid van de windturbines beperkt is. De afstand van de windturbines van kavelbesluiten III, [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0037800) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0037802) tot de kust is minimaal 30 kilometer. Daarnaast zijn de windturbines van kavelbesluiten III, IV en V vanaf het vasteland gezien gepositioneerd achter die van [kavelbesluiten I](https://wetten.overheid.nl/jci1.3:c:BWBR0037794) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0037801).
+
+Gemeente Veere
+
+*R*: Indiener geeft aan dat hinder door zichtbaarheid van windparken vanaf het strand kan leiden tot schade voor de recreatie en toeristische sector.
+
+*A*: Voor de recreatie langs de kust en in de duinen zijn de zichtbaarheid en het geluid van
 
 het windpark van belang. De afstand tot het park is dusdanig dat het windpark niet hoorbaar is aan de kust. Verder is in het MER beschreven dat het windpark slechts gedurende een beperkte periode in het jaar zichtbaar is en dat daardoor de hinder beperkt zal zijn. In het verlengde daarvan is het niet aannemelijk dat de recreatie en toeristische sector hierdoor zodanige schade gaat lijden dat dit kavelbesluit niet in redelijkheid genomen had mogen worden.
 
-**R:** Indiener verzoekt het innovatiekavel zover mogelijk uit de kust te realiseren omdat deze turbines hoger worden dan de reguliere kavels, en dus beter zichtbaar zijn.
+*R:* Indiener verzoekt het innovatiekavel zover mogelijk uit de kust te realiseren omdat deze turbines hoger worden dan de reguliere kavels, en dus beter zichtbaar zijn.
 
-**A:**Voor de turbines in het innovatiekavel gelden dezelfde eisen voor de hoogte als voor de reguliere kavels, zie voorschrift 2 van het kavelbesluit.
+*A:*Voor de turbines in het innovatiekavel gelden dezelfde eisen voor de hoogte als voor de reguliere kavels, zie [voorschrift 2](https://wetten.overheid.nl/BWBR0037811) van het kavelbesluit.
 
-**Kabels en leidingen**
+*Kabels en leidingen*
 
-**Z**: Indieners verzoeken om een faciliterende en bemiddelende rol van de overheid bij het sluiten van kruisingsovereenkomsten.
+NWEA, Dong Energy, RWE
 
-**A**: Op grond van het VN-zeerechtverdrag heeft een kuststaat beperkte rechtsmacht met betrekking tot kabels en leidingen. Tot nu toe hebben exploitanten van kabels en leidingen onderling afspraken kunnen maken wanneer kabel en leidingen elkaar kruisen. In beginsel bemoeit de minister zich niet met de privaatrechtelijke belangen van partijen. Waar mogelijk wil de overheid een ondersteunende rol vervullen bij het tot stand komen van de genoemde overeenkomsten en heeft daartoe verkennende gesprekken met de kabel- en leidingexploitanten.
+*Z*: Indieners verzoeken om een faciliterende en bemiddelende rol van de overheid bij het sluiten van kruisingsovereenkomsten.
 
-**Z**: Indiener is van mening dat een onderhoudszone van 500 meter aan weerszijden van een telecomkabel te beperkt is om de telecomkabel te onderhouden. Aan weerszijden zou 750 meter aangehouden moeten worden. Hierbij wordt onder andere verwezen naar een aanbeveling van de International Cable Protection Committee (ICPC) en artikel 58 van het VN Zeerechtverdrag.
+*A*: Op grond van het VN-zeerechtverdrag heeft een kuststaat beperkte rechtsmacht met betrekking tot kabels en leidingen. Tot nu toe hebben exploitanten van kabels en leidingen onderling afspraken kunnen maken wanneer kabel en leidingen elkaar kruisen. In beginsel bemoeit de minister zich niet met de privaatrechtelijke belangen van partijen. Waar mogelijk wil de overheid een ondersteunende rol vervullen bij het tot stand komen van de genoemde overeenkomsten en heeft daartoe verkennende gesprekken met de kabel- en leidingexploitanten.
 
-**A**: Onderkend wordt dat bij een onderhoudszone van 500 meter aan weerszijde van de telecomkabel onderhoud lastiger is. Het onderhoud is echter niet onmogelijk, noch worden de belangen van andere staten geschaad (art. 58 VN Zeerechtverdrag). De minister is niet gebonden aan de aanbevelingen van de ICPC. De exacte ligging van de kabel is recent bepaald47Geophysical site investigation survey Borssele windfarm development zone, wind farm site 2,Deep bv, 2015, te vinden via http://offshorewind.rvo.nl/studiesborsseleI. Op grond van nationaal beleid in het Integraal beheerplan Noordzee (later Beleidsnota Noordzee) mag de minister van Infrastructuur en Milieu afwijken van een onderhoudszone van 750m en maatwerk leveren.
+Deutsche Telekom AG
 
-**Visserij**
+*Z*: Indiener is van mening dat een onderhoudszone van 500 meter aan weerszijden van een telecomkabel te beperkt is om de telecomkabel te onderhouden. Aan weerszijden zou 750 meter aangehouden moeten worden. Hierbij wordt onder andere verwezen naar een aanbeveling van de International Cable Protection Committee (ICPC) en artikel 58 van het VN Zeerechtverdrag.
 
-**Z:** Indiener verzoekt in het kavelbesluit aan te geven wat de criteria zijn voor het instellen van een veiligheidszone.
+*A*: Onderkend wordt dat bij een onderhoudszone van 500 meter aan weerszijde van de telecomkabel onderhoud lastiger is. Het onderhoud is echter niet onmogelijk, noch worden de belangen van andere staten geschaad (art. 58 VN Zeerechtverdrag). De minister is niet gebonden aan de aanbevelingen van de ICPC. De exacte ligging van de kabel is recent bepaald47Geophysical site investigation survey Borssele windfarm development zone, wind farm site 2,Deep bv, 2015, te vinden via http://offshorewind.rvo.nl/studiesborsseleI. Op grond van nationaal beleid in het Integraal beheerplan Noordzee (later Beleidsnota Noordzee) mag de minister van Infrastructuur en Milieu afwijken van een onderhoudszone van 750m en maatwerk leveren.
 
-**A:** Besluiten over het instellen van een veiligheidszone zijn voorbehouden aan de minister van Infrastructuur en Milieu. De algemene beleidslijn op dit punt is opgenomen in het Nationaal Waterplan en per installatie wordt een besluit genomen tot het instellen van een veiligheidszone op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10). Niet in de kavelbesluiten, maar in dit besluit wordt geconcretiseerd of en zo ja welke vormen van doorvaart en medegebruik toegestaan zijn. Het kavelbesluit is hiervoor dus niet de plaats. Aan de besluitvorming op grond van artikel 6.10 Waterwet ligt een belangenafweging ten grondslag, waarin het belang van de visserij een plaats heeft.
+*Visserij*
+
+Delta
+
+*Z:* Indiener verzoekt in het kavelbesluit aan te geven wat de criteria zijn voor het instellen van een veiligheidszone.
+
+*A:* Besluiten over het instellen van een veiligheidszone zijn voorbehouden aan de minister van Infrastructuur en Milieu. De algemene beleidslijn op dit punt is opgenomen in het Nationaal Waterplan en per installatie wordt een besluit genomen tot het instellen van een veiligheidszone op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10). Niet in de kavelbesluiten, maar in dit besluit wordt geconcretiseerd of en zo ja welke vormen van doorvaart en medegebruik toegestaan zijn. Het kavelbesluit is hiervoor dus niet de plaats. Aan de besluitvorming op grond van artikel 6.10 Waterwet ligt een belangenafweging ten grondslag, waarin het belang van de visserij een plaats heeft.
 
 ### 2.7. Ecologie
 
-**Algemeen**
+*Algemeen*
 
-**Z**: Indiener is van mening dat de afweging van kosten van het windpark en de ecologische belangen door toepassing van het voorzorgsbeginsel uit balans is.
+GDF SUEZ
 
-**A**: Deze mening wordt niet gedeeld. Het voorzorgsbeginsel vloeit direct voort uit de Europese Vogel- en Habitatrichtlijn en krijgt daarom in de afweging een zwaarwegende plaats. De realisatie van windenergie op zee zoals verwoord in het Energieakkoord is als uitgangspunt genomen voor de cumulatieve effectbeoordeling (t/m 2023). Hiermee wordt uitwerking gegeven aan het advies van de Commissie voor de m.e.r. op het MER/PB die voor de partiële herziening van het Nationaal Waterplan (2009-2015) is opgesteld. Door deze werkwijze wordt de kans verhoogd om de routekaart te voltooien zonder belemmeringen als gevolg van het mogelijk optreden van cumulatieve effecten. In de doorrekening van het Energieakkoord zijn dus ook alle toekomstige en nog niet vergunde windparken meegenomen. Omdat mariene soorten een diffuse verspreiding kennen en hun migratiepatronen zich door de gehele Zuidelijke Noordzee uitstrekken, is het noodzakelijk om ook internationale projecten te betrekken. Daar waar mogelijk zijn overigens de cumulatieve effecten op zeezoogdieren en aanvaringsslachtoffers wel berekend en beoordeeld in het licht van het SER akkoord. De mitigerende maatregelen zijn afgewogen in relatie tot de juridische kaders en gebaseerd op best beschikbare kennis. Daarnaast is de heirestrictie (verbod in januari tot en met mei in geval van 77-95 palen) aangepast naar 159 dB re μPa2s SEL1 op 750 meter van de geluidsbron.
+*Z*: Indiener is van mening dat de afweging van kosten van het windpark en de ecologische belangen door toepassing van het voorzorgsbeginsel uit balans is.
 
-**KEC**
+*A*: Deze mening wordt niet gedeeld. Het voorzorgsbeginsel vloeit direct voort uit de Europese Vogel- en Habitatrichtlijn en krijgt daarom in de afweging een zwaarwegende plaats. De realisatie van windenergie op zee zoals verwoord in het Energieakkoord is als uitgangspunt genomen voor de cumulatieve effectbeoordeling (t/m 2023). Hiermee wordt uitwerking gegeven aan het advies van de Commissie voor de m.e.r. op het MER/PB die voor de partiële herziening van het Nationaal Waterplan (2009-2015) is opgesteld. Door deze werkwijze wordt de kans verhoogd om de routekaart te voltooien zonder belemmeringen als gevolg van het mogelijk optreden van cumulatieve effecten. In de doorrekening van het Energieakkoord zijn dus ook alle toekomstige en nog niet vergunde windparken meegenomen. Omdat mariene soorten een diffuse verspreiding kennen en hun migratiepatronen zich door de gehele Zuidelijke Noordzee uitstrekken, is het noodzakelijk om ook internationale projecten te betrekken. Daar waar mogelijk zijn overigens de cumulatieve effecten op zeezoogdieren en aanvaringsslachtoffers wel berekend en beoordeeld in het licht van het SER akkoord. De mitigerende maatregelen zijn afgewogen in relatie tot de juridische kaders en gebaseerd op best beschikbare kennis. Daarnaast is de heirestrictie (verbod in januari tot en met mei in geval van 77-95 palen) aangepast naar 159 dB re μPa2s SEL1 op 750 meter van de geluidsbron.
 
-**Z**: Indiener acht periodieke herziening van het KEC ongewenst. Daarnaast wordt verzocht duidelijk te definiëren wat de “zeer uitzonderlijke situaties” zijn, waarin procedures tot wijziging kavelbesluit gaan lopen.
+*KEC*
 
-**A**: Zoals in het kavelbesluit is aangegeven betreft het hier zeer uitzonderlijke situaties waarin geconstateerd wordt dat de eerdere conclusies uit de reeds genomen kavelbesluiten onhoudbaar zijn. Voorbeelden van deze zeer uitzonderlijke situaties of duidelijke definiëring hiervan kan op voorhand niet gegeven worden. Alleen dan zal het Rijk overwegen om een procedure tot wijziging in gang te zetten waarbij de uitgebreide openbare voorbereidingsprocedure zoals beschreven in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) zal worden gevolgd.
+Delta
 
-**Z**: Indiener vraagt zich af of de gehanteerde scenario’s uit het MER wel het meest geschikt zijn of dat de laatste stand van zaken moet worden doorgerekend.
+*Z*: Indiener acht periodieke herziening van het KEC ongewenst. Daarnaast wordt verzocht duidelijk te definiëren wat de “zeer uitzonderlijke situaties” zijn, waarin procedures tot wijziging kavelbesluit gaan lopen.
 
-**A**: In de besluitvorming dient het bevoegd gezag te allen tijde uit te gaan van de best beschikbare kennis. Derhalve is in het MER en het KEC ook uitgegaan van de best beschikbare data. Daarbij dient tevens opgemerkt te worden dat het KEC een ‘levend’ document is en voortdurend wordt geüpdatet met nieuwe inzichten die voortkomen uit onderzoeken waaronder het monitoring- en evaluatieplan.
+*A*: Zoals in het kavelbesluit is aangegeven betreft het hier zeer uitzonderlijke situaties waarin geconstateerd wordt dat de eerdere conclusies uit de reeds genomen kavelbesluiten onhoudbaar zijn. Voorbeelden van deze zeer uitzonderlijke situaties of duidelijke definiëring hiervan kan op voorhand niet gegeven worden. Alleen dan zal het Rijk overwegen om een procedure tot wijziging in gang te zetten waarbij de uitgebreide openbare voorbereidingsprocedure zoals beschreven in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) zal worden gevolgd.
 
-**Z**: Indiener wordt graag op de hoogte gehouden van het (nog nader te bepalen) proces van herziening van het KEC alsmede van de gevolgen voor de mitigerende maatregelen in de kavelbesluiten.
+NWEA, Dong Energy, RWE, Delta
 
-**A**: Als dit aan de orde is, zullen indieners hierover geïnformeerd worden.
+*Z*: Indiener vraagt zich af of de gehanteerde scenario’s uit het MER wel het meest geschikt zijn of dat de laatste stand van zaken moet worden doorgerekend.
 
-**Vleermuizen**
+*A*: In de besluitvorming dient het bevoegd gezag te allen tijde uit te gaan van de best beschikbare kennis. Derhalve is in het MER en het KEC ook uitgegaan van de best beschikbare data. Daarbij dient tevens opgemerkt te worden dat het KEC een ‘levend’ document is en voortdurend wordt geüpdatet met nieuwe inzichten die voortkomen uit onderzoeken waaronder het monitoring- en evaluatieplan.
 
-**Z**: Indiener vraagt zich af waar de aanname van 8.000 turbines in relatie tot cumulatieve effecten op vleermuizen vandaan komt. Opeenstapeling van conservatieve aannames geeft bovendien geen zekerheid over de PBR doelstelling.
+*Z*: Indiener wordt graag op de hoogte gehouden van het (nog nader te bepalen) proces van herziening van het KEC alsmede van de gevolgen voor de mitigerende maatregelen in de kavelbesluiten.
 
-**A**: De realisatie van windenergie op zee zoals verwoord in het Energieakkoord is als uitgangspunt meegenomen voor de cumulatieve effectbeoordeling (t/m 2023). Hiermee wordt uitwerking gegeven aan het advies van de Commissie voor de m.e.r. op het MER/PB die voor de partiële herziening van het Nationaal Waterplan (2009-2015) is opgesteld. Door deze werkwijze wordt de kans verhoogd om de routekaart te voltooien zonder belemmeringen als gevolg van het mogelijk optreden van cumulatieve effecten. Voor vogels en vleermuizen is gerekend met nationale en buitenlandse windparken op de Noordzee in het studiegebied, voor zover die vrijwel zeker doorgang vinden. Omdat het migratiepatroon van de Ruige Dwergvleermuis zich mogelijk over de gehele Zuidelijke Noordzee uitstrekt, is het noodzakelijk om ook internationale projecten te betrekken.
+*A*: Als dit aan de orde is, zullen indieners hierover geïnformeerd worden.
 
-**Bruinvissen/onderwatergeluid**
+*Vleermuizen*
 
-**R:** De Commissie is van mening dat voor kavel IV de gepresenteerde worst case situatie ten aanzien van negatieve effecten van onderwatergeluid alleen volstaat, indien niet dieper wordt geheid dan 29 m. De Commissie adviseert om indien in kavel IV dieper geheid gaat worden dan 29 meter nieuwe geluidberekeningen uit te voeren op basis van de maximale heidiepte en aan te geven wat dat betekent voor het aantal verstoorde bruinvissen en de daarmee te nemen geluidwerende voorzieningen.
+Delta
 
-**A:** Kavel IV wordt gedomineerd door zandribbels met groot verschil in hoogte waardoor de heidiepte in de kavel op korte afstand vrij sterk kan verschillen. De exacte waterdiepte per paalpositie, of dat nu 29 meter of 33 meter is, is voor de verspreiding van het onderwatergeluid echter ondergeschikt aan hoe de bodem er in de ruimere omgeving uitziet. Voor de bepaling van de effecten van onderwatergeluid dat vrijkomt bij heien is gebruik gemaakt van een kaart met gemeten waterdieptes van het gehele, veel grotere, gebied waarover de geluidscontour zich uitstrekt. Hierdoor is het niet nodig om bij een andere heidiepte nieuwe geluidberekeningen uit te voeren.
+*Z*: Indiener vraagt zich af waar de aanname van 8.000 turbines in relatie tot cumulatieve effecten op vleermuizen vandaan komt. Opeenstapeling van conservatieve aannames geeft bovendien geen zekerheid over de PBR doelstelling.
 
-**Z**: Indiener vraagt zich af of de ondergrens van de 4 MW turbine en het rapport van de Commissie voor de m.e.r. daadwerkelijk zijn doorgevoerd.
+*A*: De realisatie van windenergie op zee zoals verwoord in het Energieakkoord is als uitgangspunt meegenomen voor de cumulatieve effectbeoordeling (t/m 2023). Hiermee wordt uitwerking gegeven aan het advies van de Commissie voor de m.e.r. op het MER/PB die voor de partiële herziening van het Nationaal Waterplan (2009-2015) is opgesteld. Door deze werkwijze wordt de kans verhoogd om de routekaart te voltooien zonder belemmeringen als gevolg van het mogelijk optreden van cumulatieve effecten. Voor vogels en vleermuizen is gerekend met nationale en buitenlandse windparken op de Noordzee in het studiegebied, voor zover die vrijwel zeker doorgang vinden. Omdat het migratiepatroon van de Ruige Dwergvleermuis zich mogelijk over de gehele Zuidelijke Noordzee uitstrekt, is het noodzakelijk om ook internationale projecten te betrekken.
 
-**A**: Bij de inrichting van de kavels voor Borssele III, IV en V wordt een minimale turbinegrootte van 6 MW gehanteerd in plaats van de door indiener genoemde 4 MW. In paragraaf 7.3.3 zijn inderdaad de ‘worst case’ analyses opgenomen van de uiterste bandbreedte. Op basis van de resultaten van deze worst case analyse is de bandbreedte ingeperkt naar een voorkeursbandbreedte. De effecten als gevolg van de voorkeursbandbreedte zijn nader beschreven in het MER. Het gaat hierbij onder andere om de doorberekening van de effecten van verschillende turbinegroottes met een maximaal opgesteld vermogen van 380 MW. Hieruit is een flexibele geluidsnorm voortgekomen. Bij het beoordelen van de effecten is rekening gehouden met het rapport van de Commissie voor de m.e.r. (Tussentijds toetsingsadvies over het concept-milieueffectrapport 30 april 2015 / rapportnummer 2965-56). Rekening houdend met het advies van de Commissie voor de m.e.r. is voor de toetsing van de effecten ervan uitgegaan dat met grote zekerheid (95%) moet kunnen worden vastgesteld dat de huidige bruinvispopulatie als gevolg van de aanleg van de 10 windparken op zee van het SER-akkoord met niet meer dan 5% afneemt. Voorschrift 4, tweede lid waarin limieten worden opgelegd aan de onderwatergeluidsproductie als gevolg van hei-activiteiten is dus enerzijds gebaseerd op effecten van maximaal 63 turbines (6 MW, 380 opgesteld vermogen) en anderzijds op een maximale populatiereductie van 5%.
+*Bruinvissen/onderwatergeluid*
 
-**Z**: Indiener verzoekt expliciet op te nemen dat er in de exploitatiefase van het windpark geen beperkingen of voorschriften zullen gelden op basis van geluid. Tevens verzoekt indiener expliciet op te nemen dat geluidsnormen voor de constructiefase ook cumulatief gelden, dus ook wanneer er tegelijkertijd wordt gewerkt.
+Commissie voor de m.e.r.
 
-**A**: De expliciete vermelding dat een voorschrift niet nodig is, is overbodig. In hoofdstuk 7 van het kavelbesluit is de motivering aangepast waardoor duidelijk is dat de geluidsnorm ook geldt wanneer er tegelijkertijd wordt gewerkt.
+*R:* De Commissie is van mening dat voor kavel IV de gepresenteerde worst case situatie ten aanzien van negatieve effecten van onderwatergeluid alleen volstaat, indien niet dieper wordt geheid dan 29 m. De Commissie adviseert om indien in kavel IV dieper geheid gaat worden dan 29 meter nieuwe geluidberekeningen uit te voeren op basis van de maximale heidiepte en aan te geven wat dat betekent voor het aantal verstoorde bruinvissen en de daarmee te nemen geluidwerende voorzieningen.
 
-**Monitoring**
+*A:* Kavel IV wordt gedomineerd door zandribbels met groot verschil in hoogte waardoor de heidiepte in de kavel op korte afstand vrij sterk kan verschillen. De exacte waterdiepte per paalpositie, of dat nu 29 meter of 33 meter is, is voor de verspreiding van het onderwatergeluid echter ondergeschikt aan hoe de bodem er in de ruimere omgeving uitziet. Voor de bepaling van de effecten van onderwatergeluid dat vrijkomt bij heien is gebruik gemaakt van een kaart met gemeten waterdieptes van het gehele, veel grotere, gebied waarover de geluidscontour zich uitstrekt. Hierdoor is het niet nodig om bij een andere heidiepte nieuwe geluidberekeningen uit te voeren.
 
-**Z**: Indiener verzoekt om verduidelijking van de locatie specifieke monitoringsverplichting voor kavel III, IV en V.
+Delta
 
-**A**: Er is voor kavel III, IV en V geen locatie specifiek monitoringsprogramma geformuleerd. Dat betekent dat op deze locatie alleen sprake is van het door de overheid op te zetten monitorings- en evaluatieprogramma. In paragraaf 7.8.6 is opgenomen dat de vergunninghouder zover redelijk en zonder financiële tegenprestatie zal meewerken aan dit monitorings- en evaluatieprogramma. Dit is in voorschrift 5 vastgelegd, waarbij een lijst is opgenomen van apparatuur die nodig is om de belangrijkste kennisleemtes uit het MEP in te vullen. Deze lijst geeft voldoende informatie voor een indicatie van de daarmee samenhangende kosten.
+*Z*: Indiener vraagt zich af of de ondergrens van de 4 MW turbine en het rapport van de Commissie voor de m.e.r. daadwerkelijk zijn doorgevoerd.
+
+*A*: Bij de inrichting van de kavels voor Borssele III, IV en V wordt een minimale turbinegrootte van 6 MW gehanteerd in plaats van de door indiener genoemde 4 MW. In [paragraaf 7.3.3](https://wetten.overheid.nl/BWBR0037811) zijn inderdaad de ‘worst case’ analyses opgenomen van de uiterste bandbreedte. Op basis van de resultaten van deze worst case analyse is de bandbreedte ingeperkt naar een voorkeursbandbreedte. De effecten als gevolg van de voorkeursbandbreedte zijn nader beschreven in het MER. Het gaat hierbij onder andere om de doorberekening van de effecten van verschillende turbinegroottes met een maximaal opgesteld vermogen van 380 MW. Hieruit is een flexibele geluidsnorm voortgekomen. Bij het beoordelen van de effecten is rekening gehouden met het rapport van de Commissie voor de m.e.r. (Tussentijds toetsingsadvies over het concept-milieueffectrapport 30 april 2015 / rapportnummer 2965-56). Rekening houdend met het advies van de Commissie voor de m.e.r. is voor de toetsing van de effecten ervan uitgegaan dat met grote zekerheid (95%) moet kunnen worden vastgesteld dat de huidige bruinvispopulatie als gevolg van de aanleg van de 10 windparken op zee van het SER-akkoord met niet meer dan 5% afneemt. [Voorschrift 4, tweede lid](https://wetten.overheid.nl/BWBR0037811) waarin limieten worden opgelegd aan de onderwatergeluidsproductie als gevolg van hei-activiteiten is dus enerzijds gebaseerd op effecten van maximaal 63 turbines (6 MW, 380 opgesteld vermogen) en anderzijds op een maximale populatiereductie van 5%.
+
+*Z*: Indiener verzoekt expliciet op te nemen dat er in de exploitatiefase van het windpark geen beperkingen of voorschriften zullen gelden op basis van geluid. Tevens verzoekt indiener expliciet op te nemen dat geluidsnormen voor de constructiefase ook cumulatief gelden, dus ook wanneer er tegelijkertijd wordt gewerkt.
+
+*A*: De expliciete vermelding dat een voorschrift niet nodig is, is overbodig. In [hoofdstuk 7](https://wetten.overheid.nl/BWBR0037811) van het kavelbesluit is de motivering aangepast waardoor duidelijk is dat de geluidsnorm ook geldt wanneer er tegelijkertijd wordt gewerkt.
+
+*Monitoring*
+
+GDF SUEZ
+
+*Z*: Indiener verzoekt om verduidelijking van de locatie specifieke monitoringsverplichting voor kavel III, IV en V.
+
+*A*: Er is voor kavel III, IV en V geen locatie specifiek monitoringsprogramma geformuleerd. Dat betekent dat op deze locatie alleen sprake is van het door de overheid op te zetten monitorings- en evaluatieprogramma. In [paragraaf 7.8.6](https://wetten.overheid.nl/BWBR0037811) is opgenomen dat de vergunninghouder zover redelijk en zonder financiële tegenprestatie zal meewerken aan dit monitorings- en evaluatieprogramma. Dit is in [voorschrift 5](https://wetten.overheid.nl/BWBR0037811) vastgelegd, waarbij een lijst is opgenomen van apparatuur die nodig is om de belangrijkste kennisleemtes uit het MEP in te vullen. Deze lijst geeft voldoende informatie voor een indicatie van de daarmee samenhangende kosten.
 
 ### 3. Voorschriften
 
-**Voorschrift 1**
+*Voorschrift 1*
 
-**Z**: Indiener is van mening dat de definities van windpark en installatie niet op elkaar aansluiten.
+NWEA, Nuon
 
-**A**: De achtergrond van het verschil tussen beide definities is gelegen in het VN Zeerechtverdrag (UNCLOS). In het verdrag worden kabels en leidingen van installaties onderscheiden. Het installatiebegrip is afkomstig uit artikel 60 UNCLOS, dat is geïmplementeerd in [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10). Voor kabels en leidingen geldt een ander regime, te weten artikel 79 UNCLOS. Om deze reden kunnen de inter-arraykabels geen deel uit maken van de installatie, maar dus wel van het windpark. Enkel om een installatie als bedoeld in artikel 60 UNCLOS kan een veiligheidszone ingesteld worden. Om kabels en leidingen bevinden zich onderhoudszones, maar die zones hebben geen grondslag in het VN Zeerechtverdrag. Overigens zal het overgrote deel van de windparkbekabeling gelegen zijn binnen de veiligheidszone om een installatie. Dat kan het geheel van windturbines zijn of de platformen Borssele Alpha en Beta.
+*Z*: Indiener is van mening dat de definities van windpark en installatie niet op elkaar aansluiten.
 
-**Voorschrift 2**
+*A*: De achtergrond van het verschil tussen beide definities is gelegen in het VN Zeerechtverdrag (UNCLOS). In het verdrag worden kabels en leidingen van installaties onderscheiden. Het installatiebegrip is afkomstig uit artikel 60 UNCLOS, dat is geïmplementeerd in [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10). Voor kabels en leidingen geldt een ander regime, te weten artikel 79 UNCLOS. Om deze reden kunnen de inter-arraykabels geen deel uit maken van de installatie, maar dus wel van het windpark. Enkel om een installatie als bedoeld in artikel 60 UNCLOS kan een veiligheidszone ingesteld worden. Om kabels en leidingen bevinden zich onderhoudszones, maar die zones hebben geen grondslag in het VN Zeerechtverdrag. Overigens zal het overgrote deel van de windparkbekabeling gelegen zijn binnen de veiligheidszone om een installatie. Dat kan het geheel van windturbines zijn of de platformen Borssele Alpha en Beta.
 
-**Z**: Indiener merkt op dat in paragraaf 7.8.7 (Bevordering biodiversiteit) abusievelijk wordt verwezen naar voorschrift 2, lid 16 waar voorschrift 2, lid 15 wordt bedoeld.
+*Voorschrift 2*
 
-**A**: Op basis van de ingebrachte zienswijze is het kavelbesluit aangepast.
+NWEA, Dong Energy, RWE, Delta
 
-**Z**: Indiener vraagt zich vanuit kostenoogpunt af hoe omgegaan dient te worden met effecten van medegebruik in het park op het plan van aanpak omtrent de versterking van een gezonde zee en wat de vereiste inhoud is.
+*Z*: Indiener merkt op dat in [paragraaf 7.8.7](https://wetten.overheid.nl/BWBR0037811) (Bevordering biodiversiteit) abusievelijk wordt verwezen naar [voorschrift 2, lid 16](https://wetten.overheid.nl/BWBR0037811) waar voorschrift 2, lid 15 wordt bedoeld.
 
-**A**: Het plan van aanpak behelst alleen die activiteiten en maatregelen die de ontwikkelaar zelf (onder)neemt voor het ontwerpen en aanleggen van het windparken en waarmee een gezonde zee en inheemse natuur wordt versterkt.
+*A*: Op basis van de ingebrachte zienswijze is het kavelbesluit aangepast.
 
-**Z:** Indiener verzoekt om het aantal windturbines van kavel III in overeenstemming te brengen met de voorgeschreven minimale turbinegrootte.
+*Z*: Indiener vraagt zich vanuit kostenoogpunt af hoe omgegaan dient te worden met effecten van medegebruik in het park op het plan van aanpak omtrent de versterking van een gezonde zee en wat de vereiste inhoud is.
 
-**A:** Op basis van de ingebrachte zienswijze is het kavelbesluit aangepast. Zie voorschrift 2, lid 5 van het kavelbesluit.
+*A*: Het plan van aanpak behelst alleen die activiteiten en maatregelen die de ontwikkelaar zelf (onder)neemt voor het ontwerpen en aanleggen van het windparken en waarmee een gezonde zee en inheemse natuur wordt versterkt.
 
-**Z:**Indiener vindt het onduidelijk wat de consequenties zijn voor ontwikkelaars van het voorgeschreven natuurplan.
+*Z:* Indiener verzoekt om het aantal windturbines van kavel III in overeenstemming te brengen met de voorgeschreven minimale turbinegrootte.
 
-**A:**De ontwikkelaars wordt gevraagd om een plan in te dienen waaruit blijkt op welke manier het ontwerp en de aanleg van het windpark actief bijdraagt aan versterking van een gezonde zee en inheemse natuur. Het gaat dus om een beschrijving van de activiteiten en maatregelen die de ontwikkelaar daadwerkelijk (onder)neemt.
+*A:* Op basis van de ingebrachte zienswijze is het kavelbesluit aangepast. Zie [voorschrift 2, lid 5 van het kavelbesluit](https://wetten.overheid.nl/BWBR0037811).
 
-**Z:**Indiener vraagt zich af of een plan dat ziet op de versterking van de lokale en regionale economie een redelijk voorschrift is en is gebaseerd op een wettelijk voorschrift. Daarnaast vraagt indiener zich af wat de inhoud van het plan kan behelzen.
+NWEA, Delta
 
-**A:** In [artikel 4 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=4) is aangegeven waar de regels en voorschriften verbonden aan het kavelbesluit in ieder geval betrekking op hebben. Dit voorschrift heeft betrekking op de andere belangen van derden met betrekking tot de kavel. Het voorschrift is redelijk. Het gaat hierbij om het inzichtelijk maken van de positieve effecten op de lokale en regionale economie. Deze positieve effecten kunnen bijdragen aan een vergroting van de acceptatie van de windparken, wat ook in het belang is van de windparkexploitanten zelf. Wat betreft de inhoud gaat het bijvoorbeeld om het gebruik van lokale havens voor opslag, assemblage en transport van onderdelen van de windparken, de inhuur van lokale aannemers en bedrijven voor de toelevering van onderdelen, de aanleg en het periodieke onderhoud van het windpark, sponsoring of andere bijdragen aan (het imago van) duurzame kustgemeenten en het gebruik van hotelovernachtingen door personeel.
+*Z:*Indiener vindt het onduidelijk wat de consequenties zijn voor ontwikkelaars van het voorgeschreven natuurplan.
 
-**Z:** Indiener stelt dat aanvragers in hun vergunningaanvraag aannemelijk dienen te maken dat zij zich aantoonbaar inspannen om het park zo te ontwerpen dat het bijdraagt aan de lokale en regionale economie. Indiener vindt het onduidelijk wat daaronder verstaan wordt. Indiener verzoekt om verduidelijking van voorschrift 2, lid 15.
+*A:*De ontwikkelaars wordt gevraagd om een plan in te dienen waaruit blijkt op welke manier het ontwerp en de aanleg van het windpark actief bijdraagt aan versterking van een gezonde zee en inheemse natuur. Het gaat dus om een beschrijving van de activiteiten en maatregelen die de ontwikkelaar daadwerkelijk (onder)neemt.
 
-**A:** Zie hiervoor het antwoord op de voorgaande zienswijze van NWEA en RWE.
+NWEA, RWE
 
-**Z:**Indiener raadt aan om de bovengrens te verhogen naar 12 MW per turbine met inachtneming van de opgenomen totale hoogte en rotoroppervlakte.
+*Z:*Indiener vraagt zich af of een plan dat ziet op de versterking van de lokale en regionale economie een redelijk voorschrift is en is gebaseerd op een wettelijk voorschrift. Daarnaast vraagt indiener zich af wat de inhoud van het plan kan behelzen.
 
-**A:**Uit overleg met het TKI Wind op Zee kwam naar voren dat een bandbreedte tot 10 MW per turbine voldoende ruim is voor de plaatsing van de ten tijde van de aanleg van de windparken in kavels III, IV en V naar verwachting beschikbare windturbines. Desgevraagd gaven indieners aan dat de kans klein is dat turbines groter dan 10 MW commercieel worden toegepast in de kavels III en IV in Borssele. Daarom wordt deze suggestie niet overgenomen. Voor de navolgende kavelbesluiten in windenergiegebied Hollandse Kust zal uitbreiding van de bandbreedte wel worden overwogen.
+*A:* In [artikel 4 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=4) is aangegeven waar de regels en voorschriften verbonden aan het kavelbesluit in ieder geval betrekking op hebben. Dit voorschrift heeft betrekking op de andere belangen van derden met betrekking tot de kavel. Het voorschrift is redelijk. Het gaat hierbij om het inzichtelijk maken van de positieve effecten op de lokale en regionale economie. Deze positieve effecten kunnen bijdragen aan een vergroting van de acceptatie van de windparken, wat ook in het belang is van de windparkexploitanten zelf. Wat betreft de inhoud gaat het bijvoorbeeld om het gebruik van lokale havens voor opslag, assemblage en transport van onderdelen van de windparken, de inhuur van lokale aannemers en bedrijven voor de toelevering van onderdelen, de aanleg en het periodieke onderhoud van het windpark, sponsoring of andere bijdragen aan (het imago van) duurzame kustgemeenten en het gebruik van hotelovernachtingen door personeel.
 
-**Z:** Indiener verzoekt de coördinaten aan te passen.
+Delta
 
-**A:**Dit is aangepast in voorschrift 2 van de kavelbesluiten.
+*Z:* Indiener stelt dat aanvragers in hun vergunningaanvraag aannemelijk dienen te maken dat zij zich aantoonbaar inspannen om het park zo te ontwerpen dat het bijdraagt aan de lokale en regionale economie. Indiener vindt het onduidelijk wat daaronder verstaan wordt. Indiener verzoekt om verduidelijking van [voorschrift 2, lid 15](https://wetten.overheid.nl/BWBR0037811).
 
-**Z:** Indiener vindt het onduidelijk waarom de bandbreedte van kavel IV verschilt ten opzichte van die van kavel III.
+*A:* Zie hiervoor het antwoord op de voorgaande zienswijze van NWEA en RWE.
 
-**A:** Dit is aangepast in voorschrift 2 lid 7 naar een ondergrens van 6 MW voor beide kavelbesluiten.
+NWEA, Dong Energy,
 
-**Z:** Indiener geeft aan dat het aantal turbines van kavel IV niet verenigbaar is met het voorgeschreven minimum vermogen van 4 MW.
+*Z:*Indiener raadt aan om de bovengrens te verhogen naar 12 MW per turbine met inachtneming van de opgenomen totale hoogte en rotoroppervlakte.
 
-**A:** Op basis van de ingebrachte zienswijze is het kavelbesluit aangepast. Zie voorschrift 2, lid 5 van het kavelbesluit.
+*A:*Uit overleg met het TKI Wind op Zee kwam naar voren dat een bandbreedte tot 10 MW per turbine voldoende ruim is voor de plaatsing van de ten tijde van de aanleg van de windparken in kavels III, IV en V naar verwachting beschikbare windturbines. Desgevraagd gaven indieners aan dat de kans klein is dat turbines groter dan 10 MW commercieel worden toegepast in de kavels III en IV in Borssele. Daarom wordt deze suggestie niet overgenomen. Voor de navolgende kavelbesluiten in windenergiegebied Hollandse Kust zal uitbreiding van de bandbreedte wel worden overwogen.
 
-**Z:** Indiener geeft aan dat het voorschrift betreffende het terugbrengen van de draaisnelheid bij onderhoud van de windturbines, in strijd is met de ICPC.
+NWEA, Nuon
 
-**A:** De minister is niet gebonden aan de aanbevelingen van de ICPC. Op grond van het VN Zeerechtverdrag heeft een kuststaat rechtsmacht ten aanzien van installaties in de EEZ zoals een windpark. De minister mag op grond van de [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) eisen stellen aan de windmolenexploitant met betrekking tot de exploitatie van een windpark. De minister weegt de betrokken belangen af en stelt hiervoor voorschriften op in het kavelbesluit. Op grond van scheepvaartveiligheid is het noodzakelijk dat de windmolens langzamer draaien wanneer een onderhoudsschip in de onderhoudszone werkzaamheden uitvoert.
+*Z:* Indiener verzoekt de coördinaten aan te passen.
 
-**Z:**Indiener geeft aan dat er een discrepantie zit tussen de ondergrens van de bandbreedte in het voorschrift en de toelichting daarop.
+*A:*Dit is aangepast in [voorschrift 2](https://wetten.overheid.nl/BWBR0037811) van de kavelbesluiten.
 
-**A:** Op basis van de ingebrachte zienswijze is het kavelbesluit aangepast. Zie voorschrift 2, lid 5 van het kavelbesluit.
+NWEA, Nuon, Dong Energy
 
-**Voorschrift 4**
+*Z:* Indiener vindt het onduidelijk waarom de bandbreedte van kavel IV verschilt ten opzichte van die van kavel III.
 
-**Z**: Indieners geven aan dat de hoeveelheid mitigerende maatregelen overtrokken is en verzoekt op basis van de uitkomsten van het monitoringsprogramma bij toekomstige en (dan) bestaande kavelbesluiten de voorschriften te versoepelen.
+*A:* Dit is aangepast in [voorschrift 2 lid 7](https://wetten.overheid.nl/BWBR0037811) naar een ondergrens van 6 MW voor beide kavelbesluiten.
 
-**A**: Het doel van het Monitoring- en evaluatieprogramma (MEP) is onder andere om de effecten van de aanlegfase en de gebruiksfase te evalueren. De verwachting is dat de opzet voor het MEP klaar is, voordat de aanleg- en gebruiksfase van start gaan. Omdat het merendeel van de uitkomsten van het MEP pas worden verwacht na het opstellen van de milieueffectrapporten voor nog te nemen kavelbesluiten kunnen deze uitkomsten niet worden meegenomen voor de afspraken uit het Energieakkoord De reeds genomen kavelbesluiten blijven in principe ongewijzigd. Alleen in zeer uitzonderlijke situaties wanneer er wijzigingen worden geconstateerd die de eerdere conclusies uit de reeds genomen kavelbesluiten onhoudbaar maken, zal het Rijk overwegen om een procedure tot wijziging van een kavelbesluit in gang te zetten. Hiervoor zal volgens de [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) de uitgebreide openbare voorbereidingsprocedure zoals beschreven in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) worden gevolgd, zoals die ook geldt voor de nieuwe kavelbesluiten.
+Nuon
 
-**Z**: Indieners geven aan dat er meer/andere ‘proven technology’ alternatieven zijn, die in voorschrift 4, lid 1 opgenomen zouden kunnen worden.
+*Z:* Indiener geeft aan dat het aantal turbines van kavel IV niet verenigbaar is met het voorgeschreven minimum vermogen van 4 MW.
 
-**A**: De beste effectiviteit ten aanzien van de verschillende diersoorten wordt geboden door de frequentie specifieke verjagingssystemen. Dit hoeft niet noodzakelijkerwijs in een systeem gebundeld te zijn. Het voorschrift is hierop aangepast.
+*A:* Op basis van de ingebrachte zienswijze is het kavelbesluit aangepast. Zie [voorschrift 2, lid 5](https://wetten.overheid.nl/BWBR0037811) van het kavelbesluit.
 
-**Z**: Indieners geven aan dat het minimaal toegestane aantal MW per turbine voor de kavels III en IV (6 MW) niet overeenkomt met de aantallen waarmee gerekend is in het KEC waardoor effecten van de installatie wellicht lager zullen uitvallen en minder gemitigeerd hoeft te worden.
+NWEA, Nuon
 
-**A**: In het MER is wel degelijk voor verschillende windturbinegroottes tot en met 10 MW berekend wat de maximale geluidsdruk mag zijn als gevolg van heiwerkzaamheden, dus ook voor de minimale toegestane turbinegrootte van 6 MW en het daarmee samenhangende aantal turbinepalen. Tevens is bepaald dat de toegestane maximale reductie van de bruinvispopulatie maximaal 5% mag zijn t.o.v. de huidige populatie. Deze reductie is als ‘beschikbare ecologische ruimte’ gelijk verdeeld over het aantal uit te geven kavels volgens het Energieakkoord. De geluidsnorm is, afhankelijk van het aantal geïnstalleerde windturbines per kavel en de dichtheden van bruinvissen die op het NCP voorkomen (seizoen), zo gesteld dat deze ruimte niet wordt overschreden. Dit is weergegeven in voorschrift 4, lid 2, sub a van het kavelbesluit.
+*Z:* Indiener geeft aan dat het voorschrift betreffende het terugbrengen van de draaisnelheid bij onderhoud van de windturbines, in strijd is met de ICPC.
 
-**Z**: Indieners zijn van mening dat er reeds extreem veel voorzorg is ingebouwd in de effectberekening van heigeluid op bruinvissen en dat de verlaging van de norm met 1dB extra niet nodig is.
+*A:* De minister is niet gebonden aan de aanbevelingen van de ICPC. Op grond van het VN Zeerechtverdrag heeft een kuststaat rechtsmacht ten aanzien van installaties in de EEZ zoals een windpark. De minister mag op grond van de [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) eisen stellen aan de windmolenexploitant met betrekking tot de exploitatie van een windpark. De minister weegt de betrokken belangen af en stelt hiervoor voorschriften op in het kavelbesluit. Op grond van scheepvaartveiligheid is het noodzakelijk dat de windmolens langzamer draaien wanneer een onderhoudsschip in de onderhoudszone werkzaamheden uitvoert.
 
-**A**: De norm is met 1 dB verlaagd (d.w.z. naar beneden bijgesteld) om de heiwerkzaamheden in geval van overschrijding van de geluidsnorm in het kader van handhaving niet direct stil te moeten leggen. Uit de praktijk blijkt dat het met name bij de eerste te heien palen lastig is om gelijk de norm te halen. Door de gekozen aanpak hoeft het werk niet te worden stilgelegd indien men binnen de gedefinieerde ruimte blijft en worden acceptabele grenzen v.w.b. populatiereductie van bruinvissen niet overschreden.
+Witteveen+Bos
 
-**Z**: Indiener geeft aan dat de tabel onder voorschrift 4, lid 2, sub a waarden bevat voor turbinegroottes die in voorschrift 2, lid 5 zijn uitgesloten en verzoekt tot aanpassing van het kavelbesluit teneinde verwarring te voorkomen.
+*Z:*Indiener geeft aan dat er een discrepantie zit tussen de ondergrens van de bandbreedte in het voorschrift en de toelichting daarop.
 
-**A**: Op basis van de ingebrachte zienswijze is de tabel in het kavelbesluit aangepast. Zie voorschrift 4, lid 2, sub a van het kavelbesluit.
+*A:* Op basis van de ingebrachte zienswijze is het kavelbesluit aangepast. Zie [voorschrift 2, lid 5](https://wetten.overheid.nl/BWBR0037811) van het kavelbesluit.
 
-**Z**: Indieners geven aan dat het rapporteren van geluidsmetingen binnen 12 uur niet haalbaar is.
+*Voorschrift 4*
 
-**A**: Op basis van de ingebrachte zienswijzen is voorschrift 4, lid 2, sub c, aangepast, waarbij de deadline om de geluidsmetingen te rapporteren naar 48 uur gezet is.
+NWEA, Dong Energy, RWE, Delta
 
-**Z**: Indiener pleit er voor om voorschrift 4, tweede lid, sub c aan te vullen met toegestane en niet-toegestane wijzen om geluid continu te meten.
+*Z*: Indieners geven aan dat de hoeveelheid mitigerende maatregelen overtrokken is en verzoekt op basis van de uitkomsten van het monitoringsprogramma bij toekomstige en (dan) bestaande kavelbesluiten de voorschriften te versoepelen.
 
-**A**: Er zullen geen specifieke methoden of wijzen worden voorgeschreven. Metingen dienen te voldoen aan TNO standaarden voor het meten van impulsief onderwatergeluid. De vergunninghouder dient in het heiplan de te gebruiken methode te onderbouwen.
+*A*: Het doel van het Monitoring- en evaluatieprogramma (MEP) is onder andere om de effecten van de aanlegfase en de gebruiksfase te evalueren. De verwachting is dat de opzet voor het MEP klaar is, voordat de aanleg- en gebruiksfase van start gaan. Omdat het merendeel van de uitkomsten van het MEP pas worden verwacht na het opstellen van de milieueffectrapporten voor nog te nemen kavelbesluiten kunnen deze uitkomsten niet worden meegenomen voor de afspraken uit het Energieakkoord De reeds genomen kavelbesluiten blijven in principe ongewijzigd. Alleen in zeer uitzonderlijke situaties wanneer er wijzigingen worden geconstateerd die de eerdere conclusies uit de reeds genomen kavelbesluiten onhoudbaar maken, zal het Rijk overwegen om een procedure tot wijziging van een kavelbesluit in gang te zetten. Hiervoor zal volgens de [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) de uitgebreide openbare voorbereidingsprocedure zoals beschreven in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) worden gevolgd, zoals die ook geldt voor de nieuwe kavelbesluiten.
 
-**Z**: Indieners geven aan het niet eens te zijn met voorschrift 4, lid 3, en stelt voor i.s.m. de overheid 1 meetsysteem in windenergiegebied Borssele te plaatsen en in te zetten op kennisopbouw van vogeltrek, een ‘early warning system’ en het verder ontwikkelen van goede meetsystemen.
+Nuon, NWEA, Dong Energy, RWE, Delta
 
-**A**: In cumulatie gaat het om aanzienlijke aantallen slachtoffers die in de onderbouwende stukken worden berekend. Hoewel op zee de systemen nog niet zijn getest, biedt deze maatregel naar verwachting de hoogste effectiviteit. Andere maatregelen bieden niet datzelfde perspectief. Afwegende tegen de kosten is de overheid van mening dat dit een redelijke maatregel is. De overheid zal de kosten voor de aanschaf en het onderhoud van één systeem voor alle kavels in het windenergiegebied Borssele voor zijn rekening nemen.
+*Z*: Indieners geven aan dat er meer/andere ‘proven technology’ alternatieven zijn, die in [voorschrift 4, lid 1](https://wetten.overheid.nl/BWBR0037811) opgenomen zouden kunnen worden.
 
-**Z**: Indiener geeft aan dat het voorgeschreven monitoringssysteem onder voorschrift 4, derde lid nog niet voor windparken op zee bestaat. Omwille van de uitvoerbaarheid van het voorschrift stelt zij voor dat lid 3, sub b van dit voorschrift komt te vervallen en in lid 3, sub c op te nemen dat vergunninghouder laat zien hoe het aantal rotaties wordt teruggebracht zoals gesteld onder lid 3, sub a.
+*A*: De beste effectiviteit ten aanzien van de verschillende diersoorten wordt geboden door de frequentie specifieke verjagingssystemen. Dit hoeft niet noodzakelijkerwijs in een systeem gebundeld te zijn. Het voorschrift is hierop aangepast.
 
-**A**: Zie het antwoord op bovenstaande zienswijze. Dit voorstel biedt niet dezelfde zekerheid.
+NWEA, Dong Energy, RWE, Delta
 
-**Z**: Indieners zouden graag zien dat eerst kennis wordt vergaard, alvorens het voorschrift inzake de maatregelen ter voorkoming van aanvaringsslachtoffers onder vleermuizen als zodanig op te nemen.
+*Z*: Indieners geven aan dat het minimaal toegestane aantal MW per turbine voor de kavels III en IV (6 MW) niet overeenkomt met de aantallen waarmee gerekend is in het KEC waardoor effecten van de installatie wellicht lager zullen uitvallen en minder gemitigeerd hoeft te worden.
+
+*A*: In het MER is wel degelijk voor verschillende windturbinegroottes tot en met 10 MW berekend wat de maximale geluidsdruk mag zijn als gevolg van heiwerkzaamheden, dus ook voor de minimale toegestane turbinegrootte van 6 MW en het daarmee samenhangende aantal turbinepalen. Tevens is bepaald dat de toegestane maximale reductie van de bruinvispopulatie maximaal 5% mag zijn t.o.v. de huidige populatie. Deze reductie is als ‘beschikbare ecologische ruimte’ gelijk verdeeld over het aantal uit te geven kavels volgens het Energieakkoord. De geluidsnorm is, afhankelijk van het aantal geïnstalleerde windturbines per kavel en de dichtheden van bruinvissen die op het NCP voorkomen (seizoen), zo gesteld dat deze ruimte niet wordt overschreden. Dit is weergegeven in [voorschrift 4, lid 2, sub a](https://wetten.overheid.nl/BWBR0037811) van het kavelbesluit.
+
+*Z*: Indieners zijn van mening dat er reeds extreem veel voorzorg is ingebouwd in de effectberekening van heigeluid op bruinvissen en dat de verlaging van de norm met 1dB extra niet nodig is.
+
+*A*: De norm is met 1 dB verlaagd (d.w.z. naar beneden bijgesteld) om de heiwerkzaamheden in geval van overschrijding van de geluidsnorm in het kader van handhaving niet direct stil te moeten leggen. Uit de praktijk blijkt dat het met name bij de eerste te heien palen lastig is om gelijk de norm te halen. Door de gekozen aanpak hoeft het werk niet te worden stilgelegd indien men binnen de gedefinieerde ruimte blijft en worden acceptabele grenzen v.w.b. populatiereductie van bruinvissen niet overschreden.
+
+Nuon
+
+*Z*: Indiener geeft aan dat de tabel onder [voorschrift 4, lid 2, sub a](https://wetten.overheid.nl/BWBR0037811) waarden bevat voor turbinegroottes die in voorschrift 2, lid 5 zijn uitgesloten en verzoekt tot aanpassing van het kavelbesluit teneinde verwarring te voorkomen.
+
+*A*: Op basis van de ingebrachte zienswijze is de tabel in het kavelbesluit aangepast. Zie [voorschrift 4, lid 2, sub a](https://wetten.overheid.nl/BWBR0037811) van het kavelbesluit.
+
+GDF Suez, Delta
+
+*Z*: Indieners geven aan dat het rapporteren van geluidsmetingen binnen 12 uur niet haalbaar is.
+
+*A*: Op basis van de ingebrachte zienswijzen is [voorschrift 4, lid 2, sub c](https://wetten.overheid.nl/BWBR0037811), aangepast, waarbij de deadline om de geluidsmetingen te rapporteren naar 48 uur gezet is.
+
+Delta
+
+*Z*: Indiener pleit er voor om [voorschrift 4, tweede lid, sub c](https://wetten.overheid.nl/BWBR0037811) aan te vullen met toegestane en niet-toegestane wijzen om geluid continu te meten.
+
+*A*: Er zullen geen specifieke methoden of wijzen worden voorgeschreven. Metingen dienen te voldoen aan TNO standaarden voor het meten van impulsief onderwatergeluid. De vergunninghouder dient in het heiplan de te gebruiken methode te onderbouwen.
+
+NWEA, Dong Energy, RWE, Delta
+
+*Z*: Indieners geven aan het niet eens te zijn met [voorschrift 4, lid 3](https://wetten.overheid.nl/BWBR0037811), en stelt voor i.s.m. de overheid 1 meetsysteem in windenergiegebied Borssele te plaatsen en in te zetten op kennisopbouw van vogeltrek, een ‘early warning system’ en het verder ontwikkelen van goede meetsystemen.
+
+*A*: In cumulatie gaat het om aanzienlijke aantallen slachtoffers die in de onderbouwende stukken worden berekend. Hoewel op zee de systemen nog niet zijn getest, biedt deze maatregel naar verwachting de hoogste effectiviteit. Andere maatregelen bieden niet datzelfde perspectief. Afwegende tegen de kosten is de overheid van mening dat dit een redelijke maatregel is. De overheid zal de kosten voor de aanschaf en het onderhoud van één systeem voor alle kavels in het windenergiegebied Borssele voor zijn rekening nemen.
+
+Delta
+
+*Z*: Indiener geeft aan dat het voorgeschreven monitoringssysteem onder [voorschrift 4, derde lid](https://wetten.overheid.nl/BWBR0037811) nog niet voor windparken op zee bestaat. Omwille van de uitvoerbaarheid van het voorschrift stelt zij voor dat lid 3, sub b van dit voorschrift komt te vervallen en in lid 3, sub c op te nemen dat vergunninghouder laat zien hoe het aantal rotaties wordt teruggebracht zoals gesteld onder lid 3, sub a.
+
+*A*: Zie het antwoord op bovenstaande zienswijze. Dit voorstel biedt niet dezelfde zekerheid.
+
+NWEA, Dong Energy, RWE, Delta
+
+*Z*: Indieners zouden graag zien dat eerst kennis wordt vergaard, alvorens het voorschrift inzake de maatregelen ter voorkoming van aanvaringsslachtoffers onder vleermuizen als zodanig op te nemen.
 
 Indieners zijn van mening dat onderbouwende rapporten en het kavelbesluit aangeven dat vleermuisactiviteit laag is.
 
-**A**: De kavelbesluiten zijn gebaseerd op de best beschikbare kennis, ook ten aanzien van de verwachte vleermuisactiviteit. In een cumulatief scenario is daarbij niet uit te sluiten dat de gunstige staat van instandhouding wordt aangetast. Vanwege de kennisleemtes en de mede daaruit voortvloeiende maatregelen, heeft de overheid al versneld een monitoringsopgave op het aspect vleermuizen uitgezet. Een van de onderzoeken van deze monitoringsopgave richt zich specifiek op de relatie tussen vleermuisactiviteit en weersomstandigheden. Wanneer deze onderzoeksresultaten bekend zijn kunnen indien nodig de voorschriften hierop gepreciseerd worden.
+*A*: De kavelbesluiten zijn gebaseerd op de best beschikbare kennis, ook ten aanzien van de verwachte vleermuisactiviteit. In een cumulatief scenario is daarbij niet uit te sluiten dat de gunstige staat van instandhouding wordt aangetast. Vanwege de kennisleemtes en de mede daaruit voortvloeiende maatregelen, heeft de overheid al versneld een monitoringsopgave op het aspect vleermuizen uitgezet. Een van de onderzoeken van deze monitoringsopgave richt zich specifiek op de relatie tussen vleermuisactiviteit en weersomstandigheden. Wanneer deze onderzoeksresultaten bekend zijn kunnen indien nodig de voorschriften hierop gepreciseerd worden.
 
-**Z:**Indieners vragen zich af waar het principe ‘de verstoorder betaalt’ bij archeologie zijn grondslag vindt.
+NWEA, Delta
 
-**A:** In de ‘Beleidsnota Noordzee 2016-2021’ is in paragraaf 3.11 het beleid voor ‘onder water cultureel erfgoed’ opgenomen als onderdeel van het Nationaal Waterplan 2016-2021 (Kamerstukken II, 2015/16, 31 710, nr. 45). Het rijksbeleid is gebaseerd op de uitgangspunten van het Verdrag van Valetta (ook wel verdrag van Malta genoemd), dat strekt tot bescherming van het archeologische erfgoed als bron van het Europese gemeenschappelijke geheugen en als middel voor geschiedkundige en wetenschappelijke studie. In het bijzonder gaat het om het streven naar het zoveel mogelijk behouden van archeologische waarden in de bodem (in situ), een meldplicht voor archeologische vondsten, het meewegen van het archeologisch belang in de ruimtelijke ordening en het waarborgen dat milieueffectrapportages en de daaruit voortvloeiende beslissingen rekening houden met archeologische vindplaatsen en hun context. Tenslotte is het uitgangspunt dat de kosten voor het benodigde archeologisch onderzoek aan de verstoorder worden doorberekend (het ‘verstoorder betaalt’-principe).
+*Z:*Indieners vragen zich af waar het principe ‘de verstoorder betaalt’ bij archeologie zijn grondslag vindt.
 
-**Z:** Indiener stelt dat de ontwerpkavelbesluiten onvolledig zijn omdat geen zekerheid bestaat over de eventuele vindplaatsen met archeologische waarden en de exacte consequenties daarvan.
+*A:* In de ‘Beleidsnota Noordzee 2016-2021’ is in paragraaf 3.11 het beleid voor ‘onder water cultureel erfgoed’ opgenomen als onderdeel van het Nationaal Waterplan 2016-2021 (Kamerstukken II, 2015/16, 31 710, nr. 45). Het rijksbeleid is gebaseerd op de uitgangspunten van het Verdrag van Valetta (ook wel verdrag van Malta genoemd), dat strekt tot bescherming van het archeologische erfgoed als bron van het Europese gemeenschappelijke geheugen en als middel voor geschiedkundige en wetenschappelijke studie. In het bijzonder gaat het om het streven naar het zoveel mogelijk behouden van archeologische waarden in de bodem (in situ), een meldplicht voor archeologische vondsten, het meewegen van het archeologisch belang in de ruimtelijke ordening en het waarborgen dat milieueffectrapportages en de daaruit voortvloeiende beslissingen rekening houden met archeologische vindplaatsen en hun context. Tenslotte is het uitgangspunt dat de kosten voor het benodigde archeologisch onderzoek aan de verstoorder worden doorberekend (het ‘verstoorder betaalt’-principe).
 
-**A:** Voor de windmolens en de kabels die de stroom naar het platform van TenneT brengen wordt maar een zeer klein deel van de hele kavel benut en mogelijk ‘beroerd’. Op basis van de archeologische desk studie blijkt archeologisch onderzoek alleen noodzakelijk voor het deel dat daadwerkelijk ‘beroerd’ gaat worden. Om die reden is afgezien van archeologisch detailonderzoek naar heel het kavel. Derhalve wordt een voorschrift opgenomen dat nader onderzoek voorschrijft om archeologische waarden in de te beroeren delen van het kavel te identificeren. Afhankelijk van de conclusies uit het (vervolg)onderzoek kunnen de werkzaamheden ongewijzigd doorgang vinden, vindt vervolgonderzoek plaats, worden de werkzaamheden archeologisch begeleid, worden er fysieke maatregelen getroffen ter bescherming van archeologische vindplaatsen of worden vindplaatsen uitgesloten van ingrepen met inachtneming van een bufferzone. Dit geeft de windparkontwikkelaar de mogelijkheid om de afweging te maken het wrak of ‘object’ te vermijden of nader onderzoek in te stellen naar de archeologische waarde. Overigens blijkt het mogelijk om de ‘contacten’ zoals die zijn gedetecteerd in de reeds beschikbare geofysische onderzoeken voor de kavels, archeologisch te interpreteren. Voor alle geofysische onderzoeken zal een dergelijke interpretatie uitgevoerd worden, waardoor een groot deel van de tot nu toe opgespoorde ‘contacten’ naar verwachting als ‘niet archeologisch relevant’ kan worden aangemerkt.
+GDF SUEZ
 
-**Voorschrift 5**
+*Z:* Indiener stelt dat de ontwerpkavelbesluiten onvolledig zijn omdat geen zekerheid bestaat over de eventuele vindplaatsen met archeologische waarden en de exacte consequenties daarvan.
 
-**Z**: Indiener pleit er voor het monitoringsprogramma te laten focussen op het invullen van de kennisleemtes om de daadwerkelijk benodigde en effectieve mitigerende maatregelen voor vogels, vleermuizen en zeezoogdieren goed te kunnen onderbouwen. Indiener verzoekt tijdig in overleg te treden met de vergunninghouder over de beoogde installaties en activiteiten ten behoeve van de monitoring en evaluatie. Apparatuur dient bij voorkeur aan de turbines bevestigd te worden voor deze de zee op gaan.
+*A:* Voor de windmolens en de kabels die de stroom naar het platform van TenneT brengen wordt maar een zeer klein deel van de hele kavel benut en mogelijk ‘beroerd’. Op basis van de archeologische desk studie blijkt archeologisch onderzoek alleen noodzakelijk voor het deel dat daadwerkelijk ‘beroerd’ gaat worden. Om die reden is afgezien van archeologisch detailonderzoek naar heel het kavel. Derhalve wordt een voorschrift opgenomen dat nader onderzoek voorschrijft om archeologische waarden in de te beroeren delen van het kavel te identificeren. Afhankelijk van de conclusies uit het (vervolg)onderzoek kunnen de werkzaamheden ongewijzigd doorgang vinden, vindt vervolgonderzoek plaats, worden de werkzaamheden archeologisch begeleid, worden er fysieke maatregelen getroffen ter bescherming van archeologische vindplaatsen of worden vindplaatsen uitgesloten van ingrepen met inachtneming van een bufferzone. Dit geeft de windparkontwikkelaar de mogelijkheid om de afweging te maken het wrak of ‘object’ te vermijden of nader onderzoek in te stellen naar de archeologische waarde. Overigens blijkt het mogelijk om de ‘contacten’ zoals die zijn gedetecteerd in de reeds beschikbare geofysische onderzoeken voor de kavels, archeologisch te interpreteren. Voor alle geofysische onderzoeken zal een dergelijke interpretatie uitgevoerd worden, waardoor een groot deel van de tot nu toe opgespoorde ‘contacten’ naar verwachting als ‘niet archeologisch relevant’ kan worden aangemerkt.
 
-**A**: Conform de zienswijze beoogt een groot deel van het MEP onderzoek naar validatie van de aannames die in het MER, PB en het KEC zijn gedaan. Tevens zijn er onderdelen geformuleerd die betrekking hebben op de effectiviteit van de maatregelen. Mocht uit de monitoring blijken dat effecten groter of kleiner zijn dan ingeschat, dan bestaat de mogelijkheid dat voorschriften aangepast worden. Bij het opstellen van het MEP zal ook de windsector worden betrokken, alsmede de vergunninghouder zodat deze tijdig op de hoogte is van de monitoringsapparatuur die bevestigd moet worden. Getracht zal worden om rekening te houden met de mogelijkheid om de apparatuur te bevestigen voordat de turbines het vasteland verlaten.
+*Voorschrift 5*
 
-**Z**: Indiener verzoekt om kennis uit het monitoringsprogramma te gebruiken om de voorschriften van zowel bestaande als toekomstige kavelbesluiten te optimaliseren.
+Nuon, NWEA, Dong Energy, RWE, Delta
 
-**A**: Zie het antwoord op een vergelijkbare zienswijze van indieners bij voorschrift 4.
+*Z*: Indiener pleit er voor het monitoringsprogramma te laten focussen op het invullen van de kennisleemtes om de daadwerkelijk benodigde en effectieve mitigerende maatregelen voor vogels, vleermuizen en zeezoogdieren goed te kunnen onderbouwen. Indiener verzoekt tijdig in overleg te treden met de vergunninghouder over de beoogde installaties en activiteiten ten behoeve van de monitoring en evaluatie. Apparatuur dient bij voorkeur aan de turbines bevestigd te worden voor deze de zee op gaan.
 
-**Z**: Indiener vraagt om verduidelijking van voorschrift 5, sub b.
+*A*: Conform de zienswijze beoogt een groot deel van het MEP onderzoek naar validatie van de aannames die in het MER, PB en het KEC zijn gedaan. Tevens zijn er onderdelen geformuleerd die betrekking hebben op de effectiviteit van de maatregelen. Mocht uit de monitoring blijken dat effecten groter of kleiner zijn dan ingeschat, dan bestaat de mogelijkheid dat voorschriften aangepast worden. Bij het opstellen van het MEP zal ook de windsector worden betrokken, alsmede de vergunninghouder zodat deze tijdig op de hoogte is van de monitoringsapparatuur die bevestigd moet worden. Getracht zal worden om rekening te houden met de mogelijkheid om de apparatuur te bevestigen voordat de turbines het vasteland verlaten.
 
-**A**: Momenteel wordt gewerkt aan de opzet en nadere uitwerking van het MEP. Hierin zal worden aangegeven hoe, op welke periodieke termijn en in welke vorm de gegevens zullen worden gepubliceerd.
+*Z*: Indiener verzoekt om kennis uit het monitoringsprogramma te gebruiken om de voorschriften van zowel bestaande als toekomstige kavelbesluiten te optimaliseren.
 
-**Voorschrift 7**
+*A*: Zie het antwoord op een vergelijkbare zienswijze van indieners bij [voorschrift 4](https://wetten.overheid.nl/BWBR0037811).
 
-**Z**: Indiener vindt het onduidelijk wat er gebeurt als de windpark vergunninghouder niet om hernieuwde vaststelling van de verwijderingsgarantie verzoekt.
+*Z*: Indiener vraagt om verduidelijking van [voorschrift 5, sub b](https://wetten.overheid.nl/BWBR0037811).
 
-**A**: Mocht de vergunninghouder de bankgarantie niet tijdig vervangen, dan vervalt het bedrag aan de Staat. Het is aan de vergunninghouder om aan te tonen wat de verwijderingskosten zijn. Om die reden ligt het initiatief voor een verzoek ook bij de vergunninghouder.
+*A*: Momenteel wordt gewerkt aan de opzet en nadere uitwerking van het MEP. Hierin zal worden aangegeven hoe, op welke periodieke termijn en in welke vorm de gegevens zullen worden gepubliceerd.
 
-**Z**: Indiener stelt dat er een discrepantie zit tussen de toelichting in paragraaf 4.5 en voorschrift 7.
+*Voorschrift 7*
 
-**A**: Op basis van de ingebrachte zienswijze is het voorschrift in lijn gebracht met de toelichting.
+NWEA
 
-**Z:** Indiener merkt op dat er een overlap zit tussen de gevraagde bankgaranties.
+*Z*: Indiener vindt het onduidelijk wat er gebeurt als de windpark vergunninghouder niet om hernieuwde vaststelling van de verwijderingsgarantie verzoekt.
 
-**A:** De tekst van het voorschrift wordt in lijn gebracht met de toelichting. Op die manier sluit het voorschrift samen met de toelichting goed aan op de subsidieverlening.
+*A*: Mocht de vergunninghouder de bankgarantie niet tijdig vervangen, dan vervalt het bedrag aan de Staat. Het is aan de vergunninghouder om aan te tonen wat de verwijderingskosten zijn. Om die reden ligt het initiatief voor een verzoek ook bij de vergunninghouder.
 
-**Z**: Indiener vindt de opgenomen indexatie voor financiële zekerheid te hoog.
+*Z*: Indiener stelt dat er een discrepantie zit tussen de toelichting in [paragraaf 4.5](https://wetten.overheid.nl/BWBR0037811) en [voorschrift 7](https://wetten.overheid.nl/BWBR0037811).
 
-**A**: Vanwege duidelijkheid en de lange termijn waarover gesproken wordt, is gekozen voor een indexatie van 2%.
+*A*: Op basis van de ingebrachte zienswijze is het voorschrift in lijn gebracht met de toelichting.
 
-**Z:**Indiener vindt het onduidelijk wat het verschil is tussen de momenten van indexatie voor kavelbesluiten III (en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0037802)) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0037800).
+NWEA, Nuon,
 
-**A:** Op basis van de ingebrachte zienswijze is de toelichting in de kavelbesluiten aangepast, paragraaf 4.5.
+*Z:* Indiener merkt op dat er een overlap zit tussen de gevraagde bankgaranties.
 
-**Z:** Indiener pleit voor een progressieve opbouw van het te garanderen bedrag in plaats van het volledig garantstellen aan het begin van exploitatie.
+*A:* De tekst van het voorschrift wordt in lijn gebracht met de toelichting. Op die manier sluit het voorschrift samen met de toelichting goed aan op de subsidieverlening.
 
-**A:** Om ten alle tijden de zekerheid te hebben dat het windpark volledig kan worden verwijderd, wordt volledige garantstelling gevraagd vanaf het begin van de exploitatie.
+*Z*: Indiener vindt de opgenomen indexatie voor financiële zekerheid te hoog.
 
-**Z:** Indiener verzoekt de opgenomen verplichting in voorschrift 7 lid 3 tot herziening van de verwijderingsgarantie te herzien.
+*A*: Vanwege duidelijkheid en de lange termijn waarover gesproken wordt, is gekozen voor een indexatie van 2%.
 
-**A:** Om te voorkomen dat een vergunninghouder niet om een herziening zal vragen, indien de dan voorziene kosten hoger zijn dan nu vastgelegde hoogte van bankgarantie inclusief indexatie, wordt vastgehouden aan deze verplichting.
+NWEA, Witteveen+Bos, Dong Energy
 
-**Z:** Indiener is van mening dat bij het opstellen van de verwijderingsverplichtingen zorgvuldig moet worden afgewogen of dit ecologisch gezien wenselijk is.
+*Z:*Indiener vindt het onduidelijk wat het verschil is tussen de momenten van indexatie voor kavelbesluiten III (en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0037802)) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0037800).
 
-**A:** Op grond van [artikel 6.16l lid 1 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16l) dient een niet in gebruik zijnd windpark of exportkabel te worden verwijderd. In artikel 6.16l lid 3 van het Waterbesluit is geregeld dat het gedeeltelijk in stand houden van het windpark afgewogen kan worden in een vergunningprocedure op grond van [artikel 6.3 lid 1 sub b van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.3). Dit geldt bijvoorbeeld voor het deels laten staan van de funderingen. Ecologie wordt hierbij afgewogen.
+*A:* Op basis van de ingebrachte zienswijze is de toelichting in de kavelbesluiten aangepast, [paragraaf 4.5](https://wetten.overheid.nl/BWBR0037811).
 
-**Z:** Indiener stelt voor om de gevraagde zekerheid later te laten ingaan.
+RWE
 
-**A:** Om ten alle tijden de zekerheid te hebben dat het windpark volledig kan worden verwijderd, wordt volledige garantstelling gevraagd vanaf het begin van de exploitatie.
+*Z:* Indiener pleit voor een progressieve opbouw van het te garanderen bedrag in plaats van het volledig garantstellen aan het begin van exploitatie.
 
-**Z:** Indiener verzoekt duidelijker te maken wanneer de termijn van 30 jaar van de vergunning aanvangt in relatie tot de verwijdering van het windpark.
+*A:* Om ten alle tijden de zekerheid te hebben dat het windpark volledig kan worden verwijderd, wordt volledige garantstelling gevraagd vanaf het begin van de exploitatie.
 
-**A:** In voorschrift 3 van het kavelbesluit is opgenomen dat de vergunning als bedoeld in [artikel 12 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12) wordt verleend voor een termijn van 30 jaar. De genoemde termijn vangt aan vanaf inwerkingtreding van de vergunning. Deze termijn van 30 jaar is gebaseerd op de uiterlijke termijn van 30 jaar in [artikel 15 lid 2 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15). Binnen deze termijn wordt in de vergunning op grond van artikel 15 lid 1 sub c bepaald binnen welke tijdvakken aangegeven activiteiten dienen te worden verricht. Het verwijderen van een windpark na exploitatie is een van die activiteiten. Volgens [artikel 6.16l van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16l) kan de minister een termijn vaststellen, waarbinnen aan de verplichting tot verwijdering moet zijn voldaan. Deze termijn is in voorschrift 6 van het kavelbesluit gesteld op uiterlijk 2 jaar, doch uiterlijk binnen de looptijd van de vergunning gesteld op een termijn van 30 jaar. Indien de vergunninghouder het windpark in één jaar kan verwijderen, mag hij het windpark uiterlijk tot en met jaar 29 van de vergunning exploiteren.
+GDF SUEZ, Delta
 
-**Z:**Indiener verzoekt de exploitatietermijn te schrappen in relatie tot de verwijdering van het park.
+*Z:* Indiener verzoekt de opgenomen verplichting in [voorschrift 7 lid 3](https://wetten.overheid.nl/BWBR0037811) tot herziening van de verwijderingsgarantie te herzien.
 
-**A:** De activiteit verwijdering dient genoemd te worden en er is aangesloten bij de verwachte levensduur van nu 20 jaar en in de toekomst mogelijk langer. Op grond van [artikel 15, vierde lid van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15) kan de Minister van Economische Zaken op verzoek van de vergunninghouder ontheffing verlenen van de verplichting om bepaalde activiteiten binnen een bepaald tijdvak te verrichten.
+*A:* Om te voorkomen dat een vergunninghouder niet om een herziening zal vragen, indien de dan voorziene kosten hoger zijn dan nu vastgelegde hoogte van bankgarantie inclusief indexatie, wordt vastgehouden aan deze verplichting.
 
-**Z:**Indiener stelt dat de mogelijkheid moet bestaan om de bankgarantie aan te passen indien het park gedeeltelijk in stand gehouden mag worden.
+*Z:* Indiener is van mening dat bij het opstellen van de verwijderingsverplichtingen zorgvuldig moet worden afgewogen of dit ecologisch gezien wenselijk is.
 
-**A:** Besluiten over de gedeeltelijke instandhouding worden niet voor 12 jaar exploitatie voorzien. Nadien zijn er mogelijkheden de hoogte van de bankgarantie aan te passen. Indien de vergunninghouder het windpark zelf verwijdert, wordt de bankgarantie terug gestuurd.
+*A:* Op grond van [artikel 6.16l lid 1 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16l) dient een niet in gebruik zijnd windpark of exportkabel te worden verwijderd. In artikel 6.16l lid 3 van het Waterbesluit is geregeld dat het gedeeltelijk in stand houden van het windpark afgewogen kan worden in een vergunningprocedure op grond van [artikel 6.3 lid 1 sub b van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.3). Dit geldt bijvoorbeeld voor het deels laten staan van de funderingen. Ecologie wordt hierbij afgewogen.
 
-**Z:** Indiener stelt dat het niet wenselijk is de bankgarantie aan te passen tijdens de looptijd van de SDE. Dit zorgt voor meer onzekerheid.
+*Z:* Indiener stelt voor om de gevraagde zekerheid later te laten ingaan.
 
-**A:**De bankgarantie wordt gedurende de looptijd van de subsidie herzien, er nog zeker inkomsten uit de subsidie zijn.
+*A:* Om ten alle tijden de zekerheid te hebben dat het windpark volledig kan worden verwijderd, wordt volledige garantstelling gevraagd vanaf het begin van de exploitatie.
 
-**Innovatiekavelbesluit**
+Delta
 
-**Z:**Indiener geeft aan dat de gevolgen van de werkzaamheden aan de kabels van TenneT niet zijn meegenomen in de afweging.
+*Z:* Indiener verzoekt duidelijker te maken wanneer de termijn van 30 jaar van de vergunning aanvangt in relatie tot de verwijdering van het windpark.
 
-**A:** Deze belangafweging is opgenomen in paragraaf 6.8, mede gelet op de onderhoudszone van 500 meter die is aangehouden.
+*A:* In [voorschrift 3](https://wetten.overheid.nl/BWBR0037811) van het kavelbesluit is opgenomen dat de vergunning als bedoeld in [artikel 12 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12) wordt verleend voor een termijn van 30 jaar. De genoemde termijn vangt aan vanaf inwerkingtreding van de vergunning. Deze termijn van 30 jaar is gebaseerd op de uiterlijke termijn van 30 jaar in [artikel 15 lid 2 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15). Binnen deze termijn wordt in de vergunning op grond van artikel 15 lid 1 sub c bepaald binnen welke tijdvakken aangegeven activiteiten dienen te worden verricht. Het verwijderen van een windpark na exploitatie is een van die activiteiten. Volgens [artikel 6.16l van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16l) kan de minister een termijn vaststellen, waarbinnen aan de verplichting tot verwijdering moet zijn voldaan. Deze termijn is in [voorschrift 6](https://wetten.overheid.nl/BWBR0037811) van het kavelbesluit gesteld op uiterlijk 2 jaar, doch uiterlijk binnen de looptijd van de vergunning gesteld op een termijn van 30 jaar. Indien de vergunninghouder het windpark in één jaar kan verwijderen, mag hij het windpark uiterlijk tot en met jaar 29 van de vergunning exploiteren.
 
-**Z:**Indiener vraagt of er een aparte tender komt voor kavel V.
+*Z:*Indiener verzoekt de exploitatietermijn te schrappen in relatie tot de verwijdering van het park.
 
-**A:** Ja.
+*A:* De activiteit verwijdering dient genoemd te worden en er is aangesloten bij de verwachte levensduur van nu 20 jaar en in de toekomst mogelijk langer. Op grond van [artikel 15, vierde lid van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15) kan de Minister van Economische Zaken op verzoek van de vergunninghouder ontheffing verlenen van de verplichting om bepaalde activiteiten binnen een bepaald tijdvak te verrichten.
 
-**Z:**Indiener vraagt zich af waarom dezelfde voorschriften en mitigerende maatregelen opgenomen worden.
+*Z:*Indiener stelt dat de mogelijkheid moet bestaan om de bankgarantie aan te passen indien het park gedeeltelijk in stand gehouden mag worden.
 
-**A:** De effectbeoordeling van kavel III en V heeft integraal plaatsgevonden. Mede gelet op cumulatie van de windparken met elkaar worden dezelfde mitigerende maatregelen voorgeschreven.
+*A:* Besluiten over de gedeeltelijke instandhouding worden niet voor 12 jaar exploitatie voorzien. Nadien zijn er mogelijkheden de hoogte van de bankgarantie aan te passen. Indien de vergunninghouder het windpark zelf verwijdert, wordt de bankgarantie terug gestuurd.
 
-**Z:**Indiener vindt het redelijk om ook voor het innovatiekavel een 2 dB speling op te nemen, ondanks dat geen sprake kan zijn van een leercurve.
+*Z:* Indiener stelt dat het niet wenselijk is de bankgarantie aan te passen tijdens de looptijd van de SDE. Dit zorgt voor meer onzekerheid.
 
-**A:**Ter kennisgeving aangenomen
+*A:*De bankgarantie wordt gedurende de looptijd van de subsidie herzien, er nog zeker inkomsten uit de subsidie zijn.
 
-**Z:** Indiener vraagt zich af of voor twee turbines wel een maximaal rotoroppervlak nodig is.
+*Innovatiekavelbesluit*
 
-**A:**De milieueffecten van kavel III en V zijn integraal beoordeeld op 380 MW en het daarbij gehanteerde totale rotoroppervlakte. Om die reden is een maximaal rotoroppervlak nodig.
+NWEA
 
-**Z:**Indiener geeft aan dat voorschrift 4, lid 2 onder d overbodig is.
+*Z:*Indiener geeft aan dat de gevolgen van de werkzaamheden aan de kabels van TenneT niet zijn meegenomen in de afweging.
 
-**A:** Dit voorschrift is inderdaad overbodig en om die reden verwijderd.
+*A:* Deze belangafweging is opgenomen in [paragraaf 6.8](https://wetten.overheid.nl/BWBR0037811), mede gelet op de onderhoudszone van 500 meter die is aangehouden.
 
-**Z:** Indiener vraagt zich af of een heiplan moet worden ingediend voor maximaal twee windturbines.
+*Z:*Indiener vraagt of er een aparte tender komt voor kavel V.
 
-**A:** Ja, met dien verstande dat het heiplan een beperktere opzet kan hebben dan het heiplan voor een regulier kavelbesluit.
+*A:* Ja.
 
-**Z:**Indiener geeft aan dat het opnemen van voorschriften met betrekking tot de turbines en geluidmitigatie strijdig is met het stimuleren van ruimte voor innovatie.
+*Z:*Indiener vraagt zich af waarom dezelfde voorschriften en mitigerende maatregelen opgenomen worden.
 
-**A:** Ook voor het ruimte bieden aan innovatie moet voldaan worden aan wet- en regelgeving gelet op de bescherming van de belangen. Om die reden zijn voorschriften opgenomen. Daarnaast is het de opzet om in het innovatiekavel juist ook ruimte te bieden aan nieuwe technieken en werkwijzen die de effecten van (de aanleg van) windparken op de ecologie verkleinen. Dit draagt er immers toe bij dat de aanleg en exploitatie van windparken in de toekomst met minder ecologische hinder, en dus ook met minder beperkende voorschriften kan plaatsvinden. Dat is zowel gunstig voor de natuur als ook voor de windsector.
+*A:* De effectbeoordeling van kavel III en V heeft integraal plaatsgevonden. Mede gelet op cumulatie van de windparken met elkaar worden dezelfde mitigerende maatregelen voorgeschreven.
 
-**Z:** Indiener vraag zich af of in de tabel van voorschrift 4 het vermogen per turbines centraal moet staan in plaats van het aantal turbines.
+*Z:*Indiener vindt het redelijk om ook voor het innovatiekavel een 2 dB speling op te nemen, ondanks dat geen sprake kan zijn van een leercurve.
 
-**A:** In de tabel is inderdaad het ‘vermogen per turbine’ bedoeld. Omdat kavel V uit slechts twee windturbineposities bestaat, is een geluidsnorm gebaseerd op het aantal funderingen niet geschikt. Om ook in kavel V de bouw van grotere windturbines te stimuleren, is er voor gekozen om een voorschrift op te stellen met een flexibele geluidsnorm welke naast het seizoen tevens afhankelijk is van het aantal MW per turbine. Zie paragraaf 7.8.2.
+*A:*Ter kennisgeving aangenomen
 
-**Z:** Indiener stelt dat het voorschrift met de geluidsnormering overbodig is aangezien het hier gaat om slechts 2 turbines.
+*Z:* Indiener vraagt zich af of voor twee turbines wel een maximaal rotoroppervlak nodig is.
 
-**A:**In de tabel bij voorschrift 4, lid 2, wordt een veranderlijke geluidsnorm aangegeven die afhankelijk is van het vermogen per turbine. Wanneer er slechts 2 turbines geplaatst worden, dienen deze ook aan de geluidsnorm te voldoen.
+*A:*De milieueffecten van kavel III en V zijn integraal beoordeeld op 380 MW en het daarbij gehanteerde totale rotoroppervlakte. Om die reden is een maximaal rotoroppervlak nodig.
+
+*Z:*Indiener geeft aan dat [voorschrift 4, lid 2](https://wetten.overheid.nl/BWBR0037811) onder d overbodig is.
+
+*A:* Dit voorschrift is inderdaad overbodig en om die reden verwijderd.
+
+*Z:* Indiener vraagt zich af of een heiplan moet worden ingediend voor maximaal twee windturbines.
+
+*A:* Ja, met dien verstande dat het heiplan een beperktere opzet kan hebben dan het heiplan voor een regulier kavelbesluit.
+
+*Z:*Indiener geeft aan dat het opnemen van voorschriften met betrekking tot de turbines en geluidmitigatie strijdig is met het stimuleren van ruimte voor innovatie.
+
+*A:* Ook voor het ruimte bieden aan innovatie moet voldaan worden aan wet- en regelgeving gelet op de bescherming van de belangen. Om die reden zijn voorschriften opgenomen. Daarnaast is het de opzet om in het innovatiekavel juist ook ruimte te bieden aan nieuwe technieken en werkwijzen die de effecten van (de aanleg van) windparken op de ecologie verkleinen. Dit draagt er immers toe bij dat de aanleg en exploitatie van windparken in de toekomst met minder ecologische hinder, en dus ook met minder beperkende voorschriften kan plaatsvinden. Dat is zowel gunstig voor de natuur als ook voor de windsector.
+
+NWEA, Delta
+
+*Z:* Indiener vraag zich af of in de tabel van [voorschrift 4](https://wetten.overheid.nl/BWBR0037811) het vermogen per turbines centraal moet staan in plaats van het aantal turbines.
+
+*A:* In de tabel is inderdaad het ‘vermogen per turbine’ bedoeld. Omdat kavel V uit slechts twee windturbineposities bestaat, is een geluidsnorm gebaseerd op het aantal funderingen niet geschikt. Om ook in kavel V de bouw van grotere windturbines te stimuleren, is er voor gekozen om een voorschrift op te stellen met een flexibele geluidsnorm welke naast het seizoen tevens afhankelijk is van het aantal MW per turbine. Zie [paragraaf 7.8.2](https://wetten.overheid.nl/BWBR0037811).
+
+Delta
+
+*Z:* Indiener stelt dat het voorschrift met de geluidsnormering overbodig is aangezien het hier gaat om slechts 2 turbines.
+
+*A:*In de tabel bij [voorschrift 4, lid 2](https://wetten.overheid.nl/BWBR0037811), wordt een veranderlijke geluidsnorm aangegeven die afhankelijk is van het vermogen per turbine. Wanneer er slechts 2 turbines geplaatst worden, dienen deze ook aan de geluidsnorm te voldoen.
 
 ### Verklarende woordenlijst kavelbesluit
 
@@ -1415,7 +1738,293 @@ Gebied tussen 51°N (ongeveer Calais) tot aan 56°N (net ten noorden van het dri
 
 In dit besluit wordt verstaan onder:
 
+- • *acoustic deterrent device:* apparaat waarmee door middel van een geluidssignaal zeezoogdieren en vissen worden verjaagd;
+
+- • *ashoogte:* de hoogte van de rotor-as, waaraan de rotorbladen van de windturbine zijn bevestigd, ten opzichte van het zeeniveau;
+
+- • *Beheerplan Deltawateren:* Beheerplan Deltawateren 2015–2021 voor de wateren in de Zuidwestelijke Delta die zijn aangewezen als Natura 2000-gebied;
+
+- • *Beheerplan Voordelta:* Beheerplan Voordelta 2015–2021 voor het Natura 2000-gebied Voordelta;
+
+- • *bevoegd gezag Wet windenergie op zee:* de minister van Economische Zaken;
+
+- • *cut-in windspeed:* de laagste windsnelheid waarbij de turbine energie gaat leveren;
+
+- • *dB re 1µPa2s:* eenheid voor SEL;
+
+- • *geluidsniveau:* het over de frequentiebanden gesommeerde bronniveau;
+
+- • *heiplan:* plan waarin de vergunninghouder uiteenzet op welke wijze de funderingspalen worden geheid, welke mitigerende geluid beperkende maatregelen worden genomen en op welke wijze het geluidsniveau wordt gemeten en gerapporteerd;
+
+- • *massale vogeltrek:* een vogeldichtheid van 500 vogels op rotorhoogte per kilometer per uur;
+
+- • *monitorings- en evaluatieprogramma:* programma waarin de activiteiten zijn beschreven die door of namens de overheid worden uitgevoerd om de leemtes in kennis vast te stellen;
+
+- • *nominaal vermogen:* het maximale vermogen van de productie-installatie dat onder normale condities benut kan worden voor de productie van hernieuwbare elektriciteit en dat door de leverancier gegarandeerd wordt bij continu gebruik;
+
+- • *rotordiameter:* de diameter van de denkbeeldige cirkel die door de rotorbladen (wieken) van de windturbine wordt bestreken;
+
+- • *rotoroppervlak:* het oppervlak van de denkbeeldige cirkel die door de rotorbladen (wieken) van de windturbine wordt bestreken;
+
+- • *SEL:* Sound Exposure Level;
+
+- • *soft start:* met een lage hei-energie het heiproces starten;
+
+- • *tiphoogte:* de ashoogte plus de halve rotordiameter;
+
+- • *tiplaagte:* de ashoogte min de halve rotordiameter;
+
+- • *vergunninghouder:* houder van een vergunning op grond van [artikel 12 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12);
+
+- • *transect:* het rechthoekige oppervlak dat als basis dient voor het bepalen van de vogeldichtheid tijdens de vogeltrek. De hoogte hiervan is de rotordiameter. De lengte bedraagt 1 km;
+
+- • *wiek:* rotorblad;
+
+- • *windpark:* een samenstel van voorzieningen waarmee elektriciteit met behulp van wind wordt geproduceerd, waarbij onder een samenstel van voorzieningen wordt verstaan alle aanwezige middelen die onderling met elkaar zijn verbonden voor de productie van elektriciteit met behulp van wind;
+
+- • *zeeniveau of Mean Sea Level (MSL):* de gemiddelde hoogte van de zeespiegel (het vlak van de zee), als alle variaties die het gevolg zijn van de getijden worden weggemiddeld.
+
 ### Voorschrift 2. Windpark en bandbreedten
+
+- 1. Het windpark wordt binnen de contour met de volgende coördinaten geplaatst: UTM coördinaten (ETRS89, zone 31)
+ Locatie
+ Punt
+ Oostelijk
+ Noordelijk
+ *Kavel III*
+ P_40
+ 502426,5
+ 5727928,5
+ *Kavel III*
+ P_41
+ 500813,5
+ 5719302,6
+ *Kavel III*
+ P_42
+ 500704,5
+ 5718354,3
+ *Kavel III*
+ P_43
+ 500666,3
+ 5717604,8
+ *Kavel III*
+ P_44
+ 500658,9
+ 5717143,2
+ *Kavel III*
+ P_45
+ 500660,2
+ 5716737,1
+ *Kavel III*
+ P_46
+ 500666,1
+ 5716513,5
+ *Kavel III*
+ WFZ_3
+ 498105,4
+ 5718993,7
+ *Kavel III*
+ P_49
+ 492218,7
+ 5724695,4
+ *Kavel III*
+ P_50
+ 496881,0
+ 5730532,8
+ *Kavel III*
+ P_51
+ 497139,9
+ 5730411,2
+ *Kavel III*
+ P_52
+ 497289,1
+ 5730215,2
+ *Kavel III*
+ P_53
+ 497518,6
+ 5730107,2
+ *Kavel III*
+ P_54
+ 497575,3
+ 5730099,1
+ *Kavel III*
+ P_55
+ 498850,7
+ 5729499,4
+ *Kavel III*
+ P_56
+ 498670,2
+ 5729247,3
+ *Kavel III*
+ P_57
+ 498558,1
+ 5728957,4
+ *Kavel III*
+ P_58
+ 498540,2
+ 5728647,2
+ *Kavel III*
+ P_59
+ 498618,2
+ 5728346,4
+ *Kavel III*
+ P_60
+ 498752,8
+ 5728122,6
+ *Kavel III*
+ P_61
+ 498940,6
+ 5727941,3
+ *Kavel III*
+ P_62
+ 499109,6
+ 5727840,0
+ *Kavel III*
+ P_63
+ 500195,7
+ 5727329,7
+ *Kavel III*
+ P_64
+ 500520,8
+ 5727240,4
+ *Kavel III*
+ P_65
+ 500857,1
+ 5727263,6
+ *Kavel III*
+ P_66
+ 501166,7
+ 5727397,2
+ *Kavel III*
+ P_67
+ 501420,7
+ 5727634,5
+ *Kavel III*
+ P_68
+ 501721,8
+ 5728035,7
+ *Kavel III*
+ P_69
+ 501826,6
+ 5728210,6 De kaart met de ligging van kavel III is opgenomen in de bijlage bij deze voorschriften.
+
+- 2. Het tracé van de aansluitverbinding naar platform Borssele Bèta ligt binnen de volgende coördinaten: UTM coördinaten (ETRS89, zone 31)
+ Locatie
+ Punt
+ Oostelijk
+ Noordelijk
+ *Tracé*
+ P_50
+ 496881,0
+ 5730532,8
+ *Tracé*
+ P_51
+ 497139,9
+ 5730411,2
+ *Tracé*
+ P_52
+ 497289,1
+ 5730215,2
+ *Tracé*
+ P_53
+ 497518,6
+ 5730107,2
+ *Tracé*
+ P_54
+ 497575,3
+ 5730099,1
+ *Tracé*
+ T_22
+ 497603,4
+ 5730569,9
+ *Tracé*
+ T_21
+ 497609,5
+ 5730630,6
+ *Tracé*
+ SL_9
+ 497202,2
+ 5730934,4 De kaart met de ligging van het tracé is opgenomen in de bijlage bij deze voorschriften.
+
+- 3. Er worden geen windturbines geplaatst in de onderhoudszones van de SeaMeWe telecomkabel. Deze zones worden begrensd door de punten in onderstaande tabel en die ook zijn weergegeven op de kaart in de bijlage bij deze voorschriften. UTM coördinaten (ETRS89, zone 31)
+ Locatie
+ Punt
+ Oostelijk
+ Noordelijk
+ *Kavel III*
+ P_47
+ 494719,1
+ 5722273,6
+ *Kavel III*
+ P_48
+ 493970,0
+ 5722999,1
+ *Kavel III*
+ P_55
+ 498850,7
+ 5729499,4
+ *Kavel III*
+ P_56
+ 498670,2
+ 5729247,3
+ *Kavel III*
+ P_57
+ 498558,1
+ 5728957,4
+ *Kavel III*
+ P_58
+ 498540,2
+ 5728647,2
+ *Kavel III*
+ P_59
+ 498618,2
+ 5728346,4
+ *Kavel III*
+ P_60
+ 498752,8
+ 5728122,6
+ *Kavel III*
+ P_61
+ 498940,6
+ 5727941,3
+
+- 4. De rotorbladen van de windturbines blijven volledig binnen de in lid 1 genoemde contour en volledig buiten de in lid 3 genoemde onderhoudszones.
+
+- 5. Het maximale aantal op te richten windturbines is 60.
+
+- 6. Het maximale totale rotoroppervlak is 1.430.772 m2.
+
+- 7. In het windpark worden uitsluitend turbines met, per turbine, een nominaal vermogen tussen 6 en 10 MW geplaatst.
+
+- 8. De minimale afstand tussen windturbines bedraagt 4 maal de rotordiameter uitgedrukt in meters.
+
+- 9. De minimale tiplaagte is 25 meter boven zeeniveau (MSL).
+
+- 10. De maximale tiphoogte is 250 meter boven zeeniveau (MSL).
+
+- 11. De kabels vanaf de windturbines moeten aangesloten worden op platform Borssele Beta.
+
+- 12. De toegestane funderingen voor de windturbines zijn:
+
+   - a. monopile;
+
+   - b. tripod;
+
+   - c. jacket;
+
+   - d. gravity based;
+
+   - e. suction bucket. Indien de vergunninghouder een fundering wil toepassen die niet in dit lid is genoemd zal hij de milieueffecten hiervan moeten bepalen. De milieueffecten worden voorgelegd aan de minister van Economische Zaken. De milieueffecten mogen de grenzen die in dit besluit zijn vastgelegd niet overschrijden.
+
+- 13. Als opofferingsanodes gebruikt worden als kathodische bescherming van stalen constructies, bestaan deze uit legeringen van aluminium of magnesium. De legeringen mogen kleine hoeveelheden(< 5 gewicht %) andere metalen bevatten.
+
+- 14. De schepen die door of namens de vergunninghouder worden ingezet, moeten bij hun vaarbewegingen rekening houden met de aanwezigheid van zeehonden op de aanwezige platen en de aangewezen rustgebieden. Hierbij dienen de maatregelen zoals genoemd in het Beheerplan Voordelta en het Beheerplan Deltawateren in acht te worden genomen48De bepalingen uit de betreffende Beheerplannen zijn opgenomen in de bijlage bij deze voorschriften. Dit voorschrift vervalt op het moment dat in het Beheerplan Voordelta en het Beheerplan Deltawateren de schepen zoals bedoeld in de eerste volzin zijn opgenomen als bestaand gebruik.
+
+- 15. De vergunninghouder spant zich aantoonbaar in om het windpark zodanig te ontwerpen en te realiseren dat het park actief bijdraagt aan versterking van een gezonde zee en versterking van behoud en duurzaam gebruik van soorten en habitats die van nature in Nederland voorkomen. Het is niet toegestaan om extra installaties te plaatsen en eventuele voorzieningen moeten direct gerelateerd zijn aan de op te richten windturbines. De vergunninghouder stelt daartoe een plan van aanpak op en dient dat uiterlijk 8 weken voorafgaand aan de start van de bouw in bij de minister van Economische Zaken. De werkzaamheden worden uitgevoerd conform dit plan van aanpak.
+
+- 16. De vergunninghouder spant zich aantoonbaar in om met inachtneming van de geldende wetgeving het windpark zodanig te ontwerpen te bouwen en te exploiteren dat het windpark actief bijdraagt aan versterking van lokale en regionale economie. De vergunninghouder stelt daartoe een plan van aanpak op en dient dat uiterlijk 8 weken voorafgaand aan de start van de bouw in bij de minister van Economische Zaken. De werkzaamheden worden uitgevoerd conform dit plan van aanpak.
+
+- 17. Tijdens reparaties en onderhoud van telecomkabels moet, het aantal rotaties per minuut per windturbine van de windturbines die zich in een straal van 1.000 meter van de reparatie- en onderhoudslocatie bevinden tot minder dan 1 worden gebracht.
 
 ### Voorschrift 3. De vergunning
 
@@ -1423,7 +2032,110 @@ In dit besluit wordt verstaan onder:
 
 ### Voorschrift 4. Mitigerende maatregelen.
 
+- 1. Maatregelen ter voorkoming van permanente fysieke effecten bij bruinvissen en zeehonden en mortaliteit van vissen:
+
+   - a) de vergunninghouder maakt gebruik van één of meer op de relevante frequenties afgestelde ‘acoustic deterrent device(s’) gedurende een half uur voor het begin van de heiwerkzaamheden alsmede gedurende het heien. De vergunninghouder onderbouwt in het heiplan welk(e) type(s) afschrikmiddel(len) gebruikt zal of zullen worden, waarbij hij ingaat op de effectiviteit van het of de gekozen type(n);
+
+   - b) de heiwerkzaamheden vangen aan met een soft start. De duur en het vermogen van de soft start dient zodanig te zijn dat bruinvissen de gelegenheid hebben om naar een veilige locatie te zwemmen. De vergunninghouder onderbouwt in het heiplan duur en vermogen van de soft start.
+
+- 2. Maatregelen ter voorkoming van verstoring van bruinvissen, zeehonden en vissen (geluidsnorm):
+
+   - a) als gevolg van de bouw van het windpark mag op enig moment het geluidsniveau onder water tijdens het heien de in de onderstaande tabel vermelde geluidsnorm niet overschrijden; Geluidsnorm (dB re µPa2s SEL1 op 750 meter van de geluidsbron)
+ Periode
+ Aantal op te richten windturbines
+ Januari tot en met mei
+ Juni tot en met augustus
+ September tot en met december
+ 55 – 63
+ 162
+ 167
+ 169
+ 49 – 54
+ 163
+ 169
+ 170
+ 43 – 48
+ 163
+ 169
+ 171
+ 39 – 42
+ 164
+ 170
+ 172
+ 35 – 38
+ 165
+ 171
+ 172
+
+   - b) de vergunninghouder mag bij de eerste tien funderingspalen de in de bovenstaande tabel vermelde geluidsnorm overschrijden met maximaal 2 dB re 1 μPa2s SEL1;
+
+   - c) het geluidsniveau dient tijdens het heien door of namens de vergunninghouder continu gemeten te worden. De geluidsmetingen dienen per geheide funderingspaal, binnen uiterlijk 48 uur na de afronding van het heien van de betreffende funderingspaal te worden doorgestuurd naar de minister van Economische Zaken;
+
+   - d) wanneer na achtereenvolgende geluidsmetingen blijkt dat het geluidsniveau onder water tijdens het heien van de funderingspalen de in de tabel vermelde geluidsnorm niet overschrijdt, dan kan de minister van Economische Zaken worden verzocht toe te staan dat de frequentie van de geluidsmetingen wordt verlaagd.
+
+   - e) de vergunninghouder stelt een heiplan op en dient dat uiterlijk 8 weken voorafgaand aan de start van de bouw in bij de minister van Economische Zaken;
+
+   - f) de werkzaamheden worden uitgevoerd conform het heiplan als bedoeld in onderdeel e van dit voorschrift;
+
+   - g) de vergunninghouder spant zich in om zo min mogelijk onderwatergeluid te produceren;
+
+   - h) de vergunninghouder spant zich in om in een zo kort mogelijk aaneengesloten periode onderwatergeluid te produceren.
+
+- 3. Maatregelen ter beperking van aanvaringsslachtoffers onder vogels op rotorhoogte bij massale vogeltrek:
+
+   - a) in nachten (tussen zonsondergang en zonsopkomst), gedurende de periode waarin daadwerkelijk sprake is van massale vogeltrek, wordt het aantal rotaties per minuut per windturbine tot minder dan 1 gebracht;
+
+   - b) ten behoeve van de uitvoering van het voorschrift, bedoeld in onderdeel a, wordt het controlesysteem van de windturbines gekoppeld aan een systeem dat de daadwerkelijke vogeltrek waarneemt;
+
+   - c) de vergunninghouder beschrijft in een plan op basis van welk relevant transect de vogeldichtheid wordt bepaald en dient dit plan uiterlijk 8 weken voorafgaand aan de start van de bouw in bij de minister van Economische Zaken;
+
+   - d) de in onderdeel b van dit voorschrift beschreven koppeling wordt volgens het in onderdeel c genoemde plan uitgevoerd;
+
+   - e) de vergunninghouder geeft jaarlijks op 1 juli en 1 januari in een rapportage naar de minister van Economische Zaken aan hoe en op welke wijze aan dit voorschrift uitvoering is gegeven.
+
+- 4. Maatregelen voor het voorkomen van aanvaringsslachtoffers van vleermuizen op rotorhoogte:
+
+   - a) de cut-in windspeed van de turbines bedraagt gedurende de periode van 15 augustus tot en met 30 september tussen 1 uur na zonsondergang tot 2 uur voor zonsopkomst 5,0 m/s op ashoogte;
+
+   - b) bij een windsnelheid van minder dan 5,0 m/s op ashoogte brengt de vergunninghouder in de periode, bedoeld in onderdeel a, het aantal rotaties per minuut per windturbine omlaag tot minder dan 1;
+
+   - c) de vergunninghouder geeft binnen twee maanden na afloop van de periode, bedoeld in onderdeel a, in een rapportage naar de minister van Economische Zaken aan hoe en op welke wijze aan dit voorschrift uitvoering is gegeven.
+
+- 5. Maatregelen ter bescherming van archeologie en cultuurhistorie:
+
+   - a) Voorafgaand aan het leggen van de kabels en het plaatsen van de funderingen van de windturbines, dient een nader Inventariserend Veldonderzoek (IVO) (verkennend opwateronderzoek) te worden verricht naar de mogelijke aanwezigheid van archeologische monumenten. Dit onderzoek dient volgens de Kwaliteitsnorm Nederlandse Archeologie (KNA) Waterbodems (versie 3.2) te worden uitgevoerd.
+
+   - b) De resultaten van het onder lid a genoemde onderzoek worden uiterlijk 3 maanden voorafgaand aan de start van de bouw van het windpark voorgelegd aan de minister van Economische Zaken.
+
+   - c) Afhankelijk van de conclusies uit het onderzoek:
+
+      - • kunnen de werkzaamheden ongewijzigd doorgang vinden;
+
+      - • is er een vervolgonderzoek nodig;
+
+      - • worden er fysieke maatregelen getroffen ter bescherming van archeologische vindplaatsen;
+
+      - • worden vindplaatsen uitgesloten van ingrepen met inachtneming van een bufferzone;
+
+      - • worden de werkzaamheden archeologisch begeleid
+
 ### Voorschrift 5. Monitorings- en evaluatieprogramma
+
+- 1. De minister van Economische Zaken laat een monitorings- en evaluatieprogramma opstellen. De vergunninghouder werkt voor zover redelijk zonder financiële tegenprestatie mee aan dit monitorings- en evaluatieprogramma. De in het windpark geldende veiligheidsregels worden daarbij in acht genomen.
+
+- 2. De minister van Economische Zaken maakt de gegevens die voortkomen uit het monitorings- en evaluatieprogramma openbaar.
+
+- 3. Ten behoeve van de uitvoering van het monitoring- en evaluatieprogramma werkt de vergunninghouder mee ten aanzien van onder meer:
+
+   - – toegang tot het windpark met vaartuigen ten behoeve van tellingen van natuurwaarden;
+
+   - – het (laten) bevestigen van apparatuur zoals camera’s en batdetectors op of aan (onderdelen van) de windturbines;
+
+   - – het (laten) bevestigen van radar op of aan (onderdelen van) de windturbines;
+
+   - – het (laten) bevestigen van meetapparatuur (bijvoorbeeld meetboeien, c-pods etc.) in het windpark;
+
+   - – het beschikbaar stellen van bandbreedte op de datakabel.
 
 ### Voorschrift 6. Verwijdering
 
@@ -1431,16 +2143,76 @@ De vergunninghouder verwijdert het windpark uiterlijk binnen twee jaar nadat de 
 
 ### Voorschrift 7. Financiële zekerheid
 
+- 1. Uiterlijk op het moment dat RVO bewijs heeft ontvangen dat er Garanties van Oorsprong (GvO) zijn afgegeven over de geleverde stroom stelt de vergunninghouder zich garant door middel van een bankgarantie aan de Staat voor een bedrag van € 120.000 per geïnstalleerde MW ten bate van de verwijdering van het windpark.
+
+- 2. De vergunninghouder verhoogt het in lid 1 genoemde bedrag jaarlijks met 2% als gevolg van indexatie gedurende een periode van 12 jaar na afgifte van de bankgarantie.
+
+- 3. Na een periode van 12 jaar exploitatie, 17 jaar exploitatie en 1 jaar voor het tijdstip van verwijdering verzoekt de vergunninghouder de Minister van Economische Zaken om het bedrag genoemd in lid 1 en de indexatie daarvan opnieuw vast te stellen.
+
 ### Bijlage bij de voorschriften
+
+Overzichtskaart met alle kavels van windenergiegebied Borssele
+
+Voorschrift 2, eerste lid
+
+Voorschrift 2, tweede en derde lid
+
+Voorschrift 2, veertiende lid
 
 Maatregelen uit het Beheerplan Voordelta49http://www.noordzeeloket.nl/images/Beheerplan%20Voordelta%20definitief%2016%20juli%202008_924.pdf en het Beheerplan Deltawateren50http://www.rwsnatura2000.nl/Gebieden/DW_Deltawateren/DW+documenten/default.aspx.
 
 In de directe omgeving van kavel III gaat het om de volgende rustgebieden:
 
+- • Slikken van Voorne (Voordelta);
+
+- • Hinderplaat (Voordelta);
+
+- • Bollen van de Ooster (Voordelta);
+
+- • Middelplaat (voorheen Verklikkerplaat) (Voordelta);
+
+- • Bollen van het Nieuwe Zand (Voordelta).
+
 Bij deze gebieden zijn de volgende voorwaarden beschreven:
+
+- • Buiten de winterrustgebieden blijven (in ieder geval geen toegang in de periode 15 december – 1 april) en op ruime afstand (>1.500 m, of zoveel als minimaal haalbaar) van de rustgebieden varen om effecten in de rand-zone van het rustgebied te minimaliseren.
+
+- • Minimaal 1.200 m afstand van vaste rustgebieden voor zeehonden (zandplaten bij Middelplaat, Bollen van de Ooster en Hinderplaat). Wanneer dit niet mogelijk is, dient in ieder geval verstoring van pups te worden voorkomen.
+
+- • Bij aanwezigheid van pups niet in de directe nabijheid (>1.200 m) varen in de zoogperiode (mei-juli) van de gewone zeehond.
+
+- • Bij aanwezigheid van pups niet in de directe nabijheid (>1.200 m) varen in de zoogperiode (dec-feb) van de grijze zeehond.
 
 Verder gaat het in het gebied om de volgende belangrijke platen:
 
+- • Roggenplaat (voor rusten, verharen, zogen) (Oosterschelde);
+
+- • Galgeplaat (of Vondelingsplaat, voor verharen en rusten) (Oosterschelde);
+
+- • Zimmermangeul (Westerschelde);
+
+- • Rug van Baarland (Westerschelde);
+
+- • de Middelplaat (Westerschelde);
+
+- • de Hooge Platen (Westerschelde);
+
+- • Everingen (Westerschelde);
+
+- • Plaat van Breskens (Westerschelde);
+
+- • de Platen van Ossenisse (Westerschelde);
+
+- • de Platen van Valkenisse (Westerschelde).
+
 Hiervan zijn als rustgebieden aangewezen:
+
+- • Hooge Platen;
+
+- • Hooge Springer;
+
+- • Rug van Baarland;
+
+- • platen van Valkenisse.
 
 Bij de aanwezigheid van op de platen rustende zeehonden zal een minimale afstand van 1.200 m aangehouden moeten worden.

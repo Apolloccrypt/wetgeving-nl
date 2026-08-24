@@ -1,41 +1,17 @@
 ---
 title: "Besluit traditiecommissie krijgsmacht 2016"
 identifier: "BWBR0038510"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-10-01"
-last_updated: "2016-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038510"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13749543"
-version_id: "23570222"
-internal_id: "C33929931"
-label_id: "13715874"
-dtd_version: "2.0"
-original_entry_into_force: "2016-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038510/2016-10-01/0"
-intitule_bron: "Stcrt.2016-48480"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-05"
-intitule_published: "2016-09-16"
-intitule_in_force: "2016-09-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-48480"
-original_signed_date: "2016-09-05"
-original_published_date: "2016-09-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-48480"
-entry_into_force_date: "2016-10-01"
-jci_1_3: "jci1.3:c:BWBR0038510&z=2016-10-01&g=2016-10-01"
-jci_1_0: "1.0:c:BWBR0038510&g=2016-10-01"
-citeertitel_status: "officieel"
-signed_date: "2016-09-05"
-entry_into_force: "2016-10-01"
+publicatiedatum: 2016-10-01
+laatste_update: 2016-10-01
+status: geldig
+toestand: 2016-10-01
+bron: "https://wetten.overheid.nl/BWBR0038510"
+opgehaald: 2026-08-24
 ---
-# Besluit traditiecommissie krijgsmacht 2016
 
-Besluit:
+# Besluit traditiecommissie krijgsmacht 2016
 
 ##### Artikel 1
 
@@ -142,5 +118,3 @@ Dit besluit treedt in werking met ingang van 1 oktober 2016. Indien de Staatscou
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit traditiecommissie krijgsmacht 2016.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

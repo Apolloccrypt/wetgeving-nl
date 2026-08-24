@@ -1,91 +1,62 @@
 ---
 title: "Wet van 8 april 2016 tot wijziging van de Zorgverzekeringswet en andere wetten in verband met de overgang van een aantal taken van het Zorginstituut Nederland naar het CAK"
+citeertitel: "Wijzigingswet Zorgverzekeringswet, enz. (overgang van aantal taken van Zorginstituut Nederland naar CAK)"
 identifier: "BWBR0037917"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037917"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "13495613"
-version_id: "23158302"
-internal_id: "C34073861"
-label_id: "13462654"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037917/2020-01-01/0"
-intitule_bron: "Stb.2016-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-08"
-intitule_published: "2016-05-13"
-intitule_in_force: "2016-11-25"
-intitule_status: "goed"
-original_publication: "Stb.2016-173"
-original_signed_date: "2016-04-08"
-original_published_date: "2016-05-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "34203"
-original_url_id: "stb-2016-173"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0037917&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0037917&g=2020-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Zorgverzekeringswet, enz. (overgang van aantal taken van Zorginstituut Nederland naar CAK)"
-signed_date: "2016-04-08"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0037917"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 8 april 2016 tot wijziging van de Zorgverzekeringswet en andere wetten in verband met de overgang van een aantal taken van het Zorginstituut Nederland naar het CAK
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo, Wij in overweging genomen hebben, dat het gewenst is om een aantal taken van het Zorginstituut Nederland over te laten gaan naar het CAK;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel II
 
-Wijzigt de Wet langdurige zorg.
+*Wijzigt de Wet langdurige zorg.*
 
 ##### Artikel III
 
-Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
+*Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de zorgtoeslag.
+*Wijzigt de Wet op de zorgtoeslag.*
 
 ##### Artikel V
 
-Wijzigt de Wet marktordening gezondheidszorg.
+*Wijzigt de Wet marktordening gezondheidszorg.*
 
 ##### Artikel VI
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel VII
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
 
 ##### Artikel IX
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
 ##### Artikel X
 
-Wijzigt de Participatiewet.
+*Wijzigt de Participatiewet.*
 
 ##### Artikel XI
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel XII
 
@@ -117,28 +88,26 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel XIVa
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XIVb
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XIVc
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XIVd
 
-Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (verbetering wanbetalersmaatregelen).
+*Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (verbetering wanbetalersmaatregelen).*
 
 ##### Artikel XIVe
 
-Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (verbetering wanbetalersmaatregelen).
+*Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (verbetering wanbetalersmaatregelen).*
 
 ##### Artikel XV
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. De voordracht voor het koninklijk besluit bedoeld in het eerste lid wordt niet eerder gedaan dan twee weken nadat het ontwerp aan de Tweede Kamer der Staten-Generaal is overgelegd. Indien de Tweede Kamer der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van de Tweede Kamer der Staten-Generaal een nieuw ontwerp aan de Tweede Kamer der Staten-Generaal worden overgelegd.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

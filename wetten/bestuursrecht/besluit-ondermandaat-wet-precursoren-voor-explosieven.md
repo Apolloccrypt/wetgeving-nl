@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de inspecteur-generaal Leefomgeving en Transport, van 8 juli 2016, nr. ILT- 2016/50884, houdende verlening van ondermandaat, volmacht en machtiging Wet precursoren voor explosieven (Besluit ondermandaat Wet precursoren voor explosieven)"
+citeertitel: "Besluit ondermandaat Wet precursoren voor explosieven"
 identifier: "BWBR0038354"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-06-11"
-last_updated: "2020-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038354"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13715833"
-version_id: "23501392"
-internal_id: "C33842811"
-label_id: "13682244"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038354/2020-06-11/0"
-intitule_bron: "Stcrt.2016-38581"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-07-08"
-intitule_published: "2016-07-22"
-intitule_in_force: "2016-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-38581"
-original_signed_date: "2016-07-08"
-original_published_date: "2016-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-38581"
-entry_into_force_date: "2016-07-23"
-jci_1_3: "jci1.3:c:BWBR0038354&z=2020-06-11&g=2020-06-11"
-jci_1_0: "1.0:c:BWBR0038354&g=2020-06-11"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat Wet precursoren voor explosieven"
-signed_date: "2016-07-08"
-entry_into_force: "2016-07-23"
+publicatiedatum: 2016-07-23
+laatste_update: 2020-06-11
+status: geldig
+toestand: 2020-06-11
+bron: "https://wetten.overheid.nl/BWBR0038354"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de inspecteur-generaal Leefomgeving en Transport, van 8 juli 2016, nr. ILT- 2016/50884, houdende verlening van ondermandaat, volmacht en machtiging Wet precursoren voor explosieven (Besluit ondermandaat Wet precursoren voor explosieven)
-
-Gelet op [artikel 6, eerste en tweede lid, van het Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=6);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **directeur:** directeuren Omgeving en dienstverlening en Toezicht en opsporing, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](onbekend);
+- a. *directeur:* directeuren Omgeving en dienstverlening en Toezicht en opsporing, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](https://wetten.overheid.nl/BWBR0043289);
 
-- b. **afdelingshoofden:** afdelingshoofden van de Afdeling Keten gevaarlijke stoffen en de afdeling Marktvenster leefomgeving en scheepvaart, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](onbekend);
+- b. *afdelingshoofden:* afdelingshoofden van de Afdeling Keten gevaarlijke stoffen en de afdeling Marktvenster leefomgeving en scheepvaart, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](https://wetten.overheid.nl/BWBR0043289);
 
-- c. **inspecteur ILT:** inspecteur van het team Chemische risico’s en het team Leefomgeving bedrijven en infra, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](onbekend), en
+- c. *inspecteur ILT:* inspecteur van het team Chemische risico’s en het team Leefomgeving bedrijven en infra, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](https://wetten.overheid.nl/BWBR0043289), en
 
-- d. **aan de inspecteur-generaal verleende bevoegdheden:** door de minister van Veiligheid en Justitie aan de inspecteur-generaal verleende bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=3) en [5 van het Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=5).
+- d. *aan de inspecteur-generaal verleende bevoegdheden:* door de minister van Veiligheid en Justitie aan de inspecteur-generaal verleende bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=3) en [5 van het Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=5).
 
 ##### Artikel 2
 
@@ -68,7 +42,7 @@ In dit besluit wordt verstaan onder:
 
 - b. in hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
-3. Aan de daartoe door de inspecteur-generaal aangewezen functionarissen van de afdeling Juridische Zaken, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](onbekend), wordt machtiging verleend voor het behandelen van bezwaarschriften, beroepschriften, hoger beroepschriften en het voeren van procedures bij de rechter over de op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038354&artikel=2&z=2020-06-11&g=2020-06-11) en 3 genomen besluiten’.
+3. Aan de daartoe door de inspecteur-generaal aangewezen functionarissen van de afdeling Juridische Zaken, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](https://wetten.overheid.nl/BWBR0043289), wordt machtiging verleend voor het behandelen van bezwaarschriften, beroepschriften, hoger beroepschriften en het voeren van procedures bij de rechter over de op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038354&artikel=2&z=2020-06-11&g=2020-06-11) en 3 genomen besluiten’.
 
 ##### Artikel 4
 
@@ -80,10 +54,8 @@ Voor toepassing van dit besluit en de daarop rustende bepalingen wordt met de ve
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2016.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2016.
 
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat Wet precursoren voor explosieven.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

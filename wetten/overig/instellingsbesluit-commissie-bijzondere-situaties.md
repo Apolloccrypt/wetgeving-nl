@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 22 april 2016, nr. WJZ/16042425, tot instelling van de Commissie bijzondere situaties (Instellingsbesluit Commissie bijzondere situaties)"
+citeertitel: "Instellingsbesluit Commissie bijzondere situaties"
 identifier: "BWBR0037893"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-09-14"
-last_updated: "2021-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037893"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13490993"
-version_id: "23150502"
-internal_id: "C33453841"
-label_id: "13457934"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037893/2021-09-14/0"
-intitule_bron: "Stcrt.2016-22183"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-22"
-intitule_published: "2016-04-29"
-intitule_in_force: "2016-04-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-22183"
-original_signed_date: "2016-04-22"
-original_published_date: "2016-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-22183"
-entry_into_force_date: "2016-05-01"
-jci_1_3: "jci1.3:c:BWBR0037893&z=2021-09-14&g=2021-09-14"
-jci_1_0: "1.0:c:BWBR0037893&g=2021-09-14"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie bijzondere situaties"
-signed_date: "2016-04-22"
-entry_into_force: "2016-05-01"
+publicatiedatum: 2016-05-01
+laatste_update: 2021-09-14
+status: geldig
+toestand: 2021-09-14
+bron: "https://wetten.overheid.nl/BWBR0037893"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Minister van Economische Zaken van 22 april 2016, nr. WJZ/16042425, tot instelling van de Commissie bijzondere situaties (Instellingsbesluit Commissie bijzondere situaties)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** Commissie bijzondere situaties;
+- *commissie:* Commissie bijzondere situaties;
 
-- **Instituut:** Instituut Mijnbouwschade Groningen, bedoeld in artikel 2 van de Tijdelijke wet Groningen;
+- *Instituut:* Instituut Mijnbouwschade Groningen, bedoeld in artikel 2 van de Tijdelijke wet Groningen;
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **Onafhankelijke Raadsman:** in opdracht van de minister werkzame Onafhankelijke Raadsman;
+- *Onafhankelijke Raadsman:* in opdracht van de minister werkzame Onafhankelijke Raadsman;
 
-- **Nationale ombudsman:** Nationale ombudsman, bedoeld in artikel 2 van de Wet Nationale ombudsman.
+- *Nationale ombudsman:* Nationale ombudsman, bedoeld in artikel 2 van de Wet Nationale ombudsman.
 
 ##### Artikel 2
 
@@ -62,7 +36,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -100,10 +74,8 @@ Ter gelegenheid van de instelling van de commissie worden voor een periode van d
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van 1 mei 2016.
+Dit besluit treedt in werking met ingang van 1 mei 2016.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie bijzondere situaties.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

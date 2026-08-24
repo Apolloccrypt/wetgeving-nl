@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 14 oktober 2016, nr. WJZ / 14161241, houdende regels omtrent de eisen waaraan statische vloeistofhoeveelheidmeters, massameters, vloeistofhoogtemeters, discontinue brandstofmeters, CG-dispensers en dynamische weegbruggen moeten voldoen (Regeling nationaal autonoom geregelde meetinstrumenten)"
+citeertitel: "Regeling nationaal autonoom geregelde meetinstrumenten"
 identifier: "BWBR0038639"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038639"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13774743"
-version_id: "23622192"
-internal_id: "C33996561"
-label_id: "13741914"
-dtd_version: "2.0"
-original_entry_into_force: "2016-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038639/2019-07-01/0"
-intitule_bron: "Stcrt.2016-55682"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-14"
-intitule_published: "2016-10-28"
-intitule_in_force: "2016-10-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-55682"
-original_signed_date: "2016-10-14"
-original_published_date: "2016-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-55682"
-entry_into_force_date: "2016-11-01"
-jci_1_3: "jci1.3:c:BWBR0038639&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0038639&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling nationaal autonoom geregelde meetinstrumenten"
-signed_date: "2016-10-14"
-entry_into_force: "2016-11-01"
+publicatiedatum: 2016-11-01
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0038639"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Economische Zaken van 14 oktober 2016, nr. WJZ / 14161241, houdende regels omtrent de eisen waaraan statische vloeistofhoeveelheidmeters, massameters, vloeistofhoogtemeters, discontinue brandstofmeters, CG-dispensers en dynamische weegbruggen moeten voldoen (Regeling nationaal autonoom geregelde meetinstrumenten)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=14) en [21 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=21);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,29 +20,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **CG-dispenser:** meetinstrument voor het bepalen van een hoeveelheid gecomprimeerd gas bij het tanken van motorvoertuigen en kleine vaartuigen;
+- *CG-dispenser:* meetinstrument voor het bepalen van een hoeveelheid gecomprimeerd gas bij het tanken van motorvoertuigen en kleine vaartuigen;
 
-- **dipplaat:** in een meetreservoir gefixeerde horizontale plaat, op de verticale as onder het bovenste referentiepunt, waar vanuit handmatig vloeistofniveaumetingen worden gedaan;
+- *dipplaat:* in een meetreservoir gefixeerde horizontale plaat, op de verticale as onder het bovenste referentiepunt, waar vanuit handmatig vloeistofniveaumetingen worden gedaan;
 
-- **discontinue brandstofmeter:** meetinstrument voor de discontinue bepaling van het volume van in tweetaktmotoren gebruikte brandstoffen, bestaande uit meetkamers en voorzien van bijzondere inrichtingen voor het vullen en legen van de meetkamers;
+- *discontinue brandstofmeter:* meetinstrument voor de discontinue bepaling van het volume van in tweetaktmotoren gebruikte brandstoffen, bestaande uit meetkamers en voorzien van bijzondere inrichtingen voor het vullen en legen van de meetkamers;
 
-- **dynamische weegbrug:** meetinstrument voor het bepalen van de massa van een bewegend motorvoertuig, op grond van de werking van de zwaartekracht op dat voertuig, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen;
+- *dynamische weegbrug:* meetinstrument voor het bepalen van de massa van een bewegend motorvoertuig, op grond van de werking van de zwaartekracht op dat voertuig, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen;
 
-- **eerste conformiteitsbeoordeling:** conformiteitsbeoordeling als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=6);
+- *eerste conformiteitsbeoordeling:* conformiteitsbeoordeling als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=6);
 
-- **kritische veranderingswaarde:** waarde waarbij de verandering in het meetresultaat ongewenst wordt geacht;
+- *kritische veranderingswaarde:* waarde waarbij de verandering in het meetresultaat ongewenst wordt geacht;
 
-- **massameter:** meetinstrument voor het statisch bepalen van de massa van de vloeistof of de massa van de verplaatste hoeveelheid vloeistof in een meetreservoir;
+- *massameter:* meetinstrument voor het statisch bepalen van de massa van de vloeistof of de massa van de verplaatste hoeveelheid vloeistof in een meetreservoir;
 
-- **meetkamer:** voor meting dienende ruimte die in één of meer volumedelen is verdeeld;
+- *meetkamer:* voor meting dienende ruimte die in één of meer volumedelen is verdeeld;
 
-- **meetreservoir:** reservoir bestemd voor de bewaring of aflevering van vloeistoffen, niet zijnde een scheepstank, dat specifiek is ingericht om de hoeveelheid vloeistof die het bevat of de hoeveelheid erin geplaatste of eruit verplaatste vloeistof te bepalen;
+- *meetreservoir:* reservoir bestemd voor de bewaring of aflevering van vloeistoffen, niet zijnde een scheepstank, dat specifiek is ingericht om de hoeveelheid vloeistof die het bevat of de hoeveelheid erin geplaatste of eruit verplaatste vloeistof te bepalen;
 
-- **peilstok:** deel van de statische vloeistofhoeveelheidmeter voor het peilen van de vloeistofhoogte met een schaalverdeling met de afstanden in lengte- of volume-eenheden;
+- *peilstok:* deel van de statische vloeistofhoeveelheidmeter voor het peilen van de vloeistofhoogte met een schaalverdeling met de afstanden in lengte- of volume-eenheden;
 
-- **statische vloeistofhoeveelheidmeter:** meetinstrument voor het bepalen van de hoeveelheid vloeistof in een meetreservoir of de hoeveelheid in of uit een meetreservoir verplaatste vloeistof;
+- *statische vloeistofhoeveelheidmeter:* meetinstrument voor het bepalen van de hoeveelheid vloeistof in een meetreservoir of de hoeveelheid in of uit een meetreservoir verplaatste vloeistof;
 
-- **vloeistofhoogtemeter:** meetinstrument voor het bepalen van de hoogte van de vloeistofspiegel in een meetreservoir en dat bestaat uit een meetwaardeopnemer en ten minste één aanwijsinrichting.
+- *vloeistofhoogtemeter:* meetinstrument voor het bepalen van de hoogte van de vloeistofspiegel in een meetreservoir en dat bestaat uit een meetwaardeopnemer en ten minste één aanwijsinrichting.
 
 ### Hoofdstuk 2. Algemene bepalingen
 
@@ -180,11 +154,11 @@ De minimum te meten hoeveelheid van een statische vloeistofhoeveelheidmeter is g
 
 - j. de maximaal toelaatbare meetonzekerheid, die niet meer bedraagt dan:
 
-- 1°. 0,2% van het aangewezen volume voor verticale cilindrische meetreservoirs;
+   - 1°. 0,2% van het aangewezen volume voor verticale cilindrische meetreservoirs;
 
-- 2°. 0,3% van het aangewezen volume voor horizontale of gekantelde cilindrische meetreservoirs;
+   - 2°. 0,3% van het aangewezen volume voor horizontale of gekantelde cilindrische meetreservoirs;
 
-- 3°. 0,5% van het aangewezen volume voor andere dan de in onderdeel 1° en 2° bedoelde meetreservoirs.
+   - 3°. 0,5% van het aangewezen volume voor andere dan de in onderdeel 1° en 2° bedoelde meetreservoirs.
 
 3. Indien de statische vloeistofhoeveelheidmeter uitsluitend is ingericht ter vaststelling van de volledige inhoud blijft de vermelding, bedoeld in het tweede lid, onder g, achterwege.
 
@@ -413,9 +387,9 @@ Een discontinue brandstofmeter is zodanig ingericht dat bij de levering geen luc
 
 1. In afwijking van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=4&artikel=45&z=2019-07-01&g=2019-07-01) bedragen bij de eerste conformiteitsbeoordeling van discontinue brandstofmeters die uitsluitend zijn ingericht om na betaling vooraf een hoeveelheid vloeistof af te leveren en waarbij op de meting door een menselijke handeling geen invloed kan worden uitgeoefend, de maximaal toelaatbare fouten bij onderstaande hoeveelheden:
 
-| Hoeveelheid in liters | Maximaal toelaatbare fouten | Maximaal toelaatbare fouten |
+| Hoeveelheid in liters | Maximaal toelaatbare fouten |  |
 | --- | --- | --- |
-| Hoeveelheid in liters | van | tot |
+| van | tot |  |
 | >1,0 | –1,5% | +0,5% |
 | 1,0 tot 0,5 | –15 cm3 | +5 cm3 |
 | 0,5 tot 0,2 | –3,0% | +1,0% |
@@ -426,9 +400,9 @@ Een discontinue brandstofmeter is zodanig ingericht dat bij de levering geen luc
 
 2. Na ingebruikneming van de in het eerste lid bedoelde discontinue brandstofmeters bedragen de maximaal toelaatbare fouten bij onderstaande hoeveelheden:
 
-| Hoeveelheid in liters | Maximaal toelaatbare fouten | Maximaal toelaatbare fouten |
+| Hoeveelheid in liters | Maximaal toelaatbare fouten |  |
 | --- | --- | --- |
-|   | van | tot |
+|  | van | tot |
 | >1,0 | –2,0% | +1,0% |
 | 1,0 tot 0,5 | –20 cm3 | +10 cm3 |
 | 0,5 tot 0,2 | –4,0% | +2,0% |
@@ -565,12 +539,12 @@ Het schaalinterval van een CG-dispenser is niet groter dan anderhalf maal de kle
 
 1. De maximaal toelaatbare fout van de aanwijzing van de gemeten of herleide hoeveelheid van de CG-dispenser is gelijk aan de waarde weergegeven in de onderstaande tabel:
 
-| Nauwkeurigheidsklasse | Nauwkeurigheidsklasse | Maximaal toelaatbare fout (in % van de gemeten waarde) | Maximaal toelaatbare fout (in % van de gemeten waarde) |
+| Nauwkeurigheidsklasse | Maximaal toelaatbare fout (in % van de gemeten waarde) |  |  |
 | --- | --- | --- | --- |
-| Nauwkeurigheidsklasse | Nauwkeurigheidsklasse | Bij de eerste conformiteitsbeoordeling | Na ingebruikneming |
+| Bij de eerste conformiteitsbeoordeling | Na ingebruikneming |  |  |
 | Alle CG-dispensers met uitzondering van CG-dispensers voor waterstof | 1,5 | 1,5 | 2 |
 | Alleen CG-dispensers voor waterstof | 2 | 2 | 3 |
-| Alleen CG-dispensers voor waterstof | 4 | 4 | 5 |
+| 4 | 4 | 5 |  |
 
 2. De maximaal toelaatbare fout van de kleinste afleveringshoeveelheid bedraagt tweemaal de maximaal toelaatbare fout, bedoeld in het eerste lid.
 
@@ -677,12 +651,12 @@ Een dynamische weegbrug met nauwkeurigheidsklasse 0,5 of nauwkeurigheidsklasse 1
 
 1. De relatie tussen de nauwkeurigheidsklasse, de waarde van het schaalinterval en het aantal schaalintervallen van een dynamische weegbrug is gelijk aan onderstaande tabel:
 
-| Nauwkeurigheidsklasse | Schaalinterval (d) | Aantal schaalintervallen (Max/d) | Aantal schaalintervallen (Max/d) |
+| Nauwkeurigheidsklasse | Schaalinterval (d) | Aantal schaalintervallen (Max/d) |  |
 | --- | --- | --- | --- |
-| Nauwkeurigheidsklasse | Schaalinterval (d) | Minimaal | Maximaal |
+| Minimaal | Maximaal |  |  |
 | 0,2 | ≤ 5 kg | 500 | 5.000 |
-| 0,5 | ≤ 10 kg | 500 | 5.000 |
-| 1 | ≤ 20 kg | 500 | 5.000 |
+| 0,5 | ≤ 10 kg |  |  |
+| 1 | ≤ 20 kg |  |  |
 
 2. De minimale capaciteit van een dynamische weegbrug is niet minder dan 50 schaalintervallen.
 
@@ -708,7 +682,7 @@ De kritische veranderingswaarde van een dynamische weegbrug is één schaalinter
 
 ##### Artikel 79
 
-Meetreservoirs, vloeistofhoogtemeters, discontinue brandstofmeters en peilstokken waarvoor voorafgaand aan de inwerkingtreding van deze regeling een verklaring van toelating als bedoeld in [artikel 34 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=34), dan wel een certificaat van overeenstemming als bedoeld in bijlage G van [Richtlijn 2004/22/EG](32004L0022) van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU 2004, L 135) of een conformiteitscertificaat als bedoeld in bijlage I, module G, van de richtlijn meetinstrumenten, is afgegeven worden beschouwd te voldoen aan de relevante eisen in deze regeling wanneer:
+Meetreservoirs, vloeistofhoogtemeters, discontinue brandstofmeters en peilstokken waarvoor voorafgaand aan de inwerkingtreding van deze regeling een verklaring van toelating als bedoeld in [artikel 34 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=34), dan wel een certificaat van overeenstemming als bedoeld in bijlage G van Richtlijn 2004/22/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU 2004, L 135) of een conformiteitscertificaat als bedoeld in bijlage I, module G, van de richtlijn meetinstrumenten, is afgegeven worden beschouwd te voldoen aan de relevante eisen in deze regeling wanneer:
 
 - a. deze in gebruik zijn genomen voorafgaand aan of binnen tien jaar na de inwerkingtreding van deze regeling, en
 
@@ -729,5 +703,3 @@ Deze regeling treedt in werking met ingang van 1 november 2016.
 ##### Artikel 83
 
 Deze regeling wordt aangehaald als: Regeling nationaal autonoom geregelde meetinstrumenten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

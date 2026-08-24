@@ -1,60 +1,34 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken van 18 december 2016, nr. WJZ / 16194652, inzake de toepassing door de Autoriteit Consument en Markt van de artikelen 13a tot en met 13k van de Postwet 2009 (Beleidsregel van de Minister van Economische Zaken over het ex ante toezicht op grond van de Postwet 2009)"
+citeertitel: "Beleidsregel van de Minister van Economische Zaken over het ex ante toezicht op grond van de Postwet 2009"
 identifier: "BWBR0038896"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2016-12-21"
-last_updated: "2016-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038896"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "13827663"
-version_id: "23731242"
-internal_id: "C34153871"
-label_id: "13793204"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038896/2016-12-21/0"
-intitule_bron: "Stcrt.2016-70314"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-18"
-intitule_published: "2016-12-20"
-intitule_in_force: "2016-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-70314"
-original_signed_date: "2016-12-18"
-original_published_date: "2016-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-70314"
-entry_into_force_date: "2016-12-21"
-jci_1_3: "jci1.3:c:BWBR0038896&z=2016-12-21&g=2016-12-21"
-jci_1_0: "1.0:c:BWBR0038896&g=2016-12-21"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel van de Minister van Economische Zaken over het ex ante toezicht op grond van de Postwet 2009"
-signed_date: "2016-12-18"
-entry_into_force: "2016-12-21"
+publicatiedatum: 2016-12-21
+laatste_update: 2016-12-21
+status: geldig
+toestand: 2016-12-21
+bron: "https://wetten.overheid.nl/BWBR0038896"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregel van de Minister van Economische Zaken van 18 december 2016, nr. WJZ / 16194652, inzake de toepassing door de Autoriteit Consument en Markt van de artikelen 13a tot en met 13k van de Postwet 2009 (Beleidsregel van de Minister van Economische Zaken over het ex ante toezicht op grond van de Postwet 2009)
-
-Gelet op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en de [artikelen 13a tot en met 13k van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=13a);
-
-Besluit:
 
 ##### Artikel 1
 
 1. In deze beleidsregel wordt verstaan onder:
 
-- a. **wet:** de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572);
+- a. *wet:* de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572);
 
-- b. **ACM:** Autoriteit Consument en Markt als bedoeld in [artikel 1, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=1);
+- b. *ACM:* Autoriteit Consument en Markt als bedoeld in [artikel 1, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=1);
 
-- c. **aanmerkelijke marktmacht:** aanmerkelijke marktmacht als bedoeld in [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=13a);
+- c. *aanmerkelijke marktmacht:* aanmerkelijke marktmacht als bedoeld in [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=13a);
 
-- d. **postvervoer:** postvervoer als bedoeld in [artikel 2, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2);
+- d. *postvervoer:* postvervoer als bedoeld in [artikel 2, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2);
 
-- e. **postvervoerdienst:** een postvervoerdienst als bedoeld in [artikel 2, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2);
+- e. *postvervoerdienst:* een postvervoerdienst als bedoeld in [artikel 2, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2);
 
-- f. **postvervoerbedrijf:** een postvervoerbedrijf als bedoeld in [artikel 2, eerste lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2).
+- f. *postvervoerbedrijf:* een postvervoerbedrijf als bedoeld in [artikel 2, eerste lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2).
 
 #### § 1. Doelen ex ante toezicht
 
@@ -105,5 +79,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel van de Minister van Economische Zaken over het ex ante toezicht op grond van de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

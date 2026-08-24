@@ -9,7 +9,7 @@ laatste_update: 2026-08-19
 status: geldig
 toestand: 2026-08-19
 bron: "https://wetten.overheid.nl/BWBR0053043"
-opgehaald: 2026-08-23
+opgehaald: 2026-08-24
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 6 augustus 2026 nr. 2026-262957 over artikel 14a van de Wet op de vennootschapsbelasting 1969 (Besluit zuivere splitsing 2026)

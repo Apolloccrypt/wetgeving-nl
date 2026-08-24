@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 maart 2016, nr. 2016-0000081792, tot benoeming van de voorzitter van het Kennisplatform Werk & Inkomen"
+citeertitel: "Regeling benoeming voorzitter Kennisplatform Werk & Inkomen"
 identifier: "BWBR0037813"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037813"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13469833"
-version_id: "23112702"
-internal_id: "C33400691"
-label_id: "13436924"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037813/2022-01-01/0"
-intitule_bron: "Stcrt.2016-18015"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-30"
-intitule_published: "2016-04-11"
-intitule_in_force: "2016-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-18015"
-original_signed_date: "2016-03-30"
-original_published_date: "2016-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-18015"
-entry_into_force_date: "2016-04-12"
-jci_1_3: "jci1.3:c:BWBR0037813&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0037813&g=2022-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling benoeming voorzitter Kennisplatform Werk & Inkomen"
-signed_date: "2016-03-30"
-entry_into_force: "2016-04-12"
+publicatiedatum: 2016-04-12
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0037813"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 maart 2016, nr. 2016-0000081792, tot benoeming van de voorzitter van het Kennisplatform Werk & Inkomen
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2) en [4 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **CBS:** Centraal Bureau voor de Statistiek;
+- a. *CBS:* Centraal Bureau voor de Statistiek;
 
-- b. **KWI:** Kennisplatform Werk en Inkomen, waarin het UWV, de SVB, de gemeenten Amsterdam en Amersfoort, Divosa, het SCP, de Minister van Sociale Zaken en Werkgelegenheid en de Nederlandse Arbeidsinspectie met elkaar samenwerken in de kennisontwikkeling op het gebied van werk en inkomen, met het CBS als adviserend lid;
+- b. *KWI:* Kennisplatform Werk en Inkomen, waarin het UWV, de SVB, de gemeenten Amsterdam en Amersfoort, Divosa, het SCP, de Minister van Sociale Zaken en Werkgelegenheid en de Nederlandse Arbeidsinspectie met elkaar samenwerken in de kennisontwikkeling op het gebied van werk en inkomen, met het CBS als adviserend lid;
 
-- c. **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- c. *Minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- d. **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
+- d. *UWV:* Uitvoeringsinstituut werknemersverzekeringen;
 
-- e. **voorzitter:** voorzitter van het Kennisplatform Werk en Inkomen;
+- e. *voorzitter:* voorzitter van het Kennisplatform Werk en Inkomen;
 
-- f. **SCP:** Sociaal en Cultureel Planbureau;
+- f. *SCP:* Sociaal en Cultureel Planbureau;
 
-- g. **stuurgroep:** de stuurgroep van het KWI, bestaande uit de Secretaris-Generaal van het Ministerie van Sociale Zaken en Werkgelegenheid, de Inspecteur-Generaal van de Nederlandse Arbeidsinspectie, de voorzitter van de raad van bestuur van het UWV, de directeur van het SCP, de voorzitter van de raad van bestuur van de SVB en de voorzitter van Divosa;
+- g. *stuurgroep:* de stuurgroep van het KWI, bestaande uit de Secretaris-Generaal van het Ministerie van Sociale Zaken en Werkgelegenheid, de Inspecteur-Generaal van de Nederlandse Arbeidsinspectie, de voorzitter van de raad van bestuur van het UWV, de directeur van het SCP, de voorzitter van de raad van bestuur van de SVB en de voorzitter van Divosa;
 
-- h. **SVB:** Sociale verzekeringsbank.
+- h. *SVB:* Sociale verzekeringsbank.
 
 ##### Artikel 2. Instelling voorzitter
 
@@ -96,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Benoeming
 
-De heer P.T. de Beer wordt benoemd tot voorzitter van het KWI voor de periode van 1 januari 2021 tot en met uiterlijk 31 december 2021.
+De heer P.T. de Beer wordt benoemd tot voorzitter van het KWI voor de periode van 1 januari 2021 tot en met uiterlijk 31 december 2021.
 
 ##### Artikel 6. Vergoeding
 
@@ -104,6 +78,4 @@ Aan de voorzitter wordt een vaste vergoeding toegekend, waarbij de toepasselijke
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2015.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2015.

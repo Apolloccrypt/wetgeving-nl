@@ -1,64 +1,34 @@
 ---
 title: "Wet van 6 juli 2016 tot wijziging van de Wet inkomstenbelasting 2001, de Wet op de loonbelasting 1964, de Wet op de belasting van personenauto's en motorrijwielen 1992, de Wet op de motorrijtuigenbelasting 1994 en de Provinciewet (Wet uitwerking Autobrief II)"
+citeertitel: "Wet uitwerking Autobrief II"
 identifier: "BWBR0038313"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038313"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "13704433"
-version_id: "26335922"
-internal_id: "C37431551"
-label_id: "13671094"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038313/2025-01-01/0"
-intitule_bron: "Stb.2016-275"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-07-06"
-intitule_published: "2016-07-14"
-intitule_in_force: "2016-07-14"
-intitule_status: "goed"
-original_publication: "Stb.2019-511"
-original_signed_date: "2019-12-18"
-original_published_date: "2019-12-27"
-original_effect: "structuurwijziging"
-original_dossier: "35304"
-original_url_id: "stb-2019-511"
-entry_into_force_date: "2019-12-18"
-entry_into_force_dossier: "35304"
-jci_1_3: "jci1.3:c:BWBR0038313&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0038313&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet uitwerking Autobrief II"
-signed_date: "2019-12-18"
-entry_into_force: "2019-12-18"
+publicatiedatum: 2019-12-18
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0038313"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 6 juli 2016 tot wijziging van de Wet inkomstenbelasting 2001, de Wet op de loonbelasting 1964, de Wet op de belasting van personenauto's en motorrijwielen 1992, de Wet op de motorrijtuigenbelasting 1994 en de Provinciewet (Wet uitwerking Autobrief II)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen in de sfeer van de autogerelateerde belastingen, in het bijzonder om het fiscale beleid om zuinige auto’s te stimuleren te verbeteren;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel V
 
@@ -66,11 +36,11 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel VI
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel VIII
 
@@ -88,7 +58,7 @@ De overeenkomstig [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313
 
 ##### Artikel XI
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XII
 
@@ -100,7 +70,7 @@ Artikel XII vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting
 
 ##### Artikel XIV
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XV
 
@@ -124,7 +94,7 @@ Na toepassing van [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR003831
 
 ##### Artikel XX
 
-In de [Wet op de belasting van personenauto’s 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) worden met ingang van 1 januari 2019 in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) de bedragen, genoemd het eerste lid, in de vierde kolom van de tabel en de bedragen, genoemd in het tweede lid, in de vierde kolom van de tabel, bij ministeriële regeling verlaagd met 7,34 percent. Vervolgens worden de bedragen, genoemd in artikel 9, eerste en tweede lid, in de derde kolom van de tabel, echter met uitzondering van het eerste bedrag, van die wet, dienovereenkomstig aangepast.
+In de [Wet op de belasting van personenauto’s 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) worden met ingang van 1 januari 2019 in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) de bedragen, genoemd het eerste lid, in de vierde kolom van de tabel en de bedragen, genoemd in het tweede lid, in de vierde kolom van de tabel, bij ministeriële regeling verlaagd met 7,34 percent. Vervolgens worden de bedragen, genoemd in artikel 9, eerste en tweede lid, in de derde kolom van de tabel, echter met uitzondering van het eerste bedrag, van die wet, dienovereenkomstig aangepast.
 
 ##### Artikel XXI
 
@@ -136,7 +106,7 @@ In de [Wet op de belasting van personenauto’s 1992](https://wetten.overheid.nl
 
 ##### Artikel XXII
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XXIII
 
@@ -148,7 +118,7 @@ In de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://
 
 ##### Artikel XXV
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XXVI
 
@@ -156,32 +126,28 @@ Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XXVII
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
+
+##### Artikel XXVIIIa
+
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
+
+##### Artikel XXVIIIb
+
+*Wijzigt de Provinciewet.*
 
 ##### Artikel XXX
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel XXXI
 
-Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2017.
+Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2017.
 
 ##### Artikel XXXII
 
 Deze wet wordt aangehaald als: Wet uitwerking Autobrief II.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XXVIIIa
-
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
-
-##### Artikel XXVIIIb
-
-Wijzigt de Provinciewet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

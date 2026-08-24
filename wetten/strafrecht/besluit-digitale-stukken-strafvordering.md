@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 6 oktober 2016, houdende regels betreffende het gebruik van elektronische stukken (Besluit digitale stukken Strafvordering)"
+citeertitel: "Besluit digitale stukken Strafvordering"
 identifier: "BWBR0038616"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038616"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "13768523"
-version_id: "23607012"
-internal_id: "C34064301"
-label_id: "13734934"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038616/2026-01-01/0"
-intitule_bron: "Stb.2016-359"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-06"
-intitule_published: "2016-10-14"
-intitule_in_force: "2016-11-25"
-intitule_status: "goed"
-original_publication: "Stb.2016-359"
-original_signed_date: "2016-10-06"
-original_published_date: "2016-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-359"
-entry_into_force_date: "2016-12-01"
-jci_1_3: "jci1.3:c:BWBR0038616&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0038616&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit digitale stukken Strafvordering"
-signed_date: "2016-10-06"
-entry_into_force: "2016-12-01"
+publicatiedatum: 2016-12-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0038616"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 6 oktober 2016, houdende regels betreffende het gebruik van elektronische stukken (Besluit digitale stukken Strafvordering)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 6 juli 2016, nr. 780412, directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12), [32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=32), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36a), [36f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36f), [51a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a), [artikel 51b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51b), [138f](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=138f), [149a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=149a), [163, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=163), [257e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257e), [410, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=410), [450, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=450), [552a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), [552ab tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), [552b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552b), en [artikel 153, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=153), [artikel 49 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=49) en [artikel 11 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11);
-
-De Afdeling advisering van de Raad van State gehoord, advies van 5 september 2016, nr. W03.16.0182/II;
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 27 september 2016, nr. 804035, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -52,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **bevoegde instanties:** de gerechten, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2) en de parketten, bedoeld in de [artikelen 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=111), en [134, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=134), de instantie waar een opsporingsambtenaar werkzaam is die is belast met de opsporing van strafbare feiten als bedoeld in [artikel 141, de onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 142 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+- a. *bevoegde instanties:* de gerechten, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2) en de parketten, bedoeld in de [artikelen 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=111), en [134, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=134), de instantie waar een opsporingsambtenaar werkzaam is die is belast met de opsporing van strafbare feiten als bedoeld in [artikel 141, de onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 142 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- b. **de wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
+- b. *de wet:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
 
-- c. **elektronische voorziening:** een webportaal of andere internetdienst ten behoeve van de overdracht van de stukken, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), aan of door de bevoegde instanties;
+- c. *elektronische voorziening:* een webportaal of andere internetdienst ten behoeve van de overdracht van de stukken, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), aan of door de bevoegde instanties;
 
-- d. **Onze Minister:** de Minister van Veiligheid en Justitie, en
+- d. *Onze Minister:* de Minister van Veiligheid en Justitie, en
 
-- e. **vervanging:** het omzetten van een stuk in papieren vorm in een reproductie in elektronische vorm waarna het origineel wordt vernietigd.
+- e. *vervanging:* het omzetten van een stuk in papieren vorm in een reproductie in elektronische vorm waarna het origineel wordt vernietigd.
 
 #### Paragraaf 2. Indiening en verstrekking met een voorziening
 
@@ -70,23 +38,23 @@ In dit besluit wordt verstaan onder:
 
 - a. de indiening van de volgende stukken:
 
-- 1°. het klaagschrift, bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12a);
+   - 1°. het klaagschrift, bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12a);
 
-- 2°. een verzoek als bedoeld in [artikel 36a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36a);
+   - 2°. een verzoek als bedoeld in [artikel 36a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36a);
 
-- 3°. een verzoek als bedoeld in [artikel 51ac, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ac);
+   - 3°. een verzoek als bedoeld in [artikel 51ac, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ac);
 
-- 4°. de aangifte of klachte, bedoeld in de [artikelen 163, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=163), en [164, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=164), voor zover deze feiten betreft die zijn opgenomen in de elektronische voorziening;
+   - 4°. de aangifte of klachte, bedoeld in de [artikelen 163, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=163), en [164, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=164), voor zover deze feiten betreft die zijn opgenomen in de elektronische voorziening;
 
-- 5°. het verzet, bedoeld in [artikel 257e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257e);
+   - 5°. het verzet, bedoeld in [artikel 257e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257e);
 
-- 6°. een schriftuur als bedoeld in de [artikelen 410, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=410), [437, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=437), [438, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=438), en [439, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=439);
+   - 6°. een schriftuur als bedoeld in de [artikelen 410, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=410), [437, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=437), [438, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=438), en [439, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=439);
 
-- 7°. een volmacht als bedoeld in [artikel 450, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=450);
+   - 7°. een volmacht als bedoeld in [artikel 450, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=450);
 
-- 8°. een klaagschrift als bedoeld in de [artikelen 552a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), [552ab, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), en [552b, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552b), en
+   - 8°. een klaagschrift als bedoeld in de [artikelen 552a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), [552ab, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), en [552b, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552b), en
 
-- 9°. een verzoek als bedoeld in [artikel 49 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=49);
+   - 9°. een verzoek als bedoeld in [artikel 49 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=49);
 
 - b. de toezending van berichten van ontvangst en kennisgevingen van de indiening van stukken, bedoeld in onderdeel a;
 
@@ -146,11 +114,11 @@ De indiening, toezending, kennisneming, verstrekking en betekening van stukken, 
 
 - a. de ondertekening heeft plaatsgevonden in aanwezigheid van of wordt gedaan door:
 
-- –. een rechter of griffier;
+   - – een rechter of griffier;
 
-- –. een ambtenaar belast met de opsporing van strafbare feiten als bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+   - – een ambtenaar belast met de opsporing van strafbare feiten als bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- –. een ambtenaar belast met de betekening en kennisgeving van gerechtelijke mededelingen, bedoeld in [artikel 36b, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b), en
+   - – een ambtenaar belast met de betekening en kennisgeving van gerechtelijke mededelingen, bedoeld in [artikel 36b, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b), en
 
 - b. de biometrische of grafische handtekening is op zodanige wijze aan de elektronische gegevens waarop zij betrekking heeft verbonden, dat het moment van ondertekening en elke wijziging na ondertekening van de elektronische gegevens kan worden vastgesteld.
 
@@ -162,11 +130,11 @@ Een stuk in papieren vorm kan worden vervangen door een stuk in elektronische vo
 
 ##### Artikel 8. [wijzigen andere regelingen]
 
-Wijzigt het Besluit processtukken in strafzaken.
+*Wijzigt het Besluit processtukken in strafzaken.*
 
 ##### Artikel 9. [wijzigen andere regelingen]
 
-Wijzigt het Besluit orde van dienst gerechten.
+*Wijzigt het Besluit orde van dienst gerechten.*
 
 ##### Artikel 10. [intrekking andere regelingen]
 
@@ -183,5 +151,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 13. [citeertitel]
 
 Dit besluit wordt aangehaald als: Besluit digitale stukken Strafvordering.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

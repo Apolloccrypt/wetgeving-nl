@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 23 augustus 2016, houdende de instelling van de Erepenning voor Verdiensten jegens Openbare Verzamelingen (Besluit Erepenning voor Verdiensten jegens Openbare Verzamelingen (Museumpenning))"
+citeertitel: "Besluit Erepenning voor Verdiensten jegens Openbare Verzamelingen (Museumpenning)"
 identifier: "BWBR0038457"
-country: "nl"
-rank: "kb"
-publication_date: "2019-02-09"
-last_updated: "2019-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038457"
+categorie: "Overig"
 soort: "KB"
-stam_id: "13740383"
-version_id: "23550972"
-internal_id: "C33908131"
-label_id: "13706614"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038457/2019-02-09/0"
-intitule_bron: "Stb.2016-306"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-08-23"
-intitule_published: "2016-09-01"
-intitule_in_force: "2016-09-01"
-intitule_status: "goed"
-original_publication: "Stb.2016-306"
-original_signed_date: "2016-08-23"
-original_published_date: "2016-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-306"
-entry_into_force_date: "2016-09-02"
-jci_1_3: "jci1.3:c:BWBR0038457&z=2019-02-09&g=2019-02-09"
-jci_1_0: "1.0:c:BWBR0038457&g=2019-02-09"
-citeertitel_status: "officieel"
-short_title: "Besluit Erepenning voor Verdiensten jegens Openbare Verzamelingen (Museumpenning)"
-signed_date: "2016-08-23"
-entry_into_force: "2016-09-02"
+publicatiedatum: 2016-09-02
+laatste_update: 2019-02-09
+status: geldig
+toestand: 2019-02-09
+bron: "https://wetten.overheid.nl/BWBR0038457"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 23 augustus 2016, houdende de instelling van de Erepenning voor Verdiensten jegens Openbare Verzamelingen (Besluit Erepenning voor Verdiensten jegens Openbare Verzamelingen (Museumpenning))
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 7 juli 2016, nr. 20160607, Bureau Bestuursondersteuning;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -48,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-De Erepenning, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038457&artikel=1&z=2019-02-09&g=2019-02-09), is met goud of zilver of brons vervaardigd en cirkelrond met een middellijn van 36 millimeter, voorzien van een ronde knop met ring. Zij vertoont aan de voorzijde de naar links gewende beeldenaar van Onze beeltenis met het omschrift «Willem-Alexander Koning der Nederlanden» en aan de keerzijde als omschrift de woorden «voor verdiensten jegens openbare verzamelingen», in het midden is het Rijkswapen geplaatst, alsmede de woorden: Aan, gevolgd door de voorletters en de naam benevens de plaats van uitreiking alsmede de datum van toekenning, een en ander overeenkomstig de bij dit besluit gevoegde reproductie.
+De Erepenning, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038457&artikel=1&z=2019-02-09&g=2019-02-09), is met goud of zilver of brons vervaardigd en cirkelrond met een middellijn van 36 millimeter, voorzien van een ronde knop met ring. Zij vertoont aan de voorzijde de naar links gewende beeldenaar van Onze beeltenis met het omschrift «Willem-Alexander Koning der Nederlanden» en aan de keerzijde als omschrift de woorden «voor verdiensten jegens openbare verzamelingen», in het midden is het Rijkswapen geplaatst, alsmede de woorden: Aan, gevolgd door de voorletters en de naam benevens de plaats van uitreiking alsmede de datum van toekenning, een en ander overeenkomstig de bij dit besluit gevoegde [reproductie](https://wetten.overheid.nl/BWBR0038457).
 
 ##### Artikel 3
 
@@ -85,7 +59,3 @@ Dit besluit wordt aangehaald als: Besluit Erepenning voor Verdiensten jegens Ope
 ##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-## Bijlage
-
-Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan een afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.

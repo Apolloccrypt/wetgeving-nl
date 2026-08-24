@@ -1,268 +1,123 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 15 april 2016, nr. 7188783, inzake het besluit om de vergunning voor digitale omroep (digitale ethertelevisie) te veilen en de voorschriften en beperkingen vast te stellen die aan de vergunning zullen worden verbonden"
+citeertitel: "Besluit tot veilen vergunningen digitale ethertelevisie en vaststelling voorschriften en beperkingen vergunningen"
 identifier: "BWBR0037843"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-21"
-last_updated: "2016-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037843"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13476643"
-version_id: "23126002"
-internal_id: "C33426021"
-label_id: "13443934"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037843/2016-04-21/0"
-intitule_bron: "Stcrt.2016-20198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-15"
-intitule_published: "2016-04-20"
-intitule_in_force: "2016-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-20198"
-original_signed_date: "2016-04-15"
-original_published_date: "2016-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-20198"
-entry_into_force_date: "2016-04-21"
-jci_1_3: "jci1.3:c:BWBR0037843&z=2016-04-21&g=2016-04-21"
-jci_1_0: "1.0:c:BWBR0037843&g=2016-04-21"
-citeertitel_status: "redactioneel"
-short_title: "Besluit tot veilen vergunningen digitale ethertelevisie en vaststelling voorschriften en beperkingen vergunningen"
-signed_date: "2016-04-15"
-entry_into_force: "2016-04-21"
+publicatiedatum: 2016-04-21
+laatste_update: 2016-04-21
+status: geldig
+toestand: 2016-04-21
+bron: "https://wetten.overheid.nl/BWBR0037843"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Minister van Economische Zaken van 15 april 2016, nr. 7188783, inzake het besluit om de vergunning voor digitale omroep (digitale ethertelevisie) te veilen en de voorschriften en beperkingen vast te stellen die aan de vergunning zullen worden verbonden
-
-Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
-
-Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10);
-
-Besluit:
 
 #### § 1. Inleiding
 
+Op 31 januari 2017 loopt de vergunning voor digitale ethertelevisie, verleend aan Digitenne Holding B.V., af. Met dit besluit wordt bepaald via welke verdeelmethode de voor digitale omroep (digitale ethertelevisie) beschikbare frequentieruimte wordt verdeeld en wordt tevens de vergunning en de daarbij behorende voorschriften en beperkingen, voor zover dit thans mogelijk is, vastgesteld.
+
+De vergunning voor publieke mediadienstverlening als bedoeld in [artikel 3.6, eerste lid, onderdeel a, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.6) (hierna: Tw), die aan de Stichting Nederlandse Publieke Omroep (NPO) is toegekend, valt buiten het bestek van onderhavige verdeling.
+
 #### § 2. Wijze van verdeling
+
+De regels inzake de aanvraag van de vergunning en de verdeling zijn vastgelegd in de [Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)](https://wetten.overheid.nl/jci1.3:c:BWBR0037844) (hierna: de regeling).
+
+De vergunning voor digitale omroep wordt verdeeld door middel van een veilingprocedure. Voor deze verdeelmethode wordt gekozen om de volgende redenen.
+
+Ten eerste treedt dit besluit in werking onder het nieuwe [hoofdstuk 3 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3), ingevoerd bij de wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Kamerstukken II ). In de memorie van toelichting (Kamerstukken II 2007/08, 31 412, nr. 3, p. 18) is aangegeven dat conform het gestelde in de Nota Frequentiebeleid 2005 en in lijn met het kabinetsstandpunt over het MDW-rapport «veilen en andere allocatiemechanismen » primair gekozen zal worden voor de veiling als verdeelinstrument. Dit omdat de veiling economisch gezien de meest efficiënte verdeling oplevert. Een vergelijkende toets is vooral opportuun als het beleidsmatig gewenst is dat bepaalde vergunningsvoorschriften gebaseerd worden op hetgeen een aanvrager inhoudelijk (niet financieel) heeft geboden in de verdeling. Gelet op deze beleidslijn moeten er goede redenen zijn om hiervan af te wijken. Die redenen doen zich in dit geval niet voor. Digitale omroep is geen beginnende techniek meer. Inhoudelijke ‘biedingen’ van potentiële vergunninghouders zijn niet nodig om te komen tot passende vergunningsvoorschriften. Ook zijn er geen goede redenen om een veilingdeelnemer te stimuleren inhoudelijke toezeggingen te doen die verder gaan dan de voorschriften en beperkingen die thans zijn opgenomen in de vergunning, zoals deze met dit besluit wordt vastgesteld (zie [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037843&paragraaf=3&z=2016-04-21&g=2016-04-21) van dit besluit).
+
+Ten tweede kunnen inhoudelijke, niet-financiële toezeggingen in een vergelijkende toets op de langere termijn verstarrend werken als de omstandigheden op de markt veranderen en de vergunninghouder verplicht blijft gedane toezeggingen in een vergelijkende toets na te komen. Een complicerende factor hierbij is ook dat de nieuwe vergunninghouder de 700 MHz-band (694–790 MHz) dient te verlaten, zodat die band uiterlijk in 2020 bestemd kan worden voor mobiele communicatie. Het proces van vrijmaken geschiedt in overleg met de buurlanden gedurende de eerste drie jaar van de vergunning. Ook dit maakt een selectie op inhoudelijke toezeggingen vooraf ongewenst, omdat die het vrijmaken met behoud van continuïteit van dienstverlening kunnen beperken.
+
+Tenslotte is nog van belang dat bij toepassing van een veilingprocedure de administratieve lasten voor de aanvragers beduidend lager zijn dan bij een verdeling via een vergelijkende toets, omdat er geen indiening van een bedrijfsplan wordt vereist.
 
 #### § 3. Vergunning
 
+Met dit besluit wordt de vergunning voor digitale omroep (hierna: de vergunning) vastgesteld. De vergunning is opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0037843). Bij de vergunning hoort ook een aantal bijlagen, inclusief een toelichting. De toelichting bij de vergunning is uiteraard geen onderdeel van het besluit.
+
+De vergunning kent een vaste looptijd van 13 jaar en start in beginsel op 1 februari 2017. De vergunning start met een frequentiebereik van 470–790 MHz. Echter tot uiterlijk 1 januari 2020 is de 700 MHz band (694–790 MHz) onderdeel van deze vergunning. De Minister van Economische Zaken heeft besloten de 700 MHz band hierna te bestemmen voor mobiele communicatie (Kamerstukken II 2014/15, 24 095, nr. 374 en 2015/16, 24 095, nr. 394). Hierdoor mag de frequentieruimte van 694–790 MHz vanaf 1 januari 2020 niet meer gebruikt worden door de toekomstige vergunninghouder. Voor een nadere toelichting wordt verwezen naar de toelichting op de vergunning.
+
+Voor de goede orde wordt er nog op gewezen dat uit [artikel 3.10, derde lid, tweede volzin, van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) volgt dat die onderdelen van de vergunning die pas na de procedure van de veiling kunnen worden vastgesteld niet worden opgenomen in dit besluit. Hierbij valt te denken aan de naam van de toekomstige vergunninghouder, de te betalen veilingprijs en bepaalde internationale afspraken die verband houden met het vrijmaken van de 700 MHz-band voor mobiele communicatie en de transitie daarnaar toe. Naar verwachting worden in de laatste week van april 2016 in Biarritz afspraken gemaakt over de frequentierechten die gelden na het vrijmaken van de 700 MHz-band voor mobiele communicatie. De laatste stand van zaken over de onderhandelingen is weergegeven in de toelichting op de vergunning. Zo spoedig mogelijk na afloop van het voormelde overleg te Biarritz zal een informatiedocument geplaatst worden op de website van Agentschap Telecom over de uitkomst van dit internationale overleg. Indien voorafgaand aan dat overleg voldoende relevante additionele informatie beschikbaar komt, zal dit eveneens vermeld worden op de website van het agentschap. Wanneer de overeenkomsten met de buurlanden gesloten zijn, zullen deze overeenkomsten ook op de website van het agentschap geplaatst worden. De toekomstige vergunninghouder dient deze overeenkomsten in acht te nemen.
+
+Er wordt een groot belang gehecht aan het direct in gebruik nemen van de frequentieruimte met het oog op de continuïteit van dienstverlening. Daarom is in de vergunning een ingebruiknameverplichting opgenomen die ervoor zorgt dat op de eerste dag waarop de vergunninghouder de frequenties mag gebruiken digitale ethertelevisie moet worden aangeboden met een demografisch bereik dat vergelijkbaar is met het bereik van het reeds bestaande DVB-T-netwerk van Digitenne. Wanneer de vergunninghouder medegebruik wenst als bedoeld in [artikel 3.24 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.24), dan zal hij een dergelijk verzoek dus tijdig en zonodig voorwaardelijk1Zie de uitspraak van het College van Beroep voor het bedrijfsleven van 11 november 2005, ECLI:NL:CBB:2005:AU6002. moeten indienen bij de betreffende aanbieder.
+
+Op de naleving van deze voorwaarden zal scherp worden toegezien. Met het oog op de continuïteit van dienstverlening kan op grond van [artikel 18.7 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7) bij de vergunninghouder informatie worden opgevraagd over de voortgang van de ingebruikname van de vergunning.
+
 #### § 4. Start aanvraag- en verdeelprocedure
+
+In de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037844) worden regels gesteld inzake de aanvraag en de inrichting van de veiling en staan onder meer voorschriften voor het indienen van een aanvraag. Aanvragers kunnen blijkens het tweede lid van [artikel 3 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&artikel=3) van 25 april 2016 tot 17 mei 2016 14:00 uur een aanvraag indienen. Dit betekent dat de aanvraag uiterlijk 17 mei 2016 om 13:59 uur ontvangen moet zijn door Agentschap Telecom te Groningen.
+
+Aanvragen dienen overeenkomstig de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037844) per aangetekende post te zijn ontvangen, dan wel door middel van persoonlijke overhandiging te zijn ingediend.
 
 #### § 5. Uniforme openbare voorbereidingsprocedure
 
-#### 5.1. Periode na de veiling en tijdelijke verlenging
+Dit besluit is voorbereid overeenkomstig [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4), overeenkomstig [artikel 3.10, derde lid, van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10). Van 12 februari 2016 tot en met 24 maart 2016 kon eenieder zijn zienswijze geven op een ontwerp van dit besluit. Het voorgenomen besluit was onderdeel van een breder pakket dat is geconsulteerd, te weten een wijziging van het [Nationaal Frequentieplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035791) en een ontwerp van de regeling. Op het gehele pakket zijn in totaal elf zienswijzen ontvangen. Op deze zienswijzen wordt hieronder per onderwerp ingegaan. Zienswijzen die betrekking hebben op de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037844) of de wijziging van het Nationaal Frequentieplan 2014 worden daar besproken.
 
-#### 5.2. Looptijd van de vergunning
+##### 5.1. Periode na de veiling en tijdelijke verlenging
 
-#### 5.3. Verhouding met de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028)
+Een deel van de respondenten heeft aandacht gevraagd voor de periode die de winnaar van de veiling heeft om een netwerk voor digitale omroep uit te rollen en in gebruik te nemen. Die respondenten wijzen erop dat de periode die na de veiling resteert (te) kort is om een nieuw netwerk uit te rollen, medegebruik ex [artikel 3.24 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.24) te realiseren en bij eindgebruikers set-top boxen voor de nieuwe technologie DVB-T2 te plaatsen. Sommige van deze respondenten hebben een tijdelijke verlenging voor een korte periode geopperd. Deze drie punten worden gezamenlijk behandeld vanwege de onderlinge samenhang.
 
-#### 5.4. De te gebruiken technologie
+De veiling is naar verwachting uiterlijk medio juli 2016 geëindigd. Dit betekent dat de winnaar van de veiling ruim 6 maanden voorbereidingstijd heeft. De nieuwe vergunninghouder hoeft niet gelijk over te stappen naar DVB-T2, maar kan ook starten op DVB-T. Voor de omschakeling naar DVB-T2 heeft de nieuwe vergunninghouder voldoende tijd beschikbaar.
 
-#### 5.5. Ingebruiknameverplichting
+Indien de huidige vergunninghouder de vergunning wint in de veiling, kan zij haar dienstverlening voortzetten. Indien een andere partij de veiling wint, dient die partij een nieuw DVB-T netwerk op te richten dan wel gebruik te maken van het huidige DVB-T netwerk dat Digitenne gebruikt. Dit laatste kan door medegebruik, overname van het netwerk of bijvoorbeeld een dienstverleningsovereenkomst als bedoeld in [artikel 10.9, tweede lid, onderdeel a, van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.9). Het is aan de nieuwe vergunninghouder te bepalen welke route zijn voorkeur heeft, waarbij wel geldt dat de vergunninghouder op de eerste dag waarop gebruik van de vergunning is toegestaan, moet voldoen aan de ingebruiknameverplichting.
 
-#### 5.6. Internationale onderhandelingen
+Wanneer Digitenne de vergunning niet wint in de veiling, kan zij het DVB-T netwerk niet meer voor haar zelf gebruiken. Het ligt derhalve in de rede dat partijen dan na de veiling partijen verkennen welke vorm van samenwerking mogelijk en wenselijk is. Temeer omdat de hoge opstelpunten waarvan Digitenne thans gebruik maakt bij uitstek geschikt zijn voor omroepdiensten.
 
-#### 5.7. Aantal TV programma’s
+De opmerking van sommige respondenten dat het regime van medegebruik als bedoeld in [artikel 3.24 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.24) onzeker is, wordt niet gedeeld. Het College van Beroep voor het bedrijfsleven (CBb) en de ACM, en diens voorganger OPTA, hebben in hun uitspraken respectievelijk besluiten een nadere invulling gegeven aan deze wettelijke verplichting. Zo heeft het CBb reeds in haar uitspraak van 11 november 2005, ECLI:NL:CBB:2005:AU6002, geoordeeld dat medegebruik het complete gebruik van een of meer individuele faciliteiten kan omvatten. Ook heeft het CBb in die uitspraak geoordeeld dat niet geheel voorbij kan worden gegaan aan de vraag of een verzoekende partij beschikt over een eenvoudig te realiseren alternatief voor het gevraagde medegebruik. Ook in de uitspraken van 7 mei 2008, ECLI:NL:CBB:2008:BD1064, en 17 oktober 2012, ECLI:NL:CBB:2012:BY2311 kwam het CBb tot dat oordeel. De voormalige OPTA, thans ACM, heeft verder in haar besluit van 31 mei 2010, OPTA/AM/2010/201618, geoordeeld dat in die casus de vraag beantwoord diende te worden of sprake is van schaarste in de zin dat op de betrokken antenne-opstelpunten redelijkerwijs geen ruimte is voor de medegebruik vragende partij om tijdig eigen antennesystemen te plaatsen. Toen in die casus geen sprake bleek van schaarste, heeft OPTA vervolgens beoordeeld of de gronden voor afwijzing van het verzoek om medegebruik onredelijk zijn. Daarbij overwoog OPTA dat het niet zo kan zijn dat in theoretisch opzicht geen sprake is van schaarste, maar dat tegelijkertijd de houder van de ‘bestaande of zittende’ infrastructuur zich zo onredelijk opstelt dat daardoor de facto wel sprake is van schaarste, waardoor concurrentie op de markt voor omroepzendernetwerken onmogelijk wordt. Een voorbeeld van dergelijk gedrag is blijkens randnummer 59 van dat besluit het vragen van een exorbitante prijs voor de verkoop van de betrokken infrastructuur. De ACM is het bevoegde bestuursorgaan. Meer duidelijkheid kan derhalve hier niet gegeven worden.
 
-#### 5.8. Interferentie
+Een tijdelijke verlenging, die door een deel van de respondenten is geopperd dan wel ontraden, pakt nadelig uit voor nieuwkomers. Dit volgt uit het advies van Center for Research in Experimental Economics and political Decision making (Creed) van de Universiteit van Amsterdam van 4 februari 2016. Uitstel is nadelig voor nieuwkomers, die dan immers langer moeten wachten op de revenuen die voortkomen uit hun investering. Daarnaast vergroot uitstel de onzekerheid voor nieuwkomers volgens Creed, omdat de marktomstandigheden aan het einde van de verlenging moeilijker in te schatten zijn dan de marktomstandigheden direct aansluitend aan de veiling.
 
-#### 5.9. Wijzigingen van frequentiegebruiksrechten
+Voor de afbouw van de dienstverlening van Digitenne, mocht zij de veiling verliezen, is ook geen verlenging nodig. Er is voldoende tijd voor klanten om over te stappen naar de nieuwe vergunninghouder of naar alternatieven, zoals de satelliet, kabel of IP-TV.
+
+In uitzonderlijke omstandigheden kan een korte, beperkte verlenging niet geheel worden uitgesloten. Dit zou bijvoorbeeld aan de orde kunnen zijn indien de ACM een verzoek om medegebruik afwijst en de winnaar in de veiling in de resterende termijn geen redelijk alternatief heeft. Indien de winnaar aangeeft dat een tijdelijke verlenging niet nodig is voor de continuïteit van dienstverlening, zal er in beginsel ook geen verlenging plaatsvinden. Een verlenging is nadrukkelijk niet bedoeld om partijen meer onderhandelingstijd te geven over het gebruik van bestaande DVB-T infrastructuur. Indien de winnaar naar zijn mening (tijdelijk) afhankelijk is van bestaande DVB-T infrastructuur zal hij tijdig een (voorwaardelijk) verzoek tot medegebruik moeten indien bij Digitenne/KPN en zo nodig een aanvraag tot geschilbeslechting moeten indienen bij de ACM ([artikelen 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.2) en [12.5 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.5)). Hiervoor is afdoende tijd beschikbaar. Wanneer er tijdelijk verlengd wordt dan geschiedt dit op basis van [artikel 18, zevende lid, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18) voor een zo kort mogelijke periode. In dat geval gaat het frequentiegebruiksrecht van de geveilde vergunning automatisch later in, namelijk na de verlenging2Dit is geregeld in artikel 2, tweede lid, van de vergunning.. De verlengingsvergoeding ([artikel 3.15 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15)) zal idealiter afgeleid worden uit de veilingprijs.
+
+##### 5.2. Looptijd van de vergunning
+
+Enkele respondenten stellen een kortere looptijd van de vergunning voor omdat er in internationaal verband gedachtenvorming plaatsvindt om meer spectrum, waaronder mogelijk ook spectrum dat thans voor digitale ethertelevisie is bestemd, voor mobiele communicatie te bestemmen. Voor een kortere looptijd wordt niet gekozen om de nieuwkomer een redelijke periode te geven voor het kunnen terugverdienen van te plegen investeringen. Tijdens de WRC in 2012 is frequentieruimte in de 700 MHz band co-primair voor mobiel gereserveerd. Uiteindelijk zal deze band in de meeste Europese landen vanaf 2020 daadwerkelijk gebruikt worden voor mobiele diensten. Tijdens de WRC van 2023 zal er naar verwachting voor het eerst weer gekeken worden naar de mogelijke co-primaire bestemming van (een deel van) de 470–694 MHz band. Uitgaande van ervaringen uit het verleden, lijkt daadwerkelijke ingebruikname van een deel van deze band voor mobiel (als dit al plaats gaat vinden) pas rond 2030 of later in Europa plaats te vinden. Een vergunningduur van 13 jaar lijkt hier goed op aan te sluiten.
+
+##### 5.3. Verhouding met de Mediawet 2008
+
+Enkele respondenten stellen dat onduidelijk is hoe de verplichting in de vergunning om een programmapakket aan te bieden dat bestaat uit ten minste vijfentwintig televisieprogrammakanalen die hoofdzakelijk door derden zijn geproduceerd zich verhoudt met [artikel 6.13 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.13). In dat artikel is onder meer geregeld dat een aanbieder van een programmapakket ten minste dertig televisieprogrammakanalen dient te verspreiden.
+
+De verplichting om ten minste vijfentwintig televisieprogramma’s te verspreiden is in de vergunning opgenomen om een doelmatig frequentiegebruik te borgen. De vergunning maakt gebruik van schaars spectrum met een grote maatschappelijke waarde. Een doelmatig frequentiegebruik is ermee gediend dat de vergunning niet wordt gebruikt voor het verspreiden van een te beperkt aantal televisieprogrammakanalen. Ook de continuïteit van dienstverlenging is ermee gebaat dat er een substantieel pakket wordt uitgezonden. Deze belangen vallen onder de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) en [artikel 17, eerste lid, onderdeel a en g, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17) biedt een grondslag om te borgen dat de vergunning doelmatig wordt gebruikt.
+
+[Artikel 6.13 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.13) dient primair het doel van een gevarieerd pakket van radio- en televisiezenders (Kamerstukken II 2012–13, 33 426, nr. 3, p. 1). Beide doelen zijn dus niet gelijk, maar wel complementair. De gegeven zienswijze heeft wel aanleiding gegeven om de definitie van programmapakket in [artikel 6.9 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.9) niet meer geheel over te nemen in artikel 1 van de vergunning. In de geconsulteerde vergunning was aangegeven dat een programma hoofzakelijk door derden geproduceerd dient te worden. Deze eis dient primair een mediawettelijk doel en is om die reden in de definitieve vergunning geschrapt. Bij de keuze om uit het oogpunt van doelmatig frequentiegebruik en continuïteit van dienstverlening de vergunninghouder te verplichten ten minste vijfentwintig televisieprogramma’s uit te zenden is ook rekening gehouden met het gegeven dat aan de NPO een vergunning voor digitale televisie-omroep is verleend voor de verspreiding van haar programma’s en die van de regionale publieke omroepen. Bij het minimale aanbod van vijfentwintig televisieprogrammakanalen dient derhalve ook het aanbod van de publieke omroepen opgeteld te worden. In [artikel 6.14d van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.14d) is geregeld dat het Commissariaat voor de Media (CvdM) geheel of gedeeltelijk ontheffing kan verlenen van de verplichtingen, bedoeld in de [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.13), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.14), [6.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.14b) en [6.14c van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.14c) en de op die artikelen berustende voorschriften, als het onverkort nakomen daarvan leidt tot disproportionele kosten, tot een belemmering van innovatie of tot anderszins onredelijke uitkomsten. Het CvdM is onafhankelijk. Ik kan dus geen duidelijkheid geven in welke gevallen het CvdM een ontheffing verleent. Het staat een partij vrij contact op te nemen met het CvdM over de mogelijkheden van een ontheffing.
+
+##### 5.4. De te gebruiken technologie
+
+Zeven reacties op de consultatie hadden betrekking op de in te zetten technologie, met als belangrijkste opmerking dat niet voldoende is gebleken dat het gebruik van andere technologieën dan omroeptechnologieën niet is toegestaan. Deze zorg lijkt met name te zijn ingegeven door eventuele toekomstige Europese ontwikkelingen met betrekking tot bestemming en gebruik van de zogenoemde sub-700 MHz-band (470–694 MHz). Naar aanleiding van deze zienswijzen is in de definitieve wijziging van het [Nationaal Frequentieplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035791) bepaald dat de vergunning tot 1 januari 2020 de technieken DVB-T en DVB-T2 dient te gebruiken en na 1 januari 2020 verplicht DVB-T2. In artikel 2, tweede lid, van de vergunning is bepaald dat de vergunninghouder het frequentieplan in acht moet nemen. Tevens is in artikel 2, derde lid, van de vergunning verduidelijkt dat datadiensten gerelateerd dienen te zijn aan het programmapakket. Hierbij valt te denken aan een elektronische programmagids. Mobiele communicatie valt hier niet onder en eveneens niet onder de bestemming ‘omroep’ in het Nationaal Frequentieplan 2014.
+
+##### 5.5. Ingebruiknameverplichting
+
+Uit een aantal zienswijzen van respondenten uit de consultatie is gebleken dat de ingebruiknameverplichting, zoals beschreven in artikel 4 van de vergunning, mogelijk niet goed begrepen werd. In [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037843&paragraaf=5&sub-paragraaf=5.4&z=2016-04-21&g=2016-04-21) is toegelicht dat in de definitieve wijziging van het [Nationaal Frequentieplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035791) de technieken DVB-T en DVB-T2 worden voorgeschreven. Deze wijzing noopte tot een aanpassing van artikel 4.
+
+Als gevolg hiervan is de ingebruiknameverplichting in artikel 4 van de vergunning verduidelijkt om misverstanden te voorkomen en aan te sluiten bij de voorgeschreven DVB-T standaarden. Besloten is zo veel mogelijk aan te sluiten bij de Genève 06 overeenkomst3Final Acts of the Regional Radiocommunication Conference for planning of the digital terrestrial Broadcasting service in parts of Regions 1 and 3, in the frequency bands 174–230 MHz and 470–790 MHz, Genève 2006. voor wat betreft de vereiste veldsterktes voor dakontvangst en buitenontvangst en de toe te passen rekenmethodiek. Aanpassing van de vereiste veldsterktes heeft invloed op de verzorgingspercentages die behaald moeten worden. Deze zijn aangepast, zodat deze materieel vergelijkbaar blijven aan het ontwerpbesluit. Zoals weergegeven in de toelichting op de vergunning is de ingebruiknameverplichting gebaseerd op de kwaliteit van het huidige DVB-T netwerk van Digitenne.
+
+Een respondent gaf aan dat het baseren van de ingebruiknameverplichting op dakontvangst niet zinvol is, aangezien dit nagenoeg niet meer voorkomt in Nederland. De ingebruiknameverplichting zou meer gebaseerd moeten zijn op in huis ontvangst. Er is besloten dit niet aan te passen in de vergunning. De reden hiervoor is dat niet zozeer de termen dakontvangst of buitenontvangst, zoals vermeld in de vergunning, van belang zijn voor de ingebruiknameverplichting, maar eerder de daaraan gerelateerde veldsterktes. De veldsterktes voor dakontvangst en buitenontvangst zijn zo bepaald dat daarmee een indoordekking zal worden gerealiseerd die vergelijkbaar is met de huidige indoordekking die Digitenne onder de huidige vergunning gemiddeld genomen realiseert.
+
+##### 5.6. Internationale onderhandelingen
+
+Een tweetal respondenten heeft hun zorgen geuit over de onzekerheden rond de internationale onderhandelingen voor de frequentierechten in deze vergunning. Naar verwachting zal er eind april 2016 duidelijkheid zijn ten aanzien van de uiteindelijke frequentierechten voor deze vergunning. Dit is ruim voor het begin van de veiling. In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037843&bijlage=I&z=2016-04-21&g=2016-04-21) van de vergunning zijn de te verwachten rechten reeds opgenomen. Beperkte wijzigingen kunnen nog plaatsvinden, echter de realisatie van vier lagen voor deze vergunning zal niet aangepast worden.
+
+Ten aanzien van de data waarop toekomstige rechten in gebruik kunnen worden genomen, zijn nog geen nadere afspraken gemaakt. Veelal betekent het in gebruik nemen van toekomstige rechten het overdragen van rechten naar buurlanden, zodat ook in deze landen voldoende rechten beschikbaar blijven om een volwaardige DVB-T(2) dienst aan te bieden. De wijze waarop en het tempo waarin dit plaatsvindt, is sterk afhankelijk van de business case van de operators in zowel Nederland als haar buurlanden, voor zover er wederzijdse frequentietechnische afhankelijkheid bestaat. Dit betekent dat dergelijke afspraken alleen goed te maken zijn als de vergunninghouder in Nederland bekend is. Het is immers wenselijk dat met zijn belangen rekening wordt gehouden. Na de veiling zullen dan ook zo snel mogelijk gesprekken gestart worden met onze buurlanden om hier nader invulling aan te geven.
+
+Daarnaast werd door respondenten aangegeven dat een verlenging van de huidige vergunning hier een oplossing voor zou bieden. In een aantal ons omringende landen, zoals Duitsland, Frankrijk en Engeland, is er reeds een noodzaak om frequentieaanpassingen gedurende de komende drie jaar door te voeren. Het is niet mogelijk om op een enkele datum, over te schakelen van de oude frequentierechtenverdeling naar een nieuwe. Dit betekent dat tot 2020 in de loop van de tijd er waarschijnlijk meerdere momenten zijn waar frequentieaanpassingen plaats zullen vinden. Ook bij een verlenging van de huidige vergunning zal dit het geval zijn. Echter in dat geval is de periode om de investeringen terug te verdienen, kort. Ook voor een nieuwe vergunninghouder is dit ongewenst omdat de omschakeling naar DVB-T2 dan gedeeltelijk voor hem wordt bepaald. Deze nadelen ontbreken bij een veiling.
+
+##### 5.7. Aantal TV programma’s
+
+Een respondent heeft aangegeven dat zij vijfentwintig TV-kanalen te hoog vindt, zeker als deze in HD-kwaliteit aangeboden moeten worden. Dit laatste is overigens geen eis in de vergunning, maar mag wel verwacht worden als het televisieomroepnetwerk een vergelijkbare kwaliteit aanbiedt als andere infrastructuren. Met het huidige DVB-T netwerk van Digitenne worden reeds vijfentwintig TV-kanalen aangeboden. Als de nieuwe vergunninghouder in eerste instantie gebruik blijft maken van dit netwerk, zal het aanbieden van vijfentwintig TV-kanalen derhalve geen probleem op mogen leveren. Als daarnaast wordt uitgegaan van DVB-T2 technologie indien TV programma’s in HD worden aangeboden, dan zijn er vier layers beschikbaar met ieder circa 34 Mb/s, dat wil zeggen zo’n 136 Mb/s in het totaal. Er is daarmee per TV-kanaal circa 5 Mb/s beschikbaar. Bij gebruik van HEVC codering is het aanbieden van vijfentwintig HD TV-kanalen goed mogelijk. Als de vergunninghouder er voor kiest vanaf het begin van de vergunning tot 1 januari 2020 slechts twee layers in gebruik te nemen op basis van DVB-T2 met HEVC codering, dan is met circa 2,5 Mb/s per TV kanaal het aanbieden van vijfentwintig TV programma’s met SD kwaliteit ruim mogelijk.
+
+##### 5.8. Interferentie
+
+Een aantal respondenten merkt op dat artikel 10 in de huidige vorm enkel ziet op verstoring van kabeltelevisie. De kabel wordt ook gebruikt voor breedband- en andere diensten. In dat licht suggereren die respondenten om het begrip ‘kabeltelevisie’ in artikel 10 te vervangen door het bredere begrip ‘kabeldiensten’. Deze suggestie is niet overgenomen. Artikel 10 is overgenomen uit de huidige DVB-T vergunning ter bescherming van het nog bestaande analoge TV aanbod via de kabel. Dit blijkt ook uit de beschrijving van het meetprotocol in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0037843&bijlage=III&z=2016-04-21&g=2016-04-21), waarin onder punt 3 het AM gemoduleerde TV signaal niveau gemeten wordt. Bij Agentschap Telecom zijn daarnaast weinig klachten bekend van storing op kabelinternet of andere niet-televisiediensten via de kabel als gevolg van DVB-T. Het wordt daarom niet passend geacht artikel 10 thans uit te breiden. Indien dit aspect desondanks een rol gaat spelen zal dit meegenomen worden in toekomstig beleid.
+
+Een respondent heeft gesuggereerd een fonds uit de opbrengst van de veiling te reserveren ten behoeve van de financiering van de aanpak van interferentie. Dit wordt niet overgenomen. Het is Kabinetsbeleid dat de opbrengst van de veiling naar de algemene middelen gaat.
+
+##### 5.9. Wijzigingen van frequentiegebruiksrechten
+
+Een respondent wijst erop dat artikel 2 van de ter consultatie voorliggende vergunning de Minister de ruimte geeft om achteraf wijzigingen door te voeren in het te veilen pakket frequenties – zonder aanspraak op enige vorm van compensatie (schadevergoeding of schadeloosstelling) voor de nieuwe vergunninghouder. Die respondent meldt dat bij significante wijzigingen in het frequentiepakket de vergunninghouder niet in kan staan voor het voldoen aan de opgelegde eisen in de vergunning en dat in dat geval een wijziging van de vergunning zonder compensatie niet redelijk is. Naar verwachting worden eind april 2016 de definitieve afspraken gemaakt over de toekomstige frequentie-indelingen als gevolg van het vrijmaken van de 700 MHz-band. De gesloten overeenkomsten worden in de te verlenen vergunning verwerkt en ook na sluiting van deze afspraken geplaatst op de website van Agentschap Telecom. Over de transitie (het proces en de planning) naar de nieuwe frequentie-indeling dienen nog afspraken te worden gemaakt met de buurlanden. Dergelijke aanpassingen kunnen nog leiden tot een wijziging van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037843&bijlage=I&z=2016-04-21&g=2016-04-21). Bij dergelijke wijziging wordt rekening gehouden met de belangen van de nieuwe vergunninghouder. Naar aanleiding van de opmerkingen is verduidelijkt dat – in lijn met de jurisprudentie van het CBb – een wijziging niet kan leiden tot een wijziging van het object van de vergunning.
 
 #### § 6. Publicatie en inwerkingtreding
 
-## Bijlage. Vergunning voor het gebruik van frequentieruimte ten behoeve van digitale omroep
-
-DE MINISTER VAN ECONOMISCHE ZAKEN
-
-Gelezen de aanvraag van [naam] te [plaats] van [datum], geregistreerd onder nummer [dossiernummer];
-
-Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13) en [3.14 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.14), [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17) en de Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie).
-
-### Artikel 1
-
-### § 2. Verlening
-
-### Artikel 2
-
-### § 3. Voorschriften en beperkingen
-
-### Artikel 3. Gebruik van frequentieruimte
-
-### Artikel 4. Ingebruiknameverplichting
-
-### Artikel 5
-
-### Artikel 6
-
-### Artikel 7. Ingebruikneming
-
-De vergunninghouder stelt de minister van elke ingebruikneming van (onderdelen van) de frequentieruimte ten minste vier weken van tevoren schriftelijk op de hoogte en overlegt daarbij de gegevens als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0037843&bijlage=II&z=2016-04-21&g=2016-04-21).
-
-### Artikel 8. Betaling veilingprijs
-
-### Artikel 9. Doorgeven wijzigingen
-
-### Artikel 10. Belemmeringen
-
-### Artikel 11. Correspondentie
-
-Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom van het ministerie van Economische Zaken te Groningen, tenzij door of vanwege de minister anders wordt aangegeven.
-
-### Artikel 12. Wijzigingen als gevolg aanpassing definitie radiozendapparaat in [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
-
-Na inwerkingtreding van de Wet van 3 februari 2016 tot wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) in verband met de implementatie van [richtlijn 2014/30](32014L0030)/EU en [richtlijn 2014/53](32014L0053)/EU (Stb. 2016, Nr. 58) wordt in de andere artikelen van dit besluit ‘radiozend’ telkens vervangen door: radioapparaat.
-
-### Artikel 13. Inwerkingtreding en looptijd van de vergunning
-
-Deze vergunning treedt in werking op de dag na bekendmaking en eindigt na een periode van 13 jaar, die aanvangt op de eerste dag waarop de vergunninghouder krachtens artikel 2, tweede lid, gerechtigd is in elk geval de frequentieruimte, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037843&bijlage=I&z=2016-04-21&g=2016-04-21), annex 1, te gebruiken.
-
-Deze vergunning zal in de Staatscourant worden geplaatst.
-
-## Bijlage I. Behorende bij de vergunning voor het gebruik van frequentieruimte ten behoeve van digitale omroep
-
-In deze bijlage wordt verstaan onder:
-
-### Spectrummasker, zoals bedoeld in artikel 3
-
-De vergunninghouder neemt het onderstaande spectrummasker in acht, waarbij hetzelfde spectrummasker eerst grafisch en daarna cijfermatig is weergegeven.
-
-Bron: GE06 pagina 171
-
-Noot: Voor de kanaalgrenzen tussen kanaal 20 en 21; 37 en 38; 38 en 39; 48 en 49; 60 en 61 geldt het kritisch spectrummasker.
-
-### Annexen 1 en 2
-
-In de onderstaande annexen 1 en 2 zijn de frequentiegebruiksrechten opgenomen. Annex 1 bevat de frequentiegebruiksrechten inclusief de te verlaten 700 MHz-band. Annex 2 bevat de frequentiegebruiksrechten exclusief de 700 MHz-band. De vergunninghouder dient naar de frequentierechten in annex 2 te migreren.
-
-Aan de acht layers die zijn opgenomen in de annexen 1 en 2 ligt een theoretisch netwerk en planningsconfiguratie ten grondslag. Dit wordt in annex 4 nader beschreven.
-
-### Annex 1:. Overzicht allotment layers betreffende 470–790 MHz
-
-Annex 1 wordt gevormd door de onderstaande vier layers, inclusief de te verlaten 700 MHz-band.
-
-### Overzicht allotment layer 1
-
-### Overzicht allotment layer 2
-
-### Overzicht allotment layer 3
-
-### Overzicht allotment layer 4
-
-### Voorwaarden waaronder de allotments door de ITU tijdens de RRC06 zijn goedgekeurd behorende bij 470–790 MHz figuren 2 t/m 5
-
-De allotments in de layers 1 tot en met 4 (figuren 2 tot en met 5) dienen overeenkomstig de bovenstaande tabellen gebruikt te worden, tenzij de onderstaande voorwaarden van toepassing zijn. Voor deze laatste voorwaarden wordt verwezen naar onderstaande relevante afspraken met ITU-lidstaten. De vergunninghouder neemt deze afspraken in acht. De integrale teksten van de afspraken met deze landen staan op de bijgevoegde informatiedrager.
-
-**Overzicht van afspraken per land:**
-
-**België**
-
-**Duitsland**
-
-**Frankrijk**
-
-**Het Verenigd Koninkrijk**
-
-**Denemarken, Noorwegen en Luxemburg**
-
-### Annex 2:. Overzicht allotment layers betreffende 470–694 MHz
-
-Annex 2 wordt gevormd door de onderstaande vier layers, exclusief de te verlaten 700 MHz-band. De internationale afspraken over deze layers en bijbehorende voorwaarden worden naar verwachting in de laatste week in april van 2016 te Biarritz vastgesteld en gesloten. In de te verlenen vergunning zal annex 2 in overeenstemming worden gebracht met de gesloten internationale overeenkomsten. In de hieronder beschreven layers kunnen als gevolg van de te maken internationale afspraken nog wijzigingen plaatsvinden.
-
-### Overzicht allotment layer 1
-
-### Overzicht allotment layer 2
-
-### Overzicht allotment layer 3
-
-### Overzicht allotment layer 4
-
-### Voorwaarden behorende bij 470–694 MHz figuren 6 t/m 9
-
-De allotments in de layers 5 tot en met 8 (figuren 6 tot en met 9) dienen overeenkomstig de bovenstaande tabellen gebruikt te worden, tenzij de onderstaande voorwaarden van toepassing zijn. Voor deze laatste voorwaarden wordt verwezen naar onderstaande relevante afspraken met ITU-lidstaten. De vergunninghouder neemt deze afspraken in acht. De integrale teksten van de afspraken met deze landen staan op de bijgevoegde informatiedrager.
-
-Overzicht van afspraken per land:
-
-[invullen bij vergunningverlening. Achtergrond: de internationale afspraken die de vergunninghouder in acht dient te nemen worden naar alle waarschijnlijk vastgesteld en ondertekend in het internationale overleg van april 2016 in Biarritz. De gesloten overeenkomsten zullen zo spoedig mogelijk geplaatst worden op de website van Agentschap Telecom. De vergunninghouder dient deze overeenkomsten in acht te nemen.]
-
-### Annex 3. Overzicht van te wisselen allotments en kanalen tussen vergunninghouder en NPO
-
-In deze annex worden de kanalen en allotments genoemd die de vergunninghouder dan wel de NPO dient te verlaten vanwege het vrijmaken van de 700 MHz-band. In de onderstaande tabellen is aangegeven welke allotments en kanalen het betreft. In de transitie-overeenkomst dienen afspraken te worden gemaakt over de te verlaten en in gebruik te nemen allotments en kanalen.
-
-### Wederzijdse interferentieniveaus bij de kanalen 21, 33 en 34
-
-De kanalen 21, 33 en 34 kunnen door vergunninghouder en NPO gelijktijdig in gebruik zijn op verschillende plaatsen in Nederland. Het toegestane wederzijdse interferentieniveau is 45 dBµV/m bij 50% locatiewaarschijnlijkheid en 1% tijdswaarschijnlijkheid en een ontvangstantennehoogte van 10 meter. In onderstaande tabel staat een overzicht van de allotments die het betreft.
-
-### Annex 4. Beschrijving Reference network
-
-Aan de 8 layers die zijn opgenomen in de annexen 1 en 2 ligt een theoretisch netwerk en planningsconfiguratie ten grondslag. Dit theoretische netwerk bepaalt, behoudens afwijkende (bilaterale) internationale afspraken, het maximale interferentieniveau.
-
-Bij de annexen 1 en 2 zijn acht tabellen opgenomen. In de tabellen 2 tot en met 9 is de kolom ‘RPC/RN’ opgenomen. RPC staat voor Reference Planning Configuration. RN staat voor Reference Network, waarbij een onderscheid dient te worden gemaakt tussen RN1- of RN3-netwerken. Een RN1-netwerk bestaat uit zeven theoretische zenders. Een RN3-netwerk bestaat uit drie theoretische zenders. Beide theoretische netwerken zijn beschreven en grafisch weergegeven.
-
-De vergunning veroorzaakt niet meer interferentie dan het van toepassing zijnde theoretisch netwerk en planningsconfiguratie, behoudens afwijkende internationale afspraken die hierboven zijn vermeld in de annexen 1 en 2.
-
-### Reference network RN 1
-
-### Reference network RN 3
-
-Voor nadere detaillering wordt verwezen naar GE06.
-
-## Bijlage II. Behorende bij de vergunning voor het gebruik van frequentieruimte ten behoeve van digitale omroep
-
-| Item | Inhoud | Notificatie ITU |   |
-| --- | --- | --- | --- |
-| 1 | site name | O |   |
-| 2 | het ID van het **allotment** waar het **assignment**bij hoort | O |   |
-| 3 | de identicatiecode voor het **Single Frequency Network** (SFN) die bij het allotment hoort**, ingeval de vergunninghouder gebruikt maakt van een SFN.** | O |   |
-| 4 | geografische locatie (longitude/latitude, WGS84) | X |   |
-| 5 | maximum zendvermogen ERP (in polarisatie H en V) | X |   |
-| 6 | type antenne (omni of gericht diagram) | X |   |
-| 7 | polarisatie van het signaal (H, V of M) | X |   |
-| 8 | de hoogte van de antenne boven het maaiveld | X |   |
-| 9 | de hoogte van het maaiveld ter plaatse van de antenne (ten opzichte van NAP) | O |   |
-| 10 | de effectieve hoogte van de antenne in alle richtingen (in stapjes van 10 graden) | O | invullen tabel B |
-| 11 | Het antennediagram in alle richtingen (voor polarisatie H en/of V) | X | invullen tabel B |
-| 12 | de toegewezen frequentie (in MHz of aanduiding frequentieblok) | X |   |
-| 13 | de datum waarop het station in dienst wordt gesteld | X |   |
-
-Toelichting bij kolom notificatie ITU:
-
-X een gegeven dat noodzakelijk is voor het doen van de notificatie of melding
-
-O een gegeven dat door de houder als relevant gegeven kan worden aangemerkt
-
-– voor de toepassing (zie kolom) is het gegeven niet relevant
-
-| Zendhoek AZM (graden) | Verzwakking (dB) | Hoogte Effectief (meter) | Zendhoek AZM (graden) | Verzwakking (dB) | Hoogte Effectief (meter) |
-| --- | --- | --- | --- | --- | --- |
-| 0.0 |   |   | 180.0 |   |   |
-| 10.0 |   |   | 190.0 |   |   |
-| 20.0 |   |   | 200.0 |   |   |
-| 30.0 |   |   | 210.0 |   |   |
-| 40.0 |   |   | 220.0 |   |   |
-| 50.0 |   |   | 230.0 |   |   |
-| 60.0 |   |   | 240.0 |   |   |
-| 70.0 |   |   | 250.0 |   |   |
-| 80.0 |   |   | 260.0 |   |   |
-| 90.0 |   |   | 270.0 |   |   |
-| 100.0 |   |   | 280.0 |   |   |
-| 110.0 |   |   | 290.0 |   |   |
-| 120.0 |   |   | 300.0 |   |   |
-| 130.0 |   |   | 310.0 |   |   |
-| 140.0 |   |   | 320.0 |   |   |
-| 150.0 |   |   | 330.0 |   |   |
-| 160.0 |   |   | 340.0 |   |   |
-| 170.0 |   |   | 350.0 |   |   |
-
-Ter bespoediging van de afhandeling van het notificatieverzoek, wordt verzocht het formulier in elektronische vorm (zogenaamde tvd formaat) aan te leveren. Het elektronische formulier is opgenomen op de verstrekte informatiedrager.
-
-## Bijlage III. Behorende bij de vergunning voor het gebruik van frequentieruimte ten behoeve van digitale omroep
-
-### Meetvoorschriften ter bepaling van interferentieniveau
-
-Deze meetvoorschriften worden toegepast om het signaalniveau van DVB-T(2) zenders te bepalen op televisieontvangers, aanverwante apparatuur met een antenne-ingang en in coaxiale aansluitsnoeren. De meetvoorschriften gelden uitsluitend voor situaties zoals omschreven in artikel 10 van de vergunningsvoorwaarden.
-
-De volgorde van de metingen is als volgt:
-
-De meetmethoden zijn als volgt:
+Dit besluit wordt bekendgemaakt in de Staatscourant. Dit besluit treedt in werking op de dag na publicatie in de Staatscourant.

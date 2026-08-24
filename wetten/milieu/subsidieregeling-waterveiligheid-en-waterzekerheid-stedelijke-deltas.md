@@ -1,62 +1,37 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 13 juni 2016, nr. IENM/BSK-2016/94637, houdende vaststelling van regels voor subsidiering van haalbaarheids- en pilotprojecten voor waterveiligheid en waterzekerheid in stedelijke delta’s in het buitenland (Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's)"
+citeertitel: "Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's"
 identifier: "BWBR0038053"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-06-24"
-last_updated: "2017-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038053"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13649833"
-version_id: "23367302"
-internal_id: "C33684201"
-label_id: "13616664"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038053/2017-06-24/0"
-intitule_bron: "Stcrt.2016-29891"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-13"
-intitule_published: "2016-06-14"
-intitule_in_force: "2016-06-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-29891"
-original_signed_date: "2016-06-13"
-original_published_date: "2016-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-29891"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0038053&z=2017-06-24&g=2017-06-24"
-jci_1_0: "1.0:c:BWBR0038053&g=2017-06-24"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's"
-signed_date: "2016-06-13"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2017-06-24
+status: geldig
+toestand: 2017-06-24
+bron: "https://wetten.overheid.nl/BWBR0038053"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 13 juni 2016, nr. IENM/BSK-2016/94637, houdende vaststelling van regels voor subsidiering van haalbaarheids- en pilotprojecten voor waterveiligheid en waterzekerheid in stedelijke delta’s in het buitenland (Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's)
-
-Gelet op de [artikelen 3, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), en [13 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **haalbaarheidsproject:** project als bedoeld in artikel 2, onderdeel 87, van de algemene groepsvrijstellingsverordening waarbij wordt onderzocht of en onder welke technische, financiële en juridische condities een voorgenomen pilotproject kan worden geïmplementeerd;
+- *haalbaarheidsproject:* project als bedoeld in artikel 2, onderdeel 87, van de algemene groepsvrijstellingsverordening waarbij wordt onderzocht of en onder welke technische, financiële en juridische condities een voorgenomen pilotproject kan worden geïmplementeerd;
 
-- **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
+- *Kaderbesluit:*
+ [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
-- **Minister:** Minister van Infrastructuur en Milieu;
+- *Minister:* Minister van Infrastructuur en Milieu;
 
-- **onderzoeksorganisatie:** organisatie voor onderzoek en kennisverspreiding als bedoeld in artikel 2, onderdeel 83, van de algemene groepsvrijstellingsverordening;
+- *onderzoeksorganisatie:* organisatie voor onderzoek en kennisverspreiding als bedoeld in artikel 2, onderdeel 83, van de algemene groepsvrijstellingsverordening;
 
-- **pilotproject:** project betreffende experimentele ontwikkeling als bedoeld in artikel 2, onderdeel 86, van de algemene groepsvrijstellingsverordening, waarbij sprake is van het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technologische, zakelijke en andere relevante kennis en vaardigheden, gericht op het demonstreren van een nieuw of verbeterd product of een nieuwe of verbeterde technologie, dienst of aanpak;
+- *pilotproject:* project betreffende experimentele ontwikkeling als bedoeld in artikel 2, onderdeel 86, van de algemene groepsvrijstellingsverordening, waarbij sprake is van het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technologische, zakelijke en andere relevante kennis en vaardigheden, gericht op het demonstreren van een nieuw of verbeterd product of een nieuwe of verbeterde technologie, dienst of aanpak;
 
-- **stedelijke delta’s en toeleverende systemen:** sterk verstedelijkte gebieden met een omliggend gebied waarin zich allerlei waterrelevante processen afspelen, zoals voedsel-, energie en waterproductie, die van invloed zijn op dan wel een connectie hebben met de stad;
+- *stedelijke delta’s en toeleverende systemen:* sterk verstedelijkte gebieden met een omliggend gebied waarin zich allerlei waterrelevante processen afspelen, zoals voedsel-, energie en waterproductie, die van invloed zijn op dan wel een connectie hebben met de stad;
 
-- **waterveiligheid en waterzekerheid:** bescherming tegen water gerelateerde risico's, duurzame toegang tot voldoende water van acceptabele kwaliteit, bescherming tegen watervervuiling, behoud van ecosystemen, duurzame ontwikkeling van havens en vaarwegen niet zijnde activiteiten aan de wal.
+- *waterveiligheid en waterzekerheid:* bescherming tegen water gerelateerde risico's, duurzame toegang tot voldoende water van acceptabele kwaliteit, bescherming tegen watervervuiling, behoud van ecosystemen, duurzame ontwikkeling van havens en vaarwegen niet zijnde activiteiten aan de wal.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -72,17 +47,17 @@ Deze regeling heeft als doel het stimuleren van de inzet van vernieuwende en inn
 
 - c. betrekking hebben op één of meer van de volgende thema's:
 
-- 1°. drinkwater en sanitatie;
+   - 1° drinkwater en sanitatie;
 
-- 2°. duurzame ontwikkeling van vaarwegen en havens niet zijnde activiteiten aan de wal;
+   - 2° duurzame ontwikkeling van vaarwegen en havens niet zijnde activiteiten aan de wal;
 
-- 3°. klimaat;
+   - 3° klimaat;
 
-- 4°. veiligheid;
+   - 4° veiligheid;
 
-- 5°. voedsel en ecosystemen;
+   - 5° voedsel en ecosystemen;
 
-- 6°. water en energie;
+   - 6° water en energie;
 
 2. Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van pilotprojecten die het bereiken van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=2&z=2017-06-24&g=2017-06-24) genoemde doel beogen, die in een land uit de categorie A of B, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&bijlage=1&z=2017-06-24&g=2017-06-24) bij deze regeling, worden uitgevoerd en die naast een in het eerste lid genoemde thema ook governance elementen omvat.
 
@@ -235,28 +210,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2016 en vervalt met ingang
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's.
-
-## Bijlage 1. behorend bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=3&z=2017-06-24&g=2017-06-24), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=12&z=2017-06-24&g=2017-06-24) en [13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=13&z=2017-06-24&g=2017-06-24), van de Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's
-
-| Categorie A | Categorie B | Categorie C |
-| --- | --- | --- |
-| Argentinië Bangladesh Chili Colombia Egypte Filipijnen India Indonesië Mexico Mozambique Myanmar Polen Roemenië Singapore Turkije Verenigde Staten Vietnam Zuid-Afrika | Alle landen die niet vallen in categorie A of C. | Afghanistan Bosnië & Herzegovina Burundi Centraal Afrikaanse Republiek Tsjaad Comoren Democratische Republiek Congo Eritrea Guinee-Bissau Irak Haïti Ivoorkust Kiribati Kosovo Libië Liberia Madagaskar Micronesia Oost-Timor Sierra Leone Solomon Eilanden Somalië Zuid Soedan Sudan Syrië Togo Tuvalu Jemen West Bank & Gaza Zimbabwe |
-
-## Bijlage 2. behorend bij [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=12&z=2017-06-24&g=2017-06-24), van de Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's
-
-| Rangschikkingscriteria | Puntenaantal beoordeling | Wegingsfactor | Uitkomst (maximaal) | Uitkomst (maximaal) |
-| --- | --- | --- | --- | --- |
-| Opschaling: |   |   |   |   |
-| **A: Haalbaarheidsproject:** | maximaal 5 | 6 |   |   |
-| de mate waarin de haalbaarheidsstudie past in een ketenbenadering en bijdraagt aan mogelijkheden tot opschaling **B: Pilotproject:** de mate waarin na opschaling de potentie bestaat een grote of grotere groep lokale begunstigden te bereiken | minimaal 2 |   | 30 | 30 |
-| de mate waarin de haalbaarheidsstudie past in een ketenbenadering en bijdraagt aan mogelijkheden tot opschaling **B: Pilotproject:** de mate waarin na opschaling de potentie bestaat een grote of grotere groep lokale begunstigden te bereiken | minimaal 2 |   |   |   |
-| Duurzaamheid: |   |   |   |   |
-| A: Institutioneel | maximaal 5 minimaal 2 | 2 | 10 | 10 |
-| B: Technisch | maximaal 5 minimaal 2 | 2 | 10 | 10 |
-| C: Milieutechnisch | maximaal 5 minimaal 2 | 2 | 10 | 10 |
-| D: Krachtenbundeling | maximaal 5 minimaal 2 | 2 | 10 | 10 |
-| De mate waarin het project vernieuwende en innovatieve Nederlandse kennis en kunde op het gebied van waterveiligheid en waterzekerheid in Nederland of ook in het buitenland gevestigde partijen ontsluit | maximaal 5 minimaal 2 | 4 | 20 | 20 |
-| Kwaliteit van de aanvraag: | maximaal 5 minimaal 2 | 2 | 10 | 10 |
-| Totaal: (100) (Minimum score) |   |   | 100 (65) | 100 (65) |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

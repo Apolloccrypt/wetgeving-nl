@@ -1,60 +1,40 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 november 2016, houdende de instelling van een Adviescollege levenslanggestraften (Besluit Adviescollege levenslanggestraften)"
+citeertitel: "Besluit Adviescollege levenslanggestraften"
 identifier: "BWBR0038779"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-31"
-last_updated: "2026-01-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038779"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13805473"
-version_id: "31360952"
-internal_id: "C44816231"
-label_id: "13771674"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038779/2026-01-31/0"
-intitule_bron: "Stcrt.2016-65365"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-11-25"
-intitule_published: "2016-12-01"
-intitule_in_force: "2016-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-2441"
-original_signed_date: "2026-01-20"
-original_published_date: "2026-01-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2026-2441"
-entry_into_force_date: "2026-01-20"
-jci_1_3: "jci1.3:c:BWBR0038779&z=2026-01-31&g=2026-01-31"
-jci_1_0: "1.0:c:BWBR0038779&g=2026-01-31"
-citeertitel_status: "officieel"
-short_title: "Besluit Adviescollege levenslanggestraften"
-signed_date: "2026-01-20"
-entry_into_force: "2026-01-20"
+publicatiedatum: 2026-01-20
+laatste_update: 2026-01-31
+status: geldig
+toestand: 2026-01-31
+bron: "https://wetten.overheid.nl/BWBR0038779"
+opgehaald: 2026-08-24
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 november 2016, houdende de instelling van een Adviescollege levenslanggestraften (Besluit Adviescollege levenslanggestraften)
 
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 november 2016, houdende de instelling van een Adviescollege levenslanggestraften (Besluit Adviescollege levenslanggestraften)
 
 ##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Adviescollege:** het Adviescollege levenslanggestraften;
+- a. *Adviescollege:* het Adviescollege levenslanggestraften;
 
-- b. **voorzitter:** de voorzitter van het Adviescollege;
+- b. *voorzitter:* de voorzitter van het Adviescollege;
 
-- c. **DJI:** de Dienst Justitiële Inrichtingen als bedoeld in [artikel 63f van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63f);
+- c. *DJI:* de Dienst Justitiële Inrichtingen als bedoeld in [artikel 63f van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63f);
 
-- d. **levenslanggestrafte:** een persoon ten aanzien van wie de tenuitvoerlegging van een levenslange gevangenisstraf plaatsvindt;
+- d. *levenslanggestrafte:* een persoon ten aanzien van wie de tenuitvoerlegging van een levenslange gevangenisstraf plaatsvindt;
 
-- e. **Minister:** de Minister voor Rechtsbescherming;
+- e. *Minister:* de Minister voor Rechtsbescherming;
 
-- f. **re-integratie activiteiten:** activiteiten, inclusief verlof, die aanvullend op de resocialisatieactiviteiten de gedetineerde in staat stellen te werken aan de voorbereiding op zijn mogelijke terugkeer in de samenleving;
+- f. *re-integratie activiteiten:* activiteiten, inclusief verlof, die aanvullend op de resocialisatieactiviteiten de gedetineerde in staat stellen te werken aan de voorbereiding op zijn mogelijke terugkeer in de samenleving;
 
-- g. **detentie:** de periode van vrijheidsbeneming vanaf het moment van de inverzekeringstelling of voorlopige hechtenis ter zake van het feit waarvoor de levenslange gevangenisstraf is opgelegd.
+- g. *detentie:* de periode van vrijheidsbeneming vanaf het moment van de inverzekeringstelling of voorlopige hechtenis ter zake van het feit waarvoor de levenslange gevangenisstraf is opgelegd.
+
+##### Artikel 1a
+
+Dit besluit is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 2. Samenstelling en benoeming voorzitter en leden Adviescollege
 
@@ -70,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - d. tenminste een wetenschappelijk lid.
 
-3. De leden, bedoeld in het eerste lid, onder a tot en met c, beschikken over een uitgebreide expertise in de strafrechtpraktijk en de tenuitvoerlegging van straffen en het lid, bedoeld in het eerste lid, onder d, heeft bij voorkeur specifieke expertise op het gebied van de positie en de belangen van slachtoffers en nabestaanden.
+3. De leden, bedoeld in het eerste lid, onder a tot en met c, beschikken over een uitgebreide expertise in de strafrechtpraktijk en de tenuitvoerlegging van straffen en het lid, bedoeld in het eerste lid, onder d, heeft bij voorkeur specifieke expertise op het gebied van de positie en de belangen van slachtoffers en nabestaanden.
 
 4. De voorzitter en de overige leden van het Adviescollege worden bij ministerieel besluit door de Minister benoemd voor een periode van ten hoogste vier jaar. De benoeming wordt gepubliceerd in de Staatscourant. Herbenoeming is eenmaal mogelijk voor een aansluitende periode van ten hoogste vier jaren.
 
@@ -111,6 +91,18 @@ In dit besluit wordt verstaan onder:
 5. De levenslanggestrafte wordt door het Adviescollege gehoord. De nabestaanden en slachtoffers worden door het Adviescollege gehoord. De hoorzittingen vinden plaats in het Europese deel van Nederland. Degene die zich buiten het Europese deel van Nederland bevindt, wordt niet in persoon maar via een beveiligde videoverbinding gehoord.
 
 6. Bij het advies als bedoeld in het eerste lid, onder a, bepaalt het Adviescollege tevens binnen welke termijn het Adviescollege een vervolgadvies zal uitbrengen.
+
+##### Artikel 4a
+
+1. Op verzoek van de Minister brengt het Adviescollege het eerste advies bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), uit op een eerder tijdstip dan het in artikel 4, tweede lid bedoelde tijdstip in geval de tenuitvoerlegging van de in het buitenland opgelegde levenslange straf is overgedragen aan Nederland op grond van de [Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0031814) of op grond van de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028).
+
+2. Het eerste advies van het Adviescollege, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), wordt uitgebracht uiterlijk drie jaar voor het tijdstip van de beoordeling van de mogelijkheid tot gratieverlening dat is opgenomen in het besluit van de Minister ten aanzien van de strafoverdracht.
+
+3. Het eerste advies van het Adviescollege, bedoeld in [artikel 4, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), wordt uitgebracht uiterlijk drie jaar nadat de levenslanggestrafte bij de Minister een verzoek heeft ingediend indien uit het besluit van de Minister ten aanzien van de strafoverdracht blijkt dat voor de aanvang van de advisering een verzoek van de levenslanggestrafte nodig is.
+
+4. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31) is van toepassing indien uit het besluit van de Minister ten aanzien van de strafoverdracht blijkt dat voor de beoordeling van de mogelijkheid van gratieverlening op het in dat besluit genoemde tijdstip een verzoek van de levenslanggestrafte nodig is en de levenslanggestrafte heeft nagelaten een dergelijk verzoek in te dienen.
+
+5. Uiterlijk drie jaar na het in het tweede lid bedoelde tijdstip wordt aan de hand van een voorstel tot gratieverlening als bedoeld in [artikel 19 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) de mogelijkheid tot gratieverlening beoordeeld.
 
 ##### Artikel 5. Bevoegdheden
 
@@ -164,7 +156,7 @@ De leden van het Adviescollege genieten vergoeding van reis- en verblijfskosten 
 
 ##### Artikel 12. Jaarbericht
 
-De voorzitter brengt elk tweede jaar voor 1 maart, te beginnen op 1 maart 2019, een tweejaarbericht uit over de algemene bevindingen van het Adviescollege naar aanleiding van de werkzaamheden van de voorafgaande twee jaren.
+De voorzitter brengt elk tweede jaar voor 1 maart, te beginnen op 1 maart 2019, een tweejaarbericht uit over de algemene bevindingen van het Adviescollege naar aanleiding van de werkzaamheden van de voorafgaande twee jaren.
 
 ##### Artikel 13. Citeertitel
 
@@ -172,26 +164,4 @@ Dit besluit wordt aangehaald als: Besluit Adviescollege levenslanggestraften.
 
 ##### Artikel 14. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 maart 2017.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-1. Op verzoek van de Minister brengt het Adviescollege het eerste advies bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), uit op een eerder tijdstip dan het in artikel 4, tweede lid bedoelde tijdstip in geval de tenuitvoerlegging van de in het buitenland opgelegde levenslange straf is overgedragen aan Nederland op grond van de [Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0031814) of op grond van de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028).
-
-2. Het eerste advies van het Adviescollege, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), wordt uitgebracht uiterlijk drie jaar voor het tijdstip van de beoordeling van de mogelijkheid tot gratieverlening dat is opgenomen in het besluit van de Minister ten aanzien van de strafoverdracht.
-
-3. Het eerste advies van het Adviescollege, bedoeld in [artikel 4, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), wordt uitgebracht uiterlijk drie jaar nadat de levenslanggestrafte bij de Minister een verzoek heeft ingediend indien uit het besluit van de Minister ten aanzien van de strafoverdracht blijkt dat voor de aanvang van de advisering een verzoek van de levenslanggestrafte nodig is.
-
-4. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31) is van toepassing indien uit het besluit van de Minister ten aanzien van de strafoverdracht blijkt dat voor de beoordeling van de mogelijkheid van gratieverlening op het in dat besluit genoemde tijdstip een verzoek van de levenslanggestrafte nodig is en de levenslanggestrafte heeft nagelaten een dergelijk verzoek in te dienen.
-
-5. Uiterlijk drie jaar na het in het tweede lid bedoelde tijdstip wordt aan de hand van een voorstel tot gratieverlening als bedoeld in [artikel 19 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) de mogelijkheid tot gratieverlening beoordeeld.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van 1 maart 2017.

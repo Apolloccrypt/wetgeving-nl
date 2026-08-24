@@ -1,56 +1,30 @@
 ---
 title: "Beleidsregels van de Staatssecretaris van Economische Zaken van 25 april 2016, nr. WJZ/16009144, houdende de regels betreffende het verstrekken van een tegemoetkoming aan beroepsvissers die schade hebben geleden als gevolg van het verbod op grond van artikel 5.10 van de Wet dieren (Beleidsregel tegemoetkoming visverbod voor het jaar 2015)"
+citeertitel: "Beleidsregel tegemoetkoming visverbod voor het jaar 2015"
 identifier: "BWBR0037899"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2016-05-03"
-last_updated: "2016-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037899"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "13492993"
-version_id: "23153512"
-internal_id: "C33457061"
-label_id: "13459914"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037899/2016-05-03/0"
-intitule_bron: "Stcrt.2016-23602"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-25"
-intitule_published: "2016-05-02"
-intitule_in_force: "2016-05-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-23602"
-original_signed_date: "2016-04-25"
-original_published_date: "2016-05-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-23602"
-entry_into_force_date: "2016-05-03"
-jci_1_3: "jci1.3:c:BWBR0037899&z=2016-05-03&g=2016-05-03"
-jci_1_0: "1.0:c:BWBR0037899&g=2016-05-03"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel tegemoetkoming visverbod voor het jaar 2015"
-signed_date: "2016-04-25"
-entry_into_force: "2016-05-03"
+publicatiedatum: 2016-05-03
+laatste_update: 2016-05-03
+status: geldig
+toestand: 2016-05-03
+bron: "https://wetten.overheid.nl/BWBR0037899"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregels van de Staatssecretaris van Economische Zaken van 25 april 2016, nr. WJZ/16009144, houdende de regels betreffende het verstrekken van een tegemoetkoming aan beroepsvissers die schade hebben geleden als gevolg van het verbod op grond van artikel 5.10 van de Wet dieren (Beleidsregel tegemoetkoming visverbod voor het jaar 2015)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregels wordt verstaan onder:
 
-- **afschrijving:** afschrijving als bedoeld in de [artikelen 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30) en [3.34 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.34);
+- *afschrijving:* afschrijving als bedoeld in de [artikelen 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30) en [3.34 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.34);
 
-- **de-minimisverordening:** Verordening (EU) nr. 717/2014 van de Commissie van 27 juni 2014 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de visserij- en aquacultuursector (PbEU 2014, L 190);
+- *de-minimisverordening:* Verordening (EU) nr. 717/2014 van de Commissie van 27 juni 2014 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de visserij- en aquacultuursector (PbEU 2014, L 190);
 
-- **Minister:** de Minister van Economische Zaken;
+- *Minister:* de Minister van Economische Zaken;
 
-- **netto jaarresultaat:** omzet verminderd met de vaste en de variabele kosten, voordat dit bedrag is verminderd met de verschuldigde inkomsten- en vennootschapsbelasting.
+- *netto jaarresultaat:* omzet verminderd met de vaste en de variabele kosten, voordat dit bedrag is verminderd met de verschuldigde inkomsten- en vennootschapsbelasting.
 
 ##### Artikel 2
 
@@ -127,5 +101,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel tegemoetkoming visverbod vo
 ##### Artikel 7
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

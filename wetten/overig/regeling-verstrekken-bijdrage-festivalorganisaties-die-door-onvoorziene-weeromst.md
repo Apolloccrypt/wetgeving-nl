@@ -1,35 +1,16 @@
 ---
 title: "Regeling verstrekken bijdrage festivalorganisaties die door onvoorziene weeromstandigheden in financiële nood komen (‘Slecht Weer Fonds’), Stichting Nederlands Fonds voor Podiumkunsten+"
 identifier: "BWBR0038369"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-07-27"
-last_updated: "2016-07-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038369"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13718153"
-version_id: "23505952"
-internal_id: "C33847641"
-label_id: "13684604"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038369/2016-07-27/0"
-intitule_bron: "Stcrt.2016-38386"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-07-26"
-intitule_in_force: "2016-07-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-38386"
-original_published_date: "2016-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-38386"
-entry_into_force_date: "2016-07-27"
-jci_1_3: "jci1.3:c:BWBR0038369&z=2016-07-27&g=2016-07-27"
-jci_1_0: "1.0:c:BWBR0038369&g=2016-07-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-07-27"
+publicatiedatum: 2016-07-27
+laatste_update: 2016-07-27
+status: geldig
+toestand: 2016-07-27
+bron: "https://wetten.overheid.nl/BWBR0038369"
+opgehaald: 2026-08-24
 ---
+
 # Regeling verstrekken bijdrage festivalorganisaties die door onvoorziene weeromstandigheden in financiële nood komen (‘Slecht Weer Fonds’), Stichting Nederlands Fonds voor Podiumkunsten+
 
 ### Inleiding
@@ -48,6 +29,16 @@ Het doel van het SWF is om te voorkomen dat de continuïteit van een festival in
 
 Een bijdrage wordt alleen verstrekt als:
 
+- 1. de festivalorganisatie als festival gesubsidieerd wordt door OCW of door een van de rijkscultuurfondsen voor een periode van minimaal drie jaar;
+
+- 2. aannemelijk is dat het tekort te wijten is aan onvoorziene weersomstandigheden;
+
+- 3. door het tekort de continuïteit van het festival gevaar loopt;
+
+- 4. de schade niet door een verzekering wordt gedekt (zoals schade aan eigendommen, schade van bezoekers etc.) en
+
+- 5. er een herstelplan is dat voldoende uitzicht geeft op continuïteit van het festival.
+
 ### Bedragen
 
 Startkapitaal van het SWF is 500.000 euro. Het bedrag wordt revolverend ingezet, wat wil zeggen dat terugbetaalde bedragen terugvloeien in het SWF.
@@ -65,5 +56,3 @@ Festivalorganisaties die aanspraak willen maken op een bijdrage uit het SWF kunn
 ### Tot slot
 
 Het bestuur kan in bijzondere omstandigheden een bijdrage toekennen hoewel niet voldaan is aan een of meer eisen uit deze regeling, als daarmee een bijdrage wordt geleverd aan het doel dat deze regeling beoogt.
-
-Deze regeling treedt in werking met ingang van de dag na publicatie in de Staatscourant.

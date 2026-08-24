@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende voorwaarden voor het gebruik van het RDW- Tellerstandbeeldmerk, ter bestrijding van fraude met tellerstanden (Regeling gebruik Tellerstandbeeldmerk RDW), 1 november 2016, kenmerk JBZ2016/12200"
+citeertitel: "Regeling gebruik Tellerstandbeeldmerk RDW"
 identifier: "BWBR0038652"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-11-01"
-last_updated: "2016-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038652"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "13777393"
-version_id: "23626602"
-internal_id: "C34002301"
-label_id: "13743624"
-dtd_version: "2.0"
-original_entry_into_force: "2016-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038652/2016-11-01/0"
-intitule_bron: "Stcrt.2016-56589"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-11-01"
-intitule_published: "2016-11-01"
-intitule_in_force: "2016-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-56589"
-original_signed_date: "2016-11-01"
-original_published_date: "2016-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-56589"
-entry_into_force_date: "2016-11-01"
-jci_1_3: "jci1.3:c:BWBR0038652&z=2016-11-01&g=2016-11-01"
-jci_1_0: "1.0:c:BWBR0038652&g=2016-11-01"
-citeertitel_status: "officieel"
-short_title: "Regeling gebruik Tellerstandbeeldmerk RDW"
-signed_date: "2016-11-01"
-entry_into_force: "2016-11-01"
+publicatiedatum: 2016-11-01
+laatste_update: 2016-11-01
+status: geldig
+toestand: 2016-11-01
+bron: "https://wetten.overheid.nl/BWBR0038652"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende voorwaarden voor het gebruik van het RDW- Tellerstandbeeldmerk, ter bestrijding van fraude met tellerstanden (Regeling gebruik Tellerstandbeeldmerk RDW), 1 november 2016, kenmerk JBZ2016/12200
-
-Gelet op [artikel 4b, eerste lid, onderdeel h. en onderdeel i. van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze Regeling wordt verstaan onder:
 
-- **Tellerstandbeeldmerk:** het beeldmerk opgenomen in de bijlage bij deze regeling.
+- *Tellerstandbeeldmerk:* het beeldmerk opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0038652) bij deze regeling.
 
-- **Tellerstandoordeel:** het oordeel van de RDW omtrent de logica van een tellerstand op grond van de met betrekking tot een voertuig in het kentekenregister geregistreerde tellerstanden, dat kan inhouden het oordeel: **‘Logisch’:** de vaststelling door de RDW dat de reeks in het kentekenregister geregistreerde tellerstanden van een voertuig in tijd oplopend en daardoor logisch verklaarbaar is dan wel, **‘Onlogisch’**: de vaststelling door de RDW dat de reeks in het kentekenregister geregistreerde tellerstanden van een voertuig niet in tijd oplopend is dan wel, **‘Geen oordeel’:** de vaststelling door de RDW dat op grond van ontbrekende informatie over het voertuig niet kan worden beoordeeld of een tellerstand logisch verklaarbaar is.
+- *Tellerstandoordeel:* het oordeel van de RDW omtrent de logica van een tellerstand op grond van de met betrekking tot een voertuig in het kentekenregister geregistreerde tellerstanden, dat kan inhouden het oordeel: *‘Logisch’:* de vaststelling door de RDW dat de reeks in het kentekenregister geregistreerde tellerstanden van een voertuig in tijd oplopend en daardoor logisch verklaarbaar is dan wel, *‘Onlogisch’*: de vaststelling door de RDW dat de reeks in het kentekenregister geregistreerde tellerstanden van een voertuig niet in tijd oplopend is dan wel, *‘Geen oordeel’:* de vaststelling door de RDW dat op grond van ontbrekende informatie over het voertuig niet kan worden beoordeeld of een tellerstand logisch verklaarbaar is.
 
-- **Toelichting:** de toelichting die bij het tellerstandoordeel door de RDW aan de aanvrager wordt verstrekt.
+- *Toelichting:* de toelichting die bij het tellerstandoordeel door de RDW aan de aanvrager wordt verstrekt.
 
 ##### Artikel 2. Beeldmerk
 
-1. De RDW is rechthebbend op het in de bijlage opgenomen tellerstandbeeldmerk en bij uitsluiting bevoegd om het gebruik door derden toe te staan. Ieder ander gebruik dan bij deze regeling toegestaan is verboden.
+1. De RDW is rechthebbend op het in de [bijlage](https://wetten.overheid.nl/BWBR0038652) opgenomen tellerstandbeeldmerk en bij uitsluiting bevoegd om het gebruik door derden toe te staan. Ieder ander gebruik dan bij deze regeling toegestaan is verboden.
 
-2. Het beeldmerk mag uitsluitend worden gebruikt in de in de bijlage voorgeschreven kleuren.
+2. Het beeldmerk mag uitsluitend worden gebruikt in de in de [bijlage](https://wetten.overheid.nl/BWBR0038652) voorgeschreven kleuren.
 
 ##### Artikel 3. Aanvraag tellerstandoordeel
 
@@ -93,7 +67,3 @@ Deze regeling is van overeenkomstige toepassing op intermediairs die voertuigen 
 1. De aanvraag van een tellerstandoordeel kan gedurende een door de RDW te bepalen periode worden geweigerd als is gebleken dat de aanvrager de voorschriften van deze regeling verwijtbaar niet heeft nageleefd.
 
 2. Door de aanvraag van een tellerstandoordeel is de RDW gerechtigd om in geval van niet naleving van deze regeling de aanvrager op te nemen in een op zijn website te publiceren lijst van overtreders.
-
-## Bijlage
-
-Deze regeling kan worden aangehaald als de Regeling gebruik Tellerstandbeeldmerk RDW, en treedt in werking op de datum van publicatie in de Staatscourant.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 9 december 2016 betreffende de opleiding van rechters en officieren van justitie (Besluit opleiding rechters en officieren van justitie)"
+citeertitel: "Besluit opleiding rechters en officieren van justitie"
 identifier: "BWBR0038892"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038892"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13826923"
-version_id: "23729962"
-internal_id: "C34152571"
-label_id: "13792594"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038892/2017-01-01/0"
-intitule_bron: "Stb.2016-502"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-09"
-intitule_published: "2016-12-16"
-intitule_in_force: "2016-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2016-502"
-original_signed_date: "2016-12-09"
-original_published_date: "2016-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-502"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038892&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038892&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleiding rechters en officieren van justitie"
-signed_date: "2016-12-09"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038892"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 9 december 2016 betreffende de opleiding van rechters en officieren van justitie (Besluit opleiding rechters en officieren van justitie)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 10 augustus 2016, nr.785326;
-
-Gelet op de [artikelen 5d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5d), [5f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f) en [54 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54) en [artikel 145, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 14 september 2016, nr.W03.16.0225/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie, Directie wetgeving en Juridische Zaken van 5 december 2016, nr. 2001324;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsomschrijvingen
 
@@ -52,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- –. **Betrokkene:** degene die benoembaar is als rechter in opleiding of officier in opleiding;
+- – *Betrokkene:* degene die benoembaar is als rechter in opleiding of officier in opleiding;
 
-- –. **Opleiding:** de opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038892&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01).
+- – *Opleiding:* de opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038892&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01).
 
 #### § 2. De opleiding
 
@@ -100,7 +68,7 @@ Onze Minister, indien het een opleiding tot officier van justitie betreft, respe
 
 ##### Artikel 9
 
-Indien Onze Minister, indien het een officier in opleiding betreft, respectievelijk het gerechtsbestuur, indien het een rechter in opleiding betreft, in de loop van de opleiding op grond van een beoordeling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038892&paragraaf=4&artikel=8&z=2017-01-01&g=2017-01-01), dan wel op andere gronden tot het oordeel komt dat de opleiding niet met gunstig resultaat zal kunnen worden afgesloten of de officier in opleiding respectievelijk de rechter in opleiding niet geschikt is voor de functie waartoe hij wordt opgeleid, beëindigt hij diens opleiding, met inachtneming van de in [artikel 2da, derde lid, van het Besluit rechtspositie rechterlijke ambtenaren](onbekend) bedoelde verlengingsduur.
+Indien Onze Minister, indien het een officier in opleiding betreft, respectievelijk het gerechtsbestuur, indien het een rechter in opleiding betreft, in de loop van de opleiding op grond van een beoordeling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038892&paragraaf=4&artikel=8&z=2017-01-01&g=2017-01-01), dan wel op andere gronden tot het oordeel komt dat de opleiding niet met gunstig resultaat zal kunnen worden afgesloten of de officier in opleiding respectievelijk de rechter in opleiding niet geschikt is voor de functie waartoe hij wordt opgeleid, beëindigt hij diens opleiding, met inachtneming van de in artikel 2da, derde lid, van het Besluit rechtspositie rechterlijke ambtenaren bedoelde verlengingsduur.
 
 ##### Artikel 10
 
@@ -137,5 +105,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit opleiding rechters en officieren van justitie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 augustus 2016, nr. 2016-0000466322, houdende regels inzake bijzondere uitkeringen voor de verbetering van de positie van kinderen in Caribisch Nederland (Regeling bijzondere uitkering kinderrechten BES)"
+citeertitel: "Regeling bijzondere uitkering kinderrechten BES"
 identifier: "BWBR0038430"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2016-08-25"
-last_updated: "2016-08-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038430"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "13735793"
-version_id: "23543062"
-internal_id: "C33898431"
-label_id: "13702054"
-dtd_version: "2.0"
-original_entry_into_force: "2016-08-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038430/2016-08-25/0"
-intitule_bron: "Stcrt.2016-44222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-08-16"
-intitule_published: "2016-08-24"
-intitule_in_force: "2016-08-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-44222"
-original_signed_date: "2016-08-16"
-original_published_date: "2016-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-44222"
-entry_into_force_date: "2016-08-25"
-jci_1_3: "jci1.3:c:BWBR0038430&z=2016-08-25&g=2016-08-25"
-jci_1_0: "1.0:c:BWBR0038430&g=2016-08-25"
-citeertitel_status: "officieel"
-short_title: "Regeling bijzondere uitkering kinderrechten BES"
-signed_date: "2016-08-16"
-entry_into_force: "2016-08-25"
+publicatiedatum: 2016-08-25
+laatste_update: 2016-08-25
+status: geldig
+toestand: 2016-08-25
+bron: "https://wetten.overheid.nl/BWBR0038430"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 augustus 2016, nr. 2016-0000466322, houdende regels inzake bijzondere uitkeringen voor de verbetering van de positie van kinderen in Caribisch Nederland (Regeling bijzondere uitkering kinderrechten BES)
-
-Gelet op [artikel 92, vijfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **bijzondere uitkering kinderrechten:** eenmalige bijzondere uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25);
+- a. *bijzondere uitkering kinderrechten:* eenmalige bijzondere uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25);
 
-- b. **project:** project als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25).
+- b. *project:* project als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25).
 
 ##### Artikel 2. Doel bijzondere uitkering kinderrechten
 
@@ -149,5 +123,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bijzondere uitkering kinderrechten BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

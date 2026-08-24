@@ -1,48 +1,26 @@
 ---
 title: "Besluit van 23 augustus 2016, houdende eisen opleiding ter voorbereiding op het beroep van gerechtsdeurwaarder, alsmede regeling van het maximum aantal kandidaat-gerechtsdeurwaarders dat ten behoeve van zijn stage onder verantwoordelijkheid van één gerechtsdeurwaarder werkzaam kan zijn (Besluit opleiding en stage gerechtsdeurwaardersambt)"
+citeertitel: "Besluit opleiding en stage gerechtsdeurwaardersambt"
 identifier: "BWBR0038475"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-09-06"
-last_updated: "2016-09-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038475"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13743733"
-version_id: "23556752"
-internal_id: "C33914851"
-label_id: "13709964"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038475/2016-09-06/0"
-intitule_bron: "Stb.2016-311"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-08-23"
-intitule_published: "2016-09-05"
-intitule_in_force: "2016-09-05"
-intitule_status: "goed"
-original_publication: "Stb.2016-311"
-original_signed_date: "2016-08-23"
-original_published_date: "2016-09-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-311"
-entry_into_force_date: "2016-09-06"
-jci_1_3: "jci1.3:c:BWBR0038475&z=2016-09-06&g=2016-09-06"
-jci_1_0: "1.0:c:BWBR0038475&g=2016-09-06"
-citeertitel_status: "redactioneel"
-short_title: "Besluit opleiding en stage gerechtsdeurwaardersambt"
-signed_date: "2016-08-23"
-entry_into_force: "2016-09-06"
+publicatiedatum: 2016-09-06
+laatste_update: 2016-09-06
+status: geldig
+toestand: 2016-09-06
+bron: "https://wetten.overheid.nl/BWBR0038475"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 23 augustus 2016, houdende eisen opleiding ter voorbereiding op het beroep van gerechtsdeurwaarder, alsmede regeling van het maximum aantal kandidaat-gerechtsdeurwaarders dat ten behoeve van zijn stage onder verantwoordelijkheid van één gerechtsdeurwaarder werkzaam kan zijn (Besluit opleiding en stage gerechtsdeurwaardersambt)
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- –. **de wet:** de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197);
+- – *de wet:* de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197);
 
-- –. **stagiair:** degene voor wie een stageverplichting in de zin van [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=26) geldt.
+- – *stagiair:* degene voor wie een stageverplichting in de zin van [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=26) geldt.
 
 ##### Artikel 2
 
@@ -95,15 +73,3 @@ De erkende opleiding meldt aan de KBvG bij welke gerechtsdeurwaarder een stagiai
 ##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038475&artikel=7&z=2016-09-06&g=2016-09-06), werkt terug tot en met 1 juli 2016.
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 27 juni 2016, nr. 777640;
-
-Gelet op de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=25a) en [25b, derde lid, van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=25b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 juli 2016, nr. W03.16.0166/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 12 augustus 2016, nr.784232;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

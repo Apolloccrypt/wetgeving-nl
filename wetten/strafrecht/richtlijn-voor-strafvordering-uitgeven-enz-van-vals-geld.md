@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering uitgeven enz. van vals geld"
 identifier: "BWBR0038904"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038904"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "13828863"
-version_id: "23733642"
-internal_id: "C34157311"
-label_id: "13794344"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038904/2017-01-01/0"
-intitule_bron: "Stcrt.2016-67385"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-21"
-intitule_in_force: "2016-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-67385"
-original_published_date: "2016-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-67385"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038904&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038904&g=2017-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038904"
+opgehaald: 2026-08-24
 ---
+
 # Richtlijn voor strafvordering uitgeven enz. van vals geld
 
 ### Beschrijving
@@ -42,11 +23,26 @@ Bij [artikel 209 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=209
 
 Uitgeven, in voorraad hebben enz. van zelf vervalst biljet, of uitgeven van biljet met bekendheid van valsheid bij verkrijging ([art 209 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=209))
 
+| Totaal bedrag valse biljetten | first offender | 1 x recidive | meermalen recidive |
+| --- | --- | --- | --- |
+| € 5–100 | GS 4 mnd* | GS 6 mnd | GS 8–12 mnd ov |
+| € 100–500 | GS 6 mnd | GS 9 mnd | GS 10–14 mnd ov |
+| € 500–5.000 | GS 10 mnd | GS 15 mnd | GS 18–24 mnd ov |
+
 ### Basiscasus/delict
 
 Uitgeven van een vals biljet, dat te goeder trouw was ontvangen ([art 213 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=213))
 
-**Afkortingen**
+| Totaal bedrag valse biljetten | first offender |  | 1 x recidive* | meermalen recidive |
+| --- | --- | --- | --- | --- |
+| € 5–100 | TS 60 uur | 5j 2j | TS 90 uur Idem of GS 6 wkn | GS 2 mnd ov |
+| € 100–500 | TS 80 uur | 5j 2j | TS 120 uur Idem of GS 2 mnd | GS 11 wkn ov |
+| € 500–5.000 | TS 120 uur | 5j 2j | Eis TS 180 uur + GS 1 mnd vw Idem of GS 4 mnd waarvan 1 vw | GS 4 mnd ov |
+| Bijzonderheden: Toelichting bij verschil in strafmaat: Bij artikel 209 gaat het om echte vervalsers die er aan beginnen om er beter van te worden. Bij 213kan het ook gaan om mensen die er achter komen dat ze een vals briefje hebben teruggekregen en het vervolgens uitgeven om de schade te ontlopen. * Let op eventueel taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader |  |  |  |  |
+
+Legenda
+
+*Afkortingen*
 
 GB = Geldboete
 

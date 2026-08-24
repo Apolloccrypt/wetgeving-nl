@@ -1,75 +1,46 @@
 ---
 title: "Wet van 25 mei 2016, houdende regels met betrekking tot het op de markt brengen en het gebruik van precursoren voor explosieven (Wet precursoren voor explosieven)"
+citeertitel: "Wet precursoren voor explosieven"
 identifier: "BWBR0037995"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037995"
+categorie: "Overig"
 soort: "wet"
-stam_id: "13600113"
-version_id: "23273852"
-internal_id: "C33585961"
-label_id: "13567034"
-dtd_version: "2.0"
-original_entry_into_force: "2016-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037995/2021-07-01/0"
-intitule_bron: "Stb.2016-200"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-25"
-intitule_published: "2016-05-31"
-intitule_in_force: "2016-05-31"
-intitule_status: "goed"
-original_publication: "Stb.2016-200"
-original_signed_date: "2016-05-25"
-original_published_date: "2016-05-31"
-original_effect: "nieuwe-regeling"
-original_dossier: "34289"
-original_url_id: "stb-2016-200"
-entry_into_force_date: "2016-06-01"
-jci_1_3: "jci1.3:c:BWBR0037995&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0037995&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet precursoren voor explosieven"
-signed_date: "2016-05-25"
-entry_into_force: "2016-06-01"
+publicatiedatum: 2016-06-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0037995"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 25 mei 2016, houdende regels met betrekking tot het op de markt brengen en het gebruik van precursoren voor explosieven (Wet precursoren voor explosieven)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is in verband met de uitvoering van de verordening (EU) nr. 98/2013 van het Europees Parlement en de Raad van 15 januari 2013, over het op de markt brengen en het gebruik van precursoren voor explosieven (PbEU 2013, L 39) bij de wet regels te stellen ten aanzien van het aanbieden, binnenbrengen, voorhanden hebben en gebruiken van stoffen of mengsels die kunnen worden misbruikt voor de illegale vervaardiging van explosieven, ten aanzien van vergunningverlening aan particulieren daaromtrent alsmede ten aanzien van het toezicht op de naleving en de handhaving van de bepalingen van de verordening;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanbieden:** aanbieden als bedoeld in artikel 3, punt vier, van de verordening;
+- – *aanbieden:* aanbieden als bedoeld in artikel 3, punt vier, van de verordening;
 
-- –. **gebruik:** gebruik als bedoeld in artikel 3, punt zes, van de verordening;
+- – *gebruik:* gebruik als bedoeld in artikel 3, punt zes, van de verordening;
 
-- –. **gereguleerde precursor voor explosieven:** een precursor voor explosieven als bedoeld in artikel 3, punt dertien, van de verordening;
+- – *gereguleerde precursor voor explosieven:* een precursor voor explosieven als bedoeld in artikel 3, punt dertien, van de verordening;
 
-- –. **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, punt tien, van de verordening;
+- – *marktdeelnemer:* marktdeelnemer als bedoeld in artikel 3, punt tien, van de verordening;
 
-- –. **onlinemarktplaats:** onlinemarktplaats als bedoeld in artikel 3, punt 11, van de verordening;
+- – *onlinemarktplaats:* onlinemarktplaats als bedoeld in artikel 3, punt 11, van de verordening;
 
-- –. **Onze Minister:** Onze Minister van Justitie en Veiligheid;
+- – *Onze Minister:* Onze Minister van Justitie en Veiligheid;
 
-- –. **particulier:** een particulier als bedoeld in artikel 3, punt acht, van de verordening;
+- – *particulier:* een particulier als bedoeld in artikel 3, punt acht, van de verordening;
 
-- –. **persoonsgegevens, verwerking van persoonsgegevens, onderscheidenlijk verantwoordelijke:** hetgeen daaronder wordt verstaan in artikel 4, aanhef en onder 1, 2 en 7, van de Algemene verordening gegevensbescherming;
+- – *persoonsgegevens, verwerking van persoonsgegevens, onderscheidenlijk verantwoordelijke:* hetgeen daaronder wordt verstaan in artikel 4, aanhef en onder 1, 2 en 7, van de Algemene verordening gegevensbescherming;
 
-- –. **precursor voor explosieven waarvoor een beperking geldt:** een precursor voor explosieven waarvoor een beperking geldt als bedoeld in artikel 3, punt twaalf, van de verordening, alsmede een krachtens artikel 2, tweede lid, van deze wet daartoe aangewezen precursor voor explosieven;
+- – *precursor voor explosieven waarvoor een beperking geldt:* een precursor voor explosieven waarvoor een beperking geldt als bedoeld in artikel 3, punt twaalf, van de verordening, alsmede een krachtens artikel 2, tweede lid, van deze wet daartoe aangewezen precursor voor explosieven;
 
-- –. **precursor voor explosieven waarvoor een meldplicht geldt:** precursor voor explosieven waarvoor een meldplicht geldt als bedoeld in artikel 9, eerste, tweede, en vierde tot en met zesde lid, van de verordening, alsmede een krachtens artikel 2, tweede lid, van deze wet daartoe aangewezen precursor voor explosieven;
+- – *precursor voor explosieven waarvoor een meldplicht geldt:* precursor voor explosieven waarvoor een meldplicht geldt als bedoeld in artikel 9, eerste, tweede, en vierde tot en met zesde lid, van de verordening, alsmede een krachtens artikel 2, tweede lid, van deze wet daartoe aangewezen precursor voor explosieven;
 
-- –. **vergunning:** een vergunning als bedoeld in artikel 5, derde lid, van de verordening;
+- – *vergunning:* een vergunning als bedoeld in artikel 5, derde lid, van de verordening;
 
-- –. **verordening:** Verordening (EU) 2019/1148 van het Europees Parlement en de Raad van 20 juni 2019 over het op de markt brengen en het gebruik van precursoren voor explosieven, tot wijziging van Verordening (EG) nr. 1907/2006 en tot intrekking van Verordening (EU) nr. 98/2013 (PbEU 2019, L 186).
+- – *verordening:* Verordening (EU) 2019/1148 van het Europees Parlement en de Raad van 20 juni 2019 over het op de markt brengen en het gebruik van precursoren voor explosieven, tot wijziging van Verordening (EG) nr. 1907/2006 en tot intrekking van Verordening (EU) nr. 98/2013 (PbEU 2019, L 186).
 
 ##### Artikel 2
 
@@ -147,7 +118,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de voorschriften van of beperkingen aan de vergunning niet in acht zijn genomen; of
 
-- d. niet is voldaan aan het eerste lid dan wel een vordering als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+- d. niet is voldaan aan het eerste lid dan wel een vordering als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
 3. In de situatie, bedoeld in artikel 6, vijfde lid, laatste zin, van de verordening, treedt een besluit tot schorsing of intrekking van de vergunning in werking op de dag dat het is genomen. [Artikel 3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) blijft in zoverre buiten toepassing. De bekendmaking van de schorsing of intrekking vindt onverwijld plaats zodra voormelde situatie zich niet langer voordoet.
 
@@ -179,35 +150,35 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 ##### Artikel 12
 
-1. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, verstrekt op verzoek van de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), de persoonsgegevens bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) en [4, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
+1. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, verstrekt op verzoek van de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), de persoonsgegevens bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) en [4, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
 
-2. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, verstrekt op verzoek van de commandant van de Koninklijke marechaussee de persoonsgegevens bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak door de Koninklijke marechaussee als bedoeld in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
+2. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, verstrekt op verzoek van de commandant van de Koninklijke marechaussee de persoonsgegevens bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), dan wel andere gegevens of bescheiden ten behoeve van de goede uitvoering van de politietaak door de Koninklijke marechaussee als bedoeld in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
 
 ##### Artikel 13
 
-1. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, ontvangt de persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), dan wel andere gegevens of bescheiden ten behoeve van een doelmatige en doeltreffende uitvoering van deze wet, van:
+1. Onze Minister, of een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, ontvangt de persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), dan wel andere gegevens of bescheiden ten behoeve van een doelmatige en doeltreffende uitvoering van deze wet, van:
 
 - a. de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), dan wel
 
-- b. de commandant van de Koninklijke marechaussee ten behoeve van de goede uitoefening van de politietaak, bedoeld in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
+- b. de commandant van de Koninklijke marechaussee ten behoeve van de goede uitoefening van de politietaak, bedoeld in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
 
-2. Andere bestuursorganen zijn bevoegd uit eigen beweging en desgevraagd verplicht aan Onze Minister, onderscheidenlijk een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, de persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), dan wel andere gegevens of bescheiden te verstrekken die noodzakelijk zijn voor de uitvoering van en het toezicht op de naleving van deze wet.
+2. Andere bestuursorganen zijn bevoegd uit eigen beweging en desgevraagd verplicht aan Onze Minister, onderscheidenlijk een krachtens deze wet of bij de [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aangewezen toezichthouder, de persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), dan wel andere gegevens of bescheiden te verstrekken die noodzakelijk zijn voor de uitvoering van en het toezicht op de naleving van deze wet.
 
 ##### Artikel 14
 
 1. Ten behoeve van de doelmatige en doeltreffende uitvoering van deze wet worden persoonsgegevens verwerkt. Onze Minister is de verwerkingsverantwoordelijke.
 
-2. De persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), en de bescheiden en gegevens die op grond van artikel 5, tweede lid, onderdeel c, zijn verstrekt, worden drie jaar bewaard, ook indien de vergunning wordt geweigerd.
+2. De persoonsgegevens, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5&z=2021-07-01&g=2021-07-01), en de bescheiden en gegevens die op grond van artikel 5, tweede lid, onderdeel c, zijn verstrekt, worden drie jaar bewaard, ook indien de vergunning wordt geweigerd.
 
-3. De persoonsgegevens dan wel andere gegevens of bescheiden die door de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=10&z=2021-07-01&g=2021-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=16&z=2021-07-01&g=2021-07-01) met het toezicht belaste ambtenaren verkregen zijn bij de uitoefening van hun taak, worden maximaal vijf jaar bewaard.
+3. De persoonsgegevens dan wel andere gegevens of bescheiden die door de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=10&z=2021-07-01&g=2021-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=16&z=2021-07-01&g=2021-07-01) met het toezicht belaste ambtenaren verkregen zijn bij de uitoefening van hun taak, worden maximaal vijf jaar bewaard.
 
 ##### Artikel 15
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 16
 
-Wijzigt de Algemene Douanewet.
+*Wijzigt de Algemene Douanewet.*
 
 ##### Artikel 17
 
@@ -216,5 +187,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 18
 
 Deze wet wordt aangehaald als: Wet precursoren voor explosieven.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

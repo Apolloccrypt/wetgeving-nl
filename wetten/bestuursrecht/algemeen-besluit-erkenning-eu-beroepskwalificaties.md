@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 september 2016 tot vaststelling van het Algemeen besluit erkenning EU-beroepskwalificaties in verband met de implementatie van Richtlijn 2013/55/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 tot wijziging van Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties en Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt («de IMI-verordening») en de uitvoering van Uitvoeringsverordening (EU) 2015/983 van de Commissie van 24 juni 2015 betreffende de procedure voor de afgifte van de Europese beroepskaart en de toepassing van het waarschuwingsmechanisme overeenkomstig Richtlijn 2005/36/EG van het Europees Parlement en de Raad alsmede tot wijziging van enkele besluiten (Algemeen besluit erkenning EU-beroepskwalificaties)"
+citeertitel: "Algemeen besluit erkenning EU-beroepskwalificaties"
 identifier: "BWBR0038602"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-07-28"
-last_updated: "2018-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038602"
+categorie: "Internationaal recht"
 soort: "AMvB"
-stam_id: "13765623"
-version_id: "23603312"
-internal_id: "C33974621"
-label_id: "13732544"
-dtd_version: "2.0"
-original_entry_into_force: "2016-10-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038602/2018-07-28/0"
-intitule_bron: "Stb.2016-354"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-27"
-intitule_published: "2016-10-10"
-intitule_in_force: "2016-10-10"
-intitule_status: "goed"
-original_publication: "Stb.2016-354"
-original_signed_date: "2016-09-27"
-original_published_date: "2016-10-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-354"
-entry_into_force_date: "2016-10-11"
-jci_1_3: "jci1.3:c:BWBR0038602&z=2018-07-28&g=2018-07-28"
-jci_1_0: "1.0:c:BWBR0038602&g=2018-07-28"
-citeertitel_status: "officieel"
-short_title: "Algemeen besluit erkenning EU-beroepskwalificaties"
-signed_date: "2016-09-27"
-entry_into_force: "2016-10-11"
+publicatiedatum: 2016-10-11
+laatste_update: 2018-07-28
+status: geldig
+toestand: 2018-07-28
+bron: "https://wetten.overheid.nl/BWBR0038602"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 27 september 2016 tot vaststelling van het Algemeen besluit erkenning EU-beroepskwalificaties in verband met de implementatie van Richtlijn 2013/55/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 tot wijziging van Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties en Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt («de IMI-verordening») en de uitvoering van Uitvoeringsverordening (EU) 2015/983 van de Commissie van 24 juni 2015 betreffende de procedure voor de afgifte van de Europese beroepskaart en de toepassing van het waarschuwingsmechanisme overeenkomstig Richtlijn 2005/36/EG van het Europees Parlement en de Raad alsmede tot wijziging van enkele besluiten (Algemeen besluit erkenning EU-beroepskwalificaties)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 10 juni 2016, nr. WJZ/1002604 (6720), directie Wetgeving en Juridische Zaken;
-
-Gelet op [Richtlijn 2013/55](32013L0055)/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 tot wijziging van [Richtlijn 2005/36/EG](32005L0036) betreffende de erkenning van beroepskwalificaties en Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt («de IMI-verordening») alsmede Uitvoeringsverordening (EU) 2015/983 van de Commissie van 24 juni 2015 betreffende de procedure voor de afgifte van de Europese beroepskaart en de toepassing van het waarschuwingsmechanisme overeenkomstig [Richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad, en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30a), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30b), [31a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a), [31b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), en [31c, vijfde lid van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31c), [artikel 20, vierde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), [artikelen 1.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50b), [1.56b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b), en [2.8 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.8), [artikel 4:9, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [artikel 71, tweede lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=71), [artikel 69, vijfde lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=69), en [artikelen 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=87a) en [87b van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=87b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 juli 2016, nr. WO5.16.0149/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van, 23 september 2016, nr. WJZ/1050534 (6720), directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,17 +20,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **de wet:** de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- *de wet:* de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- **IMI-bestand:** individueel dossier van een migrerende beroepsbeoefenaar, aangemaakt in het IMI in het kader van een aanvraag voor een Europese beroepskaart;
+- *IMI-bestand:* individueel dossier van een migrerende beroepsbeoefenaar, aangemaakt in het IMI in het kader van een aanvraag voor een Europese beroepskaart;
 
-- **Uitvoeringsverordening (EU) 2015/983:** Uitvoeringsverordening (EU) 2015/983 van de Commissie van 24 juni 2015 betreffende de procedure voor de afgifte van de Europese beroepskaart en de toepassing van het waarschuwingsmechanisme overeenkomstig [Richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad.
+- *Uitvoeringsverordening (EU) 2015/983:* Uitvoeringsverordening (EU) 2015/983 van de Commissie van 24 juni 2015 betreffende de procedure voor de afgifte van de Europese beroepskaart en de toepassing van het waarschuwingsmechanisme overeenkomstig Richtlijn 2005/36/EG van het Europees Parlement en de Raad.
 
 ### Hoofdstuk 2. Europese beroepskaart
 
-## Titel 2.1. Europese beroepskaart voor beroepsuitoefening in Nederland
+### Titel 2.1. Europese beroepskaart voor beroepsuitoefening in Nederland
 
-### Afdeling 2.1.1. Europese beroepskaart bij vestiging in Nederland
+#### Afdeling 2.1.1. Europese beroepskaart bij vestiging in Nederland
 
 ##### Artikel 2. Aanvraag inkomend vestiger
 
@@ -98,11 +66,11 @@ Onze minister die het aangaat verzoekt niet om documenten die reeds zijn opgenom
 
 Indien Onze minister die het aangaat op grond van deze afdeling beslist tot afgifte van een Europese beroepskaart, geldt dit besluit als een besluit tot het verlenen van erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5).
 
-### Afdeling 2.1.2. Europese beroepskaart bij tijdelijke en incidentele dienstverrichting in Nederland
+#### Afdeling 2.1.2. Europese beroepskaart bij tijdelijke en incidentele dienstverrichting in Nederland
 
 #### § 2.1.2.1. Dienstverrichting
 
-##### Artikel 5. Toepasselijkheid van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) op inkomend dienstverrichter met beroepskaart
+##### Artikel 5. Toepasselijkheid van de wet op inkomend dienstverrichter met beroepskaart
 
 1. Op de dienstverrichter, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21), die in het bezit is van een Europese beroepskaart die is afgegeven door een andere betrokken staat met het oog op tijdelijke en incidentele dienstverrichting in Nederland op grond van artikel 4 quater van de richtlijn, is [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3) van overeenkomstige toepassing, met uitzondering van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28).
 
@@ -132,7 +100,7 @@ Indien Onze minister die het aangaat op grond van deze afdeling beslist tot afgi
 
 5. Indien Onze minister die het aangaat na een besluit als bedoeld in [artikel 28, eerste lid, onderdeel b, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28), om van de dienstverrichter een proeve van bekwaamheid te verlangen, er niet in slaagt binnen een maand na dat besluit een proeve van bekwaamheid te organiseren, wordt de Europese beroepskaart geacht van rechtswege te zijn afgegeven.
 
-##### Artikel 8. Verlenging beroepskaart inkomende dienstverrichter [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=6&z=2018-07-28&g=2018-07-28)
+##### Artikel 8. Verlenging beroepskaart inkomende dienstverrichter artikel 6
 
 1. Een op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=6&z=2018-07-28&g=2018-07-28), j° [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28) afgegeven Europese beroepskaart is twaalf maanden geldig. De dienstverrichter aan wie door Onze minister die het aangaat een Europese beroepskaart is afgegeven, kan een aanvraag voor verlenging van de Europese beroepskaart indienen bij Onze minister die het aangaat.
 
@@ -140,11 +108,11 @@ Indien Onze minister die het aangaat op grond van deze afdeling beslist tot afgi
 
 3. In het geval, bedoeld in het eerste lid, verschaft de dienstverrichter aan Onze minister die het aangaat alle informatie omtrent wezenlijke veranderingen met betrekking tot de documenten die de dienstverrichter in het kader van de aanvraag, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.1&afdeling=2.1.2&paragraaf=2.1.2.2&artikel=6&z=2018-07-28&g=2018-07-28), heeft ingediend bij de bevoegde autoriteit in de andere betrokken staat op grond van artikel 4 ter, tweede lid, van de richtlijn j° artikel 10, eerste lid, tweede alinea, van Uitvoeringsverordening (EU) 2015/983 dan wel bij Onze minister die het aangaat ingevolge de artikelen 12, tweede lid, 15, vierde lid en 18, tweede lid van Uitvoeringsverordening (EU) 2015/983.
 
-## Titel 2.2. Europese beroepskaart voor beroepsuitoefening in een andere betrokken staat
+### Titel 2.2. Europese beroepskaart voor beroepsuitoefening in een andere betrokken staat
 
-### Afdeling 2.2.1. Europese beroepskaart bij vestiging in een andere betrokken staat
+#### Afdeling 2.2.1. Europese beroepskaart bij vestiging in een andere betrokken staat
 
-##### Artikel 9. Begripsbepaling [afdeling 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&z=2018-07-28&g=2018-07-28)
+##### Artikel 9. Begripsbepaling afdeling 2.2.1
 
 In deze afdeling wordt onder uitgaande beroepsbeoefenaar verstaan een migrerende beroepsbeoefenaar die in een andere betrokken staat dan Nederland toegang tot of uitoefening van hetzelfde, aldaar gereglementeerde beroep wenst.
 
@@ -158,7 +126,7 @@ Indien voor een beroep een Europese beroepskaart is ingevoerd, kan de uitgaande 
 
 - c. niet in Nederland of in een andere betrokken staat is gevestigd als bedoeld in onderdeel a, en in Nederland een beroepservaring van ten minste drie jaar heeft opgedaan in het betrokken beroep op basis van een in een derde land afgegeven opleidingstitel als bedoeld in artikel 2, tweede lid, van de richtlijn.
 
-##### Artikel 11. Toepasselijkheid procedure [hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2)
+##### Artikel 11. Toepasselijkheid procedure hoofdstuk 2 van de wet
 
 Onze minister die het aangaat behandelt een aanvraag voor een Europese beroepskaart van een uitgaande beroepsbeoefenaar op grond van deze afdeling, overeenkomstig de procedure in [hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2), tenzij in deze afdeling anders is bepaald.
 
@@ -182,13 +150,13 @@ Onze minister die het aangaat behandelt een aanvraag voor een Europese beroepska
 
 - a. een bewijs van de nationaliteit van de aanvrager alsmede, indien dat bewijs geen geboorteplaats vermeldt, een attest ten bewijze van de geboorteplaats van de aanvrager en, indien de aanvrager een onderdaan van een derde land is, een attest dat hij rechten kan ontlenen aan de richtlijn uit hoofde van relevante wetgeving van de Europese Unie, waaronder:
 
-- 1°. [richtlijn nr. 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158);
+   - 1°. richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158);
 
-- 2°. [richtlijn nr. 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016);
+   - 2°. richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016);
 
-- 3°. [richtlijn nr. 2004/83/EG](32004L0083) van de Raad van de Europese Unie van 29 april 2004 inzake minimumnormen voor de erkenning van onderdanen van derde landen en staatlozen als vluchteling of als persoon die anderszins internationale bescherming behoeft, en de inhoud van de verleende bescherming (PbEU L 304);
+   - 3°. richtlijn nr. 2004/83/EG van de Raad van de Europese Unie van 29 april 2004 inzake minimumnormen voor de erkenning van onderdanen van derde landen en staatlozen als vluchteling of als persoon die anderszins internationale bescherming behoeft, en de inhoud van de verleende bescherming (PbEU L 304);
 
-- 4°. [richtlijn nr. 2009/50/EG](32009L0050) van Raad van de Europese Unie van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155);
+   - 4°. richtlijn nr. 2009/50/EG van Raad van de Europese Unie van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155);
 
 - b. de bekwaamheidsattesten of opleidingstitels waarop de aanvrager zich beroept;
 
@@ -198,9 +166,9 @@ Onze minister die het aangaat behandelt een aanvraag voor een Europese beroepska
 
 - e. voor zover geëist door de bevoegde autoriteit van de andere betrokken staat, bedoeld in artikel 9, op grond van artikel 10, tweede lid, van Uitvoeringsverordening (EU) 2015/983, de volgende documenten betreffende kwalificaties die een compensatie kunnen vormen voor kwalificaties die wezenlijk verschillen, en het risico dat compenserende maatregelen nodig zijn, kunnen verminderen:
 
-- 1°. informatie over door de aanvrager verworven kennis, vaardigheden en competenties, bedoeld in artikel 14, vijfde lid, van de richtlijn,
+   - 1°. informatie over door de aanvrager verworven kennis, vaardigheden en competenties, bedoeld in artikel 14, vijfde lid, van de richtlijn,
 
-- 2°. een kopie van een bewijsstuk inzake verworven beroepservaring, waaruit duidelijk blijkt welke beroepswerkzaamheden de aanvrager heeft uitgeoefend;
+   - 2°. een kopie van een bewijsstuk inzake verworven beroepservaring, waaruit duidelijk blijkt welke beroepswerkzaamheden de aanvrager heeft uitgeoefend;
 
 - f. in voorkomend geval, een bewijsstuk van de beroepservaring als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), die door de aanvrager is verworven in een betrokken staat waar het betrokken beroep niet is gereglementeerd;
 
@@ -256,15 +224,15 @@ Onze minister die het aangaat behandelt een aanvraag voor een Europese beroepska
 
 - c. [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14) en [17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), voor zover deze documenten zijn geëist op grond van [artikel 13, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=13&z=2018-07-28&g=2018-07-28).
 
-### Afdeling 2.2.2. Europese beroepskaart bij tijdelijke en incidentele dienstverrichting in een andere betrokken staat
+#### Afdeling 2.2.2. Europese beroepskaart bij tijdelijke en incidentele dienstverrichting in een andere betrokken staat
 
 #### § 2.2.2.1. Algemeen
 
-##### Artikel 17. Begripsbepaling [afdeling 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&z=2018-07-28&g=2018-07-28)
+##### Artikel 17. Begripsbepaling afdeling 2.2.2
 
 In deze afdeling wordt onder uitgaande dienstverrichter verstaan een migrerende beroepsbeoefenaar die rechtmatig in Nederland is gevestigd om er een beroep uit te oefenen en die in een andere betrokken staat dan Nederland bij wijze van tijdelijke en incidentele dienstverrichting hetzelfde, aldaar gereglementeerde beroep, wenst uit te oefenen. Het tijdelijke en incidentele karakter van de dienstverrichting wordt per geval beoordeeld, met name in het licht van de duur, frequentie, regelmaat en continuïteit van de dienstverrichting.
 
-##### Artikel 18. Toepasselijkheid procedure [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3)
+##### Artikel 18. Toepasselijkheid procedure hoofdstuk 3 van de wet
 
 Onze minister die het aangaat behandelt een aanvraag voor het verkrijgen van een Europese beroepskaart van een uitgaande dienstverrichter op grond van deze afdeling, overeenkomstig de procedure in [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3), tenzij in deze afdeling anders is bepaald.
 
@@ -320,7 +288,7 @@ Onze minister die het aangaat behandelt een aanvraag voor het verkrijgen van een
 
 3. De termijn van drie weken, bedoeld in het eerste lid, vangt aan op het moment dat de ontbrekende documenten, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=19&z=2018-07-28&g=2018-07-28), zijn ontvangen of, indien geen aanvullende documenten zijn vereist, na de week, bedoeld in artikel 19, tweede lid.
 
-##### Artikel 24. Territoriale uitbreiding beroepskaart uitgaande dienstverrichter [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=23&z=2018-07-28&g=2018-07-28)
+##### Artikel 24. Territoriale uitbreiding beroepskaart uitgaande dienstverrichter artikel 23
 
 1. Indien de uitgaande dienstverrichter aan wie op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=23&z=2018-07-28&g=2018-07-28) door Onze minister die het aangaat een Europese beroepskaart is afgegeven, tijdelijk en incidenteel diensten wil verrichten in een of meerdere andere betrokken staten dan de betrokken staat dan wel betrokken staten waarvoor de Europese beroepskaart is afgegeven, kan hij een aanvraag voor uitbreiding van zijn Europese beroepskaart indienen bij Onze minister die het aangaat.
 
@@ -330,7 +298,7 @@ Onze minister die het aangaat behandelt een aanvraag voor het verkrijgen van een
 
 4. Onze minister die het aangaat verzendt een op basis van het tweede en derde lid geactualiseerde Europese beroepskaart aan de bevoegde autoriteiten van de andere betrokken staten.
 
-##### Artikel 25. Verlenging beroepskaart uitgaande dienstverrichter [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=23&z=2018-07-28&g=2018-07-28)
+##### Artikel 25. Verlenging beroepskaart uitgaande dienstverrichter artikel 23
 
 1. Een op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=23&z=2018-07-28&g=2018-07-28) afgegeven Europese beroepskaart is achttien maanden geldig. De uitgaande dienstverrichter aan wie door Onze minister die het aangaat een Europese beroepskaart is afgegeven, kan een aanvraag voor verlenging van de Europese beroepskaart indienen bij Onze minister die het aangaat.
 
@@ -370,7 +338,7 @@ Onze minister die het aangaat behandelt een aanvraag voor het verkrijgen van een
 
 4. Indien Onze minister die het aangaat een beëdigde vertaling van een document verlangt, geldt als zodanig een beëdigde vertaling, afgegeven in een andere betrokken staat. Bij gegronde twijfel over de geldigheid of de authenticiteit van een in een andere betrokken staat beëdigde vertaling, verzoekt Onze minister die het aangaat de bevoegde autoriteit van de andere betrokken staat om aanvullende informatie.
 
-## Titel 2.3. Overige bepalingen Europese beroepskaart
+### Titel 2.3. Overige bepalingen Europese beroepskaart
 
 ##### Artikel 28. Gegevens in het IMI-bestand
 
@@ -482,37 +450,37 @@ Bij ministeriële regeling kunnen, ter uitvoering van door de Europese Commissie
 
 - a. krachtens artikel 4 bis, zevende lid, van de richtlijn:
 
-- 1°. de vormgeving van de Europese beroepskaart;
+   - 1°. de vormgeving van de Europese beroepskaart;
 
-- 2°. de verwerking van schriftelijke aanvragen;
+   - 2°. de verwerking van schriftelijke aanvragen;
 
-- 3°. de door de aanvrager te verstrekken vertalingen ter ondersteuning van een aanvraag voor een Europese beroepskaart;
+   - 3°. de door de aanvrager te verstrekken vertalingen ter ondersteuning van een aanvraag voor een Europese beroepskaart;
 
-- 4°. nadere bijzonderheden omtrent de documenten die zijn vereist voor het indienen van een aanvraag;
+   - 4°. nadere bijzonderheden omtrent de documenten die zijn vereist voor het indienen van een aanvraag;
 
-- 5°. de procedures voor de verrichting en verwerking van betalingen voor een Europese beroepskaart;
+   - 5°. de procedures voor de verrichting en verwerking van betalingen voor een Europese beroepskaart;
 
-- 6°. de wijze en het tijdstip waarop alsmede de voorwaarden waaronder Onze minister die het aangaat voor een bepaald beroep voor eensluidend gewaarmerkte afschriften kan verlangen;
+   - 6°. de wijze en het tijdstip waarop alsmede de voorwaarden waaronder Onze minister die het aangaat voor een bepaald beroep voor eensluidend gewaarmerkte afschriften kan verlangen;
 
 - b. krachtens artikel 4 ter, vierde lid, van de richtlijn:
 
-- 1°. de technische specificaties van de Europese beroepskaart en het IMI-bestand;
+   - 1°. de technische specificaties van de Europese beroepskaart en het IMI-bestand;
 
-- 2°. het waarborgen van de integriteit, vertrouwelijkheid en nauwkeurigheid van de gegevens op de Europese beroepskaart en in het IMI-bestand;
+   - 2°. het waarborgen van de integriteit, vertrouwelijkheid en nauwkeurigheid van de gegevens op de Europese beroepskaart en in het IMI-bestand;
 
-- 3°. de voorwaarden en procedures voor de afgifte van de Europese beroepskaart;
+   - 3°. de voorwaarden en procedures voor de afgifte van de Europese beroepskaart;
 
 - c. krachtens artikel 4 sexies, zevende lid, van de richtlijn:
 
-- 1°. de toegang tot het IMI-bestand;
+   - 1°. de toegang tot het IMI-bestand;
 
-- 2°. de technische middelen en de procedures voor de verificatie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.3&artikel=29&z=2018-07-28&g=2018-07-28).
+   - 2°. de technische middelen en de procedures voor de verificatie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.3&artikel=29&z=2018-07-28&g=2018-07-28).
 
 ##### Artikel 35. Nadere regels per beroep
 
 Onze minister die het aangaat kan per beroep waarvoor de Europese beroepskaart is ingevoerd nadere regels stellen. Deze regels kunnen in ieder geval betreffen de documenten die bij de aanvraag moeten worden gevoegd en kosten als bedoeld in [artikel 30a1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30a1), die ten laste van de aanvrager van een Europese beroepskaart worden gebracht in verband met de procedures, bedoeld in [titels 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.1&z=2018-07-28&g=2018-07-28) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0038602&hoofdstuk=2&titeldeel=2.2&z=2018-07-28&g=2018-07-28).
 
-## Titel 2.4. Europese beroepskaart niet-gereglementeerd beroep voor beroepsuitoefening in een andere betrokken staat
+### Titel 2.4. Europese beroepskaart niet-gereglementeerd beroep voor beroepsuitoefening in een andere betrokken staat
 
 ##### Artikel 36. Europese beroepskaart niet-gereglementeerd beroep
 
@@ -548,11 +516,11 @@ De kennisgeving, bedoeld in [artikel 31b, eerste lid, van de wet](https://wetten
 
 - b. een kopie van de valse beroepskwalificatie, of, indien een kopie van de valse beroepskwalificatie niet beschikbaar is:
 
-- 1°. de titel van het kwalificatiebewijs in de oorspronkelijke taal;
+   - 1°. de titel van het kwalificatiebewijs in de oorspronkelijke taal;
 
-- 2°. de datum van afgifte van de valse beroepskwalificatie; en
+   - 2°. de datum van afgifte van de valse beroepskwalificatie; en
 
-- 3°. de instelling die de valse beroepskwalificatie heeft afgegeven zoals vermeld op de valse beroepskwalificatie.
+   - 3°. de instelling die de valse beroepskwalificatie heeft afgegeven zoals vermeld op de valse beroepskwalificatie.
 
 ##### Artikel 39. In kennis stellen beroepsbeoefenaar
 
@@ -564,33 +532,33 @@ Bij ministeriële regeling kunnen voorschriften worden vastgesteld ter uitvoerin
 
 ### Hoofdstuk 4. Wijziging andere besluiten
 
-##### Artikel 41. [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 41. Arbeidsomstandighedenbesluit
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
-##### Artikel 42. [Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961)
+##### Artikel 42. Besluit basisvoorwaarden kwaliteit voorschoolse educatie
 
-Wijzigt het Besluit basisvoorwaarden kwaliteit voorschoolse educatie.
+*Wijzigt het Besluit basisvoorwaarden kwaliteit voorschoolse educatie.*
 
-##### Artikel 43. [Besluit gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421)
+##### Artikel 43. Besluit gedragstoezicht financiële ondernemingen Wft
 
-Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
+*Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.*
 
-##### Artikel 44. [Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530)
+##### Artikel 44. Besluit gewasbeschermingsmiddelen en biociden
 
-Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.
+*Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.*
 
-##### Artikel 45. [Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621)
+##### Artikel 45. Besluit kwaliteit kinderopvang en peuterspeelzalen
 
-Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen.
+*Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen.*
 
-##### Artikel 46. [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702)
+##### Artikel 46. Besluit stralingsbescherming
 
-Wijzigt het Besluit stralingsbescherming.
+*Wijzigt het Besluit stralingsbescherming.*
 
-##### Artikel 47. [Besluit waardevaststelling bij dierziektebestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0023074)
+##### Artikel 47. Besluit waardevaststelling bij dierziektebestrijding
 
-Wijzigt het Besluit waardevaststelling bij dierziektebestrijding.
+*Wijzigt het Besluit waardevaststelling bij dierziektebestrijding.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -601,5 +569,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 49. Citeertitel
 
 Dit besluit wordt aangehaald als: Algemeen besluit erkenning EU-beroepskwalificaties.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

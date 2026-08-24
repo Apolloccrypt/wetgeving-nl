@@ -1,55 +1,53 @@
 ---
-title: "Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu"
+title: "Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu van 1 november 2016"
+citeertitel: "Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu"
 identifier: "BWBR0038720"
 categorie: "Milieu"
+soort: "ministeriele-regeling"
 publicatiedatum: 2016-11-18
-laatste_update: 2016-11-18
+laatste_update: 2025-06-30
 status: vervallen
+vervallen_op: 2026-07-08
+toestand: 2025-06-30
 bron: "https://wetten.overheid.nl/BWBR0038720"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-24
 ---
 
 # Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu van 1 november 2016
 
-Gelet op [artikel 9:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14), [artikel 3, tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3) en [artikel 6, eerste lid, van de Klachtenregeling seksuele intimidatie burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006835&artikel=6);
-
-Gehoord de Departementale Ondernemingsraad van het Ministerie van Infrastructuur en Milieu;
-
-Besluit:
-
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Infrastructuur en Milieu;
+- a. *minister:* Minister van Infrastructuur en Milieu;
 
-- b. **ministerie:** Ministerie van Infrastructuur en Milieu;
+- b. *ministerie:* Ministerie van Infrastructuur en Milieu;
 
-- c. **secretaris-generaal:** secretaris-generaal van het ministerie;
+- c. *secretaris-generaal:* secretaris-generaal van het ministerie;
 
-- d. **hoofddirecteur FMC:** hoofddirecteur Financiën, Management en Control van het ministerie;
+- d. *hoofddirecteur FMC:* hoofddirecteur Financiën, Management en Control van het ministerie;
 
-- e. **EC O&P:** Expertisecentrum Organisatie en Personeel, onderdeel van de Uitvoeringsorganisatie Bedrijfsvoering Rijk van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- e. *EC O&P:* Expertisecentrum Organisatie en Personeel, onderdeel van de Uitvoeringsorganisatie Bedrijfsvoering Rijk van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- f. **medewerker:** degene die werkzaamheden verricht of heeft verricht bij het ministerie;
+- f. *medewerker:* degene die werkzaamheden verricht of heeft verricht bij het ministerie;
 
-- g. **ongewenste omgangsvormen:** factoren van direct of indirect onderscheid in de arbeidssituatie die stress teweegbrengen, met inbegrip van intimidatie, seksuele intimidatie, agressie, geweld en pesten;
+- g. *ongewenste omgangsvormen:* factoren van direct of indirect onderscheid in de arbeidssituatie die stress teweegbrengen, met inbegrip van intimidatie, seksuele intimidatie, agressie, geweld en pesten;
 
-- h. **vertrouwenspersoon:** als zodanig aangewezen persoon;
+- h. *vertrouwenspersoon:* als zodanig aangewezen persoon;
 
-- i. **klacht:** schriftelijke klacht over ongewenste omgangsvormen;
+- i. *klacht:* schriftelijke klacht over ongewenste omgangsvormen;
 
-- j. **commissie:** klachtencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038720&paragraaf=3&artikel=3&z=2016-11-18&g=2016-11-18);
+- j. *commissie:* klachtencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038720&paragraaf=3&artikel=3&z=2016-11-18&g=2025-06-30);
 
-- k. **klager:** medewerker die een klacht heeft ingediend bij de commissie;
+- k. *klager:* medewerker die een klacht heeft ingediend bij de commissie;
 
-- l. **aangeklaagde:** degene op wie de klacht betrekking heeft.
+- l. *aangeklaagde:* degene op wie de klacht betrekking heeft.
 
 #### § 2. Werkingsgebied
 
-#### Artikel 2
+##### Artikel 2
 
 1. De medewerker die wordt of is geconfronteerd met ongewenste omgangsvormen kan zich, al dan niet met behulp van een vertrouwenspersoon, wenden tot zijn manager of een klacht indienen bij de commissie.
 
@@ -57,11 +55,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu
 
-#### Artikel 3
+##### Artikel 3
 
 Er is een Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie wordt telkens na het indienen van een klacht samengesteld.
 
@@ -77,11 +75,11 @@ Er is een Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu.
 
 5. De Manager Dienstenstroom Arbeidsjuridisch Advies van het EC O&P benoemt de leden en de plaatsvervangend leden van de commissie, waarbij de hoofddirecteur FMC een of meer bij het ministerie werkzame personen als lid kan voordragen.
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de Manager Dienstenstroom Arbeidsjuridisch Advies van EC O&P.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie heeft tot taak het verrichten van onderzoek naar elke bij haar ingediende klacht en het uitbrengen van een rapport van bevindingen, vergezeld van een advies en eventuele aanbevelingen, aan de secretaris-generaal, die de klacht schriftelijk afdoet. Deze taak heeft mede betrekking op klachten over gedragingen die gerelateerd zijn aan de ongewenste omgangsvormen waarop de ingediende klacht betrekking heeft.
 
@@ -91,7 +89,7 @@ De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de M
 
 4. Als de commissie tijdens het onderzoek naar de klacht feiten of omstandigheden constateert of vermoedt die voor de minister of het ministerie politieke gevolgen of imagoschade met zich mee zouden kunnen brengen, licht zij terstond de secretaris-generaal in.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bij de behandeling van een klacht betrokken leden van de commissie stellen het rapport en het advies bij meerderheid van stemmen vast. Geen van de leden onthoudt zich van stemming.
 
@@ -99,7 +97,7 @@ De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de M
 
 3. De secretaris draagt zorg voor de verzending van het rapport, het advies en de eventuele aanbevelingen.
 
-#### Artikel 8
+##### Artikel 8
 
 De commissie is bevoegd:
 
@@ -113,17 +111,17 @@ De commissie is bevoegd:
 
 - e. ook anderszins de medewerking te verlangen die zij nodig acht voor de behandeling van de klacht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De commissie registreert alle schriftelijk ingediende klachten.
 
-2. De commissie brengt jaarlijks voor 1 mei een verslag uit aan de secretaris-generaal.
+2. De commissie brengt jaarlijks voor 1 mei een verslag uit aan de secretaris-generaal.
 
 3. Het verslag bevat een geanonimiseerd overzicht van het aantal en de aard van de klachten in het voorgaande kalenderjaar en de strekking van de adviezen die daarover zijn uitgebracht. Het verslag kan aanbevelingen van algemene aard bevatten.
 
 4. Het verslag wordt ter kennis gebracht van de Departementale Ondernemingsraad.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De commissie draagt er zorg voor dat de op klachten betrekking hebbende dossiers die door de commissie zijn aangelegd, worden overgedragen aan de hoofddirecteur FMC. De dossiers zijn alleen toegankelijk voor de minister, de secretaris-generaal, de hoofddirecteur FMC en de door deze daartoe aangewezen ambtenaren.
 
@@ -131,7 +129,7 @@ De commissie is bevoegd:
 
 #### § 4. Rechtspositie
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een lid of gewezen lid van de commissie ondervindt in zijn positie als medewerker geen nadeel van zijn activiteiten in het kader van de uitvoering van dit besluit.
 
@@ -139,16 +137,14 @@ De commissie is bevoegd:
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
-Wijzigt de Klachtenregeling ongewenste omgangsvormen in de arbeidsorganisatie Ministerie van Verkeer en Waterstaat.
+*Wijzigt de Klachtenregeling ongewenste omgangsvormen in de arbeidsorganisatie Ministerie van Verkeer en Waterstaat.*
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 december 2016, nr. 1108207, tot vaststelling van een kader voor de beoordeling van de verzoeken om een strategisch partnerschap in het kader van de aanvragen voor instellingssubsidie op grond van de Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022 (Beoordelingskader Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022)"
+citeertitel: "Beoordelingskader Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022"
 identifier: "BWBR0038897"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038897"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13827833"
-version_id: "23731522"
-internal_id: "C34154151"
-label_id: "13793354"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038897/2017-01-01/0"
-intitule_bron: "Stcrt.2016-68844"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-06"
-intitule_published: "2016-12-16"
-intitule_in_force: "2016-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-68844"
-original_signed_date: "2016-12-06"
-original_published_date: "2016-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-68844"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038897&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038897&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Beoordelingskader Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022"
-signed_date: "2016-12-06"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038897"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 december 2016, nr. 1108207, tot vaststelling van een kader voor de beoordeling van de verzoeken om een strategisch partnerschap in het kader van de aanvragen voor instellingssubsidie op grond van de Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022 (Beoordelingskader Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022)
-
-Gelet op [artikel 2.7 van de Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0038784&artikel=2.7)
-
-Besluit:
 
 ##### Artikel 1. Inleiding
 
 Dit beoordelingskader dient om de aanvragen voor instellingssubsidie, eerste fase, op grond van de [Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0038784) (hierna: regeling) te kunnen beoordelen en om de wegingsfactoren vast te stellen op basis waarvan de verzoeken om een strategisch partnerschap aan te gaan worden gerangschikt.
 
-##### Artikel 2. Drempelcriteria ([artikel 2.2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038784&artikel=2.2))
+##### Artikel 2. Drempelcriteria (artikel 2.2 van de regeling)
 
 Een aanvraag wordt ten eerste getoetst aan de drempelcriteria. Alleen wanneer de maatschappelijke organisaties, al dan niet verenigd in een alliantie, aan de drempelcriteria voldoen, worden het track record en de theory of change, gevoegd bij de aanvraag, beoordeeld.
 
-##### Artikel 3. Evenwichtige spreiding ([artikel 2.8 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038784&artikel=2.8))
+##### Artikel 3. Evenwichtige spreiding (artikel 2.8 van de regeling)
 
 Bij het aangaan van strategisch partnerschappen streeft de Minister naar een evenwichtige spreiding van maatschappelijke organisaties dan wel allianties over:
 
@@ -62,43 +36,43 @@ Een evenwichtige spreiding betekent een gelijkmatige verdeling over de doelstell
 
 De doelstellingen zijn:
 
-**Langetermijn:**
+*Langetermijn:*
 
-- –. Het realiseren van gendergelijkheid en LHBTI-gelijkheid in de Nederlandse samenleving. Dit dient te geschieden op in ieder geval de terreinen: onderwijs, veiligheid, gezondheid, arbeidsmarkt, media, politiek, recht en leefvormen.
+- – Het realiseren van gendergelijkheid en LHBTI-gelijkheid in de Nederlandse samenleving. Dit dient te geschieden op in ieder geval de terreinen: onderwijs, veiligheid, gezondheid, arbeidsmarkt, media, politiek, recht en leefvormen.
 
-**Middellangetermijn:**
+*Middellangetermijn:*
 
-- –. Het doorbreken van stereotype beeldvorming over mannelijkheid, vrouwelijkheid en relaties.
+- – Het doorbreken van stereotype beeldvorming over mannelijkheid, vrouwelijkheid en relaties.
 
-- –. Het bevorderen van de sociale acceptatie van gendergelijkheid en diversiteit aan seksuele oriëntatie, genderidentiteit of geslachtskenmerken.
+- – Het bevorderen van de sociale acceptatie van gendergelijkheid en diversiteit aan seksuele oriëntatie, genderidentiteit of geslachtskenmerken.
 
-- –. Het bevorderen van de (sociale) veiligheid van vrouwen en LHBTI’s.
+- – Het bevorderen van de (sociale) veiligheid van vrouwen en LHBTI’s.
 
-- –. Het bevorderen van een machtsbalans en maatschappelijke representatie op basis van gendergelijkheid en diversiteit aan seksuele oriëntatie, genderidentiteit of geslachtskenmerken.
+- – Het bevorderen van een machtsbalans en maatschappelijke representatie op basis van gendergelijkheid en diversiteit aan seksuele oriëntatie, genderidentiteit of geslachtskenmerken.
 
-- –. Het bevorderen van een gelijke positie van vrouwen en mannen en transgender personen op de arbeidsmarkt, op het gebied van inkomen en op het gebied van onbetaalde zorgtaken.
+- – Het bevorderen van een gelijke positie van vrouwen en mannen en transgender personen op de arbeidsmarkt, op het gebied van inkomen en op het gebied van onbetaalde zorgtaken.
 
-- –. Het bevorderen van gelijkheid en veiligheid in het onderwijs, waaronder het doorbreken van stereotype richtingkeuze.
+- – Het bevorderen van gelijkheid en veiligheid in het onderwijs, waaronder het doorbreken van stereotype richtingkeuze.
 
-- –. Het bevorderen van gendersensitieve en LHBTI-sensitieve zorg.
+- – Het bevorderen van gendersensitieve en LHBTI-sensitieve zorg.
 
-- –. Het bevorderen van vrije keuze op het gebied van leefvormen.
+- – Het bevorderen van vrije keuze op het gebied van leefvormen.
 
 De functies zijn:
 
-- –. Onderzoek, kennis en beleidsadvies
+- – Onderzoek, kennis en beleidsadvies
 
-- –. Bibliotheek, archief en informatiecentrum
+- – Bibliotheek, archief en informatiecentrum
 
-- –. Interventieontwikkeling
+- – Interventieontwikkeling
 
-- –. Agenderen en vertegenwoordigen
+- – Agenderen en vertegenwoordigen
 
-- –. Platform en netwerk
+- – Platform en netwerk
 
-- –. Ondersteunen en begeleiden
+- – Ondersteunen en begeleiden
 
-##### Artikel 4. Track Record ([artikel 2.9 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038784&artikel=2.9))
+##### Artikel 4. Track Record (artikel 2.9 van de regeling)
 
 Het track record van een maatschappelijke organisatie omvat een beschrijving van de ervaring en de bereikte resultaten van de maatschappelijke organisatie op het terrein van het landelijk bevorderen van gendergelijkheid of LHBTI-gelijkheid. Het track record bevat ten minste drie en ten hoogste vijf voorbeelden van de ervaring en de bereikte resultaten van de maatschappelijke organisatie(s) op het terrein van het landelijk bevorderen van gendergelijkheid of LHBTI-gelijkheid aan uit de laatste drie jaar voorafgaand aan 1 januari 2017. In het geval een alliantie uit meer dan vijf maatschappelijke organisaties mocht bestaan dan levert de aanvrager niet meer dan één voorbeeld per maatschappelijke organisatie.
 
@@ -142,7 +116,7 @@ Ad f. duurzaamheid van de gekozen aanpak.
 
 Naarmate de inbedding van de resultaten meer duurzaam is, wordt de aanvraag op dit criterium hoger gewaardeerd.
 
-##### Artikel 5. Theory of change ([artikel 2.10 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038784&artikel=2.10))
+##### Artikel 5. Theory of change (artikel 2.10 van de regeling)
 
 Een theory of change beschrijft hoe de maatschappelijke organisatie of de alliantie de doelen op lange termijn behaalt. Elke theory of change wordt getoetst aan de criteria:
 
@@ -205,5 +179,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2017 en vervalt met ingan
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Beoordelingskader Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022.
-
-Dit besluit zal in de Staatcourant worden geplaatst.

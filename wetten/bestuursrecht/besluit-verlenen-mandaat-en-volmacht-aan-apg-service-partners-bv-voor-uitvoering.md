@@ -1,55 +1,31 @@
 ---
 title: "Besluit tot het verlenen van mandaat en volmacht aan APG Service Partners B.V. ter zake van de uitvoering van Regeling voor substantieel bezwarende functies"
+citeertitel: "Besluit verlenen mandaat en volmacht aan APG Service Partners B.V. voor uitvoering Regeling voor substantieel bezwarende functies"
 identifier: "BWBR0037865"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-01"
-last_updated: "2016-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037865"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13481993"
-version_id: "23137442"
-internal_id: "C33439751"
-label_id: "13449014"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037865/2016-04-01/0"
-intitule_bron: "Stcrt.2016-20818"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-04-25"
-intitule_in_force: "2016-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-20818"
-original_published_date: "2016-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-20818"
-entry_into_force_date: "2016-04-01"
-jci_1_3: "jci1.3:c:BWBR0037865&z=2016-04-01&g=2016-04-01"
-jci_1_0: "1.0:c:BWBR0037865&g=2016-04-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlenen mandaat en volmacht aan APG Service Partners B.V. voor uitvoering Regeling voor substantieel bezwarende functies"
-entry_into_force: "2016-04-01"
+publicatiedatum: 2016-04-01
+laatste_update: 2016-04-01
+status: geldig
+toestand: 2016-04-01
+bron: "https://wetten.overheid.nl/BWBR0037865"
+opgehaald: 2026-08-24
 ---
+
 # Besluit tot het verlenen van mandaat en volmacht aan APG Service Partners B.V. ter zake van de uitvoering van Regeling voor substantieel bezwarende functies
-
-Gelet op de [artikelen 10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [10:12 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12)
-
-Besluit
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **Minister:** Minister voor Wonen en Rijksdienst;
+- *Minister:* Minister voor Wonen en Rijksdienst;
 
-- **Opdrachtnemer:** APG Service Partners B.V.;
+- *Opdrachtnemer:* APG Service Partners B.V.;
 
-- **Opdrachtgever:** De Staat der Nederlanden, in casu, het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Directoraat-Generaal Organisatie en Bedrijfsvoering Rijk, Directie Organisatie- en Personeelsbeleid;
+- *Opdrachtgever:* De Staat der Nederlanden, in casu, het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Directoraat-Generaal Organisatie en Bedrijfsvoering Rijk, Directie Organisatie- en Personeelsbeleid;
 
-- **Regeling:** [Regeling substantieel bezwarende functies](https://wetten.overheid.nl/jci1.3:c:BWBR0036442).
+- *Regeling:*
+ [Regeling substantieel bezwarende functies](https://wetten.overheid.nl/jci1.3:c:BWBR0036442).
 
 ##### Artikel 2
 

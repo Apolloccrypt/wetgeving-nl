@@ -1,41 +1,17 @@
 ---
 title: "Besluit bestuurlijke boeten Douane- en Accijnswet BES"
 identifier: "BWBR0038579"
-country: "nl"
-rank: "beleidsregel_bes"
-publication_date: "2016-10-06"
-last_updated: "2016-10-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038579"
+categorie: "Belastingrecht"
 soort: "beleidsregel-BES"
-stam_id: "13762093"
-version_id: "23596282"
-internal_id: "C33967381"
-label_id: "13728464"
-dtd_version: "2.0"
-original_entry_into_force: "2016-10-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038579/2016-10-06/0"
-intitule_bron: "Stcrt.2016-52101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-23"
-intitule_published: "2016-10-05"
-intitule_in_force: "2016-10-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-52101"
-original_signed_date: "2016-09-23"
-original_published_date: "2016-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-52101"
-entry_into_force_date: "2016-10-06"
-jci_1_3: "jci1.3:c:BWBR0038579&z=2016-10-06&g=2016-10-06"
-jci_1_0: "1.0:c:BWBR0038579&g=2016-10-06"
-citeertitel_status: "officieel"
-signed_date: "2016-09-23"
-entry_into_force: "2016-10-06"
+publicatiedatum: 2016-10-06
+laatste_update: 2016-10-06
+status: geldig
+toestand: 2016-10-06
+bron: "https://wetten.overheid.nl/BWBR0038579"
+opgehaald: 2026-08-24
 ---
-# Besluit bestuurlijke boeten Douane- en Accijnswet BES
 
-**Dit besluit geeft beleidsregels voor het opleggen van boeten op grond van de Douane- en Accijnswet BES, het Uitvoeringsbesluit Douane- en Accijnswet BES en de Uitvoeringsregeling Douane- en Accijnswet BES.**
+# Besluit bestuurlijke boeten Douane- en Accijnswet BES
 
 ### Hoofdstuk I. Algemene bepalingen
 

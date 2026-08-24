@@ -1,41 +1,18 @@
 ---
 title: "Besluit houdende benoeming en vaststelling vergoeding leden van de Adviescommissie udv-subsidies"
+citeertitel: "Besluit benoeming en vaststelling vergoeding leden Adviescommissie udv-subsidies"
 identifier: "BWBR0037839"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-06-01"
-last_updated: "2016-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037839"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13476143"
-version_id: "23124702"
-internal_id: "C33424671"
-label_id: "13443134"
-dtd_version: "2.0"
-original_entry_into_force: "2016-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037839/2016-06-01/0"
-intitule_bron: "Stcrt.2016-19734"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-04-19"
-intitule_in_force: "2016-04-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-19734"
-original_published_date: "2016-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-19734"
-entry_into_force_date: "2016-06-01"
-jci_1_3: "jci1.3:c:BWBR0037839&z=2016-06-01&g=2016-06-01"
-jci_1_0: "1.0:c:BWBR0037839&g=2016-06-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit benoeming en vaststelling vergoeding leden Adviescommissie udv-subsidies"
-entry_into_force: "2016-06-01"
+publicatiedatum: 2016-06-01
+laatste_update: 2016-06-01
+status: geldig
+toestand: 2016-06-01
+bron: "https://wetten.overheid.nl/BWBR0037839"
+opgehaald: 2026-08-24
 ---
+
 # Besluit houdende benoeming en vaststelling vergoeding leden van de Adviescommissie udv-subsidies
-
-Gelet op [artikel 2.2.9, tweede lid, van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.2.9) en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,5 +39,3 @@ Met ingang van 1 juli 2016 worden voor een periode van zes maanden tot lid van d
 ##### Artikel 4
 
 Het [Besluit houdende vaststelling van een vergoeding voor de voorzitter en een lid van de Adviescommissie udv-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036163) (Stcrt. 2015, 915) wordt ingetrokken.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

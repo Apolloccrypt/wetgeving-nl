@@ -1,61 +1,17 @@
 ---
 title: "Nadere regeling ontzegging bewindvoerdersubsidie Wsnp"
 identifier: "BWBR0037814"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-17"
-last_updated: "2016-04-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037814"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13470013"
-version_id: "23113332"
-internal_id: "C33403091"
-label_id: "13437134"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037814/2016-04-17/0"
-intitule_bron: "Stcrt.2016-18950"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-07"
-intitule_published: "2016-04-15"
-intitule_in_force: "2016-04-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-18950"
-original_signed_date: "2016-04-07"
-original_published_date: "2016-04-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-18950"
-entry_into_force_date: "2016-04-17"
-jci_1_3: "jci1.3:c:BWBR0037814&z=2016-04-17&g=2016-04-17"
-jci_1_0: "1.0:c:BWBR0037814&g=2016-04-17"
-citeertitel_status: "officieel"
-signed_date: "2016-04-07"
-entry_into_force: "2016-04-17"
+publicatiedatum: 2016-04-17
+laatste_update: 2016-04-17
+status: geldig
+toestand: 2016-04-17
+bron: "https://wetten.overheid.nl/BWBR0037814"
+opgehaald: 2026-08-24
 ---
+
 # Nadere regeling ontzegging bewindvoerdersubsidie Wsnp
-
-gezien:
-
-[Artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c) en [48d van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48d) (Staatsblad 1998, nr. 447);
-
-Hoofdstuk 4B van de Wijzigingswet Wet Justitie-subsidies, Staatsblad 2013, 96);
-
-[Artikel 5 van het Besluit vergoeding bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=5) (Staatsblad 2013, nr. 308);
-
-[Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037325&hoofdstuk=2) en [3 van de Beleidsregels voor inschrijving bewindvoerders Wsnp en bewindvoerderorganisaties Wsnp in het register](https://wetten.overheid.nl/jci1.3:c:BWBR0037325&hoofdstuk=3) (Staatscourant 11 december 2015, 44924);
-
-[Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III) (Staatsblad 1998, nrs. 445 en 447);
-
-[Regeling van de Minister van Justitie van 23 juli 2009, nr. 5612426/09 houdende verlening van mandaat aan de Raad voor rechtsbijstand te ’s-Hertogenbosch dienaangaande](https://wetten.overheid.nl/jci1.3:c:BWBR0026208) (Staatscourant 2009, 11554);
-
-[Besluit ondermandatering Raad voor Rechtsbijstand Wsnp](https://wetten.overheid.nl/jci1.3:c:BWBR0031025) (Staatscourant 30 december 2011, 23891);
-
-De [Klachtenregeling bewindvoerders Wsnp II](https://wetten.overheid.nl/jci1.3:c:BWBR0034045) (Staatscourant 18 oktober 2013, 29038);
-
-De [Gedragscode bewindvoerder Wsnp II](https://wetten.overheid.nl/jci1.3:c:BWBR0034033) (Staatscourant 18 oktober 2013, 29039);
-
-stelt aanvullend beleid vast ten aanzien van de bewindvoerdersubsidie Wsnp.
 
 ##### Artikel 1
 

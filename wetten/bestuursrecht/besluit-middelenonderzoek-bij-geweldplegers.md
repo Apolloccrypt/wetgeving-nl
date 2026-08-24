@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 18 november 2016, houdende regels over de uitvoering van de onderzoeken die ter vaststelling van het gebruik van geweldbevorderende middelen bij geweldplegers kunnen worden ingezet, alsmede de aanwijzing van de geweldsmisdrijven waarvoor die onderzoeken kunnen worden ingezet en de aanwijzing van andere middelen dan alcohol die gewelddadig gedrag kunnen bevorderen en de grenswaarden voor die middelen en alcohol (Besluit middelenonderzoek bij geweldplegers)"
+citeertitel: "Besluit middelenonderzoek bij geweldplegers"
 identifier: "BWBR0038778"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038778"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13804923"
-version_id: "23681362"
-internal_id: "C34092401"
-label_id: "13771344"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038778/2024-07-01/0"
-intitule_bron: "Stb.2016-450"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-11-18"
-intitule_published: "2016-11-30"
-intitule_in_force: "2016-11-30"
-intitule_status: "goed"
-original_publication: "Stb.2016-450"
-original_signed_date: "2016-11-18"
-original_published_date: "2016-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-450"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038778&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0038778&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit middelenonderzoek bij geweldplegers"
-signed_date: "2016-11-18"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0038778"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 18 november 2016, houdende regels over de uitvoering van de onderzoeken die ter vaststelling van het gebruik van geweldbevorderende middelen bij geweldplegers kunnen worden ingezet, alsmede de aanwijzing van de geweldsmisdrijven waarvoor die onderzoeken kunnen worden ingezet en de aanwijzing van andere middelen dan alcohol die gewelddadig gedrag kunnen bevorderen en de grenswaarden voor die middelen en alcohol (Besluit middelenonderzoek bij geweldplegers)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 1 maart 2016, nr. 738868, directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 55d, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55d), en [55e, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55e);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 4 mei 2016, nr. W03.16.0043/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 16 november 2016, nr. 2015256, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Wetboek van Strafvordering (introductie bevoegdheid tot het bevelen van middelenonderzoek bij gewelgdplegers enz.) (Stb. 2016/353) in werking treedt.
 
 #### § 1. Begripsomschrijvingen
 
@@ -54,11 +20,11 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wetboek van Strafvorde
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **de verdachte:** de verdachte, bedoeld in [artikel 55d, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55d);
+- a. *de verdachte:* de verdachte, bedoeld in [artikel 55d, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55d);
 
-- b. **opsporingsambtenaar:** een opsporingsambtenaar als bedoeld in [artikel 141, onder a tot en met c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
+- b. *opsporingsambtenaar:* een opsporingsambtenaar als bedoeld in [artikel 141, onder a tot en met c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
 
-- c. **bloedonderzoek:** een onderzoek als bedoeld in [artikel 55e, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55e).
+- c. *bloedonderzoek:* een onderzoek als bedoeld in [artikel 55e, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55e).
 
 #### § 2. Aanwijzing van de geweldsmisdrijven waarvoor een onderzoek naar het gebruik van alcohol of andere middelen die tot gewelddadig gedrag kunnen leiden, kan worden ingezet
 
@@ -74,13 +40,13 @@ Als middelen als bedoeld in [artikel 55d, vierde lid, van het Wetboek van Strafv
 
 ##### Artikel 4
 
-1. De grenswaarde voor alcohol is een alcoholpromillage van 350 microgram ethanol per liter uitgeademde lucht of van 0,8 milligram ethanol per milliliter bloed.
+1. De grenswaarde voor alcohol is een alcoholpromillage van 350 microgram ethanol per liter uitgeademde lucht of van 0,8 milligram ethanol per milliliter bloed.
 
-2. De grenswaarde voor amfetamine, cocaïne en methamfetamine is 50 microgram amfetamine, cocaïne, methamfetamine per liter bloed.
+2. De grenswaarde voor amfetamine, cocaïne en methamfetamine is 50 microgram amfetamine, cocaïne, methamfetamine per liter bloed.
 
 #### § 4. Voorlopige onderzoeken
 
-#### § 4.1. Voorlopig ademonderzoek
+##### § 4.1. Voorlopig ademonderzoek
 
 ##### Artikel 5
 
@@ -94,7 +60,7 @@ Als middelen als bedoeld in [artikel 55d, vierde lid, van het Wetboek van Strafv
 
 De opsporingsambtenaar vermeldt het resultaat van het voorlopig ademonderzoek in het proces-verbaal en deelt dat resultaat direct aan de verdachte mede.
 
-#### § 4.2. Onderzoek van de psychomotorische functies en oog- en spraakfuncties
+##### § 4.2. Onderzoek van de psychomotorische functies en oog- en spraakfuncties
 
 ##### Artikel 7
 
@@ -108,7 +74,7 @@ De opsporingsambtenaar vermeldt het resultaat van het voorlopig ademonderzoek in
 
 De opsporingsambtenaar vermeldt het resultaat van het onderzoek van de psychomotorische functies en de oog- en spraakfuncties in het proces-verbaal en deelt dat resultaat direct aan de verdachte mede.
 
-#### § 4.3. Onderzoek van speeksel
+##### § 4.3. Onderzoek van speeksel
 
 ##### Artikel 9
 
@@ -124,7 +90,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in 
 
 #### § 5. Vervolgonderzoeken
 
-#### § 5.1. Nader ademonderzoek
+##### § 5.1. Nader ademonderzoek
 
 ##### Artikel 11
 
@@ -150,7 +116,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in 
 
 - b. de bloedafname voor rekening van de verdachte geschiedt en niet wordt gedaan dan nadat hij daarvoor een bij ministeriële regeling vastgesteld bedrag heeft betaald.
 
-#### § 5.2. Bloedonderzoek
+##### § 5.2. Bloedonderzoek
 
 ##### Artikel 13
 
@@ -258,10 +224,8 @@ Indien een ander laboratorium dan het laboratorium van het Nederlands Forensisch
 
 ##### Artikel 22
 
-Dit besluit treedt in werking op het tijdstip waarop de wet van 28 september 2016 tot wijziging van het Wetboek van Strafvordering in verband met de introductie van de bevoegdheid tot het bevelen van een middelenonderzoek bij geweldplegers en enige daarmee samenhangende wijzigingen van de Wegenverkeerswet 1994 (Stb. 2016, 353) in werking treedt.
+Dit besluit treedt in werking op het tijdstip waarop de wet van 28 september 2016 tot wijziging van het Wetboek van Strafvordering in verband met de introductie van de bevoegdheid tot het bevelen van een middelenonderzoek bij geweldplegers en enige daarmee samenhangende wijzigingen van de Wegenverkeerswet 1994 (Stb. 2016, 353) in werking treedt.
 
 ##### Artikel 23
 
 Dit besluit wordt aangehaald als: Besluit middelenonderzoek bij geweldplegers.
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

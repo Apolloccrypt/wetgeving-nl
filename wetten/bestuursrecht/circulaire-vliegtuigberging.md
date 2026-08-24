@@ -1,38 +1,16 @@
 ---
 title: "Circulaire Vliegtuigberging"
 identifier: "BWBR0038631"
-country: "nl"
-rank: "circulaire"
-publication_date: "2016-10-19"
-last_updated: "2016-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038631"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "13772233"
-version_id: "23618742"
-internal_id: "C33991901"
-label_id: "13738924"
-dtd_version: "2.0"
-original_entry_into_force: "2016-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038631/2016-10-19/0"
-intitule_bron: "Stcrt.2016-54987"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-10"
-intitule_published: "2016-10-19"
-intitule_in_force: "2016-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-54987"
-original_signed_date: "2016-10-10"
-original_published_date: "2016-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-54987"
-entry_into_force_date: "2016-10-19"
-jci_1_3: "jci1.3:c:BWBR0038631&z=2016-10-19&g=2016-10-19"
-jci_1_0: "1.0:c:BWBR0038631&g=2016-10-19"
-citeertitel_status: "redactioneel"
-signed_date: "2016-10-10"
-entry_into_force: "2016-10-19"
+publicatiedatum: 2016-10-19
+laatste_update: 2016-10-19
+status: geldig
+toestand: 2016-10-19
+bron: "https://wetten.overheid.nl/BWBR0038631"
+opgehaald: 2026-08-24
 ---
+
 # Circulaire Vliegtuigberging
 
 ### 1. Inleiding
@@ -64,6 +42,22 @@ Wanneer door een gemeentebestuur wordt besloten tot een berging, een opsporing o
 ### 3. Begrippen
 
 In deze circulaire wordt verstaan onder:
+
+- *Asbest:* ‘Asbest als bedoeld in [artikel 1 van het Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=1).’
+
+- *Berging vliegtuigwrak:* ‘Het gecontroleerd benaderen en verwijderen van vliegtuigwrakdelen en mogelijke stoffelijke resten, conventionele explosieven, radioactieve stoffen en asbest.’
+
+- *Explosieven:* ‘Bommen en gevechtsladingen, geleide en ballistische projectielen, munitie voor artillerie, mortieren en kleinkaliberwapens, alle mijnen, torpedo's en dieptebommen, vernielingsladingen, al dan niet pyrotechnische vuurwerken, bundelrekken, moederbommen en dispensers, inrichtingen in werking gesteld door patronen en stuwstoffen, elektrische ontstekingsinrichtingen, clandestiene en geïmproviseerde explosieven en alle overige munitie, die explosieve stoffen of nucleaire splijtings- of fusiematerialen, biologische of chemische middelen bevat.’
+
+- *Opsporen:* ‘Het geheel aan werkzaamheden en uitvoering binnen het gebied van een vliegtuigwraklocatie van achtereenvolgens het detecteren, interpreteren, benaderen en identificeren van vermoede explosieven’.
+
+- *Opsporingswerkzaamheden:* ‘Het detecteren (vaststellen van de aanwezigheid van een voorwerp op of onder het maaiveld) en lokaliseren (vaststellen van de exacte ligplaats van een voorwerp, dat op of onder het maaiveld is gedetecteerd) van vliegtuigwrakken en mogelijk conventionele explosieven.’
+
+- *Radioactieve stoffen:* ‘Radioactieve stoffen zoals bedoeld in [artikel 29 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29).’
+
+- *Ruiming:* ‘Het na de opsporing benaderen, veiligstellen, afvoeren of vernietigen van het explosief dat in een bepaald gebied is aangetroffen.’
+
+- *Vliegtuigwrak:* ‘Een militair vliegtuig dat tijdens de Tweede Wereldoorlog is neergestort op (huidig) Nederlands grondgebied.’
 
 ### 4. Juridisch kader
 

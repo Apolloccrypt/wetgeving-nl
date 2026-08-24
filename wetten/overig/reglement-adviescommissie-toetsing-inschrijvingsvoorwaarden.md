@@ -1,45 +1,17 @@
 ---
 title: "Reglement Adviescommissie Toetsing Inschrijvingsvoorwaarden"
 identifier: "BWBR0038706"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-10-20"
-last_updated: "2016-10-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038706"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13788523"
-version_id: "23648332"
-internal_id: "C34044421"
-label_id: "13754834"
-dtd_version: "2.0"
-original_entry_into_force: "2016-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038706/2016-10-20/0"
-intitule_bron: "Stcrt.2016-55192"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-29"
-intitule_published: "2016-10-20"
-intitule_in_force: "2016-10-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-55192"
-original_signed_date: "2016-09-29"
-original_published_date: "2016-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-55192"
-entry_into_force_date: "2016-10-20"
-jci_1_3: "jci1.3:c:BWBR0038706&z=2016-10-20&g=2016-10-20"
-jci_1_0: "1.0:c:BWBR0038706&g=2016-10-20"
-citeertitel_status: "redactioneel"
-signed_date: "2016-09-29"
-entry_into_force: "2016-10-20"
+publicatiedatum: 2016-10-20
+laatste_update: 2016-10-20
+status: geldig
+toestand: 2016-10-20
+bron: "https://wetten.overheid.nl/BWBR0038706"
+opgehaald: 2026-08-24
 ---
+
 # Reglement Adviescommissie Toetsing Inschrijvingsvoorwaarden
-
-in aanmerking nemend [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8),
-
-Besluit:
-
-De samenstelling en de werkwijze van de Adviescommissie Toetsing Inschrijvingsvoorwaarden als volgt te regelen1De Adviescommissie Toetsing Inschrijvingsvoorwaarden is bij besluit van 24 mei 2011 ingesteld. Met het onderhavig besluit van 29 september 2016 zijn de taken van adviescommissie uitgebreid.:
 
 #### Taak
 

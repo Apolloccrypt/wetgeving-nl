@@ -1,52 +1,18 @@
 ---
-title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 24 november 2016 nr. BOACAT2016/066, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Buha B.V"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 24 november 2016 nr. BOACAT2016/066, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Buha B.V."
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Buha B.V. 2016"
 identifier: "BWBR0038795"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038795"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13807843"
-version_id: "23686692"
-internal_id: "C34099501"
-label_id: "13773884"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038795/2017-01-01/0"
-intitule_bron: "Stcrt.2016-65384"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-11-24"
-intitule_published: "2016-12-05"
-intitule_in_force: "2016-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-65384"
-original_signed_date: "2016-11-24"
-original_published_date: "2016-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-65384"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038795&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038795&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Buha B.V. 2016"
-signed_date: "2016-11-24"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038795"
+opgehaald: 2026-08-24
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 24 november 2016 nr. BOACAT2016/066, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Buha B.V
 
-Gelezen het verzoek van de directeur/bestuurder van Beheer, uitvoering, handhaving, afvalstoffen en accommodaties van 21 november 2016 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 24 november 2016 nr. BOACAT2016/066, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Buha B.V.
 
 ##### Artikel 1
 
@@ -58,7 +24,7 @@ De personen, werkzaam in de functie van medewerker handhaving (HR21) in dienst v
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, als genoemd in [onderdeel 6.4, van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, als genoemd in [onderdeel 6.4, van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/BWBR0038102).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -99,5 +65,3 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Buha B.V. 2016.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

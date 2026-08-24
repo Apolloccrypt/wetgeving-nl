@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directie van het CBR tot digitale vervanging van archiefbescheiden berustend bij de divisie Rijgeschiktheid, niet zijnde archiefbescheiden die ingevolge de selectielijst CBR voor bewaring in aanmerking komen"
+citeertitel: "Besluit vervanging archiefbescheiden CBR divisie Rijgeschiktheid"
 identifier: "BWBR0037807"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-04-12"
-last_updated: "2016-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037807"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "13466513"
-version_id: "23108732"
-internal_id: "C33395571"
-label_id: "13433574"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037807/2016-04-12/0"
-intitule_bron: "Stcrt.2016-18896"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-03-16"
-intitule_published: "2016-04-11"
-intitule_in_force: "2016-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-18896"
-original_signed_date: "2016-03-16"
-original_published_date: "2016-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-18896"
-entry_into_force_date: "2016-04-12"
-jci_1_3: "jci1.3:c:BWBR0037807&z=2016-04-12&g=2016-04-12"
-jci_1_0: "1.0:c:BWBR0037807&g=2016-04-12"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vervanging archiefbescheiden CBR divisie Rijgeschiktheid"
-signed_date: "2016-03-16"
-entry_into_force: "2016-04-12"
+publicatiedatum: 2016-04-12
+laatste_update: 2016-04-12
+status: geldig
+toestand: 2016-04-12
+bron: "https://wetten.overheid.nl/BWBR0037807"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de directie van het CBR tot digitale vervanging van archiefbescheiden berustend bij de divisie Rijgeschiktheid, niet zijnde archiefbescheiden die ingevolge de selectielijst CBR voor bewaring in aanmerking komen
-
-gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7),
-
-Besluit:
 
 ##### Artikel 1
 

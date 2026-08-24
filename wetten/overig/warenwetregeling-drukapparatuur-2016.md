@@ -1,68 +1,43 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 juli 2016, 2016-0000163111, houdende vaststelling van de Warenwetregeling drukapparatuur 2016, wijziging van de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten en wijziging van de Warenwetregeling machines (Warenwetregeling drukapparatuur 2016)"
+citeertitel: "Warenwetregeling drukapparatuur 2016"
 identifier: "BWBR0038317"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038317"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13705233"
-version_id: "23478422"
-internal_id: "C33817621"
-label_id: "13671784"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038317/2026-01-01/0"
-intitule_bron: "Stcrt.2016-37419"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-07-11"
-intitule_published: "2016-07-18"
-intitule_in_force: "2016-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-37419"
-original_signed_date: "2016-07-11"
-original_published_date: "2016-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-37419"
-entry_into_force_date: "2016-07-19"
-jci_1_3: "jci1.3:c:BWBR0038317&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0038317&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetregeling drukapparatuur 2016"
-signed_date: "2016-07-11"
-entry_into_force: "2016-07-19"
+publicatiedatum: 2016-07-19
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0038317"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 juli 2016, 2016-0000163111, houdende vaststelling van de Warenwetregeling drukapparatuur 2016, wijziging van de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten en wijziging van de Warenwetregeling machines (Warenwetregeling drukapparatuur 2016)
-
-Gelet op de [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=16), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=19), [21, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=21), [22, eerste, zevende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), [23, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=23), [26, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=26), [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=27), [28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=28), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=31), [33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=33), en [35, tweede lid, van het Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=35);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **aanwijzingskavel:** een deel van het werkveld drukapparatuur waarvoor een NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers kan worden aangewezen;
+- a. *aanwijzingskavel:* een deel van het werkveld drukapparatuur waarvoor een NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers kan worden aangewezen;
 
-- b. **besluit:** [Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083);
+- b. *besluit:*
+ [Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083);
 
-- c. **bierinstallatie:** een installatie bedoeld voor het tappen van bier bestaande uit een of meer drukvaten, bijbehorende installatieleidingen, onder druk staande appendages en veiligheidsappendages, en waarbij de drukvaten per stuk een maximaal volume (V) hebben van 1.500 liter, de maximaal toelaatbare druk (PS) in installatieverband drie bar is, de drukvaten voorzien zijn van een kunststof of rubberen binnenmantel en gebruik maken van lucht als drijfgas;
+- c. *bierinstallatie:* een installatie bedoeld voor het tappen van bier bestaande uit een of meer drukvaten, bijbehorende installatieleidingen, onder druk staande appendages en veiligheidsappendages, en waarbij de drukvaten per stuk een maximaal volume (V) hebben van 1.500 liter, de maximaal toelaatbare druk (PS) in installatieverband drie bar is, de drukvaten voorzien zijn van een kunststof of rubberen binnenmantel en gebruik maken van lucht als drijfgas;
 
-- d. **flessen voor ademhalingstoestellen:** flessen voor ademhalingstoestellen die onder de werkingssfeer van de richtlijn vallen;
+- d. *flessen voor ademhalingstoestellen:* flessen voor ademhalingstoestellen die onder de werkingssfeer van de richtlijn vallen;
 
-- e. **huurketel:** brandstofgestookte of anderszins verwarmde drukapparatuur waarbij gevaar voor oververhitting bestaat, bestemd voor de productie van stoom of oververhit water met een temperatuur hoger dan 110 °C met een volume van meer dan twee liter, die regelmatig van plaats van opstelling wisselt en geen eigendom is van de gebruiker;
+- e. *huurketel:* brandstofgestookte of anderszins verwarmde drukapparatuur waarbij gevaar voor oververhitting bestaat, bestemd voor de productie van stoom of oververhit water met een temperatuur hoger dan 110 °C met een volume van meer dan twee liter, die regelmatig van plaats van opstelling wisselt en geen eigendom is van de gebruiker;
 
-- f. **inspectieafdeling van de gebruiker:** inspectieafdeling van de gebruiker, genoemd in [artikel 36 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=36);
+- f. *inspectieafdeling van de gebruiker:* inspectieafdeling van de gebruiker, genoemd in [artikel 36 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=36);
 
-- g. **kelderbierinstallatie:** een bierinstallatie geplaatst bij de gebruiker in een afgesloten ruimte die alleen voor bevoegden toegankelijk is, en waarbij de drukvaten voorzien zijn van een koelmantel, de bijbehorende installatieleidingen geïsoleerd zijn of alle onderdelen van die installatie geplaatst zijn in een geconditioneerde ruimte;
+- g. *kelderbierinstallatie:* een bierinstallatie geplaatst bij de gebruiker in een afgesloten ruimte die alleen voor bevoegden toegankelijk is, en waarbij de drukvaten voorzien zijn van een koelmantel, de bijbehorende installatieleidingen geïsoleerd zijn of alle onderdelen van die installatie geplaatst zijn in een geconditioneerde ruimte;
 
-- h. **mobiele kelderbierinstallatie:** een bierinstallatie in een afgesloten ruimte die alleen voor bevoegden toegankelijk is, die op locatie wordt gebruikt waarbij alleen de bierleidingen nog moeten worden aangesloten aan het tappunt of afleverpunt, en waarbij de drukvaten voorzien zijn van een koelmantel, de bijbehorende installatieleidingen geïsoleerd zijn of alle onderdelen van die installatie geplaatst zijn in een geconditioneerde ruimte;
+- h. *mobiele kelderbierinstallatie:* een bierinstallatie in een afgesloten ruimte die alleen voor bevoegden toegankelijk is, die op locatie wordt gebruikt waarbij alleen de bierleidingen nog moeten worden aangesloten aan het tappunt of afleverpunt, en waarbij de drukvaten voorzien zijn van een koelmantel, de bijbehorende installatieleidingen geïsoleerd zijn of alle onderdelen van die installatie geplaatst zijn in een geconditioneerde ruimte;
 
-- i. **parallel werkende drukapparatuur:** drukapparatuur die als kenmerk heeft dat ze van dezelfde constructie is, uit dezelfde soort materialen is vervaardigd, onder vergelijkbare bedrijfsomstandigheden wordt bedreven en op dezelfde toe- en afvoerleidingen is aangesloten; en
+- i. *parallel werkende drukapparatuur:* drukapparatuur die als kenmerk heeft dat ze van dezelfde constructie is, uit dezelfde soort materialen is vervaardigd, onder vergelijkbare bedrijfsomstandigheden wordt bedreven en op dezelfde toe- en afvoerleidingen is aangesloten; en
 
-- j. **termijn:** de toegestane tijdsduur tussen de eerste keuring voor ingebruikneming onderscheidenlijk intredekeuring en de eerste herkeuring dan wel de toegestane tijdsduur tussen twee opeenvolgende herkeuringen.
+- j. *termijn:* de toegestane tijdsduur tussen de eerste keuring voor ingebruikneming onderscheidenlijk intredekeuring en de eerste herkeuring dan wel de toegestane tijdsduur tussen twee opeenvolgende herkeuringen.
 
 ##### Artikel 2. Drukapparatuur aangewezen voor keuring voor ingebruikneming en herkeuring
 
@@ -70,45 +45,45 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 - 1. Bijlage II, tabel 1, van de richtlijn:
 
-- a. categorie III en IV voor drukvaten met een gas ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn; of
+   - a. categorie III en IV voor drukvaten met een gas ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn; of
 
-- b. categorie I en II voor drukvaten met een gas ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn, dat onstabiel, zeer vergiftig of ontplofbaar is;
+   - b. categorie I en II voor drukvaten met een gas ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn, dat onstabiel, zeer vergiftig of ontplofbaar is;
 
 - 2. Bijlage II, tabel 2, van de richtlijn: categorie III en IV voor drukvaten met een gas ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn;
 
 - 3. Bijlage II, tabel 3, van de richtlijn:
 
-- a. categorie II en III voor drukvaten met een vloeistof ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn; of
+   - a. categorie II en III voor drukvaten met een vloeistof ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn; of
 
-- b. categorie I voor drukvaten met een vloeistof ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn, die zeer vergiftig of ontplofbaar is;
+   - b. categorie I voor drukvaten met een vloeistof ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn, die zeer vergiftig of ontplofbaar is;
 
 - 4. Bijlage II, tabel 4, van de richtlijn:
 
-- a. categorie II voor drukvaten met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn; of
+   - a. categorie II voor drukvaten met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn; of
 
-- b. categorie I voor drukvaten met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn, die gevaarlijk is voor het aquatisch milieu: acuut toxisch categorie 1 en chronisch toxisch categorie 1 en 2;
+   - b. categorie I voor drukvaten met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn, die gevaarlijk is voor het aquatisch milieu: acuut toxisch categorie 1 en chronisch toxisch categorie 1 en 2;
 
 - 5. Bijlage II, tabel 5, van de richtlijn: categorie III en IV;
 
 - 6. Bijlage II, tabel 6, van de richtlijn:
 
-- a. categorie II en III voor installatieleidingen met een gas ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn; of
+   - a. categorie II en III voor installatieleidingen met een gas ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn; of
 
-- b. categorie I voor installatieleidingen met een gas ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn, dat onstabiel, zeer vergiftig of ontplofbaar is;
+   - b. categorie I voor installatieleidingen met een gas ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn, dat onstabiel, zeer vergiftig of ontplofbaar is;
 
 - 7. Bijlage II, tabel 7, van de richtlijn: categorie III voor installatieleidingen met een gas ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn;
 
 - 8. Bijlage II, tabel 8, van de richtlijn:
 
-- a. categorie II en III voor installatieleidingen met een vloeistof ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn; of
+   - a. categorie II en III voor installatieleidingen met een vloeistof ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn; of
 
-- b. categorie I voor installatieleidingen met een vloeistof ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn, die zeer vergiftig of ontplofbaar is;
+   - b. categorie I voor installatieleidingen met een vloeistof ingedeeld in groep 1, bedoeld in artikel 13 van de richtlijn, die zeer vergiftig of ontplofbaar is;
 
 - 9. Bijlage II, tabel 9, van de richtlijn:
 
-- a. categorie II voor installatieleidingen met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn; of
+   - a. categorie II voor installatieleidingen met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn; of
 
-- b. categorie I voor installatieleidingen met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn, die gevaarlijk is voor het aquatisch milieu: acuut toxisch categorie 1 en chronisch toxisch categorie 1 en 2.
+   - b. categorie I voor installatieleidingen met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn, die gevaarlijk is voor het aquatisch milieu: acuut toxisch categorie 1 en chronisch toxisch categorie 1 en 2.
 
 ##### Artikel 3. Beperkingen en uitzonderingen bij de keuring voor ingebruikneming en herkeuring
 
@@ -390,13 +365,13 @@ De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers han
 
 6. Een NL-keuringsdienst van gebruikers kan desgevraagd voor de Aanwijzingskavel A, B, C, D of E, bedoeld in het derde lid, of combinaties daarvan worden aangewezen.
 
-##### Artikel 16. Wijziging [Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten](https://wetten.overheid.nl/jci1.3:c:BWBR0038031)
+##### Artikel 16. Wijziging Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten
 
-Wijzigt de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten.
+*Wijzigt de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten.*
 
-##### Artikel 17. Wijziging [Warenwetregeling machines](https://wetten.overheid.nl/jci1.3:c:BWBR0006022)
+##### Artikel 17. Wijziging Warenwetregeling machines
 
-Wijzigt de Warenwetregeling machines.
+*Wijzigt de Warenwetregeling machines.*
 
 ##### Artikel 18. Intrekking
 
@@ -404,10 +379,8 @@ De [Warenwetregeling drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 19. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 19 juli 2016.
+Deze regeling treedt in werking met ingang van 19 juli 2016.
 
 ##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Warenwetregeling drukapparatuur 2016.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

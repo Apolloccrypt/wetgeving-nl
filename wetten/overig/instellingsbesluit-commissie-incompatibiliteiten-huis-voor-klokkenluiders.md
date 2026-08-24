@@ -1,56 +1,28 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 juli 2016, nr. 2016-0000377599, houdende instelling van de commissie incompatibiliteiten Huis voor klokkenluiders (Instellingsbesluit commissie incompatibiliteiten Huis voor klokkenluiders)"
+citeertitel: "Instellingsbesluit commissie incompatibiliteiten Huis voor klokkenluiders"
 identifier: "BWBR0038301"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-11-02"
-last_updated: "2022-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038301"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "13701433"
-version_id: "23470582"
-internal_id: "C33809481"
-label_id: "13667854"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038301/2022-11-02/0"
-intitule_bron: "Stcrt.2016-37623"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-07-01"
-intitule_published: "2016-07-18"
-intitule_in_force: "2016-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-37623"
-original_signed_date: "2016-07-01"
-original_published_date: "2016-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-37623"
-entry_into_force_date: "2016-07-19"
-jci_1_3: "jci1.3:c:BWBR0038301&z=2022-11-02&g=2022-11-02"
-jci_1_0: "1.0:c:BWBR0038301&g=2022-11-02"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit commissie incompatibiliteiten Huis voor klokkenluiders"
-signed_date: "2016-07-01"
-entry_into_force: "2016-07-19"
+publicatiedatum: 2016-07-19
+laatste_update: 2022-11-02
+status: geldig
+toestand: 2022-11-02
+bron: "https://wetten.overheid.nl/BWBR0038301"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 juli 2016, nr. 2016-0000377599, houdende instelling van de commissie incompatibiliteiten Huis voor klokkenluiders (Instellingsbesluit commissie incompatibiliteiten Huis voor klokkenluiders)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Gehoord het Huis voor klokkenluiders;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** de commissie incompatibiliteiten Huis voor klokkenluiders;
+- *commissie:* de commissie incompatibiliteiten Huis voor klokkenluiders;
 
-- **Het Huis:** Het Huis voor klokkenluiders, bedoeld in [artikel 3 van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3);
+- *Het Huis:* Het Huis voor klokkenluiders, bedoeld in [artikel 3 van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3);
 
-- **de minister:** de minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- *de minister:* de minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2. Instelling en taken
 
@@ -74,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Benoeming
 
-1. Met ingang van 1 november 2022 worden tot leden van de commissie benoemd:
+1. Met ingang van 1 november 2022 worden tot leden van de commissie benoemd:
 
 - a. de heer J.G. Pot, tevens voorzitter;
 
@@ -94,10 +66,8 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2016.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2016.
 
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit commissie incompatibiliteiten Huis voor klokkenluiders.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

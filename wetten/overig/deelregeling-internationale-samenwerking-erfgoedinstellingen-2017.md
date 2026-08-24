@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Internationale Samenwerking Erfgoedinstellingen 2017"
 identifier: "BWBR0038825"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038825"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13813233"
-version_id: "23698812"
-internal_id: "C34114021"
-label_id: "13779254"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038825/2017-01-01/0"
-intitule_bron: "Stcrt.2016-65490"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-07"
-intitule_in_force: "2016-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-65490"
-original_published_date: "2016-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-65490"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038825&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038825&g=2017-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038825"
+opgehaald: 2026-08-24
 ---
+
 # Deelregeling Internationale Samenwerking Erfgoedinstellingen 2017
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -54,17 +31,17 @@ Het stimuleren en zichtbaar maken van nieuw onderzoek en nieuwe inzichten en int
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0038798), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag te zijn voorzien van:
 
-- •. een projectplan,
+- • een projectplan,
 
-- •. een presentatieplan waarin wordt toegelicht hoe een passend publiek wordt betrokken,
+- • een presentatieplan waarin wordt toegelicht hoe een passend publiek wordt betrokken,
 
-- •. een motivering,
+- • een motivering,
 
-- •. een begroting met offertes,
+- • een begroting met offertes,
 
-- •. een verklaring dat het onderzoek niet op andere wijze gefinancierd kan worden,
+- • een verklaring dat het onderzoek niet op andere wijze gefinancierd kan worden,
 
-- •. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
+- • indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
 ##### Artikel 4. Beoordeling
 
@@ -72,13 +49,13 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 2. Bij de beoordeling van een aanvraag voor een internationale samenwerkingsproject tussen erfgoedinstellingen geeft het bevoegd adviesorgaan een oordeel over het cultuurhistorische belang van het onderwerp en het te tonen erfgoed. Daarbij betrekt het de volgende aspecten in zijn oordeel:
 
-- •. het belang en/of innovatieve gehalte van het onderzoek,
+- • het belang en/of innovatieve gehalte van het onderzoek,
 
-- •. het belang van de betrokken instellingen,
+- • het belang van de betrokken instellingen,
 
-- •. de kwaliteit van het onderzoeksplan,
+- • de kwaliteit van het onderzoeksplan,
 
-- •. het belang van het presentatieplan wordt beoordeeld op de wijze waarop beoogd wordt op een inspirerende wijze een passend publiek te bereiken.
+- • het belang van het presentatieplan wordt beoordeeld op de wijze waarop beoogd wordt op een inspirerende wijze een passend publiek te bereiken.
 
 3. Indien het bevoegd adviesorgaan de in het tweede lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag. Indien het bevoegd adviesorgaan de in het tweede lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.
 
@@ -97,5 +74,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2017. Indien de Staatsc
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Internationale Samenwerking Erfgoedinstellingen 2017.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

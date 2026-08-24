@@ -1,57 +1,27 @@
 ---
 title: "Regeling cafetariamodel defensie"
 identifier: "BWBR0038619"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-28"
-last_updated: "2024-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038619"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13769743"
-version_id: "30446662"
-internal_id: "C43658001"
-label_id: "13736074"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038619/2024-11-28/0"
-intitule_bron: "Stcrt.2016-54988"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-11"
-intitule_published: "2016-10-19"
-intitule_in_force: "2016-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-38708"
-original_signed_date: "2024-11-19"
-original_published_date: "2024-11-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-38708"
-entry_into_force_date: "2024-11-19"
-jci_1_3: "jci1.3:c:BWBR0038619&z=2024-11-28&g=2024-11-28"
-jci_1_0: "1.0:c:BWBR0038619&g=2024-11-28"
-citeertitel_status: "officieel"
-signed_date: "2024-11-19"
-entry_into_force: "2024-11-19"
+publicatiedatum: 2024-11-19
+laatste_update: 2024-11-28
+status: geldig
+toestand: 2024-11-28
+bron: "https://wetten.overheid.nl/BWBR0038619"
+opgehaald: 2026-08-24
 ---
+
 # Regeling cafetariamodel defensie
-
-Gelet op:
-
-[artikel 15 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=15);
-
-[artikel 44 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=44).
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **defensieambtenaar:** de militair als bedoeld in [artikel 1, eerste lid onderdeel c onder 1 het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) die op of na 1 oktober 2016 in werkelijke dienst is of de ambtenaar die op of na 1 oktober 2016 in burgerlijke openbare dienst is bij het Ministerie van Defensie als bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
+- a. *defensieambtenaar:* de militair als bedoeld in [artikel 1, eerste lid onderdeel c onder 1 het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) die op of na 1 oktober 2016 in werkelijke dienst is of de ambtenaar die op of na 1 oktober 2016 in burgerlijke openbare dienst is bij het Ministerie van Defensie als bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
 
-- b. **bronnen:** de aanspraken, genoemd in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2024-11-28&g=2024-11-28);
+- b. *bronnen:* de aanspraken, genoemd in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2024-11-28&g=2024-11-28);
 
-- c. **doelen:** de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2024-11-28&g=2024-11-28).
+- c. *doelen:* de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2024-11-28&g=2024-11-28).
 
 ##### Artikel 2. Aanvraag
 
@@ -83,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de vakantie-uitkering;
 
-- d. een eenmalig bedrag ter waarde van € 1.000 netto in het jaar 2024.
+- d. een eenmalig bedrag ter waarde van € 1.000 netto in het jaar 2024.
 
 2. De geldswaarde van de bron op het moment van de aanvraag, genoemd in het eerste lid, wordt voor de eindejaarsuitkering en de vakantie-uitkering bepaald aan de hand van de cumulatief opgebouwde aanspraak en voor het jaarsalaris aan de hand van het in dat kalenderjaar ontvangen salaris plus het voor de rest van het kalenderjaar geprognotiseerde salaris.
 
@@ -93,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor zover de geldende fiscale bepalingen dit mogelijk maken, worden de onderstaande bestedingsmogelijkheden als doelen aangemerkt:
 
-- a. het verschil per jaar of per maand tussen de tegemoetkoming in de kosten van het reizen met eigen vervoer voor woon- werkverkeer en het fiscaal maximum van € 0,23 per kilometer;
+- a. het verschil per jaar of per maand tussen de tegemoetkoming in de kosten van het reizen met eigen vervoer voor woon- werkverkeer en het fiscaal maximum van € 0,23 per kilometer;
 
 - b. een fiets voor persoonlijk gebruik, inclusief fietsaccessoires en een fietsverzekering;
 
@@ -119,9 +89,9 @@ In deze regeling wordt verstaan onder:
 
 - f. de defensieambtenaar schenkt noch verkoopt de fiets of computer binnen twee jaar na aanschaf;
 
-- g. het maximum bedrag waarvoor een aanvraag voor de aanschaf van een fiets of computer kan worden ingediend, bedraagt in totaal € 1.500;
+- g. het maximum bedrag waarvoor een aanvraag voor de aanschaf van een fiets of computer kan worden ingediend, bedraagt in totaal € 1.500;
 
-- h. het maximum bedrag waarvoor een aanvraag voor de aanschaf van een accu of andere onderdelen voor een elektrische fiets worden ingediend, bedraagt in totaal € 500.
+- h. het maximum bedrag waarvoor een aanvraag voor de aanschaf van een accu of andere onderdelen voor een elektrische fiets worden ingediend, bedraagt in totaal € 500.
 
 3. Voor de in het eerste lid, onder f, genoemde bestedingsmogelijkheid gelden de volgende voorwaarden:
 
@@ -129,7 +99,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de defensieambtenaar legt bij de aanvraag op naam gestelde bewijsstukken over waaruit blijkt dat de kosten voor deze bestedingsmogelijkheden daadwerkelijk in het betreffende kalenderjaar zijn gemaakt bij een reguliere detailhandel;
 
-- c. het maximum bedrag waarvoor een aanvraag kan worden ingediend, bedraagt in totaal € 1.000 netto.
+- c. het maximum bedrag waarvoor een aanvraag kan worden ingediend, bedraagt in totaal € 1.000 netto.
 
 4. Indien het bedrag, genoemd in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2024-11-28&g=2024-11-28), deels of volledig wordt gebruikt voor de in het eerste lid onder b en c genoemde bestedingsmogelijkheden gelden uitsluitend de voorwaarden, genoemd in het derde lid.
 
@@ -141,36 +111,14 @@ In deze regeling wordt verstaan onder:
 
 3. Bij overlijden van de defensieambtenaar wordt een eventueel saldo ten gunste van het Ministerie van Defensie niet teruggevorderd.
 
+##### Artikel 6a. Grondslag
+
+Met ingang van 1 januari 2018 berust deze regeling mede op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=8) en [43 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=43) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=5) en [14 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=14).
+
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2016.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2016.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling cafetariamodel defensie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Grondslag
-
-Met ingang van 1 januari 2018 berust deze regeling mede op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=8) en [43 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=43) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=5) en [14 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=14).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Tabel 1
-
-Maatregelen ter verduurzaming van de eigen (huur)woning:
-
-- •. Isolatie (bijvoorbeeld gevel, spouwmuur, dak, vloer, zolder- en vlieringvloer, bodem, isolerende deuren en isolerende raambekleding, HR++ glas, HR+++ glas, vacuümglas).
-
-- •. Duurzaam verwarmen, koelen en ventileren (bijvoorbeeld (hybride) warmtepomp, zonneboiler, installaties voor warmteterugwinning, CO2-gestuurde ventilatie, aansluiting op warmtenet, reflecterende en schaduwdaken, zonwering, rolluiken en screens).
-
-- •. Duurzame energie (bijvoorbeeld aanschaf zonnepanelen).
-
-- •. Klimaatbestendig maken en biodiversiteit versterken (bijvoorbeeld groene daken en gevels, waterdaken, regenpijp afkoppelen).
-
-- •. Bewustwording (bijvoorbeeld energiemonitor met slimme meter).
-
-- •. Kleine maatregelen (bijvoorbeeld radiatorfolie en -ventilator, tochtstrippen en -borstels, kozijnfolie, waterbesparende douchekop, sensoren voor lampen en kranen, efficiënter maken van bestaande verwarming).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

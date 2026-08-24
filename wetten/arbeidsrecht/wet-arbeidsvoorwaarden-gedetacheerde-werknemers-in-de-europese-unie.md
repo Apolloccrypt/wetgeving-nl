@@ -1,48 +1,18 @@
 ---
 title: "Wet van 1 juni 2016, houdende Regeling van de arbeidsvoorwaarden van gedetacheerde werknemers in verband met de implementatie van Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van de detacheringsrichtlijn en tot wijziging van de IMI-verordening over de administratieve samenwerking via het Informatiesysteem interne markt (Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)"
+citeertitel: "Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie"
 identifier: "BWBR0038054"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038054"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "13650083"
-version_id: "29398972"
-internal_id: "C42007811"
-label_id: "13617014"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038054/2024-01-01/0"
-intitule_bron: "Stb.2016-219"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-01"
-intitule_published: "2016-06-17"
-intitule_in_force: "2016-06-17"
-intitule_status: "goed"
-original_publication: "Stb.2023-151"
-original_signed_date: "2023-02-22"
-original_published_date: "2023-05-10"
-original_effect: "structuurwijziging"
-original_dossier: "36166"
-original_url_id: "stb-2023-151"
-entry_into_force_date: "2023-02-22"
-entry_into_force_dossier: "36166"
-jci_1_3: "jci1.3:c:BWBR0038054&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0038054&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie"
-signed_date: "2023-02-22"
-entry_into_force: "2023-02-22"
+publicatiedatum: 2023-02-22
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0038054"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 1 juni 2016, houdende Regeling van de arbeidsvoorwaarden van gedetacheerde werknemers in verband met de implementatie van Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van de detacheringsrichtlijn en tot wijziging van de IMI-verordening over de administratieve samenwerking via het Informatiesysteem interne markt (Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is in verband met de implementatie van [Richtlijn 2014/67](32014L0067)/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van [Richtlijn 96/71/EG](31996L0071) betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (de detacheringsrichtlijn) en tot wijziging van Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt (PbEG2014,L159/11(«de IMI-verordening»)), kort aangeduid als de handhavingsrichtlijn, een nieuwe wet vast te stellen tot regeling van de arbeidsvoorwaarden voor gedetacheerde werknemers in de Europese Unie ter vervanging van de [Wet arbeidsvoorwaarden grensoverschrijdende arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0010925) en voorts de [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987) aan te passen, waarbij tevens de samenwerking en wederzijdse bijstand in de handhaving in de Europese Unie wordt geregeld en ter bevordering van die handhaving een meldingssysteem wordt ingevoerd, en overtredingen van deze meldingsplicht en van informatieverplichtingen met een bestuurlijke boete worden gesanctioneerd;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -50,41 +20,45 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **bevoegde instantie:** de bevoegde instantie in een andere lidstaat, bedoeld in artikel 2, onderdeel a, van de handhavingsrichtlijn;
+- – *bevoegde instantie:* de bevoegde instantie in een andere lidstaat, bedoeld in artikel 2, onderdeel a, van de handhavingsrichtlijn;
 
-- –. **derde land:** een land dat geen lidstaat is;
+- – *derde land:* een land dat geen lidstaat is;
 
-- –. **detacheringsrichtlijn:** [Richtlijn 96/71/EG](31996L0071) van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEG 1997, L018);
+- – *detacheringsrichtlijn:*
+ Richtlijn 96/71/EG van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEG 1997, L018);
 
-- –. **dienstontvanger:** de natuurlijke persoon die in Nederland zijn woonplaats of gewone verblijfplaats heeft of de onderneming of rechtspersoon, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) onderscheidenlijk [artikel 6 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=6), die in Nederland is gevestigd, dan wel de onderneming, die in Nederland werkzaam is of er werkzaamheden doet verrichten maar niet in Nederland is gevestigd, waarvoor een gedetacheerde werknemer of zelfstandige in het kader van transnationale dienstverrichting werkzaamheden verricht;
+- – *dienstontvanger:* de natuurlijke persoon die in Nederland zijn woonplaats of gewone verblijfplaats heeft of de onderneming of rechtspersoon, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) onderscheidenlijk [artikel 6 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=6), die in Nederland is gevestigd, dan wel de onderneming, die in Nederland werkzaam is of er werkzaamheden doet verrichten maar niet in Nederland is gevestigd, waarvoor een gedetacheerde werknemer of zelfstandige in het kader van transnationale dienstverrichting werkzaamheden verricht;
 
-- –. **dienstverrichter:** degene die vanuit een andere lidstaat in het kader van transnationale dienstverrichting zijn werknemer ter beschikking stelt om tijdelijk arbeid te verrichten in Nederland;
+- – *dienstverrichter:* degene die vanuit een andere lidstaat in het kader van transnationale dienstverrichting zijn werknemer ter beschikking stelt om tijdelijk arbeid te verrichten in Nederland;
 
-- –. **gedetacheerde werknemer:** de werknemer die in het kader van transnationale dienstverrichting op basis van een arbeidsovereenkomst tijdelijk arbeid verricht in Nederland en niet gewoonlijk in of vanuit Nederland arbeid verricht;
+- – *gedetacheerde werknemer:* de werknemer die in het kader van transnationale dienstverrichting op basis van een arbeidsovereenkomst tijdelijk arbeid verricht in Nederland en niet gewoonlijk in of vanuit Nederland arbeid verricht;
 
-- –. **Handels- en samenwerkingsovereenkomst EU-VK:** Handels- en samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie, enerzijds, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, anderzijds (PbEU 2021, L 149);
+- – *Handels- en samenwerkingsovereenkomst EU-VK:* Handels- en samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie, enerzijds, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, anderzijds (PbEU 2021, L 149);
 
-- –. **handhavingsrichtlijn:** [Richtlijn 2014/67](32014L0067)/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van [Richtlijn 96/71/EG](31996L0071) betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt (PbEU 2014, L159/11);
+- – *handhavingsrichtlijn:*
+ Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van Richtlijn 96/71/EG betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt (PbEU 2014, L159/11);
 
-- –. **IMI:** het Informatiesysteem interne markt, bedoeld in de IMI-verordening, met inbegrip van de openbare met dit systeem verbonden interface;
+- – *IMI:* het Informatiesysteem interne markt, bedoeld in de IMI-verordening, met inbegrip van de openbare met dit systeem verbonden interface;
 
-- –. **IMI-verordening:** [Verordening (EU) nr. 1024/2012](32012R1024) van het Europees Parlement en de Raad van 25 oktober 2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt en tot intrekking van Beschikking 2008/49/EG van de Commissie (PbEU 2012, L 316);
+- – *IMI-verordening:*
+ Verordening (EU) nr. 1024/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt en tot intrekking van Beschikking 2008/49/EG van de Commissie (PbEU 2012, L 316);
 
-- –. **lidstaat:** een staat binnen de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;
+- – *lidstaat:* een staat binnen de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;
 
-- –. **mobiliteitsrichtlijn:** [Richtlijn (EU) 2020/1057](32020L1057) van het Europees Parlement en de Raad van 15 juli 2020 tot vaststelling van specifieke regels met betrekking tot [Richtlijn 96/71/EG](31996L0071) en [Richtlijn 2014/67](32014L0067)/EU wat betreft de detachering van bestuurders in de wegvervoersector en tot wijziging van [Richtlijn 2006/22/EG](32006L0022) wat betreft de handhavingsvoorschriften en [Verordening (EU) nr. 1024/2012](32012R1024) (PbEU 2020, L 249);
+- – *mobiliteitsrichtlijn:*
+ Richtlijn (EU) 2020/1057 van het Europees Parlement en de Raad van 15 juli 2020 tot vaststelling van specifieke regels met betrekking tot Richtlijn 96/71/EG en Richtlijn 2014/67/EU wat betreft de detachering van bestuurders in de wegvervoersector en tot wijziging van Richtlijn 2006/22/EG wat betreft de handhavingsvoorschriften en Verordening (EU) nr. 1024/2012 (PbEU 2020, L 249);
 
-- –. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- – *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **transnationale dienstverrichting:**
+- – *transnationale dienstverrichting:*
 
-- 1. het voor rekening en onder toezicht en leiding van de dienstverrichter ter beschikking stellen van een werknemer aan de dienstontvanger om arbeid te verrichten in een andere lidstaat in het kader van een overeenkomst tussen de dienstverrichter en de dienstontvanger;
+   - 1. het voor rekening en onder toezicht en leiding van de dienstverrichter ter beschikking stellen van een werknemer aan de dienstontvanger om arbeid te verrichten in een andere lidstaat in het kader van een overeenkomst tussen de dienstverrichter en de dienstontvanger;
 
-- 2. het ter beschikking stellen van een werknemer van een onderneming aan een vestiging van die onderneming of aan een tot hetzelfde concern behorende onderneming in een andere lidstaat;
+   - 2. het ter beschikking stellen van een werknemer van een onderneming aan een vestiging van die onderneming of aan een tot hetzelfde concern behorende onderneming in een andere lidstaat;
 
-- 3. het door de dienstverrichter tegen vergoeding ter beschikking stellen van een werknemer aan de dienstontvanger om onder toezicht en leiding van de dienstontvanger arbeid te verrichten op het grondgebied van een andere lidstaat;
+   - 3. het door de dienstverrichter tegen vergoeding ter beschikking stellen van een werknemer aan de dienstontvanger om onder toezicht en leiding van de dienstontvanger arbeid te verrichten op het grondgebied van een andere lidstaat;
 
-- –. **zelfstandige:** degene die in de uitoefening van beroep of bedrijf vanuit een andere lidstaat tijdelijk arbeid verricht in Nederland, maar niet in Nederland zijn woonplaats of gewone verblijfplaats heeft of niet gewoonlijk in of vanuit Nederland arbeid verricht.
+- – *zelfstandige:* degene die in de uitoefening van beroep of bedrijf vanuit een andere lidstaat tijdelijk arbeid verricht in Nederland, maar niet in Nederland zijn woonplaats of gewone verblijfplaats heeft of niet gewoonlijk in of vanuit Nederland arbeid verricht.
 
 2. Deze wet is niet van toepassing op zeevarend personeel van koopvaardijondernemingen.
 
@@ -127,6 +101,18 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 4. Het tweede lid is niet van toepassing op een zeevarende werkzaam op basis van een arbeidsovereenkomst in de zeevisserij als bedoeld in [artikel 739 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=739).
 
 5. De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte de in dit artikel aan hem toegekende rechten geldend maakt, ter zake bijstand heeft verleend of een klacht hierover heeft ingediend.
+
+##### Artikel 3a
+
+1. De werknemer die ter beschikking is gesteld in de zin van onderdeel 3 van transnationale dienstverrichting als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=I&artikel=1&z=2024-01-01&g=2024-01-01), en door de dienstontvanger in het kader van transnationale dienstverrichting ter beschikking wordt gesteld om tijdelijk arbeid te verrichten in een andere lidstaat dan de lidstaat waar de werknemer gewoonlijk werkt voor hetzij de dienstverrichter, hetzij de dienstontvanger, wordt geacht in die lidstaat ter beschikking te zijn gesteld door de dienstverrichter.
+
+2. De dienstontvanger informeert de dienstverrichter tijdig en voor aanvang van de terbeschikkingstelling, bedoeld in het eerste lid.
+
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing met betrekking tot de arbeidskracht die ter beschikking is gesteld, bedoeld in [artikel 1 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=1), met dien verstande dat onder dienstontvanger wordt verstaan de inlener als bedoeld in [artikel 7a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a), en onder dienstverrichter degene die de arbeidskracht ter beschikking stelt.
+
+##### Artikel 3b
+
+De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer een gerechtelijke of administratieve procedure start om de in deze wet of de in [artikel 2a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) aan hem toegekende rechten geldend te maken.
 
 ### Hoofdstuk III. Informatie, administratieve samenwerking en melding
 
@@ -198,37 +184,37 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 8. De werkzaamheden van Onze Minister in verband met dit artikel kunnen worden uitgevoerd door een door Onze Minister aan te wijzen zelfstandig bestuursorgaan. Onze Minister kan voor de verwerking van de gegevens op grond van dit artikel een verwerker aanwijzen.
 
-9. De dienstverrichter en de zelfstandige voor wie de verplichting geldt, bedoeld in artikel 8, zesde lid, houden de melding actueel.
+9. De dienstverrichter en de zelfstandige voor wie de verplichting geldt, bedoeld in artikel 8, zesde lid, houden de melding actueel.
 
 ##### Artikel 9
 
-1. Tijdens de periode van detachering draagt de dienstverrichter er zorg voor dat op de werkplek, bedoeld in [artikel 8, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), schriftelijk of elektronisch beschikbaar zijn:
+1. Tijdens de periode van detachering draagt de dienstverrichter er zorg voor dat op de werkplek, bedoeld in [artikel 8, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), schriftelijk of elektronisch beschikbaar zijn:
 
 - a. een loonstrookje, waarop ten minste wordt vermeld het loonbedrag, inclusief de gespecificeerde bedragen waaruit dit is samengesteld en de bedragen die op het loon zijn ingehouden, de namen van de werkgever en werknemer, de termijn waarover het loon is berekend en de overeengekomen arbeidsduur;
 
-- b. een arbeidsovereenkomst, of een gelijkwaardig document in de zin van [Richtlijn (EU) 2019/1152](32019L1152) van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie (PbEU 2019, L 186), waarin ten minste wordt vermeld:
+- b. een arbeidsovereenkomst, of een gelijkwaardig document in de zin van Richtlijn (EU) 2019/1152 van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie (PbEU 2019, L 186), waarin ten minste wordt vermeld:
 
-- 1°. de identiteit van partijen;
+   - 1°. de identiteit van partijen;
 
-- 2°. indien de arbeid niet of niet hoofdzakelijk op een vaste werkplek wordt verricht, de vermelding dat de werknemer zijn arbeid op verschillende plaatsen verricht of vrij is zijn werkplek te bepalen;
+   - 2°. indien de arbeid niet of niet hoofdzakelijk op een vaste werkplek wordt verricht, de vermelding dat de werknemer zijn arbeid op verschillende plaatsen verricht of vrij is zijn werkplek te bepalen;
 
-- 3°. de functie van de werknemer of de aard van zijn arbeid;
+   - 3°. de functie van de werknemer of de aard van zijn arbeid;
 
-- 4°. het tijdstip van indiensttreding;
+   - 4°. het tijdstip van indiensttreding;
 
-- 5°. indien de overeenkomst voor bepaalde tijd is gesloten, de einddatum of de duur van de overeenkomst;
+   - 5°. indien de overeenkomst voor bepaalde tijd is gesloten, de einddatum of de duur van de overeenkomst;
 
-- 6°. de aanspraak op vakantie of ander betaald verlof waarop de werknemer recht heeft of de wijze van berekening van die aanspraken;
+   - 6°. de aanspraak op vakantie of ander betaald verlof waarop de werknemer recht heeft of de wijze van berekening van die aanspraken;
 
-- 7°. het loon, met inbegrip van het aanvangsbedrag, de afzonderlijke bestanddelen ervan, de wijze en frequentie van uitbetaling en indien het loon afhankelijk is van de uitkomsten van de te verrichten arbeid, de per dag of per week aan te bieden hoeveelheid arbeid, de prijs per stuk en de tijd die redelijkerwijs met de uitvoering is gemoeid;
+   - 7°. het loon, met inbegrip van het aanvangsbedrag, de afzonderlijke bestanddelen ervan, de wijze en frequentie van uitbetaling en indien het loon afhankelijk is van de uitkomsten van de te verrichten arbeid, de per dag of per week aan te bieden hoeveelheid arbeid, de prijs per stuk en de tijd die redelijkerwijs met de uitvoering is gemoeid;
 
-- 8°. de normale dagelijkse of wekelijkse arbeidstijd van de werknemer;
+   - 8°. de normale dagelijkse of wekelijkse arbeidstijd van de werknemer;
 
-- 9°. de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, dan wel de toepasselijke arbeidsvoorwaarden op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=8) of [8a van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=8a);
+   - 9°. de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, dan wel de toepasselijke arbeidsvoorwaarden op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=8) of [8a van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=8a);
 
-- 10°. indien van toepassing, de duur en voorwaarden van de proeftijd;
+   - 10°. indien van toepassing, de duur en voorwaarden van de proeftijd;
 
-- 11°. indien van toepassing, het door de werkgever geboden recht op scholing;
+   - 11°. indien van toepassing, het door de werkgever geboden recht op scholing;
 
 - c. bescheiden waaruit blijkt hoeveel uren de gedetacheerde werknemer heeft gewerkt;
 
@@ -236,11 +222,143 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 - e. een bewijs waaruit blijkt welk loon aan de gedetacheerde werknemer is voldaan.
 
-2. De zelfstandige voor wie de verplichting geldt, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), draagt er zorg voor dat tijdens de periode, waarin hij werkzaamheden verricht, op de werkplek bewijsstukken aanwezig zijn waaruit zijn identiteit en de identiteit van de dienstontvanger blijken.
+2. De zelfstandige voor wie de verplichting geldt, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), draagt er zorg voor dat tijdens de periode, waarin hij werkzaamheden verricht, op de werkplek bewijsstukken aanwezig zijn waaruit zijn identiteit en de identiteit van de dienstontvanger blijken.
 
 3. De dienstverrichter en de zelfstandige dragen er zorg voor dat de bescheiden, bedoeld in het eerste en tweede lid, na de periode van detachering of de periode waarin de werkzaamheden worden verricht binnen redelijke termijn op verzoek aan de aangewezen ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=5&z=2024-01-01&g=2024-01-01), worden verstrekt.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de vereisten waaraan de bescheiden, bedoeld in het eerste en tweede lid, voldoen, de plaats waar deze bescheiden beschikbaar worden gesteld en met betrekking tot het derde lid.
+
+### Hoofdstuk IIIa. Specifieke regels met betrekking tot de wegvervoersector
+
+##### Artikel 9a
+
+1. In de artikelen van dit hoofdstuk wordt verstaan onder:
+
+- – *gedetacheerde bestuurder:* de gedetacheerde werknemer, die als bestuurder in de wegvervoersector ter beschikking wordt gesteld in de zin van onderdeel 1 van de begripsbepaling van transnationale dienstverrichting, anders dan voor de activiteiten, bedoeld in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IIIa&artikel=9b&z=2024-01-01&g=2024-01-01);
+
+- – *Richtlijn 92/106/EEG:*
+ Richtlijn 92/106/EEG van de Raad van 7 december 1992 houdende vaststelling van gemeenschappelijke voorschriften voor bepaalde vormen van gecombineerd vervoer van goederen tussen Lid-Staten (PbEG 1992, L 368);
+
+- – *Verordening 1071/2009/EG:*
+ Verordening (EG) nr. 1071/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad (PbEU L 300/51);
+
+- – *Verordening 1072/2009/EG:*
+ Verordening (EG) nr. 1072/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de markt voor internationaal goederenvervoer over de weg (PbEU 2009, L 300/72);
+
+- – *Verordening 1073/2009/EG:*
+ Verordening (EG) nr. 1073/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de internationale markt voor touringcar- en autobusdiensten en tot wijziging van Verordening (EG) nr. 561/2006 (PbEU 2009, L 300/88);
+
+- – *Verordening 165/2014/EU:*
+ Verordening (EU) nr. 165/2014 van het Europees Parlement en de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van Verordening (EEG) nr. 3821/85 van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEU L 60/1);
+
+- – *Verordening 561/2006/EG:*
+ Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer, tot wijziging van Verordeningen (EEG) nr. 3821/85 en (EG) nr. 2135/98 van de Raad en tot intrekking van Verordening (EEG) nr. 3820/85 van de Raad (PbEU L 102/1).
+
+2. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=I&artikel=1&z=2024-01-01&g=2024-01-01), wordt voor de toepassing van dit hoofdstuk onder lidstaat verstaan: een staat binnen de Europese Unie en bij ministeriële regeling aangewezen staten.
+
+##### Artikel 9b
+
+1. Een bestuurder wordt aangemerkt als gedetacheerde werknemer, indien hij:
+
+- a. in Nederland cabotage verricht als bedoeld in Verordeningen 1072/2009/EG en 1073/2009/EG; of
+
+- b. niet-bilaterale vervoersactiviteiten verricht, bestaande in:
+
+   - 1°. het vervoer van goederen op basis van een vervoersovereenkomst buiten de lidstaat van vestiging, bedoeld in artikel 2, onderdeel 8, van Verordening 1071/2009/EG, tussen Nederland en een andere lidstaat of een derde land; of
+
+   - 2°. het vervoer van personen buiten de lidstaat van vestiging, tussen Nederland en een andere lidstaat of een derde land.
+
+2. Een bestuurder wordt niet aangemerkt als gedetacheerde werknemer, indien hij:
+
+- a. bilaterale vervoersactiviteiten in het goederenvervoer verricht, bestaande in:
+
+   - 1°. het vervoer van goederen op basis van een vervoersovereenkomst van de lidstaat van vestiging, bedoeld in artikel 2, onderdeel 8, van Verordening 1071/2009/EG, naar een andere lidstaat of een derde land;
+
+   - 2°. het vervoer van goederen op basis van een vervoersovereenkomst van een andere lidstaat of een derde land naar de lidstaat van vestiging;
+
+   - 3°. het verrichten van een bilaterale vervoersactiviteit als bedoeld in subonderdeel 1° of 2°, naast het verrichten van ten hoogste één laad- en één losactiviteit in de lidstaten of derde landen die worden doorkruist, mits de bestuurder de goederen niet laadt en lost in dezelfde lidstaat en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van Verordening 165/2014/EU;
+
+   - 4°. het verrichten van een bilaterale vervoersactiviteit vanuit de lidstaat van vestiging, waarbij geen extra activiteit wordt verricht, gevolgd door een bilaterale vervoersactiviteit naar de lidstaat van vestiging, waarbij ten hoogste twee extra laad- en twee losactiviteiten worden verricht in de lidstaten of derde landen die worden doorkruist, mits de bestuurder de goederen niet laadt en lost in dezelfde lidstaat en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van Verordening 165/2014/EU; of
+
+   - 5°. het uitvoeren van het begin- of eindtraject van gecombineerd vervoer als bedoeld in Richtlijn 92/106/EEG, mits het wegtraject bestaat uit bilaterale vervoersactiviteiten als bedoeld in de subonderdelen 1° tot en met 4°;
+
+- b. bilaterale vervoersactiviteiten in het personenvervoer verricht, bestaande in:
+
+   - 1°. het meenemen van passagiers vanuit de lidstaat van vestiging, bedoeld in onderdeel a, en het afzetten van deze passagiers in een andere lidstaat of derde land;
+
+   - 2°. het meenemen van passagiers vanuit een lidstaat of derde land en het afzetten van deze passagiers in de lidstaat van vestiging;
+
+   - 3°. het meenemen van passagiers en het afzetten van deze passagiers in de lidstaat van vestiging om plaatselijke excursies in een andere lidstaat of een derde land uit te voeren, overeenkomstig Verordening 1073/2009/EG; of
+
+   - 4°. het verrichten van een activiteit als bedoeld in subonderdeel 1° of 2°, of de terugrit van dit traject, naast het ten hoogste eenmaal laten instappen en eenmaal laten uitstappen van passagiers in de lidstaten of derde landen die worden doorkruist, mits de bestuurder geen personenvervoersdiensten tussen twee locaties binnen de doorkruiste lidstaat aanbiedt en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van Verordening 165/2014/EU; of
+
+- c. door Nederland heen rijdt zonder dat er vracht wordt geladen of gelost en zonder dat er passagiers in- of uitstappen.
+
+##### Artikel 9c
+
+Voor de toepassing van [artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=II&artikel=2&z=2024-01-01&g=2024-01-01), wordt de detachering van een gedetacheerde bestuurder geacht te zijn beëindigd wanneer hij bij het verrichten van het internationaal vervoer van goederen of personen Nederland verlaat. Deze detacheringsperiode wordt niet gecumuleerd met eerdere detacheringsperiodes in het kader van dergelijke internationale activiteiten van dezelfde bestuurder of van de bestuurder die hij vervangt.
+
+##### Artikel 9d
+
+In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01) wijst de dienstverrichter die een gedetacheerde bestuurder detacheert als contactpersoon de vervoersmanager of een andere persoon in de lidstaat van vestiging aan, die optreedt als tussenpersoon met de door Onze Minister aangewezen ambtenaren en met wie documenten of berichten worden uitgewisseld.
+
+##### Artikel 9e
+
+1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01) is de dienstverrichter, die een gedetacheerde bestuurder detacheert naar Nederland, verplicht om op een tijdstip voor aanvang van de werkzaamheden een detacheringsverklaring in te dienen bij Onze Minister via het IMI, met de volgende informatie:
+
+- a. de identiteit van de dienstverrichter;
+
+- b. de contactgegevens van de contactpersoon;
+
+- c. de identiteit, de verblijfplaats en het nummer van het rijbewijs van de gedetacheerde bestuurder;
+
+- d. de aanvangsdatum van de arbeidsovereenkomst van de gedetacheerde bestuurder en het daarop toepasselijke recht;
+
+- e. de vermoedelijke duur van de detachering;
+
+- f. de kentekenplaten van de motorvoertuigen; en
+
+- g. de aard van de verrichte vervoersdiensten.
+
+2. De dienstverrichter houdt de detacheringsverklaringen actueel in het IMI.
+
+##### Artikel 9f
+
+1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01) draagt de dienstverrichter, die een gedetacheerde bestuurder detacheert naar Nederland, er zorg voor dat deze bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:
+
+- a. een kopie van de detacheringsverklaring, bedoeld in [artikel 9e](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IIIa&artikel=9e&z=2024-01-01&g=2024-01-01);
+
+- b. bewijs van het vervoer dat plaatsvindt in Nederland, zoals een elektronische vrachtbrief of een bewijs als bedoeld in artikel 8, derde lid, van Verordening 1072/2009/EG; en
+
+- c. de tachograafgegevens, met name de landsymbolen van de lidstaten waar de bestuurder zich bevond tijdens internationaal wegvervoer of cabotage, in overeenstemming met de registratievoorschriften in het kader van Verordening 561/2006/EG en Verordening 165/2014/EU.
+
+2. Na de detacheringsperiode verstrekt de dienstverrichter, uiterlijk acht weken na een verzoek van de door Onze Minister aangewezen ambtenaren, via het IMI:
+
+- a. kopieën van de in het eerste lid, onderdelen b en c, bedoelde documenten;
+
+- b. documentatie in verband met de beloning van de bestuurder met betrekking tot de detacheringsperiode;
+
+- c. de arbeidsovereenkomst met de bestuurder of een gelijkwaardig document als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01);
+
+- d. bescheiden waaruit blijkt hoeveel uren de bestuurder heeft gewerkt; en
+
+- e. een bewijs, waaruit blijkt welk loon aan de bestuurder is voldaan.
+
+##### Artikel 9g
+
+In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01) draagt de dienstverrichter, die een bestuurder in Nederland arbeid in de wegvervoersector laat verrichten in de zin van onderdeel 1 van de begripsbepaling van transnationale dienstverrichting, zonder als gedetacheerde bestuurder te worden aangemerkt, er zorg voor dat de bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:
+
+- a. het bewijs van het betrokken internationaal vervoer, zoals een elektronische vrachtbrief of een bewijs als bedoeld in artikel 8, derde lid, van Verordening 1072/2009/EG; en
+
+- b. de tachograafgegevens, met name de landsymbolen van de lidstaten waar de bestuurder zich bevond tijdens internationaal wegvervoer of cabotage, in overeenstemming met de registratievoorschriften in het kader van Verordening 561/2006/EG en Verordening 165/2014/EU.
+
+##### Artikel 9h
+
+Voor de toepassing van dit hoofdstuk, van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=II&artikel=2&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=4&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=6&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=12&z=2024-01-01&g=2024-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=14&z=2024-01-01&g=2024-01-01) van deze wet en van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) en [10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a), wordt degene die vanuit het Verenigd Koninkrijk een gedetacheerde bestuurder ter beschikking stelt om tijdelijk arbeid te verrichten in Nederland, bestaande in het vervoer van goederen over de weg, aangemerkt als dienstverrichter.
+
+##### Artikel 9i
+
+In een derde land gevestigde vervoersondernemingen mogen geen gunstiger behandeling krijgen dan gelijksoortige in een lidstaat gevestigde ondernemingen.
 
 ### Hoofdstuk IV. Wederzijdse bijstand bij handhaving en bestuurlijke handhaving
 
@@ -274,7 +392,7 @@ De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in [
 
 - a. het door een dienstverrichter of een zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), niet of onvoldoende nakomen van de informatieverplichting, bedoeld in [artikel 6, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=6&z=2024-01-01&g=2024-01-01);
 
-- b. het door de dienstverrichter, de dienstontvanger of de zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), niet of onvoldoende nakomen van de administratieve eisen en controlemaatregelen, bedoeld in artikel 8, eerste, derde, zesde of negende lid;
+- b. het door de dienstverrichter, de dienstontvanger of de zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), niet of onvoldoende nakomen van de administratieve eisen en controlemaatregelen, bedoeld in artikel 8, eerste, derde, zesde of negende lid;
 
 - c. het door de dienstverrichter of de zelfstandige, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), niet of onvoldoende nakomen van de administratieve eisen, bedoeld in [artikel 9, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01);
 
@@ -322,17 +440,17 @@ Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes we
 
 ##### Artikel 17
 
-Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
+*Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.*
 
 ##### Artikel 18
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel 18a
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
-### Hoofdstuk IV. Wederzijdse bijstand bij handhaving en bestuurlijke handhaving
+### Hoofdstuk VI. Slotbepalingen
 
 ##### Artikel 19
 
@@ -349,167 +467,3 @@ De artikelen van deze wet treden in werking op bij koninklijk besluit te bepalen
 ##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-1. De werknemer die ter beschikking is gesteld in de zin van onderdeel 3 van transnationale dienstverrichting als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=I&artikel=1&z=2024-01-01&g=2024-01-01), en door de dienstontvanger in het kader van transnationale dienstverrichting ter beschikking wordt gesteld om tijdelijk arbeid te verrichten in een andere lidstaat dan de lidstaat waar de werknemer gewoonlijk werkt voor hetzij de dienstverrichter, hetzij de dienstontvanger, wordt geacht in die lidstaat ter beschikking te zijn gesteld door de dienstverrichter.
-
-2. De dienstontvanger informeert de dienstverrichter tijdig en voor aanvang van de terbeschikkingstelling, bedoeld in het eerste lid.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing met betrekking tot de arbeidskracht die ter beschikking is gesteld, bedoeld in [artikel 1 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=1), met dien verstande dat onder dienstontvanger wordt verstaan de inlener als bedoeld in [artikel 7a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a), en onder dienstverrichter degene die de arbeidskracht ter beschikking stelt.
-
-### Hoofdstuk III. Informatie, administratieve samenwerking en melding
-
-### Hoofdstuk IV. Wederzijdse bijstand bij handhaving en bestuurlijke handhaving
-
-### Hoofdstuk V. Wijziging van andere wetten
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3b
-
-De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer een gerechtelijke of administratieve procedure start om de in deze wet of de in [artikel 2a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) aan hem toegekende rechten geldend te maken.
-
-### Hoofdstuk III. Informatie, administratieve samenwerking en melding
-
-### Hoofdstuk IIIa. Specifieke regels met betrekking tot de wegvervoersector
-
-### Hoofdstuk V. Wijziging van andere wetten
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-1. In de artikelen van dit hoofdstuk wordt verstaan onder:
-
-- –. **gedetacheerde bestuurder:** de gedetacheerde werknemer, die als bestuurder in de wegvervoersector ter beschikking wordt gesteld in de zin van onderdeel 1 van de begripsbepaling van transnationale dienstverrichting, anders dan voor de activiteiten, bedoeld in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IIIa&artikel=9b&z=2024-01-01&g=2024-01-01);
-
-- –. **Richtlijn 92/106/EEG:** [Richtlijn 92/106/EEG](31992L0106) van de Raad van 7 december 1992 houdende vaststelling van gemeenschappelijke voorschriften voor bepaalde vormen van gecombineerd vervoer van goederen tussen Lid-Staten (PbEG 1992, L 368);
-
-- –. **Verordening 1071/2009/EG:** [Verordening (EG) nr. 1071/2009](32009R1071) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van [Richtlijn 96/26/EG](31996L0026) van de Raad (PbEU L 300/51);
-
-- –. **Verordening 1072/2009/EG:** [Verordening (EG) nr. 1072/2009](32009R1072) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de markt voor internationaal goederenvervoer over de weg (PbEU 2009, L 300/72);
-
-- –. **Verordening 1073/2009/EG:** [Verordening (EG) nr. 1073/2009](32009R1073) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de internationale markt voor touringcar- en autobusdiensten en tot wijziging van [Verordening (EG) nr. 561/2006](32006R0561) (PbEU 2009, L 300/88);
-
-- –. **Verordening 165/2014/EU:** [Verordening (EU) nr. 165/2014](32014R0165) van het Europees Parlement en de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van [Verordening (EEG) nr. 3821/85](31985R3821) van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van [Verordening (EG) nr. 561/2006](32006R0561) van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEU L 60/1);
-
-- –. **Verordening 561/2006/EG:** [Verordening (EG) nr. 561/2006](32006R0561) van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer, tot wijziging van [Verordeningen (EEG) nr. 3821/85](31985R3821) en [(EG) nr. 2135/98](31998R2135) van de Raad en tot intrekking van [Verordening (EEG) nr. 3820/85](31985R3820) van de Raad (PbEU L 102/1).
-
-2. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=I&artikel=1&z=2024-01-01&g=2024-01-01), wordt voor de toepassing van dit hoofdstuk onder lidstaat verstaan: een staat binnen de Europese Unie en bij ministeriële regeling aangewezen staten.
-
-##### Artikel 9b
-
-1. Een bestuurder wordt aangemerkt als gedetacheerde werknemer, indien hij:
-
-- a. in Nederland cabotage verricht als bedoeld in [Verordeningen 1072/2009/EG](32009R1072) en [1073/2009/EG](32009R1073); of
-
-- b. niet-bilaterale vervoersactiviteiten verricht, bestaande in:
-
-- 1°. het vervoer van goederen op basis van een vervoersovereenkomst buiten de lidstaat van vestiging, bedoeld in artikel 2, onderdeel 8, van [Verordening 1071/2009/EG](32009R1071), tussen Nederland en een andere lidstaat of een derde land; of
-
-- 2°. het vervoer van personen buiten de lidstaat van vestiging, tussen Nederland en een andere lidstaat of een derde land.
-
-2. Een bestuurder wordt niet aangemerkt als gedetacheerde werknemer, indien hij:
-
-- a. bilaterale vervoersactiviteiten in het goederenvervoer verricht, bestaande in:
-
-- 1°. het vervoer van goederen op basis van een vervoersovereenkomst van de lidstaat van vestiging, bedoeld in artikel 2, onderdeel 8, van [Verordening 1071/2009/EG](32009R1071), naar een andere lidstaat of een derde land;
-
-- 2°. het vervoer van goederen op basis van een vervoersovereenkomst van een andere lidstaat of een derde land naar de lidstaat van vestiging;
-
-- 3°. het verrichten van een bilaterale vervoersactiviteit als bedoeld in subonderdeel 1° of 2°, naast het verrichten van ten hoogste één laad- en één losactiviteit in de lidstaten of derde landen die worden doorkruist, mits de bestuurder de goederen niet laadt en lost in dezelfde lidstaat en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van [Verordening 165/2014](32014R0165)/EU;
-
-- 4°. het verrichten van een bilaterale vervoersactiviteit vanuit de lidstaat van vestiging, waarbij geen extra activiteit wordt verricht, gevolgd door een bilaterale vervoersactiviteit naar de lidstaat van vestiging, waarbij ten hoogste twee extra laad- en twee losactiviteiten worden verricht in de lidstaten of derde landen die worden doorkruist, mits de bestuurder de goederen niet laadt en lost in dezelfde lidstaat en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van [Verordening 165/2014](32014R0165)/EU; of
-
-- 5°. het uitvoeren van het begin- of eindtraject van gecombineerd vervoer als bedoeld in [Richtlijn 92/106/EEG](31992L0106), mits het wegtraject bestaat uit bilaterale vervoersactiviteiten als bedoeld in de subonderdelen 1° tot en met 4°;
-
-- b. bilaterale vervoersactiviteiten in het personenvervoer verricht, bestaande in:
-
-- 1°. het meenemen van passagiers vanuit de lidstaat van vestiging, bedoeld in onderdeel a, en het afzetten van deze passagiers in een andere lidstaat of derde land;
-
-- 2°. het meenemen van passagiers vanuit een lidstaat of derde land en het afzetten van deze passagiers in de lidstaat van vestiging;
-
-- 3°. het meenemen van passagiers en het afzetten van deze passagiers in de lidstaat van vestiging om plaatselijke excursies in een andere lidstaat of een derde land uit te voeren, overeenkomstig [Verordening 1073/2009/EG](32009R1073); of
-
-- 4°. het verrichten van een activiteit als bedoeld in subonderdeel 1° of 2°, of de terugrit van dit traject, naast het ten hoogste eenmaal laten instappen en eenmaal laten uitstappen van passagiers in de lidstaten of derde landen die worden doorkruist, mits de bestuurder geen personenvervoersdiensten tussen twee locaties binnen de doorkruiste lidstaat aanbiedt en gebruikmaakt van een voertuig waarin een slimme tachograaf is aangesloten als bedoeld in de artikelen 8 tot en met 10 van [Verordening 165/2014](32014R0165)/EU; of
-
-- c. door Nederland heen rijdt zonder dat er vracht wordt geladen of gelost en zonder dat er passagiers in- of uitstappen.
-
-##### Artikel 9c
-
-Voor de toepassing van [artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=II&artikel=2&z=2024-01-01&g=2024-01-01), wordt de detachering van een gedetacheerde bestuurder geacht te zijn beëindigd wanneer hij bij het verrichten van het internationaal vervoer van goederen of personen Nederland verlaat. Deze detacheringsperiode wordt niet gecumuleerd met eerdere detacheringsperiodes in het kader van dergelijke internationale activiteiten van dezelfde bestuurder of van de bestuurder die hij vervangt.
-
-##### Artikel 9d
-
-In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01) wijst de dienstverrichter die een gedetacheerde bestuurder detacheert als contactpersoon de vervoersmanager of een andere persoon in de lidstaat van vestiging aan, die optreedt als tussenpersoon met de door Onze Minister aangewezen ambtenaren en met wie documenten of berichten worden uitgewisseld.
-
-##### Artikel 9e
-
-1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01) is de dienstverrichter, die een gedetacheerde bestuurder detacheert naar Nederland, verplicht om op een tijdstip voor aanvang van de werkzaamheden een detacheringsverklaring in te dienen bij Onze Minister via het IMI, met de volgende informatie:
-
-- a. de identiteit van de dienstverrichter;
-
-- b. de contactgegevens van de contactpersoon;
-
-- c. de identiteit, de verblijfplaats en het nummer van het rijbewijs van de gedetacheerde bestuurder;
-
-- d. de aanvangsdatum van de arbeidsovereenkomst van de gedetacheerde bestuurder en het daarop toepasselijke recht;
-
-- e. de vermoedelijke duur van de detachering;
-
-- f. de kentekenplaten van de motorvoertuigen; en
-
-- g. de aard van de verrichte vervoersdiensten.
-
-2. De dienstverrichter houdt de detacheringsverklaringen actueel in het IMI.
-
-##### Artikel 9f
-
-1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01) draagt de dienstverrichter, die een gedetacheerde bestuurder detacheert naar Nederland, er zorg voor dat deze bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:
-
-- a. een kopie van de detacheringsverklaring, bedoeld in [artikel 9e](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IIIa&artikel=9e&z=2024-01-01&g=2024-01-01);
-
-- b. bewijs van het vervoer dat plaatsvindt in Nederland, zoals een elektronische vrachtbrief of een bewijs als bedoeld in artikel 8, derde lid, van [Verordening 1072/2009/EG](32009R1072); en
-
-- c. de tachograafgegevens, met name de landsymbolen van de lidstaten waar de bestuurder zich bevond tijdens internationaal wegvervoer of cabotage, in overeenstemming met de registratievoorschriften in het kader van [Verordening 561/2006/EG](32006R0561) en [Verordening 165/2014](32014R0165)/EU.
-
-2. Na de detacheringsperiode verstrekt de dienstverrichter, uiterlijk acht weken na een verzoek van de door Onze Minister aangewezen ambtenaren, via het IMI:
-
-- a. kopieën van de in het eerste lid, onderdelen b en c, bedoelde documenten;
-
-- b. documentatie in verband met de beloning van de bestuurder met betrekking tot de detacheringsperiode;
-
-- c. de arbeidsovereenkomst met de bestuurder of een gelijkwaardig document als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01);
-
-- d. bescheiden waaruit blijkt hoeveel uren de bestuurder heeft gewerkt; en
-
-- e. een bewijs, waaruit blijkt welk loon aan de bestuurder is voldaan.
-
-##### Artikel 9g
-
-In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01) draagt de dienstverrichter, die een bestuurder in Nederland arbeid in de wegvervoersector laat verrichten in de zin van onderdeel 1 van de begripsbepaling van transnationale dienstverrichting, zonder als gedetacheerde bestuurder te worden aangemerkt, er zorg voor dat de bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:
-
-- a. het bewijs van het betrokken internationaal vervoer, zoals een elektronische vrachtbrief of een bewijs als bedoeld in artikel 8, derde lid, van [Verordening 1072/2009/EG](32009R1072); en
-
-- b. de tachograafgegevens, met name de landsymbolen van de lidstaten waar de bestuurder zich bevond tijdens internationaal wegvervoer of cabotage, in overeenstemming met de registratievoorschriften in het kader van [Verordening 561/2006/EG](32006R0561) en [Verordening 165/2014](32014R0165)/EU.
-
-##### Artikel 9h
-
-Voor de toepassing van dit hoofdstuk, van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=II&artikel=2&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=4&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=6&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=12&z=2024-01-01&g=2024-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=14&z=2024-01-01&g=2024-01-01) van deze wet en van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) en [10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a), wordt degene die vanuit het Verenigd Koninkrijk een gedetacheerde bestuurder ter beschikking stelt om tijdelijk arbeid te verrichten in Nederland, bestaande in het vervoer van goederen over de weg, aangemerkt als dienstverrichter.
-
-##### Artikel 9i
-
-In een derde land gevestigde vervoersondernemingen mogen geen gunstiger behandeling krijgen dan gelijksoortige in een lidstaat gevestigde ondernemingen.
-
-### Hoofdstuk V. Wijziging van andere wetten
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

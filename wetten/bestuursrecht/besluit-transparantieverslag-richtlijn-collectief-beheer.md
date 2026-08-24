@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 november 2016 ter uitvoering van de bijlage van Richtlijn 2014/26/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het collectieve beheer van auteursrechten en naburige rechten en de multiterritoriale licentieverlening van rechten inzake muziekwerken voor het online gebruik ervan op de interne markt (Pb. 2014, L 84, 92) (Besluit transparantieverslag richtlijn collectief beheer)"
+citeertitel: "Besluit transparantieverslag richtlijn collectief beheer"
 identifier: "BWBR0038752"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038752"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13799113"
-version_id: "23668452"
-internal_id: "C34072961"
-label_id: "13765264"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038752/2017-01-01/0"
-intitule_bron: "Stb.2016-447"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-11-23"
-intitule_published: "2016-11-25"
-intitule_in_force: "2016-11-25"
-intitule_status: "goed"
-original_publication: "Stb.2016-447"
-original_signed_date: "2016-11-23"
-original_published_date: "2016-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-447"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038752&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038752&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit transparantieverslag richtlijn collectief beheer"
-signed_date: "2016-11-23"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038752"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 23 november 2016 ter uitvoering van de bijlage van Richtlijn 2014/26/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het collectieve beheer van auteursrechten en naburige rechten en de multiterritoriale licentieverlening van rechten inzake muziekwerken voor het online gebruik ervan op de interne markt (Pb. 2014, L 84, 92) (Besluit transparantieverslag richtlijn collectief beheer)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 3 november 2016, nr. 2010723, directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 2q van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2q) en de bijlage van de [richtlijn 2014/26](32014L0026)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het collectieve beheer van auteursrechten en naburige rechten en de multiterritoriale licentieverlening van rechten inzake muziekwerken voor het online gebruik ervan op de interne markt;
-
-De Afdeling advisering van de Raad van State gehoord (advies van 23 november 2016, No.WO3.16.0359/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 23 november 2016, directie Wetgeving en Juridische Zaken, nr. 2018377;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -76,43 +44,43 @@ Financiële gegevens als bedoeld in [artikel 2, onderdeel f](https://wetten.over
 
 - b. financiële informatie over de kosten van rechtenbeheer en andere door de collectieve beheersorganisatie aan rechthebbenden verleende diensten, met een volledige beschrijving van ten minste de volgende posten:
 
-- 1. alle bedrijfskosten en financiële kosten, met een onderverdeling per beheerde rechtencategorie en in geval van indirecte kosten die niet aan één of meer rechtencategorieën kunnen worden toegeschreven, een toelichting van de methode van toerekening van indirecte kosten;
+   - 1. alle bedrijfskosten en financiële kosten, met een onderverdeling per beheerde rechtencategorie en in geval van indirecte kosten die niet aan één of meer rechtencategorieën kunnen worden toegeschreven, een toelichting van de methode van toerekening van indirecte kosten;
 
-- 2. bedrijfskosten en financiële kosten, met een onderverdeling per beheerde rechtencategorie en in geval van indirecte kosten die niet aan één of meer rechtencategorieën kunnen worden toegeschreven, een toelichting van de methode van toerekening van indirecte kosten, voor zover deze kosten betrekking hebben op het rechtenbeheer, met inbegrip van de beheerskosten die zijn ingehouden op of gecompenseerd met rechteninkomsten of inkomsten voortvloeiend uit de belegging van rechteninkomsten overeenkomstig [artikel 2g, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2g), en [artikel 2h, eerste tot en met derde lid van de Wet toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2h);
+   - 2. bedrijfskosten en financiële kosten, met een onderverdeling per beheerde rechtencategorie en in geval van indirecte kosten die niet aan één of meer rechtencategorieën kunnen worden toegeschreven, een toelichting van de methode van toerekening van indirecte kosten, voor zover deze kosten betrekking hebben op het rechtenbeheer, met inbegrip van de beheerskosten die zijn ingehouden op of gecompenseerd met rechteninkomsten of inkomsten voortvloeiend uit de belegging van rechteninkomsten overeenkomstig [artikel 2g, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2g), en [artikel 2h, eerste tot en met derde lid van de Wet toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2h);
 
-- 3. bedrijfskosten en financiële kosten voor andere diensten dan het rechtenbeheer, met inbegrip van sociale, culturele en educatieve diensten;
+   - 3. bedrijfskosten en financiële kosten voor andere diensten dan het rechtenbeheer, met inbegrip van sociale, culturele en educatieve diensten;
 
-- 4. middelen die worden gebruikt om kosten te dekken;
+   - 4. middelen die worden gebruikt om kosten te dekken;
 
-- 5. bedragen die zijn ingehouden op rechteninkomsten, onderverdeeld naar beheerde rechtencategorie, soort gebruik en het doel van de inhouding;
+   - 5. bedragen die zijn ingehouden op rechteninkomsten, onderverdeeld naar beheerde rechtencategorie, soort gebruik en het doel van de inhouding;
 
-- 6. de percentages die de kosten van het rechtenbeheer en andere door de collectieve beheersorganisatie aan rechthebbenden verleende diensten weergeven ten opzichte van de rechteninkomsten in het betreffende boekjaar, per beheerde rechtencategorie, en in geval van indirecte kosten die niet aan één of meer rechtencategorieën kunnen worden toegeschreven, een toelichting van de methode van toerekening voor die indirecte kosten;
+   - 6. de percentages die de kosten van het rechtenbeheer en andere door de collectieve beheersorganisatie aan rechthebbenden verleende diensten weergeven ten opzichte van de rechteninkomsten in het betreffende boekjaar, per beheerde rechtencategorie, en in geval van indirecte kosten die niet aan één of meer rechtencategorieën kunnen worden toegeschreven, een toelichting van de methode van toerekening voor die indirecte kosten;
 
 - c. financiële informatie over aan rechthebbenden verschuldigde bedragen met een volledige beschrijving van ten minste de volgende posten:
 
-- 1. het totale aan rechthebbenden toegeschreven bedrag, met een onderverdeling per beheerde rechtencategorie en soort gebruik;
+   - 1. het totale aan rechthebbenden toegeschreven bedrag, met een onderverdeling per beheerde rechtencategorie en soort gebruik;
 
-- 2. het totale aan rechthebbenden betaalde bedrag, met een onderverdeling per beheerde rechtencategorie en soort gebruik;
+   - 2. het totale aan rechthebbenden betaalde bedrag, met een onderverdeling per beheerde rechtencategorie en soort gebruik;
 
-- 3. de frequentie van de betalingen, met een onderverdeling per beheerde rechtencategorie en soort gebruik;
+   - 3. de frequentie van de betalingen, met een onderverdeling per beheerde rechtencategorie en soort gebruik;
 
-- 4. het totale geïnde maar nog niet aan rechthebbenden toebedeelde bedrag, met een onderverdeling per beheerde rechtencategorie en per soort gebruik en een aanduiding van het boekjaar waarin deze bedragen zijn geïnd;
+   - 4. het totale geïnde maar nog niet aan rechthebbenden toebedeelde bedrag, met een onderverdeling per beheerde rechtencategorie en per soort gebruik en een aanduiding van het boekjaar waarin deze bedragen zijn geïnd;
 
-- 5. het totale toebedeelde maar nog niet onder rechthebbenden verdeelde bedrag, met een onderverdeling per beheerde rechtencategorie en per soort gebruik en een aanduiding van het boekjaar waarin deze bedragen zijn geïnd;
+   - 5. het totale toebedeelde maar nog niet onder rechthebbenden verdeelde bedrag, met een onderverdeling per beheerde rechtencategorie en per soort gebruik en een aanduiding van het boekjaar waarin deze bedragen zijn geïnd;
 
-- 6. wanneer een collectieve beheersorganisatie de verdeling en betaling niet heeft verricht binnen de in [artikel 2i, derde lid, van de Wet toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2i) vastgestelde termijn: de redenen voor de vertraging;
+   - 6. wanneer een collectieve beheersorganisatie de verdeling en betaling niet heeft verricht binnen de in [artikel 2i, derde lid, van de Wet toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2i) vastgestelde termijn: de redenen voor de vertraging;
 
-- 7. het totaal van niet-verdeelbare bedragen, met een toelichting over de aanwending van die bedragen;
+   - 7. het totaal van niet-verdeelbare bedragen, met een toelichting over de aanwending van die bedragen;
 
 - d. informatie over de financiële relatie met andere collectieve beheersorganisaties met een beschrijving van ten minste de volgende posten:
 
-- 1. bedragen ontvangen van andere collectieve beheersorganisaties en bedragen betaald aan andere collectieve beheersorganisaties, met een onderverdeling per beheerde rechtencategorie, per soort gebruik en per organisatie;
+   - 1. bedragen ontvangen van andere collectieve beheersorganisaties en bedragen betaald aan andere collectieve beheersorganisaties, met een onderverdeling per beheerde rechtencategorie, per soort gebruik en per organisatie;
 
-- 2. beheerskosten en andere inhoudingen op de rechteninkomsten die verschuldigd zijn aan andere collectieve beheersorganisaties, met een onderverdeling per rechtencategorie, per soort gebruik en per organisatie;
+   - 2. beheerskosten en andere inhoudingen op de rechteninkomsten die verschuldigd zijn aan andere collectieve beheersorganisaties, met een onderverdeling per rechtencategorie, per soort gebruik en per organisatie;
 
-- 3. beheerskosten en andere inhoudingen op de bedragen die betaald zijn door andere collectieve beheersorganisaties, met een onderverdeling per rechtencategorie en per organisatie;
+   - 3. beheerskosten en andere inhoudingen op de bedragen die betaald zijn door andere collectieve beheersorganisaties, met een onderverdeling per rechtencategorie en per organisatie;
 
-- 4. de rechtstreeks onder rechthebbenden verdeelde bedragen die afkomstig zijn van andere collectieve beheersorganisaties, met een onderverdeling per rechtencategorie en per organisatie.
+   - 4. de rechtstreeks onder rechthebbenden verdeelde bedragen die afkomstig zijn van andere collectieve beheersorganisaties, met een onderverdeling per rechtencategorie en per organisatie.
 
 ##### Artikel 4
 
@@ -129,5 +97,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2017. Indien het Staatsbl
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit transparantieverslag richtlijn collectief beheer.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

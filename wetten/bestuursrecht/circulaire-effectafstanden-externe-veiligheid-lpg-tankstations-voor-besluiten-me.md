@@ -1,38 +1,16 @@
 ---
 title: "Circulaire effectafstanden externe veiligheid LPG-tankstations voor besluiten met gevolgen effecten ongeval"
 identifier: "BWBR0038123"
-country: "nl"
-rank: "circulaire"
-publication_date: "2016-06-29"
-last_updated: "2016-06-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038123"
+categorie: "Financieel recht"
 soort: "circulaire"
-stam_id: "13663633"
-version_id: "23397112"
-internal_id: "C33721811"
-label_id: "13630234"
-dtd_version: "2.0"
-original_entry_into_force: "2016-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038123/2016-06-29/0"
-intitule_bron: "Stcrt.2016-31453"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-14"
-intitule_published: "2016-06-28"
-intitule_in_force: "2016-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-31453"
-original_signed_date: "2016-06-14"
-original_published_date: "2016-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-31453"
-entry_into_force_date: "2016-06-29"
-jci_1_3: "jci1.3:c:BWBR0038123&z=2016-06-29&g=2016-06-29"
-jci_1_0: "1.0:c:BWBR0038123&g=2016-06-29"
-citeertitel_status: "redactioneel"
-signed_date: "2016-06-14"
-entry_into_force: "2016-06-29"
+publicatiedatum: 2016-06-29
+laatste_update: 2016-06-29
+status: geldig
+toestand: 2016-06-29
+bron: "https://wetten.overheid.nl/BWBR0038123"
+opgehaald: 2026-08-24
 ---
+
 # Circulaire effectafstanden externe veiligheid LPG-tankstations voor besluiten met gevolgen effecten ongeval
 
 Deze circulaire is gericht aan het bevoegd gezag dat te maken heeft met de ruimtelijke ordening en de vergunningverlening voor milieu in relatie tot LPG-tankstations. Met deze circulaire wordt een handreiking gegeven ten behoeve van de beoordeling van externe veiligheid van LPG1Liquefied Petroleum Gas. In deze circulaire gaat het om LPG-autogas.-tankstations. Daarbij staat het rekening houden met effectafstanden centraal en wordt aangesloten bij hetgeen geregeld is in het [Besluit externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) (Bevi) en de [Regeling externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0017168) (Revi). De aanpak voorziet voorts in een behoefte omdat daarmee, met de maatregelen van de sector, onnodige saneringsgevallen worden voorkomen.
@@ -43,7 +21,7 @@ De circulaire is niet van toepassing op besluiten die geen of uitsluitend positi
 
 Het in deze circulaire neergelegde beleid is voorts een vervolg op het Convenant LPG autogas 2005,2Op 22 juni 2005 ondertekend door de toenmalige Staatssecretaris van VROM, de Vereniging Technische Commissie Vloeibaar Gas (VVG) en de ondersteunende partijen BOVAG, de Nederlandse Organisatie voor de Energiebranche en de Belangenvereniging Tankstations BETA. (Stcrt 2005, 128, p. 26v). op basis waarvan – onder andere – door de LPG-branche hittewerende bekleding voor LPG-tankwagens is ontwikkeld en toegepast. Daarmee worden de risico’s bij het aanleveren van LPG bij een LPG-tankstation verkleind. Deze circulaire is onderdeel van een pakket aan maatregelen dat voorts bestaat uit een wijziging van de [Revi](https://wetten.overheid.nl/jci1.3:c:BWBR0017168) en een Safety Deal.
 
-### Wijziging van de [Revi](https://wetten.overheid.nl/jci1.3:c:BWBR0017168)
+### Wijziging van de Revi
 
 Naast de circulaire blijven het [Bevi](https://wetten.overheid.nl/jci1.3:c:BWBR0016767) en de [Revi](https://wetten.overheid.nl/jci1.3:c:BWBR0017168) onverkort van toepassing op LPG-tankstations. Wel is de Revi aangepast; de afstanden die gelden tussen een LPG-tankstation en een (beperkt) kwetsbaar object zijn verkleind, rekening houdend met het gegeven dat de Nederlandse LPG-tankwagens voor het aanleveren van LPG bij LPG-tankstations in de regel zijn voorzien van hittewerende bekleding. Dit was reeds in het convenant aangekondigd. In paragraaf 3.1 wordt verder ingegaan op de Revi.
 

@@ -9,7 +9,7 @@ laatste_update: 2026-08-22
 status: geldig
 toestand: 2026-08-22
 bron: "https://wetten.overheid.nl/BWBR0040605"
-opgehaald: 2026-08-23
+opgehaald: 2026-08-24
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 1 februari 2018, nr. WJZ/17203973, houdende regels voor het verstrekken van subsidies door de Ministeries van Economische Zaken en Klimaat en van Landbouw, Natuur en Voedselkwaliteit aan de instituten voor toegepast onderzoek (Subsidieregeling instituten voor toegepast onderzoek)

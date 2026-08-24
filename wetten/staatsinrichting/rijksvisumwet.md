@@ -1,47 +1,18 @@
 ---
 title: "Rijkswet van 23 augustus 2016, houdende bepalingen omtrent de verlening van visa voor de toegang tot de landen van het Koninkrijk (Rijksvisumwet)"
+citeertitel: "Rijksvisumwet"
 identifier: "BWBR0038494"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038494"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "13746663"
-version_id: "23564142"
-internal_id: "C35873981"
-label_id: "13713154"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038494/2018-07-01/0"
-intitule_bron: "Stb.2016-320"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-08-23"
-intitule_published: "2016-09-08"
-intitule_in_force: "2018-06-21"
-intitule_status: "goed"
-original_publication: "Stb.2016-320"
-original_signed_date: "2016-08-23"
-original_published_date: "2016-09-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "32415"
-original_url_id: "stb-2016-320"
-entry_into_force_date: "2018-07-01"
-jci_1_3: "jci1.3:c:BWBR0038494&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0038494&g=2018-07-01"
-citeertitel_status: "officieel"
-short_title: "Rijksvisumwet"
-signed_date: "2016-08-23"
-entry_into_force: "2018-07-01"
+publicatiedatum: 2018-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0038494"
+opgehaald: 2026-08-24
 ---
+
 # Rijkswet van 23 augustus 2016, houdende bepalingen omtrent de verlening van visa voor de toegang tot de landen van het Koninkrijk (Rijksvisumwet)
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het licht van de gewijzigde staatkundige verhoudingen binnen het Koninkrijk en met het oog op de naleving van de internationale verplichtingen van het Koninkrijk en het tegengaan van illegale immigratie wenselijk is harmonisatie van de visumverlening voor de toegang tot de afzonderlijke landen van het Koninkrijk te bevorderen door het regelen van de hoofdlijnen van het visumbeleid in een rijkswet op basis van [artikel 3, eerste lid, onderdelen b en g, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=3);
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemeen
 
@@ -49,31 +20,31 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 In deze wet wordt verstaan onder:
 
-- a. **Vreemdeling:** ieder die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld;
+- a. *Vreemdeling:* ieder die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld;
 
-- b. **Nederland:** het land Nederland, met uitzondering van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- b. *Nederland:* het land Nederland, met uitzondering van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- c. **Landen:** de landen Curaçao, Aruba en Sint Maarten;
+- c. *Landen:* de landen Curaçao, Aruba en Sint Maarten;
 
-- d. **Openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- d. *Openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- e. **Visum voor de toegang tot de landen en de openbare lichamen:** beslissing van de bevoegde autoriteit dat op het moment van afgifte geen bezwaar bestaat tegen de toegang tot de landen en openbare lichamen;
+- e. *Visum voor de toegang tot de landen en de openbare lichamen:* beslissing van de bevoegde autoriteit dat op het moment van afgifte geen bezwaar bestaat tegen de toegang tot de landen en openbare lichamen;
 
-- f. **Bevoegde autoriteit:**
+- f. *Bevoegde autoriteit:*
 
-- −. wat betreft de openbare lichamen: Onze Minister van Buitenlandse Zaken;
+   - − wat betreft de openbare lichamen: Onze Minister van Buitenlandse Zaken;
 
-- −. wat betreft de landen: de Minister van het desbetreffende land wie het aangaat;
+   - − wat betreft de landen: de Minister van het desbetreffende land wie het aangaat;
 
-- g. **Geldigheidsduur van een visum:** het tijdvak waarbinnen na afgifte van een visum daarvan gebruik kan worden gemaakt voor het verkrijgen van toegang;
+- g. *Geldigheidsduur van een visum:* het tijdvak waarbinnen na afgifte van een visum daarvan gebruik kan worden gemaakt voor het verkrijgen van toegang;
 
-- h. **Verblijfstermijn:** de maximale duur van het geoorloofd verblijf op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038494&hoofdstuk=II&paragraaf=1&artikel=5&z=2018-07-01&g=2018-07-01);
+- h. *Verblijfstermijn:* de maximale duur van het geoorloofd verblijf op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038494&hoofdstuk=II&paragraaf=1&artikel=5&z=2018-07-01&g=2018-07-01);
 
-- i. **Landsregelgeving:**
+- i. *Landsregelgeving:*
 
-- −. wat betreft de openbare lichamen: regeling van Onze Minister van Buitenlandse Zaken;
+   - − wat betreft de openbare lichamen: regeling van Onze Minister van Buitenlandse Zaken;
 
-- −. wat betreft de landen: algemeen verbindende voorschriften, vastgesteld door het daartoe bevoegde orgaan van het desbetreffende land.
+   - − wat betreft de landen: algemeen verbindende voorschriften, vastgesteld door het daartoe bevoegde orgaan van het desbetreffende land.
 
 ##### Artikel 2
 
@@ -238,5 +209,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 19
 
 Deze rijkswet wordt aangehaald als: Rijksvisumwet.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

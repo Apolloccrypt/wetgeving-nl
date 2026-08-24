@@ -9,7 +9,7 @@ laatste_update: 2026-08-20
 status: geldig
 toestand: 2026-08-20
 bron: "https://wetten.overheid.nl/BWBR0053045"
-opgehaald: 2026-08-23
+opgehaald: 2026-08-24
 ---
 
 # Beleidsbesluit van de Staatssecretaris van Financiën van 6 augustus 2026, nr. 2026-15551 over de toepassing van bepalingen uit belastingverdragen, het Besluit voorkoming dubbele belasting 2001 en de Nederlandse heffingswetten bij de belastingheffing in de winstsfeer (Beleidsbesluit toepassing internationaal belastingrecht in de winstsfeer 2026)

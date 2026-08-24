@@ -1,38 +1,16 @@
 ---
 title: "Beleidsregel kosteloos beëindigingsrecht artikel 7.2 Telecommunicatiewet"
 identifier: "BWBR0038515"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-09-14"
-last_updated: "2016-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038515"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "13750533"
-version_id: "23571732"
-internal_id: "C33931531"
-label_id: "13716974"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038515/2016-09-14/0"
-intitule_bron: "Stcrt.2016-48517"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-08-25"
-intitule_published: "2016-09-13"
-intitule_in_force: "2016-09-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-48517"
-original_signed_date: "2016-08-25"
-original_published_date: "2016-09-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-48517"
-entry_into_force_date: "2016-09-14"
-jci_1_3: "jci1.3:c:BWBR0038515&z=2016-09-14&g=2016-09-14"
-jci_1_0: "1.0:c:BWBR0038515&g=2016-09-14"
-citeertitel_status: "officieel"
-signed_date: "2016-08-25"
-entry_into_force: "2016-09-14"
+publicatiedatum: 2016-09-14
+laatste_update: 2016-09-14
+status: geldig
+toestand: 2016-09-14
+bron: "https://wetten.overheid.nl/BWBR0038515"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregel kosteloos beëindigingsrecht artikel 7.2 Telecommunicatiewet
 
 De Autoriteit Consument en Markt,
@@ -47,17 +25,18 @@ Besluit:
 
 In deze beleidsregels wordt verstaan onder:
 
-- a. **ACM:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- a. *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- b. **Tw:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+- b. *Tw:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- c. **Abonnee:** natuurlijke persoon of rechtspersoon die partij is bij een overeenkomst met een aanbieder van een openbare elektronische communicatiedienst, voor de levering van dergelijke diensten, als bedoeld in [artikel 1.1 onder p van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- c. *Abonnee:* natuurlijke persoon of rechtspersoon die partij is bij een overeenkomst met een aanbieder van een openbare elektronische communicatiedienst, voor de levering van dergelijke diensten, als bedoeld in [artikel 1.1 onder p van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- d. **Aanbieder:** een aanbieder van een openbare elektronische communicatiedienst of een openbaar elektronisch communicatienetwerk als bedoeld in [artikel 1.1 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) respectievelijk artikel 1.1 onder h van de Tw, alsmede een aanbieder van een programmadienst als bedoeld in artikel 1.1 onder bbb van de Tw;
+- d. *Aanbieder:* een aanbieder van een openbare elektronische communicatiedienst of een openbaar elektronisch communicatienetwerk als bedoeld in [artikel 1.1 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) respectievelijk artikel 1.1 onder h van de Tw, alsmede een aanbieder van een programmadienst als bedoeld in artikel 1.1 onder bbb van de Tw;
 
-- e. **Overeenkomst:** de overeenkomst van een aanbieder met een abonnee voor de levering van een of meerdere diensten als bedoeld in [artikel 1.1 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en/of artikel 1.1 onder bbb van de Tw;
+- e. *Overeenkomst:* de overeenkomst van een aanbieder met een abonnee voor de levering van een of meerdere diensten als bedoeld in [artikel 1.1 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en/of artikel 1.1 onder bbb van de Tw;
 
-- f. **Beding:** een schriftelijke of mondelinge voorwaarde die in een overeenkomst met een abonnee is opgenomen. Een onderdeel of een eigenschap van een dienst hieronder ook begrepen.
+- f. *Beding:* een schriftelijke of mondelinge voorwaarde die in een overeenkomst met een abonnee is opgenomen. Een onderdeel of een eigenschap van een dienst hieronder ook begrepen.
 
 ### Titel 2. informeren van de abonnee bij een voorgenomen wijziging
 

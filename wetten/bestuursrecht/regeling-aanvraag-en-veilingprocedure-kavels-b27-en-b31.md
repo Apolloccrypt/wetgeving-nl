@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 6 september 2016, nr. WJZ/16132638, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, houdende vaststelling van de aanvraag- en veilingprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band en tot wijziging van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 (Regeling aanvraag- en veilingprocedure kavels B27 en B31)"
+citeertitel: "Regeling aanvraag- en veilingprocedure kavels B27 en B31"
 identifier: "BWBR0038511"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-09-13"
-last_updated: "2016-09-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038511"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13749703"
-version_id: "23570732"
-internal_id: "C33930471"
-label_id: "13716384"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038511/2016-09-13/0"
-intitule_bron: "Stcrt.2016-47758"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-06"
-intitule_published: "2016-09-12"
-intitule_in_force: "2016-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-47758"
-original_signed_date: "2016-09-06"
-original_published_date: "2016-09-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-47758"
-entry_into_force_date: "2016-09-13"
-jci_1_3: "jci1.3:c:BWBR0038511&z=2016-09-13&g=2016-09-13"
-jci_1_0: "1.0:c:BWBR0038511&g=2016-09-13"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure kavels B27 en B31"
-signed_date: "2016-09-06"
-entry_into_force: "2016-09-13"
+publicatiedatum: 2016-09-13
+laatste_update: 2016-09-13
+status: geldig
+toestand: 2016-09-13
+bron: "https://wetten.overheid.nl/BWBR0038511"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Economische Zaken van 6 september 2016, nr. WJZ/16132638, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, houdende vaststelling van de aanvraag- en veilingprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band en tot wijziging van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 (Regeling aanvraag- en veilingprocedure kavels B27 en B31)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
-
-Besluit:
 
 #### Paragraaf 1. Algemeen
 
@@ -46,35 +20,36 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanvrager:** degene die een aanvraag heeft ingediend;
+- a. *aanvrager:* degene die een aanvraag heeft ingediend;
 
-- b. **bekendmakingsbesluit:** [Besluit bekendmaking veiling kavels B27 en B31](onbekend);
+- b. *bekendmakingsbesluit:*
+ Besluit bekendmaking veiling kavels B27 en B31;
 
-- c. **bod:** bieding, uitgebracht via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
+- c. *bod:* bieding, uitgebracht via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
 
-- d. **capaciteitseenheid:** 1/18e deel van de capaciteit van het frequentieblok dat ingevolge nationale voetnoot HOL006 van het Nationaal Frequentieplan 2014 gekoppeld is aan de vergunning voor kavel B27 respectievelijk de vergunning voor kavel B31;
+- d. *capaciteitseenheid:* 1/18e deel van de capaciteit van het frequentieblok dat ingevolge nationale voetnoot HOL006 van het Nationaal Frequentieplan 2014 gekoppeld is aan de vergunning voor kavel B27 respectievelijk de vergunning voor kavel B31;
 
-- e. **deelnemer:** aanvrager die toegelaten is tot de betrokken veiling;
+- e. *deelnemer:* aanvrager die toegelaten is tot de betrokken veiling;
 
-- f. **minister:** Minister van Economische Zaken;
+- f. *minister:* Minister van Economische Zaken;
 
-- g. **niet-landelijke commerciële radio:** frequentieruimte in de FM-band, aangewezen in [artikel 7, tweede lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7);
+- g. *niet-landelijke commerciële radio:* frequentieruimte in de FM-band, aangewezen in [artikel 7, tweede lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7);
 
-- h. **rente:** volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
+- h. *rente:* volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
 
-- i. **rondeprijs:** door de minister per biedronde vastgestelde prijs;
+- i. *rondeprijs:* door de minister per biedronde vastgestelde prijs;
 
-- j. **verbonden instelling:** instelling die, ingevolge [artikel 22 van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=22), met de aanvrager als één instelling wordt aangemerkt;
+- j. *verbonden instelling:* instelling die, ingevolge [artikel 22 van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=22), met de aanvrager als één instelling wordt aangemerkt;
 
-- k. **vergunning kavel B27:** vergunning als omschreven in [bijlage 1 van het bekendmakingsbesluit](onbekend);
+- k. *vergunning kavel B27:* vergunning als omschreven in bijlage 1 van het bekendmakingsbesluit;
 
-- l. **vergunning kavel B31:** vergunning als omschreven in [bijlage 2 van het bekendmakingsbesluit](onbekend).
+- l. *vergunning kavel B31:* vergunning als omschreven in bijlage 2 van het bekendmakingsbesluit.
 
 #### Paragraaf 2. Vergunning voor niet-landelijke commerciële radio-omroep in de FM-band
 
 ##### Artikel 2
 
-Ingevolge het [bekendmakingsbesluit](onbekend) zijn de vergunning kavel B27 en de vergunning kavel B31 beschikbaar om door middel van een veiling te worden verdeeld.
+Ingevolge het bekendmakingsbesluit zijn de vergunning kavel B27 en de vergunning kavel B31 beschikbaar om door middel van een veiling te worden verdeeld.
 
 #### Paragraaf 3. Vergunningaanvraag en zekerheidsstelling
 
@@ -84,13 +59,13 @@ Ingevolge het [bekendmakingsbesluit](onbekend) zijn de vergunning kavel B27 en d
 
 2. Een aanvraag wordt in de periode van 15 september 2016 tot 6 oktober 2016 om 14.00 uur per aangetekende post ontvangen dan wel door middel van persoonlijke overhandiging ingediend op het volgende adres en met de volgende adressering:
 
-**Agentschap Telecom**
+*Agentschap Telecom*
 
-**Ter attentie van: Projectteam uitgifte vergunningen kavels B27 en B31**
+*Ter attentie van: Projectteam uitgifte vergunningen kavels B27 en B31*
 
-**Emmasingel 1**
+*Emmasingel 1*
 
-**9726 AH Groningen**
+*9726 AH Groningen*
 
 3. Bij persoonlijke overhandiging van de aanvraag wordt een bewijs van ontvangst afgegeven dat is voorzien van datum en tijdstip van ontvangst en ondertekening.
 
@@ -397,9 +372,9 @@ Op grond van de aanvraag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1
 
 - b. aan de deelnemer aan wie op grond van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=4&artikel=13&z=2016-09-13&g=2016-09-13), of op grond van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=6&artikel=26&z=2016-09-13&g=2016-09-13), de vergunning kavel B31 is verleend, een vergunning verleend voor digitale radio-omroep, betrekking hebbende op een capaciteitseenheid in allotment 7A.
 
-##### Artikel 29. Wijziging [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740)
+##### Artikel 29. Wijziging Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003
 
-Wijzigt de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003.
+*Wijzigt de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003.*
 
 #### Paragraaf 8. Slotbepalingen
 
@@ -410,229 +385,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 31
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure kavels B27 en B31.
-
-## Bijlage I. Model aanvraag vergunning als bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=3&z=2016-09-13&g=2016-09-13)
-
-### Model aanvraagformulier
-
-### Onderdeel A. De aanvrager
-
-### A.1. Algemeen
-
-Bij de aanvraag wordt gevoegd:
-
-### A.2. Vertegenwoordigingsbevoegdheid
-
-Opgave van degene(n) die bevoegd zijn (is) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid:
-
-**A.2.1 Functionaris 1**
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening: .....
-
-**A.2.2 Functionaris 2**
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening .....
-
-**A.2.3 Functionaris 3**
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening .....
-
-**A.2.4 Functionaris 4**
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening .....
-
-Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van de volmacht worden bijgevoegd.
-
-### A.3. Statutaire en financiële positie
-
-A.3.1 De aanvrager is een rechtspersoon, opgericht in overeenstemming met het recht van een van de lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
-
-A.3.2 De aanvrager is wel/niet*ontbonden.
-
-A.3.3 De aanvrager is wel/niet* failliet verklaard.
-
-A.3.4 De aanvrager heeft wel/niet* eigen aangifte tot faillissement gedaan.
-
-A.3.5 Een verzoek tot faillissement van de aanvrager is wel/niet* ingediend.
-
-A.3.6 Aan de aanvrager is wel/geen* surseance van betaling verleend.
-
-A.3.7 De aanvrager heeft wel/geen* aanvraag tot surseance van betaling gedaan.
-
-*Doorhalen wat niet van toepassing is.
-
-### A.4. Informatie aangaande verbonden instellingen
-
-**A.4.1 Beschrijving eigendoms- en zeggenschapsverhoudingen**
-
-Bij de aanvraag wordt gevoegd een beschrijving van de eigendoms- en zeggenschapsverhoudingen die de rechtspersoon raken. De beschrijving moet inzicht geven in alle banden met andere partijen, zodat kan worden nagegaan of er een zodanige verbondenheid is met andere aanvragers van vergunningen of met bestaande houders van een FM-vergunning dat er sprake is van een instelling in de zin van [artikel 22, eerste lid, van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=22).
-
-De beschrijving bevat in elk geval gegevens over (voor zover van toepassing):
-
-**A.4.2. Bij te voegen documenten**
-
-De aanvrager voegt in verband met de hiervoor bedoelde toetsing op verbondenheid bovendien de volgende documenten bij de aanvraag (voor zover van toepassing):
-
-### A.5. Informatie aangaande andere vergunningen commerciële radio FM-band
-
-De aanvrager vermeldt, in overeenstemming met [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=3&z=2016-09-13&g=2016-09-13), van de Regeling, in onderstaande tabel van welke vergunningen voor landelijke of niet-landelijke commerciële radio hij en een aan hem verbonden instelling reeds houder is. Daartoe wordt informatie verschaft over de betrokken kavel, het dossiernummer van de betrokken vergunning, de houder van een vergunning (de aanvrager zelf of een aan hem verbonden instelling, waarbij de naam van die instelling wordt vermeld) en de datum waarop de aanvrager of verbonden instelling houder is geworden van deze vergunning.
-
-### A.6. Verklaring notaris
-
-Ondergetekende, notaris te ..... (plaatsnaam)
-
-Verklaart, zonder voorbehoud, dat:
-
-Naam: .....
-
-Plaats .....
-
-Datum: .....
-
-Handtekening
-
-.....
-
-De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.
-
-### Onderdeel B. Specificatie aanvraag
-
-Ik vraag aan:
-
-**[Gelieve aan te vinken wat van toepassing is. Indien u beide vergunningen wenst aan te vragen plaatst u bij beide vergunningen een kruisje in het hokje]**
-
-Indien aan mij op grond van deze Regeling geen vergunning kavel B27 of vergunning kavel B31 is verleend, vraag ik derhalve geen vergunning aan voor één capaciteitseenheid in allotment 9D-N respectievelijk allotment 7A.
-
-### Onderdeel C. Bestuurdersverklaring
-
-Ondergetekende verklaart dat de informatie die in deze aanvraag is verstrekt juist en volledig is.
-
-Naam: .....
-
-Plaats: .....
-
-Datum: .....
-
-Handtekening: .....
-
-## Bijlage II. Model bankgarantie als bedoeld in [artikel 6, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=6&z=2016-09-13&g=2016-09-13)
-
-### Model bankgarantie
-
-**I.** De ondergetekende ......................... (**naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte**)*, gevestigd te ........................., mede kantoorhoudende te ........................., hierna te noemen: ‘de Bank’;
-
-In aanmerking nemende:
-
-**II.** Verbindt zich tot het navolgende:
-
-Plaats: .........................
-
-Datum: .........................
-
-Naam Bank en ondertekening
-
-.........................
-
-## Bijlage III. Model bankverklaring inzake financiële draagkracht, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=8&z=2016-09-13&g=2016-09-13)
-
-### I. De ondergetekende
-
-**.... (naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte), statutair gevestigd te ...., mede kantoorhoudende te ...., hierna te noemen: ‘de Bank’;**
-
-In aanmerking nemende:
-
-Verklaart hiermee dat
-
-Naam aanvrager voor een vergunning __________________________________
-
-Gevestigd te __________________________________
-
-over zodanige financiële draagkracht beschikt, dat hij op de dag van ondertekening van deze verklaring een bedrag van € 15.000,– / € 30.000,-* kan betalen.
-
-Deze verklaring is uitsluitend bestemd voor de Staat der Nederlanden en kan daarom niet door enig ander persoon dan wel voor enig ander doel worden gebruikt.
-
-Deze verklaring wordt verstrekt naar beste weten, onder uitsluiting van iedere aansprakelijkheid of verplichting van de bank jegens derden
-
-Naar waarheid ingevuld,
-
-## Bijlage IV. Model verklaring als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=9&z=2016-09-13&g=2016-09-13)
-
-Ondergetekende verklaart dat hij, indien aan hem een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=2&artikel=2&z=2016-09-13&g=2016-09-13) van de Regeling aanvraag- en veilingprocedure kavels B27 en B31 wordt verleend, hij deze vergunning zal gebruiken voor het uitzenden van een commercieel radioprogramma dat, voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
-
-Naam aanvrager:
-
-Handtekening:
-
-## Bijlage V. Model verklaring als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=12&z=2016-09-13&g=2016-09-13)
-
-Ondergetekende verklaart dat hij en, indien er sprake is van een met hem verbonden instelling als bedoeld in [artikel 22, eerste lid, van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=22), de andere leden van de verbonden instelling waartoe hij behoort, zich voorafgaand aan de indiening van de aanvraag hebben onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich zullen onthouden van het maken van dergelijke afspraken of het doen van dergelijke gedragingen.
-
-Naam aanvrager:
-
-Handtekening:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,41 +1,18 @@
 ---
 title: "Beleidsregels vereveningsbijdrage Zvw 2017"
+citeertitel: "Beleidsregels vereveningsbijdrage zorgverzekering 2017"
 identifier: "BWBR0038638"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-08-18"
-last_updated: "2017-08-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038638"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "13773623"
-version_id: "24302522"
-internal_id: "C34887771"
-label_id: "13740914"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038638/2017-08-18/0"
-intitule_bron: "Stcrt.2016-55262"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-10-21"
-intitule_in_force: "2016-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-46637"
-original_published_date: "2017-08-16"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2017-46637"
-entry_into_force_date: "2017-08-18"
-jci_1_3: "jci1.3:c:BWBR0038638&z=2017-08-18&g=2017-08-18"
-jci_1_0: "1.0:c:BWBR0038638&g=2017-08-18"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels vereveningsbijdrage zorgverzekering 2017"
-entry_into_force: "2017-08-18"
+publicatiedatum: 2017-08-18
+laatste_update: 2017-08-18
+status: geldig
+toestand: 2017-08-18
+bron: "https://wetten.overheid.nl/BWBR0038638"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregels vereveningsbijdrage Zvw 2017
-
-Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038554) en de brief van de minister van VWS van 30 september 2016, kenmerk 1024068-155663-Z,
-
-heeft in zijn vergadering van 10 oktober 2016 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -43,31 +20,32 @@ heeft in zijn vergadering van 10 oktober 2016 besloten:
 
 Deze beleidsregels verstaan onder:
 
-- a. **het Zorginstituut:** Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- a. *het Zorginstituut:* Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- b. **zwaarte:** het deel waarvoor de verzekerde meetelt in een betreffende klasse;
+- b. *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;
 
-- c. **macroverzekerden-raming:** de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland voor het jaar 2017;
+- c. *macroverzekerden-raming:* de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland voor het jaar 2017;
 
-- d. **FKG GGZ:** FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- d. *FKG GGZ:* FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- e. **DKG GGZ:** DKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel ee, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- e. *DKG GGZ:* DKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel ee, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- f. **PKB:** persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres. Dit bestand wordt jaarlijks opgesteld aan de hand van opgaven van de zorgverzekeraars. Voor het PKB 2016 is de peildatum 1 mei 2016 en de aanleverdatum 1 juni 2016;
+- f. *PKB:* persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres. Dit bestand wordt jaarlijks opgesteld aan de hand van opgaven van de zorgverzekeraars. Voor het PKB 2016 is de peildatum 1 mei 2016 en de aanleverdatum 1 juni 2016;
 
-- g. **VPPKB:** verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat. Dit bestand wordt jaarlijks opgesteld aan de hand van opgaven van de zorgverzekeraars. Voor het VPPKB 2017 is de aanleverdatum 1 juni 2018;
+- g. *VPPKB:* verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat. Dit bestand wordt jaarlijks opgesteld aan de hand van opgaven van de zorgverzekeraars. Voor het VPPKB 2017 is de aanleverdatum 1 juni 2018;
 
-- h. **verzekerde woonachtig in het buitenland:** een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
+- h. *verzekerde woonachtig in het buitenland:* een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
 
-- i. **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
+- i. *vereveningsbijdrage:* de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
 
-- j. **wet:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- j. *wet:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- k. **Regeling:** [Regeling risicoverevening 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038554);
+- k. *Regeling:*
+ [Regeling risicoverevening 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038554);
 
-- l. **trendtabel:** door het Zorginstituut per criterium opgestelde tabel met trendfactoren die voor het betreffende criterium de geraamde prevalentieontwikkeling weergeeft, zoals gepubliceerd op de website van het Zorginstituut. De trendfactor geeft de mutatie van verzekerden per risicoklasse weer;
+- l. *trendtabel:* door het Zorginstituut per criterium opgestelde tabel met trendfactoren die voor het betreffende criterium de geraamde prevalentieontwikkeling weergeeft, zoals gepubliceerd op de website van het Zorginstituut. De trendfactor geeft de mutatie van verzekerden per risicoklasse weer;
 
-- m. **jaarstaat:** de jaarstaat, bedoeld in de regeling gegevensaanlevering van het Zorginstituut.
+- m. *jaarstaat:* de jaarstaat, bedoeld in de regeling gegevensaanlevering van het Zorginstituut.
 
 ##### Artikel 2. Algemene bepaling
 
@@ -1155,7 +1133,7 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 5. Het Zorginstituut betaalt de netto te betalen bedragen, bedoeld in het vierde lid, onder a tot en met e, verminderd met de aftrekpost voor de normatieve eigen risico opbrengst 2017, bedoeld in [artikel 81, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=VI&artikel=81&z=2017-08-18&g=2017-08-18), in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
 
-|   | Bestanddelen betalingen |   |   |   |
+|  | Bestanddelen betalingen |  |  |  |
 | --- | --- | --- | --- | --- |
 | Betaalmoment | Artikel 82 vierde lid, onder a en b | Artikel 82 vierde lid, onder c en d | Artikel 82 vierde lid, onder e | Artikel 81 eerste lid, onder e |
 | januari 2017 | 0,73% | 0,00% | 8,33% | 3,47% |
@@ -1242,49 +1220,3 @@ Deze beleidregels treden in werking met ingang van de tweede dag na de dagtekeni
 ##### Artikel 88
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2017.
-
-## Bijlage 1. Referentiebestand FKG’s 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 2. Referentiebestand DKG’s 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 3. Referentiebestand HKG’s 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 4. Referentiebestand AVI 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 5. Referentiebestand Regio 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 6. Referentiebestand FDG 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 7. Referentiebestand FKG GGZ 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 8. Referentiebestand DKG GGZ 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 9. Referentiebestand GGZ Regio 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-## Bijlage 10. Referentiebestand IGG 2017
-
-Ligt ter inzage op het kantoor van het Zorginstituut Nederland.
-
-Deze beleidsregels worden in de Staatscourant geplaatst.
-
-## Bijlage 11. Referentiebestand FKG’s 2017 – aangepast
-
-Deze beleidsregels worden in de Staatscourant geplaatst.

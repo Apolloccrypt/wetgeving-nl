@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juni 2016, nr. WJZ/800938 (6670), houdende regels voor onderwijsinstellingen omtrent het uitzetten van gelden, het aangaan van leningen en het aangaan van verbintenissen voor financiële derivaten (Regeling beleggen, lenen en derivaten OCW 2016)"
+citeertitel: "Regeling beleggen, lenen en derivaten OCW 2016"
 identifier: "BWBR0038059"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038059"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "13651533"
-version_id: "23370942"
-internal_id: "C33687841"
-label_id: "13618404"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038059/2022-08-01/0"
-intitule_bron: "Stcrt.2016-30576"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-06"
-intitule_published: "2016-06-15"
-intitule_in_force: "2016-06-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-30576"
-original_signed_date: "2016-06-06"
-original_published_date: "2016-06-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-30576"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0038059&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0038059&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling beleggen, lenen en derivaten OCW 2016"
-signed_date: "2016-06-06"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0038059"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juni 2016, nr. WJZ/800938 (6670), houdende regels voor onderwijsinstellingen omtrent het uitzetten van gelden, het aangaan van leningen en het aangaan van verbintenissen voor financiële derivaten (Regeling beleggen, lenen en derivaten OCW 2016)
-
-Gelet op de [artikelen 148a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=148a), [143a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143a), [99a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=99a), [2.2.4b van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.4b) en [2.17, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.17);
-
-Besluit:
 
 #### § 1. Begripsomschrijvingen
 
@@ -46,45 +20,45 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **achtergestelde spaarrekeningen of deposito’s:** spaarrekeningen of deposito’s die in geval van faillissement de terugbetaling pas plaatsvindt nadat de andere schuldeisers hun geld hebben ontvangen;
+- *achtergestelde spaarrekeningen of deposito’s:* spaarrekeningen of deposito’s die in geval van faillissement de terugbetaling pas plaatsvindt nadat de andere schuldeisers hun geld hebben ontvangen;
 
-- **beleggingen:** uitzettingen van middelen die tijdelijk niet benodigd zijn om aan lopende financiële verplichtingen te voldoen, met uitzondering van financiële derivaten;
+- *beleggingen:* uitzettingen van middelen die tijdelijk niet benodigd zijn om aan lopende financiële verplichtingen te voldoen, met uitzondering van financiële derivaten;
 
-- **externe toezichthouder:** de Inspectie van het Onderwijs;
+- *externe toezichthouder:* de Inspectie van het Onderwijs;
 
-- **financiële derivaten:** financiële contracten waarvan de waarde is afgeleid van de waarde van de onderliggende lening;
+- *financiële derivaten:* financiële contracten waarvan de waarde is afgeleid van de waarde van de onderliggende lening;
 
-- **financiële onderneming:** een onderneming die in een lidstaat het bedrijf van bank mag uitoefenen, beleggingsdiensten mag verlenen, beleggingsinstellingen mag beheren, rechten van deelneming in een beleggingsmaatschappij mag aanbieden, of het bedrijf van verzekeraar mag uitoefenen;
+- *financiële onderneming:* een onderneming die in een lidstaat het bedrijf van bank mag uitoefenen, beleggingsdiensten mag verlenen, beleggingsinstellingen mag beheren, rechten van deelneming in een beleggingsmaatschappij mag aanbieden, of het bedrijf van verzekeraar mag uitoefenen;
 
-- **instellingen:** door de minister bekostigde onderwijsaanbieder als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), met uitzondering van de onderwijsaanbieders, bedoeld in de [artikelen 2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) en [3.27 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.27), [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) en [artikel 2.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.1) en niet aangewezen op grond van [artikel 45, eerste of derde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=45);
+- *instellingen:* door de minister bekostigde onderwijsaanbieder als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), met uitzondering van de onderwijsaanbieders, bedoeld in de [artikelen 2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) en [3.27 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.27), [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) en [artikel 2.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.1) en niet aangewezen op grond van [artikel 45, eerste of derde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=45);
 
-- **interne toezichthouder:** toezicht als bedoeld in de [artikelen 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17b) en [17c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17c), de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.1) en [3.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.3), de [artikelen 28h](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28h) en [28i van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28i), de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.1) en [3.1.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.2) en de [artikelen 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.8), [9.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.9) en [10.3d van de Wet hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.3d);
+- *interne toezichthouder:* toezicht als bedoeld in de [artikelen 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17b) en [17c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17c), de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.1) en [3.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.3), de [artikelen 28h](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28h) en [28i van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28i), de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.1) en [3.1.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.2) en de [artikelen 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.8), [9.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.9) en [10.3d van de Wet hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.3d);
 
-- **jaarverslaggeving:** het geheel van verslagleggingsdocumenten bestaande uit de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in [artikel 392 van Titel 9, Boek 2, van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), zoals dit in de onderwijssector van toepassing is verklaard op grond van de Regeling jaarverslaglegging onderwijs;
+- *jaarverslaggeving:* het geheel van verslagleggingsdocumenten bestaande uit de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in [artikel 392 van Titel 9, Boek 2, van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), zoals dit in de onderwijssector van toepassing is verklaard op grond van de Regeling jaarverslaglegging onderwijs;
 
-- **kasstroomprognose:** liquiditeitsplanning voor de korte termijn en de financieringsplanning voor de lange termijn;
+- *kasstroomprognose:* liquiditeitsplanning voor de korte termijn en de financieringsplanning voor de lange termijn;
 
-- **lidstaat:** staat die lid is van de Europese Unie of een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte en die beschikt over minimaal een AA (flat) rating, afgegeven door ten minste twee van de volgende ratingsbureaus Moody’s, Standard and Poor’s, Fitch en DBRS;
+- *lidstaat:* staat die lid is van de Europese Unie of een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte en die beschikt over minimaal een AA (flat) rating, afgegeven door ten minste twee van de volgende ratingsbureaus Moody’s, Standard and Poor’s, Fitch en DBRS;
 
-- **margin call:** het storten van een zekerheid om een uitstaande positie af te dekken;
+- *margin call:* het storten van een zekerheid om een uitstaande positie af te dekken;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **niet-publieke middelen:** alle financiële middelen waarover de instelling beschikt die niet afkomstig zijn uit ’s Rijks kas en niet vallen onder de definitie van publieke middelen;
+- *niet-publieke middelen:* alle financiële middelen waarover de instelling beschikt die niet afkomstig zijn uit ’s Rijks kas en niet vallen onder de definitie van publieke middelen;
 
-- **payer swap:** renteswap waarbij de betaler een vaste rente betaalt en een variabele rente ontvangt;
+- *payer swap:* renteswap waarbij de betaler een vaste rente betaalt en een variabele rente ontvangt;
 
-- **publieke middelen:** middelen verkregen ten laste van de rijksbegroting of anderszins uit hoofde van bij of krachtens de wet ingestelde heffingen verkregen middelen, alsmede de opbrengsten daarvan, waarover een instelling de beschikking heeft gekregen om de wettelijke taak te verrichten;
+- *publieke middelen:* middelen verkregen ten laste van de rijksbegroting of anderszins uit hoofde van bij of krachtens de wet ingestelde heffingen verkregen middelen, alsmede de opbrengsten daarvan, waarover een instelling de beschikking heeft gekregen om de wettelijke taak te verrichten;
 
-- **rating:** taxatie van de kredietwaardigheid van een financiële onderneming of een land;
+- *rating:* taxatie van de kredietwaardigheid van een financiële onderneming of een land;
 
-- **rentecap:** financieel derivaat waarbij een leningnemer tegen betaling van een geldsom gedurende een overeengekomen periode de garantie van een maximaal te betalen rentetarief verkrijgt;
+- *rentecap:* financieel derivaat waarbij een leningnemer tegen betaling van een geldsom gedurende een overeengekomen periode de garantie van een maximaal te betalen rentetarief verkrijgt;
 
-- **renteswap:** financieel derivaat om renterisico’s te beheersen of af te dekken;
+- *renteswap:* financieel derivaat om renterisico’s te beheersen of af te dekken;
 
-- **solvabiliteitsratio:** het in een lidstaat voorgeschreven minimumniveau aansprakelijk vermogen van een financiële onderneming tegenover aangehouden naar risicograad gewogen activa;
+- *solvabiliteitsratio:* het in een lidstaat voorgeschreven minimumniveau aansprakelijk vermogen van een financiële onderneming tegenover aangehouden naar risicograad gewogen activa;
 
-- **waardepapieren:** documenten met een geldwaarde, zoals een bewijs van een aandeel of obligatie of een derivaat.
+- *waardepapieren:* documenten met een geldwaarde, zoals een bewijs van een aandeel of obligatie of een derivaat.
 
 #### § 2. Algemene uitgangspunten
 
@@ -100,7 +74,7 @@ Het financiële beleid en het beheer van de instellingen is dienstbaar aan het r
 
 - b. de voor de instelling toegestane beleggings- en leningsvormen,
 
-- c. de bijbehorende informatievoorziening minimaal bestaande uit een kasstroomprognose over 5 jaar en de verantwoordingsinformatie, en
+- c. de bijbehorende informatievoorziening minimaal bestaande uit een kasstroomprognose over 5 jaar en de verantwoordingsinformatie, en
 
 - d. de wijze waarop onderscheid wordt gemaakt tussen publieke middelen en overige middelen enerzijds en niet-publieke middelen anderzijds.
 
@@ -134,11 +108,11 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 2. Een instelling in het hoger beroepsonderwijs of een instelling voor wetenschappelijk onderwijs en onderzoek kan, op basis van zijn kennis met betrekking tot het aangaan van beleggingen, leningen en derivaten, bij de bank verzoeken zich te laten aanmerken als professionele belegger, indien de instelling aan de volgende drie voorwaarden heeft voldaan. De instelling heeft:
 
-- a. een balanstotaal van ten minste € 20 miljoen op jaarbasis;
+- a. een balanstotaal van ten minste € 20 miljoen op jaarbasis;
 
-- b. een netto-omzet van ten minste € 40 miljoen op jaarbasis; en
+- b. een netto-omzet van ten minste € 40 miljoen op jaarbasis; en
 
-- c. een eigen vermogen van ten minste € 2 miljoen.
+- c. een eigen vermogen van ten minste € 2 miljoen.
 
 3. Indien een instelling in het hoger beroepsonderwijs of een universiteit zich als professionele belegger wil laten aanmerken, stemt de instelling deze keuze af met de interne toezichthouder en wordt dit in het treasurystatuut opgenomen. Tevens wordt deze keuze aan de externe toezichthouder gemeld.
 
@@ -200,7 +174,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 2. De nominale waarde van het derivaat is niet groter dan de onderliggende lening.
 
-3. De looptijd van het derivaat is niet langer dan de onderliggende lening, met een maximum van 30 jaar.
+3. De looptijd van het derivaat is niet langer dan de onderliggende lening, met een maximum van 30 jaar.
 
 4. Indien de looptijd van het derivaat langer is dan 15 jaar, wordt dit gemotiveerd in het treasurystatuut.
 
@@ -220,11 +194,11 @@ De instelling doet ieder jaar in de jaarverslaglegging ten aanzien van de publie
 
 - d. een rapportage over het treasurystatuut opgenomen, waarin tenminste verslag gedaan over:
 
-- 1°. het beleid en de uitvoering ten aanzien van beleggen, lenen en derivaten;
+   - 1°. het beleid en de uitvoering ten aanzien van beleggen, lenen en derivaten;
 
-- 2°. de soorten en omvang van de beleggingen, leningen en derivaten;
+   - 2°. de soorten en omvang van de beleggingen, leningen en derivaten;
 
-- 3°. de looptijden van de beleggingen, leningen en derivaten.
+   - 3°. de looptijden van de beleggingen, leningen en derivaten.
 
 ##### Artikel 11. Toezicht
 
@@ -236,112 +210,22 @@ De instelling doet ieder jaar in de jaarverslaglegging ten aanzien van de publie
 
 ##### Artikel 12. Overgangsrecht
 
-1. De [Regeling belenen en beleggen door instellingen voor onderwijs en onderzoek 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026436), zoals deze luidde op 30 juni 2016, blijft van toepassing op beleggingen, leningen en financiële derivaten die voor 1 juli 2016 zijn afgesloten.
+1. De [Regeling belenen en beleggen door instellingen voor onderwijs en onderzoek 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026436), zoals deze luidde op 30 juni 2016, blijft van toepassing op beleggingen, leningen en financiële derivaten die voor 1 juli 2016 zijn afgesloten.
 
-2. Instellingen die op 1 juli 2016 een belegging, lening of financieel derivaat hebben en op die datum nog geen treasurystatuut hebben, stellen voor 1 oktober 2016 een treasurystatuut op.
+2. Instellingen die op 1 juli 2016 een belegging, lening of financieel derivaat hebben en op die datum nog geen treasurystatuut hebben, stellen voor 1 oktober 2016 een treasurystatuut op.
 
 ##### Artikel 13. Intrekking regeling
 
 De [Regeling beleggen en belenen door instellingen voor onderwijs en onderzoek 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026436) wordt ingetrokken.
 
-##### Artikel 14. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van 1 juli 2016.
-
-##### Artikel 15. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling beleggen, lenen en derivaten OCW 2016.
-
-## Bijlage I. behorende bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van de Regeling beleggen, lenen en derivaten OCW 2016
-
-### Raamovereenkomst INTEREST RATE Swaps
-
-DEZE RAAMOVEREENKOMST is opgesteld op [•]tussen:
-
-DEZE RAAMOVEREENKOMST is opgesteld op [•]tussen:
-
-OVERWEGENDE DAT
-
-VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:
-
-Partij A is verplicht te handelen overeenkomstig de regeling en verplicht zorg te dragen dat Partij B in overeenstemming met de regeling handelt. Deze Overeenkomst wordt aangemerkt als een overeenkomst van dienstverlening als bedoeld in [artikel 7:400 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=400).
-
-Partij A erkent en accepteert dat op Partij A een geschreven en ongeschreven zorgplicht rust jegens Partij B als bedoeld in het BW, de Wft en de Algemene Bankvoorwaarden.
-
-Partij A en Partij B komen ingevolge [artikel 4:18d Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:18d) overeen dat Partij B zal worden aangemerkt als een niet-professionele belegger als bedoeld in [artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
-
-Indien Partij A met Partij B één of meer transacties aangaat die ingevolge de regeling niet zijn toegestaan, dan kan zowel Partij A als Partij B een beroep doen op deze Overeenkomst. In dat geval worden alle schulden of vorderingsrechten van Partij B die voortgevloeid zijn, voortvloeien en zullen voortvloeien uit dergelijke transacties geneutraliseerd door tegengestelde schulden en vorderingsrechten met eenzelfde omvang. Deze tegengestelde schulden en vorderingsrechten ontstaan uit hoofde van deze Overeenkomst en ontstaan op hetzelfde moment als de schulden en vorderingsrechten die voortgevloeid zijn, voortvloeien en zullen voortvloeien uit de transactie die ingevolge het de regeling niet is toegestaan en zullen met elkaar verrekend worden.
-
-Deze Overeenkomst wordt beheerst door en uitgelegd in overeenstemming met Nederlands recht. De Nederlandse rechter is exclusief bevoegd om geschillen te beslechten die voortvloeien uit of verband houden met deze Overeenkomst. Voorts zullen alle juridische geschillen (de ‘Procedures’) die voortvloeien uit of verband houden met deze Overeenkomst exclusief worden voorgelegd aan de Nederlandse rechter. In het geval van Procedures, verklaren beide partijen zich onherroepelijk te committeren tot de jurisdictie van de Nederlandse rechter en doen hierbij op voorhand afstand van het recht bezwaar te maken tegen voornoemde rechtskeuze en forumkeuze.
-
-## Bijlage II. behorende bij [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van de Regeling beleggen, lenen en derivaten OCW 2016
-
-### Schedule to the 2002 master agreement
-
-Dated as of .....
-
-Dated as of .....
-
-Between
-
-**Please fill in the name laid down by statute** **(‘Party A’)**
-
-And
-
-### Scope of Agreement
-
-As of the date of this Agreement, all Transactions entered into from that date between the parties to this Agreement (and the respective rights and obligations of the parties in respect of those Transactions) shall be governed by, subject to, and determined in accordance with, the terms and conditions set out in this Agreement and the related Confirmations.
-
-As of the date of this Agreement, all Transactions entered into from that date between the parties to this Agreement (and the respective rights and obligations of the parties in respect of those Transactions) shall be governed by, subject to, and determined in accordance with, the terms and conditions set out in this Agreement and the related Confirmations.
-
-### Part 1. Termination Provisions
-
-In this Agreement:
-
-### Part 2. Tax Representations
-
-### Part 2. Tax Representations
-
-For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agrees to deliver the following documents, covered by Section 3(d) of this Agreement, as applicable:
-
-### Part 4. Miscellaneous
-
-### Part 4. Miscellaneous
-
-IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 13a. Omhang
 
 Deze regeling berust mede [op artikel 115, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=115), [artikel 113, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=113) en [artikel 5.43 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.43) en [artikel 2.2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.7).
 
-## Bijlage I. behorende bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), van de Regeling beleggen, lenen en derivaten OCW 2016
+##### Artikel 14. Inwerkingtreding
 
-### Raamovereenkomst INTEREST RATE Swaps
+Deze regeling treedt in werking met ingang van 1 juli 2016.
 
-TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
+##### Artikel 15. Citeertitel
 
-## Bijlage II. behorende bij [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), van de Regeling beleggen, lenen en derivaten OCW 2016
-
-### Schedule to the 2002 master agreement
-
-[**(semi-) publieke instelling**] **(‘Party B’),**
-
-### Scope of Agreement
-
-In respect of this Agreement, Party B shall be considered as a non-professional investor, in accordance with the Dutch Wet op het financieel toezicht. Regarding these Transactions, Party A shall act as an advisor for Party B. All of the above is incorporated in the independent agreement governed by Dutch law, as referred to in article 5, section 4 of the Dutch Regeling beleggen, lenen en derivaten OCW 2016.
-
-### Part 1. Termination Provisions
-
-In this Agreement:
-
-### Part 3. Documents to be Delivered
-
-For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agrees to deliver the following documents, covered by Section 3(d) of this Agreement, as applicable:
-
-### Part 5. Other Provisions
-
-IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling beleggen, lenen en derivaten OCW 2016.

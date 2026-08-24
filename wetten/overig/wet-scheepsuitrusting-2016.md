@@ -1,48 +1,18 @@
 ---
 title: "Wet van 23 augustus 2016, houdende regels met betrekking tot de productie, de conformiteitsbeoordeling en het plaatsen aan boord van scheepsuitrusting (Wet scheepsuitrusting 2016)"
+citeertitel: "Wet scheepsuitrusting 2016"
 identifier: "BWBR0038498"
-country: "nl"
-rank: "wet"
-publication_date: "2023-04-19"
-last_updated: "2023-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038498"
+categorie: "Overig"
 soort: "wet"
-stam_id: "13747583"
-version_id: "23567122"
-internal_id: "C33926421"
-label_id: "13714254"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038498/2023-04-19/0"
-intitule_bron: "Stb.2016-322"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-08-23"
-intitule_published: "2016-09-09"
-intitule_in_force: "2016-09-09"
-intitule_status: "goed"
-original_publication: "Stb.2016-322"
-original_signed_date: "2016-08-23"
-original_published_date: "2016-09-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "34425"
-original_url_id: "stb-2016-322"
-entry_into_force_date: "2016-09-18"
-entry_into_force_dossier: "34425"
-jci_1_3: "jci1.3:c:BWBR0038498&z=2023-04-19&g=2023-04-19"
-jci_1_0: "1.0:c:BWBR0038498&g=2023-04-19"
-citeertitel_status: "officieel"
-short_title: "Wet scheepsuitrusting 2016"
-signed_date: "2016-08-23"
-entry_into_force: "2016-09-18"
+publicatiedatum: 2016-09-18
+laatste_update: 2023-04-19
+status: geldig
+toestand: 2023-04-19
+bron: "https://wetten.overheid.nl/BWBR0038498"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 23 augustus 2016, houdende regels met betrekking tot de productie, de conformiteitsbeoordeling en het plaatsen aan boord van scheepsuitrusting (Wet scheepsuitrusting 2016)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het, gelet op [richtlijn 2014/90](32014L0090)/EU van het Europees Parlement en de Raad van de Europese Unie van 23 juli 2014 inzake uitrusting van zeeschepen en tot intrekking van [richtlijn 96/98/EG](31996L0098) van de Raad (PbEU L 257), noodzakelijk is regels te stellen met betrekking tot de productie, de conformiteitsbeoordeling en het plaatsen aan boord van scheepsuitrusting;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -50,65 +20,69 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aangemelde instantie:** instantie die door Onze Minister is aangewezen overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=11&z=2023-04-19&g=2023-04-19), en is aangemeld bij de Europese Commissie en de andere lidstaten van de Europese Unie overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=12&z=2023-04-19&g=2023-04-19);
+- *aangemelde instantie:* instantie die door Onze Minister is aangewezen overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=11&z=2023-04-19&g=2023-04-19), en is aangemeld bij de Europese Commissie en de andere lidstaten van de Europese Unie overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=6&artikel=12&z=2023-04-19&g=2023-04-19);
 
-- **beproevingsnormen:** beproevingsnormen, genoemd in artikel 2, onder 4, van de richtlijn;
+- *beproevingsnormen:* beproevingsnormen, genoemd in artikel 2, onder 4, van de richtlijn;
 
-- **conformiteitsbeoordeling:** proces dat wordt uitgevoerd overeenkomstig de conformiteitsbeoordelingsprocedures van bijlage II bij de richtlijn, waarmee wordt aangetoond of scheepsuitrusting voldoet aan de vereisten gesteld bij of krachtens deze wet;
+- *conformiteitsbeoordeling:* proces dat wordt uitgevoerd overeenkomstig de conformiteitsbeoordelingsprocedures van bijlage II bij de richtlijn, waarmee wordt aangetoond of scheepsuitrusting voldoet aan de vereisten gesteld bij of krachtens deze wet;
 
-- **conformiteitsbeoordelingsinstantie:** instantie die activiteiten in het kader van een conformiteitsbeoordeling verricht, zoals ijken, testen, certificeren en inspecteren;
+- *conformiteitsbeoordelingsinstantie:* instantie die activiteiten in het kader van een conformiteitsbeoordeling verricht, zoals ijken, testen, certificeren en inspecteren;
 
-- **conformiteitscertificaat:** certificaat dat wordt afgegeven door een aangemelde instantie aan de fabrikant indien hij aan de vereisten met betrekking tot de certificering gesteld bij of krachtens deze wet heeft voldaan;
+- *conformiteitscertificaat:* certificaat dat wordt afgegeven door een aangemelde instantie aan de fabrikant indien hij aan de vereisten met betrekking tot de certificering gesteld bij of krachtens deze wet heeft voldaan;
 
-- **distributeur:** natuurlijke of rechtspersoon in de toeleveringsketen, niet zijnde de fabrikant of importeur, die scheepsuitrusting op de markt aanbiedt;
+- *distributeur:* natuurlijke of rechtspersoon in de toeleveringsketen, niet zijnde de fabrikant of importeur, die scheepsuitrusting op de markt aanbiedt;
 
-- **eigenaar:** persoon die het beheer over het schip heeft, hetzij hij eigenaar of boekhouder van de rederij van het schip is, hetzij hem het schip in gebruik is gegeven;
+- *eigenaar:* persoon die het beheer over het schip heeft, hetzij hij eigenaar of boekhouder van de rederij van het schip is, hetzij hem het schip in gebruik is gegeven;
 
-- **EU-conformiteitsverklaring:** verklaring die wordt afgegeven door de fabrikant en waarmee wordt aangetoond dat is voldaan aan de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2023-04-19&g=2023-04-19);
+- *EU-conformiteitsverklaring:* verklaring die wordt afgegeven door de fabrikant en waarmee wordt aangetoond dat is voldaan aan de vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2023-04-19&g=2023-04-19);
 
-- **EU-schip:** Nederlands schip of schip dat onder de vlag van een andere lidstaat van de Europese Unie vaart, en waarop de verdragen van toepassing zijn;
+- *EU-schip:* Nederlands schip of schip dat onder de vlag van een andere lidstaat van de Europese Unie vaart, en waarop de verdragen van toepassing zijn;
 
-- **EU-verordening markttoezicht:** [Verordening (EU) nr. 2019/1020](32920R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van [Richtlijn 2004/42/EG](32004L0042) en [Verordeningen (EG) nr. 765/2008](32008R0765) en (EU) [nr. 305/2011](32011R0305) (PbEU 2019 L 169);
+- *EU-verordening markttoezicht:*
+ Verordening (EU) nr. 2019/1020 van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van Richtlijn 2004/42/EG en Verordeningen (EG) nr. 765/2008 en (EU) nr. 305/2011 (PbEU 2019 L 169);
 
-- **fabrikant:** natuurlijke of rechtspersoon die scheepsuitrusting vervaardigt of laat ontwerpen of vervaardigen, en deze onder zijn naam of handelsmerk verhandelt;
+- *fabrikant:* natuurlijke of rechtspersoon die scheepsuitrusting vervaardigt of laat ontwerpen of vervaardigen, en deze onder zijn naam of handelsmerk verhandelt;
 
-- **importeur:** in de Europese Unie gevestigde natuurlijke of rechtspersoon die scheepsuitrusting uit een derde land in de Europese Unie in de handel brengt;
+- *importeur:* in de Europese Unie gevestigde natuurlijke of rechtspersoon die scheepsuitrusting uit een derde land in de Europese Unie in de handel brengt;
 
-- **in de handel brengen:** het voor het eerst in de Europese Unie op de markt aanbieden van scheepsuitrusting;
+- *in de handel brengen:* het voor het eerst in de Europese Unie op de markt aanbieden van scheepsuitrusting;
 
-- **internationale instrumenten:** een of meer van toepassing zijnde verdragen, met inbegrip van de resoluties en circulaires van de Internationale Maritieme Organisatie die uitvoering geven aan de geactualiseerde versie van deze verdragen, alsmede beproevingsnormen;
+- *internationale instrumenten:* een of meer van toepassing zijnde verdragen, met inbegrip van de resoluties en circulaires van de Internationale Maritieme Organisatie die uitvoering geven aan de geactualiseerde versie van deze verdragen, alsmede beproevingsnormen;
 
-- **marktdeelnemers:** fabrikant, vertegenwoordiger, importeur en distributeur;
+- *marktdeelnemers:* fabrikant, vertegenwoordiger, importeur en distributeur;
 
-- **markttoezicht:** activiteiten en maatregelen van overheidsinstanties om ervoor te zorgen dat scheepsuitrusting voldoet aan de toepasselijke eisen die zijn opgenomen in harmonisatiewetgeving van de Europese Unie en bij of krachtens deze wet, en geen gevaar oplevert voor de gezondheid en maritieme veiligheid of andere aspecten van de bescherming van het openbaar belang;
+- *markttoezicht:* activiteiten en maatregelen van overheidsinstanties om ervoor te zorgen dat scheepsuitrusting voldoet aan de toepasselijke eisen die zijn opgenomen in harmonisatiewetgeving van de Europese Unie en bij of krachtens deze wet, en geen gevaar oplevert voor de gezondheid en maritieme veiligheid of andere aspecten van de bescherming van het openbaar belang;
 
-- **markttoezichtautoriteit:** ambtenaren als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=16&z=2023-04-19&g=2023-04-19);
+- *markttoezichtautoriteit:* ambtenaren als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=16&z=2023-04-19&g=2023-04-19);
 
-- **Nederlands schip:** schip dat op grond van de voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren en waarvoor de verdragen voorschrijven dat de aan boord te plaatsen scheepsuitrusting overeenkomstig de verdragen is goedgekeurd;
+- *Nederlands schip:* schip dat op grond van de voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren en waarvoor de verdragen voorschrijven dat de aan boord te plaatsen scheepsuitrusting overeenkomstig de verdragen is goedgekeurd;
 
-- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
+- *Onze Minister:* Onze Minister van Infrastructuur en Milieu;
 
-- **op de markt aanbieden:** het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van scheepsuitrusting op de markt van de Europese Unie;
+- *op de markt aanbieden:* het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van scheepsuitrusting op de markt van de Europese Unie;
 
-- **product:** uitrustingsonderdeel van zeeschepen;
+- *product:* uitrustingsonderdeel van zeeschepen;
 
-- **richtlijn:** [richtlijn nr. 2014/90](32014L0090)/EU van het Europees Parlement en de Raad van de Europese Unie inzake uitrusting van zeeschepen en tot intrekking van [richtlijn 96/98/EG](31996L0098) van de Raad (PbEU L 257);
+- *richtlijn:*
+ richtlijn nr. 2014/90/EU van het Europees Parlement en de Raad van de Europese Unie inzake uitrusting van zeeschepen en tot intrekking van richtlijn 96/98/EG van de Raad (PbEU L 257);
 
-- **scheepsuitrusting:** scheepsuitrusting die is geplaatst of die bestemd is voor plaatsing aan boord van een EU-schip en waarvoor de goedkeuring van de bevoegde instantie van de vlaggenstaat op grond van de internationale instrumenten is vereist, ongeacht of het schip zich in de Europese Unie bevindt op het moment waarop de scheepsuitrusting aan boord wordt geplaatst;
+- *scheepsuitrusting:* scheepsuitrusting die is geplaatst of die bestemd is voor plaatsing aan boord van een EU-schip en waarvoor de goedkeuring van de bevoegde instantie van de vlaggenstaat op grond van de internationale instrumenten is vereist, ongeacht of het schip zich in de Europese Unie bevindt op het moment waarop de scheepsuitrusting aan boord wordt geplaatst;
 
-- **stuurwielmarkering:** symbool dat is weergegeven in bijlage I bij de richtlijn, of indien van toepassing, het elektronisch label, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=6&z=2023-04-19&g=2023-04-19);
+- *stuurwielmarkering:* symbool dat is weergegeven in bijlage I bij de richtlijn, of indien van toepassing, het elektronisch label, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=4&artikel=6&z=2023-04-19&g=2023-04-19);
 
-- **terugroepen:** maatregel waarmee wordt beoogd scheepsuitrusting die al aan boord van een EU-schip is geplaatst of is aangekocht met de bedoeling deze aan boord van een EU-schip te plaatsen, te doen terugkeren;
+- *terugroepen:* maatregel waarmee wordt beoogd scheepsuitrusting die al aan boord van een EU-schip is geplaatst of is aangekocht met de bedoeling deze aan boord van een EU-schip te plaatsen, te doen terugkeren;
 
-- **uit de handel nemen:** maatregel waarmee wordt beoogd te voorkomen dat scheepsuitrusting die zich in de toeleveringsketen bevindt, op de markt wordt aangeboden;
+- *uit de handel nemen:* maatregel waarmee wordt beoogd te voorkomen dat scheepsuitrusting die zich in de toeleveringsketen bevindt, op de markt wordt aangeboden;
 
-- **verdragen:** internationale verdragen, genoemd in artikel 2, onder 3, van de richtlijn;
+- *verdragen:* internationale verdragen, genoemd in artikel 2, onder 3, van de richtlijn;
 
-- **verordening:** [verordening (EG) nr. 765/2008](32008R0765) van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218);
+- *verordening:*
+ verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218);
 
-- **vertegenwoordiger:** in de Europese Unie gevestigde natuurlijke of rechtspersoon die bij schriftelijke overeenkomst door een fabrikant is aangesteld om namens hem specifieke taken te vervullen;
+- *vertegenwoordiger:* in de Europese Unie gevestigde natuurlijke of rechtspersoon die bij schriftelijke overeenkomst door een fabrikant is aangesteld om namens hem specifieke taken te vervullen;
 
-- **Wet scheepsuitrusting:** [Wet van 13 april 2000, houdende regels met betrekking tot de productie en keuring van uitrusting voor zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) (Stb. 2000, 192).
+- *Wet scheepsuitrusting:*
+ [Wet van 13 april 2000, houdende regels met betrekking tot de productie en keuring van uitrusting voor zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) (Stb. 2000, 192).
 
 ##### Artikel 2
 
@@ -234,6 +208,56 @@ De eigenaar draagt er zorg voor dat scheepsuitrusting die aan boord van een Nede
 
 Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij regeling van Onze Minister aangewezen ambtenaren.
 
+##### Artikel 16a
+
+1. De ingevolge artikel 16 aangewezen ambtenaren, zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van de EU-verordening markttoezicht.
+
+2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
+
+##### Artikel 16b
+
+1. De ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=16&z=2023-04-19&g=2023-04-19) aangewezen ambtenaren zijn bevoegd om, ter uitvoering van de EU-verordening markttoezicht, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, producten te verkrijgen ten behoeve van het controleren van de kenmerken van deze producten en de verificatie van de documenten en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
+
+2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin wordt vermeld:
+
+- a. zijn naam of nummer en hoedanigheid;
+
+- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
+
+- c. de voorschriften op de naleving waarvan wordt toegezien;
+
+- d. het adres, waaronder indien van toepassing, het elektronische adres waar het product, bedoeld in het eerste lid, is verkregen en, voor zover bekend, de omschrijving van de betrokken marktdeelnemer;
+
+- e. de onjuiste of onvolledige gegevens die zijn verstrekt bij de verkrijging van het product;
+
+- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
+
+- g. wat de uitkomst is van het onderzoek van het verkregen product of de verkregen scheepsuitrusting.
+
+##### Artikel 16c
+
+1. Ter uitvoering van de EU-verordening markttoezicht kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van de EU-verordening markttoezicht, gevormd door het product, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van de EU-verordening markttoezicht of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van de EU-verordening markttoezicht, wanneer zij zich toegang verschaffen tot een online interface.
+
+2. Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij, als bedoeld in artikel 3, onderdeel 14, van de EU-verordening markttoezicht om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
+
+3. Degene tot wie een zelfstandige last als bedoeld in het eerste of het tweede lid is gericht, handelt overeenkomstig die last.
+
+4. Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
+
+5. Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+6. Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister, binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
+
+##### Artikel 16d
+
+[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover de krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=16&z=2023-04-19&g=2023-04-19) aangewezen toezichthouders bijstand verlenen aan een markttoezichtautoriteit uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
+
 ##### Artikel 17
 
 1. Wanneer een aangemelde instantie bij het toezicht op de conformiteit na verlening van een conformiteitscertificaat aan de fabrikant vaststelt dat een product niet langer in overeenstemming is met het bij of krachtens deze wet bepaalde, verlangt zij van de fabrikant dat hij onverwijld passende corrigerende maatregelen neemt. Indien nodig, schort de aangemelde instantie het conformiteitscertificaat op of trekt zij dit in.
@@ -338,13 +362,13 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 Onze Minister is bevoegd tot toepassing van een last onder bestuursdwang ter handhaving van de verplichtingen gesteld bij of krachtens deze wet.
 
-#### Paragraaf 9. Handhaving
+#### Paragraaf 10. Overgangsrecht en slotbepalingen
 
 ##### Artikel 25
 
 1. De vereisten en beproevingsnormen voor scheepsuitrusting die op grond van de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) van toepassing waren voor de dag van inwerkingtreding van deze wet, blijven van toepassing totdat op grond van deze wet de voor die betreffende scheepsuitrusting geldende vereisten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=2&artikel=3&z=2023-04-19&g=2023-04-19), in werking treden.
 
-2. Op scheepsuitrusting die op de markt is aangeboden of is geplaatst aan boord van een Nederlands schip na 18 oktober 2000 en voor de dag van inwerkingtreding van deze wet, blijven de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=3), [7 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=7) en [20 tot en met 26 van de Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=20) alsmede [artikel 1, onderdeel 4, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=4) van toepassing, zoals die luidden op de dag voorafgaand aan die van de inwerkingtreding van deze wet.
+2. Op scheepsuitrusting die op de markt is aangeboden of is geplaatst aan boord van een Nederlands schip na 18 oktober 2000 en voor de dag van inwerkingtreding van deze wet, blijven de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=3), [7 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=7) en [20 tot en met 26 van de Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=20) alsmede [artikel 1, onderdeel 4, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=4) van toepassing, zoals die luidden op de dag voorafgaand aan die van de inwerkingtreding van deze wet.
 
 3. Certificaten en verklaringen die voorafgaand aan de dag van inwerkingtreding van deze wet zijn afgegeven op basis van de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301), behouden hun geldigheid gedurende de in het certificaat of de verklaring opgenomen geldigheidsduur.
 
@@ -364,15 +388,15 @@ Voor zover op grond van de Overeenkomst betreffende de Europese Economische Ruim
 
 ##### Artikel 28
 
-Wijzigt het Besluit draagbare blustoestellen 1997.
+*Wijzigt het Besluit draagbare blustoestellen 1997.*
 
 ##### Artikel 29
 
-Wijzigt het Besluit kwik en kwikhoudende producten.
+*Wijzigt het Besluit kwik en kwikhoudende producten.*
 
 ##### Artikel 30
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 31
 
@@ -380,66 +404,8 @@ De [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) word
 
 ##### Artikel 32
 
-Deze wet treedt in werking met ingang van 18 september 2016. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 17 september 2016, treedt deze wet in werking met ingang van de dag, volgende op die van plaatsing van deze wet in het Staatsblad.
+Deze wet treedt in werking met ingang van 18 september 2016. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 17 september 2016, treedt deze wet in werking met ingang van de dag, volgende op die van plaatsing van deze wet in het Staatsblad.
 
 ##### Artikel 33
 
 Deze wet wordt aangehaald als: Wet scheepsuitrusting 2016
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 16a
-
-1. De ingevolge artikel 16 aangewezen ambtenaren, zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van de EU-verordening markttoezicht.
-
-2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
-
-3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
-
-4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
-
-##### Artikel 16b
-
-1. De ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=16&z=2023-04-19&g=2023-04-19) aangewezen ambtenaren zijn bevoegd om, ter uitvoering van de EU-verordening markttoezicht, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, producten te verkrijgen ten behoeve van het controleren van de kenmerken van deze producten en de verificatie van de documenten en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
-
-2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin wordt vermeld:
-
-- a. zijn naam of nummer en hoedanigheid;
-
-- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
-
-- c. de voorschriften op de naleving waarvan wordt toegezien;
-
-- d. het adres, waaronder indien van toepassing, het elektronische adres waar het product, bedoeld in het eerste lid, is verkregen en, voor zover bekend, de omschrijving van de betrokken marktdeelnemer;
-
-- e. de onjuiste of onvolledige gegevens die zijn verstrekt bij de verkrijging van het product;
-
-- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
-
-- g. wat de uitkomst is van het onderzoek van het verkregen product of de verkregen scheepsuitrusting.
-
-##### Artikel 16c
-
-1. Ter uitvoering van de EU-verordening markttoezicht kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van de EU-verordening markttoezicht, gevormd door het product, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van de EU-verordening markttoezicht of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van de EU-verordening markttoezicht, wanneer zij zich toegang verschaffen tot een online interface.
-
-2. Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij, als bedoeld in artikel 3, onderdeel 14, van de EU-verordening markttoezicht om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
-
-3. Degene tot wie een zelfstandige last als bedoeld in het eerste of het tweede lid is gericht, handelt overeenkomstig die last.
-
-4. Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
-
-5. Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
-
-6. Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister, binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
-
-7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
-
-##### Artikel 16d
-
-[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover de krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&paragraaf=7&artikel=16&z=2023-04-19&g=2023-04-19) aangewezen toezichthouders bijstand verlenen aan een markttoezichtautoriteit uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
-
-#### Paragraaf 8. Bijzondere bepalingen
-
-#### Paragraaf 10. Overgangsrecht en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

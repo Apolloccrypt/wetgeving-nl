@@ -1,40 +1,41 @@
 ---
-title: "Regeling veiligheid en kwaliteit lichaamsmateriaal"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 september 2016, kenmerk 1015003-150747-WJZ, houdende wijziging en tot intrekking van de Regeling voorschriften erkenning Wvkl (Regeling veiligheid en kwaliteit lichaamsmateriaal)"
+citeertitel: "Regeling veiligheid en kwaliteit lichaamsmateriaal"
 identifier: "BWBR0038551"
-categorie: "Overig"
-publicatiedatum: 2019-04-02
-laatste_update: 2026-04-18
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2026-07-01
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0038551"
+opgehaald: 2026-08-24
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 september 2016, kenmerk 1015003-150747-WJZ, houdende wijziging en tot intrekking van de Regeling voorschriften erkenning Wvkl (Regeling veiligheid en kwaliteit lichaamsmateriaal)
 
-Gelet op [Richtlijn 2006/86/EG](32006L0086) van de Commissie van 24 oktober 2006 ter uitvoering van [Richtlijn 2004/23/EG](32004L0023) van het Europees Parlement en de Raad wat betreft de traceerbaarheidsvereisten, de melding van ernstige bijwerkingen en ernstige ongewenste voorvallen en bepaalde technische voorschriften voor het coderen, bewerken, preserveren, bewaren en distribueren van menselijke weefsels en cellen (PB L 294), [Richtlijn 2015/566](32015L0566)/EU van de Commissie van 8 april 2015 tot uitvoering van [Richtlijn 2004/23/EG](32004L0023) aangaande de procedures om na te gaan of er sprake is van gelijkwaardige kwaliteits- en veiligheidsnormen voor ingevoerde weefsels en cellen (PbEU 2015, L 93), [artikel 9, vierde lid, van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9), en de [artikelen 3.7, tweede lid](onbekend), en [7a.8 van het Eisenbesluit lichaamsmateriaal 2006](onbekend);
-
-Besluit:
-
 #### § 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **besluit:** het [Eisenbesluit lichaamsmateriaal 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0021255);
+- a. *besluit:*
+ [Besluit veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0052544);
 
-- b. **EUTC:** het in het kader van de Europese Unie ontwikkelde productcoderingssysteem voor weefsels en cellen, bestaande uit een register van alle soorten weefsel en cellen die in de Unie circuleren en de overeenkomstige productcodes;
+- b. *EUTC:* het in het kader van de Europese Unie ontwikkelde productcoderingssysteem voor weefsels en cellen, bestaande uit een register van alle soorten weefsel en cellen die in de Unie circuleren en de overeenkomstige productcodes;
 
-- c. **productcode:** de identificatiecode voor de specifieke soort weefsel of cellen in kwestie, bedoeld in bijlage VII van [richtlijn 2006/86/EG](32006L0086), die bestaat uit de identificatiecode van het coderingssysteem voor producten die aangeeft welk coderingssysteem door de weefselinstelling wordt gehanteerd en het productnummer voor weefsels en cellen dat in het respectieve coderingssysteem voor de productsoort wordt gebruikt;
+- c. *productcode:* de identificatiecode voor de specifieke soort weefsel of cellen in kwestie, bedoeld in bijlage VII van richtlijn 2006/86/EG, die bestaat uit de identificatiecode van het coderingssysteem voor producten die aangeeft welk coderingssysteem door de weefselinstelling wordt gehanteerd en het productnummer voor weefsels en cellen dat in het respectieve coderingssysteem voor de productsoort wordt gebruikt;
 
-- d. **productidentificatiesequentie:** het tweede deel van de uniforme Europese code, bestaande uit de productcode, het splitsingsnummer en de vervaldatum;
+- d. *productidentificatiesequentie:* het tweede deel van de uniforme Europese code, bestaande uit de productcode, het splitsingsnummer en de vervaldatum;
 
-- e. **splitsingsnummer:** het nummer dat weefsels en cellen die hetzelfde unieke donatienummer en dezelfde productcode hebben en van dezelfde weefselinstelling afkomstig zijn, van elkaar onderscheidt en op unieke wijze identificeert;
+- e. *splitsingsnummer:* het nummer dat weefsels en cellen die hetzelfde unieke donatienummer en dezelfde productcode hebben en van dezelfde weefselinstelling afkomstig zijn, van elkaar onderscheidt en op unieke wijze identificeert;
 
-- f. **vervaldatum:** de datum waarop de weefsels en cellen uiterlijk mogen worden toegepast.
+- f. *vervaldatum:* de datum waarop de weefsels en cellen uiterlijk mogen worden toegepast.
 
-#### Artikel 1.2. Dynamische verwijzing
+##### Artikel 1.2. Dynamische verwijzing
 
-1. Een wijziging van bijlage I bij [richtlijn 2006/86/EG](32006L0086) van de Commissie gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+1. Een wijziging van bijlage I bij richtlijn 2006/86/EG van de Commissie gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 2. Een wijziging van bijlagen I, II, III en IV bij de EU-richtlijn gelijkwaardige kwaliteits- en veiligheidsnormen ingevoerde weefsels en cellen gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -42,13 +43,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Voorwaarden voor erkenning en aanwijzing
 
-#### Artikel 2.1. Erkenning
+##### Artikel 2.1. Erkenning
 
-Voor het verkrijgen van een erkenning als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9) voldoet een instelling aan bijlage I bij [richtlijn 2006/86/EG](32006L0086).
+Voor het verkrijgen van een erkenning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9) of [9a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9a) voldoet een instelling aan bijlage I bij richtlijn 2006/86/EG of EU-richtlijn orgaantransplantatie.
 
-#### Artikel 2.2. Aanwijzing
+##### Artikel 2.2. Aanwijzing
 
-1. Voor het verkrijgen van een aanwijzing als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7):
+1. Voor het verkrijgen van een aanwijzing die krachtens [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=23) geldt als een erkenning verleend op grond van [artikel 9, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9):
 
 - a. verstrekt een instelling die tevens importerende weefselinstelling is de informatie en documentatie, bedoeld in bijlage I bij de EU-richtlijn gelijkwaardige kwaliteits- en veiligheidsnormen ingevoerde weefsels en cellen;
 
@@ -58,9 +59,9 @@ Voor het verkrijgen van een erkenning als bedoeld in [artikel 9 van de wet](http
 
 #### § 3. Codering
 
-#### Artikel 3.1. Samenstelling uniforme Europese code en de donatie-identificatiesequentie
+##### Artikel 3.1. Samenstelling uniforme Europese code en de donatie-identificatiesequentie
 
-1. De uniforme Europese code en de donatie-identificatiesequentie, alsmede de onderdelen daarvan, zijn samengesteld uit de elementen genoemd in bijlage VII van [richtlijn 2006/86/EG](32006L0086), zijn met het oog leesbaar en worden voorafgegaan door het acroniem ‘SEC’.
+1. De uniforme Europese code en de donatie-identificatiesequentie, alsmede de onderdelen daarvan, zijn samengesteld uit de elementen genoemd in bijlage VII van richtlijn 2006/86/EG, zijn met het oog leesbaar en worden voorafgegaan door het acroniem ‘SEC’.
 
 2. Bij de uniforme Europese code worden de donatie-identificatiesequentie en de productidentificatiesequentie gescheiden door een spatie of staan ze op opeenvolgende regels.
 
@@ -72,7 +73,7 @@ Voor het verkrijgen van een erkenning als bedoeld in [artikel 9 van de wet](http
 
 - c. Eurocode, wordt dit systeem in de productcode geïdentificeerd met de letter B.
 
-#### Artikel 3.2. Overige eisen uniforme Europese code en de donatie-identificatiesequentie
+##### Artikel 3.2. Overige eisen uniforme Europese code en de donatie-identificatiesequentie
 
 1. Voorafgaand aan de distributie voor toepassing op de mens wordt de uniforme Europese code onuitwisbaar en blijvend aangebracht op het etiket van de weefsels en cellen en in de begeleidende documentatie vermeld, of, indien vermelding van de uniforme Europese code op het etiket gelet op de afmetingen daarvan onmogelijk is, in de begeleidende documentatie ondubbelzinnig verbonden met de weefsels en cellen waar de code betrekking op heeft.
 
@@ -80,28 +81,44 @@ Voor het verkrijgen van een erkenning als bedoeld in [artikel 9 van de wet](http
 
 3. Voorafgaand aan de distributie voor toepassing op de mens wordt gebruik gemaakt van een van de toegestane coderingssystemen, alsmede van de overeenkomstige productnummers voor weefsels en cellen die in het EU-repertorium van weefsel- en celproducten zijn opgenomen.
 
-#### Artikel 3.3. Vervaldatum en splitsingsnummer
+##### Artikel 3.3. Vervaldatum en splitsingsnummer
 
-1. Weefselinstellingen gebruiken een passend splitsingsnummer en een passende vervaldatum als bedoeld in bijlage VII van [richtlijn 2006/86/EG](32006L0086).
+1. Weefselinstellingen gebruiken een passend splitsingsnummer en een passende vervaldatum als bedoeld in bijlage VII van richtlijn 2006/86/EG.
 
 2. Bij weefsels en cellen waarvoor geen vervaldatum is bepaald, wordt voorafgaand aan de distributie voor toepassing op de mens de vervaldatum op ‘00000000’ gesteld.
 
-#### Artikel 3.4. Systeem toekenning uniek donatienummer
+##### Artikel 3.4. Systeem toekenning uniek donatienummer
 
-De toekenning van unieke donatienummers, bedoeld in [artikel 3.10, tweede lid, onderdeel b, van het besluit](onbekend), geschiedt krachtens systemen waarin elke weefselinstelling zelf unieke donatienummers toekent.
+De toekenning van unieke donatienummers, bedoeld in artikel 3.10, tweede lid, onderdeel b, van het besluit, geschiedt krachtens systemen waarin elke weefselinstelling zelf unieke donatienummers toekent.
 
-#### § 4. Overige bepalingen
+#### § 4. Verwerking persoonsgegevens
 
-#### Artikel 4.1. Intrekking
+##### Artikel 4.1. Verwerking door het orgaancentrum
+
+Ter uitvoering van de taken, bedoeld in [artikel 5.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0052544&artikel=5.2), verwerkt het orgaancentrum voor zover van toepassing, de persoonsgegevens, opgenomen in onderdeel A, van de [bijlage](https://wetten.overheid.nl/BWBR0038551) bij deze regeling.
+
+##### Artikel 4.2. Verstrekking aan het meldpunt
+
+Ter uitvoering van [artikel 5.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0052544&artikel=5.3), verstrekt de zorgverlener voor zover van toepassing, de persoonsgegevens, opgenomen in onderdeel B, van de [bijlage](https://wetten.overheid.nl/BWBR0038551) bij deze regeling.
+
+##### Artikel 4.3. Verstrekking aan het orgaancentrum
+
+Ter uitvoering van [artikel 5.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0052544&artikel=5.4), verstrekt een weefselinstelling, verkrijgingsorganisatie of transplantatiecentrum, voor zover van toepassing:
+
+- a. de persoonsgegevens, opgenomen in onderdeel C, van de [bijlage](https://wetten.overheid.nl/BWBR0038551) bij deze regeling, voor zover het gaat om de uitvoering van de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) als bedoeld in [artikel 14 van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=14).
+
+- b. de persoonsgegevens, opgenomen in onderdeel D, van de [bijlage](https://wetten.overheid.nl/BWBR0038551) bij deze regeling, voor zover het gaat om het bijhouden van de registers, genoemd in [artikel 14 van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=14).
+
+#### § 5. Overige bepalingen
+
+##### Artikel 5.1. Intrekking
 
 De [Regeling voorschriften erkenning Wvkl](https://wetten.overheid.nl/jci1.3:c:BWBR0028994) wordt ingetrokken.
 
-#### Artikel 4.2. Citeerbepaling
+##### Artikel 5.2. Citeerbepaling
 
 Deze regeling wordt aangehaald als: Regeling veiligheid en kwaliteit lichaamsmateriaal.
 
-#### Artikel 4.3. Inwerkingtreding
+##### Artikel 5.3. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 29 april 2017.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 29 april 2017.

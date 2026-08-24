@@ -1,35 +1,16 @@
 ---
 title: "Verordening interdisciplinaire samenwerking 2015"
 identifier: "BWBR0037964"
-country: "nl"
-rank: "pbo"
-publication_date: "2016-05-30"
-last_updated: "2016-05-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037964"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "13553863"
-version_id: "24053112"
-internal_id: "C34559671"
-label_id: "13520854"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037964/2016-05-30/0"
-intitule_bron: "Stcrt.2016-25642"
-intitule_effect: "wijziging"
-intitule_published: "2016-05-20"
-intitule_in_force: "2016-05-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-25642"
-original_published_date: "2016-05-20"
-original_effect: "wijziging"
-original_url_id: "stcrt-2016-25642"
-entry_into_force_date: "2016-05-30"
-jci_1_3: "jci1.3:c:BWBR0037964&z=2016-05-30&g=2016-05-30"
-jci_1_0: "1.0:c:BWBR0037964&g=2016-05-30"
-citeertitel_status: "officieel"
-entry_into_force: "2016-05-30"
+publicatiedatum: 2016-05-30
+laatste_update: 2016-05-30
+status: geldig
+toestand: 2016-05-30
+bron: "https://wetten.overheid.nl/BWBR0037964"
+opgehaald: 2026-08-24
 ---
+
 # Verordening interdisciplinaire samenwerking 2015
 
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB;
@@ -74,17 +55,17 @@ Op grond van [artikel 110 eerste lid Wna](https://wetten.overheid.nl/jci1.3:c:BW
 
 In deze verordening wordt verstaan onder:
 
-- a. **samenwerkingsverband:** iedere samenwerking met een beoefenaar van een ander beroep dan notaris waaraan een of meer notarissen deelnemen en waarbij de deelnemers geheel of gedeeltelijk voor gezamenlijke rekening en risico praktijk uitoefenen of zeggenschap over bedrijfsvoering met elkaar delen;
+- a. *samenwerkingsverband:* iedere samenwerking met een beoefenaar van een ander beroep dan notaris waaraan een of meer notarissen deelnemen en waarbij de deelnemers geheel of gedeeltelijk voor gezamenlijke rekening en risico praktijk uitoefenen of zeggenschap over bedrijfsvoering met elkaar delen;
 
-- b. **naar buiten optreden:** het doen van mededelingen dan wel het zich op andere wijze naar buiten presenteren door of ten behoeve van de notaris of het samenwerkingsverband;
+- b. *naar buiten optreden:* het doen van mededelingen dan wel het zich op andere wijze naar buiten presenteren door of ten behoeve van de notaris of het samenwerkingsverband;
 
-- c. **praktijkuitoefening:** al hetgeen de uitoefening van het notarisambt in de meest ruime zin omvat;
+- c. *praktijkuitoefening:* al hetgeen de uitoefening van het notarisambt in de meest ruime zin omvat;
 
-- d. **bedrijfsvoering:** het geheel van activiteiten dat betrekking heeft op het beheren en het besturen van het bedrijf van het samenwerkingsverband.
+- d. *bedrijfsvoering:* het geheel van activiteiten dat betrekking heeft op het beheren en het besturen van het bedrijf van het samenwerkingsverband.
 
-- e. **praktijkrechtspersoon:** een praktijkvennootschap, praktijkstichting, praktijkcoöperatie, of een vennootschap die is opgericht naar het recht van een ander land dan Nederland en die met een met de naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid vergelijkbare rechtsvorm heeft, en die is gericht op de uitoefening van de rechtspraktijk door de daartoe bevoegde personen;
+- e. *praktijkrechtspersoon:* een praktijkvennootschap, praktijkstichting, praktijkcoöperatie, of een vennootschap die is opgericht naar het recht van een ander land dan Nederland en die met een met de naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid vergelijkbare rechtsvorm heeft, en die is gericht op de uitoefening van de rechtspraktijk door de daartoe bevoegde personen;
 
-- f. **houdster-rechtspersoon:** een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, een coöperatie, of een stichting of een vennootschap die is opgericht naar het recht van een ander land dan Nederland en die een met de naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid vergelijkbare rechtsvorm heeft en die de aandelen houdt of lid is van een praktijkrechtspersoon.
+- f. *houdster-rechtspersoon:* een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, een coöperatie, of een stichting of een vennootschap die is opgericht naar het recht van een ander land dan Nederland en die een met de naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid vergelijkbare rechtsvorm heeft en die de aandelen houdt of lid is van een praktijkrechtspersoon.
 
 De verordening is van toepassing op een samenwerkingsverband van beoefenaren van verschillende beroepen indien daarin de praktijk wordt uitgeoefend voor gezamenlijke rekening en risico van de deelnemers. Voorts is de verordening van toepassing op een samenwerkingsverband van beroepsbeoefenaren waarin uitsluitend de zeggenschap over de bedrijfsvoering wordt gedeeld.
 
@@ -210,13 +191,13 @@ Het ligt in de rede dat beslissingen omtrent de eigen praktijkuitoefening binnen
 
 - b. is niet tuchtrechtelijk veroordeeld, waarbij:
 
-- –. voor voormalig notarissen: schorsing of ontzetting uit het ambt is uitgesproken;
+   - – voor voormalig notarissen: schorsing of ontzetting uit het ambt is uitgesproken;
 
-- –. voor voormalig advocaten: schorsing of schrapping van het tableau is uitgesproken of een schorsing of maatregel op grond van [artikel 60b van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=60b) is opgelegd;
+   - – voor voormalig advocaten: schorsing of schrapping van het tableau is uitgesproken of een schorsing of maatregel op grond van [artikel 60b van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=60b) is opgelegd;
 
-- –. voor voormalig belastingadviseurs: schorsing of royement van het lidmaatschap van het Register Belastingadviseurs is opgelegd of een schorsing van of ontzetting uit het lidmaatschap van de Nederlandse Orde van Belastingadviseurs is uitgesproken;
+   - – voor voormalig belastingadviseurs: schorsing of royement van het lidmaatschap van het Register Belastingadviseurs is opgelegd of een schorsing van of ontzetting uit het lidmaatschap van de Nederlandse Orde van Belastingadviseurs is uitgesproken;
 
-- –. voor voormalig octrooigemachtigden: schorsing van of ontzetting uit het recht om als octrooigemachtigde op te treden is uitgesproken; en
+   - – voor voormalig octrooigemachtigden: schorsing van of ontzetting uit het recht om als octrooigemachtigde op te treden is uitgesproken; en
 
 - c. kan een verklaring omtrent het gedrag overleggen als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) of een daarmee vergelijkbare verklaring naar buitenlands recht.
 

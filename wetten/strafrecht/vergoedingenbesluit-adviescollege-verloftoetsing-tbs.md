@@ -1,52 +1,27 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 17 juni 2016, nr. 769903, houdende toekenning van een vaste vergoeding per maand aan de leden van Adviescollege Verloftoetsing tbs (Vergoedingenbesluit Adviescollege Verloftoetsing tbs)"
+citeertitel: "Vergoedingenbesluit Adviescollege Verloftoetsing tbs"
 identifier: "BWBR0038097"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038097"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13657533"
-version_id: "23386592"
-internal_id: "C33709991"
-label_id: "13624234"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038097/2020-01-01/0"
-intitule_bron: "Stcrt.2016-33142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-17"
-intitule_published: "2016-06-28"
-intitule_in_force: "2016-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-33142"
-original_signed_date: "2016-06-17"
-original_published_date: "2016-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-33142"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0038097&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0038097&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Vergoedingenbesluit Adviescollege Verloftoetsing tbs"
-signed_date: "2016-06-17"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0038097"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 17 juni 2016, nr. 769903, houdende toekenning van een vaste vergoeding per maand aan de leden van Adviescollege Verloftoetsing tbs (Vergoedingenbesluit Adviescollege Verloftoetsing tbs)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 4 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **BBRA 1984:** [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
+- a. *BBRA 1984:*
+ [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
 
-- b. **Avt:** Adviescollege Verloftoetsing tbs.
+- b. *Avt:* Adviescollege Verloftoetsing tbs.
 
 ##### Artikel 2
 
@@ -68,10 +43,8 @@ Het [vergoedingsbesluit voorzitter Adviescollege Verloftoetsing tbs](https://wet
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van 1 juli 2016.
+Dit besluit treedt in werking met ingang van 1 juli 2016.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Vergoedingenbesluit Adviescollege Verloftoetsing tbs.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

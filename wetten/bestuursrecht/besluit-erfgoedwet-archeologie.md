@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 april 2016, houdende regels voor archeologische opgravingen (Besluit Erfgoedwet archeologie)"
+citeertitel: "Besluit Erfgoedwet archeologie"
 identifier: "BWBR0037866"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037866"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13482133"
-version_id: "23137992"
-internal_id: "C33440311"
-label_id: "13449404"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037866/2024-04-01/0"
-intitule_bron: "Stb.2016-155"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-08"
-intitule_published: "2016-04-26"
-intitule_in_force: "2016-04-26"
-intitule_status: "goed"
-original_publication: "Stb.2016-155"
-original_signed_date: "2016-04-08"
-original_published_date: "2016-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-155"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0037866&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0037866&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Erfgoedwet archeologie"
-signed_date: "2016-04-08"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0037866"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 8 april 2016, houdende regels voor archeologische opgravingen (Besluit Erfgoedwet archeologie)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 11 september 2015, nr. WJZ/811629 (10522), directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), en [5.5, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.5);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 november 2015, nr. W05.15.0317/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 1 april 2016, nr. WJZ/870410 (6723), directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,13 +20,14 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanwijzing:** aanwijzing als bedoeld in [artikel 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.2).
+- *aanwijzing:* aanwijzing als bedoeld in [artikel 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.2).
 
-- **certificaathouder:** degene in het bezit van een certificaat afgegeven door een certificerende instelling;
+- *certificaathouder:* degene in het bezit van een certificaat afgegeven door een certificerende instelling;
 
-- **certificerende instelling:** instelling als bedoeld in [artikel 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.2);
+- *certificerende instelling:* instelling als bedoeld in [artikel 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.2);
 
-- **wet:** [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+- *wet:*
+ [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 ### Hoofdstuk 2. Uitzonderingen op het opgravingsverbod
 
@@ -117,6 +86,62 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 2. Het eerste lid is slechts van toepassing op diegene die op incidentele basis opgravingen verricht in Nederland.
 
 3. De [artikelen 5.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.4), en [5.6, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6), zijn van overeenkomstige toepassing op de in het eerste lid bedoelde opgravingen.
+
+##### Artikel 2.5. Verenigingen voor vrijwilligers in de onderwaterarcheologie
+
+1. Onze Minister kan aan een vereniging die het behouden en beoefenen van archeologie als statutair doel heeft, op aanvraag ontheffing verlenen van het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), voor zover het betreft cultureel erfgoed onder water voor een periode van maximaal één jaar.
+
+2. [Artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.4), en [artikel 5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) zijn van overeenkomstige toepassing.
+
+3. De ontheffing ziet slechts op de volgende handelingen:
+
+- a. het meenemen van een archeologische vondst die acuut wordt bedreigd door natuurlijke processen;
+
+- b. het meenemen van een archeologische vondst die dient ter identificatie van het archeologisch monument; of
+
+- c. het verrichten van kleinschalige onderzoekshandelingen met zeer beperkte gevolgen voor de archeologische waarde van het archeologisch monument.
+
+4. De ontheffing is niet van toepassing op:
+
+- a. de gevallen, bedoeld in [artikel 2.2, tweede lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.2&z=2024-04-01&g=2024-04-01);
+
+- b. een wrak van een militair vliegtuig;
+
+- c. een wrak van een oorlogsschip, tenzij
+
+   - 1°. de vlaggenstaat hiervoor toestemming heeft verleend; of
+
+   - 2°. de vlaggenstaat onbekend is; en
+
+- d. gevallen waarin de vereniging in opdracht van een derde handelt.
+
+5. Onze Minister kan aan een ontheffing voorschriften verbinden.
+
+6. Onze Minister kan de ontheffing intrekken.
+
+7. Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent de aanvraag, wijziging, weigering en intrekking van een ontheffing alsmede ten aanzien van de voorschriften bedoeld in het vijfde lid.
+
+##### Artikel 2.6. Verkrijging van een certificaat
+
+1. Het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), is niet van toepassing op een opgraving die wordt verricht in het kader van het verkrijgen van een certificaat, als bedoeld in artikel 5.1, eerste lid, van de wet.
+
+2. [Artikel 5.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.4), en [artikel 5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) zijn van overeenkomstige toepassing.
+
+##### Artikel 2.7. Opgravingen door de Minister van Defensie
+
+1. Het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), is niet van toepassing op een opgraving die door de Minister van Defensie wordt verricht met betrekking tot:
+
+- a. militaire vliegtuigwrakken;
+
+- b. slachtoffers uit de Tweede Wereldoorlog; of
+
+- c. niet-gesprongen explosieven.
+
+2. [Artikel 5.6, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) is van overeenkomstige toepassing op een opgraving bedoeld in het eerste lid, aanhef en onderdeel a.
+
+3. De vrijstelling, bedoeld in het eerste lid, aanhef en onderdeel a, is slechts van toepassing indien een archeologische waardering heeft plaatsgevonden.
+
+4. Onze Minister en Onze Ministers van Defensie en van Binnenlandse Zaken en Koninkrijksrelaties stellen een protocol vast over de werkwijze met betrekking tot de archeologische waardering.
 
 ### Hoofdstuk 3. Nadere regels rond certificering
 
@@ -216,130 +241,64 @@ De certificerende instelling meldt onverwijld aan Onze Minister zijn door de rec
 
 ### Hoofdstuk 4. Wijziging andere besluiten
 
-##### Artikel 4.1. [Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609)
+##### Artikel 4.1. Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken
 
-Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
+*Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.*
 
-##### Artikel 4.2. [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 4.2. Arbeidsomstandighedenbesluit
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
-##### Artikel 4.3. [Besluit eisen inrichtingen Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0011700)
+##### Artikel 4.3. Besluit eisen inrichtingen Drank- en Horecawet
 
-Wijzigt het Besluit eisen inrichtingen Drank- en Horecawet.
+*Wijzigt het Besluit eisen inrichtingen Drank- en Horecawet.*
 
-##### Artikel 4.4. [Besluit energieprestatie gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023734)
+##### Artikel 4.4. Besluit energieprestatie gebouwen
 
-Wijzigt het Besluit energieprestatie gebouwen.
+*Wijzigt het Besluit energieprestatie gebouwen.*
 
-##### Artikel 4.5. [Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237)
+##### Artikel 4.5. Besluit huurprijzen woonruimte
 
-Wijzigt het Besluit huurprijzen woonruimte.
+*Wijzigt het Besluit huurprijzen woonruimte.*
 
-##### Artikel 4.6. [Besluit milieueffectrapportage](https://wetten.overheid.nl/jci1.3:c:BWBR0006788)
+##### Artikel 4.6. Besluit milieueffectrapportage
 
-Wijzigt het Besluit milieueffectrapportage.
+*Wijzigt het Besluit milieueffectrapportage.*
 
-##### Artikel 4.7. [Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464)
+##### Artikel 4.7. Besluit omgevingsrecht
 
-Wijzigt het Besluit omgevingsrecht.
+*Wijzigt het Besluit omgevingsrecht.*
 
-##### Artikel 4.8. [Besluit ontgrondingen in rijkswateren](https://wetten.overheid.nl/jci1.3:c:BWBR0023362)
+##### Artikel 4.8. Besluit ontgrondingen in rijkswateren
 
-Wijzigt het Besluit ontgrondingen in rijkswateren.
+*Wijzigt het Besluit ontgrondingen in rijkswateren.*
 
-##### Artikel 4.9. [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394)
+##### Artikel 4.9. Mijnbouwbesluit
 
-Wijzigt het Mijnbouwbesluit.
+*Wijzigt het Mijnbouwbesluit.*
 
-##### Artikel 4.10. [Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914)
+##### Artikel 4.10. Rangschikkingsbesluit Natuurschoonwet 1928
 
-Wijzigt het Rangschikkingsbesluit Natuurschoonwet 1928.
+*Wijzigt het Rangschikkingsbesluit Natuurschoonwet 1928.*
 
-##### Artikel 4.11. [Toestemmingsbesluit De Nederlandsche Bank N.V. 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034378)
+##### Artikel 4.11. Toestemmingsbesluit De Nederlandsche Bank N.V. 2013
 
-Wijzigt het Toestemmingsbesluit De Nederlandsche Bank N.V. 2013.
+*Wijzigt het Toestemmingsbesluit De Nederlandsche Bank N.V. 2013.*
 
-##### Artikel 4.12. [Uitvoeringsbesluit rijkscoördinatieregeling energie-infrastructuurprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0025319)
+##### Artikel 4.12. Uitvoeringsbesluit rijkscoördinatieregeling energie-infrastructuurprojecten
 
-Wijzigt het Uitvoeringsbesluit rijkscoördinatieregeling energie-infrastructuurprojecten.
+*Wijzigt het Uitvoeringsbesluit rijkscoördinatieregeling energie-infrastructuurprojecten.*
 
-##### Artikel 4.13. [Uitvoeringsbesluit Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002227)
+##### Artikel 4.13. Uitvoeringsbesluit Successiewet 1956
 
-Wijzigt het Uitvoeringsbesluit Successiewet 1956.
+*Wijzigt het Uitvoeringsbesluit Successiewet 1956.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 5.1. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 juli 2016.
+Dit besluit treedt in werking met ingang van 1 juli 2016.
 
 ##### Artikel 5.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Erfgoedwet archeologie
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2.5. Verenigingen voor vrijwilligers in de onderwaterarcheologie
-
-1. Onze Minister kan aan een vereniging die het behouden en beoefenen van archeologie als statutair doel heeft, op aanvraag ontheffing verlenen van het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), voor zover het betreft cultureel erfgoed onder water voor een periode van maximaal één jaar.
-
-2. [Artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.4), en [artikel 5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) zijn van overeenkomstige toepassing.
-
-3. De ontheffing ziet slechts op de volgende handelingen:
-
-- a. het meenemen van een archeologische vondst die acuut wordt bedreigd door natuurlijke processen;
-
-- b. het meenemen van een archeologische vondst die dient ter identificatie van het archeologisch monument; of
-
-- c. het verrichten van kleinschalige onderzoekshandelingen met zeer beperkte gevolgen voor de archeologische waarde van het archeologisch monument.
-
-4. De ontheffing is niet van toepassing op:
-
-- a. de gevallen, bedoeld in [artikel 2.2, tweede lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.2&z=2024-04-01&g=2024-04-01);
-
-- b. een wrak van een militair vliegtuig;
-
-- c. een wrak van een oorlogsschip, tenzij
-
-- 1°. de vlaggenstaat hiervoor toestemming heeft verleend; of
-
-- 2°. de vlaggenstaat onbekend is; en
-
-- d. gevallen waarin de vereniging in opdracht van een derde handelt.
-
-5. Onze Minister kan aan een ontheffing voorschriften verbinden.
-
-6. Onze Minister kan de ontheffing intrekken.
-
-7. Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent de aanvraag, wijziging, weigering en intrekking van een ontheffing alsmede ten aanzien van de voorschriften bedoeld in het vijfde lid.
-
-##### Artikel 2.6. Verkrijging van een certificaat
-
-1. Het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), is niet van toepassing op een opgraving die wordt verricht in het kader van het verkrijgen van een certificaat, als bedoeld in artikel 5.1, eerste lid, van de wet.
-
-2. [Artikel 5.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.4), en [artikel 5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) zijn van overeenkomstige toepassing.
-
-##### Artikel 2.7. Opgravingen door de Minister van Defensie
-
-1. Het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), is niet van toepassing op een opgraving die door de Minister van Defensie wordt verricht met betrekking tot:
-
-- a. militaire vliegtuigwrakken;
-
-- b. slachtoffers uit de Tweede Wereldoorlog; of
-
-- c. niet-gesprongen explosieven.
-
-2. [Artikel 5.6, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) is van overeenkomstige toepassing op een opgraving bedoeld in het eerste lid, aanhef en onderdeel a.
-
-3. De vrijstelling, bedoeld in het eerste lid, aanhef en onderdeel a, is slechts van toepassing indien een archeologische waardering heeft plaatsgevonden.
-
-4. Onze Minister en Onze Ministers van Defensie en van Binnenlandse Zaken en Koninkrijksrelaties stellen een protocol vast over de werkwijze met betrekking tot de archeologische waardering.
-
-### Hoofdstuk 3. Nadere regels rond certificering
-
-### Hoofdstuk 4. Wijziging andere besluiten
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

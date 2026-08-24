@@ -9,7 +9,7 @@ laatste_update: 2026-08-20
 status: geldig
 toestand: 2026-08-20
 bron: "https://wetten.overheid.nl/BWBR0050592"
-opgehaald: 2026-08-23
+opgehaald: 2026-08-24
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselkwaliteit en Natuur en de Minister van Klimaat en Groene Groei van 18 december 2024, nr. WJZ/ 95850148 tot vaststelling van de subsidieplafonds en termijnen van openstelling van subsidie-instrumenten op hun respectievelijke beleidsterreinen (Regeling openstelling EZK- en LNV-subsidies 2025)

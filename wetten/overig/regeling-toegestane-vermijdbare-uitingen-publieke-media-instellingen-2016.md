@@ -1,72 +1,46 @@
 ---
 title: "Regeling van het Commissariaat voor de Media van 17 mei 2016 houdende regels omtrent toegestane vermijdbare uitingen bij publieke media-instellingen (Regeling toegestane vermijdbare uitingen publieke media-instellingen 2016)"
+citeertitel: "Regeling toegestane vermijdbare uitingen publieke media-instellingen 2016"
 identifier: "BWBR0038081"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-08-01"
-last_updated: "2016-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038081"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13654943"
-version_id: "23380372"
-internal_id: "C33703711"
-label_id: "13621704"
-dtd_version: "2.0"
-original_entry_into_force: "2016-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038081/2016-08-01/0"
-intitule_bron: "Stcrt.2016-31618"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-17"
-intitule_published: "2016-06-21"
-intitule_in_force: "2016-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-31618"
-original_signed_date: "2016-05-17"
-original_published_date: "2016-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-31618"
-entry_into_force_date: "2016-08-01"
-jci_1_3: "jci1.3:c:BWBR0038081&z=2016-08-01&g=2016-08-01"
-jci_1_0: "1.0:c:BWBR0038081&g=2016-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toegestane vermijdbare uitingen publieke media-instellingen 2016"
-signed_date: "2016-05-17"
-entry_into_force: "2016-08-01"
+publicatiedatum: 2016-08-01
+laatste_update: 2016-08-01
+status: geldig
+toestand: 2016-08-01
+bron: "https://wetten.overheid.nl/BWBR0038081"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van het Commissariaat voor de Media van 17 mei 2016 houdende regels omtrent toegestane vermijdbare uitingen bij publieke media-instellingen (Regeling toegestane vermijdbare uitingen publieke media-instellingen 2016)
-
-Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-
-Gelet op [artikel 14a van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=14a);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **audio:** elektronisch product met geluidinhoud dat één geheel vormt en als zodanig herkenbaar onder een afzonderlijke titel wordt verspreid;
+- *audio:* elektronisch product met geluidinhoud dat één geheel vormt en als zodanig herkenbaar onder een afzonderlijke titel wordt verspreid;
 
-- **auteursrechthebbende:** rechthebbende op het auteursrecht, bedoeld in [artikel 1 van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=1);
+- *auteursrechthebbende:* rechthebbende op het auteursrecht, bedoeld in [artikel 1 van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=1);
 
-- **besluit:** [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036);
+- *besluit:*
+ [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036);
 
-- **(beeld)merk:** benamingen, tekeningen, afdrukken, stempels, letters, cijfers, vormen van waren of van verpakkingen en alle andere voor grafische voorstelling vatbare tekens die dienen om de waren of diensten van een onderneming te onderscheiden;
+- *(beeld)merk:* benamingen, tekeningen, afdrukken, stempels, letters, cijfers, vormen van waren of van verpakkingen en alle andere voor grafische voorstelling vatbare tekens die dienen om de waren of diensten van een onderneming te onderscheiden;
 
-- **(co)producent:** bedrijf dat of instelling die zich gewoonlijk bezighoudt met de verzorging van mediadiensten of media-aanbod en die het media-aanbod (mede) heeft vervaardigd;
+- *(co)producent:* bedrijf dat of instelling die zich gewoonlijk bezighoudt met de verzorging van mediadiensten of media-aanbod en die het media-aanbod (mede) heeft vervaardigd;
 
-- **facilitair bedrijf:** bedrijf dat of instelling die de technische realisatie van het media-aanbod (mede) heeft uitgevoerd of de levering van overige faciliteiten heeft verzorgd;
+- *facilitair bedrijf:* bedrijf dat of instelling die de technische realisatie van het media-aanbod (mede) heeft uitgevoerd of de levering van overige faciliteiten heeft verzorgd;
 
-- **locatie:** plaats waar opnamen voor een programma zijn of worden gemaakt;
+- *locatie:* plaats waar opnamen voor een programma zijn of worden gemaakt;
 
-- **loterijen:** permanente landelijke goede doelenloterijen inclusief de sporttotalisator en de Staatsloterij, die een vergunning hebben op grond van de [Wet op de Kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- *loterijen:* permanente landelijke goede doelenloterijen inclusief de sporttotalisator en de Staatsloterij, die een vergunning hebben op grond van de [Wet op de Kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- **naam:** persoonsnaam of, in geval van een bedrijf of instelling, de statutaire of handelsnaam;
+- *naam:* persoonsnaam of, in geval van een bedrijf of instelling, de statutaire of handelsnaam;
 
-- **video:** elektronisch product met bewegende beeldinhoud dat één geheel vormt en als zodanig herkenbaar onder een afzonderlijke titel wordt verspreid;
+- *video:* elektronisch product met bewegende beeldinhoud dat één geheel vormt en als zodanig herkenbaar onder een afzonderlijke titel wordt verspreid;
 
-- **wet:** [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
+- *wet:*
+ [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
 
 ##### Artikel 2. Vermelding van boek-, filmtitels of culturele evenementen in de titel van een programma
 
@@ -82,7 +56,7 @@ In het media-aanbod zijn vermijdbare uitingen in de vorm van het tonen of vermel
 
 - a. de bijdrage van ondergeschikte betekenis is of door een derde in bruikleen is gegeven; en
 
-- b. de vertoning of vermelding uit niet meer bestaat dan de woorden **met dank aan** gevolgd door de naam van degene die de bijdrage heeft verstrekt.
+- b. de vertoning of vermelding uit niet meer bestaat dan de woorden *met dank aan* gevolgd door de naam van degene die de bijdrage heeft verstrekt.
 
 2. De vermelding of vertoning vindt plaats:
 
@@ -149,5 +123,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2016.
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toegestane vermijdbare uitingen publieke media-instellingen 2016.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

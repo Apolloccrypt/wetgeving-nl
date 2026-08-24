@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 14 april 2016, houdende regels omtrent de eisen waaraan meetinstrumenten moeten voldoen voordat zij in de handel worden gebracht, in gebruik worden genomen of worden gebruikt, alsmede omtrent conformiteitsbeoordelingen van meetinstrumenten en verplichtingen van marktdeelnemers en tot wijziging van het Meeteenhedenbesluit 2006 (Besluit meetinstrumenten en marktdeelnemers)"
+citeertitel: "Besluit meetinstrumenten en marktdeelnemers"
 identifier: "BWBR0037835"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-05-18"
-last_updated: "2017-05-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037835"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13475033"
-version_id: "23122422"
-internal_id: "C33420021"
-label_id: "13442484"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037835/2017-05-18/0"
-intitule_bron: "Stb.2016-140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-04-14"
-intitule_published: "2016-04-19"
-intitule_in_force: "2016-04-19"
-intitule_status: "goed"
-original_publication: "Stb.2016-140"
-original_signed_date: "2016-04-14"
-original_published_date: "2016-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-140"
-entry_into_force_date: "2016-04-20"
-jci_1_3: "jci1.3:c:BWBR0037835&z=2017-05-18&g=2017-05-18"
-jci_1_0: "1.0:c:BWBR0037835&g=2017-05-18"
-citeertitel_status: "officieel"
-short_title: "Besluit meetinstrumenten en marktdeelnemers"
-signed_date: "2016-04-14"
-entry_into_force: "2016-04-20"
+publicatiedatum: 2016-04-20
+laatste_update: 2017-05-18
+status: geldig
+toestand: 2017-05-18
+bron: "https://wetten.overheid.nl/BWBR0037835"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van 14 april 2016, houdende regels omtrent de eisen waaraan meetinstrumenten moeten voldoen voordat zij in de handel worden gebracht, in gebruik worden genomen of worden gebruikt, alsmede omtrent conformiteitsbeoordelingen van meetinstrumenten en verplichtingen van marktdeelnemers en tot wijziging van het Meeteenhedenbesluit 2006 (Besluit meetinstrumenten en marktdeelnemers)
-
-Op de voordracht van Onze Minister van Economische Zaken van 29 januari 2016, nr. WJZ / 16006109;
-
-Gelet op [richtlijn 2014/31](32014L0031)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van niet-automatische weegwerktuigen (PbEU L 96), [richtlijn 2014/32](32014L0032)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (PbEU L 96), [richtlijn 2009/34/EG](32009L0034) van het Europees Parlement en de Europese Unie van 23 april 2009 betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen, [richtlijn 75/107/EEG](31975L0107) van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgeving der Lid-Staten inzake flessen gebruikt als tapmaat (PbEG L 96) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=26) en [36 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=36), [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=3), en [artikel 66, eerste lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=66);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 9 maart 2016, nr. W15.16.0021/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 11 april 2016, nr. WJZ / 16042206;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,27 +20,32 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **conformiteitsbeoordelingsprocedure:** module A, A2, B, C, C2, D, D1, E, E1, F, F1, G, H of H1 van bijlage II bij de richtlijn meetinstrumenten of module B, D, D1, F, F1, of G bij de richtlijn niet-automatische weegwerktuigen;
+- *conformiteitsbeoordelingsprocedure:* module A, A2, B, C, C2, D, D1, E, E1, F, F1, G, H of H1 van bijlage II bij de richtlijn meetinstrumenten of module B, D, D1, F, F1, of G bij de richtlijn niet-automatische weegwerktuigen;
 
-- **CE-markering:** markering, overeenkomstig het model van bijlage II bij verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218);
+- *CE-markering:* markering, overeenkomstig het model van bijlage II bij verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218);
 
-- **instrumentspecifieke bijlage:** bijlage III, IV, V, VI, VII, VIII, IX, X, XI of XII bij de richtlijn meetinstrumenten;
+- *instrumentspecifieke bijlage:* bijlage III, IV, V, VI, VII, VIII, IX, X, XI of XII bij de richtlijn meetinstrumenten;
 
-- **niet-automatisch weegwerktuig:** werktuig voor het bepalen van de massa van een lichaam met gebruikmaking van de werking van de zwaartekracht op dat lichaam, waarbij voor het wegen tussenkomst van een bedienaar noodzakelijk is, alsmede zodanige werktuigen die bovendien worden gebruikt voor het bepalen van met de massa verband houdende grootheden, hoeveelheden, parameters of kenmerken;
+- *niet-automatisch weegwerktuig:* werktuig voor het bepalen van de massa van een lichaam met gebruikmaking van de werking van de zwaartekracht op dat lichaam, waarbij voor het wegen tussenkomst van een bedienaar noodzakelijk is, alsmede zodanige werktuigen die bovendien worden gebruikt voor het bepalen van met de massa verband houdende grootheden, hoeveelheden, parameters of kenmerken;
 
-- **richtlijn inzake tapmaatflessen:** [richtlijn 75/107/EEG](31975L0107) van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgeving der Lid-Staten inzake flessen, gebruikt als tapmaten (PbEG L 42);
+- *richtlijn inzake tapmaatflessen:*
+ richtlijn 75/107/EEG van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgeving der Lid-Staten inzake flessen, gebruikt als tapmaten (PbEG L 42);
 
-- **richtlijn meetinstrumenten:** [richtlijn 2014/32](32014L0032)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (PbEU L 96);
+- *richtlijn meetinstrumenten:*
+ richtlijn 2014/32/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (PbEU L 96);
 
-- **richtlijn meetmiddelen en metrologische controlemethoden:** [richtlijn 2009/34/EG](32009L0034) van het Europees Parlement en de Raad van 23 april 2009 betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen (PbEU L 106);
+- *richtlijn meetmiddelen en metrologische controlemethoden:*
+ richtlijn 2009/34/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen (PbEU L 106);
 
-- **richtlijn niet-automatische weegwerktuigen:** [richtlijn 2014/31](32014L0031)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van niet-automatische weegwerktuigen (PbEU L 96);
+- *richtlijn niet-automatische weegwerktuigen:*
+ richtlijn 2014/31/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van niet-automatische weegwerktuigen (PbEU L 96);
 
-- **SOLAS-verdrag:** het op 1 november 1974 te Londen tot stand gekomen Internationaal Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlage;
+- *SOLAS-verdrag:* het op 1 november 1974 te Londen tot stand gekomen Internationaal Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlage;
 
-- **tapmaatfles:** een tapmaatfles als bedoeld in artikel 1 van de richtlijn inzake tapmaatflessen;
+- *tapmaatfles:* een tapmaatfles als bedoeld in artikel 1 van de richtlijn inzake tapmaatflessen;
 
-- **wet:** [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517).
+- *wet:*
+ [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517).
 
 ### Hoofdstuk 2. Meettaken ten behoeve van een specifieke toepassing
 
@@ -88,29 +61,33 @@ Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5
 
 - d. continu en dynamisch meten in volume of massa van stromende vloeistoffen met uitzondering van water, al dan niet onder herleiding van de onder meetomstandigheden gemeten hoeveelheid naar een hoeveelheid onder basisomstandigheden, binnen een gesloten leiding, ten behoeve van
 
-- 1°. het vaststellen van een hoeveelheid brandstof, al dan niet in de vorm van een vloeibaar gas, bij het tanken van motorvoertuigen, kleine schepen en kleine vliegtuigen;
+   - 1°. het vaststellen van een hoeveelheid brandstof, al dan niet in de vorm van een vloeibaar gas, bij het tanken van motorvoertuigen, kleine schepen en kleine vliegtuigen;
 
-- 2°. het vaststellen van een hoeveelheid cryogene vloeistoffen;
+   - 2°. het vaststellen van een hoeveelheid cryogene vloeistoffen;
 
-- 3°. het vaststellen van een hoeveelheid vloeistoffen bij het laden van schepen; of
+   - 3°. het vaststellen van een hoeveelheid vloeistoffen bij het laden van schepen; of
 
-- 4°. het in andere gevallen vaststellen van een hoeveelheid vloeistoffen;
+   - 4°. het in andere gevallen vaststellen van een hoeveelheid vloeistoffen;
 
 - e. bepalen van de massa van een lichaam op grond van de werking van de zwaartekracht op dat lichaam, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen, en in het bijzonder
 
-- 1°. het bepalen van de massa van vooraf samengevoegde afzonderlijke lasten of enkelvoudige lasten los materiaal, al dan niet met onderverdeling van artikelen met een verschillende massa of ter controle van voorverpakkingen;
+   - 1°. het bepalen van de massa van vooraf samengevoegde afzonderlijke lasten of enkelvoudige lasten los materiaal, al dan niet met onderverdeling van artikelen met een verschillende massa of ter controle van voorverpakkingen;
 
-- 2°. het bepalen van de massa bij het vullen van houders met een vooraf bepaalde en vrijwel constante hoeveelheid bulkgoed;
+   - 2°. het bepalen van de massa bij het vullen van houders met een vooraf bepaalde en vrijwel constante hoeveelheid bulkgoed;
 
-- 3°. het bepalen van de massa van bulkgoed door het in afzonderlijke lasten te verdelen, vervolgens de massa van de afzonderlijke last te bepalen en tenslotte de massa van de afzonderlijke lasten bij elkaar op te tellen;
+   - 3°. het bepalen van de massa van bulkgoed door het in afzonderlijke lasten te verdelen, vervolgens de massa van de afzonderlijke last te bepalen en tenslotte de massa van de afzonderlijke lasten bij elkaar op te tellen;
 
-- 4°. het ononderbroken bepalen van de massa van bulkgoed op een continue bewegende transportband;
+   - 4°. het ononderbroken bepalen van de massa van bulkgoed op een continue bewegende transportband;
 
-- 5°. het bepalen van de massa van treinen en spoorwegwagons;
+   - 5°. het bepalen van de massa van treinen en spoorwegwagons;
 
 - f. op basis van een door een afstandssignaalgenerator afgegeven signaal berekenen van afstand en het meten van tijdsduur in verband met het vaststellen van vergoedingen voor taxivervoer;
 
 - g. bepalen van de lengte van de randen van het kleinste omhullende rechthoekige parallellepipedum van een product.
+
+##### Artikel 2a
+
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) is het op grond van hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag ten behoeve van de openbare veiligheid bepalen van de massa van een beladen container op grond van de werking van de zwaartekracht op die container, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen, en in het bijzonder het bepalen van de massa van vooraf samengevoegde afzonderlijke lasten of enkelvoudige lasten los materiaal.
 
 ##### Artikel 3
 
@@ -141,6 +118,10 @@ Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5
 - c. bepalen van de massa van een bewegend motorvoertuig op grond van de werking van de zwaartekracht op dat motorvoertuig, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen;
 
 - d. discontinu meten van een hoeveelheid uit een mengsel van benzine en olie bestaande brandstof, ten behoeve van het tanken van voertuigen met een tweetaktmotor.
+
+##### Artikel 4a
+
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) is het op grond van hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag ten behoeve van de openbare veiligheid bepalen van de massa van een beladen container op grond van de werking van de zwaartekracht op een bewegend motorvoertuig, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen.
 
 ### Hoofdstuk 3. Meetinstrumenten
 
@@ -244,7 +225,7 @@ wordt geacht overeen te stemmen met de in bijlage I van de richtlijn meetinstrum
 
 ##### Artikel 13
 
-1. Een meetinstrument als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2017-05-18&g=2017-05-18) ondergaat naar keuze van de fabrikant een conformiteitsbeoordeling overeenkomstig de conformiteitsbeoordelingsprocedure B+D, B+E, B+F of conformiteitsbeoordelingsprocedure G van de richtlijn meetinstrumenten en de voorschriften die voor de toepassing van die conformiteitsbeoordelingsprocedures in de bijlage bij dit besluit zijn opgenomen.
+1. Een meetinstrument als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2017-05-18&g=2017-05-18) ondergaat naar keuze van de fabrikant een conformiteitsbeoordeling overeenkomstig de conformiteitsbeoordelingsprocedure B+D, B+E, B+F of conformiteitsbeoordelingsprocedure G van de richtlijn meetinstrumenten en de voorschriften die voor de toepassing van die conformiteitsbeoordelingsprocedures in de [bijlage](https://wetten.overheid.nl/BWBR0037835) bij dit besluit zijn opgenomen.
 
 2. De bescheiden en briefwisseling met betrekking tot de in het eerste lid bedoelde conformiteitsbeoordeling zijn gesteld in de Nederlandse taal of in een andere taal die door de bij de procedure betrokken aangewezen instantie is aanvaard.
 
@@ -264,7 +245,7 @@ Tapmaatflessen worden gecontroleerd op conformiteit met de eisen uit de richtlij
 
 1. De aangewezen instantie die toetsende werkzaamheden verricht in het kader van een conformiteitsbeoordeling als bedoeld in [artikel 12, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2017-05-18&g=2017-05-18), draagt daarbij zorg voor de uitvoering van haar met die toetsende werkzaamheden samenhangende verplichtingen die in de conformiteitsbeoordelingsprocedure zijn voorzien.
 
-2. De aangewezen instantie die de toetsende werkzaamheden verricht in het kader van een conformiteitsbeoordeling als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18), draagt daarbij zorg voor de uitvoering van de verplichtingen die in een conformiteitsbeoordelingsprocedure als bedoeld in artikel 13, eerste lid, en in de bijlage bij dit besluit opgenomen voorschriften aan haar zijn opgedragen.
+2. De aangewezen instantie die de toetsende werkzaamheden verricht in het kader van een conformiteitsbeoordeling als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18), draagt daarbij zorg voor de uitvoering van de verplichtingen die in een conformiteitsbeoordelingsprocedure als bedoeld in artikel 13, eerste lid, en in de [bijlage](https://wetten.overheid.nl/BWBR0037835) bij dit besluit opgenomen voorschriften aan haar zijn opgedragen.
 
 3. Voor zover een conformiteitsbeoordelingsprocedure voorziet in de verplichting tot het verstrekken van gegevens aan de lidstaat door wie de aangewezen instantie is aangewezen, dan wel aan andere lidstaten, geldt dat in Nederland de gegevens worden verstrekt aan Onze Minister.
 
@@ -328,7 +309,7 @@ De bevoegde nationale autoriteit in de artikelen 8, achtste en negende lid, 9, t
 
 ##### Artikel 25
 
-De fabrikant van een meetinstrument als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2017-05-18&g=2017-05-18) verricht de werkzaamheden en voldoet aan de verplichtingen die in verband met de conformiteitsbeoordeling volgens de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18) bedoelde conformiteitsbeoordelingsprocedure en de in de bijlage bij dit besluit opgenomen voorschriften aan hem zijn opgedragen.
+De fabrikant van een meetinstrument als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2017-05-18&g=2017-05-18) verricht de werkzaamheden en voldoet aan de verplichtingen die in verband met de conformiteitsbeoordeling volgens de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18) bedoelde conformiteitsbeoordelingsprocedure en de in de [bijlage](https://wetten.overheid.nl/BWBR0037835) bij dit besluit opgenomen voorschriften aan hem zijn opgedragen.
 
 ##### Artikel 26
 
@@ -384,15 +365,15 @@ De verklaring van toelating die voor de inwerkingtreding van dit besluit is afge
 
 ##### Artikel 35
 
-Wijzigt het Besluit personenvervoer 2000.
+*Wijzigt het Besluit personenvervoer 2000.*
 
 ##### Artikel 36
 
-Wijzigt het Meeteenhedenbesluit 2006.
+*Wijzigt het Meeteenhedenbesluit 2006.*
 
 ##### Artikel 37
 
-Wijzigt het Meetinstrumentenbesluit II.
+*Wijzigt het Meetinstrumentenbesluit II.*
 
 ##### Artikel 38
 
@@ -408,60 +389,10 @@ Dit besluit treedt in werking met ingang van 20 april 2016, met uitzondering van
 
 - a. de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2017-05-18&g=2017-05-18), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2017-05-18&g=2017-05-18), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2017-05-18&g=2017-05-18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2017-05-18&g=2017-05-18), [36, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=36&z=2017-05-18&g=2017-05-18), en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=37&z=2017-05-18&g=2017-05-18), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst;
 
-- b. de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2017-05-18&g=2017-05-18), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2017-05-18&g=2017-05-18), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.3&artikel=21&z=2017-05-18&g=2017-05-18), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=4&artikel=25&z=2017-05-18&g=2017-05-18) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=39&z=2017-05-18&g=2017-05-18) en de bijlage, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18), die inwerking treden op een bij koninklijk besluit te bepalen tijdstip;
+- b. de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2017-05-18&g=2017-05-18), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2017-05-18&g=2017-05-18), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.3&artikel=21&z=2017-05-18&g=2017-05-18), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=4&artikel=25&z=2017-05-18&g=2017-05-18) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=39&z=2017-05-18&g=2017-05-18) en de [bijlage,](https://wetten.overheid.nl/BWBR0037835) bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18), die inwerking treden op een bij koninklijk besluit te bepalen tijdstip;
 
 - c. [artikel 36, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=36&z=2017-05-18&g=2017-05-18), dat in werking treedt met ingang van het tijdstip waarop de [IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310) in werking treedt.
 
 ##### Artikel 41
 
 Dit besluit wordt aangehaald als: Besluit meetinstrumenten en marktdeelnemers.
-
-## Bijlage. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-01-01&g=2017-01-01) van het Besluit meetinstrumenten en marktdeelnemers
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Bij de toepassing van de conformiteitsbeoordelingsprocedures B, D, E, F en G uit bijlage I van de richtlijn meetinstrumenten gelden de volgende voorschriften.
-
-### I. Alle procedures
-
-### II. Module B
-
-### I. Alle procedures
-
-### II. Module B
-
-### III. Module D
-
-### IV. Module E
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) is het op grond van hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag ten behoeve van de openbare veiligheid bepalen van de massa van een beladen container op grond van de werking van de zwaartekracht op die container, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen, en in het bijzonder het bepalen van de massa van vooraf samengevoegde afzonderlijke lasten of enkelvoudige lasten los materiaal.
-
-##### Artikel 4a
-
-Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) is het op grond van hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag ten behoeve van de openbare veiligheid bepalen van de massa van een beladen container op grond van de werking van de zwaartekracht op een bewegend motorvoertuig, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen.
-
-### Hoofdstuk 3. Meetinstrumenten
-
-#### § 3.1. Eisen aan meetinstrumenten
-
-#### § 3.2. Conformiteitsbeoordeling
-
-#### § 3.3. Merktekens en opschriften
-
-### Hoofdstuk 4. Verplichtingen van de marktdeelnemers
-
-### Hoofdstuk 5. Overige en slotbepalingen
-
-## Bijlage. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2017-05-18&g=2017-05-18) van het Besluit meetinstrumenten en marktdeelnemers
-
-Bij de toepassing van de conformiteitsbeoordelingsprocedures B, D, E, F en G uit bijlage I van de richtlijn meetinstrumenten gelden de volgende voorschriften.
-
-### V. Module F
-
-### VI. Module G
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

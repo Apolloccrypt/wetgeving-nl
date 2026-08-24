@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 mei 2016, nr. IENM/BSK-2016/77865, houdende vaststelling van de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten"
+citeertitel: "Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten"
 identifier: "BWBR0037971"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-30"
-last_updated: "2019-07-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037971"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13555223"
-version_id: "23223652"
-internal_id: "C33531731"
-label_id: "13522114"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037971/2019-07-30/0"
-intitule_bron: "Stcrt.2016-25885"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-17"
-intitule_published: "2016-05-19"
-intitule_in_force: "2016-05-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-25885"
-original_signed_date: "2016-05-17"
-original_published_date: "2016-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-25885"
-entry_into_force_date: "2016-05-20"
-jci_1_3: "jci1.3:c:BWBR0037971&z=2019-07-30&g=2019-07-30"
-jci_1_0: "1.0:c:BWBR0037971&g=2019-07-30"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten"
-signed_date: "2016-05-17"
-entry_into_force: "2016-05-20"
+publicatiedatum: 2016-05-20
+laatste_update: 2019-07-30
+status: geldig
+toestand: 2019-07-30
+bron: "https://wetten.overheid.nl/BWBR0037971"
+opgehaald: 2026-08-24
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 mei 2016, nr. IENM/BSK-2016/77865, houdende vaststelling van de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten
-
-Gelet op [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [artikel 5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4) en [artikel 10, tweede lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **beheerder:** beheerder als bedoeld in [artikel 1, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1);
+- *beheerder:* beheerder als bedoeld in [artikel 1, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1);
 
-- **Betuweroute:** baanvak Maasvlakte – Kijfhoek – Elst – Zevenaar grens;
+- *Betuweroute:* baanvak Maasvlakte – Kijfhoek – Elst – Zevenaar grens;
 
-- **Minister:** Minister van Infrastructuur en Milieu;
+- *Minister:* Minister van Infrastructuur en Milieu;
 
-- **spoorwegonderneming:** spoorwegonderneming als bedoeld in [artikel 57, tweede lid, onderdeel a, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=57).
+- *spoorwegonderneming:* spoorwegonderneming als bedoeld in [artikel 57, tweede lid, onderdeel a, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=57).
 
 ##### Artikel 2. Doel
 
@@ -161,5 +135,3 @@ Vóór 1 januari 2020 stelt de Minister een verslag op over de doeltreffendheid 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

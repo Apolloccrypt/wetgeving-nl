@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Sociaal-Economische Raad van 20 mei 2016, houdende beleidsregels over de bepaling van de representativiteit van organisaties van ondernemers en van werknemers, ten behoeve van de advisering over de samenstelling van de Sociaal-Economische Raad (Besluit beleidsregels representativiteit)"
+citeertitel: "Besluit beleidsregels representativiteit"
 identifier: "BWBR0037997"
-country: "nl"
-rank: "pbo"
-publication_date: "2016-06-01"
-last_updated: "2016-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037997"
+categorie: "Arbeidsrecht"
 soort: "pbo"
-stam_id: "13600603"
-version_id: "23274562"
-internal_id: "C33586871"
-label_id: "13567464"
-dtd_version: "2.0"
-original_entry_into_force: "2016-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037997/2016-06-01/0"
-intitule_bron: "Stcrt.2016-27589"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-20"
-intitule_published: "2016-05-31"
-intitule_in_force: "2016-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-27589"
-original_signed_date: "2016-05-20"
-original_published_date: "2016-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-27589"
-entry_into_force_date: "2016-06-01"
-jci_1_3: "jci1.3:c:BWBR0037997&z=2016-06-01&g=2016-06-01"
-jci_1_0: "1.0:c:BWBR0037997&g=2016-06-01"
-citeertitel_status: "officieel"
-short_title: "Besluit beleidsregels representativiteit"
-signed_date: "2016-05-20"
-entry_into_force: "2016-06-01"
+publicatiedatum: 2016-06-01
+laatste_update: 2016-06-01
+status: geldig
+toestand: 2016-06-01
+bron: "https://wetten.overheid.nl/BWBR0037997"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Sociaal-Economische Raad van 20 mei 2016, houdende beleidsregels over de bepaling van de representativiteit van organisaties van ondernemers en van werknemers, ten behoeve van de advisering over de samenstelling van de Sociaal-Economische Raad (Besluit beleidsregels representativiteit)
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=4) en [41 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=41);
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -111,5 +83,3 @@ Dit besluit treedt in werking met ingang van de dag na de dag van bekendmaking i
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit beleidsregels representativiteit.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

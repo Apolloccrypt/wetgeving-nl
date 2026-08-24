@@ -1,59 +1,36 @@
 ---
 title: "Wet van 18 mei 2016 tot wijziging van wetten teneinde misslagen en omissies in wetten op het terrein van het ministerie van Volksgezondheid, Welzijn en Sport te herstellen, de broninhouding van eigen bijdragen voor beschermd wonen te kunnen voortzetten en het College bouw zorginstellingen op te heffen (Verzamelwet VWS 2016)"
+citeertitel: "Verzamelwet VWS 2016"
 identifier: "BWBR0038034"
-country: "nl"
-rank: "wet"
-publication_date: "2016-10-01"
-last_updated: "2016-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038034"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "13646953"
-version_id: "23362722"
-internal_id: "C33787631"
-label_id: "13614044"
-dtd_version: "2.0"
-original_entry_into_force: "2016-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038034/2016-10-01/0"
-intitule_bron: "Stb.2016-206"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-18"
-intitule_published: "2016-06-07"
-intitule_in_force: "2016-07-13"
-intitule_status: "goed"
-original_publication: "Stb.2016-206"
-original_signed_date: "2016-05-18"
-original_published_date: "2016-06-07"
-original_effect: "nieuwe-regeling"
-original_dossier: "34191"
-original_url_id: "stb-2016-206"
-entry_into_force_date: "2016-08-01"
-jci_1_3: "jci1.3:c:BWBR0038034&z=2016-10-01&g=2016-10-01"
-jci_1_0: "1.0:c:BWBR0038034&g=2016-10-01"
-citeertitel_status: "officieel"
-short_title: "Verzamelwet VWS 2016"
-signed_date: "2016-05-18"
-entry_into_force: "2016-08-01"
+publicatiedatum: 2016-08-01
+laatste_update: 2016-10-01
+status: geldig
+toestand: 2016-10-01
+bron: "https://wetten.overheid.nl/BWBR0038034"
+opgehaald: 2026-08-24
 ---
+
 # Wet van 18 mei 2016 tot wijziging van wetten teneinde misslagen en omissies in wetten op het terrein van het ministerie van Volksgezondheid, Welzijn en Sport te herstellen, de broninhouding van eigen bijdragen voor beschermd wonen te kunnen voortzetten en het College bouw zorginstellingen op te heffen (Verzamelwet VWS 2016)
 
 #### § 1. Wetten van het ministerie van Volksgezondheid, Welzijn en Sport
 
 ##### Artikel I
 
-Wijzigt de Geneesmiddelenwet.
+*Wijzigt de Geneesmiddelenwet.*
 
 ##### Artikel II
 
-Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
+*Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.*
 
 ##### Artikel III
 
-Wijzigt de Jeugdwet.
+*Wijzigt de Jeugdwet.*
 
 ##### Artikel IV
 
-Wijzigt de Kaderwet VWS-subsidies.
+*Wijzigt de Kaderwet VWS-subsidies.*
 
 ##### Artikel V
 
@@ -61,115 +38,115 @@ Wijzigt de Kaderwet VWS-subsidies.
 
 ##### Artikel VI
 
-Wijzigt de Opiumwet.
+*Wijzigt de Opiumwet.*
 
 ##### Artikel VII
 
-Wijzigt de Wet donorgegevens kunstmatige bevruchting.
+*Wijzigt de Wet donorgegevens kunstmatige bevruchting.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet inzake bloedvoorziening.
+*Wijzigt de Wet inzake bloedvoorziening.*
 
 ##### Artikel IX
 
-Wijzigt de Wet langdurige zorg.
+*Wijzigt de Wet langdurige zorg.*
 
 ##### Artikel X
 
-Wijzigt de Wet maatschappelijke ondersteuning 2015.
+*Wijzigt de Wet maatschappelijke ondersteuning 2015.*
 
 ##### Artikel XI
 
-Wijzigt de Wet marktordening gezondheidszorg.
+*Wijzigt de Wet marktordening gezondheidszorg.*
 
 ##### Artikel XII
 
-Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
+*Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
+*Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet op de medische hulpmiddelen.
+*Wijzigt de Wet op de medische hulpmiddelen.*
 
 ##### Artikel XV
 
-Wijzigt de Wet op de orgaandonatie.
+*Wijzigt de Wet op de orgaandonatie.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet toelating zorginstellingen.
+*Wijzigt de Wet toelating zorginstellingen.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet veiligheid en kwaliteit lichaamsmateriaal.
+*Wijzigt de Wet veiligheid en kwaliteit lichaamsmateriaal.*
 
 ##### Artikel XVIII
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel XIX
 
-Wijzigt de Veegwet VWS 2013.
+*Wijzigt de Veegwet VWS 2013.*
 
-#### § 2. **Wetten van andere ministeries**
+#### § 2. Wetten van andere ministeries
 
 ##### Artikel XX
 
-Wijzigt de Algemene nabestaandenwet.
+*Wijzigt de Algemene nabestaandenwet.*
 
 ##### Artikel XXI
 
-Wijzigt de Algemene Ouderdomswet.
+*Wijzigt de Algemene Ouderdomswet.*
 
 ##### Artikel XXII
 
-Wijzigt de Ambtenarenwet.
+*Wijzigt de Ambtenarenwet.*
 
 ##### Artikel XXIII
 
-Wijzigt het Burgerlijk Wetboek Boek 1 en Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 1 en Boek 7.*
 
 ##### Artikel XXIV
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wet Justitie-subsidies.
+*Wijzigt de Wet Justitie-subsidies.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet inkomensvoorziening oudere werklozen.
+*Wijzigt de Wet inkomensvoorziening oudere werklozen.*
 
 ##### Artikel XXX
 
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+*Wijzigt de Wet werk en inkomen naar arbeidsvermogen.*
 
 ##### Artikel XXXI
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel XXXII
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
-#### § 3. **Slot- en overgangsbepalingen**
+#### § 3. Slot- en overgangsbepalingen
 
 ##### Artikel XXXIII
 
@@ -187,25 +164,25 @@ De professionele standaard die voor het tijdstip van inwerkingtreding van deze w
 
 ##### Artikel XXXVI
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXXVII
 
-Wijzigt de Wijzigingswet Wet cliëntenrechten zorg, enz. (cliëntenrechten bij elektronische verwerking van gegevens)(KST 33509).
+*Wijzigt de Wijzigingswet Wet cliëntenrechten zorg, enz. (cliëntenrechten bij elektronische verwerking van gegevens)(KST 33509).*
 
 ##### Artikel XXXVIII
 
-Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
+*Wijzigt de Wet kwaliteit, klachten en geschillen zorg.*
 
 ##### Artikel XXXVIIIa
 
-Wijzigt de Warenwet.
+*Wijzigt de Warenwet.*
 
 ##### Artikel XXXVIIIb
 
-Wijzigt de Warenwet BES.
+*Wijzigt de Warenwet BES.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel XXXIX
 
@@ -218,17 +195,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXX
 
 Deze wet wordt aangehaald als: Verzamelwet VWS 2016.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wetten op het terrein van het ministerie van Volksgezondheid, Welzijn en Sport te wijzigen teneinde daarin misslagen te verbeteren en omissies weg te nemen, enige andere wetten technisch te wijzigen teneinde de broninhouding van eigen bijdragen voor beschermd wonen ingevolge de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) te kunnen voortzetten, zoals dat ook mogelijk was toen beschermd wonen nog onder de aanspraken ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) viel, de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) te wijzigen teneinde ook personen met een tijdelijke voorschrijfbevoegdheid onder de regels over geneesmiddelenreclame te brengen, de [Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642) te wijzigen teneinde een wettelijke grondslag op te nemen voor het gebruik van het burgerservicenummer en de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) te wijzigen teneinde het College bouw zorginstellingen, dat geen wettelijke taken meer heeft, op te heffen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-#### § 1. Wetten van het ministerie van Volksgezondheid, Welzijn en Sport
-
-#### § 2. **Wetten van andere ministeries**
-
-#### § 3. **Slot- en overgangsbepalingen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,72 +1,47 @@
 ---
 title: "Beleidsregels van de Staatssecretaris van Veiligheid en Justitie van 12 juli 2016, kenmerk 782071, betreffende de verlening van niet-incidentele kansspelvergunningen door de raad van bestuur van de kansspelautoriteit op grond van artikel 3 van de Wet op de kansspelen voor het organiseren van loterijen (Beleidsregels niet-incidentele artikel 3 loterijvergunningen)"
+citeertitel: "Beleidsregels niet-incidentele artikel 3 loterijvergunningen"
 identifier: "BWBR0038255"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038255"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "13692233"
-version_id: "23454312"
-internal_id: "C33791721"
-label_id: "13658774"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038255/2020-01-01/0"
-intitule_bron: "Stcrt.2016-37159"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-07-12"
-intitule_published: "2016-07-13"
-intitule_in_force: "2016-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-37159"
-original_signed_date: "2016-07-12"
-original_published_date: "2016-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-37159"
-entry_into_force_date: "2016-07-14"
-jci_1_3: "jci1.3:c:BWBR0038255&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0038255&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels niet-incidentele artikel 3 loterijvergunningen"
-signed_date: "2016-07-12"
-entry_into_force: "2016-07-14"
+publicatiedatum: 2016-07-14
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0038255"
+opgehaald: 2026-08-24
 ---
+
 # Beleidsregels van de Staatssecretaris van Veiligheid en Justitie van 12 juli 2016, kenmerk 782071, betreffende de verlening van niet-incidentele kansspelvergunningen door de raad van bestuur van de kansspelautoriteit op grond van artikel 3 van de Wet op de kansspelen voor het organiseren van loterijen (Beleidsregels niet-incidentele artikel 3 loterijvergunningen)
-
-Gelet op [artikel 21, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [artikel 3 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
-- –. **aanvrager:** aanvrager van een vergunning;
+- – *aanvrager:* aanvrager van een vergunning;
 
-- –. **afdracht:** afdracht als bedoeld in [artikel 2, onder b, van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2);
+- – *afdracht:* afdracht als bedoeld in [artikel 2, onder b, van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2);
 
-- –. **algemeen belang:** algemeen belang als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), niet-zijnde een particulier of een commercieel belang;
+- – *algemeen belang:* algemeen belang als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), niet-zijnde een particulier of een commercieel belang;
 
-- –. **ANBI-status:** omstandigheid dat een instelling is aangemerkt als algemeen nut beogende instelling als bedoeld in [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b);
+- – *ANBI-status:* omstandigheid dat een instelling is aangemerkt als algemeen nut beogende instelling als bedoeld in [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b);
 
-- –. **begunstigde:** begunstigde als bedoeld in [artikel 2, onder b, van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2);
+- – *begunstigde:* begunstigde als bedoeld in [artikel 2, onder b, van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2);
 
-- –. **incident:** situatie die het vertrouwen van de consument in vergunde kansspelen kan schaden;
+- – *incident:* situatie die het vertrouwen van de consument in vergunde kansspelen kan schaden;
 
-- –. **opbrengst:** opbrengst van de door de vergunninghouder verkochte deelnemingsbewijzen verminderd met het prijzengeld en de noodzakelijke kosten;
+- – *opbrengst:* opbrengst van de door de vergunninghouder verkochte deelnemingsbewijzen verminderd met het prijzengeld en de noodzakelijke kosten;
 
-- –. **prijzen en premies:** prijzen en premies als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), waaronder in ieder geval prijzen en premies in natura;
+- – *prijzen en premies:* prijzen en premies als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), waaronder in ieder geval prijzen en premies in natura;
 
-- –. **raad van bestuur:** de raad van bestuur, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- – *raad van bestuur:* de raad van bestuur, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- –. **vergunning:** vergunning als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), voor zover deze vergunning door de raad van bestuur wordt verleend en deze geen betrekking heeft op een incidenteel kansspel als bedoeld in artikel 3, vierde lid, van de wet;
+- – *vergunning:* vergunning als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), voor zover deze vergunning door de raad van bestuur wordt verleend en deze geen betrekking heeft op een incidenteel kansspel als bedoeld in artikel 3, vierde lid, van de wet;
 
-- –. **vergunninghouder:** houder van een vergunning;
+- – *vergunninghouder:* houder van een vergunning;
 
-- –. **wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
+- – *wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -100,7 +75,7 @@ De raad van bestuur verleent een vergunning voor de duur van maximaal vijf jaar.
 
 - b. de afdracht ten goede komt aan doelen van enig algemeen belang die door de vergunninghouder vooraf zijn geoormerkt.
 
-De raad van bestuur verbindt in dat geval als voorschrift aan de vergunning dat ieder vooraf geoormerkt goed doel van enig algemeen belang maximaal € 25.000,– ontvangt uit de afdracht met uitzondering van goede doelen met een ANBI-status.
+De raad van bestuur verbindt in dat geval als voorschrift aan de vergunning dat ieder vooraf geoormerkt goed doel van enig algemeen belang maximaal € 25.000,– ontvangt uit de afdracht met uitzondering van goede doelen met een ANBI-status.
 
 4. De raad van bestuur verbindt als voorschrift aan de vergunning dat de vergunninghouder de afdracht vrij van last uitkeert aan de begunstigden.
 
@@ -136,7 +111,7 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 1. De raad van bestuur verbindt als voorschrift aan de vergunning dat de vergunninghouder in ieder geval beschikt over een te allen tijde actuele, openbare en eenvoudig te raadplegen:
 
-- a. beleids- of activiteitenplan van de vergunninghouder of een gelijksoortig document met een beschrijving van de wijze waarop hij beoogt de doelstellingen, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038255&artikel=8&z=2020-01-01&g=2020-01-01), te verwezenlijken;
+- a. beleids- of activiteitenplan van de vergunninghouder of een gelijksoortig document met een beschrijving van de wijze waarop hij beoogt de doelstellingen, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038255&artikel=8&z=2020-01-01&g=2020-01-01), te verwezenlijken;
 
 - b. beschrijving van de wijze waarop wordt bepaald welke organisaties worden aangemerkt als begunstigden;
 
@@ -190,9 +165,9 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 - b. de mate waarin de vergunninghouder heeft voldaan aan zijn financiële verplichtingen uit:
 
-- 1°. bestuurlijke sancties wegens overtredingen van bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) gestelde voorschriften;
+   - 1°. bestuurlijke sancties wegens overtredingen van bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) gestelde voorschriften;
 
-- 2°. de [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359);
+   - 2°. de [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359);
 
 voor zover de raad van bestuur hieromtrent over informatie beschikt.
 
@@ -245,5 +220,3 @@ Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgi
 ##### Artikel 19. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels niet-incidentele artikel 3 loterijvergunningen.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

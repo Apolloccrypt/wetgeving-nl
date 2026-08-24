@@ -1,56 +1,28 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 19 mei 2016, kenmerk 967200-150306-MC, houdende verlening van mandaat en machtiging aan Zorginstituut Nederland (Besluit mandaat en machtiging Zorginstituut Nederland subsidieverstrekking transparantie kwaliteit van zorg)"
+citeertitel: "Besluit mandaat en machtiging Zorginstituut Nederland subsidieverstrekking transparantie kwaliteit van zorg"
 identifier: "BWBR0037989"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-05-31"
-last_updated: "2016-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037989"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13559063"
-version_id: "23316202"
-internal_id: "C33630031"
-label_id: "13525894"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037989/2016-05-31/0"
-intitule_bron: "Stcrt.2016-27102"
-intitule_effect: "wijziging"
-intitule_signed: "2016-05-19"
-intitule_published: "2016-05-30"
-intitule_in_force: "2016-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-27102"
-original_signed_date: "2016-05-19"
-original_published_date: "2016-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-27102"
-entry_into_force_date: "2016-05-31"
-jci_1_3: "jci1.3:c:BWBR0037989&z=2016-05-31&g=2016-05-31"
-jci_1_0: "1.0:c:BWBR0037989&g=2016-05-31"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging Zorginstituut Nederland subsidieverstrekking transparantie kwaliteit van zorg"
-signed_date: "2016-05-19"
-entry_into_force: "2016-05-31"
+publicatiedatum: 2016-05-31
+laatste_update: 2016-05-31
+status: geldig
+toestand: 2016-05-31
+bron: "https://wetten.overheid.nl/BWBR0037989"
+opgehaald: 2026-08-24
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 19 mei 2016, kenmerk 967200-150306-MC, houdende verlening van mandaat en machtiging aan Zorginstituut Nederland (Besluit mandaat en machtiging Zorginstituut Nederland subsidieverstrekking transparantie kwaliteit van zorg)
-
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Gelezen de instemming van de voorzitter van het Zorginstituut Nederland van 18 april 2016;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **Zorginstituut:** Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- b. *Zorginstituut:* Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- c. **Voorzitter:** voorzitter van het Zorginstituut.
+- c. *Voorzitter:* voorzitter van het Zorginstituut.
 
 ##### Artikel 2
 
@@ -101,5 +73,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van plaatsing in
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Zorginstituut Nederland subsidieverstrekking transparantie kwaliteit van zorg.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2017–2020"
 identifier: "BWBR0037908"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-05-07"
-last_updated: "2016-05-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037908"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "13493953"
-version_id: "23513662"
-internal_id: "C33857271"
-label_id: "13461134"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037908/2016-05-07/0"
-intitule_bron: "Stcrt.2016-22890"
-intitule_effect: "wijziging"
-intitule_published: "2016-05-06"
-intitule_in_force: "2016-05-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-22890"
-original_published_date: "2016-05-06"
-original_effect: "wijziging"
-original_url_id: "stcrt-2016-22890"
-entry_into_force_date: "2016-05-07"
-jci_1_3: "jci1.3:c:BWBR0037908&z=2016-05-07&g=2016-05-07"
-jci_1_0: "1.0:c:BWBR0037908&g=2016-05-07"
-citeertitel_status: "officieel"
-entry_into_force: "2016-05-07"
+publicatiedatum: 2016-05-07
+laatste_update: 2016-05-07
+status: geldig
+toestand: 2016-05-07
+bron: "https://wetten.overheid.nl/BWBR0037908"
+opgehaald: 2026-08-24
 ---
+
 # Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2017–2020
-
-Gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -42,27 +19,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **adhesieverklaring:** schriftelijke steunbetuiging van een gemeente of provincie aan het inhoudelijke plan dat past binnen het programma Cultuureducatie met Kwaliteit;
+- *adhesieverklaring:* schriftelijke steunbetuiging van een gemeente of provincie aan het inhoudelijke plan dat past binnen het programma Cultuureducatie met Kwaliteit;
 
-- **beleidsprogramma Cultuureducatie met Kwaliteit in het primair onderwijs:** programma geïnitieerd door de minister van Onderwijs, Cultuur en Wetenschap bedoeld om de kwaliteit van cultuureducatie in het primair onderwijs door middel van een landelijk samenhangende aanpak te borgen;
+- *beleidsprogramma Cultuureducatie met Kwaliteit in het primair onderwijs:* programma geïnitieerd door de minister van Onderwijs, Cultuur en Wetenschap bedoeld om de kwaliteit van cultuureducatie in het primair onderwijs door middel van een landelijk samenhangende aanpak te borgen;
 
-- **bestuur:** het bestuur van de stichting Fonds voor Cultuurparticipatie;
+- *bestuur:* het bestuur van de stichting Fonds voor Cultuurparticipatie;
 
-- **coördinerende werkzaamheden:** organisatorische werkzaamheden ten behoeve van de samenwerking tussen deelnemende partners en activiteiten;
+- *coördinerende werkzaamheden:* organisatorische werkzaamheden ten behoeve van de samenwerking tussen deelnemende partners en activiteiten;
 
-- **cultuureducatie:** het onderwijs gericht op het bereiken van de kerndoelen binnen het leergebied Kunstzinnige oriëntatie;
+- *cultuureducatie:* het onderwijs gericht op het bereiken van de kerndoelen binnen het leergebied Kunstzinnige oriëntatie;
 
-- **doorgaande leerlijn:** Een leerlijn is een beredeneerde opbouw van tussendoelen en inhouden naar een einddoel. Afhankelijk van de precieze functie, gebruikscontext en doelgroep variëren leerlijnen in de mate waarin implicaties voor verschillende leerplanelementen zijn uitgewerkt. Leerlijnen worden ontwikkeld om meer samenhang en continuïteit door leerjaren heen te geven;
+- *doorgaande leerlijn:* Een leerlijn is een beredeneerde opbouw van tussendoelen en inhouden naar een einddoel. Afhankelijk van de precieze functie, gebruikscontext en doelgroep variëren leerlijnen in de mate waarin implicaties voor verschillende leerplanelementen zijn uitgewerkt. Leerlijnen worden ontwikkeld om meer samenhang en continuïteit door leerjaren heen te geven;
 
-- **fonds:** de stichting Fonds voor Cultuurparticipatie;
+- *fonds:* de stichting Fonds voor Cultuurparticipatie;
 
-- **gemeenten:** de gemeenten zoals opgenomen in bijlage 1 bij deze regeling;
+- *gemeenten:* de gemeenten zoals opgenomen in bijlage 1 bij deze regeling;
 
-- **intentieverklaring:** schriftelijke verklaring waarin een gemeente of provincie haar financiële bijdrage vastlegt;
+- *intentieverklaring:* schriftelijke verklaring waarin een gemeente of provincie haar financiële bijdrage vastlegt;
 
-- **kerndoelen binnen het leergebied kunstzinnige oriëntatie:** zoals vastgesteld in het [Besluit vernieuwde kerndoelen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0018844);
+- *kerndoelen binnen het leergebied kunstzinnige oriëntatie:* zoals vastgesteld in het [Besluit vernieuwde kerndoelen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0018844);
 
-- **penvoerder:** een culturele instelling die voor zichzelf, en in samenwerking met een aantal andere culturele instellingen, een plan indient. De penvoerder is in die hoedanigheid degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat en is daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.
+- *penvoerder:* een culturele instelling die voor zichzelf, en in samenwerking met een aantal andere culturele instellingen, een plan indient. De penvoerder is in die hoedanigheid degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat en is daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -94,7 +71,7 @@ Subsidie wordt verstrekt voor een periode van vier jaar.
 
 2. De subsidie van het fonds bedraagt nooit meer dan 100% van de bijdrage afkomstig van provincie of gemeente.
 
-3. Het door provincie of gemeente gematchte bedrag mag niet afkomstig zijn uit de onderwijsmiddelen die scholen van het rijk ontvangen. Evenmin kunnen de middelen die verbonden zijn aan de **Impuls brede scholen, sport en cultuur** als matching worden opgevoerd.
+3. Het door provincie of gemeente gematchte bedrag mag niet afkomstig zijn uit de onderwijsmiddelen die scholen van het rijk ontvangen. Evenmin kunnen de middelen die verbonden zijn aan de *Impuls brede scholen, sport en cultuur* als matching worden opgevoerd.
 
 4. Het door provincie of gemeente gematchte bedrag mag mede worden gefinancierd door andere partners.
 
@@ -242,7 +219,7 @@ Databestanden met onderzoeksgegevens, cq. het goedgekeurde eindrapport, die zich
 
 1. De penvoerder is verplicht de ICT voorzieningen die worden ontwikkeld in het kader van de gesubsidieerde activiteiten te bouwen volgens de open standaarden.
 
-2. Indien de subsidieontvanger bij het verrichten van de gesubsidieerde activiteiten intellectuele eigendomsrechten vestigt is de subsidieverlener verplicht het materiaal volgens de principes van een **creative commonslicenties** ‘Naamsvermelding 4.0 Internationaal’ beschikbaar te stellen.
+2. Indien de subsidieontvanger bij het verrichten van de gesubsidieerde activiteiten intellectuele eigendomsrechten vestigt is de subsidieverlener verplicht het materiaal volgens de principes van een *creative commonslicenties* ‘Naamsvermelding 4.0 Internationaal’ beschikbaar te stellen.
 
 #### Paragraaf 5. Overige bepalingen
 
@@ -261,74 +238,3 @@ Databestanden met onderzoeksgegevens, cq. het goedgekeurde eindrapport, die zich
 ##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2017–2020.
-
-## Bijlage 1a. Deelnemende gemeenten en provincies, bedragen in euro’s per jaar
-
-|   | **Matchingsbedrag1** |
-| --- | --- |
-| Noord-Brabant | € 900.749 |
-| Breda | € 100.1812 |
-| Eindhoven | € 177.587 |
-| Helmond | € 49.560 |
-| 's-Hertogenbosch | € 83.390 |
-| Tilburg | € 117.120 |
-| Drenthe | € 209.578 |
-| Emmen | € 59.191 |
-| Flevoland | € 113.267 |
-| Almere | € 150.000 |
-| Friesland | € 295.958 |
-| Leeuwarden | € 59.346 |
-| Gelderland | € 790.921 |
-| Apeldoorn | € 87.473 |
-| Arnhem | € 121.553 |
-| Ede | € 61.837 |
-| Nijmegen | € 94.635 |
-| Groningen | € 210.524 |
-| Groningen (gemeente) | € 158.788 |
-| Limburg | € 391.880 |
-| Heerlen | € 48.099 |
-| Maastricht | € 96.805 |
-| Sittard-Geleen | € 51.455 |
-| Venlo | € 55.205 |
-| Noord-Holland | € 763.8023 |
-| Alkmaar | € 59.193 |
-| Amsterdam | € 658.954 |
-| Haarlem | € 86.954 |
-| Haarlemmermeer | € 79.496 |
-| Zaanstad | € 83.807 |
-| Overijssel | € 374.593 |
-| Deventer | € 54.385 |
-| Enschede | € 125.081 |
-| Hengelo (O.) | € 44.591 |
-| Zwolle | € 68.703 |
-| Utrecht | € 429.637 |
-| Amersfoort | € 84.488 |
-| Utrecht (gemeente) | € 267.770 |
-| Zuid-Holland | € 1.045.8064 |
-| Delft | € 55.569 |
-| Dordrecht | € 65.3225 |
-| Leiden en Holland Rijnland | € 67.4116 |
-| Alphen aan den Rijn en Nieuwkoop | € 74.4707 |
-| Rotterdam | € 496.972 |
-| ‘s-Gravenhage | € 410.335 |
-| Westland | € 57.728 |
-| Zoetermeer | € 68.2838 |
-| Zeeland | € 209.699 |
-|   |   |
-| **Totaal** | **€ 10.218.147** |
-
-1 Bedragen zoals vastgelegd in intentieverklaringen tussen overheden.
-
-2 Onder voorbehoud van tekening van de intentieverklaring door de gemeente
-
-3 Provincie matcht € 250.000,–. Overige financiering en matching door het Rijk afhankelijk van deelname aan het provinciale traject door kleinere gemeenten in Noord-Holland
-
-4 Provincie matcht € 180.000,–. Overige financiering en matching door het Rijk afhankelijk van keuze door deelname aan het provinciale traject of een van de trajecten van een > 90.000 gemeente door kleinere gemeenten in Zuid-Holland
-
-5 Onder voorbehoud van tekening van de intentieverklaring door de gemeente
-
-6 Onder voorbehoud van tekening van de intentieverklaring door de gemeente
-
-7 Onder voorbehoud van tekening van de intentieverklaring door de gemeente
-
-8 Onder voorbehoud van tekening van de intentieverklaring door de gemeente

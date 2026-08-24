@@ -1,111 +1,81 @@
 ---
 title: "Klachtenregeling Defensie"
 identifier: "BWBR0038198"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038198"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13678403"
-version_id: "23430022"
-internal_id: "C33755971"
-label_id: "13644984"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038198/2018-10-01/0"
-intitule_bron: "Stcrt.2016-34928"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-27"
-intitule_published: "2016-07-06"
-intitule_in_force: "2016-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-34928"
-original_signed_date: "2016-06-27"
-original_published_date: "2016-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-34928"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0038198&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0038198&g=2018-10-01"
-citeertitel_status: "officieel"
-signed_date: "2016-06-27"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0038198"
+opgehaald: 2026-08-24
 ---
+
 # Klachtenregeling Defensie
-
-Gelet op:
-
-[Hoofdstuk 2, artikel 3 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3)
-
-[Hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) (Awb)
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **klager:** persoon die een klacht indient;
+- a. *klager:* persoon die een klacht indient;
 
-- b. **functionaris:** persoon die ten tijde van de gedraging, waarover wordt geklaagd, werkzaam was onder verantwoordelijkheid van de Minister;
+- b. *functionaris:* persoon die ten tijde van de gedraging, waarover wordt geklaagd, werkzaam was onder verantwoordelijkheid van de Minister;
 
-- c. **aangeklaagde:** functionaris tegen wie de klacht is gericht;
+- c. *aangeklaagde:* functionaris tegen wie de klacht is gericht;
 
-- d. **klacht:** uiting van ongenoegen over de wijze waarop een bestuursorgaan dan wel een persoon die werkzaam is onder verantwoordelijkheid van een bestuursorgaan zich heeft gedragen;
+- d. *klacht:* uiting van ongenoegen over de wijze waarop een bestuursorgaan dan wel een persoon die werkzaam is onder verantwoordelijkheid van een bestuursorgaan zich heeft gedragen;
 
-- e. **klacht inzake ongewenst gedrag:** klacht van een functionaris over zelf ondervonden ongewenst gedrag van een andere functionaris dat verband houdt met het verrichten van arbeid en dat ziet op (seksuele) intimidatie, agressie, stalking, pesten, treiteren, discriminatie en/of kwaadspreken;
+- e. *klacht inzake ongewenst gedrag:* klacht van een functionaris over zelf ondervonden ongewenst gedrag van een andere functionaris dat verband houdt met het verrichten van arbeid en dat ziet op (seksuele) intimidatie, agressie, stalking, pesten, treiteren, discriminatie en/of kwaadspreken;
 
-- f. **intimidatie:** verbaal, non-verbaal of fysiek gedrag waarbij:
+- f. *intimidatie:* verbaal, non-verbaal of fysiek gedrag waarbij:
 
-- –. onderwerping aan dit gedrag (expliciet of impliciet) gehanteerd wordt als voorwaarde of als basis voor beslissingen over de functionaris of;
+   - – onderwerping aan dit gedrag (expliciet of impliciet) gehanteerd wordt als voorwaarde of als basis voor beslissingen over de functionaris of;
 
-- –. onderwerping aan dit gedrag het werk, de prestatie of de positie van de functionaris redelijkerwijs aantast of heeft aangetast of;
+   - – onderwerping aan dit gedrag het werk, de prestatie of de positie van de functionaris redelijkerwijs aantast of heeft aangetast of;
 
-- –. dit gedrag de werkomgeving bedreigend, vijandig of onaangenaam maakt;
+   - – dit gedrag de werkomgeving bedreigend, vijandig of onaangenaam maakt;
 
-- g. **seksuele intimidatie:** verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van een persoon wordt aangetast, in het bijzonder wanneer een bedreigende, vijandige, beledigende, vernederende of kwetsende situatie wordt gecreëerd;
+- g. *seksuele intimidatie:* verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van een persoon wordt aangetast, in het bijzonder wanneer een bedreigende, vijandige, beledigende, vernederende of kwetsende situatie wordt gecreëerd;
 
-- h. **agressie:** psychisch of fysiek lastigvallen, bedreigen of aanvallen;
+- h. *agressie:* psychisch of fysiek lastigvallen, bedreigen of aanvallen;
 
-- i. **stalking:** het, al dan niet door middel van communicatiemiddelen, bij voortduring bespieden, besluipen, achtervolgen of lastigvallen;
+- i. *stalking:* het, al dan niet door middel van communicatiemiddelen, bij voortduring bespieden, besluipen, achtervolgen of lastigvallen;
 
-- j. **discriminatie:** het ongeoorloofd onderscheid maken op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, seksuele geaardheid of leeftijd;
+- j. *discriminatie:* het ongeoorloofd onderscheid maken op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, seksuele geaardheid of leeftijd;
 
-- k. **pesten en/of treiteren:** alle vormen van kwetsend gedrag met een structureel karakter, van een of meerdere functionarissen gericht tegen een (groep van) functionaris(sen) die zich niet kan verdedigen tegen dit gedrag;
+- k. *pesten en/of treiteren:* alle vormen van kwetsend gedrag met een structureel karakter, van een of meerdere functionarissen gericht tegen een (groep van) functionaris(sen) die zich niet kan verdedigen tegen dit gedrag;
 
-- l. **kwaadspreken:** in een kwaad daglicht stellen, waarbij het gestelde (gedeeltelijk) waar of onwaar kan zijn;
+- l. *kwaadspreken:* in een kwaad daglicht stellen, waarbij het gestelde (gedeeltelijk) waar of onwaar kan zijn;
 
-- m. **Systeem Melding Voorval (MVV):** PeopleSoft applicatie voor het melden van voorvallen;
+- m. *Systeem Melding Voorval (MVV):* PeopleSoft applicatie voor het melden van voorvallen;
 
-- n. **Minister:** Minister van Defensie;
+- n. *Minister:* Minister van Defensie;
 
-- o. **Secretaris-Generaal (SG):** Secretaris-Generaal van Defensie;
+- o. *Secretaris-Generaal (SG):* Secretaris-Generaal van Defensie;
 
-- p. **dienstonderdeel:** onderdeel van het ministerie van Defensie als bedoeld in het [Algemeen mandaat, volmacht en machtigingsbesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034155);
+- p. *dienstonderdeel:* onderdeel van het ministerie van Defensie als bedoeld in het [Algemeen mandaat, volmacht en machtigingsbesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034155);
 
-- q. **hoofd defensieonderdeel:** degene die belast is met de leiding van een dienstonderdeel conform het [Algemeen mandaat, volmacht en machtigingsbesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034155);
+- q. *hoofd defensieonderdeel:* degene die belast is met de leiding van een dienstonderdeel conform het [Algemeen mandaat, volmacht en machtigingsbesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034155);
 
-- r. **commandant:** commandant als bedoeld in artikel 2 van de Regeling aanwijzing commandanten defensie;
+- r. *commandant:* commandant als bedoeld in artikel 2 van de Regeling aanwijzing commandanten defensie;
 
-- s. **Vertrouwenspersoon (VP):** hiertoe aangewezen functionaris die fungeert als eerste aanspreek- en opvangpunt voor functionarissen die menen met ongewenst gedrag te zijn geconfronteerd;
+- s. *Vertrouwenspersoon (VP):* hiertoe aangewezen functionaris die fungeert als eerste aanspreek- en opvangpunt voor functionarissen die menen met ongewenst gedrag te zijn geconfronteerd;
 
-- t. **Coördinator Vertrouwenspersoon (CVP):** door het hoofd defensieonderdeel aangestelde functionaris tot wie functionarissen die menen met ongewenst gedrag te zijn geconfronteerd zich kunnen wenden voor advies en ondersteuning en die belast is met de (bege)leiding en ondersteuning van vertrouwenspersonen van dat onderdeel;
+- t. *Coördinator Vertrouwenspersoon (CVP):* door het hoofd defensieonderdeel aangestelde functionaris tot wie functionarissen die menen met ongewenst gedrag te zijn geconfronteerd zich kunnen wenden voor advies en ondersteuning en die belast is met de (bege)leiding en ondersteuning van vertrouwenspersonen van dat onderdeel;
 
-- u. **Centrale Adviseur Integriteit Defensie (CAID):** functionaris van de Centrale Organisatie Integriteit Defensie (COID) die de klachtbehandelaar adviseert over sociale integriteit;
+- u. *Centrale Adviseur Integriteit Defensie (CAID):* functionaris van de Centrale Organisatie Integriteit Defensie (COID) die de klachtbehandelaar adviseert over sociale integriteit;
 
-- v. **Centraal Klachtencoördinatiepunt (CKP):** door de Minister ingericht centraal punt, voorzien van een postbus, waar eveneens, als alternatieve mogelijkheid, schriftelijke klachten kunnen worden ingediend indien geen gebruik kan worden gemaakt van een bij voorkeur rechtstreekse indiening bij de klachtbehandelaar of DKP;
+- v. *Centraal Klachtencoördinatiepunt (CKP):* door de Minister ingericht centraal punt, voorzien van een postbus, waar eveneens, als alternatieve mogelijkheid, schriftelijke klachten kunnen worden ingediend indien geen gebruik kan worden gemaakt van een bij voorkeur rechtstreekse indiening bij de klachtbehandelaar of DKP;
 
-- w. **Decentraal Klachtencoördinatiepunt (DKP):** binnen elk defensieonderdeel ingerichte instantie, belast met de coördinatie en registratie van schriftelijke klachten voorzien van een e-mailadres en postbus voor de ontvangst van schriftelijke klachten die niet rechtstreeks kunnen worden ingediend bij de klachtbehandelaar;
+- w. *Decentraal Klachtencoördinatiepunt (DKP):* binnen elk defensieonderdeel ingerichte instantie, belast met de coördinatie en registratie van schriftelijke klachten voorzien van een e-mailadres en postbus voor de ontvangst van schriftelijke klachten die niet rechtstreeks kunnen worden ingediend bij de klachtbehandelaar;
 
-- x. **Klachtencoördinator (KC):** door het hoofd defensieonderdeel aangewezen ambtenaar, belast met het functioneren van het DKP;
+- x. *Klachtencoördinator (KC):* door het hoofd defensieonderdeel aangewezen ambtenaar, belast met het functioneren van het DKP;
 
-- y. **klachtbehandelaar:** degene die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=7&z=2018-10-01&g=2018-10-01) van deze regeling is aangewezen als behandelaar van de klacht;
+- y. *klachtbehandelaar:* degene die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=7&z=2018-10-01&g=2018-10-01) van deze regeling is aangewezen als behandelaar van de klacht;
 
-- z. **klachtadviesinstantie:** functionaris of een commissie die door de klachtbehandelaar is aangewezen de klacht te onderzoeken en hem daarover te adviseren;
+- z. *klachtadviesinstantie:* functionaris of een commissie die door de klachtbehandelaar is aangewezen de klacht te onderzoeken en hem daarover te adviseren;
 
-- aa. **Commissie Ongewenst Gedrag:** door de Minister ingestelde klachtadviesinstantie, die klachten inzake ongewenst gedrag behandelt en daarover adviseert.
+- aa. *Commissie Ongewenst Gedrag:* door de Minister ingestelde klachtadviesinstantie, die klachten inzake ongewenst gedrag behandelt en daarover adviseert.
 
 ##### Artikel 2. Doel en reikwijdte
 
@@ -193,13 +163,13 @@ In deze regeling wordt verstaan onder:
 
 Schriftelijke klachten worden behandeld en afgedaan:
 
-- –. indien het klachten over de SG betreft, door de Minister;
+- – indien het klachten over de SG betreft, door de Minister;
 
-- –. indien het klachten over een hoofd defensieonderdeel betreft, door of namens de SG;
+- – indien het klachten over een hoofd defensieonderdeel betreft, door of namens de SG;
 
-- –. indien het klachten over andere dan de hiervoor genoemde functionarissen betreft, door of namens de commandant van aangeklaagde;
+- – indien het klachten over andere dan de hiervoor genoemde functionarissen betreft, door of namens de commandant van aangeklaagde;
 
-- –. indien het klachten betreft welke zich niet richten tegen gedragingen van een specifiek persoon, door of namens het hoofd defensieonderdeel onder wiens verantwoordelijkheid de gedraging jegens klager valt.
+- – indien het klachten betreft welke zich niet richten tegen gedragingen van een specifiek persoon, door of namens het hoofd defensieonderdeel onder wiens verantwoordelijkheid de gedraging jegens klager valt.
 
 ##### Artikel 8. Coördinator vertrouwenspersoon (CVP) / vertrouwenspersoon (VP)
 
@@ -279,21 +249,21 @@ In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&ar
 
 - 3. Van een klachtadviesinstantie kunnen geen deel uitmaken:
 
-- a. de klachtbehandelaar;
+   - a. de klachtbehandelaar;
 
-- b. de KC;
+   - b. de KC;
 
-- c. de CVP en VP;
+   - c. de CVP en VP;
 
-- d. adviseurs van de COID;
+   - d. adviseurs van de COID;
 
-- e. de Inspecteur Generaal der Krijgsmacht, alsmede functionarissen uit diens staf;
+   - e. de Inspecteur Generaal der Krijgsmacht, alsmede functionarissen uit diens staf;
 
-- f. functionarissen belast met opsporing van strafbare feiten;
+   - f. functionarissen belast met opsporing van strafbare feiten;
 
-- g. functionarissen die vanuit hun rol of functie betrokken zullen zijn bij of aanwijzingen kunnen geven over te nemen maatregelen na afdoening van de specifieke klacht;
+   - g. functionarissen die vanuit hun rol of functie betrokken zullen zijn bij of aanwijzingen kunnen geven over te nemen maatregelen na afdoening van de specifieke klacht;
 
-- h. personen van wie het lidmaatschap van de klachtadviesinstantie zou kunnen leiden tot schade aan de onpartijdigheid of de schijn kunnen opwekken van partijdigheid.
+   - h. personen van wie het lidmaatschap van de klachtadviesinstantie zou kunnen leiden tot schade aan de onpartijdigheid of de schijn kunnen opwekken van partijdigheid.
 
 - 4. De klachtbehandelaar stelt de klachtadviesinstantie in staat de werkzaamheden te verrichten en verschaft daarvoor de nodige faciliteiten.
 
@@ -398,5 +368,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2016
 ##### Artikel 23. Citeertitel
 
 Deze regeling wordt aangehaald als ‘Klachtenregeling Defensie’.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en tevens worden opgenomen in de serie Ministeriële Publicaties.
