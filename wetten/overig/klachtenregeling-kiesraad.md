@@ -1,43 +1,17 @@
 ---
 title: "Klachtenregeling Kiesraad"
 identifier: "BWBR0039436"
-country: "nl"
-rank: "zbo"
-publication_date: "2008-04-27"
-last_updated: "2008-04-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039436"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13974463"
-version_id: "24042672"
-internal_id: "C34547951"
-label_id: "13937614"
-dtd_version: "2.0"
-original_entry_into_force: "2008-04-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039436/2008-04-27/0"
-intitule_bron: "Stcrt.2008-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-20"
-intitule_published: "2008-04-25"
-intitule_in_force: "2008-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-81"
-original_signed_date: "2008-02-20"
-original_published_date: "2008-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-81-p12-SC85559"
-entry_into_force_date: "2008-04-27"
-jci_1_3: "jci1.3:c:BWBR0039436&z=2008-04-27&g=2008-04-27"
-jci_1_0: "1.0:c:BWBR0039436&g=2008-04-27"
-citeertitel_status: "officieel"
-signed_date: "2008-02-20"
-entry_into_force: "2008-04-27"
+publicatiedatum: 2008-04-27
+laatste_update: 2008-04-27
+status: geldig
+toestand: 2008-04-27
+bron: "https://wetten.overheid.nl/BWBR0039436"
+opgehaald: 2026-08-25
 ---
+
 # Klachtenregeling Kiesraad
-
-Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -184,5 +158,3 @@ De Kiesraad draagt zorg voor registratie van de bij hem ingediende schriftelijke
 2. Zij wordt gepubliceerd in de Staatscourant en is tevens te raadplegen op www.kiesraad.nl.
 
 3. De regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.
-
-Aldus vastgesteld te ‘s-Gravenhage op 20 februari 2008.

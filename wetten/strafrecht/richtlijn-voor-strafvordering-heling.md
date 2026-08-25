@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering heling"
 identifier: "BWBR0039026"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039026"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "13856353"
-version_id: "23792502"
-internal_id: "C34233001"
-label_id: "13821544"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039026/2017-01-01/0"
-intitule_bron: "Stcrt.2016-67382"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-29"
-intitule_in_force: "2016-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-67382"
-original_published_date: "2016-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-67382"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0039026&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0039026&g=2017-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0039026"
+opgehaald: 2026-08-25
 ---
+
 # Richtlijn voor strafvordering heling
 
 ### Beschrijving
@@ -40,7 +21,25 @@ Deze richtlijn is van toepassing op schuldheling en opzetheling.
 
 Heling, alleen gepleegd.
 
+|  | first offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- |
+| (beoogde) waarde t/m € 50 ‘schuld’ | GB € 150 | 5j 2j | GB € 225 Idem of TS 16 uur | GS 12 dgn ov |
+| Opzet | GB € 200 | 5j 2j | GB € 300 Idem of TS 24 uur | GS 16 dgn ov |
+| Vanaf 50 t/m 200 ‘schuld’ | GB € 225 | 5j 2j | GB € 325 Idem of TS 24 uur | GS 3 wkn ov |
+| Opzet | GB € 350 | 5j 2j | GB € 500 Idem of TS 40 uur | GS 4 wkn ov |
+| Vanaf 200 t/m 600 ‘schuld’ | GB € 425 | 5j 2j | GB € 600 Idem of TS 48 uur | GS 1 mnd ov |
+| Opzet | GB € 600 | 5j 2j | GB € 900 Idem of TS 70 uur | GS 6 wkn ov |
+| Vanaf 600 t/m 1.000 ‘schuld’ | GB € 600 | 5j 2j | GB € 900 Idem of TS 70 uur | GS 6 wkn ov |
+| Opzet | GB € 800 | 5j 2j | GB € 1.200 Idem of TS 80 uur | GS 7 wkn ov |
+| Vanaf 1.000 t/m 3.000 ‘schuld’ | TS 70 uur | 5j 2j | TS 100 uur Idem of GS 7 wkn | GS 10 wkn ov |
+| Opzet | TS 80 uur | 5j 2j | TS 120 uur Idem GS 2 mnd | GS 11 wkn ov |
+| Vanaf 3.000 euro ‘schuld’ | TS vanaf 90 uur | 5j 2j | TS vanaf 130 uur Idem of GS vanaf 9 wkn | GS vanaf 3 mnd ov |
+| Opzet | TS vanaf 100 uur | 5j 2j | TS vanaf 150 uur Idem of GS vanaf 10 wkn | GS vanaf 14 wkn ov |
+| Bijzonderheden Uitgangspunt is tevens dat wederrechtelijk verkregen voordeel wordt ontnomen Strafverzwarend onder andere: Medeplegen Gewoonteheling (doelbewust en met regelmaat) ‘Gestolen op bestelling’ bij opzet/gewoonteheling Bij opzetheling wetenschap dat goed afkomstig is van HIC (overval, woninginbraak) * let op taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader |  |  |  |  |
+
 ### Legenda
+
+Afkortingen
 
 GB = Geldboete
 

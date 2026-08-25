@@ -1,43 +1,17 @@
 ---
 title: "Besluit mandaatverlening, machtiging en tekenbevoegdheid Wet bescherming persoonsgegevens 2017"
 identifier: "BWBR0039638"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-06-17"
-last_updated: "2017-06-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039638"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "14020623"
-version_id: "24139722"
-internal_id: "C34685511"
-label_id: "13982534"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039638/2017-06-17/0"
-intitule_bron: "Stcrt.2017-33794"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-05-29"
-intitule_published: "2017-06-16"
-intitule_in_force: "2017-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-33794"
-original_signed_date: "2017-05-29"
-original_published_date: "2017-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-33794"
-entry_into_force_date: "2017-06-17"
-jci_1_3: "jci1.3:c:BWBR0039638&z=2017-06-17&g=2017-06-17"
-jci_1_0: "1.0:c:BWBR0039638&g=2017-06-17"
-citeertitel_status: "officieel"
-signed_date: "2017-05-29"
-entry_into_force: "2017-06-17"
+publicatiedatum: 2017-06-17
+laatste_update: 2017-06-17
+status: geldig
+toestand: 2017-06-17
+bron: "https://wetten.overheid.nl/BWBR0039638"
+opgehaald: 2026-08-25
 ---
+
 # Besluit mandaatverlening, machtiging en tekenbevoegdheid Wet bescherming persoonsgegevens 2017
-
-Gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037135&artikel=13) en [14 van het Organisatie- en mandaatbesluit Ministerie van Financiën 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037135&artikel=14) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038862&artikel=5) en [6 van het Organisatie- en mandaatbesluit directoraat-generaal Belastingdienst 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038862&artikel=6);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -80,5 +54,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit mandaatverlening, machtiging en tekenbevoegdheid Wet bescherming persoonsgegevens 2017.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

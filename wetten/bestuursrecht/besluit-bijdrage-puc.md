@@ -1,66 +1,35 @@
 ---
 title: "Besluit van 3 juli 2017, houdende vaststelling van de grondslag voor de bijdrage van zelfstandig bestuursorganen voor het gebruik van de voorziening Publicatieplatform voor uitvoeringscontent (Besluit bijdrage PUC)"
+citeertitel: "Besluit bijdrage PUC"
 identifier: "BWBR0039778"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-07-15"
-last_updated: "2017-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039778"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "14069733"
-version_id: "24225812"
-internal_id: "C34797311"
-label_id: "14030784"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039778/2017-07-15/0"
-intitule_bron: "Stb.2017-304"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-07-03"
-intitule_published: "2017-07-14"
-intitule_in_force: "2017-07-14"
-intitule_status: "goed"
-original_publication: "Stb.2017-304"
-original_signed_date: "2017-07-03"
-original_published_date: "2017-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-304"
-entry_into_force_date: "2017-07-15"
-jci_1_3: "jci1.3:c:BWBR0039778&z=2017-07-15&g=2017-07-15"
-jci_1_0: "1.0:c:BWBR0039778&g=2017-07-15"
-citeertitel_status: "officieel"
-short_title: "Besluit bijdrage PUC"
-signed_date: "2017-07-03"
-entry_into_force: "2017-07-15"
+publicatiedatum: 2017-07-15
+laatste_update: 2017-07-15
+status: geldig
+toestand: 2017-07-15
+bron: "https://wetten.overheid.nl/BWBR0039778"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van 3 juli 2017, houdende vaststelling van de grondslag voor de bijdrage van zelfstandig bestuursorganen voor het gebruik van de voorziening Publicatieplatform voor uitvoeringscontent (Besluit bijdrage PUC)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 april 2017, nr. 2017- 0000195422;
-
-Gelet op [artikel 21b, derde en vierde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 mei 2017, no. W04.17.0112/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van (27 juni 2017, nr. 2017-0000261859);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aangesloten bestuursorgaan:** een zelfstandig bestuursorgaan dat ingevolge een besluit van Onze Minister als bedoeld in [artikel 21a van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21a) gebruik maakt van het PUC;
+- – *aangesloten bestuursorgaan:* een zelfstandig bestuursorgaan dat ingevolge een besluit van Onze Minister als bedoeld in [artikel 21a van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21a) gebruik maakt van het PUC;
 
-- –. **jaar:** kalenderjaar;
+- – *jaar:* kalenderjaar;
 
-- –. **Kaderwet:** [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- – *Kaderwet:*
+ [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- –. **maatwerkaanpassingen:** specifieke aanpassingen van het PUC ten behoeve van een aangesloten bestuursorgaan;
+- – *maatwerkaanpassingen:* specifieke aanpassingen van het PUC ten behoeve van een aangesloten bestuursorgaan;
 
-- –. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. **PUC:** Publicatieplatform voor uitvoeringscontent, dat in stand wordt gehouden door Onze Minister.
+- – *PUC:* Publicatieplatform voor uitvoeringscontent, dat in stand wordt gehouden door Onze Minister.
 
 ##### Artikel 2. Eenmalige bijdrage en eenmalige compensatie
 
@@ -111,5 +80,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit bijdrage PUC.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

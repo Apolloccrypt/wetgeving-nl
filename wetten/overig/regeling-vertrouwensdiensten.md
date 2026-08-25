@@ -1,82 +1,20 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 24 februari 2017, nr. WJZ/17028856, in overeenstemming met de Minister van Financiën en de Minister van Infrastructuur en Milieu, tot vaststelling van procedurele bepalingen inzake de aanvraag tot certificerende instelling van gekwalificeerde middelen, de aanvraag tot toekenning van de status gekwalificeerd en inzake de vertrouwenslijst, tot intrekking van de Regeling elektronische handtekeningen en van de Regeling vertrouwenslijst en tot wijziging van een aantal regelingen als gevolg van de inwerkingtreding van de eidas-verordening (Regeling vertrouwensdiensten)"
+citeertitel: "Regeling vertrouwensdiensten"
 identifier: "BWBR0039274"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039274"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13930243"
-version_id: "23949932"
-internal_id: "C34450401"
-label_id: "13894054"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039274/2023-01-01/0"
-intitule_bron: "Stcrt.2017-11810"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-24"
-intitule_published: "2017-03-08"
-intitule_in_force: "2017-03-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-11810"
-original_signed_date: "2017-02-24"
-original_published_date: "2017-03-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-11810"
-entry_into_force_date: "2017-03-10"
-jci_1_3: "jci1.3:c:BWBR0039274&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0039274&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vertrouwensdiensten"
-signed_date: "2017-02-24"
-entry_into_force: "2017-03-10"
+publicatiedatum: 2017-03-10
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0039274"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Economische Zaken van 24 februari 2017, nr. WJZ/17028856, in overeenstemming met de Minister van Financiën en de Minister van Infrastructuur en Milieu, tot vaststelling van procedurele bepalingen inzake de aanvraag tot certificerende instelling van gekwalificeerde middelen, de aanvraag tot toekenning van de status gekwalificeerd en inzake de vertrouwenslijst, tot intrekking van de Regeling elektronische handtekeningen en van de Regeling vertrouwenslijst en tot wijziging van een aantal regelingen als gevolg van de inwerkingtreding van de eidas-verordening (Regeling vertrouwensdiensten)
 
 #### § 1. Regels omtrent aanvragen
-
-#### § 1. Regels omtrent aanvragen
-
-#### § 3. Intrekking en wijziging van andere ministeriële regelingen
-
-##### Artikel 5. Intrekking [Regeling elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015039)
-
-De [Regeling elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015039) wordt ingetrokken.
-
-##### Artikel 6. Intrekking [Regeling vertrouwenslijst](https://wetten.overheid.nl/jci1.3:c:BWBR0026956)
-
-De [Regeling vertrouwenslijst](https://wetten.overheid.nl/jci1.3:c:BWBR0026956) wordt ingetrokken.
-
-##### Artikel 7. Wijziging [Dienstenregeling centraal loket en interne markt informatiesysteem](https://wetten.overheid.nl/jci1.3:c:BWBR0026766)
-
-Wijzigt de Dienstenregeling centraal loket en interne markt informatiesysteem.
-
-##### Artikel 8. Wijziging [Regeling doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0036097)
-
-Wijzigt de Regeling doorberekening kosten ACM.
-
-##### Artikel 9. Wijziging [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945)
-
-Wijzigt de Regeling specificaties en typegoedkeuring boordcomputer taxi.
-
-##### Artikel 10. Wijziging [Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596)
-
-Wijzigt de Uitvoeringsregeling Kadasterwet 1994.
-
-##### Artikel 11. Wijziging [Uitvoeringsregeling Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0034017)
-
-Wijzigt de Uitvoeringsregeling Registratiewet 1970.
-
-#### § 4. Slotbepalingen
-
-Gelet op de [artikelen 2.5b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.5b) en [2.5c, zevende lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.5c), [artikel 14, vierde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14), [artikel 6a, zevende lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6a), [artikelen 22, eerste en derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22), [artikel 11b, derde tot en met vijfde lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b), [artikel VII van de Wet van 21 december 2016 tot wijziging van de Telecommunicatiewet, de Boeken 3 en 6 van het Burgerlijk Wetboek, de Algemene wet bestuursrecht alsmede daarmee samenhangende wijzigingen van andere wetten in verband met de uitvoering van EU-verordening elektronische identiteiten en vertrouwensdiensten (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=VII), [artikel 7a van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7a) en [artikel 3, vierde lid van het Besluit vertrouwensdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0039284&artikel=3).
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Telecommunicatiewet, enz. (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten) in werking treedt.
 
 ##### Artikel 1. Aanvraag certificerende instellingen gekwalificeerde middelen
 
@@ -134,16 +72,42 @@ De Minister van Economische Zaken en Klimaat draagt er zorg voor dat de vingeraf
 
 #### § 3. Intrekking en wijziging van andere ministeriële regelingen
 
+##### Artikel 5. Intrekking Regeling elektronische handtekeningen
+
+De [Regeling elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015039) wordt ingetrokken.
+
+##### Artikel 6. Intrekking Regeling vertrouwenslijst
+
+De [Regeling vertrouwenslijst](https://wetten.overheid.nl/jci1.3:c:BWBR0026956) wordt ingetrokken.
+
+##### Artikel 7. Wijziging Dienstenregeling centraal loket en interne markt informatiesysteem
+
+*Wijzigt de Dienstenregeling centraal loket en interne markt informatiesysteem.*
+
+##### Artikel 8. Wijziging Regeling doorberekening kosten ACM
+
+*Wijzigt de Regeling doorberekening kosten ACM.*
+
+##### Artikel 9. Wijziging Regeling specificaties en typegoedkeuring boordcomputer taxi
+
+*Wijzigt de Regeling specificaties en typegoedkeuring boordcomputer taxi.*
+
+##### Artikel 10. Wijziging Uitvoeringsregeling Kadasterwet 1994
+
+*Wijzigt de Uitvoeringsregeling Kadasterwet 1994.*
+
+##### Artikel 11. Wijziging Uitvoeringsregeling Registratiewet 1970
+
+*Wijzigt de Uitvoeringsregeling Registratiewet 1970.*
+
 #### § 4. Slotbepalingen
 
 ##### Artikel 12
 
-1. Deze regeling treedt in werking op het tijdstip dat [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I), en [artikel VII van de Wet van 21 december 2016 tot wijziging van de Telecommunicatiewet, de Boeken 3 en 6 van het Burgerlijk Wetboek, de Algemene wet bestuursrecht alsmede daarmee samenhangende wijzigingen van andere wetten in verband met de uitvoering van EU-verordening elektronische identiteiten en vertrouwensdiensten (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=VII) (Stb. 2017, 13) in werking treden.
+1. Deze regeling treedt in werking op het tijdstip dat [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I), en [artikel VII van de Wet van 21 december 2016 tot wijziging van de Telecommunicatiewet, de Boeken 3 en 6 van het Burgerlijk Wetboek, de Algemene wet bestuursrecht alsmede daarmee samenhangende wijzigingen van andere wetten in verband met de uitvoering van EU-verordening elektronische identiteiten en vertrouwensdiensten (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=VII) (Stb. 2017, 13) in werking treden.
 
-2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039274&paragraaf=3&artikel=8&z=2023-01-01&g=2023-01-01) werkt terug tot en met 1 januari 2017.
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039274&paragraaf=3&artikel=8&z=2023-01-01&g=2023-01-01) werkt terug tot en met 1 januari 2017.
 
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling vertrouwensdiensten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

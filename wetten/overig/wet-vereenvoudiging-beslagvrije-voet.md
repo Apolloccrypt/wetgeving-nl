@@ -1,121 +1,92 @@
 ---
 title: "Wet van 8 maart 2017 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering, de Invorderingswet 1990 en enkele andere wetten in verband met een vereenvoudiging van de beslagvrije voet (Wet vereenvoudiging beslagvrije voet)"
+citeertitel: "Wet vereenvoudiging beslagvrije voet"
 identifier: "BWBR0039377"
-country: "nl"
-rank: "wet"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039377"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "13960083"
-version_id: "27275892"
-internal_id: "C38557771"
-label_id: "13923404"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039377/2021-01-01/0"
-intitule_bron: "Stb.2017-110"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-08"
-intitule_published: "2017-03-24"
-intitule_in_force: "2020-12-08"
-intitule_status: "goed"
-original_publication: "Stb.2017-110"
-original_signed_date: "2017-03-08"
-original_published_date: "2017-03-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "34628"
-original_url_id: "stb-2017-110"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0039377&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0039377&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet vereenvoudiging beslagvrije voet"
-signed_date: "2017-03-08"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0039377"
+opgehaald: 2026-08-25
 ---
+
 # Wet van 8 maart 2017 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering, de Invorderingswet 1990 en enkele andere wetten in verband met een vereenvoudiging van de beslagvrije voet (Wet vereenvoudiging beslagvrije voet)
 
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Wetboek van Burgerlijke Rechtsvordering
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is te komen tot een vereenvoudiging van de vaststelling van de beslagvrije voet;
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II. Invorderingswet 1990
 
-##### Artikel I. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+*Wijzigt de Invorderingswet 1990.*
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+##### Artikel III. Algemene wet inkomensafhankelijke regelingen
 
-##### Artikel II. [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770)
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
-Wijzigt de Invorderingswet 1990.
+##### Artikel IV. Algemene Kinderbijslagwet
 
-##### Artikel III. [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472)
+*Wijzigt de Algemene Kinderbijslagwet.*
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+##### Artikel V. Algemene nabestaandenwet
 
-##### Artikel IV. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+*Wijzigt de Algemene nabestaandenwet.*
 
-Wijzigt de Algemene Kinderbijslagwet.
+##### Artikel VI. Algemene Ouderdomswet
 
-##### Artikel V. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+*Wijzigt de Algemene Ouderdomswet.*
 
-Wijzigt de Algemene nabestaandenwet.
+##### Artikel VII. Faillissementswet
 
-##### Artikel VI. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+*Wijzigt de Faillissementswet.*
 
-Wijzigt de Algemene Ouderdomswet.
+##### Artikel X. Toeslagenwet
 
-##### Artikel VII. [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860)
+*Wijzigt de Toeslagenwet.*
 
-Wijzigt de Faillissementswet.
+##### Artikel XII. Werkloosheidswet
 
-##### Artikel X. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+*Wijzigt de Werkloosheidswet.*
 
-Wijzigt de Toeslagenwet.
+##### Artikel XIII. Wet administratiefrechtelijke handhaving verkeersvoorschriften
 
-##### Artikel XII. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+*Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.*
 
-Wijzigt de Werkloosheidswet.
+##### Artikel XIV. Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
-##### Artikel XIII. [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581)
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
+##### Artikel XV. Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
-##### Artikel XIV. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+##### Artikel XVI. Wet inkomensvoorziening oudere werklozen
 
-##### Artikel XV. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+*Wijzigt de Wet inkomensvoorziening oudere werklozen.*
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+##### Artikel XVII. Wet op de arbeidsongeschiktheidsverzekering
 
-##### Artikel XVI. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
-Wijzigt de Wet inkomensvoorziening oudere werklozen.
+##### Artikel XVIII. Wet werk en inkomen naar arbeidsvermogen
 
-##### Artikel XVII. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+*Wijzigt de Wet werk en inkomen naar arbeidsvermogen.*
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+##### Artikel XIX. Wetboek van Strafvordering
 
-##### Artikel XVIII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+*Wijzigt het Wetboek van Strafvordering.*
 
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+##### Artikel XX. Ziektewet
 
-##### Artikel XIX. [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)
+*Wijzigt de Ziektewet.*
 
-Wijzigt het Wetboek van Strafvordering.
+##### Artikel XXI. Zorgverzekeringswet
 
-##### Artikel XX. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+*Wijzigt de Zorgverzekeringswet.*
 
-Wijzigt de Ziektewet.
-
-##### Artikel XXI. [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
-
-Wijzigt de Zorgverzekeringswet.
-
-##### Artikel XXII. Overgangsrecht [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+##### Artikel XXII. Overgangsrecht Wetboek van Burgerlijke Rechtsvordering
 
 1. Indien voor de datum van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0039377&artikel=I&z=2021-01-01&g=2021-01-01), van deze wet beslag is gelegd op een periodieke vordering tot betaling waaraan een beslagvrije voet is verbonden, blijft de door de deurwaarder volgens het recht dat gold voor de datum van inwerkingtreding van dat artikelonderdeel vastgestelde beslagvrije voet van toepassing, tot het moment dat de beslagvrije voet door de deurwaarder of, in geval van samenloop van beslagen als bedoeld in [artikel 478](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=478) de coördinerende deurwaarder opnieuw wordt vastgesteld op grond van een van de in [artikel 475d, derde of vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) bedoelde situaties.
 
@@ -127,7 +98,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de 
 
 ##### Artikel XXIIIa. Samenloop met de Verzamelwet Zvw 2016
 
-Wijzigt de Verzamelwet Zvw 2016 (Kst. 34575).
+*Wijzigt de Verzamelwet Zvw 2016 (Kst. 34575).*
 
 ##### Artikel XXIIIb. Ondersteuning bij en gegevensverwerking voor de vaststelling van de beslagvrije voet
 
@@ -154,5 +125,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel XXV. Citeertitel
 
 Deze wet wordt aangehaald als: Wet vereenvoudiging beslagvrije voet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,38 +1,16 @@
 ---
 title: "Call for proposals Take-off HBO – fase 1: haalbaarheidsstudies – Ronde 3 – Juni 2017 – Regieorgaan SIA"
 identifier: "BWBR0039776"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-07-13"
-last_updated: "2017-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039776"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14069143"
-version_id: "24225512"
-internal_id: "C34796991"
-label_id: "14030504"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039776/2017-07-13/0"
-intitule_bron: "Stcrt.2017-39486"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-05-24"
-intitule_published: "2017-07-13"
-intitule_in_force: "2017-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-39486"
-original_signed_date: "2017-05-24"
-original_published_date: "2017-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-39486"
-entry_into_force_date: "2017-07-13"
-jci_1_3: "jci1.3:c:BWBR0039776&z=2017-07-13&g=2017-07-13"
-jci_1_0: "1.0:c:BWBR0039776&g=2017-07-13"
-citeertitel_status: "redactioneel"
-signed_date: "2017-05-24"
-entry_into_force: "2017-07-13"
+publicatiedatum: 2017-07-13
+laatste_update: 2017-07-13
+status: geldig
+toestand: 2017-07-13
+bron: "https://wetten.overheid.nl/BWBR0039776"
+opgehaald: 2026-08-25
 ---
+
 # Call for proposals Take-off HBO – fase 1: haalbaarheidsstudies – Ronde 3 – Juni 2017 – Regieorgaan SIA
 
 ### 1. Inleiding
@@ -44,6 +22,10 @@ Hogescholen voeren praktijkgericht onderzoek uit, mede mogelijk gemaakt door ond
 Voor het starten van innovatieve, nieuwe bedrijvigheid is financiering nodig om de kloof tussen het onderzoek en de markt te overbruggen. Deze zogenaamde vroegefase-financiering vormt een knelpunt: private investeerders en banken vinden het een te groot risico om te investeren in deze idee- en planfase. Het programma Take-off hbo overbrugt deze ‘funding gap’ in de vroege fase van een onderneming. Aan het einde van het traject zouden anderen – private of publieke investeerders – bereid moeten zijn de volgende fase te financieren. Het programma Take-off hbo richt zich op het faciliteren en stimuleren van innovatieve bedrijvigheid die voortkomt uit kennisontwikkeling door onderzoekers verbonden aan hogescholen.
 
 Het programma Take-off hbo bestaat uit twee fases:
+
+- • fase 1: haalbaarheidsstudies
+
+- • fase 2: vroegefasetrajecten
 
 Deze call for proposals heeft betrekking op fase 1, haalbaarheidsstudies.
 
@@ -81,11 +63,17 @@ De projectleider draagt de verantwoordelijkheid voor de uitvoering van het proje
 
 Een aanvraag omvat:
 
+- • het volledig ingevulde en door alle partijen ondertekende aanvraagformulier dat bestaat uit 1) gegevens omtrent het projectvoorstel en 2) het projectvoorstel zelf;
+
+- • de begroting met kostenonderbouwing en aangevraagde subsidie (in separaat begrotingsformat);
+
+- • een getekende versie van de begroting in pdf.
+
 De handleiding, het aanvraagformulier inclusief model projectvoorstel, en het begrotingsformat worden minstens acht weken voor de deadline van indiening beschikbaar gesteld via ISAAC, het elektronisch aanvraag- en rapportagesysteem van NWO. De directe link naar deze call in ISAAC is: https://www.isaac.nwo.nl/subsidieaanvraag?extref=2017TOHBO3
 
 Het is verplicht de via ISAAC beschikbare formulieren/formats te gebruiken.
 
-Het indienen van een aanvraag bij NWO kan alleen via ISAAC. Aanvragen die niet via ISAAC zijn ingediend, worden niet in behandeling genomen. Een hoofdaanvrager is verplicht zijn/haar aanvraag via zijn/haar eigen ISAAC-account in te dienen. Indien de hoofdaanvrager nog geen ISAAC-account heeft, dient deze dat minimaal een dag voor het indienen aan te maken. Dit is om eventuele aanmeldproblemen nog op tijd te kunnen verhelpen. Voor vragen van technische aard verzoeken wij u contact op te nemen met de ISAAC helpdesk (zie § 6.1).
+Het indienen van een aanvraag bij NWO kan alleen via ISAAC. Aanvragen die niet via ISAAC zijn ingediend, worden niet in behandeling genomen. Een hoofdaanvrager is verplicht zijn/haar aanvraag via zijn/haar eigen ISAAC-account in te dienen. Indien de hoofdaanvrager nog geen ISAAC-account heeft, dient deze dat minimaal een dag voor het indienen aan te maken. Dit is om eventuele aanmeldproblemen nog op tijd te kunnen verhelpen. Voor vragen van technische aard verzoeken wij u contact op te nemen met de ISAAC helpdesk (zie [§ 6.1](https://wetten.overheid.nl/BWBR0039776)).
 
 Het inlogscherm ISAAC is bereikbaar via: www.isaac.nwo.nl
 
@@ -109,6 +97,8 @@ De subsidiegelden zijn uitsluitend bestemd voor het uitvoeren van het projectpla
 
 Subsidiëring van (deel)projectactiviteiten die reeds zijn gesubsidieerd vanuit andere bronnen, is niet mogelijk.
 
+Ethische aspecten
+
 Voor bepaalde aanvragen is een goedkeurende verklaring van een erkende Medisch Ethische Toetsingscommissie (METC) of een Dier Experimenten Commissie (DEC) nodig. Daarnaast is voor bepaalde aanvragen een vergunning nodig op grond van de Wet Bevolkingsonderzoek (WBO). Meer informatie over de METC is beschikbaar bij de Centrale Commissie Mensgebonden onderzoek (CCMO). Bij de Nederlandse Vereniging voor Dierexperimentencommissies is informatie over DEC te vinden en bij o.a. de Gezondheidsraad is informatie over de WBO beschikbaar.
 
 Let op: Is voor uw aanvraag goedkeuring van een ethische toetsings-commissie of anderszins noodzakelijk? In dat geval wordt uw aanvraag bij toekenning voorwaardelijk toegekend. Pas wanneer Regieorgaan SIA een kopie van de goedkeuring heeft ontvangen, wordt de toekenning definitief. Mocht de goedkeuring van toepassing zijn op een deel van het project dat later van start gaat, dan dient de aanvrager aan te geven wanneer hij/zij de ethische goedkeuring verwacht op te vragen. In het subsidieverleningsbesluit wordt deze voorwaarde expliciet aangegeven.
@@ -119,13 +109,29 @@ De kosten die met deze subsidie gefinancierd kunnen worden, betreffen de noodzak
 
 De volgende kostenposten worden onderscheiden:
 
+Loonkosten hogeschool
+
+- • Een berekening van de uurtarieven van de hogeschool gebaseerd op de door Rijksdienst voor Ondernemend Nederland (RVO) geaccordeerde Integrale KostPrijs-methodiek, zie voor informatie de website van RVO: http://www.rvo.nl/subsidies-regelingen/subsidiespelregels/subsidiabele-kosten-algemeen/integrale-kostensystematiek. Indien u van deze methodiek gebruik maakt, dient u de eigen verklaring integrale kostensystematiek en het tarievenoverzicht, zoals berekend op basis van de eigen verklaring integrale kostensystematiek, bij te voegen bij de begroting. *of*
+
+- • Het uurtarief van de hogeschool wordt berekend op basis van het brutoloon van de betreffende medewerker(s) verhoogd met sociale lasten en eventuele overhead (maximaal 25% van het loon inclusief sociale lasten). Dit bedrag dient te worden gedeeld door 1.650 uur (bij een fulltime dienstverband) om het uurtarief te bepalen. Let op: De Handleiding Overheidstarieven wordt met ingang van 2017 gehanteerd voor toepassing bij subsidies vanuit Regieorgaan SIA, teneinde de administratieve lasten bij hogescholen te verminderen. Het berekende uurtarief op basis van brutoloon van betreffende medewerker mag niet hoger zijn dan het kostendekkend tarief per uur bij de salarisschaal van de medewerker, zoals dat in tabel 2 in de Handleiding Overheidstarieven is weergegeven. De Handleiding Overheidstarieven wordt door het Ministerie van Financiën opgesteld en jaarlijks geactualiseerd en is te downloaden op onze website.
+
+Kosten studenten
+
 Het is toegestaan studenten, verbonden aan de hogeschool, in te zetten voor het project en de kosten hiervan binnen het project op te voeren.
 
 Per subsidiejaar kan het volgende worden opgevoerd:
 
+- • Inzet van uren van studenten waarbij geldt dat deze geschiedt als onderdeel van de opleiding (de studenten dienen in dat geval ook studiepunten te krijgen voor de activiteiten). Alleen de stagevergoeding zoals gebruikelijk binnen de instelling is declarabel met een maximum van € 25,– per uur. Het aantal in te zetten uren per student is maximaal 1.650.
+
+- • Inzet van uren van studenten die extra-curriculair worden ingezet in het project. Per student kan maximaal 250 uur per subsidiejaar ten laste van het project worden gebracht, waarbij geldt dat maximaal € 25,– per uur opgevoerd kan worden als subsidiabele kosten.
+
 In beide situaties geldt dat uitsluitend de werkelijke aan de student uitbetaalde bedragen met een maximaal uurtarief van € 25,– als kosten kunnen worden opgevoerd. Uren en uur-tarieven boven de genoemde maxima kunnen niet als kosten worden opgevoerd. Aan het aantal in te zetten studenten in het project is geen maximum verbonden.
 
+Loonkosten derden (kennistoeleveranciers waaronder start-ups)
+
 Bepaling uurtarief is in principe vrij. De beoordelingscommissie zal de opgevoerde tarieven kritisch bekijken en in haar oordeel meenemen.
+
+Materiële kosten
 
 De aan de uitvoering van het project verbonden kosten als verbruik van materialen, hulpmiddelen, prototypes, test-opstellingen en overige kosten zoals reis- en verblijfkosten en publicaties.
 
@@ -149,7 +155,7 @@ De bevindingen van de beoordelingscommissie worden per aanvraag vastgelegd. Deze
 
 In de interviewronde krijgen de aanvragers de gelegenheid om hun aanvraag te presenteren aan de beoordelingscommissie die daarna de gelegenheid heeft tot het stellen van vragen.
 
-De beoordelingscommissie beoordeelt de projecten op basis van de beoordelingscriteria die zijn beschreven in paragraaf 4.6. De aanvragen krijgen per criterium een score in gehele getallen, oplopend van 1 tot en met 5, waarbij 1 de hoogste score vertegenwoordigt.
+De beoordelingscommissie beoordeelt de projecten op basis van de beoordelingscriteria die zijn beschreven in [paragraaf 4.6](https://wetten.overheid.nl/BWBR0039776). De aanvragen krijgen per criterium een score in gehele getallen, oplopend van 1 tot en met 5, waarbij 1 de hoogste score vertegenwoordigt.
 
 De beoordelingscommissie stelt na afloop van alle interviews de definitieve beoordeling en finale rangorde vast.
 
@@ -171,9 +177,43 @@ In een bezwaarprocedure is voorzien. Informatie hierover vindt u op de website v
 
 ### 4.5. Tijdpad
 
+| 3 oktober 2017, 14.00 uur | Deadline voor het indiening aanvragen |
+| --- | --- |
+| November – december 2017 | Interviews met de indieners |
+| Januari 2018 | Besluit directeur Regieorgaan SIA |
+| Februari 2018 | Bekendmaking uitslag aan indieners |
+
 ### 4.6. Beoordelingscriteria
 
 Alle voorstellen worden door een beoordelingscommissie beoordeeld aan de hand van vier beoordelingscriteria:
+
+- 1. Kennisbasis en innovativiteit
+
+   - • voortbouwend op resultaten van praktijkgericht onderzoek van de hogeschool
+
+   - • vernieuwende elementen
+
+   - • state-of-the-art kennis
+
+- 2. Commercieel potentieel
+
+   - • toepassingsmogelijkheden en toegevoegde waarde
+
+   - • markt- en commerciële perspectieven
+
+- 3. Kwaliteit van het team
+
+   - • ondernemers- en commerciële vaardigheden
+
+   - • overige expertise
+
+- 4. Kwaliteit van het projectplan
+
+   - • beoogde activiteiten
+
+   - • wijze waarop activiteiten worden uitgevoerd
+
+   - • projectbegroting
 
 De wegingsfactor van de criteria is 1:1:1:1.
 
@@ -187,6 +227,14 @@ De gehele subsidie wordt in één keer aan de penvoerende hogeschool beschikbaar
 
 Tijdens de uitvoering van het haalbaarsheidsonderzoek kunnen door verschillende factoren wijzigingen ontstaan ten opzichte van het oorspronkelijke plan van aanpak.Voor iedere substantiële inhoudelijke wijziging van het gesubsidieerde projectvoorstel is schriftelijke toestemming van Regieorgaan SIA vereist. Onder substantiële wijzigingen worden in ieder geval, maar niet uitsluitend, verstaan:
 
+- 1. iedere wijziging in de looptijd van het project;
+
+- 2. wijziging van projectleider;
+
+- 3. significante wijzigingen in de teamsamenstelling;
+
+- 4. significante inhoudelijke en/of financiële wijzigingen van het project.
+
 De penvoerder is gehouden Regieorgaan SIA, via ISAAC, zo spoedig en volledig mogelijk te informeren ten aanzien van bovenbedoelde wijzigingen. Indien Regieorgaan SIA niet kan instemmen met een voorgelegde wijziging, dan zal het met de penvoerder in overleg treden.
 
 Wijziging van de contactpersoon of diens gegevens dienen direct te worden doorgegeven. Eventuele wijzigingen/afwijkingen van het bovengestelde dienen in overleg met Regieorgaan SIA te worden overeengekomen.
@@ -194,6 +242,10 @@ Wijziging van de contactpersoon of diens gegevens dienen direct te worden doorge
 ### 5.2. Afronding
 
 Het project wordt afgerond met de oplevering van een eindrapportage. Deze eindrapportage bestaat uit
+
+- 1. een inhoudelijke eindrapportage, inclusief een overzicht van prestatie-indicatoren;
+
+- 2. een financiële rapportage van het project conform format projectbegroting.
 
 De penvoerder levert de twee onderdelen van de eindrapportage binnen acht weken na de einddatum van het project bij het Regieorgaan SIA aan.
 
@@ -203,17 +255,21 @@ Voor zowel eindrapportage als eventuele wijzigingsverzoeken dient gebruik te wor
 
 ### 6.1. Contact
 
+Inhoudelijke vragen
+
 Voor inhoudelijke vragen over deze call for proposals, aanvullende informatie over de indieningsprocedure en -voorwaarden en/of eventuele overige inhoudelijke vragen kan contact worden opgenomen met:
 
 Wouter Segeth Programmamanager Take-off hbo Tel: 06 – 29 07 28 17
 
 E-mail: wouter.segeth@regieorgaan-sia.nl
 
+Technische vragen over het elektronisch aanvraagsysteem ISAAC
+
 Bij technische vragen betreffende het gebruik van ISAAC neemt u contact op met de ISAAC helpdesk. Leest u alstublieft eerst de handleiding voordat u de helpdesk om raad vraagt.
 
 Bereikbaarheid ISAAC helpdesk: van maandag t/m vrijdag van 11.00 tot 17.00 uur, telefoonnummer 0900-696 47 47. Helaas ondersteunen niet alle buitenlandse providers het bellen naar 0900-nummers. U kunt ook uw vraag per e-mail sturen aan isaac.helpdesk@nwo.nl.
 
-**Bezoekadres:**
+*Bezoekadres:*
 
 Van Vollenhovenlaan 661
 

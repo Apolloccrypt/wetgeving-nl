@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu en de Minister van Sociale Zaken en Werkgelegenheid van 6 juni 2017, nr. IENM/BSK-2017/128532, houdende algemene regels inzake de nucleaire veiligheid van kerninstallaties (Regeling nucleaire veiligheid kerninstallaties)"
+citeertitel: "Regeling nucleaire veiligheid kerninstallaties"
 identifier: "BWBR0039625"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-06"
-last_updated: "2018-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039625"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14019293"
-version_id: "24137692"
-internal_id: "C34680811"
-label_id: "13981474"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039625/2018-02-06/0"
-intitule_bron: "Stcrt.2017-30889"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-06"
-intitule_published: "2017-06-13"
-intitule_in_force: "2017-06-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-30889"
-original_signed_date: "2017-06-06"
-original_published_date: "2017-06-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-30889"
-entry_into_force_date: "2017-06-14"
-jci_1_3: "jci1.3:c:BWBR0039625&z=2018-02-06&g=2018-02-06"
-jci_1_0: "1.0:c:BWBR0039625&g=2018-02-06"
-citeertitel_status: "officieel"
-short_title: "Regeling nucleaire veiligheid kerninstallaties"
-signed_date: "2017-06-06"
-entry_into_force: "2017-06-14"
+publicatiedatum: 2017-06-14
+laatste_update: 2018-02-06
+status: geldig
+toestand: 2018-02-06
+bron: "https://wetten.overheid.nl/BWBR0039625"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu en de Minister van Sociale Zaken en Werkgelegenheid van 6 juni 2017, nr. IENM/BSK-2017/128532, houdende algemene regels inzake de nucleaire veiligheid van kerninstallaties (Regeling nucleaire veiligheid kerninstallaties)
-
-Gelet op [Richtlijn 2014/87](32014L0087)/Euratom van de Raad van 8 juli 2014 tot wijziging van [Richtlijn 2009/71](32009L0071)/Euratom tot vaststelling van een communautair kader voor de nucleaire veiligheid van kerninstallaties (PbEU 2014, L 219) en de [artikelen 15c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15c), [18a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=18a), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21), en [67, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=67), in samenhang met [artikel 76, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=76);
-
-Besluiten:
 
 #### § 1. Algemene bepalingen
 
@@ -50,31 +24,32 @@ Deze regeling heeft betrekking op de nucleaire veiligheid van kerninstallaties.
 
 In deze regeling wordt verstaan onder:
 
-- **abnormale werking:** van de normale werking afwijkend operationeel proces dat zich naar verwachting ten minste één keer tijdens de levensduur van een kerninstallatie voordoet, maar gelet op de vergunning en de daaraan verbonden voorschriften inzake het ontwerp van de kerninstallatie geen significante schade berokkent aan onderdelen die belangrijk zijn voor de veiligheid of geen omstandigheden creëert die tot een ongeval leiden;
+- *abnormale werking:* van de normale werking afwijkend operationeel proces dat zich naar verwachting ten minste één keer tijdens de levensduur van een kerninstallatie voordoet, maar gelet op de vergunning en de daaraan verbonden voorschriften inzake het ontwerp van de kerninstallatie geen significante schade berokkent aan onderdelen die belangrijk zijn voor de veiligheid of geen omstandigheden creëert die tot een ongeval leiden;
 
-- **ernstige omstandigheden:** omstandigheden, die ernstiger zijn dan de omstandigheden waarin zich gepostuleerde begingebeurtenissen als bedoeld in [artikel 1 van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=1) voordoen, en die het gevolg kunnen zijn van een meervoudig falen of van een uiterst onwaarschijnlijke gebeurtenis;
+- *ernstige omstandigheden:* omstandigheden, die ernstiger zijn dan de omstandigheden waarin zich gepostuleerde begingebeurtenissen als bedoeld in [artikel 1 van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=1) voordoen, en die het gevolg kunnen zijn van een meervoudig falen of van een uiterst onwaarschijnlijke gebeurtenis;
 
-- **kerninstallatie:** inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15);
+- *kerninstallatie:* inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15);
 
-- **managementsysteem:** managementsysteem als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06);
+- *managementsysteem:* managementsysteem als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06);
 
-- **minister:** minister van Infrastructuur en Milieu;
+- *minister:* minister van Infrastructuur en Milieu;
 
-- **nucleaire veiligheid:** toestand van deugdelijke bedrijfsomstandigheden en de aanwezigheid van preventie- en beschermingsmechanismen ter voorkoming van ongevallen en de beperking van de gevolgen van ongevallen, die ervoor zorgen dat werknemers en de bevolking beschermd worden tegen de aan ioniserende straling van een kerninstallatie verbonden gevaren;
+- *nucleaire veiligheid:* toestand van deugdelijke bedrijfsomstandigheden en de aanwezigheid van preventie- en beschermingsmechanismen ter voorkoming van ongevallen en de beperking van de gevolgen van ongevallen, die ervoor zorgen dat werknemers en de bevolking beschermd worden tegen de aan ioniserende straling van een kerninstallatie verbonden gevaren;
 
-- **ongeval:** ongeval als bedoeld in [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=38);
+- *ongeval:* ongeval als bedoeld in [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=38);
 
-- **ontwerpbasis:** de reeks voorwaarden en gebeurtenissen waarmee expliciet rekening is gehouden bij het ontwerp, met inbegrip van moderniseringen, van een kerninstallatie, overeenkomstig vastgestelde criteria, op zodanige wijze dat die installatie weerstand kan bieden aan die gebeurtenissen zonder dat de bij vergunning vastgestelde grenswaarden voor de geplande werking van de veiligheidssystemen worden overschreden;
+- *ontwerpbasis:* de reeks voorwaarden en gebeurtenissen waarmee expliciet rekening is gehouden bij het ontwerp, met inbegrip van moderniseringen, van een kerninstallatie, overeenkomstig vastgestelde criteria, op zodanige wijze dat die installatie weerstand kan bieden aan die gebeurtenissen zonder dat de bij vergunning vastgestelde grenswaarden voor de geplande werking van de veiligheidssystemen worden overschreden;
 
-- **radiologische noodsituaties:** radiologische noodsituaties als bedoeld in [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=38);
+- *radiologische noodsituaties:* radiologische noodsituaties als bedoeld in [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=38);
 
-- **stralingsincident:** stralingsincident als bedoeld in [artikel 1.2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) in samenhang met [bijlage 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
+- *stralingsincident:* stralingsincident als bedoeld in [artikel 1.2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) in samenhang met [bijlage 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
 
-- **vergunninghouder:** natuurlijke persoon of rechtspersoon aan wie een vergunning als bedoeld in [artikel 15, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend;
+- *vergunninghouder:* natuurlijke persoon of rechtspersoon aan wie een vergunning als bedoeld in [artikel 15, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend;
 
-- **werknemer:** werknemer als bedoeld in [artikel 1.2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) in samenhang met [bijlage 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
+- *werknemer:* werknemer als bedoeld in [artikel 1.2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) in samenhang met [bijlage 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
 
-- **Wet:** [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402).
+- *Wet:*
+ [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402).
 
 #### § 2. Verantwoordelijkheden en verplichtingen van vergunninghouders
 
@@ -160,9 +135,9 @@ In deze regeling wordt verstaan onder:
 
 - c. het er voor zorgen dat alle werknemers:
 
-- 1°. begrijpen wat nucleaire veiligheid inhoudt en wat hun rol en bijdrage daaraan is, en
+   - 1°. begrijpen wat nucleaire veiligheid inhoudt en wat hun rol en bijdrage daaraan is, en
 
-- 2°. zich voldoende veiligheidsbewust gedragen en dat dit gedrag op alle managementniveaus door het tonen van leiderschap voor veiligheid wordt gestimuleerd en bevorderd;
+   - 2°. zich voldoende veiligheidsbewust gedragen en dat dit gedrag op alle managementniveaus door het tonen van leiderschap voor veiligheid wordt gestimuleerd en bevorderd;
 
 - d. het bewaken en waar nodig evalueren en verbeteren van de nucleaire veiligheidscultuur van de organisatie;
 
@@ -333,5 +308,3 @@ De [Regeling implementatie richtlijn nr. 2009/71/Euratom inzake nucleaire veilig
 ##### Artikel 22. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling nucleaire veiligheid kerninstallaties.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

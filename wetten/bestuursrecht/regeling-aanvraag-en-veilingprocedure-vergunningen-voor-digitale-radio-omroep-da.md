@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 23 juni 2017, nr. WJZ/17097583, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in restruimte laag 4 (Regeling aanvraag- en veilingprocedure vergunningen digitale radio-omroep DAB+ laag 4)"
+citeertitel: "Regeling aanvraag- en veilingprocedure vergunningen voor digitale radio-omroep DAB+ laag 4"
 identifier: "BWBR0039706"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-06-30"
-last_updated: "2017-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039706"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "14031533"
-version_id: "24166952"
-internal_id: "C34727901"
-label_id: "13993114"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039706/2017-06-30/0"
-intitule_bron: "Stcrt.2017-35936"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-23"
-intitule_published: "2017-06-29"
-intitule_in_force: "2017-06-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-35936"
-original_signed_date: "2017-06-23"
-original_published_date: "2017-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-35936"
-entry_into_force_date: "2017-06-30"
-jci_1_3: "jci1.3:c:BWBR0039706&z=2017-06-30&g=2017-06-30"
-jci_1_0: "1.0:c:BWBR0039706&g=2017-06-30"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure vergunningen voor digitale radio-omroep DAB+ laag 4"
-signed_date: "2017-06-23"
-entry_into_force: "2017-06-30"
+publicatiedatum: 2017-06-30
+laatste_update: 2017-06-30
+status: geldig
+toestand: 2017-06-30
+bron: "https://wetten.overheid.nl/BWBR0039706"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Economische Zaken van 23 juni 2017, nr. WJZ/17097583, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in restruimte laag 4 (Regeling aanvraag- en veilingprocedure vergunningen digitale radio-omroep DAB+ laag 4)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,39 +20,40 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanvrager:** degene die een aanvraag heeft ingediend;
+- a. *aanvrager:* degene die een aanvraag heeft ingediend;
 
-- b. **activiteitsniveau:** totaal aantal activiteitspunten waarover een deelnemer op een gegeven moment in de veiling kan beschikken en welk aantal de maximale biedbevoegdheid van die deelnemer bepaalt om actief te zijn of te blijven in de veiling;
+- b. *activiteitsniveau:* totaal aantal activiteitspunten waarover een deelnemer op een gegeven moment in de veiling kan beschikken en welk aantal de maximale biedbevoegdheid van die deelnemer bepaalt om actief te zijn of te blijven in de veiling;
 
-- c. **activiteitspunt:** aan een te veilen digitale omroepvergunning toegekend punt ten behoeve van het bepalen van het activiteitsniveau van een deelnemer;
+- c. *activiteitspunt:* aan een te veilen digitale omroepvergunning toegekend punt ten behoeve van het bepalen van het activiteitsniveau van een deelnemer;
 
-- d. **allotment:** het gebied dat gelegen is binnen de contouren zoals gevisualiseerd in de betrokken bijlage van onderscheidenlijk vergunning allotment 7A, vergunning allotment 9D-N of vergunning allotment 9D-Z;
+- d. *allotment:* het gebied dat gelegen is binnen de contouren zoals gevisualiseerd in de betrokken bijlage van onderscheidenlijk vergunning allotment 7A, vergunning allotment 9D-N of vergunning allotment 9D-Z;
 
-- e. **bekendmakingsbesluit:** [Besluit bekendmaking veiling restruimte DAB+ laag 4](onbekend);
+- e. *bekendmakingsbesluit:*
+ Besluit bekendmaking veiling restruimte DAB+ laag 4;
 
-- f. **bod:** bieding, uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
+- f. *bod:* bieding, uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
 
-- g. **deelnemer:** aanvrager die toegelaten is tot de betrokken veiling;
+- g. *deelnemer:* aanvrager die toegelaten is tot de betrokken veiling;
 
-- h. **minister:** minister van Economische Zaken;
+- h. *minister:* minister van Economische Zaken;
 
-- i. **rente:** volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
+- i. *rente:* volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
 
-- j. **rondeprijs:** minimaal te bieden bedrag, vastgesteld per vergunning voor digitale radio-omroep, per biedronde;
+- j. *rondeprijs:* minimaal te bieden bedrag, vastgesteld per vergunning voor digitale radio-omroep, per biedronde;
 
-- k. **vergunning allotment 7A:** vergunning voor het gebruik van 1/18e deel van de capaciteit van de multiplex in het frequentieblok 7A in het bijbehorende allotment 7A, als omschreven in [bijlage 1 van het bekendmakingsbesluit](onbekend);
+- k. *vergunning allotment 7A:* vergunning voor het gebruik van 1/18e deel van de capaciteit van de multiplex in het frequentieblok 7A in het bijbehorende allotment 7A, als omschreven in bijlage 1 van het bekendmakingsbesluit;
 
-- l. **vergunning allotment 9D-N:** vergunning voor het gebruik van 1/18e deel van de capaciteit van de multiplex in het frequentieblok 9D in het bijbehorende allotment 9D-N, als omschreven in [bijlage 2 van het bekendmakingsbesluit](onbekend);
+- l. *vergunning allotment 9D-N:* vergunning voor het gebruik van 1/18e deel van de capaciteit van de multiplex in het frequentieblok 9D in het bijbehorende allotment 9D-N, als omschreven in bijlage 2 van het bekendmakingsbesluit;
 
-- m. **vergunning allotment 9D-Z:** vergunning voor het gebruik van 1/18e deel van de capaciteit van de multiplex in het frequentieblok 9D in het bijbehorende allotment 9D-Z, als omschreven in [bijlage 3 van het bekendmakingsbesluit](onbekend);
+- m. *vergunning allotment 9D-Z:* vergunning voor het gebruik van 1/18e deel van de capaciteit van de multiplex in het frequentieblok 9D in het bijbehorende allotment 9D-Z, als omschreven in bijlage 3 van het bekendmakingsbesluit;
 
-- n. **vergunning voor digitale radio-omroep:** vergunning voor het gebruik van 1/18e deel van de capaciteit van de multiplex in het frequentieblok 7A of 9D, in het bijbehorende allotment 7A onderscheidenlijk 9D-N of 9D-Z, dat ingevolge het [bekendmakingsbesluit](onbekend) wordt verdeeld.
+- n. *vergunning voor digitale radio-omroep:* vergunning voor het gebruik van 1/18e deel van de capaciteit van de multiplex in het frequentieblok 7A of 9D, in het bijbehorende allotment 7A onderscheidenlijk 9D-N of 9D-Z, dat ingevolge het bekendmakingsbesluit wordt verdeeld.
 
 #### § 2. Beschikbare vergunningen
 
 ##### Artikel 2
 
-Ingevolge het [bekendmakingsbesluit](onbekend) zijn beschikbaar om door middel van een veiling te worden verdeeld:
+Ingevolge het bekendmakingsbesluit zijn beschikbaar om door middel van een veiling te worden verdeeld:
 
 - a. negen vergunningen allotment 7A;
 
@@ -94,13 +69,13 @@ Ingevolge het [bekendmakingsbesluit](onbekend) zijn beschikbaar om door middel v
 
 2. De aanvraag wordt in de periode van 3 juli 2017 tot 14 augustus 2017 voor 16.00 uur per aangetekende post ontvangen dan wel door middel van persoonlijke overhandiging ingediend op het volgende adres en met de volgende adressering:
 
-**Agentschap Telecom**
+*Agentschap Telecom*
 
-**Ter attentie van: Projectteam uitgifte DAB+ vergunningen laag 4**
+*Ter attentie van: Projectteam uitgifte DAB+ vergunningen laag 4*
 
-**Emmasingel 1**
+*Emmasingel 1*
 
-**9726 AH Groningen**
+*9726 AH Groningen*
 
 3. De persoonlijke overhandiging vindt in de genoemde periode plaats op werkdagen tussen 9.30 uur en 12.00 uur en tussen 13.30 uur en 16.00 uur. Bij persoonlijke overhandiging van de aanvraag wordt een bewijs van ontvangst afgegeven dat is voorzien van datum en tijdstip van ontvangst en ondertekening.
 
@@ -128,7 +103,7 @@ Onverminderd het bepaalde in [artikel 3.18 van de wet](https://wetten.overheid.n
 
 1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod en teneinde te borgen dat de vergunning wordt verleend aan een financieel bestendige vergunninghouder een waarborgsom of een bankgarantie per vergunning voor digitale radio-omroep waar de aanvraag ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), betrekking op heeft, ter grootte van de waarde, opgenomen in tabel 1, corresponderend met het aantal vergunningen voor digitale radio-omroep waar de aanvraag ingevolge artikel 3, vierde lid, betrekking op heeft.
 
-| Aantal vergunningen waar de aanvraag ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), betrekking op heeft | Bedrag zekerheidsstelling |
+| Aantal vergunningen waar de aanvraag ingevolge artikel 3, vierde lid, betrekking op heeft | Bedrag zekerheidsstelling |
 | --- | --- |
 | 1 tot en met 9 vergunningen | € 10.000,– per vergunning |
 | 10 tot en met 15 vergunningen | € 100.000,– |
@@ -415,227 +390,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 26
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen voor digitale radio-omroep DAB+ laag 4.
-
-## Bijlage I. behorend bij [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30)
-
-### – Model aanvraagformulier –
-
-### Onderdeel A. Bestuurdersverklaring
-
-Ondergetekende, bevoegd op grond van het bij deze aanvraag overgelegde uittreksel uit het handelsregister, de overgelegde statuten en/of de overgelegde volmacht, verklaart dat de informatie die in deze aanvraag is verstrekt juist en volledig is.
-
-Naam: ....
-
-Plaats: .....
-
-Datum: .....
-
-Handtekening: .....
-
-### Onderdeel B. De aanvrager
-
-### B.1. Algemeen
-
-Bij de aanvraag wordt gevoegd:
-
-### B.2. Vertegenwoordigingsbevoegdheid
-
-Opgave van degene(n) die bevoegd is (zijn) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid.
-
-Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van de volmacht worden bijgevoegd.
-
-Indien de vertegenwoordigingsbevoegdheid blijkt uit de statuten, wordt het betrokken artikelnummer van de statuten vermeld.
-
-### b.2.1. Functionaris 1
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening: .....
-
-### b.2.2. Functionaris 2
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: ....
-
-Handtekening .....
-
-### b.2.3. Functionaris 3
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening .....
-
-### b.2.4. Functionaris 4
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening .....
-
-### B.3. Statutaire en financiële positie
-
-B.3.1 De aanvrager is een rechtspersoon, opgericht in overeenstemming met het recht van een van de lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
-
-B.3.2 De aanvrager is wel/niet*ontbonden.
-
-B.3.3 De aanvrager is wel/niet* failliet verklaard.
-
-B.3.4 De aanvrager heeft wel/niet* eigen aangifte tot faillissement gedaan.
-
-B.3.5 Een verzoek tot faillissement van de aanvrager is wel/niet* ingediend.
-
-B.3.6 Aan de aanvrager is wel/geen* surseance van betaling verleend.
-
-B.3.7 De aanvrager heeft wel/geen* aanvraag tot surseance van betaling gedaan.
-
-*Doorhalen wat niet van toepassing is.
-
-### B.4. Verklaring notaris
-
-Ondergetekende, notaris te .....(plaatsnaam)
-
-Verklaart, zonder voorbehoud, dat:
-
-Naam: .....
-
-Plaats .....
-
-Datum: ....
-
-Handtekening
-
-.....
-
-De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.
-
-### Onderdeel C. Specificatie aanvraag
-
-C.1
-
-Mijn aanvraag heeft betrekking op ........................... **<<invullen aantal vergunningen voor digitale radio-omroep waarvoor u in aanmerking wenst te komen>>** vergunningen voor digitale radio-omroep die blijkens het [bekendmakingsbesluit](onbekend) worden verdeeld.
-
-C.2
-
-Mijn voorkeur gaat uit naar:
-
-**In onderstaande tabel vermeldt u naar welke vergunningen uw voorkeur uit gaat. Het aantal voorkeuren dat u in onderstaande tabel vermeldt is gelijk aan het aantal vergunningen voor digitale radio-omroep waarop uw aanvraag ingevolge onderdeel C.1 betrekking heeft. Daarbij kunt u er voor kiezen om het in onderdeel C.1 vermelde aantal vergunningen te verdelen over de verschillende allotments. In geval uw voorkeur naar slechts één allotment uit gaat, kunt u het totale in onderdeel C.1 vermelde aantal bij het desbetreffende allotment van uw voorkeur vermelden.**
-
-## Bijlage II. behorend bij [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=5&z=2017-06-30&g=2017-06-30)
-
-### – Model bankgarantie –
-
-**I.** De ondergetekende .......................................... (**naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte**)*, gevestigd te ........................................, mede kantoorhoudende te ........................................, hierna te noemen: ‘de Bank’;
-
-In aanmerking nemende:
-
-**II.** Verbindt zich tot het navolgende:
-
-Plaats: ..........................................................................................................................................................................
-
-Datum: .........................................................................................................................................................................
-
-Naam Bank en ondertekening
-
-.....................................................................................................................................................................................
-
-* hetgeen in het bovenstaande cursief is gedrukt moet door de Bank worden ingevuld.
-
-** het bedrag invullen overeenkomstig de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=5&z=2017-06-30&g=2017-06-30) van de Regeling opgenomen tabel 1. In geval uw aanvraag betrekking heeft op maximaal 9 vergunningen, dan bedraagt de bankgarantie € 10.000 x het aantal vergunningen voor digitale radio-omroep waar de aanvraag betrekking op heeft. Dit betekent dat als de aanvraag betrekking heeft op één vergunning voor digitale radio-omroep de bankgarantie € 10.000 betreft, als de aanvraag op twee vergunningen betrekking heeft de bankgarantie € 20.000 betreft, etc.
-
-In geval uw aanvraag betrekking heeft op 10, 11, 12, 13, 14 of 15 vergunningen dan is het in te vullen bedrag in alle gevallen € 100.000.
-
-In geval uw aanvraag betrekking heeft op 16, 17, 18, 19, of 20 vergunningen dan is het in te vullen bedrag in alle gevallen € 120.000.
-
-In geval uw aanvraag betrekking heeft op 21, 22, 23, 24 of 25 vergunningen dan is het in te vullen bedrag in alle gevallen € 140.000.
-
-In geval uw aanvraag betrekking heeft op 26, 27, 28, 29, 30 of 31 vergunningen dan is het in te vullen bedrag in alle gevallen € 160.000.
-
-## Bijlage III. behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=7&z=2017-06-30&g=2017-06-30)
-
-### – Modelverklaring inzake financiële draagkracht –
-
-### I. De ondergetekende
-
-**........................................................... (naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte), statutair gevestigd te ......................................., mede kantoorhoudende te ......................................................., hierna te noemen: ‘de Bank’;**
-
-In aanmerking nemende:
-
-Verklaart hiermee dat
-
-Naam aanvrager voor een vergunning __________________________________
-
-Gevestigd te __________________________________
-
-over zodanige financiële draagkracht beschikt, dat hij op de dag van ondertekening van deze verklaring een bedrag van € 15.000,– x ........................ [het aantal vergunningen voor digitale radio-omroep, waar zijn aanvraag ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), van de Regeling betrekking op heeft] = €................................. kan betalen.
-
-Deze verklaring is uitsluitend bestemd voor de Staat der Nederlanden en kan daarom niet door enig ander persoon dan wel voor enig ander doel worden gebruikt.
-
-Deze verklaring wordt verstrekt naar beste weten, onder uitsluiting van iedere aansprakelijkheid of verplichting van de bank jegens derden.
-
-Naar waarheid ingevuld,
-
-## Bijlage IV. behorend bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=10&z=2017-06-30&g=2017-06-30)
-
-Ondergetekende verklaart dat hij zich voorafgaand aan de indiening van de aanvraag hebben onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich zullen onthouden van het maken van dergelijke afspraken of het doen van dergelijke gedragingen.
-
-Naam aanvrager:
-
-Naam ondertekenaar:
-
-Handtekening:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

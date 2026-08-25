@@ -1,41 +1,18 @@
 ---
 title: "Besluit van het CAK tot mandaat en machtiging aan het CJIB voor de inning van bestuurlijke boete en bestuursrechtelijke premie Zorgverzekeringswet"
+citeertitel: "Besluit CAK mandaat en machtiging aan het CJIB voor de inning van bestuurlijke boetes en bestuursrechtelijke premie Zorgverzekeringswet"
 identifier: "BWBR0039049"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039049"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "13862013"
-version_id: "23802492"
-internal_id: "C34244471"
-label_id: "13827214"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039049/2017-01-01/0"
-intitule_bron: "Stcrt.2016-71046"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-28"
-intitule_in_force: "2016-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-71046"
-original_published_date: "2016-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-71046"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0039049&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0039049&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit CAK mandaat en machtiging aan het CJIB voor de inning van bestuurlijke boetes en bestuursrechtelijke premie Zorgverzekeringswet"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0039049"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van het CAK tot mandaat en machtiging aan het CJIB voor de inning van bestuurlijke boete en bestuursrechtelijke premie Zorgverzekeringswet
-
-gelet op de [artikelen 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9b), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9c) en [18c tot en met 18g van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c), de [artikelen 6.5.1 tot en met 6.5.3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=6.5.1), de [Beleidsregel betaling bestuurlijke boete onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0029838), de [Beleidsregels inning bestuursrechtelijke premie Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0038234)1Tot en met 31 december 2016 zijn dit de beleidsregels van het Zorginstituut Nederland, vanaf 1 januari 2017 zijn dit de beleidsregels van het CAK. en het [Besluit mandaat, volmacht en machtiging CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0038946).
-
-besluit als volgt:
 
 ##### Artikel 1
 
@@ -68,5 +45,3 @@ De algemeen directeur van het CJIB rapporteert aan het CAK één keer per vier m
 ##### Artikel 6
 
 Dit besluit kan worden aangehaald als het Besluit CAK mandaat en machtiging aan het CJIB voor de inning van bestuurlijke boetes en bestuursrechtelijke premie Zorgverzekeringswet.
-
-Dit besluit treedt in werking met ingang van 1 januari 2017.

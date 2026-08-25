@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 maart 2017, 2017-0000044513, tot vaststelling van de uitzondering van de inlichtingenplicht"
+citeertitel: "Regeling uitzondering inlichtingenplicht"
 identifier: "BWBR0039399"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-01"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039399"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13966513"
-version_id: "24368432"
-internal_id: "C34967361"
-label_id: "13929584"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039399/2022-04-01/0"
-intitule_bron: "Stcrt.2017-17689"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-22"
-intitule_published: "2017-03-30"
-intitule_in_force: "2017-03-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-52905"
-original_signed_date: "2017-09-13"
-original_published_date: "2017-09-20"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2017-52905"
-entry_into_force_date: "2017-09-13"
-jci_1_3: "jci1.3:c:BWBR0039399&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBR0039399&g=2022-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling uitzondering inlichtingenplicht"
-signed_date: "2017-09-13"
-entry_into_force: "2017-09-13"
+publicatiedatum: 2017-09-13
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBR0039399"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 maart 2017, 2017-0000044513, tot vaststelling van de uitzondering van de inlichtingenplicht
-
-Gelet op [artikel 49 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), [artikel 35, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=35), [artikel 15, tweede lid, onderdeel a, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=15), [artikel 17, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), en [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **basisregistratie personen:** de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
+- *basisregistratie personen:* de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
 
-- **college:** het college van burgemeester en wethouders, bedoeld in de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
+- *college:* het college van burgemeester en wethouders, bedoeld in de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
 
-- **polisadministratie:** de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33);
+- *polisadministratie:* de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33);
 
-- **SVB:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
+- *SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
 ##### Artikel 2. Administratie
 
@@ -144,16 +118,6 @@ De inlichtingenplicht, bedoeld in de [artikelen 17, eerste lid](https://wetten.o
 
 - b. het sluiten of eindigen van een huwelijk of geregistreerd partnerschap als bedoeld in [artikel 2.7, eerste lid, onderdeel a, onder 1°, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7).
 
-##### Artikel 5. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van 1 juni 2017.
-
-##### Artikel 6. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling uitzondering inlichtingenplicht.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 4a. Inlichtingenplicht aan het UWV
 
 1. De inlichtingenplicht van degene die aanspraak maakt op toeslag, of zijn echtgenoot, bedoeld in [artikel 12 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12), geldt niet ten aanzien van gegevens die in de basisregistratie personen zijn opgenomen ten aanzien van:
@@ -168,4 +132,10 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. gegevens in verband met het verblijfsrecht van de vreemdeling als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel a, onder 5°, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7).
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 5. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 juni 2017.
+
+##### Artikel 6. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling uitzondering inlichtingenplicht.

@@ -1,66 +1,38 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 juli 2017, nr. POVO/1222853, houdende regels met betrekking tot subsidieverstrekking aan bevoegde gezagsorganen ten behoeve van toekomstvast internet in het primair en voortgezet onderwijs (Subsidieregeling toekomstvast internet po en vo)"
+citeertitel: "Subsidieregeling toekomstvast internet po en vo"
 identifier: "BWBR0039815"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-07-21"
-last_updated: "2017-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039815"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14077343"
-version_id: "24239942"
-internal_id: "C34819041"
-label_id: "14038354"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039815/2017-07-21/0"
-intitule_bron: "Stcrt.2017-41179"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-07-04"
-intitule_published: "2017-07-20"
-intitule_in_force: "2017-07-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-41179"
-original_signed_date: "2017-07-04"
-original_published_date: "2017-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-41179"
-entry_into_force_date: "2017-07-21"
-jci_1_3: "jci1.3:c:BWBR0039815&z=2017-07-21&g=2017-07-21"
-jci_1_0: "1.0:c:BWBR0039815&g=2017-07-21"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling toekomstvast internet po en vo"
-signed_date: "2017-07-04"
-entry_into_force: "2017-07-21"
+publicatiedatum: 2017-07-21
+laatste_update: 2017-07-21
+status: geldig
+toestand: 2017-07-21
+bron: "https://wetten.overheid.nl/BWBR0039815"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 juli 2017, nr. POVO/1222853, houdende regels met betrekking tot subsidieverstrekking aan bevoegde gezagsorganen ten behoeve van toekomstvast internet in het primair en voortgezet onderwijs (Subsidieregeling toekomstvast internet po en vo)
-
-Handelende in overeenstemming met de Minister van Economische Zaken,
-
-Gelet op [artikel en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1. van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **schoollocatie:** locatie van een school, bedoeld in [artikel 1, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), of van een deel van een school dat zich op een andere locatie bevindt dan die school, van een nevenvestiging bedoeld in artikel 1, van de Wet op het primair onderwijs, of van een deel van een nevenvestiging dat zich op een andere locatie bevindt dan die nevenvestiging, van een school, bedoeld in [artikel 1, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), of van een nevenvestiging, bedoeld in [artikel 16, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=16);
+- *schoollocatie:* locatie van een school, bedoeld in [artikel 1, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), of van een deel van een school dat zich op een andere locatie bevindt dan die school, van een nevenvestiging bedoeld in artikel 1, van de Wet op het primair onderwijs, of van een deel van een nevenvestiging dat zich op een andere locatie bevindt dan die nevenvestiging, van een school, bedoeld in [artikel 1, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), of van een nevenvestiging, bedoeld in [artikel 16, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=16);
 
-- **schoollocatie BES:** locatie van een school, bedoeld in [artikel 1, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), van een school, bedoeld in [artikel 1, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), of van een nevenvestiging, bedoeld in [artikel 123, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=123);
+- *schoollocatie BES:* locatie van een school, bedoeld in [artikel 1, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), van een school, bedoeld in [artikel 1, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), of van een nevenvestiging, bedoeld in [artikel 123, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=123);
 
-- **subsidieaanvrager:** bevoegd gezag, bedoeld in [artikel 1, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) of [artikel 1, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
+- *subsidieaanvrager:* bevoegd gezag, bedoeld in [artikel 1, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) of [artikel 1, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
 
-- **internetverbinding:** elektronisch communicatienetwerk, bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- *internetverbinding:* elektronisch communicatienetwerk, bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- **netwerkaansluitpunt:** netwerkaansluitpunt, bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- *netwerkaansluitpunt:* netwerkaansluitpunt, bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- **aansluitpunt:** aansluitpunt, bedoeld in [artikel 1 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=1).
+- *aansluitpunt:* aansluitpunt, bedoeld in [artikel 1 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=1).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -185,5 +157,3 @@ De aanleg van de toekomstvaste internetverbinding waarvoor de subsidieontvanger 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling toekomstvast internet po en vo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

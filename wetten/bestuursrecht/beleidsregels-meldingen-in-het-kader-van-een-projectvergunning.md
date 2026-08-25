@@ -1,68 +1,43 @@
 ---
 title: "Besluit van de Centrale Commissie Dierproeven van 28 oktober 2016, ref CCD 16-15-09, houdende regels inzake meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven (Besluit Meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven CCD 2016)"
+citeertitel: "Beleidsregels ‘Meldingen in het kader van een projectvergunning’"
 identifier: "BWBR0039251"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-03-04"
-last_updated: "2017-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039251"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "13925843"
-version_id: "23941462"
-internal_id: "C34425201"
-label_id: "13889874"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039251/2017-03-04/0"
-intitule_bron: "Stcrt.2017-6138"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-10-28"
-intitule_published: "2017-03-02"
-intitule_in_force: "2017-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-6138"
-original_signed_date: "2016-10-28"
-original_published_date: "2017-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-6138"
-entry_into_force_date: "2017-03-04"
-jci_1_3: "jci1.3:c:BWBR0039251&z=2017-03-04&g=2017-03-04"
-jci_1_0: "1.0:c:BWBR0039251&g=2017-03-04"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels ‘Meldingen in het kader van een projectvergunning’"
-signed_date: "2016-10-28"
-entry_into_force: "2017-03-04"
+publicatiedatum: 2017-03-04
+laatste_update: 2017-03-04
+status: geldig
+toestand: 2017-03-04
+bron: "https://wetten.overheid.nl/BWBR0039251"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van de Centrale Commissie Dierproeven van 28 oktober 2016, ref CCD 16-15-09, houdende regels inzake meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven (Besluit Meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven CCD 2016)
-
-Gelet op [artikel 11:3 lid 4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=11:3);
-
-Besluit:
 
 ##### Artikel 1. Definitie omschrijving
 
 In deze beleidsregels wordt verstaan onder:
 
-- a. **Melder:** de vergunninghouder die de melding in het kader van [artikel 10c Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c) doet. Indien de vergunninghouder een rechtspersoon is, wordt als melder aangemerkt de natuurlijke persoon die namens de vergunninghouder optreedt (portefeuillehouder). Indien de portefeuillehouder een persoon machtigt om namens hem of haar op te treden, wordt die persoon aangemerkt als melder.
+- a. *Melder:* de vergunninghouder die de melding in het kader van [artikel 10c Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c) doet. Indien de vergunninghouder een rechtspersoon is, wordt als melder aangemerkt de natuurlijke persoon die namens de vergunninghouder optreedt (portefeuillehouder). Indien de portefeuillehouder een persoon machtigt om namens hem of haar op te treden, wordt die persoon aangemerkt als melder.
 
-- b. **Project:** het project als omschreven in [artikel 1 lid 1 sub b Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1).
+- b. *Project:* het project als omschreven in [artikel 1 lid 1 sub b Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1).
 
-- c. **Projectvergunning:** de op grond van [artikel 10a lid 1 van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a) verleende vergunning.
+- c. *Projectvergunning:* de op grond van [artikel 10a lid 1 van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a) verleende vergunning.
 
-- d. **NTS:** de niet technische samenvatting die wordt gevoegd bij een aanvraag in de zin van [artikel 10a1 lid 7 Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a).
+- d. *NTS:* de niet technische samenvatting die wordt gevoegd bij een aanvraag in de zin van [artikel 10a1 lid 7 Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a).
 
-- e. **Wod:** [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081).
+- e. *Wod:*
+ [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081).
 
-- f. **IvD:** Instantie voor dierenwelzijn. Ingesteld door de gebruiker op grond van [artikel 14a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14a). Belast met de beoordeling van de gevolgen van veranderingen op het dierenwelzijn.
+- f. *IvD:* Instantie voor dierenwelzijn. Ingesteld door de gebruiker op grond van [artikel 14a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14a). Belast met de beoordeling van de gevolgen van veranderingen op het dierenwelzijn.
 
 ##### Artikel 2. Onderscheid melding, wijziging, nieuwe aanvraag
 
-1. Onder **melding** wordt verstaan de kennisgeving aan de Centrale Commissie Dierproeven van een verandering in de voor het project verleende projectvergunning die naar het oordeel van de IvD geen gevolgen dan wel positieve gevolgen heeft voor het dierenwelzijn in de zin van [artikel 10c Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c).
+1. Onder *melding* wordt verstaan de kennisgeving aan de Centrale Commissie Dierproeven van een verandering in de voor het project verleende projectvergunning die naar het oordeel van de IvD geen gevolgen dan wel positieve gevolgen heeft voor het dierenwelzijn in de zin van [artikel 10c Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c).
 
-2. De **wijziging** houdt in een verandering in een project waarvoor reeds een projectvergunning is verleend die negatieve gevolgen kan hebben voor het dierenwelzijn en daarom ter toetsing voorgelegd wordt aan de Centrale Commissie Dierproeven zoals omschreven in [artikel 10a5 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a5).
+2. De *wijziging* houdt in een verandering in een project waarvoor reeds een projectvergunning is verleend die negatieve gevolgen kan hebben voor het dierenwelzijn en daarom ter toetsing voorgelegd wordt aan de Centrale Commissie Dierproeven zoals omschreven in [artikel 10a5 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a5).
 
-3. Van een geheel **nieuwe aanvraag** is sprake wanneer een verandering in een project een dusdanig karakter heeft dat de verandering niet aangemerkt kan worden als melding of als wijziging.
+3. Van een geheel *nieuwe aanvraag* is sprake wanneer een verandering in een project een dusdanig karakter heeft dat de verandering niet aangemerkt kan worden als melding of als wijziging.
 
 ##### Artikel 3. De melding
 
@@ -118,137 +93,137 @@ In deze beleidsregels wordt verstaan onder:
 
 ##### Artikel 7
 
-- a. Spoedeisende bijstelling experiment
+- a Spoedeisende bijstelling experiment
 
-- 1. Er doet zich een calamiteit voor waardoor een spoedeisende bijstelling aan een lopend experiment noodzakelijk is en die aanpassing leidt tot een toename van het aantal dieren in de desbetreffende bijlage dierproeven.
+   - 1. Er doet zich een calamiteit voor waardoor een spoedeisende bijstelling aan een lopend experiment noodzakelijk is en die aanpassing leidt tot een toename van het aantal dieren in de desbetreffende bijlage dierproeven.
 
-- 2. In een dergelijk geval kan volstaan worden met een melding zolang aan de volgende voorwaarden wordt voldaan:
+   - 2. In een dergelijk geval kan volstaan worden met een melding zolang aan de volgende voorwaarden wordt voldaan:
 
-- a. Er is sprake van calamiteit;
+      - a. Er is sprake van calamiteit;
 
-- b. Een lopend experiment dreigt verloren te gaan;
+      - b. Een lopend experiment dreigt verloren te gaan;
 
-- c. De situatie is incidenteel.
+      - c. De situatie is incidenteel.
 
-- 3. De Centrale Commissie Dierproeven gaat na of de melding voldoet aan de in lid 2 genoemde voorwaarden. Hiertoe kan de Centrale Commissie Dierproeven in overleg treden met de betrokken IvD.
+   - 3. De Centrale Commissie Dierproeven gaat na of de melding voldoet aan de in lid 2 genoemde voorwaarden. Hiertoe kan de Centrale Commissie Dierproeven in overleg treden met de betrokken IvD.
 
-- b. Voortschrijdend wetenschappelijk inzicht
+- b Voortschrijdend wetenschappelijk inzicht
 
-- 1. Als gevolg van voortschrijdend wetenschappelijk inzicht wordt een lopend project aangepast en die verandering leidt tot een toename van het aantal dieren.
+   - 1. Als gevolg van voortschrijdend wetenschappelijk inzicht wordt een lopend project aangepast en die verandering leidt tot een toename van het aantal dieren.
 
-- 2. Er worden vijf situaties van aanpassingen van een proefopzet onderscheiden:
+   - 2. Er worden vijf situaties van aanpassingen van een proefopzet onderscheiden:
 
-- a. Het toevoegen van een bijlage dierproeven aan een project waarin een proef (eventueel inclusief pilot) wordt beschreven die leidt tot of minder dieren (geen negatief effect op ongerief), of minder ongerief (geen negatief effect op het aantal dieren) of tot èn minder dieren èn minder ongerief. In dit geval kan worden volstaan met een melding mits deze proef, eventueel na het succesvol uitvoeren van een pilot, een in de vergunning opgenomen dierproef zal vervangen.
+      - a. Het toevoegen van een bijlage dierproeven aan een project waarin een proef (eventueel inclusief pilot) wordt beschreven die leidt tot of minder dieren (geen negatief effect op ongerief), of minder ongerief (geen negatief effect op het aantal dieren) of tot èn minder dieren èn minder ongerief. In dit geval kan worden volstaan met een melding mits deze proef, eventueel na het succesvol uitvoeren van een pilot, een in de vergunning opgenomen dierproef zal vervangen.
 
-- b. Verandering voegt een pilot toe aan een vergunde dierproef voor het uittesten van aanpassingen aan specifieke handelingen die zouden kunnen leiden tot minder ongerief. In dit geval kan worden volstaan met een melding.
+      - b. Verandering voegt een pilot toe aan een vergunde dierproef voor het uittesten van aanpassingen aan specifieke handelingen die zouden kunnen leiden tot minder ongerief. In dit geval kan worden volstaan met een melding.
 
-- c. Het toevoegen van een bijlage dierproeven aan een project waarin een proef wordt beschreven die leidt tot: In deze gevallen dient een wijzigingsaanvraag ingediend te worden.
+      - c. Het toevoegen van een bijlage dierproeven aan een project waarin een proef wordt beschreven die leidt tot: In deze gevallen dient een wijzigingsaanvraag ingediend te worden.
 
-- i. ofwel minder dieren maar meer ongerief;
+         - i. ofwel minder dieren maar meer ongerief;
 
-- ii. ofwel minder ongerief maar meer dieren en deze proef, eventueel na het succesvol uitvoeren van een pilot, een in de vergunning opgenomen dierproef zal vervangen.
+         - ii. ofwel minder ongerief maar meer dieren en deze proef, eventueel na het succesvol uitvoeren van een pilot, een in de vergunning opgenomen dierproef zal vervangen.
 
-- d. Het toevoegen van een bijlage dierproeven die niet leidt tot vermindering of verfijning, maar waarbij de hoofddoelstelling van het project gelijk blijft en geen nieuwe subdoelstellingen worden toegevoegd. In dit geval dient een wijzigingsaanvraag ingediend te worden.
+      - d. Het toevoegen van een bijlage dierproeven die niet leidt tot vermindering of verfijning, maar waarbij de hoofddoelstelling van het project gelijk blijft en geen nieuwe subdoelstellingen worden toegevoegd. In dit geval dient een wijzigingsaanvraag ingediend te worden.
 
-- e. Het toevoegen van een bijlage dierproeven die niet leidt tot vermindering of verfijning, waarbij de hoofddoelstelling van het project weliswaar gelijk blijft, maar er nieuwe subdoelstellingen worden toegevoegd. In dit geval dient een nieuwe aanvraag ingediend te worden.
+      - e. Het toevoegen van een bijlage dierproeven die niet leidt tot vermindering of verfijning, waarbij de hoofddoelstelling van het project weliswaar gelijk blijft, maar er nieuwe subdoelstellingen worden toegevoegd. In dit geval dient een nieuwe aanvraag ingediend te worden.
 
-- c. Toevoeging controlegroep of experimentele groep
+- c Toevoeging controlegroep of experimentele groep
 
-- 1. Gedurende de looptijd van een project blijkt het noodzakelijk te zijn een controlegroep dan wel een experimentele groep toe te voegen, welke aanpassing leidt tot een toename van het aantal dieren in de desbetreffende bijlage dierproeven.
+   - 1. Gedurende de looptijd van een project blijkt het noodzakelijk te zijn een controlegroep dan wel een experimentele groep toe te voegen, welke aanpassing leidt tot een toename van het aantal dieren in de desbetreffende bijlage dierproeven.
 
-- 2. Aangezien tot dergelijke veranderingen wordt besloten voor aanvang van een experiment, kan in een dergelijk geval geen sprake zijn van een calamiteit, als gevolg waarvan een wijzigingsaanvraag ingediend dient te worden.
+   - 2. Aangezien tot dergelijke veranderingen wordt besloten voor aanvang van een experiment, kan in een dergelijk geval geen sprake zijn van een calamiteit, als gevolg waarvan een wijzigingsaanvraag ingediend dient te worden.
 
-- d. pilot
+- d pilot
 
-- 1. De situatie doet zich voor dat een aanvrager van een vergunning voorafgaand aan een projectvergunningsaanvraag een pilot wil uitvoeren om de meest optimale strategie vast te stellen.
+   - 1. De situatie doet zich voor dat een aanvrager van een vergunning voorafgaand aan een projectvergunningsaanvraag een pilot wil uitvoeren om de meest optimale strategie vast te stellen.
 
-- 2. Vanwege het verbod op het uitvoeren van dierproeven waarvoor geen projectvergunning is verleend (omschreven in [artikel 10a lid 1 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a)) dient in dit geval een projectaanvraag ingediend te worden.
+   - 2. Vanwege het verbod op het uitvoeren van dierproeven waarvoor geen projectvergunning is verleend (omschreven in [artikel 10a lid 1 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a)) dient in dit geval een projectaanvraag ingediend te worden.
 
-- e. Bijzondere dieren of handelingen
+- e Bijzondere dieren of handelingen
 
-- 1. Er is sprake van één van onderstaande categorieën van bijzondere dieren of handelingen:
+   - 1. Er is sprake van één van onderstaande categorieën van bijzondere dieren of handelingen:
 
-- i. Bedreigde diersoorten ([artikel 10e lid 4 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e));
+      - i. Bedreigde diersoorten ([artikel 10e lid 4 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e));
 
-- ii. Niet-menselijke primaten ([artikel 10e Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e));
+      - ii. Niet-menselijke primaten ([artikel 10e Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e));
 
-- iii. Dieren in/uit het wild ([artikel 10f Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10f));
+      - iii. Dieren in/uit het wild ([artikel 10f Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10f));
 
-- iv. Zwerfdieren en verwilderde dieren ([artikel 10h Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10h));
+      - iv. Zwerfdieren en verwilderde dieren ([artikel 10h Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10h));
 
-- v. Dieren die behoren tot één van de soorten genoemd in bijlage 1 van [Richtlijn 2010/63](32010L0063)/EU maar niet speciaal voor het gebruik in dierproeven zijn gefokt (artikel 11 Wod);
+      - v. Dieren die behoren tot één van de soorten genoemd in bijlage 1 van Richtlijn 2010/63/EU maar niet speciaal voor het gebruik in dierproeven zijn gefokt (artikel 11 Wod);
 
-- vi. Het niet huisvesten van dieren volgens bijlage 3 van [Richtlijn 2010/63](32010L0063)/EU;
+      - vi. Het niet huisvesten van dieren volgens bijlage 3 van Richtlijn 2010/63/EU;
 
-- vii. Het doden van dieren anders dan volgens bijlage 4 van [Richtlijn 2010/63](32010L0063)/EU;
+      - vii. Het doden van dieren anders dan volgens bijlage 4 van Richtlijn 2010/63/EU;
 
-- viii. Het niet toepassen van pijnbestrijding terwijl dit wel noodzakelijk is ([artikel 13 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13)).
+      - viii. Het niet toepassen van pijnbestrijding terwijl dit wel noodzakelijk is ([artikel 13 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13)).
 
-- 2. Indien één van de in lid 1 genoemde gevallen zich voordoet dient een wijzigingsaanvraag ingediend te worden.
+   - 2. Indien één van de in lid 1 genoemde gevallen zich voordoet dient een wijzigingsaanvraag ingediend te worden.
 
-- 3. Voor veranderingen aan projecten met bijzondere categorieën dieren of handelingen waarvoor reeds een vergunning is verleend, is dit artikel alleen van toepassing als de verandering betrekking heeft op één of meerdere in de Wod genoemde voorwaarden voor het gebruik van bijzondere categorieën dieren of het uitvoeren van de bijzondere handelingen
+   - 3. Voor veranderingen aan projecten met bijzondere categorieën dieren of handelingen waarvoor reeds een vergunning is verleend, is dit artikel alleen van toepassing als de verandering betrekking heeft op één of meerdere in de Wod genoemde voorwaarden voor het gebruik van bijzondere categorieën dieren of het uitvoeren van de bijzondere handelingen
 
-- 4. Lid 3 is niet van toepassing bij spoedeisende bijstellingen aan een lopend experiment waarin bijzondere categorieën dieren worden gebruikt of bijzondere categorieën handelingen worden verricht zoals genoemd in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=7&z=2017-03-04&g=2017-03-04) van deze beleidsregels.
+   - 4. Lid 3 is niet van toepassing bij spoedeisende bijstellingen aan een lopend experiment waarin bijzondere categorieën dieren worden gebruikt of bijzondere categorieën handelingen worden verricht zoals genoemd in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=7&z=2017-03-04&g=2017-03-04) van deze beleidsregels.
 
-- 5. Lid 3 is niet van toepassing bij het toevoegen van een subdoelstelling aan een terminale proef of het voor een additionele doelstelling oogsten van organen van bijzondere categorieën dieren die in het kader van een proef gedood zijn zoals genoemd in [artikelen 7h en 7i](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=7&z=2017-03-04&g=2017-03-04) van deze beleidsregels.
+   - 5. Lid 3 is niet van toepassing bij het toevoegen van een subdoelstelling aan een terminale proef of het voor een additionele doelstelling oogsten van organen van bijzondere categorieën dieren die in het kader van een proef gedood zijn zoals genoemd in [artikelen 7h en 7i](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=7&z=2017-03-04&g=2017-03-04) van deze beleidsregels.
 
-- f. Optimalere diersoort/stam
+- f Optimalere diersoort/stam
 
-- 1. Gedurende de looptijd van een project blijkt een andere diersoort de meest optimale diersoort/ in het kader van de haalbaarheid en doelstellingen van het project te zijn en dit leidt niet tot een toename van het aantal dieren of ongerief.
+   - 1. Gedurende de looptijd van een project blijkt een andere diersoort de meest optimale diersoort/ in het kader van de haalbaarheid en doelstellingen van het project te zijn en dit leidt niet tot een toename van het aantal dieren of ongerief.
 
-- 2. In dit geval dient, ongeacht het effect op het aantal dieren of de mate van ongerief, een wijzigingsaanvraag ingediend te worden.
+   - 2. In dit geval dient, ongeacht het effect op het aantal dieren of de mate van ongerief, een wijzigingsaanvraag ingediend te worden.
 
-- 3. In geval van verandering van de te gebruiken stam kan worden volstaan met een melding als het behalen van de doelstelling niet afhankelijk is van het gebruik van een specifieke stam met unieke, voor de proef essentiële, eigenschappen.
+   - 3. In geval van verandering van de te gebruiken stam kan worden volstaan met een melding als het behalen van de doelstelling niet afhankelijk is van het gebruik van een specifieke stam met unieke, voor de proef essentiële, eigenschappen.
 
-- g. Noodzakelijkheid verlenging project
+- g Noodzakelijkheid verlenging project
 
-- 1. Door onvoorziene omstandigheden is verlenging van het project noodzakelijk om de doelstelling te kunnen waarborgen zonder dat dit leidt tot een toename van het aantal dieren en/of ongerief.
+   - 1. Door onvoorziene omstandigheden is verlenging van het project noodzakelijk om de doelstelling te kunnen waarborgen zonder dat dit leidt tot een toename van het aantal dieren en/of ongerief.
 
-- 2. De wettelijke maximale looptijd van een projectvergunning bedraagt vijf jaar ingevolge [artikel 10a1 lid 4 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a). Om die reden wordt in de situatie als omschreven in het voorgaande lid onderscheid gemaakt tussen twee situaties:
+   - 2. De wettelijke maximale looptijd van een projectvergunning bedraagt vijf jaar ingevolge [artikel 10a1 lid 4 Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a). Om die reden wordt in de situatie als omschreven in het voorgaande lid onderscheid gemaakt tussen twee situaties:
 
-- a. De oorspronkelijke projectvergunning was afgegeven voor vijf jaar. In dit geval kan de projectvergunning niet worden verlengd.
+      - a. De oorspronkelijke projectvergunning was afgegeven voor vijf jaar. In dit geval kan de projectvergunning niet worden verlengd.
 
-- b. De oorspronkelijke projectvergunning was afgegeven voor een kortere periode dan vijf jaar. De projectvergunning kan worden verlengd tot maximaal vijf jaar. Er kan in dit geval worden volstaan met een melding. Voorwaarde daarbij is dat inzichtelijk is gemaakt waarom de doelstellingen niet binnen de oorspronkelijke looptijd zijn behaald. In die situaties waar door de CCD de looptijd van de vergunning is verkort omdat het aannemelijk was dat binnen afzienbare tijd alternatieven beschikbaar zouden komen, dient de melder aannemelijk te maken dat er op het moment van verlenging nog geen alternatieven beschikbaar zijn.
+      - b. De oorspronkelijke projectvergunning was afgegeven voor een kortere periode dan vijf jaar. De projectvergunning kan worden verlengd tot maximaal vijf jaar. Er kan in dit geval worden volstaan met een melding. Voorwaarde daarbij is dat inzichtelijk is gemaakt waarom de doelstellingen niet binnen de oorspronkelijke looptijd zijn behaald. In die situaties waar door de CCD de looptijd van de vergunning is verkort omdat het aannemelijk was dat binnen afzienbare tijd alternatieven beschikbaar zouden komen, dient de melder aannemelijk te maken dat er op het moment van verlenging nog geen alternatieven beschikbaar zijn.
 
-- h. Gebruik dieren in een terminale proef
+- h Gebruik dieren in een terminale proef
 
-- 1. De CCD kan toestaan dat dieren in een terminale proef voor additionele doeleinden dan vermeld in vergunning gebruikt worden. Het gaat hierbij om handelingen die niet zijn opgenomen in de bestaande vergunning en een andere doelstelling dienen dan beschreven in de vergunningsaanvraag.
+   - 1. De CCD kan toestaan dat dieren in een terminale proef voor additionele doeleinden dan vermeld in vergunning gebruikt worden. Het gaat hierbij om handelingen die niet zijn opgenomen in de bestaande vergunning en een andere doelstelling dienen dan beschreven in de vergunningsaanvraag.
 
-- 2. Hierbij gelden de volgende voorwaarden:
+   - 2. Hierbij gelden de volgende voorwaarden:
 
-- a. Het betreft incidentele handelingen;
+      - a. Het betreft incidentele handelingen;
 
-- b. Het betreft dierproeven waarbij dieren enkel onder anesthesie worden behandeld en niet meer bijkomen uit de narcose;
+      - b. Het betreft dierproeven waarbij dieren enkel onder anesthesie worden behandeld en niet meer bijkomen uit de narcose;
 
-- c. Dieren zullen geen extra ongerief ondergaan door de additionele handelingen;
+      - c. Dieren zullen geen extra ongerief ondergaan door de additionele handelingen;
 
-- d. Het aantal dieren dat benodigd is voor het behalen van de oorspronkelijke doelstelling neemt niet toe;
+      - d. Het aantal dieren dat benodigd is voor het behalen van de oorspronkelijke doelstelling neemt niet toe;
 
-- e. Het behalen van de doelstellingen zoals beschreven in de vergunningsaanvraag komt niet in het geding door het uitvoeren van additionele handelingen;
+      - e. Het behalen van de doelstellingen zoals beschreven in de vergunningsaanvraag komt niet in het geding door het uitvoeren van additionele handelingen;
 
-- f. Additionele handelingen worden altijd uitgevoerd in combinatie met de handelingen vermeld in de vergunningsaanvraag. Dit betekent dat dieren dus niet alleen gebruikt mogen worden voor de nieuwe doelstelling;
+      - f. Additionele handelingen worden altijd uitgevoerd in combinatie met de handelingen vermeld in de vergunningsaanvraag. Dit betekent dat dieren dus niet alleen gebruikt mogen worden voor de nieuwe doelstelling;
 
-- 3. Indien aan bovenstaande voorwaarden wordt voldaan, kan worden volstaan met een melding. Indien niet aan bovenstaande voorwaarden kan worden voldaan, dient de instellingsvergunninghouder een separate projectvergunning aan te vragen voor de desbetreffende doelstellingen.
+   - 3. Indien aan bovenstaande voorwaarden wordt voldaan, kan worden volstaan met een melding. Indien niet aan bovenstaande voorwaarden kan worden voldaan, dient de instellingsvergunninghouder een separate projectvergunning aan te vragen voor de desbetreffende doelstellingen.
 
-- i. Gebruik dieren na doden in het kader van een proef
+- i Gebruik dieren na doden in het kader van een proef
 
-- 1. Het doden van dieren ten behoeve van het gebruik van organen is vergunningplichting. Dit geldt zowel voor dieren die specifiek voor dat doel zijn gefokt of aangeschaft als voor surplus dieren. De CCD kan toestaan dat dieren voor additionele doeleinden dan vermeld in vergunning gebruikt worden nadat zij gedood zijn in het kader van een proef. Het gaat hierbij om handelingen die niet zijn opgenomen in de bestaande vergunning en een andere doelstelling dienen dan beschreven in de vergunningsaanvraag.
+   - 1. Het doden van dieren ten behoeve van het gebruik van organen is vergunningplichting. Dit geldt zowel voor dieren die specifiek voor dat doel zijn gefokt of aangeschaft als voor surplus dieren. De CCD kan toestaan dat dieren voor additionele doeleinden dan vermeld in vergunning gebruikt worden nadat zij gedood zijn in het kader van een proef. Het gaat hierbij om handelingen die niet zijn opgenomen in de bestaande vergunning en een andere doelstelling dienen dan beschreven in de vergunningsaanvraag.
 
-- 2. Hierbij gelden de volgende voorwaarden:
+   - 2. Hierbij gelden de volgende voorwaarden:
 
-- a. Het betreft incidentele handelingen;
+      - a. Het betreft incidentele handelingen;
 
-- b. Het betreft dierproeven waarbij dieren in het kader van een proef gedood worden;
+      - b. Het betreft dierproeven waarbij dieren in het kader van een proef gedood worden;
 
-- c. De additionele handelingen zullen worden uitgevoerd na het doden van de dieren;
+      - c. De additionele handelingen zullen worden uitgevoerd na het doden van de dieren;
 
-- d. Het aantal dieren dat benodigd is voor het behalen van de oorspronkelijke doelstelling neemt niet toe;
+      - d. Het aantal dieren dat benodigd is voor het behalen van de oorspronkelijke doelstelling neemt niet toe;
 
-- e. Het behalen van de doelstellingen zoals beschreven in de vergunningsaanvraag komt niet in het geding door het uitvoeren van additionele handelingen;
+      - e. Het behalen van de doelstellingen zoals beschreven in de vergunningsaanvraag komt niet in het geding door het uitvoeren van additionele handelingen;
 
-- f. Additionele handelingen worden altijd uitgevoerd in combinatie met de handelingen vermeld in de vergunningsaanvraag. Dit betekent dat dieren dus niet alleen gebruikt mogen worden voor de nieuwe doelstelling;
+      - f. Additionele handelingen worden altijd uitgevoerd in combinatie met de handelingen vermeld in de vergunningsaanvraag. Dit betekent dat dieren dus niet alleen gebruikt mogen worden voor de nieuwe doelstelling;
 
-- 3. Indien aan bovenstaande voorwaarden wordt voldaan, kan worden volstaan met een melding. Indien niet aan bovenstaande voorwaarden kan worden voldaan, dient de instellingsvergunninghouder een separate projectvergunning aan te vragen voor de desbetreffende doelstellingen
+   - 3. Indien aan bovenstaande voorwaarden wordt voldaan, kan worden volstaan met een melding. Indien niet aan bovenstaande voorwaarden kan worden voldaan, dient de instellingsvergunninghouder een separate projectvergunning aan te vragen voor de desbetreffende doelstellingen
 
 ##### Artikel 8
 
@@ -261,5 +236,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na dagtekening
 ##### Artikel 10
 
 Deze bekendmaking wordt aangehaald als: Beleidsregels ‘Meldingen in het kader van een projectvergunning’
-
-Deze bekendmaking zal in de Staatscourant worden geplaatst.

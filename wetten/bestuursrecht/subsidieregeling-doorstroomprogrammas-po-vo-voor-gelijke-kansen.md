@@ -1,66 +1,38 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 27 juni 2017 nr. VO/1156747, houdende regels voor subsidieverstrekking voor de ontwikkeling en uitvoering van doorstroomprogramma’s gericht op een soepele overgang van het primair onderwijs naar het voortgezet onderwijs (Subsidieregeling doorstroomprogramma’s po-vo)"
+citeertitel: "Subsidieregeling doorstroomprogramma’s po-vo voor gelijke kansen"
 identifier: "BWBR0039721"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-02-15"
-last_updated: "2023-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039721"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14035993"
-version_id: "28567222"
-internal_id: "C40313021"
-label_id: "13997264"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039721/2023-02-15/0"
-intitule_bron: "Stcrt.2017-37728"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-27"
-intitule_published: "2017-07-05"
-intitule_in_force: "2017-07-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-993"
-original_signed_date: "2021-12-07"
-original_published_date: "2022-02-09"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-993"
-entry_into_force_date: "2021-12-07"
-jci_1_3: "jci1.3:c:BWBR0039721&z=2023-02-15&g=2023-02-15"
-jci_1_0: "1.0:c:BWBR0039721&g=2023-02-15"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling doorstroomprogramma’s po-vo voor gelijke kansen"
-signed_date: "2021-12-07"
-entry_into_force: "2021-12-07"
+publicatiedatum: 2021-12-07
+laatste_update: 2023-02-15
+status: geldig
+toestand: 2023-02-15
+bron: "https://wetten.overheid.nl/BWBR0039721"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 27 juni 2017 nr. VO/1156747, houdende regels voor subsidieverstrekking voor de ontwikkeling en uitvoering van doorstroomprogramma’s gericht op een soepele overgang van het primair onderwijs naar het voortgezet onderwijs (Subsidieregeling doorstroomprogramma’s po-vo)
-
-Handelende in overeenstemming met de Staatssecretaris van Economische zaken,
-
-Gelet op [artikel 70 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70), [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67), [artikel 74 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=74), [artikel 125 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=125) en [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- •. **aanvrager:** bevoegd gezag dat als penvoerder optreedt bij de aanvraag van subsidie op grond van deze regeling,
+- • *aanvrager:* bevoegd gezag dat als penvoerder optreedt bij de aanvraag van subsidie op grond van deze regeling,
 
-- •. **bevoegd gezag:** bevoegd gezag, bedoeld in [artikel 1 van de Wet primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1),
+- • *bevoegd gezag:* bevoegd gezag, bedoeld in [artikel 1 van de Wet primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1),
 
-- •. **deelnemer:** leerling die deelneemt aan het doorstroomprogramma,
+- • *deelnemer:* leerling die deelneemt aan het doorstroomprogramma,
 
-- •. **doorstroomprogramma:** op grond van deze regeling vormgegeven programma,
+- • *doorstroomprogramma:* op grond van deze regeling vormgegeven programma,
 
-- •. **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen,
+- • *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen,
 
-- •. **minister:** Minister van Onderwijs, Cultuur en Wetenschap,
+- • *minister:* Minister van Onderwijs, Cultuur en Wetenschap,
 
-- •. **school:** uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
+- • *school:* uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -78,17 +50,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 4. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van deze regeling is in 2017 een bedrag van € 5.100.000 beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is in 2017 een bedrag van € 5.100.000 beschikbaar.
 
-2. Voor subsidieverstrekking op grond van deze regeling is voor 2019 een bedrag van € 16.342.750,– beschikbaar.
+2. Voor subsidieverstrekking op grond van deze regeling is voor 2019 een bedrag van € 16.342.750,– beschikbaar.
 
-3. Voor subsidieverstrekking op grond van deze regeling is voor 2020 een bedrag van € 14.141.000 beschikbaar.
+3. Voor subsidieverstrekking op grond van deze regeling is voor 2020 een bedrag van € 14.141.000 beschikbaar.
 
 4. Voor subsidieverstrekking op grond van deze regeling is voor 2021 een bedrag van € 15.130.000,– beschikbaar.
 
-5. Voor subsidieverstrekking op grond van deze regeling is voor 2022 een bedrag van € 19.605.000 beschikbaar.
+5. Voor subsidieverstrekking op grond van deze regeling is voor 2022 een bedrag van € 19.605.000 beschikbaar.
 
-6. Voor subsidieverstrekking op grond van deze regeling is voor 2023 een bedrag van € 18.206.000,– beschikbaar.
+6. Voor subsidieverstrekking op grond van deze regeling is voor 2023 een bedrag van € 18.206.000,– beschikbaar.
 
 ##### Artikel 5. Wijze van verdeling beschikbare middelen
 
@@ -124,17 +96,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - e. het is gericht op:
 
-- 1˚. het vergroten van kennis en vaardigheden die bij de overgang naar het voortgezet onderwijs van belang zijn, en
+   - 1˚. het vergroten van kennis en vaardigheden die bij de overgang naar het voortgezet onderwijs van belang zijn, en
 
-- 2˚. randvoorwaarden die nodig zijn om in het voortgezet onderwijs tot leren te komen,
+   - 2˚. randvoorwaarden die nodig zijn om in het voortgezet onderwijs tot leren te komen,
 
 - f. het bevat ten minste twee van de volgende inhoudelijke lijnen:
 
-- 1°. het versterken van cognitieve vaardigheden, bijvoorbeeld gericht op het versterken van taal- en leesvaardigheden en rekenen,
+   - 1°. het versterken van cognitieve vaardigheden, bijvoorbeeld gericht op het versterken van taal- en leesvaardigheden en rekenen,
 
-- 2°. het versterken van metacognitieve vaardigheden, bijvoorbeeld gericht op het versterken van zelfstandig leren, effectieve werkhouding en plannen ten behoeve van de overgang naar het vo,
+   - 2°. het versterken van metacognitieve vaardigheden, bijvoorbeeld gericht op het versterken van zelfstandig leren, effectieve werkhouding en plannen ten behoeve van de overgang naar het vo,
 
-- 3°. het inzetten op omgevingsfactoren buiten de klas en de thuissituatie, bijvoorbeeld gericht op het vergroten van ouderbetrokkenheid, het vergroten of benutten van netwerken of hulpbronnen uit de omgeving, het versterken van sociale vaardigheden, het begeleiden bij de schoolkeuze en brede loopbaanoriëntatie, allemaal ten behoeve van de overgang naar het vo,
+   - 3°. het inzetten op omgevingsfactoren buiten de klas en de thuissituatie, bijvoorbeeld gericht op het vergroten van ouderbetrokkenheid, het vergroten of benutten van netwerken of hulpbronnen uit de omgeving, het versterken van sociale vaardigheden, het begeleiden bij de schoolkeuze en brede loopbaanoriëntatie, allemaal ten behoeve van de overgang naar het vo,
 
 - g. het wordt aangeboden aan één cohort leerlingen die in groep 8 van het primair onderwijs en het eerste leerjaar van het voortgezet onderwijs het doorstroomprogramma volgen.
 
@@ -168,7 +140,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. een omschrijving van de wijze waarop de samenwerking tussen de po- en vo-school wordt vormgegeven ten behoeve van een gunstige doorstroom van de deelnemende leerlingen.
 
-3. In 2023 kan jaarlijks van 20 februari tot en met 30 april subsidie worden aangevraagd.
+3. In 2023 kan jaarlijks van 20 februari tot en met 30 april subsidie worden aangevraagd.
 
 4. De minister beslist jaarlijks binnen 13 weken na het verstrijken van de periode waarin aanvragen kunnen worden ingediend op de aanvragen.
 
@@ -176,7 +148,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Per aanvraag is voor maximaal 124 deelnemers subsidie beschikbaar.
 
-2. Het subsidiebedrag per doorstroomprogramma wordt berekend door het begrote aantal deelnemers met € 1.000 te vermenigvuldigen.
+2. Het subsidiebedrag per doorstroomprogramma wordt berekend door het begrote aantal deelnemers met € 1.000 te vermenigvuldigen.
 
 3. Het subsidiebedrag per doorstroomprogramma op Caribisch Nederland wordt omgerekend in dollars tegen de vastgestelde wisselkoers.
 
@@ -198,9 +170,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Indien de activiteiten van het doorstroomprogramma zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-2. Voor zover het subsidie tot € 25.000 betreft, geschiedt de verantwoording overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) of [Regeling jaarverslaglegging onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) in de jaarverslaggeving.
+2. Voor zover het subsidie tot € 25.000 betreft, geschiedt de verantwoording overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) of [Regeling jaarverslaglegging onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) in de jaarverslaggeving.
 
-3. Voor zover het subsidie vanaf € 25.000 betreft, geschiedt de verantwoording overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) of [Regeling jaarverslaglegging onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) in de jaarverslaggeving met model G1.
+3. Voor zover het subsidie vanaf € 25.000 betreft, geschiedt de verantwoording overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) of [Regeling jaarverslaglegging onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) in de jaarverslaggeving met model G1.
 
 4. De penvoerder toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie zijn verbonden.
 
@@ -212,20 +184,16 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De bij de doorstroomprogramma’s betrokken bevoegd gezagen hebben een inspanningsverplichting om toestemming te verkrijgen van de ouders van leerlingen van deelnemende scholen om de leerlingen te volgen voor het effectonderzoek.
 
-##### Artikel 14. Inwerkingtreding en vervaldatum
-
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-2. Deze regeling vervalt met ingang van 1 januari 2027.
-
-##### Artikel 15. Citeertitel
-
-Deze regeling wordt aangehaald als: Subsidieregeling doorstroomprogramma’s po-vo voor gelijke kansen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 13a. Omhang
 
 Deze regeling is mede gebaseerd op [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11).
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 14. Inwerkingtreding en vervaldatum
+
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2. Deze regeling vervalt met ingang van 1 januari 2027.
+
+##### Artikel 15. Citeertitel
+
+Deze regeling wordt aangehaald als: Subsidieregeling doorstroomprogramma’s po-vo voor gelijke kansen.

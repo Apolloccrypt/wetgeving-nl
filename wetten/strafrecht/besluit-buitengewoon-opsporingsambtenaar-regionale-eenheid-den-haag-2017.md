@@ -1,56 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 juni 2017 nr. BOACAT2017/036, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Den Haag"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar regionale eenheid Den Haag 2017"
 identifier: "BWBR0039669"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-06-23"
-last_updated: "2017-06-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039669"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14025233"
-version_id: "24153542"
-internal_id: "C34711031"
-label_id: "13986684"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039669/2017-06-23/0"
-intitule_bron: "Stcrt.2017-34636"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-15"
-intitule_published: "2017-06-22"
-intitule_in_force: "2017-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-34636"
-original_signed_date: "2017-06-15"
-original_published_date: "2017-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-34636"
-entry_into_force_date: "2017-06-23"
-jci_1_3: "jci1.3:c:BWBR0039669&z=2017-06-23&g=2017-06-23"
-jci_1_0: "1.0:c:BWBR0039669&g=2017-06-23"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar regionale eenheid Den Haag 2017"
-signed_date: "2017-06-15"
-entry_into_force: "2017-06-23"
+publicatiedatum: 2017-06-23
+laatste_update: 2017-06-23
+status: geldig
+toestand: 2017-06-23
+bron: "https://wetten.overheid.nl/BWBR0039669"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 juni 2017 nr. BOACAT2017/036, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Den Haag
-
-Gelezen het verzoek van de regionale eenheid Den Haag van 7 juni 2017;
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,7 +24,7 @@ Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, als genoemd in [onderdeel 11.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, als genoemd in [onderdeel 11.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/BWBR0038102).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -113,5 +75,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar regionale eenheid Den Haag 2017.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Financiën van 30 juni 2017 [2017-120247], houdende instelling van de Commissie onderzoek sanering Thermphos (Instellingsbesluit Commissie sanering Thermphos)"
+citeertitel: "Instellingsbesluit Commissie onderzoek sanering Thermphos"
 identifier: "BWBR0039799"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-07-19"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039799"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14074313"
-version_id: "24234322"
-internal_id: "C34809671"
-label_id: "14035334"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039799/2017-07-19/0"
-intitule_bron: "Stcrt.2017-40261"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-30"
-intitule_published: "2017-07-18"
-intitule_in_force: "2017-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-40261"
-original_signed_date: "2017-06-30"
-original_published_date: "2017-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-40261"
-entry_into_force_date: "2017-07-19"
-jci_1_3: "jci1.3:c:BWBR0039799&z=2017-07-19&g=2017-07-19"
-jci_1_0: "1.0:c:BWBR0039799&g=2017-07-19"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie onderzoek sanering Thermphos"
-signed_date: "2017-06-30"
-entry_into_force: "2017-07-19"
+publicatiedatum: 2017-07-19
+laatste_update: 2017-07-19
+status: geldig
+toestand: 2017-07-19
+bron: "https://wetten.overheid.nl/BWBR0039799"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van de Minister van Financiën van 30 juni 2017 [2017-120247], houdende instelling van de Commissie onderzoek sanering Thermphos (Instellingsbesluit Commissie sanering Thermphos)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Financiën
+- a. *minister:* de Minister van Financiën
 
-- b. **commissie:** de Commissie onderzoek sanering Thermphos
+- b. *commissie:* de Commissie onderzoek sanering Thermphos
 
 ##### Artikel 2. Instelling
 
@@ -105,5 +79,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie onderzoek sanering Thermphos.
-
-Dit besluit wordt in afschrift gezonden aan de betrokkenen.

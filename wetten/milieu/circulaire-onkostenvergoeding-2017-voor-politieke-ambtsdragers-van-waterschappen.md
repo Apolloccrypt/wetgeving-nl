@@ -1,35 +1,16 @@
 ---
 title: "Circulaire (onkosten)vergoeding 2017 voor politieke ambtsdragers van waterschappen"
 identifier: "BWBR0038993"
-country: "nl"
-rank: "circulaire"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038993"
+categorie: "Milieu"
 soort: "circulaire"
-stam_id: "13848823"
-version_id: "23779392"
-internal_id: "C34214621"
-label_id: "13814144"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038993/2017-01-01/0"
-intitule_bron: "Stcrt.2016-69481"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-23"
-intitule_in_force: "2016-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-69481"
-original_published_date: "2016-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-69481"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038993&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038993&g=2017-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038993"
+opgehaald: 2026-08-25
 ---
+
 # Circulaire (onkosten)vergoeding 2017 voor politieke ambtsdragers van waterschappen
 
 ### Inleiding

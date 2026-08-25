@@ -1,50 +1,22 @@
 ---
 title: "Regeling van het College voor Toetsen en Examens van 26 juni 2017, nummer CvTE-17.01281, houdende vaststelling van de syllabus centraal examen Engels referentieniveau B2 bij centrale examinering in het mbo (Regeling syllabus centraal examen mbo Engels referentieniveau B2)"
+citeertitel: "Regeling syllabus centraal examen mbo Engels referentieniveau B2"
 identifier: "BWBR0039798"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-07-19"
-last_updated: "2017-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039798"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14074203"
-version_id: "24234112"
-internal_id: "C34809431"
-label_id: "14035134"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039798/2017-07-19/0"
-intitule_bron: "Stcrt.2017-40285"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-26"
-intitule_published: "2017-07-18"
-intitule_in_force: "2017-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-40285"
-original_signed_date: "2017-06-26"
-original_published_date: "2017-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-40285"
-entry_into_force_date: "2017-07-19"
-jci_1_3: "jci1.3:c:BWBR0039798&z=2017-07-19&g=2017-07-19"
-jci_1_0: "1.0:c:BWBR0039798&g=2017-07-19"
-citeertitel_status: "officieel"
-short_title: "Regeling syllabus centraal examen mbo Engels referentieniveau B2"
-signed_date: "2017-06-26"
-entry_into_force: "2017-07-19"
+publicatiedatum: 2017-07-19
+laatste_update: 2017-07-19
+status: geldig
+toestand: 2017-07-19
+bron: "https://wetten.overheid.nl/BWBR0039798"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van het College voor Toetsen en Examens van 26 juni 2017, nummer CvTE-17.01281, houdende vaststelling van de syllabus centraal examen Engels referentieniveau B2 bij centrale examinering in het mbo (Regeling syllabus centraal examen mbo Engels referentieniveau B2)
-
-Gelet op [artikel 3 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3), en [artikel 6, eerste lid, onderdeel a, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6);
-
-Gezien de goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap, gegeven op 6 juli 2017, kenmerk 1221513;
-
-Besluit:
 
 ##### Artikel 1. Syllabus
 
-De syllabus centraal examen mbo Engels referentieniveau B2 wordt vastgesteld zoals opgenomen in de bijlage.
+De syllabus centraal examen mbo Engels referentieniveau B2 wordt vastgesteld zoals opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0039798).
 
 ##### Artikel 2. Bekendmaking en inwerkingtreding
 
@@ -57,7 +29,3 @@ De syllabus centraal examen mbo Engels referentieniveau B2 wordt vastgesteld zoa
 ##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling syllabus centraal examen mbo Engels referentieniveau B2.
-
-## Bijlage
-
-Niet opgenomen.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Milieu van 13 juni 2017, nr. IENM/BSK-2017/489, houdende beperking aan de openbaarheid van het archief van de Centrale Sector VROM 1940–1981, aanvulling 2017 (Besluit beperking openbaarheid archief Centrale Sector VROM, 1940–1981)"
+citeertitel: "Besluit beperking openbaarheid archief Centrale Sector VROM 1940–1981, aanvulling 2017"
 identifier: "BWBR0039676"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-09-08"
-last_updated: "2017-09-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039676"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14025643"
-version_id: "24154422"
-internal_id: "C34711871"
-label_id: "13986984"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039676/2017-09-08/0"
-intitule_bron: "Stcrt.2017-34622"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-13"
-intitule_published: "2017-06-22"
-intitule_in_force: "2017-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-34622"
-original_signed_date: "2017-06-13"
-original_published_date: "2017-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-34622"
-entry_into_force_date: "2017-06-23"
-jci_1_3: "jci1.3:c:BWBR0039676&z=2017-09-08&g=2017-09-08"
-jci_1_0: "1.0:c:BWBR0039676&g=2017-09-08"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Centrale Sector VROM 1940–1981, aanvulling 2017"
-signed_date: "2017-06-13"
-entry_into_force: "2017-06-23"
+publicatiedatum: 2017-06-23
+laatste_update: 2017-09-08
+status: geldig
+toestand: 2017-09-08
+bron: "https://wetten.overheid.nl/BWBR0039676"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van de Minister van Infrastructuur en Milieu van 13 juni 2017, nr. IENM/BSK-2017/489, houdende beperking aan de openbaarheid van het archief van de Centrale Sector VROM 1940–1981, aanvulling 2017 (Besluit beperking openbaarheid archief Centrale Sector VROM, 1940–1981)
-
-Gelet op [artikel 15, lid 1, onder a en b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10), en het advies van de algemene rijksarchivaris van 2 mei 2017, met kenmerk EDOC-#1172696-V2.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Centrale Sector VROM 1940–1981 (aanvullingen 2017)
 
 ##### Artikel 1
 

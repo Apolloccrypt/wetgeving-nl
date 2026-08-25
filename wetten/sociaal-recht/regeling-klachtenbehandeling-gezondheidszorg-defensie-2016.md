@@ -1,45 +1,17 @@
 ---
 title: "Regeling klachtenbehandeling gezondheidszorg Defensie 2016"
 identifier: "BWBR0039064"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039064"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13865303"
-version_id: "23806692"
-internal_id: "C34250061"
-label_id: "13830754"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039064/2017-01-01/0"
-intitule_bron: "Stcrt.2017-756"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-21"
-intitule_published: "2017-01-09"
-intitule_in_force: "2017-01-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-756"
-original_signed_date: "2016-12-21"
-original_published_date: "2017-01-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-756"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0039064&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0039064&g=2017-01-01"
-citeertitel_status: "officieel"
-signed_date: "2016-12-21"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0039064"
+opgehaald: 2026-08-25
 ---
+
 # Regeling klachtenbehandeling gezondheidszorg Defensie 2016
-
-Gelet op: de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173).
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Begripsomschrijvingen
 
@@ -47,19 +19,19 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- –. **cliënt:** een natuurlijk persoon aan wie een binnen de militair geneeskundige dienst werkzame zorgverlener door of vanwege de zorgaanbieder gezondheidszorg verleent of heeft verleend;
+- – *cliënt:* een natuurlijk persoon aan wie een binnen de militair geneeskundige dienst werkzame zorgverlener door of vanwege de zorgaanbieder gezondheidszorg verleent of heeft verleend;
 
-- –. **gedraging:** enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een cliënt;
+- – *gedraging:* enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een cliënt;
 
-- –. **geschillencommissie:** de Geschillencommissie Defensie Geneeskundige Zorg, ingesteld en in stand gehouden door de stichting Geschillencommissies voor Consumentenzaken op last van het ministerie van Defensie;
+- – *geschillencommissie:* de Geschillencommissie Defensie Geneeskundige Zorg, ingesteld en in stand gehouden door de stichting Geschillencommissies voor Consumentenzaken op last van het ministerie van Defensie;
 
-- –. **klacht:** een klacht over de zorgaanbieder en/of over een gedraging van een binnen de militair geneeskundige dienst werkzame persoon jegens een cliënt in het kader van de zorgverlening door of vanwege de zorgaanbieder, met uitzondering van klachten die een verzoek tot schadevergoeding wegens letsel- of overige schade inhouden.
+- – *klacht:* een klacht over de zorgaanbieder en/of over een gedraging van een binnen de militair geneeskundige dienst werkzame persoon jegens een cliënt in het kader van de zorgverlening door of vanwege de zorgaanbieder, met uitzondering van klachten die een verzoek tot schadevergoeding wegens letsel- of overige schade inhouden.
 
-- –. **militair geneeskundige dienst:** het geheel van instanties en eenheden binnen de krijgsmacht, belast met het verlenen van militaire gezondheidszorg.
+- – *militair geneeskundige dienst:* het geheel van instanties en eenheden binnen de krijgsmacht, belast met het verlenen van militaire gezondheidszorg.
 
-- –. **militaire gezondheidszorg:** het geheel aan maatregelen, voorzieningen en verstrekkingen verleend door of vanwege de militair geneeskundige dienst ten behoeve van het behoud, herstel en de bevordering van de gezondheid en inzetbaarheid van de militair, alsmede de overigens door de militair geneeskundige dienst verleende gezondheidszorg;
+- – *militaire gezondheidszorg:* het geheel aan maatregelen, voorzieningen en verstrekkingen verleend door of vanwege de militair geneeskundige dienst ten behoeve van het behoud, herstel en de bevordering van de gezondheid en inzetbaarheid van de militair, alsmede de overigens door de militair geneeskundige dienst verleende gezondheidszorg;
 
-- –. **zorgaanbieder:** de Minister van Defensie.
+- – *zorgaanbieder:* de Minister van Defensie.
 
 #### § 2. Klachtenfunctionaris
 
@@ -129,11 +101,11 @@ De klachtencommissie heeft de volgende taken:
 
 - e. het ten behoeve van de zorgaanbieder over elk kalenderjaar opstellen van een openbaar verslag, waarin worden aangegeven: In het verslag worden ten aanzien van de behandelde klachten geen tot de individuele persoon herleidbare gegevens opgenomen;
 
-- 1°. de samenstelling van de klachtencommissie;
+   - 1° de samenstelling van de klachtencommissie;
 
-- 2°. het aantal en de aard van de door de klachtencommissie behandelde klachten;
+   - 2° het aantal en de aard van de door de klachtencommissie behandelde klachten;
 
-- 3°. de strekking van de oordelen en aanbevelingen van de klachtencommissie.
+   - 3° de strekking van de oordelen en aanbevelingen van de klachtencommissie.
 
 - f. het, voor zover nodig, ter uitvoering van haar taken zorg dragen voor een goede afstemming van haar werkzaamheden met andere daarvoor in aanmerking komende instanties die een taak hebben in de opvang van klachten van cliënten.
 

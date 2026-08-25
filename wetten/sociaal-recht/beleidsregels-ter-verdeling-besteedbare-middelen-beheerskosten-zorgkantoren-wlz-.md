@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren Wlz 2017"
 identifier: "BWBR0039323"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-12-18"
-last_updated: "2020-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039323"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13949883"
-version_id: "23984802"
-internal_id: "C34478021"
-label_id: "13913454"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039323/2020-12-18/0"
-intitule_bron: "Stcrt.2017-13920"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-03-15"
-intitule_in_force: "2017-03-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-13920"
-original_published_date: "2017-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-13920"
-entry_into_force_date: "2017-03-17"
-jci_1_3: "jci1.3:c:BWBR0039323&z=2020-12-18&g=2020-12-18"
-jci_1_0: "1.0:c:BWBR0039323&g=2020-12-18"
-citeertitel_status: "officieel"
-entry_into_force: "2017-03-17"
+publicatiedatum: 2017-03-17
+laatste_update: 2020-12-18
+status: geldig
+toestand: 2020-12-18
+bron: "https://wetten.overheid.nl/BWBR0039323"
+opgehaald: 2026-08-25
 ---
+
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren Wlz 2017
-
-gelet op [artikel 91, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.4 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), juncto [4.2.4, tweede lid van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111),
-
-heeft op 13 februari 2017 besloten:
 
 #### § 1. Algemeen
 
@@ -42,35 +19,40 @@ heeft op 13 februari 2017 besloten:
 
 Dit besluit verstaat onder:
 
-- a. **Wlz:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- a. *Wlz:*
+ [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- b. **Aanwijzing:** [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111);
+- b. *Aanwijzing:*
+ [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111);
 
-- c. **regio:** een regio zoals genoemd in [artikel 1 van het Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, houdende de aanwijzing van de zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0037424&artikel=1), Staatscourant 2015 nr. 47359, 24 december 2015;
+- c. *regio:* een regio zoals genoemd in [artikel 1 van het Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, houdende de aanwijzing van de zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0037424&artikel=1), Staatscourant 2015 nr. 47359, 24 december 2015;
 
-- d. **budgethouder:** verzekerde aan wie door het zorgkantoor een persoonsgebonden budget is verleend op grond van [artikel 3.3.3, eerste lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3);
+- d. *budgethouder:* verzekerde aan wie door het zorgkantoor een persoonsgebonden budget is verleend op grond van [artikel 3.3.3, eerste lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3);
 
-- e. **persoonsgebonden budget:** een subsidie waarmee de verzekerde onder de bij of krachtens [artikel 3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) en [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) gestelde voorwaarden aan hem te verlenen zorg kan inkopen;
+- e. *persoonsgebonden budget:* een subsidie waarmee de verzekerde onder de bij of krachtens [artikel 3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) en [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) gestelde voorwaarden aan hem te verlenen zorg kan inkopen;
 
-- f. **bewuste keuze gesprek:** gesprek dat het zorgkantoor voert met iedere persoon die een persoonsgebonden budget aanvraagt om vast te stellen of deze in aanmerking komt voor een persoonsgebonden budget;
+- f. *bewuste keuze gesprek:* gesprek dat het zorgkantoor voert met iedere persoon die een persoonsgebonden budget aanvraagt om vast te stellen of deze in aanmerking komt voor een persoonsgebonden budget;
 
-- g. **huisbezoek:** bezoek van het zorgkantoor aan de budgethouder om vast te stellen dat het persoonsgebonden budget rechtmatig wordt besteed en om de budgethouder beter voor te lichten;
+- g. *huisbezoek:* bezoek van het zorgkantoor aan de budgethouder om vast te stellen dat het persoonsgebonden budget rechtmatig wordt besteed en om de budgethouder beter voor te lichten;
 
-- h. **zorgkantoor:** een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van VWS van 15 december 2015, houdende de aanwijzing van zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0037424);
+- h. *zorgkantoor:* een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van VWS van 15 december 2015, houdende de aanwijzing van zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0037424);
 
-- i. **Meerzorg:** recht op zorg op basis van de regeling bedoeld voor cliënten die, gezien hun behoeften aan zorg meer zorg nodig hebben dan vanuit het zorgprofiel gefinancierd kan worden onder toepassing van [artikel 2.2 van de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.2);
+- i. *Meerzorg:* recht op zorg op basis van de regeling bedoeld voor cliënten die, gezien hun behoeften aan zorg meer zorg nodig hebben dan vanuit het zorgprofiel gefinancierd kan worden onder toepassing van [artikel 2.2 van de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.2);
 
-- j. **Staatssecretaris:** Staatssecretaris van Volksgezondheid, Welzijn en Sport;
+- j. *Staatssecretaris:* Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-- k. **Regiofactor:** wegingsgetal dat wordt gehanteerd voor de berekening van het gewicht van de regio;
+- k. *Regiofactor:* wegingsgetal dat wordt gehanteerd voor de berekening van het gewicht van de regio;
 
-- l. **Zorginstituut:** Zorginstituut Nederland;
+- l. *Zorginstituut:* Zorginstituut Nederland;
 
-- m. **Nadere aanwijzing:** [Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039430);
+- m. *Nadere aanwijzing:*
+ [Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039430);
 
-- n. **Tweede nadere aanwijzing:** [Tweede nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040233);
+- n. *Tweede nadere aanwijzing:*
+ [Tweede nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040233);
 
-- o. **Derde nadere aanwijzing:** [Derde nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0043949).
+- o. *Derde nadere aanwijzing:*
+ [Derde nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0043949).
 
 ##### Artikel 2
 
@@ -86,7 +68,7 @@ Het Zorginstituut stelt in februari 2017 voor ieder zorgkantoor een voorlopig be
 
 Het Zorginstituut verdeelt het bedrag dat in [artikel 2 van de Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0039111&artikel=2) voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
 
-- a. een bedrag van 201,14 euro per budgethouder voor de uitvoeringskosten van het persoonsgebonden budget, vermenigvuldigd met het aantal budgethouders per regio op 30 juni 2016, zoals blijkend uit de tweede kwartaalstaat Wlz 2016 zorgkantoren, waarvoor het zorgkantoor is aangewezen;
+- a. een bedrag van 201,14 euro per budgethouder voor de uitvoeringskosten van het persoonsgebonden budget, vermenigvuldigd met het aantal budgethouders per regio op 30 juni 2016, zoals blijkend uit de tweede kwartaalstaat Wlz 2016 zorgkantoren, waarvoor het zorgkantoor is aangewezen;
 
 - b. een bedrag van 266,58 euro voor het voeren van bewuste-keuze gesprekken, vermenigvuldigd met het aantal nieuwe budgethouders waarvoor het zorgkantoor is aangewezen indien bij een budgethouder één of meer huisbezoeken zijn afgelegd, waarbij het aantal bewuste-keuze gesprekken wordt gerelateerd aan het aantal budgethouders, zoals genoemd in onderdeel a van dit artikel;
 
@@ -96,11 +78,11 @@ Het Zorginstituut verdeelt het bedrag dat in [artikel 2 van de Aanwijzing](https
 
 - e. een bedrag van 4,132 miljoen euro voor vier zorgkantoren die in 2017 geen deel uitmaken van een concern op basis van een gelijk bedrag per zorgkantoor;
 
-- f. een bedrag van 596,74 euro voor personen met een persoonsgebonden budget met Meerzorg op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met een persoonsgebonden budget met Meerzorg per 31 december 2017, gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel;
+- f. een bedrag van 596,74 euro voor personen met een persoonsgebonden budget met Meerzorg op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met een persoonsgebonden budget met Meerzorg per 31 december 2017, gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel;
 
-- g. een bedrag van 357,84 euro voor personen met Zorg in Natura met Meerzorg op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met Zorg in Natura met Meerzorg per 31 december 2017, gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel;
+- g. een bedrag van 357,84 euro voor personen met Zorg in Natura met Meerzorg op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met Zorg in Natura met Meerzorg per 31 december 2017, gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel;
 
-- h. een bedrag van 357,84 euro voor personen met Modulair Pakket Thuis op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met Modulair Pakket Thuis met Meerzorg per 31 december 2017 gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel.
+- h. een bedrag van 357,84 euro voor personen met Modulair Pakket Thuis op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met Modulair Pakket Thuis met Meerzorg per 31 december 2017 gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel.
 
 ##### Artikel 5
 
@@ -114,7 +96,7 @@ Het Zorginstituut verdeelt het bedrag dat in [artikel 2 van de Aanwijzing](https
 
 - d. voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland vermenigvuldigd met 2.
 
-2. Het Zorginstituut verdeelt 85 procent van het het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=4&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2016 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=4&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2016 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 6
 
@@ -134,7 +116,7 @@ Het Zorginstituut stelt uiterlijk op de eerste werkdag van mei 2018 het beheersk
 
 Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=7&z=2020-12-18&g=2020-12-18) genoemde [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0039430) en [Tweede nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0040233) voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
 
-- a. een bedrag van 201,14 euro per budgethouder voor de uitvoeringskosten van het persoonsgebonden budget, vermenigvuldigd met het aantal budgethouders per regio op 30 juni 2017, zoals blijkend uit de tweede kwartaalstaat Wlz 2017 zorgkantoren, waarvoor het zorgkantoor is aangewezen;
+- a. een bedrag van 201,14 euro per budgethouder voor de uitvoeringskosten van het persoonsgebonden budget, vermenigvuldigd met het aantal budgethouders per regio op 30 juni 2017, zoals blijkend uit de tweede kwartaalstaat Wlz 2017 zorgkantoren, waarvoor het zorgkantoor is aangewezen;
 
 - b. een bedrag van 266,58 euro voor het voeren van bewuste-keuze gesprekken, vermenigvuldigd met het aantal nieuwe budgethouders, zoals blijkend uit de 4e kwartaalstaat Wlz 2017 zorgkantoren;
 
@@ -144,11 +126,11 @@ Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.ov
 
 - e. een bedrag van 4,132 miljoen euro voor vier zorgkantoren die in 2017 geen deel uitmaken van een concern op basis van een gelijk bedrag per zorgkantoor;
 
-- f. een bedrag van 596,74 euro voor personen met een persoonsgebonden budget met Meerzorg op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met een persoonsgebonden budget met Meerzorg per 31 december 2017, gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel;
+- f. een bedrag van 596,74 euro voor personen met een persoonsgebonden budget met Meerzorg op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met een persoonsgebonden budget met Meerzorg per 31 december 2017, gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel;
 
-- g. een bedrag van 357,84 euro voor personen met Zorg in Natura met Meerzorg op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met Zorg in Natura met Meerzorg per 31 december 2017, gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel;
+- g. een bedrag van 357,84 euro voor personen met Zorg in Natura met Meerzorg op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met Zorg in Natura met Meerzorg per 31 december 2017, gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel;
 
-- h. een bedrag van 357,84 euro voor personen met Modulair Pakket Thuis op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met Modulair Pakket Thuis met Meerzorg per 31 december 2017 gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel.
+- h. een bedrag van 357,84 euro voor personen met Modulair Pakket Thuis op basis van de in de toelichting bij de [Aanwijzing besteedbare middelen beheerskosten Wlz 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039111) geschatte aantallen personen met Modulair Pakket Thuis met Meerzorg per 31 december 2017 gerelateerd aan de werkelijke aantallen budgethouders per zorgkantoor, zoals genoemd in onderdeel a van dit artikel.
 
 ##### Artikel 9
 
@@ -162,7 +144,7 @@ Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.ov
 
 - d. voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland vermenigvuldigd met 2.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=8&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=8&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 10
 
@@ -178,7 +160,7 @@ Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.ov
 
 Uiterlijk in 2020 stelt het Zorginstituut het beheerskostenbudget over het jaar 2017 definitief vast. Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=7&z=2020-12-18&g=2020-12-18) genoemde [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0039430), de [Tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0040233) en de [Derde nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0043949) voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
 
-- a. een bedrag van 201,14 euro per budgethouder voor de uitvoeringskosten van het persoonsgebonden budget, vermenigvuldigd met het aantal budgethouders per regio op 30 juni 2017 waarvoor het zorgkantoor is aangewezen;
+- a. een bedrag van 201,14 euro per budgethouder voor de uitvoeringskosten van het persoonsgebonden budget, vermenigvuldigd met het aantal budgethouders per regio op 30 juni 2017 waarvoor het zorgkantoor is aangewezen;
 
 - b. een bedrag van 266,58 euro voor het voeren van bewuste-keuze gesprekken, vermenigvuldigd met het aantal nieuwe budgethouders, zoals blijkend uit de 4e kwartaalstaat Wlz 2017 zorgkantoren;
 
@@ -188,11 +170,11 @@ Uiterlijk in 2020 stelt het Zorginstituut het beheerskostenbudget over het jaar 
 
 - e. een bedrag van 4,132 miljoen euro voor vier zorgkantoren die in 2017 geen deel uitmaken van een concern op basis van een gelijk bedrag per zorgkantoor;
 
-- f. een bedrag van 596,74 euro op basis van de werkelijke aantallen personen met een persoonsgebonden budget met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018;
+- f. een bedrag van 596,74 euro op basis van de werkelijke aantallen personen met een persoonsgebonden budget met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018;
 
-- g. een bedrag van 357,84 euro op basis van de werkelijke aantallen personen met Zorg in Natura met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018;
+- g. een bedrag van 357,84 euro op basis van de werkelijke aantallen personen met Zorg in Natura met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018;
 
-- h. een bedrag van 357,84 euro op basis van de werkelijke aantallen personen met Modulair Pakket Thuis met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018;
+- h. een bedrag van 357,84 euro op basis van de werkelijke aantallen personen met Modulair Pakket Thuis met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018;
 
 - i. een bedrag van 1,849 miljoen euro tot dekking van de kosten die zijn gemaakt met betrekking tot Te goeder trouw en terugvorderen, zoals verantwoord in het financieel verslag Wlz-uitvoerder 2017.
 
@@ -208,7 +190,7 @@ Uiterlijk in 2020 stelt het Zorginstituut het beheerskostenbudget over het jaar 
 
 - d. voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland vermenigvuldigd met 2.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=11&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=11&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 13
 
@@ -224,10 +206,8 @@ Uiterlijk in 2020 stelt het Zorginstituut het beheerskostenbudget over het jaar 
 
 ##### Artikel 14
 
-Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze worden geplaatst, en werken terug tot en met 1 januari 2017.
+Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze worden geplaatst, en werken terug tot en met 1 januari 2017.
 
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren Wlz 2017.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

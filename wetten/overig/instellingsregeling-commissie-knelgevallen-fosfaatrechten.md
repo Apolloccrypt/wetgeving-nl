@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 mei 2017, nr. WJZ/17066875, houdende instelling van de Commissie knelgevallen fosfaatrechten (Instellingsregeling Commissie knelgevallen fosfaatrechten)"
+citeertitel: "Instellingsregeling Commissie knelgevallen fosfaatrechten"
 identifier: "BWBR0039606"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-06-07"
-last_updated: "2017-06-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039606"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14015963"
-version_id: "24126342"
-internal_id: "C34663641"
-label_id: "13977854"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039606/2017-06-07/0"
-intitule_bron: "Stcrt.2017-30719"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-05-20"
-intitule_published: "2017-06-06"
-intitule_in_force: "2017-06-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-30719"
-original_signed_date: "2017-05-20"
-original_published_date: "2017-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-30719"
-entry_into_force_date: "2017-06-07"
-jci_1_3: "jci1.3:c:BWBR0039606&z=2017-06-07&g=2017-06-07"
-jci_1_0: "1.0:c:BWBR0039606&g=2017-06-07"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Commissie knelgevallen fosfaatrechten"
-signed_date: "2017-05-20"
-entry_into_force: "2017-06-07"
+publicatiedatum: 2017-06-07
+laatste_update: 2017-06-07
+status: geldig
+toestand: 2017-06-07
+bron: "https://wetten.overheid.nl/BWBR0039606"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 mei 2017, nr. WJZ/17066875, houdende instelling van de Commissie knelgevallen fosfaatrechten (Instellingsregeling Commissie knelgevallen fosfaatrechten)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Economische Zaken;
+- a. *minister:* Minister van Economische Zaken;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039606&artikel=2&z=2017-06-07&g=2017-06-07).
+- b. *commissie:* de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039606&artikel=2&z=2017-06-07&g=2017-06-07).
 
 ##### Artikel 2
 
@@ -91,5 +63,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie knelgevallen fosfaatrechten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

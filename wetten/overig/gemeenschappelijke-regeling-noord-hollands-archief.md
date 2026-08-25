@@ -1,45 +1,17 @@
 ---
 title: "Gemeenschappelijke Regeling Noord-Hollands Archief"
 identifier: "BWBR0039546"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-12-30"
-last_updated: "2016-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039546"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14000933"
-version_id: "24092672"
-internal_id: "C34620461"
-label_id: "13963294"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039546/2016-12-30/0"
-intitule_bron: "Stcrt.2016-71888"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-24"
-intitule_published: "2016-12-30"
-intitule_in_force: "2016-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-71888"
-original_signed_date: "2016-05-24"
-original_published_date: "2016-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-71888"
-entry_into_force_date: "2016-12-30"
-jci_1_3: "jci1.3:c:BWBR0039546&z=2016-12-30&g=2016-12-30"
-jci_1_0: "1.0:c:BWBR0039546&g=2016-12-30"
-citeertitel_status: "officieel"
-signed_date: "2016-05-24"
-entry_into_force: "2016-12-30"
+publicatiedatum: 2016-12-30
+laatste_update: 2016-12-30
+status: geldig
+toestand: 2016-12-30
+bron: "https://wetten.overheid.nl/BWBR0039546"
+opgehaald: 2026-08-25
 ---
+
 # Gemeenschappelijke Regeling Noord-Hollands Archief
-
-Gelet op [hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII) en [I van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I);
-
-Besluiten:
-
-tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de gemeentelijke archiefbewaarplaatsen van de gemeenten Haarlem en Velsen en in de rijksarchiefbewaarplaats in de provincie Noord-Holland;
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -47,21 +19,21 @@ tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling 
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de gemeenten:** de gemeenten Haarlem en Velsen;
+- b. *de gemeenten:* de gemeenten Haarlem en Velsen;
 
-- c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom of beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie Noord-Holland en de archiefbewaarplaatsen van de gemeenten;
+- d. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom of beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie Noord-Holland en de archiefbewaarplaatsen van de gemeenten;
 
-- e. **college(s):** de college(s) van burgemeester en wethouders van de gemeenten Velsen en Haarlem;
+- e. *college(s):* de college(s) van burgemeester en wethouders van de gemeenten Velsen en Haarlem;
 
-- f. **provincie:** de provincie Noord-Holland;
+- f. *provincie:* de provincie Noord-Holland;
 
-- g. **de wet:** de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740);
+- g. *de wet:* de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740);
 
-- h. **regeling:** deze gemeenschappelijke regeling.
+- h. *regeling:* deze gemeenschappelijke regeling.
 
 ### Hoofdstuk 2. Het openbaar lichaam
 
@@ -253,7 +225,7 @@ Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 ##### Artikel 16. Bijdragen
 
-1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de raden van de gemeenten door het verstrekken van jaarlijkse bijdragen op basis van een goedgekeurde vastgestelde begroting. Bij de aanvang van het Noord-Hollands Archief luiden de bijdragen zoals vastgesteld in de bijlage bij deze regeling.
+1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de raden van de gemeenten door het verstrekken van jaarlijkse bijdragen op basis van een goedgekeurde vastgestelde begroting. Bij de aanvang van het Noord-Hollands Archief luiden de bijdragen zoals vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBR0039546) bij deze regeling.
 
 2. De Minister en de colleges dragen er zorg voor dat het openbaar lichaam te allen tijde beschikt over voldoende middelen om zijn verplichtingen te voldoen. Dit met inachtneming van het zevende lid.
 
@@ -458,7 +430,3 @@ Deze regeling zal met de toelichting door de Minister van Onderwijs, Cultuur en 
 1. De [gemeenschappelijke Regeling Regionaal Historisch Centrum in Noord-Holland](https://wetten.overheid.nl/jci1.3:c:BWBR0017935), gepubliceerd als bijlage bij het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 24 januari 2005, nr. DCE/05/1760 (Stcrt. 2005, 226), wordt ingetrokken.
 
 2. De rechten en verplichtingen van het Regionaal Historisch Centrum in Noord-Holland op grond van de ingetrokken [gemeenschappelijke Regeling Regionaal Historisch Centrum in Noord-Holland](https://wetten.overheid.nl/jci1.3:c:BWBR0017935) blijven in stand en worden voortgezet door het openbaar lichaam Noord-Hollands Archief, zoals neergelegd in deze regeling.
-
-## Bijlage
-
-Niet opgenomen.

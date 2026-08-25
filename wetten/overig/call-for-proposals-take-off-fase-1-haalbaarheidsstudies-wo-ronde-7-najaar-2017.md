@@ -1,42 +1,23 @@
 ---
 title: "Call for proposals Take-off fase 1 Haalbaarheidsstudies WO Ronde 7 – Najaar 2017"
 identifier: "BWBR0039729"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-07-05"
-last_updated: "2017-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039729"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14038363"
-version_id: "24179892"
-internal_id: "C34742411"
-label_id: "14000094"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039729/2017-07-05/0"
-intitule_bron: "Stcrt.2017-37475"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-07-05"
-intitule_in_force: "2017-07-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-37475"
-original_published_date: "2017-07-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-37475"
-entry_into_force_date: "2017-07-05"
-jci_1_3: "jci1.3:c:BWBR0039729&z=2017-07-05&g=2017-07-05"
-jci_1_0: "1.0:c:BWBR0039729&g=2017-07-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-07-05"
+publicatiedatum: 2017-07-05
+laatste_update: 2017-07-05
+status: geldig
+toestand: 2017-07-05
+bron: "https://wetten.overheid.nl/BWBR0039729"
+opgehaald: 2026-08-25
 ---
+
 # Call for proposals Take-off fase 1 Haalbaarheidsstudies WO Ronde 7 – Najaar 2017
 
 ### 1. Inleiding
 
 ### 1.1. Achtergrond
 
-**Het programma Take-off WO richt zich op het faciliteren en stimuleren van bedrijvigheid en ondernemerschap vanuit de Nederlandse universiteiten en door NWO erkende onderzoeksinstituten met als doel het creëren van succesvolle innovatieve bedrijvigheid op basis van innovatieve onderzoeksresultaten uit genoemde onderzoeksinstellingen.**
+*Het programma Take-off WO richt zich op het faciliteren en stimuleren van bedrijvigheid en ondernemerschap vanuit de Nederlandse universiteiten en door NWO erkende onderzoeksinstituten met als doel het creëren van succesvolle innovatieve bedrijvigheid op basis van innovatieve onderzoeksresultaten uit genoemde onderzoeksinstellingen.*
 
 Take-off WO is een wetenschaps-breed programma dat open staat voor aanvragen uit alle wetenschapsgebieden (bèta/techniek, life sciences en alfa/gamma). Medewerkers van NWO-Domein TTW (TTW), NWO-Domein SGW en ZonMw zijn betrokken bij de uitvoering.
 
@@ -56,6 +37,10 @@ Voorts kan de subsidie worden gebruikt voor opleiding in ondernemersvaardigheden
 
 Aan het einde van de haalbaarheidsstudie zijn in ieder geval twee deelrapporten opgesteld.
 
+- 1. Een strategische rapportage met de resultaten van de haalbaarheidsstudie;
+
+- 2. Opzet voor een businessplan met bijbehorende presentatie dat, desgewenst kan worden gebruikt bij een fase 2 aanvraag;
+
 De haalbaarheidsstudies kunnen bij positieve resultaten aanleiding zijn voor het indienen van een aanvraag voor een vroegefasetraject (fase2), het andere onderdeel van het programma Take-off.
 
 ### 1.3. Beschikbaar budget
@@ -74,11 +59,23 @@ Take-off WO is een doorlopend programma met jaarlijks een voorjaarsronde en een 
 
 Haalbaarheidsstudies worden binnen zes maanden na honorering gestart en lopen maximaal zes maanden.
 
-Bij de haalbaarheidsstudie gaat het om **een strategische rapportage**dat in ieder geval het volgende bevat:
+Bij de haalbaarheidsstudie gaat het om *een strategische rapportage*dat in ieder geval het volgende bevat:
+
+- – de reële inschatting van de praktische en commerciële mogelijkheden van de door de start-up voorgenomen activiteiten op basis van een systematisch opgezette en afgeronde analyse;
+
+- – de belangrijkste vooronderstellingen van de case;
+
+- – gerichte feedback uit de markt (potentiële klanten, zakelijke partners en investeerders);
+
+- – een itererende ontwikkel- en ontwerpaanpak;
 
 Voorts kan de subsidie worden gebruikt voor opleiding in ondernemersvaardigheden en/of het ontwikkelen van tools die gebaseerd zijn op onderzoek (bijv. het ontwikkelen van een game).
 
 Aan het einde van de haalbaarheidsstudie zijn in ieder geval twee deelrapporten opgesteld.
+
+- 1. Een strategische rapportage met de resultaten van de haalbaarheidsstudie;
+
+- 2. Opzet voor een businessplan met bijbehorende presentatie dat kan worden gebruikt bij een fase 2 aanvraag;
 
 De haalbaarheidsstudies kunnen bij positieve resultaten aanleiding zijn voor het indienen van een aanvraag voor een vroegefasetraject, het andere onderdeel van het Take-off programma.
 
@@ -86,17 +83,62 @@ De haalbaarheidsstudies kunnen bij positieve resultaten aanleiding zijn voor het
 
 Het tijdpad voor de 7e ronde ronde Take-off WO fase 1 – haalbaarheidsstudies:
 
+| 22 juni 2017 | Openstelling call |
+| --- | --- |
+| 5 september 2017 14:00u CEST | Deadline indiening intentieverklaring |
+| 3 oktober 2017 14:00u CEST | Deadline indiening volledige aanvragen |
+| November 2017 | Periode interviewdagen |
+| 11 december 2017 | Bekendmaking van het besluit (onder voorbehoud) |
+
 ### 2. Richtlijnen voor het aanvragen fase 1 – haalbaarheidsstudies
 
 ### 2.1. Wie kan aanvragen
 
 Onderzoekers met een vaste (deeltijd)aanstelling aan één van de volgende kennisinstellingen kunnen aanvragen indienen:
 
+- – Nederlandse universiteiten
+
+- – Universitaire Medische Centra;
+
+- – Prinses Máxima Centrum
+
+- – KNAW- en NWO-instituten;
+
+- – het Nederlands Kanker Instituut (NKI);
+
+- – het Max Planck Instituut voor Psycholinguïstiek te Nijmegen;
+
+- – de Dubble-bundellijn bij de ESRF te Grenoble;
+
+- – NCB Naturalis;
+
+- – Advanced Research Centre for NanoLithography (ARCNL).
+
 ### 2.2. Wat kan aangevraagd worden
 
 Verstrekt worden subsidies tot maximaal € 40.000,– ter vergoeding van tot maximaal 100% van de gemaakte projectkosten. De volgende kostensoorten worden geaccepteerd:
 
+- – Kosten van personeel in dienst van de universiteit (o.a. student-assistenten,
+
+- – technici, postdocs). Voor iedere functie hanteert NWO-TTW een vooraf bepaald vast maximumtarief per aanstellingsjaar (zie www.stw.nl/nl/aanvrager);
+
+- – Kosten van derden, voor zover zij projectactiviteiten uitvoeren in opdracht van de aanvrager, maximaal € 125 per uur;
+
+- – Kosten van gebruiksgoederen, kleine instrumenten en hulpmiddelen;
+
+- – investeringen in apparatuur en uitrusting. Deze dienen eigendom te worden van de startup;
+
+- – Reis- en verblijfskosten;
+
+- – Kosten voor octrooibescherming gedurende de looptijd van de studie, mits de octrooi in bezit is van de startup;
+
+- – Overige direct aan het project gerelateerde kosten. Ook vallen onder deze post studiekosten zoals het opdoen van ondernemersvaardigheden;
+
 De genoemde kostensoorten dienen in de aanvraag nader gespecificeerd te worden. Niet vergoed worden:
+
+- – Algemene bedrijfskosten (zoals oprichtings-, notaris-, accountant- en administratiekosten, etc.);
+
+- – Kosten gemaakt voorafgaand aan de honorering;
 
 ### 2.3. Wanneer kan aangevraagd worden
 
@@ -110,13 +152,35 @@ Het doen van een aanvraag bestaat uit twee stappen: 1) het indienen van een inte
 
 De intentieverklaring betreft een “expression of interest” bedoeld om:
 
+- – Eerder inzicht te krijgen bij TTW in het aantal en de aard van in behandeling te nemen aanvragen en de capaciteitsplanning daar op te kunnen afstemmen;
+
+- – Een contactmoment met de aanvragers te creëren waardoor het voor NWO-TTW mogelijk wordt om eerder de volledigheid/ontvankelijkheid van de voorgenomen aanvraag te kunnen toetsen;
+
+- – De aanvrager in de gelegenheid te stellen de bij indiening benodigde informatie te completeren voor de definitieve deadline;
+
 Een intentieverklaring bestaat uit:
+
+- 1) Het intentieverklaringsformulier ‘Take-off-intentieverklaring-fase1- haalbaarheidsstudie-ronde7 WO’’ met
+
+   - – Gegevens over de hoofdaanvrager en de start-up;
+
+   - – Gegevens van de kennisinstelling en de connectie met de start-up;
+
+   - – Een getekend document tussen de kennisinstelling en de startup: een overeenkomst of getekende brief waarmee de kennisinstelling verklaart de kennis aan de startup beschikbaar te willen stellen of over te dragen;
 
 De uiterste indien datum voor de intentieverklaring is 5 september 2017 14:00u CEST, een maand voor de indieningsdatum van het volledige voorstel. Zonder ingediende intentieverklaring kan geen volledige aanvraag worden ingediend. Het e-mail adres waarnaar de intentieverklaring opgestuurd dient te worden is Take-off@nwo.nl.
 
 ### 2.4.2. Stap 2: De volledige aanvraag
 
 Uw volledige aanvraag bestaat uit twee delen:
+
+- 1) Een volledig ingevuld en van alle benodigde handtekeningen voorzien aanvraagformulier, met inbegrip van alle verplichtte en eventuele optionele bijlagen:
+
+   - – Het aanvraagformulier ‘Take-off-aanvraagformulier-fase1-haalbaarheidsstudieronde7 WO’, kunt u downloaden van de website www.stw.nl/takeoff. Alleen aanvragen die met het aanvraagformulier zijn ingevuld worden in behandeling genomen. Het complete aanvraagformulier wordt als één PDF bestand via ISAAC ingediend. Het pdf-document mag op geen enkele wijze beveiligd zijn om een goede verwerking van uw aanvraag te garanderen;
+
+- 2) Een volledig ingevulde factscheet:
+
+   - – Deze kunt u bij het indienen van de aanvraag *direct*in het elektronisch aanvraagsysteem ISAAC in vullen. Er is geen seperaat formulier;
 
 Indien een video onderdeel is van de aanvraag kan deze in overleg met TTW worden opgenomen in de aanvraag en desgewenst worden getoond aan de Adviescommissie als onderdeel van het interview. De video mag maximaal 2 minuten zijn.
 
@@ -132,7 +196,7 @@ De intentieverklaring dient uiterlijk 5 september 2017 14:00u CEST, 1 maand voor
 
 Het indienen van de volledige aanvraag kan alleen via het online aanvraagsysteem ISAAC. Aanvragen die niet via ISAAC zijn ingediend, worden niet in behandeling genomen. Een hoofdaanvrager is verplicht zijn/haar aanvraag via zijn/haar eigen ISAAC-account in te dienen. Indien de hoofdaanvrager nog geen ISAAC-account heeft, dient hij/zij dat minimaal een dag voor het indienen aan te maken. Dit om eventuele aanmeldproblemen op tijd te kunnen verhelpen. Indien de hoofdaanvrager al een account bij NWO heeft, hoeft deze geen nieuw account aan te maken om een nieuwe aanvraag in te dienen.
 
-Voor vragen van technische aard verzoeken wij u contact op te nemen met de ISAAC helpdesk, zie 4.1.2.
+Voor vragen van technische aard verzoeken wij u contact op te nemen met de ISAAC helpdesk, zie [4.1.2](https://wetten.overheid.nl/BWBR0039729).
 
 ### 3. Beoordelingsprocedure fase 1 − haalbaarheidsstudies
 
@@ -160,7 +224,21 @@ In uitzonderlijke gevallen kan het zijn dat er meer dan vier keer zoveel volledi
 
 Bij de ontvankelijkheid van de volledige aanvragen voor haalbaarheidsstudies wordt allereerst gekeken naar een aantal voornamelijk formele vereisten die worden gesteld aan de aanvraag, zijnde:
 
-Vervolgens wordt door de Adviescommissie per aanvraag een rapport met schriftelijke bevindingen opgesteld aan de hand van de gestelde criteria (zie 3.9). Deze bevindingen worden naar de aanvragers gezonden. De aanvragers kunnen de bevindingen gebruiken ter voorbereiding op het interview.
+- – De aanvraag is voor de deadline ingediend;
+
+- – De aanvraag is correct en volledig opgesteld;
+
+- – De aanvraag is volgens het opgegeven format;
+
+- – De aanvraag is ingediend door daartoe bevoegde instanties of personen (zie [3.1: Wie kan aanvragen](https://wetten.overheid.nl/BWBR0039729));
+
+- – De aanvraag is gebaseerd op eerder uitgevoerd wetenschappelijk onderzoek binnen een kennisinstelling;
+
+- – De aangevraagde kosten mogen niet hoger zijn dan € 40.000;
+
+- – De tarieven overschrijden niet de daartoe gestelde maxima (zie [2.2: Wat kan aangevraagd worden](https://wetten.overheid.nl/BWBR0039729));
+
+Vervolgens wordt door de Adviescommissie per aanvraag een rapport met schriftelijke bevindingen opgesteld aan de hand van de gestelde criteria (zie [3.9](https://wetten.overheid.nl/BWBR0039729)). Deze bevindingen worden naar de aanvragers gezonden. De aanvragers kunnen de bevindingen gebruiken ter voorbereiding op het interview.
 
 ### 3.6. Interviews en rangschikking
 
@@ -177,6 +255,34 @@ De NWO-bezwaarregeling is op de regeling van toepassing (www.nwo.nl/code).
 ### 3.9. Rangschikkingscriteria
 
 De rangschikkingscriteria voor Take-off WO fase 1 – haalbaarheidstudies zijn:
+
+- 1. *Kennisbasis en innovativiteit*
+
+   - – kennis die aan de basis ligt van het bedrijfsidee;
+
+   - – vernieuwende elementen;
+
+- 2. *Commercieel potentieel*
+
+   - – toepassingsmogelijkheden en toegevoegde waarde;
+
+   - – markt- en commerciële perspectieven;
+
+- 3. *Kwaliteiten van het team*
+
+   - – wetenschappelijke expertise aanvrager(s) en ondersteunend personeel;
+
+   - – ondernemers- en commerciële vaardigheden;
+
+   - – Motivatie en ambitieniveau van het betrokken team
+
+- 4. *Kwaliteit van het projectplan*
+
+   - – praktische en economische aanpak;
+
+   - – activiteitenplan;
+
+   - – projectbegroting, opgesplitst naar projectactiviteit;
 
 De wegingsfactor van de beoordelingscriteria is 1:1:1:1.
 
@@ -251,6 +357,22 @@ Aanvrager dient gebruik te maken van het vastgestelde aanvraagformulier en de da
 Take-off haalbaarheidsstudies is een instrument gericht op het creëren van nieuwe innovatieve bedrijvigheid die het gevolg is van kennisbenutting bij universiteiten en publieke kennisinstellingen. Take-off haalbaarheidsstudies is daarmee onderscheidend en aanvullend ten opzichte van andere instrumenten van TTW.
 
 Speciale subsidievoorwaarden die van toepassing zijn:
+
+- – Voor duur en beëindiging van het project geldt dat de maximale duur van een Take-off haalbaarheidsstudieproject een half (0,5) jaar is. De financiering vangt aan op de startdatum en eindigt uiterlijk een half (0,5) jaar na de startdatum;
+
+- – De startdatum van een Take-off haalbaarheidsstudieproject zal binnen 6 maanden na de dagtekening van het honoreringsbesluit zijn, tenzij TTW schriftelijk toestemming geeft voor een latere startdatum;
+
+- – Tijdelijke en vaste personeelsplaatsen voor financiering in aanmerking komen tot een maximum van de duur van het project;
+
+- – Te maken ‘out of pocket’ octrooikosten voor indiening of instandhouding van (een) octrooi(aanvrage)(n) gedurende de duur van het Take-off haalbaarheidsstudieproject kunnen in aanmerking komen voor financiering voor zover onderdeel van de goedgekeurde begroting;
+
+- – Te maken kosten door derden voor zover deze projectactiviteiten betreffen die in opdracht van de projectleider door derden worden uitgevoerd kunnen in aanmerking komen voor financiering voor zover onderdeel van de goedgekeurde begroting;
+
+- – De projectleider rapporteert eenmaal per Take-off haalbaarheidsstudieproject schriftelijk over de voortgang van het project, middels een eindrapport;
+
+- – De Take-off financiering voor haalbaarheidsstudies is een persoonsgebonden subsidie. TTW kan te allen tijde de financiering tussentijds beëindigen indien de projectleider niet meer in staat is het project te leiden en er geen geschikte vervanger kan worden gevonden door de projectleider en het projectteam in overleg met TTW;TTW is bevoegd de subsidieverlening in te trekken of te wijzigen indien de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden, danwel de begunstigde niet heeft voldaan aan de voorwaarden, danwel onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste gegevens tot een andere beschikking zou hebben geleid, danwel de subsdieverlening onjuist was en begunstigde dit hoorde te weten;
+
+- – Indien sprake is van gewijzigde omstandigheden waardoor kan worden gesproken over een substantiële wijziging van het vroegefaseplan en niet meer wordt voldaan aan het honoreringsvoorwaarden dient hiervan melding te worden gemaakt bij TTW. Te denken valt aan o.a.: een wijziging van het team dat van invloed is op de uitvoering van het projectplan etc.;
 
 STW & Nederlandse Organisatie voor Wetenschappelijk Onderzoek
 

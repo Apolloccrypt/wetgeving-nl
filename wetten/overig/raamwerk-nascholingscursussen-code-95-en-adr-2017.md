@@ -1,35 +1,16 @@
 ---
 title: "Raamwerk nascholingscursussen Code 95 en ADR (2017)"
 identifier: "BWBR0039074"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-01-06"
-last_updated: "2017-01-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039074"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13867273"
-version_id: "23810512"
-internal_id: "C34255351"
-label_id: "13833234"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039074/2017-01-06/0"
-intitule_bron: "Stcrt.2017-466"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-01-06"
-intitule_in_force: "2017-01-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-466"
-original_published_date: "2017-01-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-466"
-entry_into_force_date: "2017-01-06"
-jci_1_3: "jci1.3:c:BWBR0039074&z=2017-01-06&g=2017-01-06"
-jci_1_0: "1.0:c:BWBR0039074&g=2017-01-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-01-06"
+publicatiedatum: 2017-01-06
+laatste_update: 2017-01-06
+status: geldig
+toestand: 2017-01-06
+bron: "https://wetten.overheid.nl/BWBR0039074"
+opgehaald: 2026-08-25
 ---
+
 # Raamwerk nascholingscursussen Code 95 en ADR (2017)
 
 ### Hoofdstuk 1. Toelichting op het raamwerk
@@ -44,7 +25,7 @@ In dit raamwerk wordt ingegaan op de positie van CCV, de aanvraagprocedure voor 
 
 ### Hoofdstuk 2. Positie van de divisie ccv
 
-CCV is aangewezen als exameninstituut dat besluit tot erkenning van opleidingsinstituten voor het uitvoeren van nascholingscursussen en tot certificering van nascholingscursussen. Daarnaast houdt CCV toezicht op de naleving van de eisen die hieraan worden gesteld. Dit gebeurt op basis van de [Wegenverkeerswet 1994](onbekend), het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) en de [Regeling vakbekwaamheid bestuurders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031458) en de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606), gelet op de [Regeling vervoer over land van gevaarlijke stoffen artikel 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2), juncto Hoofdstuk 8 van het ADR.
+CCV is aangewezen als exameninstituut dat besluit tot erkenning van opleidingsinstituten voor het uitvoeren van nascholingscursussen en tot certificering van nascholingscursussen. Daarnaast houdt CCV toezicht op de naleving van de eisen die hieraan worden gesteld. Dit gebeurt op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622), het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) en de [Regeling vakbekwaamheid bestuurders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031458) en de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606), gelet op de [Regeling vervoer over land van gevaarlijke stoffen artikel 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2), juncto Hoofdstuk 8 van het ADR.
 
 ### Hoofdstuk 3. Aanvraagprocedure
 
@@ -72,13 +53,53 @@ Voor het verkrijgen en behouden van de erkenning voor nascholing dient het oplei
 
 Het opleidingsinstituut zorgt ervoor dat:
 
+- 4.1.1.a. het ingeschreven staat bij de Kamer van Koophandel (Nederland);
+
+- 4.1.1.b. bij voortduring wordt voldaan aan de eisen en overige verplichtingen die gelden voor de erkenning;
+
+- 4.1.1.c. een juiste administratie wordt gevoerd;
+
+- 4.1.1.d. gebruik wordt gemaakt van geschikt materieel en materiaal;
+
+- 4.1.1.e. er geen deelnemers worden benadeeld of bevoorrecht;
+
+- 4.1.1.f. personen die onder zijn verantwoordelijkheid werken, zoals docenten, geen verbaal of fysiek geweld plegen of daarmee dreigen.
+
+- 4.1.1.g. de nascholingsuren worden gevolgd binnen een reëel tijdspad waarbij het didactische aspect zoveel mogelijk tot zijn recht komt. Concreet houdt dit in dat:
+
+   - – een cursist maximaal 1 reguliere cursus per dag mag volgen;
+
+   - – een cursist maximaal 2 e-learning of 2 opgeknipte cursussen (of een combinatie daarvan) op één dag mag volgen of afronden in maximaal 9 cursusuren; en
+
+   - – een cursist op één cursusdag geen combinatie van een 7-uur durende reguliere cursus samen met een e-learning of opgeknipte cursus volgt of afrond.
+
 ### 4.1.2. Eisen locatie
 
 Het opleidingsinstituut zorgt ervoor dat:
 
+- 4.1.2.a. de nascholingscursus in Nederland wordt gegeven;
+
+- 4.1.2.b. de nascholingscursus op de aangemelde locatie wordt gegeven;
+
+- 4.1.2.c. de locatie onbelemmerd toegankelijk is voor steekproefnemers;
+
+- 4.1.2.d. de locatie waar de cursus wordt uitgevoerd hiervoor is ingericht. Dat wil zeggen dat er onder andere: voldoende en passend meubilair is, docent verstaanbaar en zichtbaar is, locatie voldoende verlicht is, een passende temperatuur heeft en er voldoende ventilatie is;
+
+- 4.1.2.e. tijdens de nascholingscursus de locatie niet voor andere doeleinden wordt gebruikt;
+
+- 4.1.2.f. de locatie voldoet aan wettelijke veiligheidsvoorschriften. Als locatie wordt tevens aangemerkt de cabine van een voertuig;
+
+- 4.1.2.g. indien er tijdens de nascholingscursus wordt gereden dient er voor iedere inzittende een deugdelijke zitplaats te zijn volgens de definitie zitplaats uit de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798). Voor voertuigen voor het eerst op kenteken gezet na 31 augustus 2013 geldt aanvullend dat iedere zitplaats, conform de eisen in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798), vermeld moet zijn op het kentekenbewijs
+
+- 4.1.2.h. de locatie geschikt en toereikend is voor het aantal cursisten dat deelneemt aan de cursus;
+
 ### 4.1.3. Eisen identificatie
 
 Het opleidingsinstituut zorgt ervoor dat:
+
+- 4.1.3.a bij aanvang van de cursusdag het wettige en geldige identiteitsbewijs van iedere cursist die is aangemeld in TOP internet wordt gecontroleerd;
+
+- 4.1.3.b een niet verschenen cursist of een cursist zonder geldig identiteitsbewijs binnen 30 minuten na aanvang van de cursus in TOP internet als ‘niet verschenen’ wordt geregistreerd.
 
 ### 4.2. Certificering nascholingscursus
 
@@ -88,13 +109,115 @@ Voor het verkrijgen en behouden van de certificering van een nascholingscursus d
 
 Het opleidingsinstituut zorgt ervoor dat:
 
+- 4.2.1.a de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en de eisen zoals deze zijn gedefinieerd in het onderhavige raamwerk. Bij discrepantie tussen de documenten en de eisen, prevaleren de eisen uit het onderhavige raamwerk.
+
+- 4.2.1.b de cursus wordt uitgevoerd conform het bij de aanvraag aangeleverde opleidingsplan. Het opleidingsplan omvat:
+
+   - • een verwijzing naar de betrokken minimumeisen in het onderhavige raamwerk;
+
+   - • de leerdoelen;
+
+   - • de lesonderwerpen die de opleider in de nascholingscursus behandeld;
+
+   - • de omvang van de lesonderwerpen;
+
+   - • de didactische werkvormen;
+
+   - • het te gebruiken (les)materiaal en materieel;
+
+   - • de kwalificaties van de docent.
+
+- 4.2.1.c Lesmateriaal en het opleidingsplan dienen op de uitvoeringslocatie aanwezig te zijn en op verzoek van CCV bij CCV te worden ingediend.
+
+- 4.2.1.d een praktijktraining of een theoriecursus minimaal 7 klokuren beslaat, met uitzondering van pauzes en examentijd. Per 7 klokuren mag maximaal 90 minuten vrije ruimte worden behandeld. Vrije ruimte is een onderwerp dat niet onder het hoofdonderwerp van de cursus valt, maar wel relevant is voor beroepschauffeurs in het licht van de doelstelling van de Richtlijn vakbekwaamheid;
+
+- 4.2.1.e bij de uitvoering van de cursus het aantal deelnemers niet groter is dan het maximum aantal dat in de onderliggende minimumeis is aangeven. Indien er gebruik wordt gemaakt van de vrije ruimte kan het aantal deelnemers, bijvoorbeeld bij praktijkoefeningen, worden bijgesteld;
+
+- 4.2.1.f bij een cursus van 7 klokuren die in dagdelen wordt gegeven het volgende in acht wordt genomen:
+
+   - – de cursus mag in maximaal twee dagdelen worden gegeven;
+
+   - – deze dagdelen dienen op verschillende dagen binnen een periode van 10 kalenderdagen te zijn afgerond;
+
+   - – een dagdeel heeft minimaal een omvang van 2,5 uur.
+
+- 4.2.1.g in een praktijktraining iedere deelnemer ten minste 2,5 uur zelf rijdt, in aanwezigheid van een gekwalificeerde docent;
+
+- 4.2.1.h CCV te allen tijde een onbelemmerde toegang heeft bij het afnemen van steekproeven. Kosten voor het niet of niet volledig uit kunnen voeren van steekproeven, bij een belemmerde toegang, dan wel een andere oorzaak, komen voor rekening van de opleider;
+
+- 4.2.1.i er een goede (telefonische) bereikbaarheid is van docenten;
+
+- 4.2.1.j de cursus wordt uitgevoerd volgens de eisen uit het onderhavige raamwerk ten aanzien van E-learning;
+
+- 4.2.1.k de cursus wordt uitgevoerd volgens de eisen uit het onderhavige raamwerk ten aanzien van de simulatoren.
+
 ### 4.2.2. Eisen docenten
 
 Het opleidingsinstituut zorgt ervoor dat:
 
+- 4.2.2.a. de door hem in te zetten docenten deskundig, integer en objectief zijn; Deskundig wil zeggen:
+
+   - • docenten beschikken over de kwalificaties vermeld in de betrokken minimumeisen van het raamwerk nascholingscursussen;
+
+   - • docenten beschikken over een goede kennis van de ontwikkelingen op het vakgebied waar de cursus betrekking op heeft;
+
+   - • docenten kennen de voorschriften en opleidingseisen m.b.t. de nascholing en kunnen deze toepassen in de cursus;
+
+   - • docenten beschikken over didactische vaardigheden om de stof goed aan de cursisten over te kunnen brengen.
+
+- 4.2.2.b. de docent tijdens elke cursusdag een geldig identiteitsbewijs kan tonen;
+
+- 4.2.2.c. de docent tijdens elke cursusdag kan aantonen dat hij over de benodigde kwalificaties beschikt. Indien er gebruik wordt gemaakt van de vrije ruimte kunnen er, bijvoorbeeld bij praktijkoefeningen, aanvullende docentkwalificaties gevraagd worden;
+
+- 4.2.2.d. de docent bij het uitoefenen van de werkzaamheden als docent niet wordt aangemeld als cursist.
+
 ### 4.2.3. Eisen Cursusdag
 
 Het opleidingsinstituut zorgt ervoor dat:
+
+- 4.2.3.a. cursusdagen plaatsvinden tussen de begin- en eindtijd zoals aangegeven in TOP. Cursusdagen mogen plaats vinden op: maandag tot en met vrijdag tussen 7.00 uur en 22.00 uur en zaterdag tussen 7.00 uur en 18.00 uur. Op zondagen en landelijke feestdagen (met uitzondering van 5 mei en Goede vrijdag) mogen er geen nascholings- of ADR cursussen plaatsvinden.
+
+- 4.2.3.b. cursusdagen, uiterlijk 2 dagen voor de uitvoeringsdag, worden aangemeld in TOP internet. Het opleidingsinstituut is verplicht om de aanwijzingen van CCV met betrekking tot de wijze van registratie van cursusdagen en cursisten op te volgen;
+
+- 4.2.3.c. cursusgegevens correct worden geregistreerd;
+
+- 4.2.3.d. de cursisten bij een opgeknipte cursus, beide delen doorlopen, binnen de daarvoor geldende termijn;
+
+- 4.2.3.e. de cursus in het Nederlands wordt gegeven en de deelnemers het Nederlands voldoende beheersen om de cursus te kunnen volgen;
+
+- 4.2.3.f. de cursist tijdens de cursusdag niet productief is ('On the job'-cursusdag is niet toegestaan.) Indien tijdens de cursusdag lading geladen of gelost moet worden, dient het te gaan om dezelfde lading die op dezelfde locatie, geladen en gelost wordt (of vice versa);
+
+- 4.2.3.g. de cursist tijdens de cursusdag niet onder invloed van alcohol of drugs is;
+
+- 4.2.3.h. er tijdens de cursusdag maximaal 30 minuten aan een oefentoets besteed wordt;
+
+- 4.2.3.i. bij een praktijktraining het startpunt hetzelfde is als het eindpunt;
+
+- 4.2.3.j. bij een praktijktraining bij aanvang het vereiste geldige rijbewijs, voor het voertuig waarmee gereden wordt, wordt gecontroleerd;
+
+- 4.2.3.k. indien een praktijktraining plaatsvindt op een besloten terrein, het terrein hier zich qua omvang en inrichting voor leent. Alleen als de minimumeisen dit aangeven kan een besloten terrein ingezet worden;
+
+- 4.2.3.l. de uitvoeringslocatie van de cursus in TOP internet is aangegeven. Bij het rijden op de openbare weg, geeft het opleidingsinstituut de start- en eindlocatie aan en zorgt dat de kandidaten de eerste en de laatste vijftien minuten op de opgegeven locatie aanwezig zijn;
+
+- 4.2.3.m. de gegevens van minimaal één cursist uiterlijk 2 dagen voor de uitvoeringsdag correct zijn ingevoerd in TOP internet. De gegevens van de overige cursisten dienen uiterlijk 30 minuten na aanvang van de cursus te zijn ingevoerd in TOP internet.
+
+- 4.2.3.n. bij iedere cursusdag de uit TOP internet verkregen en door docent en cursisten aan het begin van de cursusdag getekende presentielijst beschikbaar is. Er mogen geen cursisten op de presentielijst worden bijgeschreven;
+
+- 4.2.3.o. de TOP-presentielijst direct na afloop van de cursusdag wordt afgetekend door de cursisten;
+
+- 4.2.3.p. 4.2.3.p. de presentielijst tijdens een steekproef per direct kan worden getoond;
+
+- 4.2.3.q. uiterlijk 4 dagen na elke cursusdag alle cursisten, die de gehele cursusdag aanwezig waren, zijn geregistreerd als ‘verschenen’ in TOP internet
+
+- 4.2.3.r. de presentielijst uit TOP internet voor de periode van ten minste 1 jaar na de cursusdag op een beveiligde manier wordt bewaard;
+
+- 4.2.3.s. bij het vervallen van een reeds aangemelde cursusdag, de cursistgegevens correct en tijdig worden verwijderd uit TOP internet;
+
+- 4.2.3.t. als een cursusdag voortijdig wordt beëindigd de betreffende cursist(en) binnen 30 minuten na het moment van beëindigen, is(zijn) geregistreerd als ‘afgebroken’ in TOP internet;
+
+- 4.2.3.u. alleen als er sprake is van een storing van TOP internet, waarbij de oorzaak bij CCV ligt, cursisten worden afgemeld per e-mail, onder vermelding van de reden: ‘niet verschenen’, dan wel ‘afgebroken’. De melding dient binnen 30 minuten na het ontstaan van de situatie te zijn doorgegeven;
+
+- 4.2.3.v. tot maximaal 30 minuten na aanvang van de cursusdag wijzigingen worden doorgevoerd. Tot dit moment kan een actuele presentielijst uit TOP internet worden verkregen.
 
 ### Hoofdstuk 5. Geldigheidsduur
 
@@ -104,7 +227,11 @@ Een erkenning als opleidingsinstituut en certificering van een nascholingscursus
 
 CCV houdt op twee manieren toezicht op de nascholing, namelijk:
 
-Als in strijd met de gestelde eisen en verplichtingen wordt gehandeld, kan CCV de maatregelen opleggen, die in artikel 6.2. zijn genoemd.
+- • door het beoordelen van de aanvraag voor erkenning en certificering
+
+- • door toezicht te houden door het uitvoeren van (onaangekondigde) steekproeven.
+
+Als in strijd met de gestelde eisen en verplichtingen wordt gehandeld, kan CCV de maatregelen opleggen, die in [artikel 6.2](https://wetten.overheid.nl/BWBR0039074). zijn genoemd.
 
 Welke maatregel wordt opgelegd is afhankelijk van de zwaarte van de overtreding.
 
@@ -118,15 +245,35 @@ Het is mogelijk dat het opleidingsinstituut een overtreding begaat die niet spec
 
 ### 6.1.1. Categorieën overtredingen erkenning opleidingsinstituut
 
-**Categorie A**. overtredingen zijn onder meer:
+*Categorie A*. overtredingen zijn onder meer:
 
-**Categorie B.** overtredingen zijn onder meer:
+- – handelen in strijd met de *4.1.1. Eisen algemeen*, nummers: 4.1.1.a., 4.1.1.b., 4.1.1.c., 4.1.1.d., 4.1.1.g.
+
+- – handelen in strijd met de *4.1.2. Eisen locatie*, nummers: 4.1.2.a., 4.1.2.b., 4.1.2.c., 4.1.2.d., 4.1.2.e., 4.1.2.f., 4.1.2.g., 4.1.2.h.
+
+- – handelen in strijd met de *4.1.3. Eisen identificatie*, nummers: 4.1.3.a., 4.1.3.b.
+
+*Categorie B.* overtredingen zijn onder meer:
+
+- – handelen in strijd met de *4.1.1. Eisen algemeen*, nummers: 4.1.1.e., 4.1.1.f.
 
 ### 6.1.2. Categorieën overtredingen certificering nascholingscursussen
 
-**Categorie 1.** overtredingen zijn onder meer:
+*Categorie 1.* overtredingen zijn onder meer:
 
-**Categorie 2.** overtredingen zijn onder meer:
+- – handelen in strijd met *4.2.1. Eisen algemeen*, nummers: 4.2.1.a., 4.2.1.b., 4.2.1.e., 4.2.1.h., 4.2.1.i., 4.2.1.j., 4.2.1.k.
+
+- – handelen in strijd met *4.2.2. Eisen docenten*, nummers: 4.2.2.b., 4.2.2.c.
+
+- – handelen in strijd met de *4.2.3. Eisen cursusdag*, nummers: 4.2.3.a., 4.2.3.b.,4.2.3.h, 4.2.3.k., 4.2.3.l., 4.2.3.m., 4.2.3.n., 4.2.3.o., 4.2.3.p., 4.2.3.q., 4.2.3.t., 4.2.3.v
+
+*Categorie 2.* overtredingen zijn onder meer:
+
+- – handelen in strijd met *4.2.1. Eisen algemeen*, nummers: 4.2.1.c., 4.2.1.d., 4.2.1.f., 4.2.1.g.
+
+- – handelen in strijd met *4.2.2. Eisen docenten*, nummers: 4.2.2.a., 4.2.2.d.
+
+- – handelen in strijd met de *4.2.3. Eisen cursusdag*, nummers: 4.2.3.c., 4.2.3.d., 4.2.3.e., 4.2.3.f., 4.2.3.g., 4.2.3.i., 4.2.3.j., 4.2.3.r., 4.2.3.s., 4.2.3.u.
 
 ### 6.2. Sanctionering
 
@@ -202,6 +349,18 @@ Een deel van de nascholing kan met behulp van E-learning uitgevoerd worden. In d
 
 Bij het uitvoeren van nascholingscursussen met behulp van E-learning gelden de volgende randvoorwaarden:
 
+- 8.1.1. E-learning wordt altijd via dagdelen ingevuld (met maximaal 10 kalenderdagen tussen dagdeel 1 en dagdeel 2);
+
+- 8.1.2. dagdeel 1 van de cursus wordt met E-learning ingevuld;
+
+- 8.1.3. de omvang van het E-learning deel is minimaal 2,5 uur (is de tijd die een deelnemer nodig heeft om de e-learning module te doorlopen);
+
+- 8.1.4. dagdeel 2, heeft een minimale omvang van 2,5 uur en wordt altijd klassikaal uitgevoerd. Dagdeel 2 bestaat uit:
+
+   - 8.1.4.a. een dekkende kennistoets, over het E-learning deel, met een realistische normering;
+
+   - 8.1.4.b. gevolgd door een klassikale verdieping op een of meerdere onderwerpen uit de nascholingscursus.
+
 ### 8.2. Systeemeisen E-learning
 
 Om te borgen dat bij de inzet van E-learning gebruik gemaakt wordt van een adequaat systeem, zijn er een aantal systeemeisen/criteria opgesteld.
@@ -214,29 +373,103 @@ Een E-learningsysteem is een online leersysteem, waarin leerstof aan deelnemers 
 
 Het online leersysteem bevat:
 
+- 8.2.1.a. een borging dat deelnemers actief zijn bij het doorlopen van de module (b.v. regelmatige interactie nodig op de computer);
+
+- 8.2.1.b. de leerstof in gevarieerde vormen wordt aangeboden (tekst, beeld, audio, video, vragen, reflectie, e.d.);
+
+- 8.2.1.c. bestudeerde onderdelen tussentijds worden getoetst (met een drempel om door te gaan naar een volgend hoofdstuk);
+
+- 8.2.1.d. de leerstof een uitwerking is van het onderliggende opleidingsprogramma (inhoudelijk en in verdeling van tijd).
+
 ### 8.2.2. Inhoudelijk
 
 De E-learning cursus heeft de volgende kenmerken:
+
+- 8.2.2.a. toegankelijke leerstof (tekst en beeld), die begrijpelijk is voor de deelnemer;
+
+- 8.2.2.b. leerstof die aansluit op het onderliggende opleidingsprogramma;
+
+- 8.2.2.c. lesstof die sturend is en de deelnemer door de module begeleidt;
+
+- 8.2.2.d. toelichtende video en/of animaties (variëren in gebruik tekst, beeld, audio, video);
+
+- 8.2.2.e. toetsvragen, ter controle of leerstof begrepen is (met gemotiveerde antwoorden);
+
+- 8.2.2.f. tussentoetsen, die met een voldoende moeten worden afgesloten om naar een volgend hoofdstuk door te kunnen gaan.
 
 ### 8.2.3. Ondersteuning
 
 Het systeem biedt de volgende ondersteuning voor de deelnemers:
 
+- 8.2.3.a. het systeem kent een helpdeskfunctie. Vragen die een deelnemer stelt, worden binnen 24 uur/1 werkdag beantwoord;
+
+- 8.2.3.b. het systeem biedt een duidelijke en gebruiksvriendelijke navigatiestructuur, die de deelnemer door het programma leidt. De navigatiestructuur is voor iedereen (evt. met behulp van een eenvoudige instructie) zonder problemen te hanteren;
+
+- 8.2.3.c. het systeem geeft aan welke onderdelen de deelnemer doorlopen heeft, zodat de deelnemer steeds inzicht heeft wat hij nog moet doen;
+
+- 8.2.3.d. het systeem biedt via een leerling volg systeem mogelijkheden tot interactie tussen de deelnemer en de begeleidende docent (op afstand). De docent kan de voortgang van de deelnemer in de gaten houden. De leerling kan bij problemen met het verwerken van de stof een beroep doen op ondersteuning van de begeleidende docent. De begeleidende docent kan via het systeem in contact treden met de deelnemer en andersom. De volgende functies zijn via het leerlingvolgsysteem beschikbaar:
+
+   - 1) bestede studie-uren (totaal en per onderdeel), per deelnemer en per deelnemersgroep;
+
+   - 2) beantwoorde vragen individueel;
+
+   - 3) beantwoorde vragen per deelnemersgroep.
+
 ### 8.2.4. Veiligheidsmaatregelen/borging
 
 Het systeem kent de volgende functies, ter borging van een juist gebruik:
+
+- 8.2.4.a. iedere deelnemer heeft toegang tot het E-learning systeem via unieke inloggegevens (unieke code of gebruikersnaam/wachtwoord);
+
+- 8.2.4.b. op 1 apparaat kan met 1 E-learning-account ingelogd worden (niet met meerdere tegelijkertijd);
+
+- 8.2.4.c. de toegang van een deelnemer is gekoppeld aan een opleider en een (gecertificeerde) nascholingscursus;
+
+- 8.2.4.d. in het systeem wordt de termijn vastgelegd waarbinnen de E-learning module moet worden doorlopen. Na het aflopen van de termijn, vervalt de toegang tot het systeem voor de deelnemer;
+
+- 8.2.4.e. de activiteiten van de deelnemer worden gelogd (zie ook onder ‘Rapportages’):
+
+   - 1) inloggen en uitloggen;
+
+   - 2) inactief zijn (systeem in pauzestand).
 
 ### 8.2.5. Verantwoordelijkheden (rollen)
 
 De eigenaar van het E-learning systeem waarborgt:
 
+- 8.2.5.a. het E-learning systeem is 24 uur per dag operationeel;
+
+- 8.2.5.b. het systeem is 99% van de tijd beschikbaar;
+
+- 8.2.5.c. niet beschikbaarheid, wegens onderhoud, wordt duidelijk en tijdig gecommuniceerd;
+
+- 8.2.5.d. systeemvernieuwingen mogen geen negatieve invloed hebben op reeds doorlopen activiteiten van deelnemers en loggegevens.
+
 De opleider, die E-learning inzet bij de nascholing, is verantwoordelijk voor:
+
+- 8.2.5.e. het geven van toestemming aan de systeemeigenaar tot het verstrekken van rapportages aan CCV en het door CCV kunnen opvragen van specifieke gegevens aangaande nascholingscursussen/deelnemersgroepen;
+
+- 8.2.5.f. de juiste inzet van E-learning t.b.v. de nascholing;
+
+- 8.2.5.g. de toelating van deelnemers tot het tweede deel van de nascholing. (alleen deelnemers die de E-learning module hebben afgerond, krijgen toegang tot het tweede deel);
+
+- 8.2.5.h. het beschikbaar hebben van een rapportage over het uren-verloop/voortgang E-learning van de deelnemersgroep tijdens het tweede (klassikale) deel van de betreffende nascholingscursus.
+
+- 8.2.5.i. de rapportage over het urenverloop/voortgang. Deze dient ten minste 1 jaar na de cursusdag op een beveiligde manier te worden bewaard. Op verzoek van CCV dient de opleider de rapportage van het urenverloop in.
 
 ### 8.2.6. Rapportages
 
 De eigenaar van het E-learning systeem levert per kwartaal de volgende rapportages op aan CCV:
 
 Per opleider en per registratiecode:
+
+- 8.2.6.a. een overzicht van afwijkingen met betrekking tot de 10 dagentermijn (maximale termijn die is toegestaan tussen uitvoering deel 1 en deel 2 van de cursus);
+
+- 8.2.6.b. een overzicht van afwijkingen met betrekking tot de logtijden (afwijking t.o.v. aantal uur E-learning dat in opleidingsplan is aangegeven;
+
+- 8.2.6.c. een overzicht van opvallende inactieftijden (de tijden dat het systeem op rust/pauze staat, omdat de deelnemer inactief is; alle afwijkingen van 15 minuten of meer);
+
+- 8.2.6.d. een overzicht van niet geheel doorlopen E-learning modules. CCV krijgt, op haar eerste verzoek, toegang tot het E-learning systeem. De opleider beschikt over een overzicht per deelnemersgroep met de inlogfrequentie, inlogtijden en (in)actieftijden op deelnemersniveau. Dit overzicht van de betreffende groep is beschikbaar bij de uitvoering van het tweede deel van de nascholing.
 
 ### Hoofdstuk 9. Minimumeisen
 

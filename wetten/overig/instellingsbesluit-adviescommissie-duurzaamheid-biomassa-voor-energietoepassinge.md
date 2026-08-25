@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 27 juni 2017, nr. WJZ/17054933, tot instelling van de Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen (Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen)"
+citeertitel: "Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen"
 identifier: "BWBR0039699"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039699"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14030063"
-version_id: "24163302"
-internal_id: "C34723731"
-label_id: "13991374"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039699/2017-07-01/0"
-intitule_bron: "Stcrt.2017-37052"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-27"
-intitule_published: "2017-06-29"
-intitule_in_force: "2017-06-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-37052"
-original_signed_date: "2017-06-27"
-original_published_date: "2017-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-37052"
-entry_into_force_date: "2017-07-01"
-jci_1_3: "jci1.3:c:BWBR0039699&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0039699&g=2017-07-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen"
-signed_date: "2017-06-27"
-entry_into_force: "2017-07-01"
+publicatiedatum: 2017-07-01
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0039699"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van de Minister van Economische Zaken van 27 juni 2017, nr. WJZ/17054933, tot instelling van de Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen (Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- –. **commissie:** de Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen;
+- – *commissie:* de Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen;
 
-- –. **de minister:** de Minister van Economische Zaken.
+- – *de minister:* de Minister van Economische Zaken.
 
 ##### Artikel 2
 
@@ -111,5 +85,3 @@ Dit besluit treedt in werking met ingang van 1 juli 2017.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

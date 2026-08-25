@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-20
 toestand: 2016-05-12
 bron: "https://wetten.overheid.nl/BWBR0037966"
-opgehaald: 2026-08-24
+opgehaald: 2026-08-25
 ---
 
 # Beleidsregels wegingsfactoren kosten bestuurlijke voorprocedure

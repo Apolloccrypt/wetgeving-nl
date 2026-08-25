@@ -1,50 +1,17 @@
 ---
 title: "Beleidsregels aanwijzen en toezicht accountantsopleidingen"
 identifier: "BWBR0038952"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-12-31"
-last_updated: "2016-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038952"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13840803"
-version_id: "23765912"
-internal_id: "C34198671"
-label_id: "13806254"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038952/2016-12-31/0"
-intitule_bron: "Stcrt.2016-70670"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-30"
-intitule_in_force: "2016-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-70670"
-original_published_date: "2016-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-70670"
-entry_into_force_date: "2016-12-31"
-jci_1_3: "jci1.3:c:BWBR0038952&z=2016-12-31&g=2016-12-31"
-jci_1_0: "1.0:c:BWBR0038952&g=2016-12-31"
-citeertitel_status: "officieel"
-entry_into_force: "2016-12-31"
+publicatiedatum: 2016-12-31
+laatste_update: 2016-12-31
+status: geldig
+toestand: 2016-12-31
+bron: "https://wetten.overheid.nl/BWBR0038952"
+opgehaald: 2026-08-25
 ---
+
 # Beleidsregels aanwijzen en toezicht accountantsopleidingen
-
-Voor inschrijving in het accountantsregister van de Nederlandse Beroepsorganisatie van Accountants (NBA) dienen kandidaten op grond van [artikel 38 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=38) (Wab) een opleiding gevolgd te hebben die voldoet aan de in [artikel 49 Wab, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49) bedoelde eindtermen.
-
-Aan de Commissie Eindtermen Accountantsopleiding (CEA) komt op grond van [artikel 49 Wab, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49) de bevoegdheid toe opleidingen aan te wijzen die geheel of gedeeltelijk voldoen aan de in artikel 49 Wab, eerste lid, onder a bedoelde eindtermen, met uitzondering van de eindtermen die betrekking hebben op de praktijkopleiding, voor zover deze opleidingen niet zijn geaccrediteerd overeenkomstig [artikel 5a.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.9) of niet de toets nieuwe opleiding overeenkomstig [artikel 5a.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.11) met positief gevolg hebben ondergaan.
-
-Op grond van [artikel 50 Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=50) dienen de opleidingsinstituten wier opleiding op grond van [artikel 49, tweede lid, onderdeel b Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49), is aangewezen desgevraagd alle inlichtingen die de commissie voor haar taakuitvoering nodig heeft te verstrekken. De commissie kan voorwaarden verbinden aan de aanwijzing, bedoeld in artikel 49, tweede lid, onderdeel b Wab.
-
-De commissie kan de aanwijzing, bedoeld in [artikel 49, tweede lid, onderdeel b Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49), intrekken indien de opleiding niet voldoet aan de eindtermen, bedoeld in dat onderdeel.
-
-CEA verstrekt aan een opleiding een aanwijzing voor onbepaalde duur als de opleiding kan aantonen dat zij voldoet aan de eindtermen en het bijbehorende toezichtkader zoals die door CEA zijn vastgesteld. CEA trekt een eenmaal verstrekte aanwijzing in beginsel in indien en zodra een opleiding niet meer blijkt te voldoen aan de eindtermen. Om vast te kunnen stellen of opleidingen na de aanwijzing blijven voldoen aan de eindtermen en aan de voorwaarden die aan de aanwijzing zijn verbonden, houdt CEA doorlopend toezicht op door haar aangewezen opleidingen.
-
-CEA wijst alleen Nederlandse accountantsopleidingen aan. De eindtermen zijn immers specifiek voor Nederlandse opleidingen vastgesteld. Het wettelijk regime gaat er van uit dat studenten die in Nederland een accountantsopleiding volgen, ingeschreven kunnen worden in het accountantsregister als zij een opleiding hebben gevolgd die voldoet aan de eindtermen. Het aanwijzen van buitenlandse accountantsopleidingen behoort niet tot de taak en daarmee ook niet tot de bevoegdheid van CEA. Het wettelijk kader biedt CEA dan ook geen instrumenten om toezicht uit te oefenen op buitenlandse opleidingen of handhavend jegens hen op te treden. Voor personen die een buitenlandse accountantsopleiding hebben gevolgd, biedt de verklaring van vakbekwaamheid toegang tot het Nederlandse accountantsregister.
-
-Onderstaande beleidsregels bepalen hoe CEA invulling geeft aan de bevoegdheid om aanwijzingen te verstrekken in de zin van [artikel 49, tweede lid, onder b van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49), daar voorwaarden aan te verbinden dan wel een verstrekte aanwijzing te wijzigen of in te trekken. De beleidsregels zien voorts op de wijze waarop CEA invulling geeft aan het doorlopende toezicht op aangewezen opleidingen. CEA differentieert de intensiteit van haar toezicht op basis van risicoanalyse en bevindingen (uit het verleden).
 
 ## Regels
 
@@ -54,47 +21,49 @@ Onderstaande beleidsregels bepalen hoe CEA invulling geeft aan de bevoegdheid om
 
 In deze beleidsregels wordt verstaan onder:
 
-- a. **Aanvraag:** een verzoek van een belanghebbende opleiding aan CEA om een aanwijzing op grond van [artikel 49, tweede lid, onder b Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
+- a. *Aanvraag:* een verzoek van een belanghebbende opleiding aan CEA om een aanwijzing op grond van [artikel 49, tweede lid, onder b Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
 
-- b. **Aanwijzing:** een besluit, als bedoeld in [artikel 49, tweede lid, onder a Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49), inhoudende dat een opleiding aan de eindtermen voldoet;
+- b. *Aanwijzing:* een besluit, als bedoeld in [artikel 49, tweede lid, onder a Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49), inhoudende dat een opleiding aan de eindtermen voldoet;
 
-- c. **Adviescommissie:** een door CEA benoemde persoon of ingesteld college, niet werkzaam onder verantwoordelijkheid van CEA, belast met het adviseren van CEA over het te nemen besluit ter zake van het aanwijzen van een opleiding;
+- c. *Adviescommissie:* een door CEA benoemde persoon of ingesteld college, niet werkzaam onder verantwoordelijkheid van CEA, belast met het adviseren van CEA over het te nemen besluit ter zake van het aanwijzen van een opleiding;
 
-- d. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- d. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- e. **Basisset van informatie:** een periodieke set van informatie die CEA minimaal nodig heeft om te beoordelen of een theoretische opleiding voldoet aan de eindtermen;
+- e. *Basisset van informatie:* een periodieke set van informatie die CEA minimaal nodig heeft om te beoordelen of een theoretische opleiding voldoet aan de eindtermen;
 
-- f. **Eindtermen:** de normen zoals bedoeld in [artikel 49, tweede lid, onder a Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49) waarin is vastgelegd welke kennis, vaardigheden en gedrag vaneen beginnend beroepsoefenaar onderdeel moeten vormen van de accountantsopleiding;
+- f. *Eindtermen:* de normen zoals bedoeld in [artikel 49, tweede lid, onder a Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49) waarin is vastgelegd welke kennis, vaardigheden en gedrag vaneen beginnend beroepsoefenaar onderdeel moeten vormen van de accountantsopleiding;
 
-- g. **CEA:** Commissie Eindtermen Accountantsopleiding als bedoeld in [artikel 49, eerste lid Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
+- g. *CEA:* Commissie Eindtermen Accountantsopleiding als bedoeld in [artikel 49, eerste lid Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
 
-- h. **Doorlopend toezicht:** een voortdurend systematisch proces voor het verzamelen van informatie over, het vormen van een oordeel over en indien daar aanleiding voor is interveniëren bij een opleiding. CEA houdt doorlopend toezicht om te beoordelen of de opleiding aan de eindtermen voldoet;
+- h. *Doorlopend toezicht:* een voortdurend systematisch proces voor het verzamelen van informatie over, het vormen van een oordeel over en indien daar aanleiding voor is interveniëren bij een opleiding. CEA houdt doorlopend toezicht om te beoordelen of de opleiding aan de eindtermen voldoet;
 
-- i. **Kwaliteitssysteem:** systeem van kwaliteitsborging bestaande uit regelgeving, voorschriften, vastgestelde (beleids)kaders, controleerbare processen en procedures met als doel de eindtermen te borgen;
+- i. *Kwaliteitssysteem:* systeem van kwaliteitsborging bestaande uit regelgeving, voorschriften, vastgestelde (beleids)kaders, controleerbare processen en procedures met als doel de eindtermen te borgen;
 
-- j. **Opleiding:** een samenhangend geheel van onder meer onderwijseenheden, docenten, faciliteiten en organisatie van een onderwijsinstelling of andersoortige organisatie die ten doel heeft studenten op te leiden voor (één of meer van de opleidingsoriëntaties van) de theoretische opleiding tot accountant zoals bepaald in [artikel 46 Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46);
+- j. *Opleiding:* een samenhangend geheel van onder meer onderwijseenheden, docenten, faciliteiten en organisatie van een onderwijsinstelling of andersoortige organisatie die ten doel heeft studenten op te leiden voor (één of meer van de opleidingsoriëntaties van) de theoretische opleiding tot accountant zoals bepaald in [artikel 46 Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46);
 
-- k. **Opleidingsoriëntatie:** deel van de opleiding tot accountant dat specifiek opleidt voor de (toekomstige) beroepspraktijk in aanvulling op de brede, gemeenschappelijke basis van kennis, vaardigheden en gedrag die voor iedereen gelijk is. CEA heeft de volgende opleidingsoriëntaties gedefinieerd:
+- k. *Opleidingsoriëntatie:* deel van de opleiding tot accountant dat specifiek opleidt voor de (toekomstige) beroepspraktijk in aanvulling op de brede, gemeenschappelijke basis van kennis, vaardigheden en gedrag die voor iedereen gelijk is. CEA heeft de volgende opleidingsoriëntaties gedefinieerd:
 
-- a. Assurance, gericht op het verschaffen van financiële zekerheid en (de wettelijke) controle;
+   - a. Assurance, gericht op het verschaffen van financiële zekerheid en (de wettelijke) controle;
 
-- b. Accountancy, gericht op bedrijfsvoering en hiermee samenhangende advieswerkzaamheden.
+   - b. Accountancy, gericht op bedrijfsvoering en hiermee samenhangende advieswerkzaamheden.
 
-- l. **Studielast:** de studielast uitgedrukt in studiepunten zoals bepaald in [artikel 7.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
+- l. *Studielast:* de studielast uitgedrukt in studiepunten zoals bepaald in [artikel 7.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
 
-- m. **Toezichtcategorie:** een vorm van toezicht waarbij onderscheid wordt gemaakt in type, mate en frequentie van de toezichtactiviteiten en -instrumenten die CEA inzet om te beoordelen of de opleiding aan de eindtermen voldoet. CEA onderscheidt de volgende toezichtcategorieën:
+- m. *Toezichtcategorie:* een vorm van toezicht waarbij onderscheid wordt gemaakt in type, mate en frequentie van de toezichtactiviteiten en -instrumenten die CEA inzet om te beoordelen of de opleiding aan de eindtermen voldoet. CEA onderscheidt de volgende toezichtcategorieën:
 
-- i. Normaal toezicht: de opleiding voldoet aan alle criteria van het toezichtkader en CEA heeft het gefundeerde vertrouwen dat de opleiding de eindtermen borgt;
+   - i. Normaal toezicht: de opleiding voldoet aan alle criteria van het toezichtkader en CEA heeft het gefundeerde vertrouwen dat de opleiding de eindtermen borgt;
 
-- ii. Actief toezicht: de opleiding voldoet niet aan één van de criteria in het toezichtkader waarbij CEA het vertrouwen heeft dat de opleiding de bevindingen adresseert
+   - ii. Actief toezicht: de opleiding voldoet niet aan één van de criteria in het toezichtkader waarbij CEA het vertrouwen heeft dat de opleiding de bevindingen adresseert
 
-- iii. Verscherpt toezicht: CEA constateert ofwel dat er niet op competente wijze leiding wordt gegeven aan de opleiding en/of dat de opleiding niet aan meerdere criteria in het toezichtkader voldoet waarbij CEA gerede twijfel heeft of de opleiding de bevindingen zelfstandig kan adresseren.
+   - iii. Verscherpt toezicht: CEA constateert ofwel dat er niet op competente wijze leiding wordt gegeven aan de opleiding en/of dat de opleiding niet aan meerdere criteria in het toezichtkader voldoet waarbij CEA gerede twijfel heeft of de opleiding de bevindingen zelfstandig kan adresseren.
 
-- n. **Toezichtkader:** kader waarin CEA de door haar vastgestelde criteria en instrumenten en het proces van toezicht uiteenzet dat zij hanteert bij de beoordeling of een opleiding voldoet aan de eindtermen;
+- n. *Toezichtkader:* kader waarin CEA de door haar vastgestelde criteria en instrumenten en het proces van toezicht uiteenzet dat zij hanteert bij de beoordeling of een opleiding voldoet aan de eindtermen;
 
-- o. **Vaststellingsgesprek:** een gesprek met de opleiding om aan te geven dat en waarom de opleiding onder verscherpt toezicht is geplaatst;
+- o. *Vaststellingsgesprek:* een gesprek met de opleiding om aan te geven dat en waarom de opleiding onder verscherpt toezicht is geplaatst;
 
-- p. **Wab:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- p. *Wab:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ##### Artikel 2. Beleidsregels en toezichtkader
 
@@ -178,23 +147,23 @@ In deze beleidsregels wordt verstaan onder:
 
 - a. Er is in ieder geval geen sprake van een Nederlandse accountantsopleiding als:
 
-- i. de instelling die de accountantsopleiding aanbiedt en verzorgt niet in Nederland gevestigd is;
+   - i. de instelling die de accountantsopleiding aanbiedt en verzorgt niet in Nederland gevestigd is;
 
-- ii. de accountantsopleiding niet (specifiek) gericht is op het voldoen aan de door CEA vastgestelde eindtermen;
+   - ii. de accountantsopleiding niet (specifiek) gericht is op het voldoen aan de door CEA vastgestelde eindtermen;
 
-- iii. de studenten van de accountantsopleiding niet zijn ingeschreven bij de instelling in Nederland respectievelijk die instelling niet het theoretisch getuigschrift uitreikt.
+   - iii. de studenten van de accountantsopleiding niet zijn ingeschreven bij de instelling in Nederland respectievelijk die instelling niet het theoretisch getuigschrift uitreikt.
 
 - b. Voorts bepaalt CEA of sprake is van een Nederlandse accountantsopleiding op grond van onder meer de volgende relevante aspecten:
 
-- i. de mate waarin de instelling in Nederland formele zeggenschap heeft over de accountantsopleiding;
+   - i. de mate waarin de instelling in Nederland formele zeggenschap heeft over de accountantsopleiding;
 
-- ii. de mate waarin de instelling in Nederland verantwoordelijk is voor en aanspreekbaar op de kwaliteitsborging van de accountantsopleiding;
+   - ii. de mate waarin de instelling in Nederland verantwoordelijk is voor en aanspreekbaar op de kwaliteitsborging van de accountantsopleiding;
 
-- iii. de mate waarin de instelling in Nederland bijdraagt aan het verzorgen van het onderwijs en de examens van de accountantsopleiding;
+   - iii. de mate waarin de instelling in Nederland bijdraagt aan het verzorgen van het onderwijs en de examens van de accountantsopleiding;
 
-- iv. de mate van betrokkenheid van docenten van de instelling in Nederland bij het onderwijs en de examens van de accountantsopleiding;
+   - iv. de mate van betrokkenheid van docenten van de instelling in Nederland bij het onderwijs en de examens van de accountantsopleiding;
 
-- v. de mate waarin het onderwijs en de examens tot doel hebben om studenten voor te bereiden op de beroepsuitoefening in Nederland.
+   - v. de mate waarin het onderwijs en de examens tot doel hebben om studenten voor te bereiden op de beroepsuitoefening in Nederland.
 
 4. Het is in een specifieke situatie de combinatie van de verschillende aspecten zoals genoemd in lid 4 van dit artikel die bepaalt of er sprake is van een Nederlandse accountantsopleiding die in aanmerking kan komen voor een aanwijzing door CEA.
 
@@ -347,67 +316,3 @@ Deze beleidsregels liggen ter inzage bij het secretariaat van CEA en zijn beschi
 ##### Artikel 18
 
 Deze beleidsregels kunnen worden aangehaald als Beleidsregels aanwijzen en toezicht accountantsopleidingen.
-
-## Toezichtkader CEA voor het beoordelen van de theoretische Accountantsopleidingen
-
-### 1. Inleiding
-
-CEA heeft de wettelijke taak opleidingen aan te wijzen die voldoen aan de door CEA vastgestelde eindtermen. De opleidingen vertalen deze eindtermen – al dan niet in samenwerking met andere opleidingen – naar opleidingsprogramma’s en examens. Het toezichtkader van CEA vormt de leidraad bij het beoordelen van een aanvraag voor een aanwijzing en de uitvoering van het doorlopende toezicht op de naleving van eindtermen.
-
-In dit document is beschreven op welke wijze CEA bij de theoretische opleidingen toetst of aan de eindtermen wordt voldaan. Hiermee beoogt CEA heldere richtlijnen te geven aan de opleidingen en tijdig in te grijpen indien de borging van de eindtermen in het geding is.
-
-### 2. Regelgevend kader
-
-CEA wijst op grond van [artikel 49 Wab lid 2b.](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49) opleidingen aan die het theoretisch deel van de accountantsopleiding geheel of gedeeltelijk verzorgen voor zover deze opleidingen niet zijn geaccrediteerd overeenkomstig [artikel 5a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.9) en [5a.11 van de Wet op het Hoger Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.11) (WHW). Dit houdt in principe in dat CEA toezicht houdt op het post-initiële deel van theoretische opleidingen. CEA heeft afspraken gemaakt met de NVAO voor wat betreft het toezicht op de initiële opleiding. Op grond van [artikel 50 Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=50) dienen de opleidingsinstituten wier opleiding op grond van artikel 49, tweede lid, onderdeel b Wab, is aangewezen desgevraagd alle inlichtingen die de commissie voor haar taakuitvoering nodig heeft te verstrekken. De commissie kan voorwaarden verbinden aan de aanwijzing, bedoeld in artikel 49, tweede lid, onderdeel b Wab. De commissie kan de aanwijzing, bedoeld in artikel 49, tweede lid, onderdeel b Wab, intrekken indien de opleiding niet voldoet aan de eindtermen, bedoeld in dat onderdeel. In de beleidsregels Aanwijzen en toezicht op de eindtermen van de theoretische accountantsopleiding wordt invulling gegeven aan de wettelijke bevoegdheden van CEA. De beleidsregels en het toezichtkader vormen één geheel. [Link naar beleidsregels] Waar nodig werkt CEA bepaalde beleidsregels of criteria in het toezichtkader uit in beleidsrichtlijnen. Beleidsregels, toezichtkader en beleidsrichtlijnen staan gepubliceerd op de CEA website en zijn ook op te vragen bij CEA.
-
-### 3. Uitgangspunten toezichtkader
-
-### 3.1. Gefundeerd vertrouwen
-
-Gefundeerd vertrouwen vormt de basis van het toezicht door CEA. Uitgangspunten voor gefundeerd vertrouwen zijn:
-
-### 3.2. Aanwijzing van onbepaalde duur in combinatie met doorlopend risicogericht toezicht
-
-CEA verleent aan alle opleidingen een aanwijzing voor onbepaalde duur. Het verlenen van een aanwijzing voor onbepaalde duur combineert CEA met doorlopend risicogericht toezicht. Gedurende het doorlopend toezicht legt CEA de focus op de inhoud en de uitkomsten van de opleiding.
-
-### 3.3. Variatie in de intensiteit van toezicht
-
-Uitgaande van gefundeerd vertrouwen betekent dit dat de intensiteit van het doorlopend toezicht per opleiding kan verschillen. Daar waar opleidingen aantoonbaar verantwoordelijkheid nemen, een actieve kwaliteitshouding hebben en actief informatie verstrekken zal het toezicht van CEA minder intensief zijn. Het toezicht van CEA zal zich in dit geval kunnen beperken tot het periodiek aanleveren, respectievelijk opvragen van (basis)informatie en het voeren van periodieke beleidsgesprekken die het karakter hebben van informatie-uitwisseling.
-
-CEA gaat ervan uit dat formele aspecten zoals de aanwezigheid en het in stand houden van een adequaat functionerend kwaliteitszorgsysteem een basisvoorwaarde is die hoort bij een actieve kwaliteitshouding van een opleiding noodzakelijk voor de borging van de eindtermen. Bij het geven van een aanwijzing voor onbepaalde duur dient opzet, bestaan en werking van het kwaliteitssysteem door de opleiding te zijn aangetoond en door CEA te zijn vastgesteld. CEA heeft de mogelijkheid om bij een aanwijzing voor onbepaalde duur voorwaarden te stellen en deze indien nodig aan te passen. Dit laatste doet CEA door een wijzigingsbesluit bij de aanwijzing te nemen.
-
-Daar waar CEA op basis van de bevindingen uit haar toezicht meer reden heeft tot zorg over een opleiding zal CEA de intensiteit van haar toezicht verhogen. In dat kader kan CEA verbeterplannen opvragen, actie van de opleiding eisen en mogelijk ook zelf dossieranalyses uitvoeren. Voor de intensiteit van toezicht op de theoretische opleidingen onderscheidt CEA drie categorieën: normaal, actief en verscherpt toezicht.
-
-De indeling van een opleiding in één van deze drie categorieën zal geschieden op basis van een beoordeling op criteria die CEA essentieel acht voor de kwaliteit van de opleiding.
-
-### 4. Criteria van toezicht
-
-CEA acht onderstaande criteria essentieel voor de adequate borging en dekking van de eindtermen in de opleiding. Per criterium worden uitkomsten geformuleerd die richtinggevend zijn voor hetgeen CEA per criterium van de opleiding verwacht. Het niet voldoen aan het criterium kan betekenen dat CEA de opleiding in een intensiever toezichtcategorie indeelt.
-
-Criteria beoordeling theoretische opleidingen
-
-### 5. Instrumenten van toezicht
-
-CEA beschikt over verschillende instrumenten om haar toezicht uit te oefenen. Afhankelijk van haar bevindingen en de risico’s die zij waarneemt kan zij één of meerdere instrumenten inzetten.
-
-### 6. Uitgangspunten voor de indeling per toezichtcategorie
-
-CEA hanteert de volgende uitgangspunten om te bepalen in welke toezichtcategorie een opleiding valt:
-
-Om in de categorie ‘normaal toezicht’ te vallen, zal een opleiding een positieve beoordeling moeten krijgen op alle criteria. CEA is van mening dat alle bovenstaande criteria essentieel zijn voor de kwaliteit van de opleiding. In het geval een opleiding onvoldoende beoordeeld wordt op één van de criteria, zal de opleiding in beginsel komen te vallen in de categorie actief toezicht. CEA zal daarbij een weging maken van de ernst van de bevinding op dit criterium of de opleiding daadwerkelijk in het actieve toezicht zal moeten vallen. CEA zal daarbij zwaar laten wegen het oordeel of er risico is voor de dekking van de eindtermen. In de categorie ‘actief toezicht’ gaat CEA wel ervan uit dat sprake is van een competente leiding (vertrouwen) die in staat is om de geconstateerde bevindingen adequaat te adresseren. In het kader van het actieve toezicht zal CEA de verbetermaatregelen door de opleiding monitoren, aanvullende uitvraag kunnen doen of follow up eisen.
-
-In het geval een opleiding niet voldoet aan het criterium ‘competente leiding’, of in het geval een opleiding op meerdere (andere) criteria onvoldoende scoort, komt een opleiding onder verscherpt toezicht van CEA. In deze categorie is CEA van mening dat de situatie bij de opleiding zodanig zorgelijk is dat zij zich afvraagt of de opleiding in staat is de problemen zelfstandig te adresseren. CEA zal intensieve gesprekken met de (leiding van de) opleiding voeren en verbetermaatregelen eisen.
-
-Bij de beoordeling aan de hand van de criteria neemt CEA in ieder geval in acht:
-
-### 7. Intensiteit van de gesprekken met opleidingen
-
-Het gesprek dat CEA periodiek zal voeren met de opleiding kan variëren in karakter en frequentie. Met opleidingen die in de categorie ‘normaal toezicht’ vallen zal CEA gemiddeld 1x per 4–6 jaar een beleidsgesprek voeren. Dit gesprek zal daar waar geen aanleiding is voor intensiever toezicht vooral gericht zijn op informatie uitwisseling. Met opleidingen die in de categorie ‘actief toezicht’ vallen ligt de frequentie afhankelijk van noodzaak gemiddeld op 1x per 1-2 jaar. Dit gesprek zal (vooral) gericht zijn op de verbeteringen van de geconstateerde bevindingen. CEA bereidt de gesprekken voor aan de hand van een uitvraag bij de opleiding. Voor het verkrijgen van een volledig en inhoudelijk beeld van de opleiding zal CEA nader bepalen met welke personen en sleutelfiguren (studenten, docenten, management) binnen de opleiding zij een gesprek wenst.
-
-In het geval er reden is om een opleiding onder verscherpt toezicht te plaatsen, zal CEA een vaststellingsgesprek met de betreffende opleiding voeren. CEA voert dit gesprek met de leiding van de opleiding. In dit gesprek zal zij de gronden toelichten voor de wijziging van categorie. Het gesprek heeft een waarschuwend karakter dat CEA van oordeel is dat de dekking van de eindtermen in gevaar is. Een vaststellingsgesprek kan uiteraard gecombineerd worden met het beleidsgesprek dat CEA met een opleiding heeft gepland.
-
-CEA kan m.b.t. een opleiding die onder verscherpt toezicht is geplaatst, besluiten dat zij een bestuursgesprek met het College van Bestuur van de opleiding wil voeren. CEA zal in het bestuursgesprek toelichten welke bevindingen CEA heeft en welke gevolgen dit voor de opleiding heeft. In het gesprek zal worden bepaald op welk termijn de opleiding aan de voorwaarden respectievelijk eisen moet voldoen en hoe zij denkt voor de toekomst de door CEA geconstateerde risico’s en overtredingen te voorkomen. Afhankelijk van CEA’s beoordeling over de uitvoering van de verbetermaatregelen, kan CEA in het uiterste geval een voornemen tot het intrekken van de aanwijzing aankondigen. Dit voornemen zal dan de basis zijn waarop CEA de aanwijzing van een opleiding kan intrekken. Indien CEA voornemens is een aanwijzing in te trekken zal zij vooraf een waarschuwing geven en de punten kenbaar maken waar verbetering dient te worden bereikt. CEA stelt de opleiding in de gelegenheid hier haar zienswijze op te geven.
-
-### 8. Cyclus en planning
-
-CEA stelt jaarlijks een Jaarbericht waarin zij belanghebbenden informeert over de prioriteiten van haar toezicht en de voor dat jaar geplande toezichtactiviteiten. Ook zal zij jaarlijks op geaggregeerd niveau communiceren over de bevindingen en uitkomsten van haar toezicht in het voorgaand jaar.

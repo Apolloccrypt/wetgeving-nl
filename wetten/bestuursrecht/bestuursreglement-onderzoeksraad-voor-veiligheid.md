@@ -1,43 +1,17 @@
 ---
 title: "Bestuursreglement Onderzoeksraad voor veiligheid"
 identifier: "BWBR0039488"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-11-02"
-last_updated: "2005-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039488"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "13985673"
-version_id: "24062962"
-internal_id: "C34579761"
-label_id: "13948214"
-dtd_version: "2.0"
-original_entry_into_force: "2005-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039488/2005-11-02/0"
-intitule_bron: "Stcrt.2005-213"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-09-07"
-intitule_published: "2005-11-02"
-intitule_in_force: "2005-11-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-213"
-original_signed_date: "2005-09-07"
-original_published_date: "2005-11-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-213-p44-SC72148"
-entry_into_force_date: "2005-11-02"
-jci_1_3: "jci1.3:c:BWBR0039488&z=2005-11-02&g=2005-11-02"
-jci_1_0: "1.0:c:BWBR0039488&g=2005-11-02"
-citeertitel_status: "officieel"
-signed_date: "2005-09-07"
-entry_into_force: "2005-11-02"
+publicatiedatum: 2005-11-02
+laatste_update: 2005-11-02
+status: geldig
+toestand: 2005-11-02
+bron: "https://wetten.overheid.nl/BWBR0039488"
+opgehaald: 2026-08-25
 ---
+
 # Bestuursreglement Onderzoeksraad voor veiligheid
-
-Gelet op [artikel 17 van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=17),
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -172,5 +146,3 @@ Indien één of meer leden daarom verzoeken wordt de te nemen beslissing in de e
 1. Dit Reglement kan worden aangehaald als Bestuursreglement Onderzoeksraad voor veiligheid.
 
 2. Dit Reglement zal, na goedkeuring door de Minister, in de Staatscourant worden geplaatst.
-
-Vastgesteld op 7 september 2005.

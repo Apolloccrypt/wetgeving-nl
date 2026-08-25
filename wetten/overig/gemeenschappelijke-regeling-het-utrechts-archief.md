@@ -1,64 +1,36 @@
 ---
 title: "Gemeenschappelijke regeling tot instelling van een openbaar lichaam beheer archiefbescheiden en collecties gemeente Utrecht d.d. 10 februari 2017, kenmerk 1149544"
+citeertitel: "Gemeenschappelijke regeling Het Utrechts Archief"
 identifier: "BWBR0039480"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039480"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "13984073"
-version_id: "25584992"
-internal_id: "C36512871"
-label_id: "13946894"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039480/2019-01-01/0"
-intitule_bron: "Stcrt.2017-21123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-10"
-intitule_published: "2017-04-18"
-intitule_in_force: "2017-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-69001"
-original_signed_date: "2018-10-27"
-original_published_date: "2018-12-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2018-69001"
-entry_into_force_date: "2018-10-27"
-jci_1_3: "jci1.3:c:BWBR0039480&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0039480&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Gemeenschappelijke regeling Het Utrechts Archief"
-signed_date: "2018-10-27"
-entry_into_force: "2018-10-27"
+publicatiedatum: 2018-10-27
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0039480"
+opgehaald: 2026-08-25
 ---
+
 # Gemeenschappelijke regeling tot instelling van een openbaar lichaam beheer archiefbescheiden en collecties gemeente Utrecht d.d. 10 februari 2017, kenmerk 1149544
-
-Gelet op [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I) en [IX van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX);
-
-Besluiten:
-
-tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de rijksarchiefbewaarplaats in de provincie Utrecht en de archiefbewaarplaats van de gemeente Utrecht.
 
 ##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **gemeente:** de gemeente Utrecht;
+- b. *gemeente:* de gemeente Utrecht;
 
-- c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of in beheer bij de Minister, de provincie en de gemeente voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie, de archiefbewaarplaats van de provincie en de archiefbewaarplaats van de gemeente;
+- d. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of in beheer bij de Minister, de provincie en de gemeente voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie, de archiefbewaarplaats van de provincie en de archiefbewaarplaats van de gemeente;
 
-- e. **college:** het college van burgemeester en wethouders van de gemeente, en
+- e. *college:* het college van burgemeester en wethouders van de gemeente, en
 
-- f. **provincie:** de provincie Utrecht;
+- f. *provincie:* de provincie Utrecht;
 
-- g. **gedeputeerde staten:** gedeputeerde staten van de provincie.
+- g. *gedeputeerde staten:* gedeputeerde staten van de provincie.
 
 ##### Artikel 2
 
@@ -415,37 +387,3 @@ Deze regeling wordt aangehaald als: Gemeenschappelijke regeling Het Utrechts Arc
 1. De Regeling Het Utrechts Archief, aangegaan op grond van het [Besluit Utrechts Archief](https://wetten.overheid.nl/jci1.3:c:BWBR0009331) van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 januari 1998, nr. DCE/97/36110 gepubliceerd in de Staatscourant van 20 februari 1998, wordt ingetrokken.
 
 2. De rechten en verplichtingen van Het Utrechts Archief zoals die bestonden op het moment vóór de inwerkingtreding van deze regeling blijven in stand na de inwerkingtreding van deze regeling.
-
-## Financiële bijlage. bij de Gemeenschappelijke regeling Het Utrechts Archief
-
-### Huidige financiële situatie
-
-Per 1 januari 2019 treedt de provincie Utrecht toe tot deze gemeenschappelijke regeling. Door deze toetreding wijzigt de financiële situatie van Het Utrechts Archief. In deze bijlage zijn de afspraken over de structurele bijdragen van de deelnemers aan de Gemeenschappelijke regeling Het Utrechts Archief nader gespecificeerd.
-
-De grondslag voor het verlenen van de jaarlijkse financiële bijdrage van de deelnemers aan Het Utrechts Archief is te vinden in het eerste en tweede lid van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=17&z=2019-01-01&g=2019-01-01) van deze gemeenschappelijke regeling. De bijdrage wordt vastgesteld bij begroting en de deelnemers staan er voor in dat Het Utrechts Archief altijd aan zijn financiële verplichtingen kan voldoen. Bij de begroting wordt aangegeven wat de aard en omvang van de voorgenomen werkzaamheden voor het betreffende jaar zijn.
-
-De bijdragen van de Minister en van het college worden zoveel mogelijk op basis van pariteit ingericht. In de vastgestelde Programmabegroting 2019 wordt voor het Rijk uitgegaan van een bijdrage van € 2.452.1911De bijdrage van de Minister zal gedurende de periode 2019 tot en met 2022 worden verhoogd in verband met een afgesproken wijziging in het beheer van de Rijkshuisvesting van Het Utrechts Archief. en voor de gemeente Utrecht € 2.882.193.
-
-De provincie Utrecht heeft sinds 2012 een dienstverleningsovereenkomst met Het Utrechts Archief. De bijdrage ad € 661.692, die jaarlijks op basis van deze overeenkomst is verleend, is gebaseerd op afspraken gemaakt bij het Bestuursakkoord 2011–20152Bestuursakkoord Vereniging van Nederlandse Gemeenten, Interprovinciaal Overleg, Unie van Waterschappen en Rijk.. In de Programmabegroting 2019 van Het Utrechts Archief wordt uitgegaan van ditzelfde bedrag.
-
-### Uitgangspunten bij het bepalen van de jaarlijkse bijdragen
-
-Met ingang van de beleidsplanperiode 2021-2024 worden de hierna genoemde uitgangspunten gehanteerd bij het bepalen van de bijdragen van de deelnemers. Voor aanvang van nieuwe (vierjarige) beleidsperioden worden de aandelen van de collecties van de partners in de totale collectie van Het Utrechts Archief herijkt en wordt op basis daarvan de deelnemersbijdrage berekend en vastgelegd.
-
-Voor het archiefwettelijk beheer van fysieke of analoge archiefbescheiden en het beheer van bij Het Utrechts Archief berustende collecties worden de kosten berekend naar rato van het aandeel van de betreffende archiefbescheiden en collecties in relatie tot de totale collectie van HUA. Wat onder collectie wordt verstaan staat beschreven in [artikel 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=1&z=2019-01-01&g=2019-01-01).
-
-Voor het archiefwettelijk beheer van (overgebrachte) digitale archiefbescheiden in het e-depot wordt, op basis van de verwachte hoeveelheid digitale archiefbescheiden, conform het gezamenlijke, kostendekkende kostenmodel van Het Utrechts Archief en de andere Regionaal Historische Centra voor de decentrale overheden gerekend. In de fase van aansluiting op het e-depot zal een nog nader af te spreken opbouwtarief worden gehanteerd. Na 4 jaar volgt een evaluatie van het kostenmodel wat tot bijstelling van de gehanteerde tarieven en factoren kan leiden.
-
-De bijdrage voor de toezichtstaken die Het Utrechts Archief uitvoert voor de provincie en de gemeente, wordt berekend op basis van de hoeveelheid in te zetten uren, het schaalniveau van de in te zetten functionaris(sen) en de overheadkosten.
-
-In het geval er extra fysieke depotruimte voor archiefbescheiden van een deelnemer moet worden gehuurd, wordt de bijdrage voor de geprognosticeerde groei berekend op basis van de werkelijke kosten van de externe opslag en de transportkosten.
-
-De kosten voor activiteiten in het kader van publieksbereik worden berekend naar rato van het aandeel van de betreffende collectie in de totale collectie van Het Utrechts Archief.
-
-In de gemeenschappelijke regeling is de mogelijkheid voor gedeputeerde staten en het college opgenomen om (onderdelen van) hun niet-overgebrachte archieven door Het Utrechts Archief te laten beheren. Dit betreft een nieuwe activiteit, waarvoor nog geen uitgangspunten voor het bepalen van de bijdrage zijn geformuleerd.
-
-### Financiële risico’s
-
-Er kunnen zich calamiteiten of andere onvoorziene omstandigheden voordoen, die niet binnen de eigen begroting van Het Utrechts Archief kunnen worden opgevangen en waarvoor de deelnemers dienen te voorzien in de kosten die hieruit voortvloeien. De kosten worden alsdan in beginsel verdeeld naar rato van het aandeel van elk van de deelnemers in de totale bijdrage van de deelnemers in het betreffende jaar.
-
-Bij aanvang van de provinciale deelname in de GR HUA, op 1 januari 2019, is deze verdeling als volgt:

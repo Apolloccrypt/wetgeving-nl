@@ -1,74 +1,45 @@
 ---
 title: "Regeling Professionalisering Muziekonderwijs op pabo’s"
 identifier: "BWBR0039390"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-05-10"
-last_updated: "2019-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039390"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "13964423"
-version_id: "24017452"
-internal_id: "C34517441"
-label_id: "13927754"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039390/2019-05-10/0"
-intitule_bron: "Stcrt.2017-17226"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-03-28"
-intitule_in_force: "2017-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-17226"
-original_published_date: "2017-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-17226"
-entry_into_force_date: "2017-03-29"
-jci_1_3: "jci1.3:c:BWBR0039390&z=2019-05-10&g=2019-05-10"
-jci_1_0: "1.0:c:BWBR0039390&g=2019-05-10"
-citeertitel_status: "officieel"
-entry_into_force: "2017-03-29"
+publicatiedatum: 2017-03-29
+laatste_update: 2019-05-10
+status: geldig
+toestand: 2019-05-10
+bron: "https://wetten.overheid.nl/BWBR0039390"
+opgehaald: 2026-08-25
 ---
+
 # Regeling Professionalisering Muziekonderwijs op pabo’s
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op [artikel 4:23, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-met goedkeuring van de minister van Onderwijs, Cultuur en Wetenschap van 16 maart 2017;
-
-besluit:
-
-vast te stellen de Regeling Professionalisering Muziekonderwijs op pabo’s.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Definities
 
-- a. **Adviescommissie:** een externe adviescommissie als bedoeld in [artikel 8 van het Huishoudelijk Reglement van stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026366&artikel=8);
+- a. *Adviescommissie:* een externe adviescommissie als bedoeld in [artikel 8 van het Huishoudelijk Reglement van stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026366&artikel=8);
 
-- b. **Algemeen Subsidiereglement:** het [Algemeen Subsidiereglement stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
+- b. *Algemeen Subsidiereglement:* het [Algemeen Subsidiereglement stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
 
-- c. **Bestuur:** het bestuur van stichting Fonds voor Cultuurparticipatie;
+- c. *Bestuur:* het bestuur van stichting Fonds voor Cultuurparticipatie;
 
-- d. **College van bestuur:** een college van bestuur van een door het Rijk bekostigde pabo;
+- d. *College van bestuur:* een college van bestuur van een door het Rijk bekostigde pabo;
 
-- e. **Conservatorium:** hogere beroepsopleiding voor muziekonderwijs;
+- e. *Conservatorium:* hogere beroepsopleiding voor muziekonderwijs;
 
-- f. **Fonds:** stichting Fonds voor Cultuurparticipatie;
+- f. *Fonds:* stichting Fonds voor Cultuurparticipatie;
 
-- g. **Handelingsbekwaamheid:** beschikken over technische vaardigheden en deze kunnen en durven toepassen;
+- g. *Handelingsbekwaamheid:* beschikken over technische vaardigheden en deze kunnen en durven toepassen;
 
-- h. **Minister:** de minister van Onderwijs, Cultuur en Wetenschappen;
+- h. *Minister:* de minister van Onderwijs, Cultuur en Wetenschappen;
 
-- i. **Nederland:** Nederland, inclusief de BES-eilanden;
+- i. *Nederland:* Nederland, inclusief de BES-eilanden;
 
-- j. **Pabo:** pedagogische academie voor het basisonderwijs;
+- j. *Pabo:* pedagogische academie voor het basisonderwijs;
 
-- k. **Vestiging:** een zelfstandige vestiging van een pabo;
+- k. *Vestiging:* een zelfstandige vestiging van een pabo;
 
-- l. **Wet:** de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904).
+- l. *Wet:* de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904).
 
 ##### Artikel 2. Doel
 
@@ -208,7 +179,7 @@ Het bestuur beslist binnen 13 weken nadat een aanvraag is ontvangen.
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in dit reglement afwijken indien toepassing daarvan leidt tot onbillijkheden van overwegende aard.
 
-##### Artikel 17. [Algemeen subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127)
+##### Artikel 17. Algemeen subsidiereglement
 
 Voor zover deze regeling daar niet in voorziet zijn de bepalingen uit het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127) van overeenkomstige toepassing.
 

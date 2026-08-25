@@ -1,80 +1,52 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 december 2016, nr. VO/1102619, houdende regels voor de aanvullende bekostiging van scholen in het voortgezet onderwijs voor de eerste opvang van nieuwkomers (Regeling aanvullende bekostiging eerste opvang nieuwkomers vo 2017)"
+citeertitel: "Regeling aanvullende bekostiging eerste opvang nieuwkomers vo"
 identifier: "BWBR0038995"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038995"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13849363"
-version_id: "27999602"
-internal_id: "C39493991"
-label_id: "13814584"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038995/2026-01-01/0"
-intitule_bron: "Stcrt.2016-68476"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-06"
-intitule_published: "2016-12-23"
-intitule_in_force: "2016-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-40703"
-original_signed_date: "2021-08-25"
-original_published_date: "2021-09-13"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-40703"
-entry_into_force_date: "2021-10-01"
-jci_1_3: "jci1.3:c:BWBR0038995&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0038995&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvullende bekostiging eerste opvang nieuwkomers vo"
-signed_date: "2021-08-25"
-entry_into_force: "2021-10-01"
+publicatiedatum: 2021-10-01
+laatste_update: 2026-06-06
+status: geldig
+toestand: 2026-06-06
+bron: "https://wetten.overheid.nl/BWBR0038995"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 december 2016, nr. VO/1102619, houdende regels voor de aanvullende bekostiging van scholen in het voortgezet onderwijs voor de eerste opvang van nieuwkomers (Regeling aanvullende bekostiging eerste opvang nieuwkomers vo 2017)
-
-Handelende in overeenstemming met de Staatssecretaris van Economische Zaken,
-
-Gelet op de [artikelen 85a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85a), en [89 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=89) en [artikel 2.2.3, eerste, tweede en derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag, bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- *bevoegd gezag:* bevoegd gezag, bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **BRP:** basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
+- *BRP:* basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
 
-- **DUO:** Dienst Uitvoering Onderwijs;
+- *DUO:* Dienst Uitvoering Onderwijs;
 
-- **eerste inschrijfdatum:** eerste inschrijfdatum van een nieuwkomer bij een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1.1 van de Wet voorgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- *eerste inschrijfdatum:* eerste inschrijfdatum van een nieuwkomer bij een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1.1 van de Wet voorgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- **eerste opvang:** het verzorgen van voortgezet onderwijs voor en het bieden van onderwijsvoorzieningen aan nieuwkomers;
+- *eerste opvang:* het verzorgen van voortgezet onderwijs voor en het bieden van onderwijsvoorzieningen aan nieuwkomers;
 
-- **indicatie nieuwkomersbekostiging:** de indicatie waarmee de instelling aangeeft of de inschrijving voor nieuwkomersbekostiging in aanmerking mag komen als bedoeld in [paragraaf 2 van Bijlage 2, onderdeel 22, van de Regeling register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=2);
+- *indicatie nieuwkomersbekostiging:* de indicatie waarmee de instelling aangeeft of de inschrijving voor nieuwkomersbekostiging in aanmerking mag komen als bedoeld in [paragraaf 2 van Bijlage 2, onderdeel 22, van de Regeling register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=2);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **nieuwkomer:** nieuwkomer als bedoeld in [artikel 1.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=1.1), met dien verstande dat daarbij onder teldatum een van de peildata, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2026-01-01&g=2026-01-01), wordt verstaan;
+- *nieuwkomer:* nieuwkomer als bedoeld in [artikel 1.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=1.1), met dien verstande dat daarbij onder teldatum een van de peildata, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2026-06-06&g=2026-06-06), wordt verstaan;
 
-- **nieuwkomer eerste categorie:** nieuwkomer die op 1 oktober 2024 nog geen eerste inschrijfdatum had;
+- *nieuwkomer eerste categorie:* nieuwkomer die op 1 oktober 2024 nog geen eerste inschrijfdatum had;
 
-- **nieuwkomer tweede categorie:** nieuwkomer die op 1 oktober 2024 reeds een eerste inschrijfdatum had, waarbij de eerste inschrijfdatum op de peildatum niet langer dan twee jaar geleden is;
+- *nieuwkomer tweede categorie:* nieuwkomer die op 1 oktober 2024 reeds een eerste inschrijfdatum had, waarbij de eerste inschrijfdatum op de peildatum niet langer dan twee jaar geleden is;
 
-- **persoonsgebonden nummer:** burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1) of onderwijsnummer als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *persoonsgebonden nummer:* burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1) of onderwijsnummer als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **register onderwijsdeelnemers:** register onderwijsdeelnemers, bedoeld in [artikel 4 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=4);
+- *register onderwijsdeelnemers:* register onderwijsdeelnemers, bedoeld in [artikel 4 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=4);
 
-- **school:** school voor voortgezet onderwijs, bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *school:* school voor voortgezet onderwijs, bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **schoolplan:** schoolplan, bedoeld in de [artikelen 2.88 tot en met 2.91 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.88).
+- *schoolplan:* schoolplan, bedoeld in de [artikelen 2.88 tot en met 2.91 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.88).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) zijn niet van toepassing.
 
@@ -86,17 +58,17 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 ##### Artikel 4. Bekostigingsbedrag
 
-1. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
+1. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-06-06&g=2026-06-06), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
 
-2. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), bedraagt:
+2. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-06-06&g=2026-06-06), bedraagt:
 
-- a. € 3.746,03 per kwartaal per nieuwkomer eerste categorie;
+- a. € 3.909,08 per kwartaal per nieuwkomer eerste categorie;
 
-- b. € 1.372,22 per kwartaal per nieuwkomer tweede categorie.
+- b. € 1.426,33 per kwartaal per nieuwkomer tweede categorie.
 
-3. De aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), bedraagt € 21.014,64 per school.
+3. De aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-06-06&g=2026-06-06), bedraagt € 21.843,34 per school.
 
-4. De peildata zijn 1 januari, 1 april, 1 juli en 1 oktober van het kalenderjaar 2026.
+4. De peildata zijn 1 januari, 1 april, 1 juli en 1 oktober van het kalenderjaar 2026.
 
 5. De Minister stelt voor iedere peildatum het aantal te bekostigen nieuwkomers vast, bedoeld in het eerste lid, op basis van de eerste inschrijfdatum en indicatie nieuwkomersbekostiging. Het persoonsgebonden nummer van een nieuwkomer en de opname daarvan in het in het register onderwijsdeelnemers is leidend.
 
@@ -108,23 +80,27 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 - b. een e-mail van het Centraal Orgaan opvang asielzoekers naar aanleiding van de inschrijving van een leerling op een school.
 
+##### Artikel 4a. Extra aanvullende bekostiging 2020
+
+*Vervallen*
+
 ##### Artikel 5. Bekostiging
 
-1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), de registratie in het register onderwijsdeelnemers op respectievelijk 16 januari, 16 april, 16 juli en 16 oktober 2026 van het aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2026 als schoolgaand stond ingeschreven.
+1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-06-06&g=2026-06-06), de registratie in het register onderwijsdeelnemers op respectievelijk 16 januari, 16 april, 16 juli en 16 oktober 2026 van het aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2026 als schoolgaand stond ingeschreven.
 
-2. DUO hanteert voor de definitieve telling en de daarop gebaseerde bekostiging, het door de accountant gevalideerde aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2026 als schoolgaand stond ingeschreven en is opgenomen in het register onderwijsdeelnemers.
+2. DUO hanteert voor de definitieve telling en de daarop gebaseerde bekostiging, het door de accountant gevalideerde aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2026 als schoolgaand stond ingeschreven en is opgenomen in het register onderwijsdeelnemers.
 
-3. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
+3. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-06-06&g=2026-06-06), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
 
-4. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 januari, 1 april, 1 juli en 1 oktober 2026 niet uiterlijk op respectievelijk 15 januari, 15 april, 15 juli en 15 oktober 2026 door DUO zijn ontvangen, worden afgewezen.
+4. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-06-06&g=2026-06-06), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 januari, 1 april, 1 juli en 1 oktober 2026 niet uiterlijk op respectievelijk 15 januari, 15 april, 15 juli en 15 oktober 2026 door DUO zijn ontvangen, worden afgewezen.
 
 ##### Artikel 6. Vaststelling, betaling en verantwoording
 
-1. De aanvullende bekostiging, bedoeld in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), wordt vastgesteld in de maand, volgend op de betreffende peildatum en als bedrag ineens betaald.
+1. De aanvullende bekostiging, bedoeld in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-06-06&g=2026-06-06), wordt vastgesteld in de maand, volgend op de betreffende peildatum en als bedrag ineens betaald.
 
 2. De aanvullende bekostiging wordt verstrekt als tegemoetkoming in de uitgaven die zijn verbonden aan het in de regeling omschreven doel en kan ook worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-3. Indien van toepassing wordt de aanvullende bekostiging, bedoeld in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), gewijzigd vastgesteld op basis van het door de accountant gevalideerde aantal nieuwkomers in het voorafgaande kalenderjaar als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=5&z=2026-01-01&g=2026-01-01) (nieuw), of op grond van prijsbijstellingen.
+3. Indien van toepassing wordt de aanvullende bekostiging, bedoeld in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-06-06&g=2026-06-06), gewijzigd vastgesteld op basis van het door de accountant gevalideerde aantal nieuwkomers in het voorafgaande kalenderjaar als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=5&z=2026-06-06&g=2026-06-06) (nieuw), of op grond van prijsbijstellingen.
 
 4. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
@@ -140,18 +116,10 @@ Deze regeling berust mede op [artikel 5.9, eerste lid, van de Wet voortgezet ond
 
 ##### Artikel 9. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2017.
+1. Deze regeling treedt in werking met ingang van 1 januari 2017.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027.
+2. Deze regeling vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging eerste opvang nieuwkomers vo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Extra aanvullende bekostiging 2020
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

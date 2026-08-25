@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 14 december 2016, houdende regels over de voorlopige onderzoeken en de vervolgonderzoeken die ter vaststelling van het gebruik van alcohol, drugs en geneesmiddelen in het verkeer kunnen worden ingezet en aanwijzing van de drugs waarvoor grenswaarden gelden en aanwijzing van de grenswaarden voor enkelvoudig en gecombineerd gebruik van drugs en van drugs en alcohol of geneesmiddelen (Besluit alcohol, drugs en geneesmiddelen in het verkeer)"
+citeertitel: "Besluit alcohol, drugs en geneesmiddelen in het verkeer"
 identifier: "BWBR0038936"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038936"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "13836813"
-version_id: "23754132"
-internal_id: "C34678121"
-label_id: "13802524"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038936/2022-07-01/0"
-intitule_bron: "Stb.2016-529"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-14"
-intitule_published: "2016-12-22"
-intitule_in_force: "2017-06-13"
-intitule_status: "goed"
-original_publication: "Stb.2016-529"
-original_signed_date: "2016-12-14"
-original_published_date: "2016-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-529"
-entry_into_force_date: "2017-07-01"
-jci_1_3: "jci1.3:c:BWBR0038936&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0038936&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit alcohol, drugs en geneesmiddelen in het verkeer"
-signed_date: "2016-12-14"
-entry_into_force: "2017-07-01"
+publicatiedatum: 2017-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0038936"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van 14 december 2016, houdende regels over de voorlopige onderzoeken en de vervolgonderzoeken die ter vaststelling van het gebruik van alcohol, drugs en geneesmiddelen in het verkeer kunnen worden ingezet en aanwijzing van de drugs waarvoor grenswaarden gelden en aanwijzing van de grenswaarden voor enkelvoudig en gecombineerd gebruik van drugs en van drugs en alcohol of geneesmiddelen (Besluit alcohol, drugs en geneesmiddelen in het verkeer)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 25 februari 2015, directie Wetgeving en Juridische Zaken, nr. 619344;
-
-Gelet op [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), en [artikel 163, tiende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [artikel 28a, elfde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=28a), [artikel 89, tiende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=89), [artikel 48, tiende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=48) en [artikel 11.6, tiende lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.6);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 3 april 2015, nr. W03.15.0052/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 7 december 2016, directie Wetgeving en Juridische Zaken, nr. 2022958;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de wet van 26 september 2014 tot wijziging van de Wegenverkeerswet 1994 in verband met het verbeteren van de aanpak van het rijden onder invloed van drugs (Stb. 2014/353) in werking treedt.
 
 #### § 1. Begripsomschrijvingen
 
@@ -54,11 +20,11 @@ Treedt in werking op het tijdstip waarop de wet van 26 september 2014 tot wijzig
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **opsporingsambtenaar:** een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en een buitengewoon opsporingsambtenaar als bedoeld in [artikel 159, eerste lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=159), [artikel 86, eerste en tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=86), [artikel 45, eerste en tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=45) en [artikel 11.3, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.3);
+- a. *opsporingsambtenaar:* een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en een buitengewoon opsporingsambtenaar als bedoeld in [artikel 159, eerste lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=159), [artikel 86, eerste en tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=86), [artikel 45, eerste en tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=45) en [artikel 11.3, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.3);
 
-- b. **bloedonderzoek:** een onderzoek als bedoeld in [artikel 8, tweede lid, onder b, derde lid, onder b, of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, onder b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, onder b, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, onder b, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, derde lid, onder b, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) dat betrekking heeft op het gebruik van alcohol of een of meer van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01) aangewezen stoffen;
+- b. *bloedonderzoek:* een onderzoek als bedoeld in [artikel 8, tweede lid, onder b, derde lid, onder b, of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, onder b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, onder b, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, onder b, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, derde lid, onder b, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) dat betrekking heeft op het gebruik van alcohol of een of meer van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01) aangewezen stoffen;
 
-- c. **aanvullend bloedonderzoek:** een onderzoek dat betrekking heeft op het gebruik van andere stoffen dan de in onderdeel b bedoelde stoffen.
+- c. *aanvullend bloedonderzoek:* een onderzoek dat betrekking heeft op het gebruik van andere stoffen dan de in onderdeel b bedoelde stoffen.
 
 #### § 2. Aanwijzing van de drugs waarvoor grenswaarden gelden en aanwijzing van de grenswaarden voor enkelvoudig en gecombineerd gebruik van drugs en van drugs en alcohol of geneesmiddelen
 
@@ -94,7 +60,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 #### § 3. Voorlopige onderzoeken
 
-#### § 3.1. Onderzoek van de psychomotorische functies en oog- en spraakfuncties
+##### § 3.1. Onderzoek van de psychomotorische functies en oog- en spraakfuncties
 
 ##### Artikel 4
 
@@ -110,7 +76,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 2. De opsporingsambtenaar deelt het resultaat van het onderzoek direct mede aan degene bij wie het onderzoek is verricht.
 
-#### § 3.2. Voorlopig ademonderzoek
+##### § 3.2. Voorlopig ademonderzoek
 
 ##### Artikel 6
 
@@ -126,7 +92,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 2. De opsporingsambtenaar deelt het resultaat van het voorlopig ademonderzoek direct mede aan degene bij wie het onderzoek is verricht.
 
-#### § 3.3. Onderzoek van speeksel
+##### § 3.3. Onderzoek van speeksel
 
 ##### Artikel 8
 
@@ -144,7 +110,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 #### § 4. Vervolgonderzoeken
 
-#### § 4.1. Ademonderzoek
+##### § 4.1. Ademonderzoek
 
 ##### Artikel 10
 
@@ -170,7 +136,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 - b. de bloedafname voor rekening van de verdachte geschiedt en niet wordt gedaan dan nadat daarvoor een bij ministeriële regeling vastgesteld bedrag is betaald.
 
-#### § 4.2. Bloedonderzoek
+##### § 4.2. Bloedonderzoek
 
 ##### Artikel 12
 
@@ -298,10 +264,8 @@ Het [Besluit alcoholonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008805
 
 ##### Artikel 24
 
-Dit besluit treedt in werking op het tijdstip waarop de wet van 26 september 2014 tot wijziging van de Wegenverkeerswet 1994 in verband met het verbeteren van de aanpak van het rijden onder invloed van drugs (Stb. 2014, 353) in werking treedt.
+Dit besluit treedt in werking op het tijdstip waarop de wet van 26 september 2014 tot wijziging van de Wegenverkeerswet 1994 in verband met het verbeteren van de aanpak van het rijden onder invloed van drugs (Stb. 2014, 353) in werking treedt.
 
 ##### Artikel 25
 
 Dit besluit wordt aangehaald als: Besluit alcohol, drugs en geneesmiddelen in het verkeer.
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

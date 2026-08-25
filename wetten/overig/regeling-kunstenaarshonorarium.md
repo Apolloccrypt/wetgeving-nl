@@ -1,75 +1,56 @@
 ---
 title: "Experimenteerreglement kunstenaarshonorarium"
+citeertitel: "Regeling kunstenaarshonorarium"
 identifier: "BWBR0039125"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-06-28"
-last_updated: "2024-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039125"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13896193"
-version_id: "23846772"
-internal_id: "C34299541"
-label_id: "13860584"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039125/2024-06-28/0"
-intitule_bron: "Stcrt.2017-3597"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-01-23"
-intitule_in_force: "2017-01-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-3597"
-original_published_date: "2017-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-3597"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0039125&z=2024-06-28&g=2024-06-28"
-jci_1_0: "1.0:c:BWBR0039125&g=2024-06-28"
-citeertitel_status: "redactioneel"
-short_title: "Regeling kunstenaarshonorarium"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2024-06-28
+status: geldig
+toestand: 2024-06-28
+bron: "https://wetten.overheid.nl/BWBR0039125"
+opgehaald: 2026-08-25
 ---
+
 # Experimenteerreglement kunstenaarshonorarium
 
 ##### Artikel 1. Definities
 
-- a. **Kunstenaarshonorarium:** de vergoeding voor werk in het kader van een tentoonstelling, los van een (on-)kostenvergoeding. Daarbij worden vergoedingen voor vijf deelprestaties onderscheiden:
+- a. *Kunstenaarshonorarium:* de vergoeding voor werk in het kader van een tentoonstelling, los van een (on-)kostenvergoeding. Daarbij worden vergoedingen voor vijf deelprestaties onderscheiden:
 
-- •. het vervaardigen van nieuw werk;
+   - • het vervaardigen van nieuw werk;
 
-- •. aanpassing van bestaand werk;,
+   - • aanpassing van bestaand werk;,
 
-- •. werkzaamheden in het verlengde van het vervaardigen van werk voor een tentoonstelling;
+   - • werkzaamheden in het verlengde van het vervaardigen van werk voor een tentoonstelling;
 
-- •. werkzaamheden voor een evenement of tentoonstelling;,
+   - • werkzaamheden voor een evenement of tentoonstelling;,
 
-- •. het leveren van werk in eigendom van de kunstenaar voor een tentoonstelling).
+   - • het leveren van werk in eigendom van de kunstenaar voor een tentoonstelling).
 
-- b. **Bestuur:** het bestuur van het Mondriaan Fonds.
+- b. *Bestuur:* het bestuur van het Mondriaan Fonds.
 
-- c. **Beeldend kunstenaar:** degene die op professionele wijze werk maakt binnen het kader van de beeldende kunsten.
+- c. *Beeldend kunstenaar:* degene die op professionele wijze werk maakt binnen het kader van de beeldende kunsten.
 
-- d. **Beeldende kunst:** hedendaagse en actuele vormen van verbeelding die door beeldend kunstenaars worden vervaardigd binnen één of meer van de volgende terreinen:
+- d. *Beeldende kunst:* hedendaagse en actuele vormen van verbeelding die door beeldend kunstenaars worden vervaardigd binnen één of meer van de volgende terreinen:
 
-- •. teken-, schilder- en grafische kunsten,
+   - • teken-, schilder- en grafische kunsten,
 
-- •. beeldhouwkunst, (sociale) sculptuur en installatiekunst,
+   - • beeldhouwkunst, (sociale) sculptuur en installatiekunst,
 
-- •. conceptuele kunst, performancekunst, artistiek onderzoek,
+   - • conceptuele kunst, performancekunst, artistiek onderzoek,
 
-- •. niet-traditionele vormen van beeldende kunst,
+   - • niet-traditionele vormen van beeldende kunst,
 
-- •. fotografie,
+   - • fotografie,
 
-- •. audiovisuele, digitale, geluids- en (nieuwe) mediakunst,
+   - • audiovisuele, digitale, geluids- en (nieuwe) mediakunst,
 
-- •. beeldende kunsttoepassingen,
+   - • beeldende kunsttoepassingen,
 
-- •. kunst in de openbare ruimte.
+   - • kunst in de openbare ruimte.
 
-- e. **Beeldende kunstinstelling:** een in Nederland gevestigde publiekstoegankelijke organisatie die hedendaagse beeldende kunst tentoonstelt en het presenteren van beeldende kunst en/of erfgoed zonder verkoopdoel als kernactiviteit heeft.
+- e. *Beeldende kunstinstelling:* een in Nederland gevestigde publiekstoegankelijke organisatie die hedendaagse beeldende kunst tentoonstelt en het presenteren van beeldende kunst en/of erfgoed zonder verkoopdoel als kernactiviteit heeft.
 
 ##### Artikel 2. Toepasselijkheid
 
@@ -103,17 +84,17 @@ De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 3. De aanvraag dient voorzien te zijn van:
 
-- •. een beschrijving van de tentoonstelling,
+- • een beschrijving van de tentoonstelling,
 
-- •. een omschrijving van de deelprestaties als bedoeld in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2024-06-28&g=2024-06-28)
+- • een omschrijving van de deelprestaties als bedoeld in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2024-06-28&g=2024-06-28)
 
-- •. het ondertekend contract tussen de aanvrager en de kunstenaar(s) over de vergoeding van de in deze regeling gedefinieerde deelprestaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2024-06-28&g=2024-06-28), alsmede de factureringsmomenten,
+- • het ondertekend contract tussen de aanvrager en de kunstenaar(s) over de vergoeding van de in deze regeling gedefinieerde deelprestaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2024-06-28&g=2024-06-28), alsmede de factureringsmomenten,
 
-- •. een dekkende begroting van de tentoonstelling, inclusief honorarium voor de kunstenaar,
+- • een dekkende begroting van de tentoonstelling, inclusief honorarium voor de kunstenaar,
 
-- •. de meest recente jaarrekening van de kunstinstelling,
+- • de meest recente jaarrekening van de kunstinstelling,
 
-- •. een verklaring dat en op welke wijze de richtlijn wordt gevolgd.
+- • een verklaring dat en op welke wijze de richtlijn wordt gevolgd.
 
 4. Een aanvraag voor een bijdrage van minder dan 100 euro wordt niet in behandeling genomen.
 
@@ -129,13 +110,13 @@ De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 2. De aanvrager meldt onverwijld aan het bestuur als:
 
-- •. de activiteiten waarvoor de bijdrage is verstrekt niet of niet geheel zullen worden uitgevoerd,
+- • de activiteiten waarvoor de bijdrage is verstrekt niet of niet geheel zullen worden uitgevoerd,
 
-- •. niet of niet geheel aan de aan de bijdrage verbonden verplichtingen zal worden voldaan,
+- • niet of niet geheel aan de aan de bijdrage verbonden verplichtingen zal worden voldaan,
 
-- •. er ingrijpende inhoudelijke en/of financiële wijzigingen zijn ten opzichte het plan op basis waarvan de bijdrage is verstrekt,
+- • er ingrijpende inhoudelijke en/of financiële wijzigingen zijn ten opzichte het plan op basis waarvan de bijdrage is verstrekt,
 
-- •. er wijzigingen zijn in de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2024-06-28&g=2024-06-28) genoemde deelprestaties.
+- • er wijzigingen zijn in de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2024-06-28&g=2024-06-28) genoemde deelprestaties.
 
 3. Naar aanleiding van een in het tweede lid bedoelde melding kan, al naar gelang de aard daarvan, de bijdrage lager of op nihil worden vastgesteld of kunnen nadere afspraken worden gemaakt over de aanpassing van de verplichtingen.
 
@@ -145,4 +126,4 @@ De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 2. Het bestuur kan wegens zwaarwegende redenen afwijken van dit reglement.
 
-3. Dit reglement treedt in werking op 1 januari 2017 en is van kracht totdat het budget is uitgeput.
+3. Dit reglement treedt in werking op 1 januari 2017 en is van kracht totdat het budget is uitgeput.

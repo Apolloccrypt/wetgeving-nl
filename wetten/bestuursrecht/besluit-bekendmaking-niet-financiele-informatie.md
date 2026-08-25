@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 14 maart 2017, houdende regels ter uitvoering van richtlijn 2014/95/EU van het Europees Parlement en van de Raad van 22 oktober 2014 tot wijziging van richtlijn 2013/34/EU met betrekking tot de bekendmaking van niet-financiële informatie en informatie inzake diversiteit door bepaalde grote ondernemingen en groepen (PbEU 2014, L 330) (Besluit bekendmaking niet-financiële informatie)"
+citeertitel: "Besluit bekendmaking niet-financiële informatie"
 identifier: "BWBR0039355"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-03-24"
-last_updated: "2017-03-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039355"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13956133"
-version_id: "23997222"
-internal_id: "C34492921"
-label_id: "13919364"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039355/2017-03-24/0"
-intitule_bron: "Stb.2017-100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-14"
-intitule_published: "2017-03-23"
-intitule_in_force: "2017-03-23"
-intitule_status: "goed"
-original_publication: "Stb.2017-100"
-original_signed_date: "2017-03-14"
-original_published_date: "2017-03-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-100"
-entry_into_force_date: "2017-03-24"
-jci_1_3: "jci1.3:c:BWBR0039355&z=2017-03-24&g=2017-03-24"
-jci_1_0: "1.0:c:BWBR0039355&g=2017-03-24"
-citeertitel_status: "officieel"
-short_title: "Besluit bekendmaking niet-financiële informatie"
-signed_date: "2017-03-14"
-entry_into_force: "2017-03-24"
+publicatiedatum: 2017-03-24
+laatste_update: 2017-03-24
+status: geldig
+toestand: 2017-03-24
+bron: "https://wetten.overheid.nl/BWBR0039355"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van 14 maart 2017, houdende regels ter uitvoering van richtlijn 2014/95/EU van het Europees Parlement en van de Raad van 22 oktober 2014 tot wijziging van richtlijn 2013/34/EU met betrekking tot de bekendmaking van niet-financiële informatie en informatie inzake diversiteit door bepaalde grote ondernemingen en groepen (PbEU 2014, L 330) (Besluit bekendmaking niet-financiële informatie)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 15 november 2016, Directie Wetgeving en Juridische Zaken, nr. 2054502;
-
-Gelet op [artikel 391 lid 5 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 1 maart 2017, nr. W03.17.0016/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 7 maart 2017, nr 2054502;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -72,11 +40,11 @@ Hebben goedgevonden en verstaan:
 
 - b. het beleid, waaronder de toegepaste zorgvuldigheidsprocedures, alsmede de resultaten van dit beleid, ten aanzien van:
 
-- i. milieu-, sociale en personeelsaangelegenheden;
+   - i. milieu-, sociale en personeelsaangelegenheden;
 
-- ii. eerbiediging van mensenrechten;
+   - ii. eerbiediging van mensenrechten;
 
-- iii. bestrijding van corruptie en omkoping;
+   - iii. bestrijding van corruptie en omkoping;
 
 - c. de voornaamste risico’s met betrekking tot de onderwerpen genoemd in onderdeel b in verband met de activiteiten van de rechtspersoon, waaronder, indien relevant en evenredig, de zakelijke betrekkingen, producten of diensten van de rechtspersoon die waarschijnlijk negatieve effecten hebben op deze onderwerpen en hoe de rechtspersoon deze risico’s beheert;
 
@@ -107,5 +75,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking niet-financiële informatie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

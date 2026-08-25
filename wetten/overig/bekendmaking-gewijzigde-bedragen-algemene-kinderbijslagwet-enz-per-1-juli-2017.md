@@ -1,57 +1,69 @@
 ---
 title: "Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 juni 2017, 2017-0000102271, tot bekendmaking van de per 1 juli 2017 gewijzigde bedragen in de Algemene Kinderbijslagwet, de Algemene nabestaandenwet, de Algemene Ouderdomswet en de Tijdelijke regeling overbruggingsuitkering AOW"
+citeertitel: "Bekendmaking gewijzigde bedragen Algemene Kinderbijslagwet, enz. per 1 juli 2017"
 identifier: "BWBR0039694"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039694"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14028993"
-version_id: "24160962"
-internal_id: "C34719811"
-label_id: "13990344"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039694/2017-07-01/0"
-intitule_bron: "Stcrt.2017-35155"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-14"
-intitule_published: "2017-06-26"
-intitule_in_force: "2017-06-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-35155"
-original_signed_date: "2017-06-14"
-original_published_date: "2017-06-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-35155"
-entry_into_force_date: "2017-07-01"
-jci_1_3: "jci1.3:c:BWBR0039694&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0039694&g=2017-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Bekendmaking gewijzigde bedragen Algemene Kinderbijslagwet, enz. per 1 juli 2017"
-signed_date: "2017-06-14"
-entry_into_force: "2017-07-01"
+publicatiedatum: 2017-07-01
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0039694"
+opgehaald: 2026-08-25
 ---
+
 # Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 juni 2017, 2017-0000102271, tot bekendmaking van de per 1 juli 2017 gewijzigde bedragen in de Algemene Kinderbijslagwet, de Algemene nabestaandenwet, de Algemene Ouderdomswet en de Tijdelijke regeling overbruggingsuitkering AOW
 
-**De Minister van Sociale Zaken en Werkgelegenheid,**
+*De Minister van Sociale Zaken en Werkgelegenheid,*
 
 Gelet op [artikel 13, derde en achtste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=13), [artikel 2, tweede lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=2), [artikel 9, zevende lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) en de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033498&artikel=3), en [8, vierde lid, van de Tijdelijke regeling overbruggingsuitkering AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0033498&artikel=8);
 
-**Deelt mee:**
+*Deelt mee:*
 
-### A. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+### A. Algemene Kinderbijslagwet
 
-### B. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+- 1. *Wijzigt de Algemene Kinderbijslagwet.*
 
-### C. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+- 2. Met ingang van 1 juli 2017 bedragen de kinderbijslagbedragen, bedoeld in [artikel 12, derde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=12):
 
-Met ingang van 1 juli 2017 bedraagt het bruto-ouderdomspensioen:
+   - a. voor een kind dat jonger is dan 6 jaar: € 200,59;
 
-### D. [Tijdelijke regeling overbruggingsuitkering AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0033498)
+   - b. voor een kind dat 6 jaar of ouder is, maar jonger is dan 12 jaar: € 243,57; en
 
-Wijzigt de Tijdelijke regeling overbruggingsuitkering AOW.
+   - c. voor een kind dat 12 jaar en ouder is, maar jonger is dan 18 jaar: € 286,55.
 
-Deze bekendmaking zal met de toelichting in de Staatscourant worden geplaatst.
+### B. Algemene nabestaandenwet
+
+- 1. Met ingang van 1 juli 2017 bedraagt de bruto-nabestaandenuitkering:
+
+   - a. bedoeld in [artikel 17, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17): € 1.172,78;
+
+   - b. bedoeld in [artikel 17, tweede lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17): € 753,28;
+
+   - c. bedoeld in [artikel 17, vijfde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17): € 753,28.
+
+- 2. Met ingang van 1 juli 2017 bedraagt de bruto-wezenuitkering:
+
+   - a. bedoeld in [artikel 29, tweede lid, onderdeel a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29): € 375,29;
+
+   - b. bedoeld in [artikel 29, tweede lid, onderdeel b, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29): € 562,93;
+
+   - c. bedoeld in [artikel 29, tweede lid, onderdeel c, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29): € 750,58.
+
+- 3. Met ingang van 1 juli 2017 bedraagt de bruto-nabestaandenuitkering:
+
+   - a. bedoeld in [artikel 70, eerste lid, onderdeel c, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=70): € 962,16; en
+
+   - b. bedoeld in [artikel 70, eerste lid, onderdeel d, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=70): € 857,77.
+
+### C. Algemene Ouderdomswet
+
+Met ingang van 1 juli 2017 bedraagt het bruto-ouderdomspensioen:
+
+- a. bedoeld in [artikel 9, vijfde lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9): € 1.136,13;
+
+- b. bedoeld in [artikel 9, vijfde lid, onderdeel b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9): € 775,49.
+
+### D. Tijdelijke regeling overbruggingsuitkering AOW
+
+*Wijzigt de Tijdelijke regeling overbruggingsuitkering AOW.*

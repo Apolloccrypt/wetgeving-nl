@@ -1,67 +1,38 @@
 ---
 title: "Wet van 19 april 2017 tot integratie van de Wet huurcommissieregeling BES in een Wet maatregelen huurwoningmarkt Caribisch Nederland onder gelijktijdige aanpassing van eerstgenoemde wet, van Boek 7a van het Burgerlijk Wetboek BES en de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES (Wet maatregelen huurwoningmarkt Caribisch Nederland)"
+citeertitel: "Wet maatregelen huurwoningmarkt Caribisch Nederland"
 identifier: "BWBR0039553"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039553"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "14004123"
-version_id: "24100122"
-internal_id: "C39022101"
-label_id: "13966644"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039553/2025-02-12/0"
-intitule_bron: "Stb.2017-189"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-04-19"
-intitule_published: "2017-05-12"
-intitule_in_force: "2021-03-31"
-intitule_status: "goed"
-original_publication: "Stb.2017-189"
-original_signed_date: "2017-04-19"
-original_published_date: "2017-05-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "34523"
-original_url_id: "stb-2017-189"
-entry_into_force_date: "2021-04-01"
-jci_1_3: "jci1.3:c:BWBR0039553&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0039553&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Wet maatregelen huurwoningmarkt Caribisch Nederland"
-signed_date: "2017-04-19"
-entry_into_force: "2021-04-01"
+publicatiedatum: 2021-04-01
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0039553"
+opgehaald: 2026-08-25
 ---
+
 # Wet van 19 april 2017 tot integratie van de Wet huurcommissieregeling BES in een Wet maatregelen huurwoningmarkt Caribisch Nederland onder gelijktijdige aanpassing van eerstgenoemde wet, van Boek 7a van het Burgerlijk Wetboek BES en de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES (Wet maatregelen huurwoningmarkt Caribisch Nederland)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is tegelijk met het voorstel van wet tot aanpassing van [Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752), de bepalingen van de [Wet huurcommissieregeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028558) te integreren in een nieuw wetsvoorstel en deze bepalingen waar mogelijk te rangschikken, te vereenvoudigen, te actualiseren alsmede in een aantal artikelen inhoudelijke wijzigingen aan te brengen en voorts de [Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218) aan te passen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Huurprijzen en huurcommissie
 
-### Afdeling 1. Begripsomschrijvingen
+#### Afdeling 1. Begripsomschrijvingen
 
 ##### Artikel 1.1
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **gebrek:** gebrek als bedoeld in [artikel 7a:1603i van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603i);
+- a. *gebrek:* gebrek als bedoeld in [artikel 7a:1603i van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603i);
 
-- b. **huur en verhuur, huurprijs, servicekosten en woning:** hetgeen daaronder wordt verstaan in de [derde afdeling van titel 7 van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&afdeling=Derde);
+- b. *huur en verhuur, huurprijs, servicekosten en woning:* hetgeen daaronder wordt verstaan in de [derde afdeling van titel 7 van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&afdeling=Derde);
 
-- c. **huurcommissie:** huurcommissie als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.4&z=2025-02-12&g=2025-02-12);
+- c. *huurcommissie:* huurcommissie als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.4&z=2025-02-12&g=2025-02-12);
 
-- d. **inflatiepercentage:** het onmiddellijk voorafgaand aan de datum van 1 juli, ieder jaar in januari door het Centraal Bureau voor de Statistiek bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn verhoogd, met dien verstande dat dat percentage ten minste 0 bedraagt;
+- d. *inflatiepercentage:* het onmiddellijk voorafgaand aan de datum van 1 juli, ieder jaar in januari door het Centraal Bureau voor de Statistiek bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn verhoogd, met dien verstande dat dat percentage ten minste 0 bedraagt;
 
-- e. **openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- e. *openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-### Afdeling 2. Reikwijdte
+#### Afdeling 2. Reikwijdte
 
 ##### Artikel 1.2
 
@@ -75,9 +46,9 @@ Deze wet is van toepassing in de openbare lichamen.
 
 3. Bij eilandsverordening wordt het in [artikel 7a:1603, derde lid, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603) bedoelde bedrag van de huurprijs bij de aanvang van de bewoning vastgesteld, waarboven ingevolge dat artikel voornoemde onderafdelingen ten dele van toepassing zijn.
 
-4. Bij eilandsverordening wordt het bedrag, bedoeld in het derde lid, jaarlijks, met ingang van 1 juli, aangepast met het inflatiepercentage.
+4. Bij eilandsverordening wordt het bedrag, bedoeld in het derde lid, jaarlijks, met ingang van 1 juli, aangepast met het inflatiepercentage.
 
-### Afdeling 3. Instelling, inrichting, samenstelling en taken van de huurcommissie en van de voorzitter van de huurcommissie
+#### Afdeling 3. Instelling, inrichting, samenstelling en taken van de huurcommissie en van de voorzitter van de huurcommissie
 
 #### § 1. Instelling, inrichting en samenstelling van de huurcommissie
 
@@ -161,7 +132,7 @@ De huurcommissie verstrekt op verzoek aan het Gerecht in eerste aanleg van Bonai
 
 De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.9&z=2025-02-12&g=2025-02-12), en de in het tweede en derde lid van dat artikel aangegeven gevallen uitspraak te doen indien ten aanzien van een aan de huurcommissie gedaan verzoek een van de in [artikel 1.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=5&artikel=1.25&z=2025-02-12&g=2025-02-12), bedoelde gevallen zich voordoet.
 
-### Afdeling 4. Toetsingscriteria en uitspraken huurcommissie
+#### Afdeling 4. Toetsingscriteria en uitspraken huurcommissie
 
 #### § 1. Algemeen
 
@@ -279,7 +250,7 @@ In geval van een verzoek als bedoeld in [artikel 7a:1603o van het Burgerlijk Wet
 
 Indien bij de behandeling van het verzoek blijkt, dat er tussen de verhuurder en de huurder een geschil bestaat over het bedrag van de huurprijs, dat op grond van bepalingen van dit hoofdstuk verschuldigd is, zal de huurcommissie daarnaar onderzoek doen, aan partijen mededelen, welk bedrag van de huurprijs naar haar mening verschuldigd is en de vordering niet toewijzen alvorens de huurder een termijn te hebben gegund om alsnog aan zijn verplichtingen te voldoen.
 
-### Afdeling 5. Voorzittersuitspraken
+#### Afdeling 5. Voorzittersuitspraken
 
 ##### Artikel 1.25
 
@@ -301,7 +272,7 @@ Indien bij de behandeling van het verzoek blijkt, dat er tussen de verhuurder en
 
 7. Indien geen van de in het zesde lid genoemde partijen binnen de in dat lid genoemde termijn in verzet is gegaan, is hetgeen in [artikel 7a:1603s van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603s) is bepaald met betrekking tot een uitspraak van de huurcommissie, van overeenkomstige toepassing op de uitspraak van de voorzitter.
 
-### Afdeling 6. Werkwijze van de huurcommissie
+#### Afdeling 6. Werkwijze van de huurcommissie
 
 #### § 1. Algemene bepalingen
 
@@ -417,7 +388,7 @@ Alle beslissingen worden genomen bij meerderheid van stemmen.
 
 Voor de bestrijding van bureaukosten en de uitbetaling van de aan getuigen en deskundigen toe te leggen vergoedingen worden door het bestuurscollege aan de secretaris gelden ter beschikking gesteld.
 
-### Afdeling 7. Slot- overgangsbepalingen
+#### Afdeling 7. Slot- overgangsbepalingen
 
 ##### Artikel 1.45
 
@@ -443,25 +414,27 @@ In elke rechtsvordering ter zake van hetgeen onverschuldigd mocht zijn betaald i
 
 De [Wet huurcommissieregeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028558) geldt niet voor een openbaar lichaam waarvoor hoofdstuk 1 van deze wet in werking is getreden en wordt ingetrokken op het moment dat hoofdstuk 1 van deze wet in alle openbare lichamen van toepassing is geworden.
 
-### Hoofdstuk 2. Wijziging van de [zevende titel van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&titeldeel=Zevende)
+### Hoofdstuk 2. Wijziging van de zevende titel van Boek 7a van het Burgerlijk Wetboek BES
 
 ##### Artikel 2.1
 
-Wijzigt Burgerlijk Wetboek BES Boek 7a.
+*Wijzigt Burgerlijk Wetboek BES Boek 7a.*
 
-### Hoofdstuk 3. Wijziging van de [Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218)
+### Hoofdstuk 3. Wijziging van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES
 
 ##### Artikel 3.1
 
-Wijzigt de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES.
+*Wijzigt de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES.*
 
 ### Hoofdstuk 4
+
+*[Vervallen]*
 
 ### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 5.1 en 5.2
 
-**[Vervallen]**
+*[Vervallen]*
 
 ##### Artikel 5.3
 
@@ -474,5 +447,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 ##### Artikel 5.5
 
 Deze wet wordt aangehaald als: Wet maatregelen huurwoningmarkt Caribisch Nederland.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

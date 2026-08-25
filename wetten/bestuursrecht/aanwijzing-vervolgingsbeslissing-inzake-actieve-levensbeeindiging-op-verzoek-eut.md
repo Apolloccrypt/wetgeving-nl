@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing vervolgingsbeslissing inzake actieve levensbeëindiging op verzoek (euthanasie en hulp bij zelfdoding)"
 identifier: "BWBR0039555"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-05-17"
-last_updated: "2017-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039555"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "14005393"
-version_id: "24101172"
-internal_id: "C34632991"
-label_id: "13967204"
-dtd_version: "2.0"
-original_entry_into_force: "2017-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039555/2017-05-17/0"
-intitule_bron: "Stcrt.2017-27069"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-05-17"
-intitule_in_force: "2017-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-27069"
-original_published_date: "2017-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-27069"
-entry_into_force_date: "2017-05-17"
-jci_1_3: "jci1.3:c:BWBR0039555&z=2017-05-17&g=2017-05-17"
-jci_1_0: "1.0:c:BWBR0039555&g=2017-05-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-05-17"
+publicatiedatum: 2017-05-17
+laatste_update: 2017-05-17
+status: geldig
+toestand: 2017-05-17
+bron: "https://wetten.overheid.nl/BWBR0039555"
+opgehaald: 2026-08-25
 ---
+
 # Aanwijzing vervolgingsbeslissing inzake actieve levensbeëindiging op verzoek (euthanasie en hulp bij zelfdoding)
 
 ### Samenvatting
@@ -40,13 +21,19 @@ De grondslag van deze beslissingen ligt in toepassing van de [artikelen 293](htt
 
 ### 1. Wettelijke regeling
 
+Bijzondere strafuitsluitingsgrond
+
 In de [artikelen 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293) en [294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294) is euthanasie en hulp bij zelfdoding uitgevoerd door een arts straffeloos geworden, mits de arts de levensbeëindiging heeft gemeld en hij daarbij aan de voorwaarden heeft voldaan die zijn genoemd in [artikel 2 van de WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2).
+
+Rol Openbaar Ministerie
 
 Beslissingen om artsen al dan niet te vervolgen in verband met [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293) en [294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294) zijn aan te merken als gevoelige zaken die het College meldt aan de minister van Veiligheid en Justitie.
 
-Gelet op de hiervoor genoemde bijzondere strafuitsluitingsgrond beoordeelt het College slechts die zaken waarin de regionale toetsingscommissie voor euthanasie (hierna: de toetsingscommissie) tot het oordeel is gekomen dat de arts **niet** in overeenstemming met de zorgvuldigheidseisen heeft gehandeld ([artikel 9, tweede lid, onder a WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9)). In die gevallen komt de arts niet zondermeer een beroep toe op de genoemde bijzondere strafuitsluitingsgrond.
+Gelet op de hiervoor genoemde bijzondere strafuitsluitingsgrond beoordeelt het College slechts die zaken waarin de regionale toetsingscommissie voor euthanasie (hierna: de toetsingscommissie) tot het oordeel is gekomen dat de arts *niet* in overeenstemming met de zorgvuldigheidseisen heeft gehandeld ([artikel 9, tweede lid, onder a WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9)). In die gevallen komt de arts niet zondermeer een beroep toe op de genoemde bijzondere strafuitsluitingsgrond.
 
-Dat is anders in de gevallen waarin de toetsingscommissie oordeelt dat de arts **zorgvuldig** heeft gehandeld. Dat oordeel geldt dan als een eindoordeel en deze zaken worden dan ook niet meer ter kennis gebracht van het Openbaar Ministerie. De rol van het Openbaar Ministerie is daarmee, behoudens het geven van een verklaring van geen bezwaar tegen de begraving of verbranding1De officier van justitie is gehouden om, óók in gevallen van levensbeëindiging op verzoek, als bevoegde autoriteit te beslissen over het al dan niet afgeven van een verklaring van geen bezwaar tegen begraven/verbranding., door de wetgever ingeperkt.
+Dat is anders in de gevallen waarin de toetsingscommissie oordeelt dat de arts *zorgvuldig* heeft gehandeld. Dat oordeel geldt dan als een eindoordeel en deze zaken worden dan ook niet meer ter kennis gebracht van het Openbaar Ministerie. De rol van het Openbaar Ministerie is daarmee, behoudens het geven van een verklaring van geen bezwaar tegen de begraving of verbranding1De officier van justitie is gehouden om, óók in gevallen van levensbeëindiging op verzoek, als bevoegde autoriteit te beslissen over het al dan niet afgeven van een verklaring van geen bezwaar tegen begraven/verbranding., door de wetgever ingeperkt.
+
+Rol gemeentelijk lijkschouwer en de Inspectie voor de Gezondheidszorg
 
 Het feit dat de toetsingscommissie enkel de gevallen van levensbeëindiging beoordeelt die door de euthanaserende arts zijn gemeld, onderstreept het belang van de kwaliteit van de schouw die wordt uitgevoerd door de gemeentelijk lijkschouwer.
 
@@ -54,9 +41,11 @@ De oordelen waarin de toetsingscommissie tot het oordeel is gekomen dat de arts 
 
 De IGZ houdt derhalve zelfstandig toezicht op de uitvoeringspraktijk van euthanasie en hulp bij zelfdoding en vervult om die reden, naast het Openbaar Ministerie, een belangrijke rol in het bewaken van de in wet vastgelegde waarborgen. De IGZ informeert het Openbaar Ministerie vervolgens actief over de wijze waarop ze de ontvangen oordelen van de toetsingscommissie heeft beoordeeld en hoe ze de in de [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) vastgelegde zorgvuldigheidseisen heeft gehandhaafd. Het Openbaar Ministerie zal deze beoordeling in zijn eigen oordeel over de afdoening van de zaak betrekken.
 
+Reikwijdte
+
 De onderhavige aanwijzing ziet alleen op de gevallen waarin de toetsingscommissie oordeelt dat de arts niet heeft gehandeld overeenkomstig de zorgvuldigheidseisen.
 
-De aanwijzing ziet niet op de gevallen waarin de levensbeëindiging **niet** door een arts is gemeld. Een arts die een levensbeëindiging niet meldt, kan geen beroep doen op de bijzondere strafuitsluitingsgrond van [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293) en [294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294), maar alleen nog – in bijzondere gevallen – op de algemene rechtvaardigings- en schulduitsluitingsgronden.
+De aanwijzing ziet niet op de gevallen waarin de levensbeëindiging *niet* door een arts is gemeld. Een arts die een levensbeëindiging niet meldt, kan geen beroep doen op de bijzondere strafuitsluitingsgrond van [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293) en [294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294), maar alleen nog – in bijzondere gevallen – op de algemene rechtvaardigings- en schulduitsluitingsgronden.
 
 De aanwijzing ziet evenmin op de situatie als bedoeld in [artikel 9 lid 2 onder b WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9) jo. [artikel 12, laatste volzin, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12). In die gevallen gaat het om de situatie waarin de officier van justitie geen verklaring van geen bezwaar tegen begraven of verbranden wil afgeven.
 
@@ -65,6 +54,12 @@ De aanwijzing ziet evenmin op de situatie als bedoeld in [artikel 9 lid 2 onder 
 ### 2.1. Inleiding
 
 Het College kan doen besluiten tot:
+
+- • een opsporingsonderzoek wordt gestart alvorens definitief kan worden beslist;
+
+- • de zaak wordt geseponeerd eventueel onder bepaalde (bijzondere) voorwaarden;
+
+- • de arts wordt vervolgd (dagvaarden).
 
 Over deze beslissing informeert het College de toetsingscommissie, de IGZ en het arrondissementsparket Rotterdam (EMZ).2Het Landelijk Expertisecentrum Medische Zaken. Het College informeert de arts over de afdoeningsbeslissing.
 
@@ -86,11 +81,29 @@ Hieronder wordt een kader gegeven van relevante overwegingen bij die beoordeling
 
 [Artikel 2, eerste lid, van de WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2) eist dat de arts:
 
+- a. de overtuiging heeft gekregen dat er sprake was van een vrijwillig en weloverwogen verzoek van de patiënt;
+
+- b. de overtuiging heeft gekregen dat er sprake was van uitzichtloos en ondraaglijk lijden van de patiënt;
+
+- c. de patiënt heeft voorgelicht over de situatie waarin deze zich bevond en over diens vooruitzichten;
+
+- d. met de patiënt tot de overtuiging is gekomen dat er voor de situatie waarin deze zich bevond geen redelijke andere oplossing was;
+
+- e. tenminste één andere, onafhankelijke arts heeft geraadpleegd, die de patiënt heeft gezien en, schriftelijk zijn oordeel heeft gegeven over de zorgvuldigheidseisen, bedoeld in de onderdelen a tot en met d, en
+
+- f. de levensbeëindiging medisch zorgvuldig heeft uitgevoerd.
+
+Vervolging geïndiceerd bij schending substantiële zorgvuldigheidseisen
+
 Wanneer de arts volgens de toetsingscommissie niet conform de hiervoor onder a tot en met f genoemde zorgvuldigheidseisen heeft gehandeld, kan het vermoeden van schuld ontstaan aan overtreding van de [artikelen 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293) en [294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294). Als het Openbaar Ministerie daarna tot het oordeel komt dat de arts aan dit feit schuldig is, dan is vervolging in beginsel geïndiceerd.
 
-Bij de beoordeling van de opportuniteit is de aard van de geschonden norm bepalend. Verdenking van [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293)/[294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294) wegens schending van een **substantiële** zorgvuldigheidseis dient, behoudens uitzonderingen, tot strafrechtelijke vervolging te leiden. In alle andere gevallen daarentegen kan voor een (voorwaardelijk) sepot worden gekozen. Substantiële zorgvuldigheidseisen zijn de eis dat het verzoek vrijwillig en weloverwogen is en de eis dat sprake is van uitzichtloos en ondraaglijk lijden.
+Bij de beoordeling van de opportuniteit is de aard van de geschonden norm bepalend. Verdenking van [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293)/[294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294) wegens schending van een *substantiële* zorgvuldigheidseis dient, behoudens uitzonderingen, tot strafrechtelijke vervolging te leiden. In alle andere gevallen daarentegen kan voor een (voorwaardelijk) sepot worden gekozen. Substantiële zorgvuldigheidseisen zijn de eis dat het verzoek vrijwillig en weloverwogen is en de eis dat sprake is van uitzichtloos en ondraaglijk lijden.
+
+Het begrip ‘overtuiging’
 
 Alvorens nader in te gaan op een aantal afzonderlijke zorgvuldigheidseisen, is het van belang het begrip ‘overtuiging’ nader toe te lichten. Dit begrip komt drie maal voor in [artikel 2, eerste lid, van de WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2), te weten onder a, b en d. Opgemerkt wordt dat voor een succesvol beroep hierop van belang is of deze overtuiging van de arts objectiveerbaar is waar het gaat om de eisen dat het verzoek vrijwillig en weloverwogen is en het lijden uitzichtloos is. Dit wil zeggen dat de overtuiging van de arts aansluit bij het heersende medisch-ethisch inzicht, in andere woorden de professionele standaard van de beroepsgroep. Een arts die (grovelijk) afwijkt van de professionele standaard, wordt niet op grond van zijn particuliere overtuiging over de situatie van zijn patiënt en de behandelmogelijkheden gedisculpeerd. De ondraaglijkheid van het lijden is in hoge mate subjectief (zie ook hierna onder ‘lijden’) maar moet tot op zekere hoogte objectiveerbaar zijn. Indien het lijden van de patiënt niet evident is, zal de arts – mede aan de hand van zijn professionele standaard – moeten kunnen onderbouwen waarom het lijden voor hem invoelbaar is geweest. Een arts die (grovelijk) afwijkt van de professionele standaard, wordt niet op grond van zijn particuliere overtuiging over de situatie van zijn patiënt en de behandelmogelijkheden gedisculpeerd.
+
+Artikel 2 lid 1 onder a
 
 Indien van meet af aan het vermoeden bestaat dat de arts het leven van een ander heeft beëindigd, terwijl er in het geheel geen verzoek is gedaan tot levensbeëindiging, dan zal de zaak door de lijkschouwer direct onder de aandacht van de officier van justitie worden gebracht en is direct sprake van verdenking van een levensdelict. Op dit type zaken ziet deze aanwijzing niet.
 
@@ -98,21 +111,33 @@ Bij schending van [artikel 2, eerste lid onder a, van de WTL](https://wetten.ove
 
 De zorgvuldigheidseis dat het verzoek van de patiënt vrijwillig en weloverwogen is, is zoals gezegd een substantiële zorgvuldigheidsnorm. Indien deze norm wordt geschonden, ligt strafrechtelijke vervolging in de rede. Hierbij kan gedacht worden aan situaties waarin:
 
+- • de patiënt onder druk of invloed (van anderen of door gebrek aan zorg) zijn verzoek heeft gedaan;
+
+- • de arts in geobjectiveerde zin niet tot de overtuiging heeft kunnen komen dat het verzoek weloverwogen was, bijvoorbeeld omdat de patiënt onvoldoende geïnformeerd was over de gestelde diagnoses, prognoses en behandel- en (palliatieve) verzorgingsmogelijkheden;
+
+- • de patiënt niet in staat was zijn wil te uiten;
+
+- • geen sprake was van een consistent verzoek van de patiënt.
+
 De wet stelt niet de eis dat een verzoek tot levensbeëindiging op schrift is gesteld.
 
-In het geval dat de patiënt op het moment waarop wordt besloten tot levensbeëindigend handelen niet (langer) wilsbekwaam is, zijn de zorgvuldigheidseisen van de [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) enkel van toepassing indien sprake is van een schriftelijke wilsverklaring die is afgelegd voordat sprake was van wilsonbekwaamheid ([artikel 2, tweede lid, WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2)) en die ziet op de situatie waarin de levensbeëindiging plaatsvindt. De beoordeling van de zorgvuldigheidseisen dient dan uiteraard nog steeds plaats te vinden aan de hand van de **actuele** situatie waarin de patiënt zich bevindt, dat wil zeggen op het moment dat de schriftelijke wilsverklaring wordt ingeroepen en daadwerkelijk tot levensbeëindiging wordt besloten.
+In het geval dat de patiënt op het moment waarop wordt besloten tot levensbeëindigend handelen niet (langer) wilsbekwaam is, zijn de zorgvuldigheidseisen van de [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) enkel van toepassing indien sprake is van een schriftelijke wilsverklaring die is afgelegd voordat sprake was van wilsonbekwaamheid ([artikel 2, tweede lid, WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2)) en die ziet op de situatie waarin de levensbeëindiging plaatsvindt. De beoordeling van de zorgvuldigheidseisen dient dan uiteraard nog steeds plaats te vinden aan de hand van de *actuele* situatie waarin de patiënt zich bevindt, dat wil zeggen op het moment dat de schriftelijke wilsverklaring wordt ingeroepen en daadwerkelijk tot levensbeëindiging wordt besloten.
 
 De [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) is niet van toepassing wanneer een patiënt niet als wilsbekwaam kan worden aangemerkt en de hiervoor beschreven (adequate) schriftelijke wilsverklaring ontbreekt.
 
 Weloverwogen veronderstelt een zorgvuldige afweging van de patiënt op basis van volledige informatie en een helder inzicht in het ziektebeeld. De zorgvuldigheidseisen genoemd in [artikel 2, eerste lid onder c en d, van de WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2) (voorlichting en de afwezigheid van een redelijk andere oplossing) zijn aspecten van het weloverwogen zijn van een verzoek en worden daarom in deze aanwijzing niet apart genoemd.
 
-Bij twijfel of aan deze eis is voldaan, is het starten van een strafrechtelijk onderzoek geïndiceerd. Wanneer uit het onderzoek volgt dat geen sprake was van uitzichtloos en/of ondraaglijk lijden, ligt strafvervolging in de rede nu ook deze eis een **substantiële** zorgvuldigheidsnorm betreft.
+Artikel 2 lid 1 onder b
+
+Bij twijfel of aan deze eis is voldaan, is het starten van een strafrechtelijk onderzoek geïndiceerd. Wanneer uit het onderzoek volgt dat geen sprake was van uitzichtloos en/of ondraaglijk lijden, ligt strafvervolging in de rede nu ook deze eis een *substantiële* zorgvuldigheidsnorm betreft.
 
 Een bijzondere situatie doet zich voor wanneer de toetsingscommissie van oordeel is dat de arts niet tot de overtuiging heeft kunnen komen dat sprake was van uitzichtloos en/of ondraaglijk lijden, bijvoorbeeld doordat er geen consultatie heeft plaatsgevonden door een tweede onafhankelijke arts of wanneer de verslaglegging door de arts gebrekkig was. Ook dan ligt een strafrechtelijk onderzoek in de rede, waarin onder meer wordt onderzocht of achteraf bezien objectieve redenen aanwezig zijn om aan te nemen dat sprake is geweest van uitzichtloos en ondraaglijk lijden. Wanneer het College tot die overtuiging kan komen, kan alsnog geconcludeerd worden dat de arts geen substantieel strafrechtelijk verwijt meer valt te maken. In die gevallen resteert dan een lichter verwijt. Te denken valt aan de overtreding van [artikel 7, tweede lid van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=7)4Overtreding waarop een hechtenis van ten hoogste een maand of geldboete van de tweede categorie staat., te weten het niet voldoen aan de verplichting dat de arts een beredeneerd verslag opmaakt dat de toetsingscommissie in staat stelt te beoordelen of de arts overeenkomstig de zorgvuldigheidseisen heeft gehandeld ([artikel 8, eerste lid WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=8)).
 
 Het begrip uitzichtloos en ondraaglijk lijden laat ruimte voor de waardering van de concrete omstandigheden van het geval. De uitzichtloosheid van het lijden dient daarom te worden geobjectiveerd. Dit wil zeggen dat volgens geobjectiveerde medische maatstaven moet worden nagegaan of de situatie van de patiënt nog te verbeteren was. Als deze vraag ontkennend wordt beantwoord, ontbreekt een reëel behandelperspectief. Een behandelperspectief is reëel indien naar huidig medisch inzicht bij adequate behandeling zicht op verbetering is, binnen afzienbare termijn en met een redelijke verhouding tussen de te verwachten resultaten en de belasting van de behandeling voor de patiënt.
 
-De vaststelling dat sprake was van ondraaglijkheid van het lijden komt neer op een marginale toets van het Openbaar Ministerie, waarin de vraag centraal staat of de behandelende arts in **redelijkheid** tot de conclusie kon komen dat sprake was van ondraaglijk lijden.
+De vaststelling dat sprake was van ondraaglijkheid van het lijden komt neer op een marginale toets van het Openbaar Ministerie, waarin de vraag centraal staat of de behandelende arts in *redelijkheid* tot de conclusie kon komen dat sprake was van ondraaglijk lijden.
+
+Lijden
 
 Wanneer wel of geen sprake is van ‘lijden’, is niet exact te omschrijven en zal per patiënt verschillen.
 
@@ -120,9 +145,11 @@ De wet stelt in ieder geval niet als vereiste dat een patiënt in de stervensfas
 
 De ondraaglijkheid van het lijden is, zoals ook hierboven aangegeven, in hoge mate subjectief maar dient voor de arts evenals voor de – latere – beoordelaars behalve invoelbaar tot op zekere hoogte ook in geobjectiveerde zin verklaarbaar te zijn.
 
-Dat euthanasie en hulp bij zelfdoding niet zonder meer zijn uitgesloten op de enkele grond dat het ondraaglijk en uitzichtloos lijden van een patiënt niet een somatische oorzaak heeft en de patiënt niet in de stervensfase verkeert, volgt reeds uit het Chabot-arrest6HR 21 juni 1994, ECLI:NL:HR:1994:AD2122 (gepubliceerd in NJ 1994, 656).. Het lijden kan dus voortkomen uit een lichamelijke of een psychische ziekte. Wel moet steeds sprake zijn van een medisch classificeerbare ziekte of aandoening. In andere woorden: het lijden moet wel een medische dimensie bevatten. Om die reden kan bijvoorbeeld wel bij patiënten met Alzheimer euthanasie of hulp bij zelfdoding gerechtvaardigd zijn (wanneer sprake is van ondraaglijk en uitzichtloos lijden) maar valt de zogenaamde ‘klaar met leven’-problematiek **buiten** de reikwijdte van de [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410).
+Dat euthanasie en hulp bij zelfdoding niet zonder meer zijn uitgesloten op de enkele grond dat het ondraaglijk en uitzichtloos lijden van een patiënt niet een somatische oorzaak heeft en de patiënt niet in de stervensfase verkeert, volgt reeds uit het Chabot-arrest6HR 21 juni 1994, ECLI:NL:HR:1994:AD2122 (gepubliceerd in NJ 1994, 656).. Het lijden kan dus voortkomen uit een lichamelijke of een psychische ziekte. Wel moet steeds sprake zijn van een medisch classificeerbare ziekte of aandoening. In andere woorden: het lijden moet wel een medische dimensie bevatten. Om die reden kan bijvoorbeeld wel bij patiënten met Alzheimer euthanasie of hulp bij zelfdoding gerechtvaardigd zijn (wanneer sprake is van ondraaglijk en uitzichtloos lijden) maar valt de zogenaamde ‘klaar met leven’-problematiek *buiten* de reikwijdte van de [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410).
 
 Het spreekt voor zich dat bij een psychische ziekte – of een andere ziekte die van invloed kan zijn op de wilsbekwaamheid van degene die om levensbeëindiging verzoekt – het van belang is dat niet alleen de behandelbaarheid en de uitzichtloosheid van het lijden wordt beoordeeld, maar tevens een extra nauwkeurige beoordeling plaatsvindt ten aanzien van het vereiste dat het verzoek tot levensbeëindiging weloverwogen is.
+
+Artikel 2 lid 1 onder e
 
 De toetsingscommissie kan tot het oordeel komen dat de arts niet zorgvuldig heeft gehandeld, omdat de euthanaserende arts niet ten minste één andere onafhankelijke arts heeft geraadpleegd die de patiënt heeft gezien en schriftelijk zijn oordeel heeft gegeven over de vraag of aan de zorgvuldigheidseisen is voldaan. Vaak wordt hiervoor een SCEN7SCEN staat voor Steun en Consultatie bij Euthanasie in Nederland. Scen-artsen hebben een speciale opleiding gevolgd.-arts geraadpleegd.
 
@@ -134,7 +161,9 @@ In de jurisprudentie is bepaald dat onder omstandigheden het achterwege blijven 
 
 Als door het ontbreken van de consultatie onvoldoende vast komt te staan dat sprake is geweest van uitzichtloos en ondraaglijk lijden en dus de beoordeling van de vraag of de arts een beroep op noodtoestand toekomt niet mogelijk is, ligt een strafrechtelijk onderzoek en/of vervolging voor de hand (zie hiervoor).
 
-Het vereiste van medisch zorgvuldige uitvoering omvat in de eerste plaats de medisch-technisch correcte toediening van de juiste middelen zoals omschreven in de KNMG/KNMP richtlijn Uitvoering euthanasie en hulp bij zelfdoding. In de tweede plaats dient de levensbeëindiging door de arts **zelf** te worden uitgevoerd. Bij het verlenen van hulp bij zelfdoding wordt de arts geacht zelf aanwezig, of in de nabije omgeving beschikbaar te blijven, tot de dood definitief is ingetreden.
+Artikel 2 lid 1 onder f
+
+Het vereiste van medisch zorgvuldige uitvoering omvat in de eerste plaats de medisch-technisch correcte toediening van de juiste middelen zoals omschreven in de KNMG/KNMP richtlijn Uitvoering euthanasie en hulp bij zelfdoding. In de tweede plaats dient de levensbeëindiging door de arts *zelf* te worden uitgevoerd. Bij het verlenen van hulp bij zelfdoding wordt de arts geacht zelf aanwezig, of in de nabije omgeving beschikbaar te blijven, tot de dood definitief is ingetreden.
 
 Bij gebreken in het handelen van de arts met betrekking tot de uitvoering van de levensbeëindiging kan sprake zijn van een situatie waarin ander dan strafrechtelijk optreden zinvol is. Van vervolging kan bijvoorbeeld worden afgezien wanneer de IGZ reeds heeft opgetreden en geen sprake is van gevaar voor herhaling. Afhankelijk van de omstandigheden kan een zaak ook (onder voorwaarden) worden geseponeerd door het Openbaar Ministerie.
 

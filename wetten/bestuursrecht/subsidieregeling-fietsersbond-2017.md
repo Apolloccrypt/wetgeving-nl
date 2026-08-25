@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 15 maart 2017, nr. IenM/BSK-2017/67200, houdende verstrekking van subsidie aan de vereniging Fietsersbond (Subsidieregeling Fietsersbond 2017)"
+citeertitel: "Subsidieregeling Fietsersbond 2017"
 identifier: "BWBR0039406"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039406"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13967583"
-version_id: "24026612"
-internal_id: "C34529731"
-label_id: "13930734"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039406/2017-07-01/0"
-intitule_bron: "Stcrt.2017-19198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-15"
-intitule_published: "2017-03-31"
-intitule_in_force: "2017-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-19198"
-original_signed_date: "2017-03-15"
-original_published_date: "2017-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-19198"
-entry_into_force_date: "2017-07-01"
-jci_1_3: "jci1.3:c:BWBR0039406&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0039406&g=2017-07-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Fietsersbond 2017"
-signed_date: "2017-03-15"
-entry_into_force: "2017-07-01"
+publicatiedatum: 2017-07-01
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0039406"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 15 maart 2017, nr. IenM/BSK-2017/67200, houdende verstrekking van subsidie aan de vereniging Fietsersbond (Subsidieregeling Fietsersbond 2017)
-
-Gelet op de [artikelen 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5), [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2) en [4 van het Kaderbesluit I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- **forfaitair uurtarief:** kostendekkend tarief per uur voor een boekjaar dat wordt gehanteerd voor de uitvoering van subsidiabele projecten en producten, en dat wordt berekend op basis van gemiddelde salariskosten en een opslag voor de overheadkosten, waarbij wordt aangesloten bij de systematiek van de Handleiding Overheidstarieven 2016;
+- *forfaitair uurtarief:* kostendekkend tarief per uur voor een boekjaar dat wordt gehanteerd voor de uitvoering van subsidiabele projecten en producten, en dat wordt berekend op basis van gemiddelde salariskosten en een opslag voor de overheadkosten, waarbij wordt aangesloten bij de systematiek van de Handleiding Overheidstarieven 2016;
 
-- **kosten derden:** op factuur aantoonbare aan derden verschuldigde kosten die direct voor de subsidiabele projecten en producten worden gemaakt;
+- *kosten derden:* op factuur aantoonbare aan derden verschuldigde kosten die direct voor de subsidiabele projecten en producten worden gemaakt;
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- *minister:* Minister van Infrastructuur en Milieu;
 
-- **product:** (deel)resultaat dat voortkomt uit een project;
+- *product:* (deel)resultaat dat voortkomt uit een project;
 
-- **project:** geheel van activiteiten dat deel uitmaakt van een thema;
+- *project:* geheel van activiteiten dat deel uitmaakt van een thema;
 
-- **subsidieontvanger:** Vereniging Fietsersbond, statutair gevestigd te Utrecht;
+- *subsidieontvanger:* Vereniging Fietsersbond, statutair gevestigd te Utrecht;
 
-- **xls file:** een door de minister vast te stellen bestand met een format voor ramingen en realisaties van de gesubsidieerde projecten en producten ten behoeve van de subsidieverlening en subsidievaststelling.
+- *xls file:* een door de minister vast te stellen bestand met een format voor ramingen en realisaties van de gesubsidieerde projecten en producten ten behoeve van de subsidieverlening en subsidievaststelling.
 
 ##### Artikel 2. Doel subsidie
 
@@ -68,7 +42,7 @@ In deze regeling wordt verstaan onder:
 
 - b. voor zover de projecten en producten zijn te kwalificeren als economische activiteiten.
 
-##### Artikel 3. Toepassing [Afdeling 4.2.8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8)
+##### Artikel 3. Toepassing Afdeling 4.2.8 Awb
 
 [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing.
 
@@ -166,11 +140,11 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 - i. het onverwijld informeren van de minister nadat:
 
-- 1°. een verzoek tot verlening van surseance aan of faillietverklaring van de subsidieontvanger bij de rechtbank is ingediend,
+   - 1°. een verzoek tot verlening van surseance aan of faillietverklaring van de subsidieontvanger bij de rechtbank is ingediend,
 
-- 2°. een besluit tot ontbinding bij de rechtbank is ingediend, of
+   - 2°. een besluit tot ontbinding bij de rechtbank is ingediend, of
 
-- 3°. de statuten zijn gewijzigd.
+   - 3°. de statuten zijn gewijzigd.
 
 2. Voorts kan de minister bij de beschikking tot subsidieverlening verplichtingen opleggen met betrekking tot:
 
@@ -221,5 +195,3 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Fietsersbond 2017.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

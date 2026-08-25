@@ -1,53 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 19 januari 2017, kenmerk 1062712-159055-WJZ, houdende regels over declaraties voor jeugdhulp, zorg en maatschappelijke ondersteuning"
+citeertitel: "Regeling declaraties voor jeugdhulp, zorg en maatschappelijke ondersteuning"
 identifier: "BWBR0039141"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-28"
-last_updated: "2018-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039141"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13899873"
-version_id: "23947792"
-internal_id: "C34434331"
-label_id: "13864274"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039141/2018-11-28/0"
-intitule_bron: "Stcrt.2017-4209"
-intitule_effect: "wijziging"
-intitule_published: "2017-01-27"
-intitule_in_force: "2017-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-4209"
-original_published_date: "2017-01-27"
-original_effect: "wijziging"
-original_url_id: "stcrt-2017-4209"
-entry_into_force_date: "2017-04-01"
-jci_1_3: "jci1.3:c:BWBR0039141&z=2018-11-28&g=2018-11-28"
-jci_1_0: "1.0:c:BWBR0039141&g=2018-11-28"
-citeertitel_status: "redactioneel"
-short_title: "Regeling declaraties voor jeugdhulp, zorg en maatschappelijke ondersteuning"
-entry_into_force: "2017-04-01"
+publicatiedatum: 2017-04-01
+laatste_update: 2018-11-28
+status: geldig
+toestand: 2018-11-28
+bron: "https://wetten.overheid.nl/BWBR0039141"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 19 januari 2017, kenmerk 1062712-159055-WJZ, houdende regels over declaraties voor jeugdhulp, zorg en maatschappelijke ondersteuning
-
-Gelet op de [artikelen 3.6.4, derde lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.4), [8.1.8, derde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.8), en [2.6.2, derde lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.2);
-
-Besluiten:
 
 ##### Artikel I
 
-Wijzigt de Regeling Jeugdwet.
+*Wijzigt de Regeling Jeugdwet.*
 
 ##### Artikel II
 
-Wijzigt de Regeling langdurige zorg.
+*Wijzigt de Regeling langdurige zorg.*
 
 ##### Artikel III
 
-Wijzigt de Uitvoeringsregeling Wmo 2015.
+*Wijzigt de Uitvoeringsregeling Wmo 2015.*
 
 ##### Artikel IV
 
@@ -62,5 +39,3 @@ Wijzigt de Uitvoeringsregeling Wmo 2015.
 ##### Artikel V
 
 Deze regeling treedt in werking met ingang van 1 april 2017.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

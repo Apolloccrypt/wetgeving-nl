@@ -1,70 +1,18 @@
 ---
 title: "Gemeenschappelijke Regeling Regionaal Historisch Centrum Het Flevolands Archief"
+citeertitel: "Gemeenschappelijke regeling Regionaal Historisch Centrum Het Flevolands Archief"
 identifier: "BWBR0039545"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-06-01"
-last_updated: "2017-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039545"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14000303"
-version_id: "24091362"
-internal_id: "C34618971"
-label_id: "13962624"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039545/2017-06-01/0"
-intitule_bron: "Stcrt.2017-25706"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-25"
-intitule_published: "2017-05-10"
-intitule_in_force: "2017-05-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-25706"
-original_signed_date: "2017-03-25"
-original_published_date: "2017-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-25706"
-entry_into_force_date: "2017-06-01"
-jci_1_3: "jci1.3:c:BWBR0039545&z=2017-06-01&g=2017-06-01"
-jci_1_0: "1.0:c:BWBR0039545&g=2017-06-01"
-citeertitel_status: "officieel"
-short_title: "Gemeenschappelijke regeling Regionaal Historisch Centrum Het Flevolands Archief"
-signed_date: "2017-03-25"
-entry_into_force: "2017-06-01"
+publicatiedatum: 2017-06-01
+laatste_update: 2017-06-01
+status: geldig
+toestand: 2017-06-01
+bron: "https://wetten.overheid.nl/BWBR0039545"
+opgehaald: 2026-08-25
 ---
+
 # Gemeenschappelijke Regeling Regionaal Historisch Centrum Het Flevolands Archief
-
-Gedeputeerde staten van de provincie Flevoland,
-
-Het dagelijks bestuur van het waterschap Zuiderzeeland,
-
-De colleges van burgemeester en wethouders van de gemeenten Dronten, Lelystad, Urk en Zeewolde;
-
-Gelet op [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VI) en [VIII van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII),
-
-Overwegende dat:
-
-zij op 1 februari 2004 samen met het bestuur van de stichting Nieuw Land en het bestuur van de stichting voor het Bevolkingsonderzoek in de drooggelegde Zuiderzeepolders de gemeenschappelijke regeling tot de instelling van een openbaar lichaam met rechtspersoonlijkheid dat de collecties en archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie Flevoland, de archiefbewaarplaatsen van de gemeenten Lelystad, Dronten, Urk en Zeewolde, het waterschap Zuiderzeeland, het Nieuw Land Poldermuseum en het Sociaal Historisch Centrum voor Flevoland beheert alsmede taken van het archeologisch depot van de provincie Flevoland uitoefent, hebben getroffen;
-
-dat de regeling per 23 maart 2017 technisch is gewijzigd als gevolg van de [wijziging van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039353) (Stcrt 2017, 15726);
-
-het bestuur van de stichting Nieuw Land en het bestuur van de stichting voor het Bevolkingsonderzoek in de drooggelegde Zuiderzeepolders hebben besloten dat zij uit de gemeenschappelijke regeling treden;
-
-gedeputeerde staten van de provincie Flevoland alle aangelegenheden betreffende de archiefbescheiden en collecties die berusten in de provinciale archiefbewaarplaats wil overdragen aan het openbaar lichaam dat de collecties en archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie Flevoland, de archiefbewaarplaatsen van de gemeenten Lelystad, Dronten, Urk en Zeewolde en de archiefbewaarplaats van het waterschap Zuiderzeeland beheert;
-
-de provincie Flevoland alle aangelegenheden betreffende de collecties die berusten in het archeologisch depot van de provincie wil opdragen aan de stichting Batavialand;
-
-dat het algemeen bestuur van het waterschap Zuiderzeeland zijn bevoegdheden ex [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=36) en [artikel 37, derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=37) aan het dagelijks bestuur van het waterschap Zuiderzeeland heeft overgedragen;
-
-dat als gevolg van de voornoemde overwegingen de gemeenschappelijke regeling moet worden gewijzigd;
-
-Besluiten:
-
-dat de Gemeenschappelijke Regeling Nieuw Land Erfgoedcentrum door deze wijziging als volgt komt te luiden:
-
-**Gemeenschappelijke Regeling Regionaal Historisch Centrum Het Flevolands Archief**
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -72,19 +20,19 @@ dat de Gemeenschappelijke Regeling Nieuw Land Erfgoedcentrum door deze wijziging
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de provincie:** de provincie Flevoland;
+- b. *de provincie:* de provincie Flevoland;
 
-- c. **de gemeenten:** de gemeenten Dronten, Lelystad, Urk en Zeewolde;
+- c. *de gemeenten:* de gemeenten Dronten, Lelystad, Urk en Zeewolde;
 
-- d. **het waterschap:** het waterschap Zuiderzeeland;
+- d. *het waterschap:* het waterschap Zuiderzeeland;
 
-- e. **de deelnemers:** de Minister, gedeputeerde staten van de provincie, de colleges van burgemeester en wethouders van de gemeenten, het dagelijks bestuur van het waterschap;
+- e. *de deelnemers:* de Minister, gedeputeerde staten van de provincie, de colleges van burgemeester en wethouders van de gemeenten, het dagelijks bestuur van het waterschap;
 
-- f. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=31);
+- f. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=31);
 
-- g. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de deelnemers voor zover het betreft voorwerpen of bescheiden bij de archiefbewaarplaatsen van de deelnemers.
+- g. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de deelnemers voor zover het betreft voorwerpen of bescheiden bij de archiefbewaarplaatsen van de deelnemers.
 
 ### Hoofdstuk II. Het Flevolands Archief
 
@@ -342,7 +290,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 1. De Minister, de provincie, de gemeenten en het waterschap dragen er zorg voor dat het openbaar lichaam te allen tijde beschikt over voldoende middelen om zijn verplichtingen te voldoen. Dit met inachtneming van het zesde lid.
 
-2. De middelen, bedoeld in het eerste lid, worden verschaft door het verstrekken van jaarlijkse bijdragen, op basis van een vastgestelde begroting. De jaarlijkse bijdrage is gebaseerd op het bepaalde in de financiële bijlage bij deze regeling.
+2. De middelen, bedoeld in het eerste lid, worden verschaft door het verstrekken van jaarlijkse bijdragen, op basis van een vastgestelde begroting. De jaarlijkse bijdrage is gebaseerd op het bepaalde in de financiële [bijlage](https://wetten.overheid.nl/BWBR0039545) bij deze regeling.
 
 3. De bijdrage van de Minister kan jaarlijks worden aangepast in verband met de ontwikkeling van lonen of prijzen met een percentage, zoals dit in voorkomend geval door de Minister in de loop van het begrotingsjaar voor het geheel van zijn bijdrage wordt vastgesteld. De bijdrage van de provincie wordt jaarlijks aangepast met het door de provincie voor dit doel jaarlijks vastgestelde percentage voor loon- en prijsstijgingen. De gemeenten en het waterschap volgen in deze de provincie in de aanpassing van hun bijdragen.
 
@@ -523,57 +471,3 @@ Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaan
 ##### Artikel 41
 
 Deze regeling kan worden aangehaald als: Gemeenschappelijke regeling Regionaal Historisch Centrum Het Flevolands Archief.
-
-## Financiële bijlage bij de Gemeenschappelijke regeling Het Flevolands Archief
-
-### Algemeen
-
-In deze bijlage zijn de afspraken over de structurele bijdragen van de deelnemers aan de Gemeenschappelijke regeling Regionaal Historisch Centrum Het Flevolands Archief nader gespecificeerd ([art. 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039545&hoofdstuk=X&artikel=19&z=2017-06-01&g=2017-06-01)). Per 1 januari 2017 treden de stichting Nieuw Land en de stichting voor het Bevolkingsonderzoek in de drooggelegde Zuiderzeepolders uit de gemeenschappelijke regeling en veranderen de belangen die de provincie Flevoland in deze gemeenschappelijke regeling inbrengt. Door deze veranderingen wijzigt de financiële situatie van Het Flevolands Archief.
-
-De structurele jaarlijkse bijdrage van het Rijk is in 2016 € 415.746. Deze bijdrage wordt ook vanaf 2017 verstrekt.
-
-De structurele bijdrage van de provincie is gebaseerd op de bijdrage ad € 49.570 die de provincie met het openbaar lichaam in 2013 in de dienstverleningsovereenkomst voor het beheer van de provinciale archiefbescheiden is overeengekomen. Deze bijdrage is verhoogd met € 16.140 voor de kosten van de provinciearchivaris.
-
-De structurele bijdragen van de gemeenten zijn berekend door het aantal inwoners per 1 januari 2016 te vermenigvuldigen met € 2,182 (prijspeil 2016). De structurele bijdrage van het waterschap is gebaseerd op de bijdrage die in 2016 werd verstrekt.
-
-Dit leidt tot de volgende structurele bijdragen1Prijspeil 1 januari 2017:
-
-Het Rijk (OCW/M&C) € 416.000
-
-Provincie Flevoland € 66.765
-
-Gemeente Lelystad € 167.560
-
-Gemeente Dronten € 88.571
-
-Gemeente Zeewolde € 48.251
-
-Gemeente Urk € 43.612
-
-Waterschap Zuiderzeeland € 15.000
-
-Conform [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039545&hoofdstuk=X&artikel=19&z=2017-06-01&g=2017-06-01), van de gemeenschappelijke regeling worden de bijdragen jaarlijks aangepast aan de correctie voor loon- en prijsstijgingen. Dit kan vanwege de formele bevoegdheden van de wetgever niet bindend aan het Rijk worden opgelegd. Daarom staat in de regeling dat de bijdrage van de Minister jaarlijks ‘kan’ worden aangepast. De afspraak is dat deze aanpassing als regel (voor zover de wetgever daarvoor de nodige middelen ter beschikking stelt) jaarlijks plaatsvindt.
-
-Voor de bijdragen van de provincie, de gemeenten en het waterschap geldt dat deze jaarlijks worden aangepast met het door provinciale staten voor dit doel jaarlijks vastgestelde percentage voor loon- en prijsstijgingen die geldt voor goederen/diensten.
-
-### Overige bijdragen
-
-Het Rijk verstrekt in 2017, 2018 en 2019 een extra jaarlijkse bijdrage van € 111.000. Deze extra bijdrage is bedoeld voor de ontwikkeling van activiteiten in het kader van het e-Depot. Eind 2019 wordt deze bijdrage geëvalueerd en worden nieuwe afspraken gemaakt voor de periode vanaf 2020.
-
-### Financiële risico's
-
-Er kunnen zich calamiteiten of andere onvoorziene omstandigheden voordoen, die niet binnen de eigen begroting van Het Flevolands Archief kunnen worden opgevangen en waarvoor de deelnemers dienen te voorzien in de kosten die hieruit voortvloeien. Gelet op de hierboven genoemde structurele bijdragen, worden de kosten alsdan in beginsel volgens de volgende percentages verdeeld:
-
-Het Rijk (OCW/M&C) 49%
-
-De Provincie Flevoland 8%
-
-Gemeente Lelystad 20%
-
-Gemeente Dronten 10,5%
-
-Gemeente Urk 5%
-
-Gemeente Zeewolde 5,5%
-
-Waterschap Zuiderzeeland 2%

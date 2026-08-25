@@ -2,215 +2,206 @@
 title: "Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP)"
 identifier: "BWBV0004371"
 categorie: "Overig"
-publicatiedatum: 2024-06-22
-laatste_update: 2026-05-30
+soort: "verdrag"
+publicatiedatum: 1979-11-30
+laatste_update: 2026-08-25
 status: geldig
+toestand: 2026-08-25
 bron: "https://wetten.overheid.nl/BWBV0004371"
+opgehaald: 2026-08-25
 ---
 
 # Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP)
 
-De Overeenkomstsluitende Partijen,
+*The Contracting Parties, Desirous of improving the conditions of preservation of the quality of perishable foodstuffs during their carriage, particularly in international trade, Considering that the improvement of those conditions is likely to promote the expansion of trade in perishable foodstuffs, Have agreed as follows:*
 
-Verlangend te komen tot een betere kwaliteitshandhaving van bederfelijke levensmiddelen tijdens het vervoer, met name in het internationale handelsverkeer,
+### Chapter I. Special transport equipment
 
-Overwegende, dat verbetering van die kwaliteitshandhaving uitbreiding van de handel in bederfelijke levensmiddelen zal brengen,
+##### Article 1
 
-Zijn overeengekomen als volgt:
+For the international carriage of perishable foodstuffs, equipment shall not be designated as ‘insulated’, ‘refrigerated’, ‘mechanically refrigerated’, ‘heated’ or ‘mechanically refrigerated and heated’ equipment unless it complies with the definitions and standards set forth in [annex 1](https://wetten.overheid.nl/BWBV0004371) to this Agreement.
 
-### Hoofdstuk I. Speciale vervoermiddelen
+##### Article 2
 
-##### Artikel 1
+The Contracting Parties shall take the measures necessary to ensure that the equipment referred to in [article 1](https://wetten.overheid.nl/BWBV0004371) of this Agreement is inspected and tested for compliance with the said standards in conformity with the provisions of [annex 1](https://wetten.overheid.nl/BWBV0004371), [appendices 1](https://wetten.overheid.nl/BWBV0004371), [2](https://wetten.overheid.nl/BWBV0004371), [3](https://wetten.overheid.nl/BWBV0004371) and [4](https://wetten.overheid.nl/BWBV0004371), to this Agreement. Each Contracting Party shall recognize the validity of certificates of compliance issued in conformity with annex 1, appendix 1, paragraph 3 to this Agreement by the competent authority of another Contracting Party. Each Contracting Party may recognize the validity of certificates of compliance issued in conformity with the requirements of annex 1, appendices 1 and 2, to this Agreement by the competent authority of a State not a Contracting Party.
 
-In het internationaal vervoer van aan bederf onderhevige levensmiddelen mogen vervoermiddelen niet worden aangeduid als „geïsoleerde”, „niet-mechanisch gekoelde”, „mechanisch gekoelde”, „verwarmde” of „mechanisch gekoelde en verwarmde ” vervoermiddelen, tenzij zij beantwoorden aan de definities en normen vervat in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=1&z=2024-06-22&g=2024-06-22) bij deze Overeenkomst.
+### Chapter II. Use of special transport equipment for the international carriage of certain perishable foodstuffs
 
-##### Artikel 2
+##### Article 3
 
-De Overeenkomstsluitende Partijen nemende nodige maatregelen opdat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=I&artikel=1&z=2024-06-22&g=2024-06-22) genoemde vervoermiddelen, overeenkomstig het bepaalde in de aanhangsels 1, 2, 3 en 4 van Bijlage 1 bij deze Overeenkomst, worden gecontroleerd en wordt nagegaan of deze aan bedoelde normen beantwoorden. Elke Overeenkomstsluitende Partij erkent de geldigheid van certificaten van goedkeuring die, overeenkomstig het bepaalde in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=1&z=2024-06-22&g=2024-06-22) bij deze Overeenkomst, aanhangsel 1, derde lid, zijn afgegeven door de bevoegde instantie van een andere Overeenkomstsluitende Partij. Elke Overeenkomstsluitende Partij kan de geldigheid erkennen van certificaten van goedkeuring die, overeenkomstig het bepaalde in Bijlage 1 bij deze Overeenkomst, aanhangsel 1 en 2, zijn afgegeven door de bevoegde instantie van een Staat niet zijnde een Overeenkomstsluitende Partij.
+1. The provisions of [article 4](https://wetten.overheid.nl/BWBV0004371) of this Agreement shall apply to all carriage, whether for hire or reward or for own account, carried out exclusively - subject to the provisions of paragraph 2 of this article - by rail, by road or by a combination of the two, of
 
-### Hoofdstuk II. Het gebruik van speciale vervoermiddelen bij het internationaal vervoer van bepaalde aan bederf onderhevige levensmiddelen
+- - quick (deep)-frozen and frozen foodstuffs, and of
 
-##### Artikel 3
+- - foodstuffs referred to in [annex 3](https://wetten.overheid.nl/BWBV0004371) to this Agreement even if they are neither quick (deep)-frozen nor frozen,
 
-1. Het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=4&z=2024-06-22&g=2024-06-22) van deze Overeenkomst geldt voor alle vormen van vervoer, zowel voor rekening van anderen als voor eigen rekening, dat - onder voorbehoud van het bepaalde in het tweede lid van dit artikel - uitsluitend per spoor of over de weg, of in een combinatie van beide, wordt uitgevoerd, van
+if the point at which the goods are, or the equipment containing them is, loaded on to a rail or road vehicle and the point at which the goods are, or the equipment containing them is, unloaded from that vehicle are in two different States and the point at which the goods are unloaded is situated in the territory of a Contracting Party.
 
-- -. diepbevroren of bevroren levensmiddelen,
+In the case of carriage entailing one or more sea crossings other than sea crossings as referred to in paragraph 2 of this article, each land journey shall be considered separately.
 
-- -. levensmiddelen genoemd in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=3&z=2024-06-22&g=2024-06-22) van deze Overeenkomst, ook indien zij niet diepbevroren of bevroren zijn,
+2. The provisions of paragraph 1 of this article shall likewise apply to sea crossings of less than 150 km on condition that the goods are shipped in equipment used for the land journey or journeys without transloading of the goods and that such crossings precede or follow one or more land journeys as referred to in paragraph 1 of this article or take place between two such land journeys.
 
-indien de plaats waar de goederen of het vervoermiddel dat deze goederen bevat worden geladen in een spoorwagon of een wegvervoermiddel en de plaats waar de goederen of het vervoermiddel dat deze goederen bevat worden uitgeladen in twee verschillende Staten zijn gelegen en de plaats waar de goederen worden uitgeladen is gelegen op het grondgebied van een Overeenkomstsluitende Partij.
+3. Notwithstanding the provisions of paragraphs 1 and 2 of this article, the Contracting Parties need not apply the provisions of [article 4](https://wetten.overheid.nl/BWBV0004371) of this Agreement to the carriage of foodstuffs not intended for human consumption.
 
-Ingeval het vervoer een of meer zeereizen omvat, anders dan die welke zijn bedoeld in het tweede lid van dit artikel, dient elk vervoer over land afzonderlijk te worden beschouwd.
+##### Article 4
 
-2. Het in het eerste lid van dit artikel bepaalde is eveneens van toepassing op zeereizen van minder dan 150 km, mits de goederen zonder tussentijdse verlading worden verscheept in het (de) voor het vervoer over land gebruikte vervoermiddel(en), en deze zeereizen voorafgaan aan en/of volgen op vervoer over land als bedoeld in het eerste lid van dit artikel.
+1. For the carriage of the perishable foodstuffs specified in [annexes 2](https://wetten.overheid.nl/BWBV0004371) and [3](https://wetten.overheid.nl/BWBV0004371) to this Agreement, the equipment referred to in [article 1](https://wetten.overheid.nl/BWBV0004371) of this Agreement shall be used unless the temperatures to be anticipated throughout carriage render this requirement manifestly unnecessary for the purpose of maintaining the temperature conditions specified in annexes 2 and 3 to this Agreement. The equipment shall be so selected and used that the temperature conditions prescribed in the said annexes can be complied with throughout carriage. Furthermore, all appropriate measures shall be taken, more particularly as regards the temperature of the foodstuffs at the time of loading and as regards icing or re-icing during the journey or other necessary operations. Nevertheless, the provisions of this paragraph shall apply only in so far as they are not incompatible with international undertakings in the matter of international carriage arising for the Contracting Parties by virtue of conventions in force at the time of the entry into force of this Agreement or by virtue of conventions substituted for them.
 
-3. Niettegenstaande het bepaalde in het eerste en tweede lid van dit artikel, behoeven de Overeenkomstsluitende Partijen het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=4&z=2024-06-22&g=2024-06-22) van deze Overeenkomst bepaalde niet toe te passen op het vervoer van niet voor menselijke consumptie bestemd voedsel.
+2. If during carriage under this Agreement the provisions of paragraph 1 of this article have not been complied with,
 
-##### Artikel 4
+- (a) the foodstuffs may not be disposed of in the territory of a Contracting Party after completion of carriage unless the competent authorities of that Contracting Party deem it compatible with the requirements of public health to authorize such disposal and unless such conditions as the authorities may attach to the authorization when granting it are fulfilled; and
 
-1. Voor het vervoer van aan bederf onderhevige levensmiddelen als aangegeven in de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=2&z=2024-06-22&g=2024-06-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&bijlage=3&z=2024-06-22&g=2024-06-22) bij deze Overeenkomst dient gebruik te worden gemaakt van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=I&artikel=1&z=2024-06-22&g=2024-06-22) van deze Overeenkomst bedoelde vervoermiddelen, tenzij de voor de gehele duur van het vervoer te verwachten temperaturen deze eis beslist onnodig maken om de temperaturen, als vastgelegd in de Bijlagen 2 en 3 bij deze Overeenkomst, te kunnen handhaven. De keuze en het gebruik van het vervoermiddel dient zodanig te zijn dat het mogelijk is de in deze Bijlagen vastgelegde temperaturen te handhaven tijdens de gehele duur van het vervoer.
+- (b) every Contracting Party may, by reason of the requirements of public health or zooprophylaxis and in so far as it is not incompatible with the other international undertakings referred to in the last sentence of paragraph 1 of this article, prohibit the entry of the foodstuffs into its territory or make their entry subject to such conditions as it may determine.
 
-Tevens dienen alle nodige maatregelen te worden genomen, in het bijzonder wat betreft de temperaturen van de levensmiddelen bij inlading, de ijsvoorziening bij de aanvang van het vervoer en onderweg of andere noodzakelijke handelingen. Niettemin is het in dit lid bepaalde uitsluitend van toepassing voor zover het niet strijdig is met internationale verplichtingen met betrekking tot internationaal vervoer, die door de Overeenkomstsluitende Partijen zijn aangegaan op grond van verdragen welke op het tijdstip van de inwerkingtreding van deze Overeenkomst van kracht waren, of van daarvoor in de plaats gekomen verdragen.
+3. Compliance with the provisions of paragraph 1 of this article shall be required of carriers for hire or reward only in so far as they have undertaken to procure or provide services intended to ensure such compliance and if such compliance depends on the performance of those services. If other persons, whether individuals or corporate bodies, have undertaken to procure or provide services intended to ensure compliance with the provisions of this Agreement, they shall be required to ensure such compliance in so far as it depends on performance of the service they have undertaken to procure or provide.
 
-2. Indien gedurende een transport dat onderworpen is aan de bepalingen van deze Overeenkomst aan het bepaalde in het eerste lid van dit artikel niet is voldaan,
+4. During carriage which is subject to the provisions of this Agreement and for which the loading point is situated in the territory of a Contracting Party, responsibility for compliance with the requirements of paragraph 1 of this article shall rest, subject to the provisions of paragraph 3 of this article,
 
-- (a). mag niemand de levensmiddelen na beëindiging van het vervoer binnen het grondgebied van een Overeenkomstsluitende Partij van de hand doen, tenzij de bevoegde instanties van die Overeenkomstsluitende Partij het verenigbaar achten met de eisen van de volksgezondheid daartoe machtiging te verlenen, mits in dat geval aan de bij het verlenen van bedoelde machtiging door die instanties eventueel te stellen voorwaarden wordt voldaan;
+- - in the case of transport for hire or reward, with the person, whether an individual or a corporate body, who is the consignor according to the transport document or, in the absence of a transport document, with the person, whether an individual or a corporate body, who has entered into the contract of carriage with the carrier;
 
-- (b). mag elke Overeenkomstsluitende Partij, met het oog op de volksgezondheid of het voorkomen van dierenziekten en voor zover dit niet strijdig is met de andere in de laatste zin van het eerste lid van dit artikel bedoelde internationale verplichtingen, de invoer van de levensmiddelen binnen haar grondgebied verbieden of deze invoer binden aan door haar vast te stellen voorwaarden.
+- - in other cases with the person, whether an individual or a corporate body, who performs carriage.
 
-3. Vervoerders die voor rekening van derden vervoersopdrachten uitvoeren zijn gehouden te handelen overeenkomstig het in het eerste lid van dit artikel bepaalde, slechts voor zover zij zich verbonden hebben prestaties te leveren of te doen leveren, die zijn gericht op het naleven daarvan en voor zover zulks afhankelijk is van het leveren van die prestaties. Indien andere personen, natuurlijke personen of rechtspersonen, zich hebben verbonden prestaties te leveren of te doen leveren, die zijn gericht op het naleven van de bepalingen van deze Overeenkomst, zijn zij gehouden de naleving daarvan te waarborgen, voor zover deze afhankelijk is van de prestaties welke zij op zich genomen hebben, te leveren of te doen leveren.
+### Chapter III. Miscellaneous provisions
 
-4. Voor de duur van een transport dat wordt uitgevoerd overeenkomstig de bepalingen van deze Overeenkomst en waarbij de plaats van inlading op het grondgebied van een Overeenkomstsluitende Partij is gelegen, berust de verantwoordelijkheid voor het naleven van het in het eerste lid van dit artikel bepaalde, met inachtneming van het bepaalde in het derde lid van dit artikel,
+##### Article 5
 
-- -. in geval het vervoer betreft dat wordt uitgevoerd voor rekening van derden, bij de persoon, een natuurlijke persoon dan wel een rechtspersoon, die, volgens het vervoerbewijs, de afzender is of, zo een vervoerbewijs ontbreekt, bij de persoon, een natuurlijke persoon dan wel een rechtspersoon, die de vervoerovereenkomst met de vervoerder heeft aangegaan;
+The provisions of this Agreement shall not apply to carriage in containers classified as thermal maritime by land without transloading of the goods where such carriage is preceded or followed by a sea crossing other than a sea crossing as referred to in [article 3, paragraph 2](https://wetten.overheid.nl/BWBV0004371), of this Agreement.
 
-- -. in de overige gevallen bij de persoon, een natuurlijke persoon dan wel een rechtspersoon, die het transport uitvoert.
+##### Article 6
 
-### Hoofdstuk III. Diverse bepalingen
+1. Each Contracting Party shall take all appropriate measures to ensure observance of the provisions of this Agreement. The competent administrations of the Contracting Parties shall keep one another informed of the general measures taken for this purpose.
 
-##### Artikel 5
+2. If a Contracting Party discovers a breach committed by a person residing in the territory of another Contracting Party, or imposes a penalty upon such a person, the administration of the first Party shall inform the administration of the other Party of the breach discovered and of the penalty imposed.
 
-De bepalingen van deze Overeenkomst zijn niet van toepassing op vervoer over land dat zonder tussentijdse verlading van de goederen geschiedt met gebruikmaking van laadkisten die geclassificeerd zijn als voor de zeevaart geschikte koellaadkisten, mits deze transporten voorafgegaan of gevolgd worden door zeereizen, anders dan die welke bedoeld zijn in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=II&artikel=3&z=2024-06-22&g=2024-06-22) van deze Overeenkomst.
+##### Article 7
 
-##### Artikel 6
+The Contracting Parties reserve the right to enter into bilateral or multilateral agreements to the effect that provisions applicable to special equipment and provisions applicable to the temperatures at which certain foodstuffs are required to be maintained during carriage may, more particularly by reason of special climatic conditions, be more stringent than those prescribed in this Agreement. Such provisions shall apply only to international carriage between Contracting Parties which have concluded bilateral or multilateral agreements as referred to in this article. Such agreements shall be transmitted to the Secretary-General of the United Nations who shall communicate them to Contracting Parties to this Agreement which are not signatories of the said agreements.
 
-1. Elke Overeenkomstsluitende Partij neemt alle gewenste maatregelen ter waarborging van de naleving van de bepalingen van deze Overeenkomst. De bevoegde instanties van de Overeenkomstsluitende Partijen houden elkaar op de hoogte van de met dit doel genomen algemene maatregelen.
+##### Article 8
 
-2. Indien een Overeenkomstsluitende Partij een inbreuk vaststelt gemaakt door een persoon die op het grondgebied van een andere Overeenkomstsluitende Partij woont, of die persoon een boete oplegt, geeft de bevoegde instantie van de eerste Partij de bevoegde instantie van de andere Partij kennis van de vastgestelde inbreuk en van de opgelegde boete.
+Failure to observe the provisions of this Agreement shall not affect either the existence or the validity of contracts entered into for the performance of carriage.
 
-##### Artikel 7
+### Chapter IV. Final provisions
 
-De Overeenkomstsluitende Partijen behouden het recht bilaterale of multilaterale overeenkomsten aan te gaan waarin bepaald wordt dat de bepalingen, van toepassing op zowel speciale vervoermiddelen als op de temperaturen die bij het vervoer van bepaalde aan bederf onderhevige levensmiddelen dienen te worden gehandhaafd, strenger mogen zijn dan de bepalingen van deze Overeenkomst, met name vanwege bijzondere klimatologische omstandigheden. Deze bepalingen zijn slechts van toepassing op internationaal vervoer dat wordt verricht tussen de Overeenkomstsluitende Partijen die bilaterale of multilaterale overeenkomsten als bedoeld in dit artikel hebben gesloten. Van deze overeenkomst dient kennisgeving te worden gedaan aan de Secretaris-Generaal van de Verenigde Naties die de Overeenkomstsluitende Partijen die deze overeenkomsten niet hebben ondertekend daarvan mededeling doet.
+##### Article 9
 
-##### Artikel 8
+1. States members of the Economic Commission for Europe and States admitted to the Commission in a consultative capacity under paragraph 8 of the Commission's terms of reference may become Contracting Parties to this Agreement
 
-Het niet nakomen van de bepalingen van deze Overeenkomst tast niet het bestaan of de geldigheid aan van voor het uitvoeren van het vervoer afgesloten overeenkomsten.
+- (a) by signing it;
 
-### Hoofdstuk IV. Slotbepalingen
+- (b) by ratifying it after signing it subject to ratification; or
 
-##### Artikel 9
+- (c) by acceding to it.
 
-1. Staten die lid zijn van de Economische Commissie voor Europa en Staten, die, overeenkomstig het bepaalde in paragraaf 8 van het mandaat van de Commissie, met raadgevende stem tot de Commissie zijn toegelaten, kunnen partij worden bij deze Overeenkomst,
+2. States which may participate in certain activities of the Economic Commission for Europe under paragraph 11 of the Commission's terms of reference may become Contracting Parties to this Agreement by acceding thereto after its entry into force.
 
-- (a). door haar te ondertekenen;
+3. This Agreement shall be open for signature until 31 May 1971 inclusive. Thereafter, it shall be open for accession.
 
-- (b). door haar te bekrachtigen na haar onder voorbehoud van bekrachtiging te hebben ondertekend; of
+4. Ratification or accession shall be effected by the deposit of an instrument with the Secretary-General of the United Nations.
 
-- (c). door ertoe toe te treden.
+##### Article 10
 
-2. Staten die, overeenkomstig het bepaalde in paragraaf 11 van het mandaat van de Economische Commissie voor Europa, aan bepaalde werkzaamheden van de Commissie kunnen deelnemen, kunnen bij deze Overeenkomst partij worden door na de inwerkingtreding ervan tot de Overeenkomst toe te treden.
+1. Any State may at the time of signing this Agreement without reservation as to ratification or of depositing its instrument of ratification or accession or at any time thereafter declare by notification addressed to the Secretary-General of the United Nations that the Agreement does not apply to carriage performed in any or in a particular one of its territories situated outside Europe. If notification as aforesaid is made after the entry into force of the Agreement in respect of the notifying State the Agreement shall, ninety days after the date on which the Secretary-General has received the notification, cease to apply to carriage in the territory or territories named in that notification. New Contracting Parties acceding to ATP as from 30 April 1999 and applying paragraph 1 of this article shall not be entitled to enter any objection to draft amendments in accordance with the procedure provided for in [article 18, paragraph 2](https://wetten.overheid.nl/BWBV0004371).
 
-3. Deze Overeenkomst staat ter ondertekening open tot en met 31 mei 1971. Van die datum af staat zij open voor toetreding.
+2. Any State which has made a declaration under paragraph 1 of this article may at any time thereafter declare by notification addressed to the Secretary-General of the United Nations that the Agreement will be applicable to carriage performed in a territory named in the notification made under paragraph 1 of this article and the Agreement shall become applicable to carriage in that territory one hundred and eighty days after the date on which the Secretary-General has received that notification.
 
-4. Bekrachtiging of toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
+##### Article 11
 
-##### Artikel 10
+1. This Agreement shall come into force one year after five of the States referred to in its [article 9, paragraph 1](https://wetten.overheid.nl/BWBV0004371), have signed it without reservation as to ratification or have deposited their instruments of ratification or accession.
 
-1. Elke Staat kan op het tijdstip dat hij deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent of zijn akte van bekrachtiging of toetreding nederlegt, alsmede op elk later tijdstip door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat deze Overeenkomst niet van toepassing is op vervoer binnen al zijn buiten Europa gelegen grondgebieden of één daarvan. Nieuwe Overeenkomstsluitende Partijen die vanaf 30 april 1999 toetreden tot de A.T.P.-Overeenkomst en het eerste lid van dit artikel toepassen, zijn niet gerechtigd om in overeenstemming met de in het [tweede lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2024-06-22&g=2024-06-22) bepaalde procedure bezwaar te maken tegen ontwerp-wijzigingen.
+2. With respect to any State which ratifies, or accedes to, this Agreement after five States have signed it without reservation as to ratification or have deposited their instruments of ratification or accession, this Agreement shall enter into force one year after the said State has deposited its instrument of ratification or accession.
 
-Indien deze kennisgeving is gedaan na de inwerkingtreding van de Overeenkomst voor de Staat die deze kennisgeving doet, is de Overeenkomst na verloop van negentig dagen na de datum waarop de Secretaris-Generaal deze kennisgeving heeft ontvangen niet langer van toepassing op vervoer binnen het (de) in deze kennisgeving aangegeven grondgebied(en).
+##### Article 12
 
-2. Een Staat die een verklaring als bedoeld in het eerste lid van dit artikel heeft afgelegd mag op elk later tijdstip door middel van een aan de Secretaris-Generaal gerichte kennisgeving verklaren, dat de Overeenkomst van toepassing is op vervoer binnen een overeenkomstig het eerste lid van dit artikel aangewezen grondgebied en dat de Overeenkomst honderd en tachtig dagen na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal van toepassing wordt op vervoer binnen genoemd grondgebied.
+1. Any Contracting Party may denounce this Agreement by giving notice of denunciation to the Secretary-General of the United Nations.
 
-##### Artikel 11
+2. The denunciation shall take effect fifteen months after the date on which the Secretary-General received the notice of denunciation.
 
-1. Deze Overeenkomst treedt in werking een jaar nadat vijf van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2024-06-22&g=2024-06-22), genoemde Staten haar zonder voorbehoud van bekrachtiging hebben ondertekend of hun akten van bekrachtiging of toetreding hebben nedergelegd.
+##### Article 13
 
-2. Ten aanzien van een Staat die deze Overeenkomst bekrachtigt of ertoe toetreedt nadat vijf Staten haar zonder voorbehoud van bekrachtiging hebben ondertekend of hun akten van bekrachtiging of toetreding hebben nedergelegd, treedt deze Overeenkomst een jaar nadat de betrokken Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd, in werking.
+This Agreement shall cease to have effect if the number of Contracting Parties is less than five throughout any period of twelve consecutive months after its entry into force.
 
-##### Artikel 12
+##### Article 14
 
-1. Elke Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door hiervan aan de Secretaris-Generaal van de Verenigde Naties kennisgeving te doen.
+1. Any State may at the time of signing this Agreement without reservation as to ratification or of depositing its instrument of ratification or accession or at any time thereafter declare by notification addressed to the Secretary-General of the United Nations that this Agreement will be applicable to all or any of the territories for the international relations of which that State is responsible. This Agreement shall be applicable to the territory or territories named in the notification as from the ninetieth day after receipt of the notice by the Secretary-General or, if on that day the Agreement has not yet entered into force, as from its entry into force.
 
-2. De opzegging wordt van kracht vijftien maanden na de datum waarop de Secretaris-Generaal kennisgeving van de opzegging heeft ontvangen.
+2. Any State which has made a declaration under paragraph 1 of this article making this Agreement applicable to a territory for whose international relations it is responsible may denounce the Agreement separately in respect of that territory in conformity with [article 12](https://wetten.overheid.nl/BWBV0004371) hereof.
 
-##### Artikel 13
+##### Article 15
 
-Deze Overeenkomst houdt op van kracht te zijn indien het aantal Overeenkomstsluitende Partijen gedurende een aaneengesloten periode van twaalf maanden na haar inwerkingtreding minder dan vijf bedraagt.
+1. Any dispute between two or more Contracting Parties concerning the interpretation or application of this Agreement shall so far as possible be settled by negotiation between them.
 
-##### Artikel 14
+2. Any dispute which is not settled by negotiation shall be submitted to arbitration if any one of the Contracting Parties concerned in the dispute so requests and shall be referred accordingly to one or more arbitrators selected by agreement between those Parties. If within three months from the date of the request for arbitration, the Parties concerned in the dispute are unable to agree on the selection of an arbitrator or arbitrators, any of those Parties may request the Secretary-General of the United Nations to designate a single arbitrator to whom the dispute shall be referred for decision.
 
-1. Elke Staat kan op het tijdstip dat hij deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent of zijn akte van bekrachtiging of toetreding nederlegt, of op elk later tijdstip, door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving, verklaren dat deze Overeenkomst eveneens zal gelden voor alle gebieden of één of meer daarvan, voor de internationale betrekkingen waarvan die Staat verantwoordelijk is. Deze Overeenkomst geldt voor het gebied of de gebieden genoemd in deze kennisgeving, met ingang van de negentigste dag na ontvangst van de kennisgeving door de Secretaris-Generaal of, indien de Overeenkomst op die dag nog niet in werking is getreden, met ingang van de datum van haar inwerkingtreding.
+3. The decision of the arbitrator or arbitrators designated under the preceding paragraph shall be binding on the Contracting Parties concerned in the dispute.
 
-2. Een Staat die een verklaring als bedoeld in het eerste lid van dit artikel heeft afgelegd, waardoor deze Overeenkomst eveneens geldt voor een gebied voor welks internationale betrekkingen hij verantwoordelijk is, kan deze Overeenkomst, overeenkomstig het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2024-06-22&g=2024-06-22), ten aanzien van dat gebied afzonderlijk opzeggen.
+##### Article 16
 
-##### Artikel 15
+1. Any State may, at the time of signing, ratifying, or acceding to, this Agreement, declare that it does not consider itself bound by [article 15, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0004371) of this Agreement. The other Contracting Parties shall not be bound by these paragraphs with respect to any Contracting Party which has entered such a reservation.
 
-1. Geschillen tussen twee of meer Overeenkomstsluitende Partijen, de uitlegging of toepassing van deze Overeenkomst betreffende, worden, indien mogelijk, door middel van onderlinge onderhandeling geregeld.
+2. Any Contracting Party which has entered a reservation under paragraph 1 of this article may at any time withdraw the reservation by notification addressed to the Secretary-General of the United Nations.
 
-2. Elk geschil dat niet door middel van onderhandeling wordt geregeld, wordt, op verzoek van een der bij het geschil betrokken Overeenkomstsluitende Partijen, aan een scheidsrechterlijke beslissing onderworpen en dienovereenkomstig aan één of meer in onderlinge overeenstemming tussen die Partijen gekozen scheidsmannen ter beslissing voorgelegd.
+3. With the exception of the reservation provided for in paragraph 1 of this article, no reservation to this Agreement shall be permitted.
 
-Indien binnen drie maanden na de datum van het verzoek om een scheidsrechterlijke beslissing de bij het geschil betrokken Partijen niet tot overeenstemming kunnen komen aangaande de keuze van een scheidsman of van scheidsmannen, kan elk van die Partijen de Secretaris-Generaal van de Verenigde Naties verzoeken één enkele scheidsman aan te wijzen, aan wie het geschil ter beslissing zal worden voorgelegd.
+##### Article 17
 
-3. De beslissing van de overeenkomstig het bepaalde in het voorgaande lid aangewezen scheidsman of scheidsmannen is bindend ten aanzien van de bij het geschil betrokken Overeenkomstsluitende Partijen.
+1. After this Agreement has been in force for three years, any Contracting Party may, by notification addressed to the Secretary-General of the United Nations, request that a conference be convened for the purpose of revising this Agreement. The Secretary-General shall notify all Contracting Parties of the request and a revision conference shall be convened by the Secretary-General if, within a period of four months from the date of the notification sent by the Secretary-General, not less than one-third of the Contracting Parties signify their assent to the request.
 
-##### Artikel 16
+2. If a conference is convened in pursuance of paragraph 1 of this article, the Secretary-General shall so advise all the Contracting Parties and invite them to submit within a period of three months, the proposals which they wish the conference to consider. The Secretary-General shall circulate the provisional agenda for the conference, together with the text of such proposals, to all Contracting Parties not less than three months before the date on which the conference is to open.
 
-1. Elke Staat kan op het tijdstip van ondertekening of bekrachtiging van of toetreding tot deze Overeenkomst verklaren dat hij zich niet gebonden acht door het tweede en het derde lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=15&z=2024-06-22&g=2024-06-22) van deze Overeenkomst. De andere Overeenkomstsluitende Partijen zijn tegenover een Overeenkomstsluitende Partij die een dergelijk voorbehoud heeft gemaakt, niet gebonden door deze leden.
+3. The Secretary-General shall invite to any conference convened in pursuance of this article all the countries referred to in [article 9, paragraph 1,](https://wetten.overheid.nl/BWBV0004371) of this Agreement, and also the countries which have become Contracting Parties under the said article 9, paragraph 2.
 
-2. Elke Overeenkomstsluitende Partij die overeenkomstig het bepaalde in het eerste lid van dit artikel een voorbehoud heeft gemaakt, kan dit voorbehoud te allen tijde door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving intrekken.
+##### Article 18
 
-3. Met uitzondering van het voorbehoud voorzien in het eerste lid van dit artikel, kan geen enkel voorbehoud ten aanzien van deze Overeenkomst worden toegestaan.
+1. Any Contracting Party may propose one or more amendments to this Agreement. The text of any proposed amendment shall be communicated to the Secretary-General of the United Nations, who shall communicate it to all Contracting Parties and bring it to the notice of all the other States referred to in [article 9, paragraph 1](https://wetten.overheid.nl/BWBV0004371), of this Agreement. The Secretary-General may also propose amendments to this Agreement or to its Annexes which have been transmitted to him by the Working Party on the Transport of Perishable Foodstuffs of the Inland Transport Committee of the Economic Commission for Europe
 
-##### Artikel 17
+2. Within a period of six months following the date on which the proposed amendment is communicated by the Secretary-General, any Contracting Party may inform the Secretary-General
 
-1. Nadat deze Overeenkomst drie jaar van kracht is geweest kan elke Overeenkomstsluitende Partij, door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving, verzoeken een conferentie bijeen te roepen met het doel deze Overeenkomst aan een onderzoek te onderwerpen. De Secretaris-Generaal stelt alle Overeenkomstsluitende Partijen van dit verzoek in kennis en, indien binnen een termijn van vier maanden, gerekend vanaf de datum waarop de Secretaris-Generaal de kennisgeving heeft verzonden, niet minder dan één derde der Overeenkomstsluitende Partijen van hun instemming met dit verzoek hebben blijk gegeven, roept de Secretaris-Generaal een conferentie ter bestudering van deze Overeenkomst bijeen.
+- (a) that it has an objection to the amendment proposed; or
 
-2. Indien overeenkomstig het bepaalde in het eerste lid van dit artikel een conferentie bijeen wordt geroepen, stelt de Secretaris-Generaal alle Overeenkomstsluitende Partijen daarvan in kennis en verzoekt hun binnen een termijn van drie maanden de voorstellen in te dienen, die zij door de conferentie behandeld wensen te zien. Ten minste drie maanden voor de aanvang van de conferentie doet de Secretaris-Generaal alle Overeenkomstsluitende Partijen, te zamen met de tekst van bovengenoemde voorstellen, de voorlopige agenda van de conferentie toekomen.
+- (b) that, although it intends to accept the proposal, the conditions necessary for such acceptance are not yet fulfilled in its country.
 
-3. De Secretaris-Generaal nodigt alle in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2024-06-22&g=2024-06-22), van deze Overeenkomst genoemde Staten, te zamen met de Staten die, overeenkomstig het bepaalde in artikel 9, tweede lid, partij bij deze Overeenkomst zijn geworden, uit de op grond van dit artikel bijeen te roepen conferenties bij te wonen.
+3. If a Contracting Party sends the Secretary-General a communication as provided for in paragraph 2*(b)* of this article, it may, so long as it has not notified the Secretary-General of its acceptance, submit an objection to the proposed amendment within a period of nine months following the expiry of the period of six months prescribed in respect of the initial communication.
 
-##### Artikel 18
+4. If an objection to the proposed amendment is stated in accordance with the terms of paragraphs 2 and 3 of this article, the amendment shall be deemed not to have been accepted and shall be of no effect.
 
-1. Elke Overeenkomstsluitende Partij kan één of meer wijzigingen op deze Overeenkomst voorstellen. De tekst van een voorgestelde wijziging dient ter kennis van de Secretaris-Generaal van de Verenigde Naties te worden gebracht, die deze ter kennis brengt van alle Overeenkomstsluitende Partijen en alle andere in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2024-06-22&g=2024-06-22), van deze Overeenkomst genoemde Staten. De Secretaris-Generaal kan tevens wijzigingen van deze Overeenkomst of van de Bijlagen erbij voorstellen die hem zijn toegezonden door de Werkgroep voor het vervoer van aan bederf onderhevige levensmiddelen van het Comité van Binnenlands Vervoer van de Economische Commissie voor Europa.
+5. If no objection to the proposed amendment has been stated in accordance with paragraphs 2 and 3 of this article, the amendment shall be deemed to have been accepted on the date specified below:
 
-2. Binnen een tijdsbestek van zes maanden gerekend van de datum waarop de Secretaris-Generaal mededeling doet van de voorgestelde wijziging, kan elke Overeenkomstsluitende Partij de Secretaris-Generaal berichten
+- (a) if no Contracting Party has sent a communication to the Secretary-General in accordance with paragraph 2 *(b)* of this article, on the expiry of the period of six months referred to in paragraph 2 of this article;
 
-- (a). dat zij bezwaar maakt tegen de voorgestelde wijziging, of
+- (b) if at least one Contracting Party has sent a communication to the Secretary-General in accordance with paragraph 2 *(b)* of this article, on the earlier of the following two dates:
 
-- (b). dat, hoewel zij voornemens is het voorstel te aanvaarden, in haar land aan de voor de aanvaarding noodzakelijke voorwaarden nog niet is voldaan.
+   - - the date by which all the Contracting Parties which sent such communications have notified the Secretary-General of their acceptance of the proposed amendment, subject however to the proviso that if all the acceptances were notified before the expiry of the period of six months referred to in paragraph 2 of this article the date shall be the date of expiry of that period;
 
-3. Indien een Overeenkomstsluitende Partij de Secretaris-Generaal een kennisgeving zendt als voorzien in het tweede lid, letter **b,** van dit artikel, kan zij, zolang de Secretaris-Generaal geen bericht van aanvaarding van de voorgestelde wijziging heeft gezonden, binnen een tijdsbestek van negen maanden, gerekend van de datum af, waarop de termijn van zes maanden, als voorgeschreven met betrekking tot de eerste kennisgeving, is verstreken, bezwaar tegen de voorgestelde wijziging maken.
+   - - the date of expiry of the period of nine months referred to in paragraph 3 of this article.
 
-4. Indien overeenkomstig het bepaalde in het tweede en derde lid van dit artikel bezwaar wordt gemaakt tegen de voorgestelde wijziging, wordt de wijziging geacht niet te zijn aanvaard en wordt zij niet van kracht.
+6. Any amendment deemed to be accepted shall enter into force six months after the date on which it was deemed to be accepted.
 
-5. Indien overeenkomstig het bepaalde in het tweede en derde lid van dit artikel geen bezwaar is gemaakt tegen de voorgestelde wijziging, wordt de wijziging geacht te zijn aanvaard op de hierna te noemen datum:
+7. The Secretary-General shall as soon as possible inform all Contracting Parties whether an objection to the proposed amendment has been stated in accordance with paragraph 2 *(a)* of this article and whether one or more Contracting Parties have sent him a communication in accordance with paragraph 2 *(b)* of this article. If one or more Contracting Parties have sent him such a communication, he shall subsequently inform all the Contracting Parties whether the Contracting Party or Parties which have sent such a communication raise an objection to the proposed amendment or accept it.
 
-- (a). indien geen enkele Overeenkomstsluitende Partij de Secretaris-Generaal, overeenkomstig het bepaalde in het tweede lid, letter **b**, van dit artikel, een kennisgeving heeft gezonden, na het verstrijken van de in het tweede lid van dit artikel genoemde termijn van zes maanden;
+8. Independently of the amendment procedure laid down in paragraphs 1 to 6 of this article, the annexes and appendices to this Agreement may be modified by agreement between the competent administrations of all the Contracting Parties. If the administration of a Contracting Party has stated that under its national law its agreement is contingent on special authorization or on the approval of a legislative body, the consent of the Contracting Party concerned to the modification of an annex shall not be deemed to have been given until the Contracting Party has notified the Secretary-General that the necessary authorization or approval has been obtained. The agreement between the competent administrations may provide that, during a transitional period, the old annexes shall remain in force, wholly or in part, concurrently with the new annexes. The Secretary-General shall specify the date of the entry into force of the new texts resulting from such modifications.
 
-- (b). indien ten minste één Overeenkomstsluitende Partij de Secretaris-Generaal, overeenkomstig het bepaalde in het tweede lid, letter **b**, van dit artikel, een kennisgeving heeft gezonden, op één van de twee volgende data, en wel die datum welke het eerst valt:
+##### Article 19
 
-  - -. de datum waarop alle Overeenkomstsluitende Partijen die een dergelijke kennisgeving hebben ingezonden de Secretaris-Generaal van hun aanvaarding van het voorstel in kennis hebben gesteld, met dien verstande dat, indien alle kennisgevingen van aanvaarding worden ingezonden vóór het verstrijken van de in het tweede lid van dit artikel genoemde termijn van zes maanden, deze datum zal worden aangemerkt als de datum waarop de bedoelde termijn van zes maanden verstrijkt;
+In addition to communicating to them the notifications provided for in [articles 17](https://wetten.overheid.nl/BWBV0004371) and [18](https://wetten.overheid.nl/BWBV0004371) of this Agreement, the Secretary-General of the United Nations shall notify the States referred to in [article 9, paragraph 1](https://wetten.overheid.nl/BWBV0004371), of this Agreement and the States which have become Contracting Parties under article 9, paragraph 2, of:
 
-  - -. de datum waarop de in het derde lid van dit artikel genoemde termijn van negen maanden verstrijkt.
+- (a) signatures, ratifications and accessions under [article 9](https://wetten.overheid.nl/BWBV0004371);
 
-6. Een als aanvaard geachte wijziging wordt zes maanden na de datum waarop zij werd geacht te zijn aanvaard van kracht.
+- (b) the dates of entry into force of this Agreement pursuant to [article 11](https://wetten.overheid.nl/BWBV0004371);
 
-7. De Secretaris-Generaal bericht ten spoedigste alle Overeenkomstsluitende Partijen of, overeenkomstig het bepaalde in het tweede lid, letter **a**, van dit artikel, bezwaar tegen de voorgestelde wijziging is gemaakt en of één of meer Overeenkomstsluitende Partijen hem een kennisgeving overeenkomstig het bepaalde in het tweede lid, letter **b**, van dit artikel hebben gezonden. Indien hem door één of meer Overeenkomstsluitende Partijen een dergelijke verklaring is gezonden, bericht hij vervolgens alle Overeenkomstsluitende Partijen of van de zijde van de Overeenkomstsluitende Partij of Partijen door wie een dergelijke kennisgeving is gezonden, tegen de voorgestelde wijziging bezwaar wordt gemaakt of dat deze wordt aanvaard.
+- (c) denunciations under [article 12](https://wetten.overheid.nl/BWBV0004371);
 
-8. Onafhankelijk van de gang van zaken met betrekking tot wijzigingen, als omschreven in het eerste tot en met het zesde lid van dit artikel, kunnen de Bijlagen en Aanhangsels van deze Overeenkomst worden gewijzigd in onderlinge overeenstemming tussen de bevoegde instanties van alle Overeenkomstsluitende Partijen. Indien de bevoegde instantie van een Overeenkomstsluitende Partij te kennen heeft gegeven dat, op grond van haar nationale recht, goedkeuring harentwege gebonden is aan een bijzondere machtiging of aan de goedkeuring van een wetgevend lichaam, wordt de goedkeuring van de betrokken Overeenkomstsluitende Partij met betrekking tot de wijziging van een Bijlage niet geacht te zijn gegeven alvorens de Overeenkomstsluitende Partij de Secretaris-Generaal ervan heeft verwittigd dat de vereiste machtiging of goedkeuring is verkregen. In de tussen de bevoegde instanties bereikte overeenstemming kan worden bepaald dat gedurende een overgangsperiode de oude Bijlagen, naast de nieuwe, geheel of gedeeltelijk van kracht zullen blijven. De Secretaris-Generaal bepaalt de datum waarop de uit dergelijke wijzigingen voortkomende nieuwe teksten van kracht worden.
+- (d) the termination of this Agreement under [article 13](https://wetten.overheid.nl/BWBV0004371);
 
-##### Artikel 19
+- (e) notifications received under [articles 10](https://wetten.overheid.nl/BWBV0004371) and [14](https://wetten.overheid.nl/BWBV0004371);
 
-Benevens zorg te dragen voor toezending van de kennisgevingen bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=17&z=2024-06-22&g=2024-06-22) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2024-06-22&g=2024-06-22) van deze Overeenkomst, doet de Secretaris-Generaal van de Verenigde Naties de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2024-06-22&g=2024-06-22), van deze Overeenkomst genoemde Staten en de overeenkomstig artikel 9, tweede lid, bij deze Overeenkomst partij geworden Staten, eveneens mededeling van:
+- (f) declarations and notifications received under [article 16, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0004371);
 
-- (a). iedere ondertekening, bekrachtiging en toetreding overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2024-06-22&g=2024-06-22);
+- (g) the entry into force of any amendment pursuant to [article 18](https://wetten.overheid.nl/BWBV0004371).
 
-- (b). de data van inwerkingtreding van deze Overeenkomst ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2024-06-22&g=2024-06-22);
+##### Article 20
 
-- (c). iedere opzegging overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=12&z=2024-06-22&g=2024-06-22);
-
-- (d). beëindiging van deze Overeenkomst overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=13&z=2024-06-22&g=2024-06-22);
-
-- (e). kennisgevingen ontvangen overeenkomstig de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=10&z=2024-06-22&g=2024-06-22) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=14&z=2024-06-22&g=2024-06-22);
-
-- (f). verklaringen en kennisgevingen ontvangen overeenkomstig het eerste en tweede lid van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=16&z=2024-06-22&g=2024-06-22);
-
-- (g). de datum van inwerkingtreding van eventuele wijzigingen ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=18&z=2024-06-22&g=2024-06-22).
-
-##### Artikel 20
-
-Na 31 mei 1971 wordt het origineel van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die een gewaarmerkt afschrift zal doen toekomen aan ieder der in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004371&hoofdstuk=IV&artikel=9&z=2024-06-22&g=2024-06-22), van deze Overeenkomst genoemde Staten.
+After 31 May 1971, the original of this Agreement shall be deposited with the Secretary-General of the United Nations, who shall transmit certified true copies to each of the States mentioned in [article 9, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0004371), of this Agreement.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Agreement.
 

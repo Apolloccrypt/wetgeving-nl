@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 13 december 2016 nr. WJZ/16133629, houdende nadere regels in verband met elektromagnetische compatibiliteit van uitrusting (Regeling elektromagnetische compatibiliteit 2016)"
+citeertitel: "Regeling elektromagnetische compatibiliteit 2016"
 identifier: "BWBR0038923"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038923"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13833913"
-version_id: "23745982"
-internal_id: "C34176051"
-label_id: "13799444"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038923/2023-01-01/0"
-intitule_bron: "Stcrt.2016-68713"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-13"
-intitule_published: "2016-12-19"
-intitule_in_force: "2016-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-68713"
-original_signed_date: "2016-12-13"
-original_published_date: "2016-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-68713"
-entry_into_force_date: "2016-12-28"
-jci_1_3: "jci1.3:c:BWBR0038923&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0038923&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling elektromagnetische compatibiliteit 2016"
-signed_date: "2016-12-13"
-entry_into_force: "2016-12-28"
+publicatiedatum: 2016-12-28
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0038923"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Economische Zaken van 13 december 2016 nr. WJZ/16133629, houdende nadere regels in verband met elektromagnetische compatibiliteit van uitrusting (Regeling elektromagnetische compatibiliteit 2016)
-
-Gelet op [richtlijn nr. 2014/30](32014L0030)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit (herschikking) (PbEU 2014, L 96), [artikel 10.1, vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.1) en de [artikelen 1, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=1), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=13), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=15), [16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=16), en [17 van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=17);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Telecommunicatiewet i.v.m. de implementatie van richtlijn 2014/30/EU en richtlijn 2014/53/EU in werking treedt.
 
 ##### Artikel 1
 
@@ -130,10 +102,8 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 9
 
-Deze regeling treedt in werking op het tijdstip waarop de Wet van 3 februari 2016 tot wijziging van de Telecommunicatiewet in verband met de implementatie van [richtlijn 2014/30](32014L0030)/EU en [richtlijn 2014/53](32014L0053)/EU in werking treedt.
+Deze regeling treedt in werking op het tijdstip waarop de Wet van 3 februari 2016 tot wijziging van de Telecommunicatiewet in verband met de implementatie van richtlijn 2014/30/EU en richtlijn 2014/53/EU in werking treedt.
 
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling elektromagnetische compatibiliteit 2016.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

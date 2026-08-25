@@ -1,62 +1,17 @@
 ---
 title: "Mandaatbesluit NVAO 2017"
 identifier: "BWBR0039777"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039777"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14069613"
-version_id: "24225662"
-internal_id: "C34797161"
-label_id: "14030634"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039777/2017-09-01/0"
-intitule_bron: "Stcrt.2017-39592"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-07-14"
-intitule_in_force: "2017-07-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-39592"
-original_published_date: "2017-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-39592"
-entry_into_force_date: "2017-09-01"
-jci_1_3: "jci1.3:c:BWBR0039777&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0039777&g=2017-09-01"
-citeertitel_status: "officieel"
-entry_into_force: "2017-09-01"
+publicatiedatum: 2017-09-01
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0039777"
+opgehaald: 2026-08-25
 ---
+
 # Mandaatbesluit NVAO 2017
-
-Gelet op:
-
-Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs van 3 september 2003, zoals nadien gewijzigd (Trb. 2013, nr. 35);
-
-[Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
-
-[Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
-
-[Accreditatiebesluit WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0030676);
-
-Decreet tot bekrachtiging van de decretale bepalingen betreffende het hoger onderwijs (codex hoger onderwijs);
-
-Decreet betreffende de versterking van het hoger beroepsonderwijs in Vlaanderen;
-
-Bestuursreglement NVAO.
-
-Overwegende dat het Comité van Ministers in zijn vergadering van 5 december 2016 heeft besloten de bestuurlijke structuur van de NVAO effectiever te maken,
-
-hetgeen wat betreft aanvragen van Nederlandse hoger onderwijsinstellingen onder andere inhoudt dat het Algemeen Bestuur zijn hieronder in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039777&artikel=1&z=2017-09-01&g=2017-09-01), nader omschreven bevoegdheden mandateert aan het Dagelijks Bestuur en dat het Dagelijks Bestuur zijn hieronder in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039777&artikel=2&z=2017-09-01&g=2017-09-01), nader omschreven bevoegdheden op zijn beurt (onder)mandateert aan de Directeur Nederland en bij diens afwezigheid of ontstentenis aan diens door het Dagelijks Bestuur aangewezen plaatsvervanger,
-
-en
-
-hetgeen wat betreft aanvragen van instellingen gevat in het decreet tot bekrachtiging van de decretale bepalingen betreffende het hoger onderwijs en het decreet betreffende de versterking van het hoger beroepsonderwijs in Vlaanderen inhoudt dat het Algemeen Bestuur zijn hieronder in [artikel 1, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0039777&artikel=1&z=2017-09-01&g=2017-09-01) bevoegdheden mandateert aan het Dagelijks Bestuur.
-
-Besluit
 
 ##### Artikel 1. Mandaat
 

@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Mobiel Erfgoed"
 identifier: "BWBR0039359"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-03-22"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039359"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13956973"
-version_id: "23998962"
-internal_id: "C34494721"
-label_id: "13920144"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039359/2017-03-22/0"
-intitule_bron: "Stcrt.2017-16728"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-03-21"
-intitule_in_force: "2017-03-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-16728"
-original_published_date: "2017-03-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-16728"
-entry_into_force_date: "2017-03-22"
-jci_1_3: "jci1.3:c:BWBR0039359&z=2017-03-22&g=2017-03-22"
-jci_1_0: "1.0:c:BWBR0039359&g=2017-03-22"
-citeertitel_status: "officieel"
-entry_into_force: "2017-03-22"
+publicatiedatum: 2017-03-22
+laatste_update: 2017-03-22
+status: geldig
+toestand: 2017-03-22
+bron: "https://wetten.overheid.nl/BWBR0039359"
+opgehaald: 2026-08-25
 ---
+
 # Deelregeling Mobiel Erfgoed
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -52,33 +29,33 @@ Het stimuleren van bijzondere projecten door organisaties op het gebied van de z
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0038798), in het aanvraagformulier en de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
-- •. een projectplan,
+- • een projectplan,
 
-- •. een presentatieplan, waarin toegelicht wordt hoe een passend publiek wordt betrokken,
+- • een presentatieplan, waarin toegelicht wordt hoe een passend publiek wordt betrokken,
 
-- •. een communicatieplan waarin toegelicht wordt hoe dit wordt bereikt,
+- • een communicatieplan waarin toegelicht wordt hoe dit wordt bereikt,
 
-- •. een motivering,
+- • een motivering,
 
-- •. een begroting met offertes,
+- • een begroting met offertes,
 
-- •. indien van toepassing toezeggingen van uitnodigende of deelnemende partijen.
+- • indien van toepassing toezeggingen van uitnodigende of deelnemende partijen.
 
 ##### Artikel 4. Beoordeling
 
 1. Bij de beoordeling van een aanvraag voor een bijdrage mobiel erfgoed geeft het bevoegd adviesorgaan een oordeel over het bijzondere belang van het projectvoorstel voor het mobiel erfgoed en de burger.
 
-- •. of het voorgelegde plan voorbeeldstellend of anderszins bijzonder is,
+- • of het voorgelegde plan voorbeeldstellend of anderszins bijzonder is,
 
-- •. of op inspirerende wijze een passend publiek wordt bereikt waardoor de relatie tussen mobiel erfgoed of en de burger wordt versterkt,
+- • of op inspirerende wijze een passend publiek wordt bereikt waardoor de relatie tussen mobiel erfgoed of en de burger wordt versterkt,
 
-- •. de onderzoekende en/of vernieuwende houding van de aanvrager en de wijze waarop deze naar buiten treedt om een passend publiek te vinden en dat publiek aan zich weet te binden,
+- • de onderzoekende en/of vernieuwende houding van de aanvrager en de wijze waarop deze naar buiten treedt om een passend publiek te vinden en dat publiek aan zich weet te binden,
 
-- •. de mate waarin het project bijdraagt aan de professionalisering en versterking van de sector mobiel erfgoed als geheel, de mate waarin verbindingen tussen de deelsectoren weg, water, lucht en rail worden gelegd, en het draagvlak voor de activiteit.
+- • de mate waarin het project bijdraagt aan de professionalisering en versterking van de sector mobiel erfgoed als geheel, de mate waarin verbindingen tussen de deelsectoren weg, water, lucht en rail worden gelegd, en het draagvlak voor de activiteit.
 
-- •. de allianties die de aanvrager aangaat om verbinding te leggen met anderen om een betekenisrijk project tot stand te brengen,
+- • de allianties die de aanvrager aangaat om verbinding te leggen met anderen om een betekenisrijk project tot stand te brengen,
 
-- •. het belang van het presentatieplan wordt beoordeeld op de wijze waarop beoogd wordt op een inspirerende wijze een passend publiek te bereiken.
+- • het belang van het presentatieplan wordt beoordeeld op de wijze waarop beoogd wordt op een inspirerende wijze een passend publiek te bereiken.
 
 2. Indien de bijdrage door twee of meer partijen wordt aangevraagd, telt dit in principe in positieve zin mee. Daarbij wordt beoordeeld of het aan de samenwerking ten grondslag liggende plan meerwaarde heeft.
 
@@ -95,5 +72,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2017. Indien de Staatsc
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Mobiel Erfgoed.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

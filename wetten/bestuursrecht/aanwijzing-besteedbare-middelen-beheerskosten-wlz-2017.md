@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 januari 2017, kenmerk 1046904-158168-Z, houdende de besteedbare middelen ter dekking van de beheerskosten Wlz 201 (Aanwijzing besteedbare middelen beheerskosten Wlz 2017)"
+citeertitel: "Aanwijzing besteedbare middelen beheerskosten Wlz 2017"
 identifier: "BWBR0039111"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-24"
-last_updated: "2017-01-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039111"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13890893"
-version_id: "23839402"
-internal_id: "C34289181"
-label_id: "13855284"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039111/2017-01-24/0"
-intitule_bron: "Stcrt.2017-3195"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-01-13"
-intitule_published: "2017-01-23"
-intitule_in_force: "2017-01-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-3195"
-original_signed_date: "2017-01-13"
-original_published_date: "2017-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-3195"
-entry_into_force_date: "2017-01-24"
-jci_1_3: "jci1.3:c:BWBR0039111&z=2017-01-24&g=2017-01-24"
-jci_1_0: "1.0:c:BWBR0039111&g=2017-01-24"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing besteedbare middelen beheerskosten Wlz 2017"
-signed_date: "2017-01-13"
-entry_into_force: "2017-01-24"
+publicatiedatum: 2017-01-24
+laatste_update: 2017-01-24
+status: geldig
+toestand: 2017-01-24
+bron: "https://wetten.overheid.nl/BWBR0039111"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 januari 2017, kenmerk 1046904-158168-Z, houdende de besteedbare middelen ter dekking van de beheerskosten Wlz 201 (Aanwijzing besteedbare middelen beheerskosten Wlz 2017)
-
-Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -65,5 +39,3 @@ Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte
 ##### Artikel 6
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing besteedbare middelen beheerskosten Wlz 2017.
-
-Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.

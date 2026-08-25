@@ -1,71 +1,43 @@
 ---
 title: "Regeling militair valschermspringen"
 identifier: "BWBR0039145"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039145"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13900333"
-version_id: "23856712"
-internal_id: "C34313171"
-label_id: "13864784"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039145/2022-07-01/0"
-intitule_bron: "Stcrt.2017-4672"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-01-20"
-intitule_published: "2017-01-30"
-intitule_in_force: "2017-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-4672"
-original_signed_date: "2017-01-20"
-original_published_date: "2017-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-4672"
-entry_into_force_date: "2017-03-01"
-jci_1_3: "jci1.3:c:BWBR0039145&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0039145&g=2022-07-01"
-citeertitel_status: "officieel"
-signed_date: "2017-01-20"
-entry_into_force: "2017-03-01"
+publicatiedatum: 2017-03-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0039145"
+opgehaald: 2026-08-25
 ---
+
 # Regeling militair valschermspringen
-
-Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Gelet op [artikel 5.10, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10) en de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=2), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=12) en [18, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=18);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **afspringpunt:** punt waarop het vliegtuig wordt verlaten;
+- *afspringpunt:* punt waarop het vliegtuig wordt verlaten;
 
-- **doelgebied:** gebied waar de valschermspringer beoogt neer te komen;
+- *doelgebied:* gebied waar de valschermspringer beoogt neer te komen;
 
-- **HAHO-valschermsprong:** valschermsprong vanaf grote hoogte waarbij het valscherm op grote hoogte wordt geopend (High Altitude High Opening);
+- *HAHO-valschermsprong:* valschermsprong vanaf grote hoogte waarbij het valscherm op grote hoogte wordt geopend (High Altitude High Opening);
 
-- **HALO-valschermsprong:** valschermsprong vanaf grote hoogte waarbij het valscherm op lage hoogte wordt geopend (High Altitude Low Opening);
+- *HALO-valschermsprong:* valschermsprong vanaf grote hoogte waarbij het valscherm op lage hoogte wordt geopend (High Altitude Low Opening);
 
-- **incidenteel valschermspringgebied:** valschermspringgebied dat niet als zodanig is aangewezen;
+- *incidenteel valschermspringgebied:* valschermspringgebied dat niet als zodanig is aangewezen;
 
-- **krijgsmacht:** Nederlandse of bondgenootschappelijke krijgsmacht;
+- *krijgsmacht:* Nederlandse of bondgenootschappelijke krijgsmacht;
 
-- **NOTAM:** bericht als bedoeld in [artikel 1 van de Regeling burgerluchtvaartinlichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&artikel=1) (**Notice to Airmen**);
+- *NOTAM:* bericht als bedoeld in [artikel 1 van de Regeling burgerluchtvaartinlichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&artikel=1) (*Notice to Airmen*);
 
-- **valscherm:** scherm dat dient om de daalsnelheid van een persoon zodanig te beperken, dat deze veilig het aardoppervlak kan bereiken;
+- *valscherm:* scherm dat dient om de daalsnelheid van een persoon zodanig te beperken, dat deze veilig het aardoppervlak kan bereiken;
 
-- **valschermspringen:** uit een zich in de lucht bevindend luchtvaartuig springen met een valscherm;
+- *valschermspringen:* uit een zich in de lucht bevindend luchtvaartuig springen met een valscherm;
 
-- **valschermspringgebied:** kolom luchtruimte met een straal van 3,7 km (2 nautische mijlen) rond het middelpunt van het doelgebied, of zoveel groter als noodzakelijk teneinde zeker te stellen dat de rand van het gebied ten minste 3,7 km (2 nautische mijlen) van het afspringpunt, het doelgebied en de hartlijn tussen deze twee punten ligt, en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte;
+- *valschermspringgebied:* kolom luchtruimte met een straal van 3,7 km (2 nautische mijlen) rond het middelpunt van het doelgebied, of zoveel groter als noodzakelijk teneinde zeker te stellen dat de rand van het gebied ten minste 3,7 km (2 nautische mijlen) van het afspringpunt, het doelgebied en de hartlijn tussen deze twee punten ligt, en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte;
 
-- **vast valschermspringgebied:** valschermspringgebied als vastgesteld in [artikel 2, derde lid, onderdeel z, van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2).
+- *vast valschermspringgebied:* valschermspringgebied als vastgesteld in [artikel 2, derde lid, onderdeel z, van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2).
 
 ##### Artikel 2
 
@@ -79,7 +51,7 @@ Het valscherm verleent voorrang aan vliegtuigen, helikopters, luchtschepen, zwee
 
 ##### Artikel 4
 
-Voor het uitvoeren van vluchten ten behoeve van valschermspringen wordt voor militair luchtverkeer dat wordt aangemerkt als OAT, vrijstelling verleend van paragraaf SERA.6001, onderdeel a, van de bijlage bij Verordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en [Verordeningen (EG) nr. 1265/2007](32007R1265), [(EG) 1794/2006](32006R1794), [(EG) nr. 730/2006](32006R0730), [(EG) nr. 1033/2006](32006R1033) en (EU) [nr. 255/2010](32010R0255) (PbEU 2012, L 281).
+Voor het uitvoeren van vluchten ten behoeve van valschermspringen wordt voor militair luchtverkeer dat wordt aangemerkt als OAT, vrijstelling verleend van paragraaf SERA.6001, onderdeel a, van de bijlage bij Verordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281).
 
 ##### Artikel 5
 
@@ -117,13 +89,13 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&art
 
 - d. in het vliegplan zijn vermeld:
 
-- 1°. de coördinaten en eventuele plaatsnaam van het centrum van het valschermspringgebied;
+   - 1°. de coördinaten en eventuele plaatsnaam van het centrum van het valschermspringgebied;
 
-- 2°. de periode waarin de sprong wordt uitgevoerd;
+   - 2°. de periode waarin de sprong wordt uitgevoerd;
 
-- 3°. het NOTAM-nummer; en
+   - 3°. het NOTAM-nummer; en
 
-- 4°. de hoogte waarvan de sprong wordt uitgevoerd.
+   - 4°. de hoogte waarvan de sprong wordt uitgevoerd.
 
 ##### Artikel 8
 
@@ -137,10 +109,8 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&art
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van 1 maart 2017.
+Deze regeling treedt in werking met ingang van 1 maart 2017.
 
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling militair valschermspringen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

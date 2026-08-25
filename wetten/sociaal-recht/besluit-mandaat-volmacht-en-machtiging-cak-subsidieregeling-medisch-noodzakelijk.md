@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 februari 2017, kenmerk 997477-153689-Z, houdende verlening van mandaat, volmacht en machtiging aan het CAK (Besluit mandaat, volmacht en machtiging CAK Subsidieregeling medisch noodzakelijke zorg aan onverzekerden)"
+citeertitel: "Besluit mandaat, volmacht en machtiging CAK Subsidieregeling medisch noodzakelijke zorg aan onverzekerden"
 identifier: "BWBR0039244"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-03-01"
-last_updated: "2017-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039244"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13924073"
-version_id: "23937002"
-internal_id: "C34420151"
-label_id: "13888084"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039244/2017-03-01/0"
-intitule_bron: "Stcrt.2017-10603"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-15"
-intitule_published: "2017-02-27"
-intitule_in_force: "2017-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-10603"
-original_signed_date: "2017-02-15"
-original_published_date: "2017-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-10603"
-entry_into_force_date: "2017-03-01"
-jci_1_3: "jci1.3:c:BWBR0039244&z=2017-03-01&g=2017-03-01"
-jci_1_0: "1.0:c:BWBR0039244&g=2017-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging CAK Subsidieregeling medisch noodzakelijke zorg aan onverzekerden"
-signed_date: "2017-02-15"
-entry_into_force: "2017-03-01"
+publicatiedatum: 2017-03-01
+laatste_update: 2017-03-01
+status: geldig
+toestand: 2017-03-01
+bron: "https://wetten.overheid.nl/BWBR0039244"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 februari 2017, kenmerk 997477-153689-Z, houdende verlening van mandaat, volmacht en machtiging aan het CAK (Besluit mandaat, volmacht en machtiging CAK Subsidieregeling medisch noodzakelijke zorg aan onverzekerden)
-
-Gelet op [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gelezen de instemming van de bestuursvoorzitter van het CAK van 20 januari 2017;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **het CAK:** het CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1).
+- a. *het CAK:* het CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1).
 
-- b. **Voorzitter:** voorzitter van het CAK.
+- b. *Voorzitter:* voorzitter van het CAK.
 
 ##### Artikel 2
 
@@ -97,5 +69,3 @@ Dit besluit treedt in werking met ingang van 1 maart 2017.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging CAK Subsidieregeling medisch noodzakelijke zorg aan onverzekerden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 26 maart 2017, nr. PO/1116263, houdende regels voor subsidieverstrekking voor het inzetten van kennis en competenties van masteropgeleide leraren in een lerarenteam ten behoeve van schoolontwikkeling (Subsidieregeling Teambeurs primair onderwijs)"
+citeertitel: "Subsidieregeling Teambeurs primair onderwijs"
 identifier: "BWBR0039462"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-09"
-last_updated: "2019-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039462"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13981003"
-version_id: "24055482"
-internal_id: "C34564311"
-label_id: "13943594"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039462/2019-07-09/0"
-intitule_bron: "Stcrt.2017-20684"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-26"
-intitule_published: "2017-04-13"
-intitule_in_force: "2017-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-20684"
-original_signed_date: "2017-03-26"
-original_published_date: "2017-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-20684"
-entry_into_force_date: "2017-04-14"
-jci_1_3: "jci1.3:c:BWBR0039462&z=2019-07-09&g=2019-07-09"
-jci_1_0: "1.0:c:BWBR0039462&g=2019-07-09"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Teambeurs primair onderwijs"
-signed_date: "2017-03-26"
-entry_into_force: "2017-04-14"
+publicatiedatum: 2017-04-14
+laatste_update: 2019-07-09
+status: geldig
+toestand: 2019-07-09
+bron: "https://wetten.overheid.nl/BWBR0039462"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 26 maart 2017, nr. PO/1116263, houdende regels voor subsidieverstrekking voor het inzetten van kennis en competenties van masteropgeleide leraren in een lerarenteam ten behoeve van schoolontwikkeling (Subsidieregeling Teambeurs primair onderwijs)
-
-Gelet op [artikel 4, eerste en tweede lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,35 +20,36 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- •. **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- • *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- •. **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
+- • *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
 
-- •. **intern begeleider:** degene met coördinerende, begeleidende en innoverende taken met betrekking tot leerlingen in het basisonderwijs;
+- • *intern begeleider:* degene met coördinerende, begeleidende en innoverende taken met betrekking tot leerlingen in het basisonderwijs;
 
-- •. **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- • *Kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- •. **leraar:** persoon, die voldoet aan de bevoegdheidseisen, bedoeld in [artikel 3 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 3 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) of [artikel 3 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3);
+- • *leraar:* persoon, die voldoet aan de bevoegdheidseisen, bedoeld in [artikel 3 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 3 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) of [artikel 3 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3);
 
-- •. **lerarenbeurs:** subsidie verkregen op grond van de [Regeling lerarenbeurs](https://wetten.overheid.nl/jci1.3:c:BWBR0025844);
+- • *lerarenbeurs:* subsidie verkregen op grond van de [Regeling lerarenbeurs](https://wetten.overheid.nl/jci1.3:c:BWBR0025844);
 
-- •. **lerarenteam:** samenwerkingsverband van ten minste twee leraren binnen een school dan wel binnen meer scholen onder een bevoegd gezag die samen een masteropleiding gaan volgen;
+- • *lerarenteam:* samenwerkingsverband van ten minste twee leraren binnen een school dan wel binnen meer scholen onder een bevoegd gezag die samen een masteropleiding gaan volgen;
 
-- •. **masteropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), of [artikel 7.3b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b) of een opleiding, buiten Nederland binnen de Europese Unie en het Koninkrijk der Nederlanden, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
+- • *masteropleiding:* opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), of [artikel 7.3b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b) of een opleiding, buiten Nederland binnen de Europese Unie en het Koninkrijk der Nederlanden, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
 
-- •. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- • *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- •. **remedial teacher:** degene die zich bezighoudt met de individuele begeleiding van de leerling die onderwijs op maat nodig heeft;
+- • *remedial teacher:* degene die zich bezighoudt met de individuele begeleiding van de leerling die onderwijs op maat nodig heeft;
 
-- •. **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) en [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- • *school:* school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) en [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- •. **schoolleider:** directeur of adjunct-directeur als bedoeld in [artikel 29, eerste onderscheidenlijk derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=29), [artikel 31, eerste onderscheidenlijk derde lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=31) en [artikel 29, eerste onderscheidenlijk derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=29);
+- • *schoolleider:* directeur of adjunct-directeur als bedoeld in [artikel 29, eerste onderscheidenlijk derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=29), [artikel 31, eerste onderscheidenlijk derde lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=31) en [artikel 29, eerste onderscheidenlijk derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=29);
 
-- •. **schooljaar:** tijdvak als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) en [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- • *schooljaar:* tijdvak als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) en [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- •. **schoolontwikkeling:** continu proces van activiteiten die een school of de personeelsleden gezamenlijk ondernemen om de kwaliteit van onderwijs en de professionaliteit van de leerkrachten te bevorderen;
+- • *schoolontwikkeling:* continu proces van activiteiten die een school of de personeelsleden gezamenlijk ondernemen om de kwaliteit van onderwijs en de professionaliteit van de leerkrachten te bevorderen;
 
-- •. **studiejaar:** tijdvak als bedoeld in [artikel 1.1, onderdeel k, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1).
+- • *studiejaar:* tijdvak als bedoeld in [artikel 1.1, onderdeel k, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1).
 
 ##### Artikel 2. Subsidieplafond
 
@@ -297,5 +272,3 @@ Het bevoegd gezag toont op verzoek van de minister tot maximaal 1 jaar nadat de 
 ##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Teambeurs primair onderwijs.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

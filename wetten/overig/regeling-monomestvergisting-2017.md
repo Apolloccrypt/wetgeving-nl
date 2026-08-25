@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 26 juni 2017, nr. WJZ/17075625, tot aanwijzing van monomestvergistingsinstallaties als subsidiabele categorie voor 2017 in het kader van de stimulering van duurzame energieproductie (Regeling monomestvergisting 2017)"
+citeertitel: "Regeling monomestvergisting 2017"
 identifier: "BWBR0039698"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039698"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14029733"
-version_id: "24163072"
-internal_id: "C34723451"
-label_id: "13991224"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039698/2017-07-01/0"
-intitule_bron: "Stcrt.2017-29951"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-26"
-intitule_published: "2017-06-28"
-intitule_in_force: "2017-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-29951"
-original_signed_date: "2017-06-26"
-original_published_date: "2017-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-29951"
-entry_into_force_date: "2017-07-01"
-jci_1_3: "jci1.3:c:BWBR0039698&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0039698&g=2017-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling monomestvergisting 2017"
-signed_date: "2017-06-26"
-entry_into_force: "2017-07-01"
+publicatiedatum: 2017-07-01
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0039698"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Economische Zaken van 26 juni 2017, nr. WJZ/17075625, tot aanwijzing van monomestvergistingsinstallaties als subsidiabele categorie voor 2017 in het kader van de stimulering van duurzame energieproductie (Regeling monomestvergisting 2017)
-
-Gelet op de [artikelen 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), [3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=36), [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=37), [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), [40, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=40), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=51), [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=52), [55, derde tot en met vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55), [56, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [59, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=59), [60, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=60), [61, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61) en [62, vierde lid en vijfde lid, onderdeel b, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,21 +20,23 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **algemene uitvoeringsregeling:** [Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563);
+- – *algemene uitvoeringsregeling:*
+ [Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563);
 
-- –. **besluit:** [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
+- – *besluit:*
+ [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
 
-- –. **minister:** Minister van Economische Zaken;
+- – *minister:* Minister van Economische Zaken;
 
-- –. **nominaal elektrisch rendement:** quotiënt van het nominaal elektrisch vermogen en:
+- – *nominaal elektrisch rendement:* quotiënt van het nominaal elektrisch vermogen en:
 
-- a. de som van het nominaal elektrisch vermogen en nominaal warmtevermogen in het geval van gecombineerde opwekking met behulp van een verbrandingsmotor, en
+   - a. de som van het nominaal elektrisch vermogen en nominaal warmtevermogen in het geval van gecombineerde opwekking met behulp van een verbrandingsmotor, en
 
-- b. het nominaal warmtevermogen van de ketel in het geval van gecombineerde opwekking met behulp van een stoomturbine of een organische rankinecyclus;
+   - b. het nominaal warmtevermogen van de ketel in het geval van gecombineerde opwekking met behulp van een stoomturbine of een organische rankinecyclus;
 
-- –. **nominaal vermogen:** maximale vermogen van de productie-installatie dat onder nominale condities benut kan worden voor de productie van hernieuwbare elektriciteit of hernieuwbare warmte of hernieuwbaar gas en wat door de leverancier gegarandeerd wordt bij continu gebruik;
+- – *nominaal vermogen:* maximale vermogen van de productie-installatie dat onder nominale condities benut kan worden voor de productie van hernieuwbare elektriciteit of hernieuwbare warmte of hernieuwbaar gas en wat door de leverancier gegarandeerd wordt bij continu gebruik;
 
-- –. **vergisting van uitsluitend dierlijke mest:** biologische afbraakreacties van verpompbare vaste en vloeibare uitwerpselen van dieren.
+- – *vergisting van uitsluitend dierlijke mest:* biologische afbraakreacties van verpompbare vaste en vloeibare uitwerpselen van dieren.
 
 #### § 2. Aanwijzing categorieën en openstelling
 
@@ -181,8 +157,8 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie a
 | 1. | 2. | 3. | 4. |
 | --- | --- | --- | --- |
 | Artikel | Omschrijving categorie | Correctiebedrag (€/kWh) | Correctiebedrag |
-| [2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01) | Monomestvergisting/gas | 0,016 | 0 |
-| [2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01) | Monomestvergisting/elektriciteit en warmte | 0,031 | 0 |
+| 2, eerste lid, onderdeel a | Monomestvergisting/gas | 0,016 | 0 |
+| 2, eerste lid, onderdeel b | Monomestvergisting/elektriciteit en warmte | 0,031 | 0 |
 
 ##### Artikel 17
 
@@ -191,99 +167,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2017.
 ##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling monomestvergisting 2017.
-
-## Bijlage 1. als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=3&artikel=11&z=2017-07-01&g=2017-07-01), van de Regeling monomestvergisting 2017: model uitvoeringsovereenkomst
-
-Uitvoeringsovereenkomst tot zekerheid van het aanvangen van de activiteiten ter zake waarvan subsidie is verstrekt op basis van de Regeling monomestvergisting 2017
-
-1. De Staat der Nederlanden, (hierna te noemen: de Staat), te dezen rechtsgeldig vertegenwoordigd door de Minister van Economische Zaken,;
-
-en
-
-2. ......... ......., gevestigd te......... (hierna te noemen: Ondernemer);
-
-..................................................
-
-(hierna te samen ook te noemen: Partijen);
-
-overwegen:
-
-Partijen komen daartoe het volgende overeen:
-
-### Artikel 1. Tijdige ingebruikname van de productie-installatie/productie-installaties
-
-De Ondernemer verplicht zich jegens de Staat de [productie-installatie/productie-installaties], bedoeld in de [Beschikking/Beschikkingen ... tot en met ...], tijdig in gebruik te nemen en wel binnen de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=4&artikel=12&z=2017-07-01&g=2017-07-01), van de Regeling bedoelde periode. of, [indien voor de productie-installatie / voor zover voor een of meer productie-installaties] op grond van [artikel 62, derde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62) een ontheffing is verleend, binnen de [in de ontheffing opgenomen periode / voor de desbetreffende productie-installatie in de bijbehorende ontheffing opgenomen periode].
-
-### Artikel 2. Inhoud en omvang van de garantie
-
-De Ondernemer verplicht zich om tot zekerheid voor:
-
-binnen vier weken na de datum van de [Beschikking/Beschikkingen ... tot en met ...] ten behoeve van de Staat financiële zekerheid te stellen en gesteld te houden voor een bedrag groot:
-
-[2% van de op grond van de Beschikking maximaal te verstrekken subsidie, € [...] (zegge: [...] euro) /
-
-2% van de op grond van elk van de Beschikkingen ... tot en met ...maximaal te verstrekken subsidie, in totaal € [...] (zegge: [...] euro), ]
-
-door middel van de afgifte aan de Staat van een door een binnen de Europese Unie gevestigde bank afgegeven bankgarantie welke is opgemaakt onder gebruikmaking van het model opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&bijlage=2&z=2017-07-01&g=2017-07-01) bij de Regeling.
-
-### Artikel 3. Vrijval van de garantie
-
-### Artikel 4. Boetes
-
-### Artikel 5. Aanvang en einde Uitvoeringsovereenkomst
-
-### Artikel 6. Domiciliekeuze en berichtgevingen
-
-### Artikel 7. Rechtskeuze
-
-### Artikel 8. Citeertitel
-
-Deze Uitvoeringsovereenkomst wordt tussen partijen aangeduid als ‘Uitvoeringsovereenkomst Monomestvergisting Staat/......................, nummer ...’.
-
-Aldus overeengekomen en in tweevoud ondertekend
-
-te .......
-
-Ondernemer
-
-te .... op ....................
-
-De Minister van Economische Zaken.
-
-## Bijlage 2. als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=3&artikel=11&z=2017-07-01&g=2017-07-01), van de Regeling monomestvergisting 2017: model bankgarantie
-
-DE ONDERGETEKENDE,
-
-............................., gevestigd te ......., hierna te noemen de ‘Bank’,
-
-IN AANMERKING NEMENDE DAT:
-
-- A. ........................... , gevestigd te ........, (hierna te noemen de Ondernemer) en de STAAT der NEDERLANDEN, (hierna te noemen: Staat), waarvan de zetel is gevestigd te Den Haag, te dezen vertegenwoordigd door ...................., hierbij vertegenwoordigd door de Minister van Economische Zaken op ............. de ‘Uitvoeringsovereenkomst Monomestvergisting Staat/......................, nummer ... (hierna: Uitvoeringsovereenkomst) hebben getekend;
-
-- [B. De Ondernemer volgens artikel 2 van de uitvoeringsovereenkomst binnen vier weken na de datum van de [beschikking/beschikkingen ... tot en met ...] tot subsidieverlening ten behoeve van de Staat financiële zekerheid dient te stellen en gesteld dient te houden voor een bedrag groot € [...] (zegge: [...] euro), door de afgifte aan de Staat van een door een bank afgegeven bankgarantie welke luidt conform het model dat als Bijlage bij die overeenkomst behoort;
-
-- C. De Bank bereid is de desbetreffende bankgarantie ten gunste van de Staat te stellen onder de hierna te noemen voorwaarden;
-
-VERKLAART ALS VOLGT
-
-- 1. De Bank stelt zich hierbij als zelfstandige verbintenis tegenover de Staat onherroepelijk en onvoorwaardelijk garant voor al hetgeen de Staat van de Ondernemer op grond van de uitvoeringsovereenkomst te vorderen heeft tot een maximumbedrag van € ... .
-
-- 2. Deze bankgarantie is een abstracte afroepgarantie. De Bank komt in geen geval een beroep toe op de onderliggende rechtsverhouding tussen de Staat en de Ondernemer als vervat in de Uitvoeringsovereenkomst.
-
-- 3. De Bank zal op eerste schriftelijk verzoek van de Staat, zonder opgaaf van redenen te verlangen of nader bewijs te vragen, overgaan tot uitbetaling van al hetgeen de Ondernemer, volgens verklaring van de Staat, verschuldigd is uit hoofde van de Uitvoeringsovereenkomst.
-
-- 4. Deze bankgarantie vervalt uitsluitend door het schriftelijk bericht van de Staat aan de Bank dat de verplichting geheel of gedeeltelijk is vervallen.
-
-- 5. De Minister van Economische Zaken zendt de bankgarantie zo spoedig mogelijk nadat deze geheel is vervallen retour aan de Bank.
-
-- 6. Op deze bankgarantie is uitsluitend Nederlands recht van toepassing. Alle geschillen die mochten ontstaan over of naar aanleiding van deze bankgarantie zullen worden beslecht door de bevoegde rechter te ’s-Gravenhage.
-
-- 7. Indien deze bankgarantie dient te worden geretourneerd geschiedt dat door toezending aan adres: ...............
-
-Getekend te
-
-op
-
-De Bank.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

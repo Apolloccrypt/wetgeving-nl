@@ -1,38 +1,17 @@
 ---
 title: "Klachtenregeling TNO 2005"
 identifier: "BWBR0039483"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-03-23"
-last_updated: "2006-03-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039483"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13985033"
-version_id: "24061962"
-internal_id: "C34578581"
-label_id: "13947544"
-dtd_version: "2.0"
-original_entry_into_force: "2006-03-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039483/2006-03-23/0"
-intitule_bron: "Stcrt.2006-58"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2006-03-22"
-intitule_in_force: "2006-03-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-58"
-original_published_date: "2006-03-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-58-p26-SC74434"
-entry_into_force_date: "2006-03-23"
-jci_1_3: "jci1.3:c:BWBR0039483&z=2006-03-23&g=2006-03-23"
-jci_1_0: "1.0:c:BWBR0039483&g=2006-03-23"
-citeertitel_status: "officieel"
-entry_into_force: "2006-03-23"
+publicatiedatum: 2006-03-23
+laatste_update: 2006-03-23
+status: geldig
+toestand: 2006-03-23
+bron: "https://wetten.overheid.nl/BWBR0039483"
+opgehaald: 2026-08-25
 ---
-# Klachtenregeling TNO 2005
 
-Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) vastgesteld door de Raad van Bestuur op 24 mei 2005.
+# Klachtenregeling TNO 2005
 
 ##### Artikel 1. Definities
 

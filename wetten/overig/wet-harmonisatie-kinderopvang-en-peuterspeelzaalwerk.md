@@ -1,51 +1,22 @@
 ---
 title: "Wet van 31 mei 2017 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen en enkele andere wetten in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen (Wet harmonisatie kinderopvang en peuterspeelzaalwerk)"
+citeertitel: "Wet harmonisatie kinderopvang en peuterspeelzaalwerk"
 identifier: "BWBR0039656"
-country: "nl"
-rank: "wet"
-publication_date: "2018-02-28"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039656"
+categorie: "Overig"
 soort: "wet"
-stam_id: "14023303"
-version_id: "24148142"
-internal_id: "C34806291"
-label_id: "13985334"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039656/2018-02-28/0"
-intitule_bron: "Stb.2017-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-05-31"
-intitule_published: "2017-06-19"
-intitule_in_force: "2017-07-17"
-intitule_status: "goed"
-original_publication: "Stb.2017-252"
-original_signed_date: "2017-05-31"
-original_published_date: "2017-06-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "34596"
-original_url_id: "stb-2017-252"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0039656&z=2018-02-28&g=2018-02-28"
-jci_1_0: "1.0:c:BWBR0039656&g=2018-02-28"
-citeertitel_status: "redactioneel"
-short_title: "Wet harmonisatie kinderopvang en peuterspeelzaalwerk"
-signed_date: "2017-05-31"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-02-28
+status: geldig
+toestand: 2018-02-28
+bron: "https://wetten.overheid.nl/BWBR0039656"
+opgehaald: 2026-08-25
 ---
+
 # Wet van 31 mei 2017 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen en enkele andere wetten in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen (Wet harmonisatie kinderopvang en peuterspeelzaalwerk)
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) te wijzigen ten einde de regelgeving aangaande kindercentra en peuterspeelzalen te harmoniseren en daarmee samenhangende wijzigingen door te voeren in enkele andere wetten;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet kinderopvang.
+*Wijzigt de Wet kinderopvang.*
 
 ##### Artikel II
 
@@ -59,47 +30,47 @@ Na de inwerkingtreding van deze wet berust:
 
 ##### Artikel III
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel IV
 
-Wijzigt de Handelsregisterwet 2007.
+*Wijzigt de Handelsregisterwet 2007.*
 
 ##### Artikel V
 
-Wijzigt de Wet inburgering.
+*Wijzigt de Wet inburgering.*
 
 ##### Artikel VI
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op het onderwijstoezicht.
+*Wijzigt de Wet op het onderwijstoezicht.*
 
 ##### Artikel X
 
-Wijzigt de Wet op het primair onderwijs.
+*Wijzigt de Wet op het primair onderwijs.*
 
 ##### Artikel XI
 
-Wijzigt de Jeugdwet.
+*Wijzigt de Jeugdwet.*
 
 ##### Artikel XII
 
-Wijzigt de Participatiewet.
+*Wijzigt de Participatiewet.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
 ##### Artikel XIV. Overgangsbepaling niet afgehandelde aanvraag tot exploitatie
 
@@ -107,7 +78,7 @@ Een aanvraag voor een peuterspeelzaal als bedoeld in [artikel 2.2, eerste lid, v
 
 ##### Artikel XV. Overgangsbepaling beëindiging inschrijving in het personenregister kinderopvang en peuterspeelzaalwerk
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel XVI. Overgangsbepaling klachtenverslag
 
@@ -170,5 +141,3 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen 3 jaar na de inw
 ##### Artikel XXVIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

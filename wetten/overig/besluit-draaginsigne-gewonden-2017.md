@@ -1,52 +1,28 @@
 ---
 title: "Besluit houdende vaststelling Draaginsigne Gewonden 2017"
+citeertitel: "Besluit Draaginsigne Gewonden 2017"
 identifier: "BWBR0039236"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-02-28"
-last_updated: "2017-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039236"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13922923"
-version_id: "23935202"
-internal_id: "C34417631"
-label_id: "13886984"
-dtd_version: "2.0"
-original_entry_into_force: "2017-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039236/2017-02-28/0"
-intitule_bron: "Stcrt.2017-10580"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-17"
-intitule_published: "2017-02-27"
-intitule_in_force: "2017-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-10580"
-original_signed_date: "2017-02-17"
-original_published_date: "2017-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-10580"
-entry_into_force_date: "2017-02-28"
-jci_1_3: "jci1.3:c:BWBR0039236&z=2017-02-28&g=2017-02-28"
-jci_1_0: "1.0:c:BWBR0039236&g=2017-02-28"
-citeertitel_status: "officieel"
-short_title: "Besluit Draaginsigne Gewonden 2017"
-signed_date: "2017-02-17"
-entry_into_force: "2017-02-28"
+publicatiedatum: 2017-02-28
+laatste_update: 2017-02-28
+status: geldig
+toestand: 2017-02-28
+bron: "https://wetten.overheid.nl/BWBR0039236"
+opgehaald: 2026-08-25
 ---
-# Besluit houdende vaststelling Draaginsigne Gewonden 2017
 
-Besluit:
+# Besluit houdende vaststelling Draaginsigne Gewonden 2017
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- **draaginsigne:** Draaginsigne Gewonden;
+- *draaginsigne:* Draaginsigne Gewonden;
 
-- **lichamelijke verwonding:** schade aan of beschadiging van het lichaam tengevolge van een van buiten aangrijpend geweld, CBRN-oorlogsvoering of een andere fysische conditie als gevolg waarvan scheiding van de normale samenhang van weefsel optreedt;
+- *lichamelijke verwonding:* schade aan of beschadiging van het lichaam tengevolge van een van buiten aangrijpend geweld, CBRN-oorlogsvoering of een andere fysische conditie als gevolg waarvan scheiding van de normale samenhang van weefsel optreedt;
 
-- **psychisch letsel:** een acuut of chronisch psychiatrisch toestandsbeeld, beschreven in het geldende ‘Diagnostic and Statistical Manual of Mental Disorders’ of in de ‘International Classification of Diseases and related health problems’ en waarvan de diagnose is gesteld door of onder supervisie van een psychiater.
+- *psychisch letsel:* een acuut of chronisch psychiatrisch toestandsbeeld, beschreven in het geldende ‘Diagnostic and Statistical Manual of Mental Disorders’ of in de ‘International Classification of Diseases and related health problems’ en waarvan de diagnose is gesteld door of onder supervisie van een psychiater.
 
 ##### Artikel 2. Uiterlijk draaginsigne
 
@@ -66,11 +42,11 @@ In dit besluit wordt verstaan onder:
 
 - b. gedurende het vervullen van zijn plicht:
 
-- 1º. direct betrokken is geweest bij een (mede) tegen hem gerichte gevechtshandeling dan wel (mede) tegen hem gerichte gevechtshandelingen; of
+   - 1º. direct betrokken is geweest bij een (mede) tegen hem gerichte gevechtshandeling dan wel (mede) tegen hem gerichte gevechtshandelingen; of
 
-- 2º. in persoon (mede) tegen hem gerichte enige andere vorm van excessieve geweldsuitoefening dan wel een dreiging daarvan heeft ondergaan; of
+   - 2º. in persoon (mede) tegen hem gerichte enige andere vorm van excessieve geweldsuitoefening dan wel een dreiging daarvan heeft ondergaan; of
 
-- 3º. herhaaldelijk of langdurig in persoon, anders dan het enkel vernemen, horen zeggen of zien is blootgesteld aan de directe afschuwwekkende gevolgen van oorlogsgeweld; en
+   - 3º. herhaaldelijk of langdurig in persoon, anders dan het enkel vernemen, horen zeggen of zien is blootgesteld aan de directe afschuwwekkende gevolgen van oorlogsgeweld; en
 
 - c. als gevolg daarvan ernstig lichamelijk gewond is geraakt of ernstig psychisch letsel heeft opgelopen.
 
@@ -157,5 +133,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Draaginsigne Gewonden 2017.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

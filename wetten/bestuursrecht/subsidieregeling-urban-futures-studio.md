@@ -1,56 +1,31 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu van 7 februari 2017, nr. IenM/BSK-2016/213529, houdende verstrekking van subsidie aan de Universiteit Utrecht voor Urban Futures Studio (Subsidieregeling Urban Futures Studio)"
+citeertitel: "Subsidieregeling Urban Futures Studio"
 identifier: "BWBR0039213"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039213"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13913333"
-version_id: "23878782"
-internal_id: "C34350701"
-label_id: "13877414"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039213/2017-07-01/0"
-intitule_bron: "Stcrt.2017-8750"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-07"
-intitule_published: "2017-02-21"
-intitule_in_force: "2017-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-8750"
-original_signed_date: "2017-02-07"
-original_published_date: "2017-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-8750"
-entry_into_force_date: "2017-07-01"
-jci_1_3: "jci1.3:c:BWBR0039213&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0039213&g=2017-07-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Urban Futures Studio"
-signed_date: "2017-02-07"
-entry_into_force: "2017-07-01"
+publicatiedatum: 2017-07-01
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0039213"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu van 7 februari 2017, nr. IenM/BSK-2016/213529, houdende verstrekking van subsidie aan de Universiteit Utrecht voor Urban Futures Studio (Subsidieregeling Urban Futures Studio)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5), [2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, tweede lid, onder b, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [17, eerste lid, onder c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [22, tweede lid, 23, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), en [24 eerste, tweede en derde lid, van het Kaderbesluit I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- *minister:* Minister van Infrastructuur en Milieu;
 
-- **subsidieontvanger:** Universiteit Utrecht, faculteit Geowetenschappen;
+- *subsidieontvanger:* Universiteit Utrecht, faculteit Geowetenschappen;
 
-- **UFS:** Urban Futures Studio;
+- *UFS:* Urban Futures Studio;
 
-- **wet:** [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789).
+- *wet:*
+ [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789).
 
 ##### Artikel 2. Doel subsidie
 
@@ -68,7 +43,7 @@ In deze regeling wordt verstaan onder:
 
 2. Voor activiteiten van de UFS als bedoeld in het eerste lid, wordt geen subsidie verstrekt voor zover voor dergelijke activiteiten een subsidie is of wordt verstrekt door een ander bestuursorgaan dan wel hiervoor andere inkomsten van derden zonder tegenprestatie zijn of worden verkregen.
 
-##### Artikel 3. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 3. Kaderbesluit subsidies I en M
 
 Het [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381) is van overeenkomstige toepassing behoudens de [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=16) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=26).
 
@@ -151,5 +126,3 @@ De minister publiceert het evaluatieverslag over de doeltreffendheid en de effec
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Urban Futures Studio.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

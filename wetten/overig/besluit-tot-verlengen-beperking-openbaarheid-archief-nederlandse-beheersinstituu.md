@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 12 april 2017 tot het verlengen van de beperking op de openbaarheid van het archief van het Nederlandse Beheersinstituut – Personeelsdossiers 1945–1967, nummer archiefinventaris 2.09.37"
+citeertitel: "Besluit tot verlengen beperking openbaarheid archief Nederlandse Beheersinstituut – Personeelsdossiers 1945–1967, nummer archiefinventaris 2.09.37"
 identifier: "BWBR0039557"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-05-20"
-last_updated: "2017-05-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039557"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14005723"
-version_id: "24101612"
-internal_id: "C34634021"
-label_id: "13967484"
-dtd_version: "2.0"
-original_entry_into_force: "2017-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039557/2017-05-20/0"
-intitule_bron: "Stcrt.2017-27831"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-04-12"
-intitule_published: "2017-05-19"
-intitule_in_force: "2017-05-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-27831"
-original_signed_date: "2017-04-12"
-original_published_date: "2017-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-27831"
-entry_into_force_date: "2017-05-20"
-jci_1_3: "jci1.3:c:BWBR0039557&z=2017-05-20&g=2017-05-20"
-jci_1_0: "1.0:c:BWBR0039557&g=2017-05-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit tot verlengen beperking openbaarheid archief Nederlandse Beheersinstituut – Personeelsdossiers 1945–1967, nummer archiefinventaris 2.09.37"
-signed_date: "2017-04-12"
-entry_into_force: "2017-05-20"
+publicatiedatum: 2017-05-20
+laatste_update: 2017-05-20
+status: geldig
+toestand: 2017-05-20
+bron: "https://wetten.overheid.nl/BWBR0039557"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van 12 april 2017 tot het verlengen van de beperking op de openbaarheid van het archief van het Nederlandse Beheersinstituut – Personeelsdossiers 1945–1967, nummer archiefinventaris 2.09.37
-
-Gelet op [artikel 15, tweede lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -412,5 +386,3 @@ Raadpleging of gebruik en het vervaardigen van reproducties van de archiefbesche
 ##### Artikel 4
 
 De beperking op de openbaarheid van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039557&artikel=2&z=2017-05-20&g=2017-05-20) vervalt wanneer ten genoege van de algemene rijksarchivaris is aangetoond dat de persoon op wie de archiefbescheiden betrekking hebben, is overleden.
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.

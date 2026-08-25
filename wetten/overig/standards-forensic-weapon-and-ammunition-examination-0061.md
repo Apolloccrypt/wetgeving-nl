@@ -1,38 +1,16 @@
 ---
 title: "Standards Forensic Weapon and Ammunition Examination (006.1)"
 identifier: "BWBR0039081"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-12-12"
-last_updated: "2016-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039081"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13872033"
-version_id: "23815532"
-internal_id: "C34260391"
-label_id: "13837844"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039081/2016-12-12/0"
-intitule_bron: "Stcrt.2016-70320"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-12"
-intitule_published: "2016-12-28"
-intitule_in_force: "2016-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-70320"
-original_signed_date: "2016-12-12"
-original_published_date: "2016-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-70320"
-entry_into_force_date: "2016-12-12"
-jci_1_3: "jci1.3:c:BWBR0039081&z=2016-12-12&g=2016-12-12"
-jci_1_0: "1.0:c:BWBR0039081&g=2016-12-12"
-citeertitel_status: "redactioneel"
-signed_date: "2016-12-12"
-entry_into_force: "2016-12-12"
+publicatiedatum: 2016-12-12
+laatste_update: 2016-12-12
+status: geldig
+toestand: 2016-12-12
+bron: "https://wetten.overheid.nl/BWBR0039081"
+opgehaald: 2026-08-25
 ---
+
 # Standards Forensic Weapon and Ammunition Examination (006.1)
 
 ### Part I. General Introduction to Standards
@@ -57,9 +35,25 @@ These two types of applicants are subdivided as follows:
 
 Initial applicant:
 
+- (i) independent reporter: a reporter who has independently written and signed the required number of case reports;
+
+- (ii) reporter without work of his own: a reporter who has not independently written and signed the number of case reports required for registration. *If the assessment is favourable, the reporter without work of his own will only qualify for conditional registration.*
+
 Repeat applicant:
 
+- (i) Repeat applicant after unconditional registration (before: full registration);
+
+- (ii) Repeat applicant after conditional registration (before: temporary registration).
+
 The initial applicant is an applicant who at the time of submission of the application does not have an NRGD registration. An initial applicant could be:
+
+- – the independently reporting expert;
+
+- – the newly-trained expert;
+
+- – the applicant whose earlier application has been rejected by the Board;
+
+- – the applicant whose registration was previously stricken.
 
 In respect of initial applicants, it is necessary to make a clear distinction between the independent reporter and the reporter without work of his own. An example of a reporter without work of his own is the newly-trained expert. This expert has completed the forensic training (reporter’s training), but has not yet been able to independently write the number of reports required for the assessment because these are written under the supervision of a tutor during the training. Another example of a reporter without work of his own is the reporter whose earlier application was rejected and who has been working (partly) under supervision following this rejection.
 
@@ -101,13 +95,19 @@ The Gunshot Residue Examination, the Explosions and Explosives Examination, the 
 
 The following disciplines are distinguished within the field of expertise:
 
+- – Comparative bullet and cartridge case examination
+
+- – Weapon-technical examination for the purpose of reconstruction
+
+- – Forensic ballistics examination
+
 Different questions are relevant per discipline. An overview of the most frequent questions has been provided in [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBR0039081&bijlage=A&z=2016-12-12&g=2016-12-12).
 
 ### § 2. Core activities
 
 General: an expert in Forensic Weapon and Ammunition Examination identifies, typifies, classifies and describes portable firearms and the ammunition intended for such weapons according to the Weapons and Ammunition Act.
 
-**Comparative bullet and cartridge case examination**
+*Comparative bullet and cartridge case examination*
 
 During the comparative bullet and cartridge case examination, an examination is conducted into microscopically small mechanical damage (weapon marks) on components of ammunition (bullets and cartridge cases) and cartridges. These marks are created when shooting or chambering ammunition in a firearm. The marks are characteristic of or particular to the firearm used and are consequently, highly indicative.
 
@@ -115,21 +115,29 @@ Connections can be established between each of the examined components of ammuni
 
 During the comparative bullet and cartridge case examination, the expert identifies relevant weapon marks and compares these with the aid of a comparison microscope equipped for this purpose. The discovered similarities and differences are recorded and interpreted. The latter leads to a statement as to whether the findings are in line with the hypothesis that ammunition components had been discharged in the same firearm or that a given individual firearm had been used or that it was not used.
 
-**Weapon-technical examination for the purpose of reconstruction**
+*Weapon-technical examination for the purpose of reconstruction*
 
 During a weapon-technical examination, a weapon is examined for mechanical operation, defects and failures for the purpose of reconstructing the causes of a shooting incident. The condition and construction of the weapon are considered while taking into account the actions alleged to have been performed with it. These acts largely concern the possibility of accidental firing during throwing, falling, hitting or struggles.
 
 The weapon is tested for sound operation. The examination consists of a thorough (microscope) inspection for damage, signs of wear and tear or missing components. The safety mechanisms that should be present have to be checked, followed by shooting tests and/or experiments that can recreate the acts that have been suggested as possible scenarios. The expert is able to establish, by means of inspection, assembly or disassembly an analysis of faults and failures, and an estimation as to whether there is any true basis for the proposition that the examined weapon fired by accident.
 
-**The forensic ballistics examination**
+*The forensic ballistics examination*
 
 The forensic ballistics examination consists of all four phases of ballistics: internal, muzzle (or transitional), external and terminal ballistics. The latter two are particularly relevant in connection with the direction of the shot, determining the firing distance and the effect of the bullets on targets that have been hit.
 
 Experiments are conducted during ballistics examinations with the aim of evaluating the hypotheses proposed by the commissioning party concerning the shooting incident. The questions that can be asked are highly diverse in nature.
 
-**External ballistics:**
+*External ballistics:*
 
-**Terminal ballistics:**
+- – The expert can determine the projectile velocity (for example with a Doppler radar or a light barrier) and precision of a weapon-ammunition system.
+
+- – The firing distance can be evaluated by reconstructing the available data from the crime scene (for example, the spread of buckshot).
+
+- – Reconstruction of projectile trajectories.
+
+*Terminal ballistics:*
+
+- – The potential for fatal injury can best be evaluated by performing test shots on calibrated tissue simulators.
 
 The expert has to be capable and competent in the performance of all necessary experiments, perform them or have them performed, and to process and interpret the data of a significant number of measurements (statistically).
 
@@ -141,21 +149,63 @@ Within the practice of the Forensic Weapon and Ammunition Examination field of e
 
 The expert in Forensic Weapon and Ammunition Examination is aware of the possibilities and restrictions of the fields of expertise mentioned below:
 
+Crime scene examination
+
+3
+
+Crime Scene Examinations, as performed by the Police (FO) are, for the time being, not recognised in the Netherlands as a field of expertise, see also Judicial surveys (Dutch), 30 (4) 2004, 72-83.
+
 The expert in Forensic Weapon and Ammunition Examination can assist and advise the police on site when searching, describing, recording, interpreting and securing marks and carriers of marks of shooting incidents on and around the crime scene.
 
 In doing so, the expert will focus on:
 
+- – advising on the approach of the technical examination, in particular bullet trajectory reconstructions on the basis of shot damage,
+
+- – providing expert advice on safety with respect to the crime scene examination,
+
+- – making weapons secure in unsafe situations (weapons from burnt out cars or under water),
+
+- – proposing possible hypotheses or scenarios,
+
+- – advising regarding potential forensic follow-up examinations.
+
+Gunshot Residue Examination field of expertise
+
 The Gunshot Residue Examination field of expertise concerns itself with:
+
+- – Ballistics on clothing and/or post mortem examination
+
+- – Gunshot residue examination
+
+- – Examination of the hand and /or sleeve used for shooting
+
+- – Examination of micro marks on weapons and ammunition
+
+Pathology field of expertise
 
 The Pathology field of expertise comprises the determination of the victim’s cause of death. It is also determined whether the identified shooting is the cause of the death.
 
-**Explosions and Explosives Examination field of expertise**
+*Explosions and Explosives Examination field of expertise*
 
 The Explosions and Explosives field of expertise is primarily deals with the following investigation:
 
+- – Examination of intact factory produced and improvised explosive constructions
+
+- – Identification of intact presumably explosive substances and possible raw materials for explosives
+
+- – Research of explosions
+
 Usually, Explosions and Explosives examinations concern incidents other than shooting incidents.
 
+Field of expertise of 006.2 Assessment regarding the Weapons and Ammunition Act
+
 The field of expertise of Assessment regarding the Weapons and Ammunition Act focuses on:
+
+- – Investigation regarding the section of law regarding Weapons and Munitions under which the firearm falls
+
+- – Investigation regarding the grounds for exemption
+
+- – All essential related extensive weapon-technical examination.
 
 ### § 4. Registration
 
@@ -167,55 +217,155 @@ The general (repeat) registration requirements are given in the next paragraphs 
 
 An expert will only be registered as an expert in criminal cases upon submission of the application if, in the opinion of the Board, the expert:
 
-### § 1. [Article 12(2) sub-paragraph a](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+- a. has sufficient knowledge and experience in the field of expertise to which the application relates;
 
-**(...) has sufficient knowledge and experience in the field of expertise to which the application relates.**
+- b. has sufficient knowledge of and experience in the field of law concerned, and is sufficiently familiar with the position and the role of the expert in this field;
+
+- c. is able to inform the commissioning party whether, and if so, to what extent the commissioning party’s question at issue is sufficiently clear and capable of investigation in order to be able to answer it on the basis of their specific expertise;
+
+- d. is able, on the basis of the question at issue, to prepare and carry out an investigation plan in accordance with the applicable standards;
+
+- e. is able to collect, document, interpret and assess investigative materials and data in a forensic context in accordance with the applicable standards;
+
+- f. is able to apply the current investigative methods in a forensic context in accordance with the applicable standards
+
+- g. is able to give a verifiable and well-reasoned case report on the assignment and any other relevant aspects of their expertise in terms which are comprehensible to the commissioning party, both orally and in writing;
+
+- h. is able to complete an assignment within the stipulated or agreed period.
+
+- i. is able to carry out the activities as an expert independently, impartially, conscientiously, competently, and in a trustworthy manner.
+
+### § 1. Article 12(2) sub-paragraph a
+
+*(...) has sufficient knowledge and experience in the field of expertise to which the application relates.*
 
 ### 1.1. Initial: independent reporter
 
+| Basic requirements: | – be able to work at the level of someone who has minimally obtained a bachelor degree (natural sciences); – have a demonstrable level of education, training and experience – demonstrated in the curriculum vitae – in the following core activities: • comparative bullet and cartridge case examination; • weapon-technical examination; • forensic ballistics examination; – be familiar with the glossary (see Annex A) and the suggested literature (see Annex B) and must keep up to date with relevant professional state-of-the-art developments; – be minimally capable of answering questions concerning the possibilities and restrictions of, for example, crime scene investigations and the fields of expertise of: Gunshot Residue Examination, Pathology, Explosions and Explosives Examinations and Assessment regarding the Weapons and Ammunition Act. |
+| --- | --- |
+|  |  |
+| Specific requirements: | – have interpreted and reported at least 20 examinations per year in the preceding 5 years in which each of the core activities comparative bullet and shell examination (a minimum of 90 reports), weapon-technical investigation (a minimum of 5 reports) and forensic ballistics examination (a minimum of 5 reports) are represented and that have been subjected to collegial review; – In case the applicant is also acting as a supervisor, at least two reports on the List of Case Information should be independently prepared reports. – have spent an average of 40 hours a year over the past 5 years on forensically relevant professional development (e.g. publications, attending conferences, running or attending courses). |
+
 ### 1.2. Initial: reporter without work of his own
+
+| Basic requirements: | – be able to work at the level of someone who has minimally obtained a bachelor degree (natural sciences);should have a demonstrable level of education, training and experience – demonstrated in the curriculum vitae – in the following core activities: • comparative bullet and cartridge case examination; • weapon-technical examination; • forensic ballistics examination; – be familiar with the glossary (see Annex A) and the suggested literature (see Annex B) and must keep up to date with relevant professional state-of-the-art developments; – be minimally capable of answering questions concerning the possibilities and restrictions of, for example, crime scene investigations and the fields of expertise of: Gunshot Residue Examination, Pathology, Explosions and Explosives Examinations and Assessment regarding the Weapons and Ammunition Act. |
+| --- | --- |
+|  |  |
+| Specific requirements: | – have interpreted and reported at least 20 examinations per year in the preceding 2 years in which each of the core activities comparative bullet and shell examination (a minimum of 36 reports), weapon-technical investigation (a minimum of 2 reports) and forensic ballistics examination (a minimum of 2 reports) are represented and that have been subjected to collegial review; – have spent an average of 40 hours a year over the past 2 years on forensically relevant professional development (e.g. publications, attending conferences, running or attending courses). |
 
 ### 1.3. Repeat applicant: after unconditional registration
 
+| Basic requirements: | – be able to work at the level of someone who has minimally obtained a bachelor degree (natural sciences); – have a demonstrable level of education, training and experience – demonstrated in the curriculum vitae – in the following core activities: • comparative bullet and cartridge case examination; • weapon-technical examination; • forensic ballistics examination; – be familiar with the glossary (see Annex A) and the suggested literature (see Annex B) and must keep up to date with relevant professional state-of-the-art developments; – be minimally capable of answering questions concerning the possibilities and restrictions of, for example, crime scene investigations and the fields of expertise of: Gunshot Residue Examination, Pathology, Explosions and Explosives Examinations and Assessment regarding the Weapons and Ammunition Act. |
+| --- | --- |
+|  |  |
+| Specific requirements: | – have interpreted and reported at least 20 examinations per year in the preceding 5 years in which each of the core activities comparative bullet and shell examination (a minimum of 90 reports), weapon-technical investigation (a minimum of 5 reports) and forensic ballistics examination (a minimum of 5 reports) are represented and that have been subjected to collegial review; – In case the applicant is also acting as a supervisor, at least two reports on the List of Case Information should be independently prepared reports. – have spent an average of 40 hours a year over the past 5 years on forensically relevant professional development (e.g. publications, attending conferences, running or attending courses). |
+
 ### 1.4. Repeat applicant: after conditional registration
 
-### § 2. [Article 12(2) sub-paragraph b](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+| Basic requirements: | – be able to work at the level of someone who has minimally obtained a bachelor degree (natural sciences); – should have a demonstrable level of education, training and experience – demonstrated in the curriculum vitae – in the following core activities: • comparative bullet and cartridge case examination; • weapon-technical examination; • forensic ballistics examination; – be familiar with the glossary (see Annex A) and the suggested literature (see Annex B) and must keep up to date with relevant professional state-of-the-art developments; – be minimally capable of answering questions concerning the possibilities and restrictions of, for example, crime scene investigations and the fields of expertise of: Gunshot Residue Examination, Pathology, Explosions and Explosives Examinations and Assessment regarding the Weapons and Ammunition Act. |
+| --- | --- |
+|  |  |
+| Specific requirements: | – have interpreted and reported at least of 20 examinations per year in the preceding 2 years in which each of the core activities comparative bullet and shell examination (a minimum of 36 reports), weapon-technical investigation (a minimum of 2 reports) and forensic ballistics examination (a minimum of 2 reports) are represented and that have been subjected to collegial review; In case the applicant is also acting as a supervisor, at least two reports on the List of Case Information should be independently prepared reports. – have spent an average of 40 hours a year over the past 2 years on forensically relevant professional development (e.g. publications, attending conferences, running or attending courses). |
 
-**(...) has sufficient knowledge of and experience in the field of law concerned, and is sufficiently familiar with the position and the role of the expert in this field.**
+### § 2. Article 12(2) sub-paragraph b
 
-### § 3. [Article 12(2) sub-paragraph c](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+*(...) has sufficient knowledge of and experience in the field of law concerned, and is sufficiently familiar with the position and the role of the expert in this field.*
 
-**(...) is able to inform the commissioning party whether, and if so, to what extent the commissioning party’s question at issue is sufficiently clear and capable of investigation in order to be able to answer it on the basis of their specific expertise.**
+- – In general an applicant should have adequate knowledge of Dutch criminal law:
 
-### § 4. [Article 12(2) sub-paragraph d](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+   - • context of criminal law:
 
-**(...) is able, on the basis of the question at issue, to prepare and carry out an investigation plan in accordance with the applicable standards.**
+      - ○ Trias Politica, distinction between civil law, administrative law and criminal law.
 
-### § 5. [Article 12(2) sub-paragraph e](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+   - • criminal law procedure:
 
-**(...) is able to collect, document, interpret and assess investigative materials and data in a forensic context in accordance with the applicable standards.**
+      - ○ pre-trial investigation;
 
-### § 6. [Article 12(2) sub-paragraph f](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+      - ○ coercive measures;
 
-**(...) is able to apply the current investigative methods in a forensic context in accordance with the applicable standards.**
+      - ○ stages of the proceedings;
+
+      - ○ actors in the criminal justice system (tasks/powers/responsibilities);
+
+      - ○ regulations concerning experts laid down in the Dutch Code of Criminal Procedure (position and powers of commissioning party, legal position of expert, position and powers of lawyer, forms of counter-analysis, register of experts in the context of criminal law);
+
+      - ○ legal decision-making framework of the court in criminal cases (decision-making schedule laid down in Section 350 of the Dutch Criminal Code of Procedure), also with a view to the relevance of the commission to the expert and to the question at issue;
+
+      - ○ course of the criminal trial;
+
+      - ○ position of the expert in the court procedure.
+
+   - • substantive criminal law:
+
+      - ○ sanctions and grounds for exemption from criminal liability (very basic).
+
+   - • knowledge of the legal context of safeguarding the quality of the expert and the analysis/investigation:
+
+      - ○ position and role of the co-operating organisations in the criminal justice system in safeguarding the quality of the reports;
+
+      - ○ professional codes and relevant regulations in relation to the NRGD Code of Conduct.
+
+- – In addition to the above requirements, an applicant for the field of expertise Forensic Weapon and Ammunition Examination:
+
+   - • should be familiar with specific Dutch weapons and ammunition legislation and keep abreast of new legislation.
+
+### § 3. Article 12(2) sub-paragraph c
+
+*(...) is able to inform the commissioning party whether, and if so, to what extent the commissioning party’s question at issue is sufficiently clear and capable of investigation in order to be able to answer it on the basis of their specific expertise.*
+
+### § 4. Article 12(2) sub-paragraph d
+
+*(...) is able, on the basis of the question at issue, to prepare and carry out an investigation plan in accordance with the applicable standards.*
+
+### § 5. Article 12(2) sub-paragraph e
+
+*(...) is able to collect, document, interpret and assess investigative materials and data in a forensic context in accordance with the applicable standards.*
+
+### § 6. Article 12(2) sub-paragraph f
+
+*(...) is able to apply the current investigative methods in a forensic context in accordance with the applicable standards.*
 
 An applicant should:
 
-### § 7. [Article 12(2) sub-paragraph g](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+- – have insight into, knowledge of and/or experience with:
 
-**(...) is able to give a verifiable and well-reasoned case report on the assignment and any other relevant aspects of their expertise in terms which are comprehensible to the commissioning party, both orally and in writing.**
+   - • Prosecutor and Defence Fallacies;
+
+   - • Pitfalls in comparative bullet and cartridge case examinations (false positive fallacy);
+
+   - • Bayesian method;
+
+   - • Consecutive Matching Striae (CMS) method;
+
+   - • (Confirmation) Bias;
+
+   - • Measurement uncertainty;
+
+   - • General principles of the manufacturing of portable firearms and cartridges;
+
+   - • General principles of quality assurance;
+
+   - • Ballistics.
+
+### § 7. Article 12(2) sub-paragraph g
+
+*(...) is able to give a verifiable and well-reasoned case report on the assignment and any other relevant aspects of their expertise in terms which are comprehensible to the commissioning party, both orally and in writing.*
 
 An applicant should:
 
-### § 8. [Article 12(2) sub-paragraph h](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+- – be able, on the basis of the results, to report to a non-qualified person about an interpretation and conclusion (both orally and in writing) and should be able to support these with statistics where relevant.
 
-**(...) is able to complete an assignment within the stipulated or agreed period.**
+### § 8. Article 12(2) sub-paragraph h
 
-### § 9. [Article 12(2) sub-paragraph i](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12)
+*(...) is able to complete an assignment within the stipulated or agreed period.*
 
-**(...) is able to carry out the activities as an expert independently, impartially, conscientiously, competently, and in a trustworthy manner.**
+### § 9. Article 12(2) sub-paragraph i
+
+*(...) is able to carry out the activities as an expert independently, impartially, conscientiously, competently, and in a trustworthy manner.*
 
 An applicant should
+
+- – comply with the NRGD Code of Conduct determined by the Board of Court Experts and published on the website of the NRGD.
 
 ### § 10. Hardship clause
 
@@ -229,141 +379,50 @@ In all fields of expertise the assessment will be based on the written informati
 
 The assessment will in principle be carried out on the basis of the information provided by the applicant:
 
+- – general information as part of the application package
+
+- – documentary evidence of competence.
+
 If it is felt necessary in the context of the assessment an additional case report and/or information, for example information about the way collegial review and/or supervision is organized within the organization, can be requested.
 
 ### § 2. Assessment procedure per type of applicant
 
 ### 2.1. Initial: independent reporter
 
+| Documents to be submitted: | – NRGD application form; – Statement accompanying the application for registration with the NRGD; – Certificate of Good Conduct; – a clearly legible copy of a valid passport or identity card; – a curriculum vitae (CV), preferably in English; – copies of documents relating to the highest level of professional qualification; – Overview Continued Professional Development Forensic Weapon and Ammunition Examination; – List of Case Information Forensic Weapon and Ammunition Examination; – 3 case reports ¹ not older than 5 year selected by the applicant from the List of Case Information. These case reports should provide a clear and broad picture of the applicant’s competencies; – if available; • proof of the forms of professional development referred to in the Overview Continued Professional Development Forensic Weapon and Ammunition Examination. |
+| --- | --- |
+|  |  |
+| Assessment method: | phase a. administrative, by the NRGD Bureau; phase b. substantive, by an Advisory Committee for Assessment (ACA) made up of at least three people on the basis of the available written material, including possible supplementary written information. In principle this ACA consists of a lawyer and two professional assessors; phase c. substantive, by the ACA specified at phase b by means of an oral assessment. This oral assessment will be waived if the applicant’s expertise has already been clearly established in phase b; phase d. decision by the Board: registration, conditional registration or no registration. |
+| Explanation: If the ACA has to assess an application after an earlier rejection, a new ACA will be formed if possible. This ACA will not be allowed to inspect the advice given by the previous ACA. |  |
+
 ¹ Including the observation form and corresponding (digital) image material.
 
 ### 2.2. Initial: reporter without work of his own
+
+| Documents to be submitted: | – NRGD application form; – Statement accompanying the application for registration with the NRGD; – Certificate of Good Conduct; – a clearly legible copy of a valid passport or identity card; – a curriculum vitae (CV), preferably in English; – copies of documents relating to the highest level of professional qualification; – Overview Continued Professional Development Forensic Weapon and Ammunition Examination; – List of Case Information Forensic Weapon and Ammunition Examination; – 3 case reports ¹ not older than 2 years selected by the applicant from the List of Case Information. These case reports should provide a clear and broad picture of the applicant’s competencies; – if available; • proof of the forms of professional development referred to in the Overview Continued Professional Development Forensic Weapon and Ammunition Examination. |
+| --- | --- |
+|  |  |
+| Assessment method: | phase a. administrative, by the NRGD Bureau; phase b. substantive, by an Advisory Committee for Assessment (ACA) made up of at least three people on the basis of the available written material, including possible supplementary written information. In principle this ACA consists of a lawyer and two professional assessors; phase c. substantive, by the ACA specified at phase b by means of an oral assessment. This oral assessment will be waived if the applicant’s expertise has already been clearly established in phase b; phase d. decision by the Board: conditional registration or no registration. |
+| Explanation: If the ACA has to assess an application after an earlier rejection, a new ACA will be formed if possible. This ACA will not be allowed to inspect the advice given by the previous ACA. |  |
 
 ¹ Including the observation form and corresponding (digital) image material.
 
 ### 2.3. Repeat applicant: after unconditional registration
 
+| Documents to be submitted: | – NRGD application form; – Statement accompanying the application for registration with the NRGD; – Certificate of Good Conduct; – a clearly legible copy of a valid passport or identity card; – an updated curriculum vitae (CV), preferably in English; – copies of documents relating to the highest level of professional qualification; – Overview Continued Professional Development Forensic Weapon and Ammunition Examination; – List of Case Information Forensic Weapon and Ammunition Examination; – 2 case reports ¹ not older than 5 years selected by the applicant from the List of Case Information. These case reports should provide a clear and a broad picture of the applicant’s competencies; – if available; • proof of the forms of professional development referred to in the Overview Continued Professional Development Forensic Weapon and Ammunition Examination. |
+| --- | --- |
+|  |  |
+| Assessment method: | phase a. administrative, by the NRGD Bureau; phase b. substantive, by an Advisory Committee for Assessment (ACA) made up of at least two people on the basis of the available written material. This ACA will in principle consist of a lawyer and a professional assessor; phase c. substantive, by the ACA specified at phase b to which one professional assessor is added, drawn from the same field of expertise as the applicant, on the basis of the available written material. This will not be necessary if the ACA unanimously gives a positive recommendation to the Board in phase b; phase d. substantive, by the ACA specified at phase c by means of an oral assessment. This oral assessment will be waived if the applicant’s expertise has been clearly established in phase c; phase e. decision by the Board: registration, conditional registration or no registration. |
+| Explanation: A new ACA will be formed if possible. This ACA will not be allowed to inspect the advice given by the previous ACA. |  |
+
 ¹ Including the observation form and corresponding (digital) image material.
 
 ### 2.4. Repeat applicant: after conditional registration
 
-¹ Including the observation form and corresponding (digital) image material.
-
-## Annex A. Relevant questions per examination discipline
-
-### Comparative bullet and cartridge case examination
-
-**This list is not exhaustive. Other questions are also possible.**
-
-### Identification of ammunition
-
-This list is not exhaustive. Other questions are also possible.
-
-### Weapon-technical examination
-
-The first three questions have to be considered in relation to the possible accidental discharge of a shot or the possible misfire.
-
-**This list is not exhaustive. Other questions are also possible.**
-
-### Forensic ballistics examinations
-
-**This list is not exhaustive. Other questions are also possible.**
-
-## Annex B. Suggested literature
-
-Only available in Dutch:
-
-J.A.J.M. Waaijer & Zanten, M. van (2011). Meertalig verklarend woordenboek wapens en munitie. Den Haag: Sdu Uitgevers.
-
-A candidate should be aware of recent developments within the relevant field of expertise. The list of literature contained below is an non exhaustive list of minimum proposed literature.
-
-**Suggested literature:**
-
-**Comparative examination, technical weapon research and ballistics**
-
-- –. Biasotti, A.A. (1959). A Statistical Study of the Individual Characteristics of Fired Bullets, **Journal of Forensic Sciences,**4 (1), 34-50.
-
-- –. Biasotti, A.A. & Murdock, J. (1984). Criteria for Identification or State of the Art of Firearm and Toolmark Identification, **AFTE Journal**, 16 (4),16-24.
-
-- –. Bonfanti, M. & De Kinder, J. (1999). The influence of manufacturing processes on the identification of bullets and cartridge cases – a review of the literature, **Science & Justice**, 39 (1), 3-10.
-
-- –. Burrard, G. (1990). **The Identification of Firearms and Forensic Ballistics.** Prescott, Arizona, USA: Wolfe Publishing Company.
-
-- –. Faigman, D.L., Kaye D.H., Saks M.J. and Sanders J. (2010). Modern Scientific Evidence: The Law and Science of Expert Testimony. Firearms and Toolmarks Identification. USA: West Publishing.
-
-- –. Gunther, J.D. and Gunther, C.O. (1935). **The Identification of Firearms.** New York: John Wiley & Sons.
-
-- –. Hatcher, J.S. (1935). Textbook of Firearms Investigation, Identification and Evidence. Plantersville, USA: Small-Arms Technical Publishing Co.
-
-- –. Heard, B.J. (1997). Handbook of Firearms and Ballistics – Examining and Interpreting Forensic Evidence. West Sussex: John Wiley & Sons.
-
-- –. Miller, J. & McLean, M. (1998). Criteria For Identification of Toolmarks, **AFTE Journal**, 30 (1), 15-61.
-
-- –. Miller, J. (2000). Criteria for Identification of Toolmarks, Part II, Single Land Impression comparisons, **AFTE Journal**, 32 (2), 116-131.
-
-- –. Nichols, R.G. (1997). Firearm and Toolmark Identification Criteria: a review of the Literature, **Journal of Forensic Sciences**, 42 (3), 466-474.
-
-- –. Nichols, R.G. (2003). Firearm and Toolmark Identification Criteria: a review of the Literature, **Journal of Forensic Sciences,** 48 (2), 318-327.
-
-- –. Moran, B. (2002). A Report on the AFTE Theory of Identification of Toolmarks and Range of Conclusions for Tool Mark Identification and Resulting Approaches to Casework, **AFTE Journal**, 34 (2), 227-235.
-
-- –. Nichols, R.G. (2003). Consecutive Matching Striations (CMS): Its definition, Study and Application in the Discipline of Firearms and Tool Mark Identification, **AFTE Journal**, 35 (3), 298 -306.
-
-- –. Sellier, K. (1982). Schusswaffen und Schusswirkungen: Ballistik, Medizin, Kriminalistik. **Lübeck: Schmidt-Römhild.**
-
-**Forensic statistics (including Bayes)**
-
-- –. Robertson, B. & Vignaux, G.A. (1995). Interpreting evidence - evaluating forensic science in the courtroom. Chichester, John Wiley & Sons.
-
-- –. Lucy, D. (2005). Introduction to Statistics for Forensic Scientists. Chichester: John Wiley & Sons.
-
-- –. Broeders, A.P.A. (2003). Op zoek naar de bron – over de grondslagen van de criminalistiek en de waardering van het forensisch bewijs. Deventer: Kluwer.
-
-- –. Sjerps, M.J.& Coster van Voorhout, J.A. (2005). Het onzekere bewijs. Gebruik van statistiek en kansrekening in het strafrecht, Deventer: Kluwer.
-
-- –. Berger, C.E.H. (2010). Criminalistiek is terugredeneren. **Nederlands Juristenblad**, 646 (13), 784-789.
-
-**Bias / influence:**
-
-- –. Risinger, D.M., Saks, M.J., Thompson, W.C. & Rosenthal, R. (2002). The Daubert/Kumho implications of observer effects in forensic science: hidden problems of expectation and suggestion. **California Law Review**, 90 (1), 1-56.
-
-- –. Saks, M.J., Risinger, D.M., Rosenthal, R., & Thompson, W.C. (2003), Context effects in forensic science. **Science & Justice**, 43(2), 77-90.
-
-- –. Dror, I. E., Charlton, D., & Peron A. (2006). Contextual information renders experts vulnerable to making erroneous identifications. **Forensic Science International**, 156 (1), 74-78.
-
-- –. Interpol-Review 2010-2013: ‘Examination of Firearms’ (17th Interpol International Forensic Science Managers Symposium (Lyon, 8- 10 October 2013).
-
-- –. HOME/2010/ISEC/MO/4000001759: Strengthening the Evaluation of Forensic Results across Europe (STEOFRAE), 8 March 2015.
-
-## Annex C. NRGD glossary
-
-| Advisory Committee for Assessment | A committee appointed by the Board which advises the Board on the (repeat) applicant’s (degree of) suitability for (repeat) registration. |
+| Documents to be submitted: | – NRGD application form; – Statement accompanying the application for registration with the NRGD; – an up-to-date curriculum vitae (CV), preferably in English; – copies of documents relating to the highest level of professional qualification; – Overview Continued Professional Development Forensic Weapon and Ammunition Examination; – List of Case Information Forensic Weapon and Ammunition Examination; – 2 case reports ¹ not older than 2 years selected by the applicant from the List of Case Information. These case reports should provide a clear and broad picture of the applicant’s competencies; – if available: • proof of the forms of professional development referred to in the Overview Continued Professional Development Forensic Weapon and Ammunition Examination. |
 | --- | --- |
-| Applicant | Natural person submitting an application to the NRGD in order to be (re-) registered in the register. |
-| Assessor | A member of an Advisory Committee for Assessment. |
-| Board | The Board of Court Experts is the body as referred to in Section 51k(2) of the Code of Criminal Procedure and is charged with managing the register. |
-| Brdis | Register of Court Experts in Criminal Cases Decree ([Besluit register deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0026190)). |
-| Bureau | The NRGD Bureau that supports the Board. |
-| Collegial review | The assessment of another person’s work for the purpose of continuous quality control of a person’s expertise. There is thereby not a hierarchical but a horizontal relationship between colleagues specialised in the same subject area. The reviewer does not sign the report. |
-| Conditional registration | The registration of an expert for a period specified by the Board and possibly under certain conditions which must be met within that period. In principle the period to be specified by the Board is two years. |
-| Continuous professional development | All (training) activities that contribute to the ongoing development of knowledge and skills, which is desirable and necessary in order to be able to continue performing the role of court expert in a professional manner. |
-| Independent reporter | A reporter who has independently prepared and signed the required number of case reports |
-| Initial applicant | An applicant who makes an application to be entered in the register and does not or not yet have an NRGD registration at the time when the application is made. |
-| Intervision | Intervision is a structured (interdisciplinary) meeting between people who are working or training in the same professional area. The subject of discussion is in any case the forensic work carried out and the associated problems. The aim is to enhance the expertise of those involved and improve quality of work. Unlike supervision, there is no hierarchical relationship between the participants. |
-| NRGD | The Netherlands Register of Court Experts of which the Board and the Bureau form part. |
-| Register | The national public register as referred to in Section 51 k(1) of the Code of Criminal Procedure, which lists the court experts which the Board deems suitable. |
-| Registered expert | An expert who is entered in the register. |
-| Registration | Entry in the register. |
-| Repeat applicant | An expert who at the time of submitting a repeat application already has a NRGD registration, possibly for a conditional registration. |
-| Reporter | An individual who issues a report for the administration of justice and/or gives testimony in court. |
-| Reporter training | A coherent and structured arrangement of organised training activities in which the necessary knowledge and experience are acquired to report as a court expert in criminal law proceedings and that is completed by an exam. |
-| Reporter with no own work | A reporter who has not independently completed and signed the number of case reports required for registration. |
-| Supervision | The assessment of another person’s work, the joint consideration of the work and the supervision of a supervisee as part of a training or additional training process. Supervisor and supervisee are thereby in a hierarchical relationship. The supervisor will observe the subject of the investigation (the investigated person) in such a way that they can check the supervisee’s investigation, and can endorse and take responsibility for the conclusions thereof. The supervisor will sign the report in all cases. |
-| User | Someone who uses the register in order to find and potentially engage a registered expert. |
+|  |  |
+| Assessment method | phase a. administrative, by the NRGD Bureau; phase b. substantive, by an Advisory Committee for Assessment (ACA) made up of at least three people on the basis of the available written material. In principle this ACA consists of a lawyer and two professional assessors; phase c. substantive, by the ACA specified at phase b by means of an oral assessment. This oral assessment will be waived if the applicant’s expertise has already been clearly established; phase d. decision by the Board: registration, conditional registration or no registration. |
+| Explanation: A new ACA will be formed if possible. This ACA will be allowed to inspect the advice given by the previous ACA. |  |
 
-## Annex D. Revision history
-
-| Version | Date | Revisions made |
-| --- | --- | --- |
-| 2.0 | 12.12.2016 | Generic adjustments: – addition: generic introduction for all fields of expertise in [Part I](https://wetten.overheid.nl/jci1.3:c:BWBR0039081&deel=I&z=2016-12-12&g=2016-12-12) – adjusted description of types of applicants: independent/work of his own – differentiation per types of applicants to provide an immediate overview of respective requirements ([Part III](https://wetten.overheid.nl/jci1.3:c:BWBR0039081&deel=III&z=2016-12-12&g=2016-12-12)) and assessment procedure ([Part IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039081&deel=IV&z=2016-12-12&g=2016-12-12)) – number of hours CPD – Continued Professional Development (CPD) mandatory for all types of applicants – integration of several NRGD policy frameworks in Standards |
-| 1.0 | 1.5.2011 | First edition |
+¹ Including the observation form and corresponding (digital) image material.

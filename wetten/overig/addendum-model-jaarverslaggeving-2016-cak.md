@@ -1,38 +1,16 @@
 ---
 title: "Addendum Model Jaarverslaggeving 2016 CAK"
 identifier: "BWBR0039504"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-04-26"
-last_updated: "2017-04-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039504"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13989763"
-version_id: "24070902"
-internal_id: "C34588741"
-label_id: "13952184"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039504/2017-04-26/0"
-intitule_bron: "Stcrt.2017-23051"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-04-11"
-intitule_published: "2017-04-26"
-intitule_in_force: "2017-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-23051"
-original_signed_date: "2017-04-11"
-original_published_date: "2017-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-23051"
-entry_into_force_date: "2017-04-26"
-jci_1_3: "jci1.3:c:BWBR0039504&z=2017-04-26&g=2017-04-26"
-jci_1_0: "1.0:c:BWBR0039504&g=2017-04-26"
-citeertitel_status: "redactioneel"
-signed_date: "2017-04-11"
-entry_into_force: "2017-04-26"
+publicatiedatum: 2017-04-26
+laatste_update: 2017-04-26
+status: geldig
+toestand: 2017-04-26
+bron: "https://wetten.overheid.nl/BWBR0039504"
+opgehaald: 2026-08-25
 ---
+
 # Addendum Model Jaarverslaggeving 2016 CAK
 
 ### 1. Addendum Model Jaarverslaggeving

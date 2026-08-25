@@ -1,59 +1,30 @@
 ---
 title: "Wet van 22 maart 2017 tot wijziging van de Gemeentewet, de Provinciewet en de Waterschapswet in verband met het beperken van de heffingsbevoegdheid van precariobelasting voor enige openbare werken van algemeen nut"
+citeertitel: "Wijzigingswet Gemeentewet, enz. (beperken heffingsbevoegdheid precariobelasting voor enige openbare werken van algemeen nut)"
 identifier: "BWBR0039455"
-country: "nl"
-rank: "wet"
-publication_date: "2017-07-01"
-last_updated: "2017-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039455"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "13979093"
-version_id: "24051842"
-internal_id: "C34638141"
-label_id: "13942024"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039455/2017-07-01/0"
-intitule_bron: "Stb.2017-157"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-22"
-intitule_published: "2017-04-12"
-intitule_in_force: "2017-05-22"
-intitule_status: "goed"
-original_publication: "Stb.2017-157"
-original_signed_date: "2017-03-22"
-original_published_date: "2017-04-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "34508"
-original_url_id: "stb-2017-157"
-entry_into_force_date: "2017-07-01"
-jci_1_3: "jci1.3:c:BWBR0039455&z=2017-07-01&g=2017-07-01"
-jci_1_0: "1.0:c:BWBR0039455&g=2017-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Gemeentewet, enz. (beperken heffingsbevoegdheid precariobelasting voor enige openbare werken van algemeen nut)"
-signed_date: "2017-03-22"
-entry_into_force: "2017-07-01"
+publicatiedatum: 2017-07-01
+laatste_update: 2017-07-01
+status: geldig
+toestand: 2017-07-01
+bron: "https://wetten.overheid.nl/BWBR0039455"
+opgehaald: 2026-08-25
 ---
+
 # Wet van 22 maart 2017 tot wijziging van de Gemeentewet, de Provinciewet en de Waterschapswet in verband met het beperken van de heffingsbevoegdheid van precariobelasting voor enige openbare werken van algemeen nut
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de heffingsbevoegdheid van precariobelasting op enige openbare werken van algemeen nut te beperken en daartoe de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) en de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) te wijzigen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel II
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel III
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel IV
 
@@ -94,5 +65,3 @@ Wijzigt de Waterschapswet.
 ##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

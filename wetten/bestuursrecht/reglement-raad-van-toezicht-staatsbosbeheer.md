@@ -1,62 +1,24 @@
 ---
 title: "Reglement raad van toezicht Staatsbosbeheer als bedoeld in artikel 8, eerste lid, van de Wet verzelfstandiging Staatsbosbeheer"
+citeertitel: "Reglement raad van toezicht Staatsbosbeheer"
 identifier: "BWBR0039530"
-country: "nl"
-rank: "zbo"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039530"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13996483"
-version_id: "24084342"
-internal_id: "C34609381"
-label_id: "13958694"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039530/2016-01-01/0"
-intitule_bron: "Stcrt.2015-48322"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-11-10"
-intitule_published: "2015-12-30"
-intitule_in_force: "2015-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-48322"
-original_signed_date: "2015-11-10"
-original_published_date: "2015-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-48322"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0039530&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0039530&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Reglement raad van toezicht Staatsbosbeheer"
-signed_date: "2015-11-10"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0039530"
+opgehaald: 2026-08-25
 ---
+
 # Reglement raad van toezicht Staatsbosbeheer als bedoeld in artikel 8, eerste lid, van de Wet verzelfstandiging Staatsbosbeheer
-
-overwegende dat Staatsbosbeheer ingevolge [artikel 4 van de Wet verzelfstandiging Staatsbosbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&artikel=4) een raad van toezicht heeft welke toeziet op de werkzaamheden van de directeur en deze met raad en daad terzijde staat;
-
-overwegende dat de raad van toezicht zich ingevolge genoemd artikel bij de vervulling van zijn taak richt naar het belang van de behoorlijke vervulling van de taken, bedoeld in [artikel 3 van de Wet verzelfstandiging Staatsbosbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&artikel=3);
-
-overwegende dat ingevolge [artikel 8 van de Wet verzelfstandiging Staatsbosbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&artikel=8) de raad van toezicht een reglement dient vast te stellen betreffende
-
-zijn werkwijze;
-
-de werkwijze van de raad van advies;
-
-de taakverdeling tussen de raad van toezicht en de directeur; in welk reglement tevens dient te worden bepaald welke besluiten van de directeur goedkeuring van de raad van toezicht behoeven en in welke gevallen de directeur in ieder geval advies vraagt aan de raad van advies;
-
-overwegende de afspraken tussen Staatsbosbeheer en het ministerie van Economische Zaken, zoals vastgelegd in het ‘Convenant Staatsbosbeheer, een maatschappelijke onderneming’ van 4 december 2014 en in het addendum bij het Convenant van 30 juni 2015;
-
-Besluit onderstaand reglement vast te stellen:
 
 ### 1. Definities
 
 ##### Artikel 1.1. definities
 
-De in dit reglement gehanteerde termen en begrippen hebben dezelfde betekenis als in de [Wet verzelfstandiging Staatsbosbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0008904) van 11 september 1997, Staatsblad 1997, 514, hierna te noemen: de Wet (zie bijlage).
+De in dit reglement gehanteerde termen en begrippen hebben dezelfde betekenis als in de [Wet verzelfstandiging Staatsbosbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0008904) van 11 september 1997, Staatsblad 1997, 514, hierna te noemen: de Wet (zie [bijlage](https://wetten.overheid.nl/BWBR0039530)).
 
 ### 2. Taakverdeling tussen de raad van toezicht en de directeur
 
@@ -308,33 +270,33 @@ Conform [artikel 21 lid 1 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. een opgave ter zake van elk lid van de raad van toezicht van;
 
-- 1. leeftijd;
+   - 1. leeftijd;
 
-- 2. nationaliteit;
+   - 2. nationaliteit;
 
-- 3. hoofdfunctie en nevenfuncties voor zover deze relevant zijn voor de vervulling van de taak als lid van de raad van toezicht;
+   - 3. hoofdfunctie en nevenfuncties voor zover deze relevant zijn voor de vervulling van de taak als lid van de raad van toezicht;
 
-- 4. datum eerste benoeming;
+   - 4. datum eerste benoeming;
 
-- 5. de lopende termijn waarvoor hij is benoemd;
+   - 5. de lopende termijn waarvoor hij is benoemd;
 
-- 6. de hoogte van de vergoedingen van de leden van de raad van toezicht;
+   - 6. de hoogte van de vergoedingen van de leden van de raad van toezicht;
 
 - c. een opgave ter zake van de directeur van:
 
-- 1. geslacht;
+   - 1. geslacht;
 
-- 2. leeftijd;
+   - 2. leeftijd;
 
-- 3. nevenfuncties;
+   - 3. nevenfuncties;
 
-- 4. datum benoeming;
+   - 4. datum benoeming;
 
-- 5. salariëring en vergoedingen conform de wettelijk eisen.
+   - 5. salariëring en vergoedingen conform de wettelijk eisen.
 
 ### 9. Slotbepalingen
 
-##### 9.1. Slotbepalingen
+##### Artikel 9.1. Slotbepalingen
 
 1. In geval van onduidelijkheid over de uitleg van enige bepaling uit dit reglement is het oordeel van de voorzitter van de raad van toezicht daaromtrent beslissend.
 
@@ -347,7 +309,3 @@ Conform [artikel 21 lid 1 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 5. Dit reglement wordt bekendgemaakt in de Staatscourant en gepubliceerd op de website van Staatsbosbeheer.
 
 6. Het ‘[Reglement voor de Raad van Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0039449)’ en het ‘[Reglement taakverdeling tussen Raad van Toezicht en directie Staatsbosbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0039453)’, zoals gepubliceerd in de Staatscourant 1998 nr. 103 komen met ingang van 1 januari 2016 te vervallen.
-
-## Bijlage
-
-[Wet verzelfstandiging Staatsbosbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0008904)

@@ -1,50 +1,18 @@
 ---
 title: "Beleidsregel van De Nederlandsche Bank N.V. van 10 juli 2017 houdende regels met betrekking tot het samenstellen door banken van individuele klantbeelden ten behoeve van het depositogarantiestelsel en het afwikkelinstrumentarium (Beleidsregel Individueel Klantbeeld)"
+citeertitel: "Beleidsregel Individueel Klantbeeld Wft 2017"
 identifier: "BWBR0039826"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039826"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "14079063"
-version_id: "24244222"
-internal_id: "C34823671"
-label_id: "14040264"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039826/2025-04-01/0"
-intitule_bron: "Stcrt.2017-41434"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-07-10"
-intitule_published: "2017-07-21"
-intitule_in_force: "2017-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-41434"
-original_signed_date: "2017-07-10"
-original_published_date: "2017-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-41434"
-entry_into_force_date: "2017-07-22"
-jci_1_3: "jci1.3:c:BWBR0039826&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0039826&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel Individueel Klantbeeld Wft 2017"
-signed_date: "2017-07-10"
-entry_into_force: "2017-07-22"
+publicatiedatum: 2017-07-22
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0039826"
+opgehaald: 2026-08-25
 ---
+
 # Beleidsregel van De Nederlandsche Bank N.V. van 10 juli 2017 houdende regels met betrekking tot het samenstellen door banken van individuele klantbeelden ten behoeve van het depositogarantiestelsel en het afwikkelinstrumentarium (Beleidsregel Individueel Klantbeeld)
-
-Gelet op [artikel 3:17, tweede lid, aanhef en onderdeel d van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) en [artikel 26a van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26a);
-
-Gelet op [artikel 3:261 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261) en [artikel 29.05, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.05), [artikel 29.06, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), [artikel 29.07, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.07) en [artikel 29.16, eerste lid van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.16);
-
-Gelet op [artikel 212ra van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212ra);
-
-Na consultatie van de betrokken representatieve organisaties en het bredere publiek;
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,45 +22,48 @@ De begrippen in deze beleidsregel hebben dezelfde betekenis als in de [Wet op he
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **DNB:** De Nederlandsche Bank N.V.;
+- a. *DNB:* De Nederlandsche Bank N.V.;
 
-- b. **Wft:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
+- b. *Wft:*
+ [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
-- c. **Bpr:** [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420);
+- c. *Bpr:*
+ [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420);
 
-- d. **Bbpm:** [Besluit Bijzondere prudentiële maatregelen beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414);
+- d. *Bbpm:*
+ [Besluit Bijzondere prudentiële maatregelen beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414);
 
-- e. **Depositogarantiestelsel:** als bedoeld in [artikel 3:259, tweede lid van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259);
+- e. *Depositogarantiestelsel:* als bedoeld in [artikel 3:259, tweede lid van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259);
 
-- f. **Bank:** een onderneming waarvan de aangehouden deposito’s worden gegarandeerd door het depositogarantiestelsel, als bedoeld in [artikel 29.01 van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01);
+- f. *Bank:* een onderneming waarvan de aangehouden deposito’s worden gegarandeerd door het depositogarantiestelsel, als bedoeld in [artikel 29.01 van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01);
 
-- g. **In aanmerking komend deposito:** een deposito dat valt onder de werking van het depositogarantiestelsel;
+- g. *In aanmerking komend deposito:* een deposito dat valt onder de werking van het depositogarantiestelsel;
 
-- h. **In aanmerking komende depositohouder:** een depositohouder die niet op grond van [artikel 29.01, tweede lid, sub a van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01) is uitgesloten;
+- h. *In aanmerking komende depositohouder:* een depositohouder die niet op grond van [artikel 29.01, tweede lid, sub a van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01) is uitgesloten;
 
-- i. **Gegarandeerd deposito:** als bedoeld in [artikel 7k, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=7k)
+- i. *Gegarandeerd deposito:* als bedoeld in [artikel 7k, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=7k)
 
-- j. **Depositohouder:** de houder, of in het geval van een gezamenlijke rekening als bedoeld in [artikel 29.02, tweede lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), elk van de houders van een deposito, waaronder ook een derde als bedoeld in [artikel 29.02, derde lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02) wordt begrepen;
+- j. *Depositohouder:* de houder, of in het geval van een gezamenlijke rekening als bedoeld in [artikel 29.02, tweede lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), elk van de houders van een deposito, waaronder ook een derde als bedoeld in [artikel 29.02, derde lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02) wordt begrepen;
 
-- k. **Vertegenwoordiger:** een persoon die bevoegd is om namens de depositohouder de handeling te verrichten bedoeld in [artikel 29.07, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.07);
+- k. *Vertegenwoordiger:* een persoon die bevoegd is om namens de depositohouder de handeling te verrichten bedoeld in [artikel 29.07, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.07);
 
-- l. **Individueel klantbeeld:** een overzicht van alle deposito’s van een depositohouder bij een bank waarin alle gegevens conform het datamodel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2025-04-01&g=2025-04-01) zijn opgenomen;
+- l. *Individueel klantbeeld:* een overzicht van alle deposito’s van een depositohouder bij een bank waarin alle gegevens conform het datamodel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2025-04-01&g=2025-04-01) zijn opgenomen;
 
-- m. **IKB:** individueel klantbeeld;
+- m. *IKB:* individueel klantbeeld;
 
-- n. **IKB-bestand:** een gegevensverzameling die voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2025-04-01&g=2025-04-01) beschreven opbouw, teneinde een overzicht te bieden van alle individuele klantbeelden van een bank;
+- n. *IKB-bestand:* een gegevensverzameling die voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2025-04-01&g=2025-04-01) beschreven opbouw, teneinde een overzicht te bieden van alle individuele klantbeelden van een bank;
 
-- o. **IKB-systeem:** het geheel van procedures en maatregelen waarmee een bank het IKB-bestand kan samenstellen, in aanmerking komende en gegarandeerde bedragen kan berekenen en eventuele handelingen kan verrichten ten behoeve van de afwikkelingstaak, op een door DNB bepaalde wijze en binnen een door DNB gestelde termijn;
+- o. *IKB-systeem:* het geheel van procedures en maatregelen waarmee een bank het IKB-bestand kan samenstellen, in aanmerking komende en gegarandeerde bedragen kan berekenen en eventuele handelingen kan verrichten ten behoeve van de afwikkelingstaak, op een door DNB bepaalde wijze en binnen een door DNB gestelde termijn;
 
-- p. **Kleine, middelgrote en micro-ondernemingen:** als bedoeld in [artikel 212g, eerste lid, onderdeel n, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212g);
+- p. *Kleine, middelgrote en micro-ondernemingen:* als bedoeld in [artikel 212g, eerste lid, onderdeel n, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212g);
 
-- q. **ISAE 3402:** international standard on assurance engagements 3402, assurance reports on controls at a service organization;
+- q. *ISAE 3402:* international standard on assurance engagements 3402, assurance reports on controls at a service organization;
 
-- r. **verstoring:** een gebeurtenis die naar de verwachting van de bank de werking van het IKB-systeem conform deze beleidsregel twee weken of langer verhindert of kan verhinderen, waaronder begrepen de mogelijkheid om het IKB-bestand tijdig aan te leveren.
+- r. *verstoring:* een gebeurtenis die naar de verwachting van de bank de werking van het IKB-systeem conform deze beleidsregel twee weken of langer verhindert of kan verhinderen, waaronder begrepen de mogelijkheid om het IKB-bestand tijdig aan te leveren.
 
 ### Hoofdstuk 2. Inrichting individueel klantbeeld
 
-### Afdeling 2.1. Aanlevering en samenstelling IKB-bestand
+#### Afdeling 2.1. Aanlevering en samenstelling IKB-bestand
 
 ##### Artikel 2
 
@@ -110,25 +81,25 @@ In deze beleidsregel wordt verstaan onder:
 
 - e. Bij natuurlijke personen:
 
-- 1. De voorletters en voornamen zoals geregistreerd in het identiteitsbewijs, de achternaam zoals geregistreerd in het identiteitsbewijs en de geboortedatum;
+   - 1. De voorletters en voornamen zoals geregistreerd in het identiteitsbewijs, de achternaam zoals geregistreerd in het identiteitsbewijs en de geboortedatum;
 
-- 2. De adresgegevens inclusief het land;
+   - 2. De adresgegevens inclusief het land;
 
-- 3. Het nationale identificatienummer of het fiscale identificatienummer en land van uitgifte, indien natuurlijke personen hierover beschikken en het is toegestaan dit nummer te gebruiken in het kader van het voeren van een administratie ten behoeve van de uitvoering van het Nederlandse depositogarantiestelsel;
+   - 3. Het nationale identificatienummer of het fiscale identificatienummer en land van uitgifte, indien natuurlijke personen hierover beschikken en het is toegestaan dit nummer te gebruiken in het kader van het voeren van een administratie ten behoeve van de uitvoering van het Nederlandse depositogarantiestelsel;
 
-- 4. De levensstatus;
+   - 4. De levensstatus;
 
 - f. Bij niet-natuurlijke personen:
 
-- 1. De geregistreerde naam;
+   - 1. De geregistreerde naam;
 
-- 2. De geregistreerde plaats inclusief het land;
+   - 2. De geregistreerde plaats inclusief het land;
 
-- 3. De adresgegevens inclusief het land;
+   - 3. De adresgegevens inclusief het land;
 
-- 4. Indien geregistreerd in Nederland het KvK-nummer of het RSIN;
+   - 4. Indien geregistreerd in Nederland het KvK-nummer of het RSIN;
 
-- 5. Indien geregistreerd in het buitenland het fiscale identificatienummer of het KvK-nummer en land van uitgifte.
+   - 5. Indien geregistreerd in het buitenland het fiscale identificatienummer of het KvK-nummer en land van uitgifte.
 
 3. Het IKB-bestand bevat voor alle vertegenwoordigers ten minste de volgende gegevens:
 
@@ -194,7 +165,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - 6. Een bank waarborgt dat alle slapende rekeningen als bedoeld in [artikel 6, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2025-04-01&g=2025-04-01) per depositohouder in het IKB-bestand zijn opgenomen.
 
-### Afdeling 2.2. Berekening in aanmerking komende en gegarandeerde bedragen
+#### Afdeling 2.2. Berekening in aanmerking komende en gegarandeerde bedragen
 
 ##### Artikel 4
 
@@ -218,13 +189,13 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - e. Bij de inschatting van het bedrag aan deposito’s gemarkeerd als bedoeld in het derde lid, onderdeel a, kiest een bank uit een van de vier volgende berekeningswijzen:
 
-- i). Het volledige bedrag aan deposito’s gemarkeerd als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01);
+   - i) Het volledige bedrag aan deposito’s gemarkeerd als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01);
 
-- ii). Het aantal derden als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01), vermenigvuldigd met het maximale gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02);
+   - ii) Het aantal derden als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01), vermenigvuldigd met het maximale gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02);
 
-- iii). De som van het gegarandeerde bedrag van iedere derde afzonderlijk van het deposito als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01), rekening houdend met het maximaal gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), waarbij niet wordt vereist dat rekening wordt gehouden met andere rekeningen die de derden bij de bank aanhouden.
+   - iii) De som van het gegarandeerde bedrag van iedere derde afzonderlijk van het deposito als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01), rekening houdend met het maximaal gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), waarbij niet wordt vereist dat rekening wordt gehouden met andere rekeningen die de derden bij de bank aanhouden.
 
-- iv). Het verwerken van het in aanmerking komende bedrag van iedere derde afzonderlijk van het deposito als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01), in de gegarandeerde deposito’s, rekening houdend met het maximaal gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02).
+   - iv) Het verwerken van het in aanmerking komende bedrag van iedere derde afzonderlijk van het deposito als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01), in de gegarandeerde deposito’s, rekening houdend met het maximaal gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02).
 
 - f. Een bank is in staat per derdenrekening aan te tonen welke methode zoals bedoeld in onderdeel e is gehanteerd bij de berekening van het bedrag zoals bedoeld in het eerste lid.
 
@@ -240,7 +211,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 5. Een bank kan bij de berekening van de in aanmerking komende en gegarandeerde bedragen, als bedoeld in het eerste lid, gebruik maken van wisselkoersen gepubliceerd door koersinformatieleveranciers.
 
-### Afdeling 2.3. Identificatie deposito’s en depositohouders
+#### Afdeling 2.3. Identificatie deposito’s en depositohouders
 
 ##### Artikel 5
 
@@ -306,9 +277,9 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - b. Deposito’s te kunnen bevriezen:
 
-- 1. Die worden aangehouden door niet in aanmerking komende depositohouders of van wie de depositohouder is overleden blijkend uit [artikel 2, tweede lid, onderdeel e, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2025-04-01&g=2025-04-01), of een markering heeft als bedoeld in [artikel 6, tweede lid of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2025-04-01&g=2025-04-01);
+   - 1. Die worden aangehouden door niet in aanmerking komende depositohouders of van wie de depositohouder is overleden blijkend uit [artikel 2, tweede lid, onderdeel e, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2025-04-01&g=2025-04-01), of een markering heeft als bedoeld in [artikel 6, tweede lid of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2025-04-01&g=2025-04-01);
 
-- 2. Die een markering hebben als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01) of [artikel 6, eerste lid, onderdeel b tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2025-04-01&g=2025-04-01) of vierde lid.
+   - 2. Die een markering hebben als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2025-04-01&g=2025-04-01) of [artikel 6, eerste lid, onderdeel b tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2025-04-01&g=2025-04-01) of vierde lid.
 
 2. Een bank rondt de handelingen als bedoeld in het eerste lid af voor middernacht aan het eind van de werkdag volgend op de bekendmaking dat een afwikkelingsmaatregel is genomen.
 
@@ -334,7 +305,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 ### Hoofdstuk 5. Waarborging gegevenskwaliteit
 
-### Afdeling 5.1. Beheersmaatregelen van een bank
+#### Afdeling 5.1. Beheersmaatregelen van een bank
 
 ##### Artikel 10
 
@@ -366,7 +337,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 3. Een bank vergezelt het rapport als bedoeld in het tweede lid, van een document waarin een beschrijving wordt gegeven van voorzienbare materiële toekomstige wijzigingen aan het IKB-systeem.
 
-### Afdeling 5.2. Toezicht
+#### Afdeling 5.2. Toezicht
 
 ##### Artikel 12
 
@@ -421,11 +392,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na publicatie daarvan 
 ##### Artikel 17
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Individueel Klantbeeld Wft 2017.
-
-##### Artikel 18
-
-Deze beleidsregel wordt aangehaald als: Beleidsregel Individueel Klantbeeld Wft 2017.
-
-De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

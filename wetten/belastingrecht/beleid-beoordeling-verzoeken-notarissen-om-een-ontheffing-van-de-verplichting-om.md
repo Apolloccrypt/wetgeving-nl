@@ -1,35 +1,16 @@
 ---
 title: "Beleid beoordeling verzoeken notarissen om een ontheffing van de verplichting om een samenstellingsverklaring te verstrekken bij het indienen van kwartaalcijfers over het eerste tot en met het vierde kwartaal 2018"
 identifier: "BWBR0039590"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-05-30"
-last_updated: "2017-05-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039590"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14013563"
-version_id: "24119542"
-internal_id: "C34655571"
-label_id: "13975404"
-dtd_version: "2.0"
-original_entry_into_force: "2017-05-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039590/2017-05-30/0"
-intitule_bron: "Stcrt.2017-29961"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-05-30"
-intitule_in_force: "2017-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-29961"
-original_published_date: "2017-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-29961"
-entry_into_force_date: "2017-05-30"
-jci_1_3: "jci1.3:c:BWBR0039590&z=2017-05-30&g=2017-05-30"
-jci_1_0: "1.0:c:BWBR0039590&g=2017-05-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-05-30"
+publicatiedatum: 2017-05-30
+laatste_update: 2017-05-30
+status: geldig
+toestand: 2017-05-30
+bron: "https://wetten.overheid.nl/BWBR0039590"
+opgehaald: 2026-08-25
 ---
+
 # Beleid beoordeling verzoeken notarissen om een ontheffing van de verplichting om een samenstellingsverklaring te verstrekken bij het indienen van kwartaalcijfers over het eerste tot en met het vierde kwartaal 2018
 
 ### Paragraaf 1. Inleiding
@@ -39,6 +20,22 @@ Notarissen zijn op grond van [artikel 2, lid 5 van de Regeling op het notarisamb
 ### Paragraaf 2. Voorwaarden ontheffing samenstellingsverklaring
 
 Om in aanmerking te komen voor een ontheffing voor de periode van het eerste kwartaal 2018 tot en met het vierde kwartaal 2018, moet worden voldaan aan de volgende voorwaarden:
+
+- 1. Het resultaat voor belasting (plus de managementfee) volgens de jaarcijfers 2016 en 4e kwartaalcijfers 2016 zoals opgenomen in de verslagstaten is aan elkaar gelijk dan wel het verschil bedraagt maximaal € 10.000. Indien er echter sprake is van een verschil van meer dan € 10.000, dan mag dit verschil niet meer bedragen dan 10% van het resultaat voor belasting (plus de managementfee) volgens de jaarcijfers 2016. In dit geval moet voor het verschil bovendien een acceptabele verklaring worden gegeven in de toelichting bij het verzoek om ontheffing.
+
+- 2. Bij de jaarrekening over 2016 is een goedkeurende controleverklaring zonder een verplicht toelichtende paragraaf over de continuïteit afgegeven dan wel bij een kleine notarisorganisatie is een goedkeurende beoordelingsverklaring afgegeven zonder een verplicht toelichtende paragraaf over de continuïteit.
+
+- 3. Over 2016 zijn alle in te dienen financiële kantoorgegevens tijdig (al dan niet met uitsteltermijn) ingediend.
+
+- 4. De financiële positie voldoet ten minste aan de onderstaande minimum criteria:
+
+   - a. De liquiditeit dient volgens de jaarcijfers 2016 ten minste 1,15 te zijn; Onder de liquiditeitsratio wordt de verhouding verstaan tussen enerzijds het onderhanden werk + de overige vlottende activa + de liquide middelen en anderzijds de kortlopende schulden. De ratio wordt berekend exclusief de vordering/schuldverhouding met de eigenaren van het notariskantoor.
+
+   - b. De solvabiliteit dient volgens de jaarcijfers 2016 ten minste 20% te zijn; De solvabiliteitsratio betreft de verhouding tussen enerzijds het eigen vermogen en anderzijds het balanstotaal volgens de verslagstaat.
+
+   - c. Het praktijkinkomen dient volgens de jaarcijfers 2016 ten minste € 60.000 per notaris per jaar te zijn; Het praktijkinkomen blijkt uit de verslagstaat.
+
+   - d. De bewaringspositie dient over het gehele jaar 2016 én 2017 (tot het moment van indiening van het ontheffingsverzoek) nihil dan wel positief te zijn.
 
 ### Paragraaf 3. Uiterste termijn indiening aanvraag
 

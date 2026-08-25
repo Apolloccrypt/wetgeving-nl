@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 15 december 2016, houdende nadere regels betreffende de verwerking van persoonsgegevens in verband met de selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag"
+citeertitel: "Besluit verwerking persoonsgegevens bij selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag"
 identifier: "BWBR0038929"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-07-28"
-last_updated: "2018-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038929"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "13834873"
-version_id: "23751522"
-internal_id: "C34181921"
-label_id: "13800484"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038929/2018-07-28/0"
-intitule_bron: "Stb.2016-532"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-15"
-intitule_published: "2016-12-27"
-intitule_in_force: "2016-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2016-532"
-original_signed_date: "2016-12-15"
-original_published_date: "2016-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2016-532"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038929&z=2018-07-28&g=2018-07-28"
-jci_1_0: "1.0:c:BWBR0038929&g=2018-07-28"
-citeertitel_status: "officieel"
-short_title: "Besluit verwerking persoonsgegevens bij selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag"
-signed_date: "2016-12-15"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2018-07-28
+status: geldig
+toestand: 2018-07-28
+bron: "https://wetten.overheid.nl/BWBR0038929"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van 15 december 2016, houdende nadere regels betreffende de verwerking van persoonsgegevens in verband met de selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag
-
-Op de voordracht van Onze Minister voor Wonen en Rijksdienst van 5 september 2016, nr. 2016-0000563899, Directie Constitutionele Zaken en Wetgeving, in overeenstemming met Onze Minister van Veiligheid en Justitie;
-
-Gelet op [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5) en [artikel 10b, achtste en negende lid, van de Wet bijzondere maatregelen grootstedelijke problematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10b), en [artikel 18, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 november 2016, nr. W04.16.0246/l);
-
-Gezien het nader rapport van Onze Minister voor Wonen en Rijksdienst, in overeenstemming met Onze Minister van Veiligheid en Justitie, van 12 december 2016, nr. 2016-0000777688, Directie Constitutionele Zaken en Wetgeving;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Wet bijzondere maatregelen grootstedelijke problematiek, enz. (selectieve woningtoewijzing ter beperking overlastgevend en crimineel gedrag) in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,19 +20,19 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet bijzondere maatreg
 
 In dit besluit wordt verstaan onder:
 
-- –. **bestand:** gestructureerd geheel van persoonsgegevens als bedoeld in artikel 4, onderdeel 6, van de Algemene verordening gegevensbescherming;
+- – *bestand:* gestructureerd geheel van persoonsgegevens als bedoeld in artikel 4, onderdeel 6, van de Algemene verordening gegevensbescherming;
 
-- –. **bereidverklaring:** schriftelijke verklaring van of namens de eigenaar van een woonruimte dat hij bereid is die woonruimte aan de aanvrager van de huisvestingsvergunning in gebruik te geven;
+- – *bereidverklaring:* schriftelijke verklaring van of namens de eigenaar van een woonruimte dat hij bereid is die woonruimte aan de aanvrager van de huisvestingsvergunning in gebruik te geven;
 
-- –. **functionaris voor de gegevensbescherming:** functionaris voor de gegevensbescherming als bedoeld in artikel 37 van de Algemene verordening gegevensbescherming;
+- – *functionaris voor de gegevensbescherming:* functionaris voor de gegevensbescherming als bedoeld in artikel 37 van de Algemene verordening gegevensbescherming;
 
-- –. **persoonsgegevens:** persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van de Algemene verordening gegevensbescherming;
+- – *persoonsgegevens:* persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van de Algemene verordening gegevensbescherming;
 
-- –. **politiechef:** politiechef van de regionale eenheid, bedoeld in [artikel 25, eerste lid, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), die de politietaak uitvoert in het gebied waarbinnen de gemeente gelegen is;
+- – *politiechef:* politiechef van de regionale eenheid, bedoeld in [artikel 25, eerste lid, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), die de politietaak uitvoert in het gebied waarbinnen de gemeente gelegen is;
 
-- –. **woningzoekende:** de persoon of personen die op het tijdstip van de aanvraag van een huisvestingsvergunning de leeftijd van 16 jaar heeft of hebben bereikt en voornemens is of zijn zich te huisvesten in de woonruimte waarvoor een huisvestingsvergunning wordt aangevraagd;
+- – *woningzoekende:* de persoon of personen die op het tijdstip van de aanvraag van een huisvestingsvergunning de leeftijd van 16 jaar heeft of hebben bereikt en voornemens is of zijn zich te huisvesten in de woonruimte waarvoor een huisvestingsvergunning wordt aangevraagd;
 
-- –. **woonverklaring:** verklaring van de burgemeester als bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10b), die wordt afgegeven aan het college van burgemeester en wethouders.
+- – *woonverklaring:* verklaring van de burgemeester als bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10b), die wordt afgegeven aan het college van burgemeester en wethouders.
 
 ##### Artikel 2
 
@@ -162,31 +128,31 @@ Indien de burgemeester in kennis is gesteld van de aanvraag om een huisvestingsv
 
 - a. geweigerd of:
 
-- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), niet in aanmerking kwam voor een huisvestingsvergunning;
+   - 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), niet in aanmerking kwam voor een huisvestingsvergunning;
 
-- 2°. de woningzoekende geen verklaring omtrent het gedrag kon overleggen en het college geen toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10);
+   - 2°. de woningzoekende geen verklaring omtrent het gedrag kon overleggen en het college geen toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10);
 
 - b. verleend of:
 
-- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en de woningzoekende een verklaring omtrent het gedrag heeft overlegd;
+   - 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en de woningzoekende een verklaring omtrent het gedrag heeft overlegd;
 
-- 2°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en geen verklaring omtrent het gedrag heeft overlegd, maar het college van burgemeester en wethouders toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10).
+   - 2°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en geen verklaring omtrent het gedrag heeft overlegd, maar het college van burgemeester en wethouders toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10).
 
 2. Het college van burgemeester en wethouders verwerkt in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), indien de huisvestingsvergunning, bedoeld in artikel 3, tweede lid, is:
 
 - a. geweigerd of:
 
-- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), niet in aanmerking kwam voor een huisvestingsvergunning;
+   - 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), niet in aanmerking kwam voor een huisvestingsvergunning;
 
-- 2°. de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om de huisvestingsvergunning te weigeren en het college van burgemeester en wethouders geen toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10);
+   - 2°. de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om de huisvestingsvergunning te weigeren en het college van burgemeester en wethouders geen toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10);
 
 - b. verleend of:
 
-- 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er geen gronden waren om de huisvestingsvergunning te weigeren;
+   - 1°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er geen gronden waren om de huisvestingsvergunning te weigeren;
 
-- 2°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om een huisvestingsvergunning te verlenen waaraan voorschriften zijn verbonden. In dat geval worden deze voorschriften en de naam van de persoon of personen op wie deze voorschriften betrekking hebben opgenomen in het bestand;
+   - 2°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om een huisvestingsvergunning te verlenen waaraan voorschriften zijn verbonden. In dat geval worden deze voorschriften en de naam van de persoon of personen op wie deze voorschriften betrekking hebben opgenomen in het bestand;
 
-- 3°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om de huisvestingsvergunning te weigeren en het college van burgemeester en wethouders toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10).
+   - 3°. de woningzoekende op basis van de criteria, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28), in aanmerking kwam voor een huisvestingsvergunning en de burgemeester in de woonverklaring heeft verklaard dat er gronden waren om de huisvestingsvergunning te weigeren en het college van burgemeester en wethouders toepassing heeft gegeven aan de hardheidsclausule, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10).
 
 3. Het college van burgemeester en wethouders verwerkt indien er een onderzoek als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), heeft plaatsgevonden de woonverklaring in het bestand, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28).
 
@@ -204,9 +170,9 @@ Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis v
 
 - d. in het bestand, bedoeld in onderdeel a, verwerken:
 
-- 1°. op welke van de in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=4&artikel=9&z=2018-07-28&g=2018-07-28), genoemde grond de huisvestingsvergunning is verleend of geweigerd, en
+   - 1°. op welke van de in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=4&artikel=9&z=2018-07-28&g=2018-07-28), genoemde grond de huisvestingsvergunning is verleend of geweigerd, en
 
-- 2°. de woonverklaring indien er onderzoek als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), heeft plaatsgevonden;
+   - 2°. de woonverklaring indien er onderzoek als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), heeft plaatsgevonden;
 
 - e. de persoonsgegevens van de woningzoekende die in het bestand, bedoeld in onderdeel a, zijn verwerkt aan het college van burgemeester en wethouders verstrekken na bekendmaking van het besluit op de aanvraag van de huisvestingsvergunning en deze persoonsgegevens daarna verwijderen uit het bestand, bedoeld in onderdeel a, en vernietigen;
 
@@ -250,11 +216,11 @@ Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis v
 
 - c. de desbetreffende persoonsgegevens uit het bestand, bedoeld in onderdeel a, worden verwijderd en vernietigd, indien deze persoonsgegevens niet langer noodzakelijk zijn voor de evaluatie van de maatregel, bedoeld in [artikel 5, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5), en voor de evaluatie ten behoeve van het verslag, bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=17).
 
-### Hoofdstuk 8. Wijziging van het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
+### Hoofdstuk 8. Wijziging van het Besluit politiegegevens
 
 ##### Artikel 14
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
 ### Hoofdstuk 9. Slotbepalingen
 
@@ -265,5 +231,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet van 23 augustus 201
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit verwerking persoonsgegevens bij selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

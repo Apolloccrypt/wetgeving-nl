@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering diefstal voertuigen"
 identifier: "BWBR0039092"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039092"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "13875793"
-version_id: "23820782"
-internal_id: "C34276071"
-label_id: "13840784"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039092/2017-01-01/0"
-intitule_bron: "Stcrt.2016-67386"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-19"
-intitule_in_force: "2016-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-67386"
-original_published_date: "2016-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-67386"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0039092&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0039092&g=2017-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0039092"
+opgehaald: 2026-08-25
 ---
+
 # Richtlijn voor strafvordering diefstal voertuigen
 
 ### Beschrijving
@@ -40,7 +21,17 @@ Deze richtlijn is van toepassing op diefstal van diverse soorten voertuigen en/o
 
 Diefstal van één voertuig, alleen gepleegd.
 
+|  | first offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- |
+| Fiets | GB € 300 | 5j 2j | GB € 450 Idem of TS 36 uur | GS 3 wkn ov |
+| Brommer, scooter snor- of elektrische fiets, lichte aanhanger | TS 32 uur | 5j 2j | TS 48 uur Idem of GS 3 wkn | GS 1 mnd ov |
+| (bestel) auto, caravan, motor of klein vaartuig | TS 120 uur | 5j 2j | TS 180 uur Idem of GS 3 mnd | GS 4 mnd ov |
+| Vrachtwagen (zonder belading) en/of aanhanger/oplegger, autobus | GS 3 mnd | 5j 2j | GS 4 mnd GS 4 mnd | GS 6 mnd ov |
+| Bijzonderheden Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed Strafverzwarend onder andere: Medeplegen of diefstal op bestelling Hogere waarde van het voertuig (waarde is incl. (beoogde) inhoud) Georganiseerd verband (bijv. inladen meerdere (brom)fietsen) *let op taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader |  |  |  |  |
+
 Legenda
+
+Afkortingen
 
 GB = Geldboete
 

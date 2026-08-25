@@ -1,60 +1,35 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 4 maart 2017, nr. MBO/1116804, houdende de verstrekking van subsidie voor de verbetering van de doorstroom van het middelbaar beroepsonderwijs naar de pabo door samenwerking mbo-hbo (Regeling stimulering doorstroom niet verwant mbo-pabo)"
+citeertitel: "Regeling stimulering doorstroom niet verwant mbo-pabo"
 identifier: "BWBR0039416"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-04-04"
-last_updated: "2017-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039416"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13969283"
-version_id: "24031272"
-internal_id: "C34535471"
-label_id: "13932414"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039416/2017-04-04/0"
-intitule_bron: "Stcrt.2017-18489"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-04"
-intitule_published: "2017-04-03"
-intitule_in_force: "2017-04-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-18489"
-original_signed_date: "2017-03-04"
-original_published_date: "2017-04-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-18489"
-entry_into_force_date: "2017-04-04"
-jci_1_3: "jci1.3:c:BWBR0039416&z=2017-04-04&g=2017-04-04"
-jci_1_0: "1.0:c:BWBR0039416&g=2017-04-04"
-citeertitel_status: "officieel"
-short_title: "Regeling stimulering doorstroom niet verwant mbo-pabo"
-signed_date: "2017-03-04"
-entry_into_force: "2017-04-04"
+publicatiedatum: 2017-04-04
+laatste_update: 2017-04-04
+status: geldig
+toestand: 2017-04-04
+bron: "https://wetten.overheid.nl/BWBR0039416"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 4 maart 2017, nr. MBO/1116804, houdende de verstrekking van subsidie voor de verbetering van de doorstroom van het middelbaar beroepsonderwijs naar de pabo door samenwerking mbo-hbo (Regeling stimulering doorstroom niet verwant mbo-pabo)
-
-Gelet op [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=2) en [4 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039416&artikel=4&z=2017-04-04&g=2017-04-04);
+- b. *samenwerkingsverband:* samenwerkingsverband als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039416&artikel=4&z=2017-04-04&g=2017-04-04);
 
-- c. **instelling:** instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- c. *instelling:* instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- d. **hogeschool:** instelling als bedoeld in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) onder c en g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
+- d. *hogeschool:* instelling als bedoeld in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682) onder c en g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 
-- e. **pabo:** opleiding tot leraar basisonderwijs;
+- e. *pabo:* opleiding tot leraar basisonderwijs;
 
-- f. **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- f. *wet:*
+ [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 ##### Artikel 2. Subsidieverstrekking
 
@@ -169,5 +144,3 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling stimulering doorstroom niet verwant mbo-pabo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,43 +1,17 @@
 ---
 title: "Subtaakbesluit Commando Landstrijdkrachten 2015"
 identifier: "BWBR0039474"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-04-19"
-last_updated: "2017-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039474"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13983333"
-version_id: "24059402"
-internal_id: "C34569621"
-label_id: "13945944"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039474/2017-04-19/0"
-intitule_bron: "Stcrt.2017-21269"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-06-04"
-intitule_published: "2017-04-18"
-intitule_in_force: "2017-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-21269"
-original_signed_date: "2015-06-04"
-original_published_date: "2017-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-21269"
-entry_into_force_date: "2017-04-19"
-jci_1_3: "jci1.3:c:BWBR0039474&z=2017-04-19&g=2017-04-19"
-jci_1_0: "1.0:c:BWBR0039474&g=2017-04-19"
-citeertitel_status: "officieel"
-signed_date: "2015-06-04"
-entry_into_force: "2017-04-19"
+publicatiedatum: 2017-04-19
+laatste_update: 2017-04-19
+status: geldig
+toestand: 2017-04-19
+bron: "https://wetten.overheid.nl/BWBR0039474"
+opgehaald: 2026-08-25
 ---
+
 # Subtaakbesluit Commando Landstrijdkrachten 2015
-
-gelet op [artikel 25 van het Algemeen Organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=25),
-
-Besluit:
 
 ##### Artikel 1. De Koninklijke Landmacht
 

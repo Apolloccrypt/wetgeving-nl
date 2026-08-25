@@ -1,66 +1,38 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 april 2017, nr. DE/1155851, houdende regels voor het instellen van een jury voor toekenning van de Jos Brinkprijs, voor de werkwijze van de jury en voor de voordracht van de kandidaten (Regeling toekenning Jos Brinkprijs)"
+citeertitel: "Regeling toekenning Jos Brinkprijs"
 identifier: "BWBR0039490"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039490"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "13987733"
-version_id: "24066002"
-internal_id: "C34583011"
-label_id: "13950304"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039490/2020-01-01/0"
-intitule_bron: "Stcrt.2017-22693"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-04-05"
-intitule_published: "2017-04-24"
-intitule_in_force: "2017-04-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-22693"
-original_signed_date: "2017-04-05"
-original_published_date: "2017-04-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-22693"
-entry_into_force_date: "2017-04-25"
-jci_1_3: "jci1.3:c:BWBR0039490&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0039490&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toekenning Jos Brinkprijs"
-signed_date: "2017-04-05"
-entry_into_force: "2017-04-25"
+publicatiedatum: 2017-04-25
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0039490"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 april 2017, nr. DE/1155851, houdende regels voor het instellen van een jury voor toekenning van de Jos Brinkprijs, voor de werkwijze van de jury en voor de voordracht van de kandidaten (Regeling toekenning Jos Brinkprijs)
-
-Gelet op [artikel 3 van het Besluit instelling Jos Brinkprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802&artikel=3);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Besluit instelling Jos Brink homo emancipatieprijs in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **Jos Brinkprijs:** de Jos Brinkprijs, bedoeld in [artikel 2 van het Besluit instelling Jos Brink prijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802&artikel=2), die kan worden toegekend in de vorm van een oeuvreprijs en van een innovatieprijs;
+- b. *Jos Brinkprijs:* de Jos Brinkprijs, bedoeld in [artikel 2 van het Besluit instelling Jos Brink prijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802&artikel=2), die kan worden toegekend in de vorm van een oeuvreprijs en van een innovatieprijs;
 
-- c. **jury:** de jury, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2020-01-01&g=2020-01-01);
+- c. *jury:* de jury, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2020-01-01&g=2020-01-01);
 
-- d. **LHBTI-personen:** lesbische vrouwen, homoseksuele mannen, biseksuelen, transgenders en intersekse personen;
+- d. *LHBTI-personen:* lesbische vrouwen, homoseksuele mannen, biseksuelen, transgenders en intersekse personen;
 
-- e. **LHBTI-gelijkheid:** gelijke behandeling, gelijke rechten en gelijke kansen van en voor LHBTI-personen in de Nederlandse samenleving.
+- e. *LHBTI-gelijkheid:* gelijke behandeling, gelijke rechten en gelijke kansen van en voor LHBTI-personen in de Nederlandse samenleving.
 
 ##### Artikel 2. Instelling en taak jury
 
 1. Elke twee jaar is er een onafhankelijke jury Jos Brinkprijs.
 
-2. De jury wordt telkens ingesteld voor 1 december van het jaar voorafgaand aan de beoogde toekenning van de prijs en wordt opgeheven op de dag na de datum waarop het verslag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=12&z=2020-01-01&g=2020-01-01), wordt opgeleverd. De minister kan besluiten de jury op een latere datum in te stellen of op te heffen.
+2. De jury wordt telkens ingesteld voor 1 december van het jaar voorafgaand aan de beoogde toekenning van de prijs en wordt opgeheven op de dag na de datum waarop het verslag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=12&z=2020-01-01&g=2020-01-01), wordt opgeleverd. De minister kan besluiten de jury op een latere datum in te stellen of op te heffen.
 
 3. De jury heeft tot taak aan de minister schriftelijk advies uit te brengen over de toekenning van de Jos Brink oeuvreprijs en de toekenning van de Jos Brink innovatieprijs. Hij draagt kandidaten voor beide prijzen voor overeenkomstig de procedure beschreven in deze regeling.
 
@@ -175,19 +147,3 @@ Deze regeling treedt in werking op het tijdstip waarop het Besluit tot wijziging
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toekenning Jos Brinkprijs.
-
-## Bijlage. Selectiecriteria
-
-### 1. Jos Brink oeuvreprijs
-
-Het formele criterium op grond van het [Besluit instelling Jos Brinkprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802) is dat de betrokken persoon, groep of instelling van onbesproken gedrag een fundamentele en langdurige bijdrage levert of geleverd heeft aan het proces van LHBTI-gelijkheid.
-
-Het formele criterium vertaalt zich in de volgende selectiecriteria:
-
-### 2. Jos Brink innovatieprijs
-
-Het formele criterium op grond van het [Besluit instelling Jos Brinkprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802) is dat de persoon, groep of instelling van onbesproken gedrag zich recent op innovatieve en inspirerende wijze inzet of heeft ingezet voor het proces van LHBTI-gelijkheid.
-
-Het formele criterium vertaalt zich in de volgende selectiecriteria:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

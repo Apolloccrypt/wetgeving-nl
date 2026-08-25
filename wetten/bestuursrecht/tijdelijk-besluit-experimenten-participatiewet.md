@@ -1,60 +1,29 @@
 ---
 title: "Besluit van 22 februari 2017, houdende vaststelling van het Tijdelijk besluit experimenten Participatiewet (Tijdelijk besluit experimenten Participatiewet)"
+citeertitel: "Tijdelijk besluit experimenten Participatiewet"
 identifier: "BWBR0039258"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-10-01"
-last_updated: "2019-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039258"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "13926833"
-version_id: "23943742"
-internal_id: "C34428981"
-label_id: "13890864"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039258/2019-10-01/0"
-intitule_bron: "Stb.2017-69"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-22"
-intitule_published: "2017-03-01"
-intitule_in_force: "2017-03-01"
-intitule_status: "goed"
-original_publication: "Stb.2017-69"
-original_signed_date: "2017-02-22"
-original_published_date: "2017-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-69"
-entry_into_force_date: "2017-04-01"
-jci_1_3: "jci1.3:c:BWBR0039258&z=2019-10-01&g=2019-10-01"
-jci_1_0: "1.0:c:BWBR0039258&g=2019-10-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit experimenten Participatiewet"
-signed_date: "2017-02-22"
-entry_into_force: "2017-04-01"
+publicatiedatum: 2017-04-01
+laatste_update: 2019-10-01
+status: geldig
+toestand: 2019-10-01
+bron: "https://wetten.overheid.nl/BWBR0039258"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van 22 februari 2017, houdende vaststelling van het Tijdelijk besluit experimenten Participatiewet (Tijdelijk besluit experimenten Participatiewet)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 9 november 2016, nr. 2016-0000231828;
-
-Gelet op [artikel 83, eerste, tweede en derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=83);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 25 januari 2017, nummer W12.16.0367/III);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 februari 2017, nr. 2017-0000027375;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop gebaseerde regelingen wordt verstaan onder:
 
-- –. **deelnemer:** alleenstaande of gezin, rechthebbende op een uitkering op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), die vrijwillig deelneemt aan een door de gemeente waarin hij woonachtig is uit te voeren experiment;
+- – *deelnemer:* alleenstaande of gezin, rechthebbende op een uitkering op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), die vrijwillig deelneemt aan een door de gemeente waarin hij woonachtig is uit te voeren experiment;
 
-- –. **experimentgroepen:** aan het experiment deelnemende en onderscheiden groepen van deelnemers, te weten een controlegroep en, al naar gelang de inhoud van het experiment, tevens een ontheffingsgroep als bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039258&artikel=5&z=2019-10-01&g=2019-10-01), een intensiveringsgroep als bedoeld in artikel 5, eerste lid, onderdeel b, een vrijlatinggroep als bedoeld in artikel 5, eerste lid, onderdeel c, en mogelijk één of twee combinatiegroepen als bedoeld in artikel 5, eerste lid, onderdeel d;
+- – *experimentgroepen:* aan het experiment deelnemende en onderscheiden groepen van deelnemers, te weten een controlegroep en, al naar gelang de inhoud van het experiment, tevens een ontheffingsgroep als bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039258&artikel=5&z=2019-10-01&g=2019-10-01), een intensiveringsgroep als bedoeld in artikel 5, eerste lid, onderdeel b, een vrijlatinggroep als bedoeld in artikel 5, eerste lid, onderdeel c, en mogelijk één of twee combinatiegroepen als bedoeld in artikel 5, eerste lid, onderdeel d;
 
-- –. **wet:** [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+- – *wet:*
+ [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ##### Artikel 2. Aanwijzing gemeenten
 
@@ -68,17 +37,17 @@ Het schriftelijke verzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci
 
 - a. een plan van aanpak met daarin in ieder geval opgenomen:
 
-- 1°. de doelstelling, de wijze van inrichting en de te verwachten resultaten van het experiment;
+   - 1°. de doelstelling, de wijze van inrichting en de te verwachten resultaten van het experiment;
 
-- 2°. de beoogde begindatum en duur van het experiment, hetgeen niet langer kan zijn dan 2 jaar;
+   - 2°. de beoogde begindatum en duur van het experiment, hetgeen niet langer kan zijn dan 2 jaar;
 
-- 3°. de wijze en intensiteit van begeleiding en voorlichting van de deelnemers;
+   - 3°. de wijze en intensiteit van begeleiding en voorlichting van de deelnemers;
 
-- 4°. de wijze waarop het experiment bijdraagt aan een doeltreffender uitvoering van de wet met betrekking tot de arbeidsinschakeling, waaronder begrepen een onderzoek naar de vraag in hoeverre de interventie in de onderzoeksgroepen leidt tot het aanvaarden van algemeen geaccepteerde arbeid, en het beoogd volledig onafhankelijk worden van de uitkering;
+   - 4°. de wijze waarop het experiment bijdraagt aan een doeltreffender uitvoering van de wet met betrekking tot de arbeidsinschakeling, waaronder begrepen een onderzoek naar de vraag in hoeverre de interventie in de onderzoeksgroepen leidt tot het aanvaarden van algemeen geaccepteerde arbeid, en het beoogd volledig onafhankelijk worden van de uitkering;
 
-- 5°. de wijze waarop uitkeringsgerechtigden, die zich hebben opgegeven voor het experiment, over het experiment worden geïnformeerd en bij de evaluatie van het experiment worden betrokken;
+   - 5°. de wijze waarop uitkeringsgerechtigden, die zich hebben opgegeven voor het experiment, over het experiment worden geïnformeerd en bij de evaluatie van het experiment worden betrokken;
 
-- 6°. de grootte van de groepen die de gemeente ten minste wil behalen;
+   - 6°. de grootte van de groepen die de gemeente ten minste wil behalen;
 
 - b. een wetenschappelijk onderbouwde analyse en opzet van het onderzoek, waaronder het monitoren en evalueren van het experiment, waarin wordt onderbouwd dat het wetenschappelijk karakter van het experiment gewaarborgd is en dat getoetst kan worden aan alle punten van het door het Ministerie van Sociale Zaken en Werkgelegenheid op de website van de Rijksoverheid gepubliceerde beoordelingskader experimenten Pw.
 
@@ -147,5 +116,3 @@ Dit besluit treedt in werking op 1 april 2017 en vervalt op 1 april 2021.
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit experimenten Participatiewet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

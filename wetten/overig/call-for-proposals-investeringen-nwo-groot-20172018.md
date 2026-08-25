@@ -1,38 +1,16 @@
 ---
 title: "Call for proposals, Investeringen NWO-groot 2017/2018"
 identifier: "BWBR0039682"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-06-22"
-last_updated: "2017-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039682"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14026943"
-version_id: "24157442"
-internal_id: "C34714971"
-label_id: "13988734"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039682/2017-06-22/0"
-intitule_bron: "Stcrt.2017-34600"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-05-10"
-intitule_published: "2017-06-22"
-intitule_in_force: "2017-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-34600"
-original_signed_date: "2017-05-10"
-original_published_date: "2017-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-34600"
-entry_into_force_date: "2017-06-22"
-jci_1_3: "jci1.3:c:BWBR0039682&z=2017-06-22&g=2017-06-22"
-jci_1_0: "1.0:c:BWBR0039682&g=2017-06-22"
-citeertitel_status: "redactioneel"
-signed_date: "2017-05-10"
-entry_into_force: "2017-06-22"
+publicatiedatum: 2017-06-22
+laatste_update: 2017-06-22
+status: geldig
+toestand: 2017-06-22
+bron: "https://wetten.overheid.nl/BWBR0039682"
+opgehaald: 2026-08-25
 ---
+
 # Call for proposals, Investeringen NWO-groot 2017/2018
 
 ### 1. Inleiding
@@ -63,6 +41,26 @@ Aanvragen worden – om de instellingsprioriteiten en commitment te borgen – i
 
 De volgende kennisinstellingen kunnen aanvragen indienen:
 
+- − Nederlandse universiteiten;
+
+- − NWO- en KNAW-instituten;
+
+- − de wetenschappelijke bibliotheken;
+
+- − het Nederlands Kanker Instituut;
+
+- − het Max Planck Instituut voor Psycholinguïstiek te Nijmegen;
+
+- − het Prinses Máxima Centrum te Utrecht;
+
+- − de onderzoekers van de DUBBLE-bundellijn bij de ESRF te Grenoble;
+
+- − NCB Naturalis;
+
+- − NL eScience Center;
+
+- − Advanced Research Centre for NanoLithography (ARCNL.
+
 ### 3.2. Wat kan aangevraagd worden
 
 Investeringen NWO-groot dient voor het aanschaffen van apparatuur voor het verrichten van wetenschappelijk onderzoek en voor het opzetten, koppelen en verrijken van wetenschappelijke dataverzamelingen. Er is zowel ruimte voor investeringen die liggen op het terrein van faciliteiten of clusters op de huidige Nationale Roadmap Grootschalige Onderzoeksfaciliteiten als voor zeer vernieuwende investeringen die daarvan losstaan.
@@ -73,11 +71,29 @@ De hoogte van de NWO-bijdrage bedraagt ten minste € 1.500.000 voor alle wetens
 
 ### 3.2.1. Subsidiabele kosten
 
+- − Kosten voor investeringen in wetenschappelijke apparatuur en databases;
+
+- − Personeelskosten voor het opzetten van databases en de initiële digitalisering van het bibliografisch apparaat, indien deze niet gekocht kunnen worden;
+
+- − Personeelskosten voor medewerkers met een specifieke en essentiële technische expertise noodzakelijk voor de ontwikkeling of bouw van een investering.
+
 Indien subsidie voor personeelskosten wordt aangevraagd (of indien personeelskosten als medefinancieringsbijdrage worden opgevoerd) dient men te onderbouwen waarom deze personeelskosten noodzakelijk zijn. Hierbij dient overtuigend te worden aangetoond dat de betreffende faciliteit niet gekocht kan worden en dat de benodigde personele expertise niet elders kan worden ingehuurd tegen vergelijkbare kosten. Tevens dient men in de begroting een gedetailleerde beschrijving op te nemen van de afzonderlijke taken en kosten.
 
-De hoogte en specificatie van personeelskosten moeten in overeenstemming zijn met de normen die hiervoor zijn vastgelegd in het **Akkoord bekostiging wetenschappelijk onderzoek**van NWO en VSNU. Het akkoord is raadpleegbaar via www.nwo.nl/contractvsnu.
+De hoogte en specificatie van personeelskosten moeten in overeenstemming zijn met de normen die hiervoor zijn vastgelegd in het *Akkoord bekostiging wetenschappelijk onderzoek*van NWO en VSNU. Het akkoord is raadpleegbaar via www.nwo.nl/contractvsnu.
 
 ### 3.2.2. Niet-subsidiabele kosten
+
+- − Kosten voor infrastructurele voorzieningen, zoals kosten voor gebouwen of aanpassingen daarvan en voorzieningen die tot de gebruikelijke infrastructuur gerekend kunnen worden voor de desbetreffende discipline;
+
+- − Kosten die zijn gemaakt of waarvoor verplichtingen zijn aangegaan vóórdat de subsidie is toegekend;
+
+- − Kosten die eerder zijn gesubsidieerd of op een andere manier zijn bekostigd uit universitaire of openbare middelen;
+
+- − Dataverzamelingen (en eventuele bijbehorende software en bibliografieën) die reeds op andere wijze beschikbaar zijn;
+
+- − Overige personeelskosten, waaronder personeelskosten voor de exploitatie en het uitvoeren van onderzoek met de faciliteit;
+
+- − Onderhoud en gebruik van apparatuur (exploitatiekosten, *consumables*).
 
 ### 3.2.3. Medefinancieringsbijdrage instelling
 
@@ -89,11 +105,17 @@ Het indienende bestuursorgaan geeft in de aanbiedingsbrief aan hoe de investerin
 
 ### 3.3. Wanneer kan aangevraagd worden
 
-De sluitingsdatum voor het indienen van aanvragen is **dinsdag 3 oktober 2017, 14.00 uur (CET).**
+De sluitingsdatum voor het indienen van aanvragen is *dinsdag 3 oktober 2017, 14.00 uur (CET).*
 
 ### 3.4. Het opstellen van de aanvraag
 
 De aanvraag bestaat uit de volgende onderdelen:
+
+- – getekende aanbiedingsbrief van het hoogste bestuursorgaan van de instelling;
+
+- – ingevuld aanvraagformulier;
+
+- – (indien van toepassing, zie [par 3.5](https://wetten.overheid.nl/BWBR0039682):) begeleidende brief van coördinator Roadmap-faciliteit.
 
 Andere documenten dan hierboven genoemd mogen niet ingediend worden.
 
@@ -109,13 +131,29 @@ Indien u bepaalde onderzoekers wilt uitsluiten als referent van uw voorstel dien
 
 ### 3.5.1. Specifieke subsidievoorwaarden
 
-Om in behandeling te worden genomen, moeten aanvragen in aanvulling op het gestelde in paragrafen 3.1 en 3.2 aan de volgende voorwaarden voldoen:
+Ontvankelijkheid
+
+Om in behandeling te worden genomen, moeten aanvragen in aanvulling op het gestelde in [paragrafen 3.1](https://wetten.overheid.nl/BWBR0039682) en [3.2](https://wetten.overheid.nl/BWBR0039682) aan de volgende voorwaarden voldoen:
+
+- 1. De aanbiedingsbrief is door het hoogste bestuursorgaan van de betreffende instelling of de beoogde penvoerder ondertekend.
+
+- 2. NWO wil graag dat investeringen die liggen op het terrein van faciliteiten of clusters op de huidige *Nationale Roadmap Grootschalige Onderzoeksfaciliteiten* goed bij die faciliteiten of clusters aansluiten. Investeringen liggen op hetzelfde terrein indien het gaat om vergelijkbare investeringen of om investeringen in een bepaald onderzoeksgebied dat ook door faciliteiten op de Roadmap wordt bestreken. Bij indiening wordt daarom getoetst of er sprake is van een goede aansluiting op basis van een begeleidende brief van de coördinator van de relevante Roadmap-faciliteit. Deze geeft daarin aan waarom en hoe de faciliteit past binnen het terrein en de gestelde prioriteiten van de Roadmap-faciliteit, en wat het belang is van de voorgestelde investering binnen de investeringsplannen van de Roadmap-faciliteit. Naast de coördinator wordt de aanvrager gevraagd om in de aanvraag in te gaan op bovengenoemde aspecten. Deze informatie wordt ook bij de toetsing betrokken. Na indiening van de aanvraag stelt het NWO-bureau een advies op over de ontvankelijkheid van de aanvraag. Dit advies wordt voorgelegd aan de Permanente Commissie voor Grootschalige Wetenschappelijke Infrastructuur. Deze neemt een standpunt in over de ontvankelijkheid van de aanvraag. De Permanente Commissie adviseert vervolgens de raad van bestuur van NWO over de ontvankelijkheid. De raad van bestuur neemt een besluit over de ontvankelijkheid.
+
+ICT-infrastructuur en toegankelijkheid
+
+- 1. Grootschalige wetenschappelijke infrastructuur vereist veelal ook geavanceerde ondersteuning met en door goed functionerende ICT-infrastructuur. Het is daarom van wezenlijk belang dat onderzoekers in hun aanvragen de eisen aan benodigde ICT-infrastructuur duidelijk verwoorden en aangeven of deze infrastructuur al tot hun beschikking staat als reguliere voorziening van de betrokken universiteit of onderzoeksinstelling. Naast een beschrijving van de benodigde ICT-infrastructuur dient inzicht te worden gegeven in de verwachte kosten die hiermee gepaard gaan.
 
 ### 3.5.2. Algemene subsidievoorwaarden
 
+NWO-Regeling Subsidies 2017
+
 Op alle aanvragen in dit programma is de [NWO-Regeling Subsidies 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039531) van toepassing.
 
+Open Access
+
 Alle wetenschappelijke publicaties gefinancierd uit toekenningen voortvloeiend uit deze call for proposals dienen onmiddellijk (op het moment van publicatie) wereldwijd vrij toegankelijk te zijn (Open Access). Er zijn verschillende manieren voor onderzoekers om Open Access te publiceren. Een uitgebreide toelichting hierop vindt u op www.nwo.nl/openscience.
+
+Datamanagement
 
 Bij goed onderzoek hoort verantwoord datamanagement. NWO wil dat onderzoeksdata die voortkomen uit met publieke middelen gefinancierd onderzoek zo veel mogelijk ‘vrij’ en duurzaam beschikbaar komen voor hergebruik door andere onderzoekers. NWO wil bovendien het bewustzijn bij onderzoekers over het belang van verantwoord datamanagement vergroten.
 
@@ -123,9 +161,19 @@ Dit vraagt om afstemming tussen disciplines en het ontwikkelen en beschikbaar ma
 
 Aanvragen dienen te voldoen aan het datamanagementprotocol van NWO. Dit protocol bestaat uit twee stappen:
 
+- 1. *Datamanagementparagraaf* De datamanagementparagraaf maakt deel uit van de aanvraag. Onderzoekers dienen vier vragen te beantwoorden over datamanagement binnen hun beoogde onderzoeksproject. Zij worden dus gevraagd reeds voor aanvang van het onderzoek te bedenken hoe de verzamelde data geordend en gecategoriseerd moet worden zodat deze vrij beschikbaar kunnen worden gesteld. Vaak zullen al bij het tot stand komen van de data en de analyse daarvan maatregelen getroffen moeten worden om opslag en deling later mogelijk te maken. Onderzoekers kunnen zelf aangeven welke onderzoeksdata zij voor opslag en hergebruik relevant achten.
+
+- 2. *Datamanagementplan* Na honorering van een aanvraag dient de onderzoeker de datamanagement*paragraaf*uit te werken tot een datamanagement*plan*. Uiterlijk 4 maanden na honorering van de aanvraag moet dat plan via ISAAC zijn ingediend bij NWO. NWO keurt het plan zo snel mogelijk goed. Goedkeuring van het datamanagementplan door NWO is voorwaarde voor de subsidieverlening. Het plan kan tijdens het onderzoek worden bijgesteld.
+
+- 3. *Deponering onderzoeksdata bij DANS* Onderzoeksdata die voortkomen uit door NWO gefinancierde projecten op het gebied van de geesteswetenschappen en de maatschappij- en gedragswetenschappen dienen twee jaar na oplevering vrij toegankelijk te zijn bij het KNAW- en NWO- instituut Data Archiving and Networked Services (DANS) of op een vergelijkbare wijze als bij DANS verkrijgbaar te zijn ten behoeve van gebruik door derden.
+
 Meer informatie over het datamanagementprotocol van NWO staat op www.nwo.nl/datamanagement.
 
+Nagoya Protocol
+
 Het Nagoya Protocol is op 12 oktober 2014 van kracht gegaan en zorgt voor een eerlijke en billijke verdeling van voordelen voortvloeiende uit het gebruik van genetische rijkdommen (Access and Benefit Sharing; ABS). Onderzoekers die voor hun onderzoek gebruikmaken van genetische bronnen in/uit het buitenland dienen zich op de hoogte te stellen van het Nagoya Protocol (http://www.absfocalpoint.nl/en/absfocalpoint.htm). NWO gaat er vanuit dat zij de noodzakelijke acties ten aanzien van het Nagoya Protocol nemen.
+
+Ethische aspecten
 
 Voor het uitvoeren van wetenschappelijk onderzoek is het belangrijk dat onderzoeksvoorstellen die ethische vragen kunnen oproepen zorgvuldig worden behandeld. Voor bepaalde onderzoeksprojecten is een goedkeurende verklaring van een erkende Medisch Ethische Toetsingscommissie (METC) of de Centrale Commissie Dierproeven (CCD) nodig. Daarnaast is voor bepaalde onderzoeksvoorstellen een vergunning nodig op grond van de [Wet Bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) (WBO). Meer informatie over de METC is beschikbaar bij de Centrale Commissie Mensgebonden onderzoek (CCMO). Bij de Nederlandse Vereniging voor Dierexperimentencommissies (NVDEC) is informatie over CCD beschikbaar. Bij o.a. de Gezondheidsraad is informatie over de WBO beschikbaar.
 
@@ -145,7 +193,7 @@ Een hoofdaanvrager is verplicht zijn/haar aanvraag via zijn/haar eigen ISAAC- ac
 
 Bij het indienen van uw aanvraag in ISAAC dient u ook online aanvullende gegevens in te voeren. Begin daarom ten minste één dag vóór de deadline van deze call for proposals met het indienen van uw aanvraag. Aanvragen die na de deadline worden ingediend, worden niet in behandeling genomen.
 
-Voor vragen van technische aard verzoeken wij u contact op te nemen met de ISAAC helpdesk, zie paragraaf 5.2.1. voor verdere instructies.
+Voor vragen van technische aard verzoeken wij u contact op te nemen met de ISAAC helpdesk, zie [paragraaf 5.2.1.](https://wetten.overheid.nl/BWBR0039682) voor verdere instructies.
 
 ### 4. Beoordelingsprocedure
 
@@ -161,15 +209,17 @@ Voor alle bij de beoordeling en/of besluitvorming betrokken personen en betrokke
 
 ### 4.1.2. Ontvankelijkheid
 
-De eerste stap in de beoordelingsprocedure is een toets of de aanvraag in behandeling genomen kan worden. Hiervoor toetst de Permanente Commissie Grootschalige Wetenschappelijke Infrastructuur de voorwaarden zoals beschreven in hoofdstuk 3 van deze call for proposals. De Permanente Commissie adviseert vervolgens de raad van bestuur van NWO over de ontvankelijkheid van de ontvangen aanvragen. De raad van bestuur besluit over de ontvankelijkheid. Niet- ontvankelijke aanvragen zijn van een verdere beoordeling uitgesloten.
+De eerste stap in de beoordelingsprocedure is een toets of de aanvraag in behandeling genomen kan worden. Hiervoor toetst de Permanente Commissie Grootschalige Wetenschappelijke Infrastructuur de voorwaarden zoals beschreven in [hoofdstuk 3](https://wetten.overheid.nl/BWBR0039682) van deze call for proposals. De Permanente Commissie adviseert vervolgens de raad van bestuur van NWO over de ontvankelijkheid van de ontvangen aanvragen. De raad van bestuur besluit over de ontvankelijkheid. Niet- ontvankelijke aanvragen zijn van een verdere beoordeling uitgesloten.
 
 ### 4.1.3. Peer review en selectie
 
 Voor alle ontvankelijke aanvragen worden ten minste vier referentenrapporten opgevraagd. Aanvragers geven daarop hun wederhoorreactie. Hierna worden de aanvragen en de ingewonnen informatie bestudeerd door de beoordelingscommissie. Deze commissie vergadert in de regel twee keer plenair. In de eerste vergadering worden door de commissie de op basis van de voorlopige prioritering kansrijkste aanvragen geselecteerd op basis van aanvraag, begeleidende brieven, referentencommentaren en wederhoorreactie.
 
-Vervolgens wordt aan deze aanvragen een bezoek op locatie (**site visit**) gebracht door een delegatie van de commissie. De delegatie van de commissie heeft de gelegenheid om tijdens deze site visit vragen te stellen, ook nieuwe vragen die nog niet door de referenten zijn opgeworpen. De aanvragers kunnen hier tijdens de discussie met de commissie op reageren. Op deze wijze wordt opnieuw hoor- en wederhoor toegepast. De site visit is een belangrijk onderdeel van de beoordeling en kan leiden tot bijstelling van de beoordeling, score en prioritering van het voorstel tot dan toe.
+Vervolgens wordt aan deze aanvragen een bezoek op locatie (*site visit*) gebracht door een delegatie van de commissie. De delegatie van de commissie heeft de gelegenheid om tijdens deze site visit vragen te stellen, ook nieuwe vragen die nog niet door de referenten zijn opgeworpen. De aanvragers kunnen hier tijdens de discussie met de commissie op reageren. Op deze wijze wordt opnieuw hoor- en wederhoor toegepast. De site visit is een belangrijk onderdeel van de beoordeling en kan leiden tot bijstelling van de beoordeling, score en prioritering van het voorstel tot dan toe.
 
-In de tweede plenaire vergadering stelt de commissie op basis van het schriftelijke materiaal en de informatie van de site visits een definitieve prioritering van de aanvragen op, gebaseerd op de onder 4.2 genoemde criteria, en bepaalt welke aanvragen voor subsidiëring worden voorgedragen aan de raad van bestuur van NWO.
+In de tweede plenaire vergadering stelt de commissie op basis van het schriftelijke materiaal en de informatie van de site visits een definitieve prioritering van de aanvragen op, gebaseerd op de onder [4.2](https://wetten.overheid.nl/BWBR0039682) genoemde criteria, en bepaalt welke aanvragen voor subsidiëring worden voorgedragen aan de raad van bestuur van NWO.
+
+Besluit
 
 De raad van bestuur van NWO neemt een besluit over honorering en afwijzing van de aanvragen. Daarna worden de aanvragers geïnformeerd over de uitkomsten van de selectieprocedure.
 
@@ -181,9 +231,111 @@ De datamanagementparagraaf in de aanvraag wordt niet beoordeeld en derhalve ook 
 
 ### 4.1.5. Indicatief tijdpad
 
+| di. 3 oktober 2017, 14:00 uur (CET) | Deadline indieningvoorstellen via ISAAC |
+| --- | --- |
+| oktober | Toets ontvankelijkheid aanvragen |
+| medio oktober – december | Raadplegen referenten |
+| december – medio januari 2018 | Wederhoorreactie |
+| medio februari | Eerste vergadering beoordelingscommissie |
+| begin maart – eind april | Site visits |
+| medio mei | Tweede vergadering beoordelingscommissie |
+| medio juli | Besluit raad van bestuur en bekendmaking besluit |
+
 ### 4.2. Criteria
 
 De aanvragen ingediend in het kader van Investeringen NWO-groot worden beoordeeld aan de hand van de onderstaande criteria. Deze criteria wegen elk voor 33,3% mee in het totaaloordeel.
+
+- 1. *Science en excellence case*
+
+   - a. *Het belang voor de wetenschap en de aantrekkingskracht op onderzoekers* Innovatie is mede afhankelijk van wetenschappelijke doorbraken. Investeringen door NWO-groot moeten ertoe leiden dat een grotere kans op wetenschappelijke innovaties en doorbraken op het betreffende onderzoeksterrein ontstaat. Daarom worden de wetenschappelijke kwaliteit, originaliteit en vernieuwendheid van het met de investering uit te voeren onderzoeksprogramma getoetst. Van belang zijn ook de kwaliteit en competentie van de betrokken onderzoekers of het onderzoeksteam en hun internationale positie en samenwerking. Daarnaast wordt de (inter)nationale positionering van de investering gewogen: neemt Nederland op het betreffende terrein een vooraanstaande positie in en wat zijn de internationale ontwikkelingen op dit terrein? Draagt de investering bij tot versterking van de Nederlandse positie op dit terrein? Geavanceerde onderzoekfaciliteiten zijn essentieel om wetenschappelijk talent naar Nederland te halen of voor Nederland te behouden. De onderzoeksfaciliteit dient daarom voldoende aantrekkingskracht te hebben op (buitenlandse) onderzoekers.
+
+   - b. *Inbedding van de investering* Nationale onderzoeksfaciliteiten moeten goed zijn ingebed in de Nederlandse kennisinfrastructuur. De institutionele inbedding kan onder meer blijken uit betrokkenheid van onderzoeksgroepen binnen Nederland, inbedding van de faciliteit in het Nederlandse onderzoekslandschap en in de (lange termijn) onderzoeksstrategie van de instelling en landelijke coördinatie.
+
+   - c. *Urgentie van de investering voor de Nederlandse wetenschap* Getoetst wordt verder dat de urgentie van de investering voor de Nederlandse wetenschap en voor onderzoek op het desbetreffende terrein overtuigend is beargumenteerd, dat de voorgestelde aanpak doeltreffend is en dat er sprake is van een inhoudelijk samenhangend investeringspakket.
+
+- 2. *Innovation en strategic case*
+
+   - a. *Het belang voor de maatschappij en het bedrijfsleven en aansluiting bij maatschappelijke ontwikkelingen* Onderzoeksfaciliteiten zijn ook aantrekkelijk voor het bedrijfsleven en voor innovatieve overheden. Grote onderzoeksfaciliteiten werken als een magneet voor nieuwe kennis en dat schept een uitstekend klimaat voor zowel het kleine als grote bedrijfsleven. Daarom wordt ook de mogelijke uitstraling in termen van valorisatie en ander niet-wetenschappelijk gebruik getoetst vanuit de volgende gezichtspunten: *Potentie voor kennisbenutting* *Implementatieplan* Indien aanvragers van mening zijn dat kennisbenutting niet van toepassing is, zullen zij dit moeten beargumenteren. De argumentatie zal in samenhang met het voorstel beoordeeld worden.
+
+      - − In welke mate draagt de realisatie van de investering bij tot (technologische) innovatie bij bedrijven of in de maatschappij?
+
+      - − In welke mate zullen resultaten verkregen met de investering bijdragen aan belangrijke wetenschappelijke, technologische of maatschappelijke ontwikkelingen?
+
+      - − Is er sprake van een doordacht plan van aanpak om opbrengsten die voortvloeien uit het gebruik van de faciliteit ten goede te laten komen aan de potentiële kennisgebruikers?
+
+      - − Worden er potentiële maatschappelijke en/of industriële kennisgebruikers betrokken bij ontwerp, realisatie en gebruik van de faciliteit en zo ja, hoe gebeurt dit?
+
+      - − Wat is de verwachte termijn voor mogelijke kennisbenutting?
+
+   - b. *Nationaal belang en internationale uitstraling* De beoordelingscommissie toetst hoe de investering past in de langetermijnplanning van het betreffende wetenschappelijke veld en aanvragende instellingen. Tevens toetst zij het nationaal belang door na te gaan of de investering een (inter)nationaal leidende of unieke faciliteit oplevert, al dan niet op een wetenschappelijk deelgebied. Indien buitenlandse onderzoeksgroepen al een internationaal leidende positie innemen, kunnen er ook andere redenen zijn om een investering te plegen. Bijvoorbeeld om een noodzakelijk geachte positie in te kunnen nemen en zo het nationale belang te versterken. In het geval van Nederlandse participatie in de bouw, of in een substantiële aanpassing, van een internationale onderzoeksfaciliteit toetst de commissie het belang en de zichtbaarheid van de Nederlandse inbreng in de internationale samenwerking, opzet en kwaliteit van het internationale project waarvan de investering deel gaat uitmaken, en geschiktheid van de vorm en inzet van de Nederlandse bijdrage.
+
+- 3. *Technical, business en management case*
+
+   - a. *Technische haalbaarheid* Om aan de technische eisen van een onderzoeksfaciliteit te kunnen voldoen, zijn vaak nieuwe technische oplossingen en technieken nodig, waarbij soms fundamentele uitdagingen moeten worden opgelost. Dit is een kans om de impact te vergroten, maar een belangrijk risico voor de uitvoering. Getoetst wordt dat het technisch mogelijk is de gevraagde faciliteit te bouwen, aan de hand van:
+
+      - − een passend plan voor de technische uitvoering, inclusief tijdpad met milestones, deliverables en (de rol van) deelnemende partijen;
+
+      - − een overzicht van welke technische uitdagingen een rol spelen om de gewenste specificaties te halen;
+
+      - − een overzicht van welke ontwikkelingen nodig zijn om die uitdagingen op te lossen en van welke partijen daarvoor kennis, kunde en capaciteit hebben.
+
+   - b. *ICT-infrastructuur* Grootschalige wetenschappelijke infrastructuur vereist veelal ook geavanceerde ondersteuning met en door ICT-infrastructuur. Zeker daar waar geavanceerde ICT- oplossingen nodig zijn, is het wenselijk deze goed in kaart te brengen en de kosten mee te nemen in de begroting. Aanvragers dienen in hun aanvraag te beschrijven en te kwantificeren welke ICT-infrastructuur voor de onderzoeksfaciliteit benodigd is. Hierbij valt onder meer te denken aan hulpbronnen voor opslag, aan netwerken, tools voor datamanagement, veiligheid en toegang, en het regelen van toegang voor analyse op afstand. Van belang is tevens dat aanvragers beschrijven hoe deze ICT- infrastructuur wordt geïmplementeerd, alsook welke expertise hiervoor benodigd is. Getoetst wordt dat de aanvragers een juist beeld schetsen van de benodigde ICT- infrastructuur, de afstemming daarover met SURF, en de daarvoor benodigde kosten.
+
+   - c. *Organisatie en governance* Het opzetten en exploiteren van een grote onderzoeksfaciliteit vergt heldere afspraken tussen de (internationale) partners en een duidelijk organisatorisch kader. Daarom is het belangrijk dat de governancestructuur en het management van de onderzoeksfaciliteit goed georganiseerd zijn. De onderzoeksfaciliteit dient zo te zijn ingericht dat de realisatie en exploitatie optimaal kunnen verlopen. Getoetst wordt dat de afspraken rondom de faciliteit leiden tot een heldere en werkbare situatie, door middel van: Ook dient te worden aangegeven dat het aangevraagde en als eigen bijdrage opgevoerde personeel noodzakelijk is.
+
+      - − een goede inbedding in de Nederlandse kennisinfrastructuur, waar nodig door middel van een consortiumovereenkomst;
+
+      - − een heldere besluitvormingsstructuur met voldoende mandaat en onafhankelijkheid;
+
+      - − een duidelijk organisatieschema met daarin de taken en bevoegdheden van de governance en het management;
+
+      - − een passende procedure voor het omgaan met budget en tijdsoverschrijding;
+
+      - − een deugdelijke strategie op het gebied van procurement, intellectueel eigendomsrecht en commerciële activiteiten, die in lijn is met geldende regelgeving en richtlijnen, en waarbij de bijkomende juridische en contractuele kwesties geïdentificeerd en opgelost zijn.
+
+   - d. *Toegankelijkheid* Grote onderzoeksfaciliteiten zijn er primair ten behoeve van onderzoekers. Daarom is het een voorwaarde dat er sprake is van laagdrempelige toegang tot de onderzoeksfaciliteit, ook voor externe onderzoekers. De faciliteit moet in ieder geval toegang bieden op basis van wetenschappelijke excellentie of een breed toegangsbeleid voeren. Uitsluitend toegang op basis van pay-for-use is voor infrastructuur niet toegestaan. Naast het toetsen van deze aspecten wordt gekeken naar:
+
+      - − welke onderzoeksgroepen de onderzoeksfaciliteit zullen gebruiken;
+
+      - − hoeveel van de capaciteit beschikbaar is voor externe gebruikers;
+
+      - − de gemiddelde omvang van het gebruik per externe onderzoeker.
+
+   - e. *Financiële aspecten* Uit de aanvraag moet duidelijk zijn welke investeringen gepland worden, welke kosten hiermee gemoeid gaan, hoe de aanvragers deze kosten financieren en wat het commitment is van de aanvragende partijen. Hierbij is het ook van belang dat organisatie en management voldoende mogelijkheden hebben om de onderzoeksfaciliteit op een efficiënte wijze te realiseren en te exploiteren. Om een faciliteit van nationale allure in Nederland te realiseren en te exploiteren, of om in een internationale onderzoeksfaciliteit buiten Nederland zichtbaar en onderscheidend te participeren, gaan bovendien de kosten vaak de beschikbare budgetten te boven. Er is daarom een zorgvuldige budgetanalyse vereist, die hierin inzicht biedt. Getoetst wordt onder meer:
+
+      - (1) Dat de aanvragers een volledig beeld van de kosten en financiering geven, door:
+
+         - − een volledig en voldoende gespecificeerd overzicht van alle kosten en middelen die nodig zijn voor het succesvol realiseren, exploiteren en monitoren van, en/of het participeren in, de onderzoeksfaciliteit, ook als deze niet subsidiabel zijn. Dit geldt zowel voor in-cash als (in geld vertaalbare) in-kind bijdragen;
+
+         - − een gemotiveerde en sluitende begroting voor de gehele onderzoeksfaciliteit voor een periode van 10 jaar;
+
+         - − indien de levensduur langer is dan 10 jaar, een overzicht van de kosten van de onderzoeksfaciliteit voor de gehele levensduur inclusief de kosten voor de ontmanteling van de faciliteit.
+
+      - (2) Dat de aanvragers voldoende zekerheid geven over de financiële inkomsten door:
+
+         - − een beschrijving van de mogelijke bronnen voor financiering en welke daarvan aangeboord worden;
+
+         - − het financiële commitment van betrokken instellingen voor zowel de investering alsook de running costs van de infrastructuur;
+
+         - − (harde) garanties voor dit financieel commitment door bevoegde partijen (zoals een college van bestuur van de universiteiten) voor in ieder geval 10 jaar;
+
+         - − een realistische inschatting van andere bronnen van inkomsten, zoals commerciële exploitatie en het gebruik van de apparatuur (bezettingsgraad en capaciteit), en de kosten die hiervoor aan de gebruikers in rekening worden gebracht;
+
+         - − een overzicht wie (financieel) verantwoordelijk is voor ontmanteling en de kosten daarvan.
+
+      - (3) Dat de mate van medefinanciering in goede verhouding staat tot de omvang en doelstellingen van het totale project.
+
+   - f. *Risicoanalyse* De risico’s ten aanzien van de realisatie en de exploitatie van de gevraagde wetenschappelijke infrastructuur dienen goed in kaart te zijn gebracht en afgedekt, waarbij bijvoorbeeld gedacht kan worden aan risico’s ten aanzien van de financiering van de infrastructuur, de technische haalbaarheid, de eisen aan benodigde ICT- infrastructuur en aan de governance en het management van de infrastructuur. Getoetst wordt in hoeverre de risico’s voor de realisatie en exploitatie goed in kaart zijn gebracht en afgedekt, waarbij de volgende aspecten relevant zijn:
+
+      - − mogelijke (financiële) gevolgen van technische risico’s, of het niet kunnen halen van de technische eisen;
+
+      - − realistische alternatieve scenario’s en de eventuele consequenties hiervan voor de wetenschappelijke ambities van de infrastructuur;
+
+      - − een goed track record op het gebied van vergelijkbare technische oplossingen bij de (beoogde) uitvoerende partij, binnen het consortium of andere aansluitende partijen;
+
+      - − mogelijke risico’s met betrekking tot de exploitatie van de infrastructuur;
+
+      - − de verdeling van de realisatie en de financiering (waar mogelijk) in fases met duidelijk meetbare (SMART-) doelstellingen.
 
 ### 5. Contact en overige informatie
 

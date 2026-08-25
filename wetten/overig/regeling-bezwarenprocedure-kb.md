@@ -1,46 +1,17 @@
 ---
 title: "Regeling bezwarenprocedure KB"
 identifier: "BWBR0039456"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039456"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13979263"
-version_id: "24052472"
-internal_id: "C34558921"
-label_id: "13942434"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039456/2015-01-01/0"
-intitule_bron: "Stcrt.2015-24327"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-08-31"
-intitule_in_force: "2015-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-24327"
-original_published_date: "2015-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-24327"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0039456&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0039456&g=2015-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2015-01-01"
+publicatiedatum: 2015-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0039456"
+opgehaald: 2026-08-25
 ---
+
 # Regeling bezwarenprocedure KB
-
-Gelet op artikel 9.13 van de CAO-onderzoekinstellingen;
-
-Gelet op [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=20) juncto [artikel 9 van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=9) (Wsob);
-
-Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
-
-Gelet op [artikel 27 lid 1 onder j. van de Wet op de Ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,19 +19,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- 1. **Belanghebbende:** degene wiens belang rechtstreeks bij een besluit is betrokken;
+- 1. *Belanghebbende:* degene wiens belang rechtstreeks bij een besluit is betrokken;
 
-- 2. **Bestuursorgaan:** het Algemeen Bestuurscollege van de Koninklijke Bibliotheek;
+- 2. *Bestuursorgaan:* het Algemeen Bestuurscollege van de Koninklijke Bibliotheek;
 
-- 3. **Besluit:** een schriftelijke beslissing, door of namens het bestuursorgaan genomen, inhoudende een publiekrechtelijke rechtshandeling;
+- 3. *Besluit:* een schriftelijke beslissing, door of namens het bestuursorgaan genomen, inhoudende een publiekrechtelijke rechtshandeling;
 
-- 4. **Bevoegd gezag:** de (plaatsvervangend) Algemeen Directeur van de Koninklijke Bibliotheek;
+- 4. *Bevoegd gezag:* de (plaatsvervangend) Algemeen Directeur van de Koninklijke Bibliotheek;
 
-- 5. **Werknemer:** degene met wie de KB een dienstverband voor bepaalde dan wel onbepaalde tijd is aangegaan;
+- 5. *Werknemer:* degene met wie de KB een dienstverband voor bepaalde dan wel onbepaalde tijd is aangegaan;
 
-- 6. **Adviescommissie Personeel:** de bij instellingsbeschikking door het Algemeen Bestuurscollege ingestelde adviescommissie personeelsaangelegenheden KB;
+- 6. *Adviescommissie Personeel:* de bij instellingsbeschikking door het Algemeen Bestuurscollege ingestelde adviescommissie personeelsaangelegenheden KB;
 
-- 7. **Adviescommissie Subsidie:** de bij besluit van het Algemeen Bestuurscollege ingestelde adviescommissie subsidie.
+- 7. *Adviescommissie Subsidie:* de bij besluit van het Algemeen Bestuurscollege ingestelde adviescommissie subsidie.
 
 ### Hoofdstuk 2. Adviescommissie Personeel
 
@@ -245,5 +216,3 @@ Deze regeling vervang het reglement van 1 januari 2005 (dat is gewijzigd op 1 ok
 ##### Artikel 20. Citeertitel en publicatie
 
 Deze regeling wordt aangehaald als Regeling bezwarenprocedure KB.
-
-Deze regeling zal worden gepubliceerd en bekend gemaakt op de website www.kb.nl.

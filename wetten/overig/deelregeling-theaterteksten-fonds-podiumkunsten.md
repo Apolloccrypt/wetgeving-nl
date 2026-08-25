@@ -1,43 +1,17 @@
 ---
 title: "Deelregeling theaterteksten Fonds Podiumkunsten"
 identifier: "BWBR0039482"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-04-20"
-last_updated: "2017-04-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039482"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13984753"
-version_id: "24061492"
-internal_id: "C34577871"
-label_id: "13947344"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039482/2017-04-20/0"
-intitule_bron: "Stcrt.2017-21695"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-03-06"
-intitule_published: "2017-04-19"
-intitule_in_force: "2017-04-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-21695"
-original_signed_date: "2017-03-06"
-original_published_date: "2017-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-21695"
-entry_into_force_date: "2017-04-20"
-jci_1_3: "jci1.3:c:BWBR0039482&z=2017-04-20&g=2017-04-20"
-jci_1_0: "1.0:c:BWBR0039482&g=2017-04-20"
-citeertitel_status: "officieel"
-signed_date: "2017-03-06"
-entry_into_force: "2017-04-20"
+publicatiedatum: 2017-04-20
+laatste_update: 2017-04-20
+status: geldig
+toestand: 2017-04-20
+bron: "https://wetten.overheid.nl/BWBR0039482"
+opgehaald: 2026-08-25
 ---
+
 # Deelregeling theaterteksten Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit:
 
 #### Paragraaf 1. algemene bepalingen
 
@@ -45,13 +19,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten+;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **Nederlands Letterenfonds:** de stichting Nederlands Letterenfonds;
+- *Nederlands Letterenfonds:* de stichting Nederlands Letterenfonds;
 
-- **Nederland:** Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
 ##### Artikel 1.2. Subsidievormen
 
@@ -87,11 +61,11 @@ Het bestuur kan subsidie verstrekken aan individuen in de vorm van een werkbijdr
 
 1. Het bestuur voorziet in een gelijktijdige beslissing op aanvragen op basis van hun geschiktheid om bij te dragen aan de doelstelling waarvoor subsidie wordt verstrekt. Als een subsidieplafond ontoereikend is om alle aanvragen die voor subsidie in aanmerking komen te honoreren, worden de aanvragen die het betreft onderverdeeld in drie categorieën:
 
-- a). honoreren;
+- a) honoreren;
 
-- b). honoreren voor zover het budget dat toelaat; en
+- b) honoreren voor zover het budget dat toelaat; en
 
-- c). niet honoreren.
+- c) niet honoreren.
 
 2. De aanvragen die in de categorie ‘honoreren voor zover het budget dat toelaat’ worden geplaatst worden in een rangorde gezet op basis van de criteria die gelden voor de betreffende aanvragen.
 
@@ -103,19 +77,19 @@ Het bestuur kan subsidie verstrekken aan individuen in de vorm van een werkbijdr
 
 Onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan het bestuur subsidie weigeren:
 
-- a). als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
+- a) als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
 
-- b). als reeds tweemaal eerder voor dezelfde activiteit subsidie is aangevraagd;
+- b) als reeds tweemaal eerder voor dezelfde activiteit subsidie is aangevraagd;
 
-- c). als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
+- c) als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
-- d). als de aanvraag betrekking heeft op een reeds geheel of gedeeltelijk voltooide activiteit;
+- d) als de aanvraag betrekking heeft op een reeds geheel of gedeeltelijk voltooide activiteit;
 
-- e). als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 13 weken na de uiterste indiendatum;
+- e) als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 13 weken na de uiterste indiendatum;
 
-- f). als voor de activiteit al eerder op basis van onderhavige of een andere regeling van het Fonds Podiumkunsten subsidie is verstrekt;
+- f) als voor de activiteit al eerder op basis van onderhavige of een andere regeling van het Fonds Podiumkunsten subsidie is verstrekt;
 
-- g). als de aanvraag niet voldoet aan het bepaalde in deze regeling.
+- g) als de aanvraag niet voldoet aan het bepaalde in deze regeling.
 
 #### Paragraaf 2. Werkbijdrage theatertekst
 
@@ -139,13 +113,13 @@ Het bestuur verstrekt een werkbijdrage theatertekst aan theaterauteurs die wille
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- a). kwaliteit van eerder werk van de aanvrager;
+- a) kwaliteit van eerder werk van de aanvrager;
 
-- b). bijdrage die het plan levert aan de artistieke werkpraktijk van de aanvrager;
+- b) bijdrage die het plan levert aan de artistieke werkpraktijk van de aanvrager;
 
-- c). ondernemende houding van de aanvrager;
+- c) ondernemende houding van de aanvrager;
 
-- d). betekenis van het resultaat van de activiteiten voor de podiumkunsten in Nederland.
+- d) betekenis van het resultaat van de activiteiten voor de podiumkunsten in Nederland.
 
 2. Het bestuur stelt in overleg met het Nederlands Letterenfonds een commissie in die adviseert over ingediende aanvragen.
 
@@ -161,11 +135,11 @@ Het bestuur verstrekt een werkbijdrage theatertekst aan theaterauteurs die wille
 
 De ontvanger van het subsidie meldt onverwijld aan het bestuur als:
 
-- a). de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan; of
+- b) niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan; of
 
-- c). er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
+- c) er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
 ##### Artikel 3.2. Verantwoording van het subsidie
 
@@ -194,7 +168,3 @@ Deze regeling treedt in werking met ingang van de dag na publicatie in de Staats
 ##### Artikel 3.6. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling theaterteksten Fonds Podiumkunsten.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-**Vastgesteld in de vergadering van de Raad van Bestuur d.d. 6 maart 2017**

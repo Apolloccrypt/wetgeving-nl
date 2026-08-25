@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 juni 2017, nr. 2017-0000100455, tot vaststelling van een tijdelijke regeling in verband met het experiment met meertaligheid in de dagopvang en het peuterspeelzaalwerk (Tijdelijke regeling experiment meertalige dagopvang en meertalig peuterspeelzaalwerk)"
+citeertitel: "Tijdelijke regeling experiment meertalige dagopvang"
 identifier: "BWBR0039702"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039702"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14030863"
-version_id: "24164662"
-internal_id: "C34725121"
-label_id: "13992144"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039702/2018-01-01/0"
-intitule_bron: "Stcrt.2017-36832"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-23"
-intitule_published: "2017-06-30"
-intitule_in_force: "2017-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-36832"
-original_signed_date: "2017-06-23"
-original_published_date: "2017-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-36832"
-entry_into_force_date: "2017-07-01"
-jci_1_3: "jci1.3:c:BWBR0039702&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0039702&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling experiment meertalige dagopvang"
-signed_date: "2017-06-23"
-entry_into_force: "2017-07-01"
+publicatiedatum: 2017-07-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0039702"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 juni 2017, nr. 2017-0000100455, tot vaststelling van een tijdelijke regeling in verband met het experiment met meertaligheid in de dagopvang en het peuterspeelzaalwerk (Tijdelijke regeling experiment meertalige dagopvang en meertalig peuterspeelzaalwerk)
-
-Gelet op de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039641&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039641&artikel=6), en [10, derde lid, onderdeel a, van het Tijdelijk besluit experiment meertalige dagopvang en meertalig peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0039641&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -67,5 +41,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2017 en vervalt met ingang
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling experiment meertalige dagopvang.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie tot beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst (1850) 1947–1989 (1995)"
+citeertitel: "Besluit beperking openbaarheid archief Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst (1850) 1947–1989 (1995)"
 identifier: "BWBR0039472"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-04-21"
-last_updated: "2017-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039472"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13983133"
-version_id: "24058972"
-internal_id: "C34569191"
-label_id: "13945584"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039472/2017-04-21/0"
-intitule_bron: "Stcrt.2017-22486"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-04-12"
-intitule_published: "2017-04-20"
-intitule_in_force: "2017-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-22486"
-original_signed_date: "2017-04-12"
-original_published_date: "2017-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-22486"
-entry_into_force_date: "2017-04-21"
-jci_1_3: "jci1.3:c:BWBR0039472&z=2017-04-21&g=2017-04-21"
-jci_1_0: "1.0:c:BWBR0039472&g=2017-04-21"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst (1850) 1947–1989 (1995)"
-signed_date: "2017-04-12"
-entry_into_force: "2017-04-21"
+publicatiedatum: 2017-04-21
+laatste_update: 2017-04-21
+status: geldig
+toestand: 2017-04-21
+bron: "https://wetten.overheid.nl/BWBR0039472"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van de Minister van Veiligheid en Justitie tot beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst (1850) 1947–1989 (1995)
-
-Overwegende dat een deel van de dossiers in het archief **Naturalisatie en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst, (1850) 1947–1989 (1995),**toegangsnummer NA 2.09.128, bijzondere persoonsgegevens bevat als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
-
-Gelet op [artikel 15, lid 1, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Gehoord het advies van de algemene rijksarchivaris d.d. 21 juli 2015, kenmerk Na/2015/15421;
-
-Besluit:
 
 ##### Artikel 1
 

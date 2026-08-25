@@ -1,76 +1,45 @@
 ---
 title: "Deelregeling Cultuureducatie in het vmbo en het praktijkonderwijs"
 identifier: "BWBR0039283"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-03-07"
-last_updated: "2017-03-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039283"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "13931833"
-version_id: "23955572"
-internal_id: "C34444391"
-label_id: "13895654"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039283/2017-03-07/0"
-intitule_bron: "Stcrt.2017-12302"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-03-07"
-intitule_in_force: "2017-03-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-12302"
-original_published_date: "2017-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-12302"
-entry_into_force_date: "2017-03-07"
-jci_1_3: "jci1.3:c:BWBR0039283&z=2017-03-07&g=2017-03-07"
-jci_1_0: "1.0:c:BWBR0039283&g=2017-03-07"
-citeertitel_status: "officieel"
-entry_into_force: "2017-03-07"
+publicatiedatum: 2017-03-07
+laatste_update: 2017-03-07
+status: geldig
+toestand: 2017-03-07
+bron: "https://wetten.overheid.nl/BWBR0039283"
+opgehaald: 2026-08-25
 ---
+
 # Deelregeling Cultuureducatie in het vmbo en het praktijkonderwijs
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
-
-gelet op de overeengekomen samenwerking met het bestuur van het Prins Bernhard Cultuurfonds;
-
-met goedkeuring van de minister van Onderwijs, Cultuur en Wetenschap van 24 februari 2017;
-
-besluit:
-
-vast te stellen de Regeling Cultuureducatie in het vmbo en het praktijkonderwijs.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Definities
 
-- a. **Aanvrager:** de culturele instelling met rechtspersoonlijkheid zonder winstoogmerk die subsidie aanvraagt;
+- a. *Aanvrager:* de culturele instelling met rechtspersoonlijkheid zonder winstoogmerk die subsidie aanvraagt;
 
-- b. **Adviescommissie:** een externe adviescommissie als bedoeld in [artikel 8 van het Huishoudelijk Reglement van stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0037544&artikel=8);
+- b. *Adviescommissie:* een externe adviescommissie als bedoeld in [artikel 8 van het Huishoudelijk Reglement van stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0037544&artikel=8);
 
-- c. **Algemeen Subsidiereglement:** het [Algemeen Subsidiereglement van stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
+- c. *Algemeen Subsidiereglement:* het [Algemeen Subsidiereglement van stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
 
-- d. **Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- d. *Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- e. **Bestuur:** het bestuur van stichting Fonds voor Cultuurparticipatie;
+- e. *Bestuur:* het bestuur van stichting Fonds voor Cultuurparticipatie;
 
-- f. **Cultuureducatie:** activiteiten die gericht zijn op de kerndoelen en eindtermen van het leergebied kunst en cultuur, kunstvakken 1 (CKV) en eventueel keuzevakken beeldende vorming, muziek, dans en drama;
+- f. *Cultuureducatie:* activiteiten die gericht zijn op de kerndoelen en eindtermen van het leergebied kunst en cultuur, kunstvakken 1 (CKV) en eventueel keuzevakken beeldende vorming, muziek, dans en drama;
 
-- g. **Doorlopende leerlijn:** een leerlijn is een beredeneerde opbouw van tussendoelen en inhouden naar een einddoel. Doorlopende leerlijnen worden ontwikkeld om meer samenhang en continuïteit door leerjaren heen te geven.
+- g. *Doorlopende leerlijn:* een leerlijn is een beredeneerde opbouw van tussendoelen en inhouden naar een einddoel. Doorlopende leerlijnen worden ontwikkeld om meer samenhang en continuïteit door leerjaren heen te geven.
 
-- h. **Fonds voor Cultuurparticipatie:** Stichting Fonds voor Cultuurparticipatie;
+- h. *Fonds voor Cultuurparticipatie:* Stichting Fonds voor Cultuurparticipatie;
 
-- i. **Praktijkonderwijs:** door het Ministerie van OCW bekostigd praktijkonderwijs;
+- i. *Praktijkonderwijs:* door het Ministerie van OCW bekostigd praktijkonderwijs;
 
-- j. **Prins Bernhard Cultuurfonds:** Stichting Prins Bernhard Cultuurfonds;
+- j. *Prins Bernhard Cultuurfonds:* Stichting Prins Bernhard Cultuurfonds;
 
-- k. **Voortgezet speciaal onderwijs:** onderwijs als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- k. *Voortgezet speciaal onderwijs:* onderwijs als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- l. **Vmbo:** door het ministerie van OCW bekostigd voorbereidend middelbaar beroepsonderwijs.
+- l. *Vmbo:* door het ministerie van OCW bekostigd voorbereidend middelbaar beroepsonderwijs.
 
 ##### Artikel 2. Doel
 
@@ -162,12 +131,10 @@ Bij de besluitvorming houdt het bestuur rekening met een evenwichtige spreiding 
 
 ### Hoofdstuk 3. Slotbepalingen
 
-##### Artikel 13. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127)
+##### Artikel 13. Algemeen Subsidiereglement
 
 De bepalingen in het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127) zijn van overeenkomstige toepassing, tenzij in deze regeling anders is bepaald.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Cultuureducatie in het vmbo en het praktijkonderwijs.
-
-Deze regeling is gepubliceerd in de Staatscourant van 7 maart 2017.

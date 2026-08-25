@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 februari 2017, 2017-00000197982, tot vaststelling van de Tijdelijke regeling experimenten Participatiewet (Tijdelijke regeling experimenten Participatiewet)"
+citeertitel: "Tijdelijke regeling experimenten Participatiewet"
 identifier: "BWBR0039249"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-04-01"
-last_updated: "2017-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039249"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "13925663"
-version_id: "23941102"
-internal_id: "C34424271"
-label_id: "13889694"
-dtd_version: "2.0"
-original_entry_into_force: "2017-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039249/2017-04-01/0"
-intitule_bron: "Stcrt.2017-10881"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-20"
-intitule_published: "2017-03-01"
-intitule_in_force: "2017-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-10881"
-original_signed_date: "2017-02-20"
-original_published_date: "2017-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-10881"
-entry_into_force_date: "2017-04-01"
-jci_1_3: "jci1.3:c:BWBR0039249&z=2017-04-01&g=2017-04-01"
-jci_1_0: "1.0:c:BWBR0039249&g=2017-04-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling experimenten Participatiewet"
-signed_date: "2017-02-20"
-entry_into_force: "2017-04-01"
+publicatiedatum: 2017-04-01
+laatste_update: 2017-04-01
+status: geldig
+toestand: 2017-04-01
+bron: "https://wetten.overheid.nl/BWBR0039249"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 februari 2017, 2017-00000197982, tot vaststelling van de Tijdelijke regeling experimenten Participatiewet (Tijdelijke regeling experimenten Participatiewet)
-
-Gelet op [artikel 83, derde en vierde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=83) en [artikel 2, tweede lid, van het Tijdelijk besluit experimenten Participatiewet](onbekend);
-
-besluit vast te stellen:
-
-Treedt in werking op het tijdstip waarop het Tijdelijk besluit experimenten Participatiewet in werking treedt.
 
 ### Tijdelijke regeling experimenten Participatiewet
 
@@ -48,11 +20,12 @@ Treedt in werking op het tijdstip waarop het Tijdelijk besluit experimenten Part
 
 In deze regeling wordt verstaan onder:
 
-- –. **besluit:** [Tijdelijk besluit experimenten Participatiewet](onbekend);
+- – *besluit:*
+ Tijdelijk besluit experimenten Participatiewet;
 
-- –. **initiatiefgemeente:** gemeente Groningen, gemeente Tilburg, gemeente Utrecht en gemeente Wageningen;
+- – *initiatiefgemeente:* gemeente Groningen, gemeente Tilburg, gemeente Utrecht en gemeente Wageningen;
 
-- –. **minister:** Minister van Sociale Zaken en Werkgelegenheid.
+- – *minister:* Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2. Indiening verzoek
 
@@ -86,11 +59,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Afwijzing verzoek
 
-Onverminderd [artikel 4 van het besluit](onbekend), wordt een verzoek afgewezen indien:
+Onverminderd artikel 4 van het besluit, wordt een verzoek afgewezen indien:
 
-- –. naar het oordeel van de minister één of meerdere verplichte voorgeschreven verordeningen in procedurele zin of inhoudelijk niet in overeenstemming zijn met de wet;
+- – naar het oordeel van de minister één of meerdere verplichte voorgeschreven verordeningen in procedurele zin of inhoudelijk niet in overeenstemming zijn met de wet;
 
-- –. meer dan zeven gemeenten het verzoek indienen tot een gezamenlijk experiment.
+- – meer dan zeven gemeenten het verzoek indienen tot een gezamenlijk experiment.
 
 ##### Artikel 6. Verplichting gemeenten
 
@@ -102,10 +75,8 @@ Bij onvoorziene gevallen kan de minister aan alle deelnemende gemeenten of één
 
 ##### Artikel 8. Inwerkingtreding
 
-Deze regeling treedt in werking op het moment dat het [Tijdelijk besluit experimenten Participatiewet](onbekend) in werking treedt, en vervalt op het moment dat het Tijdelijk besluit experimenten Participatiewet komt te vervallen.
+Deze regeling treedt in werking op het moment dat het Tijdelijk besluit experimenten Participatiewet in werking treedt, en vervalt op het moment dat het Tijdelijk besluit experimenten Participatiewet komt te vervallen.
 
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling experimenten Participatiewet.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

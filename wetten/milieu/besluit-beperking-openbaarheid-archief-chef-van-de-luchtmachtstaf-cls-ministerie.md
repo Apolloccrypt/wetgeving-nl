@@ -1,47 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid Archief Chef van de Luchtmachtstaf (CLS) Ministerie van Defensie (1945) 1951 – 1986 (1996)"
 identifier: "BWBR0039202"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-02-17"
-last_updated: "2017-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039202"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13911473"
-version_id: "23875632"
-internal_id: "C34343281"
-label_id: "13875564"
-dtd_version: "2.0"
-original_entry_into_force: "2017-02-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039202/2017-02-17/0"
-intitule_bron: "Stcrt.2017-8721"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-02"
-intitule_published: "2017-02-16"
-intitule_in_force: "2017-02-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-8721"
-original_signed_date: "2017-02-02"
-original_published_date: "2017-02-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-8721"
-entry_into_force_date: "2017-02-17"
-jci_1_3: "jci1.3:c:BWBR0039202&z=2017-02-17&g=2017-02-17"
-jci_1_0: "1.0:c:BWBR0039202&g=2017-02-17"
-citeertitel_status: "redactioneel"
-signed_date: "2017-02-02"
-entry_into_force: "2017-02-17"
+publicatiedatum: 2017-02-17
+laatste_update: 2017-02-17
+status: geldig
+toestand: 2017-02-17
+bron: "https://wetten.overheid.nl/BWBR0039202"
+opgehaald: 2026-08-25
 ---
+
 # Besluit beperking openbaarheid Archief Chef van de Luchtmachtstaf (CLS) Ministerie van Defensie (1945) 1951 – 1986 (1996)
-
-Overwegende dat een aantal dossiers in het archief van de Chef van de Luchtmachtstaf (1945) 1951 – 1986 (1996) beperkingen aan de openbaarheid behoeven:
-
-Gelet op [artikel 15, lid 1, onder b van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Gehoord het advies van de algemene rijksarchivaris d.d. 24-06-2016, met kenmerk 16548.
-
-Besluit:
 
 ##### Artikel 1
 

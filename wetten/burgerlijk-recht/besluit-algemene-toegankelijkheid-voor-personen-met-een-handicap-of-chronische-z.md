@@ -1,58 +1,27 @@
 ---
 title: "Besluit van 7 juni 2017, houdende regels omtrent de algemene toegankelijkheid voor personen met een handicap of chronische ziekte (Besluit toegankelijkheid voor personen met een handicap of chronische ziekte)"
+citeertitel: "Besluit algemene toegankelijkheid voor personen met een handicap of chronische ziekte"
 identifier: "BWBR0039653"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-06-21"
-last_updated: "2017-06-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039653"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "14022603"
-version_id: "24144562"
-internal_id: "C34692531"
-label_id: "13984464"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039653/2017-06-21/0"
-intitule_bron: "Stb.2017-256"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-07"
-intitule_published: "2017-06-20"
-intitule_in_force: "2017-06-20"
-intitule_status: "goed"
-original_publication: "Stb.2017-256"
-original_signed_date: "2017-06-07"
-original_published_date: "2017-06-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-256"
-entry_into_force_date: "2017-06-21"
-jci_1_3: "jci1.3:c:BWBR0039653&z=2017-06-21&g=2017-06-21"
-jci_1_0: "1.0:c:BWBR0039653&g=2017-06-21"
-citeertitel_status: "officieel"
-short_title: "Besluit algemene toegankelijkheid voor personen met een handicap of chronische ziekte"
-signed_date: "2017-06-07"
-entry_into_force: "2017-06-21"
+publicatiedatum: 2017-06-21
+laatste_update: 2017-06-21
+status: geldig
+toestand: 2017-06-21
+bron: "https://wetten.overheid.nl/BWBR0039653"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van 7 juni 2017, houdende regels omtrent de algemene toegankelijkheid voor personen met een handicap of chronische ziekte (Besluit toegankelijkheid voor personen met een handicap of chronische ziekte)
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 februari 2017, kenmerk 949043-148746-WJZ;
-
-Gelet op [artikel 2a, tweede lid, van de Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=2a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 19 april 2017, no. W13.17.0030/III);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 1 juni 2017, kenmerk 949036-148746-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** [Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915).
+- b. *wet:*
+ [Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915).
 
 ##### Artikel 2
 
@@ -113,5 +82,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit algemene toegankelijkheid voor personen met een handicap of chronische ziekte.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

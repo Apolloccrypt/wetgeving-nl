@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 6 januari 2017, nummer 2029595 houdende instelling van de taskforce lijkschouw en gerechtelijke sectie (Instellingsregeling taskforce lijkschouw en gerechtelijke sectie)"
+citeertitel: "Instellingsregeling taskforce lijkschouw en gerechtelijke sectie"
 identifier: "BWBR0039130"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-26"
-last_updated: "2017-01-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039130"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "13897303"
-version_id: "23849222"
-internal_id: "C34301991"
-label_id: "13861724"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039130/2017-01-26/0"
-intitule_bron: "Stcrt.2017-3684"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-01-06"
-intitule_published: "2017-01-25"
-intitule_in_force: "2017-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-3684"
-original_signed_date: "2017-01-06"
-original_published_date: "2017-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-3684"
-entry_into_force_date: "2017-01-26"
-jci_1_3: "jci1.3:c:BWBR0039130&z=2017-01-26&g=2017-01-26"
-jci_1_0: "1.0:c:BWBR0039130&g=2017-01-26"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling taskforce lijkschouw en gerechtelijke sectie"
-signed_date: "2017-01-06"
-entry_into_force: "2017-01-26"
+publicatiedatum: 2017-01-26
+laatste_update: 2017-01-26
+status: geldig
+toestand: 2017-01-26
+bron: "https://wetten.overheid.nl/BWBR0039130"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 6 januari 2017, nummer 2029595 houdende instelling van de taskforce lijkschouw en gerechtelijke sectie (Instellingsregeling taskforce lijkschouw en gerechtelijke sectie)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1. (Begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** Minister van Veiligheid en Justitie;
+- a. *Minister:* Minister van Veiligheid en Justitie;
 
-- b. **Taskforce:** de taskforce, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039130&artikel=2&z=2017-01-26&g=2017-01-26).
+- b. *Taskforce:* de taskforce, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039130&artikel=2&z=2017-01-26&g=2017-01-26).
 
 ##### Artikel 2. (Instelling en taak)
 
@@ -91,5 +63,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 7. (Citeertitel)
 
 Deze regeling wordt aangehaald als: Instellingsregeling taskforce lijkschouw en gerechtelijke sectie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing afpakken"
 identifier: "BWBR0038996"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038996"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "13849553"
-version_id: "23780822"
-internal_id: "C34216121"
-label_id: "13815054"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038996/2017-01-01/0"
-intitule_bron: "Stcrt.2016-72371"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-30"
-intitule_in_force: "2016-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-72371"
-original_published_date: "2016-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-72371"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBR0038996&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0038996&g=2017-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0038996"
+opgehaald: 2026-08-25
 ---
+
 # Aanwijzing afpakken
 
 ### Samenvatting
@@ -46,13 +27,29 @@ Met de focus op (rechts)herstel en afpakken van crimineel vermogen staat het OM 
 
 Ketensamenwerking staat in de integrale aanpak centraal. In de ‘afpakketen’ werkt het OM onder andere samen met de Nationale Politie, de Bijzondere Opsporingsdiensten (BOD-en), de Koninklijke Marechaussee, de Belastingdienst, de Regionale Informatie- Expertise Centra, het Landelijk Informatie en Expertise Centrum, de Infobox Crimineel en Onverklaarbaar Vermogen (ICOV), het Centraal Justitieel Incasso Bureau (CJIB), de Domeinen, Dienst Roerende Zaken (DRZ) en de Financial Intelligence Unit Nederland (FIU-NL).
 
-Het IRC/ARO (Internationaal Rechtshulp Centrum/Asset Recovery Office) fungeert als Nederlandse internationaal contactpoint voor de ontneming van wederrechtelijk verkregen voordeel1Het EU raadsbesluit (2007/845/JBZ) van 6 december 2007 verplicht de EU-lidstaten tot het oprichten/aanstellen van een internationaal contactpoint om onderling samen te werken door informatie en beproefde (recherche)methoden uit te wisselen..
+Het IRC/ARO (Internationaal Rechtshulp Centrum/Asset Recovery Office) fungeert als Nederlandse internationaal contactpoint voor de ontneming van wederrechtelijk verkregen voordeel1Het EU raadsbesluit (2007/845/JBZ) van 6 december 2007 verplicht de EU-lidstaten tot het oprichten/aanstellen van een internationaal contactpoint om onderling samen te werken door informatie en beproefde (recherche)methoden uit te wisselen..
 
 ### Afpakmogelijkheden
 
 ### 1. De te onderscheiden afpakmogelijkheden
 
 Aan de afpakketen staan uiteenlopende strafrechtelijke afpakmogelijkheden ter beschikking.
+
+- a. Het strafrecht kent een aantal vermogenssancties. De officier van justitie kan: De officier van justitie kan ook kiezen voor sancties die een vergelijkbare werking hebben, zoals het vorderen van een schadevergoedingsmaatregel ([art. 36f Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f)), het vorderen van schadevergoeding als bijzondere voorwaarde bij voorwaardelijke veroordeling ([art. 14c, lid 2, sub 1 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c)), het stellen van een schadevergoeding als onderdeel van een transactie ([art. 74, lid 2 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74)) of een schadevergoeding als voorwaarde voor sepot.
+
+   - – verbeurdverklaring vorderen ([art. 33a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33a) (Sr))
+
+   - – ontneming van wederrechtelijk verkregen voordeel vorderen ([art. 36e Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e))
+
+   - – geldboete vorderen waaronder begrepen een afroomboete (bijvoorbeeld [art. 6 lid 1 WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=6))
+
+   - – een schikking ([art. 511c Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511c)) aanbieden
+
+   - – een transactie met financiële voorwaarde(n) ([art. 74 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74)) aanbieden
+
+   - – een strafbeschikking met ontnemingscomponent uitvaardigen.
+
+- b. Daarnaast hebben de partners in de afpakketen mogelijkheden tot afpakken volgens het fiscaal recht, het bestuursrecht en het civielrecht.
 
 Behalve strafrechtelijke afpakmogelijkheden heeft het OM ook civielrechtelijke bevoegdheden die in het kader van afpakken relevant kunnen zijn, zoals (het vorderen van de) ontbinding van een rechtspersoon.
 
@@ -62,7 +59,7 @@ Verder staan aan de partners in de afpakketen eveneens diverse mogelijkheden ter
 
 ### 2. Uitgangspunt: effectieve overheidsreactie
 
-Bij de keuze voor een afpakmogelijkheid of een combinatie van afpakmogelijkheden is een belangrijke factor de effectiviteit van de overheidsreactie. Op basis van de beschikbare en/of te achterhalen gegevens, de beschikbare capaciteit en de juridische mogelijkheden wordt in afstemming met de ketenpartners gekozen voor de afpakmogelijkheid of de combinatie van afpakmogelijkheden die het grootste maatschappelijk effect lijkt te hebben. Deze afstemming dient om te voorkomen dat bepaalde afpakmogelijkheden achteraf niet meer mogelijk zouden zijn, maar ook om cumulatie van sancties te voorkomen. Met het oog hierop wordt het voornemen om een ontnemingsschikking van meer dan € 5.000 te sluiten of een transactie met ontnemingscomponent van meer dan € 5.000 aan te bieden, aan de Belastingdienst gemeld.
+Bij de keuze voor een afpakmogelijkheid of een combinatie van afpakmogelijkheden is een belangrijke factor de effectiviteit van de overheidsreactie. Op basis van de beschikbare en/of te achterhalen gegevens, de beschikbare capaciteit en de juridische mogelijkheden wordt in afstemming met de ketenpartners gekozen voor de afpakmogelijkheid of de combinatie van afpakmogelijkheden die het grootste maatschappelijk effect lijkt te hebben. Deze afstemming dient om te voorkomen dat bepaalde afpakmogelijkheden achteraf niet meer mogelijk zouden zijn, maar ook om cumulatie van sancties te voorkomen. Met het oog hierop wordt het voornemen om een ontnemingsschikking van meer dan € 5.000 te sluiten of een transactie met ontnemingscomponent van meer dan € 5.000 aan te bieden, aan de Belastingdienst gemeld.
 
 Met het oog op de effectiviteit is het zaak om in een zo vroeg mogelijk stadium van het onderzoek zicht te krijgen op het vermogen en de geldstromen die in aanmerking komen om te worden afgepakt. Al bij de weging en selectie van zaken is vermogenstracering aan de orde. Voorkomen moet worden dat gelden worden weggesluisd en afpakken wordt gefrustreerd.
 
@@ -74,11 +71,21 @@ Bij de keuze van de afpakmogelijkheden krijgt de schadevergoeding aan het slacht
 
 Om zicht te krijgen op het vermogen en de geldstromen die gepaard gaan met lucratieve criminaliteit is financieel opsporingsonderzoek cruciaal, hetzij als initieel onderzoek hetzij als onderdeel van het opsporingsonderzoek. Hierbij gelden de volgende uitgangspunten:
 
+- 1. Om wederrechtelijk verkregen voordeel te kunnen ontnemen of verbeurd te doen verklaren en/of witwassen strafrechtelijk te kunnen vervolgen, dient in elk opsporingsonderzoek waarin sprake is van een 'opbrengst', maar in elk geval in opsporingsonderzoeken naar ondermijnende en georganiseerde criminaliteit zoals milieucriminaliteit, fraude, drugshandel, mensenhandel, mensensmokkel of wapenhandel, onderzoek te worden verricht naar de geldstromen die gepaard gaan met deze misdrijven en onderzoek naar het vermogen van de veroordeelde.
+
+- 2. Bij het aantreffen van ongebruikelijke hoeveelheden contant geld of andere vermogensbestanddelen dient zoveel mogelijk onderzoek te worden verricht naar de herkomst. Indien er in een onderzoek aanwijzingen zijn voor financiële stromen informeert de officier van justitie bij de FIU naar mogelijke verdachte transacties.
+
+- 3. Indien in een opsporingsonderzoek verdachte geldstromen en vermogensbestanddelen worden gevonden die de mogelijkheid bieden wederrechtelijk verkregen voordeel te ontnemen, dient een (nader) (strafrechtelijk) financieel onderzoek te worden ingesteld.
+
+- 4. Bij een financieel opsporingsonderzoek, alsmede in het kader van een strafrechtelijk financieel onderzoek (SFO) dient standaard gebruik te worden gemaakt van het FIU-NL bevragingstraject.
+
+- 5. Na onherroepelijk worden van straf- en ontnemingsvonnis wordt voor zover nodig onderzoek naar het vermogen van de veroordeelde verricht, desgewenst door middel van een strafrechtelijk executie onderzoek door de officier van justitie na daartoe verkregen machtiging van de rechter-commissaris.
+
 ### Beslaglegging
 
 Om effectief te kunnen afpakken wordt in een zo vroeg mogelijk stadium van het onderzoek beslag gelegd op voorwerpen en geld van de verdachte en, in geval van schijnconstructies, van de ander, waardoor er achteraf meer kan worden geïncasseerd.
 
-### 5. Conservatoir beslag ([art. 94a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a))
+### 5. Conservatoir beslag (art. 94a Sv)
 
 Conservatoir beslag kan worden gelegd om het recht tot verhaal veilig te stellen van een op te leggen geldboete (boetebeslag, [art. 94a lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a)) en/of een op te leggen ontnemingsmaatregel (voordeelsbeslag, art. 94a lid 2 Sv) en/of een op te leggen schadevergoedingsmaatregel ten behoeve van het slachtoffer.
 
@@ -96,7 +103,7 @@ Het wederrechtelijk verkregen voordeel kan in voorkomende gevallen ook een rol s
 
 ### 6.1. Commune delicten
 
-Uitgangspunt is dat een ontnemingsvordering wordt ingediend wanneer het verkregen voordeel wordt geschat op een bedrag van ten minste € 500. Het komen tot een effectieve interventie, al dan niet in het kader van een programmatische of probleemgerichte aanpak, kan reden zijn om af te wijken van dit uitgangspunt.
+Uitgangspunt is dat een ontnemingsvordering wordt ingediend wanneer het verkregen voordeel wordt geschat op een bedrag van ten minste € 500. Het komen tot een effectieve interventie, al dan niet in het kader van een programmatische of probleemgerichte aanpak, kan reden zijn om af te wijken van dit uitgangspunt.
 
 ### 6.2. Economische en milieudelicten
 
@@ -118,7 +125,7 @@ Op grond van [art. 4 lid 1 Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&a
 
 ### 6.6. Benadeelde derden
 
-Indien wederrechtelijk verkregen voordeel is verkregen en er sprake is van een benadeelde derde, dient het OM in beginsel een ontnemingsvordering in. Van het indienen van een ontnemingsvordering wordt slechts afgezien als de verdachte/veroordeelde de schade aan de benadeelde heeft vergoed en de hoogte van de schadevergoeding ten minste gelijk is aan het wederrechtelijk verkregen voordeel. Indien de schade niet is vergoed en het een actieve en weerbare benadeelde derde betreft die te kennen heeft gegeven via een civiele vordering bij de burgerlijke rechter verhaal te willen halen en diens vordering ten minste gelijk is aan het bedrag van het wederrechtelijk verkregen voordeel, kan worden overwogen af te zien van het indienen van een ontnemingsvordering. Desalniettemin kan het in zo’n geval aangewezen zijn een ontnemingsvordering in te dienen, bijvoorbeeld in verband met behaald vervolgprofijt, de noodzaak tot het leggen van anderbeslag (zie §7) en het maatschappelijk belang dat is gediend met een ontnemingsvordering. Zo vroeg mogelijk in het opsporingsonderzoek dient op dit punt afstemming met de benadeelde derde plaats te vinden.
+Indien wederrechtelijk verkregen voordeel is verkregen en er sprake is van een benadeelde derde, dient het OM in beginsel een ontnemingsvordering in. Van het indienen van een ontnemingsvordering wordt slechts afgezien als de verdachte/veroordeelde de schade aan de benadeelde heeft vergoed en de hoogte van de schadevergoeding ten minste gelijk is aan het wederrechtelijk verkregen voordeel. Indien de schade niet is vergoed en het een actieve en weerbare benadeelde derde betreft die te kennen heeft gegeven via een civiele vordering bij de burgerlijke rechter verhaal te willen halen en diens vordering ten minste gelijk is aan het bedrag van het wederrechtelijk verkregen voordeel, kan worden overwogen af te zien van het indienen van een ontnemingsvordering. Desalniettemin kan het in zo’n geval aangewezen zijn een ontnemingsvordering in te dienen, bijvoorbeeld in verband met behaald vervolgprofijt, de noodzaak tot het leggen van anderbeslag (zie [§7](https://wetten.overheid.nl/BWBR0038996)) en het maatschappelijk belang dat is gediend met een ontnemingsvordering. Zo vroeg mogelijk in het opsporingsonderzoek dient op dit punt afstemming met de benadeelde derde plaats te vinden.
 
 In het geval de benadeelde derde tot civiel verhaal overgaat, wordt aan deze op diens verzoek de benodigde informatie verstrekt met inachtneming van de [Aanwijzing Wet strafvorderlijke en justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0034197).
 
@@ -134,7 +141,7 @@ De officier van justitie die een strafzaak met een transactie wil afdoen kan aan
 
 ### 8.2. Publicatie via persbericht
 
-De totstandkoming van een ontnemingsschikking of een transactie met een ontnemingscomponent van meer dan € 500.000 wordt in beginsel openbaar gemaakt via een persbericht. Hiermee wordt geanticipeerd op de – gegeven de aard van de zaken – onvermijdelijke maatschappelijke aandacht voor de zaak in kwestie. Bovendien dient een persbericht de generaal-preventieve werking van de ontneming van wederrechtelijk verkregen voordeel. Het persbericht noemt bij een transactie met ontnemingscomponent in ieder geval de naam van de verdachte met wie en de strafbare feiten ter zake waarvan wordt geschikt. Bij een ontnemingsschikking wordt in het persbericht verwezen naar het vonnis en legt het openbaar ministerie uit waarom het de getroffen schikking een passende afdoening vindt. De inhoud van het persbericht wordt vastgesteld door het openbaar ministerie.
+De totstandkoming van een ontnemingsschikking of een transactie met een ontnemingscomponent van meer dan € 500.000 wordt in beginsel openbaar gemaakt via een persbericht. Hiermee wordt geanticipeerd op de – gegeven de aard van de zaken – onvermijdelijke maatschappelijke aandacht voor de zaak in kwestie. Bovendien dient een persbericht de generaal-preventieve werking van de ontneming van wederrechtelijk verkregen voordeel. Het persbericht noemt bij een transactie met ontnemingscomponent in ieder geval de naam van de verdachte met wie en de strafbare feiten ter zake waarvan wordt geschikt. Bij een ontnemingsschikking wordt in het persbericht verwezen naar het vonnis en legt het openbaar ministerie uit waarom het de getroffen schikking een passende afdoening vindt. De inhoud van het persbericht wordt vastgesteld door het openbaar ministerie.
 
 ### Overgangsrecht
 

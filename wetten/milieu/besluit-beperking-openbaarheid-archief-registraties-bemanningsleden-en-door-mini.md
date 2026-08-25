@@ -1,43 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid Archief registraties bemanningsleden en door Ministerie van Verkeer en Waterstaat uitgegeven zee- en visvaartdiploma’s 1950 – 1985, Inspectie Leefomgeving en Transport"
 identifier: "BWBR0039260"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-03-02"
-last_updated: "2017-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039260"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "13927123"
-version_id: "23944012"
-internal_id: "C34429251"
-label_id: "13891104"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039260/2017-03-02/0"
-intitule_bron: "Stcrt.2017-11547"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-01-23"
-intitule_published: "2017-03-01"
-intitule_in_force: "2017-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-11547"
-original_signed_date: "2017-01-23"
-original_published_date: "2017-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-11547"
-entry_into_force_date: "2017-03-02"
-jci_1_3: "jci1.3:c:BWBR0039260&z=2017-03-02&g=2017-03-02"
-jci_1_0: "1.0:c:BWBR0039260&g=2017-03-02"
-citeertitel_status: "redactioneel"
-signed_date: "2017-01-23"
-entry_into_force: "2017-03-02"
+publicatiedatum: 2017-03-02
+laatste_update: 2017-03-02
+status: geldig
+toestand: 2017-03-02
+bron: "https://wetten.overheid.nl/BWBR0039260"
+opgehaald: 2026-08-25
 ---
+
 # Besluit beperking openbaarheid Archief registraties bemanningsleden en door Ministerie van Verkeer en Waterstaat uitgegeven zee- en visvaartdiploma’s 1950 – 1985, Inspectie Leefomgeving en Transport
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 15 september 2014, met kenmerk NA/2014/14103
-
-Besluit:
 
 ##### Artikel 1
 
@@ -45,7 +19,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van betrokken per
 
 | Inventarisnummers: | Beperkt openbaar tot 1 januari: |
 | --- | --- |
-| **Registratiekaarten inzake aanmonstering en arbeidsplaatsen** |   |
+| Registratiekaarten inzake aanmonstering en arbeidsplaatsen |  |
 | 283 | 2066 |
 | 282 | 2066 |
 | 284 | 2066 |
@@ -69,36 +43,36 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van betrokken per
 | 291 | 2066 |
 | 288 | 2066 |
 | 290 | 2066 |
-|   |   |
-| **Registratiekaarten inzake diploma MDR** |   |
+|  |  |
+| Registratiekaarten inzake diploma MDR |  |
 | 289 | 2066 |
 | 298 | 2066 |
 | 303 | 2066 |
 | 296 | 2066 |
 | 294 | 2066 |
-|   | 2066 |
-| **Registratie diploma MDR Zeevisvaart I** | 2066 |
+|  | 2066 |
+| Registratie diploma MDR Zeevisvaart I | 2066 |
 | 311 | 2066 |
 | 310 | 2066 |
-|   | 2066 |
-| **Registratie diploma MDR Zeevisvaart II** | 2066 |
+|  | 2066 |
+| Registratie diploma MDR Zeevisvaart II | 2066 |
 | 319 | 2066 |
 | 299 | 2066 |
-|   | 2066 |
-| **Afgewezen examinandi** | 2066 |
+|  | 2066 |
+| Afgewezen examinandi | 2066 |
 | 293 | 2066 |
-|   | 2066 |
-| **MM oud O** | 2066 |
+|  | 2066 |
+| MM oud O | 2066 |
 | 300 | 2066 |
 | 295 | 2066 |
-|   | 2066 |
-| **Verklaringen I** | 2066 |
+|  | 2066 |
+| Verklaringen I | 2066 |
 | 292 | 2066 |
-|   | 2066 |
-| **Verklaringen II** | 2066 |
+|  | 2066 |
+| Verklaringen II | 2066 |
 | 297 | 2066 |
-|   | 2066 |
-| **Registratiekaarten inzake bemanningsleden** | 2066 |
+|  | 2066 |
+| Registratiekaarten inzake bemanningsleden | 2066 |
 | 34 | 2066 |
 | 49 | 2066 |
 | 51 | 2066 |
@@ -378,8 +352,8 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van betrokken per
 | 406 | 2066 |
 | 361 | 2066 |
 | 364 | 2066 |
-|   |   |
-| **Registratiekaarten inzake gediplomeerde stuurlieden** |   |
+|  |  |
+| Registratiekaarten inzake gediplomeerde stuurlieden |  |
 | 430 | 2066 |
 | 446 | 2066 |
 | 466 | 2066 |
@@ -409,8 +383,8 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van betrokken per
 | 448 | 2066 |
 | 443 | 2066 |
 | 434 | 2066 |
-|   |   |
-| **Registratie inzake gediplomeerde stuurlieden visserij** |   |
+|  |  |
+| Registratie inzake gediplomeerde stuurlieden visserij |  |
 | 323 | 2066 |
 | 277 | 2066 |
 | 275 | 2066 |
@@ -515,20 +489,20 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van betrokken per
 | 304 | 2066 |
 | 308 | 2066 |
 | 307 | 2066 |
-|   |   |
-| **Registratiekaarten inzake gediplomeerden voor de zeevaart** |   |
+|  |  |
+| Registratiekaarten inzake gediplomeerden voor de zeevaart |  |
 | 429 | 2066 |
 | 428 | 2066 |
-|   | 2066 |
-| **Registratiekaarten inzake gediplomeerden voor de zeevisvaart** | 2066 |
+|  | 2066 |
+| Registratiekaarten inzake gediplomeerden voor de zeevisvaart | 2066 |
 | 454 | 2066 |
 | 495 | 2066 |
 | 464 | 2066 |
 | 494 | 2066 |
 | 486 | 2066 |
 | 452 | 2066 |
-|   | 2066 |
-| **Registratiekaarten inzake gediplomeerd scheepswerktuigkundigen** | 2066 |
+|  | 2066 |
+| Registratiekaarten inzake gediplomeerd scheepswerktuigkundigen | 2066 |
 | 427 | 2066 |
 | 426 | 2066 |
 | 433 | 2066 |

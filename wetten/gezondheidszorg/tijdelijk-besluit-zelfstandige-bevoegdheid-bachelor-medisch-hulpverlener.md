@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 april 2017, houdende regels inzake de opleiding, deskundigheid en tijdelijke zelfstandige bevoegdheid tot het verrichten van voorbehouden handelingen van de bachelor medisch hulpverlener (Tijdelijk besluit zelfstandige bevoegdheid bachelor medisch hulpverlener)"
+citeertitel: "Tijdelijk besluit zelfstandige bevoegdheid bachelor medisch hulpverlener"
 identifier: "BWBR0039466"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-04-01"
-last_updated: "2019-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039466"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "13981663"
-version_id: "24056802"
-internal_id: "C34566491"
-label_id: "13944244"
-dtd_version: "2.0"
-original_entry_into_force: "2017-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039466/2019-04-01/0"
-intitule_bron: "Stb.2017-162"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-04-05"
-intitule_published: "2017-04-14"
-intitule_in_force: "2017-04-14"
-intitule_status: "goed"
-original_publication: "Stb.2017-162"
-original_signed_date: "2017-04-05"
-original_published_date: "2017-04-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-162"
-entry_into_force_date: "2017-05-01"
-jci_1_3: "jci1.3:c:BWBR0039466&z=2019-04-01&g=2019-04-01"
-jci_1_0: "1.0:c:BWBR0039466&g=2019-04-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit zelfstandige bevoegdheid bachelor medisch hulpverlener"
-signed_date: "2017-04-05"
-entry_into_force: "2017-05-01"
+publicatiedatum: 2017-05-01
+laatste_update: 2019-04-01
+status: geldig
+toestand: 2019-04-01
+bron: "https://wetten.overheid.nl/BWBR0039466"
+opgehaald: 2026-08-25
 ---
+
 # Besluit van 5 april 2017, houdende regels inzake de opleiding, deskundigheid en tijdelijke zelfstandige bevoegdheid tot het verrichten van voorbehouden handelingen van de bachelor medisch hulpverlener (Tijdelijk besluit zelfstandige bevoegdheid bachelor medisch hulpverlener)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 mei 2016, kenmerk 968842-150439-WJZ;
-
-Gelet op [artikel 36a van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 23 juni 2016, no. W13.16.0122/III);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 maart 2017, kenmerk 968832-150439-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -52,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+- a. *wet:* de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. **Centraal register opleidingen hoger onderwijs:** het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- b. *Centraal register opleidingen hoger onderwijs:* het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
-- c. **commissie:** de commissie, bedoeld in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1);
+- c. *commissie:* de commissie, bedoeld in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1);
 
-- d. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
+- d. *studiepunten:* studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
 
 #### § 2. Aanwijzing en titel
 
@@ -80,9 +48,9 @@ In dit besluit wordt verstaan onder:
 
 - b. een door Onze Minister afgegeven verklaring van vakbekwaamheid:
 
-- i. waaruit blijkt dat betrokkene een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van bachelor medisch hulpverlener en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
+   - i. waaruit blijkt dat betrokkene een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van bachelor medisch hulpverlener en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
 
-- ii. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze wet geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=4&z=2019-04-01&g=2019-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=5&z=2019-04-01&g=2019-04-01) kan worden afgeleid, of
+   - ii. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze wet geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=4&z=2019-04-01&g=2019-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=5&z=2019-04-01&g=2019-04-01) kan worden afgeleid, of
 
 - c. een door Onze Minister afgegeven erkenning van beroepskwalificaties als bachelor medisch hulpverlener in de zin van de Algemene Wet Erkenning EU-beroepskwalificaties.
 
@@ -218,11 +186,11 @@ De opleiding, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.ove
 
 - e. het verrichten van de volgende handelingen in het kader van acute zorg:
 
-- i. het toepassen van defibrillatie;
+   - i. het toepassen van defibrillatie;
 
-- ii. het in-, of extuberen van de luchtpijp met een orale of nasale tube;
+   - ii. het in-, of extuberen van de luchtpijp met een orale of nasale tube;
 
-- iii. het toepassen van een drainagepunctie bij een spanningspneumathorax.
+   - iii. het toepassen van een drainagepunctie bij een spanningspneumathorax.
 
 2. De bevoegdheid, genoemd in het eerste lid, geldt uitsluitend voor zover het betreft:
 
@@ -246,20 +214,6 @@ De opleiding, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.ove
 
 3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van bachelor medisch hulpverlener.
 
-##### Artikel 9
-
-Onze Minister zendt binnen vijf jaar na inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
-
-##### Artikel 10
-
-Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-##### Artikel 11
-
-Dit besluit wordt aangehaald als: Tijdelijk besluit zelfstandige bevoegdheid bachelor medisch hulpverlener.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 8a
 
 1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), met uitzondering van artikel 2, [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) en [8 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=8) zijn van toepassing met dien verstande dat:
@@ -280,4 +234,14 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Indien het besluit tot inschrijving op een aanvraag, bedoeld in het eerste lid, wordt genomen op een tijdstip na 1 januari 2019, vindt de inschrijving in afwijking van het eerste lid plaats op het tijdstip van het nemen van het besluit.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 9
+
+Onze Minister zendt binnen vijf jaar na inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
+
+##### Artikel 10
+
+Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+##### Artikel 11
+
+Dit besluit wordt aangehaald als: Tijdelijk besluit zelfstandige bevoegdheid bachelor medisch hulpverlener.

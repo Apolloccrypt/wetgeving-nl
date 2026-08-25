@@ -1,48 +1,18 @@
 ---
 title: "Wet van 10 februari 2017, houdende tijdelijke regels inzake het opleggen van vrijheidsbeperkende maatregelen aan personen die een gevaar vormen voor de nationale veiligheid of die voornemens zijn zich aan te sluiten bij terroristische strijdgroepen en inzake het weigeren en intrekken van beschikkingen bij ernstig gevaar voor gebruik ervan voor terroristische activiteiten (Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding)"
+citeertitel: "Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding"
 identifier: "BWBR0039210"
-country: "nl"
-rank: "wet"
-publication_date: "2022-02-26"
-last_updated: "2022-02-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039210"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "13912523"
-version_id: "28431802"
-internal_id: "C40124891"
-label_id: "13876774"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039210/2022-02-26/0"
-intitule_bron: "Stb.2017-51"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-02-10"
-intitule_published: "2017-02-22"
-intitule_in_force: "2017-02-27"
-intitule_status: "goed"
-original_publication: "Stb.2022-85"
-original_signed_date: "2022-02-23"
-original_published_date: "2022-02-25"
-original_effect: "structuurwijziging"
-original_dossier: "35917"
-original_url_id: "stb-2022-85"
-entry_into_force_date: "2022-02-23"
-entry_into_force_dossier: "35917"
-jci_1_3: "jci1.3:c:BWBR0039210&z=2022-02-26&g=2022-02-26"
-jci_1_0: "1.0:c:BWBR0039210&g=2022-02-26"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding"
-signed_date: "2022-02-23"
-entry_into_force: "2022-02-23"
+publicatiedatum: 2022-02-23
+laatste_update: 2022-02-26
+status: geldig
+toestand: 2022-02-26
+bron: "https://wetten.overheid.nl/BWBR0039210"
+opgehaald: 2026-08-25
 ---
+
 # Wet van 10 februari 2017, houdende tijdelijke regels inzake het opleggen van vrijheidsbeperkende maatregelen aan personen die een gevaar vormen voor de nationale veiligheid of die voornemens zijn zich aan te sluiten bij terroristische strijdgroepen en inzake het weigeren en intrekken van beschikkingen bij ernstig gevaar voor gebruik ervan voor terroristische activiteiten (Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is vrijheidsbeperkende maatregelen op te leggen aan personen die een gevaar vormen voor de nationale veiligheid of die voornemens zijn zich aan te sluiten bij terroristische strijdgroepen en beschikkingen te weigeren en in te trekken bij ernstig gevaar voor gebruik ervan voor terroristische activiteiten;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Inleidende bepalingen
 
@@ -50,11 +20,12 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Justitie en Veiligheid;
+- a. *Onze Minister:* Onze Minister van Justitie en Veiligheid;
 
-- b. **Schengengebied:** het grondgebied van de staten waarop de Schengengrenscode van toepassing is;
+- b. *Schengengebied:* het grondgebied van de staten waarop de Schengengrenscode van toepassing is;
 
-- c. **Schengengrenscode:** [Verordening (EU) 2016/399](32299R2016) van het Europees Parlement en de Raad van 9 maart 2016 betreffende een Uniecode voor de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU 2016, L77).
+- c. *Schengengrenscode:*
+ Verordening (EU) 2016/399 van het Europees Parlement en de Raad van 9 maart 2016 betreffende een Uniecode voor de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU 2016, L77).
 
 #### § 2. Individuele maatregelen
 
@@ -126,6 +97,18 @@ Een bestuursorgaan kan een aanvraag voor een subsidie, vergunning, ontheffing of
 
 #### § 4a. Verwerking van bijzondere persoonsgegevens en persoonsgegevens van strafrechtelijke aard
 
+##### Artikel 7a
+
+1. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, is het verbod om gegevens waaruit ras of etnische afkomst, politieke, religieuze of levensbeschouwelijke overtuigingen blijken en verwerking van gegevens over gezondheid als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) te verwerken niet van toepassing indien de verwerking geschiedt door Onze Minister voor zover de verwerking van deze gegevens noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
+
+2. Gelet op artikel 10 van de Algemene verordening gegevensbescherming mag Onze Minister persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken, indien de verwerking noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
+
+##### Artikel 7b
+
+De in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=4a&artikel=7a&z=2022-02-26&g=2022-02-26) bedoelde persoonsgegevens worden vernietigd zodra zij niet langer noodzakelijk zijn voor de uitoefening van de bevoegdheden op grond van deze wet, in ieder geval uiterlijk 5 jaar na de laatste verwerking.
+
+#### § 5. Slotbepalingen
+
 ##### Artikel 8
 
 1. Opzettelijk handelen in strijd met een verplichting of verbod, opgelegd krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=2&z=2022-02-26&g=2022-02-26), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=3&z=2022-02-26&g=2022-02-26), of de voorschriften, verbonden aan een ontheffing als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=2&artikel=4&z=2022-02-26&g=2022-02-26), wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
@@ -136,50 +119,34 @@ Een bestuursorgaan kan een aanvraag voor een subsidie, vergunning, ontheffing of
 
 ##### Artikel 9
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 10
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 11
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 12
 
-Onze Minister zendt voor 1 september 2024 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt voor 1 september 2024 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 13
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
-2. Deze wet vervalt met ingang van 1 maart 2027.
+2. Deze wet vervalt met ingang van 1 maart 2027.
 
 ##### Artikel 14
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 15
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 16
 
 Deze wet wordt aangehaald als: Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-1. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, is het verbod om gegevens waaruit ras of etnische afkomst, politieke, religieuze of levensbeschouwelijke overtuigingen blijken en verwerking van gegevens over gezondheid als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) te verwerken niet van toepassing indien de verwerking geschiedt door Onze Minister voor zover de verwerking van deze gegevens noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
-
-2. Gelet op artikel 10 van de Algemene verordening gegevensbescherming mag Onze Minister persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken, indien de verwerking noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
-
-##### Artikel 7b
-
-De in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=4a&artikel=7a&z=2022-02-26&g=2022-02-26) bedoelde persoonsgegevens worden vernietigd zodra zij niet langer noodzakelijk zijn voor de uitoefening van de bevoegdheden op grond van deze wet, in ieder geval uiterlijk 5 jaar na de laatste verwerking.
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

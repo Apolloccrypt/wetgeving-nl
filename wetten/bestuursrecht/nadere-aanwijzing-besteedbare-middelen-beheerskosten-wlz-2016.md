@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 december 2016, kenmerk 1046896-158169-Z, houdende nadere aanwijzing besteedbare middelen beheerskosten Wlz 2016"
+citeertitel: "Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2016"
 identifier: "BWBR0038983"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-12-30"
-last_updated: "2016-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038983"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "13846873"
-version_id: "23775872"
-internal_id: "C34210331"
-label_id: "13812074"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038983/2016-12-30/0"
-intitule_bron: "Stcrt.2016-69120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-12-09"
-intitule_published: "2016-12-29"
-intitule_in_force: "2016-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-69120"
-original_signed_date: "2016-12-09"
-original_published_date: "2016-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-69120"
-entry_into_force_date: "2016-12-30"
-jci_1_3: "jci1.3:c:BWBR0038983&z=2016-12-30&g=2016-12-30"
-jci_1_0: "1.0:c:BWBR0038983&g=2016-12-30"
-citeertitel_status: "officieel"
-short_title: "Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2016"
-signed_date: "2016-12-09"
-entry_into_force: "2016-12-30"
+publicatiedatum: 2016-12-30
+laatste_update: 2016-12-30
+status: geldig
+toestand: 2016-12-30
+bron: "https://wetten.overheid.nl/BWBR0038983"
+opgehaald: 2026-08-25
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 december 2016, kenmerk 1046896-158169-Z, houdende nadere aanwijzing besteedbare middelen beheerskosten Wlz 2016
-
-Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -67,5 +41,3 @@ Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte
 ##### Artikel 7
 
 Deze aanwijzing wordt aangehaald als: Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2016.
-
-Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.

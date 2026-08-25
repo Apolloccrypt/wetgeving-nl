@@ -1,48 +1,28 @@
 ---
 title: "Beleidsregel last onder dwangsom van de NIWO"
 identifier: "BWBR0039057"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-01-03"
-last_updated: "2017-01-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039057"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "13863703"
-version_id: "23804182"
-internal_id: "C34246751"
-label_id: "13828984"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039057/2017-01-03/0"
-intitule_bron: "Stcrt.2017-52"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-01-02"
-intitule_in_force: "2017-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-52"
-original_published_date: "2017-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-52"
-entry_into_force_date: "2017-01-03"
-jci_1_3: "jci1.3:c:BWBR0039057&z=2017-01-03&g=2017-01-03"
-jci_1_0: "1.0:c:BWBR0039057&g=2017-01-03"
-citeertitel_status: "officieel"
-entry_into_force: "2017-01-03"
+publicatiedatum: 2017-01-03
+laatste_update: 2017-01-03
+status: geldig
+toestand: 2017-01-03
+bron: "https://wetten.overheid.nl/BWBR0039057"
+opgehaald: 2026-08-25
 ---
-# Beleidsregel last onder dwangsom van de NIWO
 
-De NIWO bepaalt, gelet op de [artikelen 4:81](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [5:32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), [5:32a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32a) en [5:32b van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32b) (Awb) en [artikel 5.2, derde lid, van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=5.2) het navolgende:
+# Beleidsregel last onder dwangsom van de NIWO
 
 ##### Artikel 1. Definitiebepaling
 
 In deze beleidsregel wordt verstaan onder:
 
-- **vervoersdocumenten:** de vervallen of ingetrokken communautaire vergunning, vergunning als bedoeld in [artikel 7.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=7.1) of bestuurdersattest, alsmede de bijbehorende gewaarmerkte kopieën, CEMT-vergunning, ritmachtiging en overbruggingsbewijzen;
+- *vervoersdocumenten:* de vervallen of ingetrokken communautaire vergunning, vergunning als bedoeld in [artikel 7.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=7.1) of bestuurdersattest, alsmede de bijbehorende gewaarmerkte kopieën, CEMT-vergunning, ritmachtiging en overbruggingsbewijzen;
 
-- **overtredende vervoerder:** de natuurlijke persoon of rechtspersoon die in overtreding van [artikel 3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=3.6) is of in geval van faillissement, de curator in hoedanigheid van zijn taakuitoefening;
+- *overtredende vervoerder:* de natuurlijke persoon of rechtspersoon die in overtreding van [artikel 3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=3.6) is of in geval van faillissement, de curator in hoedanigheid van zijn taakuitoefening;
 
-- **wet:** [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800).
+- *wet:*
+ [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800).
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -114,10 +94,8 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 
 ##### Artikel 12. Intrekking
 
-De [beleidsregel van 1 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037047) (**Stcrt. 1 oktober 2015, nr. 32778**) wordt ingetrokken.
+De [beleidsregel van 1 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037047) (*Stcrt. 1 oktober 2015, nr. 32778*) wordt ingetrokken.
 
 ##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: ‘Beleidsregel last onder dwangsom van de NIWO’.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
