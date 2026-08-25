@@ -257,7 +257,7 @@ def main():
 
     # sitemap.xml — alle wet-URLs + hoofdpagina's (zoekmachine-neutraal)
     basis = "https://vrijewetgeving.nl"
-    statisch = ["", "over.html", "api.html", "bevoegdheden.html", "bevoegdhedenketen.html", "rechten.html"]
+    statisch = ["", "over.html", "api.html", "bevoegdheden.html", "bevoegdhedenketen.html", "rechten.html", "privacy.html", "voorwaarden.html"]
     regels = ['<?xml version="1.0" encoding="UTF-8"?>',
               '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for s in statisch:

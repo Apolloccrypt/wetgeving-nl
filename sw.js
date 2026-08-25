@@ -1,12 +1,12 @@
 // vrijewetgeving.nl service worker — offline, volledig same-origin
 // Twee caches: een lichte app-shell en een aparte bak voor zware data (zoekindex 36 MB),
 // zodat quota-eviction van de data de shell niet meesleept.
-const SHELL_CACHE = 'vw-shell-v4';
+const SHELL_CACHE = 'vw-shell-v5';
 const DATA_CACHE  = 'vw-data-v4';
 const BEHOUD = [SHELL_CACHE, DATA_CACHE];
 
 const SHELL = [
-  'index.html','over.html','api.html','wet.html',
+  'index.html','over.html','api.html','wet.html','privacy.html','voorwaarden.html',
   'bevoegdheden.html','bevoegdhedenketen.html','rechten.html',
   'style.css','vendor/fonts.css','vendor/marked.min.js','vendor/minisearch.min.js','vendor/purify.min.js',
   'manifest.webmanifest','icon.svg',

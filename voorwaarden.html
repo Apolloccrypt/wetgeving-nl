@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'self'">
 <meta name="referrer" content="no-referrer">
-<title>Over — vrijewetgeving.nl</title>
-<meta name="description" content="Hoe vrijewetgeving.nl werkt: alle Nederlandse wetten als open data, dagelijks bijgewerkt, met versiegeschiedenis via Git. CC0.">
+<title>Voorwaarden — vrijewetgeving.nl</title>
+<meta name="description" content="Wat je aan vrijewetgeving.nl mag ontlenen en wat niet: geen officiële bekendmaking, geen juridisch advies, wel vrij herbruikbare data.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
 <link rel="stylesheet" href="vendor/fonts.css">
 <link rel="stylesheet" href="style.css">
@@ -14,8 +14,8 @@
 <meta name="theme-color" content="#155E75">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="vrijewetgeving.nl">
-<meta property="og:title" content="Over — vrijewetgeving.nl">
-<meta property="og:description" content="Alle Nederlandse wetten als open data, dagelijks bijgewerkt, met versiegeschiedenis via Git.">
+<meta property="og:title" content="Voorwaarden — vrijewetgeving.nl">
+<meta property="og:description" content="Wat je aan vrijewetgeving.nl mag ontlenen en wat niet: geen officiële bekendmaking, geen juridisch advies, wel vrij herbruikbare data.">
 <meta name="twitter:card" content="summary">
 </head>
 <body>
@@ -33,7 +33,7 @@
     <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
     <a class="nav-btn" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
     <a class="nav-btn" href="rechten.html">Mijn rechten</a>
-    <a class="nav-btn actief" href="over.html" aria-current="page">Over</a>
+    <a class="nav-btn" href="over.html">Over</a>
     <div class="nav-spacer"></div>
     <div class="nav-gh-wrap">
       <button class="nav-gh" id="gh-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="gh-menu">
@@ -56,72 +56,43 @@
 
 <div class="hero hero-compact">
   <div class="hero-inner">
-    <h1>Over <span>vrijewetgeving.nl</span></h1>
-    <div class="hero-sub">Alle Nederlandse wetgeving als open, machine-leesbare data — gratis, doorzoekbaar en met volledige versiegeschiedenis. <a href="index.html">Direct zoeken →</a></div>
-  </div>
-</div>
-
-<div class="uitleg">
-  <div class="uitleg-inner">
-    <h2>Hoe werkt het? <span>→</span></h2>
-    <div class="uitleg-grid">
-      <div class="uitleg-kaart">
-        <div class="nr">01</div>
-        <h3>Elke wet een bestand</h3>
-        <p>Alle Nederlandse wetten staan als Markdown-bestand in een open GitHub-repository. Leesbaar voor mens én machine.</p>
-      </div>
-      <div class="uitleg-kaart">
-        <div class="nr">02</div>
-        <h3>Elke wijziging een commit</h3>
-        <p>Verandert een wet? Dan is dat zichtbaar als een Git-commit. De volledige wetsgeschiedenis is doorzoekbaar.</p>
-      </div>
-      <div class="uitleg-kaart">
-        <div class="nr">03</div>
-        <h3>Dagelijks bijgewerkt</h3>
-        <p>Een geautomatiseerd script haalt elke dag nieuwe en gewijzigde wetten op van wetten.overheid.nl.</p>
-      </div>
-      <div class="uitleg-kaart">
-        <div class="nr">04</div>
-        <h3>Iedereen kan bijdragen</h3>
-        <p>Fout gevonden? Verbeteringsvoorstel? Open een Pull Request op GitHub. De wetgeving is van iedereen.</p>
-      </div>
-    </div>
-    <div class="vs-block">
-      <h3>Waarom niet gewoon wetten.overheid.nl?</h3>
-      <div class="vs-rij">
-        <span class="vs-item vs-goed">✓ Machine-leesbaar (Markdown)</span>
-        <span class="vs-item vs-goed">✓ Versiegeschiedenis via Git</span>
-        <span class="vs-item vs-goed">✓ Gratis te fork'en en hergebruiken</span>
-        <span class="vs-item vs-goed">✓ Open data (JSON)</span>
-        <span class="vs-item vs-niet">✗ wetten.overheid.nl: alleen HTML/PDF</span>
-        <span class="vs-item vs-niet">✗ wetten.overheid.nl: geen open API</span>
-      </div>
-    </div>
+    <h1>Voorwaarden &amp; <span>disclaimer</span></h1>
+    <div class="hero-sub">Wat je hieraan mag ontlenen, en wat niet. Kort, en zonder kleine lettertjes. <a href="privacy.html">Naar de privacyverklaring →</a></div>
   </div>
 </div>
 
 <div class="over-sectie">
   <div class="over-inner">
-    <h2>Bron &amp; licentie</h2>
-    <p>De wetteksten komen van het <strong>Basis Wetten Bestand (BWB)</strong> via wetten.overheid.nl / data.overheid.nl. Wetgeving is publiek domein: de teksten staan onder <strong>CC0</strong>. De code van deze site staat onder de <strong>MIT-licentie</strong>. Je mag alles vrij hergebruiken, ook commercieel.</p>
+    <h2>Dit is niet de offici&euml;le bekendmaking</h2>
+    <p>Het belangrijkste eerst. vrijewetgeving.nl is een <strong>afgeleide, machine-leesbare kopie</strong> van Nederlandse wetgeving. De rechtsgeldige tekst is de tekst zoals de overheid die publiceert op <a href="https://wetten.overheid.nl" target="_blank" rel="noopener">wetten.overheid.nl</a> en <a href="https://officielebekendmakingen.nl" target="_blank" rel="noopener">officielebekendmakingen.nl</a>. Wijkt onze weergave af van de officiële, dan geldt de officiële. Altijd.</p>
+    <p>Gebruik deze site dus om te zoeken, te lezen, te vergelijken en te verwerken. Gebruik haar niet als enige bron voor iets waar een belang aan hangt: een bezwaarschrift, een contract, een procedure. Controleer zo'n tekst bij de bron.</p>
 
-    <h2>Open data &amp; API</h2>
-    <p>De data is gewoon een set statische JSON-bestanden die je direct kunt ophalen:</p>
+    <h2>Geen juridisch advies</h2>
+    <p>Deze site is gereedschap, geen adviseur. De teksten, samenvattingen, de bevoegdhedencheck en de rechtenpagina zijn hulpmiddelen om wetgeving toegankelijk te maken. Ze houden geen rekening met jouw situatie, met jurisprudentie, met beleidsregels of met wat er sinds de laatste update is veranderd. Gaat het ergens om, raadpleeg dan een jurist, een advocaat of het Juridisch Loket.</p>
+
+    <h2>Wat wij wel en niet garanderen</h2>
+    <p>De wetteksten worden dagelijks automatisch opgehaald uit het Basis Wetten Bestand via wetten.overheid.nl en data.overheid.nl. Dat proces is geautomatiseerd, en automatisering maakt fouten: een parser kan een artikel verkeerd knippen, een update kan mislukken, een intrekking kan een dag te laat doorkomen.</p>
+    <p>Wij doen ons best om dat te voorkomen en repareren wat gemeld wordt, maar wij geven <strong>geen garantie op juistheid, volledigheid of actualiteit</strong>. De site wordt aangeboden zoals zij is. Wij aanvaarden geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van deze site, uit fouten in de weergave, of uit het tijdelijk niet beschikbaar zijn ervan. Deze beperking geldt niet bij opzet of bewuste roekeloosheid van onze kant, en laat dwingend consumentenrecht onverlet.</p>
+    <p>Vind je een fout, <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank" rel="noopener">meld hem</a>. Dat is de snelste route naar herstel, en de geschiedenis van elke correctie blijft zichtbaar in de commits.</p>
+
+    <h2>Wat je met de data mag doen</h2>
     <ul class="over-lijst">
-      <li><a href="index.json"><code>/index.json</code></a> — alle wetten met titel, identifier, categorie, soort, datum en status.</li>
-      <li><a href="verwijzingen.json"><code>/verwijzingen.json</code></a> — graaf van kruisverwijzingen tussen wetten.</li>
-      <li><a href="zoekindex.json"><code>/zoekindex.json</code></a> — doorzoekbare wettekst (titel + eerste 2.000 tekens).</li>
+      <li><strong>Wetteksten</strong> zijn publiek domein, <strong>CC0 1.0</strong>. Kopieer, hergebruik, verwerk en verkoop ze zonder ons te vragen.</li>
+      <li><strong>Code en scripts</strong> staan onder de <strong>MIT-licentie</strong>. Fork ze, pas ze aan, gebruik ze commercieel.</li>
+      <li><strong>Community-wetsvoorstellen</strong> in <code>proposals/</code> staan onder <strong>CC BY-SA 4.0</strong>: naamsvermelding en dezelfde licentie bij hergebruik.</li>
     </ul>
-    <p>Een afzonderlijke wet als Markdown haal je direct op van deze site onder <code>/wetten/&lt;categorie&gt;/&lt;slug&gt;.md</code> (het pad staat in <code>index.json</code>), of via de repository op <code>github.com/Apolloccrypt/wetgeving-nl</code>.</p>
-    <p><a href="api.html" style="color:var(--petrol)">→ Volledige API-documentatie met voorbeelden</a></p>
+    <p>Wij vragen geen bronvermelding, maar stellen die wel op prijs, en bij een afgeleid werk help je je eigen lezers ermee. De volledige licentietekst staat in <a href="https://github.com/Apolloccrypt/wetgeving-nl/blob/main/LICENSE" target="_blank" rel="noopener">LICENSE</a> in de repository.</p>
 
-    <h2>Meehelpen</h2>
-    <p>Dit is een open project. Verbeter de parser, meld een fout, of bouw mee aan de website.</p>
-    <div class="over-knoppen">
-      <a class="wet-actie prim" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository op GitHub ↗</a>
-      <a class="wet-actie" href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank" rel="noopener">Fout melden</a>
-      <a class="wet-actie" href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank" rel="noopener">Discussie</a>
-    </div>
+    <h2>Gebruik van de site en de API</h2>
+    <p>De JSON-bestanden en de wetteksten zijn vrij op te halen. Er is geen sleutel, geen limiet en geen registratie. Daar hoort wel wat wederkerigheid bij: haal niet in een strakke lus op wat je ook één keer kunt cachen, en bouw geen dienst die de hosting van deze site als jouw backend gebruikt. Wil je de hele set, <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">kloon dan de repository</a>. Dat is sneller voor jou en vriendelijker voor iedereen.</p>
+    <p>Je mag de site niet gebruiken om haar of anderen aan te vallen, te overbelasten of te misleiden, en niet om de indruk te wekken dat een tekst hier officieel is bekendgemaakt.</p>
+
+    <h2>Bijdragen</h2>
+    <p>Bijdragen lopen via GitHub en vallen onder de <a href="https://github.com/Apolloccrypt/wetgeving-nl/blob/main/CODE_OF_CONDUCT.md" target="_blank" rel="noopener">gedragscode</a> en <a href="https://github.com/Apolloccrypt/wetgeving-nl/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">CONTRIBUTING</a> van het project. Wat je bijdraagt publiceer je onder de licentie die bij dat deel van het project hoort. Beveiligingsproblemen meld je zoals beschreven in <a href="https://github.com/Apolloccrypt/wetgeving-nl/blob/main/SECURITY.md" target="_blank" rel="noopener">SECURITY.md</a>, niet in een openbaar issue.</p>
+
+    <h2>Wie, en welk recht</h2>
+    <p>vrijewetgeving.nl is een project van <strong>Paramantis Works B.V.</strong>, Harderwijk, KVK 42115214. Contact: <a href="mailto:info@paramantis.nl">info@paramantis.nl</a>. Op het gebruik van deze site is Nederlands recht van toepassing. Zie ook de <a href="privacy.html">privacyverklaring</a>.</p>
+    <p><em>Versie 1 &middot; 25 augustus 2026.</em></p>
   </div>
 </div>
 </main>
