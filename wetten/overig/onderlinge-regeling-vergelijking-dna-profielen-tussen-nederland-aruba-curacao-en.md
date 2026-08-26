@@ -1,63 +1,32 @@
 ---
 title: "Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge vergelijking van DNA-profielen ten behoeve van de opsporing, vervolging en berechting van strafbare feiten (Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten)"
+citeertitel: "Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0040318"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040318"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14439813"
-version_id: "24693092"
-internal_id: "C35327731"
-label_id: "14400414"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040318/2017-09-01/0"
-intitule_bron: "Stcrt.2017-69892"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-12-07"
-intitule_in_force: "2017-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-69892"
-original_published_date: "2017-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-69892"
-entry_into_force_date: "2017-09-01"
-jci_1_3: "jci1.3:c:BWBR0040318&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0040318&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten"
-entry_into_force: "2017-09-01"
+publicatiedatum: 2017-09-01
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0040318"
+opgehaald: 2026-08-26
 ---
+
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge vergelijking van DNA-profielen ten behoeve van de opsporing, vervolging en berechting van strafbare feiten (Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten)
-
-Overwegende dat de vier Ministers van Justitie van het Koninkrijk der Nederlanden in het Justitieel Vierpartijenoverleg (JVO) van 5 januari 2016 hebben uitgesproken dat de onderlinge vergelijking van DNA-profielen ten behoeve van de opsporing, vervolging en berechting van strafbare feiten mogelijk moet worden gemaakt;
-
-Overwegende dat het de gerechtvaardigde verwachting is dat het onderling vergelijken van DNA-profielen van Nederland, Aruba, Curaçao en Sint Maarten daaraan kan bijdragen;
-
-Overwegende dat de onderlinge vergelijking van de DNA-profielen van de diverse DNA-databanken mogelijk is onder nationale regelingen in de respectievelijke landen;
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Komen het volgende overeen:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **landen:** Nederland, Aruba, Curaçao en Sint Maarten;
+- a. *landen:* Nederland, Aruba, Curaçao en Sint Maarten;
 
-- b. **persoonsgegeven:** elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
+- b. *persoonsgegeven:* elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
 
-- c. **verwerking van DNA-profielen:** elke handeling of elk geheel van handelingen met betrekking tot DNA-profielen waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, vergelijken, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van DNA-profielen;
+- c. *verwerking van DNA-profielen:* elke handeling of elk geheel van handelingen met betrekking tot DNA-profielen waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, vergelijken, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van DNA-profielen;
 
-- d. **onderlinge vergelijking van DNA-profielen:** de directe toegang tot de strafvorderlijke DNA-profielen van een ander land met het doel die DNA-profielen met een DNA-profiel van het bevragende land te vergelijken; en
+- d. *onderlinge vergelijking van DNA-profielen:* de directe toegang tot de strafvorderlijke DNA-profielen van een ander land met het doel die DNA-profielen met een DNA-profiel van het bevragende land te vergelijken; en
 
-- e. **betrokkene:** degene op wie een DNA-profiel betrekking heeft.
+- e. *betrokkene:* degene op wie een DNA-profiel betrekking heeft.
 
 ##### Artikel 2
 
@@ -144,5 +113,3 @@ Deze onderlinge regeling treedt in werking met ingang van 1 september 2017.
 ##### Artikel 10
 
 Deze onderlinge regeling wordt aangehaald als: Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten.
-
-Deze onderlinge regeling zal met de toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.

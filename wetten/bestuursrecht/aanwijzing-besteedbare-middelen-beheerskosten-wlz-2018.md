@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 november 2017, kenmerk 1251427-169794-Z, houdende aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2018 (Aanwijzing besteedbare middelen beheerskosten Wlz 2018)"
+citeertitel: "Aanwijzing besteedbare middelen beheerskosten Wlz 2018"
 identifier: "BWBR0040273"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040273"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14430193"
-version_id: "24673502"
-internal_id: "C35301111"
-label_id: "14390724"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040273/2018-01-01/0"
-intitule_bron: "Stcrt.2017-68756"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-23"
-intitule_published: "2017-12-01"
-intitule_in_force: "2017-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-68756"
-original_signed_date: "2017-11-23"
-original_published_date: "2017-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-68756"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040273&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040273&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing besteedbare middelen beheerskosten Wlz 2018"
-signed_date: "2017-11-23"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040273"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 november 2017, kenmerk 1251427-169794-Z, houdende aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2018 (Aanwijzing besteedbare middelen beheerskosten Wlz 2018)
-
-Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,5 +29,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2018.
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Aanwijzing besteedbare middelen beheerskosten Wlz 2018.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

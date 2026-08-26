@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 november 2017, nr. 2017-0000168256, houdende de inrichting van de directie Organisatie, Bedrijfsvoering en Personeel, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bedrijfsvoering (Organisatie-, mandaat- en volmachtbesluit OBP 2017)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit OBP 2017"
 identifier: "BWBR0040182"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-16"
-last_updated: "2026-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040182"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14346383"
-version_id: "24572482"
-internal_id: "C35189381"
-label_id: "14307134"
-dtd_version: "2.0"
-original_entry_into_force: "2017-11-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040182/2026-04-16/0"
-intitule_bron: "Stcrt.2017-63796"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-01"
-intitule_published: "2017-11-09"
-intitule_in_force: "2017-11-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-63796"
-original_signed_date: "2017-11-01"
-original_published_date: "2017-11-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-63796"
-entry_into_force_date: "2017-11-10"
-jci_1_3: "jci1.3:c:BWBR0040182&z=2026-04-16&g=2026-04-16"
-jci_1_0: "1.0:c:BWBR0040182&g=2026-04-16"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit OBP 2017"
-signed_date: "2017-11-01"
-entry_into_force: "2017-11-10"
+publicatiedatum: 2017-11-10
+laatste_update: 2026-04-16
+status: geldig
+toestand: 2026-04-16
+bron: "https://wetten.overheid.nl/BWBR0040182"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 november 2017, nr. 2017-0000168256, houdende de inrichting van de directie Organisatie, Bedrijfsvoering en Personeel, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bedrijfsvoering (Organisatie-, mandaat- en volmachtbesluit OBP 2017)
-
-Gelet op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=3), en [8 van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=8);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,29 +20,29 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** de directie Organisatie, Bedrijfsvoering en Personeel;
+- a. *directie:* de directie Organisatie, Bedrijfsvoering en Personeel;
 
-- b. **directeur:** de directeur Organisatie, Bedrijfsvoering en Personeel
+- b. *directeur:* de directeur Organisatie, Bedrijfsvoering en Personeel
 
-- c. **SSO:** Shared Service Organisatie;
+- c. *SSO:* Shared Service Organisatie;
 
-- d. **hrm:** human resource management;
+- d. *hrm:* human resource management;
 
-- e. **liaison- en afnemerstaken:** alle werkzaamheden die voortvloeien uit deelname van het Ministerie van Sociale Zaken en Werkgelegenheid aan een SSO of aan een interdepartementaal samenwerkingsverband of uit contracten met andere leveranciers in het betreffende domein;
+- e. *liaison- en afnemerstaken:* alle werkzaamheden die voortvloeien uit deelname van het Ministerie van Sociale Zaken en Werkgelegenheid aan een SSO of aan een interdepartementaal samenwerkingsverband of uit contracten met andere leveranciers in het betreffende domein;
 
-- f. **FMH:** FM Haaglanden, facilitair interdepartementaal samenwerkingsverband;
+- f. *FMH:* FM Haaglanden, facilitair interdepartementaal samenwerkingsverband;
 
-- g. **SSC-ICT:** Shared Service Centrum-ICT;
+- g. *SSC-ICT:* Shared Service Centrum-ICT;
 
-- h. **RIS:** Rijksinkoop Samenwerking;
+- h. *RIS:* Rijksinkoop Samenwerking;
 
-- i. **CDI:** Coördinerend directeur inkoop;
+- i. *CDI:* Coördinerend directeur inkoop;
 
-- j. **O&P Rijk:** Organisatie & Personeel Rijk;
+- j. *O&P Rijk:* Organisatie & Personeel Rijk;
 
-- k. **P-Direkt:** Salaris- en personeelsadministratie dienstverlener binnen het Rijk;
+- k. *P-Direkt:* Salaris- en personeelsadministratie dienstverlener binnen het Rijk;
 
-- l. **RvIHH:** Rijksorganisatie voor Informatiehuishouding.
+- l. *RvIHH:* Rijksorganisatie voor Informatiehuishouding.
 
 #### § 2. Organisatie
 
@@ -90,7 +64,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -190,43 +164,43 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 - i. het uitvoeren van de taken van de CDI, inhoudende:
 
-  - 1°. het zorgdragen voor kaders en handreikingen voor het ministerie ten behoeve van de taken, bevoegdheden en verantwoordelijkheden en verduidelijking daarvan op het terrein van inkoop;
+   - 1°. het zorgdragen voor kaders en handreikingen voor het ministerie ten behoeve van de taken, bevoegdheden en verantwoordelijkheden en verduidelijking daarvan op het terrein van inkoop;
 
-  - 2°. het zorgdragen voor kaders en handreikingen voor de rechtmatige en de doelmatige inkoop door het ministerie;
+   - 2°. het zorgdragen voor kaders en handreikingen voor de rechtmatige en de doelmatige inkoop door het ministerie;
 
-  - 3°. het in samenspraak met behoeftestellers, opdrachtgevers en beleidsmakers creëren van draagvlak binnen het ministerie ten behoeve van de realisatie van rijksbrede beleidsdoelstellingen met behulp van inkoopinstrumenten;
+   - 3°. het in samenspraak met behoeftestellers, opdrachtgevers en beleidsmakers creëren van draagvlak binnen het ministerie ten behoeve van de realisatie van rijksbrede beleidsdoelstellingen met behulp van inkoopinstrumenten;
 
-  - 4°. het vooraf beoordelen van grote of risicovolle inkooptrajecten, en toezicht houden op aanwezigheid van voldoende controle op de inkoopuitvoering bij het beoordelen van deze inkooptrajecten;
+   - 4°. het vooraf beoordelen van grote of risicovolle inkooptrajecten, en toezicht houden op aanwezigheid van voldoende controle op de inkoopuitvoering bij het beoordelen van deze inkooptrajecten;
 
-  - 5°. het maken van risico-analyses over inkoop en over de opvolging van bevindingen van de Auditdienst Rijk en de Algemene Rekenkamer over inkoop;
+   - 5°. het maken van risico-analyses over inkoop en over de opvolging van bevindingen van de Auditdienst Rijk en de Algemene Rekenkamer over inkoop;
 
-  - 6°. het intern adviseren over de inrichting van de inkoopfunctie en over inkoopsystemen;
+   - 6°. het intern adviseren over de inrichting van de inkoopfunctie en over inkoopsystemen;
 
-  - 7°. het monitoren van de naleving van de vastgestelde rijksbrede kaders en de departementale kaders;
+   - 7°. het monitoren van de naleving van de vastgestelde rijksbrede kaders en de departementale kaders;
 
-  - 8°. het namens het lid van de Interdepartementale Commissie Bedrijfsvoering Rijksdienst dat eigenaar van de categorie is, zorgdragen voor het monitoren van de realisatie van het categorieplan, onderscheidenlijk de categorieplannen, waarvoor het ministerie verantwoordelijk is, inclusief de afgesproken rapportages;
+   - 8°. het namens het lid van de Interdepartementale Commissie Bedrijfsvoering Rijksdienst dat eigenaar van de categorie is, zorgdragen voor het monitoren van de realisatie van het categorieplan, onderscheidenlijk de categorieplannen, waarvoor het ministerie verantwoordelijk is, inclusief de afgesproken rapportages;
 
-  - 9°. het interveniëren en escaleren naar het bevoegd gezag indien de voornoemde kaders niet worden nageleefd;
+   - 9°. het interveniëren en escaleren naar het bevoegd gezag indien de voornoemde kaders niet worden nageleefd;
 
-  - 10°. het bevorderen van de professionaliteit en de professionele integriteit van de inkoop binnen het ministerie;
+   - 10°. het bevorderen van de professionaliteit en de professionele integriteit van de inkoop binnen het ministerie;
 
-  - 11°. het adviseren over politiek bestuurlijke kwesties en de concept beantwoording van vragen van de Tweede Kamer der Staten-Generaal in het verlengde van hetgeen waar de bewindspersoon politiek verantwoordelijk voor is;
+   - 11°. het adviseren over politiek bestuurlijke kwesties en de concept beantwoording van vragen van de Tweede Kamer der Staten-Generaal in het verlengde van hetgeen waar de bewindspersoon politiek verantwoordelijk voor is;
 
-  - 12°. het houden van toezicht op welke wijze de departementale inkooppunten navolging geven aan de vastgestelde kaders;
+   - 12°. het houden van toezicht op welke wijze de departementale inkooppunten navolging geven aan de vastgestelde kaders;
 
-  - 13°. het maken van afspraken met de Chief Procurement Officer Rijk over de toepasselijkheid van kaderstelling vanuit het Rijksinkoopstelsel op Specifieke Inkoopcentra of dienstspecifieke inkoop;
+   - 13°. het maken van afspraken met de Chief Procurement Officer Rijk over de toepasselijkheid van kaderstelling vanuit het Rijksinkoopstelsel op Specifieke Inkoopcentra of dienstspecifieke inkoop;
 
-  - 14°. het informeren van de Chief Procurement Officer Rijk wanneer een media- of politiek gevoelige situatie speelt of wordt voorzien die raakt aan de stelselverantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+   - 14°. het informeren van de Chief Procurement Officer Rijk wanneer een media- of politiek gevoelige situatie speelt of wordt voorzien die raakt aan de stelselverantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-  - 15°. het informeren van de Chief Procurement Officer Rijk over trendmatige afwijkingen van de toepassing van rijksbrede kaders. Het optimaliseren van de werking van het Rijksinkoopstelsel in het ministerie op het terrein van de generieke inkoop;
+   - 15°. het informeren van de Chief Procurement Officer Rijk over trendmatige afwijkingen van de toepassing van rijksbrede kaders. Het optimaliseren van de werking van het Rijksinkoopstelsel in het ministerie op het terrein van de generieke inkoop;
 
-  - 16°. het optimaliseren van de werking van het Rijksinkoopstelsel in interdepartementaal verband door een actieve bijdrage in de Interdepartementale Commissie Inkopen en Aanbesteden en andere relevante inkoopoverleggen;
+   - 16°. het optimaliseren van de werking van het Rijksinkoopstelsel in interdepartementaal verband door een actieve bijdrage in de Interdepartementale Commissie Inkopen en Aanbesteden en andere relevante inkoopoverleggen;
 
-  - 17°. het voorleggen van meningsverschillen met een Inkoop Uitvoeringscentrum of opdrachtgever aan het departementale bevoegd gezag. Indien een Inkoop Uitvoeringscentrum of opdrachtgever onder een ander departement valt, het voorleggen via de CDI van het departement waar het Inkoop Uitvoeringscentrum of de opdrachtgever deel van uitmaakt. Als de bemiddeling op CDI-niveau niet leidt tot een oplossing: het voorleggen van de betreffende kwestie aan de Chief Procurement Officer Rijk voor een bindende uitspraak;
+   - 17°. het voorleggen van meningsverschillen met een Inkoop Uitvoeringscentrum of opdrachtgever aan het departementale bevoegd gezag. Indien een Inkoop Uitvoeringscentrum of opdrachtgever onder een ander departement valt, het voorleggen via de CDI van het departement waar het Inkoop Uitvoeringscentrum of de opdrachtgever deel van uitmaakt. Als de bemiddeling op CDI-niveau niet leidt tot een oplossing: het voorleggen van de betreffende kwestie aan de Chief Procurement Officer Rijk voor een bindende uitspraak;
 
-  - 18°. het benoemen van dan wel adviseren bij de selectie en benoeming van hoofden Inkoop Uitvoeringscentrum en Specifieke Inkoopcentrum en categorie-managers, Strategisch Leveranciers-managers en Software Asset-managers;
+   - 18°. het benoemen van dan wel adviseren bij de selectie en benoeming van hoofden Inkoop Uitvoeringscentrum en Specifieke Inkoopcentrum en categorie-managers, Strategisch Leveranciers-managers en Software Asset-managers;
 
-  - 19°. het adviseren bij de selectie en benoeming van de Chief Procurement Officer Rijk;
+   - 19°. het adviseren bij de selectie en benoeming van de Chief Procurement Officer Rijk;
 
 - j. het houden van toezicht op de naleving van geldende wetgeving en de rijksbrede en departementale kaders en regelingen op de aandachtsgebieden van de afdeling.
 
@@ -254,9 +228,9 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 ##### Artikel 10
 
-1. Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid.
+1. Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid.
 
-2. Aan de teamleiders van de afdelingen wordt mandaat en machtiging verleend met betrekking tot een waarde van € 5.000,- inclusief BTW tot het aangaan van de volgende overeenkomsten:
+2. Aan de teamleiders van de afdelingen wordt mandaat en machtiging verleend met betrekking tot een waarde van € 5.000,- inclusief BTW tot het aangaan van de volgende overeenkomsten:
 
 - a. overeenkomsten met betrekking tot het organiseren en accorderen van activiteiten binnen de eigen organisatorische eenheid;
 
@@ -276,8 +250,6 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit Bedrijfsvoering 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0039212) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 april 2017.
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 april 2017.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit OBP 2017.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

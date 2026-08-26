@@ -1,56 +1,32 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken en Klimaat van 11 december 2017, nr. WJZ/17177946, houdende beleidsregels inzake de wijziging van vergunningen windenergie op zee voor de kavels I en II Hollandse Kust (zuid)"
+citeertitel: "Beleidsregel wijziging van vergunningen windenergie op zee voor de kavels I en II Hollandse Kust (zuid)"
 identifier: "BWBR0040362"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040362"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "14450003"
-version_id: "24710662"
-internal_id: "C35348531"
-label_id: "14410544"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040362/2018-01-01/0"
-intitule_bron: "Stcrt.2017-71209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-11"
-intitule_published: "2017-12-12"
-intitule_in_force: "2017-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-71209"
-original_signed_date: "2017-12-11"
-original_published_date: "2017-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-71209"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040362&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040362&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel wijziging van vergunningen windenergie op zee voor de kavels I en II Hollandse Kust (zuid)"
-signed_date: "2017-12-11"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040362"
+opgehaald: 2026-08-26
 ---
+
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 11 december 2017, nr. WJZ/17177946, houdende beleidsregels inzake de wijziging van vergunningen windenergie op zee voor de kavels I en II Hollandse Kust (zuid)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81)en [artikel 17, vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- **aanvraag:** aanvraag om wijziging van een vergunning als bedoeld in [artikel 17, vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17);
+- *aanvraag:* aanvraag om wijziging van een vergunning als bedoeld in [artikel 17, vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17);
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **regeling:** [Regeling vergunningverlening windenergie op zee kavels I en II Hollandse Kust (zuid)](https://wetten.overheid.nl/jci1.3:c:BWBR0040074);
+- *regeling:*
+ [Regeling vergunningverlening windenergie op zee kavels I en II Hollandse Kust (zuid)](https://wetten.overheid.nl/jci1.3:c:BWBR0040074);
 
-- **wet:** [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
+- *wet:*
+ [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
 
 ##### Artikel 2
 
@@ -101,5 +77,3 @@ Deze beleidsregel treedt in werking met ingang van 1 januari 2018.
 ##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel wijziging van vergunningen windenergie op zee voor de kavels I en II Hollandse Kust (zuid).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

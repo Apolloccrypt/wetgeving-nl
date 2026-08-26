@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 15 december 2017, houdende bepalingen voor een experiment met instellingsaccreditatie met lichtere opleidingsaccreditatie gericht op onder meer een vermindering van de lasten die gepaard gaan met de accreditatie in het hoger onderwijs (Besluit experiment instellingsaccreditatie met lichtere opleidingsaccreditatie)"
+citeertitel: "Besluit experiment instellingsaccreditatie met lichtere opleidingsaccreditatie"
 identifier: "BWBR0040407"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-02-01"
-last_updated: "2019-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040407"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "14457173"
-version_id: "24728272"
-internal_id: "C35377341"
-label_id: "14417954"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040407/2019-02-01/0"
-intitule_bron: "Stb.2017-500"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-15"
-intitule_published: "2017-12-22"
-intitule_in_force: "2017-12-22"
-intitule_status: "goed"
-original_publication: "Stb.2017-500"
-original_signed_date: "2017-12-15"
-original_published_date: "2017-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-500"
-entry_into_force_date: "2017-12-23"
-jci_1_3: "jci1.3:c:BWBR0040407&z=2019-02-01&g=2019-02-01"
-jci_1_0: "1.0:c:BWBR0040407&g=2019-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit experiment instellingsaccreditatie met lichtere opleidingsaccreditatie"
-signed_date: "2017-12-15"
-entry_into_force: "2017-12-23"
+publicatiedatum: 2017-12-23
+laatste_update: 2019-02-01
+status: geldig
+toestand: 2019-02-01
+bron: "https://wetten.overheid.nl/BWBR0040407"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van 15 december 2017, houdende bepalingen voor een experiment met instellingsaccreditatie met lichtere opleidingsaccreditatie gericht op onder meer een vermindering van de lasten die gepaard gaan met de accreditatie in het hoger onderwijs (Besluit experiment instellingsaccreditatie met lichtere opleidingsaccreditatie)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 25 april 2017, nr. WJZ/1084526 (7158), directie Wetgeving en Juridische Zaken, in overeenstemming met Onze Minister van Economische Zaken;
-
-Gelet op de [artikelen 1.7a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.7a), en [5a.2, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.2);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 24 augustus 2017, nr. W05.17.0122/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 15 december 2017, nr. 1262175 (7158), directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -52,53 +20,54 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **accreditatiekader:** accreditatiekader als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *accreditatiekader:* accreditatiekader als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **deelnemende instelling:** instelling voor hoger onderwijs die op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2019-02-01&g=2019-02-01) is geselecteerd voor deelname aan het experiment;
+- *deelnemende instelling:* instelling voor hoger onderwijs die op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2019-02-01&g=2019-02-01) is geselecteerd voor deelname aan het experiment;
 
-- **erkenning ITK:** erkenning ITK als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *erkenning ITK:* erkenning ITK als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **instelling voor hoger onderwijs:** instelling voor hoger onderwijs als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *instelling voor hoger onderwijs:* instelling voor hoger onderwijs als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **instellingsaccreditatie:** instellingsaccreditatie, verleend op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2019-02-01&g=2019-02-01);
+- *instellingsaccreditatie:* instellingsaccreditatie, verleend op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2019-02-01&g=2019-02-01);
 
-- **instellingsbestuur:** instellingsbestuur als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *instellingsbestuur:* instellingsbestuur als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **kwaliteitsaspecten I:**
+- *kwaliteitsaspecten I:*
 
-- a. het beoogde eindniveau van de opleiding, gelet op hetgeen internationaal gewenst en gangbaar is; en
+   - a. het beoogde eindniveau van de opleiding, gelet op hetgeen internationaal gewenst en gangbaar is; en
 
-- b. het gerealiseerde eindniveau van de opleiding, gelet op hetgeen internationaal gewenst en gangbaar is;
+   - b. het gerealiseerde eindniveau van de opleiding, gelet op hetgeen internationaal gewenst en gangbaar is;
 
-- **kwaliteitsaspecten II:**
+- *kwaliteitsaspecten II:*
 
-- a. voor zover het een deelnemende instelling betreft waaraan een erkenning ITK is verleend:
+   - a. voor zover het een deelnemende instelling betreft waaraan een erkenning ITK is verleend:
 
-- 1°. de inhoud en opzet van het onderwijsprogramma;
+      - 1°. de inhoud en opzet van het onderwijsprogramma;
 
-- 2°. de kwaliteit van het docententeam; en
+      - 2°. de kwaliteit van het docententeam; en
 
-- 3°. de deugdelijkheid van de beoordeling, toetsing en examinering van de studenten;
+      - 3°. de deugdelijkheid van de beoordeling, toetsing en examinering van de studenten;
 
-- b. voor zover het een deelnemende instelling betreft waaraan geen erkenning ITK is verleend:
+   - b. voor zover het een deelnemende instelling betreft waaraan geen erkenning ITK is verleend:
 
-- 1°. de inhoud en opzet van het onderwijsprogramma;
+      - 1°. de inhoud en opzet van het onderwijsprogramma;
 
-- 2°. de kwaliteit van het docententeam;
+      - 2°. de kwaliteit van het docententeam;
 
-- 3°. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding, daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen;
+      - 3°. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding, daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen;
 
-- 4°. de vormgeving en effectiviteit van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding; en
+      - 4°. de vormgeving en effectiviteit van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding; en
 
-- 5°. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten;
+      - 5°. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten;
 
-- **medezeggenschapsraad:** gezamenlijke vergadering als bedoeld in [artikel 9.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.30a), [10.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.16b), of [11.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.13), universiteitsraad als bedoeld in [artikel 9.31](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.31) of 11.13 van de wet, of medezeggenschapsraad als bedoeld in [artikel 10.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.17);
+- *medezeggenschapsraad:* gezamenlijke vergadering als bedoeld in [artikel 9.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.30a), [10.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.16b), of [11.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.13), universiteitsraad als bedoeld in [artikel 9.31](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.31) of 11.13 van de wet, of medezeggenschapsraad als bedoeld in [artikel 10.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.17);
 
-- **NVAO:** accreditatieorgaan als bedoeld in [artikel 5.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.2);
+- *NVAO:* accreditatieorgaan als bedoeld in [artikel 5.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.2);
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+- *wet:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 ### Hoofdstuk 2. Doel, duur en inhoud van het experiment
 
@@ -118,23 +87,23 @@ Het doel van het experiment is te onderzoeken of de introductie van instellingsa
 
 Onverminderd [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2019-02-01&g=2019-02-01), vangt het experiment aan op 1 september 2018 en eindigt op 30 september 2024.
 
-#### Paragraaf 2.2. Afwijkingen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+#### Paragraaf 2.2. Afwijkingen van de wet
 
-##### Artikel 4. Afwijking van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682); visitatiepanel en visitatiegroep
+##### Artikel 4. Afwijking van de wet; visitatiepanel en visitatiegroep
 
 In afwijking van [artikel 5.2, tweede lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.2), en [artikel 5.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.14), is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.5&artikel=13&z=2019-02-01&g=2019-02-01) van toepassing.
 
-##### Artikel 5. Afwijking van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682); accreditatiekader
+##### Artikel 5. Afwijking van de wet; accreditatiekader
 
 1. Het accreditatieorgaan werkt in afwijking van [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.3) voor de verlening van de accreditatie in het kader van dit experiment volgens de wijze beschreven in de bijlage bij dit besluit. Voor zover in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&bijlage=1&z=2019-02-01&g=2019-02-01), behorende bij dit besluit, geen afwijking is beschreven, is het accreditatiekader, bedoeld in artikel 5.3 van de wet, van toepassing.
 
 2. Voor de beoordeling van de kwaliteitsaspecten II wordt in afwijking van [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.3) ten minste voldaan aan de voorschriften die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&bijlage=2&z=2019-02-01&g=2019-02-01), behorende bij dit besluit.
 
-##### Artikel 6. Afwijking van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682); lichte opleidingsaccreditatie
+##### Artikel 6. Afwijking van de wet; lichte opleidingsaccreditatie
 
 Indien aan een instellingsbestuur instellingsaccreditatie is verleend worden de opleidingen aan die instelling, in afwijking van de [artikelen 5.11 tot en met 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.11) en [5.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.25), bij accreditatie beoordeeld op grond van [paragraaf 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.5&z=2019-02-01&g=2019-02-01).
 
-##### Artikel 7. Afwijking van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682); medezeggenschap
+##### Artikel 7. Afwijking van de wet; medezeggenschap
 
 In afwijking van de [artikelen 9.30a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.30a), [9.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.33), [10.16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.16b), [10.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.20), respectievelijk [11.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.13), zijn op de deelname aan het experiment de [artikelen 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.3&artikel=9&z=2019-02-01&g=2019-02-01), en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.5&artikel=12&z=2019-02-01&g=2019-02-01), van toepassing.
 
@@ -152,9 +121,9 @@ In afwijking van de [artikelen 9.30a, tweede lid](https://wetten.overheid.nl/jci
 
 - a. het instellingsbestuur:
 
-- 1°. van een bekostigde instelling voor hoger onderwijs, instemming van de medezeggenschapsraad heeft verkregen voor deelname aan het experiment met bepaalde opleidingen, of
+   - 1°. van een bekostigde instelling voor hoger onderwijs, instemming van de medezeggenschapsraad heeft verkregen voor deelname aan het experiment met bepaalde opleidingen, of
 
-- 2°. van een niet-bekostigde instelling voor hoger onderwijs, voldoende draagvlak voor deelname aan het experiment met bepaalde opleidingen aantoont onder studenten en docenten;
+   - 2°. van een niet-bekostigde instelling voor hoger onderwijs, voldoende draagvlak voor deelname aan het experiment met bepaalde opleidingen aantoont onder studenten en docenten;
 
 - b. aan de opleidingen waarmee het instellingsbestuur wenst deel te nemen aan het experiment, accreditatie bestaande opleiding als bedoeld in [artikel 5.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.11) is verleend;
 
@@ -306,50 +275,28 @@ Onze Minister evalueert het experiment in ieder geval op basis van de volgende a
 
 - a. de kwaliteitscultuur binnen de deelnemende instelling, waarbij in ieder geval wordt onderzocht op welke wijze;
 
-- 1°. de geboden experimenteerruimte ten aanzien van de invulling van de kwaliteitsaspecten II van invloed is geweest op het interne kwaliteitszorgsysteem en op het accreditatieproces;
+   - 1°. de geboden experimenteerruimte ten aanzien van de invulling van de kwaliteitsaspecten II van invloed is geweest op het interne kwaliteitszorgsysteem en op het accreditatieproces;
 
-- 2°. de geboden experimenteerruimte om verschillende panels in te richten voor de kwaliteitsaspecten I en de kwaliteitsaspecten II van invloed is geweest op het accreditatieproces;
+   - 2°. de geboden experimenteerruimte om verschillende panels in te richten voor de kwaliteitsaspecten I en de kwaliteitsaspecten II van invloed is geweest op het accreditatieproces;
 
-- 3°. de deelnemende instellingen uitwerking hebben gegeven aan onderlinge vergelijkbaarheid van de kwaliteitsaspecten I;
+   - 3°. de deelnemende instellingen uitwerking hebben gegeven aan onderlinge vergelijkbaarheid van de kwaliteitsaspecten I;
 
-- 4°. de deelnemende instellingen vorm hebben geven aan openbaarmaking van het rapport, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.5&artikel=16&z=2019-02-01&g=2019-02-01);
+   - 4°. de deelnemende instellingen vorm hebben geven aan openbaarmaking van het rapport, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.5&artikel=16&z=2019-02-01&g=2019-02-01);
 
-- 5°. door de deelnemende instellingen uitwerking is gegeven aan de overige ruimte die het experiment biedt om het accreditatieproces in te richten;
+   - 5°. door de deelnemende instellingen uitwerking is gegeven aan de overige ruimte die het experiment biedt om het accreditatieproces in te richten;
 
 - b. het eigenaarschap van studenten en docenten, waarbij in ieder geval wordt onderzocht op welke wijze de geboden experimenteerruimte van invloed is geweest op de rol en het vertrouwen van studenten en docenten in het accreditatieproces;
 
 - c. de doelmatigheid van instellingsaccreditatie met lichtere opleidingsaccreditatie, waarbij in ieder geval wordt onderzocht welk effect de instellingsaccreditatie heeft op;
 
-- 1°. de administratieve lasten in het accreditatieproces;
+   - 1°. de administratieve lasten in het accreditatieproces;
 
-- 2°. de lasten en de ervaren lasten van studenten en docenten in het accreditatieproces;
+   - 2°. de lasten en de ervaren lasten van studenten en docenten in het accreditatieproces;
 
-- 3°. de baten van het accreditatieproces.
+   - 3°. de baten van het accreditatieproces.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ##### Artikel 26. Inwerkingtreding en vervaldatum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en vervalt met ingang van 1 oktober 2024, met dien verstande dat dit besluit van toepassing blijft op een op grond van dit besluit verleende accreditatie.
-
-## Bijlage 1. behorende bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2019-02-01&g=2019-02-01), van het Besluit experiment instellingsaccreditatie met lichtere opleidingsaccreditatie
-
-In afwijking van en in aanvulling op het accreditatiekader, bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.3), geldt voor de verlening van accreditatie in het kader van dit experiment de volgende werkwijze.
-
-- 1. Het panel bestaat uit ten minste drie externe leden, waaronder begrepen het studentlid en de voorzitter.
-
-- 2. Het is toegestaan voor het panel een interne secretaris te benoemen zolang die niet is verbonden aan de opleiding.
-
-- 3. Aan de deelnemende opleiding wordt in de beoordeling uitsluitend het eindoordeel «voldoende» of «onvoldoende» verleend.
-
-- 4. Bij de aanvraag tot verlening van opleidingsaccreditatie worden de bijlagen die betrekking hebben op de kwaliteitsaspecten I niet bijgevoegd.
-
-## Bijlage 2. behorende bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040407&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2019-02-01&g=2019-02-01), van het Besluit experiment instellingsaccreditatie met lichtere opleidingsaccreditatie
-
-### Deel A. Standaarden waaraan de beoordeling op kwaliteitsaspecten II door de commissie van deskundigen ten minste dient te voldoen
-
-### Deel B. Standaarden die ten minste onderdeel zijn van de beoordeling op kwaliteitsaspecten II door de commissie van deskundigen
-
-### Deel C. Aanvullende standaarden die onderdeel zijn van de beoordeling op kwaliteitsaspecten II door de commissie van deskundigen wanneer de instelling niet beschikt over een instellingstoets kwaliteitszorg
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

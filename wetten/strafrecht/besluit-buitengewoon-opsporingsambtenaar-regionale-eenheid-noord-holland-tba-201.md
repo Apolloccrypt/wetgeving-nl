@@ -1,52 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 6 september 2017 nr. BOACAT2017/057, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Noord-Holland, Team Buitengerechtelijke Afdoening"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Regionale Eenheid Noord-Holland, TBA, 2017"
 identifier: "BWBR0039980"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-09-16"
-last_updated: "2017-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039980"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14167303"
-version_id: "24366042"
-internal_id: "C34963791"
-label_id: "14128004"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039980/2017-09-16/0"
-intitule_bron: "Stcrt.2017-51979"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-09-06"
-intitule_published: "2017-09-15"
-intitule_in_force: "2017-09-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-51979"
-original_signed_date: "2017-09-06"
-original_published_date: "2017-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-51979"
-entry_into_force_date: "2017-09-16"
-jci_1_3: "jci1.3:c:BWBR0039980&z=2017-09-16&g=2017-09-16"
-jci_1_0: "1.0:c:BWBR0039980&g=2017-09-16"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Regionale Eenheid Noord-Holland, TBA, 2017"
-signed_date: "2017-09-06"
-entry_into_force: "2017-09-16"
+publicatiedatum: 2017-09-16
+laatste_update: 2017-09-16
+status: geldig
+toestand: 2017-09-16
+bron: "https://wetten.overheid.nl/BWBR0039980"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 6 september 2017 nr. BOACAT2017/057, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Noord-Holland, Team Buitengerechtelijke Afdoening
-
-Gelezen het verzoek van de Regionale Eenheid Noord-Holland van 30 augustus 2017 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Noord-Holland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -58,7 +24,7 @@ Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, als genoemd in [onderdeel 11.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, als genoemd in [onderdeel 11.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/BWBR0039766).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -103,5 +69,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Regionale Eenheid Noord-Holland, TBA, 2017.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

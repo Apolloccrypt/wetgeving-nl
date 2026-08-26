@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken en Klimaat van 11 december 2017, nr. WJZ / 17080334, houdende regels inzake mandaat, volmacht en machtiging aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek voor aangelegenheden met betrekking tot subsidieverstrekking op grond van paragraaf 3.16.3a van de Regeling nationale EZ-subsidies (Besluit mandaat, volmacht en machtiging bestuur NWO inzake subsidieverstrekking op grond van paragraaf 3.16.3a van de Regeling nationale EZ-subsidies)"
+citeertitel: "Besluit mandaat, volmacht en machtiging bestuur NWO inzake subsidieverstrekking op grond van paragraaf 3.16.3a, paragraaf 3.16.4 en titel 3.23 van de Regeling nationale EZK- en LNV-subsidies"
 identifier: "BWBR0040361"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040361"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "14449823"
-version_id: "24710462"
-internal_id: "C35348331"
-label_id: "14410414"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040361/2020-01-01/0"
-intitule_bron: "Stcrt.2017-71867"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-11"
-intitule_published: "2017-12-12"
-intitule_in_force: "2017-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-71867"
-original_signed_date: "2017-12-11"
-original_published_date: "2017-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-71867"
-entry_into_force_date: "2017-12-13"
-jci_1_3: "jci1.3:c:BWBR0040361&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0040361&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging bestuur NWO inzake subsidieverstrekking op grond van paragraaf 3.16.3a, paragraaf 3.16.4 en titel 3.23 van de Regeling nationale EZK- en LNV-subsidies"
-signed_date: "2017-12-11"
-entry_into_force: "2017-12-13"
+publicatiedatum: 2017-12-13
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0040361"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Economische Zaken en Klimaat van 11 december 2017, nr. WJZ / 17080334, houdende regels inzake mandaat, volmacht en machtiging aan de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek voor aangelegenheden met betrekking tot subsidieverstrekking op grond van paragraaf 3.16.3a van de Regeling nationale EZ-subsidies (Besluit mandaat, volmacht en machtiging bestuur NWO inzake subsidieverstrekking op grond van paragraaf 3.16.3a van de Regeling nationale EZ-subsidies)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -108,10 +80,8 @@ Een afschrift van dit besluit wordt toegezonden aan degenen aan wie krachtens di
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 juni 2017.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 juni 2017.
 
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging bestuur NWO inzake subsidieverstrekking op grond van paragraaf 3.16.3a, paragraaf 3.16.4 en titel 3.23 van de Regeling nationale EZK- en LNV-subsidies.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

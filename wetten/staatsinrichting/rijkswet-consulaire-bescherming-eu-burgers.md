@@ -1,74 +1,51 @@
 ---
 title: "Rijkswet van 20 december 2017, houdende bepalingen ter implementatie van Richtlijn (EU) 2015/637 van de Raad van de Europese Unie betreffende de coördinatie- en samenwerkingsmaatregelen ter vergemakkelijking van de consulaire bescherming van niet-vertegenwoordigde burgers van de Unie in derde landen en tot intrekking van besluit 95/553/EG (Rijkswet consulaire bescherming EU-burgers)"
+citeertitel: "Rijkswet consulaire bescherming EU-burgers"
 identifier: "BWBR0040520"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2025-05-03"
-last_updated: "2025-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040520"
+categorie: "Internationaal recht"
 soort: "rijkswet"
-stam_id: "14502393"
-version_id: "30714232"
-internal_id: "C44022411"
-label_id: "14460664"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040520/2025-05-03/0"
-intitule_bron: "Stb.2018-5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-20"
-intitule_published: "2018-01-17"
-intitule_in_force: "2018-01-17"
-intitule_status: "goed"
-original_publication: "Stb.2025-117"
-original_signed_date: "2025-04-23"
-original_published_date: "2025-05-02"
-original_effect: "structuurwijziging"
-original_dossier: "36640"
-original_url_id: "stb-2025-117"
-entry_into_force_date: "2025-05-03"
-entry_into_force_dossier: "36640"
-jci_1_3: "jci1.3:c:BWBR0040520&z=2025-05-03&g=2025-05-03"
-jci_1_0: "1.0:c:BWBR0040520&g=2025-05-03"
-citeertitel_status: "officieel"
-short_title: "Rijkswet consulaire bescherming EU-burgers"
-signed_date: "2025-04-23"
-entry_into_force: "2025-05-03"
+publicatiedatum: 2025-05-03
+laatste_update: 2025-05-03
+status: geldig
+toestand: 2025-05-03
+bron: "https://wetten.overheid.nl/BWBR0040520"
+opgehaald: 2026-08-26
 ---
+
 # Rijkswet van 20 december 2017, houdende bepalingen ter implementatie van Richtlijn (EU) 2015/637 van de Raad van de Europese Unie betreffende de coördinatie- en samenwerkingsmaatregelen ter vergemakkelijking van de consulaire bescherming van niet-vertegenwoordigde burgers van de Unie in derde landen en tot intrekking van besluit 95/553/EG (Rijkswet consulaire bescherming EU-burgers)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is om uitvoering te geven aan Richtlijn (EU) 2015/637 van de Raad van de Europese Unie betreffende de coördinatie- en samenwerkingsmaatregelen ter vergemakkelijking van de consulaire bescherming van niet-vertegenwoordigde burgers van de Unie in derde landen en tot intrekking van besluit 95/553/EG (Pb L 106);
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+### Hoofdstuk 1. Algemene bepaling
 
 ##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
-- −. **Consulaire bescherming:** door Onze Minister geboden hulp aan of ten behoeve van personen die in het buitenland door arrestatie, detentie, misdrijf, ernstig ongeval, ernstige ziekte, overlijden, verlies van reisdocumenten, een noodsituatie in het desbetreffende land of in verband met andere omstandigheden hulpbehoevend zijn geraakt;
+- − *Consulaire bescherming:* door Onze Minister geboden hulp aan of ten behoeve van personen die in het buitenland door arrestatie, detentie, misdrijf, ernstig ongeval, ernstige ziekte, overlijden, verlies van reisdocumenten, een noodsituatie in het desbetreffende land of in verband met andere omstandigheden hulpbehoevend zijn geraakt;
 
-- −. **Derde land:** land, niet zijnde een lidstaat van de Europese Unie;
+- − *Derde land:* land, niet zijnde een lidstaat van de Europese Unie;
 
-- −. **EU-burger:** persoon die de nationaliteit bezit van een lidstaat;
+- − *EU-burger:* persoon die de nationaliteit bezit van een lidstaat;
 
-- −. **EU-noodreisdocument:** EU-noodreisdocument als bedoeld in artikel 3, eerste lid, eerste zin, van [Richtlijn (EU) 2019/997](32019L0997) van de Raad van de Europese Unie van 18 juni 2019 tot vaststelling van een EU-noodreisdocument en tot intrekking van Besluit 96/409/GBVB (PbEU 2019, L 163);
+- − *EU-noodreisdocument:* EU-noodreisdocument als bedoeld in artikel 3, eerste lid, eerste zin, van Richtlijn (EU) 2019/997 van de Raad van de Europese Unie van 18 juni 2019 tot vaststelling van een EU-noodreisdocument en tot intrekking van Besluit 96/409/GBVB (PbEU 2019, L 163);
 
-- −. **lidstaat:** lidstaat van de Europese Unie;
+- − *lidstaat:* lidstaat van de Europese Unie;
 
-- −. **Onze Minister:** Onze Minister van Buitenlandse Zaken;
+- − *Onze Minister:* Onze Minister van Buitenlandse Zaken;
 
-- −. **Richtlijn 2004/38/EG:** [Richtlijn 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van [Verordening (EEG) nr. 1612/68](31968R1612) en tot intrekking van de [Richtlijnen 64/221/EEG](31964L0221), [68/360/EEG](31968L0360), [72/194/EEG](31972L0194), [73/148/EEG](31973L0148), [75/34/EEG](31975L0034), [75/35/EEG](31975L0035), [90/364/EEG](31990L0364), [90/365/EEG](31990L0365) en [93/96/EEG](31993L0096) (PbEU 2004, L 158);
+- − *Richtlijn 2004/38/EG:*
+ Richtlijn 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) nr. 1612/68 en tot intrekking van de Richtlijnen 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG en 93/96/EEG (PbEU 2004, L 158);
 
-- −. **Richtlijn (EU) 2019/997:** [Richtlijn (EU) 2019/997](32019L0997) van de Raad van de Europese Unie van 18 juni 2019 tot vaststelling van een EU-noodreisdocument en tot intrekking van Besluit 96/409/GBVB (PbEU 2019, L 163);
+- − *Richtlijn (EU) 2019/997:*
+ Richtlijn (EU) 2019/997 van de Raad van de Europese Unie van 18 juni 2019 tot vaststelling van een EU-noodreisdocument en tot intrekking van Besluit 96/409/GBVB (PbEU 2019, L 163);
 
-- −. **Verordening (EU) 2018/1806:** [Verordening (EU) 2018/1806](32018R1806) van het Europees Parlement en de Raad van 14 november 2018 tot vaststelling van de lijst van derde landen waarvan de onderdanen bij overschrijding van de buitengrenzen in het bezit moeten zijn van een visum en de lijst van derde landen waarvan de onderdanen van die plicht zijn vrijgesteld (PbEU 2018, L 303);
+- − *Verordening (EU) 2018/1806:*
+ Verordening (EU) 2018/1806 van het Europees Parlement en de Raad van 14 november 2018 tot vaststelling van de lijst van derde landen waarvan de onderdanen bij overschrijding van de buitengrenzen in het bezit moeten zijn van een visum en de lijst van derde landen waarvan de onderdanen van die plicht zijn vrijgesteld (PbEU 2018, L 303);
 
-- −. **Vertegenwoordigde lidstaat:** lidstaat die in een derde land op permanente basis is vertegenwoordigd door een ambassade of consulaat;
+- − *Vertegenwoordigde lidstaat:* lidstaat die in een derde land op permanente basis is vertegenwoordigd door een ambassade of consulaat;
 
-- −. **Werkdag:** dag, niet zijnde een zaterdag, zondag of algemeen erkende feestdag.
+- − *Werkdag:* dag, niet zijnde een zaterdag, zondag of algemeen erkende feestdag.
+
+### Hoofdstuk 2. Consulaire bescherming EU-burgers
 
 ##### Artikel 2
 
@@ -98,20 +75,6 @@ Op gelijke voet als waarop Onze Minister consulaire bescherming verleent aan Ned
 
 4. De Nederlander aan wie door een andere lidstaat consulaire bescherming is verleend, vergoedt Onze Minister de daarvoor door die lidstaat aan Onze Minister in rekening gebrachte kosten.
 
-##### Artikel 6
-
-Deze rijkswet treedt in werking op 1 mei 2018.
-
-##### Artikel 7
-
-Deze rijkswet wordt aangehaald als: Rijkswet consulaire bescherming EU-burgers.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 1. Algemene bepaling
-
-### Hoofdstuk 2. Consulaire bescherming EU-burgers
-
 ### Hoofdstuk 3. EU-noodreisdocument
 
 ##### Artikel 5a
@@ -126,7 +89,7 @@ Onze Minister geeft een EU-noodreisdocument af aan andere EU-burgers dan Nederla
 
 - b. het paspoort of reisdocument van die EU-burger of zijn familielid verloren, gestolen of vernietigd is, of om een andere reden niet binnen een redelijke termijn kan worden verkregen.
 
-2. Onze Minister geeft een EU-noodreisdocument alleen af aan een familielid die geen EU-burger is en die een EU-burger in een derde land vergezelt als dat familielid legaal in een lidstaat verblijft, onverminderd de toepasselijke visumvereisten op grond van [Verordening (EU) 2018/1806](32018R1806) en artikel 5, tweede lid, van [Richtlijn 2004/38/EG](32004L0038).
+2. Onze Minister geeft een EU-noodreisdocument alleen af aan een familielid die geen EU-burger is en die een EU-burger in een derde land vergezelt als dat familielid legaal in een lidstaat verblijft, onverminderd de toepasselijke visumvereisten op grond van Verordening (EU) 2018/1806 en artikel 5, tweede lid, van Richtlijn 2004/38/EG.
 
 ##### Artikel 5c
 
@@ -146,7 +109,7 @@ Onze Minister stelt de aanvrager in kennis in het geval de lidstaat waarvan de a
 
 ##### Artikel 5f
 
-1. De persoonsgegevens die voor een aanvraag van een EU-noodreisdocument worden verkregen, worden alleen gebruikt voor verificatie van de identiteit van de aanvrager, het drukken van de uniforme EU-NRD-sticker, bedoeld in bijlage II van [Richtlijn (EU) 2019/997](32019L0997), en het faciliteren van de reis van de aanvrager.
+1. De persoonsgegevens die voor een aanvraag van een EU-noodreisdocument worden verkregen, worden alleen gebruikt voor verificatie van de identiteit van de aanvrager, het drukken van de uniforme EU-NRD-sticker, bedoeld in bijlage II van Richtlijn (EU) 2019/997, en het faciliteren van de reis van de aanvrager.
 
 2. De persoonsgegevens van andere EU-burgers dan Nederlanders en hun familieleden die een EU-noodreisdocument hebben aangevraagd, worden na 180 dagen gewist.
 
@@ -154,4 +117,10 @@ Onze Minister stelt de aanvrager in kennis in het geval de lidstaat waarvan de a
 
 ### Hoofdstuk 4. Slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 6
+
+Deze rijkswet treedt in werking op 1 mei 2018.
+
+##### Artikel 7
+
+Deze rijkswet wordt aangehaald als: Rijkswet consulaire bescherming EU-burgers.

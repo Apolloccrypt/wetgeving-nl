@@ -1,52 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 27 september 2017 nr. BOACAT2017/063, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Inspectie Gezondheidszorg en Jeugd in oprichting"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Inspectie gezondheidszorg en jeugd"
 identifier: "BWBR0040023"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-02"
-last_updated: "2018-08-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040023"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14176273"
-version_id: "24382962"
-internal_id: "C34984761"
-label_id: "14136954"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040023/2018-08-02/0"
-intitule_bron: "Stcrt.2017-60904"
-intitule_effect: "wijziging"
-intitule_signed: "2017-10-16"
-intitule_published: "2017-10-23"
-intitule_in_force: "2017-10-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-55785"
-original_signed_date: "2017-09-27"
-original_published_date: "2017-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-55785"
-entry_into_force_date: "2017-09-30"
-jci_1_3: "jci1.3:c:BWBR0040023&z=2018-08-02&g=2018-08-02"
-jci_1_0: "1.0:c:BWBR0040023&g=2018-08-02"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Inspectie gezondheidszorg en jeugd"
-signed_date: "2017-09-27"
-entry_into_force: "2017-09-30"
+publicatiedatum: 2017-09-30
+laatste_update: 2018-08-02
+status: geldig
+toestand: 2018-08-02
+bron: "https://wetten.overheid.nl/BWBR0040023"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 27 september 2017 nr. BOACAT2017/063, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Inspectie Gezondheidszorg en Jeugd in oprichting
-
-Gelezen het verzoek van de Inspecteur-Generaal van 25 september 2017;
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -58,7 +24,7 @@ De personen in dienst van de Inspectie gezondheidszorg en jeugd die op basis van
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, als genoemd in [onderdeel 7.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend), aangevuld met de wetten op het gebied van de volksgezondheid en de [artikelen 227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227), [227a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227a), [228](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=228), [231](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=255), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=257), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289), [293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293), [294](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294), [titel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XX) ([300 tot en met 306](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300)), [309](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=309) en [322 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=322), voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, als genoemd in [onderdeel 7.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/BWBR0039766), aangevuld met de wetten op het gebied van de volksgezondheid en de [artikelen 227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227), [227a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227a), [228](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=228), [231](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=255), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=257), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289), [293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293), [294](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294), [titel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XX) ([300 tot en met 306](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300)), [309](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=309) en [322 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=322), voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -103,5 +69,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Inspectie gezondheidszorg en jeugd.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

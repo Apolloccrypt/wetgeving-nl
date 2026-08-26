@@ -1,47 +1,17 @@
 ---
 title: "Besluit opheffen beperkingen openbaarheid archief Ministerie van Koloniën: Dossierarchief 1945–1963"
 identifier: "BWBR0040504"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-16"
-last_updated: "2018-01-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040504"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14497703"
-version_id: "24818872"
-internal_id: "C35508101"
-label_id: "14456934"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040504/2018-01-16/0"
-intitule_bron: "Stcrt.2018-1646"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-26"
-intitule_published: "2018-01-15"
-intitule_in_force: "2018-01-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-1646"
-original_signed_date: "2017-10-26"
-original_published_date: "2018-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-1646"
-entry_into_force_date: "2018-01-16"
-jci_1_3: "jci1.3:c:BWBR0040504&z=2018-01-16&g=2018-01-16"
-jci_1_0: "1.0:c:BWBR0040504&g=2018-01-16"
-citeertitel_status: "redactioneel"
-signed_date: "2017-10-26"
-entry_into_force: "2018-01-16"
+publicatiedatum: 2018-01-16
+laatste_update: 2018-01-16
+status: geldig
+toestand: 2018-01-16
+bron: "https://wetten.overheid.nl/BWBR0040504"
+opgehaald: 2026-08-26
 ---
+
 # Besluit opheffen beperkingen openbaarheid archief Ministerie van Koloniën: Dossierarchief 1945–1963
-
-Gelet op [artikel 15, derde lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Gelet op de Verklaring van Overdracht van 20 oktober 1994 waarbij dit archief door het Ministerie van Buitenlandse Zaken aan het Nationaal Archief is overgedragen en de bijbehorende regeling van de openbaarheid,
-
-Gehoord de Minister van Buitenlandse Zaken,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,15 +46,13 @@ De beperkingen die zijn gesteld aan de openbaarheid van de archiefbescheiden in 
 | 3298 | 5485 | 7764 | 9632 | 10788 | 11996 |
 | 3326 | 5515 | 7938 | 9634–9636 | 10811 | 11998 |
 | 3368 | 5580 | 7951 | 9652 | 10826 | 11999 |
-| 3370 | 5635 | 8002 | 9667 | 10857 |   |
-| 3371 | 5867 | 8098 | 9674 | 10888 |   |
-| 3376 | 5968 | 8139 | 9823 | 10904 |   |
-| 3392 | 6024 | 8145 | 9830 | 10916 |   |
-| 3433 | 6045 | 8209 | 9852 | 11086–11089 |   |
-| 3579 | 6081–6132 | 8224 | 9859 | 11124 |   |
-| 3592 | 6243–6251 | 8287 | 9879 | 11147 |   |
-| 3593 | 6287 | 8747 | 10193 | 11232 |   |
-| 3601 | 6368 | 8765 | 10228–10234 | 11242 |   |
-| 3603 | 6401 | 8782 | 10280 | 11255 |   |
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+| 3370 | 5635 | 8002 | 9667 | 10857 |  |
+| 3371 | 5867 | 8098 | 9674 | 10888 |  |
+| 3376 | 5968 | 8139 | 9823 | 10904 |  |
+| 3392 | 6024 | 8145 | 9830 | 10916 |  |
+| 3433 | 6045 | 8209 | 9852 | 11086–11089 |  |
+| 3579 | 6081–6132 | 8224 | 9859 | 11124 |  |
+| 3592 | 6243–6251 | 8287 | 9879 | 11147 |  |
+| 3593 | 6287 | 8747 | 10193 | 11232 |  |
+| 3601 | 6368 | 8765 | 10228–10234 | 11242 |  |
+| 3603 | 6401 | 8782 | 10280 | 11255 |  |

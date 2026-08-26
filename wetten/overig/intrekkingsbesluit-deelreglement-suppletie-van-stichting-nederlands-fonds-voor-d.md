@@ -1,46 +1,18 @@
 ---
 title: "Intrekkingsbesluit Deelreglement Suppletie van de Stichting Nederlands Fonds voor de Film"
+citeertitel: "Intrekkingsbesluit Deelreglement Suppletie van Stichting Nederlands Fonds voor de Film"
 identifier: "BWBR0040544"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040544"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14514933"
-version_id: "24843192"
-internal_id: "C35540961"
-label_id: "14473164"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040544/2018-01-01/0"
-intitule_bron: "Stcrt.2018-3477"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-01-15"
-intitule_published: "2018-01-25"
-intitule_in_force: "2018-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-3477"
-original_signed_date: "2018-01-15"
-original_published_date: "2018-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-3477"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040544&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040544&g=2018-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Intrekkingsbesluit Deelreglement Suppletie van Stichting Nederlands Fonds voor de Film"
-signed_date: "2018-01-15"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040544"
+opgehaald: 2026-08-26
 ---
+
 # Intrekkingsbesluit Deelreglement Suppletie van de Stichting Nederlands Fonds voor de Film
-
-Gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10)
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -55,5 +27,3 @@ Ten aanzien van de beschikkingen die nog niet rechtens onaantastbaar zijn geword
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 januari 2018.
-
-Dit besluit wordt in de Staatscourant geplaatst.

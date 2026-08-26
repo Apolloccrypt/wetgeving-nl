@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 16 maart 2018, nr. Min-BuZa.2018.1096-10, houdende instelling van het Audit Committee van het Ministerie van Buitenlandse Zaken (Instellingsbesluit Audit Committee BZ 2018)"
+citeertitel: "Instellingsbesluit Audit Committee BZ 2018"
 identifier: "BWBR0040748"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-03-27"
-last_updated: "2018-03-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040748"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14574223"
-version_id: "24947562"
-internal_id: "C35676381"
-label_id: "14527924"
-dtd_version: "2.0"
-original_entry_into_force: "2018-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040748/2018-03-27/0"
-intitule_bron: "Stcrt.2018-16674"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-03-16"
-intitule_published: "2018-03-26"
-intitule_in_force: "2018-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-16674"
-original_signed_date: "2018-03-16"
-original_published_date: "2018-03-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-16674"
-entry_into_force_date: "2018-03-27"
-jci_1_3: "jci1.3:c:BWBR0040748&z=2018-03-27&g=2018-03-27"
-jci_1_0: "1.0:c:BWBR0040748&g=2018-03-27"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Audit Committee BZ 2018"
-signed_date: "2018-03-16"
-entry_into_force: "2018-03-27"
+publicatiedatum: 2018-03-27
+laatste_update: 2018-03-27
+status: geldig
+toestand: 2018-03-27
+bron: "https://wetten.overheid.nl/BWBR0040748"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 16 maart 2018, nr. Min-BuZa.2018.1096-10, houdende instelling van het Audit Committee van het Ministerie van Buitenlandse Zaken (Instellingsbesluit Audit Committee BZ 2018)
-
-Gelet op de [Regeling audit committees van het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0040281);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -93,5 +67,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Audit Committee BZ 2018.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

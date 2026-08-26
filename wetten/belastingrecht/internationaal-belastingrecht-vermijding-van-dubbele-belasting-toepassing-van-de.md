@@ -1,38 +1,16 @@
 ---
 title: "Internationaal Belastingrecht. Vermijding van dubbele belasting. Toepassing van de vrijstellingsmethode voor bepaalde inkomsten uit dienstbetrekking onder belastingverdragen met Golfstaten"
 identifier: "BWBR0039971"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-09-13"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039971"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "14165603"
-version_id: "24363522"
-internal_id: "C34960641"
-label_id: "14126414"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039971/2017-09-13/0"
-intitule_bron: "Stcrt.2017-52188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-09-07"
-intitule_published: "2017-09-12"
-intitule_in_force: "2017-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-52188"
-original_signed_date: "2017-09-07"
-original_published_date: "2017-09-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-52188"
-entry_into_force_date: "2017-09-13"
-jci_1_3: "jci1.3:c:BWBR0039971&z=2017-09-13&g=2017-09-13"
-jci_1_0: "1.0:c:BWBR0039971&g=2017-09-13"
-citeertitel_status: "redactioneel"
-signed_date: "2017-09-07"
-entry_into_force: "2017-09-13"
+publicatiedatum: 2017-09-13
+laatste_update: 2017-09-13
+status: geldig
+toestand: 2017-09-13
+bron: "https://wetten.overheid.nl/BWBR0039971"
+opgehaald: 2026-08-26
 ---
+
 # Internationaal Belastingrecht. Vermijding van dubbele belasting. Toepassing van de vrijstellingsmethode voor bepaalde inkomsten uit dienstbetrekking onder belastingverdragen met Golfstaten
 
 De Staatssecretaris van Financiën heeft het volgende besloten.
@@ -42,6 +20,26 @@ Voor bepaalde inkomsten uit dienstbetrekking van inwoners van Nederland waarvoor
 ### 1. Algemeen
 
 ### 1.1. Gebruikte begrippen
+
+- *De Golfstaten:* Bahrein, Koeweit, Oman, Qatar, Saoedi-Arabië en de Verenigde Arabische Emiraten.
+
+- *Een Golfstaat:* Bahrein, Koeweit, Oman, Qatar, Saoedi-Arabië onderscheidenlijk de Verenigde Arabische Emiraten, al naargelang de context vereist.
+
+- *Het verdrag met Bahrein:* Het verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Bahrein tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2008, nr. 119).
+
+- *Het verdrag met Koeweit:* Het verdrag tussen het Koninkrijk der Nederlanden en de Staat Koeweit tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2001, nr. 126).
+
+- *Het verdrag met Oman:* Het verdrag tussen het Koninkrijk der Nederlanden en het Sultanaat Oman tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2010, nr. 181).
+
+- *Het verdrag met Qatar:* Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Qatar tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2008, nr. 112).
+
+- *Het verdrag met Saoedi-Arabië:* Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Saudi-Arabië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen(Trb. 2008, nr. 214).
+
+- *Het verdrag met de VAE:* Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2007, nr. 107).
+
+- *De verdragen:* Het verdrag met Bahrein, Koeweit, Oman, Qatar, Saoedi-Arabië en de VAE.
+
+- *Bepaalde inkomsten uit dienstbetrekking:* Inkomsten uit dienstbetrekking in de zin van artikel 14, eerste en derde lid, en artikel 23, vijfde lid, van het verdrag met Bahrein, artikel 24, zesde lid, van het verdrag met Koeweit, artikel 15, eerste en derde lid, van het verdrag met Oman, artikel 15, derde lid, en artikel 23, zesde lid, van het verdrag met Qatar, artikel 15, derde lid, van het verdrag met Saoedi- Arabië, onderscheidenlijk artikel 14, derde lid, van het verdrag met de VAE, al naargelang de context vereist.
 
 ### 1.2. Aanleiding
 

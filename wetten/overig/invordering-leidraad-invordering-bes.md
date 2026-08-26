@@ -1,38 +1,16 @@
 ---
 title: "Invordering, Leidraad Invordering BES"
 identifier: "BWBR0040762"
-country: "nl"
-rank: "beleidsregel_bes"
-publication_date: "2018-03-29"
-last_updated: "2018-03-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040762"
+categorie: "Overig"
 soort: "beleidsregel-BES"
-stam_id: "14577263"
-version_id: "24954462"
-internal_id: "C35684771"
-label_id: "14533084"
-dtd_version: "2.0"
-original_entry_into_force: "2018-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040762/2018-03-29/0"
-intitule_bron: "Stcrt.2018-17297"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-03-16"
-intitule_published: "2018-03-28"
-intitule_in_force: "2018-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-17297"
-original_signed_date: "2018-03-16"
-original_published_date: "2018-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-17297"
-entry_into_force_date: "2018-03-29"
-jci_1_3: "jci1.3:c:BWBR0040762&z=2018-03-29&g=2018-03-29"
-jci_1_0: "1.0:c:BWBR0040762&g=2018-03-29"
-citeertitel_status: "redactioneel"
-signed_date: "2018-03-16"
-entry_into_force: "2018-03-29"
+publicatiedatum: 2018-03-29
+laatste_update: 2018-03-29
+status: geldig
+toestand: 2018-03-29
+bron: "https://wetten.overheid.nl/BWBR0040762"
+opgehaald: 2026-08-26
 ---
+
 # Invordering, Leidraad Invordering BES
 
 ### Artikel 8.38. Taken en bevoegdheden van de ontvanger
@@ -44,6 +22,34 @@ Niet op alle artikelen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029
 ### 8.38.2. Definities
 
 Deze Leidraad verstaat onder:
+
+- − *Belastingdienst:* Belastingdienst/Caribisch Nederland
+
+- − *BW BES:* Burgerlijk Wetboek BES
+
+- − *directeur:* de directeur van de Belastingdienst/Caribisch Nederland;
+
+- − *echtgenoot:* de persoon waarmee de belastingschuldige een gezamenlijke huishouding als bedoeld in [artikel 2 van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=2), voert;
+
+- − *het Gerecht in eerste aanleg:* het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
+
+- − *het Hof:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+
+- − *landelijk directeur Particulieren, dienstverlening en bezwaar:* de in [artikel 4, tweede lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4) bedoelde landelijk directeur van het relevante organisatieonderdeel van de Belastingdienst/Belastingen te Nederland;
+
+- − *Rv BES:*
+ [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496);
+
+- − *uitvoeringsbesluit:*
+ [Uitvoeringsbesluit Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029323);
+
+- − *uitvoeringsregeling:*
+ [Uitvoeringsregeling Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029332);
+
+- − *wet:*
+ [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244);
+
+- − *zakelijke belastingen:* hieronder vallen Inkomstenbelasting, Loonbelasting, Algemene bestedingsbelasting, Opbrengstbelasting, Vastgoedbelasting, Overdrachtsbelasting en Kansspelbelasting
 
 ### 8.38.3. Reikwijdte beleidsvoorschriften
 
@@ -83,11 +89,31 @@ Als het niet mogelijk is eerst een belastingaanslag op te leggen, vraagt de ontv
 
 In gerechtelijke procedures (eerste aanleg en hoger beroep) waarin de ontvanger als eiser optreedt, moet hij toestemming hebben van de landelijk directeur Particulieren, dienstverlening en bezwaar te Nederland. Het voorgaande geldt niet voor:
 
+- − verklaringsprocedures in het kader van derdenbeslagen;
+
+- − kantonzaken;
+
+- − verzoekschriftprocedures;
+
+- − aansprakelijkheidsprocedures;
+
+- − procedures die worden ingesteld naar aanleiding van een verzet ex [artikel 435, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=435), of [artikel 708, tweede lid, Rv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=708).
+
 ### Artikel 8.39. Kosten
 
 ### 8.39.1. Aan derden toekomende bedragen
 
 Onder de bedragen die op grond van [artikel 2.5 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&artikel=2.5) aan de belastingschuldige in rekening worden gebracht, vallen:
+
+- − de kosten van het doen van aankondiging van de verkoop in een dagblad;
+
+- − de vergoeding van de bewaarder of de door hem ingeschakelde derden;
+
+- − de kosten van het openen van deuren en huisraad als bedoeld in [artikel 444 Rv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=444);
+
+- − de kosten van het verrichten van werkzaamheden door makelaars, deskundigen en afslagers;
+
+- − de kosten van het doen overbrengen van de in beslag genomen zaken als de verkoop elders plaatsvindt.
 
 De laatstgenoemde kosten worden alleen in rekening gebracht als de verkoop op uitdrukkelijk verzoek van de belastingschuldige elders gebeurt of als daarbij voornamelijk zijn belang is gediend. Eventuele gemaakte reiskosten door de Belastingdienst voor de betekening en de tenuitvoerlegging van het dwangschrift kunnen niet op de belastingschuldige worden verhaald, evenmin als mogelijke porti- en telefoonkosten.
 
@@ -145,11 +171,27 @@ Dit brengt met zich dat de belastingdeurwaarder ook bevoegd is tot die werkzaamh
 
 Als de ontvanger naast zaken van de belastingschuldige, ook zaken in beslag heeft genomen waar derden rechten op hebben, wint hij die zaken uit in de volgende volgorde:
 
+- 1. Zaken van belastingschuldige zelf.
+
+- 2. Zaken waar anderen dan de belastingschuldige een beperkt recht op hebben.
+
+- 3. Zaken die eigendom zijn van derden.
+
 De ontvanger hoeft deze volgorde niet in acht te nemen als op voorhand duidelijk is dat:
+
+- − de hoogte van de belastingschuld aantasting van de rechten van derden onvermijdelijk maakt, of
+
+- − het belang van de invordering zich hiertegen verzet.
 
 ### 8.49.1.2. Opheffing beslag tegen betaling door een derde
 
 Als de ontvanger van een derde een bedrag krijgt aangeboden ter opheffing van het beslag dat hij ten laste van de belastingschuldige heeft gelegd, kan de ontvanger hieraan zijn medewerking verlenen. Hierbij moet ten minste zijn voldaan aan de volgende voorwaarden:
+
+- 1. Het aangeboden geldbedrag komt niet direct of indirect uit het vermogen van de belastingschuldige.
+
+- 2. Het aangeboden geldbedrag is aanzienlijk hoger dan de opbrengst die naar verwachting zou zijn verkregen bij een executie.
+
+- 3. De belangen van de Staat worden niet geschaad.
 
 De ontvanger houdt bij zijn beslissing rekening met de gerechtvaardigde belangen van andere schuldeisers die op de betreffende zaken verhaal zoeken. Hij kan aan zijn medewerking nadere voorwaarden verbinden.
 
@@ -164,6 +206,10 @@ Onderhandse verkoop vindt niet plaats als hierdoor de belangen van de Staat word
 ### 8.49.1.4. Samenloop opheffing beslag en onderhandse verkoop
 
 De ontvanger kan de mogelijkheid hebben om te kiezen tussen:
+
+- a. een aangeboden bedrag ter opheffing van het beslag als bedoeld in [artikel 8.49.1.2](https://wetten.overheid.nl/BWBR0040762). van deze leidraad;
+
+- b. een onderhandse verkoop als bedoeld in [artikel 8.49.1.3](https://wetten.overheid.nl/BWBR0040762). van deze leidraad.
 
 De ontvanger geeft dan in het algemeen de voorkeur aan opheffing van het beslag. Hierbij geldt als voorwaarde dat de hierdoor verkregen opbrengst niet lager is dan die van een onderhandse verkoop.
 
@@ -197,11 +243,19 @@ Het wegvoeren van zaken is mogelijk, als dit voor het behoud van die zaken redel
 
 De belastingdeurwaarder maakt slechts gebruik van de mogelijkheid tot het wegvoeren van de beslagen zaken als:
 
+- − de verwachting bestaat dat zonder het wegvoeren de schuld niet volledig kan worden ingevorderd, en
+
+- − de ontvanger na een marginale toetsing tot het oordeel is gekomen dat de belastingaanslagen materieel verschuldigd zijn.
+
 Het wegvoeren van zaken gebeurt niet dan na daartoe verkregen toestemming van de directeur. De toestemming kan ook worden verkregen van de plaatsvervanger van de directeur of van een andere door die directeur of zijn plaatsvervanger daartoe aangewezen functionaris.
 
 ### 8.49.2.5. Afsluiting en beslag roerende zaken
 
 De belastingdeurwaarder dan wel de bewaarder kan tot afsluiting van de ruimte overgaan waarin ten laste van de onderneming in beslag genomen zaken zich bevinden als:
+
+- − de omstandigheden zich voordoen als genoemd in [artikel 8.49.2.4](https://wetten.overheid.nl/BWBR0040762) van deze leidraad, en
+
+- − de desbetreffende zaken niet of slechts tegen naar verhouding zeer hoge kosten kunnen worden afgevoerd.
 
 Voor de afsluiting is voorafgaande toestemming vereist van de directeur. De toestemming kan ook worden verkregen van de plaatsvervanger van de desbetreffende directeur of van een andere door die directeur of zijn plaatsvervanger daartoe aangewezen functionaris. Na afsluiting zal de belastingdeurwaarder zo spoedig mogelijk tot executoriale verkoop overgaan.
 
@@ -221,7 +275,7 @@ De ontvanger die beslag op een onroerende zaak heeft laten leggen en ook de huur
 
 ### 8.49.4. Beslag onder derden
 
-### 8.49.4.1. Derdenbeslag of vordering ex [artikel 8.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.54)
+### 8.49.4.1. Derdenbeslag of vordering ex artikel 8.54
 
 Als naast een derdenbeslag ook een vordering op grond van [artikel 8.54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.54) mogelijk is, kiest de ontvanger voor het doen van een vordering.
 
@@ -238,6 +292,16 @@ Als er op het moment dat de ontvanger beslag wil leggen al beslag ligt op het lo
 ### 8.52.1. Versnelde invordering algemeen
 
 [Artikel 8.52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.52) noemt de gevallen waarin de ontvanger de bevoegdheid heeft om de betalingstermijn van een belastingaanslag te negeren en tot onmiddellijke invordering dan wel dwanginvordering over te gaan. Dit mag alleen in de volgende situaties:
+
+- a. Wanneer de belastingschuldige in staat van faillissement is verklaard.
+
+- b. Wanneer de ontvanger aannemelijk maakt dat belastingschuldige de BES eilanden wil verlaten met wegvoering of na vervreemding van zijn goederen.
+
+- c. Wanneer op goederen waarop een belastingschuld van de belastingschuldige kan worden verhaald, beslag is gelegd voor zijn belastingschuld.
+
+- d. Wanneer de ontvanger aannemelijk maakt dat gegronde vrees bestaat dat goederen van de belastingschuldige zullen worden verduisterd.
+
+- e. Wanneer goederen van de belastingschuldige worden verkocht ten gevolge van een beslaglegging namens derden.
 
 ### 8.52.2. Vrees voor verduistering en versnelde invordering
 
@@ -289,11 +353,15 @@ In een faillissement vallen de belastingschulden voor zover zij materieel zijn o
 
 De ontvanger splitst – na overleg met de inspecteur – de belastingaanslag naar tijdsevenredigheid en doet twee aparte vorderingen:
 
+- − één voor het gedeelte dat ter verificatie kan worden aangemeld;
+
+- − één voor het gedeelte dat als boedelschuld kan worden aangemerkt.
+
 ### 8.54.5.2. Belastingschulden ontstaan gedurende een surseance zijn boedelschulden in faillissement
 
 Belastingschulden die materieel zijn ontstaan gedurende de periode van een surseance van betaling die aan het faillissement voorafgaat, kunnen op grond van [artikel 238 Fw BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=238) worden beschouwd als boedelschulden in het faillissement.
 
-Het bepaalde in artikel 8.54.5.1 van de leidraad is op deze schulden en de belastingaanslagen die hierop betrekking hebben op soortgelijke wijze van toepassing.
+Het bepaalde in [artikel 8.54.5.1](https://wetten.overheid.nl/BWBR0040762) van de leidraad is op deze schulden en de belastingaanslagen die hierop betrekking hebben op soortgelijke wijze van toepassing.
 
 ### 8.54.5.3. Opkomen in faillissement
 
@@ -313,7 +381,7 @@ Het bodemvoorrecht wordt buiten faillissement geldend gemaakt door op de betreff
 
 Nadat de in beslag genomen zaken door de bezitloos pandhouder zijn verkocht, is hij – als dit wordt gevorderd – gehouden om de netto-opbrengst van die zaken aan de ontvanger af te staan. Dit geldt dus voor het deel van de vordering dat bevoorrecht is boven pand en waarvoor de ontvanger beslag heeft gelegd.
 
-Voor wat betreft de volgorde van uitwinning, is het bepaalde in artikel 8.49.1.1 van deze leidraad van overeenkomstige toepassing. Zolang de pandhouder de ontvanger niet heeft aangezegd dat hij van de bovenvermelde bevoegdheid gebruik zal maken, blijft de ontvanger bevoegd de in beslag genomen, bezitloos verpande zaken te executeren.
+Voor wat betreft de volgorde van uitwinning, is het bepaalde in [artikel 8.49.1.1](https://wetten.overheid.nl/BWBR0040762) van deze leidraad van overeenkomstige toepassing. Zolang de pandhouder de ontvanger niet heeft aangezegd dat hij van de bovenvermelde bevoegdheid gebruik zal maken, blijft de ontvanger bevoegd de in beslag genomen, bezitloos verpande zaken te executeren.
 
 ### 8.55.2. Geheel of gedeeltelijk afzien van voorrang
 
@@ -329,7 +397,7 @@ De ontvanger gaat onmiddellijk tot betekening aan de derde over als hij op enig 
 
 ### 8.56.2. Volgorde uitwinning bodembeslag
 
-Als de ontvanger naast zaken van de belastingschuldige ook zaken in beslag heeft genomen waar derden rechten op hebben, vindt uitwinning plaats overeenkomstig het bepaalde in artikel 8.49.1.1 van deze leidraad.
+Als de ontvanger naast zaken van de belastingschuldige ook zaken in beslag heeft genomen waar derden rechten op hebben, vindt uitwinning plaats overeenkomstig het bepaalde in [artikel 8.49.1.1](https://wetten.overheid.nl/BWBR0040762) van deze leidraad.
 
 ### 8.56.3. Bodemrecht en insolventie van de derde-eigenaar
 
@@ -355,7 +423,25 @@ Dit terughoudende beleid geldt dus niet als de economische verhouding tussen de 
 
 Als voorbeelden hiervan kunnen gelden:
 
+- − de situaties waarin zaken zijn geleverd in huurkoop of onder eigendomsvoorbehoud;
+
+- − de gevallen waarin de zaken in fiduciaire eigendom zijn overgedragen;
+
+- − situaties waarin door middel van leasing of andere vormen van huur of bruikleen het economische risico van waardevermindering van de zaken in overwegende mate bij de belastingschuldige ligt.
+
 Daarnaast zijn er zes situaties waarin geen sprake is van een terughoudend beleid ondanks dat er sprake kan zijn van reële eigendom van de derde in bovenbedoelde zin. Het betreft:
+
+- − zaken die door de derde onder enige titel ter beschikking zijn gesteld aan de belastingschuldige, terwijl daarnaast tussen de derde en de belastingschuldige een overeenkomst is gesloten waarin een afnameverplichting of afnamebeding ten behoeve van de derde is opgenomen;
+
+- − zaken die toebehoren aan de echtgenoot. Dit geldt uitsluitend voor zaken die in beslag genomen zijn in verband met belastingschuld die materieel is ontstaan in de periode waarin een gezamenlijke huishouding werd gevoerd;
+
+- − zaken waarbij in het kader van samenspanning tussen de belastingschuldige en de derde de juridische eigendomssituatie is gefingeerd om verhaal te bemoeilijken;
+
+- − zaken die door de derde onder enige titel ter beschikking zijn gesteld, terwijl zodanige afspraken zijn gemaakt tussen de belastingschuldige en de derde dat de belastingschuldige – hoewel hij formeel zelfstandig ondernemer is en hij daardoor risico’s draagt – in feite de vrije beschikkingsmacht over zijn bedrijf en de beslissingsbevoegdheid die normaliter bij het ondernemerschap past, geheel of gedeeltelijk mist. Dit komt omdat hij dit – in een van de situatie afhankelijke mate – feitelijk moet overlaten aan die derde, zonder wie de bedrijfsvoering (of een deel daarvan) zoals die plaatsvindt, niet denkbaar is;
+
+- − zaken die zijn vervreemd in het kader van de uitoefening van een pandrecht of een ander tot zekerheid strekkend recht (mede) met het oogmerk deze zaken aan verhaal door de ontvanger te onttrekken;
+
+- − Zaken waarvan de lessor fiscaal als eigenaar wordt aangemerkt terwijl de fiscale eigendom van die zaken op een eerder tijdstip krachtens een toen bestaande leaseovereenkomst -waaronder mede begrepen aankoopfinancieringscontracten op basis van verpanding van de verworven zaak- bij de huidige lessee heeft berust.
 
 ### Artikel 8.57. Uitstel van betaling
 
@@ -371,9 +457,29 @@ Als er aanwijzingen zijn dat de belangen van de Staat kunnen worden geschaad, ka
 
 Naast de redenen genoemd in [artikel 8.10. van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&artikel=8.10) wijst de ontvanger een verzoek om uitstel van betaling ook af in de volgende situaties:
 
+- a. De medewerking van de verzoeker aan de Belastingdienst is naar het oordeel van de ontvanger onvoldoende.
+
+- b. De belastingschuldige de gevraagde zekerheid niet stelt.
+
+- c. De waarde van vermogensobjecten kan in redelijkheid te gelde worden gemaakt teneinde daarmee de verschuldigde belasting te betalen.
+
+- d. De berekende betalingscapaciteit is zodanig dat de belastingschuldige de schuld direct kan voldoen.
+
+- e. De betalingsregeling strekt zich over een voor de ontvanger onaanvaardbare termijn uit.
+
+- f. De betalingsproblemen zijn structureel en een betalingsregeling zal volgens de ontvanger geen uitkomst bieden.
+
+- g. Er is sprake van een verzoek om uitstel van betaling van een belastingaanslag in verband met betalingsmoeilijkheden en voorafgaande aan dat verzoek heeft de belastingschuldige uitstel genoten in verband met een bezwaar- of beroepsprocedure tegen die aanslag, terwijl gedurende die procedure betalingsmiddelen ter beschikking hebben gestaan, waarmee de belastingschuld kon worden betaald.
+
 ### 8.57.1.3. Redenen beëindigen uitstel
 
 Naast de redenen genoemd in [artikel 8.18. van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&artikel=8.18) trekt de ontvanger een verzoek om uitstel van betaling ook in als:
+
+- a. tijdens de looptijd van het uitstel blijkt dat de belastingschuldige onjuiste gegevens heeft verstrekt;
+
+- b. de financiële omstandigheden van de belastingschuldige zodanig zijn veranderd dat het naar het oordeel van de ontvanger onjuist is het uitstel te continueren;
+
+- c. de medewerking van de verzoeker aan de Belastingdienst naar het oordeel van de ontvanger onvoldoende is.
 
 ### 8.57.1.4. Beëindigen van een betalingsregeling met meer dan één termijn
 
@@ -419,6 +525,12 @@ Als de belastingschuldige binnen afzienbare tijd een door de ontvanger uit te be
 
 Er is sprake van een binnen afzienbare tijd te verwachten belastingteruggaaf als:
 
+- − het belastingjaar of belastingtijdvak waarover de teruggaaf wordt verwacht is afgelopen, en
+
+- − de belastingschuldige een verzoek om teruggaaf heeft ingediend, en
+
+- − over die teruggaaf tussen de inspecteur en de belastingplichtige geen verschil van mening bestaat.
+
 ### 8.57.3.2. Beslissing op het verzoek om uitstel in verband met een uit te betalen bedrag
 
 De ontvanger beslist – onder door hem te stellen voorwaarden – in het algemeen positief op een volledig gemotiveerd verzoek om uitstel van betaling. De toewijzende beslissing strekt zich niet verder uit dan tot het te verrekenen bedrag.
@@ -439,9 +551,15 @@ De ontvanger staat een betalingsregeling in ieder geval niet toe als de betaling
 
 Op schriftelijk of telefonisch verzoek kan zonder nader onderzoek een betalingsregeling worden getroffen voor zowel particulieren als ondernemers met een looptijd tot maximaal vier maanden na de laatste vervaldag van de (oudste) aanslag. Hierbij moet aan de volgende cumulatieve voorwaarden zijn voldaan:
 
+- a. De totale openstaande schuld van de belastingschuldige bedraagt minder dan $ 20.000. De ontvanger houdt hierbij geen rekening met belastingschulden waarvoor uitstel van betaling in verband met een ingediend bezwaar- of beroepschrift is verleend.
+
+- b. De belastingschuldige heeft geen uitstel van betaling voor dezelfde belastingaanslag of voor andere belastingaanslagen in verband met betalingsproblemen of in verband met een te verwachten uit te betalen bedrag.
+
+- c. De belastingschuldige heeft geen belastingschuld openstaan waarvoor een dwangschrift is betekend.
+
 ### 8.57.4.3. Na kort uitstel geen nader uitstel
 
-Als kort uitstel is verleend op grond van artikel 8.57.4.2 verleent de ontvanger geen nader uitstel meer op grond van hetgeen in de artikelen 8.57.5 en 8.57.6 is bepaald voor een betalingsregeling voor particulieren en ondernemingen.
+Als kort uitstel is verleend op grond van [artikel 8.57.4.2](https://wetten.overheid.nl/BWBR0040762) verleent de ontvanger geen nader uitstel meer op grond van hetgeen in de [artikelen 8.57.5](https://wetten.overheid.nl/BWBR0040762) en [8.57.6](https://wetten.overheid.nl/BWBR0040762) is bepaald voor een betalingsregeling voor particulieren en ondernemingen.
 
 ### 8.57.5. Betalingsregeling voor particulieren
 
@@ -459,7 +577,7 @@ Als voorwaarde voor het verlenen van uitstel van betaling kan de ontvanger zeker
 
 De aanwezigheid van vermogen op het moment van het indienen van het verzoek staat een betalingsregeling in het algemeen in de weg. Dit geldt met name als het vermogen zonder bezwaar liquide is te maken.
 
-Het vermogen dat onder het kwijtscheldingsbeleid voor particulieren, bedoeld in artikel 8.58.2 van deze leidraad, is vrijgesteld, staat een betalingsregeling echter niet in de weg. Onder vermogen wordt in dit verband verstaan de bezittingen van de belastingschuldige, zijn echtgenoot en de inwonende meerderjarige kinderen, verminderd met de schulden die een hogere preferentie hebben dan de belastingschuld.
+Het vermogen dat onder het kwijtscheldingsbeleid voor particulieren, bedoeld in [artikel 8.58.2](https://wetten.overheid.nl/BWBR0040762) van deze leidraad, is vrijgesteld, staat een betalingsregeling echter niet in de weg. Onder vermogen wordt in dit verband verstaan de bezittingen van de belastingschuldige, zijn echtgenoot en de inwonende meerderjarige kinderen, verminderd met de schulden die een hogere preferentie hebben dan de belastingschuld.
 
 ### 8.57.5.4. Belastingschuldige stelt zelf een betalingsregeling voor
 
@@ -479,7 +597,7 @@ De ontvanger verleent de belastingschuldige uitstel van betaling voor een period
 
 Bij het verlenen van een betalingsregeling zal de ontvanger in beginsel de voorwaarde stellen dat de ondernemer zekerheid stelt voor de hele schuld waar hij uitstel voor vraagt.
 
-Als de ondernemer op grond van artikel 8.57.6.1, tweede alinea, van deze leidraad in aanmerking komt voor een langere uitstelperiode dan twaalf maanden, kan de ontvanger besluiten gedeeltelijk van het stellen van zekerheid af te zien tot een bedrag van ten hoogste de helft van de schuld waarvoor uitstel wordt gevraagd.
+Als de ondernemer op grond van [artikel 8.57.6.1, tweede alinea](https://wetten.overheid.nl/BWBR0040762), van deze leidraad in aanmerking komt voor een langere uitstelperiode dan twaalf maanden, kan de ontvanger besluiten gedeeltelijk van het stellen van zekerheid af te zien tot een bedrag van ten hoogste de helft van de schuld waarvoor uitstel wordt gevraagd.
 
 ### 8.57.6.3. Uitstelbeleid particulieren geldt voor ex-ondernemers
 
@@ -523,6 +641,26 @@ Als de ontvanger geen kwijtschelding verleent, wordt de vervolging niet aangevan
 
 Naast de redenen genoemd in [artikel 8.19 van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&artikel=8.19) wordt ook geen kwijtschelding verleend als:
 
+- − de gevraagde gegevens voor de beoordeling van het verzoek niet, niet volledig, onjuist, of niet op het door de ontvanger uitgereikte formulier (zie ook [artikel 8.58.1.1](https://wetten.overheid.nl/BWBR0040762) van deze leidraad) zijn verstrekt;
+
+- − uit de verstrekte gegevens voor de beoordeling van het verzoek een onevenredige verhouding blijkt tussen de omvang van de uitgaven enerzijds en het inkomen anderzijds en de belastingschuldige de in dat verband door de ontvanger gevraagde opheldering niet – of naar het oordeel van de ontvanger – in onvoldoende mate verschaft;
+
+- − de inspecteur een bezwaarschrift tegen de hoogte van de belastingaanslag in behandeling heeft genomen, of als een beroepschrift tegen de hoogte van de belastingaanslag in behandeling is bij het Gerecht in eerste aanleg of (in hoger beroep) bij het Hof. Een eventuele vermindering of vernietiging van de belastingaanslag moet namelijk aan kwijtschelding voorafgaan. De ontvanger deelt de belastingschuldige mee dat een nieuw verzoek om kwijtschelding niet eerder kan worden ingediend dan nadat op het bezwaarschrift of beroepschrift (in hoger beroep) is beslist;
+
+- − voor de desbetreffende belastingaanslag zekerheid is gesteld;
+
+- − de ontvanger een derde nog aansprakelijk kan stellen voor de belastingschuld;
+
+- − het aan de belastingschuldige is toe te rekenen dat de belastingaanslag niet kan worden voldaan. Daar is onder andere sprake van als:
+
+   - a het aan opzet of grove schuld van de belastingschuldige is te wijten dat te weinig belasting is geheven;
+
+   - b de belastingschuldige een uitbetaald bedrag (bijvoorbeeld een belastingteruggaaf) niet heeft gebruikt ter voldoening van de schuld waarvoor hij kwijtschelding heeft gevraagd;
+
+   - c vanaf de bekendmaking van de belastingaanslag tot aan de indiening van het verzoek om kwijtschelding op enig moment voldoende middelen aanwezig waren om de aanslag te kunnen voldoen;
+
+   - d de belastingschuldige wist of redelijkerwijs kon vermoeden dat een belastingaanslag zou worden opgelegd en nalatig is gebleven in verband daarmee middelen te reserveren.
+
 ### 8.58.1.7. Begrip ‘ex-ondernemer’ en kwijtschelding
 
 Als een ex-ondernemer om kwijtschelding vraagt, past de ontvanger het kwijtscheldingsbeleid voor particulieren toe.
@@ -561,6 +699,20 @@ Als vermogen vastgelegd in onroerende zaken leidt tot de afwijzing van een verzo
 
 De ontvanger verleent slechts medewerking aan een akkoord als:
 
+- a. het te ontvangen deel van de belastingschuld:
+
+   - 1°. ten minste het dubbele percentage bedraagt van hetgeen aan concurrente schuldeisers op hun vorderingen wordt uitgekeerd;
+
+   - 2°. een substantiële omvang heeft, zowel absoluut als in relatie tot de totale belastingschuld, en
+
+   - 3°. van ten minste dezelfde omvang is als kan worden verkregen door middel van executiemaatregelen;
+
+- b. de ontvanger noch in uitkeringspercentage, noch in tempo van betaling wordt achtergesteld bij gelijkbevoorrechte schuldeisers;
+
+- c. de belastingschuldige de fiscale verplichtingen die opkomen tijdens de behandeling van het verzoek om kwijtschelding tijdig en volledig nakomt;
+
+- d. bij voortzetting van het bedrijf of zelfstandig beroep van de belastingschuldige na de totstandkoming van het akkoord reële vooruitzichten aanwezig zijn voor de voortzetting van de onderneming.
+
 ### 8.58.3.2. Ten minste dubbele percentage en saneringsakkoord
 
 Voor de berekening van het dubbele percentage dat aan de Belastingdienst moet worden uitgekeerd, brengt de ontvanger op de vorderingen van de concurrente crediteuren eerst in mindering de bedragen die de concurrente crediteuren door zekerheid hebben gedekt. Het begrip ‘ten minste’ verdient in elk geval extra aandacht als in het verleden onevenredige betalingen aan concurrente schuldeisers zijn gedaan.
@@ -569,7 +721,7 @@ Voordat een beoordeling van het aanbod plaatsvindt, gaat de ontvanger na of in d
 
 ### 8.58.4. Kwijtschelding van BES belastingen voor rechtspersonen
 
-De ontvanger kan ook mee werken aan een saneringsakkoord van een rechtspersoon. Hij hanteert daarbij dezelfde voorwaarden als genoemd in [hoofdstuk 8, paragraaf 6, titel 3, afdeling 3 van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&paragraaf=6) en in de artikelen 8.58.3.1. en 8.58.3.2.van deze leidraad. Dat houdt in dat de ontvanger onder dezelfde voorwaarden die gelden voor natuurlijke personen die een onderneming drijven, ook een schuld voor een rechtspersoon kan kwijtschelden.
+De ontvanger kan ook mee werken aan een saneringsakkoord van een rechtspersoon. Hij hanteert daarbij dezelfde voorwaarden als genoemd in [hoofdstuk 8, paragraaf 6, titel 3, afdeling 3 van de uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&paragraaf=6) en in de [artikelen 8.58.3.1](https://wetten.overheid.nl/BWBR0040762). en [8.58.3.2](https://wetten.overheid.nl/BWBR0040762).van deze leidraad. Dat houdt in dat de ontvanger onder dezelfde voorwaarden die gelden voor natuurlijke personen die een onderneming drijven, ook een schuld voor een rechtspersoon kan kwijtschelden.
 
 ### Artikel 8.59. Verrekening
 

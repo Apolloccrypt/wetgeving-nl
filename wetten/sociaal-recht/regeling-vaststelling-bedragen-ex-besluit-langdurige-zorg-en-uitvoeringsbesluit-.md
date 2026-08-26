@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 oktober 2017, kenmerk 1238942-168244-Z, houdende vaststelling per 1 januari 2018 van bedragen krachtens het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015"
+citeertitel: "Regeling vaststelling bedragen ex Besluit langdurige zorg en Uitvoeringsbesluit Wmo 2015 per 1 januari 2018"
 identifier: "BWBR0040101"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040101"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14320163"
-version_id: "24536082"
-internal_id: "C35144491"
-label_id: "14280564"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040101/2018-01-01/0"
-intitule_bron: "Stcrt.2017-60664"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-17"
-intitule_published: "2017-10-26"
-intitule_in_force: "2017-10-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-60664"
-original_signed_date: "2017-10-17"
-original_published_date: "2017-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-60664"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040101&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040101&g=2018-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling vaststelling bedragen ex Besluit langdurige zorg en Uitvoeringsbesluit Wmo 2015 per 1 januari 2018"
-signed_date: "2017-10-17"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040101"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 oktober 2017, kenmerk 1238942-168244-Z, houdende vaststelling per 1 januari 2018 van bedragen krachtens het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015
-
-Gelet op de [artikelen 3.3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.7) en [3.3.2.3, eerste lid, onderdeel b, onder 2°, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.7) en [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), [6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=6) en [19 van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=19) en [8.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), en [8.4, tweede lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.4);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt het Besluit langdurige zorg.
+*Wijzigt het Besluit langdurige zorg.*
 
 ##### Artikel II
 
-Wijzigt de Regeling langdurige zorg.
+*Wijzigt de Regeling langdurige zorg.*
 
 ##### Artikel III
 
-Wijzigt het Uitvoeringsbesluit Wmo 2015.
+*Wijzigt het Uitvoeringsbesluit Wmo 2015.*
 
 ##### Artikel IV
 
-Wijzigt de Uitvoeringsregeling Wmo 2015.
+*Wijzigt de Uitvoeringsregeling Wmo 2015.*
 
 ##### Artikel V
 

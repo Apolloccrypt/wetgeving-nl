@@ -1,66 +1,38 @@
 ---
 title: "Regeling Age Friendly Cultural Cities"
 identifier: "BWBR0040073"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-10-17"
-last_updated: "2017-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040073"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14310623"
-version_id: "24521952"
-internal_id: "C35126331"
-label_id: "14271384"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040073/2017-10-17/0"
-intitule_bron: "Stcrt.2017-58233"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-10-16"
-intitule_in_force: "2017-10-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-58233"
-original_published_date: "2017-10-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-58233"
-entry_into_force_date: "2017-10-17"
-jci_1_3: "jci1.3:c:BWBR0040073&z=2017-10-17&g=2017-10-17"
-jci_1_0: "1.0:c:BWBR0040073&g=2017-10-17"
-citeertitel_status: "officieel"
-entry_into_force: "2017-10-17"
+publicatiedatum: 2017-10-17
+laatste_update: 2017-10-17
+status: geldig
+toestand: 2017-10-17
+bron: "https://wetten.overheid.nl/BWBR0040073"
+opgehaald: 2026-08-26
 ---
+
 # Regeling Age Friendly Cultural Cities
-
-gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) van de Wet op het specifiek cultuurbeleid;
-
-gelet op [artikel 4:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) van de Algemene wet bestuursrecht;
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 4 oktober 2017;
-
-besluit:
-
-vast te stellen de Regeling Age Friendly Cultural Cities
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Definities
 
-- a. **Adviescommissie:** een externe adviescommissie als bedoeld in [artikel 8 van het Huishoudelijk Reglement van stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0037544&artikel=8);
+- a. *Adviescommissie:* een externe adviescommissie als bedoeld in [artikel 8 van het Huishoudelijk Reglement van stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0037544&artikel=8);
 
-- b. **Algemeen Subsidiereglement:** Algemeen Subsidiereglement stichting Fonds voor Cultuurparticipatie;
+- b. *Algemeen Subsidiereglement:* Algemeen Subsidiereglement stichting Fonds voor Cultuurparticipatie;
 
-- c. **Bestuur:** bestuur van stichting Fonds voor Cultuurparticipatie;
+- c. *Bestuur:* bestuur van stichting Fonds voor Cultuurparticipatie;
 
-- d. **Fonds:** stichting Fonds voor Cultuurparticipatie;
+- d. *Fonds:* stichting Fonds voor Cultuurparticipatie;
 
-- e. **Actieve cultuurparticipatie door ouderen:** kunstzinnige of erfgoedactiviteiten die door ouderen in de vrije tijd worden beoefend;
+- e. *Actieve cultuurparticipatie door ouderen:* kunstzinnige of erfgoedactiviteiten die door ouderen in de vrije tijd worden beoefend;
 
-- f. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- f. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- g. **Nederland:** Nederland, inclusief de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- g. *Nederland:* Nederland, inclusief de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- h. **Wmo:** [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
+- h. *Wmo:*
+ [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
 
 ##### Artikel 2. Doel
 

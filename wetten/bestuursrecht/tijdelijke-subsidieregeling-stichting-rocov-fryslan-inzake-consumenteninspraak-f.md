@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 23 augustus 2017, nr. IENM/BSK-2017/195936, houdende de subsidieverstrekking aan Stichting Rocov Fryslân ten behoeve van consumenteninspraak inzake de uitvoering van de concessies voor de Friese Waddenveren over de jaren 2017 tot en met 2021 (Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021)"
+citeertitel: "Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021"
 identifier: "BWBR0039915"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-08-25"
-last_updated: "2017-08-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039915"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14138953"
-version_id: "24314952"
-internal_id: "C34905981"
-label_id: "14099924"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039915/2017-08-25/0"
-intitule_bron: "Stcrt.2017-47209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-23"
-intitule_published: "2017-08-24"
-intitule_in_force: "2017-08-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-47209"
-original_signed_date: "2017-08-23"
-original_published_date: "2017-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-47209"
-entry_into_force_date: "2017-08-25"
-jci_1_3: "jci1.3:c:BWBR0039915&z=2017-08-25&g=2017-08-25"
-jci_1_0: "1.0:c:BWBR0039915&g=2017-08-25"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021"
-signed_date: "2017-08-23"
-entry_into_force: "2017-08-25"
+publicatiedatum: 2017-08-25
+laatste_update: 2017-08-25
+status: geldig
+toestand: 2017-08-25
+bron: "https://wetten.overheid.nl/BWBR0039915"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 23 augustus 2017, nr. IENM/BSK-2017/195936, houdende de subsidieverstrekking aan Stichting Rocov Fryslân ten behoeve van consumenteninspraak inzake de uitvoering van de concessies voor de Friese Waddenveren over de jaren 2017 tot en met 2021 (Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021)
-
-Gelet op de [artikelen 3, eerste lid, aanhef en onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), en [24, derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **concessies voor de Friese Waddenveren:** concessie Friese Waddenveren West en concessie Friese Waddenveren Oost;
+- *concessies voor de Friese Waddenveren:* concessie Friese Waddenveren West en concessie Friese Waddenveren Oost;
 
-- **consumenteninspraak:** het door het Consumentenplatform Friese Waddenveren voeren van overleg met en uitbrengen van advies aan de concessiehouders over het jaarlijks op te stellen vervoerplan en andere veerdienst gerelateerde zaken;
+- *consumenteninspraak:* het door het Consumentenplatform Friese Waddenveren voeren van overleg met en uitbrengen van advies aan de concessiehouders over het jaarlijks op te stellen vervoerplan en andere veerdienst gerelateerde zaken;
 
-- **minister:** de Minister van Infrastructuur en Milieu;
+- *minister:* de Minister van Infrastructuur en Milieu;
 
-- **Stichting Rocov Fryslân:** Stichting Rocov Fryslân, Aronskelk 1, 8935 RH Leeuwarden, KVK 01102361.
+- *Stichting Rocov Fryslân:* Stichting Rocov Fryslân, Aronskelk 1, 8935 RH Leeuwarden, KVK 01102361.
 
 ##### Artikel 2. Doel van de subsidie
 
@@ -105,5 +79,3 @@ Vóór 1 januari 2022 publiceert de minister een verslag over de doeltreffendhei
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

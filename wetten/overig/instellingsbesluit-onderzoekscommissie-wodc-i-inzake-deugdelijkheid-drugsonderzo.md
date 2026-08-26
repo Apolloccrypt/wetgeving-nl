@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 2 februari 2018, houdende instelling van de Onderzoekscommissie WODC I inzake deugdelijkheid drugsonderzoeken (Instellingsbesluit Onderzoekscommissie WODC I inzake deugdelijkheid drugsonderzoeken)"
+citeertitel: "Instellingsbesluit Onderzoekscommissie WODC I inzake deugdelijkheid drugsonderzoeken"
 identifier: "BWBR0040615"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-13"
-last_updated: "2018-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040615"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14539513"
-version_id: "24886092"
-internal_id: "C35601891"
-label_id: "14496944"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040615/2018-02-13/0"
-intitule_bron: "Stcrt.2018-7419"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-02"
-intitule_published: "2018-02-12"
-intitule_in_force: "2018-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-7419"
-original_signed_date: "2018-02-02"
-original_published_date: "2018-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-7419"
-entry_into_force_date: "2018-02-13"
-jci_1_3: "jci1.3:c:BWBR0040615&z=2018-02-13&g=2018-02-13"
-jci_1_0: "1.0:c:BWBR0040615&g=2018-02-13"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Onderzoekscommissie WODC I inzake deugdelijkheid drugsonderzoeken"
-signed_date: "2018-02-02"
-entry_into_force: "2018-02-13"
+publicatiedatum: 2018-02-13
+laatste_update: 2018-02-13
+status: geldig
+toestand: 2018-02-13
+bron: "https://wetten.overheid.nl/BWBR0040615"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 2 februari 2018, houdende instelling van de Onderzoekscommissie WODC I inzake deugdelijkheid drugsonderzoeken (Instellingsbesluit Onderzoekscommissie WODC I inzake deugdelijkheid drugsonderzoeken)
-
-In overeenstemming met het gevoelen van de ministerraad,
-
-Besluit:
-
-Vindt toepassing met ingang van 15 januari 2018.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** de Minister van Justitie en Veiligheid;
+- a. *Minister:* de Minister van Justitie en Veiligheid;
 
-- b. **Commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040615&artikel=2&z=2018-02-13&g=2018-02-13).
+- b. *Commissie:* de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040615&artikel=2&z=2018-02-13&g=2018-02-13).
 
 ##### Artikel 2. Instelling en taak
 
@@ -56,21 +28,21 @@ In dit besluit wordt verstaan onder:
 
 2. De Commissie heeft tot taak onderzoek te verrichten naar:
 
-- a). het rapport ‘Het Besloten club- en het Ingezetenencriterium voor coffeeshops’ uit 2013;
+- a) het rapport ‘Het Besloten club- en het Ingezetenencriterium voor coffeeshops’ uit 2013;
 
-- b). het rapport ‘Internationaal recht en cannabis’ uit 2014; en
+- b) het rapport ‘Internationaal recht en cannabis’ uit 2014; en
 
-- c). het rapport ‘Coffeeshops, toeristen en lokale markt’ uit 2014.
+- c) het rapport ‘Coffeeshops, toeristen en lokale markt’ uit 2014.
 
 3. De Commissie beoordeelt of:
 
-- a). in de totstandkoming van de in het tweede lid genoemde rapporten in de ruimste zin, in ieder geval in het proces van opdrachtformulering, de keuze van de methodologie, de uitvoering en begeleiding, sprake is geweest van onbehoorlijke beïnvloeding die de onafhankelijkheid van de onderzoekers heeft aangetast;
+- a) in de totstandkoming van de in het tweede lid genoemde rapporten in de ruimste zin, in ieder geval in het proces van opdrachtformulering, de keuze van de methodologie, de uitvoering en begeleiding, sprake is geweest van onbehoorlijke beïnvloeding die de onafhankelijkheid van de onderzoekers heeft aangetast;
 
-- b). de rapporten tot stand zijn gekomen volgens de standaarden voor beleidsonderzoek die destijds golden;
+- b) de rapporten tot stand zijn gekomen volgens de standaarden voor beleidsonderzoek die destijds golden;
 
-- c). de samenvattingen van de rapporten een correcte en volledige weergave zijn van de resultaten in de rapporten volgens de standaarden voor beleidsonderzoek die destijds golden; en
+- c) de samenvattingen van de rapporten een correcte en volledige weergave zijn van de resultaten in de rapporten volgens de standaarden voor beleidsonderzoek die destijds golden; en
 
-- d). de conclusies in de rapporten worden gedragen door de onderzoeken.
+- d) de conclusies in de rapporten worden gedragen door de onderzoeken.
 
 4. De Commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht.
 
@@ -84,9 +56,9 @@ In dit besluit wordt verstaan onder:
 
 3. Tot leden van de Commissie worden benoemd:
 
-- –. prof. dr. G.J.L.M. Lensvelt-Mulders;
+- – prof. dr. G.J.L.M. Lensvelt-Mulders;
 
-- –. prof. mr. dr. E.F. ten Heuvelhof.
+- – prof. mr. dr. E.F. ten Heuvelhof.
 
 4. De benoeming geschiedt voor de duur van de werkzaamheden van de Commissie.
 
@@ -171,5 +143,3 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Onderzoekscommissie WODC I inzake deugdelijkheid drugsonderzoeken.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de leden van de Commissie.

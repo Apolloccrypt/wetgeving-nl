@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 24 augustus 2017, nr. ANVS-2017/8574, tot vaststelling van een bestuursreglement (Bestuursreglement ANVS)"
+citeertitel: "Bestuursreglement ANVS"
 identifier: "BWBR0039984"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-09-21"
-last_updated: "2023-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039984"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "14167753"
-version_id: "24366852"
-internal_id: "C34964601"
-label_id: "14128524"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039984/2023-09-21/0"
-intitule_bron: "Stcrt.2017-53021"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-24"
-intitule_published: "2017-09-15"
-intitule_in_force: "2017-09-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-53021"
-original_signed_date: "2017-08-24"
-original_published_date: "2017-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-53021"
-entry_into_force_date: "2017-09-16"
-jci_1_3: "jci1.3:c:BWBR0039984&z=2023-09-21&g=2023-09-21"
-jci_1_0: "1.0:c:BWBR0039984&g=2023-09-21"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement ANVS"
-signed_date: "2017-08-24"
-entry_into_force: "2017-09-16"
+publicatiedatum: 2017-09-16
+laatste_update: 2023-09-21
+status: geldig
+toestand: 2023-09-21
+bron: "https://wetten.overheid.nl/BWBR0039984"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 24 augustus 2017, nr. ANVS-2017/8574, tot vaststelling van een bestuursreglement (Bestuursreglement ANVS)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) en [12b, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=12b);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,17 +20,17 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **bestuur:** de voorzitter en de plaatsvervangend voorzitter;
+- a. *bestuur:* de voorzitter en de plaatsvervangend voorzitter;
 
-- b. **directeur:** directeur van een directie van de Autoriteit volgens het organisatiebesluit van de Autoriteit;
+- b. *directeur:* directeur van een directie van de Autoriteit volgens het organisatiebesluit van de Autoriteit;
 
-- c. **plaatsvervangend voorzitter:** plaatsvervangend voorzitter van de Autoriteit;
+- c. *plaatsvervangend voorzitter:* plaatsvervangend voorzitter van de Autoriteit;
 
-- d. **secretaris:** functionaris belast met het ondersteunen van de vergaderingen;
+- d. *secretaris:* functionaris belast met het ondersteunen van de vergaderingen;
 
-- e. **vergadering:** vergadering van het bestuur;
+- e. *vergadering:* vergadering van het bestuur;
 
-- f. **voorzitter:** voorzitter van de Autoriteit.
+- f. *voorzitter:* voorzitter van de Autoriteit.
 
 ### Hoofdstuk 2. Bevoegdheden
 
@@ -134,10 +108,8 @@ De voorzitter beslist in de gevallen waarin dit reglement niet voorziet.
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2017.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2017.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Bestuursreglement ANVS.
-
-Dit besluit wordt, na goedkeuring door de Minister van Infrastructuur en Milieu, met de toelichting in de Staatscourant geplaatst.

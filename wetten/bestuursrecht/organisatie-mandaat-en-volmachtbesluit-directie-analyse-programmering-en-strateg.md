@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141565, houdende de inrichting van de directie Analyse, Programmering en Strategie, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017"
 identifier: "BWBR0039964"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-30"
-last_updated: "2025-07-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039964"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14164083"
-version_id: "24360352"
-internal_id: "C34957471"
-label_id: "14125004"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039964/2025-07-30/0"
-intitule_bron: "Stcrt.2017-50929"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-31"
-intitule_published: "2017-09-11"
-intitule_in_force: "2017-09-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-50929"
-original_signed_date: "2017-08-31"
-original_published_date: "2017-09-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-50929"
-entry_into_force_date: "2017-09-12"
-jci_1_3: "jci1.3:c:BWBR0039964&z=2025-07-30&g=2025-07-30"
-jci_1_0: "1.0:c:BWBR0039964&g=2025-07-30"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017"
-signed_date: "2017-08-31"
-entry_into_force: "2017-09-12"
+publicatiedatum: 2017-09-12
+laatste_update: 2025-07-30
+status: geldig
+toestand: 2025-07-30
+bron: "https://wetten.overheid.nl/BWBR0039964"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141565, houdende de inrichting van de directie Analyse, Programmering en Strategie, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017)
-
-Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,33 +20,33 @@ Besluit:
 
 In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
-- **afdeling BDI:** de afdeling Boete, Dwangsom en Inning;
+- *afdeling BDI:* de afdeling Boete, Dwangsom en Inning;
 
-- **afdeling BO:** de afdeling Beleidsondersteuning;
+- *afdeling BO:* de afdeling Beleidsondersteuning;
 
-- **afdeling COM:** de afdeling Communicatie;
+- *afdeling COM:* de afdeling Communicatie;
 
-- **afdeling HH:** de afdeling Handhaving;
+- *afdeling HH:* de afdeling Handhaving;
 
-- **afdeling PCF:** de afdeling Planning, Control en Financiën;
+- *afdeling PCF:* de afdeling Planning, Control en Financiën;
 
-- **afdeling PSO:** de afdeling Programmering, Signalering en Onderzoek;
+- *afdeling PSO:* de afdeling Programmering, Signalering en Onderzoek;
 
-- **afdeling SPO:** de afdeling Services, Personeelsontwikkeling en Ondersteuning;
+- *afdeling SPO:* de afdeling Services, Personeelsontwikkeling en Ondersteuning;
 
-- **directeur:** de directeur van de directie Analyse, Programmering en Strategie;
+- *directeur:* de directeur van de directie Analyse, Programmering en Strategie;
 
-- **directie:** de directie Analyse, Programmering en Strategie;
+- *directie:* de directie Analyse, Programmering en Strategie;
 
-- **team ISI:** het team Inkoop, Secretariaat en Interne arbozorg;
+- *team ISI:* het team Inkoop, Secretariaat en Interne arbozorg;
 
-- **team MOMA:** het team Management, Ondersteuners en Assistenten;
+- *team MOMA:* het team Management, Ondersteuners en Assistenten;
 
-- **team P&O:** het team Personeel en Organisatieontwikkeling;
+- *team P&O:* het team Personeel en Organisatieontwikkeling;
 
-- **team S&O:** het team Services en Ondersteunend cluster;
+- *team S&O:* het team Services en Ondersteunend cluster;
 
-- **uitvoerende directies:** de directie Toezicht, de directie Meldingen en Verzoeken, de directie Informatievoorziening en de directie Opsporing.
+- *uitvoerende directies:* de directie Toezicht, de directie Meldingen en Verzoeken, de directie Informatievoorziening en de directie Opsporing.
 
 #### § 2. Organisatie
 
@@ -82,9 +56,9 @@ In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
 - a. de afdeling BDI, waarbinnen de volgende teams zijn ingericht:
 
-- 1°. drie teams voor de voorbereiding van bestuurlijke sancties, elk met een eigen teamleider;
+   - 1°. drie teams voor de voorbereiding van bestuurlijke sancties, elk met een eigen teamleider;
 
-- 2°. een team voor inning en beheer;
+   - 2°. een team voor inning en beheer;
 
 - b. de afdeling BO;
 
@@ -94,23 +68,23 @@ In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
 - e. de afdeling PCF, waarbinnen de volgende teams zijn ingericht:
 
-- 1°. Control;
+   - 1°. Control;
 
-- 2°. Financiële administratie;
+   - 2°. Financiële administratie;
 
-- 3°. Audit functie;
+   - 3°. Audit functie;
 
 - f. de afdeling PSO;
 
 - g. de afdeling SPO, waarbinnen de volgende teams zijn ingericht:
 
-- 1°. P&O;
+   - 1°. P&O;
 
-- 2°. ISI;
+   - 2°. ISI;
 
-- 3°. MOMA;
+   - 3°. MOMA;
 
-- 4°. S&O.
+   - 4°. S&O.
 
 2. De afdelingen worden als volgt geleid:
 
@@ -143,6 +117,44 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 - h. het bijdragen aan de ontwikkeling van de strategische personeelsplanning en zorg dragen voor de uitvoering daarvan binnen de afdeling;
 
 - i. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op het vakgebied van het afdelingshoofd.
+
+##### Artikel 3a. Verantwoordelijkheden teamleiders
+
+De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
+
+- a. de aansturing van uitvoerende of ondersteunende medewerkers;
+
+- b. de organisatie van een professionele thuisbasis voor de medewerkers en het vormgeven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
+
+   - 1°. het bevorderen van de persoonlijke ontwikkeling;
+
+   - 2°. het begeleiden van medewerkers met ziekteverzuim;
+
+   - 3°. het voeren van functionerings- en personeelsgesprekken;
+
+- c. het zicht houden op de voortgang van de realisatie van teamdoelen en de afgesproken resultaten, het leveren van producten en diensten conform de geldende kaders en het zo nodig bijsturen;
+
+- d. het gestructureerd voeren van werkoverleg;
+
+- e. het zorg dragen voor de borging van kennis en kwaliteit binnen het team;
+
+- f. het rapporteren aan het afdelingshoofd en collega teamleiders met het oog op een optimale inzet van mensen, uniforme wijze van aansturen, kennismanagement en netwerkbeheer;
+
+- g. het zorg dragen voor de borging van uniformiteit en kwaliteit van vakspecifieke werkprocessen en het leveren van input voor richtlijnen en procedures;
+
+- h. het monitoren van de werkprocessen binnen het team;
+
+- i. het actief vormgeven aan ontwikkelingen, innovaties en verbetermogelijkheden en deze vertalen naar vakinhoudelijke producten en diensten;
+
+- j. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
+
+   - 1°. start-, functionerings- en personeelsgesprekken;
+
+   - 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
+
+- k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
+
+- l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
 ##### Artikel 4. Verantwoordelijkheden afdeling PSO
 
@@ -208,11 +220,11 @@ De afdeling HH is verantwoordelijk voor:
 
 - a. het ondersteunen van inspecteurs en rechercheurs op het gebied van handhavings- en wetgevingskennis, waaronder in ieder geval begrepen:
 
-- 1°. het ontwikkelen en geven van opleidingen voor wat betreft het vakinhoudelijk, in het bijzonder juridische, gedeelte;
+   - 1°. het ontwikkelen en geven van opleidingen voor wat betreft het vakinhoudelijk, in het bijzonder juridische, gedeelte;
 
-- 2°. juridische adviesfunctie voor primair proces;
+   - 2°. juridische adviesfunctie voor primair proces;
 
-- 3°. de ondersteuning en opleiding op handhavingterrein en aanpak van inspecteurs bij andere inspectiediensten, die als toezichthouders zijn aangewezen op terreinen van de Nederlandse Arbeidsinspectie;
+   - 3°. de ondersteuning en opleiding op handhavingterrein en aanpak van inspecteurs bij andere inspectiediensten, die als toezichthouders zijn aangewezen op terreinen van de Nederlandse Arbeidsinspectie;
 
 - b. het formuleren van een handhavingsbeleid van de Nederlandse Arbeidsinspectie;
 
@@ -239,106 +251,6 @@ De afdeling BDI is verantwoordelijk voor:
 - c. het geven van waarschuwingen inzake stillegging van werkzaamheden in verband met recidive, alsmede het voorbereiden en bekendmaken van beschikkingen tot stillegging van werkzaamheden in verband met recidive;
 
 - d. de actieve openbaarmaking op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) van inspectiegegevens bij zware of ernstige asbestovertredingen binnen de kaders van het daaromtrent vastgestelde beleid.
-
-#### § 4. Bevoegdheden
-
-##### Artikel 9. Bevoegdheden afdelingshoofd en teamleiders BDI
-
-Het hoofd en de teamleiders van de afdeling BDI zijn bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
-
-##### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
-
-1. Aan de afdelingshoofden en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
-
-- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
-
-- b. het houden van personeelsgesprekken;
-
-- c. het beslissen over verlof van medewerkers;
-
-- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
-
-- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de CAO Rijk.
-
-2. In aanvulling op het eerste lid wordt aan de afdelingshoofden ook volmacht en machtiging verleend met betrekking tot het vaststellen van een beoordeling van een medewerker die rechtstreeks ressorteert onder een onder hem ressorterende teamleider, die is opgesteld door een teamleider die rechtstreeks onder hem ressorteert.
-
-##### Artikel 11. Volmachten afdelingshoofden
-
-De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
-
-- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
-
-- b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
-
-##### Artikel 12. Volmacht afdelingshoofd COM
-
-Het hoofd van de afdeling COM is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
-
-##### Artikel 13. Plaatsvervanging
-
-1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
-
-2. Bij afwezigheid of verhindering van een afdelingshoofd of teamleider worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van het afdelingshoofd of de teamleider geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
-
-#### § 5. Slotbepalingen
-
-##### Artikel 14. Intrekking regeling
-
-Het [Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Signalering 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031926) wordt ingetrokken.
-
-##### Artikel 15. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
-
-##### Artikel 16. Citeertitel
-
-Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Verantwoordelijkheden teamleiders
-
-De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
-
-- a. de aansturing van uitvoerende of ondersteunende medewerkers;
-
-- b. de organisatie van een professionele thuisbasis voor de medewerkers en het vormgeven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
-
-- 1°. het bevorderen van de persoonlijke ontwikkeling;
-
-- 2°. het begeleiden van medewerkers met ziekteverzuim;
-
-- 3°. het voeren van functionerings- en personeelsgesprekken;
-
-- c. het zicht houden op de voortgang van de realisatie van teamdoelen en de afgesproken resultaten, het leveren van producten en diensten conform de geldende kaders en het zo nodig bijsturen;
-
-- d. het gestructureerd voeren van werkoverleg;
-
-- e. het zorg dragen voor de borging van kennis en kwaliteit binnen het team;
-
-- f. het rapporteren aan het afdelingshoofd en collega teamleiders met het oog op een optimale inzet van mensen, uniforme wijze van aansturen, kennismanagement en netwerkbeheer;
-
-- g. het zorg dragen voor de borging van uniformiteit en kwaliteit van vakspecifieke werkprocessen en het leveren van input voor richtlijnen en procedures;
-
-- h. het monitoren van de werkprocessen binnen het team;
-
-- i. het actief vormgeven aan ontwikkelingen, innovaties en verbetermogelijkheden en deze vertalen naar vakinhoudelijke producten en diensten;
-
-- j. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
-
-- 1°. start-, functionerings- en personeelsgesprekken;
-
-- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
-
-- k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
-
-- l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
-
-#### § 4. Bevoegdheden
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a. Verantwoordelijkheden afdeling PCF
 
@@ -380,13 +292,41 @@ De afdeling SPO is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
+##### Artikel 9. Bevoegdheden afdelingshoofd en teamleiders BDI
+
+Het hoofd en de teamleiders van de afdeling BDI zijn bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
+
+##### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
+
+1. Aan de afdelingshoofden en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
+
+- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
+
+- b. het houden van personeelsgesprekken;
+
+- c. het beslissen over verlof van medewerkers;
+
+- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
+
+- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de CAO Rijk.
+
+2. In aanvulling op het eerste lid wordt aan de afdelingshoofden ook volmacht en machtiging verleend met betrekking tot het vaststellen van een beoordeling van een medewerker die rechtstreeks ressorteert onder een onder hem ressorterende teamleider, die is opgesteld door een teamleider die rechtstreeks onder hem ressorteert.
+
+##### Artikel 11. Volmachten afdelingshoofden
+
+De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
+
+- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
+
+- b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
+
 ##### Artikel 11a. Volmacht teamleiders
 
 De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
-#### § 5. Slotbepalingen
+##### Artikel 12. Volmacht afdelingshoofd COM
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Het hoofd van de afdeling COM is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
 ##### Artikel 12a. Volmachten hoofd en teamleiders SPO
 
@@ -394,6 +334,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De teamleiders S&O en ISI zijn gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
+##### Artikel 13. Plaatsvervanging
+
+1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+
+2. Bij afwezigheid of verhindering van een afdelingshoofd of teamleider worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van het afdelingshoofd of de teamleider geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+
 #### § 5. Slotbepalingen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 14. Intrekking regeling
+
+Het [Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Signalering 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031926) wordt ingetrokken.
+
+##### Artikel 15. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
+
+##### Artikel 16. Citeertitel
+
+Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017.

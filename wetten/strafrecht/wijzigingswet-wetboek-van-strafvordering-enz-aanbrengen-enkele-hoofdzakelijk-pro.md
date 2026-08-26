@@ -1,87 +1,58 @@
 ---
 title: "Wet van 31 januari 2018 tot wijziging van het Wetboek van Strafvordering, de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikking gestelden, de Beginselenwet justitiële jeugdinrichtingen en enkele andere strafrechtelijke wetten met het oog op het aanbrengen van enkele hoofdzakelijk procedurele verbeteringen ten behoeve van de rechtspraktijk"
+citeertitel: "Wijzigingswet Wetboek van Strafvordering, enz. (aanbrengen enkele hoofdzakelijk procedurele verbeteringen t.b.v. de rechtspraktijk)"
 identifier: "BWBR0040618"
-country: "nl"
-rank: "wet"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040618"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "14540083"
-version_id: "24887792"
-internal_id: "C35840331"
-label_id: "14497504"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040618/2018-07-01/0"
-intitule_bron: "Stb.2018-30"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-01-31"
-intitule_published: "2018-02-16"
-intitule_in_force: "2018-06-19"
-intitule_status: "goed"
-original_publication: "Stb.2018-30"
-original_signed_date: "2018-01-31"
-original_published_date: "2018-02-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "34736"
-original_url_id: "stb-2018-30"
-entry_into_force_date: "2018-07-01"
-jci_1_3: "jci1.3:c:BWBR0040618&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0040618&g=2018-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wetboek van Strafvordering, enz. (aanbrengen enkele hoofdzakelijk procedurele verbeteringen t.b.v. de rechtspraktijk)"
-signed_date: "2018-01-31"
-entry_into_force: "2018-07-01"
+publicatiedatum: 2018-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0040618"
+opgehaald: 2026-08-26
 ---
+
 # Wet van 31 januari 2018 tot wijziging van het Wetboek van Strafvordering, de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikking gestelden, de Beginselenwet justitiële jeugdinrichtingen en enkele andere strafrechtelijke wetten met het oog op het aanbrengen van enkele hoofdzakelijk procedurele verbeteringen ten behoeve van de rechtspraktijk
-
-Allen, die dezen zullen zien of horen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is om in enkele wetten op het terrein van het Ministerie van Veiligheid en Justitie wijzigingen aan te brengen met enkele hoofdzakelijk procedurele verbeteringen ten behoeve van de rechtspraktijk;
-
-Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel II
 
-Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.
+*Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.*
 
 ##### Artikel III
 
-Wijzigt de Penitentiaire beginselenwet.
+*Wijzigt de Penitentiaire beginselenwet.*
 
 ##### Artikel IV
 
-Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
+*Wijzigt de Beginselenwet verpleging ter beschikking gestelden.*
 
 ##### Artikel V
 
-Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel VI
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel VII
 
-Wijzigt de Wet DNA-onderzoek bij veroordeelden.
+*Wijzigt de Wet DNA-onderzoek bij veroordeelden.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet forensische zorg.
+*Wijzigt de Wet forensische zorg.*
 
 ##### Artikel IX
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel X
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XI
 
@@ -92,5 +63,3 @@ Wijzigt deze wet.
 ##### Artikel XII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

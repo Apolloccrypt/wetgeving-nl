@@ -1,35 +1,16 @@
 ---
 title: "Circulaire (onkosten)vergoeding 2018 en wijziging bezoldiging 2017 politieke ambtsdragers waterschappen"
 identifier: "BWBR0040214"
-country: "nl"
-rank: "circulaire"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040214"
+categorie: "Milieu"
 soort: "circulaire"
-stam_id: "14419563"
-version_id: "24655512"
-internal_id: "C35273291"
-label_id: "14380284"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040214/2018-01-01/0"
-intitule_bron: "Stcrt.2017-65527"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-11-16"
-intitule_in_force: "2017-11-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-65527"
-original_published_date: "2017-11-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-65527"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040214&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040214&g=2018-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040214"
+opgehaald: 2026-08-26
 ---
+
 # Circulaire (onkosten)vergoeding 2018 en wijziging bezoldiging 2017 politieke ambtsdragers waterschappen
 
 ### Inleiding
@@ -48,6 +29,8 @@ U kunt deze wijzigingen nu al doorvoeren.
 
 Onlangs is in de arbeidsvoorwaardenovereenkomst sector Rijk 2017 voor het personeel in de sector Rijk afgesproken dat met ingang van 1 januari 2017 de salarisbedragen structureel worden verhoogd met 1,4%. Deze verhoging komt in december 2017 met terugwerkende kracht tot uitbetaling; ook voor medewerkers die sinds 1 januari 2017 uit dienst zijn getreden.
 
+Verhoging bezoldiging voorzitter van een waterschap
+
 Het bedrag van de bezoldiging van de voorzitter van een waterschap is bepaald in [artikel 3.24, eerste lid, van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=3.24) en is naar evenredigheid van de vastgestelde tijdsbestedingsnorm.
 
 Het bedrag wijzigt als de bezoldiging van het personeel in de sector Rijk wijzigt [(artikel 3.24, derde lid, van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=3.24)).
@@ -56,9 +39,17 @@ Concreet betekent bovenstaande afspraak voor de voorzitter dat de salarisverhogi
 
 Het bezoldigingsbedrag voor een voorzitter van een waterschap, genoemd in [artikel 3.24, eerste lid, van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=3.24) wordt per 1 januari 2017 € 9.287,73 (was € 9.159,50) per maand, naar evenredigheid van de vastgestelde tijdsbestedingsnorm.
 
+Voorzitter die sinds 1 januari 2017 de functie heeft verlaten
+
 Deze salarisverhoging moet ook met terugwerkende kracht worden betaald aan voorzitters die sinds 1 januari 2017 of later de functie hebben verlaten.
 
+Doorwerking naar uitkeringen en pensioenen
+
+Uitkeringen
+
 De salarisverhoging heeft een algemeen karakter en werkt daarom op basis van [artikel 133, derde lid, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=133) (Appa) door naar al ingegane Appa-uitkeringen.
+
+Pensioenen
 
 De verhoging van het salaris is pensioengevend met terugwerkende kracht tot 1 januari 2017. Dit komt pas tot uitdrukking bij de vaststelling van het pensioengevend salaris in 20181Het pensioengevend inkomen wordt in de ABP-regeling volgens de zogenoemde ‘peildatumsystematiek’ berekend op basis van het vaste inkomen, zoals dat op 1 januari van elk kalenderjaar bekend is, verhoogd met de variabele pensioengevende inkomensbestanddelen van het voorgaande jaar. Het is vanwege de peildatumsystematiek niet mogelijk het pensioengevend inkomen met terugwerkende kracht te wijzigen. De verhoging van het salaris in verband met de wijziging van de salarisbedragen wordt daarom pas pensioengevend in 2018. Om de verhoging in 2017 ook te laten meetellen wordt deze als variabel inkomensbestanddeel behandeld, zodat daarover in 2018 opbouw en afdracht plaatsvindt. Hiervoor wordt berekend wat het ABP-jaarinkomen zou zijn geweest als de salarisverhoging per 1 januari 2017 was doorgevoerd. Het verschil tussen het daadwerkelijke ABP-jaarinkomen 2017 en het herberekende jaarinkomen 2017 wordt als variabel inkomensbestanddeel toegevoegd aan het ABP-jaarinkomen 2018..
 
@@ -92,9 +83,17 @@ Het referentiepunt voor de bezoldiging van een lid van het dagelijks bestuur van
 
 De bezoldiging van een lid van het dagelijks bestuur van een waterschap genoemd in [artikel 3.11, eerste lid, van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=3.11) bedraagt per 1 januari 2017 € 1.516,86 per maand (was € 1.495,92 per maand) bij een tijdsbestedingsnorm van 20%.
 
+Leden dagelijks bestuur die sinds 1 januari 2017 de functie hebben verlaten
+
 De salarisverhoging per 1 januari 2017 moet ook met terugwerkende kracht worden betaald aan leden van het dagelijks bestuur die sinds 1 januari 2017 of later het ambt hebben verlaten.
 
+Doorwerking naar uitkeringen en pensioenen
+
+Uitkeringen
+
 De salarisverhoging heeft een algemeen karakter en werkt daarom op basis van [artikel 133, derde lid, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=133) (Appa) door naar al ingegane Appa-uitkeringen.
+
+Pensioenen
 
 De verhoging van het salaris is pensioengevend met terugwerkende kracht tot 1 januari 2017. In tegenstelling tot de ABP-regeling wordt het pensioengevend salaris in de Appa-regeling met terugwerkende kracht naar 1 januari 2017 aangepast.
 

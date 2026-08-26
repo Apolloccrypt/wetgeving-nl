@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 september 2017, nr. DE/122061, houdende regels voor het instellen van een jury voor toekenning van de Joke Smitprijs, voor de werkwijze van de jury en voor de voordracht van de kandidaten (Regeling toekenning Joke Smitprijs)"
+citeertitel: "Regeling toekenning Joke Smitprijs"
 identifier: "BWBR0040060"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040060"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14248233"
-version_id: "24457772"
-internal_id: "C35061081"
-label_id: "14208914"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040060/2020-01-01/0"
-intitule_bron: "Stcrt.2017-56928"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-09-08"
-intitule_published: "2017-10-09"
-intitule_in_force: "2017-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-56928"
-original_signed_date: "2017-09-08"
-original_published_date: "2017-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-56928"
-entry_into_force_date: "2017-10-10"
-jci_1_3: "jci1.3:c:BWBR0040060&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0040060&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toekenning Joke Smitprijs"
-signed_date: "2017-09-08"
-entry_into_force: "2017-10-10"
+publicatiedatum: 2017-10-10
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0040060"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 september 2017, nr. DE/122061, houdende regels voor het instellen van een jury voor toekenning van de Joke Smitprijs, voor de werkwijze van de jury en voor de voordracht van de kandidaten (Regeling toekenning Joke Smitprijs)
-
-Gelet op [artikel 3 van het Besluit van 10 oktober 1985, tot instelling van de Joke Smitprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003859&artikel=3) en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **gendergelijkheid:** gelijke behandeling, gelijke rechten en gelijke kansen van en voor mannen en vrouwen in de Nederlandse samenleving;
+- *gendergelijkheid:* gelijke behandeling, gelijke rechten en gelijke kansen van en voor mannen en vrouwen in de Nederlandse samenleving;
 
-- **Joke Smit aanmoedigingsprijs:** Joke Smit aanmoedigingsprijs als bedoeld in [artikel 1, tweede lid, van het Besluit van 10 oktober 1985, tot instelling van de Joke Smitprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003859&artikel=1) (Stb. 1985, 597);
+- *Joke Smit aanmoedigingsprijs:* Joke Smit aanmoedigingsprijs als bedoeld in [artikel 1, tweede lid, van het Besluit van 10 oktober 1985, tot instelling van de Joke Smitprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003859&artikel=1) (Stb. 1985, 597);
 
-- **Joke Smit oeuvreprijs:** Joke Smit oeuvreprijs als bedoeld in [artikel 1, tweede lid, van het Besluit van 10 oktober 1985, tot instelling van de Joke Smitprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003859&artikel=1) (Stb. 1985, 597);
+- *Joke Smit oeuvreprijs:* Joke Smit oeuvreprijs als bedoeld in [artikel 1, tweede lid, van het Besluit van 10 oktober 1985, tot instelling van de Joke Smitprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003859&artikel=1) (Stb. 1985, 597);
 
-- **jury:** jury als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2020-01-01&g=2020-01-01);
+- *jury:* jury als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2020-01-01&g=2020-01-01);
 
-- **Minister:** Minister van Onderwijs, Cultuur en Wetenschap.
+- *Minister:* Minister van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 2. Instelling en taak jury
 
@@ -175,25 +149,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toekenning Joke Smitprijs.
-
-## Bijlage I. als bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2020-01-01&g=2020-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=5&z=2020-01-01&g=2020-01-01), van de Regeling toekenning Joke Smitprijs
-
-### Selectiecriteria Joke Smit oeuvreprijs
-
-Het formele criterium op grond van het [Besluit instelling Joke Smitprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003859) is dat de betrokken persoon, groep of instelling een fundamentele en langdurige bijdrage levert of heeft geleverd aan de verbetering van de positie van vrouwen en meisjes in de Nederlandse samenleving.
-
-Het formele criterium vertaalt zich in de volgende selectiecriteria:
-
-De prijs is een kroon op al het gedane werk (oeuvreprijs) van een persoon, groep of instelling die zich verdienstelijk heeft gemaakt voor het vrouwenemancipatieproces.
-
-## Bijlage II. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2020-01-01&g=2020-01-01), van de Regeling toekenning Joke Smitprijs
-
-### Protocol
-
-Elke twee jaar kan de Joke Smit aanmoedigingsprijs worden uitgereikt. Vanaf 2017 zal de Joke Smit aanmoedigingsprijs worden gekozen door het publiek en niet de jury, zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=2&z=2020-01-01&g=2020-01-01) van de Regeling toekenning Joke Smitprijs. Middels een online stemtool kan iedereen die dat wil stemmen op een van de voor de aanmoedigingsprijs aangedragen kandidaten. Hoe de kandidaten kunnen worden aangedragen wordt bekendgemaakt via een persbericht. Voordat de aangedragen kandidaten definitief worden genomineerd, wordt nagegaan of zij voldoen aan de eisen aan de voordracht ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=8&z=2020-01-01&g=2020-01-01) van de Regeling toekenning Joke Smitprijs) voor de prijs.
-
-De kandidaten die aan de eisen voldoen komen op de Facebookpagina van de prijs als ‘genomineerde’. Zodra ze ‘genomineerd’ zijn voor de Aanmoedigingsprijs en er dus op hen gestemd kan worden krijgen de genomineerden een bericht daarover. OCW kan de genomineerden vragen om zelf een vlog te maken voor de Facebookpagina. De Minister kan in een uitzonderlijk geval besluiten de prijs niet uit te reiken aan de door het publiek gekozen persoon, groep of instelling, naar analogie van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040060&artikel=6&z=2020-01-01&g=2020-01-01), van de Regeling toekenning Joke Smitprijs. Deze mogelijkheid is opgenomen, omdat de prijs een regeringsprijs is. Van een uitzonderlijk geval kan bijvoorbeeld sprake zijn indien de genomineerde persoon, groep of instelling naar het oordeel van de Minister niet (meer) van onbesproken gedrag is. Ook is mogelijk dat de genomineerde persoon, groep of instelling aan de Minister kenbaar heeft gemaakt niet voor toekenning van de Joke Smit aanmoedigingsprijs in aanmerking te willen komen.
-
-Indien een persoon, groep of instelling wordt voorgedragen voor de Joke Smit oeuvreprijs door de jury en tevens door het publiek wordt gekozen voor de Joke Smit aanmoedigingsprijs vanwege een recente bijdrage aan het verbeteren van de positie van vrouwen en meisjes, krijgt deze persoon, groep of instelling de Joke Smit oeuvreprijs. De persoon, groep of instelling die op nummer twee was geëindigd voor de Joke Smit aanmoedigingsprijs wordt daarmee nummer een voor de Joke Smit aanmoedigingsprijs.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

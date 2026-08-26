@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 26 februari 2018, nr. IENW/BSK-2018/36474, houdende bepalingen inzake het verstrekken van subsidie aan de stichting Knowledge and Development Centre Mainport Schiphol voor de jaren 2018 tot en met 2022 (Tijdelijke subsidieregeling KDC 2018–2022)"
+citeertitel: "Tijdelijke subsidieregeling KDC 2018–2022"
 identifier: "BWBR0040663"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-28"
-last_updated: "2018-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040663"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14556973"
-version_id: "24914552"
-internal_id: "C35635491"
-label_id: "14511014"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040663/2018-02-28/0"
-intitule_bron: "Stcrt.2018-10496"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-26"
-intitule_published: "2018-02-27"
-intitule_in_force: "2018-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-10496"
-original_signed_date: "2018-02-26"
-original_published_date: "2018-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-10496"
-entry_into_force_date: "2018-02-28"
-jci_1_3: "jci1.3:c:BWBR0040663&z=2018-02-28&g=2018-02-28"
-jci_1_0: "1.0:c:BWBR0040663&g=2018-02-28"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling KDC 2018–2022"
-signed_date: "2018-02-26"
-entry_into_force: "2018-02-28"
+publicatiedatum: 2018-02-28
+laatste_update: 2018-02-28
+status: geldig
+toestand: 2018-02-28
+bron: "https://wetten.overheid.nl/BWBR0040663"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 februari 2018, nr. IENW/BSK-2018/36474, houdende bepalingen inzake het verstrekken van subsidie aan de stichting Knowledge and Development Centre Mainport Schiphol voor de jaren 2018 tot en met 2022 (Tijdelijke subsidieregeling KDC 2018–2022)
-
-Gelet op [artikel 3, eerste lid, onderdeel c, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3);
-
-BESLUIT:
 
 ##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
-- **KDC:** de stichting Knowledge and Development Centre Mainport Schiphol;
+- *KDC:* de stichting Knowledge and Development Centre Mainport Schiphol;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **plan van aanpak:** plan van aanpak beheer KDC voor het boekjaar waarvoor de subsidie wordt aangevraagd.
+- *plan van aanpak:* plan van aanpak beheer KDC voor het boekjaar waarvoor de subsidie wordt aangevraagd.
 
 2. Het plan van aanpak wordt aangemerkt als activiteitenplan als bedoeld in [artikel 4:61, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:61).
 
@@ -125,27 +99,3 @@ Aan de subsidie zijn de volgende verplichtingen verbonden:
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling KDC 2018–2022.
-
-## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040663&artikel=5&z=2018-02-28&g=2018-02-28)
-
-### Verklaring de-minimissteun
-
-Hierbij verklaart ondergetekende, dat aan de hierna genoemde onderneming, evenals aan het eventuele gehele moederconcern waartoe de onderneming behoort,
-
-Aldus volledig en naar waarheid ingevuld door:......
-
-(Bedrijfsnaam)......
-
-(Inschrijfnummer KvK)......
-
-(Naam functionaris en functie)......
-
-(Adres onderneming)......
-
-(Postcode en plaatsnaam)......
-
-(datum)......
-
-(Handtekening)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister-President, de Minister van Algemene Zaken van 14 december 2017, nr. 3973240, houdende de vaststelling van het Organisatiebesluit van het Ministerie van Algemene Zaken"
+citeertitel: "Organisatiebesluit Ministerie van Algemene Zaken"
 identifier: "BWBR0040546"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-27"
-last_updated: "2018-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040546"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14515673"
-version_id: "24845342"
-internal_id: "C35546911"
-label_id: "14473664"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040546/2018-01-27/0"
-intitule_bron: "Stcrt.2018-3911"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-14"
-intitule_published: "2018-01-26"
-intitule_in_force: "2018-01-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-3911"
-original_signed_date: "2017-12-14"
-original_published_date: "2018-01-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-3911"
-entry_into_force_date: "2018-01-27"
-jci_1_3: "jci1.3:c:BWBR0040546&z=2018-01-27&g=2018-01-27"
-jci_1_0: "1.0:c:BWBR0040546&g=2018-01-27"
-citeertitel_status: "officieel"
-short_title: "Organisatiebesluit Ministerie van Algemene Zaken"
-signed_date: "2017-12-14"
-entry_into_force: "2018-01-27"
+publicatiedatum: 2018-01-27
+laatste_update: 2018-01-27
+status: geldig
+toestand: 2018-01-27
+bron: "https://wetten.overheid.nl/BWBR0040546"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister-President, de Minister van Algemene Zaken van 14 december 2017, nr. 3973240, houdende de vaststelling van het Organisatiebesluit van het Ministerie van Algemene Zaken
-
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,11 +20,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister-President, de Minister van Algemene Zaken;
+- a. *minister:* de Minister-President, de Minister van Algemene Zaken;
 
-- b. **ministerie:** het Ministerie van Algemene Zaken;
+- b. *ministerie:* het Ministerie van Algemene Zaken;
 
-- c. **ressorteren:** vallend onder het gezagsbereik van de genoemde functionaris.
+- c. *ressorteren:* vallend onder het gezagsbereik van de genoemde functionaris.
 
 #### § 2. Hoofdstructuur van de organisatie
 
@@ -205,7 +179,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 21. Citeertitel
 
 Dit besluit wordt aangehaald als: ‘Organisatiebesluit Ministerie van Algemene Zaken’.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-Een afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.

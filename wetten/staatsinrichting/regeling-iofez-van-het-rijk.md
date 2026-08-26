@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 21 november 2017, houdende regels over een periodiek interdepartementaal overleg met betrekking tot financieel-economische aangelegenheden bij het Rijk (Regeling IOFEZ van het Rijk)"
+citeertitel: "Regeling IOFEZ van het Rijk"
 identifier: "BWBR0040284"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040284"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14432113"
-version_id: "24678642"
-internal_id: "C35307731"
-label_id: "14392694"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040284/2018-01-01/0"
-intitule_bron: "Stcrt.2017-69115"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-21"
-intitule_published: "2017-12-04"
-intitule_in_force: "2017-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-69115"
-original_signed_date: "2017-11-21"
-original_published_date: "2017-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-69115"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040284&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040284&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling IOFEZ van het Rijk"
-signed_date: "2017-11-21"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040284"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Financiën van 21 november 2017, houdende regels over een periodiek interdepartementaal overleg met betrekking tot financieel-economische aangelegenheden bij het Rijk (Regeling IOFEZ van het Rijk)
-
-Gelet op [artikel 4.20, tweede lid, aanhef en onderdeel a, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Auditdienst Rijk:** het dienstonderdeel, bedoeld in [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1);
+- *Auditdienst Rijk:* het dienstonderdeel, bedoeld in [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1);
 
-- **directeur FEZ:** de persoon die binnen een ministerie leiding geeft aan het centrale dienstonderdeel dat belast is met financieel-economische zaken;
+- *directeur FEZ:* de persoon die binnen een ministerie leiding geeft aan het centrale dienstonderdeel dat belast is met financieel-economische zaken;
 
-- **IOFEZ:** het interdepartementaal overleg met betrekking tot financieel-economische aangelegenheden.
+- *IOFEZ:* het interdepartementaal overleg met betrekking tot financieel-economische aangelegenheden.
 
 #### § 2. Organisatie en samenstelling
 
@@ -119,5 +93,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2018.
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling IOFEZ van het Rijk.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

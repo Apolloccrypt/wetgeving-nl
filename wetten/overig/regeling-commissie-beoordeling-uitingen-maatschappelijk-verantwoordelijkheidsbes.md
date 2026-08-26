@@ -1,60 +1,32 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 oktober 2017, nr. HO&S/1180908, houdende instelling van de Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef (Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef)"
+citeertitel: "Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef"
 identifier: "BWBR0040133"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040133"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14327243"
-version_id: "24546392"
-internal_id: "C35374691"
-label_id: "14287684"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040133/2020-01-01/0"
-intitule_bron: "Stcrt.2017-61996"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-20"
-intitule_published: "2017-11-01"
-intitule_in_force: "2017-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-61996"
-original_signed_date: "2017-10-20"
-original_published_date: "2017-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-61996"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040133&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0040133&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef"
-signed_date: "2017-10-20"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0040133"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 oktober 2017, nr. HO&S/1180908, houdende instelling van de Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef (Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef)
-
-Gelet op [artikel 6.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.11);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de onderdelen D, M, subonderdeel 2, en N, subonderdeel 1, van artikel I van de Wet invoering associate degree-opleiding in werking treden.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- a. *wet:* de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het uitingen van bekostigde instellingen voor hoger onderwijs op het gebied van landbouw en natuurlijke omgeving betreft, de Minister van Economische Zaken;
+- b. *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het uitingen van bekostigde instellingen voor hoger onderwijs op het gebied van landbouw en natuurlijke omgeving betreft, de Minister van Economische Zaken;
 
-- c. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=2&z=2020-01-01&g=2020-01-01);
+- c. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=2&z=2020-01-01&g=2020-01-01);
 
-- d. **uiting:** gedragingen en uitlatingen;
+- d. *uiting:* gedragingen en uitlatingen;
 
-- e. **instelling:** instelling voor hoger onderwijs in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+- e. *instelling:* instelling voor hoger onderwijs in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 ##### Artikel 2. Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef
 
@@ -146,10 +118,8 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 ##### Artikel 12. Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop de onderdelen D, M, tweede lid en N, eerste lid, van artikel I van de Wet van 8 maart 2017 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Wet op het onderwijstoezicht en het Wetboek van Strafrecht, in verband met het tegengaan van misleidend gebruik van de naam universiteit en hogeschool, het onterecht verlenen en voeren van graden, alsmede het bevorderen van maatschappelijk verantwoordelijkheidsbesef door rpho’s (bescherming namen en graden hoger onderwijs) in werking treden.
+Deze regeling treedt in werking op het tijdstip waarop de onderdelen D, M, tweede lid en N, eerste lid, van artikel I van de Wet van 8 maart 2017 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Wet op het onderwijstoezicht en het Wetboek van Strafrecht, in verband met het tegengaan van misleidend gebruik van de naam universiteit en hogeschool, het onterecht verlenen en voeren van graden, alsmede het bevorderen van maatschappelijk verantwoordelijkheidsbesef door rpho’s (bescherming namen en graden hoger onderwijs) in werking treden.
 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

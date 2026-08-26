@@ -1,71 +1,42 @@
 ---
 title: "Wet van 21 februari 2018, houdende regels voor de terugvordering van staatssteun (Wet terugvordering staatssteun)"
+citeertitel: "Wet terugvordering staatssteun"
 identifier: "BWBR0040718"
-country: "nl"
-rank: "wet"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040718"
+categorie: "Overig"
 soort: "wet"
-stam_id: "14567523"
-version_id: "24937522"
-internal_id: "C35713981"
-label_id: "14521354"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040718/2021-01-01/0"
-intitule_bron: "Stb.2018-75"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-21"
-intitule_published: "2018-03-16"
-intitule_in_force: "2018-04-12"
-intitule_status: "goed"
-original_publication: "Stb.2018-75"
-original_signed_date: "2018-02-21"
-original_published_date: "2018-03-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "34753"
-original_url_id: "stb-2018-75"
-entry_into_force_date: "2018-07-01"
-jci_1_3: "jci1.3:c:BWBR0040718&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0040718&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet terugvordering staatssteun"
-signed_date: "2018-02-21"
-entry_into_force: "2018-07-01"
+publicatiedatum: 2018-07-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0040718"
+opgehaald: 2026-08-26
 ---
+
 # Wet van 21 februari 2018, houdende regels voor de terugvordering van staatssteun (Wet terugvordering staatssteun)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat er met het oog op de naleving van Europeesrechtelijke verplichtingen een voorziening beschikbaar dient te zijn waarmee effectief uitvoering kan worden gegeven aan een besluit van de Europese Commissie tot terugvordering van staatssteun, en het derhalve wenselijk is te voorzien in een algemene wettelijke grondslag en regels voor de terugvordering van staatssteun;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **begunstigde:** onderneming in de zin van de artikelen 101, eerste lid, en 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie, die staatssteun ontvangt als gevolg van een steunmaatregel als bedoeld in laatstgenoemd artikelonderdeel;
+- *begunstigde:* onderneming in de zin van de artikelen 101, eerste lid, en 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie, die staatssteun ontvangt als gevolg van een steunmaatregel als bedoeld in laatstgenoemd artikelonderdeel;
 
-- **beschikking tot betaling:** beschikking die verplicht tot betaling van een geldsom;
+- *beschikking tot betaling:* beschikking die verplicht tot betaling van een geldsom;
 
-- **bestuursorgaan dat het aangaat:**
+- *bestuursorgaan dat het aangaat:*
 
-- a. bestuursorgaan dat de desbetreffende staatssteun heeft verstrekt;
+   - a. bestuursorgaan dat de desbetreffende staatssteun heeft verstrekt;
 
-- b. bestuursorgaan dat verantwoordelijk is voor:
+   - b. bestuursorgaan dat verantwoordelijk is voor:
 
-- 1°. de verstrekking van de desbetreffende staatssteun door de publiekrechtelijke rechtspersoon waarvan het deel uitmaakt, of
+      - 1°. de verstrekking van de desbetreffende staatssteun door de publiekrechtelijke rechtspersoon waarvan het deel uitmaakt, of
 
-- 2°. het direct of indirect uitoefenen van overheidszeggenschap in de privaatrechtelijke rechtspersoon die de staatssteun heeft verstrekt of in de niet krachtens het publiekrecht ingestelde entiteit door middel waarvan de staatssteun is verstrekt, en er geen ander bestuursorgaan met een dergelijke verantwoordelijkheid is dat reeds uitvoering geeft of heeft gegeven aan het desbetreffende Commissiebesluit;
+      - 2°. het direct of indirect uitoefenen van overheidszeggenschap in de privaatrechtelijke rechtspersoon die de staatssteun heeft verstrekt of in de niet krachtens het publiekrecht ingestelde entiteit door middel waarvan de staatssteun is verstrekt, en er geen ander bestuursorgaan met een dergelijke verantwoordelijkheid is dat reeds uitvoering geeft of heeft gegeven aan het desbetreffende Commissiebesluit;
 
-- c. bestuursorgaan dat belast is met de uitvoering van de wet- of regelgeving die rechtstreeks tot de verstrekking van de desbetreffende staatssteun heeft geleid;
+   - c. bestuursorgaan dat belast is met de uitvoering van de wet- of regelgeving die rechtstreeks tot de verstrekking van de desbetreffende staatssteun heeft geleid;
 
-- **Commissiebesluit:** terugvorderingsbevel of terugvorderingsbesluit van de Europese Commissie in de zin van artikel 13, tweede lid, van de procedureverordening, onderscheidenlijk artikel 16, eerste lid, van de procedureverordening, of een rechtstreeks op artikel 108, derde lid, van het Verdrag betreffende de werking van de Europese Unie gebaseerd besluit van de Europese Commissie dat verplicht tot terugvordering;
+- *Commissiebesluit:* terugvorderingsbevel of terugvorderingsbesluit van de Europese Commissie in de zin van artikel 13, tweede lid, van de procedureverordening, onderscheidenlijk artikel 16, eerste lid, van de procedureverordening, of een rechtstreeks op artikel 108, derde lid, van het Verdrag betreffende de werking van de Europese Unie gebaseerd besluit van de Europese Commissie dat verplicht tot terugvordering;
 
-- **procedureverordening:** Verordening (EU) 2015/1589 van de Raad van 13 juli 2015 tot vaststelling van nadere bepalingen voor de toepassing van artikel 108 van het Verdrag betreffende de werking van de Europese Unie (PbEU 2015, L 248).
+- *procedureverordening:* Verordening (EU) 2015/1589 van de Raad van 13 juli 2015 tot vaststelling van nadere bepalingen voor de toepassing van artikel 108 van het Verdrag betreffende de werking van de Europese Unie (PbEU 2015, L 248).
 
 ##### Artikel 2
 
@@ -115,31 +86,31 @@ Indien voor de inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 9
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 10
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel 11
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel 12
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel 13
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel 14
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 15
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel 16
 
@@ -148,5 +119,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet terugvordering staatssteun.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

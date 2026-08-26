@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 oktober 2017, nr. IENM/BSK-2017/241941, houdende de subsidieverstrekking aan de Stichting CROW over de jaren 2018 tot en met 2022 inzake de OV-Klantenbarometer (Tijdelijke subsidieregeling Stichting CROW inzake de OV-Klantenbarometer 2018–2022)"
+citeertitel: "Tijdelijke subsidieregeling Stichting CROW inzake OV-Klantenbarometer 2018–2022"
 identifier: "BWBR0040085"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040085"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14315323"
-version_id: "24529062"
-internal_id: "C35134251"
-label_id: "14275914"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040085/2019-01-01/0"
-intitule_bron: "Stcrt.2017-59195"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-17"
-intitule_published: "2017-10-19"
-intitule_in_force: "2017-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-59195"
-original_signed_date: "2017-10-17"
-original_published_date: "2017-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-59195"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040085&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0040085&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling Stichting CROW inzake OV-Klantenbarometer 2018–2022"
-signed_date: "2017-10-17"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0040085"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 oktober 2017, nr. IENM/BSK-2017/241941, houdende de subsidieverstrekking aan de Stichting CROW over de jaren 2018 tot en met 2022 inzake de OV-Klantenbarometer (Tijdelijke subsidieregeling Stichting CROW inzake de OV-Klantenbarometer 2018–2022)
-
-Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=16), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) en [24, derde en vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- *minister:* Minister van Infrastructuur en Milieu;
 
-- **OV-Klantenbarometer:** landelijk klanttevredenheidsonderzoek in het openbaar vervoer;
+- *OV-Klantenbarometer:* landelijk klanttevredenheidsonderzoek in het openbaar vervoer;
 
-- **Stichting CROW:** Stichting CROW, kennisplatform voor infrastructuur, verkeer, vervoer en openbare ruimte, gevestigd te Ede.
+- *Stichting CROW:* Stichting CROW, kennisplatform voor infrastructuur, verkeer, vervoer en openbare ruimte, gevestigd te Ede.
 
 ##### Artikel 2. Doel van de subsidie
 
@@ -177,5 +151,3 @@ Vóór 1 januari 2023 publiceert de minister een verslag over de doeltreffendhei
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling Stichting CROW inzake OV-Klantenbarometer 2018–2022.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

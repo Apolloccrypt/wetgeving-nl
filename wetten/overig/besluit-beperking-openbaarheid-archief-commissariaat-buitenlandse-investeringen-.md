@@ -1,41 +1,18 @@
 ---
 title: "Besluit nr. HDIOU-DB/170156 houdende beperking openbaarheid archief Commissariaat Buitenlandse Investeringen In Nederland (CBIN) over de periode 1967–2000 van het Ministerie van Economische Zaken"
+citeertitel: "Besluit beperking openbaarheid archief Commissariaat Buitenlandse Investeringen In Nederland (CBIN) over de periode 1967–2000"
 identifier: "BWBR0039877"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-08-12"
-last_updated: "2017-08-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039877"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14128733"
-version_id: "24298582"
-internal_id: "C34881841"
-label_id: "14089684"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039877/2017-08-12/0"
-intitule_bron: "Stcrt.2017-45735"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-08-11"
-intitule_in_force: "2017-08-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-45735"
-original_published_date: "2017-08-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-45735"
-entry_into_force_date: "2017-08-12"
-jci_1_3: "jci1.3:c:BWBR0039877&z=2017-08-12&g=2017-08-12"
-jci_1_0: "1.0:c:BWBR0039877&g=2017-08-12"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Commissariaat Buitenlandse Investeringen In Nederland (CBIN) over de periode 1967–2000"
-entry_into_force: "2017-08-12"
+publicatiedatum: 2017-08-12
+laatste_update: 2017-08-12
+status: geldig
+toestand: 2017-08-12
+bron: "https://wetten.overheid.nl/BWBR0039877"
+opgehaald: 2026-08-26
 ---
+
 # Besluit nr. HDIOU-DB/170156 houdende beperking openbaarheid archief Commissariaat Buitenlandse Investeringen In Nederland (CBIN) over de periode 1967–2000 van het Ministerie van Economische Zaken
-
-Gelet op [artikel 15, lid 1, onder c, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief van 28-3-2017 met kenmerk 1166468;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -484,5 +461,3 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van het Commissariaat Buitenlandse Investeringen in Nederland 1967 – 2000.

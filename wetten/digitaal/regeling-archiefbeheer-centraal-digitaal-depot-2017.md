@@ -1,68 +1,42 @@
 ---
 title: "Regeling d.d. 7 augustus 2017, nr. Alg 5870 van de algemeen directeur van de Justitiële Informatiedienst, namens de Minister van Veiligheid en Justitie, tot vaststelling van de regels voor het inrichten, beheren en onderhouden van het Centraal Digitaal Depot (Regeling archiefbeheer Centraal Digitaal Depot 2017)"
+citeertitel: "Regeling archiefbeheer Centraal Digitaal Depot 2017"
 identifier: "BWBR0039929"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-08-31"
-last_updated: "2017-08-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039929"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14141153"
-version_id: "24319532"
-internal_id: "C34912631"
-label_id: "14102134"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039929/2017-08-31/0"
-intitule_bron: "Stcrt.2017-48937"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-07"
-intitule_published: "2017-08-30"
-intitule_in_force: "2017-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-48937"
-original_signed_date: "2017-08-07"
-original_published_date: "2017-08-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-48937"
-entry_into_force_date: "2017-08-31"
-jci_1_3: "jci1.3:c:BWBR0039929&z=2017-08-31&g=2017-08-31"
-jci_1_0: "1.0:c:BWBR0039929&g=2017-08-31"
-citeertitel_status: "officieel"
-short_title: "Regeling archiefbeheer Centraal Digitaal Depot 2017"
-signed_date: "2017-08-07"
-entry_into_force: "2017-08-31"
+publicatiedatum: 2017-08-31
+laatste_update: 2017-08-31
+status: geldig
+toestand: 2017-08-31
+bron: "https://wetten.overheid.nl/BWBR0039929"
+opgehaald: 2026-08-26
 ---
+
 # Regeling d.d. 7 augustus 2017, nr. Alg 5870 van de algemeen directeur van de Justitiële Informatiedienst, namens de Minister van Veiligheid en Justitie, tot vaststelling van de regels voor het inrichten, beheren en onderhouden van het Centraal Digitaal Depot (Regeling archiefbeheer Centraal Digitaal Depot 2017)
-
-Gelet op [artikel 3, vijfde lid, aanhef en onder d, van de Archiefbeheersregels Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035264&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
-- a. **afnemer:** dienstonderdeel als bedoeld in [artikel 1, aanhef en onder d, van de Archiefbeheersregels Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035264&artikel=1), dat het archiefbeheer dan wel aspecten daarvan laat uitvoeren in het CDD+;
+- a. *afnemer:* dienstonderdeel als bedoeld in [artikel 1, aanhef en onder d, van de Archiefbeheersregels Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035264&artikel=1), dat het archiefbeheer dan wel aspecten daarvan laat uitvoeren in het CDD+;
 
-- b. **archiefbeleid CDD+:** het bepalen, vaststellen en onderhouden van het geheel van randvoorwaarden, methoden, technieken om het archiefbeheer vorm te geven;
+- b. *archiefbeleid CDD+:* het bepalen, vaststellen en onderhouden van het geheel van randvoorwaarden, methoden, technieken om het archiefbeheer vorm te geven;
 
-- c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, aanhef en onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, aanhef en onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **beheerder:** de ambtelijk verantwoordelijke voor het CDD+ en voor de beheereenheid, zijnde de algemeen directeur van de Justitiële Informatiedienst;
+- d. *beheerder:* de ambtelijk verantwoordelijke voor het CDD+ en voor de beheereenheid, zijnde de algemeen directeur van de Justitiële Informatiedienst;
 
-- e. **beheereenheid:** organisatieonderdeel van de Justitiële Informatiedienst die het CDD+ ontwikkelt, inricht en onderhoudt;
+- e. *beheereenheid:* organisatieonderdeel van de Justitiële Informatiedienst die het CDD+ ontwikkelt, inricht en onderhoudt;
 
-- f. **CDD+(Centraal Digitaal Depot):** centrale voorziening voor opslag en beheer van bescheiden in een digitaal depot, onder beheer van de Justitiële Informatiedienst;
+- f. *CDD+(Centraal Digitaal Depot):* centrale voorziening voor opslag en beheer van bescheiden in een digitaal depot, onder beheer van de Justitiële Informatiedienst;
 
-- g. **digitaal depot:** archiefruimte als bedoeld in [artikel 1, aanhef en onder c, van de Uitvoeringsregeling Archiefbeheer Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036548&artikel=1);
+- g. *digitaal depot:* archiefruimte als bedoeld in [artikel 1, aanhef en onder c, van de Uitvoeringsregeling Archiefbeheer Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036548&artikel=1);
 
-- h. **kwaliteit van archiefbescheiden en metadata:** de kwaliteitseisen van authenticiteit, integriteit en bruikbaarheid als bedoeld in de NEN-ISO 15489-1;
+- h. *kwaliteit van archiefbescheiden en metadata:* de kwaliteitseisen van authenticiteit, integriteit en bruikbaarheid als bedoeld in de NEN-ISO 15489-1;
 
-- i. **metadata:** gegevens als bedoeld in [artikel 1, aanhef en onder e, van de Archiefbeheersregels Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035264&artikel=1);
+- i. *metadata:* gegevens als bedoeld in [artikel 1, aanhef en onder e, van de Archiefbeheersregels Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035264&artikel=1);
 
-- j. **overeenkomst:** dienstenniveau overeenkomst tussen afnemer en beheerder.
+- j. *overeenkomst:* dienstenniveau overeenkomst tussen afnemer en beheerder.
 
 ##### Artikel 2. Werkingsgebied
 
@@ -173,5 +147,3 @@ Deze regeling treedt in werking met ingang van de dag na de uitgifte van de Staa
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling archiefbeheer Centraal Digitaal Depot 2017.
-
-Deze Regeling zal met de toelichting in de Staatscourant worden geplaatst.

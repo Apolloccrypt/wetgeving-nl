@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Milieu Zaken van 17 augustus 2017, nr. IENM/BSK-2017/26609 inzake de digitale vervanging van archiefbescheiden van alle organisatieonderdelen van het Ministerie van Infrastructuur en Milieu die vallen binnen het verzorgingsgebied van de directie Concern Informatievoorziening van de Integrale Bedrijfsvoering IenM (Vervangingsbesluit archiefbescheiden verzorgingsgebied IBI/DCI IenM 2017)"
+citeertitel: "Vervangingsbesluit archiefbescheiden verzorgingsgebied IBI/DCI IenM 2017"
 identifier: "BWBR0039912"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-09"
-last_updated: "2018-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039912"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14138663"
-version_id: "24314502"
-internal_id: "C34905541"
-label_id: "14099614"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039912/2018-02-09/0"
-intitule_bron: "Stcrt.2017-42005"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-17"
-intitule_published: "2017-08-23"
-intitule_in_force: "2017-08-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-42005"
-original_signed_date: "2017-08-17"
-original_published_date: "2017-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-42005"
-entry_into_force_date: "2017-08-24"
-jci_1_3: "jci1.3:c:BWBR0039912&z=2018-02-09&g=2018-02-09"
-jci_1_0: "1.0:c:BWBR0039912&g=2018-02-09"
-citeertitel_status: "redactioneel"
-short_title: "Vervangingsbesluit archiefbescheiden verzorgingsgebied IBI/DCI IenM 2017"
-signed_date: "2017-08-17"
-entry_into_force: "2017-08-24"
+publicatiedatum: 2017-08-24
+laatste_update: 2018-02-09
+status: geldig
+toestand: 2018-02-09
+bron: "https://wetten.overheid.nl/BWBR0039912"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Infrastructuur en Milieu Zaken van 17 augustus 2017, nr. IENM/BSK-2017/26609 inzake de digitale vervanging van archiefbescheiden van alle organisatieonderdelen van het Ministerie van Infrastructuur en Milieu die vallen binnen het verzorgingsgebied van de directie Concern Informatievoorziening van de Integrale Bedrijfsvoering IenM (Vervangingsbesluit archiefbescheiden verzorgingsgebied IBI/DCI IenM 2017)
-
-Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) en [artikel 6, derde lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -65,9 +39,3 @@ De digitale vervanging geschiedt volgens de specificaties die zijn vastgelegd in
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-## Bijlage I. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039912&artikel=4&z=2018-02-09&g=2018-02-09) van het Vervangingsbesluit archiefbescheiden verzorgingsgebied IBI/DCI IenM 2017
-
-Deze bijlage ligt ter inzage bij het Ministerie van Infrastructuur en Milieu, directie Integrale Bedrijfsvoering IenM, en is tevens raadpleegbaar op en te downloaden van www.rijksoverheid.nl.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0039912&bijlage=I&z=2018-02-09&g=2018-02-09), die ter inzage wordt gelegd bij het Ministerie van Infrastructuur en Milieu.

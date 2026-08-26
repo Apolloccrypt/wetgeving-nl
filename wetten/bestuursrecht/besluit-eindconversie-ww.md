@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 28 november 2017 tot het bepalen van het moment en de wijze van het omzetten van het dagloon van de resterende uitkeringsrechten gebaseerd op de Werkloosheidswet zoals deze luidde voor 1 juli 2015 (Besluit eindconversie WW)"
+citeertitel: "Besluit eindconversie WW"
 identifier: "BWBR0040295"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-04-01"
-last_updated: "2018-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040295"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "14435573"
-version_id: "24686322"
-internal_id: "C35319361"
-label_id: "14396174"
-dtd_version: "2.0"
-original_entry_into_force: "2018-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040295/2018-04-01/0"
-intitule_bron: "Stb.2017-461"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-28"
-intitule_published: "2017-12-06"
-intitule_in_force: "2017-12-06"
-intitule_status: "goed"
-original_publication: "Stb.2017-461"
-original_signed_date: "2017-11-28"
-original_published_date: "2017-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-461"
-entry_into_force_date: "2018-04-01"
-jci_1_3: "jci1.3:c:BWBR0040295&z=2018-04-01&g=2018-04-01"
-jci_1_0: "1.0:c:BWBR0040295&g=2018-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit eindconversie WW"
-signed_date: "2017-11-28"
-entry_into_force: "2018-04-01"
+publicatiedatum: 2018-04-01
+laatste_update: 2018-04-01
+status: geldig
+toestand: 2018-04-01
+bron: "https://wetten.overheid.nl/BWBR0040295"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van 28 november 2017 tot het bepalen van het moment en de wijze van het omzetten van het dagloon van de resterende uitkeringsrechten gebaseerd op de Werkloosheidswet zoals deze luidde voor 1 juli 2015 (Besluit eindconversie WW)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 2 oktober 2017, nr. 2017-0000157109;
-
-Gelet op de [artikelen 1b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b), en [130z, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 25 oktober 2017, no.W12.17.0332/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 24 november 2017, nr. 2017-0000160975;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepaling
 
 1. In dit besluit wordt verstaan onder:
 
-- **arbeidsuur:** hetgeen daaronder wordt verstaan in [artikel 1a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1a);
+- *arbeidsuur:* hetgeen daaronder wordt verstaan in [artikel 1a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1a);
 
-- **dagloon:** hetgeen daaronder wordt verstaan in [artikel 1b van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b);
+- *dagloon:* hetgeen daaronder wordt verstaan in [artikel 1b van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b);
 
-- **inkomen:** hetgeen daaronder wordt verstaan in [artikel 1b van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b);
+- *inkomen:* hetgeen daaronder wordt verstaan in [artikel 1b van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b);
 
-- **oWW-uitkering:** een recht op uitkering op grond van [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II), dat is toegekend voor 1 juli 2015;
+- *oWW-uitkering:* een recht op uitkering op grond van [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II), dat is toegekend voor 1 juli 2015;
 
-- **uitkering:** het recht op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+- *uitkering:* het recht op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
 2. [Artikel 25 van het Dagloonbesluit werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&artikel=25) is van toepassing op een recht op uitkering dat op grond van [artikel 130z, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z), wordt omgezet.
 
@@ -155,5 +123,3 @@ Dit besluit treedt in werking met ingang van 1 april 2018.
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit eindconversie WW.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

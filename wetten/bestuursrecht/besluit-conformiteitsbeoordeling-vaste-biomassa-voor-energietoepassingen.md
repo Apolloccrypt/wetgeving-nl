@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 1 november 2017, houdende regels inzake de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen door erkende conformiteitsbeoordelingsinstanties (Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen)"
+citeertitel: "Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen"
 identifier: "BWBR0040209"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040209"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "14418063"
-version_id: "24653542"
-internal_id: "C35271241"
-label_id: "14378844"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040209/2024-01-01/0"
-intitule_bron: "Stb.2017-427"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-01"
-intitule_published: "2017-11-21"
-intitule_in_force: "2017-11-21"
-intitule_status: "goed"
-original_publication: "Stb.2017-427"
-original_signed_date: "2017-11-01"
-original_published_date: "2017-11-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-427"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040209&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0040209&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen"
-signed_date: "2017-11-01"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0040209"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van 1 november 2017, houdende regels inzake de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen door erkende conformiteitsbeoordelingsinstanties (Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen)
-
-Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu en Onze Minister van Economische Zaken van 14 juli 2017, nr. IENM/BSK-2017/143466, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op [artikel 11a.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2) en [artikel 5.10, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.10);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 oktober 2017, nr. W14. 17.0233/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Milieu en Onze Minister van Economische Zaken, van 25 oktober 2017, nr. IENM/BSK-2017/254082, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,39 +20,43 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **accreditatie:** accreditatie als bedoeld in artikel 2, onderdeel 10, juncto artikel 3 van de verordening;
+- *accreditatie:* accreditatie als bedoeld in artikel 2, onderdeel 10, juncto artikel 3 van de verordening;
 
-- **beheerseisen:** eisen vastgesteld op grond van [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=3&artikel=16&z=2024-01-01&g=2024-01-01), die een schemabeheerder bij het opstellen of wijzigen van een certificatieschema in acht neemt en die betrekking hebben op de wijze waarop een schema tot stand komt dan wel wordt gewijzigd;
+- *beheerseisen:* eisen vastgesteld op grond van [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=3&artikel=16&z=2024-01-01&g=2024-01-01), die een schemabeheerder bij het opstellen of wijzigen van een certificatieschema in acht neemt en die betrekking hebben op de wijze waarop een schema tot stand komt dan wel wordt gewijzigd;
 
-- **certificatie:** conformiteitsbeoordeling, uitgevoerd door een conformiteitsbeoordelingsinstantie overeenkomstig het toepasselijke certificatieschema, resulterend in een certificaat;
+- *certificatie:* conformiteitsbeoordeling, uitgevoerd door een conformiteitsbeoordelingsinstantie overeenkomstig het toepasselijke certificatieschema, resulterend in een certificaat;
 
-- **certificatieschema:** document waarin beschreven staat op welke wijze en op grond waarvan de conformiteitsbeoordelingsinstantie de certificatie verricht;
+- *certificatieschema:* document waarin beschreven staat op welke wijze en op grond waarvan de conformiteitsbeoordelingsinstantie de certificatie verricht;
 
-- **conformiteitsbeoordelingsverklaring:** verklaring, afgegeven door een erkende conformiteitsbeoordelingsinstantie, dat een gerechtvaardigd vertrouwen bestaat dat de daarin gespecificeerde vaste biomassa is geproduceerd op een wijze die voldoet aan de daarop van toepassing zijnde duurzaamheidseisen die in de verklaring zijn gespecificeerd;
+- *conformiteitsbeoordelingsverklaring:* verklaring, afgegeven door een erkende conformiteitsbeoordelingsinstantie, dat een gerechtvaardigd vertrouwen bestaat dat de daarin gespecificeerde vaste biomassa is geproduceerd op een wijze die voldoet aan de daarop van toepassing zijnde duurzaamheidseisen die in de verklaring zijn gespecificeerd;
 
-- **duurzaamheidseisen:** eisen voor vaste biomassa ten behoeve van energietoepassingen die zijn vastgesteld op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=3&artikel=16&z=2024-01-01&g=2024-01-01), en die ten grondslag liggen aan het certificatieschema en het verificatieprotocol waaraan bij de werkzaamheid wordt getoetst in het belang van de bescherming van het milieu;
+- *duurzaamheidseisen:* eisen voor vaste biomassa ten behoeve van energietoepassingen die zijn vastgesteld op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=3&artikel=16&z=2024-01-01&g=2024-01-01), en die ten grondslag liggen aan het certificatieschema en het verificatieprotocol waaraan bij de werkzaamheid wordt getoetst in het belang van de bescherming van het milieu;
 
-- **erkende conformiteitsbeoordelingsinstantie:** rechtspersoon die door Onze Minister voor Klimaat en Energie is erkend voor het uitvoeren van een werkzaamheid en op basis daarvan is gerechtigd tot het afgeven van een conformiteitsbeoordelingsverklaring;
+- *erkende conformiteitsbeoordelingsinstantie:* rechtspersoon die door Onze Minister voor Klimaat en Energie is erkend voor het uitvoeren van een werkzaamheid en op basis daarvan is gerechtigd tot het afgeven van een conformiteitsbeoordelingsverklaring;
 
-- **erkenning:** beschikking van Onze Minister voor Klimaat en Energie dat een gerechtvaardigd vertrouwen bestaat dat de daarin genoemde conformiteitsbeoordelingsinstantie in staat is bij de daarin aangegeven werkzaamheden te voldoen aan de bij of krachtens dit besluit gestelde eisen;
+- *erkenning:* beschikking van Onze Minister voor Klimaat en Energie dat een gerechtvaardigd vertrouwen bestaat dat de daarin genoemde conformiteitsbeoordelingsinstantie in staat is bij de daarin aangegeven werkzaamheden te voldoen aan de bij of krachtens dit besluit gestelde eisen;
 
-- **goedkeuring:** beschikking van Onze Minister voor Klimaat en Energie waarbij wordt vastgesteld dat het daarin genoemde certificatieschema voldoet aan de beheerseisen en duurzaamheidseisen, onder specificatie van de categorie vaste biomassa en de duurzaamheidseisen waarop het schema betrekking heeft en bij certificatie gebruikt mag worden;
+- *goedkeuring:* beschikking van Onze Minister voor Klimaat en Energie waarbij wordt vastgesteld dat het daarin genoemde certificatieschema voldoet aan de beheerseisen en duurzaamheidseisen, onder specificatie van de categorie vaste biomassa en de duurzaamheidseisen waarop het schema betrekking heeft en bij certificatie gebruikt mag worden;
 
-- **Onze Ministers:** Onze Minister van Infrastructuur en Milieu en Onze Minister voor Klimaat en Energie;
+- *Onze Ministers:* Onze Minister van Infrastructuur en Milieu en Onze Minister voor Klimaat en Energie;
 
-- **Raad voor Accreditatie:** Raad voor Accreditatie als bedoeld in [artikel 1, onderdeel e, van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=1);
+- *Raad voor Accreditatie:* Raad voor Accreditatie als bedoeld in [artikel 1, onderdeel e, van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=1);
 
-- **schemabeheerder:** rechtspersoon die op grond van eigendom, auteursrecht of overeenkomst, bevoegd is om een certificatieschema te beheren;
+- *schemabeheerder:* rechtspersoon die op grond van eigendom, auteursrecht of overeenkomst, bevoegd is om een certificatieschema te beheren;
 
-- **vaste biomassa:** biologisch afbreekbare fractie van producten, afvalstoffen en residuen van de landbouw, de bosbouw, de visserij- en aquacultuursector en aanverwante bedrijfstakken, alsmede de biologisch afbreekbare fractie van industrieel en huishoudelijk afval;
+- *vaste biomassa:* biologisch afbreekbare fractie van producten, afvalstoffen en residuen van de landbouw, de bosbouw, de visserij- en aquacultuursector en aanverwante bedrijfstakken, alsmede de biologisch afbreekbare fractie van industrieel en huishoudelijk afval;
 
-- **verificatie:** conformiteitsbeoordeling, uitgevoerd door een conformiteitsbeoordelingsinstantie overeenkomstig het verificatieprotocol, resulterend in een verificatieverklaring;
+- *verificatie:* conformiteitsbeoordeling, uitgevoerd door een conformiteitsbeoordelingsinstantie overeenkomstig het verificatieprotocol, resulterend in een verificatieverklaring;
 
-- **verificatieprotocol:** normdocument voor verificatie dat op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=3&artikel=13&z=2024-01-01&g=2024-01-01) is aangewezen, met eisen voor de wijze waarop en op grond waarvan een erkende conformiteitsbeoordelingsinstantie de verificatie verricht;
+- *verificatieprotocol:* normdocument voor verificatie dat op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=3&artikel=13&z=2024-01-01&g=2024-01-01) is aangewezen, met eisen voor de wijze waarop en op grond waarvan een erkende conformiteitsbeoordelingsinstantie de verificatie verricht;
 
-- **verordening:** verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EG) nr. 339/93 (PbEU 2008, L 218);
+- *verordening:* verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EG) nr. 339/93 (PbEU 2008, L 218);
 
-- **werkzaamheid:** certificatie of verificatie.
+- *werkzaamheid:* certificatie of verificatie.
+
+##### Artikel 1a. Grondslag besluit
+
+Dit besluit berust mede op [artikel 18.6, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6).
 
 ### Hoofdstuk 2. Erkenning conformiteitsbeoordelingsinstanties
 
@@ -316,24 +288,8 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens dit besluit zi
 
 ##### Artikel 21. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2018. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2017, treedt het besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van 1 januari 2018. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2017, treedt het besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel 22. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a. Grondslag besluit
-
-Dit besluit berust mede op [artikel 18.6, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6).
-
-### Hoofdstuk 2. Erkenning conformiteitsbeoordelingsinstanties
-
-### Hoofdstuk 3. Werkzaamheden
-
-### Hoofdstuk 4. Toezicht en handhaving
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

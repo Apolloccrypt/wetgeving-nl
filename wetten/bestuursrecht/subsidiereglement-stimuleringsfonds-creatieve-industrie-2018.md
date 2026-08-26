@@ -1,42 +1,17 @@
 ---
 title: "Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018"
 identifier: "BWBR0040298"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040298"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14435993"
-version_id: "24687042"
-internal_id: "C35320361"
-label_id: "14396864"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040298/2018-01-01/0"
-intitule_bron: "Stcrt.2017-70337"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-12-05"
-intitule_in_force: "2017-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-70337"
-original_published_date: "2017-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-70337"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040298&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040298&g=2018-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040298"
+opgehaald: 2026-08-26
 ---
+
 # Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018
-
-Het Subsidiereglement Stimuleringsfonds Creatieve Industrie is van toepassing op het aanvragen, beoordelen, verlenen en vaststellen van subsidies bij het Stimuleringsfonds Creatieve Industrie. Aanvullend op dit reglement zijn deelregelingen opgesteld. Daarin stelt het bestuur nadere formele, financiële, inhoudelijke, kwalitatieve en kwantitatieve eisen alsmede uitzonderingen vast.
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit
 
 ##### Artikel 1. Taakopvatting van het Stimuleringsfonds
 
@@ -64,31 +39,31 @@ Het Stimuleringsfonds hanteert bij het verlenen van subsidies de volgende doelst
 
 In dit reglement en deelregelingen wordt verstaan onder:
 
-- **adviesorgaan:** een door het bestuur ingestelde adviescommissie of benoemde adviseur als bedoeld in artikel 7 van de statuten.
+- *adviesorgaan:* een door het bestuur ingestelde adviescommissie of benoemde adviseur als bedoeld in artikel 7 van de statuten.
 
-- **architectuur:** de werkterreinen architectuur, stedenbouw, tuin- en landschapsarchitectuur, interieurarchitectuur, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze werkterreinen.
+- *architectuur:* de werkterreinen architectuur, stedenbouw, tuin- en landschapsarchitectuur, interieurarchitectuur, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze werkterreinen.
 
-- **bestuur:** de directeur-bestuurder van het Stimuleringsfonds Creatieve Industrie, als bedoeld in artikel 5 van de statuten.
+- *bestuur:* de directeur-bestuurder van het Stimuleringsfonds Creatieve Industrie, als bedoeld in artikel 5 van de statuten.
 
-- **cofinanciering:** bijdragen van derden, waaronder bijdragen van private partijen, bijvoorbeeld in de vorm van deelname of sponsoring en bijdragen van publieke partijen zoals provincie, gemeente of publieke fondsen.
+- *cofinanciering:* bijdragen van derden, waaronder bijdragen van private partijen, bijvoorbeeld in de vorm van deelname of sponsoring en bijdragen van publieke partijen zoals provincie, gemeente of publieke fondsen.
 
-- **cultureel ondernemerschap:** de mate waarin ontwerpers, dan wel opdrachtgevers en producenten en culturele instellingen erop gericht zijn zoveel mogelijk artistiek-cultureel of maatschappelijk rendement te halen uit voorgenomen activiteiten.
+- *cultureel ondernemerschap:* de mate waarin ontwerpers, dan wel opdrachtgevers en producenten en culturele instellingen erop gericht zijn zoveel mogelijk artistiek-cultureel of maatschappelijk rendement te halen uit voorgenomen activiteiten.
 
-- **digitale cultuur:** culturele en artistieke producties of uitingen die zich verhouden tot digitale technologie, nieuwe media of games, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze werkterreinen.
+- *digitale cultuur:* culturele en artistieke producties of uitingen die zich verhouden tot digitale technologie, nieuwe media of games, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze werkterreinen.
 
-- **discipline:** vakgebied binnen kunst of wetenschap.
+- *discipline:* vakgebied binnen kunst of wetenschap.
 
-- **project:** het geheel van werkzaamheden, en direct daaraan gerelateerde kosten ten behoeve van een incidentele, concreet omschreven activiteit die zich afspeelt binnen een van te voren aangegeven periode.
+- *project:* het geheel van werkzaamheden, en direct daaraan gerelateerde kosten ten behoeve van een incidentele, concreet omschreven activiteit die zich afspeelt binnen een van te voren aangegeven periode.
 
-- **projectsubsidie:** de eenmalige aanspraak op financiële middelen van het Stimuleringsfonds, verstrekt om een project voor te bereiden of uit te voeren.
+- *projectsubsidie:* de eenmalige aanspraak op financiële middelen van het Stimuleringsfonds, verstrekt om een project voor te bereiden of uit te voeren.
 
-- **sector:** werkterrein, dat valt binnen de werkingssfeer van het Stimuleringsfonds Creatieve Industrie.
+- *sector:* werkterrein, dat valt binnen de werkingssfeer van het Stimuleringsfonds Creatieve Industrie.
 
-- **startsubsidie:** een vorm van een projectsubsidie, die kan worden verleend voor het ontwikkelen van een uitgewerkt projectvoorstel, op basis waarvan een aanvraag kan worden ingediend voor een subsidie voor een concreet project.
+- *startsubsidie:* een vorm van een projectsubsidie, die kan worden verleend voor het ontwikkelen van een uitgewerkt projectvoorstel, op basis waarvan een aanvraag kan worden ingediend voor een subsidie voor een concreet project.
 
-- **talent:** uitzonderlijke begaafdheid met de potentie en eigenschappen om deze verder te ontwikkelen tot een inspirerend voorbeeld voor vakgenoten en een breder geïnteresseerd publiek.
+- *talent:* uitzonderlijke begaafdheid met de potentie en eigenschappen om deze verder te ontwikkelen tot een inspirerend voorbeeld voor vakgenoten en een breder geïnteresseerd publiek.
 
-- **vormgeving:** het ontwerpen van mode, accessoires en sieraden; textiel-, glas- en keramiekvormgeving; grafische vormgeving, typografie, visuele communicatie, interactief en information design, animatie, illustratie, strip en graphic novel; product-, meubel- en industriële vormgeving, interieur- en ruimtelijk ontwerp, tentoonstellingsontwerp, lichtontwerp, scenografie; social design, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze werkterreinen.
+- *vormgeving:* het ontwerpen van mode, accessoires en sieraden; textiel-, glas- en keramiekvormgeving; grafische vormgeving, typografie, visuele communicatie, interactief en information design, animatie, illustratie, strip en graphic novel; product-, meubel- en industriële vormgeving, interieur- en ruimtelijk ontwerp, tentoonstellingsontwerp, lichtontwerp, scenografie; social design, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze werkterreinen.
 
 ##### Artikel 4. Toepasselijkheid Subsidiereglement Stimuleringsfonds Creatieve Industrie
 
@@ -334,7 +309,7 @@ Er wordt beoordeeld in hoeverre het project voldoet aan:
 
 5. Het bestuur kan het adviesorgaan verzoeken bij de beoordeling van aanvragen rekening te houden met toepassing van een of meer der modaliteiten, genoemd in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=9&z=2018-01-01&g=2018-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=10&z=2018-01-01&g=2018-01-01), en dat in de advisering te betrekken.
 
-6. De werkwijze en nadere regels ten aanzien van het functioneren van een adviesorgaan legt het bestuur vast in de **Werkwijze Adviescommissies Stimuleringsfonds Creatieve Industrie**.
+6. De werkwijze en nadere regels ten aanzien van het functioneren van een adviesorgaan legt het bestuur vast in de *Werkwijze Adviescommissies Stimuleringsfonds Creatieve Industrie*.
 
 ##### Artikel 23. Verlening van een subsidie
 
@@ -437,5 +412,3 @@ Deze regeling wordt aangehaald als: Subsidiereglement Stimuleringsfonds Creatiev
 ##### Artikel 36. Slotbepalingen
 
 In gevallen waarin de wet, de statuten, dit reglement of deelregelingen niet voorzien, beslist het bestuur.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

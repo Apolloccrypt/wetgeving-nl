@@ -1,53 +1,17 @@
 ---
 title: "Instellingsbeschikking begeleidingscommissie verkenningsfase onderzoek naar zorgbehoeften Dutchbat III militairen"
 identifier: "BWBR0040598"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-30"
-last_updated: "2018-01-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040598"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14534473"
-version_id: "24873712"
-internal_id: "C35586941"
-label_id: "14491934"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040598/2018-01-30/0"
-intitule_bron: "Stcrt.2018-6328"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-01-30"
-intitule_published: "2018-02-05"
-intitule_in_force: "2018-02-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-6328"
-original_signed_date: "2018-01-30"
-original_published_date: "2018-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-6328"
-entry_into_force_date: "2018-01-30"
-jci_1_3: "jci1.3:c:BWBR0040598&z=2018-01-30&g=2018-01-30"
-jci_1_0: "1.0:c:BWBR0040598&g=2018-01-30"
-citeertitel_status: "redactioneel"
-signed_date: "2018-01-30"
-entry_into_force: "2018-01-30"
+publicatiedatum: 2018-01-30
+laatste_update: 2018-01-30
+status: geldig
+toestand: 2018-01-30
+bron: "https://wetten.overheid.nl/BWBR0040598"
+opgehaald: 2026-08-26
 ---
+
 # Instellingsbeschikking begeleidingscommissie verkenningsfase onderzoek naar zorgbehoeften Dutchbat III militairen
-
-Gezien:
-
-Het advies van de Raad voor civiel-militaire Zorg en Onderzoek (RZO advies nr. 21) ten aanzien van de opzet en uitvoering van een onderzoek naar de zorgbehoeften van Dutchbat III militairen (brief RZO van 23 december 2016 met kenmerk 2017001982);
-
-Het antwoord van het Ministerie van Defensie op RZO advies nr. 21 (brief HDP van 20 februari 2017 met kenmerk BS2017005258);
-
-Het belang om voorafgaand aan de uitvoering van het onderzoek de verwachtingen ten aanzien van het onderzoek van de betrokken partijen/actoren te inventariseren en op elkaar af te stemmen.
-
-Besluit:
-
-Een begeleidingscommissie in te stellen die wordt belast met de taken uit de verkenningsfase zoals geformuleerd onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040598&artikel=3&z=2018-01-30&g=2018-01-30) van deze beschikking.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Opdrachtgever en commissieleden
 
@@ -57,7 +21,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 3. De commissie wordt secretarieel ondersteund vanuit Defensie door de afdeling veteranen en post-actieven, onderdeel van het Dienstencentrum Personele Zorg van het Defensie Ondersteuningscommando.
 
-##### Artikel 2. Toepasselijkheid [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775)
+##### Artikel 2. Toepasselijkheid Wet vergoedingen adviescolleges en commissies
 
 Op dit besluit is de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) van toepassing. De vergoedingen van de commissieleden worden in een separaat besluit vastgelegd.
 

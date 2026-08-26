@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 13 november 2017 tot beperking openbaarheid – Afdeling Export- en Importgaranties en opvolger"
+citeertitel: "Besluit beperking openbaarheid Afdeling Export- en Importgaranties en opvolger"
 identifier: "BWBR0040232"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-11-25"
-last_updated: "2017-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040232"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14422463"
-version_id: "24659692"
-internal_id: "C35280081"
-label_id: "14382994"
-dtd_version: "2.0"
-original_entry_into_force: "2017-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040232/2017-11-25/0"
-intitule_bron: "Stcrt.2017-67102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-13"
-intitule_published: "2017-11-24"
-intitule_in_force: "2017-11-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-67102"
-original_signed_date: "2017-11-13"
-original_published_date: "2017-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-67102"
-entry_into_force_date: "2017-11-25"
-jci_1_3: "jci1.3:c:BWBR0040232&z=2017-11-25&g=2017-11-25"
-jci_1_0: "1.0:c:BWBR0040232&g=2017-11-25"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid Afdeling Export- en Importgaranties en opvolger"
-signed_date: "2017-11-13"
-entry_into_force: "2017-11-25"
+publicatiedatum: 2017-11-25
+laatste_update: 2017-11-25
+status: geldig
+toestand: 2017-11-25
+bron: "https://wetten.overheid.nl/BWBR0040232"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van 13 november 2017 tot beperking openbaarheid – Afdeling Export- en Importgaranties en opvolger
-
-Gelet op [artikel 15, lid 1, onder c Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemeen rijksarchivaris d.d. 7 november 2017, met kenmerk 1219171
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van:
-
-**Archief van De Nederlandsche Bank N.V., Afdeling Export- en Importgaranties en opvolger, 1961 – 2008**
 
 ##### Artikel 1
 

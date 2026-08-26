@@ -1,63 +1,35 @@
 ---
 title: "Regeling bedrijfsvakanties"
 identifier: "BWBR0040039"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-11-26"
-last_updated: "1991-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040039"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14177963"
-version_id: "24386272"
-internal_id: "C34988951"
-label_id: "14138564"
-dtd_version: "2.0"
-original_entry_into_force: "1991-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040039/1991-11-26/0"
-intitule_bron: "Stcrt.2017-55265"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-26"
-intitule_published: "2017-10-03"
-intitule_in_force: "2017-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-55265"
-original_signed_date: "1991-11-26"
-original_published_date: "2017-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-55265"
-entry_into_force_date: "1991-11-26"
-jci_1_3: "jci1.3:c:BWBR0040039&z=1991-11-26&g=1991-11-26"
-jci_1_0: "1.0:c:BWBR0040039&g=1991-11-26"
-citeertitel_status: "officieel"
-signed_date: "1991-11-26"
-entry_into_force: "1991-11-26"
+publicatiedatum: 1991-11-26
+laatste_update: 1991-11-26
+status: geldig
+toestand: 1991-11-26
+bron: "https://wetten.overheid.nl/BWBR0040039"
+opgehaald: 2026-08-26
 ---
+
 # Regeling bedrijfsvakanties
-
-Gelet op [artikel 36 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=36);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** degene die wordt bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1)
+- a. *ambtenaar:* degene die wordt bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1)
 
-- b. **hoofd defensieonderdeel:**
+- b. *hoofd defensieonderdeel:*
 
-- 1°. de Secretaris-Generaal, voor zover het betreft de Bestuursstaf;
+   - 1°. de Secretaris-Generaal, voor zover het betreft de Bestuursstaf;
 
-- 2°. de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, voor het desbetreffende commando
+   - 2°. de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, voor het desbetreffende commando
 
-- 3°. de directeur van de Defensie Materieel Organisatie, voor zover het betreft de Defensie Materieel Organisatie, met uitzondering van het deel ondergebracht in de Bestuursstaf;
+   - 3°. de directeur van de Defensie Materieel Organisatie, voor zover het betreft de Defensie Materieel Organisatie, met uitzondering van het deel ondergebracht in de Bestuursstaf;
 
-- 4°. de commandant van het Commando DienstenCentra, voor zover het betreft het Commando DienstenCentra.
+   - 4°. de commandant van het Commando DienstenCentra, voor zover het betreft het Commando DienstenCentra.
 
-- c. **bedrijfsvakantie:** een periode van twee of meer aaneengesloten werkdagen waarin voor meerdere ambtenaren, werkzaam bij een dienstonderdeel, collectief vakantie is vastgesteld.
+- c. *bedrijfsvakantie:* een periode van twee of meer aaneengesloten werkdagen waarin voor meerdere ambtenaren, werkzaam bij een dienstonderdeel, collectief vakantie is vastgesteld.
 
 ##### Artikel 2. Bevoegdheid tot vaststellen
 
@@ -91,4 +63,4 @@ Deze regeling treedt in werking met ingang van de datum van ondertekening en wer
 
 ##### Artikel 7. Citeertitel
 
-Deze regeling kan worden aangehaald als de ‘**Regeling bedrijfsvakanties**’.
+Deze regeling kan worden aangehaald als de ‘*Regeling bedrijfsvakanties*’.

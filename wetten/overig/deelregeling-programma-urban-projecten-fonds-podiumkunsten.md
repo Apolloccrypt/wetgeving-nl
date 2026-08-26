@@ -1,49 +1,25 @@
 ---
 title: "Deelregeling programma urban projecten Fonds Podiumkunsten"
 identifier: "BWBR0040670"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040670"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14558263"
-version_id: "25590252"
-internal_id: "C36519101"
-label_id: "14512284"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040670/2019-01-01/0"
-intitule_bron: "Stcrt.2018-10878"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-01-08"
-intitule_published: "2018-03-01"
-intitule_in_force: "2018-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-197"
-original_published_date: "2019-01-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2019-197"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0040670&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0040670&g=2019-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0040670"
+opgehaald: 2026-08-26
 ---
+
 # Deelregeling programma urban projecten Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **artiest:** iemand die voorstellingen of concerten verzorgt;
+- *artiest:* iemand die voorstellingen of concerten verzorgt;
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten.
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten.
 
 ##### Artikel 2. Doel
 
@@ -93,6 +69,16 @@ Om bij te dragen aan de ontwikkeling van de podiumkunsten in Nederland kent het 
 
 3. Het bestuur beslist niet voordat andere bij het programma betrokken matchmakers in de gelegenheid zijn gesteld zich over het initiatief uit te spreken.
 
+##### Artikel 6a. Alternatieve procedure
+
+1. In afwijking van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040670&artikel=6&z=2019-01-01&g=2019-01-01) kunnen artiesten rechtstreeks een aanvraag indienen bij het Fonds voor een bijdrage in het kader van het Programma Urban Projecten.
+
+2. Aanvragen die rechtstreeks worden ingediend bij het Fonds dienen te voldoen aan de eisen voor deelname, zoals die zijn beschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040670&artikel=5&z=2019-01-01&g=2019-01-01).
+
+3. Het bestuur kan advies vragen over ingediende aanvragen. Adviseurs beoordelen de aan hen voorgelegde aanvragen met inachtneming van het bepaalde in deze regeling.
+
+4. Als onderdeel van de beoordelingsprocedure kan de aanvrager worden uitgenodigd zijn plan mondeling toe te lichten aan een medewerker van het Fonds.
+
 ##### Artikel 7. Toekenning
 
 1. Het bestuur kent een financiële bijdrage toe ten behoeve van een initiatief als dat voldoet aan de eisen voor deelname in het programma en voor zover de financiële middelen dat toelaten.
@@ -118,17 +104,3 @@ Deze regeling treedt in werking met ingang van de dag na publicatie in de Staats
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling programma urban projecten Fonds Podiumkunsten.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Alternatieve procedure
-
-1. In afwijking van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040670&artikel=6&z=2019-01-01&g=2019-01-01) kunnen artiesten rechtstreeks een aanvraag indienen bij het Fonds voor een bijdrage in het kader van het Programma Urban Projecten.
-
-2. Aanvragen die rechtstreeks worden ingediend bij het Fonds dienen te voldoen aan de eisen voor deelname, zoals die zijn beschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040670&artikel=5&z=2019-01-01&g=2019-01-01).
-
-3. Het bestuur kan advies vragen over ingediende aanvragen. Adviseurs beoordelen de aan hen voorgelegde aanvragen met inachtneming van het bepaalde in deze regeling.
-
-4. Als onderdeel van de beoordelingsprocedure kan de aanvrager worden uitgenodigd zijn plan mondeling toe te lichten aan een medewerker van het Fonds.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

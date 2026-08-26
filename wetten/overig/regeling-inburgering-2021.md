@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0045574"
-opgehaald: 2026-08-25
+opgehaald: 2026-08-26
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 augustus 2021, nr. 2021-0000130089, tot uitvoering van de Wet inburgering 2021 (Regeling inburgering 2021)
@@ -723,6 +723,12 @@ De bedragen aan uitkering per asielstatushouder per variabele a tot en met c, be
 ##### Artikel 10.4. Vaststelling gewichten variabelen gemeentelijke grondslag
 
 De gewichten a tot en met d, bedoeld in de [artikelen 10.1, vierde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=10.1), en [10.2, derde lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=10.2), zijn voor het budgetjaar 2025 als volgt: a: 9.154,91, b: 4.635,54, c: 1.158,89 en d: 0, en voor het budgetjaar 2026: a: 5.820,70, b: 4.247,06, c: 1.061,77 en d: 856,51.
+
+##### Artikel 10.5. Vaststelling bedrag en percentage onderwijsroute
+
+1. het te verwachten percentage asielstatushouders in de onderwijsroute, bedoeld in [artikel 10.1, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=10&artikel=10.1&z=2026-04-18&g=2026-04-18), wordt voor het budgetjaar 2026 vastgesteld op 25%.
+
+2. Het aanvullend bedrag per asielstatushouder in de onderwijsroute, bedoeld in [artikel 10.1, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=10&artikel=10.1&z=2026-04-18&g=2026-04-18), en [artikel 10.2, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=10&artikel=10.2&z=2026-04-18&g=2026-04-18), wordt voor het budgetjaar 2026 vastgesteld op € 6.065,25.
 
 ##### Artikel 10.6. Vaststelling reserveringsruimte
 

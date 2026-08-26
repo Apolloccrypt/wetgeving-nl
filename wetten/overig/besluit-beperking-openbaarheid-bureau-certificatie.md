@@ -1,45 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid – Bureau Certificatie"
 identifier: "BWBR0040045"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-10-07"
-last_updated: "2017-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040045"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14211293"
-version_id: "24419772"
-internal_id: "C35022891"
-label_id: "14171804"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040045/2017-10-07/0"
-intitule_bron: "Stcrt.2017-56220"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-05-23"
-intitule_published: "2017-10-06"
-intitule_in_force: "2017-10-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-56220"
-original_signed_date: "2017-05-23"
-original_published_date: "2017-10-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-56220"
-entry_into_force_date: "2017-10-07"
-jci_1_3: "jci1.3:c:BWBR0040045&z=2017-10-07&g=2017-10-07"
-jci_1_0: "1.0:c:BWBR0040045&g=2017-10-07"
-citeertitel_status: "redactioneel"
-signed_date: "2017-05-23"
-entry_into_force: "2017-10-07"
+publicatiedatum: 2017-10-07
+laatste_update: 2017-10-07
+status: geldig
+toestand: 2017-10-07
+bron: "https://wetten.overheid.nl/BWBR0040045"
+opgehaald: 2026-08-26
 ---
+
 # Besluit beperking openbaarheid – Bureau Certificatie
-
-Gelet op [artikel 15, lid 1, onder a, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemene rijksarchivaris d.d. 2 mei 2017 met kenmerk 1169333
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het **Archief van de Nederlandsche Bank N.V., Bureau Certificatie, 1946–1966**
 
 ##### Artikel 1
 

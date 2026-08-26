@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 25 oktober 2017, nr. IENM/BSK-2017/224836, houdende regels voor de verstrekking van een tijdelijke subsidie aan de Stichting Geonovum (Tijdelijke subsidieregeling Geonovum 2017–2021)"
+citeertitel: "Tijdelijke subsidieregeling Geonovum 2017-2021"
 identifier: "BWBR0040126"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-10-31"
-last_updated: "2017-10-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040126"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14326223"
-version_id: "24544992"
-internal_id: "C35155801"
-label_id: "14286694"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040126/2017-10-31/0"
-intitule_bron: "Stcrt.2017-62475"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-25"
-intitule_published: "2017-10-30"
-intitule_in_force: "2017-10-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-62475"
-original_signed_date: "2017-10-25"
-original_published_date: "2017-10-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-62475"
-entry_into_force_date: "2017-10-31"
-jci_1_3: "jci1.3:c:BWBR0040126&z=2017-10-31&g=2017-10-31"
-jci_1_0: "1.0:c:BWBR0040126&g=2017-10-31"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling Geonovum 2017-2021"
-signed_date: "2017-10-25"
-entry_into_force: "2017-10-31"
+publicatiedatum: 2017-10-31
+laatste_update: 2017-10-31
+status: geldig
+toestand: 2017-10-31
+bron: "https://wetten.overheid.nl/BWBR0040126"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 25 oktober 2017, nr. IENM/BSK-2017/224836, houdende regels voor de verstrekking van een tijdelijke subsidie aan de Stichting Geonovum (Tijdelijke subsidieregeling Geonovum 2017–2021)
-
-Gelet op de [artikelen 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2) en [4 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4);
-
-BESLUIT:
 
 ##### Artikel 1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- **basisprogramma:** ontwikkelen en beheren van geo-standaarden, het verspreiden van kennis over geo-informatie en geo-informatie-infrastructuur en advisering daarover aan het GI-beraad;
+- *basisprogramma:* ontwikkelen en beheren van geo-standaarden, het verspreiden van kennis over geo-informatie en geo-informatie-infrastructuur en advisering daarover aan het GI-beraad;
 
-- **Geonovum:** Stichting Geonovum, statutair gevestigd te Amersfoort;
+- *Geonovum:* Stichting Geonovum, statutair gevestigd te Amersfoort;
 
-- **GI-beraad:** beraad voor Geo-informatie, bedoeld in het [Instellingsbesluit GI-beraad](https://wetten.overheid.nl/jci1.3:c:BWBR0019936);
+- *GI-beraad:* beraad voor Geo-informatie, bedoeld in het [Instellingsbesluit GI-beraad](https://wetten.overheid.nl/jci1.3:c:BWBR0019936);
 
-- **Minister:** Minister van Infrastructuur en Milieu,
+- *Minister:* Minister van Infrastructuur en Milieu,
 
 ##### Artikel 2. (doel subsidie)
 
@@ -58,7 +32,7 @@ In deze regeling wordt verstaan onder:
 
 2. Geen subsidie wordt verstrekt voor zover de activiteiten zijn te kwalificeren als economische activiteiten.
 
-##### Artikel 3. (toepassing [Afdeling 4.2.8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8))
+##### Artikel 3. (toepassing Afdeling 4.2.8 Awb)
 
 [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing op de op grond van deze regeling verstrekte subsidies.
 
@@ -169,5 +143,3 @@ Geonovum dient de aanvraag tot subsidievaststelling bij de Minister in binnen de
 ##### Artikel 16. (citeertitel)
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling Geonovum 2017-2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,66 +1,35 @@
 ---
 title: "Besluit van 7 december 2017 tot vaststelling van de rechtspositie van de voorzitter en leden van de toetsingscommissie inzet bevoegden en van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten (Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten)"
+citeertitel: "Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten"
 identifier: "BWBR0040419"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040419"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "14458833"
-version_id: "24731292"
-internal_id: "C35673671"
-label_id: "14419324"
-dtd_version: "2.0"
-original_entry_into_force: "2018-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040419/2022-01-01/0"
-intitule_bron: "Stb.2017-498"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-07"
-intitule_published: "2017-12-22"
-intitule_in_force: "2018-03-21"
-intitule_status: "goed"
-original_publication: "Stb.2017-498"
-original_signed_date: "2017-12-07"
-original_published_date: "2017-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-498"
-entry_into_force_date: "2018-04-01"
-jci_1_3: "jci1.3:c:BWBR0040419&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0040419&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten"
-signed_date: "2017-12-07"
-entry_into_force: "2018-04-01"
+publicatiedatum: 2018-04-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0040419"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van 7 december 2017 tot vaststelling van de rechtspositie van de voorzitter en leden van de toetsingscommissie inzet bevoegden en van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten (Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten)
-
-Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, gedaan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie, van 10 april 2017;
-
-Gelet op de [artikelen 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=33), en [102 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=102).;
-
-De Afdeling advisering van de Raad van State gehoord (advies van 10 mei 2017, nr. W01.17.0111/I);
-
-Gezien het nader rapport van Onze Minister-President, Minister van Algemene Zaken van 23 november 2017 nr. 3214633, uitgebracht in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
+- a. *wet:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- b. **Onze Minister:** Onze Minister-President, Minister van Algemene Zaken;
+- b. *Onze Minister:* Onze Minister-President, Minister van Algemene Zaken;
 
-- c. **lid:** degene die is benoemd tot voorzitter, lid of plaatsvervangend lid van de toetsingscommissie inzet bevoegdheden onderscheidenlijk tot voorzitter of lid van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten;
+- c. *lid:* degene die is benoemd tot voorzitter, lid of plaatsvervangend lid van de toetsingscommissie inzet bevoegdheden onderscheidenlijk tot voorzitter of lid van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten;
 
-- d. **lid van de afdeling klachtbehandeling:** degene die is benoemd tot lid van de afdeling klachtbehandeling van de commissie van toezicht op de inlichtingen en veiligheidsdiensten, niet zijnde de voorzitter van de afdeling klachtbehandeling;
+- d. *lid van de afdeling klachtbehandeling:* degene die is benoemd tot lid van de afdeling klachtbehandeling van de commissie van toezicht op de inlichtingen en veiligheidsdiensten, niet zijnde de voorzitter van de afdeling klachtbehandeling;
 
-- e. **salaris:** het bedrag, dat voor het lid is vastgesteld met inachtneming van de bepalingen met betrekking tot het salaris uit de laatstelijk gesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn. Het bedrag wordt vastgesteld aan de hand van een van de bijlagen van voornoemde collectieve arbeidsovereenkomst vermenigvuldigd met de voor het lid geldende arbeidsfactor;
+- e. *salaris:* het bedrag, dat voor het lid is vastgesteld met inachtneming van de bepalingen met betrekking tot het salaris uit de laatstelijk gesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn. Het bedrag wordt vastgesteld aan de hand van een van de bijlagen van voornoemde collectieve arbeidsovereenkomst vermenigvuldigd met de voor het lid geldende arbeidsfactor;
 
-- f. **rijksambtenaren:** degenen die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+- f. *rijksambtenaren:* degenen die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 2
 
@@ -76,7 +45,7 @@ In dit besluit wordt verstaan onder:
 
 6. In afwijking van het vijfde lid, heeft een lid na afloop van het tijdvak van 52 weken, bedoeld in het vijfde lid, recht op doorbetaling van zijn salaris over het aantal uren dat hij arbeid heeft verricht of zou hebben verricht indien die arbeid hem zou zijn aangeboden.
 
-- a. Bij de op non-actiefstelling of tijdens de non-activiteit, bedoeld in [artikel 101 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=101), kunnen de in dat artikel bedoelde ministers gezamenlijk beslissen dat tijdens de duur van de non-activiteit geen salaris of slechts een gedeelte van het salaris zal worden genoten, in het laatste geval onder aanwijzing van het deel dat zal worden genoten.
+7. - a. Bij de op non-actiefstelling of tijdens de non-activiteit, bedoeld in [artikel 101 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=101), kunnen de in dat artikel bedoelde ministers gezamenlijk beslissen dat tijdens de duur van de non-activiteit geen salaris of slechts een gedeelte van het salaris zal worden genoten, in het laatste geval onder aanwijzing van het deel dat zal worden genoten.
 
 - b. Indien de non-activiteit anders dan door ontslag wordt beëindigd, kunnen de in [artikel 101 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=101) bedoelde ministers gezamenlijk beslissen dat het niet genoten salaris alsnog geheel of gedeeltelijk zal worden uitbetaald, in het laatste geval onder aanwijzing van het gedeelte dat zal worden uitbetaald.
 
@@ -129,5 +98,3 @@ Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepal
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

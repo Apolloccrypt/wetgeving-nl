@@ -1,55 +1,25 @@
 ---
 title: "Regeling werving en selectie burgerlijke ambtenaren defensie"
 identifier: "BWBR0039910"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-04-01"
-last_updated: "1994-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039910"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "14137933"
-version_id: "24313682"
-internal_id: "C34904441"
-label_id: "14099144"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039910/1994-04-01/0"
-intitule_bron: "Stcrt.2017-47311"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-24"
-intitule_published: "2017-08-22"
-intitule_in_force: "2017-08-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-47311"
-original_signed_date: "1994-03-24"
-original_published_date: "2017-08-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-47311"
-entry_into_force_date: "1994-04-01"
-jci_1_3: "jci1.3:c:BWBR0039910&z=1994-04-01&g=1994-04-01"
-jci_1_0: "1.0:c:BWBR0039910&g=1994-04-01"
-citeertitel_status: "officieel"
-signed_date: "1994-03-24"
-entry_into_force: "1994-04-01"
+publicatiedatum: 1994-04-01
+laatste_update: 1994-04-01
+status: geldig
+toestand: 1994-04-01
+bron: "https://wetten.overheid.nl/BWBR0039910"
+opgehaald: 2026-08-26
 ---
+
 # Regeling werving en selectie burgerlijke ambtenaren defensie
-
-Besluit
-
-Ministeriële regeling tot tekstplaatsing van de ‘Regeling werving en selectie burgerlijke ambtenaren defensie’
-
-Gelet op: [artikel 5 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=5) en artikel 33 van het Arbeidsovereenkomstenbesluit;
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **bevoegd gezag** het tot aanstelling of indienstneming bevoegd gezag of, indien de aanstelling geschiedt bij Koninklijk besluit, de Minister van Defensie;
+- a. *bevoegd gezag* het tot aanstelling of indienstneming bevoegd gezag of, indien de aanstelling geschiedt bij Koninklijk besluit, de Minister van Defensie;
 
-- b. **sollicitant** degene die aan het bevoegd gezag kenbaar maakt in aanmerking te willen komen voor een door dat gezag beschikbaar gestelde of te stellen arbeidsplaats.
+- b. *sollicitant* degene die aan het bevoegd gezag kenbaar maakt in aanmerking te willen komen voor een door dat gezag beschikbaar gestelde of te stellen arbeidsplaats.
 
 ##### Artikel 2
 

@@ -1,48 +1,23 @@
 ---
 title: "Deelregeling Architectuur"
 identifier: "BWBR0040300"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040300"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14436583"
-version_id: "24687322"
-internal_id: "C35320651"
-label_id: "14397144"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040300/2018-01-01/0"
-intitule_bron: "Stcrt.2017-70333"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-12-05"
-intitule_in_force: "2017-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-70333"
-original_published_date: "2017-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-70333"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040300&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040300&g=2018-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040300"
+opgehaald: 2026-08-26
 ---
+
 # Deelregeling Architectuur
-
-**Introductie**
-
-Het Stimuleringsfonds Creatieve Industrie is het Rijkscultuurfonds voor architectuur, vormgeving en digitale cultuur. Het fonds wil een wezenlijke bijdrage leveren aan de kwaliteit van de professionele ontwerppraktijk binnen en vooral ook tussen de disciplines architectuur, vormgeving en digitale cultuur. Onderdeel van dit streven is de interdisciplinaire wisselwerking tussen het culturele, maatschappelijke en economische domein. Het Stimuleringsfonds ondersteunt bijzondere en vernieuwende projecten, onderzoek en activiteiten van ontwerpers, makers en culturele instellingen in binnen- en buitenland.
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering van de kwaliteit van architectuur.
 
 ##### Artikel 1. Doelstelling deelregeling architectuur
 
 1. Deze deelregeling is van toepassing op projecten die bijdragen aan het bevorderen van hoogwaardige kwaliteit, ontwikkeling en professionalisering van de hedendaagse Nederlandse architectuurpraktijk.
 
-2. Deze deelregeling geldt in aanvulling op het [Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018](onbekend). Het in dat reglement bepaalde is van toepassing op subsidieverlening op grond van deze deelregeling, voor zover daar in deze deelregeling niet van wordt afgeweken.
+2. Deze deelregeling geldt in aanvulling op het Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018. Het in dat reglement bepaalde is van toepassing op subsidieverlening op grond van deze deelregeling, voor zover daar in deze deelregeling niet van wordt afgeweken.
 
 ##### Artikel 2. Reikwijdte
 
@@ -64,7 +39,7 @@ Het bestuur kan met toepassing van deze deelregeling projectsubsidies verstrekke
 
 1. Voorafgaand aan het besluit wordt beoordeeld in hoeverre het project consistent is in doel, opzet, betrokken deskundigheid, wijze en mate van cofinanciering en publieksbereik.
 
-2. In het geval dat het totaal van de aanvragen dat voor subsidieverlening in aanmerking komt, het beschikbare budget binnen een ronde overschrijdt, zullen onder toepassing van de [artikelen 9](onbekend) en [10 van het Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018](onbekend) de navolgende criteria voor toekenning worden gehanteerd:
+2. In het geval dat het totaal van de aanvragen dat voor subsidieverlening in aanmerking komt, het beschikbare budget binnen een ronde overschrijdt, zullen onder toepassing van de artikelen 9 en 10 van het Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018 de navolgende criteria voor toekenning worden gehanteerd:
 
 - a. de positief beoordeelde aanvragen worden geprioriteerd op ‘excellentie’;
 
@@ -79,5 +54,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2018.
 ##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Architectuur.
-
-Deze deelregeling zal in de Staatscourant worden geplaatst.

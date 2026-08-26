@@ -1,64 +1,46 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Veiligheid en Justitie van 2 augustus 2017, kenmerk MC-U-165460, houdende de vaststelling van beleidsregels inzake de meldplicht geweld tussen cliënten"
+citeertitel: "Beleidsregels meldplicht geweld tussen cliënten"
 identifier: "BWBR0039884"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-08-16"
-last_updated: "2017-08-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039884"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "14130453"
-version_id: "24300742"
-internal_id: "C34884311"
-label_id: "14091464"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039884/2017-08-16/0"
-intitule_bron: "Stcrt.2017-46305"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-02"
-intitule_published: "2017-08-15"
-intitule_in_force: "2017-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-46305"
-original_signed_date: "2017-08-02"
-original_published_date: "2017-08-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-46305"
-entry_into_force_date: "2017-08-16"
-jci_1_3: "jci1.3:c:BWBR0039884&z=2017-08-16&g=2017-08-16"
-jci_1_0: "1.0:c:BWBR0039884&g=2017-08-16"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels meldplicht geweld tussen cliënten"
-signed_date: "2017-08-02"
-entry_into_force: "2017-08-16"
+publicatiedatum: 2017-08-16
+laatste_update: 2017-08-16
+status: geldig
+toestand: 2017-08-16
+bron: "https://wetten.overheid.nl/BWBR0039884"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Veiligheid en Justitie van 2 augustus 2017, kenmerk MC-U-165460, houdende de vaststelling van beleidsregels inzake de meldplicht geweld tussen cliënten
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 24, vijfde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=24) en [artikel 9.2, vierde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.2);
-
-Besluiten:
 
 ### 1. Inleiding
 
 Sinds 1 januari 2015 is de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), en sinds 1 januari 2016 is de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) (hierna: Wkkgz) van kracht. Op grond van [artikel 4.1.8, eerste lid, onder b, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.1.8) en [artikel 11, eerste lid, onder b, van de Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11) zijn jeugdhulpaanbieders, gecertificeerde instellingen en zorgaanbieders (hierna: aanbieders) verplicht geweld (in de zorgrelatie) onverwijld bij de IJZ, IVenJ en de IGZ (hierna: de inspecties) te melden.
 
-Onder geweld (in de zorgrelatie) wordt onder meer verstaan lichamelijk en/of geestelijk geweld **tussen cliënten** die gedurende ten minste een dagdeel in dezelfde accommodatie verblijven. Deze meldplicht omvat ook minder ernstig geweld tussen cliënten. Minder ernstig geweld tussen cliënten komt bij sommige cliëntenpopulaties veelvuldig voor. Afzonderlijke melding aan de inspecties van elk van deze gebeurtenissen leidt tot een onevenredige verzwaring van de administratieve lasten voor aanbieders en de uitvoeringslasten van de inspecties.
+Onder geweld (in de zorgrelatie) wordt onder meer verstaan lichamelijk en/of geestelijk geweld *tussen cliënten* die gedurende ten minste een dagdeel in dezelfde accommodatie verblijven. Deze meldplicht omvat ook minder ernstig geweld tussen cliënten. Minder ernstig geweld tussen cliënten komt bij sommige cliëntenpopulaties veelvuldig voor. Afzonderlijke melding aan de inspecties van elk van deze gebeurtenissen leidt tot een onevenredige verzwaring van de administratieve lasten voor aanbieders en de uitvoeringslasten van de inspecties.
 
 Dat minder ernstig geweld tussen cliënten plaatsvindt, kan niettemin een indicatie zijn van verhoogd risico voor de veiligheid van cliënten. De intensiteit van een langdurig gezamenlijk verblijf maakt deze cliënten extra kwetsbaar en afhankelijk van hoe een aanbieder geweld voorkomt en optreedt tegen geweld waarmee cliënten worden geconfronteerd.
 
-Met deze beleidsregels verduidelijken de inspecties hoe zij omgaan met meldingen van lichamelijk en/of geestelijk geweld tussen cliënten die ten minste een dagdeel in dezelfde accommodatie verblijven. Deze beleidsregels zijn niet van toepassing op lichamelijk en/of geestelijk geweld dat wordt gepleegd door een **hulpverlener jegens een cliënt.** Deze beleidsregels zien evenmin op **seksueel geweld**tussen hulpverlener/cliënt, dan wel tussen cliënten onderling1Zie voor deze situaties onder meer: Inspectie voor de Gezondheidszorg - Het mag niet, het mag nooit..
+Reikwijdte
+
+Met deze beleidsregels verduidelijken de inspecties hoe zij omgaan met meldingen van lichamelijk en/of geestelijk geweld tussen cliënten die ten minste een dagdeel in dezelfde accommodatie verblijven. Deze beleidsregels zijn niet van toepassing op lichamelijk en/of geestelijk geweld dat wordt gepleegd door een *hulpverlener jegens een cliënt.* Deze beleidsregels zien evenmin op *seksueel geweld*tussen hulpverlener/cliënt, dan wel tussen cliënten onderling1Zie voor deze situaties onder meer: Inspectie voor de Gezondheidszorg - Het mag niet, het mag nooit..
 
 ### 2. Uitgangspunt: Melden, tenzij er sprake is van minder ernstig lichamelijk of geestelijk geweld
 
-**Onderscheid afzonderlijk te melden situaties van geweld**
+*Onderscheid afzonderlijk te melden situaties van geweld*
 
 Van aanbieders wordt verwacht dat zij geweld tussen cliënten per situatie melden aan de (desbetreffende) inspectie(s), tenzij er sprake is van minder ernstige lichamelijke of geestelijke geweldsincidenten. Een aanbieder beoordeelt zelf of daarvan in een concrete situatie sprake is.
 
 Van geweld dat per situatie moet worden gemeld is volgens de inspecties in ieder geval sprake als:
 
+- 1) een medische en/of psychologische dan wel gedragskundige behandeling van het geweld noodzakelijk was, blijkend uit een consult bij een zorg- of jeugdhulpverlener 2Hiermee bedoelen de inspecties meer dan enkel een diagnostische beoordeling en een behandeling die niet voortvloeit uit of past binnen het reguliere behandeltraject. Een dergelijk consult kan zowel worden aangevraagd bij een zorg- of jeugdhulpverlener die werkzaam is binnen als buiten de instelling waar het geweld plaatsvond.en/of:
+
+- 2) sprake van een politie-interventie, dan wel een aangifte bij de politie of het openbaar ministerie.
+
 Mocht een aanbieder twijfelen of sprake is van een situatie van geweld dat afzonderlijk dient te worden gemeld, dan adviseren de inspecties dit te melden.
+
+Jaaroverzicht voor minder ernstig geweld
 
 Aanbieders hoeven situaties van minder ernstig geweld tussen cliënten onderling niet afzonderlijk te melden, maar dienen deze wel zelf te registreren3In het jeugddomein gold deze verplichting al langer: https://www.inspectiejeugdzorg.nl/meldingen/melden-voor-instellingen/. Aanbieders hebben daarvoor doorgaans al een eigen systeem ingericht.
 
@@ -87,5 +69,3 @@ Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgi
 ### 5. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels meldplicht geweld tussen cliënten.
-
-Deze beleidsregels worden in de Staatscourant geplaatst.

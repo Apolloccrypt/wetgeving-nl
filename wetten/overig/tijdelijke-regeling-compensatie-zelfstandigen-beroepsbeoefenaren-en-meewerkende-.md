@@ -1,84 +1,58 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 maart 2018, nr. 2018-0000027251, tot vaststelling van een tijdelijke regeling ter compensatie van zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten die in het tijdvak 7 mei 2005 tot 4 juni 2008 geen recht hadden op uitkering wegens zwangerschap en bevalling (Tijdelijke regeling compensatie zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten bevallen in het tijdvak 7 mei 2005 tot 4 juni 2008)"
+citeertitel: "Tijdelijke regeling compensatie zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten bevallen in het tijdvak 7 mei 2005 tot 4 juni 2008"
 identifier: "BWBR0040708"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-05-15"
-last_updated: "2018-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040708"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14566163"
-version_id: "24932782"
-internal_id: "C35658951"
-label_id: "14520024"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040708/2018-05-15/0"
-intitule_bron: "Stcrt.2018-14285"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-03-07"
-intitule_published: "2018-03-12"
-intitule_in_force: "2018-03-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-14285"
-original_signed_date: "2018-03-07"
-original_published_date: "2018-03-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-14285"
-entry_into_force_date: "2018-05-15"
-jci_1_3: "jci1.3:c:BWBR0040708&z=2018-05-15&g=2018-05-15"
-jci_1_0: "1.0:c:BWBR0040708&g=2018-05-15"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling compensatie zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten bevallen in het tijdvak 7 mei 2005 tot 4 juni 2008"
-signed_date: "2018-03-07"
-entry_into_force: "2018-05-15"
+publicatiedatum: 2018-05-15
+laatste_update: 2018-05-15
+status: geldig
+toestand: 2018-05-15
+bron: "https://wetten.overheid.nl/BWBR0040708"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 maart 2018, nr. 2018-0000027251, tot vaststelling van een tijdelijke regeling ter compensatie van zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten die in het tijdvak 7 mei 2005 tot 4 juni 2008 geen recht hadden op uitkering wegens zwangerschap en bevalling (Tijdelijke regeling compensatie zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten bevallen in het tijdvak 7 mei 2005 tot 4 juni 2008)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), juncto [9 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=9) en [32d, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32d);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
-- **beroepsbeoefenaar:** de persoon die:
+- *beroepsbeoefenaar:* de persoon die:
 
-- a. anders dan uit dienstbetrekking inkomsten uit tegenwoordige arbeid geniet; of
+   - a. anders dan uit dienstbetrekking inkomsten uit tegenwoordige arbeid geniet; of
 
-- b. anders dan in dienstbetrekking arbeid verricht ten behoeve van een lichaam waarin hij een aanmerkelijk belang als bedoeld in [hoofdstuk 4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4) heeft;
+   - b. anders dan in dienstbetrekking arbeid verricht ten behoeve van een lichaam waarin hij een aanmerkelijk belang als bedoeld in [hoofdstuk 4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4) heeft;
 
-- **compensatie:** compensatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040708&artikel=2&z=2018-05-15&g=2018-05-15);
+- *compensatie:* compensatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040708&artikel=2&z=2018-05-15&g=2018-05-15);
 
-- **dienstbetrekking:** een dienstbetrekking in de zin van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+- *dienstbetrekking:* een dienstbetrekking in de zin van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- **inkomsten uit tegenwoordige arbeid:** het gezamenlijke bedrag van:
+- *inkomsten uit tegenwoordige arbeid:* het gezamenlijke bedrag van:
 
-- a. het belastbaar loon uit tegenwoordige arbeid, bedoeld in [afdeling 3.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.3);
+   - a. het belastbaar loon uit tegenwoordige arbeid, bedoeld in [afdeling 3.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.3);
 
-- b. het belastbaar loon ter zake van het in Nederland verrichten van arbeid, bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2);
+   - b. het belastbaar loon ter zake van het in Nederland verrichten van arbeid, bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2);
 
-- c. het belastbaar resultaat uit overige werkzaamheden, bedoeld in [afdeling 3.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92); en
+   - c. het belastbaar resultaat uit overige werkzaamheden, bedoeld in [afdeling 3.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92); en
 
-- d. het belastbaar resultaat uit overige werkzaamheden in Nederland, bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92);
+   - d. het belastbaar resultaat uit overige werkzaamheden in Nederland, bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92);
 
-- **meewerkende echtgenoot:** de persoon die anders dan in dienstbetrekking, als zelfstandige of als beroepsbeoefenaar, meewerkt in de onderneming van zijn partner in de zin van [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2);
+- *meewerkende echtgenoot:* de persoon die anders dan in dienstbetrekking, als zelfstandige of als beroepsbeoefenaar, meewerkt in de onderneming van zijn partner in de zin van [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2);
 
-- **Minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- *Minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- **winst uit Nederlandse onderneming:** de belastbare winst uit Nederlandse onderneming, bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.4);
+- *winst uit Nederlandse onderneming:* de belastbare winst uit Nederlandse onderneming, bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.4);
 
-- **winst uit onderneming:** de belastbare winst uit onderneming, bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.1), vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.4);
+- *winst uit onderneming:* de belastbare winst uit onderneming, bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.1), vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.4);
 
-- **zelfstandige:** de persoon die:
+- *zelfstandige:* de persoon die:
 
-- a. in Nederland woont en die winst uit onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft; of
+   - a. in Nederland woont en die winst uit onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft; of
 
-- b. niet in Nederland woont en die winst uit Nederlandse onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft.
+   - b. niet in Nederland woont en die winst uit Nederlandse onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft.
 
 2. In deze regeling wordt met echtgenoot gelijkgesteld de geregistreerde partner.
 
@@ -169,5 +143,3 @@ Deze regeling wordt aangehaald als: Tijdelijke regeling compensatie zelfstandige
 1. Deze regeling treedt in werking met ingang van 15 mei 2018.
 
 2. Deze regeling vervalt met ingang van 1 januari 2021, met dien verstande dat voor de reeds verstrekte compensatie deze regeling van toepassing blijft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

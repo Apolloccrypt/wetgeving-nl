@@ -1,48 +1,25 @@
 ---
 title: "Instellingsbesluit Commissie Visitatie raming belasting- en premieontvangsten"
 identifier: "BWBR0040652"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-23"
-last_updated: "2018-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040652"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "14555673"
-version_id: "24911752"
-internal_id: "C35632711"
-label_id: "14509764"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040652/2018-02-23/0"
-intitule_bron: "Stcrt.2018-9816"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-02-22"
-intitule_in_force: "2018-02-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-9816"
-original_published_date: "2018-02-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-9816"
-entry_into_force_date: "2018-02-23"
-jci_1_3: "jci1.3:c:BWBR0040652&z=2018-02-23&g=2018-02-23"
-jci_1_0: "1.0:c:BWBR0040652&g=2018-02-23"
-citeertitel_status: "officieel"
-entry_into_force: "2018-02-23"
+publicatiedatum: 2018-02-23
+laatste_update: 2018-02-23
+status: geldig
+toestand: 2018-02-23
+bron: "https://wetten.overheid.nl/BWBR0040652"
+opgehaald: 2026-08-26
 ---
+
 # Instellingsbesluit Commissie Visitatie raming belasting- en premieontvangsten
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Financiën;
+- a. *Minister:* Minister van Financiën;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040652&artikel=2&z=2018-02-23&g=2018-02-23).
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040652&artikel=2&z=2018-02-23&g=2018-02-23).
 
 ##### Artikel 2. Instelling en taak
 
@@ -50,7 +27,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft tot taak:
 
-- •. Een onafhankelijke toetsing te verrichten voor de systematiek van de raming van de belasting- en premieontvangsten
+- • Een onafhankelijke toetsing te verrichten voor de systematiek van de raming van de belasting- en premieontvangsten
 
 ##### Artikel 3. samenstelling, benoeming, ontslag
 
@@ -155,5 +132,3 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 ##### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Visitatie raming belasting- en premieontvangsten.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

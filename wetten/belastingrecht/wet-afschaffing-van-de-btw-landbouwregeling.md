@@ -1,64 +1,34 @@
 ---
 title: "Wet van 20 december 2017 tot wijziging van de Wet op de omzetbelasting 1968 en enkele andere wetten (Wet afschaffing van de btw-landbouwregeling)"
+citeertitel: "Wet afschaffing van de btw-landbouwregeling"
 identifier: "BWBR0040448"
-country: "nl"
-rank: "wet"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040448"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "14463763"
-version_id: "24743412"
-internal_id: "C35404271"
-label_id: "14424234"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040448/2018-10-01/0"
-intitule_bron: "Stb.2017-519"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-20"
-intitule_published: "2017-12-28"
-intitule_in_force: "2017-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2017-519"
-original_signed_date: "2017-12-20"
-original_published_date: "2017-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "34787"
-original_url_id: "stb-2017-519"
-entry_into_force_date: "2018-01-01"
-entry_into_force_dossier: "34787"
-jci_1_3: "jci1.3:c:BWBR0040448&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0040448&g=2018-10-01"
-citeertitel_status: "officieel"
-short_title: "Wet afschaffing van de btw-landbouwregeling"
-signed_date: "2017-12-20"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0040448"
+opgehaald: 2026-08-26
 ---
+
 # Wet van 20 december 2017 tot wijziging van de Wet op de omzetbelasting 1968 en enkele andere wetten (Wet afschaffing van de btw-landbouwregeling)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de wetgeving inzake omzetbelasting aan te passen in verband met de afschaffing van de btw-landbouwregeling;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel III
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel IV
 
-Wijzigt de Wet opslag duurzame energie.
+*Wijzigt de Wet opslag duurzame energie.*
 
 ##### Artikel V
 
@@ -83,5 +53,3 @@ Wijzigt de Wet opslag duurzame energie.
 ##### Artikel VII
 
 Deze wet wordt aangehaald als: Wet afschaffing van de btw-landbouwregeling.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

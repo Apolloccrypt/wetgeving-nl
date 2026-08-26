@@ -1,61 +1,18 @@
 ---
 title: "Onderlinge regeling van Sint Maarten en Nederland als bedoeld in artikel 38, eerste lid, van het Statuut van Koninkrijk der Nederlanden tot versterking van het grenstoezicht van Sint Maarten (Onderlinge regeling versterking grenstoezicht Sint Maarten)"
+citeertitel: "Onderlinge regeling versterking grenstoezicht Sint Maarten"
 identifier: "BWBR0040394"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-12-20"
-last_updated: "2017-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040394"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14455133"
-version_id: "24723582"
-internal_id: "C35367571"
-label_id: "14415814"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040394/2017-12-20/0"
-intitule_bron: "Stcrt.2017-72542"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-12-19"
-intitule_in_force: "2017-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-72542"
-original_published_date: "2017-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-72542"
-entry_into_force_date: "2017-12-20"
-jci_1_3: "jci1.3:c:BWBR0040394&z=2017-12-20&g=2017-12-20"
-jci_1_0: "1.0:c:BWBR0040394&g=2017-12-20"
-citeertitel_status: "officieel"
-short_title: "Onderlinge regeling versterking grenstoezicht Sint Maarten"
-entry_into_force: "2017-12-20"
+publicatiedatum: 2017-12-20
+laatste_update: 2017-12-20
+status: geldig
+toestand: 2017-12-20
+bron: "https://wetten.overheid.nl/BWBR0040394"
+opgehaald: 2026-08-26
 ---
+
 # Onderlinge regeling van Sint Maarten en Nederland als bedoeld in artikel 38, eerste lid, van het Statuut van Koninkrijk der Nederlanden tot versterking van het grenstoezicht van Sint Maarten (Onderlinge regeling versterking grenstoezicht Sint Maarten)
-
-Overwegende dat:
-
-het in het belang van de bevolking van Sint Maarten is maatregelen te nemen die een ordentelijk en voorspoedig verloop van de wederopbouw van Sint Maarten bevorderen;
-
-een van die maatregelen ziet op de versterking van het grenstoezicht;
-
-de landen op 24 november 2017 zijn overeengekomen een onderlinge regeling te treffen waarin bindende afspraken worden gemaakt over de uitvoering en versterking van het grenstoezicht door de Koninklijke Marechaussee (hierna: KMar) en de Douane Nederland in Sint Maarten, met als doel een goed functionerend, ordentelijk en ongecompromitteerd grenstoezicht op personen en goederen in Sint Maarten;
-
-deze afspraken rekening houden met de afspraken gemaakt bij de onderlinge [regeling tussen Curaçao, Sint Maarten en Nederland, regelende de samenwerking tussen de landen op het gebied van de vreemdelingenketen](https://wetten.overheid.nl/jci1.3:c:BWBR0027352) (Stcrt. 2010, 3443);
-
-het grenstoezicht in crisissituaties en tijden van wederopbouw in Sint Maarten extra kwetsbaar is;
-
-om die reden de regeringen van de landen het noodzakelijk achten dat het grenstoezicht in Sint Maarten substantieel wordt versterkt;
-
-bestaande bedreigingen van het welzijn van de bevolking van Sint Maarten, met name via de grenzen in het bijzonder bestaan uit zware drugs- en wapencriminaliteit, migratiecriminaliteit, de instroom van illegale arbeidsmigranten en ongecontroleerde geld- en goederenstromen;
-
-naar het oordeel van de regeringen van de landen, Sint Maarten op dit moment ondersteuning behoeft bij het bewaken van de in- en uitstroom en personen en goederen aan de grenzen en daarom extra inzet van de KMar en de Douane Nederland – onder verantwoordelijkheid van de Minister van Justitie van Sint Maarten – voor de versterking van het grenstoezicht noodzakelijk is;
-
-deze regeling onverlet laat de uitvoering van het op 17 mei 1994 te Parijs tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake personencontrole op de luchthavens op Sint Maarten (Trb. 1994, 144), voor zover het betreft de gemeenschappelijke personencontroles op de internationale luchthaven Princess Juliana International Airport te Sint Maarten;
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Verklaren het volgende te zijn overeengekomen:
 
 ### Hoofdstuk 1. Doel
 
@@ -212,5 +169,3 @@ De financiering van de bijstand van de Douane Nederland en de extra bijstand van
 ##### Artikel 18
 
 Deze regeling wordt aangehaald als: Onderlinge regeling versterking grenstoezicht Sint Maarten.
-
-Deze regeling wordt binnen 30 dagen na ondertekening geplaatst in de Staatscourant van Nederland en de Landscourant van Sint Maarten.

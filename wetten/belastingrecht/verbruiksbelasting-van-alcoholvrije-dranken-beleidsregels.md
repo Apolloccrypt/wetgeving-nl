@@ -1,49 +1,58 @@
 ---
 title: "Verbruiksbelasting van alcoholvrije dranken, beleidsregels"
 identifier: "BWBR0040192"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040192"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "14356963"
-version_id: "24588532"
-internal_id: "C35206021"
-label_id: "14318014"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040192/2018-01-01/0"
-intitule_bron: "Stcrt.2017-64302"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-30"
-intitule_published: "2017-11-13"
-intitule_in_force: "2017-11-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-64302"
-original_signed_date: "2017-10-30"
-original_published_date: "2017-11-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-64302"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040192&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040192&g=2018-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2017-10-30"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040192"
+opgehaald: 2026-08-26
 ---
+
 # Verbruiksbelasting van alcoholvrije dranken, beleidsregels
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
+*De Staatssecretaris van Financiën heeft het volgende besloten.*
 
-**Dit besluit is een actualisering van het beleidsbesluit van 1 december 2015, nr. BLKB2015/1193M,** **Stcrt. 2015, 45344** **, dat hiermee wordt ingetrokken. Onder 1.4 is een nieuwe beleidsregel opgenomen op grond waarvan de inspecteur onder voorwaarden kan toestaan om een maandverklaring als bedoeld in artikel 2 van het besluit achterwege te laten.**
+*Dit besluit is een actualisering van het beleidsbesluit van 1 december 2015, nr. BLKB2015/1193M,*
+ *Stcrt. 2015, 45344*
+ *, dat hiermee wordt ingetrokken. Onder 1.4 is een nieuwe beleidsregel opgenomen op grond waarvan de inspecteur onder voorwaarden kan toestaan om een maandverklaring als bedoeld in artikel 2 van het besluit achterwege te laten.*
 
 ### Gebruikte begrippen en afkortingen
 
+- a. *wet:*
+ [Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802)
+
+- b. *besluit:*
+ [Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005804)
+
+- c. *regeling:*
+ [Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005812)
+
+- d. *IVV:* een inrichting voor alcoholvrije dranken zoals omschreven in [artikel 2, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=2)
+
+- e. *alcoholvrije dranken:* alcoholvrije dranken als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=6)
+
 De hoofdstukindeling van dit besluit is voor zover mogelijk gelijk aan de hoofdstukindeling van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802). De inhoudsopgave ziet er daarom als volgt uit:
 
-De beleidsregels zijn onder de betreffende hoofdstukken (1 t/m 6) opgenomen.
+- 1. [Inleidende bepalingen](https://wetten.overheid.nl/BWBR0040192)
+
+- 2. [Definities van de goederen en tarieven](https://wetten.overheid.nl/BWBR0040192)
+
+- 3. [Uitslag en Invoer](https://wetten.overheid.nl/BWBR0040192)
+
+- 4. [Vrijstellingen en teruggaven](https://wetten.overheid.nl/BWBR0040192)
+
+- 5. [Bijzondere bepalingen](https://wetten.overheid.nl/BWBR0040192)
+
+- 6. [Verbodsbepalingen en strafbepalingen](https://wetten.overheid.nl/BWBR0040192)
+
+- 7. [Intrekking besluiten](https://wetten.overheid.nl/BWBR0040192)
+
+- 8. [Inwerkingtreding](https://wetten.overheid.nl/BWBR0040192)
+
+De beleidsregels zijn onder de betreffende hoofdstukken ([1 t/m 6](https://wetten.overheid.nl/BWBR0040192)) opgenomen.
 
 ### 1. Inleidende bepalingen
 
@@ -51,13 +60,25 @@ De beleidsregels zijn onder de betreffende hoofdstukken (1 t/m 6) opgenomen.
 
 Indien alcoholvrije dranken tijdelijk buiten de IVV worden gebracht om ze elders een bewerking te laten ondergaan is op grond van [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3) sprake van uitslag. Indien de alcoholvrije dranken weer binnen de IVV worden gebracht, kan de verbruiksbelasting worden teruggevraagd.
 
+Goedkeuring
+
 Ik keur goed dat de inspecteur toestaat dat alcoholvrije dranken tijdelijk buiten de IVV worden gebracht om elders een eenvoudige bewerking te ondergaan. Dit wordt dan niet aangemerkt als uitslag. De toestemming wordt in de vergunning voor de IVV opgenomen en kan worden verleend onder de volgende voorwaarden:
+
+- – de bewerking mag niet zodanig zijn dat de bewerkte alcoholvrije dranken een hoger belastingbedrag vertegenwoordigen dan voor die bewerking het geval was;
+
+- – in de administratie van de IVV moeten de tijdelijke overbrenging en de onregelmatigheden tijdens de overbrenging worden vastgelegd;
+
+- – de overbrenging van of naar de plaats van bewerking moet plaatsvinden met een bescheid als omschreven in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=5) onder vermelding van de tekst ‘tijdelijke uitslag IVV’ en het nummer van de IVV-vergunning.
 
 ### 1.2. Rechtstreekse aflevering van alcoholvrije dranken
 
 ### 1.2.1. Inleiding
 
 Het vervoer van alcoholvrije dranken kan onder schorsing van verbruiksbelasting onder andere plaatsvinden tussen:
+
+- – vergunninghouders van IVV’s onderling;
+
+- – een afzender in een andere lidstaat en een IVV.
 
 Het vervoer onder schorsing van verbruiksbelasting vindt in deze situaties plaats onder geleide van een vervoersopdracht (tussen IVV's) of een bescheid (vanuit een andere lidstaat naar een IVV).
 
@@ -87,7 +108,39 @@ Bij gebleken misbruik of indien aan één of meer van de onder punt 1.2.3 hierna
 
 Een toestemming kan niet worden verleend:
 
+- – aan een ondernemer die geen vergunninghouder van een IVV is;
+
+- – aan een publiekrechtelijk lichaam;
+
+- – aan een natuurlijk persoon die de alcoholvrije dranken voor ander dan persoonlijk verbruik voorhanden heeft.
+
 ### 1.2.3. Voorwaarden
+
+- a. De afnemer aan wie rechtstreeks wordt afgeleverd moet een ondernemer zijn in de zin van de [Wet op de Omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
+
+- b. De toestemming geldt alleen als de volledige hoeveelheid alcoholvrije dranken die op de vervoersopdracht of op het bescheid is vermeld, rechtstreeks wordt afgeleverd. Het is dus bijvoorbeeld niet mogelijk om een gedeelte van de alcoholvrije dranken fysiek in de IVV in te slaan en een ander gedeelte rechtstreeks af te leveren.
+
+- c. Indien het overbrengen geschiedt met een vervoersopdracht dan zijn de naam en adres van de IVV (vergunninghouder-geadresseerde) vermeld waarnaar de alcoholvrije dranken worden overgebracht. De naam en adres van de afnemer zal niet in de vervoersopdracht vermeld zijn. Daarom moet naast de vervoersopdracht tevens een commercieel vervoersdocument bij de zending aanwezig zijn waaruit blijkt wie de afnemer van de alcoholvrije dranken is.
+
+- d. Indien het overbrengen geschiedt met een bescheid dan zijn de naam en adres van de IVV (vergunninghouder-geadresseerde) vermeld waarnaar de alcoholvrije dranken worden overgebracht. De naam en adres van de afnemer zal niet in het bescheid vermeld zijn. Daarom moet naast het bescheid tevens een commercieel vervoersdocument bij de zending aanwezig zijn waaruit blijkt wie de afnemer van de alcoholvrije dranken is.
+
+- e. De vergunninghouder-geadresseerde moet ervoor zorgen dat hij wordt geïnformeerd over de datum van ontvangst door de afnemer in Nederland. Deze gegevens worden op de commerciële bescheiden, behorende bij de fysieke aflevering, vermeld. Tevens moet hij ervoor zorgen dat hij na de rechtstreekse aflevering het bescheid of de vervoersopdracht in zijn bezit krijgt.
+
+- f. Rechtstreekse aflevering kan door de vergunninghouder-geadresseerde ook plaatsvinden aan een andere IVV-houder (vergunninghouder-afnemer), waarbij de vergunninghouder-afnemer de alcoholvrije dranken onder schorsing van verbruiksbelasting ontvangt. In die situatie moet de vergunninghouder-geadresseerde op de vervoersopdracht of het bescheid vermeld zijn. De vergunninghouder-geadresseerde moet dan een nieuwe vervoersopdracht (tweede vervoersopdracht) opmaken zoals bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2). Deze tweede vervoersopdracht moet hij zenden aan de vergunninghouder-afnemer. Deze verklaart op de tweede vervoersopdracht dat hij de alcoholvrije dranken heeft ontvangen en opgenomen in zijn IVV-administratie en stuurt de vervoersopdracht terug aan vergunninghouder-geadresseerde.
+
+- g. Indien de afnemer in het bezit is van een vrijstellingsvergunning zoals bedoeld in [artikel 29, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) handelt de vergunninghouder-geadresseerde zoals in punt f is aangegeven voor de levering aan een andere IVV. De houder van de vrijstellingsvergunning handelt zoals in punt f is aangegeven voor de ontvangst door de vergunninghouder-afnemer.
+
+- h. Indien het overbrengen geschiedt met toepassing van [artikel 2, zesde t/m dertiende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2) wordt geen gebruik gemaakt van een vervoersopdracht. Bij de zending zal echter wel een commercieel vervoersbescheid aanwezig moeten zijn. Uit dit commercieel vervoersbescheid moet blijken wat de daadwerkelijke plaats van lossing is.
+
+- i. De vergunninghouder-geadresseerde neemt de hoeveelheid die door de afnemer ontvangen is op in zijn administratie als in- en uitslag. De datum van deze in- en uitslag is de datum als bedoeld onder punt e hiervoor.
+
+- j. De vergunninghouder-geadresseerde moet met overeenkomstige toepassing van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=20), de verbruiksbelasting op aangifte voldoen, als ware sprake van uitslag als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3). Deze voorwaarde is echter niet van toepassing als de rechtstreekse aflevering plaatsvindt aan een andere IVV.
+
+- k. De vergunninghouder-geadresseerde bewaart de vervoersopdrachten, bescheiden en commerciële bescheiden die betrekking hebben op de fysieke aflevering bij zijn administratie.
+
+- l. In de administratie van de vergunninghouder-geadresseerde moet duidelijk onderscheid worden gemaakt tussen de transacties waarbij de alcoholvrije dranken fysiek door de vergunninghouder-geadresseerde worden ontvangen en de rechtstreekse afleveringen.
+
+- m. Iedere wijziging die zich na het verlenen van de toestemming voordoet, moet schriftelijk aan de inspecteur worden gemeld.
 
 De inspecteur kan nog nadere voorwaarden stellen met het oog op de naleving van de hiervoor genoemde voorwaarden.
 
@@ -97,15 +150,31 @@ Vanuit logistiek oogpunt is het vaak wenselijk dat alcoholvrije dranken tijdens 
 
 De wetgeving voorziet niet in tijdelijke opslag. Opslag onder schorsing van verbruiksbelasting moet plaatsvinden in een IVV. De logistieke dienstverlener beschikt vaak niet over een vergunning voor een IVV.
 
+Goedkeuring
+
 Indien alcoholvrije dranken die worden overgebracht onder schorsing van verbruiksbelasting met het oog op de overlading in een opvolgend vervoermiddel gedurende een korte tijd worden opgeslagen, kan deze tijdelijk opslag plaats vinden buiten een IVV. Hiervoor gelden de volgende voorwaarden:
+
+- a. de tijdelijke opslag bij overlading vindt plaats bij een logistieke dienstverlener in Nederland;
+
+- b. het opvolgende vervoer moet dan al bekend zijn, dat wil zeggen de aard (vrachtwagen, binnenschip e.d.) en indien mogelijk de identiteit (kenteken vrachtauto, naam van het binnenschip e.d.) van het opvolgende vervoer;
+
+- c. het aan de tijdelijke opslag voorafgaande vervoer en het opvolgende vervoer geschieden onder dekking van hetzelfde vervoersbescheid (vervoersopdracht, (herkomst)bescheid, afdrukken van het uitvoergeleidedocument of de aangifte ten uitvoer);
+
+- d. de alcoholvrije dranken worden gedurende ten hoogste zes dagen opgeslagen buiten een IVV.
 
 Indien niet aan bovengenoemde voorwaarden wordt voldaan, is sprake van uitslag op grond van het voorhanden hebben van alcoholvrije dranken waarvan de belasting niet is geheven als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4).
 
-### 1.4. Achterwege laten van een maandverklaring als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2)
+### 1.4. Achterwege laten van een maandverklaring als bedoeld in artikel 2 van het besluit
 
 Op grond van [artikel 2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2) kan de inspecteur toestaan dat onder bepaalde voorwaarden het overbrengen van alcoholvrije dranken tussen twee IVV’s niet plaatsvindt met een vervoersopdracht, maar gebruik wordt gemaakt van een maandverklaring. Indien deze regeling wordt toegepast door een vergunninghouder van een IVV die tevens vergunninghouder is van andere IVV’s, moet deze vergunninghouder ook maandverklaringen afgeven voor de overbrengingen van en naar die IVV’s onderling.
 
+Goedkeuring
+
 Ik keur goed dat de inspecteur op verzoek toestemming kan verlenen om een maandverklaring als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2) achterwege te laten. Naast de in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2) genoemde voorwaarden gelden de volgende aanvullende voorwaarden:
+
+- – de vergunninghouder van de IVV moet in het bezit zijn van een toestemming om één aangifte te doen voor alle IVV’s als bedoeld in [artikel 13, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&artikel=13);
+
+- – de overbrengingen onder schorsing van verbruiksbelasting tussen de verschillende IVV’s die zonder maandverklaring plaatsvinden, moeten zowel in de centrale administratie als in de administratie van de desbetreffende IVV’s op overzichtelijke wijze worden vastgelegd.
 
 ### 2. Definities van de goederen en tarieven
 
@@ -117,9 +186,17 @@ Gereserveerd
 
 Vanaf 1 januari 1993 is het niet meer mogelijk om communautaire goederen met communautaire douanedocumenten binnen de EU te vervoeren. In het geval er sprake is van kettingverkopen (verkopen tijdens het vervoer of de vervoersopslag) is het daardoor niet meer mogelijk om belastingvrij te leveren. Aangezien er geen fysieke opslag plaatsvindt, kan er ook geen IVV worden afgegeven.
 
+Goedkeuring
+
 In verband daarmede keur ik goed dat de inspecteur een vergunning voor een IVV als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14) verleent zonder dat de vergunninghouder de producten fysiek in opslag neemt (een zogenaamde fictieve inrichting).
 
 De vergunning kan slechts worden toegepast als de handelaren opdracht geven alcoholvrije dranken over te brengen van een fysieke IVV naar
+
+- a. een andere fysieke IVV,
+
+- b. een andere lidstaat van de EU of
+
+- c. naar een derde land.
 
 Het is niet toegestaan om alcoholvrije dranken onder schorsing van de verbruiksbelasting over te brengen vanuit derde landen naar het regime van een fictieve IVV.
 
@@ -131,6 +208,14 @@ Ten aanzien van de zekerheidsstelling moeten aan de vergunninghouder voor een fi
 
 In de vergunningen moeten, naast de wettelijk voorgeschreven voorwaarden, in ieder geval de volgende voorwaarden worden opgenomen:
 
+- a. De vergunninghouder van de IVV van waaruit de alcoholvrije dranken zullen worden overgebracht maakt een vervoersopdracht op voor de vergunninghouder van de fictieve IVV. Op deze vervoersopdracht moet te allen tijde het nummer van de factuur respectievelijk de factuurdatum worden vermeld. Deze gegevens mogen niet worden vervangen door gegevens van bijvoorbeeld pakbonnen of andere vervoersbescheiden. Tevens moet op de vervoersopdracht worden vermeld: VERGUNNING FICTIEF IVV.
+
+- b. De vergunninghouder van de fictieve IVV tekent de vervoersopdracht van de vergunninghouder van de IVV van waaruit de goederen zullen worden overgebracht voor ontvangst af en stuurt deze overeenkomstig [artikel 2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2) terug naar de leverancier.
+
+- c. Vervolgens maakt de vergunninghouder van de fictieve IVV een nieuwe vervoersopdracht op voor de daadwerkelijke fysieke overbrenging van de alcoholvrije dranken vanaf de IVV waar de goederen daadwerkelijk liggen opgeslagen naar de andere fysieke IVV. Die vervoersopdracht zal bij de aanvang van het vervoer van de alcoholvrije dranken bij het vervoermiddel aanwezig moeten zijn. De overbrenging naar een andere lidstaat van de EU dient te blijken uit de boeken en bescheiden en de overbrenging naar een derde land moet blijken uit afdrukken van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang ([artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=3) en [4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=4)).
+
+- d. In de administratie moet een relatie worden gelegd tussen de vervoersopdrachten waarmee de alcoholvrije dranken fictief naar de fictieve IVV zijn overgebracht en die waarmee de alcoholvrije dranken fysiek naar een andere IVV zijn overgebracht. Op de facturen moet een verwijzing worden gesteld naar het nummer van de vervoersopdracht of worden aangegeven dat het overbrenging betreft naar een lidstaat van de EU of een derde land overeenkomstig [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=3) en [4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=4). Tevens moet het vergunningnummer worden vermeld met de aantekening: FICTIEF IVV.
+
 ### 3.2. Achterwege laten van een verzoek tot het doen van weekaangifte
 
 Op grond van [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=21) kan een ondernemer in het kader van zijn onderneming, anders dan in een IVV, op verzoek toestemming krijgen om in plaats van een dagaangifte een weekaangifte te doen voor het voorhanden hebben van alcoholvrije dranken.
@@ -141,6 +226,8 @@ Aangezien handelaren in alcoholhoudende dranken (waaronder geregistreerde geadre
 
 Deze handelwijze brengt zowel voor het bedrijfsleven als voor de belastingdienst onnodige administratieve handelingen met zich mee.
 
+Goedkeuring
+
 In verband hiermee keur ik goed dat bij uitslag van alcoholvrije dranken in de zin van [artikel 4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4) de belasting die in een week op de voet van [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=19) verschuldigd is geworden uiterlijk de vrijdag van de week daaropvolgend op aangifte wordt voldaan. De aan de inspecteur te vragen toestemming, zoals bedoeld in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=21) wordt daarbij geacht te zijn verleend.
 
 ### 4. Vrijstellingen en teruggaaf
@@ -149,27 +236,29 @@ In verband hiermee keur ik goed dat bij uitslag van alcoholvrije dranken in de z
 
 Op grond van [artikel 29, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) kan alleen aan degene die aan alcoholvrije dranken een vrijstellingsbestemming geeft een vergunning worden verleend. Dit heeft tot gevolg dat een handelaar in alcoholvrije dranken alleen met betaling van de verbruiksbelasting aan een vrijstellingsgenietende kan leveren. De vrijstellingsgenietende kan vervolgens teruggaaf van verbruiksbelasting vragen. De handelaar zou alleen met een IVV onder schorsing van de verbruiksbelasting aan een vrijstellingsgenietende kunnen leveren.
 
+Goedkeuring
+
 Ik keur, mede ter voorkoming van administratieve lasten, goed dat aan handelaren die regelmatig alcoholvrije dranken aan vrijstellingsgenietenden leveren ook een vrijstellingsvergunning wordt verleend als bedoeld in [artikel 29, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29).
 
 Naast de wettelijk voorgeschreven voorwaarden, kan de inspecteur in de vergunning nadere voorwaarden stellen. Zo kan worden bepaald dat aan de inspecteur een overzicht wordt verstrekt waaruit blijkt aan welke vrijstellingsgenietenden de goederen met vrijstelling worden afgeleverd.
 
 ### 4.2
 
-**(Vervallen per 01-01-2011)**
+*(Vervallen per 01-01-2011)*
 
 ### 5. Bijzondere bepalingen
 
 ### 5.1
 
-**(Vervallen per 01-01-2013)**
+*(Vervallen per 01-01-2013)*
 
 ### 5.2
 
-**(Vervallen per 01-01-2013)**
+*(Vervallen per 01-01-2013)*
 
 ### 5.3
 
-**(Vervallen per 01-06-2012)**
+*(Vervallen per 01-06-2012)*
 
 ### 5.4. Voorwaarden voor het salderen van meer- en minderbevindingen in een IVV
 
@@ -181,7 +270,15 @@ De Hoge Raad overwoog daarbij dat van belanghebbende, die een onbetwist deugdeli
 
 Dit betekent, aldus de Hoge Raad, dat de minderbevonden accijnsgoederen pas worden aangemerkt als te zijn uitgeslagen, nadat de meerbevonden accijnsgoederen met hetzelfde accijnstarief daarop in mindering zijn gebracht. De minderbevinding en de meerbevinding moeten betrekking hebben op verschillen tussen de voorraad volgens de administratie en de daadwerkelijke opgeslagen voorraad.
 
+Goedkeuring
+
 In een IVV kunnen producten bij vergissing worden omgewisseld. Bij die omwisseling ontstaat een minderbevinding bij het ene artikel en een meerbevinding bij het andere artikel. In dat geval is het redelijk om onder bepaalde voorwaarden toe te staan dat een minderbevinding met een meerbevinding wordt gesaldeerd. Mede gelet op de jurisprudentie keur ik onder de volgende voorwaarden goed dat meer- en minderbevindingen worden gesaldeerd.
+
+- a. Er moet sprake zijn van een deugdelijke administratie. Dat wil zeggen dat de administratie moet voldoen aan het bepaalde in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=11). Indien naar het oordeel van de inspecteur de administratie niet aan deze voorwaarden voldoet, is er geen sprake van een deugdelijke administratie. De inspecteur moet dit uiteraard wel voldoende motiveren.
+
+- b. De saldering kan slechts plaatsvinden als er sprake is van alcoholvrije dranken met hetzelfde tarief. In [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=10) zijn de tarieven vermeld.
+
+- c. Periode waarop saldering betrekking heeft. De Hoge Raad heeft geen uitspraak gedaan over de periode waarover de saldering mag worden toegepast. In de praktijk worden meer- en minderbevindingen vastgesteld bij inventarisatie van de IVV-voorraad.
 
 De administratie van een IVV moet op elk moment een juiste weergave geven van de daadwerkelijke voorraad. In verband daarmee wordt de voorraad regelmatig geïnventariseerd. Vervolgens wordt na die inventarisatie de administratie in overeenstemming gebracht met de werkelijke voorraad waarbij alle afzonderlijke meer- en minderbevindingen in de administratie moeten worden opgenomen.
 
@@ -197,11 +294,11 @@ Indien na inventarisatie, saldering en aanpassing van de administratie een minde
 
 ### 6.1
 
-**(Vervallen per 01-01-2013)**
+*(Vervallen per 01-01-2013)*
 
 ### 6.2
 
-**(Vervallen per 01-01-2013)**
+*(Vervallen per 01-01-2013)*
 
 ### 7. Ingetrokken regeling(en)
 
@@ -210,5 +307,3 @@ Het [besluit van 1 december 2015, nr. BLKB2015/1193M](https://wetten.overheid.nl
 ### 8. Inwerkingtreding en vervaldatum
 
 Dit besluit treedt in werking met ingang van 1 januari 2018.
-
-Dit besluit wordt in de Staatscourant gepubliceerd.

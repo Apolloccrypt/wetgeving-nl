@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de algemene raad van 4 september 2017 houdende de vaststelling van de beleidsregel inzake de verlening van subsidies, de vaststelling van subsidies en de procedure voor het aanvragen van subsidie (Beleidsregel subsidies NOvA)"
+citeertitel: "Beleidsregel subsidies NOvA"
 identifier: "BWBR0039970"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039970"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "14165453"
-version_id: "24363302"
-internal_id: "C34960421"
-label_id: "14126244"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039970/2022-01-01/0"
-intitule_bron: "Stcrt.2017-51905"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-09-04"
-intitule_published: "2017-09-12"
-intitule_in_force: "2017-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-51905"
-original_signed_date: "2017-09-04"
-original_published_date: "2017-09-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-51905"
-entry_into_force_date: "2017-10-01"
-jci_1_3: "jci1.3:c:BWBR0039970&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0039970&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel subsidies NOvA"
-signed_date: "2017-09-04"
-entry_into_force: "2017-10-01"
+publicatiedatum: 2017-10-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0039970"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de algemene raad van 4 september 2017 houdende de vaststelling van de beleidsregel inzake de verlening van subsidies, de vaststelling van subsidies en de procedure voor het aanvragen van subsidie (Beleidsregel subsidies NOvA)
-
-gelet op [32, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=32);
-
-gelet op artikel [titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en [4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.3);
-
-gelet op [paragraaf 2.2.4 van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&paragraaf=2.2.4);
-
-stelt het navolgende besluit vast:
 
 ##### Artikel 1. Reikwijdte
 
@@ -146,17 +116,17 @@ De algemene raad legt bij de subsidiebeschikking de vereisten op dat de subsidie
 
 ##### Artikel 7. Uitbetaling subsidie
 
-Indien de aanvraag en verlening een subsidie betreffen hoger dan € 5.000,– verstrekt de algemene raad de verleende subsidie in drie termijnen, namelijk:
+Indien de aanvraag en verlening een subsidie betreffen hoger dan € 5.000,– verstrekt de algemene raad de verleende subsidie in drie termijnen, namelijk:
 
-- –. twee vierde delen van de totaal verleende subsidie in januari;
+- – twee vierde delen van de totaal verleende subsidie in januari;
 
-- –. één vierde deel van de totaal verleende subsidie in mei; en
+- – één vierde deel van de totaal verleende subsidie in mei; en
 
-- –. één vierde deel in van de totaal verleende subsidie in september.
+- – één vierde deel in van de totaal verleende subsidie in september.
 
 ##### Artikel 8. inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 oktober 2017.
+Deze beleidsregel treedt in werking met ingang van 1 oktober 2017.
 
 ##### Artikel 9. citeertitel
 

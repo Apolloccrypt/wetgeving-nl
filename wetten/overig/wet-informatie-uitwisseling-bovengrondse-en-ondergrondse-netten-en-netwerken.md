@@ -1,48 +1,18 @@
 ---
 title: "Wet van 21 februari 2018, houdende regels over de informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid, alsmede wijziging van de Telecommunicatiewet ter bevordering van medegebruik van fysieke infrastructuur en van de gecoördineerde aanleg van civiele werken (Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)"
+citeertitel: "Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
 identifier: "BWBR0040728"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040728"
+categorie: "Digitaal en privacy"
 soort: "wet"
-stam_id: "14569313"
-version_id: "24998312"
-internal_id: "C35755131"
-label_id: "14523464"
-dtd_version: "2.0"
-original_entry_into_force: "2018-04-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040728/2026-01-01/0"
-intitule_bron: "Stb.2018-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-21"
-intitule_published: "2018-03-16"
-intitule_in_force: "2018-03-30"
-intitule_status: "goed"
-original_publication: "Stb.2018-120"
-original_signed_date: "2018-04-11"
-original_published_date: "2018-04-30"
-original_effect: "structuurwijziging"
-original_dossier: "34745"
-original_url_id: "stb-2018-120"
-entry_into_force_date: "2018-04-11"
-entry_into_force_dossier: "34745"
-jci_1_3: "jci1.3:c:BWBR0040728&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0040728&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
-signed_date: "2018-04-11"
-entry_into_force: "2018-04-11"
+publicatiedatum: 2018-04-11
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0040728"
+opgehaald: 2026-08-26
 ---
+
 # Wet van 21 februari 2018, houdende regels over de informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid, alsmede wijziging van de Telecommunicatiewet ter bevordering van medegebruik van fysieke infrastructuur en van de gecoördineerde aanleg van civiele werken (Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de implementatie van [richtlijn 2014/61](32014L0061)/EU van het Europese Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronischecommunicatienetwerken met hoge snelheid (PbEU 2014, L 155) maatregelen vergt waardoor medegebruik van bestaande fysieke infrastructuur en coördineren van civiele werken wordt bevorderd teneinde de aanleg van elektronische communicatienetwerken met hoge snelheid te stimuleren, alsmede dat daartoe uitbreiding nodig is van de bestaande wettelijke informatie-uitwisseling tussen beheerders van netten; dat het wenselijk is de regels voor informatie-uitwisseling over ondergrondse en bovengrondse elementen van netten en netwerken onder te brengen in dezelfde wet; dat gelet hierop de [Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775) wordt vervangen door een wet die ziet op de informatie-uitwisseling omtrent ondergrondse en bovengrondse elementen van netten en netwerken;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -50,59 +20,60 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanbieder:** een aanbieder van een openbaar elektronisch communicatienetwerk als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- *aanbieder:* een aanbieder van een openbaar elektronisch communicatienetwerk als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- **beheerder:** degene die als natuurlijk persoon handelende in de uitoefening van een beroep of een bedrijf dan wel als rechtspersoon een net beheert;
+- *beheerder:* degene die als natuurlijk persoon handelende in de uitoefening van een beroep of een bedrijf dan wel als rechtspersoon een net beheert;
 
-- **beheerpolygoon:** de weergave door een beheerder respectievelijk door een netwerkexploitant van een aaneengesloten gebied, waarbinnen een beheerder een of meer netten beheert, respectievelijk een netwerkexploitant fysieke infrastructuur beheert;
+- *beheerpolygoon:* de weergave door een beheerder respectievelijk door een netwerkexploitant van een aaneengesloten gebied, waarbinnen een beheerder een of meer netten beheert, respectievelijk een netwerkexploitant fysieke infrastructuur beheert;
 
-- **civiele werken:** civiele werken als bedoeld in [artikel 5a.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.1);
+- *civiele werken:* civiele werken als bedoeld in [artikel 5a.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.1);
 
-- **coördinatie:**coördinatie van civiele werken als bedoeld in artikel 5 van richtlijn nr. 2014/61/EU;
+- *coördinatie:*coördinatie van civiele werken als bedoeld in artikel 5 van richtlijn nr. 2014/61/EU;
 
-- **Dienst:** de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- *Dienst:* de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- **fysieke infrastructuur:** fysieke infrastructuur als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- *fysieke infrastructuur:* fysieke infrastructuur als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- **gebiedsinformatie:** het geheel van informatie dat door beheerders of netwerkexploitanten, ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), aan de Dienst is verstrekt over de betrokken oriëntatiepolygoon dan wel graafpolygoon;
+- *gebiedsinformatie:* het geheel van informatie dat door beheerders of netwerkexploitanten, ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), aan de Dienst is verstrekt over de betrokken oriëntatiepolygoon dan wel graafpolygoon;
 
-- **graafbericht:** het bericht van de Dienst, bedoeld in [artikel 10, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01);
+- *graafbericht:* het bericht van de Dienst, bedoeld in [artikel 10, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01);
 
-- **graaflocatie:** de locatie waar graafwerkzaamheden worden verricht;
+- *graaflocatie:* de locatie waar graafwerkzaamheden worden verricht;
 
-- **graafmelding:** de melding aan de Dienst van voorgenomen graafwerkzaamheden, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01);
+- *graafmelding:* de melding aan de Dienst van voorgenomen graafwerkzaamheden, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01);
 
-- **graafpolygoon:** de weergave door een grondroerder van het gebied, waarbinnen de graaflocatie zich bevindt;
+- *graafpolygoon:* de weergave door een grondroerder van het gebied, waarbinnen de graaflocatie zich bevindt;
 
-- **graafwerkzaamheden:** het mechanisch verrichten van werkzaamheden in de ondergrond;
+- *graafwerkzaamheden:* het mechanisch verrichten van werkzaamheden in de ondergrond;
 
-- **grondroerder:** degene onder wiens verantwoordelijkheid of leiding graafwerkzaamheden worden verricht;
+- *grondroerder:* degene onder wiens verantwoordelijkheid of leiding graafwerkzaamheden worden verricht;
 
-- **liggingsgegevens:** de gegevens omtrent de ligging van een net of netwerk binnen de betrokken oriëntatiepolygoon dan wel graafpolygoon;
+- *liggingsgegevens:* de gegevens omtrent de ligging van een net of netwerk binnen de betrokken oriëntatiepolygoon dan wel graafpolygoon;
 
-- **medegebruik:** medegebruik van fysieke infrastructuur als bedoeld in [artikel 5a.3, eerste en vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.3);
+- *medegebruik:* medegebruik van fysieke infrastructuur als bedoeld in [artikel 5a.3, eerste en vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.3);
 
-- **net:** een ondergrondse kabel of leiding, daaronder mede begrepen lege buizen, ondergrondse ondersteuningswerken en beschermingswerken, bestemd voor transport van vaste, vloeibare of gasvormige stoffen, van energie of van informatie;
+- *net:* een ondergrondse kabel of leiding, daaronder mede begrepen lege buizen, ondergrondse ondersteuningswerken en beschermingswerken, bestemd voor transport van vaste, vloeibare of gasvormige stoffen, van energie of van informatie;
 
-- **net met gevaarlijke inhoud:** een buisleiding die behoort tot een krachtens [artikel 20.11, eerste lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.11) aangewezen categorie;
+- *net met gevaarlijke inhoud:* een buisleiding die behoort tot een krachtens [artikel 20.11, eerste lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.11) aangewezen categorie;
 
-- **netwerk:** een netwerk van een netwerkexploitant;
+- *netwerk:* een netwerk van een netwerkexploitant;
 
-- **netwerkexploitant:** een netwerkexploitant als bedoeld in [artikel 5a.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.1);
+- *netwerkexploitant:* een netwerkexploitant als bedoeld in [artikel 5a.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.1);
 
-- **netwerk met hoge snelheid:** een elektronisch communicatienetwerk met hoge snelheid als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- *netwerk met hoge snelheid:* een elektronisch communicatienetwerk met hoge snelheid als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- **opdrachtgever:** degene die opdracht geeft tot het uitvoeren van een werk waarbij graafwerkzaamheden worden verricht;
+- *opdrachtgever:* degene die opdracht geeft tot het uitvoeren van een werk waarbij graafwerkzaamheden worden verricht;
 
-- **oriëntatiepolygoon:** de weergave door een opdrachtgever, grondroerder, aanbieder of bestuursorgaan van een aangesloten gebied, ten aanzien waarvan deze met het oog op een belang als bedoeld in [artikel 7, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=7&z=2026-01-01&g=2026-01-01), om gebiedsinformatie verzoekt;
+- *oriëntatiepolygoon:* de weergave door een opdrachtgever, grondroerder, aanbieder of bestuursorgaan van een aangesloten gebied, ten aanzien waarvan deze met het oog op een belang als bedoeld in [artikel 7, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=7&z=2026-01-01&g=2026-01-01), om gebiedsinformatie verzoekt;
 
-- **oriëntatieverzoek:** het verzoek aan de Dienst om gebiedsinformatie, bedoeld in artikel 7, eerste tot en met derde lid;
+- *oriëntatieverzoek:* het verzoek aan de Dienst om gebiedsinformatie, bedoeld in artikel 7, eerste tot en met derde lid;
 
-- **registratiemelding:** de melding van de beheerder of een netwerkexploitant, bedoeld in [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01);
+- *registratiemelding:* de melding van de beheerder of een netwerkexploitant, bedoeld in [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01);
 
-- **richtlijn nr. 2014/61/EU:** [richtlijn nr. 2014/61](32014L0061)/EU van het Europees Parlement en de Raad van de Europese Unie van 15 mei 2014 inzake maatregelen ter verlaging van kosten van de aanleg van elektronischecommunicatienetwerken met hoge snelheid (PbEU 2014 L 155).
+- *richtlijn nr. 2014/61/EU:*
+ richtlijn nr. 2014/61/EU van het Europees Parlement en de Raad van de Europese Unie van 15 mei 2014 inzake maatregelen ter verlaging van kosten van de aanleg van elektronischecommunicatienetwerken met hoge snelheid (PbEU 2014 L 155).
 
 ### Hoofdstuk 2. Preventie van graafschade
 
@@ -154,6 +125,20 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. bestuursorganen voor zover deze gebiedsinformatie noodzakelijk is voor de uitvoering van hun taak.
 
+##### Artikel 5a
+
+1. Een beheerder kan de Dienst verzoeken om met betrekking tot elk net dat hij beheert in het elektronische informatiesysteem de volgende informatie te bewaren:
+
+- a. informatie over de ligging van het net;
+
+- b. relevante eigenschappen van het net;
+
+- c. informatie over voorzorgsmaatregelen als bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), en
+
+- d. contactgegevens van de beheerder.
+
+2. De beheerder op wiens verzoek informatie wordt bewaard als bedoeld in het eerste lid geeft elke wijziging in die informatie onverwijld door aan de Dienst.
+
 ##### Artikel 6
 
 1. De Dienst registreert de beheerpolygonen en de beheerders ten behoeve van de informatie-uitwisseling over:
@@ -180,7 +165,7 @@ geeft dit ten minste twintig werkdagen voor aanvang van de wijziging in het behe
 
 4. Indien sprake is van overdracht van een net of een deel van dat net, doen de oude en de nieuwe beheerder gezamenlijk melding van de wijziging, bedoeld in het tweede lid.
 
-### Hoofdstuk 4. Informatie-uitwisseling ten behoeve van graafwerkzaamheden, of ten behoeve van medegebruik of coördinatie als bedoeld in [hoofdstuk 5a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a)
+### Hoofdstuk 4. Informatie-uitwisseling ten behoeve van graafwerkzaamheden, of ten behoeve van medegebruik of coördinatie als bedoeld in hoofdstuk 5a van de Telecommunicatiewet
 
 ##### Artikel 7
 
@@ -208,7 +193,7 @@ geeft dit ten minste twintig werkdagen voor aanvang van de wijziging in het behe
 
 ##### Artikel 9
 
-1. Bij algemene maatregel van bestuur kunnen bepaalde categorieën grondroerders worden aangewezen die zijn vrijgesteld van de verplichting om een graafmelding te doen voor zover zij graafwerkzaamheden verrichten in grond die in eigendom of in beheer is van de grondroerder en die graafwerkzaamheden niet dieper gaan dan 50 cm onder het maaiveld.
+1. Bij algemene maatregel van bestuur kunnen bepaalde categorieën grondroerders worden aangewezen die zijn vrijgesteld van de verplichting om een graafmelding te doen voor zover zij graafwerkzaamheden verrichten in grond die in eigendom of in beheer is van de grondroerder en die graafwerkzaamheden niet dieper gaan dan 50 cm onder het maaiveld.
 
 2. Vrijstelling laat de op de grondroerder rustende zorgplichten, bedoeld in [artikel 2, eerste, tweede en derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), onverlet.
 
@@ -224,9 +209,9 @@ Na ontvangst van een oriëntatieverzoek als bedoeld in [artikel 7, eerste, tweed
 
 - b. bericht de Dienst hierover onverwijld onder vermelding van de oriëntatiepolygoon of graafpolygoon:
 
-- 1°. indien het graafwerkzaamheden betreft: alle beheerders wier beheerpolygoon geheel of gedeeltelijk samenvalt met deze oriëntatiepolygoon onderscheidenlijk graafpolygoon;
+   - 1°. indien het graafwerkzaamheden betreft: alle beheerders wier beheerpolygoon geheel of gedeeltelijk samenvalt met deze oriëntatiepolygoon onderscheidenlijk graafpolygoon;
 
-- 2°. indien het medegebruik van fysieke infrastructuur of de coördinatie van civiele werken betreft: alle netwerkexploitanten wier beheerpolygoon geheel of gedeeltelijk samenvalt met deze oriëntatiepolygoon.
+   - 2°. indien het medegebruik van fysieke infrastructuur of de coördinatie van civiele werken betreft: alle netwerkexploitanten wier beheerpolygoon geheel of gedeeltelijk samenvalt met deze oriëntatiepolygoon.
 
 ##### Artikel 11
 
@@ -269,6 +254,20 @@ Na ontvangst van een oriëntatieverzoek als bedoeld in [artikel 7, eerste, tweed
 2. De Dienst informeert een beheerder van wie de Dienst informatie bewaart als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01) over de informatie, bedoeld in [artikel 11, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), die de Dienst namens hem heeft verstrekt.
 
 3. Indien de Dienst niet binnen de termijn, bedoeld in het eerste lid, respectievelijk de termijn van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), van alle beheerders de ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), vereiste informatie heeft ontvangen, doet de Dienst daarvan mededeling bij het verstrekken van de gebiedsinformatie.
+
+##### Artikel 13a
+
+1. Indien de van de Dienst verkregen gebiedsinformatie naar het oordeel van de grondroerder of opdrachtgever onvoldoende is voor een zorgvuldige voorbereiding of uitvoering van de voorgenomen graafwerkzaamheden, verstrekt de beheerder aan de grondroerder of opdrachtgever op diens verzoek nadere informatie over zijn net.
+
+2. De beheerder verstrekt de nadere informatie onverwijld, doch uiterlijk binnen drie werkdagen na ontvangst van het verzoek, bedoeld in het eerste lid.
+
+##### Artikel 13b
+
+1. Indien ingeval van een graafmelding sprake is van een melding van voorzorgsmaatregelen als bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), neemt de grondroerder contact op met de desbetreffende beheerder om afspraken te maken over de te treffen voorzorgsmaatregelen.
+
+2. De grondroerder en de beheerder leggen de afspraken, bedoeld in het eerste lid, schriftelijk vast.
+
+3. Het contact, bedoeld in het eerste lid, vindt plaats zodra degene die de graafmelding heeft gedaan de gebiedsinformatie heeft ontvangen, doch uiterlijk drie werkdagen voor de geplande aanvang van de graafwerkzaamheden.
 
 ##### Artikel 14
 
@@ -410,7 +409,7 @@ Bij algemene maatregel van bestuur kunnen gebieden worden aangewezen ten aanzien
 
 ##### Artikel 31
 
-Indien de in deze wet geregelde onderwerpen in het belang van een goede uitvoering van [richtlijn nr. 2014/61](32014L0061)/EU nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
+Indien de in deze wet geregelde onderwerpen in het belang van een goede uitvoering van richtlijn nr. 2014/61/EU nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
 
 ### Hoofdstuk 7. Handhaving
 
@@ -426,9 +425,9 @@ Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter h
 
 ##### Artikel 34
 
-1. Ingeval van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) en [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450.000.
+1. Ingeval van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) en [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450.000.
 
-2. Ingeval van overtreding van het bepaalde bij of krachtens de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2026-01-01&g=2026-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2026-01-01&g=2026-01-01), [15, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=18&z=2026-01-01&g=2026-01-01), [19, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2026-01-01&g=2026-01-01), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=24&z=2026-01-01&g=2026-01-01), [28, eerste en tweede lid, derde lid, onderdelen a, b en c, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=28&z=2026-01-01&g=2026-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=29&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=30&z=2026-01-01&g=2026-01-01), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=10&artikel=41a&z=2026-01-01&g=2026-01-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100.000.
+2. Ingeval van overtreding van het bepaalde bij of krachtens de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=5a&z=2026-01-01&g=2026-01-01), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=6&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13a&z=2026-01-01&g=2026-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=13b&z=2026-01-01&g=2026-01-01), [15, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=18&z=2026-01-01&g=2026-01-01), [19, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=19&z=2026-01-01&g=2026-01-01), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=20&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=5&artikel=24&z=2026-01-01&g=2026-01-01), [28, eerste en tweede lid, derde lid, onderdelen a, b en c, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=28&z=2026-01-01&g=2026-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=29&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=6&artikel=30&z=2026-01-01&g=2026-01-01), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=10&artikel=41a&z=2026-01-01&g=2026-01-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100.000.
 
 ### Hoofdstuk 8. Bevoegdheid gemeenten
 
@@ -436,33 +435,47 @@ Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter h
 
 De bevoegdheid, de gemeenteraad toekomend ingevolge [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149), blijft ten aanzien van het verrichten van graafwerkzaamheden gehandhaafd voor zover de door hem te maken verordeningen niet met deze wet in strijd zijn.
 
+### Hoofdstuk 8a. Evaluatiebepaling
+
+##### Artikel 35a
+
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens iedere vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet op het voorkomen van graafschade in de praktijk.
+
 ### Hoofdstuk 9. Wijziging van andere wetten
 
 ##### Artikel 36
 
-Wijzigt de Telecommunicatiewet.
+*Wijzigt de Telecommunicatiewet.*
 
 ##### Artikel 37
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 38
 
-Wijzigt de Kadasterwet.
+*Wijzigt de Kadasterwet.*
 
 ##### Artikel 39
 
-Wijzigt de Organisatiewet Kadaster.
+*Wijzigt de Organisatiewet Kadaster.*
 
 ##### Artikel 40
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
-### Hoofdstuk 10. Overgangsbepaling
+### Hoofdstuk 10. Overgangsbepalingen
 
 ##### Artikel 41
 
 Op bezwaar en beroep ingevolge de [Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775) dat is ingediend tegen een besluit van voor de datum van inwerkingtreding van deze wet, blijven de bij of krachtens de Wet informatie-uitwisseling ondergrondse netten geldende voorschriften zoals die luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet van toepassing.
+
+##### Artikel 41a
+
+1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01) is een beheerder voor de delen van zijn net die bestaan uit de niet met andere kabels of leidingen samengebonden delen van kabels of leidingen die een verbinding vormen tussen een net dat naar zijn aard voor aansluiting van huishoudens wordt opengesteld, en één onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) niet verplicht om liggingsgegevens daarvan aan de Dienst te verstrekken voor zover hij die liggingsgegevens niet beschikbaar heeft in de voor overdracht via het elektronische informatiesysteem, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=4&z=2026-01-01&g=2026-01-01), voorgeschreven weergave en voor zover geen sprake is van renovatie of onderhoud van de desbetreffende delen van zijn net.
+
+2. Ten aanzien van een net als bedoeld in [artikel 1, eerste lid, onderdeel m, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1) is het eerste lid van toepassing tot en met 31 december 2019.
+
+3. Ten aanzien van een transmissie- of distributiesysteem voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1), een net bestaande uit een collectiefleidingnet of een distributienet als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=1) of een net bestaande uit een ondergrondse kabel als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en waarvan de ligging anders dan door opgraving kan worden bepaald is het eerste lid van toepassing tot en met 31 december 2027. Na 31 december 2027 kunnen bij ministeriële regeling nadere regels worden gesteld over de bepaling van de ligging, anders dan door opgraving, van een net of distributienet waarvan de ligging enkel door opgraving kan worden bepaald.
 
 ### Hoofdstuk 11. Slotbepalingen
 
@@ -477,65 +490,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 44
 
 Deze wet wordt aangehaald als: Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-1. Een beheerder kan de Dienst verzoeken om met betrekking tot elk net dat hij beheert in het elektronische informatiesysteem de volgende informatie te bewaren:
-
-- a. informatie over de ligging van het net;
-
-- b. relevante eigenschappen van het net;
-
-- c. informatie over voorzorgsmaatregelen als bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=15&z=2026-01-01&g=2026-01-01), en
-
-- d. contactgegevens van de beheerder.
-
-2. De beheerder op wiens verzoek informatie wordt bewaard als bedoeld in het eerste lid geeft elke wijziging in die informatie onverwijld door aan de Dienst.
-
-### Hoofdstuk 4. Informatie-uitwisseling ten behoeve van graafwerkzaamheden, of ten behoeve van medegebruik of coördinatie als bedoeld in [hoofdstuk 5a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5a)
-
-##### Artikel 13a
-
-1. Indien de van de Dienst verkregen gebiedsinformatie naar het oordeel van de grondroerder of opdrachtgever onvoldoende is voor een zorgvuldige voorbereiding of uitvoering van de voorgenomen graafwerkzaamheden, verstrekt de beheerder aan de grondroerder of opdrachtgever op diens verzoek nadere informatie over zijn net.
-
-2. De beheerder verstrekt de nadere informatie onverwijld, doch uiterlijk binnen drie werkdagen na ontvangst van het verzoek, bedoeld in het eerste lid.
-
-##### Artikel 13b
-
-1. Indien ingeval van een graafmelding sprake is van een melding van voorzorgsmaatregelen als bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), neemt de grondroerder contact op met de desbetreffende beheerder om afspraken te maken over de te treffen voorzorgsmaatregelen.
-
-2. De grondroerder en de beheerder leggen de afspraken, bedoeld in het eerste lid, schriftelijk vast.
-
-3. Het contact, bedoeld in het eerste lid, vindt plaats zodra degene die de graafmelding heeft gedaan de gebiedsinformatie heeft ontvangen, doch uiterlijk drie werkdagen voor de geplande aanvang van de graafwerkzaamheden.
-
-### Hoofdstuk 5. Geschilbeslechting omtrent informatie-uitwisseling ten behoeve van medegebruik van fysieke infrastructuur of coördinatie van civiele werken
-
-### Hoofdstuk 6. Nadere regelgeving
-
-### Hoofdstuk 7. Handhaving
-
-### Hoofdstuk 8. Bevoegdheid gemeenten
-
-### Hoofdstuk 8a. Evaluatiebepaling
-
-##### Artikel 35a
-
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens iedere vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet op het voorkomen van graafschade in de praktijk.
-
-### Hoofdstuk 9. Wijziging van andere wetten
-
-### Hoofdstuk 10. Overgangsbepalingen
-
-##### Artikel 41a
-
-1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01) is een beheerder voor de delen van zijn net die bestaan uit de niet met andere kabels of leidingen samengebonden delen van kabels of leidingen die een verbinding vormen tussen een net dat naar zijn aard voor aansluiting van huishoudens wordt opengesteld, en één onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) niet verplicht om liggingsgegevens daarvan aan de Dienst te verstrekken voor zover hij die liggingsgegevens niet beschikbaar heeft in de voor overdracht via het elektronische informatiesysteem, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&hoofdstuk=3&artikel=4&z=2026-01-01&g=2026-01-01), voorgeschreven weergave en voor zover geen sprake is van renovatie of onderhoud van de desbetreffende delen van zijn net.
-
-2. Ten aanzien van een net als bedoeld in [artikel 1, eerste lid, onderdeel m, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1) is het eerste lid van toepassing tot en met 31 december 2019.
-
-3. Ten aanzien van een transmissie- of distributiesysteem voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1), een net bestaande uit een collectiefleidingnet of een distributienet als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=1) of een net bestaande uit een ondergrondse kabel als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en waarvan de ligging anders dan door opgraving kan worden bepaald is het eerste lid van toepassing tot en met 31 december 2027. Na 31 december 2027 kunnen bij ministeriële regeling nadere regels worden gesteld over de bepaling van de ligging, anders dan door opgraving, van een net of distributienet waarvan de ligging enkel door opgraving kan worden bepaald.
-
-### Hoofdstuk 11. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,56 +1,28 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 2 februari 2018, houdende instelling van de Onderzoekscommissie WODC II inzake relatie beleid en WODC (Instellingsbesluit Onderzoekscommissie WODC II inzake relatie beleid en WODC)"
+citeertitel: "Instellingsbesluit Onderzoekscommissie WODC II inzake relatie beleid en WODC"
 identifier: "BWBR0040616"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-13"
-last_updated: "2018-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040616"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14539703"
-version_id: "24887072"
-internal_id: "C35602871"
-label_id: "14497134"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040616/2018-02-13/0"
-intitule_bron: "Stcrt.2018-7420"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-02"
-intitule_published: "2018-02-12"
-intitule_in_force: "2018-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-7420"
-original_signed_date: "2018-02-02"
-original_published_date: "2018-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-7420"
-entry_into_force_date: "2018-02-13"
-jci_1_3: "jci1.3:c:BWBR0040616&z=2018-02-13&g=2018-02-13"
-jci_1_0: "1.0:c:BWBR0040616&g=2018-02-13"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Onderzoekscommissie WODC II inzake relatie beleid en WODC"
-signed_date: "2018-02-02"
-entry_into_force: "2018-02-13"
+publicatiedatum: 2018-02-13
+laatste_update: 2018-02-13
+status: geldig
+toestand: 2018-02-13
+bron: "https://wetten.overheid.nl/BWBR0040616"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 2 februari 2018, houdende instelling van de Onderzoekscommissie WODC II inzake relatie beleid en WODC (Instellingsbesluit Onderzoekscommissie WODC II inzake relatie beleid en WODC)
-
-In overeenstemming met het gevoelen van de ministerraad,
-
-Besluit:
-
-Vindt toepassing met ingang van 15 januari 2018.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** de Minister van Justitie en Veiligheid;
+- a. *Minister:* de Minister van Justitie en Veiligheid;
 
-- b. **Commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040616&artikel=2&z=2018-02-13&g=2018-02-13);
+- b. *Commissie:* de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040616&artikel=2&z=2018-02-13&g=2018-02-13);
 
-- c. **WODC:** het Wetenschappelijk Onderzoeks- en Documentatiecentrum van het Ministerie van Justitie en Veiligheid.
+- c. *WODC:* het Wetenschappelijk Onderzoeks- en Documentatiecentrum van het Ministerie van Justitie en Veiligheid.
 
 ##### Artikel 2. Instelling en taak
 
@@ -58,25 +30,25 @@ In dit besluit wordt verstaan onder:
 
 2. De Commissie heeft tot taak onderzoek te verrichten naar:
 
-- a). de invulling van de relatie tussen het WODC en beleidsafdelingen van het Ministerie van Justitie en Veiligheid;
+- a) de invulling van de relatie tussen het WODC en beleidsafdelingen van het Ministerie van Justitie en Veiligheid;
 
-- b). de positionering van het WODC ten opzichte van het Ministerie van Justitie en Veiligheid in vergelijking met andere publieke kennisorganisaties en de voor- en nadelen daarvan voor de wetenschappelijke integriteit.
+- b) de positionering van het WODC ten opzichte van het Ministerie van Justitie en Veiligheid in vergelijking met andere publieke kennisorganisaties en de voor- en nadelen daarvan voor de wetenschappelijke integriteit.
 
 3. De Commissie beoordeelt of:
 
-- a). de werkwijze na inwerkingtreding van het Protocol WODC in 2016 naar behoren functioneert;
+- a) de werkwijze na inwerkingtreding van het Protocol WODC in 2016 naar behoren functioneert;
 
-- b). het WODC en andere onderdelen van het bestuursdepartement van Justitie en Veiligheid handelen overeenkomstig het Protocol WODC uit 2016;
+- b) het WODC en andere onderdelen van het bestuursdepartement van Justitie en Veiligheid handelen overeenkomstig het Protocol WODC uit 2016;
 
-- c). de onafhankelijkheid van het WODC of van onderzoekers die beleidsonderzoek verrichten in opdracht van het WODC is geschaad; en
+- c) de onafhankelijkheid van het WODC of van onderzoekers die beleidsonderzoek verrichten in opdracht van het WODC is geschaad; en
 
-- d). de deugdelijkheid van de beleidsonderzoeken is geschaad.
+- d) de deugdelijkheid van de beleidsonderzoeken is geschaad.
 
 4. De Commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht. Hieronder valt in ieder geval:
 
-- a). het onderzoek naar eventuele meldingen over een vermeend gebrek aan distantie tussen het WODC en beleidsafdelingen van het Ministerie van Justitie en Veiligheid die dateren van vóór de inwerkingtreding van het Protocol WODC uit 2016;
+- a) het onderzoek naar eventuele meldingen over een vermeend gebrek aan distantie tussen het WODC en beleidsafdelingen van het Ministerie van Justitie en Veiligheid die dateren van vóór de inwerkingtreding van het Protocol WODC uit 2016;
 
-- b). de vraag of het aanbeveling verdient dat het WODC zich aansluit bij het Landelijk Orgaan Wetenschappelijke Integriteit, de Gedragscode Wetenschapsbeoefening van de Vereniging van Universiteiten en het Landelijk Orgaan Wetenschappelijke Integriteit of een vergelijkbare instantie.
+- b) de vraag of het aanbeveling verdient dat het WODC zich aansluit bij het Landelijk Orgaan Wetenschappelijke Integriteit, de Gedragscode Wetenschapsbeoefening van de Vereniging van Universiteiten en het Landelijk Orgaan Wetenschappelijke Integriteit of een vergelijkbare instantie.
 
 5. Naar aanleiding van de bevindingen en conclusies is de Commissie bevoegd aanbevelingen te doen.
 
@@ -88,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 3. Tot leden van de Commissie worden benoemd:
 
-- –. dr. ir. M.M.C.G. Peters;
+- – dr. ir. M.M.C.G. Peters;
 
-- –. em. prof. dr. A.N. van der Zande;
+- – em. prof. dr. A.N. van der Zande;
 
-- –. prof. dr. G. de Graaf.
+- – prof. dr. G. de Graaf.
 
 4. De benoeming geschiedt voor de duur van de werkzaamheden van de Commissie.
 
@@ -177,5 +149,3 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Onderzoekscommissie WODC II inzake relatie beleid en WODC.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de leden van de Commissie.

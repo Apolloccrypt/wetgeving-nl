@@ -1,58 +1,34 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 augustus 2017, kenmerk 1193476-166555-WJZ, houdende regels voor de taakuitoefening van de Inspectie gezondheidszorg en jeugd (Besluit taakuitoefening IGJ)"
+citeertitel: "Besluit taakuitoefening IGJ"
 identifier: "BWBR0039998"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039998"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14170233"
-version_id: "24371982"
-internal_id: "C34971371"
-label_id: "14130934"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039998/2018-08-01/0"
-intitule_bron: "Stcrt.2017-53588"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-22"
-intitule_published: "2017-09-25"
-intitule_in_force: "2017-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-53588"
-original_signed_date: "2017-08-22"
-original_published_date: "2017-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-53588"
-entry_into_force_date: "2017-10-01"
-jci_1_3: "jci1.3:c:BWBR0039998&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0039998&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit taakuitoefening IGJ"
-signed_date: "2017-08-22"
-entry_into_force: "2017-10-01"
+publicatiedatum: 2017-10-01
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0039998"
+opgehaald: 2026-08-26
 ---
-# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 augustus 2017, kenmerk 1193476-166555-WJZ, houdende regels voor de taakuitoefening van de Inspectie gezondheidszorg en jeugd (Besluit taakuitoefening IGJ)
 
-Besluit:
+# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 augustus 2017, kenmerk 1193476-166555-WJZ, houdende regels voor de taakuitoefening van de Inspectie gezondheidszorg en jeugd (Besluit taakuitoefening IGJ)
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport en voor zover van toepassing Staatssecretaris van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* Minister van Volksgezondheid, Welzijn en Sport en voor zover van toepassing Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-- b. **secretaris-generaal:** secretaris-generaal van het Ministerie van Volksgezondheid, Welzijn en Sport of plaatsvervangend secretaris-generaal;
+- b. *secretaris-generaal:* secretaris-generaal van het Ministerie van Volksgezondheid, Welzijn en Sport of plaatsvervangend secretaris-generaal;
 
-- c. **inspectie:** Inspectie gezondheidszorg en jeugd;
+- c. *inspectie:* Inspectie gezondheidszorg en jeugd;
 
-- d. **inspecteur-generaal:** inspecteur-generaal van de inspectie;
+- d. *inspecteur-generaal:* inspecteur-generaal van de inspectie;
 
-- e. **werkplan:** plan waarin de activiteiten van de inspectie voor de periode van een kalenderjaar zijn vastgesteld;
+- e. *werkplan:* plan waarin de activiteiten van de inspectie voor de periode van een kalenderjaar zijn vastgesteld;
 
-- f. **jaarverslag:** jaarlijkse rapportage over de uitvoering van het werkplan en de overige werkzaamheden van de inspectie, de bedrijfsvoering en financiële verantwoording en de bevindingen op basis van de uitgevoerde werkzaamheden.
+- f. *jaarverslag:* jaarlijkse rapportage over de uitvoering van het werkplan en de overige werkzaamheden van de inspectie, de bedrijfsvoering en financiële verantwoording en de bevindingen op basis van de uitgevoerde werkzaamheden.
 
 ##### Artikel 2
 
@@ -124,10 +100,8 @@ De inspecteur-generaal draagt zorg voor een systematische, consistente en toegan
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 oktober 2017.
+Dit besluit treedt in werking met ingang van 1 oktober 2017.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit taakuitoefening IGJ.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

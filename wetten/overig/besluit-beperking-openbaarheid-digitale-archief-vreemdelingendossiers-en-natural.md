@@ -1,53 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid digitale archief ‘Vreemdelingendossiers en Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst, 2006–2010’"
 identifier: "BWBR0040231"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-11-24"
-last_updated: "2017-11-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040231"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "14422353"
-version_id: "24659572"
-internal_id: "C35279961"
-label_id: "14382884"
-dtd_version: "2.0"
-original_entry_into_force: "2017-11-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040231/2017-11-24/0"
-intitule_bron: "Stcrt.2017-68091"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-23"
-intitule_published: "2017-11-23"
-intitule_in_force: "2017-11-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-68091"
-original_signed_date: "2017-11-23"
-original_published_date: "2017-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-68091"
-entry_into_force_date: "2017-11-24"
-jci_1_3: "jci1.3:c:BWBR0040231&z=2017-11-24&g=2017-11-24"
-jci_1_0: "1.0:c:BWBR0040231&g=2017-11-24"
-citeertitel_status: "redactioneel"
-signed_date: "2017-11-23"
-entry_into_force: "2017-11-24"
+publicatiedatum: 2017-11-24
+laatste_update: 2017-11-24
+status: geldig
+toestand: 2017-11-24
+bron: "https://wetten.overheid.nl/BWBR0040231"
+opgehaald: 2026-08-26
 ---
+
 # Besluit beperking openbaarheid digitale archief ‘Vreemdelingendossiers en Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst, 2006–2010’
-
-Overwegende dat het digitale archief ‘Vreemdelingendossiers en Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst, 2006–2010’, in het komend jaar naar het Nationaal Archief zal worden overgebracht, waarbij voor dit archiefblok een afzonderlijke verklaring van overbrenging als bedoeld in [artikel 9, lid 3 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=9) zal worden opgemaakt;
-
-Overwegende dat het aanbeveling verdient de beperkte openbaarheid van het volledige digitale archief eenmalig en op een eenduidige manier te regelen;
-
-Overwegende dat de dossiers in het bestand bijzondere persoonsgegevens bevatten als bedoeld in [artikel 16 van de Wet Bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16);
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Gehoord het advies van de algemene rijksarchivaris d.d. 30 oktober 2017, kenmerk 1251955;
-
-Gelet op het besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot vaststelling van een beperking voor archiefbescheiden ouder dan 75 jaar na afsluiting van het dossier;
-
-Besluit:
 
 ##### Artikel 1
 

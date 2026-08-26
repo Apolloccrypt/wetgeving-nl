@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 28 november 2017, kenmerk DP&O/17/2150354, houdende vaststelling van de organisatie van het Ministerie van Justitie en Veiligheid (Organisatiebesluit Ministerie van Justitie en Veiligheid)"
+citeertitel: "Organisatiebesluit Ministerie van Justitie en Veiligheid"
 identifier: "BWBR0040293"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-16"
-last_updated: "2026-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040293"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14434613"
-version_id: "29413672"
-internal_id: "C42054381"
-label_id: "14395934"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040293/2026-03-16/0"
-intitule_bron: "Stcrt.2017-70899"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-28"
-intitule_published: "2017-12-05"
-intitule_in_force: "2017-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-14494"
-original_signed_date: "2023-05-08"
-original_published_date: "2023-05-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-14494"
-entry_into_force_date: "2023-05-08"
-jci_1_3: "jci1.3:c:BWBR0040293&z=2026-03-16&g=2026-03-16"
-jci_1_0: "1.0:c:BWBR0040293&g=2026-03-16"
-citeertitel_status: "officieel"
-short_title: "Organisatiebesluit Ministerie van Justitie en Veiligheid"
-signed_date: "2023-05-08"
-entry_into_force: "2023-05-08"
+publicatiedatum: 2023-05-08
+laatste_update: 2026-03-16
+status: geldig
+toestand: 2026-03-16
+bron: "https://wetten.overheid.nl/BWBR0040293"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 28 november 2017, kenmerk DP&O/17/2150354, houdende vaststelling van de organisatie van het Ministerie van Justitie en Veiligheid (Organisatiebesluit Ministerie van Justitie en Veiligheid)
-
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **ministerie:** Ministerie van Justitie en Veiligheid;
+- a. *ministerie:* Ministerie van Justitie en Veiligheid;
 
-- b. **bewindspersoon:** de Minister van Justitie en Veiligheid, de Minister voor Rechtsbescherming of de Staatssecretaris van Justitie en Veiligheid, afhankelijk van wie het aangaat;
+- b. *bewindspersoon:* de Minister van Justitie en Veiligheid, de Minister voor Rechtsbescherming of de Staatssecretaris van Justitie en Veiligheid, afhankelijk van wie het aangaat;
 
-- c. **departementsleiding:** de bewindspersonen alsmede de secretaris-generaal, de plaatsvervangend secretaris-generaal, de hoofddirecteur bedrijfsvoering, de directeuren-generaal, de Nationaal Coördinator Terrorismebestrijding en Veiligheid en de inspecteur-generaal van de Inspectie Justitie en Veiligheid gezamenlijk;
+- c. *departementsleiding:* de bewindspersonen alsmede de secretaris-generaal, de plaatsvervangend secretaris-generaal, de hoofddirecteur bedrijfsvoering, de directeuren-generaal, de Nationaal Coördinator Terrorismebestrijding en Veiligheid en de inspecteur-generaal van de Inspectie Justitie en Veiligheid gezamenlijk;
 
-- d. **bestuursdepartement:** de departementsleiding alsmede de beleids-, staf- en bedrijfsvoeringonderdelen ter ondersteuning van de departementsleiding;
+- d. *bestuursdepartement:* de departementsleiding alsmede de beleids-, staf- en bedrijfsvoeringonderdelen ter ondersteuning van de departementsleiding;
 
-- e. **bestuursraad:** de bestuursraad, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-03-16&g=2026-03-16).
+- e. *bestuursraad:* de bestuursraad, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-03-16&g=2026-03-16).
 
 ##### Artikel 2
 
@@ -86,37 +60,37 @@ In dit besluit wordt verstaan onder:
 
 - a. de diensten:
 
-- 1°. de Dienst Terugkeer en Vertrek (DT&V);
+   - 1°. de Dienst Terugkeer en Vertrek (DT&V);
 
-- 2°. de raad voor de kinderbescherming (RvdK);
+   - 2°. de raad voor de kinderbescherming (RvdK);
 
-- 3°. het Nationaal Cyber Security Centrum (NCSC);
+   - 3°. het Nationaal Cyber Security Centrum (NCSC);
 
-- 4°. het Wetenschappelijk Onderzoek- en Datacentrum (WODC);
+   - 4°. het Wetenschappelijk Onderzoek- en Datacentrum (WODC);
 
-- 5°. de Nationale Opvang Organisatie (NOO);
+   - 5°. de Nationale Opvang Organisatie (NOO);
 
-- 6°. de Dienst Identificatie en Screening Asielzoekers (DISA).
+   - 6°. de Dienst Identificatie en Screening Asielzoekers (DISA).
 
 - b. de baten-lastenagentschappen:
 
-- 1°. het Centraal Justitieel Incassobureau (CJIB);
+   - 1°. het Centraal Justitieel Incassobureau (CJIB);
 
-- 2°. de Dienst JUSTIS;
+   - 2°. de Dienst JUSTIS;
 
-- 3°. de Dienst Justitiële Inrichtingen (DJI);
+   - 3°. de Dienst Justitiële Inrichtingen (DJI);
 
-- 4°. de Immigratie- en Naturalisatiedienst (IND);
+   - 4°. de Immigratie- en Naturalisatiedienst (IND);
 
-- 5°. het Nederlands Forensisch Instituut (NFI);
+   - 5°. het Nederlands Forensisch Instituut (NFI);
 
-- 6°. de Justitiële Informatiedienst (Justid);
+   - 6°. de Justitiële Informatiedienst (Justid);
 
-- 7°. de Justitiële ICT Organisatie.
+   - 7°. de Justitiële ICT Organisatie.
 
 ##### Artikel 3
 
-1. De secretaris-generaal is ambtelijk eindverantwoordelijk voor de leiding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) genoemde dienstonderdelen. De plaatsvervangend secretaris-generaal vervult de rol van eigenaar als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), de Inspectie Justitie en Veiligheid, het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen en het secretariaat van het Schadefonds Geweldsmisdrijven alsmede voor de hieronder genoemde zelfstandige bestuursorganen. De hoofddirecteur bedrijfsvoering is Chief Information Officer van het Ministerie van Justitie en Veiligheid.
+1. De secretaris-generaal is ambtelijk eindverantwoordelijk voor de leiding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) genoemde dienstonderdelen. De plaatsvervangend secretaris-generaal vervult de rol van eigenaar als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), de Inspectie Justitie en Veiligheid, het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen en het secretariaat van het Schadefonds Geweldsmisdrijven alsmede voor de hieronder genoemde zelfstandige bestuursorganen. De hoofddirecteur bedrijfsvoering is Chief Information Officer van het Ministerie van Justitie en Veiligheid.
 
 - a. het Centraal Orgaan opvang asielzoekers;
 
@@ -236,11 +210,11 @@ De voorzitter van het College van procureurs-generaal, de directeur-generaal van
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -452,13 +426,13 @@ Daarbij kunnen de volgende taken worden onderscheiden:
 
 - a. de afdeling Relatie- en Informatiemanagement;
 
-- •. team Advies Informatievoorziening
+   - • team Advies Informatievoorziening
 
-- •. team Functioneel Beheer
+   - • team Functioneel Beheer
 
-- •. team Product Informatievoorziening
+   - • team Product Informatievoorziening
 
-- •. team Relatiemanagement
+   - • team Relatiemanagement
 
 - b. de afdeling Portfoliomanagement;
 
@@ -466,11 +440,11 @@ Daarbij kunnen de volgende taken worden onderscheiden:
 
 - d. de afdeling Inkoopuitvoeringscentrum JenV (IUC JenV);
 
-- •. team Contractmanagement IUC JenV
+   - • team Contractmanagement IUC JenV
 
-- •. team Europees Aanbesteden
+   - • team Europees Aanbesteden
 
-- •. team Servicepunt Inkoop
+   - • team Servicepunt Inkoop
 
 ##### Artikel 18
 
@@ -487,8 +461,6 @@ Het Project-, Programma- en Adviescentrum (PPAC) is belast met:
 - c. het vergroten van flexibiliteit van medewerkers;
 
 - d. het verbinden van ervaren project- en programmamanagers en projectsecretarissen.
-
-### Hoofdstuk 3a. Hoofddirecteur bedrijfsvoering (HDBV)
 
 ##### Artikel 18b
 
@@ -507,6 +479,8 @@ Het Project-, Programma- en Adviescentrum (PPAC) is belast met:
 - b. de afdeling Beleid, Strategie en Informatie (BSI);
 
 - c. de programma-afdeling Parlementaire Enquête Corona (PECO).
+
+### Hoofdstuk 3a. Hoofddirecteur bedrijfsvoering (HDBV)
 
 ### Hoofdstuk 4. Directoraat-generaal Straffen en Beschermen (DGSenB)
 
@@ -686,11 +660,11 @@ De programmadirectie Toekomstscenario kind- en gezinsbescherming (TKG) is belast
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Directoraat-generaal Politie en Veiligheidsregio’s (DGPenV)
 
@@ -772,7 +746,7 @@ Vervallen
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31a
 
@@ -794,7 +768,7 @@ Vervallen
 
 ##### Artikel 31a1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31b
 
@@ -932,11 +906,11 @@ De directeur-generaal Rechtspleging en Rechtshandhaving is beheersverantwoordeli
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 7. Directoraat-generaal Migratie (DGM)
 
@@ -1004,11 +978,31 @@ Het Bureau Internationaal Migratiebeleid (BIM) ontwikkelt en bewaakt het interna
 
 ##### Artikel 47
 
-Vervallen
+1. De programmadirectie Oekraïense Ontheemden is belast met de interdepartementale coördinerende en integrale beleidsfunctie met betrekking tot de opvang van Oekraïense ontheemden, met als doel goede invulling te geven aan de rechten van Oekraïense ontheemden, die voortkomen uit de EU-Richtlijn Tijdelijke Bescherming (verblijf, onderwijs, zorg en werk). Deze Richtlijn loopt tot 4 maart 2025.
+
+2. De programmadirectie Oekraïense Ontheemden is voorts belast met:
+
+- a) het zorgdragen voor de coördinatie van de bijzondere crisisbesluitvorming inzake ontheemden als bedoeld in artikel 47, eerste lid;
+
+- b) het voeren van regie op de keten van registratie, plaatsing, opvang en repatriëring of bestendigd verblijf van ontheemden als bedoeld in artikel 47, eerste lid;
+
+- c) het monitoren van en rapporteren over de ontheemdenstromen uit Oekraïne en het maatschappelijk sentiment in Nederland om te komen tot bijdragen aan het creëren van maatschappelijk draagvlak en een behoeftestelling richting uitvoerende organisaties en beleidsverantwoordelijke ministeries;
+
+- d) het voorbereiden en coördineren van de afbouw van activiteiten wanneer dat aan de orde is.
+
+3. De programmadirectie Oekraïense Ontheemden bestaat uit:
+
+- a. de afdeling Beleid;
+
+- b. de afdeling Staf en Bedrijfsvoering;
+
+- c. de afdeling Externe Betrekkingen;
+
+- d. de afdeling Opdrachtgeverschap, Financiën en Informatievoorziening.
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
@@ -1082,7 +1076,7 @@ Het stafbureau is belast met het monitoren van (middel)lange termijn trajecten m
 
 ##### Artikel 49f
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV)
 
@@ -1094,9 +1088,9 @@ Vervallen
 
 - b. het reduceren van kansen of effecten van de genoemde dreigingen en risico’s door:
 
-- i. het verhogen van weerbaarheid van nationale veiligheidsbelangen;
+   - i. het verhogen van weerbaarheid van nationale veiligheidsbelangen;
 
-- ii. het zorgdragen voor een samenhangend crisisbeheersingsbeleid op nationaal niveau en voor een adequaat functioneren van het stelsel van nationale crisisbeheersing inclusief de aansluiting daarvan op het beleid en het stelsel van decentrale crisisbeheersing en op de afspraken met betrekking tot de internationale samenwerking;
+   - ii. het zorgdragen voor een samenhangend crisisbeheersingsbeleid op nationaal niveau en voor een adequaat functioneren van het stelsel van nationale crisisbeheersing inclusief de aansluiting daarvan op het beleid en het stelsel van decentrale crisisbeheersing en op de afspraken met betrekking tot de internationale samenwerking;
 
 - c. het zorgdragen voor de coördinatie van de bescherming van de nationale veiligheidsbelangen, waaronder de vitale infrastructuur, en voor een integrale aanpak van dreigingen voor de nationale veiligheid;
 
@@ -1196,6 +1190,28 @@ Vervallen
 
 - c. de NCTV Academie.
 
+##### Artikel 54a
+
+1. De portefeuille Bewaken en Beveiligen heeft de volgende taken:
+
+- a. het coördineren, ontwikkelen en evalueren van het beleid inzake het nationaal stelsel van bewaken en beveiligen en het stelsel van speciale eenheden;
+
+- b. het uitvoeren van het nationaal stelsel van bewaken en beveiligen, het stelsel van speciale eenheden en de procedure Renegade.
+
+2. De portefeuille bestaat uit:
+
+- a. de Afdeling Openbaar Bestuur, Koninklijk Huis en Weerbaar Bewaken en Beveiligen;
+
+- b. de Afdeling Internationaal, Contact en Intake;
+
+- c. de Afdeling Rechtsstaat;
+
+- d. de Afdeling Dienstverlening, Uitvoeringsbeleid en Beheersing;
+
+- e. de Afdeling Stelsel – Strategie, Integratie en Innovatie;
+
+- f. het Kenniscentrum Bewaken en Beveiligen.
+
 ##### Artikel 55
 
 De afdeling Strategie, Staf en Juridische Zaken heeft de volgende taken:
@@ -1210,19 +1226,19 @@ De afdeling Strategie, Staf en Juridische Zaken heeft de volgende taken:
 
 ##### Artikel 56
 
-Vervallen
+Het secretariaat van de Cyber Security Raad is belast met het verzorgen van de secretariële taken ten behoeve van de Cyber Security Raad, genoemd in [artikel 2 van het Instellingsbesluit Cyber Security Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0031950&artikel=2).
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 9. De Inspectie Justitie en Veiligheid
 
@@ -1232,11 +1248,11 @@ Vervallen
 
 - a. toezichtstaken op het terrein van het ministerie en heeft daartoe de volgende hoofdtaken:
 
-- i. het houden van toezicht op de uitvoering en de naleving van de wet- en regelgeving op het terrein van het ministerie en van wet- en regelgeving op andere daartoe bij of krachtens de wet aangewezen beleidsterreinen;
+   - i. het houden van toezicht op de uitvoering en de naleving van de wet- en regelgeving op het terrein van het ministerie en van wet- en regelgeving op andere daartoe bij of krachtens de wet aangewezen beleidsterreinen;
 
-- ii. het gevraagd en ongevraagd verstrekken van inlichtingen en adviezen aan de bewindspersoon over onderwerpen die hem aangaan;
+   - ii. het gevraagd en ongevraagd verstrekken van inlichtingen en adviezen aan de bewindspersoon over onderwerpen die hem aangaan;
 
-- iii. het vervullen van andere door de bewindspersoon aan de Inspectie opgedragen toezichtstaken.
+   - iii. het vervullen van andere door de bewindspersoon aan de Inspectie opgedragen toezichtstaken.
 
 - b. de handhavingstaken bedoeld in [hoofdstuk 9 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=9) met uitzondering van het geven en handhaven van een schriftelijke aanwijzing, als bedoeld in [artikel 9.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.3), en [artikel 9.5 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.5).
 
@@ -1286,7 +1302,7 @@ Vervallen
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 9a. Diensten en baten-lastenagentschappen
 
@@ -1362,9 +1378,9 @@ Vervallen
 
 - k. het inwinnen van informatie bij slachtoffers, nabestaanden en andere relevante personen ten behoeve van het meewegen van hun belangen bij de tenuitvoerlegging van vrijheidsbenemende en vrijheidsbeperkende straffen en maatregelen;
 
-- l. het doen van mededelingen van de informatie als bedoeld in [artikel 51ac, eerste lid, onder g, i, j en k, vierde en vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ac);
+- l. het doen van mededelingen van de informatie als bedoeld in [artikel 51ac, eerste lid, onder g, i, j en k, vierde en vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ac);
 
-- m. het verzenden van afschriften van strafbeschikkingen als bedoeld in [artikel 257d, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257d) aan slachtoffers, nabestaanden of andere rechtstreeks belanghebbenden.
+- m. het verzenden van afschriften van strafbeschikkingen als bedoeld in [artikel 257d, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257d) aan slachtoffers, nabestaanden of andere rechtstreeks belanghebbenden.
 
 2. Een nadere uitwerking van de taken van het CJIB is opgenomen in een takenbesluit van het CJIB.
 
@@ -1394,7 +1410,7 @@ De Immigratie- en Naturalisatiedienst (IND) is belast met de uitvoering van de v
 
 2. Het NFI is voorts belast met de door de bewindspersoon aangewezen taken zoals bepaald [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=1), en [artikel 3 van de Regeling taken NFI](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=3).
 
-- a. Bij de uitvoering van de kerntaken, als bedoeld in [artikel 1, eerste lid, van de Regeling taken NFI](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=1) levert het NFI producten dan wel diensten aan het openbaar ministerie, de zittende magistratuur, de politie, de bijzondere opsporingsdiensten en het ministerie;
+3. - a. Bij de uitvoering van de kerntaken, als bedoeld in [artikel 1, eerste lid, van de Regeling taken NFI](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=1) levert het NFI producten dan wel diensten aan het openbaar ministerie, de zittende magistratuur, de politie, de bijzondere opsporingsdiensten en het ministerie;
 
 - b. Bij de uitvoering van de taken als bedoeld in [artikel 1, tweede lid, van de Regeling taken NFI](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=1) kan het NFI producten of diensten leveren aan in [artikel 2, tweede, derde en vierde lid van de Regeling taken NFI](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=2), genoemde personen en instanties.
 
@@ -1480,13 +1496,29 @@ De Immigratie- en Naturalisatiedienst (IND) is belast met de uitvoering van de v
 
 - c. de afdeling Ondersteuning Opvang
 
+##### Artikel 63h5
+
+1. De Dienst Identificatie en Screening Asielzoekers (DISA) is als taakorganisatie belast met de uitvoering van de vreemdelingenwetgeving ten aanzien van de identificatie en registratie van vreemdelingen die te kennen geven een aanvraag tot het verlenen van de verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) te willen indienen.
+
+2. De DISA bestaat uit:
+
+- a. de afdeling Uitvoering
+
+- b. de afdeling Bedrijfsvoering
+
 ### Hoofdstuk 9b. Secretariaat van het Schadefonds Geweldsmisdrijven
 
 ##### Artikel 63i
 
 Het secretariaat van het Schadefonds Geweldsmisdrijven (secretariaat SGM) is belast met de bedrijfsvoering en ondersteuning van het Schadefonds Geweldsmisdrijven.
 
-### Hoofdstuk 9b. Secretariaat van het Schadefonds Geweldsmisdrijven
+### Hoofdstuk 9c. Bureau van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen
+
+##### Artikel 63j
+
+1. Het bureau van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen als bedoeld in [artikel 2, eerste lid van de Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0034176&artikel=2) is belast met de bedrijfsvoering en ondersteuning van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
+
+### Hoofdstuk 10. Slotbepalingen
 
 ##### Artikel 64
 
@@ -1524,9 +1556,9 @@ Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 1. Na inwerkingtreding van dit besluit wordt in regelingen en besluiten die verwijzen naar het [Organisatiebesluit Ministerie van Veiligheid en Justitie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036820) of de [Organisatieregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030837) gelezen ‘Organisatiebesluit Ministerie van Justitie en Veiligheid’. In afwachting van aanpassing van de verwijzingen in deze regelingen en besluiten moet worden geacht te zijn verwezen naar bepalingen van gelijke strekking uit het Organisatiebesluit Ministerie van Justitie en Veiligheid.
 
-2. Besluiten of handelingen die vóór de inwerkingtreding van dit besluit namens de bewindspersoon zijn genomen of verricht door een functionaris van een dienstonderdeel zoals dat dienstonderdeel vóór 26 oktober 2017 werd aangeduid, behouden hun rechtskracht.
+2. Besluiten of handelingen die vóór de inwerkingtreding van dit besluit namens de bewindspersoon zijn genomen of verricht door een functionaris van een dienstonderdeel zoals dat dienstonderdeel vóór 26 oktober 2017 werd aangeduid, behouden hun rechtskracht.
 
-3. Besluiten of handelingen die in de periode vanaf 15 augustus 2018 en vóór de inwerkingtreding van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2026-03-16&g=2026-03-16) en [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=5&artikel=28&z=2026-03-16&g=2026-03-16) van dit besluit namens de bewindspersoon door de directeur-generaal Politie dan wel de directeur-generaal Straffen en Beschermen zijn genomen of verricht, behouden hun rechtskracht.
+3. Besluiten of handelingen die in de periode vanaf 15 augustus 2018 en vóór de inwerkingtreding van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2026-03-16&g=2026-03-16) en [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=5&artikel=28&z=2026-03-16&g=2026-03-16) van dit besluit namens de bewindspersoon door de directeur-generaal Politie dan wel de directeur-generaal Straffen en Beschermen zijn genomen of verricht, behouden hun rechtskracht.
 
 4. Ondermandaten, volmachten en machtigingen verleend door of namens de directeur-generaal Politie dan wel de directeur-generaal Straffen en beschermen blijven van kracht.
 
@@ -1536,130 +1568,8 @@ Het [Organisatiebesluit Ministerie van Veiligheid en Justitie 2015](https://wett
 
 ##### Artikel 70
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 71
 
 Dit besluit wordt aangehaald als: Organisatiebesluit Ministerie van Justitie en Veiligheid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 56
-
-Vervallen
-
-### Hoofdstuk 9. De Inspectie Justitie en Veiligheid
-
-### Hoofdstuk 9a. Diensten en baten-lastenagentschappen
-
-### Hoofdstuk 9b. Secretariaat van het Schadefonds Geweldsmisdrijven
-
-### Hoofdstuk 9c. Bureau van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 24
-
-Vervallen
-
-### Hoofdstuk 5. Directoraat-generaal Politie en Veiligheidsregio’s (DGPenV)
-
-### Hoofdstuk 6. Directoraat-generaal Rechtspleging en Rechtshandhaving (DGRR)
-
-### Hoofdstuk 7. Directoraat-generaal Migratie (DGM)
-
-### Hoofdstuk 7a. Programmadirecteur-generaal Ondermijning (DGO)
-
-### Hoofdstuk 7b. Programmadirectoraat-generaal Samenleving en COVID-19 (DGSC-19)
-
-### Hoofdstuk 7c. Programmadirectoraat-generaal Oekraïense Ontheemden
-
-### Hoofdstuk 8. Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV)
-
-##### Artikel 56
-
-Vervallen
-
-### Hoofdstuk 9. De Inspectie Justitie en Veiligheid
-
-### Hoofdstuk 9a. Diensten en baten-lastenagentschappen
-
-### Hoofdstuk 9c. Bureau van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 63j
-
-1. Het bureau van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen als bedoeld in [artikel 2, eerste lid van de Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0034176&artikel=2) is belast met de bedrijfsvoering en ondersteuning van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
-
-### Hoofdstuk 10. Slotbepalingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 47
-
-Vervallen
-
-### Hoofdstuk 10. Slotbepalingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 3a. Hoofddirecteur bedrijfsvoering (HDBV)
-
-##### Artikel 18b
-
-Vervallen
-
-### Hoofdstuk 4. Directoraat-generaal Straffen en Beschermen (DGSenB)
-
-##### Artikel 47
-
-Vervallen
-
-### Hoofdstuk 7b. Programmadirectoraat-generaal Samenleving en COVID-19 (DGSC-19)
-
-### Hoofdstuk 8. Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV)
-
-##### Artikel 56
-
-Vervallen
-
-### Hoofdstuk 9. De Inspectie Justitie en Veiligheid
-
-### Hoofdstuk 9a. Diensten en baten-lastenagentschappen
-
-### Hoofdstuk 10. Slotbepalingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 54a
-
-1. De portefeuille Bewaken en Beveiligen heeft de volgende taken:
-
-- a. het coördineren, ontwikkelen en evalueren van het beleid inzake het nationaal stelsel van bewaken en beveiligen en het stelsel van speciale eenheden;
-
-- b. het uitvoeren van het nationaal stelsel van bewaken en beveiligen, het stelsel van speciale eenheden en de procedure Renegade.
-
-2. De portefeuille bestaat uit:
-
-- a. de Afdeling Openbaar Bestuur, Koninklijk Huis en Weerbaar Bewaken en Beveiligen;
-
-- b. de Afdeling Internationaal, Contact en Intake;
-
-- c. de Afdeling Rechtsstaat;
-
-- d. de Afdeling Dienstverlening, Uitvoeringsbeleid en Beheersing;
-
-- e. de Afdeling Stelsel – Strategie, Integratie en Innovatie;
-
-- f. het Kenniscentrum Bewaken en Beveiligen.
-
-##### Artikel 63h5
-
-1. De Dienst Identificatie en Screening Asielzoekers (DISA) is als taakorganisatie belast met de uitvoering van de vreemdelingenwetgeving ten aanzien van de identificatie en registratie van vreemdelingen die te kennen geven een aanvraag tot het verlenen van de verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) te willen indienen.
-
-2. De DISA bestaat uit:
-
-- a. de afdeling Uitvoering
-
-- b. de afdeling Bedrijfsvoering

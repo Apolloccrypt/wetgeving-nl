@@ -1,38 +1,16 @@
 ---
 title: "Interdepartementale afspraken inzake staatssteun 2017"
 identifier: "BWBR0040099"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-10-21"
-last_updated: "2017-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040099"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "14319683"
-version_id: "24535772"
-internal_id: "C35144101"
-label_id: "14280284"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040099/2017-10-21/0"
-intitule_bron: "Stcrt.2017-60151"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-12"
-intitule_published: "2017-10-20"
-intitule_in_force: "2017-10-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-60151"
-original_signed_date: "2017-10-12"
-original_published_date: "2017-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-60151"
-entry_into_force_date: "2017-10-21"
-jci_1_3: "jci1.3:c:BWBR0040099&z=2017-10-21&g=2017-10-21"
-jci_1_0: "1.0:c:BWBR0040099&g=2017-10-21"
-citeertitel_status: "officieel"
-signed_date: "2017-10-12"
-entry_into_force: "2017-10-21"
+publicatiedatum: 2017-10-21
+laatste_update: 2017-10-21
+status: geldig
+toestand: 2017-10-21
+bron: "https://wetten.overheid.nl/BWBR0040099"
+opgehaald: 2026-08-26
 ---
+
 # Interdepartementale afspraken inzake staatssteun 2017
 
 Vastlegging van de actualisatie van de Interdepartementale afspraken inzake staatssteun 2017
@@ -71,9 +49,25 @@ Ieder ministerie heeft een Administratieve Organisatie (hierna: AO) voor de inte
 
 De aanmelding of kennisgeving van steunmaatregelen van een lidstaat verloopt via het digitale systeem SANI-2 van de Europese Commissie. Voor de Nederlandse situatie wordt hier als volgt uitwerking aan gegeven:
 
+- • De door de ministeries opgestelde aanmeldingen en kennisgevingen worden door het desbetreffende ministerie via het digitale systeem doorgeleid naar de Permanente Vertegenwoordiging van Nederland bij de Europese Unie (hierna: PVEU);
+
+- • De door decentrale overheden opgestelde aanmeldingen of kennisgevingen worden via het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (hierna: BZK) doorgeleid naar de PVEU. Daarmee is binnen dit ministerie het Coördinatiepunt Staatssteun Decentrale Overheden belast dat onderdeel is van de directie Constitutionele Zaken en Wetgeving;
+
+- • De door ZBO’s opgestelde meldingen of kennisgevingen worden via het beleidsverantwoordelijk ministerie waaronder de taakuitoefening primair valt, doorgeleid naar de PVEU;
+
+- • De door waterschappen opgestelde meldingen of kennisgevingen worden via het Ministerie van Infrastructuur en Milieu doorgeleid naar de PVEU;
+
+- • De PVEU zorgt voor validering en doorgeleiding van meldingen en kennisgevingen aan de Europese Commissie.
+
 ### 5. Jaarlijkse staatssteunrapportage
 
 Uit diverse EU staatssteunregels volgen verplichtingen voor de lidstaat Nederland inzake de rapportage van steunmaatregelen van Nederlandse overheden. Voor de Nederlandse situatie wordt hier als volgt uitwerking aan gegeven:
+
+- • Het Ministerie van Economische Zaken coördineert de jaarlijkse staatssteunrapportage, voortvloeiende uit de EU staatssteunregels, voor de ministeries. Het Ministerie van Economische Zaken zorgt voor de centrale aanlevering van de gegevens betreffende de staatssteunrapportage aan de PVEU, die de staatssteunrapportages doorgeleid naar de Europese Commissie;
+
+- • Het Ministerie van BZK coördineert de jaarlijkse staatssteunrapportage, voortvloeiende uit de EU staatssteunregels, voor de decentrale overheden;
+
+- • Ministeries leveren de gevraagde gegevens tijdig aan bij het Ministerie van Economische Zaken. Decentrale overheden, met uitzondering van de waterschappen, leveren de gevraagde gegevens tijdig aan bij het Ministerie van BZK. Waterschappen leveren de gevraagde gegevens tijdig aan bij het Ministerie van Infrastructuur en Milieu (hierna: IenM).
 
 ### 6. Transparantieverplichtingen
 
@@ -85,13 +79,61 @@ Elke steunverstrekkende overheid is zelf verantwoordelijk voor het publiceren va
 
 In de situatie dat meerdere ministeries betrokken zijn bij een steunmaatregel gelden de volgende uitgangspunten:
 
+- • Leidend is dat het eerstverantwoordelijk ministerie, de eerste ondertekenaar van de betreffende steunmaatregel, het coördinerend ministerie is. De betrokken ministeries kunnen in onderling overleg afwijkende afspraken maken; zij melden dit aan de PVEU. Bij fiscale maatregelen bepaalt de inhoud van de steunmaatregel welk ministerie eerstverantwoordelijk is; gaat het primair om fiscaliteit, dan meldt het Ministerie van Financiën. Ligt de nadruk op beleidsinhoudelijke aspecten, dan meldt het ministerie dat eerstverantwoordelijk is voor dit beleid;
+
+- • Er wordt tevens in onderling overleg een coördinerend ministerie aangewezen indien sprake is van samenloop van steunverlening door decentrale overheden en de Rijksoverheid;
+
+- • De PVEU zal correspondentie van de Europese Commissie over die steunmaatregel doorgeleiden naar het coördinerend ministerie; het coördinerend ministerie draagt zorg voor verspreiding aan de overige betrokken ministeries;
+
+- • Het coördinerend ministerie zal de beantwoording van vragen van de Europese Commissie afstemmen met de overige betrokken ministeries;
+
+- • De betrokken ministeries zullen wat betreft het informeren van de eigen bewindspersoon het AO volgen van het eigen ministerie;
+
+- • Indien geen overeenstemming tussen ministeries in het ISO bestaat over het al dan niet aanmelden of kennisgeven van een steunmaatregel, dan wordt dit door het coördinerend ministerie geagendeerd voor de Ministerraad of een onderraad daarvan. In de Minsterraad of onderraad zal vervolgens worden besloten of er al dan niet wordt aangemeld of kennisgegeven.
+
 ### 8. Coördinerende taak van het Ministerie van BZK t.o.v. decentrale overheden
 
 De coördinerende taak van het Ministerie van BZK ten opzichte van decentrale overheden, niet zijnde waterschappen, houdt het volgende in:
 
+- • Het Ministerie van BZK draagt zorg voor de coördinatie van:
+
+   - o Een aanmelding of kennisgeving,
+
+   - o De behandeling van klachten,
+
+   - o De behandeling van een monitoringsverzoek,
+
+   - o De behandeling van een formele onderzoeksprocedure
+
+- • Het Ministerie van BZK kan op verzoek adviezen geven over steunmaatregelen afkomstig van decentrale overheden;
+
+- • Indien een decentrale overheid zich voor vragen over – of bijstand bij – het verrichten van een melding, kennisgeving, behandeling van een monitoringszaak, klacht of advies over een steunmaatregel tot één van de overige ministeries wendt, wordt deze door het betreffende ministerie doorverwezen naar het Ministerie van BZK;
+
+- • Vakministeries leveren aan het Ministerie van BZK een inhoudelijke bijdrage indien een steunmelding, kennisgeving, klacht dan wel een advies over een steunmaatregel van een decentrale overheid een raakvlak vertoont met een beleidsterrein van een vakministerie en deze bijdrage noodzakelijk wordt geacht vanuit overwegingen die het Rijksbeleid betreffen;
+
+- • Het Ministerie van BZK informeert de relevante ministeries indien een steunmelding, kennisgeving, klacht, monitoringszaak of advies over een steunmaatregel van een decentrale overheid een raakvlak vertoont met een beleidsterrein van het betreffende ministerie en deze informatie noodzakelijk wordt geacht vanuit overwegingen die het Rijksbeleid betreffen.
+
 ### 9. Coördinerende taak van het Ministerie van IenM t.o.v. decentrale overheden
 
 De coördinerende taak van het Ministerie van IenM ten opzichte van waterschappen, houdt het volgende in:
+
+- • Het Ministerie van IenM draagt zorg voor de coördinatie van:
+
+   - o Een aanmelding of kennisgeving,
+
+   - o De behandeling van klachten,
+
+   - o De behandeling van een monitoringsverzoek,
+
+   - o De behandeling van een formele onderzoeksprocedure
+
+- • Het Ministerie van IenM kan op verzoek adviezen geven over steunmaatregelen afkomstig van waterschappen;
+
+- • Indien een waterschap zich voor vragen over – of bijstand bij – het verrichten van een melding, kennisgeving, behandeling van een monitoringszaak, klacht of advies over een steunmaatregel tot één van de overige ministeries wendt, wordt deze door het betreffende ministerie doorverwezen naar het Ministerie van IenM;
+
+- • Vakministeries leveren aan het Ministerie van IenM een inhoudelijke bijdrage indien een steunmelding, kennisgeving, klacht dan wel een advies over een steunmaatregel van een waterschap een raakvlak vertoont met een beleidsterrein van een vakministerie en deze bijdrage noodzakelijk wordt geacht vanuit overwegingen die het Rijksbeleid betreffen;
+
+- • Het Ministerie van IenM informeert de relevante ministeries indien een steunmelding, kennisgeving, klacht, monitoringszaak of advies over een steunmaatregel van een waterschap een raakvlak vertoont met een beleidsterrein van het betreffende ministerie en deze informatie noodzakelijk wordt geacht vanuit overwegingen die het Rijksbeleid betreffen.
 
 ### 10. Rol van de PVEU
 
@@ -107,11 +149,35 @@ Verder vervult de PVEU een signaalfunctie met betrekking tot staatssteunontwikke
 
 De bijeenkomsten van het ISO vinden in beginsel één keer per maand plaats.
 
+Taak van het ISO
+
 Het ISO heeft de volgende taken:
+
+- • Het coördineren van de vaststelling van het Nederlandse standpunt over Europees beleid en wetgeving op het gebied van staatssteun;
+
+- • Het coördineren van gemeenschappelijke onderwerpen op het gebied van staatssteun met het oog op:
+
+   - o de uniforme toepassing van het staatssteunrecht binnen Nederland;
+
+   - o de naleving van de verplichtingen voortvloeiend uit Europees beleid, wetgeving en rechtspraak op het gebied van staatssteun;
+
+- • Het op verzoek geven van adviezen over staatssteunvraagstukken aan ministeries, decentrale overheden, interdepartementale gremia of onderdelen daarvan;
+
+- • Het vervullen van de functie van platform voor de uitwisseling van kennis en ervaring op het gebied van het staatssteunrecht, inclusief het onderhouden en toegankelijk houden van staatssteunspecifieke kennis;
+
+- • Het voorbereiden van de Nederlandse portfolio van steundossiers ten behoeve van een efficiënte afhandeling van Nederlandse steundossiers bij de Europese Commissie;
+
+- • Het (doen) bijhouden van overzichten ten behoeve van efficiënte informatiestromen en tijdige voortgangsbewaking.
+
+- • De taken van het ISO worden vervuld met inachtneming van het uitgangspunt dat ieder ministerie en decentrale overheid zelf verantwoordelijk is voor de juiste naleving van de bepalingen van het Verdrag betreffende de werking van de Europese Unie inzake staatssteun.
+
+- • De PVEU fungeert als Nederlands (centraal) schakelpunt voor de landencoördinatoren van DG Mededinging en DG Landbouw en plattelandsontwikkeling van de Europese Commissie.
+
+Toelichting op taak van het ISO
 
 Het ISO heeft als belangrijkste taak het coördineren van de vaststelling van het Nederlandse standpunt en het invloed uitoefenen inzake nieuwe of bestaande wetgeving van de Unie en beleidsvoornemens van de Europese Commissie op het gebied van staatssteun (zoals vrijstellingsverordeningen en kaderregelingen). Deze taak blijft onveranderd.
 
-Voorts blijft een belangrijke taak de kennisdeling en informatie – uitwisseling over staatssteundossiers en staatssteunkwesties tussen de leden van het ISO. Hiertoe kan het secretariaat van het ISO jurisprudentie, artikelen, persberichten, adviezen van externen, mededelingen van de Europese Commissie en overige staatssteun relevante informatie onder de ISO leden verspreiden. In dat kader kan het ISO ook activiteiten rondom staatssteun organiseren, zoals een werkbezoek van het ISO aan de Europese Commissie en de PVEU. Ook het ontwikkelen en onderhouden van handleidingen, zoals de Handreiking Staatssteun voor overheden, checklists en andere producten op het gebied van staatssteun ten behoeve van een uniforme toepassing van de staatssteunregels binnen Nederland behoort tot deze taak. Voorts kan tot deze taak gerekend worden het fungeren als platform voor de uitwisseling van **best practices** over de toepassing van de staatssteunregels binnen Nederland ten behoeve van het borgen van de juiste toepassing van de staatssteunregels in de Nederlandse regelgeving en bestuurspraktijk of het fungeren als klankbord voor het uitwisselen van inzichten over de inrichting van de steunfunctie in Nederland.
+Voorts blijft een belangrijke taak de kennisdeling en informatie – uitwisseling over staatssteundossiers en staatssteunkwesties tussen de leden van het ISO. Hiertoe kan het secretariaat van het ISO jurisprudentie, artikelen, persberichten, adviezen van externen, mededelingen van de Europese Commissie en overige staatssteun relevante informatie onder de ISO leden verspreiden. In dat kader kan het ISO ook activiteiten rondom staatssteun organiseren, zoals een werkbezoek van het ISO aan de Europese Commissie en de PVEU. Ook het ontwikkelen en onderhouden van handleidingen, zoals de Handreiking Staatssteun voor overheden, checklists en andere producten op het gebied van staatssteun ten behoeve van een uniforme toepassing van de staatssteunregels binnen Nederland behoort tot deze taak. Voorts kan tot deze taak gerekend worden het fungeren als platform voor de uitwisseling van *best practices* over de toepassing van de staatssteunregels binnen Nederland ten behoeve van het borgen van de juiste toepassing van de staatssteunregels in de Nederlandse regelgeving en bestuurspraktijk of het fungeren als klankbord voor het uitwisselen van inzichten over de inrichting van de steunfunctie in Nederland.
 
 De modernisering van de EU staatssteunregels heeft echter ook tot een aantal nieuwe taken voor het ISO geleid. Zo heeft de taak over de coördinatie van gemeenschappelijke thema’s op staatssteungebied te maken met een aantal Europese verplichtingen of ontwikkelingen die een gezamenlijke aanpak en afstemming vragen vanuit het ISO. Een voorbeeld hiervan is de uitvoering in Nederland van de transparantieverplichtingen zoals voortvloeiend uit de staatssteunkaders. In het kader van het streven naar een sterkere coördinatie en intensievere samenwerking, mede als gevolg van de modernisering van de EU staatssteunregels, worden binnen het ISO ook de vragen van de ISO leden over de verschillende steunkaders (vrijstellingsverordeningen, kaderregelingen etc.) op elkaar afgestemd zodat deze vragen op gecoördineerde wijze kunnen worden aangeleverd aan het eState aid WIKI-netwerk van de Europese Commissie.
 
@@ -125,15 +191,41 @@ Belangrijk is voorts de taak voor het bijhouden van overzichten ten behoeve van 
 
 Het ISO kan voor de behandeling van bepaalde onderwerpen, al dan niet uit zijn midden, werkgroepen instellen. Het ISO kan zijn werkwijze, die van het secretariaat en zijn werkgroepen nader regelen.
 
+Leden van het ISO
+
 Het ISO bestaat uit:
+
+- • Een voorzitter, zijnde het hoofd van de unit staatssteun van het Ministerie van Economische Zaken;
+
+- • Een secretaris, zijnde een medewerker van de directie Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken;
+
+- • Van elk ministerie hoogstens twee leden en plaatsvervangend leden met kennis van zaken op het gebied van het staatssteun, aan te wijzen door of namens de betrokken Minister;
+
+- • Een lid en plaatsvervangend lid met kennis van zaken op het gebied van staatssteun, aan te wijzen door de Permanente Vertegenwoordiging van Nederland bij de Europese Unie;
+
+- • Een lid en plaatsvervangend lid met kennis van zaken op het gebied van staatssteun, aan te wijzen door het Interprovinciaal Overleg;
+
+- • Een lid en plaatsvervangend lid met kennis van zaken op het gebied van staatssteun, aan te wijzen door de Vereniging van Nederlandse Gemeenten;
+
+- • Een lid en plaatsvervangend lid met kennis van zaken op het gebied van staatssteun aan te wijzen door de Unie van Waterschappen;
+
+- • Een lid en plaatsvervangend lid met kennis van zaken op het gebied van staatssteun, aan te wijzen door de Stichting Europa decentraal.
 
 Het hoofd van de unit staatssteun van de directie Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken is voorzitter van het ISO. Het secretariaat van het ISO berust bij de directie Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken. Het secretariaat ondersteunt het ISO bij de uitvoering van de eerder genoemde taken. Verder is het secretariaat verantwoordelijk voor het organiseren en voorbereiden van het ISO. Het secretariaat is voor zijn werkzaamheden uitsluitend verantwoording schuldig aan het ISO.
 
 De leden van het ISO worden steeds aagewezen op een adequaat ambtelijk niveau, dat wil zeggen dat een lid ambtelijk (juridisch of beleids-) medewerker is met voldoende kennis en ervaring op het gebied van staatssteun om een bijdrage te leveren aan de discussie in het ISO of schriftelijke producten van het ISO. Een aantal ministeries heeft op dit moment naast de ISO leden die daadwerkelijk het aanspreekpunt van hun ministerie vormen in het kader van het ISO, één of meerdere agendaleden aangewezen. Een agendalid fungeert in het kader van het ISO niet als aanspreekpunt van zijn ministerie maar ontvangt slechts de vergaderstukken en wordt niet uitgenodigd voor de vergaderingen van het ISO. Desgewenst kan een agendalid bij de vergadering van het ISO aanwezig zijn.
 
+Positionering van het ISO
+
 De Minister van Economische Zaken is binnen het Rijk op grond van zijn portefeuille verantwoordelijk voor de Europese interne markt en mededinging. Dit ministerie voert daarom het voorzitterschap en het secretariaat van het ISO.
 
 Gelet op de verbrede taak van het ISO en de wens om staatssteun te institutionaliseren, is ervoor gekozen het ISO te positioneren onder het IOWJZ. Dit draagt bij aan de versterking van de juridische functie Rijk. Daarbij moet evenwel in ogenschouw worden genomen dat staatssteun een onderwerp is met duidelijke beleidsmatige en politieke componenten. Om deze reden kan het ISO desgewenst – zonder dat tussenkomst van het IOWJZ nodig is – aan de Commissie voor Europese Integratie- en Associatieproblemen (CoCo) ter besluitvorming voorleggen:
+
+- • de Nederlandse standpuntbepaling over bestaand of nieuw Europees beleid of wetgeving op het gebied van staatssteun;
+
+- • de Nederlandse standpuntbepaling over nieuwe voorstellen van de Europese Commissie met staatssteun aspecten;
+
+- • de Nederlandse portfolio van staatssteundossiers ten behoeve van een efficiënte afhandeling bij de Europese Commissie.
 
 Het ISO kan over de inschakeling van het IOWJZ en de CoCo nadere werkafspraken maken.
 
@@ -148,5 +240,3 @@ Deze afspraken treden in werking met ingang van de dag na de datum van uitgifte 
 ### 14. Citeertitel
 
 Deze afspraken worden aangehaald als: Interdepartementale afspraken inzake staatssteun 2017.
-
-De afspraken zullen in de Staatscourant worden geplaatst.

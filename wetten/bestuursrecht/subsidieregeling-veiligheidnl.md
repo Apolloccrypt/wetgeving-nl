@@ -1,50 +1,24 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 12 oktober 2017, nr. IENM/BSK-2017/230864, houdende regels voor verstrekking van subsidie aan de Stichting VeiligheidNL (Subsidieregeling VeiligheidNL)"
+citeertitel: "Subsidieregeling VeiligheidNL"
 identifier: "BWBR0040088"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-10-20"
-last_updated: "2017-10-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040088"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14315983"
-version_id: "24530732"
-internal_id: "C35136181"
-label_id: "14276464"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040088/2017-10-20/0"
-intitule_bron: "Stcrt.2017-58441"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-12"
-intitule_published: "2017-10-19"
-intitule_in_force: "2017-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-58441"
-original_signed_date: "2017-10-12"
-original_published_date: "2017-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-58441"
-entry_into_force_date: "2017-10-20"
-jci_1_3: "jci1.3:c:BWBR0040088&z=2017-10-20&g=2017-10-20"
-jci_1_0: "1.0:c:BWBR0040088&g=2017-10-20"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling VeiligheidNL"
-signed_date: "2017-10-12"
-entry_into_force: "2017-10-20"
+publicatiedatum: 2017-10-20
+laatste_update: 2017-10-20
+status: geldig
+toestand: 2017-10-20
+bron: "https://wetten.overheid.nl/BWBR0040088"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 12 oktober 2017, nr. IENM/BSK-2017/230864, houdende regels voor verstrekking van subsidie aan de Stichting VeiligheidNL (Subsidieregeling VeiligheidNL)
-
-Gelet op de [artikelen 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5, onder b, f en h, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 4, onder b, f en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), en [23, vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **Minister:** Minister van Infrastructuur en Milieu.
+- *Minister:* Minister van Infrastructuur en Milieu.
 
 ##### Artikel 2. Activiteiten waarvoor subsidie wordt verstrekt
 
@@ -89,5 +63,3 @@ Gelijktijdig met de beschikking tot subsidieverlening kan de Minister een voorsc
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling VeiligheidNL.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

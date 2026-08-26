@@ -1,52 +1,28 @@
 ---
 title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 22 februari 2018, nr. 2193344 houdende de instelling van de Task Force Aanpak Mensenhandel (Instellingsbesluit Task Force Aanpak Mensenhandel 2017)"
+citeertitel: "Instellingsbesluit Task Force Aanpak Mensenhandel 2017"
 identifier: "BWBR0040684"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-03-03"
-last_updated: "2017-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040684"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14562573"
-version_id: "24922632"
-internal_id: "C35645311"
-label_id: "14516534"
-dtd_version: "2.0"
-original_entry_into_force: "2018-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040684/2018-03-03/0"
-intitule_bron: "Stcrt.2018-11811"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-22"
-intitule_published: "2018-03-02"
-intitule_in_force: "2018-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-11811"
-original_signed_date: "2018-02-22"
-original_published_date: "2018-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-11811"
-entry_into_force_date: "2018-03-03"
-jci_1_3: "jci1.3:c:BWBR0040684&z=2018-03-03&g=2018-03-03"
-jci_1_0: "1.0:c:BWBR0040684&g=2018-03-03"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Task Force Aanpak Mensenhandel 2017"
-signed_date: "2018-02-22"
-entry_into_force: "2018-03-03"
+publicatiedatum: 2018-03-03
+laatste_update: 2018-03-03
+status: geldig
+toestand: 2018-03-03
+bron: "https://wetten.overheid.nl/BWBR0040684"
+opgehaald: 2026-08-26
 ---
-# Besluit van de Staatssecretaris van Justitie en Veiligheid van 22 februari 2018, nr. 2193344 houdende de instelling van de Task Force Aanpak Mensenhandel (Instellingsbesluit Task Force Aanpak Mensenhandel 2017)
 
-Besluit:
+# Besluit van de Staatssecretaris van Justitie en Veiligheid van 22 februari 2018, nr. 2193344 houdende de instelling van de Task Force Aanpak Mensenhandel (Instellingsbesluit Task Force Aanpak Mensenhandel 2017)
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de minister van Justitie en Veiligheid;
+- a. *minister:* de minister van Justitie en Veiligheid;
 
-- b. **staatssecretaris;** de staatssecretaris van Justitie en Veiligheid;
+- b. *staatssecretaris;* de staatssecretaris van Justitie en Veiligheid;
 
-- c. **Task Force:** de Task Force Aanpak Mensenhandel.
+- c. *Task Force:* de Task Force Aanpak Mensenhandel.
 
 ##### Artikel 2
 
@@ -163,5 +139,3 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Task Force Aanpak Mensenhan
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2017.
 
 2. Dit besluit vervalt op 1 maart 2020.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

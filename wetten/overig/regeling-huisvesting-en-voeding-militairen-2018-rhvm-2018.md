@@ -2,23 +2,16 @@
 title: "Regeling huisvesting en voeding militairen 2018 (RHVM 2018)"
 identifier: "BWBR0040470"
 categorie: "Overig"
-publicatiedatum: 2026-07-09
-laatste_update: 2026-07-15
+soort: "ministeriele-regeling"
+publicatiedatum: 2018-01-01
+laatste_update: 2026-07-09
 status: geldig
+toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0040470"
+opgehaald: 2026-08-26
 ---
 
 # Regeling huisvesting en voeding militairen 2018 (RHVM 2018)
-
-Gelet op:
-
-de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=108), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=109), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=110), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=143) en [144 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=144),
-
-de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=75) en [76 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=76),
-
-de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60) en [61 van het Inkomstenbesluit burgerlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61),
-
-Besluit:
 
 ### Hoofdstuk 1. Inleiding
 
@@ -26,15 +19,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **afstand:** de afstand zoals bedoeld in [artikel 1, eerste lid van het Verplaatsingskostenbesluit defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=1);
+- *afstand:* de afstand zoals bedoeld in [artikel 1, eerste lid van het Verplaatsingskostenbesluit defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=1);
 
-- **huisvesting:** gelegenheid tot nachtverblijf die wordt verstrekt door of voor rekening van Defensie;
+- *huisvesting:* gelegenheid tot nachtverblijf die wordt verstrekt door of voor rekening van Defensie;
 
-- **plaats van tewerkstelling:** de plaats als bedoeld in [artikel 1, eerste lid van het Verplaatsingskostenbesluit defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=1);
+- *plaats van tewerkstelling:* de plaats als bedoeld in [artikel 1, eerste lid van het Verplaatsingskostenbesluit defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=1);
 
-- **voeding:** de door Defensie (deels) bekostigde kwalitatief en kwantitatief toereikende maaltijden;
+- *voeding:* de door Defensie (deels) bekostigde kwalitatief en kwantitatief toereikende maaltijden;
 
-- **woning:** de verblijfplaats in Nederland waar de militair volgens de Basisregistratie Personen als ‘woonplaats’ staat ingeschreven, dan wel de verblijfplaats in het buitenland waar de militair metterwoon woonachtig is.
+- *woning:* de verblijfplaats in Nederland waar de militair volgens de Basisregistratie Personen als ‘woonplaats’ staat ingeschreven, dan wel de verblijfplaats in het buitenland waar de militair metterwoon woonachtig is.
 
 ##### Artikel 2. Toepasselijkheid
 
@@ -84,7 +77,7 @@ De militair kan door de commandant worden verplicht gebruik te maken van huisves
 
 1. De militair die huisvesting geniet op grond van [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040470&hoofdstuk=2&artikel=4&z=2026-07-09&g=2026-07-09), is hiervoor een maandelijkse bijdrage verschuldigd.
 
-2. De bijdrage bedraagt 3,6% van de voor de militair geldende bezoldiging, doch ten hoogste € 153,21.
+2. De bijdrage bedraagt 3,6% van de voor de militair geldende bezoldiging, doch ten hoogste € 153,21.
 
 3. Het in het tweede lid bedoelde bedrag wordt voor de militair die is geplaatst in een gebied buiten Nederland verhoogd met een door de minister vast te stellen duurtecorrectie, aangevende het verschil in kosten van levensonderhoud tussen het gebied van verblijf en Nederland.
 
@@ -112,15 +105,15 @@ De militair kan door de commandant worden verplicht gebruik te maken van huisves
 
 - a. voor de militair aan wie door de commandant de verplichting is opgelegd de in het eerste lid bedoelde woning te betrekken:
 
-  - 1°. indien de woning in Nederland is gelegen: 12% van de bezoldiging, met dien verstande dat dit bedrag – in voorkomend geval verminderd met de toelage woninghuur Koninklijke Marechaussee, bedoeld in [artikel 39 van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=39) – niet méér bedraagt dan de voor de loonheffing geldende huurwaarde van die woning;
+   - 1°. indien de woning in Nederland is gelegen: 12% van de bezoldiging, met dien verstande dat dit bedrag – in voorkomend geval verminderd met de toelage woninghuur Koninklijke Marechaussee, bedoeld in [artikel 39 van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=39) – niet méér bedraagt dan de voor de loonheffing geldende huurwaarde van die woning;
 
-  - 2°. indien de woning buiten Nederland is gelegen: twaalf procent van de bezoldiging, vermeerderd met 12% van de duurtecorrectie – voor zover deze positief is -, berekend over het voor de militair geldende Standaard Netto Nederland in de zin van het [Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849);
+   - 2°. indien de woning buiten Nederland is gelegen: twaalf procent van de bezoldiging, vermeerderd met 12% van de duurtecorrectie – voor zover deze positief is -, berekend over het voor de militair geldende Standaard Netto Nederland in de zin van het [Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849);
 
 - b. in de overige gevallen:
 
-  - 1°. indien de woning in Nederland is gelegen: 15% van de bezoldiging, met dien verstande dat dit bedrag – in voorkomend geval verminderd met de toelage woninghuur Koninklijke Marechaussee, bedoeld in [artikel 39 van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=39) – niet méér bedraagt dan de voor de loonheffing geldende huurwaarde van die woning;
+   - 1°. indien de woning in Nederland is gelegen: 15% van de bezoldiging, met dien verstande dat dit bedrag – in voorkomend geval verminderd met de toelage woninghuur Koninklijke Marechaussee, bedoeld in [artikel 39 van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=39) – niet méér bedraagt dan de voor de loonheffing geldende huurwaarde van die woning;
 
-  - 2°. indien de woning buiten Nederland is gelegen: 17% van de bezoldiging, vermeerderd met 17% van de duurtecorrectie -voor zover deze positief is -, berekend over het voor de militair geldende Standaard Netto Nederland in de zin van het [Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849).
+   - 2°. indien de woning buiten Nederland is gelegen: 17% van de bezoldiging, vermeerderd met 17% van de duurtecorrectie -voor zover deze positief is -, berekend over het voor de militair geldende Standaard Netto Nederland in de zin van het [Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849).
 
 - c. In afwijking van het gestelde in het tweede lid onder a en b van dit artikel is de eigen bijdrage 10% van de bezoldiging, indien de defensieambtenaar vanuit een eigendomswoning, als gevolg van het vervullen van een bepaalde functie, verplicht gebruik dient te maken van een ambts- of dienstwoning en hij gedurende zijn plaatsing of een deel van die plaatsing deze eigendomswoning aanhoudt en die woning niet verhuurt of ter beschikking stelt aan een ander dan een van de eigen-, stief- of pleegkinderen van de defensieambtenaar.
 
@@ -128,13 +121,13 @@ De militair kan door de commandant worden verplicht gebruik te maken van huisves
 
 - a. indien de woning in Nederland is gelegen:
 
-  - 1°. voor het gebruik van verwarming: met 2,4% van de bezoldiging, tot een maximum van € 188,97 per maand;
+   - 1°. voor het gebruik van verwarming: met 2,4% van de bezoldiging, tot een maximum van € 188,97 per maand;
 
-  - 2°. voor het gebruik van elektrische energie of gas voor kookdoeleinden: met 0,9% van de bezoldiging, tot een maximum van € 60,61 per maand;
+   - 2°. voor het gebruik van elektrische energie of gas voor kookdoeleinden: met 0,9% van de bezoldiging, tot een maximum van € 60,61 per maand;
 
-  - 3°. voor het gebruik van elektrische energie anders dan voor verwarming van de woonruimte en kookdoeleinden: met 0,9 % van de bezoldiging, tot een maximum van € 28,20 per maand;
+   - 3°. voor het gebruik van elektrische energie anders dan voor verwarming van de woonruimte en kookdoeleinden: met 0,9 % van de bezoldiging, tot een maximum van € 28,20 per maand;
 
-  - 4°. voor het gebruik van leidingwater: met 0,4 % van de bezoldiging, tot een maximum van € 23,39 per maand.
+   - 4°. voor het gebruik van leidingwater: met 0,4 % van de bezoldiging, tot een maximum van € 23,39 per maand.
 
 - b. indien de woning buiten Nederland is gelegen: met de onder a, ten 1° tot en met 4°, bedoelde bedragen, vermeerderd met de daarover berekende duurtecorrectie, voor zover deze positief is.
 
@@ -229,7 +222,7 @@ De [Regeling huisvesting en voeding militairen](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2018.
+Deze regeling treedt in werking met ingang van 1 januari 2018.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 

@@ -1,76 +1,38 @@
 ---
 title: "Beleidsregels van het Commissariaat voor de Media van 26 september 2017 over de governance en interne beheersing van de NPO, de RPO en de landelijke en regionale publieke media-instellingen (Beleidsregels governance en interne beheersing 2017)"
+citeertitel: "Beleidsregels governance en interne beheersing 2017"
 identifier: "BWBR0040067"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040067"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14278113"
-version_id: "24488182"
-internal_id: "C35091651"
-label_id: "14238694"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040067/2018-01-01/0"
-intitule_bron: "Stcrt.2017-57731"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-09-26"
-intitule_published: "2017-10-12"
-intitule_in_force: "2017-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-57731"
-original_signed_date: "2017-09-26"
-original_published_date: "2017-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-57731"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040067&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040067&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels governance en interne beheersing 2017"
-signed_date: "2017-09-26"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040067"
+opgehaald: 2026-08-26
 ---
+
 # Beleidsregels van het Commissariaat voor de Media van 26 september 2017 over de governance en interne beheersing van de NPO, de RPO en de landelijke en regionale publieke media-instellingen (Beleidsregels governance en interne beheersing 2017)
-
-gelet op de [artikelen 2.142a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a) en [2.178 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.178) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-overwegende:
-
-dat het Commissariaat voor de Media onder meer is belast met het toezicht op de naleving van de bepalingen in de [artikelen 2.142a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a) en [2.178 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.178);
-
-dat deze [artikelen 2.142a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a) en [2.178 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.178) gericht zijn op effectief bestuur en toezicht, de beheersing van risico's en de administratieve organisatie, hetgeen uitwerking vergt in de inrichting van organisatie en governance van de NPO, de RPO en de landelijke en regionale publieke media-instellingen;
-
-dat genoemde artikelen vergen dat invulling wordt gegeven aan algemene beginselen van goed bestuur, daaronder begrepen regels over integer en transparant handelen door het bestuur, onafhankelijk toezicht door de raad van toezicht en het afleggen van verantwoording daarover;
-
-dat het wenselijk is om de strekking van genoemde artikelen nader te duiden en met het oog daarop beleidsregels vast te stellen over de wijze waarop het Commissariaat voor de Media uitleg geeft aan de wettelijke eisen;
-
-dat de naleving van genoemde artikelen bijdraagt aan het vertrouwen in het functioneren van de NPO, de RPO en de landelijke en regionale publieke media-instellingen bij de vervulling van hun publieke media-opdracht en daarmee bijdraagt aan hun inbedding in de maatschappij,
-
-besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
-- –. **bestuur:** het orgaan belast met het besturen van de organisatie;
+- – *bestuur:* het orgaan belast met het besturen van de organisatie;
 
-- –. **Commissariaat:** het Commissariaat voor de Media als bedoeld in [artikel 7.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.1);
+- – *Commissariaat:* het Commissariaat voor de Media als bedoeld in [artikel 7.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.1);
 
-- –. **Handboek financiële verantwoording:** het Handboek financiële verantwoording landelijke publieke media-instellingen en de NPO, respectievelijk het Handboek financiële verantwoording regionale publieke media-instellingen en de RPO, althans de geldende nadere regels als bedoeld in [artikel 2.172 derde lid van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.172);
+- – *Handboek financiële verantwoording:* het Handboek financiële verantwoording landelijke publieke media-instellingen en de NPO, respectievelijk het Handboek financiële verantwoording regionale publieke media-instellingen en de RPO, althans de geldende nadere regels als bedoeld in [artikel 2.172 derde lid van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.172);
 
-- –. **NPO:** de stichting Nederlandse Publieke Omroep als bedoeld in [afdeling 2.2.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&afdeling=2.2.1);
+- – *NPO:* de stichting Nederlandse Publieke Omroep als bedoeld in [afdeling 2.2.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&afdeling=2.2.1);
 
-- –. **publieke media-instelling:** de instelling die op grond van [hoofdstuk 2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2) landelijke of regionale publieke mediadiensten verzorgt;
+- – *publieke media-instelling:* de instelling die op grond van [hoofdstuk 2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2) landelijke of regionale publieke mediadiensten verzorgt;
 
-- –. **raad van toezicht:** het orgaan belast met het toezicht op het bestuur en op de algemene gang van zaken en de daaraan verbonden organisatie, zoals bedoeld in [artikel 2.142a, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a), ongeacht de benaming van dit orgaan;
+- – *raad van toezicht:* het orgaan belast met het toezicht op het bestuur en op de algemene gang van zaken en de daaraan verbonden organisatie, zoals bedoeld in [artikel 2.142a, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a), ongeacht de benaming van dit orgaan;
 
-- –. **RPO:** de stichting Regionale Publieke Omroep als bedoeld in [paragraaf 2.3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&paragraaf=2.3.1);
+- – *RPO:* de stichting Regionale Publieke Omroep als bedoeld in [paragraaf 2.3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&paragraaf=2.3.1);
 
-- –. **wet- en regelgeving:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036), de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040) en de overige hierop gebaseerde wettelijke voorschriften, waaronder het Handboek financiële verantwoording, en beleidsregels.
+- – *wet- en regelgeving:* de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036), de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040) en de overige hierop gebaseerde wettelijke voorschriften, waaronder het Handboek financiële verantwoording, en beleidsregels.
 
 ##### Artikel 2. Samenstelling en onafhankelijkheid van bestuur en raad van toezicht
 
@@ -146,13 +108,13 @@ Daarnaast voert de raad van toezicht ten minste eenmaal per jaar met het bestuur
 
 - b. de wijze waarop invulling wordt gegeven aan de bevoegdheden en verantwoordelijkheden van de raad van toezicht, in het bijzonder inzake het toezicht op:
 
-- i. het interne risicomanagement- en controlesysteem en de effectiviteit daarvan;
+   - i. het interne risicomanagement- en controlesysteem en de effectiviteit daarvan;
 
-- ii. de naleving van de geldende wet- en regelgeving, in het bijzonder de waarborgen voor de redactionele onafhankelijkheid in de zin van [artikel 2.88 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.88), en de wijze waarop het bestuur in het verslagjaar heeft zorggedragen voor een cultuur die is gericht op het vervullen van de publieke mediaopdracht volgens de daarvoor geldende wet- en regelgeving;
+   - ii. de naleving van de geldende wet- en regelgeving, in het bijzonder de waarborgen voor de redactionele onafhankelijkheid in de zin van [artikel 2.88 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.88), en de wijze waarop het bestuur in het verslagjaar heeft zorggedragen voor een cultuur die is gericht op het vervullen van de publieke mediaopdracht volgens de daarvoor geldende wet- en regelgeving;
 
-- iii. het beleid voor de beloning van de individuele bestuurders en de leden van de raad van toezicht;
+   - iii. het beleid voor de beloning van de individuele bestuurders en de leden van de raad van toezicht;
 
-- iv. de financiële verantwoording in de vorm van het bestuursverslag, de jaarrekening en de overige rapportages als bedoeld in dit artikel.
+   - iv. de financiële verantwoording in de vorm van het bestuursverslag, de jaarrekening en de overige rapportages als bedoeld in dit artikel.
 
 5.7. De raad van toezicht is verantwoordelijk voor het toezicht op de naleving van het bepaalde in dit artikel.
 
@@ -173,5 +135,3 @@ Deze beleidsregels zijn van toepassing bij de bestuursrechtelijke handhaving doo
 ##### Artikel 9. Slotbepalingen
 
 Deze beleidsregels worden aangehaald als: Beleidsregels governance en interne beheersing 2017.
-
-Deze beleidsregels worden bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat.

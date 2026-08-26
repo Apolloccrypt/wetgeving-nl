@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 2 februari 2018, houdende instelling van de Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken (Instellingsbesluit Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken)"
+citeertitel: "Instellingsbesluit Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken"
 identifier: "BWBR0040617"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-13"
-last_updated: "2018-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040617"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14539893"
-version_id: "24887442"
-internal_id: "C35603241"
-label_id: "14497324"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040617/2018-02-13/0"
-intitule_bron: "Stcrt.2018-7421"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-02"
-intitule_published: "2018-02-12"
-intitule_in_force: "2018-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-7421"
-original_signed_date: "2018-02-02"
-original_published_date: "2018-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-7421"
-entry_into_force_date: "2018-02-13"
-jci_1_3: "jci1.3:c:BWBR0040617&z=2018-02-13&g=2018-02-13"
-jci_1_0: "1.0:c:BWBR0040617&g=2018-02-13"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken"
-signed_date: "2018-02-02"
-entry_into_force: "2018-02-13"
+publicatiedatum: 2018-02-13
+laatste_update: 2018-02-13
+status: geldig
+toestand: 2018-02-13
+bron: "https://wetten.overheid.nl/BWBR0040617"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 2 februari 2018, houdende instelling van de Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken (Instellingsbesluit Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken)
-
-In overeenstemming met het gevoelen van de ministerraad,
-
-Besluit:
-
-Vindt toepassing met ingang van 15 januari 2018.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** de Minister van Justitie en Veiligheid;
+- a. *Minister:* de Minister van Justitie en Veiligheid;
 
-- b. **Commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040617&artikel=2&z=2018-02-13&g=2018-02-13).
+- b. *Commissie:* de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040617&artikel=2&z=2018-02-13&g=2018-02-13).
 
 ##### Artikel 2. Instelling en taak
 
@@ -58,13 +30,13 @@ In dit besluit wordt verstaan onder:
 
 3. Bij haar onderzoek beantwoordt de Commissie in ieder geval de volgende vragen:
 
-- a). of, en zo ja, bij wie, wanneer en hoe de klacht is aangekaart en hoe vervolgens door degenen bij wie de klacht is geuit met deze klacht is omgegaan?
+- a) of, en zo ja, bij wie, wanneer en hoe de klacht is aangekaart en hoe vervolgens door degenen bij wie de klacht is geuit met deze klacht is omgegaan?
 
-- b). viel de klacht naar het oordeel van de Commissie aan te merken als een vermoeden van een misstand als bedoeld in het [Besluit melden vermoeden misstand Rijk en Politie](https://wetten.overheid.nl/jci1.3:c:BWBR0026951) van 15 december 2009 dan wel als bedoeld in de [Interne klokkenluidersregeling Rijk, Politie en Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0038940) van 21 december 2016, die te goeder trouw en op goede gronden is aangekaart?
+- b) viel de klacht naar het oordeel van de Commissie aan te merken als een vermoeden van een misstand als bedoeld in het [Besluit melden vermoeden misstand Rijk en Politie](https://wetten.overheid.nl/jci1.3:c:BWBR0026951) van 15 december 2009 dan wel als bedoeld in de [Interne klokkenluidersregeling Rijk, Politie en Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0038940) van 21 december 2016, die te goeder trouw en op goede gronden is aangekaart?
 
-- c). zo ja, is de klacht behandeld in overeenstemming met het [in onderdeel b bedoelde besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026951) dan wel de [in onderdeel b bedoelde klokkenluidersregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038940)?
+- c) zo ja, is de klacht behandeld in overeenstemming met het [in onderdeel b bedoelde besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026951) dan wel de [in onderdeel b bedoelde klokkenluidersregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038940)?
 
-- d). zo nee, is de klacht behandeld overeenkomstig de vereiste zorgvuldigheid en geldende richtlijnen?
+- d) zo nee, is de klacht behandeld overeenkomstig de vereiste zorgvuldigheid en geldende richtlijnen?
 
 4. De Commissie beoordeelt of de klacht op de daarvoor vereiste wijze is aangekaart, onderzocht en afgedaan.
 
@@ -80,9 +52,9 @@ In dit besluit wordt verstaan onder:
 
 3. Tot leden van de Commissie worden benoemd:
 
-- –. prof. dr. A. Nauta;
+- – prof. dr. A. Nauta;
 
-- –. W. Wind.
+- – W. Wind.
 
 4. De benoeming geschiedt voor de duur van de werkzaamheden van de Commissie.
 
@@ -167,5 +139,3 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de leden van de Commissie.

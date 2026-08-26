@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141181, houdende de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017"
 identifier: "BWBR0039965"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-21"
-last_updated: "2024-11-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039965"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "14164363"
-version_id: "24360632"
-internal_id: "C34957751"
-label_id: "14125274"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039965/2024-11-21/0"
-intitule_bron: "Stcrt.2017-50920"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-31"
-intitule_published: "2017-09-11"
-intitule_in_force: "2017-09-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-50920"
-original_signed_date: "2017-08-31"
-original_published_date: "2017-09-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-50920"
-entry_into_force_date: "2017-09-12"
-jci_1_3: "jci1.3:c:BWBR0039965&z=2024-11-21&g=2024-11-21"
-jci_1_0: "1.0:c:BWBR0039965&g=2024-11-21"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017"
-signed_date: "2017-08-31"
-entry_into_force: "2017-09-12"
+publicatiedatum: 2017-09-12
+laatste_update: 2024-11-21
+status: geldig
+toestand: 2024-11-21
+bron: "https://wetten.overheid.nl/BWBR0039965"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141181, houdende de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017)
-
-Gelet op de [artikelen 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=2), [8, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,25 +20,25 @@ Besluit:
 
 In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
-- **directeur:** een functionaris die, afzonderlijk of met een andere directeur, leiding geeft aan een of meer directies;
+- *directeur:* een functionaris die, afzonderlijk of met een andere directeur, leiding geeft aan een of meer directies;
 
-- **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=2&z=2024-11-21&g=2024-11-21);
+- *directie:* een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=2&z=2024-11-21&g=2024-11-21);
 
-- **Directieteam:** het Directieteam van de Nederlandse Arbeidsinspectie bestaat uit de inspecteur-generaal en de directeuren van de directies die ressorteren onder de inspecteur-generaal;
+- *Directieteam:* het Directieteam van de Nederlandse Arbeidsinspectie bestaat uit de inspecteur-generaal en de directeuren van de directies die ressorteren onder de inspecteur-generaal;
 
-- **inspecteur-generaal**: de inspecteur-generaal Nederlandse Arbeidsinspectie;
+- *inspecteur-generaal*: de inspecteur-generaal Nederlandse Arbeidsinspectie;
 
-- **jaarplan:** het jaarplan voor de gehele Nederlandse Arbeidsinspectie, genoemd in [artikel 8, tweede lid, tweede zin, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8);
+- *jaarplan:* het jaarplan voor de gehele Nederlandse Arbeidsinspectie, genoemd in [artikel 8, tweede lid, tweede zin, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8);
 
-- **opdrachtgever:** de functioneel leidinggevende van de programmamanager of de projectleider;
+- *opdrachtgever:* de functioneel leidinggevende van de programmamanager of de projectleider;
 
-- **portefeuille:** het totaal aan lijnverantwoordelijkheid van een directeur, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten en de al dan niet door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=3&z=2024-11-21&g=2024-11-21), of een samenstel daarvan;
+- *portefeuille:* het totaal aan lijnverantwoordelijkheid van een directeur, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten en de al dan niet door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=3&z=2024-11-21&g=2024-11-21), of een samenstel daarvan;
 
-- **portfolio:** het totaal aan programma’s en projecten van de Nederlandse Arbeidsinspectie gedurende een bepaalde periode;
+- *portfolio:* het totaal aan programma’s en projecten van de Nederlandse Arbeidsinspectie gedurende een bepaalde periode;
 
-- **programma:** een tijdelijke set van activiteiten en projecten die zijn gericht op het bereiken van een of meer samenhangende doelstellingen;
+- *programma:* een tijdelijke set van activiteiten en projecten die zijn gericht op het bereiken van een of meer samenhangende doelstellingen;
 
-- **project:** een project is een tijdelijk samenwerkingsverband waarbij binnen een bepaalde tijd wordt toegewerkt naar een door de opdrachtgever gesteld resultaat.
+- *project:* een project is een tijdelijk samenwerkingsverband waarbij binnen een bepaalde tijd wordt toegewerkt naar een door de opdrachtgever gesteld resultaat.
 
 #### § 2. Organisatie
 
@@ -202,9 +176,9 @@ Elk van de directeuren is verantwoordelijk voor:
 
 - i. het behandelen van klachten, meldingen, signalen en verzoeken over het niet naleven van wet- en regelgeving door werkgevers en werknemers betreffende het werkterrein van de Nederlandse Arbeidsinspectie voor zover niet behandeld door de directie Meldingen en Verzoeken, waaronder in geval worden begrepen:
 
-- 1°. het behandelen van klachten, meldingen, signalen en verzoeken om onderzoek als bedoeld in [artikel 24, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), en verzoeken tot vrijstelling of ontheffing als bedoeld in [artikel 30 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
+   - 1°. het behandelen van klachten, meldingen, signalen en verzoeken om onderzoek als bedoeld in [artikel 24, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), en verzoeken tot vrijstelling of ontheffing als bedoeld in [artikel 30 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
 
-- 2°. het behandelen van onderzoeken als bedoeld in [artikel 10 van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
+   - 2°. het behandelen van onderzoeken als bedoeld in [artikel 10 van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
 
 - j. het verrichten of laten verrichten van onderzoek bij arbeidsongevallen voor zover niet behandeld door de directie Meldingen en Verzoeken en het verrichten of laten verrichten van onderzoek bij arbeidsongevallen in bedrijven met een hoog risico op zware ongevallen;
 
@@ -212,11 +186,11 @@ Elk van de directeuren is verantwoordelijk voor:
 
 - l. het namens de minister uitvoeren van de volgende aan de minister opgedragen taken op grond van wet- en regelgeving op het terrein van arbeidsveiligheid, arbeidsgezondheid en productveiligheid:
 
-- 1°. het op hun verzoek aanwijzen van instellingen als certificatie- of keuringsinstelling die zijn belast met het verstrekken van certificaten dan wel het verrichten van keuringen in het belang van veiligheid en gezondheid in de arbeid, waaronder mede zijn begrepen beslissingen tot wijziging, schorsing en intrekking van aanwijzingen;
+   - 1°. het op hun verzoek aanwijzen van instellingen als certificatie- of keuringsinstelling die zijn belast met het verstrekken van certificaten dan wel het verrichten van keuringen in het belang van veiligheid en gezondheid in de arbeid, waaronder mede zijn begrepen beslissingen tot wijziging, schorsing en intrekking van aanwijzingen;
 
-- 2°. het uitoefenen van toezicht op en doen van onderzoek naar certificatie- en keuringsinstellingen;
+   - 2°. het uitoefenen van toezicht op en doen van onderzoek naar certificatie- en keuringsinstellingen;
 
-- 3°. het verrichten van onderzoek naar de werking van de stelsels van persoonsregistratie, certificering en keuringen;
+   - 3°. het verrichten van onderzoek naar de werking van de stelsels van persoonsregistratie, certificering en keuringen;
 
 - m. het zorgdragen voor de kwaliteitsontwikkeling binnen de vakgroep Programma- & Projectmanagement en de vakgroep Major Hazard Control;
 
@@ -258,15 +232,39 @@ De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
 - n. het behandelen of doen behandelen van klachten, meldingen, signalen en verzoeken over het niet naleven van wet- en regelgeving door werkgevers en werknemers betreffende het werkterrein van de Nederlandse Arbeidsinspectie, waaronder in ieder geval worden begrepen:
 
-- 1°. het behandelen of doen behandelen van klachten, meldingen, signalen en verzoeken om onderzoek als bedoeld in [artikel 24, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), en verzoeken tot vrijstelling of ontheffing als bedoeld in [artikel 30 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
+   - 1°. het behandelen of doen behandelen van klachten, meldingen, signalen en verzoeken om onderzoek als bedoeld in [artikel 24, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), en verzoeken tot vrijstelling of ontheffing als bedoeld in [artikel 30 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
 
-- 2°. het behandelen of doen behandelen van onderzoeken als bedoeld in [artikel 10 van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
+   - 2°. het behandelen of doen behandelen van onderzoeken als bedoeld in [artikel 10 van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
 
-- 3°. het verrichten of laten verrichten van onderzoek bij arbeidsongevallen;
+   - 3°. het verrichten of laten verrichten van onderzoek bij arbeidsongevallen;
 
-- o. vervallen;
+- o. *vervallen;*
 
 - p. het opstellen van bestuursdwangbeschikkingen ter handhaving van de medewerkingsplicht als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover dit niet is voorbehouden aan de directeur Toezicht.
+
+##### Artikel 8a. Verantwoordelijkheden directeur Informatievoorziening
+
+De directeur Informatievoorziening is verantwoordelijk voor:
+
+- a. de regie op de strategische informatievoorziening in brede zin;
+
+- b. het voorzien in advies en beleid op het gebied van informatievoorziening, informatiehuishouding, data governance, integrale veiligheid en privacy;
+
+- c. het voorzien in advies op de gebieden informatiemanagement en businessconsultancy;
+
+- d. het ontwikkelen en leveren van informatie- en dataproducten;
+
+- e. het doen van analyse en onderzoek;
+
+- f. het voorzien in instrumenten en processen voor innovatie met data;
+
+- g. het beheer, de doorontwikkeling, de vernieuwing en de exploitatie van ICT-, informatie- en datavoorzieningen;
+
+- h. het leveren van IV-dienstverlening;
+
+- i. het coördineren van het procesmanagement;
+
+- j. het voorzien in leveranciersmanagement, contractmanagement en relatiebeheer ten behoeve van de informatievoorziening.
 
 ##### Artikel 9. Verantwoordelijkheden directeur Opsporing
 
@@ -296,7 +294,7 @@ De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
 4. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.
 
-5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– inclusief BTW per overeenkomst:
+5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– inclusief BTW per overeenkomst:
 
 - a. overeenkomsten welke gebaseerd zijn op een raamovereenkomst;
 
@@ -304,7 +302,7 @@ De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
 - c. overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder de directe verantwoordelijkheid van het departementale management worden verricht;
 
-- d. vervallen;
+- d. *vervallen;*
 
 - e. overeenkomsten met betrekking tot raden en commissies;
 
@@ -344,6 +342,12 @@ De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
 4. De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.
 
+##### Artikel 12a. Plaatsvervanging
+
+1. Bij afwezigheid of verhindering van de inspecteur-generaal worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de inspecteur-generaal geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+
+2. Bij afwezigheid of verhindering van zowel de inspecteur-generaal als de plaatsvervangend inspecteur-generaal worden, voor de duur van de afwezigheid, de taken en bevoegdheden van de inspecteur-generaal geheel of gedeeltelijk waargenomen door een daartoe door de inspecteur-generaal aan te wijzen directeur.
+
 #### § 5. Slotbepalingen
 
 ##### Artikel 13. Intrekking en wijziging grondslag regeling
@@ -354,46 +358,8 @@ De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
 
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Verantwoordelijkheden directeur Informatievoorziening
-
-De directeur Informatievoorziening is verantwoordelijk voor:
-
-- a. de regie op de strategische informatievoorziening in brede zin;
-
-- b. het voorzien in advies en beleid op het gebied van informatievoorziening, informatiehuishouding, data governance, integrale veiligheid en privacy;
-
-- c. het voorzien in advies op de gebieden informatiemanagement en businessconsultancy;
-
-- d. het ontwikkelen en leveren van informatie- en dataproducten;
-
-- e. het doen van analyse en onderzoek;
-
-- f. het voorzien in instrumenten en processen voor innovatie met data;
-
-- g. het beheer, de doorontwikkeling, de vernieuwing en de exploitatie van ICT-, informatie- en datavoorzieningen;
-
-- h. het leveren van IV-dienstverlening;
-
-- i. het coördineren van het procesmanagement;
-
-- j. het voorzien in leveranciersmanagement, contractmanagement en relatiebeheer ten behoeve van de informatievoorziening.
-
-#### § 4. Bevoegdheden
-
-##### Artikel 12a. Plaatsvervanging
-
-1. Bij afwezigheid of verhindering van de inspecteur-generaal worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de inspecteur-generaal geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
-
-2. Bij afwezigheid of verhindering van zowel de inspecteur-generaal als de plaatsvervangend inspecteur-generaal worden, voor de duur van de afwezigheid, de taken en bevoegdheden van de inspecteur-generaal geheel of gedeeltelijk waargenomen door een daartoe door de inspecteur-generaal aan te wijzen directeur.
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

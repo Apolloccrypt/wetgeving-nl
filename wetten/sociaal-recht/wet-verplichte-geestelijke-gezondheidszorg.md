@@ -1,47 +1,18 @@
 ---
 title: "Wet van 24 januari 2018, houdende regels voor het kunnen verlenen van verplichte zorg aan een persoon met een psychische stoornis (Wet verplichte geestelijke gezondheidszorg)"
+citeertitel: "Wet verplichte geestelijke gezondheidszorg"
 identifier: "BWBR0040635"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040635"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "14550053"
-version_id: "24901522"
-internal_id: "C37367211"
-label_id: "14505844"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040635/2025-07-01/0"
-intitule_bron: "Stb.2018-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-01-24"
-intitule_published: "2018-02-16"
-intitule_in_force: "2019-11-29"
-intitule_status: "goed"
-original_publication: "Stb.2018-37"
-original_signed_date: "2018-01-24"
-original_published_date: "2018-02-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "32399"
-original_url_id: "stb-2018-37"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0040635&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0040635&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet verplichte geestelijke gezondheidszorg"
-signed_date: "2018-01-24"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0040635"
+opgehaald: 2026-08-26
 ---
+
 # Wet van 24 januari 2018, houdende regels voor het kunnen verlenen van verplichte zorg aan een persoon met een psychische stoornis (Wet verplichte geestelijke gezondheidszorg)
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen voor het als uiterste middel verlenen van verplichte zorg op maat aan personen met een psychische stoornis, die aansluiten bij ontwikkelingen in de geestelijke gezondheidszorg en internationale ontwikkelingen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,61 +20,61 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **accommodatie:** bouwkundige voorziening of een deel van een bouwkundige voorziening met het daarbij behorende terrein van een zorgaanbieder waar zorg wordt verleend;
+- b. *accommodatie:* bouwkundige voorziening of een deel van een bouwkundige voorziening met het daarbij behorende terrein van een zorgaanbieder waar zorg wordt verleend;
 
-- c. **advocaat:** advocaat als bedoeld in [artikel 9a van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9a);
+- c. *advocaat:* advocaat als bedoeld in [artikel 9a van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9a);
 
-- d. **bestuur van de raad voor rechtsbijstand:** bestuur van de raad voor rechtsbijstand als bedoeld in [hoofdstuk II van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II);
+- d. *bestuur van de raad voor rechtsbijstand:* bestuur van de raad voor rechtsbijstand als bedoeld in [hoofdstuk II van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II);
 
-- e. **crisismaatregel:** door de burgemeester opgelegde maatregel als bedoeld in [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=7&paragraaf=1&artikel=7:1&z=2025-07-01&g=2025-07-01) om verplichte zorg te verlenen;
+- e. *crisismaatregel:* door de burgemeester opgelegde maatregel als bedoeld in [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=7&paragraaf=1&artikel=7:1&z=2025-07-01&g=2025-07-01) om verplichte zorg te verlenen;
 
-- f. **criteria voor verplichte zorg:** criteria als bedoeld in [artikel 3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:3&z=2025-07-01&g=2025-07-01);
+- f. *criteria voor verplichte zorg:* criteria als bedoeld in [artikel 3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:3&z=2025-07-01&g=2025-07-01);
 
-- g. **doel van verplichte zorg:** doel als bedoeld in [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:4&z=2025-07-01&g=2025-07-01);
+- g. *doel van verplichte zorg:* doel als bedoeld in [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:4&z=2025-07-01&g=2025-07-01);
 
-- h. **familievertrouwenspersoon:** familievertrouwenspersoon als bedoeld in [artikel 12:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=12&artikel=12:1&z=2025-07-01&g=2025-07-01);
+- h. *familievertrouwenspersoon:* familievertrouwenspersoon als bedoeld in [artikel 12:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=12&artikel=12:1&z=2025-07-01&g=2025-07-01);
 
-- i. **geneesheer-directeur:** arts als bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251), aangewezen door en in dienst van de zorgaanbieder en verantwoordelijk voor de algemene gang van zaken op het terrein van zorg en de verlening van verplichte zorg;
+- i. *geneesheer-directeur:* arts als bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251), aangewezen door en in dienst van de zorgaanbieder en verantwoordelijk voor de algemene gang van zaken op het terrein van zorg en de verlening van verplichte zorg;
 
-- j. **gezinsvoogdijwerker:** medewerker van een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), belast met het uitvoeren van de ondertoezichtstelling, bedoeld in [artikel 255 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255) en de voorlopige ondertoezichtstelling, bedoeld in [artikel van 257 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257);
+- j. *gezinsvoogdijwerker:* medewerker van een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), belast met het uitvoeren van de ondertoezichtstelling, bedoeld in [artikel 255 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255) en de voorlopige ondertoezichtstelling, bedoeld in [artikel van 257 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257);
 
-- k. **huisregels:** huisregels als bedoeld in [artikel 8:15](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=4&artikel=8:15&z=2025-07-01&g=2025-07-01);
+- k. *huisregels:* huisregels als bedoeld in [artikel 8:15](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=4&artikel=8:15&z=2025-07-01&g=2025-07-01);
 
-- i. **inspectie:** Inspectie gezondheidszorg en jeugd;
+- i. *inspectie:* Inspectie gezondheidszorg en jeugd;
 
-- m. **klachtencommissie:** klachtencommissie als bedoeld in [artikel 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=10&paragraaf=1&artikel=10:1&z=2025-07-01&g=2025-07-01);
+- m. *klachtencommissie:* klachtencommissie als bedoeld in [artikel 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=10&paragraaf=1&artikel=10:1&z=2025-07-01&g=2025-07-01);
 
-- n. **klachtprocedure:** klachtprocedure als bedoeld in [artikel 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=10&paragraaf=2&artikel=10:3&z=2025-07-01&g=2025-07-01);
+- n. *klachtprocedure:* klachtprocedure als bedoeld in [artikel 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=10&paragraaf=2&artikel=10:3&z=2025-07-01&g=2025-07-01);
 
-- o. **machtiging tot voorzetting van de crisismaatregel:** rechterlijke machtiging om de crisismaatregel voort te zetten;
+- o. *machtiging tot voorzetting van de crisismaatregel:* rechterlijke machtiging om de crisismaatregel voort te zetten;
 
-- p. **nabestaande:** nabestaande als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
+- p. *nabestaande:* nabestaande als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
 
-- q. **patiëntenvertrouwenspersoon:** patiëntenvertrouwenspersoon als bedoeld in [artikel 11:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=11&artikel=11:1&z=2025-07-01&g=2025-07-01);
+- q. *patiëntenvertrouwenspersoon:* patiëntenvertrouwenspersoon als bedoeld in [artikel 11:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=11&artikel=11:1&z=2025-07-01&g=2025-07-01);
 
-- r. **regio:** regio als bedoeld in [artikel 8 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=8);
+- r. *regio:* regio als bedoeld in [artikel 8 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=8);
 
-- s. **tenuitvoerlegging:** er voor zorg dragen dat de zorgaanbieder kan beginnen met de uitvoering van de crisismaatregel, machtiging tot voortzetting van de crisismaatregel of zorgmachtiging;
+- s. *tenuitvoerlegging:* er voor zorg dragen dat de zorgaanbieder kan beginnen met de uitvoering van de crisismaatregel, machtiging tot voortzetting van de crisismaatregel of zorgmachtiging;
 
-- t. **verplichte zorg:** zorg als bedoeld in [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:1&z=2025-07-01&g=2025-07-01) en [artikel 3:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:2&z=2025-07-01&g=2025-07-01);
+- t. *verplichte zorg:* zorg als bedoeld in [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:1&z=2025-07-01&g=2025-07-01) en [artikel 3:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:2&z=2025-07-01&g=2025-07-01);
 
-- u. **vertegenwoordiger:** vertegenwoordiger als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=1&artikel=1:3&z=2025-07-01&g=2025-07-01);
+- u. *vertegenwoordiger:* vertegenwoordiger als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=1&artikel=1:3&z=2025-07-01&g=2025-07-01);
 
-- v. **zorg:** zorg als bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:2&z=2025-07-01&g=2025-07-01);
+- v. *zorg:* zorg als bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:2&z=2025-07-01&g=2025-07-01);
 
-- w. **zorgaanbieder:** een rechtspersoon die bedrijfsmatig of beroepsmatig zorg als bedoeld in [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:2&z=2025-07-01&g=2025-07-01) verleent, een organisatorisch verband van natuurlijke personen die bedrijfsmatig of beroepsmatig zorg als bedoeld in artikel 3:2 verlenen of doen verlenen, of een natuurlijk persoon die bedrijfsmatig zorg als bedoeld in artikel 3:2 doet verlenen;
+- w. *zorgaanbieder:* een rechtspersoon die bedrijfsmatig of beroepsmatig zorg als bedoeld in [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:2&z=2025-07-01&g=2025-07-01) verleent, een organisatorisch verband van natuurlijke personen die bedrijfsmatig of beroepsmatig zorg als bedoeld in artikel 3:2 verlenen of doen verlenen, of een natuurlijk persoon die bedrijfsmatig zorg als bedoeld in artikel 3:2 doet verlenen;
 
-- x. **zorgkaart:** zorgkaart als bedoeld in [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=4&artikel=5:12&z=2025-07-01&g=2025-07-01);
+- x. *zorgkaart:* zorgkaart als bedoeld in [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=4&artikel=5:12&z=2025-07-01&g=2025-07-01);
 
-- y. **zorgmachtiging:** rechterlijke machtiging om verplichte zorg te verlenen;
+- y. *zorgmachtiging:* rechterlijke machtiging om verplichte zorg te verlenen;
 
-- z. **zorgplan:** zorgplan als bedoeld in [artikel 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=4&artikel=5:13&z=2025-07-01&g=2025-07-01) of [artikel 9:4](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=9&paragraaf=1&artikel=9:4&z=2025-07-01&g=2025-07-01);
+- z. *zorgplan:* zorgplan als bedoeld in [artikel 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=4&artikel=5:13&z=2025-07-01&g=2025-07-01) of [artikel 9:4](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=9&paragraaf=1&artikel=9:4&z=2025-07-01&g=2025-07-01);
 
-- aa. **zorgverantwoordelijke:** degene die een geregistreerd beroep uitoefent als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) en die behoort tot een bij regeling van Onze Minister aangewezen categorie van deskundigen, verantwoordelijk voor de zorg;
+- aa. *zorgverantwoordelijke:* degene die een geregistreerd beroep uitoefent als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) en die behoort tot een bij regeling van Onze Minister aangewezen categorie van deskundigen, verantwoordelijk voor de zorg;
 
-- bb. **zorgverlener:** een natuurlijke persoon die beroepsmatig zorg verleent.
+- bb. *zorgverlener:* een natuurlijke persoon die beroepsmatig zorg verleent.
 
 2. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder «ernstig nadeel» verstaan, het bestaan van of het aanzienlijk risico op:
 
@@ -151,13 +122,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. indien betrokkene niet tot een redelijke waardering van zijn belangen ter zake van de uitoefening van deze rechten en plichten in staat is:
 
-- –. de curator of mentor, of indien deze ontbreekt,
+   - – de curator of mentor, of indien deze ontbreekt,
 
-- –. de gemachtigde, bedoeld onder a, of indien deze ontbreekt,
+   - – de gemachtigde, bedoeld onder a, of indien deze ontbreekt,
 
-- –. de echtgenoot, geregistreerde partner of andere levensgezel, of indien deze dat niet wenst of deze ontbreekt,
+   - – de echtgenoot, geregistreerde partner of andere levensgezel, of indien deze dat niet wenst of deze ontbreekt,
 
-- –. een ouder, kind, broer, zus, grootouder of kleinkind, tenzij deze dat niet wenst, of deze ontbreekt.
+   - – een ouder, kind, broer, zus, grootouder of kleinkind, tenzij deze dat niet wenst, of deze ontbreekt.
 
 4. Indien betrokkene niet tot een redelijke waardering van zijn belangen ter zake van de uitoefening van zijn rechten en plichten op grond van deze wet in staat is en geen vertegenwoordiger als bedoeld in de vorige leden optreedt, doet de zorgaanbieder een verzoek voor een mentorschap als bedoeld in [artikel 451, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=451).
 
@@ -693,7 +664,7 @@ De geneesheer-directeur verstrekt de op grond van [artikel 5:4, eerste lid, onde
 
 3. Indien uit de medische verklaring blijkt dat de psychische stoornis van betrokkene noodzaakt tot verplichte zorg en de aanvraag, bedoeld in het eerste of tweede lid, voldoende gemotiveerd is, dient de officier van justitie alsnog een verzoekschrift voor een zorgmachtiging bij de rechter in. De officier van justitie voegt de gemotiveerde aanvraag, bedoeld in het eerste lid of tweede lid, de medische verklaring, de gegevens, bedoeld in [artikel 5:4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=2&artikel=5:4&z=2025-07-01&g=2025-07-01), voor zover aanwezig het plan, bedoeld in [artikel 5:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=2&artikel=5:5&z=2025-07-01&g=2025-07-01), en het zorgplan alsmede de zorgkaart bij het verzoekschrift voor een zorgmachtiging. [Artikel 5:17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=5&artikel=5:17&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Paragraaf 6. De toepassing van [artikel 2.3 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3).
+#### Paragraaf 6. De toepassing van artikel 2.3 van de Wet forensische zorg.
 
 ##### Artikel 5:19
 
@@ -702,8 +673,6 @@ De geneesheer-directeur verstrekt de op grond van [artikel 5:4, eerste lid, onde
 2. Indien de rechter ambtshalve toepassing van [artikel 2.3, eerste lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3) overweegt, verzoekt hij de officier van justitie toepassing te geven aan het bepaalde in dit artikel.
 
 ### Hoofdstuk 6. Zorgmachtiging
-
-#### § 1. Afgifte zorgmachtiging
 
 ##### Artikel 6:1
 
@@ -811,15 +780,15 @@ De rechter verleent een zorgmachtiging voor de duur die noodzakelijk is om het d
 
 - a. zes maanden, indien het doel van verplichte zorg de gronden, bedoeld in [artikel 3:4, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=3&artikel=3:4&z=2025-07-01&g=2025-07-01), betreft;
 
-- b. twaalf maanden, indien het een zorgmachtiging betreft die aansluit op een zorgmachtiging als bedoeld in onderdeel a, of een rechterlijke machtiging op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700), zoals die luidde voor inwerkingtreding van deze wet, dan wel een plaatsing op grond van [artikel 37, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37), zoals dat artikellid luidde voor inwerkingtreding van de Wet verplichte geestelijke gezondheidszorg;
+- b. twaalf maanden, indien het een zorgmachtiging betreft die aansluit op een zorgmachtiging als bedoeld in onderdeel a, of een rechterlijke machtiging op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700), zoals die luidde voor inwerkingtreding van deze wet, dan wel een plaatsing op grond van [artikel 37, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37), zoals dat artikellid luidde voor inwerkingtreding van de Wet verplichte geestelijke gezondheidszorg;
 
 - c. twee jaar, indien het een aansluitende zorgmachtiging betreft voor een persoon die gedurende de afgelopen vijf jaar:
 
-- 1°. verplichte zorg heeft ontvangen;
+   - 1°. verplichte zorg heeft ontvangen;
 
-- 2°. opgenomen is geweest, respectievelijk zorg heeft ontvangen op grond van een eerder afgegeven machtiging tot voortzetting van de inbewaringstelling of rechterlijke machtiging op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700), zoals die luidde voor inwerkingtreding van deze wet; of
+   - 2°. opgenomen is geweest, respectievelijk zorg heeft ontvangen op grond van een eerder afgegeven machtiging tot voortzetting van de inbewaringstelling of rechterlijke machtiging op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700), zoals die luidde voor inwerkingtreding van deze wet; of
 
-- 3°. is geplaatst op grond van [artikel 37, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37), zoals dat artikellid luidde voor inwerkingtreding van deze wet.
+   - 3°. is geplaatst op grond van [artikel 37, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37), zoals dat artikellid luidde voor inwerkingtreding van deze wet.
 
 ##### Artikel 6:6
 
@@ -857,7 +826,7 @@ De rechter verleent een zorgmachtiging voor de duur die noodzakelijk is om het d
 
 3. De burgemeester neemt niet eerder een crisismaatregel dan nadat hij:
 
-- a. ervoor zorg heeft gedragen dat een psychiater, indien van toepassing volgens het vastgestelde model, bedoeld in het zesde lid, in een medische verklaring zijn bevindingen vermeldt inzake de actuele gezondheidstoestand van betrokkene, de noodzakelijk geachte vormen van verplichte zorg, en of de situatie, bedoeld in het eerste lid, zich voordoet, en
+- a. ervoor zorg heeft gedragen dat een psychiater, indien van toepassing volgens het vastgestelde model, bedoeld in het zesde lid, in een medische verklaring zijn bevindingen vermeldt inzake de actuele gezondheidstoestand van betrokkene, de noodzakelijk geachte vormen van verplichte zorg, en of de situatie, bedoeld in het eerste lid, zich voordoet, en
 
 - b. betrokkene, zo mogelijk, in de gelegenheid heeft gesteld om te worden gehoord.
 
@@ -1007,7 +976,7 @@ De machtiging tot voorzetting van de crisismaatregel heeft een geldigheidsduur v
 
 De machtiging tot voorzetting van de crisismaatregel vervalt indien:
 
-- a. de geldigheidsduur is verstreken, tenzij de officier van justitie voordat de geldigheidsduur is verstreken een verzoekschrift voor een zorgmachtiging als bedoeld in [artikel 7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=7&paragraaf=6&artikel=7:11&z=2025-07-01&g=2025-07-01), bij de rechter heeft ingediend, in welk geval de machtiging tot voorzetting van de crisismaatregel vervalt als de rechter op het verzoekschrift heeft beslist of door het verstrijken van de termijn, bedoeld in [artikel 6:2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=6&artikel=6:2&z=2025-07-01&g=2025-07-01), onderscheidenlijk, zodra de rechter onder toepassing van artikel 6:2, vierde lid, op het verzoekschrift heeft beslist;
+- a. de geldigheidsduur is verstreken, tenzij de officier van justitie voordat de geldigheidsduur is verstreken een verzoekschrift voor een zorgmachtiging als bedoeld in [artikel 7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=7&paragraaf=6&artikel=7:11&z=2025-07-01&g=2025-07-01), bij de rechter heeft ingediend, in welk geval de machtiging tot voorzetting van de crisismaatregel vervalt als de rechter op het verzoekschrift heeft beslist of door het verstrijken van de termijn, bedoeld in [artikel 6:2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=6&artikel=6:2&z=2025-07-01&g=2025-07-01), onderscheidenlijk, zodra de rechter onder toepassing van artikel 6:2, vierde lid, op het verzoekschrift heeft beslist;
 
 - b. de geneesheer-directeur een beslissing als bedoeld in [artikel 8:18](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=5&artikel=8:18&z=2025-07-01&g=2025-07-01) heeft genomen tot beëindiging van het verlenen van alle vormen van verplichte zorg op grond van een machtiging tot voorzetting van de crisismaatregel, zonder dat daaraan voorwaarden of beperkingen zijn verbonden.
 
@@ -1105,7 +1074,7 @@ De machtiging tot voorzetting van de crisismaatregel vervalt indien:
 
 - i. de voortgang van de uitvoering van het zorgplan;
 
-- j. de verplichte zorg die op grond van de crisismaatregel, machtiging tot voortzetting van de crisismaatregel, zorgmachtiging, [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=7&paragraaf=2&artikel=7:3&z=2025-07-01&g=2025-07-01) of [artikel 8:11](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=3&artikel=8:11&z=2025-07-01&g=2025-07-01) wordt verleend;
+- j. de verplichte zorg die op grond van de crisismaatregel, machtiging tot voortzetting van de crisismaatregel, zorgmachtiging, [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=7&paragraaf=2&artikel=7:3&z=2025-07-01&g=2025-07-01) of [artikel 8:11](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=3&artikel=8:11&z=2025-07-01&g=2025-07-01) wordt verleend;
 
 - k. de behandeling op grond van [artikel 9:6](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=9&paragraaf=1&artikel=9:6&z=2025-07-01&g=2025-07-01), het toepassen van middelen of maatregelen als bedoeld in [artikel 9:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=9&paragraaf=1&artikel=9:8&z=2025-07-01&g=2025-07-01), of het opleggen van beperkingen als bedoeld in [artikel 9:9](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=9&paragraaf=1&artikel=9:9&z=2025-07-01&g=2025-07-01);
 
@@ -1121,7 +1090,7 @@ De machtiging tot voorzetting van de crisismaatregel vervalt indien:
 
 - q. andere schriftelijke wilsuitingen inzake zorg, dan bedoeld in onderdeel f, o of p.
 
-2. In het dossier houdt de zorgverantwoordelijke tevens aantekening van de verstrekking van gegevens zonder toestemming van betrokkene door de geneesheer-directeur, de burgemeester, de politie, de officier van justitie, en de zorgverantwoordelijke zelf, bedoeld in [artikel 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=6&artikel=8:29&z=2025-07-01&g=2025-07-01).
+2. In het dossier houdt de zorgverantwoordelijke tevens aantekening van de verstrekking van gegevens zonder toestemming van betrokkene door de geneesheer-directeur, de burgemeester, de politie, de officier van justitie, en de zorgverantwoordelijke zelf, bedoeld in [artikel 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=6&artikel=8:29&z=2025-07-01&g=2025-07-01).
 
 3. In afwijking van [artikel 455 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=455) vernietigt de zorgverantwoordelijke het dossier niet indien de zorgverantwoordelijke redelijkerwijs mag aannemen dat bewaring van het dossier van aanmerkelijk belang is voor betrokkene.
 
@@ -1215,7 +1184,7 @@ De zorgverantwoordelijke kan, indien er sprake is van verzet als bedoeld in [art
 
 - a. de officier van justitie besluit geen verzoekschrift in te dienen en dit aan de geneesheer-directeur heeft meegedeeld,
 
-- b. de rechter uitspraak heeft gedaan over het verzoekschrift voor een wijziging van een zorgmachtiging of door het verstrijken van de termijn, bedoeld in [artikel 6:2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=6&artikel=6:2&z=2025-07-01&g=2025-07-01), of
+- b. de rechter uitspraak heeft gedaan over het verzoekschrift voor een wijziging van een zorgmachtiging of door het verstrijken van de termijn, bedoeld in [artikel 6:2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=6&artikel=6:2&z=2025-07-01&g=2025-07-01), of
 
 - c. de rechter uitspraak heeft gedaan over het verzoekschrift voor een wijziging van een machtiging tot voortzetting van de crisismaatregel, of door het verstrijken van de termijn, bedoeld in [artikel 7:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=7&paragraaf=5&artikel=7:8&z=2025-07-01&g=2025-07-01).
 
@@ -1539,9 +1508,9 @@ In afwijking van [artikel 8:34](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&
 
 ##### Artikel 8:29
 
-1. Onverminderd andere verplichtingen tot het verstrekken van gegevens die voortvloeien uit deze wet, verstrekken de geneesheer-directeur, de zorgverantwoordelijke, de burgemeester, de politie en de officier van justitie elkaar gegevens voor zover dat strikt noodzakelijk is ter voorkoming of beperking van ernstig nadeel, en dit hoort bij de uitoefening van ieders taak op grond van deze wet.
+1. Onverminderd andere verplichtingen tot het verstrekken van gegevens die voortvloeien uit deze wet, verstrekken de geneesheer-directeur, de zorgverantwoordelijke, de burgemeester, de politie en de officier van justitie elkaar gegevens voor zover dat strikt noodzakelijk is ter voorkoming of beperking van ernstig nadeel, en dit hoort bij de uitoefening van ieders taak op grond van deze wet.
 
-2. De geneesheer-directeur, de burgemeester, de politie en de officier van justitie stellen de zorgverantwoordelijke ten behoeve van diens taak op grond van [artikel 8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=2&artikel=8:4&z=2025-07-01&g=2025-07-01), op de hoogte indien zij op grond van het eerste lid gegevens over betrokkene uitwisselen zonder diens toestemming.
+2. De geneesheer-directeur, de burgemeester, de politie en de officier van justitie stellen de zorgverantwoordelijke ten behoeve van diens taak op grond van [artikel 8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=8&paragraaf=2&artikel=8:4&z=2025-07-01&g=2025-07-01), op de hoogte indien zij op grond van het eerste lid gegevens over betrokkene uitwisselen zonder diens toestemming.
 
 ##### Artikel 8:30
 
@@ -1587,7 +1556,7 @@ In afwijking van [artikel 8:34](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&
 
 ##### Artikel 8:34
 
-De officier van justitie, de politie, de rechter, de zorgaanbieder, de geneesheer-directeur, de zorgverantwoordelijke, de burgemeester, het college van burgemeester en wethouders, de psychiater, bedoeld in [artikel 5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=3&artikel=5:7&z=2025-07-01&g=2025-07-01), alsmede de medewerkers van de hiervoor genoemde personen zijn tot geheimhouding verplicht van hetgeen in de uitoefening van hun taak aan hen is toevertrouwd, tenzij uit hun taak op grond van deze wet de noodzaak tot mededeling voortvloeit of enig ander wettelijk voorschrift hen tot mededeling verplicht.
+De officier van justitie, de politie, de rechter, de zorgaanbieder, de geneesheer-directeur, de zorgverantwoordelijke, de burgemeester, het college van burgemeester en wethouders, de psychiater, bedoeld in [artikel 5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=3&artikel=5:7&z=2025-07-01&g=2025-07-01), alsmede de medewerkers van de hiervoor genoemde personen zijn tot geheimhouding verplicht van hetgeen in de uitoefening van hun taak aan hen is toevertrouwd, tenzij uit hun taak op grond van deze wet de noodzaak tot mededeling voortvloeit of enig ander wettelijk voorschrift hen tot mededeling verplicht.
 
 ### Hoofdstuk 9. Bijzondere bepalingen ten aanzien van personen met een strafrechtelijke titel
 
@@ -2001,11 +1970,11 @@ De patiëntenvertrouwenspersoon kan zich op grond van zijn geheimhoudingsplicht 
 
 - b. te bemiddelen tussen:
 
-- 1°. de familie en naasten,
+   - 1°. de familie en naasten,
 
-- 2°. de zorgaanbieder, de geneesheer-directeur en de zorgverantwoordelijke, en
+   - 2°. de zorgaanbieder, de geneesheer-directeur en de zorgverantwoordelijke, en
 
-- 3°. betrokkene.
+   - 3°. betrokkene.
 
 3. De familievertrouwenspersoon brengt ten minste eenmaal per jaar een rapport en advies uit aan de zorgaanbieder ten behoeve van het kwaliteitsbeleid.
 
@@ -2063,9 +2032,9 @@ De familievertrouwenspersoon heeft vrije toegang tot betrokkene en behoeft geen 
 
 2. Indien verplichte zorg wordt verleend of de inspectie een gegrond vermoeden heeft dat verplichte zorg wordt verleend, zijn de met het toezicht belaste ambtenaren bij de bevoegdheden, genoemd in de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), tevens bevoegd, met medeneming van de benodigde apparatuur, een woning of verblijfsruimte binnen te treden zonder toestemming van de bewoner, voor zover dat noodzakelijk is voor het toezicht op de verplichte zorg in de woning of verblijfsruimte. Zij beschikken niet over de bevoegdheden, bedoeld in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-3. De aan de met het toezicht belaste ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op dossiers van betrokkenen.
+3. De aan de met het toezicht belaste ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op dossiers van betrokkenen.
 
-4. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de met het toezicht belaste ambtenaren. Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar.
+4. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de met het toezicht belaste ambtenaren. Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar.
 
 5. De zorgaanbieder stelt de met het toezicht belaste ambtenaren in de gelegenheid met betrokkene te spreken, al of niet op verzoek van betrokkene.
 
@@ -2173,7 +2142,7 @@ De familievertrouwenspersoon heeft vrije toegang tot betrokkene en behoeft geen 
 
 ##### Artikel 13:4
 
-1. Onze Minister kan een bestuurlijke boete van ten hoogste € 33.500 opleggen ter zake van overtreding van regels gesteld bij of krachtens artikel:
+1. Onze Minister kan een bestuurlijke boete van ten hoogste € 33.500 opleggen ter zake van overtreding van regels gesteld bij of krachtens artikel:
 
 - a. [1:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=1&artikel=1:2&z=2025-07-01&g=2025-07-01);
 
@@ -2187,7 +2156,7 @@ De familievertrouwenspersoon heeft vrije toegang tot betrokkene en behoeft geen 
 
 - f. [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=2&artikel=2:3&z=2025-07-01&g=2025-07-01);
 
-- g. [2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=2&artikel=2:4&z=2025-07-01&g=2025-07-01);
+- g. [2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=2&artikel=2:4&z=2025-07-01&g=2025-07-01);
 
 - h. [5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5&paragraaf=2&artikel=5:4&z=2025-07-01&g=2025-07-01);
 
@@ -2349,123 +2318,123 @@ De familievertrouwenspersoon heeft vrije toegang tot betrokkene en behoeft geen 
 
 ##### Artikel 14:1
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 14:2
 
-Wijzigt de Jeugdwet.
+*Wijzigt de Jeugdwet.*
 
 ##### Artikel 14:3
 
-Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapten cliënten.
+*Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapten cliënten.*
 
 ##### Artikel 14:4
 
-Wijzigt de Wet forensische zorg.
+*Wijzigt de Wet forensische zorg.*
 
 ##### Artikel 14:5
 
-Wijzigt de Algemene nabestaandenwet.
+*Wijzigt de Algemene nabestaandenwet.*
 
 ##### Artikel 14:6
 
-Wijzigt de Algemene Ouderdomswet.
+*Wijzigt de Algemene Ouderdomswet.*
 
 ##### Artikel 14:7
 
-Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel 14:8
 
-Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
+*Wijzigt de Beginselenwet verpleging ter beschikking gestelden.*
 
 ##### Artikel 14:9
 
-Wijzigt het Burgerlijk Wetboek Boek 1.
+*Wijzigt het Burgerlijk Wetboek Boek 1.*
 
 ##### Artikel 14:10
 
-Wijzigt de Geneesmiddelenwet.
+*Wijzigt de Geneesmiddelenwet.*
 
 ##### Artikel 14:11
 
-Wijzigt de Invoerings- en aanpassingswet Politiewet 2012.
+*Wijzigt de Invoerings- en aanpassingswet Politiewet 2012.*
 
 ##### Artikel 14:12
 
-Wijzigt de Participatiewet.
+*Wijzigt de Participatiewet.*
 
 ##### Artikel 14:12a
 
-Wijzigt de Wet maatschappelijke ondersteuning 2015.
+*Wijzigt de Wet maatschappelijke ondersteuning 2015.*
 
 ##### Artikel 14:13
 
-Wijzigt de Penitentiaire beginselenwet.
+*Wijzigt de Penitentiaire beginselenwet.*
 
 ##### Artikel 14:14
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
 ##### Artikel 14:15
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+*Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.*
 
 ##### Artikel 14:16
 
-Wijzigt de Wet DNA-onderzoek bij veroordeelden.
+*Wijzigt de Wet DNA-onderzoek bij veroordeelden.*
 
 ##### Artikel 14:17
 
-Wijzigt de Wet justitiële en strafvorderlijke gegevens.
+*Wijzigt de Wet justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel 14:18
 
-Wijzigt de Wet langdurige zorg.
+*Wijzigt de Wet langdurige zorg.*
 
 ##### Artikel 14:19
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel 14:20
 
-Wijzigt de Wet op de rechtsbijstand.
+*Wijzigt de Wet op de rechtsbijstand.*
 
 ##### Artikel 14:21
 
-Wijzigt de Wet studiefinanciering 2000.
+*Wijzigt de Wet studiefinanciering 2000.*
 
 ##### Artikel 14:22
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+*Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.*
 
 ##### Artikel 14:23
 
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+*Wijzigt de Wet werk en inkomen naar arbeidsvermogen.*
 
 ##### Artikel 14:24
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel 14:25
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel 14:26
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 14:27
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel 14:28
 
-Wijzigt de Wijzigingswet Wet marktordening gezondheidszorg, enz. (aanpassingen tarief- en prestatieregulering en markttoezicht).
+*Wijzigt de Wijzigingswet Wet marktordening gezondheidszorg, enz. (aanpassingen tarief- en prestatieregulering en markttoezicht).*
 
 ##### Artikel 14:29
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ### Hoofdstuk 15. Overgangsbepalingen
 
@@ -2512,71 +2481,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit bepaal
 ##### Artikel 16:4
 
 Deze wet wordt aangehaald als: Wet verplichte geestelijke gezondheidszorg.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 7. Crisismaatregel, machtiging tot voortzetting daarvan en aansluitend verzoek voor een zorgmachtiging
-
-#### Paragraaf 1. Crisismaatregel door de burgemeester
-
-#### Paragraaf 2. Tijdelijke verplichte zorg voorafgaand aan een crisismaatregel
-
-#### Paragraaf 3. Geldigheidsduur
-
-#### Paragraaf 4. Beroep
-
-#### Paragraaf 5. Verlenging crisismaatregel
-
-#### Paragraaf 6. Verzoek zorgmachtiging aansluitend op verlenging crisismaatregel
-
-### Hoofdstuk 8. Rechten en plichten bij de tenuitvoerlegging en uitvoering van de crisismaatregel, machtiging tot voortzetting van de crisismaatregel en zorgmachtiging.
-
-#### Paragraaf 1. Tenuitvoerlegging en uitvoering van de crisismaatregel, machtiging tot voortzetting crisismaatregel en zorgmachtiging
-
-#### Paragraaf 2. Uitvoering van de crisismaatregel, machtiging tot voortzetting crisismaatregel en zorgmachtiging
-
-#### Paragraaf 3. Tijdelijke verplichte zorg in noodsituaties
-
-#### Paragraaf 4. Veiligheidsonderzoek en huisregels
-
-#### Paragraaf 5. Overplaatsing, tijdelijke onderbreking en beëindiging
-
-#### Paragraaf 6. Gegevensverwerking
-
-### Hoofdstuk 9. Bijzondere bepalingen ten aanzien van personen met een strafrechtelijke titel
-
-#### Paragraaf 1. Personen met een strafrechtelijke titel die worden geplaatst in een accommodatie
-
-#### Paragraaf 2. Vaststellen identiteit forensische patiënten
-
-### Hoofdstuk 10. Klachtenprocedure en schadevergoeding
-
-#### Paragraaf 1. Instelling en taakomschrijving van de klachtencommissie
-
-#### Paragraaf 2. De klachtprocedure
-
-#### Paragraaf 3. Beroep
-
-#### Paragraaf 4. Schadevergoeding
-
-#### Paragraaf 5. Geheimhouding
-
-### Hoofdstuk 11. Patiëntenvertrouwenspersoon
-
-### Hoofdstuk 12. Familievertrouwenspersoon
-
-### Hoofdstuk 13. Toezicht en handhaving
-
-#### Paragraaf 1. Toezicht
-
-#### Paragraaf 2. Bestuursrechtelijke handhaving
-
-#### Paragraaf 3. Strafrechtelijke handhaving
-
-### Hoofdstuk 14. Aanpassing andere wetgeving
-
-### Hoofdstuk 15. Overgangsbepalingen
-
-### Hoofdstuk 16. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 6 december 2017, nr. IENM/BSK-2017/267441, houdende vaststelling van de vereiste kennis, bedrevenheid en ervaring van bedieners van luchtvaartstations en vluchtinformatieverstrekkers, de goedkeuring van de desbetreffende opleidingenplannen, alsmede de certificering van opleidingsinstellingen voor vluchtinformatieverstrekkers (Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers)"
+citeertitel: "Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers"
 identifier: "BWBR0040324"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-09"
-last_updated: "2026-01-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040324"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14440843"
-version_id: "31294622"
-internal_id: "C44741451"
-label_id: "14401984"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040324/2026-01-09/0"
-intitule_bron: "Stcrt.2017-69883"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-06"
-intitule_published: "2017-12-07"
-intitule_in_force: "2017-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44291"
-original_signed_date: "2025-12-08"
-original_published_date: "2025-12-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-44291"
-entry_into_force_date: "2025-12-08"
-jci_1_3: "jci1.3:c:BWBR0040324&z=2026-01-09&g=2026-01-09"
-jci_1_0: "1.0:c:BWBR0040324&g=2026-01-09"
-citeertitel_status: "officieel"
-short_title: "Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers"
-signed_date: "2025-12-08"
-entry_into_force: "2025-12-08"
+publicatiedatum: 2025-12-08
+laatste_update: 2026-01-09
+status: geldig
+toestand: 2026-01-09
+bron: "https://wetten.overheid.nl/BWBR0040324"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 6 december 2017, nr. IENM/BSK-2017/267441, houdende vaststelling van de vereiste kennis, bedrevenheid en ervaring van bedieners van luchtvaartstations en vluchtinformatieverstrekkers, de goedkeuring van de desbetreffende opleidingenplannen, alsmede de certificering van opleidingsinstellingen voor vluchtinformatieverstrekkers (Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers)
-
-Gelet op de [artikelen 20, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=20), [21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=21), [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=22c), [22d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=22d), [24a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24a), en [24d van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24d);
-
-BESLUIT:
 
 #### § 1. Algemene bepalingen
 
@@ -46,43 +20,44 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **aantekening OJTI:** op het bewijs van bevoegdheid aangebrachte en van dat bewijs deel uitmakende aantekening, als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18), of [artikel 18a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a) die aangeeft dat de houder bevoegd is om opleiding op de werkplek en opleiding met synthetische opleidingstoestellen te geven;
+- *aantekening OJTI:* op het bewijs van bevoegdheid aangebrachte en van dat bewijs deel uitmakende aantekening, als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18), of [artikel 18a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a) die aangeeft dat de houder bevoegd is om opleiding op de werkplek en opleiding met synthetische opleidingstoestellen te geven;
 
-- **aantekening STDI:** op het bewijs van bevoegdheid aangebrachte en van dat bewijs deel uitmakende aantekening, als bedoeld in [artikel 18a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a) die aangeeft dat de houder bevoegd is om opleiding met synthetische opleidingstoestellen te geven;
+- *aantekening STDI:* op het bewijs van bevoegdheid aangebrachte en van dat bewijs deel uitmakende aantekening, als bedoeld in [artikel 18a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a) die aangeeft dat de houder bevoegd is om opleiding met synthetische opleidingstoestellen te geven;
 
-- **assessment:** beoordeling overeenkomstig artikel 4, onderdeel 6, van verordening (EU) nr. 2015/340;
+- *assessment:* beoordeling overeenkomstig artikel 4, onderdeel 6, van verordening (EU) nr. 2015/340;
 
-- **assessor:** persoon met de aantekening assessor of met de op het bewijs van bevoegdheid aangebrachte en van dat bewijs deel uitmakende aantekening, als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18), of [artikel 18a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a) die aangeeft dat de houder bevoegd is om de praktische vaardigheden van bedieners en leerling-bedieners van een luchtvaartstation of vluchtinformatieverstrekkers en leerling-vluchtinformatieverstrekkers te beoordelen;
+- *assessor:* persoon met de aantekening assessor of met de op het bewijs van bevoegdheid aangebrachte en van dat bewijs deel uitmakende aantekening, als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18), of [artikel 18a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a) die aangeeft dat de houder bevoegd is om de praktische vaardigheden van bedieners en leerling-bedieners van een luchtvaartstation of vluchtinformatieverstrekkers en leerling-vluchtinformatieverstrekkers te beoordelen;
 
-- **basisopleiding:** theorie- en praktijkopleiding die basiskennis en praktische vaardigheden in verband met elementaire operationele procedures bijbrengt;
+- *basisopleiding:* theorie- en praktijkopleiding die basiskennis en praktische vaardigheden in verband met elementaire operationele procedures bijbrengt;
 
-- **bekwaamhedenprogramma voor de eenheid (unit competence scheme):** goedgekeurd programma waarin de methode is omschreven waarmee de eenheid de vakbekwaamheden van de houders van een bewijs van bevoegdheid op peil houdt;
+- *bekwaamhedenprogramma voor de eenheid (unit competence scheme):* goedgekeurd programma waarin de methode is omschreven waarmee de eenheid de vakbekwaamheden van de houders van een bewijs van bevoegdheid op peil houdt;
 
-- **besluit:** [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629);
+- *besluit:*
+ [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629);
 
-- **eenheidsaantekening:** aantekening betreffende de eenheid als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18), of [artikel 18a, derde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a);
+- *eenheidsaantekening:* aantekening betreffende de eenheid als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18), of [artikel 18a, derde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a);
 
-- **examen:** formele test overeenkomstig artikel 4, onderdeel 10, van verordening (EU) nr. 2015/340;
+- *examen:* formele test overeenkomstig artikel 4, onderdeel 10, van verordening (EU) nr. 2015/340;
 
-- **gecertificeerde opleidingsinstelling:** een organisatie die door de minister is gecertificeerd voor het aanbieden van een of meer opleidingen tot vluchtinformatieverstrekker overeenkomstig de voorschriften bedoeld in verordening (EU) nr. 2015/340, Bijlage III, Deel ATCO.OR, subdelen A tot en met D;
+- *gecertificeerde opleidingsinstelling:* een organisatie die door de minister is gecertificeerd voor het aanbieden van een of meer opleidingen tot vluchtinformatieverstrekker overeenkomstig de voorschriften bedoeld in verordening (EU) nr. 2015/340, Bijlage III, Deel ATCO.OR, subdelen A tot en met D;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **opleiding:** geheel van theoretische cursussen, praktijkoefeningen, inclusief simulatie of opleidingen op de werkplek, dat vereist is voor het verkrijgen en in stand houden van de vereiste vaardigheden en alsmede de opleiding voor instructeurs of assessors;
+- *opleiding:* geheel van theoretische cursussen, praktijkoefeningen, inclusief simulatie of opleidingen op de werkplek, dat vereist is voor het verkrijgen en in stand houden van de vereiste vaardigheden en alsmede de opleiding voor instructeurs of assessors;
 
-- **opleiding voor een bevoegdverklaring:** theorie- en praktijkopleiding die de kennis en praktische vaardigheden bijbrengt voor een bepaalde bevoegdverklaring en, indien van toepassing, een aantekening bij die bevoegdverklaring;
+- *opleiding voor een bevoegdverklaring:* theorie- en praktijkopleiding die de kennis en praktische vaardigheden bijbrengt voor een bepaalde bevoegdverklaring en, indien van toepassing, een aantekening bij die bevoegdverklaring;
 
-- **opleiding voor de eenheid:** opleiding ter verkrijging van een bewijs van bevoegdheid voor vluchtinformatieverstrekker of bediener van een luchtvaartstation, een bevoegdverklaring, en indien van toepassing een aantekening bij die bevoegdverklaring alsmede de aantekening betreffende de eenheid met inbegrip van een overgangsopleiding voorafgaand aan een opleiding op de werkplek;
+- *opleiding voor de eenheid:* opleiding ter verkrijging van een bewijs van bevoegdheid voor vluchtinformatieverstrekker of bediener van een luchtvaartstation, een bevoegdverklaring, en indien van toepassing een aantekening bij die bevoegdverklaring alsmede de aantekening betreffende de eenheid met inbegrip van een overgangsopleiding voorafgaand aan een opleiding op de werkplek;
 
-- **opleiding op de werkplek:** fase van de opleiding overeenkomstig artikel 4, onderdeel 15, van verordening (EU) nr. 2015/340;
+- *opleiding op de werkplek:* fase van de opleiding overeenkomstig artikel 4, onderdeel 15, van verordening (EU) nr. 2015/340;
 
-- **part-task trainer (PTT):** synthetisch opleidingstoestel overeenkomstig artikel 4, onderdeel 17, van verordening (EU) nr. 2015/340;
+- *part-task trainer (PTT):* synthetisch opleidingstoestel overeenkomstig artikel 4, onderdeel 17, van verordening (EU) nr. 2015/340;
 
-- **simulator:** synthetisch opleidingstoestel overeenkomstig artikel 4, onderdeel 25, van verordening (EU) nr. 2015/340;
+- *simulator:* synthetisch opleidingstoestel overeenkomstig artikel 4, onderdeel 25, van verordening (EU) nr. 2015/340;
 
-- **synthetisch opleidingstoestel (STD):** ieder type toestel waarbij operationele omstandigheden worden nagebootst overeenkomstig artikel 4, onderdeel 26, van verordening (EU) nr. 2015/340;
+- *synthetisch opleidingstoestel (STD):* ieder type toestel waarbij operationele omstandigheden worden nagebootst overeenkomstig artikel 4, onderdeel 26, van verordening (EU) nr. 2015/340;
 
-- **voortgezette opleiding:** training gericht op het handhaven van de geldigheid van de bevoegdverklaringen en aantekeningen, bestaande uit herhalingsopleidingen en conversieopleidingen.
+- *voortgezette opleiding:* training gericht op het handhaven van de geldigheid van de bevoegdverklaringen en aantekeningen, bestaande uit herhalingsopleidingen en conversieopleidingen.
 
 ##### Artikel 2
 
@@ -146,6 +121,20 @@ Op de onder a en b bedoelde opleidingen is het tweede lid van overeenkomstige to
 
 11. Onverminderd het tiende lid kan tijdens een assessment voor een eenheidsaantekening gebruik worden gemaakt van een synthetisch opleidingstoestel om de toepassing van geoefende procedures aan te tonen die zich tijdens de beoordeling niet voordoen in de operationele omgeving.
 
+##### Artikel 3a
+
+De aanvrager voor de aantekening betreffende de taalvaardigheid bedoeld in [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=6&artikel=18&z=2026-01-09&g=2026-01-09), en artikel 18a, derde lid, onderdeel e, van het besluit toont ten overstaande van een instelling die een op grond van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=7&artikel=22&z=2026-01-09&g=2026-01-09), een taalvaardigheidsbeoordeling aanbiedt aan dat hij:
+
+- 1. doeltreffend communiceert zowel in situaties waarbij alleen de stem hoorbaar is (telefoon/radiotelefoon) als in face-to-face gesprekken;
+
+- 2. accuraat en duidelijk communiceert over algemene, concrete en werkgerelateerde onderwerpen;
+
+- 3. passende communicatiestrategieën gebruikt om boodschappen uit te wisselen en om misverstanden in het algemeen en in de werksituatie te herkennen en op te lossen;
+
+- 4. met goed gevolg en redelijk gemak de taalproblemen oplost die optreden wanneer zich complicaties of onverwachte gebeurtenissen voordoen in een gewone werksituatie of bij de uitvoering van een communicatieve taak waarmee hij vertrouwd is; en
+
+- 5. een taalvariant of accent gebruikt waarmee hij verstaanbaar is voor de luchtvaartgemeenschap.
+
 #### § 2. Afgifte, verlenging en vernieuwing
 
 ##### Artikel 4
@@ -171,6 +160,16 @@ Op de onder a en b bedoelde opleidingen is het tweede lid van overeenkomstige to
 7. Bij verlenging van de eenheidsaantekening vóór de in het zesde lid bedoelde periode, begint de geldigheidsperiode uiterlijk dertig dagen na de datum waarop de beoordeling met succes is voltooid, mits tevens is voldaan aan de vereisten, bedoeld in het derde lid, onderdelen a en b.
 
 8. Als een eenheidsaantekening vervalt, voltooit de houder van een ASO onderscheidenlijk een FISO de opleiding voor een eenheidsaantekening met succes om de aantekening te vernieuwen, overeenkomstig de vereisten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=8&z=2026-01-09&g=2026-01-09) onderscheidenlijk [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=13&z=2026-01-09&g=2026-01-09), waarbij een reeds goedgekeurde opleiding voor een eenheidsaantekening mag worden aangepast om in voorkomende gevallen rekening te houden met de bevoegdverklaringen of aantekeningen bij bevoegdverklaringen en ervaring van de houder.
+
+##### Artikel 4a
+
+1. De geldigheidsduur van taalvaardigheidsaantekeningen voor eerste afgifte en vernieuwing begint uiterlijk dertig dagen na de datum waarop de beoordeling van de taalvaardigheid met succes is voltooid.
+
+2. Taalvaardigheidsaantekeningen worden verlengd bij een succesvolle beoordeling van de taalvaardigheid in de drie maanden onmiddellijk voorafgaand aan de vervaldatum in welk geval de nieuwe geldigheidsperiode ingaat op voornoemde vervaldatum.
+
+3. Als de taalvaardigheidsaantekening wordt verlengd vóór de in het tweede lid genoemde periode, begint de geldigheidsperiode uiterlijk dertig dagen na de datum waarop de beoordeling van de taalvaardigheid met succes is voltooid.
+
+4. Als de geldigheid van een taalvaardigheidsaantekening verstrijkt, toont de houder van de aantekening met goed gevolg zijn taalvaardigheid aan om zijn aantekening te laten vernieuwen.
 
 #### § 3. Goedkeuring van opleidingenplannen voor het ASO
 
@@ -200,15 +199,15 @@ Een opleidingenplan ten behoeve van de opleiding voor een bevoegdverklaring voor
 
 - a. de onderwerpen, thema's en subthema's van ten minste één van de volgende bevoegdverklaringen, bedoeld in [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18):
 
-- 1. ADR (Aerodrome) overeenkomstig de eisen bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=2&z=2026-01-09&g=2026-01-09);
+   - 1. ADR (Aerodrome) overeenkomstig de eisen bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=2&z=2026-01-09&g=2026-01-09);
 
-- 2. TOW (Towing) overeenkomstig de eisen bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=3&z=2026-01-09&g=2026-01-09);
+   - 2. TOW (Towing) overeenkomstig de eisen bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=3&z=2026-01-09&g=2026-01-09);
 
-- 3. GCO (Ground Communications Officer) overeenkomstig de eisen bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=4&z=2026-01-09&g=2026-01-09);
+   - 3. GCO (Ground Communications Officer) overeenkomstig de eisen bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=4&z=2026-01-09&g=2026-01-09);
 
-- 4. DIS (Display) overeenkomstig de eisen bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=5&z=2026-01-09&g=2026-01-09);
+   - 4. DIS (Display) overeenkomstig de eisen bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=5&z=2026-01-09&g=2026-01-09);
 
-- 5. OFS (Offshore) overeenkomstig de eisen bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=6&z=2026-01-09&g=2026-01-09).
+   - 5. OFS (Offshore) overeenkomstig de eisen bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=6&z=2026-01-09&g=2026-01-09).
 
 - b. de praktijkopleiding die de praktische vaardigheden in verband met de operationele procedures bijbrengt.
 
@@ -234,7 +233,7 @@ Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een ASO be
 
 - c. prestatiedoelstellingen indien een onderwerp dient om de vaardigheden van bedieners van luchtvaartstations op te frissen.
 
-3. Indien uit een veiligheidsbeoordeling van de luchtverkeersdienstverleningsorganisatie waarbinnen de bediener van een luchtvaartstation werkzaam is blijkt dat wijzigingen in de operationele omgeving nieuwe kennis en vaardigheden noodzakelijk maken, ontwikkelt de opleidingsorganisatie een conversiecursus overeenkomstig de voorschriften bedoeld in [verordening (EU) nr. 2015/340](32015R0340), bijlage I, artikel ATCO.D.085.
+3. Indien uit een veiligheidsbeoordeling van de luchtverkeersdienstverleningsorganisatie waarbinnen de bediener van een luchtvaartstation werkzaam is blijkt dat wijzigingen in de operationele omgeving nieuwe kennis en vaardigheden noodzakelijk maken, ontwikkelt de opleidingsorganisatie een conversiecursus overeenkomstig de voorschriften bedoeld in verordening (EU) nr. 2015/340, bijlage I, artikel ATCO.D.085.
 
 4. Een conversiecursus bevat de volgende aspecten:
 
@@ -268,9 +267,9 @@ Een opleidingenplan ten behoeve van de opleiding voor een bevoegdverklaring voor
 
 - a. de onderwerpen, thema's en subthema's van ten minste één van de volgende bevoegdverklaringen, bedoeld in [artikel 18a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18a):
 
-- 1. ADR overeenkomstig de eisen bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=7&z=2026-01-09&g=2026-01-09);
+   - 1. ADR overeenkomstig de eisen bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=7&z=2026-01-09&g=2026-01-09);
 
-- 2. AER (SUR) overeenkomstig de eisen bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=8&z=2026-01-09&g=2026-01-09);
+   - 2. AER (SUR) overeenkomstig de eisen bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&bijlage=8&z=2026-01-09&g=2026-01-09);
 
 - b. praktijkopleiding die de praktische vaardigheden in verband met de operationele procedures bijbrengt.
 
@@ -388,7 +387,7 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 3. De goedkeuring wordt voor onbepaalde tijd verstrekt en blijft geldig zolang de instelling voldoet aan de in het eerste lid gestelde eisen.
 
-#### § 7. Goedkeuring beoordelingsprocedures taalvaardigheid
+#### § 8. Afgifte en verlenging aantekening betreffende de taalvaardigheid
 
 ##### Artikel 23
 
@@ -400,7 +399,7 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 4. Na het verlopen van de geldigheid van een taalvaardigheidsaantekening kan deze worden verlengd na een succesvolle beoordeling van de taalvaardigheid van de houder van het ASO of FISO.
 
-#### § 8. Afgifte en verlenging aantekening betreffende de taalvaardigheid
+#### § 9. Vereisten voor instructeur en assessor
 
 ##### Artikel 24
 
@@ -582,25 +581,25 @@ De methode waarmee de vakbekwaamheden van de houders van bewijzen van bevoegdhei
 
 - b. voor het ASO:
 
-- 1°. het toegestane maximum van de aaneengesloten periode waarin de rechten van een eenheidsaantekening niet worden uitgeoefend tijdens de geldigheidsperiode ervan. Met uitzondering van de bevoegdverklaring DIS, bedraagt deze periode hoogstens 6 maanden. Ten aanzien van de eenheidsaantekening bij de bevoegdverklaring DIS bedraagt deze periode hoogstens 12 maanden;
+   - 1°. het toegestane maximum van de aaneengesloten periode waarin de rechten van een eenheidsaantekening niet worden uitgeoefend tijdens de geldigheidsperiode ervan. Met uitzondering van de bevoegdverklaring DIS, bedraagt deze periode hoogstens 6 maanden. Ten aanzien van de eenheidsaantekening bij de bevoegdverklaring DIS bedraagt deze periode hoogstens 12 maanden;
 
-- 2°. het minimumaantal uren voor het uitoefenen van de rechten van de eenheidsaantekening binnen een bepaalde periode die ten hoogste 12 maanden bedraagt. Voor instructeurs voor opleidingen op de werkplek die de rechten van de aantekening OJTI, telt de tijd besteed aan het geven van opleiding mee voor ten hoogste 50% van de voor verlenging van de eenheidsaantekening vereiste uren;
+   - 2°. het minimumaantal uren voor het uitoefenen van de rechten van de eenheidsaantekening binnen een bepaalde periode die ten hoogste 12 maanden bedraagt. Voor instructeurs voor opleidingen op de werkplek die de rechten van de aantekening OJTI, telt de tijd besteed aan het geven van opleiding mee voor ten hoogste 50% van de voor verlenging van de eenheidsaantekening vereiste uren;
 
-- 3°. procedures in het geval de houder niet voldoet aan de vereisten van onderdeel 1 en 2;
+   - 3°. procedures in het geval de houder niet voldoet aan de vereisten van onderdeel 1 en 2;
 
-- 4°. procedures voor het assessment van de vakbekwaamheid, waaronder beoordeling van de thema's van herhalingsopleidingen;
+   - 4°. procedures voor het assessment van de vakbekwaamheid, waaronder beoordeling van de thema's van herhalingsopleidingen;
 
-- 5°. procedures voor de examinering van de theoretische kennis en inzichten die nodig zijn om de rechten van de bevoegdverklaringen en aantekeningen uit te oefenen;
+   - 5°. procedures voor de examinering van de theoretische kennis en inzichten die nodig zijn om de rechten van de bevoegdverklaringen en aantekeningen uit te oefenen;
 
-- 6°. procedures om de thema's en subthema's, doelstellingen en opleidingsmethoden van de voortgezette opleiding vast te stellen;
+   - 6°. procedures om de thema's en subthema's, doelstellingen en opleidingsmethoden van de voortgezette opleiding vast te stellen;
 
-- 7°. de minimumduur en -frequentie van de herhalingsopleiding;
+   - 7°. de minimumduur en -frequentie van de herhalingsopleiding;
 
-- 8°. procedures indien een kandidaat niet slaagt voor een examen of beoordeling, met inbegrip van de beroepsprocedures;
+   - 8°. procedures indien een kandidaat niet slaagt voor een examen of beoordeling, met inbegrip van de beroepsprocedures;
 
-- 9°. procedures voor het melden en beheren van gevallen van tijdelijke onbekwaamheid om de rechten van een vergunning uit te oefenen, evenals voor het in kennis stellen van de minister.
+   - 9°. procedures voor het melden en beheren van gevallen van tijdelijke onbekwaamheid om de rechten van een vergunning uit te oefenen, evenals voor het in kennis stellen van de minister.
 
-#### § 13. Handhaven vakbekwaamheid
+#### § 14. Slotbepalingen
 
 ##### Artikel 38
 
@@ -616,1312 +615,8 @@ De [Regeling examens en opleidingenplannen luchtverkeersdienstverlening en lucht
 
 ##### Artikel 41
 
-Deze regeling treedt in werking met ingang van 1 januari 2018.
+Deze regeling treedt in werking met ingang van 1 januari 2018.
 
 ##### Artikel 42
 
 Deze regeling wordt aangehaald als: Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers.
-
-## Bijlage 1. als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=6&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De basis opleiding voor het ASO bevat ten minste de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS ASO
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – REGELS EN PROCEDURES
-
-Subthema LAW 1.1 – Taken en bevoegdheden van de bediener van een luchtvaartstation
-
-Subthema LAW 1.2 – Wet- en regelgeving
-
-## Bijlage 2. als bedoeld in [artikel 7, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2018-07-01&g=2018-07-01), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De opleiding voor de bevoegdverklaring ADR bevat ten minste de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 3: METEOROLOGIE
-
-ONDERWERP 4: NAVIGATIE
-
-ONDERWERP 5: LUCHTVAARTUIGEN
-
-ONDERWERP 6: COMMUNICATIE
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS ASO/ADR
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – REGELS EN PROCEDURES
-
-Subthema LAW 1.1 – Taken en bevoegdheden van de luchthaveninformatieverstrekker
-
-Subthema LAW 1.2 – Meeteenheden
-
-Subthema LAW 1.3 – Overzicht luchtverkeersdiensten
-
-Subthema LAW 1.4 – Luchtverkeersregels
-
-Subthema LAW 1.5 – Luchtruim en ATS-routes algemeen
-
-Subthema LAW 1.6 – Hoogtemeting en niveau toewijzing
-
-Subthema LAW 1.7 – Luchthavens inrichting en uitrusting algemeen
-
-ONDERWERP 3: METEOROLOGIE
-
-THEMA MET 1 – INLEIDING TOT METEOROLOGIE
-
-Subthema MET 1.1 – Luchtvaart en meteorologie
-
-Subthema MET 1.2 – Organisatie van de meteorologische dienst
-
-THEMA MET 2 – METEOROLOGISCHE VERSCHIJNSELEN
-
-Subthema MET 2.1 – Wolken
-
-Subthema MET 2.2 – Neerslagtypes
-
-Subthema MET 2.3 – Zicht
-
-Subthema MET 2.4 – Wind
-
-Subthema MET 2.5 – Meteorologische gevaren
-
-THEMA MET 3 – METEOROLOGISCHE INFORMATIE VOOR DE LUCHTVAART
-
-Subthema MET 3.1 – Berichten en rapporteringen
-
-ONDERWERP 4: NAVIGATIE
-
-THEMA NAV 1 – KAARTEN EN LUCHTVAARTKAARTEN
-
-Subthema NAV 1.2 – In de luchtvaart gebruikte kaarten
-
-THEMA NAV 2 – INSTRUMENTNAVIGATIE
-
-Subthema NAV 2.1 – Systemen op de grond
-
-Subthema NAV 2.2 – Satellietgebaseerde systemen
-
-Subthema NAV 2.3 – Instrumentnaderingsprocedures
-
-ONDERWERP 5: LUCHTVAARTUIGEN
-
-THEMA ACFT 1 – PRESTATIEGEGEVENS IN ONGEBRUIKELIJKE SITUATIES
-
-Subthema ACFT 1.1 – Herkennen van ongebruikelijke situaties
-
-THEMA ACFT 2 – FACTOREN DIE VAN INVLOED ZIJN OP DE PRESTATIES VAN LUCHTVAARTUIGEN
-
-Subthema ACFT 2.1 – Factoren tijdens het opstijgen
-
-Subthema ACFT 2.2 – Factoren tijdens de eindnadering en landing
-
-THEMA ACFT 3 – LUCHTVAARTUIGGEGEVENS
-
-Subthema ACFT 3.1 – Herkenning
-
-THEMA ACFT 4 – ASPECTEN DIE DE OPERATIE KUNNEN BEINVLOEDEN
-
-Subthema ACFT 4.1 – Start- en landingsbaan geassocieerde items
-
-ONDERWERP 6: COMMUNICATIE
-
-THEMA COM 1 – VOICE COMMUNICATIE
-
-Subthema COM 1.1 – Kennis van de communicatiemiddelen
-
-Subthema COM 1.2 – Bediening van de communicatiemiddelen
-
-Subthema COM 1.3 – Radiotelefonie
-
-## Bijlage 1. als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=6&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De basis opleiding voor het ASO bevat ten minste de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS ASO
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – REGELS EN PROCEDURES
-
-Subthema LAW 1.1 – Taken en bevoegdheden van de bediener van een luchtvaartstation
-
-Subthema LAW 1.2 – Wet- en regelgeving
-
-## Bijlage 2. als bedoeld in [artikel 7, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De opleiding voor de bevoegdverklaring ADR bevat ten minste de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 3: METEOROLOGIE
-
-ONDERWERP 4: NAVIGATIE
-
-ONDERWERP 5: LUCHTVAARTUIGEN
-
-ONDERWERP 6: COMMUNICATIE
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS ASO/ADR
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – REGELS EN PROCEDURES
-
-Subthema LAW 1.1 – Taken en bevoegdheden van de luchthaveninformatieverstrekker
-
-Subthema LAW 1.2 – Meeteenheden
-
-Subthema LAW 1.3 – Overzicht luchtverkeersdiensten
-
-Subthema LAW 1.4 – Luchtverkeersregels
-
-Subthema LAW 1.5 – Luchtruim en ATS-routes algemeen
-
-Subthema LAW 1.6 – Hoogtemeting en niveau toewijzing
-
-Subthema LAW 1.7 – Luchthavens inrichting en uitrusting algemeen
-
-ONDERWERP 3: METEOROLOGIE
-
-THEMA MET 1 – INLEIDING TOT METEOROLOGIE
-
-Subthema MET 1.1 – Luchtvaart en meteorologie
-
-Subthema MET 1.2 – Organisatie van de meteorologische dienst
-
-THEMA MET 2 – METEOROLOGISCHE VERSCHIJNSELEN
-
-Subthema MET 2.1 – Wolken
-
-Subthema MET 2.2 – Neerslagtypes
-
-Subthema MET 2.3 – Zicht
-
-Subthema MET 2.4 – Wind
-
-Subthema MET 2.5 – Meteorologische gevaren
-
-THEMA MET 3 – METEOROLOGISCHE INFORMATIE VOOR DE LUCHTVAART
-
-Subthema MET 3.1 – Berichten en rapporteringen
-
-ONDERWERP 4: NAVIGATIE
-
-THEMA NAV 1 – KAARTEN EN LUCHTVAARTKAARTEN
-
-Subthema NAV 1.2 – In de luchtvaart gebruikte kaarten
-
-THEMA NAV 2 – INSTRUMENTNAVIGATIE
-
-Subthema NAV 2.1 – Systemen op de grond
-
-Subthema NAV 2.2 – Satellietgebaseerde systemen
-
-Subthema NAV 2.3 – Instrumentnaderingsprocedures
-
-ONDERWERP 5: LUCHTVAARTUIGEN
-
-THEMA ACFT 1 – PRESTATIEGEGEVENS IN ONGEBRUIKELIJKE SITUATIES
-
-Subthema ACFT 1.1 – Herkennen van ongebruikelijke situaties
-
-THEMA ACFT 2 – FACTOREN DIE VAN INVLOED ZIJN OP DE PRESTATIES VAN LUCHTVAARTUIGEN
-
-Subthema ACFT 2.1 – Factoren tijdens het opstijgen
-
-Subthema ACFT 2.2 – Factoren tijdens de eindnadering en landing
-
-THEMA ACFT 3 – LUCHTVAARTUIGGEGEVENS
-
-Subthema ACFT 3.1 – Herkenning
-
-THEMA ACFT 4 – ASPECTEN DIE DE OPERATIE KUNNEN BEINVLOEDEN
-
-Subthema ACFT 4.1 – Start- en landingsbaan geassocieerde items
-
-ONDERWERP 6: COMMUNICATIE
-
-THEMA COM 1 – VOICE COMMUNICATIE
-
-Subthema COM 1.1 – Kennis van de communicatiemiddelen
-
-Subthema COM 1.2 – Bediening van de communicatiemiddelen
-
-Subthema COM 1.3 – Radiotelefonie
-
-## Bijlage 3. als bedoeld in [artikel 7, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De opleiding voor de bevoegdverklaring TOW bevat ten minste de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 3: METEOROLOGIE
-
-ONDERWERP 4: COMMUNICATIE
-
-ONDERWERP 1:INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS ASO/TOW
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – REGELS EN PROCEDURES
-
-Subthema LAW 1.1 – Taken en bevoegdheden van de Tow Controller
-
-Subthema LAW 1.3 – Taken en bevoegdheden TWR luchtverkeersleider
-
-Subthema LAW 1.4 – Luchthaveninrichting, uitrusting, lay-out en procedures
-
-Subthema LAW 1.5 – Werkinstructies en regelingen
-
-Subthema LAW 1.6 – Coördinatie met luchtverkeersleidingseenheid
-
-Subthema LAW 1.7 – Bijzondere procedures en omstandigheden
-
-ONDERWERP 3: METEOROLOGIE
-
-THEMA MET 1 – METEOROLOGISCHE INFORMATIE VOOR DE LUCHTVAART
-
-Subthema MET 1.1 – Berichten en rapporteringen
-
-ONDERWERP 4: COMMUNICATIE
-
-THEMA COM 1 – VOICE COMMUNICATIE
-
-Subthema COM 1.1 – Kennis van de communicatiemiddelen
-
-Subthema COM 1.2 – Bediening van de communicatiemiddelen
-
-Subthema COM 1.3 – Radiotelefonie
-
-## Bijlage 4. als bedoeld in [artikel 7, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De opleiding voor de bevoegdverklaring GCO bevat ten minste de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 3: COMMUNICATIE
-
-ONDERWERP 1:INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS GCO
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – REGELS EN PROCEDURES
-
-Subthema LAW 1.1 – Taken en bevoegdheden van de Ground Communications Officer
-
-Subthema LAW 1.3 – Overzicht luchtverkeersdiensten
-
-Subthema LAW 1.4 – Luchtverkeersregels
-
-Subthema LAW 1.5 – Luchtruim en ATS-routes algemeen
-
-Subthema LAW 1.6 – Hoogtemeting en niveau toewijzing
-
-Subthema LAW 1.7 – ATC klaringen, instructies en inhoud van de berichten
-
-ONDERWERP 3: COMMUNICATIE
-
-THEMA COM 1 – VOICE COMMUNICATIE
-
-Subthema COM 1.1 – Kennis van de communicatiemiddelen
-
-Subthema COM 1.2 – Bediening van de communicatiemiddelen
-
-Subthema COM 1.3 – Radiotelefonie
-
-## Bijlage 5. als bedoeld in [artikel 7, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De opleiding voor de bevoegdverklaring DIS bevat ten minste de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 3: METEOROLOGIE
-
-ONDERWERP 4: NAVIGATIE
-
-ONDERWERP 5: LUCHTVAARTUIGEN
-
-ONDERWERP 6: COMMUNICATIE
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS ASO/DIS
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – REGELS EN PROCEDURES
-
-Subthema LAW 1.1 – Taken en bevoegdheden van de verstrekker van informatie aan luchtverkeer dat deelneemt aan een luchtvaartvertoning
-
-Subthema LAW 1.2 – Meeteenheden
-
-Subthema LAW 1.3 – Overzicht luchtverkeersdiensten
-
-Subthema LAW 1.4 – Luchtverkeersregels
-
-Subthema LAW 1.5 – Luchtruim en ATS-routes algemeen
-
-Subthema LAW 1.6 – Hoogtemeting en niveau toewijzing
-
-Subthema LAW 1.7 – Vertoningterrein inrichting en uitrusting algemeen en vertoninggebied
-
-Subthema LAW 1.8 – Kennis van plaatselijke omstandigheden en locatiespecifieke operationele procedures
-
-Subthema LAW 1.9 – ATC klaringen, instructies en inhoud van de berichten
-
-Subthema LAW 1.10 – Coördinatie met luchtverkeersleidingseenheden
-
-ONDERWERP 3: METEOROLOGIE
-
-THEMA MET 1 – INLEIDING TOT METEOROLOGIE
-
-Subthema MET 1.1 – Luchtvaart en meteorologie
-
-Subthema MET 1.2 – Organisatie van de meteorologische dienst
-
-THEMA MET 2 – METEOROLOGISCHE VERSCHIJNSELEN
-
-Subthema MET 2.1 – Wolken
-
-Subthema MET 2.2 – Neerslagtypes
-
-Subthema MET 2.3 – Zicht
-
-Subthema MET 2.4 – Wind
-
-Subthema MET 2.5 – Meteorologische gevaren
-
-THEMA MET 3 – METEOROLOGISCHE INFORMATIE VOOR DE LUCHTVAART
-
-Subthema MET 3.1 – Berichten en rapporteringen
-
-ONDERWERP 4: NAVIGATIE
-
-THEMA NAV 1 – KAARTEN EN LUCHTVAARTKAARTEN
-
-Subthema NAV 1.2 – In de luchtvaart gebruikte kaarten
-
-ONDERWERP 5: LUCHTVAARTUIGEN
-
-THEMA ACFT 1 – PRESTATIEGEGEVENS IN ONGEBRUIKELIJKE SITUATIES
-
-Subthema ACFT 1.1 – Herkennen van ongebruikelijke situaties
-
-THEMA ACFT 2 – FACTOREN DIE VAN INVLOED ZIJN OP DE PRESTATIES VAN LUCHTVAARTUIGEN
-
-Subthema ACFT 2.1 – Factoren tijdens het opstijgen
-
-Subthema ACFT 2.2 – Factoren tijdens de eindnadering en landing
-
-THEMA ACFT 3 – LUCHTVAARTUIGGEGEVENS
-
-Subthema ACFT 3.1 – Herkenning
-
-THEMA ACFT 4 – ASPECTEN DIE DE OPERATIE KUNNEN BEINVLOEDEN
-
-Subthema ACFT 4.1 – Start- en landingsbaan geassocieerde items
-
-ONDERWERP 6: COMMUNICATIE
-
-THEMA COM 1 – VOICE COMMUNICATIE
-
-Subthema COM 1.1 – Kennis van de communicatiemiddelen
-
-Subthema COM 1.2 – Bediening van de communicatiemiddelen
-
-Subthema COM 1.3 – Radiotelefonie
-
-## Bijlage 6. als bedoeld in [artikel 7, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=7&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De opleiding voor de bevoegdverklaring OFS bevat de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 3: COMMUNICATIE
-
-ONDERWERP 1:INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS ASO/OFS
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – REGELS EN PROCEDURES
-
-Subthema LAW 1.1 – Taken en bevoegdheden van de OFS radio operator
-
-Subthema LAW 1.2 – Introductie luchtverkeersdiensten en FIC-dienstverlening
-
-Subthema LAW 1.3 – Luchtruim Noordzee, HTZ/HPZ, HMRs
-
-Subthema LAW 1.4 – FIC werkgebied, frequenties
-
-Subthema LAW 1.5 – Vluchtinformatiedienst
-
-Subthema LAW 1.6 – Alarmeringsdienst
-
-Subthema LAW 1.7 – Procedures op lage hoogtes
-
-Subthema LAW 1.8 – Overtijd acties
-
-ONDERWERP 3: COMMUNICATIE
-
-THEMA COM 1 – VOICE COMMUNICATIE
-
-Subthema COM 1.1 – Kennis van de communicatiemiddelen
-
-Subthema COM 1.2 – Bediening van de communicatiemiddelen
-
-Subthema COM 1.3 – Radiotelefonie
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-De aanvrager voor de aantekening betreffende de taalvaardigheid bedoeld in [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=6&artikel=18&z=2026-01-09&g=2026-01-09), en artikel 18a, derde lid, onderdeel e, van het besluit toont ten overstaande van een instelling die een op grond van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=7&artikel=22&z=2026-01-09&g=2026-01-09), een taalvaardigheidsbeoordeling aanbiedt aan dat hij:
-
-- 1. doeltreffend communiceert zowel in situaties waarbij alleen de stem hoorbaar is (telefoon/radiotelefoon) als in face-to-face gesprekken;
-
-- 2. accuraat en duidelijk communiceert over algemene, concrete en werkgerelateerde onderwerpen;
-
-- 3. passende communicatiestrategieën gebruikt om boodschappen uit te wisselen en om misverstanden in het algemeen en in de werksituatie te herkennen en op te lossen;
-
-- 4. met goed gevolg en redelijk gemak de taalproblemen oplost die optreden wanneer zich complicaties of onverwachte gebeurtenissen voordoen in een gewone werksituatie of bij de uitvoering van een communicatieve taak waarmee hij vertrouwd is; en
-
-- 5. een taalvariant of accent gebruikt waarmee hij verstaanbaar is voor de luchtvaartgemeenschap.
-
-#### § 2. Afgifte, verlenging en vernieuwing
-
-##### Artikel 4a
-
-1. De geldigheidsduur van taalvaardigheidsaantekeningen voor eerste afgifte en vernieuwing begint uiterlijk dertig dagen na de datum waarop de beoordeling van de taalvaardigheid met succes is voltooid.
-
-2. Taalvaardigheidsaantekeningen worden verlengd bij een succesvolle beoordeling van de taalvaardigheid in de drie maanden onmiddellijk voorafgaand aan de vervaldatum in welk geval de nieuwe geldigheidsperiode ingaat op voornoemde vervaldatum.
-
-3. Als de taalvaardigheidsaantekening wordt verlengd vóór de in het tweede lid genoemde periode, begint de geldigheidsperiode uiterlijk dertig dagen na de datum waarop de beoordeling van de taalvaardigheid met succes is voltooid.
-
-4. Als de geldigheid van een taalvaardigheidsaantekening verstrijkt, toont de houder van de aantekening met goed gevolg zijn taalvaardigheid aan om zijn aantekening te laten vernieuwen.
-
-#### § 3. Goedkeuring van opleidingenplannen voor het ASO
-
-#### § 4. Goedkeuring van opleidingenplannen voor het FISO
-
-#### § 5. Goedkeuring van opleidingenplannen voor praktijkinstructeurs en assessors
-
-#### § 6. Certificering van opleidingsinstellingen voor het FISO
-
-#### § 9. Vereisten voor instructeur en assessor
-
-#### § 10. Aanvraag voor een aantekening voor instructeur en assessor
-
-#### § 11. Verlenging van een aantekening voor instructeur of assessor
-
-#### § 12. Tijdelijke machtiging voor instructeur of assessor
-
-#### § 14. Slotbepalingen
-
-## Bijlage 7. als bedoeld in [artikel 12, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=12&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De opleiding voor de bevoegdverklaring ADR bevat de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 3: LUCHTVERKEERSBEHEER
-
-ONDERWERP 4: METEOROLOGIE
-
-ONDERWERP 5: NAVIGATIE
-
-ONDERWERP 6: LUCHTVAARTUIGEN
-
-ONDERWERP 7: MENSELIJKE FACTOREN
-
-ONDERWERP 8: APPARATUUR EN SYSTEMEN
-
-ONDERWERP 9: PROFESSIONELE OMGEVING
-
-ONDERWERP 10: UITZONDERLIJKE EN NOODSITUATIES
-
-ONDERWERP 11: LUCHTHAVENS
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS LUCHTVERKEERSLEIDER
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – FISO-VERGUNNING/BEKWAAMHEIDSCERTIFICAAT
-
-Subthema LAW 1.1 – Rechten en voorwaarden
-
-THEMA LAW 2 – REGELS EN REGLEMENTEN
-
-Subthema LAW 2.1 – Verslagen
-
-Subthema LAW 2.2 – Luchtruim
-
-ONDERWERP 3: LUCHTVERKEERSBEHEER
-
-THEMA ATM 1 – DIENSTVERLENING
-
-Subthema ATM 1.1 – Luchtverkeersleidingdienst
-
-Subthema ATM 1.2 – (Luchthaven) Vluchtinformatiedienst ((A)FIS)
-
-Subthema ATM 1.3 – Alarmeringsdienst (ALRS)
-
-Subthema ATM 1.4 – Capaciteit van het systeem voor luchtverkeersdiensten en beheer van de luchtverkeersstromen
-
-THEMA ATM 2 – COMMUNICATIE
-
-Subthema ATM 2.1 – Effectieve communicatie
-
-THEMA ATM 3 – VERKEERSKLARINGEN EN LUCHTVERKEERSLEIDINGSINSTRUCTIES
-
-Subthema ATM 3.1 – Verkeersklaringen
-
-Subthema ATM 3.2 – Luchtverkeersleidingsinstructies
-
-THEMA ATM 4 – COÖRDINATIE
-
-Subthema ATM 4.1 – Behoefte aan coördinatie
-
-Subthema ATM 4.2 – Coördinatie-instrumenten en -methoden
-
-Subthema ATM 4.3 – Coördinatieprocedures
-
-THEMA ATM 5 – HOOGTEMETING EN NIVEAUTOEWIJZING
-
-Subthema ATM 5.1 – Hoogtemeting
-
-THEMA ATM 6 – SEPARATIE
-
-Subthema ATM 6.1 – Separatie tussen vertrekkende luchtvaartuigen
-
-Subthema ATM 6.2 – Separatie tussen landende luchtvaartuigen en voorafgaande landende of vertrekkende luchtvaartuigen
-
-Subthema ATM 6.3 – Tijdsgebaseerde longitudinale zogturbulentieseparatie Subthema ATM 6.4 – Verminderde separatieminima
-
-THEMA ATM 7 – SYSTEMEN VOOR HET VERMIJDEN VAN BOTSINGEN IN DE LUCHT EN VEILIGHEIDSNETTEN OP DE GROND
-
-Subthema ATM 7.1 – Systemen voor het vermijden van botsingen in de lucht Subthema ATM 7.2 – Veiligheidsnetten op de grond
-
-THEMA ATM 8 – GEGEVENSWEERGAVE
-
-Subthema ATM 8.1 – Gegevensbeheer
-
-THEMA ATM 9 – OPERATIONELE OMGEVING (GESIMULEERD)
-
-Subthema ATM 9.1 – Integriteit van de operationele omgeving
-
-Subthema ATM 9.2 – Verificatie van de geldigheid van de operationele procedures
-
-Subthema ATM 9.3 – Overdracht-overname
-
-THEMA ATM 10 – VERLENING VAN EEN PLAATSELIJKE LUCHTVERKEERSLEIDINGSDIENST
-
-Subthema ATM 10.1 – Verantwoordelijkheid voor de dienstverlening
-
-Subthema ATM 10.2 – Functies van een plaatselijke verkeerstoren
-
-Subthema ATM 10.3 – Verkeersbeheersprocedure
-
-Subthema ATM 10.4 – Luchtvaartgrondlichten
-
-Subthema ATM 10.5 – Informatie aan luchtvaartuigen door een plaatselijke verkeerstoren
-
-Subthema ATM 10.6 – Leiding van luchthavenverkeer
-
-Subthema ATM 10.7 – Leiding van verkeer in het verkeerscircuit
-
-Subthema ATM 10.8 – Baan in gebruik
-
-ONDERWERP 4: METEOROLOGIE
-
-THEMA MET 1 – METEOROLOGISCHE VERSCHIJNSELEN
-
-Subthema MET 1.1 – Meteorologische verschijnselen
-
-THEMA MET 2 – BRONNEN VAN METEOROLOGISCHE GEGEVENS
-
-Subthema MET 2.1 – Meteorologische instrumenten
-
-Subthema MET 2.2 – Andere bronnen van meteorologische gegevens
-
-ONDERWERP 5: NAVIGATIE
-
-THEMA NAV 1 – KAARTEN EN LUCHTVAARTKAARTEN
-
-Subthema NAV 1.1 – Kaarten en luchtvaartkaarten
-
-THEMA NAV 2 – INSTRUMENTNAVIGATIE
-
-Subthema NAV 2.1 – Navigatiesystemen
-
-Subthema NAV 2.2 – Gestabiliseerde nadering
-
-ONDERWERP 6: LUCHTVAARTUIGEN
-
-THEMA ACFT 1 – LUCHTVAARTUIGINSTRUMENTEN
-
-Subthema ACFT 1.1 – Luchtvaartuiginstrumenten
-
-THEMA ACFT 2 – CATEGORIEËN LUCHTVAARTUIGEN
-
-Subthema ACFT 2.1 – Zogturbulentie
-
-THEMA ACFT 3 – FACTOREN DIE VAN INVLOED ZIJN OP DE PRESTATIES VAN LUCHTVAARTUIGEN
-
-Subthema ACFT 3.1 – Factoren tijdens het opstijgen
-
-Subthema ACFT 3.2 – Factoren tijdens het klimmen
-
-Subthema ACFT 3.3 – Factoren tijdens de eindnadering en landing
-
-Subthema ACFT 3.4 – Economische factoren
-
-Subthema ACFT 3.5 – Omgevingsfactoren
-
-THEMA ACFT 4 – LUCHTVAARTUIGGEGEVENS
-
-Subthema ACFT 4.1 – Herkenning van types luchtvaartuigen
-
-Subthema ACFT 4.2 – Prestatiegegevens
-
-ONDERWERP 7: MENSELIJKE FACTOREN
-
-THEMA HUM 1 – PSYCHOLOGISCHE FACTOREN
-
-Subthema HUM 1.1 – Cognitief
-
-THEMA HUM 2 – MEDISCHE EN FYSIOLOGISCHE FACTOREN
-
-Subthema HUM 2.1 – Vermoeidheid
-
-Subthema HUM 2.2 – Fitheid
-
-THEMA HUM 3 – SOCIALE EN ORGANISATORISCHE FACTOREN
-
-Subthema HUM 3.1 – Team resource management (TRM)
-
-Subthema HUM 3.2 – Teamwerk en teamrollen
-
-Subthema HUM 3.3 – Verantwoordelijk gedrag
-
-THEMA HUM 4 – STRESS
-
-Subthema HUM 4.1 – Stress
-
-Subthema HUM 4.2 – Stressbeheer
-
-THEMA HUM 5 – MENSELIJKE FOUTEN
-
-Subthema HUM 5.1 – Menselijke fouten
-
-Subthema HUM 5.2 – Schending van regels
-
-THEMA HUM 6 – SAMENWERKING
-
-Subthema HUM 6.1 – Communicatie
-
-Subthema HUM 6.2 – Samenwerking binnen hetzelfde verantwoordelijkheidsgebied
-
-Subthema HUM 6.3 – Samenwerking binnen verschillende verantwoordelijkheidsgebieden
-
-Subthema HUM 6.4 – Samenwerking tussen luchtverkeersleiders en piloten
-
-ONDERWERP 8: APPARATUUR EN SYSTEMEN
-
-THEMA EQPS 1 – MONDELINGE COMMUNICATIE
-
-Subthema EQPS 1.1 – Radiocommunicatie
-
-Subthema EQPS 1.2 – Andere mondelinge communicatie
-
-THEMA EQPS 2 – AUTOMATISERING VAN LUCHTVERKEERSLEIDING
-
-Subthema EQPS 2.1 – Vast telecommunicatienetwerk voor de luchtvaart (Aeronautical fixed telecommunication network, AFTN)
-
-Subthema EQPS 2.2 – Automatische gegevensuitwisseling
-
-THEMA EQPS 3 – WERKPLEK VAN DE LUCHTVERKEERSLEIDER
-
-Subthema EQPS 3.1 – Werking en monitoring van apparatuur
-
-Subthema EQPS 3.2 – Situatiebeeldschermen en informatiesystemen
-
-Subthema EQPS 3.3 – Systemen voor vluchtgegevens
-
-THEMA EQPS 4 – TOEKOMSTIGE APPARATUUR
-
-Subthema EQPS 4.1 – Nieuwe ontwikkelingen
-
-THEMA EQPS 5 – BEPERKINGEN EN VERSLECHTERING VAN APPARATUUR EN SYSTEMEN
-
-Subthema EQPS 5.1 – Reactie op beperkingen
-
-Subthema EQPS 5.2 – Verslechtering van communicatieapparatuur
-
-Subthema EQPS 5.3 – Verslechtering van navigatieapparatuur
-
-ONDERWERP 9: PROFESSIONELE OMGEVING
-
-THEMA PEN 1 – VERTROUWDMAKING
-
-Subthema PEN 1.1 – Studiebezoek aan luchtvaartterrein
-
-THEMA PEN 2 – LUCHTRUIMGEBRUIKERS
-
-Subthema PEN 2.1 – Bijdragers tot civiele activiteiten op het gebied van luchtverkeersdiensten
-
-Subthema PEN 2.2 – Bijdragers tot militaire activiteiten op het gebied van luchtverkeersdiensten
-
-THEMA PEN 3 – KLANTENBETREKKINGEN
-
-Subthema PEN 3.1 – Dienstverlening en gebruikersbehoeften
-
-THEMA PEN 4 – MILIEUBESCHERMING
-
-Subthema PEN 4.1 – Milieubescherming
-
-ONDERWERP 10: UITZONDERLIJKE EN NOODSITUATIES
-
-THEMA ABES 1 – ABNORMALE EN NOODSITUATIES (ABES)
-
-Subthema ABES 1.1 – Overzicht van ABES
-
-THEMA ABES 2 – VERBETERING VAN VAARDIGHEDEN
-
-Subthema ABES 2.1 – Effectieve communicatie
-
-Subthema ABES 2.2 – Vermijden van geestelijke overbelasting
-
-Subthema ABES 2.3 – Lucht/grond-samenwerking
-
-THEMA ABES 3 – PROCEDURES VOOR ABNORMALE EN NOODSITUATIES
-
-Subthema ABES 3.1 – Toepassing van ABES-procedures
-
-Subthema ABES 3.2 – Radio-uitval
-
-Subthema ABES 3.3 – Wederrechtelijke daden en bomdreigingen tegen luchtvaartuigen
-
-Subthema ABES 3.4 – Afgedwaalde of niet-geïdentificeerde luchtvaartuigen Subthema ABES 3.5 – Runway incursion
-
-ONDERWERP 11: LUCHTHAVENS
-
-THEMA AGA 1 – LUCHTHAVEN GEGEVENS, LAYOUT EN COÖRDINATIE
-
-Subthema AGA 1.1 – Definities
-
-Subthema AGA 1.2 – Coördinatie
-
-THEMA AGA 2 – BEWEGINGSGEBIED
-
-Subthema AGA 2.1 – Bewegingsgebied (Movement area)
-
-Subthema AGA 2.2 – Landingsterrein (Manoeuvring area)
-
-Subthema AGA 2.3 – Banen
-
-THEMA AGA 3 – OBSTAKELS
-
-Subthema AGA 3.1 – Obstakelvrij luchtruim rond luchthavens
-
-THEMA AGA 4 – DIVERSE APPARATUUR
-
-Subthema AGA 4.1 – Locatie
-
-## Bijlage 8. als bedoeld in [artikel 12, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=12&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-De opleiding voor de bevoegdverklaring AER bevat de volgende onderwerpen:
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-ONDERWERP 3: LUCHTVERKEERSBEHEER
-
-ONDERWERP 4: METEOROLOGIE
-
-ONDERWERP 5: NAVIGATIE
-
-ONDERWERP 6: LUCHTVAARTUIGEN
-
-ONDERWERP 7: MENSELIJKE FACTOREN
-
-ONDERWERP 8: APPARATUUR EN SYSTEMEN
-
-ONDERWERP 9: PROFESSIONELE OMGEVING
-
-ONDERWERP 10: UITZONDERLIJKE EN NOODSITUATIES
-
-ONDERWERP 1: INLEIDING TOT DE OPLEIDING
-
-THEMA INTR 1 – BEHEER VAN DE CURSUS
-
-Subthema INTR 1.1 – Inleiding tot de cursus
-
-Subthema INTR 1.2 – Administratie
-
-Subthema INTR 1.3 – Studiemateriaal en opleidingsdocumentatie
-
-THEMA INTR 2 – INLEIDING TOT DE CURSUS AER
-
-Subthema INTR 2.1 – Inhoud en organisatie van de cursus
-
-Subthema INTR 2.2 – Opleidingsethos
-
-Subthema INTR 2.3 – Beoordelingsprocedure
-
-ONDERWERP 2: LUCHTVAARTRECHT
-
-THEMA LAW 1 – BEWIJS VAN BEVOEGDHEID FISO
-
-Subthema LAW 1.1 – Rechten en voorwaarden
-
-THEMA LAW 2 – REGELS EN REGLEMENTEN
-
-Subthema LAW 2.1 – Verslagen
-
-Subthema LAW 2.2 – Luchtruim
-
-THEMA LAW 3 – VEILIGHEIDSMANAGEMENT VAN DE LUCHTVERKEERSDIENSTVERLENER
-
-Subthema LAW 3.1 – Feedbackprocedure
-
-Subthema LAW 3.2 – Veiligheidsonderzoek
-
-ONDERWERP 3: LUCHTVERKEERSBEHEER
-
-THEMA ATM 1 – DIENSTVERLENING
-
-Subthema ATM 1.1 – Vluchtinformatiedienst (FIS)
-
-Subthema ATM 1.2 – Alarmeringsdienst (ALRS)
-
-THEMA ATM 2 – COMMUNICATIE
-
-Subthema ATM 2.1 – Effectieve communicatie
-
-THEMA ATM 3 – VERKEERSKLARINGEN
-
-Subthema ATM 3.1 – Verkeersklaringen doorgeven
-
-THEMA ATM 4 – COÖRDINATIE
-
-Subthema ATM 4.1 – Noodzaak tot coördinatie
-
-Subthema ATM 4.2 – Coördinatie-instrumenten en -methoden
-
-Subthema ATM 4.3 – Coördinatieprocedures
-
-THEMA ATM 5 – HOOGTEMETING EN NIVEAUTOEWIJZING
-
-Subthema ATM 5.1 – Hoogtemeting
-
-Subthema ATM 5.2 – Hoogtemarge boven obstakels
-
-THEMA ATM 6 – AIRBORNE COLLISION AVOIDANCE SYSTEMS
-
-Subthema ATM 6.1 – Airborne collision avoidance systems
-
-THEMA ATM 7 – OPERATIONELE OMGEVING (GESIMULEERD)
-
-Subthema ATM 7.1 – Integriteit van de operationele omgeving
-
-Subthema ATM 7.2 – Verificatie van de geldigheid van de operationele procedures
-
-Subthema ATM 7.3 – Overdracht-overname
-
-THEMA ATM 8 – VERLENING VAN VLUCHTINFORMATIE
-
-Subthema ATM 8.1 – Verantwoordelijkheid en verwerking van informatie
-
-Subthema ATM 8.2 – Verkeersafhandeling
-
-ONDERWERP 4: METEOROLOGIE
-
-THEMA MET 1 – METEOROLOGISCHE VERSCHIJNSELEN
-
-Subthema MET 1.1 – Meteorologische verschijnselen
-
-THEMA MET 2 – BRONNEN VAN METEOROLOGISCHE GEGEVENS
-
-Subthema MET 2.1 – Bronnen van meteorologische gegevens
-
-ONDERWERP 5: NAVIGATIE
-
-THEMA NAV 1 – KAARTEN EN LUCHTVAARTKAARTEN
-
-Subthema NAV 1.1 – Kaarten en luchtvaartkaarten
-
-THEMA NAV 2 – INSTRUMENTNAVIGATIE
-
-Subthema NAV 2.1 – Navigatiesystemen
-
-Subthema NAV 2.2 – Navigatie assistentie
-
-ONDERWERP 6: LUCHTVAARTUIGEN
-
-THEMA ACFT 1 – LUCHTVAARTUIGINSTRUMENTEN
-
-Subthema ACFT 1.1 – Luchtvaartuiginstrumenten
-
-THEMA ACFT 2 – CATEGORIEËN LUCHTVAARTUIGEN
-
-Subthema ACFT 2.1 – Zogturbulentie
-
-THEMA ACFT 3 – FACTOREN DIE VAN INVLOED ZIJN OP DE PRESTATIES VAN LUCHTVAARTUIGEN
-
-Subthema ACFT 3.1 – Factoren tijdens het klimmen
-
-Subthema ACFT 3.2 – Factoren tijdens de kruisvlucht
-
-Subthema ACFT 3.3 – Dalingsfactoren
-
-Subthema ACFT 3.4 – Economische factoren
-
-Subthema ACFT 3.5 – Omgevingsfactoren
-
-THEMA ACFT 4 – LUCHTVAARTUIGGEGEVENS
-
-Subthema ACFT 4.1 – Prestatiegegevens
-
-ONDERWERP 7: MENSELIJKE FACTOREN
-
-THEMA HUM 1 – INFORMATIEVERWERKING
-
-Subthema HUM 1.1 – Cognitie en factoren die daarop van invloed zijn
-
-Subthema HUM 1.2 – Situationeel bewustzijn
-
-Subthema HUM 1.3 – Het nemen van beslissingen
-
-THEMA HUMB 2 – FACTOREN DIE VAN INVLOED ZIJN OP GEZONDHEID EN WELZIJN
-
-Subthema HUM 2.1 – Vermoeidheid
-
-Subthema HUM 2.2 – Stress
-
-THEMA HUMB 3 – TEAMWERK
-
-Subthema HUM 3.1 – Voordelen van teamwerk
-
-Subthema HUM 3.2 – Conflictbeheer
-
-THEMA HUMB 4 – SYSTEEM
-
-Subthema HUM 4.1 – Concept van systemen in ATM/ANS
-
-THEMA HUMB 5 – COMMUNICATIE
-
-Subthema HUM 5.1 – Effectieve communicatie
-
-Subthema HUM 5.2 – Effectieve feedback
-
-ONDERWERP 8: APPARATUUR EN SYSTEMEN
-
-THEMA EQPS 1 – MONDELINGE COMMUNICATIE
-
-Subthema EQPS 1.1 – Radiocommunicatie
-
-Subthema EQPS 1.2 – Andere mondelinge communicatie
-
-THEMA EQPS 2 – AUTOMATISERING VAN LUCHTVERKEERSDIENSTVERLENING
-
-Subthema EQPS 2.1 – Vast telecommunicatienetwerk voor de luchtvaart (Aeronautical fixed telecommunication network, AFTN)
-
-Subthema EQPS 2.2 – Automatische gegevensuitwisseling
-
-THEMA EQPS 3 – WERKPLEK VAN DE VLUCHTINFORMATIEVERSTREKKER
-
-Subthema EQPS 3.1 – Werking en monitoring van apparatuur
-
-Subthema EQPS 3.2 – Situatiebeeldschermen en informatiesystemen
-
-Subthema EQPS 3.3 – Systemen voor vluchtgegevens
-
-THEMA EQPS 4 – BEPERKINGEN EN VERSLECHTERING VAN APPARATUUR EN SYSTEMEN
-
-Subthema EQPS 4.1 – Reactie op beperkingen
-
-Subthema EQPS 4.2 – Verslechtering van communicatieapparatuur
-
-ONDERWERP 9: PROFESSIONELE OMGEVING
-
-THEMA PEN 1 – VERTROUWDMAKING
-
-Subthema PEN 1.1 – Studiebezoek aan een algemeen luchtverkeersleidingscentrum
-
-THEMA PEN 2 – LUCHTRUIMGEBRUIKERS
-
-Subthema PEN 2.1 – Bijdragers tot civiele activiteiten op het gebied van luchtverkeersdiensten
-
-Subthema PEN 2.2 – Bijdragers tot militaire activiteiten op het gebied van luchtverkeersdiensten
-
-THEMA PEN 3 – KLANTENBETREKKINGEN
-
-Subthema PEN 3.1 – Dienstverlening en gebruikersbehoeften
-
-THEMA PEN 4 – MILIEUBESCHERMING
-
-Subthema PEN 4.1 – Milieubescherming
-
-ONDERWERP 10: UITZONDERLIJKE EN NOODSITUATIES
-
-THEMA ABES 1 – ABNORMALE EN NOODSITUATIES (ABES)
-
-Subthema ABES 1.1 – Overzicht van ABES
-
-THEMA ABES 2 – VERBETERING VAN VAARDIGHEDEN
-
-Subthema ABES 2.1 – Effectieve communicatie
-
-Subthema ABES 2.2 – Vermijden van geestelijke overbelasting
-
-Subthema ABES 2.3 – Lucht/grond-samenwerking
-
-THEMA ABES 3 – PROCEDURES VOOR ABNORMALE EN NOODSITUATIES
-
-Subthema ABES 3.1 – Toepassing van ABES-procedures
-
-Subthema ABES 3.2 – Radio-uitval
-
-Subthema ABES 3.3 – Wederrechtelijke daden en bomdreigingen tegen luchtvaartuigen
-
-Subthema ABES 3.4 – Afgedwaalde of niet-geïdentificeerde luchtvaartuigen
-
-Subthema ABES 3.5 – Uitwijken
-
-Subthema ABES 3.6 – Transponder-uitval
-
-Subthema ABES 3.7 – Onderschepping van burgerluchtvaartuigen
-
-## Bijlage 9. als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=7&artikel=22&z=2026-01-09&g=2026-01-09), van de Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers
-
-**Algemeen**
-
-- (a). De beoordeling van de taalvaardigheid wordt zo ontworpen dat deze de taken weerspiegelt die door de aanvrager worden uitgevoerd, maar met specifieke aandacht voor taal in plaats van operationele procedures en kennis.
-
-- (b). De beoordeling bepaalt het vermogen van de kandidaat om effectief te communiceren met behulp van visuele en niet-visuele communicatie in zowel routinematige als niet-routinematige situaties.
-
-**Beoordeling**
-
-- (a). De beoordeling omvat de volgende drie elementen:
-
-- 1). luisteren – beoordeling van begrip;
-
-- 2). spreken – beoordeling van uitspraak, vloeiendheid, structuur en woordenschat;
-
-- 3). interactie.
-
-- (b). De overstap tussen fraseologie en gewone taal wordt beoordeeld op luister- en spreekvaardigheid.
-
-- (c). Wanneer de beoordeling niet in een face-to-face situatie wordt uitgevoerd, wordt er gebruik gemaakt van passende technologieën voor de beoordeling van de capaciteiten van de kandidaat op het gebied van luisteren en spreken, en voor het mogelijk maken van interacties.
-
-- (d). Ongeacht de manier waarop de beoordeling wordt georganiseerd, wordt voldaan aan de vereisten genoemd onder (a) en (b), evenals aan de relevante bepalingen voor taalvaardigheidsbeoordelaars.
-
-**Taalvaardigheidsbeoordelaars**
-
-- (a). Personen die verantwoordelijk zijn voor de beoordeling van de taalvaardigheid:
-
-- 1). zijn naar behoren opgeleid en gekwalificeerd;
-
-- 2). zijn luchtvaartspecialisten (bijvoorbeeld huidige of voormalige bediener van een luchtvaartstation of vluchtinformatieverstrekker) of taalspecialisten met een aanvullende luchtvaartgerelateerde opleiding. De voorkeursaanpak voor een beoordeling is het vormen van een team bestaande uit een operationeel expert en een taalexpert;
-
-- 3). volgen regelmatig een herhalingsopleiding over taalbeoordelingsvaardigheden;
-
-- 4). zijn opgeleid in de vereisten die specifiek zijn voor de taalvaardigheidsbeoordeling, en in de beoordelings- en gesprekstechnieken.
-
-- (b). Taalvaardigheidsbeoordelaars voeren geen taalvaardigheidsbeoordelingen uit wanneer hun objectiviteit hierdoor in het gedrang kan komen.
-
-**Criteria voor het accepteren van de taalbeoordelingsinstantie.**
-
-- (a). Een taalbeoordelingsinstantie verstrekt duidelijke informatie over haar organisatie en haar relaties met andere organisaties.
-
-- (b). De taalbeoordelingsinstantie heeft een voldoende aantal gekwalificeerde gesprekspartners en taalvaardigheidsbeoordelaars in dienst om de vereiste toetsen af te nemen.
-
-- (c). De taalbeoordelingsinstantie stelt een handboek op dat ten minste het volgende moet omvatten:
-
-- 1). beoordelingsdoelstellingen;
-
-- 2). beoordelingslay-out, tijdschema, gebruikte technologieën, beoordelingsvoorbeelden, stemvoorbeelden;
-
-- 3). beoordelingscriteria en -normen;
-
-- 4). documentatie die de validiteit, relevantie en betrouwbaarheid van de beoordeling aantoont;
-
-- 5). beoordelingsprocedures en verantwoordelijkheden, zoals:
-
-- –. voorbereiding van de individuele beoordeling;
-
-- –. administratie: locatie(s), identiteitscontrole en surveillance, beoordelingsdiscipline, vertrouwelijkheid/beveiliging; en
-
-- –. het bewaren van documenten en dossiers.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

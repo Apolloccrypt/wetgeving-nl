@@ -1,39 +1,24 @@
 ---
 title: "Richtlijnen voor het aanvragen van financiering voor wetenschappelijk onderzoek in het kader van het doorlopend Open Technologieprogramma (OTP)"
+citeertitel: "Richtlijnen aanvragen financiering wetenschappelijk onderzoek (doorlopend Open Technologieprogramma (OTP))"
 identifier: "BWBR0039841"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-07-26"
-last_updated: "2017-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039841"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14084123"
-version_id: "24252202"
-internal_id: "C34831711"
-label_id: "14047154"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039841/2017-07-26/0"
-intitule_bron: "Stcrt.2017-42146"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-07-25"
-intitule_in_force: "2017-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-42146"
-original_published_date: "2017-07-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-42146"
-entry_into_force_date: "2017-07-26"
-jci_1_3: "jci1.3:c:BWBR0039841&z=2017-07-26&g=2017-07-26"
-jci_1_0: "1.0:c:BWBR0039841&g=2017-07-26"
-citeertitel_status: "redactioneel"
-short_title: "Richtlijnen aanvragen financiering wetenschappelijk onderzoek (doorlopend Open Technologieprogramma (OTP))"
-entry_into_force: "2017-07-26"
+publicatiedatum: 2017-07-26
+laatste_update: 2017-07-26
+status: geldig
+toestand: 2017-07-26
+bron: "https://wetten.overheid.nl/BWBR0039841"
+opgehaald: 2026-08-26
 ---
+
 # Richtlijnen voor het aanvragen van financiering voor wetenschappelijk onderzoek in het kader van het doorlopend Open Technologieprogramma (OTP)
 
 ### ‘Connecting innovators’
+
+Open Technologieprogramma geldend voor de periode van:
+
+1 augustus 2017 tot 1 januari 2018
 
 Utrecht, 1 juli 2017
 
@@ -55,6 +40,10 @@ NWO-domein TTW verbindt mensen en middelen om wetenschap breed technologie en te
 
 NWO-domein TTW doet dat:
 
+- • door het bij elkaar brengen van wetenschappelijke onderzoekers en potentiële gebruikers;
+
+- • door het financieren van excellent toegepast en technisch-wetenschappelijk onderzoek.
+
 ### 2.2. Utilisatie
 
 TTW-onderzoek genereert waardevolle kennis. Naast excellente wetenschap wil NWO-domein TTW de toepassing van kennis bevorderen. Het geheel aan activiteiten dat tot doel heeft de kans op toepassing van de onderzoeksresultaten door derden te maximaliseren, duidt NWO-domein TTW aan met de term utilisatie. Om naast de wetenschappelijke kwaliteit ook utilisatie te bevorderen, wordt voor ieder project een gebruikerscommissie ingesteld.
@@ -75,7 +64,7 @@ Binnen het Open Technologieprogramma werd in 2016 circa 30 procent van de aanvra
 
 De maximale TTW-bijdrage bedraagt 750.000 euro (inclusief btw) per project. Bij projecten met een investeringskarakter (>250.000 euro aan apparatuur) bedraagt de TTW-bijdrage maximaal 1 miljoen euro (inclusief btw).
 
-### 3.3. [NWO Subsidieregeling 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039531) en beleid intellectueel eigendom (IE)
+### 3.3. NWO Subsidieregeling 2017 en beleid intellectueel eigendom (IE)
 
 Op dit programma zijn de [NWO Subsidieregeling 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039531) en de Richtlijnen Gebruikerscommissie NWO- domein TTW 2017 (zie de brochures op www.ttw.nwo.nl) van toepassing (zie ook ‘Toelichting gebruikers, cofinanciering en steunbrieven’ en ‘Toelichting IE-beleid’ verderop in deze brochure).
 
@@ -85,7 +74,15 @@ Op dit programma zijn de [NWO Subsidieregeling 2017](https://wetten.overheid.nl/
 
 Als de totale projectkosten hoger zijn dan 500.000 euro is een bijdrage in de projectkosten (cofinanciering) door (een) gebruiker(s) verplicht en wel 25% van het meerdere boven de 500.000 euro.
 
-**Definities**
+*Definities*
+
+- • Totale projectkosten: benodigde financiële middelen plus in natura bijdragen.
+
+- • Cofinanciering: financiële en/of in natura bijdrage(n).
+
+- • Financiële bijdragen: financiële bijdragen worden gebruikt ter dekking van een deel van de projectkosten en vormen dus samen met de TTW-bijdrage de benodigde financiële middelen.
+
+- • In natura (in kind) bijdragen: gekapitaliseerde personele en/of materiële bijdragen van gebruikers.
 
 ### 4.2. Looptijd van het programma
 
@@ -98,6 +95,10 @@ Onderzoeksaanvragen die in een eerdere STW/TTW-selectieprocedure zijn afgewezen,
 ### 4.4. Datamanagement
 
 Bij goed onderzoek hoort verantwoord datamanagement. NWO wil dat onderzoeksdata die voortkomen uit met publieke middelen gefinancierd onderzoek zo veel mogelijk ‘vrij’ en duurzaam beschikbaar komen voor hergebruik door andere onderzoekers. NWO wil bovendien het bewustzijn bij onderzoekers over het belang van verantwoord datamanagement vergroten. Aanvragen dienen daarom te voldoen aan het datamanagementprotocol van NWO. Dit protocol bestaat uit twee stappen:
+
+- 1. *Datamanagementparagraaf* De datamanagementparagraaf maakt deel uit van de onderzoeksaanvraag. Onderzoekers dienen vier vragen te beantwoorden over datamanagement binnen hun beoogde onderzoeksproject. Hij of zij wordt dus gevraagd reeds voor aanvang van het onderzoek te bedenken hoe de verzamelde data geordend en gecategoriseerd moeten worden zodat zij vrij beschikbaar kunnen worden gesteld. Vaak zullen al bij het tot stand komen van de data en de analyse daarvan maatregelen getroffen moeten worden om opslag en deling later mogelijk te maken. Onderzoekers kunnen zelf aangeven welke onderzoeksdata zij voor opslag en hergebruik relevant achten.
+
+- 2. *Datamanagementplan* Na honorering van een aanvraag dient de onderzoeker de datamanagementparagraaf uit te werken tot een datamanagementplan. Uiterlijk 4 maanden na honorering van de aanvraag moet dat plan via ISAAC zijn ingediend bij NWO-domein TTW. NWO-domein TTW keurt het plan zo snel mogelijk goed. Goedkeuring van het datamanagementplan door NWO-domein TTW is voorwaarde voor de toekenning. Het plan kan tijdens het onderzoek worden bijgesteld. Meer informatie over het datamanagementprotocol van NWO staat op: www.nwo.nl/datamanagement.
 
 ### 4.5. Nagoya Protocol
 
@@ -143,7 +144,7 @@ Om aanvragers een faire beoordeling en transparantie te bieden, hanteert NWO-dom
 
 ### 6. Na honorering
 
-**(zie ook de NWO Subsidieregeling 2017 op www.ttw.nwo.nl)**
+*(zie ook de NWO Subsidieregeling 2017 op www.ttw.nwo.nl)*
 
 ### 6.1. Bij honorering
 
@@ -157,11 +158,11 @@ Na honorering van een aanvraag dient de projectleider de datamanagementparagraaf
 
 ### 6.3. Start en startdatum van het project
 
-De toegekende kredieten komen pas beschikbaar nadat de benodigde documenten ondertekend zijn ontvangen door NWO-domein TTW en er aan alle gestelde honoreringsvoorwaarden is voldaan. Indien dit laatste nog niet geval is, bijvoorbeeld door nog lopende onderhandelingen over intellectueel eigendom, kan aan NWO-domein TTW schriftelijke toestemming gevraagd worden om het project te mogen starten. Zonder schriftelijke toestemming zijn de mogelijke financiële risico’s voor de aanvrager(s). De startdatum van het project is de datum waarop een eerste uitgave van de toegekende middelen is gedaan. Dit is doorgaans niet de datum van honorering. Meestal betreft dit de aanstelling van het eerste personeelslid op kosten van het project. ****Een project dient binnen 12 maanden na honorering testarten.****
+De toegekende kredieten komen pas beschikbaar nadat de benodigde documenten ondertekend zijn ontvangen door NWO-domein TTW en er aan alle gestelde honoreringsvoorwaarden is voldaan. Indien dit laatste nog niet geval is, bijvoorbeeld door nog lopende onderhandelingen over intellectueel eigendom, kan aan NWO-domein TTW schriftelijke toestemming gevraagd worden om het project te mogen starten. Zonder schriftelijke toestemming zijn de mogelijke financiële risico’s voor de aanvrager(s). De startdatum van het project is de datum waarop een eerste uitgave van de toegekende middelen is gedaan. Dit is doorgaans niet de datum van honorering. Meestal betreft dit de aanstelling van het eerste personeelslid op kosten van het project. **Een project dient binnen 12 maanden na honorering testarten.**
 
 ### 6.4. Wijzigingen in projectplan en/of begroting
 
-Voor elke substantiële inhoudelijke afwijking dan wel wijziging van het door NWO gehonoreerde projectplan is voorafgaande toestemming van NWO vereist. Dit geldt ook voor wijziging in de samenstelling van het in het projectplan opgevoerde personeel dan wel de omvang waarin de personeelsleden voor het project worden ingezet en/of wijziging van de persoon van de projectleider. De in het honorerings/toekenningsbesluit c.q. de goedgekeurde begroting opgenomen afzonderlijke begrotingsposten gelden als maxima (zie de [NWO Subsidieregeling 2017, artikel 3.4.3](onbekend)., voor meer details).
+Voor elke substantiële inhoudelijke afwijking dan wel wijziging van het door NWO gehonoreerde projectplan is voorafgaande toestemming van NWO vereist. Dit geldt ook voor wijziging in de samenstelling van het in het projectplan opgevoerde personeel dan wel de omvang waarin de personeelsleden voor het project worden ingezet en/of wijziging van de persoon van de projectleider. De in het honorerings/toekenningsbesluit c.q. de goedgekeurde begroting opgenomen afzonderlijke begrotingsposten gelden als maxima (zie de [NWO Subsidieregeling 2017, artikel 3.4.3](https://wetten.overheid.nl/BWBR0039531)., voor meer details).
 
 ### 6.5. Gebruikerscommissie
 
@@ -199,17 +200,39 @@ Het door NWO stopzetten van een project voor de officiële einddatum is mogelijk
 
 ### 7.1. SAAC
 
-Het indienen van een aanvraag kan alleen via het online aanvraagsysteem ISAAC. **Aanvragen die niet via ISAAC zijn ingediend, worden niet in behandeling genomen**. Een hoofdaanvrager is verplicht zijn/haar aanvraag via zijn/haar eigen ISAAC-account in te dienen. Indien de hoofdaanvrager nog geen ISAAC-account heeft, dient hij/zij dat minimaal een dag voor het indienen aan te maken. Dit om eventuele aanmeldproblemen op tijd te kunnen verhelpen. Indien de hoofdaanvrager al een account voor ISAAC heeft (bij NWO of STW), hoeft deze geen nieuw account aan te maken om een nieuwe aanvraag in te dienen.
+Het indienen van een aanvraag kan alleen via het online aanvraagsysteem ISAAC. *Aanvragen die niet via ISAAC zijn ingediend, worden niet in behandeling genomen*. Een hoofdaanvrager is verplicht zijn/haar aanvraag via zijn/haar eigen ISAAC-account in te dienen. Indien de hoofdaanvrager nog geen ISAAC-account heeft, dient hij/zij dat minimaal een dag voor het indienen aan te maken. Dit om eventuele aanmeldproblemen op tijd te kunnen verhelpen. Indien de hoofdaanvrager al een account voor ISAAC heeft (bij NWO of STW), hoeft deze geen nieuw account aan te maken om een nieuwe aanvraag in te dienen.
 
-**Het indienen van een aanvraag bestaat uit twee delen:**
+*Het indienen van een aanvraag bestaat uit twee delen:*
 
-**Bijlagen**
+- 1. Het online invoeren van de gevraagde gegevens in ISAAC.
+
+- 2. **Ruim hier voldoende tijd voor in!**
+
+- 3. Het indienen van het ingevulde aanvraagformulier.
+
+   - a. Download het aanvraagformulier vanuit het online aanvraagsysteem ISAAC of vanaf de website van NWO-domein TTW (op de webpagina van de betreffende call for proposals).
+
+   - b. Vul het aanvraagformulier in.
+
+   - c. Sla het formulier op als pdf en upload het in ISAAC.
+
+*Bijlagen*
 
 Bij het aanvraagformulier behorende bijlagen dienen afzonderlijk en in pdf-formaat (zonder beveiliging) te worden toegevoegd. Het aanvraagformulier met bijlagen wordt als onderzoeksaanvraag beschouwd.
 
-**Verplichte bijlagen:**
+*Verplichte bijlagen:*
 
-**Technische vragen over het online aanvraagsysteem ISAAC**
+- • Ingevuld formulier ‘Financiële planning’
+
+- • Ingevuld en ondertekend formulier ‘Verklaring en ondertekening hoofdaanvrager’
+
+- • Ingevuld (Engelse taal) formulier ‘Data management section’
+
+- • Steunbrieven ter bevestiging van de cofinanciering (als 1 gecombineerde pdf)
+
+- • Schriftelijke verklaring ‘tenure track’ positie (hoofd)aanvrager (indien van toepassing)
+
+*Technische vragen over het online aanvraagsysteem ISAAC*
 
 Voor vragen van technische aard verzoeken wij u contact op te nemen met de ISAAC helpdesk, zie onder ‘Overige informatie’.
 
@@ -229,15 +252,63 @@ Medeaanvragers moeten een actieve rol hebben bij de uitvoering van het project (
 
 ### 8.2. Wie kunnen optreden als hoofd- en medeaanvragers?
 
+- • Hoogleraren en universitaire (hoofd)docenten (of vergelijkbare posities), vast aangesteld aan
+
+   - • Nederlandse universiteiten
+
+   - • Universitaire Medische Centra
+
+   - • Prinses Máxima Centrum
+
+   - • KNAW- en NWO-instituten
+
+   - • het Nederlands Kanker Instituut (NKI)
+
+   - • het Max Planck Instituut voor Psycholinguïstiek te Nijmegen
+
+   - • Dubble-bundellijn bij de ESFR te Grenoble
+
+   - • NCB Naturalis
+
+   - • Advanced Research Centre for NanoLithography (ARCNL)
+
+- • Onderzoekers met een ‘tenure track’-aanstelling aan genoemde kennisinstellingen. NWO een ‘tenure track’-aanstelling als een aanstelling voor ervaren wetenschappelijk onderzoekers met uitzicht op een vast dienstverband en een hoogleraarschap op termijn. De ‘tenure track’-aanstelling moet schriftelijk zijn vastgelegd en gefinancierd worden uit structurele middelen van de kennisinstelling, hetgeen blijkt uit een schriftelijke verklaring van de universiteit. NWO-domein TTW zal verifiëren of de aanstelling aan deze voorwaarden voldoet en of deze is gegarandeerd voor de looptijd van het project.
+
 ### 8.3. Hoofd- en medeaanvragers met een deeltijdaanstelling
 
+- • Hoofdaanvragers en medeaanvragers die in deeltijd werken moeten in ieder geval over voldoende universitaire faciliteiten en budget beschikken om het project naar behoren te kunnen uitvoeren.
+
+- • Hoofdaanvragers en medeaanvragers moeten TTW-onderzoek uitvoeren in de tijd dat ze voor de kennisinstelling werken. Is dat niet het geval dan dient de andere werkgever een afstandsverklaring te tekenen, zodat kenniseigendom voor NWO en de kennisinstelling(en) is gewaarborgd.
+
 ### 8.4. Wie kunnen niet aanvragen? (Dit geldt zowel voor hoofd- als medeaanvragers)
+
+- • Personeel met een nulaanstelling
+
+- • Personeel met een tijdelijk dienstverband (bijv. postdocs)
+
+- • Emeritus hoogleraren
+
+- • Personeel van instituten met een toegepaste of technologische doelstelling, zoals TNO, de Grote Technologische Instituten (GTI’s) en het niet-universitaire deel van WUR
+
+- • Personeel van een door een doelsubsidie publiek-privaat gefinancierde kennisinstelling
+
+- • Personeel van buitenlandse kennisinstellingen
+
+- • Personeel van bij private partijen
 
 ### 9. Wat kan aangevraagd worden?
 
 ### 9.1. Projectspecifieke kosten
 
 NWO-domein TTW zal projectspecifieke kosten vergoeden voor:
+
+- 1. salaris van tijdelijk op het project bij de kennisinstelling aan te stellen personeel
+
+- 2. materialen (verbruiksgoederen, kleine instrumenten en hulpmiddelen) en binnenlandse reizen
+
+- 3. buitenlandse reizen
+
+- 4. investeringen (duurzame apparatuur waarover economische waarde wordt afgeschreven)
 
 De kennisinstelling is verantwoordelijk voor medefinanciering uit de eerste geldstroom en draagt daarmee zorg voor de benodigde infrastructuur en de begeleiding van de projectmedewerkers.
 
@@ -246,6 +317,18 @@ Indien een (mede)aanvrager samenwerkt met andere voor NWO-domein TTW niet-subsid
 ### 9.1.1. Toelichting kosten tijdelijk op het project bij de kennisinstelling aan te stellen personeel
 
 U kunt tijdelijke personeelsplaatsen aanvragen voor:
+
+- • promovendus
+
+- • postdoc (PD)
+
+- • PDEng trainee
+
+- • overig WP (wetenschappelijk personeel, o.a. toegevoegd onderzoeker, drs., ir., A(N)IOS)
+
+- • NWP (niet-wetenschappelijk personeel, o.a. technisch assistent)
+
+- • Casimir-kandidaat
 
 ### 9.1.1.a. Toelichting Tijdelijke personeelsplaatsen
 
@@ -271,11 +354,39 @@ In voorkomende gevallen kan een aanvrager met redenen omkleed aan het TTW-bureau
 
 Het is mogelijk om een tijdelijke personeelsplaats aan te vragen voor een PDEng trainee (gecertificeerde opleiding Professional Doctorate in Engineering). Deze positie dient te worden aangevraagd in een groter onderzoeksverband (1 of meerdere andere WP-posities). De PDEng trainee is in dienst bij de aanvragende instelling en kan voor bepaalde tijd werkzaamheden binnen het onderzoek bij een industriële partner uitvoeren (op basis van detachering).
 
-Aan de PDEng-positie zijn de volgende **voorwaarden** verbonden:
+Aan de PDEng-positie zijn de volgende *voorwaarden* verbonden:
+
+- • In het onderzoeksplan en de utilisatieparagraaf dient de inbedding van de PDEng-positie beschreven te worden en/of het achterliggende ‘Technological Designer Programme’.
+
+- • Uitgaande van een full time aanstelling geldt een duur van maximaal 2 jaar.
+
+- • Voor de PDEng-positie geldt het personeelstarief van een promovendus (eerste 24 maanden). De personeelskosten worden opgevoerd bij het personeelskrediet.
+
+- • Voor de PDEng positie kan materiaal- en/of reiskrediet aangevraagd worden als onderdeel van het reguliere aan te vragen krediet.
+
+- • De bijdrage van de betrokken industriële partner(s) aan de PDEng-positie kan worden opgevoerd als cofinanciering; als *in cash*te verrekenen met NWO of als *in kind*indien het bedrag via de instelling wordt verrekend.
+
+- • Bij honorering van het project moet met de betrokken industriële partner(s) een (detacherings)overeenkomst afgesloten worden.
 
 ### 9.1.1.e. Toelichting Casimir-kandidaat
 
-Het is mogelijk één WP-positie in te laten vullen door een academisch opgeleide R&D-werknemer van een Nederlands bedrijf of een bedrijf met een Nederlandse vestiging waar R&D bedreven wordt (100% private sector). Hiervoor gelden de volgende **voorwaarden**:
+Het is mogelijk één WP-positie in te laten vullen door een academisch opgeleide R&D-werknemer van een Nederlands bedrijf of een bedrijf met een Nederlandse vestiging waar R&D bedreven wordt (100% private sector). Hiervoor gelden de volgende *voorwaarden*:
+
+- • Uitgaande van een full time detachering geldt een duur van maximaal 2 jaar en voor een promotietraject van maximaal 3 jaar. Detachering in deeltijd (minimaal 50%) is mogelijk.
+
+- • De beoogde kandidaat dient minimaal 1 jaar bij de werkgever uit bovengenoemde private sector werkzaam te zijn (tijdelijke of vaste aanstelling).
+
+- • Bij de aanvraag moet een korte beschrijving gegeven worden van de werkervaring en expertise van de beoogde kandidaat. Uitgaande van de benodigde werkervaring van desbetreffende kandidaat moet een promotietraject binnen 3 mensjaar kunnen worden afgerond.
+
+- • Naast de Casimir-positie dient er tenminste 1 andere WP-positie te worden aangevraagd met minimaal dezelfde aanstellingsomvang.
+
+- • De Casimir-kandidaat dient toegang te hebben tot de universitaire infrastructuur en de Casimir- positie dient een integraal en noodzakelijk onderdeel te zijn van het voorgestelde universitaire onderzoek. De Casimir-positie staat ten dienste van het behalen van de projectdoelstellingen en utilisatie. Dit moet in het onderzoeksplan beschreven worden.
+
+- • Voor de Casimir-positie geldt m.b.t. de personeelskosten dat de universiteit de werkelijk aan het bedrijf te vergoeden detacheringskosten kan declareren bij NWO-domein TTW, tot maximaal het personeelstarief voor een postdocpositie geldend voor betreffende aanstellingsomvang. Deze kosten dienen gerekend te worden tot het materiaalkrediet van het project. Voor de Casimir-kandidaat accepteert NWO-domein TTW geen WW-verplichting.
+
+- • Voor de Casimir-kandidaat kan materiaal- en/of reiskrediet aangevraagd worden als onderdeel van het reguliere aan te vragen krediet.
+
+- • Bij honorering van het project moet met het betrokken bedrijf een (detacherings)overeenkomst worden afgesloten.
 
 ### 9.1.2. Toelichting kosten materialen en binnenlandse reizen
 
@@ -283,9 +394,49 @@ NWO-domein TTW vergoedt de kosten van verbruiksgoederen, kleine instrumenten en 
 
 ### 9.1.2.a. Toelichting Materiaalkrediet
 
-**WEL** tot het materiaalkrediet te rekenen
+*WEL* tot het materiaalkrediet te rekenen
 
-**NIET** toelaatbaar van het materiaalkrediet
+- • Materialen die geen economische waarde meer hebben na gebruik. Het gaat hier dus om verbruiksgoederen, kleine instrumenten en hulpmiddelen.
+
+- • Gespecificeerde samengestelde posten. Met name vaste termijnbedragen of tarieven (bijvoorbeeld ‘bench fees’ en ‘fees voor standaard analyses’) moeten worden onderbouwd. Binnen de tarieven die NWO-domein TTW accepteert, kunnen alleen de verbruikskosten bij NWO-domein TTW in rekening worden gebracht.
+
+- • Personele kosten Casimir-positie (zie toelichting Casimir-positie).
+
+- • Kosten voor binnenlandse reizen.
+
+- • Kosten voor projectspecifieke cursussen voor TTW-onderzoekers die noodzakelijk zijn voor de uitvoering van het onderzoek.
+
+- • Posters voor kennisdisseminatie op congressen en symposia.
+
+- • Preklinische studies. Voorwaarde hierbij is dat de projectmedewerkers zelf voor het merendeel van de werkzaamheden verantwoordelijk zijn (o.a. sampling, analyses).
+
+- • Kosten voor het gebruik van cleanrooms voor zover deze kosten vallen onder de cleanroomregeling (zie www.ttw.nwo.nl).
+
+- • Kosten van onderzoeksactiviteiten door onderzoeksspecialisten werkzaam bij kennisinstellingen, die niet voor NWO subsidiëring in aanmerking komen, kunnen in beperkte mate vergoed worden. *Neem daarvoor contact op met het TTW-bureau.*
+
+*NIET* toelaatbaar van het materiaalkrediet
+
+- • Posten als ‘diversen’, ‘onvoorzien’ en ongespecificeerde ‘bench fees’.
+
+- • Octrooikosten. In voorkomende gevallen zal NWO-domein TTW bezien in hoeverre NWO-domein TTW deze kosten draagt.
+
+- • Kosten van publicaties of kosten aanschaf van boeken en/of tijdschriften.
+
+- • Kosten voor het drukken van een proefschrift. Hiervoor bestaat een aparte vergoedingsregeling (zie www.ttw.nwo.nl).
+
+- • Kosten voor algemene cursussen die bij de generieke opleiding van onderzoekers horen en de generieke opleiding van een promovendus (o.a. Engels, presenteren, literatuur zoeken, proefdierkunde, gebruik isotopen).
+
+- • Kosten voor desktopcomputers, laptops of notebooks e.d. voor administratieve doeleinden (tekst- en dataverwerking) en kosten voor computergebruik.
+
+- • Generieke software. NWO-domein TTW gaat ervan uit dat generieke software via campuslicenties beschikbaar is.
+
+- • Kosten in verband met het gebruik van rekenfaciliteiten bij SURFsara. Deze kosten kunnen zo nodig worden aangevraagd bij het Netherlands eScience Center (NLeSC) in Amsterdam.
+
+- • Kosten voor het gebruik van bestaande infrastructuur (afschrijvingskosten), salariskosten van vast personeel, huisvestingskosten, overhead en administratieve en technische ondersteuning voor zover deze tot het gebruikelijke voorzieningenpakket van de kennisinstelling behoren.
+
+- • Kosten (m.u.v. materiaalkosten en cleanroomregeling) voor universitaire faciliteiten (o.a. kasruimte, proefdierfaciliteiten, specialistische onderzoeksfaciliteiten).
+
+- • Klinische trials.
 
 ### 9.1.3. Toelichting kosten buitenlandse reizen
 
@@ -303,13 +454,39 @@ Het is voor tijdelijk aangestelde projectmedewerkers mogelijk om in het kader va
 
 Daarnaast is het mogelijk om in het kader van een TTW-project tijdelijk een buitenlandse onderzoeker te betrekken die de kennisinstelling bezoekt en actief in de projectuitvoering participeert.
 
-**Randvoorwaarden** bij buitenlandse reizen van maximaal zes maanden:
+*Randvoorwaarden* bij buitenlandse reizen van maximaal zes maanden:
+
+- • Dit type buitenlandse reizen moet bij het in behandeling nemen van de aanvraag bij NWO-domein TTW bekend zijn en deel uitmaken van de onderzoeksplanning, zodat referenten dit mee kunnen nemen in hun review.
+
+- • Voorwaarde voor uitwisseling is dat de kennis die door het bezoek wordt ingebracht niet of onvoldoende voor handen is bij de kennisinstelling waar het onderzoek wordt uitgevoerd. NWO- domein TTW toetst bij acceptatie of dit daadwerkelijk resulteert in een versterking van de kennisbasis voor het project.
+
+- • NWO-domein TTW vergoedt de reiskosten (gebaseerd op economy class), onderzoekskosten en een normbedrag voor verblijfskosten. Er worden geen (extra) salariskosten vergoed.
+
+- • Eventuele zaken rond intellectueel eigendom zijn afgedekt via een geschikte overeenkomst (afstandsverklaring/geheimhouding) vóórdat de reis wordt gemaakt.
 
 ### 9.1.4. Toelichting kosten investeringen
 
 Investeringen zijn gedefinieerd als het gebruik van duurzame wetenschappelijke apparatuur waarover economische waarde wordt afgeschreven. De kosten voor investeringen worden inclusief btw in de begroting opgevoerd.
 
 ### 9.1.4.a. Toelichting Investeringen
+
+- • NWO-domein TTW gaat ervan uit dat de kennisinstelling bij aanschaf van duurzame apparatuur een offerteprocedure hanteert en rekening houdt met de aanbestedingsrichtlijnen van de overheid.
+
+- • Bij aanschaf van tweedehands apparatuur moet de originele nota overlegd worden.
+
+- • Het is toegestaan om NWO-domein TTW te verzoeken om een apparaat naar rato van het gebruik mee te financieren. Dit moet na honorering schriftelijk worden vastgelegd.
+
+- • De kennisinstelling is verantwoordelijk voor de aansluiting, de bedrijfskosten en het onderhoud van de aangeschafte apparatuur (servicekosten en reparatie).
+
+- • NWO-domein TTW maakt onderscheid tussen exploitatie van bestaande voorzieningen binnen de kennisinstelling en investering in nieuwe voorzieningen specifiek ten behoeve van een TTW-project. In het geval van exploitatiekosten en bij kleinere investeringen vergoedt NWO-domein TTW alleen de kosten van verbruiksgoederen. Deze kosten kunnen worden opgevoerd bij het materiaalkrediet. NWO-domein TTW zal wel de volledige kosten vergoeden van investeringsgoederen geleverd door interne diensten in die gevallen waar een onevenredig beslag wordt gelegd op de betreffende dienst, mits hiervoor overtuigende argumentatie wordt aangevoerd. Dit ter beoordeling aan NWO-domein TTW.
+
+- • Computers behorend tot wetenschappelijke apparatuur en specifieke software die exclusief voor het project wordt gebruikt, kunnen worden opgevoerd als investering.
+
+- • Computercapaciteit die voor het benodigde onderzoek aantoonbaar uitgaat boven het normaal benodigde kan worden opgevoerd als investering.
+
+- • Als in de loop van de tijd blijkt dat de kosten voor de in de aanvraag beschreven investeringen lager uitvallen dan begroot, zullen de resterende middelen terugvloeien naar NWO-domein TTW.
+
+- • NWO-domein TTW kan bestedingen weigeren die niet vooraf zijn begroot.
 
 ### 10. Toelichting gebruikers, cofinanciering en steunbrieven
 
@@ -325,9 +502,39 @@ Zie onder ‘programmaspecifieke vereisten’ voor de specifieke cofinancierings
 
 ### 10.2.1. Toelichting Criteria m.b.t. cofinanciering
 
+- • NWO-domein TTW gebruikt de financiële cofinanciering ter dekking van een gedeelte van de projectkosten. NWO-domein TTW stuurt na honorering een factuur naar gebruikers die een financiële bijdrage hebben toegezegd. Na ontvangst wordt het geld toegewezen op het project.
+
+- • NWO-domein TTW accepteert personele inzet en materiële bijdragen als cofinanciering op voorwaarde dat deze gekapitaliseerd worden en dat deze integraal onderdeel uitmaken van het project. Dit moet duidelijk worden in de beschrijving en de planning/fasering van het onderzoek.
+
+- • NWO-domein TTW is hoofdfinancier in de projecten. Projectaanvragen waarbij de cofinanciering van de gebruikers het bedrag ten laste van NWO-domein TTW overschrijdt, worden niet in behandeling genomen.
+
+- • NWO-domein TTW gaat ervan uit dat verstrekkers van cofinanciering een belang hebben als gebruiker en dus als toepasser van de onderzoeksresultaten buiten de wetenschap. Cofinanciers nemen altijd deel aan de gebruikerscommissie.
+
+- • Overheidsinstellingen kunnen diverse rollen spelen binnen TTW-projecten, te weten: (1) als onderzoekspartner (zonder recht op TTW-financiering), (2) als uitvoerder van een specifieke opdracht (conform markttarief) of (3) als gebruiker. Overheidsinstellingen kunnen als gebruiker optreden onder dezelfde voorwaarden als private gebruikers.
+
+- • De te leveren cofinanciering door gebruikers moet bevestigd worden in een steunbrief. In deze brieven moet expliciet worden vermeld: 1) het belang van de onderzoeksaanvraag voor de organisatie, 2) het belang van het utilisatieplan voor de bedrijfsvoering, 3) de toegezegde financiële dan wel de gespecificeerde, gekapitaliseerde materiële en/of personele bijdrage(n), en 4) of de gebruiker voornemens is om (i) NWO-domein TTW het voortouw te laten nemen in het maken van IE-afspraken conform het geldende TTW-IE beleid, of (ii) eigen IE & publicatie-afspraken te maken met de betrokken kennisinstelling en gebruikers hierover. Zie ook de vereisten aan een steunbrief onder het kopje ‘Steunbrieven’ en onder de ‘Toelichting Intellectueel Eigendomsrechten & publicatie- afspraken’.
+
 ### 10.2.2. Toelichting Criteria m.b.t. de in natura (in kind) cofinanciering
 
-### 10.2.3. **Niet** toelaatbaar als cofinanciering
+- • Het is mogelijk dat een gedeelte van het onderzoek wordt uitgevoerd door derden. Voorwaarde is dat de geleverde expertise in de vorm van mensuren niet reeds beschikbaar is op de kennisinstelling(en) en specifiek voor het TTW-project wordt ingezet. Voor personele ondersteuning door derden hanteert NWO-domein TTW vaste tarieven om het aantal ingezette mensuren (maximaal 1400 directe uren/jaar/fte) voor een senior of junior onderzoeker te kapitaliseren. Voor de actuele tarieven zie www.ttw.nwo.nl.
+
+- • Voor toegezegde materiële middelen rekent u de kostprijs. Commerciële tarieven worden niet geaccepteerd. Voor toegezegde apparatuur houdt u rekening met reeds gedane afschrijvingen én de intensiteit van gebruik.
+
+- • Toezeggingen in de vorm van de levering van diensten kan alleen als de dienst als identificeerbare **nieuwe** inspanning kan worden gevolgd. De dienst moet niet reeds beschikbaar zijn op de kennisinstelling(en) die het onderzoek uitvoer(t)en. Het kan voorkomen dat men reeds geleverde diensten (bijvoorbeeld een database, software of plantenlijnen) als in natura cofinanciering wil opvoeren. Acceptatie is in dit geval niet vanzelfsprekend. Hierover dient u contact op te nemen met NWO-domein TTW. In nader overleg wordt dan bepaald of voor deze levering een concrete waarde is vast te stellen.
+
+### 10.2.3. Niet toelaatbaar als cofinanciering
+
+- • NWO-domein TTW waakt voor oneigenlijke vermenging van geldstromen; cofinanciering kan nooit afkomstig zijn uit de eerste of tweede (NWO, KNAW) geldstroom. Cofinanciering kan daardoor ook nooit afkomstig zijn van de kennisinstelling van de (mede)aanvrager(s) of van instellingen die zelf bij NWO-domein TTW kunnen aanvragen.
+
+- • Kortingen op (commerciële) tarieven voor o.a. materialen, apparatuur en/of diensten.
+
+- • Kosten m.b.t. overhead, begeleiding, consultancy en/of deelname aan de gebruikerscommissie.
+
+- • Kosten voor diensten die voorwaardelijk zijn. Er mogen geen voorwaarden gesteld zijn aan de levering van de cofinanciering. Ook mag de levering van de cofinanciering niet afhankelijk zijn van het al dan niet bereiken van een bepaald stadium in het onderzoeksplan (bijv. go/no-go moment).
+
+- • Kosten die door NWO-domein TTW niet worden vergoed (bijv. klinische trials, kosten m.b.t. exploitatie van de resultaten uit het onderzoek, servicekosten apparatuur).
+
+- • Kosten van apparatuur indien een van de (hoofd)doelen van de onderzoeksaanvraag is verbetering/meerwaarde te creëren van deze apparatuur.
 
 ### 10.3. Steunbrieven
 
@@ -335,13 +542,45 @@ In het geval er cofinanciering wordt geleverd door gebruikers is een steunbrief 
 
 ### 10.3.1.a. Vormvereisten
 
+- • De brief is geschreven op briefpapier van het bedrijf.
+
+- • De brief is gericht aan de aanvrager.
+
+- • De brief is opgesteld in het *Engels*.
+
+- • De brief is volledig en correct geadresseerd.
+
+- • De brief is ondertekend door een tekeningsbevoegde.
+
+- • De in de brief genoemde financiële bijdrage is exclusief btw en wordt vermeerderd met btw (21%) aan NWO-domein TTW betaald.
+
 ### 10.3.2.b. Vereisten t.a.v. de inhoud
+
+- • Korte omschrijving over het bedrijf en de core-business (type bedrijf, grootte, welke dienst, producten).
+
+- • Een verklaring dat het bedrijf geïnteresseerd is in, en zich wil committeren aan, het onderzoek.
+
+- • Beantwoording van de vraag waarom het beantwoorden van de onderzoeksvraag van belang is voor het bedrijf. Hoe past deze oplossing in hun strategie?
+
+- • Een korte verklaring waarom juist deze onderzoeksgroep en deze aanvraag support krijgen.
+
+- • Wat het bedrijf concreet gaat bijdragen (incl. kapitalisatie) en waarom dit past in de onderzoeksaanvraag/planning.
+
+- • Het nader specificeren van in natura steun, zowel uren (aantal en/of gebruikt tarief) als materialen (aantallen; kostprijs; tarief; percentage dat aan het project kan worden toebedeeld etc.).
+
+- • Het bedrijf levert de omschreven bijdrage zonder aanvullende voorwaarden.
 
 ### 10.3.3.c. Verklaring en ondertekening door de Gebruiker
 
-**Het format voor een steunbrief is te vinden op de website van NWO-domein TTW (www.ttw.nwo.nl).**
+- • Het bedrijf verklaart en tekent ervoor de aanvraag gelezen te hebben.
 
-****Steunbrieven zijn onvoorwaardelijk en bevatten geen ontbindende bepalingen.****
+- • Het bedrijf verklaart en tekent ervoor (actief) deel te zullen nemen aan de Gebruikerscommissie (GC).
+
+- • Het bedrijf verklaart en tekent ervoor in te stemmen met de toepasselijkheid van de ‘Richtlijnen Gebruikerscommissie NWO-domein TTW’ (zie brochure op www.ttw.nwo.nl) op het project en haar uitvoering. *Indien van toepassing*: Het bedrijf verklaart en tekent ervoor om samen met alle betrokken gebruikers en kennisinstellingen eigen Intellectueel Eigendomsrechten & Publicatie (IE&P-)afspraken te maken. Deel 3 van de ‘Richtlijnen Gebruikerscommissie NWO-domein TTW’ (zie brochure op www.ttw.nwo.nl) is op eigen IE&P-afspraken niet van toepassing.
+
+*Het format voor een steunbrief is te vinden op de website van NWO-domein TTW (www.ttw.nwo.nl).*
+
+**Steunbrieven zijn onvoorwaardelijk en bevatten geen ontbindende bepalingen.**
 
 De vermelde bedragen in de steunbrieven moeten corresponderen met de bedragen in de opgevoerde begroting.
 
@@ -357,7 +596,7 @@ NWO-domein TTW realiseert kennisoverdracht tussen technische wetenschappen en ge
 
 De IE-regels van NWO domein TTW onderschrijven de domeinmissie en passen binnen het IE-beleid van NWO.
 
-Het NWO IE-beleid is te vinden in [hoofdstuk 4 van de NWO Subsidieregeling 2017](onbekend). Het NWO IE-beleid sluit aan bij de ‘Spelregels voor publiek-private samenwerking’ zoals die op 25 juni 2013 aan de Tweede Kamer zijn aangeboden.
+Het NWO IE-beleid is te vinden in [hoofdstuk 4 van de NWO Subsidieregeling 2017](https://wetten.overheid.nl/BWBR0039531). Het NWO IE-beleid sluit aan bij de ‘Spelregels voor publiek-private samenwerking’ zoals die op 25 juni 2013 aan de Tweede Kamer zijn aangeboden.
 
 NWO domein TTW biedt de mogelijkheid aan kennisinstellingen om met partijen waarmee zij samenwerken eigen IE & publicatie (IE&P-)afspraken te maken. Op die manier wil NWO domein TTW sterker inspelen op de wensen van onderzoekers en medefinanciers die zijn betrokken bij TTW-projecten. Het blijft onveranderd mogelijk om te kiezen voor de aanpak waarbij NWO-domein TTW het voortouw neemt in het maken van afspraken over o.a. intellectueel eigendom. In dat geval komen de IE-rechten op de resultaten gezamenlijk toe aan NWO en de begunstigde, wiens medewerker de betreffende resultaten heeft gegenereerd.
 
@@ -375,6 +614,26 @@ Hieronder vindt u nadere informatie over het IE-beleid van NWO (zie ook de broch
 
 ### 11.3. Uitgangspunten van het IE-beleid van NWO-domein TTW.
 
+- • *Eigendom van de onderzoeksresultaten* De eigendom van de onderzoeksresultaten van een TTW-project die door de onderzoekinstelling(en) is (zijn) gegenereerd, behoort gezamenlijk toe aan de desbetreffende kennisinstelling(en) en NWO.
+
+   - • De eigendom van de onderzoeksresultaten van een TTW-project die uitsluitend door een gebruiker(s) is (zijn) gegeneerd behoort toe aan de desbetreffende gebruiker(s). De gebruiker(s) geeft (geven) NWO-domein TTW en de onderzoekinstelling ‘freedom to operate’.
+
+   - • De eigendom van de onderzoeksresultaten van een TTW-project die door de onderzoekinstelling(en) en gebruiker(s) gezamenlijk zijn gegeneerd behoort toe aan de desbetreffende kennisinstelling(en) en NWO. Indien de mede-uitvindende gebruiker meer dan 10% personele cofinanciering heeft geleverd aan het project verkrijgt deze gebruiker een royalty-vrij niet-exclusief niet-overdraagbaar gebruiksrecht.
+
+   - • Bestaande IE-rechten blijven eigendom van de rechthebbende die de IE rechten inbrengt in het project. Deze rechthebbende geeft voor zover dit juridisch mogelijk is en er geen zwaarwegende bedrijfseconomische bezwaren zijn, ‘freedom to operate’, e.e.a. ter beoordeling van de rechthebbende die hierin redelijk zal zijn’.
+
+   - • ‘Freedom to operate’ betekent dat de eigenaar van de intellectuele eigendom licenties verstrekt aan anderen binnen het project:
+
+      - o voor zover juridisch mogelijk
+
+      - o voor zover noodzakelijk voor het project (gratis)
+
+      - o voor zover noodzakelijk voor de exploitatie van (andere) onderzoeksresultaten (tegen marktprijs)
+
+      - o voor zover het de redelijke commerciële belangen van de eigenaar niet schaadt.
+
+- • *Bescherming van de onderzoeksresultaten, geheimhouding en publicaties* NWO-domein TTW hecht veel belang aan kennisbescherming als die bescherming de kansen om kennisoverdracht te realiseren vergroot. Bij toetreding van gebruikers tot de gebruikerscommissie bij aanvang of in de loop van het onderzoek verplichten de gebruikers zich tot geheimhouding van de onderzoeksresultaten. Vooraf of tijdens de looptijd van het project kan worden afgesproken kennis binnen een project niet te beschermen, indien dit de kennisexploitatie ten goede komt. De onderzoeker is verplicht eventuele uitvindingen onmiddellijk te melden aan NWO-domein TTW.
+
 NWO-domein TTW dient vooraf duidelijkheid te hebben over belemmeringen om resultaten vrijelijk te kunnen gebruiken of exploiteren. Als blijkt dat er belemmeringen zijn voor de uitvoering van het IE- beleid van NWO-domein TTW, zal NWO-domein TTW aanvullende voorwaarden stellen. Indien tijdens de uitvoering van het project blijkt dat de projectleider heeft verzuimd dergelijke relevante informatie te melden, kan NWO-domein TTW het project opschorten totdat de belemmeringen zijn weggenomen.
 
 NWO-domein TTW kan daarbij verzoeken om inzage in contracten en/of octrooien. Contracten mogen niet in conflict zijn met het IE-beleid van NWO-domein TTW. Als blijkt dat NWO-domein TTW niet vrijelijk over de resultaten uit het TTW-onderzoek kan beschikken, kan NWO-domein TTW besluiten het project niet te honoreren dan wel stop te zetten.
@@ -383,7 +642,19 @@ NWO-domein TTW kan daarbij verzoeken om inzage in contracten en/of octrooien. Co
 
 Indien de hoofdaanvrager/projectleider er voor kiest om eigen intellectueel eigendomsrechten en publicatie afspraken te maken met de gebruiker(s) dan dienen de afspraken schriftelijk vastgelegd te zijn en te voldoen aan de volgende voorwaarden:
 
+- i. Alle benodigde foreground (uit het TTW-project voortvloeiende IE) en – voor zover juridisch mogelijk – background (reeds bestaande IE van bedrijf en/of kennisinstelling) zijn beschikbaar om het project uit te voeren.
+
+- ii. Overeenkomst is erop gericht om resultaten toe te passen of te delen in zin van openbaarmaking.
+
+- iii. Openbaarmaking van de wetenschappelijke kennis uit het project zal niet worden tegengehouden door gebruikers, echter begunstigde en gebruikers bepalen in overleg de publicatietermijnen.
+
+- iv. Door begunstigde gegenereerde resultaten uit het project blijven beschikbaar voor begunstigde voor onderwijs- en onderzoekdoeleinden.
+
 Bovendien geldt bij indiening c.q. honorering de volgende voorwaarde:
+
+- • Bij indiening: Begunstigde(n) en alle gebruikers zijn akkoord om eigen afspraken over intellectuele eigendom en publicatie toe te passen op het TTW-project en verklaren dat deze afspraken (zullen) voldoen aan criteria i t/m iv.
+
+- • Na honorering: Begunstigde(n) en alle gebruikers zijn schriftelijk akkoord met de overeenkomst.
 
 Door de projectleider wordt binnen drie maanden na honorering een kopie aangeleverd van de overeenkomst. Daarbij wordt per genoemde voorwaarde aangegeven waar in de overeenkomst dit geregeld is.
 
@@ -435,6 +706,16 @@ Voeg een algemene Engelstalige samenvatting toe voor de website van NWO-domein T
 
 Vermeld hier de samenstelling van het team dat het onderzoek zal gaan uitvoeren en hoe de verantwoordelijkheden en taken zijn verdeeld.
 
+- • Als meerdere kennisinstellingen participeren in een project geeft u aan wie naast de projectleider de beoogde deelprojectleiders zijn.
+
+- • Indien meerdere kennisinstellingen en/of onderzoeksgroepen bij het project betrokken zijn, geeft u ook aan wie van de medeaanvragers per kennisinstelling en/of onderzoeksgroep de leiding heeft en wie verantwoordelijk is voor de begeleiding van de onderzoekers.
+
+- • Vermeld bij de aan te vragen posities voor promovendi de (co-)promotoren.
+
+- • Als er sprake is van een deeltijdaanstelling van een (mede)aanvrager die kleiner is dan 0,4 fte, moet in de aanvraag staan wie van de vaste staf de dagelijkse begeleiding van de projectmedewerkers voor zijn of haar rekening neemt.
+
+- • De projectleider is in alle gevallen verantwoordelijk voor de coördinatie en communicatie tussen de deelnemende instellingen/ onderzoeksgroepen / onderzoekers.
+
 ### 4. Scientific description
 
 Een vakdeskundige (‘expert reviewer’) moet hier voldoende informatie vinden om de kwaliteit van de onderzoeksaanvraag te kunnen beoordelen.
@@ -459,6 +740,20 @@ Geef voldoende details zodat referenten en juryleden kunnen beoordelen wat de te
 
 ### 5.1. The problem and the proposed solution
 
+- • Beschrijf het probleem dat u gaat oplossen en geef aan voor wie het een probleem is. Geef aan wat de maatschappelijke en economische gevolgen zijn zolang het probleem nog niet opgelost is.
+
+- • Beschrijf hoe de beoogde onderzoeksresultaten een bijdrage leveren aan de oplossing van het probleem.
+
+- • Geef aan of de onderzoeksresultaten onderdeel kunnen worden van een standaardisatie of normstelling. Zo ja, omschrijf dit.
+
+- • Geef aan op welke termijn na de start van het onderzoek de beoogde onderzoeksresultaten tot een geheel nieuwe methode of een nieuw product, proces of dienst kunnen leiden. Beschrijf de markt daarvoor. Het gaat hierbij om niet-wetenschappelijke toepassingen.
+
+- • Beschrijf of en hoe het onderzoek bijdraagt aan de maatschappelijke uitdagingen beschreven in Horizon2020, het onderzoeks- en innovatieprogramma van de EU https://ec.europa.eu/programmes/horizon2020/en/h2020-section/societal-challenges.
+
+- • Beschrijf of en hoe het onderzoek aandacht besteedt aan maatschappelijke inbedding en acceptatie.
+
+- • Het opleveren van software code als open source wordt door NWO-domein TTW gezien als publicatie. In voorkomende gevallen kan het de utilisatie ten goede komen. In het utilisatieplan moet worden aangegeven hoe het bevorderen van de utilisatie gerealiseerd kan worden.
+
 ### 5.2. Potential users
 
 Geef hier de contactgegevens (naam organisatie/bedrijf en contactpersoon, adres, telefoonnummer, e-mailadres) van bedrijven en instellingen die willen deelnemen aan de gebruikerscommissie. Geef aan volgens welk stappenplan u ervoor gaat zorgen dat de resultaten van het onderzoek daadwerkelijk worden toegepast door gebruikers. Als daar tijdens de looptijd van het project derden bij nodig zijn, is het van belang dat die hun medewerking hebben toegezegd.
@@ -478,6 +773,12 @@ Vermeld hier alle voor de onderzoeksaanvraag relevante informatie met betrekking
 Vermeld hier of er bestaande contracten (o.a. material transfer agreements, licenties, samenwerkingsovereenkomsten) met derden (inclusief gebruikers) zijn in relatie tot het onderzoeksonderwerp.
 
 ### 6.2. Patents
+
+- 1) Geef hier een overzicht van octrooien en/of octrooiaanvragen van beoogde betrokkenen bij het project op het gebied van de onderzoeksaanvraag. Geef daarbij aan of de octrooien en/of octrooiaanvragen op naam van de betrokken kennisinstelling(en) staan of op naam van derden. Indien de betrokken kennisinstellingen relevante octrooien hebben, geef aan of hierover afspraken met derden (inclusief gebruikers) zijn gemaakt.
+
+- 2) Geef aan of er octrooien en/of octrooiaanvragen zijn die een belemmering vormen voor de utilisatie van de beoogde onderzoeksresultaten. Indien er sprake is van een belemmering, motiveer of er nog voldoende kansen zijn om de beoogde onderzoeksresultaten te beschermen door een octrooi.
+
+- 3) Indien het octrooieren van onderzoeksresultaten niet opportuun is, geef daarvoor hier de reden.
 
 ### 7. Positioning of the project proposal
 
@@ -505,6 +806,18 @@ Geef hier een motivering van de noodzaak van zowel de gevraagde personeelskredie
 
 Vermeld hier de benodigde tijdelijke personeelsplaatsen. U kunt tijdelijke personeelsplaatsen aanvragen voor:
 
+- • promovendus
+
+- • postdoc (PD)
+
+- • PDEng trainee
+
+- • overig WP (wetenschappelijk personeel, o.a. toegevoegd onderzoeker, drs., ir., A(N)IOS)
+
+- • NWP (niet-wetenschappelijk personeel, o.a. technisch assistent)
+
+- • Casimir-kandidaat
+
 ### 8.2. Consumables
 
 Geef hier een specificatie volgens de binnen uw kennisinstelling geldende normen van de kosten van verbruiksgoederen, kleine instrumenten en hulpmiddelen en kosten van binnenlandse reizen. De in de begroting vermelde bedragen worden inclusief btw opgevoerd.
@@ -517,7 +830,7 @@ Daarnaast kunnen bezoeken voor langere tijd worden aangevraagd.
 
 ### 8.4. Investments
 
-Geef hier een specificatie van de investeringskosten en een detailoverzicht van de benodigde apparatuur. Investeringen zijn gedefinieerd als het gebruik van duurzame wetenschappelijke apparatuur waarover economische waarde wordt afgeschreven. De kosten voor investeringen worden **inclusief** btw in de begroting opgevoerd.
+Geef hier een specificatie van de investeringskosten en een detailoverzicht van de benodigde apparatuur. Investeringen zijn gedefinieerd als het gebruik van duurzame wetenschappelijke apparatuur waarover economische waarde wordt afgeschreven. De kosten voor investeringen worden *inclusief* btw in de begroting opgevoerd.
 
 ### 8.5. Contribution from users
 
@@ -531,6 +844,16 @@ Voeg de Engelstalige steunbrieven ter bevestiging van te leveren cofinanciering 
 
 Vul het formulier Financiële Planning (FP) te vinden op www.ttw.nwo.nlin en vermeld daarop ook de eventuele financiële bijdrage(n) en/of gekapitaliseerde bijdrage(n).
 
+- • Zorg ervoor dat de gekapitaliseerde bijdragen in de begroting en de steunbrieven met elkaar corresponderen.
+
+- • Als een project bij meerdere kennisinstellingen plaatsvindt, geef dan een opdeling van de begroting per kennisinstelling.
+
+- • Een toelichting op het formulier is te vinden in bijlage 2. Dit formulier dient als aparte bijlage in pdf- formaat met het aanvraagformulier ingediend te worden.
+
+- • De kennisinstelling van de hoofdaanvrager sluit een financieringsovereenkomst met NWO.
+
+- • Een onderzoeksaanvraag, waarvan de begroting niet voldoet aan de vereiste cofinanciering wordt niet in behandeling genomen.
+
 ### 9. References
 
 ### 9.1. Selection of key publications research group
@@ -539,384 +862,16 @@ Vermeld hier de belangrijkste publicaties van de onderzoeksgroep(en) in relatie 
 
 ### 9.2. List of publications cited
 
-Vermeld hier de geciteerde publicaties (bij voorkeur niet als **et al**). Markeer de publicaties waarbij leden van de aanvragende onderzoeksgroep(en) betrokken zijn door het lettertype vet te maken. Ontwerpende en construerende disciplines kunnen hier evt. een lijst opnemen met publicaties van anderen die over hun ontwerpen verhandelen (Avery Index to Architectural Periodicals, Columbia University, New York).
+Vermeld hier de geciteerde publicaties (bij voorkeur niet als *et al*). Markeer de publicaties waarbij leden van de aanvragende onderzoeksgroep(en) betrokken zijn door het lettertype vet te maken. Ontwerpende en construerende disciplines kunnen hier evt. een lijst opnemen met publicaties van anderen die over hun ontwerpen verhandelen (Avery Index to Architectural Periodicals, Columbia University, New York).
 
 ### 10. Abbreviations and acronyms
 
 Het is van belang dat zowel de referenten als de juryleden de aanvraag makkelijk kunnen lezen. Afkortingen en acroniemen moeten daarom minimaal één keer verklaard worden. Dit kan in de tekst zelf of in een aparte lijst. Gebruik zo min mogelijk afkortingen in de samenvattingen.
 
+Verklaring en ondertekening door de aanvrager
+
 Met het invullen van het gevraagde (zie bijlage 3) op het formulier ‘Verklaring en ondertekening door de aanvrager’ te vinden op www.ttw.nwo.nltekent u, mede namens de medeaanvrager(s), de aanvraag voor naar waarheid ingevuld. Dit formulier is een verplicht onderdeel van de aanvraag en deze moet als afzonderlijke bijlage in pdf-formaat met het aanvraagformulier worden ingediend.
 
+Tot slot
+
 NWO-domein TTW adviseert u in geval van onduidelijkheden of op te voeren kosten die niet in deze brochure genoemd worden vóór indiening contact op te nemen met het TTW-bureau.
-
-## Bijlage 1. Voorbeeldberekening cofinancieringseis
-
-**Voorbeeldberekeningen bij onderzoeksaanvragen binnen het Open Technologieprogramma**
-
-- •. Stel u vraagt een project aan waarvoor de totale projectkosten 340.000 euro bedragen. In dit geval is geen cofinanciering vereist.
-
-- •. Stel u doet een aanvraag met totale projectkosten (650.000 euro benodigde financiële middelen + 0 euro in natura bijdrage) van 650.000 euro. De vereiste cofinanciering bedraagt 25% van 150.000 = 37.500 euro. U heeft 40.000 euro aan toegezegde financiële bijdragen van gebruikers. U voldoet hiermee aan de eisen. NWO-domein TTW kent bij honorering 610.000 euro toe (TTW-bijdrage).
-
-- •. Stel u doet een aanvraag met totale projectkosten (610.000 euro benodigde financiële middelen + 40.000 euro in natura bijdrage) van 650.000 euro. De vereiste cofinanciering bedraagt 25% van 150.000 = 37.500 euro. U heeft een bijdrage in natura van 40.000 euro. U voldoet hiermee aan de eisen. NWO-domein TTW kent bij honorering 610.000 euro toe (TTW-bijdrage).
-
-- •. Stel u doet een aanvraag met totale projectkosten (620.000 euro benodigde financiële middelen + 30.000 euro in natura bijdrage) van 650.000 euro. De vereiste cofinanciering bedraagt 25% van 150.000 = 37.500 euro. U heeft een financiële bijdrage van 10.000 euro en een bijdrage in natura van 30.000 euro. U voldoet hiermee aan de eisen. NWO-domein TTW kent bij honorering 610.000 euro toe (TTW- bijdrage).
-
-**NB**: Wij adviseren u bij onduidelijkheden vóóraf contact op te nemen met het TTW-bureau.
-
-## Bijlage 2. Toelichting bij het invullen van een FP
-
-(Financiële Planning; Excel file). De FP dient als aparte bijlage in pdf-formaat met het aanvraagformulier ingediend te worden.
-
-- •. Personeelskredieten worden per formatieplaats ingevuld. U vult per persoon een formatieplaatsnummer, een personeelscategorie, de aanstellingsomvang, het aantal maanden en het bijbehorende tarief (blad 3) in. Verifieer of u over de meest recente personeelstarieven beschikt. Jaarlijks worden deze per 1 juli vastgesteld, maar tussentijdse aanpassingen zijn mogelijk. Houd bij berekening van de hoogte van het bedrag rekening met de aanstellingsomvang (de personeelstarieven zijn gebaseerd op 1 fte) en met het jaar van aanstelling (start in maand 13 is tarief vanaf maand 13). **NB**: Promovendi worden gezien hun salarisopbouw altijd in het tarief vanaf maand 1 aangesteld.
-
-- •. Materieel krediet en investeringskrediet worden inclusief btw ingevuld.
-
-- •. Materieel krediet, krediet voor buitenlandse reizen en investeringskrediet worden ingevuld als totaal.
-
-- •. Het personeelskrediet, materieel krediet, krediet voor buitenlandse reizen en het investeringskrediet vormen tezamen de totaal benodigde financiële middelen.
-
-- •. Bij cofinanciering in natura vult u de officiële naam van de cofinancier in, een korte omschrijving van de materiële en/of personele bijdrage en het gekapitaliseerde bedrag. Deze cofinanciering wordt bij bovenstaande vier kredieten niet meegerekend, maar telt wel mee bij de totale projectkosten.
-
-- •. Bij cofinanciering in geld vult u de officiële naam van de cofinancier in en het bedrag dat door de cofinancier is toegezegd. Dit bedrag dient als negatief bedrag te worden ingevoerd. Deze financiële bijdragen worden door NWO-domein TTW gebruikt ter dekking van een deel van de projectkosten. NWO-domein TTW int de financiële bijdrage waarna deze aan het project wordt toegekend.
-
-- •. Voor alle cofinanciering geldt dat een Engelstalige steunbrief van de cofinancier vereist is met daarin de vermelding van de hoogte van het toegezegde bedrag.
-
-- •. Onderzoeksaanvragen waarvan de begroting niet aan de verplichte cofinancieringseis (staffel) voldoet, worden niet in behandeling genomen.
-
-- •. Niet bestede kredieten vervallen bij beëindiging van het project.
-
-## Bijlage 3. Formulier ‘Verklaring en ondertekening’
-
-****Voorbeeld****formulier ‘Verklaring en ondertekening door de hoofdaanvrager’
-
-Dit formulier dient als afzonderlijke bijlage in pdf-formaat met het aanvraagformulier ingediend te worden.
-
-Af te vinken:
-
-- •. Alle (mede)aanvragers voldoen aan de criteria m.b.t. ‘Wie kunnen optreden als hoofd- of medeaanvrager?’
-
-- •. Alle verplichte steunbrieven (bevestiging cofinanciering) zijn bijgevoegd (in 1 gecombineerde pdf).
-
-- •. Het formulier ‘Financiële Planning’ is bijgevoegd (afzonderlijke bijlage in pdf-formaat).
-
-- •. Het formulier ‘Data management section’ is bijgevoegd.
-
-- •. Bij het indienen van dit document verklaar ik te voldoen aan de nationaal en internationaal aanvaarde normen van wetenschappelijk handelen zoals neergelegd in de **Nederlandse Gedragscode Wetenschapsbeoefening 2012**(VSNU).
-
-- •. Indien van toepassing: Er is financiering aangevraagd voor (delen van) deze onderzoeksaanvraag bij een andere financier (niet bedoeld zijn genoemde potentiële gebruikers) of bij een andere call for proposals binnen NWO.
-
-- •. Indien van toepassing: Ik ga akkoord met naleving van de Code Openheid Dierproeven.
-
-- •.  Indien van toepassing: Ik ga akkoord met naleving van het Nagoya Protocol (zie bij links)
-
-Naar waarheid ingevuld en ondertekend (aanvraag inclusief de antwoorden op onderstaande vragen en mede namens de medeaanvrager(s))
-
-**Naam en voorletters:**
-
-**Plaats:**
-
-**Datum:**
-
-**Handtekening hoofdaanvrager:**
-
-M.b.t. t. het Beleid Intellectueel Eigendom van NWO-domein TTW vragen wij u antwoord te geven op de onderstaande vragen. Geef waar nodig een korte motivatie.
-
-- 1. Zijn er (mede)aanvragers die betrokken zijn bij een van de genoemde gebruikers of bij partijen aan wie werkzaamheden al dan niet tegen vergoeding zullen worden uitbesteed? Zo ja, vermeld de aard van de betrokkenheid (aanstelling, adviseur, lid van bestuur(sraad), etc.).
-
-- 2. Zijn er gebruikers die indirect (bijv. via materiaalkrediet en/of investeringskrediet) TTW- financiering zullen ontvangen? Zo ja, dan dient dit gespecificeerd te zijn bij punt 8.5 van het invulformaat.
-
-- 3. Maak uw keuze: NWO-domein TTW neemt de regie om Intellectuele Eigendomsrechten & publicatie-afspraken te maken of de hoofdaanvrager/projectleider neemt de regie om Intellectuele Eigendomsrechten & publicatie-afspraken te maken. **NWO-domein TTW adviseert u om uw keuze tijdig af te stemmen met de TechTransferOffice(s) (TTO’s) van de betrokken universiteit(en) en de potentiële gebruikers(s).**
-
-- •. Regie voor het maken van IE&P-afspraken ligt bij NWO-domein TTW.
-
-- •. Regie voor het maken van IE&P-afspraken ligt bij de hoofdaanvrager/projectleider.
-
-Indien u hierboven ‘Regie IE&P-afspraken ligt bij NWO-domein TTW’ heeft aangevinkt, verzoeken wij u om de vragen 4 t/m 11 te beantwoorden.
-
-Indien u hierboven ‘Regie IE&P-afspraken ligt bij de hoofdaanvrager/projectleider’ heeft aangevinkt, verzoeken wij u om de vragen 12 en 13 te beantwoorden.
-
-**Regie IE&P-afspraken ligt bij NWO-domein TTW:**
-
-- 4. De in het project gegeneerde kennis wordt gezamenlijk eigendom van de kennisinstelling(en) en NWO. Zijn de beoogde gebruikerscommissieleden die cofinanciering leveren hiervan op de hoogte?
-
-- 5. Zijn de gebruikers op de hoogte van de definitieve versie van de onderzoeksaanvraag, van elkaars betrokkenheid en eventuele posities rond intellectueel eigendom?
-
-- 6. Zijn er reeds afspraken (mondeling of contractueel vastgelegd) tussen (een van de) gebruikers en de aanvragende onderzoeksinstelling(en)?
-
-- 7. Zijn er gebruikers die contractuele afspraken willen op het moment dat de onderzoeksaanvraag wordt gehonoreerd? Bijvoorbeeld een gezamenlijk beroep op het recht op een optie.
-
-- 8. Worden er materialen of methoden/technologieën/software van derden (incl. gebruikers) gebruikt waarop een restrictie of bedrijfsgeheim rust?
-
-- 9. Worden er materialen of methoden/technologieën/software van derden (incl. gebruikers) gebruikt die zijn verkregen met ondertekening van een “material transfer agreement”. Zo ja, welke voorwaarden zijn aan het gebruik gesteld?
-
-- 10. Is er sprake van relevante octrooien/octrooiaanvragen van de betrokken onderzoeksgroepen en/of potentiële gebruikers?
-
-- 11. Is er sprake van relevante octrooien van niet bij de onderzoeksaanvraag betrokken partijen, die mogelijk de utilisatie zouden kunnen belemmeren?
-
-**Regie IE&P-afspraken ligt bij de hoofdaanvrager/projectleider**
-
-- 12. Zijn alle betrokken gebruiker(s) en kennisinstelling(en) akkoord met het maken van eigen IE& publicatie-afspraken?
-
-- 13. Zijn alle betrokken gebruiker(s) en kennisinstelling(en) bekend met de vereisten voor het maken van eigen IE & publicatie-afspraken en de consequentie van het niet voldoen binnen de termijn aan de gestelde voorwaarden waarmee de toekenning van financiering vervalt?
-
-**Paraaf:**
-
-**Overig:**
-
-- •. Het in de aanvraag beschreven onderzoek valt binnen de Topsector(en): (zie keuzelijst)
-
-- •. Het in de aanvraag beschreven onderzoek valt binnen de wetenschapsdiscipline(s): (zie keuzelijst) **NB**: De hier ingevulde hoofddiscipline is ook een ****verplicht**** veld in ISAAC en dient u bij het indienen van de aanvraag online bij de gevraagde gegevens in te vullen (tabblad ‘Algemeen’; sectie ‘Disciplines’).
-
-## Bijlage 4. Vragen aan de referenten
-
-- 1.1. To what extent is the proposed research original and how would you rate the innovative elements?
-
-- 1.2. What is your assessment of the design of the project, including the goals, hypotheses, research methods, and scientific feasibility?
-
-- 1.3. What is your assessment of the coherence and time schedule of the proposed lines of research?
-
-- 1.4. Is the research group competent enough to carry out the research? Does the group have a relevant position in the international scientific community? Is the available infrastructure adequate?
-
-- 1.5. Are the number and category of requested personnel, budget for materials, investments, and foreign travel adequate?
-
-- 1.6. What are the strong and weak points of the scientific part of the proposal?
-
-- 2.1. What is your assessment of the description of the commercial and/or societal potential impacts of the research given in the proposal?
-
-- 2.2. What is your assessment of the contribution and commitment of the users and the proposed composition of the user committee?
-
-- 2.3. Do you expect the application of results to be hampered by commercial propositions, existing patents, eligibility or societal acceptance?
-
-- 2.4. What are the prospects for collaboration with the industry and knowledge transfer, assuming the project is successful? Please address both aspects.
-
-- 2.5. What is your assessment of the research group's competence regarding the transfer and application of research results?
-
-- 2.6. What are the strong and weak points of the utilisation plan?
-
-The data management section is a compulsory part of the application but it will not be an assessment criterion for obtaining funding. It will not be included in the decision of a committee/jury as to whether or not a proposal should be awarded funding. However for the data management section of this proposal, you can make suggestions and give advice that could be helpful for the researcher in drawing up the data management plan to be submitted after funding is awarded.
-
-## Bijlage 5. Beoordelingsschalen juryleden
-
-- 1. **Excellent**
-
-- •. An excellent researcher or outstanding research team.
-
-- •. A well-chosen problem.
-
-- •. The method is especially/pre-eminently effective and original.
-
-- •. Very urgent.
-
-- 2. **Excellent to very good**
-
-- 3. **Very good**
-
-- •. A competent researcher or competent research team.
-
-- •. A significant problem.
-
-- •. The method is original and effective.
-
-- •. An urgent approach is important.
-
-- 4. **Very good to good**
-
-- 5. **Good**
-
-- •. An average researcher or average research team.
-
-- •. A routine problem.
-
-- •. With the method, which has some original details, the project can be addressed, although other possibilities are conceivable.
-
-- 6. **Good to moderate**
-
-- 7. **Moderate**
-
-- •. It is far from certain that this work is within the capacity of the researcher and / or the research team: the proposal itself contains no obvious errors.
-
-- •. The problem is moderately interesting.
-
-- •. Whether the project can be successfully tackled with this standard method, is questionable.
-
-- •. The project may well be postponed.
-
-- 8. **Moderate to poor**
-
-- 9. **Poor**
-
-- •. The competence of the investigator or research team is inadequate.
-
-- •. The proposal contains serious errors or mistakes.
-
-- •. This old method is not good for this project.
-
-- •. Not to be executed, even if there is money left.
-
-- 1. **Excellent**
-
-- •. This will certainly lead to important new techniques or to very important applications in industry, society and other sciences.
-
-- •. This research is urgently needed to make an estimate of the consequences of the use of this technology or technique.
-
-- •. The utilisation is very well thought out and the approach ensures the greatest likelihood of an effective use of the results.
-
-- 2. **Excellent to very good**
-
-- 3. **Very good**
-
-- •. This research will likely lead to important new techniques or to important applications in industry, society, or in other sciences.
-
-- •. This research is highly desirable to make an estimate of the consequences of the use of this technology or technique.
-
-- •. The utilisation is well thought out and the approach makes it plausible that the results of this work will be used well.
-
-- 4. **Very good to good**
-
-- 5. **Good**
-
-- •. This work will possibly lead to new technologies or applications that might be useful for industry, society, or other sciences.
-
-- •. This research will be needed to make an estimate of the impact of this technology or technique.
-
-- •. The utilisation is sufficiently thought through, it can probably be improved during the execution of the work. The results of this work will probably be used.
-
-- 6. **Good to moderate**
-
-- 7. **Moderate**
-
-- •. Technically this work could possibly be useful at some time or it is conceivable that in due course another science, industry or society or of the results could make use of it.
-
-- •. The results of this research are not exactly awaited, but they may be useful in the future if an evaluation is made of the consequences of using this technology or technique.
-
-- •. The utilisation is very unsatisfactory. This should certainly be improved, otherwise it is likely that the results of this work will not be used.
-
-- 8. **Moderate to poor**
-
-- 9. **Poor**
-
-- •. Technically the work is bad and redundant, i.e. different, better or similar techniques, which are cheaper are already available.
-
-- •. This study does not evaluate the consequences of using this technology or technique, moreover, it increases the confusion.
-
-- •. The utilisation is completely wrong.
-
-## Bijlage 6. Datamanagementparagraaf
-
-****Gebruik voor uw aanvraag het Engelstalige formulier ‘Data management section’!****
-
-NWO wil bijdragen aan de ontwikkeling van goed datamanagement door van onderzoekers te vragen alle voor hergebruik relevante data duurzaam beschikbaar te stellen. In de datamanagementparagraaf wordt daarom gevraagd reeds voor aanvang van het onderzoek te bedenken hoe de verzamelde data geordend en gecategoriseerd moeten worden zodat zij vrij beschikbaar kunnen worden gesteld. Vaak zullen daarvoor immers al bij het tot stand komen van de data en de analyse daarvan maatregelen getroffen moeten worden.
-
-NWO verstaat onder ‘data’ zowel verzamelde, onbewerkte data alsook geanalyseerde, gegenereerde data. Hierbij zijn alle verschijningsvormen denkbaar; digitaal en niet-digitaal (zoals samples, ingevulde vragenlijsten, geluidsopnames etc.).
-
-**NWO vraagt alleen om opslag van voor hergebruik relevante data.**Daarbij gaat NWO er in principe van uit dat er binnen vakgebieden een breed gedragen opvatting bestaat over welke data relevant zijn om op te slaan voor hergebruik. Research Data Netherlands biedt een checklistvoor de selectie van data die voor archivering in aanmerking kunnen komen.
-
-Onderzoeksresultaten dienen zodanig te worden opgeslagen dat ze ook op lange termijn terug te vinden en herbruikbaar zijn, ook voor onderzoekers uit andere disciplines en organisaties dan waar het onderzoek plaatsvond. Uitgangspunt daarbij is dat alle opgeslagen data in principe vrij toegankelijk zijn en dat toegang alleen wordt beperkt wanneer aspecten als privacy, openbare veiligheid, ethische beperkingen, eigendomsrecht en commerciële belangen dit noodzakelijk maken.
-
-De kosten voor datamanagement zijn subsidiabel en dienen in de aanvraagbegroting te worden opgenomen. Belangrijke factoren die de kosten bepalen zijn:
-
-- •. het type data
-
-- •. de benodigde capaciteit voor opslag en back-up;
-
-- •. de mate van handwerk bij het toekennen van metadata en het opstellen van overige documentatie zoals codeboeken en gebruikte queries in het statistische pakket;
-
-- •. de benodigde mate van beveiliging van de data;
-
-- •. het inhuren van externe (datamanagement-)expertise.
-
-Met de datamanagementparagraaf wil NWO vooral het bewustzijn over het belang van verantwoord datamanagement bevorderen. Daarom wordt de paragraaf niet meegenomen in de beslissing van een commissie om een aanvraag al of niet toe te kennen. NWO-domein TTW legt de paragraaf wel ter advies voor aan de commissie en referenten. Na honorering van een aanvraag dient de onderzoeker de paragraaf uit te werken tot een datamanagementplan. Aanvragers kunnen hierbij gebruik maken van hun advies.
-
-**Vragen NWO datamanagementparagraaf ten behoeve van aanvraagformulier:**
-
-- 1. Worden er data verzameld of gegenereerd die voor hergebruik geschikt zijn? **Ja**: beantwoord dan vraag 2 t/m 4. **Nee**: licht dan toe waarom het onderzoek niet leidt tot herbruikbare data, of tot data die niet kunnen worden opgeslagen of om andere redenen niet relevant zijn voor hergebruik.
-
-- 2. Waar worden de data gedurende het onderzoek opgeslagen?
-
-- 3. Hoe worden de data na afloop van het project voor de lange termijn opgeslagen en voor hergebruik beschikbaar gesteld voor derden? Voor wie zijn de data toegankelijk?
-
-- 4. Welke voorzieningen (ICT, (beveiligd) archief, koelkasten of juridische expertise) zijn naar verwachting nodig voor de opslag van data gedurende het onderzoek en na het onderzoek? Zijn deze beschikbaar?*
-
-***Met ICT-voorzieningen voor dataopslag wordt bedoeld zaken als capaciteit voor dataopslag, bandbreedte voor datatransport en rekenkracht voor dataverwerking.**
-
-**Contactgegevens**
-
-Algemene informatie kunt u verkrijgen bij:
-
-**Nederlandse Organisatie voor Wetenschappelijk Onderzoek NWO-domein Toegepaste en Technische Wetenschappen**
-
-Bezoekadres:
-
-Van Vollenhovenlaan 661
-
-3527 JP Utrecht
-
-Postadres: postbus 3021
-
-3502 GA Utrecht
-
-Telefoon:
-
-030 6001 211
-
-Fax:
-
-030 6014 408
-
-e-mail: ttw@nwo.nl internet: www.ttw.nwo.nl
-
-**IBAN NWO**
-
-NL89ABNA0642330824 (BIC ABNANL2A)
-
-**Kamer van Koophandel**Den Haag 27367015 **Btw**
-
-NL.002305884.B01
-
-Bij verwijzing naar het TTW-bureau kunt u contact opnemen met de bij u bekende program officer of via het algemene telefoonnummer vragen naar een program officer op uw vakgebied.
-
-Bij technische vragen over het gebruik van ISAAC kunt u contact opnemen met de ISAAC helpdesk. Raadpleeg eerst de handleiding voordat u de helpdesk om advies vraagt. De ISAAC helpdesk is bereikbaar van maandag t/m vrijdag van 10.00 tot 17.00 uur op telefoonnummer 020-3467179.
-
-U kunt uw vraag ook per e-mail stellen via isaac.helpdesk@nwo.nl. U ontvangt dan binnen twee werkdagen een reactie.
-
-- •. Aanvragen Open Technologieprogramma: http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. [NWO Subsidieregeling 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039531): http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Brochure ‘Richtlijnen Gebruikerscommissie NWO-domein TTW’: http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Richtlijnen voor juryleden: http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Vragen aan referenten/Aspecten ter beoordeling: http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Gedragscode belangenverstrengeling: http://www.nwo.nl/documents/nwo/juridisch/gedragscode-belangenverstrengeling-nwo
-
-- •. Vaste tarieven salaristabellen: http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Vergoeding drukkosten proefschrift: http://www.ttw.nwo.nl/nl/content/projectleider
-
-- •. Normbedragen voor verblijfskosten buitenland: http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Uurtarieven voor bijdragen in natura door derden in de vorm van mensuren: http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Format steunbrief http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Cleanroomregeling:
-
-- •. http://www.ttw.nwo.nl/nl/content/aanvrager
-
-- •. Nagoya Protocol: https://www.cbd.int
-
-- •. ISAAC: www.isaac.nwo.nl
-
-- •. Handleiding ISAAC:
-
-- •. In ISAAC is onder het tabblad ‘Help’ een handleiding beschikbaar.
-
-- •. ISAAC helpdesk: isaac.helpdesk@nwo.nl
-
-- •. Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO): http://www.nwo.nl/
-
-- •. Open Access: www.nwo.nl/beleid/open+science
-
-Vastgesteld door het domeinbestuur TTW op 30 juni 2017.

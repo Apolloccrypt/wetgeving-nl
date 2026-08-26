@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing opsporingsberichtgeving"
 identifier: "BWBR0040219"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-12-01"
-last_updated: "2017-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040219"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14420843"
-version_id: "24657582"
-internal_id: "C35275451"
-label_id: "14381604"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040219/2017-12-01/0"
-intitule_bron: "Stcrt.2017-66539"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-11-22"
-intitule_in_force: "2017-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-66539"
-original_published_date: "2017-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-66539"
-entry_into_force_date: "2017-12-01"
-jci_1_3: "jci1.3:c:BWBR0040219&z=2017-12-01&g=2017-12-01"
-jci_1_0: "1.0:c:BWBR0040219&g=2017-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-12-01"
+publicatiedatum: 2017-12-01
+laatste_update: 2017-12-01
+status: geldig
+toestand: 2017-12-01
+bron: "https://wetten.overheid.nl/BWBR0040219"
+opgehaald: 2026-08-26
 ---
+
 # Aanwijzing opsporingsberichtgeving
 
 ### Samenvatting
@@ -74,25 +55,63 @@ De in de [Aanwijzing Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0033829) en in
 
 Opsporingsberichtgeving kan worden ingezet ten behoeve van:
 
+- 1. waarheidsvinding;
+
+- 2. tenuitvoerlegging van rechterlijke beslissingen;
+
+- 3. voorkoming van ernstige strafbare feiten;
+
+- 4. andere belangen die de strafrechtelijke handhaving van de rechtsorde betreffen, bijvoorbeeld het traceren van vermogensbestanddelen of goederen.
+
 Opsporingsberichtgeving kan op ieder moment in het strafproces worden ingezet.
 
 ### 2.1. Waarheidsvinding
 
 In het kader van waarheidsvinding kan opsporingsberichtgeving worden ingezet voor
 
+- • het doen van onderzoek naar een misdrijf waarvoor voorlopige hechtenis toegelaten is,
+
+- • het achterhalen van de identiteit van een verdachte en/of zijn verblijfplaats, bijvoorbeeld ter aanhouding van de verdachte,
+
+- • het doen van een getuigen- of een slachtofferoproep,
+
+- • het opsporen van een vermiste persoon, als rekening moet worden gehouden met de mogelijkheid dat de vermiste slachtoffer is geworden van een misdrijf gepleegd door een nog onbekende verdachte,
+
+- • het achterhalen van de identiteit van een niet geïdentificeerde dode, als niet kan worden uitgesloten dat de dode het slachtoffer is van een misdrijf gepleegd door een nog onbekende verdachte.
+
 De identiteit van de verdachte kan na toestemming van de hoofdofficier van justitie worden vrijgegeven, op voorwaarde dat:
+
+- − sprake is van ernstige bezwaren of een veroordeling ter zake van een misdrijf met een strafbedreiging van acht jaar of meer en
+
+- − dit dringend noodzakelijk is voor de opsporing.
 
 ### 2.2. Tenuitvoerlegging van rechterlijke beslissingen/betekening gerechtelijke stukken
 
 Ten behoeve van de executie van straffen of maatregelen danwel ten behoeve van de betekening van gerechtelijke stukken kan opsporingsberichtgeving worden ingezet om de verblijfplaats te achterhalen van:
 
+- • een onherroepelijk veroordeelde ter aanhouding en executie van straffen of maatregelen,
+
+- • een verdachte/niet onherroepelijk veroordeelde om gerechtelijke stukken te betekenen en ter executie van gerechtelijke bevelen,
+
+- • een ontvluchte gedetineerde of een ontvluchte verpleegde delinquent (bijvoorbeeld een TBS-ers) van wie de opsporing en aanhouding dringend gewenst is, ter aanhouding en ter executie van straffen of maatregelen.
+
 De identiteit van de veroordeelde kan na toestemming van de hoofdofficier van justitie in de volgende twee gevallen worden vrijgegeven:
+
+- 1) in het geval de inzet van andere opsporingsmiddelen onvoldoende uitzicht biedt op aanhouding of het achterhalen van de verblijfplaats van de gezochte persoon, binnen de gewenste korte termijn, altijd onder de voorwaarde dat de verdenking of veroordeling is gebaseerd op een feit waarvoor voorlopige hechtenis toegelaten is en mits dat dringend noodzakelijk is voor de opsporing;
+
+- 2) in het geval wanneer bij gevangenisstraf, hechtenis of vervangende hechtenis sprake is van een strafrestant van minstens drie maanden, mits dat dringend noodzakelijk is voor de opsporing ten behoeve van de tenuitvoerlegging van de straf.
 
 ### 2.3. Voorkoming van ernstige strafbare feiten
 
 Wanneer er aanwijzingen zijn dat een persoon een ernstig misdrijf zal plegen, kan na toestemming van de hoofdofficier van justitie een landelijk opsporingsbericht worden verspreid of uitgezonden waarin de identiteitsgegevens en het signalement van die persoon worden vermeld en beeldmateriaal van hem wordt getoond.
 
 Opsporingsberichtgeving moet in dit geval:
+
+- − gericht zijn op het voorkomen van een misdrijf waarmee een ernstige inbreuk op de rechtsorde wordt gemaakt of waardoor ernstig gevaar voor personen of goederen kan ontstaan,
+
+- − én
+
+- − dringend noodzakelijk zijn voor de opsporing.
 
 ### 2.4. Mandatering mogelijk
 
@@ -107,6 +126,16 @@ In een bijzondere geval, dat niet geregeld is in deze aanwijzing, kan het Colleg
 Getuigen, slachtoffers en overige niet bij het strafbare feit betrokken personen worden anoniem opgenomen en in beeld gebracht in het opsporingsbericht.
 
 Alleen indien dit dringend noodzakelijk is voor de opsporing kan beeldmateriaal van een getuige, slachtoffer of voorbijganger herkenbaar getoond worden. De volgende uitgangspunten worden gehanteerd:
+
+- − de officier van justitie heeft uitdrukkelijk toestemming verleend voor het herkenbaar in beeld brengen van deze persoon of personen;
+
+- − wanneer er aanwijzingen zijn dat de veiligheid van de betrokkene in gevaar wordt gebracht door het tonen van beelden waarop de betrokkene voor derden herkenbaar is, worden geen beelden van een niet-verdachte opgenomen in het opsporingsbericht;
+
+- − wanneer de identiteit van deze personen bij de politie bekend is wordt gestreefd naar instemming met het tonen van de beelden;
+
+- − wanneer een slachtoffer in beeld wordt gebracht om de identiteit van een getuige of voorbijganger te achterhalen, dan weegt de officier van justitie het risico op secundaire victimisatie af tegen het opsporingsbelang. Dit bespreekt de officier van justitie met het betrokken slachtoffer of de nabestaanden. De officier van justitie kan zich bij de bepaling van het risico op secundaire victimisatie laten adviseren door bijvoorbeeld Slachtofferhulp Nederland;
+
+- − in het opsporingsbericht wordt door de beeldkeuze en/of in tekst duidelijk gemaakt dat het een slachtoffer, getuige of niet bij het misdrijf betrokken persoon betreft.
 
 ### Overgangsrecht
 

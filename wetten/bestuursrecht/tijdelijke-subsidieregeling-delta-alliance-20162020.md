@@ -1,56 +1,31 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 14 september 2017, nr. IENM/BSK-2017/719071, houdende regels voor het verstrekken van een tijdelijke subsidie aan de Stichting Delta Alliance International Foundation (Tijdelijke subsidieregeling Delta Alliance 2016–2020)"
+citeertitel: "Tijdelijke subsidieregeling Delta Alliance 2016–2020"
 identifier: "BWBR0039985"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-09-16"
-last_updated: "2017-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039985"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14167993"
-version_id: "24367032"
-internal_id: "C34964781"
-label_id: "14128704"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039985/2017-09-16/0"
-intitule_bron: "Stcrt.2017-50849"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-09-14"
-intitule_published: "2017-09-15"
-intitule_in_force: "2017-09-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-50849"
-original_signed_date: "2017-09-14"
-original_published_date: "2017-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-50849"
-entry_into_force_date: "2017-09-16"
-jci_1_3: "jci1.3:c:BWBR0039985&z=2017-09-16&g=2017-09-16"
-jci_1_0: "1.0:c:BWBR0039985&g=2017-09-16"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling Delta Alliance 2016–2020"
-signed_date: "2017-09-14"
-entry_into_force: "2017-09-16"
+publicatiedatum: 2017-09-16
+laatste_update: 2017-09-16
+status: geldig
+toestand: 2017-09-16
+bron: "https://wetten.overheid.nl/BWBR0039985"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 14 september 2017, nr. IENM/BSK-2017/719071, houdende regels voor het verstrekken van een tijdelijke subsidie aan de Stichting Delta Alliance International Foundation (Tijdelijke subsidieregeling Delta Alliance 2016–2020)
-
-Gelet op de [artikelen 3, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste lid, onderdelen a, b, c, e, f, g, h, en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, tweede, onderdeel b en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=16), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), en [23, vijfde lid van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23);
-
-BESLUIT:
 
 ##### Artikel 1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
+- *besluit:*
+ [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
-- **deltalanden:** prioriteitslanden die in de Internationale Waterambitie zijn opgenomen, te weten Bangladesh, Colombia, Egypte, Indonesië, Mozambique en Vietnam;
+- *deltalanden:* prioriteitslanden die in de Internationale Waterambitie zijn opgenomen, te weten Bangladesh, Colombia, Egypte, Indonesië, Mozambique en Vietnam;
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- *minister:* Minister van Infrastructuur en Milieu;
 
-- **subsidieontvanger:** Stichting Delta Alliance International Foundation, gevestigd te Wageningen.
+- *subsidieontvanger:* Stichting Delta Alliance International Foundation, gevestigd te Wageningen.
 
 ##### Artikel 2. (doel van de subsidie)
 
@@ -123,5 +98,3 @@ De subsidie wordt verleend in de vorm van een maximumbedrag dat wordt bepaald op
 ##### Artikel 11. (citeertitel)
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling Delta Alliance 2016–2020.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

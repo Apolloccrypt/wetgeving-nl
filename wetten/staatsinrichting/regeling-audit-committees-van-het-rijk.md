@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 21 november 2017, houdende regels over de adviesorganen met betrekking tot audit- en bedrijfsvoeringsaangelegenheden van het Rijk (Regeling audit committees van het Rijk)"
+citeertitel: "Regeling audit committees van het Rijk"
 identifier: "BWBR0040281"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040281"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14431413"
-version_id: "24677782"
-internal_id: "C35306871"
-label_id: "14392084"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040281/2018-01-01/0"
-intitule_bron: "Stcrt.2017-69110"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-21"
-intitule_published: "2017-12-04"
-intitule_in_force: "2017-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-69110"
-original_signed_date: "2017-11-21"
-original_published_date: "2017-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-69110"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040281&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040281&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling audit committees van het Rijk"
-signed_date: "2017-11-21"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040281"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Financiën van 21 november 2017, houdende regels over de adviesorganen met betrekking tot audit- en bedrijfsvoeringsaangelegenheden van het Rijk (Regeling audit committees van het Rijk)
-
-Gelet op [artikel 4.20, tweede lid, aanhef en onderdeel b, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- **audit committee:** het adviesorgaan van een ministerie met betrekking tot audit- en bedrijfsvoeringsaangelegenheden;
+- *audit committee:* het adviesorgaan van een ministerie met betrekking tot audit- en bedrijfsvoeringsaangelegenheden;
 
-- **directeur van de Auditdienst Rijk:** een persoon die deel uitmaakt van de directie van de Auditdienst Rijk;
+- *directeur van de Auditdienst Rijk:* een persoon die deel uitmaakt van de directie van de Auditdienst Rijk;
 
-- **directeur FEZ:** de persoon die binnen een ministerie leiding geeft aan het centrale dienstonderdeel dat belast is met financieel-economische aangelegenheden;
+- *directeur FEZ:* de persoon die binnen een ministerie leiding geeft aan het centrale dienstonderdeel dat belast is met financieel-economische aangelegenheden;
 
-- **externe leden:** de personen die niet bij of voor het betrokken ministerie werkzaam zijn;
+- *externe leden:* de personen die niet bij of voor het betrokken ministerie werkzaam zijn;
 
-- **Minister:** de Minister die het aangaat.
+- *Minister:* de Minister die het aangaat.
 
 2. De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1) zijn van overeenkomstige toepassing op deze regeling.
 
@@ -177,5 +151,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2018.
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling audit committees van het Rijk.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

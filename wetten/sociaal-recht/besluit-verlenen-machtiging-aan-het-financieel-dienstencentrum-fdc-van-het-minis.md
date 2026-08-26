@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 september 2017, nr. O&B/1230274, tot het verlenen van machtiging aan het Financieel Dienstencentrum (FDC) van het ministerie van Sociale Zaken en Werkgelegenheid"
+citeertitel: "Besluit verlenen machtiging aan het Financieel Dienstencentrum (FDC) van het ministerie van Sociale Zaken en Werkgelegenheid"
 identifier: "BWBR0040024"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-10-03"
-last_updated: "2017-10-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040024"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14176433"
-version_id: "24383262"
-internal_id: "C34985091"
-label_id: "14137084"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040024/2017-10-03/0"
-intitule_bron: "Stcrt.2017-54953"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-09-12"
-intitule_published: "2017-10-02"
-intitule_in_force: "2017-10-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-54953"
-original_signed_date: "2017-09-12"
-original_published_date: "2017-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-54953"
-entry_into_force_date: "2017-10-03"
-jci_1_3: "jci1.3:c:BWBR0040024&z=2017-10-03&g=2017-10-03"
-jci_1_0: "1.0:c:BWBR0040024&g=2017-10-03"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlenen machtiging aan het Financieel Dienstencentrum (FDC) van het ministerie van Sociale Zaken en Werkgelegenheid"
-signed_date: "2017-09-12"
-entry_into_force: "2017-10-03"
+publicatiedatum: 2017-10-03
+laatste_update: 2017-10-03
+status: geldig
+toestand: 2017-10-03
+bron: "https://wetten.overheid.nl/BWBR0040024"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 september 2017, nr. O&B/1230274, tot het verlenen van machtiging aan het Financieel Dienstencentrum (FDC) van het ministerie van Sociale Zaken en Werkgelegenheid
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **ministerie:** ministerie van Onderwijs, Cultuur en Wetenschap;
+- b. *ministerie:* ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- c. **FDC:** het per 1 juni 2015 opgerichte interdepartementale samenwerkingsverband onder verantwoordelijkheid van het ministerie van Sociale Zaken en Werkgelegenheid;
+- c. *FDC:* het per 1 juni 2015 opgerichte interdepartementale samenwerkingsverband onder verantwoordelijkheid van het ministerie van Sociale Zaken en Werkgelegenheid;
 
-- d. **PSG:** de plaatsvervangend Secretaris-generaal van het ministerie van Sociale Zaken en Werkgelegenheid;
+- d. *PSG:* de plaatsvervangend Secretaris-generaal van het ministerie van Sociale Zaken en Werkgelegenheid;
 
-- e. **machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- e. *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 
@@ -89,5 +63,3 @@ De uitvoering van de werkzaamheden bedoeld in [artikel 2](https://wetten.overhei
 1. Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 2. Alle besluiten van voor de inwerkingtreding van dit besluit, inhoudende een machtiging aan het FDC of zijn rechtsvoorganger tot het verrichten van feitelijke handelingen op het gebied van financiële administratie, worden ingetrokken per datum van inwerkingtreding van dit besluit.
-
-Dit besluit zal met de toelichting in de Staatscourant worden gepubliceerd.

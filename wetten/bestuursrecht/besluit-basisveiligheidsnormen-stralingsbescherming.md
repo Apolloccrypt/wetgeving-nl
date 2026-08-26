@@ -1,56 +1,18 @@
 ---
 title: "Besluit van 23 oktober 2017, houdende vaststelling van regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (Besluit basisveiligheidsnormen stralingsbescherming)"
+citeertitel: "Besluit basisveiligheidsnormen stralingsbescherming"
 identifier: "BWBR0040179"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040179"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "14342583"
-version_id: "24571302"
-internal_id: "C35548681"
-label_id: "14306334"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040179/2025-01-01/0"
-intitule_bron: "Stb.2017-404"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-23"
-intitule_published: "2017-11-07"
-intitule_in_force: "2018-01-24"
-intitule_status: "goed"
-original_publication: "Stb.2017-404"
-original_signed_date: "2017-10-23"
-original_published_date: "2017-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-404"
-entry_into_force_date: "2018-02-06"
-jci_1_3: "jci1.3:c:BWBR0040179&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0040179&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit basisveiligheidsnormen stralingsbescherming"
-signed_date: "2017-10-23"
-entry_into_force: "2018-02-06"
+publicatiedatum: 2018-02-06
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0040179"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van 23 oktober 2017, houdende vaststelling van regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (Besluit basisveiligheidsnormen stralingsbescherming)
-
-Op de voordracht van Onze Minister van Infrastructuur en Milieu, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport, van 31 mei 2017, nr. IenM/BSK-2017/135624, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op [Richtlijn 2013/59](32013L0059)/Euratom van de Raad van 5 december 2013 tot vaststelling van de basisnormen voor de bescherming tegen de gevaren verbonden aan de blootstelling aan ioniserende straling, en houdende intrekking van de [Richtlijnen 89/618](31989L0618)/Euratom, [90/641](31990L0641)/Euratom, [96/29](31996L0029)/Euratom, [97/43](31997L0043)/Euratom en [2003/122](32003L0122)/Euratom (PbEG L [13/1](31913L0001)) en gelet op [Richtlijn 2011/70](32011L0070)/Euratom van de Raad van 19 juli 2011 tot vaststelling van een communautair kader voor een verantwoord en veilig beheer van verbruikte splijtstof en radioactief afval (PbEU 2011, L199);
-
-Gelet op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=4), [15c](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15c), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=16), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17a), [18a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=18a), [21, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=28), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29), [31, eerste lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=31) jo. [artikel 18a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=18a), de [artikelen 32, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=32), [34, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34) jo. de [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=16) en [17, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17), de [artikelen 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=37), [38a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=38a), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=68), [69, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=69), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=73), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=74) en [75 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=75);
-
-Gelet op [artikel 16 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) en [artikel 37, tweede lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=37);
-
-Gelet op de [artikelen 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40), [8.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.41), [8.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.42), [8.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.42a) en [19.3, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.3);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 september 2017, nr. W14.17.0180/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu, uitgebracht mede namens Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport van 16 oktober 2017, nr. IenM/BSK-2017/232823, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -72,9 +34,9 @@ Hebben goedgevonden en verstaan:
 
 - a. blootstellingsituaties met blootstelling aan natuurlijke stralingsniveaus, waaronder in ieder geval wordt begrepen blootstelling:
 
-- 1°. ten gevolge van radionucliden die van nature in het menselijk lichaam aanwezig zijn;
+   - 1°. ten gevolge van radionucliden die van nature in het menselijk lichaam aanwezig zijn;
 
-- 2°. aan kosmische straling ter hoogte van het aardoppervlak;
+   - 2°. aan kosmische straling ter hoogte van het aardoppervlak;
 
 - b. blootstelling aan kosmische straling tijdens de vlucht van een luchtvaartuig of ruimtevaartuig van leden van de bevolking of werknemers die niet behoren tot de bemanning;
 
@@ -114,9 +76,9 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 - c. maatregelen die leiden tot invoering of wijziging van een blootstellingsroute in:
 
-- 1°. andere bestaande blootstellingsituaties dan bedoeld onder b;
+   - 1°. andere bestaande blootstellingsituaties dan bedoeld onder b;
 
-- 2°. radiologische noodsituaties.
+   - 2°. radiologische noodsituaties.
 
 2. Rechtvaardiging van een handeling of maatregel geschiedt:
 
@@ -222,7 +184,7 @@ In geplande blootstellingsituaties die beroepsmatige blootstelling of blootstell
 
 ### Hoofdstuk 3. Controlestelsel
 
-### Afdeling 3.1. Algemene bepalingen
+#### Afdeling 3.1. Algemene bepalingen
 
 #### § 3.1.1. Algemene verboden
 
@@ -244,7 +206,7 @@ In geplande blootstellingsituaties die beroepsmatige blootstelling of blootstell
 
 4. Bij regeling van Onze Minister worden handelingen met natuurlijke bronnen aangewezen, waarvoor vanuit het oogpunt van stralingsbescherming bezorgdheid bestaat dat een handeling kan leiden tot de aanwezigheid van in de natuur voorkomende radionucliden in het water, waardoor de kwaliteit van het drinkwater of andere blootstellingsroutes wordt of worden beïnvloed. Het tweede lid is van overeenkomstige toepassing.
 
-### Afdeling 3.2. Vergunning, registratie en kennisgeving
+#### Afdeling 3.2. Vergunning, registratie en kennisgeving
 
 #### § 3.2.1. Algemene bepalingen
 
@@ -322,17 +284,17 @@ Een vergunning wordt geweigerd indien:
 
 - a. ten aanzien van de handeling waarop de aanvraag betrekking heeft, niet wordt voldaan aan het bepaalde in:
 
-- 1°. [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&z=2025-01-01&g=2025-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&z=2025-01-01&g=2025-01-01), met betrekking tot rechtvaardiging, optimalisatie en dosislimitering, of
+   - 1°. [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&z=2025-01-01&g=2025-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&z=2025-01-01&g=2025-01-01), met betrekking tot rechtvaardiging, optimalisatie en dosislimitering, of
 
-- 2°. [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&z=2025-01-01&g=2025-01-01), met betrekking tot deskundigheid;
+   - 2°. [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&z=2025-01-01&g=2025-01-01), met betrekking tot deskundigheid;
 
 - b. voor een lid van de bevolking dat zich op enig punt buiten de locatie bevindt, als gevolg van de handeling waarop de aanvraag betrekking heeft en ten gevolge van alle toegestane handelingen die onder verantwoordelijkheid van de ondernemer worden verricht, een effectieve dosis van 0,1 millisievert in een kalenderjaar wordt overschreden of kan worden overschreden;
 
 - c. voor een lid van de bevolking dat zich buiten de locatie bevindt, ten gevolge van de handeling waarop de aanvraag betrekking heeft en ten gevolge van andere handelingen binnen en buiten deze locatie, een van de volgende doses wordt overschreden of kan worden overschreden:
 
-- 1°. een effectieve dosis van 1 millisievert in een kalenderjaar en, met inachtneming daarvan:
+   - 1°. een effectieve dosis van 1 millisievert in een kalenderjaar en, met inachtneming daarvan:
 
-- 2°. een equivalente dosis van 50 millisievert in een kalenderjaar voor de huid, gemiddeld over enig huidoppervlak van 1 cm2;
+   - 2°. een equivalente dosis van 50 millisievert in een kalenderjaar voor de huid, gemiddeld over enig huidoppervlak van 1 cm2;
 
 - d. de handeling waarop de aanvraag betrekking heeft behoort tot een soort of categorie die op grond van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&z=2025-01-01&g=2025-01-01) generiek is gerechtvaardigd, maar het specifieke karakter van die handeling op grond van het bepaalde in die paragraaf niet gerechtvaardigd is;
 
@@ -530,17 +492,17 @@ Onder de kennisgevingsplicht in gevallen waarin geen vergunning of registratie i
 
 - a. overeenkomstig het bepaalde in [artikel 4.17, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&artikel=4.17&z=2025-01-01&g=2025-01-01), overeenkomsten zijn gesloten voor het veilig beheer en controle van de betrokken hoogactieve bronnen, ook wanneer deze bronnen niet meer in gebruik zijn. Deze overeenkomsten kunnen in ieder geval betrekking hebben op:
 
-- 1°. overbrenging van de niet meer in gebruik zijnde bron naar de fabrikant, leverancier of een andere ondernemer die bevoegd is de bron te ontvangen;
+   - 1°. overbrenging van de niet meer in gebruik zijnde bron naar de fabrikant, leverancier of een andere ondernemer die bevoegd is de bron te ontvangen;
 
-- 2°. plaatsing in een voorziening voor opslag of verwijdering, of
+   - 2°. plaatsing in een voorziening voor opslag of verwijdering, of
 
-- 3°. een verplichting voor de fabrikant of leverancier om deze in ontvangst te nemen;
+   - 3°. een verplichting voor de fabrikant of leverancier om deze in ontvangst te nemen;
 
 - b. er door middel van financiële zekerheid overeenkomstig de [artikelen 4.15 tot en met 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&artikel=4.15&z=2025-01-01&g=2025-01-01) of op andere geschikte wijze voorzien wordt in het veilig beheer van de bron wanneer deze buiten gebruik wordt gesteld, mede met het oog op de situatie dat een ondernemer insolvent wordt of zijn activiteiten beëindigt.
 
 2. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot de financiële zekerheidsstelling en het borgen van een veilige afvoer van een hoogactieve bron bij beëindiging van het gebruik ervan.
 
-### Afdeling 3.3. Vrijstelling en vrijgave controlestelsel
+#### Afdeling 3.3. Vrijstelling en vrijgave controlestelsel
 
 #### § 3.3.1. Vrijstelling handelingen en bronnen
 
@@ -552,11 +514,11 @@ Onder de kennisgevingsplicht in gevallen waarin geen vergunning of registratie i
 
 - b. waarvan de activiteitsconcentratie van de radionucliden in de betrokken radioactieve stof niet hoger is dan:
 
-- 1°. de desbetreffende in [bijlage 3, onderdeel B, tabel A, deel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen vrijstellingswaarde voor kunstmatige radionucliden, of
+   - 1°. de desbetreffende in [bijlage 3, onderdeel B, tabel A, deel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen vrijstellingswaarde voor kunstmatige radionucliden, of
 
-- 2°. de desbetreffende in [bijlage 3, onderdeel B, tabel A, deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen vrijstellingswaarde voor van nature voorkomende radionucliden; of
+   - 2°. de desbetreffende in [bijlage 3, onderdeel B, tabel A, deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen vrijstellingswaarde voor van nature voorkomende radionucliden; of
 
-- c. indien het handelingen met matige hoeveelheden, tot 1.000 kg, van elk type materiaal betreft, waarvan de activiteitsconcentratie van de radionucliden in de betrokken radioactieve stof niet hoger is dan de in [bijlage 3, onderdeel B, tabel B, kolom 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01), opgenomen vrijstellingswaarden. Deze vrijstellingswaarden zijn van toepassing in plaats van de in onderdeel b bedoelde vrijstellingswaarden. Bij regeling van Onze Minister kunnen voor de toepassing van dit onderdeel lagere hoeveelheidsgrenzen worden vastgesteld dan het maximum van 1.000 kg; of
+- c. indien het handelingen met matige hoeveelheden, tot 1.000 kg, van elk type materiaal betreft, waarvan de activiteitsconcentratie van de radionucliden in de betrokken radioactieve stof niet hoger is dan de in [bijlage 3, onderdeel B, tabel B, kolom 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01), opgenomen vrijstellingswaarden. Deze vrijstellingswaarden zijn van toepassing in plaats van de in onderdeel b bedoelde vrijstellingswaarden. Bij regeling van Onze Minister kunnen voor de toepassing van dit onderdeel lagere hoeveelheidsgrenzen worden vastgesteld dan het maximum van 1.000 kg; of
 
 - d. waarvan de totale activiteit of activiteitsconcentratie van de radionucliden in de betrokken radioactieve stof niet hoger is dan de krachtens het vijfde lid of [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.19&z=2025-01-01&g=2025-01-01) vastgestelde vrijstellingswaarde die met de betrokken handeling is gemoeid.
 
@@ -608,19 +570,19 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 - a. met apparaten die een ingekapselde bron bevatten, op voorwaarde dat:
 
-- 1°. het apparaat behoort tot een bij verordening of beschikking van de Autoriteit goedgekeurd type;
+   - 1°. het apparaat behoort tot een bij verordening of beschikking van de Autoriteit goedgekeurd type;
 
-- 2°. het apparaat onder normale bedrijfsomstandigheden op 0,1 m van enige bereikbare buitenzijde daarvan geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 microsievert per uur, en
+   - 2°. het apparaat onder normale bedrijfsomstandigheden op 0,1 m van enige bereikbare buitenzijde daarvan geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 microsievert per uur, en
 
-- 3°. de Autoriteit bij verordening of beschikking voorwaarden voor recycling of verwijdering heeft vastgesteld;
+   - 3°. de Autoriteit bij verordening of beschikking voorwaarden voor recycling of verwijdering heeft vastgesteld;
 
 - b. met ieder toestel, mits:
 
-- 1°. deze een elektronenstraalbuis is voor visuele beeldweergave, of een ander elektrisch toestel dat werkt bij een potentiaalverschil van niet meer dan 30 kilovolt (kV), of behoort tot een bij verordening of beschikking van de Autoriteit goedgekeurd type, en
+   - 1°. deze een elektronenstraalbuis is voor visuele beeldweergave, of een ander elektrisch toestel dat werkt bij een potentiaalverschil van niet meer dan 30 kilovolt (kV), of behoort tot een bij verordening of beschikking van de Autoriteit goedgekeurd type, en
 
-- 2°. het toestel onder normale bedrijfsomstandigheden op 0,1 m van enige bereikbare buitenzijde van het toestel geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 microsievert per uur;
+   - 2°. het toestel onder normale bedrijfsomstandigheden op 0,1 m van enige bereikbare buitenzijde van het toestel geen hoger omgevingsdosisequivalenttempo veroorzaakt dan 1 microsievert per uur;
 
-- c. elektrische apparatuur die ioniserende straling uitzendt, en onderdelen bevat die bij een potentiaalverschil van niet meer dan 5 kV werken.
+- c. elektrische apparatuur die ioniserende straling uitzendt, en onderdelen bevat die bij een potentiaalverschil van niet meer dan 5 kV werken.
 
 2. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot:
 
@@ -642,9 +604,9 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 - a. waarvan de activiteitsconcentratie van de radionucliden in de betrokken radioactieve stof niet hoger is dan:
 
-- 1°. de desbetreffende in [bijlage 3, onderdeel B, tabel A, deel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen vrijgavewaarde voor kunstmatige radionucliden, of
+   - 1°. de desbetreffende in [bijlage 3, onderdeel B, tabel A, deel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen vrijgavewaarde voor kunstmatige radionucliden, of
 
-- 2°. de desbetreffende in [bijlage 3, onderdeel B, tabel A, deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen vrijgavewaarde voor van nature voorkomende radionucliden, of
+   - 2°. de desbetreffende in [bijlage 3, onderdeel B, tabel A, deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01) opgenomen vrijgavewaarde voor van nature voorkomende radionucliden, of
 
 - b. waarvan de activiteitsconcentratie van de radionucliden in de betrokken radioactieve stof niet hoger is dan de desbetreffende krachtens het vierde lid of [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.21&z=2025-01-01&g=2025-01-01) vastgestelde vrijgavewaarde.
 
@@ -696,9 +658,9 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 - a. menselijke activiteiten met:
 
-- 1°. radioactieve stoffen of radioactief materiaal dat afkomstig is van lozingen waarvoor krachtens [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.3&z=2025-01-01&g=2025-01-01) of [10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.4&z=2025-01-01&g=2025-01-01) een vergunning is vereist, of
+   - 1°. radioactieve stoffen of radioactief materiaal dat afkomstig is van lozingen waarvoor krachtens [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.3&z=2025-01-01&g=2025-01-01) of [10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.4&z=2025-01-01&g=2025-01-01) een vergunning is vereist, of
 
-- 2°. radioactieve stoffen of radioactief materiaal, vrijgesteld of vrijgegeven overeenkomstig afdeling 3.3;
+   - 2°. radioactieve stoffen of radioactief materiaal, vrijgesteld of vrijgegeven overeenkomstig afdeling 3.3;
 
 - b. het lozen van radioactieve stoffen in de bodem als bedoeld in [artikel 10.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.5&z=2025-01-01&g=2025-01-01), wanneer de in een kalenderjaar totaal geloosde hoeveelheid radioactieve stoffen bij het verlaten van het lozingspunt minder bedraagt dan 10-6 REing als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
 
@@ -712,7 +674,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 ### Hoofdstuk 4. Algemene regels voor bronnen en handelingen in geplande blootstellingsituaties
 
-### Afdeling 4.1. Algemene regels voor bronnen en handelingen
+#### Afdeling 4.1. Algemene regels voor bronnen en handelingen
 
 ##### Artikel 4.1. (waarschuwingssignalering)
 
@@ -778,7 +740,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 6. De ondernemer zorgt ervoor dat met betrekking tot de bronnen waarvoor hij verantwoordelijk is voldaan wordt aan bij verordening van de Autoriteit gestelde nadere regels met betrekking tot de eisen waaraan degene die een handeling verricht met een bron moet voldoen.
 
-### Afdeling 4.2. Toestellen en versnellers
+#### Afdeling 4.2. Toestellen en versnellers
 
 ##### Artikel 4.5. (verplichtingen ondernemer toestellen en versnellers)
 
@@ -798,7 +760,7 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 - g. het omgevingsdosisequivalenttempo dat een toestel of versneller mag veroorzaken.
 
-### Afdeling 4.3. Radioactieve stoffen
+#### Afdeling 4.3. Radioactieve stoffen
 
 #### § 4.3.1. Algemeen
 
@@ -870,9 +832,9 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 - a. de bron wordt vergezeld van:
 
-- 1°. schriftelijke informatie die bevestigt dat de bron voldoet aan het eerste lid en aan de krachtens [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2025-01-01&g=2025-01-01), met betrekking tot de bron of de bronhouder gestelde regels;
+   - 1°. schriftelijke informatie die bevestigt dat de bron voldoet aan het eerste lid en aan de krachtens [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2025-01-01&g=2025-01-01), met betrekking tot de bron of de bronhouder gestelde regels;
 
-- 2°. kleurenfoto’s van het ontwerp van de bron en de bijbehorende bronhouder, en, voor zover van toepassing, van het ontwerp van de bijbehorende broncontainer en de bijbehorende apparatuur;
+   - 2°. kleurenfoto’s van het ontwerp van de bron en de bijbehorende bronhouder, en, voor zover van toepassing, van het ontwerp van de bijbehorende broncontainer en de bijbehorende apparatuur;
 
 - b. de onder a bedoelde informatie en foto’s bij de levering van de bron worden verstrekt aan degene aan wie die bron wordt geleverd;
 
@@ -914,9 +876,9 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 - a. wordt gecontroleerd of de bron en in voorkomend geval de uitrusting die de bron bevat, feitelijk aanwezig is op de plaats waar deze wordt toegepast of is opgeslagen:
 
-- 1°. elke drie maanden, indien de bron minder dan eens per drie maanden wordt toegepast;
+   - 1°. elke drie maanden, indien de bron minder dan eens per drie maanden wordt toegepast;
 
-- 2°. eenmaal per jaar, indien de bron een keer of meer dan een keer per drie maanden wordt toegepast;
+   - 2°. eenmaal per jaar, indien de bron een keer of meer dan een keer per drie maanden wordt toegepast;
 
 - b. eenmaal per jaar wordt gecontroleerd of de bron en de bronhouder nog in goede staat zijn.
 
@@ -986,9 +948,9 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 - c. schriftelijk bewijs van de overeenkomst die met de leverancier of fabrikant van de bron is gesloten ten aanzien van:
 
-- 1°. de overbrenging van de niet meer in gebruik zijnde bron naar de leverancier, fabrikant of andere ondernemer die bevoegd is de bron te ontvangen, of
+   - 1°. de overbrenging van de niet meer in gebruik zijnde bron naar de leverancier, fabrikant of andere ondernemer die bevoegd is de bron te ontvangen, of
 
-- 2°. de plaatsing van de niet meer in gebruik zijnde bron in een voorziening voor opslag of verwijdering.
+   - 2°. de plaatsing van de niet meer in gebruik zijnde bron in een voorziening voor opslag of verwijdering.
 
 2. Het eerste lid is niet van toepassing indien de daarin bedoelde gegevens reeds bij een aanvraag om een vergunning voor de desbetreffende bron of handeling zijn verstrekt.
 
@@ -1010,9 +972,9 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 - e. bij het afsluiten van het dossier voor een bron, wanneer de ondernemer deze niet langer in zijn bezit heeft, waarbij de naam en het adres worden vermeld van:
 
-- 1°. de onderneming waaraan de bron is overgedragen, en
+   - 1°. de onderneming waaraan de bron is overgedragen, en
 
-- 2°. de voorziening voor opslag of verwijdering waaraan de bron is overgedragen;
+   - 2°. de voorziening voor opslag of verwijdering waaraan de bron is overgedragen;
 
 - f. bij het afsluiten van het dossier, als de ondernemer geen bronnen meer in zijn bezit heeft.
 
@@ -1054,7 +1016,7 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 2. Bij verordening van de Autoriteit kunnen regels worden gesteld met betrekking tot het hergebruik van producten of materialen of de opslag van afval afkomstig van handelingen met van nature voorkomende radionucliden, voor categorieën van gevallen waarin de activiteitsconcentratie van de betrokken van nature voorkomende radionucliden hoger is dan de desbetreffende krachtens [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.20&z=2025-01-01&g=2025-01-01) of [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.21&z=2025-01-01&g=2025-01-01) vastgestelde vrijgavewaarde.
 
-### Afdeling 4.4. Overige algemene regels
+#### Afdeling 4.4. Overige algemene regels
 
 #### § 4.4.1. Algemene regels consumentenproducten
 
@@ -1170,15 +1132,15 @@ In afwijking van het in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci
 
 - a. naleving van de relevante bepalingen inzake medische blootstelling als bedoeld in [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&z=2025-01-01&g=2025-01-01), waaronder in elk geval worden begrepen de bepalingen met betrekking tot:
 
-- 1°. de apparatuur;
+   - 1°. de apparatuur;
 
-- 2°. optimalisatie;
+   - 2°. optimalisatie;
 
-- 3°. de verantwoordelijkheden;
+   - 3°. de verantwoordelijkheden;
 
-- 4°. de opleidingsvereisten;
+   - 4°. de opleidingsvereisten;
 
-- 5°. bijzondere bescherming tijdens zwangerschap;
+   - 5°. bijzondere bescherming tijdens zwangerschap;
 
 - b. een passende betrokkenheid van een klinisch fysicus;
 
@@ -1196,7 +1158,7 @@ In afwijking van het in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci
 
 Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus voor de in [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.27&z=2025-01-01&g=2025-01-01) bedoelde handelingen worden vastgesteld.
 
-### Afdeling 4.5. Meet- en rekenmethoden
+#### Afdeling 4.5. Meet- en rekenmethoden
 
 ##### Artikel 4.29. (meet- en rekenmethoden)
 
@@ -1410,7 +1372,7 @@ De ondernemer stelt financiële middelen en faciliteiten voor een passende besch
 
 ### Hoofdstuk 6. Algemene bepalingen inzake blootstelling
 
-### Afdeling 6.1. Stralingsincidenten, ongevallen en radiologische noodsituaties
+#### Afdeling 6.1. Stralingsincidenten, ongevallen en radiologische noodsituaties
 
 #### § 6.1.1. Meldingen en maatregelen
 
@@ -1590,7 +1552,7 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 4. Met betrekking tot interventie in een geval als bedoeld in het eerste lid zijn [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&z=2025-01-01&g=2025-01-01), met uitzondering van [artikel 3.7, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.7&z=2025-01-01&g=2025-01-01), en de [artikelen 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.3&artikel=6.9&z=2025-01-01&g=2025-01-01), [6.11 tot en met 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.4&artikel=6.11&z=2025-01-01&g=2025-01-01) en [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=9.2&z=2025-01-01&g=2025-01-01), niet van toepassing.
 
-### Afdeling 6.2. Bestaande blootstellingsituaties
+#### Afdeling 6.2. Bestaande blootstellingsituaties
 
 #### § 6.2.1. Bestaande blootstellingsituaties
 
@@ -1694,17 +1656,17 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 ##### Artikel 6.21. (gammastraling van bouwmaterialen)
 
-1. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kunnen, rekening houdend met de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=9&z=2025-01-01&g=2025-01-01) genoemde materialen, bouwmaterialen worden aangewezen die aandacht behoeven vanuit het oogpunt van de stralingsbescherming, vanwege de door deze materialen uitgezonden gammastraling, die bij toepassing van deze bouwmaterialen kan leiden tot een overschrijding van het referentieniveau van 1 millisievert binnenshuis in een kalenderjaar, bedoeld in [artikel 9.10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.3&artikel=9.10&z=2025-01-01&g=2025-01-01).
+1. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kunnen, rekening houdend met de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=9&z=2025-01-01&g=2025-01-01) genoemde materialen, bouwmaterialen worden aangewezen die aandacht behoeven vanuit het oogpunt van de stralingsbescherming, vanwege de door deze materialen uitgezonden gammastraling, die bij toepassing van deze bouwmaterialen kan leiden tot een overschrijding van het referentieniveau van 1 millisievert binnenshuis in een kalenderjaar, bedoeld in [artikel 9.10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.3&artikel=9.10&z=2025-01-01&g=2025-01-01).
 
-2. Alvorens krachtens het eerste lid aangewezen bouwmaterialen in de handel te brengen bepaalt de ondernemer met toepassing van een bij verordening van de Autoriteit aangewezen methode of de door deze bouwmaterialen uitgezonden gammastraling, bovenop de externe blootstelling buitenshuis, binnenshuis het referentieniveau van 1 millisievert in een kalenderjaar, bedoeld in het eerste lid, niet overschrijdt.
+2. Alvorens krachtens het eerste lid aangewezen bouwmaterialen in de handel te brengen bepaalt de ondernemer met toepassing van een bij verordening van de Autoriteit aangewezen methode of de door deze bouwmaterialen uitgezonden gammastraling, bovenop de externe blootstelling buitenshuis, binnenshuis het referentieniveau van 1 millisievert in een kalenderjaar, bedoeld in het eerste lid, niet overschrijdt.
 
-3. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat wordt, in geval van de kans dat het referentieniveau van 1 millisievert in een kalenderjaar mogelijkerwijs wordt overschreden, bepaald hoe de ondernemer kan voorkomen dat het referentieniveau wordt overschreden ten gevolge van de externe blootstelling binnenshuis aan door bouwmaterialen uitgezonden gammastraling.
+3. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat wordt, in geval van de kans dat het referentieniveau van 1 millisievert in een kalenderjaar mogelijkerwijs wordt overschreden, bepaald hoe de ondernemer kan voorkomen dat het referentieniveau wordt overschreden ten gevolge van de externe blootstelling binnenshuis aan door bouwmaterialen uitgezonden gammastraling.
 
 4. Op verzoek van de Autoriteit of een ander bevoegd bestuursorgaan verstrekt de ondernemer de resultaten van de krachtens het tweede lid uitgevoerde bepaling alsmede de overige bij verordening van de Autoriteit of door een ander bevoegd bestuursorgaan aangewezen gegevens.
 
 5. Bij verordening van de Autoriteit kunnen nadere regels worden gesteld met het oog op een goede uitvoering van het eerste tot en met vierde lid.
 
-### Afdeling 6.3. Besmette gebieden
+#### Afdeling 6.3. Besmette gebieden
 
 ##### Artikel 6.22. (besmette gebieden)
 
@@ -1720,11 +1682,11 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 - a. doelstellingen, met inbegrip van langetermijndoelen, alsook de overeenkomstige referentieniveaus, vastgesteld op grond van de [paragrafen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.4&z=2025-01-01&g=2025-01-01) en [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.2&z=2025-01-01&g=2025-01-01) voor:
 
-- 1°. blootstelling in radiologische noodsituaties;
+   - 1°. blootstelling in radiologische noodsituaties;
 
-- 2°. bestaande blootstellingsituaties;
+   - 2°. bestaande blootstellingsituaties;
 
-- 3°. het vrijgeven van besmette gebieden voor bewoning en voor het hervatten van de sociale en economische activiteiten;
+   - 3°. het vrijgeven van besmette gebieden voor bewoning en voor het hervatten van de sociale en economische activiteiten;
 
 - b. te nemen maatregelen om de begrenzing van de getroffen gebieden te bepalen en getroffen leden van de bevolking te kunnen identificeren;
 
@@ -1746,7 +1708,7 @@ Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er
 
 - d. indien passend, begrenzing van de vrij te geven getroffen gebieden.
 
-### Afdeling 6.4. Monitoring
+#### Afdeling 6.4. Monitoring
 
 ##### Artikel 6.24. (milieumonitoring)
 
@@ -1758,7 +1720,7 @@ Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er
 
 ### Hoofdstuk 7. Beroepsmatige blootstelling
 
-### Afdeling 7.1. Algemene bepalingen voor beroepsmatige blootstelling
+#### Afdeling 7.1. Algemene bepalingen voor beroepsmatige blootstelling
 
 #### § 7.1.1. Verplichtingen ondernemer
 
@@ -1870,11 +1832,11 @@ Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er
 
 - b. een equivalente dosis van:
 
-- 1°. 15 millisievert in een kalenderjaar voor de ooglens;
+   - 1°. 15 millisievert in een kalenderjaar voor de ooglens;
 
-- 2°. 50 millisievert in een kalenderjaar voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2; en
+   - 2°. 50 millisievert in een kalenderjaar voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2; en
 
-- 3°. 50 millisievert in een kalenderjaar voor de extremiteiten.
+   - 3°. 50 millisievert in een kalenderjaar voor de extremiteiten.
 
 2. In geval van inwendige besmetting wordt de effectieve volgdosis toegewezen aan het jaar van inname.
 
@@ -1916,23 +1878,23 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 - a. een ruimte wordt aangemerkt als gecontroleerde zone, indien:
 
-- 1°. de mogelijke door een werknemer in de ruimte te ontvangen effectieve dosis groter is dan 6 millisievert in een kalenderjaar;
+   - 1°. de mogelijke door een werknemer in de ruimte te ontvangen effectieve dosis groter is dan 6 millisievert in een kalenderjaar;
 
-- 2°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de ooglensdosis groter is dan 15 millisievert in een kalenderjaar;
+   - 2°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de ooglensdosis groter is dan 15 millisievert in een kalenderjaar;
 
-- 3°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2, groter is dan 150 millisievert in een kalenderjaar;
+   - 3°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2, groter is dan 150 millisievert in een kalenderjaar;
 
-- 4°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de extremiteiten groter is dan 150 millisievert in een kalenderjaar; of
+   - 4°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de extremiteiten groter is dan 150 millisievert in een kalenderjaar; of
 
-- 5°. er een mogelijkheid is van verspreiding van radioactieve stoffen vanuit de ruimte zodanig dat personen een dosis hoger dan de effectieve of equivalente dosis, genoemd in [artikel 7.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.3&z=2025-01-01&g=2025-01-01), kunnen ontvangen;
+   - 5°. er een mogelijkheid is van verspreiding van radioactieve stoffen vanuit de ruimte zodanig dat personen een dosis hoger dan de effectieve of equivalente dosis, genoemd in [artikel 7.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.3&z=2025-01-01&g=2025-01-01), kunnen ontvangen;
 
 - b. een ruimte wordt aangemerkt als bewaakte zone, indien:
 
-- 1°. de mogelijke door een werknemer in de ruimte te ontvangen effectieve dosis groter is dan 1 millisievert in een kalenderjaar en kleiner of gelijk is aan 6 millisievert in een kalenderjaar;
+   - 1°. de mogelijke door een werknemer in de ruimte te ontvangen effectieve dosis groter is dan 1 millisievert in een kalenderjaar en kleiner of gelijk is aan 6 millisievert in een kalenderjaar;
 
-- 2°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2, groter is dan 50 millisievert in een kalenderjaar en kleiner of gelijk is aan 150 millisievert in een kalenderjaar; of
+   - 2°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2, groter is dan 50 millisievert in een kalenderjaar en kleiner of gelijk is aan 150 millisievert in een kalenderjaar; of
 
-- 3°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de extremiteiten groter is dan 50 millisievert in een kalenderjaar en kleiner of gelijk is aan 150 millisievert in een kalenderjaar.
+   - 3°. de mogelijke door een werknemer in de ruimte te ontvangen equivalente dosis voor de extremiteiten groter is dan 50 millisievert in een kalenderjaar en kleiner of gelijk is aan 150 millisievert in een kalenderjaar.
 
 2. De ondernemer zorgt ervoor dat in een gecontroleerde en een bewaakte zone passend toezicht wordt gehouden op de arbeidsomstandigheden met het oog op de bescherming tegen ioniserende straling.
 
@@ -1996,11 +1958,11 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 - 1°. een effectieve dosis kan ontvangen die groter is dan 6 millisievert in een kalenderjaar;
 
-- 2°. een equivalente dosis kan ontvangen die groter is dan 15 millisievert in een kalenderjaar voor de ooglens;
+- 2°. een equivalente dosis kan ontvangen die groter is dan 15 millisievert in een kalenderjaar voor de ooglens;
 
-- 3°. een equivalente dosis kan ontvangen die groter is dan 150 millisievert in een kalenderjaar voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2; of
+- 3°. een equivalente dosis kan ontvangen die groter is dan 150 millisievert in een kalenderjaar voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2; of
 
-- 4°. een equivalente dosis kan ontvangen die groter is dan 150 millisievert in een kalenderjaar voor de extremiteiten.
+- 4°. een equivalente dosis kan ontvangen die groter is dan 150 millisievert in een kalenderjaar voor de extremiteiten.
 
 3. Een B-werknemer is een blootgestelde werknemer die niet als A-werknemer wordt ingedeeld.
 
@@ -2290,7 +2252,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 2. Tenzij de arbodienst, in samenspraak met de stralingsarts, hiertoe op grond van dringende medische redenen adviseert, wordt de werknemer niet vanwege de in het eerste lid bedoelde overschrijding van een dosislimiet zonder diens toestemming van zijn normale beroepsbezigheden uitgesloten of op een andere plaats te werk gesteld.
 
-### Afdeling 7.2. Beroepsmatige blootstelling in geplande blootstellingsituaties
+#### Afdeling 7.2. Beroepsmatige blootstelling in geplande blootstellingsituaties
 
 ##### Artikel 7.33. (dosisbeperkingen werknemers)
 
@@ -2310,11 +2272,11 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 - b. een equivalente dosis van:
 
-- 1°. 20 millisievert in een kalenderjaar voor de ooglens;
+   - 1°. 20 millisievert in een kalenderjaar voor de ooglens;
 
-- 2°. 500 millisievert in een kalenderjaar voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2; of
+   - 2°. 500 millisievert in een kalenderjaar voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2; of
 
-- 3°. 500 millisievert in een kalenderjaar voor de extremiteiten.
+   - 3°. 500 millisievert in een kalenderjaar voor de extremiteiten.
 
 3. In geval van inwendige besmetting wordt de effectieve volgdosis toegewezen aan het jaar van inname.
 
@@ -2330,11 +2292,11 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 - b. een equivalente dosis van:
 
-- 1°. 15 millisievert in een kalenderjaar voor de ooglens;
+   - 1°. 15 millisievert in een kalenderjaar voor de ooglens;
 
-- 2°. 150 millisievert in een kalenderjaar voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2; of
+   - 2°. 150 millisievert in een kalenderjaar voor de huid, gemiddeld over enig blootgesteld huidoppervlak van 1 cm2; of
 
-- 3°. 150 millisievert in een kalenderjaar voor de extremiteiten.
+   - 3°. 150 millisievert in een kalenderjaar voor de extremiteiten.
 
 3. In geval van inwendige besmetting wordt de effectieve volgdosis toegewezen aan het jaar van inname.
 
@@ -2342,19 +2304,19 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 ##### Artikel 7.36. (zwangere en borstvoedinggevende werknemers)
 
-1. De ondernemer zorgt ervoor dat de arbeidsomstandigheden voor de zwangere werknemer zodanig zijn dat de equivalente dosis ten gevolge van het werk voor het ongeboren kind zo laag is als redelijkerwijs mogelijk is en dat het onwaarschijnlijk is dat de dosis vanaf het moment van melding van de zwangerschap aan de ondernemer tot aan het einde van de zwangerschap hoger zal zijn dan 1 millisievert.
+1. De ondernemer zorgt ervoor dat de arbeidsomstandigheden voor de zwangere werknemer zodanig zijn dat de equivalente dosis ten gevolge van het werk voor het ongeboren kind zo laag is als redelijkerwijs mogelijk is en dat het onwaarschijnlijk is dat de dosis vanaf het moment van melding van de zwangerschap aan de ondernemer tot aan het einde van de zwangerschap hoger zal zijn dan 1 millisievert.
 
 2. De ondernemer zorgt ervoor dat een werknemer, indien zij hem in kennis heeft gesteld dat zij borstvoeding geeft, gedurende deze periode geen arbeid verricht waarbij op basis van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), een relevant risico bestaat op besmetting van het lichaam.
 
 3. Indien de dosis, genoemd in het eerste lid, wordt overschreden rapporteert de ondernemer dit aan Onze Minister van Sociale Zaken en Werkgelegenheid of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, Onze Minister van Economische Zaken.
 
-### Afdeling 7.3. Beroepsmatige blootstelling in radiologische noodsituaties
+#### Afdeling 7.3. Beroepsmatige blootstelling in radiologische noodsituaties
 
 ##### Artikel 7.37. (beroepsmatige blootstelling in radiologische noodsituaties)
 
 1. In geval van beroepsmatige blootstelling in radiologische noodsituaties gelden voor zover mogelijk voor werknemers die als hulpverlener optreden de dosislimieten, genoemd in [artikel 7.34](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.2&artikel=7.34&z=2025-01-01&g=2025-01-01).
 
-2. Voor radiologische noodsituaties waarin niet aan het bepaalde in het eerste lid kan worden voldaan, geldt voor werknemers die als hulpverlener optreden een referentieniveau van 100 millisievert voor de effectieve dosis.
+2. Voor radiologische noodsituaties waarin niet aan het bepaalde in het eerste lid kan worden voldaan, geldt voor werknemers die als hulpverlener optreden een referentieniveau van 100 millisievert voor de effectieve dosis.
 
 3. In afwijking van het bepaalde in het tweede lid, geldt in uitzonderlijke situaties een referentieniveau van:
 
@@ -2362,13 +2324,13 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 - b. 500 millisievert voor de effectieve dosis voor uitwendige bestraling van werknemers die als hulpverlener optreden voor levensreddend werk, het voorkomen van ernstige gezondheidseffecten door straling of om de ontwikkeling van catastrofale omstandigheden te voorkomen.
 
-4. De ondernemer zorgt ervoor dat een werknemer die als hulpverlener optreedt en die activiteiten zou kunnen ondernemen waarbij een effectieve dosis van meer dan 100 millisievert kan worden ontvangen van tevoren duidelijk en uitvoerig is ingelicht over de bijbehorende gezondheidsrisico’s en de betreffende activiteiten vrijwillig uitvoert.
+4. De ondernemer zorgt ervoor dat een werknemer die als hulpverlener optreedt en die activiteiten zou kunnen ondernemen waarbij een effectieve dosis van meer dan 100 millisievert kan worden ontvangen van tevoren duidelijk en uitvoerig is ingelicht over de bijbehorende gezondheidsrisico’s en de betreffende activiteiten vrijwillig uitvoert.
 
-### Afdeling 7.4. Beroepsmatige blootstelling in bestaande situaties
+#### Afdeling 7.4. Beroepsmatige blootstelling in bestaande situaties
 
 ##### Artikel 7.38. (radon op het werk)
 
-1. Het referentieniveau voor het jaargemiddelde van radonconcentratie in de lucht op werkplekken bedraagt 100 becquerel/m3.
+1. Het referentieniveau voor het jaargemiddelde van radonconcentratie in de lucht op werkplekken bedraagt 100 becquerel/m3.
 
 2. De werkgever zorgt ervoor dat metingen voor het bepalen van de radonconcentratie worden uitgevoerd:
 
@@ -2392,7 +2354,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 7. De werkgever bewaart de geregistreerde gegevens in ieder geval totdat de persoon op wie de gegevens betrekking hebben, de leeftijd van vijfenzeventig jaar heeft bereikt of zou hebben bereikt, maar ten minste dertig jaar nadat deze persoon de handelingen heeft beëindigd.
 
-8. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kan in afwijking van het eerste lid voor bij die regeling aangewezen werkplekken als bedoeld in het vierde lid, een referentieniveau worden vastgesteld van ten hoogste 300 becquerel/m3 als jaargemiddelde van de radonconcentratie in de lucht, en kunnen nadere regels worden gesteld met betrekking tot het tweede, derde, vierde en zesde lid.
+8. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kan in afwijking van het eerste lid voor bij die regeling aangewezen werkplekken als bedoeld in het vierde lid, een referentieniveau worden vastgesteld van ten hoogste 300 becquerel/m3 als jaargemiddelde van de radonconcentratie in de lucht, en kunnen nadere regels worden gesteld met betrekking tot het tweede, derde, vierde en zesde lid.
 
 ### Hoofdstuk 8. Medische blootstelling
 
@@ -2634,7 +2596,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan regels stellen om onnodi
 
 ### Hoofdstuk 9. Blootstelling van leden van de bevolking
 
-### Afdeling 9.1. Blootstelling van leden van de bevolking in geplande blootstellingsituaties
+#### Afdeling 9.1. Blootstelling van leden van de bevolking in geplande blootstellingsituaties
 
 #### § 9.1.1. Dosislimieten
 
@@ -2642,13 +2604,13 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan regels stellen om onnodi
 
 1. Dosislimieten voor blootstelling van leden van de bevolking als bedoeld in het tweede of derde lid hebben betrekking op de som van de jaarlijkse blootstellingen van een lid van de bevolking ten gevolge van alle ingevolge dit besluit toegestane handelingen.
 
-2. Voor blootstelling van leden van de bevolking geldt een individuele effectieve dosislimiet van 1 millisievert in een kalenderjaar.
+2. Voor blootstelling van leden van de bevolking geldt een individuele effectieve dosislimiet van 1 millisievert in een kalenderjaar.
 
 3. Naast de dosislimiet, bedoeld in het tweede lid, gelden de volgende individuele equivalente dosislimieten:
 
 - a. een equivalente dosislimiet van 15 millisievert in een kalenderjaar voor de ooglens;
 
-- b. een equivalente dosislimiet van 50 millisievert in een kalenderjaar voor de huid, gemiddeld over enig huidoppervlak van 1 cm2 en ongeacht welk deel van de huid is blootgesteld.
+- b. een equivalente dosislimiet van 50 millisievert in een kalenderjaar voor de huid, gemiddeld over enig huidoppervlak van 1 cm2 en ongeacht welk deel van de huid is blootgesteld.
 
 4. In het geval van besmetting die leidt tot inwendige blootstelling wordt de effectieve volgdosis toegewezen aan het jaar van inname.
 
@@ -2656,7 +2618,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan regels stellen om onnodi
 
 ##### Artikel 9.2. (verplichtingen ondernemer, dosislimiet leden van de bevolking)
 
-1. De ondernemer zorgt ervoor dat voor een lid van de bevolking als gevolg van handelingen als bedoeld in [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=9.1&z=2025-01-01&g=2025-01-01), die onder zijn verantwoordelijkheid worden verricht, op enig punt buiten de locatie ten gevolge van die handelingen een effectieve dosis van 0,1 millisievert in een kalenderjaar niet wordt overschreden.
+1. De ondernemer zorgt ervoor dat voor een lid van de bevolking als gevolg van handelingen als bedoeld in [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=9.1&z=2025-01-01&g=2025-01-01), die onder zijn verantwoordelijkheid worden verricht, op enig punt buiten de locatie ten gevolge van die handelingen een effectieve dosis van 0,1 millisievert in een kalenderjaar niet wordt overschreden.
 
 2. De ondernemer zorgt ervoor dat voor een lid van de bevolking die zich binnen de locatie bevindt, als gevolg van handelingen, die onder zijn verantwoordelijkheid worden verricht, de in [artikel 9.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=9.1&z=2025-01-01&g=2025-01-01), genoemde individuele dosislimieten niet worden overschreden.
 
@@ -2670,7 +2632,7 @@ Dosisbeperkingen voor blootstelling van leden van de bevolking zijn in overeenst
 
 ##### Artikel 9.4. (optimalisatie, dosisbeperkingen buiten een locatie)
 
-De ondernemer zorgt ervoor dat bij het verrichten van een handeling, behorend tot een categorie als genoemd in [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.10&z=2025-01-01&g=2025-01-01), waarvoor een registratie is vereist, voor personen op enig punt buiten de locatie ten gevolge van die handelingen tezamen een dosisbeperking van 10 microsievert effectieve dosis in een kalenderjaar wordt gehanteerd.
+De ondernemer zorgt ervoor dat bij het verrichten van een handeling, behorend tot een categorie als genoemd in [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.10&z=2025-01-01&g=2025-01-01), waarvoor een registratie is vereist, voor personen op enig punt buiten de locatie ten gevolge van die handelingen tezamen een dosisbeperking van 10 microsievert effectieve dosis in een kalenderjaar wordt gehanteerd.
 
 ##### Artikel 9.5. (blootstelling leden van de bevolking, dosisbeperkingen in specifieke gevallen)
 
@@ -2700,7 +2662,7 @@ Een ondernemer zorgt voor:
 
 4. Bij verordening van de Autoriteit kunnen nadere regels worden gesteld met betrekking tot de inhoud, het beheer en de bewaartermijn van de administratie, bedoeld in het tweede lid.
 
-### Afdeling 9.2. Blootstelling van de leden van de bevolking in radiologische noodsituaties
+#### Afdeling 9.2. Blootstelling van de leden van de bevolking in radiologische noodsituaties
 
 ##### Artikel 9.8. (referentieniveaus in een radiologische noodsituatie en in een transitie van een radiologische noodsituatie naar een bestaande blootstellingsituatie)
 
@@ -2710,33 +2672,33 @@ Een ondernemer zorgt voor:
 
 - b. een of meer referentieniveaus vastgesteld voor blootstelling van leden van de bevolking in de transitie van een radiologische noodsituatie naar een bestaande blootstellingsituatie, in het bijzonder bij de beëindiging van langetermijnbeschermingsmaatregelen zoals vestiging elders.
 
-2. Een referentieniveau voor blootstelling van leden van de bevolking in een radiologische noodsituatie is gelijk aan of hoger dan 20 millisievert en niet hoger dan 100 millisievert als acute effectieve dosis of effectieve dosis in een jaar, en onverminderd de bij de regeling, bedoeld in het eerste lid, vast te stellen referentieniveaus voor equivalente doses.
+2. Een referentieniveau voor blootstelling van leden van de bevolking in een radiologische noodsituatie is gelijk aan of hoger dan 20 millisievert en niet hoger dan 100 millisievert als acute effectieve dosis of effectieve dosis in een jaar, en onverminderd de bij de regeling, bedoeld in het eerste lid, vast te stellen referentieniveaus voor equivalente doses.
 
-3. Voor specifieke radiologische noodsituaties kunnen bij verordening of beschikking van de Autoriteit referentieniveaus lager dan de in het eerste lid genoemde maximumwaarden worden vastgesteld. In ieder geval kan een referentieniveau lager dan 20 millisievert worden vastgesteld voor radiologische noodsituaties waarbij een passende bescherming kan worden geboden zonder dat als gevolg van de maatregelen onevenredig hoge schade of excessief hoge kosten ontstaan.
+3. Voor specifieke radiologische noodsituaties kunnen bij verordening of beschikking van de Autoriteit referentieniveaus lager dan de in het eerste lid genoemde maximumwaarden worden vastgesteld. In ieder geval kan een referentieniveau lager dan 20 millisievert worden vastgesteld voor radiologische noodsituaties waarbij een passende bescherming kan worden geboden zonder dat als gevolg van de maatregelen onevenredig hoge schade of excessief hoge kosten ontstaan.
 
 4. Bij de vaststelling van een waarde voor een referentieniveau als bedoeld in het eerste lid wordt zowel rekening gehouden met de kenmerken van de radiologische noodsituatie als met maatschappelijke omstandigheden.
 
 5. Onze Minister zorgt voor informatievoorziening aan de bevolking in een radiologische noodsituatie:
 
-- a. in geval van blootstelling van lager dan of gelijk aan 1 millisievert in een jaar: algemene informatievoorziening over het blootstellingsniveau, zonder specifiek rekening te houden met individuele blootstelling;
+- a. in geval van blootstelling van lager dan of gelijk aan 1 millisievert in een jaar: algemene informatievoorziening over het blootstellingsniveau, zonder specifiek rekening te houden met individuele blootstelling;
 
-- b. in geval van blootstelling hoger dan 1 millisievert maar lager dan of gelijk aan 20 millisievert in een jaar: specifieke informatievoorziening om individuele personen in staat te stellen om zo mogelijk de eigen blootstelling te beheren;
+- b. in geval van blootstelling hoger dan 1 millisievert maar lager dan of gelijk aan 20 millisievert in een jaar: specifieke informatievoorziening om individuele personen in staat te stellen om zo mogelijk de eigen blootstelling te beheren;
 
-- c. in geval van blootstelling hoger dan 20 millisievert maar lager dan of gelijk aan 100 millisievert in een jaar: een raming van individuele doses en specifieke informatievoorziening over stralingsrisico’s en beschikbare maatregelen om blootstelling te beperken.
+- c. in geval van blootstelling hoger dan 20 millisievert maar lager dan of gelijk aan 100 millisievert in een jaar: een raming van individuele doses en specifieke informatievoorziening over stralingsrisico’s en beschikbare maatregelen om blootstelling te beperken.
 
 ##### Artikel 9.9. (dosislimieten en referentieniveaus blootstelling hulpverleners, niet zijnde werknemers, bij interventie in een radiologische noodsituatie)
 
 In geval van interventie in een radiologische noodsituatie is [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.3&artikel=7.37&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing op hulpverleners, niet zijnde werknemers die als hulpverlener optreden als bedoeld in dat artikel.
 
-### Afdeling 9.3. Blootstelling van leden van de bevolking in bestaande blootstellingsituaties
+#### Afdeling 9.3. Blootstelling van leden van de bevolking in bestaande blootstellingsituaties
 
 ##### Artikel 9.10. (referentieniveaus in bestaande blootstellingsituaties)
 
 1. Bij regeling van Onze Minister worden een of meer referentieniveaus vastgesteld voor blootstelling van leden van de bevolking in een bestaande blootstellingsituatie.
 
-2. Een referentieniveau als bedoeld in het eerste lid is, onverminderd de bij regeling van Onze Minister vastgestelde referentieniveaus voor equivalente doses, gelijk aan of hoger dan 1 millisievert in een kalenderjaar en niet hoger dan 20 millisievert in een kalenderjaar.
+2. Een referentieniveau als bedoeld in het eerste lid is, onverminderd de bij regeling van Onze Minister vastgestelde referentieniveaus voor equivalente doses, gelijk aan of hoger dan 1 millisievert in een kalenderjaar en niet hoger dan 20 millisievert in een kalenderjaar.
 
-3. Voor specifieke bestaande blootstellingsituaties kan bij verordening of beschikking van de Autoriteit als referentieniveau een lagere dan een krachtens het eerste lid vastgestelde waarde worden vastgesteld. In ieder geval kan een referentieniveau onder 1 millisievert in een kalenderjaar worden vastgesteld voor bestaande blootstellingsituaties met specifieke brongerelateerde blootstelling of blootstellingsroutes.
+3. Voor specifieke bestaande blootstellingsituaties kan bij verordening of beschikking van de Autoriteit als referentieniveau een lagere dan een krachtens het eerste lid vastgestelde waarde worden vastgesteld. In ieder geval kan een referentieniveau onder 1 millisievert in een kalenderjaar worden vastgesteld voor bestaande blootstellingsituaties met specifieke brongerelateerde blootstelling of blootstellingsroutes.
 
 4. Bij de vaststelling van een waarde voor een referentieniveau krachtens dit artikel wordt rekening gehouden met zowel de kenmerken van de bestaande blootstellingsituatie als met maatschappelijke omstandigheden.
 
@@ -2744,13 +2706,13 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 - a. in geval van blootstelling van ten hoogste 1 millisievert in een kalenderjaar: algemene informatievoorziening over het blootstellingsniveau, zonder specifiek rekening te houden met de individuele blootstelling;
 
-- b. in geval van blootstelling hoger dan 1 millisievert in een kalenderjaar en lager dan of gelijk aan 20 millisievert in een kalenderjaar: specifieke informatievoorziening om individuele personen in staat te stellen om zo mogelijk de eigen blootstelling te beheren.
+- b. in geval van blootstelling hoger dan 1 millisievert in een kalenderjaar en lager dan of gelijk aan 20 millisievert in een kalenderjaar: specifieke informatievoorziening om individuele personen in staat te stellen om zo mogelijk de eigen blootstelling te beheren.
 
 6. Voor radonconcentraties binnenshuis in woningen en voor de bevolking toegankelijke gebouwen is een referentieniveau van ten hoogste 100 becquerel/m3 als jaargemiddelde van de activiteitsconcentratie in de lucht van toepassing.
 
-7. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kan, in afwijking van het zesde lid, voor bij de regeling aangewezen specifieke categorieën van voor het publiek toegankelijke gebouwen, waarin ook met redelijkerwijs haalbare maatregelen niet aan het referentieniveau, bedoeld in het zesde lid, kan worden voldaan, een referentieniveau worden vastgesteld van ten hoogste 300 becquerel/m3 als jaargemiddelde van de activiteitsconcentratie in de lucht.
+7. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kan, in afwijking van het zesde lid, voor bij de regeling aangewezen specifieke categorieën van voor het publiek toegankelijke gebouwen, waarin ook met redelijkerwijs haalbare maatregelen niet aan het referentieniveau, bedoeld in het zesde lid, kan worden voldaan, een referentieniveau worden vastgesteld van ten hoogste 300 becquerel/m3 als jaargemiddelde van de activiteitsconcentratie in de lucht.
 
-8. Voor de externe blootstelling in het binnenmilieu aan door bouwmaterialen uitgezonden gammastraling, bovenop de externe blootstelling buitenshuis, geldt een referentieniveau van 1 millisievert in een kalenderjaar.
+8. Voor de externe blootstelling in het binnenmilieu aan door bouwmaterialen uitgezonden gammastraling, bovenop de externe blootstelling buitenshuis, geldt een referentieniveau van 1 millisievert in een kalenderjaar.
 
 ### Hoofdstuk 10. Het beheer en het zich ontdoen van radioactieve afvalstoffen
 
@@ -2758,7 +2720,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 ##### Artikel 10.1. (nationaal programma beheer radioactieve afvalstoffen)
 
-1. Onze Minister stelt een programma voor het beheer van radioactieve afvalstoffen vast als bedoeld in artikel 5, eerste lid, onderdeel a, van [richtlijn 2011/70](32011L0070)/Euratom.
+1. Onze Minister stelt een programma voor het beheer van radioactieve afvalstoffen vast als bedoeld in artikel 5, eerste lid, onderdeel a, van richtlijn 2011/70/Euratom.
 
 2. Het programma bevat een uitwerking van de volgende uitgangspunten:
 
@@ -2822,11 +2784,11 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 1. Een verbod als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) in samenhang met [artikel 3.8, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01), op het handelen zonder vergunning waarbij door de lucht verspreide of vloeibare radioactieve stoffen in de omgeving vrijkomen, is niet van toepassing indien:
 
-- a. bij lozing in de lucht, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid radioactieve stoffen bij het verlaten van de locatie via een lozingspunt lager is dan 1 radiotoxiciteitsequivalent voor inhalatie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
+- a. bij lozing in de lucht, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid radioactieve stoffen bij het verlaten van de locatie via een lozingspunt lager is dan 1 radiotoxiciteitsequivalent voor inhalatie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
 
-- b. bij lozing in het openbare riool, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid radioactieve stoffen bij het verlaten van de locatie via een lozingspunt lager is dan 10 radiotoxiciteitsequivalent voor ingestie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
+- b. bij lozing in het openbare riool, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid radioactieve stoffen bij het verlaten van de locatie via een lozingspunt lager is dan 10 radiotoxiciteitsequivalent voor ingestie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
 
-- c. bij lozing in het oppervlaktewater, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid radioactieve stoffen bij het verlaten van de locatie via een lozingspunt lager is dan 0,1 radiotoxiciteitsequivalent voor ingestie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01).
+- c. bij lozing in het oppervlaktewater, de activiteit van de in totaal in een kalenderjaar geloosde hoeveelheid radioactieve stoffen bij het verlaten van de locatie via een lozingspunt lager is dan 0,1 radiotoxiciteitsequivalent voor ingestie als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01).
 
 2. De geloosde hoeveelheden, uitgedrukt in radiotoxiciteitsequivalenten, worden gecorrigeerd voor fysisch verval door middel van de correctiefactoren zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01).
 
@@ -2906,11 +2868,11 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 - b. hij zich, binnen twee jaar na die beëindiging, van de bron ontdoet door afgifte aan:
 
-- 1°. degene die de bron heeft vervaardigd of geleverd,
+   - 1°. degene die de bron heeft vervaardigd of geleverd,
 
-- 2°. een persoon die gerechtigd is met het oog op gebruik, product- of materiaalhergebruik van bronnen, of inzameling van bronnen, de bron te ontvangen, of
+   - 2°. een persoon die gerechtigd is met het oog op gebruik, product- of materiaalhergebruik van bronnen, of inzameling van bronnen, de bron te ontvangen, of
 
-- 3°. een krachtens [artikel 10.6, vijfde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.6&z=2025-01-01&g=2025-01-01), aangewezen instelling, of een krachtens artikel 10.6, zesde lid, erkende ophaaldienst die gerechtigd is de bron te ontvangen, of
+   - 3°. een krachtens [artikel 10.6, vijfde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.6&z=2025-01-01&g=2025-01-01), aangewezen instelling, of een krachtens artikel 10.6, zesde lid, erkende ophaaldienst die gerechtigd is de bron te ontvangen, of
 
 - c. indien de bron een toestel of versneller betreft, binnen twee jaar na die beëindiging het desbetreffende toestel of de versneller wordt verschroot, met uitzondering van de onderdelen van de versneller waarin zich radioactieve stoffen bevinden die door activering zijn ontstaan vanwege het gebruik van de versneller.
 
@@ -3018,23 +2980,23 @@ Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet
 
 3. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een ontheffing.
 
-### Hoofdstuk 12. Intrekking en overgangsbepalingen [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702)
+### Hoofdstuk 12. Intrekking en overgangsbepalingen Besluit stralingsbescherming
 
-### Afdeling 12.1. Intrekking
+#### Afdeling 12.1. Intrekking
 
 ##### Artikel 12.1
 
 Het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) wordt ingetrokken.
 
-### Afdeling 12.2. Overgangsbepalingen
+#### Afdeling 12.2. Overgangsbepalingen
 
-##### Artikel 12.2. (overgangsrecht [hoofdstuk 2 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=2))
+##### Artikel 12.2. (overgangsrecht hoofdstuk 2 Besluit stralingsbescherming)
 
-1. Een onmiddellijk voor het tijdstip van inwerkingtreding van dit besluit krachtens [artikel 4, eerste en tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) als gerechtvaardigd aangewezen, bestaande handeling of maatregel, die met ingang van dat tijdstip niet langer krachtens [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01), generiek als gerechtvaardigd is aangewezen, mag tot 1 januari 2019 worden voortgezet.
+1. Een onmiddellijk voor het tijdstip van inwerkingtreding van dit besluit krachtens [artikel 4, eerste en tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) als gerechtvaardigd aangewezen, bestaande handeling of maatregel, die met ingang van dat tijdstip niet langer krachtens [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01), generiek als gerechtvaardigd is aangewezen, mag tot 1 januari 2019 worden voortgezet.
 
 2. Een op het tijdstip van inwerkingtreding van dit besluit krachtens [artikel 4, zevende lid, eerste volzin, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) als gerechtvaardigd aangewezen handeling of maatregel geldt met ingang van dat tijdstip als een krachtens [artikel 2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01), gerechtvaardigde handeling of maatregel.
 
-##### Artikel 12.3. (overgangsrecht [hoofdstuk 3 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=3))
+##### Artikel 12.3. (overgangsrecht hoofdstuk 3 Besluit stralingsbescherming)
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit:
 
@@ -3078,11 +3040,11 @@ Het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR00127
 
 10. Met ingang van het tijdstip van inwerkingtreding van dit besluit gelden de documentatie en instructies als bedoeld in [artikel 15, derde en vijfde lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=15), als documentatie en instructies als bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&artikel=4.14&z=2025-01-01&g=2025-01-01).
 
-##### Artikel 12.4. (overgangsrecht [hoofdstuk 3a Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=3a))
+##### Artikel 12.4. (overgangsrecht hoofdstuk 3a Besluit stralingsbescherming)
 
 Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het programma, bedoeld in [artikel 20h van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=20h), voor zover op dat artikel berustend, op [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2025-01-01&g=2025-01-01).
 
-##### Artikel 12.5. (overgangsrecht [hoofdstuk 4 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=4))
+##### Artikel 12.5. (overgangsrecht hoofdstuk 4 Besluit stralingsbescherming)
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een melding krachtens [artikel 21 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=21) als een kennisgeving krachtens [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.11&z=2025-01-01&g=2025-01-01), tenzij [artikel 12.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&artikel=12.11&z=2025-01-01&g=2025-01-01) van toepassing is.
 
@@ -3124,7 +3086,7 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 12. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een oordeel van Onze Minister als bedoeld in [artikel 45, onderdelen c en d, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=45) als oordeel als bedoeld in [artikel 11.1, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=11&paragraaf=11.1&artikel=11.1&z=2025-01-01&g=2025-01-01).
 
-##### Artikel 12.6. (overgangsrecht [hoofdstuk 6 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=6))
+##### Artikel 12.6. (overgangsrecht hoofdstuk 6 Besluit stralingsbescherming)
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit gelden protocollen als bedoeld in [artikel 65 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=65) als protocollen als bedoeld in [artikel 8.14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&paragraaf=8.4&artikel=8.14&z=2025-01-01&g=2025-01-01).
 
@@ -3132,7 +3094,7 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 3. De eisen aan de apparatuur, bedoeld in [artikel 8.15, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&paragraaf=8.4&artikel=8.15&z=2025-01-01&g=2025-01-01), en de eis aan voor interventieradiologie en computertomografie gebruikte apparatuur om de informatie, bedoeld in artikel 8.15, onderdeel h, overeenkomstig dat onderdeel door te sturen naar het onderzoeksdossier, zijn niet van toepassing op apparatuur die is geïnstalleerd voor het tijdstip van inwerkingtreding van dit besluit.
 
-##### Artikel 12.7. (overgangsrecht [hoofdstuk 7 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=7))
+##### Artikel 12.7. (overgangsrecht hoofdstuk 7 Besluit stralingsbescherming)
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een indeling als bedoeld in [artikel 79, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=79) als een indeling als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.11&z=2025-01-01&g=2025-01-01).
 
@@ -3148,7 +3110,7 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 - b. geldt een aanwijzing van een instelling als bedoeld in [artikel 91, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=91) als een aanwijzing als bedoeld in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.17&z=2025-01-01&g=2025-01-01).
 
-##### Artikel 12.8. (overgangsrecht [hoofdstuk 8 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=8))
+##### Artikel 12.8. (overgangsrecht hoofdstuk 8 Besluit stralingsbescherming)
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een werkzaamheid als bedoeld in [artikel 101 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=101) als een handeling met natuurlijke bronnen als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=1&artikel=1.2&z=2025-01-01&g=2025-01-01) juncto [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025-01-01&g=2025-01-01).
 
@@ -3168,73 +3130,73 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 7. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een methode als bedoeld in [artikel 111, onderdeel b, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=111) als een methode als bedoeld in [artikel 7.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2025-01-01&g=2025-01-01).
 
-##### Artikel 12.9. (overgangsrecht [hoofdstuk 9 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=9))
+##### Artikel 12.9. (overgangsrecht hoofdstuk 9 Besluit stralingsbescherming)
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een team als bedoeld in [artikel 113 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=113) als een voorziening als bedoeld in [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.4&artikel=6.12&z=2025-01-01&g=2025-01-01).
 
 2. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een krachtens een vergunning vereist noodplan als een bedrijfsnoodplan als bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.3&artikel=6.7&z=2025-01-01&g=2025-01-01) en een interventieplan als bedoeld in [artikel 115 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=115) als het onderdeel «interventies» van een bedrijfsnoodplan, vereist krachtens [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.3&artikel=6.8&z=2025-01-01&g=2025-01-01), voor zover aan de daarop betrekking hebbende eisen wordt voldaan.
 
-##### Artikel 12.10. (overgangsrecht [hoofdstuk 10 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=10))
+##### Artikel 12.10. (overgangsrecht hoofdstuk 10 Besluit stralingsbescherming)
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit gelden nadere eisen als bedoeld in [artikel 122 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=122) als nadere eisen als bedoeld in [artikel 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=11&paragraaf=11.4&artikel=11.6&z=2025-01-01&g=2025-01-01).
 
 2. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een ontheffing als bedoeld in [artikel 123 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=123) als een ontheffing als bedoeld in [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=11&paragraaf=11.4&artikel=11.7&z=2025-01-01&g=2025-01-01).
 
-##### Artikel 12.11. (overig overgangsrecht [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702))
+##### Artikel 12.11. (overig overgangsrecht Besluit stralingsbescherming)
 
 1. Ten aanzien van een handeling die ingevolge [artikel 21 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=21) meldingsplichtig was en die ingevolge [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) vergunningplichtig of ingevolge [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.9&z=2025-01-01&g=2025-01-01) registratieplichtig wordt, wordt binnen twee jaar na de inwerkingtreding van dit besluit een daartoe strekkende aanvraag ingediend. Tot het tijdstip waarop de beslissing op de aanvraag onherroepelijk van kracht is geworden geldt de melding als tijdelijke vergunning of tijdelijke registratie.
 
 2. Ten aanzien van een handeling of blootstellingsituatie waarvoor ingevolge [artikel 21 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=21) geen meldingsplicht gold en waarvoor ingevolge [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.11&z=2025-01-01&g=2025-01-01) een kennisgevingsplicht geldt, wordt binnen drie maanden na de inwerkingtreding van dit besluit een kennisgeving gedaan.
 
-3. Ten aanzien van de verplichtingen met betrekking tot een beëindigingsplan als bedoeld in [artikel 10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.3&artikel=10.8&z=2025-01-01&g=2025-01-01) wordt voor de eerste maal gevolg gegeven uiterlijk op 1 januari 2020.
+3. Ten aanzien van de verplichtingen met betrekking tot een beëindigingsplan als bedoeld in [artikel 10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.3&artikel=10.8&z=2025-01-01&g=2025-01-01) wordt voor de eerste maal gevolg gegeven uiterlijk op 1 januari 2020.
 
 ### Hoofdstuk 13. Wijziging en overgangsbepalingen overige besluiten
 
-### Afdeling 13.1. Wijziging overige besluiten
+#### Afdeling 13.1. Wijziging overige besluiten
 
-##### Artikel 13.1. (wijziging [Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667))
+##### Artikel 13.1. (wijziging Besluit kerninstallaties, splijtstoffen en ertsen)
 
-Wijzigt het Besluit kerninstallaties, splijtstoffen en ertsen.
+*Wijzigt het Besluit kerninstallaties, splijtstoffen en ertsen.*
 
-##### Artikel 13.2. (wijziging [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668))
+##### Artikel 13.2. (wijziging Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen)
 
-Wijzigt het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.
+*Wijzigt het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.*
 
-##### Artikel 13.3. (wijziging [Besluit in- uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0025680))
+##### Artikel 13.3. (wijziging Besluit in- uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen)
 
-Wijzigt het Besluit in- uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen.
+*Wijzigt het Besluit in- uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen.*
 
-##### Artikel 13.4. (wijziging [Vrijstellingsbesluit defensie Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0013888))
+##### Artikel 13.4. (wijziging Vrijstellingsbesluit defensie Kernenergiewet)
 
-Wijzigt het Vrijstellingsbesluit defensie Kernenergiewet.
+*Wijzigt het Vrijstellingsbesluit defensie Kernenergiewet.*
 
-##### Artikel 13.5. (wijziging [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
+##### Artikel 13.5. (wijziging Besluit stortplaatsen en stortverboden afvalstoffen)
 
-Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
+*Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.*
 
-##### Artikel 13.6. (wijziging [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002768))
+##### Artikel 13.6. (wijziging Geheimhoudingsbesluit Kernenergiewet)
 
-Wijzigt het Geheimhoudingsbesluit Kernenergiewet.
+*Wijzigt het Geheimhoudingsbesluit Kernenergiewet.*
 
-##### Artikel 13.7. (wijziging [Besluit vergoedingen Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0034271))
+##### Artikel 13.7. (wijziging Besluit vergoedingen Kernenergiewet)
 
-Wijzigt het Besluit vergoedingen Kernenergiewet.
+*Wijzigt het Besluit vergoedingen Kernenergiewet.*
 
-##### Artikel 13.8. (wijziging [Besluit OM afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233))
+##### Artikel 13.8. (wijziging Besluit OM afdoening)
 
-Wijzigt het Besluit OM-afdoening.
+*Wijzigt het Besluit OM-afdoening.*
 
-##### Artikel 13.9. (wijziging [Besluit detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014106))
+##### Artikel 13.9. (wijziging Besluit detectie radioactief besmet schroot)
 
-Wijzigt het Besluit detectie radioactief besmet schroot.
+*Wijzigt het Besluit detectie radioactief besmet schroot.*
 
-### Afdeling 13.2. Overgangsbepalingen overige besluiten
+#### Afdeling 13.2. Overgangsbepalingen overige besluiten
 
-##### Artikel 13.10. (overgangsbepalingen [Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667))
+##### Artikel 13.10. (overgangsbepalingen Besluit kerninstallaties, splijtstoffen en ertsen)
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-##### Artikel 13.11. (overgangsbepalingen [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668))
+##### Artikel 13.11. (overgangsbepalingen Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen)
 
 1. Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.2&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
@@ -3242,31 +3204,31 @@ Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&ho
 
 3. Een jaarkennisgeving als bedoeld in het tweede lid vervalt van rechtswege op het tijdstip waarop de globale kennisgeving, waarvan het de voortzetting is, zou zijn vervallen.
 
-##### Artikel 13.12. (overgangsbepalingen [Besluit in- uit- en doorvoer van radioactieve stoffen en bestraalde splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0025680))
+##### Artikel 13.12. (overgangsbepalingen Besluit in- uit- en doorvoer van radioactieve stoffen en bestraalde splijtstoffen)
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.3&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-##### Artikel 13.13. (overgangsbepalingen [Vrijstellingsbesluit defensie Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0013888))
+##### Artikel 13.13. (overgangsbepalingen Vrijstellingsbesluit defensie Kernenergiewet)
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.4&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-##### Artikel 13.14. (overgangsbepalingen [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
+##### Artikel 13.14. (overgangsbepalingen Besluit stortplaatsen en stortverboden afvalstoffen)
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.5&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of van overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-##### Artikel 13.15. (overgangsbepalingen [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002768))
+##### Artikel 13.15. (overgangsbepalingen Geheimhoudingsbesluit Kernenergiewet)
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.6&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of van overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-##### Artikel 13.16. (overgangsbepalingen [Besluit vergoedingen Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0034271))
+##### Artikel 13.16. (overgangsbepalingen Besluit vergoedingen Kernenergiewet)
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.7&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-##### Artikel 13.17. (overgangsbepalingen [Besluit OM afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233))
+##### Artikel 13.17. (overgangsbepalingen Besluit OM afdoening)
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.8&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-##### Artikel 13.18. (overgangsbepalingen [Besluit detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014106))
+##### Artikel 13.18. (overgangsbepalingen Besluit detectie radioactief besmet schroot)
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.9&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
@@ -3278,7 +3240,7 @@ Indien dit in het belang van de bescherming tegen ioniserende straling naar het 
 
 ##### Artikel 14.2. (wijzigingsbepaling)
 
-Een wijziging van [richtlijn 2013/59](32013L0059)/Euratom gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Een wijziging van richtlijn 2013/59/Euratom gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 14.3. (inwerkingtreding)
 
@@ -3287,807 +3249,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 14.4. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit basisveiligheidsnormen stralingsbescherming.
-
-## Bijlage 1. behorend bij [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=1&artikel=1.2&z=2025-01-01&g=2025-01-01) van het Besluit basisveiligheidsnormen stralingsbescherming (algemene begripsomschrijvingen)
-
-- **aanwijsinstrument:** instrument voor tijd- of plaatsbepaling, dan wel voor het meten, bepalen of aangeven van andere grootheden, bestemd voor gebruik op of in de directe omgeving van personen;
-
-- **activering:** proces waarbij een stabiele nuclide in een radionuclide wordt omgevormd door het materiaal, waarin dat nuclide zich bevindt, met deeltjes of met hoogenergetische gammastralen te bestralen;
-
-- **activiteit (A):** activiteit als gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **activiteitsconcentratie:** activiteitsconcentratie als gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **afgedankte ingekapselde bron:** ingekapselde bron die niet langer wordt gebruikt, noch bestemd is om te worden gebruikt voor de handeling waarvoor autorisatie was verleend maar die veilig beheer blijft vergen;
-
-- **apparaten of apparatuur:** toestellen, versnellers, ingekapselde bronnen en open bronnen alsmede bijbehorende apparaten zoals ontwikkelmachines, diagnostische monitoren, PET/CT-scanners en gammacamera’s;
-
-- **arbodienst:** dienst als bedoeld in [artikel 14a, tweede en derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14a);
-
-- **autorisatie:** registratie of vergunning;
-
-- **Autoriteit:** Autoriteit Nucleaire Veiligheid en Stralingsbescherming als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=3);
-
-- **A-werknemer:** blootgestelde werknemer als bedoeld in [artikel 7.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.11&z=2025-01-01&g=2025-01-01), juncto [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.24&z=2025-01-01&g=2025-01-01);
-
-- **beheer van radioactieve afvalstoffen:** alle handelingen die te maken hebben met het hanteren, de voorbehandeling, de behandeling, het conditioneren, de opslag of de eindberging van radioactieve afvalstoffen, met uitzondering van het vervoer buiten het terrein van de inrichting of de locatie;
-
-- **beheersysteem:** systeem dat gegevens en documenten bevat die betrekking hebben op de stralingsbescherming binnen de onderneming;
-
-- **bergplaats:** ruimte die uitsluitend wordt gebruikt voor de opslag van radioactieve stoffen;
-
-- **beroepsmatige blootstelling:** blootstelling van werknemers bij de arbeid;
-
-- **beroepsmatige blootstelling in radiologische noodsituaties:** blootstelling van een hulpverlener in een radiologische noodsituatie;
-
-- **beschermingsmaatregelen:** maatregelen in een radiologische noodsituatie of bestaande blootstellingsituatie, niet zijnde remediëringsmaatregelen, om doses te vermijden of te verminderen die anders in een radiologische noodsituatie of bestaande blootstellingsituatie zouden worden ontvangen;
-
-- **besmet gebied:** gebied waar zich een besmetting voordoet, anders dan op of in het menselijk lichaam;
-
-- **besmetting:** onbedoelde of ongewenste aanwezigheid van radioactieve stoffen op oppervlakken of in vaste stoffen, vloeistoffen en gassen of uitwendig op of inwendig in het menselijk lichaam;
-
-- **bestaande blootstellingsituatie:** blootstellingsituatie die al bestaat op het ogenblik dat een beslissing over de controle ervan wordt genomen en die niet of niet langer dringende maatregelen vereist;
-
-- **bevolkingsonderzoek:** procedure waarbij medisch-radiologische installaties worden gebruikt voor een onderzoek als bedoeld in [artikel 1, onderdeel c, van de Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&artikel=1);
-
-- **bewaakte zone:** zone als bedoeld in [artikel 7.7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.7&z=2025-01-01&g=2025-01-01);
-
-- **blootgestelde werknemer:** werknemer die bij de arbeid een blootstelling kan ondergaan die kan leiden tot dosis hoger dan een van de dosislimieten genoemd in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.3&z=2025-01-01&g=2025-01-01);
-
-- **blootstelling:** handeling van het blootstellen of het blootgesteld zijn aan ioniserende straling, door uitwendige of inwendige blootstelling;
-
-- **blootstelling aan radon:** blootstelling aan de dochternucliden van radon;
-
-- **blootstelling bij niet-medische beeldvorming:** elke opzettelijke blootstelling van personen voor beeldvorming waarbij het nut voor de gezondheid van de persoon die de blootstelling ondergaat niet vooropstaat;
-
-- **blootstelling bij ongeval:** blootstelling van personen, behalve hulpverleners, ten gevolge van een ongeval;
-
-- **blootstelling in een radiologische noodsituatie:** situatie van blootstelling ten gevolge van een radiologische noodsituatie;
-
-- **blootstelling van de bevolking:** blootstelling van personen, met uitzondering van beroepsmatige of medische blootstelling;
-
-- **blootstellingsroute:** wijze waarop ioniserende straling of radionucliden personen kunnen bereiken en blootstelling kunnen veroorzaken;
-
-- **bouwmateriaal:** voor de bouw bestemd product dat bedoeld is om blijvend te worden verwerkt in een bouwwerk of delen ervan, en waarvan de prestaties gevolgen hebben voor de prestaties van het bouwwerk met betrekking tot de blootstelling van de bewoners aan ioniserende straling;
-
-- **bron:** toestel, versneller of radioactieve stof;
-
-- **broncontainer:** samenstel van componenten dat bedoeld is om de insluiting van een ingekapselde bron te garanderen voor zover deze geen geïntegreerd onderdeel van de bron is, maar bedoeld is om de bron te beschermen bij transport en verlading;
-
-- **bronhouder:** behuizing van een ingekapselde bron, die ter plaatse van het uittredevenster van de bronhouder is voorzien van een voorziening, waarmee de uittredende stralenbundel kan worden onderbroken en waaruit de bron niet zonder hulpgereedschap kan worden verwijderd;
-
-- **B-werknemer:** blootgestelde werknemer als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.11&z=2025-01-01&g=2025-01-01);
-
-- **complexvergunning:** vergunning als bedoeld in [artikel 3.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.4&z=2025-01-01&g=2025-01-01), voor omvangrijke handelingen of handelingen die een uitgebreide bescherming tegen ioniserende straling vereisen;
-
-- **consumentenproducten:** apparaten of producten waarin doelbewust een of meer radionucliden zijn ingebracht, of die bij activering radionucliden voortbrengen of die ioniserende straling uitzenden, en die zonder toezicht of controle als bedoeld in [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&z=2025-01-01&g=2025-01-01) na verkoop aan leden van de bevolking kunnen worden verkocht of ter beschikking gesteld;
-
-- **controlestelsel:** stelsel van controle en regulering dat wordt toegepast op menselijke activiteiten met het oog op de stralingsbescherming en handhaving van stralingsbeschermingsvoorschriften;
-
-- **deskundige:** persoon die een diploma, certificaat of een ander getuigschrift ter afsluiting van een opleiding op het gebied van stralingsbescherming heeft behaald bij een instelling als bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2025-01-01&g=2025-01-01);
-
-- **diagnostische referentieniveaus:** dosisniveaus in de medische radiodiagnostiek of interventieradiologie, of, in het geval van radiofarmaceutica, hoeveelheden activiteit voor karakteristieke onderzoeken voor groepen patiënten van standaardafmetingen of standaardfantomen voor globaal gedefinieerde soorten apparatuur;
-
-- **dosisbeperking:** waarde die voorafgaand aan een handeling wordt bepaald als verwacht maximum van een individuele effectieve of equivalente dosis en gebruikt wordt voor de bepaling van de mogelijkheden tot optimalisatie van een bepaalde bron in een geplande blootstellingsituatie;
-
-- **dosislimiet:** waarde van de effectieve dosis (of in voorkomend geval de effectieve volgdosis) of de equivalente dosis in een bedoelde periode die per persoon niet mag worden overschreden;
-
-- **effectieve dosis (E):** effectieve dosis zoals gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **effectieve volgdosis (E(τ)):** effectieve volgdosis zoals gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **eigen werknemer:** blootgestelde werknemer in dienst van de ondernemer dan wel vrijwilliger of zelfstandige die ten behoeve van de ondernemer gehouden is arbeid te verrichten;
-
-- **eindberging:** de plaatsing van radioactieve afvalstoffen of verbruikte splijtstoffen in een inrichting zonder de bedoeling die afvalstoffen of splijtstoffen terug te halen;
-
-- **equivalente dosis (HT):** equivalente dosis zoals gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **equivalente volgdosis (HT(τ)):** equivalente volgdosis zoals gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **externe werknemer:** blootgestelde werknemer, niet zijnde een eigen werknemer van de ondernemer, ten behoeve van wie hij gehouden is arbeid te verrichten, met inbegrip van leerlingen en studerenden;
-
-- **extremiteiten:** handen, onderarmen, voeten en enkels;
-
-- **geabsorbeerde dosis (D):** geabsorbeerde dosis zoals gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **gecontroleerde zone:** zone als bedoeld in [artikel 7.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.7&z=2025-01-01&g=2025-01-01);
-
-- **geplande blootstellingsituatie:** blootstellingsituatie die voortkomt uit het geplande gebruik van een bron of uit een menselijke handeling die wijziging brengt in de blootstellingsroutes zodat zij de blootstelling of potentiële blootstelling van mens of milieu veroorzaken; geplande blootstellingsituaties kunnen zowel reguliere als potentiële blootstellingen van werknemers, leden van de bevolking en patiënten omvatten;
-
-- **gezondheidsschade:** kortere levensduur en verminderde levenskwaliteit voor personen als gevolg van blootstelling aan ioniserende straling; onder meer weefselreacties, kanker en ernstige genetische effecten;
-
-- **handeling:** menselijke handeling die de blootstelling van personen aan van een bron afkomstige straling kan doen toenemen, alsmede een menselijke handeling die krachtens [artikel 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.17&z=2025-01-01&g=2025-01-01) wordt aangemerkt als een geplande blootstellingsituatie, waaronder het bereiden, voorhanden hebben, bewerken, toepassen of zich ontdoen van een bron;
-
-- **handeling met een natuurlijke bron:** handeling met betrekking tot van nature voorkomend radioactief materiaal als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.2&z=2025-01-01&g=2025-01-01);
-
-- **hoogactieve bron:** ingekapselde bron als bedoeld in [paragraaf 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&z=2025-01-01&g=2025-01-01), waarvan de activiteit van de erin vervatte radionuclide gelijk is aan of hoger is dan de relevante waarde voor die activiteit, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=4&z=2025-01-01&g=2025-01-01);
-
-- **hulpverlener:** persoon met een welomschreven taak in een stralingsincident, radiologische noodsituatie of ongeval die een blootstelling kan ondergaan terwijl hij in het stralingsincident, de radiologische noodsituatie of het ongeval hulp verleent;
-
-- **individuele schade:** klinisch waarneembare schadelijke gevolgen bij personen of hun nakomelingen die onmiddellijk of vertraagd optreden; in het laatste geval betreft het eerder de waarschijnlijkheid dan de zekerheid dat zij optreden;
-
-- **industriële radiografie:** het door middel van ioniserende straling vanuit een toestel of apparaat via een stralingsdetector produceren van een visueel waarneembaar beeld door het geproduceerde signaal om te zetten naar een videosignaal, dat wordt weergegeven door een monitor dan wel een methode waarbij de projectie van het te onderzoeken object wordt vastgelegd op filmmateriaal;
-
-- **ingekapselde bron:** radioactieve bron waarvan het radioactieve materiaal permanent in een omhulsel is ingekapseld, dan wel gebonden is in vaste vorm teneinde onder normale gebruiksomstandigheden iedere verspreiding van radioactieve stoffen te voorkomen;
-
-- **inspectie:** onderzoek door of namens een bevoegde autoriteit om te controleren of de wettelijke regels en voorschriften in acht worden genomen;
-
-- **inname:** activiteit van radionucliden die door het lichaam uit het omringende milieu worden opgenomen;
-
-- **interventieradiologie:** gebruik van beeldvormingstechnieken op basis van röntgenstraling, om het inbrengen en sturen van instrumenten in het lichaam te vergemakkelijken en zo een diagnose te kunnen stellen of een behandeling te kunnen uitvoeren;
-
-- **inwendige blootstelling:** blootstelling aan ioniserende straling vanuit bronnen binnen het menselijk lichaam;
-
-- **ioniserende straling:** onverminderd [artikel 1, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1), de energie die wordt overgedragen in de vorm van deeltjes of elektromagnetische straling met een golflengte van ten hoogste 100 nanometer of een frequentie van ten minste 3 × 1015 hertz, waardoor rechtstreeks of onrechtstreeks ionen kunnen worden geproduceerd;
-
-- **kennisgeving:** overlegging krachtens [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.11&z=2025-01-01&g=2025-01-01) aan de Autoriteit van gegevens ter kennisgeving van het voornemen een onder [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&z=2025-01-01&g=2025-01-01) vallende handeling of maatregel te verrichten of van een onder die afdeling vallende blootstellingsituatie;
-
-- **klinische audit:** stelselmatige analyse of evaluatie van medisch-radiologische procedures ter verbetering van de kwaliteit en de resultaten van de patiëntenzorg via een gestructureerde evaluatie waarbij medisch-radiologische handelingen, procedures en resultaten worden getoetst aan de overeengekomen normen voor goede medisch-radiologische procedures;
-
-- **klinische verantwoordelijkheid:** verantwoordelijkheid van een medisch deskundige voor individuele medische blootstellingen, met name de rechtvaardiging, de optimalisatie en de klinische evaluatie van het resultaat, als bedoeld in artikel 4, onderdeel 13, van de richtlijn;
-
-- **klinisch fysicus:** ingevolge het [Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus](https://wetten.overheid.nl/jci1.3:c:BWBR0018235) bevoegde persoon die over de nodige kennis en ervaring beschikt en de nodige opleiding heeft genoten om op te treden of advies te geven over kwesties betreffende op medische blootstelling toegepaste stralingsfysica;
-
-- **kunstmatige bron:** bron, niet zijnde een natuurlijke bron en niet zijnde een toestel of een versneller;
-
-- **kwaliteitsbeheersing:** activiteiten, waaronder het programmeren, coördineren en uitvoeren, die worden verricht teneinde de kwaliteit te handhaven of te verbeteren en die betrekking hebben op de monitoring, evaluatie en bijstelling op het vereiste niveau van alle prestaties van de apparatuur die gedefinieerd, gemeten en beheerst kunnen worden;
-
-- **kwaliteitsborging:** alle geplande en systematische handelingen die noodzakelijk zijn om voldoende zekerheid te krijgen dat een structuur, systeem, onderdeel of procedure in bedrijf naar behoren en in overeenstemming met overeengekomen normen functioneert, waaronder mede wordt verstaan kwaliteitsbeheersing;
-
-- **leerling:** persoon die binnen een onderneming wordt opgeleid of geschoold met het oog op het uitoefenen van een specifieke vaardigheid;
-
-- **leverancier:** natuurlijke of rechtspersoon die een bron of hoogactieve bron levert of ter beschikking stelt;
-
-- **lid van de bevolking:** persoon uit de bevolking binnen of buiten een locatie, niet zijnde een werknemer gedurende zijn werktijd of een persoon die een medische blootstelling ondergaat;
-
-- **locatie:** locatie waarop een milieubelastende activiteit die is aangewezen in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) wordt verricht of plaats, waar een handeling wordt verricht;
-
-- **lozing:** lozing op of in de bodem, in de lucht, in het openbare riool of in het oppervlaktewater;
-
-- **lozing op of in de bodem:** definitief op of in de bodem brengen of doen brengen van vloeibare of in vloeistof opgeloste radioactieve stoffen dan wel van in een vloeistofstroom meegevoerde deeltjes van radioactieve stoffen, of het op de bodem brengen van deze stoffen indien daarbij vloeistof voor een deel in de bodem treedt, niet zijnde meststoffen als bedoeld in [artikel 1, eerste lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054);
-
-- **lozing in het openbare riool:** in het openbare riool ontsnappen of laten ontsnappen van vloeibare of in vloeistof opgeloste radioactieve stoffen dan wel van in een vloeistofstroom meegevoerde deeltjes van radioactieve stoffen;
-
-- **lozing in de lucht:** in de lucht ontsnappen van of laten ontsnappen van gasvormige radioactieve stoffen dan wel van in een gasstroom meegevoerde deeltjes van radioactieve stoffen;
-
-- **lozing in het oppervlaktewater:** in het oppervlaktewater ontsnappen of laten ontsnappen van vloeibare of in vloeistof opgeloste radioactieve stoffen dan wel van in een vloeistofstroom meegevoerde deeltjes van radioactieve stoffen;
-
-- **maatregel:** remediërende of beschermingsmaatregel;
-
-- **medische blootstelling:** blootstelling van patiënten of asymptomatische personen ten behoeve van hun eigen medische of tandheelkundige diagnose of behandeling die bedoeld is om hun gezondheid te verbeteren, alsook blootstelling van verzorgers en van proefpersonen tijdens wetenschappelijk onderzoek;
-
-- **medisch deskundige:** arts, tandarts of andere zorgverlener die bij of krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36) of [36a van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a) bevoegd is klinische verantwoordelijkheid te dragen voor een individuele medische blootstelling;
-
-- **medisch-radiologisch:** betrekking hebbend op radiodiagnostische en radiotherapeutische procedures, en interventieradiologie of op een andere medische toepassing van ioniserende straling voor planning, besturing en verificatie;
-
-- **medisch-radiologische installatie:** faciliteit waar medisch-radiologische procedures plaatsvinden;
-
-- **medisch-radiologische procedure:** elke procedure die aanleiding geeft tot medische blootstelling;
-
-- **meet-, regel- of ijkbron:** bron die uitsluitend wordt gebruikt in een al dan niet vaste meet-, regel- of ijkopstelling;
-
-- **mijnbouw:** handelingen in het kader van het verrichten van verkenningsonderzoek, het opsporen of het winnen van delfstoffen of aardwarmte, dan wel het opslaan van stoffen;
-
-- **milieumonitoring:** meting van de externe dosistempo’s ten gevolge van radioactieve stoffen in het milieu of van concentraties van radionucliden in milieucompartimenten;
-
-- **natuurlijke bron:** bron van ioniserende straling van natuurlijke, terrestrische of kosmische oorsprong;
-
-- **noodplan:** nationaal crisisplan als bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.5&z=2025-01-01&g=2025-01-01) of bedrijfsnoodplan als bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.3&artikel=6.7&z=2025-01-01&g=2025-01-01), bestaande uit voorzorgsmaatregelen bij blootstelling in een radiologische noodsituatie op basis van hypothetische gebeurtenissen en bijbehorende scenario’s;
-
-- **omgevingsdosisequivalent:** omgevingsdosisequivalent als gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **omgevingsdosisequivalenttempo:** omgevingsdosisequivalenttempo als gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **ondernemer:** natuurlijke persoon, rechtspersoon of bestuursorgaan onder wiens verantwoordelijkheid een handeling wordt verricht of maatregel wordt uitgevoerd;
-
-- **ongewilde verspreiding:** ongewilde verspreiding van een radioactieve stof als gevolg van een handeling die onder verantwoordelijkheid van een ondernemer is verricht en die niet meer onder controle van de betrokken ondernemer is;
-
-- **onbedoelde blootstelling:** medische blootstelling die aanzienlijk verschilt van medische blootstelling die voor een specifiek doel bestemd is;
-
-- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
-
-- **Onze Ministers:** Onze Minister van Infrastructuur en Milieu, Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport;
-
-- **open bron:** bron, niet zijnde een ingekapselde bron en niet zijnde een toestel of versneller;
-
-- **oppervlaktebesmetting:** oppervlaktebesmetting als gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **opslag:** voorhanden hebben van radioactief materiaal, waaronder verbruikte splijtstof, een radioactieve bron of radioactief afval in een faciliteit met de bedoeling het terug te halen;
-
-- **overmatige blootstelling:** blootstelling die plaatsvindt bij een onvoorziene onbedoelde gebeurtenis, of bij een voorziene onbedoelde gebeurtenis die leidt tot een blootstelling die hoger is dan bij benadering is bepaald in het kader van de risico-inventarisatie en -evaluatie, als bedoeld in [artikel 5 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5);
-
-- **potentiële blootstelling van leden van de bevolking:** blootstelling die niet met zekerheid verwacht wordt, maar het gevolg kan zijn van een gebeurtenis of een aaneenschakeling van gebeurtenissen van probabilistische aard, met inbegrip van materiaalgebreken en operationele fouten;
-
-- **potentiële blootstelling van werknemers:** mogelijke blootstelling, niet zijnde reguliere blootstelling van werknemers, als gevolg van voorziene onbedoelde gebeurtenissen, welke voor aanvang van de handelingen bij benadering is bepaald in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5);
-
-- **praktische aspecten van medisch-radiologische procedures:** uitvoering van een medische blootstelling en de daarmee verband houdende ondersteunende aspecten, waaronder het hanteren en gebruiken van medisch-radiologische apparatuur, het beoordelen van technische en fysische parameters met inbegrip van stralingsdoses, kalibratie en onderhoud van de apparatuur, bereiding en toediening van radiofarmaceutica, en beeldverwerking;
-
-- **radioactieve afvalstof:** radioactief materiaal in gasvormige, vloeibare of vaste staat die krachtens [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.7&z=2025-01-01&g=2025-01-01) als radioactieve afvalstof wordt aangemerkt;
-
-- **radioactief materiaal:** materiaal dat radioactieve stoffen bevat;
-
-- **radioactieve bron:** bron die radioactief materiaal bevat om voor zijn radioactiviteit te worden gebruikt;
-
-- **radiodiagnostisch:** betrekking hebbend op in vivo diagnostische nucleaire geneeskunde, medische diagnostische radiologie op basis van ioniserende straling en tandheelkundige radiologie;
-
-- **radiologische noodsituatie:** onverminderd [artikel 38, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=38), een ongewone situatie of gebeurtenis waarbij een bron is betrokken en die onmiddellijke maatregelen vereist om ernstige negatieve gevolgen voor de gezondheid en veiligheid van de mens, de levenskwaliteit, het eigendom of het milieu te beperken, dan wel een ernstig gevaar dat deze gevolgen kan meebrengen;
-
-- **radiotherapeutisch:** betrekking hebbend op radiotherapie, waaronder nucleaire geneeskunde voor therapeutische doeleinden;
-
-- **radiotoxiciteitsequivalent:** radiotoxiciteitsequivalent zoals gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **radon:** de isotoop Rn-222 en de dochternucliden van radon, waar passend;
-
-- **referentieniveau:** waarde voor een effectieve dosis of equivalente dosis of voor een activiteitsconcentratie in een radiologische noodsituatie of in een bestaande blootstellingsituatie waarvan overschrijding zoveel mogelijk wordt voorkomen;
-
-- **registratie:** in een document door de Autoriteit krachtens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) verleende toestemming om een handeling uit te voeren in overeenstemming met de toepasselijke algemene regels en de door de Autoriteit voor de desbetreffende soort of categorie handelingen specifiek gestelde algemene regels;
-
-- **reguliere blootstelling van leden van de bevolking:** verwachte blootstelling onder normale bedrijfsomstandigheden van een faciliteit of activiteit, met inbegrip van onderhoud, inspectie en ontmanteling, waaronder kleine incidenten die onder controle kunnen worden gehouden, dat wil zeggen tijdens normale bedrijfsactiviteiten en bij voorzienbare bedrijfsvoorvallen;
-
-- **reguliere blootstelling van werknemers:** verwachte blootstelling, niet zijnde potentiële blootstelling van werknemers, als gevolg van normale bedrijfsomstandigheden, met inbegrip van onderhoud, inspectie en ontmanteling, welke voor de aanvang van de handelingen bij benadering is bepaald in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5);
-
-- **remediëringsmaatregelen:** maatregelen in een bestaande blootstellingsituatie zoals de verwijdering van een bron of de beperking van de grootte ervan in termen van activiteit of hoeveelheid, of de onderbreking van blootstellingsroutes of de beperking van het effect ervan met het oog op het vermijden of beperken van de doses die anders zouden worden ontvangen in een bestaande blootstellingsituatie;
-
-- **richtlijn:** [Richtlijn 2013/59](32013L0059)/Euratom van de Raad van 5 december 2013 tot vaststelling van de basisnormen voor de bescherming tegen de gevaren verbonden aan de blootstelling aan ioniserende straling en houdende intrekking van de [Richtlijnen 89/618](31989L0618)/Euratom, [90/641](31990L0641)/Euratom, [96/29](31996L0029) Euratom, 97/43/Euratom en [2003/122](32003L0122)/Euratom;
-
-- **richtlijn 2011/70/Euratom:** Richtlijn van de Raad van 19 juli 2011 tot vaststelling van een communautair kader voor een verantwoord en veilig beheer van verbruikte splijtstof en radioactief afval (PbEU 2011, L199);
-
-- **ruimtevaartuig:** bemand vaartuig dat ontworpen is voor gebruik op een hoogte van meer dan 100 km boven zeeniveau;
-
-- **sievert:** eenheid als gedefinieerd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01);
-
-- **standaardwaarden en relaties:** waarden en relaties als aanbevolen in de hoofdstukken 4 en 5 van publicatie 116 van de International Commission on Radiological Protection (ICRP) wat betreft de schatting van doses van uitwendige blootstelling, en in hoofdstuk 1 van publicatie 119 van ICRP wat betreft de schatting van inwendige blootstelling, alsmede de door de lidstaten goedgekeurde actualiseringen;
-
-- **stralingsarts:** persoon, die als stralingsarts is ingeschreven in het register, bedoeld in [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2025-01-01&g=2025-01-01);
-
-- **stralingsbeschermingsdeskundige:** deskundige als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2025-01-01&g=2025-01-01) die over de nodige kennis en ervaring beschikt en de nodige opleiding heeft genoten om stralingsbeschermingsadvies te geven, met het oog op de daadwerkelijk bescherming van personen, en van wie de bevoegdheid op dit gebied is erkend overeenkomstig [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.5&z=2025-01-01&g=2025-01-01) of [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.6&z=2025-01-01&g=2025-01-01);
-
-- **stralingsincident:** onbedoelde gebeurtenis of situatie of ongewilde verspreiding waarbij gevaar bestaat, dan wel gevaar is opgetreden voor:
-
-- –. een blootstelling aan ioniserende straling van leden van de bevolking van meer dan 0,1 millisievert,
-
-- –. een lozing op of in de bodem, in het riool, in het oppervlaktewater of in de lucht boven een door Onze Minister vastgestelde waarde, of
-
-- –. een blootstelling aan ioniserende straling van werknemers van meer dan 2 millisievert;
-
-- **thoron:** isotoop Rn-220 en de dochternucliden van thoron, waar passend;
-
-- **toezichthoudend medewerker stralingsbescherming:** medewerker als bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2025-01-01&g=2025-01-01) die technisch bekwaam is op het gebied van stralingsbescherming voor een bepaalde soort handelingen om toezicht te houden op de toepassing van de maatregelen voor stralingsbescherming of om deze maatregelen ten uitvoer te leggen;
-
-- **uitwendige blootstelling:** blootstelling aan ioniserende straling vanuit bronnen buiten het menselijk lichaam;
-
-- **vergunning:** door de Autoriteit krachtens [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) in een document verleende toestemming om handelingen uit te voeren in overeenstemming met specifieke voorwaarden of beperkingen opgenomen in dat document;
-
-- **versneller:** toestel of installatie welke deeltjes versnelt en ioniserende straling met een energie van meer dan 1 mega-elektronvolt (MeV) uitzendt;
-
-- **verzorger:** persoon die zich willens en wetens blootstelt aan ioniserende straling door hulp en bijstand van niet-beroepsmatige aard te verlenen aan een persoon die medische blootstelling ondergaat of heeft ondergaan;
-
-- **verwerking:** chemische of fysische verrichtingen met radioactief materiaal, met inbegrip van de winning, de omzetting en de verrijking van splijt- en kweekstoffen en de opwerking van bestraalde splijtstof;
-
-- **verwijzend persoon:** arts, tandarts of andere zorgverlener die bij of krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36) of [36a van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a) bevoegd is personen te verwijzen naar een medisch deskundige voor medische blootstelling;
-
-- **voorhanden hebben:** in bezit hebben, beheren, bewaren of anderszins feitelijk onder zich hebben, of vervaardigen, bewerken, hanteren of opslaan, met uitzondering van het voorhanden hebben bij de opslag in verband met vervoer;
-
-- **vrijstellingswaarde:** vrijstellingswaarde als bedoeld in [paragraaf 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&z=2025-01-01&g=2025-01-01);
-
-- **vrijgavewaarde:** vrijgavewaarde als bedoeld in [paragraaf 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&z=2025-01-01&g=2025-01-01);
-
-- **weesbron:** radioactieve bron die niet van controle is vrijgesteld of vrijgegeven en waarop niet of niet langer controle wordt uitgeoefend;
-
-- **werknemer:** persoon die hetzij in dienst hetzij onder gezag van de ondernemer gehouden is tot het verrichten van arbeid ten behoeve van die ondernemer alsmede de zelfstandige en de vrijwilliger die ten behoeve van de ondernemer gehouden is arbeid te verrichten;
-
-- **wet:** [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402).
-
-## Bijlage 2. behorend bij [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=1&artikel=1.2&z=2025-01-01&g=2025-01-01) van het Besluit basisveiligheidsnormen stralingsbescherming
-
-### Definities van grootheden en eenheden
-
-### A. Inleiding
-
-Voor stralingsbeschermingsdoeleinden kunnen verschillende soorten grootheden worden onderscheiden:
-
-### B. Fysische grootheden
-
-Het aantal door een stralingsbron uitgezonden deeltjes of de bronsterkte en het aantal uitgezonden deeltjes per tijdseenheid zijn de meest fundamentele radiometrische grootheden.
-
-### Fluentie
-
-De **fluentie, Ф,** is het quotiënt van d**N** en d**a**, waarin d**N** het aantal deeltjes is dat een bol met doorsnede d**a** binnendringt:
-
-De eenheid van fluentie is m-2.
-
-### Activiteit en becquerel
-
-De activiteit is geen radiometrische grootheid en wordt als volgt gedefinieerd1Zie ook de definitie door de ICRU, ICRU 60: Fundamental Quantities and Units for Ionizing Radiation (1998).:
-
-De **activiteit**, A, van een hoeveelheid radionuclide in een bepaalde energietoestand op een gegeven tijdstip, is het quotiënt van d**N** en d**t**, waarin d**N** de verwachtingswaarde van het aantal spontane kernovergangen van die energietoestand gedurende de tijd d**t** voorstelt:
-
-De eenheid van activiteit is s-1 met als speciale naam becquerel (Bq).
-
-### Activiteitsconcentratie
-
-De **activiteitsconcentratie** (de massieke activiteit), is het quotiënt van **A** en **m**, waarbij **A** de activiteit is van een massa-element met massa **m**.
-
-### Oppervlaktebesmetting
-
-De **oppervlaktebesmetting** is het quotiënt van **A** en **O**, waarbij **A** de activiteit is op of in een oppervlak **O**.
-
-Dosimetrische grootheden, zoals de kerma en de geabsorbeerde dosis, zijn in essentie het product van radiometrische grootheden en wisselwerkingscoëfficiënten.
-
-### Kerma
-
-De grootheid kerma is alleen gedefinieerd voor indirect ioniserende straling, zoals fotonen en neutronen.
-
-De **kerma, K**, is het quotiënt van d**E**tr en d**m** waarbij d**E**tr de som van de overgedragen kinetische energie aan alle secundaire geladen deeltjes is, welke zijn vrijgemaakt door ongeladen stralingsdeeltjes in een materiaal met massa d**m**:
-
-De eenheid van kerma is J kg-1 met als speciale naam gray (Gy).
-
-### Geabsorbeerde dosis
-
-De **geabsorbeerde dosis, D,** is het quotiënt van dε̄ en dm, waarbij dε̄ de gemiddelde energie-afgifte van ioniserende straling op materie is in een volume-element met massa d**m**:
-
-De eenheid van geabsorbeerde dosis is J kg-1 met als speciale naam gray (Gy).
-
-Voor geladen deeltjes is de grootheid lineïeke energie-overdracht ingevoerd. Bij het **onbegrensde lineïeke energieverlies**2ICRP, 2007. The 2007 Recommendations of the International Commission on Radiological Protection. ICRP Publication 103. Ann. ICRP 37 (2-4)., **L∞**, geldt geen restrictie voor de grenswaarde van het energie verlies en wordt **L∞** ook aangeduid als **L**, waarin d**E** de gemiddelde energie is die een deeltje met energie **E** bij het doorlopen van een afstand d**l** in een materiaal verliest als gevolg van botsingen met elektronen:
-
-De eenheid van L∞ is J m-1 maar gewoonlijk wordt **L∞** uitgedrukt in keV μm-1.
-
-### C. Limiterende grootheden
-
-Uitgaande van de beschrijving van een stralingsveld kunnen gemiddelde effectieve doses in organen of weefsel3ICRP, 2010. Conversion Coefficients for Radiological Protection Quantities for External Radiation Exposures. ICRP Publication 116, Ann. ICRP 40(2-5). worden berekend.
-
-Voor stralingsbeschermingsdoeleinden is de **orgaandosis,****DT**, gedefinieerd als quotiënt van de totale energie, ε**T**, afgegeven in een weefsel of orgaan en de massa mT van dit orgaan of weefsel:
-
-De speciale eenheid voor orgaandosis is gray (Gy).
-
-### Equivalente dosis en sievert
-
-De **equivalente dosis**, **HT**, in een weefsel of orgaan T is de som van de producten van de gemiddelde geabsorbeerde dosis **DT,R**, in een weefsel of orgaan T ten gevolge van straling R, en de stralingsweegfactor **w**R:
-
-De eenheid van equivalente dosis is J kg-1 met als speciale naam **sievert (Sv).**
-
-### Equivalente volgdosis
-
-De **equivalente volgdosis**, **HT**(τ), is de integraal over tijd τ van het equivalente dosistempo in weefsel of orgaan T dat door een individu ten gevolge van opname van activiteit op het tijdstip **t**0 zal ontvangen:
-
-waarin **ḢT(t)** het betreffende equivalente dosistempo in orgaan of weefsel T op het tijdstip t voorstelt, en τ de periode in jaren waarover wordt geïntegreerd. Wanneer τ niet gegeven is, wordt voor volwassenen uitgegaan van een periode van 50 jaar en voor kinderen van een periode tot een leeftijd van 70 jaar. De eenheid van equivalente volgdosis is J kg-1 met als speciale naam sievert (Sv).
-
-### Stralingsweegfactor
-
-De **stralingsweegfactor** (**wR**) is een dimensieloze factor die wordt gebruikt om de geabsorbeerde dosis **D**T,R in een weefsel of orgaan T te wegen, teneinde de biologische effectiviteit van stralingssoort R in rekening te brengen bij de bepaling van de equivalente dosis **H**T in dat orgaan of weefsel.
-
-De waarde van de stralingsweegfactor **wR** hangt af van de soort en de energie van het uitwendige stralingsveld of van de soort en de energie van de door een radionuclide uitgezonden straling in het organisme.
-
-Wanneer het stralingsveld samengesteld is uit soorten en energieën met verschillende **wR** waarden, moet de geabsorbeerde dosis worden onderverdeeld in blokken met elk zijn eigen **wR** waarde, die vervolgens moeten worden gesommeerd om de totale equivalente dosis te verkrijgen. In plaats daarvan kan de geabsorbeerde dosis ook worden uitgedrukt als een continue energieverdeling waarin elk element van de geabsorbeerde dosis uit het energie element tussen **E** en **E** + d**E** vermenigvuldigd wordt met de desbetreffende **wR**. De stralingsweegfactoren voor verschillende stralingssoorten zijn gegeven in tabel 1.
-
-Voor stralingssoorten en energieën die niet in tabel 1 voorkomen, kan **wR** worden benaderd door berekening van de gemiddelde kwaliteitsfactor **Q** op een diepte **d** van 10 mm in de ICRU bol (zie onderdeel D van deze bijlage).
-
-1 [Richtlijn 2013/59](32013L0059)/Euratom van de Raad van 5 december 2013 tot vaststelling van de basisnormen voor de bescherming tegen de gevaren verbonden aan de blootstelling aan ioniserende straling, en houdende intrekking van de [Richtlijnen 86/618](31986L0618)/Euratom, [90/641](31990L0641)/Euratom, [96/29](31996L0029)/Euratom, [97/43](31997L0043)/Euratom en [2033/122](32033L0122)/Euratom, Publicatieblad van de Europese Unie L13 (17 januari 2014).
-
-De verschillende weefsels en organen in het lichaam vertonen een stralingsgevoeligheid die voor inductie van stochastische effecten onderling verschillen.
-
-### Weefselweegfactor
-
-De **weefselweegfactor** (**wT**) is een factor die wordt gebruikt om de bijdrage te berekenen van de equivalente dosis in een weefsel of orgaan (**HT**) aan de effectieve dosis(**E**). De factor hangt samen met de stralingsgevoeligheid van de organen en weefsels voor stochastische effecten.
-
-1 Zie ook verwijzing 1 in tabel 1, hiervoor.
-
-2 De **wT** voor de overige weefsels (0,12) geldt voor het rekenkundig gemiddelde van de doses van de hierna vermelde 13 organen en weefsels voor elk geslacht. Overig weefsel: bijnieren, extrathoracale gebied, galblaas, hart, nieren, lymfeklieren, spierweefsel, mondslijmvlies, pancreas, prostaat (man), dunne darm, milt, thymus, baarmoeder/baarmoederhals (vrouw).
-
-### Effectieve dosis
-
-De **effectieve dosis, E,** is de som van de gewogen equivalente doses in alle in tabel 2 genoemde weefsels en organen ten gevolge van inwendige en uitwendige bestraling:
-
-waarin **HT** de equivalente dosis in weefsel of orgaan T is en **wT** de weefselweegfactor zoals gegeven in tabel 2. De eenheid van effectieve dosis is J kg-1 met als speciale naam sievert (Sv).
-
-De effectieve dosis is een dubbel gewogen orgaandosis die ook kan worden omschreven als:
-
-waarin **DT,R** de gemiddelde geabsorbeerde dosis in weefsel of orgaan T is tengevolge van stralingssoort R.
-
-### Effectieve volgdosis
-
-De **effectieve volgdosis E**(τ) is de som van de te verwachten equivalente orgaan- of weefselvolgdoses ten gevolge van opname van radionucliden door het lichaam uit het omringende milieu, elk vermenigvuldigd met de desbetreffende weefselweegfactor **wT**.
-
-In **E**(τ) en **HT**(τ) stelt τ het aantal jaren voor waarover de volgdosis wordt geïntegreerd. De eenheid van effectieve volgdosis is J kg-1 met als speciale naam sievert (Sv). Wanneer τ niet gegeven is, wordt voor volwassenen uitgegaan van een periode van 50 jaar en voor kinderen van een periode tot een leeftijd van 70 jaar. De eenheid van de effectieve volgdosis is J kg-1 met als speciale naam sievert (Sv).
-
-### D. Operationele grootheden voor externe stralingsbronnen
-
-### Dosisequivalent
-
-Het **dosisequivalent**, H, is het product van de kwaliteitsfactor, **Q**, en de geabsorbeerde dosis in een punt, **D**, uitgedrukt in ICRU weefsel:
-
-De eenheid van dosisequivalent is de sievert (Sv).
-
-Het dosisequivalent wordt berekend met behulp van een kwaliteitsfactor **Q** en niet met de stralingsweegfactor **wR**, die wordt gebruikt voor de berekening van de equivalente dosis.
-
-### Kwaliteitsfactor
-
-De **kwaliteitsfactor (Q)** is een factor die de geabsorbeerde dosis in een punt in een weefsel of orgaan weegt voor de biologische effectiviteit van de geladen deeltjes waardoor de geabsorbeerde dosis wordt geproduceerd. De kwaliteitsfactor is gedefinieerd als een functie van het onbegrensde lineïeke energieverlies (**L**∞) in water op het referentiepunt (zie tabel 3)4ICRP, 2007. The 2007 Recommendations of the International Commission on Radiological Protection. ICRP Publication 103. Ann. ICRP 37 (2-4)..
-
-### Gemiddelde kwaliteitsfactor
-
-De **gemiddelde kwaliteitsfactor**, **Q̄**, is de gemiddelde waarde van de kwaliteitsfactor,**Q**, op een punt in een weefsel, wanneer de geabsorbeerde dosis wordt afgegeven door deeltjes met verschillende **L** waarden. Deze factor wordt berekend uit de betrekking:
-
-waarin **Q(L∞)** de kwaliteitsfactor in het referentiepunt is, **L∞** het onbegrensde lineïeke energieverlies; en **D(L∞)**d**L∞** de geabsorbeerde dosis is in het interval tussen de waarden **L∞** en **L∞** + d**L∞**. Het verband tussen **L∞** en **Q(L∞)** wordt gegeven in tabel 3.
-
-Bij de definitie van operationele grootheden voor omgevingsdosimetrie en voor kalibratie van persoonsdosismeters wordt een zeer eenvoudig fantoom, de zogenoemde ICRU-bol, gebruikt. Dit is een bol met een diameter van 30 cm en een dichtheid van 1 g cm-3. De bol is samengesteld uit de volgende materialen met tussen haakjes de massafractie: O (76,2%) H(10,1%) C(11,1%) N(2,6%). Deze samenstelling komt overeen met die van zacht weefsel. De ICRU-bol is bedoeld als een model voor de menselijke romp.
-
-### Geëxpandeerd veld
-
-Een **geëxpandeerd veld** is een van het werkelijke stralingsveld afgeleid veld, waarin de fluentie (zie hiervoor onderdeel B) en haar richtings- en energiespreidingen overal in het meetvolume dezelfde waarde hebben als op het referentiepunt in het werkelijke stralingsveld.
-
-### Geëxpandeerd en uitgelijnd veld
-
-Een **geëxpandeerd en uitgelijnd veld** is een stralingsveld waarin de fluentie en haar richtings- en energiespreiding hetzelfde zijn als in het geëxpandeerde veld, maar waarin de fluentie unidirectioneel is.
-
-### Zonemonitoring (ruimtemonitoring)
-
-### Omgevingsdosisequivalent
-
-Het **omgevingsdosisequivalent, H*(d)**, op een punt in een stralingsveld is het dosisequivalent dat zou worden teweeggebracht in het overeenkomstige, maar uitgeëxpandeerde en uitgelijnde veld in de ICRU bol op diepte **d**. De eenheid van omgevingsdosisequivalent is de sievert (Sv). Voor doordringende straling wordt voor **d** een waarde van 10 mm; voor weinig doordringende straling een waarde voor **d** van 0,07 mm voor de huid en voor het oog een waarde voor **d** van 3 mm aanbevolen. De factoren die nodig zijn voor de omzetting van omgevingdosisequivalent naar effectieve dosis zijn opgenomen in ICRP-publicatie 1165International Commission on Radiological Protection, 2010. Conversion Coefficients for Radiological Protection Quantities for External Radiation Exposures. ICRP Publication 116, Ann. ICRP 40(2-5)..
-
-### Omgevingsdosisequivalenttempo
-
-Het **omgevingsdosisequivalenttempo Ḣ*(d)** is het omgevingsdosisequivalent per tijdseenheid. De eenheid van omgevingsdosisequivalenttempo is Sv s-1.
-
-### Richtingsdosisequivalent
-
-Het **richtingsdosisequivalent**, **H'(d,Ω)**, is het dosisequivalent op een punt in een stralingsveld dat zou worden teweeggebracht door het overeenkomstige geëxpandeerde veld in de ICRU bol op diepte d, op een straal in een bepaalde richting, waarbij Ω de hoek is tussen de invalsrichting van de straling en een referentierichting; en **d** de diepte is in mm onder het oppervlak van de ICRU-bol. Voor doordringende straling wordt voor **d** een waarde van 10 mm aanbevolen; voor weinig doordringende straling wordt een waarde van 0,07 mm voor de huid en 3 mm voor het oog aanbevolen. De eenheid van richtingsdosisequivalent is de sievert (Sv). De factoren die gebruikt kunnen worden voor de berekening van richtingsdosiscoëfficiënt naar effectieve dosis zijn opgenomen in ICRP-publicatie 116.
-
-### Individuele monitoring met behulp van persoonlijke controlemiddelen
-
-### Persoonsdosisequivalent
-
-Het **persoonsdosisequivalent, HP(d)**, is het dosisequivalent in zacht weefsel, op een diepte **d**, onder een bepaald punt op het lichaam. De eenheid van persoonsdosisequivalent is de sievert (Sv). Voor doordringende straling wordt voor **d** een waarde van 10 mm; voor weinig doordringende straling een waarde voor **d** van 0,07 mm voor de huid en voor het oog een waarde voor **d** van 3 mm aanbevolen. De voor de berekening benodigde factoren zijn opgenomen in ICRP-publicatie 116.
-
-### E. Operationele grootheden voor radioactieve stoffen
-
-### Radiotoxiciteitsequivalent
-
-Het **radiotoxiciteitsequivalent Re** van een radionuclide is de activiteit die bij volledige directe inname (ingestie of inhalatie) daarvan een effectieve volgdosis van 1 sievert tot gevolg heeft.
-
-Een **Re** voor een radionuclide is de inverse effectieve dosiscoëfficiënt voor dat nuclide:
-
-Waarin **e(g)** de effectieve dosiscoëfficiënt is voor leeftijdsgroep **g**, volgens de bij verordening van de Autoriteit vastgestelde aanwijzingen voor de bepaling van de effectieve volgdosis. Het radiotoxiciteitsequivalent heeft de eenheid becquerel (Bq).
-
-Bij de berekening van **Re** wordt, afhankelijk van de blootstellingscategorie die het betreft, gebruik gemaakt van de effectieve dosiscoëfficiënt voor een werknemer of voor een volwassen lid van de bevolking (referentieleeftijd «adult»).
-
-### Radiotoxiciteitsequivalent voor ingestie (Reing)
-
-Eén radiotoxiciteitsequivalent voor ingestie (Reing) van een radionuclide is de activiteit die bij ingestie leidt tot een effectieve volgdosis van 1 sievert volgens door de Autoriteit vastgestelde aanwijzingen voor de bepaling van de effectieve volgdosis:
-
-waarin **eing** de dosiscoëfficiënt voor ingestie is voor de referentieleeftijd «adult» voor het betreffende radionuclide en blootstellingscategorie, volgens door de Autoriteit vastgestelde aanwijzingen voor de bepaling van de effectieve volgdosis.
-
-Het radiotoxiciteitsequivalent heeft als eenheid de becquerel (Bq).
-
-### Radiotoxiciteitsequivalent voor inhalatie (Reinh)
-
-Eén radiotoxiciteitsequivalent voor inhalatie (Reinh) van een radionuclide is de activiteit die bij inhalatie leidt tot een effectieve volgdosis van 1 sievert volgens door de Autoriteit vastgestelde aanwijzingen voor de bepaling van de effectieve volgdosis:
-
-waarin **einh** de dosiscoëfficiënt voor inhalatie is voor de referentieleeftijd «adult» voor het betreffende radionuclide en blootstellingscategorie, volgens door de Autoriteit vastgestelde aanwijzingen voor de bepaling van de effectieve volgdosis.
-
-Het radiotoxiciteitsequivalent heeft als eenheid de becquerel (Bq).
-
-### Correctiefactoren voor lozingen uitgedrukt in Re’s
-
-Factoren om een radiotoxiciteitsequivalent van een bepaald radionuclide te corrigeren voor de fysische halveringstijd van het betrokken radionuclide, voor lozingen in lucht en oppervlaktewater en in het openbare riool. De geloosde hoeveelheden uitgedrukt in **Re** worden vóór toetsing als volgt gecorrigeerd:
-
-waarin:
-
-**Rei** = de hoeveelheid geloosde radionuclide **i** is, uitgedrukt in **Re**, en
-
-**CRi** = de correctiefactor voor de lozing voor radionuclide **i**
-
-### A/D-waarde
-
-De A/D-waarde is de ratio van de activiteit van een radioactieve stof en de D-waarde (waarbij D staat voor «dangerous») voor die radioactieve stof, en maatgevend voor mogelijke deterministische effecten als gevolg van het gebruik van een radioactieve stof, waarbij:
-
-A = de activiteit van een radioactieve stof, zoals gedefinieerd in onderdeel D van deze bijlage (eenheid becquerel), en,
-
-D = de waarde van de activiteit van een radioactieve stof, die als de radioactieve stof stralingshygiënisch niet goed wordt beheerd, volgens bepaalde blootstellingscenario’s kan leiden tot ernstige deterministische effecten (eenheid becquerel). De D-waarde is opgenomen in tabel 1 van het document «Dangerous Quantities of Radioactive Material (D-Values)», EPR-D-Values 2006, van het Internationaal Atoomenergie Agentschap (IAEA), waarbij voor de radioactieve stof de laagste waarde uit deze tabel 1 wordt genomen.
-
-## Bijlage 3. behorend bij [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&z=2025-01-01&g=2025-01-01) (vrijstellings- en vrijgavecriteria) van het Besluit basisveiligheidsnormen stralingsbescherming
-
-### Onderdeel A
-
-### 1. Vrijstelling
-
-Handelingen kunnen van kennisgeving zijn of worden vrijgesteld, overeenkomstig [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&z=2025-01-01&g=2025-01-01) van het besluit. Dit betreft hetzij een vrijstelling rechtstreeks volgend uit het besluit, op grond van overeenstemming met de krachtens afdeling 3.3 in deze bijlage opgenomen vrijstellingsniveaus (activiteitswaarden (in becquerel (Bq) of activiteitsconcentraties (in kBq per kg)), hetzij een vrijstelling op grond van overeenstemming met bij ministeriële regeling, verordening of beschikking als bedoeld in de desbetreffende artikelen van afdeling 3.3 vastgestelde hogere waarden die voor specifieke toepassingen zijn of worden vastgesteld en die in overeenstemming zijn met de algemene vrijstellings- en vrijgavecriteria van paragraaf 3 van dit onderdeel A.
-
-Handelingen waarvoor een kennisgevingsplicht geldt, kunnen met toepassing van [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&z=2025-01-01&g=2025-01-01) worden vrijgesteld van de registratieplicht of vergunningplicht op basis van de informatie die bij de kennisgeving van de handeling is verstrekt en overeenkomstig de algemene vrijstellingscriteria van paragraaf 3 van dit onderdeel.
-
-### 2. Vrijstellings- en vrijgavewaarden
-
-### 3. Algemene vrijstellings- en vrijgavecriteria
-
-Om handelingen vrij te stellen van de registratieplicht of vergunningplicht kunnen krachtens [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&z=2025-01-01&g=2025-01-01) van het besluit minder restrictieve dosiscriteria worden toegepast.
-
-### Onderdeel B
-
-### Tabel A
-
-### Waarden voor de activiteitsconcentratie voor de vrijstelling of vrijgave van materialen die standaard op elke hoeveelheid en op elk type vast materiaal kunnen worden toegepast
-
-### Tabel A. Deel 1
-
-1Moeder-radionucliden en hun dochternucliden waarvan de dosisbijdragen in de dosisberekening worden opgenomen (zodat enkel het vrijstellingsniveau van de moeder-radionuclide moet worden beschouwd), worden in de volgende tabel vermeld:
-
-Voor de niet in tabel A, deel 1, van dit onderdeel vermelde radionucliden stelt de bevoegde autoriteit, waar nodig, passende waarden voor de hoeveelheden en activiteitsconcentraties vast. De aldus vastgestelde waarden vormen een aanvulling op die in tabel A, deel 1, van dit onderdeel.
-
-### Tabel A,. Deel 2
-
-### Van nature voorkomende radionucliden
-
-Waarden voor de vrijstelling of vrijgave van van nature voorkomende radionucliden in vaste materialen in seculair evenwicht met hun dochternucliden:
-
-### Tabel B
-
-### Vrijstellingswaarden voor de totale activiteit (kolom 3); vrijstellingswaarden voor de activiteitsconcentratie in matige hoeveelheden van elk type materiaal (kolom 2).
-
-1Kaliumzouten in hoeveelheden van minder dan 1.000 kg zijn vrijgesteld.
-
-2Moeder-radionucliden en hun dochternucliden waarvan de dosisbijdragen in de dosisberekening worden opgenomen (zodat enkel het vrijstellingsniveau van de moeder-radionuclide moet worden beschouwd), worden hierna vermeld:
-
-### Tabel C
-
-1Radionucliden met het achtervoegsel «+» of «sec» betreffen moedernucliden, die in evenwicht zijn met hun dochternucliden. In dit geval hebben de in de tabel vermelde waarden betrekking op het moedernuclide, maar zijn de dochternucliden die ingroeien daarin reeds verdisconteerd. Dat wil zeggen dat er bij evenwicht uitsluitend getoetst wordt aan de waarde voor het moedernuclide.
-
-## Bijlage 4. behorend bij [paragraaf 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&z=2025-01-01&g=2025-01-01) van het Besluit basisveiligheidsnormen stralingsbescherming en de definitie van «hoogactieve bron» zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025-01-01&g=2025-01-01) van dat besluit
-
-### Activiteitswaarden die bepalend zijn voor hoogactieve bronnen
-
-Voor radionucliden die niet in onderstaande tabel zijn opgenomen, is de relevante activiteit identiek aan de D-waarde als bepaald in de publicatie «Dangerous quantities of radioactive material (D-values)» van de IAEA, (EPR-D-VALUES 2006).
-
-1De vastgestelde activiteit is de activiteit van de alfa-emitterende radionuclide.
-
-## Bijlage 5. behorend bij [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&artikel=4.18&z=2025-01-01&g=2025-01-01) van het Besluit basisveiligheidsnormen stralingsbescherming
-
-### In de dossiers voor hoogactieve bronnen op te nemen informatie
-
-## Bijlage 6. behorend bij de [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.5&z=2025-01-01&g=2025-01-01) en [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.3&artikel=6.7&z=2025-01-01&g=2025-01-01) van het Besluit basisveiligheidsnormen stralingsbescherming
-
-### Onderdeel A. Elementen die in een rampenbestrijdingssysteem moeten worden opgenomen:
-
-### Onderdeel B. Elementen die in een noodplan moeten worden opgenomen:
-
-Voor de voorbereiding op radiologische noodsituaties:
-
-Op voorhand worden voorzieningen getroffen om deze elementen zo mogelijk tijdens een blootstelling in een radiologische noodsituatie te herzien, zodat zij voortdurend aan de heersende omstandigheden worden aangepast zoals die tijdens de reactie op de radiologische noodsituatie evolueren.
-
-Voor de reactie op noodsituaties:
-
-De reactie op blootstelling in een radiologische noodsituatie dient de vorm te krijgen van tijdige implementatie van voorzieningen die ter voorbereiding op radiologische noodsituaties zijn opgenomen. Deze omvatten ten minste het volgende:
-
-## Bijlage 7. behorend bij [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.15&z=2025-01-01&g=2025-01-01) van het Besluit basisveiligheidsnormen stralingsbescherming
-
-### Indicatieve lijst van soorten bestaande blootstellingsituaties
-
-## Bijlage 8. behorend bij [artikel 6.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.2&artikel=6.20&z=2025-01-01&g=2025-01-01) van het Besluit basisveiligheidsnormen stralingsbescherming
-
-### Elementen die in aanmerking moeten worden genomen bij de opstelling van het nationale actieplan voor de beheersing van langetermijnrisico’s van blootstelling aan radon
-
-## Bijlage 9. behorend bij [artikel 6.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.2&artikel=6.21&z=2025-01-01&g=2025-01-01) van het Besluit basisveiligheidsnormen stralingsbescherming
-
-Indicatieve lijst van bouwmaterialen die gezien de uitgezonden gammastraling in aanmerking moeten worden genomen, omdat ze kunnen leiden tot een overschrijding van het betreffende referentieniveau van 1 millisievert in een kalenderjaar en aandacht vragen vanuit het oogpunt van de stralingsbescherming.
-
-- 1. Natuurlijke materialen:
-
-- a. Aluinschalie.
-
-- b. Bouwmaterialen of grondstoffen voor bouwmaterialen zoals:
-
-- –. granitoiden (zoals graniet, syeniet en orthogneis);
-
-- –. porfier;
-
-- –. tuf;
-
-- –. puzzolaan;
-
-- –. lava
-
-- –. zirkoonzand.
-
-- 2. Grondstoffen op basis van restmateriaal uit industrieën zoals:
-
-- –. vliegas;
-
-- –. fosfo(r)gips;
-
-- –. fosforhoudende slakken;
-
-- –. tinslakken;
-
-- –. koperslakken;
-
-- –. slib van de aluminiumproductie;
-
-- –. restmateriaal van de staalproductie.
-
-## Bijlage 10
-
-### Inhoudsopgave
-
-[Hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=1&z=2025-01-01&g=2025-01-01). Algemene bepalingen.
-
-[Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&z=2025-01-01&g=2025-01-01). Rechtvaardiging, optimalisatie, dosislimitering
-
-§ 2.1. Algemene bepalingen
-
-§ 2.2. Rechtvaardiging
-
-§ 2.3. Optimalisatie
-
-§ 2.4. Dosislimitering
-
-[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&z=2025-01-01&g=2025-01-01). Controlestelsel
-
-Afd. 3.1. Algemene bepalingen
-
-§ 3.1.1. Algemene verboden
-
-§ 3.1.2. Handelingen met van nature voorkomend radioactieve materialen
-
-Afd. 3.2. Vergunning, registratie en kennisgeving
-
-§ 3.2.1. Algemene bepalingen
-
-§ 3.2.2. Vergunning
-
-§ 3.2.3. Registratie
-
-§ 3.2.4. Kennisgeving
-
-§ 3.2.5. Specifieke regels vergunningen
-
-Afd. 3.3. Vrijstelling en vrijgave controlestelsel
-
-§ 3.3.1. Vrijstelling handelingen en bronnen
-
-§ 3.3.2. Vrijgave bronnen
-
-§ 3.3.3. Categorieën vrijgestelde of vrijgegeven bronnen en handelingen
-
-[Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&z=2025-01-01&g=2025-01-01). Algemene regels voor bronnen en handelingen in geplande blootstellingsituaties
-
-Afd. 4.1. Algemene regels voor bronnen en handelingen
-
-Afd. 4.2. Toestellen en versnellers
-
-Afd. 4.3. Radioactieve stoffen:
-
-§. 4.3.1. Algemeen
-
-§. 4.3.2. Ingekapselde bronnen
-
-§. 4.3.3. Hoogactieve bronnen
-
-§. 4.3.4. Open bronnen
-
-§. 4.3.5. Handelingen met van nature voorkomend radioactief materiaal
-
-Afd. 4.4. Overige maatregelen:
-
-§. 4.4.1. Consumentenproducten
-
-§. 4.4.2. Aanwijsinstrumenten
-
-§. 4.4.3. Niet-medische beeldvorming
-
-§. 4.4.4. Algemene bepaling tot het stellen van nadere regels
-
-Afd. 4.5. Meet en rekenmethoden
-
-[Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&z=2025-01-01&g=2025-01-01). Informatie en deskundigheid
-
-§ 5.1. Informatie
-
-§ 5.2. Diensten en deskundigen
-
-§ 5.3. Opleiding, training en voorlichting
-
-[Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&z=2025-01-01&g=2025-01-01). Algemene bepalingen inzake blootstelling.
-
-Afd. 6.1. Stralingsincidenten, ongevallen en radiologische noodsituaties
-
-§ 6.1.1. Meldingen en maatregelen
-
-§ 6.1.2. Ongevallenbestrijding en nationale crisisplannen
-
-§ 6.1.3. Bedrijfsnoodplannen en interventies ondernemer
-
-§ 6.1.4. Interventies overheid
-
-Afd. 6.2. Bestaande blootstellingsituaties
-
-§ 6.2.1. Bestaande blootstellingsituaties met blootstelling van leden van de bevolking
-
-§ 6.2.2 Nationaal actieprogramma radon; gammastraling bouwmaterialen
-
-Afd. 6.3. Besmette gebieden
-
-Afd. 6.4. Monitoring
-
-[Hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&z=2025-01-01&g=2025-01-01). Beroepsmatige blootstelling.
-
-Afd. 7.1. Algemene bepalingen voor beroepsmatige blootstelling
-
-§ 7.1.1. Verplichtingen ondernemer
-
-§ 7.1.2. Bepaling van blootstelling
-
-§ 7.1.3. Registreren gegevens blootgestelde werknemer
-
-§ 7.1.4. Gezondheidskundig toezicht op blootgestelde werknemers
-
-§ 7.1.5. Onderricht
-
-§ 7.1.6. Bijzondere situaties
-
-Afd. 7.2. Beroepsmatige blootstelling in geplande blootstellingsituaties
-
-Afd. 7.3. Beroepsmatige blootstelling in radiologische noodsituaties
-
-Afd. 7.4. Beroepsmatige blootstelling in bestaande blootstellingsituaties
-
-[Hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&z=2025-01-01&g=2025-01-01). Medische blootstelling
-
-§ 8.1. Algemene bepalingen
-
-§ 8.2. Algemene bepalingen over bescherming bij medische blootstellingen
-
-§ 8.3. Bijzondere bepalingen over bescherming bij medische blootstellingen
-
-§ 8.4. Eisen aan procedures en apparatuur
-
-[Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&z=2025-01-01&g=2025-01-01). Blootstelling van leden van de bevolking
-
-Afd. 9.1. Blootstelling van leden van de bevolking in geplande blootstellingsituaties
-
-§ 9.1.1. Dosislimieten
-
-§ 9.1.2. Dosisbeperkingen
-
-§ 9.1.3. Bescherming onder normale omstandigheden
-
-Afd. 9.2. Blootstelling van leden van de bevolking in radiologische noodsituaties
-
-Afd. 9.3. Blootstelling van leden van de bevolking in bestaande blootstellingsituaties
-
-[Hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&z=2025-01-01&g=2025-01-01). Het beheer van en het zich ontdoen van radioactieve afvalstoffen.
-
-§ 10.1. Nationaal programma beheer radioactieve afvalstoffen
-
-§ 10.2. Zich ontdoen van radioactieve afvalstoffen
-
-§ 10.3. Zich ontdoen van bronnen
-
-§ 10.4. Kosten beheer radioactieve afvalstoffen
-
-[Hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=11&z=2025-01-01&g=2025-01-01). Procedures, nadere eisen en ontheffingen
-
-§ 11.1. Openbare voorbereidingsprocedure
-
-§ 11.2. Reguliere voorbereidingsprocedure
-
-§ 11.3. Geen positieve fictieve beschikking
-
-§ 11.4. Nadere eisen en ontheffingen
-
-[Hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&z=2025-01-01&g=2025-01-01). Intrekking en overgangsbepalingen Besluit stralingsbescherming
-
-Afd. 12.1. Intrekking
-
-Afd. 12.2. Overgangsbepalingen
-
-[Hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&z=2025-01-01&g=2025-01-01). Wijziging en overgangsbepalingen overige besluiten
-
-Afd. 13.1. Wijziging overige besluiten
-
-Afd. 13.2. Overgangsbepalingen overige besluiten
-
-[Hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=14&z=2025-01-01&g=2025-01-01). Slotbepalingen
-
-Bijlagen 1–10.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

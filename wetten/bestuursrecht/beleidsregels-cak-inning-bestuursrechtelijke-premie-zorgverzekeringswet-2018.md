@@ -1,45 +1,19 @@
 ---
 title: "Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2018"
 identifier: "BWBR0040645"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-02-22"
-last_updated: "2018-02-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040645"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "14554543"
-version_id: "24909902"
-internal_id: "C35629841"
-label_id: "14508544"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040645/2018-02-22/0"
-intitule_bron: "Stcrt.2018-9257"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-01-29"
-intitule_published: "2018-02-21"
-intitule_in_force: "2018-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-9257"
-original_signed_date: "2018-01-29"
-original_published_date: "2018-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-9257"
-entry_into_force_date: "2018-02-22"
-jci_1_3: "jci1.3:c:BWBR0040645&z=2018-02-22&g=2018-02-22"
-jci_1_0: "1.0:c:BWBR0040645&g=2018-02-22"
-citeertitel_status: "officieel"
-signed_date: "2018-01-29"
-entry_into_force: "2018-02-22"
+publicatiedatum: 2018-02-22
+laatste_update: 2018-02-22
+status: geldig
+toestand: 2018-02-22
+bron: "https://wetten.overheid.nl/BWBR0040645"
+opgehaald: 2026-08-26
 ---
+
 # Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2018
 
-gelet op [artikel 9a tot en met 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9a), [18a tot en met 18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18a), en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a), alsmede [paragraaf 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&paragraaf=4a) en [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&paragraaf=5) van de Regeling zorgverzekering;
-
-besluit om de volgende beleidsregels vast te stellen:
-
-##### Artikel 1. De melding van de zorgverzekering als bedoeld in [artikel 18c van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c) (wanbetalers)
+##### Artikel 1. De melding van de zorgverzekering als bedoeld in artikel 18c van de Zorgverzekeringswet (wanbetalers)
 
 1. Voor de toepassing en de uitvoering van het bepaalde in de [artikelen 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c), [18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d) in combinatie met [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g) en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a) maakt het CAK gebruik van de gegevens die de zorgverzekeraar verschaft op grond van de regeling ingevolge [artikel 92 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=92), van de gegevens uit de Basisregistratie Personen (BRP) en van de gegevens uit de UWV-polisadministratie.
 
@@ -61,7 +35,7 @@ besluit om de volgende beleidsregels vast te stellen:
 
 - f. de melding ziet op een zorgverzekering van een overleden verzekeringnemer en, indien deze een andere is dan de verzekeringnemer, de verzekerde.
 
-##### Artikel 2. De zorgverzekering als bedoeld in [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9d) en [18e van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) (voormalig onverzekerden)
+##### Artikel 2. De zorgverzekering als bedoeld in artikel 9d en 18e van de Zorgverzekeringswet (voormalig onverzekerden)
 
 1. Voor de toepassing en uitvoering van het bepaalde in de [artikelen 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) in combinatie met [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g) en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a) maakt het CAK gebruik van de gegevens die zijn gebruikt bij de toepassing en uitvoering van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9a), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9b), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9c) en [9d van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9d), van de gegevens uit de Basisregistratie Personen en van de gegevens uit de UWV-polisadministratie.
 
@@ -232,5 +206,3 @@ Dit besluit wordt aangehaald als: Beleidsregels CAK inning bestuursrechtelijke p
 ##### Artikel 14. Inwerkingtreding en publicatie
 
 Dit besluit treedt een dag na publicatie in de Staatscourant in werking en werkt terug tot en met 1 januari 2018.
-
-Deze beleidsregels worden met toelichting in de Staatscourant geplaatst.

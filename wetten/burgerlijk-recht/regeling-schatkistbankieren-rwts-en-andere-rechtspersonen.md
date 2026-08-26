@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 21 november 2017, houdende regels over het schatkistbankieren door rechtspersonen met een wettelijke of publieke taak en rechtspersonen die publieke liquide middelen beheren (Regeling schatkistbankieren RWT’s en andere rechtspersonen)"
+citeertitel: "Regeling schatkistbankieren RWT’s en andere rechtspersonen"
 identifier: "BWBR0040289"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-05"
-last_updated: "2023-10-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040289"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-stam_id: "14433543"
-version_id: "24680302"
-internal_id: "C35309381"
-label_id: "14394184"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040289/2023-10-05/0"
-intitule_bron: "Stcrt.2017-69130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-21"
-intitule_published: "2017-12-04"
-intitule_in_force: "2017-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-69130"
-original_signed_date: "2017-11-21"
-original_published_date: "2017-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-69130"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040289&z=2023-10-05&g=2023-10-05"
-jci_1_0: "1.0:c:BWBR0040289&g=2023-10-05"
-citeertitel_status: "officieel"
-short_title: "Regeling schatkistbankieren RWT’s en andere rechtspersonen"
-signed_date: "2017-11-21"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2023-10-05
+status: geldig
+toestand: 2023-10-05
+bron: "https://wetten.overheid.nl/BWBR0040289"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Financiën van 21 november 2017, houdende regels over het schatkistbankieren door rechtspersonen met een wettelijke of publieke taak en rechtspersonen die publieke liquide middelen beheren (Regeling schatkistbankieren RWT’s en andere rechtspersonen)
-
-Gelet op [artikel 5.9 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.9);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,23 +20,23 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- **actuele marktwaarde:** de waarde die wordt berekend op basis van de actuele rente behorend bij de resterende looptijden van toekomstige kasstromen (rente en aflossing) van een deposito of lening;
+- *actuele marktwaarde:* de waarde die wordt berekend op basis van de actuele rente behorend bij de resterende looptijden van toekomstige kasstromen (rente en aflossing) van een deposito of lening;
 
-- **betaalrekening:** een rekening die de rechtspersoon bij een bank aanhoudt;
+- *betaalrekening:* een rekening die de rechtspersoon bij een bank aanhoudt;
 
-- **daggeldrente:** de dagelijkse vaststelling door de Europese Centrale Bank van de Euro Short Term Rate (€STR), zijnde de rente waartegen gemiddeld genomen overnight en zonder onderpand liquiditeiten zijn geleend in de eurogeldmarkt (afgerond op 2 decimalen);
+- *daggeldrente:* de dagelijkse vaststelling door de Europese Centrale Bank van de Euro Short Term Rate (€STR), zijnde de rente waartegen gemiddeld genomen overnight en zonder onderpand liquiditeiten zijn geleend in de eurogeldmarkt (afgerond op 2 decimalen);
 
-- **deposito:** het creditbedrag op een aan een rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover de rechtspersoon gedurende een vooraf vastgestelde periode niet vrij kan beschikken;
+- *deposito:* het creditbedrag op een aan een rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover de rechtspersoon gedurende een vooraf vastgestelde periode niet vrij kan beschikken;
 
-- **inleenrente:** de rente waartegen de Staat zichzelf financiert op de (inter)nationale geld- en kapitaalmarkt via de uitgifte van Dutch Treasury Certificates en Dutch State Loans;
+- *inleenrente:* de rente waartegen de Staat zichzelf financiert op de (inter)nationale geld- en kapitaalmarkt via de uitgifte van Dutch Treasury Certificates en Dutch State Loans;
 
-- **lening:** de lening, bedoeld in de [artikelen 5.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.5), en [artikel 5.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.6);
+- *lening:* de lening, bedoeld in de [artikelen 5.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.5), en [artikel 5.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.6);
 
-- **rechtspersoon:** de rechtspersoon met een wettelijke of publieke taak en de rechtspersoon die publieke liquide middelen beheert, bedoeld in [artikel 5.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.2), respectievelijk [5.4 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.4);
+- *rechtspersoon:* de rechtspersoon met een wettelijke of publieke taak en de rechtspersoon die publieke liquide middelen beheert, bedoeld in [artikel 5.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.2), respectievelijk [5.4 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.4);
 
-- **rekening-courant:** de rekening die een rechtspersoon bij de schatkist van het Rijk aanhoudt;
+- *rekening-courant:* de rekening die een rechtspersoon bij de schatkist van het Rijk aanhoudt;
 
-- **rekening-courantkrediet:** het maximaal toegestane debetsaldo op een rekening-courant, bedoeld in [artikel 5.5, eerste en derde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.5);
+- *rekening-courantkrediet:* het maximaal toegestane debetsaldo op een rekening-courant, bedoeld in [artikel 5.5, eerste en derde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.5);
 
 2. De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1) zijn van overeenkomstige toepassing op deze regeling.
 
@@ -136,9 +110,9 @@ De Minister van Financiën kan voor de rechtspersoon, bedoeld in de [artikelen 5
 
 ##### Artikel 8. Uitvoering
 
-1. Voor het verplicht schatkistbankieren, bedoeld in [artikel 5.2 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.2), zijn de bepalingen 1 tot en met 6 van de bijlage van deze regeling van toepassing.
+1. Voor het verplicht schatkistbankieren, bedoeld in [artikel 5.2 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.2), zijn de bepalingen 1 tot en met 6 van de [bijlage](https://wetten.overheid.nl/BWBR0040289) van deze regeling van toepassing.
 
-2. Voor het vrijwillig schatkistbankieren, bedoeld in [artikel 5.4 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.4), zijn de bepalingen 1 tot en met 7 van de bijlage van deze regeling van toepassing.
+2. Voor het vrijwillig schatkistbankieren, bedoeld in [artikel 5.4 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.4), zijn de bepalingen 1 tot en met 7 van de [bijlage](https://wetten.overheid.nl/BWBR0040289) van deze regeling van toepassing.
 
 ##### Artikel 9. Nadere voorwaarden
 
@@ -160,28 +134,8 @@ De Minister van Financiën kan in overeenstemming met de betrokken Minister in e
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking per 1 januari 2018.
+Deze regeling treedt in werking per 1 januari 2018.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling schatkistbankieren RWT’s en andere rechtspersonen.
-
-## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040289&paragraaf=4&artikel=8&z=2023-10-05&g=2023-10-05) van de Regeling schatkistbankieren RWT’s en andere rechtspersonen
-
-### Bepaling 1. Begrippen
-
-In deze bijlage wordt verstaan onder:
-
-### Bepaling 2. Rekening-courant
-
-### Bepaling 3. Saldoregulatie
-
-### Bepaling 4. Rente
-
-### Bepaling 5. Deposito’s
-
-### Bepaling 6. Informatievoorziening en geheimhouding
-
-### Bepaling 7. Beëindiging van deelname aan schatkistbankieren
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

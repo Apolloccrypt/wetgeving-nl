@@ -1,47 +1,18 @@
 ---
 title: "Wet van 26 juli 2017, houdende regels met betrekking tot de inlichtingen- en veiligheidsdiensten alsmede wijziging van enkele wetten (Wet op de inlichtingen- en veiligheidsdiensten 2017)"
+citeertitel: "Wet op de inlichtingen- en veiligheidsdiensten 2017"
 identifier: "BWBR0039896"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039896"
+categorie: "Overig"
 soort: "wet"
-stam_id: "14133553"
-version_id: "24307242"
-internal_id: "C34909601"
-label_id: "14096804"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039896/2026-01-01/0"
-intitule_bron: "Stb.2017-317"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-07-26"
-intitule_published: "2017-08-17"
-intitule_in_force: "2017-08-25"
-intitule_status: "goed"
-original_publication: "Stb.2017-317"
-original_signed_date: "2017-07-26"
-original_published_date: "2017-08-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "34588"
-original_url_id: "stb-2017-317"
-entry_into_force_date: "2017-09-01"
-jci_1_3: "jci1.3:c:BWBR0039896&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0039896&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de inlichtingen- en veiligheidsdiensten 2017"
-signed_date: "2017-07-26"
-entry_into_force: "2017-09-01"
+publicatiedatum: 2017-09-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0039896"
+opgehaald: 2026-08-26
 ---
+
 # Wet van 26 juli 2017, houdende regels met betrekking tot de inlichtingen- en veiligheidsdiensten alsmede wijziging van enkele wetten (Wet op de inlichtingen- en veiligheidsdiensten 2017)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regels te stellen met betrekking de taken en bevoegdheden van de inlichtingen- en veiligheidsdiensten in het kader van de nationale veiligheid, de coördinatie van de taakuitvoering van deze diensten, de verwerking van gegevens door deze diensten, de nationale en internationale samenwerking van deze diensten, de uitoefening van het toezicht en de behandeling van klachten en de geheimhouding, alsmede in verband daarmee enkele wetten te wijzigen en de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) te vervangen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,383 +20,33 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **dienst:** de Algemene Inlichtingen- en Veiligheidsdienst of de Militaire Inlichtingen- en Veiligheidsdienst;
+- a. *dienst:* de Algemene Inlichtingen- en Veiligheidsdienst of de Militaire Inlichtingen- en Veiligheidsdienst;
 
-- b. **coördinator:** de functionaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01);
+- b. *coördinator:* de functionaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01);
 
-- c. **Onze betrokken Minister:**
+- c. *Onze betrokken Minister:*
 
-- 1°. ten aanzien van de Algemene Inlichtingen- en Veiligheidsdienst: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+   - 1°. ten aanzien van de Algemene Inlichtingen- en Veiligheidsdienst: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- 2°. ten aanzien van de Militaire Inlichtingen- en Veiligheidsdienst: Onze Minister van Defensie;
+   - 2°. ten aanzien van de Militaire Inlichtingen- en Veiligheidsdienst: Onze Minister van Defensie;
 
-- 3°. ten aanzien van de coördinator: Onze Minister-President, Minister van Algemene Zaken;
+   - 3°. ten aanzien van de coördinator: Onze Minister-President, Minister van Algemene Zaken;
 
-- d. **gegevens:** persoonsgegevens en andere gegevens;
+- d. *gegevens:* persoonsgegevens en andere gegevens;
 
-- e. **persoonsgegevens:** gegevens die betrekking hebben op een identificeerbare of geïdentificeerde, individuele natuurlijke persoon;
+- e. *persoonsgegevens:* gegevens die betrekking hebben op een identificeerbare of geïdentificeerde, individuele natuurlijke persoon;
 
-- f. **gegevensverwerking of verwerking van gegevens:** elke handeling of elk geheel van handelingen met betrekking tot gegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;
+- f. *gegevensverwerking of verwerking van gegevens:* elke handeling of elk geheel van handelingen met betrekking tot gegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;
 
-- g. **commissie van toezicht:** de commissie, bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=97&z=2026-01-01&g=2026-01-01);
+- g. *commissie van toezicht:* de commissie, bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=97&z=2026-01-01&g=2026-01-01);
 
-- h. **toetsingscommissie:** de commissie, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&sub-paragraaf=3.2.2.1&artikel=32&z=2026-01-01&g=2026-01-01).
+- h. *toetsingscommissie:* de commissie, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&sub-paragraaf=3.2.2.1&artikel=32&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 2
 
 De diensten en de coördinator verrichten hun taak in gebondenheid aan de wet en in ondergeschiktheid aan Onze betrokken Minister.
 
 ### Hoofdstuk 2. De diensten en de coördinatie tussen de diensten
-
-### Hoofdstuk 3. De verwerking van gegevens
-
-#### Paragraaf 3.1. Algemene bepalingen
-
-#### Paragraaf 3.2. De verzameling van gegevens
-
-#### Paragraaf 3.2.1. Algemene bepalingen
-
-#### Paragraaf 3.2.2. Toetsingscommissie inzet bevoegdheden
-
-#### Paragraaf 3.2.2.1. De instelling, taakstelling, samenstelling en andere bijzondere bepalingen met betrekking tot de toetsingscommissie
-
-##### Artikel 32
-
-1. Er is een toetsingscommissie inzet bevoegdheden.
-
-2. De toetsingscommissie is belast met het toetsen van de rechtmatigheid van de door Onze betrokken Minister verleende toestemming als bedoeld in de [artikelen 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2026-01-01&g=2026-01-01), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2026-01-01&g=2026-01-01), [43, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=43&z=2026-01-01&g=2026-01-01), [45, derde, vijfde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2026-01-01&g=2026-01-01), [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2026-01-01&g=2026-01-01), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2026-01-01&g=2026-01-01), [49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=49&z=2026-01-01&g=2026-01-01), [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2026-01-01&g=2026-01-01), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2026-01-01&g=2026-01-01), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2026-01-01&g=2026-01-01) en [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2026-01-01&g=2026-01-01). Het oordeel van de toetsingscommissie is bindend.
-
-##### Artikel 33
-
-1. De toetsingscommissie bestaat uit drie leden, waaronder de voorzitter. Voorts kunnen plaatsvervangende leden worden benoemd die de leden vervangen bij verhindering en ontstentenis. De leden en plaatsvervangende leden worden benoemd bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk voor een tijdvak van zes jaar en kunnen eenmaal worden herbenoemd.
-
-2. Ten minste twee van de drie leden, waaronder de voorzitter, dienen ten minste zes jaar de functie van rechterlijk ambtenaar met rechtspraak belast, bedoeld in [artikel 1, onderdeel c, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), te hebben vervuld, dan wel ten minste zes jaar als lid van de Afdeling bestuursrechtspraak van de Raad van State, als lid belast met rechtspraak bij het College van Beroep voor het bedrijfsleven of als lid belast met rechtspraak bij de Centrale Raad van Beroep werkzaam te zijn geweest.
-
-3. De leden en de plaatsvervangende leden van de toetsingscommissie kunnen niet tevens lid zijn van de commissie van toezicht of van de afdeling klachtbehandeling van de commissie van toezicht.
-
-4. De [artikelen 99, eerste, tweede, vijfde, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=99&z=2026-01-01&g=2026-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=100&z=2026-01-01&g=2026-01-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=101&z=2026-01-01&g=2026-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=102&z=2026-01-01&g=2026-01-01) en [104](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=104&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
-
-##### Artikel 34
-
-1. De toetsingscommissie wordt ondersteund door een secretariaat.
-
-2. Op voordracht van Onze betrokken Ministers gezamenlijk, op aanbeveling van de voorzitter van de commissie wordt bij koninklijk besluit besloten tot het aangaan van een arbeidsovereenkomst met de tot het secretariaat behorende personen. Tot beëindiging van de arbeidsovereenkomst wordt bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk, op aanbeveling van de voorzitter van de commissie besloten, tenzij de voorzitter van de commissie de arbeidsovereenkomst opzegt op grond van [artikel 677 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677).
-
-3. Bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk kan worden bepaald in welke gevallen het tweede lid niet van toepassing is.
-
-4. In afwijking van [artikel 4.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6) vertegenwoordigt de voorzitter van de commissie de Staat bij het aangaan, wijzigen en beëindigen van individuele arbeidsovereenkomsten met de tot het secretariaat behorende personen.
-
-##### Artikel 35
-
-1. De toetsingscommissie stelt voor haar werkzaamheden een reglement van orde op. Dit reglement wordt in de Staatscourant geplaatst.
-
-2. De vergaderingen van de toetsingscommissie zijn niet openbaar.
-
-3. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.3&artikel=132&z=2026-01-01&g=2026-01-01) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.4&artikel=133&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de toetsingscommissie.
-
-#### Paragraaf 3.2.2.2. De toetsing door de toetsingscommissie
-
-#### Paragraaf 3.2.3. Stelselmatig verzamelen van gegevens omtrent personen uit open bronnen
-
-#### Paragraaf 3.2.4. Raadpleging van informanten
-
-#### Paragraaf 3.2.5. Bijzondere bevoegdheden van de diensten
-
-#### Paragraaf 3.2.6. Het uitbrengen van verslag omtrent de uitoefening van enkele bijzondere bevoegdheden
-
-#### Paragraaf 3.3. Bijzondere bepalingen inzake geautomatiseerde data-analyse
-
-#### Paragraaf 3.4. De verstrekking van gegevens
-
-### Hoofdstuk 4. Overige bijzondere bevoegdheden van de diensten
-
-### Hoofdstuk 5. Kennisneming van door of ten behoeve van de diensten verwerkte gegevens
-
-### Hoofdstuk 6. Samenwerking tussen inlichtingen- en veiligheidsdiensten en met andere instanties
-
-### Hoofdstuk 3. De verwerking van gegevens
-
-#### Paragraaf 3.1. Algemene bepalingen
-
-##### Artikel 97
-
-1. Er is een commissie van toezicht op de inlichtingen- en veiligheidsdiensten.
-
-2. De commissie bestaat uit:
-
-- a. een afdeling toezicht, en
-
-- b. een afdeling klachtbehandeling.
-
-3. De afdeling toezicht is belast met:
-
-- a. het toezicht op de rechtmatigheid van de uitvoering van hetgeen bij of krachtens deze wet en de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) is gesteld;
-
-- b. het gevraagd en ongevraagd inlichten en adviseren van Onze betrokken Ministers aangaande de door de commissie geconstateerde bevindingen. Desgewenst kan de commissie onze betrokken Ministers vragen deze inlichtingen en adviezen ter kennis van een of beide kamers der Staten-Generaal te brengen, waarbij de werkwijze zoals beschreven in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.2&artikel=113&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing is;
-
-- c. het ongevraagd adviseren van Onze betrokken Ministers ter zake van de uitvoering van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.6&artikel=59&z=2026-01-01&g=2026-01-01);
-
-- d. het toezicht op de toepassing van de bevoegdheid van [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) door Onze Minister van Veiligheid en Justitie.
-
-4. De afdeling klachtbehandeling is belast met:
-
-- a. het onderzoeken en beoordelen van klachten;
-
-- b. het onderzoeken en beoordelen van een melding van een vermoeden van een misstand.
-
-##### Artikel 98
-
-1. De commissie van toezicht bestaat uit vier leden, onder wie de voorzitter. De leden worden benoemd bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk voor een tijdvak van zes jaar en kunnen eenmaal worden herbenoemd. Drie leden, onder wie de voorzitter, worden benoemd in de afdeling toezicht. De voorzitter van de commissie van toezicht is tevens voorzitter van de afdeling toezicht. Een lid wordt benoemd als lid, tevens voorzitter van de afdeling klachtbehandeling.
-
-2. De afdeling klachtbehandeling bestaat, naast de voorzitter, uit ten minste twee andere leden. Zij worden benoemd bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk voor een tijdvak van zes jaar en kunnen eenmaal worden herbenoemd.
-
-##### Artikel 99
-
-1. Voor de benoeming van de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling wordt door de Tweede Kamer der Staten-Generaal per vacature een voordracht van ten minste drie personen gedaan waaruit Onze betrokken Ministers een keuze maken. Bij haar voordracht slaat de Tweede Kamer zodanig acht als haar dienstig voorkomt op een door de vice-president van de Raad van State, de president van de Hoge Raad der Nederlanden en de Nationale ombudsman gezamenlijk opgemaakte aanbevelingslijst van ten minste drie kandidaten per vacature.
-
-2. Onze betrokken Ministers kunnen de Tweede Kamer verzoeken een nieuwe voordracht te doen.
-
-3. Aan ten minste twee van de drie leden van de afdeling toezicht, onder wie de voorzitter, en aan de leden van de afdeling klachtbehandeling dient door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht te zijn verleend, dan wel dienen zij aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren te hebben verkregen.
-
-4. Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het derde lid gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht.
-
-5. Alvorens hun ambt te aanvaarden leggen de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling in handen van de Minister-President, Minister van Algemene Zaken, af:
-
-- a. de eed of verklaring en belofte dat zij tot het verkrijgen van hun benoeming rechtstreeks noch middellijk, onder welke naam of onder welk voorwendsel ook, aan iemand iets hebben gegeven of beloofd, alsmede dat zij om iets in hun ambt te doen of te laten rechtstreeks noch middellijk van iemand enig geschenk of enige belofte hebben aangenomen of zullen aannemen;
-
-- b. de eed of belofte van trouw aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840).
-
-6. De leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling bezitten de Nederlandse nationaliteit.
-
-7. De leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling kunnen niet tevens lid zijn van de toetsingscommissie.
-
-8. De leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling vervullen geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van hun functie of op de handhaving van hun onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
-
-9. De betrekkingen van de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling worden door de voorzitter openbaar gemaakt.
-
-##### Artikel 100
-
-Aan de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling wordt bij koninklijk besluit, op voordracht van Onze betrokken Ministers gezamenlijk, ontslag verleend:
-
-- a. op verzoek van de betrokkene;
-
-- b. wanneer de betrokkene uit hoofde van ziekten of gebreken blijvend ongeschikt is zijn functie te vervullen;
-
-- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 99, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=99&z=2026-01-01&g=2026-01-01);
-
-- d. bij het verlies van Nederlanderschap;
-
-- e. wanneer betrokkene bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
-
-- f. wanneer betrokkene ingevolge onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, surseance van betaling heeft verkregen of wegens schulden is gegijzeld;
-
-- g. wanneer naar het oordeel van Onze betrokken Ministers gezamenlijk, gehoord de Tweede Kamer der Staten-Generaal, betrokkene door handelen of nalaten ernstig nadeel toebrengt aan het in hem te stellen vertrouwen;
-
-- h. met ingang van de eerste dag van de maand, volgend op die, waarin betrokkene de leeftijd van zeventig jaar heeft bereikt.
-
-##### Artikel 101
-
-1. Door Onze betrokken Ministers gezamenlijk wordt een lid van de commissie van toezicht en een lid van de afdeling klachtbehandeling op non-actief gesteld, ingeval:
-
-- a. hij zich in voorlopige hechtenis bevindt;
-
-- b. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
-
-- c. hij onder curatele is gesteld, in staat van faillissement is verklaard, surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
-
-2. Door Onze betrokken Ministers gezamenlijk kan een lid van de commissie van toezicht en een lid van de afdeling klachtbehandeling op non-actief worden gesteld, indien hij wordt vervolgd wegens een misdrijf of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 100, onder b en h](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=100&z=2026-01-01&g=2026-01-01), zouden kunnen leiden.
-
-3. In het geval, bedoeld in het tweede lid, eindigt de non-activiteit na drie maanden. Door Onze betrokken Ministers gezamenlijk kan de non-activiteit telkens met ten hoogste drie maanden worden verlengd. De non-activiteit wordt door Onze betrokken Ministers gezamenlijk beëindigd zodra de grond voor non-activiteit is vervallen.
-
-##### Artikel 102
-
-Bij algemene maatregel van bestuur worden de bezoldiging, de aanspraken in geval van ziekte, alsmede de overige rechten en plichten die betrekking hebben op de rechtspositie van de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling geregeld, voor zover daarin niet bij de wet is voorzien.
-
-##### Artikel 103
-
-1. De commissie van toezicht alsmede haar afdelingen worden ondersteund door een secretariaat.
-
-2. Op voordracht van Onze betrokken Ministers gezamenlijk, op aanbeveling van de voorzitter van de commissie wordt bij koninklijk besluit besloten tot het aangaan van een arbeidsovereenkomst met de tot het secretariaat behorende personen. Tot beëindiging van de arbeidsovereenkomst wordt bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk, op aanbeveling van de voorzitter van de commissie besloten, tenzij de voorzitter van de commissie de arbeidsovereenkomst opzegt op grond van [artikel 677 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677).
-
-3. Bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk, kan worden bepaald in welke gevallen het tweede lid niet van toepassing is.
-
-4. Ten aanzien van het tot het secretariaat behorende personen gelden de voor alle ambtenaren geldende arbeidsvoorwaarden die zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
-
-5. Op verzoek van de commissie kunnen in de collectieve arbeidsovereenkomst, bedoeld in het vierde lid, andere arbeidsvoorwaarden voor de tot het secretariaat behorende personen worden opgenomen.
-
-##### Artikel 104
-
-Op de leden van de commissie van toezicht, de leden van de afdeling klachtbehandeling alsmede de tot het secretariaat behorende personen is [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat de ontheffing, bedoeld in het tweede lid, wordt verleend door Onze Minister-President, Minister van Algemene Zaken.
-
-##### Artikel 105
-
-De voorzitters van de afdelingen van de commissie van toezicht regelen de werkzaamheden van de afdelingen. De regelingen worden in de Staatscourant bekendgemaakt.
-
-##### Artikel 106
-
-De vergaderingen van de commissie van toezicht en haar afdelingen zijn niet openbaar.
-
-#### Paragraaf 7.2. De taakuitvoering door de commissie van toezicht
-
-#### Paragraaf 7.3. Verslaglegging door de commissie van toezicht
-
-#### Paragraaf 7.4. Overige bepalingen met betrekking tot de commissie van toezicht
-
-### Hoofdstuk 8. Geheimhouding
-
-### Hoofdstuk 9. Bonaire, Sint Eustatius en Saba
-
-### Hoofdstuk 10. Straf-, overgangs- en slotbepalingen
-
-##### Artikel 143
-
-1. Overtreding van de [artikelen 44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.4&artikel=44&z=2026-01-01&g=2026-01-01), [45, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2026-01-01&g=2026-01-01), [52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2026-01-01&g=2026-01-01), [53, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2026-01-01&g=2026-01-01), [54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2026-01-01&g=2026-01-01), [55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2026-01-01&g=2026-01-01), [56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2026-01-01&g=2026-01-01), [57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2026-01-01&g=2026-01-01), is strafbaar.
-
-2. Overtredingen van de in het eerste lid strafbaar gestelde feiten zijn misdrijven, voor zover zij opzettelijk zijn begaan. Voor zover zij geen misdrijven zijn, zijn zij overtredingen.
-
-3. Overtreding van de in het eerste lid strafbaar gestelde feiten wordt gestraft
-
-- a. in geval van een misdrijf, met gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categorie;
-
-- b. in geval van een overtreding, met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
-
-##### Artikel 144
-
-Op gegevens verwerkt door of ten behoeve van inlichtingen- en veiligheidsdiensten die zijn opgeheven, zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2026-01-01&g=2026-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2026-01-01&g=2026-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2026-01-01&g=2026-01-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=69&z=2026-01-01&g=2026-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=70&z=2026-01-01&g=2026-01-01) alsmede de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat de desbetreffende bevoegdheden en verplichtingen toekomen aan Onze Minister bij wie de desbetreffende gegevens berusten.
-
-##### Artikel 145
-
-1. De [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) dan wel het van toepassing zijnde bestuursrecht in de openbare lichamen Bonaire, Sint Eustatius en Saba, waaronder in ieder geval het recht dat voorziet in de verplichting tot bekendmaking van besluiten alsmede in de mogelijkheid van bezwaar en beroep daartegen, is niet van toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van besluiten op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2026-01-01&g=2026-01-01), [artikel 8, tweede lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2026-01-01&g=2026-01-01), [artikel 10, tweede lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2026-01-01&g=2026-01-01), [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2026-01-01&g=2026-01-01), op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&z=2026-01-01&g=2026-01-01) in het kader van de uitvoering van de taken, bedoeld in artikel 8, tweede lid, onder a, c, d, e en f, en artikel 10, tweede lid, onder a, c, d, e, f en g, alsmede [artikel 136, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2026-01-01&g=2026-01-01).
-
-2. Het eerste lid is niet van toepassing op een besluit op grond van de [artikelen 52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2026-01-01&g=2026-01-01), [53, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2026-01-01&g=2026-01-01), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2026-01-01&g=2026-01-01), [55, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2026-01-01&g=2026-01-01) of [56, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2026-01-01&g=2026-01-01).
-
-##### Artikel 146
-
-Wijzigt de Telecommunicatiewet.
-
-##### Artikel 147
-
-Wijzigt de Aanpassingswet invoering bachelor-masterstructuur.
-
-##### Artikel 148
-
-Wijzigt de Algemene wet bestuursrecht.
-
-##### Artikel 149
-
-Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
-
-##### Artikel 150
-
-Wijzigt de Wet politiegegevens.
-
-##### Artikel 151
-
-Wijzigt het Wetboek van Strafrecht.
-
-##### Artikel 152
-
-Wijzigt de Ambtenarenwet.
-
-##### Artikel 153
-
-Wijzigt de Vreemdelingenwet 2000.
-
-##### Artikel 154
-
-Wijzigt de Wet bescherming persoonsgegevens.
-
-##### Artikel 155
-
-Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
-
-##### Artikel 156
-
-Wijzigt de Wet Huis voor klokkenluiders.
-
-##### Artikel 157
-
-Wijzigt deze wet.
-
-##### Artikel 158
-
-Vervallen
-
-##### Artikel 159
-
-Wijzigt deze wet.
-
-##### Artikel 160
-
-Wijzigt deze wet.
-
-##### Artikel 161
-
-Wijzigt deze wet.
-
-##### Artikel 162
-
-Wijzigt de Comptabiliteitswet 2016.
-
-##### Artikel 163
-
-Wijzigt de Wet gegevensverwerking en meldplicht cybersecurity.
-
-##### Artikel 164
-
-Wijzigt de Wijzigingswet Telecommunicatiewet, enz.(aanpassing bewaarplicht telecommunicatiegegevens)(Kst. 34537).
-
-##### Artikel 165
-
-[Artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.6&artikel=59&z=2026-01-01&g=2026-01-01) is niet van toepassing met betrekking tot door de diensten uitgeoefende bijzondere bevoegdheden als bedoeld in het eerste lid van dat artikel die hebben plaatsgevonden voor 29 mei 2002.
-
-##### Artikel 166
-
-Vervallen
-
-##### Artikel 167
-
-1. Onze Minister-President, Onze Minister van Algemene Zaken, zendt in overeenstemming met Onze betrokken ministers, binnen vijf jaar na inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
-
-2. Onze betrokken Minister zendt binnen vijf jaar na inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over het functioneren van de onder hem ressorterende dienst.
-
-##### Artikel 168
-
-De [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) wordt ingetrokken.
-
-##### Artikel 169
-
-Na de inwerkingtreding van deze wet berust:
-
-- 1. het **Besluit aanwijzing onderwerpen ex artikel 6, tweede lid, onder d, en 7, tweede lid, onder e, Wet op de inlichtingen en veiligheidsdiensten 2002** op [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2026-01-01&g=2026-01-01), van deze wet;
-
-- 2. de **Regeling aanwijzing risicolanden** op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2026-01-01&g=2026-01-01) van deze wet;
-
-- 3. het **Besluit ex artikel 28 WIV 2002** op [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2026-01-01&g=2026-01-01) van deze wet;
-
-- 4. het **Aanwijzingsbesluit artikel 39 WIV 2002** op [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=67&z=2026-01-01&g=2026-01-01) van deze wet;
-
-- 5. het **Besluit van 22 juli 2002 tot vaststelling van de rechtspositie van de voorzitter en leden van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten** (Stb. 2002, 454) op [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=102&z=2026-01-01&g=2026-01-01) van deze wet;
-
-- 6. het **Besluit van 14 mei 2003, houdende regels met betrekking tot benoeming, schorsing en ontslag van tot het secretariaat van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten behorende personen** (Stb. 2003, 258), op [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=103&z=2026-01-01&g=2026-01-01) van deze wet;
-
-- 7. de **Aanwijzingsregeling Koninklijke marechaussee ex artikel 60, tweede lid, WIV 2002** op [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2026-01-01&g=2026-01-01) van deze wet.
-
-##### Artikel 170
-
-Zij die op het tijdstip van inwerkingtreding van deze wet lid zijn van de commissie van toezicht, blijven voor de resterende duur van hun benoemingsperiode lid van de commissie van toezicht. Een van de leden, anders dan de voorzitter, wordt door de commissie aangewezen als voorzitter van de afdeling klachtbehandeling.
-
-##### Artikel 171
-
-1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
-
-2. Voor de bekendmaking van deze wet stelt Onze Minister-President, Minister van Algemene Zaken, de nummering van de artikelen, paragrafen en hoofdstukken van deze wet opnieuw vast, brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen en hoofdstukken daarmee in overeenstemming en vervangt hij de in deze wet voorkomende aanduiding «20..» door het jaartal van het Staatsblad waarin deze wet zal worden geplaatst.
-
-##### Artikel 172
-
-Deze wet wordt aangehaald als: Wet op de inlichtingen- en veiligheidsdiensten met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 #### Paragraaf 2.1. De coördinatie van de taakuitvoering door de diensten
 
@@ -469,9 +90,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. het ten behoeve van besluitvorming door Onze betrokken Ministers gezamenlijk op basis van de inventarisatie, bedoeld onder a, opstellen van een voorstel voor een geïntegreerde aanwijzing, welke bestaat uit:
 
-- i. de onderzoeken die verricht dienen te worden, uitgewerkt naar thema, en de onderzoeksplanning;
+   - i. de onderzoeken die verricht dienen te worden, uitgewerkt naar thema, en de onderzoeksplanning;
 
-- ii. de prioritering met betrekking tot de onderzoeken.
+   - ii. de prioritering met betrekking tot de onderzoeken.
 
 - c. het op regelmatige basis, ten minste eenmaal per vier maanden, voeren van overleg over de voortgang in de uitvoering van de door Onze betrokken Ministers gezamenlijk vastgestelde geïntegreerde aanwijzing en het doen van voorstellen tot aanpassing van de inlichtingenbehoefte en de prioritering.
 
@@ -537,19 +158,19 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 
 - a. het verrichten van onderzoek:
 
-- 1°. omtrent het potentieel en de strijdkrachten van andere mogendheden, ten behoeve van een juiste opbouw en een doeltreffend gebruik van de krijgsmacht;
+   - 1°. omtrent het potentieel en de strijdkrachten van andere mogendheden, ten behoeve van een juiste opbouw en een doeltreffend gebruik van de krijgsmacht;
 
-- 2°. naar factoren die van invloed zijn of kunnen zijn op de handhaving en bevordering van de internationale rechtsorde voor zover de krijgsmacht daarbij is betrokken of naar verwachting betrokken kan worden;
+   - 2°. naar factoren die van invloed zijn of kunnen zijn op de handhaving en bevordering van de internationale rechtsorde voor zover de krijgsmacht daarbij is betrokken of naar verwachting betrokken kan worden;
 
 - b. het verrichten van veiligheidsonderzoeken als bedoeld in de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
 
 - c. het verrichten van onderzoek dat nodig is voor het treffen van maatregelen:
 
-- 1°. ter voorkoming van activiteiten die ten doel hebben de veiligheid of paraatheid van de krijgsmacht te schaden;
+   - 1°. ter voorkoming van activiteiten die ten doel hebben de veiligheid of paraatheid van de krijgsmacht te schaden;
 
-- 2°. ter bevordering van een juist verloop van mobilisatie en concentratie der strijdkrachten;
+   - 2°. ter bevordering van een juist verloop van mobilisatie en concentratie der strijdkrachten;
 
-- 3°. ten behoeve van een ongestoorde voorbereiding en inzet van de krijgsmacht als bedoeld in onderdeel a, onder 2°.
+   - 3°. ten behoeve van een ongestoorde voorbereiding en inzet van de krijgsmacht als bedoeld in onderdeel a, onder 2°.
 
 - d. het bevorderen van maatregelen ter bescherming van de onder c genoemde belangen, waaronder begrepen maatregelen ter beveiliging van gegevens betreffende de krijgsmacht waarvan de geheimhouding is geboden;
 
@@ -581,7 +202,7 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 
 ##### Artikel 12
 
-1. Onze betrokken Ministers brengen jaarlijks voor 1 mei gelijktijdig aan beide kamers der Staten-Generaal een openbaar verslag uit van de wijze waarop de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst hun taken in het afgelopen kalenderjaar hebben verricht.
+1. Onze betrokken Ministers brengen jaarlijks voor 1 mei gelijktijdig aan beide kamers der Staten-Generaal een openbaar verslag uit van de wijze waarop de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst hun taken in het afgelopen kalenderjaar hebben verricht.
 
 2. In het verslag wordt in ieder geval volledig overzicht gegeven van:
 
@@ -636,6 +257,10 @@ De hoofden van de diensten alsmede de vertegenwoordigers in de commissie, bedoel
 ##### Artikel 16
 
 Onze betrokken Minister kan ten aanzien van de organisatie, de werkwijze en het beheer van een dienst nadere regels stellen.
+
+### Hoofdstuk 3. De verwerking van gegevens
+
+#### Paragraaf 3.1. Algemene bepalingen
 
 ##### Artikel 17
 
@@ -751,7 +376,7 @@ De hoofden van de diensten dragen zorg voor:
 
 #### Paragraaf 3.2. De verzameling van gegevens
 
-#### Paragraaf 3.2.1. Algemene bepalingen
+##### Paragraaf 3.2.1. Algemene bepalingen
 
 ##### Artikel 25
 
@@ -837,11 +462,45 @@ De hoofden van de diensten dragen zorg voor:
 
 Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
-#### Paragraaf 3.2.2. Toetsingscommissie inzet bevoegdheden
+##### Paragraaf 3.2.2. Toetsingscommissie inzet bevoegdheden
 
-#### Paragraaf 3.2.2.1. De instelling, taakstelling, samenstelling en andere bijzondere bepalingen met betrekking tot de toetsingscommissie
+##### Paragraaf 3.2.2.1. De instelling, taakstelling, samenstelling en andere bijzondere bepalingen met betrekking tot de toetsingscommissie
 
-#### Paragraaf 3.2.2.2. De toetsing door de toetsingscommissie
+##### Artikel 32
+
+1. Er is een toetsingscommissie inzet bevoegdheden.
+
+2. De toetsingscommissie is belast met het toetsen van de rechtmatigheid van de door Onze betrokken Minister verleende toestemming als bedoeld in de [artikelen 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.1&artikel=40&z=2026-01-01&g=2026-01-01), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=42&z=2026-01-01&g=2026-01-01), [43, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.3&artikel=43&z=2026-01-01&g=2026-01-01), [45, derde, vijfde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2026-01-01&g=2026-01-01), [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2026-01-01&g=2026-01-01), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2026-01-01&g=2026-01-01), [49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=49&z=2026-01-01&g=2026-01-01), [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=50&z=2026-01-01&g=2026-01-01), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2026-01-01&g=2026-01-01), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2026-01-01&g=2026-01-01) en [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2026-01-01&g=2026-01-01). Het oordeel van de toetsingscommissie is bindend.
+
+##### Artikel 33
+
+1. De toetsingscommissie bestaat uit drie leden, waaronder de voorzitter. Voorts kunnen plaatsvervangende leden worden benoemd die de leden vervangen bij verhindering en ontstentenis. De leden en plaatsvervangende leden worden benoemd bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk voor een tijdvak van zes jaar en kunnen eenmaal worden herbenoemd.
+
+2. Ten minste twee van de drie leden, waaronder de voorzitter, dienen ten minste zes jaar de functie van rechterlijk ambtenaar met rechtspraak belast, bedoeld in [artikel 1, onderdeel c, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), te hebben vervuld, dan wel ten minste zes jaar als lid van de Afdeling bestuursrechtspraak van de Raad van State, als lid belast met rechtspraak bij het College van Beroep voor het bedrijfsleven of als lid belast met rechtspraak bij de Centrale Raad van Beroep werkzaam te zijn geweest.
+
+3. De leden en de plaatsvervangende leden van de toetsingscommissie kunnen niet tevens lid zijn van de commissie van toezicht of van de afdeling klachtbehandeling van de commissie van toezicht.
+
+4. De [artikelen 99, eerste, tweede, vijfde, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=99&z=2026-01-01&g=2026-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=100&z=2026-01-01&g=2026-01-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=101&z=2026-01-01&g=2026-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=102&z=2026-01-01&g=2026-01-01) en [104](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=104&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
+
+##### Artikel 34
+
+1. De toetsingscommissie wordt ondersteund door een secretariaat.
+
+2. Op voordracht van Onze betrokken Ministers gezamenlijk, op aanbeveling van de voorzitter van de commissie wordt bij koninklijk besluit besloten tot het aangaan van een arbeidsovereenkomst met de tot het secretariaat behorende personen. Tot beëindiging van de arbeidsovereenkomst wordt bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk, op aanbeveling van de voorzitter van de commissie besloten, tenzij de voorzitter van de commissie de arbeidsovereenkomst opzegt op grond van [artikel 677 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677).
+
+3. Bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk kan worden bepaald in welke gevallen het tweede lid niet van toepassing is.
+
+4. In afwijking van [artikel 4.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6) vertegenwoordigt de voorzitter van de commissie de Staat bij het aangaan, wijzigen en beëindigen van individuele arbeidsovereenkomsten met de tot het secretariaat behorende personen.
+
+##### Artikel 35
+
+1. De toetsingscommissie stelt voor haar werkzaamheden een reglement van orde op. Dit reglement wordt in de Staatscourant geplaatst.
+
+2. De vergaderingen van de toetsingscommissie zijn niet openbaar.
+
+3. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.3&artikel=132&z=2026-01-01&g=2026-01-01) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.4&artikel=133&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de toetsingscommissie.
+
+##### Paragraaf 3.2.2.2. De toetsing door de toetsingscommissie
 
 ##### Artikel 36
 
@@ -861,7 +520,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 4. Indien de toetsingscommissie van oordeel is dat ten onrechte toepassing is gegeven aan het bepaalde in het eerste lid, eerste volzin, maar van oordeel is dat de toestemming rechtmatig is verleend, bepaalt zij tevens welke gevolgen daaraan verbonden dienen te worden voor de gegevens die zijn verzameld voorafgaand aan het oordeel van de toetsingscommissie. Zij deelt haar oordeel met redenen omkleed aan Onze betrokken Minister mee.
 
-#### Paragraaf 3.2.3. Stelselmatig verzamelen van gegevens omtrent personen uit open bronnen
+##### Paragraaf 3.2.3. Stelselmatig verzamelen van gegevens omtrent personen uit open bronnen
 
 ##### Artikel 38
 
@@ -869,7 +528,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 2. De uitoefening van de bevoegdheid, bedoeld in het eerste lid, is slechts toegestaan, indien Onze betrokken Minister of namens deze het hoofd van een dienst daarvoor toestemming heeft verleend. Het hoofd van een dienst kan aan hem ondergeschikte ambtenaren bij schriftelijk besluit aanwijzen die de toestemming, bedoeld in de eerste volzin, namens hem verlenen. Onze betrokken Minister wordt een afschrift van het besluit, bedoeld in de tweede volzin, gezonden. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=29&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-#### Paragraaf 3.2.4. Raadpleging van informanten
+##### Paragraaf 3.2.4. Raadpleging van informanten
 
 ##### Artikel 39
 
@@ -885,9 +544,9 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 6. Gegevens die betrekking hebben op dan wel kunnen leiden tot de vaststelling van de identiteit van een natuurlijke persoon die op heimelijke wijze medewerking heeft verleend aan een verzoek tot verstrekking van gegevens als bedoeld in het eerste lid worden dertig jaar nadat de medewerking van de desbetreffende natuurlijke persoon is beëindigd, vernietigd.
 
-#### Paragraaf 3.2.5. Bijzondere bevoegdheden van de diensten
+##### Paragraaf 3.2.5. Bijzondere bevoegdheden van de diensten
 
-#### Paragraaf 3.2.5.1. Observeren en volgen
+##### Paragraaf 3.2.5.1. Observeren en volgen
 
 ##### Artikel 40
 
@@ -907,7 +566,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 - b. een omschrijving van het soort middel dat wordt toegepast.
 
-#### Paragraaf 3.2.5.2. Agenten
+##### Paragraaf 3.2.5.2. Agenten
 
 ##### Artikel 41
 
@@ -933,7 +592,7 @@ Van de uitoefening van een bevoegdheid wordt aantekening gehouden.
 
 9. Gegevens die betrekking hebben op dan wel kunnen leiden tot de vaststelling van de identiteit van een natuurlijke persoon als bedoeld in het eerste lid worden 30 jaar nadat de inzet van de desbetreffende natuurlijke persoon is beëindigd, vernietigd.
 
-#### Paragraaf 3.2.5.3. Onderzoek van besloten plaatsen, van gesloten voorwerpen, aan voorwerpen en DNA-onderzoek
+##### Paragraaf 3.2.5.3. Onderzoek van besloten plaatsen, van gesloten voorwerpen, aan voorwerpen en DNA-onderzoek
 
 ##### Artikel 42
 
@@ -985,7 +644,7 @@ Het DNA-onderzoek vindt plaats met het oog op vergelijking van DNA-profielen.
 
 8. Bij algemene maatregel van bestuur worden nadere regels gesteld voor het verrichten van DNA-onderzoek, het verwerken van DNA-profielen, waaronder begrepen de inrichting, het beheer en de toegang tot deze gegevens, en de omgang met celmateriaal, waaronder begrepen voorwerpen met daarop mogelijk celmateriaal. De bij algemene maatregel van bestuur te stellen regels hebben mede betrekking op medewerkers van de dienst die bij de uitvoering van het DNA-onderzoek fysiek in aanraking kunnen komen met voorwerpen met daarop mogelijk celmateriaal en het veiliggestelde celmateriaal. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers van de Staten-Generaal is overgelegd.
 
-#### Paragraaf 3.2.5.4. Openen van brieven en andere geadresseerde zendingen
+##### Paragraaf 3.2.5.4. Openen van brieven en andere geadresseerde zendingen
 
 ##### Artikel 44
 
@@ -1007,7 +666,7 @@ Het DNA-onderzoek vindt plaats met het oog op vergelijking van DNA-profielen.
 
 7. De diensten dragen zorg dat een door een instelling van post of vervoer uitgeleverde brief of andere geadresseerde zending na onderzoek daarvan, onverwijld aan de desbetreffende instelling ter verzending terug wordt gegeven.
 
-#### Paragraaf 3.2.5.5. Verkennen van en binnendringen in geautomatiseerde werken
+##### Paragraaf 3.2.5.5. Verkennen van en binnendringen in geautomatiseerde werken
 
 ##### Artikel 45
 
@@ -1057,23 +716,23 @@ Het DNA-onderzoek vindt plaats met het oog op vergelijking van DNA-profielen.
 
 12. De persoon aan wie een opdracht als bedoeld in het negende lid wordt gericht is verplicht daaraan te voldoen.
 
-#### Paragraaf 3.2.5.6. Onderzoek van communicatie
+##### Paragraaf 3.2.5.6. Onderzoek van communicatie
 
-#### Paragraaf 3.2.5.6.1. Algemeen
+##### Paragraaf 3.2.5.6.1. Algemeen
 
 ##### Artikel 46
 
 In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **aanbieder van een communicatiedienst:** de natuurlijke of rechtspersoon die in de uitoefening van een beroep of bedrijf aan de gebruikers van zijn dienst de mogelijkheid biedt te communiceren met behulp van een geautomatiseerd werk, of die gegevens verwerkt of opslaat ten behoeve van een zodanige dienst of de gebruikers van die dienst;
+- a. *aanbieder van een communicatiedienst:* de natuurlijke of rechtspersoon die in de uitoefening van een beroep of bedrijf aan de gebruikers van zijn dienst de mogelijkheid biedt te communiceren met behulp van een geautomatiseerd werk, of die gegevens verwerkt of opslaat ten behoeve van een zodanige dienst of de gebruikers van die dienst;
 
-- b. **gebruiker:** de natuurlijke persoon of rechtspersoon die met de aanbieder van een communicatiedienst een overeenkomst is aangegaan met betrekking tot het gebruik van die dienst of die feitelijk gebruik maakt van een zodanige dienst;
+- b. *gebruiker:* de natuurlijke persoon of rechtspersoon die met de aanbieder van een communicatiedienst een overeenkomst is aangegaan met betrekking tot het gebruik van die dienst of die feitelijk gebruik maakt van een zodanige dienst;
 
-- c. **nummer:** een nummer als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- c. *nummer:* een nummer als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- d. **technisch kenmerk:** ieder kenmerk, niet zijnde een nummer, dat gebruikt wordt bij het overbrengen van communicatie of de verbinding tussen geautomatiseerde werken.
+- d. *technisch kenmerk:* ieder kenmerk, niet zijnde een nummer, dat gebruikt wordt bij het overbrengen van communicatie of de verbinding tussen geautomatiseerde werken.
 
-#### Paragraaf 3.2.5.6.2. Onderzoek van communicatie met betrekking tot specifieke personen, organisaties en nummers dan wel technische kenmerken
+##### Paragraaf 3.2.5.6.2. Onderzoek van communicatie met betrekking tot specifieke personen, organisaties en nummers dan wel technische kenmerken
 
 ##### Artikel 47
 
@@ -1097,7 +756,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Voor zover het gericht ontvangen en opnemen van telecommunicatie die zijn oorsprong of bestemming heeft in andere landen betrekking heeft op militair verkeer, wordt, tenzij de medewerking van een aanbieder van een communicatiedienst is vereist, in afwijking van het bepaalde in het tweede lid de toestemming verleend door het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst. Niet-militair verkeer dat in dit kader wordt ontvangen of opgenomen wordt terstond vernietigd.
 
-#### Paragraaf 3.2.5.6.3. Onderzoeksopdrachtgericht onderzoek van communicatie
+##### Paragraaf 3.2.5.6.3. Onderzoeksopdrachtgericht onderzoek van communicatie
 
 ##### Artikel 48
 
@@ -1155,7 +814,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. voor zover van toepassing een aanduiding van de gegevensbestanden die in de geautomatiseerde data-analyse worden betrokken.
 
-#### Paragraaf 3.2.5.6.4. Informatie- en medewerkingsplicht aanbieders van communicatiediensten bij de verwerving van telecommunicatie op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.2&artikel=47&z=2026-01-01&g=2026-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.3&artikel=48&z=2026-01-01&g=2026-01-01)
+##### Paragraaf 3.2.5.6.4. Informatie- en medewerkingsplicht aanbieders van communicatiediensten bij de verwerving van telecommunicatie op grond van artikel 47 en 48
 
 ##### Artikel 51
 
@@ -1203,7 +862,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 8. Bij ministeriële regeling worden regels gesteld met betrekking tot de vaststelling en de vergoeding van de kosten, bedoeld in het zevende lid.
 
-#### Paragraaf 3.2.5.6.5. Informatieverzoeken en medewerkingsplicht met betrekking tot telecommunicatiegegevens
+##### Paragraaf 3.2.5.6.5. Informatieverzoeken en medewerkingsplicht met betrekking tot telecommunicatiegegevens
 
 ##### Artikel 54
 
@@ -1269,7 +928,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 6. [Artikel 13.6, tweede en derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.6) is van overeenkomstige toepassing op het voldoen aan een opdracht als bedoeld in het eerste lid door aanbieders van communicatiediensten, voor zover zij niet reeds op grond van artikel 13.6, tweede lid, van de Telecommunicatiewet in aanmerking komen voor vergoeding van de aldaar bedoelde kosten.
 
-#### Paragraaf 3.2.5.6.6. Medewerkingsplicht bij ontsleuteling communicatie
+##### Paragraaf 3.2.5.6.6. Medewerkingsplicht bij ontsleuteling communicatie
 
 ##### Artikel 57
 
@@ -1285,7 +944,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 4. De persoon aan wie een opdracht als bedoeld in het eerste lid wordt gericht is verplicht daaraan te voldoen.
 
-#### Paragraaf 3.2.5.7. Toegang tot plaatsen
+##### Paragraaf 3.2.5.7. Toegang tot plaatsen
 
 ##### Artikel 58
 
@@ -1309,7 +968,7 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op het verwijderen van een technisch hulpmiddel, indien de toestemming voor de uitoefening van de bijzondere bevoegdheid in welk kader het technisch hulpmiddel is toegepast inmiddels is beëindigd.
 
-#### Paragraaf 3.2.6. Het uitbrengen van verslag omtrent de uitoefening van enkele bijzondere bevoegdheden
+##### Paragraaf 3.2.6. Het uitbrengen van verslag omtrent de uitoefening van enkele bijzondere bevoegdheden
 
 ##### Artikel 59
 
@@ -1369,15 +1028,15 @@ De toestemming wordt verleend voor een periode van ten hoogste drie maanden, ind
 
 #### Paragraaf 3.4. De verstrekking van gegevens
 
-#### Paragraaf 3.4.1. De interne verstrekking van gegevens
+##### Paragraaf 3.4.1. De interne verstrekking van gegevens
 
 ##### Artikel 61
 
 De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan een binnen de dienst of ingevolge [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2026-01-01&g=2026-01-01) ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst werkzame ambtenaar onderscheidenlijk ingevolge [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=92&z=2026-01-01&g=2026-01-01) ten behoeve van de Militaire Inlichtingen- en Veiligheidsdienst werkzame ambtenaar vindt slechts plaats, voor zover dat noodzakelijk is voor een goede uitvoering van de aan de desbetreffende ambtenaar opgedragen taak.
 
-#### Paragraaf 3.4.2. De externe verstrekking van gegevens
+##### Paragraaf 3.4.2. De externe verstrekking van gegevens
 
-#### Paragraaf 3.4.2.1. Algemene bepalingen
+##### Paragraaf 3.4.2.1. Algemene bepalingen
 
 ##### Artikel 62
 
@@ -1449,7 +1108,7 @@ De verstrekking van door of ten behoeve van een dienst verwerkte gegevens aan ee
 
 3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Paragraaf 3.4.2.2. Bijzondere bepalingen betreffende de externe verstrekking van persoonsgegevens
+##### Paragraaf 3.4.2.2. Bijzondere bepalingen betreffende de externe verstrekking van persoonsgegevens
 
 ##### Artikel 68
 
@@ -1609,11 +1268,11 @@ In dit hoofdstuk wordt onder document, intern beraad, persoonlijke beleidsopvatt
 
 - a. betreffende de aanvrager in het kader van enig onderzoek gegevens zijn verwerkt, tenzij:
 
-- 1°. de desbetreffende gegevens meer dan 5 jaar geleden zijn verwerkt,
+   - 1°. de desbetreffende gegevens meer dan 5 jaar geleden zijn verwerkt,
 
-- 2°. met betrekking tot de aanvrager sindsdien geen nieuwe gegevens zijn verwerkt in verband met het onderzoek in het kader waarvan de desbetreffende gegevens zijn verwerkt, en
+   - 2°. met betrekking tot de aanvrager sindsdien geen nieuwe gegevens zijn verwerkt in verband met het onderzoek in het kader waarvan de desbetreffende gegevens zijn verwerkt, en
 
-- 3°. de desbetreffende gegevens niet relevant zijn voor enig lopend onderzoek;
+   - 3°. de desbetreffende gegevens niet relevant zijn voor enig lopend onderzoek;
 
 - b. betreffende de aanvrager geen gegevens zijn verwerkt.
 
@@ -1823,9 +1482,127 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 #### Paragraaf 7.1. Instelling, samenstelling en andere bijzondere bepalingen betreffende de commissie van toezicht
 
+##### Artikel 97
+
+1. Er is een commissie van toezicht op de inlichtingen- en veiligheidsdiensten.
+
+2. De commissie bestaat uit:
+
+- a. een afdeling toezicht, en
+
+- b. een afdeling klachtbehandeling.
+
+3. De afdeling toezicht is belast met:
+
+- a. het toezicht op de rechtmatigheid van de uitvoering van hetgeen bij of krachtens deze wet en de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) is gesteld;
+
+- b. het gevraagd en ongevraagd inlichten en adviseren van Onze betrokken Ministers aangaande de door de commissie geconstateerde bevindingen. Desgewenst kan de commissie onze betrokken Ministers vragen deze inlichtingen en adviezen ter kennis van een of beide kamers der Staten-Generaal te brengen, waarbij de werkwijze zoals beschreven in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.2&artikel=113&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing is;
+
+- c. het ongevraagd adviseren van Onze betrokken Ministers ter zake van de uitvoering van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.6&artikel=59&z=2026-01-01&g=2026-01-01);
+
+- d. het toezicht op de toepassing van de bevoegdheid van [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) door Onze Minister van Veiligheid en Justitie.
+
+4. De afdeling klachtbehandeling is belast met:
+
+- a. het onderzoeken en beoordelen van klachten;
+
+- b. het onderzoeken en beoordelen van een melding van een vermoeden van een misstand.
+
+##### Artikel 98
+
+1. De commissie van toezicht bestaat uit vier leden, onder wie de voorzitter. De leden worden benoemd bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk voor een tijdvak van zes jaar en kunnen eenmaal worden herbenoemd. Drie leden, onder wie de voorzitter, worden benoemd in de afdeling toezicht. De voorzitter van de commissie van toezicht is tevens voorzitter van de afdeling toezicht. Een lid wordt benoemd als lid, tevens voorzitter van de afdeling klachtbehandeling.
+
+2. De afdeling klachtbehandeling bestaat, naast de voorzitter, uit ten minste twee andere leden. Zij worden benoemd bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk voor een tijdvak van zes jaar en kunnen eenmaal worden herbenoemd.
+
+##### Artikel 99
+
+1. Voor de benoeming van de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling wordt door de Tweede Kamer der Staten-Generaal per vacature een voordracht van ten minste drie personen gedaan waaruit Onze betrokken Ministers een keuze maken. Bij haar voordracht slaat de Tweede Kamer zodanig acht als haar dienstig voorkomt op een door de vice-president van de Raad van State, de president van de Hoge Raad der Nederlanden en de Nationale ombudsman gezamenlijk opgemaakte aanbevelingslijst van ten minste drie kandidaten per vacature.
+
+2. Onze betrokken Ministers kunnen de Tweede Kamer verzoeken een nieuwe voordracht te doen.
+
+3. Aan ten minste twee van de drie leden van de afdeling toezicht, onder wie de voorzitter, en aan de leden van de afdeling klachtbehandeling dient door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht te zijn verleend, dan wel dienen zij aan een universiteit dan wel de Open Universiteit waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren te hebben verkregen.
+
+4. Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het derde lid gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht.
+
+5. Alvorens hun ambt te aanvaarden leggen de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling in handen van de Minister-President, Minister van Algemene Zaken, af:
+
+- a. de eed of verklaring en belofte dat zij tot het verkrijgen van hun benoeming rechtstreeks noch middellijk, onder welke naam of onder welk voorwendsel ook, aan iemand iets hebben gegeven of beloofd, alsmede dat zij om iets in hun ambt te doen of te laten rechtstreeks noch middellijk van iemand enig geschenk of enige belofte hebben aangenomen of zullen aannemen;
+
+- b. de eed of belofte van trouw aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840).
+
+6. De leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling bezitten de Nederlandse nationaliteit.
+
+7. De leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling kunnen niet tevens lid zijn van de toetsingscommissie.
+
+8. De leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling vervullen geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van hun functie of op de handhaving van hun onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
+
+9. De betrekkingen van de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling worden door de voorzitter openbaar gemaakt.
+
+##### Artikel 100
+
+Aan de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling wordt bij koninklijk besluit, op voordracht van Onze betrokken Ministers gezamenlijk, ontslag verleend:
+
+- a. op verzoek van de betrokkene;
+
+- b. wanneer de betrokkene uit hoofde van ziekten of gebreken blijvend ongeschikt is zijn functie te vervullen;
+
+- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 99, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=99&z=2026-01-01&g=2026-01-01);
+
+- d. bij het verlies van Nederlanderschap;
+
+- e. wanneer betrokkene bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- f. wanneer betrokkene ingevolge onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, surseance van betaling heeft verkregen of wegens schulden is gegijzeld;
+
+- g. wanneer naar het oordeel van Onze betrokken Ministers gezamenlijk, gehoord de Tweede Kamer der Staten-Generaal, betrokkene door handelen of nalaten ernstig nadeel toebrengt aan het in hem te stellen vertrouwen;
+
+- h. met ingang van de eerste dag van de maand, volgend op die, waarin betrokkene de leeftijd van zeventig jaar heeft bereikt.
+
+##### Artikel 101
+
+1. Door Onze betrokken Ministers gezamenlijk wordt een lid van de commissie van toezicht en een lid van de afdeling klachtbehandeling op non-actief gesteld, ingeval:
+
+- a. hij zich in voorlopige hechtenis bevindt;
+
+- b. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- c. hij onder curatele is gesteld, in staat van faillissement is verklaard, surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
+
+2. Door Onze betrokken Ministers gezamenlijk kan een lid van de commissie van toezicht en een lid van de afdeling klachtbehandeling op non-actief worden gesteld, indien hij wordt vervolgd wegens een misdrijf of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 100, onder b en h](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=100&z=2026-01-01&g=2026-01-01), zouden kunnen leiden.
+
+3. In het geval, bedoeld in het tweede lid, eindigt de non-activiteit na drie maanden. Door Onze betrokken Ministers gezamenlijk kan de non-activiteit telkens met ten hoogste drie maanden worden verlengd. De non-activiteit wordt door Onze betrokken Ministers gezamenlijk beëindigd zodra de grond voor non-activiteit is vervallen.
+
+##### Artikel 102
+
+Bij algemene maatregel van bestuur worden de bezoldiging, de aanspraken in geval van ziekte, alsmede de overige rechten en plichten die betrekking hebben op de rechtspositie van de leden van de commissie van toezicht en de leden van de afdeling klachtbehandeling geregeld, voor zover daarin niet bij de wet is voorzien.
+
+##### Artikel 103
+
+1. De commissie van toezicht alsmede haar afdelingen worden ondersteund door een secretariaat.
+
+2. Op voordracht van Onze betrokken Ministers gezamenlijk, op aanbeveling van de voorzitter van de commissie wordt bij koninklijk besluit besloten tot het aangaan van een arbeidsovereenkomst met de tot het secretariaat behorende personen. Tot beëindiging van de arbeidsovereenkomst wordt bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk, op aanbeveling van de voorzitter van de commissie besloten, tenzij de voorzitter van de commissie de arbeidsovereenkomst opzegt op grond van [artikel 677 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677).
+
+3. Bij koninklijk besluit op voordracht van Onze betrokken Ministers gezamenlijk, kan worden bepaald in welke gevallen het tweede lid niet van toepassing is.
+
+4. Ten aanzien van het tot het secretariaat behorende personen gelden de voor alle ambtenaren geldende arbeidsvoorwaarden die zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+
+5. Op verzoek van de commissie kunnen in de collectieve arbeidsovereenkomst, bedoeld in het vierde lid, andere arbeidsvoorwaarden voor de tot het secretariaat behorende personen worden opgenomen.
+
+##### Artikel 104
+
+Op de leden van de commissie van toezicht, de leden van de afdeling klachtbehandeling alsmede de tot het secretariaat behorende personen is [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat de ontheffing, bedoeld in het tweede lid, wordt verleend door Onze Minister-President, Minister van Algemene Zaken.
+
+##### Artikel 105
+
+De voorzitters van de afdelingen van de commissie van toezicht regelen de werkzaamheden van de afdelingen. De regelingen worden in de Staatscourant bekendgemaakt.
+
+##### Artikel 106
+
+De vergaderingen van de commissie van toezicht en haar afdelingen zijn niet openbaar.
+
 #### Paragraaf 7.2. De taakuitvoering door de commissie van toezicht
 
-#### Paragraaf 7.2.1. Algemene bevoegdheden bij toezicht, klachtbehandeling en de behandeling van meldingen inzake vermoedens van misstanden
+##### Paragraaf 7.2.1. Algemene bevoegdheden bij toezicht, klachtbehandeling en de behandeling van meldingen inzake vermoedens van misstanden
 
 ##### Artikel 107
 
@@ -1867,7 +1644,7 @@ De ondersteuning kan niet bestaan uit het bieden van gelegenheid tot het zelfsta
 
 Een afdeling van de commissie van toezicht dan wel een daartoe door haar aangewezen lid is bevoegd alle plaatsen te betreden, met uitzondering van een woning zonder toestemming van de bewoner, voor zover dat voor de vervulling van haar taak redelijkerwijs nodig is. De afdeling dan wel het door haar aangewezen lid kan zich daarbij doen vergezellen van door de voorzitter aangewezen personen van het secretariaat, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=103&z=2026-01-01&g=2026-01-01).
 
-#### Paragraaf 7.2.2. De uitoefening van het toezicht door de afdeling toezicht
+##### Paragraaf 7.2.2. De uitoefening van het toezicht door de afdeling toezicht
 
 ##### Artikel 112
 
@@ -1889,7 +1666,7 @@ Een afdeling van de commissie van toezicht dan wel een daartoe door haar aangewe
 
 5. Onze betrokken Minister zendt het toezichtsrapport alsmede zijn reactie daarop binnen zes weken aan de beide kamers der Staten-Generaal. Vermelding van in ieder geval de gegevens, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2026-01-01&g=2026-01-01), blijft daarbij achterwege. Deze gegevens kunnen ter vertrouwelijke kennisneming aan een of beide kamers der Staten-Generaal worden medegedeeld.
 
-#### Paragraaf 7.2.3. De behandeling van klachten door de afdeling klachtbehandeling
+##### Paragraaf 7.2.3. De behandeling van klachten door de afdeling klachtbehandeling
 
 ##### Artikel 114
 
@@ -2023,17 +1800,17 @@ De afdeling klachtbehandeling is niet verplicht een onderzoek in te stellen of v
 
 5. Onze betrokken Minister is gehouden het oordeel van de afdeling klachtbehandeling uit te voeren. Onze betrokken Minister stelt de afdeling klachtbehandeling en de klager binnen twee weken na ontvangst van het oordeel schriftelijk op de hoogte van de wijze waarop deze aan het oordeel van de afdeling klachtbehandeling uitvoering zal geven en binnen welke termijn.
 
-#### Paragraaf 7.2.4. De behandeling van meldingen inzake vermoedens van misstanden
+##### Paragraaf 7.2.4. De behandeling van meldingen inzake vermoedens van misstanden
 
 ##### Artikel 125
 
 In deze paragraaf wordt verstaan onder:
 
-- a. **melder:** een ieder die betrokken is of is geweest bij de uitvoering van deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
+- a. *melder:* een ieder die betrokken is of is geweest bij de uitvoering van deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
 
-- b. **interne procedure:** een door Onze betrokken Minister vastgestelde procedure voor het omgaan met de melding van een vermoeden van een misstand;
+- b. *interne procedure:* een door Onze betrokken Minister vastgestelde procedure voor het omgaan met de melding van een vermoeden van een misstand;
 
-- c. **vermoeden van een misstand:** het vermoeden dat binnen een dienst of bij de coördinator, waarbij de melder werkt of heeft gewerkt of waarmee hij in het kader van de uitvoering van deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) in aanraking is gekomen, sprake is van een misstand voor zover het vermoeden gebaseerd is op redelijke gronden, die voortvloeien uit de kennis die de melder bij de desbetreffende dienst heeft opgedaan of voortvloeien uit de kennis die de melder heeft gekregen in verband met diens betrokkenheid bij de uitvoering van deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) en het maatschappelijk belang in het geding is bij de schending van een wettelijk voorschrift, een gevaar voor de veiligheid van personen, of een gevaar voor het goed functioneren van de openbare dienst als gevolg van een onbehoorlijke wijze van handelen of nalaten.
+- c. *vermoeden van een misstand:* het vermoeden dat binnen een dienst of bij de coördinator, waarbij de melder werkt of heeft gewerkt of waarmee hij in het kader van de uitvoering van deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) in aanraking is gekomen, sprake is van een misstand voor zover het vermoeden gebaseerd is op redelijke gronden, die voortvloeien uit de kennis die de melder bij de desbetreffende dienst heeft opgedaan of voortvloeien uit de kennis die de melder heeft gekregen in verband met diens betrokkenheid bij de uitvoering van deze wet of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) en het maatschappelijk belang in het geding is bij de schending van een wettelijk voorschrift, een gevaar voor de veiligheid van personen, of een gevaar voor het goed functioneren van de openbare dienst als gevolg van een onbehoorlijke wijze van handelen of nalaten.
 
 ##### Artikel 126
 
@@ -2113,7 +1890,7 @@ Met betrekking tot het onderzoek van een melding is [artikel 117](https://wetten
 
 ##### Artikel 132
 
-1. De commissie van toezicht brengt jaarlijks voor 1 mei een openbaar verslag uit van haar werkzaamheden. Het verslag wordt aangeboden aan beide kamers der Staten-Generaal en aan Onze betrokken Ministers. [Artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
+1. De commissie van toezicht brengt jaarlijks voor 1 mei een openbaar verslag uit van haar werkzaamheden. Het verslag wordt aangeboden aan beide kamers der Staten-Generaal en aan Onze betrokken Ministers. [Artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.4&artikel=12&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
 2. Het openbare jaarverslag wordt algemeen verkrijgbaar gesteld.
 
@@ -2195,16 +1972,158 @@ Voor de toepassing van deze wet in de openbare lichamen Bonaire, Sint Eustatius 
 
 ### Hoofdstuk 10. Straf-, overgangs- en slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 143
+
+1. Overtreding van de [artikelen 44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.4&artikel=44&z=2026-01-01&g=2026-01-01), [45, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.5&artikel=45&z=2026-01-01&g=2026-01-01), [52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2026-01-01&g=2026-01-01), [53, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2026-01-01&g=2026-01-01), [54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2026-01-01&g=2026-01-01), [55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2026-01-01&g=2026-01-01), [56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2026-01-01&g=2026-01-01), [57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.6&artikel=57&z=2026-01-01&g=2026-01-01), is strafbaar.
+
+2. Overtredingen van de in het eerste lid strafbaar gestelde feiten zijn misdrijven, voor zover zij opzettelijk zijn begaan. Voor zover zij geen misdrijven zijn, zijn zij overtredingen.
+
+3. Overtreding van de in het eerste lid strafbaar gestelde feiten wordt gestraft
+
+- a. in geval van een misdrijf, met gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categorie;
+
+- b. in geval van een overtreding, met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
+
+##### Artikel 144
+
+Op gegevens verwerkt door of ten behoeve van inlichtingen- en veiligheidsdiensten die zijn opgeheven, zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2026-01-01&g=2026-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2026-01-01&g=2026-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2026-01-01&g=2026-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=62&z=2026-01-01&g=2026-01-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=69&z=2026-01-01&g=2026-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.2&artikel=70&z=2026-01-01&g=2026-01-01) alsmede de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat de desbetreffende bevoegdheden en verplichtingen toekomen aan Onze Minister bij wie de desbetreffende gegevens berusten.
+
+##### Artikel 145
+
+1. De [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) dan wel het van toepassing zijnde bestuursrecht in de openbare lichamen Bonaire, Sint Eustatius en Saba, waaronder in ieder geval het recht dat voorziet in de verplichting tot bekendmaking van besluiten alsmede in de mogelijkheid van bezwaar en beroep daartegen, is niet van toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van besluiten op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2026-01-01&g=2026-01-01), [artikel 8, tweede lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2026-01-01&g=2026-01-01), [artikel 10, tweede lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2026-01-01&g=2026-01-01), [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2026-01-01&g=2026-01-01), op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=4&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&z=2026-01-01&g=2026-01-01) in het kader van de uitvoering van de taken, bedoeld in artikel 8, tweede lid, onder a, c, d, e en f, en artikel 10, tweede lid, onder a, c, d, e, f en g, alsmede [artikel 136, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=8&artikel=136&z=2026-01-01&g=2026-01-01).
+
+2. Het eerste lid is niet van toepassing op een besluit op grond van de [artikelen 52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=52&z=2026-01-01&g=2026-01-01), [53, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.4&artikel=53&z=2026-01-01&g=2026-01-01), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=54&z=2026-01-01&g=2026-01-01), [55, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2026-01-01&g=2026-01-01) of [56, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=56&z=2026-01-01&g=2026-01-01).
+
+##### Artikel 146
+
+*Wijzigt de Telecommunicatiewet.*
+
+##### Artikel 147
+
+*Wijzigt de Aanpassingswet invoering bachelor-masterstructuur.*
+
+##### Artikel 148
+
+*Wijzigt de Algemene wet bestuursrecht.*
+
+##### Artikel 149
+
+*Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.*
+
+##### Artikel 150
+
+*Wijzigt de Wet politiegegevens.*
+
+##### Artikel 151
+
+*Wijzigt het Wetboek van Strafrecht.*
+
+##### Artikel 152
+
+*Wijzigt de Ambtenarenwet.*
+
+##### Artikel 153
+
+*Wijzigt de Vreemdelingenwet 2000.*
+
+##### Artikel 154
+
+*Wijzigt de Wet bescherming persoonsgegevens.*
+
+##### Artikel 155
+
+*Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.*
+
+##### Artikel 156
+
+*Wijzigt de Wet Huis voor klokkenluiders.*
 
 ##### Artikel 156a
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 157
+
+*Wijzigt deze wet.*
 
 ##### Artikel 157a
 
 De [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) is niet van toepassing op de gegevens verwerkt in het kader van de uitvoering van deze wet en de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277).
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 158
+
+*Vervallen*
+
+##### Artikel 159
+
+*Wijzigt deze wet.*
+
+##### Artikel 160
+
+*Wijzigt deze wet.*
+
+##### Artikel 161
+
+*Wijzigt deze wet.*
+
+##### Artikel 162
+
+*Wijzigt de Comptabiliteitswet 2016.*
+
+##### Artikel 163
+
+*Wijzigt de Wet gegevensverwerking en meldplicht cybersecurity.*
+
+##### Artikel 164
+
+*Wijzigt de Wijzigingswet Telecommunicatiewet, enz.(aanpassing bewaarplicht telecommunicatiegegevens)(Kst. 34537).*
+
+##### Artikel 165
+
+[Artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.6&artikel=59&z=2026-01-01&g=2026-01-01) is niet van toepassing met betrekking tot door de diensten uitgeoefende bijzondere bevoegdheden als bedoeld in het eerste lid van dat artikel die hebben plaatsgevonden voor 29 mei 2002.
+
+##### Artikel 166
+
+*Vervallen*
+
+##### Artikel 167
+
+1. Onze Minister-President, Onze Minister van Algemene Zaken, zendt in overeenstemming met Onze betrokken ministers, binnen vijf jaar na inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+
+2. Onze betrokken Minister zendt binnen vijf jaar na inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over het functioneren van de onder hem ressorterende dienst.
+
+##### Artikel 168
+
+De [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) wordt ingetrokken.
+
+##### Artikel 169
+
+Na de inwerkingtreding van deze wet berust:
+
+- 1. het *Besluit aanwijzing onderwerpen ex artikel 6, tweede lid, onder d, en 7, tweede lid, onder e, Wet op de inlichtingen en veiligheidsdiensten 2002* op [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2026-01-01&g=2026-01-01), van deze wet;
+
+- 2. de *Regeling aanwijzing risicolanden* op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=2&paragraaf=2.5&artikel=14&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- 3. het *Besluit ex artikel 28 WIV 2002* op [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.5&sub-paragraaf=3.2.5.6&sub-paragraaf=3.2.5.6.5&artikel=55&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- 4. het *Aanwijzingsbesluit artikel 39 WIV 2002* op [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&sub-paragraaf=3.4.2.1&artikel=67&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- 5. het *Besluit van 22 juli 2002 tot vaststelling van de rechtspositie van de voorzitter en leden van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten* (Stb. 2002, 454) op [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=102&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- 6. het *Besluit van 14 mei 2003, houdende regels met betrekking tot benoeming, schorsing en ontslag van tot het secretariaat van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten behorende personen* (Stb. 2003, 258), op [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=7&paragraaf=7.1&artikel=103&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- 7. de *Aanwijzingsregeling Koninklijke marechaussee ex artikel 60, tweede lid, WIV 2002* op [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=6&paragraaf=6.3&artikel=91&z=2026-01-01&g=2026-01-01) van deze wet.
+
+##### Artikel 170
+
+Zij die op het tijdstip van inwerkingtreding van deze wet lid zijn van de commissie van toezicht, blijven voor de resterende duur van hun benoemingsperiode lid van de commissie van toezicht. Een van de leden, anders dan de voorzitter, wordt door de commissie aangewezen als voorzitter van de afdeling klachtbehandeling.
+
+##### Artikel 171
+
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
+
+2. Voor de bekendmaking van deze wet stelt Onze Minister-President, Minister van Algemene Zaken, de nummering van de artikelen, paragrafen en hoofdstukken van deze wet opnieuw vast, brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen en hoofdstukken daarmee in overeenstemming en vervangt hij de in deze wet voorkomende aanduiding «20..» door het jaartal van het Staatsblad waarin deze wet zal worden geplaatst.
+
+##### Artikel 172
+
+Deze wet wordt aangehaald als: Wet op de inlichtingen- en veiligheidsdiensten met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.

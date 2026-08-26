@@ -1,68 +1,42 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juli 2017, nr. HOenS/1188771 houdende voorschriften inzake stimulering open en online hoger onderwijs 2018–2022 (Regeling open en online hoger onderwijs 2018–2022)"
+citeertitel: "Regeling open en online hoger onderwijs 2018–2022"
 identifier: "BWBR0039848"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039848"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14088883"
-version_id: "24255152"
-internal_id: "C34834811"
-label_id: "14049914"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039848/2017-09-01/0"
-intitule_bron: "Stcrt.2017-43113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-07-12"
-intitule_published: "2017-07-28"
-intitule_in_force: "2017-07-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-43113"
-original_signed_date: "2017-07-12"
-original_published_date: "2017-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-43113"
-entry_into_force_date: "2017-09-01"
-jci_1_3: "jci1.3:c:BWBR0039848&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0039848&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Regeling open en online hoger onderwijs 2018–2022"
-signed_date: "2017-07-12"
-entry_into_force: "2017-09-01"
+publicatiedatum: 2017-09-01
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0039848"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juli 2017, nr. HOenS/1188771 houdende voorschriften inzake stimulering open en online hoger onderwijs 2018–2022 (Regeling open en online hoger onderwijs 2018–2022)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en het onderzoek op het gebied van landbouw en natuurlijke omgeving, de Minister van Onderwijs, Cultuur en Wetenschap mede namens de Minister van Economische Zaken;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en het onderzoek op het gebied van landbouw en natuurlijke omgeving, de Minister van Onderwijs, Cultuur en Wetenschap mede namens de Minister van Economische Zaken;
 
-- **instelling voor hoger onderwijs:**
+- *instelling voor hoger onderwijs:*
 
-- a. bekostigde instelling: instelling als bedoeld in [artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), en
+   - a. bekostigde instelling: instelling als bedoeld in [artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), en
 
-- b. niet bekostigde instelling: instelling als bedoeld in [artikel 1.1, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+   - b. niet bekostigde instelling: instelling als bedoeld in [artikel 1.1, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **open online onderwijs:** onderwijs dat volledig of voor een substantieel deel online plaatsvindt en waarvan in ieder geval de in het project ontwikkelde leermaterialen online beschikbaar zijn onder een open licentie die gebruik of hergebruik toestaat;
+- *open online onderwijs:* onderwijs dat volledig of voor een substantieel deel online plaatsvindt en waarvan in ieder geval de in het project ontwikkelde leermaterialen online beschikbaar zijn onder een open licentie die gebruik of hergebruik toestaat;
 
-- **open leermateriaal:** leermateriaal dat openbaar op een via internet toegankelijke locatie beschikbaar is onder een open licentie die gebruik of hergebruik toestaat;
+- *open leermateriaal:* leermateriaal dat openbaar op een via internet toegankelijke locatie beschikbaar is onder een open licentie die gebruik of hergebruik toestaat;
 
-- **vakcommunity:** instellingsoverstijgend samenwerkingsverband, gericht op hetzelfde vakgebied, domein of discipline en met gedeelde inhoudelijke expertise;
+- *vakcommunity:* instellingsoverstijgend samenwerkingsverband, gericht op hetzelfde vakgebied, domein of discipline en met gedeelde inhoudelijke expertise;
 
-- **tranche:** aanvraagronde;
+- *tranche:* aanvraagronde;
 
-- **SURF:** Coöperatie SURF U.A. waarin Nederlandse universiteiten, hogescholen, universitaire medische centra, onderzoeksinstellingen en mbo-instellingen samenwerken aan ICT-innovatie.
+- *SURF:* Coöperatie SURF U.A. waarin Nederlandse universiteiten, hogescholen, universitaire medische centra, onderzoeksinstellingen en mbo-instellingen samenwerken aan ICT-innovatie.
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -177,5 +151,3 @@ Voor zover het betreft subsidie aan niet bekostigde instellingen, wordt de subsi
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling open en online hoger onderwijs 2018–2022.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,53 +1,18 @@
 ---
 title: "Besluit van den 31sten Mei 1929, tot regeling van de overbrenging naar de Rijksarchief-bewaarplaatsen van de kerkelijke doop-, trouw- en begraafboeken, enz. dagteekenend van vóór de invoering van den burgerlijken stand en van de gedeelten der zoogenaamde gaardersarchieven, die aanteekeningen omtrent geboorten, trouwen, sterven en begraven bevatten, welke thans in de gemeentelijke archiefbewaarplaatsen berusten"
+citeertitel: "Besluit tot regeling van overbrenging naar Rijksarchiefbewaarplaatsen van de kerkelijke doop-, trouw-, en begraafboeken, dagtekenend van voor de invoering van de burgerlijke stand en gedeelten van gaardersarchieven die aantekeningen omtrent geboorten, trouwen, sterven en begraven bevatten"
 identifier: "BWBR0040535"
-country: "nl"
-rank: "amvb"
-publication_date: "1929-06-14"
-last_updated: "1929-06-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040535"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "14513793"
-version_id: "24841302"
-internal_id: "C35538281"
-label_id: "14472064"
-dtd_version: "2.0"
-original_entry_into_force: "1929-06-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040535/1929-06-14/0"
-intitule_bron: "Stb.1929-269"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1929-05-31"
-intitule_published: "1929-06-14"
-intitule_in_force: "1929-06-14"
-intitule_status: "goed"
-original_publication: "Stb.1929-269"
-original_signed_date: "1929-05-31"
-original_published_date: "1929-06-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1929-06-14"
-jci_1_3: "jci1.3:c:BWBR0040535&z=1929-06-14&g=1929-06-14"
-jci_1_0: "1.0:c:BWBR0040535&g=1929-06-14"
-citeertitel_status: "redactioneel"
-short_title: "Besluit tot regeling van overbrenging naar Rijksarchiefbewaarplaatsen van de kerkelijke doop-, trouw-, en begraafboeken, dagtekenend van voor de invoering van de burgerlijke stand en gedeelten van gaardersarchieven die aantekeningen omtrent geboorten, trouwen, sterven en begraven bevatten"
-signed_date: "1929-05-31"
-entry_into_force: "1929-06-14"
+publicatiedatum: 1929-06-14
+laatste_update: 1929-06-14
+status: geldig
+toestand: 1929-06-14
+bron: "https://wetten.overheid.nl/BWBR0040535"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van den 31sten Mei 1929, tot regeling van de overbrenging naar de Rijksarchief-bewaarplaatsen van de kerkelijke doop-, trouw- en begraafboeken, enz. dagteekenend van vóór de invoering van den burgerlijken stand en van de gedeelten der zoogenaamde gaardersarchieven, die aanteekeningen omtrent geboorten, trouwen, sterven en begraven bevatten, welke thans in de gemeentelijke archiefbewaarplaatsen berusten
-
-Op de gemeenschappelijke voordracht van Onzen Minister van Onderwijs, Kunsten en Wetenschappen en van Onzen Minister van Justitie van 18 Maart 1929, n°. 1298/4, afdeeling Kunsten en Wetenschappen, en van 22 Maart 1929, lste Afdeeling C, no. 914;
-
-Overwegende, dat het wenschelijk is, de kerkelijke doop-, trouw- en begraafboeken en de schepentrouwboeken, dagteekenend van vóór de invoering van den burgerlijken stand, en de gedeelten der zoogenaamde gaardersarchieven, die aanteekeningen omtrent geboorten, trouwen, sterven en begraven bevatten, welke thans in de gemeentelijke archiefbewaarplaatsen berusten, naar de Algemeene Rijksarchiefbewaarplaats te 's-Gravenhage en naar de Rijksarchiefbewaarplaatsen in de provinciën over te brengen;
-
-Gelet op artikel 19, tweede lid, van de Archiefwet 1918 (Staatsblad n°. 378), gelijk zij gewijzigd is bij de wet van 14 Mei 1928 (Staatsblad n°. 177);
-
-Den Raad van State gehoord (advies van 7 Mei 1929, n°. 33):
-
-Gelet op het nader gemeenschappelijk rapport van Onzen Minister van Onderwijs, Kunsten en Wetenschappen van 17 Mei 1929, n°. 2385, afdeeling Kunsten en Wetenschappen, en van Onzen Minister van Justitie van 27 Mei 1929, lste Afdeeling C, n°. 898;
-
-Hebben goedgevonden en verstaan:
-
-met intrekking van Ons besluit van 20 Juni 1919 (Staatsblad n°. 389), te bepalen als volgt:
 
 ##### Artikel 1
 
@@ -84,5 +49,3 @@ Onze Minister van Onderwijs, Kunsten en Wetenschappen is gemachtigd, om aan de R
 - d. aan den Algemeenen Rijksarchivaris en aan den Rijksarchivaris in de provincie, waartoe gemeente behoort, steeds toegang tot de bewaarplaats van die boeken en papieren te verleenen;
 
 - e. terstond mededeeling te doen aan Onzen voornoemden Minister van iedere vaststelling, wijziging of intrekking van een reglement voor de gemeentelijke archiefbewaarplaats of van eene instructie voor den gemeente-archivaris en van iedere benoeming, schorsing, ontslag of overlijden van een ambtenaar, behoorend tot het personeel van de gemeentelijke archiefbewaarplaats.
-
-Onze Ministers van Onderwijs, Kunsten en Wetenschappen en van Justitie zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State en de Algemeene Rekenkamer.

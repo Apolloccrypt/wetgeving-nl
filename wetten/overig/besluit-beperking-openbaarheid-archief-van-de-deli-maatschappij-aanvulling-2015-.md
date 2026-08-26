@@ -1,43 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid archief van de Deli Maatschappij, aanvulling 2015, nummer toegang 2.20.46"
 identifier: "BWBR0040217"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-11-23"
-last_updated: "2017-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040217"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14420503"
-version_id: "24656762"
-internal_id: "C35274621"
-label_id: "14381054"
-dtd_version: "2.0"
-original_entry_into_force: "2017-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040217/2017-11-23/0"
-intitule_bron: "Stcrt.2017-66575"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-02"
-intitule_published: "2017-11-22"
-intitule_in_force: "2017-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-66575"
-original_signed_date: "2017-11-02"
-original_published_date: "2017-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-66575"
-entry_into_force_date: "2017-11-23"
-jci_1_3: "jci1.3:c:BWBR0040217&z=2017-11-23&g=2017-11-23"
-jci_1_0: "1.0:c:BWBR0040217&g=2017-11-23"
-citeertitel_status: "redactioneel"
-signed_date: "2017-11-02"
-entry_into_force: "2017-11-23"
+publicatiedatum: 2017-11-23
+laatste_update: 2017-11-23
+status: geldig
+toestand: 2017-11-23
+bron: "https://wetten.overheid.nl/BWBR0040217"
+opgehaald: 2026-08-26
 ---
+
 # Besluit beperking openbaarheid archief van de Deli Maatschappij, aanvulling 2015, nummer toegang 2.20.46
-
-Gelet op [artikel 15, lid 1 onder a, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Besluit tot de volgende beperkingen aan de openbaarheid:
 
 ##### Artikel 1
 

@@ -5,11 +5,11 @@ identifier: "BWBR0052861"
 categorie: "Overig"
 soort: "beleidsregel"
 publicatiedatum: 2026-07-22
-laatste_update: 2026-07-22
+laatste_update: 2026-08-26
 status: geldig
-toestand: 2026-07-22
+toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0052861"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-26
 ---
 
 # Beleidsregel van de Staatssecretaris van Financiën van 10 juli 2026, kenmerk 2026-280814 betreffende de uitvoering van de brede ondersteuning in het buitenland overeenkomstig afdeling 2.4 van de Wet hersteloperatie toeslagen
@@ -30,11 +30,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - *minister:* de Minister van Financiën;
 
-- *ondersteuningsvraag:* formulering van de behoefte aan brede ondersteuning die passend is om de doelstellingen, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052861&hoofdstuk=3&artikel=3&z=2026-07-22&g=2026-07-22), te kunnen bereiken;
+- *ondersteuningsvraag:* formulering van de behoefte aan brede ondersteuning die passend is om de doelstellingen, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052861&hoofdstuk=3&artikel=3&z=2026-08-26&g=2026-08-26), te kunnen bereiken;
 
 - *OTB:* het Ondersteuningsteam Ouders in het Buitenland, gemandateerd door de minister;
 
-- *rechthebbende:* de rechthebbende als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052861&hoofdstuk=2&artikel=2&z=2026-07-22&g=2026-07-22) van deze beleidsregel;
+- *rechthebbende:* de rechthebbende als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052861&hoofdstuk=2&artikel=2&z=2026-08-26&g=2026-08-26) van deze beleidsregel;
 
 - *wet:* de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
@@ -42,7 +42,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2. Rechthebbende
 
-1. De minister kan ambtshalve brede ondersteuning aanbieden op de vijf leefgebieden aan een erkend gedupeerde aanvrager van kinderopvangtoeslag, diens partner, kind, pleegkind of voormalig pleegkind, aan diens ex-partner en diens partner, kind, pleegkind of voormalig pleegkind, en aan de nabestaanden van een overleden erkend gedupeerde aanvrager van kinderopvangtoeslag, die in het buitenland woonachtig zijn en voldoen aan de voorwaarden van de [Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
+1. De minister kan ambtshalve brede ondersteuning aanbieden op de vijf leefgebieden aan een erkend gedupeerde aanvrager van kinderopvangtoeslag, ten behoeve van die aanvrager, diens partner, kind, pleegkind of voormalig pleegkind, aan ten behoeve van de ex-partner van een gedupeerde aanvrager van kinderopvangtoeslag, en diens partner, kind, pleegkind of voormalig pleegkind, en aan de nabestaanden van een overleden erkend gedupeerde aanvrager van kinderopvangtoeslag, die in het buitenland woonachtig zijn en voldoen aan de voorwaarden van de [Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
 2. Voor het kind van een overleden aanvrager geldt, in afwijking van lid 1, dat de minister brede ondersteuning kan aanbieden op de vier leefgebieden: financiën, werk, wonen en zorg.
 
@@ -128,7 +128,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - d. of, en zo ja, welke, tegemoetkoming wordt verstrekt om de rechthebbende op passende, adequate en duurzame wijze in staat te stellen deze doelstellingen te bereiken.
 
-3. Het plan van aanpak kan naderhand worden gewijzigd als blijkt dat dit redelijk is om de doelstellingen op de leefgebieden in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052861&hoofdstuk=3&artikel=3&z=2026-07-22&g=2026-07-22) van deze beleidsregel te behalen.
+3. Het plan van aanpak kan naderhand worden gewijzigd als blijkt dat dit redelijk is om de doelstellingen op de leefgebieden in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052861&hoofdstuk=3&artikel=3&z=2026-08-26&g=2026-08-26) van deze beleidsregel te behalen.
 
 ##### Artikel 7. Remigratiewens en wijziging plan van aanpak remigratie
 

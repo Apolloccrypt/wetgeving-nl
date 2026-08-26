@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141577, tot de inrichting van de directie Toezicht, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017"
 identifier: "BWBR0039967"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-19"
-last_updated: "2024-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039967"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14165023"
-version_id: "24361542"
-internal_id: "C34958661"
-label_id: "14125894"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039967/2024-03-19/0"
-intitule_bron: "Stcrt.2017-50934"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-31"
-intitule_published: "2017-09-11"
-intitule_in_force: "2017-09-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-50934"
-original_signed_date: "2017-08-31"
-original_published_date: "2017-09-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-50934"
-entry_into_force_date: "2017-09-12"
-jci_1_3: "jci1.3:c:BWBR0039967&z=2024-03-19&g=2024-03-19"
-jci_1_0: "1.0:c:BWBR0039967&g=2024-03-19"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017"
-signed_date: "2017-08-31"
-entry_into_force: "2017-09-12"
+publicatiedatum: 2017-09-12
+laatste_update: 2024-03-19
+status: geldig
+toestand: 2024-03-19
+bron: "https://wetten.overheid.nl/BWBR0039967"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141577, tot de inrichting van de directie Toezicht, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017)
-
-Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,23 +20,23 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- **afdeling IKC:** de afdeling Inspectiebreed Kenniscentrum;
+- *afdeling IKC:* de afdeling Inspectiebreed Kenniscentrum;
 
-- **directeur:** de directeur van de directie Toezicht;
+- *directeur:* de directeur van de directie Toezicht;
 
-- **directie:** de directie Toezicht;
+- *directie:* de directie Toezicht;
 
-- **opdrachtgever:** de directeur, de programmamanager of de projectleider;
+- *opdrachtgever:* de directeur, de programmamanager of de projectleider;
 
-- **programmamanager:** de functionaris die in zijn rol opdrachtnemer is en verantwoordelijk is voor de ontwikkeling van één of meer programmaplannen en de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld, capaciteit, in het vastgestelde programmaplan;
+- *programmamanager:* de functionaris die in zijn rol opdrachtnemer is en verantwoordelijk is voor de ontwikkeling van één of meer programmaplannen en de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld, capaciteit, in het vastgestelde programmaplan;
 
-- **projectleider:** de functionaris die in zijn rol verantwoordelijk is voor de ontwikkeling en realisatie van één of meer projecten en de gestelde doelstellingen;
+- *projectleider:* de functionaris die in zijn rol verantwoordelijk is voor de ontwikkeling en realisatie van één of meer projecten en de gestelde doelstellingen;
 
-- **vakgroep:** een vakgroep die valt onder de directie Toezicht dan wel de directie Meldingen en Verzoeken;
+- *vakgroep:* een vakgroep die valt onder de directie Toezicht dan wel de directie Meldingen en Verzoeken;
 
-- **vakgroep MHC:** de vakgroep Major Hazard Control;
+- *vakgroep MHC:* de vakgroep Major Hazard Control;
 
-- **vakgroep P&P:** de vakgroep Programma- & Projectmanagement.
+- *vakgroep P&P:* de vakgroep Programma- & Projectmanagement.
 
 #### § 2. Organisatie
 
@@ -116,11 +90,11 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 - i. het behandelen van klachten, meldingen, signalen en verzoeken over het niet naleven van wet- en regelgeving door werkgevers en werknemers, voor zover niet behandeld door de directie Meldingen en Verzoeken:
 
-- 1°. op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen en de betaling van het minimumloon en de minimumvakantiebijslag. Hieronder valt in ieder geval het behandelen van verzoeken om een onderzoek als bedoeld in [artikel 10, eerste en tweede lid, van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
+   - 1° op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen en de betaling van het minimumloon en de minimumvakantiebijslag. Hieronder valt in ieder geval het behandelen van verzoeken om een onderzoek als bedoeld in [artikel 10, eerste en tweede lid, van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
 
-- 2°. op het gebied van arbeidstijden en arbeidsomstandigheden, met inbegrip van stralingsbescherming, gewasbeschermingsmiddelen en biociden, gevaarlijke werktuigen en stoffen en daaraan gerelateerd milieubeheer. Hieronder valt in ieder geval het behandelen van klachten, meldingen, signalen, verzoeken om onderzoek als bedoeld in [artikel 24, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), en verzoeken tot vrijstelling of ontheffing als bedoeld in [artikel 30 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
+   - 2° op het gebied van arbeidstijden en arbeidsomstandigheden, met inbegrip van stralingsbescherming, gewasbeschermingsmiddelen en biociden, gevaarlijke werktuigen en stoffen en daaraan gerelateerd milieubeheer. Hieronder valt in ieder geval het behandelen van klachten, meldingen, signalen, verzoeken om onderzoek als bedoeld in [artikel 24, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), en verzoeken tot vrijstelling of ontheffing als bedoeld in [artikel 30 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
 
-- 3°. op het gebied van arbeidsomstandigheden, met name op het terrein van risico’s op zware ongevallen.
+   - 3° op het gebied van arbeidsomstandigheden, met name op het terrein van risico’s op zware ongevallen.
 
 - j. het verrichten of laten verrichten van onderzoek bij arbeidsongevallen voor zover niet behandeld door de directie Meldingen en Verzoeken en het verrichten of laten verrichten van onderzoek bij arbeidsongevallen in bedrijven met een hoog risico op zware ongevallen;
 
@@ -131,54 +105,6 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 - m. het functioneel sturing geven aan projectleiders en projectsecretarissen bij het plannen, uitvoeren en evalueren van interventieprojecten;
 
 - n. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
-
-#### § 4. Bevoegdheden
-
-##### Artikel 4. Algemeen
-
-De programmamanagers en de projectleiders zijn bevoegd om namens een bewindspersoon besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
-
-##### Artikel 5. Machtiging effectuering stillegging in verband met recidive
-
-De onder de directeur en de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met toezicht, zijn gemachtigd om een beschikking tot stillegging van werkzaamheden in verband met recidive te effectueren door het treffen van de nodige maatregelen, het geven van de nodige aanwijzingen en het inroepen van de hulp van de sterke arm.
-
-##### Artikel 6. Mandaat openbaarmaking inspectiegegevens
-
-De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) en de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), zijn bevoegd om namens een bewindspersoon te besluiten tot openbaarmaking van het feit dat na een afgerond onderzoek geen overtreding is geconstateerd.
-
-##### Artikel 7. Volmacht programmamanagers, vakgroephoofden en afdelingshoofd
-
-1. De programmamanagers op tactisch niveau, de programmamanagers op operationeel niveau, de vakgroephoofden en het afdelingshoofd zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vaststelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende de ontwikkeling, uitvoering en verantwoording van programma’s en projecten.
-
-2. De vakgroephoofden en het afdelingshoofd zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
-
-- a. het opleiden van medewerkers van de eigen vakgroep binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
-
-- b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen vakgroep.
-
-##### Artikel 8. Plaatsvervanging
-
-1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
-
-2. Bij afwezigheid of verhindering van een programmamanager worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de programmamanager geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
-
-3. Bij afwezigheid of verhindering van het afdelingshoofd, het vakgroephoofd, de teamleider of de teammanager worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van het afdelingshoofd, het vakgroephoofd, de teamleider of de teammanager geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
-
-#### § 5. Slotbepalingen
-
-##### Artikel 9. Intrekking regelingen
-
-Het [Organisatie-, mandaat- en volmachtbesluit directie Arbeidsmarktfraude 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031925), het [Organisatie-, mandaat- en volmachtbesluit directie Arbeidsomstandigheden 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031937) en het [Organisatie-, mandaat- en volmachtbesluit directie Major Hazard Control 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031934) worden ingetrokken.
-
-##### Artikel 10. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
-
-##### Artikel 11. Citeertitel
-
-Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Verantwoordelijkheden vakgroephoofden
 
@@ -238,11 +164,11 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - b. de organisatie van een professionele thuisbasis voor de medewerkers en het vorm geven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
 
-- 1°. het bevorderen van de persoonlijke ontwikkeling;
+   - 1°. het bevorderen van de persoonlijke ontwikkeling;
 
-- 2°. het begeleiden van medewerkers met ziekteverzuim;
+   - 2°. het begeleiden van medewerkers met ziekteverzuim;
 
-- 3°. het voeren van functionerings- en personeelsgesprekken.
+   - 3°. het voeren van functionerings- en personeelsgesprekken.
 
 - c. het in het allocatieproces op dagelijkse basis leveren van de afgesproken kwantitatieve en kwalitatieve capaciteit aan programma’s en projecten en het oplossen van knelpunten rond de inzet van medewerkers;
 
@@ -262,41 +188,15 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - k. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
 
-- 1°. start-, functionerings- en personeelsgesprekken;
+   - 1°. start-, functionerings- en personeelsgesprekken;
 
-- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
+   - 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
 
 - l. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en dit vertalen naar nieuwe vakinhoudelijke producten en diensten;
 
-- m. vervallen;
+- m. *vervallen;*
 
 - n. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
-
-#### § 4. Bevoegdheden
-
-##### Artikel 6a. Volmacht en machtiging betreffende personeelsaangelegenheden
-
-1. Aan de vakgroephoofden, het afdelingshoofd, de teammanagers en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
-
-- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
-
-- b. het houden van personeelsgesprekken;
-
-- c. het beslissen over verlof van medewerkers;
-
-- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
-
-- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de CAO Rijk.
-
-2. In aanvulling op het eerste lid wordt in het geval een teammanager of een teamleider de beoordeling van een medewerker opmaakt, aan het vakgroephoofd of het afdelingshoofd dat boven de teammanager of de teamleider ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
-
-##### Artikel 7a. Volmacht teammanagers en teamleiders
-
-De teammanagers en teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 3d. Verantwoordelijkheden teamleiders
 
@@ -306,11 +206,11 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - b. de organisatie van een professionele thuisbasis voor de medewerkers en het vormgeven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
 
-- 1°. het bevorderen van de persoonlijke ontwikkeling;
+   - 1°. het bevorderen van de persoonlijke ontwikkeling;
 
-- 2°. het begeleiden van medewerkers met ziekteverzuim;
+   - 2°. het begeleiden van medewerkers met ziekteverzuim;
 
-- 3°. het voeren van functionerings- en personeelsgesprekken;
+   - 3°. het voeren van functionerings- en personeelsgesprekken;
 
 - c. het zicht houden op de voortgang van de realisatie van teamdoelen en de afgesproken resultaten, het leveren van producten en diensten conform de geldende kaders en het zo nodig bijsturen;
 
@@ -328,9 +228,9 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - j. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
 
-- 1°. start- en personeelsgesprekken;
+   - 1°. start- en personeelsgesprekken;
 
-- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
+   - 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
 
 - k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
 
@@ -374,13 +274,13 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - d. de volgende taken in verband met projecten:
 
-- 1°. het opstellen van het projectplan, het uitvoeren of doen uitvoeren van het projectplan, het opstellen of doen opstellen van projectrapportages;
+   - 1°. het opstellen van het projectplan, het uitvoeren of doen uitvoeren van het projectplan, het opstellen of doen opstellen van projectrapportages;
 
-- 2°. het behalen van resultaten op operationeel niveau;
+   - 2°. het behalen van resultaten op operationeel niveau;
 
-- 3°. de handhavingscorrespondentie betreffende projecten die de projectleider zelf uitvoert;
+   - 3°. de handhavingscorrespondentie betreffende projecten die de projectleider zelf uitvoert;
 
-- 4°. het zorgdragen voor de bij het project behorende communicatie;
+   - 4°. het zorgdragen voor de bij het project behorende communicatie;
 
 - e. het aansturen op een optimale bijdrage van het project aan de programmadoelen en het daartoe leggen van verbinding met andere projecten;
 
@@ -424,6 +324,66 @@ De afdeling IKC is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
+##### Artikel 4. Algemeen
+
+De programmamanagers en de projectleiders zijn bevoegd om namens een bewindspersoon besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
+
+##### Artikel 5. Machtiging effectuering stillegging in verband met recidive
+
+De onder de directeur en de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met toezicht, zijn gemachtigd om een beschikking tot stillegging van werkzaamheden in verband met recidive te effectueren door het treffen van de nodige maatregelen, het geven van de nodige aanwijzingen en het inroepen van de hulp van de sterke arm.
+
+##### Artikel 6. Mandaat openbaarmaking inspectiegegevens
+
+De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) en de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), zijn bevoegd om namens een bewindspersoon te besluiten tot openbaarmaking van het feit dat na een afgerond onderzoek geen overtreding is geconstateerd.
+
+##### Artikel 6a. Volmacht en machtiging betreffende personeelsaangelegenheden
+
+1. Aan de vakgroephoofden, het afdelingshoofd, de teammanagers en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
+
+- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
+
+- b. het houden van personeelsgesprekken;
+
+- c. het beslissen over verlof van medewerkers;
+
+- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
+
+- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de CAO Rijk.
+
+2. In aanvulling op het eerste lid wordt in het geval een teammanager of een teamleider de beoordeling van een medewerker opmaakt, aan het vakgroephoofd of het afdelingshoofd dat boven de teammanager of de teamleider ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
+
+##### Artikel 7. Volmacht programmamanagers, vakgroephoofden en afdelingshoofd
+
+1. De programmamanagers op tactisch niveau, de programmamanagers op operationeel niveau, de vakgroephoofden en het afdelingshoofd zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vaststelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende de ontwikkeling, uitvoering en verantwoording van programma’s en projecten.
+
+2. De vakgroephoofden en het afdelingshoofd zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
+
+- a. het opleiden van medewerkers van de eigen vakgroep binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
+
+- b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen vakgroep.
+
+##### Artikel 7a. Volmacht teammanagers en teamleiders
+
+De teammanagers en teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+
+##### Artikel 8. Plaatsvervanging
+
+1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+
+2. Bij afwezigheid of verhindering van een programmamanager worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de programmamanager geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+
+3. Bij afwezigheid of verhindering van het afdelingshoofd, het vakgroephoofd, de teamleider of de teammanager worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van het afdelingshoofd, het vakgroephoofd, de teamleider of de teammanager geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+
 #### § 5. Slotbepalingen
 
-Deze regeling zal in de Staatscourant worden geplaatst.
+##### Artikel 9. Intrekking regelingen
+
+Het [Organisatie-, mandaat- en volmachtbesluit directie Arbeidsmarktfraude 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031925), het [Organisatie-, mandaat- en volmachtbesluit directie Arbeidsomstandigheden 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031937) en het [Organisatie-, mandaat- en volmachtbesluit directie Major Hazard Control 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031934) worden ingetrokken.
+
+##### Artikel 10. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
+
+##### Artikel 11. Citeertitel
+
+Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017.

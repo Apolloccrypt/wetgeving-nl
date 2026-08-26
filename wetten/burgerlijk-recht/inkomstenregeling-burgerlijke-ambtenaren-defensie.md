@@ -2,19 +2,16 @@
 title: "Inkomstenregeling burgerlijke ambtenaren defensie"
 identifier: "BWBR0039881"
 categorie: "Burgerlijk recht"
-publicatiedatum: 2026-07-18
-laatste_update: 2026-07-24
+soort: "ministeriele-regeling"
+publicatiedatum: 2005-05-11
+laatste_update: 2026-07-18
 status: geldig
+toestand: 2026-07-18
 bron: "https://wetten.overheid.nl/BWBR0039881"
+opgehaald: 2026-08-26
 ---
 
 # Inkomstenregeling burgerlijke ambtenaren defensie
-
-De Staatssecretaris van Defensie
-
-Gelet op [artikel 30c van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30c) en [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=52), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=57), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=59) en [60 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60);
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -22,13 +19,13 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- a. **IBBAD:** het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191)
+- a. *IBBAD:* het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191)
 
-- b. **groep 1:** de ambtenaar met een hoger salaris dan dat van een sergeant-majoor van de Koninklijke landmacht of de Koninklijke luchtmacht met een salarisnummer 19;
+- b. *groep 1:* de ambtenaar met een hoger salaris dan dat van een sergeant-majoor van de Koninklijke landmacht of de Koninklijke luchtmacht met een salarisnummer 19;
 
-- c. **groep 2:** de ambtenaar met een hoger salaris dan dat van een korporaal der eerste klasse van de Koninklijke landmacht of de Koninklijke luchtmacht met een salarisnummer 7, maar welk salaris niet hoger is dan dat van een sergeant-majoor van de Koninklijke landmacht of de Koninklijke luchtmacht met een salarisnummer 19;
+- c. *groep 2:* de ambtenaar met een hoger salaris dan dat van een korporaal der eerste klasse van de Koninklijke landmacht of de Koninklijke luchtmacht met een salarisnummer 7, maar welk salaris niet hoger is dan dat van een sergeant-majoor van de Koninklijke landmacht of de Koninklijke luchtmacht met een salarisnummer 19;
 
-- d. **groep 3:** de ambtenaar die niet behoort tot groep 1 of groep 2.
+- d. *groep 3:* de ambtenaar die niet behoort tot groep 1 of groep 2.
 
 ##### Artikel 2. Commandant
 
@@ -74,47 +71,47 @@ Het pensioengevend inkomen bestaat uit:
 
 1. In dit artikel wordt verstaan onder:
 
-- **categorie A:**
+- *categorie A:*
 
-  - a. het onschadelijk maken van explosieven – munitie daaronder begrepen – die door welke oorzaak dan ook in een gevaarlijke toestand zijn komen te verkeren of waarvan wordt aangenomen dat zij zich in een gevaarlijke toestand bevinden; daaronder wordt niet mede verstaan het door middel van een vernietigingslading doen springen van niet-geëxplodeerde munitie bij schietoefeningen;
+   - a. het onschadelijk maken van explosieven – munitie daaronder begrepen – die door welke oorzaak dan ook in een gevaarlijke toestand zijn komen te verkeren of waarvan wordt aangenomen dat zij zich in een gevaarlijke toestand bevinden; daaronder wordt niet mede verstaan het door middel van een vernietigingslading doen springen van niet-geëxplodeerde munitie bij schietoefeningen;
 
-  - b. het gereedmaken van gevaarlijke explosieven of munitie voor vernietiging;
+   - b. het gereedmaken van gevaarlijke explosieven of munitie voor vernietiging;
 
-  - c. het vervoeren van explosieven, bedoeld onder a, indien daarbij ontploffingsgevaar bestaat.
+   - c. het vervoeren van explosieven, bedoeld onder a, indien daarbij ontploffingsgevaar bestaat.
 
-- **categorie B:**
+- *categorie B:*
 
-  - a. renovatiewerkzaamheden aan eigen munitie of munitie van bekende samenstelling, omvattende:
+   - a. renovatiewerkzaamheden aan eigen munitie of munitie van bekende samenstelling, omvattende:
 
-    - 1°. het verwijderen van niet afgevuurde ontstekingsdoppen uit hulzen;
+      - 1°. het verwijderen van niet afgevuurde ontstekingsdoppen uit hulzen;
 
-    - 2°. het plaatsen van ontstekingsdoppen in hulzen;
+      - 2°. het plaatsen van ontstekingsdoppen in hulzen;
 
-    - 3°. het verwijderen van de voortdrijvende lading uit hulzen;
+      - 3°. het verwijderen van de voortdrijvende lading uit hulzen;
 
-    - 4°. het plaatsen van de voortdrijvende lading in hulzen;
+      - 4°. het plaatsen van de voortdrijvende lading in hulzen;
 
-    - 5°. het depatorneren van patroonmunitie;
+      - 5°. het depatorneren van patroonmunitie;
 
-    - 6°. het patroneren van patroonmunitie;
+      - 6°. het patroneren van patroonmunitie;
 
-    - 7°. het monteren van munitie, gevuld met springstof, rooksas, lichtsas of brandsas;
+      - 7°. het monteren van munitie, gevuld met springstof, rooksas, lichtsas of brandsas;
 
-    - 8°. het verwijderen van buizen of ontstekingsinrichtingen van munitie, indien dit op andere wijze dan met de normale munitie moet geschieden;
+      - 8°. het verwijderen van buizen of ontstekingsinrichtingen van munitie, indien dit op andere wijze dan met de normale munitie moet geschieden;
 
-    - 9°. het demonteren van buizen of ontstekingsinrichtingen;
+      - 9°. het demonteren van buizen of ontstekingsinrichtingen;
 
-    - 10°. het schoonstralen met staalgrit van munitie, gevuld met springstof, rooksas, lichtsas of brandsas;
+      - 10°. het schoonstralen met staalgrit van munitie, gevuld met springstof, rooksas, lichtsas of brandsas;
 
-    - 11°. het verwijderen van springstof, rooksas, lichtsas of brandsas uit munitie door middel van branden, stomen, steken, spoelen of schrappen;
+      - 11°. het verwijderen van springstof, rooksas, lichtsas of brandsas uit munitie door middel van branden, stomen, steken, spoelen of schrappen;
 
-    - 12°. het boren, zagen, afdraaien of persen van springstof, rooksas, lichtsas of brandsas;
+      - 12°. het boren, zagen, afdraaien of persen van springstof, rooksas, lichtsas of brandsas;
 
-  - b. onderzoekingswerkzaamheden aan eigen munitie of munitie van bekende samenstelling, waarbij tot gehele of gedeeltelijke demontage moet worden overgegaan.
+   - b. onderzoekingswerkzaamheden aan eigen munitie of munitie van bekende samenstelling, waarbij tot gehele of gedeeltelijke demontage moet worden overgegaan.
 
-2. De ambtenaar die in opdracht van de commandant tot categorie A behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, tweede lid’, van de Inkomstenregeling regeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19)en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2026-07-18&g=2026-07-18).
+2. De ambtenaar die in opdracht van de commandant tot categorie A behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, tweede lid’, van de Inkomstenregeling regeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19)en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2026-07-18&g=2026-07-18).
 
-3. De ambtenaar die in opdracht van de commandant tot categorie B behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, vierde lid’, van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19) en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2026-07-18&g=2026-07-18).
+3. De ambtenaar die in opdracht van de commandant tot categorie B behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, vierde lid’, van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19) en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2026-07-18&g=2026-07-18).
 
 4. Aanspraak op de toelage, bedoeld in het derde lid, heeft ook de ambtenaar die zich in opdracht van de commandant in een ruimte bevindt waarin te zelfder tijd tot de in het eerste lid behorende werkzaamheden worden verricht, indien dat met het oog op die werkzaamheden noodzakelijk is.
 
@@ -122,25 +119,25 @@ Het pensioengevend inkomen bestaat uit:
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **adviseur arbeidsomstandigheden:** de functionaris, belast met de adviestaak ten aanzien van arbeidsomstandigheden bij het Defensieonderdeel;
+- a. *adviseur arbeidsomstandigheden:* de functionaris, belast met de adviestaak ten aanzien van arbeidsomstandigheden bij het Defensieonderdeel;
 
-- b. **bezwarende arbeidsomstandigheden:** arbeidsomstandigheden met één of meer bezwarende omstandigheden van het type:
+- b. *bezwarende arbeidsomstandigheden:* arbeidsomstandigheden met één of meer bezwarende omstandigheden van het type:
 
-  - (1). Huid- of slijmvliesirriterende stoffen: werken met stoffen die irritatie aan huid of slijmvlies geven.
+   - (1) Huid- of slijmvliesirriterende stoffen: werken met stoffen die irritatie aan huid of slijmvlies geven.
 
-  - (2). Verontreinigingen: werken met stoffen die huidverontreiniging geven en niet direct afwasbaar zijn.
+   - (2) Verontreinigingen: werken met stoffen die huidverontreiniging geven en niet direct afwasbaar zijn.
 
-  - (3). Afkeer: werken in een omgeving waarbij sterk onaangename geuren worden ingeademd, of werken met onaangenaam aandoende of sterke afkeer oproepende materialen;
+   - (3) Afkeer: werken in een omgeving waarbij sterk onaangename geuren worden ingeademd, of werken met onaangenaam aandoende of sterke afkeer oproepende materialen;
 
-  - (4). Hitte en koude: het verrichten van werkzaamheden waarbij men langdurig is blootgesteld aan een zeer onaangenaam hoge of lage temperatuur of aan sterke temperatuurwisselingen;
+   - (4) Hitte en koude: het verrichten van werkzaamheden waarbij men langdurig is blootgesteld aan een zeer onaangenaam hoge of lage temperatuur of aan sterke temperatuurwisselingen;
 
-  - (5). Lawaai: werken in situaties waarbij men is blootgesteld aan een zodanig aanhoudend lawaai dat onderling contact nauwelijks mogelijk is en/of de geluidsterkte gelijk is aan of groter is dan 80 db A;
+   - (5) Lawaai: werken in situaties waarbij men is blootgesteld aan een zodanig aanhoudend lawaai dat onderling contact nauwelijks mogelijk is en/of de geluidsterkte gelijk is aan of groter is dan 80 db A;
 
-  - (6). Trillingen: het werken met sterk trillende apparatuur;
+   - (6) Trillingen: het werken met sterk trillende apparatuur;
 
-  - (7). Hinderlijke beschermingsmiddelen: het werken met beschermingskleding of -middelen die zeer hinderlijk zijn, bijv. doordat deze een belemmering vormen voor de normale ademhaling, dan wel een ernstige belemmering vormen voor huidoppervlakte-uitwaseming of bewegingsmogelijkheden;
+   - (7) Hinderlijke beschermingsmiddelen: het werken met beschermingskleding of -middelen die zeer hinderlijk zijn, bijv. doordat deze een belemmering vormen voor de normale ademhaling, dan wel een ernstige belemmering vormen voor huidoppervlakte-uitwaseming of bewegingsmogelijkheden;
 
-  - (8). Persoonlijk risico/gevaar: het werken onder omstandigheden die een verhoogd risico/gevaar voor de persoon meebrengen.
+   - (8) Persoonlijk risico/gevaar: het werken onder omstandigheden die een verhoogd risico/gevaar voor de persoon meebrengen.
 
 2. Het hoofd defensieonderdeel kent een toelage bezwarende arbeidsomstandigheden toe aan de ambtenaar die werkzaamheden verricht onder bezwarende arbeidsomstandigheden op basis van het aantal uren gedurende welke onder die omstandigheden is gewerkt. Toekenning vindt plaats indien alle redelijkerwijs mogelijke preventieve maatregelen zijn genomen om de bezwarende omstandigheid zoveel mogelijk te voorkomen.
 
@@ -198,7 +195,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 ##### Artikel 6. Duiktoelage
 
-De ambtenaar die als duiker, leerling-duiker of duikmedicus primair of als neventaak is aangesteld op dan wel in opleiding is voor een functie waarvoor een eindkwalificatie voor duikarbeid is vereist, heeft aanspraak op een maandelijkse duiktoelage met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend). De eindkwalificatie die de ambtenaar bezit of waar deze voor in opleiding is, bepaalt de hoogte van de toelage.
+De ambtenaar die als duiker, leerling-duiker of duikmedicus primair of als neventaak is aangesteld op dan wel in opleiding is voor een functie waarvoor een eindkwalificatie voor duikarbeid is vereist, heeft aanspraak op een maandelijkse duiktoelage met toepassing van [tabel 14 van de Inkomstenregeling militairen](https://wetten.overheid.nl/BWBR0039974). De eindkwalificatie die de ambtenaar bezit of waar deze voor in opleiding is, bepaalt de hoogte van de toelage.
 
 ##### Artikel 6a. Afbouwtoelage duiken
 
@@ -216,15 +213,15 @@ De ambtenaar die als duiker, leerling-duiker of duikmedicus primair of als neven
 
 ##### Artikel 6b. Toelage verblijf recompressietoestel
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Toelage meerdaagse dienstreis ZZF
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **dienstreis:** een dienstreis in de zin van [artikel 1 van het Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=1);
+- a. *dienstreis:* een dienstreis in de zin van [artikel 1 van het Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=1);
 
-- b. **ZZF-dag:** een dag als bedoeld in [artikel 31g, eerste en tweede lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=31g).
+- b. *ZZF-dag:* een dag als bedoeld in [artikel 31g, eerste en tweede lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=31g).
 
 2. De commandant kent een toelage meerdaagse dienstreis ZZF toe aan de ambtenaar die in vaste dienst is aangesteld en die een dienstreis maakt, indien:
 
@@ -234,41 +231,41 @@ Vervallen
 
 - c. op de ZZF-dag minimaal drie aaneengesloten uren daadwerkelijk wordt gereisd.
 
-3. De ambtenaar heeft aanspraak op € 55,74 voor iedere ZZF-dag waarop aan de in het tweede lid bedoelde voorwaarden zijn voldaan.
+3. De ambtenaar heeft aanspraak op € 55,74 voor iedere ZZF-dag waarop aan de in het tweede lid bedoelde voorwaarden zijn voldaan.
 
 ##### Artikel 7a. Vlieggeld
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **activiteiten:**
+- a. *activiteiten:*
 
-  - 1°. het uitvoeren van inspecties of kleine reparaties aan het vliegtuig bij tussenlandingen;
+   - 1°. het uitvoeren van inspecties of kleine reparaties aan het vliegtuig bij tussenlandingen;
 
-  - 2°. het ophalen van met het vliegtuig te vervoeren zieken, gewonden of hulpbehoevenden, alsmede van stoffelijke overschotten of van arrestanten;
+   - 2°. het ophalen van met het vliegtuig te vervoeren zieken, gewonden of hulpbehoevenden, alsmede van stoffelijke overschotten of van arrestanten;
 
-  - 3°. het beladen en ontladen van het vliegtuig;
+   - 3°. het beladen en ontladen van het vliegtuig;
 
-  - 4°. het verlenen van assistentie bij het redden van in nood verkerenden;
+   - 4°. het verlenen van assistentie bij het redden van in nood verkerenden;
 
-- b. **dienstvluchten onder bijzondere omstandigheden:**
+- b. *dienstvluchten onder bijzondere omstandigheden:*
 
-  - 1°. de dienstvluchten die in vliegtuigen met straalvoortstuwing worden verricht;
+   - 1°. de dienstvluchten die in vliegtuigen met straalvoortstuwing worden verricht;
 
-  - 2°. de dienstvluchten met een helikopter tijdens een opsporings- en reddingsactie;
+   - 2°. de dienstvluchten met een helikopter tijdens een opsporings- en reddingsactie;
 
-  - 3°. de dienstvluchten met een vliegtuig, waarbij wordt gestart van of geland op een schip buitengaats.
+   - 3°. de dienstvluchten met een vliegtuig, waarbij wordt gestart van of geland op een schip buitengaats.
 
 2. De ambtenaar die in opdracht van de commandant tijdens een dienstvlucht werkzaamheden in de lucht verricht of op grond van een vluchtopdracht activiteiten verricht, heeft aanspraak op vlieggeld.
 
-3. Het vlieggeld waarop per uur aanspraak bestaat, wordt vastgesteld door het basisbedrag, bedoeld in [tabel 11 van de Inkomstenregeling militairen](onbekend), te vermenigvuldigen met een waarderingsfactor van 0,85.
+3. Het vlieggeld waarop per uur aanspraak bestaat, wordt vastgesteld door het basisbedrag, bedoeld in [tabel 11 van de Inkomstenregeling militairen](https://wetten.overheid.nl/BWBR0039974), te vermenigvuldigen met een waarderingsfactor van 0,85.
 
 4. De ambtenaar die anders dan als passagier een dienstvlucht maakt onder naar het oordeel van het hoofd defensieonderdeel bijzondere omstandigheden, heeft – naast de aanspraken op grond van het tweede lid – aanspraak op bijzonder vlieggeld.
 
-5. Het bijzonder vlieggeld waarop per uur aanspraak bestaat, wordt vastgesteld door het basisbedrag, bedoeld in [tabel 11 van de Inkomstenregeling militairen](onbekend), te vermenigvuldigen met een waarderingsfactor van 1,2.
+5. Het bijzonder vlieggeld waarop per uur aanspraak bestaat, wordt vastgesteld door het basisbedrag, bedoeld in [tabel 11 van de Inkomstenregeling militairen](https://wetten.overheid.nl/BWBR0039974), te vermenigvuldigen met een waarderingsfactor van 1,2.
 
 6. Het vlieggeld en het bijzonder vlieggeld waarop de ambtenaar aanspraak heeft, worden vastgesteld per maand, waarbij de totale tijdsduur van de dienstvluchten naar boven wordt afgerond op een vol kwartier.
 
-7. De maximumbedragen die per kwartaal aan vlieggeld en bijzonder vlieggeld mogen worden genoten, zijn opgenomen in [tabel 13 van de Inkomstenregeling militairen](onbekend).
+7. De maximumbedragen die per kwartaal aan vlieggeld en bijzonder vlieggeld mogen worden genoten, zijn opgenomen in [tabel 13 van de Inkomstenregeling militairen](https://wetten.overheid.nl/BWBR0039974).
 
 8. Het hoofd defensieonderdeel kan maxima stellen aan het aantal vlieguren dat wordt vergolden met vlieggeld of bijzonder vlieggeld.
 
@@ -280,7 +277,7 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 ##### Artikel 8. Diensttijdgratificatie
 
-1. De commandant kent aan de ambtenaar een diensttijdgratificatie toe bij het bereiken van een diensttijd bij de overheid van 12½, 25, 40 of 50 jaar trouwe dienst. De gratificatie bedraagt 25% van de maandelijkse bezoldiging bij een 12½-jarig ambtsjubileum, 75% van de maandelijkse bezoldiging bij een 25-jarig ambtsjubileum en 100% van de maandelijkse bezoldiging bij een 40- en bij een 50-jarig ambtsjubileum, naar boven af te ronden op een veelvoud van € 2,50.
+1. De commandant kent aan de ambtenaar een diensttijdgratificatie toe bij het bereiken van een diensttijd bij de overheid van 12½, 25, 40 of 50 jaar trouwe dienst. De gratificatie bedraagt 25% van de maandelijkse bezoldiging bij een 12½-jarig ambtsjubileum, 75% van de maandelijkse bezoldiging bij een 25-jarig ambtsjubileum en 100% van de maandelijkse bezoldiging bij een 40- en bij een 50-jarig ambtsjubileum, naar boven af te ronden op een veelvoud van € 2,50.
 
 2. Indien aan de ambtenaar bij een hem uit een eerdere betrekking verleend ontslag een proportionele diensttijdgratificatie is toegekend, wordt de in het eerste lid bedoelde gratificatie verminderd met het bedrag van die proportionele diensttijdgratificatie.
 
@@ -290,17 +287,17 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 5. Als diensttijd voor de toekenning van een diensttijdgratificatie geldt de tijd, doorgebracht:
 
-- a. in een burgerlijke betrekking bij de Nederlandse overheid, waaronder mede begrepen de NV Nederlandse Spoorwegen (tot 24 december 1992) en de voormalige NV ‘Artillerie-Inrichtingen’;
+- a. in een burgerlijke betrekking bij de Nederlandse overheid, waaronder mede begrepen de NV Nederlandse Spoorwegen (tot 24 december 1992) en de voormalige NV ‘Artillerie-Inrichtingen’;
 
-- b. in een betrekking (vóór 1 januari 1966) als bedoeld in artikel 4, eerste lid van de Pensioenwet 1922, een betrekking als bedoeld in artikel B2 van de Algemene burgerlijke pensioenwet of een betrekking als bedoeld in artikel B3 van evengenoemde wet, alsmede (vóór en na 1 januari 1966) in een betrekking als bedoeld in artikel U2 van die wet;
+- b. in een betrekking (vóór 1 januari 1966) als bedoeld in artikel 4, eerste lid van de Pensioenwet 1922, een betrekking als bedoeld in artikel B2 van de Algemene burgerlijke pensioenwet of een betrekking als bedoeld in artikel B3 van evengenoemde wet, alsmede (vóór en na 1 januari 1966) in een betrekking als bedoeld in artikel U2 van die wet;
 
-- c. in burgerlijke dienst bij de overheid in de landen Suriname (tot 25 november 1975), de Nederlandse Antillen en Aruba, bij de voormalige gouvernementen van Suriname, Curaçao en Nieuw-Guinea en (tot 27 december 1949) bij de voormalige Indische Pensioenfondsen;
+- c. in burgerlijke dienst bij de overheid in de landen Suriname (tot 25 november 1975), de Nederlandse Antillen en Aruba, bij de voormalige gouvernementen van Suriname, Curaçao en Nieuw-Guinea en (tot 27 december 1949) bij de voormalige Indische Pensioenfondsen;
 
 - d. in dienst bij het niet-openbaar onderwijs in de onder c genoemde landen en voormalige overzeese rijksdelen, voor zover zulks de ambtenaar onder de werkingssfeer van een overheidspensioenregeling bracht of zou hebben gebracht indien hij in vaste dienst was geweest;
 
-- e. tot en met 31 december 1954 in dienst van de Republiek Indonesië, voor zover die tijd door de [Garantiewet Burgerlijk Overheidspersoneel Indonesië](https://wetten.overheid.nl/jci1.3:c:BWBR0002060) wordt bestreken;
+- e. tot en met 31 december 1954 in dienst van de Republiek Indonesië, voor zover die tijd door de [Garantiewet Burgerlijk Overheidspersoneel Indonesië](https://wetten.overheid.nl/jci1.3:c:BWBR0002060) wordt bestreken;
 
-- f. in Nederlandse militaire dienst of daarmee voor de toepassing van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040) gelijkgestelde, waaronder begrepen dienst bij het voormalig KNIL en de troepen in Suriname (tot 25 november 1975) en de Nederlandse Antillen en Aruba;
+- f. in Nederlandse militaire dienst of daarmee voor de toepassing van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040) gelijkgestelde, waaronder begrepen dienst bij het voormalig KNIL en de troepen in Suriname (tot 25 november 1975) en de Nederlandse Antillen en Aruba;
 
 - g. als volontair met een volledige dagtaak;
 
@@ -372,9 +369,9 @@ het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de 
 
 6. De basisbedragen zijn:
 
-- a. voor Nederland: € 3,52;
+- a. voor Nederland: € 3,52;
 
-- b. voor de overige landen: € 7,72.
+- b. voor de overige landen: € 7,72.
 
 ##### Artikel 12. Tegemoetkoming in de kosten van recepties
 
@@ -384,17 +381,17 @@ het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de 
 
 - b. het aan hem toekennen van een diensttijdgratificatie;
 
-- c. zijn afscheid in verband met verandering van werkkring, waarbij als voorwaarde geldt dat hij ten minste 12½ achtereenvolgende jaren bij het ministerie, een onderdeel, eenheid, kazerne of dienst werkzaam is geweest, heeft aanspraak op een éénmalige tegemoetkoming in de kosten, tot een maximumbedrag van € 126,92.
+- c. zijn afscheid in verband met verandering van werkkring, waarbij als voorwaarde geldt dat hij ten minste 12½ achtereenvolgende jaren bij het ministerie, een onderdeel, eenheid, kazerne of dienst werkzaam is geweest, heeft aanspraak op een éénmalige tegemoetkoming in de kosten, tot een maximumbedrag van € 126,92.
 
-2. De ambtenaar die met toestemming van het hoofd defensieonderdeel voor de gelegenheden bedoeld in het eerste lid, functionarissen uitnodigt die werkzaam zijn buiten het eigen defensieonderdeel waarmee hij, uit hoofde van zijn functie, veelvuldige en intensieve zakelijke contacten onderhoudt, kan aanspraak maken op een tegemoetkoming in de daaraan verbonden kosten tot een maximumbedrag van € 8,65 per genodigde.
+2. De ambtenaar die met toestemming van het hoofd defensieonderdeel voor de gelegenheden bedoeld in het eerste lid, functionarissen uitnodigt die werkzaam zijn buiten het eigen defensieonderdeel waarmee hij, uit hoofde van zijn functie, veelvuldige en intensieve zakelijke contacten onderhoudt, kan aanspraak maken op een tegemoetkoming in de daaraan verbonden kosten tot een maximumbedrag van € 8,65 per genodigde.
 
 ##### Artikel 13. Maaltijdvergoeding bij overwerk
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **een maaltijd:** een eenvoudige warme maaltijd, bestaande uit ten minste een hoofdschotel;
+- a. *een maaltijd:* een eenvoudige warme maaltijd, bestaande uit ten minste een hoofdschotel;
 
-- b. **overwerk:** hetgeen daaronder wordt verstaan in [artikel 49 van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=49).
+- b. *overwerk:* hetgeen daaronder wordt verstaan in [artikel 49 van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=49).
 
 2. Indien de dagelijkse werktijd van de ambtenaar op de dag waarop overwerk wordt verricht, met ten minste twee overwerkuren wordt verlengd en het dienstbelang naar het oordeel van de commandant dientengevolge niet toelaat, dat hij zijn maaltijd op de hiervoor bestemde tijd op de voor hem gebruikelijke plaats nuttigt, gelden de in de volgende leden vermelde regels.
 
@@ -420,23 +417,23 @@ het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de 
 
 ##### Artikel 14a. Internetkostenvergoeding
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14b. Tegemoetkoming in de extra kosten voor zorg voor jonge kinderen tijdens inzet
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **inzet:** een aaneengesloten periode van tenminste één maand van operationele inzet dan wel varen, vliegen of oefenen;
+- a. *inzet:* een aaneengesloten periode van tenminste één maand van operationele inzet dan wel varen, vliegen of oefenen;
 
-- b. **zorgplicht:** de duurzame verzorging en opvoeding van een kind als eigen kind, waarbij de ambtenaar volgens de gemeentelijke basisadministratie op hetzelfde adres woont als dat kind;
+- b. *zorgplicht:* de duurzame verzorging en opvoeding van een kind als eigen kind, waarbij de ambtenaar volgens de gemeentelijke basisadministratie op hetzelfde adres woont als dat kind;
 
-- c. **voorzieningen:** maatwerkoplossingen voor knelpunten in de gezinssituatie.
+- c. *voorzieningen:* maatwerkoplossingen voor knelpunten in de gezinssituatie.
 
 2. De ambtenaar met een zorgplicht kan een aanvraag indienen bij de commandant voor financiële bijstand bij het treffen van voorzieningen tijdens inzet, mits het kind waarvoor de zorgplicht geldt de leeftijd van vijf jaar nog niet heeft bereikt.
 
 3. De ambtenaar met een zorgplicht heeft aanspraak op een tegemoetkoming in de noodzakelijke extra kosten voor het treffen van voorzieningen, als bedoeld in het tweede lid, voor zover hiervoor niet al op basis van de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) een tegemoetkoming wordt verstrekt.
 
-4. Het maximumbedrag voor de tegemoetkoming, genoemd in het derde lid, bedraagt per maand een bedrag dat berekend wordt als het product van het aantal kinderen dat de leeftijd van vijf jaar nog niet heeft bereikt en het bedrag van € 150 netto. Het genoemde bedrag geldt na aftrek van de loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die in voorkomend geval zijn verschuldigd en voor rekening van Defensie komen.
+4. Het maximumbedrag voor de tegemoetkoming, genoemd in het derde lid, bedraagt per maand een bedrag dat berekend wordt als het product van het aantal kinderen dat de leeftijd van vijf jaar nog niet heeft bereikt en het bedrag van € 150 netto. Het genoemde bedrag geldt na aftrek van de loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die in voorkomend geval zijn verschuldigd en voor rekening van Defensie komen.
 
 5. Dit artikel is van overeenkomstige toepassing op de ambtenaar, die is belast met mantelzorg voor zijn echtgenote of echtgenoot alsmede diegene die hieronder volgens [artikel 4 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=4) wordt verstaan of de kinderen waarvoor de ambtenaar duurzaam de verzorging en opvoeding op zich heeft genomen.
 
@@ -450,25 +447,25 @@ De berekeningsbasis als bedoeld in [artikel 61, eerste lid, van het IBBAD](https
 
 ##### Artikel 16. Kost en inwoning
 
-1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van kost, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 165,34 per maand.
+1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van kost, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 165,34 per maand.
 
-2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van inwoning, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 321,31 per maand.
+2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van inwoning, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 321,31 per maand.
 
-3. Het verschuldigde bedrag voor kost voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 143,52 per maand.
+3. Het verschuldigde bedrag voor kost voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 143,52 per maand.
 
-4. Het verschuldigde bedrag voor inwoning voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 219,14 per maand.
+4. Het verschuldigde bedrag voor inwoning voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 219,14 per maand.
 
-5. Bij geoorloofde afwezigheid wordt het bedrag dat voor het genot van kost verschuldigd zou zijn voor elke dag dat dit emolument niet wordt genoten, verminderd met € 4,78 per dag.
+5. Bij geoorloofde afwezigheid wordt het bedrag dat voor het genot van kost verschuldigd zou zijn voor elke dag dat dit emolument niet wordt genoten, verminderd met € 4,78 per dag.
 
 ##### Artikel 17. Gebruik van energie en water
 
-1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van verwarming van de woning, bedoeld in [artikel 61, eerste lid, onderdeel b, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 188,97.
+1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van verwarming van de woning, bedoeld in [artikel 61, eerste lid, onderdeel b, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 188,97.
 
-2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van energie voor kookdoeleinden, bedoeld in [artikel 61, eerste lid, onderdeel c, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 60,61.
+2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van energie voor kookdoeleinden, bedoeld in [artikel 61, eerste lid, onderdeel c, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 60,61.
 
-3. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van elektrische energie, bedoeld in [artikel 61, eerste lid, onderdeel d, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 28,20.
+3. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van elektrische energie, bedoeld in [artikel 61, eerste lid, onderdeel d, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 28,20.
 
-4. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van leidingwater, bedoeld in [artikel 61, eerste lid, onderdeel e, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 23,39.
+4. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van leidingwater, bedoeld in [artikel 61, eerste lid, onderdeel e, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 23,39.
 
 ### Hoofdstuk 6. Anticumulatie pas
 
@@ -476,11 +473,11 @@ De berekeningsbasis als bedoeld in [artikel 61, eerste lid, van het IBBAD](https
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **ambtenaar:** de ambtenaar van wie de arbeidsduur van zijn rooster met toepassing van [artikel 30c van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30c) is teruggebracht;
+- a. *ambtenaar:* de ambtenaar van wie de arbeidsduur van zijn rooster met toepassing van [artikel 30c van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30c) is teruggebracht;
 
-- b. **inkomen:** het salaris van de ambtenaar na de inhouding ter grootte van 5% of 10% op basis van [artikel 30c van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30c);
+- b. *inkomen:* het salaris van de ambtenaar na de inhouding ter grootte van 5% of 10% op basis van [artikel 30c van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30c);
 
-- c. **deeltijdsalaris:**
+- c. *deeltijdsalaris:*
 
 het salaris bedoeld in [artikel 12, eerste lid, van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=12), dat voor de ambtenaar zou zijn vastgesteld indien voor hem de teruggebrachte arbeidsduur als deeltijdaanstelling zou gelden.
 
@@ -580,7 +577,7 @@ Ingetrokken worden:
 
 ##### Artikel 29. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 11 mei 2005.
+Deze regeling treedt in werking met ingang van 11 mei 2005.
 
 ##### Artikel 30. Citeertitel
 

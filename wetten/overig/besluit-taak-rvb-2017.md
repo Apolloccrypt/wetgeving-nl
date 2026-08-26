@@ -1,76 +1,48 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 december 2017, nr. 2017-0000633621, houdende vaststelling van het organisatiebesluit Rijksvastgoedbedrijf (Besluit taak RVB 2017)"
+citeertitel: "Besluit taak RVB 2017"
 identifier: "BWBR0040475"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-05-15"
-last_updated: "2024-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040475"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14469493"
-version_id: "29412702"
-internal_id: "C42057471"
-label_id: "14429914"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040475/2024-05-15/0"
-intitule_bron: "Stcrt.2017-72747"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-22"
-intitule_published: "2017-12-27"
-intitule_in_force: "2017-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-14329"
-original_signed_date: "2023-05-09"
-original_published_date: "2023-05-22"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-14329"
-entry_into_force_date: "2023-05-23"
-jci_1_3: "jci1.3:c:BWBR0040475&z=2024-05-15&g=2024-05-15"
-jci_1_0: "1.0:c:BWBR0040475&g=2024-05-15"
-citeertitel_status: "officieel"
-short_title: "Besluit taak RVB 2017"
-signed_date: "2023-05-09"
-entry_into_force: "2023-05-23"
+publicatiedatum: 2023-05-23
+laatste_update: 2024-05-15
+status: geldig
+toestand: 2024-05-15
+bron: "https://wetten.overheid.nl/BWBR0040475"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 december 2017, nr. 2017-0000633621, houdende vaststelling van het organisatiebesluit Rijksvastgoedbedrijf (Besluit taak RVB 2017)
-
-Handelend in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Definitiebepaling
 
 In dit besluit wordt verstaan onder:
 
-- a). **Rijksvastgoedbedrijf:** het baten-lastenagentschap Rijksvastgoedbedrijf bedoeld in [artikel 8, derde lid, onder a, van het Organisatiebesluit BZK 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038547&artikel=8);
+- a) *Rijksvastgoedbedrijf:* het baten-lastenagentschap Rijksvastgoedbedrijf bedoeld in [artikel 8, derde lid, onder a, van het Organisatiebesluit BZK 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038547&artikel=8);
 
-- b). **andere ministers:** ministers niet zijnde de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b) *andere ministers:* ministers niet zijnde de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c). **materieelbeheer:** de zorg voor het onderhoud en de instandhouding van onroerende zaken vanaf het moment van inbeheer- of ingebruikneming tot aan het moment van afstoting;
+- c) *materieelbeheer:* de zorg voor het onderhoud en de instandhouding van onroerende zaken vanaf het moment van inbeheer- of ingebruikneming tot aan het moment van afstoting;
 
-- d). **beperkt zakelijk recht:** recht van vruchtgebruik op onroerende zaak, mandeligheid, erfdienstbaarheid, erfpacht, opstal en appartementsrecht;
+- d) *beperkt zakelijk recht:* recht van vruchtgebruik op onroerende zaak, mandeligheid, erfdienstbaarheid, erfpacht, opstal en appartementsrecht;
 
-- e). **vaststellingsovereenkomst:** vaststellingsovereenkomst met betrekking tot onroerende zaak;
+- e) *vaststellingsovereenkomst:* vaststellingsovereenkomst met betrekking tot onroerende zaak;
 
-- f). **grondrente:** het recht om van de eigenaar van een onroerende zaak in diens hoedanigheid van eigenaar periodiek een vaste geldsom of een vaste waarde in de voortbrengselen te ontvangen;
+- f) *grondrente:* het recht om van de eigenaar van een onroerende zaak in diens hoedanigheid van eigenaar periodiek een vaste geldsom of een vaste waarde in de voortbrengselen te ontvangen;
 
-- g). **grensregeling:** regeling met betrekking tot eigendomsgrenzen van een onroerende zaak;
+- g) *grensregeling:* regeling met betrekking tot eigendomsgrenzen van een onroerende zaak;
 
-- h). **zakelijke lasten:** belastingen en heffingen verschuldigd door de Staat als eigenaar van of beperkt zakelijke gerechtigde met betrekking tot een onroerende zaak;
+- h) *zakelijke lasten:* belastingen en heffingen verschuldigd door de Staat als eigenaar van of beperkt zakelijke gerechtigde met betrekking tot een onroerende zaak;
 
-- i). **ondersteuning van de verwezenlijking van nationale beleidsdoelen voor de fysieke leefomgeving:**
+- i) *ondersteuning van de verwezenlijking van nationale beleidsdoelen voor de fysieke leefomgeving:*
 
-- 1°. het ondersteunen en uitvoeren van taken van de verantwoordelijke minister op het gebied van woningbouw en ruimtelijke ontwikkeling, en
+   - 1°. het ondersteunen en uitvoeren van taken van de verantwoordelijke minister op het gebied van woningbouw en ruimtelijke ontwikkeling, en
 
-- 2°. het deelnemen, in voorkomend geval in overeenstemming met andere ministers die het aangaat, in processen gericht op het toedelen van een nieuwe functie aan een of meer locaties in een gebied en het realiseren van die functie, in gevallen waarin in een omgevingsvisie of programma van het Rijk als bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) of een ander door een bestuursorgaan van het Rijk openbaar gemaakt document:
+   - 2°. het deelnemen, in voorkomend geval in overeenstemming met andere ministers die het aangaat, in processen gericht op het toedelen van een nieuwe functie aan een of meer locaties in een gebied en het realiseren van die functie, in gevallen waarin in een omgevingsvisie of programma van het Rijk als bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) of een ander door een bestuursorgaan van het Rijk openbaar gemaakt document:
 
-- –. een nieuwe functie is toegedacht aan de betrokken locaties, of
+      - – een nieuwe functie is toegedacht aan de betrokken locaties, of
 
-- –. een nationaal belang voor de fysieke leefomgeving is aangegeven dat met de toedeling en realisatie van de nieuwe functie is gediend en de Staat eigenaar is van benodigde gronden in het gebied.
+      - – een nationaal belang voor de fysieke leefomgeving is aangegeven dat met de toedeling en realisatie van de nieuwe functie is gediend en de Staat eigenaar is van benodigde gronden in het gebied.
 
 ##### Artikel 2. Huisvesting Rijk
 
@@ -218,14 +190,10 @@ Het Rijksvastgoedbedrijf is belast met het op verzoek van een van de andere mini
 
 Het Rijksvastgoedbedrijf kan op verzoek van andere ministers taken en bevoegdheden namens hen uitoefenen.
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 12. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2018.
+Dit besluit treedt in werking met ingang van 1 januari 2018.
 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit taak RVB 2017.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

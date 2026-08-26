@@ -1,42 +1,25 @@
 ---
 title: "Aanwijzing vervolgingsbeslissing inzake late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen"
 identifier: "BWBR0040270"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-12-01"
-last_updated: "2017-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040270"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "14429693"
-version_id: "24673032"
-internal_id: "C35300611"
-label_id: "14390414"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040270/2017-12-01/0"
-intitule_bron: "Stcrt.2017-69445"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-12-01"
-intitule_in_force: "2017-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-69445"
-original_published_date: "2017-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-69445"
-entry_into_force_date: "2017-12-01"
-jci_1_3: "jci1.3:c:BWBR0040270&z=2017-12-01&g=2017-12-01"
-jci_1_0: "1.0:c:BWBR0040270&g=2017-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-12-01"
+publicatiedatum: 2017-12-01
+laatste_update: 2017-12-01
+status: geldig
+toestand: 2017-12-01
+bron: "https://wetten.overheid.nl/BWBR0040270"
+opgehaald: 2026-08-26
 ---
+
 # Aanwijzing vervolgingsbeslissing inzake late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen
+
+Samenvatting
 
 Deze aanwijzing geeft inzicht in de wijze waarop vervolgingsbeslissingen van het College van procureurs-generaal (verder: het College) tot stand komen ten aanzien van artsen die een zwangerschap van meer dan 24 weken afbreken, een zwangerschap afbreken in verband met de behandeling van de gezondheid van de moeder (maternale indicatie) of het leven van een pasgeborene beëindigen.
 
 ### 1. Wettelijk kader
 
-### 1.1. [Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen](https://wetten.overheid.nl/jci1.3:c:BWBR0037570) 1 Stcrt. 2016, 3145 .
+### 1.1. Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen 1 Stcrt. 2016, 3145 .
 
 Op 1 februari 2016 hebben de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport de [Regeling centrale deskundigencommissie late zwangerschapsafbreking in een categorie 2-geval en levensbeëindiging bij pasgeborenen](https://wetten.overheid.nl/jci1.3:c:BWBR0021481)2Stcrt. 2007, 51. ingetrokken en een nieuwe regeling getroffen voor de beoordeling van gemelde gevallen van late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen. Tegelijk met de nieuwe [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037570) (verder: de Regeling) is een commissie ingesteld voor de beoordeling van dergelijke gevallen (verder: de Beoordelingscommissie) en is de Centrale deskundigencommissie ontheven van haar taken in deze. In de Regeling zijn de geldende zorgvuldigheidseisen op onderdelen nader geformuleerd en enkele medische en juridische aspecten zijn verhelderd. Aan de Regeling is toegevoegd de beoordeling van late zwangerschapsafbreking in het geval redelijkerwijs verwacht mag worden dat de ongeborene niet in staat is buiten het moederlichaam in leven te blijven (zogenaamde categorie 1 gevallen, zie [art. 2 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=2)).
 
@@ -54,11 +37,11 @@ De afbreking van de zwangerschap in geval van een aandoening, waarbij redelijker
 
 ### 2.2. Late zwangerschapsafbreking categorie 2
 
-De afbreking van een zwangerschap in geval van een aandoening, waarbij bij de ongeborene sprake is van één of meer aandoeningen die tot ernstige en niet te herstellen functiestoornissen leidt of leiden of omdat voor de ongeborene naar redelijke verwachting een beperkte kans op overleven bestaat, valt niet alleen onder de werking van [artikel 296 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=296) en de [Wet zwangerschapsafbreking](https://wetten.overheid.nl/jci1.3:c:BWBR0003396), maar ook onder de werking van [artikel 82a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82) en [289 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) en is dus in beginsel strafbaar. Een beroep op de rechtvaardigingsgrond van overmacht in de zin van noodtoestand ([artikel 40 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=40)) kan de strafbaarheid van het feit wegnemen, indien aan de zorgvuldigheidseisen genoemd in [artikel 6 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=6) is voldaan. De Beoordelingscommissie brengt haar oordeel van zowel het zorgvuldig als het onzorgvuldig handelen ter kennis van het College. Het College beoordeelt vervolgens of de arts een geslaagd beroep toekomt op de bovengenoemde strafuitsluitingsgrond. De zorgvuldigheidseisen, neergelegd in artikel 6 van de Regeling, zijn hieronder nader uiteengezet in paragraaf 4.2.
+De afbreking van een zwangerschap in geval van een aandoening, waarbij bij de ongeborene sprake is van één of meer aandoeningen die tot ernstige en niet te herstellen functiestoornissen leidt of leiden of omdat voor de ongeborene naar redelijke verwachting een beperkte kans op overleven bestaat, valt niet alleen onder de werking van [artikel 296 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=296) en de [Wet zwangerschapsafbreking](https://wetten.overheid.nl/jci1.3:c:BWBR0003396), maar ook onder de werking van [artikel 82a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82) en [289 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) en is dus in beginsel strafbaar. Een beroep op de rechtvaardigingsgrond van overmacht in de zin van noodtoestand ([artikel 40 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=40)) kan de strafbaarheid van het feit wegnemen, indien aan de zorgvuldigheidseisen genoemd in [artikel 6 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=6) is voldaan. De Beoordelingscommissie brengt haar oordeel van zowel het zorgvuldig als het onzorgvuldig handelen ter kennis van het College. Het College beoordeelt vervolgens of de arts een geslaagd beroep toekomt op de bovengenoemde strafuitsluitingsgrond. De zorgvuldigheidseisen, neergelegd in artikel 6 van de Regeling, zijn hieronder nader uiteengezet in [paragraaf 4.2](https://wetten.overheid.nl/BWBR0040270).
 
 ### 2.3. Levensbeëindiging pasgeborenen
 
-De levensbeëindiging bij pasgeborenen valt door het ontbreken van een verzoek van de patiënt niet onder de werking van de [artikelen 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293) en [294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294) maar onder de werking van [artikel 82a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82a) en [289 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) en is dus in beginsel strafbaar. Een beroep op de rechtvaardigingsgrond van overmacht in de zin van noodtoestand ([art. 40 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=40)) kan de strafbaarheid wegnemen, indien aan de zorgvuldigheidseisen genoemd in [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=7) is voldaan. De zorgvuldigheidseisen zijn hieronder uiteengezet in paragraaf 4.2.
+De levensbeëindiging bij pasgeborenen valt door het ontbreken van een verzoek van de patiënt niet onder de werking van de [artikelen 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293) en [294 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294) maar onder de werking van [artikel 82a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82a) en [289 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) en is dus in beginsel strafbaar. Een beroep op de rechtvaardigingsgrond van overmacht in de zin van noodtoestand ([art. 40 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=40)) kan de strafbaarheid wegnemen, indien aan de zorgvuldigheidseisen genoemd in [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=7) is voldaan. De zorgvuldigheidseisen zijn hieronder uiteengezet in [paragraaf 4.2](https://wetten.overheid.nl/BWBR0040270).
 
 ### 2.4. Melding gevoelige zaak
 
@@ -78,6 +61,12 @@ Het College heeft wel een rol in de beoordeling van een late zwangerschapsafbrek
 
 Het College kan doen besluiten dat:
 
+- • eerst een opsporingsonderzoek wordt gestart alvorens definitief kan worden beslist;
+
+- • de zaak wordt geseponeerd eventueel onder bepaalde (bijzondere) voorwaarden;
+
+- • de arts wordt vervolgd (dagvaarden).
+
 Over de afdoeningsbeslissing informeert het College de Beoordelingscommissie, de IGZ en het arrondissementsparket Rotterdam (EMZ)4Het Landelijk Expertisecentrum Medische Zaken.. Het College informeert de arts over de afdoeningsbeslissing.
 
 Het uitgangspunt is dat, gelet op het belang dat door [artikel 82a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82a) en [289 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) wordt beschermd te weten het menselijk leven, de arts wordt vervolgd indien deze een substantiële zorgvuldigheidsnorm heeft geschonden. De ervaring leert echter dat zaken die aan het College ter beoordeling worden voorgelegd, zelden tot nooit zwart-wit zijn. De beoordeling door het College is dan ook sterk afhankelijk van de concrete omstandigheden van het geval en is daarmee maatwerk. Deze aanwijzing geeft de contouren van deze beoordeling, zowel ten aanzien van de informatie waarop het College zich baseert als ten aanzien van de weging van de verschillende zorgvuldigheidseisen die de [Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037570) biedt.
@@ -94,20 +83,60 @@ Hieronder wordt een kader gegeven van relevante overwegingen bij die beoordeling
 
 In [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=6) en [7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=7) worden de zorgvuldigheidseisen genoemd waaraan een arts moet voldoen wil hij een succesvol beroep kunnen doen op de rechtvaardigingsgrond overmacht in de zin van noodtoestand. Artikel 6 ziet op de late zwangerschapsafbreking categorie 2 en artikel 7 ziet op de levensbeëindiging bij pasgeborenen.
 
+Artikel 6 van de Regeling
+
+- a. de arts de overtuiging heeft gekregen dat de ongeborene een aandoening heeft of een combinatie van aandoeningen heeft die van zodanige aard is dat na de geboorte zou worden afgezien van een medische behandeling, omdat ingrijpen naar heersend medisch inzicht zinloos en naar heersend medisch inzicht geen redelijke twijfel bestaat over de diagnose en de daarop gebaseerde prognose;
+
+- b. de arts de overtuiging heeft gekregen dat bij de ongeborene sprake is van een actueel of te voorzien uitzichtloos lijden;
+
+- c. de arts de ouders volledig op de hoogte heeft gesteld van de diagnose en de daarop gebaseerde prognose. Dit houdt onder andere in dat de arts met de ouders tot de overtuiging is gekomen dat er voor de situatie waarin de ongeborene zich bevindt geen redelijke andere oplossing is;
+
+- d. de moeder uitdrukkelijk heeft verzocht om beëindiging van de zwangerschap wegens lichamelijk of psychisch lijden onder de situatie;
+
+- e. de arts ten minste één andere, onafhankelijke arts heeft geraadpleegd, die schriftelijk zijn oordeel heeft gegeven over de hiervoor genoemde zorgvuldigheidseisen of, indien een onafhankelijke arts redelijkerwijs niet kon worden geraadpleegd, het behandelteam heeft geraadpleegd, dat schriftelijk zijn oordeel heeft gegeven over de hiervoor genoemde zorgvuldigheidseisen;
+
+- f. de afbreking van de zwangerschap medisch zorgvuldig is uitgevoerd.
+
+Artikel 7 van de Regeling
+
+- a. naar overtuiging van de arts sprake is van uitzichtloos en ondraaglijk lijden van de pasgeborene, hetgeen onder andere betekent dat het staken van de medische behandeling gerechtvaardigd is, dat wil zeggen dat naar heersend medisch inzicht vast staat dat ingrijpen zinloos is en naar heersend medisch inzicht geen redelijke twijfel bestaat over de diagnose en de daarop gebaseerde prognose;
+
+- b. de arts de ouders volledig op de hoogte heeft gesteld van de diagnose en de daarop gebaseerde prognose en dat de arts met de ouders tot de overtuiging is gekomen dat er voor de situatie waarin de pasgeborene zich bevond geen redelijke andere oplossing was;
+
+- c. de ouders hebben ingestemd met de levensbeëindiging;
+
+- d. de arts ten minste één andere, onafhankelijke arts heeft geraadpleegd, die schriftelijk zijn oordeel heeft gegeven over de hiervoor genoemde zorgvuldigheidseisen, of, indien een onafhankelijk arts redelijkerwijs niet kon worden geraadpleegd, het behandelteam heeft geraadpleegd, dat schriftelijk zijn oordeel heeft gegeven over de hiervoor genoemde zorgvuldigheidseisen;
+
+- e. de levensbeëindiging zorgvuldig is uitgevoerd.
+
+Zorgvuldig: geen strafrechtelijk onderzoek tenzij
+
 Indien de beoordelingscommissie tot het oordeel komt dat de arts zorgvuldig heeft gehandeld zal er voor het College in beginsel geen aanleiding zijn een strafrechtelijk onderzoek of vervolging in te stellen. De zaak zal dan middels een onvoorwaardelijk sepot afgesloten kunnen worden.
 
 Situaties die wel aanleiding kunnen geven voor een strafrechtelijk onderzoek of vervolging zijn:
 
+- − het feit dat de arts (bewust) onjuiste informatie heeft verstrekt aan de Beoordelingscommissie of de IGZ;
+
+- − de omstandigheid of het ernstige vermoeden dat de naar voren gebrachte feiten anders liggen dan geschetst;
+
+- − het naar voren komen van (nieuwe) feiten en omstandigheden op grond waarvan kan worden aangenomen dat niet is voldaan aan de zorgvuldigheidseisen;
+
+- − indien het openbaar ministerie op basis van feiten en omstandigheden tot een andere beoordeling of weging van de feiten komt dan de Beoordelingscommissie.
+
 Dit betreft geen uitputtende opsomming.
+
+Onzorgvuldig: vervolging geïndiceerd bij schending substantiële zorgvuldigheidseisen
 
 Indien de Beoordelingscommissie tot het oordeel komt dat de arts niet conform de zorgvuldigheidseisen genoemd in [artikel 6 onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=6) (late zwangerschapsafbreking categorie 2) en [artikel 7 onder a tot en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037570&artikel=7) (levensbeëindiging bij pasgeborenen) heeft gehandeld, dan kan het vermoeden van schuld ontstaan ten aanzien van de [artikelen 296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=296), [82a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82a) en [289 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) (late zwangerschapsafbreking categorie 2) en de artikelen 82a en 289 Sr (levensbeëindiging pasgeborenen). Als het openbaar ministerie na een onderzoek tot het oordeel komt dat de arts strafbaar is en zich aan deze feiten schuldig heeft gemaakt, dan is vervolging in beginsel geïndiceerd.
 
-Bij de beoordeling van de opportuniteit is de aard van de geschonden norm bepalend. Verdenking van de [artikelen 296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=296), [82a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82a) en [289 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) (late zwangerschapsafbreking categorie 2) en van de artikelen 82a en 289 Sr (levensbeëindiging pasgeborenen) wegens schending van een **substantiële** zorgvuldigheidseis dient, behoudens uitzonderingen, tot strafrechtelijke vervolging te leiden. In alle andere gevallen daarentegen kan voor een (voorwaardelijk) sepot worden gekozen. Een substantiële zorgvuldigheidseis is de eis dat de arts de overtuiging heeft gekregen dat sprake is van ondraaglijk en uitzichtloos lijden bij de ongeborenen of pasgeborene.
+Bij de beoordeling van de opportuniteit is de aard van de geschonden norm bepalend. Verdenking van de [artikelen 296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=296), [82a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82a) en [289 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) (late zwangerschapsafbreking categorie 2) en van de artikelen 82a en 289 Sr (levensbeëindiging pasgeborenen) wegens schending van een *substantiële* zorgvuldigheidseis dient, behoudens uitzonderingen, tot strafrechtelijke vervolging te leiden. In alle andere gevallen daarentegen kan voor een (voorwaardelijk) sepot worden gekozen. Een substantiële zorgvuldigheidseis is de eis dat de arts de overtuiging heeft gekregen dat sprake is van ondraaglijk en uitzichtloos lijden bij de ongeborenen of pasgeborene.
 
 ### 5. Maternale indicatie
 
 Een behandeling die gericht is op het beschermen van het leven en/of de gezondheidstoestand van de moeder kan ook tot gevolg hebben dat de zwangerschap moet worden beëindigd. Als dan sprake is van de afbreking van de zwangerschap na een duur van ten minste 24 weken, is sprake van een zogeheten ‘zwangerschapsafbreking op basis van maternale indicatie’. Afbreking van zwangerschap na 24 weken als noodzakelijk en enige mogelijke behandeling van een ernstige aandoening bij de moeder behoort tot aanvaardbaar en adequaat, onvermijdbaar medisch handelen zodat deze gevallen – anders dan bij de categorie 1 en 2 gevallen – niet worden gemeld aan of beoordeeld door de Beoordelingscommissie. Indien de vrucht ten gevolge van de afbreking van de zwangerschap op maternale indicatie komt te overlijden, dan dient dit overlijden echter, zoals bij elk niet-natuurlijk overlijden, gemeld te worden aan de gemeentelijk lijkschouwer. Hoewel de zwangerschapsafbreking bij een maternale indicatie niet is gericht op het laten overlijden van de vrucht, zijn de [artikelen 82a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=82a), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289) en [296 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=296) van toepassing, nu in de dood van de ongeborene als gevolg van deze behandeling wordt berust. Ook in die gevallen is echter een beroep op een rechtvaardigingsgrond overmacht in de zin van noodtoestand voorstelbaar.
 
 Indien sprake is van een maternale indicatie valt het handelen van de arts in beginsel onder de strafuitsluitingsgrond van overmacht in de zin van noodtoestand. Een strafrechtelijk onderzoek is dan niet snel geïndiceerd. De IGZ heeft een toezichthoudende taak. Mocht de met het toezicht belaste ambtenaar een ernstige schending van de professionele standaard constateren, dan kan hij daarvan een melding of aangifte doen bij het College. Alleen in dat geval, en in het geval de officier van justitie via een andere weg een aangifte of melding ontvangt, heeft het openbaar ministerie een rol. In alle andere gevallen van late zwangerschapsafbreking op maternale indicatie beperkt de rol van de officier van justitie zich tot het afgeven van een verklaring van geen bezwaar tot begraven of cremeren.
+
+Overgangsrecht
 
 De beleidsregels in deze aanwijzing hebben onmiddellijke gelding vanaf de datum van inwerkingtreding.

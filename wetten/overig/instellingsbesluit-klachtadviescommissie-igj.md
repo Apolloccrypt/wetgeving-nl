@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 augustus 2017, kenmerk IGZ/B&B 2017-2031244, houdende de instelling van de Klachtadviescommissie Inspectie voor de Gezondheidszorg en Inspectie Jeugdzorg"
+citeertitel: "Instellingsbesluit Klachtadviescommissie IGJ"
 identifier: "BWBR0039937"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039937"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14143283"
-version_id: "24324702"
-internal_id: "C34918541"
-label_id: "14104204"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039937/2018-08-01/0"
-intitule_bron: "Stcrt.2017-49471"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-08-01"
-intitule_published: "2017-09-01"
-intitule_in_force: "2017-09-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-49471"
-original_signed_date: "2017-08-01"
-original_published_date: "2017-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-49471"
-entry_into_force_date: "2017-09-02"
-jci_1_3: "jci1.3:c:BWBR0039937&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0039937&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Klachtadviescommissie IGJ"
-signed_date: "2017-08-01"
-entry_into_force: "2017-09-02"
+publicatiedatum: 2017-09-02
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0039937"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 augustus 2017, kenmerk IGZ/B&B 2017-2031244, houdende de instelling van de Klachtadviescommissie Inspectie voor de Gezondheidszorg en Inspectie Jeugdzorg
-
-Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14) en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,11 +20,11 @@ Besluit:
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *de Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **klacht:** een klacht als bedoeld in [artikel 9:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4);
+- b. *klacht:* een klacht als bedoeld in [artikel 9:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4);
 
-- c. **de commissie:** een klachtadviescommissie als bedoeld in [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14).
+- c. *de commissie:* een klachtadviescommissie als bedoeld in [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14).
 
 #### § 2. Taak en samenstelling van de commissie
 
@@ -101,5 +75,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Klachtadviescommissie IGJ.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

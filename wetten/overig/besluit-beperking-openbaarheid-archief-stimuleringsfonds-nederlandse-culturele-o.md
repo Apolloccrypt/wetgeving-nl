@@ -1,51 +1,23 @@
 ---
 title: "Besluit beperking openbaarheid archief Stimuleringsfonds Nederlandse Culturele Omroepproducties"
 identifier: "BWBR0040400"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-12-20"
-last_updated: "2017-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040400"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14456093"
-version_id: "24725502"
-internal_id: "C35372651"
-label_id: "14416534"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040400/2017-12-20/0"
-intitule_bron: "Stcrt.2017-72428"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-11"
-intitule_published: "2017-12-19"
-intitule_in_force: "2017-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-72428"
-original_signed_date: "2017-12-11"
-original_published_date: "2017-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-72428"
-entry_into_force_date: "2017-12-20"
-jci_1_3: "jci1.3:c:BWBR0040400&z=2017-12-20&g=2017-12-20"
-jci_1_0: "1.0:c:BWBR0040400&g=2017-12-20"
-citeertitel_status: "redactioneel"
-signed_date: "2017-12-11"
-entry_into_force: "2017-12-20"
+publicatiedatum: 2017-12-20
+laatste_update: 2017-12-20
+status: geldig
+toestand: 2017-12-20
+bron: "https://wetten.overheid.nl/BWBR0040400"
+opgehaald: 2026-08-26
 ---
+
 # Besluit beperking openbaarheid archief Stimuleringsfonds Nederlandse Culturele Omroepproducties
-
-Gelet op [artikel 15, lid 1 onder a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemene rijksarchivaris
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van Stichting Stimuleringsfonds Nederlandse Culturele Omroepproducties.
 
 ##### Artikel 1
 
 Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
-**Inventarisnummers: Beperkt openbaar tot 1 januari 2019:**
+*Inventarisnummers: Beperkt openbaar tot 1 januari 2019:*
 
 | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -104,42 +76,42 @@ Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van bet
 | 8849ED | 2019 | 8900ED | 2019 | 8976ED | 2019 | 9063ED | 2019 | 9896ED | 2019 |
 | 8850ED | 2019 | 8902ED | 2019 | 8981ED | 2019 | 9064ED | 2019 | 9902ED | 2019 |
 | 8851ED | 2019 | 8903ED | 2019 | 8982ED | 2019 | 9065ED | 2019 | 9903ED | 2019 |
-| 8852ED | 2019 | 8904ED | 2019 | 8983ED | 2019 | 9071ED | 2019 |   |   |
-| 8853ED | 2019 | 8905ED | 2019 | 8984ED | 2019 | 9072ED | 2019 |   |   |
-| 8854ED | 2019 | 8906ED | 2019 | 8985ED | 2019 | 9085ED | 2019 |   |   |
-| 8855ED | 2019 | 8907ED | 2019 | 8986ED | 2019 | 9086ED | 2019 |   |   |
-| 8856ED | 2019 | 8908ED | 2019 | 8987ED | 2019 | 9099ED | 2019 |   |   |
-| 8857ED | 2019 | 8909ED | 2019 | 8988ED | 2019 | 9829ED | 2019 |   |   |
-| 8858ED | 2019 | 8910ED | 2019 | 8989ED | 2019 | 9830ED | 2019 |   |   |
-| 8861ED | 2019 | 8911ED | 2019 | 8990ED | 2019 | 9831ED | 2019 |   |   |
-| 8862ED | 2019 | 8912ED | 2019 | 8992ED | 2019 | 9833ED | 2019 |   |   |
-| 8863ED | 2019 | 8914ED | 2019 | 8996ED | 2019 | 9835ED | 2019 |   |   |
-| 8864ED | 2019 | 8915ED | 2019 | 9000ED | 2019 | 9836ED | 2019 |   |   |
-| 8865ED | 2019 | 8916ED | 2019 | 9001ED | 2019 | 9837ED | 2019 |   |   |
-| 8866ED | 2019 | 8919ED | 2019 | 9002ED | 2019 | 9841ED | 2019 |   |   |
-| 8867ED | 2019 | 8922ED | 2019 | 9003ED | 2019 | 9843ED | 2019 |   |   |
-| 8868ED | 2019 | 8924ED | 2019 | 9005ED | 2019 | 9848ED | 2019 |   |   |
-| 8869ED | 2019 | 8927ED | 2019 | 9006ED | 2019 | 9849ED | 2019 |   |   |
-| 8870ED | 2019 | 8930ED | 2019 | 9007ED | 2019 | 9850ED | 2019 |   |   |
-| 8871ED | 2019 | 8932ED | 2019 | 9008ED | 2019 | 9852ED | 2019 |   |   |
-| 8872ED | 2019 | 8934ED | 2019 | 9009ED | 2019 | 9854ED | 2019 |   |   |
-| 8873ED | 2019 | 8936ED | 2019 | 9017ED | 2019 | 9855ED | 2019 |   |   |
-| 8874ED | 2019 | 8937ED | 2019 | 9022ED | 2019 | 9857ED | 2019 |   |   |
-| 8876ED | 2019 | 8939ED | 2019 | 9025ED | 2019 | 9859ED | 2019 |   |   |
-| 8877ED | 2019 | 8941ED | 2019 | 9029ED | 2019 | 9860ED | 2019 |   |   |
-| 8879ED | 2019 | 8942ED | 2019 | 9031ED | 2019 | 9861ED | 2019 |   |   |
-| 8880ED | 2019 | 8944ED | 2019 | 9036ED | 2019 | 9863ED | 2019 |   |   |
-| 8882ED | 2019 | 8946ED | 2019 | 9038ED | 2019 | 9874ED | 2019 |   |   |
-| 8883ED | 2019 | 8948ED | 2019 | 9039ED | 2019 | 9876ED | 2019 |   |   |
-| 8884ED | 2019 | 8949ED | 2019 | 9040ED | 2019 | 9877ED | 2019 |   |   |
-| 8885ED | 2019 | 8950ED | 2019 | 9041ED | 2019 | 9878ED | 2019 |   |   |
-| 8886ED | 2019 | 8952ED | 2019 | 9043ED | 2019 | 9879ED | 2019 |   |   |
-| 8887ED | 2019 | 8958ED | 2019 | 9047ED | 2019 | 9882ED | 2019 |   |   |
-| 8888ED | 2019 | 8960ED | 2019 | 9048ED | 2019 | 9885ED | 2019 |   |   |
-| 8889ED | 2019 | 8964ED | 2019 | 9050ED | 2019 | 9886ED | 2019 |   |   |
-| 8893ED | 2019 | 8966ED | 2019 | 9052ED | 2019 | 9887ED | 2019 |   |   |
+| 8852ED | 2019 | 8904ED | 2019 | 8983ED | 2019 | 9071ED | 2019 |  |  |
+| 8853ED | 2019 | 8905ED | 2019 | 8984ED | 2019 | 9072ED | 2019 |  |  |
+| 8854ED | 2019 | 8906ED | 2019 | 8985ED | 2019 | 9085ED | 2019 |  |  |
+| 8855ED | 2019 | 8907ED | 2019 | 8986ED | 2019 | 9086ED | 2019 |  |  |
+| 8856ED | 2019 | 8908ED | 2019 | 8987ED | 2019 | 9099ED | 2019 |  |  |
+| 8857ED | 2019 | 8909ED | 2019 | 8988ED | 2019 | 9829ED | 2019 |  |  |
+| 8858ED | 2019 | 8910ED | 2019 | 8989ED | 2019 | 9830ED | 2019 |  |  |
+| 8861ED | 2019 | 8911ED | 2019 | 8990ED | 2019 | 9831ED | 2019 |  |  |
+| 8862ED | 2019 | 8912ED | 2019 | 8992ED | 2019 | 9833ED | 2019 |  |  |
+| 8863ED | 2019 | 8914ED | 2019 | 8996ED | 2019 | 9835ED | 2019 |  |  |
+| 8864ED | 2019 | 8915ED | 2019 | 9000ED | 2019 | 9836ED | 2019 |  |  |
+| 8865ED | 2019 | 8916ED | 2019 | 9001ED | 2019 | 9837ED | 2019 |  |  |
+| 8866ED | 2019 | 8919ED | 2019 | 9002ED | 2019 | 9841ED | 2019 |  |  |
+| 8867ED | 2019 | 8922ED | 2019 | 9003ED | 2019 | 9843ED | 2019 |  |  |
+| 8868ED | 2019 | 8924ED | 2019 | 9005ED | 2019 | 9848ED | 2019 |  |  |
+| 8869ED | 2019 | 8927ED | 2019 | 9006ED | 2019 | 9849ED | 2019 |  |  |
+| 8870ED | 2019 | 8930ED | 2019 | 9007ED | 2019 | 9850ED | 2019 |  |  |
+| 8871ED | 2019 | 8932ED | 2019 | 9008ED | 2019 | 9852ED | 2019 |  |  |
+| 8872ED | 2019 | 8934ED | 2019 | 9009ED | 2019 | 9854ED | 2019 |  |  |
+| 8873ED | 2019 | 8936ED | 2019 | 9017ED | 2019 | 9855ED | 2019 |  |  |
+| 8874ED | 2019 | 8937ED | 2019 | 9022ED | 2019 | 9857ED | 2019 |  |  |
+| 8876ED | 2019 | 8939ED | 2019 | 9025ED | 2019 | 9859ED | 2019 |  |  |
+| 8877ED | 2019 | 8941ED | 2019 | 9029ED | 2019 | 9860ED | 2019 |  |  |
+| 8879ED | 2019 | 8942ED | 2019 | 9031ED | 2019 | 9861ED | 2019 |  |  |
+| 8880ED | 2019 | 8944ED | 2019 | 9036ED | 2019 | 9863ED | 2019 |  |  |
+| 8882ED | 2019 | 8946ED | 2019 | 9038ED | 2019 | 9874ED | 2019 |  |  |
+| 8883ED | 2019 | 8948ED | 2019 | 9039ED | 2019 | 9876ED | 2019 |  |  |
+| 8884ED | 2019 | 8949ED | 2019 | 9040ED | 2019 | 9877ED | 2019 |  |  |
+| 8885ED | 2019 | 8950ED | 2019 | 9041ED | 2019 | 9878ED | 2019 |  |  |
+| 8886ED | 2019 | 8952ED | 2019 | 9043ED | 2019 | 9879ED | 2019 |  |  |
+| 8887ED | 2019 | 8958ED | 2019 | 9047ED | 2019 | 9882ED | 2019 |  |  |
+| 8888ED | 2019 | 8960ED | 2019 | 9048ED | 2019 | 9885ED | 2019 |  |  |
+| 8889ED | 2019 | 8964ED | 2019 | 9050ED | 2019 | 9886ED | 2019 |  |  |
+| 8893ED | 2019 | 8966ED | 2019 | 9052ED | 2019 | 9887ED | 2019 |  |  |
 
-**Inventarisnummers: Beperkt openbaar tot 1 januari 2020:**
+*Inventarisnummers: Beperkt openbaar tot 1 januari 2020:*
 
 | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -276,7 +248,7 @@ Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van bet
 | 9957ED | 2020 |
 | 9958ED | 2020 |
 
-**Inventarisnummers: Beperkt openbaar tot 1 januari 2021:**
+*Inventarisnummers: Beperkt openbaar tot 1 januari 2021:*
 
 | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal | Nummer | Jaartal |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -395,28 +367,28 @@ Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van bet
 | 9741ED | 2021 | 9785ED | 2021 | 9883ED | 2021 | 9964ED | 2021 | 10008ED | 2021 |
 | 9742ED | 2021 | 9786ED | 2021 | 9884ED | 2021 | 9965ED | 2021 | 10009ED | 2021 |
 | 9744ED | 2021 | 9787ED | 2021 | 9891ED | 2021 | 9966ED | 2021 | 10010ED | 2021 |
-| 9745ED | 2021 | 9788ED | 2021 | 9893ED | 2021 | 9967ED | 2021 |   |   |
-| 9746ED | 2021 | 9789ED | 2021 | 9898ED | 2021 | 9968ED | 2021 |   |   |
-| 9747ED | 2021 | 9790ED | 2021 | 9899ED | 2021 | 9969ED | 2021 |   |   |
-| 9748ED | 2021 | 9791ED | 2021 | 9900ED | 2021 | 9971ED | 2021 |   |   |
-| 9749ED | 2021 | 9792ED | 2021 | 9901ED | 2021 | 9972ED | 2021 |   |   |
-| 9750ED | 2021 | 9793ED | 2021 | 9906ED | 2021 | 9973ED | 2021 |   |   |
-| 9751ED | 2021 | 9794ED | 2021 | 9907ED | 2021 | 9974ED | 2021 |   |   |
-| 9752ED | 2021 | 9795ED | 2021 | 9908ED | 2021 | 9975ED | 2021 |   |   |
-| 9753ED | 2021 | 9796ED | 2021 | 9909ED | 2021 | 9976ED | 2021 |   |   |
-| 9754ED | 2021 | 9797ED | 2021 | 9911ED | 2021 | 9977ED | 2021 |   |   |
-| 9755ED | 2021 | 9799ED | 2021 | 9912ED | 2021 | 9978ED | 2021 |   |   |
-| 9756ED | 2021 | 9800ED | 2021 | 9914ED | 2021 | 9979ED | 2021 |   |   |
-| 9757ED | 2021 | 9801ED | 2021 | 9915ED | 2021 | 9980ED | 2021 |   |   |
-| 9758ED | 2021 | 9803ED | 2021 | 9918ED | 2021 | 9981ED | 2021 |   |   |
-| 9759ED | 2021 | 9804ED | 2021 | 9919ED | 2021 | 9982ED | 2021 |   |   |
-| 9760ED | 2021 | 9805ED | 2021 | 9920ED | 2021 | 9983ED | 2021 |   |   |
-| 9761ED | 2021 | 9806ED | 2021 | 9921ED | 2021 | 9984ED | 2021 |   |   |
-| 9762ED | 2021 | 9807ED | 2021 | 9922ED | 2021 | 9985ED | 2021 |   |   |
-| 9763ED | 2021 | 9808ED | 2021 | 9923ED | 2021 | 9986ED | 2021 |   |   |
-| 9764ED | 2021 | 9809ED | 2021 | 9924ED | 2021 | 9987ED | 2021 |   |   |
+| 9745ED | 2021 | 9788ED | 2021 | 9893ED | 2021 | 9967ED | 2021 |  |  |
+| 9746ED | 2021 | 9789ED | 2021 | 9898ED | 2021 | 9968ED | 2021 |  |  |
+| 9747ED | 2021 | 9790ED | 2021 | 9899ED | 2021 | 9969ED | 2021 |  |  |
+| 9748ED | 2021 | 9791ED | 2021 | 9900ED | 2021 | 9971ED | 2021 |  |  |
+| 9749ED | 2021 | 9792ED | 2021 | 9901ED | 2021 | 9972ED | 2021 |  |  |
+| 9750ED | 2021 | 9793ED | 2021 | 9906ED | 2021 | 9973ED | 2021 |  |  |
+| 9751ED | 2021 | 9794ED | 2021 | 9907ED | 2021 | 9974ED | 2021 |  |  |
+| 9752ED | 2021 | 9795ED | 2021 | 9908ED | 2021 | 9975ED | 2021 |  |  |
+| 9753ED | 2021 | 9796ED | 2021 | 9909ED | 2021 | 9976ED | 2021 |  |  |
+| 9754ED | 2021 | 9797ED | 2021 | 9911ED | 2021 | 9977ED | 2021 |  |  |
+| 9755ED | 2021 | 9799ED | 2021 | 9912ED | 2021 | 9978ED | 2021 |  |  |
+| 9756ED | 2021 | 9800ED | 2021 | 9914ED | 2021 | 9979ED | 2021 |  |  |
+| 9757ED | 2021 | 9801ED | 2021 | 9915ED | 2021 | 9980ED | 2021 |  |  |
+| 9758ED | 2021 | 9803ED | 2021 | 9918ED | 2021 | 9981ED | 2021 |  |  |
+| 9759ED | 2021 | 9804ED | 2021 | 9919ED | 2021 | 9982ED | 2021 |  |  |
+| 9760ED | 2021 | 9805ED | 2021 | 9920ED | 2021 | 9983ED | 2021 |  |  |
+| 9761ED | 2021 | 9806ED | 2021 | 9921ED | 2021 | 9984ED | 2021 |  |  |
+| 9762ED | 2021 | 9807ED | 2021 | 9922ED | 2021 | 9985ED | 2021 |  |  |
+| 9763ED | 2021 | 9808ED | 2021 | 9923ED | 2021 | 9986ED | 2021 |  |  |
+| 9764ED | 2021 | 9809ED | 2021 | 9924ED | 2021 | 9987ED | 2021 |  |  |
 
-**Inventarisnummers: Beperkt openbaar tot 1 januari 2022:**
+*Inventarisnummers: Beperkt openbaar tot 1 januari 2022:*
 
 | Nummer | Jaartal | Nummer | Jaartal |
 | --- | --- | --- | --- |
@@ -447,22 +419,22 @@ Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van bet
 | 9390ED | 2022 | 9897ED | 2022 |
 | 9410ED | 2022 | 9934ED | 2022 |
 | 9462ED | 2022 | 9970ED | 2022 |
-| 9478ED | 2022 |   |   |
-| 9489ED | 2022 |   |   |
-| 9496ED | 2022 |   |   |
-| 9580ED | 2022 |   |   |
-| 9587ED | 2022 |   |   |
-| 9601ED | 2022 |   |   |
-| 9607ED | 2022 |   |   |
-| 9636ED | 2022 |   |   |
-| 9639ED | 2022 |   |   |
-| 9640ED | 2022 |   |   |
-| 9641ED | 2022 |   |   |
-| 9642ED | 2022 |   |   |
-| 9643ED | 2022 |   |   |
-| 9645ED | 2022 |   |   |
-| 9650ED | 2022 |   |   |
-| 9653ED | 2022 |   |   |
+| 9478ED | 2022 |  |  |
+| 9489ED | 2022 |  |  |
+| 9496ED | 2022 |  |  |
+| 9580ED | 2022 |  |  |
+| 9587ED | 2022 |  |  |
+| 9601ED | 2022 |  |  |
+| 9607ED | 2022 |  |  |
+| 9636ED | 2022 |  |  |
+| 9639ED | 2022 |  |  |
+| 9640ED | 2022 |  |  |
+| 9641ED | 2022 |  |  |
+| 9642ED | 2022 |  |  |
+| 9643ED | 2022 |  |  |
+| 9645ED | 2022 |  |  |
+| 9650ED | 2022 |  |  |
+| 9653ED | 2022 |  |  |
 
 ##### Artikel 2
 

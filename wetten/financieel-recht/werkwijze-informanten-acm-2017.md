@@ -1,35 +1,16 @@
 ---
 title: "Werkwijze informanten ACM 2017"
 identifier: "BWBR0039988"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-09-20"
-last_updated: "2017-09-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039988"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14168403"
-version_id: "24368772"
-internal_id: "C34967701"
-label_id: "14129094"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039988/2017-09-20/0"
-intitule_bron: "Stcrt.2017-52587"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-09-19"
-intitule_in_force: "2017-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-52587"
-original_published_date: "2017-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-52587"
-entry_into_force_date: "2017-09-20"
-jci_1_3: "jci1.3:c:BWBR0039988&z=2017-09-20&g=2017-09-20"
-jci_1_0: "1.0:c:BWBR0039988&g=2017-09-20"
-citeertitel_status: "officieel"
-entry_into_force: "2017-09-20"
+publicatiedatum: 2017-09-20
+laatste_update: 2017-09-20
+status: geldig
+toestand: 2017-09-20
+bron: "https://wetten.overheid.nl/BWBR0039988"
+opgehaald: 2026-08-26
 ---
+
 # Werkwijze informanten ACM 2017
 
 ### § 1. Inleiding
@@ -42,8 +23,36 @@ Omdat de werkwijze ziet op informanten, is deze bijvoorbeeld niet van toepassing
 
 ### § 2. Definities
 
+- 1. Informant: een persoon die, anders dan op vordering van de ACM, gegevens, inlichtingen en/of bescheiden over een mogelijke overtreding ter beschikking stelt aan de ACM, en daarbij bepaalt dat zijn/haar identiteit alleen door hem of via een tussenpersoon bij de inlichtingeneenheid van de ACM bekend mag zijn.
+
+- 2. Inlichtingeneenheid: een onderdeel binnen de ACM dat belast is met het verzamelen en verwerken van inlichtingen van informanten.
+
+- 3. Tussenpersoon: een persoon die namens een informant gegevens, inlichtingen en/of bescheiden over een mogelijke overtreding ter beschikking stelt aan de ACM.
+
 ### § 3. Waarborgen geheimhouding identiteit
+
+- 1. Bij de inlichtingeneenheid van de ACM werken uitsluitend ambtenaren die door de ACM zijn aangewezen om de gegevens, inlichtingen en/of bescheiden ter beschikking gesteld door de informant in ontvangst te mogen nemen. De identiteit van de informant is alleen bij de inlichtingeneenheid bekend. De inlichtingeneenheid van de ACM garandeert dat de identiteit van een informant niet breder binnen de ACM bekend wordt gemaakt. De ambtenaren van de inlichtingeneenheid verwijderen informatie die de identiteit van de informant kan onthullen, voordat zij gegevens, inlichtingen en/of documenten binnen de ACM verspreiden.
+
+- 2. De inlichtingeneenheid van de ACM spant zich in om de anonimiteit van een informant buiten de ACM te waarborgen. De inlichtingeneenheid maakt met een informant nadere schriftelijke afspraken over de mate van inspanningen die zij en de informant zullen verrichten om ervoor te zorgen dat zijn of haar identiteit niet bekend wordt gemaakt. In uitzonderlijke gevallen kan toch aanleiding bestaan de identiteit van een informant buiten de ACM bekend te maken. Dit kan onder meer het geval zijn wanneer:
+
+   - – In een beroepsprocedure de rechter de ACM daartoe verplicht;
+
+   - – sprake is van een misdrijf waarvoor aangifteplicht geldt;
+
+   - – op basis van een gerechtelijk bevel een ambtenaar van de inlichtingeneenheid van de ACM als getuige onder ede wordt gehoord;
+
+   - – een ambtenaar van de inlichtingeneenheid van de ACM onder ede wordt gehoord in een parlementaire enquête.
 
 ### § 4. Wijze van informatie indienen
 
+- 1. Informanten en tussenpersonen kunnen via het telefoonnummer 070 – 722 2500 informatie indienen bij de inlichtingeneenheid van de ACM. Dit nummer is in ieder geval bereikbaar op werkdagen van 9.00 uur tot 17.00 uur. De inlichtingeneenheid spant zich in om ook buiten deze tijden bereikbaar te zijn.
+
+- 2. Na dit telefonische contact maakt de inlichtingeneenheid een afspraak voor een persoonlijke kennismaking. Tijdens dit gesprek kan de informant gegevens en/of documenten aan de inlichtingeneenheid verstrekken.
+
 ### § 5. Slotbepalingen
+
+- 3. Dit besluit wordt aangehaald als: Werkwijze informanten ACM 2017.
+
+- 4. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+
+- 5. De [Werkwijze (anonieme) informanten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0033544) (Scrt. 2013, nr. 16388) wordt ingetrokken.

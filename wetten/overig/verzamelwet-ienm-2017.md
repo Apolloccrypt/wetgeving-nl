@@ -1,59 +1,30 @@
 ---
 title: "Wet van 17 mei 2017 tot wijziging van de Wet luchtvaart en enkele andere wetten (Verzamelwet IenM 2017)"
+citeertitel: "Verzamelwet IenM 2017"
 identifier: "BWBR0039927"
-country: "nl"
-rank: "wet"
-publication_date: "2017-08-30"
-last_updated: "2017-08-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039927"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "14140743"
-version_id: "24318582"
-internal_id: "C34911601"
-label_id: "14101664"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039927/2017-08-30/0"
-intitule_bron: "Stb.2017-320"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-05-17"
-intitule_published: "2017-08-29"
-intitule_in_force: "2017-08-29"
-intitule_status: "goed"
-original_publication: "Stb.2017-320"
-original_signed_date: "2017-05-17"
-original_published_date: "2017-08-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "34591"
-original_url_id: "stb-2017-320"
-entry_into_force_date: "2017-08-30"
-jci_1_3: "jci1.3:c:BWBR0039927&z=2017-08-30&g=2017-08-30"
-jci_1_0: "1.0:c:BWBR0039927&g=2017-08-30"
-citeertitel_status: "officieel"
-short_title: "Verzamelwet IenM 2017"
-signed_date: "2017-05-17"
-entry_into_force: "2017-08-30"
+publicatiedatum: 2017-08-30
+laatste_update: 2017-08-30
+status: geldig
+toestand: 2017-08-30
+bron: "https://wetten.overheid.nl/BWBR0039927"
+opgehaald: 2026-08-26
 ---
+
 # Wet van 17 mei 2017 tot wijziging van de Wet luchtvaart en enkele andere wetten (Verzamelwet IenM 2017)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007) wijzigingen, bijstellingen en technische verbeteringen aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet luchtvaart.
+*Wijzigt de Wet luchtvaart.*
 
 ##### Artikel II
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel III
 
-Wijzigt de Spoorwegwet.
+*Wijzigt de Spoorwegwet.*
 
 ##### Artikel IV
 
@@ -70,5 +41,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel VI
 
 Deze wet wordt aangehaald als: Verzamelwet IenM 2017.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

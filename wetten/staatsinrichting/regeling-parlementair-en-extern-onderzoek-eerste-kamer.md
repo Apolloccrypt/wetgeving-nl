@@ -1,37 +1,16 @@
 ---
 title: "Regeling parlementair en extern onderzoek Eerste Kamer"
 identifier: "BWBR0040376"
-country: "nl"
-rank: "reglement"
-publication_date: "2023-06-13"
-last_updated: "2023-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040376"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "14451883"
-version_id: "24715922"
-internal_id: "C35383891"
-label_id: "14412614"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040376/2023-06-13/0"
-intitule_bron: "Kst.2017-CXXIV"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-05"
-intitule_published: "2017-12-05"
-intitule_in_force: "2017-12-05"
-intitule_status: "goed"
-original_publication: "Kst.2017-CXXIV"
-original_signed_date: "2017-12-05"
-original_published_date: "2017-12-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2017-12-12"
-jci_1_3: "jci1.3:c:BWBR0040376&z=2023-06-13&g=2023-06-13"
-jci_1_0: "1.0:c:BWBR0040376&g=2023-06-13"
-citeertitel_status: "officieel"
-signed_date: "2017-12-05"
-entry_into_force: "2017-12-12"
+publicatiedatum: 2017-12-12
+laatste_update: 2023-06-13
+status: geldig
+toestand: 2023-06-13
+bron: "https://wetten.overheid.nl/BWBR0040376"
+opgehaald: 2026-08-26
 ---
+
 # Regeling parlementair en extern onderzoek Eerste Kamer
 
 ### Hoofdstuk 1. Algemeen en definities
@@ -92,13 +71,13 @@ Bij parlementair onderzoek draagt de Kamer verantwoordelijkheid voor de uitvoeri
 
 - f. een onderbouwde keuze voor het in te zetten onderzoeksinstrument:
 
-- 1°. een in te stellen parlementaire enquêtecommissie als bedoeld in [artikel 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
+   - 1° een in te stellen parlementaire enquêtecommissie als bedoeld in [artikel 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
 
-- 2°. een in te stellen parlementaire onderzoekscommissie als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
+   - 2° een in te stellen parlementaire onderzoekscommissie als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
 
-- 3°. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
+   - 3° onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
 
-- 4°. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13).
+   - 4° onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13).
 
 3. De Voorzitter kan een aangenomen motie tot het doen van onderzoek aan de meest betrokken commissie of commissies voorleggen voor een nadere invulling van een of meer van de in het tweede lid genoemde onderwerpen.
 

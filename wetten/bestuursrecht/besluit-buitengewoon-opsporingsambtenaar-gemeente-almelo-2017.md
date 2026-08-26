@@ -1,56 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 1 november 2017 nr. BOACAT2017/075, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Almelo"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar gemeente Almelo 2017"
 identifier: "BWBR0040184"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040184"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "14346773"
-version_id: "24575702"
-internal_id: "C35192721"
-label_id: "14307464"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040184/2018-01-01/0"
-intitule_bron: "Stcrt.2017-63886"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-01"
-intitule_published: "2017-11-10"
-intitule_in_force: "2017-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-63886"
-original_signed_date: "2017-11-01"
-original_published_date: "2017-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-63886"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040184&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040184&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Almelo 2017"
-signed_date: "2017-11-01"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040184"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 1 november 2017 nr. BOACAT2017/075, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Almelo
-
-Gelezen het verzoek van de gemeente Almelo van 25 oktober 2017 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41), van het Besluit buitengewoon opsporingsambtenaar;
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -109,5 +71,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2018 en vervalt met ingan
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Almelo 2017.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

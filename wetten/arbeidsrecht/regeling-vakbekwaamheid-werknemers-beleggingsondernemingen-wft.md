@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 22 december 2017, 2017-0000211126, directie Financiële Markten, houdende regels tot vaststelling van de criteria voor de beoordeling van de vakbekwaamheid van werknemers van een beleggingsonderneming en tot wijziging van de Regeling taakuitoefening en grensoverschrijdende samenwerking financiële toezichthouders Wft ter implementatie van de richtlijn markten voor financiële instrumenten 2014 en van de Vrijstellingsregeling Wft (Regeling vakbekwaamheid werknemers beleggingsondernemingen Wft)"
+citeertitel: "Regeling vakbekwaamheid werknemers beleggingsondernemingen Wft"
 identifier: "BWBR0040497"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-05"
-last_updated: "2017-01-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040497"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "14491613"
-version_id: "24800822"
-internal_id: "C35472951"
-label_id: "14452044"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040497/2017-01-05/0"
-intitule_bron: "Stcrt.2018-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-22"
-intitule_published: "2018-01-04"
-intitule_in_force: "2018-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-237"
-original_signed_date: "2017-12-22"
-original_published_date: "2018-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-237"
-entry_into_force_date: "2017-01-05"
-jci_1_3: "jci1.3:c:BWBR0040497&z=2017-01-05&g=2017-01-05"
-jci_1_0: "1.0:c:BWBR0040497&g=2017-01-05"
-citeertitel_status: "officieel"
-short_title: "Regeling vakbekwaamheid werknemers beleggingsondernemingen Wft"
-signed_date: "2017-12-22"
-entry_into_force: "2017-01-05"
+publicatiedatum: 2017-01-05
+laatste_update: 2017-01-05
+status: geldig
+toestand: 2017-01-05
+bron: "https://wetten.overheid.nl/BWBR0040497"
+opgehaald: 2026-08-26
 ---
+
 # Regeling van de Minister van Financiën van 22 december 2017, 2017-0000211126, directie Financiële Markten, houdende regels tot vaststelling van de criteria voor de beoordeling van de vakbekwaamheid van werknemers van een beleggingsonderneming en tot wijziging van de Regeling taakuitoefening en grensoverschrijdende samenwerking financiële toezichthouders Wft ter implementatie van de richtlijn markten voor financiële instrumenten 2014 en van de Vrijstellingsregeling Wft (Regeling vakbekwaamheid werknemers beleggingsondernemingen Wft)
-
-Gelet op de [artikelen 1:25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:25), [1:69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:69), [2:104, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:104), [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:3) en [4:9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:14, tweede lid, aanhef en onderdeel a, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14), en de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=5a) en [29b, tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=29b);
-
-BESLUIT:
 
 #### § 1. Inleidende bepaling
 
@@ -46,13 +20,13 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- a. **het besluit:** het [Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421);
+- a. *het besluit:* het [Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421);
 
-- b. **werknemers:** werknemers en andere natuurlijke personen die werkzaam zijn onder verantwoordelijkheid van de beleggingsonderneming.
+- b. *werknemers:* werknemers en andere natuurlijke personen die werkzaam zijn onder verantwoordelijkheid van de beleggingsonderneming.
 
 #### § 2. Criteria vakbekwaamheid
 
-##### Artikel 2. Bepalingen ter uitvoering van [artikel 5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=5a)
+##### Artikel 2. Bepalingen ter uitvoering van artikel 5a van het besluit
 
 1. Een beleggingsonderneming zorgt ervoor dat haar werknemers die cliënten informeren over financiële instrumenten of gestructureerde deposito’s, beleggingsdiensten of nevendiensten of die zich rechtstreeks bezighouden met het adviseren van cliënten over financiële instrumenten of gestructureerde deposito’s over de benodigde kennis beschikken van:
 
@@ -90,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Aanvullende regels bedrijfsvoering
 
-##### Artikel 3. Bepaling ter uitvoering van [artikel 29b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=29b)
+##### Artikel 3. Bepaling ter uitvoering van artikel 29b, tweede lid, van het besluit
 
 Een beleggingsonderneming evalueert jaarlijks de vakbekwaamheid en de opleidingswensen van werknemers als bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0040497&paragraaf=2&artikel=2&z=2017-01-05&g=2017-01-05).
 
@@ -98,11 +72,11 @@ Een beleggingsonderneming evalueert jaarlijks de vakbekwaamheid en de opleidings
 
 ##### Artikel 4
 
-Wijzigt de Regeling taakuitoefening en grensoverschrijdende samenwerking financiële toezichthouders Wft.
+*Wijzigt de Regeling taakuitoefening en grensoverschrijdende samenwerking financiële toezichthouders Wft.*
 
 ##### Artikel 5
 
-Wijzigt de Vrijstellingsregeling Wft.
+*Wijzigt de Vrijstellingsregeling Wft.*
 
 #### § 4*. Slotbepalingen
 
@@ -113,5 +87,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet implementatie ric
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling vakbekwaamheid werknemers beleggingsondernemingen Wft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,61 +1,36 @@
 ---
 title: "Regeling cliëntenparticipatie UWV 2018"
 identifier: "BWBR0040774"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-05-08"
-last_updated: "2024-05-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040774"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14581063"
-version_id: "24958072"
-internal_id: "C35689231"
-label_id: "14534884"
-dtd_version: "2.0"
-original_entry_into_force: "2018-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040774/2024-05-08/0"
-intitule_bron: "Stcrt.2018-17548"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-03-05"
-intitule_published: "2018-03-29"
-intitule_in_force: "2018-03-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-17548"
-original_signed_date: "2018-03-05"
-original_published_date: "2018-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-17548"
-entry_into_force_date: "2018-03-30"
-jci_1_3: "jci1.3:c:BWBR0040774&z=2024-05-08&g=2024-05-08"
-jci_1_0: "1.0:c:BWBR0040774&g=2024-05-08"
-citeertitel_status: "officieel"
-signed_date: "2018-03-05"
-entry_into_force: "2018-03-30"
+publicatiedatum: 2018-03-30
+laatste_update: 2024-05-08
+status: geldig
+toestand: 2024-05-08
+bron: "https://wetten.overheid.nl/BWBR0040774"
+opgehaald: 2026-08-26
 ---
+
 # Regeling cliëntenparticipatie UWV 2018
-
-Gelet op [artikel 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=7);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
-- a). **Wet SUWI:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
+- a) *Wet SUWI:*
+ [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
-- b). **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in [artikel 1, eerste lid, Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1).
+- b) *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in [artikel 1, eerste lid, Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1).
 
-- c). **Onderdeel Cliëntenparticipatie:** het organisatieonderdeel binnen UWV dat zich bezig houdt met de uitvoering van de cliëntenparticipatie.
+- c) *Onderdeel Cliëntenparticipatie:* het organisatieonderdeel binnen UWV dat zich bezig houdt met de uitvoering van de cliëntenparticipatie.
 
-- d). **Cliënt:** de persoon die een uitkering, een voorziening of ondersteuning bij het vinden van werk ontvangt op grond van een door UWV uitgevoerde wettelijke regeling. Tevens wordt als cliënt aangemerkt de persoon die als werkzoekende staat ingeschreven bij UWV WERKbedrijf en de persoon die een aanvraag heeft lopen bij UWV. Voor het toepassen van deze regeling kan onder cliënt ook worden verstaan de vertegenwoordiger van één cliënt of een groep cliënten.
+- d) *Cliënt:* de persoon die een uitkering, een voorziening of ondersteuning bij het vinden van werk ontvangt op grond van een door UWV uitgevoerde wettelijke regeling. Tevens wordt als cliënt aangemerkt de persoon die als werkzoekende staat ingeschreven bij UWV WERKbedrijf en de persoon die een aanvraag heeft lopen bij UWV. Voor het toepassen van deze regeling kan onder cliënt ook worden verstaan de vertegenwoordiger van één cliënt of een groep cliënten.
 
-- e). **Cliëntenraad:** een uit cliënten bestaand gremium met taken en bevoegdheden zoals in deze regeling omschreven.
+- e) *Cliëntenraad:* een uit cliënten bestaand gremium met taken en bevoegdheden zoals in deze regeling omschreven.
 
-- f). **Centrale Cliëntenraad:** cliëntenraad die op centraal landelijk is georganiseerd en functioneert.
+- f) *Centrale Cliëntenraad:* cliëntenraad die op centraal landelijk is georganiseerd en functioneert.
 
-- g). **Decentrale Cliëntenraad:** cliëntenraad die per UWV-district is georganiseerd en functioneert.
+- g) *Decentrale Cliëntenraad:* cliëntenraad die per UWV-district is georganiseerd en functioneert.
 
-- h). **Belangenorganisatie:** cliëntenorganisatie of vakorganisatie.
+- h) *Belangenorganisatie:* cliëntenorganisatie of vakorganisatie.
 
 ##### Artikel 2. Reikwijdte regeling
 
@@ -67,47 +42,47 @@ De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te a
 
 ##### Artikel 4. Bevoegdheden
 
-1. **Initiatiefrecht**
+1. *Initiatiefrecht*
 
-- a). De cliëntenraad heeft de bevoegdheid alle aangelegenheden die de uitvoering en (de kwaliteit van) de dienstverlening door UWV aan cliënten raken, in de overlegvergadering als bedoeld in [artikel 6 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=6&z=2024-05-08&g=2024-05-08) respectievelijk [7 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=7&z=2024-05-08&g=2024-05-08) met UWV aan de orde te stellen.
+- a) De cliëntenraad heeft de bevoegdheid alle aangelegenheden die de uitvoering en (de kwaliteit van) de dienstverlening door UWV aan cliënten raken, in de overlegvergadering als bedoeld in [artikel 6 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=6&z=2024-05-08&g=2024-05-08) respectievelijk [7 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=7&z=2024-05-08&g=2024-05-08) met UWV aan de orde te stellen.
 
-- b). De cliëntenraad heeft het recht over alle aangelegenheden die de uitvoering en (de kwaliteit van) de dienstverlening door UWV betreffen, verbetervoorstellen te doen.
+- b) De cliëntenraad heeft het recht over alle aangelegenheden die de uitvoering en (de kwaliteit van) de dienstverlening door UWV betreffen, verbetervoorstellen te doen.
 
-- c). De cliëntenraad stelt jaarlijks een activiteitenplan op, dat tijdig met UWV wordt besproken.
+- c) De cliëntenraad stelt jaarlijks een activiteitenplan op, dat tijdig met UWV wordt besproken.
 
-- d). Jaarlijks vóór 1 april maakt de cliëntenraad een verslag van de werkzaamheden over het voorafgaande jaar.
+- d) Jaarlijks vóór 1 april maakt de cliëntenraad een verslag van de werkzaamheden over het voorafgaande jaar.
 
-- e). De cliëntenraad heeft de bevoegdheid om voor een goede invulling van zijn taakstelling in voorkomende gevallen, in overleg met UWV, gebruik te maken van UWV-deskundigheid en externe deskundigheid. De kosten voor het inroepen van externe deskundigheid worden alleen vergoed na voorafgaande uitdrukkelijke schriftelijke toestemming van UWV. Deze toestemming wordt alleen op redelijke gronden geweigerd.
+- e) De cliëntenraad heeft de bevoegdheid om voor een goede invulling van zijn taakstelling in voorkomende gevallen, in overleg met UWV, gebruik te maken van UWV-deskundigheid en externe deskundigheid. De kosten voor het inroepen van externe deskundigheid worden alleen vergoed na voorafgaande uitdrukkelijke schriftelijke toestemming van UWV. Deze toestemming wordt alleen op redelijke gronden geweigerd.
 
-- f). De cliëntenraad heeft de bevoegdheid om een communicatieplan en een huishoudelijk reglement op te stellen. De raden stellen in onderling overleg de hoofdlijnen van het huishoudelijk reglement vast. Als een huishoudelijk reglement niet in lijn is met de regeling, prevaleert het gestelde in de regeling.
+- f) De cliëntenraad heeft de bevoegdheid om een communicatieplan en een huishoudelijk reglement op te stellen. De raden stellen in onderling overleg de hoofdlijnen van het huishoudelijk reglement vast. Als een huishoudelijk reglement niet in lijn is met de regeling, prevaleert het gestelde in de regeling.
 
-2. **Informatierecht**
+2. *Informatierecht*
 
-- a). De cliëntenraad wordt tijdig en volledig geïnformeerd over de resultaten van klanttevredenheidsonderzoeken, enquêtes en klachtenrapportages.
+- a) De cliëntenraad wordt tijdig en volledig geïnformeerd over de resultaten van klanttevredenheidsonderzoeken, enquêtes en klachtenrapportages.
 
-- b). De cliëntenraad krijgt spontaan, tijdig en op verzoek alle informatie die hij voor de uitoefening van zijn taken en bevoegdheden zoals in deze regeling omschreven nodig heeft, tenzij enig wettelijk voorschrift de verstrekking daarvan in de weg staat.
+- b) De cliëntenraad krijgt spontaan, tijdig en op verzoek alle informatie die hij voor de uitoefening van zijn taken en bevoegdheden zoals in deze regeling omschreven nodig heeft, tenzij enig wettelijk voorschrift de verstrekking daarvan in de weg staat.
 
-- c). De leden van de cliëntenraad zullen geheimhouding betrachten ten aanzien van door UWV verstrekte informatie die door UWV als vertrouwelijk is aangemerkt. UWV vermeldt de reden van de vertrouwelijkheid en de periode waarover.
+- c) De leden van de cliëntenraad zullen geheimhouding betrachten ten aanzien van door UWV verstrekte informatie die door UWV als vertrouwelijk is aangemerkt. UWV vermeldt de reden van de vertrouwelijkheid en de periode waarover.
 
-3. **Adviesrecht**
+3. *Adviesrecht*
 
-- a). De cliëntenraad wordt tijdig betrokken bij de voorbereiding en de totstandkoming van zaken waarmee de cliënt in de uitvoering rechtstreeks wordt geconfronteerd, zoals formulieren, brochures, klachtenrapportages, enquêtes en klanttevredenheids-onderzoeken.
+- a) De cliëntenraad wordt tijdig betrokken bij de voorbereiding en de totstandkoming van zaken waarmee de cliënt in de uitvoering rechtstreeks wordt geconfronteerd, zoals formulieren, brochures, klachtenrapportages, enquêtes en klanttevredenheids-onderzoeken.
 
-- b). UWV stelt de cliëntenraad in de gelegenheid advies uit te brengen over aspecten van het uitvoeringsbeleid en de uitvoeringspraktijk. Indien UWV de cliëntenraad advies vraagt, wordt het advies binnen vier weken uitgebracht. De cliëntenraad kan het uitbrengen van een advies voor vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan. Ten minste de navolgende zaken komen in het overleg tussen de cliëntenraad en UWV aan de orde:
+- b) UWV stelt de cliëntenraad in de gelegenheid advies uit te brengen over aspecten van het uitvoeringsbeleid en de uitvoeringspraktijk. Indien UWV de cliëntenraad advies vraagt, wordt het advies binnen vier weken uitgebracht. De cliëntenraad kan het uitbrengen van een advies voor vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan. Ten minste de navolgende zaken komen in het overleg tussen de cliëntenraad en UWV aan de orde:
 
-- 1. klachtenprocedures;
+   - 1. klachtenprocedures;
 
-- 2. de regeling cliëntenparticipatie UWV;
+   - 2. de regeling cliëntenparticipatie UWV;
 
-- 3. privacyreglement;
+   - 3. privacyreglement;
 
-- 4. informatie- en voorlichtingsbeleid;
+   - 4. informatie- en voorlichtingsbeleid;
 
-- 5. belangrijke (voorgenomen) beleidsbeslissingen en beleidswijzigingen die van invloed zijn op de dienstverlening aan en de positie van de cliënt van UWV;
+   - 5. belangrijke (voorgenomen) beleidsbeslissingen en beleidswijzigingen die van invloed zijn op de dienstverlening aan en de positie van de cliënt van UWV;
 
-- 6. inkoopbeleid re-integratie.
+   - 6. inkoopbeleid re-integratie.
 
-- c). Alle adviezen, informatieverzoeken en verbetervoorstellen worden door de cliëntenraad schriftelijk verstrekt en door UWV beoordeeld. UWV verzorgt binnen vier weken een schriftelijke, met redenen omklede reactie. UWV kan deze termijn voor vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.
+- c) Alle adviezen, informatieverzoeken en verbetervoorstellen worden door de cliëntenraad schriftelijk verstrekt en door UWV beoordeeld. UWV verzorgt binnen vier weken een schriftelijke, met redenen omklede reactie. UWV kan deze termijn voor vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.
 
 ##### Artikel 5. Instellen commissie
 
@@ -169,7 +144,7 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 5. De cliëntenraad kan in overleg met UWV instrumenten toepassen voor het verkrijgen van cliëntsignalen vanuit de uitvoeringspraktijk in de lokale vestigingen (werkpleinen). Instrumenten die met instemming van UWV worden toegepast, worden door het UWV gefaciliteerd.
 
-6. De cliëntenraad is bevoegd deel te nemen aan overlegvormen op het gebied van cliëntenparticipatie op de lokale vestigingen (werkpleinen). Op cliëntenraadsleden die deelnemen aan deze overlegvormen is de regeling Onkosten- en reiskostenvergoeding, die als bijlage bij deze regeling is opgenomen, onverkort van toepassing. Voor vergoeding van onkosten en reiskosten in verband met deelname aan overleggen binnen de arbeidsmarktregio, zoals overkoepelende overleggen van cliëntenraden van UWV met cliëntenraden van gemeenten of het regionaal werkbedrijf, is vooraf toestemming van de adviseur cliëntenparticipatie van UWV nodig.
+6. De cliëntenraad is bevoegd deel te nemen aan overlegvormen op het gebied van cliëntenparticipatie op de lokale vestigingen (werkpleinen). Op cliëntenraadsleden die deelnemen aan deze overlegvormen is de regeling Onkosten- en reiskostenvergoeding, die als [bijlage](https://wetten.overheid.nl/BWBR0040774) bij deze regeling is opgenomen, onverkort van toepassing. Voor vergoeding van onkosten en reiskosten in verband met deelname aan overleggen binnen de arbeidsmarktregio, zoals overkoepelende overleggen van cliëntenraden van UWV met cliëntenraden van gemeenten of het regionaal werkbedrijf, is vooraf toestemming van de adviseur cliëntenparticipatie van UWV nodig.
 
 7. De decentrale cliëntenraad kan de uitvoering van het beleid van UWV toetsen. Indien de decentrale cliëntenraad onvolkomenheden of tekortkomingen in de uitvoering van het beleid constateert, licht de decentrale cliëntenraad de centrale cliëntenraad daar schriftelijk over in.
 
@@ -215,7 +190,7 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 - h. Voor een lid van een decentrale raad, door verhuizing naar een ander district;
 
-- i. vervallen;
+- i. *vervallen*;
 
 - j. wegens overlijden.
 
@@ -229,17 +204,17 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 ##### Artikel 10. Adviescommissie
 
-1. **Taak**
+1. *Taak*
 
 De adviescommissie heeft tot taak ter zake van een verzoek als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=9&z=2024-05-08&g=2024-05-08) een advies ten behoeve van de Raad van Bestuur af te geven.
 
-2. **Samenstelling**
+2. *Samenstelling*
 
 De adviescommissie bestaat uit twee juristen en een onafhankelijke voorzitter. Zowel de achterbanorganisaties als UWV hebben het recht hebben om elk één jurist te leveren. In het geval de achterbanorganisaties geen gebruikmaken van dit recht dan levert UWV beide juristen.
 
 De leden van de adviescommissie worden benoemd voor 4 jaar door de Raad van Bestuur met dien verstande dat de voorzitter eerst kan worden benoemd nadat daarover overeenstemming is bereikt met de centrale cliëntenraad. Na benoeming kan éénmalige herbenoeming plaatsvinden voor nogmaals 4 jaar.
 
-3. **Wraking en verschoning**
+3. *Wraking en verschoning*
 
 Een lid van de adviescommissie kan op verzoek van één of beide partijen worden gewraakt op grond van feiten of omstandigheden die het vormen van een onpartijdig oordeel zouden kunnen bemoeilijken. Een dergelijk verzoek dient te worden gedaan uiterlijk op de zitting waarop het verzoek als bedoeld in [artikel 9 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=9&z=2024-05-08&g=2024-05-08) wordt behandeld. De overige leden van de adviescommissie beslissen op het verzoek om wraking. Bij staking van stemmen wordt het verzoek toegewezen.
 
@@ -249,25 +224,25 @@ De beslissing op het wrakingsverzoek alsmede de beslissing tot verschoning wordt
 
 In geval een lid van de adviescommissie wordt gewraakt of zich verschoont, draagt UWV in overleg met de achterbanorganisaties zorg voor vervanging van dat lid van de adviescommissie.
 
-4. **Geheimhouding**
+4. *Geheimhouding*
 
 Tenzij een wettelijk voorschrift anders bepaalt, zijn de leden van de adviescommissie tot geheimhouding verplicht ten aanzien van alle gegevens, die hen bij de behandeling van het verzoek ter kennis zijn gebracht voor zover dit uit de aard der zaak voortvloeit.
 
-5. **Bijstand of vertegenwoordiging**
+5. *Bijstand of vertegenwoordiging*
 
 Partijen hebben het recht zich door een derde te laten bijstaan of te laten vertegenwoordigen.
 
-6. **Hoor en wederhoor**
+6. *Hoor en wederhoor*
 
-- a. **Onderzoek en bemiddeling** De adviescommissie roept de (plaatsvervangend) voorzitter van de cliëntenraad en het voor vervanging voorgedragen lid op teneinde mondeling te worden gehoord. De adviescommissie kan uit eigen beweging of op verzoek van een van de partijen, partijen (nadrukkelijk) uitnodigen om te proberen alsnog zelf de zaak te schikken, al dan niet via een mediationtraject. Indien een mediationtraject wordt ingezet, zal de procedure bij de adviescommissie voor een door de commissie te bepalen duur worden opgeschort. De procedure bij de adviescommissie wordt voortgezet indien het mediationtraject zonder succes is beëindigd. De adviescommissie kan in elke stand van de procedure mediation voorstellen. Indien de adviescommissie – gehoord de partijen – constateert dat partijen er niet zelf in zijn geslaagd de zaak te schikken dan wel een mediationtraject zonder succes is beëindigd, zullen partijen in elkaars aanwezigheid worden gehoord.
+- a. *Onderzoek en bemiddeling* De adviescommissie roept de (plaatsvervangend) voorzitter van de cliëntenraad en het voor vervanging voorgedragen lid op teneinde mondeling te worden gehoord. De adviescommissie kan uit eigen beweging of op verzoek van een van de partijen, partijen (nadrukkelijk) uitnodigen om te proberen alsnog zelf de zaak te schikken, al dan niet via een mediationtraject. Indien een mediationtraject wordt ingezet, zal de procedure bij de adviescommissie voor een door de commissie te bepalen duur worden opgeschort. De procedure bij de adviescommissie wordt voortgezet indien het mediationtraject zonder succes is beëindigd. De adviescommissie kan in elke stand van de procedure mediation voorstellen. Indien de adviescommissie – gehoord de partijen – constateert dat partijen er niet zelf in zijn geslaagd de zaak te schikken dan wel een mediationtraject zonder succes is beëindigd, zullen partijen in elkaars aanwezigheid worden gehoord.
 
-- b. **Hoor en wederhoor** Ambtshalve of op verzoek kunnen belanghebbenden afzonderlijk worden gehoord, indien aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden. Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid. De adviescommissie kan, al dan niet op verzoek van een belanghebbende, toepassing van het in de vorige zin vermelde achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Indien de adviescommissie belanghebbenden niet op de hoogte stelt van hetgeen is verhandeld tijdens het horen buiten hun aanwezigheid, omdat geheimhouding om gewichtige redenen geboden is, deelt de adviescommissie dat mee aan belanghebbenden. Gewichtige redenen zijn in ieder geval niet aanwezig, voor zover ingevolge de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) de verplichting bestaat een verzoek om informatie, vervat in deze stukken, in te willigen. Indien een gewichtige reden is gelegen in de vrees voor schade aan de lichamelijke of geestelijke gezondheid van een belanghebbende, kan inzage van de betreffende stukken worden voorbehouden aan een gemachtigde die hetzij advocaat hetzij arts is. De adviescommissie stelt plaats, dag en uur vast en stelt partijen daarvan op de hoogte. De adviescommissie kan partijen op hun verzoek toestaan getuigen of deskundigen mee te nemen en door haar te doen horen. De namen en adressen dienen uiterlijk één week voor de zitting van de adviescommissie aan haar te zijn opgegeven. Van het horen wordt een verslag gemaakt, dat door de voorzitter van de adviescommissie wordt vastgesteld. Hij draagt zorg voor toezending van het verslag aan partijen.
+- b. *Hoor en wederhoor* Ambtshalve of op verzoek kunnen belanghebbenden afzonderlijk worden gehoord, indien aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden. Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid. De adviescommissie kan, al dan niet op verzoek van een belanghebbende, toepassing van het in de vorige zin vermelde achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Indien de adviescommissie belanghebbenden niet op de hoogte stelt van hetgeen is verhandeld tijdens het horen buiten hun aanwezigheid, omdat geheimhouding om gewichtige redenen geboden is, deelt de adviescommissie dat mee aan belanghebbenden. Gewichtige redenen zijn in ieder geval niet aanwezig, voor zover ingevolge de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) de verplichting bestaat een verzoek om informatie, vervat in deze stukken, in te willigen. Indien een gewichtige reden is gelegen in de vrees voor schade aan de lichamelijke of geestelijke gezondheid van een belanghebbende, kan inzage van de betreffende stukken worden voorbehouden aan een gemachtigde die hetzij advocaat hetzij arts is. De adviescommissie stelt plaats, dag en uur vast en stelt partijen daarvan op de hoogte. De adviescommissie kan partijen op hun verzoek toestaan getuigen of deskundigen mee te nemen en door haar te doen horen. De namen en adressen dienen uiterlijk één week voor de zitting van de adviescommissie aan haar te zijn opgegeven. Van het horen wordt een verslag gemaakt, dat door de voorzitter van de adviescommissie wordt vastgesteld. Hij draagt zorg voor toezending van het verslag aan partijen.
 
-7. **Inlichtingen, getuigen en deskundigen**
+7. *Inlichtingen, getuigen en deskundigen*
 
 De adviescommissie kan, indien zij dat noodzakelijk acht, zelf inlichtingen inwinnen, onder meer door het horen van getuigen of deskundigen, door het instellen van een onderzoek of door het doen instellen van een onderzoek door een of meer door haar aan te wijzen deskundigen. De adviescommissie geeft daarvan kennis aan partijen. Partijen kunnen bij het horen van getuigen of deskundigen desgewenst aanwezig zijn. De adviescommissie verstrekt een afschrift van het deskundigenrapport aan partijen, die daarop binnen twee weken schriftelijk bij de adviescommissie kunnen reageren. De adviescommissie kan de termijn van twee weken bekorten of verlengen.
 
-8. **Advies**
+8. *Advies*
 
 De adviescommissie adviseert over de vraag of de gestelde belemmering van de samenwerking bij de werkzaamheden van de cliëntenraad het beëindigen van het lidmaatschap in redelijkheid rechtvaardigt. De adviescommissie neemt daarbij de algemene beginselen van behoorlijk bestuur in acht. De adviescommissie beslist met meerderheid van stemmen over het uit te brengen advies. Het advies wordt door de voorzitter ondertekend en schriftelijk aan de Raad van Bestuur medegedeeld.
 
@@ -281,17 +256,17 @@ Het advies bevat in elk geval:
 
 - f. de motivering van het gegeven advies.
 
-9. **Besluit**
+9. *Besluit*
 
 De Raad van Bestuur besluit en betrekt daarbij het advies van de commissie.
 
-10. **Niet opvolgen besluit Raad van Bestuur UWV**
+10. *Niet opvolgen besluit Raad van Bestuur UWV*
 
 Indien de cliëntenraad het besluit van de Raad van Bestuur zonder gerechtvaardigde reden niet opvolgt:
 
-- −. binnen de in het besluit van de Raad van Bestuur gestelde termijn of
+- − binnen de in het besluit van de Raad van Bestuur gestelde termijn of
 
-- −. indien dat besluit geen termijn bevat, binnen een redelijke termijn niet opvolgt, worden de activiteiten van de cliëntenraad opgeschort. In dat geval zal de Raad van Bestuur na overleg met de centrale cliëntenraad zich beraden op eventuele vervolgstappen.
+- − indien dat besluit geen termijn bevat, binnen een redelijke termijn niet opvolgt, worden de activiteiten van de cliëntenraad opgeschort. In dat geval zal de Raad van Bestuur na overleg met de centrale cliëntenraad zich beraden op eventuele vervolgstappen.
 
 ##### Artikel 11. Voordracht landelijke cliëntenraad
 
@@ -335,7 +310,7 @@ Indien de cliëntenraad het besluit van de Raad van Bestuur zonder gerechtvaardi
 
 ##### Artikel 14. Vergoedingen
 
-De leden van de cliëntenraad hebben recht op een door UWV vast te stellen onkostenvergoeding en een vergoeding voor reis- en verblijfskosten. UWV stelt hiertoe een regeling ‘Onkosten- en reiskostenvergoeding cliëntenraadsleden UWV’ op.
+De leden van de cliëntenraad hebben recht op een door UWV vast te stellen onkostenvergoeding en een vergoeding voor reis- en verblijfskosten. UWV stelt hiertoe een regeling ‘[Onkosten- en reiskostenvergoeding cliëntenraadsleden UWV](https://wetten.overheid.nl/BWBR0040774)’ op.
 
 ##### Artikel 15. Verzekering
 
@@ -351,7 +326,7 @@ Geschillen voortkomend uit de interpretatie van deze regeling worden aan de cent
 
 ##### Artikel 18. Overgangs- en slotbepalingen
 
-1. Het [Besluit regeling cliëntenparticipatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031366) van 21 februari 2012 wordt ingetrokken.
+1. Het [Besluit regeling cliëntenparticipatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031366) van 21 februari 2012 wordt ingetrokken.
 
 2. UWV maakt het bestaan van een structuur van cliëntenparticipatie bekend bij de cliënten van UWV en de belangenorganisaties. Daarnaast zorgt UWV voor bekendmaking van de regeling.
 
@@ -366,25 +341,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Regeling cliëntenparticipatie UWV 2018.
-
-## Regeling Onkosten- en reiskostenvergoeding cliëntenraadsleden UWV 2018
-
-### Artikel 1. Vergoeding kosten op declaratiebasis
-
-### Artikel 2. Bewijs van aanwezigheid
-
-### Artikel 3. Reis- en onkosten
-
-Een volledig overzicht van de te vergoeden onkosten en de voorwaarden voor vergoeding staan in het schema aan het slot van deze regeling.
-
-### Artikel 4. Wijze van declareren
-
-Declaraties, waarbij ook de vaste onkosten worden opgevoerd kunnen na afloop van de betreffende maand worden ingediend. Declaraties zonder de gevraagde bewijsstukken worden niet in behandeling genomen en aan de indiener geretourneerd. Pinbonnen worden niet als bewijsstuk beschouwd.
-
-### Artikel 5. Uitbetaling
-
-UWV verwerkt binnengekomen en geaccordeerde declaraties wekelijks voor uitbetaling.
-
-Eventuele kosten als gevolg van verlet komen niet voor vergoeding in aanmerking omdat UWV in dit geval een werkgevershouding in moet nemen.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

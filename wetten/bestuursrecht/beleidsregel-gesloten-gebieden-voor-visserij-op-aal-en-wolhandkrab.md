@@ -1,56 +1,28 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken van 28 september 2017, nr. WJZ / 17055112, betreffende het sluiten en openen van gebieden voor de visserij op aal en wolhandkrab (Beleidsregel gesloten gebieden voor visserij op aal en wolhandkrab)"
+citeertitel: "Beleidsregel gesloten gebieden voor visserij op aal en wolhandkrab"
 identifier: "BWBR0040040"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-10-05"
-last_updated: "2017-10-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040040"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "14192773"
-version_id: "24401152"
-internal_id: "C35003851"
-label_id: "14153354"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040040/2017-10-05/0"
-intitule_bron: "Stcrt.2017-57188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-09-28"
-intitule_published: "2017-10-04"
-intitule_in_force: "2017-10-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-57188"
-original_signed_date: "2017-09-28"
-original_published_date: "2017-10-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-57188"
-entry_into_force_date: "2017-10-05"
-jci_1_3: "jci1.3:c:BWBR0040040&z=2017-10-05&g=2017-10-05"
-jci_1_0: "1.0:c:BWBR0040040&g=2017-10-05"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel gesloten gebieden voor visserij op aal en wolhandkrab"
-signed_date: "2017-09-28"
-entry_into_force: "2017-10-05"
+publicatiedatum: 2017-10-05
+laatste_update: 2017-10-05
+status: geldig
+toestand: 2017-10-05
+bron: "https://wetten.overheid.nl/BWBR0040040"
+opgehaald: 2026-08-26
 ---
+
 # Beleidsregel van de Minister van Economische Zaken van 28 september 2017, nr. WJZ / 17055112, betreffende het sluiten en openen van gebieden voor de visserij op aal en wolhandkrab (Beleidsregel gesloten gebieden voor visserij op aal en wolhandkrab)
-
-Handelende in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport;
-
-Gelet op [artikel 5:10, tweede lid, onderdeel f, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.10) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- **aal:** Anguilla anguilla;
+- *aal:* Anguilla anguilla;
 
-- **PCB:** polychloorbifenyl;
+- *PCB:* polychloorbifenyl;
 
-- **wolhandkrab:** Eriocheir sinensis.
+- *wolhandkrab:* Eriocheir sinensis.
 
 ##### Artikel 2
 
@@ -87,5 +59,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel gesloten gebieden voor visserij op aal en wolhandkrab.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

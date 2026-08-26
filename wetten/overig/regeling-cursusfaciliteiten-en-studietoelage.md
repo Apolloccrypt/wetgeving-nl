@@ -1,49 +1,17 @@
 ---
 title: "Regeling cursusfaciliteiten en studietoelage"
 identifier: "BWBR0040683"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-02-04"
-last_updated: "2026-02-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040683"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14562163"
-version_id: "24922362"
-internal_id: "C35644961"
-label_id: "14516344"
-dtd_version: "2.0"
-original_entry_into_force: "1987-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040683/2026-02-04/0"
-intitule_bron: "Stcrt.2018-11407"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-08-28"
-intitule_published: "2018-03-01"
-intitule_in_force: "2018-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-11407"
-original_signed_date: "1987-08-28"
-original_published_date: "2018-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-11407"
-entry_into_force_date: "1987-08-28"
-jci_1_3: "jci1.3:c:BWBR0040683&z=2026-02-04&g=2026-02-04"
-jci_1_0: "1.0:c:BWBR0040683&g=2026-02-04"
-citeertitel_status: "officieel"
-signed_date: "1987-08-28"
-entry_into_force: "1987-08-28"
+publicatiedatum: 1987-08-28
+laatste_update: 2026-02-04
+status: geldig
+toestand: 2026-02-04
+bron: "https://wetten.overheid.nl/BWBR0040683"
+opgehaald: 2026-08-26
 ---
+
 # Regeling cursusfaciliteiten en studietoelage
-
-28 augustus 1987,
-
-Nr. DPAM/AMP PP87/010/4278
-
-Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003538&artikel=6) en [7 van de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht 1982](https://wetten.overheid.nl/jci1.3:c:BWBR0003538&artikel=7) (Stb. 1982, 648);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Cursusfaciliteiten
 
@@ -51,19 +19,19 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
-- a. **hoofd dienstonderdeel**
+- a. *hoofd dienstonderdeel*
 
-- 1°. de Secretaris-Generaal, voor zover het betreft de Bestuursstaf;
+   - 1°. de Secretaris-Generaal, voor zover het betreft de Bestuursstaf;
 
-- 2°. de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, voor het desbetreffende commando;
+   - 2°. de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, voor het desbetreffende commando;
 
-- 3°. de directeur van de Defensie Materieel Organisatie, voor zover het betreft de Defensie Materieel Organisatie, met uitzondering van het deel ondergebracht in de Bestuursstaf;
+   - 3°. de directeur van de Defensie Materieel Organisatie, voor zover het betreft de Defensie Materieel Organisatie, met uitzondering van het deel ondergebracht in de Bestuursstaf;
 
-- 4°. de commandant van het Commando DienstenCentra, voor zover het betreft het Commando DienstenCentra;
+   - 4°. de commandant van het Commando DienstenCentra, voor zover het betreft het Commando DienstenCentra;
 
-- b. **de commandant** de commandant van het onderdeel waar de militair is geplaatst.
+- b. *de commandant* de commandant van het onderdeel waar de militair is geplaatst.
 
-- c. **militair** de militair, bedoeld in [artikel 154a, eerste lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=154a).
+- c. *militair* de militair, bedoeld in [artikel 154a, eerste lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=154a).
 
 ##### Artikel 2
 
@@ -77,7 +45,7 @@ Permanente link
 
 1. De kosten voor les, college-, inschrijvings-, practicum-, tentamen-, examen- en diplomagelden komen voor volledige vergoeding in aanmerking.
 
-2. In de kosten voor de aanschaf van studiemateriaal en leermiddelen wordt over het jaar 2026 een tegemoetkoming verstrekt van ten hoogste € 816,00.
+2. In de kosten voor de aanschaf van studiemateriaal en leermiddelen wordt over het jaar 2026 een tegemoetkoming verstrekt van ten hoogste € 816,00.
 
 3. De gemaakte excursie-, reis- en verblijfkosten komen voor volledige vergoeding in aanmerking, doch uitsluitend indien wordt aangetoond dat deze kosten voor de studie of opleiding noodzakelijk waren.
 
@@ -189,11 +157,11 @@ Ten aanzien van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR004068
 
 - c. het afleggen van het theorie-examen rijvaardigheid B inclusief één herexamen en het praktijk-examen rijopleiding rijbewijs B inclusief één herexamen,
 
-waarbij de kosten tot een maximum van € 2.000,= worden vergoed.
+waarbij de kosten tot een maximum van € 2.000,= worden vergoed.
 
 ##### Artikel 16. Aanvullende rijopleiding
 
-Voor de militair behorend tot de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-02-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-02-04) genoemde categorieën personeel die reeds in het bezit is van een rijbewijs B, wordt onder het criterium ‘studie of opleiding in het belang van het uitoefenen van een beroep in de burgermaatschappij’ als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=1&artikel=2&z=2026-02-04&g=2026-02-04) mede begrepen een voertuigbeheersingscursus dan wel het zich eigen maken van theoretische en praktische vaardigheden verband houdende met het besturen van andere motorvoertuigen of aanhangwagens waarbij de kosten tot een maximum van € 500,= worden vergoed.
+Voor de militair behorend tot de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-02-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-02-04) genoemde categorieën personeel die reeds in het bezit is van een rijbewijs B, wordt onder het criterium ‘studie of opleiding in het belang van het uitoefenen van een beroep in de burgermaatschappij’ als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=1&artikel=2&z=2026-02-04&g=2026-02-04) mede begrepen een voertuigbeheersingscursus dan wel het zich eigen maken van theoretische en praktische vaardigheden verband houdende met het besturen van andere motorvoertuigen of aanhangwagens waarbij de kosten tot een maximum van € 500,= worden vergoed.
 
 ##### Artikel 17
 
@@ -238,15 +206,3 @@ Met ingang van de datum van inwerkingtreding van het [Besluit houdende wijziging
 ##### Artikel 21. Citeertitel en inwerkingtreding
 
 Deze regeling kan worden aangehaald als ‘Regeling cursusfaciliteiten en studietoelage’ en treedt in werking met ingang van de datum van dagtekening. De regeling wordt gepubliceerd in de MP 31-300, waarvan mededeling wordt gedaan in de Staatscourant.
-
-## Bijlage 1. Overzicht categorieën personeel 2007 (aanstelling)
-
-| Overzicht categorieën personeel (ad. Art [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-02-04)) |
-| --- |
-| Koninklijke Marine – Koninklijke Landmacht - gevechtsfuncties dan wel gevecht ondersteunende functies op het niveau van soldaat dan wel korporaal waaraan een VFB-eis is verbonden van niveau VFB-TFO, VFB-3 of VFB-4. Koninklijke Luchtmacht – Koninklijke Marechaussee – |
-
-## Bijlage 2. Overzicht categorieën personeel 2007 (verlenging)
-
-| Overzicht categorieën personeel (ad. [Art 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-02-04)) |
-| --- |
-| Koninklijke Marine – Koninklijke Landmacht – gevechtsfuncties dan wel gevechtsondersteunende functies op het niveau van soldaat dan wel korporaal waaraan een VFB-eis is verbonden van niveau VFB-TFO, VFB-3 of VFB-4. Koninklijke Luchtmacht – Koninklijke Marechaussee – |

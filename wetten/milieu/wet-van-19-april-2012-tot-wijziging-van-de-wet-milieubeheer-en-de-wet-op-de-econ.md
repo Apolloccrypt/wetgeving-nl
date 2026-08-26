@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031536"
-opgehaald: 2026-08-25
+opgehaald: 2026-08-26
 ---
 
 # Wet van 19 april 2012 tot wijziging van de Wet milieubeheer en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2009/29/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 tot wijziging van Richtlijn 2003/87/EG teneinde de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap te verbeteren en uit te breiden (PbEU L 140) en de uitvoering van verordening (EU) nr. 1031/2010 van de Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302) en verordening (EU) nr. 920/2010 van de Commissie van 7 oktober 2010 inzake een gestandaardiseerd en beveiligd registersysteem overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad en Beschikking nr. 280/2004/EG van het Europees Parlement en de Raad (PbEU L 270) (herziening EG-richtlijn handel in broeikasgasemissierechten)

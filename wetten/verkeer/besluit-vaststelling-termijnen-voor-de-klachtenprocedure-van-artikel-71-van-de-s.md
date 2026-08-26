@@ -1,53 +1,27 @@
 ---
 title: "Besluit vaststelling termijnen voor de klachtenprocedure van artikel 71 van de Spoorwegwet"
 identifier: "BWBR0040312"
-country: "nl"
-rank: "zbo"
-publication_date: "2017-12-07"
-last_updated: "2017-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040312"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "14437943"
-version_id: "24689432"
-internal_id: "C35323601"
-label_id: "14398514"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040312/2017-12-07/0"
-intitule_bron: "Stcrt.2017-70060"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-11-23"
-intitule_published: "2017-12-06"
-intitule_in_force: "2017-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-70060"
-original_signed_date: "2017-11-23"
-original_published_date: "2017-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-70060"
-entry_into_force_date: "2017-12-07"
-jci_1_3: "jci1.3:c:BWBR0040312&z=2017-12-07&g=2017-12-07"
-jci_1_0: "1.0:c:BWBR0040312&g=2017-12-07"
-citeertitel_status: "officieel"
-signed_date: "2017-11-23"
-entry_into_force: "2017-12-07"
+publicatiedatum: 2017-12-07
+laatste_update: 2017-12-07
+status: geldig
+toestand: 2017-12-07
+bron: "https://wetten.overheid.nl/BWBR0040312"
+opgehaald: 2026-08-26
 ---
+
 # Besluit vaststelling termijnen voor de klachtenprocedure van artikel 71 van de Spoorwegwet
-
-Gelet op [artikel 71, zesde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=71),
-
-Besluit:
 
 ##### Artikel 1. – Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Aanvrager:** een gerechtigde, een spoorwegonderneming, een partij bij een toegangsovereenkomst of een kaderovereenkomst, of een andere betrokken partij die een aanvraag indient als bedoeld in [artikel 71, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=71);
+- a. *Aanvrager:* een gerechtigde, een spoorwegonderneming, een partij bij een toegangsovereenkomst of een kaderovereenkomst, of een andere betrokken partij die een aanvraag indient als bedoeld in [artikel 71, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=71);
 
-- b. **Klacht:** een aanvraag als bedoeld in [artikel 71, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=71);
+- b. *Klacht:* een aanvraag als bedoeld in [artikel 71, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=71);
 
-- c. **Klachtbesluit:** een besluit als bedoeld in [artikel 71, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=71).
+- c. *Klachtbesluit:* een besluit als bedoeld in [artikel 71, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=71).
 
 ##### Artikel 2. – Ontvangst van de klacht
 

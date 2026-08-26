@@ -1,45 +1,17 @@
 ---
 title: "Subsidieregeling uitelkaar.nl"
 identifier: "BWBR0040466"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040466"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14467343"
-version_id: "24756812"
-internal_id: "C35421901"
-label_id: "14427804"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040466/2018-01-01/0"
-intitule_bron: "Stcrt.2017-74738"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-05"
-intitule_published: "2017-12-29"
-intitule_in_force: "2017-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-74738"
-original_signed_date: "2017-12-05"
-original_published_date: "2017-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-74738"
-entry_into_force_date: "2017-12-29"
-jci_1_3: "jci1.3:c:BWBR0040466&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0040466&g=2018-01-01"
-citeertitel_status: "officieel"
-signed_date: "2017-12-05"
-entry_into_force: "2017-12-29"
+publicatiedatum: 2017-12-29
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0040466"
+opgehaald: 2026-08-26
 ---
+
 # Subsidieregeling uitelkaar.nl
-
-gelet op [artikel 37c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c), waarin is bepaald dat het bestuur van de Raad met het oog op de verlening van rechtsbijstand subsidie kan verstrekken voor bijzondere doeleinden en projecten,
-
-Besluit:
-
-de volgende regeling vast te stellen.
 
 ### Hoofdstuk I. Algemeen
 

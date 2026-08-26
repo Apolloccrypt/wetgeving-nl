@@ -1,36 +1,19 @@
 ---
 title: "Richtlijn voor strafvordering mensensmokkel"
 identifier: "BWBR0040703"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-03-15"
-last_updated: "2018-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040703"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "14565463"
-version_id: "24927512"
-internal_id: "C35652471"
-label_id: "14519274"
-dtd_version: "2.0"
-original_entry_into_force: "2018-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040703/2018-03-15/0"
-intitule_bron: "Stcrt.2018-13535"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-03-12"
-intitule_in_force: "2018-03-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-13535"
-original_published_date: "2018-03-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-13535"
-entry_into_force_date: "2018-03-15"
-jci_1_3: "jci1.3:c:BWBR0040703&z=2018-03-15&g=2018-03-15"
-jci_1_0: "1.0:c:BWBR0040703&g=2018-03-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-03-15"
+publicatiedatum: 2018-03-15
+laatste_update: 2018-03-15
+status: geldig
+toestand: 2018-03-15
+bron: "https://wetten.overheid.nl/BWBR0040703"
+opgehaald: 2026-08-26
 ---
+
 # Richtlijn voor strafvordering mensensmokkel
+
+Beschrijving
 
 Deze richtlijn heeft betrekking op mensensmokkel, strafbaar gesteld in [artikel 197a Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197a). Bij mensensmokkel gaat het om hulp bij illegale toegang, doorreis en verblijf.
 
@@ -40,11 +23,26 @@ Met ingang van 1 juli 2016 zijn de strafmaxima voor mensensmokkel verhoogd. Het 
 
 Het belang van de strafbaarstelling is gelegen in het feit dat op het grondgebied van een staat alleen personen mogen verblijven die daartoe gerechtigd zijn3Tekst & Commentaar, Wetboek van Strafrecht..
 
+Basiscasus/delict
+
 Mensensmokkel (hulp bij illegale toegang, doorreis en verblijf).
+
+| Basiscasus/delict | First offender | 1x recidive | meermalen recidive |
+| --- | --- | --- | --- |
+| 1 t/m 3 gesmokkelden | GS 3 mnd per gesmokkelde | GS 4 mnd per gesmokkelde | Maatwerk |
+| 4 t/m 8 gesmokkelden | GS 12-24 mnd (totaal) | GS 18-32 mnd (totaal) | Maatwerk |
+| > 8 gesmokkelden | GS minimaal 18 mnd (totaal) | Maatwerk | Maatwerk |
+| Strafverzwarende omstandigheden |  |  |  |
+| Licht: – Winstbejag ¹ (lid 2) – Ambt/beroep (lid 3) – Beroep/gewoonte (lid 4) – Medeplegen (lid 4) | + 1 tot 2 mnd GS per gesmokkelde én per strafverzwarende omstandigheid |  |  |
+| Midden: – Georganiseerd verband, waarbij rol verdachte van belang is voor de strafmaat (bijv. facilitator of organisator) – Bijzondere kwetsbaarheid slachtoffers, zoals kinderen / zwangere vrouwen etc. – Mensonterende omstandigheden, niet zijnde levensgevaar – Vervoer via een luchthaven (Denk aan behulpzaamheid bij papieren en ticket en meereizen: impact op overheidssysteem, Schiphol apparaat en preventieve werking) | + 2 tot 6 mnd GS per gesmokkelde én per strafverzwarende omstandigheid |  |  |
+| NB in geval van combinatie van strafverzwarende feiten uit de categorieën licht en midden, cumulatie maatwerk. |  |  |  |
+| Zwaar: – Zwaar lichamelijk letsel / levensgevaar (lid 5) – Dood ten gevolge (lid 6) | Maatwerk | Maatwerk N.b. Hier is sprake van ernstige recidive |  |
 
 ¹ Het tweede lid is geen strafverzwarende omstandigheid, maar een afzonderlijk delict (een ander behulpzaam zijn bij het verschaffen van illegaal verblijf).
 
 Legenda
+
+Afkortingen
 
 GS = gevangenisstraf
 

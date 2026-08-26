@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 4 oktober 2017, houdende regels inzake het brandveilig gebruik van overige plaatsen en de basishulpverlening op die plaatsen (Besluit brandveilig gebruik en basishulpverlening overige plaatsen)"
+citeertitel: "Besluit brandveilig gebruik en basishulpverlening overige plaatsen"
 identifier: "BWBR0040068"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040068"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "14287983"
-version_id: "24499352"
-internal_id: "C35139031"
-label_id: "14249774"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040068/2024-01-01/0"
-intitule_bron: "Stb.2017-373"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-04"
-intitule_published: "2017-10-12"
-intitule_in_force: "2017-10-23"
-intitule_status: "goed"
-original_publication: "Stb.2017-373"
-original_signed_date: "2017-10-04"
-original_published_date: "2017-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2017-373"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040068&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0040068&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit brandveilig gebruik en basishulpverlening overige plaatsen"
-signed_date: "2017-10-04"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0040068"
+opgehaald: 2026-08-26
 ---
+
 # Besluit van 4 oktober 2017, houdende regels inzake het brandveilig gebruik van overige plaatsen en de basishulpverlening op die plaatsen (Besluit brandveilig gebruik en basishulpverlening overige plaatsen)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 30 mei 2017, directie Wetgeving en Juridische Zaken, nr. 2081202;
-
-Gelet op [artikel 3, derde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=3),
-
-De Afdeling advisering van de Raad van State gehoord (advies van 5 juli 2017, nr. WO3.17.0152/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 2 oktober 2017, directie Wetgeving en Juridische Zaken, nr. 2131557;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,115 +20,115 @@ Hebben goedgevonden en verstaan:
 
 1. Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt verstaan onder:
 
-- **plaats:** ruimtelijk begrensde oppervlakte, bestaande uit ten minste een gebied of bouwsel of een samenstelling daarvan;
+- *plaats:* ruimtelijk begrensde oppervlakte, bestaande uit ten minste een gebied of bouwsel of een samenstelling daarvan;
 
-- **gebied:** deel van de plaats dat geen bouwsel of bouwwerk is;
+- *gebied:* deel van de plaats dat geen bouwsel of bouwwerk is;
 
-- **bouwsel:** bijeenkomsttent, tribune, podium of elke andere constructie die naar een plaats is gebracht of ter plaatse is geconstrueerd om daar kortstondig te functioneren;
+- *bouwsel:* bijeenkomsttent, tribune, podium of elke andere constructie die naar een plaats is gebracht of ter plaatse is geconstrueerd om daar kortstondig te functioneren;
 
-- **ruimte:** voor personen toegankelijk bouwsel of deel van een bouwsel;
+- *ruimte:* voor personen toegankelijk bouwsel of deel van een bouwsel;
 
-- **besloten ruimte:** een ruimte die door scheidingsconstructies omsloten is.
+- *besloten ruimte:* een ruimte die door scheidingsconstructies omsloten is.
 
-- **verblijfsruimte:** ruimte voor het verblijven van personen.
+- *verblijfsruimte:* ruimte voor het verblijven van personen.
 
 2. Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt voorts verstaan onder:
 
-- **ADR-klasse:** classificatie als bedoeld in de op 30 september 1957 te Genève tot stand gekomen Europese overeenkomst betreffende het internationale vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 171);
+- *ADR-klasse:* classificatie als bedoeld in de op 30 september 1957 te Genève tot stand gekomen Europese overeenkomst betreffende het internationale vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 171);
 
-- **bevoegd gezag:** het college van burgemeester en wethouders van de gemeente waarin de plaats geheel of in hoofdzaak is of zal zijn gelegen;
+- *bevoegd gezag:* het college van burgemeester en wethouders van de gemeente waarin de plaats geheel of in hoofdzaak is of zal zijn gelegen;
 
-- **bezwijken:** het overschrijden van een uiterste grenstoestand;
+- *bezwijken:* het overschrijden van een uiterste grenstoestand;
 
-- **bijeenkomsttent:** tent met een bijeenkomstfunctie;
+- *bijeenkomsttent:* tent met een bijeenkomstfunctie;
 
-- **brandcompartiment:** gedeelte van een of meer bouwsels, bestemd als maximaal uitbreidingsgebied van brand;
+- *brandcompartiment:* gedeelte van een of meer bouwsels, bestemd als maximaal uitbreidingsgebied van brand;
 
-- **brandgevaarlijke stof:** vaste, vloeibare of gasvormige stof die brandbaar of brandbevorderend is, of bij brand gevaar oplevert, in de zin van de ADR-klassen twee tot en met vijf;
+- *brandgevaarlijke stof:* vaste, vloeibare of gasvormige stof die brandbaar of brandbevorderend is, of bij brand gevaar oplevert, in de zin van de ADR-klassen twee tot en met vijf;
 
-- **brandklasse:** Europese brandklasse als bedoeld in NEN-EN 13501-1, onderdeel Classification criteria for construction products;
+- *brandklasse:* Europese brandklasse als bedoeld in NEN-EN 13501-1, onderdeel Classification criteria for construction products;
 
-- **brandweeringang:** ingang die door de brandweer gebruikt wordt om een plaats of een bouwsel te betreden bij een brandmelding.
+- *brandweeringang:* ingang die door de brandweer gebruikt wordt om een plaats of een bouwsel te betreden bij een brandmelding.
 
-- **doorgang:** toegang, uitgang of doorlaatopening voor personen;
+- *doorgang:* toegang, uitgang of doorlaatopening voor personen;
 
-- **gasfles:** een verplaatsbare drukhouder met een waterinhoud van niet meer dan 150 liter;
+- *gasfles:* een verplaatsbare drukhouder met een waterinhoud van niet meer dan 150 liter;
 
-- **gebruiksoppervlakte:** de oppervlakte van een plaats of deel van een plaats, die geschikt is voor het beoogde gebruik;
+- *gebruiksoppervlakte:* de oppervlakte van een plaats of deel van een plaats, die geschikt is voor het beoogde gebruik;
 
-- **installatie:** voor het functioneren van een plaats of een gedeelte van een plaats noodzakelijke voorziening van niet-bouwkundige aard;
+- *installatie:* voor het functioneren van een plaats of een gedeelte van een plaats noodzakelijke voorziening van niet-bouwkundige aard;
 
-- **jachthaven:** haven met de daarbij behorende grond, waar overwegend gelegenheid wordt gegeven voor het aanleggen, afmeren of afgemeerd houden van pleziervaartuigen;
+- *jachthaven:* haven met de daarbij behorende grond, waar overwegend gelegenheid wordt gegeven voor het aanleggen, afmeren of afgemeerd houden van pleziervaartuigen;
 
-- **kampeermiddel:** tent, tentwagen, kampeerauto of caravan dan wel enig ander onderkomen of enig ander voertuig of gewezen voertuig of gedeelte daarvan, voor zover geen bouwwerk zijnde, en voor zover deze onderkomens of voertuigen geheel of ten dele zijn bestemd of opgericht dan wel worden of kunnen worden gebruikt voor recreatief nachtverblijf.
+- *kampeermiddel:* tent, tentwagen, kampeerauto of caravan dan wel enig ander onderkomen of enig ander voertuig of gewezen voertuig of gedeelte daarvan, voor zover geen bouwwerk zijnde, en voor zover deze onderkomens of voertuigen geheel of ten dele zijn bestemd of opgericht dan wel worden of kunnen worden gebruikt voor recreatief nachtverblijf.
 
-- **kampeertent:** kampeermiddel dat overwegend bestaat uit textiel materiaal;
+- *kampeertent:* kampeermiddel dat overwegend bestaat uit textiel materiaal;
 
-- **kampeerterrein:** plaats of gedeelte van een plaats, geheel of gedeeltelijk ingericht voor het plaatsen of geplaatst houden van kampeermiddelen;
+- *kampeerterrein:* plaats of gedeelte van een plaats, geheel of gedeeltelijk ingericht voor het plaatsen of geplaatst houden van kampeermiddelen;
 
-- **klimlijn:** denkbeeldige, vloeiend verlopende lijn die de voorkanten van de treden van een trap met elkaar verbindt;
+- *klimlijn:* denkbeeldige, vloeiend verlopende lijn die de voorkanten van de treden van een trap met elkaar verbindt;
 
-- **loopafstand:** afstand, gemeten langs een denkbeeldige, kortst realiseerbare lijn tussen twee punten, waarover op een afstand van ten minste 0,3 m van constructieonderdelen kan worden gelopen en waarbij de loopafstand over een trap samenvalt met de klimlijn;
+- *loopafstand:* afstand, gemeten langs een denkbeeldige, kortst realiseerbare lijn tussen twee punten, waarover op een afstand van ten minste 0,3 m van constructieonderdelen kan worden gelopen en waarbij de loopafstand over een trap samenvalt met de klimlijn;
 
-- **meetniveau:** hoogte van het aansluitende terrein, gemeten ter plaatse van de toegang van het bouwsel;
+- *meetniveau:* hoogte van het aansluitende terrein, gemeten ter plaatse van de toegang van het bouwsel;
 
-- **milieugevaarlijke stoffen:** gevaarlijke stoffen als bedoeld in het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762);
+- *milieugevaarlijke stoffen:* gevaarlijke stoffen als bedoeld in het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762);
 
-- **NEN:** door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
+- *NEN:* door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
 
-- **NEN-EN:** norm die door de Europese Commissie voor Normalisatie is geharmoniseerd;
+- *NEN-EN:* norm die door de Europese Commissie voor Normalisatie is geharmoniseerd;
 
-- **NPR:** door de Stichting Nederlands Normalisatie-instituut uitgegeven Nederlandse Praktijkrichtlijn;
+- *NPR:* door de Stichting Nederlands Normalisatie-instituut uitgegeven Nederlandse Praktijkrichtlijn;
 
-- **opslagtank:** een vormvaste opslagvoorziening voor gas met een inhoud van ten minste 150 liter of een vormvaste opslagvoorziening voor vloeistof met een inhoud van ten minste 300 liter, uitgezonderd een intermediate bulk container die voldoet aan hoofdstuk 6.5 van het ADR;
+- *opslagtank:* een vormvaste opslagvoorziening voor gas met een inhoud van ten minste 150 liter of een vormvaste opslagvoorziening voor vloeistof met een inhoud van ten minste 300 liter, uitgezonderd een intermediate bulk container die voldoet aan hoofdstuk 6.5 van het ADR;
 
-- **plaatsperceel:** perceel dat als uitgangspunt dient bij het toetsen van een plaats aan de regels van dit besluit;
+- *plaatsperceel:* perceel dat als uitgangspunt dient bij het toetsen van een plaats aan de regels van dit besluit;
 
-- **PGS:** Publicatiereeks Gevaarlijke Stoffen
+- *PGS:* Publicatiereeks Gevaarlijke Stoffen
 
-- **pleziervaartuig:** schip, bestemd of gebruikt voor sport of vrijetijdsbesteding, ongeacht het type en de wijze van voortstuwing;
+- *pleziervaartuig:* schip, bestemd of gebruikt voor sport of vrijetijdsbesteding, ongeacht het type en de wijze van voortstuwing;
 
-- **recreatieligplaats:** plek voor het afgemeerd houden van een pleziervaartuig;
+- *recreatieligplaats:* plek voor het afgemeerd houden van een pleziervaartuig;
 
-- **rookklasse:** Europese brandklasse als bedoeld in NEN-EN 13501-1, onderdeel Additional classifications for smoke production;
+- *rookklasse:* Europese brandklasse als bedoeld in NEN-EN 13501-1, onderdeel Additional classifications for smoke production;
 
-- **standplaats:** het gedeelte van een plaats dat is bestemd voor het plaatsen of geplaatst houden van een of meer bouwsels;
+- *standplaats:* het gedeelte van een plaats dat is bestemd voor het plaatsen of geplaatst houden van een of meer bouwsels;
 
-- **tentenkamp:** kampeerterrein of deel daarvan waar nachtverblijf uitsluitend plaatsvindt in kampeertenten;
+- *tentenkamp:* kampeerterrein of deel daarvan waar nachtverblijf uitsluitend plaatsvindt in kampeertenten;
 
-- **toestel:** voor het functioneren van een plaats of een gedeelte van een plaats benodigd voorwerp van niet-bouwkundige aard;
+- *toestel:* voor het functioneren van een plaats of een gedeelte van een plaats benodigd voorwerp van niet-bouwkundige aard;
 
-- **veilige plaats:** plek buiten het bedreigde gedeelte van een plaats;
+- *veilige plaats:* plek buiten het bedreigde gedeelte van een plaats;
 
-- **verbrandingstoestel:** een toestel dat gebruik maakt van verbranding voor het opwekken van warmte;
+- *verbrandingstoestel:* een toestel dat gebruik maakt van verbranding voor het opwekken van warmte;
 
-- **verkeerstent:** verplaatsbare, tijdelijke overkapping van een verkeersroute;
+- *verkeerstent:* verplaatsbare, tijdelijke overkapping van een verkeersroute;
 
-- **verkeersroute:** route die begint bij een doorgang van een ruimte, alleen voert over vloeren, trappen of hellingbanen en eindigt bij de doorgang van een andere ruimte;
+- *verkeersroute:* route die begint bij een doorgang van een ruimte, alleen voert over vloeren, trappen of hellingbanen en eindigt bij de doorgang van een andere ruimte;
 
-- **vluchtroute:** route die begint in een voor personen bestemde plek, uitsluitend voert over vloeren, trappen of hellingbanen en eindigt op een veilige plaats, zonder dat gebruik behoeft te worden gemaakt van een lift;
+- *vluchtroute:* route die begint in een voor personen bestemde plek, uitsluitend voert over vloeren, trappen of hellingbanen en eindigt op een veilige plaats, zonder dat gebruik behoeft te worden gemaakt van een lift;
 
-- **vuurbelasting:** hoeveelheid warmte die vrijkomt per eenheid vloeroppervlakte bij verbranding van alle op een plek aanwezige brandbare materialen;
+- *vuurbelasting:* hoeveelheid warmte die vrijkomt per eenheid vloeroppervlakte bij verbranding van alle op een plek aanwezige brandbare materialen;
 
-- **weerstand tegen branddoorslag en brandoverslag:** kortste tijd die een brand nodig heeft om zich uit te breiden van een plek naar een andere plek.
+- *weerstand tegen branddoorslag en brandoverslag:* kortste tijd die een brand nodig heeft om zich uit te breiden van een plek naar een andere plek.
 
 3. Voor de toepassing van dit besluit wordt voorts verstaan onder:
 
-- **gebruiksfunctie:** gedeelten van een plaats die eenzelfde gebruiksbestemming hebben en die samen een gebruikseenheid vormen;
+- *gebruiksfunctie:* gedeelten van een plaats die eenzelfde gebruiksbestemming hebben en die samen een gebruikseenheid vormen;
 
-- **bijeenkomstfunctie:** gebruiksfunctie voor het samenkomen van personen voor kunst, cultuur, godsdienst, communicatie, kinderopvang, het verstrekken van consumpties voor het gebruik ter plaatse, ontspanning of het aanschouwen van sport;
+- *bijeenkomstfunctie:* gebruiksfunctie voor het samenkomen van personen voor kunst, cultuur, godsdienst, communicatie, kinderopvang, het verstrekken van consumpties voor het gebruik ter plaatse, ontspanning of het aanschouwen van sport;
 
-- **kantoorfunctie:** gebruiksfunctie voor administratie;
+- *kantoorfunctie:* gebruiksfunctie voor administratie;
 
-- **lichte industriefunctie:** industriefunctie waarin activiteiten plaatsvinden, waarbij het verblijven van personen een ondergeschikte rol speelt;
+- *lichte industriefunctie:* industriefunctie waarin activiteiten plaatsvinden, waarbij het verblijven van personen een ondergeschikte rol speelt;
 
-- **logiesfunctie:** gebruiksfunctie voor het bieden van recreatief verblijf of tijdelijk onderdak aan personen;
+- *logiesfunctie:* gebruiksfunctie voor het bieden van recreatief verblijf of tijdelijk onderdak aan personen;
 
-- **overige gebruiksfunctie:** niet in dit onderdeel benoemde gebruiksfunctie voor activiteiten waarbij het verblijven van personen een ondergeschikte rol speelt;
+- *overige gebruiksfunctie:* niet in dit onderdeel benoemde gebruiksfunctie voor activiteiten waarbij het verblijven van personen een ondergeschikte rol speelt;
 
-- **sportfunctie:** gebruiksfunctie voor het beoefenen van sport;
+- *sportfunctie:* gebruiksfunctie voor het beoefenen van sport;
 
-- **winkelfunctie:** gebruiksfunctie voor het verhandelen van materialen, goederen of diensten.
+- *winkelfunctie:* gebruiksfunctie voor het verhandelen van materialen, goederen of diensten.
 
 ##### Artikel 1.2. Reikwijdte
 
@@ -188,7 +156,7 @@ Indien een product of proces aan bepaalde prestaties moet voldoen zodat de plaat
 
 ##### Artikel 1.7. Wederzijdse erkenning
 
-Met een kwaliteitsverklaring of keuring als bedoeld in dit besluit wordt gelijkgesteld een kwaliteitsverklaring of keuring, afgegeven of uitgevoerd door een daartoe bevoegde onafhankelijke instelling in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een **daartoe strekkend of mede daartoe strekkend** verdrag dat Nederland bindt, met een beschermingsniveau dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met een kwaliteitsverklaring of keuring als bedoeld in dit besluit wordt gelijkgesteld een kwaliteitsverklaring of keuring, afgegeven of uitgevoerd door een daartoe bevoegde onafhankelijke instelling in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een *daartoe strekkend of mede daartoe strekkend* verdrag dat Nederland bindt, met een beschermingsniveau dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 ##### Artikel 1.8. Naleving voorschriften
 
@@ -208,9 +176,9 @@ Met een kwaliteitsverklaring of keuring als bedoeld in dit besluit wordt gelijkg
 
 - b. in een verblijfsruimte op die plaats verzorging wordt geboden aan:
 
-- 1°. meer dan 10 personen jonger dan 12 jaar, of
+   - 1°. meer dan 10 personen jonger dan 12 jaar, of
 
-- 2°. meer dan 10 lichamelijk of verstandelijk gehandicapte personen.
+   - 2°. meer dan 10 lichamelijk of verstandelijk gehandicapte personen.
 
 - c. een verblijfsruimte op die plaats is bestemd voor meer dan 150 personen tegelijk, of
 
@@ -248,21 +216,21 @@ Met een kwaliteitsverklaring of keuring als bedoeld in dit besluit wordt gelijkg
 
 - c. de opstelling van inventaris en van de in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2024-01-01&g=2024-01-01) bedoelde inrichtingselementen, met aanduiding van de situering van, voor zover deze aanwezig zijn:
 
-- 1°. brand- en rookwerende scheidingsconstructies;
+   - 1°. brand- en rookwerende scheidingsconstructies;
 
-- 2°. vluchtroutes;
+   - 2°. vluchtroutes;
 
-- 3°. draairichting van doorgangen als bedoeld in [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.16&z=2024-01-01&g=2024-01-01);
+   - 3°. draairichting van doorgangen als bedoeld in [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.16&z=2024-01-01&g=2024-01-01);
 
-- 4°. nooduitgangen en vluchtroutes, met aanduiding van de breedte daarvan;
+   - 4°. nooduitgangen en vluchtroutes, met aanduiding van de breedte daarvan;
 
-- 5°. vluchtrouteaanduidingen als bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.15&z=2024-01-01&g=2024-01-01);
+   - 5°. vluchtrouteaanduidingen als bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.5&artikel=4.15&z=2024-01-01&g=2024-01-01);
 
-- 6°. noodverlichting als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2024-01-01&g=2024-01-01);
+   - 6°. noodverlichting als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2024-01-01&g=2024-01-01);
 
-- 7°. brandblusvoorzieningen als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.6&artikel=4.20&z=2024-01-01&g=2024-01-01), en
+   - 7°. brandblusvoorzieningen als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.6&artikel=4.20&z=2024-01-01&g=2024-01-01), en
 
-- 8°. brandweeringang als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.24&z=2024-01-01&g=2024-01-01).
+   - 8°. brandweeringang als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.24&z=2024-01-01&g=2024-01-01).
 
 De aanduidingen zijn conform NEN 1413, indien deze norm daarin voorziet.
 
@@ -300,7 +268,7 @@ De aanduidingen zijn conform NEN 1413, indien deze norm daarin voorziet.
 
 1. Een vloer, trap of hellingbaan, waarover of waaronder een vluchtroute voert, bezwijkt niet binnen 20 minuten bij brand in een brandcompartiment waarin die vluchtroute niet ligt.
 
-2. Een dragende constructie van een vloer, trap of hellingbaan hoger dan 5 m boven het meetniveau, bezwijkt bij brand in een brandcompartiment waarin de dragende constructie niet ligt, niet binnen 30 minuten door het bezwijken van een constructie binnen of grenzend aan het brandcompartiment.
+2. Een dragende constructie van een vloer, trap of hellingbaan hoger dan 5 m boven het meetniveau, bezwijkt bij brand in een brandcompartiment waarin de dragende constructie niet ligt, niet binnen 30 minuten door het bezwijken van een constructie binnen of grenzend aan het brandcompartiment.
 
 #### § 3.2. Afscheiding van vloer, trap en hellingbaan
 
@@ -312,11 +280,11 @@ De aanduidingen zijn conform NEN 1413, indien deze norm daarin voorziet.
 
 ##### Artikel 3.4. Aanwezigheid
 
-1. Een voor personen bestemde vloer heeft bij een rand een afscheiding als die rand meer dan 1,5 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water.
+1. Een voor personen bestemde vloer heeft bij een rand een afscheiding als die rand meer dan 1,5 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water.
 
-2. Een trap heeft, voor zover een zijkant van een tredevlak meer dan 1,5 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water, aan die zijkant een niet beweegbare afscheiding.
+2. Een trap heeft, voor zover een zijkant van een tredevlak meer dan 1,5 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water, aan die zijkant een niet beweegbare afscheiding.
 
-3. Een hellingbaan heeft, voor zover een zijkant van de vloer meer dan 1,5 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water, aan die zijkant een niet beweegbare afscheiding.
+3. Een hellingbaan heeft, voor zover een zijkant van de vloer meer dan 1,5 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water, aan die zijkant een niet beweegbare afscheiding.
 
 4. Het eerste lid geldt niet ter plaatse van de aansluiting van de vloer aan:
 
@@ -342,13 +310,13 @@ De aanduidingen zijn conform NEN 1413, indien deze norm daarin voorziet.
 
 2. In afwijking van het eerste lid heeft een afscheiding als bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2024-01-01&g=2024-01-01), ter plaatse van een beweegbaar raam een hoogte van ten minste 0,6 m, gemeten vanaf de vloer.
 
-3. In afwijking van het eerste lid heeft een vloerafscheiding een vanaf de vloer gemeten hoogte van ten minste 0,6 m, indien de som van die hoogte en de breedte van de bovenregel ten minste 1 m is.
+3. In afwijking van het eerste lid heeft een vloerafscheiding een vanaf de vloer gemeten hoogte van ten minste 0,6 m, indien de som van die hoogte en de breedte van de bovenregel ten minste 1 m is.
 
 4. Een afscheiding als bedoeld in [artikel 3.4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2024-01-01&g=2024-01-01), heeft een hoogte van ten minste 0,6 m, gemeten vanaf de voorkant van de tredevlakken of vanaf de vloer van de hellingbaan.
 
 ##### Artikel 3.6. Openingen
 
-De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2024-01-01&g=2024-01-01) is niet groter dan 0,1 m.
+De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2024-01-01&g=2024-01-01) is niet groter dan 0,1 m.
 
 #### § 3.3. Veilig overbruggen van hoogteverschillen
 
@@ -360,7 +328,7 @@ De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en 
 
 ##### Artikel 3.8. Voorziening bij hoogteverschil
 
-1. Een hoogteverschil van meer dan 0,22 m tussen vloeren waarover een vluchtroute voert, wordt overbrugd door een trap of een hellingbaan.
+1. Een hoogteverschil van meer dan 0,22 m tussen vloeren waarover een vluchtroute voert, wordt overbrugd door een trap of een hellingbaan.
 
 2. Het eerste lid is niet van toepassing voor de vluchtroute van een vaartuig naar de wal.
 
@@ -376,9 +344,9 @@ De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en 
 
 1. Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) heeft afmetingen die voldoen aan tabel 3.10.
 
-2. Een trap overbrugt een hoogteverschil van niet meer dan 4 m.
+2. Een trap overbrugt een hoogteverschil van niet meer dan 4 m.
 
-| Afmetingen van een trap (in meters) |   |
+| Afmetingen van een trap (in meters) |  |
 | --- | --- |
 | Minimum breedte van de trap | 0,6 |
 | Minimum vrije hoogte boven de trap | 2,0 |
@@ -388,11 +356,11 @@ De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en 
 
 ##### Artikel 3.11. Trapbordes
 
-Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) sluit bij de bovenste trede, over de breedte van de trap, aan op een vloer met een oppervlakte van ten minste 0,6 m x 0,6 m.
+Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) sluit bij de bovenste trede, over de breedte van de trap, aan op een vloer met een oppervlakte van ten minste 0,6 m x 0,6 m.
 
 ##### Artikel 3.12. Leuning
 
-Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) waarvan de helling ter plaatse van de klimlijn groter is dan 2:3 heeft, voor zover een hoogteverschil is overbrugd van meer dan 1,5 m, aan ten minste een zijkant een leuning. De bovenkant van de leuning ligt, gemeten boven de voorkant van een tredevlak van de trap, op een hoogte van ten minste 0,6 m en ten hoogste 1 m.
+Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) waarvan de helling ter plaatse van de klimlijn groter is dan 2:3 heeft, voor zover een hoogteverschil is overbrugd van meer dan 1,5 m, aan ten minste een zijkant een leuning. De bovenkant van de leuning ligt, gemeten boven de voorkant van een tredevlak van de trap, op een hoogte van ten minste 0,6 m en ten hoogste 1 m.
 
 #### § 3.5. Hellingbaan
 
@@ -404,11 +372,11 @@ Een trap als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 3.14. Afmetingen hellingbaan
 
-Een hellingbaan als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) heeft een breedte van ten minste 0,7 m en een helling van ten hoogste 1:10.
+Een hellingbaan als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) heeft een breedte van ten minste 0,7 m en een helling van ten hoogste 1:10.
 
 ##### Artikel 3.15. Hellingbaanbordes
 
-Een hellingbaan als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) sluit aan de bovenzijde, over de breedte van de hellingbaan, aan op een vloer met een oppervlakte van ten minste 0,7 m x 0,7 m.
+Een hellingbaan als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2024-01-01&g=2024-01-01) sluit aan de bovenzijde, over de breedte van de hellingbaan, aan op een vloer met een oppervlakte van ten minste 0,7 m x 0,7 m.
 
 #### § 3.6. Beperking van het ontwikkelen van brand en rook
 
@@ -428,7 +396,7 @@ Een hellingbaan als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c
 
 - a. op het materiaal een intensiteit van de warmtestraling kan optreden die, bepaald volgens NEN 6061, groter is dan 2 kW/m2, of
 
-- b. in het materiaal een temperatuur kan optreden die, bepaald volgens NEN 6061, hoger is dan 90 °C.
+- b. in het materiaal een temperatuur kan optreden die, bepaald volgens NEN 6061, hoger is dan 90 °C.
 
 ##### Artikel 3.18. Beloopbaar vlak
 
@@ -436,11 +404,11 @@ In afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&
 
 ##### Artikel 3.19. Vrijgesteld
 
-Op ten hoogste 5 % van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke besloten ruimte, waarvoor volgens de [artikelen 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.17&z=2024-01-01&g=2024-01-01) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2024-01-01&g=2024-01-01) een eis geldt, is die eis niet van toepassing.
+Op ten hoogste 5 % van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke besloten ruimte, waarvoor volgens de [artikelen 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.17&z=2024-01-01&g=2024-01-01) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2024-01-01&g=2024-01-01) een eis geldt, is die eis niet van toepassing.
 
 ##### Artikel 3.20. Dakoppervlak
 
-De bovenzijde van een dak van een ruimte met een voor personen bestemde vloer die hoger ligt dan 5 m boven meetniveau, is niet brandgevaarlijk, bepaald volgens NEN 6063.
+De bovenzijde van een dak van een ruimte met een voor personen bestemde vloer die hoger ligt dan 5 m boven meetniveau, is niet brandgevaarlijk, bepaald volgens NEN 6063.
 
 #### § 3.7. Beperking van uitbreiding van brand
 
@@ -460,7 +428,7 @@ De bovenzijde van een dak van een ruimte met een voor personen bestemde vloer di
 
 - a. een besloten ruimte waarin een of meer verbrandingstoestellen met een totale nominale belasting van meer dan 160 kW worden opgesteld, of
 
-- b. een of meer gezamenlijk bovengronds opgestelde afvalcontainers met brandbare materialen met een totale inhoud van meer dan 10 m3.
+- b. een of meer gezamenlijk bovengronds opgestelde afvalcontainers met brandbare materialen met een totale inhoud van meer dan 10 m3.
 
 3. Het eerste lid is niet van toepassing op een verkeerstent, op een jachthaven of op een tentenkamp.
 
@@ -468,13 +436,13 @@ De bovenzijde van een dak van een ruimte met een voor personen bestemde vloer di
 
 1. Een brandcompartiment heeft een gebruiksoppervlakte die niet groter is dan
 
-- a. 1.000 m2 voor een logiesfunctie,
+- a. 1.000 m2 voor een logiesfunctie,
 
-- b. 2.000 m2 voor een bijeenkomstfunctie, een kantoorfunctie en een winkelfunctie, en
+- b. 2.000 m2 voor een bijeenkomstfunctie, een kantoorfunctie en een winkelfunctie, en
 
-- c. 3.000 m2 voor een industriefunctie, een sportfunctie en overige gebruiksfuncties.
+- c. 3.000 m2 voor een industriefunctie, een sportfunctie en overige gebruiksfuncties.
 
-2. In een brandcompartiment liggen ten hoogste vier standplaatsen voor kampeermiddelen en bijbehorende bouwsels met een totale gebruiksoppervlakte van ten hoogste 1.000 m2.
+2. In een brandcompartiment liggen ten hoogste vier standplaatsen voor kampeermiddelen en bijbehorende bouwsels met een totale gebruiksoppervlakte van ten hoogste 1.000 m2.
 
 3. Het eerste en tweede lid zijn niet van toepassing op de recreatieligplaatsen in een jachthaven of op een tentenkamp.
 
@@ -484,7 +452,7 @@ De bovenzijde van een dak van een ruimte met een voor personen bestemde vloer di
 
 - a. de gemiddelde overeenkomstig NEN 6090 bepaalde vuurbelasting niet meer bedraagt dan 8 kg vurenhout/m2, of
 
-- b. de gemiddelde overeenkomstig NEN 6090 bepaalde vuurbelasting niet meer bedraagt dan 30 kg vurenhout/m2 en de afstand tussen een opstelplaats voor brandweervoertuigen en ieder punt in het brandcompartiment niet groter is dan 60 m.
+- b. de gemiddelde overeenkomstig NEN 6090 bepaalde vuurbelasting niet meer bedraagt dan 30 kg vurenhout/m2 en de afstand tussen een opstelplaats voor brandweervoertuigen en ieder punt in het brandcompartiment niet groter is dan 60 m.
 
 6. Een brandcompartiment strekt zich uit over niet meer dan een plaatsperceel.
 
@@ -492,19 +460,19 @@ De bovenzijde van een dak van een ruimte met een voor personen bestemde vloer di
 
 ##### Artikel 3.24. Afmeren pleziervaartuig
 
-1. Een aan een of meer andere pleziervaartuigen afgemeerd pleziervaartuig ligt niet meer dan 20 m van de walkant of steiger.
+1. Een aan een of meer andere pleziervaartuigen afgemeerd pleziervaartuig ligt niet meer dan 20 m van de walkant of steiger.
 
-2. Een afgemeerd pleziervaartuig waarop personen verblijven kan in geval van brand zodanig worden vrijgegeven dat er ten minste 5 m afstand kan worden genomen van de brandhaard.
+2. Een afgemeerd pleziervaartuig waarop personen verblijven kan in geval van brand zodanig worden vrijgegeven dat er ten minste 5 m afstand kan worden genomen van de brandhaard.
 
 ##### Artikel 3.25. Weerstand tegen branddoorslag en brandoverslag
 
 1. De overeenkomstig NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag van een brandcompartiment naar een ander brandcompartiment is ten minste 30 minuten.
 
-2. Aan de in het eerste lid vereiste weerstand wordt voldaan indien de afstand van een brandcompartiment tot een ander brandcompartiment ten minste 5 m is.
+2. Aan de in het eerste lid vereiste weerstand wordt voldaan indien de afstand van een brandcompartiment tot een ander brandcompartiment ten minste 5 m is.
 
 3. In afwijking van het eerste lid is de overeenkomstig NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag van een cluster kampeermiddelen naar een ander cluster kampeermiddelen op een andere standplaats ten minste 20 minuten.
 
-4. Aan de in het derde lid vereiste weerstand wordt voldaan indien de afstand van enig bouwsel tot een kampeermiddel op een andere standplaats ten minste 3 m is.
+4. Aan de in het derde lid vereiste weerstand wordt voldaan indien de afstand van enig bouwsel tot een kampeermiddel op een andere standplaats ten minste 3 m is.
 
 5. Indien een afstand als bedoeld in het tweede of vierde lid wordt gehanteerd, is de tussenliggende oppervlakte vrij van materialen, anders dan levende natuur of vervoermiddelen, die brandoverslag kunnen bevorderen.
 
@@ -554,19 +522,19 @@ Een besloten ruimte met een opstelplaats voor een verbrandingstoestel heeft voor
 
 1. Op elk punt in een verblijfsruimte begint een vluchtroute die leidt naar een veilige plaats.
 
-2. De loopafstand tussen een punt in een verblijfsruimte en een punt buiten het brandcompartiment waarin die verblijfsruimte ligt, is niet groter dan 60 m.
+2. De loopafstand tussen een punt in een verblijfsruimte en een punt buiten het brandcompartiment waarin die verblijfsruimte ligt, is niet groter dan 60 m.
 
 3. De in het tweede lid genoemde loopafstand kan worden verlengd indien gedurende de tijd dat binnen het compartiment wordt gevlucht:
 
 - a. de stralingsflux niet groter is dan 1 kW/m3;
 
-- b. de temperatuur niet hoger is dan 45 °C, en
+- b. de temperatuur niet hoger is dan 45 °C, en
 
-- c. de zichtlengte niet kleiner is dan 100 m.
+- c. de zichtlengte niet kleiner is dan 100 m.
 
 ##### Artikel 3.33. Aantal vluchtroutes
 
-1. Een verblijfsruimte, bestemd voor meer dan 225 personen, of een gebied, bestemd voor meer dan 225 personen, heeft ten minste twee uitgangen waardoor een vluchtroute loopt, met een onderlinge afstand van ten minste 5 m.
+1. Een verblijfsruimte, bestemd voor meer dan 225 personen, of een gebied, bestemd voor meer dan 225 personen, heeft ten minste twee uitgangen waardoor een vluchtroute loopt, met een onderlinge afstand van ten minste 5 m.
 
 2. Buiten het brandcompartiment waarin een in het eerste lid bedoelde andere vluchtroute begint, voeren twee vluchtroutes niet over dezelfde route.
 
@@ -576,13 +544,13 @@ Een besloten ruimte met een opstelplaats voor een verbrandingstoestel heeft voor
 
 1. De volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag tussen de twee vluchtroutes als bedoeld in [artikel 3.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=3&paragraaf=3.10&artikel=3.33&z=2024-01-01&g=2024-01-01), is ten minste 30 minuten.
 
-2. In een vluchtroute heeft elke vrije doorgang een breedte van ten minste 0,50 m, heeft minimaal één doorgang een breedte van ten minste 0,85 m en heeft elke doorgang een hoogte van ten minste 2 m.
+2. In een vluchtroute heeft elke vrije doorgang een breedte van ten minste 0,50 m, heeft minimaal één doorgang een breedte van ten minste 0,85 m en heeft elke doorgang een hoogte van ten minste 2 m.
 
 ##### Artikel 3.35. Capaciteit van een vluchtroute
 
 1. De doorstroomcapaciteit van een gedeelte van een vluchtroute, uitgedrukt in personen, is ten minste het aantal personen dat op dat gedeelte is aangewezen. Bij de bepaling van de doorstroomcapaciteit wordt uitgegaan van:
 
-- a. 45 personen per minuut per meter breedte van een trap voor het overbruggen van een hoogteverschil van meer dan 1 meter en 90 personen per meter vrije breedte bij een hoogteverschil van ten hoogste 1 meter, indien de aantrede van de trap ten minste 0,17 m bedraagt;
+- a. 45 personen per minuut per meter breedte van een trap voor het overbruggen van een hoogteverschil van meer dan 1 meter en 90 personen per meter vrije breedte bij een hoogteverschil van ten hoogste 1 meter, indien de aantrede van de trap ten minste 0,17 m bedraagt;
 
 - b. 90 personen per minuut per meter vrije breedte van een ruimte,
 
@@ -642,7 +610,7 @@ Een voorziening voor elektriciteit voldoet aan NEN 1010.
 
 ##### Artikel 4.8. Toestellen en installaties voor bakken en braden
 
-1. Een frituurtoestel is thermisch zodanig beveiligd dat de temperatuur van het bakmiddel niet hoger wordt dan 200 °C.
+1. Een frituurtoestel is thermisch zodanig beveiligd dat de temperatuur van het bakmiddel niet hoger wordt dan 200 °C.
 
 2. Een bakinstallatie is zodanig geconstrueerd dat bij overbruisen, over de rand of door kieren om de rand, olie of vet niet in de verbrandingsruimte kan komen.
 
@@ -674,7 +642,7 @@ Een voorziening voor elektriciteit voldoet aan NEN 1010.
 
 - a. direct op de kraan van de gastank of gasfles;
 
-- b. door gebruik van een geschikte flexibele hogedrukslang tussen gasfles en drukreduceersysteem, die niet langer is dan 0,4 m, of dan 0,75 m indien een uitschuiflade wordt toegepast voor het plaatsen van de flessen.
+- b. door gebruik van een geschikte flexibele hogedrukslang tussen gasfles en drukreduceersysteem, die niet langer is dan 0,4 m, of dan 0,75 m indien een uitschuiflade wordt toegepast voor het plaatsen van de flessen.
 
 3. Het toegepaste drukreduceersysteem bezit voldoende doorlaatcapaciteit voor een ongestoorde en gelijktijdige nominale belasting van alle tot de installatie behorende verbruikstoestellen.
 
@@ -738,7 +706,7 @@ Een voorziening voor elektriciteit voldoet aan NEN 1010.
 
 - a. een lichte druk tegen de doorgang, of
 
-- b. een lichte druk tegen een op circa 1 m boven de vloer aangebrachte panieksluiting die voldoet aan NEN-EN 1125.
+- b. een lichte druk tegen een op circa 1 m boven de vloer aangebrachte panieksluiting die voldoet aan NEN-EN 1125.
 
 3. Aan de aan de buitenlucht grenzende zijde van een nooddeur of nooduitgang is het opschrift «nooddeur vrijhouden» of «nooduitgang» aangebracht. Dit opschrift voldoet aan de eisen voor aanvullende tekens in NEN 3011.
 
@@ -816,11 +784,11 @@ Een voorziening voor het bestrijden van brand als bedoeld in [artikel 4.20](http
 
 2. Het eerste lid is niet van toepassing:
 
-- a. op een gebruiksfunctie met een gebruiksoppervlakte van niet meer dan 2.000 m2 en een vuurbelasting van ten hoogste 500 MJ/m2, bepaald volgens NEN 6090;
+- a. op een gebruiksfunctie met een gebruiksoppervlakte van niet meer dan 2.000 m2 en een vuurbelasting van ten hoogste 500 MJ/m2, bepaald volgens NEN 6090;
 
-- b. op een of meer bouwsels met elk een gebruiksoppervlakte van niet meer dan 50 m2;
+- b. op een of meer bouwsels met elk een gebruiksoppervlakte van niet meer dan 50 m2;
 
-- c. indien de toegang tot het bouwsel op ten hoogste 10 m van een openbare weg ligt, of
+- c. indien de toegang tot het bouwsel op ten hoogste 10 m van een openbare weg ligt, of
 
 - d. indien het bevoegd gezag kenbaar heeft gemaakt dat, gelet op de aard, de ligging of het gebruik van het bouwsel, geen verbindingsweg als bedoeld in het eerste lid is vereist.
 
@@ -844,9 +812,9 @@ Een voorziening voor het bestrijden van brand als bedoeld in [artikel 4.20](http
 
 2. Het eerste lid is niet van toepassing:
 
-- a. op een gebruiksfunctie met een gebruiksoppervlakte van niet meer dan 2.000 m2 en een vuurbelasting van ten hoogste 500 MJ/m2, bepaald volgens NEN 6090;
+- a. op een gebruiksfunctie met een gebruiksoppervlakte van niet meer dan 2.000 m2 en een vuurbelasting van ten hoogste 500 MJ/m2, bepaald volgens NEN 6090;
 
-- b. op een bouwsel met een gebruiksoppervlakte van niet meer dan 50 m2, of
+- b. op een bouwsel met een gebruiksoppervlakte van niet meer dan 50 m2, of
 
 - c. indien het bevoegd gezag kenbaar heeft gemaakt dat, gelet op de aard, de ligging of het gebruik van het bouwsel geen opstelplaatsen als bedoeld in het eerste lid zijn vereist.
 
@@ -854,7 +822,7 @@ Een voorziening voor het bestrijden van brand als bedoeld in [artikel 4.20](http
 
 4. Hekwerken die een opstelplaats als bedoeld in het eerste lid afsluiten, kunnen door hulpverleningsdiensten snel en gemakkelijk worden geopend of worden ontsloten met een systeem dat in overleg met de brandweer is bepaald.
 
-5. Tenzij in overleg met de brandweer anders is bepaald, is de afstand tussen een opstelplaats als bedoeld in het eerste lid en een brandweeringang als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.24&z=2024-01-01&g=2024-01-01) ten hoogste 40 m.
+5. Tenzij in overleg met de brandweer anders is bepaald, is de afstand tussen een opstelplaats als bedoeld in het eerste lid en een brandweeringang als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&hoofdstuk=4&paragraaf=4.8&artikel=4.24&z=2024-01-01&g=2024-01-01) ten hoogste 40 m.
 
 #### § 4.9. Zorgplicht installaties
 
@@ -920,7 +888,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wett
 
 - a. de aankleding zich bevindt boven een gedeelte van de vloer waar personen aanwezig kunnen zijn;
 
-- b. de verticale vrije ruimte tussen de vloer en de aankleding minder dan 2,5 m is, en
+- b. de verticale vrije ruimte tussen de vloer en de aankleding minder dan 2,5 m is, en
 
 - c. de aankleding niet direct op de vloer, trap of hellingbaan is aangebracht.
 
@@ -958,11 +926,11 @@ Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wett
 
 - b. de stof deugdelijk is verpakt, waarbij:
 
-- 1°. de verpakking tegen normale behandeling bestand is;
+   - 1°. de verpakking tegen normale behandeling bestand is;
 
-- 2°. de verpakking is voorzien van een adequate gevaarsaanduiding, en
+   - 2°. de verpakking is voorzien van een adequate gevaarsaanduiding, en
 
-- 3°. geen inhoud onvoorzien uit de verpakking kan ontsnappen, en
+   - 3°. geen inhoud onvoorzien uit de verpakking kan ontsnappen, en
 
 - c. de stof wordt gebruikt met inachtneming van de op de verpakking aangegeven gevaarsaanduidingen.
 
@@ -976,7 +944,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wett
 
 - d. gezamenlijk opgestelde gasflessen tot een totale waterinhoud van 125 liter;
 
-- e. dieselolie, gasolie of lichte stookolie met een vlampunt tussen de 61 °C en 100 °C tot een gezamenlijk opgestelde totale hoeveelheid van 1.000 liter, en
+- e. dieselolie, gasolie of lichte stookolie met een vlampunt tussen de 61 °C en 100 °C tot een gezamenlijk opgestelde totale hoeveelheid van 1.000 liter, en
 
 - f. brandgevaarlijke stoffen voor zover de aanwezigheid daarvan bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is toegestaan.
 
@@ -984,7 +952,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wett
 
 5. In afwijking van het derde lid, onderdeel e, is de aanwezigheid van meer dan 1.000 liter van een in dat onderdeel bedoelde oliesoort toegestaan indien de wijze van opslag en gebruik daarvan zodanig is dat het ontstaan van een brandgevaarlijke situatie en de ontwikkeling van brand naar het oordeel van het bevoegd gezag voldoende worden voorkomen.
 
-| **ADR-klasse1** | **Omschrijving** | **Verpakkingsgroep** | **Toegestane maximum hoeveelheid** |
+| ADR-klasse1 | Omschrijving | Verpakkingsgroep | Toegestane maximum hoeveelheid |
 | --- | --- | --- | --- |
 | 2 UN 1950 spuitbussen & UN 2037 houders, klein, gas | Gassen zoals propaan, zuurstof, acyteleen, aerosolen (spuitbussen) | n.v.t | 50 kg |
 | 3 | Brandbare vloeistoffen zoals bepaalde oplosmiddelen en aceton | II | 25 liter |
@@ -993,7 +961,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wett
 | 5.1 | Brandbevorderende stoffen zoals waterstofperoxide | II en III | 50 liter |
 | 5.2 | Organische peroxiden zoals dicymyl peroxide en di-propionyl peroxide | n.v.t. | 1 liter |
 
-1 Classificatie volgens de Europese overeenkomst van 30 september 1957 betreffende het internationaal vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 171).
+1 Classificatie volgens de Europese overeenkomst van 30 september 1957 betreffende het internationaal vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 171).
 
 ##### Artikel 5.7. Opstelling gebruikshoeveelheid gasflessen
 
@@ -1013,7 +981,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in [artikel 4.17](https://wett
 
 - b. de bereikbaarheid van de opslag vanaf twee tegenover elkaar liggende zijden is gewaarborgd, waarbij in een derde zijde ook een toegangsmogelijkheid aanwezig is indien die zijde langer is dan 40 m, en
 
-- c. bij de opslag een bluswatervoorziening met gedurende ten minste vier uren een toevoercapaciteit van ten minste 90 m3 per uur aanwezig is.
+- c. bij de opslag een bluswatervoorziening met gedurende ten minste vier uren een toevoercapaciteit van ten minste 90 m3 per uur aanwezig is.
 
 3. De in het tweede lid bedoelde stralingsbelasting wordt gemeten op:
 
@@ -1077,7 +1045,7 @@ Tijdens de stalling van voertuigen of pleziervaartuigen is het niet toegestaan o
 
 ##### Artikel 5.14. Bakkramen en bakwagens
 
-1. De afstand tussen een bakkraam of bakwagen met een gasinstallatie en een gebouw bedraagt ten minste 2 m, of ten minste 5 m indien in die kraam of wagen wordt gefrituurd.
+1. De afstand tussen een bakkraam of bakwagen met een gasinstallatie en een gebouw bedraagt ten minste 2 m, of ten minste 5 m indien in die kraam of wagen wordt gefrituurd.
 
 2. Het eerste lid is niet van toepassing indien:
 
@@ -1085,9 +1053,9 @@ Tijdens de stalling van voertuigen of pleziervaartuigen is het niet toegestaan o
 
 - b. de bakkraam of bakwagen is uitgerust met een automatische brandblusinstallatie.
 
-3. De afstand tussen een bakkraam of bakwagen met een gasinstallatie en een andere bakkraam of bakwagen met een gasinstallatie of een ander bouwsel bedraagt ten minste 2 m.
+3. De afstand tussen een bakkraam of bakwagen met een gasinstallatie en een andere bakkraam of bakwagen met een gasinstallatie of een ander bouwsel bedraagt ten minste 2 m.
 
-4. De afstand tussen een bakkraam of bakwagen met een elektrische installatie waarin wordt gefrituurd, en een andere bakkraam of bakwagen of een ander bouwsel bedraagt ten minste 2 m.
+4. De afstand tussen een bakkraam of bakwagen met een elektrische installatie waarin wordt gefrituurd, en een andere bakkraam of bakwagen of een ander bouwsel bedraagt ten minste 2 m.
 
 5. Bij het bepalen van de afstand als bedoeld in dit artikel wordt de buitenzijde van de bakkraam of bakwagen als meetpunt bedoeld.
 
@@ -1115,11 +1083,11 @@ Tijdens de stalling van voertuigen of pleziervaartuigen is het niet toegestaan o
 
 1. De inrichting van een besloten ruimte is zodanig dat:
 
-- a. voor elke persoon zonder zitplaats ten minste 0,25 m2 vloeroppervlakte beschikbaar is;
+- a. voor elke persoon zonder zitplaats ten minste 0,25 m2 vloeroppervlakte beschikbaar is;
 
-- b. voor elke persoon met zitplaats ten minste 0,3 m2 vloeroppervlakte beschikbaar is, indien geen inventaris kan verschuiven of omvallen als gevolg van gedrang;
+- b. voor elke persoon met zitplaats ten minste 0,3 m2 vloeroppervlakte beschikbaar is, indien geen inventaris kan verschuiven of omvallen als gevolg van gedrang;
 
-- c. voor elke persoon met zitplaats ten minste 0,5 m2 vloeroppervlakte beschikbaar is, indien inventaris kan verschuiven of omvallen als gevolg van gedrang.
+- c. voor elke persoon met zitplaats ten minste 0,5 m2 vloeroppervlakte beschikbaar is, indien inventaris kan verschuiven of omvallen als gevolg van gedrang.
 
 Bij de berekening van de per persoon beschikbare vloeroppervlakte wordt uitgegaan van de vloeroppervlakte aan verblijfsruimte na aftrek van de oppervlakte van de inventaris.
 
@@ -1133,23 +1101,23 @@ Bij de berekening van de per persoon beschikbare vloeroppervlakte wordt uitgegaa
 
 6. Een rij zitplaatsen die aan beide einden op een gangpad of uitgang uitkomt, heeft ten hoogste:
 
-- a. 16 zitplaatsen indien de vrije ruimte, bedoeld in het derde lid, niet groter is dan 0,45 m en de breedte van de vrije doorgang van het gangpad of van de uitgang ten minste 0,6 m is;
+- a. 16 zitplaatsen indien de vrije ruimte, bedoeld in het derde lid, niet groter is dan 0,45 m en de breedte van de vrije doorgang van het gangpad of van de uitgang ten minste 0,6 m is;
 
-- b. 32 zitplaatsen indien de vrije ruimte, bedoeld in het derde lid, groter is dan 0,45 m en de breedte van de vrije doorgang van het gangpad of van de uitgang ten minste 0,6 m is;
+- b. 32 zitplaatsen indien de vrije ruimte, bedoeld in het derde lid, groter is dan 0,45 m en de breedte van de vrije doorgang van het gangpad of van de uitgang ten minste 0,6 m is;
 
-- c. 50 zitplaatsen indien de vrije ruimte, bedoeld in het derde lid, groter is dan 0,45 m en de breedte van de vrije doorgang van het gangpad of van de uitgang ten minste 1,1 m is.
+- c. 50 zitplaatsen indien de vrije ruimte, bedoeld in het derde lid, groter is dan 0,45 m en de breedte van de vrije doorgang van het gangpad of van de uitgang ten minste 1,1 m is.
 
 ##### Artikel 5.18. Gangpaden
 
-1. Een gangpad tussen stands, kramen, schappen, podia en andere inrichtingselementen in een plaats is ten minste 1,1 m breed.
+1. Een gangpad tussen stands, kramen, schappen, podia en andere inrichtingselementen in een plaats is ten minste 1,1 m breed.
 
 2. Voor een uitgang in een plaats als bedoeld in het eerste lid is een vrije vloeroppervlakte met een lengte en een breedte van ten minste de breedte van deze uitgang.
 
 ##### Artikel 5.19. Beperking van gevaar voor letsel
 
-1. Tegen of onder het plafond aangebracht glas is veiligheidsglas of glas voorzien van een ingegoten kruiswapening met een maximale maaswijdte van 0,016 m.
+1. Tegen of onder het plafond aangebracht glas is veiligheidsglas of glas voorzien van een ingegoten kruiswapening met een maximale maaswijdte van 0,016 m.
 
-2. Textiel, folie of papier in horizontale toepassing is onderspannen met metaaldraad op een onderlinge afstand van ten hoogste 0,35 m, of metaaldraad in twee richtingen met een maximale maaswijdte van 0,7 m.
+2. Textiel, folie of papier in horizontale toepassing is onderspannen met metaaldraad op een onderlinge afstand van ten hoogste 0,35 m, of metaaldraad in twee richtingen met een maximale maaswijdte van 0,7 m.
 
 3. Aankleding in een besloten ruimte geeft bij brand geen druppelvorming boven een gedeelte van een vloer, bestemd voor gebruik door personen.
 
@@ -1202,5 +1170,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 7.3. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit brandveilig gebruik en basishulpverlening overige plaatsen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
