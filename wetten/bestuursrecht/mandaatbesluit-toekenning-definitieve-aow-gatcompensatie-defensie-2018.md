@@ -1,51 +1,25 @@
 ---
 title: "Mandaatbesluit toekenning definitieve AOW-gatcompensatie Defensie 2018"
 identifier: "BWBR0041356"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-09-10"
-last_updated: "2018-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041356"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14802193"
-version_id: "25307642"
-internal_id: "C36147671"
-label_id: "14754274"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041356/2018-09-10/0"
-intitule_bron: "Stcrt.2018-52591"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-10"
-intitule_published: "2018-09-20"
-intitule_in_force: "2018-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-52591"
-original_signed_date: "2018-09-10"
-original_published_date: "2018-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-52591"
-entry_into_force_date: "2018-09-10"
-jci_1_3: "jci1.3:c:BWBR0041356&z=2018-09-10&g=2018-09-10"
-jci_1_0: "1.0:c:BWBR0041356&g=2018-09-10"
-citeertitel_status: "officieel"
-signed_date: "2018-09-10"
-entry_into_force: "2018-09-10"
+publicatiedatum: 2018-09-10
+laatste_update: 2018-09-10
+status: geldig
+toestand: 2018-09-10
+bron: "https://wetten.overheid.nl/BWBR0041356"
+opgehaald: 2026-08-27
 ---
+
 # Mandaatbesluit toekenning definitieve AOW-gatcompensatie Defensie 2018
-
-Besluit
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **bestuur:** het bestuur van de Stichting Pensioenfonds ABP;
+- a. *bestuur:* het bestuur van de Stichting Pensioenfonds ABP;
 
-- b. **Staatssecretaris:** de Staatssecretaris van Defensie.
+- b. *Staatssecretaris:* de Staatssecretaris van Defensie.
 
 ##### Artikel 2
 
@@ -106,5 +80,3 @@ Het [mandaatbesluit van 13 oktober 2017](https://wetten.overheid.nl/jci1.3:c:BWB
 ##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de datum van ondertekening.
-
-Dit besluit zal worden gepubliceerd in de Staatscourant.

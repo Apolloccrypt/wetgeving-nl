@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 18 juni 2018, nr. IENW/BSK-2018/30175, houdende tijdelijke regels voor de subsidieverstrekking aan de Nederlandse Organisatie voor Wetenschappelijk Onderzoek ten behoeve van het Meerjarenprogramma Topsector Logistiek (Tijdelijke subsidieregeling NWO onderzoek Topsector Logistiek 2017–2021)"
+citeertitel: "Tijdelijke subsidieregeling NWO onderzoek Topsector Logistiek 2017–2021"
 identifier: "BWBR0041058"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-06-23"
-last_updated: "2018-06-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041058"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14656163"
-version_id: "25091522"
-internal_id: "C35883231"
-label_id: "14609064"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041058/2018-06-23/0"
-intitule_bron: "Stcrt.2018-33992"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-18"
-intitule_published: "2018-06-22"
-intitule_in_force: "2018-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-33992"
-original_signed_date: "2018-06-18"
-original_published_date: "2018-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-33992"
-entry_into_force_date: "2018-06-23"
-jci_1_3: "jci1.3:c:BWBR0041058&z=2018-06-23&g=2018-06-23"
-jci_1_0: "1.0:c:BWBR0041058&g=2018-06-23"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling NWO onderzoek Topsector Logistiek 2017–2021"
-signed_date: "2018-06-18"
-entry_into_force: "2018-06-23"
+publicatiedatum: 2018-06-23
+laatste_update: 2018-06-23
+status: geldig
+toestand: 2018-06-23
+bron: "https://wetten.overheid.nl/BWBR0041058"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 18 juni 2018, nr. IENW/BSK-2018/30175, houdende tijdelijke regels voor de subsidieverstrekking aan de Nederlandse Organisatie voor Wetenschappelijk Onderzoek ten behoeve van het Meerjarenprogramma Topsector Logistiek (Tijdelijke subsidieregeling NWO onderzoek Topsector Logistiek 2017–2021)
-
-Gelet op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [10, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [15, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), en [24, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **anticiperende beschikking:** de beschikking van 14 juli 2017, nummer 5000003337;
+- *anticiperende beschikking:* de beschikking van 14 juli 2017, nummer 5000003337;
 
-- **incidentele beschikking:** de beschikking van 19 december 2014, nummer 5000002801, zoals gewijzigd bij beschikking van 12 november 2015, nummer 5000002801A, en bij beschikking van 14 oktober 2016, nummer 5000002801B;
+- *incidentele beschikking:* de beschikking van 19 december 2014, nummer 5000002801, zoals gewijzigd bij beschikking van 12 november 2015, nummer 5000002801A, en bij beschikking van 14 oktober 2016, nummer 5000002801B;
 
-- **kaderregeling O&O&I:** Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie (PbEU 2014, C 198);
+- *kaderregeling O&O&I:* Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie (PbEU 2014, C 198);
 
-- **meerjarenprogramma:** Meerjarenprogramma Topsector Logistiek 2015-2020;
+- *meerjarenprogramma:* Meerjarenprogramma Topsector Logistiek 2015-2020;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **NWO:** Nederlandse Organisatie voor Wetenschappelijk Onderzoek;
+- *NWO:* Nederlandse Organisatie voor Wetenschappelijk Onderzoek;
 
-- **onderzoeksorganisatie:** organisatie voor onderzoek en kennisverspreiding als bedoeld in paragraaf 1.3, onder 15, onderdeel ee, van de kaderregeling O&O&I;
+- *onderzoeksorganisatie:* organisatie voor onderzoek en kennisverspreiding als bedoeld in paragraaf 1.3, onder 15, onderdeel ee, van de kaderregeling O&O&I;
 
-- **TKI Logistiek:** Topconsortium voor Kennis en Innovatie Logistiek.
+- *TKI Logistiek:* Topconsortium voor Kennis en Innovatie Logistiek.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -153,5 +127,3 @@ Als rapportage als bedoeld in [artikel 20, eerste lid, van het Kaderbesluit subs
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling NWO onderzoek Topsector Logistiek 2017–2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

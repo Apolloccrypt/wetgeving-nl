@@ -1,52 +1,29 @@
 ---
 title: "Beleidsregel tenaamstellingsloket snelle motorboten"
 identifier: "BWBR0040998"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-06-10"
-last_updated: "2018-06-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040998"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14631613"
-version_id: "25054752"
-internal_id: "C35831211"
-label_id: "14584564"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040998/2018-06-10/0"
-intitule_bron: "Stcrt.2018-31389"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-06-08"
-intitule_in_force: "2018-06-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-31389"
-original_published_date: "2018-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-31389"
-entry_into_force_date: "2018-06-10"
-jci_1_3: "jci1.3:c:BWBR0040998&z=2018-06-10&g=2018-06-10"
-jci_1_0: "1.0:c:BWBR0040998&g=2018-06-10"
-citeertitel_status: "officieel"
-entry_into_force: "2018-06-10"
+publicatiedatum: 2018-06-10
+laatste_update: 2018-06-10
+status: geldig
+toestand: 2018-06-10
+bron: "https://wetten.overheid.nl/BWBR0040998"
+opgehaald: 2026-08-27
 ---
+
 # Beleidsregel tenaamstellingsloket snelle motorboten
-
-Gelet op [artikel 8.01, eerste lid, Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01) en de [Regeling registratie snelle motorboten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008666), alsmede [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
-De begripsbepalingen van het [Binnenvaartpolitiereglement](onbekend) zijn onverkort van toepassing.
+De begripsbepalingen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/BWBR0003628) zijn onverkort van toepassing.
 
 Voorts wordt verstaan onder:
 
-- **aanvrager:** de natuurlijk- of rechtspersoon die een verzoek indient voor de tenaamstelling van een snelle motorboot.
+- *aanvrager:* de natuurlijk- of rechtspersoon die een verzoek indient voor de tenaamstelling van een snelle motorboot.
 
-- **toestemminghouder:** degene aan wie toestemming is verleend als bedoeld in deze beleidsregel.
+- *toestemminghouder:* degene aan wie toestemming is verleend als bedoeld in deze beleidsregel.
 
-- **verzoeker:** de rechtspersoon die in het kader van deze beleidsregel toestemming vraagt zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040998&artikel=2&z=2018-06-10&g=2018-06-10).
+- *verzoeker:* de rechtspersoon die in het kader van deze beleidsregel toestemming vraagt zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040998&artikel=2&z=2018-06-10&g=2018-06-10).
 
 ##### Artikel 2
 

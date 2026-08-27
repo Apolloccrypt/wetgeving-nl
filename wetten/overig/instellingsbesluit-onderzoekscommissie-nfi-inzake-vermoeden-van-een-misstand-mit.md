@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 29 maart 2018, houdende instelling van de Onderzoekscommissie NFI inzake een melding van een vermoeden van een misstand bij de uitvoering van de onderzoeksmethode Micro-analyse Invasieve Trauma’s door het Nederlands Forensisch Instituut (Instellingsbesluit Onderzoekscommissie NFI inzake MIT)"
+citeertitel: "Instellingsbesluit Onderzoekscommissie NFI inzake vermoeden van een misstand MIT"
 identifier: "BWBR0040906"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-05-17"
-last_updated: "2018-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040906"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14610723"
-version_id: "25016642"
-internal_id: "C35780521"
-label_id: "14564344"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040906/2018-05-17/0"
-intitule_bron: "Stcrt.2018-22881"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-03-29"
-intitule_published: "2018-05-17"
-intitule_in_force: "2018-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-22881"
-original_signed_date: "2018-03-29"
-original_published_date: "2018-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-22881"
-entry_into_force_date: "2018-05-17"
-jci_1_3: "jci1.3:c:BWBR0040906&z=2018-05-17&g=2018-05-17"
-jci_1_0: "1.0:c:BWBR0040906&g=2018-05-17"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Onderzoekscommissie NFI inzake vermoeden van een misstand MIT"
-signed_date: "2018-03-29"
-entry_into_force: "2018-05-17"
+publicatiedatum: 2018-05-17
+laatste_update: 2018-05-17
+status: geldig
+toestand: 2018-05-17
+bron: "https://wetten.overheid.nl/BWBR0040906"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 29 maart 2018, houdende instelling van de Onderzoekscommissie NFI inzake een melding van een vermoeden van een misstand bij de uitvoering van de onderzoeksmethode Micro-analyse Invasieve Trauma’s door het Nederlands Forensisch Instituut (Instellingsbesluit Onderzoekscommissie NFI inzake MIT)
-
-Besluit:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **SG:** de secretaris-generaal van het Ministerie van Justitie en Veiligheid;
+- a. *SG:* de secretaris-generaal van het Ministerie van Justitie en Veiligheid;
 
-- b. **Commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040906&artikel=2&z=2018-05-17&g=2018-05-17).
+- b. *Commissie:* de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040906&artikel=2&z=2018-05-17&g=2018-05-17).
 
 ##### Artikel 2. Instelling en taak
 
@@ -54,11 +28,11 @@ In dit besluit wordt verstaan onder:
 
 2. De Commissie heeft tot taak te beoordelen:
 
-- a). of de verwijten of beschuldigingen van de melder gegrond zijn dat bij de uitvoering van de onderzoeksmethode Micro-analyse Invasieve Trauma’s procedures niet zijn gevolgd dan wel onduidelijk zijn geweest;
+- a) of de verwijten of beschuldigingen van de melder gegrond zijn dat bij de uitvoering van de onderzoeksmethode Micro-analyse Invasieve Trauma’s procedures niet zijn gevolgd dan wel onduidelijk zijn geweest;
 
-- b). of er bij de uitvoering van de hiervoor onder 2a genoemde onderzoeksmethode sprake is geweest van enige wijze van handelen of nalaten door één of meerdere medewerkers van het NFI in strijd met de voor hen toepasselijke gedragsregels en/of wetenschappelijk aanvaard normenkader. De Commissie onderzoekt uitdrukkelijk het proces dat bij deze onderzoeksmethode is gevolgd en niet het functioneren van personen;
+- b) of er bij de uitvoering van de hiervoor onder 2a genoemde onderzoeksmethode sprake is geweest van enige wijze van handelen of nalaten door één of meerdere medewerkers van het NFI in strijd met de voor hen toepasselijke gedragsregels en/of wetenschappelijk aanvaard normenkader. De Commissie onderzoekt uitdrukkelijk het proces dat bij deze onderzoeksmethode is gevolgd en niet het functioneren van personen;
 
-- c). of er sprake is geweest van enige wijze van handelen of nalaten door één of meer medewerkers van het NFI dat is aan te merken als een misstand in de zin van [artikel 1, onderdeel d, van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1). De Commissie onderzoekt uitdrukkelijk het proces dat bij deze onderzoeksmethode is gevolgd en niet het functioneren van personen;
+- c) of er sprake is geweest van enige wijze van handelen of nalaten door één of meer medewerkers van het NFI dat is aan te merken als een misstand in de zin van [artikel 1, onderdeel d, van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1). De Commissie onderzoekt uitdrukkelijk het proces dat bij deze onderzoeksmethode is gevolgd en niet het functioneren van personen;
 
 3. De Commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht.
 
@@ -72,9 +46,9 @@ In dit besluit wordt verstaan onder:
 
 3. Tot leden van de Commissie worden benoemd:
 
-- –. prof. dr. A.G.J.M. van Leeuwen;
+- – prof. dr. A.G.J.M. van Leeuwen;
 
-- –. prof. mr. J.M. Reijntjes.
+- – prof. mr. J.M. Reijntjes.
 
 4. De benoeming geschiedt voor de duur van de werkzaamheden van de Commissie.
 
@@ -159,5 +133,3 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: instellingsbesluit Onderzoekscommissie NFI inzake vermoeden van een misstand MIT.
-
-Dit besluit zal worden geplaatst in de Staatscourant en op de websites van het ministerie en het NFI. Het wordt in afschrift gezonden aan de leden van de Commissie.

@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister-President, Minister van Algemene Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 20 april 2018, nr. 2018-0000241495, houdende vaststelling van regels omtrent het aanwijzen van personen of instanties die een verzoek om mededeling kunnen doen omtrent door de diensten verwerkte gegevens omtrent personen of instanties (Regeling naslag Wiv 2017)"
+citeertitel: "Regeling naslag Wiv 2017"
 identifier: "BWBR0040855"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-01"
-last_updated: "2023-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040855"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14596623"
-version_id: "24994502"
-internal_id: "C35745161"
-label_id: "14550144"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040855/2023-09-01/0"
-intitule_bron: "Stcrt.2018-23324"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-20"
-intitule_published: "2018-04-26"
-intitule_in_force: "2018-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-23324"
-original_signed_date: "2018-04-20"
-original_published_date: "2018-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-23324"
-entry_into_force_date: "2018-05-01"
-jci_1_3: "jci1.3:c:BWBR0040855&z=2023-09-01&g=2023-09-01"
-jci_1_0: "1.0:c:BWBR0040855&g=2023-09-01"
-citeertitel_status: "officieel"
-short_title: "Regeling naslag Wiv 2017"
-signed_date: "2018-04-20"
-entry_into_force: "2018-05-01"
+publicatiedatum: 2018-05-01
+laatste_update: 2023-09-01
+status: geldig
+toestand: 2023-09-01
+bron: "https://wetten.overheid.nl/BWBR0040855"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister-President, Minister van Algemene Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 20 april 2018, nr. 2018-0000241495, houdende vaststelling van regels omtrent het aanwijzen van personen of instanties die een verzoek om mededeling kunnen doen omtrent door de diensten verwerkte gegevens omtrent personen of instanties (Regeling naslag Wiv 2017)
-
-Gelet op [artikel 8, tweede lid, onder f,](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8)[artikel 10, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10) en [artikel 63 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=63);
-
-Besluiten:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
+- a. *wet:* de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- b. **naslag:** het op verzoek van een externe partij raadplegen van door of ten behoeve van de diensten verwerkte gegevens om na te gaan of er ten aanzien van een bepaalde persoon of instantie relevante gegevens beschikbaar zijn;
+- b. *naslag:* het op verzoek van een externe partij raadplegen van door of ten behoeve van de diensten verwerkte gegevens om na te gaan of er ten aanzien van een bepaalde persoon of instantie relevante gegevens beschikbaar zijn;
 
-- c. **mededeling:** het verstrekken van de bevindingen van een naslag aan een externe partij die daarom heeft verzocht als bedoeld in [artikel 63 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=63).
+- c. *mededeling:* het verstrekken van de bevindingen van een naslag aan een externe partij die daarom heeft verzocht als bedoeld in [artikel 63 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=63).
 
 ##### Artikel 2
 
@@ -74,11 +48,11 @@ In de navolgende gevallen kunnen de daarbij aangewezen personen en instanties ee
 
 - j. met betrekking tot personen ten aanzien van wie en rechtspersonen en entiteiten ten aanzien waarvan een beperkende maatregel op grond van hoofdstuk VII van het Handvest van de Verenigde Naties, het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie dan wel krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) van toepassing is of wordt overwogen alsmede met betrekking tot personen ten aanzien van wie en rechtspersonen en entiteiten ten aanzien waarvan het vermoeden bestaat dat jegens hen zodanige maatregel van toepassing is: de Minister van Financiën, of namens deze de Directie Financiële Markten van het Ministerie van Financiën, of de Minister van Buitenlandse Zaken, of namens deze de Directie Veiligheidsbeleid, afdeling Terrorismebestrijding en Nationale Veiligheid van het Ministerie van Buitenlandse Zaken of de Minister van Economische Zaken en Klimaat, of namens deze het hoofd van Bureau Toetsing Investeringen;
 
-- k. met betrekking tot een verzoek op grond van [artikel 4, vierde lid, van de Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4): Onze verantwoordelijke minister als bedoeld in [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=1);
+- k. met betrekking tot een verzoek op grond van [artikel 4, vierde lid, van de Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4): Onze verantwoordelijke minister als bedoeld in [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=1);
 
-- l. met betrekking tot een verzoek zoals bedoeld in artikel 6, vierde lid, of artikel 7, derde lid, van [Verordening (EU) 2019/452](32352R2019) van het Europees Parlement en de Raad van 19 maart 2019 tot vaststelling van een kader voor de screening van buitenlandse directe investeringen in de Unie (PbEU 2019, L 79) van een lidstaat die terdege van oordeel is dat een buitenlandse directe investering op zijn grondgebied gevolgen kan hebben voor zijn veiligheid of openbare orde: Onze verantwoordelijke minister als bedoeld in [artikel 1 van de Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=1);
+- l. met betrekking tot een verzoek zoals bedoeld in artikel 6, vierde lid, of artikel 7, derde lid, van Verordening (EU) 2019/452 van het Europees Parlement en de Raad van 19 maart 2019 tot vaststelling van een kader voor de screening van buitenlandse directe investeringen in de Unie (PbEU 2019, L 79) van een lidstaat die terdege van oordeel is dat een buitenlandse directe investering op zijn grondgebied gevolgen kan hebben voor zijn veiligheid of openbare orde: Onze verantwoordelijke minister als bedoeld in [artikel 1 van de Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=1);
 
-- m. met betrekking tot erkend referenten als bedoeld in [hoofdstuk 1, afdeling 3 Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&afdeling=3): de Minister van Justitie en Veiligheid dan wel de Staatssecretaris van Justitie en Veiligheid, of namens deze de Immigratie- en Naturalisatiedienst.
+- m. met betrekking tot erkend referenten als bedoeld in [hoofdstuk 1, afdeling 3 Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&afdeling=3): de Minister van Justitie en Veiligheid dan wel de Staatssecretaris van Justitie en Veiligheid, of namens deze de Immigratie- en Naturalisatiedienst.
 
 ##### Artikel 3
 
@@ -98,11 +72,11 @@ In de navolgende gevallen kunnen de daarbij aangewezen personen en instanties ee
 
 - e. met betrekking tot personen voor wie een beperkende maatregel op grond van hoofdstuk VII van het Handvest van de Verenigde Naties, het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie dan wel krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) van toepassing is of wordt overwogen alsmede met betrekking tot personen ten aanzien van wie en rechtspersonen en entiteiten ten aanzien waarvan het vermoeden bestaat dat jegens hen zodanige maatregel van toepassing is: de Minister van Financiën, of namens deze de Directie Financiële Markten van het Ministerie van Financiën, of de Minister van Buitenlandse Zaken, of namens deze de Directie Veiligheidsbeleid, afdeling Terrorismebestrijding en Nationale Veiligheid van het Ministerie van Buitenlandse Zaken of de Minister van Economische Zaken en Klimaat, of namens deze het hoofd van Bureau Toetsing Investeringen;
 
-- f. met betrekking tot een verzoek op grond van [artikel 4, vierde lid, van de Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4): Onze verantwoordelijke minister als bedoeld in [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=1);
+- f. met betrekking tot een verzoek op grond van [artikel 4, vierde lid, van de Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4): Onze verantwoordelijke minister als bedoeld in [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=1);
 
-- g. met betrekking tot een verzoek zoals bedoeld in artikel 6, vierde lid, of artikel 7, derde lid, van [Verordening (EU) 2019/452](32352R2019) van het Europees Parlement en de Raad van 19 maart 2019 tot vaststelling van een kader voor de screening van buitenlandse directe investeringen in de Unie (PbEU 2019, L 79) van een lidstaat die terdege van oordeel is dat een buitenlandse directe investering op zijn grondgebied gevolgen kan hebben voor zijn veiligheid of openbare orde: Onze verantwoordelijke minister als bedoeld in [artikel 1 van de Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=1);
+- g. met betrekking tot een verzoek zoals bedoeld in artikel 6, vierde lid, of artikel 7, derde lid, van Verordening (EU) 2019/452 van het Europees Parlement en de Raad van 19 maart 2019 tot vaststelling van een kader voor de screening van buitenlandse directe investeringen in de Unie (PbEU 2019, L 79) van een lidstaat die terdege van oordeel is dat een buitenlandse directe investering op zijn grondgebied gevolgen kan hebben voor zijn veiligheid of openbare orde: Onze verantwoordelijke minister als bedoeld in [artikel 1 van de Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=1);
 
-- h. met betrekking tot erkend referenten als bedoeld in [hoofdstuk 1, afdeling 3 Vreemdelingenbesluit 2000:](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&afdeling=3)de Minister van Justitie en Veiligheid of namens deze de Immigratie- en Naturalisatiedienst.
+- h. met betrekking tot erkend referenten als bedoeld in [hoofdstuk 1, afdeling 3 Vreemdelingenbesluit 2000:](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&afdeling=3)de Minister van Justitie en Veiligheid of namens deze de Immigratie- en Naturalisatiedienst.
 
 ##### Artikel 5
 
@@ -110,10 +84,8 @@ De mededeling met betrekking tot de gevallen, bedoeld in [artikel 4](https://wet
 
 ##### Artikel 6
 
-Deze regeling treedt in werking met ingang van 1 mei 2018.
+Deze regeling treedt in werking met ingang van 1 mei 2018.
 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Regeling naslag Wiv 2017.
-
-De regeling zal met de toelichting in de Staatscourant worden geplaatst.

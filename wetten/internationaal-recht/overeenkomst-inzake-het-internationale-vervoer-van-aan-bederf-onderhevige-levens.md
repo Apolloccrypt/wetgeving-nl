@@ -8,7 +8,7 @@ laatste_update: 2026-08-25
 status: geldig
 toestand: 2026-08-25
 bron: "https://wetten.overheid.nl/BWBV0004371"
-opgehaald: 2026-08-26
+opgehaald: 2026-08-27
 ---
 
 # Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP)

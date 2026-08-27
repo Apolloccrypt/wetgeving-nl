@@ -1,58 +1,33 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 23 november 2018, nr. WJZ/18199760, houdende nadere regels tot vergunningverlening windenergie op zee voor de kavels III en IV van het windenergiegebied Hollandse Kust (zuid) (Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid))"
+citeertitel: "Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid)"
 identifier: "BWBR0041607"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041607"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "14888523"
-version_id: "25464002"
-internal_id: "C36338631"
-label_id: "14839874"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041607/2019-01-01/0"
-intitule_bron: "Stcrt.2018-67681"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-23"
-intitule_published: "2018-12-03"
-intitule_in_force: "2018-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-67681"
-original_signed_date: "2018-11-23"
-original_published_date: "2018-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-67681"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041607&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0041607&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid)"
-signed_date: "2018-11-23"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0041607"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 23 november 2018, nr. WJZ/18199760, houdende nadere regels tot vergunningverlening windenergie op zee voor de kavels III en IV van het windenergiegebied Hollandse Kust (zuid) (Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid))
-
-Gelet op de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14), [23, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=23), en [24, derde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **kavel III:** kavel III van het windenergiegebied Hollandse Kust (zuid) zoals aangewezen in [Kavelbesluit III windenergiegebied Hollandse Kust (zuid)](https://wetten.overheid.nl/jci1.3:c:BWBR0040556) (Stcrt. 2018, 2543);
+- *kavel III:* kavel III van het windenergiegebied Hollandse Kust (zuid) zoals aangewezen in [Kavelbesluit III windenergiegebied Hollandse Kust (zuid)](https://wetten.overheid.nl/jci1.3:c:BWBR0040556) (Stcrt. 2018, 2543);
 
-- **kavel IV:** kavel IV van het windenergiegebied Hollandse Kust (zuid) zoals aangewezen in [Kavelbesluit IV windenergiegebied Hollandse Kust (zuid)](https://wetten.overheid.nl/jci1.3:c:BWBR0040532) (Stcrt. 2018, 2497);
+- *kavel IV:* kavel IV van het windenergiegebied Hollandse Kust (zuid) zoals aangewezen in [Kavelbesluit IV windenergiegebied Hollandse Kust (zuid)](https://wetten.overheid.nl/jci1.3:c:BWBR0040532) (Stcrt. 2018, 2497);
 
-- **Minister:** Minister van Economische Zaken en Klimaat;
+- *Minister:* Minister van Economische Zaken en Klimaat;
 
-- **P50-waarde voor de netto elektriciteitsproductie:** de verwachte jaarlijkse energieproductie voor een gegeven combinatie van locatie en productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie dient te zijn bepaald met een waarschijnlijkheid van 50%;
+- *P50-waarde voor de netto elektriciteitsproductie:* de verwachte jaarlijkse energieproductie voor een gegeven combinatie van locatie en productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie dient te zijn bepaald met een waarschijnlijkheid van 50%;
 
-- **wet:** [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
+- *wet:*
+ [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
 
 ##### Artikel 2
 
@@ -174,7 +149,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De onderlinge weging van de rangschikkingscriteria, bedoeld in [artikel 24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24) vindt plaats overeenkomstig de waardering in punten zoals opgenomen in de bijlage waarbij een hoger aantal punten leidt tot een hogere rangschikking.
+1. De onderlinge weging van de rangschikkingscriteria, bedoeld in [artikel 24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24) vindt plaats overeenkomstig de waardering in punten zoals opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0041607) waarbij een hoger aantal punten leidt tot een hogere rangschikking.
 
 2. Als bij de rangschikking van de aanvragen volgens de onderlinge weging van de rangschikkingscriteria, bedoeld in het eerste lid, twee of meer aanvragen gelijk als hoogste worden gerangschikt, weegt het criterium, genoemd in [artikel 24, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24), zwaarder dan de criteria, genoemd in artikel 24, tweede lid, onderdelen a tot en met e, gezamenlijk.
 
@@ -197,121 +172,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2019.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid).
-
-## Bijlage. behorende bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041607&artikel=5&z=2019-01-01&g=2019-01-01), van de Regeling vergunningverlening windenergie op zee zonder subsidie
-
-Onderlinge weging van de rangschikkingscriteria, bedoeld in [artikel 24, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)
-
-1. Weging in punten:
-
-| Criterium: de kennis en ervaring van de betrokken partijen ([artikel 24, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de kennis en ervaring van de betrokken partijen ([artikel 24, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de kennis en ervaring van de betrokken partijen ([artikel 24, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de kennis en ervaring van de betrokken partijen ([artikel 24, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de kennis en ervaring van de betrokken partijen ([artikel 24, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 |
-| --- | --- | --- | --- | --- |
-|   |   | Kwalitatieve maatstaven | Beoordelingsmaatstaf | Ptn. |
-| **1** | De kennis en ervaring van de partijen die verantwoordelijk zijn voor het projectmanagement | Deze partijen hebben projectmanagement uitgevoerd voor windparken op zee | Deze windparken hebben een gezamenlijke capaciteit van minder dan 25 MW | 0 |
-| **1** | De kennis en ervaring van de partijen die verantwoordelijk zijn voor het projectmanagement | Deze partijen hebben projectmanagement uitgevoerd voor windparken op zee | Deze windparken hebben een gezamenlijke capaciteit van 25 MW of meer | 3 |
-| **2** | De kennis en ervaring van leveranciers van de funderingen | Deze partijen hebben funderingen geleverd voor windparken op zee | Er zijn minder dan 10 funderingen geleverd | 0 |
-| **2** | De kennis en ervaring van leveranciers van de funderingen | Deze partijen hebben funderingen geleverd voor windparken op zee | Er zijn 10 of meer funderingen geleverd | 1 |
-| **3** | De kennis en ervaring van installateurs van de funderingen | Deze partijen hebben funderingen geïnstalleerd voor windparken op zee | Er zijn minder dan 10 funderingen geïnstalleerd | 0 |
-| **3** | De kennis en ervaring van installateurs van de funderingen | Deze partijen hebben funderingen geïnstalleerd voor windparken op zee | Er zijn 10 of meer funderingen geïnstalleerd | 1 |
-| **4** | De kennis en ervaring van leveranciers van de windturbines | Deze partijen hebben windturbines geleverd voor windparken op zee | Er zijn minder dan 10 windturbines geleverd | 0 |
-| **4** | De kennis en ervaring van leveranciers van de windturbines | Deze partijen hebben windturbines geleverd voor windparken op zee | Er zijn 10 of meer windturbines geleverd | 1 |
-| **5** | De kennis en ervaring van installateurs windturbine | Deze partijen hebben windturbines geïnstalleerd voor windparken op zee | Er zijn minder dan 10 windturbines geïnstalleerd | 0 |
-| **5** | De kennis en ervaring van installateurs windturbine | Deze partijen hebben windturbines geïnstalleerd voor windparken op zee | Er zijn 10 of meer windturbines geïnstalleerd | 1 |
-| **6** | De kennis en ervaring van leveranciers van de bekabeling die de individuele windturbines verbindt en aansluit op het platform | Deze partijen hebben bekabeling geleverd die individuele windturbines verbindt en aansluit op een platform op zee | Bekabeling geleverd voor de verbinding van minder dan 10 windturbines met een platform | 0 |
-| **6** | De kennis en ervaring van leveranciers van de bekabeling die de individuele windturbines verbindt en aansluit op het platform | Deze partijen hebben bekabeling geleverd die individuele windturbines verbindt en aansluit op een platform op zee | Bekabeling geleverd voor de verbinding van 10 of meer windturbines met een platform | 1 |
-| **7** | De kennis en ervaring van installateurs van de bekabeling die de individuele windturbines verbindt en aansluit op het platform | Deze partijen hebben bekabeling geïnstalleerd die individuele windturbines verbindt en aansluit op een platform op zee | Bekabeling geïnstalleerd voor de verbinding van minder dan 10 windturbines met een platform | 0 |
-| **7** | De kennis en ervaring van installateurs van de bekabeling die de individuele windturbines verbindt en aansluit op het platform | Deze partijen hebben bekabeling geïnstalleerd die individuele windturbines verbindt en aansluit op een platform op zee | Bekabeling geïnstalleerd voor de verbinding van 10 of meer windturbines met een platform | 1 |
-| **8** | De kennis en ervaring van partijen die verantwoordelijk zijn voor het onderhoud en de bediening van het windpark | Deze partijen hebben onderhoud en bediening van windparken op zee uitgevoerd | Ervaring met onderhoud en bediening van windparken op zee met een gezamenlijke capaciteit van minder dan 25 MW | 0 |
-| **8** | De kennis en ervaring van partijen die verantwoordelijk zijn voor het onderhoud en de bediening van het windpark | Deze partijen hebben onderhoud en bediening van windparken op zee uitgevoerd | Ervaring met onderhoud en bediening van windparken op zee met een gezamenlijke capaciteit van 25 MW of meer | 1 |
-
-| Criterium: De kwaliteit van het ontwerp voor het windpark ([artikel 24, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: De kwaliteit van het ontwerp voor het windpark ([artikel 24, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: De kwaliteit van het ontwerp voor het windpark ([artikel 24, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: De kwaliteit van het ontwerp voor het windpark ([artikel 24, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: De kwaliteit van het ontwerp voor het windpark ([artikel 24, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 |
-| --- | --- | --- | --- | --- |
-|   |   | Kwalitatieve maatstaven | Beoordelingsmaatstaf | Ptn. |
-| **1** | De realisatie- overeenkomst en de aansluit- en transportovereen-komst gesloten met de netbeheerder van het net op zee | De termijn na het onherroepelijk zijn van de vergunning waarbinnen de aanvrager (vergunninghouder) kan instemmen met de voorwaarden van de netbeheerder van het net op zee voor de realisatieovereenkomst en de aansluit- en transportovereenkomst overeenkomstig de Elektriciteitswet 1998. | De termijn is meer dan 12 maanden | 1 |
-| **1** | De realisatie- overeenkomst en de aansluit- en transportovereen-komst gesloten met de netbeheerder van het net op zee | De termijn na het onherroepelijk zijn van de vergunning waarbinnen de aanvrager (vergunninghouder) kan instemmen met de voorwaarden van de netbeheerder van het net op zee voor de realisatieovereenkomst en de aansluit- en transportovereenkomst overeenkomstig de Elektriciteitswet 1998. | De termijn is 6–12 maanden | 5 |
-| **1** | De realisatie- overeenkomst en de aansluit- en transportovereen-komst gesloten met de netbeheerder van het net op zee | De termijn na het onherroepelijk zijn van de vergunning waarbinnen de aanvrager (vergunninghouder) kan instemmen met de voorwaarden van de netbeheerder van het net op zee voor de realisatieovereenkomst en de aansluit- en transportovereenkomst overeenkomstig de Elektriciteitswet 1998. | De termijn is minder dan 6 maanden | 10 |
-
-| Criterium: de capaciteit van het windpark ([artikel 24, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de capaciteit van het windpark ([artikel 24, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de capaciteit van het windpark ([artikel 24, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de capaciteit van het windpark ([artikel 24, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de capaciteit van het windpark ([artikel 24, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 |
-| --- | --- | --- | --- | --- |
-|   |   | Kwalitatieve maatstaven | Beoordelingsmaatstaf | Ptn. |
-| **1** | De productiecapaciteit van het windpark | Het gezamenlijk geïnstalleerd vermogen van het windpark in MW | Niet minder dan 342 MW en minder dan 360 MW | 1 |
-| **1** | De productiecapaciteit van het windpark | Het gezamenlijk geïnstalleerd vermogen van het windpark in MW | Gelijk of meer dan 360 MW en minder dan 370 MW | 5 |
-| **1** | De productiecapaciteit van het windpark | Het gezamenlijk geïnstalleerd vermogen van het windpark in MW | Gelijk of meer dan 370 MW en niet meer dan 380 MW | 10 |
-
-| Criterium: de maatschappelijke kosten ([artikel 24, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de maatschappelijke kosten ([artikel 24, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de maatschappelijke kosten ([artikel 24, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de maatschappelijke kosten ([artikel 24, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 | Criterium: de maatschappelijke kosten ([artikel 24, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 10 |
-| --- | --- | --- | --- | --- |
-|   |   | Kwalitatieve maatstaven | Beoordelingsmaatstaf | Ptn. |
-| **1** | De efficiency van het gebruik van het net op zee. | De berekende P50-waarde voor de netto elektriciteitsproductie | Minder dan 1.300.000 MWh per jaar | 1 |
-| **1** | De efficiency van het gebruik van het net op zee. | De berekende P50-waarde voor de netto elektriciteitsproductie | Gelijk of meer dan 1.300.000 MWh en minder dan 1.350.000 MWh per jaar | 3 |
-| **1** | De efficiency van het gebruik van het net op zee. | De berekende P50-waarde voor de netto elektriciteitsproductie | Gelijk of meer dan 1.350.000 MWh en minder dan 1.400.000 MWh per jaar | 5 |
-| **1** | De efficiency van het gebruik van het net op zee. | De berekende P50-waarde voor de netto elektriciteitsproductie | Gelijk of meer dan 1.400.000 MWh per jaar | 10 |
-
-| Criterium: de kwaliteit van de inventarisatie en analyse van de risico’s ([artikel 24, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten 20 | Criterium: de kwaliteit van de inventarisatie en analyse van de risico’s ([artikel 24, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten 20 | Criterium: de kwaliteit van de inventarisatie en analyse van de risico’s ([artikel 24, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten 20 | Criterium: de kwaliteit van de inventarisatie en analyse van de risico’s ([artikel 24, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten 20 | Criterium: de kwaliteit van de inventarisatie en analyse van de risico’s ([artikel 24, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten 20 |
-| --- | --- | --- | --- | --- |
-|   |   | Kwalitatieve maatstaven | Beoordelingsmaatstaf | Ptn. |
-| **1** | Risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit | Prijsrisico’s voor elektriciteit en garanties van oorsprong | Korte termijn marktfluctuaties | 0-10 |
-| **1** | Risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit | Prijsrisico’s voor elektriciteit en garanties van oorsprong | Lange termijn prijsontwikkeling | 0-10 |
-| **1** | Risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit | Prijsrisico’s voor elektriciteit en garanties van oorsprong | De positie van windenergie op zee in de toekomstige energiemix | 0-10 |
-| **1** | Risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit | Volumerisico's | Toegang tot voldoende liquide handelsstromen | 0-10 |
-| **1** | Risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit | Onbalanskosten | Korte termijn onbalanskosten | 0-10 |
-| **1** | Risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit | Onbalanskosten | Ontwikkeling van de energiemix op lange termijn | 0-10 |
-| **2** | Risico's met betrekking tot de bouw van het windpark | Leveringsrisico's van cruciale onderdelen | Beschikbaarheid geschikte productiefaciliteiten | 0-5 |
-| **2** | Risico's met betrekking tot de bouw van het windpark | Leveringsrisico's van cruciale onderdelen | Beschikbaarheid productiecapaciteit in bepaalde periode | 0-5 |
-| **2** | Risico's met betrekking tot de bouw van het windpark | Leveringsrisico's van cruciale onderdelen | Beschikbaarheid van onderdelen met een lange leverings- of productietijd | 0-5 |
-| **2** | Risico's met betrekking tot de bouw van het windpark | Transport- en installatierisico's | Beschikbaarheid van geschikte installatieschepen | 0-5 |
-| **2** | Risico's met betrekking tot de bouw van het windpark | Transport- en installatierisico's | Beschikbaarheid van specifieke transport- en installatieapparatuur | 0-5 |
-| **2** | Risico's met betrekking tot de bouw van het windpark | Transport- en installatierisico's | Weerrisico's in relatie tot de in te zetten transport- en installatieapparatuur en het ontwerp van het windpark | 0-5 |
-| **3** | Risico's met betrekking tot de exploitatie van het windpark | Werkzaamheden op zee | Toegankelijkheid van installaties | 0-5 |
-| **3** | Risico's met betrekking tot de exploitatie van het windpark | Werkzaamheden op zee | Beschikbaarheid van geschikte apparatuur | 0-5 |
-| **3** | Risico's met betrekking tot de exploitatie van het windpark | Energieopbrengst | Risico van langjarig gemiddelde windsnelheid | 0-5 |
-| **3** | Risico's met betrekking tot de exploitatie van het windpark | Energieopbrengst | Jaarlijkse variaties en invloed daarvan op de liquiditeit | 0-5 |
-| **3** | Risico's met betrekking tot de exploitatie van het windpark | Functioneren van de technologie | Beschikbaarheid van de windturbine en parkbekabeling | 0-5 |
-| **3** | Risico's met betrekking tot de exploitatie van het windpark | Functioneren van de technologie | Preventieve onderhoudskosten | 0-5 |
-| **3** | Risico's met betrekking tot de exploitatie van het windpark | Functioneren van de technologie | Technische faalfactoren | 0-5 |
-| **3** | Risico's met betrekking tot de exploitatie van het windpark | Functioneren van de technologie | Grootschalige correctieve interventies | 0-5 |
-
-| Criterium: de kwaliteit van de maatregelen ter borging van kostenefficiëntie ([artikel 24, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 40 | Criterium: de kwaliteit van de maatregelen ter borging van kostenefficiëntie ([artikel 24, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 40 | Criterium: de kwaliteit van de maatregelen ter borging van kostenefficiëntie ([artikel 24, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 40 | Criterium: de kwaliteit van de maatregelen ter borging van kostenefficiëntie ([artikel 24, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 40 | Criterium: de kwaliteit van de maatregelen ter borging van kostenefficiëntie ([artikel 24, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24)) Maximum aantal punten: 40 |
-| --- | --- | --- | --- | --- |
-|   |   | Kwalitatieve maatstaven | Beoordelingsmaatstaf | Ptn. |
-| **1** | Het mitigeren van risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit. | De verkoopstrategie van de opgewekte elektriciteit en garanties van oorsprong | Interne of externe verkoop | 0-20 |
-| **1** | Het mitigeren van risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit. | De verkoopstrategie van de opgewekte elektriciteit en garanties van oorsprong | Termijn van prijsvastlegging | 0-20 |
-| **1** | Het mitigeren van risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit. | De verkoopstrategie van de opgewekte elektriciteit en garanties van oorsprong | Allocatie van onbalansrisico | 0-20 |
-| **1** | Het mitigeren van risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit. | De contractvormen | Vorm van afname- en betalingsverplichtingen | 0-20 |
-| **1** | Het mitigeren van risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit. | De contractvormen | Relatie met marktreferentieprijzen | 0-20 |
-| **1** | Het mitigeren van risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit. | De financiële sterkte van de afnemende partij | Interne garantieregelingen | 0-20 |
-| **1** | Het mitigeren van risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit. | De financiële sterkte van de afnemende partij | Financiële kwaliteit van afnemende partij | 0-20 |
-| **1** | Het mitigeren van risico's met betrekking tot de ontwikkeling van de financiële opbrengst van de te produceren elektriciteit. | De financiële sterkte van de afnemende partij | Aanvullende financiële garanties | 0-20 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De ontwerp- en inkoopstrategie | Locatie specifieke ontwerpoplossingen | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De ontwerp- en inkoopstrategie | Transport strategie en installatie strategie | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De ontwerp- en inkoopstrategie | Contractstrategie, onderverdeling in verschillende werkpakketten | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De ontwerp- en inkoopstrategie | Risico’s op de overgangspunten tussen de diverse projectonderdelen | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De ontwerp- en inkoopstrategie | Ervaring op het gebied van engineering management | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De ontwerp- en inkoopstrategie | Bescherming tegen stijgende grondstofprijzen en stijgende rente | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De zekerheid van toelevering van producten in de keten | Het kunnen beschikken over geschikte productiecapaciteit voor het beoogde ontwerp | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De zekerheid van toelevering van producten in de keten | Het kunnen beschikken over productiecapaciteit in een bepaalde periode voor het project | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | De zekerheid van toelevering van producten in de keten | Ervaring op het gebied van het managen van de toeleveringsketen | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | Zekerheid van beschikbaarheid van belangrijkste benodigdheden en onderdelen met een lange leverings- of productietijd | Mogelijkheid tot inzet van eigen installatiecapaciteit | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | Zekerheid van beschikbaarheid van belangrijkste benodigdheden en onderdelen met een lange leverings- of productietijd | Bestaande raamwerkovereenkomsten | 0-10 |
-| **2** | Het mitigeren van risico's met betrekking tot kosten voor de bouw van het windpark | Zekerheid van beschikbaarheid van belangrijkste benodigdheden en onderdelen met een lange leverings- of productietijd | Project specifieke contracten | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | De operationele- en onderhoudsstrategie | Eigen capaciteit en gecontracteerde capaciteit | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | De operationele- en onderhoudsstrategie | Logistiek concept | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | De operationele- en onderhoudsstrategie | Personele invulling voor beschikbaarheid gekwalificeerd personeel | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | De optimalisatie van bereikbaarheid en beschikbaarheid van het windpark | Ontwerpkeuzes die de beschikbaarheid van het windpark optimaliseren | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | De optimalisatie van bereikbaarheid en beschikbaarheid van het windpark | Ontwerpmaatregelen die de toegankelijkheid van het windpark verhogen | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | De optimalisatie van bereikbaarheid en beschikbaarheid van het windpark | Apparatuur en schepen die de toegankelijkheid van het windpark verhogen | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | Het financieel management | Analyse van operationele marges en financiële buffers om variaties in wind en niet-beschikbaarheid van het windpark op te vangen | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | Het financieel management | Beschikbaarheidsgaranties van leveranciers | 0-10 |
-| **3** | Het mitigeren van risico's met betrekking tot kosten van de exploitatie van het windpark | Het financieel management | Wijze waarop verzekeringen zijn ingezet om operationele risico’s te mitigeren | 0-10 |
-
-2. Indicatieve waardes op een continuschaal van 0 tot 100 in procenten voor de criteria, bedoeld in [artikel 24, tweede lid, onderdelen e en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24):
-
-| indicatieve tussenwaardes op een continuschaal | indicatieve tussenwaardes op een continuschaal |
-| --- | --- |
-| Uitstekend, met toegevoegde waarde | 100% |
-| Zeer goed, met enige toegevoegde waarde | 80% |
-| Goed | 60% |
-| Ruim voldoende | 40% |
-| Voldoende | 20% |
-| Matig | 0% |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

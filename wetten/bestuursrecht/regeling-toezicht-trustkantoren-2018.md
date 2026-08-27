@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 27 november 2018, kenmerk 2018-0000202559, directie Financiële Markten, houdende de vaststelling van vrijstellingen en de te verstrekken gegevens voor vergunningaanvragen en voor het melden van incidenten (Regeling toezicht trustkantoren 2018)"
+citeertitel: "Regeling toezicht trustkantoren 2018"
 identifier: "BWBR0041629"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-25"
-last_updated: "2025-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041629"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "14892333"
-version_id: "31092672"
-internal_id: "C44512511"
-label_id: "14843724"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041629/2025-11-25/0"
-intitule_bron: "Stcrt.2018-68147"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-27"
-intitule_published: "2018-12-04"
-intitule_in_force: "2018-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-39743"
-original_signed_date: "2025-11-20"
-original_published_date: "2025-11-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-39743"
-entry_into_force_date: "2025-11-20"
-jci_1_3: "jci1.3:c:BWBR0041629&z=2025-11-25&g=2025-11-25"
-jci_1_0: "1.0:c:BWBR0041629&g=2025-11-25"
-citeertitel_status: "officieel"
-short_title: "Regeling toezicht trustkantoren 2018"
-signed_date: "2025-11-20"
-entry_into_force: "2025-11-20"
+publicatiedatum: 2025-11-20
+laatste_update: 2025-11-25
+status: geldig
+toestand: 2025-11-25
+bron: "https://wetten.overheid.nl/BWBR0041629"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Financiën van 27 november 2018, kenmerk 2018-0000202559, directie Financiële Markten, houdende de vaststelling van vrijstellingen en de te verstrekken gegevens voor vergunningaanvragen en voor het melden van incidenten (Regeling toezicht trustkantoren 2018)
-
-Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=5), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=6), en [20, vijfde lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=20);
-
-Besluit:
 
 ### Hoofdstuk 1. Definities
 
@@ -46,13 +20,14 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **in opdracht bestuurder zijn:** de trustdienst, bedoeld in [artikel 1, eerste lid, onder **‘trustdienst’**, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1);
+- *in opdracht bestuurder zijn:* de trustdienst, bedoeld in [artikel 1, eerste lid, onder *‘trustdienst’*, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1);
 
-- **verbod:** verbod als bedoeld in [artikel 3, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=3);
+- *verbod:* verbod als bedoeld in [artikel 3, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=3);
 
-- **vergunning:** vergunning als bedoeld in [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=3), en [artikel 4, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=4);
+- *vergunning:* vergunning als bedoeld in [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=3), en [artikel 4, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=4);
 
-- **wet:** [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583).
+- *wet:*
+ [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583).
 
 ### Hoofdstuk 2. Vrijstelling vergunning
 
@@ -64,13 +39,13 @@ Vrijstelling van het verbod wordt verleend aan natuurlijke personen, voor zover 
 
 Vrijstelling van het verbod wordt verleend aan natuurlijke personen, voor zover deze in opdracht bestuurder zijn:
 
-- a. van doelvennootschappen waaraan tevens een dienst als bedoeld in [artikel 1, eerste lid, onder **‘trustdienst’,** onderdeel b, aanhef en onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1) wordt verleend door een trustkantoor met een vergunning; en
+- a. van doelvennootschappen waaraan tevens een dienst als bedoeld in [artikel 1, eerste lid, onder *‘trustdienst’,* onderdeel b, aanhef en onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1) wordt verleend door een trustkantoor met een vergunning; en
 
 - b. indien laatstgenoemde dienst ten minste het voeren van de administratie van deze doelvennootschappen betreft.
 
 ##### Artikel 4. Vrijstelling bemiddeling bij verkoop
 
-1. Vrijstelling van het verbod wordt verleend aan personen die bemiddelen bij de verkoop van rechtspersonen als bedoeld in [artikel 1, eerste lid, onder **‘trustdienst’,** onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1) voor zover:
+1. Vrijstelling van het verbod wordt verleend aan personen die bemiddelen bij de verkoop van rechtspersonen als bedoeld in [artikel 1, eerste lid, onder *‘trustdienst’,* onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1) voor zover:
 
 - a. de bemiddeling is gericht op de verkoop van een rechtspersoon door een trustkantoor dat beschikt over een vergunning; of
 
@@ -88,21 +63,21 @@ Vrijstelling van het verbod wordt verleend aan natuurlijke personen, voor zover 
 
 ##### Artikel 5. Vrijstelling voor doorstroomvennootschap verleend door bepaalde dienstverleners
 
-1. Vrijstelling van het verbod wordt verleend aan de hierna te noemen personen onder de hierna te noemen voorwaarden, voor zover deze de dienst verlenen genoemd in [artikel 1, eerste lid, onder **‘trustdienst’,** onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1):
+1. Vrijstelling van het verbod wordt verleend aan de hierna te noemen personen onder de hierna te noemen voorwaarden, voor zover deze de dienst verlenen genoemd in [artikel 1, eerste lid, onder *‘trustdienst’,* onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1):
 
 - a. advocaten en personen die beroeps- of bedrijfsmatig werkzaamheden verrichten gericht op het incasseren van vorderingen, voor zover zij de bedoelde dienst verlenen door middel van een stichting die:
 
-- 1°. als enige activiteit heeft het tijdelijke beheer van gelden ten behoeve van de rechthebbenden of degenen die zullen blijken de rechthebbenden te zijn; en
+   - 1°. als enige activiteit heeft het tijdelijke beheer van gelden ten behoeve van de rechthebbenden of degenen die zullen blijken de rechthebbenden te zijn; en
 
-- 2°. uitsluitend werkzaam is voor personen die niet zelf gerechtigd zijn tot de gelden, hetgeen uit een schriftelijke overeenkomst tussen de stichting en de betrokken personen blijkt; of
+   - 2°. uitsluitend werkzaam is voor personen die niet zelf gerechtigd zijn tot de gelden, hetgeen uit een schriftelijke overeenkomst tussen de stichting en de betrokken personen blijkt; of
 
 - b. betaaldienstverleners die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in of vanuit Nederland het bedrijf van betaaldienstverlener mogen uitoefenen voor zover de bedoelde dienst betrekking heeft op gelden die zijn of worden ontvangen van betaaldienstgebruikers in verband met het verlenen van betaaldiensten;
 
 - c. bewindvoerders die:
 
-- 1°. benoemd zijn op grond van [artikel 287, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=227); en
+   - 1°. benoemd zijn op grond van [artikel 287, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=227); en
 
-- 2°. personen zijn als bedoeld in [artikel 3, eerste lid, van het Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=3), voor zover zij gelden aantrekken, ter beschikking verkrijgen of ter beschikking hebben ten behoeve van de uitvoering van de taken, bedoeld in [Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III).
+   - 2°. personen zijn als bedoeld in [artikel 3, eerste lid, van het Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=3), voor zover zij gelden aantrekken, ter beschikking verkrijgen of ter beschikking hebben ten behoeve van de uitvoering van de taken, bedoeld in [Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III).
 
 2. Voor de toepassing van dit artikel wordt onder de begrippen ‘betaaldienstverlener’, ‘betaaldienstgebruiker’, ‘betaaldienst’ en ‘bewindvoerder’ verstaan: hetgeen daaronder in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) wordt verstaan.
 
@@ -114,7 +89,11 @@ Vrijstelling van het verbod wordt verleend aan rechtspersonen, vennootschappen o
 
 1. Vrijstelling van het verbod wordt verleend aan rechtspersonen, voor zover deze de trustdienst ‘in opdracht bestuurder zijn’ verlenen aan een pensioenfonds als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-2. Vrijstelling van het verbod wordt verleend aan de derde waaraan een pensioenfonds als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), werkzaamheden heeft uitbesteed als bedoeld in [artikel 34 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=34) of [artikel 43 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=43), voor zover deze derde de uitbestede werkzaamheden voor het pensioenfonds verricht.
+2. Vrijstelling van het verbod wordt verleend aan de derde waaraan een pensioenfonds als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), werkzaamheden heeft uitbesteed als bedoeld in [artikel 34 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=34) of [artikel 43 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=43), voor zover deze derde de uitbestede werkzaamheden voor het pensioenfonds verricht.
+
+##### Artikel 7a. Vrijstelling besturen beleggingsinstellingen en icbe’s
+
+Vrijstelling van het verbod wordt verleend aan personen voor zover deze de trustdienst ‘in opdracht bestuurder zijn’ verlenen aan een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die is ingeschreven in het register, bedoeld in [artikel 1:107 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107).
 
 ### Hoofdstuk 3. Gegevens vergunningaanvraag
 
@@ -168,34 +147,18 @@ Een trustkantoor vermeldt bij een melding van een incident als bedoeld in [artik
 
 - l. overige gegevens en bescheiden die de toezichthouder nodig acht.
 
+### Hoofdstuk 4a. Betrouwbaarheid
+
+##### Artikel 9a
+
+De Nederlandsche Bank kan bij het verkrijgen van inzicht als bedoeld in [artikel 6 van het Besluit toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&artikel=6) gebruik maken van desgevraagd verstrekte justitiële gegevens met betrekking tot de antecedenten genoemd in de [bijlage behorend bij artikel 5 van het Besluit toezicht trustkantoren](https://wetten.overheid.nl/BWBR0041680).
+
 ### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 10. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2019.
+Deze regeling treedt in werking met ingang van 1 januari 2019.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toezicht trustkantoren 2018.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a. Vrijstelling besturen beleggingsinstellingen en icbe’s
-
-Vrijstelling van het verbod wordt verleend aan personen voor zover deze de trustdienst ‘in opdracht bestuurder zijn’ verlenen aan een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die is ingeschreven in het register, bedoeld in [artikel 1:107 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107).
-
-### Hoofdstuk 3. Gegevens vergunningaanvraag
-
-### Hoofdstuk 4. Gegevens melding incidenten
-
-### Hoofdstuk 4a. Betrouwbaarheid
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-De Nederlandsche Bank kan bij het verkrijgen van inzicht als bedoeld in [artikel 6 van het Besluit toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&artikel=6) gebruik maken van desgevraagd verstrekte justitiële gegevens met betrekking tot de antecedenten genoemd in de [bijlage behorend bij artikel 5 van het Besluit toezicht trustkantoren](onbekend).
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

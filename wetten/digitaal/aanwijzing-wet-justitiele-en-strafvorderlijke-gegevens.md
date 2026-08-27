@@ -1,36 +1,17 @@
 ---
 title: "Aanwijzing verstrekking van strafvorderlijke gegevens voor buiten de strafrechtspleging gelegen doeleinden (Aanwijzing wet justitiële en strafvorderlijke gegevens)"
+citeertitel: "Aanwijzing Wet justitiële en strafvorderlijke gegevens"
 identifier: "BWBR0041090"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041090"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "14660053"
-version_id: "25099592"
-internal_id: "C35894541"
-label_id: "14613234"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041090/2018-07-01/0"
-intitule_bron: "Stcrt.2018-36059"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-06-29"
-intitule_in_force: "2018-06-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-36059"
-original_published_date: "2018-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-36059"
-entry_into_force_date: "2018-07-01"
-jci_1_3: "jci1.3:c:BWBR0041090&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0041090&g=2018-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzing Wet justitiële en strafvorderlijke gegevens"
-entry_into_force: "2018-07-01"
+publicatiedatum: 2018-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0041090"
+opgehaald: 2026-08-27
 ---
+
 # Aanwijzing verstrekking van strafvorderlijke gegevens voor buiten de strafrechtspleging gelegen doeleinden (Aanwijzing wet justitiële en strafvorderlijke gegevens)
 
 ### I. Samenvatting
@@ -41,11 +22,15 @@ Deze aanwijzing geeft aan in welke gevallen, onder welke voorwaarden en aan wie 
 
 Het College van procureurs-generaal is de ‘verantwoordelijke’ voor de verwerking van strafvorderlijke gegevens ([art. 39a lid 1 Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39a)). Dat betekent dat het College verantwoordelijk en beslissingsbevoegd is voor alle verstrekkingen.
 
+Mandaat hoofden OM-onderdelen
+
 Het College mandateert de bevoegdheden zoals gegeven in [titel 2A van de Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A) tot het verwerken van strafvorderlijke en justitiële gegevens aan de hoofden van de parketten, het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het Parket-Generaal, de directeur van de Dienstverleningsorganisatie Openbaar Ministerie en de directeur van de Centrale Verwerking Openbaar Ministerie. Mandaat voor de beslissing op bezwaarschriften wordt enkel verleend aan het hoofd Bestuurlijke en Juridische Zaken van het Parket-Generaal. Mandaat tot het behandelen van beroepschriften wordt verleend aan de medewerkers van de afdeling Bestuurlijke en Juridische Zaken. Bij de beslissingen die worden genomen op grond van dit mandaat dient de onderhavige Aanwijzing in acht te worden genomen. Met verleend mandaat wordt gelijk gesteld de verlening van volmacht en machtiging. In de ondertekening van besluiten die op grond van bovenstaand mandaat zijn genomen dient steeds tot uitdrukking te worden gebracht dat het betreffende besluit namens het College is genomen.
+
+Ondermandaat
 
 De bovengenoemde hoofden en directeuren kunnen ondermandaat verlenen aan onder hen ressorterende medewerkers die belast zijn met het verwerken van strafvorderlijke gegevens.
 
-### III. Verstrekking van informatie op grond van [artikel 39f Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39f)
+### III. Verstrekking van informatie op grond van artikel 39f Wjsg
 
 [Artikel 39f van de Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39f) biedt de mogelijkheid om strafvorderlijke gegevens te verstrekken voor buiten de strafrechtspleging gelegen doelen. De doelen betreffen onder andere het voorkomen en opsporen van strafbare feiten, het handhaven van de openbare orde en veiligheid en het beoordelen van de noodzaak tot het nemen van rechtspositionele of tuchtrechtelijke maatregelen.
 
@@ -55,13 +40,21 @@ In dit hoofdstuk zal worden aangegeven welke beginselen ten grondslag liggen aan
 
 ### 1. Uitgangspunten
 
+Geen plicht, maar een bevoegdheid
+
 De [Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) kent geen verplichting om aan derden strafvorderlijke gegevens te verstrekken, maar schept een bevoegdheid. De grenzen van die bevoegdheid zijn uitgewerkt in de Wet en deze aanwijzing. Dit betekent dat een verzoeker geen recht op informatie kan ontlenen aan [artikel 39f Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39f). Er zal altijd een afweging dienen plaats te vinden.
 
+Geen service
+
 Het verstrekken van strafvorderlijke gegevens voor buiten de strafrechtspleging gelegen doeleinden is alleen mogelijk als het past binnen de taakuitoefening van het Openbaar Ministerie en voor zover dit noodzakelijk is wegens een zwaarwegend algemeen belang. Dat betekent dat strafvorderlijke gegevens niet mogen worden verstrekt op grond van het enkele belang dat de derde daarbij heeft.
+
+Passieve en actieve verstrekking
 
 Het Openbaar Ministerie kan zowel actief (op eigen initiatief) als passief (op verzoek) informatie verstrekken voor buiten de strafrechtspleging gelegen doeleinden.
 
 Bij alle vormen van verstrekking van strafvorderlijke gegevens moet rekening gehouden worden met het feit dat het Openbaar Ministerie niet alleen een grondslag moet hebben om te verstrekken, maar dat er tevens een grondslag voor de ontvanger moet zijn om te ontvangen. De beantwoording van de vraag of er een grond is om te ontvangen, is aan het Openbaar Ministerie ([art. 39f lid 2 aanhef en sub a Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39f)).
+
+Belangenafweging: subsidiariteit, proportionaliteit, noodzakelijkheid
 
 Alvorens tot verstrekking wordt overgegaan wordt steeds een afweging gemaakt van het belang dat de ontvanger heeft bij het verkrijgen van de informatie ten opzichte van de belangen van opsporing en vervolging en het belang van de bescherming van de persoonlijke levenssfeer van de betrokkene(n). Indien de uitkomst van een strafrechtelijk onderzoek nog onzeker is, dient meer terughoudendheid te worden betracht bij een verstrekking aan derden. Aan de andere kant betekent dit dat bij een bewijsbare zaak eerder de inbreuk op de persoonlijke levenssfeer van de betrokkenen gerechtvaardigd is. Bij deze belangenafweging dienen de beginselen van noodzakelijkheid, subsidiariteit en proportionaliteit te worden betrokken.
 
@@ -79,6 +72,16 @@ Wanneer een zaak is geëindigd met een sepot of een vrijspraak of wanneer nog ge
 
 Een dergelijk zwaarwegend belang is in ieder geval aanwezig in de volgende situaties.
 
+- – Door middel van het verstrekken van informatie kan ernstig en acuut gevaar worden afgewend;
+
+- – Het gedrag (nalaten daaronder begrepen) dat voorwerp is geweest van strafrechtelijk onderzoek past niet binnen een integere uitoefening van een overheidsfunctie;
+
+- – Het gedrag (nalaten daaronder begrepen) dat voorwerp is geweest van strafrechtelijk onderzoek is relevant voor de vraag of een rechtspositionele dan wel tuchtrechtelijke maatregel moet worden genomen tegen iemand die als zelfstandige, werknemer, vrijwilliger of stagiaire een gevoelige functie bekleedt, indien dat vastgestelde handelen twijfels doet rijzen over zijn behoorlijk (beroepsmatig) functioneren;
+
+- – Het verstrekken van informatie maakt het treffen van noodzakelijke organisatorische of bestuurlijke maatregelen mogelijk;
+
+- – Het gedrag dat naar voren komt uit het strafrechtelijk onderzoek levert civielrechtelijk aansprakelijkheid op tussen het slachtoffer/de betrokkene en de (gewezen) verdachte.
+
 In het geval dat in een zaak nog geen definitieve vervolgingsbeslissing genomen is, dient tevens sprake te zijn van een spoedeisend belang.
 
 ### 3. De ontvangers
@@ -87,33 +90,123 @@ Op basis van [art. 39f lid 1 Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR00141
 
 ### a). het voorkomen en opsporen van strafbare feiten
 
-**Ten behoeve van het voorkomen en opsporen van strafbare feiten kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:**
+*Ten behoeve van het voorkomen en opsporen van strafbare feiten kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*
+
+- I KNVB en buitenlandse voetbalorganisaties;
+
+- II Hulpverleningsinstanties op het terrein van de criminaliteitspreventie;
+
+- III Ambtenaren als bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+
+- IV Burgemeesters, Commissarissen van de Koning en de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Veiligheid en Justitie;
+
+- V Nederlandse rechterlijke ambtenaren ten behoeve van buiten het strafrecht gelegen wettelijke taken, zoals het beslissen over gedwongen opname in een psychiatrisch ziekenhuis;
+
+- VI Overheidsinstellingen (anders dan genoemd onder IV) en de particuliere werkgever, vrijwilligersorganisatie en opleidingsinstantie als het gaat om bepaalde 'gevoelige' bedrijven/instellingen (zoals op het gebied van vervoer en transport, telecommunicatie en internet, beveiliging, financiën, onderzoek, onderwijs, kinderactiviteiten, energie, voedselvoorziening, kunst en oudheden);
+
+- VII Dienst voor het Wegverkeer;
+
+- VIII (Openbaar-)vervoersbedrijven;
+
+- IX Beroepsorganisaties (ten behoeve van het handhaven van een veroordeling tot ontzetting uit het bekleden van ambten of bepaalde ambten of het uitoefenen van bepaalde beroepen en van een veroordeling tot een voorwaardelijke straf met als bijzondere voorwaarde dat de veroordeelde geen beroep uitoefent waarin hij werkt met een bepaalde doelgroep of dat de veroordeelde zich onthoudt van het verrichten van bepaalde (beroeps)werkzaamheden).
 
 ### b). het handhaven van de orde en veiligheid
 
-**Ten behoeve van het handhaven van de orde en veiligheid kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:**
+*Ten behoeve van het handhaven van de orde en veiligheid kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*
+
+- I KNVB en buitenlandse voetbalorganisaties;
+
+- II Burgemeesters, Commissarissen van de Koning, en de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Veiligheid en Justitie;
+
+- III Nederlandse rechterlijke ambtenaren ten behoeve van buiten het strafrecht gelegen wettelijke taken, zoals het beslissen over gedwongen opname in een psychiatrisch ziekenhuis;
+
+- IV Overheidsinstellingen (anders dan genoemd onder II) en de particuliere werkgever, vrijwilligersorganisaties en opleidingsinstanties als het gaat om bepaalde 'gevoelige' bedrijven/ instellingen (bijvoorbeeld op het gebied van vervoer en transport, telecommunicatie en internet, beveiliging, financiën, onderzoek, onderwijs, kinderactiviteiten, energie, voedselvoorziening, kunst en oudheden);
+
+- V Ambtenaren als bedoeld in [art. 2 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) en ambtenaren van de Koninklijke Marechaussee;
+
+- VI Verhuurders van roerende of onroerende zaken geschikt voor bewoning of de uitoefening van een beroep of bedrijf;
+
+- VII Nutsbedrijven;
+
+- VIII (Openbaar-)vervoersbedrijven.
 
 ### c). het uitoefenen van toezicht op het naleven van regelgeving
 
-**Ten behoeve van het uitoefenen van toezicht op het naleven van regelgeving kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:**
+*Ten behoeve van het uitoefenen van toezicht op het naleven van regelgeving kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*
+
+- I Bestuursorganen (waaronder de Belastingdienst, bedrijfsverenigingen, uitkeringsinstanties, subsidieverstrekkers, inspecties, bijzondere opsporingsdiensten, De Nederlandsche Bank, Stichting Autoriteit Financiële Markten, de Pensioen- en Verzekeringskamer);
+
+- II OLAF (Office Européen De Lutte Anti-Fraude / Europees Bureau voor fraudebestrijding);
+
+- III Curatoren (ten behoeve van een correcte afwikkeling van een faillissement in geval van faillissementsfraude);
+
+- IV Bewindvoerders voor zover het strafbare feiten betreft waarvan de inhoud raakt aan de wettelijke verplichtingen van de onder bewind gestelde c.q. van de bewindvoerder;
+
+- V Toezichthouders als bedoeld in [artikel 5:11 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) (Awb).
 
 ### d). het nemen van een bestuursrechtelijke beslissing
 
-**Ten behoeve van het nemen van een bestuursrechtelijke beslissing kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:**
+*Ten behoeve van het nemen van een bestuursrechtelijke beslissing kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*
+
+- I Alle (lokale) overheidsinstanties (voor zover geen bijzondere wettelijke bepaling van kracht is)
 
 ### e). het beoordelen van de noodzaak tot het treffen van een rechtspositionele of tuchtrechtelijke maatregel
 
-**Ten behoeve van de beoordeling van de vraag of een rechtspositionele dan wel tuchtrechtelijke maatregel moet worden getroffen tegen een werknemer, vrijwilliger, stagiair of een lid van een beroepsgroep, die/dat wordt verdacht van of is veroordeeld wegens een strafbaar feit waarvan duidelijk is dat twijfels kunnen doen rijzen over zijn behoorlijk (beroepsmatig) functioneren, dan wel ten aanzien van wie is gebleken van handelen dat gevaarzetting voor anderen oplevert of de integriteit van de overheid of die beroepsgroep aantast, kunnen over betrokkene strafvorderlijke gegevens worden verstrekt aan ten minste de volgende instanties:**
+*Ten behoeve van de beoordeling van de vraag of een rechtspositionele dan wel tuchtrechtelijke maatregel moet worden getroffen tegen een werknemer, vrijwilliger, stagiair of een lid van een beroepsgroep, die/dat wordt verdacht van of is veroordeeld wegens een strafbaar feit waarvan duidelijk is dat twijfels kunnen doen rijzen over zijn behoorlijk (beroepsmatig) functioneren, dan wel ten aanzien van wie is gebleken van handelen dat gevaarzetting voor anderen oplevert of de integriteit van de overheid of die beroepsgroep aantast, kunnen over betrokkene strafvorderlijke gegevens worden verstrekt aan ten minste de volgende instanties:*
+
+- I De (semi-)overheid als werkgever;
+
+- II Werkgevers van ambtenaren als bedoeld in [artikel 142 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+
+- III EU-instellingen en internationale organisaties (zoals de NAVO);
+
+- IV De particuliere werkgever, vrijwilligersorganisaties en opleidingsinstanties als het gaat om bepaalde 'gevoelige' bedrijven/instellingen (bijvoorbeeld op het gebied van vervoer en transport, telecommunicatie en internet, beveiliging, financiën, onderzoek, onderwijs, kinderactiviteiten, energie, voedselvoorziening, kunst en oudheden);
+
+- V Instanties belast met toezicht op vrije beroepen, zoals de (plaatselijke) Deken van de Orde van Advocaten, de Koninklijke Notariële Beroepsorganisatie, de Nederlandse Beroepsorganisatie van Accountants en de Inspectie voor de gezondheidszorg.
 
 ### f). het verlenen van hulp aan slachtoffers en anderen die bij een strafbaar feit betrokken zijn
 
-**f.1) Voor zover noodzakelijk voor het verlenen van hulp aan slachtoffers en anderen die bij een strafbaar feit betrokken zijn, kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:**
+*f.1) Voor zover noodzakelijk voor het verlenen van hulp aan slachtoffers en anderen die bij een strafbaar feit betrokken zijn, kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*
 
-**f.2) Ten behoeve van de vergoeding aan het slachtoffer van de schade, die is ontstaan als gevolg van een strafbaar feit, kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:**
+- I Slachtoffers en anderen die bij een strafbaar feit betrokken zijn;
+
+- II Slachtofferhulp Nederland;
+
+- III Ambtenaren als bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+
+- IV Bureau maatschappelijk werk;
+
+- V Raad voor de Kinderbescherming;
+
+- VI Vertrouwensartsen;
+
+- VII Gezondheidsdiensten en -instellingen;
+
+- VIII Buro’s voor Jeugdzorg;
+
+- IX Slachtoffer in Beeld.
+
+*f.2) Ten behoeve van de vergoeding aan het slachtoffer van de schade, die is ontstaan als gevolg van een strafbaar feit, kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*
+
+- I Degenen die rechtstreeks schade hebben geleden als gevolg van een strafbaar feit, voor zover geen sprake is van een geval waarop [artikel 51b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51b) betrekking heeft;
+
+- II Verzekeraars van direct betrokkenen;
+
+- III Uitkeringsinstanties;
+
+- IV Stichting Processen-Verbaal;
+
+- V Buma/Stemra en Brein in geval van overtredingen van intellectuele eigendomsrechten;
+
+- VI Arbodiensten;
+
+- VII Ambtenaren als bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) en ambtenaren van de Koninklijke Marechaussee.
 
 ### g). Het verrichten van een privaatrechtelijke rechtshandeling door een persoon of instantie die met een publieke taak is belast
 
 Voor het nemen van een beslissing die in het kader van [artikel 5a van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=5a) door de overheid (rechtspersoon) wordt genomen kunnen de daarvoor benodigde gegevens worden verstrekt aan.
+
+- I Alle (lokale) overheidsinstanties.
 
 ### 4. Verstrekking aan overige ontvangers
 
@@ -125,15 +218,31 @@ Zoals hierboven is vermeld, kan het Openbaar Ministerie aan de bovengenoemde per
 
 Dit recht is niet absoluut. De mededeling of en zo ja, welke strafvorderlijke gegevens zijn vastgelegd kan op grond van [artikel 39l Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39l) achterwege blijven als dat noodzakelijk is in het belang van:
 
+- a) de voorkoming van de belemmering van gerechtelijke procedures;
+
+- b) het voorkomen, opsporen en vervolgen van strafbare feiten;
+
+- c) de bescherming van de betrokkene of van de rechten en vrijheden van derden;
+
+- d) de veiligheid van de staat.
+
 Aan het recht op kennisneming kan op verschillende manieren worden voldaan, bijvoorbeeld door een mededeling of inzage in de betreffende gegevens. [Artikel 39i Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39i) verplicht in ieder geval niet tot afgifte van stukken.
 
 Het verzoek kan worden gericht aan het OM-onderdeel waar de informatie waarschijnlijk verwerkt is.
 
 ### V. Rechtsbescherming
 
+Verzoek op basis van
+
+artikel 39f Wjsg
+
 De beslissing om aan derden op basis van [artikel 39f Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39f) strafvorderlijke gegevens te verstrekken is geen besluit in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Dat heeft tot gevolg dat zowel voor de verzoeker als de betrokkene géén bezwaar en beroep openstaat op basis van de Awb.
 
 Indien betrokkene meent dat de verstrekking weliswaar rechtmatig is, maar dat om redenen van bijzondere persoonlijke aard tot een andere afweging moet worden gekomen, kan betrokkene op basis van [artikel 39q Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39q) verzet aantekenen. De beslissing op verzet, is een beslissing in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) waartegen bezwaar en beroep kan worden aangetekend. Indien de betrokkene van mening is dat er onrechtmatig informatie wordt verwerkt, kan deze de Staat aansprakelijk stellen op basis van [art. 6:162 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=162) (onrechtmatige daad). Geen van bovenstaande procedures schort de beslissing om te verstrekken op.
+
+Verzoek op basis van
+
+art. 39i Wjsg
 
 De beslissing op een verzoek op basis van [art. 39i Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39i) is een besluit in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) waartegen bezwaar en beroep open staan.
 

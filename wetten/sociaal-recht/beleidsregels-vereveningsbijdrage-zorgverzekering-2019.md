@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2019"
 identifier: "BWBR0041500"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-09-07"
-last_updated: "2021-09-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041500"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "14845913"
-version_id: "25381012"
-internal_id: "C36243921"
-label_id: "14798384"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041500/2021-09-07/0"
-intitule_bron: "Stcrt.2018-59355"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-10-31"
-intitule_in_force: "2018-10-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-59355"
-original_published_date: "2018-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-59355"
-entry_into_force_date: "2018-11-02"
-jci_1_3: "jci1.3:c:BWBR0041500&z=2021-09-07&g=2021-09-07"
-jci_1_0: "1.0:c:BWBR0041500&g=2021-09-07"
-citeertitel_status: "officieel"
-entry_into_force: "2018-11-02"
+publicatiedatum: 2018-11-02
+laatste_update: 2021-09-07
+status: geldig
+toestand: 2021-09-07
+bron: "https://wetten.overheid.nl/BWBR0041500"
+opgehaald: 2026-08-27
 ---
+
 # Beleidsregels vereveningsbijdrage zorgverzekering 2019
-
-Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), en [34, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041387) en de brief van de minister van VWS van 28 september 2018, kenmerk 146175-181319-Z,
-
-heeft in zijn vergadering van 8 oktober 2018 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -42,55 +19,68 @@ heeft in zijn vergadering van 8 oktober 2018 besloten:
 
 Deze beleidsregels verstaan onder:
 
-- a. **het Zorginstituut:** Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- a. *het Zorginstituut:* Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- b. **zwaarte:** het deel waarvoor de verzekerde meetelt in een betreffende klasse;
+- b. *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;
 
-- c. **macroverzekerdenraming:** de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland voor het jaar 2019;
+- c. *macroverzekerdenraming:* de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland voor het jaar 2019;
 
-- d. **FKG GGZ:** FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- d. *FKG GGZ:* FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- e. **DKG GGZ:** DKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel ee, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- e. *DKG GGZ:* DKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel ee, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- f. **PKB:** persoonskenmerkenbestand. Een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres. Dit bestand wordt jaarlijks opgesteld aan de hand van opgaven van de zorgverzekeraars. Voor het PKB 2018 is de peildatum 1 mei 2018 en de aanleverdatum 1 juni 2018;
+- f. *PKB:* persoonskenmerkenbestand. Een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres. Dit bestand wordt jaarlijks opgesteld aan de hand van opgaven van de zorgverzekeraars. Voor het PKB 2018 is de peildatum 1 mei 2018 en de aanleverdatum 1 juni 2018;
 
-- g. **VPPKB:** verzekerde periode en persoonskenmerkenbestand. Een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat. Dit bestand wordt jaarlijks opgesteld aan de hand van opgaven van de zorgverzekeraars. Voor het VPPKB 2019 is de aanleverdatum 1 juni 2020;
+- g. *VPPKB:* verzekerde periode en persoonskenmerkenbestand. Een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat. Dit bestand wordt jaarlijks opgesteld aan de hand van opgaven van de zorgverzekeraars. Voor het VPPKB 2019 is de aanleverdatum 1 juni 2020;
 
-- h. **verzekerde woonachtig in het buitenland:** een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
+- h. *verzekerde woonachtig in het buitenland:* een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
 
-- i. **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
+- i. *vereveningsbijdrage:* de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
 
-- j. **wet:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- j. *wet:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- k. **Regeling:** [Regeling risicoverevening 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041387);
+- k. *Regeling:*
+ [Regeling risicoverevening 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041387);
 
-- l. **trendtabel:** door het Zorginstituut per criterium opgestelde tabel met trendfactoren die voor het betreffende criterium de geraamde prevalentieontwikkeling weergeeft, zoals gepubliceerd op de website van het Zorginstituut. De trendfactor geeft de mutatie van verzekerden per risicoklasse weer;
+- l. *trendtabel:* door het Zorginstituut per criterium opgestelde tabel met trendfactoren die voor het betreffende criterium de geraamde prevalentieontwikkeling weergeeft, zoals gepubliceerd op de website van het Zorginstituut. De trendfactor geeft de mutatie van verzekerden per risicoklasse weer;
 
-- m. **jaarstaat:** de jaarstaat, bedoeld in de regeling, bedoeld in [artikel 90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90);
+- m. *jaarstaat:* de jaarstaat, bedoeld in de regeling, bedoeld in [artikel 90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90);
 
-- n. **UWV-bestand:** het bij het Zorginstituut meest recent beschikbare bestand per gepseudonimiseerd burgerservicenummer van het UWV naar inkomensbron voor een peiljaar;
+- n. *UWV-bestand:* het bij het Zorginstituut meest recent beschikbare bestand per gepseudonimiseerd burgerservicenummer van het UWV naar inkomensbron voor een peiljaar;
 
-- o. **zelfstandigenbestand:** bestand van de Belastingdienst met een uittreksel van het zelfstandigenregister voor een peiljaar, bestaande uit twee delen. Het eerste deel is het bestand aangeleverd in de maand juli van het peiljaar en heeft betrekking op de directeuren grootaandeelhouders. Het tweede deel betreft het bij het Zorginstituut meest recent beschikbare bestand dat wordt gebruikt voor de overige zelfstandigen;
+- o. *zelfstandigenbestand:* bestand van de Belastingdienst met een uittreksel van het zelfstandigenregister voor een peiljaar, bestaande uit twee delen. Het eerste deel is het bestand aangeleverd in de maand juli van het peiljaar en heeft betrekking op de directeuren grootaandeelhouders. Het tweede deel betreft het bij het Zorginstituut meest recent beschikbare bestand dat wordt gebruikt voor de overige zelfstandigen;
 
-- p. **belastingdienstbestand:** bestand van de Belastingdienst met een uittreksel van het zelfstandigenregister voor een peiljaar, bestaande uit twee delen. Het eerste deel is het bestand aangeleverd in de maand juli van het peiljaar en heeft betrekking op de directeuren grootaandeelhouders. Het tweede deel betreft het bij het Zorginstituut meest recent beschikbare bestand dat wordt gebruikt voor de overige zelfstandigen;
+- p. *belastingdienstbestand:* bestand van de Belastingdienst met een uittreksel van het zelfstandigenregister voor een peiljaar, bestaande uit twee delen. Het eerste deel is het bestand aangeleverd in de maand juli van het peiljaar en heeft betrekking op de directeuren grootaandeelhouders. Het tweede deel betreft het bij het Zorginstituut meest recent beschikbare bestand dat wordt gebruikt voor de overige zelfstandigen;
 
-- q. **catastrofebijdrage:** bijdrage als bedoeld in [artikel 33, tweede lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33);
+- q. *catastrofebijdrage:* bijdrage als bedoeld in [artikel 33, tweede lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33);
 
-- r. **coronapandemie:** pandemie ten gevolge van het SARS-CoV-2 virus die een catastrofe is als bedoeld in [artikel 33, eerste lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33);
+- r. *coronapandemie:* pandemie ten gevolge van het SARS-CoV-2 virus die een catastrofe is als bedoeld in [artikel 33, eerste lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33);
 
-- s. **coronakosten:** kosten voor de op grond van de zorgverzekeringen verzekerde zorg of andere diensten ten gevolge van de coronapandemie;
+- s. *coronakosten:* kosten voor de op grond van de zorgverzekeringen verzekerde zorg of andere diensten ten gevolge van de coronapandemie;
 
-- t. **COVID-19:** de ziekte die door het virus SARS-CoV-2 veroorzaakt wordt;
+- t. *COVID-19:* de ziekte die door het virus SARS-CoV-2 veroorzaakt wordt;
 
-- u. **prestatie continuïteitsbijdrage:** kosten die voldoen aan de voorwaarden, voorschriften en beperkingen voor de continuïteitsbijdragen als gesteld in de Prestatiebeschrijvingbeschikking continuïteitsbijdrage en meerkosten in verband met de uitbraak van het SARS-CoV-2 virus van de NZa (TB/REG-20656-01);
+- u. *prestatie continuïteitsbijdrage:* kosten die voldoen aan de voorwaarden, voorschriften en beperkingen voor de continuïteitsbijdragen als gesteld in de Prestatiebeschrijvingbeschikking continuïteitsbijdrage en meerkosten in verband met de uitbraak van het SARS-CoV-2 virus van de NZa (TB/REG-20656-01);
 
-- v. **continuïteitsbijdrage GGZ:** dat deel van de prestatie continuïteitsbijdrage dat betrekking heeft op de GGZ;
+- v. *continuïteitsbijdrage GGZ:* dat deel van de prestatie continuïteitsbijdrage dat betrekking heeft op de GGZ;
 
-- w. **Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg:** de [Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg van belang voor het vereveningsjaar 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042145).
+- w. *Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg:* de [Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg van belang voor het vereveningsjaar 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042145).
 
 ##### Artikel 2. Algemene bepaling
 
 Het Zorginstituut neemt de bepalingen uit het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387) in acht bij de toepassing van deze beleidsregels.
+
+##### Artikel 2a. Algemene bepaling in verband met COVID-19
+
+1. In aanvulling op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=I&artikel=2&z=2021-09-07&g=2021-09-07) neemt het Zorginstituut bij de ex post vaststellingen de [Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042145) en de [Beleidsregels catastrofebijdrage coronapandemie 2020 en 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044716) bij de toepassing van deze beleidsregels in acht.
+
+2. Het Zorginstituut telt de continuïteitsbijdrage GGZ uitsluitend mee bij de risicoverevening voor zover:
+
+- a. de continuïteitsbijdrage GGZ betrekking heeft op de basisverzekering, blijkend uit een deugdelijke onderbouwing in de schriftelijke afspraken over de prestatie continuïteitsbijdrage tussen zorgverzekeraar en zorgaanbieder daarover; en
+
+- b. de continuïteitsbijdrage GGZ betrekking heeft op in 2019 geopende dbc’s.
+
+3. Het Zorginstituut betrekt bij de ex post vaststellingen van de vereveningsbijdragen, naast de gebruikelijke correcties genoemd in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=V&artikel=56&z=2021-09-07&g=2021-09-07), de correcties van de Nederlandse Zorgautoriteit op de continuïteitsbijdragen.
 
 ##### Artikel 3. Zorgverzekeraars
 
@@ -102,7 +92,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 1. Het Zorginstituut baseert zich bij de raming van de verzekerdenaantallen 2019 op de macroverzekerdenraming.
 
-2. Het Zorginstituut baseert zich bij de raming van de verzekerdenaantallen 2019 per zorgverzekeraar op het PKB 2018 met als peildatum 1 mei 2018, zoals de zorgverzekeraars dat hebben aangeleverd op 1 juni 2018.
+2. Het Zorginstituut baseert zich bij de raming van de verzekerdenaantallen 2019 per zorgverzekeraar op het PKB 2018 met als peildatum 1 mei 2018, zoals de zorgverzekeraars dat hebben aangeleverd op 1 juni 2018.
 
 3. Het Zorginstituut deelt verzekerden zonder burgerservicenummer en verzekerden zonder geverifieerd burgerservicenummer niet in bij een criterium.
 
@@ -144,11 +134,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - a. de indeling in FKG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=1&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2018 van declaraties farmaceutische hulp 2017 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
+- b. de opgave per 1 juni 2018 van declaraties farmaceutische hulp 2017 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
 
-- c. de opgave per 1 juni 2018 van declaraties add-ons duur of weesgeneesmiddel 2016 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
+- c. de opgave per 1 juni 2018 van declaraties add-ons duur of weesgeneesmiddel 2016 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
 
-- d. de opgave per 1 juni 2017 van declaraties farmaceutische hulp 2016 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- d. de opgave per 1 juni 2017 van declaraties farmaceutische hulp 2016 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de opgaven, bedoeld in het eerste lid, onderdeel b, c en d, met behulp van het gepseudonimiseerde burgerservicenummer aan het PKB 2018 en bepaalt op basis hiervan en met inachtneming van [artikel 9, tweede en derde lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=9) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=1&z=2021-09-07&g=2021-09-07) van deze Beleidsregels, in welke FKG klassen de verzekerde valt. Aan de verzekerde koppelt het Zorginstituut een zwaarte van 1 voor de betreffende klassen.
 
@@ -168,9 +158,9 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - a. de indeling in primaire DKG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=2&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2018 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2016 geopend zijn;
+- b. de opgave van de zorgverzekeraars per 1 juni 2018 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2016 geopend zijn;
 
-- c. de opgave van de zorgverzekeraars per 1 juni 2017 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2015 geopend zijn.
+- c. de opgave van de zorgverzekeraars per 1 juni 2017 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2015 geopend zijn.
 
 2. Het Zorginstituut koppelt de opgaven, bedoeld in het eerste lid, onderdeel b en c, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2017 en bepaalt op basis hiervan en met inachtneming van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=2&z=2021-09-07&g=2021-09-07) van deze Beleidsregels, in welke primaire DKG klasse ‘1’ tot en met ‘15’ de verzekerde valt. Als een verzekerde in meer primaire DKG klassen valt, deelt het Zorginstituut de verzekerde in de hoogste voor hem toepasselijke klasse in. Het Zorginstituut stelt voor de toepasselijke klasse waarin de verzekerde valt de zwaarte op 1.
 
@@ -186,9 +176,9 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - a. de indeling in secundaire DKG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=2&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2018 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2016 geopend zijn;
+- b. de opgave van de zorgverzekeraars per 1 juni 2018 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2016 geopend zijn;
 
-- c. de opgave van de zorgverzekeraars per 1 juni 2017 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2015 geopend zijn.
+- c. de opgave van de zorgverzekeraars per 1 juni 2017 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2015 geopend zijn.
 
 2. Het Zorginstituut koppelt de opgaven, bedoeld in het eerste lid, onderdeel b en c, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2017 en bepaalt op basis hiervan en met inachtneming van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=2&z=2021-09-07&g=2021-09-07) van deze Beleidsregels, in welke secundaire DKG klasse ‘1’ tot en met ‘7’ de verzekerde valt. Bij de indeling naar secundaire DKG klassen sluit het Zorginstituut declaraties die tot een primaire DKG hebben geleid uit. Als een verzekerde in meer secundaire DKG klassen valt, deelt het Zorginstituut de verzekerde in de hoogste voor hem toepasselijke klasse in. Het Zorginstituut stelt voor de toepasselijke klasse waarin de verzekerde valt de zwaarte op 1.
 
@@ -204,7 +194,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - a. de indeling in HKG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=3&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2018 van declaraties hulpmiddelen 2017 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2018 van declaraties hulpmiddelen 2017 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de opgave, bedoeld in het eerste lid, onderdeel b, met behulp van het gepseudonimiseerde burgerservicenummer aan het PKB 2018 en bepaalt op basis hiervan en met inachtneming van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=3&z=2021-09-07&g=2021-09-07) van deze Beleidsregels, in welke HKG klasse de verzekerde valt. Als een verzekerde in meer HKG klassen valt, deelt het Zorginstituut de verzekerde in de hoogste voor hem toepasselijke klasse in. Het Zorginstituut stelt voor de toepasselijke klasse waarin de verzekerde valt de zwaarte op 1.
 
@@ -222,11 +212,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - b. de leeftijd op het VPPKB 2017;
 
-- c. de zelfstandigen op het zelfstandigenbestand op peildatum 30 juni 2017;
+- c. de zelfstandigen op het zelfstandigenbestand op peildatum 30 juni 2017;
 
-- d. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers op het UWV-bestand op peildatum 30 juni 2017;
+- d. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers op het UWV-bestand op peildatum 30 juni 2017;
 
-- e. de studenten en hoogopgeleiden op de opgave van DUO per gepseudonimiseerd burgerservicenummer op peildatum 1 juni 2017.
+- e. de studenten en hoogopgeleiden op de opgave van DUO per gepseudonimiseerd burgerservicenummer op peildatum 1 juni 2017.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met e, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2017 en bepaalt op basis hiervan met inachtneming van [artikel 9, vierde lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=9) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=4&z=2021-09-07&g=2021-09-07) van deze Beleidsregels, in welke AVI klasse een verzekerde wordt ingedeeld.
 
@@ -296,11 +286,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium MHK per zorgverzekeraar op:
 
-- a. declaraties met betrekking tot 2014 per gepseudonimiseerd burgerservicenummer voor de deelbedragen variabele kosten van medisch-specialistische zorg en de kosten van overige prestaties tot en met 31 december 2016, zoals zorgverzekeraars die op 1 mei 2017 bij het Zorginstituut hebben aangeleverd, alsmede kosten van geriatrische revalidatiezorg met betrekking tot 2014 op basis van AWBZ-gegevens gebruikt in de Overall Toets 2019 met WOR nummer 929 die door de minister van VWS wordt gepubliceerd;
+- a. declaraties met betrekking tot 2014 per gepseudonimiseerd burgerservicenummer voor de deelbedragen variabele kosten van medisch-specialistische zorg en de kosten van overige prestaties tot en met 31 december 2016, zoals zorgverzekeraars die op 1 mei 2017 bij het Zorginstituut hebben aangeleverd, alsmede kosten van geriatrische revalidatiezorg met betrekking tot 2014 op basis van AWBZ-gegevens gebruikt in de Overall Toets 2019 met WOR nummer 929 die door de minister van VWS wordt gepubliceerd;
 
-- b. declaraties met betrekking tot 2015 per gepseudonimiseerd burgerservicenummer voor het deelbedragvariabele zorgkosten tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
+- b. declaraties met betrekking tot 2015 per gepseudonimiseerd burgerservicenummer voor het deelbedragvariabele zorgkosten tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
 
-- c. declaraties met betrekking tot 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
+- c. declaraties met betrekking tot 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
 
 - d. het VPPKB 2014, het VPPKB 2015 en het VPPKB 2016.
 
@@ -310,7 +300,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 4. Na toepassing van het derde lid koppelt het Zorginstituut de verzekerden voor het criterium MHK aan het PKB 2018, waarbij de verzekerden een zodanige zwaarte krijgen dat de relatieve prevalentie per MHK klasse constant blijft.
 
-5. Het Zorginstituut herschaalt na toepassing van de vorige leden het geraamde aantal verzekerden voor het criterium MHK naar de macroverzekerdenraming en stemt de relatieve prevalentie per klasse af op de Overall Toets 2019 met WOR nummer 929, zoals die op 7 augustus 2018 aan de minister van VWS is gerapporteerd.
+5. Het Zorginstituut herschaalt na toepassing van de vorige leden het geraamde aantal verzekerden voor het criterium MHK naar de macroverzekerdenraming en stemt de relatieve prevalentie per klasse af op de Overall Toets 2019 met WOR nummer 929, zoals die op 7 augustus 2018 aan de minister van VWS is gerapporteerd.
 
 ##### Artikel 18. FDG
 
@@ -318,7 +308,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - a. de indeling in FDG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=7&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2018 van declaraties fysiotherapie en oefentherapie 2017 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2018 van declaraties fysiotherapie en oefentherapie 2017 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de declaraties, bedoeld in het eerste lid, onderdeel b, met behulp van het gepseudonimiseerde burgerservicenummer aan het PKB 2018 en bepaalt op basis hiervan en met inachtneming van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=7&z=2021-09-07&g=2021-09-07) van deze Beleidsregels, in welke FDG klasse de verzekerde valt. Als een verzekerde in meer FDG klassen valt, deelt het Zorginstituut de verzekerde in de hoogste voor hem toepasselijke klasse in. Het Zorginstituut stelt voor de toepasselijke klasse waarin de verzekerde valt de zwaarte op 1.
 
@@ -336,9 +326,9 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - b. de kosten op declaraties kosten verpleging en verzorging 2014 per gepseudonimiseerd burgerservicenummer, afkomstig uit de bestanden die gebruikt zijn voor de Overall Toets 2017, zoals de minister van VWS die heeft laten uitvoeren;
 
-- c. de kosten op declaraties kosten verpleging en verzorging 2015 per gepseudonimiseerd burgerservicenummer, tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
+- c. de kosten op declaraties kosten verpleging en verzorging 2015 per gepseudonimiseerd burgerservicenummer, tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
 
-- d. de kosten op declaraties kosten verpleging en verzorging 2016 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
+- d. de kosten op declaraties kosten verpleging en verzorging 2016 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
 
 - e. Het VPPKB 2016.
 
@@ -358,7 +348,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 9. Als een verzekerde niet in een andere klasse dan ‘Geen MVV’ valt, deelt het Zorginstituut deze verzekerde in bij de klasse ‘Geen MVV’.
 
-10. Het Zorginstituut herschaalt na toepassing van de vorige leden het geraamde aantal verzekerden voor het criterium MVV naar de macroverzekerdenraming en stemt de relatieve prevalentie per klasse af op de Overall Toets 2019 met WOR nummer 929, zoals die op 7 augustus 2018 aan de minister van VWS is gerapporteerd.
+10. Het Zorginstituut herschaalt na toepassing van de vorige leden het geraamde aantal verzekerden voor het criterium MVV naar de macroverzekerdenraming en stemt de relatieve prevalentie per klasse af op de Overall Toets 2019 met WOR nummer 929, zoals die op 7 augustus 2018 aan de minister van VWS is gerapporteerd.
 
 ##### Artikel 20. FKG GGZ
 
@@ -366,7 +356,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - a. de indeling in FKG GGZ klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=8&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2018 van declaraties farmaceutische hulp 2017 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2018 van declaraties farmaceutische hulp 2017 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de declaraties, bedoeld in het eerste lid, onderdeel b, met behulp van het gepseudonimiseerde burgerservicenummer aan het PKB 2018 en bepaalt op basis hiervan met inachtneming van [artikel 9, vijfde lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=9) en [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=8&z=2021-09-07&g=2021-09-07) van deze Beleidsregels, in welke FKG GGZ klassen de verzekerde wordt ingedeeld. Aan de verzekerde koppelt het Zorginstituut een zwaarte van 1 voor de betreffende klassen.
 
@@ -382,11 +372,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 - a. de indeling in DKG GGZ klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=9&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2018 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2016 geopend zijn;
+- b. de opgave van de zorgverzekeraars per 1 juni 2018 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2016 geopend zijn;
 
-- c. de opgave van de zorgverzekeraars per 1 juni 2018 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2015 geopend zijn;
+- c. de opgave van de zorgverzekeraars per 1 juni 2018 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2015 geopend zijn;
 
-- d. de opgave van de zorgverzekeraars per 1 juni 2017 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ die in 2014 geopend zijn;
+- d. de opgave van de zorgverzekeraars per 1 juni 2017 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ die in 2014 geopend zijn;
 
 - e. Wlz-opgaven die via Vektis zijn aangeleverd met betrekking tot zzp’s in 2016 en 2015;
 
@@ -416,15 +406,15 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium GGZ-MHK per zorgverzekeraar op:
 
-- a. declaraties met betrekking tot 2012 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2014, zoals zorgverzekeraars die op 1 mei 2016 bij het Zorginstituut hebben aangeleverd;
+- a. declaraties met betrekking tot 2012 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2014, zoals zorgverzekeraars die op 1 mei 2016 bij het Zorginstituut hebben aangeleverd;
 
-- b. declaraties met betrekking tot 2013 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2015, zoals zorgverzekeraars die op 1 oktober 2016 bij het Zorginstituut hebben aangeleverd;
+- b. declaraties met betrekking tot 2013 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2015, zoals zorgverzekeraars die op 1 oktober 2016 bij het Zorginstituut hebben aangeleverd;
 
-- c. declaraties met betrekking tot 2014 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2016, zoals zorgverzekeraars die op 1 mei 2017 bij het Zorginstituut hebben aangeleverd;
+- c. declaraties met betrekking tot 2014 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2016, zoals zorgverzekeraars die op 1 mei 2017 bij het Zorginstituut hebben aangeleverd;
 
-- d. declaraties met betrekking tot 2015 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
+- d. declaraties met betrekking tot 2015 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
 
-- e. declaraties met betrekking tot 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
+- e. declaraties met betrekking tot 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
 
 - f. het VPPKB 2012, VPPKB 2013, VPPKB 2014, het VPPKB 2015 en het VPPKB 2016.
 
@@ -438,7 +428,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 6. Als een verzekerde niet in een andere klasse dan ‘Geen GGZ-MHK’ valt, deelt het Zorginstituut de verzekerde in de klasse ‘Geen GGZ-MHK’ in.
 
-7. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium GGZ-MHK naar de macroverzekerdenraming en stemt de relatieve prevalentie per klasse af op de Overall Toets 2019 met WOR nummer 929, zoals die op 7 augustus 2018 aan de minister van VWS is gerapporteerd.
+7. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium GGZ-MHK naar de macroverzekerdenraming en stemt de relatieve prevalentie per klasse af op de Overall Toets 2019 met WOR nummer 929, zoals die op 7 augustus 2018 aan de minister van VWS is gerapporteerd.
 
 ##### Artikel 24. Gewichten voor het deelbedrag variabele zorgkosten
 
@@ -522,7 +512,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2019 en de ber
 
 4. Het Zorginstituut berekent de vereveningsbijdrage 2019 voor een zorgverzekeraar door op het normatieve bedrag 2019, bedoeld in het eerste lid, de normatieve eigen risico opbrengst 2019 zoals bepaald in [artikel 30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=30&z=2021-09-07&g=2021-09-07) en de op grond van het tweede en derde lid berekende opbrengst van de nominale rekenpremie 2019 in mindering te brengen.
 
-5. Het Zorginstituut berekent per zorgverzekeraar de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar 2019. Deze uitkering bedraagt het aantal geraamde verzekerden jonger dan achttien jaar vermenigvuldigd met € 41,00.
+5. Het Zorginstituut berekent per zorgverzekeraar de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar 2019. Deze uitkering bedraagt het aantal geraamde verzekerden jonger dan achttien jaar vermenigvuldigd met € 41,00.
 
 6. Het Zorginstituut kent de vereveningsbijdrage 2019 ter hoogte van de bijdrage berekend op grond van het vierde lid, aangevuld met het bedrag, berekend op grond van het vijfde lid, aan de zorgverzekeraar toe.
 
@@ -534,9 +524,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 ##### Artikel 33. De herberekening en herziening van de toegekende bijdrage 2019
 
-1. Het Zorginstituut herberekent de toekenning van de vereveningsbijdrage op basis van de verzekerdenaantallen 2019 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2019.
+1. Het Zorginstituut herberekent de toekenning van de vereveningsbijdrage op basis van de verzekerdenaantallen 2019 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2019.
 
-2. Het Zorginstituut herberekent de vereveningsbijdrage 2019, zoals toegekend op grond van [artikel 31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=31&z=2021-09-07&g=2021-09-07), per zorgverzekeraar en betrekt daarbij de verzekerden die op peildatum 15 februari, volgens opgave van Vektis, zijn ingeschreven bij die zorgverzekeraar.
+2. Het Zorginstituut herberekent de vereveningsbijdrage 2019, zoals toegekend op grond van [artikel 31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=31&z=2021-09-07&g=2021-09-07), per zorgverzekeraar en betrekt daarbij de verzekerden die op peildatum 15 februari, volgens opgave van Vektis, zijn ingeschreven bij die zorgverzekeraar.
 
 3. Het Zorginstituut voert de herberekening van de toegekende vereveningsbijdrage 2019 als volgt uit: Het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de opgaven in het eerste lid door het geraamde totaal aantal verzekerden 2019 uit het tweede lid en vermenigvuldigt per zorgverzekeraar de uitkomst hiervan met de op grond van het tweede lid herberekende vereveningsbijdrage 2019.
 
@@ -550,7 +540,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 2. Het Zorginstituut bepaalt de verzekerdenaantallen 2019 met inachtneming van het bepaalde in dit artikel en met inachtneming van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=5&z=2021-09-07&g=2021-09-07), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=6&z=2021-09-07&g=2021-09-07) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=7&z=2021-09-07&g=2021-09-07).
 
-3. Het Zorginstituut baseert zich bij de bepaling van de verzekerdenaantallen per zorgverzekeraar op het VPPKB 2019, zoals de zorgverzekeraars dat hebben aangeleverd op 1 juni 2020.
+3. Het Zorginstituut baseert zich bij de bepaling van de verzekerdenaantallen per zorgverzekeraar op het VPPKB 2019, zoals de zorgverzekeraars dat hebben aangeleverd op 1 juni 2020.
 
 4. Het Zorginstituut deelt verzekerden zonder burgerservicenummer en verzekerden zonder geverifieerd burgerservicenummer uitsluitend in bij de criteria leeftijd en geslacht, regio en GGZ-regio.
 
@@ -570,9 +560,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - a. de indeling in FKG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=1&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2019 van declaraties farmaceutische hulp 2018 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
+- b. de opgave per 1 juni 2019 van declaraties farmaceutische hulp 2018 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
 
-- c. de opgave per 1 juni 2020 van declaratiegegevens add-ons geneesmiddelen 2018 van de zorgverzekeraars aan het Zorginstituut.
+- c. de opgave per 1 juni 2020 van declaratiegegevens add-ons geneesmiddelen 2018 van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de opgaven bedoeld in het eerste lid, onderdeel b en c, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2019 en bepaalt op basis hiervan met inachtneming van [artikel 9, tweede en derde lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=9) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=1&z=2021-09-07&g=2021-09-07) van deze Beleidsregels, in welke FKG klassen de verzekerde valt.
 
@@ -584,9 +574,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - a. de indeling in primaire DKG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=2&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2020 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s die in 2018 geopend zijn;
+- b. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2020 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s die in 2018 geopend zijn;
 
-- c. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2019 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s die in 2017 geopend zijn.
+- c. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2019 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s die in 2017 geopend zijn.
 
 2. Het Zorginstituut koppelt de opgaven, bedoeld in het vorige lid, onderdeel b en c, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2019 en bepaalt op basis hiervan met inachtneming van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=2&z=2021-09-07&g=2021-09-07) van deze Beleidsregels per verzekerde in welke primaire DKG klasse ‘1’ tot en met ‘15’ de verzekerde wordt ingedeeld. Als de verzekerde in meerdere primaire DKG klassen valt, deelt het Zorginstituut de verzekerde in de hoogste voor hem toepasselijke primaire DKG klasse in.
 
@@ -598,9 +588,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - a. de indeling in secundaire DKG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=2&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2020 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s die in 2018 geopend zijn;
+- b. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2020 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s die in 2018 geopend zijn;
 
-- c. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2019 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s die in 2017 geopend zijn.
+- c. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2019 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s die in 2017 geopend zijn.
 
 2. Het Zorginstituut koppelt de opgaven, bedoeld in het vorige lid, onderdeel b en c, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2019 en bepaalt op basis hiervan met inachtneming van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=2&z=2021-09-07&g=2021-09-07) van deze Beleidsregels per verzekerde in welke secundaire DKG klasse ‘1’ tot en met ‘7’ de verzekerde wordt ingedeeld. Bij de indeling naar secundaire DKG klassen sluit het Zorginstituut declaraties die tot een primaire DKG hebben geleid uit. Als de verzekerde in meerdere secundaire DKG klassen valt, deelt het Zorginstituut de verzekerde in de hoogste voor hem toepasselijke secundaire DKG klasse in.
 
@@ -612,7 +602,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - a. de indeling in de HKG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=3&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2019 van declaraties hulpmiddelen 2018 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2019 van declaraties hulpmiddelen 2018 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de opgave, bedoeld in het eerste lid, onderdeel b, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2019 en bepaalt op basis hiervan met inachtneming van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=3&z=2021-09-07&g=2021-09-07) van deze Beleidsregels in welke HKG klasse de verzekerde wordt ingedeeld. Als de verzekerde in meerdere HKG klassen valt, deelt het Zorginstituut de verzekerde in de hoogste voor hem toepasselijke HKG klasse in.
 
@@ -626,13 +616,13 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - b. de leeftijd op het VPPKB 2019;
 
-- c. de zelfstandigen op het zelfstandigenbestand over 2019, met peildatum 30 juni 2019;
+- c. de zelfstandigen op het zelfstandigenbestand over 2019, met peildatum 30 juni 2019;
 
-- d. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers op het UWV-bestand over 2019, op peildatum 30 juni 2019;
+- d. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers op het UWV-bestand over 2019, op peildatum 30 juni 2019;
 
-- e. indien het UWV-bestand betreffende een gemeente onvoldoende gegevens over de bijstandsgerechtigden bevat, op de gegevens over 2018, met als peildatum 30 juni 2018 voor verzekerden uit die gemeente.
+- e. indien het UWV-bestand betreffende een gemeente onvoldoende gegevens over de bijstandsgerechtigden bevat, op de gegevens over 2018, met als peildatum 30 juni 2018 voor verzekerden uit die gemeente.
 
-- f. de studenten en de hoogopgeleiden op de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2019.
+- f. de studenten en de hoogopgeleiden op de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2019.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met g, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2019 en bepaalt op basis hiervan met inachtneming van [artikel 9, vierde lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=9) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=4&z=2021-09-07&g=2021-09-07) van deze Beleidsregels per verzekerde in welke AVI klasse de verzekerde wordt ingedeeld.
 
@@ -688,11 +678,11 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium MHK per zorgverzekeraar op:
 
-- a. declaraties 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2018, zoals zorgverzekeraars die op 1 mei 2019 bij het Zorginstituut hebben aangeleverd;
+- a. declaraties 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2018, zoals zorgverzekeraars die op 1 mei 2019 bij het Zorginstituut hebben aangeleverd;
 
-- b. declaraties 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- b. declaraties 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
-- c. declaraties 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- c. declaraties 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
 - d. het VPPKB 2016, het VPPKB 2017 en het VPPKB 2018.
 
@@ -708,7 +698,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - a. de indeling in FDG klassen 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=7&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2019 van declaraties fysiotherapie en oefentherapie 2018 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
+- b. de opgave per 1 juni 2019 van declaraties fysiotherapie en oefentherapie 2018 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
 
 - c. het VPPKB 2018.
 
@@ -722,11 +712,11 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - a. de leeftijd op het VPPKB 2019;
 
-- b. de kosten op declaraties kosten van verpleging en verzorging 2016 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2018, zoals zorgverzekeraars die op 1 mei 2019 bij het Zorginstituut hebben aangeleverd;
+- b. de kosten op declaraties kosten van verpleging en verzorging 2016 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2018, zoals zorgverzekeraars die op 1 mei 2019 bij het Zorginstituut hebben aangeleverd;
 
-- c. de kosten op declaraties verpleging en verzorging 2017 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- c. de kosten op declaraties verpleging en verzorging 2017 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
-- d. de kosten op declaraties verpleging en verzorging 2018 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- d. de kosten op declaraties verpleging en verzorging 2018 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
 - e. het VPPKB 2018.
 
@@ -748,7 +738,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - a. de indeling in FKG GGZ 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=8&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2019 van declaraties farmaceutische hulp 2018 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2019 van declaraties farmaceutische hulp 2018 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de opgave bedoeld in het eerste lid, onderdeel b, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2019 en bepaalt op basis hiervan met inachtneming van [artikel 9, vijfde lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=9) en [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=8&z=2021-09-07&g=2021-09-07) van deze Beleidsregels in welke FKG GGZ klassen de verzekerde wordt ingedeeld.
 
@@ -760,11 +750,11 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 - a. de indeling in DKG GGZ 2019 zoals weergegeven in het referentiebestand dat is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=9&z=2021-09-07&g=2021-09-07) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2020 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s en zzp’s GGZ die in 2018 geopend zijn;
+- b. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2020 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s en zzp’s GGZ die in 2018 geopend zijn;
 
-- c. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2019 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s en zzp’s GGZ die in 2017 geopend zijn;
+- c. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2019 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s en zzp’s GGZ die in 2017 geopend zijn;
 
-- d. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2018 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s en zzp’s GGZ die in 2016 geopend zijn.
+- d. de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2018 van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s en zzp’s GGZ die in 2016 geopend zijn.
 
 2. Het Zorginstituut koppelt op basis van het gepseudonimiseerde burgerservicenummer de opgaven, bedoeld in het vorige lid, aan het VPPKB 2019. Het Zorginstituut bepaalt op basis hiervan met inachtneming van [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&bijlage=9&z=2021-09-07&g=2021-09-07) van deze Beleidsregels per verzekerde in welke DKG GGZ klasse de verzekerde valt. Als de verzekerde in meerdere DKG GGZ klassen valt, deelt het Zorginstituut de verzekerde in de hoogste voor hem toepasselijke DKG GGZ klasse in.
 
@@ -784,15 +774,15 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium GGZ-MHK per zorgverzekeraar op:
 
-- a. declaraties 2014 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2016, zoals zorgverzekeraars die op 1 mei 2017 bij het Zorginstituut hebben aangeleverd;
+- a. declaraties 2014 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2016, zoals zorgverzekeraars die op 1 mei 2017 bij het Zorginstituut hebben aangeleverd;
 
-- b. declaraties 2015 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
+- b. declaraties 2015 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
 
-- c. declaraties 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2018, zoals zorgverzekeraars die op 1 mei 2019 bij het Zorginstituut hebben aangeleverd;
+- c. declaraties 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2018, zoals zorgverzekeraars die op 1 mei 2019 bij het Zorginstituut hebben aangeleverd;
 
-- d. declaraties 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- d. declaraties 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
-- e. declaraties 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- e. declaraties 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
 - f. het VPPKB 2014, VPPKB 2015, VPPKB 2016, het VPPKB 2017 en het VPPKB 2018.
 
@@ -806,7 +796,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 ##### Artikel 51. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2019
 
-1. Op basis van de opgave jaarstaat 2019 per 1 mei 2020 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=13) en [14 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=14) bepaalt het Zorginstituut de variabele zorgkosten 2019 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
+1. Op basis van de opgave jaarstaat 2019 per 1 mei 2020 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=13) en [14 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=14) bepaalt het Zorginstituut de variabele zorgkosten 2019 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
 2. Het Zorginstituut herberekent het gewicht van de klasse ‘Geen FKG’ zodanig dat het voor de klassen ‘Groeistoornissen o.b.v. add-on’, ‘Auto-immuunziekten o.b.v. add-on’, ‘Immunoglobuline o.b.v. add-on’, ‘COPD/zware astma o.b.v. add-on’, ‘Kanker o.b.v. add-on’, ‘Extreem hoge kosten cluster 1’, ‘Extreem hoge kosten cluster 2’ en ‘Extreem hoge kosten cluster 3’ gesommeerde verschil tussen de vermenigvuldiging van het gerealiseerde aantal verzekerden met het gewicht in [tabel 1.2 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&bijlage=1) en de vermenigvuldiging van het bij toekenning van de vereveningsbijdrage verwachte aantal verzekerden met het gewicht in tabel 1.2 van de Regeling, teniet wordt gedaan. Het Zorginstituut rondt het herberekende gewicht af op twee decimalen.
 
@@ -832,7 +822,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 ##### Artikel 52. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2019
 
-1. Op basis van de opgave jaarstaat 2019 per 1 mei 2020 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=13) en [15 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=15) bepaalt het Zorginstituut de vaste zorgkosten 2019 voor iedere zorgverzekeraar afzonderlijk.
+1. Op basis van de opgave jaarstaat 2019 per 1 mei 2020 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=13) en [15 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=15) bepaalt het Zorginstituut de vaste zorgkosten 2019 voor iedere zorgverzekeraar afzonderlijk.
 
 2. Het Zorginstituut herberekent het deelbedrag vaste zorgkosten door het totaal aantal verzekerden 2019 per zorgverzekeraar, vastgesteld met toepassing van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=IV&artikel=34&z=2021-09-07&g=2021-09-07) te vermenigvuldigen met het normbedrag vaste zorgkosten 2019, berekend in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=26&z=2021-09-07&g=2021-09-07).
 
@@ -842,7 +832,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 ##### Artikel 53. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2019
 
-1. Op basis van de opgave jaarstaat 2019 per 1 mei 2020 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=12) en [13 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=13), bepaalt het Zorginstituut de kosten van geneeskundige geestelijke gezondheidszorg 2019 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
+1. Op basis van de opgave jaarstaat 2019 per 1 mei 2020 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=12) en [13 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041387&artikel=13), bepaalt het Zorginstituut de kosten van geneeskundige geestelijke gezondheidszorg 2019 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
 2. Het Zorginstituut herberekent het gewicht voor de klasse ‘Geen DKG psychische aandoeningen’ van het criterium DKG’s psychische aandoeningen door het totaal aantal verzekerden in een andere klasse dan ‘Geen DKG psychische aandoeningen’ per klasse van het criterium DKG’s psychische aandoeningen te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden in de klasse ‘Geen DKG psychische aandoeningen’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
@@ -864,7 +854,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 2. Het Zorginstituut herberekent overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=29&z=2021-09-07&g=2021-09-07) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=II&artikel=30&z=2021-09-07&g=2021-09-07) de normatieve eigen risico opbrengst 2019.
 
-3. Bij toepassing van het tweede lid bepaalt het Zorginstituut de gederfde inkomsten voor verzekerden van achttien jaar en ouder voor wie op grond van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2019 per 1 mei 2020.
+3. Bij toepassing van het tweede lid bepaalt het Zorginstituut de gederfde inkomsten voor verzekerden van achttien jaar en ouder voor wie op grond van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2019 per 1 mei 2020.
 
 ##### Artikel 55. De voorlopige herberekening van het normatieve bedrag 2019 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2019
 
@@ -872,9 +862,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 2. Het Zorginstituut berekent de opbrengst van de nominale rekenpremie per zorgverzekeraar door de verzekerden van achttien jaar en ouder 2019 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2019.
 
-3. Het Zorginstituut vermindert het resultaat na toepassing van het tweede lid met het bedrag dat de zorgverzekeraar verantwoordt in de opgave jaarstaat 2019 per 1 mei 2020 als gederfde inkomsten voor verzekerden van achttien jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
+3. Het Zorginstituut vermindert het resultaat na toepassing van het tweede lid met het bedrag dat de zorgverzekeraar verantwoordt in de opgave jaarstaat 2019 per 1 mei 2020 als gederfde inkomsten voor verzekerden van achttien jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
 
-4. Het Zorginstituut herberekent voorlopig de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar 2019 te vermenigvuldigen met € 41,00.
+4. Het Zorginstituut herberekent voorlopig de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar 2019 te vermenigvuldigen met € 41,00.
 
 5. Het Zorginstituut herberekent de vereveningsbijdrage 2019 voorlopig door de som van het herberekende normatieve bedrag 2019, bedoeld in het eerste lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in het vorige lid, te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=IV&artikel=54&z=2021-09-07&g=2021-09-07), en de opbrengst van de nominale rekenpremie, bedoeld in het tweede en derde lid.
 
@@ -884,7 +874,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2019 besl
 
 ##### Artikel 56. Algemene bepaling
 
-Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2019 uit de opgave jaarstaat 2021 per 1 mei 2022, de correcties die de Nederlandse Zorgautoriteit heeft toegepast en de bepalingen uit dit hoofdstuk.
+Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2019 uit de opgave jaarstaat 2021 per 1 mei 2022, de correcties die de Nederlandse Zorgautoriteit heeft toegepast en de bepalingen uit dit hoofdstuk.
 
 ##### Artikel 57. Bepaling van de verzekerdenaantallen 2019
 
@@ -892,11 +882,11 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 2. Voor het criterium SES betrekt het Zorginstituut voor het inkomen het belastingdienstbestand over 2018 bij de verzekerdenaantallen. Indien een verzekerde niet is opgenomen in de opgave over 2018, maakt het Zorginstituut gebruik van de opgave over 2019.
 
-3. Voor het criterium MHK betrekt het Zorginstituut bij de verzekerdenaantallen de declaraties 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd.
+3. Voor het criterium MHK betrekt het Zorginstituut bij de verzekerdenaantallen de declaraties 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd.
 
-4. Voor het criterium MVV betrekt het Zorginstituut bij de verzekerdenaantallen de declaraties verpleging en verzorging 2018 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd.
+4. Voor het criterium MVV betrekt het Zorginstituut bij de verzekerdenaantallen de declaraties verpleging en verzorging 2018 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd.
 
-5. Voor het criterium GGZ-MHK betrekt het Zorginstituut bij de verzekerdenaantallen de declaraties 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige GGZ exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd.
+5. Voor het criterium GGZ-MHK betrekt het Zorginstituut bij de verzekerdenaantallen de declaraties 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige GGZ exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd.
 
 ##### Artikel 58. De tweede voorlopige herberekening van het deelbedrag variabele zorgkosten 2019
 
@@ -956,9 +946,9 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen 
 
 2. Het Zorginstituut berekent de tweede voorlopige opbrengst van de nominale rekenpremie per zorgverzekeraar door de verzekerden van achttien jaar en ouder per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2019.
 
-3. Het Zorginstituut vermindert de uitkomst, berekend op grond van het tweede lid, met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarstaat 2019 per 1 mei 2020 als gederfde inkomsten voor verzekerden van achttien jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
+3. Het Zorginstituut vermindert de uitkomst, berekend op grond van het tweede lid, met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarstaat 2019 per 1 mei 2020 als gederfde inkomsten voor verzekerden van achttien jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
 
-4. Het Zorginstituut berekent de tweede voorlopige aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar te vermenigvuldigen met € 41,00.
+4. Het Zorginstituut berekent de tweede voorlopige aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar te vermenigvuldigen met € 41,00.
 
 5. Het Zorginstituut berekent de vereveningsbijdrage 2019 voor de tweede keer voorlopig door de som van het tweede voorlopige normatieve bedrag 2019 bedoeld in het eerste lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in het vorige lid, te verminderen met de tweede voorlopige normatieve eigen risico opbrengst, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=V&artikel=61&z=2021-09-07&g=2021-09-07) respectievelijk de opbrengst van de nominale rekenpremie, bedoeld in het tweede en derde lid.
 
@@ -1038,9 +1028,9 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 10. Indien de zorgverzekeraar het bedrag bedoeld in het vorige lid niet aan het Zorginstituut heeft betaald, verrekent het Zorginstituut het verschuldigde bedrag met de betalingen aan de zorgverzekeraar totdat het verschuldigde bedrag is voldaan.
 
-| Betaalmoment | Bestanddelen betalingen | Bestanddelen betalingen | Bestanddelen betalingen | Bestanddelen betalingen |
+| Betaalmoment | Bestanddelen betalingen |  |  |  |
 | --- | --- | --- | --- | --- |
-|   | Artikel 70 vierde lid, onder a en b | Artikel 70 vierde lid, onder c | Artikel 70 vierde lid, onder d | Artikel 69 eerste lid, onder d |
+|  | Artikel 70 vierde lid, onder a en b | Artikel 70 vierde lid, onder c | Artikel 70 vierde lid, onder d | Artikel 69 eerste lid, onder d |
 | januari 2019 | 1,16% | 0,00% | 8,33% | 4,35% |
 | februari 2019 | 2,16% | 0,00% | 8,33% | 7,56% |
 | maart 2019 | 3,38% | 0,81% | 8,34% | 9,30% |
@@ -1120,82 +1110,8 @@ Het Zorginstituut legt de referentiebestanden, bedoeld in [bijlage 1 tot en met 
 
 ##### Artikel 75. Inwerkingtreding
 
-Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst en werken terug tot en met 1 oktober 2018.
+Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst en werken terug tot en met 1 oktober 2018.
 
 ##### Artikel 76. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2019.
-
-## Bijlage 1. Referentiebestand FKG’s 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 2. Referentiebestand primaire en secundaire DKG’s 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 3. Referentiebestand HKG’s 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 4. Referentiebestand AVI 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 5. Referentiebestand Regio 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 6. Referentiebestand PPA 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 7. Referentiebestand FDG 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 8. Referentiebestand FKG GGZ 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 9. Referentiebestand DKG GGZ 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-## Bijlage 10. Referentiebestand GGZ Regio 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-Deze beleidsregels worden in de Staatscourant geplaatst.
-
-##### Artikel 2a. Algemene bepaling in verband met COVID-19
-
-1. In aanvulling op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=I&artikel=2&z=2021-09-07&g=2021-09-07) neemt het Zorginstituut bij de ex post vaststellingen de [Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042145) en de [Beleidsregels catastrofebijdrage coronapandemie 2020 en 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044716) bij de toepassing van deze beleidsregels in acht.
-
-2. Het Zorginstituut telt de continuïteitsbijdrage GGZ uitsluitend mee bij de risicoverevening voor zover:
-
-- a. de continuïteitsbijdrage GGZ betrekking heeft op de basisverzekering, blijkend uit een deugdelijke onderbouwing in de schriftelijke afspraken over de prestatie continuïteitsbijdrage tussen zorgverzekeraar en zorgaanbieder daarover; en
-
-- b. de continuïteitsbijdrage GGZ betrekking heeft op in 2019 geopende dbc’s.
-
-3. Het Zorginstituut betrekt bij de ex post vaststellingen van de vereveningsbijdragen, naast de gebruikelijke correcties genoemd in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041500&hoofdstuk=V&artikel=56&z=2021-09-07&g=2021-09-07), de correcties van de Nederlandse Zorgautoriteit op de continuïteitsbijdragen.
-
-### Hoofdstuk II. Toekenning van de vereveningsbijdrage 2019 aan een zorgverzekeraar
-
-### Hoofdstuk III. De herberekening van de toegekende bijdrage
-
-### Hoofdstuk IV. De eerste voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
-
-### Hoofdstuk V. De tweede voorlopige vaststelling van de vereveningsbijdrage 2019 voor een zorgverzekeraar
-
-### Hoofdstuk VI. De vaststelling van de vereveningsbijdrage 2019 voor een zorgverzekeraar
-
-### Hoofdstuk VII. De betalingen aan de zorgverzekeraars
-
-### Hoofdstuk VIII. Slotbepalingen
-
-## Bijlage 10. Referentiebestand GGZ Regio 2019
-
-Ligt ter inzage bij het Zorginstituut Nederland en is gepubliceerd op zijn website.
-
-Deze beleidsregels worden in de Staatscourant geplaatst.

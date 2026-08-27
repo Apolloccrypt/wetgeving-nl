@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister van Financiën van 13 juli 2018, nr. 2018-0000117266, directie Financiële Markten, tot aanwijzing van personen die zijn belast met het toezicht op de naleving van de Wet ter voorkoming van witwassen en financieren van terrorisme en tot mandaatverlening betreffende de handhaving (Aanwijzings- en mandaatbesluit Wwft 2018)"
+citeertitel: "Aanwijzings- en mandaatbesluit Wwft 2018"
 identifier: "BWBR0041190"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041190"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-stam_id: "14687133"
-version_id: "31274632"
-internal_id: "C44716331"
-label_id: "14639604"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041190/2026-01-01/0"
-intitule_bron: "Stcrt.2018-40951"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-07-13"
-intitule_published: "2018-07-23"
-intitule_in_force: "2018-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44697"
-original_signed_date: "2025-12-07"
-original_published_date: "2025-12-31"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-44697"
-entry_into_force_date: "2025-12-07"
-jci_1_3: "jci1.3:c:BWBR0041190&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0041190&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzings- en mandaatbesluit Wwft 2018"
-signed_date: "2025-12-07"
-entry_into_force: "2025-12-07"
+publicatiedatum: 2025-12-07
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0041190"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Financiën van 13 juli 2018, nr. 2018-0000117266, directie Financiële Markten, tot aanwijzing van personen die zijn belast met het toezicht op de naleving van de Wet ter voorkoming van witwassen en financieren van terrorisme en tot mandaatverlening betreffende de handhaving (Aanwijzings- en mandaatbesluit Wwft 2018)
-
-Gelet op [artikel 24, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24) en [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-BESLUIT:
-
-Treedt in werking op het tijdstip waarop de Implementatiewet vierde anti-witwasrichtlijn in werking treedt.
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) gestelde regels worden belast, voor zover het natuurlijke personen, rechtspersonen of vennootschappen betreft als bedoeld in [artikel 1a, vierde lid, onderdeel g, h, i, j, k, m en n, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), de medewerkers van de Dienst Financieel-Economische Integriteit.
+Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) gestelde regels worden belast, voor zover het natuurlijke personen, rechtspersonen of vennootschappen betreft als bedoeld in [artikel 1a, vierde lid, onderdeel g, h, i, j, k, m en n, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), de medewerkers van de Dienst Financieel-Economische Integriteit.
 
 ##### Artikel 2
 
@@ -54,11 +26,19 @@ Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming v
 
 ##### Artikel 3
 
-1. Aan de directeur van de Dienst Financieel-Economische Integriteit wordt mandaat verleend voor het nemen van besluiten in het kader van de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4), met uitzondering van het in rekening brengen van een vergoeding voor een aanmaning.
+1. Aan de directeur van de Dienst Financieel-Economische Integriteit wordt mandaat verleend voor het nemen van besluiten in het kader van de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4), met uitzondering van het in rekening brengen van een vergoeding voor een aanmaning.
 
-2. Aan de directeur van de Dienst Financieel-Economische Integriteit wordt volmacht verleend voor het verrichten van privaatrechtelijke rechtshandelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
+2. Aan de directeur van de Dienst Financieel-Economische Integriteit wordt volmacht verleend voor het verrichten van privaatrechtelijke rechtshandelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
 
 3. De directeur van de Dienst Financieel-Economische Integriteit kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermandaat respectievelijk ondervolmacht verlenen aan medewerkers van de Dienst Financieel-Economische Integriteit.
+
+##### Artikel 3a
+
+1. Aan de algemeen directeur van het CJIB wordt machtiging verleend voor het verrichten van feitelijke handelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
+
+2. In het kader van de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4), wordt aan de algemeen directeur van het CJIB mandaat verleend voor het in rekening brengen van een vergoeding voor een aanmaning als bedoeld in [artikel 4:113 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), alsmede voor het treffen van betalingsregelingen en het verlenen van uitstel van betaling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94).
+
+3. De algemeen directeur van het CJIB kan voor de in het eerste en tweede lid bedoelde aangelegenheden machtiging respectievelijk ondermandaat verlenen aan medewerkers van het CJIB.
 
 ##### Artikel 4
 
@@ -68,7 +48,7 @@ Met het toezicht op de naleving van de bij en krachtens de [Wet ter voorkoming v
 
 ##### Artikel 5
 
-De secretaris-generaal van het Ministerie van Financiën en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=4&z=2026-01-01&g=2026-01-01), bedoelde directeur zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4). Zij kunnen aan onder hen ressorterende ambtenaren ter zake ondermachtiging verlenen.
+De secretaris-generaal van het Ministerie van Financiën en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041190&artikel=4&z=2026-01-01&g=2026-01-01), bedoelde directeur zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4). Zij kunnen aan onder hen ressorterende ambtenaren ter zake ondermachtiging verlenen.
 
 ##### Artikel 6
 
@@ -84,7 +64,7 @@ gevolgd door naam en functie van de gemandateerde functionaris
 
 ##### Artikel 7
 
-Het [Besluit van de Minister van Financiën van 27 november 2009, nr. FM/2009/3373, betreffende bekendmaking mandaatverlening handhaving en sanctionering Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0026762) (Stcrt. 2009, 18645) wordt ingetrokken.
+Het [Besluit van de Minister van Financiën van 27 november 2009, nr. FM/2009/3373, betreffende bekendmaking mandaatverlening handhaving en sanctionering Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0026762) (Stcrt. 2009, 18645) wordt ingetrokken.
 
 ##### Artikel 8
 
@@ -93,15 +73,3 @@ Dit besluit treedt in werking op het tijdstip waarop de Implementatiewet vierde 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Aanwijzings- en mandaatbesluit Wwft 2018.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-1. Aan de algemeen directeur van het CJIB wordt machtiging verleend voor het verrichten van feitelijke handelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4).
-
-2. In het kader van de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, bedoeld in [hoofdstuk 4 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4), wordt aan de algemeen directeur van het CJIB mandaat verleend voor het in rekening brengen van een vergoeding voor een aanmaning als bedoeld in [artikel 4:113 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), alsmede voor het treffen van betalingsregelingen en het verlenen van uitstel van betaling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94).
-
-3. De algemeen directeur van het CJIB kan voor de in het eerste en tweede lid bedoelde aangelegenheden machtiging respectievelijk ondermandaat verlenen aan medewerkers van het CJIB.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,35 +1,16 @@
 ---
 title: "Circulaire bezorgproces reisdocumenten"
 identifier: "BWBR0040875"
-country: "nl"
-rank: "circulaire"
-publication_date: "2018-05-01"
-last_updated: "2018-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040875"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "14599373"
-version_id: "24999112"
-internal_id: "C35756121"
-label_id: "14553084"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040875/2018-05-01/0"
-intitule_bron: "Stcrt.2018-24573"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-05-03"
-intitule_in_force: "2018-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-24573"
-original_published_date: "2018-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-24573"
-entry_into_force_date: "2018-05-01"
-jci_1_3: "jci1.3:c:BWBR0040875&z=2018-05-01&g=2018-05-01"
-jci_1_0: "1.0:c:BWBR0040875&g=2018-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-05-01"
+publicatiedatum: 2018-05-01
+laatste_update: 2018-05-01
+status: geldig
+toestand: 2018-05-01
+bron: "https://wetten.overheid.nl/BWBR0040875"
+opgehaald: 2026-08-27
 ---
+
 # Circulaire bezorgproces reisdocumenten
 
 ### 1. Inleiding
@@ -56,13 +37,59 @@ De bezorging van het reisdocument door de bezorgdienst vindt plaats met inachtne
 
 ### 4a. Voorwaarden bezorgdienst
 
+- • Is gespecialiseerd in en heeft aantoonbare ervaring met complexe logistieke dienstverlening met fraudegevoelige producten.
+
+- • Heeft aantoonbare ervaring in processen betreffende een zorgvuldige en deugdelijke identiteitsvaststelling bij aflevering van een product.
+
+- • Heeft aantoonbare ervaring op het terrein van informatiebeveiliging, bijvoorbeeld door middel van ISO 27001 of een vergelijkbaar niveau.
+
+- • Is permanent bereikbaar voor de gemeenten zodat te allen tijde de laatste informatie kan worden doorgegeven.
+
+- • Beschikt over een ‘track and trace-systeem’ zodat bij de gemeente te allen tijde bekend is waar de bezorger en de uit te reiken reisdocumenten zich bevinden *en* tussentijds in het Register Paspoortsignaleringen geregistreerde belemmeringen voor bezorgen van het reisdocument onmiddellijk kunnen worden doorgegeven aan de bezorgdienst.
+
+- • Houdt zich aan de toepasselijke regels in verband met de bescherming van persoonsgegevens, vernietigt de gegevens betreffende de bezorging direct nadat de bezorging succesvol is afgerond, dan wel nadat de bezorging definitief is afgebroken en kan aantonen dat te vernietigen gegevens ook daadwerkelijk zijn vernietigd.
+
+- • Zorgt voor onmiddellijke terug bezorging bij de gemeente van de reisdocumenten die niet konden worden bezorgd.
+
 ### 4b. Voorwaarden voor bewaring
+
+- • Bewaart de reisdocumenten in een deugdelijke, inbraak vertragende en brandwerende voorziening, welke voorziening is geplaatst in een afgesloten ruimte, aangesloten is op een alarmsysteem en uitsluitend toegankelijk is voor daartoe bevoegde medewerkers van de bezorgdienst, dan wel, bij het transport van de reisdocumenten, in een specifiek daarvoor bestemde, deugdelijke, inbraak vertragende en brandwerende voorziening in een onopvallend motorrijtuig.
+
+- • De brandwerende voorziening ofwel de kluis dient te voldoen aan de Europese NEN-normen.
 
 ### 4c. Voorwaarden identiteitsvaststelling
 
+- • Het personeel van de bezorgdienst is opgeleid om een deugdelijke en zorgvuldige identiteitsvaststelling uit te voeren.
+
+- • Na vaststelling van de identiteit wordt het document persoonlijk aan de aanvrager uitgereikt.
+
+- • Het personeel van de bezorgdienst voldoet voorts ten minste aan de volgende eisen:
+
+   - – zijn gescreend door middel van een verklaring omtrent het gedrag;
+
+   - – hebben een integriteitverklaring getekend;
+
+   - – hebben aantoonbaar opleidingen gevolgd betreffende een zorgvuldige en deugdelijke identiteitsvaststelling;
+
+   - – hebben aantoonbare ervaring met het werken met producten waar zeer zorgvuldig mee moet worden omgegaan en met het vaststellen van de identiteit van de aanvrager.
+
 ### 4d. Proces van bezorgen
 
+- • In het contract tussen de burgemeester en de bezorgdienst worden de voorwaarden voor de bezorgdienst, bewaring van reisdocumenten en voorwaarden omtrent identiteitsvaststelling vastgelegd.
+
+- • De door de burgemeester gecontracteerde bezorgdienst dient te voldoen aan de randvoorwaarden voor veiligheid en privacyaspecten zoals vastgelegd in de [Wet Bescherming Persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) en de [Paspoortuitvoeringsregeling Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0012811).
+
+- • De bezorgdienst wordt door de burgemeester gemandateerd voor (thuis)bezorging en uitreiking van de reisdocumenten.
+
 ### 4e. Communicatie
+
+- • Het ministerie van BZK wordt onverwijld geïnformeerd door de aangewezen contactpersoon van de gemeente, indien:
+
+   - – er risico's worden vastgesteld dan wel vermoed voor de bezorger of de ontvangers van de reisdocumenten;
+
+   - – reisdocumenten gedurende de periode dat ze zijn overgedragen van de gemeente aan de bezorgdienst en nog niet aan de ontvanger zijn uitgereikt, als gevolg van diefstal, vermissing of door andere oorzaak vermist zijn geraakt;
+
+   - – er sprake is van een voorval waarvan de gemeente vermoedt dat het ministerie van BZK moet worden geïnformeerd.
 
 ### 5. Leges
 

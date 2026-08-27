@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 november 2018, nr. MBO/1337390, houdende regels voor de verstrekking van aanvullende bekostiging voor de verbetering van de aansluiting van het beroepsonderwijs op de arbeidsmarkt door publiek-private samenwerking (Regeling regionaal investeringsfonds mbo 2019–2022)"
+citeertitel: "Regeling regionaal investeringsfonds mbo 2019–2022"
 identifier: "BWBR0041553"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041553"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "14859453"
-version_id: "25420572"
-internal_id: "C36289551"
-label_id: "14811284"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041553/2023-01-01/0"
-intitule_bron: "Stcrt.2018-64331"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-06"
-intitule_published: "2018-11-16"
-intitule_in_force: "2018-11-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-64331"
-original_signed_date: "2018-11-06"
-original_published_date: "2018-11-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-64331"
-entry_into_force_date: "2018-11-17"
-jci_1_3: "jci1.3:c:BWBR0041553&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0041553&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling regionaal investeringsfonds mbo 2019–2022"
-signed_date: "2018-11-06"
-entry_into_force: "2018-11-17"
+publicatiedatum: 2018-11-17
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0041553"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 november 2018, nr. MBO/1337390, houdende regels voor de verstrekking van aanvullende bekostiging voor de verbetering van de aansluiting van het beroepsonderwijs op de arbeidsmarkt door publiek-private samenwerking (Regeling regionaal investeringsfonds mbo 2019–2022)
-
-Gelet op [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,33 +20,36 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **arbeidsorganisatie:** eenheid, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;
+- *arbeidsorganisatie:* eenheid, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;
 
-- **beoordelingscommissie:** commissie als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3&artikel=20&z=2023-01-01&g=2023-01-01);
+- *beoordelingscommissie:* commissie als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3&artikel=20&z=2023-01-01&g=2023-01-01);
 
-- **DUS-I:** Dienst Uitvoering Subsidies aan instellingen van het Ministerie van Volksgezondheid, Welzijn en Sport;
+- *DUS-I:* Dienst Uitvoering Subsidies aan instellingen van het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- **georganiseerd bedrijfsleven:** representatieve organisatie van werkgevers of representatieve organisatie van werknemers;
+- *georganiseerd bedrijfsleven:* representatieve organisatie van werkgevers of representatieve organisatie van werknemers;
 
-- **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *Minister:*
+ Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **O&O-fonds:** Opleidings- en Ontwikkelfonds, opgericht bij een bij de Minister van Sociale Zaken en Werkgelegenheid aangemelde collectieve arbeidsovereenkomst;
+- *O&O-fonds:* Opleidings- en Ontwikkelfonds, opgericht bij een bij de Minister van Sociale Zaken en Werkgelegenheid aangemelde collectieve arbeidsovereenkomst;
 
-- **onderwijsinstelling:** instelling als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover het bekostigde beroepsopleidingen betreft;
+- *onderwijsinstelling:* instelling als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover het bekostigde beroepsopleidingen betreft;
 
-- **publiek-private samenwerking:** samenwerking tussen in ieder geval een uit de openbare kas bekostigde onderwijsinstelling en een arbeidsorganisatie;
+- *publiek-private samenwerking:* samenwerking tussen in ieder geval een uit de openbare kas bekostigde onderwijsinstelling en een arbeidsorganisatie;
 
-- **regionale overheid:** provincie, gemeente of waterschap;
+- *regionale overheid:*
+ provincie, gemeente of waterschap;
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=2&artikel=12&z=2023-01-01&g=2023-01-01);
+- *samenwerkingsverband:* samenwerkingsverband als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=2&artikel=12&z=2023-01-01&g=2023-01-01);
 
-- **tussentijdse beoordeling:** tussentijdse beoordeling als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=4&artikel=28&z=2023-01-01&g=2023-01-01);
+- *tussentijdse beoordeling:* tussentijdse beoordeling als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=4&artikel=28&z=2023-01-01&g=2023-01-01);
 
-- **voortgangsrapportage:** voortgangsrapportage als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=4&artikel=27&z=2023-01-01&g=2023-01-01);
+- *voortgangsrapportage:* voortgangsrapportage als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=4&artikel=27&z=2023-01-01&g=2023-01-01);
 
-- **website van DUS-I:** www.dus-i.nl;
+- *website van DUS-I:* www.dus-i.nl;
 
-- **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- *wet:*
+ [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -84,7 +61,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 ##### Artikel 4. Subsidieplafond
 
-1. Voor subsidieverstrekkingen op grond van deze regeling is voor de kalenderjaren 2019 tot en met 2023 in totaal € 127.000.000,– beschikbaar.
+1. Voor subsidieverstrekkingen op grond van deze regeling is voor de kalenderjaren 2019 tot en met 2023 in totaal € 127.000.000,– beschikbaar.
 
 2. De hoogte van het subsidieplafond per kalenderjaar wordt jaarlijks bekend gemaakt in de Staatscourant.
 
@@ -96,7 +73,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 2. Niet-bestede middelen worden teruggevorderd.
 
-##### Artikel 6. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 6. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -106,9 +83,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. De Minister kan op aanvraag van het bevoegd gezag van een onderwijsinstelling subsidie verstrekken voor een duurzame publiek-private samenwerking die ten doel heeft de aansluiting van het middelbaar beroepsonderwijs op de behoefte van de arbeidsmarkt te verbeteren.
 
-2. De subsidie bedraagt ten minste € 250.000,– en ten hoogste € 2.000.000,– per subsidieaanvraag.
+2. De subsidie bedraagt ten minste € 250.000,– en ten hoogste € 2.000.000,– per subsidieaanvraag.
 
-3. Een aanvraag tot subsidieverlening voor een bedrag van minder dan € 250.000,– of meer dan € 2.000.000,– wordt afgewezen.
+3. Een aanvraag tot subsidieverlening voor een bedrag van minder dan € 250.000,– of meer dan € 2.000.000,– wordt afgewezen.
 
 4. De subsidie wordt verstrekt voor een periode van vier of vijf kalenderjaren, gerekend vanaf de start van het project.
 
@@ -336,7 +313,7 @@ De aanvraag voor subsidie, omvat in ieder geval:
 
 4. Voor de tweede helft van de subsidieperiode bevat de meerjarenbegroting ten minste een globale beschrijving van de onderwerpen, bedoeld in het derde lid.
 
-5. Voor de berekening van de personeelskosten wordt een integraal tarief gehanteerd van € 73,– per uur. Kosten voor de inzet van vrijwilligers worden niet als personeelskosten aangemerkt.
+5. Voor de berekening van de personeelskosten wordt een integraal tarief gehanteerd van € 73,– per uur. Kosten voor de inzet van vrijwilligers worden niet als personeelskosten aangemerkt.
 
 6. Indien sprake is van afschrijving van kosten voor nieuwbouw of verbouw van gebouwen voor de publiek-private samenwerking worden deze kosten, voor zover deze betrekking hebben op de publiek-private samenwerking, afgeschreven conform de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
@@ -362,7 +339,7 @@ De aanvraag voor subsidie, omvat in ieder geval:
 
 ##### Artikel 19. Indiening aanvraag en voortgangsrapportage
 
-1. De subsidieaanvragen worden ingediend in de periode van 1 januari tot 1 februari en 1 juni tot 1 juli van de kalenderjaren 2019, 2020, 2021, 2022 en 2023.
+1. De subsidieaanvragen worden ingediend in de periode van 1 januari tot 1 februari en 1 juni tot 1 juli van de kalenderjaren 2019, 2020, 2021, 2022 en 2023.
 
 2. De subsidieaanvraag wordt elektronisch ingediend, met behulp van het aanvraagformulier ‘Regionaal investeringsfonds mbo’ dat beschikbaar wordt gesteld op de website van DUS-I.
 
@@ -558,52 +535,6 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 2. De subsidieaanvrager werkt mee aan de evaluatie van de doeltreffendheid en de effecten van deze regeling in de praktijk door de Minister.
 
-##### Artikel 33. Overgangsbepalingen
-
-1. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=2&artikel=15&z=2023-01-01&g=2023-01-01), is niet van toepassing op de eerste aanvraagperiode van het kalenderjaar 2019.
-
-2. De aanvragers die een aanvraag hebben ingediend op grond van [artikel 11, eerste lid, van de Regeling regionaal investeringsfonds mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=11), maar waarvan de aanvraag eenmaal is afgewezen, worden in de gelegenheid gesteld de aanvraag nog eenmaal in te dienen op grond van [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=2&artikel=8&z=2023-01-01&g=2023-01-01).
-
-##### Artikel 34. Inwerkingtreding en einddatum
-
-1. Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verstrekt.
-
-##### Artikel 35. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling regionaal investeringsfonds mbo 2019–2022.
-
-## Bijlage 1. behorende bij [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3&artikel=21&z=2019-09-27&g=2019-09-27), van de Regeling regionaal investeringsfonds mbo 2019 –2022
-
-### Beoordelingskader voor starters
-
-**Toets vooraf**:
-
-**Toets vooraf**:
-
-**Toets vooraf**:
-
-### Beoordelingskader voor opschalers
-
-Om als starter voor subsidie van het RIF in aanmerking te komen geldt dat:
-
-**Toets vooraf:**
-
-**Toets vooraf:**
-
-## Bijlage 2. behorende bij [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3&artikel=22&z=2019-09-27&g=2019-09-27), van de Regeling regionaal investeringsfonds mbo 2019–2022
-
-### Beoordelingskader Voortgangsrapportage
-
-### Beoordelingskader Voortgangsrapportage
-
-De voortgangsrapportage geeft inzicht in de inhoudelijke en financiële voortgang van een toegekend RIF-project.
-
-De voortgangsrapportage geeft inzicht in de inhoudelijke en financiële voortgang van een toegekend RIF-project.
-
-Deze regeling zal met de bijlagen alsmede de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 32a. Afwijkingen subsidieverplichtingen wegens COVID-19
 
 1. Indien het bevoegd gezag van de aanvragende onderwijsinstelling gedurende de projectperiode aannemelijk maakt dat zij door de uitbraak van COVID-19 of de maatregelen ter bestrijding ervan redelijkerwijs niet in staat zal zijn om aan alle subsidieverplichtingen voortvloeiend uit deze regeling te voldoen, kan de Minister op verzoek van dat bevoegd gezag besluiten:
@@ -629,24 +560,6 @@ Deze regeling zal met de bijlagen alsmede de toelichting in de Staatscourant wor
 4. Een verzoek als bedoeld in het derde lid dient binnen de periode als bedoeld in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=4&artikel=29&z=2023-01-01&g=2023-01-01), te worden ingediend. De Minister neemt binnen tien weken een besluit op dit verzoek.
 
 5. De Minister kan tevens ambtshalve besluiten tot tussentijdse beëindiging van de subsidieverlening, bedoeld in het eerste lid, onder b of c.
-
-## Bijlage 1. behorende bij [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3&artikel=21&z=2020-11-25&g=2020-11-25), van de Regeling regionaal investeringsfonds mbo 2019 –2022
-
-### Beoordelingskader voor starters
-
-De subsidie voor starters is bedoeld voor nieuwe projecten. Het is niet bedoeld voor projecten die voortkomen uit eerder vanuit het RIF gesubsidieerde projecten.
-
-### Beoordelingskader voor opschalers
-
-De subsidie voor opschalers is bedoeld voor projecten die al eerder subsidie hebben ontvangen.
-
-## Bijlage 2. behorende bij [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3&artikel=22&z=2020-11-25&g=2020-11-25), van de Regeling regionaal investeringsfonds mbo 2019–2022
-
-### Beoordelingskader Voortgangsrapportage
-
-De voortgangsrapportage geeft inzicht in de inhoudelijke en financiële voortgang van een toegekend RIF-project.
-
-Deze regeling zal met de bijlagen alsmede de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 32b. Aanvullingen subsidieverplichtingen wegens COVID-19
 
@@ -674,20 +587,18 @@ Deze regeling zal met de bijlagen alsmede de toelichting in de Staatscourant wor
 
 4. Indien de uitbraak van COVID-19 of de maatregelen ter bestrijding ervan grote invloed op de doelrealisatie van het project heeft gehad, beschrijft het bevoegd gezag van de onderwijsinstelling in aanvulling op de onderdelen genoemd in [artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=4&artikel=29&z=2023-01-01&g=2023-01-01), in de eindrapportage waaruit die invloed heeft bestaan en welke maatregelen zijn genomen om een goede doelrealisatie desondanks zoveel mogelijk te waarborgen. Het bevoegd gezag kan daarbij een verzoek doen als bedoeld in [artikel 32a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=5&artikel=32a&z=2023-01-01&g=2023-01-01).
 
-## Bijlage 1. behorende bij [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3&artikel=21&z=2023-01-01&g=2023-01-01), van de Regeling regionaal investeringsfonds mbo 2019 –2022
+##### Artikel 33. Overgangsbepalingen
 
-### Beoordelingskader voor starters
+1. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=2&artikel=15&z=2023-01-01&g=2023-01-01), is niet van toepassing op de eerste aanvraagperiode van het kalenderjaar 2019.
 
-### Beoordelingskader voor opschalers
+2. De aanvragers die een aanvraag hebben ingediend op grond van [artikel 11, eerste lid, van de Regeling regionaal investeringsfonds mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0035054&artikel=11), maar waarvan de aanvraag eenmaal is afgewezen, worden in de gelegenheid gesteld de aanvraag nog eenmaal in te dienen op grond van [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=2&artikel=8&z=2023-01-01&g=2023-01-01).
 
-Om als opschaler voor subsidie van het RIF in aanmerking te komen geldt dat:
+##### Artikel 34. Inwerkingtreding en einddatum
 
-## Bijlage 2. behorende bij [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3&artikel=22&z=2023-01-01&g=2023-01-01), van de Regeling regionaal investeringsfonds mbo 2019–2022
+1. Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-### Toelichting vooraf
+2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verstrekt.
 
-Uit de voortgangsrapportage moet duidelijk blijken wat de verschillen zijn tussen de voorgenomen activiteiten en beoogde resultaten (vermeld in het activiteitenplan) en de feitelijke realisatie tot nu toe (terugblik), welke mogelijkheden voor versterking men ziet en welke bijstellingen men voor ogen heeft (vooruitblik). Dit kan leiden tot een aangepast activiteitenplan, een aangepaste meerjarenbegroting en een actualisatie van de wijze waarop het project wordt verduurzaamd. Van belang is dat deze terugblik en vooruitblik geschiedt in overleg tussen de partners in het samenwerkingsverband. Vandaar dat een zelfevaluatie onderdeel uitmaakt van de voortgangsrapportage.
+##### Artikel 35. Citeertitel
 
-N.B. Indien de uitbraak van COVID-19 of de maatregelen ter bestrijding ervan van grote invloed op de voortgang van het project heeft, dient het bevoegd gezag van de aanvragende onderwijsinstelling te beschrijven waaruit die invloed bestaat, welke maatregelen zijn of worden genomen om de voortgang van het project desondanks zoveel mogelijk te waarborgen en eventueel welke onzekerheden er daarbij zijn. Als het bevoegd gezag een dergelijke beschrijving heeft gegeven, kan de beoordelingscommissie dit meewegen in de beoordeling van bovenstaande criteria. Daarbij kan de beoordelingscommissie ook rekening houden met de mogelijkheden van de Minister, bedoeld in [artikel 32a, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=5&artikel=32a&z=2023-01-01&g=2023-01-01).
-
-Deze regeling zal met de bijlagen alsmede de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling regionaal investeringsfonds mbo 2019–2022.

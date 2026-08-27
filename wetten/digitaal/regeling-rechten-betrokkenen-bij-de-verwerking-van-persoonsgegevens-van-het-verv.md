@@ -1,40 +1,17 @@
 ---
 title: "Regeling rechten betrokkenen bij de verwerking van persoonsgegevens van het Vervangingsfonds en Participatiefonds"
 identifier: "BWBR0040871"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-05-04"
-last_updated: "2018-05-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040871"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "14598663"
-version_id: "24997782"
-internal_id: "C35754191"
-label_id: "14552374"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040871/2018-05-04/0"
-intitule_bron: "Stcrt.2018-24597"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-05-03"
-intitule_in_force: "2018-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-24597"
-original_published_date: "2018-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-24597"
-entry_into_force_date: "2018-05-04"
-jci_1_3: "jci1.3:c:BWBR0040871&z=2018-05-04&g=2018-05-04"
-jci_1_0: "1.0:c:BWBR0040871&g=2018-05-04"
-citeertitel_status: "officieel"
-entry_into_force: "2018-05-04"
+publicatiedatum: 2018-05-04
+laatste_update: 2018-05-04
+status: geldig
+toestand: 2018-05-04
+bron: "https://wetten.overheid.nl/BWBR0040871"
+opgehaald: 2026-08-27
 ---
+
 # Regeling rechten betrokkenen bij de verwerking van persoonsgegevens van het Vervangingsfonds en Participatiefonds
-
-Gelet op Hoofdstuk III, artikel 15 t/m 21 Algemene Verordening Gegevensbescherming;
-
-Besluiten de volgende regeling vast te stellen:
 
 #### § 1. Definities
 
@@ -44,45 +21,45 @@ Besluiten de volgende regeling vast te stellen:
 
 2. In deze regeling wordt verstaan onder:
 
-- a. **AVG:** de Algemene Verordening Gegevensbescherming;
+- a. *AVG:* de Algemene Verordening Gegevensbescherming;
 
-- b. **Vervangingsfonds:** de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs als bedoeld in [artikel 183 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) dan wel [artikel 169 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169);
+- b. *Vervangingsfonds:* de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs als bedoeld in [artikel 183 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) dan wel [artikel 169 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169);
 
-- c. **Participatiefonds:** de Stichting Participatiefonds voor het Onderwijs als bedoeld in [artikel 184 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=184) dan wel [artikel 170 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=170);
+- c. *Participatiefonds:* de Stichting Participatiefonds voor het Onderwijs als bedoeld in [artikel 184 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=184) dan wel [artikel 170 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=170);
 
-- d. **persoonsgegeven:** alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon; als identificeerbaar wordt beschouwd een natuurlijke persoon die direct of indirect kan worden geïdentificeerd, met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of van een of meer elementen die kenmerkend zijn voor de fysieke, fysiologische, genetische, psychische, economische, culturele of sociale identiteit van die natuurlijke persoon;
+- d. *persoonsgegeven:* alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon; als identificeerbaar wordt beschouwd een natuurlijke persoon die direct of indirect kan worden geïdentificeerd, met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of van een of meer elementen die kenmerkend zijn voor de fysieke, fysiologische, genetische, psychische, economische, culturele of sociale identiteit van die natuurlijke persoon;
 
-- e. **verwerken van persoonsgegevens:** een bewerking of een geheel van bewerkingen met betrekking tot persoonsgegevens of een geheel van persoonsgegevens, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van gegevens;
+- e. *verwerken van persoonsgegevens:* een bewerking of een geheel van bewerkingen met betrekking tot persoonsgegevens of een geheel van persoonsgegevens, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van gegevens;
 
-- f. **betrokkene:** degene op wie een persoonsgegeven betrekking heeft;
+- f. *betrokkene:* degene op wie een persoonsgegeven betrekking heeft;
 
-- g. **verwerkingsverantwoordelijke:** een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt, voor deze regeling zijnde het Vervangingsfonds en/of het Participatiefonds;
+- g. *verwerkingsverantwoordelijke:* een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt, voor deze regeling zijnde het Vervangingsfonds en/of het Participatiefonds;
 
-- h. **verzoek om inzage:** een verzoek van of namens betrokkene om aan verzoeker mede te delen of, en zo ja welke, de betrokkene betreffende persoonsgegevens worden verwerkt, conform artikel 15 AVG;
+- h. *verzoek om inzage:* een verzoek van of namens betrokkene om aan verzoeker mede te delen of, en zo ja welke, de betrokkene betreffende persoonsgegevens worden verwerkt, conform artikel 15 AVG;
 
-- i. **verzoek om rectificatie:** een verzoek van of namens betrokkene om, conform artikel 16 AVG, persoonsgegevens van betrokkene te verbeteren of aan te vullen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden van de verwerking onvolledig of niet ter zake dienend zijn dan wel anderszins in strijd met een wettelijk voorschrift worden verwerkt;
+- i. *verzoek om rectificatie:* een verzoek van of namens betrokkene om, conform artikel 16 AVG, persoonsgegevens van betrokkene te verbeteren of aan te vullen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden van de verwerking onvolledig of niet ter zake dienend zijn dan wel anderszins in strijd met een wettelijk voorschrift worden verwerkt;
 
-- j. **verzoek om wissing:** een verzoek van of namens betrokkene om, conform artikel 17 AVG, persoonsgegevens van betrokkene te wissen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden van de verwerking niet ter zake dienend zijn dan wel anderszins in strijd met een wettelijk voorschrift worden verwerkt;
+- j. *verzoek om wissing:* een verzoek van of namens betrokkene om, conform artikel 17 AVG, persoonsgegevens van betrokkene te wissen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden van de verwerking niet ter zake dienend zijn dan wel anderszins in strijd met een wettelijk voorschrift worden verwerkt;
 
-- k. **verzoek om beperking:** een verzoek van of namens betrokkene om, conform artikel 18 AVG, persoonsgegevens van betrokkene af te schermen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden niet ter zake dienend zijn, dan wel anderszins in strijd met een wettelijk voorschrift worden verwerkt;
+- k. *verzoek om beperking:* een verzoek van of namens betrokkene om, conform artikel 18 AVG, persoonsgegevens van betrokkene af te schermen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden niet ter zake dienend zijn, dan wel anderszins in strijd met een wettelijk voorschrift worden verwerkt;
 
-- l. **verzoek om overdracht:** een verzoek van of namens betrokkene om, conform artikel 20 AVG, zijn persoonsgegevens te verkrijgen in een gestructureerde, gangbare vorm en/of het verzoek van of namens betrokkene om die gegevens aan een andere verwerkingsverwerkingsverantwoordelijke over te dragen;
+- l. *verzoek om overdracht:* een verzoek van of namens betrokkene om, conform artikel 20 AVG, zijn persoonsgegevens te verkrijgen in een gestructureerde, gangbare vorm en/of het verzoek van of namens betrokkene om die gegevens aan een andere verwerkingsverwerkingsverantwoordelijke over te dragen;
 
-- m. **bezwaar:** mededeling van betrokkene, conform artikel 21 AVG, dat hij bezwaar maakt tegen de verwerking van hem betreffende persoonsgegevens;
+- m. *bezwaar:* mededeling van betrokkene, conform artikel 21 AVG, dat hij bezwaar maakt tegen de verwerking van hem betreffende persoonsgegevens;
 
-- n. **verzoeker:** degene die een verzoek om inzage, rectificatie, wissing, beperking of overdracht indient en/of bezwaar maakt tegen de verwerking van hem betreffende persoonsgegevens bij het Vervangingsfonds dan wel het Participatiefonds;
+- n. *verzoeker:* degene die een verzoek om inzage, rectificatie, wissing, beperking of overdracht indient en/of bezwaar maakt tegen de verwerking van hem betreffende persoonsgegevens bij het Vervangingsfonds dan wel het Participatiefonds;
 
-- o. **legitimatiebewijs:** een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
+- o. *legitimatiebewijs:* een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
 
-- p. **derde:** iedere natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan, niet zijnde de betrokkene, het Vervangingsfonds, het Participatiefonds, de verwerker, of enig persoon die onder rechtstreeks gezag van het Vervangingsfonds dan wel het Participatiefonds of de verwerker gemachtigd is om persoonsgegevens te verwerken;
+- p. *derde:* iedere natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan, niet zijnde de betrokkene, het Vervangingsfonds, het Participatiefonds, de verwerker, of enig persoon die onder rechtstreeks gezag van het Vervangingsfonds dan wel het Participatiefonds of de verwerker gemachtigd is om persoonsgegevens te verwerken;
 
-- q. **toestemming:** elke vrije, specifieke, geïnformeerde en ondubbelzinnige wilsuiting waarmee de betrokkene door middel van een verklaring of een ondubbelzinnige actieve handeling hem betreffende verwerking van persoonsgegevens aanvaardt;
+- q. *toestemming:* elke vrije, specifieke, geïnformeerde en ondubbelzinnige wilsuiting waarmee de betrokkene door middel van een verklaring of een ondubbelzinnige actieve handeling hem betreffende verwerking van persoonsgegevens aanvaardt;
 
-- r. **genetische gegevens:** persoonsgegevens die verband houden met de overgeërfde of verworven genetische kenmerken van een natuurlijke persoon die unieke informatie verschaffen over de fysiologie of de gezondheid van die natuurlijke persoon en die met name voortkomen uit een analyse van een biologisch monster van die natuurlijke persoon;
+- r. *genetische gegevens:* persoonsgegevens die verband houden met de overgeërfde of verworven genetische kenmerken van een natuurlijke persoon die unieke informatie verschaffen over de fysiologie of de gezondheid van die natuurlijke persoon en die met name voortkomen uit een analyse van een biologisch monster van die natuurlijke persoon;
 
-- s. **gegevens over gezondheid:** persoonsgegevens die verband houden met de fysieke of mentale gezondheid van een natuurlijke persoon, waaronder gegevens over verleende gezondheidsdiensten waarmee informatie over zijn gezondheidstoestand wordt gegeven;
+- s. *gegevens over gezondheid:* persoonsgegevens die verband houden met de fysieke of mentale gezondheid van een natuurlijke persoon, waaronder gegevens over verleende gezondheidsdiensten waarmee informatie over zijn gezondheidstoestand wordt gegeven;
 
-- t. **profilering:** elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen.
+- t. *profilering:* elke vorm van geautomatiseerde verwerking van persoonsgegevens waarbij aan de hand van persoonsgegevens bepaalde persoonlijke aspecten van een natuurlijke persoon worden geëvalueerd, met name met de bedoeling zijn beroepsprestaties, economische situatie, gezondheid, persoonlijke voorkeuren, interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen te analyseren of te voorspellen.
 
 #### § 2. Indiening en in behandeling neming verzoeken
 
@@ -148,15 +125,15 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 - b. een omschrijving van:
 
-- •. het doel of de doeleinden van de verwerking;
+   - • het doel of de doeleinden van de verwerking;
 
-- •. de categorieën van gegevens waarop de verwerking betrekking heeft;
+   - • de categorieën van gegevens waarop de verwerking betrekking heeft;
 
-- •. de ontvangers of categorieën ontvangers;
+   - • de ontvangers of categorieën ontvangers;
 
-- •. de periode gedurende welke de persoonsgegevens naar verwachting zullen worden opgeslagen, of de criteria om die termijn te bepalen;
+   - • de periode gedurende welke de persoonsgegevens naar verwachting zullen worden opgeslagen, of de criteria om die termijn te bepalen;
 
-- •. de mededeling dat betrokkene het recht heeft om te verzoeken de gegevens te rectificeren of wissen, of dat de verwerking van hem betreffende gegevens wordt beperkt, alsmede het recht tegen die verwerking bezwaar te maken;
+   - • de mededeling dat betrokkene het recht heeft om te verzoeken de gegevens te rectificeren of wissen, of dat de verwerking van hem betreffende gegevens wordt beperkt, alsmede het recht tegen die verwerking bezwaar te maken;
 
 - c. dat de betrokkene het recht heeft om een klacht in te dienen bij de Autoriteit Persoonsgegevens;
 

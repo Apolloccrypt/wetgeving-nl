@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Financiën, van 9 mei 2018, nr. 2018-69785, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) jongeren met afstand tot de arbeidsmarkt (Instellingsbesluit werkgroep IBO Jongeren met afstand tot de arbeidsmarkt)"
+citeertitel: "Instellingsbesluit Werkgroep IBO jongeren met afstand tot de arbeidsmark"
 identifier: "BWBR0040923"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-05-24"
-last_updated: "2018-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040923"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "14613383"
-version_id: "25021292"
-internal_id: "C35785671"
-label_id: "14566864"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040923/2018-05-24/0"
-intitule_bron: "Stcrt.2018-28100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-09"
-intitule_published: "2018-05-23"
-intitule_in_force: "2018-05-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-28100"
-original_signed_date: "2018-05-09"
-original_published_date: "2018-05-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-28100"
-entry_into_force_date: "2018-05-24"
-jci_1_3: "jci1.3:c:BWBR0040923&z=2018-05-24&g=2018-05-24"
-jci_1_0: "1.0:c:BWBR0040923&g=2018-05-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Werkgroep IBO jongeren met afstand tot de arbeidsmark"
-signed_date: "2018-05-09"
-entry_into_force: "2018-05-24"
+publicatiedatum: 2018-05-24
+laatste_update: 2018-05-24
+status: geldig
+toestand: 2018-05-24
+bron: "https://wetten.overheid.nl/BWBR0040923"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Financiën, van 9 mei 2018, nr. 2018-69785, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) jongeren met afstand tot de arbeidsmarkt (Instellingsbesluit werkgroep IBO Jongeren met afstand tot de arbeidsmarkt)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Financiën;
+- a. *minister:* Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040923&artikel=2&z=2018-05-24&g=2018-05-24).
+- b. *werkgroep:* werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040923&artikel=2&z=2018-05-24&g=2018-05-24).
 
 ##### Artikel 2. Instelling en taak
 
@@ -64,23 +38,23 @@ In dit besluit wordt verstaan onder:
 
 3. Tot leden van de werkgroep worden benoemd:
 
-- –. mw. ir. M.J. Smit (Ministerie van Volksgezondheid, Welzijn en Sport)
+- – mw. ir. M.J. Smit (Ministerie van Volksgezondheid, Welzijn en Sport)
 
-- –. mw. drs. J. van den Bout (Ministerie van Sociale Zaken en Werkgelegenheid)
+- – mw. drs. J. van den Bout (Ministerie van Sociale Zaken en Werkgelegenheid)
 
-- –. mw. A.N. de Witte MSc. (Ministerie van Financiën)
+- – mw. A.N. de Witte MSc. (Ministerie van Financiën)
 
-- –. mw. drs. I.M. Jansen (Ministerie van Algemene Zaken)
+- – mw. drs. I.M. Jansen (Ministerie van Algemene Zaken)
 
-- –. mw. mr. drs. I.J. Vossenaar MBA (Ministerie van Onderwijs Cultuur en Wetenschap)
+- – mw. mr. drs. I.J. Vossenaar MBA (Ministerie van Onderwijs Cultuur en Wetenschap)
 
-- –. mw. L.P.M. Spoelman (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties)
+- – mw. L.P.M. Spoelman (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties)
 
-- –. mw. mr. L.M.P. de Bie (Ministerie van Justitie en Veiligheid)
+- – mw. mr. L.M.P. de Bie (Ministerie van Justitie en Veiligheid)
 
-- –. mw. dr. ir. D. Lanser (Centraal Planbureau)
+- – mw. dr. ir. D. Lanser (Centraal Planbureau)
 
-- –. dhr. dr. R. Maslowski (Sociaal en Cultureel Planbureau)
+- – dhr. dr. R. Maslowski (Sociaal en Cultureel Planbureau)
 
 4. De leden van de werkgroep werkzaam voor de overheid kunnen bij afwezigheid of verandering van baan vervangen worden door een collega van dezelfde werkgever.
 
@@ -121,5 +95,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep IBO jongeren met afstand tot de arbeidsmarkt.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

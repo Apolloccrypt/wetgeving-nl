@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Financiën, van 5 december 2018 nr. 2018-2059995, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Internationalisering van het onderwijs (Instellingsbesluit werkgroep IBO Internationalisering van het onderwijs)"
+citeertitel: "Instellingsbesluit Werkgroep IBO Internationalisering van het onderwijs"
 identifier: "BWBR0041674"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-12-15"
-last_updated: "2018-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041674"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14903053"
-version_id: "25498002"
-internal_id: "C36389731"
-label_id: "14854374"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041674/2018-12-15/0"
-intitule_bron: "Stcrt.2018-70319"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-05"
-intitule_published: "2018-12-14"
-intitule_in_force: "2018-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-70319"
-original_signed_date: "2018-12-05"
-original_published_date: "2018-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-70319"
-entry_into_force_date: "2018-12-15"
-jci_1_3: "jci1.3:c:BWBR0041674&z=2018-12-15&g=2018-12-15"
-jci_1_0: "1.0:c:BWBR0041674&g=2018-12-15"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Werkgroep IBO Internationalisering van het onderwijs"
-signed_date: "2018-12-05"
-entry_into_force: "2018-12-15"
+publicatiedatum: 2018-12-15
+laatste_update: 2018-12-15
+status: geldig
+toestand: 2018-12-15
+bron: "https://wetten.overheid.nl/BWBR0041674"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Financiën, van 5 december 2018 nr. 2018-2059995, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Internationalisering van het onderwijs (Instellingsbesluit werkgroep IBO Internationalisering van het onderwijs)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Financiën;
+- a. *minister:* Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041674&artikel=2&z=2018-12-15&g=2018-12-15).
+- b. *werkgroep:* werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041674&artikel=2&z=2018-12-15&g=2018-12-15).
 
 ##### Artikel 2. Instelling en taak
 
@@ -64,19 +38,19 @@ In dit besluit wordt verstaan onder:
 
 3. Tot leden van de werkgroep worden benoemd:
 
-- –. dhr. drs. G.E. Beekhuis (Ministerie van Financiën)
+- – dhr. drs. G.E. Beekhuis (Ministerie van Financiën)
 
-- –. mw. drs. I.M. Jansen (Ministerie van Algemene Zaken)
+- – mw. drs. I.M. Jansen (Ministerie van Algemene Zaken)
 
-- –. dhr. drs. J.P. Ederveen (Ministerie van Economische Zaken en Klimaat)
+- – dhr. drs. J.P. Ederveen (Ministerie van Economische Zaken en Klimaat)
 
-- –. mw. drs. J. van den Bout (Ministerie van Sociale Zaken en Werkgelegenheid)
+- – mw. drs. J. van den Bout (Ministerie van Sociale Zaken en Werkgelegenheid)
 
-- –. dhr. drs. F.A. Hofman (Ministerie van Onderwijs, Cultuur en Wetenschap)
+- – dhr. drs. F.A. Hofman (Ministerie van Onderwijs, Cultuur en Wetenschap)
 
-- –. dhr. drs. L.J. Herweijer (Sociaal Cultureel Planbureau)
+- – dhr. drs. L.J. Herweijer (Sociaal Cultureel Planbureau)
 
-- –. mw. dr. J.A. Bolhaar (Centraal Planbureau)
+- – mw. dr. J.A. Bolhaar (Centraal Planbureau)
 
 4. De leden van de werkgroep werkzaam voor de overheid kunnen bij afwezigheid of verandering van baan vervangen worden door een collega van dezelfde werkgever.
 
@@ -117,5 +91,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep IBO Internationalisering van het onderwijs.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

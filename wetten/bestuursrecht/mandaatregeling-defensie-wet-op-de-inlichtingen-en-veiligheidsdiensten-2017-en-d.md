@@ -1,44 +1,18 @@
 ---
 title: "Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2017 en Wet veiligheidsonderzoeken"
+citeertitel: "Mandaatregeling Defensie Wet op de inlichtingen en veiligheidsdiensten 2017 en de Wet veiligheidsonderzoeken"
 identifier: "BWBR0041001"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041001"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14632053"
-version_id: "25055772"
-internal_id: "C35833881"
-label_id: "14585124"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041001/2026-04-01/0"
-intitule_bron: "Stcrt.2018-32330"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-04"
-intitule_published: "2018-06-11"
-intitule_in_force: "2018-06-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-32330"
-original_signed_date: "2018-06-04"
-original_published_date: "2018-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-32330"
-entry_into_force_date: "2018-06-12"
-jci_1_3: "jci1.3:c:BWBR0041001&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0041001&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Mandaatregeling Defensie Wet op de inlichtingen en veiligheidsdiensten 2017 en de Wet veiligheidsonderzoeken"
-signed_date: "2018-06-04"
-entry_into_force: "2018-06-12"
+publicatiedatum: 2018-06-12
+laatste_update: 2026-04-01
+status: geldig
+toestand: 2026-04-01
+bron: "https://wetten.overheid.nl/BWBR0041001"
+opgehaald: 2026-08-27
 ---
+
 # Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2017 en Wet veiligheidsonderzoeken
-
-Gelet op het bepaalde in de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) en de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,19 +20,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Wiv:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
+- a. *Wiv:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- b. **Wvo:** [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
+- b. *Wvo:*
+ [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
 
-- c. **Minister:** Minister van Defensie;
+- c. *Minister:* Minister van Defensie;
 
-- d. **MIVD:** Militaire Inlichtingen- en Veiligheidsdienst;
+- d. *MIVD:* Militaire Inlichtingen- en Veiligheidsdienst;
 
-- e. **directeur van de MIVD:** Hoofd van de Militaire Inlichtingen- en Veiligheidsdienst;
+- e. *directeur van de MIVD:* Hoofd van de Militaire Inlichtingen- en Veiligheidsdienst;
 
-- f. **mandaat:** bevoegdheid om namens de Minister besluiten te nemen en stukken vast te stellen en uitgaande stukken te ondertekenen;
+- f. *mandaat:* bevoegdheid om namens de Minister besluiten te nemen en stukken vast te stellen en uitgaande stukken te ondertekenen;
 
-- g. **machtiging:** de bevoegdheid om namens de Minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke handeling zijn.
+- g. *machtiging:* de bevoegdheid om namens de Minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke handeling zijn.
 
 #### Paragraaf 2. Mandaat secretaris-generaal
 
@@ -76,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aan de plaatsvervangend secretaris-generaal ten aanzien van de bevoegdheid, bedoeld in [artikel 2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01).
 
-#### Paragraaf 3. Mandaat [Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277)
+#### Paragraaf 3. Mandaat Wvo
 
 ##### Artikel 4. Mandaat directeur MIVD
 
@@ -120,7 +96,7 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 4. Bij afwezigheid van een persoon, bedoeld in het eerste, tweede of derde lid, treedt diens plaatsvervanger voor de duur van de afwezigheid of verhindering in diens plaats.
 
-#### Paragraaf 4. Mandaat [Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896)
+#### Paragraaf 4. Mandaat Wiv
 
 ##### Artikel 6. Mandaat directeur MIVD algemene en bijzondere bevoegdheden, uitbrengen van verslag omtrent uitoefening enkele bijzondere bevoegdheden en nemen van primaire besluiten ten aanzien van aanvragen kennisneming persoonsgegevens en andere gegevens
 
@@ -146,9 +122,9 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 - c. [artikel 41, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=41), tenzij:
 
-- 1°. de natuurlijke persoon belast wordt met het verrichten van handelingen die tot gevolg hebben dat medewerking wordt verleend aan het plegen van een strafbaar feit dan wel dat een strafbaar feit wordt gepleegd, of
+   - 1°. de natuurlijke persoon belast wordt met het verrichten van handelingen die tot gevolg hebben dat medewerking wordt verleend aan het plegen van een strafbaar feit dan wel dat een strafbaar feit wordt gepleegd, of
 
-- 2°. de toestemming in het concrete geval voor de eerste keer wordt verleend.
+   - 2°. de toestemming in het concrete geval voor de eerste keer wordt verleend.
 
 - d. [artikel 42, eerste lid, onder a en b, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=42), tenzij de toestemming in het concrete geval voor de eerste keer wordt verleend;
 
@@ -252,10 +228,8 @@ De [Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2002
 
 ##### Artikel 16. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2018.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2018.
 
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Mandaatregeling Defensie Wet op de inlichtingen en veiligheidsdiensten 2017 en de Wet veiligheidsonderzoeken.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

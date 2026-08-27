@@ -1,50 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 16 april 2018, nr. 201801/KPCN/18, strekkende tot aanwijzing van buitengewoon agenten van politie bij de Belastingdienst/Caribisch Nederland"
+citeertitel: "Besluit buitengewone agenten van politie Belastingdienst Caribisch Nederland BES 2018"
 identifier: "BWBR0040847"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2018-04-26"
-last_updated: "2018-04-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040847"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "14594823"
-version_id: "24990652"
-internal_id: "C35739001"
-label_id: "14548414"
-dtd_version: "2.0"
-original_entry_into_force: "2018-04-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040847/2018-04-26/0"
-intitule_bron: "Stcrt.2018-22997"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-16"
-intitule_published: "2018-04-25"
-intitule_in_force: "2018-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-22997"
-original_signed_date: "2018-04-16"
-original_published_date: "2018-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-22997"
-entry_into_force_date: "2018-04-26"
-jci_1_3: "jci1.3:c:BWBR0040847&z=2018-04-26&g=2018-04-26"
-jci_1_0: "1.0:c:BWBR0040847&g=2018-04-26"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewone agenten van politie Belastingdienst Caribisch Nederland BES 2018"
-signed_date: "2018-04-16"
-entry_into_force: "2018-04-26"
+publicatiedatum: 2018-04-26
+laatste_update: 2018-04-26
+status: geldig
+toestand: 2018-04-26
+bron: "https://wetten.overheid.nl/BWBR0040847"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 16 april 2018, nr. 201801/KPCN/18, strekkende tot aanwijzing van buitengewoon agenten van politie bij de Belastingdienst/Caribisch Nederland
-
-Gelezen het verzoek van de directeur van de Belastingdienst Caribisch Nederland van 3 april 2017 en de daaropvolgende adviezen van de hoofdofficier van justitie en de korpschef van Caribisch Nederland;
-
-Gelet op:
-
-[Artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
-
-Het [Besluit buitengewone agent van politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029175);
-
-Besluit:
 
 ##### Artikel 1
 

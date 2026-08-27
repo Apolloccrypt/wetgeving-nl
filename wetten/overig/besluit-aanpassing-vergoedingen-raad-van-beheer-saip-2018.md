@@ -1,42 +1,17 @@
 ---
 title: "Besluit aanpassing vergoedingen Raad van Beheer SAIP 2018"
 identifier: "BWBR0041427"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-10"
-last_updated: "2018-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041427"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14828363"
-version_id: "25352742"
-internal_id: "C36203831"
-label_id: "14780334"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041427/2018-10-10/0"
-intitule_bron: "Stcrt.2018-56378"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-10-09"
-intitule_in_force: "2018-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-56378"
-original_published_date: "2018-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-56378"
-entry_into_force_date: "2018-10-10"
-jci_1_3: "jci1.3:c:BWBR0041427&z=2018-10-10&g=2018-10-10"
-jci_1_0: "1.0:c:BWBR0041427&g=2018-10-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-10-10"
+publicatiedatum: 2018-10-10
+laatste_update: 2018-10-10
+status: geldig
+toestand: 2018-10-10
+bron: "https://wetten.overheid.nl/BWBR0041427"
+opgehaald: 2026-08-27
 ---
+
 # Besluit aanpassing vergoedingen Raad van Beheer SAIP 2018
-
-Gelet op artikel 4, vierde lid, van de statuten van de Stichting Administratie Indonesische Pensioenen;
-
-Gelezen het verzoek van de Raad van Beheer van de Stichting Administratie Indonesische Pensioenen en artikel 5 van het besluit d.d. 9 mei 2016;
-
-BESLUITEN:
 
 ##### Artikel 1
 
@@ -95,5 +70,3 @@ Dit besluit vervangt het besluit van 16 februari 2018, kenmerk 2018-0000062304.
 ##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2018.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

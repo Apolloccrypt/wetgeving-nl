@@ -1,53 +1,50 @@
 ---
 title: "Inkomstenbelasting, doorschuifregeling met toepassing van de artikelen 3.62 of 3.63 van de Wet inkomstenbelasting 2001"
 identifier: "BWBR0040957"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-05-31"
-last_updated: "2018-05-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040957"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "14621763"
-version_id: "25038382"
-internal_id: "C35806841"
-label_id: "14575364"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040957/2018-05-31/0"
-intitule_bron: "Stcrt.2018-29948"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-14"
-intitule_published: "2018-05-30"
-intitule_in_force: "2018-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-29948"
-original_signed_date: "2018-05-14"
-original_published_date: "2018-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-29948"
-entry_into_force_date: "2018-05-31"
-jci_1_3: "jci1.3:c:BWBR0040957&z=2018-05-31&g=2018-05-31"
-jci_1_0: "1.0:c:BWBR0040957&g=2018-05-31"
-citeertitel_status: "redactioneel"
-signed_date: "2018-05-14"
-entry_into_force: "2018-05-31"
+publicatiedatum: 2018-05-31
+laatste_update: 2018-05-31
+status: geldig
+toestand: 2018-05-31
+bron: "https://wetten.overheid.nl/BWBR0040957"
+opgehaald: 2026-08-27
 ---
+
 # Inkomstenbelasting, doorschuifregeling met toepassing van de artikelen 3.62 of 3.63 van de Wet inkomstenbelasting 2001
 
-**Dit besluit betreft een samenvoeging en actualisering van de besluiten van 12 april 2002, nr. CPP2002/137M, en van 18 juli 2008, nr. CPP2008/163M,** **Stcrt. 2008, nr. 146** **, op het gebied van de geruisloze doorschuiving in de zin van de artikelen 3.62 en 3.63 van de Wet inkomstenbelasting 2001. Nieuw zijn een goedkeuring over de overdracht aan een werknemer en een opname van criteria in verband met de beoordeling van de 36-maandseis bij onderbreking van de dienstbetrekking. Daarnaast is verder uitgeschreven welke de gevolgen zijn van het arrest van de Hoge Raad van 5 januari 2007, nr. 42.683. Voor het overige is met dit besluit geen inhoudelijke wijziging beoogd.**
+*Dit besluit betreft een samenvoeging en actualisering van de besluiten van 12 april 2002, nr. CPP2002/137M, en van 18 juli 2008, nr. CPP2008/163M,*
+ *Stcrt. 2008, nr. 146*
+ *, op het gebied van de geruisloze doorschuiving in de zin van de artikelen 3.62 en 3.63 van de Wet inkomstenbelasting 2001. Nieuw zijn een goedkeuring over de overdracht aan een werknemer en een opname van criteria in verband met de beoordeling van de 36-maandseis bij onderbreking van de dienstbetrekking. Daarnaast is verder uitgeschreven welke de gevolgen zijn van het arrest van de Hoge Raad van 5 januari 2007, nr. 42.683. Voor het overige is met dit besluit geen inhoudelijke wijziging beoogd.*
 
 ### 1. Inleiding
 
-Dit besluit is een samenvoeging en actualisering van de [besluiten van 12 april 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013599), nr. CPP2002/137M, en van [18 juli 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024305), nr. CPP2008/163M, **Stcrt**. 2008, nr. 146, op het gebied van de geruisloze doorschuiving in de zin van de [artikelen 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.62) en [3.63 Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63).
+Dit besluit is een samenvoeging en actualisering van de [besluiten van 12 april 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013599), nr. CPP2002/137M, en van [18 juli 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024305), nr. CPP2008/163M, *Stcrt*. 2008, nr. 146, op het gebied van de geruisloze doorschuiving in de zin van de [artikelen 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.62) en [3.63 Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63).
 
 De volgende onderdelen in het besluit zijn nieuw, gewijzigd dan wel verduidelijkt:
+
+- − In [onderdeel 4.3](https://wetten.overheid.nl/BWBR0040957) is een nieuwe goedkeuring opgenomen over de overdracht aan een werknemer.
+
+- − In [onderdeel 5](https://wetten.overheid.nl/BWBR0040957) zijn criteria opgenomen aan de hand waarvan wordt bepaald of een uitzondering op de 36-maandseis van toepassing is.
+
+- − In [onderdeel 6](https://wetten.overheid.nl/BWBR0040957) is verder uitgeschreven wat de gevolgen zijn van het arrest van de Hoge Raad van 5 januari 2007, nr. 42.683, ECLI:NL:HR:2007:AY9928.
 
 Verder zijn er geen inhoudelijke wijzigingen beoogd ten opzichte van de hiervoor genoemde besluiten.
 
 De in dit besluit opgenomen goedkeuringen zijn gebaseerd op [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63).
 
 ### 2. Gebruikte begrippen en afkortingen
+
+- *Wet IB 1964:* Wet op de inkomstenbelasting 1964
+
+- *Wet IB 2001:*
+ [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
+
+- *Wet LB 1964:*
+ [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+
+- *URIB 2001:*
+ [Uitvoeringsregeling inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031)
 
 ### 3. Overdracht van een gedeelte van een onderneming
 
@@ -67,15 +64,25 @@ Van voortzetten is sprake als de voortzetters subjectief ondernemer worden met b
 
 Het uitsluiten van de toepassing van [artikel 3.62 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.62) acht ik, in de situatie waarin de huurder de gehele onderneming van de overleden verhuurder voortzet, gelet op doel en strekking van de regeling niet wenselijk.
 
+Goedkeuring
+
 Ik keur daarom onder voorwaarden goed dat de regeling van [artikel 3.62 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.62) op verzoek eveneens wordt toegepast in de hiervoor beschreven situatie van overgang krachtens erfrecht of huwelijksvermogensrecht van de gehele verhuurde onderneming aan de huurder van de betreffende onderneming.
 
+Voorwaarden
+
 Aan deze goedkeuring verbind ik de volgende voorwaarden:
+
+- − de verkrijger verklaart schriftelijk zich niet te beroepen op een onjuiste toepassing van [artikel 3.62 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.62) ten gevolge van de goedkeuring;
+
+- − de verkrijger rekent de vermogensbestanddelen die zijn verkregen tot zijn ondernemingsvermogen.
 
 ### 4.3. Overdracht aan medefirmanten of aan werknemer
 
 In het geval een firmant overlijdt en de overblijvende firmanten zijn onderneming krachtens een overnemings- dan wel toescheidingsbeding overnemen of krachtens verblijvingsbeding verkrijgen, kan de situatie zich voordoen dat de onderneming civielrechtelijk korte tijd eigendom is van de niet-voortzettende erfgenamen.
 
 Een vergelijkbare situatie kan zich voordoen in het geval een ondernemer overlijdt en de onderneming zal worden voortgezet door een werknemer van de onderneming. Hierdoor zou strikt genomen afrekening op grond van [artikel 3.58 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.58) moeten plaatsvinden. [Artikel 3.62 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.62) is niet van toepassing omdat de erfgenamen niet voortzetten. [Artikel 3.63 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63) kan evenmin worden toegepast omdat de voortzetter de onderneming niet verkrijgt van iemand met wie hij 36 maanden in een samenwerkingsverband heeft gezeten of binnen wiens onderneming hij gedurende 36 maanden werknemer is geweest. Het op artikel 3.63 Wet IB 2001 gebaseerde [artikel 13a, tweede lid, onderdeel f, URIB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=13a) zou in die gevallen geen betekenis hebben.
+
+Goedkeuring
 
 In bovenstaande situaties keur ik goed dat geruisloze doorschuiving met toepassing van [artikel 3.63 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63) juncto [artikel 13a, tweede lid, onderdeel f, URIB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=13a) kan plaatsvinden hoewel de onderneming van de overledene eerst tot de nalatenschap gaat behoren en niet-voortzettende erfgenamen deze leveren aan de voortzettende firmant of werknemer. Uiteraard moet aan de overige wettelijke eisen van artikel 3.63 Wet IB 2001 worden voldaan.
 
@@ -91,17 +98,29 @@ Voor seizoenbedrijven kan het hiervoor vermelde algemene kader tot ongewenste ge
 
 X en zijn echtgenote hebben een seizoenbedrijf (bijvoorbeeld een campingbedrijf). Hun twee zonen zijn vanaf 2011 tot en met 2016 in verband met de seizoengebondenheid van het werk niet het gehele jaar maar gedurende zeven maanden in dienst geweest bij dat bedrijf. De overige maanden ontvingen zij een WW-uitkering. X en zijn echtgenote wensen zich per 1 januari 2017 terug te trekken uit het bedrijf en hun onderneming geruisloos door te schuiven aan hun twee zonen. Er is niet voldaan aan de 36-maandseis omdat de zonen niet gedurende de 36 maanden die onmiddellijk voorafgaan aan het tijdstip van de overdracht als werknemer in die onderneming werkzaam zijn. Voor dit soort situaties verleen ik een goedkeuring zodat de zonen uit dit voorbeeld toch voldoen aan de 36-maandseis.
 
+Goedkeuring
+
 Aan de 36-maandseis kan geacht worden te zijn voldaan indien sprake is van een seizoenbedrijf, de overnemer in de jaren onmiddellijk voorafgaand aan de overdracht één of meer maanden per jaar als werknemer werkzaam is geweest bij de over te nemen onderneming en gedurende genoemde jaren de totale periode waarin sprake is geweest van een dienstverband bij die onderneming minimaal 36 maanden omvat.
 
 ### 5.3. Opeenvolgende dienstverbanden of deelname in samenwerkingsverband
 
 De achtergrond van de 36-maandseis in [artikel 3.63, vierde en vijfde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63) is de gewenste duurzame betrokkenheid van de overnemer bij de onderneming.
 
+Goedkeuring
+
 Voor de toepassing van [artikel 3.63, vierde en vijfde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63) worden daarom voor de bepaling van de 36-maandseis bij elkaar geteld de perioden dat een overnemer direct achtereenvolgens als medeondernemer en als werknemer verbonden is geweest aan de onderneming.
 
 ### 5.4. Onderbreking dienstbetrekking
 
 Het kan voorkomen dat de werknemer/overnemer van de onderneming in verband met een onderbreking van de dienstbetrekking, bijvoorbeeld vanwege een sabbatical, niet voldoet aan de 36-maandseis. Onder bijzondere omstandigheden ben ik bereid ervan uit te gaan dat geacht wordt wel te zijn voldaan aan de 36-maandseis. De hierna genoemde criteria spelen bij de beoordeling in onderlinge samenhang een rol:
+
+- − de duur van de onderbreking;
+
+- − de duur van de dienstbetrekking vóór de onderbreking;
+
+- − de duur van de dienstbetrekking na de onderbreking maar direct voorafgaand aan de overdracht van de onderneming;
+
+- − de reden van de onderbreking.
 
 Situaties die vergelijkbaar zijn met een sabbatical kunnen worden voorgelegd aan de Belastingdienst/Directie Vaktechniek Belastingen/Team Brieven en Beleidsbesluiten, postbus 20201, 2500 EE Den Haag.
 
@@ -119,8 +138,10 @@ Wellicht ten overvloede merk ik op dat het belanghebbenden vrijstaat situaties d
 
 De volgende besluiten zijn met ingang van inwerkingtreding van dit besluit ingetrokken:
 
+- − [Besluit van 12 april 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013599), nr. CPP2002/137M;
+
+- − [Besluit van 18 juli 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024305), nr. CPP2008/163M, Stcrt. 2008, nr. 146.
+
 ### 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

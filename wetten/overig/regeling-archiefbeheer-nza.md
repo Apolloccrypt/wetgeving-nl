@@ -1,45 +1,17 @@
 ---
 title: "Regeling archiefbeheer NZa"
 identifier: "BWBR0041538"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-11-13"
-last_updated: "2018-11-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041538"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14855343"
-version_id: "25410302"
-internal_id: "C36276221"
-label_id: "14807084"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041538/2018-11-13/0"
-intitule_bron: "Stcrt.2018-63073"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-29"
-intitule_published: "2018-11-12"
-intitule_in_force: "2018-11-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-63073"
-original_signed_date: "2018-10-29"
-original_published_date: "2018-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-63073"
-entry_into_force_date: "2018-11-13"
-jci_1_3: "jci1.3:c:BWBR0041538&z=2018-11-13&g=2018-11-13"
-jci_1_0: "1.0:c:BWBR0041538&g=2018-11-13"
-citeertitel_status: "officieel"
-signed_date: "2018-10-29"
-entry_into_force: "2018-11-13"
+publicatiedatum: 2018-11-13
+laatste_update: 2018-11-13
+status: geldig
+toestand: 2018-11-13
+bron: "https://wetten.overheid.nl/BWBR0041538"
+opgehaald: 2026-08-27
 ---
+
 # Regeling archiefbeheer NZa
-
-gelet op [artikel 41, tweede lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=41) en [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14),
-
-overwegende dat het vereist is een regeling te treffen met betrekking tot het beheer van de archiefbescheiden van de NZa, voor zover deze archiefbescheiden niet zijn overgebracht naar een archiefbewaarplaats in de zin van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376),
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -47,51 +19,53 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **archief:** geheel aan archiefbescheiden, ontvangen of opgemaakt door een persoon, groep personen of een organisatie;
+- a. *archief:* geheel aan archiefbescheiden, ontvangen of opgemaakt door een persoon, groep personen of een organisatie;
 
-- b. **archiefbescheiden:** bescheiden als bedoeld in [artikel 1, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- b. *archiefbescheiden:* bescheiden als bedoeld in [artikel 1, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- c. **archiefbewaarplaats:** bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring van archiefbescheiden aangewezen bewaarplaats, als bedoeld in [artikel 1, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbewaarplaats:* bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring van archiefbescheiden aangewezen bewaarplaats, als bedoeld in [artikel 1, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **archiefruimte:** ruimte, als bedoel in [artikel 1, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1), bestemd of aangewezen voor de bewaring van archiefbescheiden in afwachting van hun overbrenging, ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) of [13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13);
+- d. *archiefruimte:* ruimte, als bedoel in [artikel 1, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1), bestemd of aangewezen voor de bewaring van archiefbescheiden in afwachting van hun overbrenging, ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) of [13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13);
 
-- e. **architectuurplaat:** overzicht van alle applicaties met de daarin verwerkte data en documentsoorten;
+- e. *architectuurplaat:* overzicht van alle applicaties met de daarin verwerkte data en documentsoorten;
 
-- f. **dynamsich archief:** actueel archief met regelmatige raadpleegfunctie;
+- f. *dynamsich archief:* actueel archief met regelmatige raadpleegfunctie;
 
-- g. **informatiebeveiliging:** beleid van de NZa zoals neergelegd in het Informatiebeveiligingsbeleid van de NZa nader uitgewerkt in het handboek Informatiebeveiliging;
+- g. *informatiebeveiliging:* beleid van de NZa zoals neergelegd in het Informatiebeveiligingsbeleid van de NZa nader uitgewerkt in het handboek Informatiebeveiliging;
 
-- h. **informatiesysteem:** geheel van documentatie, procedures, apparatuur en programmatuur, met behulp waarvan archiefbescheiden kunnen worden opgeslagen, vervaardigd, bewerkt, verzonden, ontvangen en geraadpleegd;
+- h. *informatiesysteem:* geheel van documentatie, procedures, apparatuur en programmatuur, met behulp waarvan archiefbescheiden kunnen worden opgeslagen, vervaardigd, bewerkt, verzonden, ontvangen en geraadpleegd;
 
-- i. **metadata:** kenmerken die de karakteristieken van bepaalde gegevens beschrijven;
+- i. *metadata:* kenmerken die de karakteristieken van bepaalde gegevens beschrijven;
 
-- j. **NZa:** Zorgautoriteit, als bedoeld in [artikel 3, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- j. *NZa:* Zorgautoriteit, als bedoeld in [artikel 3, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- k. **ordeningsstructuur:** overzicht waarin bedrijfsprocessen of handelingen en archiefbescheiden systematisch worden geïdentificeerd en geordend overeenkomstig vastgestelde methoden en procedureregels;
+- k. *ordeningsstructuur:* overzicht waarin bedrijfsprocessen of handelingen en archiefbescheiden systematisch worden geïdentificeerd en geordend overeenkomstig vastgestelde methoden en procedureregels;
 
-- l. **RvB:** voorzitter en overige leden van de Raad van Bestuur van de NZa, als bedoeld in [artikel 4, eerste en tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=4);
+- l. *RvB:* voorzitter en overige leden van de Raad van Bestuur van de NZa, als bedoeld in [artikel 4, eerste en tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=4);
 
-- m. **selectielijst:** selectielijst als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+- m. *selectielijst:* selectielijst als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
 
-- n. **semi-statisch archief:** afgesloten archief met lage raadpleegfunctie;
+- n. *semi-statisch archief:* afgesloten archief met lage raadpleegfunctie;
 
-- o. **statisch archief:** naar een archiefbewaarplaats overgebracht afgesloten archief;
+- o. *statisch archief:* naar een archiefbewaarplaats overgebracht afgesloten archief;
 
-- p. **toegankelijke staat:** mate waarin een archiefbescheiden volledig, correct leesbaar en interpreteerbaar is voor daartoe bevoegde personen of systemen;
+- p. *toegankelijke staat:* mate waarin een archiefbescheiden volledig, correct leesbaar en interpreteerbaar is voor daartoe bevoegde personen of systemen;
 
-- q. **verantwoordelijke:** directeur verantwoordelijk voor de directie die informatie en bedrijfsvoering als taak heeft;
+- q. *verantwoordelijke:* directeur verantwoordelijk voor de directie die informatie en bedrijfsvoering als taak heeft;
 
-- r. **verantwoordelijk team:** team dat belast is met de archieftaken;
+- r. *verantwoordelijk team:* team dat belast is met de archieftaken;
 
-- s. **vernietiging:** bewerking van informatiedragers zodanig dat de informatie hierop niet meer te lezen of te herleiden is;
+- s. *vernietiging:* bewerking van informatiedragers zodanig dat de informatie hierop niet meer te lezen of te herleiden is;
 
-- t. **wet:** [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376);
+- t. *wet:*
+ [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376);
 
-- u. **Wmg:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- u. *Wmg:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- v. **workflow:** procesbeschrijving van behandeling van documenten;
+- v. *workflow:* procesbeschrijving van behandeling van documenten;
 
-- w. **zorgdrager:** degene die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor archiefbeschieden.
+- w. *zorgdrager:* degene die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor archiefbeschieden.
 
 ### Hoofdstuk 2. Reikwijdte en verantwoordelijkheden
 

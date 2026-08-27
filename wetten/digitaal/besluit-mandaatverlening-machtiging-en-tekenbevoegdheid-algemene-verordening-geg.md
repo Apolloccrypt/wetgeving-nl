@@ -1,43 +1,17 @@
 ---
 title: "Besluit mandaatverlening, machtiging en tekenbevoegdheid Algemene verordening gegevensbescherming SSO Organisatie en Personeel 2018"
 identifier: "BWBR0041114"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-07-06"
-last_updated: "2018-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041114"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14666753"
-version_id: "25113442"
-internal_id: "C35912401"
-label_id: "14619434"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041114/2018-07-06/0"
-intitule_bron: "Stcrt.2018-37307"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-25"
-intitule_published: "2018-07-05"
-intitule_in_force: "2018-07-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-37307"
-original_signed_date: "2018-06-25"
-original_published_date: "2018-07-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-37307"
-entry_into_force_date: "2018-07-06"
-jci_1_3: "jci1.3:c:BWBR0041114&z=2018-07-06&g=2018-07-06"
-jci_1_0: "1.0:c:BWBR0041114&g=2018-07-06"
-citeertitel_status: "officieel"
-signed_date: "2018-06-25"
-entry_into_force: "2018-07-06"
+publicatiedatum: 2018-07-06
+laatste_update: 2018-07-06
+status: geldig
+toestand: 2018-07-06
+bron: "https://wetten.overheid.nl/BWBR0041114"
+opgehaald: 2026-08-27
 ---
+
 # Besluit mandaatverlening, machtiging en tekenbevoegdheid Algemene verordening gegevensbescherming SSO Organisatie en Personeel 2018
-
-Gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037135&artikel=13) en [14 van het Organisatie- en mandaatbesluit Ministerie van Financiën 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037135&artikel=14), de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038862&artikel=5) en [6 van het Organisatie- en mandaatbesluit directoraat-generaal Belastingdienst 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038862&artikel=6), alsmede artikel 12 van de Algemene verordening gegevensbescherming en [artikel 34 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=34);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,5 +50,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit mandaatverlening, machtiging en tekenbevoegdheid Algemene verordening gegevensbescherming SSO Organisatie en Personeel 2018.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

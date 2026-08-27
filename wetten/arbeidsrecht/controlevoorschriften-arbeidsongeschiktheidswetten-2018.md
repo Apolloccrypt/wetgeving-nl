@@ -1,65 +1,43 @@
 ---
 title: "Controlevoorschriften arbeidsongeschiktheidswetten 2018"
 identifier: "BWBR0041039"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-11-18"
-last_updated: "2020-11-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041039"
+categorie: "Arbeidsrecht"
 soort: "zbo"
-stam_id: "14652163"
-version_id: "25083862"
-internal_id: "C35871871"
-label_id: "14605064"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041039/2020-11-18/0"
-intitule_bron: "Stcrt.2018-34336"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-10"
-intitule_published: "2018-06-21"
-intitule_in_force: "2018-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-34336"
-original_signed_date: "2018-04-10"
-original_published_date: "2018-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-34336"
-entry_into_force_date: "2018-06-23"
-jci_1_3: "jci1.3:c:BWBR0041039&z=2020-11-18&g=2020-11-18"
-jci_1_0: "1.0:c:BWBR0041039&g=2020-11-18"
-citeertitel_status: "officieel"
-signed_date: "2018-04-10"
-entry_into_force: "2018-06-23"
+publicatiedatum: 2018-06-23
+laatste_update: 2020-11-18
+status: geldig
+toestand: 2020-11-18
+bron: "https://wetten.overheid.nl/BWBR0041039"
+opgehaald: 2026-08-27
 ---
+
 # Controlevoorschriften arbeidsongeschiktheidswetten 2018
-
-Gelet op [artikel 27 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=27), [artikel 38 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=38), [artikel 44 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=44) en de [artikelen 2:25](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:25) en [3:36 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:36);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
+- a. *UWV:* Uitvoeringsinstituut werknemersverzekeringen;
 
-- b. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- b. *WAO:*
+ [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- c. **Wet WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+- c. *Wet WIA:*
+ [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
-- d. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
+- d. *WAZ:*
+ [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- e. **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- e. *Wajong:*
+ [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- f. **uitkering:** uitkering in de zin van [hoofdstuk II van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=II), de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7), [hoofdstuk 3 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3) of [hoofdstuk 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1a) of [3 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3) of arbeidsondersteuning in de zin van [hoofdstuk 2 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2);
+- f. *uitkering:* uitkering in de zin van [hoofdstuk II van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=II), de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7), [hoofdstuk 3 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3) of [hoofdstuk 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1a) of [3 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3) of arbeidsondersteuning in de zin van [hoofdstuk 2 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2);
 
-- g. **uitkeringsgerechtigde:** de persoon aan wie een uitkering ingevolge de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) is toegekend;
+- g. *uitkeringsgerechtigde:* de persoon aan wie een uitkering ingevolge de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) is toegekend;
 
-- h. **aanvrager:** de persoon die een uitkering als bedoeld in onder f heeft aangevraagd.
+- h. *aanvrager:* de persoon die een uitkering als bedoeld in onder f heeft aangevraagd.
 
-- i. **correspondentieadres:** een door betrokkene gekozen adres voor het ontvangen van post die afwijkt van het woonadres als bedoeld in [artikel 1.1, aanhef en onder o, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
+- i. *correspondentieadres:* een door betrokkene gekozen adres voor het ontvangen van post die afwijkt van het woonadres als bedoeld in [artikel 1.1, aanhef en onder o, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
 
 ##### Artikel 2
 
@@ -118,5 +96,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: ‘Controlevoorschriften arbeidsongeschiktheidswetten 2018.’
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

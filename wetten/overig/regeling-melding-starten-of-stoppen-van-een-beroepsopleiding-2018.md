@@ -1,60 +1,35 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 oktober 2018, nr. MBO/1336499, houdende nadere voorschriften ten aanzien van de melding tot het voornemen een beroepsopleiding te starten of te beëindigen (Regeling melding starten of stoppen van een beroepsopleiding 2018)"
+citeertitel: "Regeling melding starten of stoppen van een beroepsopleiding 2018"
 identifier: "BWBR0041525"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-09"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041525"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14852873"
-version_id: "25403322"
-internal_id: "C36267551"
-label_id: "14804444"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041525/2018-11-09/0"
-intitule_bron: "Stcrt.2018-62630"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-30"
-intitule_published: "2018-11-08"
-intitule_in_force: "2018-11-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-62630"
-original_signed_date: "2018-10-30"
-original_published_date: "2018-11-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-62630"
-entry_into_force_date: "2018-11-09"
-jci_1_3: "jci1.3:c:BWBR0041525&z=2018-11-09&g=2018-11-09"
-jci_1_0: "1.0:c:BWBR0041525&g=2018-11-09"
-citeertitel_status: "officieel"
-short_title: "Regeling melding starten of stoppen van een beroepsopleiding 2018"
-signed_date: "2018-10-30"
-entry_into_force: "2018-11-09"
+publicatiedatum: 2018-11-09
+laatste_update: 2018-11-09
+status: geldig
+toestand: 2018-11-09
+bron: "https://wetten.overheid.nl/BWBR0041525"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 oktober 2018, nr. MBO/1336499, houdende nadere voorschriften ten aanzien van de melding tot het voornemen een beroepsopleiding te starten of te beëindigen (Regeling melding starten of stoppen van een beroepsopleiding 2018)
-
-Gelet op [artikel 6.1.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-**In deze regeling wordt verstaan onder:**
+*In deze regeling wordt verstaan onder:*
 
-- **bbl-opleiding:** beroepsopleiding in de beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7);
+- *bbl-opleiding:* beroepsopleiding in de beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7);
 
-- **bol-opleiding:** beroepsopleiding in de beroepsopleidende leerweg als bedoeld in[artikel 7.2.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7);
+- *bol-opleiding:* beroepsopleiding in de beroepsopleidende leerweg als bedoeld in[artikel 7.2.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7);
 
-- **brinnummer:** registratienummer van de instelling;
+- *brinnummer:* registratienummer van de instelling;
 
-- **crebocode:** code van een kwalificatie of kwalificatiedossier, bedoeld in [artikel 6.4.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- *crebocode:* code van een kwalificatie of kwalificatiedossier, bedoeld in [artikel 6.4.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- **melding:** melding omtrent het voornemen tot starten of beëindigen van een beroepsopleiding als bedoeld in [artikel 6.1.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.2);
+- *melding:* melding omtrent het voornemen tot starten of beëindigen van een beroepsopleiding als bedoeld in [artikel 6.1.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.2);
 
-- **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- *wet:*
+ [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 ##### Artikel 2. Tijdstip melding
 
@@ -105,5 +80,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling melding starten of stoppen van een beroepsopleiding 2018.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

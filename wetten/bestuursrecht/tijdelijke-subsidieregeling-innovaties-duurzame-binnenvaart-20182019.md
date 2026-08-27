@@ -1,58 +1,33 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 12 september 2018, nr. IENW/BSK-2018/116306, houdende vaststelling van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019 (Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019)"
+citeertitel: "Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019"
 identifier: "BWBR0041347"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-10-12"
-last_updated: "2019-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041347"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14799703"
-version_id: "25303732"
-internal_id: "C36139981"
-label_id: "14751894"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041347/2019-10-12/0"
-intitule_bron: "Stcrt.2018-51849"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-12"
-intitule_published: "2018-09-17"
-intitule_in_force: "2018-09-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-51849"
-original_signed_date: "2018-09-12"
-original_published_date: "2018-09-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-51849"
-entry_into_force_date: "2018-09-18"
-jci_1_3: "jci1.3:c:BWBR0041347&z=2019-10-12&g=2019-10-12"
-jci_1_0: "1.0:c:BWBR0041347&g=2019-10-12"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019"
-signed_date: "2018-09-12"
-entry_into_force: "2018-09-18"
+publicatiedatum: 2018-09-18
+laatste_update: 2019-10-12
+status: geldig
+toestand: 2019-10-12
+bron: "https://wetten.overheid.nl/BWBR0041347"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 september 2018, nr. IENW/BSK-2018/116306, houdende vaststelling van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019 (Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019)
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [8, eerste lid en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) en [23, vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **Innovatieraad Binnenvaart:** door het bedrijfsleven ingesteld college van deskundigen uit de binnenvaartsector ten behoeve van het stimuleren van de innovatie in de binnenvaart;
+- *Innovatieraad Binnenvaart:* door het bedrijfsleven ingesteld college van deskundigen uit de binnenvaartsector ten behoeve van het stimuleren van de innovatie in de binnenvaart;
 
-- **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
+- *Kaderbesluit:*
+ [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **project:** experimenteel ontwikkelingsproject, haalbaarheidsproject gericht op experimentele ontwikkeling, haalbaarheidsproject gericht op industrieel onderzoek, industrieel onderzoeksproject, innovatiecluster- exploitatieproject of innovatiecluster- investeringsproject dat aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=2&z=2019-10-12&g=2019-10-12) voldoet;
+- *project:* experimenteel ontwikkelingsproject, haalbaarheidsproject gericht op experimentele ontwikkeling, haalbaarheidsproject gericht op industrieel onderzoek, industrieel onderzoeksproject, innovatiecluster- exploitatieproject of innovatiecluster- investeringsproject dat aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=2&z=2019-10-12&g=2019-10-12) voldoet;
 
-- **staatssteun:** steunmaatregelen als omschreven in artikel 107 van het Verdrag betreffende de werking van de Europese Unie.
+- *staatssteun:* steunmaatregelen als omschreven in artikel 107 van het Verdrag betreffende de werking van de Europese Unie.
 
 ##### Artikel 2. Doel van de subsidieregeling
 
@@ -64,17 +39,17 @@ Doel van deze regeling is het verstrekken van financiële bijdragen aan de binne
 
 2. De volgende typen projecten, die op de in het eerste lid genoemde doelstellingen zijn gericht, kunnen voor subsidie in aanmerking komen:
 
-- a. **experimenteel ontwikkelingsproject:** samenhangend geheel van activiteiten, gericht op het verwerven, combineren, vormgeven of gebruiken van bestaande wetenschappelijke, technische, zakelijke of andere relevante kennis en vaardigheden voor plannen, schema’s of ontwerpen voor nieuwe, gewijzigde of verbeterde producten, procedés of diensten, voor zover deze activiteiten geen routinematige of periodieke wijziging van bestaande producten, procedés of diensten behelzen, zelfs als die wijzigingen verbeteringen kunnen inhouden;
+- a. *experimenteel ontwikkelingsproject:* samenhangend geheel van activiteiten, gericht op het verwerven, combineren, vormgeven of gebruiken van bestaande wetenschappelijke, technische, zakelijke of andere relevante kennis en vaardigheden voor plannen, schema’s of ontwerpen voor nieuwe, gewijzigde of verbeterde producten, procedés of diensten, voor zover deze activiteiten geen routinematige of periodieke wijziging van bestaande producten, procedés of diensten behelzen, zelfs als die wijzigingen verbeteringen kunnen inhouden;
 
-- b. **haalbaarheidsproject gericht op experimentele ontwikkeling:** een systematisch opgezette en afgeronde analyse van de technische mogelijkheden voor experimentele ontwikkeling;
+- b. *haalbaarheidsproject gericht op experimentele ontwikkeling:* een systematisch opgezette en afgeronde analyse van de technische mogelijkheden voor experimentele ontwikkeling;
 
-- c. **haalbaarheidsproject gericht op industrieel onderzoek:**een systematisch opgezette en afgeronde analyse van de technische mogelijkheden voor het uitvoeren van industrieel onderzoek;
+- c. *haalbaarheidsproject gericht op industrieel onderzoek:*een systematisch opgezette en afgeronde analyse van de technische mogelijkheden voor het uitvoeren van industrieel onderzoek;
 
-- d. **industrieel onderzoeksproject:** samenhangend geheel van onderzoeksactiviteiten gericht op het opdoen van nieuwe kennis en vaardigheden met het oog op de ontwikkeling van nieuwe producten, procedés of diensten of om bestaande producten, procedés of diensten aanmerkelijk te verbeteren;
+- d. *industrieel onderzoeksproject:* samenhangend geheel van onderzoeksactiviteiten gericht op het opdoen van nieuwe kennis en vaardigheden met het oog op de ontwikkeling van nieuwe producten, procedés of diensten of om bestaande producten, procedés of diensten aanmerkelijk te verbeteren;
 
-- e. **innovatiecluster-exploitatieproject:** samenhangend geheel van activiteiten gericht op het aansturen van een innovatiecluster door de rechtspersoon die het innovatiecluster exploiteert en
+- e. *innovatiecluster-exploitatieproject:* samenhangend geheel van activiteiten gericht op het aansturen van een innovatiecluster door de rechtspersoon die het innovatiecluster exploiteert en
 
-- f. **innovatiecluster-investeringsproject:** een samenhangend geheel van activiteiten gericht op het opzetten of uitbreiden van een innovatiecluster door de rechtspersoon die het innovatiecluster exploiteert.
+- f. *innovatiecluster-investeringsproject:* een samenhangend geheel van activiteiten gericht op het opzetten of uitbreiden van een innovatiecluster door de rechtspersoon die het innovatiecluster exploiteert.
 
 ##### Artikel 4. Verdeelsleutel
 
@@ -108,17 +83,17 @@ Voor de subsidie is ten hoogste beschikbaar:
 
 - b. 50% van de volgende rechtstreeks aan de uitvoering van het project toe te rekenen kosten voor industriële onderzoeksprojecten:
 
-- 1°. loonkosten van direct bij het project betrokken personeel, waarbij het uurloon wordt berekend aan de hand van het brutoloon: loon in geld, volgens de verzamelloonstaat, ingevolge [artikel 7.2 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=7.2), te delen door 1.650 productieve uren, verhoogd met een forfaitair percentage van 20 voor de werkgeverslasten. In geval van een parttime dienstverband wordt het uurloon op voornoemde wijze berekend na omrekening van het brutoloon naar een fulltime dienstverband;
+   - 1°. loonkosten van direct bij het project betrokken personeel, waarbij het uurloon wordt berekend aan de hand van het brutoloon: loon in geld, volgens de verzamelloonstaat, ingevolge [artikel 7.2 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=7.2), te delen door 1.650 productieve uren, verhoogd met een forfaitair percentage van 20 voor de werkgeverslasten. In geval van een parttime dienstverband wordt het uurloon op voornoemde wijze berekend na omrekening van het brutoloon naar een fulltime dienstverband;
 
-- 2°. een opslag voor algemene kosten van ten hoogste 50 procent van de in het in subonderdeel 1°, bedoelde loonkosten;
+   - 2°. een opslag voor algemene kosten van ten hoogste 50 procent van de in het in subonderdeel 1°, bedoelde loonkosten;
 
-- 3°. kosten van aanschaf van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen;
+   - 3°. kosten van aanschaf van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen;
 
-- 4°. afschrijvingskosten van machines en apparatuur op basis van de technische levensduur naar rato van het gebruik voor het project gedurende de projectperiode uitgaande van de historische aanschafwaarde verminderd met de restwaarde, met dien verstande dat in geval van lease wordt uitgegaan van de contante waarde van de gedurende de projectperiode betaalde leasetermijnen naar rato van het gebruik van de machines en apparatuur voor het project onder aftrek van de in de leasetermijnen begrepen vergoedingen voor financiering en afschrijving;
+   - 4°. afschrijvingskosten van machines en apparatuur op basis van de technische levensduur naar rato van het gebruik voor het project gedurende de projectperiode uitgaande van de historische aanschafwaarde verminderd met de restwaarde, met dien verstande dat in geval van lease wordt uitgegaan van de contante waarde van de gedurende de projectperiode betaalde leasetermijnen naar rato van het gebruik van de machines en apparatuur voor het project onder aftrek van de in de leasetermijnen begrepen vergoedingen voor financiering en afschrijving;
 
-- 5°. huurkosten van machines en apparatuur naar rato van het gebruik voor het project gedurende de projectperiode;
+   - 5°. huurkosten van machines en apparatuur naar rato van het gebruik voor het project gedurende de projectperiode;
 
-- 6°. aan derden verschuldigde kosten ter zake van studies en onderzoeksactiviteiten en ter zake van de aanschaf van kennis en intellectuele eigendomsrechten alsmede ter zake van bescherming van die rechten.
+   - 6°. aan derden verschuldigde kosten ter zake van studies en onderzoeksactiviteiten en ter zake van de aanschaf van kennis en intellectuele eigendomsrechten alsmede ter zake van bescherming van die rechten.
 
 - c. 25% van rechtstreeks aan de uitvoering van het project toe te rekenen kosten als bedoeld in onderdeel b, onder 1° tot en met 6°, voor experimentele ontwikkelingsprojecten.
 
@@ -126,11 +101,11 @@ Voor de subsidie is ten hoogste beschikbaar:
 
 - e. 50% van de loon en administratiekosten voor innovatiecluster-exploitatieproject in verband met:
 
-- 1°. marketing van het cluster om nieuwe ondernemingen aan te trekken die in het cluster deelnemen;
+   - 1°. marketing van het cluster om nieuwe ondernemingen aan te trekken die in het cluster deelnemen;
 
-- 2°. beheer van de open acces-faciliteiten van het cluster;
+   - 2°. beheer van de open acces-faciliteiten van het cluster;
 
-- 3°. organisatie van opleidingsprogramma’s, workshops en conferenties om kennisdeling en netwerking tussen de clusterleden te bevorderen.
+   - 3°. organisatie van opleidingsprogramma’s, workshops en conferenties om kennisdeling en netwerking tussen de clusterleden te bevorderen.
 
 3. De steunintensiteiten voor industrieel onderzoek en experimentele ontwikkeling, respectievelijk voor haalbaarheidsstudies, kunnen worden verhoogd overeenkomstig de bepalingen van artikel 25, zesde lid, respectievelijk zevende lid, van de algemene groepsvrijstellingsverordening.
 
@@ -191,41 +166,3 @@ Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Bin
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019.
-
-## Bijlage 1. als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=9&z=2019-10-12&g=2019-10-12), van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018
-
-### Aanvraagformulier Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018
-
-Stuur het ingevulde formulier met bijlagen naar:
-
-EICB/SPB
-
-t.a.v. subsidie innovatie duurzame binnenvaart (IDB)
-
-Kantoor A2.04
-
-Vasteland 78
-
-3011 BL Rotterdam
-
-Meer informatie: www.eicb.nl/idb
-
-info@eicb.nl
-
-+31 10 7989830
-
-1. Project:
-
-2. Aanvrager/Penvoerder
-
-2.1 Contactpersoon aanvrager:
-
-2.2 Contactgegevens intermediair:
-
-2.3 Overige aanvragers:
-
-3. Ondertekening:
-
-4. Verplichte Bijlagen:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

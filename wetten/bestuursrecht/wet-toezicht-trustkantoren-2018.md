@@ -1,47 +1,18 @@
 ---
 title: "Wet van 7 november 2018, houdende regels met betrekking tot het verlenen van trustdiensten en het toezicht daarop (Wet toezicht trustkantoren 2018)"
+citeertitel: "Wet toezicht trustkantoren 2018"
 identifier: "BWBR0041583"
-country: "nl"
-rank: "wet"
-publication_date: "2025-03-01"
-last_updated: "2025-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041583"
+categorie: "Overig"
 soort: "wet"
-stam_id: "14880753"
-version_id: "25451342"
-internal_id: "C36381561"
-label_id: "14833064"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041583/2025-03-01/0"
-intitule_bron: "Stb.2018-443"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-07"
-intitule_published: "2018-11-29"
-intitule_in_force: "2018-12-14"
-intitule_status: "goed"
-original_publication: "Stb.2018-443"
-original_signed_date: "2018-11-07"
-original_published_date: "2018-11-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "34910"
-original_url_id: "stb-2018-443"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041583&z=2025-03-01&g=2025-03-01"
-jci_1_0: "1.0:c:BWBR0041583&g=2025-03-01"
-citeertitel_status: "officieel"
-short_title: "Wet toezicht trustkantoren 2018"
-signed_date: "2018-11-07"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2025-03-01
+status: geldig
+toestand: 2025-03-01
+bron: "https://wetten.overheid.nl/BWBR0041583"
+opgehaald: 2026-08-27
 ---
+
 # Wet van 7 november 2018, houdende regels met betrekking tot het verlenen van trustdiensten en het toezicht daarop (Wet toezicht trustkantoren 2018)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de regels met betrekking tot het toezicht op trustkantoren te herzien, door een uitbreiding van de normen inzake de integere en beheerste bedrijfsvoering van trustkantoren, een aanscherping van de verplichtingen inzake het verrichten van cliëntenonderzoek en het uitbreiden van het instrumentarium voor toezicht en handhaving, en daartoe de [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189) te vervangen, ten einde de integriteit van het financiële stelsel in Nederland te bevorderen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -49,87 +20,88 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **algemene verordening gegevensbescherming:** verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (PbEU 2016, 119);
+- *algemene verordening gegevensbescherming:* verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, 119);
 
-- **belastingadvies:** adviseren over de opzet, inrichting of werking van structuren van rechtspersonen en vennootschappen gericht op de toepassing van internationaal en nationaal belastingrecht;
+- *belastingadvies:* adviseren over de opzet, inrichting of werking van structuren van rechtspersonen en vennootschappen gericht op de toepassing van internationaal en nationaal belastingrecht;
 
-- **bijkantoor:** duurzaam in een andere staat dan de staat van de zetel aanwezig onderdeel zonder rechtspersoonlijkheid van een trustkantoor;
+- *bijkantoor:* duurzaam in een andere staat dan de staat van de zetel aanwezig onderdeel zonder rechtspersoonlijkheid van een trustkantoor;
 
-- **cliënt:** natuurlijke persoon, rechtspersoon of vennootschap met wie een zakelijke relatie wordt aangegaan of die een trustdienst laat verrichten;
+- *cliënt:* natuurlijke persoon, rechtspersoon of vennootschap met wie een zakelijke relatie wordt aangegaan of die een trustdienst laat verrichten;
 
-- **de Nederlandsche Bank:** De Nederlandsche Bank N.V.;
+- *de Nederlandsche Bank:* De Nederlandsche Bank N.V.;
 
-- **doelvennootschap:** rechtspersoon of vennootschap waaraan de trustdiensten, bedoeld in de onderdelen a en b van de begripsomschrijving van trustdienst, worden verleend;
+- *doelvennootschap:* rechtspersoon of vennootschap waaraan de trustdiensten, bedoeld in de onderdelen a en b van de begripsomschrijving van trustdienst, worden verleend;
 
-- **familielid van een politiek prominente persoon:** familielid van een politiek prominente persoon als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
+- *familielid van een politiek prominente persoon:* familielid van een politiek prominente persoon als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
-- **financieren van terrorisme:** gedraging strafbaar gesteld in [artikel 421, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=421);
+- *financieren van terrorisme:* gedraging strafbaar gesteld in [artikel 421, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=421);
 
-- **Financiële inlichtingen eenheid:** Financiële inlichtingen eenheid, bedoeld in [artikel 12, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12);
+- *Financiële inlichtingen eenheid:* Financiële inlichtingen eenheid, bedoeld in [artikel 12, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12);
 
-- **gekwalificeerde deelneming:** rechtstreeks of middellijk belang van ten minste tien procent van het geplaatste aandelenkapitaal of een daarmee vergelijkbaar belang, of het rechtstreeks of middellijk kunnen uitoefenen van ten minste tien procent van de stemrechten of een daarmee vergelijkbare zeggenschap;
+- *gekwalificeerde deelneming:* rechtstreeks of middellijk belang van ten minste tien procent van het geplaatste aandelenkapitaal of een daarmee vergelijkbaar belang, of het rechtstreeks of middellijk kunnen uitoefenen van ten minste tien procent van de stemrechten of een daarmee vergelijkbare zeggenschap;
 
-- **groep:** economische eenheid waarin natuurlijke personen, rechtspersonen, en vennootschappen organisatorisch zijn verbonden;
+- *groep:* economische eenheid waarin natuurlijke personen, rechtspersonen, en vennootschappen organisatorisch zijn verbonden;
 
-- **identificeren:** opgave van de identiteit laten doen;
+- *identificeren:* opgave van de identiteit laten doen;
 
-- **integriteitrisico:**
+- *integriteitrisico:*
 
-- a. risico van ontoereikende naleving van hetgeen bij of krachtens enig wettelijk voorschrift is bepaald;
+   - a. risico van ontoereikende naleving van hetgeen bij of krachtens enig wettelijk voorschrift is bepaald;
 
-- b. risico van betrokkenheid van het trustkantoor of zijn medewerkers bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad;
+   - b. risico van betrokkenheid van het trustkantoor of zijn medewerkers bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad;
 
-- **introducerende instelling:** instelling als bedoeld in [artikel 5, eerste lid, onderdeel a, onder 2° en 3°, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5) die behoort tot dezelfde groep als het trustkantoor;
+- *introducerende instelling:* instelling als bedoeld in [artikel 5, eerste lid, onderdeel a, onder 2° en 3°, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5) die behoort tot dezelfde groep als het trustkantoor;
 
-- **lidstaat:** lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
+- *lidstaat:* lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
-- **moederonderneming:** moederonderneming als bedoeld in artikel 2, negende lid, van [richtlijn 2013/34](32013L0034)/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van [Richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad en tot intrekking van [Richtlijnen 78/660/EEG](31978L0660) en [83/349/EEG](31983L0349) van de Raad (PbEU 2013, L 182);
+- *moederonderneming:* moederonderneming als bedoeld in artikel 2, negende lid, van richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van Richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182);
 
-- **Onze Minister:** Onze Minister van Financiën;
+- *Onze Minister:* Onze Minister van Financiën;
 
-- **personenvennootschap:** een maatschap als bedoeld in [artikel 1655 van Boek 7A van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1655), een vennootschap onder firma als bedoeld in [artikel 16 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=16) en een commanditaire vennootschap als bedoeld in [artikel 19 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=19), alsmede een maatschap of vennootschap naar buitenlands recht die met deze rechtsvormen vergelijkbaar is;
+- *personenvennootschap:* een maatschap als bedoeld in [artikel 1655 van Boek 7A van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1655), een vennootschap onder firma als bedoeld in [artikel 16 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=16) en een commanditaire vennootschap als bedoeld in [artikel 19 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=19), alsmede een maatschap of vennootschap naar buitenlands recht die met deze rechtsvormen vergelijkbaar is;
 
-- **persoon bekend als naaste geassocieerde van een politiek prominente persoon:** persoon bekend als naaste geassocieerde van een politiek prominente persoon als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
+- *persoon bekend als naaste geassocieerde van een politiek prominente persoon:* persoon bekend als naaste geassocieerde van een politiek prominente persoon als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
-- **persoonsgegeven:** persoonsgegeven als bedoeld in artikel 4, eerste lid, van de algemene verordening gegevensbescherming;
+- *persoonsgegeven:* persoonsgegeven als bedoeld in artikel 4, eerste lid, van de algemene verordening gegevensbescherming;
 
-- **politiek prominente persoon:** politiek prominente persoon als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
+- *politiek prominente persoon:* politiek prominente persoon als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
-- **trustdienst:**
+- *trustdienst:*
 
-- a. het optreden als bestuurder van een rechtspersoon of vennoot van een vennootschap die niet tot dezelfde groep behoort als degene die bestuurder of vennoot is ten behoeve van een cliënt;
+   - a. het optreden als bestuurder van een rechtspersoon of vennoot van een vennootschap die niet tot dezelfde groep behoort als degene die bestuurder of vennoot is ten behoeve van een cliënt;
 
-- b. natuurlijke personen, rechtspersonen of vennootschappen die een adres of postadres ter beschikking stellen, als bedoeld in de [artikelen 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=11), en [14, eerste lid, onderdeel c, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=14), aan een rechtspersoon of vennootschap die niet tot dezelfde groep behoort als het trustkantoor, indien ten minste één van de volgende aanvullende werkzaamheden wordt verricht ten behoeve van die rechtspersoon of vennootschap of ten behoeve van een tot dezelfde groep als die rechtspersoon of vennootschap behorende natuurlijke persoon, rechtspersoon of vennootschap:
+   - b. natuurlijke personen, rechtspersonen of vennootschappen die een adres of postadres ter beschikking stellen, als bedoeld in de [artikelen 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=11), en [14, eerste lid, onderdeel c, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=14), aan een rechtspersoon of vennootschap die niet tot dezelfde groep behoort als het trustkantoor, indien ten minste één van de volgende aanvullende werkzaamheden wordt verricht ten behoeve van die rechtspersoon of vennootschap of ten behoeve van een tot dezelfde groep als die rechtspersoon of vennootschap behorende natuurlijke persoon, rechtspersoon of vennootschap:
 
-- 1°. het geven van juridisch advies of het verlenen van bijstand, met uitzondering van het verrichten van receptiewerkzaamheden;
+      - 1°. het geven van juridisch advies of het verlenen van bijstand, met uitzondering van het verrichten van receptiewerkzaamheden;
 
-- 2°. het verzorgen van belastingaangiften en daarmee verband houdende werkzaamheden;
+      - 2°. het verzorgen van belastingaangiften en daarmee verband houdende werkzaamheden;
 
-- 3°. het verrichten van werkzaamheden in verband met het opstellen, beoordelen of controleren van de jaarrekening of het voeren van administratie;
+      - 3°. het verrichten van werkzaamheden in verband met het opstellen, beoordelen of controleren van de jaarrekening of het voeren van administratie;
 
-- 4°. het werven van een bestuurder voor een rechtspersoon of vennootschap;
+      - 4°. het werven van een bestuurder voor een rechtspersoon of vennootschap;
 
-- 5°. andere bij algemene maatregel van bestuur aan te wijzen aanvullende werkzaamheden;
+      - 5°. andere bij algemene maatregel van bestuur aan te wijzen aanvullende werkzaamheden;
 
-- c. het verkopen van of bemiddelen bij de verkoop van rechtspersonen;
+   - c. het verkopen van of bemiddelen bij de verkoop van rechtspersonen;
 
-- d. het zijn van een trustee in opdracht van een niet tot dezelfde groep behorende natuurlijke persoon, rechtspersoon of vennootschap;
+   - d. het zijn van een trustee in opdracht van een niet tot dezelfde groep behorende natuurlijke persoon, rechtspersoon of vennootschap;
 
-- e. andere bij algemene maatregel van bestuur aan te wijzen diensten;
+   - e. andere bij algemene maatregel van bestuur aan te wijzen diensten;
 
-- **trustkantoor:** degene die, al dan niet tezamen met andere natuurlijke personen, rechtspersonen of vennootschappen, beroeps- of bedrijfsmatig een of meer trustdiensten verleent;
+- *trustkantoor:* degene die, al dan niet tezamen met andere natuurlijke personen, rechtspersonen of vennootschappen, beroeps- of bedrijfsmatig een of meer trustdiensten verleent;
 
-- **uiteindelijk belanghebbende:** uiteindelijk belanghebbende als bedoeld in [artikel 1 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1);
+- *uiteindelijk belanghebbende:* uiteindelijk belanghebbende als bedoeld in [artikel 1 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1);
 
-- **vierde anti-witwasrichtlijn:** [richtlijn 2015/849](32015L0849) van het Europees Parlement en de Raad van 20 mei 2015 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering, tot wijziging van Verordening (EU) nr. 648/2012 van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 2005/60](32005L0060) van het Europees Parlement en de Raad en [Richtlijn 2006/70/EG](32006L0070) van de Commissie (PbEU 2015, L 141);
+- *vierde anti-witwasrichtlijn:*
+ richtlijn 2015/849 van het Europees Parlement en de Raad van 20 mei 2015 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering, tot wijziging van Verordening (EU) nr. 648/2012 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 2005/60 van het Europees Parlement en de Raad en Richtlijn 2006/70/EG van de Commissie (PbEU 2015, L 141);
 
-- **witwassen:** gedragingen strafbaar gesteld in de [artikelen 420bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis), [420bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis.1), [420ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420ter), [420quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420quater) en [420quater.1 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420quater.1);
+- *witwassen:* gedragingen strafbaar gesteld in de [artikelen 420bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis), [420bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis.1), [420ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420ter), [420quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420quater) en [420quater.1 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420quater.1);
 
-- **zakelijke relatie:** zakelijke, professionele of commerciële relatie tussen een trustkantoor en een natuurlijke persoon, een rechtspersoon of een vennootschap, die verband houdt met trustdiensten verleend door het trustkantoor en waarvan op het tijdstip dat het contact wordt gelegd, wordt aangenomen dat deze enige tijd zal duren;
+- *zakelijke relatie:* zakelijke, professionele of commerciële relatie tussen een trustkantoor en een natuurlijke persoon, een rechtspersoon of een vennootschap, die verband houdt met trustdiensten verleend door het trustkantoor en waarvan op het tijdstip dat het contact wordt gelegd, wordt aangenomen dat deze enige tijd zal duren;
 
-- **zetel:** plaats waar een trustkantoor volgens haar statuten of reglementen is gevestigd of, indien het trustkantoor geen rechtspersoon is, de plaats waar het trustkantoor zijn hoofdvestiging heeft.
+- *zetel:* plaats waar een trustkantoor volgens haar statuten of reglementen is gevestigd of, indien het trustkantoor geen rechtspersoon is, de plaats waar het trustkantoor zijn hoofdvestiging heeft.
 
-2. In deze wet en de daarop rustende bepalingen wordt onder de begrippen «trust», «trustee» en «insteller» verstaan hetgeen daaronder in het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141) wordt verstaan.
+2. In deze wet en de daarop rustende bepalingen wordt onder de begrippen «trust», «trustee» en «insteller» verstaan hetgeen daaronder in het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141) wordt verstaan.
 
 ### Hoofdstuk 2. Vergunningen
 
@@ -161,6 +133,12 @@ Vergunningen en ontheffingen, verleend ingevolge deze wet, zijn persoonlijk en n
 
 6. Het tweede lid is niet van toepassing op trustkantoren, zonder bijkantoor in Nederland, die beschikken over een vergelijkbare vergunning in een andere lidstaat en waarop toezicht wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen.
 
+##### Artikel 3a. Verbod optreden als doorstroomvennootschap
+
+1. Het is eenieder met zetel in Nederland verboden om beroeps- of bedrijfsmatig gebruik te maken van doorstroomvennootschappen ten behoeve van een cliënt.
+
+2. Onder doorstroomvennootschap wordt verstaan een rechtspersoon of vennootschap die tot dezelfde groep behoort als degene die gebruik maakt van deze rechtspersoon of vennootschap ten behoeve van een cliënt.
+
 ##### Artikel 4. Trustkantoor in aangewezen staat
 
 1. [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), is niet van toepassing op een trustkantoor dat:
@@ -177,7 +155,7 @@ Vergunningen en ontheffingen, verleend ingevolge deze wet, zijn persoonlijk en n
 
 ##### Artikel 5. Vrijstelling en ontheffing
 
-1. Bij ministeriële regeling kan geheel of gedeeltelijk vrijstelling worden verleend van [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3a&z=2025-03-01&g=2025-03-01), en [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2025-03-01&g=2025-03-01). Aan deze vrijstelling kunnen voorschriften worden verbonden.
+1. Bij ministeriële regeling kan geheel of gedeeltelijk vrijstelling worden verleend van [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3a&z=2025-03-01&g=2025-03-01), en [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2025-03-01&g=2025-03-01). Aan deze vrijstelling kunnen voorschriften worden verbonden.
 
 2. De Nederlandsche Bank kan op aanvraag een ontheffing verlenen van [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), en [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2025-03-01&g=2025-03-01), indien de aanvrager aantoont dat de specifieke situatie van een trustkantoor dat rechtvaardigt en dat de belangen die deze wet beoogt te beschermen voldoende worden gewaarborgd. Aan een ontheffing kunnen voorschriften worden verbonden en beperkingen worden gesteld. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=7&z=2025-03-01&g=2025-03-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=8&z=2025-03-01&g=2025-03-01) zijn van overeenkomstige toepassing.
 
@@ -329,13 +307,13 @@ Vergunningen en ontheffingen, verleend ingevolge deze wet, zijn persoonlijk en n
 
 - a. een integere bedrijfsuitoefening, waaronder wordt verstaan het tegengaan van:
 
-- 1°. belangenverstrengeling;
+   - 1°. belangenverstrengeling;
 
-- 2°. strafbare feiten of andere wetsovertredingen door het trustkantoor of zijn werknemers, die het vertrouwen in het trustkantoor of in de financiële markten kunnen schaden;
+   - 2°. strafbare feiten of andere wetsovertredingen door het trustkantoor of zijn werknemers, die het vertrouwen in het trustkantoor of in de financiële markten kunnen schaden;
 
-- 3°. relaties met cliënten of derden, die het vertrouwen in het trustkantoor of in de financiële markten kunnen schaden;
+   - 3°. relaties met cliënten of derden, die het vertrouwen in het trustkantoor of in de financiële markten kunnen schaden;
 
-- 4°. andere handelingen door het trustkantoor of zijn werknemers, die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in de onderneming of in de financiële markten ernstig kan worden geschaad;
+   - 4°. andere handelingen door het trustkantoor of zijn werknemers, die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in de onderneming of in de financiële markten ernstig kan worden geschaad;
 
 - b. het beheersen van bedrijfsprocessen en bedrijfsrisico’s.
 
@@ -391,7 +369,7 @@ Een trustkantoor met zetel in Nederland treft met betrekking tot gelden of gelds
 
 3. Een trustkantoor met zetel in Nederland draagt zorg voor de administratieve vastlegging van incidenten en de naar aanleiding daarvan genomen maatregelen.
 
-4. **Onder incident wordt in dit artikel verstaan:** gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van het trustkantoor.
+4. *Onder incident wordt in dit artikel verstaan:* gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van het trustkantoor.
 
 5. Bij ministeriële regeling kunnen regels worden gesteld over de informatie die een trustkantoor verstrekt aan de Nederlandsche Bank bij een melding van een incident.
 
@@ -434,6 +412,24 @@ Een trustkantoor verricht ter beheersing van integriteitrisico’s onderzoek zoa
 2. Voor zover in [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&z=2025-03-01&g=2025-03-01) is voorgeschreven dat een trustkantoor in het kader van het cliëntenonderzoek een voortdurende controle op de zakelijke relatie uitoefent, ten einde te verzekeren dat deze overeenkomt met het integriteitrisicoprofiel van de cliënt of doelvennootschap, verzekert een trustkantoor zich er voorafgaand aan het aangaan van een zakelijke relatie van dat het trustkantoor hiertoe in staat zal zijn gedurende de zakelijke relatie.
 
 3. Indien een trustkantoor met betrekking tot een zakelijke relatie niet in staat is te voldoen aan de voorschriften in dit hoofdstuk, beëindigt het trustkantoor de zakelijke relatie.
+
+##### Artikel 23a. Verbod op dienstverlening bij betrokkenheid bepaalde landen
+
+1. Het is een trustkantoor verboden een trustdienst te verlenen indien cliënten, doelvennootschappen, uiteindelijk belanghebbenden van cliënten en uiteindelijk belanghebbenden van doelvennootschappen woonachtig of gevestigd zijn of hun zetel hebben in:
+
+- a. de Russische Federatie;
+
+- b. de Republiek Belarus;
+
+- c. staten die op grond van artikel 9 van de vierde anti-witwasrichtlijn, in gedelegeerde handelingen van de Europese Commissie, zijn aangewezen als staten met een hoger risico op witwassen of financieren van terrorisme; of
+
+- d. staten die door de Raad van de Europese Unie, op grond van de Conclusies van de Raad over de criteria en het proces voor de opstelling van de EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden (PbEU 2016, C 461), zijn aangewezen als jurisdicties die niet-coöperatief zijn op belastinggebied.
+
+2. Het eerste lid is niet van toepassing voor zover de identiteit van een cliënt, doelvennootschap, uiteindelijk belanghebbende van de cliënt of uiteindelijk belanghebbende van doelvennootschap overeenkomt met een rechtspersoon of natuurlijk persoon als bedoeld in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) en de op grond van de Sanctiewet 1977 vastgestelde regelingen en besluiten met betrekking tot het financieel verkeer. Na beëindiging van de omstandigheid, bedoeld in de eerste volzin, voldoet een trustkantoor binnen drie maanden aan het eerste lid, gerekend vanaf de datum dat de omstandigheid is beëindigd.
+
+3. Het eerste lid is niet van toepassing indien de cliënt of uiteindelijk belanghebbende, bedoeld in het eerste lid, een natuurlijk persoon is die de nationaliteit bezit van een lidstaat van de Europese Unie, van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of van Zwitserland, of die in het bezit is van een verblijfsvergunning voor een van deze staten.
+
+4. Een trustkantoor voldoet binnen drie maanden aan het eerste lid, gerekend vanaf het moment waarop een land is toegevoegd aan een lijst als bedoeld in het eerste lid, onderdeel c of d.
 
 ##### Artikel 24. Verificatie van de identiteit
 
@@ -511,9 +507,9 @@ Het op grond van dit hoofdstuk vaststellen van een uiteindelijk belanghebbende h
 
 - b. indien de cliënt een rechtspersoon is:
 
-- 1°. de eigendomsstructuur en de formele zeggenschapstructuur van de cliënt vast te stellen;
+   - 1°. de eigendomsstructuur en de formele zeggenschapstructuur van de cliënt vast te stellen;
 
-- 2°. inzicht te verwerven in de feitelijke zeggenschapsstructuur van de cliënt en deze zoveel als redelijkerwijs mogelijk is met zekerheid vast te stellen; en
+   - 2°. inzicht te verwerven in de feitelijke zeggenschapsstructuur van de cliënt en deze zoveel als redelijkerwijs mogelijk is met zekerheid vast te stellen; en
 
 - c. de uiteindelijk belanghebbende van de doelvennootschap vast te stellen.
 
@@ -535,9 +531,9 @@ Het op grond van dit hoofdstuk vaststellen van een uiteindelijk belanghebbende h
 
 - f. indien de cliënt een rechtspersoon is:
 
-- 1°. de eigendomsstructuur en de formele zeggenschapsstructuur van de cliënt vast te stellen;
+   - 1°. de eigendomsstructuur en de formele zeggenschapsstructuur van de cliënt vast te stellen;
 
-- 2°. inzicht te verwerven in de feitelijke zeggenschapsstructuur van de cliënt en deze zoveel mogelijk met zekerheid vast te stellen;
+   - 2°. inzicht te verwerven in de feitelijke zeggenschapsstructuur van de cliënt en deze zoveel mogelijk met zekerheid vast te stellen;
 
 - g. vast te stellen of de natuurlijke persoon die de cliënt vertegenwoordigt daartoe bevoegd is;
 
@@ -577,9 +573,9 @@ Het op grond van dit hoofdstuk vaststellen van een uiteindelijk belanghebbende h
 
 - f. indien de cliënt een rechtspersoon is:
 
-- 1°. de eigendomsstructuur en de formele zeggenschapsstructuur van de cliënt vast te stellen;
+   - 1°. de eigendomsstructuur en de formele zeggenschapsstructuur van de cliënt vast te stellen;
 
-- 2°. inzicht te verwerven in de feitelijke zeggenschapsstructuur van de cliënt en deze zoveel mogelijk met zekerheid vast te stellen;
+   - 2°. inzicht te verwerven in de feitelijke zeggenschapsstructuur van de cliënt en deze zoveel mogelijk met zekerheid vast te stellen;
 
 - g. vast te stellen of de natuurlijke persoon die de cliënt vertegenwoordigt daartoe bevoegd is;
 
@@ -604,10 +600,6 @@ Het op grond van dit hoofdstuk vaststellen van een uiteindelijk belanghebbende h
 ##### Artikel 30. Cliëntenonderzoek bij andere trustdiensten
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld over het cliëntenonderzoek voor het verrichten van een andere dienst als bedoeld in onderdeel e van de begripsomschrijving van trustdienst.
-
-##### Artikel 30a. Cliëntenonderzoek bij andere trustdiensten
-
-Bij algemene maatregel van bestuur kunnen regels worden gesteld over het cliëntenonderzoek voor het verrichten van een andere dienst als bedoeld in onderdeel f van de begripsomschrijving van trustdienst.
 
 #### § 4.3. Cliëntenonderzoek bij trusts of personenvennootschappen
 
@@ -667,7 +659,7 @@ Een trustkantoor neemt redelijke maatregelen om alle complexe en ongebruikelijk 
 
 ##### Artikel 36. Hoogrisico derde landen
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Vastlegging
 
@@ -723,9 +715,9 @@ Een trustkantoor houdt de volgende gegevens met betrekking tot de eigen organisa
 
 - f. indien er belastingadvies is ingewonnen door het trustkantoor, de cliënt of de doelvennootschap:
 
-- 1°. het volledige advies voorzien van de volledige (statutaire) namen van de betrokken adviseurs en de datum van afgifte van het belastingadvies;
+   - 1°. het volledige advies voorzien van de volledige (statutaire) namen van de betrokken adviseurs en de datum van afgifte van het belastingadvies;
 
-- 2°. vermelding of er uitvoering is gegeven aan het belastingadvies.
+   - 2°. vermelding of er uitvoering is gegeven aan het belastingadvies.
 
 3. Een trustkantoor neemt redelijke maatregelen om ervoor te zorgen dat het dienstverleningsdossier voldoende actueel gehouden wordt.
 
@@ -813,7 +805,7 @@ De Nederlandsche Bank kan een ieder die niet voldoet aan een ingevolge deze wet 
 
 ##### Artikel 49. Hoogte bestuurlijke boete
 
-1. Bij algemene maatregel van bestuur worden voor de verschillende overtredingen de bedragen van de op te leggen bestuurlijke boete vastgesteld, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 5.000.000, of in gevallen bedoeld in het derde lid, ten hoogste € 10.000.000 bedraagt.
+1. Bij algemene maatregel van bestuur worden voor de verschillende overtredingen de bedragen van de op te leggen bestuurlijke boete vastgesteld, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 5.000.000, of in gevallen bedoeld in het derde lid, ten hoogste € 10.000.000 bedraagt.
 
 2. De overtredingen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen. Daarbij wordt de volgende indeling gebruikt:
 
@@ -823,11 +815,11 @@ De Nederlandsche Bank kan een ieder die niet voldoet aan een ingevolge deze wet 
 | 2 | € 500.000,– | € 0,– | € 1.000.000,– |
 | 3 | € 2.500.000,– | € 0,– | € 5.000.000,– |
 
-3. Indien ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, bedraagt de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 10.000.000.
+3. Indien ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, bedraagt de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 10.000.000.
 
 ##### Artikel 50. Omzetgerelateerde boete
 
-1. In afwijking van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2025-03-01&g=2025-03-01) bedraagt de bestuurlijke boete voor een afzonderlijke overtreding van een voorschrift gerangschikt in de derde categorie ten hoogste 20% van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd, indien dit meer is dan € 10.000.000.
+1. In afwijking van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2025-03-01&g=2025-03-01) bedraagt de bestuurlijke boete voor een afzonderlijke overtreding van een voorschrift gerangschikt in de derde categorie ten hoogste 20% van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd, indien dit meer is dan € 10.000.000.
 
 2. Indien de bestuurlijke boete wordt opgelegd aan een onderneming die opgenomen is in een groep met een geconsolideerde jaarrekening, worden bij de berekening van de netto-omzet de totaalbedragen gehanteerd uit de geconsolideerde jaarrekening van de uiteindelijke moederonderneming.
 
@@ -919,7 +911,15 @@ De Nederlandsche Bank kan in afwijking van [artikel 49](https://wetten.overheid.
 
 4. Indien het in het derde lid bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten, wordt dit niet ingewilligd dan na toestemming van Onze Minister van Veiligheid en Justitie.
 
-##### Artikel 57. Informatieuitwisseling [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
+##### Artikel 56a
+
+1. De Nederlandsche Bank verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), aan het samenwerkingsverband gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, en behorend tot de in [hoofdstuk 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van De Nederlandsche Bank zwaarwegende redenen zich daartegen verzetten.
+
+2. Indien voor de verstrekking aan bepaalde partijen op grond van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2025-03-01&g=2025-03-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=57&z=2025-03-01&g=2025-03-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=58&z=2025-03-01&g=2025-03-01) bijzondere regels gelden, geschiedt de in het eerste lid bedoelde verstrekking steeds met inachtneming van die regels.
+
+3. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
+
+##### Artikel 57. Informatieuitwisseling Sanctiewet 1977
 
 1. De Nederlandsche Bank kan gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan de instantie die is belast met de uitvoering van ingevolge een sanctiebesluit of sanctieregeling in de zin van [artikel 1, onderdelen a en b, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=1) vastgestelde regels, voor zover de gegevens of inlichtingen dienstig zijn voor de uitvoering van die regels.
 
@@ -930,6 +930,22 @@ De Nederlandsche Bank kan in afwijking van [artikel 49](https://wetten.overheid.
 1. De Nederlandsche Bank verstrekt aan de Stichting Autoriteit Financiële Markten de gegevens of inlichtingen die zij heeft verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak en die betrekking hebben op de betrouwbaarheid van de personen, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2025-03-01&g=2025-03-01), voor zover deze naar het oordeel van de Nederlandsche Bank van belang zijn of zouden kunnen zijn voor het toezicht dat door de Stichting Autoriteit Financiële Markten wordt uitgeoefend op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 2. De Nederlandsche Bank verstrekt geen gegevens of inlichtingen als bedoeld in het eerste lid, indien deze zijn verkregen van een buitenlandse overheidsinstantie of van een buitenlandse van overheidswege aangewezen instantie als bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2025-03-01&g=2025-03-01), tenzij die buitenlandse instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.
+
+##### Artikel 58a. Informatie-uitwisseling opsporing, parlement en Algemene Rekenkamer
+
+1. De Nederlandsche Bank kan gegevens of inlichtingen, verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan:
+
+- a. de Belastingdienst, de Fiscale Inlichtingen- en Opsporingsdienst, de Nationale Politie, de Financiële Inlichtingen Eenheid of het Openbaar Ministerie, voor zover de gegevens of inlichtingen dienstig zijn voor de uitoefening van hun wettelijke taken;
+
+- b. een tijdelijke enquêtecommissie van het Europees Parlement, bedoeld in artikel 226 van het Verdrag betreffende de werking van de Europese Unie;
+
+- c. een commissie, als bedoeld in [artikel 2, tweede lid, van de Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=2), voor zover de gegevens of inlichtingen naar het oordeel van die commissie noodzakelijk zijn voor de vervulling van haar taak;
+
+- d. de Algemene Rekenkamer, voor zover de gegevens of inlichtingen naar het oordeel van de Algemene Rekenkamer noodzakelijk zijn voor de uitoefening van haar wettelijke taak op grond van [artikel 7.24 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.24).
+
+2. [Artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2025-03-01&g=2025-03-01), is van overeenkomstige toepassing.
+
+3. De partijen bedoeld in het eerste lid, onderdeel b tot en met d, zijn verplicht tot geheimhouding van de op grond van het eerste lid ontvangen vertrouwelijke gegevens of inlichtingen en maken die slechts openbaar indien deze niet herleid kunnen worden tot afzonderlijke personen.
 
 #### § 7.2. Publicatie
 
@@ -1099,29 +1115,29 @@ Een wijziging van de vierde anti-witwasrichtlijn gaat voor de toepassing van dez
 
 #### § 9.2. Wijziging andere wetten
 
-##### Artikel 77. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 77. Wijziging Algemene wet bestuursrecht
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-##### Artikel 78. Wijziging [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
+##### Artikel 78. Wijziging Sanctiewet 1977
 
-Wijzigt de Sanctiewet 1977.
+*Wijzigt de Sanctiewet 1977.*
 
-##### Artikel 79. Wijziging [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659)
+##### Artikel 79. Wijziging Wet bekostiging financieel toezicht
 
-Wijzigt de Wet bekostiging financieel toezicht.
+*Wijzigt de Wet bekostiging financieel toezicht.*
 
-##### Artikel 80. Wijziging [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
+##### Artikel 80. Wijziging Wet op de economische delicten
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
-##### Artikel 81. Wijziging [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282)
+##### Artikel 81. Wijziging Wet ter voorkoming van witwassen en financieren van terrorisme
 
-Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
+*Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.*
 
 #### § 9.3. Slotbepalingen
 
-##### Artikel 82. Intrekking [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189)
+##### Artikel 82. Intrekking Wet toezicht trustkantoren
 
 De [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189) wordt ingetrokken.
 
@@ -1132,121 +1148,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 ##### Artikel 84. Citeertitel
 
 Deze wet wordt aangehaald als: Wet toezicht trustkantoren 2018.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 58a. Informatie-uitwisseling opsporing, parlement en Algemene Rekenkamer
-
-1. De Nederlandsche Bank kan gegevens of inlichtingen, verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan:
-
-- a. de Belastingdienst, de Fiscale Inlichtingen- en Opsporingsdienst, de Nationale Politie, de Financiële Inlichtingen Eenheid of het Openbaar Ministerie, voor zover de gegevens of inlichtingen dienstig zijn voor de uitoefening van hun wettelijke taken;
-
-- b. een tijdelijke enquêtecommissie van het Europees Parlement, bedoeld in artikel 226 van het Verdrag betreffende de werking van de Europese Unie;
-
-- c. een commissie, als bedoeld in [artikel 2, tweede lid, van de Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=2), voor zover de gegevens of inlichtingen naar het oordeel van die commissie noodzakelijk zijn voor de vervulling van haar taak;
-
-- d. de Algemene Rekenkamer, voor zover de gegevens of inlichtingen naar het oordeel van de Algemene Rekenkamer noodzakelijk zijn voor de uitoefening van haar wettelijke taak op grond van [artikel 7.24 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.24).
-
-2. [Artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2025-03-01&g=2025-03-01), is van overeenkomstige toepassing.
-
-3. De partijen bedoeld in het eerste lid, onderdeel b tot en met d, zijn verplicht tot geheimhouding van de op grond van het eerste lid ontvangen vertrouwelijke gegevens of inlichtingen en maken die slechts openbaar indien deze niet herleid kunnen worden tot afzonderlijke personen.
-
-#### § 7.2. Publicatie
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-#### § 9.1. Overgangsbepalingen
-
-#### § 9.2. Wijziging andere wetten
-
-#### § 9.3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 23a. Verbod op dienstverlening bij betrokkenheid bepaalde landen
-
-1. Het is een trustkantoor verboden een trustdienst te verlenen indien cliënten, doelvennootschappen, uiteindelijk belanghebbenden van cliënten en uiteindelijk belanghebbenden van doelvennootschappen woonachtig of gevestigd zijn of hun zetel hebben in:
-
-- a. de Russische Federatie;
-
-- b. de Republiek Belarus;
-
-- c. staten die op grond van artikel 9 van de vierde anti-witwasrichtlijn, in gedelegeerde handelingen van de Europese Commissie, zijn aangewezen als staten met een hoger risico op witwassen of financieren van terrorisme; of
-
-- d. staten die door de Raad van de Europese Unie, op grond van de Conclusies van de Raad over de criteria en het proces voor de opstelling van de EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden (PbEU 2016, C 461), zijn aangewezen als jurisdicties die niet-coöperatief zijn op belastinggebied.
-
-2. Het eerste lid is niet van toepassing voor zover de identiteit van een cliënt, doelvennootschap, uiteindelijk belanghebbende van de cliënt of uiteindelijk belanghebbende van doelvennootschap overeenkomt met een rechtspersoon of natuurlijk persoon als bedoeld in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) en de op grond van de Sanctiewet 1977 vastgestelde regelingen en besluiten met betrekking tot het financieel verkeer. Na beëindiging van de omstandigheid, bedoeld in de eerste volzin, voldoet een trustkantoor binnen drie maanden aan het eerste lid, gerekend vanaf de datum dat de omstandigheid is beëindigd.
-
-3. Het eerste lid is niet van toepassing indien de cliënt of uiteindelijk belanghebbende, bedoeld in het eerste lid, een natuurlijk persoon is die de nationaliteit bezit van een lidstaat van de Europese Unie, van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of van Zwitserland, of die in het bezit is van een verblijfsvergunning voor een van deze staten.
-
-4. Een trustkantoor voldoet binnen drie maanden aan het eerste lid, gerekend vanaf het moment waarop een land is toegevoegd aan een lijst als bedoeld in het eerste lid, onderdeel c of d.
-
-#### § 4.2. Cliëntenonderzoek per trustdienst
-
-#### § 4.3. Cliëntenonderzoek bij trusts of personenvennootschappen
-
-#### § 4.4. Cliëntenonderzoek bij hoger risico
-
-### Hoofdstuk 5. Vastlegging
-
-### Hoofdstuk 6. Toezicht en handhaving
-
-#### § 6.1. Toezicht op de naleving en inlichtingenbevoegdheid van de Nederlandsche Bank
-
-#### § 6.2. Handhavingsbevoegdheden
-
-### Hoofdstuk 7. Geheimhouding en publicatie
-
-#### § 7.1. Geheimhoudingsplicht
-
-#### § 7.2. Publicatie
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-#### § 9.1. Overgangsbepalingen
-
-#### § 9.2. Wijziging andere wetten
-
-#### § 9.3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a. Verbod optreden als doorstroomvennootschap
-
-1. Het is eenieder met zetel in Nederland verboden om beroeps- of bedrijfsmatig gebruik te maken van doorstroomvennootschappen ten behoeve van een cliënt.
-
-2. Onder doorstroomvennootschap wordt verstaan een rechtspersoon of vennootschap die tot dezelfde groep behoort als degene die gebruik maakt van deze rechtspersoon of vennootschap ten behoeve van een cliënt.
-
-### Hoofdstuk 3. Integere en beheerste bedrijfsvoering
-
-### Hoofdstuk 4. Cliëntenonderzoek
-
-#### § 4.1. Algemene bepalingen cliëntenonderzoek
-
-#### § 4.2. Cliëntenonderzoek per trustdienst
-
-##### Artikel 56a
-
-1. De Nederlandsche Bank verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), aan het samenwerkingsverband gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, en behorend tot de in [hoofdstuk 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van De Nederlandsche Bank zwaarwegende redenen zich daartegen verzetten.
-
-2. Indien voor de verstrekking aan bepaalde partijen op grond van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2025-03-01&g=2025-03-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=57&z=2025-03-01&g=2025-03-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=58&z=2025-03-01&g=2025-03-01) bijzondere regels gelden, geschiedt de in het eerste lid bedoelde verstrekking steeds met inachtneming van die regels.
-
-3. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
-
-#### § 7.2. Publicatie
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-#### § 9.1. Overgangsbepalingen
-
-#### § 9.2. Wijziging andere wetten
-
-#### § 9.3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

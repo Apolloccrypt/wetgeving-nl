@@ -1,63 +1,42 @@
 ---
 title: "Bestuursreglement van het CAK"
 identifier: "BWBR0041141"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-07-12"
-last_updated: "2018-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041141"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "14676733"
-version_id: "25135142"
-internal_id: "C35938391"
-label_id: "14629324"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041141/2018-07-12/0"
-intitule_bron: "Stcrt.2018-38316"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-04"
-intitule_published: "2018-07-11"
-intitule_in_force: "2018-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-38316"
-original_signed_date: "2018-06-04"
-original_published_date: "2018-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-38316"
-entry_into_force_date: "2018-07-12"
-jci_1_3: "jci1.3:c:BWBR0041141&z=2018-07-12&g=2018-07-12"
-jci_1_0: "1.0:c:BWBR0041141&g=2018-07-12"
-citeertitel_status: "officieel"
-signed_date: "2018-06-04"
-entry_into_force: "2018-07-12"
+publicatiedatum: 2018-07-12
+laatste_update: 2018-07-12
+status: geldig
+toestand: 2018-07-12
+bron: "https://wetten.overheid.nl/BWBR0041141"
+opgehaald: 2026-08-27
 ---
+
 # Bestuursreglement van het CAK
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **de Wlz:** de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- a. *de Wlz:* de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- b. **het CAK:** het publiekrechtelijk zelfstandig bestuursorgaan met eigen rechtspersoonlijkheid, genoemd in [artikel 6.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- b. *het CAK:* het publiekrechtelijk zelfstandig bestuursorgaan met eigen rechtspersoonlijkheid, genoemd in [artikel 6.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- c. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- c. *de Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- d. **het Ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport;
+- d. *het Ministerie:* het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- e. **de RvB:** de Raad van Bestuur van het CAK;
+- e. *de RvB:* de Raad van Bestuur van het CAK;
 
-- f. **voorzitter:** de voorzitter van de RvB;
+- f. *voorzitter:* de voorzitter van de RvB;
 
-- g. **lid / leden:** lid / leden van de RvB, waaronder de voorzitter;
+- g. *lid / leden:* lid / leden van de RvB, waaronder de voorzitter;
 
-- h. **de secretaris:** ambtelijk secretaris van de RvB;
+- h. *de secretaris:* ambtelijk secretaris van de RvB;
 
-- i. **Kaderwet:** [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- i. *Kaderwet:*
+ [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- j. **de Zvw:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+- j. *de Zvw:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 ##### Artikel 2. De Raad van Bestuur
 

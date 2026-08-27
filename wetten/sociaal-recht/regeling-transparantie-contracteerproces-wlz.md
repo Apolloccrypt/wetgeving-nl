@@ -1,41 +1,19 @@
 ---
 title: "Regeling transparantie contracteerproces Wlz"
 identifier: "BWBR0041035"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041035"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14651553"
-version_id: "25082412"
-internal_id: "C35864801"
-label_id: "14604554"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041035/2019-01-01/0"
-intitule_bron: "Stcrt.2018-33098"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-29"
-intitule_published: "2018-06-18"
-intitule_in_force: "2018-06-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-33098"
-original_signed_date: "2018-05-29"
-original_published_date: "2018-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-33098"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041035&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0041035&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2018-05-29"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0041035"
+opgehaald: 2026-08-27
 ---
+
 # Regeling transparantie contracteerproces Wlz
 
-**Grondslag**
+*Grondslag*
 
 Gelet op [artikel 45 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=45) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van transparantie rondom het contracteerproces.
 
@@ -43,9 +21,17 @@ Gelet op [artikel 45 van de Wet marktordening gezondheidszorg](https://wetten.ov
 
 In deze regeling wordt verstaan onder:
 
+- *Overeenkomst:* Door het zorgkantoor/de Wlz-uitvoerder en zorgaanbieder gesloten overeenkomst ten aanzien van het leveren van zorg waarop Wlz-verzekerden aanspraak hebben op grond van de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) en [3.1.2 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.2) (Wlz), de in dat kader toe te passen prestatiebeschrijvingen en bijbehorende tarieven.
+
+- *Zorgkantoorregio:* De regio waarvoor een Wlz-uitvoerder op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) is aangewezen.
+
 ### 2. Doel van de regeling
 
 Deze regeling beoogt:
+
+- – dat het zorgkantoor/de Wlz-uitvoerder voorafgaand aan de zorginkooponderhandelingen aan de zorgaanbieders in de zorgkantoorregio inzichtelijk maakt volgens welke modellen hij aan zorgaanbieders overeenkomsten aanbiedt;
+
+- – dat het zorgkantoor/de Wlz-uitvoerder voorafgaand aan de indiening van de aanvragen budget/tarieven aan de zorgaanbieders met wie een overeenkomst is gesloten de som bekend maakt van de in de zorgkantoorregio overeengekomen budgetten.
 
 ### 3. Reikwijdte
 

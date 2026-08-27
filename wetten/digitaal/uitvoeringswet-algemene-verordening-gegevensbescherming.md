@@ -1,49 +1,18 @@
 ---
 title: "Wet van 16 mei 2018, houdende regels ter uitvoering van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119) (Uitvoeringswet Algemene verordening gegevensbescherming)"
+citeertitel: "Uitvoeringswet Algemene verordening gegevensbescherming"
 identifier: "BWBR0040940"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040940"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "14616273"
-version_id: "25027542"
-internal_id: "C35792591"
-label_id: "14570354"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040940/2021-07-01/0"
-intitule_bron: "Stb.2018-144"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-16"
-intitule_published: "2018-05-22"
-intitule_in_force: "2018-05-22"
-intitule_status: "goed"
-original_publication: "Stb.2018-144"
-original_signed_date: "2018-05-16"
-original_published_date: "2018-05-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "34851"
-original_url_id: "stb-2018-144"
-entry_into_force_date: "2018-05-25"
-jci_1_3: "jci1.3:c:BWBR0040940&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0040940&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Algemene verordening gegevensbescherming"
-signed_date: "2018-05-16"
-entry_into_force: "2018-05-25"
+publicatiedatum: 2018-05-25
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0040940"
+opgehaald: 2026-08-27
 ---
+
 # Wet van 16 mei 2018, houdende regels ter uitvoering van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119) (Uitvoeringswet Algemene verordening gegevensbescherming)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is te voorzien in wettelijke regels ter uitvoering van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119);
-
-Gelet op [artikel 10, tweede en derde lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=10);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,13 +20,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bijzondere categorieën van persoonsgegevens:** de categorieën van persoonsgegevens, bedoeld in artikel 9, eerste lid, van de verordening
+- *bijzondere categorieën van persoonsgegevens:* de categorieën van persoonsgegevens, bedoeld in artikel 9, eerste lid, van de verordening
 
-- **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- **persoonsgegevens van strafrechtelijke aard:** persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten of daarmee verband houdende veiligheidsmaatregelen als bedoeld in artikel 10 van de verordening, alsmede persoonsgegevens betreffende een door de rechter opgelegd verbod naar aanleiding van onrechtmatig of hinderlijk gedrag;
+- *persoonsgegevens van strafrechtelijke aard:* persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten of daarmee verband houdende veiligheidsmaatregelen als bedoeld in artikel 10 van de verordening, alsmede persoonsgegevens betreffende een door de rechter opgelegd verbod naar aanleiding van onrechtmatig of hinderlijk gedrag;
 
-- **verordening:** verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119).
+- *verordening:* verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119).
 
 ##### Artikel 2. Materiële reikwijdte
 
@@ -69,7 +38,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2a. Inachtneming behoeften kleine, middelgrote en micro-ondernemingen
 
-De Autoriteit persoonsgegevens neemt bij de toepassing van de verordening de specifieke behoeften van kleine, middelgrote en micro-ondernemingen als bedoeld in artikel 2 van de bijlage bij Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PbEU 2003 L124) in aanmerking.
+De Autoriteit persoonsgegevens neemt bij de toepassing van de verordening de specifieke behoeften van kleine, middelgrote en micro-ondernemingen als bedoeld in artikel 2 van de bijlage bij Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PbEU 2003 L124) in aanmerking.
 
 ##### Artikel 3. Schakelbepaling verwerkingen buiten werkingssfeer verordening
 
@@ -269,6 +238,18 @@ De Autoriteit persoonsgegevens heeft een secretariaat.
 
 Bij ministeriële regeling wordt of de Autoriteit persoonsgegevens of de Raad voor Accreditatie of worden zij beide aangewezen als accrediterende instantie als bedoeld in artikel 43 van de verordening.
 
+##### Artikel 21a
+
+1. De taak van de Autoriteit persoonsgegevens, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2021-07-01&g=2021-07-01), omvat mede het toezicht op de naleving van de krachtens [artikel 3:17, zevende lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) gestelde verplichtingen met betrekking tot de toegang van betaaldienstverleners tot de persoonsgegevens van betaaldienstgebruikers.
+
+2. Met betrekking tot het toezicht, bedoeld in het eerste lid, vindt de samenwerking en uitwisseling van informatie met De Nederlandsche Bank N.V. en andere relevante toezichthouders plaats overeenkomstig artikel 26 van de richtlijn betaaldiensten, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+3. De Autoriteit persoonsgegevens kan in geval van overtreding van de krachtens [artikel 3.17, zevende lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) gestelde verplichtingen aan de overtreder een last opleggen om waar passend, op een nader bepaalde manier en binnen een nader bepaalde termijn, verwerkingen in overeenstemming te brengen met het daar bepaalde. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing.
+
+4. De Autoriteit persoonsgegevens kan in geval van een overtreding van de krachtens [artikel 3.17, zevende lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) gestelde verplichtingen aan de overtreder een bestuurlijke boete opleggen van ten hoogste 20.000.000 euro of, indien dit meer is, ten hoogste 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar. Artikel 83, tweede en derde lid, van de verordening is van overeenkomstige toepassing.
+
+5. De bestuurlijke boete en de te betalen geldsom van een verbeurde dwangsom komen toe aan de Staat.
+
 ### Hoofdstuk 3. Bepalingen ter uitvoering van de verordening
 
 #### Paragraaf 3.1. Bijzondere categorieën van persoonsgegevens
@@ -319,11 +300,11 @@ Gelet op artikel 9, tweede lid, onderdeel g, van de verordening, is het verbod o
 
 - b. met het doel personen van een bepaalde etnische of culturele minderheidsgroep een bevoorrechte positie toe te kennen teneinde feitelijke nadelen, verband houdende met de grond ras of etnische afkomst, op te heffen of te verminderen, en slechts voor zover:
 
-- 1°. de verwerking voor dat doel noodzakelijk is;
+   - 1°. de verwerking voor dat doel noodzakelijk is;
 
-- 2°. de gegevens betrekking hebben op het geboorteland van de betrokkene, diens ouders of diens grootouders, dan wel op andere, bij wet vastgestelde criteria op grond waarvan op objectieve wijze vastgesteld kan worden of iemand tot een bepaalde etnische of culturele minderheidsgroep behoort; en
+   - 2°. de gegevens betrekking hebben op het geboorteland van de betrokkene, diens ouders of diens grootouders, dan wel op andere, bij wet vastgestelde criteria op grond waarvan op objectieve wijze vastgesteld kan worden of iemand tot een bepaalde etnische of culturele minderheidsgroep behoort; en
 
-- 3°. de betrokkene tegen de verwerking geen schriftelijk bezwaar heeft gemaakt.
+   - 3°. de betrokkene tegen de verwerking geen schriftelijk bezwaar heeft gemaakt.
 
 ##### Artikel 26. Uitzonderingen inzake verwerking persoonsgegevens waaruit politieke opvattingen blijken voor vervulling openbare functies
 
@@ -345,9 +326,9 @@ Gelet op artikel 9, tweede lid, onderdeel g, van de verordening, is het verbod o
 
 - b. de verwerking noodzakelijk is ten behoeve van wetenschappelijk onderzoek dat een algemeen belang dient of ten behoeve van statistiek, indien:
 
-- 1°. de betrokkene uitdrukkelijke toestemming heeft gegeven; en
+   - 1°. de betrokkene uitdrukkelijke toestemming heeft gegeven; en
 
-- 2°. bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.
+   - 2°. bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.
 
 3. Toestemming als bedoeld in het tweede lid, onderdeel b, is niet vereist, indien het vragen van uitdrukkelijke toestemming onmogelijk blijkt of een onevenredige inspanning vergt.
 
@@ -377,9 +358,9 @@ Gelet op artikel 9, tweede lid, onderdeel g, van de verordening, is het verbod o
 
 - b. verzekeraars als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of financiële dienstverleners die bemiddelen in verzekeringen als bedoeld in artikel 1:1 van die wet, voor zover de verwerking noodzakelijk is voor:
 
-- 1°. de beoordeling van het door de verzekeraar te verzekeren risico en de betrokkene geen bezwaar heeft gemaakt; of
+   - 1°. de beoordeling van het door de verzekeraar te verzekeren risico en de betrokkene geen bezwaar heeft gemaakt; of
 
-- 2°. de uitvoering van de overeenkomst van verzekering dan wel het assisteren bij het beheer en de uitvoering van de verzekering.
+   - 2°. de uitvoering van de overeenkomst van verzekering dan wel het assisteren bij het beheer en de uitvoering van de verzekering.
 
 4. Indien toepassing wordt gegeven aan het eerste, tweede of derde lid, worden de gegevens alleen verwerkt door personen die uit hoofde van ambt, beroep of wettelijk voorschrift dan wel krachtens een overeenkomst tot geheimhouding zijn verplicht. Indien de verwerkingsverantwoordelijke persoonlijk gegevens verwerkt en op hem niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht rust, is hij verplicht tot geheimhouding van de gegevens, behoudens voor zover de wet hem tot mededeling verplicht of uit zijn taak de noodzaak voortvloeit dat de gegevens worden meegedeeld aan anderen die krachtens het eerste, tweede of derde lid bevoegd zijn tot verwerking daarvan.
 
@@ -417,9 +398,9 @@ Persoonsgegevens van strafrechtelijke aard mogen worden verwerkt, indien:
 
 - b. de verwerking geschiedt door en ten behoeve van publiekrechtelijke samenwerkingsverbanden van verwerkingsverantwoordelijken of groepen van verwerkingsverantwoordelijken, indien:
 
-- 1°. de verwerking noodzakelijk is voor de uitvoering van de taak van deze verwerkingsverantwoordelijken of groepen van verwerkingsverantwoordelijken; en
+   - 1°. de verwerking noodzakelijk is voor de uitvoering van de taak van deze verwerkingsverantwoordelijken of groepen van verwerkingsverantwoordelijken; en
 
-- 2°. bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad; of
+   - 2°. bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad; of
 
 - c. de verwerking noodzakelijk is in aanvulling op de verwerking van gegevens over gezondheid, bedoeld in [artikel 30, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2021-07-01&g=2021-07-01), met het oog op een goede behandeling of verzorging van de betrokkene.
 
@@ -443,7 +424,7 @@ Persoonsgegevens van strafrechtelijke aard mogen worden verwerkt, indien:
 
 #### Paragraaf 3.3. Rechtsbescherming
 
-##### Artikel 34. Toepasselijkheid [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) bij beslissing van bestuursorganen
+##### Artikel 34. Toepasselijkheid Algemene wet bestuursrecht bij beslissing van bestuursorganen
 
 Een schriftelijke beslissing op een verzoek als bedoeld in de artikelen 15 tot en met 22 van de verordening wordt genomen binnen de in artikel 12, derde lid, van de verordening genoemde termijnen en geldt, voor zover deze is genomen door een bestuursorgaan, als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
@@ -591,7 +572,7 @@ Indien een verwerking wordt verricht door instellingen of diensten voor wetensch
 
 3. Voor het bepalen van het tijdvak van de benoeming, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2021-07-01&g=2021-07-01), geldt het tijdvak, vervuld als voorzitter van het College bescherming persoonsgegevens, voorafgaand aan de inwerkingtreding van deze wet als een tijdvak, vervuld als voorzitter van de Autoriteit persoonsgegevens.
 
-4. Op de leden van het College bescherming persoonsgegevens die zijn benoemd of herbenoemd voor 1 januari 2014, blijft [artikel 53, derde lid, eerste, tweede en derde volzin, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=53) van toepassing, zoals dat luidde voor dat tijdstip.
+4. Op de leden van het College bescherming persoonsgegevens die zijn benoemd of herbenoemd voor 1 januari 2014, blijft [artikel 53, derde lid, eerste, tweede en derde volzin, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=53) van toepassing, zoals dat luidde voor dat tijdstip.
 
 5. De ambtenaar die voorafgaand aan de inwerkingtreding van deze wet is benoemd in het secretariaat van het College bescherming persoonsgegevens, is van rechtswege benoemd als ambtenaar in het secretariaat van de Autoriteit persoonsgegevens.
 
@@ -611,9 +592,9 @@ Indien een verwerking wordt verricht door instellingen of diensten voor wetensch
 
 ##### Artikel 48a. Overgangsrecht II
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt deze wet.
+2. *Wijzigt deze wet.*
 
 3. Op het tijdstip van inwerkingtreding van dit artikel zijn de ambtenaren van het secretariaat, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2021-07-01&g=2021-07-01), van wie naam en functie zijn vermeld op een door Onze Minister in overleg met de Autoriteit persoonsgegevens vastgestelde lijst, van rechtswege ontslagen en aangesteld als ambtenaar in dienst van de Autoriteit persoonsgegevens. De overgang van de in de vorige volzin bedoelde ambtenaren vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold op de dag voor de datum van inwerkingtreding van dit artikel.
 
@@ -629,19 +610,19 @@ Indien een verwerking wordt verricht door instellingen of diensten voor wetensch
 
 ##### Artikel 49. Samenloop
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 50. Evaluatie
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de effecten van deze wet in de praktijk en over de uitvoering van de wet in de praktijk.
 
-##### Artikel 51. Intrekking [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
+##### Artikel 51. Intrekking Wet bescherming persoonsgegevens
 
 De [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) wordt ingetrokken.
 
 ##### Artikel 52. Citeertitel verordening
 
-Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119) wordt in overige wetgeving aangehaald als: Algemene verordening gegevensbescherming.
+Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119) wordt in overige wetgeving aangehaald als: Algemene verordening gegevensbescherming.
 
 ##### Artikel 53. Inwerkingtreding
 
@@ -650,33 +631,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 54. Citeertitel wet
 
 Deze wet wordt aangehaald als: Uitvoeringswet Algemene verordening gegevensbescherming.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 21a
-
-1. De taak van de Autoriteit persoonsgegevens, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2021-07-01&g=2021-07-01), omvat mede het toezicht op de naleving van de krachtens [artikel 3:17, zevende lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) gestelde verplichtingen met betrekking tot de toegang van betaaldienstverleners tot de persoonsgegevens van betaaldienstgebruikers.
-
-2. Met betrekking tot het toezicht, bedoeld in het eerste lid, vindt de samenwerking en uitwisseling van informatie met De Nederlandsche Bank N.V. en andere relevante toezichthouders plaats overeenkomstig artikel 26 van de richtlijn betaaldiensten, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
-
-3. De Autoriteit persoonsgegevens kan in geval van overtreding van de krachtens [artikel 3.17, zevende lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) gestelde verplichtingen aan de overtreder een last opleggen om waar passend, op een nader bepaalde manier en binnen een nader bepaalde termijn, verwerkingen in overeenstemming te brengen met het daar bepaalde. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing.
-
-4. De Autoriteit persoonsgegevens kan in geval van een overtreding van de krachtens [artikel 3.17, zevende lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) gestelde verplichtingen aan de overtreder een bestuurlijke boete opleggen van ten hoogste 20.000.000 euro of, indien dit meer is, ten hoogste 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar. Artikel 83, tweede en derde lid, van de verordening is van overeenkomstige toepassing.
-
-5. De bestuurlijke boete en de te betalen geldsom van een verbeurde dwangsom komen toe aan de Staat.
-
-### Hoofdstuk 3. Bepalingen ter uitvoering van de verordening
-
-#### Paragraaf 3.1. Bijzondere categorieën van persoonsgegevens
-
-#### Paragraaf 3.2. Persoonsgegevens van strafrechtelijke aard
-
-#### Paragraaf 3.3. Rechtsbescherming
-
-#### Paragraaf 3.4. De functionaris voor gegevensbescherming
-
-### Hoofdstuk 4. Uitzonderingen en beperkingen
-
-### Hoofdstuk 5. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

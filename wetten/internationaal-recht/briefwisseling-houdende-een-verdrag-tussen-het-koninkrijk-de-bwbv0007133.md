@@ -7,7 +7,7 @@ laatste_update: 2025-12-04
 status: geldig
 toestand: 2025-12-04
 bron: "https://wetten.overheid.nl/BWBV0007133"
-opgehaald: 2026-07-29
+opgehaald: 2026-08-27
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Atoomenergie (IAEA) inzake de wijziging van Protocol I bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het IAEA inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika

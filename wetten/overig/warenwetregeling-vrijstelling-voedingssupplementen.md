@@ -1,54 +1,18 @@
 ---
 title: "Regeling van de Minister voor Medische Zorg van 20 augustus 2018, 1364645-177989-VGP, houdende het verlenen van vrijstelling voor de aanwezigheid van bepaalde vitamines in voedingssupplementen (Warenwetregeling vrijstelling voedingssupplementen)"
+citeertitel: "Warenwetregeling vrijstelling voedingssupplementen"
 identifier: "BWBR0041264"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041264"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14700903"
-version_id: "25190832"
-internal_id: "C36020761"
-label_id: "14652954"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041264/2018-10-01/0"
-intitule_bron: "Stcrt.2018-47982"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-08-20"
-intitule_published: "2018-08-28"
-intitule_in_force: "2018-08-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-47982"
-original_signed_date: "2018-08-20"
-original_published_date: "2018-08-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-47982"
-entry_into_force_date: "2018-10-01"
-jci_1_3: "jci1.3:c:BWBR0041264&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0041264&g=2018-10-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetregeling vrijstelling voedingssupplementen"
-signed_date: "2018-08-20"
-entry_into_force: "2018-10-01"
+publicatiedatum: 2018-10-01
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0041264"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister voor Medische Zorg van 20 augustus 2018, 1364645-177989-VGP, houdende het verlenen van vrijstelling voor de aanwezigheid van bepaalde vitamines in voedingssupplementen (Warenwetregeling vrijstelling voedingssupplementen)
-
-Gelet op:
-
-[Richtlijn 2002/46/EG](32002L0046) van het Europees Parlement en de Raad van 10 juni 2002 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake voedingssupplementen (PbEG 2002, L 183);
-
-[artikel 16, eerste en vierde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16);
-
-[artikel 10, eerste lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&artikel=10);
-
-[artikel 3, eerste lid, van het Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&artikel=3); en
-
-[artikel 10, aanhef en onderdeel b, van het Warenwetbesluit informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -90,7 +54,7 @@ Op de buitenzijde van de verpakking of op een of aan de verpakking van een voedi
 
 ##### Artikel 6
 
-Wijzigt de Warenwetregeling voedingssupplementen.
+*Wijzigt de Warenwetregeling voedingssupplementen.*
 
 ##### Artikel 7
 
@@ -111,5 +75,3 @@ Deze regeling treedt in werking met ingang van 1 oktober 2018.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Warenwetregeling vrijstelling voedingssupplementen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

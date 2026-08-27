@@ -1,70 +1,39 @@
 ---
 title: "Besluit van 11 april 2018, houdende vaststelling van het Warenwetbesluit persoonlijke beschermingsmiddelen 2018 en wijziging van het Warenwetbesluit bestuurlijke boeten, het Arbeidsomstandighedenbesluit en het Warenwetbesluit drukapparatuur 2016 (Warenwetbesluit persoonlijke beschermingsmiddelen 2018)"
+citeertitel: "Warenwetbesluit persoonlijke beschermingsmiddelen 2018"
 identifier: "BWBR0040828"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-04-21"
-last_updated: "2018-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040828"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "14591863"
-version_id: "24982742"
-internal_id: "C35728991"
-label_id: "14545554"
-dtd_version: "2.0"
-original_entry_into_force: "2018-04-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040828/2018-04-21/0"
-intitule_bron: "Stb.2018-104"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-11"
-intitule_published: "2018-04-17"
-intitule_in_force: "2018-04-17"
-intitule_status: "goed"
-original_publication: "Stb.2018-104"
-original_signed_date: "2018-04-11"
-original_published_date: "2018-04-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-104"
-entry_into_force_date: "2018-04-18"
-jci_1_3: "jci1.3:c:BWBR0040828&z=2018-04-21&g=2018-04-21"
-jci_1_0: "1.0:c:BWBR0040828&g=2018-04-21"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit persoonlijke beschermingsmiddelen 2018"
-signed_date: "2018-04-11"
-entry_into_force: "2018-04-18"
+publicatiedatum: 2018-04-18
+laatste_update: 2018-04-21
+status: geldig
+toestand: 2018-04-21
+bron: "https://wetten.overheid.nl/BWBR0040828"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 11 april 2018, houdende vaststelling van het Warenwetbesluit persoonlijke beschermingsmiddelen 2018 en wijziging van het Warenwetbesluit bestuurlijke boeten, het Arbeidsomstandighedenbesluit en het Warenwetbesluit drukapparatuur 2016 (Warenwetbesluit persoonlijke beschermingsmiddelen 2018)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 maart 2018, nr. 2018-0000029571;
-
-Gelet op Verordening (EU) 2016/425 van het Europees Parlement en de Raad van 9 maart 2016 betreffende persoonlijke beschermingsmiddelen en tot intrekking van [Richtlijn 89/686/EEG](31989L0686) van de Raad (PbEU 2016, L 81), alsmede op [artikel 16, eerste en tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) en de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7), [7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) en [32b van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 4 april 2018, no. W12.18.0052/III);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 10 april 2018, nr. 2018-0000067855;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **verordening:** verordening (EU) 2016/425 van het Europees Parlement en de Raad van 9 maart 2016 betreffende persoonlijke beschermingsmiddelen en tot intrekking van [Richtlijn 89/686/EEG](31989L0686) van de Raad (PbEU 2016, L 81);
+- a. *verordening:* verordening (EU) 2016/425 van het Europees Parlement en de Raad van 9 maart 2016 betreffende persoonlijke beschermingsmiddelen en tot intrekking van Richtlijn 89/686/EEG van de Raad (PbEU 2016, L 81);
 
-- b. **accreditatie:** hetgeen artikel 3 van de verordening daaronder verstaat;
+- b. *accreditatie:* hetgeen artikel 3 van de verordening daaronder verstaat;
 
-- c. **conformiteitsbeoordeling:** hetgeen artikel 3 van de verordening daaronder verstaat;
+- c. *conformiteitsbeoordeling:* hetgeen artikel 3 van de verordening daaronder verstaat;
 
-- d. **EU-conformiteitsbeoordelingsinstantie:** conformiteitsbeoordelingsinstantie, genoemd in artikel 3 van de verordening;
+- d. *EU-conformiteitsbeoordelingsinstantie:* conformiteitsbeoordelingsinstantie, genoemd in artikel 3 van de verordening;
 
-- e. **geharmoniseerde norm:** hetgeen artikel 3 van de verordening daaronder verstaat;
+- e. *geharmoniseerde norm:* hetgeen artikel 3 van de verordening daaronder verstaat;
 
-- f. **nationale accreditatie-instantie:** nationale accreditatie-instantie als bedoeld in [artikel 3 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=3);
+- f. *nationale accreditatie-instantie:* nationale accreditatie-instantie als bedoeld in [artikel 3 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=3);
 
-- g. **persoonlijk beschermingsmiddel:** hetgeen artikel 3 van de verordening daaronder verstaat; en
+- g. *persoonlijk beschermingsmiddel:* hetgeen artikel 3 van de verordening daaronder verstaat; en
 
-- h. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
+- h. *wet:*
+ [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
 
 2. Dit besluit en de daarop berustende bepalingen is van toepassing op een persoonlijk beschermingsmiddel waarop de verordening van toepassing is.
 
@@ -182,17 +151,17 @@ Onze Minister verricht de taken, bedoeld in artikel 21, tweede lid, van de veror
 
 3. De EU-conformiteitsbeoordelingsinstantie die haar taken waarvoor zij is aangewezen, beëindigt, of waarvan de aanwijzing door Onze Minister wordt ingetrokken, is verplicht tijdig voorafgaand aan de beëindiging van de werkzaamheden respectievelijk de datum, waarop de aanwijzing eindigt, haar dossiers over te dragen aan een andere EU-conformiteitsbeoordelingsinstantie waarmee een marktdeelnemer als bedoeld in artikel 3 van de verordening een overeenkomst is aangegaan. Indien er geen andere EU-conformiteitsbeoordelingsinstantie is, draagt de EU-conformiteitsbeoordelingsinstantie de dossiers over aan Onze Minister.
 
-##### Artikel 12. Wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 12. Wijziging Arbeidsomstandighedenbesluit
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
-##### Artikel 13. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
+##### Artikel 13. Wijziging van het Warenwetbesluit bestuurlijke boeten
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
+*Wijzigt het Warenwetbesluit bestuurlijke boeten.*
 
-##### Artikel 14. Wijziging [Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083)
+##### Artikel 14. Wijziging Warenwetbesluit drukapparatuur 2016
 
-Wijzigt het Warenwetbesluit drukapparatuur 2016.
+*Wijzigt het Warenwetbesluit drukapparatuur 2016.*
 
 ##### Artikel 15. Overgangsbepaling
 
@@ -200,7 +169,7 @@ Wijzigt het Warenwetbesluit drukapparatuur 2016.
 
 2. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op 20 april 2018 wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040828&artikel=7&z=2018-04-21&g=2018-04-21).
 
-##### Artikel 16. Intrekking [Warenwetbesluit persoonlijke beschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005570)
+##### Artikel 16. Intrekking Warenwetbesluit persoonlijke beschermingsmiddelen
 
 Het [Warenwetbesluit persoonlijke beschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005570) wordt ingetrokken.
 
@@ -213,5 +182,3 @@ Het [Warenwetbesluit persoonlijke beschermingsmiddelen](https://wetten.overheid.
 ##### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Warenwetbesluit persoonlijke beschermingsmiddelen 2018.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

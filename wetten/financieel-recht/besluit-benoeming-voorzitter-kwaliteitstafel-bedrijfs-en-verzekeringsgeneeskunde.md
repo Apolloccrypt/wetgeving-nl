@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 mei 2018, 2018-0000086086, tot benoeming van de voorzitter van de kwaliteitstafel bedrijfs- en verzekeringsgeneeskunde en vaststelling vergoeding"
+citeertitel: "Besluit benoeming voorzitter kwaliteitstafel bedrijfs- en verzekeringsgeneeskunde en vaststelling vergoeding"
 identifier: "BWBR0040973"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-07-22"
-last_updated: "2020-07-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040973"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14624703"
-version_id: "25043042"
-internal_id: "C35812021"
-label_id: "14578034"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040973/2020-07-22/0"
-intitule_bron: "Stcrt.2018-29630"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-23"
-intitule_published: "2018-05-31"
-intitule_in_force: "2018-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-29630"
-original_signed_date: "2018-05-23"
-original_published_date: "2018-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-29630"
-entry_into_force_date: "2018-06-01"
-jci_1_3: "jci1.3:c:BWBR0040973&z=2020-07-22&g=2020-07-22"
-jci_1_0: "1.0:c:BWBR0040973&g=2020-07-22"
-citeertitel_status: "redactioneel"
-short_title: "Besluit benoeming voorzitter kwaliteitstafel bedrijfs- en verzekeringsgeneeskunde en vaststelling vergoeding"
-signed_date: "2018-05-23"
-entry_into_force: "2018-06-01"
+publicatiedatum: 2018-06-01
+laatste_update: 2020-07-22
+status: geldig
+toestand: 2020-07-22
+bron: "https://wetten.overheid.nl/BWBR0040973"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 mei 2018, 2018-0000086086, tot benoeming van de voorzitter van de kwaliteitstafel bedrijfs- en verzekeringsgeneeskunde en vaststelling vergoeding
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2) en [4 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **De kwaliteitstafel:** de kwaliteitstafel bedrijfs- en verzekeringsgeneeskunde;
+- a. *De kwaliteitstafel:* de kwaliteitstafel bedrijfs- en verzekeringsgeneeskunde;
 
-- b. **De voorzitter:** de onafhankelijke voorzitter van de kwaliteitstafel.
+- b. *De voorzitter:* de onafhankelijke voorzitter van de kwaliteitstafel.
 
 ##### Artikel 2. Taken van de voorzitter
 
@@ -64,9 +38,9 @@ De voorzitter heeft tot taak:
 
 ##### Artikel 3. Benoeming
 
-1. Tot voorzitter wordt voor de periode van 1 mei 2018 tot 1 mei 2019 benoemd mevrouw drs. J.A.H. van Veen.
+1. Tot voorzitter wordt voor de periode van 1 mei 2018 tot 1 mei 2019 benoemd mevrouw drs. J.A.H. van Veen.
 
-2. Vervallen.
+2. *Vervallen.*
 
 ##### Artikel 4. Uitvoering werkzaamheden
 
@@ -80,6 +54,4 @@ Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de toe
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het is geplaatst en werkt terug tot en met 1 mei 2018.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het is geplaatst en werkt terug tot en met 1 mei 2018.

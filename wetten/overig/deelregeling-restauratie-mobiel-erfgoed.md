@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Restauratie Mobiel Erfgoed"
 identifier: "BWBR0041448"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-10-18"
-last_updated: "2018-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041448"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14836613"
-version_id: "25364342"
-internal_id: "C36218691"
-label_id: "14788434"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041448/2018-10-18/0"
-intitule_bron: "Stcrt.2018-57691"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-10-17"
-intitule_in_force: "2018-10-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-57691"
-original_published_date: "2018-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-57691"
-entry_into_force_date: "2018-10-18"
-jci_1_3: "jci1.3:c:BWBR0041448&z=2018-10-18&g=2018-10-18"
-jci_1_0: "1.0:c:BWBR0041448&g=2018-10-18"
-citeertitel_status: "officieel"
-entry_into_force: "2018-10-18"
+publicatiedatum: 2018-10-18
+laatste_update: 2018-10-18
+status: geldig
+toestand: 2018-10-18
+bron: "https://wetten.overheid.nl/BWBR0041448"
+opgehaald: 2026-08-27
 ---
+
 # Deelregeling Restauratie Mobiel Erfgoed
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -58,33 +35,33 @@ Het versterken van de kwaliteit, het vergroten van het draagvlak, het operatione
 
 Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformulier en de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
-- •. feitelijke gegevens van de instelling;
+- • feitelijke gegevens van de instelling;
 
-- •. een beschrijving van het object en het belang daarvan;
+- • een beschrijving van het object en het belang daarvan;
 
-- •. een toelichting op het projectplan waarvoor de aanvraag wordt ingediend voorzien van documentatiemateriaal en indien van toepassing voorzien van een toelichting op de maatregelen die op het gebied van duurzaamheid genomen worden; In de toelichting bij het aanvraagformulier zijn het minimale bedrag van de tegemoetkoming en de hoogte van de eigen bijdrage genoemd;
+- • een toelichting op het projectplan waarvoor de aanvraag wordt ingediend voorzien van documentatiemateriaal en indien van toepassing voorzien van een toelichting op de maatregelen die op het gebied van duurzaamheid genomen worden; In de toelichting bij het aanvraagformulier zijn het minimale bedrag van de tegemoetkoming en de hoogte van de eigen bijdrage genoemd;
 
-- •. een presentatieplan, waarin toegelicht wordt hoe op inspirerende wijze een passend publiek wordt bereikt en betrokken;
+- • een presentatieplan, waarin toegelicht wordt hoe op inspirerende wijze een passend publiek wordt bereikt en betrokken;
 
-- •. een motivering voor het project;
+- • een motivering voor het project;
 
-- •. een begroting met een dekkingsplan en offertes;
+- • een begroting met een dekkingsplan en offertes;
 
-- •. indien van toepassing een toelichting op de samenwerking met onderwijs, bijvoorbeeld in de vorm van leerlingwerkplekken;
+- • indien van toepassing een toelichting op de samenwerking met onderwijs, bijvoorbeeld in de vorm van leerlingwerkplekken;
 
-- •. indien van toepassing toezeggingen van uitnodigende of deelnemende partijen.
+- • indien van toepassing toezeggingen van uitnodigende of deelnemende partijen.
 
 ##### Artikel 4. Beoordeling
 
 1. Bij de beoordeling van een aanvraag voor een bijdrage mobiel erfgoed geeft het bevoegd adviesorgaan een oordeel over het bijzondere belang van het voorstel voor het mobiel erfgoed en de burger. Daarbij beoordeelt het:
 
-- •. of het voorgelegde project voorbeeldstellend of anderszins bijzonder is;
+- • of het voorgelegde project voorbeeldstellend of anderszins bijzonder is;
 
-- •. de kwaliteit van het plan en, indien van toepassing, het duurzaamheidsplan, waaronder ook begrepen duurzame restauratietechnieken;
+- • de kwaliteit van het plan en, indien van toepassing, het duurzaamheidsplan, waaronder ook begrepen duurzame restauratietechnieken;
 
-- •. de mate waarin het project bijdraagt aan de professionalisering en versterking van de sector mobiel erfgoed als geheel, de mate waarin verbindingen tussen de deelsectoren weg, water, lucht en rail worden gelegd, en het draagvlak voor de activiteit;
+- • de mate waarin het project bijdraagt aan de professionalisering en versterking van de sector mobiel erfgoed als geheel, de mate waarin verbindingen tussen de deelsectoren weg, water, lucht en rail worden gelegd, en het draagvlak voor de activiteit;
 
-- •. of uit het presentatieplan blijkt dat op inspirerende wijze een passend publiek wordt bereikt en aan het project wordt verbonden waardoor de relatie tussen mobiel erfgoed en de burger wordt versterkt.
+- • of uit het presentatieplan blijkt dat op inspirerende wijze een passend publiek wordt bereikt en aan het project wordt verbonden waardoor de relatie tussen mobiel erfgoed en de burger wordt versterkt.
 
 2. Indien wordt samengewerkt met het onderwijs of indien leerlingwerkplekken bij restauraties worden aangeboden, telt dit in positieve zin mee.
 
@@ -101,5 +78,3 @@ Deze regeling treedt in werking met ingang van 1 september 2018. Indien de Staat
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Restauratie Mobiel Erfgoed.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

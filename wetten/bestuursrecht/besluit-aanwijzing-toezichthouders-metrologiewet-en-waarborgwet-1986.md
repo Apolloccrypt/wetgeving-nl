@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 mei 2018, DGETM/MC 17172892, houdende aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986 (Besluit aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986)"
+citeertitel: "Besluit aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986"
 identifier: "BWBR0040979"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040979"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14626193"
-version_id: "25046232"
-internal_id: "C35815241"
-label_id: "14579254"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040979/2023-01-01/0"
-intitule_bron: "Stcrt.2018-30926"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-26"
-intitule_published: "2018-06-06"
-intitule_in_force: "2018-06-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-30926"
-original_signed_date: "2018-05-26"
-original_published_date: "2018-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-30926"
-entry_into_force_date: "2018-06-07"
-jci_1_3: "jci1.3:c:BWBR0040979&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0040979&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986"
-signed_date: "2018-05-26"
-entry_into_force: "2018-06-07"
+publicatiedatum: 2018-06-07
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0040979"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 mei 2018, DGETM/MC 17172892, houdende aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986 (Besluit aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986)
-
-Gelet op [artikel 27 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=27) en [artikel 52 van de Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275&artikel=52);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -67,5 +41,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

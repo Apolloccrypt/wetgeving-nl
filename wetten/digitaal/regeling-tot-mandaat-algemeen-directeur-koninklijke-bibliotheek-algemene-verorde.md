@@ -1,47 +1,17 @@
 ---
 title: "Regeling tot mandaat Algemeen Directeur Koninklijke Bibliotheek Algemene Verordening Gegevensbescherming 2018"
 identifier: "BWBR0041203"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-06-28"
-last_updated: "2018-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041203"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14689443"
-version_id: "25164922"
-internal_id: "C35979041"
-label_id: "14641794"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041203/2018-06-28/0"
-intitule_bron: "Stcrt.2018-42485"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-27"
-intitule_published: "2018-07-27"
-intitule_in_force: "2018-07-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-42485"
-original_signed_date: "2018-06-27"
-original_published_date: "2018-07-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-42485"
-entry_into_force_date: "2018-06-28"
-jci_1_3: "jci1.3:c:BWBR0041203&z=2018-06-28&g=2018-06-28"
-jci_1_0: "1.0:c:BWBR0041203&g=2018-06-28"
-citeertitel_status: "officieel"
-signed_date: "2018-06-27"
-entry_into_force: "2018-06-28"
+publicatiedatum: 2018-06-28
+laatste_update: 2018-06-28
+status: geldig
+toestand: 2018-06-28
+bron: "https://wetten.overheid.nl/BWBR0041203"
+opgehaald: 2026-08-27
 ---
+
 # Regeling tot mandaat Algemeen Directeur Koninklijke Bibliotheek Algemene Verordening Gegevensbescherming 2018
-
-Gelet op de bepalingen in Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (verder: Algemene Verordening Gegevensbescherming) en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
-
-Besluit:
-
-De Algemeen Directeur van de Koninklijke Bibliotheek het navolgende mandaat te verlenen:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Bevoegdheden
 

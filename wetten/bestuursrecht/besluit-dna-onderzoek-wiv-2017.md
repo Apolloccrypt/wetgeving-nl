@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 18 april 2018, houdende regels met betrekking tot het verrichten van DNA-onderzoek in het kader van de uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Besluit DNA-onderzoek Wiv 2017)"
+citeertitel: "Besluit DNA-onderzoek Wiv 2017"
 identifier: "BWBR0040851"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-05-01"
-last_updated: "2018-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040851"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "14595653"
-version_id: "24992212"
-internal_id: "C35741771"
-label_id: "14549334"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040851/2018-05-01/0"
-intitule_bron: "Stb.2018-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-18"
-intitule_published: "2018-04-26"
-intitule_in_force: "2018-04-26"
-intitule_status: "goed"
-original_publication: "Stb.2018-118"
-original_signed_date: "2018-04-18"
-original_published_date: "2018-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-118"
-entry_into_force_date: "2018-05-01"
-jci_1_3: "jci1.3:c:BWBR0040851&z=2018-05-01&g=2018-05-01"
-jci_1_0: "1.0:c:BWBR0040851&g=2018-05-01"
-citeertitel_status: "officieel"
-short_title: "Besluit DNA-onderzoek Wiv 2017"
-signed_date: "2018-04-18"
-entry_into_force: "2018-05-01"
+publicatiedatum: 2018-05-01
+laatste_update: 2018-05-01
+status: geldig
+toestand: 2018-05-01
+bron: "https://wetten.overheid.nl/BWBR0040851"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 18 april 2018, houdende regels met betrekking tot het verrichten van DNA-onderzoek in het kader van de uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Besluit DNA-onderzoek Wiv 2017)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, gedaan mede namens Onze Minister van Defensie van 22 december 2017, nr. 2017-0000212750;
-
-Gelet op [artikel 43, achtste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=43);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 1 maart 2018, no. W04.17.0403/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, uitgebracht mede namens Onze Minister van Defensie van 17 april 2018, nr 2018-0000177542;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepaling
 
@@ -52,15 +20,16 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
+- a. *wet:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- b. **DNA-onderzoek:** onderzoek als bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=43);
+- b. *DNA-onderzoek:* onderzoek als bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=43);
 
-- c. **DNA-profielenregistratie:** de registratie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040851&paragraaf=5&artikel=7&z=2018-05-01&g=2018-05-01);
+- c. *DNA-profielenregistratie:* de registratie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040851&paragraaf=5&artikel=7&z=2018-05-01&g=2018-05-01);
 
-- d. **NEN-EN ISO/IEC 17025:** algemene eisen voor de bekwaamheid van beproevings- en kalibratielaboratoria, uitgegeven door het Nederlandse Normalisatie-Instituut, zoals deze luidden in januari 2007;
+- d. *NEN-EN ISO/IEC 17025:* algemene eisen voor de bekwaamheid van beproevings- en kalibratielaboratoria, uitgegeven door het Nederlandse Normalisatie-Instituut, zoals deze luidden in januari 2007;
 
-- e. **sporenidentificatienummer:** uniek nummer waarmee een drager van DNA-sporen uniek wordt geïdentificeerd.
+- e. *sporenidentificatienummer:* uniek nummer waarmee een drager van DNA-sporen uniek wordt geïdentificeerd.
 
 #### Paragraaf 2. Veiligstellen van celmateriaal
 
@@ -231,5 +200,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit DNA-onderzoek Wiv 2017.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

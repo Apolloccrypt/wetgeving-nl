@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 mei 2018, houdende tijdelijke regels betreffende de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties (Tijdelijk besluit digitale toegankelijkheid overheid)"
+citeertitel: "Tijdelijk besluit digitale toegankelijkheid overheid"
 identifier: "BWBR0040936"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040936"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "14615563"
-version_id: "25025252"
-internal_id: "C35790011"
-label_id: "14569094"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040936/2018-07-01/0"
-intitule_bron: "Stb.2018-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-03"
-intitule_published: "2018-05-24"
-intitule_in_force: "2018-05-24"
-intitule_status: "goed"
-original_publication: "Stb.2018-141"
-original_signed_date: "2018-05-03"
-original_published_date: "2018-05-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-141"
-entry_into_force_date: "2018-07-01"
-jci_1_3: "jci1.3:c:BWBR0040936&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0040936&g=2018-07-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit digitale toegankelijkheid overheid"
-signed_date: "2018-05-03"
-entry_into_force: "2018-07-01"
+publicatiedatum: 2018-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0040936"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 3 mei 2018, houdende tijdelijke regels betreffende de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties (Tijdelijk besluit digitale toegankelijkheid overheid)
-
-Op de voordracht van Onze Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 februari 2018, nr. 0000091712/CZW/SB;
-
-Gelet op Richtlijn (EU) 2016/2102 van het Europees Parlement en de Raad van 26 oktober 2016 inzake de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties (PbEU 2016, L 327) en [artikel 89 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=89);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 6 april 2018, No.W04.18.0021/I);
-
-Gezien het nader rapport van Onze Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 00 april 2018 nr. 0000218242/CZW/SB;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,25 +20,25 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **content:** het geheel aan informatie dat een instantie via een website of mobiele applicatie wil overbrengen, waaronder tekst, downloadbare documenten en formulieren en interactie, zoals het verwerken van digitale formulieren en het afwikkelen van identificatieprocedures;
+- *content:* het geheel aan informatie dat een instantie via een website of mobiele applicatie wil overbrengen, waaronder tekst, downloadbare documenten en formulieren en interactie, zoals het verwerken van digitale formulieren en het afwikkelen van identificatieprocedures;
 
-- **stukken uit erfgoedcollecties:** in particulier bezit of overheidsbezit zijnde goederen die van historisch, artistiek, archeologisch, esthetisch, wetenschappelijk of technisch belang zijn en deel uitmaken van verzamelingen die worden bewaard door culturele instellingen, zoals bibliotheken, archieven en musea;
+- *stukken uit erfgoedcollecties:* in particulier bezit of overheidsbezit zijnde goederen die van historisch, artistiek, archeologisch, esthetisch, wetenschappelijk of technisch belang zijn en deel uitmaken van verzamelingen die worden bewaard door culturele instellingen, zoals bibliotheken, archieven en musea;
 
-- **mobiele applicatie:** toepassingssoftware die is ontworpen en ontwikkeld door of namens overheidsinstanties met het oog op gebruik door het algemene publiek op mobiele toestellen zoals smartphones en tablets. Zij omvat niet de besturingssoftware van die toestellen en de hardware;
+- *mobiele applicatie:* toepassingssoftware die is ontworpen en ontwikkeld door of namens overheidsinstanties met het oog op gebruik door het algemene publiek op mobiele toestellen zoals smartphones en tablets. Zij omvat niet de besturingssoftware van die toestellen en de hardware;
 
-- **Onze Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *Onze Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **overheidsinstantie:** de staats-, regionale of lokale overheidsinstanties, publiekrechtelijke instellingen als gedefinieerd in artikel 2, lid 1, punt 4, van Richtlijn (EU) 2014/24, of samenwerkingsverbanden bestaande uit één of meer van deze overheidsinstanties of één of meer van deze publiekrechtelijke instellingen, indien die samenwerkingsverbanden worden opgericht met het specifieke doel te voorzien in andere behoeften van algemeen belang dan die van industriële of commerciële aard;
+- *overheidsinstantie:* de staats-, regionale of lokale overheidsinstanties, publiekrechtelijke instellingen als gedefinieerd in artikel 2, lid 1, punt 4, van Richtlijn (EU) 2014/24, of samenwerkingsverbanden bestaande uit één of meer van deze overheidsinstanties of één of meer van deze publiekrechtelijke instellingen, indien die samenwerkingsverbanden worden opgericht met het specifieke doel te voorzien in andere behoeften van algemeen belang dan die van industriële of commerciële aard;
 
-- **op tijd gebaseerde media:** media van de volgende types: louter geluid, louter videobeeld, audio-video, audio en/of video in combinatie met interactie;
+- *op tijd gebaseerde media:* media van de volgende types: louter geluid, louter videobeeld, audio-video, audio en/of video in combinatie met interactie;
 
-- **richtlijn (EU) 2016/2102:** richtlijn van het Europees Parlement en de Raad van 26 oktober 2016 inzake de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties (PbEU 2016, L 327);
+- *richtlijn (EU) 2016/2102:* richtlijn van het Europees Parlement en de Raad van 26 oktober 2016 inzake de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties (PbEU 2016, L 327);
 
-- **standaard EN 301 549:** verzameling van technische eisen, waaronder de WCAG 2.0 richtlijnen, toe te passen bij bouw en beheer van websites en mobiele applicaties, die content toegankelijk maken voor mensen met een functiebeperking;
+- *standaard EN 301 549:* verzameling van technische eisen, waaronder de WCAG 2.0 richtlijnen, toe te passen bij bouw en beheer van websites en mobiele applicaties, die content toegankelijk maken voor mensen met een functiebeperking;
 
-- **toegankelijk:** waarneembaar, bedienbaar, begrijpelijk en robuust;
+- *toegankelijk:* waarneembaar, bedienbaar, begrijpelijk en robuust;
 
-- **website:** verzameling samenhangende webpagina’s met content, zoals tekst, afbeeldingen of video’s.
+- *website:* verzameling samenhangende webpagina’s met content, zoals tekst, afbeeldingen of video’s.
 
 ##### Artikel 2. Reikwijdte
 
@@ -159,5 +127,3 @@ Dit besluit treedt in werking met ingang van 1 juli 2018.
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit digitale toegankelijkheid overheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

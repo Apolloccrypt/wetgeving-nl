@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 31 mei 2018, houdende beperking van de openbaarheid van een aantal inventarissen van het Codearchief 1975–1984 (Besluit Beperking Openbaarheid Codearchief 1975–1984)"
+citeertitel: "Besluit beperking openbaarheid Codearchief 1975–1984"
 identifier: "BWBR0040999"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-06-09"
-last_updated: "2018-06-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040999"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14631783"
-version_id: "25054902"
-internal_id: "C35831361"
-label_id: "14584714"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040999/2018-06-09/0"
-intitule_bron: "Stcrt.2018-31601"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-31"
-intitule_published: "2018-06-08"
-intitule_in_force: "2018-06-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-31601"
-original_signed_date: "2018-05-31"
-original_published_date: "2018-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-31601"
-entry_into_force_date: "2018-06-09"
-jci_1_3: "jci1.3:c:BWBR0040999&z=2018-06-09&g=2018-06-09"
-jci_1_0: "1.0:c:BWBR0040999&g=2018-06-09"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid Codearchief 1975–1984"
-signed_date: "2018-05-31"
-entry_into_force: "2018-06-09"
+publicatiedatum: 2018-06-09
+laatste_update: 2018-06-09
+status: geldig
+toestand: 2018-06-09
+bron: "https://wetten.overheid.nl/BWBR0040999"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 31 mei 2018, houdende beperking van de openbaarheid van een aantal inventarissen van het Codearchief 1975–1984 (Besluit Beperking Openbaarheid Codearchief 1975–1984)
-
-Overwegende dat een aantal dossiers in het archief beperkingen aan de openbaarheid behoeft;
-
-Gelet op [artikel 15, eerste lid, onder a, b en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de rijksarchivaris van het Nationaal Archief d.d. 18 juli 2017, nr. EDOC-1172722;
-
-Besluit:
 
 ##### Artikel 1
 

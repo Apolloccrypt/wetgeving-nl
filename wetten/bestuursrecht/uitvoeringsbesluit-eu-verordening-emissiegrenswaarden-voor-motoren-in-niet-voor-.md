@@ -1,78 +1,36 @@
 ---
 title: "Besluit van 19 juni 2018, houdende regels ter uitvoering van Verordening (EU) 2016/1628 van het Europees Parlement en de Raad van 14 september 2016 inzake voorschriften met betrekking tot emissiegrenswaarden voor verontreinigende gassen en deeltjes en typegoedkeuring voor in niet voor de weg bestemde mobiele machines gemonteerde interne verbrandingsmotoren, tot wijziging van Verordeningen (EU) nr. 1024/2012 en (EU) nr. 167/2013, en tot wijziging en intrekking van Richtlijn 97/68/EG (PbEU 2016, L252) en de daarop gebaseerde verordeningen van de Europese Commissie (Uitvoeringsbesluit EU-verordening emissiegrenswaarden voor motoren in niet voor de weg bestemde mobiele machines)"
+citeertitel: "Uitvoeringsbesluit EU-verordening emissiegrenswaarden voor motoren in niet voor de weg bestemde mobiele machines"
 identifier: "BWBR0041089"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-04-19"
-last_updated: "2023-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041089"
+categorie: "Internationaal recht"
 soort: "AMvB"
-stam_id: "14659903"
-version_id: "29341572"
-internal_id: "C41862661"
-label_id: "14612714"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041089/2023-04-19/0"
-intitule_bron: "Stb.2018-201"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-19"
-intitule_published: "2018-06-28"
-intitule_in_force: "2018-10-04"
-intitule_status: "goed"
-original_publication: "Stb.2023-124"
-original_signed_date: "2023-04-12"
-original_published_date: "2023-04-18"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2023-124"
-entry_into_force_date: "2023-04-12"
-jci_1_3: "jci1.3:c:BWBR0041089&z=2023-04-19&g=2023-04-19"
-jci_1_0: "1.0:c:BWBR0041089&g=2023-04-19"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit EU-verordening emissiegrenswaarden voor motoren in niet voor de weg bestemde mobiele machines"
-signed_date: "2023-04-12"
-entry_into_force: "2023-04-12"
+publicatiedatum: 2023-04-12
+laatste_update: 2023-04-19
+status: geldig
+toestand: 2023-04-19
+bron: "https://wetten.overheid.nl/BWBR0041089"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 19 juni 2018, houdende regels ter uitvoering van Verordening (EU) 2016/1628 van het Europees Parlement en de Raad van 14 september 2016 inzake voorschriften met betrekking tot emissiegrenswaarden voor verontreinigende gassen en deeltjes en typegoedkeuring voor in niet voor de weg bestemde mobiele machines gemonteerde interne verbrandingsmotoren, tot wijziging van Verordeningen (EU) nr. 1024/2012 en (EU) nr. 167/2013, en tot wijziging en intrekking van Richtlijn 97/68/EG (PbEU 2016, L252) en de daarop gebaseerde verordeningen van de Europese Commissie (Uitvoeringsbesluit EU-verordening emissiegrenswaarden voor motoren in niet voor de weg bestemde mobiele machines)
-
-Op de voordracht van de Staatssecretaris van Infrastructuur en Waterstaat van 12 maart 2018, nr. IenM/BSK-2017/287701, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op:
-
-verordening (EU) 2016/1628 van het Europees Parlement en de Raad van 14 september 2016 inzake voorschriften met betrekking tot emissiegrenswaarden voor verontreinigende gassen en deeltjes en typegoedkeuring voor in niet voor de weg bestemde mobiele machines gemonteerde interne verbrandingsmotoren, tot wijziging van Verordeningen (EU) nr. 1024/2012 en (EU) nr. 167/2013, en tot wijziging en intrekking van [Richtlijn 97/68/EG](31997L0068) (PbEU 2016, L 252);
-
-gedelegeerde verordening (EU) 2017/654 van de Commissie van 19 december 2016 tot aanvulling van Verordening (EU) 2016/1628 van het Europees Parlement en de Raad wat betreft de technische en algemene voorschriften betreffende de emissiegrenswaarden en de typegoedkeuring voor interne verbrandingsmotoren (PbEU L 102/1);
-
-gedelegeerde verordening (EU) 2017/655 van de Commissie van 19 december 2016 tot aanvulling van Verordening (EU) 2016/1628 van het Europees Parlement en de Raad wat betreft de monitoring van de uitstoot van verontreinigende gassen door in gebruik zijnde interne verbrandingsmotoren die gemonteerd zijn in niet voor de weg bestemde mobiele machines (PbEU L 102/364);
-
-uitvoeringsverordening (EU) 2017/656 van de Commissie van 19 december 2016 tot vaststelling van de administratieve voorschriften met betrekking tot emissiegrenswaarden en typegoedkeuring voor interne verbrandingsmotoren voor niet voor de weg bestemde mobiele machines overeenkomstig Verordening (EU) 2016/1628 van het Europees Parlement en de Raad (PbEU L 102/334);
-
-[artikel 9.5.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.1);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 25 april 2018, no. W17.18.0073/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Waterstaat van 12 juni 2018, nr. IENW/BSK-2018/121074, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **verordening (EU) 2016/1628:** verordening (EU) 2016/1628 van het Europees Parlement en de Raad van 14 september 2016 inzake voorschriften met betrekking tot emissiegrenswaarden voor verontreinigende gassen en deeltjes en typegoedkeuring voor in niet voor de weg bestemde mobiele machines gemonteerde interne verbrandingsmotoren, tot wijziging van Verordeningen (EU) nr. 1024/2012 en (EU) nr. 167/2013, en tot wijziging en intrekking van [Richtlijn 97/68/EG](31997L0068) (PbEU 2016, L 252);
+- – *verordening (EU) 2016/1628:* verordening (EU) 2016/1628 van het Europees Parlement en de Raad van 14 september 2016 inzake voorschriften met betrekking tot emissiegrenswaarden voor verontreinigende gassen en deeltjes en typegoedkeuring voor in niet voor de weg bestemde mobiele machines gemonteerde interne verbrandingsmotoren, tot wijziging van Verordeningen (EU) nr. 1024/2012 en (EU) nr. 167/2013, en tot wijziging en intrekking van Richtlijn 97/68/EG (PbEU 2016, L 252);
 
-- –. **verordening (EU) 2017/654:** gedelegeerde verordening (EU) 2017/654 van de Commissie van 19 december 2016 tot aanvulling van Verordening (EU) 2016/1628 van het Europees Parlement en de Raad wat betreft de technische en algemene voorschriften betreffende de emissiegrenswaarden en de typegoedkeuring voor interne verbrandingsmotoren (PbEU L 102/1);
+- – *verordening (EU) 2017/654:* gedelegeerde verordening (EU) 2017/654 van de Commissie van 19 december 2016 tot aanvulling van Verordening (EU) 2016/1628 van het Europees Parlement en de Raad wat betreft de technische en algemene voorschriften betreffende de emissiegrenswaarden en de typegoedkeuring voor interne verbrandingsmotoren (PbEU L 102/1);
 
-- –. **verordening (EU) 2017/655:** gedelegeerde verordening (EU) 2017/655 van de Commissie van 19 december 2016 tot aanvulling van Verordening (EU) 2016/1628 van het Europees Parlement en de Raad wat betreft de monitoring van de uitstoot van verontreinigende gassen door in gebruik zijnde interne verbrandingsmotoren die gemonteerd zijn in niet voor de weg bestemde mobiele machines (PbEU L 102/334);
+- – *verordening (EU) 2017/655:* gedelegeerde verordening (EU) 2017/655 van de Commissie van 19 december 2016 tot aanvulling van Verordening (EU) 2016/1628 van het Europees Parlement en de Raad wat betreft de monitoring van de uitstoot van verontreinigende gassen door in gebruik zijnde interne verbrandingsmotoren die gemonteerd zijn in niet voor de weg bestemde mobiele machines (PbEU L 102/334);
 
-- –. **verordening (EU) 2017/656:** uitvoeringsverordening (EU) 2017/656 van de Commissie van 19 december 2016 tot vaststelling van de administratieve voorschriften met betrekking tot emissiegrenswaarden en typegoedkeuring voor interne verbrandingsmotoren voor niet voor de weg bestemde mobiele machines overeenkomstig Verordening (EU) 2016/1628 van het Europees Parlement en de Raad (PbEU L 102/364).
+- – *verordening (EU) 2017/656:* uitvoeringsverordening (EU) 2017/656 van de Commissie van 19 december 2016 tot vaststelling van de administratieve voorschriften met betrekking tot emissiegrenswaarden en typegoedkeuring voor interne verbrandingsmotoren voor niet voor de weg bestemde mobiele machines overeenkomstig Verordening (EU) 2016/1628 van het Europees Parlement en de Raad (PbEU L 102/364).
 
-2. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt onder EU-typegoedkeuring, fabrikant van originele uitrusting, goedkeuringsinstantie, in de handel brengen, in gebruik zijnde motor, marktdeelnemer, markttoezichtautoriteit, motor, motortype, niet voor de weg bestemde mobiele machine, op de markt aanbieden en overgangsmotor verstaan hetgeen daaronder in artikel 3 van verordening (EU) 2016/1628 wordt verstaan.
+2. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt onder EU-typegoedkeuring, fabrikant van originele uitrusting, goedkeuringsinstantie, in de handel brengen, in gebruik zijnde motor, marktdeelnemer, markttoezichtautoriteit, motor, motortype, niet voor de weg bestemde mobiele machine, op de markt aanbieden en overgangsmotor verstaan hetgeen daaronder in artikel 3 van verordening (EU) 2016/1628 wordt verstaan.
 
 3. Voor de toepassing van dit besluit wordt verstaan onder:
 
-- **«aanbieder van diensten van de informatiemaatschappij»:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241).
+- *«aanbieder van diensten van de informatiemaatschappij»:* aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van Richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241).
 
 ##### Artikel 2
 
@@ -116,6 +74,12 @@ Het in artikel 8, negende lid, van verordening (EU) 2016/1628 bedoelde EU-typego
 
 3. In afwijking van het eerste lid, onderscheidenlijk tweede lid, is het in de handel brengen van een motor niet verboden, voor zover sprake is van een situatie als bedoeld in artikel 34, zesde, zevende of achtste lid, van verordening (EU) 2016/1628 en is voldaan aan de in de toepasselijke bepaling gestelde voorwaarden.
 
+##### Artikel 5a
+
+1. Het is marktdeelnemers, bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht, en fabrikanten van originele uitrusting, die betrokken zijn of zijn geweest bij het op markt aanbieden van niet voor de weg bestemde mobiele machines, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van niet voor de weg bestemde mobiele machines, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
+
 ##### Artikel 6
 
 1. Het [Besluit typekeuring luchtverontreiniging motoren voor mobiele machines](https://wetten.overheid.nl/jci1.3:c:BWBR0012169) wordt ingetrokken.
@@ -129,13 +93,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit EU-verordening emissiegrenswaarden voor motoren in niet voor de weg bestemde mobiele machines.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-1. Het is marktdeelnemers, bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht, en fabrikanten van originele uitrusting, die betrokken zijn of zijn geweest bij het op markt aanbieden van niet voor de weg bestemde mobiele machines, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
-
-2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van niet voor de weg bestemde mobiele machines, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

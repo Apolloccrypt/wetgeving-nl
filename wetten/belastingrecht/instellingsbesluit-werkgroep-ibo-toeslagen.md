@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Financiën, van 15 oktober 2018, nr. 2018-169735, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Toeslagen (Instellingsbesluit werkgroep IBO Toeslagen)"
+citeertitel: "Instellingsbesluit Werkgroep IBO Toeslagen"
 identifier: "BWBR0041502"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-01"
-last_updated: "2018-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041502"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14847193"
-version_id: "25381522"
-internal_id: "C36244451"
-label_id: "14798794"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041502/2018-11-01/0"
-intitule_bron: "Stcrt.2018-61834"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-15"
-intitule_published: "2018-10-31"
-intitule_in_force: "2018-10-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-61834"
-original_signed_date: "2018-10-15"
-original_published_date: "2018-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-61834"
-entry_into_force_date: "2018-11-01"
-jci_1_3: "jci1.3:c:BWBR0041502&z=2018-11-01&g=2018-11-01"
-jci_1_0: "1.0:c:BWBR0041502&g=2018-11-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Werkgroep IBO Toeslagen"
-signed_date: "2018-10-15"
-entry_into_force: "2018-11-01"
+publicatiedatum: 2018-11-01
+laatste_update: 2018-11-01
+status: geldig
+toestand: 2018-11-01
+bron: "https://wetten.overheid.nl/BWBR0041502"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Financiën, van 15 oktober 2018, nr. 2018-169735, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Toeslagen (Instellingsbesluit werkgroep IBO Toeslagen)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Financiën;
+- a. *Minister:* Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041502&artikel=2&z=2018-11-01&g=2018-11-01).
+- b. *werkgroep:* werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041502&artikel=2&z=2018-11-01&g=2018-11-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -64,23 +38,23 @@ In dit besluit wordt verstaan onder:
 
 3. Tot leden van de werkgroep worden benoemd:
 
-- –. mw. S.I.S. Teunissen, Msc (Ministerie van Financiën)
+- – mw. S.I.S. Teunissen, Msc (Ministerie van Financiën)
 
-- –. mw. mr. drs. M.A.D. Fasol (Ministerie van Financiën)
+- – mw. mr. drs. M.A.D. Fasol (Ministerie van Financiën)
 
-- –. dhr. drs. D. Waagmeester (Ministerie van Sociale Zaken en Werkgelegenheid)
+- – dhr. drs. D. Waagmeester (Ministerie van Sociale Zaken en Werkgelegenheid)
 
-- –. dhr. drs. M.C.J. van Dal (Ministerie van Sociale Zaken en Werkgelegenheid)
+- – dhr. drs. M.C.J. van Dal (Ministerie van Sociale Zaken en Werkgelegenheid)
 
-- –. dhr. drs. J.D. Brilman (Ministerie van Volksgezondheid, Welzijn en Sport)
+- – dhr. drs. J.D. Brilman (Ministerie van Volksgezondheid, Welzijn en Sport)
 
-- –. mw. dr. S. J. Kok (Ministerie van Economische Zaken en Klimaat)
+- – mw. dr. S. J. Kok (Ministerie van Economische Zaken en Klimaat)
 
-- –. dhr. drs. J.C. Pot (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties)
+- – dhr. drs. J.C. Pot (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties)
 
-- –. mw. drs. D. Schiet (Ministerie van Algemene Zaken)
+- – mw. drs. D. Schiet (Ministerie van Algemene Zaken)
 
-- –. mw. dr. N.M. Bosch (Centraal Planbureau)
+- – mw. dr. N.M. Bosch (Centraal Planbureau)
 
 4. De leden van de werkgroep werkzaam voor de overheid kunnen bij afwezigheid of verandering van baan vervangen worden door een collega van dezelfde werkgever.
 
@@ -121,5 +95,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep IBO Toeslagen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

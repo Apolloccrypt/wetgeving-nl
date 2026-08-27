@@ -1,47 +1,45 @@
 ---
-title: "Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen Infrastructuur en Waterstaat 2018"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 27 maart 2018, nr. IENW/BSK-2018/66380, houdende vaststelling van de Regeling vertrouwenspersonen ongewenste omgangsvormen en integriteit in de arbeidsorganisatie Ministerie van Infrastructuur en Waterstaat"
+citeertitel: "Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen Infrastructuur en Waterstaat 2018"
 identifier: "BWBR0040783"
-categorie: "Milieu"
-publicatiedatum: 2020-03-07
-laatste_update: 2020-03-07
+categorie: "Arbeidsrecht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2018-03-31
+laatste_update: 2025-06-30
 status: vervallen
+vervallen_op: 2026-07-08
+toestand: 2025-06-30
 bron: "https://wetten.overheid.nl/BWBR0040783"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-27
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 27 maart 2018, nr. IENW/BSK-2018/66380, houdende vaststelling van de Regeling vertrouwenspersonen ongewenste omgangsvormen en integriteit in de arbeidsorganisatie Ministerie van Infrastructuur en Waterstaat
 
-Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14);
-
-Gehoord de departementale ondernemingsraad van het Ministerie van Infrastructuur en Waterstaat;
-
-BESLUIT:
-
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1), werkzaam bij het Ministerie van Infrastructuur en Waterstaat;
+- a. *ambtenaar:* ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1), werkzaam bij het Ministerie van Infrastructuur en Waterstaat;
 
-- b. **klachtencommissie:** de Klachtencommissie ongewenste omgangsvormen als bedoeld in [artikel 3 van het Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0038720&artikel=3);
+- b. *klachtencommissie:* de Klachtencommissie ongewenste omgangsvormen als bedoeld in [artikel 3 van het Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0038720&artikel=3);
 
-- c. **cao:** CAO Rijk;
+- c. *cao:* CAO Rijk;
 
-- d. **diensthoofd:** hoogste leidinggevende als bedoeld in de cao die binnen een organisatie(onderdeel) bevoegd is omtrent een vermoeden van schending van een integriteitsnorm of een ongewenste omgangsvorm een standpunt in te nemen of maatregel te treffen;
+- d. *diensthoofd:* hoogste leidinggevende als bedoeld in de cao die binnen een organisatie(onderdeel) bevoegd is omtrent een vermoeden van schending van een integriteitsnorm of een ongewenste omgangsvorm een standpunt in te nemen of maatregel te treffen;
 
-- e. **vertrouwenspersoon:** een vertrouwenspersoon als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040783&hoofdstuk=3&artikel=4&z=2020-03-07&g=2020-03-07).
+- e. *vertrouwenspersoon:* een vertrouwenspersoon als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040783&hoofdstuk=3&artikel=4&z=2020-03-07&g=2025-06-30).
 
 2. Onder ambtenaar wordt voor de toepassing van deze regeling ook verstaan: de gewezen ambtenaar of degene die voor het Ministerie van Infrastructuur en Waterstaat werkzaamheden verricht of heeft verricht op basis van detachering of inhuur, als uitzendkracht of als stagiair.
 
 ### Hoofdstuk 2. Werkingsgebied
 
-#### Artikel 2
+##### Artikel 2
 
 De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een vermeende integriteitsschending of een misstand kan zich wenden tot zijn manager, tot een vertrouwenspersoon, tot het diensthoofd of, indien dit niet in redelijkheid van hem kan worden gevraagd, kan hij rechtstreeks een melding doen bij de afdeling Onderzoek van het Huis voor klokkenluiders.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ambtenaar die wordt of is geconfronteerd met ongewenste omgangsvormen kan zich wenden tot zijn manager, tot een vertrouwenspersoon, of tot de klachtencommissie.
 
@@ -49,7 +47,7 @@ De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een ve
 
 ### Hoofdstuk 3. Vertrouwenspersoon integriteit en ongewenste omgangsvormen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Er zijn per dienstonderdeel een of meer vertrouwenspersonen integriteit en ongewenste omgangsvormen.
 
@@ -57,7 +55,7 @@ De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een ve
 
 3. Een vertrouwenspersoon kan door elke ambtenaar van het ministerie van Infrastructuur en Waterstaat, ook buiten diens eigen dienstonderdeel, worden benaderd voor een melding over een zaak aangaande een Infrastructuur en Waterstaat-ambtenaar.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vertrouwenspersoon wordt in een transparante formele procedure geworven en geselecteerd benoemd en weer van zijn taak ontheven door de minister.
 
@@ -65,7 +63,7 @@ De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een ve
 
 3. De taak wordt opgevat als een volwaardig onderdeel van het takenpakket waarvoor de vertrouwenspersoon wordt vrijgesteld. Afhankelijk van de werklast zal die vrijstelling in omvang door de tijd heen variëren.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vertrouwenspersoon heeft op het terrein van de integriteit in elk geval de volgende taken en bevoegdheden:
 
@@ -91,7 +89,7 @@ De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een ve
 
 - c. het zich maximaal inzetten om de identiteit van de melder te beschermen indien deze dat wenst.
 
-#### Artikel 7
+##### Artikel 7
 
 De vertrouwenspersoon heeft op het gebied van ongewenste omgangsvormen in elk geval de volgende taken en bevoegdheden:
 
@@ -115,17 +113,17 @@ De vertrouwenspersoon heeft op het gebied van ongewenste omgangsvormen in elk ge
 
 ### Hoofdstuk 4. Rechten en plichten
 
-#### Artikel 8
+##### Artikel 8
 
 De vertrouwenspersonen zijn verplicht tot geheimhouding van enig gegeven over de klager dan wel de melder en de klacht of over een vertrouwelijk gesprek of signaal, dat hen uit hoofde van hun functie is toevertrouwd of is bekend geworden, tegenover eenieder die tot kennisneming daarvan niet bevoegd is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vertrouwenspersoon geniet binnen de rijksoverheid verschoningsrecht. Dat een vertrouwenspersoon op grond van zijn verschoningsrecht weigert informatie te verstrekken heeft geen gevolgen voor het verrichten van zijn eigen werkzaamheden of voor zijn arbeidsrechtelijke positie.
 
 2. Het verschoningsrecht geldt niet wanneer er sprake is van een (ambts)misdrijf. De vertrouwenspersoon is verplicht hiervan melding te doen bij het eigen diensthoofd, dan wel het diensthoofd van de diensteenheid waar het misdrijf betrekking op heeft. In geval van het vermoeden van een strafbaar feit is de vertrouwenspersoon verplicht samen met het diensthoofd daarvan aangifte te doen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vertrouwenspersoon heeft recht op de faciliteiten welke hij nodig heeft om zijn functie naar behoren te kunnen vervullen. Het dienstonderdeel waar de vertrouwenspersoon werkzaam is, draagt er zorg voor dat de vertrouwenspersoon over deze faciliteiten beschikt.
 
@@ -137,7 +135,7 @@ De vertrouwenspersonen zijn verplicht tot geheimhouding van enig gegeven over de
 
 - b. de periodieke intervisie.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een vertrouwenspersoon of gewezen vertrouwenspersoon ondervindt geen nadelige gevolgen in zijn arbeidsrechtelijke positie of in zijn dagelijks functioneren binnen het ministerie van Infrastructuur en Waterstaat, als direct of indirect gevolg van een melding, klacht of signaleringsgesprek.
 
@@ -145,24 +143,22 @@ De vertrouwenspersonen zijn verplicht tot geheimhouding van enig gegeven over de
 
 3. De inhoud van het werk van de vertrouwenspersoon mag op geen enkele wijze meewegen in het P-gesprek. Wel kunnen de faciliteiten, welke nodig zijn om zijn functie als vertrouwenspersoon naar behoren te kunnen vervullen, ter sprake komen.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien de vertrouwenspersoon proceskosten maakt, dan is de vergoeding zoals opgenomen in de cao van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt twee jaar na inwerkingtreding geëvalueerd.
 
-#### Artikel 14
+##### Artikel 14
 
 De Klachtenregeling Ongewenste omgangsvormen in de arbeidsorganisatie Ministerie van Verkeer en Waterstaat (Staatscourant 2016, 60493) wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen Infrastructuur en Waterstaat 2018.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

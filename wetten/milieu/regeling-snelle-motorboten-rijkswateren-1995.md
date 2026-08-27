@@ -4,32 +4,42 @@ identifier: "BWBR0007331"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 1995-05-04
-laatste_update: 2026-04-01
+laatste_update: 2026-08-26
 status: geldig
-toestand: 2026-04-01
+toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0007331"
-opgehaald: 2026-08-02
+opgehaald: 2026-08-27
 ---
 
 # Regeling snelle motorboten Rijkswateren 1995
 
 ##### Artikel 1
 
-1. Als vaarwegen of gedeelten daarvan, waar overdag met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
+1. Als vaarwegen of gedeelten daarvan, waar overdag met een snelle motorboot mag worden gevaren met een hogere snelheid dan 20 km/u worden aangewezen:
 
 - a. *vervallen;*
 
 - b. de Waddenzee, binnen de betonning in de vaargeulen van:
 
-   - 1) zee naar de havens van Den Helder, Oude Schild en Den Oever via respectievelijk het Marsdiep, de Texelstroom en het Visjagersgaatje;
+   - 1) zee naar de havens van Den Helder, Oudeschild en Den Oever via respectievelijk Marsdiep, Texelstroom, Malzwin en Visjagersgaatje;
 
-   - 2) Den Helder naar de havens Kornwerderzand en Harlingen via de Texelstroom, Doove Belg en Boontjes;
+   - 2) Den Helder naar de havens van Kornwerderzand en Harlingen via Texelstroom, Doove Balg en Boontjes;
 
-   - 3) zee naar de havens van Harlingen via de Vliestroom en de Blauwe Slenk;
+   - 3) zee naar de haven van Harlingen via Zuider Stortemelk, Vliestroom, Blauwe Slenk en Vaargeul langs Pollendam;
 
-   - 4) zee naar de haven Lauwersoog via de Zoutkamperlaag ; en
+   - 4) Vliesloot, tussen de veerhaven van Vlieland en de aansluiting op Zuider Stortemelk;
 
-   - 5) de veerbootroutes van en naar de Waddeneilanden.
+   - 5) het deel van het Schuitengat tussen de haven van West-Terschelling en Slenk;
+
+   - 6) Slenk;
+
+   - 7) West Meep;
+
+   - 8) veerhaven Ameland naar Holwerd, via Reegeul Ameland en Veerbootroute Ameland;
+
+   - 9) zee naar de haven van Lauwersoog via Westgat en Zoutkamperlaag;
+
+   - 10) Groote Siege, Gat van Schiermonnikoog en Glinder.
 
 - c. de Texelstroom, ten noorden van de lijn gevormd door de verbinding tussen de tonnen T 12 en T 14, en ten zuiden van de haven van Oudeschild;
 
@@ -467,7 +477,7 @@ opgehaald: 2026-08-02
 
 - d. de Noord.
 
-2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing op:
+2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2026-08-26&g=2026-08-26), is van overeenkomstige toepassing op:
 
 - a. de Nieuwe Maas vanaf km 989.000;
 

@@ -1,51 +1,26 @@
 ---
 title: "Registratieregels UWV 2016"
 identifier: "BWBR0040996"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-06-09"
-last_updated: "2018-06-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040996"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14631063"
-version_id: "25053062"
-internal_id: "C35829401"
-label_id: "14584054"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040996/2018-06-09/0"
-intitule_bron: "Stcrt.2018-31575"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-14"
-intitule_published: "2018-06-08"
-intitule_in_force: "2018-06-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-31575"
-original_signed_date: "2018-05-14"
-original_published_date: "2018-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-31575"
-entry_into_force_date: "2018-06-09"
-jci_1_3: "jci1.3:c:BWBR0040996&z=2018-06-09&g=2018-06-09"
-jci_1_0: "1.0:c:BWBR0040996&g=2018-06-09"
-citeertitel_status: "officieel"
-signed_date: "2018-05-14"
-entry_into_force: "2018-06-09"
+publicatiedatum: 2018-06-09
+laatste_update: 2018-06-09
+status: geldig
+toestand: 2018-06-09
+bron: "https://wetten.overheid.nl/BWBR0040996"
+opgehaald: 2026-08-27
 ---
+
 # Registratieregels UWV 2016
-
-Gelet op [artikelen 30a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) en [30b Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30b);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- **UWV:** Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- **Wet SUWI:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+- *Wet SUWI:*
+ [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
-- **CV:** Curriculum Vitae
+- *CV:* Curriculum Vitae
 
 ##### Artikel 2. Registratie van werkzoekenden
 
@@ -140,5 +115,3 @@ De registratie als werkzoekende eindigt:
 2. Deze regeling wordt aangehaald als: Registratieregels UWV 2016.
 
 3. Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2016.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

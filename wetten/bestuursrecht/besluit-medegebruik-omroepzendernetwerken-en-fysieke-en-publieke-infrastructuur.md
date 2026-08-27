@@ -1,66 +1,33 @@
 ---
 title: "Besluit van 21 maart 2018, houdende regels inzake het medegebruik van antenne-opstelpunten, antennesystemen en antennes bestemd voor omroepzendernetwerken en medegebruik van fysieke infrastructuur ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Besluit medegebruik omroepzendernetwerken en fysieke infrastructuur)"
+citeertitel: "Besluit medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur"
 identifier: "BWBR0040788"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-03-02"
-last_updated: "2022-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040788"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "14584613"
-version_id: "28451492"
-internal_id: "C40147521"
-label_id: "14538244"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040788/2022-03-02/0"
-intitule_bron: "Stb.2018-91"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-03-21"
-intitule_published: "2018-03-30"
-intitule_in_force: "2018-03-30"
-intitule_status: "goed"
-original_publication: "Stb.2022-95"
-original_signed_date: "2022-02-24"
-original_published_date: "2022-03-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-95"
-entry_into_force_date: "2022-02-24"
-jci_1_3: "jci1.3:c:BWBR0040788&z=2022-03-02&g=2022-03-02"
-jci_1_0: "1.0:c:BWBR0040788&g=2022-03-02"
-citeertitel_status: "officieel"
-short_title: "Besluit medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur"
-signed_date: "2022-02-24"
-entry_into_force: "2022-02-24"
+publicatiedatum: 2022-02-24
+laatste_update: 2022-03-02
+status: geldig
+toestand: 2022-03-02
+bron: "https://wetten.overheid.nl/BWBR0040788"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 21 maart 2018, houdende regels inzake het medegebruik van antenne-opstelpunten, antennesystemen en antennes bestemd voor omroepzendernetwerken en medegebruik van fysieke infrastructuur ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Besluit medegebruik omroepzendernetwerken en fysieke infrastructuur)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat van 8 december 2017, nr. WJZ / 17196656;
-
-Gelet op [richtlijn 2014/61](32014L0061)/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronischecommunicatienetwerken met hoge snelheid (PbEU 2014, L 155) en de [artikelen 5a.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.3), [5a.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.14) en [5a.15 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.15);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 december 2017, No.W18.17.0389/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken en Klimaat van 15 maart 2018, nr. WJZ/18013189;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken in werking treedt.
 
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **houder:** houder van een vergunning voor het gebruik van frequentieruimte die is bestemd voor het verspreiden van programma’s alsmede degene die in opdracht van die houder door middel van zijn openbaar elektronisch communicatienetwerk dat bestaat uit radioapparaten die geschikt zijn voor het verspreiden van programma's een programma verspreidt;
+- *houder:* houder van een vergunning voor het gebruik van frequentieruimte die is bestemd voor het verspreiden van programma’s alsmede degene die in opdracht van die houder door middel van zijn openbaar elektronisch communicatienetwerk dat bestaat uit radioapparaten die geschikt zijn voor het verspreiden van programma's een programma verspreidt;
 
-- **ontvanger:** aanbieder van bijbehorende faciliteiten, houder of netwerkexploitant, die een verzoek tot medegebruik heeft ontvangen;
+- *ontvanger:* aanbieder van bijbehorende faciliteiten, houder of netwerkexploitant, die een verzoek tot medegebruik heeft ontvangen;
 
-- **verzoeker:** aanbieder van bijbehorende faciliteiten of houder, die een verzoek tot medegebruik bij een aanbieder van bijbehorende faciliteiten, houder of een publiekrechtelijke rechtspersoon heeft ingediend of aanbieder van een openbaar elektronisch communicatienetwerk, die een schriftelijk verzoek tot medegebruik bij een netwerkexploitant heeft ingediend;
+- *verzoeker:* aanbieder van bijbehorende faciliteiten of houder, die een verzoek tot medegebruik bij een aanbieder van bijbehorende faciliteiten, houder of een publiekrechtelijke rechtspersoon heeft ingediend of aanbieder van een openbaar elektronisch communicatienetwerk, die een schriftelijk verzoek tot medegebruik bij een netwerkexploitant heeft ingediend;
 
-- **verzoek tot medegebruik:** schriftelijk verzoek tot medegebruik van fysieke infrastructuur als bedoeld in [artikel 5a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.3), tot medegebruik van omroepzendernetwerken als bedoeld in artikel 5a.3, derde lid, van de wet of tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2);
+- *verzoek tot medegebruik:* schriftelijk verzoek tot medegebruik van fysieke infrastructuur als bedoeld in [artikel 5a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.3), tot medegebruik van omroepzendernetwerken als bedoeld in artikel 5a.3, derde lid, van de wet of tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2);
 
-- **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
+- *wet:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
 ##### Artikel 2
 
@@ -77,6 +44,10 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - a. vier weken, indien het een verzoek om medegebruik van fysieke of publieke infrastructuur betreft;
 
 - b. een week, indien het een verzoek om medegebruik van een omroepzendernetwerk betreft.
+
+##### Artikel 2a
+
+Een publiekrechtelijke rechtspersoon maakt de voorwaarden waaronder hij instemt met een verzoek tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2) openbaar overeenkomstig de wijze, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), onderscheidenlijk [6 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6).
 
 ##### Artikel 3
 
@@ -124,7 +95,7 @@ De gegevens die worden verstrekt om met betrekking tot een omroepzendernetwerk e
 
 ##### Artikel 6
 
-Wijzigt het Frequentiebesluit 2013.
+*Wijzigt het Frequentiebesluit 2013.*
 
 ##### Artikel 7
 
@@ -137,11 +108,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet informatie-uitwisse
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-Een publiekrechtelijke rechtspersoon maakt de voorwaarden waaronder hij instemt met een verzoek tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2) openbaar overeenkomstig de wijze, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), onderscheidenlijk [6 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6).
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

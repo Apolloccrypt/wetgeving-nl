@@ -1,41 +1,17 @@
 ---
 title: "Instellingsbesluit Visitatiecommissie Defensie en Veiligheid"
 identifier: "BWBR0041351"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-09-18"
-last_updated: "2018-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041351"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14800293"
-version_id: "25304842"
-internal_id: "C36142761"
-label_id: "14752454"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041351/2018-09-18/0"
-intitule_bron: "Stcrt.2018-52801"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-13"
-intitule_published: "2018-09-17"
-intitule_in_force: "2018-09-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-52801"
-original_signed_date: "2018-09-13"
-original_published_date: "2018-09-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-52801"
-entry_into_force_date: "2018-09-18"
-jci_1_3: "jci1.3:c:BWBR0041351&z=2018-09-18&g=2018-09-18"
-jci_1_0: "1.0:c:BWBR0041351&g=2018-09-18"
-citeertitel_status: "officieel"
-signed_date: "2018-09-13"
-entry_into_force: "2018-09-18"
+publicatiedatum: 2018-09-18
+laatste_update: 2018-09-18
+status: geldig
+toestand: 2018-09-18
+bron: "https://wetten.overheid.nl/BWBR0041351"
+opgehaald: 2026-08-27
 ---
-# Instellingsbesluit Visitatiecommissie Defensie en Veiligheid
 
-Besluit:
+# Instellingsbesluit Visitatiecommissie Defensie en Veiligheid
 
 #### § 1. Begripsbepalingen
 
@@ -43,9 +19,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Defensie;
+- a. *de Minister:* de Minister van Defensie;
 
-- b. **de commissie:** de Visitatiecommissie Defensie en Veiligheid.
+- b. *de commissie:* de Visitatiecommissie Defensie en Veiligheid.
 
 #### § 2. Taak en samenstelling van de commissie
 

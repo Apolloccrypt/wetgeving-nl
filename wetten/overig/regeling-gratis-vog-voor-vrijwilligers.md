@@ -1,50 +1,26 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 november 2018, kenmerk 1430593-182478-DMO, houdende voorwaarden waaronder organisaties goedgekeurd en geregistreerd worden in het kader van de toepassing van de Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden (Regeling Gratis VOG voor vrijwilligers)"
+citeertitel: "Regeling Gratis VOG voor vrijwilligers"
 identifier: "BWBR0041494"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-03-14"
-last_updated: "2019-03-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041494"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14845383"
-version_id: "25379622"
-internal_id: "C36242531"
-label_id: "14796994"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041494/2019-03-14/0"
-intitule_bron: "Stcrt.2018-60474"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-01"
-intitule_published: "2018-10-31"
-intitule_in_force: "2018-10-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-60474"
-original_signed_date: "2018-11-01"
-original_published_date: "2018-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-60474"
-entry_into_force_date: "2018-11-01"
-jci_1_3: "jci1.3:c:BWBR0041494&z=2019-03-14&g=2019-03-14"
-jci_1_0: "1.0:c:BWBR0041494&g=2019-03-14"
-citeertitel_status: "officieel"
-short_title: "Regeling Gratis VOG voor vrijwilligers"
-signed_date: "2018-11-01"
-entry_into_force: "2018-11-01"
+publicatiedatum: 2018-11-01
+laatste_update: 2019-03-14
+status: geldig
+toestand: 2019-03-14
+bron: "https://wetten.overheid.nl/BWBR0041494"
+opgehaald: 2026-08-27
 ---
-# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 november 2018, kenmerk 1430593-182478-DMO, houdende voorwaarden waaronder organisaties goedgekeurd en geregistreerd worden in het kader van de toepassing van de Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden (Regeling Gratis VOG voor vrijwilligers)
 
-Besluit:
+# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 november 2018, kenmerk 1430593-182478-DMO, houdende voorwaarden waaronder organisaties goedgekeurd en geregistreerd worden in het kader van de toepassing van de Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden (Regeling Gratis VOG voor vrijwilligers)
 
 ##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
-- **Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- *Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **vrijwilliger:** de natuurlijke persoon, die niet bij wijze van beroep onverplicht en onbetaald werkt in een georganiseerd verband ten behoeve van anderen of de samenleving.
+- *vrijwilliger:* de natuurlijke persoon, die niet bij wijze van beroep onverplicht en onbetaald werkt in een georganiseerd verband ten behoeve van anderen of de samenleving.
 
 ##### Artikel 2
 

@@ -1,81 +1,57 @@
 ---
 title: "Interne klokkenluidersregeling MIVD"
 identifier: "BWBR0040909"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040909"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14611163"
-version_id: "25017572"
-internal_id: "C35781451"
-label_id: "14564864"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040909/2018-10-01/0"
-intitule_bron: "Stcrt.2018-27792"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-09"
-intitule_published: "2018-05-18"
-intitule_in_force: "2018-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-27792"
-original_signed_date: "2018-05-09"
-original_published_date: "2018-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-27792"
-entry_into_force_date: "2018-05-19"
-jci_1_3: "jci1.3:c:BWBR0040909&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0040909&g=2018-10-01"
-citeertitel_status: "officieel"
-signed_date: "2018-05-09"
-entry_into_force: "2018-05-19"
+publicatiedatum: 2018-05-19
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0040909"
+opgehaald: 2026-08-27
 ---
+
 # Interne klokkenluidersregeling MIVD
-
-Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en [paragraaf 7.2.4. van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&sub-paragraaf=7.2.4);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **MIVD:** de Militaire Inlichtingen- en Veiligheidsdienst;
+- a. *MIVD:* de Militaire Inlichtingen- en Veiligheidsdienst;
 
-- b. **AIVD:** de Algemene Inlichtingen- en Veiligheidsdienst;
+- b. *AIVD:* de Algemene Inlichtingen- en Veiligheidsdienst;
 
-- c. **afdeling klachtbehandeling:** afdeling klachtbehandeling van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten;
+- c. *afdeling klachtbehandeling:* afdeling klachtbehandeling van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten;
 
-- d. **CTIVD:** Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten;
+- d. *CTIVD:* Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten;
 
-- e. **directeur:** de directeur van de MIVD;
+- e. *directeur:* de directeur van de MIVD;
 
-- f. **gezamenlijke teams:** teams die onder de gedeelde verantwoordelijkheid van de MIVD en AIVD vallen, ten behoeve van de uitvoering van een gezamenlijke taak; binnen deze teams zijn zowel MIVD- als AIVD-medewerkers werkzaam;
+- f. *gezamenlijke teams:* teams die onder de gedeelde verantwoordelijkheid van de MIVD en AIVD vallen, ten behoeve van de uitvoering van een gezamenlijke taak; binnen deze teams zijn zowel MIVD- als AIVD-medewerkers werkzaam;
 
-- g. **leidinggevende:** de MIVD-medewerker die de hoogste zeggenschap uitoefent binnen een team of afdeling;
+- g. *leidinggevende:* de MIVD-medewerker die de hoogste zeggenschap uitoefent binnen een team of afdeling;
 
-- h. **interne commissie misstandenbehandeling:** een commissie bestaande uit één of twee juristen van de Afdeling Juridische Zaken, een beleidsondersteunend medewerker en een ondersteunend medewerker; zij dragen zorg voor de inhoudelijke behandeling van een melding;
+- h. *interne commissie misstandenbehandeling:* een commissie bestaande uit één of twee juristen van de Afdeling Juridische Zaken, een beleidsondersteunend medewerker en een ondersteunend medewerker; zij dragen zorg voor de inhoudelijke behandeling van een melding;
 
-- i. **minister:** de Minister van Defensie;
+- i. *minister:* de Minister van Defensie;
 
-- j. **misstandencoördinator:** een door de directeur van de MIVD aan te wijzen medewerker van de MIVD, welke is belast met de coördinatie van de misstandenbehandeling;
+- j. *misstandencoördinator:* een door de directeur van de MIVD aan te wijzen medewerker van de MIVD, welke is belast met de coördinatie van de misstandenbehandeling;
 
-- k. **misstanden coördinatiepunt MIVD:** centraal punt binnen de MIVD, onder leiding van de misstandencoördinator, waar misstanden binnenkomen; het misstanden coördinatiepunt is telefonisch, per e-mail en per post te bereiken aangaande misstanden;
+- k. *misstanden coördinatiepunt MIVD:* centraal punt binnen de MIVD, onder leiding van de misstandencoördinator, waar misstanden binnenkomen; het misstanden coördinatiepunt is telefonisch, per e-mail en per post te bereiken aangaande misstanden;
 
-- l. **melder:** eenieder die betrokken is of is geweest bij de uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
+- l. *melder:* eenieder die betrokken is of is geweest bij de uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
 
-- m. **melding:** de melding van een vermoeden van een misstand door een melder;
+- m. *melding:* de melding van een vermoeden van een misstand door een melder;
 
-- n. **vermoeden van een misstand:** het vermoeden dat binnen een dienst of bij de coördinator van de inlichtingen- en veiligheidsdiensten, waarbij de melder werkt of heeft gewerkt of waarmee hij in het kader van de uitvoering van de [Wet op de inlichtingen-en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) in aanraking is gekomen, sprake is van een misstand voor zover het vermoeden gebaseerd is op redelijke gronden, die voortvloeien uit de kennis die de melder bij de desbetreffende dienst heeft opgedaan of voortvloeien uit de kennis die de melder heeft gekregen in verband met diens betrokkenheid bij de uitvoering van de Wet op de inlichtingen-en veiligheidsdiensten 2017 of de Wet veiligheidsonderzoeken en het maatschappelijk belang in het geding is bij de schending van een wettelijk voorschrift, een gevaar voor de veiligheid van personen, of een gevaar voor het goed functioneren van de openbare dienst als gevolg van een onbehoorlijke wijze van handelen of nalaten;
+- n. *vermoeden van een misstand:* het vermoeden dat binnen een dienst of bij de coördinator van de inlichtingen- en veiligheidsdiensten, waarbij de melder werkt of heeft gewerkt of waarmee hij in het kader van de uitvoering van de [Wet op de inlichtingen-en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) in aanraking is gekomen, sprake is van een misstand voor zover het vermoeden gebaseerd is op redelijke gronden, die voortvloeien uit de kennis die de melder bij de desbetreffende dienst heeft opgedaan of voortvloeien uit de kennis die de melder heeft gekregen in verband met diens betrokkenheid bij de uitvoering van de Wet op de inlichtingen-en veiligheidsdiensten 2017 of de Wet veiligheidsonderzoeken en het maatschappelijk belang in het geding is bij de schending van een wettelijk voorschrift, een gevaar voor de veiligheid van personen, of een gevaar voor het goed functioneren van de openbare dienst als gevolg van een onbehoorlijke wijze van handelen of nalaten;
 
-- o. **vertrouwenspersoon:** de MIVD-medewerker tot wie de melder zich kan wenden voor advies en ondersteuning rondom het melden van een vermoeden van een misstand;
+- o. *vertrouwenspersoon:* de MIVD-medewerker tot wie de melder zich kan wenden voor advies en ondersteuning rondom het melden van een vermoeden van een misstand;
 
-- p. **Wiv 2017:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
+- p. *Wiv 2017:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- q. **Wvo:** [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277).
+- q. *Wvo:*
+ [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277).
 
 ##### Artikel 2. Zorgplicht
 
@@ -217,7 +193,7 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 ##### Artikel 15. Bedrag financiële tegemoetkoming
 
-1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=14&z=2018-10-01&g=2018-10-01), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend).
+1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=14&z=2018-10-01&g=2018-10-01), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/BWBR0006358).
 
 2. [Artikel 3 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=3) is van overeenkomstige toepassing.
 

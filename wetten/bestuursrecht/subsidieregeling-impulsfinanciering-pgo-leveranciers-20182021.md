@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Medische Zorg van 3 juli 2018, kenmerk 1372100-178565-IenZ, houdende regels voor de subsidiëring van het ontwikkelen van persoonlijke gezondheidsomgevingen 2018–2021 (Subsidieregeling impulsfinanciering PGO-leveranciers 2018–2021)"
+citeertitel: "Subsidieregeling impulsfinanciering PGO-leveranciers 2018–2021"
 identifier: "BWBR0041144"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041144"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14677303"
-version_id: "25136172"
-internal_id: "C35939441"
-label_id: "14629884"
-dtd_version: "2.0"
-original_entry_into_force: "2018-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041144/2018-08-01/0"
-intitule_bron: "Stcrt.2018-38593"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-07-03"
-intitule_published: "2018-07-12"
-intitule_in_force: "2018-07-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-38593"
-original_signed_date: "2018-07-03"
-original_published_date: "2018-07-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-38593"
-entry_into_force_date: "2018-08-01"
-jci_1_3: "jci1.3:c:BWBR0041144&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0041144&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling impulsfinanciering PGO-leveranciers 2018–2021"
-signed_date: "2018-07-03"
-entry_into_force: "2018-08-01"
+publicatiedatum: 2018-08-01
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0041144"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister voor Medische Zorg van 3 juli 2018, kenmerk 1372100-178565-IenZ, houdende regels voor de subsidiëring van het ontwikkelen van persoonlijke gezondheidsomgevingen 2018–2021 (Subsidieregeling impulsfinanciering PGO-leveranciers 2018–2021)
-
-Gelet op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,27 +20,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **de-minimisverklaring:** verklaring als bedoeld in artikel 6, eerste lid, van de de-minimisverordening,
+- *de-minimisverklaring:* verklaring als bedoeld in artikel 6, eerste lid, van de de-minimisverordening,
 
-- **de-minimisverordening:** Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352),
+- *de-minimisverordening:* Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352),
 
-- **informatiestandaarden:** de Informatiestandaard MedMij Basisgegevensset Zorg 2017 (PULL), de Informatiestandaard MedMij Medicatieproces (PULL), de Informatiestandaard MedMij Huisartsengegevens (PULL) en de Informatiestandaard MedMij Zelfmetingen (PUSH),
+- *informatiestandaarden:* de Informatiestandaard MedMij Basisgegevensset Zorg 2017 (PULL), de Informatiestandaard MedMij Medicatieproces (PULL), de Informatiestandaard MedMij Huisartsengegevens (PULL) en de Informatiestandaard MedMij Zelfmetingen (PUSH),
 
-- **kosten:** de investeringskosten van de subsidieontvanger voor zover die samenhangen met de te subsidiëren of gesubsidieerde activiteit,
+- *kosten:* de investeringskosten van de subsidieontvanger voor zover die samenhangen met de te subsidiëren of gesubsidieerde activiteit,
 
-- **leverancier:** producent en tevens eigenaar van een of meer PGO’s,
+- *leverancier:* producent en tevens eigenaar van een of meer PGO’s,
 
-- **MedMij afsprakenstelsel:** de set van afspraken die door de Stichting MedMij wordt beheerd ten behoeve van het veilig uitwisselen van persoonsgegevens tussen een zorggebruiker en zorgverleners,
+- *MedMij afsprakenstelsel:* de set van afspraken die door de Stichting MedMij wordt beheerd ten behoeve van het veilig uitwisselen van persoonsgegevens tussen een zorggebruiker en zorgverleners,
 
-- **PGO:** een persoonlijke gezondheidsomgeving, zijnde een digitale toepassing waarmee een zorggebruiker gegevens kan uitwisselen met zorgverleners,
+- *PGO:* een persoonlijke gezondheidsomgeving, zijnde een digitale toepassing waarmee een zorggebruiker gegevens kan uitwisselen met zorgverleners,
 
-- **zorggebruiker:**
+- *zorggebruiker:*
 
-- a. een verzekerde als bedoeld in [artikel 1, onderdeel f, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
+   - a. een verzekerde als bedoeld in [artikel 1, onderdeel f, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
-- b. een persoon die op grond van [artikel 64, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64) is ontheven van de verplichtingen, opgelegd op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+   - b. een persoon die op grond van [artikel 64, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64) is ontheven van de verplichtingen, opgelegd op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- c. een persoon die uit hoofde van een verordening van de Raad van de Europese Gemeenschappen dan wel toepassing van zodanige verordening krachtens een overeenkomst betreffende de Europese Economische Ruimte of een verdrag inzake sociale zekerheid waarbij Nederland partij is, recht heeft op zorg of andere diensten in de zin van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+   - c. een persoon die uit hoofde van een verordening van de Raad van de Europese Gemeenschappen dan wel toepassing van zodanige verordening krachtens een overeenkomst betreffende de Europese Economische Ruimte of een verdrag inzake sociale zekerheid waarbij Nederland partij is, recht heeft op zorg of andere diensten in de zin van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 ##### Artikel 2. Toepasselijkheid Kaderregeling
 
@@ -135,5 +109,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2018 en vervalt met in
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling impulsfinanciering PGO-leveranciers 2018–2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

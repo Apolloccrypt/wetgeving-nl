@@ -1,59 +1,30 @@
 ---
 title: "Wet van 18 april 2018 tot wijziging van de Wet milieubeheer in verband met de implementatie van Richtlijn (EU) 2015/1513 van het Europees Parlement en de Raad van 9 september 2015 tot wijziging van Richtlijn 98/70/EG betreffende de kwaliteit van benzine en dieselbrandstof en tot wijziging van Richtlijn 2009/28/EG ter bevordering van het gebruik van energie uit hernieuwbare bronnen alsmede in verband met de operationalisering van de reductieverplichting uit Richtlijn 98/70/EG betreffende de kwaliteit van benzine en dieselbrandstof"
+citeertitel: "Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2015/1513 betreffende de kwaliteit van benzine en dieselbrandstof en bevordering van gebruik energie uit hernieuwbare bronnen)"
 identifier: "BWBR0040926"
-country: "nl"
-rank: "wet"
-publication_date: "2018-07-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040926"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "14614223"
-version_id: "25022552"
-internal_id: "C35894611"
-label_id: "14567674"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040926/2018-07-01/0"
-intitule_bron: "Stb.2018-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-18"
-intitule_published: "2018-05-24"
-intitule_in_force: "2018-06-28"
-intitule_status: "goed"
-original_publication: "Stb.2018-137"
-original_signed_date: "2018-04-18"
-original_published_date: "2018-05-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "34717"
-original_url_id: "stb-2018-137"
-entry_into_force_date: "2018-07-01"
-jci_1_3: "jci1.3:c:BWBR0040926&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0040926&g=2018-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2015/1513 betreffende de kwaliteit van benzine en dieselbrandstof en bevordering van gebruik energie uit hernieuwbare bronnen)"
-signed_date: "2018-04-18"
-entry_into_force: "2018-07-01"
+publicatiedatum: 2018-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0040926"
+opgehaald: 2026-08-27
 ---
+
 # Wet van 18 april 2018 tot wijziging van de Wet milieubeheer in verband met de implementatie van Richtlijn (EU) 2015/1513 van het Europees Parlement en de Raad van 9 september 2015 tot wijziging van Richtlijn 98/70/EG betreffende de kwaliteit van benzine en dieselbrandstof en tot wijziging van Richtlijn 2009/28/EG ter bevordering van het gebruik van energie uit hernieuwbare bronnen alsmede in verband met de operationalisering van de reductieverplichting uit Richtlijn 98/70/EG betreffende de kwaliteit van benzine en dieselbrandstof
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is om in verband met de implementatie van Richtlijn (EU) 2015/1513 van het Europees Parlement en de Raad van 9 september 2015 tot wijziging van [Richtlijn 98/70/EG](31998L0070) betreffende de kwaliteit van benzine en dieselbrandstof en tot wijziging van [Richtlijn 2009/28/EG](32009L0028) ter bevordering van het gebruik van energie uit hernieuwbare bronnen alsmede in verband met de operationalisering van de reductieverplichting uit [Richtlijn 98/70/EG](31998L0070) betreffende de kwaliteit van benzine en dieselbrandstof de Wet milieubeheer te wijzigen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel III
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel IV
 
@@ -70,5 +41,3 @@ Wijzigt de Algemene wet bestuursrecht.
 ##### Artikel VI
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media, nr. 1407525 d.d. 26 november 2018, houdende beperking van de openbaarheid van het archief van de Directie Personeel en Organisatie en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1972) 1977–2003 (2008)"
+citeertitel: "Besluit beperking openbaarheid archief Directie Personeel en Organisatie en taakvoorgangers Ministerie van Onderwijs, Cultuur en Wetenschap over (1972) 1977–2003 (2008)"
 identifier: "BWBR0041613"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-12-05"
-last_updated: "2018-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041613"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14889493"
-version_id: "25466542"
-internal_id: "C36341671"
-label_id: "14840774"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041613/2018-12-05/0"
-intitule_bron: "Stcrt.2018-68110"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-26"
-intitule_published: "2018-12-04"
-intitule_in_force: "2018-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-68110"
-original_signed_date: "2018-11-26"
-original_published_date: "2018-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-68110"
-entry_into_force_date: "2018-12-05"
-jci_1_3: "jci1.3:c:BWBR0041613&z=2018-12-05&g=2018-12-05"
-jci_1_0: "1.0:c:BWBR0041613&g=2018-12-05"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Directie Personeel en Organisatie en taakvoorgangers Ministerie van Onderwijs, Cultuur en Wetenschap over (1972) 1977–2003 (2008)"
-signed_date: "2018-11-26"
-entry_into_force: "2018-12-05"
+publicatiedatum: 2018-12-05
+laatste_update: 2018-12-05
+status: geldig
+toestand: 2018-12-05
+bron: "https://wetten.overheid.nl/BWBR0041613"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media, nr. 1407525 d.d. 26 november 2018, houdende beperking van de openbaarheid van het archief van de Directie Personeel en Organisatie en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1972) 1977–2003 (2008)
-
-Gelet op [artikel 15, lid 1, onder a, b en c van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 18 oktober 2018, met kenmerk 1419153.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Directie Personeel en Organisatie en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 1
 

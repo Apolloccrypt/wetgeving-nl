@@ -1,66 +1,41 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 juni 2018, nr. 8c9fd2f6-or1-1.5, tot vaststelling van de Klachtregeling AIVD (Klachtregeling AIVD 2018)"
+citeertitel: "Klachtregeling AIVD 2018"
 identifier: "BWBR0041044"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-06-22"
-last_updated: "2018-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041044"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14652983"
-version_id: "25085562"
-internal_id: "C35873971"
-label_id: "14605884"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041044/2018-06-22/0"
-intitule_bron: "Stcrt.2018-34179"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-07"
-intitule_published: "2018-06-21"
-intitule_in_force: "2018-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-34179"
-original_signed_date: "2018-06-07"
-original_published_date: "2018-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-34179"
-entry_into_force_date: "2018-06-22"
-jci_1_3: "jci1.3:c:BWBR0041044&z=2018-06-22&g=2018-06-22"
-jci_1_0: "1.0:c:BWBR0041044&g=2018-06-22"
-citeertitel_status: "officieel"
-short_title: "Klachtregeling AIVD 2018"
-signed_date: "2018-06-07"
-entry_into_force: "2018-06-22"
+publicatiedatum: 2018-06-22
+laatste_update: 2018-06-22
+status: geldig
+toestand: 2018-06-22
+bron: "https://wetten.overheid.nl/BWBR0041044"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 juni 2018, nr. 8c9fd2f6-or1-1.5, tot vaststelling van de Klachtregeling AIVD (Klachtregeling AIVD 2018)
-
-Gelet op [hoofdstuk 9, titel 9.1, afdelingen 9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.1) en [9.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.2) en [artikel 114, eerste, derde lid en vierde lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=114);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **AIVD:** de Algemene Inlichtingen- en Veiligheidsdienst;
+- a. *AIVD:* de Algemene Inlichtingen- en Veiligheidsdienst;
 
-- b. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **Secretaris-generaal:** de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- c. *Secretaris-generaal:* de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- d. **Hoofd van de dienst:** de directeur-generaal van de AIVD;
+- d. *Hoofd van de dienst:* de directeur-generaal van de AIVD;
 
-- e. **klager:** de indiener van een klacht;
+- e. *klager:* de indiener van een klacht;
 
-- f. **klachtbehandeling:** het onderzoeken van een klacht met inachtneming van [afdeling 9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.1). en [9.1.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.2), als ook de verdaging en het verzoek om nader uitstel aan klager;
+- f. *klachtbehandeling:* het onderzoeken van een klacht met inachtneming van [afdeling 9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.1). en [9.1.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.2), als ook de verdaging en het verzoek om nader uitstel aan klager;
 
-- g. **klachtafdoening:** de klager schriftelijk en gemotiveerd in kennis stellen van de bevindingen van het onderzoek naar de klacht alsmede van de eventuele conclusies die daaraan worden verbonden als bedoeld in [artikel 9:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12);
+- g. *klachtafdoening:* de klager schriftelijk en gemotiveerd in kennis stellen van de bevindingen van het onderzoek naar de klacht alsmede van de eventuele conclusies die daaraan worden verbonden als bedoeld in [artikel 9:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12);
 
-- h. **afdeling klachtbehandeling:** de afdeling klachtbehandeling van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten;
+- h. *afdeling klachtbehandeling:* de afdeling klachtbehandeling van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten;
 
-- i. **Wiv 2017:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
+- i. *Wiv 2017:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
 
 ##### Artikel 2
 
@@ -97,5 +72,3 @@ Deze regeling wordt aangehaald als: Klachtregeling AIVD 2018.
 ##### Artikel 10
 
 De [Klachtregeling AIVD](https://wetten.overheid.nl/jci1.3:c:BWBR0022497) van 6 september 2007 wordt ingetrokken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

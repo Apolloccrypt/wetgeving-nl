@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2018, nr. 8f0daaaa-or1-1.0., tot vaststelling van procedureregels voor het omgaan met een melding van een vermoeden van een misstand bij de AIVD (Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD)"
+citeertitel: "Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD"
 identifier: "BWBR0041130"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-07-11"
-last_updated: "2018-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041130"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14671133"
-version_id: "25125952"
-internal_id: "C35928461"
-label_id: "14623904"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041130/2018-07-11/0"
-intitule_bron: "Stcrt.2018-38374"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-29"
-intitule_published: "2018-07-10"
-intitule_in_force: "2018-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-38374"
-original_signed_date: "2018-06-29"
-original_published_date: "2018-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-38374"
-entry_into_force_date: "2018-07-11"
-jci_1_3: "jci1.3:c:BWBR0041130&z=2018-07-11&g=2018-07-11"
-jci_1_0: "1.0:c:BWBR0041130&g=2018-07-11"
-citeertitel_status: "officieel"
-short_title: "Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD"
-signed_date: "2018-06-29"
-entry_into_force: "2018-07-11"
+publicatiedatum: 2018-07-11
+laatste_update: 2018-07-11
+status: geldig
+toestand: 2018-07-11
+bron: "https://wetten.overheid.nl/BWBR0041130"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2018, nr. 8f0daaaa-or1-1.0., tot vaststelling van procedureregels voor het omgaan met een melding van een vermoeden van een misstand bij de AIVD (Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD)
-
-Handelende in overeenstemming met de Minister van Defensie;
-
-Gelet op [paragraaf 7.2.4 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&sub-paragraaf=7.2.4);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,37 +20,39 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **afdeling klachtbehandeling:** de afdeling klachtbehandeling van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten;
+- a. *afdeling klachtbehandeling:* de afdeling klachtbehandeling van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten;
 
-- b. **AIVD:** Algemene Inlichtingen- en Veiligheidsdienst;
+- b. *AIVD:* Algemene Inlichtingen- en Veiligheidsdienst;
 
-- c. **BVA:** afdeling beveiligingsambtenaar;
+- c. *BVA:* afdeling beveiligingsambtenaar;
 
-- d. **CTIVD:** commissie van toezicht op de inlichtingen- en veiligheidsdiensten;
+- d. *CTIVD:* commissie van toezicht op de inlichtingen- en veiligheidsdiensten;
 
-- e. **diensten:** Algemene Inlichtingen- en Veiligheidsdienst en Militaire Inlichtingen en Veiligheidsdienst;
+- e. *diensten:* Algemene Inlichtingen- en Veiligheidsdienst en Militaire Inlichtingen en Veiligheidsdienst;
 
-- f. **directeur-generaal:** directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst;
+- f. *directeur-generaal:* directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst;
 
-- g. **gezamenlijke commissie:** een commissie, die is aangewezen door of namens de secretaris-generaal en de secretaris-generaal van het Ministerie van Defensie, die onderzoek verricht naar het vermoeden van een misstand bij een of meer gezamenlijke teams van de AIVD en de MIVD dat door de melder is gemeld;
+- g. *gezamenlijke commissie:* een commissie, die is aangewezen door of namens de secretaris-generaal en de secretaris-generaal van het Ministerie van Defensie, die onderzoek verricht naar het vermoeden van een misstand bij een of meer gezamenlijke teams van de AIVD en de MIVD dat door de melder is gemeld;
 
-- h. **interne commissie:** een commissie, die is aangewezen door of namens de secretaris-generaal, die onderzoek verricht naar het vermoeden van een misstand dat door de melder is gemeld;
+- h. *interne commissie:* een commissie, die is aangewezen door of namens de secretaris-generaal, die onderzoek verricht naar het vermoeden van een misstand dat door de melder is gemeld;
 
-- i. **melder:** een ieder die betrokken is of is geweest bij de uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) en een melding van een vermoeden van een misstand doet;
+- i. *melder:* een ieder die betrokken is of is geweest bij de uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) en een melding van een vermoeden van een misstand doet;
 
-- j. **melding:** de melding van een vermoeden van een misstand door een melder;
+- j. *melding:* de melding van een vermoeden van een misstand door een melder;
 
-- k. **minister:** minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- k. *minister:* minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- l. **MIVD:** Militaire Inlichtingen- en Veiligheidsdienst;
+- l. *MIVD:* Militaire Inlichtingen- en Veiligheidsdienst;
 
-- m. **vermoeden van een misstand:** het vermoeden dat binnen een dienst of bij de coördinator, waarbij de melder werkt of heeft gewerkt of waarmee hij in het kader van de uitvoering van de [Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) in aanraking is gekomen, sprake is van een misstand voor zover het vermoeden gebaseerd is op redelijke gronden, die voortvloeien uit de kennis die de melder bij de desbetreffende dienst heeft opgedaan of voortvloeien uit de kennis die de melder heeft gekregen in verband met diens betrokkenheid bij de uitvoering van de Wiv 2017 of de Wet veiligheidsonderzoeken en het maatschappelijk belang in het geding is bij de schending van een wettelijk voorschrift, een gevaar voor de veiligheid van personen, of een gevaar voor het goed functioneren van de openbare dienst als gevolg van een onbehoorlijke wijze van handelen of nalaten;
+- m. *vermoeden van een misstand:* het vermoeden dat binnen een dienst of bij de coördinator, waarbij de melder werkt of heeft gewerkt of waarmee hij in het kader van de uitvoering van de [Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) in aanraking is gekomen, sprake is van een misstand voor zover het vermoeden gebaseerd is op redelijke gronden, die voortvloeien uit de kennis die de melder bij de desbetreffende dienst heeft opgedaan of voortvloeien uit de kennis die de melder heeft gekregen in verband met diens betrokkenheid bij de uitvoering van de Wiv 2017 of de Wet veiligheidsonderzoeken en het maatschappelijk belang in het geding is bij de schending van een wettelijk voorschrift, een gevaar voor de veiligheid van personen, of een gevaar voor het goed functioneren van de openbare dienst als gevolg van een onbehoorlijke wijze van handelen of nalaten;
 
-- n. **vertrouwenspersoon:** de daartoe aangewezen functionaris binnen de AIVD tot wie de melder zich kan wenden voor advies en ondersteuning rondom het melden van een vermoeden van een misstand;
+- n. *vertrouwenspersoon:* de daartoe aangewezen functionaris binnen de AIVD tot wie de melder zich kan wenden voor advies en ondersteuning rondom het melden van een vermoeden van een misstand;
 
-- o. **Wiv 2017:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
+- o. *Wiv 2017:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- p. **Wvo:** [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277).
+- p. *Wvo:*
+ [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277).
 
 ##### Artikel 2
 
@@ -204,7 +178,7 @@ De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de
 
 ##### Artikel 12
 
-1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=3&artikel=11&z=2018-07-11&g=2018-07-11), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend).
+1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=3&artikel=11&z=2018-07-11&g=2018-07-11), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/BWBR0006358).
 
 2. [Artikel 3 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=3) is van overeenkomstige toepassing.
 

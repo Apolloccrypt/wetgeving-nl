@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 20 november 2018, houdende regels ter uitvoering van de artikelen 126g, negende lid, 126h, vierde en vijfde lid, 126i, vierde lid, 126j, vierde en vijfde lid, 126o, zesde lid, 126q, vierde lid, en 126zc, van het Wetboek van Strafvordering (Samenwerkingsbesluit bijzondere opsporingsbevoegdheden 2019)"
+citeertitel: "Samenwerkingsbesluit bijzondere opsporingsbevoegdheden 2019"
 identifier: "BWBR0041632"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041632"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "14892803"
-version_id: "25475552"
-internal_id: "C36472511"
-label_id: "14844184"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041632/2024-01-01/0"
-intitule_bron: "Stb.2018-448"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-20"
-intitule_published: "2018-12-07"
-intitule_in_force: "2018-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2018-448"
-original_signed_date: "2018-11-20"
-original_published_date: "2018-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-448"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041632&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0041632&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Samenwerkingsbesluit bijzondere opsporingsbevoegdheden 2019"
-signed_date: "2018-11-20"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0041632"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 20 november 2018, houdende regels ter uitvoering van de artikelen 126g, negende lid, 126h, vierde en vijfde lid, 126i, vierde lid, 126j, vierde en vijfde lid, 126o, zesde lid, 126q, vierde lid, en 126zc, van het Wetboek van Strafvordering (Samenwerkingsbesluit bijzondere opsporingsbevoegdheden 2019)
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 9 oktober 2018, directie Wetgeving en Juridische Zaken, nr. 2382589;
-
-Gelet op de [artikelen, 9 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=9), [126g, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g), [126h, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126h), [126i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i), [126j, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126j), [126o, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o), [126q, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126q), en [126zc van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zc);
-
-De Afdeling advisering van de Raad van State gehoord, advies van 24 oktober 2018, nr. No.W16.18.0314/II;
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 14 november 2018, directie Wetgeving en Juridische Zaken, nr.2402573;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. [definities]
 
 In dit besluit wordt verstaan onder:
 
-- a. **bevel tot observatie:** een bevel als bedoeld in de [artikelen 126g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g), [126o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o), of [126zd, eerste lid, onderdeel a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd);
+- a. *bevel tot observatie:* een bevel als bedoeld in de [artikelen 126g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g), [126o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o), of [126zd, eerste lid, onderdeel a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd);
 
-- b. **bevel tot infiltratie:** een bevel als bedoeld in de [artikelen 126h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126h), [126p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126p), of [126ze, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ze);
+- b. *bevel tot infiltratie:* een bevel als bedoeld in de [artikelen 126h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126h), [126p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126p), of [126ze, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ze);
 
-- c. **bevel tot pseudo-koop of -dienstverlening:** een bevel als bedoeld in de [artikelen 126i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i), [126q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126q), of [126zd, eerste lid, onderdeel b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd);
+- c. *bevel tot pseudo-koop of -dienstverlening:* een bevel als bedoeld in de [artikelen 126i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i), [126q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126q), of [126zd, eerste lid, onderdeel b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd);
 
-- d. **bevel tot stelselmatige inwinning van informatie:** een bevel als bedoeld in de [artikelen 126j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126j), [126qa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126qa), of [126zd, eerste lid, onderdeel c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd);
+- d. *bevel tot stelselmatige inwinning van informatie:* een bevel als bedoeld in de [artikelen 126j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126j), [126qa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126qa), of [126zd, eerste lid, onderdeel c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd);
 
-- e. **infiltratieteam:** een team dat als taak heeft het uitvoeren van een bevel tot infiltratie, tot pseudo-koop of -dienstverlening en tot stelselmatige inwinning van informatie.
+- e. *infiltratieteam:* een team dat als taak heeft het uitvoeren van een bevel tot infiltratie, tot pseudo-koop of -dienstverlening en tot stelselmatige inwinning van informatie.
 
 ##### Artikel 2. [infiltratieteam en werkwijze]
 
@@ -160,7 +128,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 11. [wijzigen andere regeling]
 
-Wijzigt het Besluit regels landelijk parket en functioneel parket, alsmede ten aanzien van mandateren bevoegdheden officier van justitie.
+*Wijzigt het Besluit regels landelijk parket en functioneel parket, alsmede ten aanzien van mandateren bevoegdheden officier van justitie.*
 
 ##### Artikel 12. [uitbreiding grondslag]
 
@@ -177,5 +145,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 15. [citeertitel]
 
 Dit besluit wordt aangehaald als: Samenwerkingsbesluit bijzondere opsporingsbevoegdheden 2019
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 27 september 2018, nr. 2018-0000141540, tot verlening van mandaat, volmacht en machtiging aan de Sociale verzekeringsbank voor de uitvoering van aan de Minister van Sociale Zaken en Werkgelegenheid in verdragen of verordeningen toegekende bevoegdheden op het terrein van de socialezekerheidswetgeving (Regeling mandaat, volmacht en machtiging internationale taken Sociale verzekeringsbank)"
+citeertitel: "Regeling mandaat, volmacht en machtiging internationale taken Sociale verzekeringsbank"
 identifier: "BWBR0041423"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-09"
-last_updated: "2018-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041423"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14827573"
-version_id: "25351532"
-internal_id: "C36201621"
-label_id: "14779474"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041423/2018-10-09/0"
-intitule_bron: "Stcrt.2018-56044"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-27"
-intitule_published: "2018-10-08"
-intitule_in_force: "2018-10-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-56044"
-original_signed_date: "2018-09-27"
-original_published_date: "2018-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-56044"
-entry_into_force_date: "2018-10-09"
-jci_1_3: "jci1.3:c:BWBR0041423&z=2018-10-09&g=2018-10-09"
-jci_1_0: "1.0:c:BWBR0041423&g=2018-10-09"
-citeertitel_status: "officieel"
-short_title: "Regeling mandaat, volmacht en machtiging internationale taken Sociale verzekeringsbank"
-signed_date: "2018-09-27"
-entry_into_force: "2018-10-09"
+publicatiedatum: 2018-10-09
+laatste_update: 2018-10-09
+status: geldig
+toestand: 2018-10-09
+bron: "https://wetten.overheid.nl/BWBR0041423"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 27 september 2018, nr. 2018-0000141540, tot verlening van mandaat, volmacht en machtiging aan de Sociale verzekeringsbank voor de uitvoering van aan de Minister van Sociale Zaken en Werkgelegenheid in verdragen of verordeningen toegekende bevoegdheden op het terrein van de socialezekerheidswetgeving (Regeling mandaat, volmacht en machtiging internationale taken Sociale verzekeringsbank)
-
-Gelet op de [artikelen 10:3, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [34a, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34a);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **internationale regeling:** een tussen Nederland en een of meer andere Staten tot stand gekomen coördinatieverdrag dan wel een verdrag als bedoeld in de [artikelen 8a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a), en [9a, vijfde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9a) en [32a, zesde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32a) of een verordening van de Europese Economische Gemeenschap, de Europese Gemeenschap dan wel de Europese Unie inzake sociale zekerheid;
+- *internationale regeling:* een tussen Nederland en een of meer andere Staten tot stand gekomen coördinatieverdrag dan wel een verdrag als bedoeld in de [artikelen 8a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a), en [9a, vijfde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9a) en [32a, zesde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32a) of een verordening van de Europese Economische Gemeenschap, de Europese Gemeenschap dan wel de Europese Unie inzake sociale zekerheid;
 
-- **machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;
+- *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;
 
-- **mandaat:** bevoegdheid om in naam van de minister besluiten te nemen;
+- *mandaat:* bevoegdheid om in naam van de minister besluiten te nemen;
 
-- **minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- *minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- **SVB:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisaties werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- *SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisaties werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- **volmacht:** de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten.
+- *volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten.
 
 ##### Artikel 2. Mandaat, volmacht en machtiging
 
@@ -103,5 +77,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling mandaat, volmacht en machtiging internationale taken Sociale verzekeringsbank.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

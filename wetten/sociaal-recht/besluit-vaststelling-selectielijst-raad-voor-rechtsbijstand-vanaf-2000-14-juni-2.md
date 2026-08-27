@@ -8,7 +8,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0053050"
-opgehaald: 2026-08-26
+opgehaald: 2026-08-27
 ---
 
 # Besluit vaststelling selectielijst Raad voor Rechtsbijstand vanaf (2000) 14 juni 2010

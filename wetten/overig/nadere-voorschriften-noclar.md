@@ -1,46 +1,17 @@
 ---
 title: "Nadere voorschriften NOCLAR"
 identifier: "BWBR0041624"
-country: "nl"
-rank: "pbo"
-publication_date: "2024-01-19"
-last_updated: "2024-01-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041624"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "14891013"
-version_id: "25469702"
-internal_id: "C36345181"
-label_id: "14842484"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041624/2024-01-19/0"
-intitule_bron: "Stcrt.2018-67999"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-12-04"
-intitule_in_force: "2018-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-67999"
-original_published_date: "2018-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-67999"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041624&z=2024-01-19&g=2024-01-19"
-jci_1_0: "1.0:c:BWBR0041624&g=2024-01-19"
-citeertitel_status: "officieel"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2024-01-19
+status: geldig
+toestand: 2024-01-19
+bron: "https://wetten.overheid.nl/BWBR0041624"
+opgehaald: 2026-08-27
 ---
+
 # Nadere voorschriften NOCLAR
-
-Gelet op [artikel 24 van de Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=24);
-
-Overwegende dat accountants moeten reageren als ze een professionele dienst uitvoeren voor de eigen organisatie of voor de cliënt en zich bewust worden van informatie die erop wijst dat bij die eigen organisatie of bij die cliënt wet- en regelgeving niet wordt nageleefd, mogelijk niet wordt nageleefd of dreigt niet te worden nageleefd;
-
-Overwegende dat de fundamentele beginselen uit de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) nadere invulling behoeven, zodat duidelijk is wat in deze situatie van accountants wordt verwacht;
-
-Gehoord de leden;
-
-Stelt de volgende nadere voorschriften vast:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -48,43 +19,45 @@ Stelt de volgende nadere voorschriften vast:
 
 In deze nadere voorschriften wordt verstaan onder:
 
-- −. **aanzienlijke schade:** ernstige nadelige gevolgen voor de eigen organisatie of voor de cliënt, de daarbij werkzame of daaraan verbonden personen, beleggers, schuldeisers, andere belanghebbenden of voor de maatschappij;
+- − *aanzienlijke schade:* ernstige nadelige gevolgen voor de eigen organisatie of voor de cliënt, de daarbij werkzame of daaraan verbonden personen, beleggers, schuldeisers, andere belanghebbenden of voor de maatschappij;
 
-- −. **accountant van een groepsonderdeel:** accountant van een groepsonderdeel als bedoeld in [paragraaf 14, onderdeel c, van Standaard 600 van de NV COS](onbekend);
+- − *accountant van een groepsonderdeel:* accountant van een groepsonderdeel als bedoeld in [paragraaf 14, onderdeel c, van Standaard 600 van de NV COS](https://wetten.overheid.nl/BWBR0046309);
 
-- −. **bevoegde instantie:** autoriteit die bij of krachtens wet is aangewezen om een relevante niet-naleving te onderzoeken;
+- − *bevoegde instantie:* autoriteit die bij of krachtens wet is aangewezen om een relevante niet-naleving te onderzoeken;
 
-- −. **cliënt:** externe opdrachtgever van een professionele dienst waarbij geen gezagsverhouding bestaat tussen de accountant en de opdrachtgever;
+- − *cliënt:* externe opdrachtgever van een professionele dienst waarbij geen gezagsverhouding bestaat tussen de accountant en de opdrachtgever;
 
-- −. **controleopdracht:** opdracht tot controle van financiële overzichten;
+- − *controleopdracht:* opdracht tot controle van financiële overzichten;
 
-- −. **eigen organisatie:** organisatie waarbij een accountant werkzaam is of waaraan hij is verbonden;
+- − *eigen organisatie:* organisatie waarbij een accountant werkzaam is of waaraan hij is verbonden;
 
-- −. **eindverantwoordelijke accountant:** eindverantwoordelijke accountant als bedoeld in [artikel 1 van de Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869&artikel=1);
+- − *eindverantwoordelijke accountant:* eindverantwoordelijke accountant als bedoeld in [artikel 1 van de Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869&artikel=1);
 
-- −. **groepsaccountant:** groepsaccountant als bedoeld in paragraaf 14, onderdeel h, van Standaard 600 van de NV COS;
+- − *groepsaccountant:* groepsaccountant als bedoeld in paragraaf 14, onderdeel h, van Standaard 600 van de NV COS;
 
-- −. **groepscontrole:** groepscontrole als bedoeld in [paragraaf 14 onderdeel g, van Standaard 600 van de NV COS](onbekend);
+- − *groepscontrole:* groepscontrole als bedoeld in [paragraaf 14 onderdeel g, van Standaard 600 van de NV COS](https://wetten.overheid.nl/BWBR0046309);
 
-- −. **groepsonderdeel:** groepsonderdeel als bedoeld in [paragraaf 14, onderdeel b, van Standaard 600 van de NV COS](onbekend);
+- − *groepsonderdeel:* groepsonderdeel als bedoeld in [paragraaf 14, onderdeel b, van Standaard 600 van de NV COS](https://wetten.overheid.nl/BWBR0046309);
 
-- −. **management:** management als bedoeld in [paragraaf 13, onderdeel h, van Standaard 200 van de NV COS](onbekend);
+- − *management:* management als bedoeld in [paragraaf 13, onderdeel h, van Standaard 200 van de NV COS](https://wetten.overheid.nl/BWBR0046309);
 
-- −. **met governance belaste personen:** de met governance belaste personen als bedoeld in [paragraaf 13, onderdeel 0, van Standaard 200 van de NV COS](onbekend);
+- − *met governance belaste personen:* de met governance belaste personen als bedoeld in [paragraaf 13, onderdeel 0, van Standaard 200 van de NV COS](https://wetten.overheid.nl/BWBR0046309);
 
-- −. **niet-naleving:** opzettelijk of niet-opzettelijk in strijd met de wet- en regelgeving uitvoeren of niet uitvoeren van handelingen begaan door de eigen organisatie of door de cliënt, of door de met governance belaste personen, het management of andere personen werkzaam bij of verbonden aan de eigen organisatie of de cliënt. Onder niet-naleving wordt niet verstaan persoonlijke misdragingen die geen verband houden met de zakelijke activiteiten van de eigen organisatie of van de cliënt;
+- − *niet-naleving:* opzettelijk of niet-opzettelijk in strijd met de wet- en regelgeving uitvoeren of niet uitvoeren van handelingen begaan door de eigen organisatie of door de cliënt, of door de met governance belaste personen, het management of andere personen werkzaam bij of verbonden aan de eigen organisatie of de cliënt. Onder niet-naleving wordt niet verstaan persoonlijke misdragingen die geen verband houden met de zakelijke activiteiten van de eigen organisatie of van de cliënt;
 
-- −. **NV COS:** [Nadere voorschriften controle- en overige standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0040523);
+- − *NV COS:*
+ [Nadere voorschriften controle- en overige standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0040523);
 
-- −. **opdrachtpartner op groepsniveau:** opdrachtpartner op groepsniveau als bedoeld in paragraaf 14, onderdeel j, van Standaard 600 van de NV COS;
+- − *opdrachtpartner op groepsniveau:* opdrachtpartner op groepsniveau als bedoeld in paragraaf 14, onderdeel j, van Standaard 600 van de NV COS;
 
-- −. **professionele dienst:** professionele dienst als bedoeld in [artikel 1 van de VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=1);
+- − *professionele dienst:* professionele dienst als bedoeld in [artikel 1 van de VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=1);
 
-- −. **relevante niet-naleving:** geïdentificeerde, mogelijke of dreigende niet-naleving van wet- en regelgeving als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=1&artikel=2&z=2024-01-19&g=2024-01-19);
+- − *relevante niet-naleving:* geïdentificeerde, mogelijke of dreigende niet-naleving van wet- en regelgeving als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=1&artikel=2&z=2024-01-19&g=2024-01-19);
 
-- −. **senior-positie:** positie van waaruit een accountant besluiten kan nemen met betrekking tot het verwerven, inzetten en beheersen van de personele, financiële, technische, materiële en immateriële middelen van de eigen organisatie of op die besluiten significante invloed kan uitoefenen;
+- − *senior-positie:* positie van waaruit een accountant besluiten kan nemen met betrekking tot het verwerven, inzetten en beheersen van de personele, financiële, technische, materiële en immateriële middelen van de eigen organisatie of op die besluiten significante invloed kan uitoefenen;
 
-- −. **VGBA:** [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635).
+- − *VGBA:*
+ [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635).
 
 ##### Artikel 2
 
@@ -94,11 +67,11 @@ Deze nadere voorschriften zijn van toepassing op iedere accountant die een profe
 
 - b. geen directe invloed heeft op de vaststelling van de bedragen en toelichtingen in de financiële overzichten maar waarvan het naleven van fundamenteel belang kan zijn voor:
 
-- i. de operationele aspecten van een eigen organisatie of van een cliënt;
+   - i. de operationele aspecten van een eigen organisatie of van een cliënt;
 
-- ii. de mogelijkheid van een eigen organisatie of van een cliënt om de activiteiten voort te zetten; of
+   - ii. de mogelijkheid van een eigen organisatie of van een cliënt om de activiteiten voort te zetten; of
 
-- iii. het voorkomen van sancties van materieel belang.
+   - iii. het voorkomen van sancties van materieel belang.
 
 ##### Artikel 3
 
@@ -268,11 +241,11 @@ De accountant informeert eindverantwoordelijke accountants van buiten de cliënt
 
 Deze nadere voorschriften zijn van toepassing op:
 
-- a. een relevante niet-naleving die gedeeltelijk of geheel plaatsvindt op of na 1 januari 2019;
+- a. een relevante niet-naleving die gedeeltelijk of geheel plaatsvindt op of na 1 januari 2019;
 
-- b. een relevante niet-naleving die plaatsvond vóór 1 januari 2019 waarvan een accountant zich bewust wordt op of na 1 januari 2019 en die van belang is voor een professionele dienst die hij op of na 1 januari 2019 uitvoert;
+- b. een relevante niet-naleving die plaatsvond vóór 1 januari 2019 waarvan een accountant zich bewust wordt op of na 1 januari 2019 en die van belang is voor een professionele dienst die hij op of na 1 januari 2019 uitvoert;
 
-- c. een relevante niet-naleving die plaatsvond vóór 1 januari 2019 waarvan een accountant zich bewust wordt vóór 1 januari 2019 en het proces van reageren op 31 maart 2019 nog niet is afgerond.
+- c. een relevante niet-naleving die plaatsvond vóór 1 januari 2019 waarvan een accountant zich bewust wordt vóór 1 januari 2019 en het proces van reageren op 31 maart 2019 nog niet is afgerond.
 
 ##### Artikel 18
 
@@ -280,4 +253,4 @@ Deze nadere voorschriften worden aangehaald als: Nadere voorschriften NOCLAR, bi
 
 ##### Artikel 19
 
-Deze nadere voorschriften treden in werking op 1 januari 2019.
+Deze nadere voorschriften treden in werking op 1 januari 2019.

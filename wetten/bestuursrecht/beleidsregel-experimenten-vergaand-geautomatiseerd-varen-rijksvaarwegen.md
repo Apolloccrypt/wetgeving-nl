@@ -1,60 +1,34 @@
 ---
 title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 12 september 2018, nr. IENW/BSK-2018/183049, houdende vaststelling van regels voor experimenten in het kader van vergaand geautomatiseerd varen op rijksvaarwegen (Beleidsregel experimenten vergaand geautomatiseerd varen rijksvaarwegen)"
+citeertitel: "Beleidsregel experimenten vergaand geautomatiseerd varen rijksvaarwegen"
 identifier: "BWBR0041357"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041357"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "14802353"
-version_id: "25308062"
-internal_id: "C36148091"
-label_id: "14754454"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041357/2018-10-01/0"
-intitule_bron: "Stcrt.2018-50865"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-12"
-intitule_published: "2018-09-20"
-intitule_in_force: "2018-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-50865"
-original_signed_date: "2018-09-12"
-original_published_date: "2018-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-50865"
-entry_into_force_date: "2018-10-01"
-jci_1_3: "jci1.3:c:BWBR0041357&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0041357&g=2018-10-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel experimenten vergaand geautomatiseerd varen rijksvaarwegen"
-signed_date: "2018-09-12"
-entry_into_force: "2018-10-01"
+publicatiedatum: 2018-10-01
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0041357"
+opgehaald: 2026-08-27
 ---
+
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 12 september 2018, nr. IENW/BSK-2018/183049, houdende vaststelling van regels voor experimenten in het kader van vergaand geautomatiseerd varen op rijksvaarwegen (Beleidsregel experimenten vergaand geautomatiseerd varen rijksvaarwegen)
-
-Gelet op [artikel 1.23 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.23) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen en reikwijdte
 
 1. In deze beleidsregel wordt verstaan onder:
 
-- –. **experiment:** tijdelijke mogelijkheid om met een schip een praktijktest met vergaand geautomatiseerd varen uit te voeren;
+- – *experiment:* tijdelijke mogelijkheid om met een schip een praktijktest met vergaand geautomatiseerd varen uit te voeren;
 
-- –. **experimenteerpartij:** natuurlijk persoon of rechtspersoon die toestemming heeft gekregen om een experiment uit te voeren;
+- – *experimenteerpartij:* natuurlijk persoon of rechtspersoon die toestemming heeft gekregen om een experiment uit te voeren;
 
-- –. **experimenteerplan:** plan als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041357&artikel=2&z=2018-10-01&g=2018-10-01);
+- – *experimenteerplan:* plan als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041357&artikel=2&z=2018-10-01&g=2018-10-01);
 
-- –. **rijksvaarweg:** Nederlandse vaarweg waarvoor het Rijk de bevoegde autoriteit is;
+- – *rijksvaarweg:* Nederlandse vaarweg waarvoor het Rijk de bevoegde autoriteit is;
 
-- –. **toestemming:** besluit als bedoeld in [artikel 1.23 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.23) op grond waarvan een experiment mag worden uitgevoerd;
+- – *toestemming:* besluit als bedoeld in [artikel 1.23 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.23) op grond waarvan een experiment mag worden uitgevoerd;
 
-- –. **vergaand geautomatiseerd varen:** varen met een schip waarbij bepaalde menselijke taken worden overgenomen door één of meerdere geautomatiseerde toepassingen.
+- – *vergaand geautomatiseerd varen:* varen met een schip waarbij bepaalde menselijke taken worden overgenomen door één of meerdere geautomatiseerde toepassingen.
 
 2. Deze beleidsregel is van toepassing op een experiment waarbij met een schip vergaand geautomatiseerd wordt gevaren en door de te testen geautomatiseerde toepassing de veiligheid of het vlotte verloop van de scheepvaart in gevaar kan worden gebracht.
 
@@ -207,5 +181,3 @@ Deze beleidsregel treedt in werking met ingang van 1 oktober 2018.
 ##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel experimenten vergaand geautomatiseerd varen rijksvaarwegen.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

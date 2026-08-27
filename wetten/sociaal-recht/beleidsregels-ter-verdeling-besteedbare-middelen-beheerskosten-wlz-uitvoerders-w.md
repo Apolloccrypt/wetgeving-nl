@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 19 februari 2018, referentie 2017055452, ter verdeling besteedbare middelen beheerskosten Wlz 2018 voor Wlz-uitvoerders"
+citeertitel: "Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders Wlz 2018"
 identifier: "BWBR0040960"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-03-29"
-last_updated: "2019-03-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040960"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "14622353"
-version_id: "25039682"
-internal_id: "C35808531"
-label_id: "14575894"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040960/2019-03-29/0"
-intitule_bron: "Stcrt.2018-30058"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-19"
-intitule_published: "2018-06-01"
-intitule_in_force: "2018-06-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-30058"
-original_signed_date: "2018-02-19"
-original_published_date: "2018-06-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-30058"
-entry_into_force_date: "2018-06-02"
-jci_1_3: "jci1.3:c:BWBR0040960&z=2019-03-29&g=2019-03-29"
-jci_1_0: "1.0:c:BWBR0040960&g=2019-03-29"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders Wlz 2018"
-signed_date: "2018-02-19"
-entry_into_force: "2018-06-02"
+publicatiedatum: 2018-06-02
+laatste_update: 2019-03-29
+status: geldig
+toestand: 2019-03-29
+bron: "https://wetten.overheid.nl/BWBR0040960"
+opgehaald: 2026-08-27
 ---
+
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 19 februari 2018, referentie 2017055452, ter verdeling besteedbare middelen beheerskosten Wlz 2018 voor Wlz-uitvoerders
-
-Gelet op [artikel 91, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), en [artikel 4.5, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,21 +20,24 @@ Besluit:
 
 Deze beleidsregels verstaan onder:
 
-- a. **Aanwijzing:** [Aanwijzing besteedbare middelen beheerskosten Wlz 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040273);
+- a. *Aanwijzing:*
+ [Aanwijzing besteedbare middelen beheerskosten Wlz 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040273);
 
-- b. **beheerskostenbudget:** Het bedrag van de besteedbare middelen ter dekking van de beheerskosten Wlz ten laste van het Fonds langdurige zorg;
+- b. *beheerskostenbudget:* Het bedrag van de besteedbare middelen ter dekking van de beheerskosten Wlz ten laste van het Fonds langdurige zorg;
 
-- c. **NZa:** Nederlandse Zorgautoriteit;
+- c. *NZa:* Nederlandse Zorgautoriteit;
 
-- d. **Wlz:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- d. *Wlz:*
+ [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- e. **Wlz-uitvoerder:** een rechtspersoon als bedoel bedoeld in [artikel 4.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1);
+- e. *Wlz-uitvoerder:* een rechtspersoon als bedoel bedoeld in [artikel 4.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1);
 
-- f. **het Zorginstituut:** Zorginstituut Nederland;
+- f. *het Zorginstituut:* Zorginstituut Nederland;
 
-- g. **zorgkantoor:** een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, houdende de aanwijzing van zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0035987);
+- g. *zorgkantoor:* een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, houdende de aanwijzing van zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0035987);
 
-- h. **Nadere aanwijzing:** [Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041530).
+- h. *Nadere aanwijzing:*
+ [Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041530).
 
 ##### Artikel 2
 
@@ -177,5 +154,3 @@ Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgi
 ##### Artikel 18
 
 Deze beleidsregels worden aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders Wlz 2018.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

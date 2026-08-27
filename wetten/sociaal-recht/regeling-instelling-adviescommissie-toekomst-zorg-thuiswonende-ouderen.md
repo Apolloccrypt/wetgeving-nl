@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2018, kenmerk 1437102-183156-WJZ, houdende de instelling van de adviescommissie Toekomst zorg thuiswonende ouderen (Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen)"
+citeertitel: "Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen"
 identifier: "BWBR0041565"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-23"
-last_updated: "2018-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041565"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14861893"
-version_id: "25426142"
-internal_id: "C36296621"
-label_id: "14813304"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041565/2018-11-23/0"
-intitule_bron: "Stcrt.2018-65546"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-14"
-intitule_published: "2018-11-22"
-intitule_in_force: "2018-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-65546"
-original_signed_date: "2018-11-14"
-original_published_date: "2018-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-65546"
-entry_into_force_date: "2018-11-23"
-jci_1_3: "jci1.3:c:BWBR0041565&z=2018-11-23&g=2018-11-23"
-jci_1_0: "1.0:c:BWBR0041565&g=2018-11-23"
-citeertitel_status: "officieel"
-short_title: "Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen"
-signed_date: "2018-11-14"
-entry_into_force: "2018-11-23"
+publicatiedatum: 2018-11-23
+laatste_update: 2018-11-23
+status: geldig
+toestand: 2018-11-23
+bron: "https://wetten.overheid.nl/BWBR0041565"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2018, kenmerk 1437102-183156-WJZ, houdende de instelling van de adviescommissie Toekomst zorg thuiswonende ouderen (Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen)
-
-Gelet op [artikel 6 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -97,5 +71,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

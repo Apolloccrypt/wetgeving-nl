@@ -1,38 +1,16 @@
 ---
 title: "Besluit intrekking enkele regelingen en tariefbeschikkingen in de GGZ"
 identifier: "BWBR0041198"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-07-26"
-last_updated: "2018-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041198"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14688733"
-version_id: "25160172"
-internal_id: "C35974201"
-label_id: "14641084"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041198/2018-07-26/0"
-intitule_bron: "Stcrt.2018-41908"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-07-19"
-intitule_published: "2018-07-25"
-intitule_in_force: "2018-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-41908"
-original_signed_date: "2018-07-19"
-original_published_date: "2018-07-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-41908"
-entry_into_force_date: "2018-07-26"
-jci_1_3: "jci1.3:c:BWBR0041198&z=2018-07-26&g=2018-07-26"
-jci_1_0: "1.0:c:BWBR0041198&g=2018-07-26"
-citeertitel_status: "redactioneel"
-signed_date: "2018-07-19"
-entry_into_force: "2018-07-26"
+publicatiedatum: 2018-07-26
+laatste_update: 2018-07-26
+status: geldig
+toestand: 2018-07-26
+bron: "https://wetten.overheid.nl/BWBR0041198"
+opgehaald: 2026-08-27
 ---
+
 # Besluit intrekking enkele regelingen en tariefbeschikkingen in de GGZ
 
 ##### Artikel 1. Doel van dit besluit

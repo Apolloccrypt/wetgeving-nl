@@ -4,11 +4,11 @@ identifier: "BWBR0039881"
 categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2005-05-11
-laatste_update: 2026-07-18
+laatste_update: 2026-08-27
 status: geldig
-toestand: 2026-07-18
+toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0039881"
-opgehaald: 2026-08-26
+opgehaald: 2026-08-27
 ---
 
 # Inkomstenregeling burgerlijke ambtenaren defensie
@@ -51,9 +51,9 @@ Het pensioengevend inkomen bestaat uit:
 
 - h. de aanspraken op grond van [artikel 62 van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=62), indien en voor zover de minister dit bepaalt;
 
-- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2026-07-18&g=2026-07-18) van deze regeling;
+- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2026-08-27&g=2026-08-27) van deze regeling;
 
-- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2026-07-18&g=2026-07-18) van deze regeling;
+- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2026-08-27&g=2026-08-27) van deze regeling;
 
 - k. de overgangstoelage personenchauffeur, bedoeld in [artikel 11 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=11);
 
@@ -109,9 +109,9 @@ Het pensioengevend inkomen bestaat uit:
 
    - b. onderzoekingswerkzaamheden aan eigen munitie of munitie van bekende samenstelling, waarbij tot gehele of gedeeltelijke demontage moet worden overgegaan.
 
-2. De ambtenaar die in opdracht van de commandant tot categorie A behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, tweede lid’, van de Inkomstenregeling regeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19)en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2026-07-18&g=2026-07-18).
+2. De ambtenaar die in opdracht van de commandant tot categorie A behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, tweede lid’, van de Inkomstenregeling regeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19)en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2026-08-27&g=2026-08-27).
 
-3. De ambtenaar die in opdracht van de commandant tot categorie B behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, vierde lid’, van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19) en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2026-07-18&g=2026-07-18).
+3. De ambtenaar die in opdracht van de commandant tot categorie B behorende werkzaamheden verricht, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van de bedragen genoemd in tabel 9 onder ‘Toelage munitieruimen ad [artikel 19, vierde lid’, van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=19) en de groepsindeling, bedoeld in [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2026-08-27&g=2026-08-27).
 
 4. Aanspraak op de toelage, bedoeld in het derde lid, heeft ook de ambtenaar die zich in opdracht van de commandant in een ruimte bevindt waarin te zelfder tijd tot de in het eerste lid behorende werkzaamheden worden verricht, indien dat met het oog op die werkzaamheden noodzakelijk is.
 
@@ -343,7 +343,7 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 - b. vijf jaar vóór de datum waarop hij aanspraak zou hebben gehad op een gratificatie wegens trouwe dienst bij het bereiken van een diensttijd van vijfentwintig, veertig of vijftig jaar.
 
-5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2026-07-18&g=2026-07-18), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
+5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2026-08-27&g=2026-08-27), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
 
 6. De loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die in voorkomend geval zijn verschuldigd over een proportionele diensttijdgratificatie die is afgeleid van een diensttijdgratificatie wegens vijfentwintig of veertig jaar trouwe dienst, als bedoeld in het tweede lid, onderdeel b, en in het vierde lid, onderdeel b, komen voor rekening van Defensie.
 
@@ -459,13 +459,13 @@ De berekeningsbasis als bedoeld in [artikel 61, eerste lid, van het IBBAD](https
 
 ##### Artikel 17. Gebruik van energie en water
 
-1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van verwarming van de woning, bedoeld in [artikel 61, eerste lid, onderdeel b, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 188,97.
+1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van verwarming van de woning, bedoeld in [artikel 61, eerste lid, onderdeel b, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 185,50.
 
-2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van energie voor kookdoeleinden, bedoeld in [artikel 61, eerste lid, onderdeel c, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 60,61.
+2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van energie voor kookdoeleinden, bedoeld in [artikel 61, eerste lid, onderdeel c, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 59,55.
 
-3. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van elektrische energie, bedoeld in [artikel 61, eerste lid, onderdeel d, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 28,20.
+3. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van elektrische energie, bedoeld in [artikel 61, eerste lid, onderdeel d, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 27,63.
 
-4. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van leidingwater, bedoeld in [artikel 61, eerste lid, onderdeel e, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 23,39.
+4. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van leidingwater, bedoeld in [artikel 61, eerste lid, onderdeel e, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 24,26.
 
 ### Hoofdstuk 6. Anticumulatie pas
 

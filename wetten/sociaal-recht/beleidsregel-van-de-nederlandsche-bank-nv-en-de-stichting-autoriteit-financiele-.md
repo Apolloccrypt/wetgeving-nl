@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0031740"
-opgehaald: 2026-08-26
+opgehaald: 2026-08-27
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten inzake de toetsing van de geschiktheid van beleidsbepalers krachtens de Wet op het financieel toezicht, de Pensioenwet, de Wet verplichte beroepspensioenregeling, de Wet toezicht trustkantoren 2018, de Wet ter voorkoming van witwassen en financieren van terrorisme, Verordening (EU) Nr. 909/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende de verbetering van de effectenafwikkeling in de Europese Unie, betreffende centrale effectenbewaarinstellingen en tot wijziging van Richtlijnen 98/26/EG en 2014/65/EU, Verordening (EU) nr. 236/2012, Verordening (EU) Nr. 648/2012 van het Europees Parlement en de Raad van 4 juli 2012, Verordening (EU) Nr. 346/2013 van het Europees Parlement en de Raad van 17 april 2013 betreffende Europese sociaalondernemerschapsfondsen, Verordening (EU) Nr. 345/2013 van het Europees Parlement en de Raad van 17 april 2013 betreffende Europese durfkapitaalfondsen en Verordening (EU) 2020/1503 van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van Verordening (EU) 2017/1129 en Richtlijn (EU) 2019/1937 (Beleidsregel geschiktheid 2012)

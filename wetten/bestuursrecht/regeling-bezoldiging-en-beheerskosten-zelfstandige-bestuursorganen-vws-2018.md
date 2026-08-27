@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2018, kenmerk 1358163-177565-BPZ, houdende regels voor de bezoldiging en beheerskosten van bestuursorganen volksgezondheid (Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018)"
+citeertitel: "Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018"
 identifier: "BWBR0041119"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-08-28"
-last_updated: "2020-08-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041119"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "14669403"
-version_id: "25118212"
-internal_id: "C35920171"
-label_id: "14622214"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041119/2020-08-28/0"
-intitule_bron: "Stcrt.2018-37304"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-27"
-intitule_published: "2018-07-05"
-intitule_in_force: "2018-07-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-37304"
-original_signed_date: "2018-06-27"
-original_published_date: "2018-07-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-37304"
-entry_into_force_date: "2018-09-01"
-jci_1_3: "jci1.3:c:BWBR0041119&z=2020-08-28&g=2020-08-28"
-jci_1_0: "1.0:c:BWBR0041119&g=2020-08-28"
-citeertitel_status: "officieel"
-short_title: "Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018"
-signed_date: "2018-06-27"
-entry_into_force: "2018-09-01"
+publicatiedatum: 2018-09-01
+laatste_update: 2020-08-28
+status: geldig
+toestand: 2020-08-28
+bron: "https://wetten.overheid.nl/BWBR0041119"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2018, kenmerk 1358163-177565-BPZ, houdende regels voor de bezoldiging en beheerskosten van bestuursorganen volksgezondheid (Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018)
-
-Gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32), [artikel 14 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=14), de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=20) en [26 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=26), de [artikelen 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a) en [75 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=75) en de [artikelen 6.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.2.5) en [7.2.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.2.3);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,21 +20,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *de Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **het College sanering:** het College sanering zorginstellingen, genoemd in [artikel 19, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=19);
+- b. *het College sanering:* het College sanering zorginstellingen, genoemd in [artikel 19, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=19);
 
-- c. **het Zorginstituut:** het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- c. *het Zorginstituut:* het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- d. **de zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- d. *de zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- e. **het CAK:** het CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- e. *het CAK:* het CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- f. **het CIZ:** het CIZ, genoemd in [artikel 7.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.1);
+- f. *het CIZ:* het CIZ, genoemd in [artikel 7.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.1);
 
-- g. **Dopingautoriteit**: de Dopingautoriteit, genoemd in [artikel 4 van de Wet uitvoering antidopingbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=4);
+- g. *Dopingautoriteit*: de Dopingautoriteit, genoemd in [artikel 4 van de Wet uitvoering antidopingbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=4);
 
-- h. **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
+- h. *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
 ### Hoofdstuk 2. Bezoldiging, vergoeding en rechtspositie
 
@@ -274,6 +248,4 @@ Deze regeling wordt aangehaald als: Regeling bezoldiging en beheerskosten zelfst
 
 ##### Artikel 22. Inwerkingtreding
 
-Deze regeling treedt in werking op 1 september 2018.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking op 1 september 2018.

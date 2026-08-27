@@ -1,47 +1,18 @@
 ---
 title: "Wet van 27 juni 2018, houdende instelling van een gedeeltelijk verbod op het dragen van gezichtsbedekkende kleding in het onderwijs, het openbaar vervoer, overheidsgebouwen en de zorg (Wet gedeeltelijk verbod gezichtsbedekkende kleding)"
+citeertitel: "Wet gedeeltelijk verbod gezichtsbedekkende kleding"
 identifier: "BWBR0041161"
-country: "nl"
-rank: "wet"
-publication_date: "2019-08-01"
-last_updated: "2019-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041161"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "14682983"
-version_id: "25145612"
-internal_id: "C36798311"
-label_id: "14635434"
-dtd_version: "2.0"
-original_entry_into_force: "2019-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041161/2019-08-01/0"
-intitule_bron: "Stb.2018-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-27"
-intitule_published: "2018-07-17"
-intitule_in_force: "2019-04-26"
-intitule_status: "goed"
-original_publication: "Stb.2018-222"
-original_signed_date: "2018-06-27"
-original_published_date: "2018-07-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "34349"
-original_url_id: "stb-2018-222"
-entry_into_force_date: "2019-08-01"
-jci_1_3: "jci1.3:c:BWBR0041161&z=2019-08-01&g=2019-08-01"
-jci_1_0: "1.0:c:BWBR0041161&g=2019-08-01"
-citeertitel_status: "officieel"
-short_title: "Wet gedeeltelijk verbod gezichtsbedekkende kleding"
-signed_date: "2018-06-27"
-entry_into_force: "2019-08-01"
+publicatiedatum: 2019-08-01
+laatste_update: 2019-08-01
+status: geldig
+toestand: 2019-08-01
+bron: "https://wetten.overheid.nl/BWBR0041161"
+opgehaald: 2026-08-27
 ---
+
 # Wet van 27 juni 2018, houdende instelling van een gedeeltelijk verbod op het dragen van gezichtsbedekkende kleding in het onderwijs, het openbaar vervoer, overheidsgebouwen en de zorg (Wet gedeeltelijk verbod gezichtsbedekkende kleding)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijk verbod in te stellen op het dragen van gezichtsbedekkende kleding in het openbaar vervoer en in gebouwen en bijbehorende erven van onderwijsinstellingen, overheidsinstellingen en zorginstellingen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -72,5 +43,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 4
 
 Deze wet wordt aangehaald als: Wet gedeeltelijk verbod gezichtsbedekkende kleding.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

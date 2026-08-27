@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister voor Medische Zorg van 10 december 2018, kenmerk 1453331-184685-PZo op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake het experiment resultaatbeloning en zorgvernieuwing eerstelijnsverblijf"
+citeertitel: "Aanwijzing ex artikel 7 Wet marktordening gezondheidzorg (experiment resultaatbeloning en zorgvernieuwing eerstelijnsverblijf)"
 identifier: "BWBR0041671"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-02-01"
-last_updated: "2019-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041671"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14902613"
-version_id: "25494742"
-internal_id: "C36385091"
-label_id: "14853864"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041671/2019-02-01/0"
-intitule_bron: "Stcrt.2018-70877"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-10"
-intitule_published: "2018-12-14"
-intitule_in_force: "2018-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-70877"
-original_signed_date: "2018-12-10"
-original_published_date: "2018-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-70877"
-entry_into_force_date: "2019-02-01"
-jci_1_3: "jci1.3:c:BWBR0041671&z=2019-02-01&g=2019-02-01"
-jci_1_0: "1.0:c:BWBR0041671&g=2019-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidzorg (experiment resultaatbeloning en zorgvernieuwing eerstelijnsverblijf)"
-signed_date: "2018-12-10"
-entry_into_force: "2019-02-01"
+publicatiedatum: 2019-02-01
+laatste_update: 2019-02-01
+status: geldig
+toestand: 2019-02-01
+bron: "https://wetten.overheid.nl/BWBR0041671"
+opgehaald: 2026-08-27
 ---
+
 # Aanwijzing van de Minister voor Medische Zorg van 10 december 2018, kenmerk 1453331-184685-PZo op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake het experiment resultaatbeloning en zorgvernieuwing eerstelijnsverblijf
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7):
-
-Na op 16 oktober 2018 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) over het voornemen een aanwijzing te geven aan de Nederlandse Zorgautoriteit inzake het experiment resultaatbeloning en zorgvernieuwing eerstelijnsverblijf (**Kamerstukken II** 2018/19 31 765 nr. 346);
-
-Besluit:
 
 ##### Artikel 1. Werkingssfeer
 
@@ -61,5 +33,3 @@ Deze aanwijzing is van toepassing op zorg als bedoeld in [artikel 2.12 van het B
 6. Wanneer de Nederlandse Zorgautoriteit het niet langer verantwoord vindt een experiment onveranderd voort te zetten, laat zij mij dat onmiddellijk weten en zal ik het experiment zo nodig stopzetten.
 
 7. Het experiment eindigt wanneer de nieuwe bekostiging voor eerstelijnsverblijf in werking treedt.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.

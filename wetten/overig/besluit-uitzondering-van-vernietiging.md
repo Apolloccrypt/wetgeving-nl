@@ -1,44 +1,18 @@
 ---
 title: "Besluit uitzondering van vernietiging in het kader van cultuurhistorisch belang hotspot MH17-casus"
+citeertitel: "Besluit uitzondering van vernietiging"
 identifier: "BWBR0041584"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-11-30"
-last_updated: "2018-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041584"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14881863"
-version_id: "25452322"
-internal_id: "C36326291"
-label_id: "14833214"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041584/2018-11-30/0"
-intitule_bron: "Stcrt.2018-66896"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-19"
-intitule_published: "2018-11-28"
-intitule_in_force: "2018-11-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-66896"
-original_signed_date: "2018-11-19"
-original_published_date: "2018-11-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-66896"
-entry_into_force_date: "2018-11-30"
-jci_1_3: "jci1.3:c:BWBR0041584&z=2018-11-30&g=2018-11-30"
-jci_1_0: "1.0:c:BWBR0041584&g=2018-11-30"
-citeertitel_status: "officieel"
-short_title: "Besluit uitzondering van vernietiging"
-signed_date: "2018-11-19"
-entry_into_force: "2018-11-30"
+publicatiedatum: 2018-11-30
+laatste_update: 2018-11-30
+status: geldig
+toestand: 2018-11-30
+bron: "https://wetten.overheid.nl/BWBR0041584"
+opgehaald: 2026-08-27
 ---
+
 # Besluit uitzondering van vernietiging in het kader van cultuurhistorisch belang hotspot MH17-casus
-
-gelet op [artikel 5, lid e van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) en [subonderdeel I.9 B van de ‘Selectielijst UWV vanaf 2014](onbekend)’;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -46,7 +20,7 @@ Het UWV gaat over tot uitzondering van vernietiging van op termijn te vernietige
 
 ##### Artikel 2
 
-De archiefbescheiden zijn nader gespecificeerd in de inventaris die als bijlage bij dit besluit is gevoegd.
+De archiefbescheiden zijn nader gespecificeerd in de inventaris die als [bijlage](https://wetten.overheid.nl/BWBR0041584) bij dit besluit is gevoegd.
 
 ##### Artikel 3
 
@@ -67,9 +41,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit uitzondering van vernietiging.
-
-## Bijlage
-
-Niet opgenomen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

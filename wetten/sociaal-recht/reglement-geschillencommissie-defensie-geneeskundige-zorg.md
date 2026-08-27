@@ -1,41 +1,17 @@
 ---
 title: "Reglement Geschillencommissie Defensie Geneeskundige Zorg"
 identifier: "BWBR0041400"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-09-29"
-last_updated: "2018-09-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041400"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14822583"
-version_id: "25342802"
-internal_id: "C36189441"
-label_id: "14774844"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041400/2018-09-29/0"
-intitule_bron: "Stcrt.2018-54197"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-08-29"
-intitule_published: "2018-09-28"
-intitule_in_force: "2018-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-54197"
-original_signed_date: "2018-08-29"
-original_published_date: "2018-09-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-54197"
-entry_into_force_date: "2018-09-29"
-jci_1_3: "jci1.3:c:BWBR0041400&z=2018-09-29&g=2018-09-29"
-jci_1_0: "1.0:c:BWBR0041400&g=2018-09-29"
-citeertitel_status: "redactioneel"
-signed_date: "2018-08-29"
-entry_into_force: "2018-09-29"
+publicatiedatum: 2018-09-29
+laatste_update: 2018-09-29
+status: geldig
+toestand: 2018-09-29
+bron: "https://wetten.overheid.nl/BWBR0041400"
+opgehaald: 2026-08-27
 ---
-# Reglement Geschillencommissie Defensie Geneeskundige Zorg
 
-Gelet op [artikel 18 van de Wet kwaliteit klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=18) en [artikel 19 van de Regeling klachtenbehandeling gezondheidszorg Defensie 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&artikel=19).
+# Reglement Geschillencommissie Defensie Geneeskundige Zorg
 
 ### Begripsomschrijving
 
@@ -43,23 +19,23 @@ Gelet op [artikel 18 van de Wet kwaliteit klachten en geschillen zorg](https://w
 
 In dit reglement wordt verstaan onder:
 
-- **stichting:** de Stichting Geschillencommissies voor Consumentenzaken;
+- *stichting:* de Stichting Geschillencommissies voor Consumentenzaken;
 
-- **commissie:** de Geschillencommissie Defensie Geneeskundige Zorg ingesteld en in stand gehouden door de stichting;
+- *commissie:* de Geschillencommissie Defensie Geneeskundige Zorg ingesteld en in stand gehouden door de stichting;
 
-- **Militair Geneeskundige Dienst:** het geheel van instanties en eenheden binnen de krijgsmacht, belast met het verlenen van militaire gezondheidszorg;
+- *Militair Geneeskundige Dienst:* het geheel van instanties en eenheden binnen de krijgsmacht, belast met het verlenen van militaire gezondheidszorg;
 
-- **cliënt:** een natuurlijk persoon aan wie een binnen de militair geneeskundige dienst werkzame zorgverlener door of vanwege de zorgaanbieder gezondheidszorg verleent of heeft verleend,
+- *cliënt:* een natuurlijk persoon aan wie een binnen de militair geneeskundige dienst werkzame zorgverlener door of vanwege de zorgaanbieder gezondheidszorg verleent of heeft verleend,
 
-- **gedraging:** enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een cliënt;
+- *gedraging:* enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een cliënt;
 
-- **militaire gezondheidszorg:** het geheel aan maatregelen, voorzieningen en verstrekkingen verleend door of vanwege de militair geneeskundige dienst ten behoeve van het behoud, herstel en bevordering van de gezondheid en inzetbaarheid van de militair, alsmede de overigens door de militair geneeskundige dienst verleende gezondheidszorg;
+- *militaire gezondheidszorg:* het geheel aan maatregelen, voorzieningen en verstrekkingen verleend door of vanwege de militair geneeskundige dienst ten behoeve van het behoud, herstel en bevordering van de gezondheid en inzetbaarheid van de militair, alsmede de overigens door de militair geneeskundige dienst verleende gezondheidszorg;
 
-- **klacht:** een klacht over de zorgaanbieder en/of over een gedraging van een binnen de militair geneeskundige dienst werkzame persoon jegens een cliënt in het kader van de zorgverlening door of vanwege de zorgaanbieder, inbegrepen klachten die een verzoek tot schadevergoeding wegens letsel- of overige schade inhouden;
+- *klacht:* een klacht over de zorgaanbieder en/of over een gedraging van een binnen de militair geneeskundige dienst werkzame persoon jegens een cliënt in het kader van de zorgverlening door of vanwege de zorgaanbieder, inbegrepen klachten die een verzoek tot schadevergoeding wegens letsel- of overige schade inhouden;
 
-- **Wet:** de [Wet Kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173), Stbl. 2015, 407;
+- *Wet:* de [Wet Kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173), Stbl. 2015, 407;
 
-- **Zorgaanbieder:** de Minister van Defensie.
+- *Zorgaanbieder:* de Minister van Defensie.
 
 ### Samenstelling en taak
 
@@ -187,9 +163,9 @@ De commissie verstrekt een afschrift van het deskundigenrapport aan partijen, di
 
 2. De commissie kan voorts de navolgende beslissingen nemen:
 
-- –. een door één van partijen te betalen (schade)vergoeding vaststellen;
+- – een door één van partijen te betalen (schade)vergoeding vaststellen;
 
-- –. een betalingsverplichting vaststellen;
+- – een betalingsverplichting vaststellen;
 
 alsmede iedere andere beslissing, die zij redelijk en billijk acht ter beëindiging van het geschil.
 

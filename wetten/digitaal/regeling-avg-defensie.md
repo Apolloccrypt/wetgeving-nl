@@ -1,41 +1,17 @@
 ---
 title: "Regeling AVG Defensie"
 identifier: "BWBR0040915"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-05-25"
-last_updated: "2018-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040915"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "14612103"
-version_id: "25019562"
-internal_id: "C35783941"
-label_id: "14565814"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040915/2018-05-25/0"
-intitule_bron: "Stcrt.2018-28291"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-15"
-intitule_published: "2018-05-22"
-intitule_in_force: "2018-05-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-28291"
-original_signed_date: "2018-05-15"
-original_published_date: "2018-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-28291"
-entry_into_force_date: "2018-05-25"
-jci_1_3: "jci1.3:c:BWBR0040915&z=2018-05-25&g=2018-05-25"
-jci_1_0: "1.0:c:BWBR0040915&g=2018-05-25"
-citeertitel_status: "officieel"
-signed_date: "2018-05-15"
-entry_into_force: "2018-05-25"
+publicatiedatum: 2018-05-25
+laatste_update: 2018-05-25
+status: geldig
+toestand: 2018-05-25
+bron: "https://wetten.overheid.nl/BWBR0040915"
+opgehaald: 2026-08-27
 ---
-# Regeling AVG Defensie
 
-Besluit:
+# Regeling AVG Defensie
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -43,35 +19,36 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **AVG:** Verordening (EU) 2016/679 van het Europees parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046);
+- a. *AVG:* Verordening (EU) 2016/679 van het Europees parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG;
 
-- b. **wet:** [Uitvoeringswet Algemene verordening gegevensbescherming](onbekend);
+- b. *wet:*
+ Uitvoeringswet Algemene verordening gegevensbescherming;
 
-- c. **Minister:** Minister van Defensie;
+- c. *Minister:* Minister van Defensie;
 
-- d. **persoonsgegevens, verwerking, betrokkene, derde, ontvanger, verwerker:** hetgeen daaronder wordt verstaan in artikel 4 van de AVG;
+- d. *persoonsgegevens, verwerking, betrokkene, derde, ontvanger, verwerker:* hetgeen daaronder wordt verstaan in artikel 4 van de AVG;
 
-- e. **Privacy Impact Assessment:** gegevensbeschermingseffectbeoordeling als bedoeld in artikel 35 AVG;
+- e. *Privacy Impact Assessment:* gegevensbeschermingseffectbeoordeling als bedoeld in artikel 35 AVG;
 
-- f. **register:** register als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=2&artikel=2.1&z=2018-05-25&g=2018-05-25) van deze regeling;
+- f. *register:* register als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=2&artikel=2.1&z=2018-05-25&g=2018-05-25) van deze regeling;
 
-- g. **verwerkingsverantwoordelijke:** Minister van Defensie;
+- g. *verwerkingsverantwoordelijke:* Minister van Defensie;
 
-- h. **AVG-beheerder:** het diensthoofd die namens de minister belast is met de zorg voor de naleving van de AVG en de [wet](onbekend) ten aanzien van verwerkingen die gevoerd worden binnen het dienstonderdeel;
+- h. *AVG-beheerder:* het diensthoofd die namens de minister belast is met de zorg voor de naleving van de AVG en de wet ten aanzien van verwerkingen die gevoerd worden binnen het dienstonderdeel;
 
-- i. **AVG-coördinator:** de in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=1&artikel=1.3&z=2018-05-25&g=2018-05-25), van deze regeling bedoelde functionaris die de uitvoering van de AVG en de [wet](onbekend), en de feitelijke handelingen die daarvoor nodig zijn, binnen het dienstonderdeel coördineert;
+- i. *AVG-coördinator:* de in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=1&artikel=1.3&z=2018-05-25&g=2018-05-25), van deze regeling bedoelde functionaris die de uitvoering van de AVG en de wet, en de feitelijke handelingen die daarvoor nodig zijn, binnen het dienstonderdeel coördineert;
 
-- i. **Autoriteit persoonsgegevens:** Autoriteit persoonsgegevens als bedoeld in [artikel 6 van de wet](onbekend);
+- i. *Autoriteit persoonsgegevens:* Autoriteit persoonsgegevens als bedoeld in artikel 6 van de wet;
 
-- j. **functionaris voor gegevensbescherming:** de functionaris voor gegevensbescherming in de zin van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=1&artikel=1.5&z=2018-05-25&g=2018-05-25) van deze regeling;
+- j. *functionaris voor gegevensbescherming:* de functionaris voor gegevensbescherming in de zin van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=1&artikel=1.5&z=2018-05-25&g=2018-05-25) van deze regeling;
 
-- k. **inbreuk in verband met persoonsgegevens:** inbreuk in verband met persoonsgegevens als bedoeld in artikel 33, eerste lid, AVG.
+- k. *inbreuk in verband met persoonsgegevens:* inbreuk in verband met persoonsgegevens als bedoeld in artikel 33, eerste lid, AVG.
 
 ##### Artikel 1.2. Reikwijdte
 
-1. Deze regeling is van toepassing op alle verwerkingen van persoonsgegevens, waarop de [wet](onbekend) en de AVG van toepassing respectievelijk van overeenkomstige toepassing zijn, en waarvoor de Minister van Defensie de verwerkingsverantwoordelijke is in de zin van de AVG.
+1. Deze regeling is van toepassing op alle verwerkingen van persoonsgegevens, waarop de wet en de AVG van toepassing respectievelijk van overeenkomstige toepassing zijn, en waarvoor de Minister van Defensie de verwerkingsverantwoordelijke is in de zin van de AVG.
 
-2. In afwijking van het eerste lid, is deze regeling niet van toepassing op verwerkingen welke ingevolge [artikel 3, derde lid, van de wet](onbekend) door de minister van Defensie zijn aangewezen.
+2. In afwijking van het eerste lid, is deze regeling niet van toepassing op verwerkingen welke ingevolge artikel 3, derde lid, van de wet door de minister van Defensie zijn aangewezen.
 
 ##### Artikel 1.3. Beheerder
 
@@ -91,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - g. de Directeur Defensie Materieel Organisatie voor verwerkingen binnen de defensie materieel organisatie.
 
-2. Een AVG-beheerder kan de aan hem belaste zorg voor de naleving van de AVG en de [wet](onbekend) geheel of gedeeltelijk opdragen aan een AVG-onderbeheerder binnen zijn onderdeel. Hij doet hiervan mededeling aan de functionaris voor gegevensbescherming.
+2. Een AVG-beheerder kan de aan hem belaste zorg voor de naleving van de AVG en de wet geheel of gedeeltelijk opdragen aan een AVG-onderbeheerder binnen zijn onderdeel. Hij doet hiervan mededeling aan de functionaris voor gegevensbescherming.
 
-3. De AVG-beheerder, dan wel de AVG-onderbeheerder, wijst binnen zijn dienstonderdeel één of meer AVG-coördinatoren aan die de uitvoering van de AVG en de [wet](onbekend) en de feitelijke handelingen die daarvoor nodig zijn, binnen zijn dienstonderdeel coördineert. Hij doet hiervan mededeling aan de functionaris voor gegevensbescherming.
+3. De AVG-beheerder, dan wel de AVG-onderbeheerder, wijst binnen zijn dienstonderdeel één of meer AVG-coördinatoren aan die de uitvoering van de AVG en de wet en de feitelijke handelingen die daarvoor nodig zijn, binnen zijn dienstonderdeel coördineert. Hij doet hiervan mededeling aan de functionaris voor gegevensbescherming.
 
-4. De AVG-beheerder rapporteert jaarlijks vóór 1 januari aan de functionaris voor gegevensbescherming over de naleving van de AVG en de [wet](onbekend) binnen zijn onderdeel.
+4. De AVG-beheerder rapporteert jaarlijks vóór 1 januari aan de functionaris voor gegevensbescherming over de naleving van de AVG en de wet binnen zijn onderdeel.
 
 5. De AVG-coördinator registreert alle verwerkingen van persoonsgegevens conform het gestelde in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=2&artikel=2.2&z=2018-05-25&g=2018-05-25) van deze regeling.
 
@@ -123,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 2. De functionaris voor gegevensbescherming vervult binnen het ministerie van Defensie de in artikel 39 AVG bedoelde taken ten aanzien van verwerkingen van persoonsgegevens door de verwerkingsverantwoordelijke en ziet voorts toe op de afwikkeling van klachten en het evalueren van incidenten ter zake van het verwerken van persoonsgegevens binnen het ministerie van Defensie. Wanneer een klacht terzake van het verwerken van persoonsgegevens bij het ministerie van Defensie wordt ingediend, wordt de functionaris voor gegevensbescherming door de klachtbehandelaar hiervan op de hoogte gesteld.
 
-3. De functionaris voor gegevensbescherming rapporteert jaarlijks aan de minister over de naleving van de AVG en de [wet](onbekend) binnen het ministerie.
+3. De functionaris voor gegevensbescherming rapporteert jaarlijks aan de minister over de naleving van de AVG en de wet binnen het ministerie.
 
 4. De functionaris voor gegevensbescherming beschikt voor de uitoefening van het toezicht als bedoeld in artikel 39, eerste lid, onder b, van de AVG over de bevoegdheden als bedoeld in [Afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2). De functionaris voor gegevensbescherming maakt van zijn bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
@@ -225,7 +202,7 @@ Er is een register van verwerkingsactiviteiten, als bedoeld in artikel 30 AVG, v
 
 6. Op een verzoek als bedoeld in het eerste lid wordt binnen een maand beslist. Wanneer aan het verzoek gevolg wordt gegeven, kan de termijn met nog eens twee maanden worden verlengd afhankelijk van de complexiteit van het verzoek of van het aantal verzoeken. Betrokkene wordt hierover schriftelijk geïnformeerd.
 
-##### Artikel 5.3. Bezwaar tegen besluit [artikel 5.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=5&artikel=5.2&z=2018-05-25&g=2018-05-25)
+##### Artikel 5.3. Bezwaar tegen besluit artikel 5.2, vijfde lid
 
 1. Het besluit als bedoeld in [artikel 5.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=5&artikel=5.2&z=2018-05-25&g=2018-05-25), bevat de mededeling dat bezwaar gemaakt kan worden en aan wie het bezwaar gericht dient te zijn.
 
@@ -262,5 +239,3 @@ Deze regeling treedt in werking met ingang van 25 mei 2018.
 ##### Artikel 9.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling AVG Defensie.
-
-Deze regeling zal met de toelichting worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.

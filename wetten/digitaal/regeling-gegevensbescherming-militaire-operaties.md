@@ -1,45 +1,17 @@
 ---
 title: "Regeling Gegevensbescherming Militaire Operaties"
 identifier: "BWBR0040912"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-05-25"
-last_updated: "2018-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040912"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14611783"
-version_id: "25018252"
-internal_id: "C35792641"
-label_id: "14565314"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040912/2018-05-25/0"
-intitule_bron: "Stcrt.2018-28293"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-04"
-intitule_published: "2018-05-22"
-intitule_in_force: "2018-05-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-28293"
-original_signed_date: "2018-05-04"
-original_published_date: "2018-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-28293"
-entry_into_force_date: "2018-05-25"
-jci_1_3: "jci1.3:c:BWBR0040912&z=2018-05-25&g=2018-05-25"
-jci_1_0: "1.0:c:BWBR0040912&g=2018-05-25"
-citeertitel_status: "officieel"
-signed_date: "2018-05-04"
-entry_into_force: "2018-05-25"
+publicatiedatum: 2018-05-25
+laatste_update: 2018-05-25
+status: geldig
+toestand: 2018-05-25
+bron: "https://wetten.overheid.nl/BWBR0040912"
+opgehaald: 2026-08-27
 ---
+
 # Regeling Gegevensbescherming Militaire Operaties
-
-Gelet op [artikel 3, derde lid, aanhef en onder a, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=3);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Uitvoeringswet Algemene Verordening gegevensbescherming in werking treedt.
 
 ##### Artikel 1. Uitzonderingen
 
@@ -86,5 +58,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Uitvoeringwet AVG](ht
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Gegevensbescherming Militaire Operaties.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

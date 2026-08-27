@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 november 2018, ELVV/18299083, houdende visverbod voor een bepaald tijdvak voor Saba"
+citeertitel: "Besluit visverbod voor bepaald tijdvak Saba"
 identifier: "BWBR0041603"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2018-12-01"
-last_updated: "2018-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041603"
+categorie: "Milieu"
 soort: "ministeriele-regeling-BES"
-stam_id: "14887473"
-version_id: "25461132"
-internal_id: "C36335411"
-label_id: "14838764"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041603/2018-12-01/0"
-intitule_bron: "Stcrt.2018-68780"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-29"
-intitule_published: "2018-11-30"
-intitule_in_force: "2018-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-68780"
-original_signed_date: "2018-11-29"
-original_published_date: "2018-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-68780"
-entry_into_force_date: "2018-12-01"
-jci_1_3: "jci1.3:c:BWBR0041603&z=2018-12-01&g=2018-12-01"
-jci_1_0: "1.0:c:BWBR0041603&g=2018-12-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit visverbod voor bepaald tijdvak Saba"
-signed_date: "2018-11-29"
-entry_into_force: "2018-12-01"
+publicatiedatum: 2018-12-01
+laatste_update: 2018-12-01
+status: geldig
+toestand: 2018-12-01
+bron: "https://wetten.overheid.nl/BWBR0041603"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 november 2018, ELVV/18299083, houdende visverbod voor een bepaald tijdvak voor Saba
-
-Gelet op [artikel 5 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=5);
-
-Gehoord de Visserijcommissie als bedoeld in [artikel 13 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=13);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -60,5 +32,3 @@ Indien een vissersvaartuig gedurende het tijdvak, bedoeld in [artikel 1](https:/
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 december 2018 en vervalt 1 maart 2023.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

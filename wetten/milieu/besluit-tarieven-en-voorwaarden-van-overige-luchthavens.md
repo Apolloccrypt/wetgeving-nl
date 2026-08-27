@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 9 april 2018, houdende regels betreffende de tarieven en voorwaarden van overige luchthavens (Besluit tarieven en voorwaarden van overige luchthavens)"
+citeertitel: "Besluit tarieven en voorwaarden van overige luchthavens"
 identifier: "BWBR0040862"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-05-01"
-last_updated: "2018-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040862"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "14597563"
-version_id: "24996092"
-internal_id: "C35752181"
-label_id: "14551194"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040862/2018-05-01/0"
-intitule_bron: "Stb.2018-124"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-09"
-intitule_published: "2018-04-30"
-intitule_in_force: "2018-04-30"
-intitule_status: "goed"
-original_publication: "Stb.2018-124"
-original_signed_date: "2018-04-09"
-original_published_date: "2018-04-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-124"
-entry_into_force_date: "2018-05-01"
-jci_1_3: "jci1.3:c:BWBR0040862&z=2018-05-01&g=2018-05-01"
-jci_1_0: "1.0:c:BWBR0040862&g=2018-05-01"
-citeertitel_status: "officieel"
-short_title: "Besluit tarieven en voorwaarden van overige luchthavens"
-signed_date: "2018-04-09"
-entry_into_force: "2018-05-01"
+publicatiedatum: 2018-05-01
+laatste_update: 2018-05-01
+status: geldig
+toestand: 2018-05-01
+bron: "https://wetten.overheid.nl/BWBR0040862"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 9 april 2018, houdende regels betreffende de tarieven en voorwaarden van overige luchthavens (Besluit tarieven en voorwaarden van overige luchthavens)
-
-Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 6 februari 2018, nr. IENM/BSK-2017/298532, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Economische Zaken en Klimaat;
-
-Gelet op de [artikelen 8.40c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40c), [8.40e, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40e), en [8.40g, negende lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40g);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 februari 2018, nr. W17.18.0019/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Waterstaat van 3 april 2018, nr. IENW/BSK-2018/53278, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 1. In dit besluit wordt verstaan onder:
 
-- **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- **gebruiker:** een luchtvaartmaatschappij, alsmede een persoon of rechtspersoon die vluchten uitvoert, niet zijnde een luchtvaartmaatschappij;
+- *gebruiker:* een luchtvaartmaatschappij, alsmede een persoon of rechtspersoon die vluchten uitvoert, niet zijnde een luchtvaartmaatschappij;
 
-- **overige luchthaven:** een burgerluchthaven behorende tot de overige burgerluchthavens, bedoeld in [artikel 8.1, eerste lid, onder b, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) dan wel een militaire luchthaven voor zover het betreft burgermedegebruik door tussenkomst van een burgerexploitant;
+- *overige luchthaven:* een burgerluchthaven behorende tot de overige burgerluchthavens, bedoeld in [artikel 8.1, eerste lid, onder b, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) dan wel een militaire luchthaven voor zover het betreft burgermedegebruik door tussenkomst van een burgerexploitant;
 
-- **representatieve organisatie:** een op grond van [artikel 8.40a, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40a) bij ministeriële regeling aangewezen rechtspersoon die de belangen vertegenwoordigt van gebruikers;
+- *representatieve organisatie:* een op grond van [artikel 8.40a, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40a) bij ministeriële regeling aangewezen rechtspersoon die de belangen vertegenwoordigt van gebruikers;
 
-- **wet:** de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+- *wet:* de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 2. In dit besluit wordt onder exploitant mede verstaan burgerexploitant.
 
@@ -76,9 +44,9 @@ Luchtvaartactiviteiten zijn activiteiten als bedoeld in [artikel 8.40c, eerste l
 
 - c. de afhandeling van passagiers van luchtvaartuigen en hun bagage, alsmede van vracht in verband met het opstijgen en landen van luchtvaartuigen waaronder in elk geval wordt begrepen:
 
-- 1°. het gebruik van de passagiersterminal; en
+   - 1°. het gebruik van de passagiersterminal; en
 
-- 2°. het gebruik van de voorrijwegen;
+   - 2°. het gebruik van de voorrijwegen;
 
 - d. de uitvoering van de beveiliging van passagiers en hun bagage, alsmede van vracht, waaronder mede begrepen de faciliteiten voor grenscontrole.
 
@@ -190,7 +158,7 @@ Indicatoren voor het kwaliteitsniveau van de door de exploitant van een overige 
 
 ##### Artikel 10. Slotbepaling
 
-Wijzigt het Besluit exploitatie luchthaven Schiphol 2017.
+*Wijzigt het Besluit exploitatie luchthaven Schiphol 2017.*
 
 ##### Artikel 11. Citeertitel
 
@@ -199,5 +167,3 @@ Dit besluit wordt aangehaald als: Besluit tarieven en voorwaarden van overige lu
 ##### Artikel 12. Inwerkingtreding
 
 De Wet van 14 februari 2018 tot wijziging van de Wet luchtvaart in verband met de implementatie van richtlijn nr. 2009/12/EG van het Europees Parlement en de Raad van de Europese Unie van 11 maart 2009 inzake luchthavengelden (PbEG L 70) voor overige luchthavens (Stb. 2018, 76) en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

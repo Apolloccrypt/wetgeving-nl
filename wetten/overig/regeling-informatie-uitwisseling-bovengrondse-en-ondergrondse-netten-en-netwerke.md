@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 26 maart 2018, nr. WJZ/18027245, houdende een systeem van informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Regeling informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)"
+citeertitel: "Regeling informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
 identifier: "BWBR0040787"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040787"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14584313"
-version_id: "24964392"
-internal_id: "C35697871"
-label_id: "14538084"
-dtd_version: "2.0"
-original_entry_into_force: "2018-03-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040787/2022-01-01/0"
-intitule_bron: "Stcrt.2018-17588"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-03-26"
-intitule_published: "2018-03-30"
-intitule_in_force: "2018-03-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-17588"
-original_signed_date: "2018-03-26"
-original_published_date: "2018-03-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-17588"
-entry_into_force_date: "2018-03-31"
-jci_1_3: "jci1.3:c:BWBR0040787&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0040787&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
-signed_date: "2018-03-26"
-entry_into_force: "2018-03-31"
+publicatiedatum: 2018-03-31
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0040787"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 26 maart 2018, nr. WJZ/18027245, houdende een systeem van informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Regeling informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)
-
-Gelet op [richtlijn nr. 2014/61](32014L0061)/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronische communicatienetwerken met hoge snelheid (PbEU 2014, L 155) en de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=20), en [28, vierde lid, van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=28), alsmede de [artikelen 3, vijfde lid](onbekend), [4, tweede en vierde lid](onbekend), en [5, eerste lid en derde tot en met zevende lid, van het Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](onbekend);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken in werking treedt.
 
 #### § 1. Begripsbepalingen
 
@@ -48,15 +20,16 @@ Treedt in werking op het tijdstip waarop de Wet informatie-uitwisseling bovengro
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](onbekend);
+- *besluit:*
+ Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken;
 
-- **BMKL:** Berichtenmodel Kabels en Leidingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01);
+- *BMKL:* Berichtenmodel Kabels en Leidingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01);
 
-- **burgerservicenummer:** burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
+- *burgerservicenummer:* burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- **IMKL:** Informatiemodel Kabels en Leidingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01);
+- *IMKL:* Informatiemodel Kabels en Leidingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040787&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01);
 
-- **minister:** Minister van Economische Zaken en Klimaat.
+- *minister:* Minister van Economische Zaken en Klimaat.
 
 #### § 2. Deelname aan informatie-uitwisseling
 
@@ -130,7 +103,7 @@ Van de verplichtingen van de [artikelen 6, tweede en derde lid](https://wetten.o
 
 6. Indien de beheerder bij de verstrekking van beheerdersinformatie andere gegevens verstrekt dan waartoe hij op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=11) is gehouden, geeft hij hierbij toepassing aan het IMKL en het BMKL.
 
-7. Tot en met 30 april 2022 voldoet een beheerder ook aan de verplichtingen van het tweede, derde, vijfde en zesde lid indien hij gebruik maakt van en toepassing geeft aan het IMKL en het BMKL zoals die luidden tot 1 januari 2022.
+7. Tot en met 30 april 2022 voldoet een beheerder ook aan de verplichtingen van het tweede, derde, vijfde en zesde lid indien hij gebruik maakt van en toepassing geeft aan het IMKL en het BMKL zoals die luidden tot 1 januari 2022.
 
 ##### Artikel 8
 
@@ -138,7 +111,7 @@ Van de verplichtingen van de [artikelen 6, tweede en derde lid](https://wetten.o
 
 2. Van de vaststelling doet de minister mededeling in de Staatscourant. Indien die mededeling geen integrale bekendmaking inhoudt van het IMKL of het BMKL maakt de minister bekend op welke wijze het IMKL of het BMKL raadpleegbaar is.
 
-3. Het IMKL en het BMKL, bedoeld in het eerste lid, zijn de versies van het IMKL en het BMKL waarvan op de website van de Dienst is vermeld dat die geldig zijn met ingang van 1 januari 2022 op de website van de Dienst.
+3. Het IMKL en het BMKL, bedoeld in het eerste lid, zijn de versies van het IMKL en het BMKL waarvan op de website van de Dienst is vermeld dat die geldig zijn met ingang van 1 januari 2022 op de website van de Dienst.
 
 ##### Artikel 9
 
@@ -174,7 +147,7 @@ De Dienst zendt het bericht omtrent een onbekend net, bedoeld in [artikel 20, tw
 
 ##### Artikel 14
 
-Wijzigt de Regeling indicatieve vaststelling reikwijdte Dienstenwet.
+*Wijzigt de Regeling indicatieve vaststelling reikwijdte Dienstenwet.*
 
 ##### Artikel 15
 
@@ -187,5 +160,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet informatie-uitwis
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

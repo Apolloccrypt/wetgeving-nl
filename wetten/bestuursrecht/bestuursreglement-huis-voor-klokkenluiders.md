@@ -1,57 +1,29 @@
 ---
 title: "Bestuursreglement Huis voor Klokkenluiders"
 identifier: "BWBR0040987"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-06-08"
-last_updated: "2018-06-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040987"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "14627523"
-version_id: "25048862"
-internal_id: "C35817801"
-label_id: "14580634"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040987/2018-06-08/0"
-intitule_bron: "Stcrt.2018-31039"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-26"
-intitule_published: "2018-06-07"
-intitule_in_force: "2018-06-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-31039"
-original_signed_date: "2018-04-26"
-original_published_date: "2018-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-31039"
-entry_into_force_date: "2018-06-08"
-jci_1_3: "jci1.3:c:BWBR0040987&z=2018-06-08&g=2018-06-08"
-jci_1_0: "1.0:c:BWBR0040987&g=2018-06-08"
-citeertitel_status: "officieel"
-signed_date: "2018-04-26"
-entry_into_force: "2018-06-08"
+publicatiedatum: 2018-06-08
+laatste_update: 2018-06-08
+status: geldig
+toestand: 2018-06-08
+bron: "https://wetten.overheid.nl/BWBR0040987"
+opgehaald: 2026-08-27
 ---
+
 # Bestuursreglement Huis voor Klokkenluiders
-
-Gelet op [artikel 3h van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3h);
-
-Gezien de goedkeuring van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 mei 2018;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **de wet:** de [Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852);
+- a. *de wet:* de [Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852);
 
-- b. **het Huis:** het Huis voor Klokkenluiders, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3);
+- b. *het Huis:* het Huis voor Klokkenluiders, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3);
 
-- c. **het bestuur:** het bestuur van het Huis, bedoeld in [artikel 3b, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3b);
+- c. *het bestuur:* het bestuur van het Huis, bedoeld in [artikel 3b, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3b);
 
-- d. **de Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- d. *de Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2. Bestuur
 
@@ -128,5 +100,3 @@ Dit bestuursreglement treedt in werking met ingang van de dag na publicatie in d
 ##### Artikel 12. Citeertitel
 
 Dit bestuursreglement wordt aangehaald als: Bestuursreglement Huis voor Klokkenluiders.
-
-Dit reglement zal worden bekend gemaakt in de Staatscourant.

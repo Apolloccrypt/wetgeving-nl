@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 12 april 2018, nr. ANVS-2018/8816, houdende de instelling van de Raad van Advies ANVS (Instellingsbesluit Raad van Advies ANVS)"
+citeertitel: "Instellingsbesluit Raad van Advies ANVS"
 identifier: "BWBR0040832"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-04-18"
-last_updated: "2018-04-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040832"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14592663"
-version_id: "24984592"
-internal_id: "C35727211"
-label_id: "14546304"
-dtd_version: "2.0"
-original_entry_into_force: "2018-04-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040832/2018-04-18/0"
-intitule_bron: "Stcrt.2018-21957"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-12"
-intitule_published: "2018-04-17"
-intitule_in_force: "2018-04-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-21957"
-original_signed_date: "2018-04-12"
-original_published_date: "2018-04-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-21957"
-entry_into_force_date: "2018-04-18"
-jci_1_3: "jci1.3:c:BWBR0040832&z=2018-04-18&g=2018-04-18"
-jci_1_0: "1.0:c:BWBR0040832&g=2018-04-18"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Raad van Advies ANVS"
-signed_date: "2018-04-12"
-entry_into_force: "2018-04-18"
+publicatiedatum: 2018-04-18
+laatste_update: 2018-04-18
+status: geldig
+toestand: 2018-04-18
+bron: "https://wetten.overheid.nl/BWBR0040832"
+opgehaald: 2026-08-27
 ---
-# Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 12 april 2018, nr. ANVS-2018/8816, houdende de instelling van de Raad van Advies ANVS (Instellingsbesluit Raad van Advies ANVS)
 
-BESLUIT:
+# Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 12 april 2018, nr. ANVS-2018/8816, houdende de instelling van de Raad van Advies ANVS (Instellingsbesluit Raad van Advies ANVS)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **ANVS:** Autoriteit Nucleaire Veiligheid en Stralingsbescherming als bedoeld in [artikel 3, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=3);
+- *ANVS:* Autoriteit Nucleaire Veiligheid en Stralingsbescherming als bedoeld in [artikel 3, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=3);
 
-- **Raad van Advies:** Raad van Advies ANVS als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040832&artikel=2&z=2018-04-18&g=2018-04-18).
+- *Raad van Advies:* Raad van Advies ANVS als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040832&artikel=2&z=2018-04-18&g=2018-04-18).
 
 ##### Artikel 2. Instelling en taak
 
@@ -129,5 +105,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Raad van Advies ANVS.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

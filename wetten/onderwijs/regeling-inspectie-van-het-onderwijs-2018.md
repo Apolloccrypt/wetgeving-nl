@@ -1,42 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 juli 2018 nr. WJZ/1221455(8450), houdende actualisering van de Regeling Inspectie van het onderwijs 2006 (Regeling Inspectie van het onderwijs 2018)"
+citeertitel: "Regeling Inspectie van het onderwijs 2018"
 identifier: "BWBR0041185"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041185"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14686313"
-version_id: "25154172"
-internal_id: "C35967571"
-label_id: "14638944"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041185/2022-08-01/0"
-intitule_bron: "Stcrt.2018-40915"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-07-13"
-intitule_published: "2018-07-23"
-intitule_in_force: "2018-07-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-40915"
-original_signed_date: "2018-07-13"
-original_published_date: "2018-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-40915"
-entry_into_force_date: "2018-07-24"
-jci_1_3: "jci1.3:c:BWBR0041185&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0041185&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling Inspectie van het onderwijs 2018"
-signed_date: "2018-07-13"
-entry_into_force: "2018-07-24"
+publicatiedatum: 2018-07-24
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0041185"
+opgehaald: 2026-08-27
 ---
-# Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 juli 2018 nr. WJZ/1221455(8450), houdende actualisering van de Regeling Inspectie van het onderwijs 2006 (Regeling Inspectie van het onderwijs 2018)
 
-Besluit:
+# Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 juli 2018 nr. WJZ/1221455(8450), houdende actualisering van de Regeling Inspectie van het onderwijs 2006 (Regeling Inspectie van het onderwijs 2018)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -44,31 +20,31 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bedrijfsvoering:** geheel van activiteiten dat noodzakelijk is voor het inrichten en functioneren van de inspectie;
+- *bedrijfsvoering:* geheel van activiteiten dat noodzakelijk is voor het inrichten en functioneren van de inspectie;
 
-- **inspecteur-generaal:** inspecteur-generaal van het onderwijs als bedoeld in [artikel 1, onderdeel c, van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
+- *inspecteur-generaal:* inspecteur-generaal van het onderwijs als bedoeld in [artikel 1, onderdeel c, van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
 
-- **inspectie:** Inspectie van het onderwijs als bedoeld in [artikel 1, onderdeel b, van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
+- *inspectie:* Inspectie van het onderwijs als bedoeld in [artikel 1, onderdeel b, van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
 
-- **inspectierapport:** rapport als bedoeld in de [artikelen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=12a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15) en [20 van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=20);
+- *inspectierapport:* rapport als bedoeld in de [artikelen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=12a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15) en [20 van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=20);
 
-- **instelling:**
+- *instelling:*
 
-- a. school als bedoeld in [artikel 1 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1), [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+   - a. school als bedoeld in [artikel 1 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1), [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- b. exameninstelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1); en
+   - b. exameninstelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1); en
 
-- c. instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en [artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+   - c. instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en [artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **ministerie:** Ministerie van Onderwijs, Cultuur en Wetenschap;
+- *ministerie:* Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- **secretaris-generaal:** secretaris-generaal van het ministerie;
+- *secretaris-generaal:* secretaris-generaal van het ministerie;
 
-- **verslag over de staat van het onderwijs:** verslag over de staat van het onderwijs als bedoeld in [artikel 23, achtste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=23);
+- *verslag over de staat van het onderwijs:* verslag over de staat van het onderwijs als bedoeld in [artikel 23, achtste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=23);
 
-**WOT**: [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800).
+*WOT*: [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800).
 
 ### Hoofdstuk 2. Taakuitoefening
 
@@ -78,9 +54,9 @@ In deze regeling wordt verstaan onder:
 
 2. In het jaarwerkplan wordt in ieder geval een relatie gelegd met de onderscheiden beleidsgebieden waaraan de inspectie in het verslag over de staat van het onderwijs specifieke aandacht besteedt.
 
-3. Over de inhoud van het jaarwerkplan en de wisselwerking tussen het jaarwerkplan en het beleid van het ministerie vindt jaarlijks voor 1 juni een werkconferentie plaats met de inspectie en de betrokken organisatieonderdelen van het ministerie.
+3. Over de inhoud van het jaarwerkplan en de wisselwerking tussen het jaarwerkplan en het beleid van het ministerie vindt jaarlijks voor 1 juni een werkconferentie plaats met de inspectie en de betrokken organisatieonderdelen van het ministerie.
 
-4. De inspectie legt de Minister jaarlijks voor 1 juli het ontwerp van het jaarwerkplan voor. Daarna stelt de inspectie na afstemming met de betrokken organisatieonderdelen het ontwerp voor 1 september vast.
+4. De inspectie legt de Minister jaarlijks voor 1 juli het ontwerp van het jaarwerkplan voor. Daarna stelt de inspectie na afstemming met de betrokken organisatieonderdelen het ontwerp voor 1 september vast.
 
 5. Het jaarwerkplan behoeft de goedkeuring van de Minister. Deze goedkeuring wordt niet eerder verleend dan vier weken nadat het ontwerp van het jaarwerkplan door de Minister aan de Staten-Generaal is overgelegd. Indien dit leidt tot aanpassingen in het ontwerp-jaarwerkplan, stelt de inspectie het ontwerp van het jaarwerkplan opnieuw vast, alvorens deze goedkeuring kan worden verleend.
 
@@ -210,7 +186,7 @@ De inspecteur-generaal is bestuurder in de zin van de [Wet op de ondernemingsrad
 
 - e. de wijze waarop zij samenwerkt met relevante partijen in en buiten het onderwijs.
 
-3. De inspectie legt jaarlijks voor 1 maart het ontwerp van het jaarverslag voor aan de secretaris-generaal. Daarna stelt de inspectie het jaarverslag voor 1 april vast.
+3. De inspectie legt jaarlijks voor 1 maart het ontwerp van het jaarverslag voor aan de secretaris-generaal. Daarna stelt de inspectie het jaarverslag voor 1 april vast.
 
 4. De Minister zendt het jaarverslag aan de Staten-Generaal, zo nodig voorzien van een reactie van de Minister.
 
@@ -252,7 +228,7 @@ De inspecteur-generaal is bestuurder in de zin van de [Wet op de ondernemingsrad
 
 - c. de bevindingen, oordelen en adviezen van de inspectie.
 
-##### Artikel 18. Intrekking [Regeling Inspectie van het onderwijs 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019615)
+##### Artikel 18. Intrekking Regeling Inspectie van het onderwijs 2006
 
 De [Regeling Inspectie van het onderwijs 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019615) wordt ingetrokken.
 
@@ -263,5 +239,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Inspectie van het onderwijs 2018.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

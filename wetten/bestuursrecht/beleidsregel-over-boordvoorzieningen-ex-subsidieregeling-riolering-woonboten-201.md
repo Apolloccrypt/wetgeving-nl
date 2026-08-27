@@ -1,46 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 30 oktober 2018, nr. IENW/BSK–2018/176078, over boordvoorzieningen in het kader van de Subsidieregeling riolering woonboten 2018–2020"
+citeertitel: "Beleidsregel over boordvoorzieningen ex Subsidieregeling riolering woonboten 2018–2020"
 identifier: "BWBR0041514"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-12-01"
-last_updated: "2018-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041514"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "14849243"
-version_id: "25385292"
-internal_id: "C36248561"
-label_id: "14800934"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041514/2018-12-01/0"
-intitule_bron: "Stcrt.2018-60979"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-30"
-intitule_published: "2018-11-06"
-intitule_in_force: "2018-11-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-60979"
-original_signed_date: "2018-10-30"
-original_published_date: "2018-11-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-60979"
-entry_into_force_date: "2018-12-01"
-jci_1_3: "jci1.3:c:BWBR0041514&z=2018-12-01&g=2018-12-01"
-jci_1_0: "1.0:c:BWBR0041514&g=2018-12-01"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel over boordvoorzieningen ex Subsidieregeling riolering woonboten 2018–2020"
-signed_date: "2018-10-30"
-entry_into_force: "2018-12-01"
+publicatiedatum: 2018-12-01
+laatste_update: 2018-12-01
+status: geldig
+toestand: 2018-12-01
+bron: "https://wetten.overheid.nl/BWBR0041514"
+opgehaald: 2026-08-27
 ---
+
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 30 oktober 2018, nr. IENW/BSK–2018/176078, over boordvoorzieningen in het kader van de Subsidieregeling riolering woonboten 2018–2020
-
-Gelet op [artikel 5, tweede lid, van de Subsidieregeling riolering woonboten 2018-2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041513&artikel=5) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-BESLUIT:
-
-Treedt in werking op het tijdstip waarop de Subsidieregeling riolering woonboten 2018–2020 in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,53 +20,54 @@ Treedt in werking op het tijdstip waarop de Subsidieregeling riolering woonboten
 
 In deze beleidsregel wordt verstaan onder:
 
-- **afvalwater:** afvalwater van woongebieden en diensten, dat overwegend afkomstig is van de menselijke stofwisseling en van huishoudelijke werkzaamheden;
+- *afvalwater:* afvalwater van woongebieden en diensten, dat overwegend afkomstig is van de menselijke stofwisseling en van huishoudelijke werkzaamheden;
 
-- **binnenhuisriolering:** voorziening aan boord van woonboten ter transport van afvalwater tussen verschillende onderdelen van de boordvoorziening;
+- *binnenhuisriolering:* voorziening aan boord van woonboten ter transport van afvalwater tussen verschillende onderdelen van de boordvoorziening;
 
-- **boordvoorziening:** voorziening aan boord van woonboten, die in combinatie met een walslang bestemd is voor het opvangen, verzamelen, behandelen, afvoeren en lozen van huishoudelijk afvalwater op het openbaar riool, op een IBA ofwel, na behandeling, op het oppervlaktewater;
+- *boordvoorziening:* voorziening aan boord van woonboten, die in combinatie met een walslang bestemd is voor het opvangen, verzamelen, behandelen, afvoeren en lozen van huishoudelijk afvalwater op het openbaar riool, op een IBA ofwel, na behandeling, op het oppervlaktewater;
 
-- **deugdelijke boordvoorziening:** een boordvoorziening die voldoet aan de eisen, genoemd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041514&hoofdstuk=2&z=2018-12-01&g=2018-12-01) van deze beleidsregel;
+- *deugdelijke boordvoorziening:* een boordvoorziening die voldoet aan de eisen, genoemd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041514&hoofdstuk=2&z=2018-12-01&g=2018-12-01) van deze beleidsregel;
 
-- **IBA:** door de waterkwaliteitsbeheerder toegelaten individuele behandeleenheid voor afvalwater waarop het huishoudelijk afvalwater wordt geloosd, die al dan niet geïntegreerd is in de boordvoorziening;
+- *IBA:* door de waterkwaliteitsbeheerder toegelaten individuele behandeleenheid voor afvalwater waarop het huishoudelijk afvalwater wordt geloosd, die al dan niet geïntegreerd is in de boordvoorziening;
 
-- **lozen:** het brengen van:
+- *lozen:* het brengen van:
 
-- –. afvalwater of andere afvalstoffen, verontreinigende of schadelijke stoffen in een oppervlaktewaterlichaam;
+   - – afvalwater of andere afvalstoffen, verontreinigende of schadelijke stoffen in een oppervlaktewaterlichaam;
 
-- –. afvalwater of overige vloeistoffen op of in de bodem;
+   - – afvalwater of overige vloeistoffen op of in de bodem;
 
-- –. afvalwater of andere afvalstoffen in een openbaar hemelwaterstelsel, openbaar ontwateringsstelsel, openbaar vuilwaterriool of andere voorziening voor de inzameling en het transport van afvalwater; of
+   - – afvalwater of andere afvalstoffen in een openbaar hemelwaterstelsel, openbaar ontwateringsstelsel, openbaar vuilwaterriool of andere voorziening voor de inzameling en het transport van afvalwater; of
 
-- –. afvalwater of andere afvalstoffen met behulp van een werk niet zijnde een voorziening voor de inzameling en het transport van afvalwater op een zuiveringstechnisch werk;
+   - – afvalwater of andere afvalstoffen met behulp van een werk niet zijnde een voorziening voor de inzameling en het transport van afvalwater op een zuiveringstechnisch werk;
 
-- **lozingstoestel:** apparaat of voorziening waarvan huishoudelijk afvalwater afkomstig is;
+- *lozingstoestel:* apparaat of voorziening waarvan huishoudelijk afvalwater afkomstig is;
 
-- **nood(overstort)afvoer:** afvoer bestemd voor het enkel gedurende een calamiteit afvoeren van ongezuiverd afvalwater;
+- *nood(overstort)afvoer:* afvoer bestemd voor het enkel gedurende een calamiteit afvoeren van ongezuiverd afvalwater;
 
-- **ontvangstreservoir:** reservoir waarin het afvalwater wordt verzameld alvorens het via de pompinstallatie wordt afgevoerd;
+- *ontvangstreservoir:* reservoir waarin het afvalwater wordt verzameld alvorens het via de pompinstallatie wordt afgevoerd;
 
-- **openbaar riool:** voorziening voor de inzameling en het transport van stedelijk afvalwater, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;
+- *openbaar riool:* voorziening voor de inzameling en het transport van stedelijk afvalwater, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;
 
-- **persleiding:** afvoerslang die vanaf de pompinstallatie via de wanddoorvoer tot de buitenzijde van de woonboot loopt;
+- *persleiding:* afvoerslang die vanaf de pompinstallatie via de wanddoorvoer tot de buitenzijde van de woonboot loopt;
 
-- **pompinstallatie:** pompunit met toebehoren die onderdeel uitmaakt van een boordvoorziening en bestemd is voor het verpompen van huishoudelijk afvalwater;
+- *pompinstallatie:* pompunit met toebehoren die onderdeel uitmaakt van een boordvoorziening en bestemd is voor het verpompen van huishoudelijk afvalwater;
 
-- **schouwrapport:** door de installateur opgesteld rapport waaruit blijkt welke boordvoorziening is geïnstalleerd, uit welke subsidiabele onderdelen deze bestaat en waarin door hem wordt verklaard dat de boordvoorziening voldoet aan de eisen, genoemd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041514&hoofdstuk=2&z=2018-12-01&g=2018-12-01) van deze beleidsregel;
+- *schouwrapport:* door de installateur opgesteld rapport waaruit blijkt welke boordvoorziening is geïnstalleerd, uit welke subsidiabele onderdelen deze bestaat en waarin door hem wordt verklaard dat de boordvoorziening voldoet aan de eisen, genoemd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041514&hoofdstuk=2&z=2018-12-01&g=2018-12-01) van deze beleidsregel;
 
-- **subsidieregeling:** [Subsidieregeling riolering woonboten 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041513);
+- *subsidieregeling:*
+ [Subsidieregeling riolering woonboten 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041513);
 
-- **walaansluiting:** aansluitpunt op de wal dat woonboten door middel van het aankoppelen van de walslang aansluiting geeft op het openbaar riool of een IBA;
+- *walaansluiting:* aansluitpunt op de wal dat woonboten door middel van het aankoppelen van de walslang aansluiting geeft op het openbaar riool of een IBA;
 
-- **walslang:** koppelbare flexibele slang bestaande uit een binnenslang, een isolatielaag met thermolint en een buitenslang of een slang, waarin het thermolint is verwerkt, die bestemd is voor het transport van huishoudelijk afvalwater en de verbinding vormt tussen de boordvoorziening en de walaansluiting;
+- *walslang:* koppelbare flexibele slang bestaande uit een binnenslang, een isolatielaag met thermolint en een buitenslang of een slang, waarin het thermolint is verwerkt, die bestemd is voor het transport van huishoudelijk afvalwater en de verbinding vormt tussen de boordvoorziening en de walaansluiting;
 
-- **wanddoorvoer:** doorvoer door een interne of externe scheepswand;
+- *wanddoorvoer:* doorvoer door een interne of externe scheepswand;
 
-- **waterkwaliteitsbeheerder:** bestuursorgaan dat overeenkomstig [artikel 6.17 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.17) bevoegd is of zou zijn een vergunning te verlenen;
+- *waterkwaliteitsbeheerder:* bestuursorgaan dat overeenkomstig [artikel 6.17 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.17) bevoegd is of zou zijn een vergunning te verlenen;
 
-- **woonboot:** vaartuig of ander drijvend object dat hoofdzakelijk wordt gebruikt als of is bestemd voor woonverblijf en dat uit hoofde van zijn feitelijke bestemming plaatsgebonden is;
+- *woonboot:* vaartuig of ander drijvend object dat hoofdzakelijk wordt gebruikt als of is bestemd voor woonverblijf en dat uit hoofde van zijn feitelijke bestemming plaatsgebonden is;
 
-- **zuivering technisch werk:** werk voor het zuiveren van stedelijk afvalwater, in beheer bij een waterschap of gemeente of in exploitatie bij een rechtspersoon die door het bestuur van een waterschap of een gemeente met de zuivering van stedelijk afvalwater is belast.
+- *zuivering technisch werk:* werk voor het zuiveren van stedelijk afvalwater, in beheer bij een waterschap of gemeente of in exploitatie bij een rechtspersoon die door het bestuur van een waterschap of een gemeente met de zuivering van stedelijk afvalwater is belast.
 
 ##### Artikel 2. Doel
 
@@ -215,5 +188,3 @@ De factuur, bedoeld in [artikel 6, tweede lid, van de subsidieregeling](https://
 1. Deze beleidsregel treedt in werking op het tijdstip waarop de [Subsidieregeling riolering woonboten 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041513) in werking treedt.
 
 2. Deze beleidsregel vervalt met ingang van 1 juli 2021, met dien verstande dat hij van toepassing blijft op voor die datum ingediende aanvragen van subsidies.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

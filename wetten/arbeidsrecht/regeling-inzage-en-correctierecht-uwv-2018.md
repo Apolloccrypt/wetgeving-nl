@@ -1,43 +1,17 @@
 ---
 title: "Regeling inzage- en correctierecht UWV 2018"
 identifier: "BWBR0040934"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-05-25"
-last_updated: "2018-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040934"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14615313"
-version_id: "25024742"
-internal_id: "C35789511"
-label_id: "14568874"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040934/2018-05-25/0"
-intitule_bron: "Stcrt.2018-28604"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-15"
-intitule_published: "2018-05-24"
-intitule_in_force: "2018-05-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-28604"
-original_signed_date: "2018-05-15"
-original_published_date: "2018-05-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-28604"
-entry_into_force_date: "2018-05-25"
-jci_1_3: "jci1.3:c:BWBR0040934&z=2018-05-25&g=2018-05-25"
-jci_1_0: "1.0:c:BWBR0040934&g=2018-05-25"
-citeertitel_status: "officieel"
-signed_date: "2018-05-15"
-entry_into_force: "2018-05-25"
+publicatiedatum: 2018-05-25
+laatste_update: 2018-05-25
+status: geldig
+toestand: 2018-05-25
+bron: "https://wetten.overheid.nl/BWBR0040934"
+opgehaald: 2026-08-27
 ---
+
 # Regeling inzage- en correctierecht UWV 2018
-
-Gelet op hoofdstuk III Algemene Verordening Gegevensbescherming
-
-BESLUIT
 
 #### § 1. Definities
 
@@ -47,29 +21,29 @@ BESLUIT
 
 2. In deze regeling wordt verstaan onder:
 
-- a. **AVG:** Algemene Verordening Gegevensbescherming;
+- a. *AVG:* Algemene Verordening Gegevensbescherming;
 
-- b. **UWV:** Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 2 van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2);
+- b. *UWV:* Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 2 van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2);
 
-- c. **persoonsgegevens:** alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon ("de betrokkene"); als identificeerbaar wordt beschouwd een natuurlijke persoon die direct of indirect kan worden geïdentificeerd, met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of van een of meer elementen die kenmerkend zijn voor de fysieke, fysiologische, genetische psychische, economische, culturele of sociale identiteit van die natuurlijke persoon;
+- c. *persoonsgegevens:* alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon ("de betrokkene"); als identificeerbaar wordt beschouwd een natuurlijke persoon die direct of indirect kan worden geïdentificeerd, met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of van een of meer elementen die kenmerkend zijn voor de fysieke, fysiologische, genetische psychische, economische, culturele of sociale identiteit van die natuurlijke persoon;
 
-- d. **verwerking:** een bewerking of een geheel van bewerkingen met betrekking tot persoonsgegevens of een geheel van persoonsgegevens, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van gegevens;
+- d. *verwerking:* een bewerking of een geheel van bewerkingen met betrekking tot persoonsgegevens of een geheel van persoonsgegevens, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van gegevens;
 
-- e. **betrokkene:** Natuurlijke persoon op wie een persoonsgegeven betrekking heeft;
+- e. *betrokkene:* Natuurlijke persoon op wie een persoonsgegeven betrekking heeft;
 
-- f. **verwerkingsverantwoordelijke:** een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt; wanneer de doelstellingen van en de middelen voor deze verwerking in het Unierecht of het lidstatelijke recht worden vastgesteld, kan daarin worden bepaald wie de verwerkingsverantwoordelijke is of volgens welke criteria deze wordt aangewezen;
+- f. *verwerkingsverantwoordelijke:* een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt; wanneer de doelstellingen van en de middelen voor deze verwerking in het Unierecht of het lidstatelijke recht worden vastgesteld, kan daarin worden bepaald wie de verwerkingsverantwoordelijke is of volgens welke criteria deze wordt aangewezen;
 
-- g. **verzoek om inzage:** een verzoek van of namens betrokkene aan UWV om uitsluitsel te verkrijgen over het al dan niet verwerken van de betrokkene betreffende persoonsgegevens en, wanneer dat het geval is, om inzage te krijgen in de persoonsgegevens en van de in artikel 15, lid 1, AVG genoemde informatie, alsmede, voor zover het betreft medische gegevens uit een medisch dossier, een verzoek op grond van [artikel 7:456 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=456) tot inzage in en afschrift van bescheiden;
+- g. *verzoek om inzage:* een verzoek van of namens betrokkene aan UWV om uitsluitsel te verkrijgen over het al dan niet verwerken van de betrokkene betreffende persoonsgegevens en, wanneer dat het geval is, om inzage te krijgen in de persoonsgegevens en van de in artikel 15, lid 1, AVG genoemde informatie, alsmede, voor zover het betreft medische gegevens uit een medisch dossier, een verzoek op grond van [artikel 7:456 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=456) tot inzage in en afschrift van bescheiden;
 
-- h. **verzoek om correctie:** een verzoek van of namens betrokkene om, conform artikel 16 AVG, persoonsgegevens van betrokkene te corrigeren of de gegevens aan te laten vullen wanneer deze incompleet zijn, bijvoorbeeld door een aanvullende verklaring te verstrekken;
+- h. *verzoek om correctie:* een verzoek van of namens betrokkene om, conform artikel 16 AVG, persoonsgegevens van betrokkene te corrigeren of de gegevens aan te laten vullen wanneer deze incompleet zijn, bijvoorbeeld door een aanvullende verklaring te verstrekken;
 
-- i. **verzoeker:** degene die een verzoek om inzage of correctie indient bij UWV;
+- i. *verzoeker:* degene die een verzoek om inzage of correctie indient bij UWV;
 
-- j. **schriftelijk:** niet in elektronische vorm;
+- j. *schriftelijk:* niet in elektronische vorm;
 
-- j. **legitimatiebewijs:** een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
+- j. *legitimatiebewijs:* een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
 
-- k. **derde:** een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan, niet zijnde de betrokkene, noch de verwerkingsverantwoordelijke, noch de verwerker, noch de personen die onder rechtstreeks gezag van de verwerkingsverantwoordelijke of de verwerker gemachtigd zijn om de persoonsgegevens te verwerken.
+- k. *derde:* een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan, niet zijnde de betrokkene, noch de verwerkingsverantwoordelijke, noch de verwerker, noch de personen die onder rechtstreeks gezag van de verwerkingsverantwoordelijke of de verwerker gemachtigd zijn om de persoonsgegevens te verwerken.
 
 #### § 2. Indiening en in behandeling neming verzoeken
 
@@ -133,25 +107,25 @@ Aan een verzoek om inzage en een verzoek om correctie zijn geen kosten verbonden
 
 3. Indien het verzoek wordt ingewilligd, stelt UWV binnen de in het eerste en tweede lid bedoelde termijn de volgende informatie ter beschikking:
 
-- o. een volledig en begrijpelijk overzicht van de verwerkte gegevens;
+- o een volledig en begrijpelijk overzicht van de verwerkte gegevens;
 
-- o. een omschrijving van:
+- o een omschrijving van:
 
-- •. het doel of de doeleinden van de verwerking;
+   - • het doel of de doeleinden van de verwerking;
 
-- •. de categorieën van gegevens waarop de verwerking betrekking heeft;
+   - • de categorieën van gegevens waarop de verwerking betrekking heeft;
 
-- •. de ontvangers of categorieën ontvangers;
+   - • de ontvangers of categorieën ontvangers;
 
-- o. alle beschikbare informatie over de herkomst van de gegevens, wanneer de gegevens niet bij de betrokkene worden verzameld;
+- o alle beschikbare informatie over de herkomst van de gegevens, wanneer de gegevens niet bij de betrokkene worden verzameld;
 
-- o. de bewaartermijn van de persoonsgegevens;
+- o de bewaartermijn van de persoonsgegevens;
 
-- o. dat betrokkene het recht heeft op correctie en het recht om bezwaar te maken;
+- o dat betrokkene het recht heeft op correctie en het recht om bezwaar te maken;
 
-- o. dat betrokkene het recht heeft een klacht in te dienen bij de Autoriteit Persoonsgegevens;
+- o dat betrokkene het recht heeft een klacht in te dienen bij de Autoriteit Persoonsgegevens;
 
-- o. het bestaan van geautomatiseerde besluitvorming.
+- o het bestaan van geautomatiseerde besluitvorming.
 
 4. Desgevraagd verschaft UWV tevens informatie over de systematiek van de geautomatiseerde gegevensverwerking.
 
@@ -220,5 +194,3 @@ Deze regeling kan worden aangehaald als: Regeling inzage- en correctierecht UWV 
 ##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 25 mei 2018.
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 23 mei 2018 nr.: 201803/ KPCN/18 strekkende tot aanwijzing van buitengewoon agenten van politie bij de KMAR/Caribisch Nederland"
+citeertitel: "Besluit buitengewoon agent van politie KMAR/Caribisch Nederland 2018"
 identifier: "BWBR0040951"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2018-06-04"
-last_updated: "2018-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040951"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "14619103"
-version_id: "25033192"
-internal_id: "C35831771"
-label_id: "14572614"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040951/2018-06-04/0"
-intitule_bron: "Stcrt.2018-29812"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-23"
-intitule_published: "2018-05-31"
-intitule_in_force: "2018-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-29812"
-original_signed_date: "2018-05-23"
-original_published_date: "2018-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-29812"
-entry_into_force_date: "2018-06-04"
-jci_1_3: "jci1.3:c:BWBR0040951&z=2018-06-04&g=2018-06-04"
-jci_1_0: "1.0:c:BWBR0040951&g=2018-06-04"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon agent van politie KMAR/Caribisch Nederland 2018"
-signed_date: "2018-05-23"
-entry_into_force: "2018-06-04"
+publicatiedatum: 2018-06-04
+laatste_update: 2018-06-04
+status: geldig
+toestand: 2018-06-04
+bron: "https://wetten.overheid.nl/BWBR0040951"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 23 mei 2018 nr.: 201803/ KPCN/18 strekkende tot aanwijzing van buitengewoon agenten van politie bij de KMAR/Caribisch Nederland
-
-Gelezen het verzoek van de commandant KMAR/Caribisch Nederland van 23 april 2018 en het daaropvolgende advies van de hoofdofficier van justitie;
-
-Gelet op:
-
-[Artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
-
-Het [Besluit buitengewoon agent van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0029175);
-
-Besluit:
 
 ##### Artikel 1
 

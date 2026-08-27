@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering ram- en plofkraken"
 identifier: "BWBR0040857"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-05-01"
-last_updated: "2018-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040857"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "14596793"
-version_id: "24994712"
-internal_id: "C35745471"
-label_id: "14550354"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040857/2018-05-01/0"
-intitule_bron: "Stcrt.2018-22863"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-04-26"
-intitule_in_force: "2018-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-22863"
-original_published_date: "2018-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-22863"
-entry_into_force_date: "2018-05-01"
-jci_1_3: "jci1.3:c:BWBR0040857&z=2018-05-01&g=2018-05-01"
-jci_1_0: "1.0:c:BWBR0040857&g=2018-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-05-01"
+publicatiedatum: 2018-05-01
+laatste_update: 2018-05-01
+status: geldig
+toestand: 2018-05-01
+bron: "https://wetten.overheid.nl/BWBR0040857"
+opgehaald: 2026-08-27
 ---
+
 # Richtlijn voor strafvordering ram- en plofkraken
 
 ### Beschrijving
@@ -43,6 +24,13 @@ Ramkraak, gepleegd door een of meerdere daders met beperkte recidive. Het gaat h
 ### Basiscasus/delict
 
 Plofkraak, gepleegd door een of meerdere daders met beperkte recidive. Het gaat hier om een diefstal uit geldautomaten of bijbehorende kluizen, waarbij gebruik gemaakt wordt van gas en/of een explosief, een combinatie van [311](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311) en [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=157) (en eventueel [170) Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=170) met gemeen gevaar voor goederen.
+
+|  | Uitgangspunt (naast schadevergoeding) |
+| --- | --- |
+| Ramkraak | 21 maanden gevangenisstraf |
+| Plofkraak (geldautomaat geïsoleerd in een gebouw, dus geen woningen in hetzelfde gebouw) | 24 maanden gevangenisstraf |
+| Plofkraak (geldautomaat in gebouw waarin ook woningen zijn gesitueerd) | 48 maanden gevangenisstraf |
+| Bijzonderheden Uitgangspunt is dat bij een plofkraak het teweegbrengen van een ontploffing (art. 157 Sr) ten laste is gelegd. Strafverzwarend onder andere: Omvang schade en/of buit Georganiseerd verband Indien tevens levensgevaar of gevaar voor zwaar lichamelijk letsel voor anderen te duchten of het feit iemands dood ten gevolge heeft (maatwerk) Gevaarzetting. Tevens geweld/bedreiging tegen personen > gebruik richtlijn overvallen. Meermalen recidive: check of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader Strafverminderend onder andere: First offender Poging en medeplichtigheid (- een derde*) en voorbereiding (op 157 Sr)(- de helft). * Indien sprake is van een diefstalpoging enkel en alleen omdat de daders geen buit hebben verkregen, maar de schade en de gevaarzetting dezelfde zijn als wanneer wel buit zou zijn verkregen, dan hoeft een poging niet tot vermindering van de eis te leiden. |  |
 
 Legenda
 

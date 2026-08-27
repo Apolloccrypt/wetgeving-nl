@@ -1,66 +1,41 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 september 2018, nr. 2018-0000130650, houdende regels voor het verstrekken van subsidie ten behoeve van maatschappelijke initiatieven die erop zijn gericht (ex-)kankerpatiënten zonder werk meer kans te geven op een terugkeer naar werk (Subsidieregeling Kanker & Werkzoekenden)"
+citeertitel: "Subsidieregeling kanker & werkzoekenden"
 identifier: "BWBR0041388"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-09-29"
-last_updated: "2018-09-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041388"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14813183"
-version_id: "25328792"
-internal_id: "C36172891"
-label_id: "14765294"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041388/2018-09-29/0"
-intitule_bron: "Stcrt.2018-54088"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-20"
-intitule_published: "2018-09-28"
-intitule_in_force: "2018-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-54088"
-original_signed_date: "2018-09-20"
-original_published_date: "2018-09-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-54088"
-entry_into_force_date: "2018-09-29"
-jci_1_3: "jci1.3:c:BWBR0041388&z=2018-09-29&g=2018-09-29"
-jci_1_0: "1.0:c:BWBR0041388&g=2018-09-29"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling kanker & werkzoekenden"
-signed_date: "2018-09-20"
-entry_into_force: "2018-09-29"
+publicatiedatum: 2018-09-29
+laatste_update: 2018-09-29
+status: geldig
+toestand: 2018-09-29
+bron: "https://wetten.overheid.nl/BWBR0041388"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 september 2018, nr. 2018-0000130650, houdende regels voor het verstrekken van subsidie ten behoeve van maatschappelijke initiatieven die erop zijn gericht (ex-)kankerpatiënten zonder werk meer kans te geven op een terugkeer naar werk (Subsidieregeling Kanker & Werkzoekenden)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanvraagtijdvak:** door de minister vastgesteld tijdvak waarin aanvragen voor subsidie op grond van deze regeling worden ontvangen;
+- a. *aanvraagtijdvak:* door de minister vastgesteld tijdvak waarin aanvragen voor subsidie op grond van deze regeling worden ontvangen;
 
-- b. **aanvrager:** organisatie met rechtspersoonlijkheid, die ingeschreven staat in het handelsregister, genoemd in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) en die de in het projectplan aangegeven activiteiten verricht of laat verrichten;
+- b. *aanvrager:* organisatie met rechtspersoonlijkheid, die ingeschreven staat in het handelsregister, genoemd in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) en die de in het projectplan aangegeven activiteiten verricht of laat verrichten;
 
-- c. **deelnemer:** (ex-)kankerpatiënt zonder werk die deelneemt aan een op basis van deze regeling gesubsidieerd project;
+- c. *deelnemer:* (ex-)kankerpatiënt zonder werk die deelneemt aan een op basis van deze regeling gesubsidieerd project;
 
-- d. **de-minimisverklaring:** verklaring als bedoeld in artikel 6, eerste lid, van de de-minimisverordening;
+- d. *de-minimisverklaring:* verklaring als bedoeld in artikel 6, eerste lid, van de de-minimisverordening;
 
-- e. **de-minimisverordening:** Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L352);
+- e. *de-minimisverordening:* Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L352);
 
-- f. **kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- f. *kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- g. **minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- g. *minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- h. **projectperiode:** periode gelegen tussen de datum waarop de subsidie is verleend en de datum waarop het project uiterlijk moet zijn afgerond.
+- h. *projectperiode:* periode gelegen tussen de datum waarop de subsidie is verleend en de datum waarop het project uiterlijk moet zijn afgerond.
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid Kaderregeling subsidies OCW, SZW en VWS
 
 Op deze regeling is de [kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing voor zover daar in deze regeling niet van wordt afgeweken.
 
@@ -179,5 +154,3 @@ De minister draagt zorg voor de evaluatie van de doeltreffendheid en doelmatighe
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling kanker & werkzoekenden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

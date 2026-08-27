@@ -1,72 +1,46 @@
 ---
 title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 13 juni 2018 nr. VO/1364203, houdende regels voor aanvullende bekostiging voor technisch onderwijs in het voorbereidend middelbaar beroepsonderwijs in de kalenderjaren 2018 en 2019 (Regeling aanvullende bekostiging technisch vmbo 2018 en 2019)"
+citeertitel: "Regeling aanvullende bekostiging technisch vmbo 2018-2019"
 identifier: "BWBR0041042"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-09-27"
-last_updated: "2019-09-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041042"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14652643"
-version_id: "25249192"
-internal_id: "C36082641"
-label_id: "14605564"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041042/2019-09-27/0"
-intitule_bron: "Stcrt.2018-34118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-13"
-intitule_published: "2018-06-20"
-intitule_in_force: "2018-06-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-49427"
-original_signed_date: "2018-08-17"
-original_published_date: "2018-09-04"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2018-49427"
-entry_into_force_date: "2018-09-05"
-jci_1_3: "jci1.3:c:BWBR0041042&z=2019-09-27&g=2019-09-27"
-jci_1_0: "1.0:c:BWBR0041042&g=2019-09-27"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvullende bekostiging technisch vmbo 2018-2019"
-signed_date: "2018-08-17"
-entry_into_force: "2018-09-05"
+publicatiedatum: 2018-09-05
+laatste_update: 2019-09-27
+status: geldig
+toestand: 2019-09-27
+bron: "https://wetten.overheid.nl/BWBR0041042"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 13 juni 2018 nr. VO/1364203, houdende regels voor aanvullende bekostiging voor technisch onderwijs in het voorbereidend middelbaar beroepsonderwijs in de kalenderjaren 2018 en 2019 (Regeling aanvullende bekostiging technisch vmbo 2018 en 2019)
-
-Gelet op de [artikelen 85a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85a) en [89 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=89) en [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **beroepsgerichte keuzevakken:** vakken, bedoeld in [bijlage 3, paragrafen 1, 2 en 3 van de Regeling beroepsgerichte keuzevakken vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3);
+- *beroepsgerichte keuzevakken:* vakken, bedoeld in [bijlage 3, paragrafen 1, 2 en 3 van de Regeling beroepsgerichte keuzevakken vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3);
 
-- **beroepsgericht vmbo:** het derde en vierde leerjaar van de basis- en kaderberoepsgerichte leerwegen en de gemengde leerweg van het vmbo;
+- *beroepsgericht vmbo:* het derde en vierde leerjaar van de basis- en kaderberoepsgerichte leerwegen en de gemengde leerweg van het vmbo;
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van de Wet op de expertisecentr](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1)a of [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van de Wet op de expertisecentr](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1)a of [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
 
-- **leerling:** leerling als bedoeld in [artikel 7 van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=7), [artikel 1 van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=1) of [artikel 2.1.2, onderdeel g, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.1.2), die op 1 oktober voorafgaand aan het kalenderjaar waarvoor de aanvullende bekostiging wordt verstrekt, als werkelijk schoolgaand op een school stond ingeschreven;
+- *leerling:* leerling als bedoeld in [artikel 7 van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=7), [artikel 1 van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=1) of [artikel 2.1.2, onderdeel g, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.1.2), die op 1 oktober voorafgaand aan het kalenderjaar waarvoor de aanvullende bekostiging wordt verstrekt, als werkelijk schoolgaand op een school stond ingeschreven;
 
-- **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- *Minister:* Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **school:** school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1) of een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3);
+- *school:* school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1) of een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3);
 
-- **technisch vmbo:** beroepsgericht vmbo in:
+- *technisch vmbo:* beroepsgericht vmbo in:
 
-- a. de profielen bouwen, wonen en interieur, mobiliteit en transport of produceren, installeren en energie als bedoeld in de [artikelen 10b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), en [10d, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d) en de [artikelen 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), en [29, derde lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2019-09-27&g=2019-09-27);
+   - a. de profielen bouwen, wonen en interieur, mobiliteit en transport of produceren, installeren en energie als bedoeld in de [artikelen 10b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), en [10d, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d) en de [artikelen 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), en [29, derde lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2019-09-27&g=2019-09-27);
 
-- b. de voormalige afdelingen bouwtechniek, elektrotechniek, installatietechniek, transport en logistiek, metaaltechniek of voertuigentechniek en de voormalige intrasectorale programma’s metalectro, instalectro, techniek-breed en bouw-breed, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2019-09-27&g=2019-09-27); of
+   - b. de voormalige afdelingen bouwtechniek, elektrotechniek, installatietechniek, transport en logistiek, metaaltechniek of voertuigentechniek en de voormalige intrasectorale programma’s metalectro, instalectro, techniek-breed en bouw-breed, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2019-09-27&g=2019-09-27); of
 
-- c. de vakmanschapsroute of beroepsroute, bedoeld in [artikel 2, eerste lid, aanhef en onder a en b, van het Besluit experimenten doorlopende leerlijnen vmbo-mbo 2014-2022](https://wetten.overheid.nl/jci1.3:c:BWBR0033984&artikel=2), voor zover het de technische routes betreft, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2019-09-27&g=2019-09-27);
+   - c. de vakmanschapsroute of beroepsroute, bedoeld in [artikel 2, eerste lid, aanhef en onder a en b, van het Besluit experimenten doorlopende leerlijnen vmbo-mbo 2014-2022](https://wetten.overheid.nl/jci1.3:c:BWBR0033984&artikel=2), voor zover het de technische routes betreft, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&bijlage=1&z=2019-09-27&g=2019-09-27);
 
-- **vmbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10a), middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9), voorbereidend beroepsonderwijs als bedoeld in [artikel 17 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=17) of middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 15 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15).
+- *vmbo:* voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10a), middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9), voorbereidend beroepsonderwijs als bedoeld in [artikel 17 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=17) of middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 15 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -116,6 +90,28 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 6. De Minister kan de bedragen, bedoeld in het tweede en vierde lid, wijzigen, indien het beschikbare budget, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2019-09-27&g=2019-09-27), wordt overschreden of niet volledig wordt uitgeput.
 
+##### Artikel 5a. Afwijkende bepalingen BES
+
+1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2019-09-27&g=2019-09-27) wordt in Caribisch Nederland onder technisch vmbo mede verstaan: het technisch beroepsgericht onderwijs en technische en technologische componenten binnen de Caribbean Vocational Qualification-structuur in het derde en vierde leerjaar.
+
+2. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=5&z=2019-09-27&g=2019-09-27) wordt het bedrag per school in Caribisch Nederland voor het kalenderjaar 2018 als volgt vastgesteld:
+
+- a. voor de Scholengemeenschap Bonaire: $ 125.559,75 (USD);
+
+- b. voor de Saba Comprehensive School: $ 5.567,24 (USD);
+
+- c. voor de Gwendoline van Putten School (Sint-Eustatius): $ 36.210,20 (USD).
+
+3. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=5&z=2019-09-27&g=2019-09-27) wordt het bedrag per school in Caribisch Nederland voor het kalenderjaar 2019 als volgt vastgesteld:
+
+- a. voor de Scholengemeenschap Bonaire: $ 261.307,45 (USD);
+
+- b. voor de Saba Comprehensive School: $ 62.948,78 (USD);
+
+- c. voor de Gwendoline van Putten School (Sint-Eustatius): $ 72.458,73 (USD).
+
+4. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=7&z=2019-09-27&g=2019-09-27) geschiedt de betaling voor scholen in Caribisch Nederland voor het kalenderjaar 2018 in oktober 2018.
+
 ##### Artikel 6. Besteding aanvullende bekostiging
 
 Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de aanvullende bekostiging worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
@@ -149,331 +145,3 @@ Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging technisch vmbo 2018-2019.
-
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2018-06-21&g=2018-06-21)
-
-**Overzicht van elementcodes van:**
-
-- –. **de profielen bouwen, wonen en interieur, mobiliteit en transport of produceren, installeren en energie; en**
-
-- –. **de voormalige afdelingen bouwtechniek, elektrotechniek, installatietechniek, transport en logistiek, metaaltechniek of voertuigentechniek en de voormalige intrasectorale programma’s metalectro, instalectro, techniek-breed en bouw-breed; en**
-
-- –. **de technische routes binnen de vakmanschapsroute of beroepsroute.**
-
-| ELEMENT | JAAR3 | JAAR4 | LEERWEG | AFDELING | Profiel |
-| --- | --- | --- | --- | --- | --- |
-| 2411 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Bouw | BWI |
-| 2412 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Metaal | PIE |
-| 2413 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Elektro | PIE |
-| 2414 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Vrtgn | MTR |
-| 2415 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Instal | PIE |
-| 2417 | 3 | 4 | KL | LWOO Kaderbg Lw Tech T & L | MTR |
-| 2421 | 3 | 4 | KL | LWOO Kaderbg Lw Tech ME-ISP | PIE |
-| 2422 | 3 | 4 | KL | LWOO Kaderbg Lw Tech IE-ISP | PIE |
-| 2423 | 3 | 4 | KL | LWOO Kaderbg Lw Tech BB-ISP | BWI |
-| 2511 | 3 | 4 | BL | LWOO Basisbg Lw Tech Bouw | BWI |
-| 2512 | 3 | 4 | BL | LWOO Basisbg Lw Tech Metaal | PIE |
-| 2513 | 3 | 4 | BL | LWOO Basisbg Lw Tech Elektro | PIE |
-| 2514 | 3 | 4 | BL | LWOO Basisbg Lw Tech Vrtgn | MTR |
-| 2515 | 3 | 4 | BL | LWOO Basisbg Lw Tech Instal | PIE |
-| 2517 | 3 | 4 | BL | LWOO Basisbg Lw Tech T & L | MTR |
-| 2521 | 3 | 4 | BL | LWOO Basisbg Lw Tech ME-ISP | PIE |
-| 2522 | 3 | 4 | BL | LWOO Basisbg Lw Tech IE-ISP | PIE |
-| 2523 | 3 | 4 | BL | LWOO Basisbg Lw Tech BB-ISP | BWI |
-| 2611 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Bouw | BWI |
-| 2612 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Metaal | PIE |
-| 2613 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Elektro | PIE |
-| 2614 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Vrtgn | MTR |
-| 2615 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Instal | PIE |
-| 2617 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech T & L | MTR |
-| 2621 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech ME-ISP | PIE |
-| 2622 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech IE-ISP | PIE |
-| 2623 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech BB-ISP | BWI |
-| 2811 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Bouw | BWI |
-| 2812 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Metaal | PIE |
-| 2813 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Elektro | PIE |
-| 2814 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Vrtgn | MTR |
-| 2815 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Instal | PIE |
-| 2817 | 3 | 4 | KL | VMBO Kaderbg Lw Tech T & L | MTR |
-| 2821 | 3 | 4 | KL | VMBO Kaderbg Lw Tech ME-ISP | PIE |
-| 2822 | 3 | 4 | KL | VMBO Kaderbg Lw Tech IE-ISP | PIE |
-| 2823 | 3 | 4 | KL | VMBO Kaderbg Lw Tech BB-ISP | BWI |
-| 2911 | 3 | 4 | BL | VMBO Basisbg Lw Tech Bouw | BWI |
-| 2912 | 3 | 4 | BL | VMBO Basisbg Lw Tech Metaal | PIE |
-| 2913 | 3 | 4 | BL | VMBO Basisbg Lw Tech Elektro | PIE |
-| 2914 | 3 | 4 | BL | VMBO Basisbg Lw Tech Vrtgn | MTR |
-| 2915 | 3 | 4 | BL | VMBO Basisbg Lw Tech Instal | PIE |
-| 2917 | 3 | 4 | BL | VMBO Basisbg Lw Tech T & L | MTR |
-| 2921 | 3 | 4 | BL | VMBO Basisbg Lw Tech ME-ISP | PIE |
-| 2922 | 3 | 4 | BL | VMBO Basisbg Lw Tech IE-ISP | PIE |
-| 2923 | 3 | 4 | BL | VMBO Basisbg Lw Tech BB-ISP | BWI |
-| 3011 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Bouw | BWI |
-| 3012 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Metaal | PIE |
-| 3013 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Elektro | PIE |
-| 3014 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Vrtgn | MTR |
-| 3015 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Instal | PIE |
-| 3017 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech T & L | MTR |
-| 3021 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech ME-ISP | PIE |
-| 3022 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech IE-ISP | PIE |
-| 3023 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech BB-ISP | BWI |
-| 3111 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Bouw | BWI |
-| 3112 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Metaal | PIE |
-| 3113 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Elektro | PIE |
-| 3114 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Vrtgn | MTR |
-| 3115 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Instal | PIE |
-| 3117 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech T & L | MTR |
-| 3121 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech ME-ISP | PIE |
-| 3122 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech IE-ISP | PIE |
-| 3123 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech BB-ISP | BWI |
-| 3211 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Bouw | BWI |
-| 3212 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Metaal | PIE |
-| 3213 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Elektro | PIE |
-| 3214 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Vrtgn | MTR |
-| 3215 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Instal | PIE |
-| 3217 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech T & L | MTR |
-| 3221 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech ME-ISP | PIE |
-| 3222 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech IE-ISP | PIE |
-| 3223 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech BB-ISP | BWI |
-| 3311 | 3 | 4 | BL | LWOO Basisbg Lw TB-ISP | PIE |
-| 3312 | 3 | 4 | KL | LWOO Kaderbg Lw TB-ISP | PIE |
-| 3314 | 3 | 4 | LT | LWOO Basisbg Lw LWT TB-ISP | PIE |
-| 3411 | 3 | 4 | BL | VMBO Basisbg Lw TB-ISP | PIE |
-| 3412 | 3 | 4 | KL | VMBO Kaderbg Lw TB-ISP | PIE |
-| 3414 | 3 | 4 | LT | VMBO Basisbg Lw LWT TB-ISP | PIE |
-| 4411 | 3 | 4 | BL | LWOO BB Vakmanschapsroute Techniek Niv-2 | WISSELT |
-| 4412 | 3 | 4 | KL | LWOO KB Vakmanschapsroute Techniek Niv-2 | WISSELT |
-| 4413 | 3 | 4 | KL | LWOO KB Vakmanschapsroute Techniek Niv-3 | WISSELT |
-| 4511 | 3 | 4 | BL | VMBO BB Vakmanschapsroute Techniek Niv-2 | WISSELT |
-| 4512 | 3 | 4 | KL | VMBO KB Vakmanschapsroute Techniek Niv-2 | WISSELT |
-| 4513 | 3 | 4 | KL | VMBO KB Vakmanschapsroute Techniek Niv-3 | WISSELT |
-| 4613 | 3 | 4 | KL | LWOO KB Beroepsroute Techniek Niv-4 | WISSELT |
-| 4713 | 3 | 4 | KL | VMBO KB Beroepsroute Techniek Niv-4 | WISSELT |
-| 6011 | 3 | 4 | BL | VMBO BB Bouwen, wonen en interieur | BWI |
-| 6021 | 3 | 4 | KL | VMBO KB Bouwen, wonen en interieur | BWI |
-| 6055 | 3 | 4 | BL | LWOO BB Bouwen, wonen en interieur | BWI |
-| 6065 | 3 | 4 | KL | LWOO KB Bouwen, wonen en interieur | BWI |
-| 6111 | 3 | 4 | BL | VMBO BB Produceren,installeren & energie | PIE |
-| 6121 | 3 | 4 | KL | VMBO KB Produceren,installeren & energie | PIE |
-| 6155 | 3 | 4 | BL | LWOO BB Produceren,installeren & energie | PIE |
-| 6165 | 3 | 4 | KL | LWOO KB Produceren,installeren & energie | PIE |
-| 6211 | 3 | 4 | BL | VMBO BB Mobiliteit en transport | MTR |
-| 6221 | 3 | 4 | KL | VMBO KB Mobiliteit en transport | MTR |
-| 6255 | 3 | 4 | BL | LWOO BB Mobiliteit en transport | MTR |
-| 6265 | 3 | 4 | KL | LWOO KB Mobiliteit en transport | MTR |
-| 7011 | 3 | 4 | LT | VMBO BB LWT Bouwen, wonen en interieur | BWI |
-| 7021 | 3 | 4 | AO | VMBO BB ENT Bouwen, wonen en interieur | BWI |
-| 7055 | 3 | 4 | LT | LWOO BB LWT Bouwen, wonen en interieur | BWI |
-| 7065 | 3 | 4 | AO | LWOO BB ENT Bouwen, wonen en interieur | BWI |
-| 7111 | 3 | 4 | LT | VMBO BB LWT Produceren,install&energie | PIE |
-| 7121 | 3 | 4 | AO | VMBO BB ENT Produceren,install&energie | PIE |
-| 7155 | 3 | 4 | LT | LWOO BB LWT Produceren,install&energie | PIE |
-| 7165 | 3 | 4 | AO | LWOO BB ENT Produceren,install&energie | PIE |
-| 7211 | 3 | 4 | LT | VMBO BB LWT Mobiliteit en transport | MTR |
-| 7221 | 3 | 4 | AO | VMBO BB ENT Mobiliteit en transport | MTR |
-| 7255 | 3 | 4 | LT | LWOO BB LWT Mobiliteit en transport | MTR |
-| 7265 | 3 | 4 | AO | LWOO BB ENT Mobiliteit en transport | MTR |
-| 2311 | 3 | 4 | GL | LWOO Gemengde Lw Tech Bouw | BWI |
-| 2312 | 3 | 4 | GL | LWOO Gemengde Lw Tech Metaal | PIE |
-| 2313 | 3 | 4 | GL | LWOO Gemengde Lw Tech Elektro | PIE |
-| 2314 | 3 | 4 | GL | LWOO Gemengde Lw Tech Vrtgn | MTR |
-| 2315 | 3 | 4 | GL | LWOO Gemengde Lw Tech Instal | PIE |
-| 2317 | 3 | 4 | GL | LWOO Gemengde Lw Tech T & L | MTR |
-| 2321 | 3 | 4 | GL | LWOO Gemengde Lw Tech ME-ISP | PIE |
-| 2322 | 3 | 4 | GL | LWOO Gemengde Lw Tech IE-ISP | PIE |
-| 2323 | 3 | 4 | GL | LWOO Gemengde Lw Tech BB-ISP | BWI |
-| 2711 | 3 | 4 | GL | VMBO Gemengde Lw Tech Bouw | BWI |
-| 2712 | 3 | 4 | GL | VMBO Gemengde Lw Tech Metaal | PIE |
-| 2713 | 3 | 4 | GL | VMBO Gemengde Lw Tech Elektro | PIE |
-| 2714 | 3 | 4 | GL | VMBO Gemengde Lw Tech Vrtgn | MTR |
-| 2715 | 3 | 4 | GL | VMBO Gemengde Lw Tech Instal | PIE |
-| 2717 | 3 | 4 | GL | VMBO Gemengde Lw Tech T & L | MTR |
-| 2721 | 3 | 4 | GL | VMBO Gemengde Lw Tech ME-ISP | PIE |
-| 2722 | 3 | 4 | GL | VMBO Gemengde Lw Tech IE-ISP | PIE |
-| 2723 | 3 | 4 | GL | VMBO Gemengde Lw Tech BB-ISP | BWI |
-| 3313 | 3 | 4 | GL | LWOO Gemengde Lw TB-ISP | PIE |
-| 3413 | 3 | 4 | GL | VMBO Gemengde Lw TB-ISP | PIE |
-| 4611 | 3 | 4 | GL | LWOO GL Beroepsroute Techniek Niv-4 | WISSELT |
-| 4711 | 3 | 4 | GL | VMBO GL Beroepsroute Techniek Niv-4 | WISSELT |
-| 6031 | 3 | 4 | GL | VMBO GL Bouwen, wonen en interieur | BWI |
-| 6075 | 3 | 4 | GL | LWOO GL Bouwen, wonen en interieur | BWI |
-| 6131 | 3 | 4 | GL | VMBO GL Produceren,installeren & energie | PIE |
-| 6175 | 3 | 4 | GL | LWOO GL Produceren,installeren & energie | PIE |
-| 6231 | 3 | 4 | GL | VMBO GL Mobiliteit en transport | MTR |
-| 6275 | 3 | 4 | GL | LWOO GL Mobiliteit en transport | MTR |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. Afwijkende bepalingen BES
-
-1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2019-09-27&g=2019-09-27) wordt in Caribisch Nederland onder technisch vmbo mede verstaan: het technisch beroepsgericht onderwijs en technische en technologische componenten binnen de Caribbean Vocational Qualification-structuur in het derde en vierde leerjaar.
-
-2. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=5&z=2019-09-27&g=2019-09-27) wordt het bedrag per school in Caribisch Nederland voor het kalenderjaar 2018 als volgt vastgesteld:
-
-- a. voor de Scholengemeenschap Bonaire: $ 125.559,75 (USD);
-
-- b. voor de Saba Comprehensive School: $ 5.567,24 (USD);
-
-- c. voor de Gwendoline van Putten School (Sint-Eustatius): $ 36.210,20 (USD).
-
-3. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=5&z=2019-09-27&g=2019-09-27) wordt het bedrag per school in Caribisch Nederland voor het kalenderjaar 2019 als volgt vastgesteld:
-
-- a. voor de Scholengemeenschap Bonaire: $ 261.307,45 (USD);
-
-- b. voor de Saba Comprehensive School: $ 62.948,78 (USD);
-
-- c. voor de Gwendoline van Putten School (Sint-Eustatius): $ 72.458,73 (USD).
-
-4. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=7&z=2019-09-27&g=2019-09-27) geschiedt de betaling voor scholen in Caribisch Nederland voor het kalenderjaar 2018 in oktober 2018.
-
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2019-09-27&g=2019-09-27)
-
-**Overzicht van elementcodes van:**
-
-- –. **de profielen bouwen, wonen en interieur, mobiliteit en transport of produceren, installeren en energie; en**
-
-- –. **de voormalige afdelingen bouwtechniek, elektrotechniek, installatietechniek, transport en logistiek, metaaltechniek of voertuigentechniek en de voormalige intrasectorale programma’s metalectro, instalectro, techniek-breed en bouw-breed; en**
-
-- –. **de technische routes binnen de vakmanschapsroute of beroepsroute.**
-
-| ELEMENT | JAAR3 | JAAR4 | LEERWEG | AFDELING | Profiel |
-| --- | --- | --- | --- | --- | --- |
-| 2411 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Bouw | BWI |
-| 2412 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Metaal | PIE |
-| 2413 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Elektro | PIE |
-| 2414 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Vrtgn | MTR |
-| 2415 | 3 | 4 | KL | LWOO Kaderbg Lw Tech Instal | PIE |
-| 2417 | 3 | 4 | KL | LWOO Kaderbg Lw Tech T & L | MTR |
-| 2421 | 3 | 4 | KL | LWOO Kaderbg Lw Tech ME-ISP | PIE |
-| 2422 | 3 | 4 | KL | LWOO Kaderbg Lw Tech IE-ISP | PIE |
-| 2423 | 3 | 4 | KL | LWOO Kaderbg Lw Tech BB-ISP | BWI |
-| 2511 | 3 | 4 | BL | LWOO Basisbg Lw Tech Bouw | BWI |
-| 2512 | 3 | 4 | BL | LWOO Basisbg Lw Tech Metaal | PIE |
-| 2513 | 3 | 4 | BL | LWOO Basisbg Lw Tech Elektro | PIE |
-| 2514 | 3 | 4 | BL | LWOO Basisbg Lw Tech Vrtgn | MTR |
-| 2515 | 3 | 4 | BL | LWOO Basisbg Lw Tech Instal | PIE |
-| 2517 | 3 | 4 | BL | LWOO Basisbg Lw Tech T & L | MTR |
-| 2521 | 3 | 4 | BL | LWOO Basisbg Lw Tech ME-ISP | PIE |
-| 2522 | 3 | 4 | BL | LWOO Basisbg Lw Tech IE-ISP | PIE |
-| 2523 | 3 | 4 | BL | LWOO Basisbg Lw Tech BB-ISP | BWI |
-| 2611 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Bouw | BWI |
-| 2612 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Metaal | PIE |
-| 2613 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Elektro | PIE |
-| 2614 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Vrtgn | MTR |
-| 2615 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech Instal | PIE |
-| 2617 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech T & L | MTR |
-| 2621 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech ME-ISP | PIE |
-| 2622 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech IE-ISP | PIE |
-| 2623 | 3 | 4 | LT | LWOO Basisbg Lw LWT Tech BB-ISP | BWI |
-| 2811 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Bouw | BWI |
-| 2812 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Metaal | PIE |
-| 2813 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Elektro | PIE |
-| 2814 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Vrtgn | MTR |
-| 2815 | 3 | 4 | KL | VMBO Kaderbg Lw Tech Instal | PIE |
-| 2817 | 3 | 4 | KL | VMBO Kaderbg Lw Tech T & L | MTR |
-| 2821 | 3 | 4 | KL | VMBO Kaderbg Lw Tech ME-ISP | PIE |
-| 2822 | 3 | 4 | KL | VMBO Kaderbg Lw Tech IE-ISP | PIE |
-| 2823 | 3 | 4 | KL | VMBO Kaderbg Lw Tech BB-ISP | BWI |
-| 2911 | 3 | 4 | BL | VMBO Basisbg Lw Tech Bouw | BWI |
-| 2912 | 3 | 4 | BL | VMBO Basisbg Lw Tech Metaal | PIE |
-| 2913 | 3 | 4 | BL | VMBO Basisbg Lw Tech Elektro | PIE |
-| 2914 | 3 | 4 | BL | VMBO Basisbg Lw Tech Vrtgn | MTR |
-| 2915 | 3 | 4 | BL | VMBO Basisbg Lw Tech Instal | PIE |
-| 2917 | 3 | 4 | BL | VMBO Basisbg Lw Tech T & L | MTR |
-| 2921 | 3 | 4 | BL | VMBO Basisbg Lw Tech ME-ISP | PIE |
-| 2922 | 3 | 4 | BL | VMBO Basisbg Lw Tech IE-ISP | PIE |
-| 2923 | 3 | 4 | BL | VMBO Basisbg Lw Tech BB-ISP | BWI |
-| 3011 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Bouw | BWI |
-| 3012 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Metaal | PIE |
-| 3013 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Elektro | PIE |
-| 3014 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Vrtgn | MTR |
-| 3015 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech Instal | PIE |
-| 3017 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech T & L | MTR |
-| 3021 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech ME-ISP | PIE |
-| 3022 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech IE-ISP | PIE |
-| 3023 | 3 | 4 | LT | VMBO Basisbg Lw LWT Tech BB-ISP | BWI |
-| 3111 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Bouw | BWI |
-| 3112 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Metaal | PIE |
-| 3113 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Elektro | PIE |
-| 3114 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Vrtgn | MTR |
-| 3115 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech Instal | PIE |
-| 3117 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech T & L | MTR |
-| 3121 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech ME-ISP | PIE |
-| 3122 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech IE-ISP | PIE |
-| 3123 | 3 | 4 | AO | LWOO Basisbg Lw ENT Tech BB-ISP | BWI |
-| 3211 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Bouw | BWI |
-| 3212 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Metaal | PIE |
-| 3213 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Elektro | PIE |
-| 3214 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Vrtgn | MTR |
-| 3215 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech Instal | PIE |
-| 3217 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech T & L | MTR |
-| 3221 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech ME-ISP | PIE |
-| 3222 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech IE-ISP | PIE |
-| 3223 | 3 | 4 | AO | VMBO Basisbg Lw ENT Tech BB-ISP | BWI |
-| 3311 | 3 | 4 | BL | LWOO Basisbg Lw TB-ISP | PIE |
-| 3312 | 3 | 4 | KL | LWOO Kaderbg Lw TB-ISP | PIE |
-| 3314 | 3 | 4 | LT | LWOO Basisbg Lw LWT TB-ISP | PIE |
-| 3411 | 3 | 4 | BL | VMBO Basisbg Lw TB-ISP | PIE |
-| 3412 | 3 | 4 | KL | VMBO Kaderbg Lw TB-ISP | PIE |
-| 3414 | 3 | 4 | LT | VMBO Basisbg Lw LWT TB-ISP | PIE |
-| 4411 | 3 | 4 | BL | LWOO BB Vakmanschapsroute Techniek Niv-2 | WISSELT |
-| 4412 | 3 | 4 | KL | LWOO KB Vakmanschapsroute Techniek Niv-2 | WISSELT |
-| 4413 | 3 | 4 | KL | LWOO KB Vakmanschapsroute Techniek Niv-3 | WISSELT |
-| 4511 | 3 | 4 | BL | VMBO BB Vakmanschapsroute Techniek Niv-2 | WISSELT |
-| 4512 | 3 | 4 | KL | VMBO KB Vakmanschapsroute Techniek Niv-2 | WISSELT |
-| 4513 | 3 | 4 | KL | VMBO KB Vakmanschapsroute Techniek Niv-3 | WISSELT |
-| 4613 | 3 | 4 | KL | LWOO KB Beroepsroute Techniek Niv-4 | WISSELT |
-| 4713 | 3 | 4 | KL | VMBO KB Beroepsroute Techniek Niv-4 | WISSELT |
-| 6011 | 3 | 4 | BL | VMBO BB Bouwen, wonen en interieur | BWI |
-| 6021 | 3 | 4 | KL | VMBO KB Bouwen, wonen en interieur | BWI |
-| 6055 | 3 | 4 | BL | LWOO BB Bouwen, wonen en interieur | BWI |
-| 6065 | 3 | 4 | KL | LWOO KB Bouwen, wonen en interieur | BWI |
-| 6111 | 3 | 4 | BL | VMBO BB Produceren,installeren & energie | PIE |
-| 6121 | 3 | 4 | KL | VMBO KB Produceren,installeren & energie | PIE |
-| 6155 | 3 | 4 | BL | LWOO BB Produceren,installeren & energie | PIE |
-| 6165 | 3 | 4 | KL | LWOO KB Produceren,installeren & energie | PIE |
-| 6211 | 3 | 4 | BL | VMBO BB Mobiliteit en transport | MTR |
-| 6221 | 3 | 4 | KL | VMBO KB Mobiliteit en transport | MTR |
-| 6255 | 3 | 4 | BL | LWOO BB Mobiliteit en transport | MTR |
-| 6265 | 3 | 4 | KL | LWOO KB Mobiliteit en transport | MTR |
-| 7011 | 3 | 4 | LT | VMBO BB LWT Bouwen, wonen en interieur | BWI |
-| 7021 | 3 | 4 | AO | VMBO BB ENT Bouwen, wonen en interieur | BWI |
-| 7055 | 3 | 4 | LT | LWOO BB LWT Bouwen, wonen en interieur | BWI |
-| 7065 | 3 | 4 | AO | LWOO BB ENT Bouwen, wonen en interieur | BWI |
-| 7111 | 3 | 4 | LT | VMBO BB LWT Produceren,install&energie | PIE |
-| 7121 | 3 | 4 | AO | VMBO BB ENT Produceren,install&energie | PIE |
-| 7155 | 3 | 4 | LT | LWOO BB LWT Produceren,install&energie | PIE |
-| 7165 | 3 | 4 | AO | LWOO BB ENT Produceren,install&energie | PIE |
-| 7211 | 3 | 4 | LT | VMBO BB LWT Mobiliteit en transport | MTR |
-| 7221 | 3 | 4 | AO | VMBO BB ENT Mobiliteit en transport | MTR |
-| 7255 | 3 | 4 | LT | LWOO BB LWT Mobiliteit en transport | MTR |
-| 7265 | 3 | 4 | AO | LWOO BB ENT Mobiliteit en transport | MTR |
-| 2311 | 3 | 4 | GL | LWOO Gemengde Lw Tech Bouw | BWI |
-| 2312 | 3 | 4 | GL | LWOO Gemengde Lw Tech Metaal | PIE |
-| 2313 | 3 | 4 | GL | LWOO Gemengde Lw Tech Elektro | PIE |
-| 2314 | 3 | 4 | GL | LWOO Gemengde Lw Tech Vrtgn | MTR |
-| 2315 | 3 | 4 | GL | LWOO Gemengde Lw Tech Instal | PIE |
-| 2317 | 3 | 4 | GL | LWOO Gemengde Lw Tech T & L | MTR |
-| 2321 | 3 | 4 | GL | LWOO Gemengde Lw Tech ME-ISP | PIE |
-| 2322 | 3 | 4 | GL | LWOO Gemengde Lw Tech IE-ISP | PIE |
-| 2323 | 3 | 4 | GL | LWOO Gemengde Lw Tech BB-ISP | BWI |
-| 2711 | 3 | 4 | GL | VMBO Gemengde Lw Tech Bouw | BWI |
-| 2712 | 3 | 4 | GL | VMBO Gemengde Lw Tech Metaal | PIE |
-| 2713 | 3 | 4 | GL | VMBO Gemengde Lw Tech Elektro | PIE |
-| 2714 | 3 | 4 | GL | VMBO Gemengde Lw Tech Vrtgn | MTR |
-| 2715 | 3 | 4 | GL | VMBO Gemengde Lw Tech Instal | PIE |
-| 2717 | 3 | 4 | GL | VMBO Gemengde Lw Tech T & L | MTR |
-| 2721 | 3 | 4 | GL | VMBO Gemengde Lw Tech ME-ISP | PIE |
-| 2722 | 3 | 4 | GL | VMBO Gemengde Lw Tech IE-ISP | PIE |
-| 2723 | 3 | 4 | GL | VMBO Gemengde Lw Tech BB-ISP | BWI |
-| 3313 | 3 | 4 | GL | LWOO Gemengde Lw TB-ISP | PIE |
-| 3413 | 3 | 4 | GL | VMBO Gemengde Lw TB-ISP | PIE |
-| 4611 | 3 | 4 | GL | LWOO GL Beroepsroute Techniek Niv-4 | WISSELT |
-| 4711 | 3 | 4 | GL | VMBO GL Beroepsroute Techniek Niv-4 | WISSELT |
-| 6031 | 3 | 4 | GL | VMBO GL Bouwen, wonen en interieur | BWI |
-| 6075 | 3 | 4 | GL | LWOO GL Bouwen, wonen en interieur | BWI |
-| 6131 | 3 | 4 | GL | VMBO GL Produceren,installeren & energie | PIE |
-| 6175 | 3 | 4 | GL | LWOO GL Produceren,installeren & energie | PIE |
-| 6231 | 3 | 4 | GL | VMBO GL Mobiliteit en transport | MTR |
-| 6275 | 3 | 4 | GL | LWOO GL Mobiliteit en transport | MTR |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

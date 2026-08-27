@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid, de Minister voor Rechtsbescherming, de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, de Staatssecretaris van Economische Zaken en Klimaat en de Staatssecretaris van Financiën, van 7 november 2018, 2018-0000179085, tot instelling van de Commissie regulering van werk (Instellingsregeling Commissie regulering van werk)"
+citeertitel: "Instellingsregeling Commissie regulering van werk"
 identifier: "BWBR0041552"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-17"
-last_updated: "2018-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041552"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14859273"
-version_id: "25419662"
-internal_id: "C36287181"
-label_id: "14810794"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041552/2018-11-17/0"
-intitule_bron: "Stcrt.2018-64352"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-07"
-intitule_published: "2018-11-16"
-intitule_in_force: "2018-11-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-64352"
-original_signed_date: "2018-11-07"
-original_published_date: "2018-11-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-64352"
-entry_into_force_date: "2018-11-17"
-jci_1_3: "jci1.3:c:BWBR0041552&z=2018-11-17&g=2018-11-17"
-jci_1_0: "1.0:c:BWBR0041552&g=2018-11-17"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Commissie regulering van werk"
-signed_date: "2018-11-07"
-entry_into_force: "2018-11-17"
+publicatiedatum: 2018-11-17
+laatste_update: 2018-11-17
+status: geldig
+toestand: 2018-11-17
+bron: "https://wetten.overheid.nl/BWBR0041552"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid, de Minister voor Rechtsbescherming, de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, de Staatssecretaris van Economische Zaken en Klimaat en de Staatssecretaris van Financiën, van 7 november 2018, 2018-0000179085, tot instelling van de Commissie regulering van werk (Instellingsregeling Commissie regulering van werk)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- a. *de Minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **de Commissie:** de Commissie regulering van werk.
+- b. *de Commissie:* de Commissie regulering van werk.
 
 ##### Artikel 2. Instelling
 
@@ -103,5 +75,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie regulering van werk.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

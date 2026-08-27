@@ -1,52 +1,27 @@
 ---
 title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 juni 2018, nr. WJZ/18139550, houdende aanwijzing van een organisatie als bedoeld in artikel 14 van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
+citeertitel: "Besluit aanwijzing organisatie ex artikel 14 Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
 identifier: "BWBR0041093"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041093"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14661693"
-version_id: "25102422"
-internal_id: "C35898781"
-label_id: "14614464"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041093/2018-07-01/0"
-intitule_bron: "Stcrt.2018-36504"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-26"
-intitule_published: "2018-06-29"
-intitule_in_force: "2018-06-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-36504"
-original_signed_date: "2018-06-26"
-original_published_date: "2018-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-36504"
-entry_into_force_date: "2018-07-01"
-jci_1_3: "jci1.3:c:BWBR0041093&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0041093&g=2018-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing organisatie ex artikel 14 Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
-signed_date: "2018-06-26"
-entry_into_force: "2018-07-01"
+publicatiedatum: 2018-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0041093"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 juni 2018, nr. WJZ/18139550, houdende aanwijzing van een organisatie als bedoeld in artikel 14 van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken
-
-Gelet op [artikel 14 van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=14);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **RVO.nl:** Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat;
+- *RVO.nl:* Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat;
 
-- **wet:** [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728).
+- *wet:*
+ [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728).
 
 ##### Artikel 2
 
@@ -65,5 +40,3 @@ Het Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 13 
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van 1 juli 2018.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

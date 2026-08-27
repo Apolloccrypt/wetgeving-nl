@@ -1,47 +1,18 @@
 ---
 title: "Wet van 17 oktober 2018, houdende regels ter uitvoering van Richtlijn 2016/943/EU van het Europees Parlement en de Raad van 8 juni 2016 betreffende de bescherming van niet-openbaar gemaakte knowhow en bedrijfsinformatie (bedrijfsgeheimen) tegen het onrechtmatig verkrijgen, gebruiken en openbaar maken daarvan (PbEU 2016, L157) (Wet bescherming bedrijfsgeheimen)"
+citeertitel: "Wet bescherming bedrijfsgeheimen"
 identifier: "BWBR0041459"
-country: "nl"
-rank: "wet"
-publication_date: "2023-02-18"
-last_updated: "2023-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041459"
+categorie: "Overig"
 soort: "wet"
-stam_id: "14838673"
-version_id: "25368002"
-internal_id: "C36225181"
-label_id: "14790554"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041459/2023-02-18/0"
-intitule_bron: "Stb.2018-369"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-17"
-intitule_published: "2018-10-22"
-intitule_in_force: "2018-10-22"
-intitule_status: "goed"
-original_publication: "Stb.2018-369"
-original_signed_date: "2018-10-17"
-original_published_date: "2018-10-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "34821"
-original_url_id: "stb-2018-369"
-entry_into_force_date: "2018-10-23"
-jci_1_3: "jci1.3:c:BWBR0041459&z=2023-02-18&g=2023-02-18"
-jci_1_0: "1.0:c:BWBR0041459&g=2023-02-18"
-citeertitel_status: "officieel"
-short_title: "Wet bescherming bedrijfsgeheimen"
-signed_date: "2018-10-17"
-entry_into_force: "2018-10-23"
+publicatiedatum: 2018-10-23
+laatste_update: 2023-02-18
+status: geldig
+toestand: 2023-02-18
+bron: "https://wetten.overheid.nl/BWBR0041459"
+opgehaald: 2026-08-27
 ---
+
 # Wet van 17 oktober 2018, houdende regels ter uitvoering van Richtlijn 2016/943/EU van het Europees Parlement en de Raad van 8 juni 2016 betreffende de bescherming van niet-openbaar gemaakte knowhow en bedrijfsinformatie (bedrijfsgeheimen) tegen het onrechtmatig verkrijgen, gebruiken en openbaar maken daarvan (PbEU 2016, L157) (Wet bescherming bedrijfsgeheimen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels vast te stellen ter implementatie van [Richtlijn 2016/943](32016L0943)/EU van het Europees Parlement en de Raad van 8 juni 2016 betreffende de bescherming van niet-openbaar gemaakte knowhow en bedrijfsinformatie (bedrijfsgeheimen) tegen het onrechtmatig verkrijgen, gebruiken en openbaar maken daarvan (PbEU 2016, L157);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -49,19 +20,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet wordt verstaan onder:
 
-- **bedrijfsgeheim:** informatie die aan de volgende voorwaarden voldoet:
+- *bedrijfsgeheim:* informatie die aan de volgende voorwaarden voldoet:
 
-- a. zij is geheim in die zin dat zij, in haar geheel dan wel in de juiste samenstelling en ordening van haar bestanddelen, niet algemeen bekend is bij of gemakkelijk toegankelijk is voor degenen binnen de kringen die zich gewoonlijk bezighouden met dergelijke informatie;
+   - a. zij is geheim in die zin dat zij, in haar geheel dan wel in de juiste samenstelling en ordening van haar bestanddelen, niet algemeen bekend is bij of gemakkelijk toegankelijk is voor degenen binnen de kringen die zich gewoonlijk bezighouden met dergelijke informatie;
 
-- b. zij bezit handelswaarde omdat zij geheim is, en
+   - b. zij bezit handelswaarde omdat zij geheim is, en
 
-- c. zij is door degene die daar rechtmatig over beschikt, onderworpen aan redelijke maatregelen, gezien de omstandigheden, om deze geheim te houden;
+   - c. zij is door degene die daar rechtmatig over beschikt, onderworpen aan redelijke maatregelen, gezien de omstandigheden, om deze geheim te houden;
 
-- **houder van het bedrijfsgeheim:** iedere natuurlijke persoon of rechtspersoon die rechtmatig over een bedrijfsgeheim beschikt;
+- *houder van het bedrijfsgeheim:* iedere natuurlijke persoon of rechtspersoon die rechtmatig over een bedrijfsgeheim beschikt;
 
-- **inbreukmakende goederen:** goederen waarvan het ontwerp, de kenmerken, de werking, het productieproces of het in de handel brengen aanzienlijk voordeel heeft of hebben bij bedrijfsgeheimen die onrechtmatig zijn verkregen, gebruikt of openbaar gemaakt;
+- *inbreukmakende goederen:* goederen waarvan het ontwerp, de kenmerken, de werking, het productieproces of het in de handel brengen aanzienlijk voordeel heeft of hebben bij bedrijfsgeheimen die onrechtmatig zijn verkregen, gebruikt of openbaar gemaakt;
 
-- **inbreukmaker:** iedere natuurlijke persoon of rechtspersoon die een bedrijfsgeheim onrechtmatig heeft verkregen, gebruikt of openbaar gemaakt.
+- *inbreukmaker:* iedere natuurlijke persoon of rechtspersoon die een bedrijfsgeheim onrechtmatig heeft verkregen, gebruikt of openbaar gemaakt.
 
 ### Hoofdstuk 2. Onrechtmatig verkrijgen, gebruiken of openbaar maken van bedrijfsgeheimen
 
@@ -203,11 +174,11 @@ De rechter wijst een vordering of verzoek om toepassing van de maatregelen en pr
 
 ##### Artikel 10
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel 11
 
-Wijzigt het Burgerlijk Wetboek Boek 3.
+*Wijzigt het Burgerlijk Wetboek Boek 3.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -218,5 +189,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 13
 
 Deze wet wordt aangehaald als: Wet bescherming bedrijfsgeheimen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

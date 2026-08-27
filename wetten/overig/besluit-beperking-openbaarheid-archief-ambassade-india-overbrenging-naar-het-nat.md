@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 11 juni 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Ambassade India, bij overbrenging naar het Nationaal Archief"
+citeertitel: "Besluit beperking openbaarheid archief Ambassade India (overbrenging naar het Nationaal Archief)"
 identifier: "BWBR0041187"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-07-24"
-last_updated: "2018-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041187"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14686793"
-version_id: "25154772"
-internal_id: "C35968171"
-label_id: "14639244"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041187/2018-07-24/0"
-intitule_bron: "Stcrt.2018-41041"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-11"
-intitule_published: "2018-07-23"
-intitule_in_force: "2018-07-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-41041"
-original_signed_date: "2018-06-11"
-original_published_date: "2018-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-41041"
-entry_into_force_date: "2018-07-24"
-jci_1_3: "jci1.3:c:BWBR0041187&z=2018-07-24&g=2018-07-24"
-jci_1_0: "1.0:c:BWBR0041187&g=2018-07-24"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Ambassade India (overbrenging naar het Nationaal Archief)"
-signed_date: "2018-06-11"
-entry_into_force: "2018-07-24"
+publicatiedatum: 2018-07-24
+laatste_update: 2018-07-24
+status: geldig
+toestand: 2018-07-24
+bron: "https://wetten.overheid.nl/BWBR0041187"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 11 juni 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Ambassade India, bij overbrenging naar het Nationaal Archief
-
-Overwegende dat een aantal dossiers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a, b en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemene rijksarchivaris d.d. 31 mei 2018, nr.1244934
-
-Besluit
 
 ##### Artikel 1
 

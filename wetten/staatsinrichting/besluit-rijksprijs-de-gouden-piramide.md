@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 28 mei 2018, nr. BZK/DGBRW-2018-0000016711, met betrekking tot de toekenning van de rijksprijs voor inspirerend opdrachtgeverschap ‘Gouden Piramide’ (Besluit rijksprijs ‘de Gouden Piramide’)"
+citeertitel: "Besluit rijksprijs ‘de Gouden Piramide’"
 identifier: "BWBR0040978"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-06-07"
-last_updated: "2018-06-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040978"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14626023"
-version_id: "25045322"
-internal_id: "C35814321"
-label_id: "14579114"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040978/2018-06-07/0"
-intitule_bron: "Stcrt.2018-30779"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-28"
-intitule_published: "2018-06-06"
-intitule_in_force: "2018-06-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-30779"
-original_signed_date: "2018-05-28"
-original_published_date: "2018-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-30779"
-entry_into_force_date: "2018-06-07"
-jci_1_3: "jci1.3:c:BWBR0040978&z=2018-06-07&g=2018-06-07"
-jci_1_0: "1.0:c:BWBR0040978&g=2018-06-07"
-citeertitel_status: "officieel"
-short_title: "Besluit rijksprijs ‘de Gouden Piramide’"
-signed_date: "2018-05-28"
-entry_into_force: "2018-06-07"
+publicatiedatum: 2018-06-07
+laatste_update: 2018-06-07
+status: geldig
+toestand: 2018-06-07
+bron: "https://wetten.overheid.nl/BWBR0040978"
+opgehaald: 2026-08-27
 ---
-# Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 28 mei 2018, nr. BZK/DGBRW-2018-0000016711, met betrekking tot de toekenning van de rijksprijs voor inspirerend opdrachtgeverschap ‘Gouden Piramide’ (Besluit rijksprijs ‘de Gouden Piramide’)
 
-Besluit:
+# Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 28 mei 2018, nr. BZK/DGBRW-2018-0000016711, met betrekking tot de toekenning van de rijksprijs voor inspirerend opdrachtgeverschap ‘Gouden Piramide’ (Besluit rijksprijs ‘de Gouden Piramide’)
 
 ##### Artikel 1. (Algemene bepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- –. **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- – *Minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-- –. **Prijs:** rijksprijs voor inspirerend opdrachtgeverschap, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040978&artikel=2&z=2018-06-07&g=2018-06-07).
+- – *Prijs:* rijksprijs voor inspirerend opdrachtgeverschap, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040978&artikel=2&z=2018-06-07&g=2018-06-07).
 
 ##### Artikel 2. (Gouden Piramide)
 
@@ -137,5 +113,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit rijksprijs ‘de Gouden Piramide’.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

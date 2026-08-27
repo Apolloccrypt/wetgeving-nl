@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie en Veiligheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 oktober 2018, nr. 2381058, houdende instelling van de Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht (Instellingsregeling Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht)"
+citeertitel: "Instellingsregeling Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht"
 identifier: "BWBR0041444"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-16"
-last_updated: "2018-10-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041444"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14836063"
-version_id: "25363622"
-internal_id: "C36217201"
-label_id: "14787904"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041444/2018-10-16/0"
-intitule_bron: "Stcrt.2018-58299"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-09"
-intitule_published: "2018-10-15"
-intitule_in_force: "2018-10-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-58299"
-original_signed_date: "2018-10-09"
-original_published_date: "2018-10-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-58299"
-entry_into_force_date: "2018-10-16"
-jci_1_3: "jci1.3:c:BWBR0041444&z=2018-10-16&g=2018-10-16"
-jci_1_0: "1.0:c:BWBR0041444&g=2018-10-16"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht"
-signed_date: "2018-10-09"
-entry_into_force: "2018-10-16"
+publicatiedatum: 2018-10-16
+laatste_update: 2018-10-16
+status: geldig
+toestand: 2018-10-16
+bron: "https://wetten.overheid.nl/BWBR0041444"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Staatssecretaris van Justitie en Veiligheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 oktober 2018, nr. 2381058, houdende instelling van de Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht (Instellingsregeling Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **Staatssecretaris:** de Staatssecretaris van Justitie en Veiligheid;
+- a. *Staatssecretaris:* de Staatssecretaris van Justitie en Veiligheid;
 
-- b. **Commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041444&artikel=2&z=2018-10-16&g=2018-10-16).
+- b. *Commissie:* de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041444&artikel=2&z=2018-10-16&g=2018-10-16).
 
 ##### Artikel 2
 
@@ -93,5 +65,3 @@ De Commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Instellingsregeling Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

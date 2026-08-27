@@ -1,56 +1,30 @@
 ---
 title: "Regeling van 20 september 2018 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie houdende het stellen van regels met betrekking tot een Unit Veiligheidsonderzoeken (Regeling UVO 2018)"
+citeertitel: "Regeling UVO 2018"
 identifier: "BWBR0041396"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041396"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14822033"
-version_id: "25341752"
-internal_id: "C36188381"
-label_id: "14774104"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041396/2020-01-01/0"
-intitule_bron: "Stcrt.2018-53581"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-20"
-intitule_published: "2018-09-28"
-intitule_in_force: "2018-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-53581"
-original_signed_date: "2018-09-20"
-original_published_date: "2018-09-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-53581"
-entry_into_force_date: "2018-10-01"
-jci_1_3: "jci1.3:c:BWBR0041396&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0041396&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling UVO 2018"
-signed_date: "2018-09-20"
-entry_into_force: "2018-10-01"
+publicatiedatum: 2018-10-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0041396"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van 20 september 2018 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie houdende het stellen van regels met betrekking tot een Unit Veiligheidsonderzoeken (Regeling UVO 2018)
-
-Gelet op [artikel 86, vierde lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=86),
-
-Besluiten:
 
 ##### Artikel 1. Algemene bepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **b-taak:** taakuitvoering van de diensten uit hoofde van [artikel 8, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8), en [artikel 10, tweede lid, onder b, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10);
+- – *b-taak:* taakuitvoering van de diensten uit hoofde van [artikel 8, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8), en [artikel 10, tweede lid, onder b, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10);
 
-- –. **bestuursraad UVO:** de bestuursraad bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=4&z=2020-01-01&g=2020-01-01);
+- – *bestuursraad UVO:* de bestuursraad bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=4&z=2020-01-01&g=2020-01-01);
 
-- –. **diensten:** Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en Militaire Inlichtingen- en Veiligheidsdienst (MIVD);
+- – *diensten:* Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en Militaire Inlichtingen- en Veiligheidsdienst (MIVD);
 
-- –. **UVO:** Unit Veiligheidsonderzoeken.
+- – *UVO:* Unit Veiligheidsonderzoeken.
 
 ##### Artikel 2. Taakomschrijving
 
@@ -116,10 +90,8 @@ De UVO wordt gezamenlijk gefinancierd door de Minister van Binnenlandse Zaken en
 
 ##### Artikel 8. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 oktober 2018.
+Deze regeling treedt in werking met ingang van 1 oktober 2018.
 
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling UVO 2018.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

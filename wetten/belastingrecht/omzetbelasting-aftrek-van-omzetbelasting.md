@@ -8,7 +8,7 @@ laatste_update: 2026-08-25
 status: geldig
 toestand: 2026-08-25
 bron: "https://wetten.overheid.nl/BWBR0044485"
-opgehaald: 2026-08-26
+opgehaald: 2026-08-27
 ---
 
 # Omzetbelasting, aftrek van omzetbelasting

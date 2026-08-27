@@ -1,64 +1,33 @@
 ---
 title: "Besluit van 27 augustus 2018, houdende regels met betrekking tot specifieke uitkeringen ten behoeve van het gemeentelijk onderwijsachterstandenbeleid (Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid)"
+citeertitel: "Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid"
 identifier: "BWBR0041370"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-04-01"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041370"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "14804463"
-version_id: "25313682"
-internal_id: "C36156691"
-label_id: "14756564"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041370/2022-04-01/0"
-intitule_bron: "Stb.2018-315"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-08-27"
-intitule_published: "2018-09-27"
-intitule_in_force: "2018-09-27"
-intitule_status: "goed"
-original_publication: "Stb.2018-315"
-original_signed_date: "2018-08-27"
-original_published_date: "2018-09-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-315"
-entry_into_force_date: "2018-09-28"
-jci_1_3: "jci1.3:c:BWBR0041370&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBR0041370&g=2022-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid"
-signed_date: "2018-08-27"
-entry_into_force: "2018-09-28"
+publicatiedatum: 2018-09-28
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBR0041370"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 27 augustus 2018, houdende regels met betrekking tot specifieke uitkeringen ten behoeve van het gemeentelijk onderwijsachterstandenbeleid (Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid)
-
-Op de voordracht van Onze Minister voor Basis- en Voortgezet Onderwijs en Media, van 11 juli 2018, nr. WJZ/1381192 (7895), directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 168a, eerste en derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=168a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 18 juli 2018, nr.W05.18.0205/l);
-
-Gezien het nader rapport van Onze Minister voor Basis- en Voortgezet Onderwijs en Media van 22 augustus 2018, nr. WJZ/1393520 (7895), directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **basisschool:** basisschool als bedoeld in [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), niet zijnde een school als bedoeld in [artikel 193 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193);
+- *basisschool:* basisschool als bedoeld in [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), niet zijnde een school als bedoeld in [artikel 193 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193);
 
-- **onderwijsscore:** verwachte score van een kind in de leeftijd van 2,5 jaar tot 4 jaar of van een leerling van een basisschool die op basis van statistische gegevens door het Centraal bureau voor de statistiek wordt bepaald;
+- *onderwijsscore:* verwachte score van een kind in de leeftijd van 2,5 jaar tot 4 jaar of van een leerling van een basisschool die op basis van statistische gegevens door het Centraal bureau voor de statistiek wordt bepaald;
 
-- **achterstandsscore:** overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=3&z=2022-04-01&g=2022-04-01) berekende score van een gemeente voor de toekenning van een specifieke uitkering gemeentelijk onderwijsachterstandenbeleid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=2&z=2022-04-01&g=2022-04-01);
+- *achterstandsscore:* overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=3&z=2022-04-01&g=2022-04-01) berekende score van een gemeente voor de toekenning van een specifieke uitkering gemeentelijk onderwijsachterstandenbeleid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=2&z=2022-04-01&g=2022-04-01);
 
-- **teldatum:** datum als bedoeld in [artikel 118, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=118);
+- *teldatum:* datum als bedoeld in [artikel 118, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=118);
 
-- **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
+- *WPO:*
+ [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
 ##### Artikel 2. Criterium in aanmerking komen voor specifieke uitkering
 
@@ -76,14 +45,14 @@ Een gemeente komt in een kalenderjaar in aanmerking voor een uitkering als bedoe
 
 | A = | som van de uitkomsten van de formule C – D voor alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van de basisscholen in de gemeente die behoren tot de 15% van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van alle basisscholen met de laagste onderwijsscore, waarbij: |
 | --- | --- |
-|   |   |
-|   | C = landelijk gemiddelde onderwijsscore van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van alle basisscholen; |
-|   | D = onderwijsscore van het kind in de leeftijd van 2,5 jaar tot 4 jaar of de leerling van een basisschool in de gemeente. |
+|  |  |
+|  | C = landelijk gemiddelde onderwijsscore van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van alle basisscholen; |
+|  | D = onderwijsscore van het kind in de leeftijd van 2,5 jaar tot 4 jaar of de leerling van een basisschool in de gemeente. |
 | B = | E x F x (C−G) waarbij |
-|   | E = het aantal kinderen in de leeftijd van 2,5 jaar tot 4 jaar en aantal leerlingen van de basisscholen in de gemeente; |
-|   | F = 5%; |
-|   | C = landelijk gemiddelde onderwijsscore van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van alle basisscholen; |
-|   | G = landelijk gemiddelde onderwijsscore van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van de basisscholen in de gemeente die behoren tot de 15% van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van alle basisscholen met de laagste onderwijsscore. |
+|  | E = het aantal kinderen in de leeftijd van 2,5 jaar tot 4 jaar en aantal leerlingen van de basisscholen in de gemeente; |
+|  | F = 5%; |
+|  | C = landelijk gemiddelde onderwijsscore van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van alle basisscholen; |
+|  | G = landelijk gemiddelde onderwijsscore van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van de basisscholen in de gemeente die behoren tot de 15% van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar en alle leerlingen van alle basisscholen met de laagste onderwijsscore. |
 
 3. De achterstandsscore wordt rekenkundig afgerond op twee decimalen. Indien de achterstandsscore negatief is, wordt deze gelijkgesteld aan nul.
 
@@ -105,29 +74,29 @@ en
 
 K = de helft van de som van de achterstandsscores van alle gemeenten gezamenlijk zoals door het Centraal bureau voor de statistiek is vastgesteld op basis van de onderwijsscores op de teldata één jaar en twee jaar voorafgaand aan het betreffende kalenderjaar.
 
-2. Indien de factor A bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=3&z=2022-04-01&g=2022-04-01), op de teldatum één jaar of twee jaar voorafgaand aan het betreffende kalenderjaar groter is dan 0 en de hoogte van de uitkering berekend op grond van het eerste lid minder bedraagt dan € 64.000, wordt de uitkering voor de betreffende gemeente vastgesteld op € 64.000.
+2. Indien de factor A bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=3&z=2022-04-01&g=2022-04-01), op de teldatum één jaar of twee jaar voorafgaand aan het betreffende kalenderjaar groter is dan 0 en de hoogte van de uitkering berekend op grond van het eerste lid minder bedraagt dan € 64.000, wordt de uitkering voor de betreffende gemeente vastgesteld op € 64.000.
 
 3. In afwijking van het eerste en tweede lid wordt bij de berekening van de achterstandsscore:
 
 - a. voor het kalenderjaar 2022:
 
-- 1°. bij factor H uitgegaan van de onderwijsscores op 1 oktober 2020;
+   - 1°. bij factor H uitgegaan van de onderwijsscores op 1 oktober 2020;
 
-- 2°. bij factor I uitgegaan van de onderwijsscores op 1 oktober 2019;
+   - 2°. bij factor I uitgegaan van de onderwijsscores op 1 oktober 2019;
 
-- 3°. bij factor K uitgegaan van de onderwijsscores op 1 oktober 2020 en 1 oktober 2019;
+   - 3°. bij factor K uitgegaan van de onderwijsscores op 1 oktober 2020 en 1 oktober 2019;
 
-- 4°. in het tweede lid uitgegaan van factor A op 1 oktober 2020 of 1 oktober 2019;
+   - 4°. in het tweede lid uitgegaan van factor A op 1 oktober 2020 of 1 oktober 2019;
 
 - b. voor het kalenderjaar 2023:
 
-- 1°. bij factor H uitgegaan van de onderwijsscores op 1 oktober 2021;
+   - 1°. bij factor H uitgegaan van de onderwijsscores op 1 oktober 2021;
 
-- 2°. bij factor I uitgegaan van de onderwijsscores op 1 oktober 2020;
+   - 2°. bij factor I uitgegaan van de onderwijsscores op 1 oktober 2020;
 
-- 3°. bij factor K uitgegaan van de onderwijsscores op 1 oktober 2021 en 1 oktober 2020;
+   - 3°. bij factor K uitgegaan van de onderwijsscores op 1 oktober 2021 en 1 oktober 2020;
 
-- 4°. in het tweede lid uitgegaan van factor A op 1 oktober 2021 of 1 oktober 2020.
+   - 4°. in het tweede lid uitgegaan van factor A op 1 oktober 2021 of 1 oktober 2020.
 
 ##### Artikel 5. Besteden overschot en mogelijkheid gehele of gedeeltelijke terugvordering
 
@@ -135,13 +104,13 @@ K = de helft van de som van de achterstandsscores van alle gemeenten gezamenlijk
 
 2. Aan het einde van een tijdvak van vier kalenderjaren dient het totaalbedrag aan uitkeringen te zijn besteed aan het doel waarvoor het is bestemd, met dien verstande dat een bedrag ter hoogte van maximaal de helft van de uitkering die is ontvangen in het vierde kalenderjaar kan worden besteed in het volgende vierjarige tijdvak.
 
-3. Het eerste tijdvak van vier kalenderjaren vangt aan op 1 januari 2019.
+3. Het eerste tijdvak van vier kalenderjaren vangt aan op 1 januari 2019.
 
 4. Onverminderd het tweede lid vordert onze minister bedragen terug die blijkens de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), niet zijn besteed aan het doel waar zij voor waren bestemd.
 
 ##### Artikel 6. Overgangsregeling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -150,5 +119,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Griffier van de Tweede Kamer der Staten-Generaal van 25 juli 2018, nr. 18.1694, tot het verlenen van machtiging aan P-Direkt"
+citeertitel: "Besluit machtiging P-Direkt (Staten-Generaal)"
 identifier: "BWBR0041342"
-country: "nl"
-rank: "reglement"
-publication_date: "2018-09-16"
-last_updated: "2018-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041342"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "14798823"
-version_id: "25302082"
-internal_id: "C36138301"
-label_id: "14750944"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041342/2018-09-16/0"
-intitule_bron: "Stcrt.2018-51556"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-04"
-intitule_published: "2018-09-14"
-intitule_in_force: "2018-09-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-51556"
-original_signed_date: "2018-09-04"
-original_published_date: "2018-09-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-51556"
-entry_into_force_date: "2018-09-16"
-jci_1_3: "jci1.3:c:BWBR0041342&z=2018-09-16&g=2018-09-16"
-jci_1_0: "1.0:c:BWBR0041342&g=2018-09-16"
-citeertitel_status: "redactioneel"
-short_title: "Besluit machtiging P-Direkt (Staten-Generaal)"
-signed_date: "2018-09-04"
-entry_into_force: "2018-09-16"
+publicatiedatum: 2018-09-16
+laatste_update: 2018-09-16
+status: geldig
+toestand: 2018-09-16
+bron: "https://wetten.overheid.nl/BWBR0041342"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Griffier van de Tweede Kamer der Staten-Generaal van 25 juli 2018, nr. 18.1694, tot het verlenen van machtiging aan P-Direkt
-
-Handelend in overeenstemming met de Intentieverklaring transitie dienstverlening Tweede Kamer der Staten-Generaal - P-Direkt van 8 januari 2018
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Griffier:** Griffier van de Tweede Kamer der Staten-Generaal;
+- a. *Griffier:* Griffier van de Tweede Kamer der Staten-Generaal;
 
-- b. **Tweede Kamer:** Tweede Kamer der Staten-Generaal;
+- b. *Tweede Kamer:* Tweede Kamer der Staten-Generaal;
 
-- c. **P-Direkt:** de baten-lastendienst, ingesteld bij [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025362) van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën van 11 februari 2009;
+- c. *P-Direkt:* de baten-lastendienst, ingesteld bij [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025362) van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën van 11 februari 2009;
 
-- d. **machtiging:** de bevoegdheid om in naam van de Griffier feitelijke handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- d. *machtiging:* de bevoegdheid om in naam van de Griffier feitelijke handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 
@@ -91,5 +65,3 @@ De directeur P-Direkt kan met betrekking tot zijn bevoegdheden, bedoeld in [arti
 1. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 2. Alle besluiten van voor inwerkingtreding van dit besluit, inhoudende een machtiging aan P-Direkt of zijn rechtsvoorganger tot het verrichten van feitelijke handelingen op het gebied van personeels- en salarisadministratie, worden ingetrokken per datum van inwerkingtreding van dit besluit.
-
-Dit besluit zal in de Staatscourant worden gepubliceerd.

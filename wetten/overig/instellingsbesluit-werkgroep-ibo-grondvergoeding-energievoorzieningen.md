@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Financiën, van 9 mei 2018, nr. 2018-69788, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) grondvergoeding energievoorzieningen (Instellingsbesluit werkgroep IBO grondvergoeding energievoorzieningen)"
+citeertitel: "Instellingsbesluit Werkgroep IBO grondvergoeding energievoorzieningen"
 identifier: "BWBR0040924"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-05-24"
-last_updated: "2018-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040924"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14613543"
-version_id: "25021452"
-internal_id: "C35785831"
-label_id: "14567024"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040924/2018-05-24/0"
-intitule_bron: "Stcrt.2018-28098"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-09"
-intitule_published: "2018-05-23"
-intitule_in_force: "2018-05-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-28098"
-original_signed_date: "2018-05-09"
-original_published_date: "2018-05-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-28098"
-entry_into_force_date: "2018-05-24"
-jci_1_3: "jci1.3:c:BWBR0040924&z=2018-05-24&g=2018-05-24"
-jci_1_0: "1.0:c:BWBR0040924&g=2018-05-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Werkgroep IBO grondvergoeding energievoorzieningen"
-signed_date: "2018-05-09"
-entry_into_force: "2018-05-24"
+publicatiedatum: 2018-05-24
+laatste_update: 2018-05-24
+status: geldig
+toestand: 2018-05-24
+bron: "https://wetten.overheid.nl/BWBR0040924"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Financiën, van 9 mei 2018, nr. 2018-69788, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) grondvergoeding energievoorzieningen (Instellingsbesluit werkgroep IBO grondvergoeding energievoorzieningen)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Financiën;
+- a. *Minister:* Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040924&artikel=2&z=2018-05-24&g=2018-05-24).
+- b. *werkgroep:* werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040924&artikel=2&z=2018-05-24&g=2018-05-24).
 
 ##### Artikel 2. Instelling en taak
 
@@ -64,17 +38,17 @@ In dit besluit wordt verstaan onder:
 
 3. Tot leden van de werkgroep worden benoemd:
 
-- –. de heer drs. J.M.C. Smallenbroek (Ministerie van Economische Zaken en Klimaat),
+- – de heer drs. J.M.C. Smallenbroek (Ministerie van Economische Zaken en Klimaat),
 
-- –. de heer ir. G.J. Weenink (Ministerie van Financiën)
+- – de heer ir. G.J. Weenink (Ministerie van Financiën)
 
-- –. de heer ir. B.M.E. Geurts (Ministerie van Algemene Zaken)
+- – de heer ir. B.M.E. Geurts (Ministerie van Algemene Zaken)
 
-- –. de heer drs. C.G. Holl (Ministerie van Landbouw, Natuur en Voedselkwaliteit)
+- – de heer drs. C.G. Holl (Ministerie van Landbouw, Natuur en Voedselkwaliteit)
 
-- –. de heer drs. R. Mol (Rijksvastgoedbedrijf)
+- – de heer drs. R. Mol (Rijksvastgoedbedrijf)
 
-- –. de heer drs. ing. D.L.M. Slangen (Ministerie van Infrastructuur en Waterstaat)
+- – de heer drs. ing. D.L.M. Slangen (Ministerie van Infrastructuur en Waterstaat)
 
 4. De leden van de werkgroep werkzaam voor de overheid kunnen bij afwezigheid of verandering van baan vervangen worden door een collega van dezelfde werkgever.
 
@@ -115,5 +89,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep IBO grondvergoeding energievoorzieningen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,118 +1,92 @@
 ---
 title: "Regeling van de Minister voor Medische Zorg van 26 november 2018, kenmerk 1451474-184520-MEVA, houdende regels voor subsidiëring van opleidingsactiviteiten in de ziekenhuiszorg (Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019)"
+citeertitel: "Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019"
 identifier: "BWBR0041610"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-10-01"
-last_updated: "2019-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041610"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14889043"
-version_id: "25464892"
-internal_id: "C36339531"
-label_id: "14840454"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041610/2019-10-01/0"
-intitule_bron: "Stcrt.2018-67824"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-26"
-intitule_published: "2018-12-03"
-intitule_in_force: "2018-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-67824"
-original_signed_date: "2018-11-26"
-original_published_date: "2018-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-67824"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041610&z=2019-10-01&g=2019-10-01"
-jci_1_0: "1.0:c:BWBR0041610&g=2019-10-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019"
-signed_date: "2018-11-26"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-10-01
+status: geldig
+toestand: 2019-10-01
+bron: "https://wetten.overheid.nl/BWBR0041610"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister voor Medische Zorg van 26 november 2018, kenmerk 1451474-184520-MEVA, houdende regels voor subsidiëring van opleidingsactiviteiten in de ziekenhuiszorg (Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **activiteitenverslag:** een verslag waar een werknemersvertegenwoordiging mee heeft ingestemd en waarvan de opbouw overeenkomt met de opbouw van het jaarplan, behorend bij het strategisch opleidingsplan en dat:
+- *activiteitenverslag:* een verslag waar een werknemersvertegenwoordiging mee heeft ingestemd en waarvan de opbouw overeenkomt met de opbouw van het jaarplan, behorend bij het strategisch opleidingsplan en dat:
 
-- a. een overzicht bevat van het gerealiseerde jaarplan waarvoor subsidie is verstrekt;
+   - a. een overzicht bevat van het gerealiseerde jaarplan waarvoor subsidie is verstrekt;
 
-- b. de aard, omvang, duur en wijze van uitvoering beschrijft van het gerealiseerde jaarplan waarvoor subsidie is verstrekt;
+   - b. de aard, omvang, duur en wijze van uitvoering beschrijft van het gerealiseerde jaarplan waarvoor subsidie is verstrekt;
 
-- c. de met het jaarplan gerealiseerde doelstellingen, resultaten of producten beschrijft;
+   - c. de met het jaarplan gerealiseerde doelstellingen, resultaten of producten beschrijft;
 
-- d. voor zover van toepassing, beschrijft in hoeverre is voldaan aan de aan de subsidie verbonden verplichtingen, en
+   - d. voor zover van toepassing, beschrijft in hoeverre is voldaan aan de aan de subsidie verbonden verplichtingen, en
 
-- e. voor zover van toepassing, een vergelijking bevat van het gerealiseerde jaarplan met het voorgenomen jaarplan en een toelichting op de verschillen geeft.
+   - e. voor zover van toepassing, een vergelijking bevat van het gerealiseerde jaarplan met het voorgenomen jaarplan en een toelichting op de verschillen geeft.
 
-- **financieel verslag:** een verslag dat opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld accountantsprotocol, bekend gemaakt op de website www.rijksoverheid.nl.
+- *financieel verslag:* een verslag dat opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld accountantsprotocol, bekend gemaakt op de website www.rijksoverheid.nl.
 
-- a. volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de kosten en opbrengsten van het gerealiseerde jaarplan waarvoor de subsidie is verleend;
+   - a. volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de kosten en opbrengsten van het gerealiseerde jaarplan waarvoor de subsidie is verleend;
 
-- b. aansluit bij de begroting en de nodige informatie geeft om de subsidie vast te stellen;
+   - b. aansluit bij de begroting en de nodige informatie geeft om de subsidie vast te stellen;
 
-- c. per post is voorzien van een toelichting, en
+   - c. per post is voorzien van een toelichting, en
 
-- d. vergezeld gaat van:
+   - d. vergezeld gaat van:
 
-- 1°. een controleverklaring, en
+      - 1°. een controleverklaring, en
 
-- 2°. een rapport van feitelijke bevindingen omtrent de naleving van de aan de verleende subsidie verbonden verplichtingen door de subsidieontvanger,
+      - 2°. een rapport van feitelijke bevindingen omtrent de naleving van de aan de verleende subsidie verbonden verplichtingen door de subsidieontvanger,
 
-- **geneeskundige geestelijke gezondheidszorg:** zorg zoals psychiaters en klinisch-psychologen die plegen te bieden, en de eerstelijnspsychologische zorg;
+- *geneeskundige geestelijke gezondheidszorg:* zorg zoals psychiaters en klinisch-psychologen die plegen te bieden, en de eerstelijnspsychologische zorg;
 
-- **instelling:** privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon krachtens publiekrecht ingesteld, die een organisatorisch verband in stand houdt;
+- *instelling:* privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon krachtens publiekrecht ingesteld, die een organisatorisch verband in stand houdt;
 
-- **jaarplan:** een overzicht van het geheel van opleidingsactiviteiten voor 2019, uit te voeren door een instelling, ten behoeve van personen werkzaam voor de instelling dat dient als concrete uitwerking van het strategisch opleidingsplan en waarmee de werknemersvertegenwoordiging heeft ingestemd;
+- *jaarplan:* een overzicht van het geheel van opleidingsactiviteiten voor 2019, uit te voeren door een instelling, ten behoeve van personen werkzaam voor de instelling dat dient als concrete uitwerking van het strategisch opleidingsplan en waarmee de werknemersvertegenwoordiging heeft ingestemd;
 
-- **minister:** Minister voor Medische Zorg;
+- *minister:* Minister voor Medische Zorg;
 
-- **opleidingsactiviteiten:** activiteiten ten behoeve van opleiden, leren en ontwikkelen;
+- *opleidingsactiviteiten:* activiteiten ten behoeve van opleiden, leren en ontwikkelen;
 
-- **organisatorisch verband:** organisatorisch verband voor medisch specialistische zorg, bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2) of de audiologische centra, bedoeld in artikel 1.2, onder 2, van dat besluit;
+- *organisatorisch verband:* organisatorisch verband voor medisch specialistische zorg, bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2) of de audiologische centra, bedoeld in artikel 1.2, onder 2, van dat besluit;
 
-- **personeelskosten:** som van de volgende onderdelen van de bedrijfslasten van het organisatorisch verband in het derde jaar voorafgaand aan het subsidiejaar:
+- *personeelskosten:* som van de volgende onderdelen van de bedrijfslasten van het organisatorisch verband in het derde jaar voorafgaand aan het subsidiejaar:
 
-- 1°. lonen en salarissen;
+   - 1°. lonen en salarissen;
 
-- 2°. sociale lasten;
+   - 2°. sociale lasten;
 
-- 3°. pensioenpremies;
+   - 3°. pensioenpremies;
 
-- 4°. andere personeelskosten.
+   - 4°. andere personeelskosten.
 
-- **strategisch opleidingsplan:** een met een werknemersvertegenwoordiging afgestemd actueel strategisch opleidingsplan waarin in ieder geval de inhoudelijke prioriteiten wat betreft het opleiden van personeel zijn opgenomen;
+- *strategisch opleidingsplan:* een met een werknemersvertegenwoordiging afgestemd actueel strategisch opleidingsplan waarin in ieder geval de inhoudelijke prioriteiten wat betreft het opleiden van personeel zijn opgenomen;
 
-- **subsidiejaar:** kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;
+- *subsidiejaar:* kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;
 
-- **verklaring inzake werkelijke kosten en opbrengsten:** de verklaring waarin de subsidieontvanger aantoont:
+- *verklaring inzake werkelijke kosten en opbrengsten:* de verklaring waarin de subsidieontvanger aantoont:
 
-- a. dat het jaarplan waarvoor de subsidie is verstrekt is voorzien van een korte toelichting,
+   - a. dat het jaarplan waarvoor de subsidie is verstrekt is voorzien van een korte toelichting,
 
-- b. dat aan de verleende subsidie verbonden verplichtingen is voldaan,
+   - b. dat aan de verleende subsidie verbonden verplichtingen is voldaan,
 
-- c. wat het totale bedrag van de gerealiseerde kosten van de opleidingsactiviteiten waarvoor de subsidie is verleend en die werkelijk verricht zijn is.
+   - c. wat het totale bedrag van de gerealiseerde kosten van de opleidingsactiviteiten waarvoor de subsidie is verleend en die werkelijk verricht zijn is.
 
-- **Zvw-omzet:** som van de volgende onderdelen van de bedrijfsopbrengsten van het organisatorisch verband die met het verlenen van zorg in het kader van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) in het derde jaar voorafgaand aan het subsidiejaar zijn behaald zoals deze zijn verantwoord in de jaarrekening over dat jaar:
+- *Zvw-omzet:* som van de volgende onderdelen van de bedrijfsopbrengsten van het organisatorisch verband die met het verlenen van zorg in het kader van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) in het derde jaar voorafgaand aan het subsidiejaar zijn behaald zoals deze zijn verantwoord in de jaarrekening over dat jaar:
 
-- 1°. Beschikbaarheidbijdragen Zorg;
+   - 1°. Beschikbaarheidbijdragen Zorg;
 
-- 2°. Beschikbaarheidbijdragen Opleidingen;
+   - 2°. Beschikbaarheidbijdragen Opleidingen;
 
-- 3°. Opbrengsten [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+   - 3°. Opbrengsten [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
 Op deze regeling zijn de definities van het activiteitenverslag, het financieel verslag, de verklaring inzake werkelijke kosten en opbrengsten, instelling en minister als bedoeld in [artikel 1.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1) niet van toepassing. [Artikel 10.1 van deze Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) is evenmin van toepassing.
 
@@ -194,25 +168,25 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 1. In geval van overtekening van het subsidieplafond wordt het uit hoofde van het subsidieplafond beschikbare bedrag voor de ziekenhuizen en de klinieken verdeeld en krijgt het organisatorisch verband in eerste instantie het aangevraagde bedrag toegewezen tot het maximum van de formule (A / B) * C = D, waarbij wordt verstaan onder:
 
-**A:** de Zvw-omzet van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
+*A:* de Zvw-omzet van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
 
-**B:** de som van de Zvw-omzet van alle organisatorische verbanden ten behoeve waarvan subsidie wordt verstrekt;
+*B:* de som van de Zvw-omzet van alle organisatorische verbanden ten behoeve waarvan subsidie wordt verstrekt;
 
-**C:** het uit hoofde van het subsidieplafond beschikbare bedrag;
+*C:* het uit hoofde van het subsidieplafond beschikbare bedrag;
 
-**D:** het maximum bedrag van de subsidie voor het organisatorische verband.
+*D:* het maximum bedrag van de subsidie voor het organisatorische verband.
 
 2. Indien na toepassing van bovenstaande formule het subsidieplafond niet volledig wordt benut, wordt het resterende bedrag verdeeld over de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule onder het eerste lid.
 
 3. Bij een verdeling als bedoeld in het tweede lid, geldt de volgende formule (A / E) * F = G, waarbij wordt verstaan onder:
 
-**A:** de Zvw-omzet van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
+*A:* de Zvw-omzet van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
 
-**E:** de som van de Zvw-omzet van alle organisatorische verbanden die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule onder het eerste lid;
+*E:* de som van de Zvw-omzet van alle organisatorische verbanden die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule onder het eerste lid;
 
-**F:** het uit hoofde van het subsidieplafond resterende beschikbare bedrag;
+*F:* het uit hoofde van het subsidieplafond resterende beschikbare bedrag;
 
-**G:** het aanvullende beschikbare subsidiebedrag voor het organisatorische verband.
+*G:* het aanvullende beschikbare subsidiebedrag voor het organisatorische verband.
 
 4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast totdat het volledige subsidieplafond is bereikt.
 
@@ -224,15 +198,15 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 2. In afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01), wordt voor de universitair medische centra verstaan onder:
 
-**A:** de personeelskosten van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
+*A:* de personeelskosten van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
 
-**B:** de som van de personeelskosten van alle organisatorische verbanden ten behoeve waarvan subsidie wordt verstrekt.
+*B:* de som van de personeelskosten van alle organisatorische verbanden ten behoeve waarvan subsidie wordt verstrekt.
 
 3. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01), wordt voor de universitair medische centra verstaan onder:
 
-**A:** de personeelskosten van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
+*A:* de personeelskosten van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
 
-**E:** de som van de personeelskosten van alle organisatorische verbanden die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule zoals vermeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01).
+*E:* de som van de personeelskosten van alle organisatorische verbanden die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule zoals vermeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01).
 
 ##### Artikel 10. Verantwoording
 
@@ -259,5 +233,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2019 en vervalt met ing
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019.
-
-De regeling zal met de toelichting in de Staatscourant worden geplaatst.

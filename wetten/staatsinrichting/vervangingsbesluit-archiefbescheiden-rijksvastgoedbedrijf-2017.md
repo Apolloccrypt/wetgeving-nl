@@ -1,44 +1,18 @@
 ---
 title: "Besluit tot digitale vervanging van papieren archiefbescheiden van het Rijksvastgoedbedrijf, onderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (Vervangingsbesluit archiefbescheiden Rijksvastgoedbedrijf 2017)"
+citeertitel: "Vervangingsbesluit archiefbescheiden Rijksvastgoedbedrijf 2017"
 identifier: "BWBR0041000"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-06-12"
-last_updated: "2018-06-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041000"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "14631943"
-version_id: "25055302"
-internal_id: "C35832531"
-label_id: "14584834"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041000/2018-06-12/0"
-intitule_bron: "Stcrt.2018-31899"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-06-01"
-intitule_published: "2018-06-11"
-intitule_in_force: "2018-06-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-31899"
-original_signed_date: "2018-06-01"
-original_published_date: "2018-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-31899"
-entry_into_force_date: "2018-06-12"
-jci_1_3: "jci1.3:c:BWBR0041000&z=2018-06-12&g=2018-06-12"
-jci_1_0: "1.0:c:BWBR0041000&g=2018-06-12"
-citeertitel_status: "officieel"
-short_title: "Vervangingsbesluit archiefbescheiden Rijksvastgoedbedrijf 2017"
-signed_date: "2018-06-01"
-entry_into_force: "2018-06-12"
+publicatiedatum: 2018-06-12
+laatste_update: 2018-06-12
+status: geldig
+toestand: 2018-06-12
+bron: "https://wetten.overheid.nl/BWBR0041000"
+opgehaald: 2026-08-27
 ---
+
 # Besluit tot digitale vervanging van papieren archiefbescheiden van het Rijksvastgoedbedrijf, onderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (Vervangingsbesluit archiefbescheiden Rijksvastgoedbedrijf 2017)
-
-Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -63,5 +37,3 @@ Vervangingsbesluit archiefbescheiden Rijksvastgoedbedrijf 2017.
 Dit besluit vervangt de eerdere besluiten voor digitale vervanging van het Rijksvastgoedbedrijf (en voorgangers).
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt gepubliceerd.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,75 +1,50 @@
 ---
 title: "Klachtenregeling MIVD"
 identifier: "BWBR0040905"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040905"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14610463"
-version_id: "25016452"
-internal_id: "C35780331"
-label_id: "14564154"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040905/2018-10-01/0"
-intitule_bron: "Stcrt.2018-27787"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-05-09"
-intitule_published: "2018-05-18"
-intitule_in_force: "2018-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-27787"
-original_signed_date: "2018-05-09"
-original_published_date: "2018-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-27787"
-entry_into_force_date: "2018-05-19"
-jci_1_3: "jci1.3:c:BWBR0040905&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0040905&g=2018-10-01"
-citeertitel_status: "officieel"
-signed_date: "2018-05-09"
-entry_into_force: "2018-05-19"
+publicatiedatum: 2018-05-19
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0040905"
+opgehaald: 2026-08-27
 ---
+
 # Klachtenregeling MIVD
-
-Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en [paragraaf 7.2.3. van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&sub-paragraaf=7.2.3);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **directeur:** de directeur van de Militaire Inlichtingen- en Veiligheidsdienst;
+- a. *directeur:* de directeur van de Militaire Inlichtingen- en Veiligheidsdienst;
 
-- b. **MIVD:** de Militaire Inlichtingen- en Veiligheidsdienst;
+- b. *MIVD:* de Militaire Inlichtingen- en Veiligheidsdienst;
 
-- c. **minister:** de Minister van Defensie;
+- c. *minister:* de Minister van Defensie;
 
-- d. **secretaris-generaal (SG):** de secretaris-generaal van het ministerie van Defensie;
+- d. *secretaris-generaal (SG):* de secretaris-generaal van het ministerie van Defensie;
 
-- e. **leidinggevende:** de persoon die de hoogste zeggenschap uitoefent binnen een team of afdeling;
+- e. *leidinggevende:* de persoon die de hoogste zeggenschap uitoefent binnen een team of afdeling;
 
-- f. **klager:** de indiener van een klacht;
+- f. *klager:* de indiener van een klacht;
 
-- g. **klacht:** uiting van ongenoegen over de wijze waarop een bestuursorgaan dan wel een persoon die werkzaam is onder verantwoordelijkheid van een bestuursorgaan zich heeft gedragen;
+- g. *klacht:* uiting van ongenoegen over de wijze waarop een bestuursorgaan dan wel een persoon die werkzaam is onder verantwoordelijkheid van een bestuursorgaan zich heeft gedragen;
 
-- h. **klachtbehandeling:** het onderzoeken van een klacht met inachtneming van [afdeling 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.2). en [9.1.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3);
+- h. *klachtbehandeling:* het onderzoeken van een klacht met inachtneming van [afdeling 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.2). en [9.1.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3);
 
-- i. **klachtafdoening:** de klager schriftelijk en gemotiveerd in kennis stellen van de bevindingen van het onderzoek naar de klacht alsmede van de eventuele conclusies die daaraan worden verbonden als bedoeld in [artikel 9:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12);
+- i. *klachtafdoening:* de klager schriftelijk en gemotiveerd in kennis stellen van de bevindingen van het onderzoek naar de klacht alsmede van de eventuele conclusies die daaraan worden verbonden als bedoeld in [artikel 9:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12);
 
-- j. **klachtcoördinatiepunt MIVD:** centraal punt binnen de MIVD, onder leiding van de klachtcoördinator, waar alle klachten binnenkomen. Het klachtcoördinatiepunt MIVD is telefonisch, per e-mail en per post te bereiken aangaande klachten;
+- j. *klachtcoördinatiepunt MIVD:* centraal punt binnen de MIVD, onder leiding van de klachtcoördinator, waar alle klachten binnenkomen. Het klachtcoördinatiepunt MIVD is telefonisch, per e-mail en per post te bereiken aangaande klachten;
 
-- k. **interne commissie klachtbehandeling:** één of twee juristen, een beleidsondersteunend medewerker en een ondersteunend medewerker;
+- k. *interne commissie klachtbehandeling:* één of twee juristen, een beleidsondersteunend medewerker en een ondersteunend medewerker;
 
-- l. **klachtcoördinator:** een door de directeur van de MIVD aan te wijzen medewerker van de MIVD, welke is belast met de coördinatie van de klachtbehandeling;
+- l. *klachtcoördinator:* een door de directeur van de MIVD aan te wijzen medewerker van de MIVD, welke is belast met de coördinatie van de klachtbehandeling;
 
-- m. **afdeling klachtbehandeling:** afdeling klachtbehandeling van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (CTIVD);
+- m. *afdeling klachtbehandeling:* afdeling klachtbehandeling van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (CTIVD);
 
-- n. **Wiv 2017:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
+- n. *Wiv 2017:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
 
 ##### Artikel 2. Doel en reikwijdte
 
@@ -214,5 +189,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Klachtenregeling MIVD.
-
-Deze regeling zal met de toelichting worden geplaatst in de Staatscourant.

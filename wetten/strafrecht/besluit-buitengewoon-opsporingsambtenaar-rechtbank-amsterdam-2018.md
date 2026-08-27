@@ -1,56 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 10 april 2018, nr. BOACAT2018/019, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het team Beveiliging, Bewaking en Vervoer (BB&V) van de rechtbank Amsterdam"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar rechtbank Amsterdam 2018"
 identifier: "BWBR0040834"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040834"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-stam_id: "14593023"
-version_id: "24985202"
-internal_id: "C35727891"
-label_id: "14546634"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040834/2018-10-01/0"
-intitule_bron: "Stcrt.2018-21593"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-10"
-intitule_published: "2018-04-19"
-intitule_in_force: "2018-04-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-21593"
-original_signed_date: "2018-04-10"
-original_published_date: "2018-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-21593"
-entry_into_force_date: "2018-10-01"
-jci_1_3: "jci1.3:c:BWBR0040834&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0040834&g=2018-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar rechtbank Amsterdam 2018"
-signed_date: "2018-04-10"
-entry_into_force: "2018-10-01"
+publicatiedatum: 2018-10-01
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0040834"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 10 april 2018, nr. BOACAT2018/019, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het team Beveiliging, Bewaking en Vervoer (BB&V) van de rechtbank Amsterdam
-
-Gelezen het verzoek van de rechtbank Amsterdam van 26 maart 2018 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Amsterdam en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -70,7 +32,7 @@ zijn aangewezen als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, als genoemd in [onderdeel 11.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, als genoemd in [onderdeel 11.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/BWBR0039766).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -117,5 +79,3 @@ Dit besluit treedt in werking met ingang van 1 oktober 2018 en vervalt met ingan
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar rechtbank Amsterdam 2018.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

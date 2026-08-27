@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 1 oktober 2018, kenmerk 2365132, houdende regels voor subsidiëring van activiteiten van instellingen voor Forensische Psychiatrische Klinieken en Forensische Psychiatrische Afdelingen gericht op de verbetering van hun positie op de arbeidsmarkt (Subsidieregeling Arbeidsmarktimpuls forensische zorg)"
+citeertitel: "Subsidieregeling Arbeidsmarktimpuls forensische zorg"
 identifier: "BWBR0041420"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-10-06"
-last_updated: "2018-10-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041420"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "14826843"
-version_id: "25350112"
-internal_id: "C36198771"
-label_id: "14778944"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041420/2018-10-06/0"
-intitule_bron: "Stcrt.2018-56484"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-01"
-intitule_published: "2018-10-05"
-intitule_in_force: "2018-10-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-56484"
-original_signed_date: "2018-10-01"
-original_published_date: "2018-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-56484"
-entry_into_force_date: "2018-10-06"
-jci_1_3: "jci1.3:c:BWBR0041420&z=2018-10-06&g=2018-10-06"
-jci_1_0: "1.0:c:BWBR0041420&g=2018-10-06"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Arbeidsmarktimpuls forensische zorg"
-signed_date: "2018-10-01"
-entry_into_force: "2018-10-06"
+publicatiedatum: 2018-10-06
+laatste_update: 2018-10-06
+status: geldig
+toestand: 2018-10-06
+bron: "https://wetten.overheid.nl/BWBR0041420"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 1 oktober 2018, kenmerk 2365132, houdende regels voor subsidiëring van activiteiten van instellingen voor Forensische Psychiatrische Klinieken en Forensische Psychiatrische Afdelingen gericht op de verbetering van hun positie op de arbeidsmarkt (Subsidieregeling Arbeidsmarktimpuls forensische zorg)
-
-Gelet op [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **accountant:** accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
+- a. *accountant:* accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
 
-- b. **FPA:** een Forensisch psychiatrische Afdeling genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041420&bijlage=1&z=2018-10-06&g=2018-10-06) bij deze regeling;
+- b. *FPA:* een Forensisch psychiatrische Afdeling genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041420&bijlage=1&z=2018-10-06&g=2018-10-06) bij deze regeling;
 
-- c. **FPK:** een Forensisch Psychiatrische Kliniek genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041420&bijlage=1&z=2018-10-06&g=2018-10-06) bij deze regeling;
+- c. *FPK:* een Forensisch Psychiatrische Kliniek genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041420&bijlage=1&z=2018-10-06&g=2018-10-06) bij deze regeling;
 
-- d. **jaarrekening:** jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361).
+- d. *jaarrekening:* jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361).
 
-- e. **Minister:** Minister voor Rechtsbescherming
+- e. *Minister:* Minister voor Rechtsbescherming
 
-- f. **personeel:** de natuurlijke personen die op basis van een schriftelijke arbeidsovereenkomst werkzaam zijn bij de FPA of FPK waarvoor de subsidie wordt aangevraagd;
+- f. *personeel:* de natuurlijke personen die op basis van een schriftelijke arbeidsovereenkomst werkzaam zijn bij de FPA of FPK waarvoor de subsidie wordt aangevraagd;
 
 ##### Artikel 2. Te subsidiëren activiteiten
 
@@ -187,131 +161,3 @@ In deze regeling wordt verstaan onder:
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Arbeidsmarktimpuls forensische zorg.
-
-## Bijlage 1
-
-- 1). FPA Aventurijn (Den Dolder)
-
-- 2). FPA GGz Westelijk Noord-Brabant (Halsteren)
-
-- 3). FPA GGz Friesland (Franeker)
-
-- 4). FPA Reinier van Arkel (Vught)
-
-- 5). FPA De Kijvelanden (Poortugaal)
-
-- 6). FPA De Woenselse Poort (Eindhoven)
-
-- 7). FPA Pro Persona (Wolfheze)
-
-- 8). FPA GGz Noord-Holland-Noord (Heiloo)
-
-- 9). FPA GGNet (Warnsveld)
-
-- 10). FPA Palier (Den Haag)
-
-- 11). FPA Radix (Heerlen)
-
-- 12). FPA Lentis (Zuidlaren)
-
-- 13). FPA Transfore (Almelo)
-
-- 14). FPA Vincent van Gogh (Venray)
-
-- 15). FPA GGz Drenthe (Assen)
-
-- 16). SGLVG+ Ipse de Bruggen (Poortugaal)
-
-- 17). SGLVG+ Trajectum (Rekken en Westerveld)
-
-- 18). SGLVG+ Stevig/Dichterbij (Oostrum)
-
-- 19). SGLVG+ Aventurijn (Den Dolder)
-
-- 20). FVA Palier (Den Haag)
-
-- 21). FVA Tactus (Zutphen)
-
-- 22). FVA Novadic Kentron (Vught)
-
-- 1). FPK Hoeve Boschoord (Westerveld)
-
-- 2). FPK Arkin (Amsterdam)
-
-- 3). FPK GGz Drenthe (Assen)
-
-- 4). FPK De Woenselse Poort (Eindhoven)
-
-- 5). FPK De Kijvelanden (Poortugaal)
-
-- 6). FPK Veldzicht (Balkbrug)
-
-- 7). FPK Transfore (Balkbrug)
-
-- 8). FVK Oostvaarderskliniek (Almere)
-
-- 9). FVK Antes (Poortugaal)
-
-- 10). FVK Tactus (Zutphen)
-
-- 11). FPK De Rooyse Wissel (Oostrum)
-
-- 12). FPK Van der Hoeven (Utrecht)
-
-## Bijlage 2. Aanvraagformulier subsidie Impuls arbeidsmarkt forensische zorg
-
-### Algemene gegevens aanvrager
-
-1 Zoals gecontracteerd door DJI in 2017.
-
-2 Bent u BTW-plichtig voor deze activiteit(en), dan mag u de btw niet opvoeren in de begroting. U verrekent de btw in uw aangifte omzetbelasting. Wanneer u niet btw-plichtig bent, dan kunt u de btw over bepaalde kostenposten, zoals bijvoorbeeld kosten derden, meenemen in de begroting.
-
-### Activiteiten subsidie
-
-Geef een opsomming van de activiteiten waarvoor u subsidie aanvraagt.
-
-### Activiteitenplan per activiteit
-
-Geef een heldere omschrijving van de aard, omvang, duur en wijze van uitvoering van de activiteit en hoe deze bijdragen aan de doelen van de Meerjarenovereenkomst forensische zorg 2018–2021. Geef ook aan welke bijlages u heeft toegevoegd ter onderbouwing.
-
-Klik hier als u tekst wilt invoeren.
-
-### Resultaat en of product per activiteit
-
-Wat is het verwachte resultaat van de activiteiten? Omschrijf het resultaat zo SMART mogelijk.
-
-Klik hier als u tekst wilt invoeren.
-
-### Randvoorwaarden
-
-Welke randvoorwaarden zijn nodig voor het uitvoeren van de activiteiten en hoe wordt aan deze randvoorwaarden voldaan?
-
-Klik hier als u tekst wilt invoeren.
-
-### Begroting
-
-Geef per activiteit een overzicht van enodigde subsidie.
-
-### Specificatie begrote kosten en financiering
-
-De begrote kosten per activiteit dienen te worden gespecificeerd naar kostensoort opleidingen, materieel, projectkosten en overige kosten. Nb. Opleidingskosten zijn 50% subsidiabel.
-
-Klik hier als u tekst wilt invoeren.
-
-### Tijdpad per activiteit
-
-Zet per activiteit een zo gedetailleerd mogelijk tijdpad uiteen (i.i.g. per jaar), inclusief oplevering van evt. producten en mijlpalen.
-
-Klik hier als u tekst wilt invoeren.
-
-### Bijlages
-
-□laatst opgemaakte, door accountant goedgekeurde, jaarrekening
-
-□Indien van toepassing opleidingsplan
-
-### Ondertekening
-
-De ondertekenaar verklaart:
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

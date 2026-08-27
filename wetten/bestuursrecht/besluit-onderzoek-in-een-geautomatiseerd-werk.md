@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 28 september 2018, houdende regels over de uitoefening van de bevoegdheid tot het binnendringen in een geautomatiseerd werk en het al dan niet met een technisch hulpmiddel onderzoek doen als bedoeld in de artikelen 126nba, eerste lid, 126uba, eerste lid, en 126zpa, eerste lid van het Wetboek van Strafvordering (Besluit onderzoek in een geautomatiseerd werk)"
+citeertitel: "Besluit onderzoek in een geautomatiseerd werk"
 identifier: "BWBR0041426"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041426"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "14827873"
-version_id: "25352602"
-internal_id: "C36666011"
-label_id: "14780194"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041426/2024-07-01/0"
-intitule_bron: "Stb.2018-340"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-09-28"
-intitule_published: "2018-10-09"
-intitule_in_force: "2019-02-21"
-intitule_status: "goed"
-original_publication: "Stb.2018-340"
-original_signed_date: "2018-09-28"
-original_published_date: "2018-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-340"
-entry_into_force_date: "2019-03-01"
-jci_1_3: "jci1.3:c:BWBR0041426&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0041426&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit onderzoek in een geautomatiseerd werk"
-signed_date: "2018-09-28"
-entry_into_force: "2019-03-01"
+publicatiedatum: 2019-03-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0041426"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van 28 september 2018, houdende regels over de uitoefening van de bevoegdheid tot het binnendringen in een geautomatiseerd werk en het al dan niet met een technisch hulpmiddel onderzoek doen als bedoeld in de artikelen 126nba, eerste lid, 126uba, eerste lid, en 126zpa, eerste lid van het Wetboek van Strafvordering (Besluit onderzoek in een geautomatiseerd werk)
-
-Op de voordracht van de Minister van Justitie en Veiligheid van 30 mei 2018, directie Wetgeving en Juridische Zaken, nr. 2280615;
-
-Gelet op de [artikelen 126nba, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba), [126zpa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa), en [126ee van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ee) en [artikel 18, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 26 juli 2018, nr. W16.18.0125/II);
-
-Gezien het nader rapport van de Minister van Justitie en Veiligheid van 24 september 2018, directie Wetgeving en Juridische Zaken, nr. 2363828;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,21 +20,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **bevel:** bevel van de officier van justitie als bedoeld in de [artikelen 126nba, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba), [126zpa, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa);
+- a. *bevel:* bevel van de officier van justitie als bedoeld in de [artikelen 126nba, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba), [126zpa, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa);
 
-- b. **korpschef:** korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- b. *korpschef:* korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- c. **landelijke eenheid:** een landelijke eenheid als bedoeld in [artikel 3, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=3);
+- c. *landelijke eenheid:* een landelijke eenheid als bedoeld in [artikel 3, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=3);
 
-- d. **onderzoekshandeling:** handeling van een opsporingsambtenaar van een technisch team met het oog op een doel als bedoeld in de [artikelen 126nba, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba), en [126zpa, eerste lid, onder a tot en met e, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa) ter uitvoering van een bevel;
+- d. *onderzoekshandeling:* handeling van een opsporingsambtenaar van een technisch team met het oog op een doel als bedoeld in de [artikelen 126nba, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba), en [126zpa, eerste lid, onder a tot en met e, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa) ter uitvoering van een bevel;
 
-- e. **Onze Minister:** Minister van Justitie en Veiligheid;
+- e. *Onze Minister:* Minister van Justitie en Veiligheid;
 
-- f. **technisch hulpmiddel:** softwareapplicatie die gegevens detecteert, registreert en transporteert en waarmee onderzoekshandelingen worden verricht ter uitvoering van een bevel;
+- f. *technisch hulpmiddel:* softwareapplicatie die gegevens detecteert, registreert en transporteert en waarmee onderzoekshandelingen worden verricht ter uitvoering van een bevel;
 
-- g. **technische infrastructuur:** technische voorziening van een technisch team bedoeld voor de vastlegging van gegevens ter uitvoering van een bevel;
+- g. *technische infrastructuur:* technische voorziening van een technisch team bedoeld voor de vastlegging van gegevens ter uitvoering van een bevel;
 
-- h. **technisch team:** onderdeel van de Eenheid landelijke expertise en operaties dat kan worden belast met de uitvoering van een bevel.
+- h. *technisch team:* onderdeel van de Eenheid landelijke expertise en operaties dat kan worden belast met de uitvoering van een bevel.
 
 ### Hoofdstuk 2. Uitvoering van een bevel met het oog op het vastleggen van gegevens of het ontoegankelijkmaken van gegevens
 
@@ -314,9 +282,9 @@ De keuringsdienst van een onderdeel van de Eenheid landelijke expertise en opera
 
 ### Hoofdstuk 9. Wijziging overige wet- en regelgeving
 
-##### Artikel 30. Wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
+##### Artikel 30. Wijziging Besluit politiegegevens
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
 ### Hoofdstuk 10. Slotbepalingen
 
@@ -327,5 +295,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 32. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit onderzoek in een geautomatiseerd werk.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

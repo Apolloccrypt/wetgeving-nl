@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 november 2018, kenmerk 1437842-183262-ESTT, houdende vaststelling van het vacatiegeld voor personen die lid of plaatsvervangend lid zijn van het Medisch Tuchtcollege bedoeld in artikel 8 van de Wet medisch Tuchtrecht BES (Regeling vacatiegeld Medisch Tuchtcollege BES)"
+citeertitel: "Regeling vacatiegeld Medisch Tuchtcollege BES"
 identifier: "BWBR0041575"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041575"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling-BES"
-stam_id: "14879403"
-version_id: "25447272"
-internal_id: "C36320571"
-label_id: "14830764"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041575/2020-01-01/0"
-intitule_bron: "Stcrt.2018-65928"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-13"
-intitule_published: "2018-11-23"
-intitule_in_force: "2018-11-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-65928"
-original_signed_date: "2018-11-13"
-original_published_date: "2018-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-65928"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041575&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0041575&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vacatiegeld Medisch Tuchtcollege BES"
-signed_date: "2018-11-13"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0041575"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 november 2018, kenmerk 1437842-183262-ESTT, houdende vaststelling van het vacatiegeld voor personen die lid of plaatsvervangend lid zijn van het Medisch Tuchtcollege bedoeld in artikel 8 van de Wet medisch Tuchtrecht BES (Regeling vacatiegeld Medisch Tuchtcollege BES)
-
-Gelet op [artikel 19 van de Wet medisch tuchtrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=19) en [artikel 4 van het Besluit ter uitvoering van de artikelen 16 en 19 van de Wet medisch tuchtrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&artikel=4);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Wet medisch tuchtrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028542);
+- a. *wet:* de [Wet medisch tuchtrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028542);
 
-- b. **College:** het medisch tuchtcollege, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=8);
+- b. *College:* het medisch tuchtcollege, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=8);
 
-- c. **lid:** de voorzitter, de plaatsvervangend voorzitter, de geneeskundige, tandheelkundige, verloskundige en apotheker, bedoeld in [artikel 1, onderdelen a, b, c en d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=1) en hun plaatsvervangers bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=9);
+- c. *lid:* de voorzitter, de plaatsvervangend voorzitter, de geneeskundige, tandheelkundige, verloskundige en apotheker, bedoeld in [artikel 1, onderdelen a, b, c en d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=1) en hun plaatsvervangers bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=9);
 
-- d. **zittingsdag:** elke dag waarop het lid, de secretaris of de plaatsvervangend secretaris op een openbaar lichaam verblijft ter behandeling van voor het College aanhangig gemaakte schriftelijke klachten, alsmede de dag waarop het lid van de woonplaats naar een openbaar lichaam reist en terug.
+- d. *zittingsdag:* elke dag waarop het lid, de secretaris of de plaatsvervangend secretaris op een openbaar lichaam verblijft ter behandeling van voor het College aanhangig gemaakte schriftelijke klachten, alsmede de dag waarop het lid van de woonplaats naar een openbaar lichaam reist en terug.
 
 ##### Artikel 2
 
@@ -76,10 +50,8 @@ Deze regeling is niet van toepassing op leden van het college, de secretaris en 
 
 ##### Artikel 6
 
-Deze regeling treedt in werking met ingang van 1 januari 2019.
+Deze regeling treedt in werking met ingang van 1 januari 2019.
 
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vacatiegeld Medisch Tuchtcollege BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

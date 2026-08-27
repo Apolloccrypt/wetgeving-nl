@@ -1,35 +1,16 @@
 ---
 title: "Circulaire wijziging bezoldiging politieke ambtsdragers waterschappen"
 identifier: "BWBR0041270"
-country: "nl"
-rank: "circulaire"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041270"
+categorie: "Milieu"
 soort: "circulaire"
-stam_id: "14701843"
-version_id: "25192582"
-internal_id: "C36023211"
-label_id: "14653914"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041270/2018-07-01/0"
-intitule_bron: "Stcrt.2018-48348"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-08-29"
-intitule_in_force: "2018-08-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-48348"
-original_published_date: "2018-08-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-48348"
-entry_into_force_date: "2018-07-01"
-jci_1_3: "jci1.3:c:BWBR0041270&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0041270&g=2018-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-07-01"
+publicatiedatum: 2018-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0041270"
+opgehaald: 2026-08-27
 ---
+
 # Circulaire wijziging bezoldiging politieke ambtsdragers waterschappen
 
 ### Inleiding
@@ -42,6 +23,8 @@ Deze wijzigingen volgen de afspraken die in de arbeidsvoorwaardenovereenkomst se
 
 Onlangs is in de arbeidsvoorwaardenovereenkomst sector Rijk (2018–2020) voor het personeel in de sector Rijk afgesproken dat met ingang van 1 juli 2018 de salarisbedragen structureel worden verhoogd met 3,0%. Deze verhoging komt in september 2018 met terugwerkende kracht tot uitbetaling, ook voor de medewerkers die sinds 1 juli 2018 uit dienst zijn getreden. Met ingang van 1 juli 2019 worden de salarisbedragen met 2,0% verhoogd. Met ingang van 1 januari 2020 worden de salarisbedragen opnieuw met 2,0% verhoogd.
 
+Verhoging bezoldiging voorzitter van een waterschap
+
 Het bedrag van de bezoldiging van de voorzitter van een waterschap is bepaald in [artikel 3.24, eerste lid, van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=3.24) en is naar evenredigheid van de vastgestelde tijdsbestedingsnorm.
 
 Het bedrag wijzigt als de bezoldiging van het personeel in de sector Rijk wijzigt ([artikel 3.24, derde lid, van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=3.24)).
@@ -50,9 +33,23 @@ Concreet betekent bovenstaande afspraak voor de voorzitter dat de salarisverhogi
 
 De aangepaste bezoldigingsbedragen voor voorzitters van de waterschappen (naar evenredigheid van de vastgestelde tijdsbestedingsnorm);
 
+| per 1 januari 2017: | € 9.287,73 |
+| --- | --- |
+| per 1 juli 2018: | € 9.566,36 |
+| per 1 juli 2019: | € 9.757,69 |
+| per 1 januari 2020: | € 9.952,84 |
+
+Voorzitter die sinds 1 juli 2018 de functie heeft verlaten
+
 De salarisverhoging per 1 juli 2018 moet ook met terugwerkende kracht worden betaald aan voorzitters van de waterschappen die sinds 1 juli 2018 het ambt hebben verlaten.
 
+Doorwerking salarisverhoging naar uitkeringen en pensioenen
+
+Uitkeringen
+
 De structurele verhoging van het salaris heeft een algemeen karakter en werkt daarom op basis van [artikel 133, derde lid, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=133) (Appa) door naar al ingegane Appa-uitkeringen.
+
+Pensioenen
 
 Vanwege de peildatumsystematiek die het ABP hanteert, is de verhoging van het salaris per 1 juli 2018 pensioengevend met ingang van 1 januari 2019. De salarisverhoging per 1 juli 2019 is pensioengevend per 1 januari 2020.
 
@@ -68,7 +65,13 @@ In [artikel 3.13, tweede lid, van het Waterschapsbesluit](https://wetten.overhei
 
 Gelet op deze bepaling en als gevolg van bovengenoemd overleg hebben de voorzitters van de waterschappen die op peildatum 1 januari 2019 voorzitter zijn aanspraak op een éénmalige bruto uitkering van € 450,–.
 
+Doorwerking éénmalige uitkering naar uitkeringen en pensioenen
+
+Uitkeringen
+
 Alleen de structurele verhogingen van het salaris (dus niet de éénmalige uitkering van € 450,–) werken op basis van [artikel 133, derde lid, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=133) (Appa) door naar al ingegane Appa-uitkeringen.
+
+Pensioenen
 
 De éénmalige uitkering is pensioengevend. Het pensioengevend inkomen wordt in de ABP-regeling volgens de zogenoemde ‘peildatumsystematiek’ berekend op basis van het vaste inkomen, zoals dat op 1 januari van elk kalenderjaar bekend is, verhoogd met de variabele pensioengevende inkomensbestanddelen van het voorgaande jaar.
 
@@ -96,9 +99,23 @@ Het referentiepunt voor de bezoldiging van een lid van het dagelijks bestuur van
 
 De bezoldigingsbedragen voor lid van het dagelijks bestuur (bij een tijdsbestedingsnorm van 20%):
 
+| per 1 januari 2017: | € 1.516,86 |
+| --- | --- |
+| per 1 juli 2018: | € 1.562,37 |
+| per 1 juli 2019: | € 1.593,62 |
+| per 1 januari 2020: | € 1.625,49 |
+
+Dagelijks bestuurders die sinds 1 juli 2018 de functie hebben verlaten
+
 De salarisverhoging per 1 juli 2018 moet ook met terugwerkende kracht worden betaald aan dagelijks bestuurders die sinds 1 juli 2018 het ambt hebben verlaten.
 
+Doorwerking salarisverhoging naar uitkeringen en pensioenen
+
+Uitkeringen
+
 De salarisverhoging heeft een algemeen karakter en werkt daarom op basis van [artikel 133, derde lid, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=133) (Appa) door naar al ingegane Appa-uitkeringen.
+
+Pensioenen
 
 De structurele verhoging van het salaris is pensioengevend met terugwerkende kracht tot 1 juli 2018. In tegenstelling tot de ABP-regeling wordt het pensioengevend salaris in de Appa-regeling met terugwerkende kracht naar 1 juli 2018 aangepast.
 
@@ -114,7 +131,13 @@ In [artikel 3.13, tweede lid, van het Waterschapsbesluit](https://wetten.overhei
 
 Gelet op deze bepaling en als gevolg van bovengenoemd overleg hebben de leden van het dagelijks bestuur die op peildatum 1 januari 2019 lid van het dagelijks bestuur zijn aanspraak op een éénmalige bruto uitkering van € 450,–. De uitkering is naar rato van de door het algemeen bestuur voor het lid van het dagelijks bestuur vastgestelde tijdsbestedingsnorm.
 
+Doorwerking éénmalige uitkering naar uitkeringen en pensioenen
+
+Uitkeringen
+
 Alleen de structurele verhogingen van het salaris (dus niet de éénmalige uitkering van € 450,–) werken op basis van [artikel 133, derde lid, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=133) (Appa) door naar al ingegane Appa-uitkeringen.
+
+Pensioenen
 
 De éénmalige uitkering is pensioengevend. Reeds ingegane Appa pensioenen worden aangepast overeenkomstig de stijgingen (indexatie) van de ABP-pensioenen. Dat betekent dat de éénmalige uitkering geen effect heeft op al lopende pensioenuitkeringen.
 

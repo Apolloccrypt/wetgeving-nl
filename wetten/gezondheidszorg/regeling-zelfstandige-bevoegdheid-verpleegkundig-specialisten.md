@@ -1,50 +1,25 @@
 ---
 title: "Regeling van de Minister voor Medische Zorg van 9 juli 2018, kenmerk 1376127-178814-WJZ, houdende de zelfstandige bevoegdheid van verpleegkundig specialisten tot het verrichten van handelingen die zijn voorbehouden aan bepaalde beroepen (Regeling zelfstandige bevoegdheid verpleegkundig specialisten)"
+citeertitel: "Regeling zelfstandige bevoegdheid verpleegkundig specialisten"
 identifier: "BWBR0041163"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041163"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14683353"
-version_id: "25146212"
-internal_id: "C35953451"
-label_id: "14635814"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041163/2023-07-01/0"
-intitule_bron: "Stcrt.2018-39930"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-07-09"
-intitule_published: "2018-07-18"
-intitule_in_force: "2018-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-39930"
-original_signed_date: "2018-07-09"
-original_published_date: "2018-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-39930"
-entry_into_force_date: "2018-09-01"
-jci_1_3: "jci1.3:c:BWBR0041163&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0041163&g=2023-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling zelfstandige bevoegdheid verpleegkundig specialisten"
-signed_date: "2018-07-09"
-entry_into_force: "2018-09-01"
+publicatiedatum: 2018-09-01
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBR0041163"
+opgehaald: 2026-08-27
 ---
+
 # Regeling van de Minister voor Medische Zorg van 9 juli 2018, kenmerk 1376127-178814-WJZ, houdende de zelfstandige bevoegdheid van verpleegkundig specialisten tot het verrichten van handelingen die zijn voorbehouden aan bepaalde beroepen (Regeling zelfstandige bevoegdheid verpleegkundig specialisten)
-
-Gelet op[artikel 36, eerste lid, onder e, derde lid, onder c, vierde lid, onder d, vijfde lid, onder e, zesde lid, onder d, negende lid, onder c, tiende lid, onder c en veertiende lid, onder e, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- –. **wet:** [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
+- – *wet:*
+ [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
 ##### Artikel 2
 
@@ -52,7 +27,7 @@ Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 36, eerst
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -60,7 +35,7 @@ Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 36, vijfd
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -78,10 +53,8 @@ De verpleegkundig specialisten bedoeld in de [artikelen 2](https://wetten.overhe
 
 ##### Artikel 7
 
-Deze regeling treedt in werking met ingang van 1 september 2018.
+Deze regeling treedt in werking met ingang van 1 september 2018.
 
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling zelfstandige bevoegdheid verpleegkundig specialisten.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

@@ -1,56 +1,31 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 25 april 2018, nr. 2018-0000251025, houdende vaststelling van beleidsregels met betrekking tot de uitvoering van de Wiv 2017 (Beleidsregels Wiv 2017)"
+citeertitel: "Beleidsregels Wiv 2017"
 identifier: "BWBR0040860"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-05-01"
-last_updated: "2018-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040860"
+categorie: "Staatsinrichting en bestuur"
 soort: "beleidsregel"
-stam_id: "14597343"
-version_id: "24995772"
-internal_id: "C35751551"
-label_id: "14550924"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040860/2018-05-01/0"
-intitule_bron: "Stcrt.2018-24397"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-25"
-intitule_published: "2018-04-26"
-intitule_in_force: "2018-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-24397"
-original_signed_date: "2018-04-25"
-original_published_date: "2018-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-24397"
-entry_into_force_date: "2018-05-01"
-jci_1_3: "jci1.3:c:BWBR0040860&z=2018-05-01&g=2018-05-01"
-jci_1_0: "1.0:c:BWBR0040860&g=2018-05-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels Wiv 2017"
-signed_date: "2018-04-25"
-entry_into_force: "2018-05-01"
+publicatiedatum: 2018-05-01
+laatste_update: 2018-05-01
+status: geldig
+toestand: 2018-05-01
+bron: "https://wetten.overheid.nl/BWBR0040860"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 25 april 2018, nr. 2018-0000251025, houdende vaststelling van beleidsregels met betrekking tot de uitvoering van de Wiv 2017 (Beleidsregels Wiv 2017)
-
-Gelet op de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=16), [19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=19), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=29), [48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=48), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=62), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=64), [88, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88), [artikel 89, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=89);
-
-Besluiten:
 
 ##### Artikel 1. (definitiebepaling)
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **wet:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
+- a. *wet:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- b. **dienst:** de AIVD of de MIVD;
+- b. *dienst:* de AIVD of de MIVD;
 
-- c. **wegingsnotitie:** de vastlegging van de uitkomst van de weging als bedoeld in [artikel 88, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88) en die strekt tot het aangaan van een samenwerkingsrelatie als bedoeld in artikel 88, eerste lid, van de wet.
+- c. *wegingsnotitie:* de vastlegging van de uitkomst van de weging als bedoeld in [artikel 88, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88) en die strekt tot het aangaan van een samenwerkingsrelatie als bedoeld in artikel 88, eerste lid, van de wet.
 
-- d. **partnerdienst:** een daarvoor in aanmerking komende inlichtingen- of veiligheidsdienst van een ander land, zoals bedoeld in [artikel 88 van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88).
+- d. *partnerdienst:* een daarvoor in aanmerking komende inlichtingen- of veiligheidsdienst van een ander land, zoals bedoeld in [artikel 88 van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88).
 
 ##### Artikel 2. (geen verstrekking van uit OOG-interceptie op de kabel verkregen ongeëvalueerde gegevens zonder voorafgaande wegingsnotitie)
 
@@ -89,5 +64,3 @@ Deze beleidsregel treedt in werking met ingang van 1 mei 2018.
 ##### Artikel 9. (citeertitel)
 
 Deze beleidsregel wordt aangehaald als: Beleidsregels Wiv 2017.
-
-Deze beleidsregel zal met de daarbij behorende toelichting in de Staatscourant worden geplaatst.

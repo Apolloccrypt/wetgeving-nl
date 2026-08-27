@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 18 april 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Nederlandse diplomatieke vertegenwoordiging in Kroatië, (1971) 1992–2013 (Besluit Beperking Openbaarheid Kroatië, (1971) 1992–2013)"
+citeertitel: "Besluit beperking openbaarheid Kroatië, (1971) 1992–2013"
 identifier: "BWBR0040866"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-05-02"
-last_updated: "2018-05-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040866"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14598083"
-version_id: "24996652"
-internal_id: "C35752911"
-label_id: "14551634"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040866/2018-05-02/0"
-intitule_bron: "Stcrt.2018-23650"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-18"
-intitule_published: "2018-05-01"
-intitule_in_force: "2018-05-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-23650"
-original_signed_date: "2018-04-18"
-original_published_date: "2018-05-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-23650"
-entry_into_force_date: "2018-05-02"
-jci_1_3: "jci1.3:c:BWBR0040866&z=2018-05-02&g=2018-05-02"
-jci_1_0: "1.0:c:BWBR0040866&g=2018-05-02"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid Kroatië, (1971) 1992–2013"
-signed_date: "2018-04-18"
-entry_into_force: "2018-05-02"
+publicatiedatum: 2018-05-02
+laatste_update: 2018-05-02
+status: geldig
+toestand: 2018-05-02
+bron: "https://wetten.overheid.nl/BWBR0040866"
+opgehaald: 2026-08-27
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 18 april 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Nederlandse diplomatieke vertegenwoordiging in Kroatië, (1971) 1992–2013 (Besluit Beperking Openbaarheid Kroatië, (1971) 1992–2013)
-
-Overwegende dat een aantal dossiers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a en b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemene rijksarchivaris d.d. 26 maart 2018, kenmerk 1250717;
-
-Besluit
 
 ##### Artikel 1
 
