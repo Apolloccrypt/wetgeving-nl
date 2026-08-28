@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 februari 2019, nr. 19009380, houdende de algemeenverbindendverklaring van een overeenkomst tussen handelaren in gewasbeschermingsmiddelen"
+citeertitel: "Besluit algemeenverbindendverklaring overeenkomst tussen handelaren in gewasbeschermingsmiddelen"
 identifier: "BWBR0041927"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-02-23"
-last_updated: "2019-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041927"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15007903"
-version_id: "25707902"
-internal_id: "C36671621"
-label_id: "14957834"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041927/2019-02-23/0"
-intitule_bron: "Stcrt.2019-9512"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-02-11"
-intitule_published: "2019-02-22"
-intitule_in_force: "2019-02-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-9512"
-original_signed_date: "2019-02-11"
-original_published_date: "2019-02-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-9512"
-entry_into_force_date: "2019-02-23"
-jci_1_3: "jci1.3:c:BWBR0041927&z=2019-02-23&g=2019-02-23"
-jci_1_0: "1.0:c:BWBR0041927&g=2019-02-23"
-citeertitel_status: "redactioneel"
-short_title: "Besluit algemeenverbindendverklaring overeenkomst tussen handelaren in gewasbeschermingsmiddelen"
-signed_date: "2019-02-11"
-entry_into_force: "2019-02-23"
+publicatiedatum: 2019-02-23
+laatste_update: 2019-02-23
+status: geldig
+toestand: 2019-02-23
+bron: "https://wetten.overheid.nl/BWBR0041927"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 februari 2019, nr. 19009380, houdende de algemeenverbindendverklaring van een overeenkomst tussen handelaren in gewasbeschermingsmiddelen
-
-Gelezen het verzoek van de vereniging Agrodis tot algemeenverbindendverklaring van haar overeenkomst tussen handelaren in gewasbeschermingsmiddelen;
-
-Gelet op [artikel 111, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=111);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -83,5 +55,3 @@ De overeenkomst en het CDG-certificatieschema liggen ter inzage bij het Minister
 ##### Artikel 6
 
 Deze besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt op 1 januari 2024.
-
-Deze besluit zal met de toelichting in de Staatscourant worden geplaatst.

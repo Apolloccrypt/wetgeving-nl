@@ -1,47 +1,17 @@
 ---
 title: "Reglement Commissie voor Bezwaar RvR"
 identifier: "BWBR0042156"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-04-26"
-last_updated: "2019-04-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042156"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15060563"
-version_id: "25811362"
-internal_id: "C36800231"
-label_id: "15009614"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042156/2019-04-26/0"
-intitule_bron: "Stcrt.2019-23037"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-17"
-intitule_published: "2019-04-26"
-intitule_in_force: "2019-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-23037"
-original_signed_date: "2019-04-17"
-original_published_date: "2019-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-23037"
-entry_into_force_date: "2019-04-26"
-jci_1_3: "jci1.3:c:BWBR0042156&z=2019-04-26&g=2019-04-26"
-jci_1_0: "1.0:c:BWBR0042156&g=2019-04-26"
-citeertitel_status: "officieel"
-signed_date: "2019-04-17"
-entry_into_force: "2019-04-26"
+publicatiedatum: 2019-04-26
+laatste_update: 2019-04-26
+status: geldig
+toestand: 2019-04-26
+bron: "https://wetten.overheid.nl/BWBR0042156"
+opgehaald: 2026-08-28
 ---
+
 # Reglement Commissie voor Bezwaar RvR
-
-in aanmerking nemend [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8), de [Regeling aanwijzing bewerker en mandaat register beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024993) (Stcrt. 2008, nr. 250) en de [Regeling verlening mandaat raad voor rechtsbijstand betreffende verlenen van subsidies en vaststellen van beleidsregels dienaangaande](https://wetten.overheid.nl/jci1.3:c:BWBR0026208) (Stcrt. 2009, nr. 11554),
-
-in aanmerking nemend de bepalingen over bezwaar van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), in het bijzonder de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7),
-
-Besluit:
-
-Een adviescommissie in te stellen voor de behandeling van bezwaarschriften alsmede de samenstelling en werkwijze van deze Commissie voor Bezwaar als onderstaand vast te stellen.
 
 ##### Artikel 1
 

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 juli 2019, houdende regels met betrekking tot de waardering van vorderingen uit hoofde van een verzekering in geval van een faillietverklaring van een verzekeraar (Besluit waardering verzekeringsvorderingen in faillissement)"
+citeertitel: "Besluit waardering verzekeringsvorderingen in faillissement"
 identifier: "BWBR0042467"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-08-01"
-last_updated: "2019-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042467"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "15134423"
-version_id: "25953442"
-internal_id: "C36969871"
-label_id: "15082254"
-dtd_version: "2.0"
-original_entry_into_force: "2019-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042467/2019-08-01/0"
-intitule_bron: "Stb.2019-274"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-10"
-intitule_published: "2019-07-29"
-intitule_in_force: "2019-07-29"
-intitule_status: "goed"
-original_publication: "Stb.2019-274"
-original_signed_date: "2019-07-10"
-original_published_date: "2019-07-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-274"
-entry_into_force_date: "2019-08-01"
-jci_1_3: "jci1.3:c:BWBR0042467&z=2019-08-01&g=2019-08-01"
-jci_1_0: "1.0:c:BWBR0042467&g=2019-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit waardering verzekeringsvorderingen in faillissement"
-signed_date: "2019-07-10"
-entry_into_force: "2019-08-01"
+publicatiedatum: 2019-08-01
+laatste_update: 2019-08-01
+status: geldig
+toestand: 2019-08-01
+bron: "https://wetten.overheid.nl/BWBR0042467"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 10 juli 2019, houdende regels met betrekking tot de waardering van vorderingen uit hoofde van een verzekering in geval van een faillietverklaring van een verzekeraar (Besluit waardering verzekeringsvorderingen in faillissement)
-
-Op de voordracht van Onze Minister van Financiën van 16 mei 2019, 2019-0000070363, directie Financiële Markten, gedaan mede namens Onze Minister voor Rechtsbescherming;
-
-Gelet op [artikel 213l, vierde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=213l);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 26 juni 2019, nr. W06.19.0120/III);
-
-Gezien het nader rapport van Onze Minister van Financiën van 5 juli 2019, 2019-0000086038, directie Financiële Markten, uitgebracht mede namens Onze Minister voor Rechtsbescherming;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Reikwijdte
 
@@ -54,19 +22,19 @@ Dit besluit is van toepassing op de waardering van vorderingen uit hoofde van ee
 
 1. Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **verordening solvabiliteit II:** gedelegeerde Verordening (EU) 2015/35 van de Commissie van 10 oktober 2014 tot aanvulling van [Richtlijn 2009/138/EG](32009L0138) van het Europees Parlement en de Raad betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2015, L 12);
+- a. *verordening solvabiliteit II:* gedelegeerde Verordening (EU) 2015/35 van de Commissie van 10 oktober 2014 tot aanvulling van Richtlijn 2009/138/EG van het Europees Parlement en de Raad betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2015, L 12);
 
-- b. **relevante risicovrije rentetermijnstructuur:** de risicovrije rentetermijnstructuur van spot rentes, berekend overeenkomstig de artikelen 43 tot en met 46 van de verordening solvabiliteit II, zonder matchingsopslag, zonder volatiliteitsaanpassing en zonder gebruikmaking van de ultimate forward rate, met dien verstande dat voor de rentelooptijden waarvoor geen risicovrije spotmarktrente tot stand komt, de relevante risicovrije rentetermijnstructuur berekend wordt met de eenjaars forward rate onder de vooronderstelling dat de eenjaars forward rate voor deze rentelooptijden gelijk is aan de eenjaars forward rate van het laatste liquide punt;
+- b. *relevante risicovrije rentetermijnstructuur:* de risicovrije rentetermijnstructuur van spot rentes, berekend overeenkomstig de artikelen 43 tot en met 46 van de verordening solvabiliteit II, zonder matchingsopslag, zonder volatiliteitsaanpassing en zonder gebruikmaking van de ultimate forward rate, met dien verstande dat voor de rentelooptijden waarvoor geen risicovrije spotmarktrente tot stand komt, de relevante risicovrije rentetermijnstructuur berekend wordt met de eenjaars forward rate onder de vooronderstelling dat de eenjaars forward rate voor deze rentelooptijden gelijk is aan de eenjaars forward rate van het laatste liquide punt;
 
-- c. **eenjaars forward rate:** het rendement dat hoort bij de verandering van opeenvolgende spot rentes.
+- c. *eenjaars forward rate:* het rendement dat hoort bij de verandering van opeenvolgende spot rentes.
 
 2. Voor de toepassing van het eerste lid wordt verstaan onder:
 
-- a. **matchingsopslag:** de matchingsopslag, bedoeld in de artikelen 52 tot en met 54 van de verordening solvabiliteit II;
+- a. *matchingsopslag:* de matchingsopslag, bedoeld in de artikelen 52 tot en met 54 van de verordening solvabiliteit II;
 
-- b. **volatiliteitsaanpassing:** de volatiliteitsaanpassing, bedoeld in de artikelen 49 tot en met 51 van de verordening solvabiliteit II;
+- b. *volatiliteitsaanpassing:* de volatiliteitsaanpassing, bedoeld in de artikelen 49 tot en met 51 van de verordening solvabiliteit II;
 
-- c. **ultimate forward rate:** de ultimate forward rate, bedoeld in artikel 47 van de verordening solvabiliteit II.
+- c. *ultimate forward rate:* de ultimate forward rate, bedoeld in artikel 47 van de verordening solvabiliteit II.
 
 ##### Artikel 3. Geen toezegging om rente te voldoen
 
@@ -153,5 +121,3 @@ Dit besluit treedt in werking met ingang van 1 augustus 2019. Indien het Staatsb
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit waardering verzekeringsvorderingen in faillissement.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097657, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Werk ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit DG Werk 2019)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit DG Werk 2019"
 identifier: "BWBR0042435"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-02-19"
-last_updated: "2026-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042435"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15127783"
-version_id: "25938952"
-internal_id: "C36953641"
-label_id: "15075864"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042435/2026-02-19/0"
-intitule_bron: "Stcrt.2019-41130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-15"
-intitule_published: "2019-07-24"
-intitule_in_force: "2019-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-41130"
-original_signed_date: "2019-07-15"
-original_published_date: "2019-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-41130"
-entry_into_force_date: "2019-07-25"
-jci_1_3: "jci1.3:c:BWBR0042435&z=2026-02-19&g=2026-02-19"
-jci_1_0: "1.0:c:BWBR0042435&g=2026-02-19"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit DG Werk 2019"
-signed_date: "2019-07-15"
-entry_into_force: "2019-07-25"
+publicatiedatum: 2019-07-25
+laatste_update: 2026-02-19
+status: geldig
+toestand: 2026-02-19
+bron: "https://wetten.overheid.nl/BWBR0042435"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097657, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Werk ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit DG Werk 2019)
-
-Gelet op de [artikelen 8, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directeur-generaal:** de directeur-generaal Werk;
+- a. *directeur-generaal:* de directeur-generaal Werk;
 
-- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=2&artikel=2&z=2026-02-19&g=2026-02-19);
+- b. *directie:* een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=2&artikel=2&z=2026-02-19&g=2026-02-19);
 
-- c. **directeur:** een functionaris die leiding geeft aan een directie;
+- c. *directeur:* een functionaris die leiding geeft aan een directie;
 
-- d. **afdeling BMO:** afdeling bedrijfsvoering en managementondersteuning;
+- d. *afdeling BMO:* afdeling bedrijfsvoering en managementondersteuning;
 
-- e. **hoofd BMO:** een functionaris die leiding geeft aan de afdeling BMO.
+- e. *hoofd BMO:* een functionaris die leiding geeft aan de afdeling BMO.
 
 #### § 2. Organisatie
 
@@ -112,7 +86,7 @@ Onder de directeur-generaal ressorteren:
 
 - n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0032429).
 
-2. De directeur van de directie Arbeidsverhoudingen is verantwoordelijk voor de coördinatie, bedoeld in artikel 4, vijfde lid, van [richtlijn 2014/54](32014L0054)/EU betreffende maatregelen om de uitoefening van de in de context van het vrije verkeer van werknemers aan werknemers verleende rechten te vergemakkelijken (PbEU 2014, L 128).
+2. De directeur van de directie Arbeidsverhoudingen is verantwoordelijk voor de coördinatie, bedoeld in artikel 4, vijfde lid, van richtlijn 2014/54/EU betreffende maatregelen om de uitoefening van de in de context van het vrije verkeer van werknemers aan werknemers verleende rechten te vergemakkelijken (PbEU 2014, L 128).
 
 ##### Artikel 4
 
@@ -266,7 +240,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 4. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.
 
-5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst:
+5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst:
 
 - a. overeenkomsten welke gebaseerd zijn op een raamovereenkomst;
 
@@ -274,7 +248,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 - c. overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder de directe verantwoordelijkheid van het departementale management worden verricht;
 
-- d. vervallen;
+- d. *vervallen;*
 
 - e. overeenkomsten met betrekking tot raden en commissies;
 
@@ -294,7 +268,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 - a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten die voortvloeien uit een door de directie OBP afgesloten raamovereenkomst;
 
-- b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst.
+- b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst.
 
 4. De directeur-generaal en de directeuren blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie, zelf uit te oefenen.
 
@@ -326,8 +300,6 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024965) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit DG Werk 2019.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

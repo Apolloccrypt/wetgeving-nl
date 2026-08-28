@@ -1,46 +1,47 @@
 ---
 title: "Richtlijn voor strafvordering openlijke geweldpleging"
 identifier: "BWBR0042057"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-04-01"
-last_updated: "2019-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042057"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "15040213"
-version_id: "25768182"
-internal_id: "C36745451"
-label_id: "14989534"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042057/2019-04-01/0"
-intitule_bron: "Stcrt.2019-14876"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-03-29"
-intitule_in_force: "2019-03-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-14876"
-original_published_date: "2019-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-14876"
-entry_into_force_date: "2019-04-01"
-jci_1_3: "jci1.3:c:BWBR0042057&z=2019-04-01&g=2019-04-01"
-jci_1_0: "1.0:c:BWBR0042057&g=2019-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-04-01"
+publicatiedatum: 2019-04-01
+laatste_update: 2019-04-01
+status: geldig
+toestand: 2019-04-01
+bron: "https://wetten.overheid.nl/BWBR0042057"
+opgehaald: 2026-08-28
 ---
+
 # Richtlijn voor strafvordering openlijke geweldpleging
+
+Beschrijving
 
 Deze richtlijn heeft betrekking op diverse vormen van openlijke geweldpleging.
 
+Basiscasus/delict
+
 Openlijke geweldpleging.
+
+|  | first offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- |
+| Tegen goederen Schade tot € 1.000 | GB € 500 | 5j 2j | GB € 750 Idem of TS 60 uur | GS 5 wkn ov |
+| € 1.000 - 5.000 | TS 60 uur | 5j 2j | TS 90 uur Idem of GS 6 wkn | GS 2 mnd ov |
+| Vanaf € 5.000 | TS vanaf 80 uur | 5j 2j | TS vanaf 120 uur Idem of GS vanaf 2 mnd | GS vanaf 11 wkn ov |
+| Tegen personen Geen letsel | TS 150 uur | 5j 2j | TS 220 uur Idem of GS 15 wkn | GS 5 mnd ov |
+| Licht letsel: | GS 3 mnd | 5j 2j | GS 4 mnd GS 4 mnd | GS 6 mnd ov |
+| Zwaarder letsel: | Eis GS 4 mnd ivm taakstrafverbod | 5j 2j | GS 6 mnd GS 6 mnd | GS 8 mnd ov |
+| Tegen personen en goederen Alleen schade | (afhankelijk van de schade) TS 180 uur | 5j 2j | GS 4 mnd GS 4 mnd | GS 6 mnd ov |
+| Licht letsel: | GS 4 mnd | 5j 2j | GS 6 mnd GS 6 mnd | GS 8 mnd ov |
+| Zwaarder letsel: | GS 6 mnd ivm taakstrafverbod | 5j 2j | GS 9 mnd GS 9 mnd | GS 12 mnd ov |
+| Goederen vernield en letsel | GS vanaf 5 mnd (maatwerk) | 5j 2j | GS vanaf 7 mnd GS vanaf 7 mnd | GS vanaf 10 mnd ov |
+| Bijzonderheden Uitgangspunt is dat schade/letsel leidt tot strafverhoging, ongeacht of het aandeel van de verdachte in de geweldpleging heeft geleid tot die schade of dat letsel Uitgangspunt is tevens dat de totale schade wordt vergoed |  |  |  |  |
+|  |  |  |  |  |
+| Strafverzwarend onder andere: Gevaarzetttend Jegens ambtenaren of andere gezagsfunctionarissen of journalisten(+ 200%) Alcohol/drugs en (uitgaans)geweld (+75%) Evenement (+75%) of voetbal gerelateerd (+50%) Zwaar lichamelijk letsel of dood als gevolg (maatwerk) Kwetsbare slachtoffers (w.o. huiselijk geweld) > gebruik de richtlijn huiselijk geweld of de richtlijn kindermishandeling! Discriminatoire aspecten (dagvaarden +100%) Agressie in het verkeer |  |  |  |  |
 
 * Let op eventueel taakstrafverbod ([art. 22b Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22b)) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader
 
 Legenda
 
-**Afkortingen**
+*Afkortingen*
 
 GB = Geldboete
 
@@ -54,7 +55,11 @@ ov = onvoorwaardelijk
 
 2j = recidive binnen 2 jaar
 
+Gevaarzettend
+
 Onder gevaarzettend wordt verstaan gedragingen die potentieel tot ernstiger letsel (dan het letsel dat is gevolgd) hadden kunnen leiden. Denk aan het gebruik van slag/stootwapens, het gooien van zware voorwerpen richting personen, afsteken vuurwerk en richten ervan op personen, schoppen tegen lichaam van een liggend slachtoffer.
+
+Agressie in het verkeer
 
 Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert.
 

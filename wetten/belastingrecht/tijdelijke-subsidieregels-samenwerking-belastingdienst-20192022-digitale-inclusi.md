@@ -1,52 +1,27 @@
 ---
 title: "Tijdelijke subsidieregels samenwerking Belastingdienst 2019–2022 (Digitale Inclusie) Koninklijke Bibliotheek"
 identifier: "BWBR0041788"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041788"
+categorie: "Belastingrecht"
 soort: "zbo"
-stam_id: "14940423"
-version_id: "25586002"
-internal_id: "C36514521"
-label_id: "14890734"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041788/2019-01-01/0"
-intitule_bron: "Stcrt.2018-73578"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-12-31"
-intitule_in_force: "2018-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-73578"
-original_published_date: "2018-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-73578"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041788&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0041788&g=2019-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0041788"
+opgehaald: 2026-08-28
 ---
+
 # Tijdelijke subsidieregels samenwerking Belastingdienst 2019–2022 (Digitale Inclusie) Koninklijke Bibliotheek
-
-gelet op de [artikelen 1.2, eerste lid onder a sub ii en derde lid](onbekend) en [1.4 van het Subsidiereglement Koninklijke Bibliotheek 2019](onbekend);
-
-besluit:
-
-vast te stellen de navolgende Tijdelijke regels subsidieverstrekking samenwerking Belastingdienst 2019–2022 (Digitale Inclusie) Koninklijke Bibliotheek.
 
 ##### Artikel 1. Begripsbepaling
 
-- **de Bibliotheek en basisvaardigheden:** de voortzetting van het Programma Basisvaardigheden Netwerkplan 2016–2018, vastgesteld op 29 maart 2016 door de directie van de Koninklijke Bibliotheek, dat beoogt lokale bibliotheken te stimuleren activiteiten te ontplooien richting burgers om hun basisvaardigheden te verbeteren waardoor burgers beter kunnen participeren in de huidige gedigitaliseerde samenleving;
+- *de Bibliotheek en basisvaardigheden:* de voortzetting van het Programma Basisvaardigheden Netwerkplan 2016–2018, vastgesteld op 29 maart 2016 door de directie van de Koninklijke Bibliotheek, dat beoogt lokale bibliotheken te stimuleren activiteiten te ontplooien richting burgers om hun basisvaardigheden te verbeteren waardoor burgers beter kunnen participeren in de huidige gedigitaliseerde samenleving;
 
-- **KB:** Koninklijke Bibliotheek;
+- *KB:* Koninklijke Bibliotheek;
 
-- **lokale bibliotheek:** lokale bibliotheek als bedoeld in [artikel 1, onder c, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1);
+- *lokale bibliotheek:* lokale bibliotheek als bedoeld in [artikel 1, onder c, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1);
 
-- **project Belastingdienst:** subproject binnen het programma de Bibliotheek en basisvaardigheden dat zich richt op de uitvoering van de samenwerking tussen de KB en de Belastingdienst ten behoeve van digitale inclusie van kwetsbare burgers zoals bekrachtigd door de Belastingdienst op 20 november 2018.
+- *project Belastingdienst:* subproject binnen het programma de Bibliotheek en basisvaardigheden dat zich richt op de uitvoering van de samenwerking tussen de KB en de Belastingdienst ten behoeve van digitale inclusie van kwetsbare burgers zoals bekrachtigd door de Belastingdienst op 20 november 2018.
 
 ##### Artikel 2. Subsidiabele activiteiten
 
@@ -72,9 +47,9 @@ Voor het uitvoeren van de activiteiten wordt per subsidietijdvak uitsluitend een
 
 - d. inwoners in het werkgebied gratis aanbieden:
 
-- i. toegang tot computers met internet en printfaciliteiten; en
+   - i. toegang tot computers met internet en printfaciliteiten; en
 
-- ii. digivaardigheidscursussen, waaronder in ieder geval de cursussen Klik & Tik en Digisterker.
+   - ii. digivaardigheidscursussen, waaronder in ieder geval de cursussen Klik & Tik en Digisterker.
 
 - e. spreekuren houden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041788&artikel=2&z=2019-01-01&g=2019-01-01) gedurende de subsidieperiode die loopt van 1 maart 2019 tot en met 31 december 2022.
 
@@ -118,7 +93,7 @@ Naast de verplichtingen die zijn opgenomen in het [Subsidiereglement Koninklijke
 
 - e. bekendheid te geven aan het aanwezige aanbod onder de inwoners in het werkgebied van de subsidieontvanger met behulp van voorlichtings- en promotiemateriaal;
 
-- f. na afloop van de subsidieperiode op 31 december 2022 tussen 8 en 13 weken een aanvraag tot vaststelling van de subsidie in te dienen met een verantwoording van de gesubsidieerde activiteiten zoals bedoeld in [artikel 5 van het Subsidiereglement Koninklijke Bibliotheek 2019](onbekend).
+- f. na afloop van de subsidieperiode op 31 december 2022 tussen 8 en 13 weken een aanvraag tot vaststelling van de subsidie in te dienen met een verantwoording van de gesubsidieerde activiteiten zoals bedoeld in [artikel 5 van het Subsidiereglement Koninklijke Bibliotheek 2019](https://wetten.overheid.nl/BWBR0041687).
 
 ##### Artikel 8. Inwerkingtreding
 

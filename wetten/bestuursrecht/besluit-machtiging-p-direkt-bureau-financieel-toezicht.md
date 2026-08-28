@@ -1,57 +1,27 @@
 ---
 title: "Besluit van de Directeur van het Bureau Financieel Toezicht van 11 december 2018, tot het verlenen van machtiging aan P-Direkt"
+citeertitel: "Besluit machtiging P-Direkt (Bureau Financieel Toezicht)"
 identifier: "BWBR0042208"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-03-03"
-last_updated: "2026-04-15"
-status: vervallen
-source: "https://wetten.overheid.nl/BWBR0042208"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "15072813"
-version_id: "25834052"
-internal_id: "C36828431"
-label_id: "15021634"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042208/2026-03-03/0"
-intitule_bron: "Stcrt.2019-26477"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-17"
-intitule_published: "2019-05-14"
-intitule_in_force: "2019-05-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-26477"
-original_signed_date: "2019-04-17"
-original_published_date: "2019-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-26477"
-entry_into_force_date: "2019-05-16"
-jci_1_3: "jci1.3:c:BWBR0042208&z=2019-05-16&g=2026-03-03"
-jci_1_0: "1.0:c:BWBR0042208&g=2026-03-03"
-citeertitel_status: "redactioneel"
-short_title: "Besluit machtiging P-Direkt (Bureau Financieel Toezicht)"
-signed_date: "2019-04-17"
-entry_into_force: "2019-05-16"
-gecontroleerd: 2026-07-29
+publicatiedatum: 2019-05-16
+laatste_update: 2026-03-03
+status: vervallen
+vervallen_op: 2026-04-14
+toestand: 2026-03-03
+bron: "https://wetten.overheid.nl/BWBR0042208"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Directeur van het Bureau Financieel Toezicht van 11 december 2018, tot het verlenen van machtiging aan P-Direkt
-
-Gelet op [artikel 10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-gelet op het [Instellingsbesluit baten-lastendienst P-Direkt](https://wetten.overheid.nl/jci1.3:c:BWBR0025362) van 11 februari 2009;
-
-gelet op het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 juli 2009 houdende de Oprichting van een Shared Service Center HRM voor Personeelsregistratie en Salarisadministratie
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **P-Direkt:** de baten-lastendienst, ingesteld bij [besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën van 11 februari 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025362);
+- a. *P-Direkt:* de baten-lastendienst, ingesteld bij [besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën van 11 februari 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025362);
 
-- b. **machtiging:** de bevoegdheid om in naam van de Directeur van het Bureau Financieel Toezicht handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- b. *machtiging:* de bevoegdheid om in naam van de Directeur van het Bureau Financieel Toezicht handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 
@@ -92,5 +62,3 @@ De directeur P-Direkt kan met betrekking tot zijn bevoegdheden, bedoeld in [arti
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden gepubliceerd.

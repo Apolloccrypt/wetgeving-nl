@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het College van Toezicht Auteursrechten van 11 juni 2019 tot vaststelling van een bestuursreglement"
+citeertitel: "Bestuursreglement CvTA"
 identifier: "BWBR0042444"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-07-25"
-last_updated: "2019-07-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042444"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15130193"
-version_id: "25944532"
-internal_id: "C36960261"
-label_id: "15078124"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042444/2019-07-25/0"
-intitule_bron: "Stcrt.2019-41017"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-11"
-intitule_published: "2019-07-24"
-intitule_in_force: "2019-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-41017"
-original_signed_date: "2019-06-11"
-original_published_date: "2019-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-41017"
-entry_into_force_date: "2019-07-25"
-jci_1_3: "jci1.3:c:BWBR0042444&z=2019-07-25&g=2019-07-25"
-jci_1_0: "1.0:c:BWBR0042444&g=2019-07-25"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement CvTA"
-signed_date: "2019-06-11"
-entry_into_force: "2019-07-25"
+publicatiedatum: 2019-07-25
+laatste_update: 2019-07-25
+status: geldig
+toestand: 2019-07-25
+bron: "https://wetten.overheid.nl/BWBR0042444"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van het College van Toezicht Auteursrechten van 11 juni 2019 tot vaststelling van een bestuursreglement
-
-gelet op [artikel 13, derde lid, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=13),
-
-besluit vast te stellen het navolgende:
 
 #### Bestuursreglement CvTA
 
@@ -46,15 +20,15 @@ besluit vast te stellen het navolgende:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de wet:** de [Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779);
+- a. *de wet:* de [Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779);
 
-- b. **het College:** het College van Toezicht Auteursrechten;
+- b. *het College:* het College van Toezicht Auteursrechten;
 
-- c. **bestuurslid:** lid van het College als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=7);
+- c. *bestuurslid:* lid van het College als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=7);
 
-- d. **secretaris:** secretaris van het College als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=11);
+- d. *secretaris:* secretaris van het College als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=11);
 
-- e. **besluit:** een besluit als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=13).
+- e. *besluit:* een besluit als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=13).
 
 ##### Artikel 2. Vergadering
 

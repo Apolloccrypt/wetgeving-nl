@@ -1,47 +1,18 @@
 ---
 title: "Wet van 15 mei 2019, houdende regels voor de inzet van gewapende particuliere maritieme beveiligers aan boord van Nederlandse koopvaardijschepen (Wet ter Bescherming Koopvaardij)"
+citeertitel: "Wet ter Bescherming Koopvaardij"
 identifier: "BWBR0042278"
-country: "nl"
-rank: "wet"
-publication_date: "2022-02-01"
-last_updated: "2022-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042278"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15090263"
-version_id: "25865562"
-internal_id: "C39924061"
-label_id: "15039014"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042278/2022-02-01/0"
-intitule_bron: "Stb.2019-186"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-15"
-intitule_published: "2019-06-07"
-intitule_in_force: "2022-01-04"
-intitule_status: "goed"
-original_publication: "Stb.2019-186"
-original_signed_date: "2019-05-15"
-original_published_date: "2019-06-07"
-original_effect: "nieuwe-regeling"
-original_dossier: "34558"
-original_url_id: "stb-2019-186"
-entry_into_force_date: "2022-02-01"
-jci_1_3: "jci1.3:c:BWBR0042278&z=2022-02-01&g=2022-02-01"
-jci_1_0: "1.0:c:BWBR0042278&g=2022-02-01"
-citeertitel_status: "officieel"
-short_title: "Wet ter Bescherming Koopvaardij"
-signed_date: "2019-05-15"
-entry_into_force: "2022-02-01"
+publicatiedatum: 2022-02-01
+laatste_update: 2022-02-01
+status: geldig
+toestand: 2022-02-01
+bron: "https://wetten.overheid.nl/BWBR0042278"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 15 mei 2019, houdende regels voor de inzet van gewapende particuliere maritieme beveiligers aan boord van Nederlandse koopvaardijschepen (Wet ter Bescherming Koopvaardij)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijke regeling te treffen op grond waarvan Nederlandse koopvaardijschepen bij de doorgang van gevaarlijke zeegebieden gebruik kunnen maken van gewapende particuliere maritieme beveiligers indien niet in militaire bescherming kan worden voorzien;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,45 +20,45 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanwenden van geweld:** het gebruiken van geweld en het dreigen met geweld, waaronder wordt begrepen het ter hand nemen van een vuurwapen;
+- *aanwenden van geweld:* het gebruiken van geweld en het dreigen met geweld, waaronder wordt begrepen het ter hand nemen van een vuurwapen;
 
-- **beschermingsmaatregelen:** plannings- en operationele maatregelen van scheepsbeheerders en kapiteins voor de bescherming tegen piraterij;
+- *beschermingsmaatregelen:* plannings- en operationele maatregelen van scheepsbeheerders en kapiteins voor de bescherming tegen piraterij;
 
-- **geaccrediteerde certificerende instelling:** een instelling die is geaccrediteerd door een accrediterende instantie voor het uitgeven van een ISO-certificaat aan de hand van een normdocument van de International Organization for Standardization;
+- *geaccrediteerde certificerende instelling:* een instelling die is geaccrediteerd door een accrediterende instantie voor het uitgeven van een ISO-certificaat aan de hand van een normdocument van de International Organization for Standardization;
 
-- **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
+- *geweld:* elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
-- **geweldsmiddel:** de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=3&artikel=8&z=2022-02-01&g=2022-02-01) van deze wet aangewezen uitrusting en bewapening waarmee geweld kan worden uitgeoefend;
+- *geweldsmiddel:* de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=3&artikel=8&z=2022-02-01&g=2022-02-01) van deze wet aangewezen uitrusting en bewapening waarmee geweld kan worden uitgeoefend;
 
-- **ISO-certificaat:** verklaring waarmee een certificerende instelling kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat het hierin genoemde maritieme beveiligingsbedrijf voldoet aan het in de verklaring genoemde normdocument van de International Organization for Standardization;
+- *ISO-certificaat:* verklaring waarmee een certificerende instelling kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat het hierin genoemde maritieme beveiligingsbedrijf voldoet aan het in de verklaring genoemde normdocument van de International Organization for Standardization;
 
-- **kapitein:** de gezagvoerder van een schip;
+- *kapitein:* de gezagvoerder van een schip;
 
-- **koopvaardij:** handelsscheepvaart;
+- *koopvaardij:* handelsscheepvaart;
 
-- **maritiem beveiligingsbedrijf:** een onderneming of een onderdeel daarvan die in de uitoefening van beroep of bedrijf beveiligingswerkzaamheden aan boord van een schip aanbiedt en verricht en daarbij in hoofdzaak gebruik maakt van personen;
+- *maritiem beveiligingsbedrijf:* een onderneming of een onderdeel daarvan die in de uitoefening van beroep of bedrijf beveiligingswerkzaamheden aan boord van een schip aanbiedt en verricht en daarbij in hoofdzaak gebruik maakt van personen;
 
-- **maritieme beveiligingswerkzaamheden:** het bewaken van de veiligheid van de personen en goederen aan boord van een schip door particulier maritiem beveiligingspersoneel;
+- *maritieme beveiligingswerkzaamheden:* het bewaken van de veiligheid van de personen en goederen aan boord van een schip door particulier maritiem beveiligingspersoneel;
 
-- **Onze Minister:** Onze Minister van Justitie en Veiligheid;
+- *Onze Minister:* Onze Minister van Justitie en Veiligheid;
 
-- **particulier maritiem beveiligingspersoneel:** personeel in dienst van een maritiem beveiligingsbedrijf of personeel dat ter beschikking is gesteld aan het maritiem beveiligingsbedrijf op basis van een uitzendovereenkomst;
+- *particulier maritiem beveiligingspersoneel:* personeel in dienst van een maritiem beveiligingsbedrijf of personeel dat ter beschikking is gesteld aan het maritiem beveiligingsbedrijf op basis van een uitzendovereenkomst;
 
-- **piraterij:** iedere onwettige daad van geweld of aanhouding, alsmede iedere daad van plundering die door de bemanning of de passagiers van een particulier schip voor persoonlijke doeleinden buiten de territoriale zee van een staat wordt gepleegd jegens een ander schip, of een poging daartoe;
+- *piraterij:* iedere onwettige daad van geweld of aanhouding, alsmede iedere daad van plundering die door de bemanning of de passagiers van een particulier schip voor persoonlijke doeleinden buiten de territoriale zee van een staat wordt gepleegd jegens een ander schip, of een poging daartoe;
 
-- **scheepsbeheerder:** de scheepsbeheerder als bedoeld in [artikel 1, eerste lid, onder 1, van de Wet Zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=1);
+- *scheepsbeheerder:* de scheepsbeheerder als bedoeld in [artikel 1, eerste lid, onder 1, van de Wet Zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=1);
 
-- **schip:** een zeeschip als bedoeld in [artikel 8:2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2), in gebruik voor de koopvaardij;
+- *schip:* een zeeschip als bedoeld in [artikel 8:2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2), in gebruik voor de koopvaardij;
 
-- **teamleider:** de particuliere maritieme beveiliger die door het maritiem beveiligingsbedrijf is aangewezen als leidinggevende over het overige particulier maritiem beveiligingspersoneel en die de operationele leiding over het particulier maritiem beveiligingspersoneel heeft tijdens het transport;
+- *teamleider:* de particuliere maritieme beveiliger die door het maritiem beveiligingsbedrijf is aangewezen als leidinggevende over het overige particulier maritiem beveiligingspersoneel en die de operationele leiding over het particulier maritiem beveiligingspersoneel heeft tijdens het transport;
 
-- **territoriale zee:** de territoriale zee als bedoeld in het Verdrag van de Verenigde Naties inzake het recht van de zee (PbEG 1998, L 179/4);
+- *territoriale zee:* de territoriale zee als bedoeld in het Verdrag van de Verenigde Naties inzake het recht van de zee (PbEG 1998, L 179/4);
 
-- **transport:** verplaatsing van een schip tussen twee of meer zeehavens;
+- *transport:* verplaatsing van een schip tussen twee of meer zeehavens;
 
-- **vergunninghouder:** maritiem beveiligingsbedrijf dat houder van een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=1&artikel=3&z=2022-02-01&g=2022-02-01), is;
+- *vergunninghouder:* maritiem beveiligingsbedrijf dat houder van een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=1&artikel=3&z=2022-02-01&g=2022-02-01), is;
 
-- **zeevarende:** de natuurlijke persoon die in enige hoedanigheid werkzaamheden verricht aan boord van een schip.
+- *zeevarende:* de natuurlijke persoon die in enige hoedanigheid werkzaamheden verricht aan boord van een schip.
 
 ##### Artikel 2
 
@@ -247,9 +218,9 @@ Onze Minister kan de vergunning intrekken of schorsen indien:
 
 De vergunninghouder:
 
-- a. maakt tenminste drie maanden voorafgaand aan de beëindiging van de geldigheid van een aan hem verleend ISO-certificaat als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=4&artikel=13&z=2022-02-01&g=2022-02-01), melding daarvan aan Onze Minister;
+- a. maakt tenminste drie maanden voorafgaand aan de beëindiging van de geldigheid van een aan hem verleend ISO-certificaat als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=4&artikel=13&z=2022-02-01&g=2022-02-01), melding daarvan aan Onze Minister;
 
-- b. meldt de schorsing, de opheffing daarvan of de intrekking van een aan hem verleend ISO-certificaat als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=4&artikel=13&z=2022-02-01&g=2022-02-01), onverwijld aan Onze Minister.
+- b. meldt de schorsing, de opheffing daarvan of de intrekking van een aan hem verleend ISO-certificaat als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=4&artikel=13&z=2022-02-01&g=2022-02-01), onverwijld aan Onze Minister.
 
 ### Hoofdstuk 5. Toezicht en handhaving
 
@@ -283,7 +254,7 @@ De vergunninghouder:
 
 2. Na afloop van ieder kalenderjaar stelt Onze Minister een verslag op over het gevoerde toezicht en de sanctionering bij overtreding van de bij en krachtens deze wet gestelde regels.
 
-3. Het in het tweede lid bedoelde verslag bevat tevens informatie over de ontvangen rapportages, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=3&artikel=12&z=2022-02-01&g=2022-02-01), en de meldingen, bedoeld in artikel 12, derde lid, die door een kapitein bij het openbaar ministerie zijn gedaan.
+3. Het in het tweede lid bedoelde verslag bevat tevens informatie over de ontvangen rapportages, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=3&artikel=12&z=2022-02-01&g=2022-02-01), en de meldingen, bedoeld in artikel 12, derde lid, die door een kapitein bij het openbaar ministerie zijn gedaan.
 
 ##### Artikel 17b
 
@@ -293,11 +264,11 @@ De vergunninghouder:
 
 ##### Artikel 18
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 19
 
-Wijzigt de Wet wapens en munitie.
+*Wijzigt de Wet wapens en munitie.*
 
 ##### Artikel 20
 
@@ -312,5 +283,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet ter Bescherming Koopvaardij.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

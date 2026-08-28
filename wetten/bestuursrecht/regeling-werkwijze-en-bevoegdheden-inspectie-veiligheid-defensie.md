@@ -1,59 +1,35 @@
 ---
 title: "Regeling werkwijze en bevoegdheden Inspectie Veiligheid Defensie"
 identifier: "BWBR0042123"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-04-19"
-last_updated: "2019-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042123"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15054423"
-version_id: "25799402"
-internal_id: "C36787331"
-label_id: "15003714"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042123/2019-04-19/0"
-intitule_bron: "Stcrt.2019-21612"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-03"
-intitule_published: "2019-04-18"
-intitule_in_force: "2019-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-21612"
-original_signed_date: "2019-04-03"
-original_published_date: "2019-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-21612"
-entry_into_force_date: "2019-04-19"
-jci_1_3: "jci1.3:c:BWBR0042123&z=2019-04-19&g=2019-04-19"
-jci_1_0: "1.0:c:BWBR0042123&g=2019-04-19"
-citeertitel_status: "officieel"
-signed_date: "2019-04-03"
-entry_into_force: "2019-04-19"
+publicatiedatum: 2019-04-19
+laatste_update: 2019-04-19
+status: geldig
+toestand: 2019-04-19
+bron: "https://wetten.overheid.nl/BWBR0042123"
+opgehaald: 2026-08-28
 ---
-# Regeling werkwijze en bevoegdheden Inspectie Veiligheid Defensie
 
-Besluit:
+# Regeling werkwijze en bevoegdheden Inspectie Veiligheid Defensie
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Defensie;
+- a. *minister:* Minister van Defensie;
 
-- b. **inspectie:** Inspectie Veiligheid Defensie;
+- b. *inspectie:* Inspectie Veiligheid Defensie;
 
-- c. **Inspecteur-Generaal:** Inspecteur-Generaal Veiligheid;
+- c. *Inspecteur-Generaal:* Inspecteur-Generaal Veiligheid;
 
-- d. **voorval:**
+- d. *voorval:*
 
-- •. een onveilige situatie: een situatie die, wanneer er geen actie wordt ondernomen, zou kunnen leiden tot een incident of ongeval;
+   - • een onveilige situatie: een situatie die, wanneer er geen actie wordt ondernomen, zou kunnen leiden tot een incident of ongeval;
 
-- •. een incident: een gebeurtenis die het potentieel heeft de dood van of letsel aan een persoon dan wel schade aan een zaak of het milieu te veroorzaken;
+   - • een incident: een gebeurtenis die het potentieel heeft de dood van of letsel aan een persoon dan wel schade aan een zaak of het milieu te veroorzaken;
 
-- •. een ongeval: een gebeurtenis die de dood van of letsel aan een persoon dan wel schade aan een zaak of het milieu veroorzaakt.
+   - • een ongeval: een gebeurtenis die de dood van of letsel aan een persoon dan wel schade aan een zaak of het milieu veroorzaakt.
 
 ##### Artikel 2
 
@@ -188,5 +164,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling werkwijze en bevoegdheden Inspectie Veiligheid Defensie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

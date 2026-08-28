@@ -1,68 +1,43 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 3 juli 2019, nr. WJZ/ 19151179, houdende maatregelen aanpak stuwmeer schademeldingen Tijdelijke Commissie Mijnbouwschade Groningen (Regeling Stuwmeer TCMG)"
+citeertitel: "Regeling Stuwmeer Tijdelijke Commissie Mijnbouwschade Groningen"
 identifier: "BWBR0042372"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-05"
-last_updated: "2019-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042372"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15115393"
-version_id: "25911042"
-internal_id: "C36921071"
-label_id: "15063744"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042372/2019-07-05/0"
-intitule_bron: "Stcrt.2019-38034"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-03"
-intitule_published: "2019-07-04"
-intitule_in_force: "2019-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-38034"
-original_signed_date: "2019-07-03"
-original_published_date: "2019-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-38034"
-entry_into_force_date: "2019-07-05"
-jci_1_3: "jci1.3:c:BWBR0042372&z=2019-07-05&g=2019-07-05"
-jci_1_0: "1.0:c:BWBR0042372&g=2019-07-05"
-citeertitel_status: "officieel"
-short_title: "Regeling Stuwmeer Tijdelijke Commissie Mijnbouwschade Groningen"
-signed_date: "2019-07-03"
-entry_into_force: "2019-07-05"
+publicatiedatum: 2019-07-05
+laatste_update: 2019-07-05
+status: geldig
+toestand: 2019-07-05
+bron: "https://wetten.overheid.nl/BWBR0042372"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 3 juli 2019, nr. WJZ/ 19151179, houdende maatregelen aanpak stuwmeer schademeldingen Tijdelijke Commissie Mijnbouwschade Groningen (Regeling Stuwmeer TCMG)
-
-Gelet op [artikel 4:81](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- –. **Besluit:** [Besluit mijnbouwschade Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0040584);
+- – *Besluit:*
+ [Besluit mijnbouwschade Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0040584);
 
-- –. **fysieke schade:** fysieke schade aan gebouwen en werken die is ontstaan door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg;
+- – *fysieke schade:* fysieke schade aan gebouwen en werken die is ontstaan door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg;
 
-- –. **Commissie:** Tijdelijke commissie mijnbouwschade Groningen, bedoeld in [artikel 3, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3);
+- – *Commissie:* Tijdelijke commissie mijnbouwschade Groningen, bedoeld in [artikel 3, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3);
 
-- –. **gebouwen en werken:** gebouwen en werken met uitzondering van:
+- – *gebouwen en werken:* gebouwen en werken met uitzondering van:
 
-- a. industriegebouwen zoals gebouwen voor de vervaardiging van chemische producten;
+   - a. industriegebouwen zoals gebouwen voor de vervaardiging van chemische producten;
 
-- b. infrastructurele werken zoals openbare wegen, openbare bruggen, openbare riolering, dijken en netten als bedoeld in [artikel 1 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1) en [artikel 1 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1);
+   - b. infrastructurele werken zoals openbare wegen, openbare bruggen, openbare riolering, dijken en netten als bedoeld in [artikel 1 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1) en [artikel 1 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1);
 
-- –. **overige schade:**
+- – *overige schade:*
 
-- a. materiële schade die het gevolg is van fysieke schade, waaronder de bijkomende kosten genoemd in [bijlage 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=2);
+   - a. materiële schade die het gevolg is van fysieke schade, waaronder de bijkomende kosten genoemd in [bijlage 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=2);
 
-- b. overlastvergoeding als bedoeld in [bijlage 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=2);
+   - b. overlastvergoeding als bedoeld in [bijlage 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=2);
 
-- c. wettelijke rente.
+   - c. wettelijke rente.
 
 ##### Artikel 2
 
@@ -94,9 +69,9 @@ In deze regeling wordt verstaan onder:
 
 - c. indien de aanvrager er ná 14 juli 2019 voor heeft gekozen om de procedure uit [bijlage I van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=1) voort te zetten, door:
 
-- –. in te stemmen met een opname van de schade of rapportage over de aard van de schade door een deskundige als bedoeld in [artikel 5, eerste lid, van bijlage I van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=1), of;
+   - – in te stemmen met een opname van de schade of rapportage over de aard van de schade door een deskundige als bedoeld in [artikel 5, eerste lid, van bijlage I van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=1), of;
 
-- –. een zienswijze te geven op een uitgebracht rapport van een deskundige als bedoeld in [artikel 6, vijfde lid, van bijlage I van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=1) of de daarvoor geldende termijn ongebruikt te laten verstrijken zonder een verzoek als bedoeld in het eerste of tweede lid in te dienen.
+   - – een zienswijze te geven op een uitgebracht rapport van een deskundige als bedoeld in [artikel 6, vijfde lid, van bijlage I van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=1) of de daarvoor geldende termijn ongebruikt te laten verstrijken zonder een verzoek als bedoeld in het eerste of tweede lid in te dienen.
 
 4. Indien een aanvrager met betrekking tot hetzelfde gebouw, werk of adres meerdere aanvragen als bedoeld in [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) heeft gedaan waarop ten tijde van het verzoek als bedoeld in het eerste of het tweede lid nog geen besluit is genomen, wordt door de Commissie op al deze aanvragen, in één keer op grond van deze regeling beslist.
 
@@ -148,11 +123,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7
 
-Wijzigt het Besluit mijnbouwschade Groningen.
+*Wijzigt het Besluit mijnbouwschade Groningen.*
 
 ##### Artikel 8
 
-Wijzigt de Regeling waardevermeerdering woningen gaswinning Groningenveld.
+*Wijzigt de Regeling waardevermeerdering woningen gaswinning Groningenveld.*
 
 ##### Artikel 9
 
@@ -161,5 +136,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling Stuwmeer Tijdelijke Commissie Mijnbouwschade Groningen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

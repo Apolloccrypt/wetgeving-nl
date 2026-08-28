@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur van Kiwa CBS B.V. van 22 maart 2019, houdende verlening van ondermandaat, volmacht en machtiging voor Kiwa CBS B.V. (Besluit ondermandaat, volmacht en machtiging Kiwa CBS B.V. 2019)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging Kiwa CBS B.V. 2019"
 identifier: "BWBR0042082"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-04-02"
-last_updated: "2019-04-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042082"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15044933"
-version_id: "25779792"
-internal_id: "C36758541"
-label_id: "14994274"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042082/2019-04-02/0"
-intitule_bron: "Stcrt.2019-17702"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-22"
-intitule_published: "2019-04-01"
-intitule_in_force: "2019-04-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-17702"
-original_signed_date: "2019-03-22"
-original_published_date: "2019-04-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-17702"
-entry_into_force_date: "2019-04-02"
-jci_1_3: "jci1.3:c:BWBR0042082&z=2019-04-02&g=2019-04-02"
-jci_1_0: "1.0:c:BWBR0042082&g=2019-04-02"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat, volmacht en machtiging Kiwa CBS B.V. 2019"
-signed_date: "2019-03-22"
-entry_into_force: "2019-04-02"
+publicatiedatum: 2019-04-02
+laatste_update: 2019-04-02
+status: geldig
+toestand: 2019-04-02
+bron: "https://wetten.overheid.nl/BWBR0042082"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de directeur van Kiwa CBS B.V. van 22 maart 2019, houdende verlening van ondermandaat, volmacht en machtiging voor Kiwa CBS B.V. (Besluit ondermandaat, volmacht en machtiging Kiwa CBS B.V. 2019)
-
-Gelet op [artikel 4 van het Besluit mandaat, volmacht en machtiging directeur Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens](onbekend);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,5 +29,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging Kiwa CBS B.V. 2019.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

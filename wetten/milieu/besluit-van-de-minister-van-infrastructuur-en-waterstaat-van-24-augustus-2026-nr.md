@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0053052"
-opgehaald: 2026-08-27
+opgehaald: 2026-08-28
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 24 augustus 2026, nr. IENW/BSK-2026/155375, tot erkenning van gelijkwaardige opleidingen voor machinisten op veerboten (Besluit erkenning opleidingen machinist veerboot)

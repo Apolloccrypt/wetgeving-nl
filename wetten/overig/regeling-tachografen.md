@@ -1,46 +1,47 @@
 ---
-title: "Regeling tachografen"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/72827, houdende vaststelling van regels voor de goedkeuring en het gebruik van tachografen alsmede de diplomaeisen van tachograaftechnici en de controle en toezichtbevoegdheden van de Dienst Wegverkeer en tot intrekking van de Regeling controleapparaten 2005 (Regeling tachografen)"
+citeertitel: "Regeling tachografen"
 identifier: "BWBR0042137"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-05-14
+categorie: "Milieu"
+soort: "ministeriele-regeling"
+publicatiedatum: 2019-06-15
+laatste_update: 2026-01-01
 status: geldig
+toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0042137"
+opgehaald: 2026-08-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/72827, houdende vaststelling van regels voor de goedkeuring en het gebruik van tachografen alsmede de diplomaeisen van tachograaftechnici en de controle en toezichtbevoegdheden van de Dienst Wegverkeer en tot intrekking van de Regeling controleapparaten 2005 (Regeling tachografen)
-
-Gelet op [artikel 2.4:12, aanhef en onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:12), en [artikel 2.4:13, eerste lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:13);
-
-BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1:1. Begripsbepaling
 
-1. In deze regeling zijn de definities van artikel 2, tweede lid, van verordening (EU) nr. 165/2014 van toepassing.
+1. In deze regeling zijn de definities van artikel 2, tweede lid, van verordening (EU) nr. 165/2014 van toepassing.
 
 2. Onverminderd de in het eerste lid bedoelde definities, wordt in deze regeling verstaan onder:
 
-- **erkenninghouder:** natuurlijk persoon of rechtspersoon die houder is van een erkenning tachografen of een bij deze regeling daaraan gelijkgestelde erkenning;
+- *erkenninghouder:* natuurlijk persoon of rechtspersoon die houder is van een erkenning tachografen of een bij deze regeling daaraan gelijkgestelde erkenning;
 
-- **erkenning tachografen:** erkenning als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:1&z=2026-01-01&g=2026-01-01);
+- *erkenning tachografen:* erkenning als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:1&z=2026-01-01&g=2026-01-01);
 
-- **installatieplaatje:** bewijs dat de tachograaf in overeenstemming met de verordening (EU) nr. 165/2014 is geïnstalleerd;
+- *installatieplaatje:* bewijs dat de tachograaf in overeenstemming met de verordening (EU) nr. 165/2014 is geïnstalleerd;
 
-- **tachograaftechnicus:** houder van een geldige bevoegdheidspas;
+- *tachograaftechnicus:* houder van een geldige bevoegdheidspas;
 
-- **bevoegdheidspas:** pas, bedoeld in [artikel 2:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-01-01&g=2026-01-01);
+- *bevoegdheidspas:* pas, bedoeld in [artikel 2:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-01-01&g=2026-01-01);
 
-- **werkplaats:** plaats waar werkzaamheden aan tachografen uitgevoerd worden;
+- *werkplaats:* plaats waar werkzaamheden aan tachografen uitgevoerd worden;
 
-- **werkzaamheden:** installeren, controleren, inspecteren of repareren van tachografen;
+- *werkzaamheden:* installeren, controleren, inspecteren of repareren van tachografen;
 
-- **zegelnummer:** uniek identificatienummer van het zegel als bedoeld in artikel 5.3 van Uitvoeringsverordening (EU) nr. 2016/799;
+- *zegelnummer:* uniek identificatienummer van het zegel als bedoeld in artikel 5.3 van Uitvoeringsverordening (EU) nr. 2016/799;
 
-- **kenmerkteken werkplaats:** speciaal merkteken als bedoeld in als bedoeld in artikel 22, derde lid, van de verordening (EU) nr. 165/2014;
+- *kenmerkteken werkplaats:* speciaal merkteken als bedoeld in als bedoeld in artikel 22, derde lid, van de verordening (EU) nr. 165/2014;
 
-- **wet:** [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671).
+- *wet:*
+ [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671).
 
 ### Hoofdstuk 2. De erkenning tachografen en de erkenning bevoegdheid tachograaftechnicus
 
@@ -96,17 +97,21 @@ BESLUIT:
 
 - b. de aanwezigheid van een:
 
-  - i. voorziening geschikt voor datacommunicatie;
+   - i. voorziening geschikt voor datacommunicatie;
 
-  - ii. meetbaan van 20 meter, rollen- of remmentestbank;
+   - ii. meetbaan van 20 meter, rollen- of remmentestbank;
 
-  - iii. meetband;
+   - iii. meetband;
 
-  - iv. bandenprofieldieptemeter met verende stift.
+   - iv. bandenprofieldieptemeter met verende stift.
 
 3. De erkenninghouder bewaart het materiaal dat en de apparatuur die nodig is voor het verzegelen van tachografen en de toegangscode, bedoeld in [artikel 2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:3&z=2026-01-01&g=2026-01-01), in de werkplaats op een wijze die voor onbevoegden niet toegankelijk is.
 
 4. De tachograaftechnicus en de erkenninghouder dragen er zorg voor dat de werkplaatskaart en de bevoegdheidspas met bijbehorende pincodes niet toegankelijk zijn voor onbevoegden.
+
+##### Artikel 2:4.a. Aanwijzing exameninstantie installateur en reparateur tachograaf
+
+Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=9:3) wordt aangewezen de Stichting VAM (IBKI) te Nieuwegein.
 
 ##### Artikel 2:5. Verlening diploma tachograaftechnicus
 
@@ -122,11 +127,11 @@ BESLUIT:
 
 - c. hebben in ieder geval betrekking op:
 
-  - i. de werkzaamheden;
+   - i. de werkzaamheden;
 
-  - ii. het functioneren van motorrijtuigen en van snelheidsbegrenzers in relatie tot de tachograaf; en
+   - ii. het functioneren van motorrijtuigen en van snelheidsbegrenzers in relatie tot de tachograaf; en
 
-  - iii. de wettelijke voorschriften omtrent de onderdelen i. en ii.
+   - iii. de wettelijke voorschriften omtrent de onderdelen i. en ii.
 
 ##### Artikel 2:6. Verlening bevoegdheid tachograaftechnicus
 
@@ -152,19 +157,19 @@ BESLUIT:
 
 ##### Artikel 2a:1. Begripsbepaling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2a:2. Eisen aan een mobiele onderzoekseenheid en inrichting
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2a:3. Gelijkstelling erkenning tachografen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2a:4. Horizonbepaling
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Procedure van werkzaamheden
 
@@ -182,6 +187,18 @@ Vervallen
 
 3. Voor het gebruik van de werkplaatskaart wordt onder testen verstaan: toetsing van een tachograaf voor de eerste ingebruikname van een voertuig of tachograaf, of voor de reparatie van een tachograaf of bij andere aan de tachograaf gerelateerde werkzaamheden.
 
+##### Artikel 3:1a. Voorwaarden uitvoeren werkzaamheden
+
+1. Er worden geen werkzaamheden verricht dan nadat het kentekenregister is geraadpleegd ten aanzien van het voertuigidentificatienummer van het motorrijtuig waarin de tachograaf is geïnstalleerd.
+
+2. In geval de werkzaamheden betrekking hebben op een tachograaf in een niet in Nederland geregistreerd motorrijtuig wordt het voertuigidentificatienummer geraadpleegd via het voor dat motorrijtuig afgegeven kentekenbewijs.
+
+3. Er worden geen werkzaamheden verricht en de tachograaftechnicus wordt naar de Dienst Wegverkeer doorverwezen indien:
+
+- a. het raadplegen van het kentekenregister niet mogelijk is door een onjuiste combinatie van het kenteken en de laatste vier posities van het voertuigidentificatienummer of indien de laatste vier posities van het voertuigidentificatienummer niet bekend zijn;
+
+- b. het voertuigidentificatienummer van het voertuig niet in overeenstemming is met het kentekenregister.
+
 ##### Artikel 3:2. Controle datum eerste toelating
 
 1. Er worden geen werkzaamheden aan een in Nederland geregistreerd voertuig verricht dan nadat het kentekenregister is geraadpleegd om de datum van eerste toelating en het voertuigidentificatienummer van het motorrijtuig waarin de tachograaf is geïnstalleerd, vast te stellen.
@@ -192,7 +209,7 @@ Vervallen
 
 - b. het voertuigidentificatienummer van het voertuig niet in overeenstemming is met het kentekenregister.
 
-3. In een nieuw motorrijtuig worden de werkzaamheden aan de tachograaf uiterlijk uitgevoerd op het tijdstip dat het motorrijtuig voor het eerst in gebruik wordt genomen en wordt ingezet voor wegvervoer waarop [Verordening (EG) nr. 561/2006](32006R0561) van toepassing is.
+3. In een nieuw motorrijtuig worden de werkzaamheden aan de tachograaf uiterlijk uitgevoerd op het tijdstip dat het motorrijtuig voor het eerst in gebruik wordt genomen en wordt ingezet voor wegvervoer waarop Verordening (EG) nr. 561/2006 van toepassing is.
 
 4. In geval de werkzaamheden betrekking hebben op een tachograaf in een niet in Nederland geregistreerd motorrijtuig worden de datum van eerste toelating en het voertuigidentificatienummer van het motorrijtuig geraadpleegd via het voor dat motorrijtuig afgegeven kentekenbewijs.
 
@@ -284,7 +301,7 @@ Vervallen
 
 6. Dit artikel is niet van toepassing op fabrikanten van motorrijtuigen, mits zij zich uitsluitend beperken tot werkzaamheden aan tachografen in motorrijtuigen die voor de eerste maal in gebruik worden genomen.
 
-### Hoofdstuk 4. Het bewaren van gegevens
+### Hoofdstuk 5. Toezicht, intrekking en schorsing erkenning tachografen
 
 ##### Artikel 5:1. Steekproefsgewijze controle
 
@@ -292,7 +309,7 @@ Vervallen
 
 2. De steekproefsgewijze controle vangt aan op het moment dat de Dienst Wegverkeer de erkenninghouder en de tachograaftechnicus meedeelt dat deze controle gaat plaatsvinden.
 
-3. Na aanvang van de steekproefsgewijze controle worden aan of in het voertuig of de tachograaf waarop de controle ziet, gedurende 90 minuten geen handelingen verricht.
+3. Na aanvang van de steekproefsgewijze controle worden aan of in het voertuig of de tachograaf waarop de controle ziet, gedurende 90 minuten geen handelingen verricht.
 
 4. Voorafgaande aan de steekproefsgewijze controle overhandigt de erkenninghouder of tachograaftechnicus de aan de werkzaamheden gerelateerde documenten en het installatieplaatje aan de Dienst Wegverkeer.
 
@@ -334,9 +351,9 @@ Vervallen
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-##### Artikel 6:1. Wijziging [Regeling tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0018544)
+##### Artikel 6:1. Wijziging Regeling tachograafkaarten
 
-Wijzigt de Regeling tachograafkaarten.
+*Wijzigt de Regeling tachograafkaarten.*
 
 ##### Artikel 6:2. Overgangsbepalingen
 
@@ -344,13 +361,13 @@ Wijzigt de Regeling tachograafkaarten.
 
 2. Een bevoegdheidspas verstrekt op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540), wordt voor de resterende looptijd gelijkgesteld met een bevoegdheidspas als bedoeld in [artikel 2:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-01-01&g=2026-01-01).
 
-3. Aan de eisen ten aanzien van de hefbrug dan wel inspectieput zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-01-01&g=2026-01-01) van deze Regeling wordt voldaan op 1 juli 2020.
+3. Aan de eisen ten aanzien van de hefbrug dan wel inspectieput zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-01-01&g=2026-01-01) van deze Regeling wordt voldaan op 1 juli 2020.
 
-4. Een erkenning als installateur of reparateur, verleend op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540) zoals die luidde onmiddellijk voorafgaand aan het tijdstip waarop deze regeling in werking treedt, voor een mobiele onderzoekseenheid die op grond van [artikel 2a:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2a&artikel=2a:3&z=2026-01-01&g=2026-01-01), geldigheid heeft, vervalt met ingang van 1 juli 2025.
+4. Een erkenning als installateur of reparateur, verleend op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540) zoals die luidde onmiddellijk voorafgaand aan het tijdstip waarop deze regeling in werking treedt, voor een mobiele onderzoekseenheid die op grond van [artikel 2a:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2a&artikel=2a:3&z=2026-01-01&g=2026-01-01), geldigheid heeft, vervalt met ingang van 1 juli 2025.
 
 ##### Artikel 6:3. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 15 juni 2019.
+Deze regeling treedt in werking met ingang van 15 juni 2019.
 
 ##### Artikel 6:4. Intrekking regelgeving
 
@@ -359,323 +376,3 @@ De [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR001
 ##### Artikel 6:5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tachografen.
-
-## Bijlage I. Overzicht eisen aan werkplaatsen
-
-De werkplaats is:
-
-- a. overdekt, behoorlijk af te sluiten, goed verlicht en voorzien van verwarming;
-
-- b. van zodanige afmetingen en zodanig ingericht dat de voertuigen waaraan de werkzaamheden worden verricht aan tachografen in deze ruimte zodanig kunnen worden opgesteld dat zij van alle zijden goed toegankelijk zijn;
-
-- c. zodanig ingericht dat de administratie van de werkzaamheden behoorlijk kan worden uitgevoerd.
-
-In de werkplaats zijn aanwezig:
-
-- a. een voorziening die geschikt is voor het gebruik van datacommunicatie;
-
-- b. het register, bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:6&z=2019-06-15&g=2019-06-15);
-
-- c. de administratie van de manipulatieformulieren en het certificaat van onmogelijkheid van gegevensoverdracht;
-
-- d. een deugdelijke administratie van zegelnummers.
-
-In de werkplaats is een inspectieput of hefinrichting aanwezig:
-
-- a. die geschikt is voor de voertuigen waaraan de werkzaamheden van de tachografen worden verricht;
-
-- b. die is voorzien van een doelmatige verlichting;
-
-- c. waarvan het draagvermogen hefinrichting zichtbaar is aangebracht;
-
-- d. die een tachograaftechnicus in staat stelt de werkzaamheden aan het voertuig en de tachograaf nagenoeg over de hele lengte rechtopstaand uit te voeren. Dit betekent dat
-
-  - i. de hefinrichting een hefhoogte heeft van ten minste 1,35 m;
-
-  - ii. de inspectieput een diepte heeft van ten minste 1,35 m;
-
-- e. die in een goede staat van onderhoud verkeert.
-
-In de werkplaats is de volgende apparatuur aanwezig:
-
-- a. een door de tachograaffabrikant geaccepteerde rollentestbank of remmentestbank ten behoeve van het bepalen van het kenmerkend coëfficiënt of het bepalen van de bandenomtrek dan wel een voor motorrijtuigen geschikte horizontale effen meetbaan van ten minste 20 meter lengte;
-
-- b. een dubbel geïsoleerde veiligheidslooplamp dan wel een zaklantaarn, al dan niet voorzien van een oplaadbare accu, die enerzijds een zodanige lichtsterkte heeft dat ook moeilijk bereikbare onderdelen van een voertuig voldoende helder kunnen worden verlicht om een nauwkeurige controle van een tachograafinstallatie mogelijk te maken en die anderzijds zodanig is afgeschermd dat degene die de keuring uitvoert niet door het uitgestraalde licht wordt verblind;
-
-- c. een meetband met een minimale nauwkeurigheidsklasse III van voldoende lengte(minimaal 20 meter);
-
-- d. basisgereedschap voor de werkzaamheden van een tachograaf;
-
-- e. een bandenpomp met bandenluchtdrukmeetapparatuur;
-
-- f. een doelmatige bandenprofieldieptemeter met verende stift en met een meetnauwkeurigheid van 0,1 mm;
-
-- g. die in goede staat van onderhoud verkeert.
-
-In de werkplaats is, in goede staat van onderhoud en voorzien van CE-markering en aanvullende metrologische markering, aanwezig voor de typen tachografen waarop de werkzaamheden zien:
-
-- a. door de fabrikant of importeur van een tachograaf voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte meetapparatuur voor het bepalen van het kenmerkend coëfficiënt;
-
-- b. een door de fabrikant of importeur van tachografen voorgeschreven dan wel een door de Dienst Wegverkeer gelijkwaardig geachte impulsenteller;
-
-- c. door de fabrikant of importeur van tachografen voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte testapparatuur voor snelheids- en afstandsmetingen alsmede voor de daarop betrekking hebbende registratie;
-
-- d. een verzegelinrichting;
-
-- e. overige, door de fabrikant of importeur van de tachografen voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte gereedschappen, apparatuur, werkplaatshandboeken, actuele documentatie en, voor de elektronische apparatuur, handleidingen in de Nederlandse taal;
-
-- f. een afsluitbare kast, dan wel over een gelijkwaardige voorziening, waarin de hierboven genoemde testapparatuur, verzegelinrichting en documentatie worden opgeborgen.
-
-- g. Indien werkzaamheden aan een analoge tachograaf worden uitgevoerd:
-
-  - a. apparatuur voorzien van een loep voor de werkzaamheden en van testregistratiebladen;
-
-  - b. een onderzoeksjabloon waarop de toegestane tolerantiegebieden staan aangegeven.
-
-## Bijlage I. Overzicht eisen aan werkplaatsen
-
-De werkplaats is:
-
-- a. overdekt, behoorlijk af te sluiten, goed verlicht en voorzien van verwarming;
-
-- b. van zodanige afmetingen en zodanig ingericht dat de voertuigen waaraan de werkzaamheden worden verricht aan tachografen in deze ruimte zodanig kunnen worden opgesteld dat zij van alle zijden goed toegankelijk zijn;
-
-- c. zodanig ingericht dat de administratie van de werkzaamheden behoorlijk kan worden uitgevoerd.
-
-In de werkplaats zijn aanwezig:
-
-- a. een voorziening die geschikt is voor het gebruik van datacommunicatie;
-
-- b. het register, bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:6&z=2025-06-01&g=2025-06-01);
-
-- c. de administratie van de manipulatieformulieren en het certificaat van onmogelijkheid van gegevensoverdracht;
-
-- d. een deugdelijke administratie van zegelnummers.
-
-In de werkplaats is een inspectieput of hefinrichting aanwezig:
-
-- a. die geschikt is voor de voertuigen waaraan de werkzaamheden van de tachografen worden verricht;
-
-- b. die is voorzien van een doelmatige verlichting;
-
-- c. waarvan het draagvermogen hefinrichting zichtbaar is aangebracht;
-
-- d. die een tachograaftechnicus in staat stelt de werkzaamheden aan het voertuig en de tachograaf nagenoeg over de hele lengte rechtopstaand uit te voeren. Dit betekent dat
-
-  - i. de hefinrichting een hefhoogte heeft van ten minste 1,35 m;
-
-  - ii. de inspectieput een diepte heeft van ten minste 1,35 m;
-
-- e. die in een goede staat van onderhoud verkeert.
-
-In de werkplaats is de volgende apparatuur aanwezig:
-
-- a. een door de tachograaffabrikant geaccepteerde rollentestbank of remmentestbank ten behoeve van het bepalen van het kenmerkend coëfficiënt of het bepalen van de bandenomtrek dan wel een voor motorrijtuigen geschikte horizontale effen meetbaan van ten minste 20 meter lengte;
-
-- b. een dubbel geïsoleerde veiligheidslooplamp dan wel een zaklantaarn, al dan niet voorzien van een oplaadbare accu, die enerzijds een zodanige lichtsterkte heeft dat ook moeilijk bereikbare onderdelen van een voertuig voldoende helder kunnen worden verlicht om een nauwkeurige controle van een tachograafinstallatie mogelijk te maken en die anderzijds zodanig is afgeschermd dat degene die de keuring uitvoert niet door het uitgestraalde licht wordt verblind;
-
-- c. een meetband met een minimale nauwkeurigheidsklasse III van voldoende lengte(minimaal 20 meter);
-
-- d. basisgereedschap voor de werkzaamheden van een tachograaf;
-
-- e. een bandenpomp met bandenluchtdrukmeetapparatuur;
-
-- f. een doelmatige bandenprofieldieptemeter met verende stift en met een meetnauwkeurigheid van 0,1 mm;
-
-- g. die in goede staat van onderhoud verkeert.
-
-In de werkplaats is, in goede staat van onderhoud en voorzien van CE-markering en aanvullende metrologische markering, aanwezig voor de typen tachografen waarop de werkzaamheden zien:
-
-- a. door de fabrikant of importeur van een tachograaf voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte meetapparatuur voor het bepalen van het kenmerkend coëfficiënt;
-
-- b. een door de fabrikant of importeur van tachografen voorgeschreven dan wel een door de Dienst Wegverkeer gelijkwaardig geachte impulsenteller;
-
-- c. door de fabrikant of importeur van tachografen voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte testapparatuur voor snelheids- en afstandsmetingen alsmede voor de daarop betrekking hebbende registratie;
-
-- d. een verzegelinrichting;
-
-- e. overige, door de fabrikant of importeur van de tachografen voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte gereedschappen, apparatuur, werkplaatshandboeken, actuele documentatie en, voor de elektronische apparatuur, handleidingen in de Nederlandse taal;
-
-- f. een afsluitbare kast, dan wel over een gelijkwaardige voorziening, waarin de hierboven genoemde testapparatuur, verzegelinrichting en documentatie worden opgeborgen.
-
-- g. Indien werkzaamheden aan een analoge tachograaf worden uitgevoerd:
-
-  - a. apparatuur voorzien van een loep voor de werkzaamheden en van testregistratiebladen;
-
-  - b. een onderzoeksjabloon waarop de toegestane tolerantiegebieden staan aangegeven.
-
-## Bijlage I. Overzicht eisen aan werkplaatsen
-
-De werkplaats is:
-
-- a. overdekt, behoorlijk af te sluiten, goed verlicht en voorzien van verwarming;
-
-- b. van zodanige afmetingen en zodanig ingericht dat de voertuigen waaraan de werkzaamheden worden verricht aan tachografen in deze ruimte zodanig kunnen worden opgesteld dat zij van alle zijden goed toegankelijk zijn;
-
-- c. zodanig ingericht dat de administratie van de werkzaamheden behoorlijk kan worden uitgevoerd.
-
-In de werkplaats zijn aanwezig:
-
-- a. een voorziening die geschikt is voor het gebruik van datacommunicatie;
-
-- b. het register, bedoeld in [artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:6&z=2026-01-01&g=2026-01-01);
-
-- c. de administratie van de manipulatieformulieren en het certificaat van onmogelijkheid van gegevensoverdracht;
-
-- d. een deugdelijke administratie van zegelnummers.
-
-In de werkplaats is een inspectieput of hefinrichting aanwezig:
-
-- a. die geschikt is voor de voertuigen waaraan de werkzaamheden van de tachografen worden verricht;
-
-- b. die is voorzien van een doelmatige verlichting;
-
-- c. waarvan het draagvermogen hefinrichting zichtbaar is aangebracht;
-
-- d. die een tachograaftechnicus in staat stelt de werkzaamheden aan het voertuig en de tachograaf nagenoeg over de hele lengte rechtopstaand uit te voeren. Dit betekent dat
-
-  - i. de hefinrichting een hefhoogte heeft van ten minste 1,35 m;
-
-  - ii. de inspectieput een diepte heeft van ten minste 1,35 m;
-
-- e. die in een goede staat van onderhoud verkeert.
-
-In de werkplaats is de volgende apparatuur aanwezig:
-
-- a. een door de tachograaffabrikant geaccepteerde rollentestbank of remmentestbank ten behoeve van het bepalen van het kenmerkend coëfficiënt of het bepalen van de bandenomtrek dan wel een voor motorrijtuigen geschikte horizontale effen meetbaan van ten minste 20 meter lengte;
-
-- b. een dubbel geïsoleerde veiligheidslooplamp dan wel een zaklantaarn, al dan niet voorzien van een oplaadbare accu, die enerzijds een zodanige lichtsterkte heeft dat ook moeilijk bereikbare onderdelen van een voertuig voldoende helder kunnen worden verlicht om een nauwkeurige controle van een tachograafinstallatie mogelijk te maken en die anderzijds zodanig is afgeschermd dat degene die de keuring uitvoert niet door het uitgestraalde licht wordt verblind;
-
-- c. een meetband met een minimale nauwkeurigheidsklasse III van voldoende lengte(minimaal 20 meter);
-
-- d. basisgereedschap voor de werkzaamheden van een tachograaf;
-
-- e. een bandenpomp met bandenluchtdrukmeetapparatuur;
-
-- f. een doelmatige bandenprofieldieptemeter met verende stift en met een meetnauwkeurigheid van 0,1 mm;
-
-- g. die in goede staat van onderhoud verkeert.
-
-In de werkplaats is, in goede staat van onderhoud en voorzien van CE-markering en aanvullende metrologische markering, aanwezig voor de typen tachografen waarop de werkzaamheden zien:
-
-- a. door de fabrikant of importeur van een tachograaf voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte meetapparatuur voor het bepalen van het kenmerkend coëfficiënt;
-
-- b. een door de fabrikant of importeur van tachografen voorgeschreven dan wel een door de Dienst Wegverkeer gelijkwaardig geachte impulsenteller;
-
-- c. door de fabrikant of importeur van tachografen voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte testapparatuur voor snelheids- en afstandsmetingen alsmede voor de daarop betrekking hebbende registratie;
-
-- d. een verzegelinrichting;
-
-- e. overige, door de fabrikant of importeur van de tachografen voorgeschreven dan wel door de Dienst Wegverkeer gelijkwaardig geachte gereedschappen, apparatuur, werkplaatshandboeken, actuele documentatie en, voor de elektronische apparatuur, handleidingen in de Nederlandse taal;
-
-- f. een afsluitbare kast, dan wel over een gelijkwaardige voorziening, waarin de hierboven genoemde testapparatuur, verzegelinrichting en documentatie worden opgeborgen.
-
-- g. Indien werkzaamheden aan een analoge tachograaf worden uitgevoerd:
-
-  - a. apparatuur voorzien van een loep voor de werkzaamheden en van testregistratiebladen;
-
-  - b. een onderzoeksjabloon waarop de toegestane tolerantiegebieden staan aangegeven.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2:4.a. Aanwijzing exameninstantie installateur en reparateur tachograaf
-
-Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=9:3) wordt aangewezen de Stichting VAM (IBKI) te Nieuwegein.
-
-### Hoofdstuk 2a. Mobiele onderzoekseenheden en inrichtingen
-
-### Hoofdstuk 3. Procedure van werkzaamheden
-
-### Hoofdstuk 4. Het bewaren van gegevens
-
-### Hoofdstuk 5. Toezicht, intrekking en schorsing erkenning tachografen
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-## Bijlage Ia. Overzicht eisen aan inrichtingen en mobiele onderzoekseenheden
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3:1a. Voorwaarden uitvoeren werkzaamheden
-
-1. Er worden geen werkzaamheden verricht dan nadat het kentekenregister is geraadpleegd ten aanzien van het voertuigidentificatienummer van het motorrijtuig waarin de tachograaf is geïnstalleerd.
-
-2. In geval de werkzaamheden betrekking hebben op een tachograaf in een niet in Nederland geregistreerd motorrijtuig wordt het voertuigidentificatienummer geraadpleegd via het voor dat motorrijtuig afgegeven kentekenbewijs.
-
-3. Er worden geen werkzaamheden verricht en de tachograaftechnicus wordt naar de Dienst Wegverkeer doorverwezen indien:
-
-- a. het raadplegen van het kentekenregister niet mogelijk is door een onjuiste combinatie van het kenteken en de laatste vier posities van het voertuigidentificatienummer of indien de laatste vier posities van het voertuigidentificatienummer niet bekend zijn;
-
-- b. het voertuigidentificatienummer van het voertuig niet in overeenstemming is met het kentekenregister.
-
-### Hoofdstuk 5. Toezicht, intrekking en schorsing erkenning tachografen
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-## Bijlage II. Gegevens voor in het register van werkzaamheden
-
-- 1. Met betrekking tot de erkenninghouder:
-
-  - a. de naam en het adres van de erkenninghouder,
-
-  - b. de naam en het nummer van de bevoegdheidspas van de tachograaftechnicus die werkzaamheden heeft verricht,
-
-  - c. werkplaatskaartnummer indien het een digitale tachograaf betreft.
-
-- 2. Met betrekking tot het motorrijtuig:
-
-  - a. het kenteken of indien het motorrijtuig nog niet is voorzien van een kenteken, het identificatienummer,
-
-  - b. merk en type,
-
-  - c. de kilometerstand,
-
-  - d. de effectieve omtrek van de wielbanden wielen in mm,
-
-  - e. de ongecorrigeerde kenmerkende coëfficiënt van het motorrijtuig in omw/km of imp/km,
-
-  - f. indien het een digitaal tachograaf betreft:
-
-    - i. de bandenmaat,
-
-    - ii. de instelling van de snelheidsbegrenzer.
-
-- 3. Met betrekking tot de installatie:
-
-  - a. de ongecorrigeerde kenmerkende coëfficiënt in omw/km of imp/km of in geval van een aanpasbare tachograaf de ingestelde apparaatconstante in imp/km,
-
-  - b. het merk, type en serienummer van de tachograaf.
-
-- 4. Met betrekking tot de werkzaamheden:
-
-  - a. de datum en tijd van de werkzaamheden,
-
-  - b. de ondertekening door tachograaftechnicus,
-
-  - c. doel van de werkzaamheden,
-
-  - d. resultaat manipulatiecontrole.
-
-- 5. Met betrekking tot een reparatie:
-
-  - a. de naam en het adres van de erkenninghouder reparateur,
-
-  - b. de naam van de tachograaftechnicus die de reparatie heeft uitgevoerd,
-
-  - c. merk, type en serienummer van de tachograaf,
-
-  - d. de aard van de reparatie,
-
-  - e. de datum en tijd van de reparatie,
-
-  - f. de ondertekening door tachograaftechnicus indien het de reparatie van een tachograaf betreft.
-
-- 6. En worden toegevoegd:
-
-  - a. het bij de werkzaamheden voor een analoge tachograaf gebruikte testregistratieblad(en),
-
-  - b. de bij de werkzaamheden voor een digitale tachograaf gemaakte afdrukken en het opgeslagen document met de testresultaten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

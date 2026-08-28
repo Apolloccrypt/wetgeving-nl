@@ -1,61 +1,33 @@
 ---
 title: "Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Groninger Archieven’"
 identifier: "BWBR0042022"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-08-01"
-last_updated: "2016-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042022"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15030663"
-version_id: "25751782"
-internal_id: "C36725831"
-label_id: "14980584"
-dtd_version: "2.0"
-original_entry_into_force: "2016-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042022/2016-08-01/0"
-intitule_bron: "Stcrt.2016-34022"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-24"
-intitule_published: "2016-07-04"
-intitule_in_force: "2016-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-34022"
-original_signed_date: "2016-05-24"
-original_published_date: "2016-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-34022"
-entry_into_force_date: "2016-08-01"
-jci_1_3: "jci1.3:c:BWBR0042022&z=2016-08-01&g=2016-08-01"
-jci_1_0: "1.0:c:BWBR0042022&g=2016-08-01"
-citeertitel_status: "officieel"
-signed_date: "2016-05-24"
-entry_into_force: "2016-08-01"
+publicatiedatum: 2016-08-01
+laatste_update: 2016-08-01
+status: geldig
+toestand: 2016-08-01
+bron: "https://wetten.overheid.nl/BWBR0042022"
+opgehaald: 2026-08-28
 ---
+
 # Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Groninger Archieven’
-
-Gelet op [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I) en [IX van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX);
-
-Besluiten:
-
-tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de rijksarchiefbewaarplaats in de provincie Groningen en de archiefbewaarplaats van de gemeente Groningen;
 
 ##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de gemeente:** de gemeente Groningen;
+- b. *de gemeente:* de gemeente Groningen;
 
-- c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeente voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente;
+- d. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeente voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente;
 
-- e. **college:** het college van burgemeester en wethouders van de gemeente, en
+- e. *college:* het college van burgemeester en wethouders van de gemeente, en
 
-- f. **provincie:** de provincie Groningen.
+- f. *provincie:* de provincie Groningen.
 
 ##### Artikel 2
 

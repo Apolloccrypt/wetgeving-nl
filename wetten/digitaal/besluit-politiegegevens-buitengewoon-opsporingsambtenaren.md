@@ -1,70 +1,39 @@
 ---
 title: "Besluit van 6 februari 2019, houdende bepalingen inzake de overeenkomstige toepassing van de Wet politiegegevens op de verwerking van persoonsgegevens door personen die als buitengewoon opsporingsambtenaar zijn belast met de opsporing van strafbare feiten (Besluit politiegegevens buitengewoon opsporingsambtenaren)"
+citeertitel: "Besluit politiegegevens buitengewoon opsporingsambtenaren"
 identifier: "BWBR0041971"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041971"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "15015973"
-version_id: "25722332"
-internal_id: "C36688181"
-label_id: "14965874"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041971/2025-01-01/0"
-intitule_bron: "Stb.2019-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-02-06"
-intitule_published: "2019-03-08"
-intitule_in_force: "2019-03-08"
-intitule_status: "goed"
-original_publication: "Stb.2019-85"
-original_signed_date: "2019-02-06"
-original_published_date: "2019-03-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-85"
-entry_into_force_date: "2019-03-09"
-jci_1_3: "jci1.3:c:BWBR0041971&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0041971&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit politiegegevens buitengewoon opsporingsambtenaren"
-signed_date: "2019-02-06"
-entry_into_force: "2019-03-09"
+publicatiedatum: 2019-03-09
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0041971"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 6 februari 2019, houdende bepalingen inzake de overeenkomstige toepassing van de Wet politiegegevens op de verwerking van persoonsgegevens door personen die als buitengewoon opsporingsambtenaar zijn belast met de opsporing van strafbare feiten (Besluit politiegegevens buitengewoon opsporingsambtenaren)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming, gedaan mede namens Onze Minister van Defensie, van 10 oktober 2018, nr. 2382477, directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=15), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18), en [46, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 19 december 2018, nr. W16.18.0311/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming, mede namens Onze Minister van Defensie, van 1 februari 2019, nr.2473765, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definitiebepaling
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463);
+- a. *wet:*
+ [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463);
 
-- b. **buitengewoon opsporingsambtenaar:** de personen, bedoeld in [artikel 142, eerste lid, onderdelen a tot en met c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+- b. *buitengewoon opsporingsambtenaar:* de personen, bedoeld in [artikel 142, eerste lid, onderdelen a tot en met c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- c. **verwerkingsverantwoordelijke:** de werkgever, bedoeld in [artikel 1, onderdeel h, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1);
+- c. *verwerkingsverantwoordelijke:* de werkgever, bedoeld in [artikel 1, onderdeel h, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1);
 
-- d. **de opsporingstaak:** de opsporing van de strafbare feiten, bedoeld in de akte of aanwijzing van opsporingsbevoegdheid, bedoeld in [artikel 142, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+- d. *de opsporingstaak:* de opsporing van de strafbare feiten, bedoeld in de akte of aanwijzing van opsporingsbevoegdheid, bedoeld in [artikel 142, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- e. **ambtenaar van politie:** de ambtenaar, bedoeld in [artikel 1, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
+- e. *ambtenaar van politie:* de ambtenaar, bedoeld in [artikel 1, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
 
-- f. **bevoegde functionaris:** functionaris, bedoeld in [artikel 2:10, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:10) of een andere daartoe aangewezen buitengewoon opsporingsambtenaar die beschikt over voldoende kennis en vaardigheden;
+- f. *bevoegde functionaris:* functionaris, bedoeld in [artikel 2:10, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:10) of een andere daartoe aangewezen buitengewoon opsporingsambtenaar die beschikt over voldoende kennis en vaardigheden;
 
-- g. **politiegegevens over toezicht:** politiegegevens die betrekking hebben op het toezicht op de naleving van wetgeving of de uitvoering van wettelijke voorschriften;
+- g. *politiegegevens over toezicht:* politiegegevens die betrekking hebben op het toezicht op de naleving van wetgeving of de uitvoering van wettelijke voorschriften;
 
-- h. **domein:** het in de akte vermelde maatschappelijke deelterrein waarop de buitengewoon opsporingsambtenaar werkzaam is, als aangewezen in de domeinlijsten zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+- h. *domein:* het in de akte vermelde maatschappelijke deelterrein waarop de buitengewoon opsporingsambtenaar werkzaam is, als aangewezen in de domeinlijsten zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 ##### Artikel 2. Van overeenkomstige toepassing verklaring
 
@@ -109,5 +78,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit politiegegevens buitengewoon opsporingsambtenaren.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

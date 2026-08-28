@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 juni 2019, nr. 2019-0000251071, houdende instelling van de Commissie van onderzoek inzake misstanden ProDemos-Huis voor democratie en rechtsstaat"
+citeertitel: "Besluit instelling Commissie van onderzoek inzake misstanden ProDemos-Huis voor democratie en rechtsstaat"
 identifier: "BWBR0042349"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-02"
-last_updated: "2019-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042349"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "15111283"
-version_id: "25902392"
-internal_id: "C36910951"
-label_id: "15059714"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042349/2019-07-02/0"
-intitule_bron: "Stcrt.2019-35836"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-13"
-intitule_published: "2019-07-01"
-intitule_in_force: "2019-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-35836"
-original_signed_date: "2019-06-13"
-original_published_date: "2019-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-35836"
-entry_into_force_date: "2019-07-02"
-jci_1_3: "jci1.3:c:BWBR0042349&z=2019-07-02&g=2019-07-02"
-jci_1_0: "1.0:c:BWBR0042349&g=2019-07-02"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling Commissie van onderzoek inzake misstanden ProDemos-Huis voor democratie en rechtsstaat"
-signed_date: "2019-06-13"
-entry_into_force: "2019-07-02"
+publicatiedatum: 2019-07-02
+laatste_update: 2019-07-02
+status: geldig
+toestand: 2019-07-02
+bron: "https://wetten.overheid.nl/BWBR0042349"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 juni 2019, nr. 2019-0000251071, houdende instelling van de Commissie van onderzoek inzake misstanden ProDemos-Huis voor democratie en rechtsstaat
-
-Overwegende dat in overleg met de Voorzitter van de Tweede Kamer is besloten een onafhankelijk extern onderzoek te laten doen naar de meldingen die binnen ProDemos - Huis voor Democratie en Rechtsstaat zijn gedaan van grensoverschrijdend gedrag door een van haar medewerkers;
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042349&artikel=2&z=2019-07-02&g=2019-07-02);
+- a. *commissie:* commissie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042349&artikel=2&z=2019-07-02&g=2019-07-02);
 
-- b. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **ministerie:** Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- c. *ministerie:* Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- d. **ProDemos:** Stichting ProDemos - Huis voor democratie en rechtsstaat.
+- d. *ProDemos:* Stichting ProDemos - Huis voor democratie en rechtsstaat.
 
 ##### Artikel 2. Instelling en taak
 
@@ -80,11 +52,11 @@ In dit besluit wordt verstaan onder:
 
 De leden van de commissie zijn:
 
-- –. mr. T.H.J. Joustra, tevens voorzitter;
+- – mr. T.H.J. Joustra, tevens voorzitter;
 
-- –. prof. dr. P.L. Meurs;
+- – prof. dr. P.L. Meurs;
 
-- –. mr. G.N. Roes
+- – mr. G.N. Roes
 
 ##### Artikel 5. Secretarissen
 
@@ -143,5 +115,3 @@ De leden van de commissie zijn:
 ##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

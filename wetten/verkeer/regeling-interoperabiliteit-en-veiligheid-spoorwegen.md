@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 juni 2019, nr. IENW/BSK- 2019/122715, houdende nadere implementatie van richtlijn (EU) 2016/797 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de interoperabiliteit van het spoorwegsysteem in de Europese Unie (PbEU 2016, L 138/44) en van richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138/102) (Regeling interoperabiliteit en veiligheid spoorwegen)"
+citeertitel: "Regeling interoperabiliteit en veiligheid spoorwegen"
 identifier: "BWBR0042287"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042287"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15092643"
-version_id: "25871322"
-internal_id: "C36873141"
-label_id: "15041654"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042287/2025-01-01/0"
-intitule_bron: "Stcrt.2019-30931"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-04"
-intitule_published: "2019-06-13"
-intitule_in_force: "2019-06-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-30931"
-original_signed_date: "2019-06-04"
-original_published_date: "2019-06-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-30931"
-entry_into_force_date: "2019-06-16"
-jci_1_3: "jci1.3:c:BWBR0042287&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0042287&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling interoperabiliteit en veiligheid spoorwegen"
-signed_date: "2019-06-04"
-entry_into_force: "2019-06-16"
+publicatiedatum: 2019-06-16
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0042287"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 juni 2019, nr. IENW/BSK- 2019/122715, houdende nadere implementatie van richtlijn (EU) 2016/797 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de interoperabiliteit van het spoorwegsysteem in de Europese Unie (PbEU 2016, L 138/44) en van richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138/102) (Regeling interoperabiliteit en veiligheid spoorwegen)
-
-Handelende in overeenstemming met de Minister van Justitie en Veiligheid;
-
-Gelet op [richtlijn 2016/797](32016L0797)/EU van het Europees Parlement en de Raad van 11 mei 2016 betreffende de interoperabiliteit van het spoorwegsysteem in de Europese Unie (PbEU 2016, L 138/44), [richtlijn 2016/798](32016L0798)/EU van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138/102) en de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=3a), [16f, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16f), [26b onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26b), [26d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26d), [26e, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26e), [26g](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26g), [26j, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26j), [26o, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26o), [26t, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26t), [26z, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26z), [26cc, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26cc), [35, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=35), [artikel 38, eerste lid, onderdelen a tot en met d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=38), [artikel 81, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=81), en [91, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=91), [artikel 16b, onderdeel c, van het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&artikel=16b), de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=29), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=44), [45, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=45), [55, vijfde lid, van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=55), en [artikel 13 van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=13);
-
-BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,29 +20,31 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **besluit nr. 768/2008/EG:** besluit nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad (PbEU 2008, L 218);
+- *besluit nr. 768/2008/EG:* besluit nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad (PbEU 2008, L 218);
 
-- **besluit 2010/713/EU:** besluit nr. 2010/713/EU van de Commissie van 9 november 2010 inzake de modules voor de procedure voor de beoordeling van de conformiteit, de geschiktheid voor gebruik en de EG-keuring die moet worden toegepast in het kader van de overeenkomstig [richtlijn 2008/57/EG](32008L0057) van het Europees Parlement en de Raad vastgestelde technische specificaties inzake interoperabiliteit (PbEU 2010, L 319);
+- *besluit 2010/713/EU:* besluit nr. 2010/713/EU van de Commissie van 9 november 2010 inzake de modules voor de procedure voor de beoordeling van de conformiteit, de geschiktheid voor gebruik en de EG-keuring die moet worden toegepast in het kader van de overeenkomstig richtlijn 2008/57/EG van het Europees Parlement en de Raad vastgestelde technische specificaties inzake interoperabiliteit (PbEU 2010, L 319);
 
-- **gedelegeerde verordening (EU) 2018/762:** gedelegeerde verordening (EU) 2018/762 van de Commissie van 8 maart 2018 tot vaststelling van gemeenschappelijke veiligheidsmethoden inzake de eisen voor veiligheidsbeheersystemen overeenkomstig Richtlijn (EU) 2016/798 van het Europees Parlement en de Raad, en tot intrekking van de Verordeningen (EU) nr. 1158/2010 en (EU) nr. 1169/2010 (PbEU 2018, L 129/26);
+- *gedelegeerde verordening (EU) 2018/762:* gedelegeerde verordening (EU) 2018/762 van de Commissie van 8 maart 2018 tot vaststelling van gemeenschappelijke veiligheidsmethoden inzake de eisen voor veiligheidsbeheersystemen overeenkomstig Richtlijn (EU) 2016/798 van het Europees Parlement en de Raad, en tot intrekking van de Verordeningen (EU) nr. 1158/2010 en (EU) nr. 1169/2010 (PbEU 2018, L 129/26);
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **Raad voor Accreditatie:**Stichting Raad voor Accreditatie, als bedoeld in [artikel 1, onderdeel e, van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=1);
+- *Raad voor Accreditatie:*Stichting Raad voor Accreditatie, als bedoeld in [artikel 1, onderdeel e, van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=1);
 
-- **soort vervoer:** soort vervoer als bedoeld in artikel 3, onderdeel 31, van de spoorwegveiligheidsrichtlijn;
+- *soort vervoer:* soort vervoer als bedoeld in artikel 3, onderdeel 31, van de spoorwegveiligheidsrichtlijn;
 
-- **uitvoeringsverordening (EU) 402/2013:** uitvoeringsverordening (EU) 402/2013 van de Commissie van 30 april 2013 betreffende de gemeenschappelijke veiligheidsmethode voor risico-evaluatie en -beoordeling en tot intrekking van [Verordening (EG) nr. 352/2009](32009R0352) (PbEU 2013, L 121/8);
+- *uitvoeringsverordening (EU) 402/2013:* uitvoeringsverordening (EU) 402/2013 van de Commissie van 30 april 2013 betreffende de gemeenschappelijke veiligheidsmethode voor risico-evaluatie en -beoordeling en tot intrekking van Verordening (EG) nr. 352/2009 (PbEU 2013, L 121/8);
 
-- **uitvoeringsverordening (EU) 2018/763:** uitvoeringsverordening (EU) 2018/763 van de Commissie van 9 april 2018 tot vaststelling van praktische regelingen voor de afgifte van unieke veiligheidscertificaten aan spoorwegondernemingen overeenkomstig Richtlijn (EU) 2016/798 van het Europees Parlement en de Raad, en tot intrekking van [Verordening (EG) nr. 653/2007](32007R0653) van de Commissie (PbEU 2018, L 129/49);
+- *uitvoeringsverordening (EU) 2018/763:* uitvoeringsverordening (EU) 2018/763 van de Commissie van 9 april 2018 tot vaststelling van praktische regelingen voor de afgifte van unieke veiligheidscertificaten aan spoorwegondernemingen overeenkomstig Richtlijn (EU) 2016/798 van het Europees Parlement en de Raad, en tot intrekking van Verordening (EG) nr. 653/2007 van de Commissie (PbEU 2018, L 129/49);
 
-- **uitvoeringsverordening (EU) 2019/250:** uitvoeringsverordening (EU) 2019/250 van de Commissie van 12 februari 2019 inzake de modellen voor EG-verklaringen en certificaten voor interoperabiliteitsonderdelen en -subsystemen, het model voor de verklaring van conformiteit met een vergund voertuigtype en de EG-keuringsprocedures voor subsystemen overeenkomstig Richtlijn (EU) 2016/797 van het Europees Parlement en de Raad en tot intrekking van Verordening (EU) nr. 201/2011 van de Commissie (PbEU 2019, L 42/9);
+- *uitvoeringsverordening (EU) 2019/250:* uitvoeringsverordening (EU) 2019/250 van de Commissie van 12 februari 2019 inzake de modellen voor EG-verklaringen en certificaten voor interoperabiliteitsonderdelen en -subsystemen, het model voor de verklaring van conformiteit met een vergund voertuigtype en de EG-keuringsprocedures voor subsystemen overeenkomstig Richtlijn (EU) 2016/797 van het Europees Parlement en de Raad en tot intrekking van Verordening (EU) nr. 201/2011 van de Commissie (PbEU 2019, L 42/9);
 
-- **uitvoeringsverordening (EU) 2019/773:** uitvoeringsverordening (EU) van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139), zoals gewijzigd bij [uitvoeringsverordening (EU) 2023/1693](32023R1693) van de Commissie van 10 augustus 2023 tot wijziging van [Uitvoeringsverordening (EU) 2019/773](32019R0773) betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie (PbEU 2023, L 222/1);
+- *uitvoeringsverordening (EU) 2019/773:* uitvoeringsverordening (EU) van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139), zoals gewijzigd bij uitvoeringsverordening (EU) 2023/1693 van de Commissie van 10 augustus 2023 tot wijziging van Uitvoeringsverordening (EU) 2019/773 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie (PbEU 2023, L 222/1);
 
-- **uitvoeringsverordening (EU) 2019/777:** [uitvoeringsverordening (EU) 2019/777](32019R0777) van de Commissie van 16 mei 2019 inzake de gemeenschappelijke specificaties voor het register van de spoorweginfrastructuur en tot intrekking van Uitvoeringsbesluit 2014/880/EU (PbEU 2019, L 139), zoals gewijzigd bij [Uitvoeringsverordening (EU) 2023/1694](32023R1694) van de Commissie van 10 augustus 2023 tot wijziging van de [Verordeningen (EU) nr. 321/2013](32013R0321), [(EU) nr. 1299/2014](32014R1299), [(EU) nr. 1300/2014](32014R1300), [(EU) nr. 1301/2014](32014R1301), [(EU) nr. 1302/2014](32014R1302), [(EU) nr. 1304/2014](32014R1304) en van [Uitvoeringsverordening (EU) 2019/777](32019R0777) (PbEU 2023, L 222/88);
+- *uitvoeringsverordening (EU) 2019/777:*
+ uitvoeringsverordening (EU) 2019/777 van de Commissie van 16 mei 2019 inzake de gemeenschappelijke specificaties voor het register van de spoorweginfrastructuur en tot intrekking van Uitvoeringsbesluit 2014/880/EU (PbEU 2019, L 139), zoals gewijzigd bij Uitvoeringsverordening (EU) 2023/1694 van de Commissie van 10 augustus 2023 tot wijziging van de Verordeningen (EU) nr. 321/2013, (EU) nr. 1299/2014, (EU) nr. 1300/2014, (EU) nr. 1301/2014, (EU) nr. 1302/2014, (EU) nr. 1304/2014 en van Uitvoeringsverordening (EU) 2019/777 (PbEU 2023, L 222/88);
 
-- **wet:** [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
+- *wet:*
+ [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 ### Hoofdstuk 2. Interoperabiliteit
 
@@ -94,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Eisen aan de EG-verklaring van conformiteit of geschiktheid voor gebruik
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. Vrijstelling voor reserveonderdelen
 
@@ -128,7 +102,7 @@ Een conformiteitsbeoordelingsinstantie keurt een subsysteem volgens de procedure
 
 - a. het voldoen aan toepasselijke TSI’s en, voor zover van toepassing op het desbetreffende subsysteem, het voldoen aan nationale voorschriften; en
 
-- b. overeenstemming met de RINF-toepassing, bedoeld in artikel 2, eerste lid, van de [uitvoeringsverordening (EU) 2019/777](32019R0777).
+- b. overeenstemming met de RINF-toepassing, bedoeld in artikel 2, eerste lid, van de uitvoeringsverordening (EU) 2019/777.
 
 2. De veilige integratie, bedoeld in [artikel 26h, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26h), wordt aangetoond op basis van:
 
@@ -246,7 +220,7 @@ Een aanvraag als bedoeld in [artikel 26v, eerste lid, van de wet](https://wetten
 
 ##### Artikel 17. Het infrastructuurregister
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Spoorwegveiligheid
 
@@ -284,17 +258,17 @@ Onverminderd bijlage I bij gedelegeerde verordening (EU) 2018/762, voldoet het v
 
 ##### Artikel 24. Aanvraag veiligheidscertificaat
 
-1. Onverminderd bijlage I bij [uitvoeringsverordening (EU) 2018/763](32018R0763), vermeldt een aanvraag voor een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) de omvang van het vervoer.
+1. Onverminderd bijlage I bij uitvoeringsverordening (EU) 2018/763, vermeldt een aanvraag voor een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) de omvang van het vervoer.
 
 2. Op een aanvraag tot uitbreiding van het exploitatiegebied van een veiligheidscertificaat als bedoeld in [artikel 32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) is het eerste lid van overeenkomstige toepassing, met dien verstande dat alleen gegevens en bescheiden behoeven te worden verstrekt die betrekking hebben op de uitbreiding van het exploitatiegebied.
 
 ##### Artikel 25. Inhoud veiligheidscertificaat
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26. Geldigheidsduur veiligheidscertificaat
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27. Meldingen door spoorwegonderneming
 
@@ -324,7 +298,7 @@ De minister kan besluiten dat een wijziging van het bestaande veiligheidscertifi
 
 ##### Artikel 29. Jaarlijks verslag over spoorwegveiligheid
 
-1. De houder van een veiligheidscertificaat, met uitzondering van een beheerder als bedoeld in [artikel 32, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), stelt jaarlijks een verslag op met betrekking tot de spoorwegveiligheid en zendt dat jaarlijks voor 31 mei aan de minister.
+1. De houder van een veiligheidscertificaat, met uitzondering van een beheerder als bedoeld in [artikel 32, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), stelt jaarlijks een verslag op met betrekking tot de spoorwegveiligheid en zendt dat jaarlijks voor 31 mei aan de minister.
 
 2. Een verslag als bedoeld in het eerste lid bevat in elk geval de in artikel 9, zesde lid, onderdelen a, b, d en e, van de spoorwegveiligheidsrichtlijn bedoelde informatie.
 
@@ -372,7 +346,7 @@ De minister kan besluiten dat een wijziging van het bestaande veiligheidscertifi
 
 1. Een in Nederland gevestigde beoordelingsinstantie als bedoeld in artikel 3, onderdeel 14, van uitvoeringsverordening (EU) 402/2013 beschikt, overeenkomstig die uitvoeringsverordening, over een accreditatiecertificaat, verleend door de Raad voor Accreditatie.
 
-2. Erkenningen van beoordelingsinstanties als bedoeld in artikel 3, onderdeel 14, van uitvoeringsverordening (EU) 402/2013, die zijn verleend voor 16 juni 2019, blijven geldig onder de voorwaarden waaronder zij zijn verleend.
+2. Erkenningen van beoordelingsinstanties als bedoeld in artikel 3, onderdeel 14, van uitvoeringsverordening (EU) 402/2013, die zijn verleend voor 16 juni 2019, blijven geldig onder de voorwaarden waaronder zij zijn verleend.
 
 ##### Artikel 33. Aanmelding beoordelingsinstanties
 
@@ -382,13 +356,19 @@ De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste l
 
 ##### Artikel 34. Veiligheid en risicobeheersing
 
-1. Onverminderd het bepaalde in [uitvoeringsverordening (EU) 402/2013](32013R0402) en gedelegeerde [verordening (EU) 2018/762](32018R0762) voldoen spoorwegondernemingen en een beheerder aan de eisen, bedoeld in artikel 4, derde lid, onderdeel d, van de spoorwegveiligheidsrichtlijn.
+1. Onverminderd het bepaalde in uitvoeringsverordening (EU) 402/2013 en gedelegeerde verordening (EU) 2018/762 voldoen spoorwegondernemingen en een beheerder aan de eisen, bedoeld in artikel 4, derde lid, onderdeel d, van de spoorwegveiligheidsrichtlijn.
 
 2. Een met onderhoud belaste entiteit en elke andere actor met een potentiële invloed op de veiligheid van, op en rond de spoorwegen, voldoen aan de eisen, bedoeld in artikel 4, vierde lid, van de spoorwegveiligheidsrichtlijn.
 
 3. Spoorwegondernemingen, een beheerder en elke actor, bedoeld in het tweede lid, voldoen aan de eisen, bedoeld in artikel 4, vijfde lid, van de spoorwegveiligheidsrichtlijn.
 
 4. Bij de uitwisseling van spoorvoertuigen tussen spoorwegondernemingen voldoen alle betrokken actoren aan de eisen, bedoeld in artikel 4, zesde lid, van de spoorwegveiligheidsrichtlijn.
+
+##### Artikel 34a. Spoorvoertuig voor strikt historisch gebruik
+
+1. Ten aanzien van een spoorvoertuig voor strikt historisch gebruik dat hoofdzakelijk wordt gebruikt op infrastructuur als bedoeld in artikel 2, derde lid, onderdeel b, van de spoorwegveiligheidsrichtlijn, is aan de verplichting, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36), voldaan als de met het onderhoud belaste entiteit een onderhoudssysteem heeft dat voldoet aan Bijlage III van de spoorwegveiligheidsrichtlijn.
+
+2. Onze Minister past het eerste lid toe overeenkomstig artikel 15, tweede lid, van spoorwegveiligheidsrichtlijn.
 
 ### Hoofdstuk 4. Handhaving
 
@@ -398,7 +378,7 @@ De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste l
 
 2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen die voortvloeien uit de in het eerste lid bedoelde handelingen.
 
-3. Het tweede lid geldt niet ten aanzien van overtreding van de volgende punten van de bijlage van Uitvoerings[verordening 2019/773](32673R2019) van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I):
+3. Het tweede lid geldt niet ten aanzien van overtreding van de volgende punten van de bijlage van Uitvoeringsverordening 2019/773 van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I):
 
 - a. 4.2.1.2. en 4.2.3.4.3.;
 
@@ -418,17 +398,17 @@ De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste l
 
 ### Hoofdstuk 5. Wijziging van andere ministeriële regelingen
 
-#### § 1. Wijziging van de [Regeling indienststelling spoorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0031350)
+#### § 1. Wijziging van de Regeling indienststelling spoorvoertuigen
 
 ##### Artikel 36
 
-Wijzigt de Regeling indienststelling spoorvoertuigen.
+*Wijzigt de Regeling indienststelling spoorvoertuigen.*
 
-#### § 2. Wijziging van de [Regeling Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940)
+#### § 2. Wijziging van de Regeling Onderzoeksraad voor veiligheid
 
 ##### Artikel 37
 
-wijzigt de Regeling Onderzoeksraad voor veiligheid.
+*wijzigt de Regeling Onderzoeksraad voor veiligheid.*
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -438,28 +418,8 @@ De [Regeling eisen keuringsinstanties Spoorwegwet](https://wetten.overheid.nl/jc
 
 ##### Artikel 39. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 16 juni 2019.
+Deze regeling treedt in werking met ingang van 16 juni 2019.
 
 ##### Artikel 40. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling interoperabiliteit en veiligheid spoorwegen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 34a. Spoorvoertuig voor strikt historisch gebruik
-
-1. Ten aanzien van een spoorvoertuig voor strikt historisch gebruik dat hoofdzakelijk wordt gebruikt op infrastructuur als bedoeld in artikel 2, derde lid, onderdeel b, van de spoorwegveiligheidsrichtlijn, is aan de verplichting, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36), voldaan als de met het onderhoud belaste entiteit een onderhoudssysteem heeft dat voldoet aan Bijlage III van de spoorwegveiligheidsrichtlijn.
-
-2. Onze Minister past het eerste lid toe overeenkomstig artikel 15, tweede lid, van spoorwegveiligheidsrichtlijn.
-
-### Hoofdstuk 4. Handhaving
-
-### Hoofdstuk 5. Wijziging van andere ministeriële regelingen
-
-#### § 1. Wijziging van de [Regeling indienststelling spoorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0031350)
-
-#### § 2. Wijziging van de [Regeling Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940)
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

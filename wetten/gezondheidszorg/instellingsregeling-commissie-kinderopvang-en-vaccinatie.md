@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 19 december 2018, nr.2018-0000816616, tot instelling van een Commissie kinderopvang en vaccinatie (Instellingsregeling Commissie kinderopvang en vaccinatie)"
+citeertitel: "Instellingsregeling Commissie kinderopvang en vaccinatie"
 identifier: "BWBR0041787"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041787"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "14940263"
-version_id: "25585842"
-internal_id: "C36514291"
-label_id: "14890574"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041787/2019-01-01/0"
-intitule_bron: "Stcrt.2018-73427"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-19"
-intitule_published: "2018-12-31"
-intitule_in_force: "2018-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-73427"
-original_signed_date: "2018-12-19"
-original_published_date: "2018-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-73427"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041787&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0041787&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Commissie kinderopvang en vaccinatie"
-signed_date: "2018-12-19"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0041787"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 19 december 2018, nr.2018-0000816616, tot instelling van een Commissie kinderopvang en vaccinatie (Instellingsregeling Commissie kinderopvang en vaccinatie)
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **de staatssecretaris:** de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
+- a. *de staatssecretaris:* de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
 
-- b. **de commissie:** de Commissie kinderopvang en vaccinatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041787&artikel=2&z=2019-01-01&g=2019-01-01).
+- b. *de commissie:* de Commissie kinderopvang en vaccinatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041787&artikel=2&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 2. Instelling, taak, opheffing
 
@@ -107,5 +81,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie kinderopvang en vaccinatie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

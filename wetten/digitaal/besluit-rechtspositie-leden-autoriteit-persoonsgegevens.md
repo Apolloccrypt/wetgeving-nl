@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 17 mei 2019, houdende vaststelling van de rechtspositie van de leden van de Autoriteit persoonsgegevens (Besluit rechtspositie leden Autoriteit persoonsgegevens)"
+citeertitel: "Besluit rechtspositie leden Autoriteit persoonsgegevens"
 identifier: "BWBR0042264"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-06-06"
-last_updated: "2019-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042264"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "15087533"
-version_id: "25861182"
-internal_id: "C36859611"
-label_id: "15036214"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042264/2019-06-06/0"
-intitule_bron: "Stb.2019-196"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-17"
-intitule_published: "2019-06-05"
-intitule_in_force: "2019-06-05"
-intitule_status: "goed"
-original_publication: "Stb.2019-196"
-original_signed_date: "2019-05-17"
-original_published_date: "2019-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-196"
-entry_into_force_date: "2019-06-06"
-jci_1_3: "jci1.3:c:BWBR0042264&z=2019-06-06&g=2019-06-06"
-jci_1_0: "1.0:c:BWBR0042264&g=2019-06-06"
-citeertitel_status: "officieel"
-short_title: "Besluit rechtspositie leden Autoriteit persoonsgegevens"
-signed_date: "2019-05-17"
-entry_into_force: "2019-06-06"
+publicatiedatum: 2019-06-06
+laatste_update: 2019-06-06
+status: geldig
+toestand: 2019-06-06
+bron: "https://wetten.overheid.nl/BWBR0042264"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 17 mei 2019, houdende vaststelling van de rechtspositie van de leden van de Autoriteit persoonsgegevens (Besluit rechtspositie leden Autoriteit persoonsgegevens)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 10 april 2019, directie Wetgeving en Juridische Zaken, nr. 2562872;
-
-Gelet op [artikel 9 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=9);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 april 2019, nr. W16.19.0097/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 14 mei 2019, nr. 2590857;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsomschrijvingen
 
@@ -52,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **andere leden:** de andere leden, bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=7);
+- *andere leden:* de andere leden, bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=7);
 
-- **Autoriteit:** de Autoriteit persoonsgegevens;
+- *Autoriteit:* de Autoriteit persoonsgegevens;
 
-- **buitengewone leden:** de buitengewone leden, bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=7);
+- *buitengewone leden:* de buitengewone leden, bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=7);
 
-- **wet:** de [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940).
+- *wet:* de [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940).
 
 #### § 2. Rechtspositie van de leden en de buitengewone leden
 
@@ -141,5 +109,3 @@ Het [Vaststellingsbesluit enkele algemene maatregelen van bestuur in verband met
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie leden Autoriteit persoonsgegevens.
-
-Lasten en bevelen dat dit besluit met de daarbij bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.

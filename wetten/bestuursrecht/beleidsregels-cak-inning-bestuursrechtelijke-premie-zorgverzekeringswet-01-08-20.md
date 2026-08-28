@@ -1,45 +1,19 @@
 ---
 title: "Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 01-08-2018"
 identifier: "BWBR0041925"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-02-20"
-last_updated: "2019-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041925"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15007143"
-version_id: "25704972"
-internal_id: "C36665391"
-label_id: "14957104"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041925/2019-02-20/0"
-intitule_bron: "Stcrt.2019-8756"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-01-30"
-intitule_published: "2019-02-19"
-intitule_in_force: "2019-02-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-8756"
-original_signed_date: "2019-01-30"
-original_published_date: "2019-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-8756"
-entry_into_force_date: "2019-02-20"
-jci_1_3: "jci1.3:c:BWBR0041925&z=2019-02-20&g=2019-02-20"
-jci_1_0: "1.0:c:BWBR0041925&g=2019-02-20"
-citeertitel_status: "officieel"
-signed_date: "2019-01-30"
-entry_into_force: "2019-02-20"
+publicatiedatum: 2019-02-20
+laatste_update: 2019-02-20
+status: geldig
+toestand: 2019-02-20
+bron: "https://wetten.overheid.nl/BWBR0041925"
+opgehaald: 2026-08-28
 ---
+
 # Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 01-08-2018
 
-gelet op [artikel 9a tot en met 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9a), [18a tot en met 18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18a), en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a), alsmede [paragraaf 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&paragraaf=4a) en [paragraaf 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&paragraaf=5);
-
-besluit om de volgende beleidsregels vast te stellen:
-
-##### Artikel 1. De melding van de zorgverzekering als bedoeld in [artikel 18c van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c) (wanbetalers)
+##### Artikel 1. De melding van de zorgverzekering als bedoeld in artikel 18c van de Zorgverzekeringswet (wanbetalers)
 
 1. Voor de toepassing en de uitvoering van het bepaalde in de [artikelen 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c), [18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d) in combinatie met [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g) en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a) maakt het CAK gebruik van de gegevens die de zorgverzekeraar verschaft op grond van de regeling ingevolge [artikel 92 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=92), van de gegevens uit de Basisregistratie Personen (BRP) en van de gegevens uit de UWV-polisadministratie.
 
@@ -61,7 +35,7 @@ besluit om de volgende beleidsregels vast te stellen:
 
 - f. de melding ziet op een zorgverzekering van een overleden verzekeringnemer en, indien deze een andere is dan de verzekeringnemer, de verzekerde.
 
-##### Artikel 2. De zorgverzekering als bedoeld in [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9d) en [18e van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) (voormalig onverzekerden)
+##### Artikel 2. De zorgverzekering als bedoeld in artikel 9d en 18e van de Zorgverzekeringswet (voormalig onverzekerden)
 
 1. Voor de toepassing en uitvoering van het bepaalde in de [artikelen 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) in combinatie met [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g) en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a) maakt het CAK gebruik van de gegevens die zijn gebruikt bij de toepassing en uitvoering van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9a), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9b), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9c) en [9d van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9d), van de gegevens uit de Basisregistratie Personen en van de gegevens uit de UWV-polisadministratie.
 
@@ -161,7 +135,7 @@ De inhoudingsplichtige draagt de maandelijkse inhouding binnen zes weken na de e
 
 7. Het CAK maakt de opschorting, bedoeld in het vorige lid, ongedaan zodra de overeenkomst tot stabilisatie is beëindigd, er geen sprake meer is van een betalingsregeling als bedoeld in [artikel 18d, tweede lid, onderdeel c, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d) of als artikel 18d, tweede lid, onderdeel d, van de Zorgverzekeringswet niet langer van toepassing is.
 
-##### Artikel 8. De invordering restschuld ex. [artikel 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) bij de verzekeringnemer door het CJIB
+##### Artikel 8. De invordering restschuld ex. artikel 18e bij de verzekeringnemer door het CJIB
 
 1. Indien het CAK vaststelt dat de verzekeringnemer het saldo van de eindafrekening aan het CAK moet betalen zal het CJIB, namens het CAK, tot invordering van het saldo overgaan, tenzij het CAK aanleiding heeft om af te zien van het invorderen van het saldo van de eindafrekening.
 
@@ -173,7 +147,7 @@ De inhoudingsplichtige draagt de maandelijkse inhouding binnen zes weken na de e
 
 5. Het CJIB zal, namens het CAK, de kosten van invordering en beslaglegging in verband met de invordering van het saldo op de eindafrekening bij de verzekeringnemer in rekening brengen.
 
-##### Artikel 9. De betalingsregeling voor de invordering van de restschuld ex. [artikel 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) bij de verzekeringnemer
+##### Artikel 9. De betalingsregeling voor de invordering van de restschuld ex. artikel 18e bij de verzekeringnemer
 
 1. In afwijking van het bepaalde in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041925&artikel=8&z=2019-02-20&g=2019-02-20), kan het CJIB, namens het CAK, de verzekeringnemer een standaard betaalvoorstel doen ter voldoening van het saldo van de eindafrekening.
 
@@ -232,5 +206,3 @@ Dit besluit wordt aangehaald als: Beleidsregels CAK inning bestuursrechtelijke p
 ##### Artikel 14. Inwerkingtreding en publicatie
 
 Dit besluit treedt een dag na publicatie in de Staatscourant in werking en werkt terug tot en met 1 augustus 2018.
-
-Deze beleidsregels worden met toelichting in de Staatscourant geplaatst.

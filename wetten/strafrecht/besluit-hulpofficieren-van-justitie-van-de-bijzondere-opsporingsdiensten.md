@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 3 april, nr. 2509646, houdende aanwijzing van opsporingsambtenaren bij de Belastingdienst/FIOD, de NVWA-IOD, de directie Opsporing van de Inspectie SZW, en de ILT-IOD tot hulpofficier van justitie (Besluit hulpofficieren van justitie van de bijzondere opsporingsdiensten)"
+citeertitel: "Besluit hulpofficieren van justitie van de bijzondere opsporingsdiensten"
 identifier: "BWBR0042114"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-04-13"
-last_updated: "2019-04-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042114"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "15052963"
-version_id: "25796032"
-internal_id: "C36779701"
-label_id: "15002174"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042114/2019-04-13/0"
-intitule_bron: "Stcrt.2019-20049"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-03"
-intitule_published: "2019-04-12"
-intitule_in_force: "2019-04-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-20049"
-original_signed_date: "2019-04-03"
-original_published_date: "2019-04-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-20049"
-entry_into_force_date: "2019-04-13"
-jci_1_3: "jci1.3:c:BWBR0042114&z=2019-04-13&g=2019-04-13"
-jci_1_0: "1.0:c:BWBR0042114&g=2019-04-13"
-citeertitel_status: "officieel"
-short_title: "Besluit hulpofficieren van justitie van de bijzondere opsporingsdiensten"
-signed_date: "2019-04-03"
-entry_into_force: "2019-04-13"
+publicatiedatum: 2019-04-13
+laatste_update: 2019-04-13
+status: geldig
+toestand: 2019-04-13
+bron: "https://wetten.overheid.nl/BWBR0042114"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 3 april, nr. 2509646, houdende aanwijzing van opsporingsambtenaren bij de Belastingdienst/FIOD, de NVWA-IOD, de directie Opsporing van de Inspectie SZW, en de ILT-IOD tot hulpofficier van justitie (Besluit hulpofficieren van justitie van de bijzondere opsporingsdiensten)
-
-Gelet op [artikel 146a, aanhef en onder d, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=146a);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -46,13 +20,13 @@ Aangewezen tot hulpofficier van justitie is de opsporingsambtenaar die
 
 - a. werkzaam is bij:
 
-- •. de Belastingdienst/FIOD de functie vervult van teamleider of projectleider, of de medewerker opsporing groepsfunctie F of I, die minimaal vijf jaar opsporingservaring heeft binnen een of meer bijzondere opsporingsdiensten als bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+   - • de Belastingdienst/FIOD de functie vervult van teamleider of projectleider, of de medewerker opsporing groepsfunctie F of I, die minimaal vijf jaar opsporingservaring heeft binnen een of meer bijzondere opsporingsdiensten als bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- •. de NVWA-IOD, en de functie vervult van operationeel manager, senior inspecteur of inspecteur;
+   - • de NVWA-IOD, en de functie vervult van operationeel manager, senior inspecteur of inspecteur;
 
-- •. de directie Opsporing van de Inspectie SZW, en de functie vervult van operationeel manager of senior inspecteur;
+   - • de directie Opsporing van de Inspectie SZW, en de functie vervult van operationeel manager of senior inspecteur;
 
-- •. de ILT-IOD, en de functie vervult van operationeel manager, coördinerend specialistisch inspecteur, senior inspecteur of inspecteur;
+   - • de ILT-IOD, en de functie vervult van operationeel manager, coördinerend specialistisch inspecteur, senior inspecteur of inspecteur;
 
 - b. en die met goed gevolg een door de Minister van Justitie en Veiligheid goedgekeurd examen tot hulpofficier van justitie heeft voltooid en in het bezit is van het certificaat ‘hulpofficier van justitie’.
 
@@ -96,18 +70,16 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 De Besluiten:
 
-- –. [hulpofficieren van justitie Belastingdienst/FIOD 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029714);
+- – [hulpofficieren van justitie Belastingdienst/FIOD 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029714);
 
-- –. [hulpofficieren van justitie NVWA-IOD](https://wetten.overheid.nl/jci1.3:c:BWBR0035950);
+- – [hulpofficieren van justitie NVWA-IOD](https://wetten.overheid.nl/jci1.3:c:BWBR0035950);
 
-- –. [hulpofficieren van justitie van de directie Opsporing van de Inspectie SZW 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035774);
+- – [hulpofficieren van justitie van de directie Opsporing van de Inspectie SZW 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035774);
 
-- –. [hulpofficieren van justitie ILT-IOD 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031928);
+- – [hulpofficieren van justitie ILT-IOD 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031928);
 
 worden ingetrokken.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit hulpofficieren van justitie van de bijzondere opsporingsdiensten.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

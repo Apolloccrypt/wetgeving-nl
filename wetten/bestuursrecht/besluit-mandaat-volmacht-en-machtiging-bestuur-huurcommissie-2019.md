@@ -1,55 +1,51 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 maart 2019, nr. MA/2019-059/UP, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019)"
+citeertitel: "Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019"
 identifier: "BWBR0042105"
 categorie: "Bestuursrecht"
-publicatiedatum: 2024-09-17
-laatste_update: 2026-06-02
+soort: "ministeriele-regeling"
+publicatiedatum: 2019-04-11
+laatste_update: 2024-09-17
 status: vervallen
+vervallen_op: 2025-12-02
+toestand: 2024-09-17
 bron: "https://wetten.overheid.nl/BWBR0042105"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-28
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 maart 2019, nr. MA/2019-059/UP, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019)
-
-Gelet op de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315),
-
-Gelet op de [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en [artikel 32, vierde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32) en [artikel 4.6, eerste en tweede lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6);
-
-Gelet op de instemming van het bestuur van de huurcommissie overeenkomstig [artikel 10:4, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **ministerie:** het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *ministerie:* het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **wet:** de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
+- c. *wet:* de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
 
-- d. **huurcommissie:** de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- d. *huurcommissie:* de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- e. **bestuur:** het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- e. *bestuur:* het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- f. **voorzitter:** de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- f. *voorzitter:* de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- g. **plaatsvervangend voorzitter:** de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- g. *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- h. **zittingsvoorzitter:** een zittingsvoorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- h. *zittingsvoorzitter:* een zittingsvoorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- i. **zittingslid:** een zittingslid van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- i. *zittingslid:* een zittingslid van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- j. **administratieve ondersteuning:** de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3c) en [3h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3h) en aangeduid als dienst van de huurcommissie, overeenkomstig [artikel 1 van het Instellingsbesluit Dienst van de Huurcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0026930&artikel=1);
+- j. *administratieve ondersteuning:* de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3c) en [3h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3h) en aangeduid als dienst van de huurcommissie, overeenkomstig [artikel 1 van het Instellingsbesluit Dienst van de Huurcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0026930&artikel=1);
 
-- k. **eenheid:** een organisatieonderdeel van de dienst van de huurcommissie, bedoeld in [artikel 1, onder g, van het Organisatiebesluit dienst van de huurcommissie 2019](onbekend);
+- k. *eenheid:* een organisatieonderdeel van de dienst van de huurcommissie, bedoeld in artikel 1, onder g, van het Organisatiebesluit dienst van de huurcommissie 2019;
 
-- l. **directeur:** de uitvoerend directeur van de dienst van de huurcommissie, bedoeld in [artikel 1, onder h, van het Organisatiebesluit dienst van de huurcommissie 2019](onbekend);
+- l. *directeur:* de uitvoerend directeur van de dienst van de huurcommissie, bedoeld in artikel 1, onder h, van het Organisatiebesluit dienst van de huurcommissie 2019;
 
-- m. **manager:** manager van een eenheid van de dienst van de huurcommissie, bedoeld in [artikel 1, onder i, van het Organisatiebesluit dienst van de huurcommissie 2019](onbekend);
+- m. *manager:* manager van een eenheid van de dienst van de huurcommissie, bedoeld in artikel 1, onder i, van het Organisatiebesluit dienst van de huurcommissie 2019;
 
-- n. **functionaris:** medewerker van een eenheid van de dienst van de huurcommissie, bedoeld in [artikel 1, onder j, van het Organisatiebesluit dienst van de huurcommissie 2019](onbekend).
+- n. *functionaris:* medewerker van een eenheid van de dienst van de huurcommissie, bedoeld in artikel 1, onder j, van het Organisatiebesluit dienst van de huurcommissie 2019.
 
 ##### Artikel 2. Mandaat betreffende personeelsaangelegenheden en inrichting dienst van de huurcommissie
 
@@ -151,10 +147,8 @@ gevolgd door functieaanduiding, handtekening en naam van de functionaris.
 
 ##### Artikel 11. Slotbepalingen
 
-1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 1 januari 2019.
+1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 1 januari 2019.
 
 2. Het [Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033211) wordt ingetrokken.
 
 3. Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

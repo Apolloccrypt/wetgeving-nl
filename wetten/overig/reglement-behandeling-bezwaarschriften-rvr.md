@@ -1,49 +1,23 @@
 ---
 title: "Reglement behandeling bezwaarschriften RvR"
 identifier: "BWBR0042155"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-04-26"
-last_updated: "2019-04-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042155"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15060393"
-version_id: "25811082"
-internal_id: "C36799941"
-label_id: "15009474"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042155/2019-04-26/0"
-intitule_bron: "Stcrt.2019-23036"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-17"
-intitule_published: "2019-04-26"
-intitule_in_force: "2019-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-23036"
-original_signed_date: "2019-04-17"
-original_published_date: "2019-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-23036"
-entry_into_force_date: "2019-04-26"
-jci_1_3: "jci1.3:c:BWBR0042155&z=2019-04-26&g=2019-04-26"
-jci_1_0: "1.0:c:BWBR0042155&g=2019-04-26"
-citeertitel_status: "officieel"
-signed_date: "2019-04-17"
-entry_into_force: "2019-04-26"
+publicatiedatum: 2019-04-26
+laatste_update: 2019-04-26
+status: geldig
+toestand: 2019-04-26
+bron: "https://wetten.overheid.nl/BWBR0042155"
+opgehaald: 2026-08-28
 ---
+
 # Reglement behandeling bezwaarschriften RvR
-
-in aanmerking nemend de bepalingen over bezwaar van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb), in het bijzonder de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7),
-
-Besluit onderstaand reglement m.b.t. de inrichting van de bezwaarprocedure vast te stellen:
 
 ##### Artikel 1. definities
 
-- 1. **de Raad:** de voor het behandelen van en het nemen van besluiten ten aanzien van ontvangen bezwaarschriften door het bestuur gemandateerde medewerkers;
+- 1. *de Raad:* de voor het behandelen van en het nemen van besluiten ten aanzien van ontvangen bezwaarschriften door het bestuur gemandateerde medewerkers;
 
-- 2. **de Commissie voor Bezwaar:** de adviescommissie als bedoeld in [artikel 7:13 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13).
+- 2. *de Commissie voor Bezwaar:* de adviescommissie als bedoeld in [artikel 7:13 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13).
 
 ##### Artikel 2. ontvangstbevestiging
 

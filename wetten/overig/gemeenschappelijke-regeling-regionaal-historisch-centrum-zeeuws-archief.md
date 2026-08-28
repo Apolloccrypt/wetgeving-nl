@@ -1,61 +1,33 @@
 ---
 title: "Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Zeeuws archief’"
 identifier: "BWBR0042016"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-08-01"
-last_updated: "2019-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042016"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15028833"
-version_id: "25749422"
-internal_id: "C36723241"
-label_id: "14978774"
-dtd_version: "2.0"
-original_entry_into_force: "2019-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042016/2019-08-01/0"
-intitule_bron: "Stcrt.2016-34016"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-24"
-intitule_published: "2016-07-04"
-intitule_in_force: "2016-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-34016"
-original_signed_date: "2016-05-24"
-original_published_date: "2016-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-34016"
-entry_into_force_date: "2019-08-01"
-jci_1_3: "jci1.3:c:BWBR0042016&z=2019-08-01&g=2019-08-01"
-jci_1_0: "1.0:c:BWBR0042016&g=2019-08-01"
-citeertitel_status: "officieel"
-signed_date: "2016-05-24"
-entry_into_force: "2019-08-01"
+publicatiedatum: 2019-08-01
+laatste_update: 2019-08-01
+status: geldig
+toestand: 2019-08-01
+bron: "https://wetten.overheid.nl/BWBR0042016"
+opgehaald: 2026-08-28
 ---
+
 # Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Zeeuws archief’
-
-Gelet op [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII) en [I van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I)
-
-Besluiten:
-
-tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de gemeentelijke archiefbewaarplaatsen van de gemeenten Middelburg en Veere en in de rijksarchiefbewaarplaats in de provincie Zeeland;
 
 ##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de gemeenten:** de gemeenten Middelburg en Veere;
+- b. *de gemeenten:* de gemeenten Middelburg en Veere;
 
-- c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeenten;
+- d. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeenten;
 
-- e. **colleges:** de colleges van burgemeester en wethouders van de gemeenten, en
+- e. *colleges:* de colleges van burgemeester en wethouders van de gemeenten, en
 
-- f. **provincie:** de provincie Zeeland.
+- f. *provincie:* de provincie Zeeland.
 
 ##### Artikel 2
 
@@ -397,6 +369,6 @@ Deze regeling kan worden aangehaald als: Gemeenschappelijke regeling Regionaal H
 
 ##### Artikel 40
 
-1. De gemeenschappelijke regeling Regionaal Historisch Centrum ‘Zeeuws archief’, gepubliceerd als [bijlage bij het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap](onbekend) van 13 april 2000, nr. DCE/OO/4459 (Stcrt. 2000, 87), wordt ingetrokken.
+1. De gemeenschappelijke regeling Regionaal Historisch Centrum ‘Zeeuws archief’, gepubliceerd als [bijlage bij het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap](https://wetten.overheid.nl/BWBR0011304) van 13 april 2000, nr. DCE/OO/4459 (Stcrt. 2000, 87), wordt ingetrokken.
 
 2. De rechten en verplichtingen van het Regionaal Historisch Centrum ‘Zeeuws archief’ zoals die bestonden op het moment vóór de inwerkingtreding van deze regeling blijven in stand na de inwerkingtreding van deze regeling.

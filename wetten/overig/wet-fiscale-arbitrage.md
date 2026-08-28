@@ -1,48 +1,18 @@
 ---
 title: "Wet van 10 juli 2019, houdende Invoering van een wettelijk mechanisme ten behoeve van de beslechting van belastinggeschillen tussen lidstaten van de Europese Unie (Wet fiscale arbitrage)"
+citeertitel: "Wet fiscale arbitrage"
 identifier: "BWBR0042409"
-country: "nl"
-rank: "wet"
-publication_date: "2019-07-16"
-last_updated: "2019-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042409"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "15121893"
-version_id: "25925682"
-internal_id: "C36938801"
-label_id: "15070254"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042409/2019-07-16/0"
-intitule_bron: "Stb.2019-261"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-10"
-intitule_published: "2019-07-15"
-intitule_in_force: "2019-07-15"
-intitule_status: "goed"
-original_publication: "Stb.2019-261"
-original_signed_date: "2019-07-10"
-original_published_date: "2019-07-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "35110"
-original_url_id: "stb-2019-261"
-entry_into_force_date: "2019-07-16"
-entry_into_force_dossier: "35110"
-jci_1_3: "jci1.3:c:BWBR0042409&z=2019-07-16&g=2019-07-16"
-jci_1_0: "1.0:c:BWBR0042409&g=2019-07-16"
-citeertitel_status: "officieel"
-short_title: "Wet fiscale arbitrage"
-signed_date: "2019-07-10"
-entry_into_force: "2019-07-16"
+publicatiedatum: 2019-07-16
+laatste_update: 2019-07-16
+status: geldig
+toestand: 2019-07-16
+bron: "https://wetten.overheid.nl/BWBR0042409"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 10 juli 2019, houdende Invoering van een wettelijk mechanisme ten behoeve van de beslechting van belastinggeschillen tussen lidstaten van de Europese Unie (Wet fiscale arbitrage)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voorzieningen te treffen tot uitvoering van [Richtlijn 2017/1852](32017L1852)/EU van de Raad van 10 oktober 2017 betreffende mechanismen ter beslechting van belastinggeschillen in de Europese Unie (PbEU 2017, L 265);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -50,37 +20,39 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt, voor zover nodig in afwijking van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), verstaan onder:
 
-- **andere bevoegde autoriteit:** de autoriteit van een andere betrokken lidstaat of de autoriteiten van andere betrokken lidstaten die als zodanig door de andere betrokken lidstaat is, onderscheidenlijk de andere betrokken lidstaten zijn, aangewezen;
+- *andere bevoegde autoriteit:* de autoriteit van een andere betrokken lidstaat of de autoriteiten van andere betrokken lidstaten die als zodanig door de andere betrokken lidstaat is, onderscheidenlijk de andere betrokken lidstaten zijn, aangewezen;
 
-- **arbitrageverdrag van de Unie:** Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen;
+- *arbitrageverdrag van de Unie:* Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen;
 
-- **belanghebbende:** elke persoon die een fiscaal ingezetene is van een lidstaat en voor wiens belastingheffing het geschilpunt rechtstreekse gevolgen heeft;
+- *belanghebbende:* elke persoon die een fiscaal ingezetene is van een lidstaat en voor wiens belastingheffing het geschilpunt rechtstreekse gevolgen heeft;
 
-- **belastingwet:** belastingwet als bedoeld in [artikel 2, eerste lid, onderdeel a, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
+- *belastingwet:* belastingwet als bedoeld in [artikel 2, eerste lid, onderdeel a, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
 
-- **bevoegde autoriteit:** de autoriteit van een lidstaat die als zodanig door de betrokken lidstaat is aangewezen;
+- *bevoegde autoriteit:* de autoriteit van een lidstaat die als zodanig door de betrokken lidstaat is aangewezen;
 
-- **dubbele belasting:** de heffing van belastingen die vallen onder een overeenkomst of verdrag die voorzien in de afschaffing van dubbele belasting op inkomsten of vermogen door twee of meer lidstaten op dezelfde belastbare inkomsten of hetzelfde belastbare vermogen wanneer zulks aanleiding geeft tot een additionele belastingheffing, een toename van de belastingverplichtingen of de annulering of vermindering van verliezen die met belastbare winst kunnen worden verrekend;
+- *dubbele belasting:* de heffing van belastingen die vallen onder een overeenkomst of verdrag die voorzien in de afschaffing van dubbele belasting op inkomsten of vermogen door twee of meer lidstaten op dezelfde belastbare inkomsten of hetzelfde belastbare vermogen wanneer zulks aanleiding geeft tot een additionele belastingheffing, een toename van de belastingverplichtingen of de annulering of vermindering van verliezen die met belastbare winst kunnen worden verrekend;
 
-- **geschilpunt:** een kwestie die aanleiding geeft tot een geschil tussen Nederland en een andere lidstaat of andere lidstaten van de Europese Unie over de uitleg of toepassing van overeenkomsten en bilaterale belastingverdragen die voorzien in de afschaffing van dubbele belasting op inkomsten of vermogen of over de uitleg of toepassing van het arbitrageverdrag van de Europese Unie;
+- *geschilpunt:* een kwestie die aanleiding geeft tot een geschil tussen Nederland en een andere lidstaat of andere lidstaten van de Europese Unie over de uitleg of toepassing van overeenkomsten en bilaterale belastingverdragen die voorzien in de afschaffing van dubbele belasting op inkomsten of vermogen of over de uitleg of toepassing van het arbitrageverdrag van de Europese Unie;
 
-- **indienen van een klacht:** het gebruikmaken van de ingevolge deze wet en [Richtlijn 2017/1852](32017L1852)/EU bestaande bevoegdheid van de belanghebbende om beslechting te verzoeken van een geschilpunt;
+- *indienen van een klacht:* het gebruikmaken van de ingevolge deze wet en Richtlijn 2017/1852/EU bestaande bevoegdheid van de belanghebbende om beslechting te verzoeken van een geschilpunt;
 
-- **inspecteur:** de functionaris die als zodanig bij ministeriële regeling is aangewezen;
+- *inspecteur:* de functionaris die als zodanig bij ministeriële regeling is aangewezen;
 
-- **klacht:** een verzoek van de belanghebbende tot beslechting van een geschilpunt;
+- *klacht:* een verzoek van de belanghebbende tot beslechting van een geschilpunt;
 
-- **lidstaat:** lidstaat van de Europese Unie;
+- *lidstaat:* lidstaat van de Europese Unie;
 
-- **Onze Minister:** Onze Minister van Financiën;
+- *Onze Minister:* Onze Minister van Financiën;
 
-- **procedure voor onderling overleg:** overleg tussen Onze Minister en de andere bevoegde autoriteit om tot beslechting van het geschilpunt te komen;
+- *procedure voor onderling overleg:* overleg tussen Onze Minister en de andere bevoegde autoriteit om tot beslechting van het geschilpunt te komen;
 
-- **Richtlijn 2013/34/EU:** [Richtlijn 2013/34](32013L0034)/EU van het Europees Parlement en van de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van [Richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad en tot intrekking van [Richtlijnen 78/660/EEG](31978L0660) en [83/349/EEG](31983L0349) van de Raad (PbEU 2013, L 182);
+- *Richtlijn 2013/34/EU:*
+ Richtlijn 2013/34/EU van het Europees Parlement en van de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van Richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182);
 
-- **Richtlijn 2017/1852/EU:** [Richtlijn 2017/1852](32017L1852)/EU van de Raad van 10 oktober 2017 betreffende mechanismen ter beslechting van belastinggeschillen in de Europese Unie (PbEU 2017, L 265);
+- *Richtlijn 2017/1852/EU:*
+ Richtlijn 2017/1852/EU van de Raad van 10 oktober 2017 betreffende mechanismen ter beslechting van belastinggeschillen in de Europese Unie (PbEU 2017, L 265);
 
-- **voorzieningenrechter van de rechtbank:** de voorzieningenrechter, bedoeld in het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827).
+- *voorzieningenrechter van de rechtbank:* de voorzieningenrechter, bedoeld in het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827).
 
 2. Tenzij de context anders vereist, hebben termen die in deze wet niet worden gedefinieerd de betekenis die zij op dat ogenblik hebben uit hoofde van de betrokken overeenkomsten of verdragen die voorzien in de afschaffing van dubbele belasting op inkomsten en waar van toepassing op vermogen en die van toepassing zijn op de dag van ontvangst door de belanghebbende van de eerste kennisgeving van de handeling die heeft geleid of zal leiden tot een geschilpunt. Bij gebreke van een definitie uit hoofde van dergelijke overeenkomsten of verdragen hebben termen de betekenis krachtens Nederlandse belastingwetten waarop genoemde overeenkomsten of verdragen van toepassing zijn, die gelden op de dag van ontvangst door de belanghebbende van de eerste kennisgeving van de handeling die heeft geleid of zal leiden tot een geschilpunt. Betekenis krachtens Nederlandse toepasselijke belastingwetten heeft voorrang op een betekenis die krachtens andere wetten aan de term wordt gegeven.
 
@@ -90,7 +62,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. De Nederlandse bevoegde autoriteit is Onze Minister.
 
-2. Onze Minister is verantwoordelijk voor de contacten en het nakomen van verplichtingen op grond van deze wet en [Richtlijn 2017/1852](32017L1852)/EU ten aanzien van de Europese Commissie, de andere bevoegde autoriteit en de arbitragecommissie.
+2. Onze Minister is verantwoordelijk voor de contacten en het nakomen van verplichtingen op grond van deze wet en Richtlijn 2017/1852/EU ten aanzien van de Europese Commissie, de andere bevoegde autoriteit en de arbitragecommissie.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop de contacten met de Europese Commissie, de andere bevoegde autoriteit en de arbitragecommissie worden vormgegeven.
 
@@ -122,19 +94,19 @@ De klacht wordt alleen aanvaard indien de belanghebbende de volgende gegevens en
 
 - e. een schriftelijke verklaring van de belanghebbende inzake en een afschrift van eventuele bewijsstukken van:
 
-- 1°. de reden waarom er sprake is van een geschilpunt;
+   - 1°. de reden waarom er sprake is van een geschilpunt;
 
-- 2°. de nadere bijzonderheden over elk door de belanghebbende ingesteld bezwaar en beroep en elk ander door de belanghebbende ingezet nationaal rechtsmiddel met betrekking tot de relevante transacties en over elke rechterlijke beslissing in verband met het geschilpunt;
+   - 2°. de nadere bijzonderheden over elk door de belanghebbende ingesteld bezwaar en beroep en elk ander door de belanghebbende ingezet nationaal rechtsmiddel met betrekking tot de relevante transacties en over elke rechterlijke beslissing in verband met het geschilpunt;
 
-- 3°. een toezegging van de belanghebbende dat zo volledig en zo snel mogelijk op alle toepasselijke verzoeken van Onze Minister wordt gereageerd en tevens na een verzoek van Onze Minister alle documentatie wordt verstrekt;
+   - 3°. een toezegging van de belanghebbende dat zo volledig en zo snel mogelijk op alle toepasselijke verzoeken van Onze Minister wordt gereageerd en tevens na een verzoek van Onze Minister alle documentatie wordt verstrekt;
 
 - f. in voorkomend geval, een afschrift van het definitieve besluit over de belastingaanslag dat aanleiding geeft tot het geschilpunt dat is weergegeven in:
 
-- 1°. een definitieve belastingaanslag;
+   - 1°. een definitieve belastingaanslag;
 
-- 2°. een rapport van de belastingcontrole; of
+   - 2°. een rapport van de belastingcontrole; of
 
-- 3°. een ander gelijkwaardig document;
+   - 3°. een ander gelijkwaardig document;
 
 - g. in voorkomend geval, een afschrift van elk document dat de belastingautoriteiten met betrekking tot het geschilpunt hebben verstrekt;
 
@@ -184,7 +156,7 @@ De bij Onze Minister ingediende klacht en de daarbij behorende gegevens en inlic
 
 - a. een Nederlands ingezetene is; en
 
-- b. geen grote onderneming is en geen deel uitmaakt van een grote groep zoals gedefinieerd in [Richtlijn 2013/34](32013L0034)/EU.
+- b. geen grote onderneming is en geen deel uitmaakt van een grote groep zoals gedefinieerd in Richtlijn 2013/34/EU.
 
 2. Onze Minister stelt de andere bevoegde autoriteit in kennis van de klacht, de gegevens en inlichtingen, intrekkingen en andere verzoeken, bedoeld in het eerste lid, binnen twee maanden na de dag van ontvangst daarvan. Zodra deze kennisgeving geschiedt, wordt de belanghebbende voor de toepassing van deze wet geacht de mededelingen en documenten op de dag van deze kennisgeving bij alle betrokken lidstaten te hebben ingediend.
 
@@ -434,7 +406,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 - a. de uitgaven van de vooraanstaande onafhankelijke personen, die een bedrag vormen dat gelijk is aan het gemiddelde van de gebruikelijke terugbetaling aan hoge ambtenaren van de betrokken lidstaten;
 
-- b. de vergoeding van de vooraanstaande onafhankelijke persoon die beperkt is tot € 1000 per persoon per dag voor iedere dag dat de arbitragecommissie bijeenkomt.
+- b. de vergoeding van de vooraanstaande onafhankelijke persoon die beperkt is tot € 1000 per persoon per dag voor iedere dag dat de arbitragecommissie bijeenkomt.
 
 4. De kosten die de belanghebbende maakt, worden niet door de lidstaten gedragen.
 
@@ -506,18 +478,16 @@ Op gegevens en inlichtingen die door Onze Minister of diens bevoegde vertegenwoo
 
 ##### Artikel 8.1
 
-1. Deze wet is van toepassing op elke klacht die wordt ingediend vanaf 1 juli 2019 inzake geschilpunten die betrekking hebben op inkomsten of vermogen verkregen in een belastingjaar dat begint op of na 1 januari 2018.
+1. Deze wet is van toepassing op elke klacht die wordt ingediend vanaf 1 juli 2019 inzake geschilpunten die betrekking hebben op inkomsten of vermogen verkregen in een belastingjaar dat begint op of na 1 januari 2018.
 
-2. In afwijking van het eerste lid, kunnen Onze Minister en de andere bevoegde autoriteit besluiten een klacht in behandeling te nemen die is ingediend vóór 1 juli 2019 of die betrekking heeft op een belastingjaar dat begint vóór 1 januari 2018. Geen beroep kan worden ingesteld tegen dit besluit.
+2. In afwijking van het eerste lid, kunnen Onze Minister en de andere bevoegde autoriteit besluiten een klacht in behandeling te nemen die is ingediend vóór 1 juli 2019 of die betrekking heeft op een belastingjaar dat begint vóór 1 januari 2018. Geen beroep kan worden ingesteld tegen dit besluit.
 
 ### Hoofdstuk 9. Slotbepalingen
 
 ##### Artikel 9.1
 
-Deze wet treedt in werking met ingang van 30 juni 2019. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 29 juni 2019, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+Deze wet treedt in werking met ingang van 30 juni 2019. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 29 juni 2019, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 ##### Artikel 9.2
 
 Deze wet wordt aangehaald als: Wet fiscale arbitrage.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

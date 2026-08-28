@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 april 2019, nr. WJZ/ 19063146, houdende regels betreffende het verlenen van mandaat, volmacht en machtiging inzake de Vereffeningsorganisatie voormalige publiekrechtelijke bedrijfsorganisatie (Besluit mandaat, volmacht en machtiging Vereffeningsorganisatie PBO 2019)"
+citeertitel: "Besluit mandaat, volmacht en machtiging Vereffeningsorganisatie PBO 2019"
 identifier: "BWBR0042117"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-04-17"
-last_updated: "2019-04-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042117"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15053173"
-version_id: "25796932"
-internal_id: "C36781721"
-label_id: "15002374"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042117/2019-04-17/0"
-intitule_bron: "Stcrt.2019-21883"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-11"
-intitule_published: "2019-04-16"
-intitule_in_force: "2019-04-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-21883"
-original_signed_date: "2019-04-11"
-original_published_date: "2019-04-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-21883"
-entry_into_force_date: "2019-04-17"
-jci_1_3: "jci1.3:c:BWBR0042117&z=2019-04-17&g=2019-04-17"
-jci_1_0: "1.0:c:BWBR0042117&g=2019-04-17"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging Vereffeningsorganisatie PBO 2019"
-signed_date: "2019-04-11"
-entry_into_force: "2019-04-17"
+publicatiedatum: 2019-04-17
+laatste_update: 2019-04-17
+status: geldig
+toestand: 2019-04-17
+bron: "https://wetten.overheid.nl/BWBR0042117"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 april 2019, nr. WJZ/ 19063146, houdende regels betreffende het verlenen van mandaat, volmacht en machtiging inzake de Vereffeningsorganisatie voormalige publiekrechtelijke bedrijfsorganisatie (Besluit mandaat, volmacht en machtiging Vereffeningsorganisatie PBO 2019)
-
-Gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de algemeen directeur Rijksdienst voor Ondernemend Nederland en de Projectmanager Vereffening PBO van het Ministerie van Economische Zaken en Klimaat;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -111,5 +83,3 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscou
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Vereffeningsorganisatie PBO 2019.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

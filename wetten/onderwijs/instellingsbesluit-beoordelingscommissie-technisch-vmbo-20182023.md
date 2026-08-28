@@ -1,54 +1,29 @@
 ---
 title: "Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 17 december 2018, nr. VO/1433973, houdende instelling van de beoordelingscommissie technisch vmbo voor de periode 2018 tot en met 2023 (Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023)"
+citeertitel: "Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023"
 identifier: "BWBR0041757"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-12-28"
-last_updated: "2018-12-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041757"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "14928263"
-version_id: "25553912"
-internal_id: "C36478281"
-label_id: "14879344"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041757/2018-12-28/0"
-intitule_bron: "Stcrt.2018-72812"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-17"
-intitule_published: "2018-12-27"
-intitule_in_force: "2018-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-72812"
-original_signed_date: "2018-12-17"
-original_published_date: "2018-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-72812"
-entry_into_force_date: "2018-12-28"
-jci_1_3: "jci1.3:c:BWBR0041757&z=2018-12-28&g=2018-12-28"
-jci_1_0: "1.0:c:BWBR0041757&g=2018-12-28"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023"
-signed_date: "2018-12-17"
-entry_into_force: "2018-12-28"
+publicatiedatum: 2018-12-28
+laatste_update: 2018-12-28
+status: geldig
+toestand: 2018-12-28
+bron: "https://wetten.overheid.nl/BWBR0041757"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 17 december 2018, nr. VO/1433973, houdende instelling van de beoordelingscommissie technisch vmbo voor de periode 2018 tot en met 2023 (Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023)
-
-Gelet op [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- *Minister:* Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041757&artikel=2&z=2018-12-28&g=2018-12-28);
+- *commissie:* beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041757&artikel=2&z=2018-12-28&g=2018-12-28);
 
-- **regeling:** [Subsidieregeling sterk techniekonderwijs 2020–2023](https://wetten.overheid.nl/jci1.3:c:BWBR0041334).
+- *regeling:*
+ [Subsidieregeling sterk techniekonderwijs 2020–2023](https://wetten.overheid.nl/jci1.3:c:BWBR0041334).
 
 ##### Artikel 2. Instelling en taak
 
@@ -173,5 +148,3 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden d
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,407 +1,378 @@
 ---
 title: "Wet van 17 april 2019, houdende aanpassing van wetten in verband met de invoering van de normalisering van de rechtspositie van ambtenaren (Aanpassingswet Wnra)"
+citeertitel: "Aanpassingswet Wnra"
 identifier: "BWBR0042210"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042210"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15073403"
-version_id: "25836672"
-internal_id: "C37231751"
-label_id: "15023164"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042210/2020-01-01/0"
-intitule_bron: "Stb.2019-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-17"
-intitule_published: "2019-05-16"
-intitule_in_force: "2019-11-06"
-intitule_status: "goed"
-original_publication: "Stb.2019-173"
-original_signed_date: "2019-04-17"
-original_published_date: "2019-05-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "35073"
-original_url_id: "stb-2019-173"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042210&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0042210&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanpassingswet Wnra"
-signed_date: "2019-04-17"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0042210"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 17 april 2019, houdende aanpassing van wetten in verband met de invoering van de normalisering van de rechtspositie van ambtenaren (Aanpassingswet Wnra)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter invoering van de Wet normalisering rechtspositie ambtenaren wenselijk is diverse wetten aan te passen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Ministerie van Algemene Zaken
 
-##### Artikel 1.1. [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896)
+##### Artikel 1.1. Wet op de inlichtingen- en veiligheidsdiensten 2017
 
-Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2017.
+*Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2017.*
 
 ### Hoofdstuk 2. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-##### Artikel 2.1. [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
+##### Artikel 2.1. Algemene pensioenwet politieke ambtsdragers
 
-Wijzigt de Algemene pensioenwet politieke ambtsdragers.
+*Wijzigt de Algemene pensioenwet politieke ambtsdragers.*
 
-##### Artikel 2.2. [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502)
+##### Artikel 2.2. Algemene wet gelijke behandeling
 
-Wijzigt de Algemene wet gelijke behandeling.
+*Wijzigt de Algemene wet gelijke behandeling.*
 
-##### Artikel 2.3. [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215)
+##### Artikel 2.3. Ambtenarenwet BES
 
-Wijzigt de Ambtenarenwet BES.
+*Wijzigt de Ambtenarenwet BES.*
 
-##### Artikel 2.4. [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
+##### Artikel 2.4. Gemeentewet
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
-##### Artikel 2.5. [Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063)
+##### Artikel 2.5. Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba
 
-Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
+*Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
-##### Artikel 2.6. [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159)
+##### Artikel 2.6. Kaderwet adviescolleges
 
-Wijzigt de Kaderwet adviescolleges.
+*Wijzigt de Kaderwet adviescolleges.*
 
-##### Artikel 2.7. [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
+##### Artikel 2.7. Kaderwet zelfstandige bestuursorganen
 
-Wijzigt de Kaderwet zelfstandige bestuursorganen.
+*Wijzigt de Kaderwet zelfstandige bestuursorganen.*
 
-##### Artikel 2.8. [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463)
+##### Artikel 2.8. Organisatiewet Kadaster
 
-Wijzigt de Organisatiewet Kadaster.
+*Wijzigt de Organisatiewet Kadaster.*
 
-##### Artikel 2.9. [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645)
+##### Artikel 2.9. Provinciewet
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
-##### Artikel 2.10. [Uitvoeringswet EGTS-verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0026784)
+##### Artikel 2.10. Uitvoeringswet EGTS-verordening
 
-Wijzigt de Uitvoeringswet EGTS-verordening.
+*Wijzigt de Uitvoeringswet EGTS-verordening.*
 
-##### Artikel 2.11. [Verhaalswet ongevallen ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0002500)
+##### Artikel 2.11. Verhaalswet ongevallen ambtenaren
 
-Wijzigt de Verhaalswet ongevallen ambtenaren.
+*Wijzigt de Verhaalswet ongevallen ambtenaren.*
 
-##### Artikel 2.12. [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718)
+##### Artikel 2.12. Wet algemene regels herindeling
 
-Wijzigt de Wet algemene regels herindeling.
+*Wijzigt de Wet algemene regels herindeling.*
 
-##### Artikel 2.13. [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)
+##### Artikel 2.13. Wet gemeenschappelijke regelingen
 
-Wijzigt de Wet gemeenschappelijke regelingen.
+*Wijzigt de Wet gemeenschappelijke regelingen.*
 
-##### Artikel 2.14. [Wet gemeentelijke antidiscriminatievoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0026168)
+##### Artikel 2.14. Wet gemeentelijke antidiscriminatievoorzieningen
 
-Wijzigt de Wet gemeentelijke antidiscriminatievoorzieningen.
+*Wijzigt de Wet gemeentelijke antidiscriminatievoorzieningen.*
 
-##### Artikel 2.15. [Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852)
+##### Artikel 2.15. Wet Huis voor klokkenluiders
 
-Wijzigt de Wet Huis voor klokkenluiders.
+*Wijzigt de Wet Huis voor klokkenluiders.*
 
-##### Artikel 2.16. [Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612)
+##### Artikel 2.16. Wet Incompatibiliteiten Staten-Generaal en Europees Parlement
 
-Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
+*Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.*
 
-##### Artikel 2.17. [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372)
+##### Artikel 2.17. Wet Nationale ombudsman
 
-Wijzigt de Wet Nationale ombudsman.
+*Wijzigt de Wet Nationale ombudsman.*
 
-##### Artikel 2.18. [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393)
+##### Artikel 2.18. Wet normalisering rechtspositie ambtenaren
 
-Wijzigt de Wet normalisering rechtspositie ambtenaren.
+*Wijzigt de Wet normalisering rechtspositie ambtenaren.*
 
-##### Artikel 2.19. [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825)
+##### Artikel 2.19. Wet op de parlementaire enquête 2008
 
-Wijzigt de Wet op de parlementaire enquête 2008.
+*Wijzigt de Wet op de parlementaire enquête 2008.*
 
-##### Artikel 2.20. [Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367)
+##### Artikel 2.20. Wet op de Raad van State
 
-Wijzigt de Wet op de Raad van State.
+*Wijzigt de Wet op de Raad van State.*
 
 ##### Artikel 2.21. [Vervallen]
 
-Vervallen.
+*Vervallen.*
 
-##### Artikel 2.22. [Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286)
+##### Artikel 2.22. Wet rechtspositie ministers en staatssecretarissen
 
-Wijzigt de Wet rechtspositie ministers en staatssecretarissen.
+*Wijzigt de Wet rechtspositie ministers en staatssecretarissen.*
 
-##### Artikel 2.23. [Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0024788)
+##### Artikel 2.23. Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman
 
-Wijzigt de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
+*Wijzigt de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.*
 
-##### Artikel 2.24. [Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0003251)
+##### Artikel 2.24. Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement
 
-Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement.
+*Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement.*
 
-##### Artikel 2.25. [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775)
+##### Artikel 2.25. Wet vergoedingen adviescolleges en commissies
 
-Wijzigt de Wet vergoedingen adviescolleges en commissies.
+*Wijzigt de Wet vergoedingen adviescolleges en commissies.*
 
 ### Hoofdstuk 3. Ministerie van Defensie
 
-##### Artikel 3.1. [Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952)
+##### Artikel 3.1. Militaire ambtenarenwet 1931
 
-Wijzigt de Militaire ambtenarenwet 1931.
+*Wijzigt de Militaire ambtenarenwet 1931.*
 
-##### Artikel 3.2. [Kaderwet Dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589)
+##### Artikel 3.2. Kaderwet Dienstplicht
 
-Wijzigt de Kaderwet Dienstplicht.
+*Wijzigt de Kaderwet Dienstplicht.*
 
-##### Artikel 3.3. [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955)
+##### Artikel 3.3. Kaderwet militaire pensioenen
 
-Wijzigt de Kaderwet militaire pensioenen.
+*Wijzigt de Kaderwet militaire pensioenen.*
 
-##### Artikel 3.4. [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540)
+##### Artikel 3.4. Uitkeringswet gewezen militairen
 
-Wijzigt de Uitkeringswet gewezen militairen.
+*Wijzigt de Uitkeringswet gewezen militairen.*
 
-##### Artikel 3.5. [Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401)
+##### Artikel 3.5. Veteranenwet
 
-Wijzigt de Veteranenwet.
+*Wijzigt de Veteranenwet.*
 
 ### Hoofdstuk 4. Ministerie van Financiën
 
-##### Artikel 4.1. [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429)
+##### Artikel 4.1. Comptabiliteitswet 2016
 
-Wijzigt de Comptabiliteitswet 2016.
+*Wijzigt de Comptabiliteitswet 2016.*
 
-##### Artikel 4.2. [Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238)
+##### Artikel 4.2. Wet tuchtrechtspraak accountants
 
-Wijzigt de Wet tuchtrechtspraak accountants.
+*Wijzigt de Wet tuchtrechtspraak accountants.*
 
-##### Artikel 4.3. [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119)
+##### Artikel 4.3. Wet waardering onroerende zaken
 
-Wijzigt de Wet waardering onroerende zaken.
+*Wijzigt de Wet waardering onroerende zaken.*
 
 ### Hoofdstuk 5. Ministerie van Infrastructuur en Waterstaat
 
-##### Artikel 5.1. [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
+##### Artikel 5.1. Waterschapswet
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
-##### Artikel 5.2. [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458)
+##### Artikel 5.2. Waterwet
 
-Wijzigt de Waterwet.
+*Wijzigt de Waterwet.*
 
-##### Artikel 5.3. [Wegenverkeerswet 1994](onbekend)
+##### Artikel 5.3. Wegenverkeerswet 1994
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
-##### Artikel 5.4. [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555)
+##### Artikel 5.4. Wet luchtvaart
 
-Wijzigt de Wet luchtvaart.
+*Wijzigt de Wet luchtvaart.*
 
-##### Artikel 5.5. [Wet aanvullende regels veiligheid wegtunnels](https://wetten.overheid.nl/jci1.3:c:BWBR0019516)
+##### Artikel 5.5. Wet aanvullende regels veiligheid wegtunnels
 
-Wijzigt de Wet aanvullende regels veiligheid wegtunnels.
+*Wijzigt de Wet aanvullende regels veiligheid wegtunnels.*
 
 ### Hoofdstuk 6. Ministerie van Justitie en Veiligheid
 
-##### Artikel 6.1. [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093)
+##### Artikel 6.1. Advocatenwet
 
-Wijzigt de Advocatenwet.
+*Wijzigt de Advocatenwet.*
 
-##### Artikel 6.2. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 6.2. Algemene wet bestuursrecht
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 6.2a
 
-Wijzigt het Burgerlijk Wetboek.
+*Wijzigt het Burgerlijk Wetboek.*
 
-##### Artikel 6.3. [Gerechtsdeurwaarderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197)
+##### Artikel 6.3. Gerechtsdeurwaarderwet
 
-Wijzigt de Gerechtsdeurwaarderwet.
+*Wijzigt de Gerechtsdeurwaarderwet.*
 
-##### Artikel 6.4. [Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036510)
+##### Artikel 6.4. Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015
 
-Wijzigt de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015.
+*Wijzigt de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015.*
 
 ##### Artikel 6.4a
 
-Wijzigt de Penitentiaire beginselenwet.
+*Wijzigt de Penitentiaire beginselenwet.*
 
-##### Artikel 6.5. [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
+##### Artikel 6.5. Politiewet 2012
 
-Wijzigt de Politiewet 2012.
+*Wijzigt de Politiewet 2012.*
 
-##### Artikel 6.6. [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940)
+##### Artikel 6.6. Uitvoeringswet Algemene verordening gegevensbescherming
 
-Wijzigt de Uitvoeringswet Algemene verordening gegevensbescherming.
+*Wijzigt de Uitvoeringswet Algemene verordening gegevensbescherming.*
 
-##### Artikel 6.7. [Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685)
+##### Artikel 6.7. Wet Centraal Orgaan opvang asielzoekers
 
-Wijzigt de Wet Centraal Orgaan opvang asielzoekers.
+*Wijzigt de Wet Centraal Orgaan opvang asielzoekers.*
 
-##### Artikel 6.8. [Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733)
+##### Artikel 6.8. Wet College voor de rechten van de mens
 
-Wijzigt de Wet College voor de rechten van de mens.
+*Wijzigt de Wet College voor de rechten van de mens.*
 
-##### Artikel 6.9. [Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0034176)
+##### Artikel 6.9. Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen
 
-Wijzigt de Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
+*Wijzigt de Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.*
 
-##### Artikel 6.10. [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919)
+##### Artikel 6.10. Wet op de bijzondere opsporingsdiensten
 
-Wijzigt de Wet op de bijzondere opsporingsdiensten.
+*Wijzigt de Wet op de bijzondere opsporingsdiensten.*
 
-##### Artikel 6.11. [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388)
+##### Artikel 6.11. Wet op het notarisambt
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
-##### Artikel 6.12. [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830)
+##### Artikel 6.12. Wet op de rechterlijke organisatie
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
-##### Artikel 6.13. [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368)
+##### Artikel 6.13. Wet op de rechtsbijstand
 
-Wijzigt de Wet op de rechtsbijstand.
+*Wijzigt de Wet op de rechtsbijstand.*
 
-##### Artikel 6.14. [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)
+##### Artikel 6.14. Wet politiegegevens
 
-Wijzigt de Wet politiegegevens.
+*Wijzigt de Wet politiegegevens.*
 
-##### Artikel 6.15. [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365)
+##### Artikel 6.15. Wet rechtspositie rechterlijke ambtenaren
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
-##### Artikel 6.16. [Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979)
+##### Artikel 6.16. Wet schadefonds geweldsmisdrijven
 
-Wijzigt de Wet schadefonds geweldsmisdrijven.
+*Wijzigt de Wet schadefonds geweldsmisdrijven.*
 
-##### Artikel 6.17. [Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779)
+##### Artikel 6.17. Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten
 
-Wijzigt de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten.
+*Wijzigt de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten.*
 
-##### Artikel 6.18. [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466)
+##### Artikel 6.18. Wet veiligheidsregio’s
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
-##### Artikel 6.19. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+##### Artikel 6.19. Wetboek van Burgerlijke Rechtsvordering
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
-##### Artikel 6.20. [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854)
+##### Artikel 6.20. Wetboek van Strafrecht
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ### Hoofdstuk 7. Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-##### Artikel 7.1. [Wet verzelfstandiging Staatsbosbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0008904)
+##### Artikel 7.1. Wet verzelfstandiging Staatsbosbeheer
 
-Wijzigt de Wet verzelfstandiging Staatsbosbeheer.
+*Wijzigt de Wet verzelfstandiging Staatsbosbeheer.*
 
-##### Artikel 7.2. [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250)
+##### Artikel 7.2. Wet dieren
 
-Wijzigt de Wet dieren.
+*Wijzigt de Wet dieren.*
 
-##### Artikel 7.3. [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670)
+##### Artikel 7.3. Wet gewasbeschermingsmiddelen en biociden
 
-Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
+*Wijzigt de Wet gewasbeschermingsmiddelen en biociden.*
 
-##### Artikel 7.4. [Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040)
+##### Artikel 7.4. Zaaizaad- en Plantgoedwet 2005
 
-Wijzigt de Zaaizaad- en Plantgoedwet 2005.
+*Wijzigt de Zaaizaad- en Plantgoedwet 2005.*
 
 ### Hoofdstuk 8. Ministerie van Onderwijs, Cultuur en Wetenschap
 
-##### Artikel 8.0. [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+##### Artikel 8.0. Archiefwet 1995
 
-Wijzigt de Archiefwet 1995.
+*Wijzigt de Archiefwet 1995.*
 
-##### Artikel 8.1. [Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364)
+##### Artikel 8.1. Wet College voor toetsen en examens
 
-Wijzigt de Wet College voor toetsen en examens.
+*Wijzigt de Wet College voor toetsen en examens.*
 
-##### Artikel 8.2. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 8.2. Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
 ### Hoofdstuk 9. Ministerie van Sociale Zaken en Werkgelegenheid
 
-##### Artikel 9.1. [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)
+##### Artikel 9.1. Arbeidstijdenwet
 
-Wijzigt de Arbeidstijdenwet.
+*Wijzigt de Arbeidstijdenwet.*
 
-##### Artikel 9.2. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
+##### Artikel 9.2. Wet arbeid en zorg
 
-Wijzigt de Wet arbeid en zorg.
+*Wijzigt de Wet arbeid en zorg.*
 
-##### Artikel 9.3. [Wet gelijke behandeling op grond van leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0016185)
+##### Artikel 9.3. Wet gelijke behandeling op grond van leeftijd
 
-Wijzigt de Wet gelijke behandeling op grond van leeftijd bij de arbeid.
+*Wijzigt de Wet gelijke behandeling op grond van leeftijd bij de arbeid.*
 
-##### Artikel 9.4. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+##### Artikel 9.4. Wet structuur uitvoeringsorganisatie werk en inkomen
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
-##### Artikel 9.5. [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747)
+##### Artikel 9.5. Wet op de ondernemingsraden
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ### Hoofdstuk 10. Ministerie van Volksgezondheid, Welzijn en Sport
 
-##### Artikel 10.1. [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505)
+##### Artikel 10.1. Geneesmiddelenwet
 
-Wijzigt de Geneesmiddelenwet.
+*Wijzigt de Geneesmiddelenwet.*
 
-##### Artikel 10.2. [Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202)
+##### Artikel 10.2. Gezondheidswet
 
-Wijzigt de Gezondheidswet.
+*Wijzigt de Gezondheidswet.*
 
-##### Artikel 10.3. [Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915)
+##### Artikel 10.3. Wet gelijke behandeling op grond van handicap of chronische ziekte
 
-Wijzigt de Wet gelijke behandeling op grond van handicap of chronische ziekte.
+*Wijzigt de Wet gelijke behandeling op grond van handicap of chronische ziekte.*
 
-##### Artikel 10.4. [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 10.4. Wet langdurige zorg
 
-Wijzigt de Wet langdurige zorg.
+*Wijzigt de Wet langdurige zorg.*
 
-##### Artikel 10.5. [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408)
+##### Artikel 10.5. Wet medisch-wetenschappelijk onderzoek met mensen
 
-Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
+*Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.*
 
-##### Artikel 10.6. [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251)
+##### Artikel 10.6. Wet op de beroepen in de individuele gezondheidszorg
 
-Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
+*Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.*
 
-##### Artikel 10.7. [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819)
+##### Artikel 10.7. Wet op de medische keuringen
 
-Wijzigt de Wet op de medische keuringen.
+*Wijzigt de Wet op de medische keuringen.*
 
-##### Artikel 10.8. [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385)
+##### Artikel 10.8. Wet op de organisatie ZorgOnderzoek Nederland
 
-Wijzigt de Wet op de organisatie ZorgOnderzoek Nederland.
+*Wijzigt de Wet op de organisatie ZorgOnderzoek Nederland.*
 
-##### Artikel 10.9. [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906)
+##### Artikel 10.9. Wet toelating zorginstellingen
 
-Wijzigt de Wet toelating zorginstellingen.
+*Wijzigt de Wet toelating zorginstellingen.*
 
-##### Artikel 10.10. [Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410)
+##### Artikel 10.10. Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding
 
-Wijzigt de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.
+*Wijzigt de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.*
 
-##### Artikel 10.11. [Wet van 8 april 2016 tot wijziging van de Zorgverzekeringswet en andere wetten in verband met de overgang van een aantal taken van het Zorginstituut Nederland naar het CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0037917) (Stb. 2016, 173)
+##### Artikel 10.11. Wet van 8 april 2016 tot wijziging van de Zorgverzekeringswet en andere wetten in verband met de overgang van een aantal taken van het Zorginstituut Nederland naar het CAK (Stb. 2016, 173)
 
-Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (overgang van aantal taken van Zorginstituut Nederland naar CAK).
+*Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (overgang van aantal taken van Zorginstituut Nederland naar CAK).*
 
-##### Artikel 10.12. [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
+##### Artikel 10.12. Zorgverzekeringswet
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ### Hoofdstuk 11. Slotbepalingen
 
@@ -459,7 +430,7 @@ Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel 11.4. Samenloop
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 11.5
 
@@ -470,5 +441,3 @@ Wijzigt deze wet.
 ##### Artikel 11.6
 
 Deze wet wordt aangehaald als: Aanpassingswet Wnra.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

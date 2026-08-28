@@ -1,21 +1,19 @@
 ---
-title: "Organisatiebesluit dienst van de huurcommissie 2019"
+title: "Besluit van het bestuur van de huurcommissie, van 8 maart 2019, nr. MA/2019-062/UP, houdende de organisatie-inrichting van administratieve ondersteuning van de Huurcommissie aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2019)"
+citeertitel: "Organisatiebesluit dienst van de huurcommissie 2019"
 identifier: "BWBR0042107"
-categorie: "Overig"
-publicatiedatum: 2024-09-17
-laatste_update: 2026-06-02
+categorie: "Bestuursrecht"
+soort: "zbo"
+publicatiedatum: 2019-04-11
+laatste_update: 2024-09-17
 status: vervallen
+vervallen_op: 2025-12-22
+toestand: 2024-09-17
 bron: "https://wetten.overheid.nl/BWBR0042107"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-28
 ---
 
 # Besluit van het bestuur van de huurcommissie, van 8 maart 2019, nr. MA/2019-062/UP, houdende de organisatie-inrichting van administratieve ondersteuning van de Huurcommissie aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2019)
-
-Gelet op de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315),
-
-Gelet op [artikel 2 van het Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033211&artikel=2),
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -23,25 +21,25 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
+- a. *wet:* de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
 
-- b. **huurcommissie:** de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- b. *huurcommissie:* de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- c. **bestuur:** het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- c. *bestuur:* het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- d. **voorzitter:** de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- d. *voorzitter:* de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- e. **plaatsvervangend voorzitter:** de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- e. *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- f. **administratieve ondersteuning:** de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3c) en [3h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3h) en aangeduid als dienst van de huurcommissie, overeenkomstig [artikel 1 van het Instellingsbesluit Dienst van de Huurcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0026930&artikel=1);
+- f. *administratieve ondersteuning:* de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3c) en [3h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3h) en aangeduid als dienst van de huurcommissie, overeenkomstig [artikel 1 van het Instellingsbesluit Dienst van de Huurcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0026930&artikel=1);
 
-- g. **eenheid:** een organisatieonderdeel van de dienst van de huurcommissie,
+- g. *eenheid:* een organisatieonderdeel van de dienst van de huurcommissie,
 
-- h. **directeur:** de uitvoerend directeur van de dienst van de huurcommissie;
+- h. *directeur:* de uitvoerend directeur van de dienst van de huurcommissie;
 
-- i. **manager:** manager van een eenheid van de dienst van de huurcommissie;
+- i. *manager:* manager van een eenheid van de dienst van de huurcommissie;
 
-- j. **functionaris:** medewerker van de dienst van de huurcommissie.
+- j. *functionaris:* medewerker van de dienst van de huurcommissie.
 
 ##### Artikel 2. Hoofdstructuur en leiding dienst van de huurcommissie
 
@@ -143,68 +141,66 @@ De eenheid Ontwikkeling en Ondersteuning staat onder leiding van de manager Ontw
 
 - a. Ontwikkeling richt zich op voorlichting, informatievergaring- en verstrekking, kennisoverdracht en ontwikkeling van nieuwe dienstverleningsvormen, door middel van, onder meer:
 
-  - •. ondersteunen van het bestuur en de directeur bij strategiebepaling, beleid, juridische zaken;
+   - • ondersteunen van het bestuur en de directeur bij strategiebepaling, beleid, juridische zaken;
 
-  - •. coördineren van beleidsvorming;
+   - • coördineren van beleidsvorming;
 
-  - •. monitoren van klanttevredenheid;
+   - • monitoren van klanttevredenheid;
 
-  - •. coördineren van en adviseren over inzet strategische communicatie en communicatiemiddelen;
+   - • coördineren van en adviseren over inzet strategische communicatie en communicatiemiddelen;
 
-  - •. ondersteunen bij woordvoerderschap en persvoorlichting;
+   - • ondersteunen bij woordvoerderschap en persvoorlichting;
 
-  - •. beoordelen van bedrijfsresultaten, periodiek en ad hoc, in het licht van de externe en interne planningcyclus en controlcyclus;
+   - • beoordelen van bedrijfsresultaten, periodiek en ad hoc, in het licht van de externe en interne planningcyclus en controlcyclus;
 
-  - •. ontwikkelen van controlbeleid, planningsinstrumenten en controlinstrumenten;
+   - • ontwikkelen van controlbeleid, planningsinstrumenten en controlinstrumenten;
 
-  - •. adviseren, gevraagd en ongevraagd, van de directeur over de bedrijfsvoering.
+   - • adviseren, gevraagd en ongevraagd, van de directeur over de bedrijfsvoering.
 
 - b. Ondersteuning richt zich op bedrijfsprocessen verband houdende met, onder meer:
 
-  - •. berekening en inning verhuurderbijdrage, bedoeld in [artikel 8a van de Uitvoeringswet huurprijzen woonruime](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=8a);
+   - • berekening en inning verhuurderbijdrage, bedoeld in [artikel 8a van de Uitvoeringswet huurprijzen woonruime](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=8a);
 
-  - •. berekening en inning dwangsom bij niet tijdig beslissen, bedoeld in de [artikelen 4:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:17) en [4:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:18);
+   - • berekening en inning dwangsom bij niet tijdig beslissen, bedoeld in de [artikelen 4:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:17) en [4:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:18);
 
-  - •. behandeling verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252);
+   - • behandeling verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252);
 
-  - •. behandeling van verzoeken op grond van [artikel 34 van de Uitvoeringswet algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=34) en de artikelen 15 tot en met 22 van de algemene verordening gegevensbescherming;
+   - • behandeling van verzoeken op grond van [artikel 34 van de Uitvoeringswet algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=34) en de artikelen 15 tot en met 22 van de algemene verordening gegevensbescherming;
 
-  - •. inning van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7);
+   - • inning van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7);
 
-  - •. voorbereiding dwangbevel ter inning van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7);
+   - • voorbereiding dwangbevel ter inning van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7);
 
-  - •. behandeling van verzoeken en vorderingen tot schadevergoeding;
+   - • behandeling van verzoeken en vorderingen tot schadevergoeding;
 
-  - •. personeel en organisatie;
+   - • personeel en organisatie;
 
-  - •. financiën;
+   - • financiën;
 
-  - •. automatisering en ICT;
+   - • automatisering en ICT;
 
-  - •. procesanalyse;
+   - • procesanalyse;
 
-  - •. huisvesting, inkoop en facilitaire zaken;
+   - • huisvesting, inkoop en facilitaire zaken;
 
-  - •. planningscyclus en controlcyclus;
+   - • planningscyclus en controlcyclus;
 
-  - •. agendabeheer en secretariaatsvoering voor de verschillende vergaderingen van de huurcommissie en het borgen van de onderlinge afstemming tussen de verschillende vergaderingen;
+   - • agendabeheer en secretariaatsvoering voor de verschillende vergaderingen van de huurcommissie en het borgen van de onderlinge afstemming tussen de verschillende vergaderingen;
 
-  - •. managementondersteuning;
+   - • managementondersteuning;
 
-  - •. websiteonderhoud;
+   - • websiteonderhoud;
 
-  - •. toezicht op het doelmatig en eenduidig functioneren van de bedrijfsvoering;
+   - • toezicht op het doelmatig en eenduidig functioneren van de bedrijfsvoering;
 
-  - •. jaarlijkse opstelling controlplan als onderdeel van het jaarplan.
+   - • jaarlijkse opstelling controlplan als onderdeel van het jaarplan.
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 9. Inwerkingtreding en citeertitel
 
-1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 1 januari 2019.
+1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 1 januari 2019.
 
 2. Het [Organisatiebesluit dienst van de huurcommissie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033678) wordt ingetrokken.
 
 3. Dit besluit wordt aangehaald als: Organisatiebesluit dienst van de huurcommissie 2019.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

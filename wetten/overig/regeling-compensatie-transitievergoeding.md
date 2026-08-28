@@ -1,44 +1,20 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 februari 2019, nr. 2019-0000023811, houdende regels met betrekking tot de compensatie van de transitievergoeding bij een einde van de arbeidsovereenkomst na langdurige arbeidsongeschiktheid (Regeling compensatie transitievergoeding)"
+citeertitel: "Regeling compensatie transitievergoeding"
 identifier: "BWBR0041942"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-01"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041942"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "15010413"
-version_id: "27196182"
-internal_id: "C38427061"
-label_id: "14960364"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041942/2022-04-01/0"
-intitule_bron: "Stcrt.2019-10547"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-02-18"
-intitule_published: "2019-02-26"
-intitule_in_force: "2019-02-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-58202"
-original_signed_date: "2020-11-02"
-original_published_date: "2020-11-13"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-58202"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0041942&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBR0041942&g=2022-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling compensatie transitievergoeding"
-signed_date: "2020-11-02"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBR0041942"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 februari 2019, nr. 2019-0000023811, houdende regels met betrekking tot de compensatie van de transitievergoeding bij een einde van de arbeidsovereenkomst na langdurige arbeidsongeschiktheid (Regeling compensatie transitievergoeding)
 
-Gelet op [artikel 673e, vijfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673e);
-
-Besluit:
+#### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -48,13 +24,15 @@ Deze regeling berust op [artikel 673e, zevende lid, van Boek 7 van het Burgerlij
 
 In deze regeling wordt verstaan onder:
 
-- **Aanvraag van compensatie na langdurige arbeidsongeschiktheid**: verzoek van de werkgever tot verstrekking van de vergoeding, bedoeld in [artikel 673e, eerste lid, aanhef en onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673e);
+- *Aanvraag van compensatie na langdurige arbeidsongeschiktheid*: verzoek van de werkgever tot verstrekking van de vergoeding, bedoeld in [artikel 673e, eerste lid, aanhef en onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673e);
 
-- **Aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de onderneming**: verzoek van de werkgever tot verstrekking van de vergoeding, bedoeld in [artikel 673e, eerste lid, aanhef en onderdeel b, onder 1° of 3°, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673e);
+- *Aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de onderneming*: verzoek van de werkgever tot verstrekking van de vergoeding, bedoeld in [artikel 673e, eerste lid, aanhef en onderdeel b, onder 1° of 3°, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673e);
 
-- **UWV:** Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- *UWV:* Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- **werkgever, werknemer en arbeidsovereenkomst:** hetgeen daaronder wordt verstaan in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610).
+- *werkgever, werknemer en arbeidsovereenkomst:* hetgeen daaronder wordt verstaan in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610).
+
+#### Paragraaf 2. Aanvraag van compensatie na langdurige arbeidsongeschiktheid
 
 ##### Artikel 2. Aanvraagtermijn
 
@@ -66,7 +44,9 @@ De aanvraag van compensatie na langdurige arbeidsongeschiktheid wordt afgewezen,
 
 ##### Artikel 3. Afwijkende termijnen oude gevallen
 
-Vervallen
+*Vervallen*
+
+#### Paragraaf 3. Aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de onderneming
 
 ##### Artikel 4. Aanvraagtermijn
 
@@ -78,15 +58,7 @@ De aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de 
 
 ##### Artikel 5
 
-Door vernummering vervallen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Aanvraag van compensatie na langdurige arbeidsongeschiktheid
-
-#### Paragraaf 3. Aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de onderneming
+*Door vernummering vervallen.*
 
 ##### Artikel 6. Citeertitel
 
@@ -94,6 +66,4 @@ Deze regeling wordt aangehaald als: Regeling compensatie transitievergoeding.
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 april 2020.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 april 2020.

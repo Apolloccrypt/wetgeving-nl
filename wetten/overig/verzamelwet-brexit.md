@@ -1,101 +1,78 @@
 ---
 title: "Wet van 27 maart 2019 tot wijziging van enige wetten en het treffen van voorzieningen in verband met de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie (Verzamelwet Brexit)"
+citeertitel: "Verzamelwet Brexit"
 identifier: "BWBR0042111"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042111"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "15052203"
-version_id: "25794022"
-internal_id: "C37601251"
-label_id: "15001564"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042111/2024-01-01/0"
-intitule_bron: "Stb.2019-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-27"
-intitule_published: "2019-04-12"
-intitule_in_force: "2020-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2019-123"
-original_signed_date: "2019-03-27"
-original_published_date: "2019-04-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "35084"
-original_url_id: "stb-2019-123"
-entry_into_force_date: "2020-02-01"
-jci_1_3: "jci1.3:c:BWBR0042111&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0042111&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Verzamelwet Brexit"
-signed_date: "2019-03-27"
-entry_into_force: "2020-02-01"
+publicatiedatum: 2020-02-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0042111"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 27 maart 2019 tot wijziging van enige wetten en het treffen van voorzieningen in verband met de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie (Verzamelwet Brexit)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat ter voorbereiding op de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie het wenselijk is wijzigingen in een aantal wetten door te voeren en enkele wettelijke voorzieningen te treffen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Ministerie van Justitie en Veiligheid
 
-##### Artikel I. Wijziging van de [Wet op de formeel buitenlandse vennootschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0009191)
+##### Artikel I. Wijziging van de Wet op de formeel buitenlandse vennootschappen
 
-Wijzigt de Wet op de formeel buitenlandse vennootschappen.
+*Wijzigt de Wet op de formeel buitenlandse vennootschappen.*
 
 ### Hoofdstuk 2. Ministerie van Infrastructuur en Waterstaat
 
-##### Artikel II. Wijziging van de [Wegenverkeerswet 1994](onbekend)
+##### Artikel II. Wijziging van de Wegenverkeerswet 1994
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
 ### Hoofdstuk 3. Ministerie van Economische Zaken en Klimaat
 
 ##### Artikel III
 
-Wijzigt de Elektriciteitswet 1998.
+*Wijzigt de Elektriciteitswet 1998.*
 
 ##### Artikel IV
 
-Wijzigt de Gaswet.
+*Wijzigt de Gaswet.*
 
-##### Artikel V. Wijziging van de [Wet goedkeuring en uitvoering Markham-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0005766)
+##### Artikel V. Wijziging van de Wet goedkeuring en uitvoering Markham-overeenkomst
 
-Wijzigt de Wet goedkeuring en uitvoering Markham-overeenkomst.
+*Wijzigt de Wet goedkeuring en uitvoering Markham-overeenkomst.*
 
-##### Artikel VI. Wijziging van de [Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224)
+##### Artikel VI. Wijziging van de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten
 
-Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.
+*Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.*
 
 ### Hoofdstuk 4. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ##### Artikel VII. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2023/417.
+*Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2023/417.*
 
-Vervallen.
+*Vervallen.*
 
 ### Hoofdstuk 5. Ministerie van Volksgezondheid, Welzijn en Sport
 
-##### Artikel VIII. Wijziging [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel VIII. Wijziging Wet langdurige zorg
 
-Wijzigt de Wet langdurige zorg.
+*Wijzigt de Wet langdurige zorg.*
 
-##### Artikel IX. Wijziging [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
+##### Artikel IX. Wijziging Zorgverzekeringswet
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
+
+##### Artikel IXa. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
+
+1. Bij algemene maatregel van bestuur kan in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) worden bepaald dat het Verenigd Koninkrijk na de terugtrekking uit de Europese Unie voor de toepassing van die wetten gedurende een daarbij aangegeven periode nog als EU-lidstaat wordt aangemerkt, en kan in die wetten overgangsrecht worden opgenomen voor de situatie na de terugtrekking of na afloop van die periode ter voorkoming van onevenredig nadeel voor verzekerden in het Verenigd Koninkrijk en Nederland.
+
+2. Zo spoedig mogelijk na de totstandkoming van de algemene maatregel van bestuur, maar uiterlijk binnen acht weken, wordt een voorstel van wet tot goedkeuring van de algemene maatregel van bestuur aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal tot het niet-aannemen van het voorstel besluit, wordt de algemene maatregel van bestuur onverwijld ingetrokken en wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden dat er toe strekt de bij de algemene maatregel van bestuur vastgestelde wijzigingen ongedaan te maken.
 
 ### Hoofdstuk 6. Slot- en overgangsbepalingen
 
 ##### Artikel X. Regelgevende bevoegdheden ten behoeve van overgangssituaties
 
-1. Bij algemene maatregel van bestuur of bij ministeriële regeling van Onze Minister die het aangaat kunnen tot zes maanden na het einde van de overgangsperiode, bedoeld in artikel 126 van het Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie (PbEU 2020, L 29), voorzieningen worden getroffen met het oog op een goed verloop van deze terugtrekking. De eerste volzin is slechts van toepassing indien op grond van het bepaalde bij of krachtens een andere wet geen voorzieningen als bedoeld in de eerste volzin kunnen worden getroffen of indien terstond intredende onaanvaardbare gevolgen het treffen van voorzieningen als bedoeld in de eerste volzin noodzakelijk maken. Het gebruik van de bevoegdheid, bedoeld in de eerste volzin, wordt nadrukkelijk gemotiveerd.
+1. Bij algemene maatregel van bestuur of bij ministeriële regeling van Onze Minister die het aangaat kunnen tot zes maanden na het einde van de overgangsperiode, bedoeld in artikel 126 van het Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie (PbEU 2020, L 29), voorzieningen worden getroffen met het oog op een goed verloop van deze terugtrekking. De eerste volzin is slechts van toepassing indien op grond van het bepaalde bij of krachtens een andere wet geen voorzieningen als bedoeld in de eerste volzin kunnen worden getroffen of indien terstond intredende onaanvaardbare gevolgen het treffen van voorzieningen als bedoeld in de eerste volzin noodzakelijk maken. Het gebruik van de bevoegdheid, bedoeld in de eerste volzin, wordt nadrukkelijk gemotiveerd.
 
 2. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kan worden afgeweken van het bepaalde bij of krachtens de wet, voor zover dit nodig is voor een goede tenuitvoerlegging van een bindende EU-rechtshandeling met betrekking tot de terugtrekking van het Verenigd Koninkrijk, of ter voorkoming van onaanvaardbare en onomkeerbare gevolgen daarvan. Bij de algemene maatregel van bestuur, bedoeld in de eerste volzin, wordt niet afgeweken van bij de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) gestelde voorschriften.
 
@@ -119,22 +96,10 @@ Wijzigt de Zorgverzekeringswet.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In het koninklijk besluit kan worden bepaald dat deze wet of onderdelen daarvan terugwerken tot en met 30 maart 2019.
+2. In het koninklijk besluit kan worden bepaald dat deze wet of onderdelen daarvan terugwerken tot en met 30 maart 2019.
 
 3. Aan besluiten die worden gebaseerd op een onderdeel van deze wet waaraan ingevolge het tweede lid terugwerkende kracht is verleend, kan terugwerkende kracht worden verleend tot en met dezelfde datum.
 
 ##### Artikel XII. Citeertitel
 
 Deze wet wordt aangehaald als: Verzamelwet Brexit.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IXa. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
-
-1. Bij algemene maatregel van bestuur kan in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) worden bepaald dat het Verenigd Koninkrijk na de terugtrekking uit de Europese Unie voor de toepassing van die wetten gedurende een daarbij aangegeven periode nog als EU-lidstaat wordt aangemerkt, en kan in die wetten overgangsrecht worden opgenomen voor de situatie na de terugtrekking of na afloop van die periode ter voorkoming van onevenredig nadeel voor verzekerden in het Verenigd Koninkrijk en Nederland.
-
-2. Zo spoedig mogelijk na de totstandkoming van de algemene maatregel van bestuur, maar uiterlijk binnen acht weken, wordt een voorstel van wet tot goedkeuring van de algemene maatregel van bestuur aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal tot het niet-aannemen van het voorstel besluit, wordt de algemene maatregel van bestuur onverwijld ingetrokken en wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden dat er toe strekt de bij de algemene maatregel van bestuur vastgestelde wijzigingen ongedaan te maken.
-
-### Hoofdstuk 6. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

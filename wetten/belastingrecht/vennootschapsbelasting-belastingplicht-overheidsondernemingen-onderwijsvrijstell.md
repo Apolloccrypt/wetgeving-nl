@@ -1,47 +1,45 @@
 ---
 title: "Vennootschapsbelasting, belastingplicht overheidsondernemingen, onderwijsvrijstelling, objectvrijstellingen"
 identifier: "BWBR0042432"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-07-20"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042432"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "15127303"
-version_id: "25938042"
-internal_id: "C36952721"
-label_id: "15075364"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042432/2019-07-20/0"
-intitule_bron: "Stcrt.2019-39948"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-09"
-intitule_published: "2019-07-19"
-intitule_in_force: "2019-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-39948"
-original_signed_date: "2019-07-09"
-original_published_date: "2019-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-39948"
-entry_into_force_date: "2019-07-20"
-jci_1_3: "jci1.3:c:BWBR0042432&z=2019-07-20&g=2019-07-20"
-jci_1_0: "1.0:c:BWBR0042432&g=2019-07-20"
-citeertitel_status: "redactioneel"
-signed_date: "2019-07-09"
-entry_into_force: "2019-07-20"
+publicatiedatum: 2019-07-20
+laatste_update: 2019-07-20
+status: geldig
+toestand: 2019-07-20
+bron: "https://wetten.overheid.nl/BWBR0042432"
+opgehaald: 2026-08-28
 ---
+
 # Vennootschapsbelasting, belastingplicht overheidsondernemingen, onderwijsvrijstelling, objectvrijstellingen
 
 De Staatssecretaris van Financiën heeft het volgende besloten.
 
-**In dit besluit is vooruitlopend op wetsaanpassing goedkeurend beleid opgenomen over de onderwijsvrijstelling en de vrijstellingen voor interne activiteiten en quasi-inbesteding. Deze vrijstellingen zijn opgenomen in artikel 6b, eerste lid, onderdeel b, artikel 8e, eerste lid, onderdeel a en artikel 8f, eerste lid, onderdeel a, van de Wet op de vennootschapsbelasting 1969.**
+*In dit besluit is vooruitlopend op wetsaanpassing goedkeurend beleid opgenomen over de onderwijsvrijstelling en de vrijstellingen voor interne activiteiten en quasi-inbesteding. Deze vrijstellingen zijn opgenomen in artikel 6b, eerste lid, onderdeel b, artikel 8e, eerste lid, onderdeel a en artikel 8f, eerste lid, onderdeel a, van de Wet op de vennootschapsbelasting 1969.*
 
 ### 1. Inleiding
 
 Op 12 juni 2015 is de [Wet modernisering Vpb-plicht overheidsondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0036672) in werking getreden. Deze wet vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2016. Op basis van deze wet zijn zowel directe als indirecte overheidsondernemingen in beginsel aan de vennootschapsbelasting onderworpen. De wet bevat een aantal vrijstellingen, waaronder bijvoorbeeld de onderwijsvrijstelling en de vrijstelling voor interne activiteiten. Bij nader inzien blijkt dat deze vrijstellingen te beperkt zijn vormgegeven. De wettelijke regeling zal op dit punt worden aangepast. Vooruitlopend op deze aanpassingen zijn in dit besluit twee goedkeuringen opgenomen. Deze goedkeuringen zijn gebaseerd op [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63).
+
+Gebruikte begrippen en afkortingen
+
+- *AWR:*
+ [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
+
+- *Bekostigde school:* een school voor primair of voortgezet onderwijs die zowel basisbekostiging als een aanvullende bekostiging ontvangt van het ministerie van Onderwijs, Cultuur en Wetenschap
+
+- *Ministerie van OCW:* ministerie van Onderwijs, Cultuur en Wetenschap
+
+- *Onderwijsvrijstelling:* de subjectieve vrijstelling als bedoeld in [artikel 6b, eerste lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6b)
+
+- *Quasi-inbestedingsvrijstelling:* de vrijstelling als bedoeld in [artikel 8f, eerste lid, onderdeel a, ten eerste, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8f)
+
+- *Staat:* de staat der Nederlanden
+
+- *Vrijstelling voor interne activiteiten:* de vrijstelling als bedoeld in [artikel 8e, eerste lid, onderdeel a, ten eerste, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8e)
+
+- *Wet Vpb:*
+ [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)
 
 ### 2. Onderwijsvrijstelling
 
@@ -51,13 +49,15 @@ In [artikel 6b, eerste lid, onderdeel b, Wet Vpb](https://wetten.overheid.nl/jci
 
 Er zijn bekostigde scholen in het basis- en voortgezet onderwijs die een internationale afdeling hebben. Een internationale afdeling van een bekostigde school staat volledig onder toezicht van de Nederlandse onderwijsinspectie en ontvangt per leerling zowel basisbekostiging als een aanvullende bekostiging vanuit het ministerie van OCW. Omdat deze internationale afdelingen in mindere mate worden bekostigd vanuit de overheid, is aan deze bekostigde scholen de mogelijkheid gegeven om aanvullend een verplichte ouderbijdrage te vragen voor toelating tot het internationale curriculum1Zie Kamerstukken II 2010/11, 32 795, nr. 3, p. 2–3 en artikel 9 van de Beleidsregel internationaal georiënteerd voortgezet onderwijs.. Deze verplichte ouderbijdrage is op basis van de grammaticale tekst van de onderwijsvrijstelling geen toegelaten financieringsmiddel. Hierdoor bestaat de kans dat de stichting waarin deze bekostigde scho(o)l(en) met internationale afdeling is(zijn) opgenomen niet in aanmerking komt voor de onderwijsvrijstelling, waardoor – vanuit de wetgever gezien – onbedoeld en ongewenst belastingplicht ontstaat. Ik ben van mening dat de verplichte ouderbijdrage voor toelating tot het internationale curriculum in deze gevallen op één lijn is te stellen met een bijdrage als het wettelijke lesgeld.
 
+Goedkeuring
+
 Vooruitlopend op een aanpassing van [artikel 6b Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6b) keur ik goed dat in de in onderdeel 2.1 genoemde situaties de verplichte ouderbijdrage voor de toelating tot een internationale afdeling van een door het ministerie van OCW bekostigde school wordt aangemerkt als toegelaten financieringsmiddel voor de bekostigingseis. Ik keur verder goed dat de verplichte ouderbijdrage voor toelating tot een geaccrediteerde Europese school eveneens wordt aangemerkt als toegelaten financieringsmiddel. Ook voor deze situatie geldt dat de verplichte ouderbijdrage vergelijkbaar is met het wettelijke lesgeld2In de toelichting op de Experimenteerbeschikking Europese School Den Haag (2 november 2011) is beschreven dat een verplichte ouderbijdrage een voorwaarde is om te worden toegelaten tot het primaire onderwijs aan de Europese School Den Haag. Wat betreft het voortgezet onderwijs bevat artikel 9 van de Beleidsregel internationaal georiënteerd voortgezet onderwijs 2010 de mogelijkheid een ouderbijdrage verplicht te stellen (http://wetten.overheid.nl/BWBR0027776/2012-08-01)., dat de overheid zowel de basisbekostiging als de aanvullende bekostiging biedt en dat sprake is van overheidstoezicht.
 
 Aan deze goedkeuring verbind ik de voorwaarde dat de verplichte ouderbijdrage rechtstreeks wordt betaald aan de onderwijsstichting.
 
 ### 2.2. Overgangsregeling
 
-In de praktijk doen zich situaties voor waarbij de verplichte ouderbijdragen voor toelating tot een internationale afdeling van een bekostigde school niet rechtstreeks door de ouders worden betaald aan de onderwijsstichting, maar aan een aparte stichting. Deze stichting betaalt op haar beurt de ouderbijdragen door aan de onderwijsstichting. Deze betalingen zijn daardoor niet meer aan te merken als de betaling van de verplichte ouderbijdragen. Onderwijsstichtingen die hierdoor op het moment van publicatie van dit besluit niet voldoen aan de in onderdeel 2.1 opgenomen goedkeuring krijgen tot 1 januari 2020 de tijd om hun werkwijze zo aan te passen dat zij voldoen aan de eisen zoals vermeld in onderdeel 2.1.
+In de praktijk doen zich situaties voor waarbij de verplichte ouderbijdragen voor toelating tot een internationale afdeling van een bekostigde school niet rechtstreeks door de ouders worden betaald aan de onderwijsstichting, maar aan een aparte stichting. Deze stichting betaalt op haar beurt de ouderbijdragen door aan de onderwijsstichting. Deze betalingen zijn daardoor niet meer aan te merken als de betaling van de verplichte ouderbijdragen. Onderwijsstichtingen die hierdoor op het moment van publicatie van dit besluit niet voldoen aan de in [onderdeel 2.1](https://wetten.overheid.nl/BWBR0042432) opgenomen goedkeuring krijgen tot 1 januari 2020 de tijd om hun werkwijze zo aan te passen dat zij voldoen aan de eisen zoals vermeld in onderdeel 2.1.
 
 ### 3. Publiekrechtelijke overheidslichamen
 
@@ -71,10 +71,16 @@ In de [Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) zijn objectvrij
 
 Op dit moment wordt een wetswijziging voorbereid op basis waarvan volledig door de Staat beheerste publiekrechtelijke rechtspersonen voor de toepassing van de vrijstelling voor interne activiteiten en de quasi-inbestedingsvrijstelling dezelfde behandeling krijgen als de privaatrechtelijke overheidslichamen van een publiekrechtelijke rechtspersoon zoals bedoeld in [artikel 8e, zesde lid, Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8e).
 
+Goedkeuring
+
 Vooruitlopend op deze wetsaanpassing keur ik met toepassing van de hardheidsclausule goed dat voor de vrijstelling voor interne diensten en de quasi-inbestedingsvrijstelling deze volledig door de Staat beheerste publiekrechtelijke rechtspersonen voor de toepassing van deze objectvrijstellingen op dezelfde wijze worden behandeld als de in [artikel 8e, zesde lid, Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8e) bedoelde privaatrechtelijke overheidslichamen. Aan deze goedkeuring verbind ik de volgende voorwaarden:
+
+- 1. De goedkeuring is alleen van toepassing op direct bij nationale wet opgerichte publiekrechtelijke rechtspersonen, die uitsluitend bij wet kunnen worden opgeheven en waarvan de bestuurders uitsluitend door de Staat, de minister of bij Koninklijk Besluit kunnen worden benoemd en ontslagen.
+
+- 2. [Artikel 8e, zevende, achtste en negende lid, Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8e) zijn van overeenkomstige toepassing op de volledig door de Staat beheerste publiekrechtelijke rechtspersonen.
+
+- 3. Op deze goedkeuring kan geen beroep worden gedaan als de publiekrechtelijke rechtspersoon gebruik maakt van de in [artikel 8e, tweede lid, Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8e) opgenomen mogelijkheid om af te zien van de toepassing van de objectvrijstelling(en) van artikel 8e, eerste lid, Wet Vpb.
 
 ### 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met boekjaren die zijn aangevangen op of na 1 januari 2016.
-
-Dit besluit wordt in de Staatscourant gepubliceerd.

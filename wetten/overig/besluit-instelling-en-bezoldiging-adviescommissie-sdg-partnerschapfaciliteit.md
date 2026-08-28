@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 juni 2019, MINBUZA-2019.347107, tot instelling en bezoldiging van de adviescommissie SDG Partnerschapfaciliteit"
+citeertitel: "Besluit instelling en bezoldiging adviescommissie SDG Partnerschapfaciliteit"
 identifier: "BWBR0042406"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-06-24"
-last_updated: "2020-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042406"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15121443"
-version_id: "25924462"
-internal_id: "C36937581"
-label_id: "15069484"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042406/2020-06-24/0"
-intitule_bron: "Stcrt.2019-38694"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-19"
-intitule_published: "2019-07-15"
-intitule_in_force: "2019-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-38694"
-original_signed_date: "2019-06-19"
-original_published_date: "2019-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-38694"
-entry_into_force_date: "2019-07-16"
-jci_1_3: "jci1.3:c:BWBR0042406&z=2020-06-24&g=2020-06-24"
-jci_1_0: "1.0:c:BWBR0042406&g=2020-06-24"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling en bezoldiging adviescommissie SDG Partnerschapfaciliteit"
-signed_date: "2019-06-19"
-entry_into_force: "2019-07-16"
+publicatiedatum: 2019-07-16
+laatste_update: 2020-06-24
+status: geldig
+toestand: 2020-06-24
+bron: "https://wetten.overheid.nl/BWBR0042406"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 juni 2019, MINBUZA-2019.347107, tot instelling en bezoldiging van de adviescommissie SDG Partnerschapfaciliteit
-
-Gelet op [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) en [artikel 10.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=10.2);
-
-Gelet op het [besluit van 11 juni 2018, nr. Minbuza-2018.1211-42, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiering op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma SDG Partnerschapfaciliteit)](https://wetten.overheid.nl/jci1.3:c:BWBR0041018)1Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 27 mei 2018, nummer Min-BuZa.2018.1211-42, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma SDG Partnerschapfaciliteit), Stcrt. 2018, nr. 32302.;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -70,7 +42,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. Voor het tijdvak van 1 april 2019 tot en met 31 maart 2021 worden benoemd tot lid van de Adviescommissie SDGP:
+1. Voor het tijdvak van 1 april 2019 tot en met 31 maart 2021 worden benoemd tot lid van de Adviescommissie SDGP:
 
 - a. De heer Paulus Verschuren te Rijswijk, tevens voorzitter,
 
@@ -80,9 +52,9 @@ Besluit:
 
 - d. De heer Mark Hillen te Amsterdam.
 
-2. Voor het tijdvak van 1 mei 2020 tot en met 31 maart 2021 wordt de heer Albert Boogaard te Utrecht, benoemd tot lid van de Adviescommissie SDGP.
+2. Voor het tijdvak van 1 mei 2020 tot en met 31 maart 2021 wordt de heer Albert Boogaard te Utrecht, benoemd tot lid van de Adviescommissie SDGP.
 
-3. Voor het tijdvak van 1 juni 2020 tot en met 31 maart 2021 wordt mevrouw Marleen Dekker te Oudekerk aan de Amstel, benoemd tot lid van de Adviescommissie SDGP.
+3. Voor het tijdvak van 1 juni 2020 tot en met 31 maart 2021 wordt mevrouw Marleen Dekker te Oudekerk aan de Amstel, benoemd tot lid van de Adviescommissie SDGP.
 
 4. De leden van de adviescommissie zijn te allen tijde herbenoembaar.
 
@@ -100,7 +72,7 @@ Besluit:
 
 2. De adviescommissie stelt haar eigen werkwijze vast.
 
-3. De adviescommissie stelt jaarlijks voor 1 april een verslag op van haar werkzaamheden in het afgelopen kalenderjaar.
+3. De adviescommissie stelt jaarlijks voor 1 april een verslag op van haar werkzaamheden in het afgelopen kalenderjaar.
 
 ##### Artikel 7
 
@@ -110,6 +82,4 @@ Besluit:
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2019.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2019.

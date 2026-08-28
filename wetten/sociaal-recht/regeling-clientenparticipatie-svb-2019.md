@@ -1,43 +1,17 @@
 ---
 title: "Regeling Cliëntenparticipatie SVB 2019"
 identifier: "BWBR0042188"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-05-09"
-last_updated: "2019-05-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042188"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15067363"
-version_id: "25824542"
-internal_id: "C36815201"
-label_id: "15016494"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042188/2019-05-09/0"
-intitule_bron: "Stcrt.2019-25156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-11"
-intitule_published: "2019-05-07"
-intitule_in_force: "2019-05-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-25156"
-original_signed_date: "2019-03-11"
-original_published_date: "2019-05-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-25156"
-entry_into_force_date: "2019-05-09"
-jci_1_3: "jci1.3:c:BWBR0042188&z=2019-05-09&g=2019-05-09"
-jci_1_0: "1.0:c:BWBR0042188&g=2019-05-09"
-citeertitel_status: "officieel"
-signed_date: "2019-03-11"
-entry_into_force: "2019-05-09"
+publicatiedatum: 2019-05-09
+laatste_update: 2019-05-09
+status: geldig
+toestand: 2019-05-09
+bron: "https://wetten.overheid.nl/BWBR0042188"
+opgehaald: 2026-08-28
 ---
+
 # Regeling Cliëntenparticipatie SVB 2019
-
-Gehoord de cliëntenraad ingesteld d.d. 15 februari 2011 en zijn rechtsopvolgers;
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -45,15 +19,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de SVB:** de Sociale verzekeringsbank, bedoeld in [artikel 3, eerste lid, van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3);
+- a. *de SVB:* de Sociale verzekeringsbank, bedoeld in [artikel 3, eerste lid, van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3);
 
-- b. **Raad van bestuur:** het met de dagelijkse leiding van de SVB belaste orgaan, bedoeld in [artikel 6, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
+- b. *Raad van bestuur:* het met de dagelijkse leiding van de SVB belaste orgaan, bedoeld in [artikel 6, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
 
-- c. **klant:** de meerderjarige die als pensioen- of uitkeringsgerechtigde gebruik maakt van de dienstverlening van de SVB;
+- c. *klant:* de meerderjarige die als pensioen- of uitkeringsgerechtigde gebruik maakt van de dienstverlening van de SVB;
 
-- d. **klantenaangelegenheden:** alle onderwerpen die de vorming, de uitvoering, de controle en de evaluatie van de taken van de SVB betreffen daaronder begrepen een beleidsbesluit in de zin van het vierde lid van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), met uitzondering van klachten en bezwaarschriften die betrekking hebben op zaken van individuele klanten, tenzij het gaat om het algemene karakter van de daarbij gehanteerde procedures en regelingen;
+- d. *klantenaangelegenheden:* alle onderwerpen die de vorming, de uitvoering, de controle en de evaluatie van de taken van de SVB betreffen daaronder begrepen een beleidsbesluit in de zin van het vierde lid van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), met uitzondering van klachten en bezwaarschriften die betrekking hebben op zaken van individuele klanten, tenzij het gaat om het algemene karakter van de daarbij gehanteerde procedures en regelingen;
 
-- e. **Klantenadviesraad SVB:** de Klantenadviesraad bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=1&artikel=2&z=2019-05-09&g=2019-05-09).
+- e. *Klantenadviesraad SVB:* de Klantenadviesraad bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=1&artikel=2&z=2019-05-09&g=2019-05-09).
 
 ##### Artikel 2. Instelling cliëntenparticipatie
 
@@ -83,11 +57,11 @@ De Klantenadviesraad SVB bestaat uit een door de Raad van bestuur te benoemen on
 
 6. De Raad van bestuur besluit in samenspraak met de Klantenadviesraad SVB welke andere maatschappelijke organisaties verzocht zal worden een vertegenwoordiger voor te dragen indien:
 
-- a). een in het vorige lid bedoelde voordracht achterwege blijft;
+- a) een in het vorige lid bedoelde voordracht achterwege blijft;
 
-- b). een van de in het tweede tot en met het vierde lid genoemde organisaties niet langer als zelfstandige organisatie bestaat;
+- b) een van de in het tweede tot en met het vierde lid genoemde organisaties niet langer als zelfstandige organisatie bestaat;
 
-- c). een vijfjaarlijkse evaluatie van de vertegenwoordiging door afgevaardigden van de in het tweede tot en met het vierde lid genoemde organisaties aanleiding geeft tot vervanging van een van deze alle organisaties.
+- c) een vijfjaarlijkse evaluatie van de vertegenwoordiging door afgevaardigden van de in het tweede tot en met het vierde lid genoemde organisaties aanleiding geeft tot vervanging van een van deze alle organisaties.
 
 Een en ander met dien verstande, dat alle organisaties tezamen door niet meer dan vijf leden zijn vertegenwoordigd. Het vorige lid is van dienovereenkomstige toepassing op deze andere organisaties.
 
@@ -238,5 +212,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als Regeling Cliëntenparticipatie SVB 2019.
-
-Aldus vastgesteld door de Raad van bestuur van de Sociale verzekeringsbank.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 5 augustus 2019, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van het bureau Schadeclaims Indonesië, het bureau Schadeclaims Duitse Democratische Republiek en de sectie Uitvoering Compensatie Accoord Egypte (1947) 1962–1989 (2006), nummer toegang: 2.05.407, projectnummer: 20150057, bij overbrenging naar het Nationaal Archief (besluit beperking openbaarheid bureau Schadeclaims)"
+citeertitel: "Besluit beperking openbaarheid inventarisnummers archief bureau Schadeclaims Indonesië, bureau Schadeclaims Duitse Democratische Republiek en sectie Uitvoering Compensatie Accoord Egypte (1947) 1962–1989 (2006), bij overbrenging naar Nationaal Archief (besluit beperking openbaarheid bureau Schadeclaims)"
 identifier: "BWBR0042529"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "2019-09-07"
-last_updated: "2019-09-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042529"
+categorie: "Overig"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "15155973"
-version_id: "25986802"
-internal_id: "C37015861"
-label_id: "15103514"
-dtd_version: "2.0"
-original_entry_into_force: "2019-09-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042529/2019-09-07/0"
-intitule_bron: "Stcrt.2019-49047"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-08-05"
-intitule_published: "2019-09-06"
-intitule_in_force: "2019-09-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-49047"
-original_signed_date: "2019-08-05"
-original_published_date: "2019-09-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-49047"
-entry_into_force_date: "2019-09-07"
-jci_1_3: "jci1.3:c:BWBR0042529&z=2019-09-07&g=2019-09-07"
-jci_1_0: "1.0:c:BWBR0042529&g=2019-09-07"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid inventarisnummers archief bureau Schadeclaims Indonesië, bureau Schadeclaims Duitse Democratische Republiek en sectie Uitvoering Compensatie Accoord Egypte (1947) 1962–1989 (2006), bij overbrenging naar Nationaal Archief (besluit beperking openbaarheid bureau Schadeclaims)"
-signed_date: "2019-08-05"
-entry_into_force: "2019-09-07"
+publicatiedatum: 2019-09-07
+laatste_update: 2019-09-07
+status: geldig
+toestand: 2019-09-07
+bron: "https://wetten.overheid.nl/BWBR0042529"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 5 augustus 2019, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van het bureau Schadeclaims Indonesië, het bureau Schadeclaims Duitse Democratische Republiek en de sectie Uitvoering Compensatie Accoord Egypte (1947) 1962–1989 (2006), nummer toegang: 2.05.407, projectnummer: 20150057, bij overbrenging naar het Nationaal Archief (besluit beperking openbaarheid bureau Schadeclaims)
-
-Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemene rijksarchivaris d.d. 25 februari 2019, nr. 909089,
-
-Besluit
 
 ##### Artikel 1
 

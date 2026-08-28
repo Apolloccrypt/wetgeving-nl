@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 maart 2019, houdende instelling van de begeleidingscommissie Tweede evaluatie Wet normering topinkomens (Instellingsbesluit begeleidingscommissie Tweede evaluatie Wet normering topinkomens)"
+citeertitel: "Instellingsbesluit begeleidingscommissie Tweede evaluatie Wet normering topinkomens"
 identifier: "BWBR0042201"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-05-10"
-last_updated: "2019-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042201"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "15070973"
-version_id: "25829712"
-internal_id: "C36820591"
-label_id: "15019924"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042201/2019-05-10/0"
-intitule_bron: "Stcrt.2019-25737"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-20"
-intitule_published: "2019-05-09"
-intitule_in_force: "2019-05-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-25737"
-original_signed_date: "2019-03-20"
-original_published_date: "2019-05-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-25737"
-entry_into_force_date: "2019-05-10"
-jci_1_3: "jci1.3:c:BWBR0042201&z=2019-05-10&g=2019-05-10"
-jci_1_0: "1.0:c:BWBR0042201&g=2019-05-10"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit begeleidingscommissie Tweede evaluatie Wet normering topinkomens"
-signed_date: "2019-03-20"
-entry_into_force: "2019-05-10"
+publicatiedatum: 2019-05-10
+laatste_update: 2019-05-10
+status: geldig
+toestand: 2019-05-10
+bron: "https://wetten.overheid.nl/BWBR0042201"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 maart 2019, houdende instelling van de begeleidingscommissie Tweede evaluatie Wet normering topinkomens (Instellingsbesluit begeleidingscommissie Tweede evaluatie Wet normering topinkomens)
-
-Gelet op [artikel 7.2 van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.2);
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *de Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **de begeleidingscommissie:** de begeleidingscommissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042201&artikel=2&z=2019-05-10&g=2019-05-10).
+- b. *de begeleidingscommissie:* de begeleidingscommissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042201&artikel=2&z=2019-05-10&g=2019-05-10).
 
 ##### Artikel 2. Instelling en taak
 
@@ -117,5 +89,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit begeleidingscommissie Tweede evaluatie Wet normering topinkomens.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

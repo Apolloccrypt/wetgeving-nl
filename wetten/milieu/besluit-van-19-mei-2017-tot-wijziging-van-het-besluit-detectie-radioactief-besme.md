@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0039622"
-opgehaald: 2026-08-27
+opgehaald: 2026-08-28
 ---
 
 # Besluit van 19 mei 2017 tot wijziging van het Besluit detectie radioactief besmet schroot, het Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen, het Besluit kerninstallaties, splijtstoffen en ertsen, het Besluit OM-afdoening, het Besluit registratie, splijtstoffen en ertsen, het Besluit stralingsbescherming, het Besluit van 18 december 2012 tot wijziging van het Besluit stralingsbescherming en enkele andere besluiten in verband met de vereenvoudiging van de wettelijke regels en de vermindering van administratieve lasten voor ondernemingen die met ioniserende straling werken en het herstel van enkele wetstechnische gebreken en leemten, het Besluit vergoedingen Kernenergiewet, het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen, het Geheimhoudingsbesluit Kernenergiewet en het Vrijstellingsbesluit defensie Kernenergiewet in verband met de Wet tot wijziging van de Kernenergiewet in verband met de instelling van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming (Stb. 2016, 180) (Wijzigingsbesluit instelling Autoriteit Nucleaire Veiligheid en Stralingsbescherming)

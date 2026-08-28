@@ -1,57 +1,33 @@
 ---
 title: "Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake de verdeling van de beschikbare CEMT-vergunningen voor het beroepsgoederenvervoer over de weg naar het Verenigd Koninkrijk na de uittreding van dit land uit de Europese Unie op 29 maart 2019 (Beleidsregel NIWO inzake verdeling van CEMT-vergunning in 2019 naar het Verenigd Koninkrijk)"
+citeertitel: "Beleidsregel NIWO inzake verdeling van CEMT-vergunning in 2019 naar het Verenigd Koninkrijk"
 identifier: "BWBR0041836"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-01-26"
-last_updated: "2019-01-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041836"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "14960723"
-version_id: "25622772"
-internal_id: "C36571431"
-label_id: "14911004"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041836/2019-01-26/0"
-intitule_bron: "Stcrt.2019-4163"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-01-25"
-intitule_in_force: "2019-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-4163"
-original_published_date: "2019-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-4163"
-entry_into_force_date: "2019-01-26"
-jci_1_3: "jci1.3:c:BWBR0041836&z=2019-01-26&g=2019-01-26"
-jci_1_0: "1.0:c:BWBR0041836&g=2019-01-26"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel NIWO inzake verdeling van CEMT-vergunning in 2019 naar het Verenigd Koninkrijk"
-entry_into_force: "2019-01-26"
+publicatiedatum: 2019-01-26
+laatste_update: 2019-01-26
+status: geldig
+toestand: 2019-01-26
+bron: "https://wetten.overheid.nl/BWBR0041836"
+opgehaald: 2026-08-28
 ---
+
 # Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake de verdeling van de beschikbare CEMT-vergunningen voor het beroepsgoederenvervoer over de weg naar het Verenigd Koninkrijk na de uittreding van dit land uit de Europese Unie op 29 maart 2019 (Beleidsregel NIWO inzake verdeling van CEMT-vergunning in 2019 naar het Verenigd Koninkrijk)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 2.3 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.3);
-
-Overwegende dat het noodzakelijk is om de uitvoering van de aanvragen voor een CEMT-vergunning nader te duiden in verband met een (mogelijke) no-deal-Brexit per 29 maart 2019;
-
-stelt de volgende beleidsregel vast:
 
 ##### Artikel 1. Definitiebepaling
 
-- **CEMT:** Conférence Européene des Ministres des Transports;
+- *CEMT:* Conférence Européene des Ministres des Transports;
 
-- **CEMT-vergunning:** de vergunning die door het Secretariaat van de Europese Conferentie van Ministers van Verkeer (CEMT) wordt uitgegeven voor het verrichten van grensoverschrijdend goederenvervoer;
+- *CEMT-vergunning:* de vergunning die door het Secretariaat van de Europese Conferentie van Ministers van Verkeer (CEMT) wordt uitgegeven voor het verrichten van grensoverschrijdend goederenvervoer;
 
-- **communautaire vergunning:** communautaire vergunning als bedoeld in de marktverordening voor het wegvervoer; afgegeven aan alle vervoerders die goederenvervoer over de weg voor rekening van derden verrichten;
+- *communautaire vergunning:* communautaire vergunning als bedoeld in de marktverordening voor het wegvervoer; afgegeven aan alle vervoerders die goederenvervoer over de weg voor rekening van derden verrichten;
 
-- **vervoerder:** de natuurlijke persoon, de rechtspersoon, de vennootschap zonder rechtspersoonlijkheid of de maatschap voor wiens rekening en risico het beroepsvervoer wordt verricht als bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1);
+- *vervoerder:* de natuurlijke persoon, de rechtspersoon, de vennootschap zonder rechtspersoonlijkheid of de maatschap voor wiens rekening en risico het beroepsvervoer wordt verricht als bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1);
 
-- **voertuig:** motorvoertuig of een samenstel van voertuigen, dat uitsluitend wordt gebruikt voor het vervoer van goederen als bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1) waarvan de trekkende eenheid in ieder geval Nederlands gekentekend is.
+- *voertuig:* motorvoertuig of een samenstel van voertuigen, dat uitsluitend wordt gebruikt voor het vervoer van goederen als bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1) waarvan de trekkende eenheid in ieder geval Nederlands gekentekend is.
 
-- **wet:** [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800).
+- *wet:*
+ [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800).
 
 ##### Artikel 2
 

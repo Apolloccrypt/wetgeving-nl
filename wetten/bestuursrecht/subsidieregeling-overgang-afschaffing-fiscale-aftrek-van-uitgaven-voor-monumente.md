@@ -1,64 +1,39 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 april 2019 nr. WJZ/6093459, houdende regels voor de verstrekking van subsidie aan rijksmonumenteneigenaren voor de in 2019 gemaakte drukkende onderhoudskosten in het kader van een vóór 2019 aangevangen onderhoudsproject (Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden)"
+citeertitel: "Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden"
 identifier: "BWBR0042179"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-05-07"
-last_updated: "2019-05-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042179"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15065063"
-version_id: "25820862"
-internal_id: "C36811481"
-label_id: "15014054"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042179/2019-05-07/0"
-intitule_bron: "Stcrt.2019-24795"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-25"
-intitule_published: "2019-05-06"
-intitule_in_force: "2019-05-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-24795"
-original_signed_date: "2019-04-25"
-original_published_date: "2019-05-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-24795"
-entry_into_force_date: "2019-05-07"
-jci_1_3: "jci1.3:c:BWBR0042179&z=2019-05-07&g=2019-05-07"
-jci_1_0: "1.0:c:BWBR0042179&g=2019-05-07"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden"
-signed_date: "2019-04-25"
-entry_into_force: "2019-05-07"
+publicatiedatum: 2019-05-07
+laatste_update: 2019-05-07
+status: geldig
+toestand: 2019-05-07
+bron: "https://wetten.overheid.nl/BWBR0042179"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 april 2019 nr. WJZ/6093459, houdende regels voor de verstrekking van subsidie aan rijksmonumenteneigenaren voor de in 2019 gemaakte drukkende onderhoudskosten in het kader van een vóór 2019 aangevangen onderhoudsproject (Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden)
-
-Gelet op [artikel 7.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.1), [artikel 4 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **drukkende onderhoudskosten:** drukkende onderhoudskosten als bedoeld in [artikel 6.31 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), zoals dat luidde op 31 december 2018;
+- *drukkende onderhoudskosten:* drukkende onderhoudskosten als bedoeld in [artikel 6.31 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), zoals dat luidde op 31 december 2018;
 
-- **eigenaar:** natuurlijke persoon:
+- *eigenaar:* natuurlijke persoon:
 
-- a. die in 2019 een rijksmonument als eigen woning als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), zoals dat luidde op 31 december 2018, heeft; of
+   - a. die in 2019 een rijksmonument als eigen woning als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), zoals dat luidde op 31 december 2018, heeft; of
 
-- b. voor wie een rijksmonument in 2019 als bezitting wordt aangemerkt die volgens [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1), zoals dat luidde op 31 december 2018, in de belastingheffing op grond van die wet wordt betrokken en waarvan de waardeveranderingen die persoon direct of indirect grotendeels aangaan;
+   - b. voor wie een rijksmonument in 2019 als bezitting wordt aangemerkt die volgens [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1), zoals dat luidde op 31 december 2018, in de belastingheffing op grond van die wet wordt betrokken en waarvan de waardeveranderingen die persoon direct of indirect grotendeels aangaan;
 
-- **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *Kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **rijksmonument:** rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
+- *rijksmonument:* rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
 
-##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603). [Hoofdstuk 7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7) is niet van toepassing.
 
@@ -74,7 +49,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - a. indien deze zijn gemaakt in het kader van een onderhoudsproject waarvoor vóór 2019 verplichtingen zijn aangegaan; en
 
-- b. indien deze niet voor subsidie in aanmerking komen op grond van het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten, gepubliceerd als [bijlage bij het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten](onbekend).
+- b. indien deze niet voor subsidie in aanmerking komen op grond van het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten, gepubliceerd als [bijlage bij het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten](https://wetten.overheid.nl/BWBR0041915).
 
 3. De subsidie bedraagt 38% van de voor subsidie in aanmerking komende drukkende onderhoudskosten.
 
@@ -115,5 +90,3 @@ De subsidieverstrekking kan worden geweigerd voor zover voor de kosten waarvoor 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

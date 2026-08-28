@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 25 april 2019, nr. Min-Buza.2019.3834-38 houdende instelling van een Expertgroep inzake politieke steun aan interstatelijk geweld en inzake humanitaire interventie"
+citeertitel: "Instellingsbesluit Expertgroep inzake politieke steun aan interstatelijk geweld en inzake humanitaire interventie"
 identifier: "BWBR0042178"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-06-01"
-last_updated: "2019-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042178"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15064843"
-version_id: "25819292"
-internal_id: "C36809911"
-label_id: "15013904"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042178/2019-06-01/0"
-intitule_bron: "Stcrt.2019-24338"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-25"
-intitule_published: "2019-05-03"
-intitule_in_force: "2019-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-24338"
-original_signed_date: "2019-04-25"
-original_published_date: "2019-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-24338"
-entry_into_force_date: "2019-06-01"
-jci_1_3: "jci1.3:c:BWBR0042178&z=2019-06-01&g=2019-06-01"
-jci_1_0: "1.0:c:BWBR0042178&g=2019-06-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Expertgroep inzake politieke steun aan interstatelijk geweld en inzake humanitaire interventie"
-signed_date: "2019-04-25"
-entry_into_force: "2019-06-01"
+publicatiedatum: 2019-06-01
+laatste_update: 2019-06-01
+status: geldig
+toestand: 2019-06-01
+bron: "https://wetten.overheid.nl/BWBR0042178"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 25 april 2019, nr. Min-Buza.2019.3834-38 houdende instelling van een Expertgroep inzake politieke steun aan interstatelijk geweld en inzake humanitaire interventie
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Buitenlandse Zaken;
+- a. *minister:* Minister van Buitenlandse Zaken;
 
-- b. **groep:** Expertgroep bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042178&artikel=2&z=2019-06-01&g=2019-06-01).
+- b. *groep:* Expertgroep bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042178&artikel=2&z=2019-06-01&g=2019-06-01).
 
 ##### Artikel 2. Instelling en taak
 

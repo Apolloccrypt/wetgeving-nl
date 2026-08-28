@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet zorg en dwang voor personen met een psychogeriatrische aandoening of een verstandelijke handicap (Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)"
+citeertitel: "Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten"
 identifier: "BWBR0042266"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042266"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15088183"
-version_id: "26655732"
-internal_id: "C37807781"
-label_id: "15036884"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042266/2025-01-01/0"
-intitule_bron: "Stb.2019-197"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-16"
-intitule_published: "2019-06-05"
-intitule_in_force: "2019-11-29"
-intitule_status: "goed"
-original_publication: "Stb.2020-129"
-original_signed_date: "2020-04-20"
-original_published_date: "2020-04-30"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2020-129"
-entry_into_force_date: "2020-04-20"
-jci_1_3: "jci1.3:c:BWBR0042266&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0042266&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten"
-signed_date: "2020-04-20"
-entry_into_force: "2020-04-20"
+publicatiedatum: 2020-04-20
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0042266"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet zorg en dwang voor personen met een psychogeriatrische aandoening of een verstandelijke handicap (Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 januari 2019, kenmerk 1470088-166828-WJZ;
-
-Gelet op de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=2a), [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=8), [18c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18c), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=21), [54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=54), en [57, vierde lid, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=57);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 februari 2019, no W13.19.0015/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 13 mei 2019, kenmerk 1216583-166828-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepaling
 
@@ -52,23 +20,38 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **ambulante onvrijwillige zorg:** onvrijwillige zorg, anders dan die in een accommodatie aan een cliënt wordt verleend;
+- – *ambulante onvrijwillige zorg:* onvrijwillige zorg, anders dan die in een accommodatie aan een cliënt wordt verleend;
 
-- –. **verwerker:** verwerker als bedoeld in artikel 4 (8) van de Algemene verordening gegevensbescherming;
+- – *verwerker:* verwerker als bedoeld in artikel 4 (8) van de Algemene verordening gegevensbescherming;
 
-- –. **cliëntenvertrouwenspersoon:** cliëntenvertrouwenspersoon als bedoeld in [artikel 57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=57);
+- – *cliëntenvertrouwenspersoon:* cliëntenvertrouwenspersoon als bedoeld in [artikel 57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=57);
 
-- –. **klachtencommissie:** klachtencommissie als bedoeld in [artikel 53 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=53);
+- – *klachtencommissie:* klachtencommissie als bedoeld in [artikel 53 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=53);
 
-- –. **persoonsgegevens:** persoonsgegevens als bedoeld in artikel 4 (1) van de Algemene verordening gegevensbescherming;
+- – *persoonsgegevens:* persoonsgegevens als bedoeld in artikel 4 (1) van de Algemene verordening gegevensbescherming;
 
-- –. **verwerkingsverantwoordelijke:** verwerkingsverantwoordelijke als bedoeld in artikel 4 (7) van de Algemene verordening gegevensbescherming;
+- – *verwerkingsverantwoordelijke:* verwerkingsverantwoordelijke als bedoeld in artikel 4 (7) van de Algemene verordening gegevensbescherming;
 
-- –. **wet:** [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632);
+- – *wet:*
+ [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632);
 
-- –. **zorgplan:** zorgplan als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=7).
+- – *zorgplan:* zorgplan als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=7).
 
 ### Hoofdstuk 1a. Gelijkgestelde ziekten en aandoeningen
+
+##### Artikel 1a.1
+
+1. Met een psychogeriatrische aandoening of een verstandelijke handicap worden gelijkgesteld:
+
+- a. het syndroom van Korsakov, indien dit syndroom bij de cliënt zich uit als een neurocognitieve stoornis met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap;
+
+- b. de ziekte van Huntington, indien deze ziekte bij de cliënt zich uit als een neurocognitieve stoornis met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap; en
+
+- c. niet-aangeboren hersenletsel, indien dit letsel bij de cliënt een neurocognitieve stoornis veroorzaakt met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap.
+
+2. Of sprake is van een syndroom, ziekte of letsel als bedoeld in het eerste lid, blijkt uit een verklaring van een ter zake kundige arts dan wel uit een indicatiebesluit als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
+
+### Hoofdstuk 2. Ambulante onvrijwillige zorg
 
 ##### Artikel 2.1
 
@@ -104,17 +87,17 @@ Ambulante onvrijwillige zorg omvat het:
 
 - d. de zorgaanbieder in het beleidsplan, bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=19), heeft vastgelegd:
 
-- 1°. welke factoren in ieder geval worden meegewogen bij de beoordeling of ambulante onvrijwillige zorg de voorkeur heeft boven opname in een accommodatie, waarbij onder meer rekening wordt gehouden met de wens van de cliënt en de belangen van voor de continuïteit van zorg relevante familie en naasten;
+   - 1° welke factoren in ieder geval worden meegewogen bij de beoordeling of ambulante onvrijwillige zorg de voorkeur heeft boven opname in een accommodatie, waarbij onder meer rekening wordt gehouden met de wens van de cliënt en de belangen van voor de continuïteit van zorg relevante familie en naasten;
 
-- 2°. hoe door middel van toezicht de veiligheid in geval van ambulante onvrijwillige zorg op voldoende wijze kan worden geborgd;
+   - 2° hoe door middel van toezicht de veiligheid in geval van ambulante onvrijwillige zorg op voldoende wijze kan worden geborgd;
 
-- 3°. welke factoren in ieder geval worden meegewogen bij de beoordeling van het aantal zorgverleners dat met het oog op een verantwoorde zorgverlening aanwezig moet zijn op het moment van de daadwerkelijke uitvoering van de ambulante onvrijwillige zorg;
+   - 3° welke factoren in ieder geval worden meegewogen bij de beoordeling van het aantal zorgverleners dat met het oog op een verantwoorde zorgverlening aanwezig moet zijn op het moment van de daadwerkelijke uitvoering van de ambulante onvrijwillige zorg;
 
-- 4°. hoe in geval van ambulante onvrijwillige zorg op verantwoorde wijze wordt omgegaan met fysiek verzet van de cliënt;
+   - 4° hoe in geval van ambulante onvrijwillige zorg op verantwoorde wijze wordt omgegaan met fysiek verzet van de cliënt;
 
-- 5°. op welke wijze de bereikbaarheid en ondersteuning, bedoeld in onderdeel c, worden geborgd;
+   - 5° op welke wijze de bereikbaarheid en ondersteuning, bedoeld in onderdeel c, worden geborgd;
 
-- 6°. op welke wijze in geval van ambulante onvrijwillige zorg wordt toegezien op het voorkomen van grensoverschrijdend gedrag door een zorgverlener.
+   - 6° op welke wijze in geval van ambulante onvrijwillige zorg wordt toegezien op het voorkomen van grensoverschrijdend gedrag door een zorgverlener.
 
 2. In een situatie als bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=15):
 
@@ -122,9 +105,9 @@ Ambulante onvrijwillige zorg omvat het:
 
 - b. wordt uitsluitend ambulante onvrijwillige zorg verleend als de zorgverantwoordelijke in de beslissing, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=15), heeft vastgesteld:
 
-- 1°. op welke wijze toezicht moet worden gehouden op de cliënt om diens veiligheid voldoende te borgen;
+   - 1° op welke wijze toezicht moet worden gehouden op de cliënt om diens veiligheid voldoende te borgen;
 
-- 2°. hoeveel zorgverleners op het moment van de daadwerkelijke uitvoering van de ambulante onvrijwillige zorg aanwezig moeten zijn om een verantwoorde zorgverlening te borgen.
+   - 2° hoeveel zorgverleners op het moment van de daadwerkelijke uitvoering van de ambulante onvrijwillige zorg aanwezig moeten zijn om een verantwoorde zorgverlening te borgen.
 
 ### Hoofdstuk 3. Eisen deskundigen
 
@@ -176,7 +159,7 @@ Ambulante onvrijwillige zorg omvat het:
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze van verstrekken van de in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=17) bedoelde gegevens. Bij ministeriële regeling kan hiertoe tevens een format worden vastgesteld.
 
-### Hoofdstuk 4. Gegevensverwerking
+### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
 
 ##### Artikel 5.1
 
@@ -221,29 +204,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 7.2
 
 Dit besluit wordt aangehaald als: Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a.1
-
-1. Met een psychogeriatrische aandoening of een verstandelijke handicap worden gelijkgesteld:
-
-- a. het syndroom van Korsakov, indien dit syndroom bij de cliënt zich uit als een neurocognitieve stoornis met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap;
-
-- b. de ziekte van Huntington, indien deze ziekte bij de cliënt zich uit als een neurocognitieve stoornis met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap; en
-
-- c. niet-aangeboren hersenletsel, indien dit letsel bij de cliënt een neurocognitieve stoornis veroorzaakt met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap.
-
-2. Of sprake is van een syndroom, ziekte of letsel als bedoeld in het eerste lid, blijkt uit een verklaring van een ter zake kundige arts dan wel uit een indicatiebesluit als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
-
-### Hoofdstuk 2. Ambulante onvrijwillige zorg
-
-### Hoofdstuk 3. Eisen deskundigen
-
-### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
-
-### Hoofdstuk 6. Cliëntenvertrouwenspersoon
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

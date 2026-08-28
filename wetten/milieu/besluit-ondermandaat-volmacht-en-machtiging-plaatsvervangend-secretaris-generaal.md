@@ -1,19 +1,19 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019"
+title: "Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 van 4 februari 2019, nr. WJZ/18313389, voor de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019"
 identifier: "BWBR0041897"
 categorie: "Milieu"
-publicatiedatum: 2025-08-01
-laatste_update: 2026-05-28
+soort: "ministeriele-regeling"
+publicatiedatum: 2019-02-13
+laatste_update: 2025-08-01
 status: vervallen
+vervallen_op: 2026-05-27
+toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0041897"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-28
 ---
 
 # Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 van 4 februari 2019, nr. WJZ/18313389, voor de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019)
-
-Gelet op [artikel 18, derde lid, van het Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776&artikel=18);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -35,7 +35,7 @@ Besluit:
 
 - g. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
 
-- h. het toekennen van schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
+- h. het toekennen van schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
 
 - i. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
@@ -51,10 +51,8 @@ Het [Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-ge
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

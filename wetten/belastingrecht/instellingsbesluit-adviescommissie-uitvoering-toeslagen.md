@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën van 12 juli 2019, (kenmerk 2019-116721), houdende instelling van de Adviescommissie Uitvoering Toeslagen bij de Belastingdienst (Instellingsbesluit Adviescommissie uitvoering Toeslagen)"
+citeertitel: "Instellingsbesluit Adviescommissie uitvoering Toeslagen"
 identifier: "BWBR0042439"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-24"
-last_updated: "2019-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042439"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "15129313"
-version_id: "25942582"
-internal_id: "C36957611"
-label_id: "15077284"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042439/2019-07-24/0"
-intitule_bron: "Stcrt.2019-40595"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-12"
-intitule_published: "2019-07-23"
-intitule_in_force: "2019-07-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-40595"
-original_signed_date: "2019-07-12"
-original_published_date: "2019-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-40595"
-entry_into_force_date: "2019-07-24"
-jci_1_3: "jci1.3:c:BWBR0042439&z=2019-07-24&g=2019-07-24"
-jci_1_0: "1.0:c:BWBR0042439&g=2019-07-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie uitvoering Toeslagen"
-signed_date: "2019-07-12"
-entry_into_force: "2019-07-24"
+publicatiedatum: 2019-07-24
+laatste_update: 2019-07-24
+status: geldig
+toestand: 2019-07-24
+bron: "https://wetten.overheid.nl/BWBR0042439"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Staatssecretaris van Financiën van 12 juli 2019, (kenmerk 2019-116721), houdende instelling van de Adviescommissie Uitvoering Toeslagen bij de Belastingdienst (Instellingsbesluit Adviescommissie uitvoering Toeslagen)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Ministerie:** het Ministerie van Financiën;
+- a. *Ministerie:* het Ministerie van Financiën;
 
-- b. **Staatssecretaris:** de Staatssecretaris van Financiën;
+- b. *Staatssecretaris:* de Staatssecretaris van Financiën;
 
-- c. **commissie:** de adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042439&artikel=2&z=2019-07-24&g=2019-07-24).
+- c. *commissie:* de adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042439&artikel=2&z=2019-07-24&g=2019-07-24).
 
 ##### Artikel 2. Instelling
 
@@ -123,5 +97,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie uitvoering Toeslagen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

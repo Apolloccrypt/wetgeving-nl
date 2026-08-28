@@ -1,60 +1,34 @@
 ---
 title: "Wet van 19 december 2018 tot wijziging van de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 in verband met de implementatie van Richtlijn (EU) 2016/1164 van de Raad van 12 juli 2016 tot vaststelling van regels ter bestrijding van belastingontwijkingspraktijken welke rechtstreeks van invloed zijn op de werking van de interne markt (PbEU 2016, L 234/26) (Wet implementatie eerste EU-richtlijn antibelastingontwijking)"
+citeertitel: "Wet implementatie eerste EU-richtlijn antibelastingontwijking"
 identifier: "BWBR0041756"
-country: "nl"
-rank: "wet"
-publication_date: "2019-11-06"
-last_updated: "2019-11-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041756"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "14928133"
-version_id: "25553582"
-internal_id: "C36477811"
-label_id: "14879124"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041756/2019-11-06/0"
-intitule_bron: "Stb.2018-508"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-19"
-intitule_published: "2018-12-28"
-intitule_in_force: "2018-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2018-508"
-original_signed_date: "2018-12-19"
-original_published_date: "2018-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "35030"
-original_url_id: "stb-2018-508"
-entry_into_force_date: "2019-01-01"
-entry_into_force_dossier: "35030"
-jci_1_3: "jci1.3:c:BWBR0041756&z=2019-11-06&g=2019-11-06"
-jci_1_0: "1.0:c:BWBR0041756&g=2019-11-06"
-citeertitel_status: "officieel"
-short_title: "Wet implementatie eerste EU-richtlijn antibelastingontwijking"
-signed_date: "2018-12-19"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-11-06
+status: geldig
+toestand: 2019-11-06
+bron: "https://wetten.overheid.nl/BWBR0041756"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 19 december 2018 tot wijziging van de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 in verband met de implementatie van Richtlijn (EU) 2016/1164 van de Raad van 12 juli 2016 tot vaststelling van regels ter bestrijding van belastingontwijkingspraktijken welke rechtstreeks van invloed zijn op de werking van de interne markt (PbEU 2016, L 234/26) (Wet implementatie eerste EU-richtlijn antibelastingontwijking)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) en de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) aan te passen overeenkomstig Richtlijn (EU) 2016/1164 van de Raad van 12 juli 2016 tot vaststelling van regels ter bestrijding van belastingontwijkingspraktijken welke rechtstreeks van invloed zijn op de werking van de interne markt (PbEU 2016, L 234/26);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel II
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel IIa
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de toepassing van [artikel 15b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b):
+
+- a. worden onder het saldo aan renten niet begrepen rentelasten en rentebaten ter zake van geldleningen die verband houden met de financiering van bij ministeriële regeling aan te wijzen op 25 oktober 2018 bestaande langlopende openbare-infrastructuurprojecten waarbij op basis van een geïntegreerd contract voor het ontwerp, de bouw, de financiering, het onderhoud of de exploitatie de overheid een periodieke vergoeding voor de beschikbaarheid is verschuldigd; en
+
+- b. worden de voordelen uit de projecten, bedoeld in onderdeel a, niet in aanmerking genomen bij de bepaling van de gecorrigeerde winst.
 
 ##### Artikel III
 
@@ -69,5 +43,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IV
 
 Deze wet wordt aangehaald als: Wet implementatie eerste EU-richtlijn antibelastingontwijking.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

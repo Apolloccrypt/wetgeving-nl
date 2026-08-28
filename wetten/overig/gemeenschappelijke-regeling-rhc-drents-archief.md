@@ -1,61 +1,33 @@
 ---
 title: "Gemeenschappelijke regeling RHC Drents Archief"
 identifier: "BWBR0042017"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042017"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15029333"
-version_id: "25750152"
-internal_id: "C36724011"
-label_id: "14979284"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042017/2016-07-01/0"
-intitule_bron: "Stcrt.2016-32212"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-02-26"
-intitule_published: "2016-06-23"
-intitule_in_force: "2016-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-32212"
-original_signed_date: "2016-02-26"
-original_published_date: "2016-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-32212"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBR0042017&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0042017&g=2016-07-01"
-citeertitel_status: "officieel"
-signed_date: "2016-02-26"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0042017"
+opgehaald: 2026-08-28
 ---
+
 # Gemeenschappelijke regeling RHC Drents Archief
-
-Gelet op [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I) en [IX van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX);
-
-Besluiten:
-
-tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de rijksarchiefbewaarplaats in de provincie Drenthe en de archiefbewaarplaats van de gemeente Assen.
 
 ##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de gemeente:** de gemeente Assen;
+- b. *de gemeente:* de gemeente Assen;
 
-- c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeente voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente;
+- d. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeente voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente;
 
-- e. **college:** het college van burgemeester en wethouders van de gemeente, en
+- e. *college:* het college van burgemeester en wethouders van de gemeente, en
 
-- f. **provincie:** de provincie Drenthe.
+- f. *provincie:* de provincie Drenthe.
 
 ##### Artikel 2
 
@@ -221,7 +193,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ##### Artikel 16
 
-1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de gemeente, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting. Bij de aanvang van het RHC Drents Archief luiden de bijdragen zoals vastgesteld in de bijlage bij deze regeling.
+1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de gemeente, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting. Bij de aanvang van het RHC Drents Archief luiden de bijdragen zoals vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBR0042017) bij deze regeling.
 
 2. De Minister en het college dragen er zorg voor dat het openbaar lichaam te allen tijde beschikt over voldoende middelen om zijn verplichtingen te voldoen. Dit met inachtneming van het zevende lid.
 
@@ -394,49 +366,3 @@ Deze regeling wordt aangehaald als: Gemeenschappelijke regeling RHC Drents Archi
 1. De gemeenschappelijke regeling ‘[Regeling RHC Drents Archief](https://wetten.overheid.nl/jci1.3:c:BWBR0018068)’, gepubliceerd als bijlage bij het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 2 maart 2005, nr. DCE/05/2011 (Stcrt. 2005, 175), wordt ingetrokken.
 
 2. De rechten en verplichtingen van het RHC Drents Archief zoals die bestonden op het moment vóór de inwerkingtreding van deze regeling blijven in stand na de inwerkingtreding van deze regeling.
-
-## Bijlage
-
-### Financiële bijlage bij de Regeling RHC Drents Archief
-
-### Algemeen
-
-In deze bijlage zijn de afspraken rond de structurele en incidentele bijdragen van partners aan het RHC Drents Archief nader gespecificeerd ([art. 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042017&artikel=16&z=2016-07-01&g=2016-07-01)).
-
-Er is afgesproken dat de beschikbare exploitatiebudgetten van de afzonderlijke instellingen waaruit het RHC Drents Archief ontstaat, zullen worden samengevoegd. Uit deze exploitatiebudgetten zullen de exploitatiekosten worden bestreden van het RHC Drents Archief, waarbij de behaalde efficiencyvoordelen zullen worden aangewend voor nieuw beleid ten behoeve van de publieksfunctie.
-
-### Structurele bijdragen
-
-De jaarlijkse structurele bijdragen van de partners zijn, inclusief huurlasten als volgt:
-
-De bijdragen van het Rijk en de gemeente Assen kunnen jaarlijks worden aangepast met een nog nader vast te stellen percentage voor loon- en prijscompensatie, conform de methodiek vermeld in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042017&artikel=16&z=2016-07-01&g=2016-07-01) van deze regeling.
-
-### Huisvesting
-
-### Aanvang van de bijdragen
-
-De bijdragen van de partners vangen aan op het moment dat de Regeling RHC Drents Archief in werking treedt. Als dit niet samenvalt met het begin van een kalenderjaar zal de bijdrage naar evenredigheid worden toegerekend met ingang van de eerste dag van de maand, waarin de regeling in werking treedt. De partners zullen er voor zorgdragen dat de bovengenoemde bijdragen in hun respectievelijke begrotingen worden opgenomen.
-
-### Incidentele bijdragen
-
-Het Rijk (DCE / RAD) stelt in de periode 2005 tot en met 2008 voor de uitvoer van een behoudsplan conservering projectgelden beschikbaar, zijnde € 23.000,– per jaar.
-
-Daarnaast brengt het fusieproces eenmalige extra kosten met zich mee, die door de fusiepartners gefinancierd worden. Het betreft:
-
-De financiering is als volgt:
-
-Met betrekking tot de geconstateerde achterstanden in de collectie van het gemeentearchief Assen geldt het volgende:
-
-Met betrekking tot de inspectietaak geldt het volgende:
-
-### Inbreng van vermogensbestanddelen
-
-Door de partners worden de volgende vermogensbestanddelen ingebracht:
-
-Door het Rijk:
-
-Door de gemeente Assen:
-
-### BTW aspecten
-
-Het RHC Drents Archief neemt contact op met de belastinginspecteur ter verkrijging van een nieuwe BTW beschikking voor het hele instituut. Over de inhoud van die beschikking en de mogelijke consequenties voor de begroting is nog geen 100% zekerheid.

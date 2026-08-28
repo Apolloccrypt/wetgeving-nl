@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 27 maart 2019, nr. PO/5330988, houdende regels voor de subsidieverstrekking voor de vervolgpilot tweetalig primair onderwijs (Subsidieregeling vervolgpilot tweetalig primair onderwijs)"
+citeertitel: "Subsidieregeling vervolgpilot tweetalig primair onderwijs"
 identifier: "BWBR0042247"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-05-29"
-last_updated: "2019-05-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042247"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15081803"
-version_id: "25849602"
-internal_id: "C36846961"
-label_id: "15030424"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042247/2019-05-29/0"
-intitule_bron: "Stcrt.2019-29381"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-27"
-intitule_published: "2019-05-28"
-intitule_in_force: "2019-05-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-29381"
-original_signed_date: "2019-03-27"
-original_published_date: "2019-05-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-29381"
-entry_into_force_date: "2019-05-29"
-jci_1_3: "jci1.3:c:BWBR0042247&z=2019-05-29&g=2019-05-29"
-jci_1_0: "1.0:c:BWBR0042247&g=2019-05-29"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling vervolgpilot tweetalig primair onderwijs"
-signed_date: "2019-03-27"
-entry_into_force: "2019-05-29"
+publicatiedatum: 2019-05-29
+laatste_update: 2019-05-29
+status: geldig
+toestand: 2019-05-29
+bron: "https://wetten.overheid.nl/BWBR0042247"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 27 maart 2019, nr. PO/5330988, houdende regels voor de subsidieverstrekking voor de vervolgpilot tweetalig primair onderwijs (Subsidieregeling vervolgpilot tweetalig primair onderwijs)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- *minister:* Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **school:** basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) die heeft meegedaan aan de pilot tweetalig primair onderwijs;
+- *school:* basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) die heeft meegedaan aan de pilot tweetalig primair onderwijs;
 
-- **pilot tweetalig primair onderwijs:** experiment waarbij op 19 scholen in de periode van 1 augustus 2014 tot en met 31 juli 2019 dan wel 1 augustus 2015 tot en met 31 juli 2019 dertig tot vijftig procent van de onderwijstijd in het Engels of Frans of Duits is gegeven, met een sterke internationale oriëntatie;
+- *pilot tweetalig primair onderwijs:* experiment waarbij op 19 scholen in de periode van 1 augustus 2014 tot en met 31 juli 2019 dan wel 1 augustus 2015 tot en met 31 juli 2019 dertig tot vijftig procent van de onderwijstijd in het Engels of Frans of Duits is gegeven, met een sterke internationale oriëntatie;
 
-- **vervolgpilot tweetalig primair onderwijs:** experiment waarbij op maximaal 19 scholen in de periode van 1 augustus 2019 tot en met 31 juli 2023 dertig tot vijftig procent van de onderwijstijd in het Engels of Frans of Duits wordt gegeven, met een sterke internationale oriëntatie.
+- *vervolgpilot tweetalig primair onderwijs:* experiment waarbij op maximaal 19 scholen in de periode van 1 augustus 2019 tot en met 31 juli 2023 dertig tot vijftig procent van de onderwijstijd in het Engels of Frans of Duits wordt gegeven, met een sterke internationale oriëntatie.
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -115,5 +89,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling vervolgpilot tweetalig primair onderwijs.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

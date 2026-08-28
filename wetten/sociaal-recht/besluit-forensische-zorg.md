@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 6 juni 2019, houdende vaststelling van het Besluit forensische zorg en daarmee verband houdende wijzigingen van enige andere regelingen (Besluit forensische zorg)"
+citeertitel: "Besluit forensische zorg"
 identifier: "BWBR0042326"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042326"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15106903"
-version_id: "25893492"
-internal_id: "C36901011"
-label_id: "15055754"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042326/2022-01-01/0"
-intitule_bron: "Stb.2019-230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-06"
-intitule_published: "2019-06-25"
-intitule_in_force: "2019-06-25"
-intitule_status: "goed"
-original_publication: "Stb.2019-230"
-original_signed_date: "2019-06-06"
-original_published_date: "2019-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-230"
-entry_into_force_date: "2019-06-26"
-jci_1_3: "jci1.3:c:BWBR0042326&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0042326&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit forensische zorg"
-signed_date: "2019-06-06"
-entry_into_force: "2019-06-26"
+publicatiedatum: 2019-06-26
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0042326"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 6 juni 2019, houdende vaststelling van het Besluit forensische zorg en daarmee verband houdende wijzigingen van enige andere regelingen (Besluit forensische zorg)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 27 november 2018, directie Wetgeving en Juridische Zaken, nr. 2429045, gedaan mede namens onze Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Gelet op de [artikelen 1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.6), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.7), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.5), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=4.2), [5.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=5.3), [6.10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.10a) en [artikel 6.11 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11), de [artikelen19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=19), en [37, eerste lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=37), de [artikelen 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15), [43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=43), en [59 van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=59), [artikel 42, vijfde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=42) en [artikel 2, eerste en tweede lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=2);
-
-De Afdeling advisering van de Raad van State gehoord, advies van 21 februari 2019, nr. W16.18.0372/II;
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 3 juni 2019, directie Wetgeving en Juridische Zaken, nr. 2576010, uitgebracht mede namens Onze Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,23 +20,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- –. **de regeling:** de Regeling forensische zorg;
+- – *de regeling:* de Regeling forensische zorg;
 
-- –. **de wet:** de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
+- – *de wet:* de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
 
-- –. **delictanalyse:** een door een zorgverlener op te stellen feitelijke beschrijving van de factoren die van invloed zijn geweest op en hebben geleid tot het delict door een forensisch patiënt;
+- – *delictanalyse:* een door een zorgverlener op te stellen feitelijke beschrijving van de factoren die van invloed zijn geweest op en hebben geleid tot het delict door een forensisch patiënt;
 
-- –. **Onze Minister:** de Minister voor Rechtsbescherming;
+- – *Onze Minister:* de Minister voor Rechtsbescherming;
 
-- –. **organisatorische eenheid:** een in bouwkundig opzicht herkenbare eenheid van een instelling;
+- – *organisatorische eenheid:* een in bouwkundig opzicht herkenbare eenheid van een instelling;
 
-- –. **persoonsgegevens:** persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van de Algemene verordening gegevensbescherming;
+- – *persoonsgegevens:* persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van de Algemene verordening gegevensbescherming;
 
-- –. **risicotaxatie:** inschatting van het risico op recidive op basis van een hiertoe geëigend risicotaxatie-instrument;
+- – *risicotaxatie:* inschatting van het risico op recidive op basis van een hiertoe geëigend risicotaxatie-instrument;
 
-- –. **verwerker:** verwerker als bedoeld in artikel 4, onderdeel 8, van de Algemene verordening gegevensbescherming;
+- – *verwerker:* verwerker als bedoeld in artikel 4, onderdeel 8, van de Algemene verordening gegevensbescherming;
 
-- –. **verwerkingsverantwoordelijke:** verwerkingsverantwoordelijke als bedoeld in artikel 4, onderdeel 7 van de Algemene verordening gegevensbescherming.
+- – *verwerkingsverantwoordelijke:* verwerkingsverantwoordelijke als bedoeld in artikel 4, onderdeel 7 van de Algemene verordening gegevensbescherming.
 
 ##### Artikel 1.2
 
@@ -134,15 +102,15 @@ Indien het strafrechtsketennummer van de forensische patiënt ontbreekt, geldt b
 
 - c. de medewerking van de forensische patiënt aan de verlening van de forensische zorg, met inbegrip van:
 
-- –. de naleving van behandelafspraken;
+   - – de naleving van behandelafspraken;
 
-- –. het weigeren van voorgeschreven medicatie tegen het advies van de behandelaar in, voor zo ver dit van invloed is op het recidiverisico;
+   - – het weigeren van voorgeschreven medicatie tegen het advies van de behandelaar in, voor zo ver dit van invloed is op het recidiverisico;
 
-- –. de mate van motivatie voor behandeling;
+   - – de mate van motivatie voor behandeling;
 
-- –. de (ophanden zijnde) beëindiging van de behandeling en
+   - – de (ophanden zijnde) beëindiging van de behandeling en
 
-- –. omstandigheden die een signaal vormen voor verhoogd risico op recidive.
+   - – omstandigheden die een signaal vormen voor verhoogd risico op recidive.
 
 2. De zorgaanbieder en de reclasseringsinstelling spreken elkaar periodiek over de behandeltrouw van de forensische patiënt, de begeleiding en het toezicht, voor zover dat noodzakelijk is voor de uitoefening van de taken van deze partijen.
 
@@ -388,9 +356,9 @@ Bij ministeriële regeling worden nadere regels gesteld over de eisen omtrent he
 
 - b. verblijf in een instelling voor forensische zorg, waarbij deze bevoegdheid in geval sprake is van verblijf in een instelling voor beschermd wonen enkel geldt ten aanzien van:
 
-- 1°. verblijf dat volgt op een verblijf in een instelling voor forensische zorg of een verblijf in een inrichting of op een afdeling als bedoeld in [artikel 14, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=14);
+   - 1°. verblijf dat volgt op een verblijf in een instelling voor forensische zorg of een verblijf in een inrichting of op een afdeling als bedoeld in [artikel 14, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=14);
 
-- 2°. verblijf van gedetineerden, die veroordeeld zijn wegens een ernstig gewelds- of zedenmisdrijf.
+   - 2°. verblijf van gedetineerden, die veroordeeld zijn wegens een ernstig gewelds- of zedenmisdrijf.
 
 3. Het Psycho Medisch Overleg is bevoegd indien het forensische zorg betreft waarbij sprake is van:
 
@@ -516,9 +484,9 @@ De genoemde elementen in [artikel 2 van het Besluit verplichte meldcode huiselij
 
 ##### Artikel 6.6
 
-1. Indien de zorgaanbieder niet voldoet aan de verplichting tot opneming en verlening van de geïndiceerde forensische zorg en beveiliging, bedoeld in [artikel 6.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.1), kan Onze Minister bij een eerste overtreding een bestuurlijke boete van ten hoogste € 12.500 opleggen.
+1. Indien de zorgaanbieder niet voldoet aan de verplichting tot opneming en verlening van de geïndiceerde forensische zorg en beveiliging, bedoeld in [artikel 6.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.1), kan Onze Minister bij een eerste overtreding een bestuurlijke boete van ten hoogste € 12.500 opleggen.
 
-2. Bij een tweede overtreding binnen een periode van vijf jaar kan Onze Minister een bestuurlijke boete van ten hoogste € 25.000 opleggen.
+2. Bij een tweede overtreding binnen een periode van vijf jaar kan Onze Minister een bestuurlijke boete van ten hoogste € 25.000 opleggen.
 
 3. Alvorens de boete bedoeld in het eerste en tweede lid, wordt opgelegd, wordt de zorgaanbieder:
 
@@ -538,39 +506,39 @@ Bij ministeriële regeling worden nadere regels gesteld ten aanzien van de plaat
 
 ##### Artikel 7.1
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
+*Wijzigt het Besluit justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel 7.2
 
-Wijzigt de Penitentiaire maatregel.
+*Wijzigt de Penitentiaire maatregel.*
 
 ##### Artikel 7.3
 
-Wijzigt de Reclasseringsregeling 1995.
+*Wijzigt de Reclasseringsregeling 1995.*
 
 ##### Artikel 7.4
 
-Wijzigt het Reglement verpleging ter beschikking gestelden.
+*Wijzigt het Reglement verpleging ter beschikking gestelden.*
 
 #### Paragraaf 2. Sociale Zaken en Werkgelegenheid
 
 ##### Artikel 7.5
 
-Wijzigt het Besluit Wfsv.
+*Wijzigt het Besluit Wfsv.*
 
 #### Paragraaf 3. Volksgezondheid, Welzijn en Sport
 
 ##### Artikel 7.6
 
-Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
+*Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.*
 
 ##### Artikel 7.7
 
-Wijzigt het Besluit zorgverzekering.
+*Wijzigt het Besluit zorgverzekering.*
 
 ##### Artikel 7.8
 
-Wijzigt het Uitvoeringsbesluit WTZi.
+*Wijzigt het Uitvoeringsbesluit WTZi.*
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -581,5 +549,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8.2
 
 Dit besluit wordt aangehaald als: Besluit forensische zorg.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

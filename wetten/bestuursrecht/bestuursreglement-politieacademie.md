@@ -1,35 +1,16 @@
 ---
 title: "Bestuursreglement Politieacademie"
 identifier: "BWBR0041682"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-12-06"
-last_updated: "2018-12-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041682"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "14905083"
-version_id: "25502372"
-internal_id: "C36408851"
-label_id: "14856604"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041682/2018-12-06/0"
-intitule_bron: "Stcrt.2018-66210"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-12-05"
-intitule_in_force: "2018-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-66210"
-original_published_date: "2018-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-66210"
-entry_into_force_date: "2018-12-06"
-jci_1_3: "jci1.3:c:BWBR0041682&z=2018-12-06&g=2018-12-06"
-jci_1_0: "1.0:c:BWBR0041682&g=2018-12-06"
-citeertitel_status: "officieel"
-entry_into_force: "2018-12-06"
+publicatiedatum: 2018-12-06
+laatste_update: 2018-12-06
+status: geldig
+toestand: 2018-12-06
+bron: "https://wetten.overheid.nl/BWBR0041682"
+opgehaald: 2026-08-28
 ---
+
 # Bestuursreglement Politieacademie
 
 Dit bestuursreglement is het bestuursreglement van de Politieacademie in de zin van [artikel 98, eerste lid van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=98).
@@ -108,41 +89,41 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 De directeur, de Korpschef en de Minister van Justitie en Veiligheid voeren ten minste viermaal per jaar overleg onder meer over:
 
-- •. het pakket van Politieonderwijs en de ontwikkelingen daarbinnen;
+- • het pakket van Politieonderwijs en de ontwikkelingen daarbinnen;
 
-- •. de ontwikkelingen binnen de Politie en de rol van onderwijs en onderzoek daarbij;
+- • de ontwikkelingen binnen de Politie en de rol van onderwijs en onderzoek daarbij;
 
-- •. de kwaliteit van uitvoering van het Politieonderwijs;
+- • de kwaliteit van uitvoering van het Politieonderwijs;
 
-- •. de uitvoering van de Strategische Onderzoeksagenda;
+- • de uitvoering van de Strategische Onderzoeksagenda;
 
-- •. de meerjarige en jaarlijkse onderwijsbehoefte van het Korps en van derden-afnemers;
+- • de meerjarige en jaarlijkse onderwijsbehoefte van het Korps en van derden-afnemers;
 
-- •. de daarop gebaseerde behoefte aan mensen en middelen van de Politieacademie.
+- • de daarop gebaseerde behoefte aan mensen en middelen van de Politieacademie.
 
 ##### Artikel 8. Overleg Korpsleiding – Politiechefs – Directeuren Korpsstaven
 
 De directeur onderhoudt het contact en voert periodiek overleg met:
 
-- •. de Korpsleiding;
+- • de Korpsleiding;
 
-- •. de regionale Politiechefs, ook in hun hoedanigheid van landelijke portefeuillehouders;
+- • de regionale Politiechefs, ook in hun hoedanigheid van landelijke portefeuillehouders;
 
-- •. de directeuren van de landelijke Korpsstaven;
+- • de directeuren van de landelijke Korpsstaven;
 
-- •. onder meer over:
+- • onder meer over:
 
-- •. de kwalitatieve en kwantitatieve opleidingsbehoefte van het Korps;
+- • de kwalitatieve en kwantitatieve opleidingsbehoefte van het Korps;
 
-- •. de behoefte van de Politieacademie aan de mensen en middelen die de Korpsleiding aan de Politieacademie dient te verschaffen om haar in staat te stellen om haar taken uit te voeren;
+- • de behoefte van de Politieacademie aan de mensen en middelen die de Korpsleiding aan de Politieacademie dient te verschaffen om haar in staat te stellen om haar taken uit te voeren;
 
-- •. en in de opleidingsbehoefte van het Korps te voorzien;
+- • en in de opleidingsbehoefte van het Korps te voorzien;
 
-- •. de samenwerking met de Politie bij het werkend leren;
+- • de samenwerking met de Politie bij het werkend leren;
 
-- •. het onderlinge samenspel tussen Korps en de Politieacademie.
+- • het onderlinge samenspel tussen Korps en de Politieacademie.
 
-- •. De directeur en zijn plaatsvervanger voeren de overleggen in dit verband in de regel gezamenlijk.
+- • De directeur en zijn plaatsvervanger voeren de overleggen in dit verband in de regel gezamenlijk.
 
 ##### Artikel 9. Politieonderwijsraad
 
@@ -158,11 +139,11 @@ De directeur en zijn plaatsvervanger hebben beiden als lid zitting in de Politie
 
 De directeur onderhoudt namens de Politieacademie de strategische samenwerkingsrelaties ten behoeve van gezamenlijke onderwijs- en kennisontwikkeling en -uitvoering, met name met:
 
-- •. andere onderwijs- en kennisinstellingen in het veiligheidsdomein;
+- • andere onderwijs- en kennisinstellingen in het veiligheidsdomein;
 
-- •. reguliere onderwijsinstellingen (ROC’s, Hogescholen en Universiteiten) en hun landelijke koepelorganisaties;
+- • reguliere onderwijsinstellingen (ROC’s, Hogescholen en Universiteiten) en hun landelijke koepelorganisaties;
 
-- •. buitenlandse collega instellingen voor Politieonderwijs en -onderzoek.
+- • buitenlandse collega instellingen voor Politieonderwijs en -onderzoek.
 
 Hij gaat waar nodig samenwerkingsovereenkomsten met deze instellingen aan. De directeur van de Politieacademie neemt bij het aangaan van samenwerkingsovereenkomsten de daartoe in de [Kaderwet ZBO’s](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) en de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) gestelde voorwaarden in acht.
 
@@ -264,13 +245,13 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 De Politieacademie is onderverdeeld in de volgende sectoren:
 
-- •. Basis Politie Onderwijs (BPO);
+- • Basis Politie Onderwijs (BPO);
 
-- •. Vakspecialistisch Politie Onderwijs (VPO);
+- • Vakspecialistisch Politie Onderwijs (VPO);
 
-- •. Kennis & Onderzoek (K&O);
+- • Kennis & Onderzoek (K&O);
 
-- •. Staf.
+- • Staf.
 
 ##### Artikel 19. Sectorhoofden
 
@@ -336,23 +317,23 @@ Elke sector is onderverdeeld in teams. Het door de directeur vastgestelde inrich
 
 De teamchefs hebben de volgende algemene verantwoordelijkheden:
 
-- •. zij zijn resultaatsverantwoordelijk voor de kwaliteit van de taakuitvoering, waaronder de uitvoering van het onderwijs en de uitvoering van het onderzoeksprogramma;
+- • zij zijn resultaatsverantwoordelijk voor de kwaliteit van de taakuitvoering, waaronder de uitvoering van het onderwijs en de uitvoering van het onderzoeksprogramma;
 
-- •. zij zijn verantwoordelijk voor de ontwikkeling van nieuw onderwijs volgens de gestelde behoefte van het Korps;
+- • zij zijn verantwoordelijk voor de ontwikkeling van nieuw onderwijs volgens de gestelde behoefte van het Korps;
 
-- •. zij werken samen met andere onderzoeks- en kennisinstituten bij de taakuitvoering;
+- • zij werken samen met andere onderzoeks- en kennisinstituten bij de taakuitvoering;
 
-- •. zij werken samen met de eenheden en de landelijke portefeuillehouders bij de taakuitvoering;
+- • zij werken samen met de eenheden en de landelijke portefeuillehouders bij de taakuitvoering;
 
-- •. zij meten de kwaliteit van de taakuitvoering en leggen daarover verantwoording af;
+- • zij meten de kwaliteit van de taakuitvoering en leggen daarover verantwoording af;
 
-- •. zij sturen de medewerkers van het team aan en dragen zorg voor hen;
+- • zij sturen de medewerkers van het team aan en dragen zorg voor hen;
 
-- •. zij dragen zorg voor de samenwerking van het team met andere teams en sectoren;
+- • zij dragen zorg voor de samenwerking van het team met andere teams en sectoren;
 
-- •. zij dragen bij aan de ontwikkeling en innovatie van het politievak;
+- • zij dragen bij aan de ontwikkeling en innovatie van het politievak;
 
-- •. zij dragen zorg voor de overdracht van kennis naar het politieonderwijs en de politiepraktijk.
+- • zij dragen zorg voor de overdracht van kennis naar het politieonderwijs en de politiepraktijk.
 
 ##### Artikel 26. Bevoegdheden sectorhoofden en teamchefs ten aanzien van personeel en beheer
 

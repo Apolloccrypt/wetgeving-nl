@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering mobiel banditisme"
 identifier: "BWBR0042162"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-05-01"
-last_updated: "2019-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042162"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "15061353"
-version_id: "25812372"
-internal_id: "C36801271"
-label_id: "15010364"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042162/2019-05-01/0"
-intitule_bron: "Stcrt.2019-21933"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-04-30"
-intitule_in_force: "2019-04-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-21933"
-original_published_date: "2019-04-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-21933"
-entry_into_force_date: "2019-05-01"
-jci_1_3: "jci1.3:c:BWBR0042162&z=2019-05-01&g=2019-05-01"
-jci_1_0: "1.0:c:BWBR0042162&g=2019-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-05-01"
+publicatiedatum: 2019-05-01
+laatste_update: 2019-05-01
+status: geldig
+toestand: 2019-05-01
+bron: "https://wetten.overheid.nl/BWBR0042162"
+opgehaald: 2026-08-28
 ---
+
 # Richtlijn voor strafvordering mobiel banditisme
 
 ### Beschrijving
@@ -46,13 +27,82 @@ Indien hiernaast ook een of meerdere indicatoren als genoemd onder 6 t/m 10 van 
 
 ### Indicatoren
 
+- 1. betreft vermogens-, fraude- of oplichtingsdelicten;
+
+- 2. betreft verhandelbare (lang houdbare) goederen die redelijkerwijs niet bestemd zijn voor eigen gebruik;
+
+- 3. verdachte heeft geen aantoonbare vaste of duurzame woon- of verblijfplaats in Nederland;
+
+- 4. betreft meerdere vermogens-, fraude- of oplichtingsdelicten in een relatief korte periode en/ of een relatief grote hoeveelheid goederen;
+
+- 5. aanwezigheid van (internationale) justitiële en/of politiële informatie die direct dan wel indirect wijzen op plegen van vermogens-, fraude- of oplichtingsdelicten;
+
+- 6. feit(en) gepleegd tussen twee of meer personen of in een organisatie;
+
+- 7. professionele/ geraffineerde uitvoering: duidelijke rolverdeling, gebruik (specifieke) voorwerpen, babbeltruc, inzet minderjarigen
+
+- 8. geen beschikking over sociaal vangnet in Nederland;
+
+- 9. geen (legale) bron van inkomsten of beschikking over financiële middelen om verblijf in Nederland te bekostigen;
+
+- 10. ongeloofwaardig of onaannemelijk verhaal over inreis en/ of reden verblijf in Nederland.
+
 Ad 1) hierbij dient gedacht te worden aan: winkel- en ladingdiefstal, diefstallen uit woningen en bedrijven, diefstallen van en uit auto’s, zakkenrollerij, heling, oplichting en fraudedelicten (o.a. skimming, valsheid in geschrifte). Laatstgenoemde fraudedelicten worden doorgaans gepleegd om vermogensdelicten te maskeren en te faciliteren.
 
 Hoewel er diverse buitenlandse groepen/ organisaties zijn die zich in Nederland (veelal specifiek) bezighouden met het drugscriminaliteit of mensenhandel, vallen deze groepen en feiten buiten de definitie van mobiel banditisme.
 
 Ad 6) In de meeste gevallen kan worden bewezen dat de strafbare feiten in vereniging of door een criminele organisatie (ex [artikel 140 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140)) zijn gepleegd. De aanwezigheid van een bewuste en nauwe samenwerking is echter niet in alle gevallen vereist om de kwalificatie mobiel banditisme voldoende aannemelijk te maken.
 
+| Aantal feiten in korte tijd1 | First offender | Recidive (inclusief internationaal) |
+| --- | --- | --- |
+| 1 | GS1 maand ov | GS 2 maanden ov |
+| 2 | GS 3 maanden ov | GS 4 maanden ov |
+| 3 | GS 4 maanden ov | GS 5 maanden ov |
+| 4 | GS 5 maanden ov | GS 6 maanden ov |
+| etc | GS 1 maand extra per feit | GS 1 maand extra per feit |
+
 1 maatwerk indien de waarde van de goederen zeer hoog is
+
+| First offender | Recidive (inclusief internationaal) |
+| --- | --- |
+| GS 3 maanden ov (vervolgens ook pinnen: GS 4 maanden ov) | GS 4 maanden ov (vervolgens ook pinnen: GS 5 maanden ov) |
+
+| First offender | Recidive (incl. internationaal) |
+| --- | --- |
+| GS 7 maanden ov | GS 9 maanden ov |
+
+|  | First offender | Recidive (incl. internationaal) |
+| --- | --- | --- |
+| Automaten in openbare ruimte, benzine uit auto | GS 3 maanden ov | GS 4 maanden ov |
+| Inbraken bedrijven/ auto’s | GS 4 maanden ov | GS 6 maanden ov |
+| Ladingdiefstal | GS 4 maanden ov | GS 6 maanden ov |
+
+|  | First offender | Recidive (incl. internationaal) |
+| --- | --- | --- |
+| Fiets / 2 fietsen | GS 6 weken – 3 maanden ov | GS 3 – 4 maanden ov |
+| Brommer/elektrische fietsen | GS 3 maanden ov | GS 4 maanden ov |
+| Auto, caravan, motor of klein vaartuig (waarde t/m € 20.000) | GS 4 maanden ov (waarde t/m € 20.000 GS 5 maanden ov (waarde > € 20.000 | GS 6 maanden ov GS 7 maanden ov |
+| Vrachtwagen (zonder belading) en/of aanhanger / oplegger, autobus | GS 5 maanden ov | GS 7 maanden ov |
+
+|  | First offender | Recidive (incl. internationaal) |
+| --- | --- | --- |
+| Zonder gevaarzetting/ met grote maatschappelijke of financiële schade | GS 2 maanden ov | GS 3 maanden ov |
+| Met gevaarzetting/ zonder grote maatschappelijke of financiële schade | GS 3 maanden ov | GS 4 maanden ov |
+| Met gevaarzetting/ met grote maatschappelijke of financiële schade | GS 4 maanden ov | GS 5 maanden ov |
+
+| Aantal slachtoffers | Bedrag goed/ dienst | First offender | Recidive (incl. internationaal) |
+| --- | --- | --- | --- |
+| 1 | t/m 1.200 euro | GS 6 weken ov | GS 2 maanden ov |
+| 2 | t/m 5.000 euro | GS 12 weken ov | GS 4 maanden ov |
+| 3 | t/m 10.000 euro | GS 18 weken ov | GS 6 maanden ov |
+| Etc. | Etc. | GS 6 weken extra per slachtoffer of 5.000 euro | GS 2 maanden extra per slachtoffer of 5.000 euro |
+
+|  | First offender | Recidive (incl. internationaal) |
+| --- | --- | --- |
+| (beoogde) waarde t/m € 100, opzet | GS 3 weken ov | GS 4 – 6 weken ov |
+| Vanaf 100 t/m 500, opzet | GS 1 maand ov | GS 2 maanden ov |
+| Vanaf 500 t/m 2.000, opzet | GS 2 maanden ov | GS 3 maanden ov |
+| Vanaf 2.000 euro, opzet | GS 3 maanden ov | GS 4 maanden ov |
 
 ### Legenda
 

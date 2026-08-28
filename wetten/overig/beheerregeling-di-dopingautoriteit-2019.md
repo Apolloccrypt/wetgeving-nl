@@ -1,88 +1,62 @@
 ---
 title: "Regeling van het bestuur van de Dopingautoriteit van 1 januari 2019, houdende de beheersregels voor documentaire informatie (Beheerregeling DI Dopingautoriteit 2019)"
+citeertitel: "Beheerregeling DI Dopingautoriteit 2019"
 identifier: "BWBR0042176"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-04-12"
-last_updated: "2019-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042176"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15064133"
-version_id: "25818682"
-internal_id: "C36809291"
-label_id: "15013294"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042176/2019-04-12/0"
-intitule_bron: "Stcrt.2019-19723"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-01-01"
-intitule_published: "2019-04-11"
-intitule_in_force: "2019-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-19723"
-original_signed_date: "2019-01-01"
-original_published_date: "2019-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-19723"
-entry_into_force_date: "2019-04-12"
-jci_1_3: "jci1.3:c:BWBR0042176&z=2019-04-12&g=2019-04-12"
-jci_1_0: "1.0:c:BWBR0042176&g=2019-04-12"
-citeertitel_status: "officieel"
-short_title: "Beheerregeling DI Dopingautoriteit 2019"
-signed_date: "2019-01-01"
-entry_into_force: "2019-04-12"
+publicatiedatum: 2019-04-12
+laatste_update: 2019-04-12
+status: geldig
+toestand: 2019-04-12
+bron: "https://wetten.overheid.nl/BWBR0042176"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van het bestuur van de Dopingautoriteit van 1 januari 2019, houdende de beheersregels voor documentaire informatie (Beheerregeling DI Dopingautoriteit 2019)
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14),
-
-Besluit vast te stellen de navolgende beheerregeling:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
-- **Afdelingshoofd:** het hoofd van een afdeling binnen de Dopingautoriteit;
+- *Afdelingshoofd:* het hoofd van een afdeling binnen de Dopingautoriteit;
 
-- **Antidopingorganisatie:** organisatie als bedoeld in artikel 2, onderdeel 2, van het op 19 oktober 2005 tot stand gekomen Internationaal verdrag tegen doping in de sport (Trb. 2006, 194);
+- *Antidopingorganisatie:* organisatie als bedoeld in artikel 2, onderdeel 2, van het op 19 oktober 2005 tot stand gekomen Internationaal verdrag tegen doping in de sport (Trb. 2006, 194);
 
-- **Bestuur:** degene die door de Minister als voorzitter van de Dopingautoriteit is benoemd zoals bedoeld in [artikel 7 van de Wet uitvoering antidopingbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=7);
+- *Bestuur:* degene die door de Minister als voorzitter van de Dopingautoriteit is benoemd zoals bedoeld in [artikel 7 van de Wet uitvoering antidopingbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=7);
 
-- **Conversie:** de omzetting of overzetting van digitale documenten in een ander bestandsformaat;
+- *Conversie:* de omzetting of overzetting van digitale documenten in een ander bestandsformaat;
 
-- **Documentaire informatie (DI):**
+- *Documentaire informatie (DI):*
 
-- a. alle documenten, ongeacht hun vorm, door de Dopingautoriteit ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
+   - a. alle documenten, ongeacht hun vorm, door de Dopingautoriteit ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
 
-- b. alle documenten, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op de Dopingautoriteit zijn overgegaan;
+   - b. alle documenten, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op de Dopingautoriteit zijn overgegaan;
 
-- c. alle documenten, ongeacht hun vorm, welke als gevolg van overeenkomsten met of beschikkingen van de Dopingautoriteit in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - c. alle documenten, ongeacht hun vorm, welke als gevolg van overeenkomsten met of beschikkingen van de Dopingautoriteit in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- d. reproducties, ongeacht vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder het eerste, tweede of derde lid bedoelde documenten of welke op grond van [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
+   - d. reproducties, ongeacht vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder het eerste, tweede of derde lid bedoelde documenten of welke op grond van [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
 
-- **Dossier:** verzameling van documenten, ongeacht hun vorm, die bijeen zijn gebracht op grond van een logisch-inhoudelijk verband en in onderlinge samenhang zijn te raadplegen;
+- *Dossier:* verzameling van documenten, ongeacht hun vorm, die bijeen zijn gebracht op grond van een logisch-inhoudelijk verband en in onderlinge samenhang zijn te raadplegen;
 
-- **Dopingautoriteit:** het zelfstandig bestuursorgaan Dopingautoriteit als bedoeld in [artikel 4 van de Wet uitvoering antidopingbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=4);
+- *Dopingautoriteit:* het zelfstandig bestuursorgaan Dopingautoriteit als bedoeld in [artikel 4 van de Wet uitvoering antidopingbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=4);
 
-- **Duurzaam informatiebeheer:** informatiebeheer waarbij de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie wordt gewaarborgd om achteruitgang te voorkomen en tegen te gaan, zodat tenminste honderd jaar na het ontstaan van de archiefstukken deze nog zijn te raadplegen.
+- *Duurzaam informatiebeheer:* informatiebeheer waarbij de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie wordt gewaarborgd om achteruitgang te voorkomen en tegen te gaan, zodat tenminste honderd jaar na het ontstaan van de archiefstukken deze nog zijn te raadplegen.
 
-- **Migratie:** de overzetting van vastgelegde digitale documenten en toepassingsprogrammatuur naar een ander platform;
+- *Migratie:* de overzetting van vastgelegde digitale documenten en toepassingsprogrammatuur naar een ander platform;
 
-- **Overbrenging:** het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats (Nationaal Archief);
+- *Overbrenging:* het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats (Nationaal Archief);
 
-- **Selectie:** het geheel van activiteiten gericht op het scheiden van voor blijvende bewaring in aanmerking komende documenten en voor vernietiging op termijn bestemde documenten;
+- *Selectie:* het geheel van activiteiten gericht op het scheiden van voor blijvende bewaring in aanmerking komende documenten en voor vernietiging op termijn bestemde documenten;
 
-- **Selectielijst:** ingevolge [artikel 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) voorgeschreven instrument ten behoeve van de waardering van documenten in te bewaren en op termijn te vernietigen documenten;
+- *Selectielijst:* ingevolge [artikel 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) voorgeschreven instrument ten behoeve van de waardering van documenten in te bewaren en op termijn te vernietigen documenten;
 
-- **Vervanging:** gecontroleerde reproductie van documenten met als doel tot vernietiging van de oorspronkelijke documenten over te kunnen gaan;
+- *Vervanging:* gecontroleerde reproductie van documenten met als doel tot vernietiging van de oorspronkelijke documenten over te kunnen gaan;
 
-- **Vervreemding:** het overdragen van de zorg en het beheer van documenten aan een derde partij;
+- *Vervreemding:* het overdragen van de zorg en het beheer van documenten aan een derde partij;
 
-- **Zorg:** de bestuurlijke verantwoordelijkheid voor het in goede, geordende en toegankelijke staat houden van de documentaire informatie;
+- *Zorg:* de bestuurlijke verantwoordelijkheid voor het in goede, geordende en toegankelijke staat houden van de documentaire informatie;
 
-- **Zorgdrager:** degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
+- *Zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
 
 ##### Artikel 2. Reikwijdte
 

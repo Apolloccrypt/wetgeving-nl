@@ -1,61 +1,33 @@
 ---
 title: "Gemeenschappelijke regeling Historisch Centrum Overijssel"
 identifier: "BWBR0042021"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-08-01"
-last_updated: "2016-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042021"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15030143"
-version_id: "25751272"
-internal_id: "C36725151"
-label_id: "14980084"
-dtd_version: "2.0"
-original_entry_into_force: "2016-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042021/2016-08-01/0"
-intitule_bron: "Stcrt.2016-34019"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-05-24"
-intitule_published: "2016-07-04"
-intitule_in_force: "2016-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-34019"
-original_signed_date: "2016-05-24"
-original_published_date: "2016-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-34019"
-entry_into_force_date: "2016-08-01"
-jci_1_3: "jci1.3:c:BWBR0042021&z=2016-08-01&g=2016-08-01"
-jci_1_0: "1.0:c:BWBR0042021&g=2016-08-01"
-citeertitel_status: "officieel"
-signed_date: "2016-05-24"
-entry_into_force: "2016-08-01"
+publicatiedatum: 2016-08-01
+laatste_update: 2016-08-01
+status: geldig
+toestand: 2016-08-01
+bron: "https://wetten.overheid.nl/BWBR0042021"
+opgehaald: 2026-08-28
 ---
+
 # Gemeenschappelijke regeling Historisch Centrum Overijssel
-
-Gelet op [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I) en [VIII van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII);
-
-Besluiten:
-
-tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de rijksarchiefbewaarplaats in de provincie Overijssel en de archiefbewaarplaatsen van de gemeenten Zwolle en Deventer.
 
 ##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de gemeenten:** de gemeenten Zwolle en Deventer;
+- b. *de gemeenten:* de gemeenten Zwolle en Deventer;
 
-- c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten;
+- d. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten;
 
-- e. **colleges:** de colleges van burgemeester en wethouders van de gemeenten, en
+- e. *colleges:* de colleges van burgemeester en wethouders van de gemeenten, en
 
-- f. **provincie:** de provincie Overijssel.
+- f. *provincie:* de provincie Overijssel.
 
 ##### Artikel 2
 
@@ -235,7 +207,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ##### Artikel 17
 
-1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de gemeenten, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting. Bij de aanvang van het Historisch Centrum Overijssel luiden de bijdragen zoals vastgesteld in de bijlage bij de regeling.
+1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de gemeenten, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting. Bij de aanvang van het Historisch Centrum Overijssel luiden de bijdragen zoals vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBR0042021) bij de regeling.
 
 2. De Minister en de colleges dragen er zorg voor dat het openbaar lichaam te allen tijde beschikt over voldoende middelen om zijn verplichtingen te voldoen. Dit met inachtneming van het zevende lid.
 
@@ -409,10 +381,6 @@ Deze regeling kan worden aangehaald als: Gemeenschappelijke regeling Historisch 
 
 ##### Artikel 41
 
-1. De gemeenschappelijke regeling Gemeenschappelijke regeling Historisch Centrum Overijssel, gepubliceerd als [bijlage bij het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 juli 2000](onbekend), nr. DCE/00/12702 (Stcrt. 2000, 141), wordt ingetrokken.
+1. De gemeenschappelijke regeling Gemeenschappelijke regeling Historisch Centrum Overijssel, gepubliceerd als [bijlage bij het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 juli 2000](https://wetten.overheid.nl/BWBR0011484), nr. DCE/00/12702 (Stcrt. 2000, 141), wordt ingetrokken.
 
 2. De rechten en verplichtingen van het Historisch Centrum Overijssel zoals die bestonden op het moment vóór de inwerkingtreding van deze regeling blijven in stand na de inwerkingtreding van deze regeling.
-
-## Bijlage
-
-niet opgenomen.

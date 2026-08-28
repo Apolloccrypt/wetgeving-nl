@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 december 2018 tot vaststelling van nadere regels voor het vastleggen en bewaren van kentekengegevens op grond van artikel 126jj van het Wetboek van Strafvordering door de politie"
+citeertitel: "Besluit vaststelling nadere regels vastleggen en bewaren kentekengegevens ex artikel 126jj Wetboek van Strafvordering door politie"
 identifier: "BWBR0041691"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041691"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "14908563"
-version_id: "25508132"
-internal_id: "C36415271"
-label_id: "14860024"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041691/2019-01-01/0"
-intitule_bron: "Stb.2018-472"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-05"
-intitule_published: "2018-12-18"
-intitule_in_force: "2018-12-18"
-intitule_status: "goed"
-original_publication: "Stb.2018-472"
-original_signed_date: "2018-12-05"
-original_published_date: "2018-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-472"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041691&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0041691&g=2019-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling nadere regels vastleggen en bewaren kentekengegevens ex artikel 126jj Wetboek van Strafvordering door politie"
-signed_date: "2018-12-05"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0041691"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 5 december 2018 tot vaststelling van nadere regels voor het vastleggen en bewaren van kentekengegevens op grond van artikel 126jj van het Wetboek van Strafvordering door de politie
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 18 juli 2018, directie Wetgeving en Juridische Zaken, nr. 2318700;
-
-Gelet op [artikel 126jj, zesde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126jj) en de [artikelen 17, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=17), [17a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=17a), en [33, vijfde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=33);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 oktober 2018, nr. W.16.18.0228/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 30 november 2018, directie Wetgeving en Juridische Zaken, nr. 2421936;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Definities
 
@@ -52,19 +20,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
+- a. *wet:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
 
-- b. **126jj-gegevens:** de gegevens, bedoeld in [artikel 126jj, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126jj);
+- b. *126jj-gegevens:* de gegevens, bedoeld in [artikel 126jj, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126jj);
 
-- c. **camera:** een technisch hulpmiddel als bedoeld in [artikel 126jj, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126jj);
+- c. *camera:* een technisch hulpmiddel als bedoeld in [artikel 126jj, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126jj);
 
-- d. **geautoriseerde opsporingsambtenaar:** de geautoriseerde opsporingsambtenaar, bedoeld in [artikel 126jj, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126jj);
+- d. *geautoriseerde opsporingsambtenaar:* de geautoriseerde opsporingsambtenaar, bedoeld in [artikel 126jj, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126jj);
 
-- e. **verwerkingsverantwoordelijke:**
+- e. *verwerkingsverantwoordelijke:*
 
-- 1°. bij de politie: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+   - 1° bij de politie: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- 2°. bij de Koninklijke marechaussee: Onze Minister van Defensie.
+   - 2° bij de Koninklijke marechaussee: Onze Minister van Defensie.
 
 #### Paragraaf 2. Plaatsing en inzet camera’s
 
@@ -230,10 +198,8 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de technisch
 
 ##### Artikel 17
 
-Wijzigt dit besluit.
+*Wijzigt dit besluit.*
 
 ##### Artikel 18
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

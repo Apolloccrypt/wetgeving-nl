@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Minister van Financiën en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 18 december 2018, 2018-0000224375, directie Financiële Markten, houdende de instelling van een commissie in verband met de advisering over een duurzame verbetering van wettelijke controles door accountants (Instellingsregeling Commissie toekomst accountancysector)"
+citeertitel: "Instellingsregeling Commissie toekomst accountancysector"
 identifier: "BWBR0041797"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-03"
-last_updated: "2019-01-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041797"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14942963"
-version_id: "25592762"
-internal_id: "C36521921"
-label_id: "14893244"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041797/2019-01-03/0"
-intitule_bron: "Stcrt.2019-105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-18"
-intitule_published: "2019-01-02"
-intitule_in_force: "2019-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-105"
-original_signed_date: "2018-12-18"
-original_published_date: "2019-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-105"
-entry_into_force_date: "2019-01-03"
-jci_1_3: "jci1.3:c:BWBR0041797&z=2019-01-03&g=2019-01-03"
-jci_1_0: "1.0:c:BWBR0041797&g=2019-01-03"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Commissie toekomst accountancysector"
-signed_date: "2018-12-18"
-entry_into_force: "2019-01-03"
+publicatiedatum: 2019-01-03
+laatste_update: 2019-01-03
+status: geldig
+toestand: 2019-01-03
+bron: "https://wetten.overheid.nl/BWBR0041797"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Financiën en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 18 december 2018, 2018-0000224375, directie Financiële Markten, houdende de instelling van een commissie in verband met de advisering over een duurzame verbetering van wettelijke controles door accountants (Instellingsregeling Commissie toekomst accountancysector)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Besluiten:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041797&artikel=2&z=2019-01-03&g=2019-01-03);
+- *commissie:* commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041797&artikel=2&z=2019-01-03&g=2019-01-03);
 
-- **Minister:** Minister van Financiën.
+- *Minister:* Minister van Financiën.
 
 ##### Artikel 2
 
@@ -101,5 +73,3 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie toekomst accountancysector.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 maart 2019, nr. WJZ/18070514, aan de directeur van Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens (Besluit mandaat, volmacht en machtiging directeur Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens)"
+citeertitel: "Besluit mandaat, volmacht en machtiging directeur Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens"
 identifier: "BWBR0042080"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-04-02"
-last_updated: "2019-04-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042080"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15044763"
-version_id: "25779662"
-internal_id: "C36758401"
-label_id: "14994144"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042080/2019-04-02/0"
-intitule_bron: "Stcrt.2019-17529"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-22"
-intitule_published: "2019-04-01"
-intitule_in_force: "2019-04-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-17529"
-original_signed_date: "2019-03-22"
-original_published_date: "2019-04-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-17529"
-entry_into_force_date: "2019-04-02"
-jci_1_3: "jci1.3:c:BWBR0042080&z=2019-04-02&g=2019-04-02"
-jci_1_0: "1.0:c:BWBR0042080&g=2019-04-02"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging directeur Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens"
-signed_date: "2019-03-22"
-entry_into_force: "2019-04-02"
+publicatiedatum: 2019-04-02
+laatste_update: 2019-04-02
+status: geldig
+toestand: 2019-04-02
+bron: "https://wetten.overheid.nl/BWBR0042080"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 maart 2019, nr. WJZ/18070514, aan de directeur van Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens (Besluit mandaat, volmacht en machtiging directeur Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van de directeur van Kiwa CBS B.V.;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -73,5 +45,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging directeur Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

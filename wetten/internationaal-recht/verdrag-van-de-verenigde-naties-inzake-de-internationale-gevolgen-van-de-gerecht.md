@@ -7,7 +7,7 @@ laatste_update: 2022-12-07
 status: geldig
 toestand: 2022-12-07
 bron: "https://wetten.overheid.nl/BWBV0007174"
-opgehaald: 2026-08-27
+opgehaald: 2026-08-28
 ---
 
 # Verdrag van de Verenigde Naties inzake de internationale gevolgen van de gerechtelijke verkoop van schepen

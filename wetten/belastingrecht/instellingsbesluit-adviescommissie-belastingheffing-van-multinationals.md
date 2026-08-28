@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën van 9 september 2019, nr. 2019-0000149369, houdende instelling van de Adviescommissie belastingheffing van multinationals"
+citeertitel: "Instellingsbesluit Adviescommissie belastingheffing van multinationals"
 identifier: "BWBR0042538"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-09-13"
-last_updated: "2019-09-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042538"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "15162683"
-version_id: "25995372"
-internal_id: "C37024601"
-label_id: "15110304"
-dtd_version: "2.0"
-original_entry_into_force: "2019-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042538/2019-09-13/0"
-intitule_bron: "Stcrt.2019-50781"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-09-09"
-intitule_published: "2019-09-12"
-intitule_in_force: "2019-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-50781"
-original_signed_date: "2019-09-09"
-original_published_date: "2019-09-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-50781"
-entry_into_force_date: "2019-09-13"
-jci_1_3: "jci1.3:c:BWBR0042538&z=2019-09-13&g=2019-09-13"
-jci_1_0: "1.0:c:BWBR0042538&g=2019-09-13"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie belastingheffing van multinationals"
-signed_date: "2019-09-09"
-entry_into_force: "2019-09-13"
+publicatiedatum: 2019-09-13
+laatste_update: 2019-09-13
+status: geldig
+toestand: 2019-09-13
+bron: "https://wetten.overheid.nl/BWBR0042538"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Staatssecretaris van Financiën van 9 september 2019, nr. 2019-0000149369, houdende instelling van de Adviescommissie belastingheffing van multinationals
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **ministerie:** het Ministerie van Financiën;
+- a. *ministerie:* het Ministerie van Financiën;
 
-- b. **Staatssecretaris:** de Staatssecretaris van Financiën;
+- b. *Staatssecretaris:* de Staatssecretaris van Financiën;
 
-- c. **Adviescommissie:** de adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042538&artikel=2&z=2019-09-13&g=2019-09-13).
+- c. *Adviescommissie:* de adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042538&artikel=2&z=2019-09-13&g=2019-09-13).
 
 ##### Artikel 2. Instelling
 
@@ -109,5 +83,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als; Instellingsbesluit Adviescommissie belastingheffing van multinationals.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

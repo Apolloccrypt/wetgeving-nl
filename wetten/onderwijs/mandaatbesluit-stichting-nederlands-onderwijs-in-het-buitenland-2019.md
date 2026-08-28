@@ -1,60 +1,30 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap 23 april 2019, nr. PO/7456625, houdende de mandatering van de directeur van de Stichting Nederlands Onderwijs in het Buitenland (Mandaatbesluit Stichting Nederlands Onderwijs in het Buitenland 2019)"
+citeertitel: "Mandaatbesluit Stichting Nederlands Onderwijs in het Buitenland 2019"
 identifier: "BWBR0042248"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042248"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15081983"
-version_id: "25849952"
-internal_id: "C36847321"
-label_id: "15030614"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042248/2020-01-01/0"
-intitule_bron: "Stcrt.2019-29519"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-23"
-intitule_published: "2019-05-28"
-intitule_in_force: "2019-05-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-29519"
-original_signed_date: "2019-04-23"
-original_published_date: "2019-05-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-29519"
-entry_into_force_date: "2019-05-29"
-jci_1_3: "jci1.3:c:BWBR0042248&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0042248&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit Stichting Nederlands Onderwijs in het Buitenland 2019"
-signed_date: "2019-04-23"
-entry_into_force: "2019-05-29"
+publicatiedatum: 2019-05-29
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0042248"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap 23 april 2019, nr. PO/7456625, houdende de mandatering van de directeur van de Stichting Nederlands Onderwijs in het Buitenland (Mandaatbesluit Stichting Nederlands Onderwijs in het Buitenland 2019)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [10:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=2) en [11 van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11);
-
-Gezien de instemming van het bestuur en de directeur-bestuurder van de Stichting Nederlands Onderwijs in het Buitenland;
-
-Besluit:
-
-Treedt in werking op het tijdstip dat de Regeling Stichting Nederlands Onderwijs in het Buitenland 2019–2023 in werking treedt.
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **stichting:** Stichting Nederlands Onderwijs in het Buitenland;
+- b. *stichting:* Stichting Nederlands Onderwijs in het Buitenland;
 
-- c. **Europese school:** school gesticht en in stand gehouden op grond van het Verdrag houdende het statuut van de Europese scholen;
+- c. *Europese school:* school gesticht en in stand gehouden op grond van het Verdrag houdende het statuut van de Europese scholen;
 
-- d. **Raad van Bestuur:** Raad van Bestuur van de Europese scholen (Board of Governors).
+- d. *Raad van Bestuur:* Raad van Bestuur van de Europese scholen (Board of Governors).
 
 ##### Artikel 2. Mandaat en volmacht
 
@@ -70,9 +40,9 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Ten aanzien van het aantal aan de Europese scholen in dienst genomen personeelsleden hanteert de stichting de volgende uitgangspunten:
 
-- a. ondergrens: aan de hand van het in de Raad van Bestuur voor Nederland vastgestelde **target level**, naar boven afgerond op een geheel getal, wordt bepaald hoeveel personeelsleden in ieder geval door de stichting in dienst worden genomen.
+- a. ondergrens: aan de hand van het in de Raad van Bestuur voor Nederland vastgestelde *target level*, naar boven afgerond op een geheel getal, wordt bepaald hoeveel personeelsleden in ieder geval door de stichting in dienst worden genomen.
 
-- b. bovengrens: het aantal in dienst genomen personeelsleden ligt maximaal 10 procent hoger dan het **target level**, naar boven afgerond op een geheel getal.
+- b. bovengrens: het aantal in dienst genomen personeelsleden ligt maximaal 10 procent hoger dan het *target level*, naar boven afgerond op een geheel getal.
 
 - c. hiervan mag worden afgeweken wanneer aan deze bovengrens nog niet voldaan kan worden wegens het natuurlijk verloop van personeelsleden.
 
@@ -82,7 +52,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 4. Europese School Bergen
 
-Aan de directeur van de stichting wordt mandaat verleend voor het beheren van de middelen die jaarlijks op de Rijksbegroting zijn bestemd voor het groot onderhoud van de Europese School te Bergen alsmede een deel van de personele kosten en materiële kosten als bedoeld in de ‘Overeenkomst betreffende het functioneren van de Europese School in Nederland’ (Trb 1970, 95).
+Aan de directeur van de stichting wordt mandaat verleend voor het beheren van de middelen die jaarlijks op de Rijksbegroting zijn bestemd voor het groot onderhoud van de Europese School te Bergen alsmede een deel van de personele kosten en materiële kosten als bedoeld in de ‘Overeenkomst betreffende het functioneren van de Europese School in Nederland’ (Trb 1970, 95).
 
 ##### Artikel 5. Bedrag en wijze van bevoorschotting
 
@@ -90,15 +60,15 @@ Aan de directeur van de stichting wordt mandaat verleend voor het beheren van de
 
 2. Het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2020-01-01&g=2020-01-01) wordt in gelijke maandelijkse termijnen betaald.
 
-3. Voor de activiteiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2020-01-01&g=2020-01-01) is voor de jaren 2019 tot en met 2023 een totaalbedrag beschikbaar van maximaal € 1.500.000,–.
+3. Voor de activiteiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2020-01-01&g=2020-01-01) is voor de jaren 2019 tot en met 2023 een totaalbedrag beschikbaar van maximaal € 1.500.000,–.
 
 4. De berekening van de vergoeding van de kosten voor het jaar 2024 en volgende wordt aan het einde van de periode, bedoeld in het derde lid, nader bepaald.
 
 ##### Artikel 6. Aanvraag, betaling en afrekening
 
-1. De stichting dient uiterlijk 6 weken voor aanvang van het kalenderjaar een overzicht in van de kosten in het daarop volgende kalenderjaar. Dit bevat in ieder geval een overzicht van het aantal formatieplaatsen op de Europese scholen op 1 oktober van het kalenderjaar waarin de begroting wordt ingediend.
+1. De stichting dient uiterlijk 6 weken voor aanvang van het kalenderjaar een overzicht in van de kosten in het daarop volgende kalenderjaar. Dit bevat in ieder geval een overzicht van het aantal formatieplaatsen op de Europese scholen op 1 oktober van het kalenderjaar waarin de begroting wordt ingediend.
 
-2. De stichting dient uiterlijk 22 weken na afloop van het kalenderjaar een overzicht in van de daadwerkelijke kosten. Dit bevat in ieder geval een overzicht van het definitieve aantal formatieplaatsen op de Europese scholen op 1 oktober van het kalenderjaar t-1 en een overzicht van de salariskosten op basis van jaaroverzichten uit het salarissysteem, kosten van noodzakelijke scholing en begeleiding personeel, dotatie voor een bestemde reserve, voor zover deze risico’s niet worden gedekt door Participatiefonds en Vervangingsfonds of andere daarvoor ontwikkelde fondsen of voorzieningen en verhuiskosten en buitenlandtoelage op basis van jaaroverzichten uit het salarissysteem.
+2. De stichting dient uiterlijk 22 weken na afloop van het kalenderjaar een overzicht in van de daadwerkelijke kosten. Dit bevat in ieder geval een overzicht van het definitieve aantal formatieplaatsen op de Europese scholen op 1 oktober van het kalenderjaar t-1 en een overzicht van de salariskosten op basis van jaaroverzichten uit het salarissysteem, kosten van noodzakelijke scholing en begeleiding personeel, dotatie voor een bestemde reserve, voor zover deze risico’s niet worden gedekt door Participatiefonds en Vervangingsfonds of andere daarvoor ontwikkelde fondsen of voorzieningen en verhuiskosten en buitenlandtoelage op basis van jaaroverzichten uit het salarissysteem.
 
 3. De gegevens bedoeld in het eerste en het tweede lid, mogen aangeleverd worden als onderdeel van de begroting en het financieel verslag dat de stichting jaarlijks indient vanwege de subsidie die zij ontvangt op grond van de [Regeling Stichting Nederlands Onderwijs in het Buitenland 2019–2023](https://wetten.overheid.nl/jci1.3:c:BWBR0042249) met dien verstande dat de gegevens die betrekking hebben op de activiteiten die op grond van dit besluit worden verricht daarbinnen herkenbaar zijn opgenomen in een afzonderlijk hoofdstuk.
 
@@ -125,5 +95,3 @@ Dit besluit treedt in werking op het tijdstip dat de [Regeling Stichting Nederla
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Stichting Nederlands Onderwijs in het Buitenland 2019
-
-Dit besluit zal in de Staatscourant worden geplaatst.

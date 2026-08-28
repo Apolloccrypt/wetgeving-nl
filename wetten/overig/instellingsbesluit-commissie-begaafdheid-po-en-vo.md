@@ -1,56 +1,31 @@
 ---
 title: "Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 8 maart 2019, nr. VO/1440721, houdende instelling van de Commissie beoordeling begaafdheid in het primair en voortgezet onderwijs ten behoeve van de Regeling subsidie begaafde leerlingen po en vo (Instellingsbesluit Commissie begaafdheid po en vo)"
+citeertitel: "Instellingsbesluit Commissie begaafdheid po en vo"
 identifier: "BWBR0042091"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-10-23"
-last_updated: "2019-10-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042091"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15047503"
-version_id: "25783682"
-internal_id: "C36762471"
-label_id: "14996954"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042091/2019-10-23/0"
-intitule_bron: "Stcrt.2019-18122"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-08"
-intitule_published: "2019-04-02"
-intitule_in_force: "2019-04-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-18122"
-original_signed_date: "2019-03-08"
-original_published_date: "2019-04-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-18122"
-entry_into_force_date: "2019-04-03"
-jci_1_3: "jci1.3:c:BWBR0042091&z=2019-10-23&g=2019-10-23"
-jci_1_0: "1.0:c:BWBR0042091&g=2019-10-23"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie begaafdheid po en vo"
-signed_date: "2019-03-08"
-entry_into_force: "2019-04-03"
+publicatiedatum: 2019-04-03
+laatste_update: 2019-10-23
+status: geldig
+toestand: 2019-10-23
+bron: "https://wetten.overheid.nl/BWBR0042091"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 8 maart 2019, nr. VO/1440721, houdende instelling van de Commissie beoordeling begaafdheid in het primair en voortgezet onderwijs ten behoeve van de Regeling subsidie begaafde leerlingen po en vo (Instellingsbesluit Commissie begaafdheid po en vo)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- •. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042091&artikel=2&z=2019-10-23&g=2019-10-23);
+- • *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042091&artikel=2&z=2019-10-23&g=2019-10-23);
 
-- •. **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
+- • *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
 
-- •. **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- • *minister:* Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- •. **regeling:** [Regeling subsidie begaafde leerlingen po en vo](https://wetten.overheid.nl/jci1.3:c:BWBR0041640).
+- • *regeling:*
+ [Regeling subsidie begaafde leerlingen po en vo](https://wetten.overheid.nl/jci1.3:c:BWBR0041640).
 
 ##### Artikel 2. Instelling en taak
 
@@ -139,5 +114,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie begaafdheid po en vo.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 1 maart 2019, kenmerk 2494716, houdende verlening van mandaat, volmacht en machtiging aan de korpschef van de politie inzake bevoegdheden ten aanzien van de C2000-infrastructuur (Besluit verlening mandaat, volmacht en machtiging inzake beheer C2000)"
+citeertitel: "Besluit verlening mandaat, volmacht en machtiging inzake beheer C2000"
 identifier: "BWBR0041988"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-26"
-last_updated: "2025-02-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041988"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15020503"
-version_id: "25729992"
-internal_id: "C36698511"
-label_id: "14970194"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041988/2025-02-26/0"
-intitule_bron: "Stcrt.2019-13166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-01"
-intitule_published: "2019-03-11"
-intitule_in_force: "2019-03-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-13166"
-original_signed_date: "2019-03-01"
-original_published_date: "2019-03-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-13166"
-entry_into_force_date: "2019-03-12"
-jci_1_3: "jci1.3:c:BWBR0041988&z=2025-02-26&g=2025-02-26"
-jci_1_0: "1.0:c:BWBR0041988&g=2025-02-26"
-citeertitel_status: "officieel"
-short_title: "Besluit verlening mandaat, volmacht en machtiging inzake beheer C2000"
-signed_date: "2019-03-01"
-entry_into_force: "2019-03-12"
+publicatiedatum: 2019-03-12
+laatste_update: 2025-02-26
+status: geldig
+toestand: 2025-02-26
+bron: "https://wetten.overheid.nl/BWBR0041988"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 1 maart 2019, kenmerk 2494716, houdende verlening van mandaat, volmacht en machtiging aan de korpschef van de politie inzake bevoegdheden ten aanzien van de C2000-infrastructuur (Besluit verlening mandaat, volmacht en machtiging inzake beheer C2000)
-
-Gelet op [artikel 23, eerste lid, onder a Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23), en [artikel 1 van de Regeling C2000 en GMS](https://wetten.overheid.nl/jci1.3:c:BWBR0020268&artikel=1);
-
-Gelet op het [Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519) en het [Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688)
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **bestedingsplan:** het onderdeel van de begroting en het jaarplan van de politie betreffende het tactisch en operationeel beheer C2000;
+- a. *bestedingsplan:* het onderdeel van de begroting en het jaarplan van de politie betreffende het tactisch en operationeel beheer C2000;
 
-- b. **de korpschef:** de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- b. *de korpschef:* de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- c. **mandaat:** de bevoegdheid om namens de minister besluiten te nemen en stukken af te doen en te ondertekenen;
+- c. *mandaat:* de bevoegdheid om namens de minister besluiten te nemen en stukken af te doen en te ondertekenen;
 
-- d. **de minister:** de minister van Justitie en Veiligheid.
+- d. *de minister:* de minister van Justitie en Veiligheid.
 
 ##### Artikel 2
 

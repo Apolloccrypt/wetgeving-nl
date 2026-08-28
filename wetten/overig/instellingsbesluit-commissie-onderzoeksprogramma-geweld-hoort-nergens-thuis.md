@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 januari 2019, kenmerk 1464077-185556-J, houdende instelling van de Commissie Onderzoeksprogramma Geweld hoort nergens thuis (Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis)"
+citeertitel: "Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis"
 identifier: "BWBR0041901"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-02-13"
-last_updated: "2019-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041901"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "14998293"
-version_id: "25687342"
-internal_id: "C36645171"
-label_id: "14948434"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041901/2019-02-13/0"
-intitule_bron: "Stcrt.2019-7101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-01-22"
-intitule_published: "2019-02-12"
-intitule_in_force: "2019-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-7101"
-original_signed_date: "2019-01-22"
-original_published_date: "2019-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-7101"
-entry_into_force_date: "2019-02-13"
-jci_1_3: "jci1.3:c:BWBR0041901&z=2019-02-13&g=2019-02-13"
-jci_1_0: "1.0:c:BWBR0041901&g=2019-02-13"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis"
-signed_date: "2019-01-22"
-entry_into_force: "2019-02-13"
+publicatiedatum: 2019-02-13
+laatste_update: 2019-02-13
+status: geldig
+toestand: 2019-02-13
+bron: "https://wetten.overheid.nl/BWBR0041901"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 januari 2019, kenmerk 1464077-185556-J, houdende instelling van de Commissie Onderzoeksprogramma Geweld hoort nergens thuis (Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **bewindspersonen:** de Minister van Volksgezondheid, Welzijn en Sport en de Minister voor Rechtsbescherming;
+- b. *bewindspersonen:* de Minister van Volksgezondheid, Welzijn en Sport en de Minister voor Rechtsbescherming;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041901&artikel=2&z=2019-02-13&g=2019-02-13);
+- c. *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041901&artikel=2&z=2019-02-13&g=2019-02-13);
 
-- d. **programma:** het programma Geweld hoort nergens thuis.
+- d. *programma:* het programma Geweld hoort nergens thuis.
 
 ##### Artikel 2. Instelling en taak
 
@@ -62,15 +36,15 @@ In dit besluit wordt verstaan onder:
 
 - b. het vanuit een bundeling van kennisbehoeften van de professionals en op basis van de kennissynthese voorzien in een kennisprogramma, waarin wordt bepaald welk (soort) onderzoek nodig is en wie dat uitvoert (of al doet). De focus ligt op het helpen van gemeenten en professionals door hun handelingsperspectieven te verbreden om daadwerkelijk herstel van veiligheid te kunnen realiseren. Hiernaast is er ook aandacht voor de volgende specifieke onderwerpen:
 
-- i. het op wijkniveau in beeld brengen van risicofactoren;
+   - i. het op wijkniveau in beeld brengen van risicofactoren;
 
-- ii. informatie over effectieve interventies (zowel voor toepassing door professionals als ten behoeve van de inkoop ervan door gemeenten);
+   - ii. informatie over effectieve interventies (zowel voor toepassing door professionals als ten behoeve van de inkoop ervan door gemeenten);
 
-- iii. het verhogen van de meldings- en aangiftebereidheid in die groepen waar eer een belangrijke rol speelt;
+   - iii. het verhogen van de meldings- en aangiftebereidheid in die groepen waar eer een belangrijke rol speelt;
 
-- iv. deskundigheidsbevordering en interventies in groepen waar eer een belangrijke rol speelt;
+   - iv. deskundigheidsbevordering en interventies in groepen waar eer een belangrijke rol speelt;
 
-- v. de vraag hoe professionals in de zorg en bij Veilig Thuis beter kunnen worden toegerust om seksueel geweld te herkennen en bespreekbaar te maken, waarbij ook de signalen en risico’s die online spelen meegenomen worden.
+   - v. de vraag hoe professionals in de zorg en bij Veilig Thuis beter kunnen worden toegerust om seksueel geweld te herkennen en bespreekbaar te maken, waarbij ook de signalen en risico’s die online spelen meegenomen worden.
 
 - c. het ontwikkelen, inrichten en uitvoeren van een impactmonitor, waarmee wordt gemeten of er een wezenlijk verschil wordt gemaakt met de aanpak van huiselijk geweld en kindermishandeling in de levens van mensen die het raakt. De impactmonitor bestaat uit indicatoren waarmee de (maatschappelijke) impact van de inzet van de betrokken organisaties, professionals en overheden wordt gemonitord en onderzocht. Het uitgangspunt is dat de effectmonitor niet leidt tot onnodige registratiedruk voor professionals en organisaties.
 
@@ -169,5 +143,3 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

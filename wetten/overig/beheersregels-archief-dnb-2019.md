@@ -1,108 +1,86 @@
 ---
 title: "Besluit d.d. 7 januari 2019 conform artikel 14 van het Archiefbesluit 1995 houdende regels voor de documentaire informatievoorziening van De Nederlandsche Bank NV (Beheersregels archief DNB 2019)"
+citeertitel: "Beheersregels archief DNB 2019"
 identifier: "BWBR0041823"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-01-08"
-last_updated: "2019-01-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041823"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "14951013"
-version_id: "25611742"
-internal_id: "C36555391"
-label_id: "14901534"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041823/2019-01-08/0"
-intitule_bron: "Stcrt.2019-1991"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-01-07"
-intitule_published: "2019-01-18"
-intitule_in_force: "2019-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-1991"
-original_signed_date: "2019-01-07"
-original_published_date: "2019-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-1991"
-entry_into_force_date: "2019-01-08"
-jci_1_3: "jci1.3:c:BWBR0041823&z=2019-01-08&g=2019-01-08"
-jci_1_0: "1.0:c:BWBR0041823&g=2019-01-08"
-citeertitel_status: "officieel"
-short_title: "Beheersregels archief DNB 2019"
-signed_date: "2019-01-07"
-entry_into_force: "2019-01-08"
+publicatiedatum: 2019-01-08
+laatste_update: 2019-01-08
+status: geldig
+toestand: 2019-01-08
+bron: "https://wetten.overheid.nl/BWBR0041823"
+opgehaald: 2026-08-28
 ---
+
 # Besluit d.d. 7 januari 2019 conform artikel 14 van het Archiefbesluit 1995 houdende regels voor de documentaire informatievoorziening van De Nederlandsche Bank NV (Beheersregels archief DNB 2019)
 
 ### 1. Begripsbepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
-- 1. **Afgesloten archief:** een niet meer actueel archief dat betrekking heeft op een voltooid werkproces, dat in principe onveranderlijk is en waarin zich archiefbescheiden bevinden in afwachting van vernietiging of overbrenging naar een archiefbewaarplaats. Voor digitale archiefbescheiden bevindt het afgesloten archief zich in het record management systeem.
+- 1. *Afgesloten archief:* een niet meer actueel archief dat betrekking heeft op een voltooid werkproces, dat in principe onveranderlijk is en waarin zich archiefbescheiden bevinden in afwachting van vernietiging of overbrenging naar een archiefbewaarplaats. Voor digitale archiefbescheiden bevindt het afgesloten archief zich in het record management systeem.
 
-- 2. **Archief:** geheel van archiefbescheiden ontvangen of opgemaakt door De Nederlandsche Bank NV (DNB) of een onderdeel daarvan.
+- 2. *Archief:* geheel van archiefbescheiden ontvangen of opgemaakt door De Nederlandsche Bank NV (DNB) of een onderdeel daarvan.
 
-- 3. **Archiefbeheer:** de feitelijke of uitvoerende werkzaamheden om archiefbescheiden in goede, geordende en toegankelijke staat te brengen, te bewaren of over te brengen, als ook om archiefbescheiden die daar in aanmerking komen te vernietigen.
+- 3. *Archiefbeheer:* de feitelijke of uitvoerende werkzaamheden om archiefbescheiden in goede, geordende en toegankelijke staat te brengen, te bewaren of over te brengen, als ook om archiefbescheiden die daar in aanmerking komen te vernietigen.
 
-- 4. **Archiefbescheiden: (papier én digitaal):**
+- 4. *Archiefbescheiden: (papier én digitaal):*
 
-- a. bescheiden, ongeacht hun vorm, door DNB ontvangen of opgemaakt en naar hun aard bestemd om onder haar te berusten;
+   - a. bescheiden, ongeacht hun vorm, door DNB ontvangen of opgemaakt en naar hun aard bestemd om onder haar te berusten;
 
-- b. bescheiden, ongeacht hun vorm, met overeenkomstig bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op DNB zijn overgegaan;
+   - b. bescheiden, ongeacht hun vorm, met overeenkomstig bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op DNB zijn overgegaan;
 
-- c. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - c. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- d. reproducties, ongeacht hun vorm, welke bij of krachtens wet in plaats zijn gesteld van de onder a., b., of c. bedoelde bescheiden of welke op grond van het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041823&artikel=12&z=2019-01-08&g=2019-01-08) zijn vervaardigd.
+   - d. reproducties, ongeacht hun vorm, welke bij of krachtens wet in plaats zijn gesteld van de onder a., b., of c. bedoelde bescheiden of welke op grond van het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041823&artikel=12&z=2019-01-08&g=2019-01-08) zijn vervaardigd.
 
-- 5. **Archiefbewaarplaats:** een bewaarplaats die bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) is aangewezen voor de blijvende bewaring van archiefbescheiden.
+- 5. *Archiefbewaarplaats:* een bewaarplaats die bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) is aangewezen voor de blijvende bewaring van archiefbescheiden.
 
-- 6. **Archiefruimte:** een ruimte bestemd of aangewezen voor de bewaring van papieren archiefbescheiden in afwachting van hun vernietiging of overbrenging naar een archiefbewaarplaats.
+- 6. *Archiefruimte:* een ruimte bestemd of aangewezen voor de bewaring van papieren archiefbescheiden in afwachting van hun vernietiging of overbrenging naar een archiefbewaarplaats.
 
-- 7. **Archiefvormend onderdeel:** een al dan niet tijdelijk onderdeel van DNB, dat onder de verantwoordelijkheid van de directie van DNB een (onderdeel van een) taak van DNB uitoefent.
+- 7. *Archiefvormend onderdeel:* een al dan niet tijdelijk onderdeel van DNB, dat onder de verantwoordelijkheid van de directie van DNB een (onderdeel van een) taak van DNB uitoefent.
 
-- 8. **Beheersregels:** nderhavige, door de directie van DNB op grond van het [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748), vastgestelde regeling.
+- 8. *Beheersregels:* nderhavige, door de directie van DNB op grond van het [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748), vastgestelde regeling.
 
-- 9. **Bewaartermijn:** de termijn waarin archiefbescheiden in goede, geordende en toegankelijke staat moeten blijven en waarna vernietiging van deze archiefbescheiden moet plaatsvinden.
+- 9. *Bewaartermijn:* de termijn waarin archiefbescheiden in goede, geordende en toegankelijke staat moeten blijven en waarna vernietiging van deze archiefbescheiden moet plaatsvinden.
 
-- 10. **Documentaire informatievoorziening:** het registeren, archiveren, beschikbaar stellen en beheren van documenten binnen een organisatie.
+- 10. *Documentaire informatievoorziening:* het registeren, archiveren, beschikbaar stellen en beheren van documenten binnen een organisatie.
 
-- 11. **Document management systeem (DMS):** het primaire systeem voor het opmaken en opslaan van archiefbescheiden en hun metadata met een geautomatiseerde koppeling naar het record management systeem.
+- 11. *Document management systeem (DMS):* het primaire systeem voor het opmaken en opslaan van archiefbescheiden en hun metadata met een geautomatiseerde koppeling naar het record management systeem.
 
-- 12. **ECB-archiefbescheiden:** archiefbescheiden die in bezit zijn van DNB en die de ECB heeft opgesteld of die DNB heeft opgesteld in de uitoefening van bevoegdheden die zijn toebedeeld aan de Unie, meer specifiek aan het ESCB/Eurosysteem, of ingevolge de Verordening (EU) nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen, alsook archiefbescheiden die afkomstig zijn van het EMI of van het Comité van presidenten. Op deze bescheiden zijn onder meer van toepassing: het besluit van de Governing Council van 14 juli 2016 inzake de ‘Common rules and minimum standards for the treatment of sensitive ESCB and SSM information’ (SEC/GovC/X/16/0815-SEC/GenC/X/16/086), het besluit van de Europese Centrale Bank van 19 februari 2004 inzake het reglement van orde van de Europese Centrale Bank (ECB/2004/2), het besluit van 4 maart 2004 inzake de toegang van het publiek tot documenten van de Europese Centrale Bank (ECB/2004/3) alsook de Administrative Circular 07/2004 on the Management and Confidentiality of ECB Documents van 17 september 2004.
+- 12. *ECB-archiefbescheiden:* archiefbescheiden die in bezit zijn van DNB en die de ECB heeft opgesteld of die DNB heeft opgesteld in de uitoefening van bevoegdheden die zijn toebedeeld aan de Unie, meer specifiek aan het ESCB/Eurosysteem, of ingevolge de Verordening (EU) nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen, alsook archiefbescheiden die afkomstig zijn van het EMI of van het Comité van presidenten. Op deze bescheiden zijn onder meer van toepassing: het besluit van de Governing Council van 14 juli 2016 inzake de ‘Common rules and minimum standards for the treatment of sensitive ESCB and SSM information’ (SEC/GovC/X/16/0815-SEC/GenC/X/16/086), het besluit van de Europese Centrale Bank van 19 februari 2004 inzake het reglement van orde van de Europese Centrale Bank (ECB/2004/2), het besluit van 4 maart 2004 inzake de toegang van het publiek tot documenten van de Europese Centrale Bank (ECB/2004/3) alsook de Administrative Circular 07/2004 on the Management and Confidentiality of ECB Documents van 17 september 2004.
 
-- 13. **e-Depot:** een digitale voorziening waarmee digitale informatieobjecten na overdracht duurzaam toegankelijk beheerd worden.
+- 13. *e-Depot:* een digitale voorziening waarmee digitale informatieobjecten na overdracht duurzaam toegankelijk beheerd worden.
 
-- 14. **Hogere regelgeving:** de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), het [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) en de [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
+- 14. *Hogere regelgeving:* de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), het [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) en de [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
-- 15. **Lopend archief:** actueel archief waarin een archiefvormend onderdeel nieuwe archiefbescheiden opslaat die betrekking hebben op een nog onvoltooid werkproces. Het lopende archief bevindt zich in het document management systeem.
+- 15. *Lopend archief:* actueel archief waarin een archiefvormend onderdeel nieuwe archiefbescheiden opslaat die betrekking hebben op een nog onvoltooid werkproces. Het lopende archief bevindt zich in het document management systeem.
 
-- 16. **Metadata:** gegevens die over archiefbescheiden in het document management systeem en record management systeem worden vastgelegd om deze terugvindbaar en beheersbaar te maken en houden.
+- 16. *Metadata:* gegevens die over archiefbescheiden in het document management systeem en record management systeem worden vastgelegd om deze terugvindbaar en beheersbaar te maken en houden.
 
-- 17. **Overbrenging:** het overdragen van de zorg en het archiefbeheer van archiefbescheiden die voor permanente bewaring in aanmerking komen aan een archiefbewaarplaats.
+- 17. *Overbrenging:* het overdragen van de zorg en het archiefbeheer van archiefbescheiden die voor permanente bewaring in aanmerking komen aan een archiefbewaarplaats.
 
-- 18. **Overdracht:** het in archiefbeheer overdragen van archiefbescheiden aan een ander (archiefvormend) onderdeel van DNB.
+- 18. *Overdracht:* het in archiefbeheer overdragen van archiefbescheiden aan een ander (archiefvormend) onderdeel van DNB.
 
-- 19. **Overheidsorgaan:** organen van een rechtspersoon ingesteld krachtens publiek recht of een andere persoon of college met enig openbaar gezag bekleed.
+- 19. *Overheidsorgaan:* organen van een rechtspersoon ingesteld krachtens publiek recht of een andere persoon of college met enig openbaar gezag bekleed.
 
-- 20. **Record management systeem (RMS):** het primaire systeem met alle benodigde functionaliteiten om archiefbescheiden gedurende hun bewaartermijn in goede, geordende en toegankelijke staat te behouden en beheren.
+- 20. *Record management systeem (RMS):* het primaire systeem met alle benodigde functionaliteiten om archiefbescheiden gedurende hun bewaartermijn in goede, geordende en toegankelijke staat te behouden en beheren.
 
-- 21. **Selectie:** het op grond van een vastgestelde selectielijst scheiden van archiefbescheiden die voor bewaring en die voor vernietiging in aanmerking komen.
+- 21. *Selectie:* het op grond van een vastgestelde selectielijst scheiden van archiefbescheiden die voor bewaring en die voor vernietiging in aanmerking komen.
 
-- 22. **Selectielijst:** het wettelijk voorgeschreven instrument voor de selectie van te bewaren en te vernietigen archieven, inclusief de selectietermijn, bedoeld in [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5).
+- 22. *Selectielijst:* het wettelijk voorgeschreven instrument voor de selectie van te bewaren en te vernietigen archieven, inclusief de selectietermijn, bedoeld in [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5).
 
-- 23. **Terbeschikkingstelling:** het tijdelijk overdragen van archiefbescheiden en het archiefbeheer daarvan aan een andere archiefbeheerder of rechtspersoon.
+- 23. *Terbeschikkingstelling:* het tijdelijk overdragen van archiefbescheiden en het archiefbeheer daarvan aan een andere archiefbeheerder of rechtspersoon.
 
-- 24. **Vernietiging:** het zodanig bewerken van (de gegevensdrager van) archiefbescheiden dat daarvan of daaruit op geen enkele wijze de gegevens die deze bevat kunnen worden gereconstrueerd.
+- 24. *Vernietiging:* het zodanig bewerken van (de gegevensdrager van) archiefbescheiden dat daarvan of daaruit op geen enkele wijze de gegevens die deze bevat kunnen worden gereconstrueerd.
 
-- 25. **Vervanging:** het al dan niet routinematig vervangen van archiefbescheiden door reproducties, die volledig de plaats innemen van de originele archiefbescheiden.
+- 25. *Vervanging:* het al dan niet routinematig vervangen van archiefbescheiden door reproducties, die volledig de plaats innemen van de originele archiefbescheiden.
 
-- 26. **Vervreemding:** het in eigendom overdragen van archiefbescheiden en daarmee tevens de zorg en het archiefbeheer van archiefbescheiden aan een andere zorgdrager of civielrechtelijke partij.
+- 26. *Vervreemding:* het in eigendom overdragen van archiefbescheiden en daarmee tevens de zorg en het archiefbeheer van archiefbescheiden aan een andere zorgdrager of civielrechtelijke partij.
 
-- 27. **Zorg:** de verantwoordelijkheid voor het nakomen van de in de hogere regelgeving opgenomen verplichting om de onder de zorgdrager berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden.
+- 27. *Zorg:* de verantwoordelijkheid voor het nakomen van de in de hogere regelgeving opgenomen verplichting om de onder de zorgdrager berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden.
 
-- 28. **Zorgdrager:** degene die bij of krachtens de wet belast is met de zorg voor archiefbescheiden.
+- 28. *Zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor archiefbescheiden.
 
 ### 2. Reikwijdte
 

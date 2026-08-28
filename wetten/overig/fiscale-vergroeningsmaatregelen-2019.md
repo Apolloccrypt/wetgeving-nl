@@ -1,76 +1,46 @@
 ---
 title: "Wet van 19 december 2018 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale vergroeningsmaatregelen 2019)"
+citeertitel: "Fiscale vergroeningsmaatregelen 2019"
 identifier: "BWBR0041769"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041769"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "14931103"
-version_id: "25561402"
-internal_id: "C36487231"
-label_id: "14882104"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041769/2020-01-01/0"
-intitule_bron: "Stb.2018-506"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-19"
-intitule_published: "2018-12-28"
-intitule_in_force: "2018-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2018-506"
-original_signed_date: "2018-12-19"
-original_published_date: "2018-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "35029"
-original_url_id: "stb-2018-506"
-entry_into_force_date: "2019-01-01"
-entry_into_force_dossier: "35029"
-jci_1_3: "jci1.3:c:BWBR0041769&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0041769&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Fiscale vergroeningsmaatregelen 2019"
-signed_date: "2018-12-19"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0041769"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 19 december 2018 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale vergroeningsmaatregelen 2019)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is fiscale vergroeningsmaatregelen te treffen om de prikkel te vergroten om CO2-uitstoot te beperken;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.*
 
 ##### Artikel V
 
-Wijzigt de Wet belasting zware motorrijtuigen.
+*Wijzigt de Wet belasting zware motorrijtuigen.*
 
 ##### Artikel VI
 
-Wijzigt de Wet belasting zware motorrijtuigen.
+*Wijzigt de Wet belasting zware motorrijtuigen.*
 
 ##### Artikel VII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel VIII
 
@@ -78,15 +48,15 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel IX
 
-Wijzigt het Belastingplan 2018.
+*Wijzigt het Belastingplan 2018.*
 
 ##### Artikel X
 
-Wijzigt de Wet uitwerking Autobrief II.
+*Wijzigt de Wet uitwerking Autobrief II.*
 
 ##### Artikel XI
 
-Wijzigt de Wet maatregelen woningmarkt 2014 II.
+*Wijzigt de Wet maatregelen woningmarkt 2014 II.*
 
 ##### Artikel XII
 
@@ -105,5 +75,3 @@ Wijzigt de Wet maatregelen woningmarkt 2014 II.
 ##### Artikel XIII
 
 Deze wet wordt aangehaald als: Fiscale vergroeningsmaatregelen 2019.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek van 22 mei 2019, nr. 2019 RvB 139, houdende vaststelling van de Klachtenregeling wetenschappelijke integriteit NWO"
+citeertitel: "Klachtenregeling Wetenschappelijke Integriteit NWO"
 identifier: "BWBR0042286"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-04-07"
-last_updated: "2020-04-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042286"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15092183"
-version_id: "25869792"
-internal_id: "C36870071"
-label_id: "15040914"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042286/2020-04-07/0"
-intitule_bron: "Stcrt.2019-32333"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-22"
-intitule_published: "2019-06-12"
-intitule_in_force: "2019-06-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-32333"
-original_signed_date: "2019-05-22"
-original_published_date: "2019-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-32333"
-entry_into_force_date: "2019-06-01"
-jci_1_3: "jci1.3:c:BWBR0042286&z=2020-04-07&g=2020-04-07"
-jci_1_0: "1.0:c:BWBR0042286&g=2020-04-07"
-citeertitel_status: "officieel"
-short_title: "Klachtenregeling Wetenschappelijke Integriteit NWO"
-signed_date: "2019-05-22"
-entry_into_force: "2019-06-01"
+publicatiedatum: 2019-06-01
+laatste_update: 2020-04-07
+status: geldig
+toestand: 2020-04-07
+bron: "https://wetten.overheid.nl/BWBR0042286"
+opgehaald: 2026-08-28
 ---
-# Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek van 22 mei 2019, nr. 2019 RvB 139, houdende vaststelling van de Klachtenregeling wetenschappelijke integriteit NWO
 
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
+# Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek van 22 mei 2019, nr. 2019 RvB 139, houdende vaststelling van de Klachtenregeling wetenschappelijke integriteit NWO
 
 gelet op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=3), en [artikel 6, tweede lid, van de Wet op de Nederlandse Organisatie voor Wetenschappelijk Onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=6);
 
@@ -60,27 +36,27 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 1. In deze regeling wordt verstaan onder:
 
-- a). **Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+- a) *Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-- b). **Beklaagde:** een persoon die projectleider is (geweest) of werkzaam is (geweest) op een (deels) door NWO gefinancierd onderzoeksproject en over wiens gedraging een klacht is ingediend bij het NWO Meldpunt wetenschappelijke integriteit.
+- b) *Beklaagde:* een persoon die projectleider is (geweest) of werkzaam is (geweest) op een (deels) door NWO gefinancierd onderzoeksproject en over wiens gedraging een klacht is ingediend bij het NWO Meldpunt wetenschappelijke integriteit.
 
-- c). **Commissie wetenschappelijke integriteit instelling beklaagde:** De commissie wetenschappelijke integriteit van de instelling waar de beklaagde werkzaam is (geweest).
+- c) *Commissie wetenschappelijke integriteit instelling beklaagde:* De commissie wetenschappelijke integriteit van de instelling waar de beklaagde werkzaam is (geweest).
 
-- d). **Commissie wetenschappelijke integriteit NWO:** een door de raad van bestuur ingestelde commissie die de klacht inhoudelijk beoordeelt en de raad van bestuur informeert en adviseert over de bevindingen aangaande de klacht. De raad van bestuur kan een ad hoc commissie of een permanente commissie instellen.
+- d) *Commissie wetenschappelijke integriteit NWO:* een door de raad van bestuur ingestelde commissie die de klacht inhoudelijk beoordeelt en de raad van bestuur informeert en adviseert over de bevindingen aangaande de klacht. De raad van bestuur kan een ad hoc commissie of een permanente commissie instellen.
 
-- e). **Klacht:** een schriftelijke melding (waaronder tevens wordt verstaan e-mail) over (een vermoeden van) schending van de wetenschappelijke integriteit begaan door een persoon die projectleider is (geweest) of werkzaam is (geweest) op een (deels) door NWO gefinancierd onderzoeksproject.
+- e) *Klacht:* een schriftelijke melding (waaronder tevens wordt verstaan e-mail) over (een vermoeden van) schending van de wetenschappelijke integriteit begaan door een persoon die projectleider is (geweest) of werkzaam is (geweest) op een (deels) door NWO gefinancierd onderzoeksproject.
 
-- f). **Klager:** Degene die zich met een klacht wendt tot het NWO Meldpunt wetenschappelijke integriteit, al dan niet via de raad van bestuur of de vertrouwenspersoon.
+- f) *Klager:* Degene die zich met een klacht wendt tot het NWO Meldpunt wetenschappelijke integriteit, al dan niet via de raad van bestuur of de vertrouwenspersoon.
 
-- g). **LOWI:** Landelijk Orgaan voor Wetenschappelijke Integriteit.
+- g) *LOWI:* Landelijk Orgaan voor Wetenschappelijke Integriteit.
 
-- h). **Raad van bestuur:** de raad bestuur van NWO.
+- h) *Raad van bestuur:* de raad bestuur van NWO.
 
-- i). **Schending van de wetenschappelijke integriteit:** het overtreden van nationaal en internationaal aanvaarde normen van wetenschappelijk handelen, zoals uitgewerkt in de geldende Nederlandse Gedragscode wetenschappelijke integriteit.
+- i) *Schending van de wetenschappelijke integriteit:* het overtreden van nationaal en internationaal aanvaarde normen van wetenschappelijk handelen, zoals uitgewerkt in de geldende Nederlandse Gedragscode wetenschappelijke integriteit.
 
-- j). **Secretariaat Meldpunt:** de afdeling Juridische Zaken van NWO die fungeert als secretariaat van het NWO Meldpunt wetenschappelijke integriteit.
+- j) *Secretariaat Meldpunt:* de afdeling Juridische Zaken van NWO die fungeert als secretariaat van het NWO Meldpunt wetenschappelijke integriteit.
 
-- k). **Vertrouwenspersoon:** een persoon die als vertrouwenspersoon wetenschappelijke integriteit is benoemd door de raad van bestuur.
+- k) *Vertrouwenspersoon:* een persoon die als vertrouwenspersoon wetenschappelijke integriteit is benoemd door de raad van bestuur.
 
 2. Waar in deze regeling de termen ‘hij’, ‘hem’ of ‘zijn’ worden gebezigd, kan tevens worden gelezen ‘zij’ of ‘haar’.
 
@@ -92,15 +68,15 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 2. De klacht is opgesteld in de Nederlandse of Engelse taal, en bevat tenminste:
 
-- a). naam en adres van de klager. Een anonieme klacht wordt niet in behandeling genomen;
+- a) naam en adres van de klager. Een anonieme klacht wordt niet in behandeling genomen;
 
-- b). dagtekening;
+- b) dagtekening;
 
-- c). ondertekening door de klager;
+- c) ondertekening door de klager;
 
-- d). een omschrijving van de (vermeende) schending van de wetenschappelijke integriteit (uitgaande van de principes en de normen voor goede onderzoekspraktijken genoemd in de geldende Nederlandse Gedragscode wetenschappelijke integriteit);
+- d) een omschrijving van de (vermeende) schending van de wetenschappelijke integriteit (uitgaande van de principes en de normen voor goede onderzoekspraktijken genoemd in de geldende Nederlandse Gedragscode wetenschappelijke integriteit);
 
-- e). naam of omschrijving van de persoon/personen tegen wie de klacht zich richt, waarbij wordt aangegeven welke relatie er bestaat tussen de beklaagde en NWO-financiering.
+- e) naam of omschrijving van de persoon/personen tegen wie de klacht zich richt, waarbij wordt aangegeven welke relatie er bestaat tussen de beklaagde en NWO-financiering.
 
 3. Klager dient de klacht in onder gelijktijdige toezending van alle bewijsmiddelen die zijn klacht onderbouwen, voor zover hij hierover beschikt.
 
@@ -136,13 +112,13 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 De vertrouwenspersoon:
 
-- a). fungeert als aanspreekpunt voor vragen en klachten over wetenschappelijke integriteit;
+- a) fungeert als aanspreekpunt voor vragen en klachten over wetenschappelijke integriteit;
 
-- b). probeert – indien hij daartoe mogelijkheden ziet – door middel van bemiddeling tussen de betrokken partijen de klacht in der minne op te lossen;
+- b) probeert – indien hij daartoe mogelijkheden ziet – door middel van bemiddeling tussen de betrokken partijen de klacht in der minne op te lossen;
 
-- c). adviseert de raad van bestuur om de klacht te laten onderzoeken door de commissie wetenschappelijke integriteit NWO, wanneer deze niet in der minne kan worden opgelost;
+- c) adviseert de raad van bestuur om de klacht te laten onderzoeken door de commissie wetenschappelijke integriteit NWO, wanneer deze niet in der minne kan worden opgelost;
 
-- d). legt over zijn werkzaamheden achteraf verantwoording af aan de raad van bestuur in een jaarlijkse rapportage.
+- d) legt over zijn werkzaamheden achteraf verantwoording af aan de raad van bestuur in een jaarlijkse rapportage.
 
 ### Commissie wetenschappelijke integriteit NWO
 
@@ -154,19 +130,19 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 - 2. Leden van de commissie dienen over ten minste de volgende kwalificaties te beschikken:
 
-- a). geniet een onbesproken wetenschappelijke reputatie;
+   - a) geniet een onbesproken wetenschappelijke reputatie;
 
-- b). is geen werknemer van NWO en vervult geen bestuurlijke functie bij NWO;
+   - b) is geen werknemer van NWO en vervult geen bestuurlijke functie bij NWO;
 
-- c). ontvangt van NWO geen financiering ten behoeve van wetenschappelijk onderzoek.
+   - c) ontvangt van NWO geen financiering ten behoeve van wetenschappelijk onderzoek.
 
 - 3. De raad van bestuur kan de benoeming tussentijds beëindigen:
 
-- a). op eigen verzoek van de voorzitter of lid van de commissie;
+   - a) op eigen verzoek van de voorzitter of lid van de commissie;
 
-- b). indien de voorzitter of lid van de commissie niet langer voldoet aan de in lid 3 genoemde vereisten voor benoembaarheid;
+   - b) indien de voorzitter of lid van de commissie niet langer voldoet aan de in lid 3 genoemde vereisten voor benoembaarheid;
 
-- c). wegens disfunctioneren als voorzitter of lid van de commissie.
+   - c) wegens disfunctioneren als voorzitter of lid van de commissie.
 
 - 4. Vertrouwenspersonen van het meldpunt komen niet in aanmerking voor benoeming tot voorzitter of lid van de commissie.
 
@@ -180,11 +156,11 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 2. Het secretariaat:
 
-- a). adviseert de raad van bestuur over de vraag of de klacht door NWO in behandeling kan worden genomen en rapporteert hierover aan de vertrouwenspersoon;
+- a) adviseert de raad van bestuur over de vraag of de klacht door NWO in behandeling kan worden genomen en rapporteert hierover aan de vertrouwenspersoon;
 
-- b). ondersteunt de vertrouwenspersoon bij de uitvoering van zijn taken;
+- b) ondersteunt de vertrouwenspersoon bij de uitvoering van zijn taken;
 
-- c). ondersteunt de commissie wetenschappelijke integriteit NWO bij de uitvoering van haar taak.
+- c) ondersteunt de commissie wetenschappelijke integriteit NWO bij de uitvoering van haar taak.
 
 ### Procedure behandeling klacht
 
@@ -196,11 +172,11 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 3. De raad van bestuur kan besluiten tot het niet in behandeling nemen van een klacht indien:
 
-- a). deze niet voldoet aan de in [artikel 2 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042286&artikel=2&z=2020-04-07&g=2020-04-07), van deze regeling gestelde vereisten, mits de klager de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde redelijke termijn;
+- a) deze niet voldoet aan de in [artikel 2 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042286&artikel=2&z=2020-04-07&g=2020-04-07), van deze regeling gestelde vereisten, mits de klager de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde redelijke termijn;
 
-- b). geen financieringsrelatie met NWO ontstaat of de klacht aan het oordeel van een commissie wetenschappelijke integriteit van een andere instelling kan worden onderworpen;
+- b) geen financieringsrelatie met NWO ontstaat of de klacht aan het oordeel van een commissie wetenschappelijke integriteit van een andere instelling kan worden onderworpen;
 
-- c). deze reeds aan het oordeel van een commissie wetenschappelijke integriteit van een andere instelling of rechterlijke instantie is onderworpen, of onderworpen is geweest.
+- c) deze reeds aan het oordeel van een commissie wetenschappelijke integriteit van een andere instelling of rechterlijke instantie is onderworpen, of onderworpen is geweest.
 
 ##### Artikel 8. Bemiddeling door vertrouwenspersoon
 
@@ -212,17 +188,17 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 1. Indien de klacht inhoudelijk wordt behandeld door de commissie wetenschappelijke integriteit NWO, gaat de commissie over tot het horen van de betrokkenen.
 
-- •. De commissie hoort de naar haar oordeel in aanmerking komende betrokkenen bij de klacht, waaronder in ieder geval klager en beklaagde.
+- • De commissie hoort de naar haar oordeel in aanmerking komende betrokkenen bij de klacht, waaronder in ieder geval klager en beklaagde.
 
-- •. Betrokkenen kunnen zich laten bijstaan door een gemachtigde.
+- • Betrokkenen kunnen zich laten bijstaan door een gemachtigde.
 
-- •. Het horen geschiedt niet in het openbaar.
+- • Het horen geschiedt niet in het openbaar.
 
-- •. De commissie kan getuigen en deskundigen horen.
+- • De commissie kan getuigen en deskundigen horen.
 
-- •. Van het horen wordt een verslag of geluidsopname gemaakt.
+- • Van het horen wordt een verslag of geluidsopname gemaakt.
 
-- •. De betrokkenen worden gehoord in elkaars aanwezigheid, tenzij er zwaarwegende redenen zijn dit niet te doen. In dat geval wordt/worden de niet-aanwezige betrokkene(n) op de hoogte gesteld van hetgeen tijdens het horen buiten zijn aanwezigheid is besproken.
+- • De betrokkenen worden gehoord in elkaars aanwezigheid, tenzij er zwaarwegende redenen zijn dit niet te doen. In dat geval wordt/worden de niet-aanwezige betrokkene(n) op de hoogte gesteld van hetgeen tijdens het horen buiten zijn aanwezigheid is besproken.
 
 2. De commissie wetenschappelijke integriteit NWO kan inzage vragen in alle documentatie en correspondentie die zij voor de beoordeling van de klacht van belang acht.
 
@@ -230,13 +206,13 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 4. In het advies van de commissie is ten minste opgenomen:
 
-- a). Een beschrijving van de gevolgde procedure;
+- a) Een beschrijving van de gevolgde procedure;
 
-- b). Een omschrijving van de standpunten van de betrokken partijen, alsmede de zienswijze van eventueel geraadpleegde getuigen en/of deskundigen;
+- b) Een omschrijving van de standpunten van de betrokken partijen, alsmede de zienswijze van eventueel geraadpleegde getuigen en/of deskundigen;
 
-- c). Of de klacht naar oordeel van de commissie gegrond of ongegrond is en, in geval van gegrondbevinding, welke van de kwalificaties als bedoeld in paragraaf 5.2 van de Nederlandse Gedragscode Wetenschappelijke Integriteit daar naar haar oordeel aan moet worden toegekend;
+- c) Of de klacht naar oordeel van de commissie gegrond of ongegrond is en, in geval van gegrondbevinding, welke van de kwalificaties als bedoeld in paragraaf 5.2 van de Nederlandse Gedragscode Wetenschappelijke Integriteit daar naar haar oordeel aan moet worden toegekend;
 
-- d). De motivering van het oordeel van de commissie.
+- d) De motivering van het oordeel van de commissie.
 
 5. Het advies van de commissie wordt ter kennisgeving voorgelegd aan de vertrouwenspersoon.
 
@@ -272,6 +248,6 @@ In gevallen waarin deze regeling niet voorziet beslist de raad van bestuur.
 
 ##### Artikel 13. Inwerkingtreding en bekendmaking
 
-1. Deze regeling treedt in werking op 1 juni 2019 en vervangt de Klachtenregeling wetenschappelijke integriteit – subsidieverlening.
+1. Deze regeling treedt in werking op 1 juni 2019 en vervangt de Klachtenregeling wetenschappelijke integriteit – subsidieverlening.
 
 2. Deze regeling kan worden aangehaald als ‘Klachtenregeling Wetenschappelijke Integriteit NWO’ en wordt gepubliceerd op de website van NWO.

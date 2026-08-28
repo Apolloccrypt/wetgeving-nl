@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 11 juni 2019, nr. 2575852, houdende instelling van de Commissie Telefonie Justitiabelen [Instellingsbesluit Commissie Telefonie voor Justitiabelen]"
+citeertitel: "Instellingsbesluit Commissie Telefonie voor Justitiabelen"
 identifier: "BWBR0042310"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-06-22"
-last_updated: "2019-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042310"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15097423"
-version_id: "25880362"
-internal_id: "C36885701"
-label_id: "15045934"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042310/2019-06-22/0"
-intitule_bron: "Stcrt.2019-33971"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-11"
-intitule_published: "2019-06-21"
-intitule_in_force: "2019-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-33971"
-original_signed_date: "2019-06-11"
-original_published_date: "2019-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-33971"
-entry_into_force_date: "2019-06-22"
-jci_1_3: "jci1.3:c:BWBR0042310&z=2019-06-22&g=2019-06-22"
-jci_1_0: "1.0:c:BWBR0042310&g=2019-06-22"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Telefonie voor Justitiabelen"
-signed_date: "2019-06-11"
-entry_into_force: "2019-06-22"
+publicatiedatum: 2019-06-22
+laatste_update: 2019-06-22
+status: geldig
+toestand: 2019-06-22
+bron: "https://wetten.overheid.nl/BWBR0042310"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 11 juni 2019, nr. 2575852, houdende instelling van de Commissie Telefonie Justitiabelen [Instellingsbesluit Commissie Telefonie voor Justitiabelen]
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister voor Rechtsbescherming;
+- a. *Minister:* Minister voor Rechtsbescherming;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042310&artikel=2&z=2019-06-22&g=2019-06-22);
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042310&artikel=2&z=2019-06-22&g=2019-06-22);
 
-- c. **Ministerie:** Ministerie van Justitie en Veiligheid.
+- c. *Ministerie:* Ministerie van Justitie en Veiligheid.
 
 ##### Artikel 2. Instelling en taak
 
@@ -171,5 +145,3 @@ Rapporten, notities, verslagen, adviezen en andere producten die door of namens 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Telefonie voor Justitiabelen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

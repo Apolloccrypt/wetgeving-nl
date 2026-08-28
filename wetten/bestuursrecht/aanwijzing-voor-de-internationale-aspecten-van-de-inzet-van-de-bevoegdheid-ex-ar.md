@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing voor de internationale aspecten van de inzet van de bevoegdheid ex art. 126nba Sv"
 identifier: "BWBR0041956"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-03-01"
-last_updated: "2019-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041956"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "15012703"
-version_id: "25716502"
-internal_id: "C36681331"
-label_id: "14962784"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041956/2019-03-01/0"
-intitule_bron: "Stcrt.2019-10277"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-02-26"
-intitule_in_force: "2019-02-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-10277"
-original_published_date: "2019-02-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-10277"
-entry_into_force_date: "2019-03-01"
-jci_1_3: "jci1.3:c:BWBR0041956&z=2019-03-01&g=2019-03-01"
-jci_1_0: "1.0:c:BWBR0041956&g=2019-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-03-01"
+publicatiedatum: 2019-03-01
+laatste_update: 2019-03-01
+status: geldig
+toestand: 2019-03-01
+bron: "https://wetten.overheid.nl/BWBR0041956"
+opgehaald: 2026-08-28
 ---
+
 # Aanwijzing voor de internationale aspecten van de inzet van de bevoegdheid ex art. 126nba Sv
 
 ### Samenvatting
@@ -56,11 +37,11 @@ Indien op het moment waarop aan de rechter-commissaris machtiging voor de inzet 
 
 ### 1.4. Locatie van de gegevens is niet bekend
 
-Een kenmerk van geautomatiseerd verwerkte gegevens is dat de locatie waar zij zijn opgeslagen, steeds vaker niet op voorhand duidelijk is. In deze situatie is er onvoldoende informatie om een rechtshulpverzoek te doen, en kan bovendien niet worden uitgesloten dat de gegevens in Nederland staan. In een dergelijke situatie wordt onderzocht of met een redelijke inspanning (zie § 2.2. hierna) een locatie in een specifiek buitenland kan worden vastgesteld. Als dat niet het geval is wordt gehandeld alsof de gegevens in Nederland zijn opgeslagen.
+Een kenmerk van geautomatiseerd verwerkte gegevens is dat de locatie waar zij zijn opgeslagen, steeds vaker niet op voorhand duidelijk is. In deze situatie is er onvoldoende informatie om een rechtshulpverzoek te doen, en kan bovendien niet worden uitgesloten dat de gegevens in Nederland staan. In een dergelijke situatie wordt onderzocht of met een redelijke inspanning (zie [§ 2.2](https://wetten.overheid.nl/BWBR0041956). hierna) een locatie in een specifiek buitenland kan worden vastgesteld. Als dat niet het geval is wordt gehandeld alsof de gegevens in Nederland zijn opgeslagen.
 
 ### 1.5. Locatie van de gegevens wordt bekend tijdens de onderzoekshandelingen
 
-Als tijdens de onderzoekshandelingen blijkt dat deze gericht zijn op gegevens die zich op het territorium van een specifieke andere staat bevinden, wordt zo snel mogelijk alsnog een rechtshulpverzoek gedaan aan de desbetreffende staat voor het gebruik van deze gegevens en het onderzoek (zie § 2.2. hierna) of besloten de onderzoekshandelingen te stoppen.
+Als tijdens de onderzoekshandelingen blijkt dat deze gericht zijn op gegevens die zich op het territorium van een specifieke andere staat bevinden, wordt zo snel mogelijk alsnog een rechtshulpverzoek gedaan aan de desbetreffende staat voor het gebruik van deze gegevens en het onderzoek (zie [§ 2.2](https://wetten.overheid.nl/BWBR0041956). hierna) of besloten de onderzoekshandelingen te stoppen.
 
 ### 2. Uitzonderingen
 
@@ -70,6 +51,16 @@ Er kunnen zich situaties voordoen waarbij de hierboven omschreven uitgangspunten
 
 ### 2.2. Scenario’s waarin mogelijk zonder voorafgaande toestemming wordt opgetreden
 
+- a) De locatie van de gegevens is bekend, er is een rechtshulp verzoek gedaan, maar er kan niet (langer) worden gewacht op een reactie of er is geen reactie van het land te verwachten (zie [§ 2.4](https://wetten.overheid.nl/BWBR0041956). hierna)
+
+- b) De locatie van de gegevens is nog niet bekend op het moment dat de bevoegdheid wordt uitgeoefend en er onderzoekshandelingen worden uitgevoerd. Tijdens het onderzoek wordt de locatie echter wel bekend. *In een dergelijk geval kan besloten worden (zie § 2.4. hierna) om:*
+
+   - − *een rechtshulpverzoek te doen en de inzet te staken in afwachting van de reactie op het rechtshulpverzoek of*
+
+   - − *zo snel mogelijk een rechtshulpverzoek te doen en in afwachting van de reactie op het rechtshulpverzoek de inzet van de bevoegdheid te voltooien.*
+
+- c) Als de locatie van de gegevens met een redelijke inspanning niet kan worden vastgesteld. *In een dergelijk situatie wordt ervan uitgegaan dat de gegevens in Nederland staan en worden de Nederlandse rechtsregels toegepast.* De *redelijkheid* is sterk afhankelijk van het concrete geval. In gevallen waarbij onverwijld optreden noodzakelijk is, denk bijvoorbeeld aan grootschalige aanvallen op de Nederlandse infrastructuur of in het geval van levensbedreigende situaties, kan er mede gelet op de omstandigheden van het geval (bijvoorbeeld het gebruik van anonimiseringssoftware of opslag in de cloud) redelijkerwijs geen mogelijkheid zijn om de exacte locatie van de gegevens of het geautomatiseerd werk vast te stellen. Bij een *redelijke inspanning*staan de tijd en moeite voor het vaststellen van een specifieke geografische locatie in een reële verhouding tot de noodzakelijkheid van onverwijld optreden5In de Memorie van Toelichting bij de wet Computercriminaliteit III wordt het concrete voorbeeld gegeven van een DDoS-aanval op een overheidsdienst of een financiële instelling in Nederland waardoor de online dienstverlening gedurende langere tijd wordt onderbroken (Kamerstukken II 2015/16, 34 327, 3, p. 47.)., de tijdsdruk en de doorlooptijd van het onderzoek6Bij concrete inspanningen kan bijvoorbeeld worden gedacht aan het raadplegen van de WHOIS informatie van ICANN, het zo mogelijk vorderen van gegevens bij Nederlandse internetdienstaanbieders waar de verdachte mogelijk gebruik van maakt of het analyseren van in het onderzoek beschikbaar internetverkeer (netflow en/of traceroutes)..
+
 ### 2.3. Procedure
 
 In de scenario’s a) en b) bespreekt de zaaksofficier van justitie de context van de aanvaarde soevereiniteitsschending met de landelijk officier van justitie bij het Landelijk Parket, die is aangewezen voor de voorbereiding en concrete inzet van de bevoegdheid ex [art. 126nba Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba). De zaaksofficier van justitie legt vervolgens een met redenen omkleed besluit ter instemming voor aan de rechercheofficier van justitie van zijn of haar arrondissementsparket.
@@ -77,6 +68,28 @@ In de scenario’s a) en b) bespreekt de zaaksofficier van justitie de context v
 ### 2.4. Afwegingscriteria
 
 Bij de afweging om in concrete gevallen a) en b) zonder voorafgaande toestemming te handelen zijn de volgende elementen van belang:
+
+- − Ernst of onmiddellijkheid van de gevolgen van de aanval of dreiging
+
+- − Aard en ernst van het strafbare feit
+
+- − Vluchtigheid van de gegevens of informatie die wordt gezocht, en of die moet worden veiliggesteld, danwel ontoegankelijk moet worden gemaakt
+
+- − Mate van betrokkenheid van de Nederlandse rechtsorde en de gevolgen daarvoor (inclusief slachtofferbelangen)
+
+- − De aard van de te verrichten opsporingshandelingen:
+
+   - ○ Afhankelijk van de mate van ingrijpendheid
+
+   - ○ Mate van inbreuk op de privacy van de verdachte
+
+   - ○ Mate van inbreuk op privacy van slachtoffers die middels het geautomatiseerde werk wordt gemaakt
+
+- − Risico's voor het geautomatiseerde werk:
+
+   - ○ Technische risico’s
+
+   - ○ Inschatting van de mogelijke schade voor derden
 
 ### Overgangsrecht
 

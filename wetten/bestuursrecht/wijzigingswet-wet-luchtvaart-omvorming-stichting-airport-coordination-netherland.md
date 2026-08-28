@@ -1,51 +1,22 @@
 ---
 title: "Wet van 27 maart 2018 tot wijziging van de Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)"
+citeertitel: "Wijzigingswet Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)"
 identifier: "BWBR0042126"
-country: "nl"
-rank: "wet"
-publication_date: "2020-07-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042126"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "15054953"
-version_id: "25800022"
-internal_id: "C37605541"
-label_id: "15004134"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042126/2020-07-01/0"
-intitule_bron: "Stb.2019-150"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-27"
-intitule_published: "2019-04-19"
-intitule_in_force: "2020-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2019-150"
-original_signed_date: "2019-03-27"
-original_published_date: "2019-04-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "35060"
-original_url_id: "stb-2019-150"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0042126&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0042126&g=2020-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)"
-signed_date: "2019-03-27"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0042126"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 27 maart 2018 tot wijziging van de Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is dat de Stichting Airport Coordination Netherlands wordt omgevormd tot een publiekrechtelijk zelfstandig bestuursorgaan;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet luchtvaart.
+*Wijzigt de Wet luchtvaart.*
 
 ##### Artikel II
 
@@ -80,5 +51,3 @@ Onze Minister van Infrastructuur en Waterstaat zendt binnen vijf jaar na de inwe
 ##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

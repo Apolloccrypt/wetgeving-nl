@@ -1,41 +1,17 @@
 ---
 title: "Regeling WPG Defensie"
 identifier: "BWBR0041791"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041791"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14940893"
-version_id: "25586692"
-internal_id: "C36515371"
-label_id: "14891404"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041791/2020-01-01/0"
-intitule_bron: "Stcrt.2018-72552"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-16"
-intitule_published: "2018-12-27"
-intitule_in_force: "2018-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-72552"
-original_signed_date: "2018-12-16"
-original_published_date: "2018-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-72552"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041791&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0041791&g=2020-01-01"
-citeertitel_status: "officieel"
-signed_date: "2018-12-16"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0041791"
+opgehaald: 2026-08-28
 ---
-# Regeling WPG Defensie
 
-Besluit:
+# Regeling WPG Defensie
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -43,27 +19,28 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Richtlijn:** Richtlijn (EU) 2016/680 van het Europees parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van Kaderbesluit 2008/977/JBZ van de Raad;
+- a. *Richtlijn:* Richtlijn (EU) 2016/680 van het Europees parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van Kaderbesluit 2008/977/JBZ van de Raad;
 
-- b. **wet:** [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463);
+- b. *wet:*
+ [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463);
 
-- c. **minister:** Minister van Defensie;
+- c. *minister:* Minister van Defensie;
 
-- d. **ministerie:** Ministerie van Defensie
+- d. *ministerie:* Ministerie van Defensie
 
-- e. **politiegegeven, persoonsgegeven, gerelateerde gegevens, bestand, verwerken van politiegegevens, verstrekken van politiegegevens, ter beschikking stellen van politiegegevens, afschermen van politiegegevens, verwerkingsverantwoordelijke, betrokkene, verwerker; bevoegde autoriteit, ontvanger, derde land, internationale organisatie, inbreuk op de beveiliging, genetische gegevens, biometrische gegevens, gegevens over gezondheid, profilering:** de definities daarvan, genoemd in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
+- e. *politiegegeven, persoonsgegeven, gerelateerde gegevens, bestand, verwerken van politiegegevens, verstrekken van politiegegevens, ter beschikking stellen van politiegegevens, afschermen van politiegegevens, verwerkingsverantwoordelijke, betrokkene, verwerker; bevoegde autoriteit, ontvanger, derde land, internationale organisatie, inbreuk op de beveiliging, genetische gegevens, biometrische gegevens, gegevens over gezondheid, profilering:* de definities daarvan, genoemd in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
 
-- f. **bijzondere categorieën van politiegegevens:** de politiegegevens, genoemd in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=5);
+- f. *bijzondere categorieën van politiegegevens:* de politiegegevens, genoemd in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=5);
 
-- g. **ambtenaar van politie:** de ambtenaar van de Koninklijke Marechaussee voor zover werkzaam in de uitvoering van de politietaak;
+- g. *ambtenaar van politie:* de ambtenaar van de Koninklijke Marechaussee voor zover werkzaam in de uitvoering van de politietaak;
 
-- h. **politietaak:** de politietaak, genoemd in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), met uitzondering van de bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) opgedragen taken, bedoeld in artikel 4, onderdeel f, van de Politiewet 2012 en de politietaak als bedoeld in [artikel 36b, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36b);
+- h. *politietaak:* de politietaak, genoemd in [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), met uitzondering van de bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) opgedragen taken, bedoeld in artikel 4, onderdeel f, van de Politiewet 2012 en de politietaak als bedoeld in [artikel 36b, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36b);
 
-- i. **verwerkingsverantwoordelijke:** de minister;
+- i. *verwerkingsverantwoordelijke:* de minister;
 
-- j. **bevoegde autoriteit:** de Koninklijke Marechaussee;
+- j. *bevoegde autoriteit:* de Koninklijke Marechaussee;
 
-- k. **Autoriteit persoonsgegevens:** Autoriteit persoonsgegevens als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=35).
+- k. *Autoriteit persoonsgegevens:* Autoriteit persoonsgegevens als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=35).
 
 ##### Artikel 1.2. Reikwijdte
 
@@ -75,7 +52,7 @@ Deze regeling is van toepassing op verwerking van politiegegevens door de Konink
 
 2. De Wpg-beheerder draagt zorg voor naleving van de regelgeving omtrent verwerking van politiegegevens door de Koninklijke Marechaussee. Hij doet dit namens de minister.
 
-3. Ieder jaar rapporteert de Wpg-beheerder zijn bevindingen aan de functionaris voor gegevensbescherming WPG. Hij doet dit uiterlijk op 31 december van dat jaar.
+3. Ieder jaar rapporteert de Wpg-beheerder zijn bevindingen aan de functionaris voor gegevensbescherming WPG. Hij doet dit uiterlijk op 31 december van dat jaar.
 
 4. De Wpg-beheerder zorgt er voor dat contacten met de Autoriteit persoonsgegevens geschieden door tussenkomst van de functionaris voor gegevensbescherming WPG.
 
@@ -227,7 +204,7 @@ De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de
 
 2. Het verzoek kan namens betrokkene worden gedaan door de Autoriteit persoonsgegevens of door de advocaat van betrokkene. Betrokkene machtigt zijn advocaat met een bijzondere, daartoe strekkende schriftelijke machtiging.
 
-3. Het verzoek kan namens betrokkene worden gedaan door zijn wettelijk vertegenwoordiger als betrokkene jonger is dan 16 jaar of onder curatele is gesteld.
+3. Het verzoek kan namens betrokkene worden gedaan door zijn wettelijk vertegenwoordiger als betrokkene jonger is dan 16 jaar of onder curatele is gesteld.
 
 4. De Wpg-beheerder neemt het verzoek in behandeling.
 
@@ -243,13 +220,13 @@ De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de
 
 - b. voor zover dit een noodzakelijke en evenredige maatregel is
 
-- 1e. ter vermijding van belemmering van de gerechtelijke onderzoeken of procedures;
+   - 1e. ter vermijding van belemmering van de gerechtelijke onderzoeken of procedures;
 
-- 2e. ter vermijding van nadelige gevolgen voor de voorkoming, de opsporing, het onderzoek en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen;
+   - 2e. ter vermijding van nadelige gevolgen voor de voorkoming, de opsporing, het onderzoek en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen;
 
-- 3e. ter bescherming van de openbare of de nationale veiligheid; of
+   - 3e. ter bescherming van de openbare of de nationale veiligheid; of
 
-- 4e. ter bescherming van de rechten en vrijheden van derden.
+   - 4e. ter bescherming van de rechten en vrijheden van derden.
 
 7. Op een verzoek om inzage in de gegevens wordt binnen zes weken beslist, tenzij sprake is van verdaging als bedoeld in [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=25).
 
@@ -261,7 +238,7 @@ De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de
 
 ##### Artikel 5.3. Bezwaar
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 6. Juistheid, volledigheid, beveiliging en beheer
 
@@ -313,10 +290,8 @@ De Secretaris-Generaal kan nadere aanwijzingen geven ter uitvoering van het bepa
 
 ##### Artikel 9.1. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2019. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2018, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2019.
+Deze regeling treedt in werking met ingang van 1 januari 2019. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2018, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2019.
 
 ##### Artikel 9.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling WPG Defensie.
-
-Deze regeling zal met de toelichting worden geplaatst in de Staatscourant.

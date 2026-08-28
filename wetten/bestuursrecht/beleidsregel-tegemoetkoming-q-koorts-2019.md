@@ -1,72 +1,46 @@
 ---
 title: "Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 9 juli 2019, kenmerk 1516264-189438-PG, over regels voor de verstrekking van een tegemoetkoming in verband met de grote gevolgen van de Q-koortsuitbraak (Beleidsregel tegemoetkoming Q-koorts 2019)"
+citeertitel: "Beleidsregel tegemoetkoming Q-koorts 2019"
 identifier: "BWBR0042403"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-08-01"
-last_updated: "2019-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042403"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "15120753"
-version_id: "25922062"
-internal_id: "C36934561"
-label_id: "15068954"
-dtd_version: "2.0"
-original_entry_into_force: "2019-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042403/2019-08-01/0"
-intitule_bron: "Stcrt.2019-39315"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-09"
-intitule_published: "2019-07-11"
-intitule_in_force: "2019-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-39315"
-original_signed_date: "2019-07-09"
-original_published_date: "2019-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-39315"
-entry_into_force_date: "2019-08-01"
-jci_1_3: "jci1.3:c:BWBR0042403&z=2019-08-01&g=2019-08-01"
-jci_1_0: "1.0:c:BWBR0042403&g=2019-08-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel tegemoetkoming Q-koorts 2019"
-signed_date: "2019-07-09"
-entry_into_force: "2019-08-01"
+publicatiedatum: 2019-08-01
+laatste_update: 2019-08-01
+status: geldig
+toestand: 2019-08-01
+bron: "https://wetten.overheid.nl/BWBR0042403"
+opgehaald: 2026-08-28
 ---
+
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 9 juli 2019, kenmerk 1516264-189438-PG, over regels voor de verstrekking van een tegemoetkoming in verband met de grote gevolgen van de Q-koortsuitbraak (Beleidsregel tegemoetkoming Q-koorts 2019)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **Q-koorts:** infectieziekte die kan overgaan van dieren op mensen, veroorzaakt door de bacterie **Coxiel/a burnetii;**
+- *Q-koorts:* infectieziekte die kan overgaan van dieren op mensen, veroorzaakt door de bacterie *Coxiel/a burnetii;*
 
-- **Q-koortsuitbraak:** de uitbraak van Q-koorts in Nederland in de periode van 1 januari 2007 tot en met 31 december 2010;
+- *Q-koortsuitbraak:* de uitbraak van Q-koorts in Nederland in de periode van 1 januari 2007 tot en met 31 december 2010;
 
-- **Q-koortspatiënt:** een nog in leven zijnde natuurlijke persoon die in de periode van 1 januari 2005 tot en met 31 december 2012 in Nederland is besmet met Q­ koorts;
+- *Q-koortspatiënt:* een nog in leven zijnde natuurlijke persoon die in de periode van 1 januari 2005 tot en met 31 december 2012 in Nederland is besmet met Q­ koorts;
 
-- **chronische Q-koorts:** aandoening met langdurige ernstige klachten als gevolg van een acute Q-koortsinfectie, die blijkens bloedonderzoek heeft geleid tot een chronische infectie;
+- *chronische Q-koorts:* aandoening met langdurige ernstige klachten als gevolg van een acute Q-koortsinfectie, die blijkens bloedonderzoek heeft geleid tot een chronische infectie;
 
-- **Q-koortsvermoeidheidssyndroom (QVS):** aandoening met ten minste zes maanden voortdurende klachten van ernstige vermoeidheid als gevolg van een acute Q­ koortsinfectie die niet tot chronische Q-koorts heeft geleid, en niet door andere oorzaken te verklaren zijn;
+- *Q-koortsvermoeidheidssyndroom (QVS):* aandoening met ten minste zes maanden voortdurende klachten van ernstige vermoeidheid als gevolg van een acute Q­ koortsinfectie die niet tot chronische Q-koorts heeft geleid, en niet door andere oorzaken te verklaren zijn;
 
-- **QVS gelijkend ziektebeeld:** op QVS gelijkend ziektebeeld met ten minste zes maanden durende klachten van ernstige vermoeidheid als gevolg van een acute Q-koortsinfectie die niet tot chronische Q-koorts heeft geleid, die niet afdoende door andere oorzaken te verklaren zijn;
+- *QVS gelijkend ziektebeeld:* op QVS gelijkend ziektebeeld met ten minste zes maanden durende klachten van ernstige vermoeidheid als gevolg van een acute Q-koortsinfectie die niet tot chronische Q-koorts heeft geleid, die niet afdoende door andere oorzaken te verklaren zijn;
 
-- **nabestaanden:**
+- *nabestaanden:*
 
-- 1°. de ten tijde van het overlijden niet van tafel en bed gescheiden echtgenoot of geregistreerde partner, of de levensgezel die ten tijde van het overlijden met de overledene een gezamenlijke huishouding voerde;
+   - 1° de ten tijde van het overlijden niet van tafel en bed gescheiden echtgenoot of geregistreerde partner, of de levensgezel die ten tijde van het overlijden met de overledene een gezamenlijke huishouding voerde;
 
-- 2°. bij ontstentenis van de onder 1° bedoelde persoon, de kinderen tot wie de overledene in familierechtelijke betrekking stond;
+   - 2° bij ontstentenis van de onder 1° bedoelde persoon, de kinderen tot wie de overledene in familierechtelijke betrekking stond;
 
-- 3°. bij ontstentenis van de onder 1° en 2° bedoelde personen, de overige bloedverwanten van de overledene in de eerste graad.
+   - 3° bij ontstentenis van de onder 1° en 2° bedoelde personen, de overige bloedverwanten van de overledene in de eerste graad.
 
-- **Minister:** Minister voor Medische Zorg;
+- *Minister:* Minister voor Medische Zorg;
 
-- **tegemoetkoming:** een eenmalige financiële bijdrage als gebaar ter erkenning van de grote gevolgen van de Q-koortsuitbraak voor een Q-koortspatiënt met chronische Q-koorts, QVS of een QVS gelijkend ziektebeeld, of voor de nabestaanden van patiënten die zijn overleden met chronische Q-koorts.
+- *tegemoetkoming:* een eenmalige financiële bijdrage als gebaar ter erkenning van de grote gevolgen van de Q-koortsuitbraak voor een Q-koortspatiënt met chronische Q-koorts, QVS of een QVS gelijkend ziektebeeld, of voor de nabestaanden van patiënten die zijn overleden met chronische Q-koorts.
 
 ##### Artikel 2. Het recht op een eenmalige tegemoetkoming
 
@@ -96,7 +70,7 @@ De tegemoetkoming bedraagt € 15.000 per toegewezen aanvraag.
 
 - a. de gegevens waarnaar in het aanvraagformulier wordt gevraagd;
 
-- b. een verklaring dat hij is gediagnosticeerd met chronische Q-koorts, met QVS of een op QVS gelijkend ziektebeeld, als gevolg van een besmetting met Q-koorts in de periode van 1 januari 2005 tot en met 31 december **2012;**
+- b. een verklaring dat hij is gediagnosticeerd met chronische Q-koorts, met QVS of een op QVS gelijkend ziektebeeld, als gevolg van een besmetting met Q-koorts in de periode van 1 januari 2005 tot en met 31 december *2012;*
 
 - c. een machtiging om gegevens bij de behandelend medisch beroepsbeoefenaren of Q-support op te vragen die noodzakelijk zijn voor de beoordeling van de aanvraag; en
 
@@ -157,5 +131,3 @@ De [Beleidsregel tegemoetkoming Q-koorts](https://wetten.overheid.nl/jci1.3:c:BW
 ##### Artikel 14. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel tegemoetkoming Q-koorts 2019.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 23 april 2019 nr. 1394232, houdende de instelling van een klachtencommissie ongewenste omgangsvormen bij het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling Klachtencommissie ongewenste omgangsvormen OCW 2019)"
+citeertitel: "Regeling Klachtencommissie ongewenste omgangsvormen OCW 2019"
 identifier: "BWBR0042227"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-05-24"
-last_updated: "2019-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042227"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15078153"
-version_id: "25843622"
-internal_id: "C36839511"
-label_id: "15026984"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042227/2019-05-24/0"
-intitule_bron: "Stcrt.2019-28638"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-23"
-intitule_published: "2019-05-23"
-intitule_in_force: "2019-05-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-28638"
-original_signed_date: "2019-04-23"
-original_published_date: "2019-05-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-28638"
-entry_into_force_date: "2019-05-24"
-jci_1_3: "jci1.3:c:BWBR0042227&z=2019-05-24&g=2019-05-24"
-jci_1_0: "1.0:c:BWBR0042227&g=2019-05-24"
-citeertitel_status: "officieel"
-short_title: "Regeling Klachtencommissie ongewenste omgangsvormen OCW 2019"
-signed_date: "2019-04-23"
-entry_into_force: "2019-05-24"
+publicatiedatum: 2019-05-24
+laatste_update: 2019-05-24
+status: geldig
+toestand: 2019-05-24
+bron: "https://wetten.overheid.nl/BWBR0042227"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 23 april 2019 nr. 1394232, houdende de instelling van een klachtencommissie ongewenste omgangsvormen bij het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling Klachtencommissie ongewenste omgangsvormen OCW 2019)
-
-Gelet op [artikel 9:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14), [artikel 3, tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3) en [artikel 6, eerste lid, van de Klachtenregeling seksuele intimidatie burgerlijk rijkspersoneel;](https://wetten.overheid.nl/jci1.3:c:BWBR0006835&artikel=6)
-
-Met instemming van de Departementale Ondernemingsraad en gehoord het Departementaal Georganiseerd Overleg van het Ministerie van Onderwijs, Cultuur en Wetenschap;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -48,25 +20,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **beklaagde:** degene op wie de klacht betrekking heeft;
+- *beklaagde:* degene op wie de klacht betrekking heeft;
 
-- **commissie:** klachtencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042227&paragraaf=3&artikel=3&z=2019-05-24&g=2019-05-24);
+- *commissie:* klachtencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042227&paragraaf=3&artikel=3&z=2019-05-24&g=2019-05-24);
 
-- **hoofd P&O:** hoofd van het domein P&O bij het ministerie, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0042227&paragraaf=3&artikel=10&z=2019-05-24&g=2019-05-24);
+- *hoofd P&O:* hoofd van het domein P&O bij het ministerie, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0042227&paragraaf=3&artikel=10&z=2019-05-24&g=2019-05-24);
 
-- **klager:** medewerker die een klacht heeft ingediend bij de commissie;
+- *klager:* medewerker die een klacht heeft ingediend bij de commissie;
 
-- **medewerker:** degene die werkzaamheden verricht of heeft verricht bij het ministerie of onder haar ressorterende diensten;
+- *medewerker:* degene die werkzaamheden verricht of heeft verricht bij het ministerie of onder haar ressorterende diensten;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **ministerie:** Ministerie van Onderwijs, Cultuur en Wetenschap;
+- *ministerie:* Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- **ongewenste omgangsvormen:** iedere vorm van sociale interactie waarbij sprake is van factoren van direct of indirect onderscheid in de arbeidssituatie die stress teweegbrengen, met inbegrip van intimidatie, seksuele intimidatie, agressie, geweld en pesten;
+- *ongewenste omgangsvormen:* iedere vorm van sociale interactie waarbij sprake is van factoren van direct of indirect onderscheid in de arbeidssituatie die stress teweegbrengen, met inbegrip van intimidatie, seksuele intimidatie, agressie, geweld en pesten;
 
-- **secretaris-generaal:** secretaris-generaal van het Ministerie van Onderwijs, Cultuur en Wetenschap;
+- *secretaris-generaal:* secretaris-generaal van het Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- **vertrouwenspersoon:** een als zodanig aangewezen persoon.
+- *vertrouwenspersoon:* een als zodanig aangewezen persoon.
 
 #### § 2. Werkingsgebied
 
@@ -82,11 +54,11 @@ De medewerker die wordt of is geconfronteerd met ongewenste omgangsvormen kan zi
 
 2. De commissie bestaat uit:
 
-- –. een voorzitter, tevens lid,
+- – een voorzitter, tevens lid,
 
-- –. een plaatsvervangend voorzitter, tevens lid, en
+- – een plaatsvervangend voorzitter, tevens lid, en
 
-- –. vier overige leden.
+- – vier overige leden.
 
 ##### Artikel 4
 
@@ -197,5 +169,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling Klachtencommissie ongewenste omgangsvormen OCW 2019.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,38 +1,23 @@
 ---
 title: "Circulaire 2019 (onkosten)vergoeding voor politieke ambtsdragers van gemeenten, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
 identifier: "BWBR0041752"
-country: "nl"
-rank: "circulaire"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041752"
+categorie: "Bestuursrecht"
 soort: "circulaire"
-stam_id: "14927403"
-version_id: "25552832"
-internal_id: "C36475891"
-label_id: "14878684"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041752/2019-01-01/0"
-intitule_bron: "Stcrt.2018-72287"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-12-24"
-intitule_in_force: "2018-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-72287"
-original_published_date: "2018-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-72287"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041752&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0041752&g=2019-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0041752"
+opgehaald: 2026-08-28
 ---
+
 # Circulaire 2019 (onkosten)vergoeding voor politieke ambtsdragers van gemeenten, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-**Met ingang van 1 januari 2019 zullen circulaires met betrekking tot de rechtspositie van politieke ambtsdragers uitsluitend nog bekend worden gemaakt op de site van de officiële bekendmakingen (Staatscourant) en op de website** **www.politiekeambtsdragers.nl****. U kunt zich met een RSS-feed abonneren op deze site. Als er een circulaire op deze site wordt gepubliceerd, ontvangt u een attendering. Gedurende het jaar 2018 worden bij wijze van overgangsmaatregel de circulaires ook nog per post verzonden.**
+Van verzending circulaires naar publicatie op internet
+
+*Met ingang van 1 januari 2019 zullen circulaires met betrekking tot de rechtspositie van politieke ambtsdragers uitsluitend nog bekend worden gemaakt op de site van de officiële bekendmakingen (Staatscourant) en op de website* *www.politiekeambtsdragers.nl**. U kunt zich met een RSS-feed abonneren op deze site. Als er een circulaire op deze site wordt gepubliceerd, ontvangt u een attendering. Gedurende het jaar 2018 worden bij wijze van overgangsmaatregel de circulaires ook nog per post verzonden.*
+
+Inleiding
 
 Door middel van deze circulaire wordt u, zoals elk jaar gebruikelijk, geïnformeerd over de wijzigingen van de bedragen van de (onkosten)vergoedingen voor burgemeesters, wethouders, raadsleden en commissieleden per 1 januari 2019.
 
@@ -42,9 +27,17 @@ Over de wijzigingen van de bezoldigingsbedragen die per 1 juli 2018 voor de burg
 
 ### 1. Relevante ontwikkelingen
 
-De vergoeding van raadsleden in gemeenten tot 24.000 inwoners wordt verhoogd en gelijkgesteld aan de vergoeding die hoort bij de inwonersklasse 24.001 – 40.000 inwoners. De verhoging van de vergoeding gaat gelden met terugwerkende kracht, vanaf het moment waarop de raadsleden zijn aangetreden als raadslid op 29 maart 2018. Zie voor meer informatie hierover paragraaf 11.
+Verhoging raadsvergoeding in gemeenten tot 24.000 inwoners per 29 maart 2018
+
+De vergoeding van raadsleden in gemeenten tot 24.000 inwoners wordt verhoogd en gelijkgesteld aan de vergoeding die hoort bij de inwonersklasse 24.001 – 40.000 inwoners. De verhoging van de vergoeding gaat gelden met terugwerkende kracht, vanaf het moment waarop de raadsleden zijn aangetreden als raadslid op 29 maart 2018. Zie voor meer informatie hierover [paragraaf 11](https://wetten.overheid.nl/BWBR0041752).
+
+Nieuw
+
+rechtspositiebesluit
 
 Met ingang van 1 januari 2019 geldt voor burgemeesters, wethouders en raadsleden een nieuw [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522). Alle voormalige, voor de verschillende politieke ambten van de decentrale bestuursorganen, geldende rechtspositiebesluiten worden gebundeld in één rechtspositiebesluit. Dit besluit geldt dus ook voor de rechtspositie van de statenleden, commissarissen van de Koning en gedeputeerden, en die van de leden van het algemeen bestuur en de voorzitter en leden van het dagelijks bestuur van waterschappen. Die rechtsposities waren tot op heden uitgewerkt in zeven afzonderlijke besluiten. Over het nieuwe rechtspositiebesluit en de inhoudelijke wijzigingen in de rechtspositionele bepalingen die daarin opgenomen zijn, wordt u door middel van een separate circulaire nader geïnformeerd. Voor zover van toepassing wordt in deze circulaire, naast een verwijzing naar de op dit moment geldende bepalingen ook een verwijzing opgenomen naar de nieuwe bepaling.
+
+Indexering volgens oude systematiek
 
 Een van de inhoudelijke wijzigingen in het nieuwe [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) is de aanpassing van de indexeringsbepalingen. Tot op heden werden voor de indexering van de geldbedragen bepaalde indexcijfers1Het gaat om enerzijds het consumentenprijsindexcijfer en anderzijds het indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen. gebruikt die door het Centraal Bureau voor de Statistiek (CBS) waren vastgesteld voor de maand september van het voorgaande kalenderjaar. Aangezien dit voorlopige cijfers waren die later nog door het CBS konden worden bijgesteld, is in het nieuwe besluit aansluiting gezocht bij indexcijfers die definitief zijn. Gekozen is voor in beginsel dezelfde indexcijfers, maar dan zoals die één jaar daarvoor golden (met andere woorden van de maand september in het tweede voorafgaande kalenderjaar).
 
@@ -53,6 +46,18 @@ Voor het jaar 2019 worden de vergoedingen echter nog éénmaal geïndexeerd op b
 ### 2. Bezoldiging burgemeesters
 
 U bent eerder geïnformeerd over de meerjarige arbeidsvoorwaardenovereenkomst voor het personeel in de sector Rijk en de gevolgen daarvan voor de bezoldiging van burgemeesters. Voor de volledigheid vermeld ik hier nogmaals de bezoldigingsbedragen voor burgemeesters per 1 juli 2018, 1 juli 2019 en 1 januari 2020.
+
+| Klasse | Aantal inwoners | Bezoldiging burgemeester per maand was per 1 januari 2017 | Bezoldiging burgemeester per maand wordt per 1 juli 2018 | Bezoldiging burgemeester per maand wordt per 1 juli 2019 | Bezoldiging burgemeester per maand wordt per 1 januari 2020 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Tot en met 8.000 | € 6.126,69 | € 6.310,49 | € 6.436,70 | € 6.565,43 |
+| 2 | 8.001–14.000 | € 6.740,00 | € 6.942,20 | € 7.081,04 | € 7.222,66 |
+| 3 | 14.001–24.000 | € 7.348,73 | € 7.569,19 | € 7.720,57 | € 7.874,98 |
+| 4 | 24.001–40.000 | € 7.988,49 | € 8.228,14 | € 8.392,70 | € 8.560,55 |
+| 5 | 40.001–60.000 | € 8.660,52 | € 8.920,34 | € 9.098,75 | € 9.280,73 |
+| 6 | 60.001–100.000 | € 9.390,16 | € 9.671,86 | € 9.865,30 | € 10.062,61 |
+| 7 | 100.001–150.000 | € 9.955,80 | € 10.254,47 | € 10.459,56 | € 10.668,75 |
+| 8 | 150.001–375.000 | € 10.667,77 | € 10.987,80 | € 11.207,56 | € 11.431,71 |
+| 9 | 375.001 en meer | € 11.427,98 | € 11.770,82 | € 12.006,24 | € 12.246,36 |
 
 ### 3. Eenmalige uitkering burgemeesters
 
@@ -66,15 +71,31 @@ In [artikel 16, tweede lid, van het huidige Rechtspositiebesluit burgemeesters](
 
 In [artikel 3.2.6, eerste lid juncto vijfde lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.6) is bepaald dat de burgemeester een ambtstoelage ontvangt die op 1 januari van elk jaar wordt gewijzigd overeenkomstig de procentuele wijziging van de consumentenprijsindex geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-Zoals is beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
+Zoals is beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041752), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
 
 De consumentenprijsindex voor september 2018 is bepaald op 103,95. Voor 2017 was dit indexcijfer 102,03. Procentueel is dat een verhoging van 1,9. Dit betekent dat het bedrag van de ambtstoelage per 1 januari 2019 wordt verhoogd met 1,9%. Het bedrag genoemd in [artikel 16, eerste lid, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=16) ([artikel 3.2.6, eerste lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.6)) wordt per 1 januari 2019 gewijzigd in € 394,09 (was € 386,74).
 
 ### 5. Eindejaarsuitkering burgemeester
 
+- A. Op grond van [artikel 15a van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=15a) ([artikel 3.2.1, elfde lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.1)) heeft de burgemeester recht op een eindejaarsuitkering. Voor de burgemeester wordt wat betreft de eindejaarsuitkering aansluiting gezocht bij de afspraken die daarover zijn gemaakt voor het personeel in de sector Rijk. U bent over de eindejaarsuitkering van de burgemeester geïnformeerd bij [circulaire](https://wetten.overheid.nl/jci1.3:c:BWBR0022154) van 19 juni 2007, nr. 2007-181639. Deze informatie is nog steeds van toepassing. Voor uw informatie meld ik u dat voor burgemeesters sinds 1 december 2009 een eindejaarsuitkering geldt van 9,8%.
+
+- B. Wellicht ten overvloede wijs ik u nog op de circulaire van 25 september 2008, nr. 2008-434972. Hierin is gemeld dat elk jaar door gemeenten aan burgemeesters jaarlijks een éénmalige uitkering (in de vorm van een eindejaarsuitkering) ad € 450,– wordt uitgekeerd. Deze informatie is nog steeds van toepassing. Dat houdt in dat, naast de eindejaarsuitkering genoemd onder punt 5A, de éénmalige uitkering ad € 450,– door de gemeenten in de maand november aan de burgemeesters moet worden uitgekeerd. Dit is per 1 januari 2019 vastgelegd in [artikel 3.2.1, dertiende lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.1).
+
 ### 6. Bezoldiging wethouders
 
 U bent eerder geïnformeerd over de meerjarige arbeidsvoorwaardenovereenkomst voor het personeel in de sector Rijk en de gevolgen hiervan voor de bezoldiging van wethouders. Voor de volledigheid vermeld ik hier nogmaals de bezoldigingsbedragen voor wethouders per 1 juli 2018, 1 juli 2019 en 1 januari 2020.
+
+| Klasse | Inwonertal | Bezoldiging wethouders per maand was per 1 januari 2017 | Bezoldiging wethouders per maand wordt per 1 juli 2018 | Bezoldiging wethouders per maand wordt per 1 juli 2019 | Bezoldiging wethouders per maand wordt per 1 januari 2020 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Tot en met 8.000 | € 4.669,57 | € 4.809,66 | € 4.905,85 | € 5.003,97 |
+| 2 | 8.001–14.000 | € 5.292,12 | € 5.450,88 | € 5.559,90 | € 5.671,10 |
+| 3 | 14.001–24.000 | € 5.919,51 | € 6.097,10 | € 6.249,53 | € 6.374,52 |
+| 4 | 24.001–40.000 | € 6.334,90 | € 6.524,95 | € 6.688,07 | € 6.821,83 |
+| 5 | 40.001–60.000 | € 6.960,16 | € 7.168,96 | € 7.312,34 | € 7.458,59 |
+| 6 | 60.001–100.000 | € 7.584,32 | € 7.811,85 | € 7.968,09 | € 8.127,45 |
+| 7 | 100.001–150.000 | € 8.283,52 | € 8.532,03 | € 8.702,67 | € 8.876,72 |
+| 8 | 150.001–375.000 | € 8.774,65 | € 9.037,89 | € 9.218,65 | € 9.403,02 |
+| 9 | 375.001 en meer | € 9.955,80 | € 10.254,47 | € 10.459,56 | € 10.668,75 |
 
 ### 7. Eénmalige uitkering wethouders
 
@@ -88,7 +109,7 @@ In [artikel 25, tweede lid, van het Rechtspositiebesluit wethouders](https://wet
 
 In [artikel 3.2.6, tweede lid juncto vijfde lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.6) is bepaald dat de wethouder een ambtstoelage ontvangt die op 1 januari van elk jaar wordt gewijzigd overeenkomstig de procentuele wijziging van de consumentenprijsindex geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041752), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
 
 De consumentenprijsindex voor september 2018 is bepaald op 103,95. Voor 2017 was dit indexcijfer 102,03. Procentueel is dat een verhoging van 1,9. Dit betekent dat het bedrag van de ambtstoelage per 1 januari 2019 wordt verhoogd met 1,9%. Het bedrag genoemd in [artikel 25, eerste lid, van het Rechtspositiebesluit wethouders](https://wetten.overheid.nl/jci1.3:c:BWBR0006535&artikel=25) ([artikel 3.2.6, tweede lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.6)) wordt per 1 januari 2019 gewijzigd in € 362,56 (was € 355,80).
 
@@ -108,6 +129,18 @@ In het nieuwe [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 Concreet betekent dit dat de vergoeding voor de vervanging van wethouders als volgt bedraagt:
 
+| Aantal inwoners gemeente | Tegemoetkoming per maand voor de tijdelijke ververvanger tot 1 juli 2019 | Tegemoetkoming per maand voor de tijdelijke ververvanger met ingang van 1 juli 2019 | Tegemoetkoming per maand voor de tijdelijke ververvanger met ingang van 1 januari 2020 |
+| --- | --- | --- | --- |
+| Tot en met 8.000 | € 262,00 | € 267,24 | € 272,58 |
+| 8.001–14.000 | € 303,00 | € 309,06 | € 315,24 |
+| 14.001–24.000 | € 343,00 | € 349,86 | € 356,86 |
+| 24.001–40.000 | € 369,00 | € 376,38 | € 383,91 |
+| 40.001–60.000 | € 410,00 | € 418,20 | € 426,56 |
+| 60.001–100.000 | € 450,00 | € 459,00 | € 468,18 |
+| 100.001–150.000 | € 491,00 | € 500,82 | € 510,84 |
+| 150.001–375.000 | € 518,00 | € 528,36 | € 538,93 |
+| 375.001 en meer | € 590,00 | € 601,80 | € 613,84 |
+
 ### 11. Vergoeding raadsleden kleine gemeenten
 
 In een brief van 5 november 2018 heeft de Minister van Binnenlandse Zaken en Koninkrijksrelaties de Tweede Kamer geïnformeerd over de verhoging van de raadsvergoeding in gemeenten tot 24.000 inwoners.2Kamerstukken II 2018/19, 35 000-VII, nr. 37. In plaats van de vergoeding in 2018 van € 250,82 (0–8.000 inwoners), € 396,33 (8.001–14.000 inwoners) en € 617,77 (14.001–24.000 inwoners) ontvangen raadsleden in alle gemeenten kleiner dan 24.000 inwoners een vergoeding die gelijk is aan de vergoeding die hoort bij de inwonersklasse 24.001 – 40.000 inwoners. Deze vergoeding bedraagt in 2018 € 958,91 per maand. De verhoging gaat gelden met terugwerkende kracht, vanaf het moment waarop zij zijn aangetreden als raadslid op 29 maart 2018. Voor gemeenten kleiner dan 24.000 inwoners die betrokken zijn bij een herindeling per 1 januari 2019 – waardoor er geen verkiezingen op 21 maart 2018 hebben plaatsgevonden – wordt de raadsvergoeding ook met ingang 29 maart 2018 op gelijke wijze aangepast. Deze afspraak moet nog worden geformaliseerd door middel van een wijzigingsbesluit. Vooruitlopend op dit besluit kunt u de verhoging voor de raadsvergoeding al doorvoeren.
@@ -124,11 +157,23 @@ In [artikel 2, tweede lid, van het Rechtspositiebesluit raads- en commissieleden
 
 In [artikel 3.1.1, eerste lid juncto vierde lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.1) is bepaald dat de vergoeding voor de werkzaamheden van raadsleden per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. In de circulaire van 1 november 2017, nr. 2017-0000518206 is gemeld dat het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september 2017 was bepaald op 108,5 en dat dit indexcijfer voor het jaar 2016 was bepaald op 108,6. Dit betekende in principe een geringe procentuele verlaging van 0,09% per 1 januari 2018. Deze verlaging is echter niet doorberekend in de raadsvergoeding voor 2018. De bedragen voor de vergoeding voor de werkzaamheden van de raadsleden voor het jaar 2018 zijn hiermee op hetzelfde niveau gebleven als de bedragen voor 2017.
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041752), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. In de circulaire van 1 november 2017, nr. 2017-0000518206 is gemeld dat het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september 2017 was bepaald op 108,5 en dat dit indexcijfer voor het jaar 2016 was bepaald op 108,6. Dit betekende in principe een geringe procentuele verlaging van 0,09% per 1 januari 2018. Deze verlaging is echter niet doorberekend in de raadsvergoeding voor 2018. De bedragen voor de vergoeding voor de werkzaamheden van de raadsleden voor het jaar 2018 zijn hiermee op hetzelfde niveau gebleven als de bedragen voor 2017.
 
 Met deze verlaging moet echter nu wel rekening worden gehouden bij de berekening van de bedragen over 2019. Het indexcijfer CAO lonen overheid voor 2018 is bepaald op 112,1. Voor 2017 was dit indexcijfer 108,5. Procentueel is dat een verhoging van 3,3. De volgende berekeningswijze is thans gehanteerd. De verlaging van 0,09% die per 1 januari 2018 niet is doorgevoerd, is nu bij de berekening van de bedragen over 2019 alsnog meegenomen. Dit is gebeurd door de bedragen van 2018 eerst te verlagen en voor de berekening van de bedragen voor 2019 op die verlaagde bedragen de verhoging van 3,3% toe te passen.
 
 Concreet betekent voorgaande dat de bedragen voor de vergoeding van de werkzaamheden van raadsleden per maand genoemd in [artikel 2, eerste lid, van het Rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006536&artikel=2) ([artikel 3.1.1, eerste lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.1)) per 1 januari 2019 bedragen:
+
+| Klasse | Inwonertal | Vergoeding werkzaamheden per maand per 1 januari 2018 | Vergoeding werkzaamheden per maand per 28 maart 2018 | Vergoeding werkzaamheden per maand per 1 januari 2019 |
+| --- | --- | --- | --- | --- |
+| 1 | Tot en met 8.000 | € 250,82 | € 958,91 | € 990,55 |
+| 2 | 8.001–14.000 | € 396,33 | € 958,91 | € 990,55 |
+| 3 | 14.001–24.000 | € 617,77 | € 958,91 | € 990,55 |
+| 4 | 24.001–40.000 | € 958,91 | € 958,91 | € 990,55 |
+| 5 | 40.001–60.000 | € 1.248,42 | € 1.248,42 | € 1.288,33 |
+| 6 | 60.001–100.000 | € 1.460,84 | € 1.460,84 | € 1.507,54 |
+| 7 | 100.001–150.000 | € 1.658,52 | € 1.658,52 | € 1.711,54 |
+| 8 | 150.001–375.000 | € 1.932,14 | € 1.932,14 | € 1.993,90 |
+| 9 | 375.001– | € 2.352,29 | € 2.352,29 | € 2.427,48 |
 
 ### 13. Onkostenvergoeding raadsleden
 
@@ -136,7 +181,7 @@ In [artikel 2, vierde lid, van het Rechtspositiebesluit raads- en commissieleden
 
 In [artikel 3.1.6, eerste lid juncto derde lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.6) is bepaald dat de onkostenvergoeding van raadsleden per 1 januari van elk jaar bij ministeriële regeling wordt gewijzigd overeenkomstig de procentuele wijziging van de consumentenprijsindex geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041752), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
 
 De consumentenprijsindex voor 2018 is bepaald op 103,95. Voor 2017 was dit indexcijfer 102,03. Procentueel is dat een verhoging van 1,9. Dit betekent dat het bedrag van voor de onkostenvergoeding van raadsleden per 1 januari 2019 wordt verhoogd met 1,9%. Het bedrag genoemd in [artikel 3.1.6, eerste lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.6) wordt per 1 januari 2019: € 173,40 (was € 170,17).
 
@@ -154,11 +199,20 @@ In [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006536&arti
 
 In [artikel 3.4.1, eerste lid juncto derde lid, van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.4.1) is bepaald dat de vergoedingen voor het bijwonen van vergaderingen voor commissieleden per 1 januari van elk jaar bij ministeriële regeling worden gewijzigd overeenkomstig de procentuele wijziging van het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalender jaar.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Zoals hiervoor reeds opgemerkt was het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september 2017 bepaald op 108,5 en voor 2016 op 108,6. Deze geringe verlaging van 0,09 % is per 1 januari 2018 niet doorberekend in de vergoeding voor het bijwonen van vergaderingen voor commissieleden, waarmee de bedragen voor het jaar 2018 op hetzelfde niveau gebleven zijn als de bedragen voor 2017.
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041752), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Zoals hiervoor reeds opgemerkt was het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september 2017 bepaald op 108,5 en voor 2016 op 108,6. Deze geringe verlaging van 0,09 % is per 1 januari 2018 niet doorberekend in de vergoeding voor het bijwonen van vergaderingen voor commissieleden, waarmee de bedragen voor het jaar 2018 op hetzelfde niveau gebleven zijn als de bedragen voor 2017.
 
 Met deze verlaging moet echter nu wel rekening worden gehouden bij de berekening van de bedragen over 2019. Het indexcijfer CAO lonen overheid voor 2018 is bepaald op 112,1. Voor 2017 was dit indexcijfer 108,5. Procentueel is dat een verhoging van 3,3. De volgende berekeningswijze is thans gehanteerd. De verlaging van 0,09% die per 1 januari 2018 niet is doorgevoerd, is nu bij de berekening van de bedragen over 2019 alsnog meegenomen. Dit is gebeurd door de bedragen van 2018 eerst te verlagen en voor de berekening van de bedragen voor 2019 op die verlaagde bedragen de verhoging van 3,3% toe te passen.
 
 Concreet betekent dit dat de vergoeding voor de werkzaamheden per vergadering van leden van gemeentelijke commissies genoemd in het eerste lid van [artikel 14 van het Rechtspositiebesluit raads- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006536&artikel=14) ([artikel 3.4.1 van het nieuwe rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.4.1)) per 1 januari 2019 bedraagt:
+
+| Klasse | Inwonertal | Vergoeding werkzaamheden per vergadering per 1 januari 2018 | Vergoeding werkzaamheden per vergadering per 1 januari 2019 |
+| --- | --- | --- | --- |
+| 1 | Tot en met 10.000 | € 60,25 | € 62,18 |
+| 2 | 10.001–20.000 | € 66,61 | € 68,74 |
+| 3 | 20.001–50.000 | € 79,91 | € 82,46 |
+| 4 | 50.001–100.000 | € 98,32 | € 101,47 |
+| 5 | 100.001–250.000 | € 125,57 | € 129,58 |
+| 6 | 250.001– | € 159,19 | € 164,28 |
 
 ### 16. Vragen en informatie op internet
 

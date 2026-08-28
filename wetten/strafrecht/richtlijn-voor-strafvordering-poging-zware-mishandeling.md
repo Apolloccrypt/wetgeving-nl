@@ -1,46 +1,51 @@
 ---
 title: "Richtlijn voor strafvordering poging zware mishandeling"
 identifier: "BWBR0042064"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-04-01"
-last_updated: "2019-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042064"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "15040763"
-version_id: "25769912"
-internal_id: "C36747181"
-label_id: "14990084"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042064/2019-04-01/0"
-intitule_bron: "Stcrt.2019-14886"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-03-29"
-intitule_in_force: "2019-03-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-14886"
-original_published_date: "2019-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-14886"
-entry_into_force_date: "2019-04-01"
-jci_1_3: "jci1.3:c:BWBR0042064&z=2019-04-01&g=2019-04-01"
-jci_1_0: "1.0:c:BWBR0042064&g=2019-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-04-01"
+publicatiedatum: 2019-04-01
+laatste_update: 2019-04-01
+status: geldig
+toestand: 2019-04-01
+bron: "https://wetten.overheid.nl/BWBR0042064"
+opgehaald: 2026-08-28
 ---
+
 # Richtlijn voor strafvordering poging zware mishandeling
+
+Beschrijving
 
 Deze richtlijn heeft betrekking op poging zware mishandeling. Onder mishandeling valt ook opzettelijke benadeling van de gezondheid. Indien tenlastegelegd als poging zware mishandeling is deze richtlijn tevens toepasbaar op het met een voertuig opzettelijk inrijden op een slachtoffer. Voor huiselijk geweld en kindermishandeling zijn afzonderlijke richtlijnen.
 
+Basiscasus/delict
+
 Poging zware mishandeling, alleen gepleegd, burgerslachtoffer.
 
-* let op taakstrafverbod ([art. 22b Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22b)) en of er sprake is van een **(zeer actieve) veelpleger of stelselmatige dader**
+|  | First offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- |
+| Geen wapen geen letsel | Eis TS 80 uur | 5j 2j | Eis TS 120 uur Idem of GS 2 mnd | GS 11 wkn ov |
+| licht letsel | GS 8 wkn | 5j 2j | GS 12 wkn GS 12 wkn | GS 16 wkn ov |
+| zwaarder letsel | GS 10 wkn | 5j 2j | GS 15 wkn GS 15 wkn | GS 4 mnd ov |
+| Slag/stootwapen geen letsel | Eis TS 120 uur | 5j 2j | Eis TS 180 uur Idem of GS 3 mnd | GS 4 mnd ov |
+| licht letsel | GS 10 wkn | 5j 2j | GS 15 wkn GS 15 wkn | GS 5 mnd ov |
+| zwaarder letsel | GS 3 mnd | 5j 2j | GS 4 mnd GS 4 mnd | GS 6 mnd ov |
+| Steekwapen, of een als zodanig aan te merken voorwerp geen letsel | GS 12 wkn | 5j 2j | GS 16 wkn GS 16 wkn | GS 5 mnd ov |
+| licht letsel | GS 14 wkn | 5j 2j | GS 4 mnd GS 4 mnd | GS 6 mnd ov |
+| zwaarder letsel | Maatwerk (GS vanaf 4 mnd) | 5j 2j | Maatwerk (GS vanaf 6 mnd) | Maatwerk (GS vanaf 8 mnd) |
+| Inrijden op persoon geen letsel | GS 3 mnd + OBM 12 mnd | 5j 2j | GS 4 mnd + OBM 12 mnd** GS 4 mnd + OBM 12 mnd** | GS 6 mnd ov + OBM 12 mnd** |
+| licht letsel zwaarder letsel | GS 16 wkn + OBM 18 mnd | 5j 2j | GS 5 mnd + OBM 18 mnd GS 5 mnd + OBM 18 mnd** | GS 7 mnd ov + OBM 18 mnd** |
+| Maatwerk (GS vanaf 4 mnd) + OBM 24 mnd | 5j 2j | Maatwerk (GS vanaf 6 mnd) + OBM 24 mnd** | Maatwerk (GS vanaf 8 mnd) + OBM 24 mnd** |  |
+| Bijzonderheden Transactie of strafbeschikking is niet mogelijk, dus dagvaarden. * Contra-indicatie kale taakstraf is aanwezig indien dit feit een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad of bij recidive (art. 22b Sr). |  |  |  |  |
+|  |  |  |  |  |
+| Strafverzwarend onder andere: Kwetsbare slachtoffers (w.o. huiselijk geweld) > gebruik de richtlijn huiselijk geweld of de richtlijn kindermishandeling! Jegens ambtenaren en andere gezagsfunctionarissen of journalisten(+200%) Evenement (+75%) of voetbal gerelateerd (+50%) Alcohol/drugs en (uitgaans)geweld (+75%) Voorbedachten rade art. 303 Wetboek van Strafrecht (maatwerk) Agressie in het verkeer Discriminatoire aspecten (dagvaarden +100%) |  |  |  |  |
+
+* let op taakstrafverbod ([art. 22b Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22b)) en of er sprake is van een *(zeer actieve) veelpleger of stelselmatige dader*
 
 ** Uitgangspunten gelden voor recidive van een geweldsdelict. Betreft de recidive hetzelfde feit (inrijden) dan zal een langere OBM worden gevorderd (maximum 5 jaar).
 
 Legenda
+
+Afkortingen
 
 TS = Taakstraf
 
@@ -53,6 +58,8 @@ ov = onvoorwaardelijk
 5j = recidive binnen 5 jaar
 
 2j = recidive binnen 2 jaar
+
+Agressie in het verkeer
 
 Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert.
 

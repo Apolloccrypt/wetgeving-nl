@@ -1,38 +1,25 @@
 ---
 title: "Circulaire 2019 (onkosten)vergoeding voor politieke ambtsdragers van provincies, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
 identifier: "BWBR0041749"
-country: "nl"
-rank: "circulaire"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041749"
+categorie: "Bestuursrecht"
 soort: "circulaire"
-stam_id: "14926433"
-version_id: "25547902"
-internal_id: "C36468501"
-label_id: "14877694"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041749/2019-01-01/0"
-intitule_bron: "Stcrt.2018-72288"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-12-24"
-intitule_in_force: "2018-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-72288"
-original_published_date: "2018-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-72288"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041749&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0041749&g=2019-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0041749"
+opgehaald: 2026-08-28
 ---
+
 # Circulaire 2019 (onkosten)vergoeding voor politieke ambtsdragers van provincies, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-**Met ingang van 1 januari 2019 zullen circulaires met betrekking tot de rechtspositie van politieke ambtsdragers uitsluitend nog bekend worden gemaakt op de site van de officiële bekendmakingen (Staatscourant) en op de website** **www.politiekeambtsdragers.nl** **. U kunt zich met een RSS-feed abonneren op deze site. Als er een circulaire op deze site wordt gepubliceerd, ontvangt u een attendering. Gedurende het jaar 2018 worden bij wijze van overgangsmaatregel de circulaires ook nog per post verzonden.**
+Van verzending circulaires naar publicatie op internet
+
+*Met ingang van 1 januari 2019 zullen circulaires met betrekking tot de rechtspositie van politieke ambtsdragers uitsluitend nog bekend worden gemaakt op de site van de officiële bekendmakingen (Staatscourant) en op de website*
+ *www.politiekeambtsdragers.nl*
+ *. U kunt zich met een RSS-feed abonneren op deze site. Als er een circulaire op deze site wordt gepubliceerd, ontvangt u een attendering. Gedurende het jaar 2018 worden bij wijze van overgangsmaatregel de circulaires ook nog per post verzonden.*
+
+Inleiding
 
 Door middel van deze circulaire wordt u, zoals elk jaar gebruikelijk, geïnformeerd over de wijzigingen van de bedragen van de (onkosten)vergoedingen voor de commissarissen van de Koning, de leden van provinciale staten, de leden van gedeputeerde staten en de commissieleden per 1 januari 2019.
 
@@ -42,9 +29,13 @@ Over de wijzigingen van de bezoldigingsbedragen per 1 juli 2018 voor de commissa
 
 ### 1. Nieuw rechtspositiebesluit
 
+Nieuw rechtspositiebesluit met ingang van 28 maart 2019
+
 Met ingang van 28 maart 2019 zal er voor commissarissen van de Koning, gedeputeerden en statenleden sprake zijn van een nieuw [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522). Alle voormalige, voor de verschillende politieke ambten van de decentrale bestuursorganen, geldende rechtspositiebesluiten worden gebundeld in één rechtspositiebesluit. Dit besluit geldt dus ook voor de rechtspositie van de raadsleden, burgemeesters en wethouders en de leden van het algemeen bestuur en de voorzitter en leden van het dagelijks bestuur van waterschappen. Die rechtsposities waren tot op heden uitgewerkt in zeven afzonderlijke besluiten. Over het nieuwe rechtspositiebesluit en de inhoudelijke wijzigingen in de rechtspositionele bepalingen die daarin opgenomen zijn, wordt u door middel van een separate circulaire nader geïnformeerd.
 
 In verband met de verkiezingen van provinciale staten en de algemeen besturen van de waterschappen treedt het besluit voor de politieke ambtsdragers van de provincies en waterschappen – anders dan voor de gemeenten geldt – niet in werking op 1 januari 2019, maar op 28 maart 2019. Het is immers niet wenselijk noch praktisch de rechtspositie van zittende volksvertegenwoordigers en dagelijks bestuurders voor een periode van slechts drie maanden te wijzigen. Om deze reden wordt in de onderhavige circulaire volstaan met een verwijzing naar de huidige bepaling die de grondslag vormt voor een geldelijke vergoeding en vooralsnog geen verwijzing opgenomen naar de nieuwe bepaling.
+
+Indexering volgens oude systematiek
 
 Een van de inhoudelijke wijzigingen in het nieuwe [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) is de aanpassing van de indexeringsbepalingen. Tot op heden werden voor de indexering van de geldbedragen bepaalde indexcijfers1Het gaat om enerzijds het consumentenprijsindexcijfer en anderzijds het indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen. gebruikt die door het Centraal Bureau voor de Statistiek (CBS) waren vastgesteld voor de maand september van het voorgaande kalenderjaar. Aangezien dit voorlopige cijfers waren die later nog door het CBS konden worden bijgesteld, is in het nieuwe besluit aansluiting gezocht bij indexcijfers die definitief zijn. Gekozen is voor in beginsel dezelfde indexcijfers, maar dan zoals die één jaar daarvoor golden (met andere woorden van de maand september in het tweede voorafgaande kalenderjaar).
 
@@ -74,7 +65,7 @@ In [artikel 3, zevende lid, van het Rechtspositiebesluit commissarissen van de K
 
 De in [artikel 3, tweede lid, van het Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=3) genoemde ambtstoelage bedraagt € 635,29 en de vergoeding van overige ambtskosten € 485,73. Dit zijn steeds vaste bedragen geweest waarop geen indexering werd toegepast.
 
-In het nieuwe rechtspositiebesluit zal worden bepaald dat deze bedragen per 28 maart 2019 bij ministeriële regeling worden gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018. Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek voor indexatie gehanteerd.
+In het nieuwe rechtspositiebesluit zal worden bepaald dat deze bedragen per 28 maart 2019 bij ministeriële regeling worden gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018. Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041749), wordt in 2019 voor de laatste keer de oude systematiek voor indexatie gehanteerd.
 
 De consumentenprijsindex voor september 2018 is bepaald op 103,95. Voor 2017 was dit indexcijfer 102,03. Procentueel is dat een verhoging van 1,9. Dit betekent dat het bedrag van de ambtstoelage per 28 maart 2019 wordt verhoogd met 1,9% naar € 647,36. Het bedrag voor de vergoeding van de overige ambtskosten wordt per 28 maart 2019 verhoogd naar € 494,96.
 
@@ -110,7 +101,7 @@ In [artikel 4, tweede lid, van het Rechtspositiebesluit gedeputeerden](https://w
 
 In [artikel 21, tweede lid, van het Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533&artikel=21) is bepaald dat de onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten (genoemd in artikel 21, eerste lid, Rechtspositiebesluit gedeputeerden) voor een gedeputeerde per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende:
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041749), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende:
 
 De consumentenprijsindex voor september 2018 is bepaald op 103,95. Voor 2017 was dit indexcijfer 102,03. Procentueel is dat een verhoging van 1,9. Dit betekent dat het bedrag van de onkostenvergoeding voor gedeputeerden per 1 januari 2018 wordt verhoogd met 1,9%.
 
@@ -134,9 +125,9 @@ In het nieuwe [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 In [artikel 2, tweede lid, van het Rechtspositiebesluit staten- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=2) is bepaald dat het bedrag van de vergoeding voor de werkzaamheden van statenleden per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september van het voorafgaande kalenderjaar.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041749), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. In de circulaire van 1 november 2017, nr. 2017-0000522402 is gemeld dat het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september 2017 was bepaald op 108,5 en dat dit indexcijfer voor het jaar 2016 was bepaald op 108,6. Dit betekende in principe een geringe procentuele verlaging van 0,09% per 1 januari 2018. Deze verlaging is echter niet doorberekend in de vergoeding voor de werkzaamheden van statenleden voor 2018. De bedragen voor de vergoeding voor de werkzaamheden van de statenleden voor het jaar 2018 zijn hiermee op hetzelfde niveau gebleven als de bedragen voor 2017.
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041749), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. In de circulaire van 1 november 2017, nr. 2017-0000522402 is gemeld dat het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september 2017 was bepaald op 108,5 en dat dit indexcijfer voor het jaar 2016 was bepaald op 108,6. Dit betekende in principe een geringe procentuele verlaging van 0,09% per 1 januari 2018. Deze verlaging is echter niet doorberekend in de vergoeding voor de werkzaamheden van statenleden voor 2018. De bedragen voor de vergoeding voor de werkzaamheden van de statenleden voor het jaar 2018 zijn hiermee op hetzelfde niveau gebleven als de bedragen voor 2017.
 
 Met deze verlaging moet echter nu wel rekening worden gehouden bij de berekening van de bedragen over 2019. Het indexcijfer CAO lonen overheid voor 2018 is bepaald op 112,1. Voor 2017 was dit indexcijfer 108,5. Procentueel is dat een verhoging van 3,3. De volgende berekeningswijze is thans gehanteerd. De verlaging van 0,09% die per 1 januari 2018 niet is doorgevoerd, is nu bij de berekening van de bedragen over 2019 alsnog meegenomen. Dit is gebeurd door de bedragen van 2018 eerst te verlagen en voor de berekening van de bedragen voor 2019 op die verlaagde bedragen de verhoging van 3,3% toe te passen.
 
@@ -146,7 +137,7 @@ Concreet heeft dit tot gevolg dat het bedrag genoemd in [artikel 2, eerste lid, 
 
 In [artikel 2, vierde lid, van het Rechtspositiebesluit staten- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=2) is bepaald dat de onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten genoemd in het derde lid van artikel 2, per 1 januari van elk jaar wordt herzien aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041749), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Dit betekent het volgende.
 
 De consumentenprijsindex voor 2018 is bepaald op 103,95. Voor 2017 was dit indexcijfer 102.03. Procentueel is dat een verhoging van 1,9. Dit betekent dat het bedrag van de onkostenvergoeding voor statenleden per 1 januari 2019 wordt verhoogd met 1,9%.
 
@@ -162,7 +153,7 @@ De tegemoetkoming in de kosten van een ziektekostenverzekering voor statenleden 
 
 In [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=13), juncto [artikel 2, tweede lid, van het Rechtspositiebesluit staten- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=2) is het bedrag bepaald van de vergoeding voor het bijwonen van vergaderingen van de commissie dat per 1 januari van elk jaar wordt herzien aan de hand van het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september van het voorafgaande kalenderjaar.
 
-Zoals beschreven in paragraaf 1, wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Zoals hiervoor reeds opgemerkt was het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september 2017 bepaald op 108,5 en voor 2016 op 108,6. Deze geringe verlaging van 0,09% is per 1 januari 2018 niet doorberekend in de vergoeding voor het bijwonen van vergaderingen voor commissieleden, waarmee de bedragen voor het jaar 2018 op hetzelfde niveau gebleven zijn als de bedragen voor 2017.
+Zoals beschreven in [paragraaf 1](https://wetten.overheid.nl/BWBR0041749), wordt in 2019 voor de laatste keer de oude systematiek gehanteerd. Zoals hiervoor reeds opgemerkt was het indexcijfer CAO lonen overheid inclusief bijzondere beloningen geldend voor de maand september 2017 bepaald op 108,5 en voor 2016 op 108,6. Deze geringe verlaging van 0,09% is per 1 januari 2018 niet doorberekend in de vergoeding voor het bijwonen van vergaderingen voor commissieleden, waarmee de bedragen voor het jaar 2018 op hetzelfde niveau gebleven zijn als de bedragen voor 2017.
 
 Met deze verlaging moet echter nu wel rekening worden gehouden bij de berekening van de bedragen over 2019. Het indexcijfer CAO lonen overheid voor 2018 is bepaald op 112,1. Voor 2017 was dit indexcijfer 108,5. Procentueel is dat een verhoging van 3,3. De volgende berekeningswijze is thans gehanteerd. De verlaging van 0,09% die per 1 januari 2018 niet is doorgevoerd, is nu bij de berekening van de bedragen over 2019 alsnog meegenomen. Dit is gebeurd door de bedragen van 2018 eerst te verlagen en voor de berekening van de bedragen voor 2019 op die verlaagde bedragen de verhoging van 3,3% toe te passen.
 

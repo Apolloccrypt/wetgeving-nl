@@ -1,67 +1,38 @@
 ---
 title: "Wet van 5 december 2018 tot wijziging van de Wet op het financieel toezicht, de Wet bekostiging financieel toezicht, het Burgerlijk Wetboek en de Wet handhaving consumentenbescherming ter implementatie van richtlijn nr. 2015/2366/EU van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 en houdende intrekking van Richtlijn 2007/64/EG (PbEU 2015, L 337) (Implementatiewet herziene richtlijn betaaldiensten)"
+citeertitel: "Implementatiewet herziene richtlijn betaaldiensten"
 identifier: "BWBR0041768"
-country: "nl"
-rank: "wet"
-publication_date: "2019-09-14"
-last_updated: "2019-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041768"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "14930953"
-version_id: "25560762"
-internal_id: "C36662951"
-label_id: "14881914"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041768/2019-09-14/0"
-intitule_bron: "Stb.2018-503"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-05"
-intitule_published: "2018-12-27"
-intitule_in_force: "2019-02-18"
-intitule_status: "goed"
-original_publication: "Stb.2018-503"
-original_signed_date: "2018-12-05"
-original_published_date: "2018-12-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "34813"
-original_url_id: "stb-2018-503"
-entry_into_force_date: "2019-02-19"
-jci_1_3: "jci1.3:c:BWBR0041768&z=2019-09-14&g=2019-09-14"
-jci_1_0: "1.0:c:BWBR0041768&g=2019-09-14"
-citeertitel_status: "officieel"
-short_title: "Implementatiewet herziene richtlijn betaaldiensten"
-signed_date: "2018-12-05"
-entry_into_force: "2019-02-19"
+publicatiedatum: 2019-02-19
+laatste_update: 2019-09-14
+status: geldig
+toestand: 2019-09-14
+bron: "https://wetten.overheid.nl/BWBR0041768"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 5 december 2018 tot wijziging van de Wet op het financieel toezicht, de Wet bekostiging financieel toezicht, het Burgerlijk Wetboek en de Wet handhaving consumentenbescherming ter implementatie van richtlijn nr. 2015/2366/EU van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 en houdende intrekking van Richtlijn 2007/64/EG (PbEU 2015, L 337) (Implementatiewet herziene richtlijn betaaldiensten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te stellen ter uitvoering van richtlijn (EU) 2015/2366/EU van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de [Richtlijnen 2002/65/EG](32002L0065), [2009/110/EG](32009L0110) en [2013/36](32013L0036)/EU en Verordening (EU) nr. [1093/2010](32993L2010) en houdende intrekking van [Richtlijn 2007/64/EG](32007L0064) (PbEU 2015, L 337);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ##### Artikel II
 
-Wijzigt de Wet bekostiging financieel toezicht.
+*Wijzigt de Wet bekostiging financieel toezicht.*
 
 ##### Artikel III
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
 ##### Artikel IV
 
-Wijzigt de Wet handhaving consumentenbescherming.
+*Wijzigt de Wet handhaving consumentenbescherming.*
 
 ##### Artikel IVa
 
-Wijzigt de Uitvoeringswet Algemene verordening gegevensbescherming.
+*Wijzigt de Uitvoeringswet Algemene verordening gegevensbescherming.*
 
 ##### Artikel IVb
 
@@ -88,5 +59,3 @@ Deze wet wordt aangehaald als: Implementatiewet herziene richtlijn betaaldienste
 ##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

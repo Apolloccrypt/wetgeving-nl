@@ -1,76 +1,51 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 juli 2019, nr. 8fe5737c-0r1-2.0, houdende vaststelling van beleidsregels met betrekking tot de uitvoering van de Wet veiligheidsonderzoeken (Beleidsregel artikel 13 Wet veiligheidsonderzoeken)"
+citeertitel: "Beleidsregel artikel 13 Wet veiligheidsonderzoeken"
 identifier: "BWBR0042425"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-07-21"
-last_updated: "2019-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042425"
+categorie: "Staatsinrichting en bestuur"
 soort: "beleidsregel"
-stam_id: "15124883"
-version_id: "25934692"
-internal_id: "C36949441"
-label_id: "15072874"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042425/2019-07-21/0"
-intitule_bron: "Stcrt.2019-39260"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-05"
-intitule_published: "2019-07-19"
-intitule_in_force: "2019-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-39260"
-original_signed_date: "2019-07-05"
-original_published_date: "2019-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-39260"
-entry_into_force_date: "2019-07-21"
-jci_1_3: "jci1.3:c:BWBR0042425&z=2019-07-21&g=2019-07-21"
-jci_1_0: "1.0:c:BWBR0042425&g=2019-07-21"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel artikel 13 Wet veiligheidsonderzoeken"
-signed_date: "2019-07-05"
-entry_into_force: "2019-07-21"
+publicatiedatum: 2019-07-21
+laatste_update: 2019-07-21
+status: geldig
+toestand: 2019-07-21
+bron: "https://wetten.overheid.nl/BWBR0042425"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 juli 2019, nr. 8fe5737c-0r1-2.0, houdende vaststelling van beleidsregels met betrekking tot de uitvoering van de Wet veiligheidsonderzoeken (Beleidsregel artikel 13 Wet veiligheidsonderzoeken)
-
-Gelet op [artikel 4:81 van de Algemene Wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) alsmede [artikel 13 van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=13);
-
-BESLUIT:
 
 ##### Artikel 1. Definities en toepassing
 
 1. In deze beleidsregel wordt verstaan onder:
 
-- a. **wet:** [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
+- a. *wet:*
+ [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
 
-- b. **AIVD:** Algemene Inlichtingen- en Veiligheidsdienst;
+- b. *AIVD:* Algemene Inlichtingen- en Veiligheidsdienst;
 
-- c. **mededeling:** de door de minister van Binnenlandse Zaken en Koninkrijkrelaties af te geven mededeling, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=13);
+- c. *mededeling:* de door de minister van Binnenlandse Zaken en Koninkrijkrelaties af te geven mededeling, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=13);
 
-- d. **personnel security clearance:** de door of namens de National Security Agency (NSA) af te geven verklaring, waarbij wordt bevestigd dat de betrokkene tot een bepaalde datum toegang mag hebben tot vertrouwelijke informatie tot een bepaald niveau;
+- d. *personnel security clearance:* de door of namens de National Security Agency (NSA) af te geven verklaring, waarbij wordt bevestigd dat de betrokkene tot een bepaalde datum toegang mag hebben tot vertrouwelijke informatie tot een bepaald niveau;
 
-- e. **verzoeker:** een andere mogendheid of volkenrechtelijke organisatie;
+- e. *verzoeker:* een andere mogendheid of volkenrechtelijke organisatie;
 
-- f. **volkenrechtelijke organisatie:** een internationale organisatie die direct bindende besluiten kan nemen voor haar lidstaten of besluiten neemt die lidstaten naar eigen inzichten in nationale wetgeving kunnen vastleggen;
+- f. *volkenrechtelijke organisatie:* een internationale organisatie die direct bindende besluiten kan nemen voor haar lidstaten of besluiten neemt die lidstaten naar eigen inzichten in nationale wetgeving kunnen vastleggen;
 
-- g. **Nederlands verblijf:** de periode dat betrokkene als ingezetene is ingeschreven in de basisregistratie personen als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715);
+- g. *Nederlands verblijf:* de periode dat betrokkene als ingezetene is ingeschreven in de basisregistratie personen als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715);
 
-- h. **inschrijving:** inschrijving als ingezetene in de basisregistratie personen als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715);
+- h. *inschrijving:* inschrijving als ingezetene in de basisregistratie personen als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715);
 
-- i. **personen:** de persoon of personen bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=13);
+- i. *personen:* de persoon of personen bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=13);
 
-- j. **gegevens:** gegevens als bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=13);
+- j. *gegevens:* gegevens als bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=13);
 
-- k. **partner:**
+- k. *partner:*
 
-- (1). de echtgenoot of geregistreerd partner van de betrokkene; of
+   - (1) de echtgenoot of geregistreerd partner van de betrokkene; of
 
-- (2). degene met wie betrokkene een gezamenlijke huishouding voert, tenzij het betreft een bloedverwant in de eerste of tweede graad; of
+   - (2) degene met wie betrokkene een gezamenlijke huishouding voert, tenzij het betreft een bloedverwant in de eerste of tweede graad; of
 
-- (3). degene ten aanzien van wie uit het veiligheidsonderzoek blijkt dat deze een duurzame affectieve relatie met betrokkene onderhoudt, tenzij het betreft een bloedverwant in de eerste of tweede graad.
+   - (3) degene ten aanzien van wie uit het veiligheidsonderzoek blijkt dat deze een duurzame affectieve relatie met betrokkene onderhoudt, tenzij het betreft een bloedverwant in de eerste of tweede graad.
 
 2. Deze beleidsregel bevat regels die worden toegepast bij de uitoefening van de bevoegdheid van de minister van Binnenlandse Zaken en Koninkrijksrelaties tot het doen van een mededeling in de zin van [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=13).
 

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 22 mei 2019, houdende regels omtrent het waarborgen van edelmetalen voorwerpen (Waarborgwet 2019)"
+citeertitel: "Waarborgwet 2019"
 identifier: "BWBR0042284"
-country: "nl"
-rank: "wet"
-publication_date: "2022-03-02"
-last_updated: "2022-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042284"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15091363"
-version_id: "25868312"
-internal_id: "C37989091"
-label_id: "15040504"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042284/2022-03-02/0"
-intitule_bron: "Stb.2019-209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-22"
-intitule_published: "2019-06-12"
-intitule_in_force: "2020-06-25"
-intitule_status: "goed"
-original_publication: "Stb.2019-209"
-original_signed_date: "2019-05-22"
-original_published_date: "2019-06-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "35075"
-original_url_id: "stb-2019-209"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0042284&z=2022-03-02&g=2022-03-02"
-jci_1_0: "1.0:c:BWBR0042284&g=2022-03-02"
-citeertitel_status: "officieel"
-short_title: "Waarborgwet 2019"
-signed_date: "2019-05-22"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2022-03-02
+status: geldig
+toestand: 2022-03-02
+bron: "https://wetten.overheid.nl/BWBR0042284"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 22 mei 2019, houdende regels omtrent het waarborgen van edelmetalen voorwerpen (Waarborgwet 2019)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275) inhoudelijk op enkele punten te wijzigen en wetgevingstechnisch in zijn geheel te moderniseren;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -49,47 +20,48 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **deel:** te onderscheiden bestanddeel of onderdeel van een voorwerp met dien verstande dat een legering van edelmetaal als één deel wordt beschouwd;
+- – *deel:* te onderscheiden bestanddeel of onderdeel van een voorwerp met dien verstande dat een legering van edelmetaal als één deel wordt beschouwd;
 
-- –. **edelmetaal:** platina, goud, palladium of zilver;
+- – *edelmetaal:* platina, goud, palladium of zilver;
 
-- –. **edelmetalen voorwerp:** sieraad, edelsmidswerk, uurwerk of ander object dat geheel of gedeeltelijk van edelmetaal of van een legering van edelmetaal is vervaardigd;
+- – *edelmetalen voorwerp:* sieraad, edelsmidswerk, uurwerk of ander object dat geheel of gedeeltelijk van edelmetaal of van een legering van edelmetaal is vervaardigd;
 
-- –. **gehalte:** hoeveelheid van een bepaald edelmetaal uitgedrukt in duizendsten van de totale massa van de betrokken legering;
+- – *gehalte:* hoeveelheid van een bepaald edelmetaal uitgedrukt in duizendsten van de totale massa van de betrokken legering;
 
-- –. **gehalteproef:** onderzoek van een voorwerp op het gehalte aan edelmetaal;
+- – *gehalteproef:* onderzoek van een voorwerp op het gehalte aan edelmetaal;
 
-- –. **gehaltemerk:** gehaltemerk dat ingevolge wettelijke voorschriften bestemd is of op enig tijdstip bestemd is geweest om het gehalte van platina, gouden, palladium of zilveren voorwerpen te waarborgen;
+- – *gehaltemerk:* gehaltemerk dat ingevolge wettelijke voorschriften bestemd is of op enig tijdstip bestemd is geweest om het gehalte van platina, gouden, palladium of zilveren voorwerpen te waarborgen;
 
-- –. **gouden voorwerp:** edelmetalen voorwerp met een gehalte aan goud dat niet lager is dan 585 duizendsten;
+- – *gouden voorwerp:* edelmetalen voorwerp met een gehalte aan goud dat niet lager is dan 585 duizendsten;
 
-- –. **Kaderwet:** [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- – *Kaderwet:*
+ [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- –. **legering van edelmetaal:** vaste stof die bestaat uit een mengsel van ten minste één edelmetaal met andere metalen of elementen;
+- – *legering van edelmetaal:* vaste stof die bestaat uit een mengsel van ten minste één edelmetaal met andere metalen of elementen;
 
-- –. **nationale accreditatie-instantie:** nationale accreditatie-instantie als bedoeld in artikel 4 van de verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EG) nr. 339/93 (PbEU 2008, L 218);
+- – *nationale accreditatie-instantie:* nationale accreditatie-instantie als bedoeld in artikel 4 van de verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EG) nr. 339/93 (PbEU 2008, L 218);
 
-- –. **ondernemer:** degene die
+- – *ondernemer:* degene die
 
-- 1°. in de uitoefening van een beroep of bedrijf edelmetalen voorwerpen vervaardigt, bewerkt, doet vervaardigen of bewerken, uitgezonderd degene die in loondienst deze voorwerpen vervaardigt of bewerkt;
+   - 1°. in de uitoefening van een beroep of bedrijf edelmetalen voorwerpen vervaardigt, bewerkt, doet vervaardigen of bewerken, uitgezonderd degene die in loondienst deze voorwerpen vervaardigt of bewerkt;
 
-- 2°. in de uitoefening van een beroep of bedrijf handel drijft met edelmetalen voorwerpen, waarbij onder handel drijven mede wordt verstaan actief bemiddelen bij het tot stand brengen van overeenkomsten van koop en verkoop van die voorwerpen;
+   - 2°. in de uitoefening van een beroep of bedrijf handel drijft met edelmetalen voorwerpen, waarbij onder handel drijven mede wordt verstaan actief bemiddelen bij het tot stand brengen van overeenkomsten van koop en verkoop van die voorwerpen;
 
-- –. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- – *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- –. **palladium voorwerp:** edelmetalen voorwerp met een gehalte aan palladium dat niet lager is dan 500 duizendsten;
+- – *palladium voorwerp:* edelmetalen voorwerp met een gehalte aan palladium dat niet lager is dan 500 duizendsten;
 
-- –. **platina voorwerp:** edelmetalen voorwerp met een gehalte aan platina dat niet lager is dan 850 duizendsten;
+- – *platina voorwerp:* edelmetalen voorwerp met een gehalte aan platina dat niet lager is dan 850 duizendsten;
 
-- –. **verantwoordelijkheidsteken:** het ingevolge wettelijke voorschriften als zodanig geregistreerde merk van de ondernemer die het edelmetalen voorwerp heeft vervaardigd of bewerkt dan wel van de ondernemer voor wie het voorwerp is bestemd;
+- – *verantwoordelijkheidsteken:* het ingevolge wettelijke voorschriften als zodanig geregistreerde merk van de ondernemer die het edelmetalen voorwerp heeft vervaardigd of bewerkt dan wel van de ondernemer voor wie het voorwerp is bestemd;
 
-- –. **Verdrag:** op 15 november 1972 te Wenen tot stand gekomen Verdrag inzake het onderzoek en de stempeling van edelmetalen werken (Trb. 1991, 16);
+- – *Verdrag:* op 15 november 1972 te Wenen tot stand gekomen Verdrag inzake het onderzoek en de stempeling van edelmetalen werken (Trb. 1991, 16);
 
-- –. **waarborgen:** onderzoeken en bepalen van het gehalte aan edelmetaal van een voorwerp en het aanbrengen van het daarbij passende gehaltemerk op dat voorwerp;
+- – *waarborgen:* onderzoeken en bepalen van het gehalte aan edelmetaal van een voorwerp en het aanbrengen van het daarbij passende gehaltemerk op dat voorwerp;
 
-- –. **waarborginstelling:** krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), door Onze Minister aangewezen rechtspersoon;
+- – *waarborginstelling:* krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), door Onze Minister aangewezen rechtspersoon;
 
-- –. **zilveren voorwerp:** edelmetalen voorwerp met een gehalte aan zilver dat niet lager is dan 800 duizendsten.
+- – *zilveren voorwerp:* edelmetalen voorwerp met een gehalte aan zilver dat niet lager is dan 800 duizendsten.
 
 ### Hoofdstuk 2. De verplichting tot waarborgen, de waarborginstellingen en het aanbrengen van merken
 
@@ -147,13 +119,13 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 1. De kosten die samenhangen met het verrichten van werkzaamheden en diensten door een waarborginstelling op grond van het bepaalde bij of krachtens deze wet, worden door de waarborginstelling ten laste gebracht van de betrokken ondernemer.
 
-2. Een waarborginstelling legt jaarlijks vóór 1 oktober de vanaf 1 januari daarop volgend aan de ondernemer te berekenen tarieven voor de werkzaamheden, bedoeld in de [artikelen 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2022-03-02&g=2022-03-02), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=9&z=2022-03-02&g=2022-03-02), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=16&z=2022-03-02&g=2022-03-02), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2022-03-02&g=2022-03-02), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=18&z=2022-03-02&g=2022-03-02), en [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=7&artikel=40&z=2022-03-02&g=2022-03-02), ter goedkeuring aan Onze Minister voor. De tarieven worden na goedkeuring door de waarborginstelling in de Staatscourant bekendgemaakt.
+2. Een waarborginstelling legt jaarlijks vóór 1 oktober de vanaf 1 januari daarop volgend aan de ondernemer te berekenen tarieven voor de werkzaamheden, bedoeld in de [artikelen 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2022-03-02&g=2022-03-02), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=9&z=2022-03-02&g=2022-03-02), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=16&z=2022-03-02&g=2022-03-02), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2022-03-02&g=2022-03-02), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=18&z=2022-03-02&g=2022-03-02), en [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=7&artikel=40&z=2022-03-02&g=2022-03-02), ter goedkeuring aan Onze Minister voor. De tarieven worden na goedkeuring door de waarborginstelling in de Staatscourant bekendgemaakt.
 
 3. Onverminderd [artikel 17 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=17) kan Onze Minister goedkeuring als bedoeld in het tweede lid weigeren indien de tarieven hoger zijn dan, uitgaande van een redelijke toerekening van de aan het uitvoeren van de betreffende werkzaamheden verbonden kosten, noodzakelijk is.
 
-4. Het besluit omtrent goedkeuring van de vanaf 1 januari te rekenen tarieven, bedoeld in het tweede lid, eerste volzin, wordt uiterlijk 30 november daaraan voorafgaand bekendgemaakt.
+4. Het besluit omtrent goedkeuring van de vanaf 1 januari te rekenen tarieven, bedoeld in het tweede lid, eerste volzin, wordt uiterlijk 30 november daaraan voorafgaand bekendgemaakt.
 
-5. Indien de vanaf 1 januari te berekenen tarieven niet vóór 1 december daaraan voorafgaand zijn goedgekeurd, kan Onze Minister de tarieven zelf vaststellen.
+5. Indien de vanaf 1 januari te berekenen tarieven niet vóór 1 december daaraan voorafgaand zijn goedgekeurd, kan Onze Minister de tarieven zelf vaststellen.
 
 6. Van een besluit tot vaststelling van tarieven als bedoeld in het vijfde lid, wordt door Onze Minister mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -163,7 +135,7 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 ##### Artikel 6
 
-1. Met het oog op de goedkeuring, bedoeld in [artikel 29, eerste lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), zendt een waarborginstelling jaarlijks voor 1 oktober de door haar vastgestelde begroting aan Onze Minister.
+1. Met het oog op de goedkeuring, bedoeld in [artikel 29, eerste lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), zendt een waarborginstelling jaarlijks voor 1 oktober de door haar vastgestelde begroting aan Onze Minister.
 
 2. Indien de begroting van een waarborginstelling niet is goedgekeurd voor aanvang van het kalenderjaar waarop de begroting betrekking heeft, kan Onze Minister de betreffende waarborginstelling machtigen uitgaven te doen uit die posten waartegen hij geen bedenking heeft.
 
@@ -437,19 +409,19 @@ Een waarborginstelling verstrekt een krachtens [artikel 36, eerste lid](https://
 
 ##### Artikel 41
 
-Wijzigt de Algemene douanewet.
+*Wijzigt de Algemene douanewet.*
 
 ##### Artikel 42
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 43
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 44
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ### Hoofdstuk 9. Overige bepalingen
 
@@ -485,7 +457,7 @@ gaat deze wijziging voor de toepassing van deze wet gelden met ingang van de dag
 
 ##### Artikel 47
 
-De [Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275) en de [Wet van 4 oktober 2001 tot wijziging van de Waarborgwet 1986 met betrekking tot de uitoefening van toezicht op de naleving](https://wetten.overheid.nl/jci1.3:c:BWBR0012870) (Stb. 2001, 514) worden ingetrokken.
+De [Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275) en de [Wet van 4 oktober 2001 tot wijziging van de Waarborgwet 1986 met betrekking tot de uitoefening van toezicht op de naleving](https://wetten.overheid.nl/jci1.3:c:BWBR0012870) (Stb. 2001, 514) worden ingetrokken.
 
 ##### Artikel 48
 
@@ -494,5 +466,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 49
 
 Deze wet wordt aangehaald als: Waarborgwet met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

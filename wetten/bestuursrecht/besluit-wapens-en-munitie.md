@@ -1,75 +1,40 @@
 ---
 title: "Besluit van 15 juli 2019 ter implementatie van de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van Richtlijn 91/477/EEG van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (Besluit wapens en munitie)"
+citeertitel: "Besluit wapens en munitie"
 identifier: "BWBR0042436"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-07-23"
-last_updated: "2019-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042436"
+categorie: "Internationaal recht"
 soort: "AMvB"
-stam_id: "15128063"
-version_id: "25939362"
-internal_id: "C36960481"
-label_id: "15076044"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042436/2019-07-23/0"
-intitule_bron: "Stb.2019-268"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-15"
-intitule_published: "2019-07-22"
-intitule_in_force: "2019-07-22"
-intitule_status: "goed"
-original_publication: "Stb.2019-268"
-original_signed_date: "2019-07-15"
-original_published_date: "2019-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-268"
-entry_into_force_date: "2019-07-23"
-entry_into_force_dossier: "34984"
-jci_1_3: "jci1.3:c:BWBR0042436&z=2019-07-23&g=2019-07-23"
-jci_1_0: "1.0:c:BWBR0042436&g=2019-07-23"
-citeertitel_status: "officieel"
-short_title: "Besluit wapens en munitie"
-signed_date: "2019-07-15"
-entry_into_force: "2019-07-23"
+publicatiedatum: 2019-07-23
+laatste_update: 2019-07-23
+status: geldig
+toestand: 2019-07-23
+bron: "https://wetten.overheid.nl/BWBR0042436"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 15 juli 2019 ter implementatie van de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van Richtlijn 91/477/EEG van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (Besluit wapens en munitie)
-
-Op de voordracht van Onze Minister Justitie en Veiligheid van 14 mei 2019, nr. 2594027,
-
-Gelet op de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=4), [6b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=6b), [9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=9a), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=28), [32a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=32a), en [35, tweede lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=35);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 12 juni 2019, nr.W16.19.0122/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 9 juli 2019, nr.2628415;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de wet tot wijziging van de Wet wapens en munitie in verband met de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van Richtlijn 91/477/EEG van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (34 984) in werking treedt (Stb. 2019/267).
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- –. **erkende vereniging:** een vereniging die op grond van [artikel 6b, tweede lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=6b) door Onze Minister van Justitie en Veiligheid is erkend;
+- – *erkende vereniging:* een vereniging die op grond van [artikel 6b, tweede lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=6b) door Onze Minister van Justitie en Veiligheid is erkend;
 
-- –. **korpschef:** de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- – *korpschef:* de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- –. **munitie:** munitie als bedoeld in [artikel 2, tweede lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2);
+- – *munitie:* munitie als bedoeld in [artikel 2, tweede lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2);
 
-- –. **Onze Minister:** Onze Minister van Justitie en Veiligheid;
+- – *Onze Minister:* Onze Minister van Justitie en Veiligheid;
 
-- –. **Richtlijn:** de [Richtlijn nr. 91/477/EEG](31991L0477) van de Raad van de Europese Gemeenschappen van 18 juni 1991 inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEG L 256/51);
+- – *Richtlijn:* de Richtlijn nr. 91/477/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1991 inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEG L 256/51);
 
-- –. **verenigingsbeheerder:** de persoon die binnen een erkende vereniging is belast met het beheer van wapens en munitie;
+- – *verenigingsbeheerder:* de persoon die binnen een erkende vereniging is belast met het beheer van wapens en munitie;
 
-- –. **vuurwapen:** een vuurwapen als bedoeld in artikel 1, eerste lid, onderdeel 1, in samenhang met bijlage I, van de Richtlijn;
+- – *vuurwapen:* een vuurwapen als bedoeld in artikel 1, eerste lid, onderdeel 1, in samenhang met bijlage I, van de Richtlijn;
 
-- –. **wapen:** een wapen als bedoeld in [artikel 2, eerste lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2);
+- – *wapen:* een wapen als bedoeld in [artikel 2, eerste lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2);
 
-- –. **wet:** de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804).
+- – *wet:* de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804).
 
 ##### Artikel 2. Erkenning als museum
 
@@ -159,10 +124,8 @@ Ontheffingen die op grond van [artikel 4 van de wet](https://wetten.overheid.nl/
 
 ##### Artikel 10. Inwerkingtreding
 
-Indien het bij koninklijke boodschap van 29 juni 2018 ingediende voorstel van wet tot wijziging van de Wet wapens en munitie in verband met de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van [Richtlijn 91/477/EEG](31991L0477) van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (34 984) tot wet is of wordt verheven en die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
+Indien het bij koninklijke boodschap van 29 juni 2018 ingediende voorstel van wet tot wijziging van de Wet wapens en munitie in verband met de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van Richtlijn 91/477/EEG van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (34 984) tot wet is of wordt verheven en die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit wapens en munitie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

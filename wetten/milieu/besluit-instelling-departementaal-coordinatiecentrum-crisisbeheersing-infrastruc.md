@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 1 februari 2019, nr. IENW/BSK-2019/16637, tot instelling van het Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat"
+citeertitel: "Besluit instelling Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat"
 identifier: "BWBR0041886"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-02-09"
-last_updated: "2019-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041886"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14994063"
-version_id: "25680922"
-internal_id: "C36638471"
-label_id: "14944194"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041886/2019-02-09/0"
-intitule_bron: "Stcrt.2019-6105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-02-01"
-intitule_published: "2019-02-08"
-intitule_in_force: "2019-02-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-6105"
-original_signed_date: "2019-02-01"
-original_published_date: "2019-02-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-6105"
-entry_into_force_date: "2019-02-09"
-jci_1_3: "jci1.3:c:BWBR0041886&z=2019-02-09&g=2019-02-09"
-jci_1_0: "1.0:c:BWBR0041886&g=2019-02-09"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat"
-signed_date: "2019-02-01"
-entry_into_force: "2019-02-09"
+publicatiedatum: 2019-02-09
+laatste_update: 2019-02-09
+status: geldig
+toestand: 2019-02-09
+bron: "https://wetten.overheid.nl/BWBR0041886"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 1 februari 2019, nr. IENW/BSK-2019/16637, tot instelling van het Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat
-
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3) en op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), [10:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:11) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-BESLUIT:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **DCC-IenW:** Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat;
+- *DCC-IenW:* Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat;
 
-- **ministerie:** Ministerie van Infrastructuur en Waterstaat;
+- *ministerie:* Ministerie van Infrastructuur en Waterstaat;
 
-- **OCM-IenW:** Overleg Crisismanagement Infrastructuur en Waterstaat.
+- *OCM-IenW:* Overleg Crisismanagement Infrastructuur en Waterstaat.
 
 ##### Artikel 2
 
@@ -151,5 +125,3 @@ Het [Besluit DCC-V&W](https://wetten.overheid.nl/jci1.3:c:BWBR0011009) wordt ing
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

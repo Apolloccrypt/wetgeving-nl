@@ -1,68 +1,42 @@
 ---
 title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 30 juli 2019, nr. ILT- 2019/41462 over de rol van de beheerder bij de beoordeling van de infrastructuurcompatibiliteit in het kader van de toelating van spoorvoertuigen (Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet)"
+citeertitel: "Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet"
 identifier: "BWBR0042483"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-08-07"
-last_updated: "2019-08-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042483"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "15137133"
-version_id: "25958432"
-internal_id: "C36975621"
-label_id: "15084824"
-dtd_version: "2.0"
-original_entry_into_force: "2019-08-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042483/2019-08-07/0"
-intitule_bron: "Stcrt.2019-44502"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-30"
-intitule_published: "2019-08-06"
-intitule_in_force: "2019-08-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-44502"
-original_signed_date: "2019-07-30"
-original_published_date: "2019-08-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-44502"
-entry_into_force_date: "2019-08-07"
-jci_1_3: "jci1.3:c:BWBR0042483&z=2019-08-07&g=2019-08-07"
-jci_1_0: "1.0:c:BWBR0042483&g=2019-08-07"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet"
-signed_date: "2019-07-30"
-entry_into_force: "2019-08-07"
+publicatiedatum: 2019-08-07
+laatste_update: 2019-08-07
+status: geldig
+toestand: 2019-08-07
+bron: "https://wetten.overheid.nl/BWBR0042483"
+opgehaald: 2026-08-28
 ---
+
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 30 juli 2019, nr. ILT- 2019/41462 over de rol van de beheerder bij de beoordeling van de infrastructuurcompatibiliteit in het kader van de toelating van spoorvoertuigen (Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet)
-
-Gelet op de [artikelen 26f](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f), [26h](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26h), [26i](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26i) en [26k tot en met 26n van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k),
-
-Besluit
 
 ##### Artikel 1. Definities
 
-- **eenloketsysteem:** informatie- en communicatiesysteem bedoeld in artikel 12 van Verordening (EU) 2016/796;
+- *eenloketsysteem:* informatie- en communicatiesysteem bedoeld in artikel 12 van Verordening (EU) 2016/796;
 
-- **infrastructuurcompatibiliteit:** verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur;
+- *infrastructuurcompatibiliteit:* verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur;
 
-- **infrastructuurcompatibiliteitsverklaring:** verklaring waarin de beheerder zijn standpunt geeft op de technische compatibiliteit van het spoorvoertuig met de infrastructuur;
+- *infrastructuurcompatibiliteitsverklaring:* verklaring waarin de beheerder zijn standpunt geeft op de technische compatibiliteit van het spoorvoertuig met de infrastructuur;
 
-- **spoorvoertuig:** voertuig, bestemd voor het verkeer over spoorwegen;
+- *spoorvoertuig:* voertuig, bestemd voor het verkeer over spoorwegen;
 
-- **Spoorwegbureau:** Spoorwegbureau bedoeld in Verordening (EU) 2016/796;
+- *Spoorwegbureau:* Spoorwegbureau bedoeld in Verordening (EU) 2016/796;
 
-- **Uitvoeringsverordening (EU) 2018/ 545:** Uitvoeringsverordening (EU) 2018/545 van de Commissie van 4 april 2018 tot vaststelling van de praktische regelingen voor het proces voor de afgifte van typegoedkeuringen en vergunningen voor spoorvoertuigen overeenkomstig Richtlijn (EU) 2016/797 van het Europees Parlement en de Raad (PbEU 2018, L 90);
+- *Uitvoeringsverordening (EU) 2018/ 545:* Uitvoeringsverordening (EU) 2018/545 van de Commissie van 4 april 2018 tot vaststelling van de praktische regelingen voor het proces voor de afgifte van typegoedkeuringen en vergunningen voor spoorvoertuigen overeenkomstig Richtlijn (EU) 2016/797 van het Europees Parlement en de Raad (PbEU 2018, L 90);
 
-- **Verordening (EU) 2016/796:** Verordening (EU) 2016/796 van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Spoorwegbureau van de Europese Unie en tot intrekking van [Verordening (EG) nr. 881/2004](32004R0881) (PbEU 2016 L 138);
+- *Verordening (EU) 2016/796:* Verordening (EU) 2016/796 van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Spoorwegbureau van de Europese Unie en tot intrekking van Verordening (EG) nr. 881/2004 (PbEU 2016 L 138);
 
-- **visie:** visie van de beheerder op de technische compatibiliteit van het spoorvoertuig met de infrastructuur;
+- *visie:* visie van de beheerder op de technische compatibiliteit van het spoorvoertuig met de infrastructuur;
 
-- **voertuigtoelating:** beslissing op een aanvraag als bedoeld in de [artikelen 26f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f), 26f, tweede lid, [26k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k), 26k, vierde lid, 26k, vijfde lid, [26m, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26m), [26q, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26q), 26q, zesde lid, en [26r, eerste lid, vande Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r);
+- *voertuigtoelating:* beslissing op een aanvraag als bedoeld in de [artikelen 26f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f), 26f, tweede lid, [26k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k), 26k, vierde lid, 26k, vijfde lid, [26m, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26m), [26q, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26q), 26q, zesde lid, en [26r, eerste lid, vande Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r);
 
-- **vooroverleg:** overleg als bedoeld in artikel 2, onderdeel 9, van Uitvoeringsverordening (EU) 2018/545;
+- *vooroverleg:* overleg als bedoeld in artikel 2, onderdeel 9, van Uitvoeringsverordening (EU) 2018/545;
 
-- **vooroverlegdossier:** dossier als bedoeld in artikel 23 van Uitvoeringsverordening (EU) 2018/ 545;
+- *vooroverlegdossier:* dossier als bedoeld in artikel 23 van Uitvoeringsverordening (EU) 2018/ 545;
 
 ##### Artikel 2. Aanvraag tot vooroverleg
 

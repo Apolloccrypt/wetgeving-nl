@@ -1,66 +1,38 @@
 ---
 title: "Gemeenschappelijke Regeling Brabants Historisch Informatie centrum, nr. 969921, van 15 juni 2016"
+citeertitel: "Gemeenschappelijke Regeling Brabants Historisch Informatie centrum"
 identifier: "BWBR0042023"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-11-27"
-last_updated: "2021-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042023"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15031163"
-version_id: "25752342"
-internal_id: "C36727361"
-label_id: "14981084"
-dtd_version: "2.0"
-original_entry_into_force: "2016-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042023/2021-11-27/0"
-intitule_bron: "Stcrt.2016-41195"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-15"
-intitule_published: "2016-08-05"
-intitule_in_force: "2016-08-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-41195"
-original_signed_date: "2016-06-15"
-original_published_date: "2016-08-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-41195"
-entry_into_force_date: "2016-09-01"
-jci_1_3: "jci1.3:c:BWBR0042023&z=2021-11-27&g=2021-11-27"
-jci_1_0: "1.0:c:BWBR0042023&g=2021-11-27"
-citeertitel_status: "officieel"
-short_title: "Gemeenschappelijke Regeling Brabants Historisch Informatie centrum"
-signed_date: "2016-06-15"
-entry_into_force: "2016-09-01"
+publicatiedatum: 2016-09-01
+laatste_update: 2021-11-27
+status: geldig
+toestand: 2021-11-27
+bron: "https://wetten.overheid.nl/BWBR0042023"
+opgehaald: 2026-08-28
 ---
+
 # Gemeenschappelijke Regeling Brabants Historisch Informatie centrum, nr. 969921, van 15 juni 2016
-
-Gelet op [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=V) en [VIII van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII),
-
-Besluiten:
-
-tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam met rechtspersoonlijkheid dat de archiefbescheiden en collecties beheert die berusten in de rijksarchiefbewaarplaats in de provincie Noord-Brabant, de archiefbewaarplaatsen van de gemeenten Bernheze, Boekel, Boxmeer, Cuijk, Grave, Haaren, Landerd, Maasdonk, Mill en Sint Hubert, Oss, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Uden, Veghel en Vught, en de waterschappen Aa en Maas en De Dommel;
 
 ##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de gemeenten:** de gemeenten Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Landerd, Meierijstad, Mill en Sint Hubert, Oss, Sint Anthonis, Sint-Michielsgestel, Uden, en Vught;
+- b. *de gemeenten:* de gemeenten Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Landerd, Meierijstad, Mill en Sint Hubert, Oss, Sint Anthonis, Sint-Michielsgestel, Uden, en Vught;
 
-- c. **de waterschappen:** de waterschappen Aa en Maas en De Dommel;
+- c. *de waterschappen:* de waterschappen Aa en Maas en De Dommel;
 
-- d. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- d. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- e. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente;
+- e. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaats van de gemeente;
 
-- f. **de colleges:** de colleges van burgemeester en wethouders van de gemeenten, en
+- f. *de colleges:* de colleges van burgemeester en wethouders van de gemeenten, en
 
-- g. **de algemene en dagelijkse besturen:** de algemene en dagelijkse besturen van de waterschappen Aa en Maas en De Dommel;
+- g. *de algemene en dagelijkse besturen:* de algemene en dagelijkse besturen van de waterschappen Aa en Maas en De Dommel;
 
-- h. **De provincie:** de provincie Noord-Brabant
+- h. *De provincie:* de provincie Noord-Brabant
 
 ##### Artikel 2
 
@@ -254,7 +226,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ##### Artikel 18
 
-1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen.
+1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen.
 
 2. Het dagelijks bestuur biedt jaarlijks, ten minste acht weken voor de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=19&z=2021-11-27&g=2021-11-27), bedoelde vaststelling, de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen een ontwerp aan voor de begroting met toelichting van het Historisch Informatie Centrum Brabant en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
 
@@ -284,13 +256,13 @@ De Minister, de gemeenten en de waterschappen voldoen de bijdragen bij wijze van
 
 ##### Artikel 21
 
-1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister, de raden van de gemeenten en de algemene en dagelijkse besturen van de waterschappen. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister, de raden van de gemeenten en de algemene en dagelijkse besturen van de waterschappen. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 2. Het algemeen bestuur draagt er zorg voor dat medewerking wordt verleend aan door of namens de accountant(s) van de Minister, de gemeenten en de waterschappen in te stellen onderzoeken naar de door de accountant, bedoeld in het eerste lid, verrichte (controle)werkzaamheden.
 
-3. Het algemeen bestuur brengt jaarlijks aan de Minister, de raden van de gemeenten en de algemene en dagelijkse besturen van de waterschappen voor 15 april een inhoudelijk verslag uit van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
+3. Het algemeen bestuur brengt jaarlijks aan de Minister, de raden van de gemeenten en de algemene en dagelijkse besturen van de waterschappen voor 15 april een inhoudelijk verslag uit van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
 
-4. Het dagelijks bestuur zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan de raden van de gemeenten, de algemene en dagelijkse besturen van de waterschappen en de Minister.
+4. Het dagelijks bestuur zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan de raden van de gemeenten, de algemene en dagelijkse besturen van de waterschappen en de Minister.
 
 5. Het algemeen bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
@@ -399,49 +371,3 @@ Deze regeling kan worden opgeheven bij besluit van de Minister, de algemene en d
 ##### Artikel 39
 
 Deze regeling kan worden aangehaald als: Gemeenschappelijke Regeling Brabants Historisch Informatie centrum.
-
-## Bijlage
-
-### Financiële bijlage
-
-### Algemeen
-
-In deze bijlage zijn de afspraken rond de structurele en incidentele bijdragen van partners aan het Brabants Historisch Centrum nader gespecificeerd ([art. 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=16&z=2021-11-27&g=2021-11-27)):
-
-Er is afgesproken dat de beschikbare exploitatiebudgetten van de afzonderlijke instellingen waaruit het Brabants Historisch Centrum ontstaat, zullen worden samengevoegd. Uit deze exploitatiebudgetten zullen de exploitatiekosten worden bestreden van het Brabants Historisch Centrum, waarbij de behaalde efficiencyvoordelen zullen worden aangewend voor nieuw beleid ten behoeve van de publieksfunctie.
-
-### Structurele bijdragen
-
-De jaarlijkse structurele bijdragen van de partners zijn, inclusief huurlasten als volgt:
-
-1 De bijdrage van het Rijk (RAD) wordt in 2003 nog verhoogd, conform de methodiek beschreven in [art. 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=16&z=2021-11-27&g=2021-11-27).
-
-2 Dit tarief betreft het basispakket en het pluspakket.
-
-3 Per 1 januari 2004 zijn de waterschappen De Maaskant en De Aa gefuseerd tot Waterschap Aa en Maas, ten laste waarvan de hier genoemde bijdrage zal komen.
-
-1 Per 1 januari 2004 zijn de waterschappen De Maaskant en De Aa gefuseerd tot Waterschap Aa en Maas, ten laste waarvan de hier genoemde bijdrage zal komen.
-
-De gemeentelijke bijdragen zijn voor SABNO het product van het aantal inwoners per gemeente per 1 januari van het voorafgaande jaar (bron centraal bureau voor de statistiek) × € 3,53. De bijdragen van de gemeenten en waterschappen van LAED zijn niet gebaseerd op een vast bedrag per inwoner, dat voor alle deelnemers hetzelfde is, maar op een kostenverdeelsleutel die rekening houdt met de vaste kosten per werkdag, die voor alle deelnemers hetzelfde zijn, de kosten per meter beheerd archief en het relatieve aandeel in de algemene kosten, gebaseerd op het inwonertal. Het hier berekende bedrag per inwoner van de bijdragen dient in het vervolg als uitgangspunt voor de vaststelling van de jaarlijkse bijdrage.
-
-### Huisvesting
-
-### Aanvang van de bijdragen
-
-De bijdragen van de partners vangen aan op het moment dat de Regeling Brabants Historisch Centrum in werking treedt. Aangezien te verwachten valt dat dit niet samenvalt met het begin van een kalenderjaar zal de bijdrage naar evenredigheid worden toegerekend met ingang van de eerste dag van de maand, waarin de regeling in werking treedt. De partners zullen er voor zorgdragen dat de bovengenoemde bijdragen in hun respectievelijke begrotingen worden opgenomen.
-
-### Incidentele bijdragen
-
-### Programma- en behoudsgelden
-
-Het Rijk (RAD) stelt voor de uitvoer van een behoudsplan behoudsgelden beschikbaar. Deze middelen ad € 59.000 zijn beschikbaar tot en met 31 december 2004. Voor de periode daarna worden in het voorjaar 2004 nieuwe afspraken gemaakt.
-
-### Inbreng van vermogensbestanddelen
-
-De partijen brengen in totaal € 184.079 aan vermogensbestanddelen in. Dit bedrag is als volgt opgebouwd:
-
-### BTW aspecten
-
-Het Brabants Historisch Centrum neemt contact op met de belastinginspecteur ter verkrijging van een nieuwe BTW beschikking voor het hele instituut. Over de inhoud van die beschikking en de mogelijke consequenties voor de begroting is nog geen 100% zekerheid.
-
-Vervallen

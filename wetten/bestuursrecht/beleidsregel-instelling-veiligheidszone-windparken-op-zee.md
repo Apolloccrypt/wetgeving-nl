@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 16 april 2018, nr. RWS-2018/13729, houdende vaststelling van een beleidsregel voor de instelling van een veiligheidszone voor windparken op zee (Beleidsregel instelling veiligheidszone windparken op zee)"
+citeertitel: "Beleidsregel instelling veiligheidszone windparken op zee"
 identifier: "BWBR0042533"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042533"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "15156403"
-version_id: "25987912"
-internal_id: "C37017071"
-label_id: "15103994"
-dtd_version: "2.0"
-original_entry_into_force: "2018-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042533/2024-01-01/0"
-intitule_bron: "Stcrt.2018-22588"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-04-16"
-intitule_published: "2018-04-26"
-intitule_in_force: "2018-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-22588"
-original_signed_date: "2018-04-16"
-original_published_date: "2018-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-22588"
-entry_into_force_date: "2018-05-01"
-jci_1_3: "jci1.3:c:BWBR0042533&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0042533&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel instelling veiligheidszone windparken op zee"
-signed_date: "2018-04-16"
-entry_into_force: "2018-05-01"
+publicatiedatum: 2018-05-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0042533"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 16 april 2018, nr. RWS-2018/13729, houdende vaststelling van een beleidsregel voor de instelling van een veiligheidszone voor windparken op zee (Beleidsregel instelling veiligheidszone windparken op zee)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10);
-
-BESLUIT:
 
 ##### Artikel 1. Toepassingsbereik
 
@@ -96,16 +70,14 @@ In een besluit tot het instellen van een veiligheidszone wordt bepaald dat de ui
 
 ##### Artikel 6. Intrekken beleidsregels
 
-1. De [Beleidsregels intrekken watervergunningen windturbineparken in de exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0033759) (Stcrt. 2013, 21981) worden ingetrokken.
+1. De [Beleidsregels intrekken watervergunningen windturbineparken in de exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0033759) (Stcrt. 2013, 21981) worden ingetrokken.
 
-2. De Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaatswerken op installaties in de exclusieve economische zone (Stcrt. 2009, 19704) worden ingetrokken.
+2. De Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaatswerken op installaties in de exclusieve economische zone (Stcrt. 2009, 19704) worden ingetrokken.
 
 ##### Artikel 7. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 mei 2018.
+Dit besluit treedt in werking met ingang van 1 mei 2018.
 
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel instelling veiligheidszone windparken op zee.
-
-Deze besluit zal met de toelichting in de Staatscourant worden geplaatst.

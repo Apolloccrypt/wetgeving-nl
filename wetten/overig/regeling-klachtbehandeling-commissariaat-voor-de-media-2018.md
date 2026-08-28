@@ -1,58 +1,32 @@
 ---
 title: "Regeling klachtbehandeling Commissariaat voor de Media 2018"
+citeertitel: "Regeling Klachtbehandeling Commissariaat voor de Media 2018"
 identifier: "BWBR0041786"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041786"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14940113"
-version_id: "25585682"
-internal_id: "C36514121"
-label_id: "14890414"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041786/2019-01-01/0"
-intitule_bron: "Stcrt.2018-73366"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-18"
-intitule_published: "2018-12-31"
-intitule_in_force: "2018-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-73366"
-original_signed_date: "2018-12-18"
-original_published_date: "2018-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-73366"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041786&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0041786&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling Klachtbehandeling Commissariaat voor de Media 2018"
-signed_date: "2018-12-18"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0041786"
+opgehaald: 2026-08-28
 ---
+
 # Regeling klachtbehandeling Commissariaat voor de Media 2018
-
-In aanvulling op [hoofdstuk 9, titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **beklaagde:** de persoon op wiens gedraging de klacht betrekking heeft;
+- a. *beklaagde:* de persoon op wiens gedraging de klacht betrekking heeft;
 
-- b. **College:** de voorzitter en de leden van het Commissariaat voor de Media, als bedoeld in [artikel 7.3 lid 1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.3);
+- b. *College:* de voorzitter en de leden van het Commissariaat voor de Media, als bedoeld in [artikel 7.3 lid 1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.3);
 
-- c. **klacht:** een melding die betrekking heeft op een gedraging jegens de klager en voldoet aan de vereisten van [artikel 9:4 lid 2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4);
+- c. *klacht:* een melding die betrekking heeft op een gedraging jegens de klager en voldoet aan de vereisten van [artikel 9:4 lid 2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4);
 
-- d. **klachtenfunctionaris:** de algemeen directeur van het Commissariaat voor de Media;
+- d. *klachtenfunctionaris:* de algemeen directeur van het Commissariaat voor de Media;
 
-- e. **medewerker:** de persoon die ten tijde van de omstreden gedraging werkzaam is bij het Commissariaat voor de Media.
+- e. *medewerker:* de persoon die ten tijde van de omstreden gedraging werkzaam is bij het Commissariaat voor de Media.
 
 ##### Artikel 2. Doel
 

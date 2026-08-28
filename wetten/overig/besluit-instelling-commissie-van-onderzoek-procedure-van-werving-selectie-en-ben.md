@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 januari 2019, nr. 2019-0000037204, houdende instelling van de Commissie van onderzoek inzake de procedure van werving, selectie en benoeming van de voorzitter van het Huis voor klokkenluiders"
+citeertitel: "Besluit instelling Commissie van onderzoek procedure van werving, selectie en benoeming voorzitter Huis voor klokkenluiders"
 identifier: "BWBR0041864"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-02-01"
-last_updated: "2019-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041864"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "14966743"
-version_id: "25642732"
-internal_id: "C36599271"
-label_id: "14916974"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041864/2019-02-01/0"
-intitule_bron: "Stcrt.2019-5652"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-01-29"
-intitule_published: "2019-01-31"
-intitule_in_force: "2019-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-5652"
-original_signed_date: "2019-01-29"
-original_published_date: "2019-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-5652"
-entry_into_force_date: "2019-02-01"
-jci_1_3: "jci1.3:c:BWBR0041864&z=2019-02-01&g=2019-02-01"
-jci_1_0: "1.0:c:BWBR0041864&g=2019-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling Commissie van onderzoek procedure van werving, selectie en benoeming voorzitter Huis voor klokkenluiders"
-signed_date: "2019-01-29"
-entry_into_force: "2019-02-01"
+publicatiedatum: 2019-02-01
+laatste_update: 2019-02-01
+status: geldig
+toestand: 2019-02-01
+bron: "https://wetten.overheid.nl/BWBR0041864"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 januari 2019, nr. 2019-0000037204, houdende instelling van de Commissie van onderzoek inzake de procedure van werving, selectie en benoeming van de voorzitter van het Huis voor klokkenluiders
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041864&artikel=2&z=2019-02-01&g=2019-02-01);
+- a. *commissie:* commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041864&artikel=2&z=2019-02-01&g=2019-02-01);
 
-- b. **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *Minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **ministerie:** Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+- c. *ministerie:* Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2. Instelling en taak
 
@@ -76,11 +50,11 @@ In dit besluit wordt verstaan onder:
 
 De leden van de commissie zijn:
 
-- –. mr. P.J. (Pieter Jan) Biesheuvel, tevens voorzitter;
+- – mr. P.J. (Pieter Jan) Biesheuvel, tevens voorzitter;
 
-- –. mr. dr. J.L.W. (Hansko) Broeksteeg;
+- – mr. dr. J.L.W. (Hansko) Broeksteeg;
 
-- –. prof. dr. G.W. (Wim) Dubbink.
+- – prof. dr. G.W. (Wim) Dubbink.
 
 ##### Artikel 5. Secretaris
 
@@ -133,5 +107,3 @@ De leden van de commissie zijn:
 ##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

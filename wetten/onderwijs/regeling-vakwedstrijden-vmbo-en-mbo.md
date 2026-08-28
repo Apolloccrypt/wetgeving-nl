@@ -1,43 +1,43 @@
 ---
-title: "Regeling vakwedstrijden vmbo en mbo"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 8 juli 2019, nr. MBO/5897553, houdende regels voor het verstrekken van subsidie ten behoeve van het organiseren van nationale vakwedstrijden in het voortgezet onderwijs en beroepsonderwijs alsmede het voorbereiden op en deelname aan internationale vakwedstrijden in het beroepsonderwijs (Regeling vakwedstrijden vmbo en mbo)"
+citeertitel: "Regeling vakwedstrijden vmbo en mbo"
 identifier: "BWBR0042419"
-categorie: "Overig"
-publicatiedatum: 2025-10-30
-laatste_update: 2026-07-15
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
+publicatiedatum: 2019-07-19
+laatste_update: 2025-10-30
 status: vervallen
+vervallen_op: 2026-07-14
+toestand: 2025-10-30
 bron: "https://wetten.overheid.nl/BWBR0042419"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 8 juli 2019, nr. MBO/5897553, houdende regels voor het verstrekken van subsidie ten behoeve van het organiseren van nationale vakwedstrijden in het voortgezet onderwijs en beroepsonderwijs alsmede het voorbereiden op en deelname aan internationale vakwedstrijden in het beroepsonderwijs (Regeling vakwedstrijden vmbo en mbo)
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=2) en [4 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **beroepsonderwijs:** onderwijs als bedoeld in [artikel 1.2.1, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.2.1);
+- *beroepsonderwijs:* onderwijs als bedoeld in [artikel 1.2.1, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.2.1);
 
-- **boekjaar:** tijdvak dat aanvangt op 1 april van enig jaar en eindigt op 31 maart van het daarop volgend jaar;
+- *boekjaar:* tijdvak dat aanvangt op 1 april van enig jaar en eindigt op 31 maart van het daarop volgend jaar;
 
-- **instelling:** instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- *instelling:* instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **school:** school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *school:* school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **voorbereidend middelbaar beroepsonderwijs:** voorbereidend middelbaar beroepsonderwijs als bedoeld in [artikel 2.22 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.22).
+- *voorbereidend middelbaar beroepsonderwijs:* voorbereidend middelbaar beroepsonderwijs als bedoeld in [artikel 2.22 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.22).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 ##### Artikel 3. Doel en te subsidiëren activiteiten
 
-1. De minister kan voor de boekjaren in de periode van 1 april 2020 tot en met 31 maart 2026 aan een of meer rechtspersonen jaarlijks een projectsubsidie verstrekken voor:
+1. De minister kan voor de boekjaren in de periode van 1 april 2020 tot en met 31 maart 2026 aan een of meer rechtspersonen jaarlijks een projectsubsidie verstrekken voor:
 
 - a. het organiseren van jaarlijkse nationale vakwedstrijden voor het voorbereidend middelbaar beroepsonderwijs in Nederland, waaronder de voorrondes en finale, en het stimuleren van deelname daaraan;
 
@@ -49,39 +49,39 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 4. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 april 2020 tot en met 31 maart 2026 per boekjaar beschikbaar:
+1. Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 april 2020 tot en met 31 maart 2026 per boekjaar beschikbaar:
 
-- a. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 680.000;
+- a. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 680.000;
 
-- b. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 3.600.000;
+- b. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 3.600.000;
 
-- c. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 500.000.
+- c. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30): een bedrag van maximaal € 500.000.
 
-2. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 758.000 beschikbaar.
+2. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 758.000 beschikbaar.
 
 3. In afwijking van het eerste lid, onderdeel a, zijn de volgende bedragen beschikbaar voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30):
 
-- a. voor het boekjaar van 1 april 2023 tot en met 31 maart 2024: maximaal € 857.490.
+- a. voor het boekjaar van 1 april 2023 tot en met 31 maart 2024: maximaal € 857.490.
 
-- b. voor het boekjaar van 1 april 2024 tot en met 31 maart 2025: maximaal € 857.490.
+- b. voor het boekjaar van 1 april 2024 tot en met 31 maart 2025: maximaal € 857.490.
 
-4. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 3.827.000 beschikbaar.
+4. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 3.827.000 beschikbaar.
 
-5. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2023 tot en met 31 maart 2024 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.434.000 beschikbaar.
+5. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2023 tot en met 31 maart 2024 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.434.000 beschikbaar.
 
-6. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.610.000 beschikbaar.
+6. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.610.000 beschikbaar.
 
-7. In afwijking van het eerste lid, onderdeel c, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 580.000 beschikbaar.
+7. In afwijking van het eerste lid, onderdeel c, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 580.000 beschikbaar.
 
-8. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 907.000 beschikbaar.
+8. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 907.000 beschikbaar.
 
-9. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.817.000 beschikbaar.
+9. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 4.817.000 beschikbaar.
 
-10. In afwijking van het eerste lid, onderdeel c, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 580.000 beschikbaar.
+10. In afwijking van het eerste lid, onderdeel c, is voor het boekjaar van 1 april 2025 tot en met 31 maart 2026 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), een bedrag van maximaal € 580.000 beschikbaar.
 
 ##### Artikel 5. Subsidieaanvraag
 
-1. Voor het boekjaar 2020 wordt uiterlijk 15 oktober 2019 een aanvraag ingediend. De rechtspersoon waaraan subsidie voor het boekjaar 2020 is verstrekt, dient voor de boekjaren 2021, 2022, 2023, 2024 en 2025 uiterlijk 13 weken voor de aanvang van het boekjaar, waarvoor de subsidie wordt aangevraagd, een aanvraag in.
+1. Voor het boekjaar 2020 wordt uiterlijk 15 oktober 2019 een aanvraag ingediend. De rechtspersoon waaraan subsidie voor het boekjaar 2020 is verstrekt, dient voor de boekjaren 2021, 2022, 2023, 2024 en 2025 uiterlijk 13 weken voor de aanvang van het boekjaar, waarvoor de subsidie wordt aangevraagd, een aanvraag in.
 
 2. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) bevat de aanvraag voor het boekjaar 2020:
 
@@ -111,7 +111,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 7. Beoordeling subsidieaanvraag
 
-Een aanvraag wordt aan de hand van de volgende criteria, zoals uitgewerkt in de bijlage behorende bij deze regeling, beoordeeld:
+Een aanvraag wordt aan de hand van de volgende criteria, zoals uitgewerkt in de [bijlage](https://wetten.overheid.nl/BWBR0042419) behorende bij deze regeling, beoordeeld:
 
 - a. inhoud;
 
@@ -137,7 +137,7 @@ In aanvulling op [artikel 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&
 
 ##### Artikel 9. Verplichtingen
 
-1. De subsidieontvanger zendt aan de minister jaarlijks vóór 1 oktober een voortgangsrapportage waarin de subsidieontvanger aangeeft wat de stand van zaken is met betrekking tot de activiteit.
+1. De subsidieontvanger zendt aan de minister jaarlijks vóór 1 oktober een voortgangsrapportage waarin de subsidieontvanger aangeeft wat de stand van zaken is met betrekking tot de activiteit.
 
 2. De subsidieontvanger vraagt aan de school of instelling, noch aan diens leerlingen of studenten een financiële bijdrage voor deelname aan de activiteit.
 
@@ -153,7 +153,7 @@ Indien de activiteit waarvoor de subsidie is verleend geheel is verricht en voll
 
 1. De subsidieontvanger kan een egalisatiereserve vormen.
 
-2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de subsidie.
+2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de subsidie.
 
 3. De egalisatiereserve wordt in een boekjaar uitsluitend besteed aan de activiteit bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2025-10-30&g=2025-10-30), waarvoor de subsidieontvanger in dat boekjaar een subsidie heeft ontvangen, en die niet kan worden bekostigd uit de subsidie die is verleend ten behoeve van dat boekjaar.
 
@@ -161,27 +161,10 @@ Indien de activiteit waarvoor de subsidie is verleend geheel is verricht en voll
 
 ##### Artikel 13. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van 15 juli 2019. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 15 juli 2019, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 15 juli 2019.
+1. Deze regeling treedt in werking met ingang van 15 juli 2019. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 15 juli 2019, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 15 juli 2019.
 
-2. Deze regeling vervalt met ingang van 15 juli 2026.
+2. Deze regeling vervalt met ingang van 15 juli 2026.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vakwedstrijden vmbo en mbo.
-
-## Bijlage
-
-**Deze bijlage hoort bij de Regeling vakwedstrijden vmbo en mbo**
-
-Onderstaande tabel geeft een nadere uitwerking van de criteria waarop een subsidieaanvraag wordt beoordeeld.
-
-| Criterium | Beschrijving criterium | Deelaspecten | Scoring |
-| --- | --- | --- | --- |
-| Organisatie | Er is inzichtelijk gemaakt hoe de wedstrijden georganiseerd en uitgevoerd gaan worden. | • De organisatie- en overlegstructuur met bijbehorende taken en verantwoordelijkheden is zodanig ingericht dat een succesvolle uitvoering van het plan van aanpak mogelijk is. • De activiteitenplanning is uitvoerbaar en haalbaar in de aangegeven tijd. • De risico’s en beheersmaatregelen zijn in kaart gebracht • Evaluatie en bijsturing maakt onderdeel uit van het plan van aanpak. • Aantoonbare ervaring met soortgelijke evenementen | Voor dit criterium wordt hoger gescoord als de aanvraag beter is uitgewerkt op: • De beschrijving van de projectorganisatie; • Integrale uitvoering van de organisatie van de nationale en internationale wedstrijden in het mbo. Door de uitvoering in handen van één organisatie te leggen, of door duidelijke afstemming met de uitvoeringsorganisatie(s) van de andere wedstrijden) te hebben; • Regionale en sectorale verschillen bij de organisatie van de wedstrijden voor vo en mbo; • Activiteitenniveau, door per fase aan te geven welke tussenresultaten op welk moment en op welke wijze behaald worden; • Risicobeheersing. Doordat er sprake is van een duidelijke beschrijving van de risico’s met bijbehorende maatregelen, waaruit blijkt dat is nagedacht over mogelijke knelpunten en bedreigingen; • De wijze van het verzamelen van (voortgangs-) informatie voor (tussentijdse) bijsturing; • Informatieverstrekking over soortgelijke ervaringen door de aanvrager en het gebruik van deze kennis en ervaring voor de vakwedstrijden. • Een vernieuwende aanpak. |
-| Samenwerking | Er is een gedragen samenwerking met relevante actoren | Er is inzichtelijk gemaakt dat met diverse relevante actoren (scholen/ instellingen en bedrijfsleven) wordt samengewerkt doordat dit is opgenomen in een activiteitenplanning met een eventuele taakverdeling. | Voor dit criterium wordt hoger gescoord als de aanvraag beter is uitgewerkt op: • Het beschrijven van de belangen en de behoeften van de relevante actoren; • Het beschrijven van de inhoudelijke inbreng en deskundigheid van de relevante actoren bij het plan van aanpak; • Draagvlakverbreding door het betrekken van (een vertegenwoordiging van) leerlingen/ studenten, docenten en praktijkopleiders bij de inhoudelijke invulling van de wedstrijden. • Draagvlakverbreding door het betrekken van onderwijsinstellingen en bedrijfsleven bij de organisatie en inrichting van de wedstrijden. |
-| Financiën | Er is een inzichtelijke en evenwichtige begroting die voldoet aan de eisen van de regeling. | • In de begroting is duidelijk weergegeven welke kosten (en mogelijke opbrengsten) door wie gemaakt worden. • Uit de begroting blijkt dat de kosten in een redelijke verhouding (inzet uren, gehanteerd uurtarief, vergoeding te leveren goederen/ diensten) staan tot de beoogde activiteiten. | Voor dit criterium wordt hoger gescoord als de aanvraag beter is uitgewerkt op: • De onderbouwing van (alle) kosten en opbrengsten; • De kosten voor overhead, door deze zo laag mogelijk te houden; • De verhouding tussen kosten en opbrengsten/ resultaten; • De relatie tussen activiteitenplan en begroting; Voor dit criterium kan hoger gescoord worden als er sprake is van cofinanciering (financieel, dan wel materieel). |
-| Inhoud | Er is inzichtelijk gemaakt hoe de concrete uitwerking van de wedstrijden er uit gaat zien en hoe daarmee wordt bijgedragen aan de doelstelling van de regeling. | • Hoe wordt bijgedragen aan het versterken van het imago van het beroepsonderwijs. • Hoe wordt bijgedragen aan het stimuleren van deelname van een zo groot mogelijk aantal jongeren/ jong volwassenen om beroeps- en vakgericht onderwijs te volgen en daarbij het beste in zich naar boven te halen. • Hoe wordt bijgedragen aan het stimuleren van onderwijsinnovatie. • Hoe ziet de inhoudelijke betrokkenheid van relevante actoren (scholen/ instellingen en bedrijfsleven) er uit. • Is er sprake van diversiteit in betrokkenheid van diverse beroeps- en vakgerichte opleidingen • Is er sprake van diversiteit in doelgroepbereik onder leerlingen/ studenten (goede afspiegeling van de gehele populatie aan leerlingen/ studenten) | Voor dit criterium wordt hoger gescoord als de aanvraag beter is uitgewerkt op: • De bijdrage aan het versterken van het imago van het beroepsonderwijs; • De bijdrage om het beste uit jongeren/jong volwassenen naar boven te halen; • De inzet van andere onderwijsvormen en/ of nieuwe technologieën, als onderdeel van de wedstrijden; • De inhoudelijke bijdrage van relevante actoren. • Diversiteit in beroeps- en vakgerichte opleidingen; • Diversiteit in de doelgroep leerlingen/ studenten. |
-| Duurzaamheid | Er is aangegeven hoe het doel van de wedstrijden ook in de toekomst kan worden nagestreefd en hoe de voorgestelde aanpak daaraan bijdraagt. | • Jongeren/ jong volwassenen (blijvend) interesseren voor beroeps- en vakgericht onderwijs. • Diversiteit van leerlingen aan deelname garanderen. • Zorgdragen dat ontwikkelde producten aansluiten bij het onderwijsprogramma. • Zorgdragen dat het bedrijfsleven structureel betrokken blijft. | Voor dit criterium wordt hoger gescoord als de aanvraag beter is uitgewerkt op: • Visie over de wijze waarop de interesse van jongeren/ jong volwassenen voor beroeps- en vakgericht onderwijs (blijvend) kan worden gestimuleerd • Visie over de wijze waarop de diversiteit van leerlingen/ studenten bij deelname kan worden gestimuleerd en geborgd. • Visie over borging van ontwikkelde producten. • Visie op het borgen van structurele betrokkenheid van het bedrijfsleven. |
-| Promotie | Er is aangegeven hoe de zichtbaarheid van de wedstrijden wordt bevorderd. Daarbij is eveneens aangegeven hoe de deelname aan de wedstrijden door leerlingen/ studenten wordt vergroot in de looptijd van vier jaar. | • publiciteit creëren rond de wedstrijden/ communicatieplan • aantal en variatie in deelnemers aan de wedstrijden | Voor dit criterium wordt hoger gescoord als de aanvraag beter is uitgewerkt op: • de werkwijze om het aantal deelnemers aan de wedstrijden in de loop van vier jaar te vergroten; • de werkwijze om het aantal betrokken bedrijven in de loop van vier jaar te vergroten. • de werkwijze om de bekendheid van de vakwedstrijden bij een breed publiek(zoals ouders en toekomstige leerlingen) te vergroten. |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

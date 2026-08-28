@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat en van de Minister van Defensie, van 25 mei 2019, nr. IENW/BSK-2019/95910, tot vaststelling van de organisatie van de Kustwacht voor Nederland (Regeling organisatie Kustwacht Nederland)"
+citeertitel: "Regeling organisatie Kustwacht Nederland"
 identifier: "BWBR0042251"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042251"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15082573"
-version_id: "25851622"
-internal_id: "C36849211"
-label_id: "15031454"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042251/2025-07-01/0"
-intitule_bron: "Stcrt.2019-28763"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-25"
-intitule_published: "2019-05-28"
-intitule_in_force: "2019-05-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-28763"
-original_signed_date: "2019-05-25"
-original_published_date: "2019-05-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-28763"
-entry_into_force_date: "2019-07-01"
-jci_1_3: "jci1.3:c:BWBR0042251&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0042251&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling organisatie Kustwacht Nederland"
-signed_date: "2019-05-25"
-entry_into_force: "2019-07-01"
+publicatiedatum: 2019-07-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0042251"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat en van de Minister van Defensie, van 25 mei 2019, nr. IENW/BSK-2019/95910, tot vaststelling van de organisatie van de Kustwacht voor Nederland (Regeling organisatie Kustwacht Nederland)
-
-Handelende in overeenstemming met de Ministers van Justitie en Veiligheid, van Financiën, van Economische Zaken en Klimaat en van Landbouw, Natuur en Voedselkwaliteit,
-
-Gelet op [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44), de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=5), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=17), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23) en [36, eerste lid, van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=36) en de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), en [10:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6), Richtlijn nr. 2010/65/EU van het Europees Parlement en de Raad van 20 oktober 2010 betreffende meldingsformaliteiten voor schepen die aankomen in en/of vertrekken uit havens van de lidstaten en tot intrekking van [Richtlijn 2002/6/EG](32002L0006) (PbEU L 283), Hoofdstuk V, Voorschrift 19-1, van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157), en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen (SOLAS-verdrag), Richtlijn nr. 2000/59/EG van het Europees Parlement en de Raad van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332), Richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot het intrekken van [Richtlijn 93/75/EEG](31993L0075) van de Raad (PbEG L 131), verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), richtlijn nr. 2005/44/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende geharmoniseerde River Information Services (RIS) op de binnenwateren in de Gemeenschap (PbEU L 255), richtlijn nr. 2009/16/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende havenstaatcontrole (Herschikking) (PbEU L 131), en de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=29) en [30 van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=30), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12) en [12a van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12a), [1](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=4), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=16), [21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=21), en [22 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=22), [9.07 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07), [9 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=9), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=21), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=29) en [38, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=38), [5 van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=5), [2, tweede lid, onderdeel a, onder 1°, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=2), [51 van het Scheepvaartreglement Westerschelde](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51), [5 van het Vaststellingsbesluit binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5); de [artikelen 27, eerste lid, van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=27), [22, eerste lid, van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=22) en [16, tweede lid, van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16); artikel 25 van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) en het op 27 april 1979 te Hamburg tot stand gekomen Internationaal Verdrag inzake opsporing en redding op zee (Trb. 1980, 181); de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=3), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=18), en [19, eerste en tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19); het in 1960 in Londen mede door de Nederlandse Regering ondertekende Internationale Verdrag voor de Beveiliging van Mensenlevens op Zee, Hoofdstuk 5 bepaling 4 (meteorologische dienstverlening), en gezien het rapport van overleg dat terzake heeft plaats gehad tussen met name de vertegenwoordigers van het Koninklijk Nederlands Meteorologisch Instituut, de Hoofddirectie van Rijkswaterstaat en het Ministerie van Defensie in het Interdepartementaal Directeurenoverleg Noordzee van 13 juni 2001; de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=32), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=46), [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=48), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=51), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=54), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=58) en [65 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=65), de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5), [26e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26e), en [26f van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26f) en de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=3), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=7), en [11, tweede lid, van de Wet buitenlandse schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=11), op richtlijn nr. 92/29/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG L 113), alsmede op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01) van deze regeling genoemde Codes, richtlijnen en verordeningen;
-
-BESLUITEN
 
 #### § 1. Algemene bepalingen
 
@@ -48,37 +20,37 @@ BESLUITEN
 
 In deze regeling wordt verstaan onder:
 
-- **APB:** activiteitenplan en begroting waarin onder andere uitgaande van het dienstverleningsplan, het handhavingsplan en het maritieme security plan, de middelen voor en de prioritering van de taakuitvoering in de Kustwacht worden vastgelegd voor een bepaald kalenderjaar en gepland voor de daaropvolgende vijf kalenderjaren;
+- *APB:* activiteitenplan en begroting waarin onder andere uitgaande van het dienstverleningsplan, het handhavingsplan en het maritieme security plan, de middelen voor en de prioritering van de taakuitvoering in de Kustwacht worden vastgelegd voor een bepaald kalenderjaar en gepland voor de daaropvolgende vijf kalenderjaren;
 
-- **diensten:** diensten en organisaties, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01);
+- *diensten:* diensten en organisaties, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01);
 
-- **dienstverleningsplan:** plan waarin de gewenste taakuitvoering in de Kustwacht en resultaten met betrekking tot dienstverlening worden vastgelegd op basis van beleidsdoelen en beleidsprioriteiten voor een kalenderjaar en gepland voor de daarop volgende vijf kalenderjaren;
+- *dienstverleningsplan:* plan waarin de gewenste taakuitvoering in de Kustwacht en resultaten met betrekking tot dienstverlening worden vastgelegd op basis van beleidsdoelen en beleidsprioriteiten voor een kalenderjaar en gepland voor de daarop volgende vijf kalenderjaren;
 
-- **Directeur Kustwacht:** Directeur Kustwacht, genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=4&artikel=14&z=2025-07-01&g=2025-07-01);
+- *Directeur Kustwacht:* Directeur Kustwacht, genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=4&artikel=14&z=2025-07-01&g=2025-07-01);
 
-- **gecombineerd jaarplan:** het document waarin het handhavingsplan, het dienstverleningsplan, het maritieme security plan en het APB zijn samengevoegd;
+- *gecombineerd jaarplan:* het document waarin het handhavingsplan, het dienstverleningsplan, het maritieme security plan en het APB zijn samengevoegd;
 
-- **gezag:** het gezag over de uitvoering van de politietaak, genoemd in [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=13) en [14 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=14);
+- *gezag:* het gezag over de uitvoering van de politietaak, genoemd in [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=13) en [14 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=14);
 
-- **handhavingsplan:** plan waarin de gewenste taakuitvoering in de Kustwacht en resultaten met betrekking tot toezicht en handhaving worden vastgelegd op basis van beleidsdoelen en beleidsprioriteiten voor een bepaald kalenderjaar en gepland voor de daarop volgende vier kalenderjaren;
+- *handhavingsplan:* plan waarin de gewenste taakuitvoering in de Kustwacht en resultaten met betrekking tot toezicht en handhaving worden vastgelegd op basis van beleidsdoelen en beleidsprioriteiten voor een bepaald kalenderjaar en gepland voor de daarop volgende vier kalenderjaren;
 
-- **Kustwacht:** samenwerkingsverband, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01);
+- *Kustwacht:* samenwerkingsverband, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01);
 
-- **kustwachtcentrum:** kustwachtcentrum, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01);
+- *kustwachtcentrum:* kustwachtcentrum, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01);
 
-- **kustwachtorganisatie:** kustwachtorganisatie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=1&artikel=4&z=2025-07-01&g=2025-07-01);
+- *kustwachtorganisatie:* kustwachtorganisatie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=1&artikel=4&z=2025-07-01&g=2025-07-01);
 
-- **maritieme security plan:** plan waarin de gewenste taakuitvoering in de Kustwacht en de resultaten met betrekking tot de maritieme security taken worden vastgelegd op basis van de beleidsdoelen en de beleidsprioriteiten voor een kalenderjaar en gepland voor de daarop volgende vijf kalenderjaren;
+- *maritieme security plan:* plan waarin de gewenste taakuitvoering in de Kustwacht en de resultaten met betrekking tot de maritieme security taken worden vastgelegd op basis van de beleidsdoelen en de beleidsprioriteiten voor een kalenderjaar en gepland voor de daarop volgende vijf kalenderjaren;
 
-- **middelen:** financiële en materiële en personele middelen die de Directeur Kustwacht ter beschikking worden gesteld ten behoeve van de taakuitvoering van de Kustwacht;
+- *middelen:* financiële en materiële en personele middelen die de Directeur Kustwacht ter beschikking worden gesteld ten behoeve van de taakuitvoering van de Kustwacht;
 
-- **ministers:** de Minister van Infrastructuur en Waterstaat, de Minister van Defensie, de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Economische Zaken en Klimaat, de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- *ministers:* de Minister van Infrastructuur en Waterstaat, de Minister van Defensie, de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Economische Zaken en Klimaat, de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- **opdrachtgevende ministers:** de Minister van Infrastructuur en Waterstaat, de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Economische Zaken en Klimaat, de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- *opdrachtgevende ministers:* de Minister van Infrastructuur en Waterstaat, de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Economische Zaken en Klimaat, de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- **SAR-taken:** search and rescue-taken, zijnde de opsporing en redding van in nood verkerende bemanningen en passagiers van vliegtuigen en schepen.
+- *SAR-taken:* search and rescue-taken, zijnde de opsporing en redding van in nood verkerende bemanningen en passagiers van vliegtuigen en schepen.
 
-- **taakuitvoering in de Kustwacht:** geheel van bij of krachtens een verdrag of wet vastgestelde taken die de diensten of de Directeur Kustwacht gelet op het APB uitvoeren en andere, uit het APB voortvloeiende taken die de diensten of de Directeur Kustwacht uitvoeren in de Kustwacht;
+- *taakuitvoering in de Kustwacht:* geheel van bij of krachtens een verdrag of wet vastgestelde taken die de diensten of de Directeur Kustwacht gelet op het APB uitvoeren en andere, uit het APB voortvloeiende taken die de diensten of de Directeur Kustwacht uitvoeren in de Kustwacht;
 
 ##### Artikel 2. Doel van de Kustwacht
 
@@ -314,45 +286,45 @@ De Directeur Kustwacht:
 
 2. Andere dan de in het eerste lid bedoelde schepen of luchtvaartuigen die worden ingezet voor de taakuitvoering in de Kustwacht, voeren de kustwachtvlag, respectievelijk zijn voorzien van het kustwachtlogo.
 
-##### Artikel 19. Regeling ten behoeve van gemaakte afspraken op basis van het [Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546)
+##### Artikel 19. Regeling ten behoeve van gemaakte afspraken op basis van het Besluit instelling Kustwacht
 
 Op basis van [Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546) bestaande overeenkomsten en andere afspraken worden, tenzij in die documenten anders is bepaald, geacht onder deze regeling te vallen.
 
-##### Artikel 20. Wijziging van [Besluit uitvoerings- en handhavingsvoorzieningen Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037411)
+##### Artikel 20. Wijziging van Besluit uitvoerings- en handhavingsvoorzieningen Wet bestrijding maritieme ongevallen
 
-Wijzigt het Besluit uitvoerings- en handhavingsvoorzieningen Wet bestrijding maritieme ongevallen.
+*Wijzigt het Besluit uitvoerings- en handhavingsvoorzieningen Wet bestrijding maritieme ongevallen.*
 
-##### Artikel 21. Wijziging van [Regeling meldingen en communicatie scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031567)
+##### Artikel 21. Wijziging van Regeling meldingen en communicatie scheepvaart
 
-Wijzigt de Regeling meldingen en communicatie scheepvaart.
+*Wijzigt de Regeling meldingen en communicatie scheepvaart.*
 
-##### Artikel 22. Wijziging van [Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0028910)
+##### Artikel 22. Wijziging van Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu
 
-Wijzigt het Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu.
+*Wijzigt het Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu.*
 
-##### Artikel 23. Wijziging van [Bijdrageregeling opgeviste explosieven 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005727)
+##### Artikel 23. Wijziging van Bijdrageregeling opgeviste explosieven 1992
 
-Wijzigt de Bijdrageregeling opgeviste explosieven 1992.
+*Wijzigt de Bijdrageregeling opgeviste explosieven 1992.*
 
-##### Artikel 24. Wijziging van [Regeling inzake de SAR-dienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006895)
+##### Artikel 24. Wijziging van Regeling inzake de SAR-dienst 1994
 
-Wijzigt de Regeling inzake de SAR-dienst 1994.
+*Wijzigt de Regeling inzake de SAR-dienst 1994.*
 
-##### Artikel 25. Wijziging van [Vrijstellingsregeling Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035900)
+##### Artikel 25. Wijziging van Vrijstellingsregeling Besluit luchtverkeer 2014
 
-Wijzigt de Vrijstellingsregeling Besluit luchtverkeer 2014.
+*Wijzigt de Vrijstellingsregeling Besluit luchtverkeer 2014.*
 
-##### Artikel 26. Wijziging van [Beschikking wind- en stormwaarschuwingsdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0012825)
+##### Artikel 26. Wijziging van Beschikking wind- en stormwaarschuwingsdienst
 
-Wijzigt de Beschikking wind- en stormwaarschuwingsdienst.
+*Wijzigt de Beschikking wind- en stormwaarschuwingsdienst.*
 
-##### Artikel 27. Wijziging van [Premieregeling opgeviste milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004611)
+##### Artikel 27. Wijziging van Premieregeling opgeviste milieugevaarlijke stoffen
 
-Wijzigt de Premieregeling opgeviste milieugevaarlijke stoffen.
+*Wijzigt de Premieregeling opgeviste milieugevaarlijke stoffen.*
 
-##### Artikel 28. Wijziging van [Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728)
+##### Artikel 28. Wijziging van Regeling veiligheid zeeschepen
 
-Wijzigt de Regeling veiligheid zeeschepen.
+*Wijzigt de Regeling veiligheid zeeschepen.*
 
 ##### Artikel 29. Intrekking
 
@@ -360,10 +332,8 @@ Het [Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR00205
 
 ##### Artikel 30. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2019.
+Deze regeling treedt in werking met ingang van 1 juli 2019.
 
 ##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling organisatie Kustwacht Nederland.
-
-De regeling zal met de toelichting in de Staatscourant worden geplaatst.

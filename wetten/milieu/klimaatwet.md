@@ -1,47 +1,18 @@
 ---
 title: "Wet van 2 juli 2019, houdende een kader voor het ontwikkelen van beleid gericht op onomkeerbaar en stapsgewijs terugdringen van de Nederlandse emissies van broeikasgassen teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken (Klimaatwet)"
+citeertitel: "Klimaatwet"
 identifier: "BWBR0042394"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042394"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "15118863"
-version_id: "25917722"
-internal_id: "C36929881"
-label_id: "15067084"
-dtd_version: "2.0"
-original_entry_into_force: "2019-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042394/2026-01-01/0"
-intitule_bron: "Stb.2019-253"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-02"
-intitule_published: "2019-07-10"
-intitule_in_force: "2019-07-10"
-intitule_status: "goed"
-original_publication: "Stb.2019-253"
-original_signed_date: "2019-07-02"
-original_published_date: "2019-07-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "34534"
-original_url_id: "stb-2019-253"
-entry_into_force_date: "2019-09-01"
-jci_1_3: "jci1.3:c:BWBR0042394&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0042394&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Klimaatwet"
-signed_date: "2019-07-02"
-entry_into_force: "2019-09-01"
+publicatiedatum: 2019-09-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0042394"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 2 juli 2019, houdende een kader voor het ontwikkelen van beleid gericht op onomkeerbaar en stapsgewijs terugdringen van de Nederlandse emissies van broeikasgassen teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken (Klimaatwet)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is doelstellingen voor Nederland te formuleren voor het terugdringen van de Nederlandse emissies van broeikasgassen en een wettelijk kader te scheppen voor het ontwikkelen van beleid hiervoor ter invulling van de eigenstandige verantwoordelijkheid die Nederland heeft om de mondiale stijging van temperatuur en de verandering van het klimaat te beperken, en dat het wenselijk is de bindende verplichtingen die Nederland met de op 12 december 2015 te Parijs tot stand gekomen Overeenkomst van Parijs is aangegaan in te vullen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,27 +20,30 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet wordt verstaan onder:
 
-- **aandeel hernieuwbare energie:** aandeel hernieuwbare energie, berekend in overeenstemming met de artikelen 5 tot en met 11 van de Richtlijn hernieuwbare energie, in het brutoeindverbruik van energie;
+- *aandeel hernieuwbare energie:* aandeel hernieuwbare energie, berekend in overeenstemming met de artikelen 5 tot en met 11 van de Richtlijn hernieuwbare energie, in het brutoeindverbruik van energie;
 
-- **broeikasgassen:** gassen genoemd in bijlage V, deel 2, van de Verordening governance van de Energie-unie;
+- *broeikasgassen:* gassen genoemd in bijlage V, deel 2, van de Verordening governance van de Energie-unie;
 
-- **CO2-neutrale elektriciteitsproductie:** elektriciteitsproductie waarbij geen broeikasgassen vrijkomen in de atmosfeer of waarbij biomassa als brandstof gebruikt wordt;
+- *CO2-neutrale elektriciteitsproductie:* elektriciteitsproductie waarbij geen broeikasgassen vrijkomen in de atmosfeer of waarbij biomassa als brandstof gebruikt wordt;
 
-- **Europese klimaatwet:** [Verordening (EU) 2021/1119](32021R1119) van het Europees Parlement en de Raad van 30 juni 2021 tot vaststelling van een kader voor de verwezenlijking van klimaatneutraliteit, en tot wijziging van [Verordening (EG) nr. 401/2009](32009R0401) en [Verordening (EU) 2018/1999](32018R1999) (Pb EU 2021, L 243);
+- *Europese klimaatwet:*
+ Verordening (EU) 2021/1119 van het Europees Parlement en de Raad van 30 juni 2021 tot vaststelling van een kader voor de verwezenlijking van klimaatneutraliteit, en tot wijziging van Verordening (EG) nr. 401/2009 en Verordening (EU) 2018/1999 (Pb EU 2021, L 243);
 
-- **hernieuwbare energie:** energie uit hernieuwbare bronnen als bedoeld in artikel 2, onderdeel a, van de Richtlijn hernieuwbare energie;
+- *hernieuwbare energie:* energie uit hernieuwbare bronnen als bedoeld in artikel 2, onderdeel a, van de Richtlijn hernieuwbare energie;
 
-- **Onze Minister:** Onze Minister van Klimaat en Groene Groei;
+- *Onze Minister:* Onze Minister van Klimaat en Groene Groei;
 
-- **Richtlijn hernieuwbare energie:** [Richtlijn 2009/28/EG](32009L0028) van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van [Richtlijn 2001/77/EG](32001L0077) en [Richtlijn 2003/30/EG](32003L0030) (PbEU 2009, L 140)
+- *Richtlijn hernieuwbare energie:*
+ Richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140)
 
-- **verordening governance van de energie-unie:** [Verordening (EU) 2018/1999](32018R1999) van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van [Richtlijn 94/22/EG](31994L0022), [Richtlijn 98/70/EG](31998L0070), [Richtlijn 2009/31/EG](32009L0031), Verordening (EG) nr. 663/2009, Verordening (EG) nr. 715/2009, [Richtlijn 2009/73/EG](32009L0073), [Richtlijn 2009/119/EG](32009L0119) van de Raad, [Richtlijn 2010/31](32010L0031)/EU, [Richtlijn 2012/27](32012L0027)/EU, [Richtlijn 2013/30](32013L0030)/EU en [Richtlijn (EU) 2015/652](32015L0652) van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 (PbEU 2018, L328);
+- *verordening governance van de energie-unie:*
+ Verordening (EU) 2018/1999 van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van Richtlijn 94/22/EG, Richtlijn 98/70/EG, Richtlijn 2009/31/EG, Verordening (EG) nr. 663/2009, Verordening (EG) nr. 715/2009, Richtlijn 2009/73/EG, Richtlijn 2009/119/EG van de Raad, Richtlijn 2010/31/EU, Richtlijn 2012/27/EU, Richtlijn 2013/30/EU en Richtlijn (EU) 2015/652 van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 (PbEU 2018, L328);
 
-- **Wetenschappelijke Klimaatraad:** de Wetenschappelijke Klimaatraad, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01).
+- *Wetenschappelijke Klimaatraad:* de Wetenschappelijke Klimaatraad, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 2
 
-1. Deze wet biedt een kader voor de ontwikkeling van beleid gericht op het onomkeerbaar en stapsgewijs terugdringen van de emissies van broeikasgassen in Nederland teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken, waarbij Nederland overeenkomstig artikel 2, eerste lid, van de Europese klimaatwet:
+1. Deze wet biedt een kader voor de ontwikkeling van beleid gericht op het onomkeerbaar en stapsgewijs terugdringen van de emissies van broeikasgassen in Nederland teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken, waarbij Nederland overeenkomstig artikel 2, eerste lid, van de Europese klimaatwet:
 
 - a. de netto-uitstoot van broeikasgassen uiterlijk in 2050 tot nul reduceert, en
 
@@ -77,7 +51,7 @@ In deze wet wordt verstaan onder:
 
 2. Teneinde deze doelstelling voor 2050 te bereiken streven Onze Ministers die het aangaat naar een reductie van de emissies van broeikasgassen van 55% ten opzichte van 1990 in 2030 en een volledige CO2-neutrale elektriciteitsproductie in 2050. Zij treffen daarnaast passende maatregelen opdat Nederland voldoet aan de reductieverplichtingen op grond van artikel 4, eerste lid, van de Europese klimaatwet en de ter uitwerking daarvan vastgestelde bindende EU-rechtshandelingen.
 
-3. Voor de toepassing van deze wet geldt als de emissies van broeikasgassen de emissies binnen Nederland van broeikasgassen afkomstig van sectoren en bronnen en de verwijdering per put die in de nationale broeikasgasinventarissen overeenkomstig artikel 4, eerste lid, onder a, van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering (Trb. 1992, 189) zijn opgenomen.
+3. Voor de toepassing van deze wet geldt als de emissies van broeikasgassen de emissies binnen Nederland van broeikasgassen afkomstig van sectoren en bronnen en de verwijdering per put die in de nationale broeikasgasinventarissen overeenkomstig artikel 4, eerste lid, onder a, van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering (Trb. 1992, 189) zijn opgenomen.
 
 ### Hoofdstuk 2. Klimaatplan
 
@@ -163,8 +137,6 @@ In deze wet wordt verstaan onder:
 
 3. De Wetenschappelijke Klimaatraad heeft tot taak de regering en beide kamers der Staten-Generaal te adviseren over het te voeren klimaatbeleid. De Wetenschappelijke Klimaatraad brengt daarbij ten minste een advies uit ter voorbereiding van het klimaatplan, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01).
 
-### Hoofdstuk 5. Slotbepalingen
-
 ##### Artikel 9
 
 1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
@@ -173,16 +145,12 @@ In deze wet wordt verstaan onder:
 
 3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01).
 
+### Hoofdstuk 5. Slotbepalingen
+
 ##### Artikel 10
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 5. Slotbepalingen
-
 ##### Artikel 11
 
 Deze wet wordt aangehaald als: Klimaatwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

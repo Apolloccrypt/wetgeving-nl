@@ -1,34 +1,34 @@
 ---
-title: "Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 januari 2019, nr. MBO/1420991, houdende instelling van de Tijdelijke adviescommissie regionaal investeringsfonds mbo (Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo 2019–2022)"
+citeertitel: "Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo"
 identifier: "BWBR0041860"
-categorie: "Overig"
-publicatiedatum: 2026-06-01
-laatste_update: 2026-06-02
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
+publicatiedatum: 2019-01-31
+laatste_update: 2026-06-01
 status: geldig
+toestand: 2026-06-01
 bron: "https://wetten.overheid.nl/BWBR0041860"
+opgehaald: 2026-08-28
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 januari 2019, nr. MBO/1420991, houdende instelling van de Tijdelijke adviescommissie regionaal investeringsfonds mbo (Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo 2019–2022)
-
-Gezien [artikel 20 Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=20);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2026-06-01&g=2026-06-01).
+- *commissie:* Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2026-06-01&g=2026-06-01).
 
 ##### Artikel 2. Instelling commissie
 
 1. Er is een Tijdelijke adviescommissie regionaal investeringsfonds mbo.
 
-2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2028.
+2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2028.
 
-3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2026-06-01&g=2026-06-01) genoemde taken van de commissie.
+3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2026-06-01&g=2026-06-01) genoemde taken van de commissie.
 
 ##### Artikel 3. Taken commissie Regeling regionaal investeringsfonds mbo 2019–2022
 
@@ -134,21 +134,21 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 1. De vergoeding van de voorzitter van de commissie bedraagt € 362,22 per dagdeel.
 
-2. De vergoeding van de overige leden bedraagt € 331,– per dagdeel.
+2. De vergoeding van de overige leden bedraagt € 331,– per dagdeel.
 
 3. Een commissielid ontvangt de volgende vergoeding:
 
 - a. voor het beoordelen van een subsidieaanvraag als bedoeld in [artikel 21 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) of [artikel 19 van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19):
 
-  - 1°. twee dagdelen voor het bestuderen van de stukken; en
+   - 1°. twee dagdelen voor het bestuderen van de stukken; en
 
-  - 2°. één dagdeel voor het bijwonen van de mondelinge toelichting, bedoeld in [artikel 21, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) of [artikel 19, tweede lid, van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19), blijkend uit de taakverdeling tussen de commissieleden;
+   - 2°. één dagdeel voor het bijwonen van de mondelinge toelichting, bedoeld in [artikel 21, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) of [artikel 19, tweede lid, van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19), blijkend uit de taakverdeling tussen de commissieleden;
 
 - b. voor het beoordelen van een voortgangsrapportage als bedoeld in [artikel 22 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22):
 
-  - 1°. twee dagdelen voor het bestuderen van de stukken; en
+   - 1°. twee dagdelen voor het bestuderen van de stukken; en
 
-  - 2°. één dagdeel voor het bijwonen van het gesprek of het bezoek aan het project, bedoeld in [artikel 22, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), blijkend uit de taakverdeling tussen de commissieleden;
+   - 2°. één dagdeel voor het bijwonen van het gesprek of het bezoek aan het project, bedoeld in [artikel 22, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), blijkend uit de taakverdeling tussen de commissieleden;
 
 - c. per aanvraagperiode één dagdeel voor het uitbrengen van advies aan de Minister.
 
@@ -168,12 +168,10 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden d
 
 ##### Artikel 14. Inwerkingtreding en vervaldatum
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2019.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2019.
 
-2. Dit besluit vervalt met ingang van 1 januari 2028.
+2. Dit besluit vervalt met ingang van 1 januari 2028.
 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

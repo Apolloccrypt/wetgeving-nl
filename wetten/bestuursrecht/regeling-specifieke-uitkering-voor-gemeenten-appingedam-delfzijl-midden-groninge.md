@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 17 juni 2019, nr. WJZ/19138916, houdende een specifieke uitkering voor de gemeenten Appingedam, Delfzijl, Midden-Groningen en Groningen in verband met de versterking van de gebouwen in batch 1.588"
+citeertitel: "Regeling specifieke uitkering voor gemeenten Appingedam, Delfzijl, Midden-Groningen en Groningen (versterking gebouwen in batch 1.588)"
 identifier: "BWBR0042306"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-06-20"
-last_updated: "2019-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042306"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15096633"
-version_id: "25878292"
-internal_id: "C36882521"
-label_id: "15045094"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042306/2019-06-20/0"
-intitule_bron: "Stcrt.2019-34667"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-17"
-intitule_published: "2019-06-19"
-intitule_in_force: "2019-06-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-34667"
-original_signed_date: "2019-06-17"
-original_published_date: "2019-06-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-34667"
-entry_into_force_date: "2019-06-20"
-jci_1_3: "jci1.3:c:BWBR0042306&z=2019-06-20&g=2019-06-20"
-jci_1_0: "1.0:c:BWBR0042306&g=2019-06-20"
-citeertitel_status: "redactioneel"
-short_title: "Regeling specifieke uitkering voor gemeenten Appingedam, Delfzijl, Midden-Groningen en Groningen (versterking gebouwen in batch 1.588)"
-signed_date: "2019-06-17"
-entry_into_force: "2019-06-20"
+publicatiedatum: 2019-06-20
+laatste_update: 2019-06-20
+status: geldig
+toestand: 2019-06-20
+bron: "https://wetten.overheid.nl/BWBR0042306"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 17 juni 2019, nr. WJZ/19138916, houdende een specifieke uitkering voor de gemeenten Appingedam, Delfzijl, Midden-Groningen en Groningen in verband met de versterking van de gebouwen in batch 1.588
-
-Gelet op de [artikelen 2, onderdelen a en b, van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2) en [17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **minister:** Minister van Economische Zaken en Klimaat;
+- – *minister:* Minister van Economische Zaken en Klimaat;
 
-- –. **gemeenten:** gemeenten Appingedam, Delfzijl, Midden-Groningen en Groningen;
+- – *gemeenten:* gemeenten Appingedam, Delfzijl, Midden-Groningen en Groningen;
 
-- –. **batch 1.588:** door de Nationaal Coördinator Groningen benoemde batch van 1.588 woningen in de gemeenten waarvoor versterkingsadviezen zijn opgesteld.
+- – *batch 1.588:* door de Nationaal Coördinator Groningen benoemde batch van 1.588 woningen in de gemeenten waarvoor versterkingsadviezen zijn opgesteld.
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -97,5 +71,3 @@ Onverschuldigd betaalde uitkeringsbedragen en voorschotten kunnen worden terugge
 ##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

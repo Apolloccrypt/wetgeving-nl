@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097647, houdende de inrichting van de directie Internationale Zaken alsmede doorverlening van vertegenwoordigings-bevoegdheden van de directeur Internationale Zaken (Organisatie-, mandaat- en volmachtbesluit IZ 2019)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit IZ 2019"
 identifier: "BWBR0042445"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-14"
-last_updated: "2023-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042445"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15130393"
-version_id: "25944862"
-internal_id: "C36960751"
-label_id: "15078384"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042445/2023-09-14/0"
-intitule_bron: "Stcrt.2019-41140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-15"
-intitule_published: "2019-07-24"
-intitule_in_force: "2019-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-41140"
-original_signed_date: "2019-07-15"
-original_published_date: "2019-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-41140"
-entry_into_force_date: "2019-07-26"
-jci_1_3: "jci1.3:c:BWBR0042445&z=2023-09-14&g=2023-09-14"
-jci_1_0: "1.0:c:BWBR0042445&g=2023-09-14"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit IZ 2019"
-signed_date: "2019-07-15"
-entry_into_force: "2019-07-26"
+publicatiedatum: 2019-07-26
+laatste_update: 2023-09-14
+status: geldig
+toestand: 2023-09-14
+bron: "https://wetten.overheid.nl/BWBR0042445"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097647, houdende de inrichting van de directie Internationale Zaken alsmede doorverlening van vertegenwoordigings-bevoegdheden van de directeur Internationale Zaken (Organisatie-, mandaat- en volmachtbesluit IZ 2019)
-
-Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=3), en [15 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=15);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** de directie Internationale Zaken van het ministerie van Sociale Zaken en Werkgelegenheid;
+- a. *directie:* de directie Internationale Zaken van het ministerie van Sociale Zaken en Werkgelegenheid;
 
-- b. **directeur:** de directeur Internationale Zaken
+- b. *directeur:* de directeur Internationale Zaken
 
 #### § 2. Organisatie en taken
 
@@ -130,21 +104,21 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid
 
 - a. het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatie-eenheid, voor zover het betreft:
 
-- 1°. het opmaken en vaststellen van een beoordeling van medewerkers;
+   - 1°. het opmaken en vaststellen van een beoordeling van medewerkers;
 
-- 2°. het houden van manager-medewerker gesprekken;
+   - 2°. het houden van manager-medewerker gesprekken;
 
-- 3°. verlof van medewerkers;
+   - 3°. verlof van medewerkers;
 
-- 4°. kleine beloningen en gratificaties, onder gelijktijdige mededeling daarvan aan de directeur;
+   - 4°. kleine beloningen en gratificaties, onder gelijktijdige mededeling daarvan aan de directeur;
 
-- 5°. personele ontwikkeling van medewerkers waaronder opleiding en begeleiding, die voorafgaand door de directeur zijn geaccordeerd;
+   - 5°. personele ontwikkeling van medewerkers waaronder opleiding en begeleiding, die voorafgaand door de directeur zijn geaccordeerd;
 
 - b. het afdoen van stukken met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs kan worden vermoed, dat deze door de directeur moeten worden afgedaan.
 
 ##### Artikel 8
 
-Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen. Dit geldt voor:
+Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen. Dit geldt voor:
 
 - a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld. Voorafgaand zijn deze activiteiten door de directeur geaccordeerd;
 
@@ -162,8 +136,6 @@ Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelij
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie Internationale Zaken 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025300) wordt ingetrokken.
 
-2. Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 januari 2019.
+2. Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 januari 2019.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit IZ 2019.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

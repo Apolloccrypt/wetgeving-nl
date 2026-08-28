@@ -1,47 +1,18 @@
 ---
 title: "Wet van 22 mei 2019, houdende nieuwe bepalingen met betrekking tot de medezeggenschap van cliënten in zorginstellingen (Wet medezeggenschap cliënten zorginstellingen 2018)"
+citeertitel: "Wet medezeggenschap cliënten zorginstellingen 2018"
 identifier: "BWBR0042294"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-05"
-last_updated: "2025-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042294"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15094373"
-version_id: "25874812"
-internal_id: "C37717131"
-label_id: "15043094"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042294/2025-07-05/0"
-intitule_bron: "Stb.2019-215"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-22"
-intitule_published: "2019-06-14"
-intitule_in_force: "2020-03-20"
-intitule_status: "goed"
-original_publication: "Stb.2019-215"
-original_signed_date: "2019-05-22"
-original_published_date: "2019-06-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "34858"
-original_url_id: "stb-2019-215"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0042294&z=2025-07-05&g=2025-07-05"
-jci_1_0: "1.0:c:BWBR0042294&g=2025-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet medezeggenschap cliënten zorginstellingen 2018"
-signed_date: "2019-05-22"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2025-07-05
+status: geldig
+toestand: 2025-07-05
+bron: "https://wetten.overheid.nl/BWBR0042294"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 22 mei 2019, houdende nieuwe bepalingen met betrekking tot de medezeggenschap van cliënten in zorginstellingen (Wet medezeggenschap cliënten zorginstellingen 2018)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo, Wij in overweging genomen hebben, dat het wenselijk is de medezeggenschap van cliënten in zorginstellingen te versterken en daartoe een nieuwe Wet medezeggenschap cliënten zorginstellingen vast te stellen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepaling
 
@@ -49,17 +20,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **cliënt:** een natuurlijke persoon ten behoeve van wie een instelling werkzaam is;
+- a. *cliënt:* een natuurlijke persoon ten behoeve van wie een instelling werkzaam is;
 
-- b. **commissie van vertrouwenslieden:** een commissie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=14&z=2025-07-05&g=2025-07-05);
+- b. *commissie van vertrouwenslieden:* een commissie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=14&z=2025-07-05&g=2025-07-05);
 
-- c. **instelling:** een instelling als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
+- c. *instelling:* een instelling als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
 
-- d. **medezeggenschapsregeling:** een regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05);
+- d. *medezeggenschapsregeling:* een regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05);
 
-- e. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- e. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- f. **zorg:** zorg als bedoeld bij of krachtens de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173).
+- f. *zorg:* zorg als bedoeld bij of krachtens de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173).
 
 2. Bij algemene maatregel van bestuur wordt bepaald op welke vormen van zorg of categorieën van instellingen, gezien de wijze waarop de zorg wordt verleend, het doel van de zorg of de relatie tussen de cliënt en de instelling, deze wet niet van toepassing is.
 
@@ -113,9 +84,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 2. Zodra een instelling schriftelijk of elektronisch onder de aandacht van de cliëntenraad, de cliënten en hun vertegenwoordigers heeft gebracht dat hij vrijwillig een cliëntenraad in stand houdt, zijn de volgende bepalingen van overeenkomstige toepassing:
 
-- –. [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=6&z=2025-07-05&g=2025-07-05);
+- – [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=6&z=2025-07-05&g=2025-07-05);
 
-- –. [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=14&z=2025-07-05&g=2025-07-05) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=15&z=2025-07-05&g=2025-07-05), voor zover deze artikelen betrekking hebben op bepalingen die van toepassing of van overeenkomstige toepassing zijn op vrijwillig in stand gehouden cliëntenraden.
+- – [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=14&z=2025-07-05&g=2025-07-05) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=15&z=2025-07-05&g=2025-07-05), voor zover deze artikelen betrekking hebben op bepalingen die van toepassing of van overeenkomstige toepassing zijn op vrijwillig in stand gehouden cliëntenraden.
 
 3. De instelling die vrijwillig een cliëntenraad in stand houdt legt in overleg met de cliëntenraad vast over welke onderwerpen de cliëntenraad medezeggenschap heeft en op welke wijze de medezeggenschap geregeld is.
 
@@ -285,15 +256,15 @@ Een instelling legt in haar statuten of, indien zij geen statuten heeft, andersz
 
 3. Organisaties als bedoeld in het eerste lid die een commissie van vertrouwenslieden hebben ingesteld, waarborgen dat:
 
-- a. een instelling of een cliëntenraad aan de commissie een geschil kan voorleggen over de uitvoering van de [artikelen 3, tweede tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05), [4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=4&z=2025-07-05&g=2025-07-05), [5, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=5&z=2025-07-05&g=2025-07-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=6&z=2025-07-05&g=2025-07-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=7&z=2025-07-05&g=2025-07-05), [8, eerste tot en met vijfde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=8&z=2025-07-05&g=2025-07-05), [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=9&z=2025-07-05&g=2025-07-05), en [13, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=13&z=2025-07-05&g=2025-07-05), alsmede over de uitvoering van de medezeggenschapsregeling;
+- a. een instelling of een cliëntenraad aan de commissie een geschil kan voorleggen over de uitvoering van de [artikelen 3, tweede tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05), [4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=4&z=2025-07-05&g=2025-07-05), [5, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=5&z=2025-07-05&g=2025-07-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=6&z=2025-07-05&g=2025-07-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=7&z=2025-07-05&g=2025-07-05), [8, eerste tot en met vijfde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=8&z=2025-07-05&g=2025-07-05), [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=9&z=2025-07-05&g=2025-07-05), en [13, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=13&z=2025-07-05&g=2025-07-05), alsmede over de uitvoering van de medezeggenschapsregeling;
 
-- b. een instelling aan de commissie kan verzoeken een beslissing te nemen als bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=8&z=2025-07-05&g=2025-07-05), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=9&z=2025-07-05&g=2025-07-05), of [13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=13&z=2025-07-05&g=2025-07-05);
+- b. een instelling aan de commissie kan verzoeken een beslissing te nemen als bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=8&z=2025-07-05&g=2025-07-05), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=9&z=2025-07-05&g=2025-07-05), of [13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=13&z=2025-07-05&g=2025-07-05);
 
-- c. een cliëntenraad aan de commissie kan verzoeken een beslissing te nemen als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=9&z=2025-07-05&g=2025-07-05);
+- c. een cliëntenraad aan de commissie kan verzoeken een beslissing te nemen als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=9&z=2025-07-05&g=2025-07-05);
 
-- d. een representatief te achten delegatie van cliënten of hun vertegenwoordigers aan de commissie kan verzoeken een beslissing te nemen als bedoeld in [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=13&z=2025-07-05&g=2025-07-05); en
+- d. een representatief te achten delegatie van cliënten of hun vertegenwoordigers aan de commissie kan verzoeken een beslissing te nemen als bedoeld in [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=13&z=2025-07-05&g=2025-07-05); en
 
-- e. een voor een locatie representatief te achten delegatie van cliënten of hun vertegenwoordigers aan de commissie een geschil kan voorleggen over de uitvoering van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05).
+- e. een voor een locatie representatief te achten delegatie van cliënten of hun vertegenwoordigers aan de commissie een geschil kan voorleggen over de uitvoering van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05).
 
 4. Van een uitspraak of een beslissing van de commissie van vertrouwenslieden kan in beroep worden gekomen bij de ondernemingskamer van het gerechtshof Amsterdam.
 
@@ -321,35 +292,35 @@ Een instelling legt in haar statuten of, indien zij geen statuten heeft, andersz
 
 ##### Artikel 16
 
-Wijzigt de Jeugdwet.
+*Wijzigt de Jeugdwet.*
 
 ##### Artikel 17
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 18
 
-Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
+*Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.*
 
 ##### Artikel 19
 
-Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
+*Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.*
 
 ##### Artikel 20
 
-Wijzigt de Wet verplichte geestelijke gezondheidszorg.
+*Wijzigt de Wet verplichte geestelijke gezondheidszorg.*
 
 ##### Artikel 21
 
-Wijzigt de Wet verplichte geestelijke gezondheidszorg.
+*Wijzigt de Wet verplichte geestelijke gezondheidszorg.*
 
 ##### Artikel 22
 
-Wijzigt de Wet toetreding zorgaanbieders.
+*Wijzigt de Wet toetreding zorgaanbieders.*
 
 ##### Artikel 23
 
-Wijzigt de Wet toetreding zorgaanbieders.
+*Wijzigt de Wet toetreding zorgaanbieders.*
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
@@ -388,5 +359,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 29
 
 Deze wet wordt aangehaald als: Wet medezeggenschap cliënten zorginstellingen 2018.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

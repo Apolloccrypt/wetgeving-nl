@@ -1,47 +1,18 @@
 ---
 title: "Wet van 12 december 2018, houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement"
+citeertitel: "Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement"
 identifier: "BWBR0041821"
-country: "nl"
-rank: "wet"
-publication_date: "2019-02-19"
-last_updated: "2019-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041821"
+categorie: "Overig"
 soort: "wet"
-stam_id: "14948413"
-version_id: "25608012"
-internal_id: "C36659001"
-label_id: "14898694"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041821/2019-02-19/0"
-intitule_bron: "Stb.2019-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-12"
-intitule_published: "2019-01-18"
-intitule_in_force: "2019-02-18"
-intitule_status: "goed"
-original_publication: "Stb.2019-7"
-original_signed_date: "2018-12-12"
-original_published_date: "2019-01-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "35016"
-original_url_id: "stb-2019-7"
-entry_into_force_date: "2019-02-19"
-jci_1_3: "jci1.3:c:BWBR0041821&z=2019-02-19&g=2019-02-19"
-jci_1_0: "1.0:c:BWBR0041821&g=2019-02-19"
-citeertitel_status: "redactioneel"
-short_title: "Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement"
-signed_date: "2018-12-12"
-entry_into_force: "2019-02-19"
+publicatiedatum: 2019-02-19
+laatste_update: 2019-02-19
+status: geldig
+toestand: 2019-02-19
+bron: "https://wetten.overheid.nl/BWBR0041821"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 12 december 2018, houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de Europese Raad heeft bepaald dat aan Nederland mogelijk tijdens de zittingsperiode 2019–2024 van het Europees Parlement extra zetels in het Europees Parlement worden toegewezen en dat voor deze toewijzing een eenmalige wettelijke voorziening noodzakelijk is;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -51,7 +22,7 @@ Deze wet geldt indien de terugtrekking van het Verenigd Koninkrijk uit de Europe
 
 In deze wet wordt verstaan onder:
 
-- **extra zetels:** aantal aan Nederland toekomende zetels op grond van het besluit van de Europese Raad ingevolge artikel 14, tweede lid, van het Verdrag betreffende de Europese Unie indien het Verenigd Koninkrijk geen lid meer is van de Europese Unie minus het aantal aan Nederland toekomende zetels indien het Verenigd Koninkrijk nog lid is van de Europese Unie.
+- *extra zetels:* aantal aan Nederland toekomende zetels op grond van het besluit van de Europese Raad ingevolge artikel 14, tweede lid, van het Verdrag betreffende de Europese Unie indien het Verenigd Koninkrijk geen lid meer is van de Europese Unie minus het aantal aan Nederland toekomende zetels indien het Verenigd Koninkrijk nog lid is van de Europese Unie.
 
 ##### Artikel 3
 
@@ -84,5 +55,3 @@ In afwijking van [artikel Y 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Deze wet vervalt met ingang van 1 september 2024.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

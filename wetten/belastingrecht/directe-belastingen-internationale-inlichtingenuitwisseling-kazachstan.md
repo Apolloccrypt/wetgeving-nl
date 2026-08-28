@@ -1,51 +1,17 @@
 ---
 title: "Directe belastingen, internationale inlichtingenuitwisseling; Kazachstan"
 identifier: "BWBR0041803"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-12-09"
-last_updated: "2018-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041803"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "14944553"
-version_id: "25596142"
-internal_id: "C36526511"
-label_id: "14894504"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041803/2018-12-09/0"
-intitule_bron: "Stcrt.2019-269"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-09"
-intitule_published: "2019-01-07"
-intitule_in_force: "2019-01-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-269"
-original_signed_date: "2018-12-09"
-original_published_date: "2019-01-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-269"
-entry_into_force_date: "2018-12-09"
-jci_1_3: "jci1.3:c:BWBR0041803&z=2018-12-09&g=2018-12-09"
-jci_1_0: "1.0:c:BWBR0041803&g=2018-12-09"
-citeertitel_status: "redactioneel"
-signed_date: "2018-12-09"
-entry_into_force: "2018-12-09"
+publicatiedatum: 2018-12-09
+laatste_update: 2018-12-09
+status: geldig
+toestand: 2018-12-09
+bron: "https://wetten.overheid.nl/BWBR0041803"
+opgehaald: 2026-08-28
 ---
+
 # Directe belastingen, internationale inlichtingenuitwisseling; Kazachstan
-
-**Dit besluit bevat een bekendmaking van het in december 2018 tussen de Ministeries van Financiën van Kazachstan en Nederland gesloten Memorandum van Overeenstemming inzake samenwerking en inlichtingenuitwisseling voor belastingaangelegenheden. Het Memorandum geeft o.a. categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, ondernemingswinsten (indien beschikbaar), dividenden, interest, inkomsten uit vermogenswinsten (indien beschikbaar), inkomsten uit salarissen, lonen en andere soortgelijke beloningen, directeursbeloningen en/of betalingen aan leden van management teams, inkomsten van artiesten en sportbeoefenaars, pensioenen en andere soortgelijke beloningen, alsmede overige inkomsten. Verder bevat het Memorandum nog bepalingen over gelijktijdige belastingonderzoeken. De eerste automatische inlichtingenuitwisseling heeft betrekking op het jaar 2018.**
-
-Het Ministerie van Financiën van de Republiek Kazachstan en het Ministerie van Financiën van Nederland, hierna te noemen de ‘Partijen’,
-
-Erkennende de noodzaak de wederzijdse samenwerking in belastingaangelegenheden uit te breiden,
-
-Gezien de bepalingen van het Verdrag inzake wederzijdse administratieve bijstand in belastingzaken van 25 januari 1988 (hierna te noemen het ‘Verdrag 1988’) en artikel 28 van het Verdrag tussen de Republiek Kazachstan en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen van 24 april 1996 (hierna te noemen het ‘Verdrag 1996’),
-
-Zijn het volgende overeengekomen:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Onderwerp, doel en reikwijdte
 
@@ -73,15 +39,15 @@ Voor de toepassing van dit Memorandum van Overeenstemming wordt het Engels als o
 
 2. Het verzoek om bijstand bevat de volgende informatie:
 
-- a). de naam van de verzoekende bevoegde autoriteit;
+- a) de naam van de verzoekende bevoegde autoriteit;
 
-- b). de naam van de aangezochte bevoegde autoriteit;
+- b) de naam van de aangezochte bevoegde autoriteit;
 
-- c). de reden en het doel van het verzoek;
+- c) de reden en het doel van het verzoek;
 
-- d). de naam en registratiegegevens van de betreffende belastingplichtige;
+- d) de naam en registratiegegevens van de betreffende belastingplichtige;
 
-- e). een samenvatting van de essentie van het verzoek en betrokken juridische omstandigheden.
+- e) een samenvatting van de essentie van het verzoek en betrokken juridische omstandigheden.
 
 3. Het verzoek om bijstand wordt schriftelijk gedaan en verzonden per post. In geval van twijfel over de echtheid van een bijstandsverzoek of over de ontvangen en verzonden informatie, kan de bevoegde autoriteit de andere bevoegde autoriteit een schriftelijk verzoek doen om bevestiging van de echtheid vergezeld van toepasselijke gegevens ten behoeve van de beoordeling.
 
@@ -89,25 +55,25 @@ Voor de toepassing van dit Memorandum van Overeenstemming wordt het Engels als o
 
 1. De bevoegde autoriteiten verstrekken elkaar automatisch inlichtingen over particulieren en rechtspersonen (ondernemingen) en andere lichamen met betrekking tot:
 
-- a). Onroerende zaken (OESO code 6); voor de Republiek Kazachstan: inkomsten uit onroerende zaken; voor Nederland: eigendom en waarde van onroerende zaken;
+- a) Onroerende zaken (OESO code 6); voor de Republiek Kazachstan: inkomsten uit onroerende zaken; voor Nederland: eigendom en waarde van onroerende zaken;
 
-- b). Ondernemingswinsten, indien beschikbaar;
+- b) Ondernemingswinsten, indien beschikbaar;
 
-- c). Dividenden (OESO code 10);
+- c) Dividenden (OESO code 10);
 
-- d). Interest (OESO code 11);
+- d) Interest (OESO code 11);
 
-- e). Inkomsten uit vermogenswinsten, indien beschikbaar;
+- e) Inkomsten uit vermogenswinsten, indien beschikbaar;
 
-- f). Inkomsten bestaande uit salarissen, lonen en andere soortgelijke beloningen (OESO codes 15 en 19);
+- f) Inkomsten bestaande uit salarissen, lonen en andere soortgelijke beloningen (OESO codes 15 en 19);
 
-- g). Directeursbeloningen en/of andere betalingen aan leden van management teams (Directieteam of ander bestuur) (OESO code 16);
+- g) Directeursbeloningen en/of andere betalingen aan leden van management teams (Directieteam of ander bestuur) (OESO code 16);
 
-- h). Inkomsten van artiesten en sportbeoefenaars (OESO code 17);
+- h) Inkomsten van artiesten en sportbeoefenaars (OESO code 17);
 
-- i). Pensioenen en andere soortgelijke beloningen (OESO codes 18 en 19);
+- i) Pensioenen en andere soortgelijke beloningen (OESO codes 18 en 19);
 
-- j). Overige inkomsten (OESO code 21).
+- j) Overige inkomsten (OESO code 21).
 
 2. De in het eerste lid bedoelde inlichtingen worden periodiek verstrekt en ten minste eenmaal per kalenderjaar, De inlichtingen worden – indien mogelijk – automatisch verstrekt en in ieder geval binnen zes maanden na afloop van het kalenderjaar waarop deze betrekking hebben.
 
@@ -160,7 +126,3 @@ Op schriftelijk verzoek van de Partijen kunnen aanvullingen en wijzigingen op di
 2. Het Memorandum van Overeenstemming zal voor het eerst van toepassing zijn op inlichtingen met betrekking tot het kalenderjaar 2018.
 
 3. Dit Memorandum van Overeenstemming kan worden beëindigd door een schriftelijke kennisgeving via diplomatieke weg van een van de Partijen en houdt zes maanden na ontvangst van deze kennisgeving op van kracht te zijn.
-
-Ondertekend in tweevoud, in de Kazachse, Nederlandse en Engelse taal, zijnde gelijkelijk authentiek.
-
-In geval van verschil in interpretatie van de bepalingen van dit Memorandum van Overeenstemming is de Engelse taal beslissend.

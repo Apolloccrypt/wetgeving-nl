@@ -1,52 +1,27 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 15 februari 2019, nr. 2433978, houdende regels voor de aanwijzing van een keuringsdienst voor het keuren van technische hulpmiddelen waarmee onderzoekshandelingen worden verricht in een geautomatiseerd werk"
+citeertitel: "Regeling eisen keuringsdienst technisch hulpmiddel"
 identifier: "BWBR0041952"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-03-01"
-last_updated: "2019-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041952"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15012143"
-version_id: "25715492"
-internal_id: "C36680331"
-label_id: "14962124"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041952/2019-03-01/0"
-intitule_bron: "Stcrt.2019-10713"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-02-15"
-intitule_published: "2019-02-27"
-intitule_in_force: "2019-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-10713"
-original_signed_date: "2019-02-15"
-original_published_date: "2019-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-10713"
-entry_into_force_date: "2019-03-01"
-jci_1_3: "jci1.3:c:BWBR0041952&z=2019-03-01&g=2019-03-01"
-jci_1_0: "1.0:c:BWBR0041952&g=2019-03-01"
-citeertitel_status: "officieel"
-short_title: "Regeling eisen keuringsdienst technisch hulpmiddel"
-signed_date: "2019-02-15"
-entry_into_force: "2019-03-01"
+publicatiedatum: 2019-03-01
+laatste_update: 2019-03-01
+status: geldig
+toestand: 2019-03-01
+bron: "https://wetten.overheid.nl/BWBR0041952"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 15 februari 2019, nr. 2433978, houdende regels voor de aanwijzing van een keuringsdienst voor het keuren van technische hulpmiddelen waarmee onderzoekshandelingen worden verricht in een geautomatiseerd werk
-
-Gelet op [artikel 16, vierde lid, van het Besluit onderzoek in een geautomatiseerd werk](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&artikel=16),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **besluit:** [Besluit onderzoek in een geautomatiseerd werk](https://wetten.overheid.nl/jci1.3:c:BWBR0041426);
+- a. *besluit:*
+ [Besluit onderzoek in een geautomatiseerd werk](https://wetten.overheid.nl/jci1.3:c:BWBR0041426);
 
-- b. **'technisch hulpmiddel', `korpschef’, ’technische infrastructuur', `keuringsdienst' en ‘wet':** hetgeen het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041426) daaronder verstaat.
+- b. *'technisch hulpmiddel', `korpschef’, ’technische infrastructuur', `keuringsdienst' en ‘wet':* hetgeen het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041426) daaronder verstaat.
 
 ##### Artikel 2
 
@@ -134,11 +109,11 @@ Een aangewezen keuringsdienst:
 
 - d. deelt indien hij van plan is werkzaamheden waarvoor hij is aangewezen te beëindigen, dit tenminste drie maanden voor de voorgenomen datum van beëindiging van die werkzaamheden mede aan de betreffende directeur-generaal van het Ministerie van Justitie en Veiligheid. De in [artikel 6 onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041952&artikel=6&z=2019-03-01&g=2019-03-01) genoemde gegevens draagt hij, voor zover deze betrekking hebben op de te beëindigen werkzaamheden, over aan:
 
-- −. hetzij de betreffende directeur-generaal van het Ministerie van Justitie en Veiligheid,
+   - − hetzij de betreffende directeur-generaal van het Ministerie van Justitie en Veiligheid,
 
-- −. hetzij de korpschef van de politie,
+   - − hetzij de korpschef van de politie,
 
-- −. hetzij, na hiervoor toestemming te hebben gekregen van de betreffende directeur-generaal van het Ministerie van Justitie en Veiligheid, een andere keuringsdienst, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041952&artikel=1&z=2019-03-01&g=2019-03-01).
+   - − hetzij, na hiervoor toestemming te hebben gekregen van de betreffende directeur-generaal van het Ministerie van Justitie en Veiligheid, een andere keuringsdienst, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041952&artikel=1&z=2019-03-01&g=2019-03-01).
 
 ##### Artikel 9
 
@@ -157,5 +132,3 @@ Deze regeling wordt aangehaald als Regeling eisen keuringsdienst technisch hulpm
 ##### Artikel 11
 
 Deze regeling treedt in werking op 1 maart 2019 en vervalt op 1 maart 2022.
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.

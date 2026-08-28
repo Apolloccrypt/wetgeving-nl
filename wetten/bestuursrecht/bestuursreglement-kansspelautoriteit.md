@@ -1,69 +1,44 @@
 ---
 title: "Besluit van de raad van bestuur van de Kansspelautoriteit tot vaststelling van een bestuursreglement (kenmerk 01.053.735)"
+citeertitel: "Bestuursreglement Kansspelautoriteit"
 identifier: "BWBR0042093"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-04-05"
-last_updated: "2019-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042093"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15047943"
-version_id: "25784642"
-internal_id: "C36763781"
-label_id: "14997354"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042093/2019-04-05/0"
-intitule_bron: "Stcrt.2019-18124"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-04-04"
-intitule_in_force: "2019-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-18124"
-original_published_date: "2019-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-18124"
-entry_into_force_date: "2019-04-05"
-jci_1_3: "jci1.3:c:BWBR0042093&z=2019-04-05&g=2019-04-05"
-jci_1_0: "1.0:c:BWBR0042093&g=2019-04-05"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement Kansspelautoriteit"
-entry_into_force: "2019-04-05"
+publicatiedatum: 2019-04-05
+laatste_update: 2019-04-05
+status: geldig
+toestand: 2019-04-05
+bron: "https://wetten.overheid.nl/BWBR0042093"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de raad van bestuur van de Kansspelautoriteit tot vaststelling van een bestuursreglement (kenmerk 01.053.735)
-
-Gezien de goedkeuring van de Minister voor Rechtsbescherming van 18 maart 2019;
-
-Gelet op [artikel 33d, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33d);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **afdelingshoofden:** functionarissen belast met de leiding van een dienstonderdeel van de Kansspelautoriteit;
+- a. *afdelingshoofden:* functionarissen belast met de leiding van een dienstonderdeel van de Kansspelautoriteit;
 
-- b. **bestuurslid:** lid van de raad als bedoeld in [artikel 33c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33c);
+- b. *bestuurslid:* lid van de raad als bedoeld in [artikel 33c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33c);
 
-- c. **bestuurssecretaris:** de secretaris van de raad van bestuur van de Kansspelautoriteit;
+- c. *bestuurssecretaris:* de secretaris van de raad van bestuur van de Kansspelautoriteit;
 
-- d. **dienstonderdeel:** onderdeel van de Kansspelautoriteit als bedoeld in [artikel 2 van het Besluit organisatie, mandaat, volmacht en machtiging Kansspelautoriteit 2019](onbekend);
+- d. *dienstonderdeel:* onderdeel van de Kansspelautoriteit als bedoeld in artikel 2 van het Besluit organisatie, mandaat, volmacht en machtiging Kansspelautoriteit 2019;
 
-- e. **Kansspelautoriteit:** de Kansspelautoriteit, bedoeld in [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
+- e. *Kansspelautoriteit:* de Kansspelautoriteit, bedoeld in [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
 
-- f. **Minister:** de Minister voor Rechtsbescherming;
+- f. *Minister:* de Minister voor Rechtsbescherming;
 
-- g. **plaatsvervangend voorzitter:** degene die als plaatsvervangend voorzitter van de raad is benoemd door de Minister;
+- g. *plaatsvervangend voorzitter:* degene die als plaatsvervangend voorzitter van de raad is benoemd door de Minister;
 
-- h. **raad:** de raad van bestuur, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- h. *raad:* de raad van bestuur, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- i. **reglement:** het onderhavige bestuursreglement;
+- i. *reglement:* het onderhavige bestuursreglement;
 
-- j. **voorzitter:** de voorzitter, bedoeld in [artikel 33c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33c);
+- j. *voorzitter:* de voorzitter, bedoeld in [artikel 33c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33c);
 
-- k. **wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
+- k. *wet:* de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
 ##### Artikel 2. Vervanging
 

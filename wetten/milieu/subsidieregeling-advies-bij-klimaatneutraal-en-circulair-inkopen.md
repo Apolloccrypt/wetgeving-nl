@@ -1,58 +1,33 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/60784, houdende vaststelling van regels voor subsidiëring van het inwinnen van extern advies over maatschappelijk verantwoord inkopen door aanbestedingsplichtige organisaties (Subsidieregeling advies bij klimaatneutraal en circulair inkopen)"
+citeertitel: "Subsidieregeling advies bij klimaatneutraal en circulair inkopen"
 identifier: "BWBR0042130"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-05-01"
-last_updated: "2019-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042130"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15055463"
-version_id: "25801092"
-internal_id: "C36789371"
-label_id: "15004694"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042130/2019-05-01/0"
-intitule_bron: "Stcrt.2019-22109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-15"
-intitule_published: "2019-04-19"
-intitule_in_force: "2019-04-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-22109"
-original_signed_date: "2019-04-15"
-original_published_date: "2019-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-22109"
-entry_into_force_date: "2019-05-01"
-jci_1_3: "jci1.3:c:BWBR0042130&z=2019-05-01&g=2019-05-01"
-jci_1_0: "1.0:c:BWBR0042130&g=2019-05-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling advies bij klimaatneutraal en circulair inkopen"
-signed_date: "2019-04-15"
-entry_into_force: "2019-05-01"
+publicatiedatum: 2019-05-01
+laatste_update: 2019-05-01
+status: geldig
+toestand: 2019-05-01
+bron: "https://wetten.overheid.nl/BWBR0042130"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/60784, houdende vaststelling van regels voor subsidiëring van het inwinnen van extern advies over maatschappelijk verantwoord inkopen door aanbestedingsplichtige organisaties (Subsidieregeling advies bij klimaatneutraal en circulair inkopen)
-
-Gelet op de [artikelen 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15) en [22, tweede lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **inkoper:** aanbestedende dienst als bedoeld in [artikel 1.1 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1), uitgezonderd de staat, en een speciaal sectorbedrijf als bedoeld in deze [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203);
+- *inkoper:* aanbestedende dienst als bedoeld in [artikel 1.1 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1), uitgezonderd de staat, en een speciaal sectorbedrijf als bedoeld in deze [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203);
 
-- **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
+- *Kaderbesluit:*
+ [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
-- **maatschappelijk verantwoord inkopen:** inkoop van producten, diensten en werken waarbij binnen verschillende thema’s de effecten op mensen, de planeet, het milieu en welvaart worden meegenomen;
+- *maatschappelijk verantwoord inkopen:* inkoop van producten, diensten en werken waarbij binnen verschillende thema’s de effecten op mensen, de planeet, het milieu en welvaart worden meegenomen;
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **RIVM:** Rijksinstituut voor Volksgezondheid en Milieu.
+- *RIVM:* Rijksinstituut voor Volksgezondheid en Milieu.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -74,9 +49,9 @@ Deze regeling heeft tot doel om via een kennisimpuls, door het inwinnen van exte
 
 - c.
 
-- 1°. voor zover het subsidiëring betreft van extern advies over klimaatneutraal of circulair inkopen, dat hiermee voldoende kan worden bijgedragen aan CO2-reductie of efficiënt grondstoffengebruik, of
+   - 1° voor zover het subsidiëring betreft van extern advies over klimaatneutraal of circulair inkopen, dat hiermee voldoende kan worden bijgedragen aan CO2-reductie of efficiënt grondstoffengebruik, of
 
-- 2°. voor zover het subsidiëring betreft van extern advies over inkopen waarbij een ander thema van maatschappelijk verantwoord inkopen centraal staat, dat hiermee voldoende kan worden bijgedragen aan het bereiken van de ambitie(s) van één van deze andere thema’s.
+   - 2° voor zover het subsidiëring betreft van extern advies over inkopen waarbij een ander thema van maatschappelijk verantwoord inkopen centraal staat, dat hiermee voldoende kan worden bijgedragen aan het bereiken van de ambitie(s) van één van deze andere thema’s.
 
 3. Voor zover de inkoper een speciaal sectorbedrijf is in de zin van de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) dat niet ook is aan te merken als aanbestedende dienst in de zin van deze wet, wordt alleen subsidie verstrekt voor het inwinnen van extern advies over maatschappelijk verantwoord inkopen in het kader van de uitvoer van haar sectorale taak.
 
@@ -145,5 +120,3 @@ Deze regeling treedt in werking met ingang van 1 mei 2019 en vervalt met ingang 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling advies bij klimaatneutraal en circulair inkopen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

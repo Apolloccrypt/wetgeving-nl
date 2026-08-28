@@ -1,56 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 14 februari 2019 nr. BOACAT2019/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Coöperatie ParkeerService UA"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar de Coöperatie ParkeerService UA 2019"
 identifier: "BWBR0041957"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-04-30"
-last_updated: "2019-04-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041957"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15012993"
-version_id: "25716662"
-internal_id: "C36681491"
-label_id: "14962944"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041957/2019-04-30/0"
-intitule_bron: "Stcrt.2019-10357"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-02-14"
-intitule_published: "2019-02-26"
-intitule_in_force: "2019-02-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-10357"
-original_signed_date: "2019-02-14"
-original_published_date: "2019-02-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-10357"
-entry_into_force_date: "2019-04-30"
-jci_1_3: "jci1.3:c:BWBR0041957&z=2019-04-30&g=2019-04-30"
-jci_1_0: "1.0:c:BWBR0041957&g=2019-04-30"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar de Coöperatie ParkeerService UA 2019"
-signed_date: "2019-02-14"
-entry_into_force: "2019-04-30"
+publicatiedatum: 2019-04-30
+laatste_update: 2019-04-30
+status: geldig
+toestand: 2019-04-30
+bron: "https://wetten.overheid.nl/BWBR0041957"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 14 februari 2019 nr. BOACAT2019/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Coöperatie ParkeerService UA
-
-Gelezen het verzoek van de Coöperatie ParkeerService UA van 3 januari 2019 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Midden-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [regeling domeinlijsten buitengewoon opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,7 +24,7 @@ De personen, werkzaam in de functie van Parkeercontroleur handhaving en Senior M
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -105,5 +67,3 @@ Dit besluit treedt in werking met ingang van 30 april 2019 en vervalt met ingang
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar de Coöperatie ParkeerService UA 2019.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

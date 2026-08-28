@@ -1,47 +1,18 @@
 ---
 title: "Wet van 5 juni 2019, houdende regels ter implementatie van richtlijn (EU) 2016/681 van het Europees Parlement en de Raad van 27 april 2016 over het gebruik van persoonsgegevens van passagiers (PNR-gegevens) voor het voorkomen, opsporen, onderzoeken en vervolgen van terroristische misdrijven en ernstige criminaliteit (PbEU 2016, L 119) (Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven)"
+citeertitel: "Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven"
 identifier: "BWBR0042301"
-country: "nl"
-rank: "wet"
-publication_date: "2022-06-11"
-last_updated: "2022-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042301"
+categorie: "Digitaal en privacy"
 soort: "wet"
-stam_id: "15095573"
-version_id: "25876992"
-internal_id: "C36880861"
-label_id: "15044354"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042301/2022-06-11/0"
-intitule_bron: "Stb.2019-205"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-05"
-intitule_published: "2019-06-17"
-intitule_in_force: "2019-06-17"
-intitule_status: "goed"
-original_publication: "Stb.2019-205"
-original_signed_date: "2019-06-05"
-original_published_date: "2019-06-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "34861"
-original_url_id: "stb-2019-205"
-entry_into_force_date: "2019-06-18"
-jci_1_3: "jci1.3:c:BWBR0042301&z=2022-06-11&g=2022-06-11"
-jci_1_0: "1.0:c:BWBR0042301&g=2022-06-11"
-citeertitel_status: "officieel"
-short_title: "Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven"
-signed_date: "2019-06-05"
-entry_into_force: "2019-06-18"
+publicatiedatum: 2019-06-18
+laatste_update: 2022-06-11
+status: geldig
+toestand: 2022-06-11
+bron: "https://wetten.overheid.nl/BWBR0042301"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 5 juni 2019, houdende regels ter implementatie van richtlijn (EU) 2016/681 van het Europees Parlement en de Raad van 27 april 2016 over het gebruik van persoonsgegevens van passagiers (PNR-gegevens) voor het voorkomen, opsporen, onderzoeken en vervolgen van terroristische misdrijven en ernstige criminaliteit (PbEU 2016, L 119) (Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te geven in verband met de implementatie van richtlijn (EU) 2016/681 van het Europees Parlement en de Raad van 27 april 2016 over het gebruik van persoonsgegevens van passagiers (PNR-gegevens) voor het voorkomen, opsporen, onderzoeken en vervolgen van terroristische misdrijven en ernstige criminaliteit (PbEU 2016, L 119);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Inleidende bepalingen
 
@@ -49,43 +20,43 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Autoriteit persoonsgegevens:** de Autoriteit, bedoeld in [artikel 6 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
+- *Autoriteit persoonsgegevens:* de Autoriteit, bedoeld in [artikel 6 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
 
-- **betrokkene:** degene op wie een persoonsgegeven betrekking heeft;
+- *betrokkene:* degene op wie een persoonsgegeven betrekking heeft;
 
-- **bevoegde instantie:** een instantie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=5&artikel=9&z=2022-06-11&g=2022-06-11);
+- *bevoegde instantie:* een instantie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=5&artikel=9&z=2022-06-11&g=2022-06-11);
 
-- **bijzondere opsporingsdiensten:** de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+- *bijzondere opsporingsdiensten:* de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- **depersonaliseren door afscherming van gegevens:** het voor een gebruiker onzichtbaar maken van die gegevenselementen waaruit de identiteit van de betrokkenen rechtstreeks zou kunnen worden afgeleid;
+- *depersonaliseren door afscherming van gegevens:* het voor een gebruiker onzichtbaar maken van die gegevenselementen waaruit de identiteit van de betrokkenen rechtstreeks zou kunnen worden afgeleid;
 
-- **derde land:** een land dat geen lidstaat is van de Europese Unie;
+- *derde land:* een land dat geen lidstaat is van de Europese Unie;
 
-- **ernstig misdrijf:** een strafbaar feit als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&bijlage=2&z=2022-06-11&g=2022-06-11) van deze wet, waarop naar wettelijke omschrijving een gevangenisstraf van drie jaar of meer is gesteld;
+- *ernstig misdrijf:* een strafbaar feit als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&bijlage=2&z=2022-06-11&g=2022-06-11) van deze wet, waarop naar wettelijke omschrijving een gevangenisstraf van drie jaar of meer is gesteld;
 
-- **functionaris voor gegevensbescherming:** de functionaris, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=8&artikel=18&z=2022-06-11&g=2022-06-11);
+- *functionaris voor gegevensbescherming:* de functionaris, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=8&artikel=18&z=2022-06-11&g=2022-06-11);
 
-- **luchtvaartmaatschappij:** een luchtvervoersonderneming met een geldige exploitatievergunning voor het luchtvervoer van passagiers als bedoeld in [artikel 1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1);
+- *luchtvaartmaatschappij:* een luchtvervoersonderneming met een geldige exploitatievergunning voor het luchtvervoer van passagiers als bedoeld in [artikel 1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1);
 
-- **Onze Minister:** Onze Minister van Justitie en Veiligheid;
+- *Onze Minister:* Onze Minister van Justitie en Veiligheid;
 
-- **passagier:** iedere persoon, met inbegrip van de transferpassagiers en transitpassagiers en met uitsluiting van de bemanningsleden, die met toestemming van de luchtvaartmaatschappij in een luchtvaartuig wordt vervoerd of zal worden vervoerd, en waarbij die toestemming blijkt uit de vermelding van die persoon op de passagierslijst;
+- *passagier:* iedere persoon, met inbegrip van de transferpassagiers en transitpassagiers en met uitsluiting van de bemanningsleden, die met toestemming van de luchtvaartmaatschappij in een luchtvaartuig wordt vervoerd of zal worden vervoerd, en waarbij die toestemming blijkt uit de vermelding van die persoon op de passagierslijst;
 
-- **passagiersgegevens:** de gegevens, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&bijlage=1&z=2022-06-11&g=2022-06-11) van deze wet;
+- *passagiersgegevens:* de gegevens, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&bijlage=1&z=2022-06-11&g=2022-06-11) van deze wet;
 
-- **Passagiersinformatie-eenheid:** de eenheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=3&artikel=5&z=2022-06-11&g=2022-06-11);
+- *Passagiersinformatie-eenheid:* de eenheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=3&artikel=5&z=2022-06-11&g=2022-06-11);
 
-- **persoonsgegevens:** hetgeen daaronder wordt verstaan in [artikel 1, onderdeel b, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
+- *persoonsgegevens:* hetgeen daaronder wordt verstaan in [artikel 1, onderdeel b, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
 
-- **PNR:** een bestand met de reisgegevens van iedere passagier, dat informatie bevat die de boekende en de deelnemende luchtvaartmaatschappijen nodig hebben om reserveringen te kunnen verwerken en controleren bij elke reis die door of namens iemand wordt geboekt; dit bestand kan zich bevinden in een reserveringssysteem, een vertrekcontrolesysteem dat wordt gebruikt bij het inchecken van passagiers op vluchten, of een soortgelijk systeem dat dezelfde functies vervult;
+- *PNR:* een bestand met de reisgegevens van iedere passagier, dat informatie bevat die de boekende en de deelnemende luchtvaartmaatschappijen nodig hebben om reserveringen te kunnen verwerken en controleren bij elke reis die door of namens iemand wordt geboekt; dit bestand kan zich bevinden in een reserveringssysteem, een vertrekcontrolesysteem dat wordt gebruikt bij het inchecken van passagiers op vluchten, of een soortgelijk systeem dat dezelfde functies vervult;
 
-- **terroristisch misdrijf:** een misdrijf als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) of [artikel 83b van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83b);
+- *terroristisch misdrijf:* een misdrijf als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) of [artikel 83b van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83b);
 
-- **verwerking van persoonsgegevens:** elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waar onder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, vergelijken, verstrekken door middel van doorzending, verspreiding of enige vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van persoonsgegevens;
+- *verwerking van persoonsgegevens:* elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waar onder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, vergelijken, verstrekken door middel van doorzending, verspreiding of enige vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van persoonsgegevens;
 
-- **vlucht binnen de Europese Unie:** een vlucht door een luchtvaartmaatschappij die vanuit een andere lidstaat, zonder tussenlandingen op het grondgebied van een derde land, volgens plan zal aankomen op het grondgebied van Nederland, of die zal vertrekken vanaf het grondgebied van Nederland en, zonder tussenlandingen op het grondgebied van een derde land, volgens plan zal aankomen op het grondgebied van een of meer andere lidstaten;
+- *vlucht binnen de Europese Unie:* een vlucht door een luchtvaartmaatschappij die vanuit een andere lidstaat, zonder tussenlandingen op het grondgebied van een derde land, volgens plan zal aankomen op het grondgebied van Nederland, of die zal vertrekken vanaf het grondgebied van Nederland en, zonder tussenlandingen op het grondgebied van een derde land, volgens plan zal aankomen op het grondgebied van een of meer andere lidstaten;
 
-- **vlucht naar of vanuit derde landen:** een vlucht door een luchtvaartmaatschappij, waaronder de vluchten met tussenlandingen op het grondgebied van lidstaten of derde landen, die volgens plan vanuit een derde land zal aankomen op het grondgebied van Nederland of zal vertrekken vanaf het grondgebied van Nederland en volgens plan zal aankomen op het grondgebied van een derde land.
+- *vlucht naar of vanuit derde landen:* een vlucht door een luchtvaartmaatschappij, waaronder de vluchten met tussenlandingen op het grondgebied van lidstaten of derde landen, die volgens plan vanuit een derde land zal aankomen op het grondgebied van Nederland of zal vertrekken vanaf het grondgebied van Nederland en volgens plan zal aankomen op het grondgebied van een derde land.
 
 ##### Artikel 2
 
@@ -139,9 +110,9 @@ Deze wet is van toepassing op vluchten naar of vanuit derde landen, alsmede op v
 
 - b. het voldoen aan:
 
-- 1°. een vordering van gegevens van een bevoegde instantie op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of [artikel 19 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19) in een onderzoek naar een terroristisch of ernstig misdrijf; of
+   - 1° een vordering van gegevens van een bevoegde instantie op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of [artikel 19 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19) in een onderzoek naar een terroristisch of ernstig misdrijf; of
 
-- 2°. een verzoek van Europol als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=12&z=2022-06-11&g=2022-06-11); en
+   - 2° een verzoek van Europol als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=12&z=2022-06-11&g=2022-06-11); en
 
 - c. het analyseren van passagiersgegevens voor het opstellen van nieuwe of het bijstellen van bestaande criteria die worden gebruikt bij de beoordelingen die worden verricht op grond van het tweede lid, aanhef en onderdeel b, om te bepalen welke personen betrokken zouden kunnen zijn bij een terroristisch of ernstig misdrijf.
 
@@ -243,7 +214,7 @@ In geval van een specifieke en concrete dreiging van een terroristisch of ernsti
 
 4. De functionaris voor gegevensbescherming wordt onverwijld geïnformeerd over een doorgifte die op grond van dit artikel is gedaan.
 
-5. In afwijking van het eerste tot en met het vierde lid, vindt de doorgifte van passagiersgegevens of het verwerkingsresultaat van die gegevens door de Passagiersinformatie-eenheid aan de bevoegde autoriteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland plaats met inachtneming van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149). [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=10&z=2022-06-11&g=2022-06-11), is van overeenkomstige toepassing.
+5. In afwijking van het eerste tot en met het vierde lid, vindt de doorgifte van passagiersgegevens of het verwerkingsresultaat van die gegevens door de Passagiersinformatie-eenheid aan de bevoegde autoriteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland plaats met inachtneming van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149). [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=10&z=2022-06-11&g=2022-06-11), is van overeenkomstige toepassing.
 
 #### § 7. Verzoeken aan andere lidstaten
 
@@ -281,7 +252,7 @@ Op de verwerking van persoonsgegevens door de Passagiersinformatie-eenheid zijn 
 
 1. De verwerkingsverantwoordelijke benoemt een functionaris voor gegevensbescherming die, onverminderd het bepaalde in de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=10&z=2022-06-11&g=2022-06-11), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=13&z=2022-06-11&g=2022-06-11) en [20, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=8&artikel=20&z=2022-06-11&g=2022-06-11), is belast met de controle op de verwerking van de persoonsgegevens door de Passagiersinformatie-eenheid en met de uitvoering van de desbetreffende waarborgen voor de gegevensbescherming.
 
-2. De functionaris voor gegevensbescherming zendt jaarlijks voor 1 juli een rapportage aan Onze Minister, de beide Kamers der Staten-Generaal en de Autoriteit persoonsgegevens over het voorgaande kalenderjaar, waarin hij ingaat op de wijze waarop controle is uitgeoefend op de verwerking van de persoonsgegevens door de Passagiersinformatie-eenheid en de wijze waarop de waarborgen voor de gegevensbescherming zijn uitgevoerd. De rapportage bevat voorts statistieken over de mate waarin passagiersgegevens op grond van de [artikelen 9a tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=9a&z=2022-06-11&g=2022-06-11) zijn verstrekt, doorgegeven of verzocht.
+2. De functionaris voor gegevensbescherming zendt jaarlijks voor 1 juli een rapportage aan Onze Minister, de beide Kamers der Staten-Generaal en de Autoriteit persoonsgegevens over het voorgaande kalenderjaar, waarin hij ingaat op de wijze waarop controle is uitgeoefend op de verwerking van de persoonsgegevens door de Passagiersinformatie-eenheid en de wijze waarop de waarborgen voor de gegevensbescherming zijn uitgevoerd. De rapportage bevat voorts statistieken over de mate waarin passagiersgegevens op grond van de [artikelen 9a tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=9a&z=2022-06-11&g=2022-06-11) zijn verstrekt, doorgegeven of verzocht.
 
 3. De functionaris voor gegevensbescherming is voor een betrokkene het contactpunt voor alle aangelegenheden in verband met de verwerking van de persoonsgegevens van die betrokkene door de verwerkingsverantwoordelijke.
 
@@ -329,7 +300,7 @@ Op de verwerking van persoonsgegevens door de Passagiersinformatie-eenheid zijn 
 
 ##### Artikel 21
 
-**(Vervallen)**
+*(Vervallen)*
 
 ##### Artikel 22
 
@@ -379,7 +350,8 @@ Onze Minister zendt binnen twee jaar na de inwerkingtreding van deze wet aan de 
 
 ##### Artikel 25a
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2022/213. Wijzigt deze wet.
+*Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2022/213.*
+ *Wijzigt deze wet.*
 
 ##### Artikel 26
 
@@ -392,99 +364,3 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 ##### Artikel 27
 
 Deze wet wordt aangehaald als: Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven.
-
-## Bijlage 1. bij de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven
-
-- 1. PNR-bestandslocatie.
-
-- 2. Datum van reservering en afgifte van het biljet.
-
-- 3. Geplande reisdatum of -data.
-
-- 4. Naam of namen.
-
-- 5. Adres en contactgegevens, waaronder telefoonnummer en e-mailadres.
-
-- 6. Alle betalingsinformatie, met inbegrip van het factuuradres.
-
-- 7. Volledige reisroute voor dit specifieke PNR.
-
-- 8. Informatie betreffende reizigers die gebruik maken van een loyaliteitsprogramma voor frequent reizen.
-
-- 9. Reisbureau of reisagent.
-
-- 10. Reisstatus van de passagier, met inbegrip van bevestigingen, check-in-status en «no-show» of «go-show»-informatie.
-
-- 11. Opgesplitste of opgedeelde PNR-informatie.
-
-- 12. Algemene opmerkingen, waar onder wordt begrepen alle beschikbare informatie over niet-begeleide minderjarigen jonger dan 18 jaar, zoals naam en geslacht van de minderjarige, leeftijd, talen die de minderjarige spreekt, naam en contactgegevens van de persoon die de minderjarige begeleidt naar het vertrek en de aard van de relatie van deze persoon met de minderjarige, naam en contactgegevens van de persoon die de minderjarige afhaalt bij aankomst en de aard van de relatie van deze persoon met de minderjarige, functionaris voor vertrek en aankomst.
-
-- 13. Informatie uit de biljetuitgifte («ticketing field»-informatie), waar onder wordt begrepen het biljetnummer, de uitgiftedatum van het reisbiljet, biljettentickets voor enkele reizen en geautomatiseerde prijsnotering van reisbiljetten.
-
-- 14. Zitplaatsinformatie, waaronder het zitplaatsnummer.
-
-- 15. Informatie over gemeenschappelijke vluchtnummers.
-
-- 16. Alle bagage-informatie.
-
-- 17. Aantal en namen van de andere reizigers in het PNR.
-
-- 18. Alle verzamelde API-gegevens (Advance Passenger Information), waar onder wordt begrepen soort, nummer, land van afgifte en geldigheidsdatum van een identiteitsdocument, nationaliteit, familienaam, voornaam, geslacht, geboortedatum, luchtvaartmaatschappij, vluchtnummer, datum van vertrek, datum van aankomst, luchthaven van vertrek, luchthaven van aankomst, tijdstip van vertrek, tijdstip van aankomst.
-
-- 19. Alle vroegere wijzigingen in de onder de punten 1 tot en met 18 genoemde passagiersgegevens.
-
-## Bijlage 2. bij de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven
-
-- 1. Deelneming aan een criminele organisatie.
-
-- 2. Mensenhandel.
-
-- 3. Seksuele uitbuiting van kinderen en kinderpornografie.
-
-- 4. Illegale handel in verdovende middelen en psychotrope stoffen.
-
-- 5. Illegale handel in wapens, munitie en explosieven.
-
-- 6. Corruptie.
-
-- 7. Fraude, met inbegrip van fraude ten nadele van de financiële belangen van de Unie.
-
-- 8. Witwassen van opbrengsten van criminaliteit en valsemunterij, met inbegrip van namaak van de euro.
-
-- 9. Computercriminaliteit/cybercriminaliteit.
-
-- 10. Milieumisdrijven, met inbegrip van de illegale handel in bedreigde diersoorten en de illegale handel in bedreigde planten- en boomsoorten.
-
-- 11. Hulp bij illegale binnenkomst en illegaal verblijf.
-
-- 12. Moord, doodslag en zware mishandeling.
-
-- 13. Illegale handel in menselijke organen en weefsels.
-
-- 14. Ontvoering, wederrechtelijke vrijheidsberoving en gijzeling.
-
-- 15. Georganiseerde en gewapende diefstal.
-
-- 16. Illegale handel in cultuurgoederen, waaronder antiquiteiten en kunstvoorwerpen.
-
-- 17. Namaak van producten en productpiraterij.
-
-- 18. Vervalsing van administratieve documenten en handel in valse documenten.
-
-- 19. Illegale handel in hormonale stoffen en andere groeibevorderaars.
-
-- 20. Illegale handel in nucleaire of radioactieve stoffen.
-
-- 21. Verkrachting.
-
-- 22. Misdrijven die onder de rechtsmacht van het Internationaal Strafhof vallen.
-
-- 23. Kaping van vliegtuigen/schepen.
-
-- 24. Sabotage.
-
-- 25. Handel in gestolen voertuigen.
-
-- 26. Industriële spionage.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

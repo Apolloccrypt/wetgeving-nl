@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 december 2018, nr. WJZ/18055953, houdende regels inzake de verlening van mandaat, volmacht en machtiging voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit mandaat, volmacht en machtiging LNV 2019)"
+citeertitel: "Besluit mandaat, volmacht en machtiging LNV 2019"
 identifier: "BWBR0041794"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-05"
-last_updated: "2025-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041794"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14941843"
-version_id: "25589142"
-internal_id: "C36517991"
-label_id: "14892474"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041794/2025-12-05/0"
-intitule_bron: "Stcrt.2018-70654"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-12-07"
-intitule_published: "2018-12-28"
-intitule_in_force: "2018-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-70654"
-original_signed_date: "2018-12-07"
-original_published_date: "2018-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-70654"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041794&z=2025-12-05&g=2025-12-05"
-jci_1_0: "1.0:c:BWBR0041794&g=2025-12-05"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging LNV 2019"
-signed_date: "2018-12-07"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2026-06-04
+status: geldig
+toestand: 2026-06-04
+bron: "https://wetten.overheid.nl/BWBR0041794"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 december 2018, nr. WJZ/18055953, houdende regels inzake de verlening van mandaat, volmacht en machtiging voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit mandaat, volmacht en machtiging LNV 2019)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Handelende met instemming van de Minister van Economische Zaken en Klimaat;
-
-Gezien de schriftelijke instemming van de secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat, de directeur-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat, de directeur Regio van het Ministerie van Economische Zaken en Klimaat, de Chief Economist van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de directeur Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat, de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat, het hoofd van de afdeling Financiële Diensten en Administratie van de directie Financieel-Economische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de algemeen directeur Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat en de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -50,39 +20,43 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- a. *de Minister:* de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- b. **de secretaris-generaal:** de secretaris-generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- b. *de secretaris-generaal:* de secretaris-generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- c. **de plaatsvervangend secretaris-generaal:** de plaatsvervangend secretaris-generaal van het ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- c. *de plaatsvervangend secretaris-generaal:* de plaatsvervangend secretaris-generaal van het ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- d. **de hoofden van dienst:**
+- d. *de hoofden van dienst:*
 
-- 1°. de directeur-generaal Agro;
+   - 1°. de directeur-generaal Agro;
 
-- 2°. de directeur-generaal Natuur en Visserij;
+   - 2°. de directeur-generaal Natuur en Visserij;
 
-- 3°. de directeur-generaal Landelijk Gebied en Stikstof;
+   - 3°. de directeur-generaal Landelijk Gebied en Stikstof;
 
-- 4°. de directeur-generaal Regieorganisatie Transitie Landelijk Gebied;
+   - 4°. de directeur-generaal Regieorganisatie Transitie Landelijk Gebied;
 
-- 5°. de directeur Strategie, Kennis en Innovatie;
+   - 5°. de directeur Strategie, Kennis en Innovatie;
 
-- 6°. de directeur Bestuurlijke en Politieke Zaken;
+   - 6°. de directeur Bestuurlijke en Politieke Zaken;
 
-- 7°. de directeur Communicatie;
+   - 7°. de directeur Communicatie;
 
-- 8°. de directeur Financieel-Economische Zaken;
+   - 8°. de directeur Financieel-Economische Zaken;
 
-- 9°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit.
+   - 9°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit.
 
-- e. **de P&O-aangelegenheden:** de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+- e. *de P&O-aangelegenheden:* de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- f. **de CAO Rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren, werkzaam binnen de sector Rijk.
+- f. *de CAO Rijk:* de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren, werkzaam binnen de sector Rijk.
 
 ##### Artikel 2
 
-De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.
+De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt vastgesteld overeenkomstig de bij dit besluit behorende [bijlage](https://wetten.overheid.nl/BWBR0041794).
+
+##### Artikel 2a
+
+Het in dit besluit ten aanzien van de Minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
 ##### Artikel 3
 
@@ -96,7 +70,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2025-12-05&g=2025-12-05), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2025-12-05&g=2025-12-05), en beleidsregels als bedoeld in artikel 6, zevende lid, en [artikel 24, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=7&sub-paragraaf=7.2&artikel=24&z=2025-12-05&g=2025-12-05);
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2026-06-04&g=2026-06-04), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2026-06-04&g=2026-06-04), en beleidsregels als bedoeld in artikel 6, zevende lid, en [artikel 24, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=7&sub-paragraaf=7.2&artikel=24&z=2026-06-04&g=2026-06-04);
 
 - c. delegatie van bevoegdheden;
 
@@ -128,7 +102,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 1. Aan de secretaris-generaal wordt mandaat, volmacht en machtiging verleend voor:
 
-- a. aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het ministerie betreft, zoals nader omschreven in de toelichting bij het koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal (Stb. 1988, 499);
+- a. aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het ministerie betreft, zoals nader omschreven in de toelichting bij het koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal (Stb. 1988, 499);
 
 - b. het vaststellen van ministeriële regelingen als bedoeld in [artikel 5.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.2) en het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europese Visserijbeleid;
 
@@ -138,9 +112,9 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - e. aangelegenheden op het werkterrein van de hoofden van dienst:
 
-- 1°. ten aanzien waarvan de secretaris-generaal in een incidenteel geval aan een hoofd van dienst mededeling heeft gedaan dat hij door hem zullen worden behandeld of;
+   - 1°. ten aanzien waarvan de secretaris-generaal in een incidenteel geval aan een hoofd van dienst mededeling heeft gedaan dat hij door hem zullen worden behandeld of;
 
-- 2°. die door een hoofd van dienst aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij hij naar het oordeel van de secretaris-generaal door een ander hoofd van dienst moet worden behandeld;
+   - 2°. die door een hoofd van dienst aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij hij naar het oordeel van de secretaris-generaal door een ander hoofd van dienst moet worden behandeld;
 
 - f. het verkennen van de inrichting en de opbouw van nieuwe organisatieonderdelen binnen het ministerie;
 
@@ -162,7 +136,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - o. het in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties op grond van [artikel 3, eerste lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3) aanwijzen van functies die de mogelijkheid bieden de nationale veiligheid te schaden als vertrouwensfuncties;
 
-- p. het invulling geven aan de eigenaarsrol van de Minister van Landbouw, Natuur en Voedselkwaliteit richting de Nederlandse Voedsel-en Warenautoriteit, Staatsbosbeheer, Bureau Beheer Landbouwgronden, en het College voor de toelating van gewasbeschermingsmiddelen en biociden;
+- p. het invulling geven aan de eigenaarsrol van de minister richting de Nederlandse Voedsel- en Warenautoriteit, Staatsbosbeheer, en het Bureau Beheer Landbouwgronden;
 
 - q. het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 5, eerste lid, onderdeel c, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5).
 
@@ -170,19 +144,19 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. het vaststellen van de organisatie en formatie van de diensten:
 
-- 1°. het directoraat-generaal Agro;
+   - 1°. het directoraat-generaal Agro;
 
-- 2°. het directoraat-generaal Natuur en Visserij;
+   - 2°. het directoraat-generaal Natuur en Visserij;
 
-- 3°. het directoraat-generaal Landelijk Gebied en Stikstof;
+   - 3°. het directoraat-generaal Landelijk Gebied en Stikstof;
 
-- 4°. het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied;
+   - 4°. het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied;
 
-- 5°. de directie Bestuurlijke en Politieke Zaken;
+   - 5°. de directie Bestuurlijke en Politieke Zaken;
 
-- 6°. de directie Communicatie;
+   - 6°. de directie Communicatie;
 
-- 7°. de directie Financieel-Economische Zaken.
+   - 7°. de directie Financieel-Economische Zaken.
 
 - b. het vaststellen van de apparaatskosten van de diensten;
 
@@ -192,27 +166,27 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - e. het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van paragraaf 6.3 van de CAO Rijk geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, betreffende:
 
-- 1°. het aanbieden van een arbeidsovereenkomst naar burgerlijk recht voor onbepaalde of bepaalde tijd en het beëindigen van een arbeidsovereenkomst, waaronder begrepen het met wederzijds goedvinden beëindigen van de arbeidsovereenkomst en het opzeggen van een arbeidsovereenkomst om een dringende reden in de zin van [artikel 7:677, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677);
+   - 1°. het aanbieden van een arbeidsovereenkomst naar burgerlijk recht voor onbepaalde of bepaalde tijd en het beëindigen van een arbeidsovereenkomst, waaronder begrepen het met wederzijds goedvinden beëindigen van de arbeidsovereenkomst en het opzeggen van een arbeidsovereenkomst om een dringende reden in de zin van [artikel 7:677, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677);
 
-- 2°. het toekennen van een hogere salarisschaal;
+   - 2°. het toekennen van een hogere salarisschaal;
 
-- 3°. het verlenen van langdurend verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie, bedoeld in hoofdstuk 4 van de CAO Rijk;
+   - 3°. het verlenen van langdurend verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie, bedoeld in hoofdstuk 4 van de CAO Rijk;
 
-- 4°. het opdragen van een andere functie;
+   - 4°. het opdragen van een andere functie;
 
-- 5°. het opdragen van tijdelijke andere werkzaamheden;
+   - 5°. het opdragen van tijdelijke andere werkzaamheden;
 
-- 6°. het toekennen van een terugkeergarantie, al dan niet op grond van sociaal flankerend beleid;
+   - 6°. het toekennen van een terugkeergarantie, al dan niet op grond van sociaal flankerend beleid;
 
-- 7°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
+   - 7°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
 
-- 8°. het toekennen van schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
+   - 8°. het toekennen van schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
 
-- 9°. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
+   - 9°. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
-- 10°. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
+   - 10°. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
 
-- f. Vervallen.
+- f. *Vervallen.*
 
 - g. het toepassen van de hardheidsclausules, genoemd in paragraaf 7.1 en 7.2 van het personeelsreglement LNV.
 
@@ -254,15 +228,15 @@ Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtigin
 
 - q. het uitoefenen van bevoegdheden die voortvloeien uit zeggenschap over privaatrechtelijke rechtspersonen, niet zijnde zelfstandige bestuursorganen;
 
-- r. het invulling geven aan de eigenaarsrol van de Minister van Landbouw, Natuur en Voedselkwaliteit richting de zelfstandige bestuursorganen, met uitzondering van Staatsbosbeheer, Bureau Beheer Landbouwgronden en het College voor de toelating van gewasbeschermingsmiddelen en biociden;
+- r. het invullen van de eigenaarsrol voor organisaties binnen een eigenaarsdriehoek, met uitzondering van de Nederlandse Voedsel- en Warenautoriteit, Staatsbosbeheer en Bureau Beheer Landbouwgronden, inclusief benoeming, goedkeuring van benoemingen, schorsing, ontslag en vergoeding van ambtenaren en andere personen in organen van rechtspersonen, zelfstandige bestuursorganen, colleges en commissies;
 
 - s. het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van paragraaf 6.3 van de CAO Rijk geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, betreffende:
 
-- 1°. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
+   - 1°. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
-- 2°. het met wederzijds goedvinden beëindigen van een arbeidsovereenkomst, voor zover dit gepaard gaat met een financiële regeling waarin een geldelijke tegemoetkoming wordt verstrekt, anders of hoger dan die, bedoeld in [artikel 7:673, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), en [7:671b, achtste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b);
+   - 2°. het met wederzijds goedvinden beëindigen van een arbeidsovereenkomst, voor zover dit gepaard gaat met een financiële regeling waarin een geldelijke tegemoetkoming wordt verstrekt, anders of hoger dan die, bedoeld in [artikel 7:673, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), en [7:671b, achtste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b);
 
-- 3°. het opzeggen van een arbeidsovereenkomst om een dringende reden als bedoeld in [artikel 7:677, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677);
+   - 3°. het opzeggen van een arbeidsovereenkomst om een dringende reden als bedoeld in [artikel 7:677, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677);
 
 - t. het inschrijven van het kernministerie en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten;
 
@@ -272,7 +246,7 @@ Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtigin
 
 ##### Artikel 6
 
-1. Aan de hoofden van dienst wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de bijlage van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de plaatsvervangend secretaris-generaal of aan een ander hoofd van dienst.
+1. Aan de hoofden van dienst wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0041794) van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de plaatsvervangend secretaris-generaal of aan een ander hoofd van dienst.
 
 2. Aan de hoofden van dienst wordt tevens, ieder voor zich, voor zijn werkterrein, mandaat en machtiging verleend voor aangelegenheden inzake de benoeming, ontslag en vergoeding van leden van adviescommissies ter zake van subsidieverlening.
 
@@ -297,6 +271,10 @@ Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtigin
 - a. de te subsidiëren activiteiten gericht zijn op ondersteuning van de NVWA; en
 
 - b. het te verstrekken subsidiebedrag het subsidieplafond genoemd in [bijlage 3, paragraaf 2, van de Subsidieregeling instituten voor toegepast onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=3) voor de WOT voedselveiligheid gericht op de ondersteuning van de NVWA ten behoeve van het instituut Wageningen Research, niet te boven gaat.
+
+##### Artikel 6a
+
+Aan de programmadirecteur PDC, kostprijsmodel en herziening retributiestelsel en de programmadirecteur Stelsel keuren en toezicht wordt ieder voor zich mandaat, volmacht en machtiging verleend voor aangelegenheden op het werkterrein van het programma, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat, en met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de plaatsvervangend secretaris-generaal of aan een hoofd van dienst.
 
 #### § 3. Instructies
 
@@ -352,7 +330,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2025-12-05&g=2025-12-05), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2026-06-04&g=2026-06-04), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -394,7 +372,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2025-12-05&g=2025-12-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2025-12-05&g=2025-12-05) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening en de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2026-06-04&g=2026-06-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2026-06-04&g=2026-06-04) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening en de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
@@ -406,7 +384,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 3. De uit dit besluit voor de hoofden van dienst voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
 
-#### § 5. Vervanging
+#### § 6. Ondertekening bij afwezigheid minister
 
 ##### Artikel 13
 
@@ -426,23 +404,23 @@ overeenkomstig het door de minister genomen besluit:
 
 secretaris-generaal
 
-#### § 6. Ondertekening bij afwezigheid minister
+#### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
 
-#### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken en Klimaat die ook taken verrichten voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit
+##### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken en Klimaat die ook taken verrichten voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
 ##### Artikel 14
 
-1. De directie Informatievoorziening en de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de directie Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat](onbekend) ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+1. De directie Informatievoorziening en de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de directie Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat](https://wetten.overheid.nl/BWBR0041776) ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-2. De directie Algemene Economische Politiek van het Ministerie van Economische Zaken en Klimaat verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat](onbekend), voor zover van toepassing, ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+2. De directie Algemene Economische Politiek van het Ministerie van Economische Zaken en Klimaat verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat](https://wetten.overheid.nl/BWBR0041776), voor zover van toepassing, ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-3. De directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat en de directie Communicatie van het Ministerie van Economische Zaken en Klimaat verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat](onbekend), voor zover van toepassing, ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+3. De directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat en de directie Communicatie van het Ministerie van Economische Zaken en Klimaat verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat](https://wetten.overheid.nl/BWBR0041776), voor zover van toepassing, ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
 4. De afdeling Financiële Diensten en Administratie van de directie Financieel-Economische Zaken van het Ministerie van Economische Zaken en Klimaat verricht de taken betreffende de financiële administratie ook voor de directie Financieel-Economische Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-5. De Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat en de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken](onbekend) en Klimaat, voor zover van toepassing, ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+5. De Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat en de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken](https://wetten.overheid.nl/BWBR0041776) en Klimaat, voor zover van toepassing, ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-#### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken en Klimaat die ook taken verrichten voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit
+##### § 7.2. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
 
 ##### Artikel 15
 
@@ -450,7 +428,7 @@ Aan de secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, 
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -468,11 +446,67 @@ Aan de directeur-generaal Economie en Digitalisering van het Ministerie van Econ
 
 - f. het coördineren van het fiscale beleid binnen het Ministerie van Landbouw, Natuur en voedselkwaliteit.
 
-##### Artikel 18
+##### Artikel 18a
 
-1. Aan de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
+Aan de directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
 
-- a. het ontwikkelen van beleid en adviseren van de departementsleiding en het management en het leveren van een bijdrage aan interdepartementale beleidsontwikkeling op het gebied van de facilitaire diensten, personeel en organisatie, inkoop, ICT-toepassingen, informatievoorziening, huisvesting en ondersteuning van het management bij de directoraten-generaal en de stafdirecties;
+- a. het ontwikkelen van beleid en adviseren van de departementsleiding en het management en het leveren van een bijdrage aan interdepartementale beleidsontwikkeling op het gebied van de facilitaire diensten, inkoop, ICT-toepassingen, informatievoorziening en huisvesting;
+
+- b. het beschikbaar stellen en houden van ICT-toepassingen, ondersteuning bij het gebruik van toepassingen en het functioneel beheer van concernapplicaties en gegevensbeheer voor Identity Management;
+
+- c. het geven van sturing aan de Dienst ICT Uitvoering;
+
+- d. het uitvoeren van zowel alle operationele taken binnen het spectrum van digitale informatievoorziening als de wettelijke taken die hierover zijn vastgelegd voor het kernministerie;
+
+- e. het voorzien in informatiecentra en interne nieuwsvoorziening;
+
+- f. het adviseren over en het ontwikkelen van nieuwe informatieproducten, informatiekanalen, toepassingen en functionaliteiten;
+
+- g. het coördineren van de inkoop van het ministerie;
+
+- h. het aangaan van overeenkomsten op het terrein van roerende goederen en dienstverlening, alsmede het materiële beheer van roerende goederen;
+
+- i. het in opdracht van de secretaris-generaal, de plaatsvervangend secretaris-generaal of een hoofd van dienst aangaan en ondertekenen van inkoopopdrachten en contracten;
+
+- j. het voeren van regie op het gebied van kantoorhuisvesting zoals opgenomen in de masterplannen Rijkshuisvesting en op de pied-à-terres voor de politieke top, waaronder begrepen het tekenen van de akte van ingebruikgeving met het Rijksvastgoedbedrijf, het bepalen van de huisvestingsbehoefte en het sturen op regionale vestiging en volume op het gebied van huisvesting en huur van vastgoed;
+
+- k. het voorzien in overige facilitaire zaken, waaronder begrepen maar niet beperkt tot personenvervoer, vertaaldiensten, telefooncentrale en uitvoering van evenementen;
+
+- l. het adviseren van het management bij de directoraten-generaal en de stafdirecties op bedrijfsvoeringsterreinen en het doorgeleiden van wensen naar het juiste onderdeel binnen de directie Informatievoorziening en de directie Mens en Organisatie;
+
+- m. het voorbereiden van (inter)departementaal overleg op het terrein van organisatie en bedrijfsvoering en het zorg dragen voor een integrale afweging;
+
+- n. het voortouw nemen op bedrijfsvoeringsbrede thema's zoals (informatie)beveiliging;
+
+- o. het leveren van diensten en voorzieningen voor een vlot verloop van het dagelijkse werk voor de individuele medewerker van het kernministerie, waaronder begrepen maar niet beperkt tot het reserveren van vergaderzalen met catering, het voorzien in toegangspassen en het afhandelen van vragen en storingsmeldingen;
+
+- p. het behandelen van verzoeken tot het organiseren van evenementen en verzoeken tot interne verhuizingen;
+
+- q. het verzorgen van de communicatie binnen het kernministerie inzake bedrijfsvoeringsonderwerpen;
+
+- r. het leveren van managementinformatie ten behoeve van de departementsleiding en dienstonderdelen op het gebied van bedrijfsvoering;
+
+- s. de controle op de personele budgetten, processen en formatie van het kernministerie;
+
+- t. de financiële controle op materiele budgetten en het bewaken van de kwaliteit van werkprocessen van de directie;
+
+- u. het in opdracht van een hoofd van dienst autoriseren van medewerkers van het kernministerie, het Centraal Planbureau, de Dienst Nationaal Coördinator Groningen en het Staatstoezicht op de Mijnen, voor het afnemen van digitale overheidsdiensten door middel van het inkopen, uitgeven en beheren van digitale authenticatiemiddelen;
+
+- v. het geven van sturing ten aanzien van budgetten en kwaliteit van dienstverlening aan shared service organisaties (SSO’s) en concern dienstverleners (CDV’s) op het gebied van bedrijfsvoeringsdienstverlening;
+
+- w. het zorg dragen voor een actuele inschrijving van het Ministerie van Landbouw, Natuur en Voedselkwaliteit in het handelsregister bij de Kamer van Koophandel;
+
+- x. het coördineren en het ontwerpen van de selectielijsten zoals bedoeld in [artikel 5, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) voor het gehele ministerie;
+
+- y. het ondersteunen van de plaatsvervangend secretaris-generaal bij het zorgdragen voor een juiste en actuele inschrijving van het kernministerie zoals bedoeld in paragraaf I, tweede lid, van de [Bijlage](https://wetten.overheid.nl/BWBR0041794) Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten;
+
+- z. het ondersteunen van de plaatsvervangend secretaris-generaal bij het verstrekken van ketenmachtigingen als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten door registratie in het machtigingenregister, op naam van het kernministerie of van de Nederlandse Voedsel- en Warenautoriteit, aan andere agentschappen of aan publiekrechtelijke of privaatrechtelijke rechtspersonen.
+
+##### Artikel 18b
+
+1. Aan de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
+
+- a. het ontwikkelen van beleid en adviseren van de departementsleiding en het management en het leveren van een bijdrage aan interdepartementale beleidsontwikkeling op het gebied van personeel en organisatie, en ondersteuning van het management bij de directoraten-generaal en de stafdirecties;
 
 - b. het adviseren van de departementsleiding en het management over het implementeren van beleid op het gebied van management development (ABD), mobiliteit, werving, opleiding, de personeelscyclus, leren en ontwikkelen, diversiteit en gezond & veilig werken (of vitaliteit);
 
@@ -480,63 +514,19 @@ Aan de directeur-generaal Economie en Digitalisering van het Ministerie van Econ
 
 - d. het uitvoeren van taken rond personeels- en salarisadministratie voor zover die niet bij P-Direkt zijn ondergebracht en met betrekking tot de personeelsstichting;
 
-- e. het beschikbaar stellen en houden van ICT-toepassingen, ondersteuning bij het gebruik van toepassingen en het functioneel beheer van concernapplicaties en gegevensbeheer voor Identity Management;
+- e. het voorzien in de secretariële ondersteuning bij de directoraten-generaal en de stafdirecties en het standaardiseren van bijbehorende werkprocessen;
 
-- f. het geven van sturing aan de Dienst ICT Uitvoering;
+- f. het ondersteunen van concern en bestuur bij organisatieontwikkeling en verandertrajecten door middel van advisering, teamcoaching en procesbegeleiding;
 
-- g. het uitvoeren van zowel alle operationele taken binnen het spectrum van digitale informatievoorziening als de wettelijke taken die hierover zijn vastgelegd voor het kernministerie;
+- g. voorbereiden van (inter)departementaal overleg op het terrein van organisatie en bedrijfsvoering en het zorg dragen voor een integrale afweging;
 
-- h. het voorzien in informatiecentra, interne nieuwsvoorziening en intranet;
+- h. het voortouw nemen op bedrijfsvoeringsbrede thema's zoals het nieuwe werken en programmatisch werken;
 
-- i. het adviseren over en het ontwikkelen van nieuwe informatieproducten, informatiekanalen, toepassingen en functionaliteiten;
+- i. het voorzien in expertise en capaciteit op het terrein van beleid (projectenpool), bedrijfsvoering en interim-management;
 
-- j. het coördineren van de inkoop van het ministerie;
+- j. het geven van sturing ten aanzien van budgetten en kwaliteit van dienstverlening aan shared service organisaties (SSO’s) en concern dienstverleners (CDV’s) op het gebied van bedrijfsvoeringsdienstverlening;
 
-- k. het aangaan van overeenkomsten op het terrein van roerende goederen en dienstverlening, alsmede het materiële beheer van roerende goederen;
-
-- l. het in opdracht van de secretaris-generaal, de plaatsvervangend secretaris-generaal of een hoofd van dienst aangaan en ondertekenen van inkoopopdrachten en contracten;
-
-- m. het voeren van regie op het gebied van kantoorhuisvesting zoals opgenomen in de masterplannen Rijkshuisvesting en op de pied-à-terres voor de politieke top, waaronder begrepen het tekenen van de akte van ingebruikgeving met het Rijksvastgoedbedrijf, het bepalen van de huisvestingsbehoefte en het sturen op regionale vestiging en volume op het gebied van huisvesting en huur van vastgoed;
-
-- n. het voorzien in overige facilitaire zaken, waaronder begrepen maar niet beperkt tot personenvervoer, vertaaldiensten, telefooncentrale en uitvoering van evenementen;
-
-- o. het voorzien in de secretariële ondersteuning bij de directoraten-generaal en de stafdirecties en het standaardiseren van bijbehorende werkprocessen;
-
-- p. het adviseren van het management bij de directoraten-generaal en de stafdirecties op bedrijfsvoeringsterreinen en het doorgeleiden van wensen naar het juiste onderdeel binnen de directie Bedrijfsvoering;
-
-- q. het ondersteunen van concern en bestuur bij organisatieontwikkeling en verandertrajecten door middel van advisering, teamcoaching en procesbegeleiding;
-
-- r. voorbereiden van (inter)departementaal overleg op het terrein van organisatie en bedrijfsvoering en het zorg dragen voor een integrale afweging;
-
-- s. het voortouw nemen op bedrijfsvoeringsbrede thema's zoals het nieuwe werken, (informatie)beveiliging, integriteit en programmatisch werken;
-
-- t. het voorzien in expertise en capaciteit op het terrein van beleid (projectenpool), bedrijfsvoering en interim-management;
-
-- u. het leveren van diensten en voorzieningen voor een vlot verloop van het dagelijkse werk voor de individuele medewerker van het kernministerie, waaronder begrepen maar niet beperkt tot het reserveren van vergaderzalen met catering, het voorzien in toegangspassen en het afhandelen van vragen en storingsmeldingen;
-
-- v. het behandelen van verzoeken tot het organiseren van evenementen en verzoeken tot interne verhuizingen;
-
-- w. het verzorgen van de communicatie binnen het kernministerie inzake bedrijfsvoeringsonderwerpen;
-
-- x. het leveren van managementinformatie ten behoeve van de departementsleiding en dienstonderdelen op het gebied van bedrijfsvoering;
-
-- y. de controle op de personele budgetten, processen en formatie van het kernministerie;
-
-- z. de financiële controle op materiele budgetten en het bewaken van de kwaliteit van werkprocessen van de directie;
-
-- aa. het in opdracht van een hoofd van dienst autoriseren van medewerkers van het directoraat-generaal Agro, het directoraat-generaal Natuur, Visserij en Landelijk Gebied het programmadirectoraat-generaal Stikstof, de directie Bestuurlijke en Politieke Zaken, de directie Communicatie en de directie Financieel-Economische Zaken, voor het afnemen van digitale overheidsdiensten door middel van het inkopen, uitgeven en beheren van digitale authenticatiemiddelen;
-
-- bb. het geven van sturing van ten aanzien van budgetten en kwaliteit van dienstverlening aan shared service organisaties (SSO’s) en concern dienstverleners (CDV’s) op het gebied van bedrijfsvoeringsdienstverlening;
-
-- cc. het zorg dragen voor een actuele inschrijving van het Ministerie van Landbouw, Natuur en Voedselkwaliteit in het handelsregister bij de Kamer van Koophandel;
-
-- dd. het coördineren en het ontwerpen van de selectielijsten zoals bedoeld in [artikel 5, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) voor het gehele ministerie;
-
-- ee. het ondersteunen van de plaatsvervangend secretaris-generaal bij het zorgdragen voor een juiste en actuele inschrijving van het kernministerie zoals bedoeld in paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten;
-
-- ff. het ondersteunen van de plaatsvervangend secretaris-generaal bij het verstrekken van ketenmachtigingen als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten door registratie in het machtigingenregister, op naam van het kernministerie of van de Nederlandse Voedsel- en Warenautoriteit, aan andere agentschappen of aan publiekrechtelijke of privaatrechtelijke rechtspersonen.
-
-2. Aan de directeur Bedrijfsvoering wordt tevens mandaat, volmacht en machtiging verleend voor het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van paragraaf 6.3 van de CAO Rijk geldt, betreffende:
+2. Aan de directeur Mens en Organisatie wordt tevens mandaat, volmacht en machtiging verleend voor het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van paragraaf 6.3 van de CAO Rijk geldt, betreffende:
 
 - a. het verlenen van langdurend verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie als bedoeld in paragraaf 4.6 van de CAO Rijk;
 
@@ -544,7 +534,7 @@ Aan de directeur-generaal Economie en Digitalisering van het Ministerie van Econ
 
 - c. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
 
-- d. het toekennen van verplichte en onverplichte schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
+- d. het toekennen van verplichte en onverplichte schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
 
 - e. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
 
@@ -602,21 +592,21 @@ Aan het hoofd van de afdeling Financiële Diensten en Administratie van de direc
 
 - c. het behandelen van bezwaarschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het voeren van voorlopige voorziening procedures, met uitzondering van:
 
-- 1°. het nemen van beslissingen op bezwaarschriften inzake de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) en de [Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), uitgezonderd besluiten op bezwaar inzake de in dit subonderdeel genoemde wetten, die gestoeld zijn op [artikel 6:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:6);
+   - 1°. het nemen van beslissingen op bezwaarschriften inzake de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) en de [Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), uitgezonderd besluiten op bezwaar inzake de in dit subonderdeel genoemde wetten, die gestoeld zijn op [artikel 6:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:6);
 
-- 2°. het behandelen van bezwaarschriften en het voeren van voorlopige voorziening procedures over besluiten behorende tot het werkterrein van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit en de directeur-generaal Rijksdienst voor Ondernemend Nederland;
+   - 2°. het behandelen van bezwaarschriften en het voeren van voorlopige voorziening procedures over besluiten behorende tot het werkterrein van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit en de directeur-generaal Rijksdienst voor Ondernemend Nederland;
 
 - d. voor het voeren van beroep en hoger beroep, waaronder begrepen het instellen van beroep en hoger beroep en het voeren van voorlopige voorziening procedures, met uitzondering van deze procedures over:
 
-- 1°. besluiten behorende tot het werkterrein van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit, de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat;
+   - 1°. besluiten behorende tot het werkterrein van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit, de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat;
 
-- 2°. besluiten inzake personeelsaangelegenheden;
+   - 2°. besluiten inzake personeelsaangelegenheden;
 
 - e. het behandelen van verzoeken van de Nationale ombudsman;
 
 - f. de interdepartementale staatssteuncoördinatie, inclusief het voorzitterschap en secretariaat van het Interdepartementaal Steun Overleg;
 
-- g. het opstellen van mandaatbesluiten, volmachten en machtigingen van de Minister van Landbouw, Natuur en Voedselkwaliteit, waaronder dit besluit en het organisatiebesluit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit in de bijlage van dit besluit.
+- g. het opstellen van mandaatbesluiten, volmachten en machtigingen van de Minister van Landbouw, Natuur en Voedselkwaliteit, waaronder dit besluit en het organisatiebesluit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit in de [bijlage](https://wetten.overheid.nl/BWBR0041794) van dit besluit.
 
 2. Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat wordt tevens volmacht en machtiging verleend voor het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners, met uitzondering van verplichtingen op het werkterrein van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit.
 
@@ -636,7 +626,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 1. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor:
 
-- a. het uitvoeren van de in de [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118) en de in de [Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224) genoemde taken;
+- a. het uitvoeren van de in de [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118) en de in de [Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224) genoemde taken;
 
 - b. het als nationaal voorportaal samenwerken met het Europees Octrooi Bureau ter bevordering van de kennisbescherming;
 
@@ -758,7 +748,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 7. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
-#### § 8. Ondermandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
+#### § 9. Instructies aan niet-ondergeschikten
 
 ##### Artikel 26
 
@@ -796,7 +786,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 3. In uitzondering op het tweede lid kan een automatisch gegenereerd stuk ook met handtekening worden ondertekend. De ondertekening geschiedt dan zoals genoemd in het eerste lid.
 
-#### § 9. Instructies aan niet-ondergeschikten
+#### § 10. Overgangs- en slotbepalingen
 
 ##### Artikel 28
 
@@ -808,212 +798,12 @@ Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de plaa
 
 ##### Artikel 30
 
-Dit besluit treedt in werking met ingang van 1 januari 2019. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2019, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2019.
+Dit besluit treedt in werking met ingang van 1 januari 2019. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2019, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2019.
 
 ##### Artikel 31
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 2019.
 
-## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### I. Hoofdstructuur van de organisatie
-
-### I. Hoofdstructuur van de organisatie
-
-### I. Hoofdstructuur van de organisatie
-
-### I. Hoofdstructuur van de organisatie
-
-### II. Algemene leiding
-
-### III. Het directoraat-generaal Agro
-
-### A. Algemeen
-
-### B. De directie Dierlijke Agroketens en Dierenwelzijn
-
-### C. De directie Plantaardige Agroketens en Voedselkwaliteit
-
-### D. De directie Strategie, Kennis en Innovatie
-
-### D. De directie Europees, Internationaal en Agro-economisch Beleid
-
-### E. De programmadirectie Regieorganisatie GLB
-
-### IV. Het directoraat-generaal Natuur en Visserij
-
-Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
-
 ##### Artikel 32a
 
-Vervallen
-
-## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### V. Het directoraat-generaal Landelijk Gebied en Stikstof
-
-Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-### VI. Het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied (RTLG)
-
-Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Het in dit besluit ten aanzien van de Minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur.
-
-#### § 2. Mandaat, volmacht en machtiging aan ondergeschikten
-
-#### § 3. Instructies
-
-#### § 4. Ondermandaat
-
-#### § 5. Vervanging
-
-#### § 6. Ondertekening bij afwezigheid minister
-
-#### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
-
-#### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken en Klimaat die ook taken verrichten voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-#### § 7.2. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
-
-#### § 8. Ondermandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
-
-#### § 8. Ondermandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
-
-#### § 10. Overgangs- en slotbepalingen
-
-## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### VII. De directie Strategie, Kennis en Innovatie
-
-Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-Aan de programmadirecteur PDC, kostprijsmodel en herziening retributiestelsel en de programmadirecteur Stelsel keuren en toezicht wordt ieder voor zich mandaat, volmacht en machtiging verleend voor aangelegenheden op het werkterrein van het programma, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat, en met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de plaatsvervangend secretaris-generaal of aan een hoofd van dienst.
-
-#### § 3. Instructies
-
-#### § 4. Ondermandaat
-
-#### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
-
-#### § 7.2. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
-
-#### § 9. Instructies aan niet-ondergeschikten
-
-#### § 10. Overgangs- en slotbepalingen
-
-## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### VIII. De directie Bestuurlijke en Politieke Zaken
-
-### IX. De directie Communicatie
-
-Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-##### Artikel 18b
-
-1. Aan de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
-
-- a. het ontwikkelen van beleid en adviseren van de departementsleiding en het management en het leveren van een bijdrage aan interdepartementale beleidsontwikkeling op het gebied van personeel en organisatie, en ondersteuning van het management bij de directoraten-generaal en de stafdirecties;
-
-- b. het adviseren van de departementsleiding en het management over het implementeren van beleid op het gebied van management development (ABD), mobiliteit, werving, opleiding, de personeelscyclus, leren en ontwikkelen, diversiteit en gezond & veilig werken (of vitaliteit);
-
-- c. het ondersteunen en adviseren van de departementsleiding en het management inzake medezeggenschap, personeelsadvies en sociaal-juridische zaken;
-
-- d. het uitvoeren van taken rond personeels- en salarisadministratie voor zover die niet bij P-Direkt zijn ondergebracht en met betrekking tot de personeelsstichting;
-
-- e. het voorzien in de secretariële ondersteuning bij de directoraten-generaal en de stafdirecties en het standaardiseren van bijbehorende werkprocessen;
-
-- f. het ondersteunen van concern en bestuur bij organisatieontwikkeling en verandertrajecten door middel van advisering, teamcoaching en procesbegeleiding;
-
-- g. voorbereiden van (inter)departementaal overleg op het terrein van organisatie en bedrijfsvoering en het zorg dragen voor een integrale afweging;
-
-- h. het voortouw nemen op bedrijfsvoeringsbrede thema's zoals het nieuwe werken en programmatisch werken;
-
-- i. het voorzien in expertise en capaciteit op het terrein van beleid (projectenpool), bedrijfsvoering en interim-management;
-
-- j. het geven van sturing ten aanzien van budgetten en kwaliteit van dienstverlening aan shared service organisaties (SSO’s) en concern dienstverleners (CDV’s) op het gebied van bedrijfsvoeringsdienstverlening;
-
-2. Aan de directeur Mens en Organisatie wordt tevens mandaat, volmacht en machtiging verleend voor het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van paragraaf 6.3 van de CAO Rijk geldt, betreffende:
-
-- a. het verlenen van langdurend verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie als bedoeld in paragraaf 4.6 van de CAO Rijk;
-
-- b. het toekennen van een terugkeergarantie op grond van sociaal flankerend beleid;
-
-- c. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
-
-- d. het toekennen van verplichte en onverplichte schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
-
-- e. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
-
-#### § 10. Overgangs- en slotbepalingen
-
-## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### X. De directie Financieel-Economische Zaken
-
-Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-### XI. De Nederlandse Voedsel- en Warenautoriteit
-
-Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-##### Artikel 18a
-
-Aan de directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
-
-- a. het ontwikkelen van beleid en adviseren van de departementsleiding en het management en het leveren van een bijdrage aan interdepartementale beleidsontwikkeling op het gebied van de facilitaire diensten, inkoop, ICT-toepassingen, informatievoorziening en huisvesting;
-
-- b. het beschikbaar stellen en houden van ICT-toepassingen, ondersteuning bij het gebruik van toepassingen en het functioneel beheer van concernapplicaties en gegevensbeheer voor Identity Management;
-
-- c. het geven van sturing aan de Dienst ICT Uitvoering;
-
-- d. het uitvoeren van zowel alle operationele taken binnen het spectrum van digitale informatievoorziening als de wettelijke taken die hierover zijn vastgelegd voor het kernministerie;
-
-- e. het voorzien in informatiecentra en interne nieuwsvoorziening;
-
-- f. het adviseren over en het ontwikkelen van nieuwe informatieproducten, informatiekanalen, toepassingen en functionaliteiten;
-
-- g. het coördineren van de inkoop van het ministerie;
-
-- h. het aangaan van overeenkomsten op het terrein van roerende goederen en dienstverlening, alsmede het materiële beheer van roerende goederen;
-
-- i. het in opdracht van de secretaris-generaal, de plaatsvervangend secretaris-generaal of een hoofd van dienst aangaan en ondertekenen van inkoopopdrachten en contracten;
-
-- j. het voeren van regie op het gebied van kantoorhuisvesting zoals opgenomen in de masterplannen Rijkshuisvesting en op de pied-à-terres voor de politieke top, waaronder begrepen het tekenen van de akte van ingebruikgeving met het Rijksvastgoedbedrijf, het bepalen van de huisvestingsbehoefte en het sturen op regionale vestiging en volume op het gebied van huisvesting en huur van vastgoed;
-
-- k. het voorzien in overige facilitaire zaken, waaronder begrepen maar niet beperkt tot personenvervoer, vertaaldiensten, telefooncentrale en uitvoering van evenementen;
-
-- l. het adviseren van het management bij de directoraten-generaal en de stafdirecties op bedrijfsvoeringsterreinen en het doorgeleiden van wensen naar het juiste onderdeel binnen de directie Informatievoorziening en de directie Mens en Organisatie;
-
-- m. het voorbereiden van (inter)departementaal overleg op het terrein van organisatie en bedrijfsvoering en het zorg dragen voor een integrale afweging;
-
-- n. het voortouw nemen op bedrijfsvoeringsbrede thema's zoals (informatie)beveiliging;
-
-- o. het leveren van diensten en voorzieningen voor een vlot verloop van het dagelijkse werk voor de individuele medewerker van het kernministerie, waaronder begrepen maar niet beperkt tot het reserveren van vergaderzalen met catering, het voorzien in toegangspassen en het afhandelen van vragen en storingsmeldingen;
-
-- p. het behandelen van verzoeken tot het organiseren van evenementen en verzoeken tot interne verhuizingen;
-
-- q. het verzorgen van de communicatie binnen het kernministerie inzake bedrijfsvoeringsonderwerpen;
-
-- r. het leveren van managementinformatie ten behoeve van de departementsleiding en dienstonderdelen op het gebied van bedrijfsvoering;
-
-- s. de controle op de personele budgetten, processen en formatie van het kernministerie;
-
-- t. de financiële controle op materiele budgetten en het bewaken van de kwaliteit van werkprocessen van de directie;
-
-- u. het in opdracht van een hoofd van dienst autoriseren van medewerkers van het kernministerie, het Centraal Planbureau, de Dienst Nationaal Coördinator Groningen en het Staatstoezicht op de Mijnen, voor het afnemen van digitale overheidsdiensten door middel van het inkopen, uitgeven en beheren van digitale authenticatiemiddelen;
-
-- v. het geven van sturing ten aanzien van budgetten en kwaliteit van dienstverlening aan shared service organisaties (SSO’s) en concern dienstverleners (CDV’s) op het gebied van bedrijfsvoeringsdienstverlening;
-
-- w. het zorg dragen voor een actuele inschrijving van het Ministerie van Landbouw, Natuur en Voedselkwaliteit in het handelsregister bij de Kamer van Koophandel;
-
-- x. het coördineren en het ontwerpen van de selectielijsten zoals bedoeld in [artikel 5, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) voor het gehele ministerie;
-
-- y. het ondersteunen van de plaatsvervangend secretaris-generaal bij het zorgdragen voor een juiste en actuele inschrijving van het kernministerie zoals bedoeld in paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten;
-
-- z. het ondersteunen van de plaatsvervangend secretaris-generaal bij het verstrekken van ketenmachtigingen als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten door registratie in het machtigingenregister, op naam van het kernministerie of van de Nederlandse Voedsel- en Warenautoriteit, aan andere agentschappen of aan publiekrechtelijke of privaatrechtelijke rechtspersonen.
+*Vervallen*

@@ -1,55 +1,26 @@
 ---
 title: "Wet van 6 maart 2019 tot wijziging van de Wet schadefonds geweldsmisdrijven in verband met het opheffen van de rechtspersoonlijkheid van het fonds, uitbreiding van de taakuitoefening tot de openbare lichamen Bonaire, Sint Eustatius en Saba alsmede verduidelijking van de regeling van uitkeringen door het Schadefonds en het vorderingsrecht van het slachtoffer jegens derden"
+citeertitel: "Wijzigingswet Wet schadefonds geweldsmisdrijven (opheffen rechtspersoonlijkheid van het fonds, enz.)"
 identifier: "BWBR0042001"
-country: "nl"
-rank: "wet"
-publication_date: "2019-04-01"
-last_updated: "2019-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042001"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "15023873"
-version_id: "25739292"
-internal_id: "C36751701"
-label_id: "14973484"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042001/2019-04-01/0"
-intitule_bron: "Stb.2019-116"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-06"
-intitule_published: "2019-03-19"
-intitule_in_force: "2019-03-29"
-intitule_status: "goed"
-original_publication: "Stb.2019-116"
-original_signed_date: "2019-03-06"
-original_published_date: "2019-03-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "35041"
-original_url_id: "stb-2019-116"
-entry_into_force_date: "2019-04-01"
-jci_1_3: "jci1.3:c:BWBR0042001&z=2019-04-01&g=2019-04-01"
-jci_1_0: "1.0:c:BWBR0042001&g=2019-04-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet schadefonds geweldsmisdrijven (opheffen rechtspersoonlijkheid van het fonds, enz.)"
-signed_date: "2019-03-06"
-entry_into_force: "2019-04-01"
+publicatiedatum: 2019-04-01
+laatste_update: 2019-04-01
+status: geldig
+toestand: 2019-04-01
+bron: "https://wetten.overheid.nl/BWBR0042001"
+opgehaald: 2026-08-28
 ---
+
 # Wet van 6 maart 2019 tot wijziging van de Wet schadefonds geweldsmisdrijven in verband met het opheffen van de rechtspersoonlijkheid van het fonds, uitbreiding van de taakuitoefening tot de openbare lichamen Bonaire, Sint Eustatius en Saba alsmede verduidelijking van de regeling van uitkeringen door het Schadefonds en het vorderingsrecht van het slachtoffer jegens derden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo wij in overweging genomen hebben, dat het wenselijk is de rechtspersoonlijkheid van het Schadefonds Geweldsmisdrijven op te heffen teneinde beter aan te sluiten bij de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495), de taakuitoefening van het Schadefonds uit te breiden tot Caribisch Nederland en de regeling van uitkeringen door het Schadefonds en het vorderingsrecht van het slachtoffer na uitkering te verduidelijken;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goed vinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet schadefonds geweldsmisdrijven.
+*Wijzigt de Wet schadefonds geweldsmisdrijven.*
 
 ##### Artikel II
 
-Wijzigt het Burgerlijk Wetboek Boek 6.
+*Wijzigt het Burgerlijk Wetboek Boek 6.*
 
 ##### Artikel III
 
@@ -61,10 +32,8 @@ Indien en voor zover het naasten betreft als bedoeld in [artikel 20, tweede lid]
 
 ##### Artikel V
 
-Wijzigt de Wet schadefonds geweldsmisdrijven.
+*Wijzigt de Wet schadefonds geweldsmisdrijven.*
 
 ##### Artikel VI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

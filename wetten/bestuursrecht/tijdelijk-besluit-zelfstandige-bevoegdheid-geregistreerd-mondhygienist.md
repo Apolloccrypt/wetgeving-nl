@@ -1,118 +1,32 @@
 ---
 title: "Besluit van 17 mei 2019, houdende tijdelijke regels inzake de opleiding, deskundigheid en tijdelijke zelfstandige bevoegdheid tot het verrichten van voorbehouden handelingen door de geregistreerd-mondhygiënist (Tijdelijk besluit zelfstandige bevoegdheid geregistreerd-mondhygiënist)"
+citeertitel: "Tijdelijk besluit zelfstandige bevoegdheid geregistreerd-mondhygiënist"
 identifier: "BWBR0042257"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042257"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15084123"
-version_id: "25854832"
-internal_id: "C37707071"
-label_id: "15032814"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042257/2023-01-01/0"
-intitule_bron: "Stb.2019-192"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-17"
-intitule_published: "2019-05-31"
-intitule_in_force: "2020-03-18"
-intitule_status: "goed"
-original_publication: "Stb.2019-192"
-original_signed_date: "2019-05-17"
-original_published_date: "2019-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-192"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0042257&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0042257&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit zelfstandige bevoegdheid geregistreerd-mondhygiënist"
-signed_date: "2019-05-17"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0042257"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 17 mei 2019, houdende tijdelijke regels inzake de opleiding, deskundigheid en tijdelijke zelfstandige bevoegdheid tot het verrichten van voorbehouden handelingen door de geregistreerd-mondhygiënist (Tijdelijk besluit zelfstandige bevoegdheid geregistreerd-mondhygiënist)
 
-Op de voordracht van Onze Minister voor Medische Zorg van 20 december 2018, kenmerk 1461389-185525-WJZ;
-
-Gelet op de [artikelen 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=11), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), [36a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a), [36b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36b), [42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42) en [94 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=94);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 15 maart 2019, no.W13.18.0406/III);
-
-Gezien het nader rapport van Onze Minister voor Medische Zorg van 16 mei 2019, kenmerk 1525675-185525-WJZ;
-
-Hebben goedgevonden en verstaan:
-
 #### § 1. Begripsbepaling
-
-#### § 2. Opleiding
-
-#### § 3. Deskundigheid
-
-#### § 4. Voorbehouden handelingen
-
-#### § 5. Overige bepalingen
-
-##### Artikel 9
-
-1. Alvorens een verklaring af te geven als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), wint Onze Minister advies in van de commissie.
-
-2. De commissie onderzoekt en laat Onze Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01).
-
-3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van geregistreerd-mondhygiënist.
-
-##### Artikel 10
-
-1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), met uitzondering van artikel 2, eerste lid, onder d, [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) en [8 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=8) zijn van toepassing met dien verstande dat:
-
-- a. onder de bescheiden, bedoeld in [artikel 2, eerste lid, onder b, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01);
-
-- b. onder een getuigschrift als bedoeld [artikel 2, vierde lid, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01);
-
-- c. dat voor de toepassing van [artikel 2, negende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), geregistreerde mondhygiënisten gelijk worden gesteld aan fysiotherapeuten en verloskundigen;
-
-- d. onder de verklaring, bedoeld in [artikel 2, negende lid, onder e, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan een verklaring als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01).
-
-2. Indien inschrijving in het register, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), plaatsvindt op grond van een verklaring als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), wordt voor de toepassing van [artikel 7 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) die verklaring gelijkgesteld met een verklaring als bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
-
-##### Artikel 11
-
-1. Onze Minister kan voor de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), reeds besluiten op aanvragen tot inschrijving in het tijdelijk register voor geregistreerd-mondhygiënisten. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van de datum van inwerkingtreding van artikel 2, eerste lid.
-
-2. Indien het besluit tot inschrijving op een aanvraag, bedoeld in het eerste lid, wordt genomen op een tijdstip na inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), vindt de inschrijving in afwijking van het eerste lid plaats op dat tijdstip.
-
-##### Artikel 12
-
-Wijzigt het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut.
-
-##### Artikel 13
-
-Onze Minister zendt binnen vijf jaar na inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
-
-##### Artikel 14
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=5&artikel=11&z=2023-01-01&g=2023-01-01) in werking treedt.
-
-##### Artikel 15
-
-Dit besluit wordt aangehaald als: Tijdelijk besluit zelfstandige bevoegdheid geregistreerd-mondhygiënist
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+- a. *wet:* de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. **Registratie instellingen en opleidingen:** het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
+- b. *Registratie instellingen en opleidingen:* het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
-- c. **commissie:** de commissie, bedoeld in [artikel 1, onderdeel c, van het Besluit Buitenslands Gediplomeerden Volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1).
+- c. *commissie:* de commissie, bedoeld in [artikel 1, onderdeel c, van het Besluit Buitenslands Gediplomeerden Volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1).
 
-- d. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
+- d. *studiepunten:* studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
 
 ##### Artikel 2
 
@@ -128,9 +42,9 @@ In dit besluit wordt verstaan onder:
 
 - b. die in het bezit is van een door Onze Minister afgegeven verklaring van vakbekwaamheid:
 
-- i. waaruit blijkt dat hij een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van geregistreerd-mondhygiënist en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
+   - i. waaruit blijkt dat hij een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van geregistreerd-mondhygiënist en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
 
-- ii. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=6&z=2023-01-01&g=2023-01-01) kan worden afgeleid, of
+   - ii. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=6&z=2023-01-01&g=2023-01-01) kan worden afgeleid, of
 
 - c. die in het bezit is van een door Onze Minister afgegeven erkenning van beroepskwalificaties als mondhygiënist in de zin van de Algemene wet erkenning EU-beroepskwalificaties.
 
@@ -244,11 +158,11 @@ Tot het gebied van deskundigheid van de geregistreerd-mondhygiënist wordt gerek
 
 - e. het bij daarvoor in aanmerking komende patiënten:
 
-- 1°. toepassen van ioniserende straling in het kader van het onderzoek, bedoeld onder a, voor zover dit noodzakelijk is voor de uitoefening van de bevoegdheden van de geregistreerd-mondhygiënist;
+   - 1°. toepassen van ioniserende straling in het kader van het onderzoek, bedoeld onder a, voor zover dit noodzakelijk is voor de uitoefening van de bevoegdheden van de geregistreerd-mondhygiënist;
 
-- 2°. toepassen van lokale anesthesie door het geven van injecties met middelen ten behoeve van geleidings- of infiltratie-anesthesie ter ondersteuning van het onderzoek, bedoeld onder a, of van de behandeling, bedoeld onder c, en onder 3°;
+   - 2°. toepassen van lokale anesthesie door het geven van injecties met middelen ten behoeve van geleidings- of infiltratie-anesthesie ter ondersteuning van het onderzoek, bedoeld onder a, of van de behandeling, bedoeld onder c, en onder 3°;
 
-- 3°. behandelen van primaire caviteiten door middel van preparatie ten behoeve van restauratie met plastische vulmaterialen.
+   - 3°. behandelen van primaire caviteiten door middel van preparatie ten behoeve van restauratie met plastische vulmaterialen.
 
 #### § 4. Voorbehouden handelingen
 
@@ -266,4 +180,46 @@ Tot het gebied van deskundigheid van de geregistreerd-mondhygiënist wordt gerek
 
 #### § 5. Overige bepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 9
+
+1. Alvorens een verklaring af te geven als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), wint Onze Minister advies in van de commissie.
+
+2. De commissie onderzoekt en laat Onze Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01).
+
+3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van geregistreerd-mondhygiënist.
+
+##### Artikel 10
+
+1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), met uitzondering van artikel 2, eerste lid, onder d, [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) en [8 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=8) zijn van toepassing met dien verstande dat:
+
+- a. onder de bescheiden, bedoeld in [artikel 2, eerste lid, onder b, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01);
+
+- b. onder een getuigschrift als bedoeld [artikel 2, vierde lid, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01);
+
+- c. dat voor de toepassing van [artikel 2, negende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), geregistreerde mondhygiënisten gelijk worden gesteld aan fysiotherapeuten en verloskundigen;
+
+- d. onder de verklaring, bedoeld in [artikel 2, negende lid, onder e, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan een verklaring als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01).
+
+2. Indien inschrijving in het register, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), plaatsvindt op grond van een verklaring als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), wordt voor de toepassing van [artikel 7 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) die verklaring gelijkgesteld met een verklaring als bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
+
+##### Artikel 11
+
+1. Onze Minister kan voor de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), reeds besluiten op aanvragen tot inschrijving in het tijdelijk register voor geregistreerd-mondhygiënisten. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van de datum van inwerkingtreding van artikel 2, eerste lid.
+
+2. Indien het besluit tot inschrijving op een aanvraag, bedoeld in het eerste lid, wordt genomen op een tijdstip na inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), vindt de inschrijving in afwijking van het eerste lid plaats op dat tijdstip.
+
+##### Artikel 12
+
+*Wijzigt het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut.*
+
+##### Artikel 13
+
+Onze Minister zendt binnen vijf jaar na inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
+
+##### Artikel 14
+
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=5&artikel=11&z=2023-01-01&g=2023-01-01) in werking treedt.
+
+##### Artikel 15
+
+Dit besluit wordt aangehaald als: Tijdelijk besluit zelfstandige bevoegdheid geregistreerd-mondhygiënist

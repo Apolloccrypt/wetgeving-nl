@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 21 augustus 2019, nr. 2655834, houdende de erkenning van schietverenigingen"
+citeertitel: "Besluit erkenning schietverenigingen"
 identifier: "BWBR0042503"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-08-28"
-last_updated: "2019-08-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042503"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15151693"
-version_id: "25976922"
-internal_id: "C36994981"
-label_id: "15099334"
-dtd_version: "2.0"
-original_entry_into_force: "2019-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042503/2019-08-28/0"
-intitule_bron: "Stcrt.2019-47790"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-08-21"
-intitule_published: "2019-08-27"
-intitule_in_force: "2019-08-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-47790"
-original_signed_date: "2019-08-21"
-original_published_date: "2019-08-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-47790"
-entry_into_force_date: "2019-08-28"
-jci_1_3: "jci1.3:c:BWBR0042503&z=2019-08-28&g=2019-08-28"
-jci_1_0: "1.0:c:BWBR0042503&g=2019-08-28"
-citeertitel_status: "redactioneel"
-short_title: "Besluit erkenning schietverenigingen"
-signed_date: "2019-08-21"
-entry_into_force: "2019-08-28"
+publicatiedatum: 2019-08-28
+laatste_update: 2019-08-28
+status: geldig
+toestand: 2019-08-28
+bron: "https://wetten.overheid.nl/BWBR0042503"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 21 augustus 2019, nr. 2655834, houdende de erkenning van schietverenigingen
-
-Gelet op [artikel 6b van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=6b);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -63,5 +37,3 @@ Onder de voorwaarden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 23 juli 2019.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

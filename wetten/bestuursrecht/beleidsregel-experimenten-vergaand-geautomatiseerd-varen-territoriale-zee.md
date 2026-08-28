@@ -1,60 +1,34 @@
 ---
 title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 5 juni 2019, nr. IENW/BSK-2019/122815, houdende vaststelling van regels voor experimenten in het kader van vergaand geautomatiseerd varen op de territoriale zee (Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee)"
+citeertitel: "Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee"
 identifier: "BWBR0042274"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042274"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "15089833"
-version_id: "25864802"
-internal_id: "C36863751"
-label_id: "15038444"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042274/2019-07-01/0"
-intitule_bron: "Stcrt.2019-31416"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-05"
-intitule_published: "2019-06-06"
-intitule_in_force: "2019-06-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-31416"
-original_signed_date: "2019-06-05"
-original_published_date: "2019-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-31416"
-entry_into_force_date: "2019-07-01"
-jci_1_3: "jci1.3:c:BWBR0042274&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0042274&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee"
-signed_date: "2019-06-05"
-entry_into_force: "2019-07-01"
+publicatiedatum: 2019-07-01
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0042274"
+opgehaald: 2026-08-28
 ---
+
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 5 juni 2019, nr. IENW/BSK-2019/122815, houdende vaststelling van regels voor experimenten in het kader van vergaand geautomatiseerd varen op de territoriale zee (Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee)
-
-Gelet op [artikel 12, eerste en tweede lid, van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=12) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen en reikwijdte
 
 1. In deze beleidsregel wordt verstaan onder:
 
-- –. **experiment:** tijdelijke mogelijkheid om met een schip een praktijktest met vergaand geautomatiseerd varen uit te voeren;
+- – *experiment:* tijdelijke mogelijkheid om met een schip een praktijktest met vergaand geautomatiseerd varen uit te voeren;
 
-- –. **experimenteerpartij:** natuurlijk persoon of rechtspersoon die toestemming heeft gekregen om een experiment uit te voeren;
+- – *experimenteerpartij:* natuurlijk persoon of rechtspersoon die toestemming heeft gekregen om een experiment uit te voeren;
 
-- –. **experimenteerplan:** plan als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042274&artikel=2&z=2019-07-01&g=2019-07-01);
+- – *experimenteerplan:* plan als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042274&artikel=2&z=2019-07-01&g=2019-07-01);
 
-- –. **territoriale zee:** territoriale zee, behoudens de aanloopgebieden als bedoeld in [artikel 2, onderdeel e, van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=2);
+- – *territoriale zee:* territoriale zee, behoudens de aanloopgebieden als bedoeld in [artikel 2, onderdeel e, van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=2);
 
-- –. **toestemming:** besluit als bedoeld in [artikel 12, tweede lid, van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=12) op grond waarvan een experiment mag worden uitgevoerd;
+- – *toestemming:* besluit als bedoeld in [artikel 12, tweede lid, van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=12) op grond waarvan een experiment mag worden uitgevoerd;
 
-- –. **vergaand geautomatiseerd varen:** varen met een schip waarbij bepaalde menselijke taken worden overgenomen door één of meerdere geautomatiseerde toepassingen.
+- – *vergaand geautomatiseerd varen:* varen met een schip waarbij bepaalde menselijke taken worden overgenomen door één of meerdere geautomatiseerde toepassingen.
 
 2. Deze beleidsregel is van toepassing op een experiment waarbij met een schip vergaand geautomatiseerd wordt gevaren op de territoriale zee en door de te testen geautomatiseerde toepassing de veiligheid van de scheepvaart in gevaar kan worden gebracht.
 
@@ -205,5 +179,3 @@ Deze beleidsregel treedt in werking met ingang van 1 juli 2019.
 ##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,58 +1,33 @@
 ---
 title: "Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022"
 identifier: "BWBR0041779"
-country: "nl"
-rank: "zbo"
-publication_date: "2018-12-29"
-last_updated: "2018-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041779"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "14934673"
-version_id: "25571902"
-internal_id: "C36498611"
-label_id: "14885604"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041779/2018-12-29/0"
-intitule_bron: "Stcrt.2018-71953"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-12-28"
-intitule_in_force: "2018-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-71953"
-original_published_date: "2018-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-71953"
-entry_into_force_date: "2018-12-29"
-jci_1_3: "jci1.3:c:BWBR0041779&z=2018-12-29&g=2018-12-29"
-jci_1_0: "1.0:c:BWBR0041779&g=2018-12-29"
-citeertitel_status: "officieel"
-entry_into_force: "2018-12-29"
+publicatiedatum: 2018-12-29
+laatste_update: 2018-12-29
+status: geldig
+toestand: 2018-12-29
+bron: "https://wetten.overheid.nl/BWBR0041779"
+opgehaald: 2026-08-28
 ---
+
 # Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022
-
-gelet op de [artikelen 1.2, eerste lid aanhef en onder a, sub i, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039469&artikel=1.2), [1.4 eerste tot en met vierde lid van het Subsidiereglement Koninklijke Bibliotheek 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0039469&artikel=1.4);
-
-besluit:
-
-vast te stellen de navolgende Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regels wordt verstaan onder:
 
-- a. **bibliotheek:** lokale bibliotheek als bedoeld in [artikel 1, lid 1 onder c, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1);
+- a. *bibliotheek:* lokale bibliotheek als bedoeld in [artikel 1, lid 1 onder c, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1);
 
-- b. **bibliotheeknetwerk:** netwerk van lokale bibliotheken, POI’s en de KB als bedoeld in [artikel 7 van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=7);
+- b. *bibliotheeknetwerk:* netwerk van lokale bibliotheken, POI’s en de KB als bedoeld in [artikel 7 van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=7);
 
-- c. **innovatieagenda:** gezamenlijke innovatieagenda netwerk openbare bibliotheekvoorzieningen;
+- c. *innovatieagenda:* gezamenlijke innovatieagenda netwerk openbare bibliotheekvoorzieningen;
 
-- d. **Innovatieraad:** adviesraad van de Koninklijke Bibliotheek;
+- d. *Innovatieraad:* adviesraad van de Koninklijke Bibliotheek;
 
-- e. **KB:** Koninklijke Bibliotheek.
+- e. *KB:* Koninklijke Bibliotheek.
 
-- f. **POI:** provinciale ondersteuningsinstelling als bedoeld in [artikel 1, lid 1 onder e, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1);
+- f. *POI:* provinciale ondersteuningsinstelling als bedoeld in [artikel 1, lid 1 onder e, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1);
 
 ##### Artikel 2. Doelstellingen
 
@@ -177,5 +152,3 @@ Deze regels treden in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 13. Citeertitel
 
 Deze regels worden aangehaald als: Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022.
-
-Aldus vastgesteld in de vergadering van het Algemeen bestuurscollege d.d. 16 oktober 2018

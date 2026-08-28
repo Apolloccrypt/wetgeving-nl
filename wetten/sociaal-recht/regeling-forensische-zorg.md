@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 5 juli 2019, nummer 2628872, houdende de regels forensische zorg (Regeling forensische zorg)"
+citeertitel: "Regeling forensische zorg"
 identifier: "BWBR0042412"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-11-05"
-last_updated: "2021-11-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042412"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15122473"
-version_id: "25926142"
-internal_id: "C36939261"
-label_id: "15070684"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042412/2021-11-05/0"
-intitule_bron: "Stcrt.2019-38718"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-07-05"
-intitule_published: "2019-07-15"
-intitule_in_force: "2019-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-38718"
-original_signed_date: "2019-07-05"
-original_published_date: "2019-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-38718"
-entry_into_force_date: "2019-07-16"
-jci_1_3: "jci1.3:c:BWBR0042412&z=2021-11-05&g=2021-11-05"
-jci_1_0: "1.0:c:BWBR0042412&g=2021-11-05"
-citeertitel_status: "officieel"
-short_title: "Regeling forensische zorg"
-signed_date: "2019-07-05"
-entry_into_force: "2019-07-16"
+publicatiedatum: 2019-07-16
+laatste_update: 2021-11-05
+status: geldig
+toestand: 2021-11-05
+bron: "https://wetten.overheid.nl/BWBR0042412"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 5 juli 2019, nummer 2628872, houdende de regels forensische zorg (Regeling forensische zorg)
-
-Gelet op de [artikelen 1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), [2.7, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.7) en de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=1.2), [2.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=2.5), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.1), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.2), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.4), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.5), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.7), en [6.7 van het Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.7);
-
-Besluit:
 
 ## I
 
@@ -48,17 +22,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **begeleiding:** activiteiten waarmee een persoon wordt ondersteund bij het uitvoeren van algemene dagelijkse levensverrichtingen en bij het aanbrengen en behouden van structuur in en regie over het persoonlijk leven;
+- a. *begeleiding:* activiteiten waarmee een persoon wordt ondersteund bij het uitvoeren van algemene dagelijkse levensverrichtingen en bij het aanbrengen en behouden van structuur in en regie over het persoonlijk leven;
 
-- b. **beschermd wonen:** wonen in een accommodatie van een instelling met daarbij behorend toezicht en begeleiding, gericht op het bevorderen van zelfredzaamheid en participatie, het psychisch en psychosociaal functioneren, stabilisatie van een psychiatrisch ziektebeeld, het voorkomen van verwaarlozing of maatschappelijke overlast of het afwenden van gevaar voor de cliënt of anderen, bestemd voor personen met psychische problemen of een verstandelijke beperking, die niet in staat zijn zich op eigen kracht te handhaven in de samenleving;
+- b. *beschermd wonen:* wonen in een accommodatie van een instelling met daarbij behorend toezicht en begeleiding, gericht op het bevorderen van zelfredzaamheid en participatie, het psychisch en psychosociaal functioneren, stabilisatie van een psychiatrisch ziektebeeld, het voorkomen van verwaarlozing of maatschappelijke overlast of het afwenden van gevaar voor de cliënt of anderen, bestemd voor personen met psychische problemen of een verstandelijke beperking, die niet in staat zijn zich op eigen kracht te handhaven in de samenleving;
 
-- c. **beveiligingsniveau:** het niveau van de beveiliging die is georganiseerd tijdens het verblijf van de forensisch patiënt, dan wel voor de afdeling waar de forensisch patiënt verblijft;
+- c. *beveiligingsniveau:* het niveau van de beveiliging die is georganiseerd tijdens het verblijf van de forensisch patiënt, dan wel voor de afdeling waar de forensisch patiënt verblijft;
 
-- d. **de Minister:** de Minister voor Rechtsbescherming;
+- d. *de Minister:* de Minister voor Rechtsbescherming;
 
-- e. **de wet:** de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
+- e. *de wet:* de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
 
-- f. **het besluit:** het [Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326).
+- f. *het besluit:* het [Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326).
 
 ##### Artikel 2
 
@@ -228,38 +202,6 @@ De plaatsende instantie of persoon, bedoeld in [artikel 6.1 van het besluit](htt
 
 [Artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&deel=I&hoofdstuk=6&artikel=12&z=2021-11-05&g=2021-11-05) zijn van overeenkomstige toepassing bij de beslissing tot een overplaatsing of overbrenging, bedoeld in [artikel 6.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.3).
 
-## II
-
-##### Artikel 16
-
-wijzigt de Regeling melding bijzondere voorvallen verpleegden.
-
-##### Artikel 17
-
-wijzigt de Regeling melding ongeoorloofde afwezigheid.
-
-##### Artikel 18
-
-wijzigt Regeling vervoer van justitiabelen.
-
-## III
-
-##### Artikel 19
-
-Deze regeling wordt aangehaald als: Regeling forensische zorg.
-
-##### Artikel 20
-
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met het tijdstip dat het [Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326) in werking is getreden.
-
-## Bijlage 1
-
-## Bijlage 2
-
-## Bijlage 3
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 15a
 
 1. Indien op grond van [artikel 76, tweede lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=76), de termijn voor plaatsing van een gedetineerde in een instelling voor verpleging van ter beschikking gestelden wordt verlengd omdat plaatsing niet mogelijk is, wordt de gedetineerde in de gelegenheid gesteld te worden gehoord. De gedetineerde ontvangt onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling omtrent de beslissing.
@@ -294,12 +236,24 @@ Andere bijzondere voorvallen, bedoeld in [artikel 6.10, vierde lid, van de wet](
 
 ## II
 
+##### Artikel 16
+
+*wijzigt de Regeling melding bijzondere voorvallen verpleegden.*
+
+##### Artikel 17
+
+*wijzigt de Regeling melding ongeoorloofde afwezigheid.*
+
+##### Artikel 18
+
+*wijzigt Regeling vervoer van justitiabelen.*
+
 ## III
 
-## Bijlage 1
+##### Artikel 19
 
-## Bijlage 2
+Deze regeling wordt aangehaald als: Regeling forensische zorg.
 
-## Bijlage 3
+##### Artikel 20
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met het tijdstip dat het [Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326) in werking is getreden.

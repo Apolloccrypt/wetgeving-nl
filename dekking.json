@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-08-27",
+ "gegenereerd": "2026-08-28",
  "geverifieerd": true,
- "bwb_regelingen": 46873,
+ "bwb_regelingen": 46874,
  "bwb_geldend": 22215,
- "site_totaal": 22402,
+ "site_totaal": 22403,
  "site_geldend": 22212,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 3,
- "aantal_ten_onrechte_geldig": 190,
+ "aantal_ten_onrechte_geldig": 191,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -221,11 +221,11 @@
   },
   {
    "id": "BWBR0041827",
-   "titel": "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat 2019"
+   "titel": "Besluit van de directeur-generaal Klimaat en Energie van het Ministerie van Economische Zaken van 21 december 2018, nr. 18320844, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat 2019)"
   },
   {
    "id": "BWBR0041829",
-   "titel": "Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2019"
+   "titel": "Besluit van de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat van 9 januari 2019, nr. 19008305, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2019)"
   },
   {
    "id": "BWBR0041843",
@@ -233,7 +233,7 @@
   },
   {
    "id": "BWBR0041897",
-   "titel": "Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019"
+   "titel": "Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 van 4 februari 2019, nr. WJZ/18313389, voor de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019)"
   },
   {
    "id": "BWBR0042079",
@@ -241,15 +241,15 @@
   },
   {
    "id": "BWBR0042098",
-   "titel": "Beleidsregel toepassing Europese toezichthoudende autoriteiten Wft 2019"
+   "titel": "Beleidsregel van De Nederlandsche Bank N.V. van 21 maart 2019 tot toepassing van richtsnoeren van de Europese toezichthoudende autoriteiten in verband met het prudentieel toezicht en de afwikkelingstaak bij of krachtens de Wet op het financieel toezicht (Beleidsregel toepassing richtsnoeren Europese toezichthoudende autoriteiten Wft 2019)"
   },
   {
    "id": "BWBR0042105",
-   "titel": "Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019"
+   "titel": "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 maart 2019, nr. MA/2019-059/UP, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019)"
   },
   {
    "id": "BWBR0042107",
-   "titel": "Organisatiebesluit dienst van de huurcommissie 2019"
+   "titel": "Besluit van het bestuur van de huurcommissie, van 8 maart 2019, nr. MA/2019-062/UP, houdende de organisatie-inrichting van administratieve ondersteuning van de Huurcommissie aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2019)"
   },
   {
    "id": "BWBR0042208",
@@ -261,7 +261,7 @@
   },
   {
    "id": "BWBR0042419",
-   "titel": "Regeling vakwedstrijden vmbo en mbo"
+   "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 8 juli 2019, nr. MBO/5897553, houdende regels voor het verstrekken van subsidie ten behoeve van het organiseren van nationale vakwedstrijden in het voortgezet onderwijs en beroepsonderwijs alsmede het voorbereiden op en deelname aan internationale vakwedstrijden in het beroepsonderwijs (Regeling vakwedstrijden vmbo en mbo)"
   },
   {
    "id": "BWBR0042524",
@@ -610,6 +610,10 @@
   {
    "id": "BWBR0050469",
    "titel": "Besluit van de Minister van Financiën van 16 november 2024 (2024-515548) houdende verlening van mandaat op het terrein van het tijdelijke programmadirectoraat-generaal Herstel betreffende de uitvoering van de Wet open overheid (Besluit mandaat tijdelijke programmadirectoraat-generaal Herstel uitvoering Wet open overheid)"
+  },
+  {
+   "id": "BWBR0050643",
+   "titel": "Werkwijze bij concentratiezaken 2024"
   },
   {
    "id": "BWBR0050646",

@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juni 2019, nr. 2019-0000024213, houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens en het verlenen van mandaat voor de handhaving van die wet op het terrein van Binnenlandse Zaken en Koninkrijksrelaties (Besluit BZK-toezicht en handhaving WNT)"
+citeertitel: "Besluit BZK-toezicht en handhaving WNT"
 identifier: "BWBR0042396"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-12"
-last_updated: "2019-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042396"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "15119243"
-version_id: "25919232"
-internal_id: "C36931611"
-label_id: "15067354"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042396/2019-07-12/0"
-intitule_bron: "Stcrt.2019-37649"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-06"
-intitule_published: "2019-07-11"
-intitule_in_force: "2019-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-37649"
-original_signed_date: "2019-06-06"
-original_published_date: "2019-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-37649"
-entry_into_force_date: "2019-07-12"
-jci_1_3: "jci1.3:c:BWBR0042396&z=2019-07-12&g=2019-07-12"
-jci_1_0: "1.0:c:BWBR0042396&g=2019-07-12"
-citeertitel_status: "officieel"
-short_title: "Besluit BZK-toezicht en handhaving WNT"
-signed_date: "2019-06-06"
-entry_into_force: "2019-07-12"
+publicatiedatum: 2019-07-12
+laatste_update: 2019-07-12
+status: geldig
+toestand: 2019-07-12
+bron: "https://wetten.overheid.nl/BWBR0042396"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juni 2019, nr. 2019-0000024213, houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens en het verlenen van mandaat voor de handhaving van die wet op het terrein van Binnenlandse Zaken en Koninkrijksrelaties (Besluit BZK-toezicht en handhaving WNT)
-
-Gelet op de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.1) en [5.3 tot en met 5.6 van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.3), alsmede [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5) en [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **WNT:** de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249);
+- b. *WNT:* de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249);
 
-- c. **Eenheid toezicht WNT:** de met toezicht en handhaving van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) belaste medewerkers bij de directie Ambtenaar & Organisatie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, die deel uitmaken van de afdeling Topinkomens en Economische Advisering (hierna: TEA).
+- c. *Eenheid toezicht WNT:* de met toezicht en handhaving van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) belaste medewerkers bij de directie Ambtenaar & Organisatie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, die deel uitmaken van de afdeling Topinkomens en Economische Advisering (hierna: TEA).
 
-##### Artikel 2. Gebundeld toezicht op de naleving en handhaving van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
+##### Artikel 2. Gebundeld toezicht op de naleving en handhaving van de WNT
 
 1. De ambtenaren werkzaam bij de Eenheid toezicht WNT worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) ten aanzien van rechtspersonen, instellingen en topfunctionarissen waarvoor de minister moet worden aangemerkt als de minister wie het aangaat in de zin van de WNT.
 
@@ -73,5 +47,3 @@ Tegelijk met inwerkingtreding van het dit besluit, wordt het [Besluit BZK-toezic
 ##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit BZK-toezicht en handhaving WNT.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,35 +1,16 @@
 ---
 title: "Bestuursreglement ZonMw 2019"
 identifier: "BWBR0042194"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-05-07"
-last_updated: "2019-05-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042194"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15069083"
-version_id: "25827472"
-internal_id: "C36818041"
-label_id: "15018224"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042194/2019-05-07/0"
-intitule_bron: "Stcrt.2019-24893"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-05-07"
-intitule_in_force: "2019-05-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-24893"
-original_published_date: "2019-05-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-24893"
-entry_into_force_date: "2019-05-07"
-jci_1_3: "jci1.3:c:BWBR0042194&z=2019-05-07&g=2019-05-07"
-jci_1_0: "1.0:c:BWBR0042194&g=2019-05-07"
-citeertitel_status: "officieel"
-entry_into_force: "2019-05-07"
+publicatiedatum: 2019-05-07
+laatste_update: 2019-05-07
+status: geldig
+toestand: 2019-05-07
+bron: "https://wetten.overheid.nl/BWBR0042194"
+opgehaald: 2026-08-28
 ---
+
 # Bestuursreglement ZonMw 2019
 
 Tekst van het bestuursreglement van de organisatie ZorgOnderzoek Nederland, tevens domeinreglement van het NWO domein Medische Wetenschappen, tevens bestuursreglement van het samenwerkingsverband ZonMw, zoals goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport en door de raad van bestuur NWO en vastgesteld door het bestuur ZonMw
@@ -40,31 +21,33 @@ Tekst van het bestuursreglement van de organisatie ZorgOnderzoek Nederland, teve
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **bestuur ZonMw:** het bestuur als bedoeld in artikel 2.1 van de Samenwerkingsovereenkomst ZON * NWO;
+- a. *bestuur ZonMw:* het bestuur als bedoeld in artikel 2.1 van de Samenwerkingsovereenkomst ZON * NWO;
 
-- b. **bestuursreglement NWO:** bestuursreglement als bedoeld in [artikel 8 van de NWO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=8);
+- b. *bestuursreglement NWO:* bestuursreglement als bedoeld in [artikel 8 van de NWO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=8);
 
-- c. **directeur:** directeur van ZonMw als bedoeld in [artikel 6 Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=6) en artikel 2.3 van de Samenwerkingsovereenkomst ZON * NWO tevens secretaris van het bestuur ZonMw, secretaris van ZON en secretaris van het bestuur van het MW Domein;
+- c. *directeur:* directeur van ZonMw als bedoeld in [artikel 6 Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=6) en artikel 2.3 van de Samenwerkingsovereenkomst ZON * NWO tevens secretaris van het bestuur ZonMw, secretaris van ZON en secretaris van het bestuur van het MW Domein;
 
-- d. **Minister van VWS:** Minister van Volksgezondheid, Welzijn en Sport;
+- d. *Minister van VWS:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- e. **MW Domein:** domein Medische Wetenschappen van NWO;
+- e. *MW Domein:* domein Medische Wetenschappen van NWO;
 
-- f. **NWO:** Nederlandse organisatie voor wetenschappelijk onderzoek als bedoeld in [artikel 2 van de NWO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=2);
+- f. *NWO:* Nederlandse organisatie voor wetenschappelijk onderzoek als bedoeld in [artikel 2 van de NWO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=2);
 
-- g. **NWO-wet:** [Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191);
+- g. *NWO-wet:*
+ [Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191);
 
-- h. **(deel)programma:** samenhangend geheel van projecten, experimenten, onderzoek en ontwikkeling als bedoeld in [artikel 1 Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=1);
+- h. *(deel)programma:* samenhangend geheel van projecten, experimenten, onderzoek en ontwikkeling als bedoeld in [artikel 1 Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=1);
 
-- i. **programmacommissie:** commissie ingesteld ten behoeve van de ontwikkeling, uitvoering en implementatie van een programma;
+- i. *programmacommissie:* commissie ingesteld ten behoeve van de ontwikkeling, uitvoering en implementatie van een programma;
 
-- j. **werkgroep:** werkgroep ingesteld ter ondersteuning of ter overneming van een gedeelte van de taak van een programmacommissie;
+- j. *werkgroep:* werkgroep ingesteld ter ondersteuning of ter overneming van een gedeelte van de taak van een programmacommissie;
 
-- k. **Wet ZON:** [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
+- k. *Wet ZON:*
+ [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
 
-- l. **ZON:** organisatie ZorgOnderzoek Nederland als bedoeld in [artikel 2 Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=2);
+- l. *ZON:* organisatie ZorgOnderzoek Nederland als bedoeld in [artikel 2 Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=2);
 
-- m. **ZonMw:** samenwerkingsverband tussen ZON en het MW Domein.
+- m. *ZonMw:* samenwerkingsverband tussen ZON en het MW Domein.
 
 ##### Artikel 1.2. Juridische grondslag
 

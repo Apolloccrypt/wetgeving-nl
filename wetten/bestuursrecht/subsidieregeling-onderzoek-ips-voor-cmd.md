@@ -1,104 +1,78 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 april 2019, nr. 2018-0000176423, houdende regels voor het verstrekken van subsidie ten behoeve van subsidieonderzoek IPS voor common mental disorders (Subsidieregeling onderzoek IPS voor CMD)"
+citeertitel: "Subsidieregeling onderzoek IPS voor CMD"
 identifier: "BWBR0042166"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-05-01"
-last_updated: "2019-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042166"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15062153"
-version_id: "25813762"
-internal_id: "C36802871"
-label_id: "15011264"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042166/2019-05-01/0"
-intitule_bron: "Stcrt.2019-24003"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-04-24"
-intitule_published: "2019-04-30"
-intitule_in_force: "2019-04-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-24003"
-original_signed_date: "2019-04-24"
-original_published_date: "2019-04-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-24003"
-entry_into_force_date: "2019-05-01"
-jci_1_3: "jci1.3:c:BWBR0042166&z=2019-05-01&g=2019-05-01"
-jci_1_0: "1.0:c:BWBR0042166&g=2019-05-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling onderzoek IPS voor CMD"
-signed_date: "2019-04-24"
-entry_into_force: "2019-05-01"
+publicatiedatum: 2019-05-01
+laatste_update: 2019-05-01
+status: geldig
+toestand: 2019-05-01
+bron: "https://wetten.overheid.nl/BWBR0042166"
+opgehaald: 2026-08-28
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 april 2019, nr. 2018-0000176423, houdende regels voor het verstrekken van subsidie ten behoeve van subsidieonderzoek IPS voor common mental disorders (Subsidieregeling onderzoek IPS voor CMD)
-
-Gelet op de [artikelen 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32b) en [32d, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32d) en de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraagtijdvak:** door de Minister vastgesteld tijdvak waarin aanvragen voor subsidie op grond van deze regeling kunnen worden ontvangen;
+- *aanvraagtijdvak:* door de Minister vastgesteld tijdvak waarin aanvragen voor subsidie op grond van deze regeling kunnen worden ontvangen;
 
-- **College:** het college van burgemeester en wethouders;
+- *College:* het college van burgemeester en wethouders;
 
-- **Common mental disorders:** een gediagnosticeerde hoogprevalente psychische stoornis die in beginsel gedurende beperkte tijd, evidence-based in behandeling is bij de specialistische GGZ, voornamelijk in diagnosespecifieke ambulante of poliklinische zorgprogramma’s;
+- *Common mental disorders:* een gediagnosticeerde hoogprevalente psychische stoornis die in beginsel gedurende beperkte tijd, evidence-based in behandeling is bij de specialistische GGZ, voornamelijk in diagnosespecifieke ambulante of poliklinische zorgprogramma’s;
 
-- **Dienstbetrekking:** de arbeidsverhouding van de werknemer in de zin van de werknemersverzekeringen;
+- *Dienstbetrekking:* de arbeidsverhouding van de werknemer in de zin van de werknemersverzekeringen;
 
-- **Doelgroep IPS-CMD:** dit betreft klanten:
+- *Doelgroep IPS-CMD:* dit betreft klanten:
 
-- a. met Common mental disorders;
+   - a. met Common mental disorders;
 
-- b. die in behandeling zijn bij een GGZ-instelling in de Specialistische GGZ (SGGZ), waarbij de trajectbegeleider IPS de contactpersoon is om de integratie met zorg te realiseren;
+   - b. die in behandeling zijn bij een GGZ-instelling in de Specialistische GGZ (SGGZ), waarbij de trajectbegeleider IPS de contactpersoon is om de integratie met zorg te realiseren;
 
-- c. die kenbaar hebben gemaakt een wens te hebben om naar betaald werk te worden begeleid;
+   - c. die kenbaar hebben gemaakt een wens te hebben om naar betaald werk te worden begeleid;
 
-- d. die op het moment dat deze wens geuit wordt niet in dienstbetrekking werkzaam zijn dan wel waarvoor geldt dat de dienstbetrekking een geringe omvang heeft én de klant de wens heeft om te werken in een andere sector/functie dan waarin hij in dienstbetrekking werkzaam is;
+   - d. die op het moment dat deze wens geuit wordt niet in dienstbetrekking werkzaam zijn dan wel waarvoor geldt dat de dienstbetrekking een geringe omvang heeft én de klant de wens heeft om te werken in een andere sector/functie dan waarin hij in dienstbetrekking werkzaam is;
 
-- **Duur IPS-traject:** de tijdsperiode van 24 maanden vanaf datum gestart IPS-traject, met de mogelijkheid tot verlenging van deze periode met maximaal 12 maanden;
+- *Duur IPS-traject:* de tijdsperiode van 24 maanden vanaf datum gestart IPS-traject, met de mogelijkheid tot verlenging van deze periode met maximaal 12 maanden;
 
-- **Gestart IPS-traject:** IPS-traject waarvoor UWV schriftelijk akkoord heeft gegeven dat het in uitvoering genomen kan worden;
+- *Gestart IPS-traject:* IPS-traject waarvoor UWV schriftelijk akkoord heeft gegeven dat het in uitvoering genomen kan worden;
 
-- **GGZ-instelling:** een rechtspersoon die voldoet aan de navolgende voorwaarden:Geestelijke gezondheidszorg biedt, onder onafhankelijk toezicht staat en een Toelating Zorginstelling heeft voor geestelijke gezondheidszorg; of, Geestelijke gezondheidszorg biedt, onder onafhankelijk toezicht staat en die zorg verleend wordt op basis van een of meerdere van volgende wetten:
+- *GGZ-instelling:* een rechtspersoon die voldoet aan de navolgende voorwaarden:Geestelijke gezondheidszorg biedt, onder onafhankelijk toezicht staat en een Toelating Zorginstelling heeft voor geestelijke gezondheidszorg; of, Geestelijke gezondheidszorg biedt, onder onafhankelijk toezicht staat en die zorg verleend wordt op basis van een of meerdere van volgende wetten:
 
-- ○. [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
+   - ○ [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
 
-- ○. [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+   - ○ [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- ○. [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
+   - ○ [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
 
-- ○. [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+   - ○ [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- ○. [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
+   - ○ [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
 
-- **IPS:** Individuele Plaatsing en Steun;
+- *IPS:* Individuele Plaatsing en Steun;
 
-- **IPS-traject:** een traject dat het totaal aan ondersteuningsactiviteiten bevat gericht op het vinden en behoud van werk die een persoon die behoort tot de doelgroep IPS-CMD doorloopt;
+- *IPS-traject:* een traject dat het totaal aan ondersteuningsactiviteiten bevat gericht op het vinden en behoud van werk die een persoon die behoort tot de doelgroep IPS-CMD doorloopt;
 
-- **IPS-trajectbegeleider:** een persoon die in het bezit is van een geldig Certificaat IPS-opleiding, verstrekt door Kenniscentrum Phrenos;
+- *IPS-trajectbegeleider:* een persoon die in het bezit is van een geldig Certificaat IPS-opleiding, verstrekt door Kenniscentrum Phrenos;
 
-- **Klant gemeente:** een persoon die een uitkering heeft op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) dan wel in het kader van die wet als niet-uitkeringsgerechtigde werkzoekende geregistreerd staat en ten behoeve van wie het college en de GGZ-instelling een toestemmingsverklaring subsidie hebben ondertekend;
+- *Klant gemeente:* een persoon die een uitkering heeft op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) dan wel in het kader van die wet als niet-uitkeringsgerechtigde werkzoekende geregistreerd staat en ten behoeve van wie het college en de GGZ-instelling een toestemmingsverklaring subsidie hebben ondertekend;
 
-- **Klant UWV:** een persoon die van UWV een uitkering ontvangt op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), of de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), waarvoor geen werkgever als eigenrisicodrager het risico van betaling draagt, en de persoon die recht heeft op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- *Klant UWV:* een persoon die van UWV een uitkering ontvangt op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), of de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), waarvoor geen werkgever als eigenrisicodrager het risico van betaling draagt, en de persoon die recht heeft op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- *Minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- **Re-integratieondersteuning:** Elke vorm van ondersteuning bij de werkzaamheden in het kader van de taak, bedoeld in [artikel 30a van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), die door UWV bij re-integratiebedrijven is ingekocht dan wel iedere vorm van ondersteuning bij de arbeidsinschakeling die door de colleges op grond van [artikel 7, eerste lid, onderdeel a, van de Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) wordt ingezet;
+- *Re-integratieondersteuning:* Elke vorm van ondersteuning bij de werkzaamheden in het kader van de taak, bedoeld in [artikel 30a van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), die door UWV bij re-integratiebedrijven is ingekocht dan wel iedere vorm van ondersteuning bij de arbeidsinschakeling die door de colleges op grond van [artikel 7, eerste lid, onderdeel a, van de Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) wordt ingezet;
 
-- **Relevante wetgeving:**
+- *Relevante wetgeving:*
 
-- ○. Pw: [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524); WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656); Wajong: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657); WGA: Werkhervattingsuitkering gedeeltelijk arbeidsgeschikten; WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057); Wet SUWI: [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060); ZW: [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+   - ○ Pw: [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524); WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656); Wajong: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657); WGA: Werkhervattingsuitkering gedeeltelijk arbeidsgeschikten; WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057); Wet SUWI: [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060); ZW: [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- **Toestemmingsverklaring subsidie:** een schriftelijke verklaring als bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042166&artikel=5&z=2019-05-01&g=2019-05-01), waarin het college en de GGZ-instelling verklaringen afleggen en toezeggingen doen die verband houden met de subsidieverstrekking op grond van deze regeling;
+- *Toestemmingsverklaring subsidie:* een schriftelijke verklaring als bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042166&artikel=5&z=2019-05-01&g=2019-05-01), waarin het college en de GGZ-instelling verklaringen afleggen en toezeggingen doen die verband houden met de subsidieverstrekking op grond van deze regeling;
 
-- **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
+- *UWV:* Uitvoeringsinstituut werknemersverzekeringen;
 
 ##### Artikel 2. Subsidieverstrekking
 
@@ -283,5 +257,3 @@ De GGZ-instelling doet onverwijld een schriftelijke melding aan UWV zodra aannem
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling onderzoek IPS voor CMD.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet verplichte geestelijke gezondheidszorg (Besluit verplichte geestelijke gezondheidszorg)"
+citeertitel: "Besluit verplichte geestelijke gezondheidszorg"
 identifier: "BWBR0042262"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-09-18"
-last_updated: "2021-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042262"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "15087023"
-version_id: "25860722"
-internal_id: "C37356721"
-label_id: "15035814"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042262/2021-09-18/0"
-intitule_bron: "Stb.2019-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-16"
-intitule_published: "2019-06-05"
-intitule_in_force: "2019-11-29"
-intitule_status: "goed"
-original_publication: "Stb.2019-198"
-original_signed_date: "2019-05-16"
-original_published_date: "2019-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-198"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042262&z=2021-09-18&g=2021-09-18"
-jci_1_0: "1.0:c:BWBR0042262&g=2021-09-18"
-citeertitel_status: "officieel"
-short_title: "Besluit verplichte geestelijke gezondheidszorg"
-signed_date: "2019-05-16"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2021-09-18
+status: geldig
+toestand: 2021-09-18
+bron: "https://wetten.overheid.nl/BWBR0042262"
+opgehaald: 2026-08-28
 ---
+
 # Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet verplichte geestelijke gezondheidszorg (Besluit verplichte geestelijke gezondheidszorg)
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 januari 2019, kenmerk 1216589-166828-WJZ, gedaan mede namens Onze Minister voor Rechtsbescherming;
-
-Gelet op de [artikelen 2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=2:4), [8:22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:22), [9:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=9:8), [10:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=10:2), en [11:1, vijfde lid, van de Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=11:1);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 februari 2019, no. W13.19.0013/III);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 mei 2019, kenmerk 1216583-166828-WJZ, uitgebracht mede namens Onze Minister voor Rechtsbescherming;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepaling
 
@@ -52,15 +20,16 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **ambulante verplichte zorg:** verplichte zorg op grond van [artikel 3:1, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=3:1) anders dan die in een accommodatie aan een betrokkene wordt verleend;
+- – *ambulante verplichte zorg:* verplichte zorg op grond van [artikel 3:1, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=3:1) anders dan die in een accommodatie aan een betrokkene wordt verleend;
 
-- –. **verwerker:** verwerker als bedoeld in artikel 4 (8) van de Algemene verordening gegevensbescherming;
+- – *verwerker:* verwerker als bedoeld in artikel 4 (8) van de Algemene verordening gegevensbescherming;
 
-- –. **persoonsgegevens:** persoonsgegevens als bedoeld in artikel 4 (1) van de Algemene verordening gegevensbescherming;
+- – *persoonsgegevens:* persoonsgegevens als bedoeld in artikel 4 (1) van de Algemene verordening gegevensbescherming;
 
-- –. **verwerkingsverantwoordelijke:** verwerkingsverantwoordelijke als bedoeld in artikel 4 (7) van de Algemene verordening gegevensbescherming;
+- – *verwerkingsverantwoordelijke:* verwerkingsverantwoordelijke als bedoeld in artikel 4 (7) van de Algemene verordening gegevensbescherming;
 
-- –. **wet:** [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635).
+- – *wet:*
+ [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635).
 
 ### Hoofdstuk 2. Ambulante verplichte zorg
 
@@ -98,17 +67,17 @@ Ambulante verplichte zorg omvat het:
 
 - e. de zorgaanbieder in het beleidsplan, bedoeld in [artikel 2:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=2:2), heeft vastgelegd:
 
-- 1°. welke factoren in ieder geval worden meegewogen bij de beoordeling of ambulante verplichte zorg de voorkeur heeft boven opname in een accommodatie, waarbij onder meer rekening wordt gehouden met de wens van betrokkene en de belangen van voor de continuïteit van zorg relevante familie en naasten;
+   - 1° welke factoren in ieder geval worden meegewogen bij de beoordeling of ambulante verplichte zorg de voorkeur heeft boven opname in een accommodatie, waarbij onder meer rekening wordt gehouden met de wens van betrokkene en de belangen van voor de continuïteit van zorg relevante familie en naasten;
 
-- 2°. hoe door middel van toezicht de veiligheid in geval van ambulante verplichte zorg op voldoende wijze kan worden geborgd;
+   - 2° hoe door middel van toezicht de veiligheid in geval van ambulante verplichte zorg op voldoende wijze kan worden geborgd;
 
-- 3°. welke factoren in ieder geval worden meegewogen bij de beoordeling van het aantal zorgverleners dat met het oog op een verantwoorde zorgverlening aanwezig moet zijn op het moment van de daadwerkelijke uitvoering van de ambulante verplichte zorg;
+   - 3° welke factoren in ieder geval worden meegewogen bij de beoordeling van het aantal zorgverleners dat met het oog op een verantwoorde zorgverlening aanwezig moet zijn op het moment van de daadwerkelijke uitvoering van de ambulante verplichte zorg;
 
-- 4°. hoe in geval van ambulante verplichte zorg op verantwoorde wijze wordt omgegaan met fysiek verzet van betrokkene;
+   - 4° hoe in geval van ambulante verplichte zorg op verantwoorde wijze wordt omgegaan met fysiek verzet van betrokkene;
 
-- 5°. op welke wijze de bereikbaarheid en ondersteuning, bedoeld in onderdeel d, worden geborgd;
+   - 5° op welke wijze de bereikbaarheid en ondersteuning, bedoeld in onderdeel d, worden geborgd;
 
-- 6°. op welke wijze in geval van ambulante verplichte zorg wordt toegezien op het voorkomen van grensoverschrijdend gedrag door een zorgverlener.
+   - 6° op welke wijze in geval van ambulante verplichte zorg wordt toegezien op het voorkomen van grensoverschrijdend gedrag door een zorgverlener.
 
 2. De zorgverantwoordelijke betrekt bij het in het eerste lid, onderdelen a en b, bedoelde overleg tevens deskundigen van andere disciplines, voor zover de aard van de ambulante verplichte zorg daartoe noodzaakt.
 
@@ -151,6 +120,10 @@ In geval van ambulante verplichte zorg op grond van een crisismaatregel of een m
 6. Aan het bepaalde in het eerste en tweede lid, en het bepaalde krachtens het vierde lid en vijfde wordt tevens uitvoering gegeven door een verwerker die ten behoeve van de verwerkingsverantwoordelijke de betrokken gegevens bewerkt.
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze van verstrekken van de in [artikel 8:24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:24) bedoelde gegevens. Bij ministeriële regeling kan hiertoe tevens een format worden vastgesteld.
+
+##### Artikel 3.2
+
+De gegevens, genoemd in [artikel 2, onderdelen a tot en met h, van het Besluit vorderen gegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017081&artikel=2), worden aangewezen als gegevens in de zin van [artikel 13:3a, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=13:3a).
 
 ### Hoofdstuk 4. Middelen en maatregelen waar het zorgplan niet in voorziet, ten aanzien van personen met een strafrechtelijke titel
 
@@ -198,43 +171,43 @@ De klachtencommissie zendt de klager een bewijs van ontvangst van de klacht, waa
 
 ##### Artikel 7.1
 
-Wijzigt het Besluit langdurige zorg.
+*Wijzigt het Besluit langdurige zorg.*
 
 ##### Artikel 7.2
 
-Wijzigt het Besluit algemene rechtspositie politie.
+*Wijzigt het Besluit algemene rechtspositie politie.*
 
 ##### Artikel 7.3
 
-Wijzigt het Besluit eigen bijdrage rechtsbijstand.
+*Wijzigt het Besluit eigen bijdrage rechtsbijstand.*
 
 ##### Artikel 7.4
 
-Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
+*Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.*
 
 ##### Artikel 7.5
 
-Wijzigt het Besluit rechtspositie vrijwillige politie.
+*Wijzigt het Besluit rechtspositie vrijwillige politie.*
 
 ##### Artikel 7.6
 
-Wijzigt het Besluit regels landelijk parket en functioneel parket alsmede ten aanzien van mandateren bevoegdheden officier van justitie.
+*Wijzigt het Besluit regels landelijk parket en functioneel parket alsmede ten aanzien van mandateren bevoegdheden officier van justitie.*
 
 ##### Artikel 7.7
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
+*Wijzigt het Besluit vergoedingen rechtsbijstand 2000.*
 
 ##### Artikel 7.8
 
-Wijzigt het Algemeen militair ambtenarenreglement.
+*Wijzigt het Algemeen militair ambtenarenreglement.*
 
 ##### Artikel 7.9
 
-Wijzigt het Burgerlijk ambtenarenreglement defensie.
+*Wijzigt het Burgerlijk ambtenarenreglement defensie.*
 
 ##### Artikel 7.10
 
-Wijzigt het Algemeen rijksambtenarenreglement.
+*Wijzigt het Algemeen rijksambtenarenreglement.*
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -245,21 +218,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 8.2
 
 Dit besluit wordt aangehaald als: Besluit verplichte geestelijke gezondheidszorg.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.2
-
-De gegevens, genoemd in [artikel 2, onderdelen a tot en met h, van het Besluit vorderen gegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017081&artikel=2), worden aangewezen als gegevens in de zin van [artikel 13:3a, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=13:3a).
-
-### Hoofdstuk 4. Middelen en maatregelen waar het zorgplan niet in voorziet, ten aanzien van personen met een strafrechtelijke titel
-
-### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
-
-### Hoofdstuk 6. Patiëntenvertrouwenspersoon
-
-### Hoofdstuk 7. Aanpassing van andere besluiten
-
-### Hoofdstuk 8. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

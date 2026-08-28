@@ -1,62 +1,28 @@
 ---
 title: "Beleidsregels van het Commissariaat voor de Media van 25 juni 2019 over bestuurlijke boetes in het kader van de Mediawet 2008 (Beleidsregels bestuurlijke boetes 2019)"
+citeertitel: "Beleidsregels bestuurlijke boetes 2019"
 identifier: "BWBR0042389"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-07-11"
-last_updated: "2019-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042389"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15118103"
-version_id: "25916252"
-internal_id: "C36928351"
-label_id: "15066294"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042389/2019-07-11/0"
-intitule_bron: "Stcrt.2019-37780"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-06-25"
-intitule_published: "2019-07-10"
-intitule_in_force: "2019-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-37780"
-original_signed_date: "2019-06-25"
-original_published_date: "2019-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-37780"
-entry_into_force_date: "2019-07-11"
-jci_1_3: "jci1.3:c:BWBR0042389&z=2019-07-11&g=2019-07-11"
-jci_1_0: "1.0:c:BWBR0042389&g=2019-07-11"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels bestuurlijke boetes 2019"
-signed_date: "2019-06-25"
-entry_into_force: "2019-07-11"
+publicatiedatum: 2019-07-11
+laatste_update: 2019-07-11
+status: geldig
+toestand: 2019-07-11
+bron: "https://wetten.overheid.nl/BWBR0042389"
+opgehaald: 2026-08-28
 ---
+
 # Beleidsregels van het Commissariaat voor de Media van 25 juni 2019 over bestuurlijke boetes in het kader van de Mediawet 2008 (Beleidsregels bestuurlijke boetes 2019)
-
-Gelet op de [artikelen 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) en [7.12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Overwegende:
-
-dat het Commissariaat voor de Media ingevolge [artikel 7.11 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), met uitzondering van een aantal specifieke bepalingen;
-
-dat het Commissariaat voor de Media ingevolge [artikel 7.12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) bij overtreding van het bepaalde bij of krachtens de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), met uitzondering van een aantal specifieke bepalingen, en [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) aan de overtreder een bestuurlijke boete kan opleggen van ten hoogste € 225.000 per overtreding;
-
-dat het Commissariaat voor de Media inzicht wenst te geven in de wijze waarop het invulling geeft aan zijn bevoegdheid om een bestuurlijke boete op te leggen.
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze beleidsregels wordt verstaan onder:
 
-- –. **cmoa:** commerciële mediadienst op aanvraag;
+- – *cmoa:* commerciële mediadienst op aanvraag;
 
-- –. **de Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- – *de Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- –. **het Commissariaat:** het Commissariaat voor de Media.
+- – *het Commissariaat:* het Commissariaat voor de Media.
 
 ##### Artikel 2. Reikwijdte
 
@@ -92,7 +58,7 @@ De ernst van de overtreding in het concrete geval beoordeelt het Commissariaat a
 
 4. Als de overtreder een landelijke publieke media-instelling is of een commerciële media-instelling dan wel een cmoa met een bereik van meer dan 500.000 huishoudens, dan gelden de volgende bedragen als basisboete:
 
-|   | Categorie A | Categorie B | Categorie C |
+|  | Categorie A | Categorie B | Categorie C |
 | --- | --- | --- | --- |
 | Zwaarte III | € 180.000 | € 107.500 | € 27.500 |
 | Zwaarte II | € 85.000 | € 50.000 | € 13.000 |
@@ -102,7 +68,7 @@ Tabel 1
 
 5. Als de overtreder een regionale publieke media-instelling is of een commerciële media-instelling dan wel een cmoa met een bereik van 25.000 of meer, maar maximaal 500.000 huishoudens, dan gelden de volgende bedragen als basisboete:
 
-|   | Categorie A | Categorie B | Categorie C |
+|  | Categorie A | Categorie B | Categorie C |
 | --- | --- | --- | --- |
 | Zwaarte III | € 36.000 | € 21.500 | € 5.500 |
 | Zwaarte II | € 17.000 | € 10.000 | € 2.600 |
@@ -112,7 +78,7 @@ Tabel 2
 
 6. Als de overtreder een lokale publieke media-instelling is of een commerciële media-instelling dan wel een cmoa met een bereik van maximaal 25.000 huishoudens, dan gelden de volgende bedragen als basisboete:
 
-|   | Categorie A | Categorie B | Categorie C |
+|  | Categorie A | Categorie B | Categorie C |
 | --- | --- | --- | --- |
 | Zwaarte III | € 9.000 | € 5.400 | € 1.400 |
 | Zwaarte II | € 4.300 | € 2.500 | € 650 |
@@ -128,19 +94,19 @@ Tabel 3
 
 2. Boeteverhogende omstandigheden zijn onder meer:
 
-- –. de omstandigheid dat het Commissariaat reeds eerder eenzelfde of een vergelijkbare door de overtreder begane overtreding heeft vastgesteld;
+- – de omstandigheid dat het Commissariaat reeds eerder eenzelfde of een vergelijkbare door de overtreder begane overtreding heeft vastgesteld;
 
-- –. de omstandigheid dat de overtreder in het verleden genoegzaam op de hoogte is gebracht van de toepassing van de regelgeving;
+- – de omstandigheid dat de overtreder in het verleden genoegzaam op de hoogte is gebracht van de toepassing van de regelgeving;
 
-- –. de omstandigheid dat sprake is van grove onachtzaamheid of (voorwaardelijk) opzet;
+- – de omstandigheid dat sprake is van grove onachtzaamheid of (voorwaardelijk) opzet;
 
-- –. de omstandigheid dat met de overtreding een wederrechtelijk geldelijk of op geld waardeerbaar voordeel is verkregen.
+- – de omstandigheid dat met de overtreding een wederrechtelijk geldelijk of op geld waardeerbaar voordeel is verkregen.
 
 3. Boeteverlagende omstandigheden zijn onder meer:
 
-- –. de omstandigheid dat de overtreding heeft plaatsgevonden hoewel de overtreder voorzorgsmaatregelen had getroffen;
+- – de omstandigheid dat de overtreding heeft plaatsgevonden hoewel de overtreder voorzorgsmaatregelen had getroffen;
 
-- –. de omstandigheid dat de overtreder inmiddels adequate maatregelen heeft genomen ter voorkoming van herhaling van de overtreding.
+- – de omstandigheid dat de overtreder inmiddels adequate maatregelen heeft genomen ter voorkoming van herhaling van de overtreding.
 
 4. Naast de hiervoor vermelde boeteverhogende en -verlagende omstandigheden, kan het Commissariaat ook andere omstandigheden in aanmerking nemen als boeteverhogende of ‑verlagende omstandigheid.
 
@@ -148,7 +114,7 @@ Tabel 3
 
 Indien de uitzonderlijke omstandigheden van het geval hiertoe naar het oordeel van het Commissariaat aanleiding geven, kan het Commissariaat afwijken van de hiervoor, in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042389&artikel=4&z=2019-07-11&g=2019-07-11), neergelegde berekeningssystematiek voor de bepaling van de hoogte van een bestuurlijke boete.
 
-##### Artikel 9. Intrekking [Beleidslijn Sanctiemaatregelen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029893)
+##### Artikel 9. Intrekking Beleidslijn Sanctiemaatregelen 2011
 
 De [Beleidslijn Sanctiemaatregelen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029893) wordt ingetrokken.
 
